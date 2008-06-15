@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the moveinmichigan.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/MIMPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveinmichigan.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/MIMPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |    **[Smooth Moves](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/SmoothMoves.aspx)**  
+|  |    **[Smooth Moves](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/SmoothMoves.aspx)**  
   
 ---|---  
-|    **[Real Estate Help](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/RealEstateLinks.aspx)**  
-|    **[Mortgage](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/MortgageLinks.aspx)**  
-|    **[Community](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/CommunityLinks.aspx)**  
-|    **[Home Services](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/HomeServicesLinks.aspx)**  
-|    **[Real Estate News](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/RealEstateNews.aspx)**  
-|    **[MI Time 2 Buy!](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/MITime2Buy.aspx)**  
+|    **[Real Estate Help](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/RealEstateLinks.aspx)**  
+|    **[Mortgage](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/MortgageLinks.aspx)**  
+|    **[Community](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/CommunityLinks.aspx)**  
+|    **[Home Services](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/HomeServicesLinks.aspx)**  
+|    **[Real Estate News](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/RealEstateNews.aspx)**  
+|    **[MI Time 2 Buy!](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/MITime2Buy.aspx)**  
   [](https://web.archive.org/AdHitStats.aspx?AdID=1&URL=/MITime2Buy.aspx)  
     [](http://www.hud.gov/offices/fheo/index.cfm)  
     [](http://www.realtor.org/home_buyers_and_sellers/index.html)  
     [](http://www.realcomp.com/)  
-      **2007© Realcomp II Ltd**  
+      **2008© Realcomp II Ltd**  
 |  |   
 ---  
   
@@ -50,14 +50,14 @@ Realcomp is not responsible for the availability of or the business and privacy 
 Realcomp reserve the right to change or amend its Privacy Policy to address new issues of privacy and information security and to reflect changes to our Web site or business practices. Any new changes and/or amendments will be noted on our Home Page and will always be posted in this section of the MoveInMichigan Web site. If we make material changes to this policy in how we use your personal information, we will notify you here or by means of a notice on our home page. 
 
 **QUESTIONS ABOUT OUR PRIVACY POLICY:**  
-If you have any questions about this Privacy Policy or the practices of this Web site, you can send an [e-mail](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/Feedback.aspx), contact us at Realcomp II Ltd., 28555 Orchard Lake Road, Suite 200, Farmington Hills, MI 48334, or call us toll-free at 866-553-3003.   
+If you have any questions about this Privacy Policy or the practices of this Web site, you can send an [e-mail](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/Feedback.aspx), contact us at Realcomp II Ltd., 28555 Orchard Lake Road, Suite 200, Farmington Hills, MI 48334, or call us toll-free at 866-553-3003.   
   
 * * *
 
-| **[About Us](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/AboutUs.aspx)** | **[Benefits](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/Benefits.aspx)** | **[Company Profile](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/CompanyProfile.aspx)** | **[Contact Us](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/Feedback.aspx)** | **[Site Map](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/SiteMap.aspx)** | **[Privacy Policy](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/MIMPolicy.aspx)** | **[Terms of Use](https://web.archive.org/web/20071214101831id_/http%3A//moveinmichigan.com/TermsOfUsage.aspx)**  
+| **[About Us](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/AboutUs.aspx)** | **[Benefits](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/Benefits.aspx)** | **[Company Profile](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/CompanyProfile.aspx)** | **[Contact Us](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/Feedback.aspx)** | **[Site Map](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/SiteMap.aspx)** | **[Privacy Policy](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/MIMPolicy.aspx)** | **[Terms of Use](https://web.archive.org/web/20080615181721id_/http%3A//www.moveinmichigan.com/TermsOfUsage.aspx)**  
 ---|---|---|---|---|---|---  
 **  
 Disclaimer:**  
-Copyright 2007 Realcomp II Ltd. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of Realcomp II Ltd., unless otherwise specified. MoveInMichigan is the official site of Realcomp II Ltd. and is operated by Realcomp II Ltd. 
+Copyright 2008 Realcomp II Ltd. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of Realcomp II Ltd., unless otherwise specified. MoveInMichigan is the official site of Realcomp II Ltd. and is operated by Realcomp II Ltd. 
 
 While Realcomp believes that the information contained in this website is accurate and correct, Realcomp does not warrant the accuracy or the correctness of any records or data. There are no warranties, express or implied, including, but not limited to, any warranties of merchantability or fitness for any particular purpose inherent in this website.
