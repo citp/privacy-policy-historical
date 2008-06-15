@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042538id_/http%3A//www.ishafoundation.org/Copyright.isa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616010516id_/http%3A//www.ishafoundation.org/Copyright.isa) for the most accurate reproduction.*
 
 # Isha Foundation - Copyright
 
-**Copyright Information and Privacy Policy (updated 10/29/06)** This is the website of Isha Foundation. Our postal address is:   
+**Copyright Information and Privacy Policy (updated 10/29/06)**
+
+This is the website of Isha Foundation. Our postal address is:   
 Isha Foundation, Inc.   
-191 Anthony Dr.   
+951 Isha Lane,   
 McMinnville, TN 37110 USA
 
 Email us at [info@ishafoundation.org.](mailto:info@ishafoundation.org.)
 
-Telephone us at 866-424-ISHA, or at the numbers provided on our [ContactUs]() page. 
+Telephone us at 866-424-ISHA, or at the numbers provided on our [Contact Us](http://www.ishafoundation.org/ContactUs) page. 
 
 **Copyright Information**
 
@@ -46,7 +48,7 @@ When we request certain types of sensitive information, such as health or financ
 
 If you feel that this website is not following this privacy policy, you may contact us at the addresses or telephone numbers provided above.Copyright Information and Privacy Policy (updated 10/29/06) This is the website of Isha Foundation. Our postal address is:   
 Isha Foundation, Inc.  
-191 Anthony Dr.  
+951 Isha Lane,  
 McMinnville, TN 37110 USA
 
 Email us at [info@ishafoundation.org.](mailto:info@ishafoundation.org.)
