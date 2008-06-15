@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213084849id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615023733id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LyricsMode.com
 
@@ -10,7 +10,7 @@
 
 4\. Cookies. Cookies are used for logins, and for logins only. These cookies do not receive any information about you or your system, and are used only for authorization purposes 
 
-5\. Ip Adresses. LyricsMode.Com uses your IP Adress for tracking purposes only. 
+5\. IP Adresses. LyricsMode.Com uses your IP Adress for tracking purposes only. 
 
 6\. Computer Information. LyricsMode.Com gathers your computer resolution and operating system by using a tracker. This information is only used to make our site better accessible to the viewers. 
 
@@ -18,4 +18,4 @@
 
 8\. Choice / Opt-Out. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [webmaster@lyricsmode.com](mailto:webmaster@lyricsmode.com)
 
-9\. Contacting the Web Site. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](). 
+9\. Contacting the Web Site. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/about/about.php). 
