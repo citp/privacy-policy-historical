@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011083102id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615161547id_/http%3A//bestanimations.com./Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
@@ -29,4 +29,4 @@ If you would like to "opt out," that is, to prevent any data from being stored b
 
 Flycast works with several recognized trade associations and privacy groups that are both actively shaping privacy policies and support consumer privacy. We are actively participating in the Direct Marketing Association's efforts to establish industry guidelines that safeguard the right to privacy, and are members of the Ad Club of New York, the New York New Media Association, the Interactive Advertising Bureau.
 
-[Return to Best Animations main menu](https://web.archive.org/web/20071011083102id_/http%3A//bestanimations.com/index.html)
+[Return to Best Animations main menu](https://web.archive.org/web/20080615161547id_/http%3A//bestanimations.com./index.html)
