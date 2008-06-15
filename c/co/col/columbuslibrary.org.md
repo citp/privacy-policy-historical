@@ -1,7 +1,7 @@
-> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216050021id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615135702id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.*
 
 # CML Privacy Statement
 
 PRIVACY STATEMENT 
 
-You may choose to provide the library with personal information, as in an e-mail address or an on-line customer profile. We use this information to improve services to you. We will not share this information or any other personal information about library customers with outside parties, except parents/guardians of minors, unless required to do so by a court order. 
+You may choose to provide the library with personal information, as in an email address or an on-line customer profile. We use this information to improve services to you. We will not share this information or any other personal information about library customers with outside parties, except parents/guardians of minors, unless required to do so by a court order. 
