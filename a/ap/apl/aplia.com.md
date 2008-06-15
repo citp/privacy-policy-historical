@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217012528id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615132946id_/http%3A//www.aplia.com/support/privacy.jsp) for the most accurate reproduction.*
 
 # Aplia: Engage. Prepare. Educate. :: Aplia Privacy Notice
 
@@ -9,12 +9,12 @@ Your privacy is important to us. To better protect your privacy, we provide this
 What We Will NOT Do With Your Personal Information  
 Aplia will NOT do the following with your personal information: 
 
-  * We will NOT sell your personal information, such as your name, email address or street address, to third parties.
-  * We will NOT use your email address to send you marketing materials.
+  * We will NOT sell your personal information, such as your name, e-mail address or street address, to third parties.
+  * We will NOT use your e-mail address to send you marketing materials.
 
   
 When We Collect Your Personal Information  
-You are required to register with us before you can gain access to the course sections of our website. During registration you are required to give your name and email address. It is only necessary for you to register once. 
+You are required to register with us before you can gain access to the course sections of our website. During registration you are required to give your name and e-mail address. It is only necessary for you to register once. 
 
 When you purchase a product or service, we collect your contact information (such as your address) and financial information (such as your credit/debit card information). We use the information you provide only to complete that product order or fulfill the service. We do not share this information with unaffiliated parties except to the extent necessary to complete that transaction. If we have trouble processing an order, we use the information to contact you. 
 
@@ -23,12 +23,12 @@ When you enroll in a course, we may ask you to provide your student identificati
 Why We Need Your Personal Information  
 Your personal information is used **only** for the following purposes: 
 
-  * Your email address and password will be used to identify you as an authorized user of our services.
-  * Your name may be used to identify you when you participate in an Aplia multi-user interactive experiment, simulation, chat session, email exchange or bulletin board. 
-  * Your email address may be used to send you your password if you forget it. 
-  * Your email address may be used to contact you about site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the service. 
+  * Your e-mail address and password will be used to identify you as an authorized user of our services.
+  * Your name may be used to identify you when you participate in an Aplia multi-user interactive experiment, simulation, chat session, e-mail exchange or bulletin board. 
+  * Your e-mail address may be used to send you your password if you forget it. 
+  * Your e-mail address may be used to contact you about site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the service. 
   * The contact and financial information you provide when you purchase a product or service will be used to complete that product order or fulfill the service.
-  * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your email address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information. 
+  * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your e-mail address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information. 
   * We may also use or disclose information to resolve disputes, investigate problems, or enforce our Terms and Conditions of Use. At times, we may review status and activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
 
@@ -61,7 +61,7 @@ Accuracy and Right to Correct
 We continually strive to maintain complete and accurate information about you. To assist in maintaining this accuracy we provide you with a way to review and update your personal information. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will use reasonable efforts to investigate your concerns and correct any inaccuracies. To attempt to protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 Notification of Changes  
-Aplia reserves the right at any time to modify any of the foregoing policies. Aplia will let you know if we decide to change our privacy policy. We will post a notice of any changes on our website. As a result, you will always be aware of what information we collect, why we collect the information and how we use the information. If we decide to use personally identifiable information in a way that is different from what we said when we collected your information, we will contact you by email. You will have a choice as to whether or not we use your information in this different way. We will use information in accordance with the privacy policy under which the information was collected. 
+Aplia reserves the right at any time to modify any of the foregoing policies. Aplia will let you know if we decide to change our privacy policy. We will post a notice of any changes on our website. As a result, you will always be aware of what information we collect, why we collect the information and how we use the information. If we decide to use personally identifiable information in a way that is different from what we said when we collected your information, we will contact you by e-mail. You will have a choice as to whether or not we use your information in this different way. We will use information in accordance with the privacy policy under which the information was collected. 
 
 Compliance with Laws  
 Aplia is committed to complying with all applicable legal requirements in the operation of this website. Should you ever have reason to believe that Aplia's privacy policy does not comply with any applicable law, please notify us immediately. We will use reasonable efforts to investigate your concerns to ensure legal compliance. 
@@ -70,6 +70,6 @@ Your Consent
 By using our website, you consent to the collection and use of this information in the manner we describe. 
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@aplia.com](mailto:privacy@aplia.com).
+Should you have other questions or concerns about these privacy policies, please send us an e-mail at [privacy@aplia.com](mailto:privacy@aplia.com).
 
 Updated: September, 2007
