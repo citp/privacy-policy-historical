@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214223957id_/http%3A//www.jambands.com/Privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174939id_/http%3A//www.jambands.com/Privacy.phtml) for the most accurate reproduction.*
 
 # Jambands.com - Get Your Groove On-Line
 
