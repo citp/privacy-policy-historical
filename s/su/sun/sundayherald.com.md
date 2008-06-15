@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundayherald.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234502id_/http%3A//www.sundayherald.com/misc/privacytext.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundayherald.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142425id_/http%3A//www.sundayherald.com/misc/privacytext.php) for the most accurate reproduction.*
 
 # Sunday Herald: Misc
 
