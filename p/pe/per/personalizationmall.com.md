@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110150id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615143029id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,5 +31,5 @@ Phone: 630-910-6000
 Fax: 630-910-6006  
 Email: [Service@PersonalizationMall.com](mailto:Service@PersonalizationMall.com)  
   
-[](http://www.personalizationmall.com/category.aspx?storeid=3&categoryid=1027)|   
+[](http://www.personalizationmall.com/Default.aspx)|   
 ---|---
