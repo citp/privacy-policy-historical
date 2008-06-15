@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214195950id_/http%3A//www.cyberguys.com/templates/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615155622id_/http%3A//www.cyberguys.com/templates/Privacy.asp) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
 |   
 ---  
-[](https://www.cyberguys.com/MyAccount/MyCatalog.asp?ureq=Y)  
+|  My Account |  |   
+---|---|---  
+|  |   
+---  
+[](https://www.cyberguys.com/MyAccount/MyCatalog.asp?ureq=Y "Order your FREE Catatog from Cyberguys")  
   
 |   
 ---  
@@ -12,7 +16,7 @@
 |  Privacy and Security  
 ---  
   
-[](http://www.cyberguys.com/templates/SearchProducts.asp?categoryID=29)  
+[](http://www.cyberguys.com/Index.asp)  
   
 ---  
 This is the web site of Cyberguys!®  
