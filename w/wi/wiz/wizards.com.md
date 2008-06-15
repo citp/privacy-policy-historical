@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224235138id_/http%3A//wizards.com/default.asp%3Fx%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141306id_/http%3A//www.wizards.com/default.asp%3Fx%3Dprivacystatement) for the most accurate reproduction.*
 
 # Wizards of the Coast
 
