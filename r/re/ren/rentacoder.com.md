@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214010921id_/http%3A//rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615030757id_/http%3A//www.rentacoder.com./RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|   
----  
-   
-   
-   
-   
-   
-[(See all)](https://web.archive.org/RentACoder/misc/BidRequests/ShowBidRequests.asp?lngBidRequestListType=3&optSortTitle=2&lngBidRequestCategoryId=-1&txtMaxNumberOfEntriesPerPage=10&optBidRequestPhase=2&lngSortColumn=-6&blnModeVerbose=True&optBiddingExpiration=1)  
-  
-This list has been moved in response to requests to save the large amount of bandwidth it consumed for many users (on each and every page). You can now find the complete list by going above to the "Software Coders" menu and clicking on the:  
-"Browse All Work" link.   
-   
-   
-   
+|     
 
+
+**Site Wide Message:**  (current site time 6/14/2008 11:10:40 PM EDT)  
+
+
+*Attention RAC Users: Update to Phishing Scheme on RAC site*
+
+The last 2 weeks there were 4 bid requests that were posted and contained a link that was supposed to go to the buyer's site. The same person has now started to place bids as a coder, and gives a link to their portfolio. The link actually brings up a fake RAC login screen. This person used this to try to capture login information for RAC users. If you think you may have been a victim of this phishing scheme, you should immediately change your login information and contact RAC. 
+
+Remember that you will never be asked for your RAC login information if you are going to a link outside of RAC. If you see anything suspicious please contact us immediately.
 
 Privacy Statement
 
@@ -75,12 +71,4 @@ At the request of any user, we will close out that user's account, disabling all
 **Other**  
 Any and all postings and/or transmissions done on Exhedra systems can and are routinely monitored by staff for legal and terms of service violations. Exhedra uses the best of its ability, utilizing state of the art techniques to protect all privacy related data from external and unauthorized party access. However no security sytem is 100% full-proof, so should sensitive data be compromised, Exhedra will alert the affected parties immediately via email addresses as registered on the site. Due to the nature of security, Exhedra will not be held liable for any such security compromise, or any resulting loss or action resulting from such a compromise.
 
-|  |   
----  
-  
-Created in partnership with:  
-[ ](http://www.planet-source-code.com/)   
-   
-  
-  
-
+| 
