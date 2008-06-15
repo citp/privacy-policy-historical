@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2007-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227052147id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615174535id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Hawes &amp; Curtis - Privacy Policy</title>
@@ -7,22 +7,11 @@
 <meta name="title" content="Hawes and Curtis. Men's and Ladies Shirts, Ties, Cufflinks. Jermyn Street. Established 1913">
 <meta name="Keywords" content="men's and ladies,formal,fashion,shirts,silk ties,city business,cufflinks,jermyn street,slim fit,hipster,cotton shirts,cut away,collar,double cuff,fitted,shirtmakers,size">
 <meta name="Description" content="Hawes and Curtis Jermyn Street shirtmakers London for men's and ladies formal and fashion shirts. A large range of silk ties, cufflinks, womens slim fit shirts. Styles include business, city, cotton and poplin.">
-<meta name="Revisit-after" content="21 days">
-<meta http-equiv="Pragma" content="no-cache">
-<!-- Google Code for Default Conversion Page -->
-<script language="JavaScript" type="text/javascript">
-<!--
-var google_conversion_type = 'landing';
-var google_conversion_id = 1068316294;
-var google_conversion_language = "en_GB";
-var google_conversion_format = "1";
-var google_conversion_color = "666666";
--->
-</script>
-<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
- <img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068316294/extclk?script=0">
-</noscript> 
+<meta name="Revisit-after" content="7 days">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta http-equiv="Pragma" content="no-cache">
+
 <script language="JavaScript" src="js/resource.js" type="text/javascript"></script>
 <link href="style/main.css" type="text/css" rel="stylesheet">
 <script type="text/javascript" src="jquery/jquery.js"></script>
@@ -30,7 +19,6 @@ var google_conversion_color = "666666";
 <script language="javascript1.2" type="text/javascript" src="jquery/interface.js"></script>	
 
 <link rel="stylesheet" type="text/css" media="screen" href="jquery/jq.css">
-
 
 
 <script src="jquery/jquery.dimensions.js" type="text/javascript"></script>
@@ -134,22 +122,6 @@ function sizing(pid)
 
 function CopyToBilling()
 {
-	MkSame = 1
-//	var max = document.shipbillform.samebill.length;
-//	for (var idx = 0; idx < max; idx++) {
-//		if (document.shipbillform.samebill[idx].checked == true) 
-//		{
-//			if (document.shipbillform.samebill[idx].value == "YES") 
-//			{
-//				MkSame = 1
-//			}
-//			
-//		}
-//	}
-	
-	
-	if (MkSame == 1) {
-
 		document.shipbillform.billcountry.value = document.shipbillform.shipcountry.value
 		document.shipbillform.billtitle.value = document.shipbillform.shiptitle.value
 		document.shipbillform.billfirstname.value = document.shipbillform.shipfirstname.value
@@ -161,14 +133,43 @@ function CopyToBilling()
 		document.shipbillform.billaddress2.value = document.shipbillform.shipaddress2.value
 		document.shipbillform.billtown.value = document.shipbillform.shiptown.value
 		document.shipbillform.billregion.value = document.shipbillform.shipregion.value
-
-		
-	}
-
 }
 
+function CopyToShipping()
+{
+	if (document.shipbillform.samebill[0].checked == true)
+	{
+		document.shipbillform.shipcountry.value = document.shipbillform.billcountry.value
+		document.shipbillform.shiptitle.value = document.shipbillform.billtitle.value
+		document.shipbillform.shipfirstname.value = document.shipbillform.billfirstname.value
+		document.shipbillform.shiplastname.value = document.shipbillform.billlastname.value
+		document.shipbillform.shiptelephone.value = document.shipbillform.billtelephone.value
+		document.shipbillform.shippostcode.value = document.shipbillform.billpostcode.value
+		document.shipbillform.shipaddress1.value = document.shipbillform.billaddress1.value
+		document.shipbillform.shipaddress2.value = document.shipbillform.billaddress2.value
+		document.shipbillform.shiptown.value = document.shipbillform.billtown.value
+		document.shipbillform.shipregion.value = document.shipbillform.billregion.value
+		if (document.shipbillform.shippostcode.value != document.shipbillform.billpostcode.value) 
+		{
+			$('#companyrow').removeClass('hidelastshipping');
+		}
+	}
+}
 
+function ClearShipping() {
 
+		document.shipbillform.shipcountry.selectedIndex = 0
+		document.shipbillform.shiptitle.selectedIndex = 0
+		document.shipbillform.shipfirstname.value = ''
+		document.shipbillform.shiplastname.value = ''
+		document.shipbillform.shiptelephone.value = ''
+		document.shipbillform.shippostcode.value = ''
+		document.shipbillform.shipaddress1.value = ''
+		document.shipbillform.shipaddress2.value = ''
+		document.shipbillform.shiptown.value = ''
+		document.shipbillform.shipregion.value = ''
+		$('#companyrow').addClass('hidelastshipping');
+}
 function ClearBilling() {
 
 		document.shipbillform.billcountry.selectedIndex = 0
@@ -183,7 +184,6 @@ function ClearBilling() {
 		document.shipbillform.billaddress2.value = ''
 		document.shipbillform.billtown.value = ''
 		document.shipbillform.billregion.value = ''
-
 }
 
 
@@ -384,77 +384,24 @@ var doc = document.getElementsByTagName('div');
 	}
 }
 
+function CheckPostcode() {
+	if (document.shipbillform.shippostcode.value == document.shipbillform.billpostcode.value) {
+		document.shipbillform.shipcompanyname_val.value = 'N,tx,0,0,0,0,0'
+		$('#companyrow').addClass('hidelastshipping');
+	}
+	else
+	{
+		document.shipbillform.shipcompanyname_val.value = 'R,tx,0,0,0,0,0'
+		$('#companyrow').removeClass('hidelastshipping');
+	}
+}
+
+
 </script>
 
 </head>
 <body stats="1">
-
-<!-- Start of DeepMetrix (.NET) StatScript -->
-<script language="javascript">
-
-var DMNETdomain = "";
-var DMNETpage = window.location;
-var DMNETversion = "86";
-var DMNETsendTo = "//collector.gurus.co.uk/dm.gif?";
-var DMNETsession;
-
-function dmneterr(){return true;}
-
-window.onerror=dmneterr;
-var s = new Date();
-
-if (navigator.userAgent.indexOf('Mac') >= 0 && s.getTimezoneOffset() >= 720)
-  s.setTime (s.getTime() - 1440*60*1000);
-
-var dmnetURL = location.protocol + DMNETsendTo+"v="+DMNETversion+"&vst=1";
-var dmnetCookieString = document.cookie.toString();
-
-if(dmnetCookieString.indexOf("_dmnid") == -1)
-  {
-    DMNETsession = parseInt( Math.random()*1000000 ) + "_" + s.getTime();
-    var domStr = "";
-    if(DMNETdomain != "")
-    {
-      domStr = "domain="+ DMNETdomain +";";
-    }
-    document.cookie = "_dmnid=" + DMNETsession + ";expires=Mon, 31-Dec-2008 00:00:00 GMT;"+domStr+"path=/;";
-  }
-dmnetCookieString = document.cookie.toString();
-if(dmnetCookieString.indexOf('_dmnid') == -1)
-  {
-    DMNETsession = "";
-  }
-else
-  {
-    if(dmnetCookieString.indexOf(';') == -1)
-      dmnetCookieString = dmnetCookieString.replace(/_dm/g, ';_dm');
-
-    var start = dmnetCookieString.indexOf("_dmnid=") + 7;
-    var end = dmnetCookieString.indexOf(";",start);
-
-    if (end == -1)
-      end = dmnetCookieString.length;
-    DMNETsession = unescape(dmnetCookieString.substring(start,end));
-  }
-dmnetURL += "&id="+DMNETsession+"&url="+escape(DMNETpage) + "&ref="+escape(document.referrer)+"&lng=" + ((!document.all ||  navigator.userAgent.match('Opera')) ? navigator.language : navigator.userLanguage) + "&tz=" + (Math.round(new Date('dec 1, 2002').getTimezoneOffset()/60)*-1);
-if(screen)
-  dmnetURL += "&scr=" + escape( screen.width + "x" + screen.height + " " + screen.colorDepth + "bpp" );
-
-dmnetURL += "&rnd=" + new Date().getTime();
-
-if(document.layers)
-{
-  document.write("<la"+"yer name=\"DMStats\" visibility=hide><img src=\""+dmnetURL+"\" height=1 width=1></la"+"yer>");
-}
-else
-{
-  document.write("<di"+"v id=\"DMStats\" STYLE=\"position:absolute;visibility:hidden;\"><img src=\""+dmnetURL+"\" height=1 width=1></di"+"v>");
-}
-
-</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://collector.gurus.co.uk/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20071227052147id_/http%253A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1582140802252" height="1" width="1"></div>
 <div id="container">
-<div id="lastshipping" class="hidelastshipping"><img src="../jquery/wait.gif" width="43" height="11" alt=""></div>
-<div id="closeshipping" class="hidecloseshippingbtn"><a id="btncloseshipping" href="javascript:HideShipping()"><img src="assets/xmas/ajaxclose.png" width="24" height="24" alt=""></a></div><a id="btncloseshipping" href="javascript:HideShipping()">
   <div id="toplinks">
     <form name="searchform" action="search_shirts_results.asp">
       <table cellpadding="0" cellspacing="0" border="0" align="center" width="760">
@@ -470,25 +417,34 @@ else
 						<ul style="" id="x1ub0z0">
 						<li id="ulitem0z0z0"><a href="choose.asp?typeid=allmens" id="ulaitem0z0z0">All Men's Shirts</a></li>
 							<li id="ulitem0z0z1"><a style="color: #999999;" id="ulaitem0z0z1"><b>-----Formal Shirts-----</b></a></li>
-						  	<li id="ulitem0z0z2"><a href="choose.asp?typeid=formalshirts" id="ulaitem0z0z2">All Formal Shirts</a></li>
-						  	<li id="ulitem0z0z3"><a href="choose.asp?typeid=183" id="ulaitem0z0z3">Windsor Full Cutaway</a></li>
-						  	<li id="ulitem0z0z4"><a href="choose.asp?typeid=182" id="ulaitem0z0z4">Warwick Semi-Cutaway </a></li>
-						  	<li id="ulitem0z0z5"><a href="choose.asp?typeid=209" id="ulaitem0z0z5">Warwick Slim-Fit</a></li>
-						  	<li id="ulitem0z0z6"><a href="choose.asp?typeid=181" id="ulaitem0z0z6">Ludlow Semi-Cutaway </a></li>
-						   	<li id="ulitem0z0z7"><a href="choose.asp?typeid=205" id="ulaitem0z0z7">Clifford Short Sleeve</a></li>
+							<li id="ulitem0z0z2"><a href="choose.asp?typeid=formalshirts" id="ulaitem0z0z2">All Formal Shirts</a></li>
+							<li id="ulitem0z0z3"><a href="choose.asp?typeid=244" id="ulaitem0z0z3">Mens White Shirts <span class="menunew">(New)</span></a></li>
+						  	<li id="ulitem0z0z4"><a href="choose.asp?typeid=183" id="ulaitem0z0z4">Windsor Full Cutaway</a></li>
+						  	<li id="ulitem0z0z5"><a href="choose.asp?typeid=182" id="ulaitem0z0z5">Warwick Semi-Cutaway </a></li>
+						  	<li id="ulitem0z0z6"><a href="choose.asp?typeid=209" id="ulaitem0z0z6">Warwick Tailored Fit</a></li>
+						  	<li id="ulitem0z0z7"><a href="choose.asp?typeid=181" id="ulaitem0z0z7">Ludlow Semi-Cutaway </a></li>
+						   	<li id="ulitem0z0z8"><a href="choose.asp?typeid=205" id="ulaitem0z0z8">Clifford Short Sleeve</a></li>
+							
 						  				  
-						  	<li id="ulitem0z0z8"><a style="color: #999999;" id="ulaitem0z0z8"><b>-Curtis Fashion Shirts-</b></a></li>
-							<li id="ulitem0z0z9"><a href="choose.asp?typeid=fashionshirts" id="ulaitem0z0z9">All Curtis Fashion Shirts</a></li>
-						  	<li id="ulitem0z0z10"><a href="choose.asp?typeid=188" id="ulaitem0z0z10">Brandon Slim-Fit</a></li>
-						  	<li id="ulitem0z0z11"><a href="choose.asp?typeid=191" id="ulaitem0z0z11">York Slim-Fit</a></li>
-						  	<li id="ulitem0z0z12"><a href="choose.asp?typeid=190" id="ulaitem0z0z12">Stirling Slim-Fit</a></li>
-							<li id="ulitem0z0z13"><a href="choose.asp?typeid=220" id="ulaitem0z0z13">Hurst Slim-Fit</a></li>
-						  	<li id="ulitem0z0z14"><a href="choose.asp?typeid=207" id="ulaitem0z0z14">Curtis Polo Shirts</a></li>
+						  	<li id="ulitem0z0z9"><a style="color: #999999;" id="ulaitem0z0z9"><b>-Curtis Fashion Shirts-</b></a></li>
+							<li id="ulitem0z0z10"><a href="choose.asp?typeid=fashionshirts" id="ulaitem0z0z10">All Curtis Fashion Shirts</a></li>
+							<li id="ulitem0z0z11"><a href="choose.asp?typeid=245" id="ulaitem0z0z11">Mens White Shirts <span class="menunew">(New)</span></a></li>
+						  	<li id="ulitem0z0z12"><a href="choose.asp?typeid=188" id="ulaitem0z0z12">Brandon Slim-Fit</a></li>
+							<li id="ulitem0z0z13"><a href="choose.asp?typeid=227" id="ulaitem0z0z13">Brandon Short Sleeve <span class="menunew">(New)</span></a></li>
+						  	<li id="ulitem0z0z14"><a href="choose.asp?typeid=191" id="ulaitem0z0z14">York Slim-Fit</a></li>
+						  	<li id="ulitem0z0z15"><a href="choose.asp?typeid=190" id="ulaitem0z0z15">Stirling Slim-Fit</a></li>
+							<li id="ulitem0z0z16"><a href="choose.asp?typeid=220" id="ulaitem0z0z16">Hurst Slim-Fit</a></li>
+						  	<li id="ulitem0z0z17"><a href="choose.asp?typeid=207" id="ulaitem0z0z17">Curtis Polo Shirts</a></li>
+							<li id="ulitem0z0z18"><a href="choose.asp?typeid=189" id="ulaitem0z0z18">Chelsea Fitted</a></li>
+							<li id="ulitem0z0z19"><a href="choose.asp?typeid=224" id="ulaitem0z0z19">Kent Slim-Fit</a></li>
+							
 											  			
-						  	<li id="ulitem0z0z15"><a style="color: #999999;" id="ulaitem0z0z15"><strong>-------By Pattern-------</strong></a></li>
-				  		  	<li id="ulitem0z0z16"><a href="choose.asp?typeid=plainshirts" id="ulaitem0z0z16">Plain Shirts </a></li>
-						  	<li id="ulitem0z0z17"><a href="choose.asp?typeid=checkedshirts" id="ulaitem0z0z17">Checked Shirts </a></li>
-						  	<li id="ulitem0z0z18"><a href="choose.asp?typeid=stripedshirts" id="ulaitem0z0z18">Striped Shirts </a></li>
+						  	<li id="ulitem0z0z20"><a style="color: #999999;" id="ulaitem0z0z20"><strong>-------By Pattern-------</strong></a></li>
+				  		  	<li id="ulitem0z0z21"><a href="choose.asp?typeid=plainshirts" id="ulaitem0z0z21">Plain Shirts </a></li>
+						  	<li id="ulitem0z0z22"><a href="choose.asp?typeid=checkedshirts" id="ulaitem0z0z22">Check Shirts </a></li>
+						  	<li id="ulitem0z0z23"><a href="choose.asp?typeid=stripedshirts" id="ulaitem0z0z23">Striped Shirts </a></li>
+							<li id="ulitem0z0z24"><a style="color: #999999;" id="ulaitem0z0z24"><strong>-------------------------</strong></a></li>
+							<li id="ulitem0z0z25"><a href="choose.asp?typeid=217" id="ulaitem0z0z25">Mens Clearance</a></li>
 						  
 						</ul>
 					  </div>
@@ -499,13 +455,15 @@ else
 					  <div style="width:170px;top:4px;left:2px;" class="imsubc">
 						<ul style="" id="x1ub0z1">
 							<li id="ulitem0z1z0"><a href="choose.asp?typeid=allladies" id="ulaitem0z1z0">All Ladies Shirts</a></li>
-						   <li id="ulitem0z1z1"><a href="choose.asp?typeid=184" id="ulaitem0z1z1">Hipster Slim-Fitted </a></li>
-						   <li id="ulitem0z1z2"><a href="choose.asp?typeid=185" id="ulaitem0z1z2">Massimo Semi-Fitted </a></li>
-						   <li id="ulitem0z1z3"><a href="choose.asp?typeid=197" id="ulaitem0z1z3">Three Quarter Semi-Fitted</a></li>
-						   <li id="ulitem0z1z4"><a href="choose.asp?typeid=210" id="ulaitem0z1z4">Sophie Semi-Fit</a></li>
-						   <li id="ulitem0z1z5"><a href="choose.asp?typeid=213" id="ulaitem0z1z5">Claire Semi-Fitted <span class="qtyerror" style="font-size:xx-small;">(New)</span></a></li>
-	
-			   
+							<li id="ulitem0z1z1"><a href="choose.asp?typeid=246" id="ulaitem0z1z1">Ladies White Shirts <span class="menunew">(New)</span></a></li>
+						   <li id="ulitem0z1z2"><a href="choose.asp?typeid=184" id="ulaitem0z1z2">Hipster Slim-Fitted </a></li>
+						   <li id="ulitem0z1z3"><a href="choose.asp?typeid=185" id="ulaitem0z1z3">Massimo Semi-Fitted </a></li>
+						   <li id="ulitem0z1z4"><a href="choose.asp?typeid=197" id="ulaitem0z1z4">3 Quarter Sleeve Semi-Fitted</a></li>
+						   <li id="ulitem0z1z5"><a href="choose.asp?typeid=210" id="ulaitem0z1z5">Sophie Semi-Fitted</a></li>
+						   <li id="ulitem0z1z6"><a href="choose.asp?typeid=213" id="ulaitem0z1z6">Claire Semi-Fitted</a></li>
+						   <li id="ulitem0z1z7"><a href="choose.asp?typeid=187" id="ulaitem0z1z7">City Semi-Fit</a></li>
+						   <li id="ulitem0z1z8"><a href="choose.asp?typeid=225" id="ulaitem0z1z8">3 Quarter Sleeve Hipster Fitted <span class="menunew">(New)</span></a></li>
+						   <li id="ulitem0z1z9"><a href="choose.asp?typeid=226" id="ulaitem0z1z9">Emma Semi-Fitted <span class="menunew">(New)</span></a></li>
 						   
 						</ul>
 					  </div>
@@ -517,20 +475,22 @@ else
 						<ul style="" id="x1ub0z2">
 							<li id="ulitem0z2z0"><a style="color: #999999;" id="ulaitem0z2z0"><strong>---Mens Accessories---</strong></a></li>
 							<li id="ulitem0z2z1"><a href="choose.asp?typeid=accessories" id="ulaitem0z2z1">All Accessories</a></li>
-						   <li id="ulitem0z2z2"><a href="choose.asp?typeid=192" id="ulaitem0z2z2">Ties </a></li>
-						   <li id="ulitem0z2z3"><a href="choose.asp?typeid=193" id="ulaitem0z2z3">Cufflinks </a></li>
-						   <li id="ulitem0z2z4"><a href="choose.asp?typeid=200" id="ulaitem0z2z4">Solid Silver Cufflinks</a></li>
-						   <li id="ulitem0z2z5"><a href="choose.asp?typeid=196" id="ulaitem0z2z5">Silk Knots </a></li>
-						   <li id="ulitem0z2z6"><a href="choose.asp?typeid=202" id="ulaitem0z2z6">Silk Barrels</a></li>
-						   <li id="ulitem0z2z7"><a href="choose.asp?typeid=195" id="ulaitem0z2z7">Boxer Shorts </a></li>
-						   <li id="ulitem0z2z8"><a href="choose.asp?typeid=212" id="ulaitem0z2z8">Luxury Pyjamas <span class="qtyerror" style="font-size:xx-small;">(New)</span></a></li>
-						   <li id="ulitem0z2z9"><a href="choose.asp?typeid=215" id="ulaitem0z2z9">Mens Evening Wear <span class="qtyerror" style="font-size:xx-small;">(New)</span></a></li>
-						   <li id="ulitem0z2z10"><a href="choose.asp?typeid=217" id="ulaitem0z2z10">Mens Clearance <span class="qtyerror" style="font-size:xx-small;">(New)</span></a></li>   <!-- Mens Clearance -->
-						   <li id="ulitem0z2z11"><a style="color: #999999;" id="ulaitem0z2z11"><strong>--Ladies Accessories--</strong></a></li>
-						   <li id="ulitem0z2z12"><a href="choose.asp?typeid=allladiesaccessories" id="ulaitem0z2z12">All Accessories</a></li>
-						   <li id="ulitem0z2z13"><a href="choose.asp?typeid=201" id="ulaitem0z2z13">Silk Knots</a></li>
-						   <li id="ulitem0z2z14"><a href="choose.asp?typeid=214" id="ulaitem0z2z14">Cufflinks <span class="qtyerror" style="font-size:xx-small;">(New)</span></a></li>	  <!--ladies cufflinks -->	
-						   
+						   <li id="ulitem0z2z2"><a href="choose.asp?typeid=192" id="ulaitem0z2z2">Ties - Plain </a></li>
+						   <li id="ulitem0z2z3"><a href="choose.asp?typeid=247" id="ulaitem0z2z3">Ties - Designed</a></li>
+						   <li id="ulitem0z2z4"><a href="choose.asp?typeid=193" id="ulaitem0z2z4">Cufflinks </a></li>
+						   <li id="ulitem0z2z5"><a href="choose.asp?typeid=200" id="ulaitem0z2z5">Solid Silver Cufflinks</a></li>
+						   <li id="ulitem0z2z6"><a href="choose.asp?typeid=196" id="ulaitem0z2z6">Silk Knots </a></li>
+						   <li id="ulitem0z2z7"><a href="choose.asp?typeid=202" id="ulaitem0z2z7">Silk Barrels</a></li>
+						   <li id="ulitem0z2z8"><a href="choose.asp?typeid=195" id="ulaitem0z2z8">Boxer Shorts </a></li>
+						   <li id="ulitem0z2z9"><a href="choose.asp?typeid=212" id="ulaitem0z2z9">Luxury Pyjamas</a></li>
+						   <li id="ulitem0z2z10"><a href="choose.asp?typeid=215" id="ulaitem0z2z10">Mens Evening Wear</a></li>
+						   <li id="ulitem0z2z11"><a href="choose.asp?typeid=219" id="ulaitem0z2z11">Silk Handkerchiefs</a></li>
+						   <li id="ulitem0z2z12"><a href="choose.asp?typeid=217" id="ulaitem0z2z12">Mens Clearance</a></li>   <!-- Mens Clearance -->
+						   <li id="ulitem0z2z13"><a style="color: #999999;" id="ulaitem0z2z13"><strong>--Ladies Accessories--</strong></a></li>
+						   <li id="ulitem0z2z14"><a href="choose.asp?typeid=allladiesaccessories" id="ulaitem0z2z14">All Accessories</a></li>
+						   <li id="ulitem0z2z15"><a href="choose.asp?typeid=214" id="ulaitem0z2z15">Cufflinks</a></li>	  <!--ladies cufflinks -->	
+						   						   <li id="ulitem0z2z16"><a href="choose.asp?typeid=201" id="ulaitem0z2z16">Silk Knots</a></li>
+						   <li id="ulitem0z2z17"><a href="choose.asp?typeid=253" id="ulaitem0z2z17">Floral Silk Knots <span class="menunew">(New)</span></a></li>  <!--ladies floral silk knots -->
 						   
 					   
 						</ul>
@@ -581,9 +541,9 @@ else
       </tbody></table>
     </form>
   </div>
-  </a><div id="header"><a id="btncloseshipping" href="javascript:HideShipping()">
-    </a><div id="headercol1" style="background-image: url(images/images/general/ls_top_bg.jpg);height:119px;"><a id="btncloseshipping" href="javascript:HideShipping()">
-	  </a><div id="backtoplink"><a id="btncloseshipping" href="javascript:HideShipping()"></a><a href="javascript:history.back()"><span class="brntext">« Back</span></a></div>
+  <div id="header">
+    <div id="headercol1" style="background-image: url(images/images/general/ls_top_bg.jpg);height:119px;">
+	  <div id="backtoplink"><a href="javascript:history.back()"><span class="brntext">« Back</span></a></div>
 	  <div id="pagetitle">Privacy Policy</div>
 	</div>
      <div id="headercol2"><a href="index.asp"><img src="images/images/general/slogo.jpg" alt="Hawes &amp; Curtis"></a></div>
@@ -662,10 +622,24 @@ To protect the operation of our computer systems we monitor incoming and out goi
    <a href="about_us_and_shirts.asp">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="hc_shops_to_find_shirts.asp">H&amp;C shops</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="newsletter.asp" class="footerblue">Email Offers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact_about_shirts.asp">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="careers_with_shirts.asp">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="corporate_card_for_shirts.asp">Corporate card</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="shirts_refund_policy.asp">Refund policy</a>
   </div>
   <div id="footerlinks">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © Copyright 2007 Hawes &amp; Curtis | <a href="shirts_site_terms_use.asp" class="footergrey">Terms of use</a> | <a href="shirts_and_site_privacy_policy.asp" class="footergrey">Privacy Policy</a> | <a href="shirts_site_map.asp" class="footergrey">Site map</a> | <a href="shirts_and_security.asp" class="footergrey">Security</a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © Copyright 2008 Hawes &amp; Curtis | <a href="shirts_site_terms_use.asp" class="footergrey">Terms of use</a> | <a href="shirts_and_site_privacy_policy.asp" class="footergrey">Privacy Policy</a> | <a href="shirts_site_map.asp" class="footergrey">Site map</a> | <a href="shirts_and_security.asp" class="footergrey">Security</a>
   </div>
   <div id="footerlogo"><a href="http://www.gurus.co.uk" target="_blank"><img src="images/images/general/gurus_created_by.gif" alt="GURUS:"></a></div>
 </div>
+<!-- Google Code for Default Conversion Page -->
+<script language="JavaScript" type="text/javascript">
+<!--
+var google_conversion_type = 'landing';
+var google_conversion_id = 1068316294;
+var google_conversion_language = "en_GB";
+var google_conversion_format = "1";
+var google_conversion_color = "666666";
+-->
+</script>
+<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+ <img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068316294/extclk?script=0">
+</noscript> 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -673,7 +647,6 @@ _uacct = "UA-1182894-1";
 urchinTracker();
 </script>
 <script language="javascript" type="text/javascript" src="js/menu.js"></script><style id="ssimenus0" type="text/css">#ulitem0z0{float:left;}#ulitem0z1{float:left;}#ulitem0z2{float:left;}#ulitem0z3{float:left;}#imouter0 a{font-size:12px;}#imouter0 div{padding:0px;margin:0px;}#imouter0 span{padding:0px;margin:0px;}#imouter0 li{padding:0px;margin:0px;}#imouter0 ul{padding:0px;margin:0px;}#imcontainer20{position:static;}#imouter0{position:relative;width:100%;text-align:left;z-index:999980;padding:0px;}#imenus0,#imenus0 ul{margin:0;list-style:none;}BODY #imouter0{}#imenus0{padding:0px;}#imenus0 li ul{background-color:#F7F4EF;border-style:solid; border-color:#DDD6CE; border-width:1px; ;position:static;;}BODY #imenus0 li ul{}#imenus0 li div{position:absolute;}#imenus0 li .imsubc{position:absolute;visibility:hidden;}#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc,#imenus0 li.ishow li li li li li  .imsubc,#imenus0 li.ishow li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc,#imenus0 li li li li li.ishow .imsubc,#imenus0 li li li li li li.ishow .imsubc,#imenus0 li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li li.ishow .imsubc{visibility:visible;}#imenus0,#imenus0 li{font-size:1px;}#imenus0 li a img{vertical-align:bottom;display:inline;}#imenus0,#imenus0 ul{text-decoration:none;}#imenus0 ul li a.ihover{background-color:#B49674; color:#ffffff; }#imenus0 li a.ihover{color:#aa1c15; }#imenus0 li a.iactive{}#imenus0 ul li a.iactive{text-decoration:underline; }#imenus0 li a.iactive div img{visibility:visible;}#imenus0 li a{display:block;position:relative;color:#000000; text-align:left; font-family:verdana; font-size:10px; font-weight:bold; text-decoration:none; border-style:none; border-color:#000000; border-width:0px; padding:0px;}#imenus0 a img{border-width:0px;}BODY #imenus0 li a{}#imenus0 ul a{display:block;color:#61472E; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-color:#5493e3; border-width:0px; padding:4px 5px 4px 6px; }BODY #imenus0 ul a{}#imenus0 li{cursor:pointer;}#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}#imenus0 .imbuttons{}</style><div id="imtsize" style="position:absolute;visibility:hidden;padding:0px;"></div>
-
 
 
 </body></html>
