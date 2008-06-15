@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011165008id_/http%3A//www.myshop.com.pk/laptops-pakistan/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615125503id_/http%3A//www.myshop.com.pk/laptops-pakistan/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # MyShop OnLine: All About Laptops in Pakistan : Privacy Policy
 
