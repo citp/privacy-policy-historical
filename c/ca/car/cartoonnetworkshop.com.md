@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkshop.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110609id_/http%3A//www.cartoonnetworkshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkshop.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174403id_/http%3A//www.cartoonnetworkshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
-# Cartoon Network Shop - Privacy Policy
+# Cartoon Network Shop
 
 [Home](https://web.archive.org/) »  **Privacy Policy**
 
