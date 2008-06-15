@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014232223id_/http%3A//www.geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616014454id_/http%3A//www.geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
 
-# GeoLearning Privacy Notice
+# Privacy Notice
 
 GeoLearning recognizes the importance of protecting the privacy of our customers and other visitors to our Web site while permitting us to conduct legitimate business by providing services and information. Our privacy policy is stated below:
 
