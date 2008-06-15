@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214233106id_/http%3A//www.tcpalm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615232301id_/http%3A//www.tcpalm.com/privacy) for the most accurate reproduction.*
 
 # Privacy & User Agreement : : News : TCPalm
 
