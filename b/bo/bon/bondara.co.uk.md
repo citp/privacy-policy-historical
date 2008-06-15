@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bondara.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230162331id_/http%3A//www.bondara.co.uk/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bondara.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616010325id_/http%3A//www.bondara.co.uk/service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Bondara Sex Toys
 
@@ -32,4 +32,4 @@ Your personal information will not be passed on to others
 
 We only use your personal information to process your order and to send you the goods. So the only companies we need to share your information with are PROTX and our bank (if you are paying by card) and the courier company in order to arrange the delivery of your goods. 
 
-Please [contact us](https://web.archive.org/web/20071230162331id_/http%3A//www.bondara.co.uk/service/contact.html) if you have any questions about our Privacy Policy.
+Please [contact us](https://web.archive.org/web/20080616010325id_/http%3A//www.bondara.co.uk/service/contact.html) if you have any questions about our Privacy Policy.
