@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the blogslinger.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214110110id_/http%3A//blogslinger.com/%3FL%3Dinfo.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogslinger.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615035352id_/http%3A//www.blogslinger.com/%3FL%3Dinfo.terms) for the most accurate reproduction.*
 
 # BlogSlinger
 
-  |   |    
----|---|---  
-|   |   
----|---  
-  | Below are our Terms of Use and Privacy Policy. Please take a moment of your time to read what we expect of our members and how we are devoted to protecting your privacy.   
+Terms of use / Privacy policy
+
+| Below are our Terms of Use and Privacy Policy. Please take a moment of your time to read what we expect of our members and how we are devoted to protecting your privacy.   
   
-  | 
+---  
+  
+  * Privacy Policy 
+  * Terms of Use 
+
+
 
 ## Privacy Policy 
 
@@ -139,7 +142,7 @@ BlogSlinger is not responsible for any incorrect or inaccurate Content posted on
 Except in jurisdictions where such provisions are restricted, in no event will BlogSlinger be liable to you or any third person for any indirect, consequential, exemplary, incidental, special or punitive damages, including also lost profits arising from your use of the Web site or the Service, even if BlogSlinger has been advised of the possibility of such damages. Notwithstanding anything to the contrary contained herein, BlogSlinger liability to you for any cause whatsoever, and regardless of the form of the action, will at all times be limited to the amount paid, if any, by you to BlogSlinger for the Service during the term of membership. 
 
 **12\. Disputes.**   
-If there is any dispute about or involving the Website and/or the Service, by using the Website, you agree that the dispute will be governed by the laws of [YOUR JURISDICTION] without regard to its conflict of law provisions. You agree to personal jurisdiction by and venue in [YOUR INFO HERE]. 
+If there is any dispute about or involving the Website and/or the Service, by using the Website, you agree that the dispute will be governed by the laws of India without regard to its conflict of law provisions. You agree to personal jurisdiction by and venue in New Delhi. 
 
 **13\. Indemnity.**   
 You agree to indemnify and hold BlogSlinger, its subsidiaries, affiliates, officers, agents, and other partners and employees, harmless from any loss, liability, claim, or demand, including reasonable attorney's fees, made by any third party due to or arising out of your use of the Service in violation of this Agreement and/or arising from a breach of this Agreement and/or any breach of your representations and warranties set forth above. 
@@ -153,5 +156,4 @@ The Agreement shall be governed by the Laws of India. The Courts of law at Delhi
 
 Please contact us with any questions regarding this agreement. BlogSlinger is a trademark of BlogSlinger  
   
-  |    
- 
+  |  
