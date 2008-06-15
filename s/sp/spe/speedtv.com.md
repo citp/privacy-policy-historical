@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227174933id_/http%3A//www.speedtv.com/speed/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615183332id_/http%3A//www.speedtv.com/privacy) for the most accurate reproduction.*
 
-# SPEEDtv.com - The Online Motorsports Authority
+# PRIVACY - The Online Motorsports Authority. NASCAR, Formula 1, Auto Racing, Moto Racing, Cars, Bikes, PINKS and more! - SPEEDtv.com
 
-**SPEED CHANNEL, INC.  
+SPEED CHANNEL, INC.  
 PRIVACY POLICY
 
-Effective as of August 31, 2007.
+Effective as of January 17, 2008.
 
-**
-
-Speed Channel, Inc. (“Speed”) is part of the News America Group, which has adopted a set of Privacy Principles (http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Speed has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S., both online and off-line. 
+Speed Channel, Inc. (“Speed”) is part of the News America Group, which has adopted a set of Privacy Principles (<http://www.newscorp.com/privacy.html>) applicable to all its U.S.-based companies. Speed has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S., both online and off-line. 
 
 Speed is a general audience web site, and does not knowingly collect PII from children under 13 years of age.
 
@@ -37,15 +35,15 @@ Sometimes we collect personally identifiable information from consumers in manua
 
 Speed’s Web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Speed logo, even though they are not operated or maintained by Speed (for example, the co-sponsored chat pages, or advertising sponsor pages). Speed’s Web site(s) also carry advertisements from other companies. Speed is not responsible for the privacy practices of Web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or national Internet advertising companies. Once you’ve left a Speed site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-Speed’s Web site(s) may also be linked to Web sites operated by companies affiliated with Speed (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (http://www.newscorp.com/privacy.html), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+Speed’s Web site(s) may also be linked to Web sites operated by companies affiliated with Speed (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (<http://www.newscorp.com/privacy.html>), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
 Some of the advertisements that appear on Speed’s Web site(s) are delivered to you by national Internet advertising companies such as Doubleclick and 24/7Real Media. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit:
 
-http://www.247realmedia.com/privacy.html
+<http://www.247realmedia.com/privacy.html>
 
-http://www.doubleclick.net/privacy_policy.html
+<http://www.doubleclick.com/privacy/index.aspx>
 
-http://www.networkadvertsing.org/optout_nonppii.asp 
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 CHOICE: SPEED WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
 
@@ -69,11 +67,11 @@ ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII
 
 Speed has implemented a procedure for you to access, correct or delete your PII.
 
-To access your PII, send an e-mail with the word “Privacy” in the subject line to Speed.Privacy@fox.com, or write to the Speed Internet Privacy Officer, at Fox Cable Network Services, LLC Business & Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900, requesting a listing of the PII that you have provided. Speed will respond no later than forty-five (45) business days from receipt of your request with a list of the PII on file. There may be certain instances when Speed may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
+To access your PII, send an e-mail with the word “Privacy” in the subject line to [Speed.Privacy@fox.com](mailto:Speed.Privacy@fox.com), or write to the Speed Internet Privacy Officer, at Fox Cable Network Services, LLC Business & Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900, requesting a listing of the PII that you have provided. Speed will respond no later than forty-five (45) business days from receipt of your request with a list of the PII on file. There may be certain instances when Speed may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
 
 In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the Speed Internet Privacy Officer, at Fox Cable Network Services, LLC Business & Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900, including, (1) all of the incorrect PII; (2) the PII that you wish to change; and (3) your signature authorizing such changes. Speed will then correct the PII in its database and send a written confirmation to you within forty-five (45) business days.
 
-If for any reason you wish to stop all future communications from Speed, you may send an e-mail with the word “Privacy” in the subject line to Speed.Privacy@fox.com, or write to the Speed Internet Privacy Officer, at Fox Cable Network Services, LLC Business & Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900, requesting that your PII be permanently removed form any Speed database. Speed will send a written confirmation of such removal to you within forty-five (45) business days of receipt of your request. E-mails sent to Speed.Privacy@fox.com for purposes other than communication about PII may not be acknowledged or responded to.
+If for any reason you wish to stop all future communications from Speed, you may send an e-mail with the word “Privacy” in the subject line to [Speed.Privacy@fox.com](mailto:Speed.Privacy@fox.com), or write to the Speed Internet Privacy Officer, at Fox Cable Network Services, LLC Business & Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900, requesting that your PII be permanently removed form any Speed database. Speed will send a written confirmation of such removal to you within forty-five (45) business days of receipt of your request. E-mails sent to [Speed.Privacy@fox.com](mailto:Speed.Privacy@fox.com) for purposes other than communication about PII may not be acknowledged or responded to.
 
 REMEDIES AND COMPLIANCE: HOW TO CONTACT SPEED ABOUT PRIVACY CONCERNS
 
@@ -84,7 +82,7 @@ Business & Legal Affairs
 Fox Cable Network Services, LLC  
 P.O. Box 900  
 Beverly Hills, California 90213-0900  
-Telephone: (310) 369-0532  
-e-mail: Speed.Privacy@fox.com 
+Telephone: (310) 369-1350  
+e-mail: [Speed.Privacy@fox.com](mailto:Speed.Privacy@fox.com)
 
 You may also request a written response to your concerns, which will be made no later than forty-five (45) business days after you contact Speed.
