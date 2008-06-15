@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210205755id_/http%3A//www.travelsearch.com/travelsearch/corp/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615124347id_/http%3A//www.travelsearch.com/help/privacy.html) for the most accurate reproduction.*
 
-# Air travel deals, Cheap Flights, Discount Airfare -TravelSearch
+# Privacy Policy - TravelSearch.com
 
 Last modified on July 31, 2007
 
@@ -107,4 +107,4 @@ c/o SideStep, Inc.
 
 Santa Clara , CA   95051
 
-Further information about TravelSearch is available at [About TravelSearch](http://www.travelsearch.com/travelsearch/corp_forward.do?page=travelsearch.aboutTravelSearch). 
+Further information about TravelSearch is available at [About TravelSearch](http://www.travelsearch.com/help/about.html). 
