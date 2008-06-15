@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 000webhost.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223170731id_/http%3A//www.000webhost.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 000webhost.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615232230id_/http%3A//www.000webhost.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Free Web Hosting at 000Webhost.com
+# Free Web Hosting with PHP, MySQL and cPanel
 
 In an effort to protect our clients' and site visitors privacy and rights, 000webhost.Com has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather. 
 
