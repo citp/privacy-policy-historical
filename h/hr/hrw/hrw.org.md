@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211194351id_/http%3A//www.hrw.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615204925id_/http%3A//www.hrw.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Human Rights Watch Privacy Policy
 
@@ -75,4 +75,4 @@ New York, NY 10118-3299
 
 
 
-The Site and this Privacy Policy, © 2001 Human Rights Watch. All rights reserved.
+The Site and this Privacy Policy, Š 2001 Human Rights Watch. All rights reserved.
