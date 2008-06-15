@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214202043id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615194828id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # PartsTree.com Resources
 
