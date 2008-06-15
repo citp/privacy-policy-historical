@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011064523id_/http%3A//www.agweb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616015420id_/http%3A//www.agweb.com/get_article.aspx%3Fpageid%3D138972) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Your Spot for Futures Trading, Commodities Info, Ag News, Successful Farming Tips & More
 
-**PRIVACY POLICY** **Your Privacy**
+## AgWeb Privacy Policy
+
+12/21/2007
+
+ **Your Privacy**
 
 AgWeb.com respects your privacy. Our goal is to be your trusted, objective source of information for the business of farming and ranching. We want you to make the most of our services and feel confident while doing so online. We have a clear privacy policy: we collect no private, personal information unless you voluntarily supply it. This privacy statement explains under what circumstances we gather your individually identifiable information, how we use it, and who may access that information. It also provides you the means to "opt-out" of providing personal information that you do not wish to provide and to access, change, or remove any identifying information already collected. 
 
-We believe that your privacy is of the utmost importance, which is why this statement regarding privacy of personally identifiable information provided online conforms to the Federal Trade Commission's fair information practices of notice, choice, access, and security. We hope that you will provide comments on how we can improve our privacy policy so that we may better accommodate your needs. Please provide any comments to [feedback@agweb.com](mailto:feedback@agweb.com). 
+We believe that your privacy is of the utmost importance, which is why this statement regarding privacy of personally identifiable information provided online conforms to the Federal Trade Commission's fair information practices of notice, choice, access, and security. We hope that you will provide comments on how we can improve our privacy policy so that we may better accommodate your needs. Please provide any comments to [feedback@agweb.com](mailto:feedback@agweb.com)
 
 Please note that this privacy policy applies only to the AgWeb.com web site, and specifically does not apply to other companies' or organizations' web sites to which we link. We have attempted to mark each of our web pages with the AgWeb.com trademark so you will always know where this policy applies. 
 
@@ -16,7 +20,7 @@ When you visit AgWeb.com, we do not collect any personally identifiable informat
 
 Additionally, at registration, you are invited to provide us with demographic information (e.g., age, crop acres, and livestock herd size). Although the choice is up to you, we encourage you to volunteer such optional information so we may provide a more personalized experience on our web site and thus deliver greater value to you, our guest. Demographic information is specifically used for purposes of monitoring or improving the use of and satisfaction with our site. 
 
-On certain pages within our web site, you are invited to order products and services from AgWeb.com. In order to complete an online order, information such as name, address (including street name or post office box, city, state, and postal code), credit card number, and email address are required. If you prefer not to provide such information online, but are still interested in receiving AgWeb.com products and services, you may address your inquiry to [feedback@agweb.com](mailto:feedback@agweb.com). 
+On certain pages within our web site, you are invited to order products and services from AgWeb.com. In order to complete an online order, information such as name, address (including street name or post office box, city, state, and postal code), credit card number, and email address are required. If you prefer not to provide such information online, but are still interested in receiving AgWeb.com products and services, you may address your inquiry to [](mailto:feedback@agweb.com). 
 
 **Surveys and Contests**
 
@@ -26,7 +30,7 @@ From time to time our site requests information from users via surveys or contes
 
 AgWeb.com is dedicated to the security of your personal information, and we take every commercially reasonable precaution to maintain that protection. To prevent unauthorized access or disclosure, maintain data accuracy, and facilitate the appropriate use of information, we use physical, electronic, and managerial procedures to attempt to protect the personal information we collect online. Encryption tools are used when collecting or transferring sensitive information such as credit card numbers. Additional database content is protected either by means of a two key encryption algorithm or behind a firewall using security software. 
 
-If you have any questions about the security at AgWeb.com, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com). 
+If you have any questions about the security at AgWeb.com, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com).
 
 **Do We Employ "Cookies?"**
 
@@ -46,7 +50,7 @@ Once you have registered with AgWeb.com, we will store and maintain the personal
 
 **Choice**
 
-AgWeb.com believes that choice is one of the most important privacy principles. You have the choice not to submit any personally identifiable information to us (although under such circumstances you would be unable to register as a user). You also may choose to submit only those mandatory fields of data absolutely required for registration on our web site. Finally, you may choose to limit the use of or access to your personally identifiable information by requesting that we refrain from sharing all such information with any third parties. You may "opt out" in this way at any time simply by contacting us at [feedback@agweb.com](mailto:feedback@agweb.com)
+AgWeb.com believes that choice is one of the most important privacy principles. You have the choice not to submit any personally identifiable information to us (although under such circumstances you would be unable to register as a user). You also may choose to submit only those mandatory fields of data absolutely required for registration on our web site. Finally, you may choose to limit the use of or access to your personally identifiable information by requesting that we refrain from sharing all such information with any third parties. You may "opt out" in this way at any time simply by contacting us at [feedback@agweb.com](mailto:feedback@agweb.com).
 
 Likewise, should you prefer not to receive email communications from us, we provide a mechanism for opting out of this service by clicking off the box that states "Yes, I'm willing to receive email updates pertaining to special promotions and upcoming events relevant to my business." Additionally, each email message we send you will clearly state how you may remove your name from the email list. 
 
@@ -69,4 +73,12 @@ By using our web site, you consent to the collection and use of information as s
 Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com).   
 
 
-Copyright © 2005 AgWeb.com. All Rights Reserved.
+[ Printer-friendly version](https://web.archive.org/web/20080616015420id_/http%3A//www.agweb.com/news_printer.aspx?articleID=138972)
+
+### Email Article to a Friend
+
+Your Email: |  |       
+---|---|---  
+Your Friend's Email: |  |       
+Message to add to the body: |   
+|  | 
