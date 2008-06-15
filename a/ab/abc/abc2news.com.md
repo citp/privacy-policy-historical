@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011060054id_/http%3A//www.abc2news.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165131id_/http%3A//www.abc2news.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Terms & Conditions - ABC2 News is Baltimore's leading local news website for video, weather, school closings, traffic, sports, consumer investigations, and health
+# Terms & Conditions - Baltimore News, Weather, Channel 2 - WMAR-TV
 
 **PRIVACY POLICY** All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved. WMAR.com ® is a registered trademark of the Company. 
 
