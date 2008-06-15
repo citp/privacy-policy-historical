@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qmiles.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730131949id_/http%3A//www.qmiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmiles.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142759id_/http%3A//www.qmiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-|   | About Privilege Club |   | Calculator |   | Offers & News |   | [Partners](https://web.archive.org/web/20070730131949id_/http%3A//www.qmiles.com/partner_home.html?linkap07) |   | [FAQ](https://web.archive.org/web/20070730131949id_/http%3A//www.qmiles.com/faq_privilegeclub.html?linkfq17) |   | [Contact Us](https://web.archive.org/web/20070730131949id_/http%3A//www.qmiles.com/contactus.html?linkcu18) |   | [Your Account](https://web.archive.org/web/20070202180111/https://secure.qmiles.com/qmiles/FrontPage.jsp?linkya19) |   | [العربيّة](https://web.archive.org/index.php?ar "Qatar Airways Privilege Club Website in Arabic") |    
+|   | About Privilege Club |   | Calculator |   | Offers & News |   | [Partners](https://web.archive.org/web/20080615142759id_/http%3A//www.qmiles.com/partner_home.html?linkap07) |   | [FAQ](https://web.archive.org/web/20080615142759id_/http%3A//www.qmiles.com/faq_privilegeclub.html?linkfq17) |   | [Contact Us](https://web.archive.org/web/20080615142759id_/http%3A//www.qmiles.com/contactus.html?linkcu18) |   | [Your Account](https://web.archive.org/web/20070202180111/https://secure.qmiles.com/qmiles/FrontPage.jsp?linkya19) |   | [العربيّة](https://web.archive.org/index.php?ar "Qatar Airways Privilege Club Website in Arabic") |    
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 ---  
