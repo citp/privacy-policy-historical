@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the holidaycars.com privacy policy that was archived on 2007-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070811230546id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holidaycars.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615165254id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,8 +11,7 @@
     <meta http-equiv="Content-Language" content="en-us">
     <meta name="robots" content="all">
     <link rel="stylesheet" type="text/css" media="all" href="xmlMod/module_1/library/css/default.css">
-    <link rel="stylesheet" type="text/css" media="all" href="xmlMod/module_/library/css/default.css">
-    <link rel="stylesheet" type="text/css" media="all" href="">
+    <link rel="stylesheet" type="text/css" media="all" href="xmlMod/module_1/library/css/default.css">
     <script language="JavaScript" src="helpen/afm.aspx">
     </script>
     <script language="JavaScript" type="text/javascript" src="xmlMod/module_1/library/scripts/custom.js">
@@ -25,7 +24,7 @@
     </script>
   </head>
   <body onresize="resizeNoClickDiv();">
-    <div id="noClickDiv" style="width:100px;top:100px;height:50px;" class="noClickDivInvisible">
+    <div class="noClickDivInvisible" style="width: 100px; top: 40px; height: 50px;" id="noClickDiv">
     </div>
     <div id="progressBar" class="progressBarInvisible">
       <span id="progressText" class="progressText">
@@ -33,20 +32,31 @@
       <img id="progressImage" align="center" src="/library/media/ProgressBar.gif">
     </div>
     <div id="header">
-      <div id="headerLeft" style="background: url(xmlMod/module_1/library/media/header/header_left2.jpg) no-repeat;">
+      <div id="headerLeft" style="background: url(xmlMod/module_1/library/media/header/header_left1.jpg) no-repeat;">
         <div id="language">
           <select id="languageSelect" name="" onchange="setLang(this.options[this.selectedIndex].value , document.location.href)">
             <option value="" selected="">Choose your language</option>
-            <option value="DE">Deutsch </option>
-            <option value="EN">English</option>
-            <option value="ES">Español </option>
-            <option value="FB">Français Belgique</option>
-            <option value="FR">Français France</option>
-            <option value="IT">Italiano</option>
-            <option value="NL">Nederlands</option>
-            <option value="PT">Portugus</option>
-            <option value="TR">Turkish</option>
-            <option value="VL">Vlaams</option>
+            <option value="bg">Български</option>
+            <option value="br">Português Brasil</option>
+            <option value="da">Danish</option>
+            <option value="de">Deutsch </option>
+            <option value="en">English</option>
+            <option value="es">Español </option>
+            <option value="fb">Français Belgique</option>
+            <option value="fi">Finnish</option>
+            <option value="fr">Français France</option>
+            <option value="hr">Hrvatski</option>
+            <option value="hu">Magyar</option>
+            <option value="it">Italiano</option>
+            <option value="nl">Nederlands</option>
+            <option value="no">Norsk</option>
+            <option value="pl">Polski</option>
+            <option value="pt">Português</option>
+            <option value="ro">Română</option>
+            <option value="sl">Slovenski</option>
+            <option value="sv">Svenska</option>
+            <option value="tr">Turkish</option>
+            <option value="vl">Vlaams</option>
           </select>
         </div>
       </div>
@@ -55,9 +65,23 @@
           <img src="../library/media/header/header_middle.gif" alt="">
         </a>
       </div>
-      <div id="headerRight" style="background: url(xmlMod/module_1/library/media/header/header_right1.jpg) no-repeat;">
-        <div id="login">Telephone +31 (0)252 343 210&nbsp;
-          <a href="http://office.holidaycars.com" target="_blank"></a></div>
+      <div id="headerRight" style="background: url(xmlMod/module_1/library/media/header/header_right2.jpg) no-repeat;">
+        <div id="login">
+          <div id="LoggedOut">
+            <div style="float:left;margin-right:10px">
+              <input style="float:left" type="text" value="Username" id="username" name="LoginUserName" onfocus="if(this.value=='Username')this.value=''">
+              <br class="clear">
+              <input style="float:left" type="password" value="Password" id="password" name="LoginUserPassWord" onkeydown="GetLoginEnter(event,'1')" onfocus="if(this.value=='Password')this.value=''">
+            </div>
+            <div style="float:left;margin-top:6px" class="mouse" onmouseover="this.className='mouseover'" onmouseout="this.className='mouse'" onclick="GetLoginButton('1')">
+              <div class="links3">
+              </div>
+              <div class="midden3">Login</div>
+              <div class="rechts3">
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <br class="clear">
     </div>
@@ -71,7 +95,7 @@
               <div class="navLeft">
               </div>
               <div>
-                <a href="default.aspx">Home</a>
+                <a href="default.aspx" target="">Home</a>
               </div>
               <div class="navRight">
               </div>
@@ -80,7 +104,7 @@
               <div class="navLeft">
               </div>
               <div>
-                <a href="http://www.hotelopia.com/hotels/home.jsp?proJect=brz0041">Hotels</a>
+                <a href="http://www.hotelopia.com/hotels/home.jsp?proJect=brz0041" target="_blank">Hotels</a>
               </div>
               <div class="navRight">
               </div>
@@ -89,7 +113,7 @@
               <div class="navLeft">
               </div>
               <div>
-                <a href="static.aspx?source=aboutus">About us</a>
+                <a href="static.aspx?source=norisk" target="">NoRisk Warranty</a>
               </div>
               <div class="navRight">
               </div>
@@ -98,7 +122,7 @@
               <div class="navLeft">
               </div>
               <div>
-                <a href="static.aspx?source=contactus">Contact us</a>
+                <a href="static.aspx?source=aboutus" target="">About us</a>
               </div>
               <div class="navRight">
               </div>
@@ -107,22 +131,59 @@
               <div class="navLeft">
               </div>
               <div>
-                <a href="static.aspx?source=partners">Partners</a>
+                <a href="static.aspx?source=contactus" target="">Contact us</a>
+              </div>
+              <div class="navRight">
+              </div>
+            </li>
+            <li>
+              <div class="navLeft">
+              </div>
+              <div>
+                <a href="static.aspx?source=partners" target="">Partners</a>
               </div>
               <div class="navRight">
               </div>
             </li>
           </ul>
         </div>
+        <div id="LanguageInNav">
+          <select id="languageSelect" name="" onchange="setLang(this.options[this.selectedIndex].value , document.location.href)">
+            <option value="" selected="">Choose your language</option>
+            <option value="bg">Български</option>
+            <option value="br">Português Brasil</option>
+            <option value="da">Danish</option>
+            <option value="de">Deutsch </option>
+            <option value="en">English</option>
+            <option value="es">Español </option>
+            <option value="fb">Français Belgique</option>
+            <option value="fi">Finnish</option>
+            <option value="fr">Français France</option>
+            <option value="hr">Hrvatski</option>
+            <option value="hu">Magyar</option>
+            <option value="it">Italiano</option>
+            <option value="nl">Nederlands</option>
+            <option value="no">Norsk</option>
+            <option value="pl">Polski</option>
+            <option value="pt">Português</option>
+            <option value="ro">Română</option>
+            <option value="sl">Slovenski</option>
+            <option value="sv">Svenska</option>
+            <option value="tr">Turkish</option>
+            <option value="vl">Vlaams</option>
+          </select>
+        </div>
         <div id="payoff">
           <img src="xmlMod/module_1/library/media/icons/icon_beetle.gif" width="39" height="17" alt="Beetle">Always the right choice</div>
       </div>
       <br class="clear">
     </div>
+    <input type="hidden" id="languagecode" name="languagecode" value="en" default="en">
     <div id="content">
       <div id="blockleft" class="disclaimer_block1">
         <div id="frame1">
-          <div class="blok1">Support needed?<br class="clear"></div>
+          <div class="blok1">Support needed?</div>
+          <br class="clear">
           <div class="blok2">
             <a href="https://server.iad.liveperson.net/hc/73983167/?cmd=file&amp;file=visitorWantsToChat&amp;site=73983167&amp;byhref=1&amp;SESSIONVAR!skill=Chat&amp;imageUrl=../../../../images/liveperson" target="chat73983167" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/73983167/?cmd=file&amp;file=visitorWantsToChat&amp;site=73983167&amp;SESSIONVAR!skill=Chat&amp;imageUrl=../../../../images/liveperson&amp;referrer='+escape(document.location),'chat73983167','width=472,height=320');return false;">live support</a>
             <br class="clear">
@@ -205,7 +266,7 @@ Holiday Cars B.V. is a privately owned company; Holiday Cars Car Rental® is a r
     <div id="footer">
       <ul>
         <li>
-          <a href="newsletter.aspx">Newsletter</a>
+          <a href="static.aspx?source=newsletter">Newsletter</a>
         </li>
         <li>
           <a href="static.aspx?source=disclaimer">Privacy Policy</a>
@@ -220,7 +281,7 @@ Holiday Cars B.V. is a privately owned company; Holiday Cars Car Rental® is a r
       <div id="thawte">
         <ul>
           <li>
-            <a href="https://www.thawte.com/core/process?process=public-site-seal-cert-details&amp;public-site-seal-cert-details.referer=http://www.holidaycars.com/" target="_blank">
+            <a href="https://www.thawte.com/core/process?process=public-site-seal-cert-details&amp;public-site-seal-cert-details.referer=https://www.holidaycars.com/" target="_blank">
               <img style="margin-right:5px;" height="26" src="/xmlmod/module_1/library/media/security/thawte.gif" alt="Secured by Thawte">
             </a>
           </li>
@@ -241,48 +302,92 @@ Holiday Cars B.V. is a privately owned company; Holiday Cars Car Rental® is a r
       <div id="LanguageFlag">
         <ul>
           <li>
-            <a href="/DE/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/DE.gif">&nbsp;Deutsch </a>
+            <a href="/bg/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/bg.gif">&nbsp;Български</a>
           </li>
           <li>
-            <a href="/EN/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/EN.gif">&nbsp;English</a>
+            <a href="/br/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/br.gif">&nbsp;Português Brasil</a>
           </li>
           <li>
-            <a href="/ES/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/ES.gif">&nbsp;Español </a>
+            <a href="/da/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/da.gif">&nbsp;Danish</a>
           </li>
           <li>
-            <a href="/FB/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/FB.gif">&nbsp;Français Belgique</a>
+            <a href="/de/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/de.gif">&nbsp;Deutsch </a>
           </li>
           <li>
-            <a href="/FR/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/FR.gif">&nbsp;Français France</a>
+            <a href="/en/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/en.gif">&nbsp;English</a>
           </li>
           <li>
-            <a href="/IT/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/IT.gif">&nbsp;Italiano</a>
+            <a href="/es/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/es.gif">&nbsp;Español </a>
           </li>
           <li>
-            <a href="/NL/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/NL.gif">&nbsp;Nederlands</a>
+            <a href="/fb/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/fb.gif">&nbsp;Français Belgique</a>
           </li>
           <li>
-            <a href="/PT/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/PT.gif">&nbsp;Portugus</a>
+            <a href="/fi/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/fi.gif">&nbsp;Finnish</a>
           </li>
           <li>
-            <a href="/TR/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/TR.gif">&nbsp;Turkish</a>
+            <a href="/fr/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/fr.gif">&nbsp;Français France</a>
           </li>
           <li>
-            <a href="/VL/">
-              <img height="10" src="/xmlmod/module_1/library/media/flags/VL.gif">&nbsp;Vlaams</a>
+            <a href="/hr/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/hr.gif">&nbsp;Hrvatski</a>
+          </li>
+          <li>
+            <a href="/hu/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/hu.gif">&nbsp;Magyar</a>
+          </li>
+          <li>
+            <a href="/it/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/it.gif">&nbsp;Italiano</a>
+          </li>
+          <li>
+            <a href="/nl/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/nl.gif">&nbsp;Nederlands</a>
+          </li>
+          <li>
+            <a href="/no/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/no.gif">&nbsp;Norsk</a>
+          </li>
+          <li>
+            <a href="/pl/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/pl.gif">&nbsp;Polski</a>
+          </li>
+          <li>
+            <a href="/pt/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/pt.gif">&nbsp;Português</a>
+          </li>
+          <li>
+            <a href="/ro/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/ro.gif">&nbsp;Română</a>
+          </li>
+          <li>
+            <a href="/sl/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/sl.gif">&nbsp;Slovenski</a>
+          </li>
+          <li>
+            <a href="/sv/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/sv.gif">&nbsp;Svenska</a>
+          </li>
+          <li>
+            <a href="/tr/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/tr.gif">&nbsp;Turkish</a>
+          </li>
+          <li>
+            <a href="/vl/">
+              <img height="10" src="/xmlmod/module_1/library/media/flags/vl.gif">&nbsp;Vlaams</a>
           </li>
         </ul>
       </div>
-      <div id="copywrite">Copyright © 2007 Holiday Cars Car Rental. All Rights Reserved</div>
+      <div id="copywrite">Copyright © 2008 Holiday Cars Car Rental. All Rights Reserved</div>
     </div>
   
 </body></html>
