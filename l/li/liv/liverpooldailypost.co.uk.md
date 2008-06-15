@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpooldailypost.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212224338id_/http%3A//www.liverpooldailypost.co.uk/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpooldailypost.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615223440id_/http%3A//www.liverpooldailypost.co.uk/priv_statement) for the most accurate reproduction.*
 
 # Liverpool Daily Post Privacy Statement
 
@@ -29,7 +29,7 @@ We compile anonymous records of user trends which we may make use of ourselves, 
 
 We may collect information from you when you fill in an online registration or entry form for any of our web site services, (e.g., information services or competitions etc). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address and telephone numbers.
 
-We collect information about your use of our web site services through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a website which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name or email address, unless the cookie is attached to personal information collected another way, such as by means of your online registration form. If you do not wish this to happen, you can either [email us here](mailto:privacy@icliverpool.net?subject=Privacy%20Policy%20Enquiry) to obtain opt-out details or you can use the cookie preference settings in your browser to help manage this process. More information on this can be found in the "Help" section of the browser that you are using.
+We collect information about your use of our web site services through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a website which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name or email address, unless the cookie is attached to personal information collected another way, such as by means of your online registration form. If you do not wish this to happen, you can either [email us here](mailto:privacy@icliverpool.net?subject=PrivacyPolicyEnquiry) to obtain opt-out details or you can use the cookie preference settings in your browser to help manage this process. More information on this can be found in the "Help" section of the browser that you are using.
 
 We gather non personal data regarding the visitors to this site using cookies code (java applet) which is embedded in the site. Both the cookies and the embedded code (java applet) provide non-personal statistical information about visits to pages on the site, the duration of individual's page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. We use this type of information, as with that obtained from other cookies used on the site, to help it improve the service to its users.
 
@@ -39,7 +39,7 @@ By giving us your details, you confirm that you consent to our sending you direc
 
 We will not supply your personal information to third parties for their direct marketing activities without their consent.
 
-If you have already consented to us, (our associated companies or third parties), sending you direct marketing or information, but you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies, or no longer wish us to pass your information to third parties, please notify us by email [here](mailto:privacy@icliverpool.net).
+If you have already consented to us, (our associated companies or third parties), sending you direct marketing or information, but you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies, or no longer wish us to pass your information to third parties, please notify us by email [here](mailto:privacy@icliverpool.net?subject=PrivacyPolicyEnquiry).
 
 ## HOW WE ENSURE PRIVACY IS MAINTAINED
 
