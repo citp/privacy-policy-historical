@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215093851id_/http%3A//www.html.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141635id_/http%3A//www.html.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | HTML.net
 
@@ -53,3 +53,9 @@ To unsubscribe from receiving the HTML.net news alert, an unsubscribe link appea
 ### Notification of changes
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change.
+
+* * *
+
+* * *
+
+[](http://www.addthis.com/bookmark.php)
