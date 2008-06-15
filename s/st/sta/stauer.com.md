@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214215708id_/http%3A//www.stauer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615162758id_/http%3A//www.stauer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Stauer
 
@@ -55,7 +55,7 @@ Our approach to security
 We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our web site is a "Secure Site" recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online area of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.
 
 Policy changes  
-NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.stauer.com/privacy.asp](https://web.archive.org/web/20071214215708id_/http%3A//www.stauer.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
+NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.stauer.com/privacy.asp](https://web.archive.org/web/20080615162758id_/http%3A//www.stauer.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
 
 Effective Date: May 11, 2007  
 Last Revised Date: May 11, 2007 
