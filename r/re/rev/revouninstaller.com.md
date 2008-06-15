@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216010605id_/http%3A//www.revouninstaller.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615144004id_/http%3A//www.revouninstaller.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Revo Uninstaller - Remove unwanted programs and traces easily
+# Revo Uninstaller - Privacy and Policy
 
 **We respect your privacy online**
 
