@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajg.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213204711id_/http%3A//www.ajg.com/portal/server.pt%3Fopen%3D512%26mode%3D2%26objID%3D506%26PageID%3D505) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajg.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615131912id_/http%3A//www.ajg.com/portal/server.pt%3Fopen%3D512%26mode%3D2%26objID%3D506%26PageID%3D505) for the most accurate reproduction.*
 
 # Legal Information - AJG.com - Privacy Policy
 
@@ -64,7 +64,7 @@ We restrict access to your Confidential Information to our employees who need to
 
 **Correcting or Removing Your Personal Information**
 
-If you would like to correct the Confidential Information you have provided to us, or to request that we remove your information from our records, e-mail us at [AJG_Info@ajg.com](mailto:AJG_Info@ajg.com) or contact our [corporate headquarters](http://www.ajg.com/portal/server.pt?open=512&objID=611&parentname=CommunityPage&parentid=11&mode=2&in_hi_userid=21938&cached=true)  with the correction or removal request.
+If you would like to correct the Confidential Information you have provided to us, or to request that we remove your information from our records, e-mail us at [AJG_Info@ajg.com](mailto:AJG_Info@ajg.com) or contact our [corporate headquarters](http://www.ajg.com/portal/server.pt?open=512&objID=611&parentname=CommunityPage&parentid=13&mode=2&in_hi_userid=21938&cached=true)  with the correction or removal request.
 
 **Links to Other Sites**
 
