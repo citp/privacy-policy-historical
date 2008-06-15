@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the recruitmax.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012085624id_/http%3A//vurv.com/eng/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmax.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615130719id_/http%3A//www.vurv.com/eng/privacy.cfm) for the most accurate reproduction.*
 
-# Vurv :: Privacy Policy
+# Vurv Privacy Policy
 
 **Introduction**  
-Vurv Technology ("Vurv") takes privacy seriously. In our modern technological world we work to balance the importance of the free flow of information against the importance of an individual's privacy rights. 
+Vurv Technology ("Vurv") takes privacy seriously. In our modern technological world we work to balance the importance of the free flow of information against the importance of an individual's privacy rights.
 
 This Internet Privacy Policy ("Policy") describes the privacy policies applicable to personally identifiable information collected by Vurv, including personally identifiable information collected online at ["http://www.vurv.com](http://www.vurv.com/) (the "Site"). By using this Site, you signify your acceptance of this Policy.
 
@@ -14,7 +14,7 @@ Vurv collects personally identifiable information from: (a) individuals who subm
 Vurv uses personally identifiable information to maintain applicant databases and subscription lists, process job applications, complete business transactions, assist customers with compliance obligations, fill and confirm orders for products and services, administer accounts, provide support, and update Vurv's databases. Users may be contacted as necessary for these purposes.
 
 **Disclosure of Personally Identifiable Information**  
-Vurv relies on various service providers and other contractors to support its Internet Site and business operations. We may share personally identifiable information collected with these third parties, including without limitation: contractors; web site hosting or information technology consulting services; web site management; marketing and promotion services or partners; data analysis; auditors; lawyers; and other administrative, back-up and security services. 
+Vurv relies on various service providers and other contractors to support its Internet Site and business operations. We may share personally identifiable information collected with these third parties, including without limitation: contractors; web site hosting or information technology consulting services; web site management; marketing and promotion services or partners; data analysis; auditors; lawyers; and other administrative, back-up and security services.
 
 Vurv may also disclose personally identifiable information in order to: (1) comply with applicable laws; (2) respond to governmental inquiries or requests; (3) comply with valid legal process; (4) protect the rights, privacy, safety or property of Vurv, Site visitors, clients or the public; (5) enforce our Terms of Service; and (6) permit us to pursue available remedies or limit the damages that we may sustain.
 
@@ -41,10 +41,10 @@ Vurv takes reasonable technical, administrative and physical steps to protect pe
 For online transactions, we use technology to protect the personally identifiable information that you transmit to us via our Site. Unfortunately, however, no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure. If you have reason to believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [privacy@vurv.com](mailto:privacy@vurv.com).
 
 **External Links**  
-This Site may include links to other web sites not controlled by Vurv. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. Once you leave this Site (you can usually tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. We encourage you to read the privacy policies of web sites that you visit before submitting personal information. If you can't find the privacy policy of any of these web sites via a link from the web site's homepage, you should contact the web site directly for more information. 
+This Site may include links to other web sites not controlled by Vurv. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. Once you leave this Site (you can usually tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. We encourage you to read the privacy policies of web sites that you visit before submitting personal information. If you can't find the privacy policy of any of these web sites via a link from the web site's homepage, you should contact the web site directly for more information.
 
 **Access & Correction**  
-In accordance with applicable law, Vurv provides Users with the right to access and correct their personally identifiable information. For information about how to exercise these rights, or to review or change an Internet registration profile, unsubscribe from our newsletters, or to be removed from the Vurv database, please contact Vurv Customer Service, [customerservice@vurv.com](mailto:customerservice@vurv.com). We make reasonable efforts to ensure that the personally identifiable information we have about you is as accurate, current and complete as necessary for the purposes for which we use that data. 
+In accordance with applicable law, Vurv provides Users with the right to access and correct their personally identifiable information. For information about how to exercise these rights, or to review or change an Internet registration profile, unsubscribe from our newsletters, or to be removed from the Vurv database, please contact Vurv Customer Service, [customerservice@vurv.com](mailto:customerservice@vurv.com). We make reasonable efforts to ensure that the personally identifiable information we have about you is as accurate, current and complete as necessary for the purposes for which we use that data.
 
 **Data from the European Union**  
 We comply with the requirements of the Safe Harbor Privacy Principles issued by the U.S. Department of Commerce on July 21, 2000 (the "Safe Harbor Principles") with respect to personally identifiable information received from the European Union. Because we comply with the Safe Harbor Principles, our transfers of such data from countries in the European Union to the United States meet the adequacy requirements of the European Union Data Protection Directive.
@@ -60,6 +60,6 @@ Vurv Technology, Inc.
 Attn: Information Security Officer  
 7660 Centurion Parkway  
 Jacksonville, FL 32256  
-USA 
+USA
 
 **BY USING THIS SITE YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS POLICY.**
