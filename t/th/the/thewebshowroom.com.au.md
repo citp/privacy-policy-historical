@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235354id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615152815id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
 
 # The Web Showroom - Australia's leader in easy business websites
 
