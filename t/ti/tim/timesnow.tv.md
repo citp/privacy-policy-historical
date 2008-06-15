@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230230227id_/http%3A//www.timesnow.tv/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615205905id_/http%3A//www.timesnow.tv/Privacy.aspx) for the most accurate reproduction.*
 
 # TIMESNOW.tv - Latest Breaking News, Big News Stories, News Videos -
 
