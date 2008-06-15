@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030131142id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013253id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -23,20 +23,19 @@ We appreciate that many users do not feel comfortable providing their real addre
 **[whois.tucows.com]**
 
 **Registrant:**  
-Tucows, Inc.  
+TUCOWS.com, Inc.  
 96 Mowat Ave.  
-Toronto, ON M6K 3M1  
+Toronto, ON M6K3M1  
 CA
 
 **Domain name:** DOMAINFORWARDING.COM
 
 **Administrative Contact:**  
-Direct, Domain [**help@domaindirect.com**](mailto:help@domaindirect.com)  
+Domain, Direct [**admin-contact@domaindirect.com**](mailto:admin-contact@domaindirect.com)  
 96 Mowat Ave.  
-Toronto, ON M6K 3M1  
+Toronto, ON M6K3M1  
 CA  
-**+1.4165312084 Fax:** +1.4165315584
-
++1.4165350123  
 **Technical Contact:**  
 Domain, Direct [**dnstech@domaindirect.com**](mailto:dnstech@domaindirect.com)  
 96 Mowat Avenue  
@@ -47,18 +46,21 @@ CA
 **Registration Service Provider:**  
 Domain Direct  
 1-866-337-8633  
-**http:** //www.domaindirect.com/supportform.html  
+**http:** //help.domaindirect.com  
 This company may be contacted for domain login/passwords,  
 DNS/Nameserver changes, and general domain support questions.
 
 **Registrar of Record:** TUCOWS, INC.  
-Record last updated on 22-Jun-2007.  
-Record expires on 01-Jun-2008.  
+Record last updated on 05-Jun-2008.  
+Record expires on 01-Jun-2009.  
 Record created on 02-Jun-1998.
 
+**Registrar Domain Name Help Center:**  
+**http:** //domainhelp.tucows.com
+
 **Domain servers in listed order:**  
-NS1.DOMAINDIRECT.COM   
 NS2.DOMAINDIRECT.COM   
+NS1.DOMAINDIRECT.COM   
 NS3.DOMAINDIRECT.COM 
 
 **Domain status:** clientTransferProhibited  
