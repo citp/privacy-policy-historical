@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011837id_/http%3A//www.incentaclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615161742id_/http%3A//www.incentaclick.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - IncentaClick
+# Privacy Policy - CXDigital
 
 **CX Digital Media** is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices. 
 
