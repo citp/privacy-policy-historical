@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logosnap.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011192645id_/http%3A//logosnap.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosnap.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013130id_/http%3A//www.logosnap.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Logo Snap Privacy Policy - Pre designed logos by Logo Snap
 
