@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026124241id_/http%3A//www.partmaster.co.uk/cgi-bin/staticbasic.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165405id_/http%3A//www.partmaster.co.uk/cgi-bin/staticbasic.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Currys partmaster.co.uk - spares, spare parts and accessories
 
 ---  
   
-In this Privacy Policy references to "we" and "us" are to DSG Retail Limited trading as partmaster.co.uk, Dixons, Curry's Digital, Currys, PC World and The Tech Guys company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG and to our appointed agent for the operation of partmaster.co.uk, Connect Distribution Services Limited, company number 3004798, registered office Connect Business Park, Bordesley Green Road, Birmingham, West Midlands B9 4UA.  
+In this Privacy Policy references to "we" and "us" are to DSG Retail Limited trading as partmaster.co.uk, Dixons, Curry's Digital, Currys, PC World and The Tech Guys company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG and to our appointed agent for the operation of partmaster.co.uk, Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ.  
   
    
 |  |  |   
