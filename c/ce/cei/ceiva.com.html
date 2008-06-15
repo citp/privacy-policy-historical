@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ceiva.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011054738id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ceiva.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615155307id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head><title>Privacy Policy</title>
 <script language="javascript">var bc="CEIVA&reg; PRIVACY POLICY"</script>
@@ -28,9 +28,19 @@
 
   
 
-<!-- $Id: sitenavbar.jsp,v 1.58 2007/07/23 23:53:41 jim Exp $ -->
+<!-- $Id: sitenavbar.jsp,v 1.90 2008/06/13 18:43:17 jim Exp $ -->
 
-<script language="javascript" src="/js/sitenavbar.js"></script>
+
+
+<script language="javascript" src="/js/sitenavbar.js?2008030521458"></script>
+
+
+<script type="text/javascript">
+function getLocation2() {
+	dir2 = "";
+}
+</script>
+
 <script type="text/javascript">
 <!--
 function popup(mylink, windowname)
@@ -41,7 +51,7 @@ if (typeof(mylink) == 'string')
    href=mylink;
 else
    href=mylink.href;
-window.open(href, windowname, 'width=530,height=460,scrollbars=yes');
+window.open(href, windowname, 'width=540,height=520,scrollbars=yes');
 return false;
 }
 //-->
@@ -82,11 +92,23 @@ function FlashWrite(url,width,height)
 
 <body bgcolor="white" onload="MM_preloadImages('/common/images/nav1_home_ro.gif', '/common/images/nav1_lmore_ro.gif', '/common/images/nav1_cstore_ro.gif', '/common/images/nav1_ccare_ro.gif', '/common/images/nav1_aboutus_ro.gif', '/common/images/nav1_news_ro.gif', '/common/images/nav1_home_on.gif', '/common/images/nav1_lmore_on.gif', '/common/images/nav1_cstore_on.gif', '/common/images/nav1_ccare_on.gif', '/common/images/nav1_aboutus_on.gif', '/common/images/nav1_news_on.gif')">
 
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
 <!-- Used for CEIVA Contectual Help -->
 <script language="javascript" src="/js/chelp.js"></script>
 <script language="javascript">var ol_ggcolor = "#009EC0"</script>
 <script language="javascript">var ol_fgcolor = "#E5F0FB"</script>
 <script language="javascript" src="/js/overlib.js"></script>
+<script type="text/javascript">
+function showPopup(url) {
+newwindow=window.open(url,'name','height=450,width=550,resizable');
+if (window.focus) {newwindow.focus()}
+}
+</script> 
 
 
 
@@ -97,8 +119,8 @@ function FlashWrite(url,width,height)
 
 
 
-  <form name="sitenav">
-  <table cellspacing="0" cellpadding="0" width="700" border="0">
+  <form name="sitenav" style="display:inline">
+  <table cellspacing="0" cellpadding="0" width="700" border="0" style="margin-top:-5px;">
    <tbody><tr>
 
 	
@@ -114,9 +136,13 @@ function FlashWrite(url,width,height)
 
     <!-- Standard CEIVA header -->
 
-     <td><a href="/"><img src="/common/images/nav_ceiva_logo.gif" border="0"></a><img src="/common/images/spacer.gif" width="50" height="1"></td>
-     <td align="right" valign="bottom">
-	 <div id="supnav"> 
+     <td style="font-size:11px;"><a href="/"><img src="/common/images/nav_ceiva_logo2.gif" alt="CEIVA" border="0" style="margin-bottom: -10px;"></a><img src="/common/images/spacer.gif" width="50" height="1"></td>
+     <td align="right" valign="bottom" style="font-size:11px;">
+	<img src="/common/images/nav_ceiva_phonenumber.gif" width="172" height="45" vspace="3" alt="1-877-692-3482: Life Shared. Life Celebrated." border="0" style="margin-right:8px;">
+    <!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.ceiva.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.ceiva.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" vspace="5"></a>
+<!-- END SCANALERT CODE --> 
+     <div id="supnav" style="padding: 5px 0px;"> 
 	   
 		
 		
@@ -145,7 +171,7 @@ function FlashWrite(url,width,height)
 
     <!-- Home Tab -->
 
-    <td><a href="http://www.ceiva.com/" onmouseover="changeImages('home', '/common/images/nav1_home_ro.gif'); return true;" onmouseout="changeImages('home', '/common/images/nav1_home_off.gif'); return true;"><img src="/common/images/nav1_home_on.gif" name="home" border="0"></a></td>
+    <td><a href="http://www.ceiva.com/" onmouseover="changeImages('home', '/common/images/nav1_home_ro.gif'); return true;" onmouseout="changeImages('home', '/common/images/nav1_home_off.gif'); return true;"><img src="/common/images/nav1_home_off.gif" name="home" border="0"></a></td>
 
     <!-- Learn More Tab -->
 
@@ -153,7 +179,7 @@ function FlashWrite(url,width,height)
 
     <!-- Members Tab -->
 
-    <td><a href="http://www.ceiva.com/member/my_home.jsp" onmouseover="changeImages('members', '/common/images/nav1_members_ro.gif'); return true;" onmouseout="changeImages('members', '/common/images/nav1_members_off.gif'); return true;"><img src="/common/images/nav1_members_off.gif" name="members" border="0"></a></td>
+    <td><a href="http://www.ceiva.com/member/member_home.jsp" onmouseover="changeImages('members', '/common/images/nav1_members_ro.gif'); return true;" onmouseout="changeImages('members', '/common/images/nav1_members_off.gif'); return true;"><img src="/common/images/nav1_members_off.gif" name="members" border="0"></a></td>
 
     <!-- CEIVA Store Tab -->
 
@@ -173,28 +199,27 @@ function FlashWrite(url,width,height)
 
    </tr>
  </tbody></table>
+ </form>
   
 <script language="javascript"> 
    menuselected ();
-  </script><table cellspacing="0" cellpadding="0" width="700" height="22"> <tbody><tr>  <td><img src="/common/images/nav2_bar_lf.gif" border="0"></td><td><img src="/common/images/nav2_home_item1.gif" name="item1" border="0"></td><td><img src="/common/images/nav2_home_item2.gif" name="item2" border="0"></td><td><img src="/common/images/nav2_home_item3.gif" name="item3" border="0"></td><td><img src="/common/images/nav2_home_item4.gif" name="item4" border="0"></td><td><img src="/common/images/nav2_home_item5.gif" name="item5" border="0"></td><td><img src="/common/images/nav2_bar_rt.gif" border="0"></td> </tr></tbody></table>
+  </script>
 
+  
+  
   <table width="700" border="0" cellspacing="0" cellpadding="0">
    <tbody><tr align="left" valign="top">
-    <script>writebc(bc);</script><td width="350" height="15" class="breadcrumb" nowrap="">CEIVA® PRIVACY POLICY<a name="top"></a></td>
-	<td><div align="right"><!--<a href="/common/fd_ship.htm" onClick="return popup(this, 'indexpopup')">--><img src="/common/images/free_standardshipping99.gif" alt="Shipping Specials" width="295" height="26" vspace="2" border="0"><!--</a>--></div></td>
+	<script>if (window.bc) writebc(bc);</script>
+	<td align="right" style="padding:3px 0 0 0;">
+	<!--<div align="right"><a href="/common/fd_ship.htm" onClick='showPopup(this.href);return(false);'><img src="/common/images/fathers08freeship.gif" alt="Shipping Specials" width="222" height="42" border="0"></a></div>--></td>
    </tr>
   </tbody></table>
  
-  <!-- Start site-wide banner
+ 
+<!--  
   
+  -->
 
-  
-  
-  
-
-End site-wide banner -->
-
-  
 
 
 
@@ -244,7 +269,7 @@ End site-wide banner -->
 
 
 
-<!-- $Id: footer.jsp,v 1.5 2006/11/02 18:04:48 jim Exp $ -->
+<!-- $Id: footer.jsp,v 1.6 2008/03/24 22:25:47 design Exp $ -->
 
 <div id="footernew">
   <div align="left"><a href="http://www.ceiva.com/public-servlet/MemberHelp" class="footer_link">
@@ -261,7 +286,69 @@ End site-wide banner -->
  </div>
 </div>
 
+
+<script language="javascript">
+
+
+    
+
+
+
+
+    
+
+</script>
+
+<!-- SiteCatalyst code version: H.14.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/js/s_code.js"></script>
+<script type="text/javascript" src="/js/omni.js?20080312237"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.channel=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.server="app-ironforge"
+
+if (window.omEvent) {
+s.events=omEvent
+}
+if (window.omProd) {
+s.products=omProd
+}
+if (window.omId) {
+s.purchaseID=omId
+}
+if (window.omZip) {
+s.zip=omZip
+}
+if (window.omState) {
+s.state=omState
+}
+if (window.omPay) {
+s.eVar5=omPay
+}
+if (window.omPromo) {
+s.eVar10=omPromo
+}
+if (window.omLogin) {
+s.eVar6=omLogin
+}
+if (window.omInternal) {
+s.eVar8=omInternal
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.14. -->
+
+
  
 
 
-</form></body></html>
+</body></html>
