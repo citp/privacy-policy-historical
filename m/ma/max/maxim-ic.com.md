@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211220425id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141330id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement - Maxim/Dallas
+# Privacy Statement - Maxim
 
 Maxim Integrated Products, Inc. and its wholly owned subsidiaries want you to know that your privacy is important to us. This Privacy Statement describes our privacy policy and how we collect and use personally identifiable information. 
 
@@ -15,9 +15,9 @@ Maxim reserves the right to modify its privacy policy at any time. Customers and
 
 **What Information Do We Collect?**
 
-You can visit our website without identifying yourself or revealing any personal information. Portions of our site allow you to volunteer personal information such as name, address, telephone numbers, e-mail, and information on your design interests, applications, and expected purchase quantities. 
+You can visit our website without identifying yourself or revealing any personal information. Portions of our site allow you to volunteer personal information such as name, address, telephone numbers, email, and information on your design interests, applications, and expected purchase quantities. 
 
-We cannot determine your name, e-mail address, etc. unless you provide them. 
+We cannot determine your name, email address, etc. unless you provide them. 
 
 We use cookies to maintain your information. Please refer to "Cookies," below. 
 
