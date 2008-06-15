@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011181910id_/http%3A//biz.stats.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165608id_/http%3A//biz.stats.com/privacy.asp) for the most accurate reproduction.*
 
 # :: WELCOME TO STATS ::
 
@@ -62,8 +62,8 @@ You may contact STATS via e-mail at helpdesk@stats.com or via fax at (847) 470-9
 If you have any concerns or questions about the STATS Privacy Policy please feel free to contact us via e-mail at support@stats.com, via phone at (888) 450-2730, or via mail at: 
 
 **STATS  
-8130 Lehigh Ave.   
-Morton Grove, IL 60053   
+2775 Shermer Road   
+Northbrook, IL 60062   
 Attn: Customer Service **
 
 |  |  |  |  | 
