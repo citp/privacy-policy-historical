@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209133725id_/http%3A//www.pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615021924id_/http%3A//pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # PharmDaily.com .:. Daily Health and Wellness Updates
 
@@ -68,12 +68,12 @@ If you do not accept the terms of this Policy, we ask that you do not register w
 
 ** Contact Us**
 
-** Pharmdaily.com is presented by Dedicated Marketing Solutions LLC.**
+** Pharmdaily.com is presented by Dedicated Media**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Dedicated Marketing Solutions LLC.  
-12950 Culver Blvd.  
-Suite 120  
-Los Angles, CA 90066  
+Dedicated Media  
+909 Sepulveda Blvd. Suite 320  
+El Segundo, CA 90245  
+t: 310.524.9400  
 [ information@dedicatedla.com](mailto:information@dedicatedla.com)
