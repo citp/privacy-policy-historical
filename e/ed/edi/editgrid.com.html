@@ -1,155 +1,20 @@
-<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211110350id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615174342id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Online Spreadsheets - EditGrid</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="EditGrid-Revision" content="11553">
-<meta name="EditGrid-Last-Changed-Date" content="2007-10-26 20:05:59 +0800 (Fri, 26 Oct 2007)">
+<meta name="EditGrid-Revision" content="18271">
+<meta name="EditGrid-Last-Changed-Date" content="2008-05-21 15:24:50 +0800 (Wed, 21 May 2008)">
 <meta name="description" content="EditGrid is a free web-based online spreadsheet which allows you to create and share spreadsheets documents. You can collaborate with your team, publish your spreadsheets and even power them with external data.">
 <meta name="keywords" content="spreadsheet, online, web-based, real-time, collaboration">
 <link rel="shortcut icon" type="image/ico" href="http://www.editgrid.com/site/static/img/iconEditGrid.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/site/rev/11553/static/style/default.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/site/rev/18271/static/style/default.css">
 <script type="text/javascript">var std = {}</script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/11553/static/js/std.js"></script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/11553/static/js/ui.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-	/* -- Rollover images handling -- */
-	function prepareHoverImages(holder_id, normal_image, hover_image) {
-		if (document.getElementById)
-			var x = document.getElementById(holder_id).getElementsByTagName('IMG');
-		else if (document.all)
-			var x = document.all[holder_id].all.tags('IMG');
-		else return;
-		var preloads = new Object();
-		for (var i=0;i<x.length;i++)
-		{
-			preloads['n'+x[i].id] = new Image;
-			preloads['n'+x[i].id].src = normal_image;
-			preloads['o'+x[i].id] = new Image;
-			preloads['o'+x[i].id].src = hover_image;
-			preloads['o'+x[i].id].onerror = function () {this.src=normal_image}
-			x[i].onmouseover = function () {this.src=preloads['o'+this.id].src;}
-			x[i].onmouseout = function () {this.src=preloads['n'+this.id].src;}
-		}
-	}
-
-	
-	/* -- Navigation login box manipulation -- */
-	function setSaasPersonalLogin() {
-		std.css.bulkset('display', ['block', 'OrganisationLoginTriggerBlock']); 
-		std.css.bulkset('display', ['none', 'OrganisationNameBlock', 'PersonalLoginTriggerBlock']); 
-		document.forms['LoginForm'].action = "https://www.editgrid.com/login/personal";
-		document.forms['LoginForm'].elements['username'].focus();
-	}
-
-	function setSaasOrgLogin() {
-		std.css.bulkset('display', ['block', 'OrganisationNameBlock', 'PersonalLoginTriggerBlock']); 
-		std.css.bulkset('display', ['none', 'OrganisationLoginTriggerBlock']); 
-		document.forms['LoginForm'].action = "https://www.editgrid.com/login/organisation";
-		document.forms['LoginForm'].elements['orgname'].focus();
-	}
-	
-
-	/* -- Bookmark this page -- */
-	function bookmarkLink(txt, url, who) {
-		var ver = navigator.appName;
-		var num = parseInt(navigator.appVersion);
-		if ((ver == "Microsoft Internet Explorer")&&(num >= 4)) {
-			document.write('<a href="#" onClick="window.external.AddFavorite(' + "'" + url + "'" + ',' + "'" + who + "'" + ');" ');
-			document.write('onMouseOver=" window.status=');
-			document.write("'" + txt + "'; return true ");
-			document.write('"onMouseOut=" window.status=');
-			document.write("' '; return true ");
-			document.write('">'+ txt + '</a>');
-		}else{
-			document.write(txt);
-		} 
-	}
-
-	/* -- iPhone Edition -- */
-	function isSafariMobile() {
-		var ua = navigator.userAgent; 
-		return ua.indexOf('AppleWebKit') != -1 && ua.indexOf('Mobile') != -1;
-	}
-
-	function openIPhone(path, title, fallback_path) {
-		if (isSafariMobile()){
-			window.open(path, title, 'width=320,height=417,status=no,statusbar=no,scrollbars=yes');
-		} else {
-			if (fallback_path){
-				if (confirm('You are not currently using iPhone Safari, you will be redirected to a non-iPhone-Edition page, do you want to continue?')){
-					window.location.href = fallback_path;
-				}
-			} else {
-				alert('Please use your iPhone Safari to access this link.');
-			}
-		}
-	}
-
-	
-	/* bind actions to use GGAnalytics to track sign up links */
-	function getSignUpLinks() {
-		var fetch_results = []; var signup_links = []; 
-		fetch_results['personal'] = std.dom.extractAttachmentPoints(document.body)['SignUpPersonal'];
-		fetch_results['organisation'] = std.dom.extractAttachmentPoints(document.body)['SignUpOrg'];
-		fetch_results['licensing'] = std.dom.extractAttachmentPoints(document.body)['SignUpLicensing'];
-		signup_links['personal'] = []; signup_links['organisation'] = []; signup_links['licensing'] = [];
-
-		if (fetch_results['personal'] instanceof Array) {
-			for (var i=0; i<fetch_results['personal'].length; i++) {
-				signup_links['personal'].push(fetch_results['personal'][i]);
-			}
-		} else if (fetch_results['personal']) {
-			signup_links['personal'].push(fetch_results['personal']);
-		}
-		if (fetch_results['organisation'] instanceof Array) {
-			for (var i=0; i<fetch_results['organisation'].length; i++) {
-				signup_links['organisation'].push(fetch_results['organisation'][i]);
-			}
-		} else if (fetch_results['organisation']) {
-			signup_links['organisation'].push(fetch_results['organisation']);
-		}
-		if (fetch_results['licensing'] instanceof Array) {
-			for (var i=0; i<fetch_results['licensing'].length; i++) {
-				signup_links['licensing'].push(fetch_results['licensing'][i]);
-			}
-		} else if (fetch_results['licensing']) {
-			signup_links['licensing'].push(fetch_results['licensing']);
-		}
-		return signup_links;
-	}
-
-	function trackPersonalSignUpClicks(links) {
-		if (! links instanceof Array) { return false; };
-		for (var i=0; i<links.length; i++) {
-			links[i].onclick = function() {
-				urchinTracker('/site/outgoing/signup/personal');
-			}
-		}
-	}
-	function trackOrgSignUpClicks(links) {
-		if (! links instanceof Array) { return false; };
-		for (var i=0; i<links.length; i++) {
-			links[i].onclick = function() {
-				urchinTracker('/site/outgoing/signup/organisation');
-			}
-		}
-	}
-	function trackLicensingSignUpClicks(links) {
-		if (! links instanceof Array) { return false; };
-		for (var i=0; i<links.length; i++) {
-			links[i].onclick = function() {
-				urchinTracker('/site/outgoing/signup/licensing');
-				alert('Test!!!');
-			}
-		}
-	}
-	
-//]]>
-</script>
-
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/18271/static/js/std.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/18271/static/js/Auth.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/18271/static/js/ui.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/18271/static/js/default.js"></script>
 </head>
 
 
@@ -177,6 +42,16 @@
 			
 			<div id="HeaderLinks_Session">
 							
+				<div style="font-size: 13px; font-weight: bold">
+					<a href="http://www.editgrid.com/site/login" title="EditGrid user login">User Login</a> &nbsp;|&nbsp; 
+					<a attachpoint="SignUpPersonal" href="http://www.editgrid.com/site/signup" title="Sign Up for Free now">Sign Up</a>
+				</div>
+				
+			</div>
+
+			
+			<div id="HeaderLinks_Session_4iPhone" style="display: none">
+			
 			</div>
 		</td></tr></tbody></table>
 
@@ -185,10 +60,10 @@
 			if (isSafariMobile()){
 				std.css.bulkset('display', ['block', 'HeaderLinks_iPhone_SafariMobile']); 
 				std.css.bulkset('display', ['none', 'HeaderLinks_Session']); 
-				std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
-			} else {
-				std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
+				std.css.bulkset('display', ['block', 'HeaderLinks_Session_4iPhone']); 
 			}
+			// do not display promotional header since mid-December 2007
+			// std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
 		//]]>
 		</script>
 	</div>
@@ -208,7 +83,6 @@
 <div class="Navigation">
 
 	
-
 	<div class="TopLevelMenu">
 		<div class="Item"><a href="http://www.editgrid.com/site/learn" title="Learn more about EditGrid">Learn EditGrid</a></div>
 		<div class="Item"><a href="http://www.editgrid.com/site/try" title="Try Now!">Try Now!</a></div>
@@ -223,28 +97,18 @@
 		prepareHoverImages('TopMenuSignUp', 'http://www.editgrid.com/site/static/img/signUp.gif', 'http://www.editgrid.com/site/static/img/signUp_over.gif');
 	//]]>
 	</script>
-	<div class="TestimonialBubble">
+		<div class="TestimonialBubble">
 		
 			<div class="Quote">
-				"One of the most promising and enterprising startups in the Office 2.0 space"
+				"[T]he most advanced ajax-based online spreadsheet"
 			</div>
 			
 			
-			<div class="Writer">- Vivek Puri,<br> StartupSquad</div>
+			<div class="Writer">- Ismael Ghalimi,<br> IT|Redux</div>
 
 		<div class="FootNote"><img src="http://www.editgrid.com/site/static/img/black_arrow.gif" alt=""> <a href="http://www.editgrid.com/site/learn/testimonial" title="Testimonials">More Testimonials</a></div>
 	</div>
 
-	<div class="SupportMenu">
-		<div class="Title">Support</div>
-		<div class="Items">
-			<div class="Item"><a href="http://www.editgrid.com/site/support/general" title="General Help">General Help</a></div>
-			<div class="Item"><a href="http://www.editgrid.com/site/support/faq" title="FAQ">FAQ</a></div>
-			<div class="Item"><a href="http://forum.editgrid.com/" title="EditGrid User Forum" target="_blank">User Forum</a></div>
-			<div class="Item"><a href="http://wiki.editgrid.com/" title="EditGrid Documentation" target="_blank">Documentation</a></div>
-			<div class="Item"><a href="http://www.editgrid.com/site/support/contact" title="Contact Us">Contact Us</a></div>
-		</div>
-	</div>
 </div>
 
 <div class="MainContent">
@@ -368,52 +232,96 @@
 </div>
 
 <div class="PageFooter">
-	<div class="TextMenu">
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/" title="Home">Home</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://blog.editgrid.com/" title="EditGrid Blog" target="_blank">Blog</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/changelog" title="EditGrid Development Change Log">Change Log</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/sitemap" title="Site Map">Site Map</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/terms" title="Terms of Use">Terms</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/privacy" title="Privacy Policy">Privacy</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/credit" title="Credits">Credits</a></span>
-		<span class="Separator">|</span>
-		<span class="LinkItem"><a href="http://www.editgrid.com/site/about_us" title="About Us">About Us</a></span>
-	</div>
+
+	<div class="FooterLinks">
+	<table class="FooterLinksTable" width="99%">
+		<colgroup span="7">
+			<col width="158">
+			<col width="10">
+			<col width="188">
+			<col width="10">
+			<col width="188">
+			<col width="10">
+			<col width="188">
+		</colgroup>
+		<tbody><tr>
+			<th>About EditGrid</th>
+			<td class="FooterTableSeparator" rowspan="2">&nbsp;</td>
+			<th>EditGrid Services</th>
+			<td class="FooterTableSeparator" rowspan="2">&nbsp;</td>
+			<th>Developers</th>
+			<td class="FooterTableSeparator" rowspan="2">&nbsp;</td>
+			<th>Promote EditGrid</th>
+		</tr>
+		<tr>
+			 <td><p>
+				</p><table class="ColumnTable">
+					<tbody><tr><td><a href="http://www.editgrid.com/site/" title="Home Page">HOME PAGE</a></td></tr>
+					<tr><td><a href="http://www.editgrid.com/site/learn/featured_spreadsheets" title="Featured EditGrid Spreadsheets">FEATURED SPREADSHEET</a></td></tr>
+					<tr><td style="height: 21px"><a href="http://www.editgrid.com/site/learn/user_story" title="User Stories">USER STORIES</a></td></tr>
+					<tr><td style="height: 21px"><a href="http://www.editgrid.com/site/learn/customer_successes" title="Customer Successes">CUSTOMER SUCCESS</a></td></tr>
+					<tr><td><a href="http://www.editgrid.com/site/learn/testimonial" title="Testimonials">TESTIMONIALS</a>, <a href="http://www.editgrid.com/site/learn/award" title="Awards">AWARDS</a></td></tr>
+					<tr><td><a href="http://www.editgrid.com/site/terms" title="Terms of use">TERMS OF USE</a>, <a href="http://www.editgrid.com/site/privacy" title="Privacy">PRIVACY</a></td></tr>
+					<tr><td><a href="http://www.editgrid.com/site/sitemap" title="Site Map">SITE MAP</a>, <a href="http://www.editgrid.com/site/credit" titl="Credits">CREDITS</a></td></tr>
+					<tr><td><a href="http://www.editgrid.com/site/support/contact" title="Contact Us">CONTACT US</a></td></tr>
+				</tbody></table>
+				<p></p>
+			</td>
+			<td>
+				<p>EditGrid is FREE for personal users. If you want to buy our product / services, see <a href="http://www.editgrid.com/site/purchase/service" title="EditGrid Subscription and licensing plan">SUBSCRIPTION AND LICENSING PLAN</a>. </p>
+				<p>Check out our <a href="https://wiki.editgrid.com/" target="_blank" title="EditGrid Documentation, User Manual">DOCUMENTATION</a>. Support is available in our <a href="http://forum.editgrid.com" target="_blank" title="EditGrid User Forum">USER FORUM</a> or through <a href="mailto:cs@editgrid.com" title="Email EditGrid Customer Support">EMAIL</a>. We also publish our <a href="http://status.editgrid.com/" target="_blank" title="EditGrid System Status">SYSTEM STATUS</a>. </p>
+			</td>
+			<td>
+				<p>EditGrid provides a <a href="https://wiki.editgrid.com/display/devdoc/Web+API" title="EditGrid WEB API" target="_blank">WEB API</a> and a <a href="https://wiki.editgrid.com/display/devdoc/Grid+API" title="EditGrid GRID API" target="_blank">GRID API</a> for programmatic access to EditGrid features. Check out the <a href="http://www.editgrid.com/site/learn/api" title="EditGrid API Showcases">SHOWCASES</a> here and visit <a href="http://lab.editgrid.com" title="EditGrid Labs for developers" target="_blank">EDITGRID LABS</a> for more demos.</p>	
+				<p>Full documentation is available on the <a href="https://wiki.editgrid.com/display/dev/Developers+Wiki" title="EditGrid Developer Wiki" target="_blank">DEVELOPER WIKI</a> </p>
+			</td>
+			<td>
+				<p>You can promote EditGrid by share/bookmark EditGrid to:
+				</p><table class="ColumnTable">	
+					<tbody><tr><td><a href="http://del.icio.us/post?url=http://www.editgrid.com&amp;title=EditGrid Online Spreadsheet" title="Bookemark EditGrid to Del.icio.us" target="_blank">DEL.ICIO.US</a></td></tr>
+					<tr><td><a href="http://www.facebook.com/sharer.php?u=http://www.editgrid.com" title="Post EditGrid to your Facebook profile" target="_blank">FACEBOOK</a></td></tr>
+					<tr><td><a href="http://www.stumbleupon.com/submit?url=http://www.editgrid.com&amp;title=EditGrid%20Online%20Spreadsheet" title="Stumble it" target="_blank">STUMBLEUPON</a></td></tr>
+					<tr><td><a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.editgrid.com" title="Bookmark EditGrid to Google" target="_blank">GOOGLE</a></td></tr>
+				</tbody></table>
+				
+				<p>You can track EditGrid's updates through our <a href="http://blog.editgrid.com" title="EditGrid Blog" target="_blank">BLOG</a> and <a href="http://twitter.com/EditGrid" title="Twittering" target="_blank">TWITTER</a>
+			</p></td>
+		</tr>
+	</tbody></table>
+</div>
+
 
 	<div class="FootNote">
 		<div class="LeftHolder NoWrap" style="color: #666666">A Web 2.0 Online Spreadsheet.</div>
-		<div class="RightHolder NoWrap" style="color: #666666">Copyright © 2006-2007 Team and Concepts Limited</div>
+		<div class="RightHolder NoWrap" style="color: #666666">Copyright © 2006-2008 Team and Concepts Limited</div>
 	</div>
+	<br><br>
 </div>
 </td></tr></tbody></table>
 
 
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-	_uacct = "UA-2650108-1";
-	urchinTracker();
-	
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2650108-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
 	// auto bind tracking codes to sign up links
-	var signup_links = getSignUpLinks();
-	trackPersonalSignUpClicks(signup_links['personal']);
-	trackOrgSignUpClicks(signup_links['organisation']);
-	trackLicensingSignUpClicks(signup_links['licensing']);
-	
+	var trackable_links = getTrackableLinks();
+	trackExcelPlusDownloadClicks(trackable_links['excelplus']);
+	trackPersonalSignUpClicks(trackable_links['personal']);
+	trackOrgSignUpClicks(trackable_links['organisation']);
+	trackLicensingSignUpClicks(trackable_links['licensing']);
 </script>
 
 
 
 
 
-<!-- ca04.editgrid.com, 0.006740 secs -->
+<!-- ca02.editgrid.com, 0.007066 secs -->
 
 </body></html>
