@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleclone.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011073524id_/http%3A//www.articleclone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleclone.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615160045id_/http%3A//www.articleclone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Article Directory: privacy Free Articles :: ArticleClone.com
 
