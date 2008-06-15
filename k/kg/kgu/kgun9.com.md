@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217011223id_/http%3A//www.kgun9.com/PrivacyPolicy/tabid/1985/xmid/7672/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615132147id_/http%3A//www.kgun9.com/PrivacyPolicy/tabid/1985/xmid/7672/Default.aspx) for the most accurate reproduction.*
 
 # KGUN 9 News - ABC KGUN-TV Tucson, Arizona, News & Weather. > Privacy Policy
 
