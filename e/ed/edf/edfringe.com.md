@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212075449id_/http%3A//www.edfringe.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616000821id_/http%3A//www.edfringe.com/info/privacy.html) for the most accurate reproduction.*
 
 # edfringe.com : official site of the edinburgh festival fringe
 
