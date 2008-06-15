@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026051524id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013010id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
-# DJ Intelligence™ - Privacy Statement
+# DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Thursday, October 26, 2006   **  
+**Sunday, June 15, 2008   **  
    
 | **  [Home Page](http://www.djintelligence.com/)**  
 | **  [Demo Websites](http://www.djintelligence.com/pages/demo.asp)**  
@@ -15,7 +15,7 @@
 | **  [How It Works](http://www.djintelligence.com/pages/works.asp)**  
 | **  [Success Stories](http://www.djintelligence.com/pages/success.asp)**  
 | **  [Sign Up Now](https://www.djintelligence.com/signup/signup.asp)**  
-| **  [Full Trial Offer](https://www.djintelligence.com/signup/trial.asp)**  
+| **  [2 Month Trial Offer](https://www.djintelligence.com/signup/trial.asp)**  
 | **  [Contact Us](http://www.djintelligence.com/pages/contact.asp)**  
 | **  [ Account Login](http://www.djintelligence.com/account)**  
    
@@ -24,11 +24,11 @@
   **Professional DJs Speak Up   **  
  
 
-|  "We got 4 bookings in the first week since we subscribed. We will definitely be using you for a very long time." |    
+|  "Signing up for DJ Intelligence is without the doubt the best thing we have ever done as a company." |    
 ---|---  
   
    
-[Inferno DJ Service](http://www.djintelligence.com/pages/success.asp)   
+[Desert DJ's](http://www.djintelligence.com/pages/success.asp)   
    
   
 ---  
@@ -41,6 +41,8 @@
   
 **Account Quick Login   **  
   
+ 
+
 **Privacy Statement**
 
 Intelligence, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy.
@@ -68,8 +70,8 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
   * DJ Intelligence displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
     * DJ Intelligence does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * DJ Intelligence advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-  * DJ Intelligence does reserve the right at our discretion only to publicly list companies that are subscribers to our service in the form of company name and state/province, country. At our sole discretion, we may also from time to time list the subscriber website URL to show as an example to prospective/current subscribers.
-  * DJ Intelligence does reserve the right to compile anonymous subscriber and end-user information in the form of statistical information, such as, but not limited to, the Top 200 song list or date availability checks. This does not include personally identifiable information.
+  * DJ Intelligence does reserve the right at our discretion only to publicly list companies that are subscribers to our service in the form of company name and location. At our sole discretion, we may also from time to time list the subscriber website URL to show as an example to prospective or current subscribers.
+  * DJ Intelligence does reserve the right to compile anonymous subscriber and end-user information in the form of statistical information, such as, but not limited to, the top songs lists or date availability checks. This does not include personally identifiable information.
 
 **Cookies**
 
@@ -97,6 +99,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20061026051524id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20080616013010id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
 
