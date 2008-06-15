@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011151324id_/http%3A//www.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615175556id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# Guitar Center - Musical Instruments Retailer
+# Guitar Centers Policies - Guitar Center
 
-| **GuitarCenter.com** | **VintageGuitars.net** | **RockWalk.com** | **GCPro.com**  
----|---|---|---  
+| **GuitarCenter.com** | **Used.GuitarCenter.com** | **VintageGuitars.net** | **RockWalk.com** | **GCPro.com**  
+---|---|---|---|---  
   
-**·**   [Terms of Use](https://web.archive.org/web/20071011151324id_/http%3A//www.guitarcenter.com/legal/index.cfm)   
-**·**   [Your Privacy Rights](https://web.archive.org/web/20071011151324id_/http%3A//www.guitarcenter.com/legal/privacy.cfm)  
-**·**   [Purchase Terms and Conditions](https://web.archive.org/web/20071011151324id_/http%3A//www.guitarcenter.com/legal/tac.cfm)  
-**·**   [Forum Terms](https://web.archive.org/web/20071011151324id_/http%3A//www.guitarcenter.com/legal/forum.cfm)
+
 
   
 **Your Privacy Rights – Privacy Policy**
