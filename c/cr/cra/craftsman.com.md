@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013082051id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615134452id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
 
-# Sears
+# Buy Craftsman Tools | Fitness Equipment | Kenmore Home Appliances | Lawn & Garden Equipment | Sears.com - Where It All Begins
 
   * Sears.com Privacy Policy
   * What type of information does sears.com collect? 
@@ -15,7 +15,7 @@
 
 
 
-**Every transaction on sears.com is secure. For more security policy information and tips on identifying e-mail fraud (phishing scams),[click here](https://web.archive.org/shc/s/nb_10153_12605_NB_CSsecure?adCell=A4). **
+**Every transaction on sears.com is secure. For more security policy information and tips on identifying e-mail fraud (phishing scams),[click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSsecure?adCell=A4). **
 
 Sears.com Privacy Policy
 
@@ -61,7 +61,7 @@ Back to top
 
 How does sears.com handle personally identifiable information collected on children?
 
-The online privacy and safety of children is important to Sears. Please [click here](https://web.archive.org/shc/s/nb_10153_12608_NB_CSchildprivacy?adCell=A4&adCell=A4) to read our Children's Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following: 
+The online privacy and safety of children is important to Sears. Please [click here](http://www.sears.com/shc/s/nb_10153_12608_NB_CSchildprivacy?adCell=A4&adCell=A4) to read our Children's Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following: 
 
   * collection of children's personal information
   * use of children's personal information
@@ -76,13 +76,13 @@ Back to top
 
 Can I "opt out" of receiving promotional e-mails from sears.com?
 
-Sears.com may send you e-mails with promotional offers only if you opt-in to receiving such e-mails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please [click here](https://web.archive.org/shc/s/LogonForm?adCell=A4) and follow the "Unsubscribe" instructions. Your e-mail address will be removed from our marketing list. 
+Sears.com may send you e-mails with promotional offers only if you opt-in to receiving such e-mails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please [click here](http://www.sears.com/shc/s/LogonForm?adCell=A4) and follow the "Unsubscribe" instructions. Your e-mail address will be removed from our marketing list. 
 
 Back to top
 
 How can I access my sears.com information?
 
-You can personalize your experience at sears.com becoming a registered user. By registering, you will be able to tell us what products and services interest you, your billing and shipping address preferences, and whether you wish to receive e-mail about special sales and promotions. Once registered, you can review and maintain your account information at anytime, by clicking on the 'My Profile' link at the top of each sears.com page. Your account information is secure and is accessible by using a password that you select. To become registered user at sears.com, or to modify your current preferences, [click here](https://web.archive.org/shc/s/LogonForm?adCell=A4). 
+You can personalize your experience at sears.com becoming a registered user. By registering, you will be able to tell us what products and services interest you, your billing and shipping address preferences, and whether you wish to receive e-mail about special sales and promotions. Once registered, you can review and maintain your account information at anytime, by clicking on the 'My Profile' link at the top of each sears.com page. Your account information is secure and is accessible by using a password that you select. To become registered user at sears.com, or to modify your current preferences, [click here](http://www.sears.com/shc/s/LogonForm?adCell=A4). 
 
 Back to top
 
