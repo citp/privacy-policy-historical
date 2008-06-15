@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerschoicevideogames.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030134450id_/http%3A//www.playerschoicevideogames.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerschoicevideogames.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615215725id_/http%3A//www.playerschoicevideogames.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
