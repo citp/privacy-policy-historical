@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215084615id_/http%3A//www.sothebysrealty.com/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615151915id_/http%3A//www.sothebysrealty.com/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sotheby's International Realty® | Privacy Policy
 
