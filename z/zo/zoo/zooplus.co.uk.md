@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214161831id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141001id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.co.uk
 
-  
+## Privacy & Security
+
 Dear customers, 
 
 We value your trust and thus make every effort to make your shopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
