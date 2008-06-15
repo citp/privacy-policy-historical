@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233910id_/http%3A//www.speedwaymotors.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142220id_/http%3A//www.speedwaymotors.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Speedway Motors Privacy Policy
+# PrivacyPolicy
 
-  
-  
 This statement discloses the privacy practices for www.speedwaymotors.com. The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within speedwaynotors.com to read the privacy statements of those sites as their privacy practices may differ from ours.
 
 If you have questions or concerns regarding this statement you should first contact us via Customer Service 
 
-[_email_](https://web.archive.org/ContactUs.aspx) or by calling 800.979.0122. If you prefer to write us our postal address is:
+[_email_](https://web.archive.org/ContactUs.aspx)
+
+or by calling 800.979.0122. If you prefer to write us our postal address is:
 
 Speedway Motors, Inc.  
 340 Victory Lane  
@@ -29,7 +29,8 @@ Speedway Motors has taken numerous precautions to guard your security while maki
   * _What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?_
   * _What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?_
 
-  
+
+
 _**What personally identifiable information is being collected?**_  
 You may be asked to provide us with personally identifiable information when you visit the Speedway Motors website in order for us to provide you with the products or services that you have requested. For example, when you order a product we may ask you to become a registered user of our site. You will be asked for your shipping and billing addresses, your email address, and your credit card number or other payment-related information. If you request one of our newsletters or send an inquiry to one of our customer service representatives we will store a record of your request along with your email address. Additionaly, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited. That information does not typically contain any personally identifiable information about you.
 
@@ -41,7 +42,9 @@ We occasionally need to share information with third parties in order to operate
 
 We use DeepMetrix, a third-party service provider, to help us gather and analyze information about the traffic on our website, including anonymous traffic and from time to time individual user activity. DeepMetrix only role is to help us conduct our business and deliver the most relevant products and services. DeepMetrix is not permitted to use your personally identifiable information for any secondary purposes. If you would like to find out more about DeepMetrix including their privacy statement, go 
 
-[_here_](http://www.deepmetrix.com/legal/privacy/products/#DeepMetrix_LiveSTATS_Log_Analyzer).
+[_here_](http://www.deepmetrix.com/legal/privacy/products/#DeepMetrix_LiveSTATS_Log_Analyzer)
+
+.
 
 _**How do I access, update, or delete my personally identifiable information?**_  
 If you are a registered user of the website, you can manage many aspects of your registration information. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before changes can be made. The online registration area will also permit you to exercise control over the use of your email address, allowing you to opt-out of future email messages from this website. Due to various legal and recordkeeping requirements, however, we may be required to maintain records about your purchases or other activities on this website. However, you will always be permitted to opt-out of any marketing uses of your personal information. If you prefer to manage your personal information via other means, you may contact us by postal mail at:
@@ -65,13 +68,14 @@ If you do not want to receive email from us in the future, please let us know by
 
 If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this website, and messages from subsidiaries of Speedway Motors and other companies with operational relationships to Speedway Motors. You may modify your email preferences by calling 800.979.0122 or if you have an account at speedwaymotors.com you may change them in the "My Account" section by clicking 
 
-[_here_](http://www.speedwaymotors.com/login.aspx).
+[_here_](http://www.speedwaymotors.com/login.aspx)
+
+.
 
 If you provide us with your postal address, you may receive periodic catalogs from us or other notices containing information about new products and services or upcoming events. Occasionally, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Speedway Motors' family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, _we do not share email addresses with any outside organizations for marketing purposes_. If you do not wish to receive postal mailings from Speedway Motors, its subsidiaries, or third-party organizations, please let us know by calling, sending an email, or writing to us at the above postal address. Please provide us with your exact name and postal address and define which lists you wish to be removed from so that we can be sure your information is removed from future mailing lists.
 
 We will request your telephone number or facsimile (FAX) number and if you provide it you may receive telephone or FAX contact from us with information regarding your orders or requests for information. We do not share phone or FAX numbers with third parties for marketing purposes.
 
-  
 _**What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?**_  
 Speedway Motors values your business and is committed to doing everything possible to make our online ordering process secure. As always, our 100% satisfaction guarantee applies to any and all purchases from Speedway Motors.
 
@@ -89,7 +93,9 @@ Lincoln, NE 68528
 
 If you have any further question regarding your online security, please contact us at 800.979.0122 or 
 
-[_email Customer Service_](https://web.archive.org/ContactUs.aspx).
+[_email Customer Service_](https://web.archive.org/ContactUs.aspx)
+
+.
 
 **Children**
 
