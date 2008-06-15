@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeps.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217004007id_/http%3A//www.sleeps.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeps.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615133214id_/http%3A//www.sleeps.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,9 +6,11 @@
 
 **Dream Central** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Dream Central ](http://www.sleeps.com/)
 
-####  Cookies 
+####  Cookies
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. _Our advertisers set cookies to prevent the same ad from always appearing._
+Our Site uses cookies to make sure you don't see the same ad repeatedly. _Our advertisers set cookies to prevent the same ad from always appearing._ **Third parties may be placing and reading cookies on your users’ browser, or using web beacons to collect information, in the course of ads being served on your website.**
+
+Please refer to your browser's options to learn more about cookies and how to disable them.
 
 ####  Advertisers 
 
