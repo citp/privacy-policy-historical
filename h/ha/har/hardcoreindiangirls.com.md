@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreindiangirls.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227171327id_/http%3A//www.hardcore-indian-girls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreindiangirls.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615204258id_/http%3A//www.hardcore-indian-girls.com/privacy.html) for the most accurate reproduction.*
 
 # Hardcore Indian Girls - Privacy Policy
 
