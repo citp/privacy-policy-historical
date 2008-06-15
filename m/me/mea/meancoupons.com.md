@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meancoupons.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027064920id_/http%3A//www.meancoupons.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meancoupons.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165732id_/http%3A//www.meancoupons.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of MeanCoupons
 
@@ -12,6 +12,7 @@ With respect to Ad Servers, we do not partner with or have special relationships
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the email address provided above. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by contacting us by e-mail at the above address. Consumers can have this information corrected by sending us e-mail at the above address.
 
-The coupons, deals and offers on this site are subject to change without notice. They are provided "as is", without warranty of any kind and the discounts should be verified before placing the order
+The coupons, deals and offers on this site are subject to change without notice. They are provided "as is", without warranty  
+of any kind and the discounts should be verified before placing the order.
 
 MeanCoupons | 848 N. Rainbow Blvd. #684 | Las Vegas | NV | 89107
