@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229232540id_/http%3A//www.hungrygowhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615052238id_/http%3A//www.hungrygowhere.com/privacy) for the most accurate reproduction.*
 
-# HungryGoWhere - Privacy Policy
+# Privacy Policy
 
 HungryGoWhere has provided this Privacy Policy because we value your right to privacy. This policy is effective as of 1 November 2006 and governs the collection of personal information through this website on or after this date. 
 
