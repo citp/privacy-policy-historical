@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061147id_/http%3A//www.electronicsweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615155321id_/http%3A//www.electronicsweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Electronics Weekly
 
@@ -38,4 +38,4 @@ To alter your details
 
 If your personal information changes you can alter the details we hold by sending an e-mail to [webmaster@electronicsweekly.co.uk](mailto:webmaster@electronicsweekly.co.uk) or by accessing one of the login pages of ElectronicsWeekly.com.
 
-[](http://electronicsweekly.com/Home/privacy.htm?PrinterFriendly=true) [Printer Friendly](http://electronicsweekly.com/Home/privacy.htm?PrinterFriendly=true)
+[Printer Friendly](http://www.electronicsweekly.com/Home/privacy.htm?PrinterFriendly=true)
