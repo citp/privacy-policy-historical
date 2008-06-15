@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210202642id_/http%3A//www.utsavsarees.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615181511id_/http%3A//www.utsavsarees.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy policy for Utsavsarees.in - Specialized in Indian clothing forSalwar Kameez, Bridal Sarees, Lehengas, Pakistani Bridal Wear, Indian Lehngas, Sarees, Salwar Kameez Wholesale, Chania Choli
 
