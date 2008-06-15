@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009170637id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165554id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of ChemicalRegister.com - The online yellow pages for the Chemical industry buyer or supplier
 
@@ -12,6 +12,7 @@ We respect the privacy of those who visit our web site and those who become subs
   * When you register with us, we ask for your name, email address, zip code, occupation, industry, and personal interests. Once you register with us and sign in to our services, you are not anonymous to us.
   * We use this information for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about services.
   * We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested. This information is not linked to your account and will not be used to identify you.
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
 
   * We will not sell or rent your personally identifiable information to anyone.
