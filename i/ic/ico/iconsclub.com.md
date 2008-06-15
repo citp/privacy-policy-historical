@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconsclub.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203014226id_/http%3A//iconsclub.com/page.php%3Fpage%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconsclub.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616000649id_/http%3A//iconsclub.com/page.php%3Fpage%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
