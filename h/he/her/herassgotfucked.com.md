@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herassgotfucked.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223050451id_/http%3A//support.herassgotfucked.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2535%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herassgotfucked.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174453id_/http%3A//support.herassgotfucked.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2535%26country%3Dus) for the most accurate reproduction.*
 
 # Her Ass Got Fucked
 
