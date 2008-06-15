@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231204id_/http%3A//www.extremefunnypictures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615221037id_/http%3A//www.extremefunnypictures.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -25,13 +25,13 @@ Extreme Funny Pictures is the sole owner of the information collected on this si
 
   
 **Cookies**  
-A cookie is a piece of data stored on the user�s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates.  For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.  For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+A cookie is a piece of data stored on the user’s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates.  For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.  For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.
 
   
 **Log Files**  
-We use IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.
 
   
 **Sharing  
@@ -55,7 +55,7 @@ These parties are not allowed to use personally identifiable information except 
 
   
 **Tell-A-Friend  
-**If a user elects to use our referral service for informing a friend about our site, we ask them for the friend�s name and email address.  If a user inputs their email address to be added to the Extreme Funny Pictures newsletter they are automatically added to the Extreme Funny Pictures newsletter database for newsletter mailings. TAFMaster.com will automatically send the friend a one-time email inviting them to visit the site  TAFMaster.com stores this information for the sole purpose of sending this one-time email.  The friend may contact TAFMaster.com at http://www.TAFMaster.com to request the removal of this information from their database.
+**If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  If a user inputs their email address to be added to the Extreme Funny Pictures newsletter they are automatically added to the Extreme Funny Pictures newsletter database for newsletter mailings. TAFMaster.com will automatically send the friend a one-time email inviting them to visit the site  TAFMaster.com stores this information for the sole purpose of sending this one-time email.  The friend may contact TAFMaster.com at http://www.TAFMaster.com to request the removal of this information from their database.
 
   
 **Site and Service Updates  
@@ -63,13 +63,13 @@ These parties are not allowed to use personally identifiable information except 
 
   
 **Correction/Updating Personal Information:  
-**If a user�s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user�s personal data provided to us.  This can be done by [contacting us here.](https://web.archive.org/web/20071225231204id_/http%3A//www.extremefunnypictures.com/feedback.htm)
+**If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can be done by [contacting us here.](https://web.archive.org/web/20080615221037id_/http%3A//www.extremefunnypictures.com/feedback.htm)
 
   
 **Choice/Opt-out   
-**Our users are given the opportunity to �opt-out� of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an �opt-out� mechanism so users who buy a product from us, but don�t want any marketing material, can keep their email address off of our lists. 
+**Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the remove link at the bottom of every email or may fill in their email address manually [here](https://web.archive.org/web/20071225231204id_/http%3A//www.extremefunnypictures.com/unsubscribe.htm). 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the remove link at the bottom of every email or may fill in their email address manually [here](https://web.archive.org/web/20080615221037id_/http%3A//www.extremefunnypictures.com/unsubscribe.htm). 
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
