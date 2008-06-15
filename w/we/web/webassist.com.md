@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015062947id_/http%3A//www.webassist.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615140556id_/http%3A//www.webassist.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # WebAssist - Privacy Policy
 
@@ -85,4 +85,4 @@ We provide you the opportunity to opt-out of having your personally identifiable
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@WebAssist.com. We also offer you an opportunity to opt-out of certain communications through your account management screen. 
 
-If you have questions or concerns regarding this Privacy Policy, you should contact WebAssist by e-mailing privacy@WebAssist.com or my mail at 227 N. El Camino Real, Suite 204, Encinitas, CA 92024. 
+If you have questions or concerns regarding this Privacy Policy, you should contact WebAssist by e-mailing privacy@WebAssist.com or my mail at 8899 University Center Ln, Ste 330, San Diego, CA 92122. 
