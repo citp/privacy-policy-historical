@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026122318id_/http%3A//www.copernic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142556id_/http%3A//www.copernic.com/privacy.html) for the most accurate reproduction.*
 
 # Copernic Inc. - Web Site Privacy Policy
 
 **Copernic Inc. - Web Site Privacy Policy**  
-[Click here to go to our Software Privacy Policy.](https://web.archive.org/web/20071026122318id_/http%3A//www.copernic.com/en/company/privacy/privacy-software.html)
+[Click here to go to our Software Privacy Policy.](https://web.archive.org/web/20080615142556id_/http%3A//www.copernic.com/en/company/privacy/privacy-software.html)
 
 Copernic Inc. respects your right to privacy. We understand the sensitive nature of privacy issues and the company takes measures to ensure that the confidentiality of our clients and web users is protected. Copernic Inc. does not distribute, sell, or rent any of the information collected about our website users or clients. 
 
@@ -52,7 +52,7 @@ We, however, may occasionally wish to communicate with our customers in order to
 
 As part of our service, our Customer Service Department routinely communicates with members by phone or email to respond to questions or issues relating to their account, or to offer optimization services. We may also solicit some of our clients from time to time, either online or by email, to participate in client surveys. Participation in these surveys is voluntary, and the information collected provides Copernic Inc. with valuable feedback on our services, which in turn, helps us to improve them.
 
-Copernic Inc. respects your right to unsubscribe from our company offers and newsletters at any time. To do so, [please contact our Customer Service Department](https://web.archive.org/web/20071026122318id_/http%3A//www.copernic.com/corporate/en/contact/index.html). Please note, that this does not include status or confirmation emails related to your account activity.
+Copernic Inc. respects your right to unsubscribe from our company offers and newsletters at any time. To do so, [please contact our Customer Service Department](https://web.archive.org/web/20080615142556id_/http%3A//www.copernic.com/corporate/en/contact/index.html). Please note, that this does not include status or confirmation emails related to your account activity.
 
 **Information Sharing**  
 Copernic Inc. may share the information we gather from cookies, web beacons, survey respondents, etc., with advertisers, business partners, sponsors, and other selected third parties. This sharing of information is done only in an aggregate form for statistical purposes.
@@ -69,4 +69,4 @@ Clients' personally identifiable information is password protected and restricte
 **Children Under 13 Years of Age**  
 In light of the concern over protecting children's privacy online, Copernic Inc. does not knowingly request, collect, or share personally identifiable information from users under the age of 13. Our websites, products and services are neither developed for, nor directed at, children.
 
-For additional information, or to express your comments or concerns, please [contact us](https://web.archive.org/web/20071026122318id_/http%3A//www.copernic.com/corporate/en/contact/index.html).
+For additional information, or to express your comments or concerns, please [contact us](https://web.archive.org/web/20080615142556id_/http%3A//www.copernic.com/corporate/en/contact/index.html).
