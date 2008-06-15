@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youchandoit.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621133918id_/http%3A//www.youchandoit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youchandoit.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142631id_/http%3A//www.youchandoit.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
