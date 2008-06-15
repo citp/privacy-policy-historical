@@ -1,29 +1,44 @@
-> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203154349id_/http%3A//www.nerdtests.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616000234id_/http%3A//nerdtests.com/privacy.php) for the most accurate reproduction.*
 
-# NerdTests.com - Privacy Policy
+# NerdTests.com - Terms of Service and Privacy Policy
 
-Updated: 22 Aug 2007, 20:14 CDT
+Updated: 04 Mar 2008, 10:50 CST
 
 The following websites are part of the NerdTests.com network:  
-   \- CRACKBOOK.COM  
-   \- DIGGTEST.COM  
-   \- EXTREMETESTS.COM  
-   \- GEEKTESTER.COM  
-   \- GEEKTESTS.COM  
-   \- HUMORBADGE.COM  
-   \- HUMOURBADGE.COM  
-   \- INSANETESTER.COM  
-   \- LOSERTESTER.COM  
-   \- LUCKYTESTER.COM  
-   \- NERDTESTER.COM  
-   \- NERDTESTS.COM  
-   \- NERDYPICS.COM  
-   \- RUSXC.COM  
-   \- SEXYTESTER.COM  
-   \- STUPIDTESTER.COM  
-   \- VISTARESCUE.COM  
-   \- WEIRDTESTER.COM  
-   \- WINVISTATALK.COM
+    -DIGGTEST.COM  
+    -EXTREMETESTS.COM  
+    -GEEKTESTER.COM  
+    -GEEKTESTS.COM  
+    -HUMORBADGE.COM  
+    -HUMOURBADGE.COM  
+    -INSANETESTER.COM  
+    -INSANITYTESTER.COM  
+    -LOSERTESTER.COM  
+    -LUCKYTESTER.COM  
+    -MYTEST4U.COM  
+    -MYTESTFORYOU.COM  
+    -NARUTOTESTER.COM  
+    -NERDHOTTIES.COM  
+    -NERDHUNKS.COM  
+    -NERDLOVING.COM  
+    -NERDSPACES.COM  
+    -NERDTESTER.COM  
+    -NERDTESTS.COM  
+    -NERDYPICS.COM  
+    -QUIZCZAR.COM  
+    -QUIZNEEDLE.COM  
+    -RANDOTESTER.COM  
+    -RUABLONDE.COM  
+    -RUNESCAPETEST.COM  
+    -RUSXC.COM  
+    -SEXIESTNERD.COM  
+    -SEXYBADGE.COM  
+    -SEXYTESTER.COM  
+    -STUPIDTESTER.COM  
+    -TESTCZAR.COM  
+    -TESTNEEDLE.COM  
+    -WEIRDTESTER.COM  
+    -ZOMBIETEST.COM 
 
 The sites within the NerdTests.com network (herein referred simply as NerdTests.com) constantly strives to provide great service to you. 
 
@@ -31,7 +46,7 @@ NerdTests.com respects your right to privacy. The following describes how your i
 
 ## NerdTests.com’s Commitment to Your Privacy 
 
-NerdTests.com does not: collect personal information from you unless you provide it voluntarily; or provide or sell the names and physical addresses of customers [site users] to outside vendors. 
+NerdTests.com does not: collect personal information from you unless you provide it voluntarily; or provide or sell the names and physical addresses of customers [site users] to outside vendors. Users of the site who are under 13 years of age are not permitted to submit data that may or can be considered personal information.
 
 NerdTests.com does: safeguard customers' information from unauthorized access; collect, maintain, and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs; honor customers' requests to remove their names from the solicitation lists in a timely manner; and maintain confidentiality of customer information when undertaking additional projects. 
 
@@ -55,7 +70,11 @@ NerdTests.com's web site logs host names and IP addresses for system administrat
 
 ## Cookies 
 
-A cookie is a small, encrypted data string this server may write to your hard drive that contains a session ID. This cookie is used to deliver web content specific to your interests and to control access to NerdTests.com premium content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you wish. Please be aware that cookies may be required to complete certain functions at NerdTests.com. 
+A cookie is a small, encrypted data string this server may write to your hard drive. This cookie is used to deliver web content specific to your interests and to control access to NerdTests.com premium content.
+
+Additionally, third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on your website.
+
+A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you wish. Please be aware that cookies may be required to complete certain functions at NerdTests.com.
 
 ## Links to Other Sites 
 
