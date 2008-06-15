@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017041557id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615161445id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
   
-|  |  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20071017041557id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+|  |  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20080615161445id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
@@ -346,30 +346,31 @@ New York State Education Department
 89 Washington Avenue  
 Albany, New York 12234
 
-**If you have a question or comment about any of the NYSED program areas or topic areas, please contact:  
-[webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 474-3852 or check the NYSED Functional Telephone Directory at <http://usny.nysed.gov/phone/> .**
+If you have a question or comment about any of the New York State Education Department program areas or topic areas,   
+please call (518) 474-3852 or check the NYSED Functional Telephone Directory at <http://usny.nysed.gov/phone/> .   
+You can also visit the [Contact SED](http://usny.nysed.gov/contact.html) page for further information. 
 
-If you are a person with a disability and you have a problem accessing the content on this web site,   
-please contact: [webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 473-4501. 
+For any questions regarding teacher certification, teacher certificates or teacher certificate extensions,   
+please go to <http://www.highered.nysed.gov/tcert/contact.htm> or call (518) 474-3901
 
-Please Note: The number (518) 473-4501 is **NOT** to be used to request or inquire about professional licenses, student testing, teacher certification, teacher certificates, teacher certificate extensions, the TEACH system, education degrees (i.e. GED diplomas or high school/college transcripts), or any other NYSED program area or topic.
-
-For individuals experiencing problems with the TEACH System, please go to [ https://portals.nysed.gov/tcert/technical.htm](https://portals.nysed.gov/tcert/technical.htm)   
-or call (518) 486-6041. 
-
-For individuals unable to access the State Aid Management System (SAMS), please call the SAMS help desk at   
-(518) 474-2978 or email [ omssams@mail.nysed.gov](mailto:omssams@mail.nysed.gov). 
-
-For any questions regarding teacher certification, teacher certificates or teacher certificate extensions, please call (518) 474-3901   
-or go to <http://www.highered.nysed.gov/tcert/contact.htm>
-
-For any questions regarding GED exams, GED diplomas, or verifications of GED degrees, please call (518) 474-5906   
-or go to <http://www.emsc.nysed.gov/ged/contact.shtml>
+For individuals experiencing problems with the TEACH System,  
+please go to <https://portals.nysed.gov/tcert/technical.htm> or call (518) 486-6041
 
 For questions regarding professional licenses, professional license applications, or verifications of professional licenses,   
 please call (518) 474-3817 or go to [http://www.op.nysed.gov](http://www.op.nysed.gov/)
 
-For any questions regarding vocational rehabilitation, please call (518) 486-4031   
-or go to [ http://www.vesid.nysed.gov/all/contact.htm](http://www.vesid.nysed.gov/all/contact.htm)  
+For any questions regarding GED exams, GED diplomas, or verifications of GED degrees,   
+please call (518) 474-5906 or go to <http://www.emsc.nysed.gov/ged/contact.shtml>
+
+For individuals unable to access the State Aid Management System (SAMS),  
+please call the SAMS help desk at (518) 474-2978 or email [omssams@mail.nysed.gov](mailto:omssams@mail.nysed.gov)
+
+For any questions regarding vocational rehabilitation,  
+please call (518) 486-4031 or go to [ http://www.vesid.nysed.gov/all/contact.htm](http://www.vesid.nysed.gov/all/contact.htm)
+
+If you are a person with a disability and you have a problem accessing the content on this web site,   
+please contact: [webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 473-4501. 
+
+Please Note: The above listed phone number and/or email address is NOT to be used to request or inquire about professional licenses, student testing, teacher certification, teacher certificates, teacher certificate extensions, the TEACH system, education degrees (i.e. GED diplomas or high school/college transcripts), or any other NYSED program area or topic.  
   
 **[NYS Home Page](http://www.ny.gov/) | [map-NY](http://www.nysegov.com/map-NY.cfm) | [e-bizNYS](http://www.nysegov.com/e-bizNYS.cfm) | [Citizen Guide](http://www.nysegov.com/citguide.cfm)**
