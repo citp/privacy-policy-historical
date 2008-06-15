@@ -1,25 +1,60 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011103726id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enInfolet%3D..%252FInclude%252FStatic%252Fprivacy.jsp%26enDispWhat%3DZone%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616011715id_/http%3A//www.birthrightisrael.com/site/PageServer%3Fpagename%3Dabout_privacypolicy) for the most accurate reproduction.*
 
-# Taglit-birthright israel
+# Taglit-Birthright Israel: Privacy Policy
 
-birthright israel Internet Privacy Policy  
+Taglit-Birthright Israel has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.birthrightisrael.com.
+
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Taglit-Birthright Israelreserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+
+1\. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of;   
+2\. What personally identifiable information of yours is collected through the Site;   
+3\. Who collects such information;   
+4\. How such information is used;   
+5\. With whom your information may be shared;   
+6\. What choices you have regarding collection, use and distribution of your information;   
+7\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;   
+8\. and, How you can correct any inaccuracies in your information. 
+
+Questions regarding this statement should be directed to Taglit-Birthright Israelby sending an email to alumni@birthrightisrael.com. Please reference this Privacy Policy in your subject line. 
+
+## What Information We Collect and How We Use That Information:
+
   
-birthright israel recognizes that personal privacy is very important. We have adopted the following Privacy Policy to help ensure our commitment to privacy and to prevent the misuse of personal information we obtain through our web sites.
+Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
 
-You may visit our public web site [www.birthrightisrael.com](http://www.birthrightisrael.com/) and read about our products and services, information and news about birthright israel and its affiliates without providing any information about yourself unless you choose to do so.
+## Internet Protocol Address:
 
-Our website uses "cookies," which is an application that allows a site to be customized to the preferences of the user by placing a small file on the hard drive of your computer, tracking the user's navigation, and storing information about it. If you would rather not let us personalize your experience by using cookies, most web browsers have features that can inform you when a cookie is being sent and can allow users to opt-out of receiving cookies. If you are unsure of whether your program has this capability, you should contact the software manufacturer or your Internet service provider.
+  
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server,   
+administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. 
 
-You may provide your name, address, telephone number, e-mail address or any other additional voluntary information on our public web site [www.birthrightisrael.com](http://www.birthrightisrael.com/) in order to request information about the products and services of birthright israel and its affiliates. If you voluntarily provide personal information, this information will be accessible by authorized employees of birthright israel and used for evaluating your needs and for our own marketing and/or research and product/service development purposes. We will not sell, lend or disclose in any way personally identifiable information to organizations not affiliated with birthright israel unless we have notified you in advance and you have not objected, you have authorized us to do so, or we are required to do so by law. We will endeavor to maintain this information in accordance with our internal policies governing use and disclosure of confidential information. In the limited circumstances under which we would provide personally identifiable client information to a third party, we expect that the third party will adhere to similar privacy policies that provide for keeping such information confidential.
+## Use of "Cookies":
 
-Our website is directed at an audience over the age of 15. Children are, of course, welcome to visit our site. But if you are under the age of 15, you may not join our website, sign-up for any contest or sweepstake, or send us any personal information about you. If we determine that you are under age 15, we will delete any personal information that we have about you.
+  
+Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
-birthright israel reserves the right to modify or amend this Internet Privacy Policy and our practices of website information collection at any time, and for any reason. This Internet Privacy Policy applies only to those of birthright israel's data collection practices that are undertaken via our website. No representation in this Internet Privacy Policy may be construed, understood, or implied to form any agreement, contract, or contractual obligation with any user who visits, downloads, reads, or interacts with the birthright israel website, or who sends an email or other personally identifying information to birthright israel through its website or through any other medium.
+Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
-If you would like to change or remove any of your personal information, you can [contact us](https://web.archive.org/web/20071011103726id_/http%3A//www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&enDisplay=view&enDispWhat=Zone&enDispWho=AboutUs&enZone=AboutUs&enInfolet=../Include/ContactUs.jsp&).
+## Security:
 
-|  |  |   
----  
-| [Site Credits](https://web.archive.org/web/20071011103726id_/http%3A//www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fsite_credits.jsp&) |   
-| [Terms of Use](https://web.archive.org/web/20071011103726id_/http%3A//www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fterms.jsp&) |   
-| [Advisory Board](https://web.archive.org/web/20071011103726id_/http%3A//www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&enInfolet=..%2Finclude%2FStatic%2Fadvisory.jsp&) | 
+  
+All information provided to Taglit-Birthright Israelis transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of Taglit-Birthright Israel. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
+
+## Tell-A-Friend:
+
+  
+If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Taglit-Birthright Israelwill automatically send the friend a one-time email inviting them to visit the Site. Taglit-Birthright Israelstores this information for the sole purpose of sending this one-time email. 
+
+## Other Web Sites:
+
+  
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Taglit-Birthright Israelhas no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. 
+
+## Contacting the Web Site:
+
+  
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
+
+Taglit-Birthright Israel
+
+information@birthrightisrael.com 
