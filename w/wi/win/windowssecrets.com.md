@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027054408id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615130207id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
 
 # WindowsSecrets.com
 
