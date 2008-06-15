@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcredible.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161701id_/http%3A//www.webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcredible.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615221825id_/http%3A//www.webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Webcredible privacy policy - web usability & accessibility consultancy
 
@@ -24,6 +24,6 @@ Webcredible does not use session files to log your individual browsing patterns;
 
 Webcredible cannot be held responsible for the content or data policies and procedures on external sites.
 
-If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20070630161701id_/http%3A//www.webcredible.co.uk/contact-us.shtml).
+If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20080615221825id_/http%3A//www.webcredible.co.uk/contact-us.shtml).
 
 Back to top
