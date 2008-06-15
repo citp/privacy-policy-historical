@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directorym.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216234217id_/http%3A//www.directorym.com/legal/index.aspx%3Fid%3D43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorym.net privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615035824id_/http%3A//www.directorym.com/legal/index.aspx%3Fid%3D43) for the most accurate reproduction.*
 
-# DirectoryM - Privacy policy
+# DirectoryM - Privacy Policy
 
   * DirectoryM has a strong commitment to respecting the privacy of all visitors to our directories. This policy covers how DirectoryM treats personal information that it collects and receives, including information related to your past use of DirectoryM products and services. "Personal information" is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available.
 
