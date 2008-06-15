@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814041717id_/http%3A//www.pfaw.org/pfaw/general/default.aspx%3FoId%3D2801) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165437id_/http%3A//www.pfaw.org/pfaw/general/default.aspx%3FoId%3D2801) for the most accurate reproduction.*
 
 # People For the American Way - Privacy Policy
 
@@ -36,7 +36,7 @@ Back to Top
   
 Privacy of our email lists  
 ---  
-PFAW maintains several email lists to keep PFAW members, the press, and policy makers informed about breaking events. Individuals must affirmatively request to join our mailing lists. In addition, we do not share the email addresses on our lists with outside organizations. Only PFAW staff and our authorized agents have access to personally identifiable information provided by visitors to our site.   
+PFAW maintains several email lists to keep PFAW members and policy makers informed about breaking events. Individuals must affirmatively request to join our mailing lists. In addition, we do not share the email addresses on our lists with outside organizations. Only PFAW staff and our authorized agents have access to personally identifiable information provided by visitors to our site.   
 Back to Top  
   
 Children's privacy  
