@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105956id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174353id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Us
 
@@ -25,7 +25,7 @@
 ](http://www.drivetime.com/en-US/contactus/default.aspx "Contact Us for Car Loans")
   * [Make a Payment
 
-](https://www.paybyinternet.com/drivetime/ "DriveTime Web Payment")
+](http://www.drivetime.com/2008rebate/intermediate.aspx "DriveTime Web Payment")
 
 | 
 
