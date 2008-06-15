@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061812id_/http%3A//www.zdnet.co.uk/misc/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615040008id_/http%3A//www.zdnet.co.uk/misc/privacy/index.htm) for the most accurate reproduction.*
 
 # ZDNet UK's Privacy Statement
 
@@ -82,10 +82,9 @@ Any modifications to our privacy practices will be reflected first within this a
 Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to [ukmarketing@zdnet.co.uk](mailto:ukmarketing@zdnet.co.uk?subject=ZDNet%20UK%20Privacy%20Feedback) or sent by mail to our offices at: 
 
 CNET Networks UK Ltd  
-International House,  
-1 St. Katharine's Way,  
+5 - 11 Lavington Street,  
 London,  
-E1W 1XQ
+SE1 0NZ
 
 We read every message submitted and try to reply promptly to every one - please include the brand you are referring to when you contact us. We may also file your comments to improve the site and programme, or review and discard the information.
 
