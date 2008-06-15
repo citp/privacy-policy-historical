@@ -1,0 +1,331 @@
+<!--The following is the downloaded HTML source of the acs-inc.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615031039id_/http%3A//www.acs-inc.com/pages_exp.aspx%3Fid%3D190) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>Affiliated Computer Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" media="screen">@import "/css/nav.css";</style>
+<style type="text/css" media="screen">@import "/css/main.css";</style>
+<style type="text/css" media="print">@import "/css/print.css";</style>
+<script type="text/javascript" src="/js/acs.js"></script>
+<script src="/js/jquery.js" type="text/javascript"></script> 
+<script src="/js/jq.cleanCSSanim.js" type="text/javascript"></script> 
+<script src="/js/dimensions.js" type="text/javascript"></script>
+<script src="/js/jq_dickerfisch_menue.js" type="text/javascript"></script>
+<script src="/js/SearchHighlight.js" type="text/javascript"></script>
+<!--[if lte IE 7]>
+<link rel="STYLESHEET" type="text/css" href="/css/ie7.css" /> 
+<![endif]--> 
+<!--[if lte IE 6]> 
+<noscript><link rel="STYLESHEET" type="text/css" href="/css/ie6.css" /></noscript> 
+<![endif]-->
+<script type="text/javascript">
+$(document).ready(function() {
+	var samp3 = new DickerFisch('#nav',{NavTimeout: new Array(99,250),Fit2ViewportClass:'leftover',LimitLinks:0});
+});
+jQuery(function(){
+    var options = {
+                exact:"partial",
+                style_name_suffix:false
+    }
+    jQuery(document).SearchHighlight(options);
+});
+</script>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+  $("#greenpage").css("visibility", "hidden");
+  $("#greenpage_image").css("visibility", "hidden");   
+  $("#greenpage").hover(function(){
+  $("#greenpage_image").css("visibility", ""); 
+ }, function(){  
+  $("#greenpage_image").css("visibility", "hidden"); 
+});
+  $(".greenpageblock").bind("myEvent",function(event){$("#greenpage").css("visibility", "visible");});  
+  $(".greenpageblock").trigger("myEvent");
+
+  var rollover = $('.acstopmenu').html() 
+  $("#" + rollover).css("background-image", "url(/images/nav_" + rollover + "_over.gif)"); 
+  $("#" + rollover).next("li").html("&nbsp;");   
+  $("#" + rollover).prev("li").html("&nbsp;");
+   
+  $(".panel_example").next().slideUp("fast"); 
+  $(".panel_example").addClass("panel-up");   
+  
+  $("#sidebar").bind("myEvent",function(event){$("#bodycontent").css("width", "743px");});  
+  $("#sidebar").trigger("myEvent");
+
+  $("#sidebar > .int").bind("myEvent",function(event){$("#bodycontent").css("width", "500px");});  
+  $("#sidebar > .int").trigger("myEvent");
+  $(".contact_info_stmt").bind("myEvent",function(event){$("#subnav").append("<p style='margin-top: 130px;'>Let us help you find what you're looking for,<br />call: 1-214-841-6111,<br />email: <a href='mailto:info@acs-inc.com'>info@acs-inc.com</a></p>");});  
+  $(".contact_info_stmt").trigger("myEvent"); 
+  $('ul:empty').css("display","none")
+  $('.sitemap:empty').css("display","none")
+  $('#sidebar:empty').css("display","none")
+  
+  /*the script for automatically expanding collapsible content on search results*/
+  $("span.hilite").bind("OpenMe",function(event){ 
+   $(".panel_example").next().slideDown("slow");  
+   //$(".panel_example").removeClass("panel-down");      
+   $(".panel_example").addClass("panel-down"); 
+   $(".greenpageblock > img").css("visibility", "visible");      
+   $(".greenpageblock > img").show("fast") 
+  });
+  $("span.hilite").trigger("OpenMe");
+  
+/*automatically make all links open in new window*/
+$("a[@href^='http']").attr('target','_blank');
+
+$("#openall").click(function(){ 
+  $(".panel_example").next().slideUp("slow"); 
+  $(".panel_example").removeClass("panel-down");     
+  $(".panel_example").addClass("panel-up");
+  $(".greenpageblock > img").css("visibility", "visible");     
+  $(".greenpageblock > img").show("fast")
+});
+
+$("#closeall").click(function(){ 
+  $(".panel_example").next().slideDown("slow");  
+  $(".panel_example").addClass("panel-down");
+});   
+
+$(".panel_example").click(function(){    
+  $(this).next().slideToggle("slow", function(){  
+  $(this).prev().focus();
+  //$(".greenpageblock > img").focus();
+  $(this).prev().toggleClass("panel-down");
+  
+  $(".greenpageblock > img").css("visibility", "visible");  
+  $(".greenpageblock > img").show("fast")   
+  });
+});
+/* 
+$("#openall").click(function(){  
+  $(".panel_example").next().hide("slow");  
+  $(".panel_example").addClass("panel-down");  
+}); 
+
+$("#closeall").click(function(){  
+  $(".panel_example").next().show("slow");  
+  $(".panel_example").removeClass("panel-down");      
+  $(".panel_example").addClass("panel-up");    
+});    
+
+$(".panel_example").click(function(){  
+  $(this).next().show("slow", function(){ 
+   $(this).prev().toggleClass("panel-down"); 
+  });  
+});
+*/
+/*this is for Locations Map to toggle the expandable content*/
+$("#map_na").click(function(){  
+  $(".slide0").parent("div").next().slideToggle("slow", function(){ 
+   $(".slide0").parent("div").toggleClass("panel-down");
+}); 
+});
+$("#map_la").click(function(){  
+  $(".slide1").parent("div").next().slideToggle("slow", function(){ 
+   $(".slide1").parent("div").toggleClass("panel-down");
+}); 
+});
+$("#map_eu").click(function(){  
+  $(".slide2").parent("div").next().slideToggle("slow", function(){ 
+   $(".slide2").parent("div").toggleClass("panel-down");
+}); 
+});
+$("#map_me").click(function(){  
+  $(".slide3").parent("div").next().slideToggle("slow", function(){ 
+   $(".slide3").parent("div").toggleClass("panel-down");
+}); 
+});
+$("#map_ap").click(function(){  
+  $(".slide4").parent("div").next().slideToggle("slow", function(){ 
+   $(".slide4").parent("div").toggleClass("panel-down");   
+}); 
+});
+
+$("#sfnav > .parent").hover(function(){
+ $(this).next("li").css("visibility", "hidden");  $(this).prev("li").css("visibility", "hidden"); }, function(){  $(this).next("li").css("visibility", "visible");  $(this).prev("li").css("visibility", "visible"); });
+}); 
+//-->
+</script>
+
+<!-- Home Page Script -->
+    <script type="text/javascript" src="/js/jquery.cycle.all.pack.js"></script>
+    <script type="text/javascript">
+<!--
+$(document).ready(function(){
+ $(".black").fadeTo("fast", 0.4);
+$("#jumpbox > ul").hover(function(){  
+$("#jumpbox > ul").css("overflow","visible"); 
+}, function(){  
+$("#jumpbox > ul").css("overflow","hidden");  
+});
+$('#style').cycle({ 
+    fx:     'scrollHorz', 
+    speed:  'slow', 
+    timeout: 25000, 
+    next:   '#next', 
+    prev:   '#prev',
+            before:  fadeIn, 
+            after:   fadeAway
+});         
+
+$(".contentbox").hover(function(){
+  $(this).fadeTo("slow", 1.0); 
+ },function(){ 
+  $(this).fadeTo("slow", 0.2); 
+});
+ 
+function fadeIn() { 
+ $(".contentbox").fadeTo("fast", 1.0);
+}           
+
+function fadeAway() { 
+ setTimeout(function(){
+ $(".contentbox").fadeTo(2000, 0.2);
+ }, 3000);
+}           
+});
+//-->
+    </script>
+<!-- End Home Page Script -->
+
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+body{behavior:url(csshover.htc);}
+</style>
+<![endif]-->
+
+
+<link id="ctl00_ctl00_ekcss_global" href="/WorkArea/csslib/global.css" type="text/css" rel="stylesheet">
+
+<script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
+
+<link id="_css_leftmenu.css" href="/css/leftmenu.css" type="text/css" rel="stylesheet">
+<title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="pages_exp.aspx?id=190" id="aspnetForm" title="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgxMzU3NTA3OQ9kFgJmD2QWAmYPZBYCAgMPZBYCAgUPZBYEAgMPZBYCAgEPFgIeBFRleHQFDlByaXZhY3kgUG9saWN5ZAIHD2QWBAIHDxYCHwAFhEQ8cD48c3Ryb25nPkdlbmVyYWw8YnIgLz48YnIgLz48L3N0cm9uZz5BQ1MgaXMgY29tbWl0dGVkIHRvIHRoZSBwcml2YWN5IGFuZCBzZWN1cml0eSBvZiBwZXJzb25hbCBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSB0byB1cyB0aHJvdWdoIHRoZSB1c2Ugb2YgQUNTIFdlYiBTaXRlcy4gVGhpcyBPbmxpbmUgUHJpdmFjeSBTdGF0ZW1lbnQgKCJTdGF0ZW1lbnQiKSBpbmZvcm1zIHlvdSBvZiB0aGUgaW5mb3JtYXRpb24gcHJhY3RpY2VzIGZvciBBQ1MgV2ViIFNpdGVzLCBpbmNsdWRpbmcgdGhlIHR5cGUgb2YgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgY29sbGVjdCBmcm9tIHlvdXIgdXNlIG9mIEFDUyBXZWIgU2l0ZXMsIGhvdyB0aGUgaW5mb3JtYXRpb24gaXMgdXNlZCwgYW5kIHdpdGggd2hvbSB0aGUgaW5mb3JtYXRpb24gaXMgc2hhcmVkLjxiciAvPjxiciAvPg0KQnkgdXNpbmcgb3VyIFNpdGUsIHlvdSBhZ3JlZSB0aGF0IHlvdXIgdXNlIGlzIHN1YmplY3QgdG8gdGhlIHRlcm1zIG9mIHRoaXMgU3RhdGVtZW50IGFuZCB5b3UgY29uc2VudCB0byB0aGUgY29sbGVjdGlvbiwgdXNlIGFuZCBzdG9yYWdlIG9mIHlvdXIgaW5mb3JtYXRpb24gYnkgQUNTIGluIGFjY29yZGFuY2Ugd2l0aCB0aGlzIFN0YXRlbWVudCBhbmQgYXMgbWF5IGJlIG1vcmUgc3BlY2lmaWNhbGx5IGV4cGxhaW5lZCBvbiBlYWNoIFNpdGUuIEFDUyBtYXkgY2hhbmdlIHRoaXMgU3RhdGVtZW50IGF0IGFueSB0aW1lIGFuZCB3aWxsIGRpc3BsYXkgdGhlIGNoYW5nZXMgaGVyZSBvbiB0aGlzIFNpdGUuIEJlY2F1c2UgeW91ciB1c2Ugb2YgdGhpcyBTaXRlIGFmdGVyIGNoYW5nZXMgaGF2ZSBiZWVuIHBvc3RlZCBpbmRpY2F0ZXMgeW91ciBhZ3JlZW1lbnQgd2l0aCB0aG9zZSBjaGFuZ2VzLCB3ZSBlbmNvdXJhZ2UgeW91IHRvIHZpc2l0IHRoaXMgU3RhdGVtZW50IG9uIGEgcmVndWxhciBiYXNpcy4gSWYgeW91IGFyZSBub3QgY29tZm9ydGFibGUgd2l0aCB1c2luZyB0aGlzIFNpdGUgaW4gYWNjb3JkYW5jZSB3aXRoIHRoaXMgU3RhdGVtZW50LCBwbGVhc2UgZXhpdCB0aGUgU2l0ZSBpbW1lZGlhdGVseS48YnIgLz48YnIgLz4NCllvdSBtYXkgaGF2ZSBhY2Nlc3NlZCB0aGlzIFNpdGUgYXMgYSByZXN1bHQgb2YgYSBsaW5rIGZyb20gYW5vdGhlciBBQ1MgU2l0ZS4gVGhpcyBTdGF0ZW1lbnQgYXBwbGllcyB0byBhbGwgQUNTIFNpdGVzIGxpbmtlZCB0byB0aGlzIFNpdGUgZXhjZXB0IHdoZXJlIG1vcmUgc3BlY2lmaWMgaW5mb3JtYXRpb24gaXMgcHJvdmlkZWQgb24gdGhlIGxpbmtlZCBTaXRlIHdpdGggcmVzcGVjdCB0byB0aGUgY29sbGVjdGlvbiwgdXNlIGFuZCBzdG9yYWdlIG9mIHBlcnNvbmFsIGluZm9ybWF0aW9uLjxiciAvPjxiciAvPg0KVGhpcyBTdGF0ZW1lbnQgaXMgZWZmZWN0aXZlIEp1bmUgMiwgMjAwNC48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPkNvbGxlY3Rpb24gYW5kIFVzZSBvZiBJbmZvcm1hdGlvbjwvYj48YnIgLz48YnIgLz4NCllvdSBtYXkgdmlzaXQgdGhpcyBTaXRlIGFuZCBjZXJ0YWluIG90aGVyIEFDUyBTaXRlcyB3aXRob3V0IHJlZ2lzdGVyaW5nIG9yIGRpc2Nsb3NpbmcgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24sIGFsdGhvdWdoIHNvbWUgYXJlYXMgb2YgdGhpcyBTaXRlIG9yIG90aGVyIFNpdGVzIG1heSByZXF1aXJlIGEgcGFzc3dvcmQuIEFDUyBtYXkgYXNrIHlvdSB0byBwcm92aWRlIHBlcnNvbmFsIGluZm9ybWF0aW9uLCBzdWNoIGFzIHdoZW4geW91IGFyZSBhc2tlZCB0byBjb21wbGV0ZSBhbiBvbmxpbmUgZm9ybSBvciBhIHJlcXVlc3Qgd2l0aCByZWdhcmQgdG8gYSBwcm9kdWN0IG9yIHNlcnZpY2UgZnJvbSBBQ1MuIFRoaXMgaW5mb3JtYXRpb24gbWF5IGluY2x1ZGUgbmFtZSwgcGh5c2ljYWwgYWRkcmVzcywgcGhvbmUgbnVtYmVyLCBlbWFpbCBhZGRyZXNzIGFuZCBvdGhlciBwZXJzb25hbCBpbmZvcm1hdGlvbiB0aGF0IHlvdSBjaG9vc2UgdG8gcHJvdmlkZS4gQUNTIHVzZXMgdGhpcyBpbmZvcm1hdGlvbiBmb3IgcHVycG9zZXMgb2YgY29tbXVuaWNhdGlvbnMgd2l0aCB5b3UsIHRvIHJlc3BvbmQgdG8gcmVxdWVzdHMgeW91IG1heSBoYXZlLCBhbmQgZm9yIG1hcmtldGluZyBwdXJwb3Nlcy4gSWYgeW91IHdpc2ggdG8gdXBkYXRlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlZCB0aHJvdWdoIHRoaXMgU2l0ZSBpbiBjb25uZWN0aW9uIHdpdGggcmVndWxhciBtYWlsaW5ncyBvciB5b3Ugd2lzaCB0byBoYXZlIHlvdXIgbmFtZSByZW1vdmVkIGZyb20gYSBtYWlsaW5nIGxpc3QsIHlvdSBtYXkgZG8gc28gYnkgc2VuZGluZyBhbiBlbWFpbCBvciBieSBzdWJtaXR0aW5nIGFuIHVwZGF0ZWQgZm9ybSB0aHJvdWdoIHRoZSBzYW1lIGNvbW11bmljYXRpb24gY2hhbm5lbCB5b3UgaW5pdGlhbGx5IHN1Ym1pdHRlZCB0aGUgaW5mb3JtYXRpb24uPGJyIC8+PGJyIC8+DQpDZXJ0YWluIEFDUyBTaXRlcyBhbGxvdyBmb3IgdGhlIGVsZWN0cm9uaWMgc3VibWlzc2lvbiBvZiByZXN1bWVzIGlmIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiBlbXBsb3ltZW50IG9wcG9ydHVuaXRpZXMgd2l0aCBBQ1MuIFJlc3VtZXMgcmVjZWl2ZWQgYnkgQUNTIGFyZSB1c2VkIG9ubHkgZm9yIGVtcGxveW1lbnQgcHVycG9zZXMgb3Igc3VjaCBvdGhlciBwdXJwb3NlIHlvdSBtYXkgcmVxdWVzdC4gSWYgeW91IHdpc2ggdG8gZGVsZXRlIG9yIHVwZGF0ZSBlbXBsb3ltZW50LXJlbGF0ZWQgaW5mb3JtYXRpb24geW91IHN1Ym1pdHRlZCB0aHJvdWdoIHRoaXMgU2l0ZSwgeW91IG1heSBkbyBzbyBieSB1c2luZyB0aGUgcHJvZmlsZSBtYW5hZ2VtZW50IGZ1bmN0aW9uIHRoYXQgaXMgYXZhaWxhYmxlIG9yIGNvbnRhY3QgQUNTIEh1bWFuIFJlc291cmNlcy48YnIgLz48YnIgLz4NCldoZW4geW91IHZpc2l0IHRoaXMgU2l0ZSwgd2UgbWF5IGF1dG9tYXRpY2FsbHkgY29sbGVjdCBjZXJ0YWluIGluZm9ybWF0aW9uIHJlbGF0aW5nIHRvIHlvdSwgc3VjaCBhcyB5b3VyIEludGVybmV0IGFkZHJlc3MsIEludGVybmV0IHNlcnZpY2UgcHJvdmlkZXIsIHR5cGUgb2Ygb3BlcmF0aW5nIHN5c3RlbSwgdGhlIHRpbWUgYW5kIGRhdGUgeW91IGFjY2Vzc2VkIHRoZSBTaXRlLCBhbmQgdGhlIEludGVybmV0IGFkZHJlc3MgZnJvbSB3aGljaCB5b3UgYXJyaXZlZCBhdCBvdXIgU2l0ZS4gQWxzbywgd2hlbiB5b3UgdmlzaXQgb3VyIFNpdGUgd2UgbWF5IGNvbGxlY3QgaW5mb3JtYXRpb24gdGhyb3VnaCB0aGUgdXNlIG9mIGEgImNvb2tpZSIuIEEgY29va2llIGlzIGEgc21hbGwgZmlsZSB0aGF0IGEgd2ViIHNpdGUgY2FuIHNlbmQgdG8geW91ciBicm93c2VyIGFuZCB0aGVuIGlzIHN0b3JlZCBvbiB5b3VyIGNvbXB1dGVyLiBUaGlzIHR5cGUgb2YgdGVjaG5vbG9neSBpcyBkZXNpZ25lZCB0byB0ZWxsIHVzIHdoZW4geW91IHJlZW50ZXIgb3VyIFNpdGUsIHdoZXJlIHlvdSB2aXNpdCB3aXRoaW4gb3VyIFNpdGUsIGFuZCB0aGUgdHlwZSBvZiBicm93c2VyIHlvdSB1c2UuIFlvdSBhcmUgbm90IHJlcXVpcmVkIHRvIGFjY2VwdCBhbnkgY29va2llIHdlIG1pZ2h0IHVzZSwgYWx0aG91Z2ggc29tZSBhcmVhcyBvZiBhIFNpdGUgbWF5IG5vdCBiZSBvcGVyYXRpb25hbCB3aXRob3V0IHRoZSB1c2Ugb2YgY29va2llcy4gWW91IGNhbiBkaXNhYmxlIGNvb2tpZXMgb24geW91ciBjb21wdXRlciBieSBjaGFuZ2luZyB0aGUgc2V0dGluZ3MgaW4geW91ciBicm93c2VyLiBUaGUgaW5mb3JtYXRpb24gY29sbGVjdGVkIGhlbHBzIHVzIGlkZW50aWZ5IGRhdGEgcmVsYXRpbmcgdG8gdXNhZ2UgYW5kIHRyZW5kcywgYWRkcmVzcyBhbnkgcHJvYmxlbXMgd2l0aCBTaXRlIGFkbWluaXN0cmF0aW9uLCBhbmQgdG8gZnVydGhlciBpbXByb3ZlIHRoaXMgU2l0ZS48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPlNoYXJpbmcgb2YgSW5mb3JtYXRpb24gd2l0aCBUaGlyZCBQYXJ0aWVzPC9iPjxiciAvPjxiciAvPg0KQUNTIHdpbGwgbm90IHNlbGwgb3IgZ2l2ZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIHRoaXJkIHBhcnRpZXMgZm9yIHRoZWlyIHVzZSBmb3IgcHVycG9zZXMgdW5yZWxhdGVkIHRvIEFDUyB3aXRob3V0IHlvdXIgcGVybWlzc2lvbi48YnIgLz48YnIgLz4NCkFDUyBtYXkgc2hhcmUgcGVyc29uYWwgaW5mb3JtYXRpb24gYWJvdXQgeW91IHdpdGggb3VyIHN1YnNpZGlhcmllcyBhbmQgYWZmaWxpYXRlZCBjb21wYW5pZXMuIFdlIGFsc28gbWF5IHNoYXJlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpdGggb3VyIHN1cHBsaWVycywgY29udHJhY3RvcnMgYW5kIGFnZW50cyB3aG8gcGVyZm9ybSBmdW5jdGlvbnMgb24gb3VyIGJlaGFsZiwgb3IgaW4gY29ubmVjdGlvbiB3aXRoIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBvZmZlcmVkIGJ5IEFDUyBvciBhIHJlcXVlc3QgbWFkZSBieSB5b3UuIEFDUyBtYXkgZGlzY2xvc2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBhcyB3ZSBjb25zaWRlciBuZWNlc3NhcnkgdG8gY29tcGx5IHdpdGggdGhlIGxhdyBvciBnb3Zlcm5tZW50YWwgYXV0aG9yaXRpZXMsIGluIGNvbm5lY3Rpb24gd2l0aCBsaXRpZ2F0aW9uLCBkaXNwdXRlIHJlc29sdXRpb24sIG9yIGFkbWluaXN0cmF0aW9uIG9mIHRoaXMgU3RhdGVtZW50IG9yIGEgcG9zc2libGUgdmlvbGF0aW9uIG9mIHRoaXMgU2l0ZSdzIFRlcm1zIG9mIFVzZSBvciB0aGUgcmlnaHRzIG9mIEFDUyBvciBhIHRoaXJkIHBhcnR5LiBJbiBhZGRpdGlvbiwgQUNTIG1heSBkaXNjbG9zZSBvciByZWNlaXZlIHBlcnNvbmFsIGluZm9ybWF0aW9uIGluIGNvbm5lY3Rpb24gd2l0aCBhIHBvc3NpYmxlIHNhbGUsIHB1cmNoYXNlLCBtZXJnZXIgb3Igb3RoZXIgcmVvcmdhbml6YXRpb24gb2YgYSBidXNpbmVzcy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPlJldGVudGlvbjwvYj48YnIgLz48YnIgLz4NCkFDUyB3aWxsIHJldGFpbiBwZXJzb25hbCBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgYnkgYSBTaXRlIGZvciBhcyBsb25nIGFzIGl0IGlzIG5lZWRlZCB0byBmdWxmaWxsIHRoZSBwdXJwb3NlIGZvciB3aGljaCB0aGUgaW5mb3JtYXRpb24gd2FzIHByb3ZpZGVkLCB0byBtYWludGFpbiBhIHJlY29yZCBvZiBjb21tdW5pY2F0aW9ucyB3aXRoIHlvdSwgb3IgYXMgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcuPC9wPjxwIGNsYXNzPSJjb250ZW50Ij48Yj5TZWN1cml0eTwvYj48YnIgLz48YnIgLz4NClRvIHByb3RlY3QgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIHJlY2VpdmUgQUNTIHVzZXMgY2VydGFpbiBzZWN1cml0eSBtZWFzdXJlcyBkZXNpZ25lZCB0byBndWFyZCBhZ2FpbnN0IHRoZSBsb3NzLCBtaXN1c2UgYW5kIGFsdGVyYXRpb24gb2YgdGhhdCBpbmZvcm1hdGlvbi4gSXQgc2hvdWxkIGJlIHJlY29nbml6ZWQsIGhvd2V2ZXIsIHRoYXQgd2UgY2Fubm90IGd1YXJhbnRlZSB0aGF0IHRyYW5zbWlzc2lvbiBvZiBkYXRhIG92ZXIgdGhlIEludGVybmV0IHdpbGwgYmUgYWJzb2x1dGVseSBzZWN1cmUuIER1ZSB0byB0aGUgb3BlbiBuYXR1cmUgb2YgdGhlIEludGVybmV0IHRoZSBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSBtYXkgYmUgaW4gZW52aXJvbm1lbnRzIHRoYXQgZG8gbm90IGhhdmUgYWRlcXVhdGUgc2VjdXJpdHkgbWVhc3VyZXMgYW5kIG1heSBiZSBhY2Nlc3NlZCBhbmQgdXNlZCBieSBwZXJzb25zIG90aGVyIHRoYW4gdGhvc2UgaW50ZW5kZWQuIEFzIGEgcmVzdWx0LCB3aGlsZSBwcm90ZWN0aW9uIG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgaW1wb3J0YW50IHRvIHVzLCBBQ1MgaXMgbm90IGFibGUgdG8gZW5zdXJlIHRoZSBzZWN1cml0eSBvZiBpbmZvcm1hdGlvbiB5b3UgdHJhbnNtaXQgdG8gdXMgYW5kIHlvdSBhc3N1bWUgdGhlIHJpc2sgb2YgYW55IHRoaXJkIHBhcnR5IG9idGFpbmluZyB0aGF0IGluZm9ybWF0aW9uLiBVcG9uIHJlY2VpcHQgb2YgeW91ciBpbmZvcm1hdGlvbiBBQ1Mgd2lsbCBzdHJpdmUgdG8gZW5zdXJlIGl0cyBzZWN1cml0eSBvbiBvdXIgc3lzdGVtcy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPkxpbmtzIHRvIE90aGVyIFdlYiBTaXRlczwvYj48YnIgLz48YnIgLz4NClRoaXMgU2l0ZSBtYXkgY29udGFpbiBsaW5rcyB0byBvdGhlciB3ZWIgc2l0ZXMsIG5vdCBtYWludGFpbmVkIGJ5IEFDUy4gSWYgeW91IGNob29zZSB0byBhY2Nlc3MgdGhvc2Ugc2l0ZXMsIHBsZWFzZSByZXZpZXcgdGhlIHByaXZhY3kgU3RhdGVtZW50IGFwcGxpY2FibGUgdG8gZWFjaCBzaXRlLiBUaGUgbGlua3MgdG8gb3RoZXIgc2l0ZXMgYXJlIG1hZGUgYXZhaWxhYmxlIGFzIGEgY29udmVuaWVuY2UgdG8geW91IGFuZCBBQ1MgaXMgbm90IHJlc3BvbnNpYmxlIGZvciB0aGUgcHJpdmFjeSBwb2xpY2llcyBhbmQgaW5mb3JtYXRpb24gY29sbGVjdGlvbiBwcmFjdGljZXMgb2YgdGhvc2Ugc2l0ZXMuPC9wPjxwIGNsYXNzPSJjb250ZW50Ij48Yj5BQ1MgQ2xpZW50IFdlYiBTaXRlczwvYj48YnIgLz48YnIgLz4NCkluIHRoZSBjb3Vyc2Ugb2YgcHJvdmlkaW5nIHNlcnZpY2VzIHRvIGl0cyBjbGllbnRzLCBBQ1MgbWF5IG9wZXJhdGUgd2ViIHNpdGVzIGZvciBjZXJ0YWluIGNsaWVudHMgdGhhdCBpbnZvbHZlIHRoZSBjb2xsZWN0aW9uLCB1c2UgYW5kIHJldGVudGlvbiBvZiBwZXJzb25hbCBpbmZvcm1hdGlvbi4gRm9yIGV4YW1wbGUsIGlmIHlvdSBhcmUgYSBoZWFsdGggcGxhbiBtZW1iZXIsIGhlYWx0aCBwbGFuIHByb3ZpZGVyLCBhIHBhdGllbnQgb3Igb3RoZXIgaW5kaXZpZHVhbCB3aG8gZG9lcyBidXNpbmVzcyB3aXRoIGFuIEFDUyBjbGllbnQsIEFDUyBtYXkgY29sbGVjdCwgdXNlIGFuZCBtYWludGFpbiBwZXJzb25hbCBpbmZvcm1hdGlvbiBpbiBvcmRlciB0byBwcm92aWRlIHlvdSB3aXRoIHNlcnZpY2VzIG9uIGJlaGFsZiBvZiB0aGUgY2xpZW50LiBUaG9zZSBhY3Rpdml0aWVzIGFyZSBjb25kdWN0ZWQgYnkgQUNTIHVuZGVyIGEgY29udHJhY3QgYmV0d2VlbiBBQ1MgYW5kIHRoZSBjbGllbnQuIFRoaXMgU3RhdGVtZW50IGlzIG5vdCBpbnRlbmRlZCB0byBtb2RpZnkgdGhlIHRlcm1zIG9mIHRoZSBjb250cmFjdCBiZXR3ZWVuIEFDUyBhbmQgdGhlIGNsaWVudC4gSWYgeW91IGhhdmUgcXVlc3Rpb25zIGFib3V0IHRoZSBoYW5kbGluZyBvZiB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoYXQgYXJlIG5vdCBhZGRyZXNzZWQgb24gdGhlIHNwZWNpZmljIHdlYiBzaXRlIHRocm91Z2ggd2hpY2ggQUNTIGNvbmR1Y3RzIHRob3NlIGFjdGl2aXRpZXMgb24gYmVoYWxmIG9mIHRoZSBjbGllbnQsIHBsZWFzZSB1c2UgdGhlIGNvbnRhY3QgaW5mb3JtYXRpb24gbGlzdGVkIG9uIHRoYXQgc2l0ZSBvciBjb21tdW5pY2F0ZSB3aXRoIHRoZSBBQ1MgY2xpZW50LjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+R2xvYmFsIFByZXNlbmNlPC9iPjxiciAvPjxiciAvPg0KQUNTIGhhcyBlbXBsb3llZXMsIGN1c3RvbWVycyBhbmQgc3VwcGxpZXJzIGluIG1hbnkgY291bnRyaWVzIGFyb3VuZCB0aGUgd29ybGQuIFRoZSBtYW5hZ2VtZW50LCBvcGVyYXRpb25hbCBhbmQgdGVjaG5pY2FsIHByb2Nlc3NlcyBhbmQgc3lzdGVtcyB1c2VkIGJ5IEFDUyBtYXkgaW52b2x2ZSB0cmFuc2ZlciBvZiBpbmZvcm1hdGlvbiBhY3Jvc3MgYm9yZGVycy4gRm9yIGV4YW1wbGUsIHBlcnNvbmFsIGluZm9ybWF0aW9uIHlvdSBnaXZlIHRvIEFDUyBtYXkgYmUgc2VudCB0byBzeXN0ZW1zIG91dHNpZGUgdGhlIGNvdW50cnkgaW4gd2hpY2ggeW91IGluaXRpYWxseSBwcm92aWRlZCB0aGUgaW5mb3JtYXRpb24sIGFuZCBpdCBtYXkgYmUgcHJvY2Vzc2VkIGFuZCBzdG9yZWQgaW4gYSBkaWZmZXJlbnQgY291bnRyeS4gUmVnYXJkbGVzcyBvZiB3aGVyZSB5b3UgcHJvdmlkZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLCBBQ1Mgd2lsbCB0YWtlIHN0ZXBzIHRvIGhhbmRsZSBpdCBpbiBhIHNlY3VyZSBtYW5uZXIgaW4gYWNjb3JkYW5jZSB3aXRoIHRoaXMgU3RhdGVtZW50IGFuZCBhbGwgYXBwbGljYWJsZSBsYXdzLjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+Q2hpbGRyZW48L2I+PGJyIC8+PGJyIC8+DQpBQ1MgZG9lcyBub3QgbWFya2V0IGl0cyBwcm9kdWN0cyBvciBzZXJ2aWNlcyB0byBjaGlsZHJlbiB1bmRlciB0aGlydGVlbiB5ZWFycyBvZiBhZ2UuIFdlIGRvIG5vdCBpbnRlbmQgdG8gY29sbGVjdCBwZXJzb25hbCBpbmZvcm1hdGlvbiBmcm9tIGNoaWxkcmVuIGFuZCByZXF1ZXN0IHRoYXQgY2hpbGRyZW4gZG8gbm90IHN1Ym1pdCBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byB1cy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPlNjb3BlIG9mIFN0YXRlbWVudDwvYj48YnIgLz48YnIgLz4NClRoaXMgU3RhdGVtZW50IGRlc2NyaWJlcyB0aGUgb25saW5lIHByaXZhY3kgcHJhY3RpY2VzIGZvciBBQ1MgV2ViIFNpdGVzIG1haW50YWluZWQgYnkgQWZmaWxpYXRlZCBDb21wdXRlciBTZXJ2aWNlcywgSW5jLiBhbmQgaXRzIHN1YnNpZGlhcmllcyAoIkFDUyIpLiBJdCBkb2VzIG5vdCBtb2RpZnkgYW55IGFncmVlbWVudHMgQUNTIG1heSBoYXZlIHdpdGggb3VyIGN1c3RvbWVycywgc3VwcGxpZXJzIG9yIG90aGVyIHRoaXJkIHBhcnRpZXMuPC9wPjxwIGNsYXNzPSJjb250ZW50Ij48Yj5Db250YWN0IEluZm9ybWF0aW9uPC9iPjxiciAvPjxiciAvPg0KUGxlYXNlIGRpcmVjdCBhbnkgcXVlc3Rpb25zIHlvdSBtaWdodCBoYXZlIGFib3V0IHRoaXMgU3RhdGVtZW50IHRvIHRoZSBBQ1MgUHJpdmFjeSBPZmZpY2UuPC9wPmQCCw9kFgJmDzwrAAkAZGShAs/+wJ721ENmybiuQpMokWjgoA==">
+<div id="container">
+    <!-- Header -->    
+        <div id="header">
+            <div id="logo">
+                <a href="/">
+                    <img src="/images/logo.gif" style="width: 296px; height: 103px;" alt="ACS"></a></div>
+            <div id="search">
+                <label for="ctl00_searchqueryfield">Search</label>                
+                <input name="ctl00$ctl00$searchqueryfield" type="text" id="ctl00_ctl00_searchqueryfield">
+                <label for="searchbutton"></label><input type="image" onclick="CallSearch(); return false;" src="/images/submit_arrow.gif" id="searchbutton"><br>
+                <!--<a style="color: White; text-decoration: none; font-size: 10px;" href="search.aspx?adv=true">Advanced Search
+                <img src="/images/white_arrow.gif" alt="search arrow" border="0" /></a>-->
+            </div>
+            <div id="nav">
+                <ul id="sfnav">                
+                
+<li id="about"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=224"><img border="0" src="/uploadedImages/spacer.gif" alt="About ACS"></a><ul><li><a href="/pages_exp.aspx?id=504" target="_self">Overview</a></li><li><a href="/pages_exp.aspx?id=226" target="_self">Philosophy</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=506" id="menuitem1">Leadership</a><ul><li><a href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a href="/bios.aspx?id=926" target="_self">Tas Panos</a></li><li><a href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a href="/bios.aspx?id=1259" target="_self">Michael Huerta</a></li><li><a href="/bios.aspx?id=76" target="_self">Chris Leach</a></li></ul></li><li><a href="/pages_exp.aspx?id=508" target="_self">Community</a></li><li><a href="/pages_exp.aspx?id=510" target="_self">Accolades</a></li><li><a href="/pages_exp.aspx?id=512" target="_self">History</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="services"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=198"><img border="0" src="/uploadedImages/spacer.gif" alt="Services"></a><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=272" id="menuitem1">Commercial</a><ul><li><a href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a href="/pages_exp.aspx?id=208" target="_self">Human Capital Management</a></li><li><a href="/pages_exp.aspx?id=210" target="_self">Information Technology (IT)</a></li></ul></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=492" id="menuitem1">Public Sector</a><ul><li><a href="/pages_exp.aspx?id=228" target="_self">Administration and Finance</a></li><li><a href="/pages_exp.aspx?id=494" target="_self">Environment</a></li><li><a href="/pages_exp.aspx?id=236" target="_self">Federal - US</a></li><li><a href="/pages_exp.aspx?id=234" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=238" target="_self">Human Services</a></li><li><a href="/pages_exp.aspx?id=422" target="_self">Public Safety &amp; Justice</a></li><li><a href="/pages_exp.aspx?id=242" target="_self">Transportation</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="industries"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=536"><img border="0" src="/uploadedImages/spacer.gif" alt="Industries"></a><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=564" id="menuitem1">Commercial</a><ul><li><a href="/pages_exp.aspx?id=642" target="_self">Communication Providers</a></li><li><a href="/pages_exp.aspx?id=216" target="_self">Financial Services Organizations</a></li><li><a href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a href="/pages_exp.aspx?id=354" target="_self">Insurance Companies</a></li><li><a href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a href="/pages_exp.aspx?id=360" target="_self">Retailers</a></li><li><a href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a href="/pages_exp.aspx?id=370" target="_self">Travel Providers</a></li></ul></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=492" id="menuitem1">Public Sector</a><ul><li><a href="/pages_exp.aspx?id=228" target="_self">Administration and Finance</a></li><li><a href="/pages_exp.aspx?id=494" target="_self">Environment</a></li><li><a href="/pages_exp.aspx?id=236" target="_self">Federal - US</a></li><li><a href="/pages_exp.aspx?id=234" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=238" target="_self">Human Services</a></li><li><a href="/pages_exp.aspx?id=422" target="_self">Public Safety &amp; Justice</a></li><li><a href="/pages_exp.aspx?id=242" target="_self">Transportation</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="news" class="parent"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=99443&amp;p=irol-news" target="_blank"><img border="0" src="/uploadedImages/spacer.gif" alt="News &amp; Events"></a></li><li style="margin-top: 3px; width: 3px;">|</li><li id="library"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=524"><img border="0" src="/uploadedImages/spacer.gif" alt="Resource Library"></a><ul></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="analyst"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=518"><img border="0" src="/uploadedImages/spacer.gif" alt="Analyst Relations"></a><ul></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="investor" class="parent"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=99443&amp;p=irol-homeprofile" target="_blank"><img border="0" src="/uploadedImages/spacer.gif" alt="Investor Relations"></a></li><li style="margin-top: 3px; width: 3px;">|</li><li id="media"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=528"><img border="0" src="/uploadedImages/spacer.gif" alt="Media Relations"></a><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=568" id="menuitem1">Subject Matter Experts</a><ul><li><a href="/bios.aspx?id=1054" target="_self">Charles O. Bracken</a></li><li><a href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a href="/bios.aspx?id=1056" target="_self">Michael Huerta</a></li><li><a href="/bios.aspx?id=1375" target="_self">Brad Everett</a></li><li><a href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a href="/bios.aspx?id=1369" target="_self">Edward Trolley</a></li><li><a href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="careers"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=520"><img border="0" src="/uploadedImages/spacer.gif" alt="Careers"></a><ul><li><a href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a href="https://acs71.recruitmax.com/MAIN/careerportal/" target="_blank">Search Jobs - US</a></li><li><a href="http://acsg.recruitmax.com/candidate/JobOpps.cfm?szTemplate=1&amp;szFormat=search&amp;szInternational=1" target="_blank">Search Jobs - Non US</a></li><li><a href="/pages_exp.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="locations"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=522"><img border="0" src="/uploadedImages/spacer.gif" alt="Locations"></a><ul><li><a href="/pages_exp.aspx?id=1195" target="_self">Western Europe</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="links"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=570"><img border="0" src="/uploadedImages/spacer.gif" alt="ACS Links"></a><ul></ul></li>
+<script language="JavaScript" type="text/javascript" src="/WorkArea/java/webtoolbar.js"></script>
+<script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+                </ul>
+            </div>
+        </div>
+        <!-- End of Header -->        
+        
+        
+    <!--Content area from Internal.master-->
+    <div id="contentholder">
+        <div id="subnav">
+            
+                <span id="ctl00_ctl00_cphMainContent_cphLeftMenu_ekLeftFlexMenu"></span>
+                <div id="greenpage">
+                    <div id="greenpage_image"></div>
+                    <!--<p>
+                        Get the complete self-contained interactive document of ACS Solutions</p>-->
+                    <div class="greenpageblock_left">
+                        <img src="/images/green_leaf.gif" alt="greenpage" style="float: left; padding: 5px 10px 0 20px;"> <span style="display: block; padding-top: 5px; float: left;">Learn more about<br>ACS Green Pages</span>
+                        <!--<a href="#" onclick="return false;">OPEN</a> | <a href="#" onclick="return false;">DOWNLOAD</a> |
+                        <a href="#" onclick="return false;">EMAIL</a>-->
+                    </div>
+                </div><div id="ctl00_ctl00_cphMainContent_cphLeftMenu_acstopmenu" style="display:none;" class="acstopmenu"></div>                                
+            
+        </div>
+        
+            <div id="banner">
+                <h1>Privacy Policy</h1>
+                <img src="/images/bannerpage.jpg" id="ctl00_ctl00_cphMainContent_cphMainBanner_bannerimg" alt="greenpagebanner">
+            </div>
+        
+        
+        <div id="content"><div id="sidebar">
+            
+    
+
+            </div>
+            <div id="bodycontent">
+                
+
+    
+    <span id="ctl00_ctl00_cphMainContent_cphContentArea_lblContentTitle"></span>
+        
+    <p><strong>General<br><br></strong>ACS is committed to the privacy and security of personal information you provide to us through the use of ACS Web Sites. This Online Privacy Statement ("Statement") informs you of the information practices for ACS Web Sites, including the type of personal information we collect from your use of ACS Web Sites, how the information is used, and with whom the information is shared.<br><br>
+By using our Site, you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by ACS in accordance with this Statement and as may be more specifically explained on each Site. ACS may change this Statement at any time and will display the changes here on this Site. Because your use of this Site after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this Site in accordance with this Statement, please exit the Site immediately.<br><br>
+You may have accessed this Site as a result of a link from another ACS Site. This Statement applies to all ACS Sites linked to this Site except where more specific information is provided on the linked Site with respect to the collection, use and storage of personal information.<br><br>
+This Statement is effective June 2, 2004.</p><p class="content"><b>Collection and Use of Information</b><br><br>
+You may visit this Site and certain other ACS Sites without registering or disclosing personally identifiable information, although some areas of this Site or other Sites may require a password. ACS may ask you to provide personal information, such as when you are asked to complete an online form or a request with regard to a product or service from ACS. This information may include name, physical address, phone number, email address and other personal information that you choose to provide. ACS uses this information for purposes of communications with you, to respond to requests you may have, and for marketing purposes. If you wish to update information you provided through this Site in connection with regular mailings or you wish to have your name removed from a mailing list, you may do so by sending an email or by submitting an updated form through the same communication channel you initially submitted the information.<br><br>
+Certain ACS Sites allow for the electronic submission of resumes if you are interested in employment opportunities with ACS. Resumes received by ACS are used only for employment purposes or such other purpose you may request. If you wish to delete or update employment-related information you submitted through this Site, you may do so by using the profile management function that is available or contact ACS Human Resources.<br><br>
+When you visit this Site, we may automatically collect certain information relating to you, such as your Internet address, Internet service provider, type of operating system, the time and date you accessed the Site, and the Internet address from which you arrived at our Site. Also, when you visit our Site we may collect information through the use of a "cookie". A cookie is a small file that a web site can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our Site, where you visit within our Site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a Site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with Site administration, and to further improve this Site.</p><p class="content"><b>Sharing of Information with Third Parties</b><br><br>
+ACS will not sell or give your personal information to third parties for their use for purposes unrelated to ACS without your permission.<br><br>
+ACS may share personal information about you with our subsidiaries and affiliated companies. We also may share personal information with our suppliers, contractors and agents who perform functions on our behalf, or in connection with products and services offered by ACS or a request made by you. ACS may disclose your personal information as we consider necessary to comply with the law or governmental authorities, in connection with litigation, dispute resolution, or administration of this Statement or a possible violation of this Site's Terms of Use or the rights of ACS or a third party. In addition, ACS may disclose or receive personal information in connection with a possible sale, purchase, merger or other reorganization of a business.</p><p class="content"><b>Retention</b><br><br>
+ACS will retain personal information collected by a Site for as long as it is needed to fulfill the purpose for which the information was provided, to maintain a record of communications with you, or as required by applicable law.</p><p class="content"><b>Security</b><br><br>
+To protect the personal information we receive ACS uses certain security measures designed to guard against the loss, misuse and alteration of that information. It should be recognized, however, that we cannot guarantee that transmission of data over the Internet will be absolutely secure. Due to the open nature of the Internet the information you provide may be in environments that do not have adequate security measures and may be accessed and used by persons other than those intended. As a result, while protection of your personal information is important to us, ACS is not able to ensure the security of information you transmit to us and you assume the risk of any third party obtaining that information. Upon receipt of your information ACS will strive to ensure its security on our systems.</p><p class="content"><b>Links to Other Web Sites</b><br><br>
+This Site may contain links to other web sites, not maintained by ACS. If you choose to access those sites, please review the privacy Statement applicable to each site. The links to other sites are made available as a convenience to you and ACS is not responsible for the privacy policies and information collection practices of those sites.</p><p class="content"><b>ACS Client Web Sites</b><br><br>
+In the course of providing services to its clients, ACS may operate web sites for certain clients that involve the collection, use and retention of personal information. For example, if you are a health plan member, health plan provider, a patient or other individual who does business with an ACS client, ACS may collect, use and maintain personal information in order to provide you with services on behalf of the client. Those activities are conducted by ACS under a contract between ACS and the client. This Statement is not intended to modify the terms of the contract between ACS and the client. If you have questions about the handling of your personal information that are not addressed on the specific web site through which ACS conducts those activities on behalf of the client, please use the contact information listed on that site or communicate with the ACS client.</p><p class="content"><b>Global Presence</b><br><br>
+ACS has employees, customers and suppliers in many countries around the world. The management, operational and technical processes and systems used by ACS may involve transfer of information across borders. For example, personal information you give to ACS may be sent to systems outside the country in which you initially provided the information, and it may be processed and stored in a different country. Regardless of where you provide your personal information, ACS will take steps to handle it in a secure manner in accordance with this Statement and all applicable laws.</p><p class="content"><b>Children</b><br><br>
+ACS does not market its products or services to children under thirteen years of age. We do not intend to collect personal information from children and request that children do not submit personal information to us.</p><p class="content"><b>Scope of Statement</b><br><br>
+This Statement describes the online privacy practices for ACS Web Sites maintained by Affiliated Computer Services, Inc. and its subsidiaries ("ACS"). It does not modify any agreements ACS may have with our customers, suppliers or other third parties.</p><p class="content"><b>Contact Information</b><br><br>
+Please direct any questions you might have about this Statement to the ACS Privacy Office.</p>
+    <div style="clear: left; margin: 0px;"></div>
+    
+    
+    
+          
+           </div>
+        </div>
+        <div style="clear: both; font-size: 1px;">&nbsp;</div> 
+    </div>
+
+        
+        <div id="footer">
+            <ul>
+                <li><a href="/contactus.aspx">Contact Us</a></li>
+                <li>|</li>
+                <li><a href="/sitemap.aspx">Site Map</a></li>
+                <li>|</li>
+                <li><a href="/privacy.aspx">Privacy Policy</a></li>
+                <li>|</li>
+                <li><a href="/terms.aspx">Terms of Use</a></li>
+            </ul>
+            <div id="copyright">
+                © Copyright 2008 Affiliated Computer Services, Inc. All Rights Reserved.
+            </div>
+        </div>
+    </div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLB9rvnCAK27uidDo+cV/7fEiqCK8ZQvctkXC8uFTEl"></form>
+
+
+</body></html>
