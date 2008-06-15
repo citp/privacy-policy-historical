@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219043918id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616001119id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,11 @@ Picturesongold.com and Jewelry14k.com accepts all major credit cards
 2\. PayPal Account
 
 Save time. Check out securely. Pay without sharing your financial information  
+  
 
+
+  
+3\. Google Account
 
 Collection and Use of Information
 
@@ -68,7 +72,7 @@ These third parties only receive personally identifiable information if such inf
   
 Contests.  
 When you enter a PicturesOnGold.com contest, sweepstakes, or other promotional event, we collect information to administer the program and notify the winners. You may receive promotional emails from PicturesOnGold.com as a result of entering the contest, but you always have the option of choosing not to receive additional communications. Please see the "Choice/Opt-Out" section below for more information.Send this Product to a Friend  
-When you e-mail a product to a friend, you and your friend's names and e-mail addresses are requested. This ensures that your friend will know that you have requested that� PicturesOnGold.com send them an e-mail. We may communicate to you with information regarding promotions, contests, sweepstakes or product or service updates.  
+When you e-mail a product to a friend, you and your friend's names and e-mail addresses are requested. This ensures that your friend will know that you have requested that PicturesOnGold.com send them an e-mail. We may communicate to you with information regarding promotions, contests, sweepstakes or product or service updates.  
 If you do not want to receive communications from PicturesOnGold.com you may elect to opt-out of receiving such communications, please see the "Choice/Opt-Out" section below for more information.
 
 IP Address  
@@ -89,7 +93,7 @@ If the personally identifiable information PicturesOnGold.com has gathered from 
   
 Choice/Opt-Out  
 We want to communicate with you only if you want to hear from us. To opt-out of receiving communications from PicturesOnGold.com:  
-1) [Visit this page ](http://www.picturesongold.com/subscriber.php)to unsubscribe�your email address  
+1) [Visit this page ](http://www.picturesongold.com/subscriber.php)to unsubscribe your email address  
 or  
 2) click "unsubscribe" inside of promotional email that you have received from PicturesOnGold.com  
 or  
