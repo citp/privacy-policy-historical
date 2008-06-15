@@ -1,0 +1,236 @@
+<!--The following is the downloaded HTML source of the tipjoy.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615201514id_/http%3A//tipjoy.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript">var disqus_iframe_css = "http://tipjoy.com/static/css/disqus_form_tj.css";</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--tipjoy:ikirigin-->
+<title> tipjoy | privacy policy </title>
+<link rel="shortcut icon" href="/static/images/favicon.ico">
+<link href="/static/css/tipjoy_new.css" rel="stylesheet" type="text/css">
+
+
+<!-- enable for a live site--> <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2292374-1";
+urchinTracker();
+</script> <!---->
+
+
+<script language="javascript">
+var defaultTipValue = "";
+function searchEnter(myfield,e){
+  var keycode;
+  if (window.event) keycode = window.event.keyCode;
+  else if (e) keycode = e.which;
+  else return true;
+
+  if (keycode == 13){
+    searchSubmit();
+    return false;
+  }
+  else
+   return true;
+}
+
+var tipThisUrlHidden = false;
+function searchSubmit(){
+  var searchTerm = document.getElementById("searchinput").value;
+  if( searchTerm == ""){
+      return;
+  }
+  redirectUrl = "http://tipjoy.com/domainsearch/?url=" + searchTerm;
+  window.location = redirectUrl;
+}
+
+function focusTipThisUrl(){
+    if( document.getElementById("tipSomethingUrl").value.indexOf("Tip something! Put a URL or email address here") != -1){
+        document.getElementById("tipSomethingUrl").value = "";
+        tipThisUrlHidden = true;
+    }
+}
+
+var urlPattern = new RegExp();
+urlPattern.compile("[A-Za-z0-9-_]+\\.[A-Za-z0-9-_%&\?\/.=]+$");
+function isValidUrlOrEmail(u){
+    if( isValidUrl(u) ){
+        return true;
+    }
+    return isValidEmail(u);
+}
+function isValidUrl(u){
+    // very incomplete test for url regularity
+    var uStart = u.substring(0,8);
+    if( uStart.indexOf("//")>=0 ){
+        if( uStart.indexOf("http://")>=0 ){
+            return true;
+        }
+        if( uStart.indexOf("http://")>=0 ){
+            return true;
+        }
+        if( uStart.indexOf("https://")>=0 ){
+            return true;
+        }
+        if( uStart.indexOf("ftp://")>=0 ){
+            return true;
+        }
+        if( uStart.indexOf("ftps://")>=0 ){
+            return true;
+        }
+        return false;
+    }
+    return urlPattern.test(u);
+}
+function isValidEmail(e){
+    var emailReg = "^[\\w-_\.\+]*[\\w-_\.\+]\@[\\w]\.+[\\w]+[\\w]$";
+    var regex = new RegExp(emailReg);
+    return regex.test(e);
+}
+</script>
+
+</head>
+<body>
+
+<div class="Content">
+
+
+
+
+
+
+      
+
+<div style="border-bottom:5px solid #5bacb1;">
+		<div id="mainbarcontainer" class="mbtall"><!--1-->
+	    <h6 style="padding-top:25px"><a href="/login">sign in</a> | <a href="/createAccount">create an account</a>  | <a href="/feedback">feedback</a> | <a href="/faq">FAQ</a></h6>
+   	    <div class="frontheader"><a href="/userHome"><img src="/static/images/turtle_large3.png" class="middle"></a></div>
+        <div class="frontheader tagline"><a href="/userHome">leave tips for stuff you love</a></div>
+       
+	</div>
+      </div>
+        <div id="signedin" class="signedinlink">
+        <a href="/tutorial"><img src="/static/buttons/finalbuttonset/makemoney.png" alt="Looking to earn money with tipjoy?" class="middle"></a>
+        </div>
+
+
+
+     
+ <div class="tipfieldcontainer">
+		<input name="url" class="urlField middle" id="searchinput" type="text" tabindex="1" value="" onkeypress="return searchEnter(this,event)">
+		<span id="searchButton">
+		    <a href="javascript:searchSubmit();" id="tjbutton">
+		        <img src="/static/buttons/finalbuttonset/search.png" alt="search" class="middle">
+		    </a>
+		</span>
+<span id="counterval" class="signedinlink">8725 tips totaling $3019.68 given since Feb '08! </span>
+
+    </div>
+
+
+    
+
+
+
+
+<div id="alertspace">
+    <div id="turtlealert"><a href="http://tipjoys2cents.blogspot.com/2008/06/add-tipjoy-to-your-friendfeed.html">Add Tipjoy to FriendFeed!</a></div>
+    
+</div>
+
+
+
+
+
+
+
+<a name="top" id="top"></a>
+
+
+<div class="tipblockcontainer privacy" id=""><!-- your welcome area-->
+	<div class="title" id="titlebot">Privacy policy</div>
+<p>
+By using Tipjoy, you are agreeing to the collection and use of your personal information as described below. We will notify all active accounts of any significant changes to this policy.
+</p>
+<p>
+Tipjoy is founded on the principles of making it easy for people to leave tips for things they love online.  Part of Tipjoy’s mission is to help its users find new content they’ll love via recommendations, top tip rankings, and friend tracking.  We know that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy.
+</p>
+<p>
+This Privacy Policy covers Tipjoy’s treatment of personal information that we gather when you are on the Tipjoy website and when you use Tipjoy services, including the Tipjoy button. This policy does not apply to the practices of third parties that Tipjoy does not own or control, or to individuals that Tipjoy does not employ or manage, including but not limited to the sites which choose to display Tipjoy button(s), or to content which is being tipped.
+</p>
+
+<div class="header line">Cookies</div>
+<p>
+When you sign into Tipjoy, a cookie is sent to your computer that contains an identification number that is unique to the computer you are using.
+</p>
+<p>
+This cookie enables us to keep you signed into Tipjoy on this computer until you explicitly press the “sign out” button located in the top-right area of the Tipjoy site.  This way you will be able to tip anything you like, quickly and easily, while you browse the internet.
+</p>
+ As long as you are signed into Tipjoy, any press of the Tipjoy button anywhere you see it on any site, or use of our tip-submission page, will result in the transfer of some amount of money from your account to the tip-receiver.  (The default amount transferred is 10 cents; you may change the amount by going to your Settings page.)
+<p></p>
+<p>Protect against unauthorized access to your Tipjoy account by signing out once you have finished using a shared computer.  Doing so will expire the cookie on that machine.
+</p>
+
+
+<div class="header line">What information does Tipjoy collect?</div>
+<p>
+We only collect personal information that is relevant to the purpose of our website, in order to provide you with a customized experience.  We receive and store all information you enter on our website or provide to us in any other way, including through the Tipjoy button and feedback page. In order to tip something, you must provide us with an email address. We will record the date and time your account was created, and the amount of money you have in your account at all times. We also record what you have tipped and how much you have given each item. Other optional account information which we collect includes your username and your friend list.
+</p>
+<p>We receive and store certain types of information whenever you interact with us. This includes certain "traffic data" on server logs from your browser including your IP address, Tipjoy cookie information, the page you requested, and any browser specific information. Tipjoy uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+</p>
+
+
+<div class="header line">Sharing of your Tipjoy account information</div>
+<p>Because Tipjoy enables people to discover and share content they love with one another, information about the people who use Tipjoy is an integral part of the Tipjoy experience. We will neither rent nor sell your personal information to anyone. We will never look at your individual data unless you are having technical difficulties, it is required by law, or it is necessary to maintain our system. We will share your personal information only as described below: 
+</p><ol>
+	<li><b>Social sharing of tipping history</b> Your tipping history is public by default.  You may change this anytime in your <a href="/settings">Account Settings</a>. Tipjoy allows other users to see your tipping history, provided it is set to "public" in your Account Settings.</li>
+    <li><b>Friend search</b> The email address that you submit upon registration and your username will be searchable by other Tipjoy users who know you by your email address or Tipjoy username. </li>
+	<li><b>API</b> Tipjoy will allow third parties access to all Tipjoy data that is already publicly available through the Tipjoy website.  </li>
+    <li><b>Syndication</b> Tipjoy allows for the RSS syndication of all of its public content within the Tipjoy website, including RSS syndication of your tipping history, provided it is set to "public" in your Account Settings. Your tipping history is public by default.  You may change this anytime in your <a href="/settings">Account Settings</a>.</li>
+<li><b>Business Transfers</b> In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Tipjoy, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+</li>
+
+</ol>
+<p></p>
+
+<div class="header line">Tipjoy email communications</div>
+<p>Tipjoy is very concerned about your privacy and we will never provide your email address to a third party. In the future, you may receive notification emails from Tipjoy which inform you of actions (e.g. when someone has tipped you) that have been performed through the Tipjoy service and/or on the Tipjoy site.  Tipjoy does not currently send out any notification emails, but if we choose to do so in the future you will be able to opt out of receiving these by changing your email preferences on our Settings page, but please note that in all cases you will continue to receive all system emails (e.g. those regarding forgotten user passwords, emails reminding you to pay your bill) and legal notices (e.g. updates to our policies) from us as long as you have a Tipjoy account.
+</p>
+<div class="header line">Children under 18 years of age</div>
+<p>You must be 13 years and older to register to use the Tipjoy website. As a result, Tipjoy does not specifically collect information about children. If we learn that Tipjoy has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Tipjoy or sending information about themselves or anyone else over the Internet.
+</p>
+
+<div class="header line"></div>
+<p>You may request deletion of your Tipjoy account by emailing us at founders@tipjoy.com
+</p>
+<!--close privacy-->
+</div>
+
+
+
+
+
+
+
+<div id="copyrightline"><hr>© 2008 tipjoy | <a href="/aboutus">about us</a> | <a href="/feedback">contact</a> | <a href="/jobs"> jobs </a> | <a href="http://tipjoys2cents.blogspot.com/">blog</a> | <a href="/labs">tipjoy labs</a> | <a href="/privacy">privacy policy</a> | <a href="/tos">terms of service</a></div>
+
+
+</div>  <!--content-->
+
+<script type="text/javascript">
+//<[CDATA[
+(function() {
+		links = document.getElementsByTagName('a');
+		query = '?';
+		for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+		}
+		document.write('<script type="text/javascript" src="http://disqus.com/forums/tipjoy/get_num_replies.js' + query + '"></' + 'script>');
+	})();
+//]]>
+</script><script type="text/javascript" src="http://disqus.com/forums/tipjoy/get_num_replies.js?"></script>
+
+
+</body></html>
