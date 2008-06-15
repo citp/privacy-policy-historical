@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvnzondemand.co.nz privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212142038id_/http%3A//tvnzondemand.co.nz/content/ondemand_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvnzondemand.co.nz privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616002103id_/http%3A//tvnzondemand.co.nz/content/ondemand_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - TVNZ ondemand
 
