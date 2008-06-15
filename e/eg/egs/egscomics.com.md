@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egscomics.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112080837id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egscomics.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615135103id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
 
 # Keenspot.com: Privacy Policy
 
