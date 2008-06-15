@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225142932id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/skinet%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615170256id_/http%3A//www.skinet.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 **Privacy Policy**
 
@@ -8,7 +8,7 @@
 
 _This policy was last updated on November 19, 2007._
 
-At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to _[all of the products, services, and websites](http://bonniercorp.com/)_ offered by Bonnier Corporation and its _[subsidiaries or affiliated companies](http://bonniercorp.com/)_ (collectively, "Bonnier").
+At Bonnier Corporation, your privacy is important to us. This Privacy Policy applies to _[all of the products, services, and websites](http://bonniercorp.com/)_ offered by Bonnier Corporation and its _[subsidiaries or affiliated companies](http://bonniercorp.com/)_ (collectively, "Bonnier").
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
@@ -25,15 +25,15 @@ Winter Park, FL 32789
 
 You are able to take advantage of many of Bonnier's products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
-Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential.
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request. Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level. We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential.
 
 You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of Bonnier's websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.   
 
 Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues.  If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
-At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services. The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
 
-In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
+In some circumstances, we also collect on-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
 When you visit our websites, we may send one or more cookies – small, removable data files – to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.
 
@@ -53,11 +53,11 @@ We work with reputable third parties that provide data tracking and collection t
 
 -         Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
 
-These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
+These companies may collect information about you on our behalf. We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
 Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
 
-Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+Some of our websites contain links to other sites. By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
 **How we use the information we collect**
 
