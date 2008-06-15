@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the relenta.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211040509id_/http%3A//www.relenta.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the relenta.com privacy policy that was archived on 2008-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615132643id_/http%3A//www.relenta.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,18 +7,28 @@
 <link rel="stylesheet" href="/css/styles.css" type="text/css">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<script language="JavaScript" type="text/JavaScript" src="http://www.relenta.com/livehelp/include/javascript.php"></script>
-</head>
+<link rel="shortcut icon" href="/images/relenta-ico.gif">
+<script language="JavaScript">
+<!--
+function createEmail(first,second,third,text)
+{
+	document.write("<a href='mailto:"+first+"@"+second+"."+third+"'>"+text+"</a>") ;
+}
+//-->
+</script></head>
+
+
+
 <body id="main">
 
 
 <div id="topline"></div>
 
 <div id="header">	
-	<div id="logo"><img src="/img/relenta-crm-logo.gif" alt="RelentaCRM" width="180" height="48" border="0"></div>
-	<div id="tollfree">
-		<a href="/call-me-back"><img src="/img/toll-free.gif" alt="Call sales toll-free" width="300" height="39" border="0"></a>
-		<a href="/livehelp/index.php" target="_blank" onclick="openLiveHelp(); return false"><img src="/livehelp/include/status.php" id="LiveHelpStatus" name="LiveHelpStatus" width="138" height="39" border="0" alt="Live Help" onload="statusImagesLiveHelp[statusImagesLiveHelp.length] = this;"></a>
+	<div id="logo"><img src="/images/relenta_logo.gif" alt="RelentaCRM" width="198" height="60" border="0"></div>
+	<div id="top-right-menu">
+		<!-- <img src="/img/toll-free-number.gif" alt="Call sales toll-free" width="154" height="39" border="0" /> -->
+		<a href="http://crm.relenta.com/">Login</a> | <a href="/contact">Contact</a>
 	</div>
 	<div class="clr"></div>
 </div>
@@ -27,19 +37,22 @@
 	<ul>
 		<li><a href="/">Home</a></li>
 		<li><a href="/about.html">About</a></li>
-		<li><a href="/tour/email.html">Screenshots</a></li>
-		<li><a href="/demo">Demo</a></li>
+		<li><a href="/faq.html">FAQ</a></li>
+		<li><a href="/tour/email.html">Tour</a></li>
+		<li><a href="/demo">Live demo</a></li>
+		<li><a href="/support/">Support</a></li>
+		<li><a href="/forum">Forum</a></li>
 		<li><a href="/pricing.html">Pricing &amp; sign up</a></li>
-		<li><a href="/blog">Blog</a></li>
-		<li><a href="http://crm.relenta.com/">Login</a></li>
-		<li><a href="/contact">Contact</a></li>
 	</ul>
-	<div class="clr"></div>
 </div>
 
-<div id="hph"><div id="hpcs"><img src="/images/q07.jpg"></div></div>
-<div id="hp_signup"><a href="/pricing.html"><img src="/images/_hs_signup.jpg"></a></div>
 
+<!-- <div id="hph"><div id="hpcs"><img src="/images/q06.jpg" /></div></div>
+<div id="hp_signup">
+	<div class="header_text">
+		<a href="/tour/email.html">Take a tour</a> or <a href="/pricing.html">sign up for free</a>
+	</div>
+</div> -->
 
 
 
@@ -70,91 +83,19 @@
 <p>You may change your Relenta account settings through your account management interface.</p>
 <p>You may organize, sort, or delete your messages or terminate your account through your account management interface. Such deletions or terminations will take immediate effect in your account view. Residual copies of deleted messages and accounts may take up to 90 days to be deleted from our servers and may remain in our backup systems.</p>
 <p>Rev. 10/02/2006</p>		
-					
-
-<script type="text/javascript">
-//<![CDATA[
-var dv = new Object;
-dv['name'] = '';
-dv['email'] = '';
-
-function validate_AddForm(frm) {
-  var value = '';
-  var errFlag = new Array();
-  var _qfGroups = {};
-  _qfMsg = '';
-
-	var value = frm.elements['name'].value;
-  if (value=='') {
-    errFlag['name'] = true;
-    _qfMsg = _qfMsg + '\n - please enter your name';
-  }
-
-	var value = frm.elements['email'].value;
-  if (value=='') {
-    errFlag['email'] = true;
-    _qfMsg = _qfMsg + '\n - please enter email';
-  }
-
-  if (_qfMsg != '') {
-    _qfMsg = 'Please fill all required fields.' + _qfMsg;
-    _qfMsg = _qfMsg + '\n';
-    alert(_qfMsg);
-    return false;
-  }
-  return true;
-}
-
-//]]>
-</script>
-
-
-<form action="/contact" method="post" name="AddForm" id="AddForm" target="_self" onsubmit="try { var myValidator = validate_AddForm; } catch(e) { return true; } return myValidator(this);">
-<input type="hidden" name="newsletter_form_send" value="1">
-<script type="text/javascript">document.write('<input type="hidden" name="cf_send" value="1" />');</script><input type="hidden" name="cf_send" value="1">
-
-<h4 id="newsletter_h4">Get Relenta news and updates via email</h4>
-
-<div id="newsletter">
-	<div id="l">
-		<b>Name:</b><br><input type="text" class="txt" name="name" value="" tabindex="1">
-	</div>
-	<div id="l">
-		<b>Email:</b> <input type="text" class="txt" name="email" value="" tabindex="3">
-	</div>
-	<div id="l">
-		<br>
-		<input type="submit" name="submit" value=" Subscribe ">
-	</div>
-<div class="clr"> </div>
-<p>We will not share your email and you can unsubscribe at any time.</p>	
-<div class="clr"> </div>
-</div>
-
-
-
-
-</form>
-<br>
-				
-				
 	</div>
 </div>
 
 <div id="footer">
-	<p>
-		<a href="/">Home</a> | <a href="/about.html">About</a> | 
-		<a href="/tour/email.html">Screenshots</a> | <a href="/demo">Demo</a> | 
-		<a href="/pricing.html">Pricing &amp; sign up</a> | <a href="http://crm.relenta.com/">Login</a> | 
-		<a href="/contact">Contact</a> | <a href="/resources.html">Resources</a> | 
-		<a href="/articles/index.html">Articles</a>
+	<p class="footer-nav">
+        <a href="/">Home</a> | <a href="/about.html">About</a> |
+		<a href="/faq.html">FAQ</a> |
+        <a href="/tour/email.html">Tour</a> | <a href="/demo">Demo</a> |
+        <a href="/pricing.html">Pricing &amp; sign up</a> | <a href="/support/">Support</a> | <a href="http://crm.relenta.com/">Login</a> |
+        <a href="/contact">Contact</a> | <a href="/resources.html">Resources</a> |
+        <a href="/articles/index.html">Articles</a>
 	</p>
-	Copyright © 2007 <b>Relenta CRM</b>. All rights reserved. <a href="/tos.html">Terms of service</a> | <a href="/privacy.html">Privacy policy</a>
-	<br><br>
-	This site uses standards-compliant <a href="http://validator.w3.org/check?uri=www.relenta.com">XHTML</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.relenta.com">CSS</a>
-	<br><br>
-	<b>Relenta CRM</b><br>1616 Anderson Road<br>McLean, VA 22102<br>
-	<b>800-743-0387</b>
+	© 2005-2008 Relenta Inc. All rights reserved. <a href="/tos.html">Terms of service</a> | <a href="/privacy.html">Privacy policy</a>
 </div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -172,13 +113,6 @@ urchinTracker();
 <a href="http://roi.clicklab.com/pv.php" target="_blank"><img src="http://roi.clicklab.com/pv.php?site_id=244605" alt="Clicklab Tracking Code" border="0" width="1" height="1" /></a>
 </noscript>
 <!-- END CLICKLAB PAGE TAG -->
-<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
-<!-- BEGIN Live Help Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->
-<div id="floatLayer" align="left" style="position:absolute; left:10px; top:10px; visibility:hidden; z-index:5000;"><map name="LiveHelpInitiateChatMap" id="LiveHelpInitiateChatMap"><area shape="rect" coords="50,210,212,223" href="http://livehelp.stardevelop.com" target="_blank" alt="stardevelop.com Live Help"><area shape="rect" coords="113,183,197,206" href="#" onclick="openLiveHelp();acceptInitiateChat();return false;" alt="Accept"><area shape="rect" coords="206,183,285,206" href="#" onclick="declineInitiateChat();return false;" alt="Decline">
-<area shape="rect" coords="263,86,301,104" href="#" onclick="declineInitiateChat();return false;" alt="Close"></map>
-<div id="InitiateText" align="center" style="position:relative; left:30px; top:145px; width:275px; height:35px; z-index:5001; text-align:center; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold;">Do you have any questions that I can help you with?</div><img src="/livehelp/locale/en/images/InitateChat.gif" alt="stardevelop.com Live Help" width="323" height="229" border="0" usemap="#LiveHelpInitiateChatMap"></div>
-<!-- END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->
-
 
 
 </body></html>
