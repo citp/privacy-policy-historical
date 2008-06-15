@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217123033id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615194419id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # schooldigger.com Privacy Policy
 
@@ -7,14 +7,16 @@ Effective **Jan 1, 2007**
 **Privacy Notice Table Of Contents:**   
 
 
-* Our Commitment To Privacy
-* The Information We Collect
-* How We Use Information
-* Our Commitment To Data Security
-* Our Commitment To Children's Privacy
-* How To Access Or Correct Your Information
-* Business Transfers
-* How To Contact Us
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * Business Transfers
+  * How To Contact Us
+
+
 
 **Our Commitment To Privacy:**
 
@@ -22,11 +24,14 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the schooldigger.com website. On some pages you can make requests or submit opinions and reviews. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the schooldigger.com website. On some pages you can send us feedback or submit opinions or requests to change or add to our database records. The types of personal information collected at these pages are: 
 
-  * Email address (optional)
+  * Email address (optional with customer feedback)
+  * Phone number (optional)
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 **The Way We Use Information:**
 
@@ -50,6 +55,6 @@ In the event of a transfer of ownership of schooldigger.com, such as acquisition
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20071217123033id_/http%3A//www.schooldigger.com/contact.aspx). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20080615194419id_/http%3A//www.schooldigger.com/contact.aspx). 
 
 * * *
