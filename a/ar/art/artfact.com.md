@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026013958id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165554id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # ARTFACT.COM : Find, Price & Research Antiques and Fine Art
 
@@ -62,7 +62,7 @@ _Subscription Billing_
 
 We charge fees for using our subscription level services. At present, these are Artfact Basic, Artfact Premium, and Artfact Professional subscriptions. To enable the purchase of these products, Artfact collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
 
-You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure Manage Account page.
+You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure My Artfact page.
 
 _Access Control_
 
@@ -88,7 +88,7 @@ If it is clear from the information that you provide us that you are a member of
 
 **3) HOW YOU CAN CORRECT INFORMATION**
 
-Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure Manage Account page.  
+Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure My Artfact page.  
 
 **4) OUR E-MAIL POLICIES**
 
@@ -98,15 +98,15 @@ If you send auction houses emails with a question, or requesting more informatio
 
 If we offer, and you have registered for upcoming auction alerts or online discussions, you may receive emails specific to your participation online.
 
-We may offer e-mail newsletters.  If you do not wish to receive newsletters, you can either (1) follow the 'unsubscribe' instructions located near the bottom of each newsletter, or (2) log in and go to Manage Account, select "opt out" in your Personal Information area and then select "Update Personal Information."
+We may offer e-mail newsletters.  If you do not wish to receive newsletters, you can either (1) follow the 'unsubscribe' instructions located near the bottom of each newsletter, or (2) log in and go to My Artfact, select "opt out" in your Personal Information area and then select "Update Personal Information."
 
-We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by either (1) following the 'unsubscribe' instructions located near the bottom of each e-mail, or (2) log in and go to Manage Account, select "opt out" in your Personal Information area and then select "Update Personal Information."
+We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by either (1) following the 'unsubscribe' instructions located near the bottom of each e-mail, or (2) log in and go to My Artfact, select "opt out" in your Personal Information area and then select "Update Personal Information."
 
 **5) SECURITY AND PROTECTION OF YOUR INFORMATION**
 
 We take very seriously our commitment to protect your personal information. To this end, we maintain a secure process to collect, transmit and store your personally identifiable information including credit card details. 
 
-Subscribers can review or change their registration, subscription or credit card information at any time through the secure Manage Account page with the exception of card number and card verification number which cannot be viewed or changed by any means.
+Subscribers can review or change their registration, subscription or credit card information at any time through the secure My Artfact page with the exception of card number and card verification number which cannot be viewed or changed by any means.
 
 We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or using a computer in a public place. 
 
@@ -124,4 +124,4 @@ Attention: William M. Peverill
 
 Newton, MA 02458.
 
-This policy document 1.60 was last revised June 22, 2007.
+This policy document 1.70 was last revised February 1, 2008.
