@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property.com.au privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217095713id_/http%3A//www.property.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3Dpvc%26cu%3Dfn-pca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property.com.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615140952id_/http%3A//www.property.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3Dpvc%26cu%3Dfn-pca) for the most accurate reproduction.*
 
 # Property.Com.Au : : : : : Privacy
 
