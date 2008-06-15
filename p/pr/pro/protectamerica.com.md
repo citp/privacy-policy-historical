@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211124020id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615032601id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
 
-# Protect America - Protect America Home Security - Privacy Policy
+# Home Security Companies - Protect America - Privacy Policy
+
+## Protect America, Inc. Privacy Policy (www.protectamerica.com)
 
 [](http://www.truste.org/ivalidate.php?url=www.protectamerica.com&sealid=101 "Protect America Home Security is a TRUSTe Reviewed Site")
 
-## Protect America, Inc. Privacy Policy
-
 **Effective:** May 17, 2005
 
-**Last Updated:** August 25, 2006
+**Last Updated:** February 14, 2008
 
 Protect America, Inc. is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
@@ -40,7 +40,7 @@ Domain name information that we collect is not used to personally identify you a
 
 When other information is collected from you, such as your name and e-mail address, we let you know at the time of collection how we will use the personal information. We use the personal information you provide only to respond to your inquiry or to process your request (such as to receive information about our products and services). This information may be shared with other PAI businesses, but only if necessary to fulfill your request or for related purposes.
 
-We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
+We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. PAI utilizes the services and securely shares the appropriate information with the major credit bureaus, credit card processors and shipping companies. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, or in other legally limited circumstances (for example, to protect your account from fraud).
 
 If you register with one of PAI's affiliates online, they may use this information to provide you with custom information about PAI's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with their web site for further information about their privacy practices.
 
@@ -58,7 +58,7 @@ PAI's Web site may contain links to other sites such as PAI distributors and aff
 
 ## Changes in this Privacy Statement
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to make material changes to our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 ## TRUSTe Program
 
