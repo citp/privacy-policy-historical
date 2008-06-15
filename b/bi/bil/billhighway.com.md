@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2007-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070913221204id_/http%3A//www.billhighway.com/aph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013411id_/http%3A//www.billhighway.com/aph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # billhighway - Group finances made easy
 
