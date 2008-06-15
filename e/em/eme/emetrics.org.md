@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216054014id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142431id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.*
 
 # eMetrics Marketing Optimization Summit, International Web Analytics Conferences
 
