@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162358id_/http%3A//www.ashp.org/s_ashp/doc1c.asp%3Fdid%3D6605%26cid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615185739id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
 
 # ASHP Website : Privacy Policy
 
