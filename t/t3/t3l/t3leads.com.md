@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131619id_/http%3A//t3leads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616130258id_/http%3A//t3leads.com/privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy - t3leads.com
 
