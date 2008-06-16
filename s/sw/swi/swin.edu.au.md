@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224205227id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616065044id_/http%3A//www.swin.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
+
+  * [Contact Us](http://www.swinburne.edu.au/contact.htm)
+  * [Copyright and disclaimer](http://www.swinburne.edu.au/disclaimer.htm)
+  * [Privacy](http://www.swinburne.edu.au/privacy.htm)
+  * [Feedback](http://www.swinburne.edu.au/feedback.htm)
+    * [Website Feedback](https://web.archive.org/website_feedback.htm)
+    * [Service Feedback](http://www.swinburne.edu.au/corporate/spq/service_feedback.htm)
+  * [Accessibility Information](http://www.swinburne.edu.au/accessibility.htm)
+
+
 
 |  |  |   
 ---  
