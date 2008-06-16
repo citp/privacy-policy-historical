@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224112256id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616033349id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privay Policy
 
@@ -16,7 +16,7 @@ Information you provide in surveys will remain confidential. Survey data will on
 
 ## Your Privacy
 
-Users who have signed up for CougarBoard may occasionally receive administrative emails. During signup, users may also opt in to a daily email containing links to BYU sports related articles. You may opt out of those emails at any time by going to the Prefs section after logging in, or by contacting the owner of the site. 
+Users who have signed up for CougarBoard may occasionally receive administrative emails. During signup, users may also opt in to a daily email containing links to BYU sports related articles. This email is provided by a separate site, CougarUpdate.com. You can unsubscribe from those emails by clicking on the link in the email, or through that site. 
 
 ## Future Changes
 
