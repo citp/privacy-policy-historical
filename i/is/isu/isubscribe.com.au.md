@@ -1,7 +1,35 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602230427id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616114937id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Australian Magazines :: iSUBSCRiBE - magazine subscriptions online
 
-Our Privacy Policy ensures that information given to us will only be used to enhance your shopping experience, resulting in a more personalised service for you. We are fully committed to protecting your privacy. Any personal information that you submit will be used simply to process your orders and is protected by our secure server. You can also choose to receive information via our **[iSUBSCRiBE newsletter](https://web.archive.org/web/20040602230427id_/http%3A//www.isubscribe.com.au/newsletter.cfm)** , notifying you of important changes to our site or offering you special promotions. We are not involved in the selling, trading or alternative unauthorised use of personal information. We promise that we will not pass on any of your personal details to any organisations other than our publishing partners.
+iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information.
 
-From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to our publishing partners. This will simply comprise data collected about you and other users to form aggregate results. It will not include any direct personal information that identifies you as our customer.
+Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 303, 25 Lime Street Sydney 2000
+
+ **What type of information is collected by iSUBSCRiBE?**
+
+iSUBSCRiBE collects most information directly from the users of it's website(s). We collect this information so you can subscribe to products or services available for purchase via the iSUBSCRiBE group of websites, subscribe to the iSUBSCRiBE Newsletter, advertise in our publishing partners publications, request a product or service from iSUBSCRiBE, complete a survey or questionnaire, enter a competition or an event, or communicate with iSUBSCRiBE by e-mail or telephone.
+
+iSUBSCRiBE may also be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
+
+The type of personal information collected includes (but is not limited to) name, address, contact details, age range and gender.
+
+ **How is this information used by iSUBSCRiBE?**
+
+iSUBSCRiBE uses personal information primarily for the purpose to facilitate orders for subscriptions via it's website(s).
+
+iSUBSCRiBE may also use this information to enhance the shopping experience, resulting in a more personalised service for you.
+
+iSUBSCRiBE may also use this information to communicate with it's customers and to provide updated information on products and services.
+
+From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to our publishing partners. This will simply comprise data collected about you and other users to form aggregate results.
+
+Unless requested not to, iSUBSCRiBE may provide your personal information to third parties, which may in turn provide your information to other third parties for marketing purposes. If you would not like us to share your information in this way please notify us by submitting the email address you used to subscribe here:
+
+iSUBSCRiBE will provide your information to Publishers of the magazines / newspapers you have subscribed to so that the subscriptions can be fulfilled.
+
+iSUBSCRiBE may also provide your information to other organizations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey; including registered companies that are involved with the drawing of the prize and database management entities.
+
+Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting iSUBSCRiBE websites (for example, to place items in your shopping cart).
+
+If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE, Suite 303, 25 Lime Street, Sydney NSW Australia 2000 or via e-mail [info@isubscribe.com.au](mailto:info@isubscribe.com.au)
