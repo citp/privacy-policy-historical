@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216084329id_/http%3A//managerleague.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616054056id_/http%3A//www.managerleague.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : World Cup Soccer : Play Fantasy Soccer Games : ManagerLeague.com
 
-June 15th, 2005
+February 15th, 2007
 
 At Fifth Season we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Fifth Season AS (collectively,Fifth Season's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
@@ -11,7 +11,7 @@ If you have any questions about this Policy, please feel free to contact us thro
 **Information we collect and how we use it:**
 
   * **Information you provide** \- When you sign up for a ManagerLeague account or other Fifth Season service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other Fifth Season services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.  
-We never share or give out your registered information that is regarded as private. Private information like name and addresses are only used for purposes of identification or when sending out prizes won in competitions and similar activities. Your email address is used for identification, sending your password or to send you other important site-specific information. We also send out a newsletter now and then, but no more than 6 times per year. You can easily opt out of this newsletter in your preferences. Finally, we may use your regional information to provide you with regional content or advertising, like results from regional matches or regional news.
+We never share or give out your registered information that is regarded as private. Private information like name and addresses are only used for purposes of identification or when sending out prizes won in competitions and similar activities. Your email address is used for identification, sending your password or to send you other important site-specific information. We also send out a newsletter now and then, but no more than 12 times per year. You can easily opt out of this newsletter in your preferences. Finally, we may use your regional information to provide you with regional content or advertising, like results from regional matches or regional news.
   * **ManagerLeague cookies** \- When you visit ManagerLeague, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences. Cookies are required to use our services, but they hold no personal information. 
   * **Log information** \- When you use Fifth Season services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
   * **User communications** \- When you send email or other communication to Fifth Season, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
@@ -72,5 +72,5 @@ Fifth Season regularly reviews its compliance with this Policy. We will cooperat
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.  
   
-Copyright 2006 © Fifth Season AS, Oslo, Norway. [Privacy Policy](https://web.archive.org/web/20061216084329id_/http%3A//managerleague.com/privacypolicy.html). [Rules and Code of Conduct](https://web.archive.org/web/20061216084329id_/http%3A//managerleague.com/rules.html).   
-Responsible Editor for ManagerLeague is [Christian Lassem](mailto:spinner@managerleague.com).
+© 2003-2007 Fifth Season AS, Oslo, Norway. [Privacy Policy](https://web.archive.org/web/20080616054056id_/http%3A//www.managerleague.com/privacypolicy.html). [Rules and Code of Conduct](https://web.archive.org/web/20080616054056id_/http%3A//www.managerleague.com/rules.html). [Sitemap](https://web.archive.org/web/20080616054056id_/http%3A//www.managerleague.com/sitemap.html).   
+Responsible Editor for ManagerLeague is Christian Lassem.
