@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226174024id_/http%3A//www.32vegas.com/en/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616080357id_/http%3A//www.32vegas.com/en/security-privacy.html) for the most accurate reproduction.*
 
-# The Best of The Online Casinos - 32Vegas Casino : Security & Privacy
+# Security & Privacy at 32vegas.com
 
 32Vegas and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by 32Vegas.
 
