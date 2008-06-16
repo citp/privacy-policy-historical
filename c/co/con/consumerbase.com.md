@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020060400id_/http%3A//consumerbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616130212id_/http%3A//www.consumerbase.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# ConsumerBase
+# Consumer Base
 
 Last Updated: November 2003
 
-Organ Worldwide, LLC, ConsumerBase LLC, eShopFirst, ConsumerWireless, Offerz.com, DegreeLinks, Email Lookup, Reports 2007, Official Referral, Value Seekers, BehaviorBase and ResponderInfo as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” has a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it. 
+Organ Worldwide, LLC, ConsumerBase LLC, eShopFirst, ConsumerWireless, Offerz.com, DegreeLinks, Email Lookup, Reports 2008, Official Referral, Value Seekers, BehaviorBase and ResponderInfo as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” has a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it. 
 
-The Company and its employees assert that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles: 
+The Company and its employees assert that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles:
 
 **Consumer Rights**  
 The Company understands the always-changing legalities and courtesies regarding the use and dissemination of our customers’ information.
@@ -35,7 +35,8 @@ The Company captures consumer information from own websites and through opt-in c
 **Use of Information**  
 The Company uses any information obtained in order to provide users with information on products and/or services that may be of interest to them. 
 
-We may enhance or merge users’ personally identifiable information with data collected from other sources to use in direct or online marketing, including the data services described in "Sharing of Information" below. In the event we enhance or merge personally identifiable information with data collected from other sources, we will take all necessary steps to maintain the integrity and quality of that information. 
+We may enhance or merge users’ personally identifiable information with data collected from other sources to use in direct or online marketing, including the data services described in "Sharing of Information" below. In the event we enhance or merge personally identifiable information with data collected from other sources, we will take all necessary steps to maintain the integrity and quality of that information.   
+
 
 **Sharing of Information**  
 The Company uses the information described above to help our clients better understand the demographics of their target audiences as well as to support our marketing of data products and services. We may provide personally identifiable data to marketing companies, advertising agencies, data compilers, data companies, and, to the extent permitted by law, individual reference and look-up service programs. Such information may be used by such companies to provide consumers with information on products and services that may be of interest. 
@@ -68,4 +69,6 @@ Privacy Department
 ConsumerBase LLC  
 1007 Church St, 5th Floor   
 Evanston, IL 60201  
-[privacy@ConsumerBase.com](mailto:privacy@ConsumerBase.com)
+privacy@ConsumerBase.com
+
+Version 1.0
