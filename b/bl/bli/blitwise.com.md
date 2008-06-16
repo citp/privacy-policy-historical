@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitwise.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031084434id_/http%3A//www.blitwise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitwise.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616023834id_/http%3A//www.blitwise.com/privacy.html) for the most accurate reproduction.*
 
 # BlitWise Productions, Shareware & Free Games
 
