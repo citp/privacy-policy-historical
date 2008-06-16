@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaconline.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502012155id_/http%3A//www.interaconline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaconline.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616085304id_/http%3A//www.interaconline.com/privacy.php) for the most accurate reproduction.*
 
 # Interac Online
 
