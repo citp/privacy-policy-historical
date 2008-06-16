@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221114049id_/http%3A//www.cheatcodes.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616033831id_/http%3A//www.cheatcodes.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # CheatCodes.com: Privacy Statement
 
-CheatCodes.com is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20071221114049id_/http%3A//www.cheatcodes.com/about/legal/terms.html), covers personally identifiable information shared through the CheatCodes.com Service.
+CheatCodes.com is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20080616033831id_/http%3A//www.cheatcodes.com/about/legal/terms.html), covers personally identifiable information shared through the CheatCodes.com Service.
 
 ### What information does CheatCodes.com receive and how do we use it?
 
@@ -30,6 +30,6 @@ We do not share personally identifiable data with other companies unless you spe
 
 ### What about children's information?
 
-Children under 13 may not use any CheatCodes.com services that require disclosing personally identifiable information. Please see our information on the [Children's Online Privacy Protection Act](https://web.archive.org/web/20071221114049id_/http%3A//www.cheatcodes.com/about/legal/coppa.html).
+Children under 13 may not use any CheatCodes.com services that require disclosing personally identifiable information. Please see our information on the [Children's Online Privacy Protection Act](https://web.archive.org/web/20080616033831id_/http%3A//www.cheatcodes.com/about/legal/coppa.html).
 
 _Last Modified: December 4, 2006_
