@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the workpermit.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workpermit.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm) for the most accurate reproduction.*
 
 # Workpermit.com
 
 ### Privacy Notice Table Of Contents:
 
-[Our Commitment To Privacy](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#commitment)   
-[The Information We Collect](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#info_collect)   
-[How We Use Information](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#useinfo)   
-[Our Commitment To Data Security](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#commitment2)   
-[How To Access Or Correct Your Information](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#access)   
-[How To Contact Us](https://web.archive.org/web/20071218062612id_/http%3A//www.workpermit.com/privacy.htm#contactus)
+[Our Commitment To Privacy](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#commitment)   
+[The Information We Collect](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#info_collect)   
+[How We Use Information](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#useinfo)   
+[Our Commitment To Data Security](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#commitment2)   
+[How To Access Or Correct Your Information](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#access)   
+[How To Contact Us](https://web.archive.org/web/20080617005557id_/http%3A//www.workpermit.com/privacy.htm#contactus)
 
 ### Our Commitment To Privacy
 
