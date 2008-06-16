@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218155606id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616081343id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # Bergdorf Goodman - World-renowned fashion, plus exclusive beauty brands
 
@@ -27,7 +27,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Bergdorf Goodman credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review BG Credit Card policy](https://web.archive.org/category/assistance/service/shoppingOnline.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI#nmccuse) online
+  * Click to [review BG Credit Card policy](https://web.archive.org/category/assistance/service/shoppingOnline.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY#nmccuse) online
   * Call 1.888.774.2424
   * Write:  
 BergdorfGoodman.com  
