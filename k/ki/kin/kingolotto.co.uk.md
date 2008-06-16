@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034816id_/http%3A//kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616150014id_/http%3A//www.kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
 
 # Kingolotto - 100% free UK lottery - Win : vouchers, DVDs, holidays, DVD players, mobile phones and loads of great prizes!
 
@@ -29,15 +29,7 @@ Unless Mediastay has your consent including that given below, Mediastay will not
 
 Sometimes Mediastay may need to give information to agents and sub-contractors for the purpose of administering your participation in Kingolotto. In these circumstances, Mediastay always ensure that the information is safe and secure.
 
-Mediastay may also transfer your personal data to certain selected third party partner service providers with whom Mediastay have a commercial relationship so that they can inform you of offers which you may be interested in. Unless you indicate otherwise, your consent to such use and transfer of your personal data is given to us for this. You may indicate your refusal to authorize the publication of personal information to third parties in this way by simply ticking the “No” check box on the registration form following the text: "I’d like to receive great offers from our partners (competitions, great ideas, great prizes...)" when you register with Kingolotto and provide personal data. If you have previously expressed a desire to receive offers from partners of Mediastay, you may also remove such consent at any time in the “My Account” section, available on the Kingolotto homepage or by clicking on the “Unsubscribe” link in each promotional e-mail received. 
-
-  * [Unsubscribe from Kingolotto newsletters](https://web.archive.org/web/20071025034816id_/http%3A//kingolotto.co.uk/unsubscribe.php?type=1&uid=)
-  * [Unsubscribe from Partners offers](https://web.archive.org/web/20071025034816id_/http%3A//kingolotto.co.uk/unsubscribe.php?type=2&uid=)
-  * [Unsubscribe from Kingolotto](https://web.archive.org/web/20071025034816id_/http%3A//kingolotto.co.uk/remove_account.php)
-
-
-
-You agree that if Mediastay transfers ownership or management of the Website to a third party Mediastay may also transfer your personal data to such third party, provided such third party agrees to observe this Privacy Policy.
+Mediastay may also transfer your personal data to certain selected third party partner service providers with whom Mediastay have a commercial relationship so that they can inform you of offers which you may be interested in. Unless you indicate otherwise, your consent to such use and transfer of your personal data is given to us for this. You may indicate your refusal to authorize the publication of personal information to third parties in this way by simply ticking the “No” check box on the registration form following the text: "I’d like to receive great offers from our partners (competitions, great ideas, great prizes...)" when you register with Kingolotto and provide personal data. If you have previously expressed a desire to receive offers from partners of Mediastay, you may also remove such consent at any time in the “My Account” section, available on the Kingolotto homepage or by clicking on the “Unsubscribe” link in each promotional e-mail received. You agree that if Mediastay transfers ownership or management of the Website to a third party Mediastay may also transfer your personal data to such third party, provided such third party agrees to observe this Privacy Policy.
 
 Mediastay does not collect extra information about its visitors from other sources, such as public records or bodies, or private organisations. 
 
