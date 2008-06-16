@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030034649id_/http%3A//www.permissionresearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616110115id_/http%3A//www.permissionresearch.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
@@ -21,13 +21,13 @@ Whom can I contact if I have additional questions?
 
 An elite research community
 
-Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
+Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior (including the content of web pages visited) to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
 
 Be assured that protection of your privacy is one of our top priorities. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!
 
 PRIVACY POLICY & USER LICENSE AGREEMENT
 
-Before joining our program, enjoying the benefits of this program, and downloading our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy & user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.
+Before joining our program, enjoying the benefits of this program, and installing our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy & user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.
 
 Requirements for participation
 
@@ -40,7 +40,7 @@ In order to participate in this program, you must:
 
 
 
-Please note: many companies restrict the download of software onto work computers. Before you download this software onto a work computer, please check your company’s software download policy. 
+Please note: many companies restrict the installation of software onto work computers. Before you install this software onto a work computer, please check your company’s software installation policy. 
 
 What information is collected?
 
@@ -86,7 +86,7 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20071030034649id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20080616110115id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as “Programs and Features” in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from the panel in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software.
 
@@ -163,7 +163,7 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of September 19, 2007.
+This Agreement is effective as of June 11, 2008.
 
 Whom can I contact if I have additional questions?
 
@@ -171,13 +171,15 @@ The program sponsor is TMRG, Inc., a Delaware, U.S.A. corporation. If you have a
 
 privacy@tmrginc.com  
 Privacy Office  
-11465 Sunset Hills Rd  
-Suite 200  
+11950 Democracy Drive  
+Suite 600  
 Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0738
+LP 0824
 
   
-[](https://web.archive.org/web/20071030034649id_/http%3A//www.permissionresearch.com/signup.aspx)
+[](https://web.archive.org/web/20080616110115id_/http%3A//www.permissionresearch.com/signup.aspx)
+
+[](https://www.scanalert.com/RatingVerify?ref=www.permissionresearch.com)
