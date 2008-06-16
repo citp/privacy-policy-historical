@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pantheranetwork.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202233232id_/http%3A//pantheranetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantheranetwork.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616153336id_/http%3A//www.pantheranetwork.com/privacy.htm) for the most accurate reproduction.*
 
-# Panthera Network: King of the iJungle - Privacy Policy
+# Panthera Network: Performance Based Online Advertising - Privacy Policy
 
 **Updated March 1, 2007**
 
