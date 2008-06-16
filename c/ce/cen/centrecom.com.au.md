@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207103334id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616151520id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
 
 # Centre Com Online
 
@@ -46,4 +46,4 @@ For security purposes Centre Com sometimes collects and analyzes the Internet pr
 
 **Questions**
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[webmaster@centrecom.com.au](mailto:%20webmaster@centrecom.com.au)**
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[sales@centrecom.com.au](mailto:%20sales@centrecom.com.au)**
