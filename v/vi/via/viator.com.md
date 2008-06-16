@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203749id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616101655id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -15,14 +15,14 @@ Rest assured that, unless you explicitly give us consent to do otherwise, Viator
 Viator operates through different websites around the world, which are all part of the Viator family.
 
   * **Viator.com** is our flagship website, where we offer our complete range of products and services directly to consumers.
-  * At Viator we also work with hundreds of **affiliate partners** ([click here](http://www.viator.com/partnership#distribution) to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates’ product-information and booking pages, and manage payment and credit card information.
+  * At Viator we also work with hundreds of **affiliate partners** ([click here](http://www.viator.com/partnership#distribution) to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates' product-information and booking pages, and manage payment and credit card information.
   * We also work with **distributors** (as discussed below) who manage the hosting, purchase and payment for our products and services.
 
 
 
 ### What Information Do We Collect?
 
-When you visit Viator.com or any of our affiliates’ web pages that are hosted by us, our web server automatically recognizes and collects your IP address.
+When you visit Viator.com or any of our affiliates' web pages that are hosted by us, our web server automatically recognizes and collects your IP address.
 
 In order to purchase our products or services, it is necessary for you to disclose personal information, including your name, address, email address, phone number, credit card details and other identifying information in order to process orders and provide customer service. If you do not provide personal information when purchasing one of our products or services, we cannot confirm your purchase or fulfill your booking.
 
@@ -61,7 +61,7 @@ If you subscribe to any of our email marketing messages, we will use your person
 
 Some of the personal information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us.
 
-We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider’s privacy policy.
+We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider's privacy policy.
 
 We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners.
 
@@ -116,8 +116,8 @@ Viator reserves the right to change its Privacy Policy and post the changes on i
 
 For some Viator services you can access and update your registration and personal information online.
 
-To correct or update any other personal information, or if you have questions about Viator’s Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
+To correct or update any other personal information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
 
 ### Further Information About Privacy Laws
 
-There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the [Australian National Privacy Principles](http://www.privacy.gov.au/publications/nppgl_01.html). In the United States that means adhering to the [Federal Trade Commission’s](http://www.ftc.gov/privacy/) privacy guidelines. In Europe the regulations are based on [EC Directive 95/46/EC](http://www.cdt.org/privacy/eudirective/EU_Directive_.html).
+There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the [Australian National Privacy Principles](http://www.privacy.gov.au/publications/nppgl_01.html). In the United States that means adhering to the [Federal Trade Commission's](http://www.ftc.gov/privacy/) privacy guidelines. In Europe the regulations are based on [EC Directive 95/46/EC](http://www.cdt.org/privacy/eudirective/EU_Directive_.html).
