@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the memocast.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memocast.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/privacy.aspx) for the most accurate reproduction.*
 
 # Memocast, Inc. Privacy Notice
 
+Memocast, Inc. Privacy Notice
+
+* * *
+
 Memocast, Inc. (“Memocast”) values the privacy of our customers, users, members, and others who use [www.memocast.com](http://www.memocast.com/), and any other web sites or services owned or operated by Memocast (the “Memocast Portal”) (collectively or individually “Customers”).
 
-This Privacy Notice is incorporated into and is subject to the Memocast [Terms of Use](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/terms.aspx). Your use of Memocast and any personal information you provide on the Memocast Postal remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/terms.aspx). Your use of the Memocast Portal constitutes your agreement to this Privacy Notice and any future revisions. 
+This Privacy Notice is incorporated into and is subject to the Memocast [Terms of Use](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/terms.aspx). Your use of Memocast and any personal information you provide on the Memocast Postal remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/terms.aspx). Your use of the Memocast Portal constitutes your agreement to this Privacy Notice and any future revisions. 
 
 **NOTE TO KIDS under _13_ years of age: **The MEMOCAST PORTAL is not FOR persons under the age of 13. If you are under 13 years of age, then please do not use the Memocast Portal – there are lots of other great web sites for you. _Talk to your parents_ about what sites are appropriate for you. 
 
@@ -36,7 +40,7 @@ _Any member profile information, media, video, image, comment, or any other cont
   * Memocast discloses both personally identifiable and automatically collected information to affiliated companies or other businesses or persons to process such information on our behalf, provide web site maintenance and security, to enable Memocast to fulfill orders, to offer certain features on the Memocast Portal, and to assist us in improving the way the Memocast Portal works and looks, and to create new features. We require that these parties agree to process such information in compliance with our Privacy Notice, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures. ****
   * We share automatically collected and other aggregate non-personally-identifiable information with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Memocast Portal. ****
   * We may disclose Customer information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. ****
-  * We also reserve the right to disclose Customer information that we believe, in good faith, is appropriate or necessary to: enforce the Memocast [Terms of Use](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/terms.aspx); take precautions against liability; protect Customers from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Memocast Portal; and to protect the rights, property, or personal safety of Memocast, our Customers, or others. ****
+  * We also reserve the right to disclose Customer information that we believe, in good faith, is appropriate or necessary to: enforce the Memocast [Terms of Use](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/terms.aspx); take precautions against liability; protect Customers from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Memocast Portal; and to protect the rights, property, or personal safety of Memocast, our Customers, or others. ****
 
 
   * We do not share Customer information with other, third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-out.
@@ -45,7 +49,7 @@ _Any member profile information, media, video, image, comment, or any other cont
 
 **4.** ** _Your Choices_**
 
-You may, of course, decline to share personal information with Memocast, in which case Memocast will not be able to provide certain services to you on the Memocast Portal. You may update, correct, or delete your member information and email subscription preferences at any time by going to the [log-in section](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/login.aspx) of the Memocast Portal. 
+You may, of course, decline to share personal information with Memocast, in which case Memocast will not be able to provide certain services to you on the Memocast Portal. You may update, correct, or delete your member information and email subscription preferences at any time by going to the [log-in section](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/login.aspx) of the Memocast Portal. 
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting Customer’s member profile access or before making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
@@ -69,7 +73,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 **8.** ** _Special Note to International Users_**
 
-The Memocast Portal is hosted in the United States. If you are a Customer accessing the Memocast Portal from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Memocast Portal, which is governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20071215082759id_/http%3A//www.memocast.com/terms.aspx), you are transferring your personal information to the United States and you consent to that transfer.
+The Memocast Portal is hosted in the United States. If you are a Customer accessing the Memocast Portal from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Memocast Portal, which is governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20080616022302id_/http%3A//www.memocast.com/terms.aspx), you are transferring your personal information to the United States and you consent to that transfer.
 
 **9.** ** _In the Event of Merger or Sale_**
 
