@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214113506id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616211920id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -45,7 +45,7 @@
 
 <!-- Start Masthead -->
 <div id="masthead">
-  <table border="0" cellpadding="0" cellspacing="0" width="99%" background="http://www.abanet.org/images/top_bg_sm.jpg">
+  <table border="0" cellpadding="0" cellspacing="0" width="99%" background="/images/top_bg_sm.jpg">
     <tbody><tr>
       <td align="left" valign="top" width="144"><div id="abalogin">
           <script language="JavaScript">
@@ -68,8 +68,8 @@ if(firstname == ""){
 }
 </script><div class="login"><a href="/abanet/common/MyABA/home.cfm" class="memberlogin">Member Login</a></div>
         </div></td>
-      <td align="left" valign="top"><a href="/"><img src="http://www.abanet.org/images/aba_logo_sm.jpg" alt="American Bar Association - Defending Liberty, Pursuing Justice" width="331" height="52" border="0"></a></td>
-      <td align="right" valign="top"><a href="/"><img src="http://www.abanet.org/images/aba_logo_right_sm.jpg" alt="ABA Logo" width="95" height="52" border="0"></a></td>
+      <td align="left" valign="top"><a href="/"><img src="/images/aba_logo_sm.jpg" alt="American Bar Association - Defending Liberty, Pursuing Justice" width="331" height="52" border="0"></a></td>
+      <td align="right" valign="top"><a href="/"><img src="/images/aba_logo_right_sm.jpg" alt="ABA Logo" width="95" height="52" border="0"></a></td>
     </tr>
   </tbody></table>
 </div>
@@ -111,9 +111,9 @@ if(firstname == ""){
   
 <!-- ABA Advertising Include: DO NOT REMOVE -->
 <!-- Ad JavaScript Goes Here-->
-<div style="float: left; margin-left: 10px; width: 120px;">
-<a href="http://ad.doubleclick.net/jump/N296.ABAnet.org/B2527679;sz=120x600;ord=[timestamp]?">
-<img src="http://ad.doubleclick.net/ad/N296.ABAnet.org/B2527679;sz=120x600;ord=[timestamp]?" border="0" width="120" height="600" alt="Click Here"></a>
+<div align="center">
+  <a href="/cle/splash/"><img src="/images/ads/clebannerad.gif" border="0" alt="ABA-CLE: Quality Content in Convenient Formats" width="120" height="600"></a>
+
 </div>
 
 
@@ -147,6 +147,12 @@ if(firstname == ""){
 					/* 5/22/2007 CHANG AHN - entity fitler search*/ 
 					
 					var whereami = window.location.href; // get root level directory
+					
+					/* 01/24/2008 Alan kong - 404 403 error page no entity search */
+					var ptitle = document.title;
+					var errpage = /404|403|500/;
+					/* returns -1 if not an error page */
+					var isErrorPage = ptitle.search(errpage);
 							
 						 // get root level directory
 					var urlParts = new Array();
@@ -166,7 +172,7 @@ if(firstname == ""){
 						var testForExt = /\./;
 						var isWebPage = true;
 								isWebPage = testForExt.test(rootLevelDir);  // test if user is in a root level file.
-						if (! isWebPage) {
+						if ((! isWebPage) && (isErrorPage == -1)) {
 							q_sitefilter = http_host + "/" + rootLevelDir;
 							document.write("<option selected value=\"" + q_sitefilter + "\">This Entity</option>");
 						} else {
@@ -200,12 +206,10 @@ if(firstname == ""){
 </script>
   <a href="javascript:print();">Print This</a> &nbsp;|&nbsp; <a name="Email This" href="#" onclick="pop();">E-mail This</a>
     </li></ul>
-
-</div>
     
+</div>
 <div style="clear:right; "></div>
   <!-- End Search  with </div> directly above-->
- 
 
   <div id="content">
     <!-- ADD YOUR CODE BELOW -->
@@ -325,184 +329,38 @@ if(firstname == ""){
   </div>
   <!-- End Footer with </div> directly above-->
   
-<script language="javascript">
-/* parseUri 1.2; MIT License
-By Steven Levithan <http://stevenlevithan.com> */
-<!--
-var parseUri = function (source) {
-	var o = parseUri.options,
-		value = o.parser[o.strictMode ? "strict" : "loose"].exec(source);
 	
-	for (var i = 0, uri = {}; i < 14; i++) {
-		uri[o.key[i]] = value[i] || "";
-	}
-	
-	uri[o.q.name] = {};
-	uri[o.key[12]].replace(o.q.parser, function ($0, $1, $2) {
-		if ($1) uri[o.q.name][$1] = $2;
-	});
-	
-	return uri;
-};
-
-parseUri.options = {
-	strictMode: false,
-	key: ["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"],
-	q: {
-		name: "queryKey",
-		parser: /(?=.)&?([^&=]*)=?([^&]*)/g
-	},
-	parser: {
-		strict: /^(?:([^:\/?#]+):)?(?:\/\/((?:(([^:@]*):?([^:@]*))?@)?([^:\/?#]*)(?::(\d*))?))?((((?:[^?#\/]*\/)*)([^?#]*))(?:\?([^#]*))?(?:#(.*))?)/,
-		loose: /^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*):?([^:@]*))?@)?([^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/
-	}
-};
-
-/* Generic cookie functions I found. Not sure who the author is */
-function readCookie(name)
-{
-  var ca = document.cookie.split(';');
-  var nameEQ = name + "=";
-  for(var i=0; i < ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0)==' ') c = c.substring(1, c.length); //delete spaces
-    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-    }
-  return null;
-}
-
-function gup( name )
-{
-  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-  var regexS = "[\\?&]"+name+"=([^&#]*)";
-  var regex = new RegExp( regexS );
-  var results = regex.exec( window.location.href );
-  if( results == null )
-    return "";
-  else
-    return results[1];
-}
-/* ABA Specific funtions START */
-
-function ABA_level(n) {
-	var alldir = parseUri(document.URL).directory;
-	var pathArray = new Array();
-	pathArray = alldir.split('/');
-
-	if ((pathArray[n] != null) && (pathArray.lenth > 0)) {
-			 return pathArray[n];
-	 } else {
-	 		 return null;
-	}
-}
+  
 
 
-function ABALoggedIn() {
-	var loggedin = "false";
-	var ABAlogcust = readCookie('CUSTOMER');
-	if ((ABAlogcust) && (ABAlogcust.length > 0)) {
-		loggedin = "true";
-	} else {
-		loggedin = "false";
-	}
-	return loggedin;
-}
+	<script src="/abanet/common/webAnalytics/_numeric_.js"></script>
+    <script>
+    	
 
-function ABAgetcustomer() {
-	var ABAcust = readCookie('CUSTOMER');
-	if ((ABAcust) && (ABAcust.length > 0)) {
-		return ABAcust;
-	} else {
-		return null;
-	}
-}
+		
+		
 
-function ABAgetmembership() {
-	var ABAmembr = unescape(readCookie('MEMBERSHIP'));
-	if ((ABAmembr) && (ABAmembr.length > 0)) {
-		return ABAmembr;
-	} else {
-		return null;
-	}
-}
+		_numeric_.bLoggedInCFMjs = 'no';
+		_numeric_.lMembershipCFMjs = '';
+		_numeric_.userTypeCFMjs = 'customer';
+		_numeric_.bNewMemberCFMjs = 'no';
+		_numeric_.memberStatusCFMjs = '';
+		_numeric_.lNewSectionListCFMjs = '';
 
-function ABAgetcusttype() {
-	var ABActype; 
-	ABActype = readCookie('CUSTOMERTYPE');
-	if ((ABActype) && (ABActype.length > 0)) {
-		return ABActype;
-	} else {
-		return null;
-	}
-}
+        
 
 
-var ABAlogin=ABALoggedIn();
-var ABAmembr=ABAgetmembership();
-var ABAdir=parseUri(document.URL).directory;
-var ABAcusttype=ABAgetcusttype();
-var ABApgtitle=document.title;
-var ABA_level1=ABA_level(1);
-var ABA_level2=ABA_level(2);
-var ABA_level3=ABA_level(3);
-var ABAPath=parseUri(document.URL).directory;
-var ABAsearchQ= gup('q');
-//-->
-</script>
-<!-- SiteCatalyst code version: H.10.
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="/javascripts/s_code.js"></script>
-<script language="JavaScript">
-<!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=ABApgtitle
-s.server=""
-s.channel=ABA_level1
-s.pageType=""
-s.prop1=ABAsearchQ
-s.prop2=""
-s.prop3=ABA_level1
-s.prop4=ABA_level2
-s.prop5=ABA_level3
-s.prop6=ABAlogin
-s.prop7=""
-s.prop8=ABAmembr
-s.prop9=ABAcusttype
-s.prop10=""
-s.prop11=ABA_level1
-s.prop12=ABApgtitle
-s.prop13=ABAdir
-s.prop14=""
-s.prop15=""
-s.prop16=""
-s.prop17=""
-s.prop18=""
-/* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=s.prop1
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar7=""
-s.eVar8=""
-s.eVar9=""
-s.eVar10=""
-s.eVar11=""
-s.eVar12=""
-/* Hierarchy Variables */
-s.hier1=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst code version: H.10. -->
+        _numeric_.analyticsCallBack();
+    </script>
+
+
+
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://abanetproduction.112.2O7.net/b/ss/abanetproduction/1/H.15.1--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript>
+
+
+
 </div>
 <!-- End Container with </div> directly above-->
 
