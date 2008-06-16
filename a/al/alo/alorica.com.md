@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211153416id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616082307id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.*
 
 # Alorica - Privacy Policy
 
