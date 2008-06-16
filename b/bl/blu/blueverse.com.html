@@ -1,0 +1,680 @@
+<!--The following is the downloaded HTML source of the blueverse.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616061006id_/http%3A//www.blueverse.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<title>Privacy Policy</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<link rel="SHORTCUT ICON" href="http://www.blueverse.com/favicon.ico">
+<meta http-equiv="cache-control" content="no-cache">
+<link rel="stylesheet" type="text/css" href="http://www.blueverse.com/wp-content/themes/wp_Blueverse/style.css">
+<script type="text/javascript" src="http://www.blueverse.com/wp-content/themes/wp_Blueverse/javascript/imghover.js"> </script>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.blueverse.com/feed/">
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.blueverse.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.blueverse.com/feed/atom/">
+<link rel="shortcut icon" href="http://www.blueverse.com/favicon.ico" type="image/x-icon">
+<link rel="pingback" href="http://www.blueverse.com/xmlrpc.php">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blueverse.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.blueverse.com/wp-includes/wlwmanifest.xml"> 
+<script type="text/javascript" src="http://www.blueverse.com/wp-content/plugins/vipers-video-quicktags/vipers-video-quicktags.js?ver=5.3.0"></script>
+<meta name="generator" content="WordPress 2.5.1">
+
+
+<!-- all in one seo pack 1.4.6.3 [210,245] -->
+<meta name="description" content="We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content");
+			addComment.parentNode.removeChild(addComment);
+			content.appendChild(addComment);
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://www.blueverse.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://www.blueverse.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	width: 					100%;	
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+/*
+#addcomment small, #addcomment div
+{
+	padding:				3px;
+}
+*/
+#commentform textarea {
+	width: 97%;
+}
+</style>
+<link rel="stylesheet" href="http://www.blueverse.com/wp-content/plugins/bvads/images/output1.css" type="text/css">
+
+<!-- Start Of Script Generated By cforms v8.3b [Oliver Seidel | www.deliciousdays.com] -->
+<link rel="stylesheet" type="text/css" href="http://www.blueverse.com/wp-content/plugins/cforms/styling/cforms.css">
+<script type="text/javascript" src="http://www.blueverse.com/wp-content/plugins/cforms/js/cforms.js"></script>
+<!-- End Of Script Generated By cforms -->
+
+
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://www.blueverse.com/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script><link rel="stylesheet" href="http://www.blueverse.com/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen">
+	<script type="text/javascript" src="http://www.blueverse.com/wp-content/plugins/lightbox-2/lightbox2/prototype.js"></script>
+	<script type="text/javascript" src="http://www.blueverse.com/wp-content/plugins/lightbox-2/lightbox2/scriptaculous.js"></script>
+	<script type="text/javascript" src="http://www.blueverse.com/wp-content/plugins/lightbox-2/lightbox2/lightbox.js"></script>
+	<!-- end lightbox scripts -->
+
+<!-- Start Of Script Generated By WP-PageNavi 2.20 -->
+<link rel="stylesheet" href="http://www.blueverse.com/wp-content/plugins/pagenavi/pagenavi-css.css" type="text/css" media="screen">
+<!-- End Of Script Generated By WP-PageNavi 2.20 -->
+<!--Meta tags added by Robots Meta: http://www.joostdevalk.nl/wordpress/meta-robots-wordpress-plugin/ -->
+<meta name="robots" content="noodp,noydir">
+<!--mclude wp-content/plugins/wp_tagparser/wp_tagparser.php--><!--/mclude--><style type="text/css">.ZenphotoPress_left {margin-right:1em;} .ZenphotoPress_right {margin-left:1em;}</style>	<!-- Quicktime hacks for Viper's Video Quicktags plugin -->
+	<style type="text/css">
+		.vvqbox {
+			margin: 5px auto 0 auto;
+			text-align: center;
+		}
+
+		/* hides the second object from all versions of IE */
+		* html object.mov {
+			display: none;
+		}
+
+		/* displays the second object in all versions of IE apart from 5 on PC */
+		* html object.mov/**/ {
+			display: inline;
+		}
+
+		/* hides the second object from all versions of IE >= 5.5 */
+		* html object.mov {
+			display/**/: none;
+		}
+	</style>
+</head>
+
+<body>
+<div id="topnav"> 
+ <div id="search"><form action="http://www.blueverse.com/search/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-3397697055334753:5dheyv-a8pr">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="text" name="q" size="51">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+ <ul>
+  <li><a href="http://www.blueverse.com/archives/">Archives</a></li>
+  <li><a href="http://www.blueverse.com/resources/wordpress-themes/">Free Wordpress Themes</a></li>
+  <li><a href="http://www.blueverse.com/services/wordpress-themes/"><strong>Custom &amp; Unique Wordpress Themes </strong></a></li>
+  <li><a href="http://www.blueverse.com/write-for-us/">Submit News</a></li>
+  <li><a href="http://www.blueverse.com/about/">About</a></li>
+ </ul>
+</div>
+<div id="header">
+ <div class="logo"><a href="http://www.blueverse.com"><img src="http://www.blueverse.com/wp-content/themes/wp_Blueverse/images/logo_bg.gif" alt="Blueverse.com" border="0"></a></div>
+
+ <div class="headermenu">
+  <ul>
+   <li><strong><a href="http://www.blueverse.com/news/">News</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/store/">Store</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/services/">Services</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/advertise/">Advertise</a></strong></li>
+      <li><strong><a href="http://www.blueverse.com/advertise/sponsored-reviews/">Sponsored Reviews</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/free-stuff/">Free Stuff</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/subscribe/">Subscribe</a></strong></li>
+   <li><strong><a href="http://www.blueverse.com/contact/">Contact</a></strong></li>
+  </ul>
+ </div> 
+</div>
+
+<div id="topmenu">
+ <ul>
+  <li><a href="http://www.blueverse.com/tag/make-money-blogging/">Make Money Blogging</a></li>
+  <li><a href="http://www.blueverse.com/tag/make-money-online/">Make Money Online </a></li>
+  <li><a href="http://www.blueverse.com/tag/blogging-tips/">Blogging Tips</a></li>
+  <li><a href="http://www.blueverse.com/tag/blogging/">Blogging</a></li>
+ </ul>
+</div>                           
+
+<script src="http://static.getclicky.com/7052.js" type="text/javascript"></script>
+<script src="http://mint.blueverse.com/?js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-598945-35");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+sc_project=3592263; 
+sc_invisible=1; 
+sc_partition=41; 
+sc_security="6a61edc4"; 
+sc_remove_link=1; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c42.statcounter.com/3592263/0/6a61edc4/1/" alt="counter" ></div></noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Kontera ContentLink(TM);-->
+<script type="text/javascript">
+var dc_AdLinkColor = '#92278f' ;
+var dc_UnitID = 14 ;
+var dc_PublisherID = 20409 ;
+var dc_adprod = 'ADL' ;
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+</script>
+<!-- Kontera ContentLink(TM) --><div id="main">
+ <table cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+   <td class="leftbar"><center>
+<br>
+
+<center>
+<p><a href="http://feeds.feedburner.com/Blueverse"><img src="http://feeds.feedburner.com/~fc/Blueverse?bg=bababa&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
+<p><a href="http://feeds.feedburner.com/Blueverse" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/Blueverse" rel="alternate" type="application/rss+xml">Subscribe</a></p>
+</center>   
+   <br>
+
+   <script type="text/javascript" src="http://www.45n5.net/top100/top100rank.php?whatnetwork=45n5&amp;whatblog=689&amp;whatwidget=100white"> </script>
+<br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-3397697055334753";
+/* 120x90, created 5/18/08 */
+google_ad_slot = "8265070880";
+google_ad_width = 120;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br>
+
+<script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=5311&amp;type=standard_127" type="text/javascript" id="ecard_widget"></script>
+
+<br>
+
+<style type="text/css"> table.spottt_tb, table.spottt_tb tr, table.spottt_tb td, table.spottt_tb a, table.spottt_tb tr a img { margin:0; padding:0; border:none; background:none; position:static; text-decoration:none; display:block; width:125px; vertical-align:top;} .spottt_thumb, .spottt_thumb img, .spottt_thumb a, .spottt_thumb td { height:125px; } .spottt_label, .spottt_label img, .spottt_label a, .spottt_label td { height:21px;}</style><table cellspacing="0px" class="spottt_tb" id="sp_code_table_d1bw2tr3izw400gg"><tbody><tr class="spottt_thumb"><td><a href="http://click.spottt.com/sp_click_d1bw2tr3izw400gg.php" target="_top"><img src="http://view.spottt.com/sp_image_d1bw2tr3izw400gg.jpg" border="0" alt="Spottt"></a></td></tr><tr class="spottt_label"><td><a href="http://home.spottt.com/sp_index_d1bw2tr3izw400gg.php"><img src="http://view.spottt.com/sp_label_d1bw2tr3izw400gg.jpg" border="0" alt="Spottt"></a></td></tr></tbody></table>
+<br>
+
+
+<script type="text/javascript" src="http://www.blogcatalog.com/w/recent.php?id=4322732&amp;width=160&amp;rows=5&amp;bgcolor=cacaca&amp;bcolor=eeeeee&amp;lcolor=eeeeee&amp;hcolor=646464&amp;htext=Recent%20Viewers&amp;name=1&amp;img=l"></script>
+<br>
+
+<div class="oio-zone-position" style="width:160px; height:600px;">
+<div class="oio-img-border" style="width:160px; height:600px; position:absolute; top:0px; left:0px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3397697055334753";
+/* 160x600, created 5/18/08 */
+google_ad_slot = "7953975042";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+</div>
+
+<br>
+
+
+   </center></td>
+   <td class="main">
+
+<div class="post" id="post-1020" style="padding-bottom: 20px;">
+ <div class="posthead">
+ <h1><a title="Permanent Link to Privacy Policy" href="http://www.blueverse.com/privacy-policy/" rel="bookmark">Privacy Policy</a></h1>
+ <div class="postcom"></div>
+ <span class="date">Mar 7th 2008</span> - Posted by Ahson Rafiq </div>
+ <div class="postcontent">
+ <p><span style="font-size: 10pt; font-family: Arial">We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. </span><strong><span style="font-size: 10pt; font-family: Arial">We recognizes the importance of protecting your privacy</span></strong><span style="font-size: 10pt; font-family: Arial"> and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">What Information Do We Collect?</span></strong><strong><span style="font-size: 10pt; font-family: Arial"><br>
+</span></strong><span style="font-size: 10pt; font-family: Arial">When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">1. Personal Information You Choose to Provide </span></strong></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Registration Information</span></strong><br>
+<span style="font-size: 10pt; font-family: Arial">When you register for any of our products, services or newsletters you will provide us information about yourself. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Credit Card Information</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:<br>
+-Name<br>
+-Mailing address<br>
+-Email address<br>
+-Credit card number </span></p>
+<p><span style="font-size: 10pt; font-family: Arial">-Name on credit card </span></p>
+<p><span style="font-size: 10pt; font-family: Arial">-Credit card billing address<br>
+-Business and home phone number </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Email Information</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial"><br>
+<strong>2. Web Site Use Information</strong><br>
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">How Do We Use the Information That You Provide to Us? </span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial">Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, </span><span style="font-size: 10pt; font-family: Arial">, </span><span style="font-size: 10pt; font-family: Arial">to monitor the use of the service, </span><span style="font-size: 10pt; font-family: Arial">our marketing and promotional efforts</span><span style="font-size: 10pt; font-family: Arial"> and </span><span style="font-size: 10pt; font-family: Arial">improve our content and service offerings, and customize our site’s content, layout, services</span><span style="font-size: 10pt; font-family: Arial"> and for other lawful purposes.</span><span style="font-size: 10pt; font-family: Arial"> These uses improve our site and better tailor it to meet your needs. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial">Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial">Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.</span></p>
+<p></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">What Are Cookies?</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. </span><strong><span style="font-size: 10pt; font-family: Arial">A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. </span></strong></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">How Do We Use Information We Collect from Cookies?</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">IP Addresses</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Sharing and Selling Information</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+We <strong>do not</strong> share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">How Can You Access and Correct Your Information?</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">What About Legally Compelled Disclosure of Information?<br>
+</span></strong><span style="font-size: 10pt; font-family: Arial">We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.</span><span style="font-size: 10pt; font-family: Arial"> We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">What About Other Web Sites Linked to Our Web Site?</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.</span></p>
+<p></p>
+<p><span style="font-size: 10pt; font-family: Arial">Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Your Consent</span></strong><span style="font-size: 10pt; font-family: Arial"><br>
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. </span></p>
+<p><em><strong><span style="font-size: 10pt; font-style: normal; font-family: Arial">Our Commitment To Data Security:</span></strong></em><span style="font-size: 10pt; font-family: Arial"></span></p>
+<p><span style="font-size: 10pt; font-family: Arial">Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. </span><span style="font-size: 10pt; font-family: Arial">To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Choice/Opt-In/Opt-Out<br>
+</span></strong><span style="font-size: 10pt; font-family: Arial">This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.<span></span> </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial"></span></strong></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Surveys &amp; Contests </span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial">From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">A Special Note About Children </span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial">Children are not eligible to use our services </span><span style="font-size: 10pt; font-family: Arial">unsupervised and we ask that children </span><span style="font-size: 10pt; font-family: Arial">(under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. </span></p>
+<p><span style="font-size: 10pt; color: red; font-family: Arial"></span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Acquisition or Changes in Ownership</span></strong><span style="font-size: 10pt; font-family: Arial"></span></p>
+<p><span style="font-size: 10pt; font-family: Arial">In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. </span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial">Policy Modifications<br>
+</span></strong><span style="font-size: 10pt; font-family: Arial">We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.</span></p>
+ </div>
+ <a href="http://www.blueverse.com/feed/"><img src="http://www.blueverse.com/wp-content/themes/wp_Blueverse/images/rss.gif" alt=""> </a>                              
+</div>
+<div class="clearer"></div>
+  
+<!-- Start Nav -->
+		<div class="navigation">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+<!-- End Nav -->
+
+   </td>
+   <td class="rightbar"><div class="sponsors">
+ <h2>Sponsors</h2><h3><a href="http://www.blueverse.com/advertise/">Advertise</a></h3>
+ <div class="widget">
+
+
+ </div>
+</div>
+<div class="oio-zone-position" style="width:255px; height:515px;">
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:0px; left:0px;">
+<a href="http://www.blueverse.com/wp-content/plugins/bvads/modules/tracker/go.php?id=71" onmouseover="window.status='http://www.cirtexhosting.com/affiliates/idevaffiliate.php?id=1686'; return true;"><img class="oio-img-position" alt="" src="http://www.cirtexhosting.com/affiliates/banners/cirtex_125_125_03_01_grn.gif" style="width:125px; height:125px;"></a>
+</div>
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:0px; left:130px;">
+<a href="http://www.skinpress.com/"><img src="http://www.skinpress.com/thumbs/125x125.png" alt="Free Wordpress Themes" border="0"></a></div>
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:130px; left:0px;">
+<a href="http://www.blueverse.com/wp-content/plugins/bvads/modules/tracker/go.php?id=69" onmouseover="window.status='http://www.infectedbybugs.com/blueverse/'; return true;"><img class="oio-img-position" alt="" src="http://infectedbybugs.com/photos/d/43-1/125-1+copy.jpg" style="width:125px; height:125px;"></a>
+</div>
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:130px; left:130px;">
+<script type="text/javascript">
+adsflip_acc_id = 'adsflip-i1861';
+adsflip_width = 125;
+adsflip_height = 125;
+adsflip_display = 'text_image';
+/* Tag: 125x125 */
+adsflip_tag = '1734';
+adsflip_col_border = 'B5B5B5';
+adsflip_col_bg = 'F9F9F9';
+adsflip_col_title = '0043A8';
+adsflip_col_text = '2D2D2D';
+adsflip_col_url = '008000';
+</script>
+<script type="text/javascript" src="http://jsad1.adsflip.com/ads_out.js"></script></div>
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:260px; left:0px;">
+<a href="http://www.blueverse.com/wp-content/plugins/bvads/modules/tracker/go.php?id=68" onmouseover="window.status='http://www.thousanddollarprofits.com/118370'; return true;"><img class="oio-img-position" alt="" src="http://banners.grnbizbuilder.com/v1_125x125.jpg" style="width:125px; height:125px;"></a>
+</div>
+<div class="oio-img-border" style="width:125px; height:125px; position:absolute; top:260px; left:130px;">
+<a href="http://www.blueverse.com/wp-content/plugins/bvads/modules/tracker/go.php?id=67" onmouseover="window.status='http://www.zangocash.com/?ref_id=21439'; return true;"><img class="oio-img-position" alt="" src="https://www.zangocash.com/images/banners/125%20x%20125/zangocash_125x125_2.gif" style="width:125px; height:125px;"></a>
+</div>
+<div id="vba-1-1" class="oio-img-border" style="width:125px; height:125px; line-height:125px; position:absolute; top:390px; left:0px;">
+<a rel="nofollow" href="http://www.blueverse.com/wp-content/plugins/bvads/purchase.php?do=banner&amp;zone=1"><b>Advertise Here</b></a>
+</div>
+<div id="vba-1-2" class="oio-img-border" style="width:125px; height:125px; line-height:125px; position:absolute; top:390px; left:130px;">
+<a rel="nofollow" href="http://www.blueverse.com/wp-content/plugins/bvads/purchase.php?do=banner&amp;zone=1"><b>Advertise Here</b></a>
+</div>
+</div>
+<h2>Categories</h2>		<ul>
+			<li class="cat-item cat-item-7"><a href="http://www.blueverse.com/category/blogging/" title="Blogging tips and my own daily blogging, rants..etc">Blogging</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.blueverse.com/category/free-wordpress-themes/" title="Free Wordpress Themes that i develop in my free time available for free download here.">Free Wordpress Themes</a>
+</li>
+	<li class="cat-item cat-item-503"><a href="http://www.blueverse.com/category/make-money-blogging-2/" title="View all posts filed under Make Money Blogging">Make Money Blogging</a>
+</li>
+	<li class="cat-item cat-item-228"><a href="http://www.blueverse.com/category/make-money-online-2/" title="Make money online related Articles and Tutorials, this can help you earn better online.">Make Money Online</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.blueverse.com/category/marketing/" title="Online marketing and articles related to online marketing, tips to help you.">Marketing</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.blueverse.com/category/news/" title="Daily news and updates on blueverse.">News</a>
+</li>
+	<li class="cat-item cat-item-294"><a href="http://www.blueverse.com/category/reviews/" title="View all posts filed under Reviews">Reviews</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.blueverse.com/category/seo/" title="Search Engine Optimization, articles and news related to search engine optimization.">SEO</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://www.blueverse.com/category/webmaster/" title="Webmaster articles, tips and tricks on how to be a better webmaster as well as general articles on webmasters.">Webmaster</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.blueverse.com/category/webware/" title="News and reviews on webware (sites) around the net that i find interesting.">Webware</a>
+</li>
+		</ul>
+					<h2>Recent Posts</h2>			<ul>
+						<li><a href="http://www.blueverse.com/2008/06/15/better-blogging-why-you-should-mix-it-up-once-in-a-while/">Better Blogging - Why you should mix it up once in a while </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/14/2-free-premium-wordpress-themes/">2 Free Premium Wordpress Themes! </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/13/revamping-old-wordpress-themes-release-sphinx-wordpress-theme/">Revamping Old Wordpress Themes &amp; Release : Sphinx Wordpress Theme </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/13/the-free-wallpapers-collection-by-blueverse/">The Free Wallpapers Collection by Blueverse </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/12/zenphoto-wowed-me/">Zenphoto wowed’ me! </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/11/the-3-cs-of-blogging/">The 3 C’s of blogging. </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/09/being-nice-to-people-with-resources/">Being nice to people with resources. </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/08/ramblings-updates-and-more-8-may-08/">Ramblings, Updates and more - 8 May 08 </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/07/wordpress-themes-collection-june-7th-08/">Wordpress Themes Collection - June 7th 08 </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/06/improve-usability-of-your-website/">Improve Usability of Your Website </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/06/generating-web-traffic-part-2/">Generating Web Traffic - Part 2 </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/06/generating-web-traffic-part-1/">Generating Web Traffic - Part 1 </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/05/why-publish-an-ezine/">Why Publish an eZine? </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/04/advertise-your-ass-off-to-make-more-money/">Advertise your ass off to make more money </a></li>
+						<li><a href="http://www.blueverse.com/2008/06/03/making-money-with-articles-niche-websites/">Making Money with Articles: Niche Websites </a></li>
+						</ul>
+		<h2>Tags</h2><a href="http://www.blueverse.com/tag/adsense/" class="tag-link-3" title="12 topics" rel="tag" style="font-size: 9.09803921569pt;">Adsense</a>
+<a href="http://www.blueverse.com/tag/advertising/" class="tag-link-26" title="10 topics" rel="tag" style="font-size: 8.82352941176pt;">advertising</a>
+<a href="http://www.blueverse.com/tag/better-blogging/" class="tag-link-240" title="30 topics" rel="tag" style="font-size: 11.568627451pt;">Better&nbsp;Blogging</a>
+<a href="http://www.blueverse.com/tag/bloggers/" class="tag-link-279" title="13 topics" rel="tag" style="font-size: 9.23529411765pt;">Bloggers</a>
+<a href="http://www.blueverse.com/tag/blogging/" class="tag-link-7" title="106 topics" rel="tag" style="font-size: 22pt;">Blogging</a>
+<a href="http://www.blueverse.com/tag/blogging-tips/" class="tag-link-217" title="18 topics" rel="tag" style="font-size: 9.92156862745pt;">Blogging&nbsp;Tips</a>
+<a href="http://www.blueverse.com/tag/blog-income-report/" class="tag-link-389" title="6 topics" rel="tag" style="font-size: 8.27450980392pt;">Blog&nbsp;Income&nbsp;Report</a>
+<a href="http://www.blueverse.com/tag/blogs/" class="tag-link-27" title="9 topics" rel="tag" style="font-size: 8.6862745098pt;">blogs</a>
+<a href="http://www.blueverse.com/tag/content/" class="tag-link-342" title="17 topics" rel="tag" style="font-size: 9.78431372549pt;">Content</a>
+<a href="http://www.blueverse.com/tag/copywriting/" class="tag-link-320" title="11 topics" rel="tag" style="font-size: 8.96078431373pt;">Copywriting</a>
+<a href="http://www.blueverse.com/tag/design/" class="tag-link-230" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">Design</a>
+<a href="http://www.blueverse.com/tag/development/" class="tag-link-28" title="9 topics" rel="tag" style="font-size: 8.6862745098pt;">development</a>
+<a href="http://www.blueverse.com/tag/freelancing/" class="tag-link-210" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">Freelancing</a>
+<a href="http://www.blueverse.com/tag/free-wordpress-themes/" class="tag-link-9" title="6 topics" rel="tag" style="font-size: 8.27450980392pt;">Free&nbsp;Wordpress&nbsp;Themes</a>
+<a href="http://www.blueverse.com/tag/google/" class="tag-link-11" title="28 topics" rel="tag" style="font-size: 11.2941176471pt;">Google</a>
+<a href="http://www.blueverse.com/tag/life/" class="tag-link-38" title="6 topics" rel="tag" style="font-size: 8.27450980392pt;">life</a>
+<a href="http://www.blueverse.com/tag/link-building/" class="tag-link-190" title="13 topics" rel="tag" style="font-size: 9.23529411765pt;">link&nbsp;building</a>
+<a href="http://www.blueverse.com/tag/link-development/" class="tag-link-191" title="4 topics" rel="tag" style="font-size: 8pt;">Link&nbsp;Development</a>
+<a href="http://www.blueverse.com/tag/make-money-blogging/" class="tag-link-384" title="17 topics" rel="tag" style="font-size: 9.78431372549pt;">Make&nbsp;Money&nbsp;Blogging</a>
+<a href="http://www.blueverse.com/tag/make-money-online/" class="tag-link-13" title="33 topics" rel="tag" style="font-size: 11.9803921569pt;">Make&nbsp;Money&nbsp;Online</a>
+<a href="http://www.blueverse.com/tag/marketing/" class="tag-link-14" title="32 topics" rel="tag" style="font-size: 11.8431372549pt;">Marketing</a>
+<a href="http://www.blueverse.com/tag/mfa/" class="tag-link-69" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">mfa</a>
+<a href="http://www.blueverse.com/tag/monetization/" class="tag-link-449" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">Monetization</a>
+<a href="http://www.blueverse.com/tag/news/" class="tag-link-17" title="11 topics" rel="tag" style="font-size: 8.96078431373pt;">News</a>
+<a href="http://www.blueverse.com/tag/pagerank/" class="tag-link-65" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">pagerank</a>
+<a href="http://www.blueverse.com/tag/ppc/" class="tag-link-18" title="12 topics" rel="tag" style="font-size: 9.09803921569pt;">PPC</a>
+<a href="http://www.blueverse.com/tag/ppc-programs/" class="tag-link-43" title="6 topics" rel="tag" style="font-size: 8.27450980392pt;">ppc&nbsp;programs</a>
+<a href="http://www.blueverse.com/tag/ramblings/" class="tag-link-379" title="6 topics" rel="tag" style="font-size: 8.27450980392pt;">Ramblings</a>
+<a href="http://www.blueverse.com/tag/rss-subscribers/" class="tag-link-234" title="4 topics" rel="tag" style="font-size: 8pt;">RSS&nbsp;Subscribers</a>
+<a href="http://www.blueverse.com/tag/seo/" class="tag-link-19" title="46 topics" rel="tag" style="font-size: 13.7647058824pt;">SEO</a>
+<a href="http://www.blueverse.com/tag/seo-tips/" class="tag-link-206" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">seo&nbsp;tips</a>
+<a href="http://www.blueverse.com/tag/seo-tools/" class="tag-link-20" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">SEO&nbsp;Tools</a>
+<a href="http://www.blueverse.com/tag/serps/" class="tag-link-41" title="28 topics" rel="tag" style="font-size: 11.2941176471pt;">serps</a>
+<a href="http://www.blueverse.com/tag/shoemoney/" class="tag-link-114" title="4 topics" rel="tag" style="font-size: 8pt;">shoemoney</a>
+<a href="http://www.blueverse.com/tag/stats/" class="tag-link-193" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">stats</a>
+<a href="http://www.blueverse.com/tag/tech/" class="tag-link-61" title="8 topics" rel="tag" style="font-size: 8.54901960784pt;">tech</a>
+<a href="http://www.blueverse.com/tag/technology/" class="tag-link-59" title="7 topics" rel="tag" style="font-size: 8.41176470588pt;">Technology</a>
+<a href="http://www.blueverse.com/tag/traffic/" class="tag-link-76" title="15 topics" rel="tag" style="font-size: 9.50980392157pt;">traffic</a>
+<a href="http://www.blueverse.com/tag/trends/" class="tag-link-163" title="14 topics" rel="tag" style="font-size: 9.37254901961pt;">Trends</a>
+<a href="http://www.blueverse.com/tag/updates/" class="tag-link-68" title="11 topics" rel="tag" style="font-size: 8.96078431373pt;">updates</a>
+<a href="http://www.blueverse.com/tag/webmaster/" class="tag-link-75" title="24 topics" rel="tag" style="font-size: 10.7450980392pt;">Webmaster</a>
+<a href="http://www.blueverse.com/tag/webmasters/" class="tag-link-258" title="5 topics" rel="tag" style="font-size: 8.13725490196pt;">Webmasters</a>
+<a href="http://www.blueverse.com/tag/webware/" class="tag-link-23" title="22 topics" rel="tag" style="font-size: 10.4705882353pt;">Webware</a>
+<a href="http://www.blueverse.com/tag/wordpress/" class="tag-link-24" title="13 topics" rel="tag" style="font-size: 9.23529411765pt;">Wordpress</a>
+<a href="http://www.blueverse.com/tag/wordpress-themes/" class="tag-link-66" title="10 topics" rel="tag" style="font-size: 8.82352941176pt;">wordpress&nbsp;themes</a><h2>Blogroll</h2>
+	<ul>
+<li><a href="http://www.fkpexceeder.com" rel="friend crush date sweetheart">Ange*</a></li>
+<li><a href="http://blogbadly.com">Blogging Tips and Tricks</a></li>
+<li><a href="http://www.copyblogger.com">Copyblogger</a></li>
+<li><a href="http://www.cssfedd.com">CSS Gallery</a></li>
+<li><a href="http://www.hostv.com/">HostV - VPS Hosting</a></li>
+<li><a href="http://www.joocbox.com">Joocbox</a></li>
+<li><a href="http://natewhitehill.com">Nate Whitehill</a></li>
+<li><a href="http://www.problogger.net">Problogger</a></li>
+<li><a href="http://www.infectedbybugs.com">Traffic Marketing</a></li>
+<li><a href="http://www.elegant-templates.com/">Website Templates</a></li>
+
+	</ul>
+
+</td>
+  </tr>
+ </tbody></table>
+ </div>
+ <div id="footer">
+ <div style="float:right"><a href="http://www.blueverse.com/contact/">Contact</a><br>
+</div>
+ Blueverse - Copyright 2006-2009 <br>
+All rights reserved
+ </div>
+
+
+</body></html>
