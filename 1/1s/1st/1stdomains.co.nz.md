@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217171025id_/http%3A//www.1stdomains.co.nz/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616082524id_/http%3A//www.1stdomains.co.nz/info/privacy_policy.php) for the most accurate reproduction.*
 
 # 1st Domains: Privacy Policy
 
