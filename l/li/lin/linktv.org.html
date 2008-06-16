@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the linktv.org privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223172006id_/http%3A//www.linktv.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linktv.org privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616214235id_/http%3A//www.linktv.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<!-- no cache headers -->
 	<meta http-equiv="Pragma" content="no-cache">
-	<meta http-equiv="Expires" content="Saturday 22nd of December 2007 09:20:15 AM">
+	<meta http-equiv="Expires" content="Sunday 15th of June 2008 02:42:35 PM">
 	<meta http-equiv="Cache-Control" content="no-cache">
 	<!-- end no cache headers -->
 	
@@ -19,61 +19,65 @@
 	</script>
 	<script type="text/javascript" src="/js/fsmenu.js"></script>
 	<script type="text/javascript" src="/js/embed.js"></script>
-	<script type="text/javascript" src="/js/ufo.js"></script>
+	<script type="text/javascript" src="/js/swfobject20.js"></script>
 	<script type="text/javascript" src="/js/supernote.js"></script>
 	<script type="text/javascript" src="/js/slimbox.ex2.js"></script>
-	<script type="text/javascript" src="/js/qtobject.js"></script><!-- moved from videoplayer widget -->
-	<script type="text/javascript" src="/js/functions.v1.2.js"></script>
+	<script type="text/javascript" src="/js/qtobject.js"></script>
+	<script type="text/javascript" src="/js/functions.v1.3.js"></script>
 
 	<link href="/templates/css/globalstyles.css" rel="stylesheet" type="text/css">
 	<link href="/templates/css/printstyles.css" rel="stylesheet" type="text/css" media="print">
+	
 	<link href="/templates/css/slimbox.css" rel="stylesheet" type="text/css" id="SlimboxCss">
+	
 	<link href="/templates/css/template_default.css" rel="stylesheet" type="text/css">	
 	
 		
-	<!-- global nav menus -->
-	<script type="text/javascript">
-		var listMenu = new FSMenu('listMenu', true, 'display', 'block', 'none');
-		//listMenu.animations[listMenu.animations.length] = FSMenu.animClipDown;
-		listMenu.switchDelay = 0;
-		listMenu.hideDelay = 50;
+			
+		<!-- global nav menus -->
+		<script type="text/javascript">
+			var listMenu = new FSMenu('listMenu', true, 'display', 'block', 'none');
+			listMenu.switchDelay = 0;
+			listMenu.hideDelay = 50;
 
-		var arrow = null;
+			var arrow = null;
+
+			// add to global 'domready' function list
+			function activateListMenu() { listMenu.activateMenu("listMenuRoot", arrow); }
+			domready_functions.push(activateListMenu);
+		</script>
+		<!-- end global nav menus -->
 		
-		// add to global 'domready' function list
-		function activateListMenu() { listMenu.activateMenu("listMenuRoot", arrow); }
-		domready_functions.push(activateListMenu);
-	</script>
-	<!-- end global nav menus -->
-	
-	<!-- holiday card promo overlay -->
-			<script type="text/javascript">
-			// card donation campaign pop-up
-			var popCardDelay = false;
-			function popCardOverlay() {
-				if(!popCardDelay) {
-					popCardDelay = true;
+		<!-- splash promo overlay -->
+		<script type="text/javascript">
+			var splashDelay = false;
+			var showSplashPromo = function() {
+				if(!splashDelay) {
+					splashDelay = true;
 					// do initial delay: 1 second
-					setTimeout("popCardOverlay()", 1000);
+					setTimeout("showSplashPromo()", 1000);
 				} else {
 					if(Lightbox.inited == undefined) {
-						// not ready, run again in 1 second
-						setTimeout("popCardOverlay()", 1000);
+						// not ready, run again in 1/2 second
+						setTimeout("showSplashPromo()", 500);
 					} else {
-						if(Cookie.get('cardPop') != 'popped') {
-							var popHTML = '<a href="/contribute" target="_top"><img src="/sitecontent/splashes/ecardsplash3.jpg" border="0" alt="Support your connection to the world by contributing to Link TV!" /></a>';
-							Lightbox.showHTML(popHTML, 600, 350);	// content, w, h
+						if(Cookie.get('splashPop') != 'popped') {
+							//var rand=Math.floor(Math.random()*2)+1;		// number btw 1-2
+							var splashHTML = '<a href="/contribute" target="_top"><img src="/sitecontent/splashes/pledge_20080520.jpg" border="0" alt="Support Link TV" /></a>';
+							Lightbox.showHTML(splashHTML, 600, 350);	// content, w, h
 							// set cookie
-							Cookie.set('cardPop', 'popped', {path:'/', duration:2});	// 2 days
+							Cookie.set('splashPop', 'popped', {path:'/', duration:1});	// 1 days
 						}
 					}
 				}
 			}
 			// run after all assets are loaded
-			window.addEvent('load', function(){ popCardOverlay(); });
+			window.addEvent('load', showSplashPromo);
+				
 		</script>
-		<!-- end holiday card promo overlay -->
-	
+		<!-- END splash promo overlay -->
+		
+		
 	<script type="text/javascript">
 		// run 'domready' functions from includes (MooTools)
 		window.addEvent('domready', function(){
@@ -128,12 +132,13 @@
 			</div>
 			<!-- start menus -->
 		
-			<ul class="menulist" id="listMenuRoot"><li><a href="/about">About Link TV</a><ul id="listMenu-id-1"><li><a href="/help">Help/FAQ</a><ul id="listMenu-id-2"><li><a href="/help/donations">Donations</a></li><li><a href="/help/getinvolved">Get Involved</a></li><li><a href="/help/programs">Programs</a></li><li><a href="/help/reception">Reception</a></li><li><a href="/help/worldmusic">World Music</a></li></ul></li><li><a href="/contactus">Contact Us</a></li><li><a href="/whoweare">Who We Are</a><ul id="listMenu-id-3"><li><a href="/whoweare/mission">Mission</a></li><li><a href="/whoweare/history">History</a></li><li><a href="/whoweare/funders">Funders</a></li><li><a href="/whoweare/people">People</a></li></ul></li><li><a href="/reception">How to Get Link TV</a><ul id="listMenu-id-4"><li><a href="/reception/directschools">DirecTV School Choice</a></li></ul></li><li><a href="/viewerstories">Viewer Stories</a></li><li><a href="/partners">Partners</a></li><li><a href="/press">Press</a><ul id="listMenu-id-5"><li><a href="/press/pressreleases">Press Releases</a></li></ul></li><li><a href="/web">Link on the Web</a></li></ul></li><li><a href="/programming">Programming</a><ul id="listMenu-id-6"><li><a href="/documentaries">Documentaries</a></li><li><a href="/currentaffairs">News/Current Affairs</a></li><li><a href="/worldmusic">World Music</a><ul id="listMenu-id-7"><li><a href="/musicvideos">World Music Videos</a></li><li><a href="/worldmusic/about">About World Music</a></li><li><a href="/worldmusic/videoblocks">Video Blocks on TV</a></li><li><a href="/musicspecials">Specials</a></li></ul></li><li><a href="/cinemondo">World Cinema: Cinemondo</a><ul id="listMenu-id-8"><li><a href="/cinemondo/about">About Cinemondo</a></li><li><a href="/cinespecials">Specials</a></li></ul></li><li><a href="/schedule">Schedule</a><ul id="listMenu-id-9"><li><a href="/schedule/daily">Daily Schedule</a></li></ul></li><li><a href="/programming/browse">Browse Programs</a></li><li><a href="/podcasts">RSS Feeds &amp; Podcasts</a><ul id="listMenu-id-10"><li><a href="/embeddedplayers">Embedded Players</a></li><li><a href="/podcasts/about">About RSS Feeds</a></li><li><a href="/miro">Miro</a></li></ul></li><li><a href="/specials">Link TV Specials</a></li></ul></li><li><a href="/getinvolved">Get Involved</a><ul class="goleft" id="listMenu-id-11"><li><a href="/community">Community</a><ul class="goleft" id="listMenu-id-12"><li><a href="/discussions">Discussions</a></li><li><a href="/community/join">Join the Community</a></li><li><a href="/community/enewsletters">eNewsletters</a></li><li><a href="/community/standards">Standards</a></li><li><a href="/privacy">Privacy</a></li></ul></li><li><a href="/whatyoucando">What You Can Do</a><ul class="goleft" id="listMenu-id-13"><li><a href="/whatyoucando/frontlines">Stories from the Frontlines</a></li><li><a href="/whatyoucando/activists">Activist Profiles</a></li><li><a href="/whatyoucando/alerts">Alerts</a></li><li><a href="/whatyoucando/viewers">Our Viewers / Our Heroes</a></li><li><a href="/whatyoucando/shop">Shop Smart</a></li></ul></li><li><a href="/contribute">Support Link TV</a></li><li><a href="/onenation">One Nation</a><ul class="goleft" id="listMenu-id-14"><li><a href="/onenation/films">Films</a></li><li><a href="/onenation/filmmakers">Filmmakers</a><ul class="goleft" id="listMenu-id-15"><li><a href="/onenation/filmmakers/register">Filmmaker Registration</a></li><li><a href="/onenation/filmmakers/submit">Submit a Film</a></li></ul></li><li><a href="/onenation/about">About the Contest</a><ul class="goleft" id="listMenu-id-16"><li><a href="/onenation/about/judges">Contest Judges</a></li><li><a href="/onenation/about/timeline">Contest Timeline</a></li><li><a href="/onenation/about/rules">Rules and Regulations</a></li><li><a href="/onenation/about/faq">FAQ</a></li></ul></li><li><a href="/onenation/getstarted">Get Started</a><ul class="goleft" id="listMenu-id-17"><li><a href="/onenation/getstarted/downloads">Downloads</a></li><li><a href="/onenation/getstarted/releaseforms">Release Forms</a></li><li><a href="/onenation/getstarted/toolkit">Director's Toolkit</a></li></ul></li><li><a href="/onenation/contact">Contact Information</a></li></ul></li></ul></li><li><a href="/originalseries">Original Series</a><ul class="goleft" id="listMenu-id-18"><li><a href="/experience">Experience Link TV</a></li><li><a href="/mosaic">Mosaic</a><ul class="goleft" id="listMenu-id-19"><li><a href="/mosaic/watchmosaic">Watch Mosaic</a></li><li><a href="/mosaic/broadcasters">Mosaic Broadcasters</a><ul class="goleft" id="listMenu-id-20"><li><a href="/mosaic/broadcasters/algeria">Algeria</a></li><li><a href="/mosaic/broadcasters/egypt">Egypt</a></li><li><a href="/mosaic/broadcasters/iran">Iran</a></li><li><a href="/mosaic/broadcasters/saudiarabia">Saudi Arabia</a></li><li><a href="/mosaic/broadcasters/iraq">Iraq</a></li><li><a href="/mosaic/broadcasters/israel">Israel</a></li><li><a href="/mosaic/broadcasters/jordan">Jordan</a></li><li><a href="/mosaic/broadcasters/lebanon">Lebanon</a></li><li><a href="/mosaic/broadcasters/morocco">Morocco</a></li><li><a href="/mosaic/broadcasters/palestine">Palestinian National Authority</a></li><li><a href="/mosaic/broadcasters/qatar">Qatar</a></li><li><a href="/mosaic/broadcasters/sudan">Sudan</a></li><li><a href="/mosaic/broadcasters/syria">Syria</a></li><li><a href="/mosaic/broadcasters/yemen">Yemen</a></li><li><a href="/mosaic/broadcasters/abudhabi">Abu Dhabi</a></li><li><a href="/mosaic/broadcasters/dubai">Dubai</a></li><li><a href="/mosaic/broadcasters/print">Middle Eastern Print Media</a></li></ul></li><li><a href="/mosaic/about">About Mosaic</a><ul class="goleft" id="listMenu-id-21"><li><a href="/mosaic/about/press">Press Freedom</a></li><li><a href="/mosaic/about/humanrights">Human Rights</a></li></ul></li><li><a href="/mosaic/mir">Intelligence Report</a></li><li><a href="/mosaic/specialreports">Mosaic Special Reports</a></li><li><a href="/supportmosaic">Support Mosaic</a></li><li><a href="/mosaic/mosaicclub">Mosaic Club</a></li><li><a href="/mosaic/links">Partners &amp; Links</a></li><li><a href="/mosaic/enewsletters">eNewsletters</a></li></ul></li><li><a href="/globalpulse">Global Pulse</a><ul class="goleft" id="listMenu-id-22"><li><a href="/globalpulse/broadcasters">Countries/Broadcasters</a></li></ul></li><li><a href="/latinpulse">Latin Pulse/Pulso Latino</a><ul class="goleft" id="listMenu-id-23"><li><a href="/latinpulse/broadcasters">Countries/Broadcasters</a></li><li><a href="/latinpulse/host">About the Host</a></li></ul></li><li><a href="/explore">Explore</a><ul class="goleft" id="listMenu-id-24"><li><a href="/explore/india">India</a></li><li><a href="/explore/china">China</a></li><li><a href="/explore/middleeast">Middle East</a></li><li><a href="/explore/bali">Bali</a></li><li><a href="/explore/africa">Africa</a></li><li><a href="/explore/costarica">Costa Rica</a></li><li><a href="/explore/neworleans">New Orleans</a></li><li><a href="/explore/losangeles">Los Angeles</a></li><li><a href="/explore/pacificnorthwest">Pacific Northwest</a></li><li><a href="/explore_specials">Explore: Specials</a></li></ul></li><li><a href="/outsourcing">The Outsourcing Report</a></li><li><a href="/earthfocus">Earth Focus</a></li></ul></li></ul>			
+			<ul class="menulist" id="listMenuRoot"><li><a href="/about">About Link TV</a><ul id="listMenu-id-1"><li><a href="/help">Help/FAQ</a><ul id="listMenu-id-2"><li><a href="/help/donations">Donations</a></li><li><a href="/help/getinvolved">Get Involved</a></li><li><a href="/help/programs">Programs</a></li><li><a href="/help/reception">Reception</a></li><li><a href="/help/worldmusic">World Music</a></li></ul></li><li><a href="/contactus">Contact Us</a></li><li><a href="/whoweare">Who We Are</a><ul id="listMenu-id-3"><li><a href="/whoweare/mission">Mission</a></li><li><a href="/whoweare/history">History</a></li><li><a href="/whoweare/funders">Funders</a></li><li><a href="/whoweare/staff">Staff</a></li><li><a href="/whoweare/board">Board and Advisors</a></li></ul></li><li><a href="/reception">How to Get Link TV</a><ul id="listMenu-id-4"><li><a href="/reception/directschools">DirecTV School Choice</a></li></ul></li><li><a href="/viewerstories">Viewer Stories</a></li><li><a href="/partners">Partners</a></li><li><a href="/press">Press</a><ul id="listMenu-id-5"><li><a href="/press/pressreleases">Press Releases</a></li></ul></li><li><a href="/web">Using Link on the Web</a></li></ul></li><li><a href="/programming">Programming</a><ul id="listMenu-id-6"><li><a href="/documentaries">Documentaries</a></li><li><a href="/currentaffairs">News/Current Affairs</a></li><li><a href="/worldmusic">World Music</a><ul id="listMenu-id-7"><li><a href="/musicvideos">World Music Videos</a></li><li><a href="/worldmusic/about">About World Music</a></li><li><a href="/worldmusic/videoblocks">Video Blocks on TV</a></li><li><a href="/musicspecials">Specials</a></li></ul></li><li><a href="/cinemondo">World Cinema: Cinemondo</a><ul id="listMenu-id-8"><li><a href="/cinemondo/about">About Cinemondo</a></li><li><a href="/cinemondo3">New Season</a></li><li><a href="/cinemondo/dvds">Buy Cinemondo DVDs</a></li><li><a href="/cinemondovideos">Watch Clips &amp; Interviews</a></li></ul></li><li><a href="/schedule">Schedule</a><ul id="listMenu-id-9"><li><a href="/schedule/daily">Daily Schedule</a></li></ul></li><li><a href="/programming/browse">Browse Programs</a></li><li><a href="/podcasts">RSS, Podcasts &amp; Players</a><ul id="listMenu-id-10"><li><a href="/embeddedplayers">Embedded Players</a></li><li><a href="/podcasts/about">About RSS Feeds</a></li><li><a href="/miro">Miro</a></li><li><a href="/mediamelon">MediaMelon</a></li></ul></li><li><a href="/specials">Link TV Specials</a></li></ul></li><li><a href="/getinvolved">Get Involved</a><ul class="goleft" id="listMenu-id-11"><li><a href="/community">Community</a><ul class="goleft" id="listMenu-id-12"><li><a href="/discussions">Discussions</a></li><li><a href="/community/join">Join the Community</a></li><li><a href="/community/enewsletters">eNewsletters</a></li><li><a href="/community/standards">Standards</a></li><li><a href="/privacy">Privacy</a></li></ul></li><li><a href="/whatyoucando">What You Can Do</a><ul class="goleft" id="listMenu-id-13"><li><a href="/whatyoucando/frontlines">Stories from the Frontlines</a></li><li><a href="/whatyoucando/activists">Activist Profiles</a></li><li><a href="/whatyoucando/alerts">Alerts</a></li><li><a href="/whatyoucando/viewers">Our Viewers / Our Heroes</a></li><li><a href="/whatyoucando/shop">Shop Smart</a></li></ul></li><li><a href="/contribute">Support Link TV</a></li><li><a href="/onenation">One Nation</a><ul class="goleft" id="listMenu-id-14"><li><a href="/onenation/films">Films</a><ul class="goleft" id="listMenu-id-15"><li><a href="/onenation/films/finalists">Finalists</a></li></ul></li><li><a href="/onenation/filmmakers">Filmmakers</a></li><li><a href="/onenation/about">About the Contest</a><ul class="goleft" id="listMenu-id-16"><li><a href="/onenation/about/judges">Contest Judges</a></li><li><a href="/onenation/about/timeline">Contest Timeline</a></li><li><a href="/onenation/about/rules">Rules and Regulations</a></li><li><a href="/onenation/about/faq">FAQ</a></li></ul></li><li><a href="/onenation/getstarted">Get Started</a></li><li><a href="/onenation/contact">Contact Information</a></li><li><a href="/onenation/winners">Winners</a></li></ul></li><li><a href="/dearamericanvoter">Dear American Voter</a><ul class="goleft" id="listMenu-id-17"><li><a href="/dearamericanvoter/videos">Videos</a></li><li><a href="/dearamericanvoter/post">Post a Video</a></li></ul></li></ul></li><li><a href="/originalseries">Original Series</a><ul class="goleft" id="listMenu-id-18"><li><a href="/experience">Experience Link TV</a></li><li><a href="/mosaic">Mosaic</a><ul class="goleft" id="listMenu-id-19"><li><a href="/mosaic/watchmosaic">Watch Mosaic</a></li><li><a href="/mosaic/broadcasters">Mosaic Broadcasters</a><ul class="goleft" id="listMenu-id-20"><li><a href="/mosaic/broadcasters/algeria">Algeria</a></li><li><a href="/mosaic/broadcasters/egypt">Egypt</a></li><li><a href="/mosaic/broadcasters/iran">Iran</a></li><li><a href="/mosaic/broadcasters/saudiarabia">Saudi Arabia</a></li><li><a href="/mosaic/broadcasters/iraq">Iraq</a></li><li><a href="/mosaic/broadcasters/israel">Israel</a></li><li><a href="/mosaic/broadcasters/jordan">Jordan</a></li><li><a href="/mosaic/broadcasters/lebanon">Lebanon</a></li><li><a href="/mosaic/broadcasters/morocco">Morocco</a></li><li><a href="/mosaic/broadcasters/palestine">Palestinian National Authority</a></li><li><a href="/mosaic/broadcasters/qatar">Qatar</a></li><li><a href="/mosaic/broadcasters/sudan">Sudan</a></li><li><a href="/mosaic/broadcasters/syria">Syria</a></li><li><a href="/mosaic/broadcasters/yemen">Yemen</a></li><li><a href="/mosaic/broadcasters/abudhabi">Abu Dhabi</a></li><li><a href="/mosaic/broadcasters/dubai">Dubai</a></li><li><a href="/mosaic/broadcasters/print">Middle Eastern Print Media</a></li></ul></li><li><a href="/mosaic/about">About Mosaic</a><ul class="goleft" id="listMenu-id-21"><li><a href="/mosaic/about/press">Press Freedom</a></li><li><a href="/mosaic/about/humanrights">Human Rights</a></li></ul></li><li><a href="/mosaic/mir">Intelligence Report</a></li><li><a href="/mosaic/specialreports">Mosaic Special Reports</a></li><li><a href="/supportmosaic">Support Mosaic</a></li><li><a href="/mosaic/mosaicclub">Mosaic Club</a></li><li><a href="/mosaic/links">Partners &amp; Links</a></li><li><a href="/mosaic/enewsletters">eNewsletters</a></li></ul></li><li><a href="/explore">Explore</a><ul class="goleft" id="listMenu-id-22"><li><a href="/explore_specials">Explore: Specials</a></li><li><a href="/explore/philanthropy">Philanthropy</a></li><li><a href="/explore/aboutexplore">About Explore</a></li></ul></li><li><a href="/globalpulse">Global Pulse</a><ul class="goleft" id="listMenu-id-23"><li><a href="/globalpulse/broadcasters">Countries/Broadcasters</a></li></ul></li><li><a href="/latinpulse">Latin Pulse/Pulso Latino</a><ul class="goleft" id="listMenu-id-24"><li><a href="/latinpulse/broadcasters">Countries/Broadcasters</a></li><li><a href="/latinpulse/host">Meet the Team</a></li></ul></li><li><a href="/outsourcing">The Outsourcing Report</a></li><li><a href="/earthfocus">Earth Focus</a><ul class="goleft" id="listMenu-id-25"><li><a href="/earthfocus/notes">Earth Focus Notes</a></li></ul></li></ul></li></ul>			
 			</div>
 	<div id="supernote-note-showinfo" class="snp-mousetrack pinnable notedefault"></div>
-	<!-- execution time: 0.0314359664917 seconds. -->	
+	<!-- execution time: 0.0320551395416 seconds. -->	
 			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 		<script type="text/javascript">
+			_userv=2;
 			_uacct = "UA-533122-1";
 			urchinTracker();
 		</script>
