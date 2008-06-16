@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shinyshack.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040747id_/http%3A//shinyshack.com/info.php%3Ftopic%3D307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinyshack.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616204225id_/http%3A//www.shinyshack.com/info.php%3Ftopic%3D307) for the most accurate reproduction.*
 
-# Gadgets, Toys and Unusual Gifts from ShinyShack.com : UK
+# Gadgets, Cool Stuff and Unusual Gifts from ShinyShack.com : UK
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
 We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us and we will never pass on the details you supply to anyone else.
 
-If you choose to subscribe to our newsletter, you will receive a maximum of one newsletter per month. You will have the option to unsubscribe at any time, either through your **[account settings](https://web.archive.org/web/20071211040747id_/http%3A//shinyshack.com/account.php "Click to view your account settings")** or by clicking the unsubscribe link at the bottom of the newsletter.
+If you choose to subscribe to our newsletter, you will have the option to unsubscribe at any time, either through your **[account settings](https://web.archive.org/web/20080616204225id_/http%3A//www.shinyshack.com/account.php "Click to view your account settings")** or by clicking the unsubscribe link at the bottom of the newsletter.
 
 The type of information we will collect about you includes your name, address, phone number, email address and credit/debit card details. We will never collect sensitive information about you without your explicit consent. 
 
