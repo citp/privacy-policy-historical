@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cursors-4u.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032232id_/http%3A//www.cursors-4u.com/fatp/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cursors-4u.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034538id_/http%3A//www.cursors-4u.com/fatp/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
