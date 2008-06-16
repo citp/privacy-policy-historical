@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231103702id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616223156id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
 
 # Privacy Policy - Smith Micro Software, Inc.
 
