@@ -1,236 +1,88 @@
-<!--The following is the downloaded HTML source of the expertarticles.com privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216043532id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expertarticles.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616034655id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>ExpertArticles.com | Privacy Policy</title>
 <link rel="alternate" type="application/rss+xml" title="Expert Articles - RSS" href="http://www.expertarticles.com/rss.php">
-<link rel="stylesheet" type="text/css" href="/css/main.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-<meta name="description" content="Privacy Policy">
-<meta name="keywords" content="">
-<link href="http://www.expertarticles.com/favicon.ico" rel="SHORTCUT ICON">
-<script type="text/javascript">
-var siteurl = 'http://www.expertarticles.com/';
-</script>
-
-<script type="text/javascript">
-    /* <![CDATA[ */ 
-	
-function submitart()
-{
-	if (authid != 0) window.location = "/?act=3";
-	else Ext.MessageBox.alert('Information', 'Before submitting articles you must create an author. Click "Add Author" button.');
-}
-	
-var showerr = false;
-	
-	function isdefined( variable)
-		{
-    		return (typeof(window[variable]) == "undefined")?  false: true;
-		}
-		
-	function MoveOut(e,n)
-		{
-			//if (!e) var e = window.event;
-			//var tg = (window.event) ? e.srcElement : e.target;
-			//if (tg.nodeName != 'DIV') return;
-			//var reltg = (e.relatedTarget) ? e.relatedTarget : e.toElement;
-			//while (reltg != tg && reltg.nodeName != 'BODY')
-			//	reltg= reltg.parentNode
-			//if (reltg== tg) return;
-			
-			// Mouseout took place when mouse actually left layer
-			// Handle event
-			SetActiveRate(n);
-		}	
-		
-		function SetActiveRate(num)
-			{				
-				for (i=1;i<=num;i++)
-				{
-				im = window.document.getElementById('i'+i);
-				im.src = '/css/images/star_on.gif';
-				}
-				
-				for (i=num+1;i<=5;i++)
-				{
-				im = window.document.getElementById('i'+i);
-				im.src = '/css/images/star_off.gif';
-				}				
-				if (showerr == false)
-				{
-					document.getElementById("ratetext").innerHTML = (Math.round(xrating*10)/10)+" rating from "+xvoted+" votes.";				
-				}
-			}
-		
-		function Rate(id,num)
-			{
-				sendRequest(siteurl+'rate.php?artid='+id+'&rate='+num,handleRequest);
-			}
-			
-		function showrate()
-			{
-				showerr = false;
-				SetActiveRate(act);
-			}
-
-/**************************************************************************************************/	
-function sendRequest(url,callback,postData) {
-	var req = createXMLHTTPObject();
-	if (!req) return;
-	var method = (postData) ? "POST" : "GET";
-	req.open(method,url,true);
-	req.setRequestHeader('User-Agent','XMLHTTP/1.0');
-	if (postData)
-		req.setRequestHeader('Content-type','application/x-www-form-urlencoded');
-	req.onreadystatechange = function () {
-		if (req.readyState != 4) return;
-		if (req.status != 200 && req.status != 304) {
-//			alert('HTTP error ' + req.status);
-			return;
-		}
-		callback(req);
-	}
-	if (req.readyState == 4) return;
-	req.send(postData);
-}
-
-var XMLHttpFactories = [
-	function () {return new XMLHttpRequest()},
-	function () {return new ActiveXObject("Msxml2.XMLHTTP")},
-	function () {return new ActiveXObject("Msxml3.XMLHTTP")},
-	function () {return new ActiveXObject("Microsoft.XMLHTTP")}
-];
-
-function createXMLHTTPObject() {
-	var xmlhttp = false;
-	for (var i=0;i<XMLHttpFactories.length;i++) {
-		try {
-			xmlhttp = XMLHttpFactories[i]();
-		}
-		catch (e) {
-			continue;
-		}
-		break;
-	}
-	return xmlhttp;
-}
-
-function handleRequest(req) {
-		var returnXML = req.responseXML;
-		if (!returnXML) 
-			{
-				alert(req.responseText);
-				alert("Error. Cannot create XML parser object.");
-				return;
-			}
-//		var speed = parseInt(returnXML.getElementsByTagName('speed')[0].firstChild.nodeValue);			
-			if (returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue == 'OK')
-				{
-					xrating = returnXML.getElementsByTagName('rating')[0].childNodes[0].nodeValue;
-					xvoted	= returnXML.getElementsByTagName('voted')[0].childNodes[0].nodeValue;
-					act = Math.round(xrating);
-					SetActiveRate(act);
-				}
-			else if (returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue == 'VOTED')
-				{
-					document.getElementById("ratetext").innerHTML = "You have already voted.";									
-					showerr = true;
-					setTimeout("showrate();",3000);
-				} else alert(returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue);
-				
-//You have already voted.													
-	//	showadbox();
-	// alert(req.responseXML);
-}
-		
-        //window.onload = function() {AdjustColumnsHeight();}
-    /* ]]> */       
-    </script>
+<link href="/css/newstyle.css" rel="stylesheet" type="text/css">
 <!--[if IE]>
-<style type="text/css"> 
-/* place css fixes for all versions of IE in this conditional comment */
-.thrColElsHdr #sidebar1, .thrColElsHdr #sidebar2 { padding-top: 30px; }
-.thrColElsHdr #mainContent { zoom: 1; padding-top: 15px; }
-/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
-</style>
+<link href="/css/newstyleie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
+<script src="/js/prototype.js" type="text/javascript"></script>
+<script src="/js/main.js" type="text/javascript"></script>
+<script type="text/javascript">
+var siteurl = 'http://www.expertarticles.com/';
+var authid = 0;
+</script>
 </head>
 
-<body class="thrColElsHdr" onload=" if(isdefined('act')) {	SetActiveRate(act);	}">
+  <body onload=" if(isdefined('act')) {	SetActiveRate(act);	}">
+  
+    <div id="content">
+<div class="wrapper">
+        <div id="header">
+            <img id="logo" border="0" alt="expert articles" src="/css/images/logo.gif">    
+            <ul class="top">
+                <li><a class="home " href="/">home</a></li>
+                <li><a class="about " href="/?act=20">about us</a></li>
+                <li><a class="contact " href="/?act=19">contact</a></li>
+            </ul>       
+            <div id="topMenus">  
+            <ul class="nav fleft">
+              <li class=""><a href="/">Home</a></li>
+              <li class=""><a href="/?act=17">Top Articles</a></li>
+              <li class=""><a href="/?act=21">RSS</a></li>
+              <li class=""><a href="/?act=28">Search</a></li>     	
+            </ul>
+            <ul class="nav fright">
+        	        
+              <li><a href="/?act=2">Login</a></li>
+              <li><a href="/?act=9">Register</a></li>
+                          </ul>
+            
+            </div>
+        </div> 
+ </div>   
+<div id="bg">
+<div class="wrapper">    
+    
+    	<div id="contTop">
+        	<div id="categories">
+			<h2>Categories</h2>
+			<ul><li class="first"><a title="5 article(s) in  category" href="/category/Arts-Entertainment/">Arts &amp; Entertainment</a></li><li><a title="5146 article(s) in  category" href="/category/Business/">Business</a></li><li><a title="3 article(s) in  category" href="/category/Communications/">Communications</a></li><li><a title="1576 article(s) in  category" href="/category/Computers/">Computers</a></li><li><a title="2918 article(s) in  category" href="/category/Culture-and-Society/">Culture &amp; Society</a></li><li><a title="1 article(s) in  category" href="/category/Disease-Illness/">Disease &amp; Illness</a></li><li><a title="0 article(s) in  category" href="/category/Fashion/">Fashion</a></li><li><a title="900 article(s) in  category" href="/category/Finance/">Finance</a></li><li><a title="1237 article(s) in  category" href="/category/Food-Beverage/">Food &amp; Beverage</a></li><li><a title="21476 article(s) in  category" href="/category/Health-Fitness/">Health &amp; Fitness</a></li><li><a title="1 article(s) in  category" href="/category/Hobbies/">Hobbies</a></li><li><a title="2372 article(s) in  category" href="/category/Home-Family/">Home &amp; Family</a></li><li><a title="13 article(s) in  category" href="/category/Home-Based-Business/">Home Based Business</a></li><li><a title="209 article(s) in  category" href="/category/Internet-Business/">Internet Business</a></li><li><a title="1845 article(s) in  category" href="/category/Legal/">Legal</a></li><li><a title="2 article(s) in  category" href="/category/Pets-Animals/">Pets &amp; Animals</a></li><li><a title="2736 article(s) in  category" href="/category/Politics/">Politics</a></li><li><a title="0 article(s) in  category" href="/category/Product-Reviews/">Product Reviews</a></li><li><a title="2687 article(s) in  category" href="/category/Recreation-Sports/">Recreation &amp; Sports</a></li><li><a title="2246 article(s) in  category" href="/category/Reference-Education/">Reference &amp; Education</a></li><li><a title="2403 article(s) in  category" href="/category/Religion/">Religion</a></li><li><a title="2599 article(s) in  category" href="/category/Self-Improvement/">Self Improvement</a></li><li><a title="2569 article(s) in  category" href="/category/Shopping/">Shopping</a></li><li><a title="3286 article(s) in  category" href="/category/Travel-Leisure/">Travel &amp; Leisure</a></li><li><a title="0 article(s) in  category" href="/category/Vehicles/">Vehicles</a></li><li class="last"><a title="502 article(s) in  category" href="/category/Writing-Speaking/">Writing &amp; Speaking</a></li></ul>
+            </div>
+        <div id="rightMenu">
+        	<h2>Information</h2>
+			<ul>
+            	<li><a href="/?act=22">Submission Guidelines</a></li>
+                <li><a href="/?act=23">Terms of Services</a></li>		
+                <li><a href="/?act=24">Privacy Policy</a></li>
+            </ul>
+            	  
+    		
+  		                <span class="download2">
+                    <h3>Free Service</h3>
+                    <div style="font-size: 9pt; font-weight: 700; margin-bottom: 10px;">
+                    Shortcut to 50+ Social Bookmarking Sites!
+                    </div>
+                    <div style="font-size: 9pt; font-family:Arial, Helvetica, sans-serif">
+                    Adding social bookmark links to your blog or website makes it easy for readers to save and share your content.
+                    </div>
+                        <p align="center">
+                    <a href="http://www.expertarticles.com/bookmark/?url=http://www.expertarticles.com&amp;title=ExpertArticles.com%20%7C%20Top%20Quality%20Free%20Articles%20and%20Tutorials%20from%20Expert%20Authors"><img alt="Social Bookmarking" src="http://www.expertarticles.com/bookmark/images/bookmarkit16r.gif" border="0" height="16" width="80"></a>
+                    </p>
+                    <p align="center">
+                    <a href="/bookmark" style="font-size: 8pt;">Add "Bookmark it" to your website</a>
+                    </p>                    
+               </span>  
+       
+        </div>       
 
-<div id="container">
-  <div id="header">
-    <div id="site-name">Expert Articles</div>
-	    
-    <script src="/peel/peel.js"></script><div id="jcornerSmall" style="position:absolute;width:100px;height:100px;z-index:9999;right:0px;top:0px;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20091231215259/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" id="jcornerSmallObject" width="100" height="100"> <param name="allowScriptAccess" value="always">  <param name="movie" value="/peel/small.swf?ico=/peel/small.gif"> <param name="wmode" value="transparent"> <param name="quality" value="high">  <param name="FlashVars" value="ico=/peel/small.gif"><embed src="/peel/small.swf?ico=/peel/small.gif" name="jcornerSmallObject" wmode="transparent" quality="high" width="100" height="100" flashvars="ico=/peel/small.gif" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="https://web.archive.org/web/20091231215259/http://www.macromedia.com/go/getflashplayer"></object></div><div id="jcornerBig" style="position:absolute;width:650px;height:650px;z-index:9999;right:0px;top:0px;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20091231215259/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" id="jcornerBigObject" width="650" height="650"> <param name="allowScriptAccess" value="always">  <param name="movie" value="/peel/large.swf?big=/peel/large.gif&amp;ad_url=https%3A//web.archive.org/web/20091231215259/https%3A//pro.betfair.com/promotions/es-forobet/%3Fpid%3D11227%26bid%3D0%26rfr%3D1488"> <param name="wmode" value="transparent"> <param name="quality" value="high">  <param name="FlashVars" value="big=/peel/large.gif&amp;ad_url=https%3A//web.archive.org/web/20091231215259/https%3A//pro.betfair.com/promotions/es-forobet/%3Fpid%3D11227%26bid%3D0%26rfr%3D1488"><embed src="/peel/large.swf?big=/peel/large.gif&amp;ad_url=https%3A//web.archive.org/web/20091231215259/https%3A//pro.betfair.com/promotions/es-forobet/%3Fpid%3D11227%26bid%3D0%26rfr%3D1488" id="jcornerBigEmbed" name="jcornerBigObject" wmode="transparent" quality="high" width="650" height="650" flashvars="big=/peel/large.gif&amp;ad_url=https%3A//web.archive.org/web/20091231215259/https%3A//pro.betfair.com/promotions/es-forobet/%3Fpid%3D11227%26bid%3D0%26rfr%3D1488" swliveconnect="true" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="https://web.archive.org/web/20091231215259/http://www.macromedia.com/go/getflashplayer"></object></div>
-	
-    <ul id="nav">
-      <li><a href="/">Home</a></li>
-      <li><a href="/?act=17">Top Articles</a></li>
-      <li><a href="/?act=18">Site Map</a></li>
-	  <li><a href="/?act=21">RSS</a></li>
-	  <li><a href="/?act=28">Search</a></li>
-    </ul>
-  <!-- end #header --></div>
-  <div id="sidebar1" style="padding:0 1em 0 0; margin:0;">
-      <center>
-        <h4 style="color:#FFFFFF; background-color:#c00; vertical-align:text-top; display:block; margin:0 0 -0.3em; letter-spacing: 0.5px;">Categories</h4>
-      </center>
-      <ul id="nav-secondary"><li class="first"><a title="5 article(s) in  category" href="http://www.expertarticles.com/category/Arts-Entertainment/">Arts &amp; Entertainment</a></li><li><a title="5146 article(s) in  category" href="http://www.expertarticles.com/category/Business/">Business</a></li><li><a title="3 article(s) in  category" href="http://www.expertarticles.com/category/Communications/">Communications</a></li><li><a title="1576 article(s) in  category" href="http://www.expertarticles.com/category/Computers/">Computers</a></li><li><a title="2918 article(s) in  category" href="http://www.expertarticles.com/category/Culture-and-Society/">Culture &amp; Society</a></li><li><a title="1 article(s) in  category" href="http://www.expertarticles.com/category/Disease-Illness/">Disease &amp; Illness</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Fashion/">Fashion</a></li><li><a title="900 article(s) in  category" href="http://www.expertarticles.com/category/Finance/">Finance</a></li><li><a title="1237 article(s) in  category" href="http://www.expertarticles.com/category/Food-Beverage/">Food &amp; Beverage</a></li><li><a title="21476 article(s) in  category" href="http://www.expertarticles.com/category/Health-Fitness/">Health &amp; Fitness</a></li><li><a title="1 article(s) in  category" href="http://www.expertarticles.com/category/Hobbies/">Hobbies</a></li><li><a title="2372 article(s) in  category" href="http://www.expertarticles.com/category/Home-Family/">Home &amp; Family</a></li><li><a title="2 article(s) in  category" href="http://www.expertarticles.com/category/Home-Based-Business/">Home Based Business</a></li><li><a title="209 article(s) in  category" href="http://www.expertarticles.com/category/Internet-Business/">Internet Business</a></li><li><a title="1845 article(s) in  category" href="http://www.expertarticles.com/category/Legal/">Legal</a></li><li><a title="2 article(s) in  category" href="http://www.expertarticles.com/category/Pets-Animals/">Pets &amp; Animals</a></li><li><a title="2736 article(s) in  category" href="http://www.expertarticles.com/category/Politics/">Politics</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Product-Reviews/">Product Reviews</a></li><li><a title="2687 article(s) in  category" href="http://www.expertarticles.com/category/Recreation-Sports/">Recreation &amp; Sports</a></li><li><a title="2246 article(s) in  category" href="http://www.expertarticles.com/category/Reference-Education/">Reference &amp; Education</a></li><li><a title="2403 article(s) in  category" href="http://www.expertarticles.com/category/Religion/">Religion</a></li><li><a title="2599 article(s) in  category" href="http://www.expertarticles.com/category/Self-Improvement/">Self Improvement</a></li><li><a title="2569 article(s) in  category" href="http://www.expertarticles.com/category/Shopping/">Shopping</a></li><li><a title="3286 article(s) in  category" href="http://www.expertarticles.com/category/Travel-Leisure/">Travel &amp; Leisure</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Vehicles/">Vehicles</a></li><li class="last"><a title="502 article(s) in  category" href="http://www.expertarticles.com/category/Writing-Speaking/">Writing &amp; Speaking</a></li></ul> 
-	  <br><h4 style="color:#000000; vertical-align:text-top; display:block; padding:0px 0px 0px 0px; margin:0 0 2px 2px; border-style:none; letter-spacing: 0.5px; font-size:x-small;">Stats</h4>
-      <hr style="margin:2px; padding:0px;">
-	  <font size="-2">
-	  Total Articles: 254354<br>
-	  Total Authors: 33309<br>
- 
-
-Newest Member:<br>
- Luiz Gustavo  Arruda</font>	  
-  <!-- end #sidebar1 --></div>
-  <div id="sidebar2" style="padding:0; margin:0;">
-          <h4 style="text-align:center;">Author menu</h4>
-
-        	
-        <ul id="nav-secondary">
-          <li class="first"><a href="/?act=2">Login</a></li>
-          <li class="last"><a href="/?act=9">Register</a></li>
-        </ul>
-         
-      <div>
-        <center>
-          <h4>Information</h4>
-        </center>
-        <ul id="nav-secondary">
-          <li class="first"><a href="/?act=22">Submission Guidelines</a></li>
-		  <li><a href="/?act=23">Terms of Services</a></li>
-          <li><a href="/?act=24">Privacy Policy</a></li>
-		  <li><a href="/?act=19">Contact Us</a></li>
-		  <li class="last"><a href="/?act=20">About Us</a></li>		  
-        </ul>
-      </div>		
-		<br>
-	<!-- insert elements for right sidebar here -->	
-	<div class="featurebox" style="padding-right:10px;">
-	<h3>Free Service</h3>
-	<span style="font-size:9pt; font-weight:700">
-	Shortcut to 50+ Social Bookmarking Sites!
-	</span>
-    <br>
-	<span style="font-size:9pt;">
-	Adding social bookmark links to your blog or website makes it easy for readers to save and share your content.
-	</span>
-	<br><br>
-		<p align="center">
-	<a href="http://www.expertarticles.com/bookmark/?url=http://www.expertarticles.com&amp;title=ExpertArticles.com | Top Quality Free Articles and Tutorials from Expert Authors"><img border="0" alt="Social Bookmarking" src="http://www.expertarticles.com/bookmark/images/bookmarkit16r.gif" width="80" height="16"></a>
-	</p>
-	<p align="center">
-	<a href="/bookmark" style="font-size:8pt;">Add "Bookmark it" to your website</a>
-	</p>
-    </div>
-  <!-- end #sidebar2 --></div>
-  <div id="mainContent">
+			<div id="midBody">
+            
+<!-- MIDBODY -->
       <div id="breadcrumb"> <a href="/">Home</a> / Privacy Policy </div>
       <hr>
       <center>
@@ -254,22 +106,47 @@ Newest Member:<br>
         
 
         
+
+            </div>
+<!-- END OF MIDBODY -->            
+        </div>
+</div>        
+<div class="cbottom">
+<div class="wrapper">
+        <div id="contBottom">
 	  		  	      
-<!-- end #mainContent -->
+        </div>
     </div>
-	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
-   <div id="footer">
+</div><!-- wrapper closed -->
+</div>
+</div>
+    <div id="footer">
         <p>© 2007 ExpertArticles.com   Article Directory of Free Reprint  Articles from Expert Authors. All rights reserved.<br>
-        ExpertArticles.com   		 is a Member of the <a href="http://www.glocksoft.com" target="_new">G-Lock Software</a> network. <a href="/?act=19">Contact Us</a> | <a href="/?act=24">Privacy</a> | <a href="/?act=25">Links</a></p>
-        <p style="color:gray">page generation time: 0.0323222</p>
-  <!-- end #footer --></div>
-<!-- end #container --></div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-401878-3";
-urchinTracker();
-</script>
+        ExpertArticles.com   		 is a Member of the <a href="http://www.glocksoft.com" target="_new">G-Lock Software</a> network. <a href="/?act=19">Contact Us</a> | <a href="/?act=24">Privacy</a> | <a href="/?act=18">Site Map</a></p>
+        <p style="color:gray">page generation time: 0.0115681</p>
+    </div>
+<!-- hidden Extjs shit -->    
+    <div id="hello-dlg" style="visibility:hidden; display:none;">
+	    <div id="aedialoghdr" class="x-dlg-hd">Edit Author</div>
+
+	    <div class="x-dlg-bd">
+		<div id="form-ct4">
+        </div>
+		    </div>
+	    </div>
+	
+    
+    <div id="upl-dlg" style="visibility:hidden; display:none;">
+	    <div class="x-dlg-hd">Upload Photo</div>
+	    <div class="x-dlg-bd">
+        <div style="font-size:8pt; font-family:Tahoma, Arial; margin-bottom:5px;">You can upload one photo which will be shown in your bio and within your articles! Only pictures with the .jpg extension are allowed. The picture width can be no greater than 80 pixels, the height no greater than 100 pixels, and the file size no more than 50 kb.<br>&nbsp;</div>        
+		<div id="form-upl">
+        </div>
+        <hr style="background-color:#B5B8C8; color:#B5B8C8;">
+		    </div>
+	    </div>    
+  <!-- end of hidden extjs shit -->
+  
 
 
 
