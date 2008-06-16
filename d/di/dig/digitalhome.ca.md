@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031601id_/http%3A//www.digitalhome.ca/content/view/7/186) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616021501id_/http%3A//www.digitalhome.ca/content/view/7/186) for the most accurate reproduction.*
 
-# Digital Home - Privacy Policy
+# Digital Home Canada - Privacy Policy
 
 This statement discloses Digital Home Canada's privacy practices and policies. If you have any questions about these practices and policies, please contact us using the Contact Digital Home link on the left of this page.[](http://www.digitalhome.ca/content/view/1290/80/)
 
