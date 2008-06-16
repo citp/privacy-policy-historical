@@ -1,712 +1,314 @@
-<!--The following is the downloaded HTML source of the embark.com privacy policy that was archived on 2006-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114193600id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the embark.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616213725id_/http%3A//www.embark.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
-
-	/* updates breadcrumb with browser title
-	 * affects career profile, internship profile, major profile, grad programs profile, articles, etc...*/
-	function SetTitleBreadcrumb(strBreadcrumb)
-	{
-		var arrTitle;
-		var strNewBreadcrumb;
-
-		arrTitle = this.document.title.split("|" , 1);
-
-		if (arrTitle == null || arrTitle == "")
-		{
-			strNewBreadcrumb = strBreadcrumb.replace("[title]", "");
-		}
-		else
-		{
-			strNewBreadcrumb = strBreadcrumb.replace("[title]", arrTitle[0]);
-		}
-
-		UpdateBreadcrumbHTML(strNewBreadcrumb);
-	}
-
-	function TruncateBreadcrumb()
-	{
-		var x;
-		var nDiff;
-		var nHTMLLength;
-		var nDisplayTextLength;
-		var strInnerText;
-		var strNewHTML;
-		
-
-		x=document.getElementById('tblBreadcrumb').rows[2].cells;
-		strBreadcrumbHTML = x[0].innerHTML;
-		
-		if(navigator.appName == "Microsoft Internet Explorer")
-		{
-			strInnerText = x[0].innerText;			
-		}
-		else
-		{
-			strInnerText = ReplaceTags(strBreadcrumbHTML);
-		}
-		
-	
-		nDisplayTextLength = strInnerText.length;
-
-		if (nDisplayTextLength > 100)
-		{		
-			strBreadcrumbHTML = strBreadcrumbHTML.replace("</font>","");
-			nHTMLLength = strBreadcrumbHTML.length;			
-			nDiff = nDisplayTextLength - 100;
-			
-			strNewHTML = strBreadcrumbHTML.substring(0, nHTMLLength - nDiff);
-			strNewHTML = strNewHTML.substring(0, strNewHTML.lastIndexOf(" "));
-			strNewHTML = strNewHTML + "...</font>";
-			x[0].innerHTML = strNewHTML;
-		}
-	}
-	
-	/* Update table cell that holds breadcrumb with new Breadcrumb html*/
-	function UpdateBreadcrumbHTML(strNewHTML)
-	{
-		var x=document.getElementById('tblBreadcrumb').rows[2].cells;
-		x[0].innerHTML = strNewHTML;
-	}
-
-
-    /* innerText supported only by IE there for all other browsers, 
-       this function strips html tags from cell HTML */  
-    function ReplaceTags(xStr){
-		var regExp = /<\/?[^>]+>/gi;
-        xStr = xStr.replace(regExp,"");
-        return xStr;
-      }	
-</script>
-
-
-
-
-<!-- The following includes have not yet been cleaned up or converted to classes -->
-
-	<!--- 11/14/2006 2:34:24 PM --->
-	
-
-
-<title>Privacy Policy | The Princeton Review</title>
-<link rel="stylesheet" href="/shared/css/princetonReview.css" type="text/css">
-<meta name="resource-type" content="document">
-<meta name="author" content="PrincetonReview.com">
-<meta http-equiv="Reply-to" content="webmaster@review.com">
-<meta name="distribution" content="global">
-<meta name="taxloc1" content="articles">
-	
-		<script language="JavaScript1.2" src="http://www.princetonreview.com/shared/global/include/tprtracklib.js"></script>
-		<script language="JavaScript1.2" src="http://www.princetonreview.com/shared/global/include/tprvisitor.js"></script>
-		<script language="JavaScript1.2" src="http://www.princetonreview.com/shared/global/include/tprTracking.js"></script>	
-		
-		<script language="JavaScript1.2">
-		var strTrackPath = "http://images.review.com/track/tprtrackpartner.gif?";
-		</script>
-		<script language="JavaScript1.2" src="http://www.princetonreview.com/shared/global/include/tprpartnertrack.js"></script>
-		
-		<!-- Sitewise SDC META Tags -->
-		
-		
-		<!-- Content Group -->
-		<meta name="WT.cg_n" content="">
-		
-		<!-- Content Sub-group -->
-		<meta name="WT.cg_s" content="">
-		
-		<script language="Javascript"><!--
-		gVersion="1.0";
-		//-->
-		</script>
-		<script language="Javascript1.1"><!--
-		gVersion="1.1";
-		//-->
-		</script>
-		<script language="Javascript1.2"><!--
-		gVersion="1.2";
-		var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-		//-->
-		</script>
-		<script language="Javascript1.3"><!--
-		gVersion="1.3";
-		//-->
-		</script>
-		<script language="Javascript1.4"><!--
-		gVersion="1.4";
-		//-->
-		</script>
-		<script language="Javascript1.5"><!--
-		gVersion="1.5";
-		//-->
-		</script>
-
-		<script language="JavaScript"><!--
-		var gDcsId = "dcst8x41poifwzzk3iihgm3xb_9p4w";
-		//-->
-		</script>
-		
-		<script language="javascript" src="http://www.princetonreview.com/images/js/sdc.js"></script>
-
-		<noscript>
-		<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcst8x41poifwzzk3iihgm3xb_9p4w/njs.gif?dcsuri=/nojavascript&WT.js=No">
-		</noscript>
-		<!-- END OF Data Collection Server TAG -->	
-	
-
-		<script language="JavaScript"><!--
-		 function stopIt() {}
-		 function findCenter() {}
-		 function populate() {}
-		 function toggle() {}
-		 function validateSrch() {} 
-		//-->
-		
-		function OpenHelpWindow(strPage){	
-			var HelpWindow = window.open(strPage,'Help','height=296,width=380,top=100,left=100,toolbars=no,scrollbars=yes');
-			HelpWindow.focus();
-		}
-		function OpenMaintenanceMessage(strPage){
-			var MaintenanceWindow = window.open(strPage,"Maintenance","menu=no,toolbar=no,width=380,height=300,top=200, left=200,scrollbars=0,resizable=0,directories=no,location=no,screenX=0,screenY=0,top=100,left=100");
-			MaintenanceWindow.focus();
-		}
-		function OpenRegionalWindow(strPage){	
-			var RegionalWindow = window.open(strPage,'Regional','height=296,width=380,top=100,left=100,toolbars=no,scrollbars=yes');
-			RegionalWindow.focus();
-		}
-
-		function OpenCopyrightWindow(){
-			var newWin;
-			newWin = window.open("/footer/copyright.asp", "Copyright", "scrollbars=no,height=30,width=400,top=475,left=0,status=no,resizable=no");
-			newWin.focus();
-		}	
-		    
-		function OpenContactUsWindow(strPage){
-			var newWin;
-			newWin = window.open(strPage, "Contact_Us", "scrollbars=yes,height=600,width=700,top=50,left=50,status=yes,resizable=yes");
-			newWin.focus();
-		}	
-
-		function OpenSchoolPhotoWindow(strPage){
-			var newWin;
-			newWin = window.open(strPage, "School_Photos", "scrollbars=no,height=324,width=382,top=150,left=300,status=no,resizable=no");
-			newWin.focus();
-		}	
-    	function popUpWindow(strURL,strWindowOptions) {
-			var popWin;
-			popWin = window.open(strURL,"popwin",strWindowOptions);
-			popWin.focus();
-    	}
-		</script>
-	
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="populate()">
-<table width="800" border="0" cellpadding="0" cellspacing="0" height="79">
-<tbody><tr>
-<td width="172" height="79" align="center" valign="bottom" rowspan="4">
-<a href="/home.asp"><img src="http://www.princetonreview.com/images/lobby/tpr_logo.gif" border="0" height="79" width="172" alt="The Princeton Review"></a>
-</td>
-<td width="18" height="79" valign="top" rowspan="4">
-<img src="http://www.princetonreview.com/images/spacer.gif" height="27" width="25"></td>
-</tr>
-<tr>
-<td height="25" align="right" valign="top" class="regTwelveBlack">Welcome to The Princeton Review | <a href="/default.asp?SI=1" class="regTwelveRedUnderline">Sign In</a>
- | <a href="/default.asp?SI=1" class="regTwelveRedUnderline">Register</a>
- | <a href="http://testprep.princetonreview.com/studenttools/studentTool.asp" class="regTwelveRedUnderline">Student Tools</a>
- | <a href="http://testprep.princetonreview.com/go/cfcart/index.asp" class="regTwelveRedUnderline">Saved Courses</a>
-<img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="5" border="0">
-</td></tr>
-<tr>
-<td><img src="http://www.princetonreview.com/images/spacer.gif" height="20"></td></tr>
-<tr>
-<td height="26" align="left" valign="top" class="boldTwentyRed"></td></tr>
-</tbody></table>
-<table width="800" border="0" cellpadding="0" cellspacing="0" id="tblBreadcrumb">
-<tbody><tr><td rowspan="5" width="10px"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td><td height="4px"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr><tr><td class="dotLine"></td></tr><tr><td class="Breadcrumb" width="800" height="17px" valign="middle" align="left" id="cellBreadcrumb"><a class="BreadcrumbLink" href="http://www.princetonreview.com/home.asp">Home</a> &gt; <font class="Breadcrumb">Privacy Policy </font></td></tr><tr><td class="dotLine"></td></tr><tr><td height="12px"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr></tbody></table><script language="javascript">TruncateBreadcrumb();</script>
-<table width="800" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td width="6"><img src="http://www.princetonreview.com/images/spacer.gif" width="6" height="1" border="0"></td>
-	<td width="172" valign="top">
+<html><head>
+<script language="Javascript" type="text/javascript" src="Scripts/embark.js"></script>
 <script language="Javascript">
-	function SetFormNavAction(myForm, strValue)
-	{
-		myForm.elements["NAV_ACTION"].value = strValue;
-		myForm.submit();
-	}
-	
+function ManageSubscription(){
+ window.opener.location.href = 'AppLogin.aspx?mode=subscribe';
+ window.opener.focus();
+ window.close();
+}
 </script>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table width="172" cellpadding="1" cellspacing="0" border="0">
-<tbody><tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/college/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">College</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-<tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/mba/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">Business School</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-<tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/law/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">Law School</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-<tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/medical/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">Medical School</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-<tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/grad/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">Graduate School</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-<tr><td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" border="0" width="4"></td><td colspan="2" align="left" valign="bottom" width="168"><a class="leftNavLink" href="/academicprograms/default.asp" onmouseover="javascript:this.className='leftNavLinkHover'" onmouseout="javascript:this.className='leftNavLink'">Academic Programs</a></td></tr><tr><td colspan="3"><img src="http://www.princetonreview.com/images/spacer.gif" border="0"></td></tr>
-</tbody></table></td></tr><tr><td><img src="http://www.princetonreview.com/images/spacer.gif" border="0" height="8"></td></tr><tr><td><table width="97%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td class="RoundedTableLeftHeader" width="6" height="8"></td>
-<td class="RoundedTableTopLine"></td>
-<td class="RoundedTableRightHeader" width="6" height="8"></td></tr>
-<tr><td class="RoundedTableLeftLine"></td>
-<td align="center">
 
-		<script language="Javascript">
-		function selectSearchType(rType){
-			if (rType.value == "8385888") {
-				document.seek1.col.value = ""
-			}else{
-				document.seek1.col.value = "main"
-			}				
-		}
-		</script>
-<table width="156" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="156" class="leftNavLink">&nbsp;&nbsp;Search</td>
-</tr>
-<form name="seek1" method="GET" accept-charset="iso-8859-1" action="http://search.princetonreview.com/query.html"></form>
-<tr>
-<td width="156" align="left" valign="middle" class="leftNavSubLink">
-<img src="http://www.princetonreview.com/images/images/spacer.gif" width="1" border="0">
-<input type="radio" name="ct" value="" onclick="selectSearchType(this);">Site&nbsp;&nbsp;
-<input type="radio" name="ct" value="8385888" checked="" onclick="selectSearchType(this);">School
-<input type="hidden" name="charset" value="iso-8859-1">
-<input type="hidden" name="ht" value="0">
-<input type="hidden" name="qp" value="">
-<input type="hidden" name="qs" value="">
-<input type="hidden" name="qc" value="">
-<input type="hidden" name="pw" value="100%">
-<input type="hidden" name="ws" value="0">
-<input type="hidden" name="la" value="en">
-<input type="hidden" name="qm" value="0">
-<input type="hidden" name="st" value="1">
-<input type="hidden" name="nh" value="500">
-<input type="hidden" name="lk" value="1">
-<input type="hidden" name="rf" value="2">
-<input type="hidden" name="rq" value="0">
-<input type="hidden" name="si" value="0">
-<input type="hidden" name="sa" value="">
-<input type="hidden" name="ce" value="">
-<input type="hidden" name="fp" value="1">
-<input type="hidden" name="mr" value="1">
-<input type="hidden" name="col" value="">
-</td>
-</tr>
-<tr>
-<td width="156" align="left" valign="bottom">
-<img src="http://www.princetonreview.com/images/spacer.gif" width="1" border="0">
-<input type="text" size="17" class="regElevenBlack" name="qt" value=""><input type="image" src="http://www.princetonreview.com/images/navigation/go_button.gif" border="0" id="image1" name="image1" align="absbottom">
-</td>
-</tr>
-
-</tbody></table>
-</td>
-<td class="RoundedTableRightLine">
-</td></tr>
-<tr><td class="RoundedTableLeftFooter" width="6" height="8"></td>
-<td class="RoundedTableBottomLine"></td>
-<td class="RoundedTableRightFooter" width="6" height="8"></td>
-</tr></tbody></table>
-</td></tr><tr><td><img src="http://www.princetonreview.com/images/spacer.gif" border="0" height="10"></td></tr><tr><td><table width="97%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td class="RoundedTableLeftHeader" width="6" height="8"></td>
-<td class="RoundedTableTopLine"></td>
-<td class="RoundedTableRightHeader" width="6" height="8"></td></tr>
-<tr><td class="RoundedTableLeftLine"></td>
-<td align="center">
-  
-	<table width="156" ellpadding="0" cellspacing="0" border="0" bgcolor="white">
-	<tbody><tr>
-		<td width="156" valign="middle" class="leftNavLink">&nbsp;&nbsp;Find a Course/Tutor</td>		
-	</tr>
-	<script language="Javascript">
-	function isAlphaNumeric(aString) 
-	{
-		var s = aString.toUpperCase();
-		var ch;
-		for (var i = 0; i < s.length; i++) 
-		{
-			ch = s.charAt(i);
-			if (!((ch >= '0' && ch <= '9') || (ch >= 'A' && ch <= 'Z') || (ch == ' '))) 
-			{
-				return false;
-			}
-		}
-		return true;		
-	}
-	function zipValid(aZip) 
-	{	//TonyE - CR 19575: Changed " Enter Your Zip Code" to " Enter Zip/Postal Code"
-		if (aZip == " Enter Zip/Postal Code") {
-			alert("Please enter full zip code (should be at least 5 characters long)");
-			return false;
-		}
-		
-		if (aZip.length < 5) {
-			alert("Please enter full zip code (should be at least 5 characters long)");
-			return false;
-		}
-		if (aZip.length > 7) {
-			alert("Zip/Postal code can not be greater than 7 characters long");
-			return false;
-		}
-		if (!isAlphaNumeric(aZip)) {
-			alert("Please enter full zip code (should contain only alpha-numeric characters)");
-			return false;
-		}
-		needsValidation = false;
-		return true;			
-	}
-	function optionValid(aOption)
-	{
-		if (document.frmSearch.itemCode.value == "")
-		{
-			alert("Please select a test type");
-			return false;
-		}
-		return true;
-	}
-	function validateBasic() 
-	{
-		if (!optionValid(document.frmSearch.itemCode.value)) return false;
-		if (!zipValid(document.frmSearch.Zip.value)) return false;
-		return true;
-	}
-	function clearDefault()
-	{	//TonyE - CR 19575: Changed " Enter Your Zip Code" to " Enter Zip/Postal Code"
-		if (document.frmSearch.Zip.value == " Enter Zip/Postal Code")
-		{
-			document.frmSearch.Zip.value = ""
-		}
-	}
-	</script>
-	
-					
-	<form id="frmSearch" name="frmSearch" method="get" action="http://testprep.princetonreview.com/coursefinder/Search.asp" onsubmit="return validateBasic();"></form>
-	<tr>
-		<td width="156" align="left">		
-		<input type="hidden" name="productType" id="Hidden1" value="C">
-		<img src="http://www.princetonreview.com/images/spacer.gif" width="1" border="0">
-		<select id="itemCode" name="itemCode" class="regElevenBlack" style="width: 145px">
-			<option value="" selected="">Select Your Test</option>
-			<option value="">--------------------------------</option>
-			<option value=""> -- College --</option>
-			<option value="23" selected="">SAT</option>					
-			<option value="2">ACT</option>
-			<option value="11">PSAT</option>
-			<option value="">SAT Subject Tests</option>
-			<option value="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math Level 1</option>
-			<option value="6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math Level 2</option>
-			<option value="7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biology</option>
-			<option value="8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chemistry</option>
-			<option value="9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physics</option>
-			<option value="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U.S. History</option>
-			<option value="">--------------------------------</option>
-			<option value=""> -- Grad/Professional --</option>
-			<option value="16">GMAT</option>
-			<option value="17">GRE</option>
-			<option value="18">LSAT</option>
-			<option value="19">MCAT</option>
-			<option value="">--------------------------------</option>
-			<option value=""> -- Medical Licensure --</option>
-			<option value="20">USMLE Med Students</option>
-			<option value="21">USMLE Int'l Grads</option>
-			<option value="">--------------------------------</option>
-			<option value=""> -- High School --</option>
-			<option value="22">AP</option>
-			<option value="12">SHSAT (NYC only)</option>
-			<option value="13">SSAT</option>
-			<option value="14">ISEE</option>
-		</select>
-		</td>
-	</tr>
-	<tr>
-		<td height="2"><img src="http://www.princetonreview.com/images/spacer.gif" height="2" width="156" border="0"></td>	
-	</tr>
-	<tr>
-		<td width="156" align="left" valign="bottom">
-			<img src="http://www.princetonreview.com/images/spacer.gif" width="1" border="0">
-			<input type="text" name="Zip" value=" Enter Zip/Postal Code" size="17" class="regElevenBlack" onclick="clearDefault();" onchange="clearDefault();" onkeydown="clearDefault();"><input type="image" src="http://www.princetonreview.com/images/navigation/go_button.gif" border="0" id="image1" name="image1" align="absbottom">
-		</td>
-	</tr>
-	<tr>
-		<td height="2"><img src="http://www.princetonreview.com/images/spacer.gif" height="2" width="156" border="0"></td>	
-	</tr>
-	<tr>
-		<td align="left" class="boldElevenBlack"><img src="http://www.princetonreview.com/images/spacer.gif" width="9" height="1" border="0"><a href="http://testprep.princetonreview.com/coursesearch/AdvancedSearch.aspx" class="boldElevenBlackUnderline">Additional Options</a></td>
-	</tr>
-	<tr>
-		<td align="left" class="boldElevenBlack"><img src="http://www.princetonreview.com/images/spacer.gif" width="9" height="1" border="0">800-2REVIEW</td>
-	</tr>	
-	<input type="hidden" name="rid" id="rid" value="1">
-							
-	</tbody></table>
-</td>
-<td class="RoundedTableRightLine">
-</td></tr>
-<tr><td class="RoundedTableLeftFooter" width="6" height="8"></td>
-<td class="RoundedTableBottomLine"></td>
-<td class="RoundedTableRightFooter" width="6" height="8"></td>
-</tr></tbody></table>
-</td></tr></tbody></table></td>
-	<td valign="top" align="left">
-	<table width="583" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td width="23"><img src="http://www.princetonreview.com/images/spacer.gif" width="23" height="1" border="0"></td>
-		<td width="560">
-<!-- PRIVACY POLICY UPDATED JUNE 20, 2005 BY ANDREA LEWIS ALLAN -->
-
-<table width="560" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr class="regTwelveBlack"> 
-    <td valign="top">
-        <table width="560" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="379" valign="bottom"><img src="http://www.princetonreview.com/images/footerImages/privacy_policy.gif" width="139" height="23"></td>
-          </tr>
-        </tbody></table>
-		<br>
-		<table width="560">
-		<tbody><tr><td width="400">
-        <p><a href="#overall" class="boldFourteenBlue">OVERALL</a><br>
-  <a href="#collect" class="boldTwelveBlack">Information We Collect</a><br>
-  <a href="#schools" class="boldTwelveBlack">Schools</a><br>
-  <a href="#coppa" class="boldTwelveBlack">COPPA</a><br>
-  <a href="#lists" class="boldTwelveBlack">Marketing Lists</a></p>
-<p><a href="#livecourses" class="boldFourteenBlue">LIVE COURSES</a></p>
-<p><a href="#online" class="boldFourteenBlue">ON THE INTERNET</a><br>
-  <a href="#onlineoverall" class="boldTwelveBlack">Overall</a><br>
-  <a href="#princetonreview" class="boldTwelveBlack">PrincetonReview.com</a><br>
-  <a href="#homeroom" class="boldTwelveBlack">Homeroom.com</a></p>
-<p><a href="#misc" class="boldFourteenBlue">MISCELLANEOUS</a><br>
-  <a href="#contact" class="boldTwelveBlack">Contact Us</a></p>
-  </td>
-  <!-- <td width="80" valign="middle" align="right"><a href="http://www.bbbonline.org/cnfm2.cfm?company=08031999095534%20"><img src="http://www.princetonreview.com/images/footerImages/privacy_bbbonline_logo.gif" width="90" height="31" border="0"></a></td> -->
- <td width="160" valign="middle" align="left"><!-- <a href="https://www.truste.org/validate/5815"><img src="http://www.princetonreview.com/images/footerImages/privacy_truste_clickseal.gif" width="91" height="73" border="0"></a> --></td>
-  </tr></tbody></table>
-<span class="regTwelveBlack"><p>The Princeton Review takes your privacy seriously. This Privacy Policy applies to all of our customers, whether you buy our services or products online or offline. It also applies to visitors to our free websites.</p>
-
-<p>The Princeton Review takes strong measures to protect your privacy. First, we only ask you to provide information that we need in order to deliver the service or information you have requested. Second, we don't share the information you have given us without your permission to do so. </p>
-
-<p><br><span class="boldTwelveBlue">OVERALL<a name="overall"></a></span></p>
-<p><span class="boldTwelveBlack">Information We Collect</span><a name="collect"></a><br>
-We collect personally identifiable information from you when you purchase some of our products, including online and offline courses, and when using some of our Web-based services. We will request information that we need in order for you to participate in the service (things like your name and address, for example) or pay for the service (credit card information, for example). </p>
-
-<p>The Princeton Review offers several opportunities to receive products or information on- and off-line, either directly from us or from our partners. You can indicate your wish to receive such products and information by checking a box on a form; unless you ask for it, nothing will be sent to you and nothing will be shared with third parties.</p>
-
-<p>If you request to receive information from us or others, we often need to collect more information from you than when you purchase a product or service from us. The additional information we ask for will vary depending on what it is you're requesting, but generally includes your mailing address, year of graduation, and other information that you choose to provide regarding your academic and extracurricular activities and interests. When you ask to receive information from or to be contacted by a third party, your information is passed on to the third party to fulfill your request; they may have their own privacy policies that differ from ours. The information we share may include any personally identifiable information we have about you, such as your name, address, academic record, and test scores.</p>
-
-<p>We may track data on our customers in aggregate form. Such aggregated data does not uniquely identify you.</p>
-
-<p><span class="boldTwelveBlack">Schools</span><a name="schools"></a><br>
-We work with schools and institutions to provide programs such as test preparation and college counseling. Your school, district, or state may arrange for you to participate in these programs and may purchase products on your behalf. We may share personally identifiable information that you provide to us through your participation in these school programs with your school, district and your parents. In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education.</p>
-
-
-<p><span class="boldTwelveBlack">COPPA Compliance</span><a name="coppa"></a><br>
-The Princeton Review complies with the Children's Online Privacy Protection Act of 1998. Except for K-12 students who participate in our Homeroom or ECOS product, we do not accept personally identifiable information online from children under the age of 13. (For more information on Homeroom or ECOS, please see below.) If we become aware that our records contain such information, we will delete it.</p>
-
-
-<p><span class="boldTwelveBlack">Marketing Lists</span><a name="lists"></a><br>
-From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We use these lists to send direct marketing promotions by mail or by email. We do our best to only obtain these lists from suppliers who have opt-in policies for third-party marketing, but we are not responsible for the conduct and policies of these suppliers. Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material, a third-party marketing list supplier could still provide us with your name and address, in which case you will receive the promotional material sent by us to others on the supplier's list. If you have received a promotion from us and do not wish to receive future promotions, please contact us at: <a href="mailto:privacy@review.com" class="regTwelveBlueUnderline">privacy@review.com</a>. </p>
-  
-  
-<p><br><span class="boldTwelveBlue">LIVE COURSES<a name="livecourses"></a></span></p>
-
-<p><span class="boldTwelveBlack">Subscriptions </span><br>
-Many of our course students are given supplemental materials to help them prepare for their test. For example, if you become a student of The Princeton Review, we may provide you with magazine and/or newspaper subscriptions, as part of your course tuition as an additional benefit. If you would rather not receive supplemental materials, you will need to contact us and ask us to remove your name from our supplemental materials lists. Offline course students should contact your local office. Online students should email <a href="mailto:support.online@mail.review.com" class="regTwelveBlueUnderline">support.online@mail.review.com</a> or call 888.755.7737.</p>
-
-
-<p><br><span class="boldTwelveBlue">ON THE INTERNET<a name="online"></a></span></p>
-
-<p><span class="boldTwelveBlack">Anonymous Areas</span><a name="onlineoverall"></a><br>
-Some areas of our websites are accessible without registration of any kind. This is true of many of the basic content areas. Other areas require registration.</p>
-
-
-<p><span class="boldTwelveBlack">Services that Require Registration</span><br>
-Some of our most useful services are personalized: different visitors get different results based on information they provide. Examples include but are not limited to Homeroom, Advanced School Search, Online Tests, Online Course Demos, Recruiter, the Tuition Cost Calculator, and any surveys or contests in which you may choose to participate. Registration for these services is required to facilitate customization of your individual results.</p>
-
-<p>In addition to providing personalized results, registration is important for sending you specific information related to your service, and for allowing you to access stored information, and in the event that you opt-in, provide third party access to you. </p>
-
-<p><span class="boldTwelveBlack">How Are Cookies Used?</span><br>
-We also use a software technology called "cookies" to create a personalized Web experience. Cookies cannot be used to find your name, email address, or anything that is uniquely identifying about you unless you provide that information. We use cookies for those applications to which we referred earlier that require us to keep track of information to customize results. If you don't have your browser set to accept cookies, certain areas of PrincetonReview.com, ECOS, and Homeroom.com will not function. We also allow you to choose to use a cookie to save your username and password so that you do not have to log in to the website each time you visit. We do not recommend this in multi-user environments such as school computer labs.</p>
-
-<p><span class="boldTwelveBlack">Partner Privacy Policies</span><br>
-When you click on links and/or ad banners that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, The Princeton Review cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any website you visit. Homeroom.com and ECOS do not display third party banner ads on the site, although there may be resource links to third party content.</p>
-
-<p><span class="boldTwelveBlack">Passive Collection of Data</span><br>
-Like most sites, we maintain logs of site usage in order to evaluate our visitors' interest level in areas of the website, which and how many pages they look at, how long they stay on the site, and what Web browsers are used. This data is tracked in aggregate form, not at an individual user level, and is not uniquely identifying. The aggregate level data may be shared with third parties and the public. </p>
-
-
-<p><span class="boldTwelveBlack">Cautions</span><br>
-Please note, if you do not logout once registered for services that require registration, your personal information could be viewed by other users with access to your computer.</p>
-
-<p>Please note, if you choose to participate in our online discussion forums, your posts will be publicly accessible, as will the username and email address you use.</p>
-
-
-<p><span class="boldTwelveBlue">Specific Privacy Issues for PrincetonReview.com<a name="princetonreview"></a></span></p>
-
-<p><span class="boldTwelveBlack">Registration</span><br>
-When registering on PrincetonReview.com you will need to provide an email address and password. You need to choose a secret password to keep the personal information you entered on PrincetonReview.com private. In addition, we request your mailing address and other information for certain services so that we can send you the information you request via mail, or in the event you opt-in, provide third party access to you.</p>
-
-<p>If a user elects to use our system to inform a friend or parent/guardian about our site, particularly the Word du Jour feature or Lender's Center, we ask them for the friend's name and email address. The Princeton Review will automatically send the friend a one-time email inviting them to visit the site. The Princeton Review stores this information for the sole purpose of sending this one-time email. The friend may contact The Princeton Review at <a href="mailto:webmaster@review.com" class="regTwelveBlueUnderline">webmaster@review.com</a> to request the removal of this information from our database.</p>
-
-
-<p><span class="boldTwelveBlack">Changing Personal Information</span><br>
-You may unsubscribe to Word du Jour simply by going to the Word du Jour subscription page and updating your subscription (if you are not logged in, you will be prompted to log in first). </p>
-
-<p>If you want to change any of the personal information that you completed when you registered or opt-out of any of the opt-ins that you selected, sign-in to PrincetonReview.com and click on "Your Profile" in the top right corner. </p>
-
-<p><span class="boldTwelveBlack">Clear Gifs (Web Beacons/Web Bugs)</span><br>
-24/7 Real Media, Inc., the company that serves our banner advertisements for PrincetonReview.com, uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps inform them about what content is active. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web user. Clear gifs are invisible on the page and very small, about the size of the period at the end of this sentence.</p>
-
-<p>Clear gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the website would read the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. The information would then go back to the advertising company. To learn more about 24/7 Real Media's use of clear gifs, please go to: <a href="/out.asp?URL=www.247realmedia.com" class="regTwelveBlueUnderline">www.247realmedia.com</a>.</p>
-
-<p>In addition, we use clear gifs in our HTML-based emails, to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, simply sign-in to PrincetonReview.com and click on "Your Profile" and opt-out of any service you wish.</p>
-
-<p><span class="boldTwelveBlue">Specific Privacy Issues for Homeroom.com<a name="homeroom"></a></span></p>
-<p>We know that privacy is very important to you, especially where your children are concerned and we want you to know that we put children's privacy first. We make you three promises:  
-
-</p><ul>
-<li>Homeroom is in complete compliance with the Children's Online Privacy Protection Act of 1998 (COPPA). 
-</li><li>Parents will always have access to all the personal information we have about their children, including their work at the site. 
-</li><li>We will never share with third parties personal information that identifies any of the students, without parental authorization. 
-
-</li></ul>
-
-<p><span class="boldTwelveBlack">Complete Compliance with COPPA </span><br>
-Homeroom complies with the Children's Online Privacy Protection Act of 1998. For Homeroom, we work with all of our clients to ensure that COPPA rules are being followed in conjunction with the creation of student accounts. A printable consent form is built into Homeroom to help teachers secure parental consent when applicable. Parents will always have access to all personal information we have about their children, including all their children's work at the site.</p>
-
-
-<p><span class="boldTwelveBlack">Parent Access to Homeroom</span><br>
-Homeroom is designed to be a student-appropriate and kid-friendly site. Our site is highly interactive and designed to provide a different experience for every user. In order to make this possible, we collect the information and provide the services listed below. </p>
-
-
-<p>Students register by giving us their full name and gender, and they have the option of giving us their email address. They then pick a password. This information is then combined with the identifying information we have received from their school and the student's teacher, grade, and subject matter. This information is only available to us, the student, the student's school, and the parent. We use this information to provide a personalized interactive environment for each student and to give the teachers and school, district or state administrators the information necessary to track each student's progress and make effective use of Homeroom.</p>
-
-<p>Each student has a unique user name, which is the student's screen name and the Students are publicly identified at the site only by their user name. </p>
-
-
-<p>As a service to its users, Homeroom provides Homeroom email services within our closed environment. Each of our users—students, parents, administrators, and teachers—is given ability in their Homeroom account to communicate with another Homeroom user As with all email accounts, children may disclose personal information about themselves to their Homeroom email correspondents. All users should practice safe computing, and parents should advise their children not to give out any personal information without parental consent. Schools and districts have the ability to disable the Homeroom email system.</p>
-
-
-<p>Parents have their own Homeroom user accounts. Registration is similar to that for students, with parents providing their names, address, gender, and email. Through these accounts they can view and update information about their children, and send and receive email. </p>
-
-<p>Parents are welcome to review their children's personal information. They can also change or delete their children's optional personal information. </p>
-
-<p>NOTE: Homeroom.com reserves the right to terminate service for a student if a parent wishes to delete information that is necessary to our operations, such as First Name, Last Name, Grade, and Gender.</p>
-
-<p>We do not condition a child's participation in an activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. </p>
-
-
-<p><span class="boldTwelveBlue">Sharing of Information</span></p>
-
-<p>The privacy of individual user data for school administrators, teachers, parents, and students is always respected and protected. We will never disclose, sell, or rent personal information that identifies any of our Homeroom users without specific authorization to do so. Only the student, the teacher, the school administration, and the parent(s) have access to this information. Each school has agreed to maintain the confidentiality of this information. The Princeton Review retains the right to release aggregate performance information provided this information is not personally identifiable by district, school or individual students and teachers.</p>
-
-
-<p><br><span class="boldTwelveBlue">MISCELLANEOUS <a name="misc"></a></span></p>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Embark - Privacy Policy</title>
+<link href="CSS/embark.css" rel="stylesheet" type="text/css">
+<style type="text/css">
 <!--
-<p><span class="boldTwelveBlack">Privacy Certifications</span><br>
-The Princeton Review is a licensee of the TRUSTe Privacy Program. This license applies to the privacy practices for The Princeton Review website (available via www.review.com, www.embark.com, and www.PrincetonReview.com).  </p>
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 50px;
+	background-color: #C8C8C8;
+}
+.style2 {color: #CC9900}
+a:hover {
+	text-decoration: underline;
+	color: #CC0000;
+}
+-->
+</style>
+</head>
 
-<p>TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices for The Princeton Review website reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark on The Princeton Review website, we have agreed to notify you of:  <br>
+<body>
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><table width="990" border="0" cellpadding="0" cellspacing="0" background="Images/img_bkgd_mid.gif">
+      <tbody><tr>
+        <td height="10" align="left" valign="top"><img src="Images/img_spacertrans.gif" width="900" height="10"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+        <table width="911" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td colspan="2" width="911" align="left" valign="top"><table width="900" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                 <td><img src="Images/img_spacer.gif" width="30" alt="" height="61"></td>
+                  <td width="153" height="60" align="left" valign="top"><img src="Images/logo_embark.gif" width="140" height="60"></td>
+                  <td width="600" align="right" valign="middle"><img src="Images/img_yourfuture.gif" width="256" height="40"></td>
+                  <td width="22" align="right" valign="bottom">&nbsp;</td>
+                  <td width="125" align="right" valign="bottom"><img src="Images/img_photo_srch_tn.jpg" width="125" height="61"></td>
+                </tr>
+                <tr>
+                  <td colspan="5" align="left" valign="top"><img src="Images/img_spacer.gif" width="1" height="5"></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+              <td colspan="2" align="left" valign="top">
+			  <table width="900" border="0" cellspacing="0" cellpadding="0">
+               <!-- <tr align="right">
+                  <td height="1" colspan="2"><img src="Images/img_line_b2.gif" width="896" height="10"></td>
+                </tr>-->
+                <!--<tr>
+                  <td height="1" colspan="2"><img src="Images/img_spacer.gif" width="896" height="1"></td>
+                </tr>-->
+                <tbody><tr>
+        <td colspan="2" align="left" valign="top">
+        <table width="899" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="44" height="30" bgcolor="#cc9900"><img src="Images/img_spacer.gif" width="1" height="30"></td>
+            <td width="439" align="left" valign="bottom" bgcolor="#CC9900"><img src="Images/img_spacer.gif" width="1" height="30"></td>
+            <td width="150" align="right" valign="bottom" bgcolor="#cc9900">&nbsp;</td>
+            <td width="239" align="right" valign="bottom" bgcolor="#cc9900"></td>
+            <td width="69" bgcolor="#cc9900">&nbsp;</td>
+          </tr>
+          <tr bgcolor="eae6d6">
+            <td height="2" colspan="5" align="left" bgcolor="eae6d6"><img src="Images/img_line_gradhd.gif" width="941" height="1"></td>
+          </tr>
+          
+        </tbody></table></td>
+      </tr>
+                <tr align="right">
+                  <td height="1" colspan="3"><img src="img_line_b2.gif" width="896" height="1"></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+           
+       
+               <td width="66">&nbsp;</td>
+              <td style="left: 50px; top: 0px">
+				<table width="700" border="0" cellspacing="10" cellpadding="0">
+                <tbody><tr>
+                  <td><span class="headMainUgrad">Embark Privacy Policy</span></td>
+                </tr>
+                <tr>
+                  <td><span class="body3">Effective Date: February 17, 2007</span><br><br> <span class="regArlElevenBlk">www.embark.com ("Website") is an Internet property of Embark Corp. and its affiliates ("Embark," "we," "our," or "us"). This Privacy Policy is given on behalf of Embark.  We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices.  Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. In addition to this Privacy Policy, we are fully committed to adhering to all federal and state privacy regulations, including the California Online Privacy Protection Act of 2003.  You agree to this Privacy Policy, in its entirety, when you: (1) access or use our Website or any of the web pages of our Website, (2) agree to receive e-mail from us and/or, (3) make application to a college through an Embark hosted online application (i.e., Apply Online Program).<br><br>
+This Privacy Policy will tell you the following:
+<ol>
+<li>What information we collect/track about you.</li>
+<li>With whom we share the information we collect/track.</li>
+<li>How we use the information we collect/track.</li>
+<li>Our policy on correcting and updating information you have provided to us. </li>
+<li>Our policy on your right to opt out of some of our information sharing practices.</li>
+</ol>
+This Privacy Policy applies to any information you provide to us via our Website, email, telephone or in any other communication or exchange you have with Embark.<br>
+</span></td>
+                </tr>
+                <tr>
+                  <td align="center"><br><span class="boldGrgTwelveBlk">Information Collection Practices and Policies</span>
+				  </td>
+				</tr>
+				<tr><td>  
+				  <span class="regArlElevenBlk">We collect information about you when you provide us your information through forms, requests for information, applications for a school (i.e., Apply Online Program), use of our service to store your data on the Embark.com profile, or through other communications and interactions you have with us via our Website, email or telephone.  When you submit information to us, you are doing so on a completely voluntary basis, at your sole discretion and will.  Many times the information you submit is required to obtain the benefit, assistance or service you are requesting or would like to obtain from us-for instance, to use our form completion services on Embark.com, or to obtain information about a school.  The information you may be requested to submit may include (but is not limited to):  (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Social Security Number, and (6) Date of Birth.<br><br>
+We also may collect information about you from companies that may provide us with information about consumers-for instance, from a marketing list provider.
+</span></td>
+                </tr>
 
-<p>1. What personally identifiable information of yours or third-party personal identification is collected from you through the website </p>
+				<tr><td>  
+				  <span class="boldGrgTwelveGrey">IP Addresses</span><br><span class="regArlElevenBlk">We collect IP addresses.  Your IP address is used to gather broad and specific demographic information as well as for validation purposes.  In addition, we use your IP address to help diagnose problems with our server, and to administer our Website.<br></span>
+				  </td>
+				</tr>
 
-<p>2. The organization collecting the information </p>
-
-<p>3. How the information is used </p>
-
-<p>4. With whom the information may be shared </p>
-
-<p>5. What choices are available to you regarding collection, use, and distribution of the information </p>
-
-<p>6. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under The Princeton Review's control </p>
-
-<p>7. How you can correct any inaccuracies in the information </p>
-
-<p>If you have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@review.com" class="regTwelveBlueUnderline">privacy@review.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with us to resolve your concerns. </p>
+				<tr><td>  
+				  <span class="boldGrgTwelveGrey">Cookies</span><br><span class="regArlElevenBlk">A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser to decline them. We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes.<br></span>
+				  </td>
+				</tr>
 
 
---> 
-<p><span class="boldTwelveBlue"> Changes in Our Policy</span></p>
+				<tr><td>  
+				  <span class="boldGrgTwelveGrey">Web Site Tracking Software </span><br><span class="regArlElevenBlk">Web servers, or those of third-party vendors, utilize certain tracking software to capture your domain name address (the address of your Internet service provider) for purposes of tracking Website statistics. The capture of your domain name is a common practice among websites for measuring the number of hits, pages visited, and length of user session. We use this information to measure the effectiveness of the Website offerings in order to service you better. <br></span>
+				  </td>
+				</tr>
 
-<p>We reserve the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.</p>
+				<tr>
+                  <td align="center"><br><span class="boldGrgTwelveBlk">Information Sharing Practices and Policies</span>
+				  </td>
+				</tr>
 
-<p><span class="boldTwelveBlack">Other Online Privacy Resources</span><br>
-A number of organizations are very actively involved in educating Internet users about privacy issues and are pushing for legislation to preserve your online privacy rights. For more information about data privacy and cookies, you should check out the Electronic Frontier Foundation, the Electronic Privacy Information Center, and the Center for Democracy and Technology.</p>
+				<tr><td>  
+				  <span class="boldGrgTwelveGrey">Categories of Users</span><br><span class="regArlElevenBlk">There are <b>five</b> different types of users of our Website, as follows:  (1) Former Embark Users, (2) Former Embark School Application Users, (3) All Other Former Embark Users, (4) Current School Application Users, and (5) Current Users.  Below are descriptions for each type of user so you can determine what category of user applies to you.
+<ol>
+<li><b><i>Former Embark Users</i></b> are users who used one of the free Embark web pages when it was owned by The Princeton Review (which was during the period of October,2001 to February 17, 2007).</li>
+<li><b><i>Former Embark School Application Users</i></b> are users who made use of an Embark hosted online college application web page when Embark was owned by The Princeton Review (which was during the period of October, 2001 to February 17, 2007).</li>
+<li><b><i>All Other Former Embark Users</i></b> are all users of the Embark website prior to October, 2001.</li>
+<li><b><i>Current School Application Users</i></b> are all users who link to and use one of the online college applications hosted by Embark (i.e., Apply Online Program - this is when you link to an Embark hosted application from a college's website) after February 17, 2007.</li>
+<li><b><i>Current Users </i></b> are all other users of the Embark website after February 17, 2007. <b><i>Current School Application Users </i></b> that elect to have Embark store their data in the Embark.com profile are also <b><i>Current Users</i></b> (and the <b><i>Current Users</i></b> policies will apply).</li>
+</ol>
+</span></td></tr>
 
 
-<p><span class="boldTwelveBlack">Disclaimer</span><br>
-Though we make every effort to preserve your privacy, we cannot guarantee your privacy. Further, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process served on us or a law enforcement request.</p>
+<tr><td>  
+  <span class="boldGrgTwelveGrey">Policies for Each Category of User</span><br>
+  <div class="regArlElevenBlk" style="padding-left:50px;"><b><i>Former Embark Users</i></b><br>
+	All of the information you provided to us while we were a part of The Princeton Review is governed by The Princeton Review privacy policy that was in effect at the time you provided information about yourself to Embark.  As of June 20, 2005, The Princeton Review privacy policy provided that:  "We don't share the information you have given us without your permission to do so."  What does this mean - Embark will not share any of the information you provided to us while we were a part of The Princeton Review unless you want us to.  This applies to all the information you provided to Embark while it was a part of The Princeton Review.<br><br><i>Important Notice:</i>  If you use our Website after February 17, 2007 and give us information about yourself (whether it's new information or the same information you previously gave us), this new giving of information will be governed by the policies applicable to a <b><i>Current User.</i></b></div>
+	
+  <p style="padding-left:50px;">
+  <span class="regArlElevenBlk"><b><i>Former Embark School Application Users</i></b><br>
+	The information you provided to us on a college application hosted by Embark while we were a part of The Princeton Review was not covered by The Princeton Review privacy policy. Further, Embark did not have its own privacy policy. Since there is no privacy policy that applies to this information, it will be governed by the policies applicable to a <b><i>Current User.</i></b></span></p>	
+
+	<p style="padding-left:50px;">
+  <span class="regArlElevenBlk"><b><i>All Other Former Embark Users</i></b><br>
+	The information you provided to us was not covered by a privacy policy because Embark did not have a privacy policy.  Since there is no privacy policy that applies to this information, it will be governed by the policies applicable to a <b><i>Current User.</i></b></span></p>
+
+<p style="padding-left:50px;">
+  <span class="regArlElevenBlk"><b><i>Current School Application Users</i></b><br>
+	The information you provide to us through the Apply Online Program will be governed by the Embark Application Privacy Policy, which is described in the Embark hosted online college application.  If you do not remember the details of that privacy policy, you may <a href="javascript:PrivacyNewWindow('http://apply.embark.com/privacy.asp');">click on this link</a> to find out what it said.<br><br>If you are a <b><i>Current School Application User</i></b> and asked Embark to store your data in the Embark.com profile, you are also a <b><i>Current User</i></b> and the <b><i>Current User's</i></b> policies will also apply to you.</span></p>
+
+  <p style="padding-left:50px;">
+  <span class="regArlElevenBlk"><b><i>Current Users</i></b><br>
+	We may share some or all of the information we collect, as described above, with affiliated companies and with third parties (i.e. nonaffiliated companies) as permitted by law.  For example, we may share some or all of the information we collect with the following types of affiliated companies and third parties:
+	</span></p><ul>
+	<ul>
+	<li>Companies with whom we conduct joint marketing campaigns;</li>
+	<li>Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers;</li>
+	<li>Companies that perform services on our behalf; and</li>
+	<li>Other third parties as required by law, such as in response to a subpoena.</li>
+	</ul>
+	</ul><p></p>
+</td>
+</tr>
+ <tr>
+  <td align="center"><span class="boldGrgTwelveBlk">Your Privacy Choices</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">If you prefer that we not share information you have provided to us with third parties, you may opt out of some of these types of disclosures.  The types of disclosures you can opt out of are:
+<ul>
+<li>Companies with whom we conduct joint marketing campaigns; and</li>
+<li>Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers.</li>
+</ul>
+To tell us not to share information you have provided to us with these third parties, <a href="AppLogin.aspx?mode=subscribe" onclick="javascript:ManageSubscription();return false();">click on this link.</a><br><br>
+In addition, you may choose to not receive email communication from us (see "Unsubscribe" below).
+</span></td>
+</tr>
 
 
-<p><span class="boldTwelveBlue">Contact Us:<a name="contact"></a></span></p>
-<p>The Princeton Review <br>
-  2315 Broadway <br>
-  New York, NY 10024</p>
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Information Use</span>
+  </td>
+</tr>
 
-<p>The Princeton Review K-12 Services<br>
-  (includes Homeroom.com)<br>
-  160 Varick Street<br>
-  12th Floor<br>
-  New York, NY 10013</p>
-  
+<tr>
+  <td><span class="regArlElevenBlk">We use the information you give us to provide the benefit, assistance or service you are requesting or would like to obtain. We may transfer aggregate or group data about our users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of our users as a group without disclosing personally identifiable information. By submitting your information to us and using our Website, you agree to allow us to transfer such aggregate data to third parties.  In addition, we collect and share information as discussed above.
+</span></td>
+</tr>
 
-<p>Email us at: <a href="mailto:privacy@review.com" class="boldTwelveBlueUnderline">privacy@review.com</a></p>
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Other Websites</span>
+  </td>
+</tr>
 
-<p>Last revised: June 20, 2005
-		</p></span></td>
-		</tr>
-		
+<tr>
+  <td><span class="regArlElevenBlk">Our Website may contain links to third-party owned and/or operated websites. We are not responsible for the privacy practices or the content of such websites. These third-party websites have separate privacy policies and data collection practices and we have no responsibility or liability relating to them.  We encourage you to review the privacy policies and data collection practices of those sites.  The privacy policies of colleges for whom we host online college applications may be different from our Privacy Policy.
+</span></td>
+</tr>
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Security</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">Information we maintain about you is stored in a secure manner.  We use security features to collect the information you provide to us via our Website in a secure manner.  However, if you send us an email, that type of transmission of information is not secure, and is traveling though the Internet unprotected and can be intercepted. While perfect security on the Internet is impossible, we maintain physical, electronic, and procedural safeguards to protect the information you provide to us.  We restrict access to this information to employees with a need to know this information to provide you with the benefit, assistance or service you request or would like to obtain, and to those employees that need the information to do their jobs.
+</span></td>
+</tr>
+
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Minors</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">We adhere to all federal and state laws regarding visitors under 18 years of age.
+</span></td>
+</tr>
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Unsubscribe</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">To stop receiving future communications from us,  please review your contact preferences <a href="AppLogin.aspx?mode=subscribe" onclick="javascript:ManageSubscription();return false();">here</a>.
+</span></td>
+</tr>
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Changes in Privacy Policy</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">We reserve the right to change or update our Privacy Policy at any time by posting a notice in the Privacy Policy announcing that it has changed.  The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied).  In addition, the updated Privacy Policy will list a new "Effective Date."  If you continue to use our Website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our Website, (2) agree to receive e-mail from us and/or, (3) make application for a school through our Website), you are agreeing to be covered by the updated Privacy Policy.
+</span></td>
+</tr>
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Correct/Update</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">You can change the information you have provided to us by: (1) logging in to your account, (2) clicking on User Settings and (3) modifying any of the fields, as desired.
+</span></td>
+</tr>
+
+<tr>
+  <td align="center"><br><span class="boldGrgTwelveBlk">Contacting the Website</span>
+  </td>
+</tr>
+
+<tr>
+  <td><span class="regArlElevenBlk">If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at <a href="mailto:privacypolicy@embark.com">privacypolicy@embark.com</a>, or you may call us at 1-415-615-1800.
+</span></td>
+</tr>
+              </tbody></table>
+			 </td>
+           </tr>
+            <tr>
+              <td colspan="2" height="94"><table width="900" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td colspan="11"><img width="1" height="40"></td>
+                </tr>
+                <tr>
+                  <td colspan="11" align="right"><img src="Images/img_lightblue_line.gif" width="893" height="1"></td>
+                </tr>
+                <tr>
+                  <td colspan="10" class="boldTrbTenBluCap"><img src="Images/img_spacer.gif" width="1" height="30"></td>
+                  <td align="right" class="boldTrbElevenYelCap">&nbsp;</td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><table width="990" height="7" border="0" cellpadding="0" cellspacing="0" background="Images/img_bkgd_bottom.gif">
+      <tbody><tr>
+        <td height="7"><img src="Images/img_spacertrans.gif" width="900" height="7"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
 </tbody></table>
-</td>
-	</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table width="800" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td colspan="2"><img src="http://www.princetonreview.com/images/spacer.gif" height="65" width="1" border="0"></td>
-</tr>
-<tr bgcolor="#333333" valign="top">
-<td align="left" class="boldWhiteEleven" width="800" valign="middle" height="18"><img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="100" border="0">
-<a href="/footer/privacy_policy.asp" class="boldWhiteEleven">Privacy Policy</a>
- | <a href="/footer/terms_and_conditions.asp" class="boldWhiteEleven">Terms &amp; Conditions</a>
- | <a href="/footer/site_map.asp" class="boldWhiteEleven">Site Map</a>
- | <a href="/footer/jobsite/employment.asp" class="boldWhiteEleven">Employment</a>
- | <a href="/footer/companyinfo_overview.asp" class="boldWhiteEleven">Company Information</a>
- | <a href="/footer/contact_us.asp" class="boldWhiteEleven">Contact Us</a>
-</td>
-<td width="4"><img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="4" border="0"></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" width="800">
-<tbody><tr>
-<td align="left"><img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="100" border="0">
-<a href="javascript:OpenCopyrightWindow()" class="boldTenFooterGrayUnderline" target="_self" style="text-decoration:none">Copyright Notice</a></td>
-<td align="center" rowspan="2" valign="top">
-<a href="/college/testprep/testprep.asp?TPRPAGE=1&amp;TYPE=NEW-SAT-HOME" title="SAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">SAT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/college/testprep/testprep.asp?TPRPAGE=39&amp;TYPE=PSAT-HOME" title="PSAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">PSAT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/college/testprep/testprep.asp?TPRPAGE=2&amp;TYPE=ACT-HOME" title="ACT" class="boldTenFooterGrayUnderline" style="text-decoration:none">ACT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/mba/testprep/testprep.asp?TPRPAGE=3&amp;TYPE=GMAT-HOME" title="GMAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">GMAT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/grad/testprep/testprep.asp?TPRPAGE=4&amp;TYPE=GRE-HOME" title="GRE" class="boldTenFooterGrayUnderline" style="text-decoration:none">GRE</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/law/testprep/testprep.asp?TPRPAGE=5&amp;TYPE=LSAT-HOME" title="LSAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">LSAT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/medical/testprep/testprep.asp?TPRPAGE=6&amp;TYPE=MCAT-HOME" title="MCAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">MCAT</a>
-<span class="regElevenGray">&nbsp;|&nbsp;</span>
-<a href="/medical/testprep/testprep.asp?TPRPAGE=40&amp;TYPE=USMLE-HOME" title="USMLE" class="boldTenFooterGrayUnderline" style="text-decoration:none">USMLE</a>
-</td>
-<td align="right" rowspan="2" valign="top">
-<a href="/out.asp?categoryID=1&amp;openWin=1&amp;URL=http%3A%2F%2Fwww%2Enacacnet%2Eorg%2FMemberPortal%2FProducts%2FSeal%2Fsealprograms%2Ehtm" class="boldWhiteEleven"><img src="http://www.princetonreview.com/images/footer/nacac_seal.gif" height="45" width="124" border="0"></a>
-<img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="80" border="0"></td>
-</tr>
-<tr valign="top">
-<td valign="bottom"><img src="http://www.princetonreview.com/images/spacer.gif" height="35" width="75" border="0">
-<img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="5" border="0">
-</td>
-</tr>
-</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">_uacct = "UA-1421823-1";urchinTracker();</script>
 
 
- 
 </body></html>
