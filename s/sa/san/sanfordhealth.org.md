@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011135623id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616031029id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.*
 
 # About System: Privacy Statement - Legal - Sanford Health
 
