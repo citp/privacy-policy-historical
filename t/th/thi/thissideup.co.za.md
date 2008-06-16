@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thissideup.co.za privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217070138id_/http%3A//www.thissideup.co.za/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thissideup.co.za privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617010159id_/http%3A//www.thissideup.co.za/privacy_policy.php) for the most accurate reproduction.*
 
 # This Side Up! Privacy Policy.
 
