@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalblogdirectory.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224193522id_/http%3A//www.totalblogdirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalblogdirectory.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616215849id_/http%3A//www.totalblogdirectory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy www.totalblogdirectory.com
 
@@ -21,3 +21,7 @@ Any products listed for sale are from independent websites and you must check di
 If you click a link that takes you off this site, you must check with that site for its privacy policy. 
 
 [Home Page](https://web.archive.org/)
+
+Cookies: If you login on our site, we store a cookie to save your email and encrypted password while you are logged in. We do not store other personally identifible information in cookies. We store non-personally identifiable information cookies to save various settings and prevent multiple and spam postings. 
+
+Cookies and our advertisers: Advertisers on our website may set cookies and you should refer directly to an advertisers website for details on their cookies and privacy policy. Their cookies may be set while you surf our site, by virtue of the advertisement being placed in an iframe. 
