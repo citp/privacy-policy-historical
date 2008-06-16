@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the ecommerceoptimization.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012094400id_/http%3A//www.ecommerceoptimization.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerceoptimization.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616103357id_/http%3A//www.ecommerceoptimization.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Read eCopt, Sell More - eCommerce Optimization
+# eCommerce Blog Privacy | Read eCommerce Optimization, Sell More
 
-## 
-
-[Home](http://www.ecommerceoptimization.com/) » Privacy
-
-### [Privacy](http://www.ecommerceoptimization.com/privacy/ "Permanent Link: Privacy") \- eCommerce Optimization
+**eCommerce Optimization** features [How-To Articles](http://www.ecommerceoptimization.com/articles/ "How-to Articles") about [eCommerce Marketing](http://www.ecommerceoptimization.com/guides/ecommerce-marketing/ "eCommerce Marketing"), [Learning eCommerce](http://www.ecommerceoptimization.com/guides/learning-ecommerce/ "Learning eCommerce") and [Online Business](http://www.ecommerceoptimization.com/guides/ecommerce-business/ "Online Business") including [eCommerce News](http://www.ecommerceoptimization.com/guides/ecommerce-business/industry-news/ "eCommerce News"), [Latest Trends](http://www.ecommerceoptimization.com/guides/ecommerce-business/latest-trends/ "Latest Trends"), [Platform Reviews](http://www.ecommerceoptimization.com/guides/ecommerce-business/platform-reviews/ "Platform Reviews") and a [Store Spotlight](http://www.ecommerceoptimization.com/guides/ecommerce-business/store-spotlight/ "Store Spotlight") section where we look at, review and spotlight some of the most successful retail stores Online. [Learn more...](http://www.ecommerceoptimization.com/about/ "Learn more about eCommerce Optimization")
 
 eCommerce Optimization makes every effort to protect our readers privacy. We collect limited personal information so that we can better serve you, and that personal information will never be shared with any third party without your explicit permission. We do not sell our readers information, nor do we share it with any third parties without their explicit permission, or if we are required to by a law enforcement agency that has the appropriate legal jurisdiction.
 
-eCommerce Optimization only collects your personal information during specific transactions:
+The transmission of data or information (including communications by email or form) over the Internet or other publicly accessible networks is not secure, and is subject to possible loss, interception or alteration while in transit. Accordingly, eCommerce Optimization does not assume any liability for any damage you may experience or costs you may incur as a result of any transmissions over the Internet or other publicly accessible networks, such as transmissions involving the exchange of e-mail with us (including those which may contain your personal information). We don’t care. We make no efforts to safeguard the privacy of the information you provide us, period. In no event will the information you provide to us be deemed to be confidential, create any fiduciary obligations to you on our part, or result in any liability to you on our part in the event that such information is inadvertently released by us or accessed by third parties without our consent.
 
-**Logging in**  
+You agree to follow all applicable laws and regulations when using this blog and further agree that you will not transmit spam mail, chain letters, or other unsolicited bulk email or duplicate messages to any email address listed on this blog. By uploading, posting or otherwise transmitting through or to our blog any content, you grant to us, our successors and assigns, a non-exclusive, world-wide, royalty free, perpetual, non-revocable license to use or distribute such content in any manner otherwise than as stated in this Privacy Statement.
+
+You agree to indemnify, defend and hold us and our friends, spouses, children, and agents harmless from any loss, liability, claim, demand, damage, or expense (including any legal fees) asserted by any third party relating in any way to your use of this blog or breach of any of our Terms. eCommerce Optimization reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you, which shall not excuse your indemnity obligations.
+
+**eCommerce Optimization only collects your personal information during specific transactions:**
+
 When you log in to post comments, we will ask for your name, email address and optionally your Website location. We ask for your email address so that we can verify your email address, so other people cannot register for you. We do this to protect you and your email account.
 
-**Purchasing services**  
 If you purchase services from us, we will ask for the minimum information necessary to verify that you are authorized to make the purchase, that you are who you say, and not someone else with your credit card. We will ask for your address, your credit card information, including the expiration date to make sure that the card owner is the one who is using it. If you notice any charges from our site that you did not authorize, please contact your bank first, and then contact us so we can resolve any issues.
 
-**Polls or surveys**  
 We may, from time to time, have site polls or surveys in which we will ask for certain demographic information, along with your opinions of our site. Any information we request for these polls is strictly for internal purposes, to help us understand our readers. We may share cumulative data with our partners (average age of our users, etc.), but we will never share with our partners your name, your personal information, or your contact information. This demographic data will be entirely anonymous, and only for statistical purposes. If you receive any email correspondence claiming to be from eCommerce Optimization that includes requests for your personal information or that asks you to log into any URL that does NOT begin with eCommerceoptimization.com, please report it to us immediately.
 
-**Cookies**  
 Most site on the Internet use cookies. We use cookies so that you dont have to keep logging in every time you click through to a new article or page. Cookies also allow us to remember you if you come back to our site before the cookie expires.
 
-**Readers or users**  
 eCommerce Optimization allows you to post your email address publicly on our site so that other users who share your interests may contact you, but it is not required. There are many other people using our site, and if you post your email address or other information, one of them may try to contact you. We cannot be held responsible for the content or means of this communication, and we recommend that you only share information that you would normally share in an Online community with thousands of other people.
 
-**Links**  
 At times, we may have links on our site to our partners, or readers may post URLs to their own sites. We attempt to closely watch over and guard your personal information, but we cannot be held responsible for these sites and their individual business practices. If we discover that one of these sites is behaving fraudulently or is neglecting the privacy of its users, we will remove the links to that site as soon as possible. We are not responsible for broken links or links on other third party sites which are out of our control, but if you report them we will attempt a fix.
 
-**Contact**  
-If you have questions, comments or feedback regarding the Terms outlined on this page, you can [use our contact form](http://www.ecommerceoptimization.com/contact/ "use our contact form") to get in touch. We typically respond to emails or submitted comments within 24 hours, but it may take a little longer depending on the specific circumstances.
+eCommerce Optimization’s policy is to comply with all intellectual property laws and to act quickly upon receiving any notice of claimed infringement. If you believe that your work has been reproduced on this blog in a manner that constitutes copyright infringement, please let us know immediately by sending an appropriate email message to ecopt@ecommerceoptimization.com or through our [contact form](http://www.ecommerceoptimization.com/contact/ "let us know").
+
+If you have questions, comments or feedback regarding the Privacy Policies outlined on this page, you can [use our contact form](http://www.ecommerceoptimization.com/contact/ "use our contact form") to get in touch. We typically respond to emails or submitted comments within 24 hours, but it may take a little longer depending on the specific circumstances.
