@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217082945id_/http%3A//www.craftsetc.com/service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616163124id_/http%3A//www.craftsetc.com/service/privacy.aspx) for the most accurate reproduction.*
 
 # Crafts Etc- Privacy
 
@@ -67,9 +67,10 @@ Crafts, Etc!® collects the following information for the purpose of processing 
 
 This information is used for the sole purpose of processing your order.  It is not sold to anyone and is only available to those responsible for processing your order.  Additionally, we do not capture your credit card number during the order process.  We only receive an authorization number that will allow us to charge you once your order ships.
 
-**E-Mail Address** If you are registered in our monthly gift card drawing and/or for our Craftabilities newsletter, your e-mail address will be stored in our secure database.  This database will not be sold, shared, rented, or made available in anyway to third parties.  The database is only available to those personnel who conduct the monthly drawing and those who maintain the database.  You will from time to time receive special notices from us regarding sales or special promotions but it will only be mailed to those that have signed up for the drawing and/or newsletter.
+**E-Mail Address** If you are registered for salaes notifications or our newsletter, your e-mail address will be stored in our secure database.  This database will not be sold, shared, rented, or made available in anyway to third parties. You will from time to time receive special notices from us regarding sales or special promotions but it will only be mailed to those that have signed up.  
 
- **Cookies** Cookies are small text files that your web browser stores on your computer's hard drive.  The cookies are used to keep track of items you put in your shopping cart and to help us track what ad campaign you may have found us from.  Cookies also enable us to look at the customers who visit so we can design our site to fit you.  Crafts, Etc!® cookies are not available to other companies and will not retrieve any personal information such as name, address, and credit card information from your computer.
+
+**Cookies** Cookies are small text files that your web browser stores on your computer's hard drive.  The cookies are used to keep track of items you put in your shopping cart and to help us track what ad campaign you may have found us from.  Cookies also enable us to look at the customers who visit so we can design our site to fit you.  Crafts, Etc!® cookies are not available to other companies and will not retrieve any personal information such as name, address, and credit card information from your computer.
 
  **Security**
 
