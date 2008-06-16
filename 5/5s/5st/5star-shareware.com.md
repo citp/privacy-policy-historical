@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222202829id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034153id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | 5 Star Shareware
 
@@ -35,7 +35,7 @@ From time to time, we may ask users to provide an e-mail or mailing address for 
 
 ### Email-Newsletter List Privacy Policy
 
-5 Star Network Limited maintains a strict **no-spam** policy. If you sign up for our [free newsletter](https://web.archive.org/web/20071222202829id_/http%3A//www.5star-shareware.com/newsletter/subscribe.mis), your e-mail address will **not** be sold or given to any third party.
+5 Star Network Limited maintains a strict **no-spam** policy. If you sign up for our [free newsletter](https://web.archive.org/web/20080616034153id_/http%3A//www.5star-shareware.com/newsletter/subscribe.mis), your e-mail address will **not** be sold or given to any third party.
 
 If you have any questions or concerns, please [contact us](https://web.archive.org/docs/contact.html).
 
