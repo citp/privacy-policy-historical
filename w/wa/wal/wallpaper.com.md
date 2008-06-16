@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012053505id_/http%3A//www.wallpaper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616225627id_/http%3A//www.wallpaper.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wallpaper.com - International Design Interiors Fashion Travel
 
@@ -18,4 +18,4 @@ Please note that clicking on to links and banner advertisements may result in yo
 
 This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
 
-© 2007 IPC Media Ltd. All rights reserved. 
+© 2008 IPC Media Ltd. All rights reserved. 
