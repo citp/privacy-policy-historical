@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011062615id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616170618id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # New York City nightclubs, Hamptons nightclubs, Los Angeles nightclubs, Chicago nightclubs, New Jersey nightclubs, Boston nightclubs, Miami nightclubs, Philadelphia nightclubs, Washington D.C. nightclubs
 
