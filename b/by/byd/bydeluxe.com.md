@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bydeluxe.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212104923id_/http%3A//www.bydeluxe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bydeluxe.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617000312id_/http%3A//www.bydeluxe.com/privacy.php) for the most accurate reproduction.*
 
 # Deluxe - Deluxe - Privacy Policy
 
