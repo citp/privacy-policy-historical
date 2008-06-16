@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324014443id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616105831id_/http%3A//www.timeoutdubai.com/dubai/corporate/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - TimeOutDubai.com
+# TimeOutDubai.com - Authoritative views and reviews of everything that's great in Dubai
 
 ##### Privacy 
 
