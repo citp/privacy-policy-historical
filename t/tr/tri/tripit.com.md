@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224081012id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616164249id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt | Organize your travel
 
@@ -42,9 +42,9 @@ We maintain data handling and storage practices and procedures that are designed
 
 The information we gather is used to create and maintain your travel itineraries and your travel profile and, if you have elected to receive them, send you marketing messages. We also use the information that we gather to target content on our Site to more closely match your interests and, if you have selected to receive email communication from us, target email marketing messages that are more appropriate to your needs. 
 
-When you use the Service, the personal information you provide will be shared with the third parties you designate for access to such information including your friends, relatives and business associates. Depending upon the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. 
+When you use the Service, the personal information you provide will be shared with the third parties you designate for access to such information including other web sites, your friends, relatives and business associates. Depending upon the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. 
 
-Certain portions of the personal information you provide to us also may be displayed in your public profile. You will be given the opportunity to designate which portions of your personal information will be included in any such public profile. 
+Certain portions of the information you provide to us also may be displayed in your public profile. As an essential element of the services we offer, most of the personal information you explicitly provide to us when you register or update your profile is displayed on your public profile. In general, most of your travel related information, such as upcoming destinations and travel statistics, is displayed only to other TripIt members to whom you have specifically connected as part of your TripIt network. You can change your privacy settings to designate which types of information are shared and with whom by visiting the [Profile and Privacy](https://web.archive.org/account/edit/section/about_me) page. 
 
 In addition, we may share your personal information as follows: 
 
@@ -66,7 +66,7 @@ Other than as set out above, you will be notified when personal information abou
 
 Registration is optional. If you choose not to register, certain features of the Service and sections of our Site may be inaccessible but you will be able view the main pages of the Site. Registration and login are required to prepare an itinerary using our Service. 
 
-In the ["My Account"](https://web.archive.org/account/edit)section of the Site, you may make changes to your account and change your email address, password or contact information. You may also subscribe or unsubscribe for communications from us. Registration and login are required to access these account settings. 
+In the ["My Account"](https://web.archive.org/account/edit/section/email_settings) section of the Site, you may make changes to your account and change your email address, password, privacy settings, or contact information. You may also subscribe or unsubscribe for communications from us. Registration and login are required to access these account settings. 
 
 As we explain in more detail below, we use cookies to improve your experience with our service and reduce the time it takes for you to prepare an itinerary. You may choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please be aware, however, that by refusing to accept cookies, you will be unable to access a significant portion of the Site. 
 
@@ -75,7 +75,7 @@ As we explain in more detail below, we use cookies to improve your experience wi
 
 ###  Email Communication You Choose to Receive from Us 
 
-With the exception of emails confirming registration, emails that include information about your account, and emails relating directly to an itinerary or travel profile created through the Service, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you. For example: 
+With the exception of emails confirming registration, emails that include information about your account, invitation requests from other TripIt users, and emails relating directly to an itinerary or travel profile created through the Service, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you. For example: 
 
   * We will update you on any important functionality changes to our Service via email. 
   * We will keep you informed about TripIt promotions, sweepstakes, programs, etc., and other special offers that we think you will find valuable. 
@@ -85,11 +85,12 @@ With the exception of emails confirming registration, emails that include inform
 If you decide that you are no longer interested in receiving communications from us, you have several choices for opting out of future mailings: 
 
   * You may follow the instructions in our emails on how to unsubscribe yourself from our email list. 
-  * You may click on ["My Account"](https://web.archive.org/account/edit) at the top of any page on our Site and update your Email Subscription settings. 
+  * You may click on ["My Account"](https://web.archive.org/account/edit/section/email_settings) at the top of any page on our Site and update your Email Subscription settings. 
   * You may send us a letter at 444 De Haro Street, Suite 130, San Francisco, CA 94107. 
 
-  
 
+
+You may also permanently close your TripIt account from the My Account section of the site. In addition, you may request to be added to the TripIt "blacklist," which will prevent you from receiving future email from TripIt, for any reason. Send an email to support@tripit.com to request to be added to the blacklist. 
 
 ###  Cookies 
 
@@ -135,7 +136,7 @@ We collect, process, store, disclose and dispose of personal information that yo
 
 ###  Effective Date 
 
-This Privacy Policy was produced and posted on February 20, 2007. 
+This Privacy Policy was last revised May 29, 2008. 
 
   
 
