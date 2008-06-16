@@ -1,132 +1,133 @@
-<!--The following is the downloaded HTML source of the eddiebauer.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228121022id_/http%3A//www.eddiebauer.com/siteinfo/eb_security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eddiebauer.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617015154id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310%26nonav%3Dtrue) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript" src="/includes/i_RemoveRootCSOA.asp"></script>
-<script language="JavaScript">
-<!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><!-- Meta --><meta http-equiv="Content-Type" content="text/html; utf-8"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Cache-Control" content="no cache"><meta http-equiv="Pragma" content="no cache"><meta http-equiv="Expires" content="Mon, 22 Jul 2002 11:12:01 GMT"><link href="/favicon.ico" rel="Shortcut Icon"><!-- CSS --><link href="/css/css_include_overall.jsp" rel="stylesheet" type="text/css"><link href="/css/css_include_overall_print.jsp" rel="stylesheet" type="text/css" media="print"><!-- JavaScript --><script type="text/javascript">
+/*
+ * Calling this function points tags to the production database
+ */
 
-//document.writeln("<br>h_eb</br>")
+var cm_ClientID="30000102";
+cm_TrackLink        = "A";
 
-var acquiredquerystring = "";
-var allquerystring = "";
-var gotothisurl = "";
-var beginningofquerystring = "?";
-var allquerystring = window.parent.location.search;
-var serverPagePath = window.location.pathname;
-var currentpagename = serverPagePath.substring(serverPagePath.lastIndexOf('/') + 1);
-var redirectoccuring = false;
-
-var start = allquerystring.indexOf(beginningofquerystring);
-if (start == -1) acquiredquerystring = "?noquerystringdetected=true&badstart=true&cpn=" + currentpagename;   /* querystring not defined.*/
-var end = allquerystring.length;
-if (end == -1) acquiredquerystring = "?noquerystringdetected=true&badend=true&cpn=" + currentpagename;   /* querystring not defined.*/
-acquiredquerystring = allquerystring.substring(start, end) ;
-
-//add the current pages name and the referrer
-if (acquiredquerystring&&acquiredquerystring!="") {
-	acquiredquerystring += "&cpn=" + escape(currentpagename); }
-else {
-	acquiredquerystring += "?cpn=" + escape(currentpagename); }
-if (document.referrer&&document.referrer!="") { acquiredquerystring += "&ref=" + escape(document.referrer); }
-else { acquiredquerystring += "&ref=" }
-
-//redirect to www.
-if ( (document.domain == 'eddiebauer.com')&&(window.parent.location.href != '')&&(window.parent.location.href.indexOf('://eddiebauer.com') != -1) ) {
-	if (window.parent.location.href&&window.parent.location.href!="") {
-
-		// preserve original referrer information - //append referrer if it exists
-		if (window.parent.location.href.indexOf('referringurl')== -1) {
-			if (document.referrer&&document.referrer!="") {
-				if ((window.parent.location.href.indexOf(beginningofquerystring)!=-1)) {
-					gotothisurl = window.parent.location.href + "&";
-				}else{
-					gotothisurl = window.parent.location.href + "?";
-				}
-				gotothisurl = gotothisurl + "referringurl=" + escape(document.referrer+'');
-			} else {
-			gotothisurl = window.parent.location.href ;
-			}
-		} else {
-			gotothisurl = window.parent.location.href ;
-		}
-
-		//alert('gotothisurl='+gotothisurl);
-		rExp = /\:\/\/eddiebauer\.com/gi;
-		newString = new String ("://www.eddiebauer.com");
-		results = gotothisurl.replace(rExp, newString);
-		//alert(results);
-		window.parent.location.href=results;
-		redirectoccuring = true;
-	}
+function cmSetProduction(){
+	cm_HOST="data.coremetrics.com/eluminate?";
+	// cm_HOST="test.coremetrics.com/eluminate?";
 }
 
-//alert('>>' + acquiredquerystring);
-/*document.write("<sc" + "ript language=\"JavaScript\" src=\"/includes/i_RemoveRootCSOA.a" + "sp" + acquiredquerystring + "\"></sc"+"ript>");*/
-/*write out the tag.*/
-document.write("<sc" + "ript language=\"JavaScript\" src=\"/includes/i_SessionMonitorSOA.a" + "sp" + acquiredquerystring + "\"></sc"+"ript>");
+var pageURL = location.href.toLowerCase();
+   if ('true' == 'true')
+   {
+   	cm_ClientID = "30000102";
+   	cmSetProduction();
+   }
+   else if ('false'  == 'true')
+   {
+   	cm_ClientID = "30000102";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+   else if  ('false'  == 'true')
+   {
+   	cm_ClientID = "90081908";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+	else if  ('false'  == 'true')
+   {
+   	cm_ClientID = "90082045";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+	else if  ('false'  == 'true')
+   {
+   	cm_ClientID = "90062043";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+	else if  ('false'  == 'true')
+   {
+   	cm_ClientID = "90062180";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+   else if  ('false'  == 'true')
+   {
+   	cm_ClientID = "90062043";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
+	else
+   {
+   	cm_ClientID = "90062043";
+   	cm_HOST="test.coremetrics.com/eluminate?";
+   }
 
-//-->
-</script><script language="JavaScript" src="/includes/i_SessionMonitorSOA.asp?cpn=eb_security.asp&amp;ref="></script>
-
-
-<script>
 function GetCMToolID(){
 	var cmToolID = "";
-	return cmToolID; 
+	return cmToolID;
 }
 
 function GetCMInitCat(){
 	var cmInitCat = "";
-	return cmInitCat; 
+	return cmInitCat;
 }
 
 function GetCMCatID(){
 	var cmCatID = "";
-	return cmCatID; 
+	return cmCatID;
 }
 
+                                                      
 function CMTracking(url){
 	var cmToolID = GetCMToolID();
-	var cmInitCat = GetCMInitCat();	
-	var cmCatID = GetCMCatID();	
-	var CM_ReferringURL;
-	CM_ReferringURL = window.location.href;
-	CM_ReferringURL = CM_ReferringURL.split("&referringurl=");
-   	CM_ReferringURL = CM_ReferringURL[0].split("?referringurl=");
-	
-	if (((cmToolID!='') && (cmInitCat!='')) || (cmCatID!='')){
-		//Get Tool ID and intial category for tracking
-		if ((cmCatID!='') && (cmInitCat=='') && (cmToolID=='')) {
-			if (cmCatID.indexOf('T')>-1){
-				arrCMTemp = cmCatID.split('C');
-				if (arrCMTemp.length>1) {
-					cmToolID = arrCMTemp[0];
-					cmToolID = cmToolID.substring(1,cmToolID.length);
-					cmInitCat = arrCMTemp[1];
-				}
-			}
-		}
-		//Update Link
-		if (url.indexOf('?')>-1){
-			url = url + '&tid=' +  cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
-		}
-		else{ 
-			url = url + '?tid=' + cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
-		}
-	}
-	//Redirect
-	document.location.href=url;
-}
-
-function CMTrackingURL(url){
-	var cmToolID = GetCMToolID();
-	var cmInitCat = GetCMInitCat();	
+	var cmInitCat = GetCMInitCat();
 	var cmCatID = GetCMCatID();
 	var CM_ReferringURL;
 	CM_ReferringURL = window.location.href;
 	CM_ReferringURL = CM_ReferringURL.split("&referringurl=");
-   	CM_ReferringURL = CM_ReferringURL[0].split("?referringurl=");
-	
+   CM_ReferringURL = CM_ReferringURL[0].split("?referringurl=");
+
+	if (((cmToolID!='') && (cmInitCat!='')) || (cmCatID!='')){
+		//Get Tool ID and intial category for tracking
+		if ((cmCatID!='') && (cmInitCat=='') && (cmToolID=='')) {
+			if (cmCatID.indexOf('T')>-1){
+				arrCMTemp = cmCatID.split('C');
+				if (arrCMTemp.length>1) {
+					cmToolID = arrCMTemp[0];
+					cmToolID = cmToolID.substring(1,cmToolID.length);
+					cmInitCat = arrCMTemp[1];
+				}
+			}
+		}
+		//Update Link
+
+		if (url.indexOf('?')>-1){
+			url = url + '&tid=' +  cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
+//alert('1');
+		}
+		else{
+			url = url + '?tid=' + cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
+//alert('2');
+		}
+	}
+	else
+	{
+		if (url.indexOf('?')>-1){
+			url = url + '&referringurl=' + escape(CM_ReferringURL);
+		}
+		else{
+		url = url + '?referringurl=' + escape(CM_ReferringURL);
+		}
+	}
+	//Redirect
+//alert(url);
+	document.location.href=url;
+}
+
+
+function CMTrackingURL(url){
+	var cmToolID = GetCMToolID();
+	var cmInitCat = GetCMInitCat();
+	var cmCatID = GetCMCatID();
+	var CM_ReferringURL;
+	CM_ReferringURL = window.location.href;
+	CM_ReferringURL = CM_ReferringURL.split("&referringurl=");
+   CM_ReferringURL = CM_ReferringURL[0].split("?referringurl=");
+
 	if (((cmToolID!='') && (cmInitCat!='')) || (cmCatID!='')){
 		//Get Tool ID and intial category for tracking
 		if ((cmCatID!='') && (cmInitCat=='') && (cmToolID=='')) {
@@ -143,457 +144,1214 @@ function CMTrackingURL(url){
 		if (url.indexOf('?')>-1){
 			url = url + '&tid=' +  cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
 		}
-		else{ 
+		else{
 			url = url + '?tid=' + cmToolID + '&c=' + cmInitCat + '&referringurl=' + escape(CM_ReferringURL);
 		}
 	}
 	return url;
 }
-</script><script>
-var strPartnerLogo='';
-var searchBoxY=69;
-var soa_key='';
-var bikky = document.cookie;
-var k=bikky.indexOf("oessoanow=",1);
-var soa = bikky.substr(k,17);
-var soa_key = soa.substr(10,7);
-var Partner_SOA = new Array(1)
-var iIdx=0;
-var Partner_HTML_Tx='';
-var cookieSOACurrent=soa_key;
-Partner_SOA[0] = new Array('6046185','upromise_no_offer.gif','','','"');
-for(i=0; i<Partner_SOA.length;i++){
-if (cookieSOACurrent==Partner_SOA[i][0]){
-var SOA_Key = Partner_SOA[i][0];
-var Image_Nm = Partner_SOA[i][1];
-var Image_Map_Tx = Partner_SOA[i][2];
-searchBoxY=106;
-strPartnerLogo ='<img src=/assets/images/partners/' + Image_Nm + ' ' + 'usemap=#m_partner' + ' border=0' +'>';
-}
-}
-</script>
 
-<script language="JavaScript">
-var target = ''
-<!--
-// This script will break the site out of a hotmail frameset
-var checkFrame = (top == self);
-var arrExceptionURLs = new Array("www.msn.com","eddiebauer.com","upromise.com","schoolpop.com","yourshops.ca","ebates.com","evite.com","shopathomeselect.com","igive.com","milesource.com");
-var boolException;
-var strUrl;
-strUrl = document.referrer.toString();
-strUrl = strUrl.toLowerCase();
-boolException=false;
-if (!checkFrame) {
-	for (var k=0; k<arrExceptionURLs.length; k++){
-		if (strUrl.indexOf (arrExceptionURLs[k]) > -1){
-			boolException =true;
-		}
+function SetCookie (name,value,expires,path,domain,secure) {
+   // set time, it's in milliseconds
+   	var today = new Date();
+   	today.setTime( today.getTime() );
+
+   	/*
+   	if the expires variable is set, make the correct
+   	expires time, the current script below will set
+   	it for x number of days, to make it for hours,
+   	delete * 24, for minutes, delete * 60 * 24
+   	*/
+   	if ( expires )
+   	{
+   	expires = expires * 1000 * 60 * 60 * 24;
+   	}
+   	var expires_date = new Date( today.getTime() + (expires) );
+
+  		document.cookie = name + "=" + value +
+		 ((expires) ? "; expires=" + expires_date.toGMTString() : "") +
+		 ((path) ? "; path=" + path : "") +
+		 ((domain) ? "; domain=" + domain : "") +
+		 ((secure) ? "; secure" : "");
+}
+
+function GetCookie( name ) {
+var start = document.cookie.indexOf( name + "=" );
+var len = start + name.length + 1;
+if ( ( !start ) &&
+( name != document.cookie.substring( 0, name.length ) ) )
+{
+return null;
+}
+if ( start == -1 ) return null;
+var end = document.cookie.indexOf( ";", len );
+if ( end == -1 ) end = document.cookie.length;
+return unescape( document.cookie.substring( len, end ) );
+}
+			
+
+function DelCookie (name, path, domain) {
+
+// The function simply checks to see if the cookie is set.
+// If so, the expiration date is set to Jan. 1st 1970.
+	if ( GetCookie( name ) ){
+	 document.cookie = name + "=" +
+( ( path ) ? ";path=" + path : "") +
+( ( domain ) ? ";domain=" + domain : "" ) +
+";expires=Thu, 01-Jan-1970 00:00:01 GMT";
 	}
-	if (boolException==false) {
-		top.location.href = window.location.href;
+}
+
+function showTabCom(objComDivId) {
+     var imgPath = "/assets/images/shopping/";
+     var objComDivArr = new Array("tab-more-info","tab-files","tab-email-friend","tab-products");
+     for (i = 0; i < objComDivArr.length; i++) {
+          if (document.getElementById(objComDivArr[i] + "-img")) {
+               document.getElementById(objComDivArr[i] + "-img").src = imgPath + objComDivArr[i] + "-off.gif";
+               document.getElementById(objComDivArr[i]).style.display = "none";
+          }
+     }
+     document.getElementById(objComDivId + "-img").src = imgPath + objComDivId + ".gif";
+     document.getElementById(objComDivId).style.display = "block";
+}
+
+utilityBrowserVer = parseInt(navigator.appVersion);
+
+function imgOn(imgName) {
+  	if (utilityBrowserVer >= 3) {
+		imgOnString = eval(imgName + "_on.src");
+		document.images[imgName].src = imgOnString;
 	}
 }
 
-function openSoaPopup(soa_key){
-	var CM_ReferringURL;
-	CM_ReferringURL = window.location.href;
-	CM_ReferringURL = CM_ReferringURL.split("&referringurl=");
-	CM_ReferringURL = CM_ReferringURL[0].split("?referringurl=");
-	window.open(('/shop/jump/pop_up_soa.asp?soa_key='+soa_key+'&ReferringUrl='+CM_ReferringURL), 'Details', 'scrollbars,resizable,alwaysRaised,width=400,height=325,left=75,top=75');
-}
--->
-</script>
-
-
-
-
-
-<title>
-Eddie Bauer - EST. 1920
-</title>
-<meta name="description" content="Inspired by the Northwest since 1920, Eddie Bauer is your source for casual, comfortable apparel and gear.">
-<meta name="keywords" content="eddie bauer, eddiebauer.com, apparel, shop, shopping, store, catalog, retail, order, online, clothes, clothing, shirt, tee, turtleneck, cotton, chino, chinos, khaki, khakis, pants, jeans, sweater, dress, socks, shoes, sandals, boots, hat, gloves, shorts, jacket, outerwear, goose down, leather, accessories, underwear, luggage, gear, footwear, women's, men's, kids, kid's, clothing, clothes, shopping, fleece, boots, backpacks, packs, shirts, pants, shorts, sweaters, swim, golf, outdoor, lifestyle, spring, summer, fall, winter, holiday, christmas, shopping, gift, present, clothing, women's clothes, men's clothes, sale, weekly specials, casual, business casual, bathing suit, swimsuit, Gore-Tex, goretex, polartec, petite, tall, extra large, extended size, waterproof, comfortable, quality, classic, flannel, denim, wrinkle resistant, cashmere, EBtek, AKA, home, bedding, sheets, comforter, pillows, towels, furniture, Legends, guarantee">
-
-
-<script language="JavaScript" type="text/javascript" src="/js/flash_detect.js"></script>
-<script language="JavaScript" src="/js/browser_functions.js"></script>
-<script language="JavaScript" src="/js/dropdown_functions.js"></script>
-<script language="JavaScript" src="/js/popup_functions.js"></script>
-<script language="JavaScript" src="/js/login_functions.js"></script>
-<script language="JavaScript" src="/js/eb_stylesheets.js"></script><link rel="stylesheet" type="text/css" href="/css/netscape.css" title="master">
-<script language="JavaScript" src="/js/eb_search.js"></script>
-<script language="JavaScript">
-	//kiosk logic
-	var inKiosk = readCookie('NYCkiosk');
-	//if (inKiosk) { alert('Kiosk cookie found:'+ inKiosk); }
-
-	function disableAtKiosks(theid) {
-	   if ((inKiosk)&&(theid)) {
-	   //alert(theid)
-		if (document.getElementById) {
-			document.getElementById(theid).innerHTML='';
-			document.getElementById(theid).visibility="hidden";
-		}
-		else if(document.all) {
-			document.all.theid.innerHTML='';
-			document.all.theid.visibility="hidden";
-		}
-	   }//valid args
+function imgOff(imgName) {
+	if (utilityBrowserVer >= 3) {
+		imgOffString = eval(imgName + "_off.src");
+		document.images[imgName].src = imgOffString;
 	}
+}
+
+function goToLink(address) {
+	var linkURL = address.options[address.selectedIndex].value;
+	window.top.location.href = linkURL;
+	address.selectedIndex=0;
+}
+
+function changeLocation(newLoc) {
+	window.location.href =newLoc;
+}
+
+/*
+ * This function launches a new web browser window to a specified width, height and features.
+ * Features string is a comma separated window's feature needed for this new window. For Instance
+ * If a new window needs a toolbar the feature string must be "toolbar" like needs scroll bar and
+ * and toolbar then it must be "toolbar,scrollbar". Note that the order of the feature is not required.
+ * Also it's case insensitive. Therefore, "scrollbar,toolbar" is identical to "Toolbar,ScrollBar".
+ *
+ * If the features string is ommitted then all the features are turned off. To turn all the features on
+ * use the word "all" for features instead of specifying each feature.
+ */
+
+function openWindow(address, width, height,features)
+{
+	/* Find out what features need to be enable
+	 *
+   */
+	if(features)
+		features = features.toLowerCase();
+	else
+		features = "";
+
+	var toolbar = (features == "all" ? 1 : 0);
+	var menubar = (features == "all" ? 1 : 0);
+	var location = (features == "all" ? 1 : 0);
+	var directories = (features == "all" ? 1 : 0);
+	var status = (features == "all" ? 1 : 0);
+	var scrollbars = (features == "all" ? 1 : 0);
+	var resizable = (features == "all" ? 1 : 0);
 
 
-	function GoToPage(link)
+	if(features != "all")
+	{
+		//split features
+		var feature = features.split(",");
+		for(i = 0; i < feature.length; i++)
 		{
-			var refer = escape(window.location.href);
-			var foundatposition;
-			foundatposition = refer.indexOf("referringurl");
-			if (foundatposition != -1)
-			{
-				refer = refer.substr(0,foundatposition-1)
-			}
-			var url=link + "&referringurl=" + refer;
-			window.parent.location.href=url;
-	}
+		 	if(feature[i] == "toolbar")
+			   toolbar = 1;
+			else if(feature[i] == "menubar")
+			   menubar = 1;
+			else if(feature[i] == "location")
+			   location = 1;
+			else if(feature[i] == "directories")
+			   directories = 1;
+			else if(feature[i] == "status")
+			   status = 1;
+			else if(feature[i] == "scrollbars")
+			   scrollbars = 1;
+			else if(feature[i] == "resizable")
+			   resizable = 1;
+		}
 
-	//GWP onload logic
-	 function PageQuery(q) {
-	if(q.length > 1) this.q = q.substring(1, q.length);
-	else this.q = null;
-	this.keyValuePairs = new Array();
-	if(q) {
-	for(var i=0; i < this.q.split("&").length; i++) {
-	this.keyValuePairs[i] = this.q.split("&")[i];
 	}
-	}
-	this.getKeyValuePairs = function() { return this.keyValuePairs; }
-	this.getValue = function(s) {
-	for(var j=0; j < this.keyValuePairs.length; j++) {
-	if(this.keyValuePairs[j].split("=")[0] == s)
-	return this.keyValuePairs[j].split("=")[1];
-	}
-	return false;
-	}
-	this.getParameters = function() {
-	var a = new Array(this.getLength());
-	for(var j=0; j < this.keyValuePairs.length; j++) {
-	a[j] = this.keyValuePairs[j].split("=")[0];
-	}
-	return a;
-	}
-	this.getLength = function() { return this.keyValuePairs.length; }
-	}
-	function queryString(key){
-	var page = new PageQuery(window.location.search);
-	return unescape(page.getValue(key));
+	features = "toolbar=" + toolbar + ",";
+	features += "menubar=" + menubar + ",";
+	features += "location=" + location + ",";
+	features += "directories=" + directories + ",";
+	features += "status=" + status + ",";
+	features += "scrollbars=" + scrollbars + ",";
+	features += "resizable=" + resizable;
+
+	var newWindow = window.open(address, 'Popup_Window', 'width=' + width + ',height=' + height + ',"' + features + '"');
+	newWindow.focus();
 }
 
-</script>
-<script>
-	if (strPartnerLogo!=""){
-		document.writeln('<body bgcolor="#FFFFFF" background="/assets/nv/default/background_1.gif" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">')
-	}else{
-		document.writeln('<body bgcolor="#FFFFFF" background="/assets/nv/default/background.gif" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">')
+function confirmWindow(url, text) {
+
+	if (confirm(text)) {
+		window.go = url;
+		window.location = url;
 	}
-</script></head>
+}
 
-<!--<body bgcolor="#FFFFFF" link="#00FF00" vlink="#00FF00" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">-->
-<!--<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">-->
-<body bgcolor="#FFFFFF" background="/assets/nv/default/background.gif" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+function setAddTo(addToType) {
+	document.productForm.addTo.value = addToType;
+}
 
+// This is an example of sending product data from the server
+// to the client, then formatting the variants on the client-side
+// based on certain criteria.
+function cbFormatter(list, attribute, opt)
+{
+	// Get the price for this variant.. If this is the primary list, get all related
+	// variants from the group and get their prices as well so we can build a range.
+	var pvds = list.productVariantDropdownSupport;
 
-<center>
-<!-- BEGIN NEW HEADER CODE -->
+	// Get all of the product variants for this attribute
+	var variantGroup = attribute.getVariant().getProductVariantGroup();
+	var groupVariants = variantGroup.getAllVariants();
 
-	<script language="javascript" src="/coremetrics/v31/eluminate.js"></script>
-	
-	<script language="javascript">
-	<!--
-	/* cm_Pageview.asp Data-Tag v3.1 03/05/2002 . */
-	/* variables begin here */
-	var cm = new _cm("tid", "1", "vn2", "e3.1");
-	var QSReferringURL
-	QSReferringURL = "";
-	if (QSReferringURL == ""){
-		cm.rf = document.referrer;
+	// Are all of the prices the same within the group?
+	var lowGroupPrice = 999999.00;
+	var highGroupPrice = -1.00;
+
+	for (var idx = 0; idx < groupVariants.length; idx++)
+	{
+      lowGroupPrice = groupVariants[idx].numericPrice < lowGroupPrice ? groupVariants[idx].numericPrice : lowGroupPrice;
+		highGroupPrice = groupVariants[idx].numericPrice > highGroupPrice ? groupVariants[idx].numericPrice : highGroupPrice;
+   }
+
+	// Are all of the prices the same within the variant?
+	var variants = variantGroup.getVariantsMatching(attribute.name, attribute.value);
+	var lowVariantPrice = 999999.00;
+	var highVariantPrice = -1.00;
+
+	var lowVariantDisplay = variants[0].displayPrice;
+	var highVariantDisplay = variants[0].displayPrice;
+
+   for (var idx = 0; idx < variants.length; idx++)
+   {
+		// Display really needs to be done before the re-assignment...
+      lowVariantDisplay = variants[idx].numericPrice < lowVariantPrice ? variants[idx].displayPrice : lowVariantDisplay;
+      lowVariantPrice = variants[idx].numericPrice < lowVariantPrice ? variants[idx].numericPrice : lowVariantPrice;
+      highVariantDisplay = variants[idx].numericPrice > highVariantPrice ? variants[idx].displayPrice : highVariantDisplay;
+		highVariantPrice = variants[idx].numericPrice > highVariantPrice ? variants[idx].numericPrice : highVariantPrice;
+   }
+
+	if (lowGroupPrice != highGroupPrice)
+	{
+		// Primary list should display a range
+		if (pvds.isPrimary)
+			if (lowVariantPrice != highVariantPrice)
+				opt.text = opt.text + " " + lowVariantDisplay + " - " + highVariantDisplay;
+			else
+				opt.text = opt.text + " " + attribute.getVariant().displayPrice;
+		else  // Secondary lists should show exact price
+			opt.text = opt.text + " " + attribute.getVariant().displayPrice;
 	}
-	else{
-		cm.rf = QSReferringURL;
-	}
-	cm.pi = "/siteinfo/eb-security.asp";
-	cm.se = "";
-	cm.cg = "";
-	cm.li = "1";
-	cm.ps1 = "10.74.10.104";
-	cm.ps2 = "/siteinfo/eb-security.asp";
-	/* variables end here */
-	cm.writeImg();
-	//-->
-	</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?tid%3D1%26ci%3D30000102%26vn2%3De3.1%26pi%3D/siteinfo/eb-security.asp%26li%3D1%26ps1%3D10.74.10.104%26ps2%3D/siteinfo/eb-security.asp%26vn1%3De3.1%26rnd%3D2917189%26ul%3Dhttps%253A//web.archive.org/web/20051228121022id_/http%25253A//www.eddiebauer.com/siteinfo/eb_security.asp%26ts%3DYes%26tp%3DYes">
-	<noscript>
-	<IMG width="1" height="1" src="http://data.coremetrics.com/eluminate?pt=C&vn1=e3.1&vn2=e3.1&ci=30000102&rf=&ul=&pn=&pi=&cn=&sc=&vi=&fn=&ln=&ag=&gd=&ad1=&ad2=&ct=&sa=&zp=&cy=&th=&be=&nl=&sd=&hf=&s1=&s2=&s3=&s4=&s5=&s6=&n1=&n2=&n3=&n4=&n5=&n6=&ps1=&ps2=&pn1=&pn2=&a1=&a2=&a3=&pa=&pc=&ts=&tp=&rnd=">
-	</noscript>
 
-<map name="m_header">
-<area shape="rect" coords="15,12,205,47" href="javascript:GoToPage('http://www.eddiebauer.com/eb/default.asp?lp=h1')" title="eb" alt="eb">
-<area shape="rect" coords="383,23,462,41" href="javascript:GoToPage('http://www.eddiebauer.com/eb/shoppingcart.asp?lp=h2a')" title="shopping cart" alt="shopping cart">
-<area shape="rect" coords="485,23,534,41" href="javascript:GoToPage('http://www.eddiebauer.com/eb/wishlist_list.asp?nv=22431&amp;lp=h2b')" title="wish list" alt="wish list">
-<area shape="rect" coords="557,23,627,40" href="javascript:GoToPage('http://www.eddiebauer.com/eb/member_account.asp?nv=22431&amp;lp=h2c')" title="your account" alt="your account">
-<area shape="rect" coords="651,23,747,40" href="javascript:GoToPage('http://www.eddiebauer.com/eb/custserv/ae_splash.asp?nv=22376&amp;lp=h2d')" title="customer service" alt="customer service">
-<area shape="rect" coords="721,64,758,80" href="javascript:if(validateSearchInput(document.searchform.searchstring.value)){document.searchform.submit();}" title="search" alt="search">
-<area shape="rect" coords="292,64,338,80" href="javascript:GoToPage('http://www.eddiebauer.com/eb/category.asp?nv=5&amp;lp=h3c')" title="gear" alt="gear">
-<area shape="rect" coords="150,64,274,80" href="javascript:GoToPage('http://www.eddiebauer.com/eb/cat_splash.asp?nv=23209&amp;lp=h3e')" title="shoes and accessories" alt="shoes and accessories">
-<area shape="rect" coords="74,64,125,80" href="javascript:GoToPage('http://www.eddiebauer.com/eb/category.asp?nv=3&amp;lp=h3b')" title="women" alt="women">
-<area shape="rect" coords="17,64,62,81" href="javascript:GoToPage('http://www.eddiebauer.com/eb/category.asp?nv=2&amp;lp=h3a')" title="men" alt="men">
-</map><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td align="center">
-<script language="JavaScript">
-	if (strPartnerLogo!="") {
-		document.writeln(Image_Map_Tx);
-		var browser_nm = navigator.appName.toLowerCase();
-		var browser_pf = navigator.platform.toLowerCase();
-		if(browser_nm!="netscape"){
-			if(browser_pf=='macppc'){
-				document.writeln("<img src=\"/assets/images/shim.gif\" width=\"760\" height=\"8\"><br>");
-			}else{
-				document.writeln("<img src=\"/assets/images/shim.gif\" width=\"760\" height=\"6\"><br>");
-			}
-		}else{
-			document.writeln("<img src=\"/assets/images/shim.gif\" width=\"760\" height=\"8\"><br>");
-		}
-		document.writeln(strPartnerLogo);
+   return opt;
+}
+
+/* This function is called when a subject is changed so that actual subject text can be
+* stored in to a hidden subject field. Since value of the subject list is a keyword define
+* in the command configuration file to identify it's email address.
+*/
+function setSubject(thisRef)
+{
+    var formRef = document.forms["contactUsForm"];
+    //set subject value
+    formRef.elements["subject"].value = (thisRef.options[thisRef.selectedIndex]).text;
+}
+
+/* Purpose:endeca search redirect, function used in header, left nav, no results page etc
+*/
+function search(formName,keywordFieldName,catdimensionFieldName){
+    var keywords = document.forms[formName].elements[keywordFieldName].value;
+    var deptSelector = document.forms[formName].elements[catdimensionFieldName];
+    var department='0'; //default
+    var name = 'All';
+    var deptFlag = "";
+    if ((deptSelector!==null) && (deptSelector.length>0)){
+        department = deptSelector[deptSelector.options.selectedIndex].value;
+        name = deptSelector[deptSelector.options.selectedIndex].text;
+        deptFlag = "&sel=1";
+    }
+    var url = "";
+    resetCookie('srch_cmp_products','',1);
+    if (keywords != "") {
+    	  sku = detectSkuPattern(keywords);
+    	  if(sku != ""){
+    	    resetCookie('EOB_Search',keywords, 1);
+    	  	processEOBSKU(sku);
+    	  	return false;
+		  } else {
+			  keywords = encodeURIComponent(keywords);
+
+			  url = "catalog/search.jsp?N=" + department + "&Ntk=IALL&Ntt=" + keywords + "&Nr=REG%3aY" + "&Nty=1&Ntx=mode+matchpartialmax&D=" + keywords + "&Dx=mode+matchpartialmax&cm_se=" + keywords + "_" + name + "&init=1" + deptFlag;
+			  if (!isNaN(keywords)) url += "&skuSearch=Y";
+			  location.href = "http://www.eddiebauer.com/" + url + "";
+			  return false;
+		 }
+    }else{
+        if (keywords==''){
+            alert('Please enter a keyword.');
+        }
+        return false;
+    }
+}
+
+function searchEndeca(formName,keywordFieldName,catdimensionFieldName, path){
+	var keywords = document.forms[formName].elements[keywordFieldName].value;
+	var deptSelector = document.forms[formName].elements[catdimensionFieldName];
+	var department='0'; //default
+	var name = 'All';
+	var deptFlag = "";
+	if ((deptSelector!==null) && (deptSelector.length>0)){
+		department = deptSelector[deptSelector.options.selectedIndex].value;
+		name = deptSelector[deptSelector.options.selectedIndex].text;
+		deptFlag = "&sel=1";
+	}
+	var url = "";
+	resetCookie('srch_cmp_products','',1);
+	if (keywords != "") {
+		sku = detectSkuPattern(keywords);
+		if(sku != ""){
+			processEOBSKU(sku);
+			return false;
+		} else {
+			keywords = encodeURIComponent(keywords);
+			url = "catalog/search.jsp";
+			//path = path + "?dest=EndecaSearch&N=" + department + "&Ntk=IALL&Ntt=" + keywords + "&Nr=REG%3aY" + "&Nty=1&Ntx=mode+matchpartialmax&D=" + keywords + "&Dx=mode+matchpartialmax&cm_se=" + keywords + "_" + name + "&init=1" + deptFlag;
+			url = url + "?N=" + department + "&Ntk=IALL&Ntt=" + keywords + "&Nr=REG%3aY" + "&Nty=1&Ntx=mode+matchpartialmax&D=" + keywords + "&Dx=mode+matchpartialmax&cm_se=" + keywords + "_" + name + "&init=1" + deptFlag;
+
+			if (!isNaN(keywords))
+				url += "&skuSearch=Y";
+
+			path += "?env=unsecure&dest=" + encodeURIComponent(url);
+			document.endecaSearchForm.action = path;
+			document.endecaSearchForm.method = "POST";
+			return true;
+		 }
 	} else {
-		document.writeln("<img src=\"/assets/images/shim.gif\" width=\"760\" height=\"8\"><br>");
+		if (keywords==''){
+			 alert('Please enter a keyword.');
+		}
+		return false;
 	}
-	if (document.images) { 
-	  var go_button_up = new Image();go_button_up.src = '/Search/images/go_button.jpg';var go_button_over = new Image();go_button_over.src = '/Search/images/go_button_over.jpg';
-	}
-</script><img src="/assets/images/shim.gif" width="760" height="8"><br>
+}
 
-</td>
-</tr>
-<tr>
-<td class="background_main">
-<img border="0" src="/assets/images/shim.gif" width="762" height="88" usemap="#m_header">
-<div style="position:absolute;white-space: nowrap;"><form name="searchform" method="post" action="/eb/searchresults.asp?lp=h4" onsubmit="return validateSearchInput(document.searchform.searchstring.value);" target="_parent"></form></div>
-<div id="divSearchBox" style="position: absolute; visibility: visible; white-space: nowrap; top: 69px; left: 813px;"><select id="catdimension" name="catdimension" class="search" style="width:100px; font-family: Tahoma; font-size: 11px;"><option value="0">Entire Site</option><option value="200002">Men</option><option value="200003">Women</option><option value="200005">Gear</option><option value="100010">Customer Service</option></select>&nbsp;&nbsp;<input class="search" style="width:100px; font-family: Tahoma; font-size: 11px;" value="" maxlength="35" name="searchstring" size="16" onfocus="if(this.value==' Enter Keyword or Item # '){this.value=''};" onblur="if(this.value==''){this.value=''};"></div>
-</td>
-<script language="JavaScript">
-<!--
-// javascript code to place search box in the div area
-var page_width = 0;
-function setLocation(div_id,top_value,left_value) {
-   if (document.body.scrollWidth) {
-      div_style = document.getElementById(div_id).style;
-      div_style.position = 'absolute';
-      div_style.top = top_value;
-      div_style.left = (page_width/2) + left_value;
-      div_style.visibility = 'visible';
+function detectSkuPattern(keyword){
+		var cleanedKeyword =  replace(keyword, " ", "");
+		cleanedKeyword = replace(cleanedKeyword, "#", "");
+		cleanedKeyword = replace(cleanedKeyword, "-", "") ;
+
+		var reg = new RegExp("\\w{1,}\\d{2,}\\d{3,}\\w{4,}");
+		if (reg.test(cleanedKeyword)){
+		  return cleanedKeyword;
+		}else{
+  			return "";
+  		}
+
+}
+
+function processEOBSKU(sku){
+	if (sku != "" && sku.length > 9) {
+		dept = sku.slice(0, 3);
+		effort = sku.slice(3, 6);
+		item = sku.slice(6, 10);
+		var formatErrorsKey = validateSkuFormatClient(dept, effort, item);
+		if(formatErrorsKey == ""){
+		 
+		}
+		sendEOBToPage(dept, effort, item, formatErrorsKey, "Previous Page");
+	}
+}
+
+
+/* read cookies
+*/
+function readCookie(name)
+{
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++)
+	{
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return unescape(c.substring(nameEQ.length,c.length));
+	}
+	return null;
+}
+
+/* Create Cookie
+*/
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+/* Clear Cookie
+*/
+function resetCookie(cookieName,cookieValue,duration){
+    createCookie(cookieName,cookieValue,duration);
+}
+
+/*
+ * Modifies the Country dropdown box, based on value
+ * selected in the state dropdown box.
+ */
+function ChangeCountryByState(stateCode, countryFieldId) {
+    var optionValue = "";
+
+    if (stateCode == "AB" || stateCode == "BC" || stateCode == "MB"
+             || stateCode == "NB" || stateCode == "NF" || stateCode == "NS"
+             || stateCode == "NT" || stateCode == "NU" || stateCode == "ON"
+             || stateCode == "PE" || stateCode == "PQ" || stateCode == "SK"
+             || stateCode == "YT") {
+        optionValue = "CAN";
+    } else if (stateCode == "C1" || stateCode == "C2" || stateCode == "C3"
+             || stateCode == "C4" || stateCode == "C5" || stateCode == "C6"
+             || stateCode == "") {
+        optionValue = "";
+    } else {
+        optionValue = "USA";
+    }
+
+    if (document.getElementById) {
+        var element = document.getElementById(countryFieldId);
+
+        if (element) {
+            element.value = optionValue;
+        }
+    } else if (document.all) {
+        var element = document.all[countryFieldId];
+
+        if (element) {
+            element.value = optionValue;
+        }
+    } else if (document.layers) {
+        var element = document.layers[countryFieldId];
+
+        if (element) {
+            element.value = optionValue;
+        }
+    }
+
+	if (stateCode == "AA" || stateCode == "AE" || stateCode == "AP") {
+		// Enable the div.
+		// Print the Text "United States is the appropriate choice for military addresses."
+		textDivElement = document.getElementById("millitary_address_text");
+		textDivElement.style.display = "block";
+	} else {
+		// Disable the div
+		// Remove the Text.
+		textDivElement = document.getElementById("millitary_address_text");
+		textDivElement.style.display = "none";
+	}
+}
+
+/*
+ * Modifies the State dropdown box, based on value
+ * selected in the Country dropdown box.
+ */
+function ChangeStateByCountry(countryCode, stateFieldId) {
+    var optionValue = "";
+
+    if (countryCode == "CAN" || countryCode == "USA" || countryCode == "") {
+       optionValue = "";
+    } else {
+        optionValue = "C6";
+    }
+
+    if (document.getElementById) {
+        var element = document.getElementById(stateFieldId);
+
+        if (element) {
+            element.value = optionValue;
+        }
+    } else if (document.all) {
+        var element = document.all[stateFieldId];
+
+        if (element) {
+            element.value = optionValue;
+        }
+    } else if (document.layers) {
+        var element = document.layers[stateFieldId];
+
+        if (element) {
+            element.value = optionValue;
+        }
+    }
+}
+
+/*
+ * Set the Country dropdown box, value as United States
+ * if its value is "click to select" when page is loaded.
+ */
+function loadCountry(countryFieldId) {
+    if (document.getElementById) {
+        var element = document.getElementById(countryFieldId);
+
+        if (element && (element.value == "" || element.value == null)) {
+            element.value = "";
+        }
+    } else if (document.all) {
+        var element = document.all[countryFieldId];
+
+        if (element && (element.value == "" || element.value == null)) {
+            element.value = "";
+        }
+    } else if (document.layers) {
+        var element = document.layers[countryFieldId];
+
+        if (element && (element.value == "" || element.value == null)) {
+            element.value = "";
+        }
+    }
+}
+
+/*
+* autotab feature used by all eob entry forms
+*/
+function eobAutotab(originalFld,destinationFld,num){
+    var original=document.getElementById(originalFld);
+    var destination=document.getElementById(destinationFld);
+    if (original.value.length==num){
+        destination.focus();
+        destination.select();
+    }
+}
+
+function getBaseURL() {
+	var isSecure = 'false';
+	if(isSecure == "true"){
+		return 'https://www.eddiebauer.com';
+	} else {
+		return 'http://www.eddiebauer.com';
+	}
+}
+
+function getImageBaseURL(){
+    return 'http://s7d2.scene7.com/is/image/EddieBauer/';
+}
+
+function getShoppingBagUrl() {
+	var isSecure = 'false';
+
+if(isSecure == "true"){
+		return 'https://www.eddiebauer.com/checkout/bag.jsp';
+	} else {
+	  return 'https://www.eddiebauer.com/checkout/bag.jsp';
    }
 }
 
-function setAllLocations() {
-   if (page_width != document.body.scrollWidth) {
-      page_width = document.body.scrollWidth;
-   	if (strPartnerLogo!="")
-   		setLocation('divSearchBox',104,130); // adjustment
-   	else
-   		setLocation('divSearchBox',69,130); // adjustment
-   			
-   }	
-   setTimeout("setAllLocations();",100);
+function getModalsdir(){
+var isSecure = 'false';
+
+if(isSecure == "true"){
+	return 'https://www.eddiebauer.com/ajax/';
+} else {
+	return 'http://www.eddiebauer.com/ajax/';
+}
 }
 
-setAllLocations();
-//-->
-</script>
+/*
+ * popup a FAQ window and jump to the designated section
+ */
+function PopUpFAQ(section){
+    openWindow('/custserv/faq_contents.jsp'+section, 500, 500, 'all');
+}
 
 
+/** On return key down, click the specified button...not the first button on page */
+function returnKeyHandler(event, buttonId) {
+    if (event) {
+        // process only the Enter key
+        if (event.keyCode == 13) {
+            var buttonToClick = undefined;
 
-<!-- Build the Breadcrumb -->
-</tr></tbody></table><table border="0" cellpadding="7" cellspacing="0" width="762" bgcolor="#FFFFFF"><tbody><tr><td width="100%" style="padding-left:23px;"><font class="breadcrumb" valign="top"><a href="/default.asp?lp=h5a" class="breadcrumb">Homepage</a>&nbsp;&nbsp;»&nbsp;&nbsp;Privacy Policy&nbsp;&nbsp;</font></td><td align="right"></td><td width="20"><img src="/assets/images/shim.gif" width="19" height="1"></td></tr></tbody></table>
-<table width="740" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td background="/assets/images/nav/ver6/dot.gif"><img src="/assets/images/shim.gif" width="740" height="1"></td></tr></tbody></table>
+            if (document.getElementById) {
+                buttonToClick = document.getElementById(buttonId);
+            } else if (document.all) {
+                buttonToClick = document.all[buttonId];
+            } else if (document.layers) {
+                buttonToClick = document.layers[buttonId];
+            }
 
+            if (buttonToClick) {
+                // cancel the default submit
+                event.returnValue=false;
+                event.cancel = true;
+                // submit the form by programmatically clicking the specified button
+                buttonToClick.click();
+                return false;
+            }
+        }
+    }
 
-<!-- UPDATE THIS INCLUDE WITH THE TEMPLATE NAME FOR THIS PAGE -->
+    return true;
+}
 
+function setFriendsAnchor()
+{
+	document.DeliveryExtrasForm.action= 'https://www.eddiebauer.com/checkout/delivery.cmd#friends';
+	return true;
+}
 
+function setFormActions(form, formURI)
+{
+	var baseURI = '/';
+	form.action = baseURI + formURI;
+	return true;
+}
 
-<table width="750" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="3"><img src="/assets/images/shim.gif" width="750" height="20"></td>
-</tr>
-<tr>
-<td width="75"><img src="/assets/images/shim.gif" width="75" height="260"></td>
-<td width="600" valign="top">
+function createCMPageTag(pageName) {
+	
+	   cmCreatePageviewTag(pageName, '', '1', '192.168.131.110', pageName, '','', '');
+	
+}
 
+function openWindow(address, width, height,features)
+{
+	/* Find out what features need to be enable
+	 *
+   */
+	if(features)
+		features = features.toLowerCase();
+	else
+		features = "";
 
-   <font class="large-header"></font><p><font class="large-header"><b>Eddie Bauer, Inc.<br>
-   Privacy Policy Statement</b></font></p>
-
-   <font class="normal">
-   <p>In 1920, Eddie Bauer wrote his business creed, a statement explaining the services he’d provide for his customers. We still follow this same creed today: "To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem." Here at Eddie Bauer, we take this promise seriously and we firmly believe in your privacy and the security of your personal information. We are committed to using any information you give us in a responsible manner. You’re very important to us and we want to provide you with a safe and secure online experience.</p>
-   <p>This Privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time. </p>
-   <p>This policy was last updated on September 6, 2005.</p>
-
-   <p><a href="#Jump_One"><b><font class="normal">What information does Eddie Bauer collect about me?</font></b></a></p>
-   <p><a href="#Jump_Two"><b><font class="normal">How do you use my information?</font></b></a></p>
-   <p><a href="#Jump_Three"><b><font class="normal">Companies "Presented by Eddie Bauer".</font></b></a></p>
-   <p><a href="#Jump_Four"><b><font class="normal">What are ‘cookies’ and how does Eddie Bauer use them?</font></b></a></p>
-   <p><a href="#Jump_Five"><b><font class="normal">How can I update my information?</font></b></a></p>
-   <p><a href="#Jump_Six"><b><font class="normal">How do I know my information is secure?</font></b></a></p>
-   <p><a href="#Jump_Seven"><b><font class="normal">Children’s Policy</font></b></a></p>
-   <p><a href="#Jump_Eight"><b><font class="normal">Contact Us</font></b></a></p>
-
-   <br>
-   <a name="#Jump_One"></a>
-   <font class="normal"></font><p><font class="normal"><u><b>What information does Eddie Bauer collect about me?</b></u>
-   <br><br>Every time you visit our website, we automatically collect your Internet service provider’s address, the Web page from which you came, and a record of your activity on our site. 
-   <br><br>When you purchase from Eddie Bauer or request a catalog, we collect information that you volunteer such as your name, email address, postal address, phone number and other information necessary to process your order or send you the catalog. 
-   <br><br>We also collect the information you provide to us when you register for "My Account", participate in a contest or sweepstakes promotion, fill out a survey or questionnaire, or contact us (for example via email, "Ask Eddie" or "Live Chat".) 
-   </font></p>
-
-   <a name="#Jump_Two"></a>
-   <font class="normal"></font><p><font class="normal"><u><b>How do you use my information?</b></u>
-   <br><br>The information we receive allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our websites and products, and provide you with marketing information.
-   <br><br>The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please </font><a href="#Jump_Eight"><font class="normal">Click here</font></a><font class="normal"> for contact information.  
-   <br><br>We occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please </font><a href="#Jump_Eight"><font class="normal">Click here</font></a><font class="normal"> for contact information. 
-  <!-- <P>We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please </FONT><A HREF="#Jump_Eight"><FONT class="normal">Click here</FONT></A><FONT class="normal"> for contact information, or click the "unsubscribe" link on any promotional email you receive from us. <I>Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.</P> -->
-   <br><br>In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use </font><a href="#Jump_Four"><font class="normal">cookies</font></a><font class="normal"> on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer. For more information about these companies, <a href="eb_3rdparties.asp">Click here.</a>
-   <br><br>We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes.
-   </font></p>
-
-   <a name="#Jump_Three"></a>
-   <font class="normal"></font><p><font class="normal"><u><b>Companies "Presented by Eddie Bauer"</b></u>
-   </font>
-   <font class="normal">
-   <br><br>If you make a purchase from another company’s catalog or website that is  "presented by Eddie Bauer" the information you provide to that company, such as your credit card number and contact information, is provided to that company and not to Eddie Bauer. Providing this information to the company enables the transaction to take place. However, you should know that the company may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Eddie Bauer. You should also know that these companies have their own privacy and data collection practices and are not covered by the Eddie Bauer privacy statement.  
-   <br><br>For more information, including privacy policies, regarding companies who send catalogs or host websites "presented by Eddie Bauer" please see that company’s home page and click on their Information link; or review the customer service section of any catalog you may receive from that company.  
-   </font></p>
-  
-   <a name="#Jump_Four"></a>
-   <font class="normal"><p><u><b>For Our Customers Using the Internet:</b></u>
-   </p></font><p><font class="normal"><u><b>What are ‘cookies’ and how does Eddie Bauer use them?</b></u>
-   <br><br>A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping cart, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; or, customize Web page content. Your information is stored in a safe and secure database. 
-   <b><i>We do not use cookies to store any of your personal or financial information on your computer.</i></b>
-   <br><br>We recognize that you have a choice to refuse cookies. However, by choosing to accept an Eddie Bauer cookie you allow us to maintain the preferences stored in your Eddie Bauer "My Account" and process your order. If you choose not to accept the cookie, purchasing is not possible on the Eddie Bauer site. 
-   <br><br>If you are shopping Eddie Bauer and are having difficulty adding product to your shopping cart or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including <u>eddiebauer.com</u> and <u>eddiebaueroutlet.com</u>. Please <a href="eb_cookies.asp" target="_blank">click here</a> for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
-   </font></p>
-
-   <a name="#Jump_Five"></a>
-   <font class="normal"><p><u><b>How can I update or access my information?</b></u>
-   <br><br>We provide you access to the following information if you send us an email, call us or write to us: 
-   </p><ul>
-   <li>financial information (such as credit card account information) </li>
-   <li>unique identifier information (customer number or password) </li>
-   <li>transaction information (dates on which you made purchases, amounts and types of purchases) </li>
-   <li>contact information (name, address, phone number)</li>
-   </ul>
-   <br>We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. </font><a href="#Jump_Eight"><font class="normal">Click here</font></a>
-   </font><font class="normal"> for contact information.
-   </font><p></p>
-   
-   <a name="#Jump_Six"></a>
-   <font class="normal"></font><p><font class="normal"><u><b>How do I know my information is secure?</b></u>
-   <br><br>We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer® Charge Card, we will direct you to the World Financial National Bank (WFNB) website.  See the WFNB website for information on its privacy statement.
-   </font></p>
+	var toolbar = (features == "all" ? 1 : 0);
+	var menubar = (features == "all" ? 1 : 0);
+	var location = (features == "all" ? 1 : 0);
+	var directories = (features == "all" ? 1 : 0);
+	var status = (features == "all" ? 1 : 0);
+	var scrollbars = (features == "all" ? 1 : 0);
+	var resizable = (features == "all" ? 1 : 0);
 
 
-   <a name="#Jump_Seven"></a>
-   <font class="normal"></font><p><font class="normal"><u><b>Children’s Policy </b></u>
-   <br><br>Eddie Bauer does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us and we know that the person submitting the information is a Child, we will not use it for any purpose. We will delete the information as soon as we discover it and we will not disclose it to third parties.
-   </font></p>
-   
-   <font class="normal"><p><u><b>Changes To This Privacy Policy Statement </b></u>
-   <br><br>From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Statement. If our information practices change at some time in the future we will post the policy changes on the privacy page of our website to notify you of these changes. You should check our website periodically for more information on how we use the data we collect.
-   <br>If there is a material change in the manner we use data that we collect, we will update this Privacy Statement to reflect these changes.      </p>
-   </font><p></p>
-  
-   <a name="#Jump_Eight"></a>   
-   <font class="normal"></font><p><font class="normal"><u><b>Contact Us </b></u>
-   <br><br>Feel free to contact us for any reason, including a request to be added to or taken off a list, or if you have any questions or concerns.
-   <br><i>Please note:</i> When you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.
-   </font></p>
-   
-   <font class="normal"></font><p><font class="normal"><b>By Postal Mail</b>:<br>
-      <br>Eddie Bauer
-      <br>Customer Satisfaction Center
-      <br>P.O. Box 97000
-      <br>Redmond, WA 98073-9700
-   </font></p>
-   
-   <font class="normal">
-   </font><p><font class="normal"><b>By Phone:</b>
-   <br><br>Call 24-hours a day at 1-800-426-6253
-   </font></p>
-   
-   <font class="normal">
-   </font><p><font class="normal"><b>By Email:</b>
-   <br><br>CustomerCare@csc.eddiebauer.com      
-   <!--<P><A HREF="javascript:DIPage();">Click Here</A> to unsubscribe from Eddie Bauer email.</P>-->
-   <br><br><b> To Unsubscribe from Eddie Bauer Email: </b>
-   <br><br>If for any reason you would like to be taken off the email list that notifies you of upcoming events, offers and sales, simply click the unsubscribe link provided at the bottom of every email we send.
-   
-   <br><br><br><br>Eddie Bauer is an active member of the Direct Marketing Association (DMA).  </font><a href="http://www.the-dma.org/consumers/privacy.html" target="_blank"><font class="normal">Click here</font></a><font class="normal"> for additional privacy information from the DMA.
-   If you feel that our site is not following our stated privacy policy, please contact us. You may also contact the DMA’s Committee on Ethical Business Practices at </font><a href="mailto:mgoldberger@the-dma.org"><font class="normal">mgoldberger@the-dma.org</font></a>
-   </p>
-   <font class="normal">
+	if(features != "all")
+	{
+		//split features
+		var feature = features.split(",");
+		for(i = 0; i < feature.length; i++)
+		{
+		 	if(feature[i] == "toolbar")
+			   toolbar = 1;
+			else if(feature[i] == "menubar")
+			   menubar = 1;
+			else if(feature[i] == "location")
+			   location = 1;
+			else if(feature[i] == "directories")
+			   directories = 1;
+			else if(feature[i] == "status")
+			   status = 1;
+			else if(feature[i] == "scrollbars")
+			   scrollbars = 1;
+			else if(feature[i] == "resizable")
+			   resizable = 1;
+		}
 
-</font></td>
-<td width="75"><img src="/assets/images/shim.gif" width="75" height="260"></td>
-</tr>
-<tr>
-<td colspan="3"><img src="/assets/images/shim.gif" width="750" height="20"></td>
-</tr>
-</tbody></table>
-
-
-
-
-<div id="coresitefooter1" name="coresitefooter1">
-<img src="/assets/images/shim.gif" height="10"><br>
-<font class="normal" style="line-height:25px;">
-<a href="/eb/oh_status.asp?nv=22376|22377" class="footernavhover" style="color:#666666">Order Status</a>
-<font style="color:#666666">    |    </font> 
-<a href="/eb/eob.asp" class="footernavhover" style="color:#666666">Catalog Quick Order</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/custserv/eb_storelocator.asp" class="footernavhover" style="color:#666666">Store Nearest You</a>
-<font style="color:#666666">    |    </font>
-<a href="javascript:DIPage();" class="footernavhover" style="color:#666666">Sign Up for Email</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/promos/eb_creditcard.asp" class="footernavhover" style="color:#666666">EB Credit Card</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/custserv/cert_splash.asp?nv=22376|22381" class="footernavhover" style="color:#666666">Gift Cards</a>
-<br><a href="/about/company_info/main_page.asp" class="footernavhover" style="color:#666666">  Company Info</a>
-<font style="color:#666666">    |    </font>
-<a href="/about/company_info/careers.asp" class="footernavhover" style="color:#666666">  Careers</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/promos/corporateguest_splash.asp" class="footernavhover" style="color:#666666">Corporate Incentives</a>
-<font style="color:#666666">    |    </font>
-<a href="/about/license/eb_license_intro.asp" class="footernavhover" style="color:#666666">Also by Eddie Bauer</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/marketing/affiliate/affiliate_splash.asp" class="footernavhover" style="color:#666666">Affiliates</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/cat_splash.asp?nv=22376|24204" class="footernavhover" style="color:#666666">Terms of Use</a>
-<font style="color:#666666">    |    </font>
-<a href="/siteinfo/eb_security.asp" class="footernavhover" style="color:#666666">  Privacy</a>
-<font style="color:#666666">    |    </font>
-<a href="/eb/custserv/ae_splash.asp?nv=22376" class="footernavhover" style="color:#666666">Customer Service</a>   
-<font class="normal" style="color:#666666">  1-800-625-7935 </font>
-<br>
-<br>
-
-
-</font></div><font class="normal" style="line-height:25px;">
-<script language="javascript">
-	disableAtKiosks('coresitefooter1');
-	if (inKiosk) {
-		document.writeln("<br><br></html></body>");
 	}
+	features = "toolbar=" + toolbar + ",";
+	features += "menubar=" + menubar + ",";
+	features += "location=" + location + ",";
+	features += "directories=" + directories + ",";
+	features += "status=" + status + ",";
+	features += "scrollbars=" + scrollbars + ",";
+	features += "resizable=" + resizable;
+
+	var newWindow = window.open(address, 'Popup_Window', 'width=' + width + ',height=' + height + ',"' + features + '"');
+	newWindow.focus();
+}
+
+/**
+ * Given a text area "Object" it makes sure it is not longer than "MaxLen".  If it is, then
+ * it will put "errorMessageText" in "errorMessageElementId"
+ */
+function imposeMaxLength(Object, MaxLen, errorMessageElementId, errorMessageText) {
+    var errorDD = document.getElementById(errorMessageElementId);
+
+    if (errorDD != null && errorDD != undefined) {
+		 if ((Object.value.length <= MaxLen) && errorDD.childNodes && (errorDD.childNodes.length > 0)) {
+			  errorDD.removeChild(errorDD.childNodes[0]);
+		 } else if ((Object.value.length > MaxLen)) {
+			  Object.value = Object.value.substring(0, MaxLen);
+
+			  if (errorDD.childNodes && (errorDD.childNodes.length <= 0)) {
+					var errorText = document.createTextNode(errorMessageText);
+					errorDD.appendChild(errorText);
+			  }
+		 }
+	} else {
+		Object.value = Object.value.substring(0, MaxLen);
+	}
+}
+
+/**
+ * Launch Cheetah mail popup window
+ */
+function DIPage() {
+   	openWindow('https://reg.cheetahmail.com/regp?aid=225355676&n=1&cm_shopid=&cm_clientid=30000102&cm_server=data.coremetrics.com/eluminate?', 488, 605, 'scrollbars,resizable');
+    //openWindow('https://reg.cheetahmail.com/regp?aid=225355676&n=1&cm_shopid=&cm_clientid=90081908&cm_server=test.coremetrics.com', 488, 605, 'scrollbars,resizable');
+}
+
+
+function getStatusDescription(status, availQty){
+var statusDescription = '';
+if(status == 'IN'){
+ var thresholdQty = '10';
+ if(availQty < thresholdQty)
+ statusDescription = 'Only a few left';
+ else
+ statusDescription = 'In Stock';
+
+}
+else if(status == 'SOLDOUT')
+statusDescription = 'Sold Out';
+else if(status == 'BO')
+statusDescription = 'Ships by';
+
+return statusDescription;
+}
+
+
+/** getInventoryMessaging(sttatus) is a provides the inventory description on the item added to cart layer page. */
+
+
+function getInventoryMessaging(invStatus){
+  var message = '';
+   if(invStatus =='Only a few left'){
+    message = 'We have low quantities of this item left in stock. Hurry! It won\'t be reserved until you complete the checkout process.';
+  }else if(invStatus.indexOf('Ships by') >= 0){
+     message = 'Due to popular demand, this item is on back order. Checkout with this item to reserve yours today - you won\'t be charged until it ships.';
+  }
+  return message;
+}
+
+
+
+function getSoldOutDescription(){
+ return 'Sold Out';
+}
+
+
+function getBODescription(){
+ return 'Ships by';
+}
+
+function getInStockDescription(){
+ return 'In Stock';
+}
+
+function getInStockWithFewDescription(){
+ return 'Only a few left';
+ }
+
+  function getMonogramErrorMessage(errorKey){
+    if(errorKey == 'monogram.validationError.textColorNotSelected'){
+    	return 'Please select a text color';
+	}
+	if(errorKey == 'monogram.validationError.initialNotEntered'){
+    	return 'Please enter initial';
+	}
+   	if(errorKey == 'monogram.validationError.initialsNotEntered'){
+		return 'Please enter all initials';
+	}
+   	if(errorKey == 'monogram.validationError.invalidMonogram'){
+		return 'Please enter valid monogram.';
+	}
+}
+
+function openPromoDisclaimer(promoId, width, height, features) {
+    openWindow('/catalog/promo_disclaimer.jsp?promoId=' + promoId, width, height, features);
+}
+
+
+function getHemStyleCMSSectionId(){
+  var retVal = '103';
+  return retVal;
+}
+
+
+function getHemStyleCMSSectionName(){
+  var retVal = 'HemStyles';
+  return retVal;
+}
+
+
+function getHowToMeasureSectionName(){
+  var retVal = 'HowtoMeasure';
+  return retVal;
+}
+
+
+function getSizeChartCMSSectionName(){
+  var retVal = 'AboutExtendedSizes';
+  return retVal;
+}
+
+function getAboutExtendedSizes(){
+  var retVal = 'AboutExtendedSizes';
+  return retVal;
+}
+
+function getMonogramCMSSectionId(){
+var retVal = '102';
+return retVal;
+}
+
+
+function getMonogramCMSSectionName(){
+var retVal = 'Monogram';
+return retVal;
+}
+
+function getPlasticGiftCardDepartment(){
+var retVal = '99';
+return retVal;
+}
+
+function getPlasticGiftCardItem(){
+var retVal = '0023';
+return retVal;
+}
+
+/* goes to the Intl Shipping page in Customer Service from the links in bag/checkout */
+function navigateToDeliveryInformation(deliveryURI) {
+	var baseURI = '/';
+	window.location.href = baseURI + deliveryURI;
+	window.document.submit();
+}
+
+/*
+// Strip a URL down to its location info
+function stripUrl(url) {
+    var workUrl = url;
+    // Chop off the head
+    var head = workUrl.indexOf(":");
+    if (head > -1) {
+        if (workUrl.length > head)
+            workUrl = workUrl.substring(head + 1);
+        else
+            workUrl = "";
+    }
+
+    // Chop off the site name
+    var head = workUrl.indexOf("eddiebauer/");
+    if (head > -1) {
+        var startChop = head + "eddiebauer/".length;
+        if (workUrl.length >= startChop)
+            workUrl = workUrl.substring(startChop);
+        else
+            workUrl = "";
+    }
+
+    // Chop off the tail
+    var tail = workUrl.indexOf("?");
+    if (tail > -1) {
+        if (tail < workUrl.length)
+            workUrl = workUrl.substring(0, tail);
+        else
+            workUrl = "";
+    }
+    return workUrl;
+}
+
+// Display list of anchor tags on this page to the firebug console.
+function displayAnchors() {
+    var myUrl = stripUrl(document.URL);
+	var anchorTags = document.getElementsByTagName("a");
+	myUrl.indexOf("?");
+	console.log("Anchors for " + myUrl);
+	for (var i = 0; i < anchorTags.length ; i++)
+	{
+		hrefVal = stripUrl(anchorTags[i].href);
+		name = anchorTags[i].name;
+		if (name != undefined && name != null && name.length > 0)
+    		console.log("anchor " + i + " -  name  = (" + name + "), ref = (" + hrefVal + ")");
+	}
+	for (var i = 0; i < anchorTags.length ; i++)
+	{
+		hrefVal = stripUrl(anchorTags[i].href);
+		name = anchorTags[i].name;
+		if (name == undefined || name == null || name.length > 0)
+    		console.log("anchor " + i + " -  name  = ( NONE ), ref = (" + hrefVal + ")");
+	}
+}
+*/
+function replace(string,text,by) {
+// Replaces text with by in string
+    var strLength = string.length, txtLength = text.length;
+    if ((strLength == 0) || (txtLength == 0)) return string;
+
+    var i = string.indexOf(text);
+    if ((!i) && (text != string.substring(0,txtLength))) return string;
+    if (i == -1) return string;
+
+    var newstr = string.substring(0,i) + by;
+
+    if (i+txtLength < strLength)
+        newstr += replace(string.substring(i+txtLength,strLength),text,by);
+
+    return newstr;
+}
+
+function setSOACookie(itemCount){
+		var soaCookieString = GetCookie('ebpc');
+		var cartEmpty = 'false';
+		if(soaCookieString && soaCookieString.indexOf('cartempty=true') > -1) {
+			cartEmpty = 'true';
+		}
+		var actionType = determineCartActionType(itemCount, cartEmpty);
+		takeAction(actionType, soaCookieString);
+}
+
+function determineCartActionType(itemCount, cartEmpty){
+ 			var actionType="";
+
+        if (cartEmpty == 'true'){
+            if (itemCount>0){
+                actionType='a';
+            }else{
+                actionType='b';
+            }
+        }else{
+             if (itemCount<1){
+                actionType='d';
+            }else{
+                actionType='b';
+            }
+        }
+        return actionType;
+}
+function takeAction(actionType, soaCookieString){
+	if (actionType == 'a') {
+		if(soaCookieString.indexOf('cartempty=false') == -1) {
+			if(soaCookieString.indexOf('firstorderofsession=true') > -1){
+				soaCookieString = replaceSEOString(soaCookieString, 'oessoanow', 'oessoacart=' );
+				soaCookieString = changeSEOString(soaCookieString, 'oessoacarttm', '06/16/2008 21:51:53 EDT');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmmmcnow', 'cmmmccart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmvennow', 'cmvencart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmcatnow', 'cmcatcart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmplanow', 'cmplacart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmitenow', 'cmitecart=');
+				soaCookieString = changeSEOString(soaCookieString, 'cartempty', 'false');
+			}else {
+				soaCookieString = replaceSEOString(soaCookieString, 'oessoacartbak', 'oessoacart=');
+			   soaCookieString = changeSEOString(soaCookieString, 'oessoacarttm', '06/16/2008 21:51:53 EDT');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmmmccartbak', 'cmmmccart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmvencartbak', 'cmvencart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmcatcartbak', 'cmcatcart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmplacartbak', 'cmplacart=');
+				soaCookieString = replaceSEOString(soaCookieString, 'cmitecartbak', 'cmitecart=');
+				soaCookieString = changeSEOString(soaCookieString, 'cartempty', 'false');
+			}
+			soaCookieString = browseSOAUpdates(soaCookieString);
+		}
+	} else if (actionType == 'd'){
+		soaCookieString = deleteCartSOAUpdates(soaCookieString);
+	} else if (actionType== 'b'){
+		soaCookieString = browseSOAUpdates(soaCookieString);
+	}
+	SetCookie ('ebpc',escape(soaCookieString),'24855','/');
+}
+
+function browseSOAUpdates(soaCookieString) {
+	soaCookieString = changeSEOString(soaCookieString, 'clearinitonnextsess', 'false');
+	return soaCookieString;
+}
+
+function deleteCartSOAUpdates(soaCookieString) {
+	soaCookieString = updateSEOString(soaCookieString, 'DOM', 'www.eddiebauer.com');
+	soaCookieString = updateSEOString(soaCookieString, 'cartempty', 'true');
+   soaCookieString = updateSEOString(soaCookieString, 'clearinitonnextsess', 'true');
+   soaCookieString = updateSEOString(soaCookieString, 'oessoacart', '');
+   soaCookieString = updateSEOString(soaCookieString, 'oessoacarttm', '');
+	soaCookieString = updateSEOString(soaCookieString, 'cmmmccart', '');
+	soaCookieString = updateSEOString(soaCookieString, 'cmvencart', '');
+	soaCookieString = updateSEOString(soaCookieString, 'cmcatcart', '');
+	soaCookieString = updateSEOString(soaCookieString, 'cmplacart', '');
+   return soaCookieString;
+}
+
+function replaceSEOString(soaCookieString, name, newName) {
+	start = soaCookieString.indexOf( name + "=" );
+	if(start != -1){
+		len = start + name.length + 1;
+		end = soaCookieString.indexOf( ";", len );
+		newStart = soaCookieString.indexOf(newName);
+		newLen = newStart + newName.length;
+		newEnd = soaCookieString.indexOf( ";", newLen);
+		if(!newStart || newStart == -1) {
+			soaCookieString += newName + soaCookieString.substring(len, end) + ";";
+		} else {
+			soaCookieString = replace(soaCookieString, soaCookieString.substring(newLen, newEnd), soaCookieString.substring(len, end));
+		}
+	}
+	return soaCookieString;
+}
+
+function changeSEOString(soaCookieString, name, value) {
+	start = soaCookieString.indexOf( name + "=" );
+	len = start + name.length + 1;
+	end = soaCookieString.indexOf( ";", len );
+	if(start != -1) {
+		soaCookieString = replace(soaCookieString, soaCookieString.substring(len, end), value);
+	}else{
+		soaCookieString += name + "=" + value + ";";
+	}
+	return soaCookieString;
+}
+
+function updateSEOString(soaCookieString, name, value) {
+	start = soaCookieString.indexOf( name + "=" );
+	len = start + name.length + 1;
+	end = soaCookieString.indexOf( ";", len );
+	soaCookieString = replace(soaCookieString, soaCookieString.substring(len, end), value);
+	return soaCookieString;
+}
+
+function highlight(myObject) {
+	for(i=0; i < myObject.parentNode.parentNode.childNodes.length; i++) {
+	   if(myObject.parentNode.parentNode.childNodes[i].nodeName == "LI"){
+ 			myObject.parentNode.parentNode.childNodes[i].className="not";
+		}
+	}
+ 	myObject.parentNode.className="hot";
+}
+
+function selectSub() {
+	var url = window.location.href;
+	myObject = $("subSub");
+	if(myObject){
+		for(i=0; i < myObject.childNodes.length; i++) {
+			if(myObject.childNodes[i].nodeName == "LI"){
+				liObject = myObject.childNodes[i];
+				for(j=0; j < liObject.childNodes.length; j++){
+					if(liObject.childNodes[j]  && liObject.childNodes[j].nodeName == "A") {
+						var myAltURL = liObject.childNodes[j].href;
+						if(url==myAltURL ){
+							return highlight(liObject.childNodes[j]);
+						}
+					}
+				}
+			}
+		}
+	}
+	return "";
+}
+
+// these vars are used to call secure pages from site manager content
+var secureBaseURL = 'https://www.eddiebauer.com';
+var unsecureBaseURL = 'http://www.eddiebauer.com';
+</script><script src="/js/cachemanager.js" type="text/javascript"></script><script type="text/javascript">
+				// we need to set the footer scripts here because we'll call it via an onDOMReady event at the end of the header page codes
+					var loadFooterScripts = function(){
+					YAHOO.util.Get.script('/js/js_loader.jsp?loadPageCode=true&groupIds=11,');
+				};
+				//this has moved to the header page codes: YAHOO.util.Event.onDOMReady(loadFooterScripts);
+			</script><!--call to the header page codes--><script src="/js/js_loader.jsp?loadPageCode=true&amp;groupIds=8,10," type="text/javascript"></script><title>Privacy Policy</title></head><body id="" class=""><!-- BEGIN COREMETRICS SUPPORT --><script src="/js/coremetrics/v40/eluminate.js" type="text/javascript"></script><script src="/js/coremetrics/cmdatatagutils.js" type="text/javascript"></script><div id="container"></div><div id="above"><a name="top"></a><div id="header"><!-- Total Number of items in the Shopping Bag --><!-- THESE HOLD THE LAYER --><script src="/includes/soa_session_monitor.jsp?OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><script src="/includes/soa_session_cart.jsp?itemCount=0&amp;OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><div id="mast" class="liquid"><a id="masthead" title="Eddie Bauer" href="http://www.eddiebauer.com/home.jsp" name="Home Header"><img src="/assets/ocp/logos/masthead.gif" alt="Eddie Bauer"></a><ul class="nav"><li><a id="bagLink" title="go to My Shopping Bag" href="https://www.eddiebauer.com/checkout/bag.jsp?lineId=-1" name="Shopping Bag Header">Shopping Bag:&nbsp;<strong><span id="itemsCount">0&nbsp;Items</span></strong></a></li><li><a title="Eddie Bauer Friends Program" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" name="EB Friends Header">Eddie Bauer Friends</a></li><li><a title="go to Your Order" href="https://www.eddiebauer.com/user/order_history.jsp" name="Order Status Header">Order Status</a></li><li><a title="go to Your Account" href="https://www.eddiebauer.com/user/member_account.jsp" name="Your Account Header">Your Account</a></li><li><a title="go to Customer Service" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296" name="Customer Service Header">Customer
+				Service
+			</a></li></ul></div><!-- /mast --><div id="bar"><div id="line" class="liquid"><ul class="nav"><li class="not"><a title="Swim" href="http://www.eddiebauer.com/EB/Swim/index.cat" name="/EB/Swim/index.cat Header">Swim</a></li><li class="not"><a title="Men" href="http://www.eddiebauer.com/EB/Men/index.cat" name="/EB/Men/index.cat Header">Men</a></li><li class="not"><a title="Women" href="http://www.eddiebauer.com/EB/Women/index.cat" name="/EB/Women/index.cat Header">Women</a></li><li class="not"><a title="Shoes &amp; Accessories" href="http://www.eddiebauer.com/EB/Shoes--Accessories/index.cat" name="/EB/Shoes--Accessories/index.cat Header">Shoes &amp; Accessories</a></li><li class="not"><a title="Bags &amp; Gear" href="http://www.eddiebauer.com/EB/Bags--Gear/index.cat" name="/EB/Bags--Gear/index.cat Header">Bags &amp; Gear</a></li><li class="not"><a title="Bedding" href="http://www.eddiebauer.com/EB/Bedding/index.cat" name="/EB/Bedding/index.cat Header">Bedding</a></li></ul><div id="search"><form action="http://www.eddiebauer.com/" method="get" name="endecaSearchForm" onsubmit="return search('endecaSearchForm','searchstring','catdimension');"><input type="hidden" name="form_state" value="endecaSearchForm"><input type="hidden" id="catdimension" name="catdimension" value="0"><label for="searchstring">Search</label><input class="searchField" id="searchstring" value="" maxlength="35" name="searchstring"><input title="GO" type="submit" alt="GO" class="searchButton" value="GO"></form></div><!-- /search --></div><!-- /line --></div><!-- /bar --><div id="rail"><div class="liquid"><div class="billboard" id="siteWide"><!-- No Sitewide Messaging --></div><div class="billboard" id="billboard_28"></div></div></div><!-- /rail -->
+</div><!-- end header --><div id="shoulder"></div><!-- end shoulder --><div id="torso"><link href="/css/css_include_custserve.jsp" rel="stylesheet" type="text/css"><div id="services" class="liquid clearfix"><div id="breadcrumb"><a href="/home.jsp">Home</a>&nbsp;»&nbsp;Privacy Policy</div><div id="banner" class="liquid"><h3>EB</h3></div><div id="tricol-wrap"><div id="tricol-left" class="tricol"><div id="tricol-nav"><ul class="first"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=328" name="WelcomeCust Service Nav">Welcome</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('http://investors.eddiebauer.com/about/',800,600,'scrollbars');" name="About Eddie BauerCust Service Nav">About Eddie Bauer</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('http://investors.eddiebauer.com/careers',800,600,'scrollbars');" name="CareersCust Service Nav">Careers</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101" name="Delivery InformationCust Service Nav">Delivery Information</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101&amp;subId=300" name="U.S. &amp; CanadaCust Service Nav">U.S. &amp; Canada</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101&amp;subId=300#apofpoandusterritories" name="APO/FPO &amp; U.S. TerritoriesCust Service Nav">APO/FPO &amp; U.S. Territories</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101&amp;subId=301" name="InternationalCust Service Nav">International</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=295" name="Returns &amp; ExchangesCust Service Nav">Returns &amp; Exchanges</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=295#returnpolicy" name="Return PolicyCust Service Nav">Return Policy</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=295#returninstructions" name="Return InstructionsCust Service Nav">Return Instructions</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102" name="Size ChartsCust Service Nav">Size Charts</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=302" name="MenCust Service Nav">Men</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=303" name="WomenCust Service Nav">Women</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=304" name="Gift Cards &amp; E-Gift CardsCust Service Nav">Gift Cards &amp; E-Gift Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?sectionId=304" name="Purchase a Gift CardCust Service Nav">Purchase a Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?gcType=egc&amp;sectionId=304" name="Purchase an E-Gift CardCust Service Nav">Purchase an E-Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?subId=3041&amp;sectionId=304" name="Redeeming Gift CardsCust Service Nav">Redeeming Gift Cards</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=329" name="ServicesCust Service Nav">Services</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/mapquest/store_locator.jsp" name="Store Locator and HoursCust Service Nav">Store Locator and Hours</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/catalog_request.jsp" name="Request a CatalogCust Service Nav">Request a Catalog</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:DIPage();" name="Sign up for EB EmailCust Service Nav">Sign up for EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=325" name="Gift Boxes and MessagesCust Service Nav">Gift Boxes and Messages</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=297" name="MonogrammingCust Service Nav">Monogramming</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/watchrepair.jsp" name="Watch RepairCust Service Nav">Watch Repair</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=309" name="Corporate IncentivesCust Service Nav">Corporate Incentives</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=333" name="Direct Order CenterCust Service Nav">Direct Order Center</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320" name="Using the WebsiteCust Service Nav">Using the Website</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#findingyourproducts" name="Finding your productsCust Service Nav">Finding your products</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#howtoorderonline" name="How to Order OnlineCust Service Nav">How to Order Online</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#makechangestoyourorder" name="Make Changes to Your OrderCust Service Nav">Make Changes to Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#cancelyourorder" name="Cancel Your OrderCust Service Nav">Cancel Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#cookies" name="CookiesCust Service Nav">Cookies</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#browserrequirements" name="Browser RequirementsCust Service Nav">Browser Requirements</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=600" name="Also by Eddie BauerCust Service Nav">Also by Eddie Bauer</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=323" name="Order Status &amp; HistoryCust Service Nav">Order Status &amp; History</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/order_history.jsp" name="Track Your Order StatusCust Service Nav">Track Your Order Status</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=335" name="Backordered ItemsCust Service Nav">Backordered Items</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Your AccountCust Service Nav">Your Account</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Benefits of RegisteringCust Service Nav">Benefits of Registering</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Create an Account NowCust Service Nav">Create an Account Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Returning Visitor Sign inCust Service Nav">Returning Visitor Sign in</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Manage Your AccountCust Service Nav">Manage Your Account</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/user/forgot_password.jsp" name="Forgotten PasswordCust Service Nav">Forgotten Password</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=336" name="Where is my Wish ListCust Service Nav">Where is my Wish List</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/logout.jsp" name="Sign Out of Your AccountCust Service Nav">Sign Out of Your Account</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" name="Eddie Bauer FriendsCust Service Nav">Eddie Bauer Friends</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/about.jspx" name="How it WorksCust Service Nav">How it Works</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/enroll.jspx" name="Enroll NowCust Service Nav">Enroll Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/index.jsp" name="Sign InCust Service Nav">Sign In</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/termsConditions.jspx" name="RulesCust Service Nav">Rules</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/contactus.jspx" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="Eddie Bauer Credit CardsCust Service Nav">Eddie Bauer Credit Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="learn More and ApplyCust Service Nav">learn More and Apply</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('https://onlineaccess.mycreditcard.cc/eddiebauer',800,600,'scrollbars');" name="Manage your EB CardCust Service Nav">Manage your EB Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=326" name="Opt out of Pre-Screened CardsCust Service Nav">Opt out of Pre-Screened Cards</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="Privacy &amp; SecurityCust Service Nav">Privacy &amp; Security</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="OverviewCust Service Nav">Overview</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#completeprivacypolicy" name="Complete Privacy PolicyCust Service Nav">Complete Privacy Policy</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=299" name="Terms of UseCust Service Nav">Terms of Use</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#contactus" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li></ul></div></div><script type="text/javascript">
+    selectSub();
+    function cmCreatePageviewTagOnCustomerService() {
+    cmCreatePageviewTag("CUSTOMER-SERVICE","C22376","1","192.168.131.110","CUSTOMER-SERVICE","","","");
+    }
 </script>
- 
+<div id="tricol-wrap">
+<div id="tricol-center" class="tricol"><div id="tricol-center" class="tricol">
+<div id="tricol-fill">
+<h3>Privacy Policy Statement</h3>
+<div class="indent">
+<a name="overview"></a>
+<h3 class="hr">Overview</h3>
+<br>
+ <div class="indent">
+ <p>In 1920, Eddie Bauer wrote his business creed, a statement explaining the services he'd provide for his customers. We still follow this same creed today: "To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem." Here at Eddie Bauer, we take this promise seriously and we firmly believe in your privacy and the security of your personal information. We are committed to using any information you give us in a responsible manner. You're very important to us and we want to provide you with a safe and secure online experience.</p>
+ </div> <!--/indent -->
+ <br>
+<a name="completeprivacypolicy"></a>
+<h3 class="hr">Complete Privacy Policy</h3>
+<br>
+ <div class="indent">
+<p>This Privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last updated on June 6, 2007.</p>
 
+<ul>
+	<li><a href="#information-we-collect">What information does Eddie Bauer collect about me?</a></li>
+	<li><a href="#use-of-information">How do you use my information?</a></li>
+	<li><a href="#associated-companies">Companies "Presented by Eddie Bauer"</a></li>
+	<li><a href="#cookies-explained">What are "cookies" and how does Eddie Bauer use them?</a></li>
+	<li><a href="#updating-information">How can I update my information?</a></li>
+	<li><a href="#information-security">How do I know my information is secure?</a></li>
+	<li><a href="#childrens-policy">Children's Policy</a></li>
+	<li><a href="#contact-information">Contact Information</a></li>
+                     <li><a href="#unsubscribefromebemail">Unsubscribe From Eddie Bauer</a></li>
+</ul>
 
+<p>^ <a href="#top">Return to top</a></p>
 
-</font></center></body></html>
+<h5>What information does Eddie Bauer collect about me?<a name="information-we-collect"></a></h5>
+<div class="indent">
+<p>Every time you visit our website, we automatically collect your Internet service provider's address, the Web page from which you came, and a record of your activity on our site.</p>
+
+<p>When you purchase from Eddie Bauer or request a catalog, we collect information that you volunteer such as your name, email address, postal address, phone number and other information necessary to process your order or send you the catalog.</p>
+
+<p>We also collect the information you provide to us when you register for "My Account", participate in a contest or sweepstakes promotion, fill out a survey or questionnaire, or contact us (for example via email, "Ask Eddie" or "Live Chat".)</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+
+<h5>How do you use my information?<a name="use-of-information"></a></h5>
+<div class="indent">
+<p>The information we receive allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our websites and products, and provide you with marketing information.</p>
+
+<p>The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please <a href="#contactus">Click here</a> for contact information.</p>
+
+<p>We occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please <a href="#contactus">Click here</a> for contact information.</p>
+
+<p>We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please <a href="#contactus">Click here</a> for contact information, or click the "unsubscribe" link on any promotional email you receive from us. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.</p>
+
+<p>In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer. For more information about these companies, <a href="/custserv/custserv.jsp?sectionId=339">Click here</a>.</p>
+
+<p>We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes.</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+
+<h4>Companies "Presented by Eddie Bauer"<a name="associated-companies"></a></h4>
+<div class="indent">
+<p>If you make a purchase from another company's catalog or website that is  "presented by Eddie Bauer" the information you provide to that company, such as your credit card number and contact information, is provided to that company and not to Eddie Bauer. Providing this information to the company enables the transaction to take place. However, you should know that the company may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Eddie Bauer. You should also know that these companies have their own privacy and data collection practices and are not covered by the Eddie Bauer privacy statement.</p>
+
+<p>For more information, including privacy policies, regarding companies who send catalogs or host websites "presented by Eddie Bauer" please see that company's home page and click on their Information link; or review the customer service section of any catalog you may receive from that company.</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+<h4>For Our Customers Using the Internet:</h4>
+
+<h5>What are "cookies" and how does Eddie Bauer use them?<a name="cookies-explained"></a></h5>
+<div class="indent">
+<p>A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; or, customize Web page content. Your information is stored in a safe and secure database.</p>
+
+<p>We do not use cookies to store any of your personal or financial information on your computer.</p>
+
+<p>We recognize that you have a choice to refuse cookies. However, by choosing to accept an Eddie Bauer cookie you allow us to maintain the preferences stored in your Eddie Bauer "My Account" and process your order. If you choose not to accept the cookie, purchasing is not possible on the Eddie Bauer site.</p>
+
+<p>If you are shopping Eddie Bauer and are having difficulty adding product to your shopping bag or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including eddiebauer.com and eddiebaueroutlet.com. Please <a href="/custserv/custserv.jsp?sectionId=320#howtoenablecookies">click here</a> for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+<h4>How can I update or access my information?<a name="updating-information"></a></h4>
+<div class="indent">
+<p>We provide you access to the following information if you send us an email, call us or write to us: </p>
+
+<ul>
+   <li>Financial information (such as credit card account information)</li>
+   <li>Unique identifier information (customer number or password)</li>
+   <li>Transaction information (dates on which you made purchases, amounts and types of purchases)</li>
+   <li>Contact information (name, address, phone number)</li>
+</ul>
+
+<p>We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. <a href="#contactus">Click here</a> for contact information.</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+<h4>How do I know my information is secure?<a name="information-security"></a></h4>
+<div class="indent">
+ <p>We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer® Charge Card, we will direct you to the World Financial National Bank (WFNB) website.  See the WFNB website for information on its privacy statement.</p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+<h4>Children's Policy<a name="childrens-policy"></a></h4>
+<div class="indent">
+<p>Eddie Bauer does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us and we know that the person submitting the information is a Child, we will not use it for any purpose. We will delete the information as soon as we discover it and we will not disclose it to third parties.</p>
+ </div> <!--/indent -->
+<a name="contactus"></a>
+<h3 class="hr">Contact Information<a name="contact-information"></a></h3>
+<br>
+<div class="indent">
+<p>Feel free to contact us for any reason, including a request to be added to or taken off a list, or if you have any questions or concerns. Please note: When you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.</p>
+<p>
+</p><dl>
+	<dt>By Postal Mail:</dt>
+	<dd>Eddie Bauer</dd>
+	<dd>Customer Satisfaction Center</dd>
+	<dd>P.O. Box 97000</dd>
+	<dd>Redmond, WA 98073-9700</dd>
+</dl>
+
+<dl>
+	<dt>By Phone:</dt>
+	<dd>Call 24-hours a day at 1-800-426-6253</dd>
+</dl>
+
+<dl>
+	<dt>By Email:</dt>
+	<dd><a href="mailto:CustomerCare@csc.eddiebauer.com">CustomerCare@csc.eddiebauer.com</a></dd>     
+</dl>
+<p></p>
+</div> <!--/indent -->
+<p>^ <a href="#top">Return to top</a></p>
+<br>
+<a name="unsubscribefromebemail"></a>	
+<h3 class="hr">Unsubscribe from Eddie Bauer</h3>
+<br>
+<h4>To Unsubscribe from Eddie Bauer Email:</h4>
+ <div class="indent">
+ <p>If for any reason you would like to be taken off the email list that notifies you of upcoming events, offers and sales, simply click the unsubscribe link provided at the bottom of every email we send.</p>
+ </div> <!--/indent -->
+<h4>To Unsubscribe from Eddie Bauer mailings:</h4>
+ <div class="indent">
+ <p>Occasionally we make our customer list available to carefully screened companies whose products may interest you. If you prefer not to receive such mailings, or if you want to remove your name from our mailing list, call 800-426-8020. To remove your name from the mailing lists of direct-mail companies, contact: Mail Preference Service, c/o Direct Marketing Association, P.O. Box 643, Carmel, NY 10512. Canada: Canadian Marketing Association, 1 Concorde Gate, Suite 607, Don Mills, Ontario M3C 3N6.</p>
+
+ <p>Eddie Bauer is an active member of the Direct Marketing Association (DMA). <a href="http://www.the-dma.org/consumers/privacy.html" target="_blank">Click here</a> for additional privacy information from the DMA. If you feel that our site is not following our stated privacy policy, please contact us. You may also contact the DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>.</p>
+ </div> <!--/indent -->
+  <p>^ <a href="#top">Return to top</a></p>
+ </div> <!--/indent -->
+</div> <!--/indent -->
+    </div><!-- /tricol-fill -->
+</div><!-- /tricol-center --></div>
+<div id="tricol-left" class="tricol"></div>
+<div id="tricol-right" class="tricol"><div id="tricol-right" class="tricol">
+      <div id="tricol-sidebar">
+        <div id="tricol-fill">
+      <h5>Changes To This Privacy Policy Statement</h5>
+
+       <p>From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Statement. If our information practices change at some time in the future we will post the policy changes on the privacy page of our website to notify you of these changes. You should check our website periodically for more information on how we use the data we collect. If there is a material change in the manner we use data that we collect, we will update this Privacy Statement to reflect these changes.</p> 
+         </div><!-- /tricol-fill -->
+      </div><!-- tricol-sidebar -->
+</div><!-- tricol-right --></div>
+</div></div></div>
+</div><!-- end torso --><div id="shin" class="clearfix"></div><!-- end shin --></div><!-- end above --><div id="below"><div id="footer"><div id="footer-wrap" class="liquid"><ins><ul id="list1" class="nav"><li><a href="http://ebm.e.eddiebauer.com/r/regf2?a=0&amp;aid=225355676&amp;n=201" title="Sign Up for Email" id="emailSignup" name="Sign Up for Email Footer">Sign Up for Email</a></li><li><a id="locatorLink" title="Store Locator" href="javascript:void(0);" name="Store Locator Online Footer">Store Locator</a></li><li><a id="eobLink" title="Catalog Quick Order" href="javascript:void(0);" name="Catalog Quick Order Footer">Catalog Quick Order</a></li><li><a title="Request Catalog" href="http://www.eddiebauer.com/custserv/catalog_request.jsp" name="Request Catalog Footer">Request Catalog</a></li><li><a title="Eddie Bauer Friends Program" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" name="EB Friends Footer">Eddie Bauer Friends</a></li><li><a title="EB Credit Card" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="EB Credit Card Footer">EB Credit Card</a></li><li><a title="Gift Cards" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=304" name="Gift Card Footer">Gift Cards</a></li><li class="last"><a title="Customer Service" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296" name="Customer Service Footer">Customer Service</a></li></ul></ins><ins><ul class="nav"><li><a href="http://investors.eddiebauer.com/about/" target="_blank" title="Company Info" name="Company Info Footer">Company Info</a></li><li><a href="http://investors.eddiebauer.com/careers/" target="_blank" title="Careers" name="Careers Footer">Careers</a></li><li><a title="Corporate Incentives" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=309&amp;nonav=true" name="Corporate Incentives Footer">Corporate Incentives</a></li><li><a title="Also by Eddie Bauer" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=600" name="Also by Eddie Bauer Footer">Also by Eddie Bauer</a></li><li><a title="Affiliates" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=311&amp;nonav=true" name="Affiliates Footer">Affiliates</a></li><li><a title="Terms of Use" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=299" name="Terms of Use Footer">Terms of Use</a></li><li><a title="Privacy" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310&amp;nonav=true" name="Privacy Footer">Privacy</a></li><li>1-800-625-7935</li><li class="last"><a href="#top" title="back to Top">TOP ↑</a></li></ul></ins><div class="pngie" style="width:200px;height:50px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/EBSIG_ccc.png',sizingMethod='scale');;"><a title="Eddie Bauer" href="http://www.eddiebauer.com/home.jsp" name="Home Footer"><img class="png" src="/assets/EBSIG_ccc.png" alt="Eddie Bauer"></a></div><div id="locator-over" style="visibility:hidden;"><div class="hd"><a href="javascript:void(0);" id="locatorClose" title="Close Store Locator"><span>Close window</span></a></div><div class="bd"><form action="http://www.eddiebauer.com/custserv/mapquest/store_locator.cmd" method="post" name="store_query"><input type="hidden" name="form_state" value="store_query"><input name="ZIPCODE_OR_STATE" id="ZIPCODE_OR_STATE" value="true" type="hidden"><input name="searchType" id="searchType" value="ZIP" type="hidden"><input name="template" id="template" value="map_search" type="hidden"><input class="mqInput" name="bookmark" id="bookmark" value="LASTSTORESEARCH" type="hidden"><input class="mqInput" name="country" id="country" value="US" type="hidden"><input class="mqInput" name="pheight" id="pheight" value="324" type="hidden"><input class="mqInput" name="pwidth" id="pwidth" value="504" type="hidden"><input class="mqInput" name="transaction" id="transaction" value="search" type="hidden"><input class="mqInput" name="radius" id="radius" value="50" type="hidden"><h6>Store Locator</h6><dl><dt>Find stores by ZIP/postal code.</dt><dd><input class="mqPostal" name="postalCode" maxlength="10" size="15" id="zip" type="text">&nbsp;<input type="submit" class="button" value="GO"></dd></dl><ul><li><a href="http://www.eddiebauer.com/custserv/mapquest/store_locator.jsp" name="Store Locator By City Footer">Find by City and State</a></li><li><a href="http://www.eddiebauer.com/custserv/custserv.jsp?pageName=newstores" name="New Store Openings Footer">New Store Openings</a></li></ul></form></div></div><div id="eob-over" style="visibility:hidden;"><div class="hd"><a href="javascript:void(0);" id="eobClose" title="Close Store Locator"><span>Close window</span></a></div><div class="bd"><form id="quickOrderFooterForm" action="javascript:validateSkuFormat('deptMFT','effortMFT','itemMFT', 'Catalog Quick Order');" method="post" name="quickOrderFooterForm"><input type="hidden" name="form_state" value="quickOrderFooterForm"><input type="hidden" name="entry" value="1"><input type="hidden" name="check"><input type="hidden" name="checkall"><h6>Catalog Quick Order</h6><p>Shop with your catalog.</p><dl><dt>Enter item number below.</dt><dd class="clearfix"><div class="alignEobNums"><input type="text" autocomplete="off" maxlength="3" size="3" id="deptMFT" name="deptMFT" value="" onkeyup="eobAutotab('deptMFT', 'effortMFT',3);"><br><span id="deptFormatFoot">A00</span></div><div class="alignEobNums"><input type="text" autocomplete="off" maxlength="3" size="3" id="effortMFT" name="effortMFT" value="" onkeyup="eobAutotab('effortMFT', 'itemMFT',3);"><br><span id="effortFormatFoot">000</span></div><div class="alignEobNums"><input type="text" autocomplete="off" maxlength="4" size="4" id="itemMFT" name="itemMFT"><br><span id="itemFormatFoot">0000</span></div><div class="alignEobNums"><input type="submit" class="button" value="GO" name="SubmitForm" title="GO"></div></dd></dl><ul><li><a href="http://www.eddiebauer.com/catalog/catalog_quick_order.jsp">How to Find an Item Number</a></li></ul></form></div></div>
+</div></div></div><!-- end below --><div id="layerbox" class="ignore"></div><!-- BEGIN COREMETRICS SUPPORT --><script type="text/javascript">cmSetProduction();
+search_string=false;
+
+                cmCreatePageviewTagOnCustomerService();
+          </script><!-- END COREMETRICS --><script type="text/javascript">
+    		SetCookie('CMLEVEL', '3', '', '/');
+    
+    SetCookie('PREVIOUS', document.URL, '', '/');
+</script>
+
+</body></html>
