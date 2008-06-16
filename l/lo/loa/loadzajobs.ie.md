@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118225344id_/http%3A//www.loadzajobs.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616033643id_/http%3A//www.loadzajobs.ie/privacy.jobs) for the most accurate reproduction.*
 
-# LoadzaJobs.ie : Privacy
-
-## Privacy
+# Privacy | LoadzaJobs.ie
 
 Updated 3 May 2007
 
@@ -25,7 +23,5 @@ Throughout this website you may have an opportunity to send us information relat
 
 
 You undertake to provide true, accurate, current and complete information about yourself as prompted by the Services registration form (the "Registration Data"); and maintain and promptly update the Registration Data to keep it true, accurate, current and complete. You are aware that registration on LoadzaJobs.ie enables you to use the same username and password details to access a range of websites operated by Internet Interactions Limited.
-
-###### Company and data protection information.
 
 The data controller of data on the Website is Independent Newspapers (Ireland) Limited, which is a company in the Independent News & Media group, registered in Ireland under company number 153066, whose registered office is at Independent House, 27-32 Talbot Street, Dublin 1. VAT number IE 4532614 O. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
