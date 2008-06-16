@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011150649id_/http%3A//www.thenorthwestern.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616064251id_/http%3A//www.thenorthwestern.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# None
+# thenorthwestern.com | Oshkosh PRIVACY | Oshkosh Northwestern
 
 Effective Date: March 2007
 
