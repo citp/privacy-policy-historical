@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the have2have.co.za privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216043249id_/http%3A//www.have2have.co.za/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the have2have.co.za privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616110308id_/http%3A//www.have2have.co.za/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Have2Have Online Store
 
