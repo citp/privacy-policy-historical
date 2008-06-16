@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219040855id_/http%3A//www.theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616102523id_/http%3A//www.theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# TheOptionsGuide.com - Privacy Policy
+# The Options Guide - Privacy Policy
+
+### Options Trading Basics & Strategies Explained
 
 TheOptionsGuide.com understands that the privacy and security of information that is gathered and used on our website is important to our users. We want you to be comfortable as you explore our site, and participate in its interactive nature. We are committed to providing an online environment that is both Private and Secure by adhering to confidentiality standards that are designed to protect our visitors' personal information. TheOptionsGuide.com has created this Privacy Policy Statement to demonstrate our commitment to the protection of your privacy.
 
@@ -30,6 +32,4 @@ TheOptionsGuide.com works hard to ensure that our systems are secure and that th
 
 TheOptionsGuide.com reserves the right to change this Privacy Policy Statement at any time. Changes will be effective immediately upon posting to our website. By using this site, you signify your agreement with and acceptance of TheOptionsGuide.com's Privacy Policy Statement. If you do not accept this policy, please do not use this site in any way. Your continued use of TheOptionsGuide.com sites following the posting of changes to these terms will mean you accept those changes, regardless of whether TheOptionsGuide.com provides you with additional notice of such changes. We recommend that visitors to our website re-visit this Privacy Policy page on occasion to learn of changes to our privacy practices and policies.
 
-|   
-  
-Disclaimer: The information contained on this site is provided for general informational purposes only. All examples are exclusive of commissions, interest and dividends. Neither the information provided nor any opinion expressed in this website constitutes a recommendation to purchase or sell a security, or to provide investment advice. Options involve risk and are not suitable for all investors. Prior to buying or selling an option, a person must receive a copy of [Characteristics and Risks of Standardized Options.](http://www.optionsclearing.com/publications/risks/riskstoc.pdf) Copies of this document may be obtained from your broker, from any exchange on which options are traded or by contacting The Options Clearing Corporation, One North Wacker Dr., Suite 500 Chicago, IL 60606 (1-800-678-4667).
+| 
