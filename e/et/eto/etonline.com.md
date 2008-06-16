@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213092630id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616222811id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
 
 # CBS Interactive - Privacy Policy
 
 ## CBS Interactive Privacy Policy
 
-### Effective Date: March 28, 2007
+### Effective date: March 28, 2008   
+Updated on: February 15, 2008
 
-This Privacy Policy applies only to the web sites owned or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") that post a link to this Privacy Policy (the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
+This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20071213092630id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
+Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20080616222811id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
 
 ### Table of Contents
 
   * Types Of Information That May Be Collected
-    * Web Site Usage Information & IP Address
+    * Web Site Usage Information & Device Identifiers 
     * Information You Provide Us
     * Information From Other Sources
-    * E-mail A Friend
+    * Send To A Friend
   * How Information May Be Collected
     * Cookies
     * Web Beacons
@@ -46,13 +47,13 @@ Return to Top
 
 The following are the types of information we may collect:
 
-##### Web Site Usage Information & IP Address
+##### Web Site Usage Information & Device Identifiers
 
-We may receive and store certain types of web site usage information whenever you visit the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. An IP address is a number that is automatically assigned to your computer whenever you access the Internet, and our computers identify your computer by its IP address. We may associate your IP address with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
+We may receive and store certain types of web site usage information whenever you visit or interact with the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. We also may collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
 
 ##### Information You Provide Us
 
-We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for newsletters and other e-mail communications, when you communicate or otherwise interact with us, contests or sweepstakes, surveys or voting or when you purchase a product or service through the Web Sites. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Sites. Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Sites' features.
+We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, cell phone number, and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for newsletters and other communications (e.g., whether by e-mail, mobile device, etc.), when you communicate or otherwise interact with us, when you submit information to us (whether or not the information is intended to be posted on the Web Sites), contests or sweepstakes, surveys or voting or when you purchase a product or service through the Web Sites. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Sites. Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Sites' features.
 
 For your convenience, if you register with one of our Web Sites through which you create a user name and password, that user name and password may work on the other Web Sites where user names and passwords are utilized. The personal information you provide and any additional information we collect about you may be used by us and across all of the Web Sites.
 
@@ -60,9 +61,9 @@ For your convenience, if you register with one of our Web Sites through which yo
 
 We may receive information about you from other sources; for example, we may obtain geographic or demographic information, or information regarding your possible interests, from third parties, or we may receive information from a marketing partner in connection with a co-branded web site or promotion.. We may combine the information we receive from those other sources with information we collect through the Web Sites. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information.
 
-##### E-mail A Friend
+##### Send To A Friend
 
-If you send a friend an e-mail from the Web Sites, the information you provide (names and e-mail addresses) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent.
+If you send a friend a communication from the Web Sites, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent.
 
 #### HOW INFORMATION MAY BE COLLECTED
 
@@ -70,16 +71,16 @@ Return to Top
 
 ##### Cookies
 
-The Web Sites use standard technology called "cookies," which are small data files that are transferred to your computer when you visit the Web Sites and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Sites whenever you visit the Web Sites, and may make navigating and using the Web Sites easier for you. Also, by tracking how and when you use the Web Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Sites are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Sites. Cookies may also allow the Web Sites to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Sites. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Sites may not provide you with an acceptable user experience if you have disabled the use of cookies. 
+The Web Sites use standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Sites and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Sites whenever you visit the Web Sites, and may make navigating and using the Web Sites easier for you. Also, by tracking how and when you use the Web Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Sites are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Sites. Cookies may also allow the Web Sites to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Sites. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Sites may not provide you with an acceptable user experience if you have disabled the use of cookies. 
 
 ##### Web Beacons
 
-The Web Sites and any e-mails sent by the Web Sites may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following:
+The Web Sites and any communications sent by the Web Sites may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following:
 
   * counting unique users (actually, unique web browsers), visits and page views.
   * monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.
   * personalizing your experience when you visit the Web Sites, including the advertising and content you see.
-  * determining whether or not e-mail messages were opened, links were clicked or notifications/offers were acted upon.
+  * determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
 
 
 
@@ -89,7 +90,7 @@ Return to Top
 
 The information you provide to us may be used to:
 
-  * Send you newsletters and/or other e-mail communications for which you have registered;
+  * Send you newsletters and/or other communications for which you have registered;
   * Contact you about the Web Sites, including, without limitation, in our discretion to notify you of changes to this Privacy Policy, the Web Site's Terms of Use, or other policies that affect your use of the Web Sites;
   * Confirm or fulfill an order you have made;
   * Provide special offers or promotional materials to you on behalf of us or third parties;
@@ -105,7 +106,7 @@ The information you provide to us may be used to:
 
 Moreover, if you submit to Company and/or the Web Sites comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](http://www.cbsdigitalmedia.com/info/tou), which governs any content you submit through the Web Sites.
 
-Please note that information submitted to the Web Site via a "contact us," "help" or other similar e-mail address or form will not necessarily receive a response. We will not use the information provided to these e-mail addresses or forms to contact you for marketing purposes unrelated to your request.
+Please note that information submitted to the Web Sites via a "contact us," or other similar mechanisims will not necessarily receive a response. We will not use any such information you provide to contact you for marketing purposes unrelated to your request.
 
 #### THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
 
@@ -117,11 +118,11 @@ The Web Sites may use third party network advertisers to serve advertisements on
 
 Return to Top
 
-The following outlines the ways in which your information may be shared with others:
+Except as otherwise disclosed at the time you provide your information, the following outlines the ways in which your information may be shared with others:
 
 ##### Third parties providing services on our behalf
 
-We employ third parties to perform functions on our behalf; examples include hosting or operating Web Sites, fulfilling orders for products and services purchased through the Web Sites, sending e-mail, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Sites' behalf.
+We employ third parties to perform functions on our behalf; examples include hosting or operating Web Sites, fulfilling orders for products and services purchased through the Web Sites, sending e-mailand/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Sites' behalf.
 
 ##### Non-Personal Information
 
@@ -145,13 +146,13 @@ Company shares the information collected through the Web Sites with and among th
 
 ##### Legal Protections and Law Enforcement
 
-We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; or to protect the legal rights, interests, or safety of the Web Sites, our users or others. We may also use IP addresses to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; or to protect the legal rights, interests, or safety of the Web Sites, our users or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
 
 #### CORRECTING/UPDATING PERSONAL INFORMATION
 
 Return to Top
 
-The Web Sites may contain web pages through which you can change your e-mail subscriptions or correct or update the personal information you have provided to us through registration with one or more of the Web Sites. With regard to e-mail subscriptions, you also may cancel or modify your e-mail subscriptions by following the instructions contained within an e-mail.
+The Web Sites may contain web pages through which you can change your subscriptions or correct or update the personal information you have provided to us through registration with one or more of the Web Sites. With regard to subscriptions, you also may cancel (or modify if applicable) your subscriptions by following the instructions provided to you in applicable communications regarding such subscriptions.
 
 #### CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
 
@@ -179,7 +180,7 @@ The Web Sites are operated in the United States. If you are located in the Europ
 
 Return to Top
 
-Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Sites, and you do so at your own risk.
+Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Sites, and you do so at your own risk.
 
 #### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
 
