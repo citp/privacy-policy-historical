@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the bergdorfgoodman.com privacy policy that was archived on 2007-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071218155606id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bergdorfgoodman.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616081343id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.-->
 
 <html><head>
+	
+	
+	
+	
 	
 	          <!-- INDEX PAGE -->
     		<title>Bergdorf Goodman - World-renowned fashion, plus exclusive beauty brands</title>
@@ -20,7 +24,11 @@
 <link rel="stylesheet" type="text/css" href="/store/nmStyleSheet.css">
 <link rel="stylesheet" type="text/css" href="/category/catalog/cat_styles.css">
 
-<script language="JavaScript" src="/store/nav/imageRollover.js;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI"></script>
+<script language="JavaScript" src="/store/nav/imageRollover.js;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY"></script>
+
+
+    	<script src="http://cts.channelintelligence.com/19468206_landing.js"></script>
+    
 
 <script language="JavaScript">
     function shimImage(img){
@@ -73,7 +81,12 @@
 
 
 
+
 <link rel="stylesheet" type="text/css" href="/category/catalog/cat_styles.css">
+
+
+
+
 
 
 
@@ -81,18 +94,18 @@
 
 <script language="JavaScript">
 	function getProfileId(){
-		var pId ='1009240993';
+		var pId ='1070905693';
 		return pId;
 	}
 </script>
 
-<script language="javascript" src="/store/utils/cheetahmail/sc_cart.js;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI"></script>
+<script language="javascript" src="/store/utils/cheetahmail/sc_cart.js;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY"></script>
 
 
 
 
 
-<table><script language="JavaScript">var s_account="nmgincglobalprod";</script><script language="JavaScript" src="/store/utils/omniture/s_code.js;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI"></script></table>
+<table><script language="JavaScript">var s_account="nmgincglobalprod";</script><script language="JavaScript" src="/store/utils/omniture/s_code.js;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY"></script></table>
 
 
 <!-- MAIN HEADER HTML -->
@@ -138,78 +151,84 @@ A.promoBarLink:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px
 				    		</td>
 				    		
 							<td align="right"><img src="/store/nav/images/shim.gif" width="52" height="1" border="0"></td>
-						     <td align="right" valign="top" height="20">
+				        <!--DROPLET BEAN="/atg/dynamo/droplet/IsEmpty">
+                 			 <PARAM NAME="value" VALUE="bean:NMNavHistory.navHistorySilo">
+                			  <OPARAM NAME="false">
+                  			    <DROPLET BEAN="/atg/dynamo/droplet/Switch">
+                     			    <PARAM NAME="value" VALUE="bean:NMNavHistory.navHistorySilo.flgDisplaySaleNav">
+                     			      <OPARAM NAME="true"><TD ALIGN=right VALIGN=top HEIGHT=20>&nbsp;</TD></OPARAM>
+                      			      <OPARAM NAME="default"><TD ALIGN=right VALIGN=top HEIGHT=20><%@ include file="/store/nav/frg_catalog_search.jhtml" %></TD></OPARAM>
+                    			     </DROPLET>
+                 			 </OPARAM>
+                			 <OPARAM NAME="true"><TD ALIGN=right VALIGN=top HEIGHT=20><%@ include file="/store/nav/frg_catalog_search.jhtml" %></TD></OPARAM>
+                			 </DROPLET-->
 
-
-
-
-
-
-
-		
-		
-
-
-<!-- Added by HD to capture search text	-->
+              
+              
+                
+                  <style type="text/css">                                                    
+                  <!--    
+                    form.searchBox { padding:5px 0px 5px 0px; }
+                  -->
+                  </style>                
+                
+                  <td align="RIGHT" valign="MIDDLE" width="182" height="22">
+                    
 
 
 <script language="JavaScript">
-function addSearchTextToUrl (txt) {
-
-		var url	= txt.action;
-		var pindex = url.indexOf("?",0);
-		var lstr = url.length;
-		var args = url.substr(pindex,lstr);
-
-		<!-- alert(document.form1.action + "?searchTxt=" +	txt.srcText.value); -->
-		document.form1.action =	document.form1.orgUrl.value + args + "&searchTxt=" + escape(txt.srcText.value);
-		return true;
-}
-function clearTextBoxOnCondition(textBox,conditionText){
-        if(textBox.value == conditionText)
-          textBox.value="";
-    }
-    function resetState(){
-	try{
-		document.form1.ip_state.value = document.globalForm.ip_state.value;
-	}catch(e) {
-		// do nothing.  The reason for this is because upon initial search document.globalForm does not have
-		// any properties.  Hence the null check does not work. This avoids a javascript error.
-	}	
-}
+    function clearTextBoxOnCondition(textBox,conditionText){
+        if(textBox.value == conditionText) textBox.value="";
+    }  
     
+  function handleEnterSearch (field, event) {
+    	var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+    	var inputTextSearch = document.searchBox.srcText.value;
+    	var trimmed = inputTextSearch.replace(/^\s+|\s+$/g, '') ;
+    	
+    	if (keyCode == 13 || event.type == 'click') {		
+		if(trimmed == '' || trimmed == 'Enter Search')
+		{		
+			return false;
+		}
+		
+    		} 
+    		else{
+    		return true;
+    		}
+    }       
+      
 </script>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td height="30" align="RIGHT">
-    
-      	<a href="http://www.bergdorfgoodman.com:80/store/catalog/47/searchTips.jhtml" class="topNav2"><img src="/category/navigation/search.gif" alt="Search Here" border="0"></a>&nbsp;
+<form name="searchBox" class="searchBox" method="POST" action="/endeca/frgSearchBox.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY?_DARGS=/endeca/frgSearchBox.jhtml&amp;_dynSessConf=453126192465776612">
+  <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+              
+	    
+		<td class="headerSearchText"><input type="text" name="srcText" size="20" onfocus="javascript:clearTextBoxOnCondition(document.searchBox.srcText,'Enter Search');" value="Enter Search" onkeypress="javascript: return handleEnterSearch(this, event);"><input type="hidden" name="_D:srcText" value=" "></td>
+	              
+        
       
-  </td>
+          <td><img src="/category/search/images/shim.gif" width="1" height="1"></td>
+        
+      <td valign="middle">
+        <input type="image" src="/category/search/images/search_go.gif" border="0" onclick="javascript: return handleEnterSearch(this, event);" name="/nm/formhandler/SearchFormHandler.search"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.search" value=" ">
+        <input type="hidden" value="/search.jhtml" name="/nm/formhandler/SearchFormHandler.successControllerPage"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.successControllerPage" value=" ">
+        <input type="hidden" value="/search.jhtml" name="/nm/formhandler/SearchFormHandler.errorControllerPage"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.errorControllerPage" value=" ">
+        <input type="hidden" value="" name="/nm/formhandler/SearchFormHandler.queryString"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.queryString" value=" ">
+        <input type="hidden" value="N=0" name="/nm/formhandler/SearchFormHandler.searchString"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.searchString" value=" ">
+        
+        <input type="hidden" value="" name="/nm/formhandler/SearchFormHandler.search"><input type="hidden" name="_D:/nm/formhandler/SearchFormHandler.search" value=" ">
+      </td>
+  	</tr>
+  </tbody></table>
+</form>
 
-  
-    <form name="form1" action="http://www.bergdorfgoodman.com:80/store/catalog/47/search.jhtml" method="GET" onsubmit="resetState()"></form>
-     <input type="hidden" name="ip_state" value="">
-     <input type="hidden" name="ip_autoSummarize" value="true">
-     <input type="hidden" name="ip_perPage" value="15">
-      <input name="orgUrl" type="hidden" value="/store/catalog/47/search.jhtml">
-   	 		
-    <td height="30">
-      <input name="srcText" type="TEXT" size="15" value="">
-    </td>  
-    <td height="30">      
-      </td><td height="22" valign="MIDDLE"><input type="image" border="0" src="/category/navigation/BG_go_button.gif" alt="Submit Search" value="Search"></td>
-    
-   			 
-    
-    
-</tr>
-</tbody></table>
 
-	
-	
-</td>
+                  </td>  
+                
+                              			 
+                			 
 						</tr></tbody></table>
                		</td>
               	</tr>
@@ -411,7 +430,7 @@ function clearTextBoxOnCondition(textBox,conditionText){
 							
 								
 										<td>
-													<a class="txtBody" href="http://www.bergdorfgoodman.com:80/store/catalog/template/saleSilo.jhtml?itemId=cat205700&amp;parentId=cat000000&amp;siloId=cat205700&amp;icid=topNavcat205700" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/category/cat205700/header_nav_over.gif',1)">
+													<a class="txtBody" href="http://www.bergdorfgoodman.com:80/store/catalog/template/saleSiloA.jhtml?itemId=cat205700&amp;parentId=cat000000&amp;siloId=cat205700&amp;icid=topNavcat205700" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/category/cat205700/header_nav_over.gif',1)">
 														
 														
 														
@@ -466,7 +485,7 @@ function clearTextBoxOnCondition(textBox,conditionText){
   	<td width="10"><img src="/store/nav/images/shim.gif" width="10"></td>
     <td width="140" valign="TOP">
 	    
-<script src="/store/service/liveAssistant.js;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI"></script>
+<script src="/store/service/liveAssistant.js;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY"></script>
          
 <table width="140" cellspacing="0" cellpadding="5">
 <tbody><tr>
@@ -482,7 +501,7 @@ function clearTextBoxOnCondition(textBox,conditionText){
     	<td width="4">
 	    	<img src="/store/nav/images/shim.gif" height="2"><br>
 	    	<img src="/store/service/images/yellow_arrow.gif" border="0"></td>
-    	<td><a href="/store/service/chatlink.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI" target="chatLPneimanmarcus" onclick="javascript:window.open('/store/service/chatlink.jhtml','chatLPneimanmarcus','width=472,height=320'); return false;" class="txtBody">Online Chat</a></td>
+    	<td><a href="/store/service/chatlink.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY" target="chatLPneimanmarcus" onclick="javascript:window.open('/store/service/chatlink.jhtml','chatLPneimanmarcus','width=472,height=320'); return false;" class="txtBody">Online Chat</a></td>
     </tr>
     </tbody></table>
     <table border="0" cellspacing="0" cellpadding="0">
@@ -490,7 +509,7 @@ function clearTextBoxOnCondition(textBox,conditionText){
     	<td width="4">
 	    	<img src="/store/nav/images/shim.gif" height="2"><br>
 	    	<img src="/store/service/images/yellow_arrow.gif" border="0"></td>
-    	<td><a href="/store/service/contactus.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI" class="txtBody">E-mail</a></td></tr>
+    	<td><a href="/store/service/contactus.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY" class="txtBody">E-mail</a></td></tr>
     </tbody></table>
     <br>
     <br>
@@ -551,7 +570,7 @@ function clearTextBoxOnCondition(textBox,conditionText){
         use, and protection of information about you and your account. To obtain a copy of our 
         credit card privacy policy:
         <ul>
-        	<li>Click to <a href="/category/assistance/service/shoppingOnline.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI#nmccuse" class="txtBodyLink">review BG Credit Card policy</a> online</li>
+        	<li>Click to <a href="/category/assistance/service/shoppingOnline.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY#nmccuse" class="txtBodyLink">review BG Credit Card policy</a> online</li>
         	<li>Call 1.888.774.2424</li>
         	<li>
         		Write:<br>
@@ -930,13 +949,13 @@ A.footerText:hover{font-family: Arial, Verdana, Helvetica, sans-serif; font-size
 	</tr>
 		<tr>
 		<td colspan="1">
-			<a href="/store/catalog/template/catF7.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI?itemId=catstore&amp;parentId=cat000000"><img src="/category/navigation/store_link.gif" width="153" height="28" alt="" border="0"></a></td>
+			<a href="/store/catalog/template/catF7.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY?itemId=catstore&amp;parentId=cat000000"><img src="/category/navigation/store_link.gif" width="153" height="28" alt="" border="0"></a></td>
 		<td>
 			<a href="http://www.incircle.com/index.jhtml?rid=cat000012"><img src="/category/navigation/incircle.gif" width="174" height="28" alt="" border="0"></a></td>
 		<td colspan="1">
 			<img src="/category/navigation/previews_text.gif" width="243" height="28" alt=""></td>
 		<td>
-        					   <form name="registerForEmail" action="/store/user/registerforemail.jhtml;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI" style="margin-bottom:0; line-height:0; padding:0px; margin:0px;">
+        					   <form name="registerForEmail" action="/store/user/registerforemail.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY" style="margin-bottom:0; line-height:0; padding:0px; margin:0px;">
   						   <table border="0" cellspacing="0" cellpadding="0">
     							<tbody><tr>
     								<td valign="top">							
@@ -958,7 +977,7 @@ A.footerText:hover{font-family: Arial, Verdana, Helvetica, sans-serif; font-size
 			</td>
 
 		<td colspan="3" align="right">
-     								<a href="http://www.bergdorfgoodman.com:80/store/service/nmAssistance.jhtml" class="footerText">© 2007, BergdorfGoodman.com,</a>
+     								<a href="http://www.bergdorfgoodman.com:80/store/service/nmAssistance.jhtml" class="footerText">© 2008, BergdorfGoodman.com,</a>
 								<a href="http://www.bergdorfgoodman.com:80/category/assistance/service/security.jhtml" class="footerText"> Security &amp; Privacy Guarantee</a>
 
 </td>
@@ -976,7 +995,7 @@ A.footerText:hover{font-family: Arial, Verdana, Helvetica, sans-serif; font-size
 <!--
 
 
-ServerName: nmoapp33_CPU5
+ServerName: nmoapp33_CPU3
 ServerPort: 8840
 
 -->
@@ -992,7 +1011,7 @@ var lpPosX = 100;
 
 <script language="Javascript">
 
-    s.prop9="1009240993";
+    s.prop9="1070905693";
     
     var segId="";
     if(segId){
@@ -1055,7 +1074,7 @@ var lpPosX = 100;
 	var hs_ES = "28~bergdorfgoodman";
 	var h_w = window;
 </script>
-<script language="javascript" src="/store/utils/cheetahmail/sc_bergdorfgoodman.js;jsessionid=XV5UOOZV4ZHKSCQAAKMRPWI"></script>
+<script language="javascript" src="/store/utils/cheetahmail/sc_bergdorfgoodman.js;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY"></script>
 
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 	<script language="javascript" src="https://server.iad.liveperson.net/hc/LPneimanmarcus/x.js?cmd=file&amp;file=chatScript3&amp;site=LPneimanmarcus&amp;category=en;woman;2"> </script>
