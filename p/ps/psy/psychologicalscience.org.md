@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012095148id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616095055id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Association for Psychological Science: About APS
 
@@ -17,9 +17,12 @@ When you submit a membership application, the Association for Psychological Scie
 You may request that your name and address not be provided to third parties by writing:
 
 **Association for Psychological Science**  
-1010 Vermont Avenue, NW, 11th Floor  
-Washington, DC 20005-4918  
-Telephone: (202) 783-2077, Fax: (202) 783-2083
+1133 15th Street, NW  
+Suite 1000  
+Washington, DC 20005  
+USA 
+
+Telephone: +1 202.293.9300, Fax: +1 202.293.9350
 
 Your financial information is used for the sole purpose of billing you for products and services you have ordered. Credit card information is used only for completing the specific transaction for which the credit card information was supplied. APS does not collect or save credit card information.
 
@@ -43,5 +46,6 @@ If you have any additional questions or concerns about our privacy policy, pleas
 **Association for Psychological Science**  
 1010 Vermont Avenue, NW, 11th Floor  
 Washington, DC 20005-4918  
-Telephone: (202) 783-2077, Fax: (202) 783-2083  
+USA  
+Telephone: +1 202.783.2077, Fax: +1 202.783.2083  
 [Contact APS](https://web.archive.org/contact/ "Contact APS")
