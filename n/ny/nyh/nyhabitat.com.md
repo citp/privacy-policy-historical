@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215022225id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616150229id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -53,17 +53,9 @@ Should you have other questions or concerns about these privacy policies, please
 
 * * *
 
+All information regarding properties on this website is from sources deemed reliable. It is submitted subject to errors, omissions, change of price, commission or conditions, or withdrawal without notice. Photographs, descriptions and information about the properties reflect conditions at the time the photographs were taken or the descriptions or information obtained. 
+
+* * *
+
   
 
-
-[HOME](https://web.archive.org/)         [About us](https://web.archive.org/about-us.html)         [Media reports](https://web.archive.org/media-press.html)
-
-* * *
-
-All information regarding properties on this website is from sources deemed reliable. It is submitted subject to errors, omissions, change of price, commission or conditions, or withdrawal without notice. Photographs, descriptions and information about the properties reflect conditions at the time the photographs were taken or the descriptions or information obtained.
-
-* * *
-
-[Site Map](https://web.archive.org/site-map.html) | [RSS Feeds](https://web.archive.org/rss-feeds.html) | [Contact Us](https://web.archive.org/feedback.html?hl=) | Phone: **(212) 255-8018** Fax: (212) 627-1416.   
----  
-[Privacy](https://web.archive.org/privacy.html) \- Copyright ©1989-2007 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
