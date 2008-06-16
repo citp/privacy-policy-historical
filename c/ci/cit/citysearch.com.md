@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215090548id_/http%3A//www.citysearch.com/templates/profile/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616093200id_/http%3A//www.citysearch.com/templates/profile/policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -95,4 +95,4 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [](mailto:)[legal@citysearch.com](mailto:legal@citysearch.com).
 
-© 2007 IAC/InterActiveCorp. All rights reserved.
+© 2008 IAC/InterActiveCorp. All rights reserved.
