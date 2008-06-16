@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225051630id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616074536id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+|  |  | 
+
+  
+ 
 
 **Our Privacy Policy Summary**
 
@@ -149,3 +154,7 @@ __We may disclose information about you to law enforcement or other government o
 **_What Choices Do You Have?_**
 
 You can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of other SixWise.com **** features. SixWise.com **** offers the ability to correct or change the information collected through your use of SixWise.com. You can change information at any time and as often as necessary.  If you experience problems or have any questions about our services, contact us by email: [webmaster@sixwise.com](mailto:webmaster@sixwise.com). When you update information, we usually keep a copy of the prior version for our records.
+
+  
+  
+---|---|---
