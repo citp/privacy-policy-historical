@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027114354id_/http%3A//www.wptv.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616095252id_/http%3A//www.wptv.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Terms & Conditions - WPTV NewsChannel 5
+# Terms & Conditions | West Palm Beach, Boca Raton, Treasure Coast local news, weather, live radar, investigative from Newschannel 5 | WPTV.com
 
 **PRIVACY POLICY** All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved. WPTV.com® is a registered trademark of the Company. 
 
