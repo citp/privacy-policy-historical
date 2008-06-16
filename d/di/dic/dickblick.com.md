@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222141121id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034459id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Blick Art Materials
 
@@ -94,7 +94,13 @@ If you are concerned about cookies and want to avoid keeping them on your machin
 #####  What other information do you collect?  
   
   
+| 
+
 As you browse and order on our site, our servers log your activity and your path through dickblick.com, recording each request for a page as well as other information. Dick Blick collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information other than analyze it in aggregate, use it to diagnose occasional problems, or for audit purposes in the event of fraudulant or unscrupulous activity.   
+  
+---  
+  
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).   
   
 #####  Policy Changes  
 
