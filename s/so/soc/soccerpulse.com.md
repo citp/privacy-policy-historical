@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soccerpulse.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215014410id_/http%3A//www.soccerpulse.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerpulse.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616102628id_/http%3A//www.soccerpulse.com/policy.php) for the most accurate reproduction.*
 
-# SoccerPulse.com
+# None
 
-This document was last updated October 25th, 2006.  
+This document was last updated March 16th, 2008.  
 
 
 Soccerpulse.com is committed to protecting your privacy. The following privacy statement describes our practice with respect to the collection and use of your personally identifiable information (personal information) on this Web site. By using this Web site, you consent to the terms of our privacy statement and to Soccerpulse.com's processing of personal information for the purposes stated below.
@@ -55,7 +55,7 @@ If you have comments or questions with respect to this statement, please contact
 
 Soccerpulse.com  
 Attn: C. Meisner  
-5935 Indigo Place  
-Nanaimo BC  
+410 - 7 Vimy Ave  
+Halifax, Nova Scotia  
 Canada  
-V9V 1K4 
+B3M 4P9 
