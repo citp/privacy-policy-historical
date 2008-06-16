@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the newsrescue.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529092128id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsrescue.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616082055id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Wikidot - Free Wiki Hosting: Privacy Policy
 
 At Wikidot we care about the privacy of our users. If you use any of the Sites hosted by Wikidot you must accept the way we handle personal information that is described below.
 
-Through Wikdot.com Services Users are allowed to create individual Wiki Sites, edit and post Content, create profiles and communicate with other Users. For the Services to work it is required that some personal information is collected and selected information is displayed publicly. This Privacy Policy describes the way the personal information is used within the Wikidot Services.
+Through Wikidot.com Services Users are allowed to create individual Wiki Sites, edit and post Content, create profiles and communicate with other Users. For the Services to work it is required that some personal information is collected and selected information is displayed publicly. This Privacy Policy describes the way the personal information is used within the Wikidot Services.
 
 We will update the privacy policy from time to time. The most current version of the policy is always available at: <http://www.wikidot.com/legal:privacy-policy>.
 
 Personal information is data required to identify individual users, such as user name, email address, telephone number, IM identifier etc. and also activity of an individual and any other information that is linked to an individual.
 
-Wikdot.com collects information required for proper user account handling and user identification such as: email address, screen name (and password). Optionally Users can fill additional profile data including but not limited to: real name, gender, birth date, User's website, instant messaging contact info and location. Profile information is public. Profile information can be changed by any time by the User.
+Wikidot.com collects information required for proper user account handling and user identification such as: email address, screen name (and password). Optionally Users can fill additional profile data including but not limited to: real name, gender, birth date, User's website, instant messaging contact info and location. Profile information is public. Profile information can be changed by any time by the User.
 
 The Services also logs other information including IP address and browser type from both registered Users and anonymous visitors. This data is used for technical purposes of running the Services, monitor and analyze trends and improve the Services and for security and monitoring purposes. These aggregate data (with any individual information stripped such that no connection to individual users can be made) can be shared with third-parties to provide more relevant services and advertisements.
 
@@ -20,7 +20,7 @@ User email addresses are never displayed publicly nor revealed to other Users un
 
 Your email address is only revealed to the Users in your contact list. You shall be warned about it at the moment you add a User to your contact list.
 
-Email address may be used to send Wikdot Newsletter or other important Services information or updates and to notify User about events related to particular user account. The User can decide not to receive any emailed information from the Services by configuring the Account Settings.
+Email address may be used to send Wikidot Newsletter or other important Services information or updates and to notify User about events related to particular user account. The User can decide not to receive any emailed information from the Services by configuring the Account Settings.
 
 Email addresses are not shared with any third party, rent or sold.
 
@@ -41,6 +41,8 @@ You can set up the Wiki Site as _private_ which means only selected users (Site 
 
 
 If an unauthorized user is visiting your site he/she will be redirected to a page (by default `system:join`).
+
+We will not share, publish nor reuse any Content from private sites for purposes other than showing the Content to its authorized users. This is what "private" means.
 
 Advertisements appearing on any of the Wiki Sites can be delivered to Users and Visitors by Wikidot.com or any of our advertising partners. These partners may set additional cookies which are required for the ad server to work properly and optimize ads served to you. This Privacy Policy only covers cookies usage by the Wikidot.com Services and not by any advertising partners.
 
