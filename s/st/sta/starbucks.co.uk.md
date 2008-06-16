@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201080016id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616181234id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
 
 # English - privacypolicy
 
