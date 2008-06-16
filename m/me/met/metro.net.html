@@ -1,169 +1,129 @@
-<!--The following is the downloaded HTML source of the metro.net privacy policy that was archived on 2007-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212171030id_/http%3A//metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metro.net privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616034718id_/http%3A//www.metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>metro.net | Metro Privacy Policy and Copyright Information Privacy Policy </title>
-<meta name="GENERATOR" content="Stellent Content Publisher 7.2">
-<script language="JavaScript"><!--
-function Evaluate() {
-	var t0;
-	var t1;
-	
-	document.formTrip.place1.value=RemoveANDS(document.formTrip.place1.value);
-	document.formTrip.place0.value=RemoveANDS(document.formTrip.place0.value);
-
-	t0 = document.formTrip.place0.value;
-	t1 = document.formTrip.place1.value;
-
-	if (t0 == "" && s0 == "") {
-		alert("Please enter the place you will be leaving from - street, street intersection or landmark.");
-		document.formTrip.place0.focus();
-		document.formTrip.place0.select();
-		return 0;
-	} else if (t1 == "" && s1 == "") {
-		alert("Please enter your destination - street, street intersection or landmark.");
-		document.formTrip.place1.focus();
-		fdocument.formTrip.place1.select();
-		return 0;
-	}  
-}
-
-function RemoveANDS(s) {
-	var a
-	a = s.split("&")
-	return a.join("/")
-}
-
-function GetHour(){
-var d = new Date();
-document.formTrip.timehour.Value = d;
-}
-
-// -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/subsection_dept_woimage.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- InstanceBeginEditable name="Metadata" --><title>metro.net | Metro Privacy Policy</title>
+<link rel="Overview" href="default.htm">
+<link rel="next" href="../news_info/default.htm">
+<link rel="prev" href="../favicon.ico">
+<meta name="Keywords" content="Metro Privacy Policy">
+<meta name="Description" content="The Los Angeles County Metropolitan Transportation Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via Metro.net, and how it is used.">
+<link href="../Templates/metro_compliant.css" rel="stylesheet" type="text/css">
+<!-- InstanceEndEditable -->
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColElsLtHdr #sidebar1 { padding-top: 30px; }
+.twoColElsLtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<script type="text/javascript">
 <!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+var W3CDOM = (document.createElement && document.getElementsByTagName);
+
+var mouseOvers = new Array();
+var mouseOuts = new Array();
+
+window.onload = init;
+
+function init()
+{
+	if (!W3CDOM) return;
+	var nav = document.getElementById('sectionImage');
+	var imgs = nav.getElementsByTagName('img');
+	for (var i=0;i<imgs.length;i++)
+	{
+		imgs[i].onmouseover = imgs[i].onfocus = mouseGoesOver;
+		imgs[i].onmouseout = imgs[i].onblur = mouseGoesOut;
+		var suffix = imgs[i].src.substring(imgs[i].src.lastIndexOf('.'));
+		mouseOuts[i] = new Image();
+		mouseOuts[i].src = imgs[i].src;
+		mouseOvers[i] = new Image();
+		mouseOvers[i].src = imgs[i].src.substring(0,imgs[i].src.lastIndexOf('.')) + "_omo" + suffix;
+		imgs[i].number = i;
+	}
 }
 
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+function mouseGoesOver()
+{
+	this.src = mouseOvers[this.number].src;
 }
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+function mouseGoesOut()
+{
+	this.src = mouseOuts[this.number].src;
+}//-->
 </script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-<link href="../inc/metro_styles.css" rel="stylesheet" type="text/css">
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../images/default_r2_c7_f2.gif','../images/default_r2_c1_f2.gif','../images/default_r2_c2_f2.gif','../images/default_r2_c3_f2.gif','../images/default_r2_c4_f2.gif','../images/default_r2_c5_f2.gif','../images/default_r2_c6_f2.gif')"><a name="TopOfPage"> </a>
+<body class="twoColElsLtHdr"><div class="twoColElsLtHdr" id="container2">
+  <div id="container">
+    <div class="twoColElsLtHdr" id="header"> 
+      <p><span class="jumplinks"><a href="http://assistive.usablenet.com/tt/www.metro.net/default.asp" title="Go to accessible text-only version of metro.net home page">Text-Only Home Page</a>&nbsp;| <a href="#main" title="Go to this page's main body text/content area.">Main Content</a><br>
+      </span><img src="../images/default_r1_c1.gif" alt="Metro (Los Angeles) masthead image containing link to home page" width="499" height="65" border="0" align="left" usemap="#MetroMasthead">
+<map name="MetroMasthead" id="MetroMasthead"><area shape="rect" coords="8,4,53,48" href="../default.asp" target="_self" alt="Click here to return to metro.net home">
+</map>
+      </p> 
+      <form method="get" action="http://mtasearch2.metro.net/search">
+      <h6><strong><label for="q">Search<br>
+      
+                           <input type="text" name="q" size="10" maxlength="256" value=""></label></strong>
+                                <label for="site"> <select name="site">
+                                     <option value="Metro_Internet" selected="">Metro.net</option>
+                                     <option value="Riding">Riding Metro</option>
+                                     <option value="News">News and Information</option>
+                                     <option value="Projects">Projects/Programs</option>
+                                     <option value="Business">Doing Business</option>
+                                     <option value="Jobs">Jobs</option>
+                                     <option value="About_Us">About Us</option>
+                                   </select></label>
+                                   <input name="btnG" type="image" id="btnG" value="Google Search" src="../images/search2.gif" alt="Click here to begin your search" width="24" height="20">
+                                <input type="hidden" name="entqr" value="0">
+                           <input type="hidden" name="output" value="xml_no_dtd">
+                           <input type="hidden" name="sort" value="date:D:L:d1">
+                           <input type="hidden" name="client" value="Metro_Home">
+                           <input type="hidden" name="ud" value="1">
+                           <input type="hidden" name="oe" value="UTF-8">
+                           <input type="hidden" name="ie" value="UTF-8">
+                           <input type="hidden" name="proxystylesheet" value="Metro_Home">
+                           <input type="hidden" value="0" name="filter">
+                           </h6></form>
+                           </div>
+                           <!-- end #header -->
+                           <div class="sectionButtons" id="sectionImage"><a href="../riding_metro/default.htm"><img src="../images/default_r2_c1.gif" alt="Click here to access Riding Metro directory of information" width="88" height="30" border="0"></a><a href="../news_info/default.htm"><img src="../images/default_r2_c2.gif" alt="Click here to access News &amp; Info directory of information" width="81" height="30" border="0"></a><a href="../projects_studies/default.htm"><img src="../images/default_r2_c3.gif" alt="Click here to access Projects &amp; Studies directory of information" width="122" height="30" border="0"></a><a href="../doing_business/default.htm"><img src="../images/default_r2_c4.gif" alt="Click here to access Doing Business with Metro directory of information" width="96" height="30" border="0"></a><a href="../jobs/default.htm"><img src="../images/default_r2_c5.gif" alt="Click here to access Jobs directory of information" width="43" height="30" border="0"></a><a href="default.htm"><img src="../images/default_r2_c6.gif" alt="Click here to access About Us directory of information" width="70" height="30" border="0"></a><a href="../trip_planner.asp"><img name="default_r2_c7" src="../images/default_r2_c7.gif" width="155" height="30" border="0" id="default_r2_c7" alt="Click here to plan your trip - Trip Planner application"></a><a href="../riding_metro/realtime_traffic.htm"><img name="default_r2_c8" src="../images/default_r2_c8.gif" width="99" height="30" border="0" id="default_r2_c8" alt="Click here to view Real Time Traffic information"></a><!-- InstanceBeginEditable name="Color Band" --><div class="sectionBand_au"></div>
+	<!-- InstanceEndEditable --></div>
+    <div id="mainContent2"><!-- InstanceBeginEditable name="Main Content" --><span class="breadcrumb"><a href="default.htm">About Us</a> | Metro Privacy Policy</span>
+        <h1 class="Headline1_au"> <a name="main" id="main"></a>Metro Privacy Policy <br>
+</h1>
+      <p>The Los Angeles County Metropolitan Transportation  Authority (Metro) respects your privacy. The following describes our  Privacy Policy in relation to the information you submit via Metro.net,  and how it is used.</p>
+        <h2><font color="#D09145">Personal Information</font></h2>
+        <p>We may request personal information when you submit  comments on Metro service, in participating in a survey, poll, blog or  <a href="http://www.metro.net/news_info/livechat.htm">live chat</a>. You may also be asked to provide information when subscribing to an email newsletter, <a href="http://www.metro.net/riding_metro/riders_guide/email_alerts.htm">email alerts</a> (through GovDelivery) or purchasing Metro goods and services online.  This personal information may be in the form of your name, email  address, phone number, street address, etc. For example, you may be  asked to provide an email address and name if you'd like the Agency to  respond to input provided via feedback form or survey.</p>
+      <p>The personal information you voluntarily provide is  used to fulfill a request. Metro may use this information to inform you  or service information, promotions or other news of value to you as a  transit customer. Metro or its contracted vendors do not sell, trade,  or rent your personal information to anyone, or disclose personal  information except: </p>
+        <ol compact="compact">
+          <li> When the purpose and manner of the disclosure has been disclosed to you prior to your providing the information; or </li>
+          <li> When disclosure is required by law.</li>
+        </ol>
+        <h2><font color="#D09145">Cookies</font></h2>
+        <p>Cookies are small files which can be placed on your  computer by Web servers when you visit certain sites. These files may  contain information such as ID's and passwords, personal information,  or preferences. During your visit, the server can access these files to  help personalize pages or allow you to affect e-commerce more easily. </p>
+        <p>Metro does not set cookies from any page in the  metro.net domain. Our e-commerce and lobbyist registration pages set  cookies with login information only for the convenience of customers  who use these areas repeatedly. If you are concerned about privacy, you  may set up your browser not to accept cookies, or you can delete them  from your hard drive once you leave the section.</p>
+        <p>By using Metroâ€™s website, you consent to the  collection and use of information as described above. You will be  informed of any changes to the policy as it relates to your personal  information.</p>
+        <h2><font color="#D09145">Log activity for Statistical Analysis</font></h2>
+        <p>Metroâ€™s web servers track activity and site function  on its web site in the form of log files. These logs are analyzed by  third party statistical analysis software called NetTracker, providing  visitor activity trends and activity. This software produces reports  based on this data that is used to better organize information  contained onsite to improve the user experience. This information is  not used to identify our visitors on an individual level. To find out  more about NetTracker software visit <a href="http://www.nettracker.com/" target="_top">www.nettracker.com</a><a name="P12_2679" id="P12_2679"></a>. </p>
+        <h2><font color="#D09145">Cross Linking</font></h2>
+        <p>Metro provides links to other government transit  related websites as a service to our customers and does not share any  personal information with these entities. Note that Metro does not  endorse or take responsibility for information contained on those sites.</p>
+        <h1>
+          <!-- end #mainContent -->
+        </h1>
+    <!-- InstanceEndEditable --></div>
+    <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+    <br class="clearfloat">
+    <div id="footer2">
+      <p><a href="copyright.htm" title="Go to Metro's copyright information." target="_self">Copyright © 2008</a><font color="#999999">, LACMTA |</font> <a href="privacy_policy.htm" title="Go to Metro's privacy policy information." target="_self">Privacy Policy</a> <font color="#999999">| Search Powered by Google®</font></p>
+      <!-- end #footer -->
+    </div>
+    <!-- end #container -->
+</div>
+</div>
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="This table contains metro.net elements including a link returning you to the home page, navigation between major sections and a search function.">
-  <tbody><tr bgcolor="85898A">
-    <td width="500"><img src="../images/default_r1_c1_f2.gif" alt="Los Angeles County Metropolitan Transportation Authority (Metro)" border="0" usemap="#Map" width="500" height="65"></td>
-    <td valign="bottom"><form action="http://mtasearch2.metro.net/search" method="get" name="searchbox" id="searchbox">
-      <div align="left"><font size="1"><br>
-        <input type="text" name="q" size="25" maxlength="255" value="">
-         <input name="btnG" type="image" value="Google Search" src="../images/search.gif" alt="Click here to begin your search" width="60" height="20">
-         </font><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
-powered by Google</font> <font size="1">
-         <input type="hidden" name="site" value="Metro_Internet">
-         <input type="hidden" name="client" value="Metro_Internet">
-         <input type="hidden" name="proxystylesheet" value="Metro_Internet">
-         <input type="hidden" name="output" value="xml_no_dtd">
-         </font></div>
-    </form></td>
-    <td width="60%">&nbsp;</td>
-  </tr>
-  <tr valign="top">
-    <td width="500" bgcolor="#FFFFFF"><a href="../riding_metro/default.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Riding Metro','','../images/default_r2_c1_f2.gif',1)"><img src="../images/default_r2_c1.gif" alt="Click here for Riding Metro information." name="Riding Metro" width="88" height="30" border="0"></a><a href="../news_info/default.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('News and Info','','../images/default_r2_c2_f2.gif',1)"><img src="../images/default_r2_c2.gif" alt="Click here for Metro News &amp; Information." name="News and Info" width="81" height="30" border="0"></a><a href="../projects_programs/default.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Projects and Programs','','../images/default_r2_c3_f2.gif',1)"><img src="../images/default_r2_c3.gif" alt="Click here for Metro Projects and Programs information." name="Projects and Programs" width="122" height="30" border="0"></a><a href="../doing_business/default.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Doing Business','','../images/default_r2_c4_f2.gif',1)"><img src="../images/default_r2_c4.gif" alt="Click here for Metro Doing Business information." name="Doing Business" width="96" height="30" border="0"></a><a href="../jobs/default.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Jobs','','../images/default_r2_c5_f2.gif',1)"><img src="../images/default_r2_c5.gif" alt="Click here for Metro Careers information." name="Jobs" width="43" height="30" border="0"></a><img src="../images/default_r2_c6_f2.gif" alt="About Metro Information. " name="About Us" width="70" height="30" border="0"></td>
-    <td bgcolor="#F7F7F7"><a href="../trip_planner.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Trip Planner','','../images/default_r2_c7_f2.gif',1)"><img src="../images/default_r2_c7.gif" alt="Click here to get a customized itinerary using the Metro Trip Planner." name="Trip Planner" width="260" height="30" border="0"></a></td>
-    <td width="60%" background="../images/pixel.gif">&nbsp;</td>
-  </tr>
-  <tr bgcolor="#D09145">
-    <td width="500" height="29"><font color="#FFFFFF" size="1">&nbsp;&nbsp;&nbsp;<a href="../default.htm"><font color="#FFFFFF">Home</font></a><font color="#FFFFFF"> | <a href="default.htm"> <font color="#FFFFFF">About Us</font></a><font color="#FFFFFF"> | <font color="#333333">Metro Policy and Copyright Information </font></font></font></font></td>
-    <td height="29"><font size="1">&nbsp;</font></td>
-    <td width="60%" height="29"><font size="1">&nbsp;</font></td>
-  </tr>
-</tbody></table>
-<map name="Map">
-  <area shape="rect" coords="3,5,40,41" href="../default.htm" alt="Click here to return to metro.net home">
-</map><table border="0" width="760" height="100%" cellpadding="10" cellspacing="0"><tbody><tr>
-<td valign="top">
-
-
-
-<a name="P0_0"></a><b><font color="#d09145" size="4">Privacy Policy </font></b><br>
-
-<p><font size="2">The Los Angeles County Metropolitan Transportation Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via Metro.net, and how it is used.</font></p>
-
-<p><b><font size="2">Personal Information</font></b></p>
-
-<p><font size="2">We may request personal information when you submit information commenting on Metro service, in completing a survey, subscribing to an email newsletter or purchasing Metro goods and services online. This personal information may be in the form of your name, email address, phone number, street address, etc. For example, you may be asked to provide an email address and name if you'd like the Agency to respond to input provided via feedback form or survey.</font></p>
-
-<p><font size="2">The personal information you voluntarily provide is used to fulfill a request. Metro may use this information to inform you or service information, promotions or other news of value to you as a transit customer. Metro or its contracted vendors do not sell, trade, or rent your personal information to anyone, or disclose personal information except: </font></p>
-
-  <ol compact=""><li><font size="2"> When the purpose and manner of the disclosure has been disclosed to you prior to your providing the information; or </font></li>
-
-  <li><font size="2"> When disclosure is required by law.</font></li></ol>
-
-<p><b><font size="2">Cookies</font></b></p>
-
-<p><font size="2">Cookies are small files which can be placed on your computer by Web servers when you visit certain sites. These files may contain information such as ID's and passwords, personal information, or preferences. During your visit, the server can access these files to help personalize pages or allow you to affect e-commerce more easily. </font></p>
-
-<p><font size="2">Metro does not set cookies from any page in the metro.net domain. Our e-commerce and lobbyist registration pages set cookies with login information only for the convenience of customers who use these areas repeatedly. If you are concerned about privacy, you may set up your browser not to accept cookies, or you can delete them from your hard drive once you leave the section.</font></p>
-
-<p><font size="2">By using Metro’s website, you consent to the collection and use of information as described above. You will be informed of any changes to the policy as it relates to your personal information.</font></p>
-
-<p><b><font size="2">Log activity for Statistical Analysis</font></b></p>
-
-<p><font size="2">Metro’s web servers track activity and site function on its web site in the form of log files. These logs are analyzed by third party statistical analysis software called NetTracker, providing visitor activity trends and activity. This software produces reports based on this data that is used to better organize information contained onsite to improve the user experience. This information is not used to identify our visitors on an individual level. To find out more about NetTracker software visit </font><u><font color="#0000ff" size="2"><a href="http://www.nettracker.com/" target="_top">www.nettracker.com</a></font></u><font size="2"><a name="P12_2679"></a>. </font></p>
-
-<p><b><font size="2">Cross Linking</font></b></p>
-
-<p><font size="2">Metro provides links to other government transit related websites as a service to our customers and does not share any personal information with these entities. Note that Metro does not endorse or take responsibility for information contained on those sites.</font></p><!--/PAGEWATCH-->
-<p align="left">&nbsp;</p>
-<p align="left"><font size="1"><a href="../../about_us/copyright.htm">Copyright © 2007</a>, LACMTA | <a href="../../about_us/privacy_policy.htm">Privacy Policy</a></font></p></td>
-</tr>
-</tbody></table>
-
-
-</body></html>
+<!-- InstanceEnd --></body></html>
