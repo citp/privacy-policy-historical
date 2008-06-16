@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229090520id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616153335id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
 # Consumer Depot, Major Online Electronics, Computer Wholesaler Liquidator
 
@@ -37,7 +37,7 @@ Nashville, TN 37204
 
 By using our Web site, you consent to the collection and use of this information by Consumer Depot described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© Copyright 1997 - 2007 Consumer Depot, LLC. All rights reserved.
+© Copyright 1997 - 2008 Consumer Depot, LLC. All rights reserved.
 
 ## TOP SEARCHES
 
