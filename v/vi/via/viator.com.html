@@ -1,29 +1,34 @@
-<!--The following is the downloaded HTML source of the viator.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214203749id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viator.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616101655id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- SESSION ID: NULL -->
 <title>Viator Customer Care - 24/7 Assistance | Viator.com</title>
-<link rel="stylesheet" type="text/css" href="/css/global.css?v=2.3.0.67" media="screen">
-<link rel="stylesheet" type="text/css" href="/css/components.css?v=2.3.0.67" media="screen">
-<link rel="stylesheet" type="text/css" href="/css/marketing.css?v=2.3.0.67" media="screen">
-<link rel="stylesheet" type="text/css" href="/css/print.css?v=2.3.0.67" media="print">
+<link rel="stylesheet" type="text/css" href="/css/reset.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/global.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/components.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/marketing.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/openit.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/aboutus.css?v=2.4.1.202" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/reset.css?v=2.4.1.202" media="print">
+<link rel="stylesheet" type="text/css" href="/css/marketing.css?v=2.4.1.202" media="print">
+<link rel="stylesheet" type="text/css" href="/css/print.css?v=2.4.1.202" media="print">
 <link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="/js/console.js"></script>
-<!--<script type="text/javascript" src="/js/showCookieManager.js"></script>
-<script type="text/javascript" src="/js/calendar.js"></script>
-<script type="text/javascript" src="/js/tools.js"></script>
-<script type="text/javascript" src="/js/wishlist.js"></script>
-<script type="text/javascript" src="/js/shopCart.js"></script>
-<script type="text/javascript" src="/js/dateThingies.js"></script>-->
 <script type="text/javascript">
 var sCal1;
 var sCal2;
 function body_doonload() {
+if (typeof(onloadIfrIDArray) != 'undefined') {
+for(var i=0;i<onloadIfrIDArray.length;i++) {
+var theIfr = document.getElementById("tanIfr_"+onloadIfrIDArray[i]);
+theIfr.src = theIfr.getAttribute("srcURL");
+}
+}
 sCal1 = createCalendar('sCal1', document.pasForm.from_yyyy, document.pasForm.from_mm, document.pasForm.from_dd, null, null, null);
-document.getElementById('calender').appendChild(sCal1);
+document.getElementById('calendarDiv').appendChild(sCal1);
 sCal2 = createCalendar('sCal2', document.pasForm.to_yyyy, document.pasForm.to_mm, document.pasForm.to_dd, sCal1, null, null);
-document.getElementById('calender').appendChild(sCal2);
+document.getElementById('calendarDiv').appendChild(sCal2);
 sCal1.stopDateCal = sCal2;
 if (typeof(document.pasForm.country) != 'undefined') {
 document.pasForm.reset();
@@ -32,33 +37,272 @@ document.pasForm.reset();
 </script>
 <meta name="description" content="">
 <meta name="keywords" content="">
+<script language="Javascript1.2" type="text/javascript">
+document.write('<sc'+'ript type="text/javascript" charset="utf-8" '+
+'src="'+location.protocol+'//static.cleverset.com/js/cleverset-2.js"><\/script>');
+</script><script type="text/javascript" charset="utf-8" src="https://static.cleverset.com/js/cleverset-2.js"></script>
 </head>
 <body onload="body_doonload();">
 <iframe id="loadingMsg" frameborder="0" scrolling="no" src="/inc/loading.jsp" style="visibility:hidden;"></iframe>
-<div id="container-top"></div>
-<div id="container" class="clearfix">
-<div id="wrapper">
-<div id="top-navigation" class="clearfix">
-<ul class="utilities-left">
-<li><a href="http://www.viator.com/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a></li>
-</ul>
-<ul class="utilities-right">
-<li class="shopcartlink"><a href="http://www.viator.com/shopping-cart" title="Shopping cart">Shopping cart</a> |</li>
-<li class="wishlistlink"><!--<a href="#" onClick="showWishlistManager();return false;"><img src="/images/icon-wishlist.gif" alt="wishlist" /></a> --><a href="#" title="Wishlist" onclick="showWishlistManager();return false;">Wishlist</a> |</li>
-<li><a href="http://www.viator.com/faq" title="FAQs">FAQs</a> | </li>
-<li><a href="http://www.viator.com/gift-certificates" title="Gift Certificates">Gift Certificates</a> | </li>
-<li><a href="#" title="My Bookings" onclick="window.open('http://www.viator.com/popup/accessBooking.jspa','bookingwindow','scrollbars=1,resizable=1,width=420,height=545')">My Bookings</a> | </li>
-<li><a href="http://www.viator.com/customer-care" title="Customer Care">Customer Care</a> | </li>
-<li><a href="http://travelblog.viator.com" title="Travel Blog">Travel Blog</a></li>
-<!--<li><a href="#" onclick="window.open('http://www.viator.com/common/looktour-popup.jsp', null,'height=400,width=400,status=yes,toolbar=no,menubar=no,location=no')" title="Customer Care" class="look-tours">Customer Care - All other sites</a></li>-->
-</ul>
-</div><!-- End of top-navigation division -->
+<div class="side_shading">
 <div id="header">
-<img id="print-logo" src="/images/logo-print.gif" alt="print-logo">
-<h1>Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide.</h1>
-<a href="http://www.viator.com/"><img src="/images/header-logo.gif" width="150" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide."></a><img src="/images/header/8.jpg" width="610" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide." name="headerIMG" id="headerIMG">
+<a href="http://www.viator.com/"><img src="/images/general/header_logo.jpg" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide."></a><img src="/images/header/1.jpg" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide." name="headerIMG" id="headerIMG">
+<div class="header_tabs">
+<ul>
+<li class="shop_cart"><a href="http://www.viator.com/shopping-cart" title="shopping cart"><span>shopping cart</span></a> |</li>
+<li class="wish_list"><a href="#" onclick="showWishlistManager();return false;" title="wishlist"><span>wish list</span></a> |</li>
+<li class="gift_cert"><a href="http://www.viator.com/gift-certificates" title="gift certificates"><span>gift certificates</span></a></li>
+</ul>
+</div>
+<div class="viator_blog">
+<a href="http://travelblog.viator.com" title="Viator Travel Blog"><span>viator blog</span></a>
+</div>
+</div><!-- end header-->
+<div id="calendarDiv"><iframe id="sCal1" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe><iframe id="sCal2" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe></div>
+<div class="container customer_care">
+<div id="crumbler_box">
+<div id="crumbler">
+<strong>You are here:</strong>
+<a href="http://www.viator.com/" title="Viator Home">Viator Home</a> &gt;
+<a href="/customer-care" title="Customer Care">Customer Care</a> &gt;
+<h2 class="current">
+<a href="/privacy-policy" title="Privacy Policy">
+Privacy Policy</a>
+</h2>
+<div id="cs-cfg" style="display: none">
+<dl class="cs-cfg">
+<dt>retailerId</dt><dd>f9dea5e3</dd>
+</dl>
+</div>
+</div><!-- End of navigation division -->
+<div id="utilities">
+<a href="#" onclick="window.open('http://www.viator.com/popup/accessBooking.jspa','bookingwindow','scrollbars=1,resizable=1,width=550,height=545');return false;" title="My bookings">My bookings</a> |
+<a href="http://www.viator.com/customer-care" title="Customer Care">Customer Care</a> |
+<a href="http://www.viator.com/sitemap" title="Site map">Site map</a>
+</div>
+</div>
+<div class="hidden">
+<!-- Omniture Code-->
+<!-- Define default omniture variables-->
+<!-- End Define default omniture variables-->
+<!-- SiteCatalyst code version: H.3.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" language="JavaScript" src="http://www.viator.com/analytics/s_code.js"></script>
+<script type="text/javascript" language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="Customer Care : Privacy policy"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3="Customer Care"
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.currencyCode=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.eVar6=""
+s.eVar7=""
+s.eVar8=""
+s.eVar9=""
+s.eVar10=""
+s.eVar11=""
+s.eVar15=""
+s.eVar16=""
+s.eVar17=""
+s.eVar18=""
+s.eVar19=""
+s.eVar20=""
+s.eVar21=""
+s.eVar22=""
+s.eVar23=""
+s.eVar24=""
+s.eVar25=""
+s.eVar26=""
+s.eVar30=""
+s.eVar31=""
+s.eVar33=""
+s.eVar34=""
+s.eVar35=""
+s.eVar36=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript" language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript>
+<img src="http://viatorprd.122.2O7.net/b/ss/viatorprd/1/H.3--NS/0?[AQB]&cdp=3&[AQE]" height="0" width="0" border="0" alt="" />
+</noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.3. -->
+<!-- End of Omniture Code-->
+</div>
+<div id="content">
+<div class="content_title" id="top">
+<img src="//cache.graphicslib.viator.com/graphicslib/aboutUs/ViatorHeader2.jpg" alt="" class="content_image">
+<div class="print_logo"><img src="/images/general/logo_print.gif" alt="Viator logo">Tours, sightseeing tours, activities &amp; things to do | Viator.com</div>
+<!-- HeaderRH -->
+<div class="need_assist">	<img src="//cache.graphicslib.viator.com/graphicslib/mm/4697_1.jpg" alt="">	
+</div>
+<div class="content_intro">
+<h2>Viator Customer Care</h2>
+<h2 class="content_desc">Get help 24 hours a day, 365 days a year</h2>
+</div>
+<div class="content_tabs">
+<ul>
+<li><a href="/customer-care" title="Contact Us"><span>Contact Us</span></a></li>
+<li><a href="/faq" title="FAQ"><span>FAQ</span></a></li>
+<li class="on"><a title="Privacy policy"><span>Privacy policy</span></a></li>
+<li><a href="/terms-and-conditions" title="Terms &amp; conditions"><span>Terms &amp; conditions</span></a></li>
+</ul>
+</div>
+</div><!-- end content_title -->
+<div class="content_subtabs">&nbsp;</div>
+<div id="main" class="privacy_policy">
+<h2>The Viator Privacy Policy</h2>
+<div class="intro">
+<p>At Viator, we recognize that earning and retaining your trust is one of the most important things we do as a business. Protecting your privacy is a responsibility we take very seriously.</p>
+<p>We have prepared this Privacy Policy to help you understand how Viator collects, uses and safeguards the personal information you provide to us on our websites, via email, and through our service providers and distribution partners.</p>
+<p>Rest assured that, unless you explicitly give us consent to do otherwise, Viator will only collect and use your personal information as outlined in this Privacy Policy.</p>
+</div>
+<div class="jump_center_box">
+<div class="jump_center_body">
+<p>Jump to:</p>
+<ul>
+<li><a href="#whoWeAre">Who We Are</a></li>
+<li><a href="#whatInfo">What Information Do We Collect?</a></li>
+<li><a href="#cookies">Cookies, and How We Use Them</a></li>
+<li><a href="#personalInfo">How We Use Your Personal Information</a></li>
+<li><a href="#emailCommunications">Email Communications You Can Expect to Receive from Viator</a></li>
+<li><a href="#distPartners">Our Distribution Partners and Suppliers</a></li>
+<li><a href="#securityStorage">Our Security and Storage Measures</a></li>
+<li><a href="#changes">Changes to Our Privacy Policy</a></li>
+<li><a href="#contact">Contacting Us</a></li>
+<li><a href="#furtherInfo">Further Information about Privacy Laws</a></li>
+</ul>
+</div>
+</div>
+<h3 id="whoWeAre">Who We Are</h3>
+<p>Viator operates through different websites around the world, which are all part of the Viator family.</p>
+<ul>
+<li><strong>Viator.com</strong> is our flagship website, where we offer our complete range of products and services directly to consumers.</li>
+<li>At Viator we also work with hundreds of <strong>affiliate partners</strong> (<a href="http://www.viator.com/partnership#distribution" target="_self">click here</a> to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates' product-information and booking pages, and manage payment and credit card information.</li>
+<li>We also work with <strong>distributors</strong> (as discussed below) who manage the hosting, purchase and payment for our products and services.</li>
+</ul>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="whatInfo">What Information Do We Collect?</h3>
+<p>When you visit Viator.com or any of our affiliates' web pages that are hosted by us, our web server automatically recognizes and collects your IP address.</p>
+<p>In order to purchase our products or services, it is necessary for you to disclose personal information, including your name, address, email address, phone number, credit card details and other identifying information in order to process orders and provide customer service. If you do not provide personal information when purchasing one of our products or services, we cannot confirm your purchase or fulfill your booking.</p>
+<p>When you register with Viator, we ask for basic information including your name, email address and ask you to create a unique password and user id along with a password hint. To help us send more relevant communications to you (if you choose to receive them) we keep track of all website searches and bookings. For example, if you frequently visit Paris and London, we may send you special notices listing deals and popular products for those destinations. If you subscribe to any of our email marketing communications - including newsletters and destination alerts, it is necessary to disclose your name, your home country, and email address.</p>
+<p>In some instances we may also ask for personal demographic data such as your country of residence, gender, age, travel habits, etc.</p>
+<p>We also use cookies (as discussed below) to collect information about the performance and usability of our websites.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="cookies">Cookies, and How We Use Them</h3>
+<p>"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you.</p>
+<p>At Viator we make limited use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs.</p>
+<p>We do <strong>not</strong> use cookies to identify specific users for marketing purposes. We do not match cookies to your purchase information. And we do not use cookies to track your movements after leaving our websites. Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="personalInfo">How We Use Your Personal Information</h3>
+<p>We use your personal information in the following ways:</p>
+<ul>
+<li>To provide you with the information you request about our products</li>
+<li>To send you email marketing messages and information for which you have specifically subscribed</li>
+<li>To fulfill your bookings</li>
+<li>To confirm your purchases</li>
+<li>To ensure you are correctly billed</li>
+<li>To measure and track demographic details about our customers</li>
+<li>To target content on our website to more closely match your interests</li>
+<li>If you have selected to receive email marketing messages, to target the appropriate content for email marketing messages to better match your interests</li>
+</ul>
+<p>If you make a purchase at one of our websites, we may also send you information about new products, or ask your opinion about our websites, etc., so that we may improve our service to you and other consumers. If you do not want Viator to contact you in the future, please let us know by sending an email to our Privacy Officer at <a href="mailto:privacy@viator.com">privacy@viator.com</a>.</p>
+<p>If you subscribe to any of our email marketing messages, we will use your personal information to send you the information you requested. You will always have the option to unsubscribe by sending an email to privacy@viator.com, by logging into your account - if you've created one - and updating your email subscription preferences, or by following the link at the bottom of each email marketing message we send you.</p>
+<p>Some of the personal information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us.</p>
+<p>We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider's privacy policy.</p>
+<p>We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners.</p>
+<p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by <a href="http://www.omniture.com/privacy/product#optout" target="_blank">clicking here</a>.</p>
+<p>Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. </p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="emailCommunications">Email Communications You Can Expect to Receive from Viator</h3>
+<p>If you opt-in to receive communications from us, you will receive information we believe that will be of use and interest to you. For example:</p>
+<ul>
+<li>We will keep you informed about Viator deals, destination and product news, sweepstakes, programs, etc., and other special promotions that we believe that you will find valuable.</li>
+<li>We will keep you updated about important site functionality changes.</li>
+</ul>
+<p>As a subscriber to our email marketing communications, you will occasionally receive e-mail updates from us about product and destination sales in your area, special offers and new Viator Services and other noteworthy items. We believe that you will find Viator updates interesting and informative. </p>
+<p>With the exception of emails confirming registration, emails that include Viator account information, and emails relating directly to a booking made on our website, Viator will not send any emails unless you elect to receive email communications from us. Please note that emails related to your Viator.com registration and transactions include emails to allow you to review your booking and tour experiences with us, administrative messages, and surveys related to either your Viator.com account or to your transactions on Viator.com. If you are no longer interested in receiving email marketing communications from Viator, you have several choices for opting out of future mailings:</p>
+<ul>
+<li>You may unsubscribe at any time by following the directions and link included in each email marketing message we send.</li>
+<li>When you register as a Viator.com member, you may click on "My Account" at the top of any page of our website and update your "Account Settings"</li>
+<li>You may email <a href="mailto:privacy@viator.com">privacy@viator.com</a> and request to be unsubscribed by including your name, email address, and the words "unsubscribe" in the subject or message body.</li>
+</ul>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="distPartners">Our Distribution Partners and Suppliers</h3>
+<p>Our products are made available through our distribution partners. This Privacy Policy should be read in conjunction with the privacy policies of our distribution partners, which may differ from Viator's Privacy Policy.</p>
+<p>You should also be aware that some product or tour suppliers and some of our distribution partners may need other personal information (such as health or physical fitness information) to determine whether you can participate in an activity. You should read and rely upon the relevant supplier's or partner's Privacy Policy only, if Viator does not collect this information from you directly.</p>
+<p>Some suppliers or distribution partners may operate in countries or states that do not have laws or regulation for the protection and safeguarding of personal information. Viator does what it can to persuade all its suppliers and distribution partners to adopt and adhere to privacy policies that are substantially the same as this one. However, please be aware that Viator is not in a position to force adherence, so we will rely on you and our other Customers to inform us if your privacy is not being adequately protected by our suppliers or distribution partners. Viator will then do what it lawfully can do (including severing its relationship with offending suppliers or distribution partners) to prevent other occurrences.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="securityStorage">Our Security and Storage Measures</h3>
+<p>At Viator we are committed to maintaining the integrity and security of your personal information.</p>
+<p>We use industry-standard encryption protocols when receiving and transferring your personal information. In fact, when you send personal information to us over the Internet, we first require that a "secure session" be established using Secure Socket Layer (SSL).</p>
+<p>Your personal information is stored in secure operating environments that are not accessible to the general public. We have security measures in place at our physical facilities to protect against the loss, misuse or alteration of your personal information by our employees or third parties.</p>
+<p>However, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. Viator will not be held responsible for events arising from unauthorized access to your personal information.Viator will rely on you telling us if you experience any unusual events that may indicate a breach in your information security. We will then investigate whether the security breach was related to the data transmissions from or to Viator and let you know what steps can be taken and have been taken to rectify the problem. Further action, such as reporting incidents to the police or other proper authorities, may also be required.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="changes">Changes to Our Privacy Policy</h3>
+<p>We know that our business will continue to evolve as we introduce new products and as such from time to time our Privacy Policy may be reviewed and revised.</p>
+<p>Viator reserves the right to change its Privacy Policy and post the changes on its website. We will only use your personal information in accordance with the Privacy Policy in effect at the time we collected your personal information.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="contact">Contacting Us</h3>
+<p>For some Viator services you can access and update your registration and personal information online.</p>
+<p>To correct or update any other personal information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at <a href="mailto:privacy@viator.com">privacy@viator.com</a>.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+<h3 id="furtherInfo">Further Information About Privacy Laws</h3>
+<p>There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the <a href="http://www.privacy.gov.au/publications/nppgl_01.html" target="_blank">Australian National Privacy Principles</a>. In the United States that means adhering to the <a href="http://www.ftc.gov/privacy/" target="_blank">Federal Trade Commission's</a> privacy guidelines. In Europe the regulations are based on <a href="http://www.cdt.org/privacy/eudirective/EU_Directive_.html" target="_blank">EC Directive 95/46/EC</a>.</p>
+<div class="back_to_top"><a href="#top">Back to top</a></div>
+</div><!-- End of main division -->
+<div id="marketing">
+<div id="low-price" class="RC">
+<h4>Viator’s Low-Price Guarantee</h4>
+<img src="/images/low-price-badge.gif" alt="low price guarantee">
+<p><span>Our travel experts secure the lowest prices...or we refund the difference.</span></p>
+<p>Our pricing is updated constantly to ensure you get the lowest prices available anywhere. If you do happen to find a lower price within 48 hours of booking, send us the details and we’ll refund the difference. It’s that easy. </p>
+<p class="view"><a href="/low-price" title="Shop with confidence on Viator.com">View complete details »</a></p>
+</div>
+<div class="RC last">
+<h4>Top Destinations in 2007</h4>
+<p>What destinations are hot in 2007? Here's a list of Viator's most popular destinations:</p>
+<ol>
+<li><a href="/New-York/d687" title="New York">New York City</a></li>
+<li><a href="/San-Francisco/d651" title="San Francisco">San Francisco</a></li>
+<li><a href="/Paris/d479" title="Paris">Paris</a></li>
+<li><a href="/Las-Vegas/d684" title="Las Vegas">Las Vegas</a></li>
+<li><a href="/Sydney/d357" title="Sydney">Sydney</a></li>
+<li><a href="/Washington-DC/d657" title="Washington DC">Washington DC</a></li>
+<li><a href="/Rome/d511" title="Rome">Rome</a></li>
+<li><a href="/Chicago/d673" title="Chicago">Chicago</a></li>
+<li><a href="/London/d737" title="London">London</a></li>
+<li><a href="/Orlando/d663" title="Orlando">Orlando</a></li>
+</ol>
+</div>
+</div>
+</div><!-- End of content division -->
+<div id="tools">
 <script type="text/javascript" language="JavaScript">
-<!--// 
+<!--//
 function rewriteFreetxtUrl(keyword) {
 var newUrl = "http://www.viator.com/search/";
 newUrl += keyword;
@@ -101,7 +345,7 @@ temp=temp.replace('st.','st');
 temp=temp.replace('ste.','ste');
 temp=temp.replace('sts.','sts');
 temp = stripSpaces(temp);
-if (temp == '') {
+if (temp == '' || temp == "Search here...") {
 alert("You must enter a keyword to search")
 return false;
 }
@@ -112,128 +356,16 @@ return false;
 }
 //-->
 </script>
-<div id="search-bar">
+<div class="search">
 <form action="http://www.viator.com/freeTextSearch.jspa" method="get" enctype="" title="search" name="search" onsubmit="return doFreeTextSearchSubmit();">
-<input type="text" name="freeTextKeyword" size="16" maxlength="50" id="freeTextKeyword">
-<div class="btnL"><input class="btnR" type="submit" value="Search" title="Search"></div>
+<input type="text" name="freeTextKeyword" size="16" maxlength="50" id="freeTextKeyword" class="search_keyword" value="Search here..." title="Search here..." onfocus="if(this.value==this.title){this.value='';};" onblur="if(this.value==''){this.value=this.title;};">
+<input type="submit" class="search_go" value="" title="Search Viator Tours &amp; Things to Do">
 </form>
-</div><!-- End of search-bar division -->
-</div><!-- End of header division -->
-<div id="crumbler">
-<strong>You are here:</strong>&nbsp;
-<a href="http://www.viator.com/" title="Viator Home">Viator Home</a>&nbsp;&gt;&nbsp;
-<a href="/customer-care" title="Customer Care">Customer Care</a>&nbsp;&gt;&nbsp;
-<h2><span class="current">
-<a href="/privacy-policy" title="Privacy Policy">
-Privacy Policy</a>
-</span></h2>
-</div><!-- End of navigation division -->
-<div id="tools"><!-- Lefthand column items -->
+</div><!-- end search -->
+<script type="text/javascript" src="/js/pas.js"></script>
 <script type="text/javascript">
-function isDigit(num) {
-if (num.length>1){return false;}
-var string="1234567890";
-if (string.indexOf(num)!=-1){return true;}
-return false;
-}
-function getCompStyle2(obj, styleProp) {
-var cs, prop = 'undefined';if(document.defaultView && document.defaultView.getComputedStyle) {cs = document.defaultView.getComputedStyle(obj, '');if (cs) { prop = cs.getPropertyValue(styleProp); }} else if(obj.currentStyle) {var propName = styleProp.split('-');styleProp = propName[0];for (var i=1; i<propName.length; ++i) {var ch = propName[i].charAt(0);styleProp += propName[i].replace(ch, ch.toUpperCase());}prop = obj.currentStyle[styleProp];} else { return null; }return prop;
-}
-function showLoading2() {
-var loadingObj = document.getElementById('loadingMsg');
-var windowWidth = 0;
-var windowHeight = 0;
-var scrollXOffset = 0;
-var scrollYOffset = 0;
-var XOffset = 0;
-var YOffset = 0;
-if (loadingObj != null ) {
-if (isIE) {
-/*
-windowWidth = parent.document.documentElement.clientWidth;
-windowHeight = parent.document.documentElement.clientHeight;
-XOffset = parent.document.documentElement.scrollLeft;
-YOffset = parent.document.documentElement.scrollTop;
-*/
-windowWidth = document.body.clientWidth;
-windowHeight = document.body.clientHeight;
-XOffset = document.body.scrollLeft;
-YOffset = document.body.scrollTop;
-scrollX = 0;
-scrollY = 0;
-} else {
-windowWidth = parent.window.innerWidth;
-windowHeight = parent.window.innerHeight;
-scrollX = parent.window.pageXOffset;
-scrollY = parent.window.pageYOffset;
-XOffset = 0;
-YOffset = 0;
-}
-loadingObj.style.left = (windowWidth - parseInt(parseInt(getCompStyle2(loadingObj, "width")))) / 2 + scrollX + XOffset + "px";
-loadingObj.style.top = (windowHeight - parseInt(parseInt(getCompStyle2(loadingObj, "height")))) / 2 + scrollY + YOffset + "px";
-loadingObj.style.visibility = 'visible';
-loadingObj.src='/inc/loading.jsp'; //Re-assign src so the gif reloads upon display: VTC-1248
-}
-}
-function pasCheck(pas) {
-if (pas.activities[1].checked) {
-var toDate = new Date();
-var fromDate = new Date();
-toDate.setFullYear(pas.to_yyyy.value,pas.to_mm.value-1,pas.to_dd.value);
-fromDate.setFullYear(pas.from_yyyy.value,pas.from_mm.value-1,pas.from_dd.value);
-if (toDate<fromDate) {
-alert("The From date selected must be before the To date");
-return false;
-}
-var difference = Date.UTC(toDate.getFullYear(),toDate.getMonth(),toDate.getDate(),0,0,0) - Date.UTC(fromDate.getFullYear(),fromDate.getMonth(),fromDate.getDate(),0,0,0);
-if (difference/1000/60/60/24 > 30) {
-alert("Please verify your arrival and departure dates are within 30 days of one another. Unfortunately, we cannot process requests for trip durations greater than 30 days.");
-return false;
-}
-}
-else {
-document.pasForm.action = "/destProdSearch.jspa";
-}
-if (pas.region.value!="") {
-for(var i=0;i<pas.region.value.length;i++){
-if(!isDigit(pas.region.value.charAt(i))) {
-if (pas.region.value.substring(0,1)=="T") {
-pas.action = "/themeProdSearch.jspa";
-pas.categoryName.value = pas.region.value.substring(1, pas.region.value.indexOf('-'));
-} else {
-pas.action = "/poiProdSearch.jspa";
-pas.categoryName.value = pas.region.value.substring(1, pas.region.value.indexOf('-'));
-}
-pas.destinationID.value = pas.region.value.substring(pas.region.value.indexOf('-')+1);
-return;
-}
-}
-pas.destinationID.value = pas.region.value;
-} else if (pas.country.value!="") {
-for(var i=0;i<pas.country.value.length;i++){
-if(!isDigit(pas.country.value.charAt(i))) {
-if (pas.country.value.substring(0,1)=="T") {
-pas.action = "/themeProdSearch.jspa";
-pas.categoryName.value = pas.country.value.substring(1, pas.country.value.length);
-} else {
-pas.action = "/poiProdSearch.jspa";
-pas.categoryName.value = pas.country.value.substring(1, pas.country.value.length);
-}
-//pas.destinationID.value = pas.continent.value;
-return;
-}
-}
-pas.destinationID.value = pas.country.value;
-} /*else if (pas.continent.value!="") {
-alert("You must select a country to search");
-return false;
-} */else {
-//alert("You must select a continent and country to search");
-alert("You must select a country to search");
-return false;
-}
-showLoading2();
-if (!pas.activities[1].checked) {
+function doPasLoad(pas) {
+if (!pas.activities_checkbox.checked) {
 var haven = "/";
 if (pas.region.value!="") {
 haven = haven + pas.region.options[pas.region.selectedIndex].text.replace(/-/g, " ").replace(/\s+/g, "-").replace(/&/g, "and") + "/d" + pas.region.value + "-ttd?activities=all";
@@ -243,26 +375,22 @@ haven = haven + pas.country.options[pas.country.selectedIndex].text.replace(/-/g
 document.location.href = haven;
 return false;
 }
-return true;
-}
-function setActivities() {
-document.pasForm.activities[1].checked=true;
 }
 function clearDates() {
-document.pasForm.activities[0].checked=true;
-document.pasForm.from_mm.value = "12";
-document.pasForm.from_dd.value = "14";
-document.pasForm.from_yyyy.value = "2007";
-document.pasForm.to_mm.value = "12";
-document.pasForm.to_dd.value = "21";
-document.pasForm.to_yyyy.value = "2007";
+document.pasForm.activities_checkbox.checked=false;
+document.pasForm.from_mm.value = "6";
+document.pasForm.from_dd.value = "16";
+document.pasForm.from_yyyy.value = "2008";
+document.pasForm.to_mm.value = "6";
+document.pasForm.to_dd.value = "23";
+document.pasForm.to_yyyy.value = "2008";
 }
 </script>
 <div id="DEBUG_DIV"></div>
-<div id="pas">
-<p class="tools-mod-heading"><span>Find things to do in:</span></p>
+<div class="tools_module pas">
+<div class="tools_module_header"><span>find things to do</span></div>
 <form action="/pasSearch.jspa" method="get" id="pasForm" name="pasForm">
-<div id="pas-destinations" class="clearfix">
+<div class="tools_module_body">
 <select name="country" id="pascountry" onchange="this.form.region.disabled=true;getXML('/pascities.jspa?country='+escape(this.value), false, xmlDD, [this.form.region]);if(this.form.region.length>1){this.form.region.disabled=false;}">
 <option value="">Select a country</option>
 <option value="77">USA</option>
@@ -295,12 +423,10 @@ document.pasForm.to_yyyy.value = "2007";
 <option value="747">Costa Rica</option>
 <option value="730">Croatia</option>
 <option value="725">Curacao</option>
-<option value="47">Cyprus</option>
 <option value="48">Czech Republic</option>
 <option value="49">Denmark</option>
 <option value="814">Dominica</option>
 <option value="32">Dominican Republic</option>
-<option value="743">Dubai (UAE)</option>
 <option value="727">Ecuador</option>
 <option value="722">Egypt</option>
 <option value="731">England</option>
@@ -324,8 +450,8 @@ document.pasForm.to_yyyy.value = "2007";
 <option value="58">Lithuania</option>
 <option value="17">Malaysia</option>
 <option value="76">Mexico</option>
+<option value="825">Morocco</option>
 <option value="10">Namibia</option>
-<option value="724">Nepal</option>
 <option value="60">Netherlands</option>
 <option value="24">New Zealand</option>
 <option value="61">Norway</option>
@@ -352,6 +478,7 @@ document.pasForm.to_yyyy.value = "2007";
 <option value="20">Thailand</option>
 <option value="39">Trinidad and Tobago</option>
 <option value="70">Turkey</option>
+<option value="743">United Arab Emirates</option>
 <option value="77">USA</option>
 <option value="21">Vietnam</option>
 <option value="40">Virgin Islands-US</option>
@@ -360,12 +487,9 @@ document.pasForm.to_yyyy.value = "2007";
 <select name="region" id="pasregion" disabled="true">
 <option value="">Select a region/city</option>
 </select>
-<input class="radio" type="radio" name="activities" id="activitiesAll" value="all" checked="checked"><label for="activitiesAll">Find all activities</label><br>
-<input class="radio" type="radio" name="activities" id="activitiesFrom" value="from"><label for="activitiesFrom">Find activities available from / to</label>
-<div id="calender" class="clear">
+<input type="checkbox" name="activities_checkbox" onchange="this.form.activities.value=this.checked?'from':'all';" value="from" class="checkbox" id="activitiesFrom">
+<label for="activitiesFrom">Only search between the following dates:</label>
 <select name="from_dd" class="dd" onclick="setActivities();">
-<option value="15">15</option>
-<option value="16">16</option>
 <option value="17">17</option>
 <option value="18">18</option>
 <option value="19">19</option>
@@ -380,33 +504,31 @@ document.pasForm.to_yyyy.value = "2007";
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
 </select>
 <select name="from_yyyymm" class="mmyy" onchange="this.form.from_yyyy.value=this.options[this.options.selectedIndex].getAttribute('yyyy');this.form.from_mm.value=this.options[this.options.selectedIndex].getAttribute('mm');writeAvailDays(this.form.from_yyyy, this.form.from_mm, this.form.from_dd);" onclick="setActivities();">
-<option mm="12" yyyy="2007" value="12 2007" selected="">Dec '07</option>
-<option mm="1" yyyy="2008" value="1 2008">Jan '08</option>
-<option mm="2" yyyy="2008" value="2 2008">Feb '08</option>
-<option mm="3" yyyy="2008" value="3 2008">Mar '08</option>
-<option mm="4" yyyy="2008" value="4 2008">Apr '08</option>
-<option mm="5" yyyy="2008" value="5 2008">May '08</option>
-<option mm="6" yyyy="2008" value="6 2008">Jun '08</option>
+<option mm="6" yyyy="2008" value="6 2008" selected="">Jun '08</option>
 <option mm="7" yyyy="2008" value="7 2008">Jul '08</option>
 <option mm="8" yyyy="2008" value="8 2008">Aug '08</option>
 <option mm="9" yyyy="2008" value="9 2008">Sep '08</option>
 <option mm="10" yyyy="2008" value="10 2008">Oct '08</option>
 <option mm="11" yyyy="2008" value="11 2008">Nov '08</option>
+<option mm="12" yyyy="2008" value="12 2008">Dec '08</option>
+<option mm="1" yyyy="2009" value="1 2009">Jan '09</option>
+<option mm="2" yyyy="2009" value="2 2009">Feb '09</option>
+<option mm="3" yyyy="2009" value="3 2009">Mar '09</option>
+<option mm="4" yyyy="2009" value="4 2009">Apr '09</option>
+<option mm="5" yyyy="2009" value="5 2009">May '09</option>
+<option mm="6" yyyy="2009" value="6 2009">Jun '09</option>
 </select>
-<a href="#" onclick="setActivities();showHideCalendar(sCal1);return false;"><img src="/images/date-selector.gif" width="21" height="18" alt="Select date"></a>
+<a href="#" onclick="setActivities();sCal1.launcher=this;showHideCalendar(sCal1);return false;"><img src="/images/general/icon_calendar.gif" width="21" height="18" alt="Select date"></a>
 <select name="to_dd" class="dd" onclick="setActivities();">
-<option value="15">15</option>
-<option value="16">16</option>
 <option value="17">17</option>
 <option value="18">18</option>
 <option value="19">19</option>
 <option value="20">20</option>
-<option value="21" selected="">21</option>
+<option value="21">21</option>
 <option value="22">22</option>
-<option value="23">23</option>
+<option value="23" selected="">23</option>
 <option value="24">24</option>
 <option value="25">25</option>
 <option value="26">26</option>
@@ -414,90 +536,68 @@ document.pasForm.to_yyyy.value = "2007";
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
 </select>
 <select name="to_yyyymm" class="mmyy" onchange="this.form.to_yyyy.value=this.options[this.options.selectedIndex].getAttribute('yyyy');this.form.to_mm.value=this.options[this.options.selectedIndex].getAttribute('mm');writeAvailDays(this.form.to_yyyy, this.form.to_mm, this.form.to_dd, this.form.from_yyyy, this.form.from_mm, this.form.from_dd, null, null);" onclick="setActivities();">
-<option mm="12" yyyy="2007" value="12 2007" selected="">Dec '07</option>
-<option mm="1" yyyy="2008" value="1 2008">Jan '08</option>
-<option mm="2" yyyy="2008" value="2 2008">Feb '08</option>
-<option mm="3" yyyy="2008" value="3 2008">Mar '08</option>
-<option mm="4" yyyy="2008" value="4 2008">Apr '08</option>
-<option mm="5" yyyy="2008" value="5 2008">May '08</option>
-<option mm="6" yyyy="2008" value="6 2008">Jun '08</option>
+<option mm="6" yyyy="2008" value="6 2008" selected="">Jun '08</option>
 <option mm="7" yyyy="2008" value="7 2008">Jul '08</option>
 <option mm="8" yyyy="2008" value="8 2008">Aug '08</option>
 <option mm="9" yyyy="2008" value="9 2008">Sep '08</option>
 <option mm="10" yyyy="2008" value="10 2008">Oct '08</option>
 <option mm="11" yyyy="2008" value="11 2008">Nov '08</option>
+<option mm="12" yyyy="2008" value="12 2008">Dec '08</option>
+<option mm="1" yyyy="2009" value="1 2009">Jan '09</option>
+<option mm="2" yyyy="2009" value="2 2009">Feb '09</option>
+<option mm="3" yyyy="2009" value="3 2009">Mar '09</option>
+<option mm="4" yyyy="2009" value="4 2009">Apr '09</option>
+<option mm="5" yyyy="2009" value="5 2009">May '09</option>
+<option mm="6" yyyy="2009" value="6 2009">Jun '09</option>
 </select>
-<a href="#" onclick="setActivities();showHideCalendar(sCal2);return false;"><img src="/images/date-selector.gif" width="21" height="18" alt="Select date"></a><br>
-<div class="btnL-blueBG"><input value="Go" type="submit" name="go" class="btnR-blueBG" id="Go" title="Go" onclick="return pasCheck(this.form)"></div>
-<iframe id="sCal1" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe><iframe id="sCal2" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe></div>
+<a href="#" onclick="setActivities();sCal2.launcher=this;showHideCalendar(sCal2);return false;"><img src="/images/general/icon_calendar.gif" alt="calendar"></a>
+<div class="btn"><button value="Go" name="go" id="Go" onclick="return pasCheck(this.form)" title="Go" type="submit">Go</button></div>
 </div>
-<input type="hidden" name="from_mm" value="12" onchange="setSelVal(this.form.from_yyyymm, this.form.from_mm.value+' '+this.form.from_yyyy.value);">
-<input type="hidden" name="from_yyyy" value="2007">
-<input type="hidden" name="to_mm" value="12" onchange="setSelVal(this.form.to_yyyymm, this.form.to_mm.value+' '+this.form.to_yyyy.value);">
-<input type="hidden" name="to_yyyy" value="2007">
-<input type="hidden" name="topx" value="1-10">
+<input type="hidden" name="from_mm" value="6" onchange="setSelVal(this.form.from_yyyymm, this.form.from_mm.value+' '+this.form.from_yyyy.value);">
+<input type="hidden" name="from_yyyy" value="2008">
+<input type="hidden" name="to_mm" value="6" onchange="setSelVal(this.form.to_yyyymm, this.form.to_mm.value+' '+this.form.to_yyyy.value);">
+<input type="hidden" name="to_yyyy" value="2008">
+<!--input type="hidden" name="topx" value="1-10" /-->
 <input type="hidden" name="section" value="ttd">
 <input type="hidden" name="destinationID" value="">
 <input type="hidden" name="categoryName" value="">
+<input type="hidden" name="activities" value="all">
 </form>
 </div><!-- end pas -->
-<div class="tools-module">
-<a href="/low-price" title="">
-<img src="http://graphicslib.viator.com/graphicslib/mm/low-price.gif" alt="">
-</a>
-</div>
-<div id="shopping-cart" class="tools-module">
-<p class="tools-mod-heading"><span>My shopping cart</span></p>
+<!-- on the LHS -->
+<div class="tools_module shopcart">
+<div class="tools_module_header"><span>my shopping cart</span></div>
+<div class="tools_module_body">
+<div class="module_list">
 <!-- no items -->
-<p>There are 0 items in my shopping cart</p>
-</div><!-- End of shopping cart division -->
-<!-- Start of wishlist division -->
-<div id="wishlist" class="tools-module">
-<p class="tools-mod-heading"><span>My wishlist</span></p>
-<p>There are 0 items in my wishlist</p>
+<p class="no_item">There are 0 items in my shopping cart</p>
 </div>
-<!-- End of wishlist division -->
-<script type="text/javascript" language="javascript">
-function changeCurrency(currency) {
-var currentUrl = getCurrentURL();
-if (currentUrl.indexOf("%26currencyCode")>0)
-currentUrl = currentUrl.substring(0, currentUrl.indexOf("%26currencyCode"));
-else if (currentUrl.indexOf("%3FcurrencyCode")>0)
-currentUrl = currentUrl.substring(0, currentUrl.indexOf("%3FcurrencyCode"));
-document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+currentUrl;
-}
-</script>
-<div id="currency" class="tools-module clearfix"><p class="tools-mod-heading"><span>View in your currency</span></p>
-<a href="#" onclick="changeCurrency('USD');return false;" title="USD" class="first">
-<img src="/images/icon-flag-us-on.gif" width="40" height="27" alt="USD">
-</a>
-<a href="#" onclick="changeCurrency('AUD');return false;" title="AUD">
-<img src="/images/icon-flag-aus.gif" width="27" height="19" alt="AUD">
-</a>
-<a href="#" onclick="changeCurrency('GBP');return false;" title="GBP">
-<img src="/images/icon-flag-uk.gif" width="27" height="19" alt="GBP">
-</a>
-<a href="#" onclick="changeCurrency('EUR');return false;" title="EUR">
-<img src="/images/icon-flag-eu.gif" width="27" height="19" alt="EUR">
-</a>
-</div><!-- End of currency division -->
-<div class="tools-module">
-<a href="#" onclick="window.open('/customerCareHelpShow.jspa?code=&amp;entryName=&amp;fromShopCart=false?fromShopCart=false','popupwindow','scrollbars=1,resizable=1,width=400,height=460');return false;" title="">
-<img src="http://graphicslib.viator.com/graphicslib/mm/4356_1.gif" alt="">
-</a>
 </div>
+</div><!-- end shopcart -->
+<div class="tools_module wishlist">
+<div class="tools_module_header"><span>my wishlist</span></div>
+<div class="tools_module_body">
+<div class="module_list">
+<p class="no_item">There are 0 items in my wishlist</p>
+</div>
+</div>
+</div><!-- end wishlist -->
+<cache:cache key="silverPop-lhn-VM40a" time="-1" refresh="false">
 <script type="text/javascript" language="javascript" src="/silverpop/formValidate.js"></script>
-<div id="emailcapture">
-<div class="roundbottom">
-<h3 class="mod-heading">Viator Newsletters</h3>
-<p>Deals, tips, news &amp; more! Keep in touch with Viator email newsletters.</p>
+<div class="tools_module travel_news_deals">
+<div class="tools_module_header">
+<span>&nbsp;</span>
+</div>
+<div class="tools_module_body">
 <form method="get" action="#" id="subscribe" name="subscribe" class="clearfix">
-<p><input type="hidden" name="EMAIL_REQUIRED" value="T"><input type="hidden" name="EMAIL_DATATYPE" value="email"><input type="text" id="user-email" name="EMAIL" value="Enter email address" maxlength="255" size="20" onfocus="this.select()"></p>
-<p>
+<input type="hidden" name="EMAIL_REQUIRED" value="T">
+<input type="hidden" name="EMAIL_DATATYPE" value="email">
+<input type="hidden" name="EMAIL_TYPE" value="HTML">
+<input type="hidden" name="url" value="www.viator.com/confirm.jspa">
 <input type="hidden" name="Country_REQUIRED" value="T">
+<input type="text" id="user-email" name="EMAIL" value="Email address" maxlength="255" onfocus="this.select()">
 <select id="user-country" name="Country"><option value="" selected="selected">Country</option>
 <option value="Australia">Australia</option>
 <option value="Canada">Canada</option>
@@ -743,268 +843,96 @@ document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+
 <option value="Zambia">Zambia</option>
 <option value="Zimbabwe">Zimbabwe</option>
 </select>
-</p>
-<p class="emailtypes">
-<input type="radio" class="email-radio" id="email-html" name="EMAIL_TYPE" value="HTML" checked="checked"><label for="email-html">HTML</label>
-<input type="radio" class="email-radio" id="email-text" name="EMAIL_TYPE" value="TEXT"><label for="email-text">Text</label>
-<input type="hidden" name="url" value="www.viator.com/confirm.jspa">
-</p>
-<div class="btnL-midBlueBG"><input value="Sign me up" type="submit" name="Sign me up" class="btnR-midBlueBG" onclick="f_validateForm(this.form.name);return false;" title="Sign me up"></div>
+<div class="btn"><button value="Sign me up" type="submit" name="Sign me up" onclick="f_validateForm(this.form.name);return false;" title="Sign me up">sign me up</button></div>
 </form>
-</div><!-- end roundbottom -->
+<p class="never_spam"><strong><a href="/privacy-policy" title="Never any spam">Never any spam!</a></strong> Viator won't share your email.</p>
 </div>
-<img src="/images/leftCol/2.jpg" width="150" alt="Viator... the things you do when you get there!" class="column-photo" name="leftColIMG">
+</div><!-- end email_news -->
+</cache:cache>
+<script type="text/javascript" language="javascript">
+function changeCurrency(currency) {
+var currentUrl = getCurrentURL();
+if (currentUrl.indexOf("%26currencyCode")>0) { currentUrl = currentUrl.substring(0, currentUrl.indexOf("%26currencyCode")); }
+else if (currentUrl.indexOf("%3FcurrencyCode")>0) { currentUrl = currentUrl.substring(0, currentUrl.indexOf("%3FcurrencyCode")); }
+document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+currentUrl;
+}
+</script>
+<div id="currency" class="tools_module currency">
+<div class="tools_module_header"><span>choose currency</span></div>
+<div class="tools_module_body">
+<a href="#" onclick="changeCurrency('USD');return false;" title="USD" class="first">
+<img src="/images/flags/icon_flag_us_on.gif" alt="USD">
+</a>
+<a href="#" onclick="changeCurrency('AUD');return false;" title="AUD">
+<img src="/images/flags/icon_flag_au.gif" alt="AUD">
+</a>
+<a href="#" onclick="changeCurrency('GBP');return false;" title="GBP">
+<img src="/images/flags/icon_flag_uk.gif" alt="GBP">
+</a>
+<a href="#" onclick="changeCurrency('EUR');return false;" title="EUR">
+<img src="/images/flags/icon_flag_eu.gif" alt="EUR">
+</a>
+</div>
+</div><!-- end choose currency -->
+<!-- on the LHS -->
+<div class="tools-module" layoutcode="LHN">
+<a title="" href="#" onclick="window.open('/customerCareHelpShow.jspa?code=&amp;entryName=&amp;fromShopCart=false','popupwindow','scrollbars=1,resizable=1,width=550,height=850');return false;">
+<img src="//cache.graphicslib.viator.com/graphicslib/mm/VIATOR_CustomerService.gif" alt="">	
+</a>
+</div>
 </div><!-- End of tools division -->
-<div id="content"><!-- Main content area -->
-<div id="location-bar" class="dest">
-<img class="location-bar-dest-img" src="http://graphicslib.viator.com/graphicslib/aboutUs/ViatorHeader2.jpg" alt="">
-<div class="dest-round-top">&nbsp;</div>
-<div id="location-copy">
-<div id="destination-intro">
-<h1 id="top">Viator Customer Care</h1>
-<h1 class="dest-desc">Get help 24 hours a day, 365 days a year</h1>
-</div>
-<div id="Tabs">
-<ul id="tablist">
-<li><a href="/customer-care"><span>Contact Us</span></a></li>
-<li class="faq"><a href="/faq"><span>FAQ</span></a></li>
-<li id="current"><a><span>Privacy policy</span></a></li>
-<li><a href="/terms-and-conditions"><span>Terms &amp; conditions</span></a></li>
-</ul>
-</div>
-</div>
-</div> <!-- end location-bar -->
-<!-- Omniture Code-->
-<!-- Define default omniture variables-->
-<!-- End Define default omniture variables-->
-<!-- SiteCatalyst code version: H.3.
-Copyright 1997-2005 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript" language="JavaScript" src="/analytics/s_code.js"></script><img name="s_i_viatorprd" height="1" width="1" border="0" alt="" src="https://viator.122.2O7.net/b/ss/viatorprd/1/H.4-pdv-2/s34238161128404?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A26%3A6%204%200&amp;ns=viator&amp;cdp=3&amp;pageName=Customer%20Care%20%3A%20Privacy%20policy&amp;g=https%3A//web.archive.org/web/20071214203749id_/http%253A//www.viator.com/privacy-policy&amp;events=event2&amp;c3=Customer%20Care&amp;v12=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<script type="text/javascript" language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="Customer Care : Privacy policy"
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3="Customer Care"
-s.prop4=""
-s.prop5=""
-s.prop6=""
-s.prop7=""
-s.prop8=""
-/* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.currencyCode=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar7=""
-s.eVar8=""
-s.eVar9=""
-s.eVar10=""
-s.eVar11=""
-s.eVar15=""
-s.eVar16=""
-s.eVar17=""
-s.eVar18=""
-s.eVar19=""
-s.eVar20=""
-s.eVar21=""
-s.eVar22=""
-s.eVar23=""
-s.eVar24=""
-s.eVar25=""
-s.eVar26=""
-s.eVar30=""
-s.eVar31=""
-s.eVar33=""
-s.eVar34=""
-s.eVar35=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script type="text/javascript" language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript>
-<img src="http://viatorprd.122.2O7.net/b/ss/viatorprd/1/H.3--NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt="" />
-</noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.3. -->
-<!-- End of Omniture Code-->
-<div id="main" class="customer-care">
-<h2>The Viator Privacy Policy</h2>
-<div class="intro last">
-<p>At Viator, we recognize that earning and retaining your trust is one of the most important things we do as a business. Protecting your privacy is a responsibility we take very seriously.</p>
-<p>We have prepared this Privacy Policy to help you understand how Viator collects, uses and safeguards the personal information you provide to us on our websites, via email, and through our service providers and distribution partners.</p>
-<p>Rest assured that, unless you explicitly give us consent to do otherwise, Viator will only collect and use your personal information as outlined in this Privacy Policy.</p>
-</div>
-<div class="jump-to-top narrow tnc">
-<p>Jump to:</p>
-<ul>
-<li><a href="#whoWeAre">Who We Are</a></li>
-<li><a href="#whatInfo">What Information Do We Collect?</a></li>
-<li><a href="#cookies">Cookies, and How We Use Them</a></li>
-<li><a href="#personalInfo">How We Use Your Personal Information</a></li>
-<li><a href="#emailCommunications">Email Communications You Can Expect to Receive from Viator</a></li><a href="#emailCommunications">
-</a><li><a href="#emailCommunications"></a><a href="#distPartners">Our Distribution Partners and Suppliers</a></li>
-<li><a href="#securityStorage">Our Security and Storage Measures</a></li>
-<li><a href="#changes">Changes to Our Privacy Policy</a></li>
-<li><a href="#contact">Contacting Us</a></li>
-<li><a href="#furtherInfo">Further Information about Privacy Laws</a></li>
-</ul>
-</div>
-<h3 id="whoWeAre">Who We Are</h3>
-<p>Viator operates through different websites around the world, which are all part of the Viator family.</p>
-<ul>
-<li><strong>Viator.com</strong> is our flagship website, where we offer our complete range of products and services directly to consumers.</li>
-<li>At Viator we also work with hundreds of <strong>affiliate partners</strong> (<a href="http://www.viator.com/partnership#distribution" target="_self">click here</a> to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates’ product-information and booking pages, and manage payment and credit card information.</li>
-<li>We also work with <strong>distributors</strong> (as discussed below) who manage the hosting, purchase and payment for our products and services.</li>
-</ul>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="whatInfo">What Information Do We Collect?</h3>
-<p>When you visit Viator.com or any of our affiliates’ web pages that are hosted by us, our web server automatically recognizes and collects your IP address.</p>
-<p>In order to purchase our products or services, it is necessary for you to disclose personal information, including your name, address, email address, phone number, credit card details and other identifying information in order to process orders and provide customer service. If you do not provide personal information when purchasing one of our products or services, we cannot confirm your purchase or fulfill your booking.</p>
-<p>When you register with Viator, we ask for basic information including your name, email address and ask you to create a unique password and user id along with a password hint. To help us send more relevant communications to you (if you choose to receive them) we keep track of all website searches and bookings. For example, if you frequently visit Paris and London, we may send you special notices listing deals and popular products for those destinations. If you subscribe to any of our email marketing communications - including newsletters and destination alerts, it is necessary to disclose your name, your home country, and email address.</p>
-<p>In some instances we may also ask for personal demographic data such as your country of residence, gender, age, travel habits, etc.</p>
-<p>We also use cookies (as discussed below) to collect information about the performance and usability of our websites.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="cookies">Cookies, and How We Use Them</h3>
-<p>"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you.</p>
-<p>At Viator we make limited use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs.</p>
-<p>We do <strong>not</strong> use cookies to identify specific users for marketing purposes. We do not match cookies to your purchase information. And we do not use cookies to track your movements after leaving our websites. Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="personalInfo">How We Use Your Personal Information</h3>
-<p>We use your personal information in the following ways:</p>
-<ul>
-<li>To provide you with the information you request about our products</li>
-<li>To send you email marketing messages and information for which you have specifically subscribed</li>
-<li>To fulfill your bookings</li>
-<li>To confirm your purchases</li>
-<li>To ensure you are correctly billed</li>
-<li>To measure and track demographic details about our customers</li>
-<li>To target content on our website to more closely match your interests</li>
-<li>If you have selected to receive email marketing messages, to target the appropriate content for email marketing messages to better match your interests</li>
-</ul>
-<p>If you make a purchase at one of our websites, we may also send you information about new products, or ask your opinion about our websites, etc., so that we may improve our service to you and other consumers. If you do not want Viator to contact you in the future, please let us know by sending an email to our Privacy Officer at <a href="mailto:privacy@viator.com">privacy@viator.com</a>.</p>
-<p>If you subscribe to any of our email marketing messages, we will use your personal information to send you the information you requested. You will always have the option to unsubscribe by sending an email to privacy@viator.com, by logging into your account - if you've created one - and updating your email subscription preferences, or by following the link at the bottom of each email marketing message we send you.</p>
-<p>Some of the personal information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us.</p>
-<p>We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider’s privacy policy.</p>
-<p>We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners.</p>
-<p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by <a href="http://www.omniture.com/privacy/product#optout" target="_blank">clicking here</a>.</p>
-<p>Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. </p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="emailCommunications">Email Communications You Can Expect to Receive from Viator</h3>
-<p>If you opt-in to receive communications from us, you will receive information we believe that will be of use and interest to you. For example:</p>
-<ul>
-<li>We will keep you informed about Viator deals, destination and product news, sweepstakes, programs, etc., and other special promotions that we believe that you will find valuable.</li>
-<li>We will keep you updated about important site functionality changes.</li>
-</ul>
-<p>As a subscriber to our email marketing communications, you will occasionally receive e-mail updates from us about product and destination sales in your area, special offers and new Viator Services and other noteworthy items. We believe that you will find Viator updates interesting and informative. </p>
-<p>With the exception of emails confirming registration, emails that include Viator account information, and emails relating directly to a booking made on our website, Viator will not send any emails unless you elect to receive email communications from us. Please note that emails related to your Viator.com registration and transactions include emails to allow you to review your booking and tour experiences with us, administrative messages, and surveys related to either your Viator.com account or to your transactions on Viator.com. If you are no longer interested in receiving email marketing communications from Viator, you have several choices for opting out of future mailings:</p>
-<ul>
-<li>You may unsubscribe at any time by following the directions and link included in each email marketing message we send.</li>
-<li>When you register as a Viator.com member, you may click on "My Account" at the top of any page of our website and update your "Account Settings"</li>
-<li>You may email <a href="mailto:privacy@viator.com">privacy@viator.com</a> and request to be unsubscribed by including your name, email address, and the words "unsubscribe" in the subject or message body.</li>
-</ul>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="distPartners">Our Distribution Partners and Suppliers</h3>
-<p>Our products are made available through our distribution partners. This Privacy Policy should be read in conjunction with the privacy policies of our distribution partners, which may differ from Viator's Privacy Policy.</p>
-<p>You should also be aware that some product or tour suppliers and some of our distribution partners may need other personal information (such as health or physical fitness information) to determine whether you can participate in an activity. You should read and rely upon the relevant supplier's or partner's Privacy Policy only, if Viator does not collect this information from you directly.</p>
-<p>Some suppliers or distribution partners may operate in countries or states that do not have laws or regulation for the protection and safeguarding of personal information. Viator does what it can to persuade all its suppliers and distribution partners to adopt and adhere to privacy policies that are substantially the same as this one. However, please be aware that Viator is not in a position to force adherence, so we will rely on you and our other Customers to inform us if your privacy is not being adequately protected by our suppliers or distribution partners. Viator will then do what it lawfully can do (including severing its relationship with offending suppliers or distribution partners) to prevent other occurrences.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="securityStorage">Our Security and Storage Measures</h3>
-<p>At Viator we are committed to maintaining the integrity and security of your personal information.</p>
-<p>We use industry-standard encryption protocols when receiving and transferring your personal information. In fact, when you send personal information to us over the Internet, we first require that a "secure session" be established using Secure Socket Layer (SSL).</p>
-<p>Your personal information is stored in secure operating environments that are not accessible to the general public. We have security measures in place at our physical facilities to protect against the loss, misuse or alteration of your personal information by our employees or third parties.</p>
-<p>However, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. Viator will not be held responsible for events arising from unauthorized access to your personal information.Viator will rely on you telling us if you experience any unusual events that may indicate a breach in your information security. We will then investigate whether the security breach was related to the data transmissions from or to Viator and let you know what steps can be taken and have been taken to rectify the problem. Further action, such as reporting incidents to the police or other proper authorities, may also be required.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="changes">Changes to Our Privacy Policy</h3>
-<p>We know that our business will continue to evolve as we introduce new products and as such from time to time our Privacy Policy may be reviewed and revised.</p>
-<p>Viator reserves the right to change its Privacy Policy and post the changes on its website. We will only use your personal information in accordance with the Privacy Policy in effect at the time we collected your personal information.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="contact">Contacting Us</h3>
-<p>For some Viator services you can access and update your registration and personal information online.</p>
-<p>To correct or update any other personal information, or if you have questions about Viator’s Privacy Policy, please email our Privacy Officer at <a href="mailto:privacy@viator.com">privacy@viator.com</a>.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-<h3 id="furtherInfo">Further Information About Privacy Laws</h3>
-<p>There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the <a href="http://www.privacy.gov.au/publications/nppgl_01.html" target="_blank">Australian National Privacy Principles</a>. In the United States that means adhering to the <a href="http://www.ftc.gov/privacy/" target="_blank">Federal Trade Commission’s</a> privacy guidelines. In Europe the regulations are based on <a href="http://www.cdt.org/privacy/eudirective/EU_Directive_.html" target="_blank">EC Directive 95/46/EC</a>.</p>
-<div class="back-to-top"><a href="#top">Back to top</a></div>
-</div><!-- End of main division -->
-<div id="marketing">
-<div id="low-price" class="RC">
-<h4>Viator’s Low-Price Guarantee</h4>
-<img src="/images/low-price-badge.gif" alt="low price guarantee">
-<p><span>Our travel experts secure the lowest prices...or we refund the difference.</span></p>
-<p>Our pricing is updated constantly to ensure you get the lowest prices available anywhere. If you do happen to find a lower price within 48 hours of booking, send us the details and we’ll refund the difference. It’s that easy. </p>
-<p class="view"><a href="/low-price" title="Shop with confidence on Viator.com">View complete details »</a></p>
-</div>
-<div class="RC last">
-<h4>Top Destinations in 2007</h4>
-<p>What destinations are hot in 2007? Here's a list of Viator's most popular destinations:</p>
-<ol>
-<li><a href="/New-York/d687" title="New York">New York City</a></li>
-<li><a href="/San-Francisco/d651" title="San Francisco">San Francisco</a></li>
-<li><a href="/Paris/d479" title="Paris">Paris</a></li>
-<li><a href="/Las-Vegas/d684" title="Las Vegas">Las Vegas</a></li>
-<li><a href="/Sydney/d357" title="Sydney">Sydney</a></li>
-<li><a href="/Washington-DC/d657" title="Washington DC">Washington DC</a></li>
-<li><a href="/Rome/d511" title="Rome">Rome</a></li>
-<li><a href="/Chicago/d673" title="Chicago">Chicago</a></li>
-<li><a href="/London/d737" title="London">London</a></li>
-<li><a href="/Orlando/d663" title="Orlando">Orlando</a></li>
-</ol>
-</div>
-</div>
-</div><!-- End of content division -->
-<br class="clear">
-</div><!-- end wrapper About Us-->
 </div><!-- end container -->
-<div id="container-bottom"></div>
 <div id="footer">
+<a href="http://www.viator.com/"><img src="/images/general/footer_logo.gif" alt="Tours, Sightseeing Tours, Things to Day &amp; Day Trips from Viator.com"></a>
+<div class="footer_content">
 <p>
-<a href="/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a> | 
-<a href="/newsletters" title="Free Newsletters">Free Newsletters</a> | 
-<a href="/gift-certificates" title="Gift Certificates">Gift Certificates</a> | 
-<a href="/earn-miles" title="Earn Miles">Earn Miles</a> | 
-<a href="/travel-links" title="Travel Links">Travel Links</a> |
+<a rel="nofollow" href="http://www.viator.com/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a> |
+<a rel="nofollow" href="http://www.viator.com/newsletters" title="Free Newsletters">Free Newsletters</a> |
+<a rel="nofollow" href="http://www.viator.com/gift-certificates" title="Gift Certificates">Gift Certificates</a> |
+<a rel="nofollow" href="http://www.viator.com/earn-miles" title="Earn Miles">Earn Miles</a> | 
+<a rel="nofollow" href="http://www.viator.com/travel-links" title="Travel Links">Travel Links</a> |
 <a href="http://travelblog.viator.com" title="Travel Blog">Travel Blog</a>
 <br>
-<a href="/about-us" title="Things to do, tours &amp; activities from Viator.com">About Us</a> | 
-<a href="/customer-care" title="24/7 Customer Support from Viator">Customer Care</a> | 
-<a href="/group-services" title="Group Services">Group Services</a> | 
-<a href="/faq" title="FAQs">FAQs</a> | 
-<a href="/media-center" title="Media Center">Media Center</a> | 
-<a href="/partnership" title="Become a Viator Distributor">Become a Viator Distributor</a> | 
-<a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a> | 
-<a href="/privacy-policy" title="Your Privacy Rights">Your Privacy Rights</a>
+<a rel="nofollow" href="http://www.viator.com/about-us" title="Things to do, tours &amp; activities from Viator.com">About Us</a> |
+<a rel="nofollow" href="http://www.viator.com/customer-care" title="24/7 Customer Support from Viator">Customer Care</a> |
+<a rel="nofollow" href="http://www.viator.com/group-services" title="Group Services">Group Services</a> |
+<a rel="nofollow" href="http://www.viator.com/faq" title="FAQs">FAQs</a> |
+<a rel="nofollow" href="http://www.viator.com/media-center" title="Media Center">Media Center</a> |
+<a rel="nofollow" href="http://www.viator.com/partnership" title="Become a Viator Distributor">Become a Viator Distributor</a> |
+<a rel="nofollow" href="http://www.viator.com/privacy-policy" title="Your Privacy Rights">Your Privacy Rights</a>
 </p>
-<p>
-<small>
-<a href="http://www.viator.com/Paris/d479-ttd" title="Paris Tours">Paris Tours</a> | 
-<a href="http://www.viator.com/Rome/d511-ttd" title="Rome Tours">Rome Tours</a> | 
-<a href="http://www.viator.com/New-York-City/d687-ttd" title="New York City Tours">New York City Tours</a> | 
-<a href="http://www.viator.com/Las-Vegas/d684-ttd" title="Las Vegas Tours">Las Vegas Tours</a> | 
-<a href="http://www.viator.com/Grand-Canyon-National-Park/d815-ttd" title="Grand Canyon Tours">Grand Canyon Tours</a> | 
-<a href="http://www.viator.com/Sydney/d357-ttd" title="Sydney Tours">Sydney Tours</a> | 
-<a href="http://www.viator.com/San-Francisco/d651-ttd" title="San Francisco Tours">San Francisco Tours</a> | 
-<a href="http://www.viator.com/Amsterdam/d525-ttd" title="Amsterdam Tours">Amsterdam Tours</a> | 
-<a href="http://www.viator.com/London/d737-ttd" title="London Tours">London Tours</a> | 
-<a href="http://www.viator.com/sitemap" title="See all destinations »">See all destinations&nbsp;»</a>
+<p class="dest_links">
+<span>
+<a href="http://www.viator.com/Paris/d479-ttd" title="Paris Tours">Paris Tours</a> |
+<a href="http://www.viator.com/Rome/d511-ttd" title="Rome Tours">Rome Tours</a> |
+<a href="http://www.viator.com/New-York-City/d687-ttd" title="New York City Tours">New York City Tours</a> |
+<a href="http://www.viator.com/Las-Vegas/d684-ttd" title="Las Vegas Tours">Las Vegas Tours</a> |
+<a href="http://www.viator.com/Grand-Canyon-National-Park/d815-ttd" title="Grand Canyon Tours">Grand Canyon Tours</a> |
+<a href="http://www.viator.com/Sydney/d357-ttd" title="Sydney Tours">Sydney Tours</a> |
+<a href="http://www.viator.com/San-Francisco/d651-ttd" title="San Francisco Tours">San Francisco Tours</a> |
+<a href="http://www.viator.com/Amsterdam/d525-ttd" title="Amsterdam Tours">Amsterdam Tours</a> |
+<a href="http://www.viator.com/London/d737-ttd" title="London Tours">London Tours</a> |
 <br>
-© 1997 - 2007 <a href="/about-us" title="Viator, Inc.">Viator, Inc.</a> All rights reserved. Use of this website constitutes acceptance of Viator's <a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>.	
-</small>
+<a href="http://www.viator.com/Florence/d519-ttd" title="Florence Tours">Florence Tours</a> |
+<a href="http://www.viator.com/Venice/d522-ttd" title="Venice Tours">Venice Tours</a> |
+<a href="http://www.viator.com/Tokyo/d334-ttd" title="Tokyo Tours">Tokyo Tours</a> |
+<a href="http://www.viator.com/Melbourne/d384-ttd" title="Melbourne Tours">Melbourne Tours</a> |
+<a href="http://www.viator.com/Madrid/d566-ttd" title="Madrid Tours">Madrid Tours</a> |
+<a href="http://www.viator.com/Milan/d512-ttd" title="Milan Tours">Milan Tours</a> |
+<a href="http://www.viator.com/Ayers-Rock/d359-ttd" title="Ayers Rock Tours">Ayers Rock Tours</a> |
+<a href="http://www.viator.com/Dublin/d503-ttd" title="Dublin Tours">Dublin Tours</a> |
+<a href="http://www.viator.com/Orlando/d663-ttd" title="Orlando Tours">Orlando Tours</a> |
+<a href="http://www.viator.com/showSiteMap.jspa" title="See all destinations »">See all destinations »</a>
+</span>
 </p>
-</div><!-- End of footer division -->
+<p class="copyright"><span>
+© 1997 - Mon Jun 16 03:16:55 PDT 2008 <a rel="nofollow" href="/about-us" title="Viator, Inc.">Viator, Inc.</a> All rights reserved. Viator is a registered trademark of <a rel="nofollow" href="/about-us" title="Viator, Inc.">Viator, Inc.</a><br>Use of this website constitutes acceptance of Viator's <a rel="nofollow" href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>.
+</span></p>
+</div>
+<div class="site_security">
+<iframe src="/inc/hackerSafe.jsp" width="133" height="52" frameborder="0" scrolling="no"></iframe>
+</div>
+</div><!-- end footer -->
+</div><!-- end side_shading -->
 
 </body></html>
