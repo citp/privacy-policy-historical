@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215080438id_/http%3A//www.backbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616081459id_/http%3A//www.backbase.com/privacy) for the most accurate reproduction.*
 
 # Backbase Enterprise AJAX Software
 
