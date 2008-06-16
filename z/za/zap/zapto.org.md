@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapto.org privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009182848id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapto.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616192359id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP.com - The Dynamic DNS Leader
 
