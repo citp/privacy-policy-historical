@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210131603id_/http%3A//www.truste.org/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616200620id_/http%3A//www.truste.org/privacy_statement.php) for the most accurate reproduction.*
 
 # TRUSTe - Make Privacy Your Choice
 
 TRUSTe Privacy Statement  
-Effective Date: July 7, 2005
+Effective Date: May 15, 2008
+
+NEW! TRUSTe Webinars and KnowledgeNet Sign-Ups
 
 **Introduction**
 
@@ -50,7 +52,7 @@ We will use information submitted through our online [Certification Center](http
 
 _If you wish to sign up for TRUSTe programs other than the Web Seal Program, or to simply obtain information about TRUSTe programs and services_ , click on our [“How to Sign Up” page](http://truste.com/businesses/how_to_sign_up.php) and then on [“Learn More”](http://www.truste.org/forms/learn_more.php). We will collect your name, email address, phone number, and additional company information. We use this information to contact you about your request, to assist you in the application process or to follow up with you about the programs and services in which you have expressed an interest. We will not share the information you provide with third parties, other than service providers, without your explicit permission. 
 
-You can ask us to delete the information you provided on our [“Learn More” page](http://www.truste.org/forms/learn_more.php) by emailing us at [escargot@truste.org](mailto:escargot@truste.org). 
+You can ask us to delete the information you provided on our [“Learn More” page](http://www.truste.org/forms/learn_more.php) by emailing us at [marketing@truste.org](mailto:marketing@truste.org).
 
 _If you use the form we provide to[“Generate an Invoice”](http://truste.com/businesses/forms.php)_ to mail to TRUSTe with your application materials, we will use the personal information you provide to process your application. The Invoice is a printable form for your convenience. We also store the information you provide in the Invoice on our servers for accounting purposes. 
 
@@ -58,18 +60,26 @@ _Learn More_ about our Web Site information practices in the “For all Visitors
 
 _TRUSTe Sealholders_
 
-_If you are currently a member of a TRUSTe program_ , you can begin the process of renewing your TRUSTe seal by clicking on our [“How to Renew” page](http://truste.com/businesses/how_to_renew.php). If you provide information on our [“Learn More” page](http://www.truste.org/forms/learn_more.php), for example, because you are requesting information about additional TRUSTe programs, we will use the contact information you provide there to respond to your request. We will not share this information with third parties, other than service providers, without your explicit permission. 
+_If you are currently a member of a TRUSTe program_ , you can begin the process of renewing your TRUSTe seal by clicking on our [“How to Renew” page](http://truste.com/businesses/how_to_renew.php). If you provide information on our [“Learn More” page](http://www.truste.org/forms/learn_more.php), for example, because you are requesting information about additional TRUSTe programs, we will use the contact information you provide there to respond to your request. We will not share this information with third parties, other than service providers, without your explicit permission.
 
-If you are currently receiving the TRUSTe _Policy Flash_ , but no longer wish to receive it, follow the unsubscribe link at the bottom of the _Policy Flash_ email, or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php). 
+Occasionally we conduct customer satisfaction surveys so that our Sealholders can provide feedback on their experience in the TRUSTe certification process and their participation in our programs. Contact information requested in these surveys is optional. We use the survey responses to improve our programs and services to Sealholders. We also occasionally share this survey data with third parties, but only in aggregate form, i.e., without disclosing personal information or identifying individual Sealholders.
 
-Occasionally we conduct customer satisfaction surveys so that our Sealholders can provide feedback on their experience in the TRUSTe certification process and their participation in our programs. Contact information requested in these surveys is optional. We use the survey responses to improve our programs and services to Sealholders. We also occasionally share this survey data with third parties, but only in aggregate form, i.e., without disclosing personal information or identifying individual Sealholders. 
+_KnowledgeNet Meetings_
+
+TRUSTe and the International Association of Privacy Professionals (IAPP) co-sponsor KnowledgeNet meetings in cities around the U.S., to keep you informed about current and emerging privacy issues. We collect personally identifiable information (e.g. name and email address) when you sign up to attend a Knowledge Net meeting. We use the information we collect there for the purposes of contacting KnowledgeNet participants about KnowledgeNet events or sending them information about TRUSTe certification programs. If you sign up for a KnowledgeNet event and do not want to receive information about TRUSTe certification programs, please use the provided opt-out mechanism or contact us at [marketing@truste.org](mailto:marketing@truste.org).
+
+We share the information we collect in the KnowledgeNet sign-up form with the IAPP solely for administrative purposes in connection with KnowledgeNet events. We do share this information with other third parties.
 
 **For All Visitors to Our Sites**
 
 _TRUSTe Newsletter_
 
 If you sign up for the TRUSTe Newsletter on our [home page](http://www.truste.org/), we will collect your email address to fulfill your request. We will not share your email address with third parties other than a service provider that mails the TRUSTe Newsletter for us.   
-To unsubscribe, follow the unsubscribe link that appears at the end of each newsletter, click on the “unsubscribe” button on our [home page](http://www.truste.org/), or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php). 
+To unsubscribe, follow the unsubscribe link that appears at the end of each newsletter, click on the “unsubscribe” button on our [home page](http://www.truste.org/), or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php).
+
+_TRUSTe Webinars_
+
+We occasionally sponsor online seminars, or Webinars, on privacy topics of interest to businesses and consumers. We collect personally identifiable information (e.g. name and email address) when you sign-up to attend a Webinar. We use the information we collect there for the purpose of contacting Webinar participants or sending them information about TRUSTe certification programs. If you sign up for a Webinar and do not want to receive information about TRUSTe certification programs, please use the provided opt-out mechanism or contact us at [marketing@truste.org](mailto:marketing@truste.org).
 
 _TRUSTe Press Room_
 
@@ -98,6 +108,10 @@ _When you complete a Watchdog Consumer Satisfaction Survey or respond to other s
 _When you apply for certification as a TRUSTe Web Seal Program Sealholder_ in our [Certification Center](https://getcertified.truste.org/), we use a cookie to enable you to navigate easily through the application process. 
 
 We also use cookies to analyze how visitors, in the aggregate, use our Sites, in order to make our Sites as useful as possible for them. We do not use cookies to collect or store personally identifiable information. 
+
+_Web Site Analytics_
+
+We use a third party Web analytics service provider that uses cookies and Web beacons to help us analyze how users use this Web site and the effectiveness of our marketing search terms. The information generated by the cookie about your use of this Web site (including, without limitation, your IP address) will be transmitted to and stored by this service provider. They will use this information for the purpose of evaluating your use of our Web site and compiling aggregated reports for us. The information collected by our service provider and provided to us is not personally identifiable.
 
 _Information automatically collected by our Sites_
 
