@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212235220id_/http%3A//info.aol.co.uk/about/legal/privacypolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616082628id_/http%3A//info.aol.co.uk/about/legal/privacypolicy.adp) for the most accurate reproduction.*
 
 # Privacy Policy - Questions answered - AOL Help
 
