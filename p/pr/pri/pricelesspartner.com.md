@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pricelesspartner.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192621id_/http%3A//www.pricelesspartner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricelesspartner.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616235553id_/http%3A//www.pricelesspartner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Privacy Policy**
 
 Use of the Website and/or the Service is also governed by our Privacy Policy. The personal information (including sensitive personal information) you provide to us will be stored on our computers.
 
