@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214010419id_/http%3A//entertainment.ie/sundry/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034538id_/http%3A//entertainment.ie/sundry/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie Ireland
 
-####  Privacy statement for Entertainment.ie, a site owned and operated by Entertainment Media Networks Limited ('Entertainment.ie'). 
+####  Privacy statement for Entertainment.ie, a site owned and operated by Entertainment Media Networks Limited ('Entertainment.ie').
 
 This statement relates to our privacy practices in connection with this website. We are not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such. Some technical terms used in this statement are explained at the end of this page.
 
@@ -12,7 +12,7 @@ entertainment.ie fully respects your right to privacy, and will not collect any 
 
 #### Collection and use of personal information
 
-entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining MyEI, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of MyEI members we may, in accordance with the Terms and Conditions of the service, send promotional emails and text messages on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. 
+entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining uLike, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of uLike members we may, in accordance with the Terms and Conditions of the service, send promotional emails and text messages on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. 
 
 #### Listings
 
@@ -24,7 +24,7 @@ If you register for AdEvent and pay to highlight your event, we require you to g
 
 #### Collection and use of technical information
 
-This website does not require the use of cookies however they are used for MyEI members to enhance user experience by storing user preferences and to automatically log members into the site 
+This website does not require the use of cookies however they are used for uLike members to enhance user experience by storing user preferences and to automatically log members into the site 
 
 Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items:
 
