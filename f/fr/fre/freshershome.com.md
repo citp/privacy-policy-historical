@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226030048id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616203640id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
 
 # Freshershome.com - Privacy Policy!
 
@@ -50,6 +50,20 @@ Freshershome.com does not **rent, sell, or share personal information** about yo
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards to protect personal information about you. 
   * Your Freshershome.com account Information is password-protected.
+
+
+
+**We At FreshersHome.com,** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit FreshersHome.com, and how we safeguard your information.  We never sell your personal information to third parties.
+
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on FreshersHome.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 **Other Provisions**
 
