@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thesuperficial.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205065845id_/http%3A//www.anticlown.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesuperficial.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616123120id_/http%3A//www.anticlown.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Anticlown Media | Privacy Policy
 
 **Anticlown Media Privacy Policy**  
-The following privacy statement covers all of the Anticlown Media websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20071205065845id_/http%3A//www.anticlown.com/contact.php).
+The following privacy statement covers all of the Anticlown Media websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20080616123120id_/http%3A//www.anticlown.com/contact.php).
 
 **Ownership of Information**  
 Anticlown Media is the sole owner of the information collected on the Anticlown Media websites. 
@@ -39,4 +39,4 @@ The Anticlown Media websites contain links to other sites. Please be aware that 
 Whenever Anticlown Media changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20071205065845id_/http%3A//www.anticlown.com/contact.php).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20080616123120id_/http%3A//www.anticlown.com/contact.php).
