@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226181051id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616135233id_/http%3A//harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
 
 # Harriet Carter Privacy Statement
 
@@ -60,7 +60,7 @@ When you create a “My Account” on HarrietCarter.com, the mailing information
 
 Please provide your old mailing address as well as your new mailing address.
 
-Placing an order does not create an account. Creating an account does not automatically add your email address, unless you specifically request it, to the promotional email list. HarrietCarter.com adopts an “opt-in” mentality to all promotional information. When you place an order on HarrietCarter.com, you have opted in to our customer list, therefore you will receive promotional emails and future catalog mailings. Otherwise, you must specifically request promotional emails through the email sign-up box located on every page at HarrietCarter.com.
+Placing an order does not create an account. Creating an account does not automatically add your email address, unless you specifically request it, to the promotional email list. HarrietCarter.com adopts an “opt-in” mentality to all promotional information. When you place an order on HarrietCarter.com, your email address is added to our customer list, therefore you will receive promotional emails and future catalog mailings. Otherwise, you must specifically request promotional emails through the email sign-up box located on every page at HarrietCarter.com.
 
   **What is HarrietCarter.com Doing to Protect My Privacy?**
 
