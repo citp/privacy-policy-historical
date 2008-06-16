@@ -1,140 +1,195 @@
-> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221191456id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616222811id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
 
-# - NCAAsports.com
+# CBS Interactive - Privacy Policy
 
-| 
+## CBS Interactive Privacy Policy
 
-Privacy Policy
+### Effective date: March 28, 2008   
+Updated on: February 15, 2008
 
-  
-_Effective Date: February 27, 2003_
+This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
-This privacy policy is applicable to the Site accessible at the universal resource locator NCAASports.com (the "Site"), which is operated by SportsLine.com, Inc. (collectively, the "SportsLine", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20080616222811id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
 
-Please read the following to learn more about our data collection policies and practices. 
+### Table of Contents
 
-Types of Information That May Be Collected
-
-The following are the types of information we may collect: 
-
-**Information You Provide Us**
-
-Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site. 
-
-**Site Usage Information**
-
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address. 
-
-**Email Communications**
-
-When you open emails from the Site, we may receive a confirmation noting you opened an email from us, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from the SportsLine and our subsidiaries and affiliates. Additionally, we keep a record of what emails you have opted to and not to receive. 
-
-**Information From Other Sources**
-
-We may receive information about you from other sources and add it to your personal information. 
-
-How Information may be Collected
-
-We may collect information from you in several different areas on the Site, including but not limited to those described below: 
-
-**Registration**
-
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums or other subscription based services. 
-
-**Newsletters and Site Emails**
-
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
-
-**Contests or Promotions**
-
-We may operate contests and promotions through the Site that may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or promotions. We will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or promotions on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or promotions, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or promotions before participating. 
-
-**Surveys or Voting**
-
-From time-to time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. 
-
-**Cookies**
-
-As with many Websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies. 
-
-**IP Addresses and Click-stream Data**
-
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. 
-
-Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
-
-**Transaction Information**
-
-If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. 
-
-How We Use The Information Collected
-
-Each of the NCAA, CBS Broadcasting Inc. and SportsLine owns the information collected via this Site. As applicable, the information you provide to us may be used to: 
-
-  * contact you about the Site; 
-  * contact you relating you your membership status;
-  * confirm or fulfill an order you have made; 
-  * monitor or improve the use of the Site; 
-  * customize the advertising and content you see; 
-  * monitor compliance with our terms and conditions of use of the Site; 
-  * provide special offers to you from the SportsLine and/or their respective affiliates and subsidiaries and other third parties; 
-  * send you promotional material on behalf of our partners; 
-  * inform you of a prize you have won. 
+  * Types Of Information That May Be Collected
+    * Web Site Usage Information & Device Identifiers 
+    * Information You Provide Us
+    * Information From Other Sources
+    * Send To A Friend
+  * How Information May Be Collected
+    * Cookies
+    * Web Beacons
+  * How We Use The Information Collected
+  * Third-Party Ad Serving & Audience and Traffic Measurement Services
+  * With Whom Information May Be Shared
+    * Third Parties Providing Services on Our Behalf
+    * Non-Personal Information
+    * When You Agree to Receive Offers From Third Parties
+    * Products & Services Offered In Partnership With Third-Parties
+    * Sweepstakes, Contest & Promotions
+    * Business Transfers
+    * Legal Protection and Law Enforcement
+  * Correcting/Updating Personal Information
+  * Chat Rooms, Forums, And Message Boards
+  * Third Party Content and Links To Other Web Sites
+  * Consent To Transfer
+  * Security
+  * A Special Note For Parents Concerning Privacy
+  * Notification Of Changes And Your Acceptance Of The Privacy Policy
 
 
 
-With Whom The Information Can Be Shared
+#### TYPES OF INFORMATION THAT MAY BE COLLECTED
 
-At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others: 
+Return to Top
 
-  * **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personally identifiable information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** We may send offers to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences. 
-  * **Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
-  * **Opt-in and Opt-out Programs:** Throughout the Site you may be presented with an opportunity to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy and may not use your personally identifiable information beyond what is reasonably necessary to deliver your requested product or service. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Sites prior to providing your personally identifiable information. 
-  * **Third-Party Ad Serving:** The Site may use a third party network advertiser to serve the advertisements on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Sites you have visited. Third-party ad serving enables us to target advertisements to you for products or Sites you might be interested in. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers and sponsors may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
-  * **The Site Participants, Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with our strategic partners in connection with this Site, CBS Broadcasting Inc., the NCAA, and each of their subsidiaries and affiliates. 
-  * **Business Transfers:** CBS or SportsLine may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer. 
-  * **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you. 
+The following are the types of information we may collect:
 
+##### Web Site Usage Information & Device Identifiers
 
+We may receive and store certain types of web site usage information whenever you visit or interact with the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. We also may collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
 
-**Chat Rooms, Forums, and Message Boards**
+##### Information You Provide Us
 
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The SportsLine cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
+We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, cell phone number, and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for newsletters and other communications (e.g., whether by e-mail, mobile device, etc.), when you communicate or otherwise interact with us, when you submit information to us (whether or not the information is intended to be posted on the Web Sites), contests or sweepstakes, surveys or voting or when you purchase a product or service through the Web Sites. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Sites. Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Sites' features.
 
-**Links to Other Web Sites**
+For your convenience, if you register with one of our Web Sites through which you create a user name and password, that user name and password may work on the other Web Sites where user names and passwords are utilized. The personal information you provide and any additional information we collect about you may be used by us and across all of the Web Sites.
 
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information. 
+##### Information from Other Sources
 
-**Security**
+We may receive information about you from other sources; for example, we may obtain geographic or demographic information, or information regarding your possible interests, from third parties, or we may receive information from a marketing partner in connection with a co-branded web site or promotion.. We may combine the information we receive from those other sources with information we collect through the Web Sites. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information.
 
-This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
+##### Send To A Friend
 
-**A Special Note for Parents Concerning Privacy**
+If you send a friend a communication from the Web Sites, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent.
 
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen on the Site. If in the future, SportsLine collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.). 
+#### HOW INFORMATION MAY BE COLLECTED
 
-**Notification of Changes and Your Acceptance of the Privacy Policy**
+Return to Top
 
-By using this Site, you signify your agreement to the terms of this privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Site shall constitute your acceptance of such revised privacy policy. 
+##### Cookies
 
-**Correction/Updating Personal Information**
+The Web Sites use standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Sites and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Sites whenever you visit the Web Sites, and may make navigating and using the Web Sites easier for you. Also, by tracking how and when you use the Web Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Sites are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Sites. Cookies may also allow the Web Sites to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Sites. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Sites may not provide you with an acceptable user experience if you have disabled the use of cookies. 
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email. 
+##### Web Beacons
 
-If you have any questions about this privacy policy or the privacy practices of this Site, contact ncaaprivacy@sportsline.com 
+The Web Sites and any communications sent by the Web Sites may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following:
 
-Questions regarding this statement should be directed to: 
-
-    
-SportsLine.com, Inc.    
-Attn: Customer Service - NCAA Privacy    
-2200 W. Cypress Creek Road    
-Fort Lauderdale, Florida 33309   
+  * counting unique users (actually, unique web browsers), visits and page views.
+  * monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.
+  * personalizing your experience when you visit the Web Sites, including the advertising and content you see.
+  * determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
 
 
-* * *
 
-  
-  NCAASports.com Quick Box   
-|  | 
+#### HOW WE USE THE INFORMATION COLLECTED
+
+Return to Top
+
+The information you provide to us may be used to:
+
+  * Send you newsletters and/or other communications for which you have registered;
+  * Contact you about the Web Sites, including, without limitation, in our discretion to notify you of changes to this Privacy Policy, the Web Site's Terms of Use, or other policies that affect your use of the Web Sites;
+  * Confirm or fulfill an order you have made;
+  * Provide special offers or promotional materials to you on behalf of us or third parties;
+  * Contact you with regard to a sweepstakes, contest or promotion in which you have participated;
+  * Authorize a purchase or complete a transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you;
+  * Monitor or improve the Web Sites;
+  * Administer the Web Sites' systems and for other internal business purposes;
+  * Customize the advertising and content you see;
+  * Comply with and monitor compliance with our Terms of Use and other applicable agreements and polices; and
+  * For other purposes disclosed when you provide your information.
+
+
+
+Moreover, if you submit to Company and/or the Web Sites comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](http://www.cbsdigitalmedia.com/info/tou), which governs any content you submit through the Web Sites.
+
+Please note that information submitted to the Web Sites via a "contact us," or other similar mechanisims will not necessarily receive a response. We will not use any such information you provide to contact you for marketing purposes unrelated to your request.
+
+#### THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
+
+Return to Top
+
+The Web Sites may use third party network advertisers to serve advertisements on the Web Sites and may use a traffic measurement service to analyze traffic on the Web Sites. Network advertisers are third parties that display advertisements based on your visits to the Web Sites and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Sites, the Web Sites' third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Sites, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use 
+
+#### WITH WHOM INFORMATION MAY BE SHARED
+
+Return to Top
+
+Except as otherwise disclosed at the time you provide your information, the following outlines the ways in which your information may be shared with others:
+
+##### Third parties providing services on our behalf
+
+We employ third parties to perform functions on our behalf; examples include hosting or operating Web Sites, fulfilling orders for products and services purchased through the Web Sites, sending e-mailand/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Sites' behalf.
+
+##### Non-Personal Information
+
+We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties.
+
+##### When You Agree To Receive Information From Third Parties
+
+You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your personal information shared, your personal information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your personal information shared, your personal information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
+
+##### Products and Services Offered in Partnership with Third-Party(s)
+
+Certain Web Sites are provided to you in partnership with third party(s) ("Co-Branded Sites") and may require you to disclose personal information in order to register for and access products and/or services. Such Co-Branded Sites will identify the third party partner(s). If you elect to register for such products and/or services at Co-Branded Sites you may be providing your information to both Company and the third party partner(s) and your information may be subject to a separate privacy policy available at the point of registration. Further, if you sign-in to a Co-Branded Web Site with a user name and password obtained at one of our Web Sites, you are automatically registering with the Co-Branded Site and your personal information may be disclosed to the identified third party partner(s) for that Co-Branded Site and will be subject to the posted privacy policy(ies).
+
+##### Sweepstakes, Contests and Promotions
+
+We may offer sweepstakes, contests, and other promotions through the Web Sites that may require registration. If you choose to enter a sweepstakes, contest or other promotion, your personal information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion.
+
+##### Business Transfers
+
+Company shares the information collected through the Web Sites with and among the Web Sites, and may share the information with its parent, subsidiaries and affiliates. Company or any of it assets, including the Web Sites, may be sold, or other transactions may occur in which your personal information is one of the key business assets for the transaction. In such a case, your personal information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including personal information, in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our assets, or other corporate change.
+
+##### Legal Protections and Law Enforcement
+
+We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; or to protect the legal rights, interests, or safety of the Web Sites, our users or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+
+#### CORRECTING/UPDATING PERSONAL INFORMATION
+
+Return to Top
+
+The Web Sites may contain web pages through which you can change your subscriptions or correct or update the personal information you have provided to us through registration with one or more of the Web Sites. With regard to subscriptions, you also may cancel (or modify if applicable) your subscriptions by following the instructions provided to you in applicable communications regarding such subscriptions.
+
+#### CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
+
+Return to Top
+
+The Web Sites may make chat rooms, forums and message boards available to its users. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when disclosing personal information in these areas. Your use of chat rooms, forums and message boards is subject to our [Terms of Use](http://www.cbsdigitalmedia.com/info/tou)
+
+[
+
+#### THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES
+
+](http://www.cbsdigitalmedia.com/info/tou)
+
+[](http://www.cbsdigitalmedia.com/info/tou)Return to Top
+
+When you are on the Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites' logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site's privacy policy before providing any personal information.
+
+#### CONSENT TO TRANSFER
+
+Return to Top
+
+The Web Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Sites or providing us with your information, you consent to this transfer.
+
+#### SECURITY
+
+Return to Top
+
+Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Sites, and you do so at your own risk.
+
+#### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
+
+Return to Top
+
+The Web Sites are general audience web sites. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Sites and we will delete any information later determined to be from a user younger than thirteen (13).
+
+#### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY
+
+Return to Top
+
+By using the Web Sites, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy. However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
