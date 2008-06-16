@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nlop.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120756id_/http%3A//www.nlop.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlop.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617015927id_/http%3A//www.nlop.com/privacy.shtml) for the most accurate reproduction.*
 
-# NLOP - THE NATIONAL LEAGUE OF POKER - ALWAYS FREE POKER, WIN CASH & PRIZES
+# NLOP - The National League of Poker - Always Free Poker, Win Cash & Prizes
 
 **Privacy Policy for Our Players**
 
