@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229091218id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616203631id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
 
 # GIANT Privacy Policy
 
@@ -23,7 +23,7 @@ This privacy policy does not include GIANT pharmacy records. Pharmacy records ar
 To help better understand and serve the needs of our customers, we collect Customer Information from various sources, including the following: 
 
   * Information we receive when you use your GIANT BonusCard. 
-  * Information you give us on application forms, customer surveys, sweepstakes and coupon rebate entries, or when you visit our website or shop at our stores.
+  * Information you give us on application forms, customer surveys, store kiosks, sweepstakes and coupon rebate entries, or when you visit our website or shop at our stores.
   * Information you provide to us over the phone or through the mail. 
   * Information we collect through your browser when you visit our website and your browser interacts with us; 
   * Information recorded as a result of your interaction with any company in our corporate family related by common ownership, such as Ahold USA, Inc. and its other supermarket companies; and 
@@ -60,4 +60,4 @@ GIANT may modify this Privacy Policy from time to time. Our current Privacy Poli
 If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268),or ** _[contact us ](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm)_**through our website.
 
   
-This Privacy Policy was last revised on January 9, 2003
+This Privacy Policy was last revised on March 7, 2008
