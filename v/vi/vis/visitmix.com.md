@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitmix.com privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114092611id_/http%3A//visitmix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmix.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616105949id_/http%3A//www.visitmix.com/Privacy) for the most accurate reproduction.*
 
-# Privacy | MIX
+# Privacy | MIX Online
 
 Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the VisitMix.com site (the “Site”) hosted for Microsoft by Orcsweb; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
