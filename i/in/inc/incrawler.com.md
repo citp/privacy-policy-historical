@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrawler.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218092949id_/http%3A//www.incrawler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrawler.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616074730id_/http%3A//www.incrawler.com/privacy.htm) for the most accurate reproduction.*
 
 # InCrawler - Privacy Policy
 
