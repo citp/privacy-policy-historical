@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621180334id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616101923id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# backpage.com : Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 backpage.com (the "Site") respects your privacy. Here's our privacy policy for this Site:
 
@@ -26,7 +24,7 @@ From time to time, we may send you information with announcements and updates ab
 
 ### Correction/Update of Personal Information:
 
-If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at [support@backpage.com](mailto:support@backpage.com). You may also have your personal profile data deleted from our database by sending us an email to [support@backpage.com](mailto:support@backpage.com). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
+If your personal information changes, you may review/correct/update your personal information previously provided at any time by clicking [here](http://www.backpage.com/classifieds/Contact) and sending us an email. You may also have your personal profile data deleted from our database by contacting us [here](http://www.backpage.com/classifieds/Contact). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
 
 ### Children
 
@@ -46,4 +44,4 @@ This privacy policy is effective as of June 1, 2005. By using our Site and its s
 
 ### More Questions?
 
-If you have any questions about this privacy policy, e-mail them to [abuse@backpage.com](mailto:abuse@backpage.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, e-mail them by clicking [here](http://www.backpage.com/classifieds/Contact), and be sure to indicate the specific site you're visiting and the nature of your question or concern.
