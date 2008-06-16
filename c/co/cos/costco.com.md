@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212082553id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616054053id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
 
-# Costco Privacy Policy 11-15-07
+# Costco Privacy Policy 02-05-08
 
 |  | 
 
 | **Costco Wholesale Corporation  
 Privacy Statement  
 **(United States and Puerto Rico)  
-Last Updated November 05, 2007  
+Last Updated February 05, 2008  
 ---  
     
    
@@ -83,7 +83,7 @@ We collect the personal information that you provide us, such as when you:
   * sign up for or participate in our various Member Services ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#D2) Member Services below).
 
   
-We may automatically collect some information when you visit our website, such as your computer's network address and operating system, the site from which you linked to us, and the time and date of your visit and purchases. This information may be collected through the use of "cookies" ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#I) Online Specifics below). We also receive information from third parties who provide Member Services or special promotions or products ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#D2) Member Services below) and we may combine this information with the other personal information we maintain about you. In either case, this policy statement governs this information.  
+We may automatically collect some information when you visit our website, such as your computer's network address and operating system, the site from which you linked to us, your site activity and the time and date of your visit and purchases. This information may be collected through the use of "cookies" ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#I) Online Specifics below). We also receive information from third parties who provide Member Services or special promotions or products ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#D2) Member Services below) and we may combine this information with the other personal information we maintain about you. In either case, this policy statement governs this information.  
    
 **C. Use of Personal Information by Costco**
 
@@ -117,7 +117,7 @@ As a service to our Business Members who purchase tobacco products for resale, w
   
 **E. Other Uses and Disclosures**
 
-In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you or comply with legal process or authorities to respond to any claims, or to protect the rights, property or personal safety of Costco Wholesale, our Members, our employees or the public. Information about our Members, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger or sale of company assets or acquisition.  
+In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Costco Wholesale, our Members, our employees or the public. We may share your name, address and membership level (Gold Star, Business or Executive), but no other personal information, with your employer if your membership was purchased for you as an employee benefit. Information about our Members, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger or sale of company assets or acquisition.   
   
 **F. Protection of Personal and Credit Card Information**
 
@@ -169,8 +169,11 @@ We encourage parents to take an active interest in their children's use of the I
 Through the Member Services ([see](http://www.costco.com/Service/FeaturePageLeftNav.aspx?ProductNo=10166084#D2) Member Services above) and selected other portions of our website, you can link to other websites of third parties who have agreed to offer goods and services to our members. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of websites to which we link. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.  
    
 ---|---  
-4. | **Updating, Reviewing or Correcting Online Personal Information**  
+4. | 
+
+**Updating, Reviewing or Correcting Online Personal Information**  
 You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at [customerservice@costco.com](http://www.costco.com/CustomerService/EmailUs.aspx) or call us at 800-774-2678. To update prescription-related information, access the patient profile page at our online pharmacy site. To update general membership information, such as a change of address, please see below.  
+  
 ---|---  
 5. | **Retention of Information we Collect Online**  
 Information we automatically collect as a result of your online activity is generally not retained in a personally identifiable form, or if the information is personally identifiable, we retain it only long enough for us to perform studies and analyses related to our website. The exception would be information we need in order to investigate fraud or problems associated with particular transactions or events.   
