@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618011355id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617010153id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Statement | VerticalResponse
 
@@ -6,7 +6,7 @@ This privacy statement discloses the privacy practices for [www.verticalresponse
 
 **VerticalResponse has agreed to notify you of:**
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
+  1. What personally identifiable information of yours or third party personal identification is collected from you through the web site
   2. The organization collecting the information 
   3. How the information is used 
   4. With whom the information may be shared 
