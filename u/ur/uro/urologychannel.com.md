@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212055310id_/http%3A//urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616171109id_/http%3A//www.urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -14,8 +14,10 @@ The information below discloses the privacy practices of Healthcommunities.com, 
   * [**cardiology** channel](http://www.cardiologychannel.com/)
   * [**dermatology** channel](http://www.dermatologychannel.net/)
   * [**flu** channel](http://www.fluchannel.com/)
+  * [**gi** channel](http://www.gichannel.com/)
   * [Healthcommunities.com](http://www.healthcommunities.com/)
   * [**healthinfo** channel](http://www.healthinfochannel.com/)
+  * [**hiv** channel](http://www.hivchannel.com/)
   * [**lgbthealth** channel](http://www.lgbthealthchannel.com/)
   * [**malehealth** channel](http://www.malehealthchannel.com/)
   * [**mentalhealth** channel](http://www.mentalhealthchannel.net/)
