@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225124612id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616105420id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at  [www.cedars-sinai.edu](https://web.archive.org/) ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website. 
+The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at [www.cedars-sinai.edu](https://web.archive.org/) ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website. 
 
-This Privacy Policy does not apply to our information collection and use policy or practices offline.  This information is available on the  [HIPAA Privacy Practices](https://web.archive.org/6913.html) page. 
+This Privacy Policy does not apply to our information collection and use policy or practices offline.  This information is available on the [HIPAA Privacy Practices](https://web.archive.org/6913.html) page. 
 
 The information we gather generally can be categorized as either anonymous or personally identifiable.   
 
