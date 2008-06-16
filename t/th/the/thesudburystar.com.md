@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213021014id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616040851id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
 
 # The Sudbury Star - Ontario, CA
 
@@ -101,8 +101,8 @@ L3R 9R6
 [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved.  
-© 2007 www.thesudburystar.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2008 www.thesudburystar.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2007 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thesudburystar.com ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2008 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thesudburystar.com ,All rights reserved. 
