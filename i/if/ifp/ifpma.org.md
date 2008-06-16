@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifpma.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214141454id_/http%3A//www.ifpma.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifpma.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616162824id_/http%3A//www.ifpma.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # IFPMA - Privacy Policy
 
@@ -6,7 +6,9 @@
 Our Online Privacy Policy  
    
   
-The International Federation of Pharmaceutical Manufacturers Associations (IFPMA) is committed to protecting the privacy and security of visitors to our Web site. Below is our privacy policy for information collected through our Web site and email lists. If you have questions about these policies, please feel free to contact us.  
+The International Federation of Pharmaceutical Manufacturers Associations (IFPMA) is committed to protecting the privacy and security of visitors to our Web site. Below is our privacy policy for information collected through our Web site and email lists. If you have questions about these policies, please feel free to contact us.
+
+(Policy last reviewed in December 2005)  
   
 Resale or disclosure of information to third parties  
    
