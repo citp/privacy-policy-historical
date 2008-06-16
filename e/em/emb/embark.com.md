@@ -1,144 +1,117 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114193600id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616213725id_/http%3A//www.embark.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | The Princeton Review
+# Embark - Privacy Policy
+
+|   
+---  
+|  |  |  |  |   |   
+---|---|---|---|---  
+  |  | Embark Privacy Policy  
+---  
+Effective Date: February 17, 2007
+
+www.embark.com ("Website") is an Internet property of Embark Corp. and its affiliates ("Embark," "we," "our," or "us"). This Privacy Policy is given on behalf of Embark. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. In addition to this Privacy Policy, we are fully committed to adhering to all federal and state privacy regulations, including the California Online Privacy Protection Act of 2003. You agree to this Privacy Policy, in its entirety, when you: (1) access or use our Website or any of the web pages of our Website, (2) agree to receive e-mail from us and/or, (3) make application to a college through an Embark hosted online application (i.e., Apply Online Program).
+
+This Privacy Policy will tell you the following: 
+
+  1. What information we collect/track about you.
+  2. With whom we share the information we collect/track.
+  3. How we use the information we collect/track.
+  4. Our policy on correcting and updating information you have provided to us. 
+  5. Our policy on your right to opt out of some of our information sharing practices.
+
+This Privacy Policy applies to any information you provide to us via our Website, email, telephone or in any other communication or exchange you have with Embark.  
+  
+  
+  
+Information Collection Practices and Policies  
+We collect information about you when you provide us your information through forms, requests for information, applications for a school (i.e., Apply Online Program), use of our service to store your data on the Embark.com profile, or through other communications and interactions you have with us via our Website, email or telephone. When you submit information to us, you are doing so on a completely voluntary basis, at your sole discretion and will. Many times the information you submit is required to obtain the benefit, assistance or service you are requesting or would like to obtain from us-for instance, to use our form completion services on Embark.com, or to obtain information about a school. The information you may be requested to submit may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Social Security Number, and (6) Date of Birth.
+
+We also may collect information about you from companies that may provide us with information about consumers-for instance, from a marketing list provider.   
+  
+IP Addresses  
+We collect IP addresses. Your IP address is used to gather broad and specific demographic information as well as for validation purposes. In addition, we use your IP address to help diagnose problems with our server, and to administer our Website.  
+  
+Cookies  
+A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser to decline them. We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes.  
+  
+Web Site Tracking Software   
+Web servers, or those of third-party vendors, utilize certain tracking software to capture your domain name address (the address of your Internet service provider) for purposes of tracking Website statistics. The capture of your domain name is a common practice among websites for measuring the number of hits, pages visited, and length of user session. We use this information to measure the effectiveness of the Website offerings in order to service you better.   
+  
+  
+Information Sharing Practices and Policies  
+Categories of Users  
+There are **five** different types of users of our Website, as follows: (1) Former Embark Users, (2) Former Embark School Application Users, (3) All Other Former Embark Users, (4) Current School Application Users, and (5) Current Users. Below are descriptions for each type of user so you can determine what category of user applies to you. 
+
+  1. **_Former Embark Users_** are users who used one of the free Embark web pages when it was owned by The Princeton Review (which was during the period of October,2001 to February 17, 2007).
+  2. **_Former Embark School Application Users_** are users who made use of an Embark hosted online college application web page when Embark was owned by The Princeton Review (which was during the period of October, 2001 to February 17, 2007).
+  3. **_All Other Former Embark Users_** are all users of the Embark website prior to October, 2001.
+  4. **_Current School Application Users_** are all users who link to and use one of the online college applications hosted by Embark (i.e., Apply Online Program - this is when you link to an Embark hosted application from a college's website) after February 17, 2007.
+  5. **_Current Users_** are all other users of the Embark website after February 17, 2007. **_Current School Application Users_** that elect to have Embark store their data in the Embark.com profile are also **_Current Users_** (and the **_Current Users_** policies will apply).
 
   
+Policies for Each Category of User  
 
 
-The Princeton Review takes your privacy seriously. This Privacy Policy applies to all of our customers, whether you buy our services or products online or offline. It also applies to visitors to our free websites.
+**_Former Embark Users_**  
+All of the information you provided to us while we were a part of The Princeton Review is governed by The Princeton Review privacy policy that was in effect at the time you provided information about yourself to Embark. As of June 20, 2005, The Princeton Review privacy policy provided that: "We don't share the information you have given us without your permission to do so." What does this mean - Embark will not share any of the information you provided to us while we were a part of The Princeton Review unless you want us to. This applies to all the information you provided to Embark while it was a part of The Princeton Review.
 
-The Princeton Review takes strong measures to protect your privacy. First, we only ask you to provide information that we need in order to deliver the service or information you have requested. Second, we don't share the information you have given us without your permission to do so. 
+ _Important Notice:_ If you use our Website after February 17, 2007 and give us information about yourself (whether it's new information or the same information you previously gave us), this new giving of information will be governed by the policies applicable to a **_Current User._**
 
-  
-OVERALL
+**_Former Embark School Application Users_**  
+The information you provided to us on a college application hosted by Embark while we were a part of The Princeton Review was not covered by The Princeton Review privacy policy. Further, Embark did not have its own privacy policy. Since there is no privacy policy that applies to this information, it will be governed by the policies applicable to a **_Current User._**
 
-Information We Collect  
-We collect personally identifiable information from you when you purchase some of our products, including online and offline courses, and when using some of our Web-based services. We will request information that we need in order for you to participate in the service (things like your name and address, for example) or pay for the service (credit card information, for example). 
+**_All Other Former Embark Users_**  
+The information you provided to us was not covered by a privacy policy because Embark did not have a privacy policy. Since there is no privacy policy that applies to this information, it will be governed by the policies applicable to a **_Current User._**
 
-The Princeton Review offers several opportunities to receive products or information on- and off-line, either directly from us or from our partners. You can indicate your wish to receive such products and information by checking a box on a form; unless you ask for it, nothing will be sent to you and nothing will be shared with third parties.
+**_Current School Application Users_**  
+The information you provide to us through the Apply Online Program will be governed by the Embark Application Privacy Policy, which is described in the Embark hosted online college application. If you do not remember the details of that privacy policy, you may click on this link to find out what it said.
 
-If you request to receive information from us or others, we often need to collect more information from you than when you purchase a product or service from us. The additional information we ask for will vary depending on what it is you're requesting, but generally includes your mailing address, year of graduation, and other information that you choose to provide regarding your academic and extracurricular activities and interests. When you ask to receive information from or to be contacted by a third party, your information is passed on to the third party to fulfill your request; they may have their own privacy policies that differ from ours. The information we share may include any personally identifiable information we have about you, such as your name, address, academic record, and test scores.
+If you are a **_Current School Application User_** and asked Embark to store your data in the Embark.com profile, you are also a **_Current User_** and the **_Current User's_** policies will also apply to you.
 
-We may track data on our customers in aggregate form. Such aggregated data does not uniquely identify you.
+**_Current Users_**  
+We may share some or all of the information we collect, as described above, with affiliated companies and with third parties (i.e. nonaffiliated companies) as permitted by law. For example, we may share some or all of the information we collect with the following types of affiliated companies and third parties: 
 
-Schools  
-We work with schools and institutions to provide programs such as test preparation and college counseling. Your school, district, or state may arrange for you to participate in these programs and may purchase products on your behalf. We may share personally identifiable information that you provide to us through your participation in these school programs with your school, district and your parents. In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education.
-
-COPPA Compliance  
-The Princeton Review complies with the Children's Online Privacy Protection Act of 1998. Except for K-12 students who participate in our Homeroom or ECOS product, we do not accept personally identifiable information online from children under the age of 13. (For more information on Homeroom or ECOS, please see below.) If we become aware that our records contain such information, we will delete it.
-
-Marketing Lists  
-From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We use these lists to send direct marketing promotions by mail or by email. We do our best to only obtain these lists from suppliers who have opt-in policies for third-party marketing, but we are not responsible for the conduct and policies of these suppliers. Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material, a third-party marketing list supplier could still provide us with your name and address, in which case you will receive the promotional material sent by us to others on the supplier's list. If you have received a promotion from us and do not wish to receive future promotions, please contact us at: [privacy@review.com](mailto:privacy@review.com). 
-
-  
-LIVE COURSES
-
-Subscriptions   
-Many of our course students are given supplemental materials to help them prepare for their test. For example, if you become a student of The Princeton Review, we may provide you with magazine and/or newspaper subscriptions, as part of your course tuition as an additional benefit. If you would rather not receive supplemental materials, you will need to contact us and ask us to remove your name from our supplemental materials lists. Offline course students should contact your local office. Online students should email [support.online@mail.review.com](mailto:support.online@mail.review.com) or call 888.755.7737.
+    * Companies with whom we conduct joint marketing campaigns;
+    * Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers;
+    * Companies that perform services on our behalf; and
+    * Other third parties as required by law, such as in response to a subpoena.
 
   
-ON THE INTERNET
+Your Privacy Choices  
+If you prefer that we not share information you have provided to us with third parties, you may opt out of some of these types of disclosures. The types of disclosures you can opt out of are: 
 
-Anonymous Areas  
-Some areas of our websites are accessible without registration of any kind. This is true of many of the basic content areas. Other areas require registration.
+  * Companies with whom we conduct joint marketing campaigns; and
+  * Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers.
 
-Services that Require Registration  
-Some of our most useful services are personalized: different visitors get different results based on information they provide. Examples include but are not limited to Homeroom, Advanced School Search, Online Tests, Online Course Demos, Recruiter, the Tuition Cost Calculator, and any surveys or contests in which you may choose to participate. Registration for these services is required to facilitate customization of your individual results.
+To tell us not to share information you have provided to us with these third parties, [click on this link.](https://web.archive.org/web/20080616213725id_/http%3A//www.embark.com/AppLogin.aspx?mode=subscribe)
 
-In addition to providing personalized results, registration is important for sending you specific information related to your service, and for allowing you to access stored information, and in the event that you opt-in, provide third party access to you. 
-
-How Are Cookies Used?  
-We also use a software technology called "cookies" to create a personalized Web experience. Cookies cannot be used to find your name, email address, or anything that is uniquely identifying about you unless you provide that information. We use cookies for those applications to which we referred earlier that require us to keep track of information to customize results. If you don't have your browser set to accept cookies, certain areas of PrincetonReview.com, ECOS, and Homeroom.com will not function. We also allow you to choose to use a cookie to save your username and password so that you do not have to log in to the website each time you visit. We do not recommend this in multi-user environments such as school computer labs.
-
-Partner Privacy Policies  
-When you click on links and/or ad banners that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, The Princeton Review cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any website you visit. Homeroom.com and ECOS do not display third party banner ads on the site, although there may be resource links to third party content.
-
-Passive Collection of Data  
-Like most sites, we maintain logs of site usage in order to evaluate our visitors' interest level in areas of the website, which and how many pages they look at, how long they stay on the site, and what Web browsers are used. This data is tracked in aggregate form, not at an individual user level, and is not uniquely identifying. The aggregate level data may be shared with third parties and the public. 
-
-Cautions  
-Please note, if you do not logout once registered for services that require registration, your personal information could be viewed by other users with access to your computer.
-
-Please note, if you choose to participate in our online discussion forums, your posts will be publicly accessible, as will the username and email address you use.
-
-Specific Privacy Issues for PrincetonReview.com
-
-Registration  
-When registering on PrincetonReview.com you will need to provide an email address and password. You need to choose a secret password to keep the personal information you entered on PrincetonReview.com private. In addition, we request your mailing address and other information for certain services so that we can send you the information you request via mail, or in the event you opt-in, provide third party access to you.
-
-If a user elects to use our system to inform a friend or parent/guardian about our site, particularly the Word du Jour feature or Lender's Center, we ask them for the friend's name and email address. The Princeton Review will automatically send the friend a one-time email inviting them to visit the site. The Princeton Review stores this information for the sole purpose of sending this one-time email. The friend may contact The Princeton Review at [webmaster@review.com](mailto:webmaster@review.com) to request the removal of this information from our database.
-
-Changing Personal Information  
-You may unsubscribe to Word du Jour simply by going to the Word du Jour subscription page and updating your subscription (if you are not logged in, you will be prompted to log in first). 
-
-If you want to change any of the personal information that you completed when you registered or opt-out of any of the opt-ins that you selected, sign-in to PrincetonReview.com and click on "Your Profile" in the top right corner. 
-
-Clear Gifs (Web Beacons/Web Bugs)  
-24/7 Real Media, Inc., the company that serves our banner advertisements for PrincetonReview.com, uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps inform them about what content is active. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web user. Clear gifs are invisible on the page and very small, about the size of the period at the end of this sentence.
-
-Clear gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the website would read the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. The information would then go back to the advertising company. To learn more about 24/7 Real Media's use of clear gifs, please go to: [www.247realmedia.com](https://web.archive.org/out.asp?URL=www.247realmedia.com).
-
-In addition, we use clear gifs in our HTML-based emails, to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, simply sign-in to PrincetonReview.com and click on "Your Profile" and opt-out of any service you wish.
-
-Specific Privacy Issues for Homeroom.com
-
-We know that privacy is very important to you, especially where your children are concerned and we want you to know that we put children's privacy first. We make you three promises: 
-
-  * Homeroom is in complete compliance with the Children's Online Privacy Protection Act of 1998 (COPPA). 
-  * Parents will always have access to all the personal information we have about their children, including their work at the site. 
-  * We will never share with third parties personal information that identifies any of the students, without parental authorization. 
-
-
-
-Complete Compliance with COPPA   
-Homeroom complies with the Children's Online Privacy Protection Act of 1998. For Homeroom, we work with all of our clients to ensure that COPPA rules are being followed in conjunction with the creation of student accounts. A printable consent form is built into Homeroom to help teachers secure parental consent when applicable. Parents will always have access to all personal information we have about their children, including all their children's work at the site.
-
-Parent Access to Homeroom  
-Homeroom is designed to be a student-appropriate and kid-friendly site. Our site is highly interactive and designed to provide a different experience for every user. In order to make this possible, we collect the information and provide the services listed below. 
-
-Students register by giving us their full name and gender, and they have the option of giving us their email address. They then pick a password. This information is then combined with the identifying information we have received from their school and the student's teacher, grade, and subject matter. This information is only available to us, the student, the student's school, and the parent. We use this information to provide a personalized interactive environment for each student and to give the teachers and school, district or state administrators the information necessary to track each student's progress and make effective use of Homeroom.
-
-Each student has a unique user name, which is the student's screen name and the Students are publicly identified at the site only by their user name. 
-
-As a service to its users, Homeroom provides Homeroom email services within our closed environment. Each of our users—students, parents, administrators, and teachers—is given ability in their Homeroom account to communicate with another Homeroom user As with all email accounts, children may disclose personal information about themselves to their Homeroom email correspondents. All users should practice safe computing, and parents should advise their children not to give out any personal information without parental consent. Schools and districts have the ability to disable the Homeroom email system.
-
-Parents have their own Homeroom user accounts. Registration is similar to that for students, with parents providing their names, address, gender, and email. Through these accounts they can view and update information about their children, and send and receive email. 
-
-Parents are welcome to review their children's personal information. They can also change or delete their children's optional personal information. 
-
-NOTE: Homeroom.com reserves the right to terminate service for a student if a parent wishes to delete information that is necessary to our operations, such as First Name, Last Name, Grade, and Gender.
-
-We do not condition a child's participation in an activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
-
-Sharing of Information
-
-The privacy of individual user data for school administrators, teachers, parents, and students is always respected and protected. We will never disclose, sell, or rent personal information that identifies any of our Homeroom users without specific authorization to do so. Only the student, the teacher, the school administration, and the parent(s) have access to this information. Each school has agreed to maintain the confidentiality of this information. The Princeton Review retains the right to release aggregate performance information provided this information is not personally identifiable by district, school or individual students and teachers.
-
+In addition, you may choose to not receive email communication from us (see "Unsubscribe" below).   
   
-MISCELLANEOUS 
-
-Changes in Our Policy
-
-We reserve the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
-
-Other Online Privacy Resources  
-A number of organizations are very actively involved in educating Internet users about privacy issues and are pushing for legislation to preserve your online privacy rights. For more information about data privacy and cookies, you should check out the Electronic Frontier Foundation, the Electronic Privacy Information Center, and the Center for Democracy and Technology.
-
-Disclaimer  
-Though we make every effort to preserve your privacy, we cannot guarantee your privacy. Further, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process served on us or a law enforcement request.
-
-Contact Us:
-
-The Princeton Review   
-2315 Broadway   
-New York, NY 10024
-
-The Princeton Review K-12 Services  
-(includes Homeroom.com)  
-160 Varick Street  
-12th Floor  
-New York, NY 10013
-
-Email us at: [privacy@review.com](mailto:privacy@review.com)
-
-Last revised: June 20, 2005 
+  
+Information Use  
+We use the information you give us to provide the benefit, assistance or service you are requesting or would like to obtain. We may transfer aggregate or group data about our users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of our users as a group without disclosing personally identifiable information. By submitting your information to us and using our Website, you agree to allow us to transfer such aggregate data to third parties. In addition, we collect and share information as discussed above.   
+  
+Other Websites  
+Our Website may contain links to third-party owned and/or operated websites. We are not responsible for the privacy practices or the content of such websites. These third-party websites have separate privacy policies and data collection practices and we have no responsibility or liability relating to them. We encourage you to review the privacy policies and data collection practices of those sites. The privacy policies of colleges for whom we host online college applications may be different from our Privacy Policy.   
+  
+Security  
+Information we maintain about you is stored in a secure manner. We use security features to collect the information you provide to us via our Website in a secure manner. However, if you send us an email, that type of transmission of information is not secure, and is traveling though the Internet unprotected and can be intercepted. While perfect security on the Internet is impossible, we maintain physical, electronic, and procedural safeguards to protect the information you provide to us. We restrict access to this information to employees with a need to know this information to provide you with the benefit, assistance or service you request or would like to obtain, and to those employees that need the information to do their jobs.   
+  
+Minors  
+We adhere to all federal and state laws regarding visitors under 18 years of age.   
+  
+Unsubscribe  
+To stop receiving future communications from us, please review your contact preferences [here](https://web.archive.org/web/20080616213725id_/http%3A//www.embark.com/AppLogin.aspx?mode=subscribe).   
+  
+Changes in Privacy Policy  
+We reserve the right to change or update our Privacy Policy at any time by posting a notice in the Privacy Policy announcing that it has changed. The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied). In addition, the updated Privacy Policy will list a new "Effective Date." If you continue to use our Website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our Website, (2) agree to receive e-mail from us and/or, (3) make application for a school through our Website), you are agreeing to be covered by the updated Privacy Policy.   
+  
+Correct/Update  
+You can change the information you have provided to us by: (1) logging in to your account, (2) clicking on User Settings and (3) modifying any of the fields, as desired.   
+  
+Contacting the Website  
+If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [privacypolicy@embark.com](mailto:privacypolicy@embark.com), or you may call us at 1-415-615-1800.   
+|   
+---  
+|  
