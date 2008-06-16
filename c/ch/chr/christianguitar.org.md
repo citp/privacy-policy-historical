@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
 
-# Christian Guitar
+# Privacy Policy - ChristianGuitar.org
 
 [home](https://web.archive.org/) > Privacy Policy
 
@@ -34,7 +34,7 @@ This site makes message boards available to its users. Please remember that any 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/contactus.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/contactus.php).
 
 **[Sweetwater Sound](http://www.sweetwater.com/)**  
 CGR has partnered with Sweetwater Sound to help the CGR community in all our guitar needs. They have everything from strings, guitars, pedals, and more. Sweetwater, where you can get the best guitar gear for the best price.
@@ -45,8 +45,8 @@ Did you know CGR has a sister site w/ country guitar tabs? Well we do! Its calle
 **[Rockin Tabs](http://www.rockintabs.com/)**  
 Are you looking for a site that has rock guitar tabs? Then Rockintabs.com is the place for you. It is a budding site with many rock guitar tabs. Submit your tab today.
 
-**[Yourmusic.com](http://x.azjmp.com/10H93)**  
-BMG and yourmusic.com are now working w/ us to provide an exclusive online offer to access over 14,000 titles on a completely risk-free subscription basis. All cd's are $6.99 with free shipping!
+**[Christian Ringtones](http://x.azjmp.com/0ZR2g)**  
+Dadamobile and CGR have teamed up to bring your favorite Christian artists right to your phone. Sign up today and get 10 complementary ringtones!
 
 | 
 
@@ -54,32 +54,32 @@ Subscribe and stay up to date
 
 [](http://feeds.feedburner.com/CGR)
 
-There are currently **121** users ( **25** members and **96** guests) on the site. 
+There are currently **133** users ( **23** members and **110** guests) on the site. 
 
-As of December 14th, 2007 we have **14,233** tabs, which have been viewed **68,335,598** times.
+As of June 16th, 2008 we have **14,529** tabs, which have been viewed **68,321,033** times.
 
 sponsor
 
 [](https://web.archive.org/forums/forumdisplay.php?forumid=296)
 
+April 14th, 2008  
+[New Super Moderator](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164781&goto=newpost "New Super Moderator")
+
+i would like to introduce to you the newest member of our admin team. she has been a member...
+
+April 3rd, 2008  
+[more server maintenance](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164369&goto=newpost "more server maintenance")
+
+we had to do more maintenance this morning and had to rebuild some data tables. sorry for the downtime....
+
+March 27th, 2008  
+[Server Maintenance](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=164092&goto=newpost "Server Maintenance")
+
+We are going to be doing some server maintenance at 12am EST on April 1st for about 2 hours. ...
+
 December 6th, 2007  
-[sorry about the downtime](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=159781&goto=newpost "sorry about the downtime")
+[sorry about the downtime](https://web.archive.org/web/20080616235201id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=159781&goto=newpost "sorry about the downtime")
 
 we had some issues at the datacenter...but everything should be good now. again, i apologize for the downtime....
-
-November 14th, 2007  
-[New Artists](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158800&goto=newpost "New Artists")
-
-we are now able to add new artists. submit any artists on this thread that you do not see...
-
-November 13th, 2007  
-[Skeeter Added as Super Moderator](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158768&goto=newpost "Skeeter Added as Super Moderator")
-
-Since Nix stepped down from her Super Moderator position a couple months ago, the Admin staff labored over whom to...
-
-October 31st, 2007  
-[Welcome to CGR 2.0](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158200&goto=newpost "Welcome to CGR 2.0")
-
-i hope you like the new site. there are still some bugs that are in the process of being...
 
 [Complete News Archive](https://web.archive.org/forums/forumdisplay.php?forumid=296)
