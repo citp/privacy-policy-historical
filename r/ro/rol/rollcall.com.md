@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215094230id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616161407id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Roll Call Privacy Policy
 
-Roll Call Incorporated is committed to protecting the privacy of rollcall.com and rcjobs.com subscribers. This statement outlines our privacy and data protection policy.  
+Roll Call Group is committed to protecting the privacy of rollcall.com, rcjobs.com, gallerywatch.com, congressnow.com and briefingroom.rollcall.com subscribers. This statement outlines our privacy and data protection policy.  
 
 
 Collection and Use of User Details
 
 Personal details of Users of rollcall.com will be collected and processed upon registration to our website.
 
-All personal information is collected with the knowledge of rollcall.com customers via the website’s registration.
+All personal information is collected with the knowledge of Roll Call Group customers via the website’s registration.
 
 This information is collected for the following purposes:
 
 • To notify customers when the newsletter has been updated and special news items are posted  
 • To notify customers of special features, new products and items of relevance  
-• To notify users of promotional activities both within Roll Call and across The Economist Group of companies.
+• To notify users of promotional activities both within Roll Call Group and across The Economist Group of companies.
 
 User information is retained for in-house research to:
 
@@ -26,7 +26,7 @@ User information is retained for in-house research to:
 
 All results of such research and analysis will be anonymised or aggregated information and will not reveal any personal facts about individual customers.
 
-Roll Call is an Economist Group business. The Economist operates offices worldwide. Steps have been taken to ensure that consistently high standards of data protection are adhered to in all regional offices for all the forms of processing mentioned above.
+Roll Call Group is an Economist Group business. The Economist operates offices worldwide. Steps have been taken to ensure that consistently high standards of data protection are adhered to in all regional offices for all the forms of processing mentioned above.
 
 User Choices
 
@@ -36,7 +36,7 @@ When filling out the registration form on rollcall.com, users should indicate wh
 
 You may also indicate whether you wish to receive such information from other Economist Group businesses.
 
-Roll Call will occasionally allow other similar but reputable organizations to contact you. If you do not wish to hear from these companies, please check the appropriate box on the order/registration form to opt-out of such activity.
+Roll Call Group will occasionally allow other similar but reputable organizations to contact you. If you do not wish to hear from these companies, please check the appropriate box on the order/registration form to opt-out of such activity.
 
 Cookies
 
@@ -46,9 +46,9 @@ Cookies can be deleted from a PC’s hard drive at any time by the user. Further
 
 Security Policy or Security Guarantee
 
-Roll Call will maintain appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost or altered with the Roll Call server environment.
+Roll Call Group will maintain appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost or altered with the Roll Call Group server environment.
 
-Occasions will arise when customer information is passed outside Roll Call to other data processors i.e. fulfillment bureau, database consultants, etc. but they will only act upon instruction from Roll Call in order to perform the services required.
+Occasions will arise when customer information is passed outside Roll Call Group to other data processors i.e. fulfillment bureau, database consultants, etc. but they will only act upon instruction from Roll Call Group in order to perform the services required.
 
 Transfer of Personal Data Overseas
 
@@ -56,6 +56,6 @@ The Internet is a global environment. Using the Internet to collect and process 
 
 Updating Customer Details
 
-It is important to Roll Call that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. You may make changes to your personal data at any time by using your name and password to log in to rollcall.com and changing your information.
+It is important to Roll Call Group that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. You may make changes to your personal data at any time by using your name and password to log in to rollcall.com and changing your information.
 
 * * *
