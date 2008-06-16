@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bleach7.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219211019id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleach7.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034932id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Bleach 7 - The First Source for Bleach Information, Manga, Media, News, and Fan Interaction!
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=666612&afsid=1)
+
+**Bleach 7 > Privacy Policy** **Privacy Policy**
 
 The following webpage outlines Bleach7.com's collection and use of personal information from it's users. Bleach7.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to Bleach7.com with anyone. This includes your e-mail address, name, and location. Upon logging on to Bleach7.com such things as your IP address and hostname are logged for statistical and security reasons.
 
@@ -24,4 +28,6 @@ Third Party websites may collect information from users of Bleach7.com, this inf
 **Website Policy Changes**  
 Bleach7.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at [webmaster@bleach7.com](mailto:webmaster@bleach7.com).
 
-By continuing to access Bleach7.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleach7.com, and are also in agreeance with our [[Legal Disclaimer](https://web.archive.org/web/20071219211019id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=legaldisclaimer)] and [[Terms of Use](https://web.archive.org/web/20071219211019id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=termsofuse)].
+By continuing to access Bleach7.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleach7.com, and are also in agreeance with our [[Legal Disclaimer](https://web.archive.org/web/20080616034932id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=legaldisclaimer)] and [[Terms of Use](https://web.archive.org/web/20080616034932id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=termsofuse)].
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=666634&afsid=1)
