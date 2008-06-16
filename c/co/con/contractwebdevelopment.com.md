@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217100542id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616100956id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CWD
 
