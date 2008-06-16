@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009043249id_/http%3A//www.thehuddle.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616103349id_/http%3A//www.thehuddle.com/site/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football in The Huddle - Privacy Policy
 
@@ -9,8 +9,9 @@ By using InterSport web sites (hereafter "Our Sites") you agree to this privacy 
 If you have questions or concerns regarding this statement, you may contact InterSport via postal mail at: 
 
 InterSport, Inc.  
-P.O. Box 4470  
-Lake Tahoe, NV 89449
+c/o Fantasy Sports Ventures  
+1500 Broadway - Suite 810  
+New York, NY 10036
 
 **Traffic Data**  
 Each time a visitor comes to Our Sites, the servers -- like most on the Web -- collect some basic technical information. Examples of this basic information include the visitor's domain name (e.g., whether the user is logged on from aol.com or earthlink.net), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to Our Sites) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
