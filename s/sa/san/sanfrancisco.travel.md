@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111132851id_/http%3A//www.sanfrancisco.travel/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616190106id_/http%3A//www.onlyinsanfrancisco.com/information/privacy.asp) for the most accurate reproduction.*
 
-# SAN FRANCISCO FAQs - Convention & Visitors Bureau Contact Information, Privacy Policy, About Us
+# SAN FRANCISCO INFORMATION - email newsletter signup, research, about the SFCVB
 
 **Information Collection & Treatment**  
 Information collected on www.sfvisitor.org is used to determine important statistical data for the SFCVB, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website. 
