@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231195656id_/http%3A//www.roblox.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616090339id_/http%3A//www.roblox.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # ROBLOX Login
 
@@ -6,9 +6,11 @@
 
 **I. The Information We Collect**
 
-At ROBLOX, the only personally identifiable information we collect is a valid e-mail address. We do not share this information with anybody else.
+At ROBLOX, the only personally identifiable information we collect is a valid e-mail address. We do not share this information with anybody else. 
 
 Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such as the type of computer operating system (e.g., Windows 95 or Mac OS), the web browser (e.g., Netscape, Internet Explorer) being used, and information regarding the Internet service provider. 
+
+Finally, we collect performance data from within Roblox Studio or the Roblox Player. We use this data retrospectively to improve the user experience of our games. This information includes in-game networking activity, CPU load, and resource usage, among other relevant data.
 
 **II. How We Use the Information**
 
