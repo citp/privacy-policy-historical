@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011181951id_/http%3A//www.gsk.com/global/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616021152id_/http%3A//www.gsk.com/global/privacy_statement.htm) for the most accurate reproduction.*
 
 # GlaxoSmithKline Internet Privacy Statement
 
