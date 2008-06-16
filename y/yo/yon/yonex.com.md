@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yonex.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223084850id_/http%3A//www.yonex.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yonex.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616123910id_/http%3A//www.yonex.com/company/privacypolicy.html) for the most accurate reproduction.*
 
 # YONEX
 
@@ -26,4 +26,4 @@ There is a technology called "cookies" which can be used to provide you with tai
 
 #### Questions? Please Contact Us
 
-If you have any questions or comments about our privacy practices, you can contact us at "[Contact Us](https://web.archive.org/web/20071223084850id_/http%3A//www.yonex.com/company/contact.html)".
+If you have any questions or comments about our privacy practices, you can contact us at "[Contact Us](https://web.archive.org/web/20080616123910id_/http%3A//www.yonex.com/company/contact.html)".
