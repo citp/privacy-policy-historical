@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiasociety.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226192620id_/http%3A//www.asiasociety.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiasociety.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616203527id_/http%3A//www.asiasociety.org/about/privacy.html) for the most accurate reproduction.*
 
-# Asia Society Privacy Statement
+# Asia Society | Privacy Statement
 
 Asia Society Web Site Privacy Statement
 
@@ -8,7 +8,7 @@ The Asia Society last amended this Privacy Statement (“Statement”) on Decemb
 
 This Statement describes how the Asia Society collects and uses information from our web sites’ visitors, including Asia Society members.  This Statement applies to the web sites we control and which are accessible via the following domains: _asiasociety.org_ , _asiasociety.net_ , _asiasociety.com_ , _asiasource.org_ , _askasia.org_ , _asiasocietymuseum.org_ , _asiafood.org_ , _asiainnyc.org_ , _asiasocietysocal.org_ and _internationaled.org_ (collectively, “Our Site”).  This Statement does not apply to any other web pages or web sites.  For example, it does not apply to _asiastore.org_ (which is addressed in more detail below) _,_ to _asiasociety.org.au_ , to sites hosted by organizations that may collaborate with us on special projects or to any other third-party sites.  You should review those sites’ privacy statements to find out how they protect your privacy.
 
-By using Our Site, you consent to our collection and use of information about you in accordance with this Statement. **  **We may change this Statement by occasionally posting an updated version of it on this page.  If we decide that it is appropriate, we may also post a notice of the update on Our Site’s home page at http://www.asiasociety.org/.  By continuing to use Our Site after we have posted any changes, you agree to the terms of the updated Statement.  This Statement is part of the Terms that govern your use of Our Site, so please read the entire [Terms](https://web.archive.org/web/20071226192620id_/http%3A//www.asiasociety.org/about/terms.html). 
+By using Our Site, you consent to our collection and use of information about you in accordance with this Statement. **  **We may change this Statement by occasionally posting an updated version of it on this page.  If we decide that it is appropriate, we may also post a notice of the update on Our Site’s home page at http://www.asiasociety.org/.  By continuing to use Our Site after we have posted any changes, you agree to the terms of the updated Statement.  This Statement is part of the Terms that govern your use of Our Site, so please read the entire [Terms](https://web.archive.org/web/20080616203527id_/http%3A//www.asiasociety.org/about/terms.html). 
 
 We collect two kinds of information from Our Site’s visitors:  anonymous information and personally identifiable information.
 
