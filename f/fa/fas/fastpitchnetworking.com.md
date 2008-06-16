@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastpitchnetworking.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216125007id_/http%3A//www.fastpitchnetworking.com/legal_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpitchnetworking.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616055213id_/http%3A//www.fastpitchnetworking.com/legal_privacy.cfm) for the most accurate reproduction.*
 
 # Fast Pitch
 
