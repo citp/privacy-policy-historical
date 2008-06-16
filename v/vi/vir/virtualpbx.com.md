@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027040913id_/http%3A//www.virtualpbx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616024023id_/http%3A//www.virtualpbx.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy For a Wireless Business Phone System, Wireless PBX, and 1 800 Phone Numbers
 
