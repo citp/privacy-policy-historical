@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226144409id_/http%3A//naruto-arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616041548id_/http%3A//www.naruto-arena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto Arena
 
@@ -14,7 +14,7 @@ A cookie is a very small text file placed on your system upon logging on to Naru
 
 Naruto Arena does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a [member](https://web.archive.org/profile/ "member") of Naruto Arena, and will not collect information from them. If Naruto Arena learns that a child under the age of 13 has become a [member](https://web.archive.org/profile/ "member"), we will close that child's [account](https://web.archive.org/profile/ "account") and delete any information collected about the child. 
 
-Not withstanding the foregoing, Naruto Arena may choose to retain some personal information such as the child's [e-mail](https://web.archive.org/contact/ "e-mail") address as a means to prevent the child from re-registering at our website. The Children's [Online](https://web.archive.org/users-online/ "Online") Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
+Not withstanding the foregoing, Naruto Arena may choose to retain some personal information such as the child's [e-mail](https://web.archive.org/contact/ "e-mail") address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
 
 ##### Disclosing Information
 
