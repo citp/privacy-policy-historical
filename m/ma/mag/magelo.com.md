@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026060547id_/http%3A//eq.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616022136id_/http%3A//www.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
 
-# Magelo - EQ - Privacy policy
+# Magelo - Privacy policy
 
-The intent of this privacy policy is to detail the information Magelo SA may gather about individuals who visit our websites and create accounts with us. Further it will discuss how that information is used and Magelo's disclosure practices. 
+The intent of this privacy policy is to detail the information Magelo Entertainment Limited ("Magelo") may gather about individuals who visit our websites and create accounts with us. Further it will discuss how that information is used and Magelo's disclosure practices. 
 
  Site usage information
 
@@ -33,6 +33,6 @@ Magelo does allow for accounts to be created by children provided it is supervis
 
 We collect credit card information for the purpose of conducting financial transactions for account holders. These transactions are conducted over a Secure Sockets Layer (SSL) software which encrypts the information both sent and received. We do not store any credit card information on our servers. 
 
-Magelo does not sell, rent, lease or allow any third parties to view or use the information collected.   
-Magelo takes reasonable measures to keep the information disclosed secure.   
-However, Magelo assumes no responsibility for any breach of security to this data. 
+ Credit card statement
+
+Magelo will appear on your credit card statement. 
