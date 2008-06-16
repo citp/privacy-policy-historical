@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhaha.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225224211id_/http%3A//www.dailyhaha.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhaha.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034604id_/http%3A//www.dailyhaha.com/privacy.asp) for the most accurate reproduction.*
 
 # DailyHaHa Privacy Policy
 
