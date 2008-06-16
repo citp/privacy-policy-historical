@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218094159id_/http%3A//www.primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616054453id_/http%3A//www.primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PrimaryAds - Privacy Policy
 
@@ -8,11 +8,11 @@
 
 We respect you and we hold your personal information private.
 
-Think Partnership Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PrimaryAds.com
+Kowabunga! has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: PrimaryAds.com
 
 We never disclose your personal information to any third party.
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
 Our site may use cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
@@ -32,19 +32,19 @@ This site has security measures in place to protect the loss, misuse and alterat
   
 We do not provide your personal information, including email address, to any third party.
 
-You will only receive communications from Think Partnership Inc.
+You will only receive communications from Kowabunga!
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send email to rachel.honoway@thinkpartnership.com  
+You can send email to Tanya.Boggs@kowabunga.com  
   
 **Contacting the Web Site**  
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-Rachel Honoway  
-Think Partnership Inc.  
-28050 US 19 N  
-Suite 509  
-Clearwater, FL 33761  
-Rachel.Honoway@thinkpartnership.com
+Tanya Boggs  
+Kowabunga!  
+15550 Lightwave Drive  
+Suite 300  
+Clearwater, FL 33760  
+Tanya.Boggs@kowabunga.com
