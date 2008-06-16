@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230075723id_/http%3A//www.italki.com/Static/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616112959id_/http%3A//www.italki.com/Static/Privacy.htm) for the most accurate reproduction.*
 
 # italki - Language Exchange and Learning Community
 
 This policy covers how italki.com, ("italki.com," "we," "us," or "our") treats personal information that it collects and receives on www.italki.com. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
-**Information We Collect**
+#### Information We Collect
 
   * italki collects personal information when you register with us, use italki products or services or post content on a italki site.
   * italki may also collect personal information when you enter into promotions or sweepstakes.
@@ -25,7 +25,7 @@ italki may occasionally obtain IP addresses from users depending upon how you ac
 
 
 
-**Cookies**
+#### Cookies
 
   * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.
   * If you reject all cookies, you may not be able to use italki services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.
@@ -40,14 +40,14 @@ italki may occasionally obtain IP addresses from users depending upon how you ac
 
 
 
-**Information Relating to Children**
+#### Information Relating to Children
 
   * Protecting the privacy of young children is especially important. For that reason, italki does not knowingly collect personally identifiable information through the italki web site from persons under 13 years of age, and no part of italki service is directed to persons under 13.
   * If you are under 13 years of age, then please do not use or access the italki service or web site at any time or in any manner.
 
 
 
-**Information Use, Sharing and Disclosure**
+#### Information Use, Sharing and Disclosure
 
   * italki does not share personal information we learn about you from your use of the italki web sites, products and services with others except as described in this policy.
   * When you provide personal information through using italki you are however sharing your personal information with italki.com and its affiliated entities. The use of your personal information by these organizations is subject to this policy.
@@ -68,15 +68,18 @@ italki may occasionally obtain IP addresses from users depending upon how you ac
 
 
 
-**Third Party Advertising**  
+#### Third Party Advertising
+
 Advertisements appearing on the italki.com Sites, Product or Services may be delivered to users by italki.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by italki.com and does not cover the use of cookies by any advertisers. 
 
 italki.com does not share any personally identifiable information with advertisers. italki.com may share general demographic information (such as aggregated statistics about members' interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. italki.com does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
-**Changes to this Privacy Policy**  
+#### Changes to this Privacy Policy
+
 italki.com may revise, modify or update this policy. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular italki.com account or by placing a prominent notice on our site. You are encouraged to check this policy frequently for any changes as your continued use of the italki service indicates your consent to such changes.
 
-**Confidentiality and Security**  
+#### Confidentiality and Security
+
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your information, we take reasonable measures to secure it on our systems.
 
 If italki.com learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using italki or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@italki.com](mailto:privacy@italki.com).Changing your Preferences and Personal Information 
@@ -85,10 +88,12 @@ You can edit your account information with italki at any time. Most personal inf
 
 You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
 
-**International Users**  
+#### International Users
+
 The italki web site is hosted in the US and is intended for and directed to users around the world. If you are accessing this web site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from US laws, please be advised that through your continued use of this web site, which is governed by US law, this privacy policy, and our Terms of Service, you are transferring your personal information to US and you consent to that transfer. 
 
-**Contacting italki.com**  
+#### Contacting italki.com
+
 If you have a privacy concern regarding italki, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@italki.com](mailto:privacy@italki.com).
 
 Effective Date: February 1, 2007  
