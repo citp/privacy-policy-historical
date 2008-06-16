@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227183711id_/http%3A//www.northpole.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616145339id_/http%3A//www.northpole.com/privacy.html) for the most accurate reproduction.*
 
 # Visit with Santa Claus at northpole.com
 
