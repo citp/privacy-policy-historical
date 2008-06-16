@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatimes.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020001746id_/http%3A//in.indiatimes.com/policyterms/1554651.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatimes.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616070516id_/http%3A//in.indiatimes.com/policyterms/1554651.cms) for the most accurate reproduction.*
 
 # Indiatimes: Indian entertainment, news, multi-media, movies, games, cricket, shopping
 
@@ -23,4 +23,4 @@ However the internet is an ever evolving medium. We may change our privacy polic
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html) 
 
 Any questions or clarifications with respect to this Policy can be sent to TIL at :   
-privacypolicy@indiatimes.com or by snail mail addressed to TIL (Privacy Policy) "I World" Tower, DLF City Phase 5 opp DLF Golf Course ,Gurgaon (Hayana) \- or by calling our number at (0124) 5187000. 
+privacypolicy@indiatimes.com or by snail mail addressed to TIL (Privacy Policy) "I World" Tower, DLF City Phase 5 opp DLF Golf Course ,Gurgaon (Hayana) \- or by calling our number at (0124) 4187000. 
