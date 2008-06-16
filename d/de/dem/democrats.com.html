@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the democrats.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211104738id_/http%3A//democrats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the democrats.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616203446id_/http%3A//democrats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="js"><head>
   <title>Privacy Policy | Democrats.com</title>
@@ -21,20 +21,24 @@
 <link rel="next" href="/rules">
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<style type="text/css" media="all">@import "/themes/democrats/layout.css";</style><style type="text/css" media="all">@import "/modules/book/book.css";</style>
-<style type="text/css" media="all">@import "/modules/node/node.css";</style>
-<style type="text/css" media="all">@import "/modules/poll/poll.css";</style>
-<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
-<style type="text/css" media="all">@import "/modules/system/system.css";</style>
-<style type="text/css" media="all">@import "/modules/user/user.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/event/event.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/logintoboggan/logintoboggan.css";</style>
-<style type="text/css" media="all">@import "/sites/all/modules/fontsize/fontsize.css";</style>
-<style type="text/css" media="all">@import "/themes/democrats/style.css";</style>
+<style type="text/css" media="all">@import "/themes/democrats/layout.css";</style><style type="text/css" media="all">@import "/files/css/5f32623267b834edb1390b5ad4d149a5.css";</style>
 <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/devel/devel.js"></script>
 <script type="text/javascript" src="/sites/all/modules/fontsize/styleswitcher.js"></script>
+<script type="text/javascript">
+  $(function() {
+      if (Drupal.jsEnabled) {
+        $("#toboggan-login").hide();
+      }
+    }
+  );
+  function toggleboggan() {
+    if (Drupal.jsEnabled) {
+      $("#toboggan-login").toggle();
+    }
+  }
+  </script>
 
 <link rel="stylesheet" href="http://cache.blogads.com/403915091/feed.css" type="text/css">
 
@@ -60,7 +64,20 @@
 
   <h2>User login</h2>
 
-  <div class="content"><a href="/user/login?destination=node%2F3264">Login/Register</a></div>
+  <div class="content"><form action="/privacy?destination=node%2F3264" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div id="toboggan-container" class="toboggan-container"><div class="toboggan-login-link"><a href="/user/login" onclick="toggleboggan();this.blur();return false;">Login/Register</a></div><div id="toboggan-login" class="user-login-block"><div class="form-item">
+ <label for="edit-name">Username or e-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" tabindex="1" class="form-text required">
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" tabindex="2" class="form-text required">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" tabindex="3" class="form-submit">
+<div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+</div></div>
+</div></form>
+</div>
 </div>
 <div id="block-user-1" class="block block-user">
 
@@ -85,10 +102,10 @@
 </ul>
 </div>
 </div>
-<div id="block-block-14" class="block block-block">
+<div id="block-block-40" class="block block-block">
 
 
-  <div class="content"><script type="text/javascript" language="JavaScript" src="http://cache.blogads.com/940901751/feed.js"></script></div>
+  <div class="content"><a href="http://www.amazon.com/gp/product/0312366442/105-0195697-7143672?ie=UTF8&amp;tag=democratscom&amp;linkCode=xm2&amp;camp=1789&amp;creativeASIN=0312366442" target="_blank"><img src="http://www.democrats.com/files/images//wexler-fire-breathing-liberal-diag.jpg" align="left"></a>Robert Wexler (D-FL) is battling Speaker Pelosi to get impeachment hearings for Dick Cheney.<p><a href="http://www.amazon.com/gp/product/0312366442/105-0195697-7143672?ie=UTF8&amp;tag=democratscom&amp;linkCode=xm2&amp;camp=1789&amp;creativeASIN=0312366442" target="_blank"><u>Let's support Wexler's outstanding work by making "Fire-Breathing Liberal" #1 on Amazon!</u></a> (Buy New: $17.13)</p></div>
 </div>
 <div id="block-block-13" class="block block-block">
 
@@ -99,16 +116,9 @@
 </div>
 <div id="block-block-10" class="block block-block">
 
-  <h2>Email Advertising</h2>
 
-  <div class="content"><p><a href="http://democrats.com/advertise">E-mail your message to 300,000 Democratic activists</a></p>
+  <div class="content"><p><a href="http://democrats.com/advertise">E-mail your message to 500,000 Democratic activists</a></p>
 </div>
-</div>
-<div id="block-user-3" class="block block-user">
-
-  <h2>Who's online</h2>
-
-  <div class="content">There are currently <em>2 users</em> and <em>482 guests</em> online.<div class="item-list"><h3>Online users</h3><ul><li>Gerry</li><li>grinch</li></ul></div></div>
 </div>
   </td>
   <td valign="top">
@@ -146,7 +156,7 @@
 <p>p.s. Notice to postmasters: <strong>Democrats.com does not spam so please do not block our email</strong>. We use SPF to verify the authenticity of our email. If you have any questions about our policies, <a href="http://democrats.com/contact" target="_blank">contact us</a>&nbsp;and we will reply promptly.</p>
 <div class="book-navigation"><div class="page-links clear-block"><a href="/platform" class="page-previous" title="Go to previous page">‹ Platform</a><a href="/faq" class="page-up" title="Go to parent page">up</a><a href="/rules" class="page-next" title="Go to next page">Rules ›</a></div></div>  </div>
 
-<ul class="links inline"><li class="first book_printer"><a href="/book/export/html/3264" title="Show a printer-friendly version of this book page and its sub-pages." class="book_printer">Printer-friendly version</a></li>
+<ul class="links inline"><li class="first book_printer"><a href="/print/book/export/html/3264" title="Show a printer-friendly version of this book page and its sub-pages." class="print-page book_printer" rel="nofollow">Printer-friendly version</a></li>
 <li class="last send"><a href="/send/send/3264" class="send-link send-send send">Send to friend</a></li>
 </ul>
 </div>  <!-- end main content -->
@@ -185,61 +195,72 @@ Proud members of the <strong><a style="color: #ffffff;" href="http://democrats.o
   </strong></div><!-- mainContent --><strong>
 
   </strong></td>
-  <td class="sidebar" id="sidebar-right" valign="top">
-    <div id="block-block-20" class="block block-block">
+  <td class="sidebar" id="sidebar-right" valign="top"><div id="block-dems_assets-0" class="block block-dems_assets">
 
 
   <div class="content">
-  <form method="GET" action="http://www.google.com/search">
-    <div>
-      <div class="container-inline">
-        <div class="form-item">
-          <input class="form-text" type="text" name="q" style="float: left; height: 17px;" size="15" maxlength="255" value="">
+    <form method="GET" action="http://www.google.com/search">
+      <div>
+        <div class="container-inline">
+          <div class="form-item">
+            <input class="form-text" type="text" name="q" style="float: left; height: 17px;" size="15" maxlength="255" value="">
+          </div>
+          <input class="form-submit" type="submit" name="btnG" value="Search">
+          <input type="hidden" name="ie" value="UTF-8">
+          <input type="hidden" name="oe" value="UTF-8">
+          <input type="hidden" name="sitesearch" value="www.democrats.com">
+          <input type="hidden" name="domains" value="www.democrats.com">
         </div>
-        <input class="form-submit" type="submit" name="btnG" value="Search">
-        <input type="hidden" name="ie" value="UTF-8">
-        <input type="hidden" name="oe" value="UTF-8">
-        <input type="hidden" name="sitesearch" value="www.democrats.com">
-        <input type="hidden" name="domains" value="www.democrats.com">
       </div>
-    </div>
-  </form></div>
+    </form></div>
 </div>
 <div id="block-block-17" class="block block-block">
 
+  <h2>What's Hot</h2>
 
-  <div class="content"><p><a href="http://www.democrats.com/agenda" target="_blank">Democrats.com Weekly Agenda - Tell Congress What YOU Want!
-</a></p><p><a href="http://www.democrats.com/honktoimpeach" target="_blank">Honk to Impeach</a> - join the fun!
-</p><p><a href="http://www.democrats.com/join-our-impeachment-group-on-facebook" target="_blank">Join our Impeachment Group on Facebook</a>
-</p><p><a href="http://democrats.com/primary-2008" target="_blank">2008 Primary Challengers Wanted</a> - for the 58 Democrats who want to stay in Iraq
+  <div class="content"><p><b><a href="http://www.democrats.com/peoplesemailnetwork/124" target="_blank">Out of Iraq - Not Another Penny!</a></b>!
+</p><p><a href="http://www.democrats.com/honktoimpeach" target="_blank">Honk to Impeach</a> - it's fun
+</p><p><a href="http://www.facebook.com/pages/Democratscom/41309865723" target="_blank">Join our Facebook Group</a>
 </p><p><a href="/local" target="_blank">Local</a>: connect with Democrats.com members in your State, County, and Congressional District
 </p><p><a href="http://mydem.com" target="_blank">MyDem.com</a>: "google" your voter registration
 </p><p><a href="http://democrats.com/vote" target="_blank">Register to vote</a></p>
 </div>
 </div>
-<div id="block-block-29" class="block block-block">
+<div id="block-peoplesemailnetwork-88" class="block block-peoplesemailnetwork">
 
+  <h2>Ten Reasons to Impeach Bush &amp; Cheney</h2>
 
-  <div class="content"><div id="pen_campaign_goal"><div style="height: 115px; border: solid 1px #fff; padding: 5px;"><span style="background: #C30A29 url(/themes/democrats/images/therm_bg.gif) no-repeat left -58px; width: 20px; height: 100px; float: right;"><img src="/themes/democrats/images/thermometer.gif" alt="50.2%"></span><b>Out Of Iraq</b><p>Goal: 100000</p><p>Now: 50192</p><p><a href="/peace-pledge">Sign Here</a></p></div></div></div>
+  <div class="content"><div class="pen_campaign_goal"><div style="height: 135px; border: solid 1px #fff; padding: 5px;"><span style="background: #C30A29 url(/themes/democrats/images/therm_bg.gif) no-repeat left -67px; width: 20px; height: 100px; float: right;"><img src="/themes/democrats/images/thermometer.gif" alt="61.6%" title="61.6%"></span><p><strong>Ten Reasons to Impeach George Bush and Dick Cheney</strong></p><p>Goal: 250,000</p><p>Now: 153,948</p><p><a href="/peoplesemailnetwork/88?ad=d0">Sign Here</a></p></div></div></div>
 </div>
-<div id="block-block-18" class="block block-block">
+<div id="block-peoplesemailnetwork-124" class="block block-peoplesemailnetwork">
 
-  <h2>Impeach Bush Petition</h2>
+  <h2>Out of Iraq Petition</h2>
 
-  <div class="content"><div class="pen_campaign_goal"><div style="height: 135px; border: solid 1px #fff; padding: 5px;"><span style="background: #C30A29 url(/themes/democrats/images/therm_bg.gif) no-repeat left -27px; width: 20px; height: 100px; float: right;"><img src="/themes/democrats/images/thermometer.gif" alt="13.2%"></span><b>Ten Reasons to Impeach Bush and Cheney</b><p>Goal: 1000000</p><p>Now: 132152</p><p><a href="/peoplesemailnetwork/88?ad=d0">Sign Here</a></p><p><a href="http://www.afterdowningstreet.org/downloads/petition-4.pdf">Print Version</a></p></div></div></div>
+  <div class="content"><div class="pen_campaign_goal"><div style="height: 135px; border: solid 1px #fff; padding: 5px;"><span style="background: #C30A29 url(/themes/democrats/images/therm_bg.gif) no-repeat left -83px; width: 20px; height: 100px; float: right;"><img src="/themes/democrats/images/thermometer.gif" alt="80.0%" title="80.0%"></span><p><strong>No More Funds for Iraq</strong></p><p>Goal: 100,000</p><p>Now: 79,998</p><p><a href="/iraq-petition?ad=d0">Sign Here</a></p></div></div></div>
 </div>
-<div id="block-blockcache-14" class="block block-blockcache">
+<div id="block-blockcache-90" class="block block-blockcache">
 
   <h2>Forums</h2>
 
-  <div class="content"><div class="content item-list"><ul><li><a href="/node/15066">Obama's true colors</a></li><li><a href="/node/15084">The No Cosigner Car Loan - A solution to your problems</a></li><li><a href="/node/14726">I support them all (Democrats)</a></li><li><a href="/node/15056">Gimme a Reason, DEMs</a></li><li><a href="/node/15061">How Many Reasons To Impeach ... Let Us Count The Ways!</a></li><li><a href="/node/14548">Help Congress Grow a Spine</a></li><li><a href="/node/15071">Here Come The Thought Police</a></li><li><a href="/node/15070">Dump the Democratic "Leadership" 2008</a></li><li><a href="/node/15065">Rebuttals to Reasons NOT to Impeach</a></li><li><a href="/node/14998">A Plea to Early State Democrats From an Edwards Supporter</a></li></ul></div></div>
+  <div class="content"><div class="view view-forums"><div class="view-content view-content-forums"><div class="item-list"><ul><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16883">We Have Been Fooled AGAIN!</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16501">National health-care fix</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16879">Impeachment of Bush &amp; Cheney/Rep. Dennis Kucinich</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16780">Oil Prices</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16844">House Approves Amtrak Funding</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16806">Vote in the AOL.com Impeach Bush Poll today, Do it Right NOW!</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16776">McCain Is Salivating</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16797">Grumbling Clinton supporters make Democrats nervous</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/node/16859">defending the constitution</a></div></div>
+</li><li><div class="view-item view-item-forums"><div class="view-field view-data-node-title"><a href="/tim-russert-dies-at-58">Tim Russert Dies At 58</a></div></div>
+</li></ul></div></div></div>
+</div>
 </div>
 <div id="block-poll-0" class="block block-poll">
 
   <h2>Poll</h2>
 
-  <div class="content"><div class="poll"><div class="title">Should Al Gore Run for President?</div><div class="text">Yes and I will support him</div><div class="bar"><div style="width: 69%;" class="foreground"></div></div><div class="percent">69%</div><div class="text">Yes but I will not support him</div><div class="bar"><div style="width: 2%;" class="foreground"></div></div><div class="percent">2%</div><div class="text">No but he should offer to be Vice President and use all of Cheney's powers for Good instead of Evil</div><div class="bar"><div style="width: 6%;" class="foreground"></div></div><div class="percent">6%</div><div class="text">No he should stay a private citizen advocate</div><div class="bar"><div style="width: 24%;" class="foreground"></div></div><div class="percent">24%</div><div class="total">Total votes: <em>582</em></div></div><div class="links"><ul class="links"><li class="first comment_comments"><a href="/gore-poll#comments" title="Jump to the first comment of this posting." class="comment_comments">43 comments</a></li>
-<li class="send"><a href="/send/send/14606" class="send-link send-send send">Send to friend</a></li>
+  <div class="content"><div class="poll"><div class="title">Should Congress Give Bush Another $102 Billion for Iraq?</div><div class="text">Yes: give Bush $102 billion more for Iraq </div><div class="bar"><div style="width: 2%;" class="foreground"></div></div><div class="percent">2%</div><div class="text">No: do not give Bush $102 billion more for Iraq and tell him to use existing funds to bring our troops safely home.</div><div class="bar"><div style="width: 98%;" class="foreground"></div></div><div class="percent">98%</div><div class="text">Not sure</div><div class="bar"><div style="width: 1%;" class="foreground"></div></div><div class="percent">1%</div><div class="total">Total votes: <em>25623</em></div></div><div class="links"><ul class="links"><li class="first comment_comments"><a href="/iraq-102-billion#comments" title="Jump to the first comment of this posting." class="comment_comments">139 comments</a></li>
+<li class="send"><a href="/send/send/16199" class="send-link send-send send">Send to friend</a></li>
 <li class="last 0"><a href="/poll" title="View the list of polls on this site." class="0">Older polls</a></li>
 </ul></div></div>
 </div>
@@ -247,9 +268,10 @@ Proud members of the <strong><a style="color: #ffffff;" href="http://democrats.o
 
   <h2>Protest and Organize!</h2>
 
-  <div class="content"><p><a href="http://impeachforchange.org" target="_blank"><b>ImpeachForChange</b></a></p>
-<p><a href="http://afterdowningstreet.org/event" target="_blank">AfterDowningStreet.org</a></p>
+  <div class="content"><p><a href="http://afterdowningstreet.org/event" target="_blank">AfterDowningStreet.org</a></p>
+<p><a href="http://www.thealliancefordemocracy.org" target="_blank">Alliance for Democracy</a></p>
 <p><a href="http://legitgov.org/action.html">Citizens for Legitimate Government</a></p>
+<p><a href="http://codepinkalert.org" target="_blank">Code Pink</a></p>
 <p>    <a href="/taxonomy/term/196" target="_blank">Democrats.com Protest Topic Links</a> </p>
 <p><a href="http://peaceteam.net" target="_blank">Peace Team</a></p>
 <p><a href="http://pdamerica.org" target="_blank">Progressive Democrats of America</a></p>
@@ -270,8 +292,7 @@ Proud members of the <strong><a style="color: #ffffff;" href="http://democrats.o
 
   <div class="content"><a href="/node/feed" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"></a></div>
 </div>
-  </td>
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 </div><!-- pageFrame -->
 
