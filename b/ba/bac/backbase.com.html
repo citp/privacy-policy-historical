@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backbase.com privacy policy that was archived on 2007-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215080438id_/http%3A//www.backbase.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backbase.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616081459id_/http%3A//www.backbase.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.backbase.com/b" xmlns:s="http://www.backbase.com/s"><head>
 		<title>Backbase Enterprise AJAX Software</title>
@@ -36,20 +36,24 @@
 			if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 			// centerpiece tabs
-			function tab_select(me) {
-				if ( me.id == "ria" ) {
-					document.getElementById("centerpiece").style.backgroundImage="url(http://images.backbase.com/gfx/sprites-ria.jpg)"
-					document.getElementById("ria").style.display="none"
-					document.getElementById("enterprise").style.display="block"
-					document.getElementById("learnmore-ria").style.display="block"
-					document.getElementById("learnmore-enterprise").style.display="none"
-				} 
-				else if ( me.id == "enterprise" ) {
-					document.getElementById("centerpiece").style.backgroundImage="url(http://images.backbase.com/gfx/sprites-enterprise.jpg)"
-					document.getElementById("ria").style.display="block"
-					document.getElementById("enterprise").style.display="none"
-					document.getElementById("learnmore-ria").style.display="none"
-					document.getElementById("learnmore-enterprise").style.display="block"
+			function tab_select(self) {
+				if (self.id == "ria") {
+					document.getElementById("centerpiece").style.backgroundPosition = "0 0";
+					document.getElementById("ria-tab").style.display = "block";
+					document.getElementById("enterprise-tab").style.display = "none";
+					document.getElementById("consulting-tab").style.display = "none";
+				}
+				if (self.id == "enterprise") {
+					document.getElementById("centerpiece").style.backgroundPosition = "0 -400px";
+					document.getElementById("ria-tab").style.display = "none";
+					document.getElementById("enterprise-tab").style.display = "block";
+					document.getElementById("consulting-tab").style.display = "none";
+				}
+				if (self.id == "consulting") {
+					document.getElementById("centerpiece").style.backgroundPosition = "0 -800px";
+					document.getElementById("ria-tab").style.display = "none";
+					document.getElementById("enterprise-tab").style.display = "none";
+					document.getElementById("consulting-tab").style.display = "block";
 				}
 			}
 			
@@ -65,9 +69,9 @@
 
 				<div id="devmenu">
 					<a style="text-decoration:underline;" href="http://bdn.backbase.com" title="Developer Network">Developer Network</a>  |  
-					<a href="http://bdn.backbase.com/download_community" title="Download">Download</a>  |  
+					<a href="http://www.backbase.com/download" title="Download">Download</a>  |  
 					<a href="http://bdn.backbase.com/forum" title="Forums">Forums</a>  |  
-					<a href="http://bdn.backbase.com/topic/documentation" title="Docs">Docs</a>  |  
+					<a href="http://www.backbase.com/go/docs" title="Docs">Docs</a>  |  
 					<a href="http://bdn.backbase.com/topic/demo" title="Demos">Demos</a>  |  
 					<a href="http://bdn.backbase.com" title="Articles">Articles</a>
 				</div>
@@ -76,53 +80,46 @@
 			<div id="menu">
 				<a class="selected" title="Home" href="/">Home</a>
 				<a title="Products" href="/products/overview/">Products</a>
-				<a title="Solutions" href="/solutions/overview/">Solutions</a>
-				<a title="Services" href="/services/support/">Services</a>
-				<a title="Partners" href="/partners/strategic/">Partners</a>
+				<a title="Ajax Training" href="/ajax-training/overview/">Training</a>
+				<a title="Services" href="/services/ajax-consulting/">Services</a>
 				<a title="News &amp; Events" href="/news/news/">News &amp; Events</a>
 				<a title="Company" href="/company/about/">Company</a>
 			</div>
 </noscript>
-			<div id="menu" class="clearfix">
-				<ul>
+			<div>
+				<ul id="menu">
+					<li class="left"></li>
 					<li title="Home"><a href="/" title="">Home</a></li>
 					<li title="Products"><a title="Products" href="/products/overview/">Products</a>
 						<ul class="dropmenu">
-							<li><a href="/products/overview/" title="Overview">Product Overview</a></li>
-							<li><a href="/products/enterprise-ajax/overview/" title="Enterprise Ajax">Enterprise Ajax</a></li>
-							<li><a href="/products/enterprise-ajax-for-jsf/overview/" title="Enterprise Ajax for JSF">Enterprise Ajax for JSF</a></li> 
+							<div class="menu-background"></div>
+							<li><a class="first" href="/products/overview/" title="Overview">Product Overview</a></li>
+							<li><a href="/products/enterprise-ajax/overview/" title="Enterprise Ajax">Enterprise Ajax Framework</a></li>
 							<li><a href="/products/visual-ajax-builder/" title="Visual Ajax Builder">Visual Ajax Builder</a></li> 
 							<li><a href="/products/ajax-applications/customer-engagement/" title="Rich Applications">Rich Applications</a></li> 
 						</ul>
 					</li>
-					<li title="Solutions"><a title="Solutions" href="/solutions/overview/">Solutions</a>
+					<li title="Ajax Training"><a title="Ajax Training" href="/ajax-training/overview/">Training</a>
 						<ul class="dropmenu">
-							<li><a href="/solutions/overview/" title="Overview">Overview</a></li>
-							<li><a href="/solutions/selfservice/" title="Self-service">Self-service</a></li> 
-							<li><a href="/solutions/modernization/" title="Application Modernization">Application Modernization</a></li> 
-							<li><a href="/solutions/ajax360/" title="Ajax 360">Ajax 360</a></li>
-							<li><a href="/solutions/accessibility/" title="accessibility">Accessibility for Ajax Apps</a></li>
-							<li><a href="/solutions/ajax-security/" title="Ajax Security">Ajax Security</a></li>
+							<div class="menu-background"></div>
+							<li><a class="first" href="/ajax-training/overview/" title="Training Overview">Training Overview</a></li>
+							<li><a href="/ajax-training/online-ajax-training/" title="Online Ajax Training">Online Ajax Training</a></li>
+							<li><a href="/ajax-training/online-backbase-training/" title="Online Backbase Training">Online Backbase Training</a></li>
+							<li><a href="/ajax-training/classroom-training/" title="Classroom Training">Classroom Training</a></li>
 						</ul>
 					</li>
 					<li title="Services"><a title="Services" href="/services/ajax-consulting/">Services</a>
 						<ul class="dropmenu">
-							<li><a href="/services/ajax-consulting/" title="Ajax Consulting">Ajax Consulting</a></li> 
-							<li><a href="/services/training/overview/" title="Training">Training</a></li> 
+							<div class="menu-background"></div>
+							<li><a class="first" href="/services/ajax-interaction-design" title="Interaction Design">Interaction Design</a></li> 
+							<li><a href="/services/ajax-consulting/" title="Ajax Consulting">Ajax &amp; RIA Consulting</a></li> 
 							<li><a href="/services/support/" title="Technical Support">Technical Support</a></li> 
-						</ul>
-					</li>
-					<li title="Partners"><a title="Partners" href="/partners/strategic/">Partners</a>
-						<ul class="dropmenu">
-							<li><a href="/partners/strategic/" title="Strategic Partners">Strategic Partners</a></li> 
-							<li><a href="/partners/directory/" title="Partner Directory">Partner Directory</a></li> 
-							<li><a href="/partners/become_partner/" title="Become a Partner">Become a Partner</a></li> 
-							<li><a href="http://bdn.backbase.com" title="Developer Community">Developer Network</a></li> 
 						</ul>
 					</li>
 					<li title="News"><a title="News &amp; Events" href="/news/news/">News &amp; Events</a>
 						<ul class="dropmenu">
-							<li><a href="/news/news/" title="News">News</a></li> 
+							<div class="menu-background"></div>
+							<li><a class="first" href="/news/news/" title="News">News</a></li> 
 							<li><a href="http://forms.backbase.com/go/backbase/newsletter" title="News">Newsletters</a></li> 
 							<li><a href="/news/press/" title="Press Releases">Press Releases</a></li> 
 							<li><a href="/news/events/" title="Events">Events</a></li> 
@@ -132,14 +129,17 @@
 					</li>
 					<li title="Company"><a title="Company" href="/company/about/" class="selected">Company</a>
 						<ul class="dropmenu">
-							<li><a href="/company/about/" title="About Us">About Us</a></li> 
+							<div class="menu-background"></div>
+							<li><a class="first" href="/company/about/" title="About Us">About Us</a></li> 
 							<li><a href="/company/management/" title="Management">Management</a></li> 
 							<li><a href="/company/careers/" title="Careers">Careers</a></li> 
+							<li><a href="/company/partners/strategic/" title="Partners">Partners</a></li> 
 							<li><a href="/company/offices/" title="Office Locations">Office Locations</a></li> 
 							<li><a href="/company/contact/" title="Contact Us">Contact Us</a></li> 
 						</ul>
 					</li>
 					<li title="Contact"><a title="Contact" href="/company/contact/">Contact Us</a></li>
+					<li class="right"></li>
 				</ul>
 			</div>
 			<div id="main" class="clearfix">
@@ -281,14 +281,19 @@
 					<a title="privacy policy" href="/privacy/" class="and">privacy</a>
 					<a title="contact the webmaster" href="mailto:website@backbase.com" class="and">webmaster</a>
 				</div>
-				© 2003-2007 Backbase
+				© 2003-2008 Backbase
 			</div>
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
+		
+		<!-- Google Analytics -->
 		<script type="text/javascript">
-		_uacct = "UA-332005-1";
-		_udn="backbase.com";
-		urchinTracker();
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-332005-1");
+			pageTracker._setDomainName("backbase.com");
+			pageTracker._initData();
+			pageTracker._trackPageview();
 		</script>
 
 
