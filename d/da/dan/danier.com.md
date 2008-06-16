@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234532id_/http%3A//www.danier.com/eng/customerService/termsOfUsePrivacy.cfm%3F%26var%3Dd%26ckey%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616204357id_/http%3A//www.danier.com/eng/customerService/termsOfUsePrivacy.cfm%3F%26var%3Dd%26ckey%3DCA) for the most accurate reproduction.*
 
 # Danier - Leave ordinary behind - leather and suede manufacturing and design.
 
@@ -16,7 +16,7 @@ Thank you for choosing to shop at Danier Leather. Your privacy and security are 
 
 At Danier respecting the privacy and the wishes of our customers is an important part of our everyday commitment to fulfill our Mission: “to Satisfy Our Customers’ Need to Feel Good About Themselves.” Below is our Privacy Protection Policy which spells out our responsibilities and commitments to the secure protection and responsible use of our customers’ personal information entrusted to us. 
 
-[The Danier Privacy Protection Policy](https://web.archive.org/web/20071210234532id_/http%3A//www.danier.com/eng/customerService/protection.shtml)
+[The Danier Privacy Protection Policy](https://web.archive.org/web/20080616204357id_/http%3A//www.danier.com/eng/customerService/protection.shtml)
 
 ## Why Do We Need Your Personal Information?
 
