@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213120316id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616160443id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
@@ -7,10 +7,11 @@
   * Our Commitment to Privacy
   * The Information We Collect
   * How We Use the Information We Collect
+  * Information Disclosed in Public Areas
   * Subscriber Communications
   * Protection for Children
   * Our Commitment to Security
-  * How to Opt Out, Correct, Update,or Remove Personal Information
+  * How to Opt Out, Correct, Update, or Remove Personal Information
   * Third-Party Advertising
   * Links to Other Web Sites
   * Your Consent and Changes to Privacy Policy  
@@ -21,7 +22,7 @@
 **Our Commitment to Privacy.**  
 Encyclopædia Britannica, Inc. ("Britannica") is committed to respecting the privacy of visitors to its family of Web sites (collectively, the "Britannica sites" and each, a "Britannica site"). Except as otherwise provided, this Privacy Policy applies to all of the Britannica sites, which include, but are not limited to, _Britannica.com, Store.Britannica.com_ and _EB.com_. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Britannica site. 
 
-The Britannica sites are general audience Web sites, intended for Users of all ages. Personal information of Users may be collected, used, and disclosed as described in this Privacy Policy. This Privacy Policy contains a section with specific details regarding personal information collected from children. See " _Protection for Children_ " below. 
+The Britannica sites are general audience Web sites, intended for Users of all ages. Personal information of Users may be collected, used, and disclosed as described in this Privacy Policy.
 
 **The Information We Collect.**
 
@@ -31,7 +32,7 @@ To help us achieve our goal of providing the highest quality services, we collec
 
 In general, our Users are able to visit many of our Web pages without telling us who they are or revealing any information about themselves. As discussed under " _Usage Data_ " below, we may track the Internet domain or "Internet protocol" addresses from which Users visit us and analyze this data in the aggregate to determine usage for trends and statistics. Individual Users will remain anonymous, unless they voluntarily tell us who they are. 
 
-There may be times, however, such as when subscribing to our services or making purchases from the Britannica Store, when we ask Users to provide certain Personal Information about themselves. "Personal Information" may include, but is not limited to, the name, address, telephone number, e-mail address, and credit card information of a Britannica site User. Whether or not a User provides such information is completely his or her own choice. If a User chooses not to provide the Personal Information we request, he or she may be unable to access certain services and content on our Britannica sites or purchase products from us. 
+There may be times, however, such as when subscribing to our services, making purchases from the Britannica Store, or contributing content to a Britannica site, when we ask Users to provide certain Personal Information about themselves. "Personal Information" may include, but is not limited to, the name, address, telephone number, e-mail address, and credit or charge card information of a Britannica site User. Whether or not a User provides such information is completely his or her own choice. If a User chooses not to provide the Personal Information we request, he or she may be unable to access certain services and content on our Britannica sites, purchase products from us, or contribute content to a Britannica site.
 
   * **Demographic Information.**
 
@@ -47,7 +48,7 @@ To help you personalize your online experience, Britannica uses "Cookies." "Cook
 
   * **Beacons.**
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes pages visited, search terms, referrers, campaigns, anonymous user identifier, and anonymous account identifier. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of this Web site analysis tool by clicking [here](http://sitecatalyst.omniture.com/privacy/optout.html).
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and Cookies provided by our marketing company on this site. The type of information we collect includes pages visited, search terms, referrers, campaigns, anonymous user identifier, and anonymous account identifiers. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this Web site analysis tool by clicking [here](http://sitecatalyst.omniture.com/privacy/optout.html).
 
 
 
@@ -56,7 +57,7 @@ We currently contract with several online partners to help manage and optimize o
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our Web sites or while using our services.
 
-  * **Personal Information** Britannica uses Personal Information for: allowing Britannica site Users to obtain an account and to receive communications they request; making ongoing enhancements to the Britannica sites; marketing and promotional purposes; and evaluating Web site usage by analyzing and otherwise using Personal Information and related data in the aggregate, but not with respect to any individual Britannica site User. In addition, with respect to Britannica site Users located outside North America, we may share pertinent Personal Information with our local subsidiaries. Please click on the following links to review privacy policies of our local subsidiaries: 
+  * **Personal Information** Britannica uses Personal Information for: allowing Britannica site Users to obtain an account and to receive communications they request; verifying the identities of contributors of content to Britannica sites; making ongoing enhancements to the Britannica sites; marketing and promotional purposes; and evaluating Web site usage by analyzing and otherwise using Personal Information and related data in the aggregate, but not with respect to any individual Britannica site User. In addition, with respect to Britannica site Users located outside North America, we may share pertinent Personal Information with our local subsidiaries. 
 
 [UK Privacy Policy](http://www.britannica.co.uk/BritannicaCoUK_Info_Privacy.htm)
 
@@ -77,7 +78,7 @@ We do not share your Personal Information with others except as indicated below 
 >> 
 >>     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
 >>     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of Britannica, our Users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Web site terms and conditions or other agreements or policies.
->>     * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+>>     * In connection with a legal proceeding or substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation or asset sale. 
 >> 
 >> Britannica does not include in any of the Britannica sites any functionality for performing "reverse searches" to identify Web site Users from their e-mail addresses. However, as discussed below, Britannica reserves the right to analyze and utilize Personal Information in order to more effectively optimize the User experience and to present certain opportunities to Users for their benefit. 
 >> 
@@ -93,7 +94,10 @@ We do not share your Personal Information with others except as indicated below 
 > 
 >>     * **Usage Data.**
 >> 
->> We only use Usage Data in the aggregate -- that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our visitors use certain parts of a Britannica site, which, in turn, enables us to make the Britannica sites as appealing as possible. We may also provide statistical "ratings" about how our visitors collectively use our Web sites to advertisers and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the Web sites in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about any of our individual Users.
+>> We only use Usage Data in the aggregate. We look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our visitors use certain parts of a Britannica site, which, in turn, enables us to make the Britannica sites as appealing as possible. We may also provide statistical "ratings" about how our visitors collectively use our Web sites to business partners (advertisers and other companies with which we do business.) We do this so they, too, can understand how often people use their areas of the Web sites in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about any of our individual Users.
+>> 
+>> **Information Disclosed in Public Areas.**  
+>  Certain Britannica sites allow for the sharing of information. You should remember that any Personal Information you submit to such areas (for example, online chat rooms and forums) may be viewed by other visitors to that site. As a result, your Personal Information may be viewed, collected and used by third parties over whom Britannica has no control. Britannica is not responsible for either the information you submit in such public areas or the use that may be made of such information by any third party. 
 >> 
 >> **Subscriber Communications.**  
 >  As a benefit of membership, Britannica site subscribers may receive the following communications from us:
@@ -112,7 +116,7 @@ We do not share your Personal Information with others except as indicated below 
 >> 
 >> **Protection for Children.**
 >> 
->> Children should always ask parents for permission before providing any Personal Information to Britannica or purchasing any products or services from Britannica. Britannica expressly adheres to all laws and policies related to children's privacy. Britannica does not knowingly collect or solicit Personal Information from or about children under 13, except as permitted by law. If we discover we have received any Personal Information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Britannica has any Personal Information from or about anyone under 13, please contact us in the manner provided for below.
+>> Children should always ask parents for permission before providing any Personal Information to Britannica or purchasing any products or services from Britannica. Britannica expressly adheres to all laws and policies related to children's privacy. Britannica does not knowingly collect or solicit Personal Information from or about children under  16, except as permitted by law. If we discover we have received any Personal Information from a child under  16 in violation of this policy, we will delete that information immediately. If you believe Britannica has any Personal Information from or about anyone under  16, please contact us in the manner provided for below.
 >> 
 >> **Our Commitment to Security.**  
 >  Britannica only collects information from Britannica site Users to the extent deemed reasonably necessary to serve its legitimate business purposes, and it uses state-of-the-art security technology to ensure the security, integrity, and privacy of all collected information. When you place orders or access your account information, we automatically send you to a secure server, provided that your browser accepts SSL (Secure Sockets Layer) encryption. The most commonly used browsers are able to process SSL encryption. The secure server software encrypts all information you input before it is sent to us. In addition, Britannica uses security measures in connection with the collection and transmission of Britannica site User information during each Britannica site's registration process. Nonetheless, Britannica is not responsible for any breach of its security or for the actions of any third parties that may obtain any Britannica site User information, including Personal Information or demographic information. 
@@ -126,9 +130,11 @@ We do not share your Personal Information with others except as indicated below 
 >>> 
 >>> Your first and last name 
 >>> 
->>> The name of the Britannica site to which the request applies 
+>>> Your mailing address (street, city, state, zip code, and country)
 >>> 
->>> The service or section of the site to which you are registered/subscribed 
+>>> The name of the Britannica site to which the request applies
+>>> 
+>>> The service or section of the site to which you are registered or subscribe to
 >>> 
 >>> **Online:**Visit our main Help page at [http://corporate.britannica.com/help/ ](http://corporate.britannica.com/help/index.html)and submit a message to us using our online forms **or** simply respond to the pertinent e-mail with the word "unsubscribe" in the subject line. (Please note: "Unsubscribe" is an automatic process. We will not respond to these messages.) 
 >> 
@@ -154,7 +160,7 @@ We do not share your Personal Information with others except as indicated below 
 >  The Britannica sites each contain links to other Web sites. Britannica is not responsible for the privacy practices or content of these third-party Web sites. We urge all Britannica site Users to follow safe Internet practices: Do not supply Personal Information to these Web sites unless you have verified their security and privacy policies.
 >> 
 >> **Your Consent and Changes to Privacy Policy.**  
->  This Privacy Policy was last changed on October 4, 2007. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy prospectively at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages Britannica site Users to periodically review this Privacy Policy to be informed of how we are protecting their information.
+>  This Privacy Policy was last changed on March 28, 2008. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy prospectively at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages Britannica site Users to periodically review this Privacy Policy to be informed of how we are protecting their information.
 >> 
 >> 
 
