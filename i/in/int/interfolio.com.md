@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218121815id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616212018id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
 
 # InterFolio
 
@@ -8,7 +8,7 @@
 
 Interfolio is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.interfolio.com.](http://www.interfolio.com/). TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact **Interfolio Security and Privacy** by phone: 202-223-3358 or email: [help@interfolio.com](https://web.archive.org/web/20071218121815id_/http%3A//www.interfolio.com/help@interfolio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe on line at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact **Interfolio Security and Privacy** by phone: 202-223-3358 or email: [help@interfolio.com](https://web.archive.org/web/20080616212018id_/http://www.interfolio.com/privacy/help@interfolio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe on line at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Interfolio complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union   
 Interfolio's Privacy Pledge
