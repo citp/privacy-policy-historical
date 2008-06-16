@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientology.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229093133id_/http%3A//scncatalog.scientology.net/oa_html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientology.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616225536id_/http%3A//www.scientology.org/feature/legal/privacy.html) for the most accurate reproduction.*
 
 # Scientology Materials Catalog - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-      We are dedicated to respecting the privacy rights of all visitors to our web site. By using this web site, you signify your assent to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20071229093133id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm). If you do not agree with any term in this Privacy Policy or our Terms of Use, kindly exit this web site. 
+      We are dedicated to respecting the privacy rights of all visitors to our web site. By using this web site, you signify your assent to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20080616225536id_/http%3A//www.scientology.org/feature/legal/terms.html). If you do not agree with any term in this Privacy Policy or our Terms of Use, kindly exit this web site. 
 
        Any personal information collected on the site including your name, e-mail address, postal address, any demographic information or on-line purchasing information is protected and is not given out to any other organizations or individuals other than to Bridge Publications, Inc. or New Era Publications Inc, or the Church of Scientology Organization you have chosen for the fulfillment of a materials order or for promotional offers specifically from Bridge Publication, Inc or New Era Publications Inc or the aforementioned Church of Scientology Organization or as indicated in this Privacy Policy. 
 
@@ -14,9 +14,9 @@
 
 Data Security 
 
-      The personal information you provide – including any credit card information – is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. 
+      The personal information you provide ï¿½ including any credit card information ï¿½ is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. 
 
-       While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information. 
+       While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party ï¿½hackersï¿½ from illegally obtaining this information. 
 
        As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party other than to facilitate fulfilling your order from the catalog of materials and services. 
 
@@ -24,11 +24,11 @@ Data Security
 
 Special Cases 
 
-       It is our policy not to use or share the personal information about you in ways unrelated to the ones described herein without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about you or information regarding your use of the Web site, for any reason, if, in our sole discretion, we believe that it is reasonable to do so; including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Terms of Use](https://web.archive.org/web/20071229093133id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm) Policy or other use policies; to operate the site properly; or to protect Church of Scientology International (CSI) and its parishioners or guests. 
+       It is our policy not to use or share the personal information about you in ways unrelated to the ones described herein without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about you or information regarding your use of the Web site, for any reason, if, in our sole discretion, we believe that it is reasonable to do so; including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Terms of Use](https://web.archive.org/web/20080616225536id_/http%3A//www.scientology.org/feature/legal/terms.html) Policy or other use policies; to operate the site properly; or to protect Church of Scientology International (CSI) and its parishioners or guests. 
 
-Cookies – What They Are And How We Use Them 
+Cookies ï¿½ What They Are And How We Use Them 
 
-        A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites to give you a unique identifier. Cookies help make it easier for you to navigate our site. A cookie generated by our site contains a unique session identifier used only for session control, meaning used by our site to control the electronic requests of your Browser to our site with the exception of containing your login ID in those instances where you have decided to Sign In. 
+        A ï¿½cookieï¿½ is a small data file that can be placed on your hard drive when you visit certain Web sites to give you a unique identifier. Cookies help make it easier for you to navigate our site. A cookie generated by our site contains a unique session identifier used only for session control, meaning used by our site to control the electronic requests of your Browser to our site with the exception of containing your login ID in those instances where you have decided to Sign In. 
 
 Voluntary Visitor Surveys 
 
@@ -44,6 +44,6 @@ Change to Privacy Policy
 
 Questions or Comments 
 
-        If you have any questions regarding our privacy policy, please email us at [customerservice@bridgepub.com](mailto:customerservice@bridgepub.com).  For all other inquiries please see Contact Information in the [Help & General Information](https://web.archive.org/web/20071229093133id_/http%3A//scncatalog.scientology.net/oa_html/Help.htm) page. 
+        If you have any questions regarding our privacy policy, please email us at [customerservice@bridgepub.com](mailto:customerservice@bridgepub.com).  For all other inquiries please see Contact Information in the [Help & General Information](https://web.archive.org/web/20080616225536id_/http%3A//www.scientology.org/feature/legal/help.html) page. 
 
 o0o 
