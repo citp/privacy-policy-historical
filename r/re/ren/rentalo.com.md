@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213192921id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616190813id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
-# Vacation Rentals, Bed and Breakfasts, Hotels, and More Lodging Rentals - Vacation Rentals at Rentalo.com
+# Privacy Policy at Rentalo.com
 
 Rentalo takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -82,12 +82,12 @@ Questions and Suggestions
 
   * [ Click here](http://www.ftc.gov/ftc/privacy.htm) for important information about safe surfing from the Federal Trade Commission. 
 
-If you have questions or suggestions, please complete a [contact form](http://rentalo.com/vacation_rentals/contact_us.html) or you can contact us at:
+If you have questions or suggestions, please [email us](http://rentalo.com/web/common/contact_us.cgi) or write to us at:
 
 Rentalo.com  
 8004 NW 154 St # 401   
 Miami, FL 33016  
-(305)558-5577
+
 
 
 
