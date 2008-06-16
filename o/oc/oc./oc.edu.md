@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010035531id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616032857id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,3 +29,7 @@ We may place a cookie on your computer that will allow us to greet you by name w
 [Federal law prohibits us](http://www.ftc.gov/ogc/coppa1.htm) from accepting identifying information from any person under thirteen years of age. If you are **under** thirteen years of age, you **may not provide us** any identifying information.
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
+
+Dr. Tina Ware is a Professor of Spanish and the Chair of the Department of Language and Literature. She is a certified medical interpreter, and her research interests include pedagogy and second language acquisition. Dr. Ware is the co-editor of the book _Recipes for Success in Foreign Language Teaching: Ready-Made Activities for the L2 Classroom_.
+
+[Read More](http://blogs.oc.edu/ee/index.php?/ocpeople/profiles/dr_tina_ware/)
