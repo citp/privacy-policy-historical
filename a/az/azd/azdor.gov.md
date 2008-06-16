@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Contact/privacypolicy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
-|  | [**Forms**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Forms/formsmenu.asp)  
+|  | [**Forms**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Forms/formsmenu.asp)  
 ---  
-[**Individual**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Individual/Individual%20menu.asp)  
-[**Business**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Business/Businessmenu.asp)  
-[**Tax Professional**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Taxpro/TaxPro%20menu.asp)  
-[**Research, Rulings,Legislation** ](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/ResearchStats/Researchmainmenu.asp)  
-[**Newsroom**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Newsroom/Newsroom.asp)  
+[**Individual**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Individual/Individual%20menu.asp)  
+[**Business**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Business/Businessmenu.asp)  
+[**Tax Professional**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Taxpro/TaxPro%20menu.asp)  
+[**Research, Rulings,Legislation** ](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/ResearchStats/Researchmainmenu.asp)  
+[**Newsroom**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Newsroom/Newsroom.asp)  
 [**Employment**](http://www.azstatejobs.gov/)  
-[Report Fraud](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/criminalinvestigations/Fraudhotline.html)  
-[**Problem Resolution** ](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Contact/Emailus.htm)  
-[**Contact Us**](https://web.archive.org/web/20071210235214id_/http%3A//www.azdor.gov/Contact/Contactmenu.asp)  
+[Report Fraud](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/criminalinvestigations/Fraudhotline.html)  
+[**Problem Resolution** ](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Contact/Emailus.htm)  
+[**Contact Us**](https://web.archive.org/web/20080616173354id_/http%3A//www.azdor.gov/Contact/Contactmenu.asp)  
   
 > **This policy provides information on when and why we collect your personal information, how we use it, and the limited conditions under which we may disclose it to others.**
 
