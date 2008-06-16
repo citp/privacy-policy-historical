@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211213702id_/http%3A//www.nintendoworldreport.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616203927id_/http%3A//nintendoworldreport.com/privacy.cfm) for the most accurate reproduction.*
 
 # Nintendo World Report - Nintendo World Report Privacy Policy
 
@@ -71,8 +71,8 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 By using our Web site, you consent to the collection and use of information by Nintendo World Report as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Please send any questions about Nintendo World Report’s Privacy Policy to: [support@nintendoworldreport.com](mailto:support@nintendoworldreport.com "Email us.")
+Please send any questions about Nintendo World Report�s Privacy Policy to: [support@nintendoworldreport.com](mailto:support@nintendoworldreport.com "Email us.")
 
 Please note that your use of the Nintendo World Report Web site is governed by our [Legal Disclaimer](http://www.nintendoworldreport.com/legal.cfm).
 
-The entire contents of this Web site, unless otherwise noted, are Copyright © 1999-2007 [Nintendo World Report](http://www.nintendoworldreport.com/). All Rights Reserved. ™ and © for all products, characters, and indicia related thereto which are contained herein are owned by the companies who market or license those products. This Web site is not endorsed, sponsored, nor otherwise affiliated with [ Nintendo](http://www.nintendo.com/). It has been created for the sole purpose of entertainment and knowledge. Reproduction in whole or in part in any form without consent from [Nintendo World Report](http://www.nintendoworldreport.com/) is prohibited. Site designed by [ Ryan Jones](http://www.ichibod.com/ "Portfolio").
+The entire contents of this Web site, unless otherwise noted, are Copyright © 1999-2008 [Nintendo World Report](http://www.nintendoworldreport.com/). All Rights Reserved. ™ and © for all products, characters, and indicia related thereto which are contained herein are owned by the companies who market or license those products. This Web site is not endorsed, sponsored, nor otherwise affiliated with [ Nintendo](http://www.nintendo.com/). It has been created for the sole purpose of entertainment and knowledge. Reproduction in whole or in part in any form without consent from [Nintendo World Report](http://www.nintendoworldreport.com/) is prohibited. Site designed by [ Ryan Jones](http://www.ichibod.com/ "Portfolio").
