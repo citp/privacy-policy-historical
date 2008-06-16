@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143654id_/http%3A//www.distributeit.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616133411id_/http%3A//www.distributeit.com.au/privacy.html) for the most accurate reproduction.*
 
 # Distribute.IT Pty Ltd | Domains : SMS Messaging : Hosting : Web Security |
 
@@ -34,6 +34,8 @@ We also retain this information for future reference in the case of complaints a
 Domain Name Registrations
 
 It is a requirement of our Registrar Accreditation with ICANN to provide a Port 43 whois service pertaining to certain domain name registrations. This whois policy includes the requirement to provide public access to detailed Registrant details, including Registrant name, address, phone, and email address.
+
+When a .au domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA.s WHOIS policy at http://www.auda.org.au/whois-policy which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. 
 
 Cookies and IP addresses 
 
