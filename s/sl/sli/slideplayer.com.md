@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216094919id_/http%3A//slideplayer.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616102906id_/http%3A//www.slideplayer.com/Privacy_Statement.html) for the most accurate reproduction.*
 
-# Slide Guitar Player ::: Privacy Statement
+# Slide Guitar Player:::Privacy Statement
 
-[Home](https://web.archive.org/web/20071216094919id_/http%3A//slideplayer.com/) :: Privacy Statement
+[Home](https://web.archive.org/web/20080616102906id_/http%3A//www.slideplayer.com/) :: Privacy Statement
 
  **We here at the SlidePlayer.com value your privacy and will never rent, sell, or give out your email address to anyone!**
 
