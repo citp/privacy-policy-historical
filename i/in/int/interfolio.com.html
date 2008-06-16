@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interfolio.com privacy policy that was archived on 2007-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071218121815id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interfolio.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616212018id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -245,8 +245,8 @@ function MM_swapImage() { //v3.0
 		function showForgotPassword(){document.getElementById('emailPasswordForm').style.display='';document.getElementById('email').focus();document.getElementById('showPasswordLink').style.display='none';}
 		function canSubmit() {
 			var message = "";
-			if (!document.getElementById('username').value) { message += " - Username\n"; }
-			if (!document.getElementById('password').value) { message += " - Password"; }
+			if (!document.getElementById('username').value) { message += " - Email or Username\n"; }
+			if (!document.getElementById('password-login').value) { message += " - Password"; }
 			if (message) { alert('Please enter:\n\n'+message); return false; } else {return true;}
 		}
 		
@@ -255,12 +255,12 @@ function MM_swapImage() { //v3.0
 			document.write('<form method="post" action="https://www.interfolio.com/index.cfm" onSubmit="return canSubmit(this)"><input type="hidden" name="event" value="login.process">' +
 				'<div align="center" id="signup"><span class="copymainbold">Email / Username:<br></span><img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br><input type="text" id="username" name="username">' +
 				'<br><img src="/externalsitemedia/images/spacer.gif" alt="" height="8" width="123" border="0"><br><span class="copymainbold">Password:<br>'+
-				'<img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br></span><input type="password" id="password" name="password">' +
+				'<img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br></span><input type="password" id="password-login" name="password">' +
 				'<br><br><input type="image" src="/externalsitemedia/images/buttons/login.gif" alt="login"></div></form>' + '<br>' +
 				'<a id="showPasswordLink" href="javascript:showForgotPassword()">Forgot your password?</a>' + 
-				'<form method="post" id="emailPasswordForm" action="index.cfm?event=login.emailPassword" style="display:none;">' + 
+				'<form method="post" id="emailPasswordForm" action="https://www.interfolio.com/index.cfm?event=login.emailPassword" style="display:none;">' + 
 				'Email or Username: <input type="text" id="email" name="email">&nbsp;<input type="submit" value="Send Password"></form>')
-			</script><form method="post" action="https://www.interfolio.com/index.cfm" onsubmit="return canSubmit(this)"><input type="hidden" name="event" value="login.process"><div align="center" id="signup"><span class="copymainbold">Email / Username:<br></span><img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br><input type="text" id="username" name="username"><br><img src="/externalsitemedia/images/spacer.gif" alt="" height="8" width="123" border="0"><br><span class="copymainbold">Password:<br><img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br></span><input type="password" id="password" name="password"><br><br><input type="image" src="/externalsitemedia/images/buttons/login.gif" alt="login"></div></form><br><a id="showPasswordLink" href="javascript:showForgotPassword()">Forgot your password?</a><form method="post" id="emailPasswordForm" action="index.cfm?event=login.emailPassword" style="display:none;">Email or Username: <input type="text" id="email" name="email">&nbsp;<input type="submit" value="Send Password"></form>
+			</script><form method="post" action="https://www.interfolio.com/index.cfm" onsubmit="return canSubmit(this)"><input type="hidden" name="event" value="login.process"><div align="center" id="signup"><span class="copymainbold">Email / Username:<br></span><img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br><input type="text" id="username" name="username"><br><img src="/externalsitemedia/images/spacer.gif" alt="" height="8" width="123" border="0"><br><span class="copymainbold">Password:<br><img src="/externalsitemedia/images/spacer.gif" alt="" height="2" width="123" border="0"><br></span><input type="password" id="password-login" name="password"><br><br><input type="image" src="/externalsitemedia/images/buttons/login.gif" alt="login"></div></form><br><a id="showPasswordLink" href="javascript:showForgotPassword()">Forgot your password?</a><form method="post" id="emailPasswordForm" action="https://www.interfolio.com/index.cfm?event=login.emailPassword" style="display:none;">Email or Username: <input type="text" id="email" name="email">&nbsp;<input type="submit" value="Send Password"></form>
 			<noscript><a href="loginJS.cfm">Click here to login.</a></noscript>
 			
 		
