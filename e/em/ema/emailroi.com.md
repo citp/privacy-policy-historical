@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018113810id_/http%3A//www.eroi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616175720id_/http%3A//www.eroi.com/privacy.htm) for the most accurate reproduction.*
 
-# eROI email marketing privacy policy
-
-## eROI's Privacy Statement 
+# eROI e-Marketing Privacy Policy
 
 We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to eroi.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system. 
 
@@ -28,6 +26,4 @@ If you have received unwanted, unsolicited email sent via our system or purporti
 
 We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.
 
-If you would like to unsubscribe from ALL emailROI lists, please visit our [Global Unsubscribe ](http://www.eroi.com/unsubscribe.htm) page. 
-
-This policy was last updated: August 2004. We reserve the right to modify this policy at any time.
+If you would like to unsubscribe from ALL emailROI lists, please visit our [Global Unsubscribe](http://www.eroi.com/global-unsubscribe/) page.
