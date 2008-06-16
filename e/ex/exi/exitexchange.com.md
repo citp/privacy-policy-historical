@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202212008id_/http%3A//www.exitexchange.com/company/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616105427id_/http%3A//exitexchange.com/company/terms/privacy.html) for the most accurate reproduction.*
 
 # ExitExchange : Privacy Policy
 
-[Terms of Use](https://web.archive.org/web/20071202212008id_/http%3A//www.exitexchange.com/company/terms/terms.html) | Privacy | [Copyright](https://web.archive.org/web/20071202212008id_/http%3A//www.exitexchange.com/company/terms/copyright.html) | [Affiliate Agreement](https://web.archive.org/web/20071202212008id_/http%3A//www.exitexchange.com/company/terms/terms_affiliate.html) | [Quality Acceptance](https://web.archive.org/web/20071202212008id_/http%3A//www.exitexchange.com/company/terms/acceptance.html)
+[Terms of Use](https://web.archive.org/web/20080616105427id_/http%3A//exitexchange.com/company/terms/terms.html) | Privacy | [Copyright](https://web.archive.org/web/20080616105427id_/http%3A//exitexchange.com/company/terms/copyright.html) | [Affiliate Agreement](https://web.archive.org/web/20080616105427id_/http%3A//exitexchange.com/company/terms/terms_affiliate.html) | [Quality Acceptance](https://web.archive.org/web/20080616105427id_/http%3A//exitexchange.com/company/terms/acceptance.html)
 
 Web pages rely on advertising to provide you with content that is free of charge or at a nominal cost. Advertising also plays an important role in helping consumers make informed decisions about products and services. 
 
