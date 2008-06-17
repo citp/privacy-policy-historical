@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025054103id_/http%3A//www.prlog.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617125740id_/http%3A//www.prlog.org/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ We offer an optional [free press release submission](https://web.archive.org/sub
 
   3. #### Press Release Account
 
-We offer an optional [free press release account](https://web.archive.org/pub/account.html) to users interested in advance features. Any information such gathered is used to customize the user's experience and is not shared with any third parties. We may send a one time confirmation email at the email address provided.
+We offer an optional [free press release account](https://web.archive.org/pub/pr-account.html) to users interested in advance features. Any information such gathered is used to customize the user's experience and is not shared with any third parties. We may send a one time confirmation email at the email address provided.
 
   4. #### "E-mail this to a friend"
 
