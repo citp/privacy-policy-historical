@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tokbox.com privacy policy that was archived on 2007-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071116053223id_/http%3A//www.tokbox.com/view/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tokbox.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617052432id_/http%3A//www.tokbox.com/view/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="http://www.w3.org/2005/11/profile">
 <title>TokBox Privacy Policy</title>
@@ -10,64 +10,43 @@
 
 <link rel="icon" type="image/ico" href="/favicon.ico">
 
-<link href="/css/phasein.global.css" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="/js/jquery/plugins/jqModal/css/jquery.jqModal.css" media="screen, projection" rel="stylesheet" type="text/css">
-
-<!-- old -->
-<link href="/files/css/phaseout.screen.css" media="screen,projection" rel="Stylesheet" type="text/css">
-<link href="/files/css/phaseout.home.css" media="screen,projection" rel="Stylesheet" type="text/css">
-<!-- end old -->
+<link href="/assets/css/global.13f73d92e6940f74a5f0a741fe4cb7d1.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/assets/css/groups.888dc82ebb706d31d820e1515a4a95f5.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/assets/js/jquery/plugins/jqModal/css/jquery.jqModal.css" media="screen, projection" rel="stylesheet" type="text/css">
 
 <!--[if lte IE 6]>
-<link href="/files/css/phaseout.screen_ie6.css" media="screen,projection" rel="stylesheet" type="text/css" />
-<link href="/css/winIE6.css" media="screen,projection" rel="stylesheet" type="text/css" />
+<link href="/assets/css/winIE6.dba8cbc58079cab6a67e5b00794d11d4.css" media="screen,projection" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if IE 7]>
-<link href="/files/css/phaseout.screen_ie7.css" media="screen,projection" rel="Stylesheet" type="text/css" />
-<link href="/css/winIE7.css" media="screen,projection" rel="Stylesheet" type="text/css" />
+<link href="/assets/css/winIE7.cfba98f476426b98b35cd6ce8fd390ee.css" media="screen,projection" rel="Stylesheet" type="text/css" />
 <![endif]-->
-
-
-<style type="text/css">
-div#tbx_progress > div.tbx_bar  { 
-	width: %;
- } 
-</style>
-
 
 <!-- global script vars -->
 <script type="text/javascript">
+//<![CDATA[
 /* Global Static Properties */
 	if (typeof(tokbox) == 'undefined') tokbox = new Object();
-	tokbox.PROFILE 	= new Object(); // all non-self profile info.
-	tokbox.USER 	= new Object(); // all self profile info.
-	tokbox.FLASH 	= new Object(); // all flash info.
-	tokbox.SESSION	= new Object(); // all session info.
-	tokbox.SERVER	= new Object(); // all server info.
-	tokbox.ERRORS	= new Object(); // all errors
-	tokbox.SESSION.id 	= "0";
+	tokbox.PROFILE 		= new Object(); // all non-self profile info.
+	tokbox.USER 		= new Object(); // all self profile info.
+	tokbox.FLASH 		= new Object(); // all flash info.
+	tokbox.SESSION		= new Object(); // all session info.
+	tokbox.SERVER		= new Object(); // all server info.
+	tokbox.ERRORS		= new Object(); // all errors
+	tokbox.SESSION.id 	= "";
 	tokbox.USER.id		= "0";
-	tokbox.USER.idBeingViewed = "";
 	tokbox.USER.uname 	= "";
-	tokbox.USER.p		= "";
+	tokbox.USER.p		= "pass";
 	tokbox.FLASH.room	= "guestroom";
-	tokbox.FLASH.thisRoom	= "";
-	tokbox.FLASH.tokBoxUrl	= "invalid";
-	tokbox.SERVER.url 	= "server4.tokbox.com";
+	tokbox.SERVER.url 	= "vmail1.tokbox.com";
+	tokbox.USER.uid 	= "";
+//]]>
 </script>
-<!-- old -->            
-<script src="/js/static_js_071013.js" type="text/javascript"></script>
-<!-- end old -->
-<!-- global instantiator loads last -->
-<script src="/js/md5.js" type="text/javascript"></script>
-<script src="/js/jquery/jquery.tokbox.min.js" type="text/javascript"></script>
 </head>
 <body>
-	
 	<div id="tbx_miniFeedback">
 	<div class="tbx_tab block"></div>
 	<div class="tbx_form hidden">
-		<form name="tbx_miniFeedbackForm" class="block">
+		<form name="tbx_miniFeedbackForm" action="" class="block">
 			<h3>GIVE FEEDBACK!</h3>
 			<select name="reason">
 				<option value="bug">Found a bug?</option>
@@ -75,7 +54,7 @@ div#tbx_progress > div.tbx_bar  {
 				<option value="help">Need help?</option>
 				<option value="other">Anything else...</option>
 			</select>
-			<textarea name="feedback"></textarea>
+			<textarea name="feedback" rows="3" cols="4"></textarea>
 						<div class="tbx_field">
 				<label for="tbx_fbEmail" style="color: white; margin-top: 5px;">Optional email for replies:</label>
 				<input id="tbx_fbEmail" type="text" name="email">
@@ -86,7 +65,7 @@ div#tbx_progress > div.tbx_bar  {
 		<div class="tbx_interstitial hidden">
 			<h3>Sending Feedback...</h3>
 			<p>
-				Learn more about TokBox! Visit our <a href="http://tokbox.com/view/help.php" title="Learn more about TokBox">help section</a>. 
+				Learn more about TokBox! Visit our <a href="http://tokbox.com/view/help" title="Learn more about TokBox">help section</a>. 
 				Or, call our <a href="http://tokbox.com/tok2lauren" title="Call our support TokBox">support TokBox</a>.
 			</p>
 			<p><a href="Close this message." class="close">[close this message]</a></p>
@@ -94,42 +73,16 @@ div#tbx_progress > div.tbx_bar  {
 		<div class="clear"></div>
 	</div>
 </div>
-	<div id="tbx_blog">
-		<a href="http://76.74.155.73/blog" title="Read the TokBox Blog! It's fun!" target="_blank"><span>blog</span></a>
-	</div>
-
-	<div id="tbx_header">
-		<h1 class="tbx_logo"><a href="/"><span>TokBox</span></a></h1>
-								
-		<div id="tbx_login">
-  	<h3><span id="tbx_loginErrorMsg" class="hidden" style="font-size:90%; color:#CC0000;"></span></h3>
-	<form id="tbx_loginForm" action="/login.php" method="post">
-		<div class="col">	
-	    <label for="username">login [email]</label>
-			<input name="username" type="text" id="tbx_loginUsername" class="text" value="" tabindex="1">
+		<div id="tbx_header">
+		<div id="tbx_headWrap">
+			<h1 class="tbx_logo"><a href="/"><span>TokBox</span></a></h1>
 		</div>
-		<div class="col">
-			<label for="tbx_fauxPassword">password</label>
-			<input name="fauxPassword" type="password" id="tbx_fauxPassword" class="text" value="" tabindex="2" size="30">
-			<input name="password" type="password" id="tbx_loginPassword" class="hidden">
-		</div>
-		<button type="submit" id="tbx_loginSubmit" tabindex="3">login</button>
-	</form>
-	<div id="tbx_loginForgotPass">
-		<a href="/view/forgotpass.php" style="font-size:10px; color:#666666">Forgot password?</a>
+		<object type="application/x-shockwave-flash" data="/assets/flash/sig.swf?l=0&amp;p=pass" width="0" height="0">
+			<param name="movie" value="/assets/flash/sig.swf?l=0&amp;p=pass">
+		</object>
 	</div>
-</div>		<div id="tbx_mainNav" class="tbx_navigation">
-	<ul>
-		<li><a href="/blog">blog</a></li>
-		<li><a href="/view/help.php">help</a></li>
-		<li><a href="/view/about.php">about</a></li>
-		<li><a href="/">sign up</a></li>	</ul>
-</div>		
-			<object type="application/x-shockwave-flash" data="/fms/sig.swf?l=0&amp;p=" width="0" height="0"> 
-		<param name="movie" value="/fms/sig.swf?l=0&amp;p=">
-	</object>
-	</div><div id="tbx_trunk">
-	<div id="tbx_privacy" class="tbx_main">
+	<div id="tbx_trunk">
+		<div id="tbx_privacy" class="tbx_main">
 
 	<h1>TokBox Privacy Policy</h1>
 	
@@ -212,53 +165,41 @@ div#tbx_progress > div.tbx_bar  {
 	
 	</div>
 </div><!-- BEGIN Footer -->
-<div id="tbx_footerWrap">
-	<div id="tbx_footer">
+<div id="tbx_footer">
+	<div id="tbx_footerWrap">
+		<div id="tbx_bloopSound" style="position:absolute;"></div>
+		<div class="tbx_copy">© 2008 TokBox, Inc.</div>
 		<ul class="tbx_subNav">
-					<li><a href="/view/jobs.php">jobs</a></li>
-			<li><a href="/view/contact.php">contact</a></li>
-			<li><a href="/view/team.php">team</a></li>
-			<li><a href="/view/about.php">about</a></li>
-			<li><a href="/view/developer.php">api</a></li>
-			<li><a href="/terms.php">legal</a></li>
-			<li><a href="/view/help.php">help</a></li>
-			<li><a href="/blog">blog</a></li>
+			<li><a href="http://blog.tokbox.com/" target="_blank">Blog</a></li>
+			<li><a href="/view/jobs" target="_blank">Jobs</a></li>
+			<li><a href="/view/contact" target="_blank">Contact</a></li>
+			<li><a href="/view/team" target="_blank">Team</a></li>
+			<li><a href="/view/about" target="_blank">About</a></li>
+			<li><a href="/view/developer" target="_blank">API</a></li>
+			<li><a href="/view/terms" target="_blank">Legal</a></li>
+			<li><a href="/view/privacy" target="_blank" class="tbx_active">Privacy</a></li>
+			<li><a href="http://forums.tokbox.com/" target="_blank">Forum</a></li>
+			<li><a href="/view/help" target="_blank">Help</a></li>
 		</ul>
-				
-		<div class="tbx_copy">© 2007 TokBox, Inc.</div>
 	</div>
 </div>
 <!-- END Footer -->
 
 
 <!-- BEGIN New Overlay Code -->
-<div class="jqmWindow" id="tbx_share">
-	<div id="tbx_gigyaWidget" class="tbx_overlay">
-		<h1>Embed TokBox everywhere!</h1>
-		<div class="tbx_overlayBody">
-			<div id="tbx_gigyaEmbed">
-	<textarea id="tbx_gigyaContent" style="display: none">invalid&lt;div style="text-align: center;"&gt;Get your own TokBox at &lt;a href="http://tokbox.com/?e=" target="_blank"&gt;www.tokbox.com&lt;/a&gt;.&lt;/div&gt;</textarea>
-	<div id="tbx_wildfirePost"></div>
-</div>			<div style="width: 490px; margin: 10px auto;">
-<p style="margin-top: 10px;">Share Your Link: [good for IM or email!]</p>
-<p><input name="link_code" type="text" class="text" id="link_code2" onclick="this.focus();this.select();" value="http://www.tokbox.com/0" style="width: 360px; font-weight:bold;"></p>
-<button type="button" class="tbx_closeOverlay" style="margin-top: 15px;"><span>Close Window</span></button>
-</div>		</div>
-	</div>
-</div>
 <div class="jqmWindow" id="tbx_vmail">
 	<div id="tbx_vmailOverlay" class="tbx_overlay">
 	<h1>Send video mail</h1>
 	<div class="tbx_xClose tbx_closeOverlay"></div>
 	<div class="tbx_overlayBody">
-		<div id="tbx_vmailWidget" class="block">
-			<form id="tbx_vmailForm" name="vmailForm" autocomplete="off">		
+		<div id="tbx_vmailWidget" class="tbx_vmailWidget block">
+			<form id="tbx_vmailForm" action="" name="vmailForm" autocomplete="off">		
 			<div class="tbx_steps">
 				<div id="tbx_vmailRecorder" class="tbx_vmailRecorder"></div>
-				<textarea id="tbx_vmailText" class="tbx_vmailText" name="text" rows="3" cols="40">Type a message.</textarea>		
+				<label id="tbx_vmailLabel" for="tbx_vmailText">Type a message.</label>
+				<textarea id="tbx_vmailText" class="tbx_vmailText tbx_superLabel" name="text" rows="3" cols="40"></textarea>		
 			</div>
 			<div class="tbx_steps" style="margin-left: 10px;">
-			
 				<div class="tbx_field" style="margin: 10px 0; width: 333px;">
 					<div id="tbx_staticTo" class="hidden">
 						<span>To:</span>
@@ -269,92 +210,41 @@ div#tbx_progress > div.tbx_bar  {
 					<div class="clear"></div>
 					<p style="color: grey;margin-left: 40px;">type comma separated emails</p>
 				</div>
+				<!--
 				<div id="tbx_chosenTbxEmails" class="block" style="margin: 10px 0;">
 					<a href="" id="tbx_vmailContactsAbove" class="tbx_getEmailContacts hidden">[+] Add address book emails</a>
-					<div id="tbx_emlScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_vmailContacts" class="tbx_getEmailContacts block" style="line-height: 50px; width: 100%; text-align: center;">[+] Add address book emails</a></div>
+					<div id="tbx_emlScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_vmailContactsInside" class="tbx_getEmailContacts block">[+] Add address book emails</a></div>
 				</div>
+				-->
 				<div id="tbx_chosenTbxContacts" class="block" style="margin: 10px 0;">
 					<a href="" id="tbx_tokboxContactsAbove" class="tbx_getTokBoxContacts hidden">[+] Add TokBox contacts</a>
-					<div id="tbx_tbScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_tokboxContacts" class="tbx_getTokBoxContacts block" style="line-height: 50px; width: 100%; text-align: center;">[+] Add TokBox contacts</a></div>
+					<div id="tbx_tbScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_tokboxContactsInside" class="tbx_getTokBoxContacts block">[+] Add TokBox contacts</a></div>
 				</div>
 			</div>
 			<div class="clear" style="margin-bottom: 30px;"></div>
 			<div class="" style="position: absolute; bottom: 15px; right: 15px; text-align: right;">
-				<button type="submit" class="tbx_btnSendVmail" style="margin-right: 10px;">Send &gt;</button>
+				<button type="submit" class="tbx_btnSendVmail" style="margin-right: 10px;">Send</button>
 				<button type="reset" class="tbx_closeOverlay">Cancel</button>
 			</div>
-			<input id="tbx_vid" type="hidden" name="vid" value="">
+			<input type="hidden" name="vid" value="">
 			</form>
 		</div>
-		<div id="tbx_vmailsConfirmed" class="tbx_overlayConfirm hidden">
+		<div id="tbx_vmailsConfirmed" class="tbx_overlayConfirm hidden tbx_clearfix">
 			<h3>Your video mail was sent successfully!</h3>
-			<button type="reset" class="tbx_closeOverlay">Close</button>
+			<div class="tbx_buttons">
+			<button type="button" class="tbx_resetVmail">Send Another Video Mail</button>
+			<button type="reset" class="tbx_closeOverlay" style="margin-left: 10px;">Close</button>
+			</div>
 		</div>
 	</div>
 </div></div>
 	<div class="jqmWindow" id="tbx_aim">
 	<div id="tbx_aimWidget" class="tbx_overlay">
-		<h1>Invite Friends</h1>
-		<div class="tbx_xClose tbx_closeOverlay"></div>
+		<h1>IM Updates</h1>
+		<div class="tbx_xClose tbx_closeIMOverlay"></div>
 		<div class="tbx_overlayBody">
-			<div id="tbx_imWidget">
-	<div id="tbx_imImport" class="block">
-		<p>Log-in to select a friend to call and receive messages when friends call you.</p>
-		<form id="tbx_getImContacts" name="getImContacts" method="" action="" autocomplete="off">
-		<span id="tbx_imError" class="tbx_error"></span>
-		<div class="tbx_inputGroup" style="width:360px; margin-left: 110px;">
-			<div class="tbx_field">
-				<input id="tbx_aimIM" type="radio" name="imtype" value="1" checked="checked">
-				<label for="tbx_aimIM" class="tbx_nofloat"><img src="/files/img/AIM.gif" alt="AIM">AOL Instant Messenger</label>
-			</div>
-			<div class="tbx_field">
-				<input id="tbx_msnIM" type="radio" name="imtype" value="2">
-				<label for="tbx_msnIM" class="tbx_nofloat"><img src="/files/img/MSN.gif" alt="MSN">Windows Live MSN Messenger</label>
-			</div>
-			<div class="tbx_field" style="margin-bottom:10px;">
-				<input id="tbx_yahIM" type="radio" name="imtype" value="3">
-				<label for="tbx_yahIM" class="tbx_nofloat"><img src="/files/img/Y!.gif" alt="Yahoo">Yahoo! Messenger</label>
-			</div>
-			<div class="tbx_field">
-				<label for="tbx_imUsername">Login:</label>
-				<input name="imuser" type="text" id="tbx_imUsername">
-			</div>
-			<div class="tbx_field" style="margin-bottom:10px;">
-				<label for="tbx_imPassword">Password:</label>
-				<input name="impass" type="password" id="tbx_imPassword">
-				<small class="block">Your password is never saved.</small>
-			</div>
-			<button type="submit" id="tbx_aimSend" class="left" style="margin-right: 10px;">Continue</button>
-							<button type="button" class="tbx_closeOverlay left">Cancel</button>
-						<div class="clear"></div>
+			<!-- Asynchonously loaded HTML fits in here from IM Controllers -->
 		</div>
-		</form>
-	</div>
-	<div id="tbx_imInvites" class="hidden">
-		<form name="inviteImContacts" method="" action="" autocomplete="off">
-			<p style="color: grey; margin: 10px 0 15px 0;"><strong>Success:</strong> You'll receive messages when your friends call.</p>
-			<h3>Share TokBox with your friends.</h3>
-			<div id="tbx_imMessage">Message: "Hey, how about we talk on TokBox?"</div>
-			<div id="tbx_imContacts" class="tbx_scraperList"></div>
-			<div class="tbx_checkAll">
-				<a class="tbx_checkAll" href="all" target="tbx_imContacts">Check all</a> / <a class="tbx_uncheckAll" href="none" target="tbx_imContacts">Uncheck All</a>
-			</div>
-			<div class="tbx_buttons">
-				<button id="tbx_selectImContacts" class="tbx_close2ndOverlay left" type="submit" style="margin-right: 10px;">Send</button>
-									<button id="tbx_cancelImContacts" class="tbx_closeOverlay" type="button">Cancel</button>
-								<div class="clear"></div>
-			</div>
-			<input id="tbx_imInvitePass" type="password" name="impass" class="hidden" value="">
-			<input id="tbx_imInviteUser" type="hidden" name="imuser" value="">
-			<input id="tbx_imInviteType" type="hidden" name="imtype" value="">
-		</form>
-	</div>
-	<div id="tbx_invitesConfirmed" class="tbx_overlayConfirm hidden">
-		<h3>Your IM invitations were sent successfully!</h3>
-					<button id="tbx_resetIM" class="tbx_closeOverlay" type="button">Close</button>
-			</div>
-</div>
-				</div>
 	</div>
 </div><div id="tbx_contactsOverlay" class="tbx_2ndOverlay jqmWindow jqmAbove">
 	<h1>Add TokBox Contacts</h1>
@@ -382,14 +272,36 @@ div#tbx_progress > div.tbx_bar  {
 <!-- END New Overlay Code -->
 
 <div id="tbx_bloop1" class="tbx_blooper"></div>
-<div id="tbx_bloopSound" class="invisible"></div>
 
-<!--  Server: 76.74.155.73 CDN:  -->
+<!--  Server: 72.51.42.229 -->
+<!--  CDN:  -->
+<!--  Render Time: 5.3730010986328 ms ms-->
+<!--  Build: -->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-462500-3";
-urchinTracker();
+<!-- <script src="/assets/flash/AC_OETags.js" type="text/javascript"></script> -->
+<script src="/assets/js/md5.js" type="text/javascript"></script>
+<script src="/assets/js/jquery/jquery.tokbox.min.45fb74b2ada7f3782e47cc3efe692820.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+tokbox.FLASH.hasProductInstall = tokbox.flash.DetectFlashVer(6, 0, 65);
+tokbox.FLASH.hasRequestedVersion = tokbox.flash.DetectFlashVer(tokbox.FLASH.requiredMajorVersion, tokbox.FLASH.requiredMinorVersion, tokbox.FLASH.requiredRevision);
+//]]>
 </script>
+
+
+	<script type="text/javascript">
+	//<![CDATA[
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	//]]>
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		var pageTracker = _gat._getTracker("UA-462500-3");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	//]]>
+	</script>
+
 
 </body></html>
