@@ -1,51 +1,101 @@
-> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224220236id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617225140id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-About HealthCare.com 
+For the purposes of this privacy policy, the terms "we", "us", "our" and "HealthCare.com" refer to the HealthCare.com, Inc. The terms "you" and "user" refer to you as a user of this Site.
 
-|  | 
+At HealthCare.com we care about your privacy as much as you do. We commit ourselves to bring you, as a member of Healthcare.com, the best site experience we can offer in a way that assures that your personally identifiable information is safe with us.
 
-At Healthcare.com we care about your privacy as much as you do. As a member of Healthcare.com we commit ourselves to offer you the best of us. In that way we assure that your personal information is safe with us.
+### 1\. Collection and Use of Information
 
-1\. Personal information
+In general, you can visit our Site without telling us who you are or revealing any personal information about yourself. In order to better provide you with numerous products and services, our Site collects two types of information about its visitors: Personally Identifiable Information ("PII") and Non-Personally Identifiable Information.
 
-For each visitor to our site, our web server automatically recognizes only the costumer's domain name, but not the e-mail address. We do not collect personal information unless you provide it to us, and it is only used to improve the content of our web, review purposes, customize the content and/or layout of our page for each individual visitor, notify consumers about updates to our Web site, contact consumers for marketing purposes and aggregate information on what pages consumers access or visits.
+**Non-Personally Identifiable Information**  
+HealthCare.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information. 
 
-If we are required by law to disclose certain information to local, state, federal, national or international law enforcement authorities, we will do so.
+**This information may include:**
 
-To keep your information safe, you must choose a good password. At Healthcare.com passwords must be at least for characters, a-z and 0 -9 with at list one letter and one number. Our password field is case - sensitive. 
+  * nternet Protocol (IP) address of the domain from which You access the Internet, either Your individual address or the proxy provided by Your Internet Service Provider (ISP).
+  * Date and time You access our site.
+  * Pages You view (recorded by the text and graphics files that compose that page).
+  * Web address of the site from which You linked directly to our site.
+  * Browser version and operating system of the computer You are using.
+  * HealthCare.com, Inc. is the sole owner of the information collected on HealthCare.com.
 
-2\. Notice to parents
 
-Parents or guardians: we want to help you to keep your children's privacy. We encourage you to talk to your children about safe and responsible use of personal information while using the Internet.
 
-Healthcare.com Inc is not targeted to children. Healthcare.com Inc does not knowingly collect personal information from children or create profiles of children through this website. Users are cautioned, however, that the collection of personal information submitted will be treated as though it was submitted by an adult, and may be subject to public access. Healthcare.com strongly encourages parents and teachers to be involved in children's Internet activities and to provide guidance whenever children are asked to provide personal information on-line.
+**  
+Personally Identifiable Information**  
+HealthCare.com collects no personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, HealthCare.com.com does collect personally identifiable information from our users at several different points on our Web site.
 
-3\. Cookies
+**Registration**  
+In order to use some areas of this web site, you must first complete the registration form. If you as choose to register for "Take Control of Your Health" and "Advertise with Us", we request certain personally identifiable information from you such as your email address, gender, age and zip code. This information is used to improve the content of our web, review purposes, customize the content and/or layout of our page for each individual visitor, notify consumers about updates to our Web site, contact consumers for marketing purposes and aggregate information on what pages our consumers access or visit.
 
-A "cookie" is a piece of information that our web site sends to your browser, which then is stored on your system. You may disable or delete cookies at any moment.
+**Placing an Order**  
+When you place an order, we require you to provide us with PII. We use this information to give you a customized experience and to process the orders that you place with us. When you place an order, we automatically establish your own registration account ("Personal Account") where information used in placing such order (including billing address, email address, telephone number(s) is saved. Your Personal Account is password protected from third parties. Upon confirmation of your order, you will receive an email from sales@healthcare.com that will include your password from us. You may access your Personal Account by signing in with that password. Afterward, you may change your password, edit your PII or request a password reminder at any time. Our database stores your billing and delivery information, and will automatically transfer it to the order form each time you place an order so that you do not have to re-enter this information when you sign in at subsequent visits.
 
-We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, and customize Web page content based on visitors' browser type or other information that the visitor sends.
+To keep your information safe, you must choose a good password. At HealthCare.com passwords must be at least for characters, a-z and 0 -9 with at list one letter and one number. Our password field is case - sensitive.
 
+**Opt-Out Policy**  
+We provide you the opportunity to opt-out of having your PII used for certain purposes, when we ask for this information. For example, if you register as a HealthCare.com user but do not wish to receive any additional marketing material from us, you can indicate your preference on our sign-up form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [contact@healthcare.com](mailto:contact@healthcare.com). We also offer an opportunity to opt-out of certain communications on our member profile pages.
+
+If your personally identifiable information changes, you may correct or update it by emailing our Customer Support at[ contact@HealthCare.com](mailto:contact@healthcare.com).
+
+**Legal Disclosure**  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our Web site.
+
+**Public Display of PII**  
+If you choose to post a user review on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these reviews, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these reviews.
+
+### **2\. Communications from the Site**
+
+From time to time, we send email communications to registered users to confirm of completed transactions and provide site updates.
+
+**Promotional Communications**  
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. When visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information
 
-4\. IP addresses
+### 3\. Cookies
+
+A "cookie" is a piece of information that our web site sends to your browser, which then is stored on your system. You may disable or delete cookies at any moment. We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and customize Web page content based on visitors' browser type or other information that the visitor sends. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Some of our business partners (e.g., advertisers) may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
+
+### 4\. IP Addresses
 
 Our Web server receives your IP address and other information as a normal function of the HTTP protocol. This data is stored in standard Web logs and used for aggregate statistics. No attempt is made to match your IP address with email addresses or any other information.
 
-5\. Third parties
+### 5\. Security
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). If you have any questions about security on our web site, you can send email us at [contact@HealthCare.com](mailto:contacto@healthcare.com).
+
+### **6\. Third Parties**
 
 Our site contains links to other sites whose information practices may be different than ours. Users should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-6\. How to unsuscribe
+HealthCare.com uses technology provided by a third-party advertising company to serve ads when you visit this Web site. This technology may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit <<http://www.doubleclick.net/us/corporate/privacy>>. In addition, you have the ability to accept or decline cookies by modifying the settings in your browser.
 
-If you no longer wish to receive periodic emails from us, or be part of Healthcare.com, please go to your profile. Please note that we have a 7-day processing period for unsubscribe requests.
+HealthCare.com may also use a third party ad network provider to help present advertisements on this Web site. Third-party ad serving enables HealthCare.com to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use.
 
-7\. Changes to this privacy policy
+**Sharing of PII with Third-Parties**  
+We may contract with third-party companies or persons to provide certain services including credit card processing, distribution, data management, promotional services, etc. ("Service Providers"). We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-If you no longer wish to receive periodic emails from us, or be part of Healthcare.com, please go to your profile. Please note that we have a 7-day processing period for unsubscribe requests.
+We use PayPal to provide credit card processing on our site. For Professional Registrations, users who sign up to purchase listings on the HealthCare.com directory will share their name, address, phone, email, and credit card numbers as necessary for PayPal to provide that service.
 
-8\. Contact information
+### 7\. How to unsubscribe
 
-E-mail: [](mailto:press@healthcare.com)
+If you no longer wish to receive periodic emails from us or our promotional partners, or be part of Healthcare.com, you can go to your profile to opt-out of certain communications. You may also opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at contact@healthcare.com. Please note that we have a 7-day processing period for unsubscribe requests.
+
+### 8\. Changes to this Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+### 9\. Contact information
+
+If you have questions or concerns regarding this statement, you should first contact:
+
+HealthCare.com, Inc.  
+1749 NE Miami Ct., Suite 604  
+Miami, FL 33132E-mail: contact@healthcare.com
+
+Effective Date: 1/24/2008  
+
