@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027134638id_/http%3A//www.deliciousmagazine.co.uk/boilerplate.aspx%3Fid%3D223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617180622id_/http%3A//www.deliciousmagazine.co.uk/boilerplate.aspx%3Fid%3D223) for the most accurate reproduction.*
 
 # Privacy Policy
 
