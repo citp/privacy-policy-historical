@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044954id_/http%3A//www.flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617034535id_/http%3A//www.flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
 
 # Welcome to Florida Virtual School
 
@@ -30,4 +30,4 @@
 > 
 > **Cookies:** We may, from time to time, use cookies when you log in to your account. These cookies allow us to remember you when you visit our site. Although one cookie would reside on your computer so that we can recognize you each time you visit our site, any session-specific cookies will expire once you shut down your browser. 
 > 
-> *This document may be translated into a language understandable by a parent or guardian, if necessary. For a translation request, please call 407.317.3326, extension 2355. 
+> *This document may be translated into a language understandable by a parent or guardian, if necessary. For a translation request, please call 407-513-3587.
