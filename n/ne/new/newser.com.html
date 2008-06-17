@@ -1,38 +1,81 @@
-<!--The following is the downloaded HTML source of the newser.com privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216042241id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newser.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617050236id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_HeadMain"><title>
-	Newser - Faster, Smarter News
+	Newser - Know More. Search Less.
 </title><link rel="shortcut icon" href="/favicon.ico">
-    
-    <!-- Styles -->
-    <link href="/stylesheets/basestyles.css?20071114_1650" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/layout_shell.css?20071114_1650" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/layout_content.css?20071114_1650" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/corners.css?20071114_1650" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/carousel.css?20071114_1650" rel="stylesheet" type="text/css" media="all">
-    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/stylesheets/screen/ie6.css?20071114_1650" media="all" /><![endif]-->
-    <!--[if IE]><link rel="stylesheet" type="text/css" href="/stylesheets/screen/corners-ie.css?20071114_1650" media="all" /><![endif]-->
-    
+ 
+    <!-- Styles - Common -->
+    <link href="/stylesheets/basestyles.css?20080610_1752" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/layout_shell.css?20080610_1752" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/layout_content.css?20080610_1752" rel="stylesheet" type="text/css" media="all"><link href="/stylesheets/screen/carousel.css?20080610_1752" rel="stylesheet" type="text/css" media="all">
+    <!-- /Styles - Common -->
 
-    <!-- /Styles -->
-
-    <!-- Javascript -->
-    <script src="/javascript/newser.js?20071114_1650" type="text/javascript"></script>
-    <script src="/javascript/googleformat.js?20071114_1650" type="text/javascript"></script>
-    <script src="/javascript/httprequest.js?20071114_1650" type="text/javascript"></script>
-    <script src="/javascript/prototype.js?20071114_1650" type="text/javascript"></script>
-    <script src="/javascript/scriptaculous.js?20071114_1650" type="text/javascript"></script>
-    <script src="/javascript/control.tabs.2.0.1.js?20071114_1650" type="text/javascript"></script>
+    <!-- Styles - Page-specific -->
     
-    <!-- /Javascript -->
+    <!-- /Styles - Page-specific -->
+    
+    <!-- Styles - Browser-specific -->
+    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/stylesheets/screen/ie6.css?20080610_1752" media="all" /><![endif]-->
+    <!--[if IE]><link rel="stylesheet" type="text/css" href="/stylesheets/screen/corners-ie.css?20080610_1752" media="all" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/stylesheets/thefastfeed/ie7.css?20080610_1752" media="all" /><![endif]-->
+    <!-- /Styles - Browser-specific -->
+
+    <!-- Javascript - Common -->
+    <script src="/javascript/newser.js?20080610_1752" type="text/javascript"></script>
+    <script src="/javascript/googleformat.js?20080610_1752" type="text/javascript"></script>
+    <script src="/javascript/httprequest.js?20080610_1752" type="text/javascript"></script>
+    <script src="/javascript/prototype.js?20080610_1752" type="text/javascript"></script>
+    <script src="/javascript/scriptaculous.js?20080610_1752&amp;load=builder,effects,dragdrop" type="text/javascript"></script>
+    <script src="/javascript/control.tabs.2.0.1.js?20080610_1752" type="text/javascript"></script>
+    <!-- /Javascript - Common -->
+
+    <!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+
+    <!-- Javascript - Page-specific -->
+    
+    <!-- /Javascript - Page-specific -->
     
 </head>
-
-<body id="section0">
+<body id="section0" onload="setLoaded();">
     <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
 <div>
 
 </div>
 
 
-<script src="/ScriptResource.axd?d=n2g2reTFlif-7ekY_5PT9U_rh_M3No3VncrlYAIobVSbXj2CtyIi3rnrJrEWHIu80&amp;t=633049089920000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=n2g2reTFlif-7ekY_5PT9aMjBdcQxVscF8hOxwEUTxplCVaSSeRgbZIDGlxqrQuNCKpGuWmzMX3pWtfRu3soTSQ2iywJrrUc5KdlWU-y4Oo1&amp;t=633432896322656250" type="text/javascript"></script>
         
         <div class="skipper">
             Skip to: <a href="#contentBounds">Content</a><br>
@@ -43,12 +86,9 @@
             </div>
         </div>
         
-
 <!-- BEGIN: Tacoda -->
-
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/16133/slf.js" language="JavaScript"></script>
-
+<script type="text/javascript" language="Javascript">var tcdacmd="dt";</script>
+<script type="text/javascript" language="JavaScript" src="http://an.tacoda.net/an/16133/slf.js"></script>
 <!-- END: Tacoda -->
         
 
@@ -81,7 +121,7 @@
 	if (OAS_version >= 11)
 	  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.highbeam.com/RealMedia/ads/adstream_mjx.ads/newser.com/privacy/1898618001@x04,Top,x05,Right,Right3?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.highbeam.com/RealMedia/ads/adstream_mjx.ads/newser.com/privacy/1590167175@x04,Top,x05,Right,Right3?"></script>
 <script language="JavaScript">
 <!--
 	document.write("");
@@ -104,34 +144,39 @@
                             
 
 <!-- BEGIN: Ads24x7Control -->
-
-<script language="JavaScript">OAS_AD( 'x04' );</script>
-
+<div id="Ad_Center1">
+    <script type="text/javascript" language="Javascript">OAS_AD( 'x04' );</script>
+</div>
 <!-- END: Ads24x7Control -->
                         </td>
                         <td>
                             
 
 <!-- BEGIN: Ads24x7Control -->
-
-<script language="JavaScript">OAS_AD( 'Top' );</script>
-
+<div id="Ad_Center1">
+    <script type="text/javascript" language="Javascript">OAS_AD( 'Top' );</script>
+</div>
 <!-- END: Ads24x7Control -->
                         </td>
                         <td>
                             
 
 <!-- BEGIN: Ads24x7Control -->
-
-<script language="JavaScript">OAS_AD( 'x05' );</script>
-
+<div id="Ad_Center1">
+    <script type="text/javascript" language="Javascript">OAS_AD( 'x05' );</script>
+</div>
 <!-- END: Ads24x7Control -->
                         </td>
                     </tr>
                 </tbody></table>
             </div><!-- /topAdGroup -->
         
+        <script language="javascript" type="text/javascript">var omniturePageName='Privacy';</script>
         <div id="pageBounds">
+                <div id="lightbox" style="position: absolute; background-color: #000; filter: alpha(opacity=50);
+                    opacity: 0.5; -moz-opacity: 0.5; top: 0%; left: 0%; z-index: 977775; width: 100%;
+                    height: 100%; display: none;">
+                </div>
             
 
 <!-- BEGIN: Header -->
@@ -140,87 +185,83 @@
 			<div id="logo"><a href="/"><span class="hide">Newser</span></a></div>
 			
 			<div id="searchContainer">
-			    <p>December 15, 2007 10:22:33 PM CST</p>
+			    <p>June 17, 2008 12:02:36 AM CDT</p>
                 
  
 <!-- BEGIN: Search -->
-    <div id="ctl00_Header1_Search1_PanelButton">
+
+<div id="ctl00_Header1_Search1_PanelButton">
 	
-	    <input name="ctl00$Header1$Search1$TextBoxSearch" type="text" id="ctl00_Header1_Search1_TextBoxSearch" class="default" size="45" value="Search Newser" onfocus="if (this.value == 'Search Newser') { this.className = 'active'; this.value = ''; }" onblur="if (this.value == '' || this.value == 'Search Newser') { this.className = 'default'; this.value = 'Search Newser'; }"> 
-	    <input type="image" name="ctl00$Header1$Search1$ButtonSearch" id="ctl00_Header1_Search1_ButtonSearch" title="Click to search" align="absmiddle" src="/images/masthead_search_button.gif" style="border-width:0px;">
-    
+    <input name="ctl00$Header1$Search1$TextBoxSearch" type="text" id="ctl00_Header1_Search1_TextBoxSearch" class="default" size="45" value="Search Newser" onfocus="if (this.value == 'Search Newser') { this.className = 'active'; this.value = ''; }" onblur="if (this.value == '' || this.value == 'Search Newser') { this.className = 'default'; this.value = 'Search Newser'; }"> 
+    <input type="image" name="ctl00$Header1$Search1$ButtonSearch" id="ctl00_Header1_Search1_ButtonSearch" title="Click to search" src="/images/btn_search_m.gif" align="top" style="border-width:0px;position: relative; top: -2px;">
+
 </div>
 
 <!-- END: Search -->
 			</div><!-- /searchContainer -->
-			
 			<div id="loginContainer">
  				<ul>
                    
                     
-				        <li><a href="Common/Controls/MasterPage/#" id="ctl00_Header1_ALogin" class="tmp" onclick="document.getElementById('ctl00_Header1_DivLoginWin').style.display = 'block';document.getElementById('ctl00_Header1_TextBoxEmail').focus();return false;">Login</a></li>
-				        <li class="last"><a href="/user.aspx">My Account</a></li>
+				        <li>
+				            <a href="/user.aspx">Register</a>
+				        </li>
+				        <li>
+				            <a href="Common/Controls/MasterPage/#" id="ctl00_Header1_ALogin" class="tmp" onclick="document.getElementById('ctl00_Header1_DivLoginWin').style.display = 'block';document.getElementById('ctl00_Header1_TextBoxEmail').focus();return false;">Login</a>
+				        </li>
+                        
+				            <li>
+				                <a id="ctl00_Header1_LoggedOutWhatsNew" href="/whatsnew.aspx" style="color:#FFFFFF;background-color:#3366FF;">What's New</a>
+				            </li>
+                        
+				        <li class="last">
+				            <a href="/settings.aspx">Settings</a>
+				        </li>
                     
 				</ul>
+
 			</div><!-- /loginContainer -->
-			<div class="weather">
-			
+			<div class="newsscore">
+                
+                
  
-<!-- BEGIN: Weather -->
+<!-- BEGIN: UserPoints -->
 
-<script>
-function zc() {
-    var zipcode = document.getElementById('zipcode').value
-    document.cookie = 'hbnlocation='+escape(zipcode)
-    document.getElementById('zipform').style.display='none'
-    var sURL = unescape(window.location.pathname);
-    window.location.href = sURL;
-}
-</script>
-<p>
-    <strong class="city">Chicago, IL (60601)&nbsp;</strong>
-    
-    
-    <a id="ctl00_Header1_Weather1_HyperLinkOmniture1" class="smaller" onclick="document.getElementById('zipform').style.display='block';var s=s_gi('highbeamnewser');s.tl(this,'o','Weather');return true;">(Change)</a>
-    
-        &nbsp;<img src="/images/weather/14.png" height="20" align="absmiddle">
-        &nbsp;31°
-    
-    </p><div id="zipform" style="display: none;" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'weatherbutton')">
-        Zip Code:
-        <input type="text" size="5" id="zipcode" name="zipcode"><br> 
-        <input type="submit" id="weatherbutton" value="Save" onclick="zc();return false;">
-        <input type="button" value="Cancel" onclick="document.getElementById('zipform').style.display='none'">
-    </div>
-<p></p>
+<span><a href="/Newser-Points-Preview.html">Learn about Newser Points »</a></span> 
 
-<!-- END: Weather -->
-			</div><br clear="all">
-            <div id="ctl00_Header1_DivLoginWin" style="display:none;z-index:5000;position:absolute;background:#fff;width:250px;margin-top:5px;border:2px solid #333;padding:10px;text-align:left;right:10px;">
+
+
+<!-- END: UserPoints -->
+			</div>
+		<br clear="all">
+            <div id="ctl00_Header1_DivLoginWin" style="display:none;z-index:7000;position:absolute;background:#fff;width:175px;margin-top:5px;border:2px solid #333;padding:10px;text-align:left;top:30px;right:0px;">
                     
                     <div id="ctl00_Header1_PanelLogin">
 	
-                        <b>Email:</b>
+                        <b>Email</b>
                         <br>
-                        <input name="ctl00$Header1$TextBoxEmail" type="text" id="ctl00_Header1_TextBoxEmail" style="width:200px;">
+                        <input name="ctl00$Header1$TextBoxEmail" type="text" id="ctl00_Header1_TextBoxEmail" style="width:160px;">
                         <p>
-                        <b>Password:</b>
+                        <b>Password</b>
                         <br>
-                        <input name="ctl00$Header1$TextBoxPassword" type="password" id="ctl00_Header1_TextBoxPassword" style="width:200px;">
-                        <br>
+                        <input name="ctl00$Header1$TextBoxPassword" type="password" id="ctl00_Header1_TextBoxPassword" style="width:160px;">
+                        
                         <a id="ctl00_Header1_LinkButtonForgot" href="javascript:__doPostBack('ctl00$Header1$LinkButtonForgot','')">Forgot Your Password?</a>
                         </p><p>
-                        <input type="submit" name="ctl00$Header1$ButtonLogin" value="Log In" id="ctl00_Header1_ButtonLogin">
+                        <input type="submit" name="ctl00$Header1$ButtonLogin" value="Log in" id="ctl00_Header1_ButtonLogin">
                         &nbsp;&nbsp;&nbsp;
                         <input type="submit" name="ctl00$Header1$ButtonClose" value="Close" id="ctl00_Header1_ButtonClose">
                     
 </p></div>
                 </div>
+            
+            
 		</div><!-- /bounds -->
 	</div><!-- /mastHead -->
 
 	<div id="mNav">
-		<div class="bounds">
+		<div class="bounds clearfix">
+		 <h2>News Sections</h2>
             
  
 <!-- BEGIN: SectionList -->
@@ -234,22 +275,43 @@ function zc() {
     
         <li id="mNavSection4"><a href="/section/4.html"><span>Politics</span></a></li>
     
+        <li id="mNavSection13"><a href="/section/13.html"><span>Crime &amp; Courts</span></a></li>
+    
         <li id="mNavSection5"><a href="/section/5.html"><span>Business</span></a></li>
     
         <li id="mNavSection6"><a href="/section/6.html"><span>Science &amp; Health</span></a></li>
     
         <li id="mNavSection7"><a href="/section/7.html"><span>Tech</span></a></li>
     
+        <li id="mNavSection9"><a href="/section/9.html"><span>Arts &amp; Living</span></a></li>
+    
         <li id="mNavSection8"><a href="/section/8.html"><span>Sports</span></a></li>
     
-        <li id="mNavSection9"><a href="/section/9.html"><span>Culture &amp; Society</span></a></li>
+        <li id="mNavSection101"><a href="/section/101.html"><span>All</span></a></li>
     
 </ul>
 
 <!-- END: SectionList -->
 		</div><!-- /bounds -->
 	</div><!-- /mNav -->
-
+<div id="specialsNav">
+    <div class="bounds clearfix">
+      <!-- BEGIN: SectionList -->
+      <h2>Newser Specials</h2>
+      <ul class="clearfix">
+        <li id="specialsNavSection100"><a href="/section/100.html"><span>Must Reads</span></a></li>
+        <li id="specialsNavSection12"><a href="/section/12.html"><span>Gossip</span></a></li>
+        <li id="specialsNavSection11"><a href="/section/11.html"><span>Pundits</span></a></li>
+        <li id="specialsNavSection10"><a href="/section/10.html"><span>Glossies</span></a></li>
+        <li id="specialsNavSection102"><a href="/section/102.html"><span>NY Times</span></a></li>
+        <li id="specialsNavSectionLocal"><a href="/localnews.aspx"><span>Local News</span></a></li>
+        <li id="specialsNavSectionThreads"><a href="/threads/101-1.html"><span>Threads</span></a></li>
+      </ul>
+      <!-- END: SectionList -->
+    </div>
+    <!-- /bounds -->
+  </div>
+  <!-- /specialsNav -->
 <!-- END: Header -->
 
             <div id="contentBounds">
@@ -258,28 +320,18 @@ function zc() {
 
     <div id="mainCol">
         
- 
-<!-- BEGIN: BoxStart -->
-
-<div class="box "> 
-    <b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-    
-        <div class="content ">
-    
-    
-<!-- END: BoxStart -->
 
             <h1>Newser Privacy Policy</h1>
-            <p>Please read this Privacy Policy (last revised as of July 24, 2007) before using this service. By continuing to use Newser Website.com, you acknowledge that you have read and agree to the terms of this policy. </p>
-            <p>HighBeam™ Research, Inc., the operator of www.Newser.com (the “Newser Website,” and collectively with HighBeam, referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the <a href="/terms.aspx">User Agreement</a> governing our services.  Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. </p>
+            <p>Please read this Privacy Policy (last revised as of March 12, 2008) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy. </p>
+            <p>Newser, LLC., the operator of www.Newser.com (the “Newser Website,” and collectively with its parent company, HighBeam™ Research, Inc., referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the <a href="/terms.aspx">User Agreement</a> governing our services.  Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. </p>
             <p>You should be aware that this Privacy Policy applies only to the Newser Website. Any websites linked to from the Newser Website, an advertisement or an article displayed on the site are governed by their own privacy policies.</p>
             <h2>What personally identifiable information do I provide to Newser, and how does Newser use it?</h2>
             <ul>
             <li>Personally identifiable information refers to any information that identifies or can be used to identify, contact or locate you. Newser collects only the personally identifiable information that you provide to us if you register as a registered user on the Newser Website, such as your name and e-mail address.</li>
-            <li>Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Website’s policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.<p></p>
-            </li><li>/li&gt;Newser may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us <a href="/contact.aspx?ContactUs=Privacy">here</a> or by using the unsubscribe link on any e-mail message you receive.<p></p>
+            <li>Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Website’s policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.</li>
+            <li>Newser may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us <a href="/contact.aspx?ContactUs=Privacy">here</a> or by using the unsubscribe link on any e-mail message you receive.</li>
             
-            </li><li>In order to improve and create a more customized experience, Newser associates your personally identifiable information with information about your use of the website.</li>
+            <li>In order to improve and create a more customized experience, Newser associates your personally identifiable information with information about your use of the website.</li>
             </ul>
             <h2>What other information is collected about me on the Newser Website and by whom?</h2>
             <ul>
@@ -306,17 +358,14 @@ function zc() {
             <ul>
             <li>We are very concerned about the security of customer data. We store your information securely, using industry-compliant encryption technology.</li>
             </ul>
-            <h2>How can I “opt out” of having my information collected or shared?</h2>
-            <ul>
-            <li>As part of our registration process, we give you important choices about receiving Newser special offers, newsletters, product updates, research tips and special third-party promotions. To simplify the process, we have automatically checked the opt-in box for you. You have the option of unchecking the boxes for the types of communications you do not want to receive from us. If you do not opt-out from receiving these communications about our site or third-party sites, we will send them to you. If you do not opt-out during registration, but later change your mind, you can email us <a href="mailto:Privacy@Newser.com">here</a> or you can click on the unsubscribe link in the e-mails you receive from us.</li>
-            </ul>
+          
             <h2>How will I know when there are changes to this Privacy Policy?</h2>
             <ul>
             <li>This Privacy Policy is subject to modification from time to time at Newser’s discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website.  The date of last revision to the policy is indicated at the top of the document.</li>
             </ul>
             <h2>What if I have questions that are not answered here?</h2>
             <p>If you have questions, you may contact:</p>
-            HighBeam Research, Inc.
+            Newser, LLC.
             <br>
             65 E. Wacker Place, Suite 400
             <br>
@@ -324,229 +373,169 @@ function zc() {
             <br>
             Attention:  General Counsel
             <p><a href="/contact.aspx">Or, use this form.</a></p>
-       
- 
-<!-- BEGIN: BoxEnd -->
-
-    
-        </div> <!-- /content -->
-    
-    <b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-    </div> <!-- /box -->
-
-<!-- END: BoxEnd -->
     </div> <!-- /mainCol -->
-        
-
+    
 <!-- BEGIN: RightRailFooter -->
-
 <div id="sideCol">
-    
- 
-<!-- BEGIN: BoxStart -->
-
-<div class="box "> 
-    <b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-    
-        <div class="content sec">
-    
-    
-<!-- END: BoxStart -->
-        <h3>Top Stories</h3>
-        <center>
-            <div style="border:1px solid #333;width:242px">
-                <script type="text/javascript" language="Javascript"> var section_id = 1 </script>
-                <script type="text/javascript" language="Javascript" src="http://services.newser.com/jss/feed.js"></script>
-            </div>
-        </center>
-        <br>
-    
- 
-<!-- BEGIN: BoxEnd -->
-
-    
-        </div> <!-- /content -->
-    
-    <b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-    </div> <!-- /box -->
-
-<!-- END: BoxEnd -->
-    
- 
-<!-- BEGIN: BoxStart -->
-
-<div class="box "> 
-    <b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-    
-        <div class="content ad">
-    
-    
-<!-- END: BoxStart -->
+    <div style="width: 300px; margin-bottom: 10px;">
+        <script type="text/javascript" language="Javascript" src="http://widgets.newser.com/javascript/WidgetHeadlineCall.js"></script>
+    </div>
+    <div class="ad">
         
 
 <!-- BEGIN: Ads24x7Control -->
-
-<script language="JavaScript">OAS_AD( 'Right' );</script>
-
-<!-- END: Ads24x7Control -->
-    
- 
-<!-- BEGIN: BoxEnd -->
-
-    
-        </div> <!-- /content -->
-    
-    <b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-    </div> <!-- /box -->
-
-<!-- END: BoxEnd -->
-    
- 
-<!-- BEGIN: TodaysMostPopular -->
-
- 
- 
-<!-- BEGIN: BoxStart -->
-
-<div class="box "> 
-    <b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-    
-        <div class="content sec clearfix">
-    
-    
-<!-- END: BoxStart -->
-         
-    <h2>Today's Most Popular</h2>
-    <ul id="tab_group_most_popular" class="tabs clearfix">
-        <li class="firstTab"><a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_LinkButtonStories" disabled="disabled" class="active"><span>Stories</span></a> </li>
-        <li><a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_LinkButtonThreads" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$RightRailFooter1$TodaysMostPopular1$LinkButtonThreads','')"><span>Threads</span></a></li>
-        
-    </ul>
-    <div class="tabPanels">
-    <div class="tabPanel">
-    
-            <ul>
-        
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_RepeaterItems_ctl01_HyperLinkName" class="headline" href="/story/13973.html">First Face Transplant Patient Smiles—Slightly</a><br>Dec 13, 07 3:00 PM CST
-            </li>
-        
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_RepeaterItems_ctl02_HyperLinkName" class="headline" href="/story/14178.html">Why Jodie Foster Finally Stepped 'Out'</a><br>7 hours, 20 minutes ago
-            </li>
-        
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_RepeaterItems_ctl03_HyperLinkName" class="headline" href="/story/13892.html">Dad Charged in Muslim Teen's Death</a><br>Dec 12, 07 10:40 AM CST
-            </li>
-        
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_RepeaterItems_ctl04_HyperLinkName" class="headline" href="/story/14179.html">Bill Declares Obama a 'Risk'</a><br>8 hours, 22 minutes ago
-            </li>
-        
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_RightRailFooter1_TodaysMostPopular1_RepeaterItems_ctl05_HyperLinkName" class="headline" href="/story/12453.html">10 Jobs That Just Don't Pay</a><br>7 hours, 22 minutes ago
-            </li>
-        
-            </ul>
-              
-    <p class="center">
-        <a href="/popular.aspx?listtype=S&amp;viewcounts=y"><b>View all »</b></a>
-    </p>
-    </div>  
-
+<div id="Ad_Center1">
+    <script type="text/javascript" language="Javascript">OAS_AD( 'Right' );</script>
 </div>
+<!-- END: Ads24x7Control -->
+    </div>
+    <div id="ctl00_ContentPlaceHolder1_RightRailFooter1_UpdatePanelTodaysMostPopular">
+	
+            
+<!-- BEGIN MostPopular -->
+<script language="javascript" type="text/javascript">
 
- 
-<!-- BEGIN: BoxEnd -->
+function changeTab(popularType){
+    $('tabPanels1').innerHTML = '<img src="/images/Loading.gif" alt="Loading..." style="margin-left:45px;padding: 20px;"/>';
+    var typeOfClick = "";
 
-    
-        </div> <!-- /content -->
-    
-    <b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-    </div> <!-- /box -->
+    if(popularType == 's'){
+        $('tabStories').className = "active";
+        $('tabThreads').className = "";
+        typeOfClick = "StoryTab";
+    }
+    else{
+        $('tabStories').className = "";
+        $('tabThreads').className = "active";
+        typeOfClick = "ThreadTab";
+    }
+    OmnitureCustomEvent('Most Popular Control: ' + typeOfClick)
+    sendCall("/controlpage.aspx?control=TodaysMostPopularContent&Type="+popularType+"&OMNITUREPAGENAME=Privacy", "getPopular_afterHTTP");
+}
+function getPopular_afterHTTP() {
+    if (http.readyState == 4) {
+        inCall = false;
+        $('tabPanels1').innerHTML = http.responseText;
+    }
+}
+</script>
 
-<!-- END: BoxEnd -->
 
-<!-- END: TodaysMostPopular -->
-    
- 
-<!-- BEGIN: BoxStart -->
 
-<div class="box "> 
-    <b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-    
-        <div class="content ad">
-    
-    
-<!-- END: BoxStart -->
+      <div class="notchedbox">
+      <h2 class="clearfix">Today's Most Popular</h2>
+
+      <div id="tabs">
+    <ul id="tab_group_most_popular" class="tabs clearfix">
+        <li class="firstTab"><a onclick="changeTab('s')" id="tabStories"><span>Stories</span></a></li>
+        <li><a onclick="changeTab('t')" id="tabThreads"><span>Threads</span></a></li>
+    </ul>
+
+            <div class="tabPanels" id="tabPanels1" style=" border-bottom: none;"><!--MostPopular Stories and Threads Placeholder-->
+                <img src="/images/Loading.gif" alt="Loading..." style="margin-left:45px;padding: 20px;">
+            </div><!-- /tabPanels -->
+    <script language="javascript" type="text/javascript">
+        changeTab('s');
+    </script>
+      </div><!-- /tabs -->
+      </div><!-- /notchedbox-->
+      <!-- END MostPopular -->
+
+        
+</div>
+    <div class="ad">
         
 
 <!-- BEGIN: Ads24x7Control -->
-
-<script language="JavaScript">OAS_AD( 'Right3' );</script>
-
+<div id="Ad_Center1">
+    <script type="text/javascript" language="Javascript">OAS_AD( 'Right3' );</script>
+</div>
 <!-- END: Ads24x7Control -->
-    
- 
-<!-- BEGIN: BoxEnd -->
-
-    
-        </div> <!-- /content -->
-    
-    <b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-    </div> <!-- /box -->
-
-<!-- END: BoxEnd -->
-</div>  <!-- /sideCol -->
-
+    </div>
+</div>
+<!-- /sideCol -->
 <!-- END: RightRailFooter -->
+
 
                 </div>
             </div>
             
- 
+
 <!-- BEGIN: Footer -->
+
+<div id="whatis">
+    <div class="bounds">
+        <div class="box">
+            <div class="content clearfix">
+                <h2>
+                    What is Newser?
+                </h2>
+                <div id="whatisoverview">
+                    <a href="http://www.siia.net/codies/2008/finalists.asp">
+                        <img src="/Images/2008_finalist_bw.gif" alt="2008 Codie Finalist" style="position: absolute; right: 20px; top: 15px;">
+                    </a>
+                    <p>
+                        Newser gives you more news in less time. We search for the best and most important
+                        stories all over the web, read them for you, and deliver concise and sharp summaries—along
+                        with links to the full text. Newser provides a way to stay on top of an ever-expanding
+                        horizon of news and opinion—politics, sports, business, trends, technology, personalities,
+                        crimes, and controversies. Newser keeps you not just better informed, but, with
+                        our signature graphic interface and smart condensed format, more enjoyably informed.
+                    </p>
+                    <p>
+                        <a href="/about.aspx">Learn more »</a>
+                    </p>
+                </div><!-- /whatisoverview -->
+            </div><!-- /content -->
+        </div><!-- box -->
+    </div><!-- /bounds -->
+</div><!--- /whatis -->
+
+<div class="hr">
+    <hr>
+</div>
+
 <div id="footer">
-		<div class="bounds">
-			<div class="hr"><hr></div>
-			<div class="box">
-				<b class="corners clearfix"><b class="tl"></b><b class="tr"></b></b>
-				<div class="content">
-					<div id="fNav">
-						<ul>
-							<li><a href="/about.aspx">About</a></li>
-							<li><a href="/help.aspx">Help</a></li>
-							<li><a href="/contact.aspx">Contact</a></li>
-							<li><a href="/terms.aspx">Terms of Use</a></li>
-							<li><a href="/privacy.aspx">Privacy Policy</a></li>
-							<li><a href="/rss.aspx">RSS</a></li>
-							<li><a href="/threads.aspx">Threads Index</a></li>
-                            
-							    <li><a href="http://blog.newser.com">Blog</a></li>
-                            
-							<li class="last"><a href="/widgets.aspx">Widgets</a></li>
-						</ul>
-					</div><!-- /fNav -->
-					<div id="copyright">© 2007 HighBeam™ Research, Inc. All rights reserved.</div>
-				</div>
-				<!-- /content -->
-				<b class="corners clearfix"><b class="bl"></b><b class="br"></b></b>
-			</div><!-- /box -->
-		</div><!-- /bounds -->
+    <div class="bounds">
+        <div class="box noborder" style="border: none;">
+            <div class="content">
+                <div id="fNav">
+                    <ul>
+                        <li><a href="/about.aspx">About</a></li>
+                        <li><a href="/help.aspx">Help</a></li>
+                        <li><a href="/contact.aspx">Contact</a></li>
+                        <li><a href="/terms.aspx">Terms of Use</a></li>
+                        <li><a href="/privacy.aspx">Privacy Policy</a></li>
+                        <li><a href="/rss.aspx">RSS</a></li>
+                        <li><a href="/threads/1-1.html">Threads Index</a></li>
+                        <li><a href="/widgets.aspx">Widgets</a></li>
+                        <li class="last"><a href="http://blog.newser.com/">Feedback Blog</a></li>
+                    </ul>
+                </div><!-- /fNav -->
+                <div id="copyright">
+                    ©
+                    2008
+                    Newser, LLC. All rights reserved.
+                </div>
+            </div><!-- /content -->
+        </div><!-- /box -->
+    </div><!-- /bounds -->
 </div><!-- /footer -->
+
 <!-- END: Footer -->
-            
+        </div><!-- /pageBounds -->
+    
 
-<!-- BEGIN: GoogleAnayltics -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-1055596-4";
-urchinTracker();
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
 </script>
-
-<!-- END: GoogleAnayltics -->
-            
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUHNTkyMzg4MQ9kFgJmD2QWBmYPZBYGAgEPFgIeB1Zpc2libGVoZAICDxYCHwBoZAIDDxYCHwBoZAIBEGRkFgQCCQ8WAh4EVGV4dAVdPHNjcmlwdCBsYW5ndWFnZT0iamF2YXNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgb21uaXR1cmVQYWdlTmFtZT0nUHJpdmFjeSc7PC9zY3JpcHQ+ZAILD2QWCgIBDxYCHwBoFgICBA9kFgICAQ8PFgYeCUZvcmVDb2xvcgn/////HglCYWNrQ29sb3IJ/2Yz/x4EXyFTQgIMZGQCAg9kFgQCAQ8WAh4Hb25jbGljawWYAWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9IZWFkZXIxX0RpdkxvZ2luV2luJykuc3R5bGUuZGlzcGxheSA9ICdibG9jayc7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0hlYWRlcjFfVGV4dEJveEVtYWlsJykuZm9jdXMoKTtyZXR1cm4gZmFsc2U7ZAIDD2QWAgIBDw8WBh8CCf////8fAwn/ZjP/HwQCDGRkAgMPDxYCHwBoZGQCBQ9kFgJmDxYCHgVzdHlsZQWdAWRpc3BsYXk6bm9uZTt6LWluZGV4OjcwMDA7cG9zaXRpb246YWJzb2x1dGU7YmFja2dyb3VuZDojZmZmO3dpZHRoOjE3NXB4O21hcmdpbi10b3A6NXB4O2JvcmRlcjoycHggc29saWQgIzMzMztwYWRkaW5nOjEwcHg7dGV4dC1hbGlnbjpsZWZ0O3RvcDozMHB4O3JpZ2h0OjBweDsWAgIBDxYCHwBoZAIHD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAILFhZmD2QWAmYPFQMBMQExBEhvbWVkAgEPZBYCZg8VAwEyATIFV29ybGRkAgIPZBYCZg8VAwEzATMCVVNkAgMPZBYCZg8VAwE0ATQIUG9saXRpY3NkAgQPZBYCZg8VAwIxMwIxMxJDcmltZSAmYW1wOyBDb3VydHNkAgUPZBYCZg8VAwE1ATUIQnVzaW5lc3NkAgYPZBYCZg8VAwE2ATYUU2NpZW5jZSAmYW1wOyBIZWFsdGhkAgcPZBYCZg8VAwE3ATcEVGVjaGQCCA9kFgJmDxUDATkBORFBcnRzICZhbXA7IExpdmluZ2QCCQ9kFgJmDxUDATgBOAZTcG9ydHNkAgoPZBYCZg8VAwMxMDEDMTAxA0FsbGQCBA9kFgRmD2QWCgINDxYCHwBnZAIPDxYCHwBnZAIQDxYCHwBnZAIRDxYCHwBnZAISDxYCHwBnZAIBDxYCHwBoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUiY3RsMDAkSGVhZGVyMSRTZWFyY2gxJEJ1dHRvblNlYXJjaMOWfLAMTslaEqvozjQPFY4ixTpp">
+</form>
+    
+    
+    
 
 <!-- BEGIN: OmnitureTag -->
 
@@ -580,17 +569,40 @@ src="http://highbeamnewser.122.2O7.net/b/ss/highbeamnewser/1/H.10--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 <!-- END: OmnitureTag -->
-        </div>
-        <!-- /pageBounds -->
     
 
+<!-- BEGIN: GoogleAnayltics -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-<!--
-Sys.Application.initialize();
-// -->
+_uacct = "UA-1055596-4";
+urchinTracker();
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
-</form>
+
+<!-- END: GoogleAnayltics -->
+    
+ 
+<!-- BEGIN: Rollovers -->
+<style>
+.overlay {
+    z-index:9777777;
+	left:0px;
+	top:0px;
+	margin:0;
+	padding:0;
+	position:absolute;
+}
+</style>
+
+<div id="div_iframe_overlay" class="overlay" style="display:none;" onmouseout="if(mouseLeaves(this,event)){hideOverlay('div_iframe_overlay');}">
+    <iframe id="iframe_overlay" frameborder="0" marginwidth="0" marginheight="0" width="780" height="358" scrolling="no" style="z-index:9777777;"></iframe>
+</div>
+
+<!-- END: Rollovers -->
+     
+        <img src="http://anat.tacoda.net/encore/1742/A1/ACCE/" width="0" height="0" border="0" alt="">
+     
+
 
 
 </body></html>
