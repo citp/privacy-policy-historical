@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113715id_/http%3A//www.thehut.com/hut/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617122638id_/http%3A//www.thehut.com/hut/privacy-policy.info) for the most accurate reproduction.*
 
-# The Hut.com - Privacy Policy
+# The Hut.com: Privacy Policy
 
 **This is a Secure Website**
 
@@ -24,4 +24,4 @@ In addition to the company's safeguards, your personal data is protected in the 
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [Contact us](https://www.thehut.com/hut/contact-us.info).
+If you have any queries on any aspect of the above policy, please [contact us](https://www.thehut.com/hut/customerQuery.secure?skeletonAccount=true) .
