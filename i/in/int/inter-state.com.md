@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219170429id_/http%3A//www.inter-state.com/index.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618003152id_/http%3A//www.inter-state.com/index.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Inter-State Studio - School Photography, Yearbooks and Student Planners
 
