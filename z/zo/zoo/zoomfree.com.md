@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoomfree.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623123737id_/http%3A//www.zoomfree.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomfree.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617200436id_/http%3A//www.zoomfree.com/pp.html) for the most accurate reproduction.*
 
 # Welcome To ZoomFree
 
-**[ZOOMFREE'S PRIVACY POLICY](https://web.archive.org/web/20070623123737id_/http%3A//www.zoomfree.com/pp.html)**
+**[ZOOMFREE'S PRIVACY POLICY](https://web.archive.org/web/20080617200436id_/http%3A//www.zoomfree.com/pp.html)**
 
 * * *
 
@@ -46,10 +46,10 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**  
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via [Email](mailto:jjb@netmgt.com).
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should contact us via [Email](mailto:support@zoomfree.com).
 
-[**[ACCEPT]**](https://web.archive.org/web/20070623123737id_/http%3A//www.zoomfree.com/signup.html)
+[**[ACCEPT]**](https://web.archive.org/web/20080617200436id_/http%3A//www.zoomfree.com/signup.html)
 
-Any questions regarding this pricay policyshould be directed to:
+Any questions regarding this privacy policy should be directed to:
 
-[ sales@zoomfree.com](mailto:jjb@netmgt.com)
+[ support@zoomfree.com](mailto:support@zoomfree.com)
