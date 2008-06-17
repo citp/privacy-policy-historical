@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130801id_/http%3A//www.nhscareers.nhs.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617045412id_/http%3A//www.nhscareers.nhs.uk/privacy.shtml) for the most accurate reproduction.*
 
 # NHS Careers
 
@@ -38,7 +38,7 @@ Log files are files created by a web or proxy server which contains all of the a
 
 ### Accessibility
 
-The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](https://web.archive.org/web/20071225130801id_/http%3A//www.nhscareers.nhs.uk/contact.aspx).
+The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](https://web.archive.org/web/20080617045412id_/http%3A//www.nhscareers.nhs.uk/contact.aspx).
 
 ### Standards compliance
 
@@ -46,7 +46,7 @@ Our aim is that all pages comply with Priority 1 and Priority 2 guidelines of th
 
 ### Navigation
 
-A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A Site guide and a [search facility](https://web.archive.org/web/20071225130801id_/http%3A//www.nhscareers.nhs.uk/search.aspx) have also been provided to help with finding information.
+A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A Site guide and a [search facility](https://web.archive.org/web/20080617045412id_/http%3A//www.nhscareers.nhs.uk/search.aspx) have also been provided to help with finding information.
 
 ### Adobe PDF files
 
