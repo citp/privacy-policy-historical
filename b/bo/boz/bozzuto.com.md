@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429071040id_/http%3A//www.bozzuto.com/cs/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617182612id_/http%3A//www.bozzuto.com/cs/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bozzuto Homes
+# Privacy Policy | Bozzuto
 
 **Privacy Policy Our Commitment to Privacy**
 
