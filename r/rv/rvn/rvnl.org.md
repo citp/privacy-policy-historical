@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rvnl.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217031128id_/http%3A//www.rvnl.org/others/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvnl.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617071551id_/http%3A//www.rvnl.org/privacy.php) for the most accurate reproduction.*
 
-# About RVNL
+# Rail Vikas Nigam Ltd.
 
 At Rail Vikas Nigam Limited we take your right to privacy very seriously. Please read on for more details about our Privacy Policy. 
 
@@ -12,11 +12,11 @@ We will use your personal information for the purpose for which you provided it 
 
   * Send you information from time to time about Rail Vikas Nigam Limited and the fields in which we operate which we think may be of interest to you. If you do not want us to use your information to contact you in this way, please email us at [info@rvnl.org](mailto:info@rvnl.org)
   * Share your details with other Railway Public Sector Undertakings. If you do not want us to use your information in this way, please email us at [info@rvnl.org](mailto:info@rvnl.org)
-  * (c) Share your details with third parties who offer products and services in which we think you may be interested. If you do not want us to use your information to contact you in this way, please email us at [info @rvnl.org](mailto:info@rvnl.org).
+  * (c) Share your details with third parties who offer products and services in which we think you may be interested. If you do not want us to use your information to contact you in this way, please email us at [info @rvnl.org](mailto:info@rvnl.org). 
 
 
 
-If at any time you would like us to remove your information or change it because it is incorrect, please contact us at [info@rvnl.org](mailto:info@rvnl.org) . . Please note that if you post any of your personal information in the public areas of the Site, such as in online bulletin boards, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in the public areas of the Site. You may submit feedback to us and if you choose to do so, we may use such feedback as if it were our property including using it for marketing purposes. We may contact you for further information on your feedback. 
+If at any time you would like us to remove your information or change it because it is incorrect, please contact us at [info@rvnl.org](mailto:info@rvnl.org) . Please note that if you post any of your personal information in the public areas of the Site, such as in online bulletin boards, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in the public areas of the Site. You may submit feedback to us and if you choose to do so, we may use such feedback as if it were our property including using it for marketing purposes. We may contact you for further information on your feedback. 
 
 **Links**  
 Our Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of it when they leave our Site and to read the privacy statements of each and every website that collects personally identifiable information from them. This privacy policy applies solely to the information collected on this Site. 
