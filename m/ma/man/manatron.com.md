@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217051309id_/http%3A//www.manatron.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617224332id_/http%3A//www.manatron.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Manatron | Privacy Policy
 
