@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smdp.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005060200id_/http%3A//www.smdp.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smdp.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617161424id_/http%3A//www.smdp.com/about/privacy.php) for the most accurate reproduction.*
 
 # Santa Monica Daily Press
 
