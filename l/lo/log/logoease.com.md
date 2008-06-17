@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoease.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217192357id_/http%3A//www.logoease.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoease.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617121040id_/http%3A//www.logoease.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Logo Ease Privacy Policy
 
