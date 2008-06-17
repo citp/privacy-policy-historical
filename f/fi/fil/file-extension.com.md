@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218160111id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617031311id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
 
-# File Extension Library
+# File-Extension Library
 
 ### Collection and use of information
 
@@ -52,6 +52,8 @@ Uniblue Systems Ltd. processes personal information only for the purposes for wh
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+Uniblue Systems Ltd has achieved the prestigious Microsoft Gold Certified Partner Status, in recognition of its expertise, excellence and consistency in the delivery of system performance, security and stability software.
 
   
 
