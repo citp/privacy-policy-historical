@@ -1,96 +1,86 @@
-> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206170639id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617032842id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
 
 # MySportsClubs | Privacy Policy
 
-|  | 
+### Introduction
 
-[](http://www.mysportsclubs.com/trialmembership/default.htm?WT.ac=LeftSide2Week)  
-  
----  
-|  | Privacy Policy  
----  
-   
-  
-**Town Sports International** has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the following Web sites: **mysportsclubs.com** or **NYSC.com** or **bostonsportsclub.com** or **washingtonsports.com** or **philadelphiasports.com.**
+This privacy policy governs the information collection practices of Town Sports International U.S. based sports clubs and websites (Town Sports), including: mysportsclubs.com,NYSC.com, bostonsportsclub.com, washingtonsports.com, philadelphiasports.com, joinnosweat.com, companiesgetfit.com, and rockthescales.com. The policy below explains how Town Sports collects and uses your information, and when we share that information with third parties. By providing information to us, you agree to the terms and conditions of this privacy policy.
 
-Information Automatically Logged  
-We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is also used to gather broad demographic information. For example, we might use your IP address to collect information concerning the most popular fitness classes for the clubs located within a particular geographic area.
+### Collection of Information
 
- **
+Guest and Member Registration Forms, Surveys, Sweepstakes and Contests
 
-Cookies  
+We collect personal information from you when you visit our clubs and websites, register as a guest or member, fill out a member or online profile, complete a survey, or participate in one of our sweepstakes, contests or other promotions.
 
+We may collect the following information in connection with these activities:
 
-**Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide you with additional Web site features. 
-
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether. However, we recommend that you leave them turned on.
-
-Our site uses cookies to deliver content specific to your interests. For example, we might use a cookie to store the most recent parameters you used to search for a group fitness class so that you do not have to reenter that information the next time you do a search.
-
- **
-
-Registration Forms , Surveys and Contests   
+  * name, address and phone numbers 
+  * email address(es) 
+  * user name, password and club membership number 
+  * interests and preferences 
+  * date of birth 
+  * demographic information, including gender, marital status, and income level 
+  * emergency contact information 
+  * billing information 
+  * employer name, address and phone number 
+  * friend's contact information to offer free guest memberships
 
 
-**Our site's registration form requires users to give us contact information (name, email and postal address), unique identifiers (club membership number), and demographic information (zip code, age or income level). 
 
-Our online surveys ask visitors for contact information (email address), unique identifiers (club membership number), and demographic information (zip code, age, or income level). Also, from time to time, we run contests on our site in which we ask visitors for contact information (email address), unique identifiers (club membership number), and demographic information (zip code, age or income level).
+Passive Information Collection Online
 
-The customer's contact information may be used to ship purchases, or to get in touch with the customer when necessary.
+We automatically collect information online such as your Internet Service Provider and IP address, the pages that you visit, your browser type, your computer operating system, the site that you report having been referred from, and time of access. We store this information in a web server log. We use this information to improve your experience on our website and to aid in the diagnosis of website problems. Your IP address also is used to gather broad demographic information. For example, we might use your IP address to collect information concerning the most popular fitness classes for the clubs located within a particular geographic area.
 
-Unique identifiers (such as club membership numbers) are collected from the website visitors to verify the user's identity.
+We also collect information through "cookies." A "cookie" is a small file containing a string of characters that is sent to your computer when you visit one of our websites. When you visit the website again, the cookie allows that site to recognize your browser and customize your experience. For example, we might use a cookie to store the most recent parameters you used to search for a group fitness class so that you do not have to reenter that information the next time you do a search. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site by offering them content that we think they might be interested in, and by displaying the content according to their preferences.
+Collection of Information from Children
 
-We may also provide information about you to others who wish to reach you for promotional purposes. At the point where we are collecting this information, we will provide you with a way to opt out of having your information used in this way.
+We do not seek information directly from children. If you are under 13, you should not provide us with any information without the involvement of a parent or guardian. A parent or guardian may register a child age 14 or over to visit or join one of our clubs.
 
- **
+### How We Use Your Information
 
-Special Relationships  
+If you provide your personal information to us, we may use that information to service your membership, send you news, information or promotions related to our sports clubs or other products and services. In some instances, you may receive information or promotions about products or services offered by another company.
 
+At any time you may choose to opt-out from receiving promotional materials from us. You can opt-out of receiving emails by clicking on an "opt-out" link provided at the bottom of an email that you receive from us.
 
-**We provide various links to other websites from our site. For example, our Career Opportunities section is provided by HotJobs.com. While visiting these areas, the privacy policy of the content sponsor is in effect. You should read the privacy policies of these sites carefully before you use them. Town Sports International takes no position with regard to these policies and has no control over these policies. Therefore Town Sports International disclaims all liability for the use that any of these sites may make of your private information. **
+Third Parties
 
-Security  
+We do not rent, sell, or share personal information about you with other people or companies except in the situations described below.
 
-
-**This site has extensive security measures in place to protect the loss, misuse, and alteration of the information under our control. Our hosting provider supplies physical security regarding the site as well as firewall protection to prevent unauthorized access. We use secure protocols whenever sensitive information is being viewed or updated. **
-
-Children's Guidelines   
-
-
-**We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children. To the extent that we are aware of the age of the user at our site, we will deem a child to be any user under the age of 18. 
-
-  1. We will _not_ collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
-  2. We will _not_ give the child access to any chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent. 
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
-    * Respond directly to the child's request on a one-time basis and not use that information to recontact the child for other purposes. 
-    * Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
-    * Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to recontact the child for other purposes. 
-    * We will provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
-  4. We will provide the parent a description of the specific types of personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
-  5. We will provide notice to children in age-appropriate terms of what personally identifiable information is to be collected. 
-  6. We will _not_ provide any links to websites that are unsuitable for children. 
-  7. We will encourage children to get their parent's permission before sharing personal information online.
-
- **
-
-Data Quality/Access   
+  * Subcontractors. From time to time we may share personal information with subcontractors or other unrelated third parties that provide us with services. These services may include, among other things, the creation or maintenance of our databases, or research and analysis concerning the people who request information from us. 
+  * Law Enforcement. We fully cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of Town Sports, you, or one of our other customers. 
+  * Sharing Your Information as Permitted by Law. We may share your personal information with others as required by, or permitted by, law. This may include sharing your personal information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights or defend against legal claims against us. 
+  * Transfers. In the unlikely event that Town Sports (or substantially all of its assets), or one of Town Sports’ clubs or websites is acquired, your personal information may be transferred to the acquiring company. In such a situation, you will be provided with notice that a transfer of your personal information has occurred. 
+  * Demographic Information. As discussed above, we sometimes collect demographic information about our members and visitors. This information is shared with advertisers on an aggregate basis.
 
 
-**This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email via the [Contact Us page](https://web.archive.org/feedback.htm). 
-  2. You can visit the [Member Services page](https://web.archive.org/memonly/about/terms.htm). 
-  3. You can send mail to the following postal address: _Town Sports International, 5 Penn Plaza, 4th Floor, New York, NY 10001._
+### Other Websites
 
- **
+Our website, or our emails, may link to websites unrelated to Town Sports. For example, our Career Opportunities section is provided by HotJobs.com. It is also possible that unrelated websites or emails from unrelated parties may link to our website. We are not responsible for the content or the privacy practices employed by any third party websites. We encourage you to read the privacy policies of these websites before transmitting any personal information. Town Sports has no control over these policies and therefore disclaims all liability for how these sites may use your personal information.
 
-Contacting the Website  
+### Security
+
+Our websites employ security measures designed to protect the loss, misuse, and alteration of the information under our control. Our hosting provider supplies physical security regarding the site as well as firewall protection to prevent unauthorized access. We use secure protocols online whenever sensitive information is being viewed or updated.
+
+### Modification of Your Personal information
+
+Once you have provided information to Town Sports, we may store and maintain that information indefinitely. If you would like to modify or correct the information you previously provided, you may:
+
+  1. Send an email via the [Contact Us page](http://www.mysportsclubs.com/feedback.htm). 
+  2. Visit the [Member Services page](http://www.mysportsclubs.com/memonly/about/terms.htm). 
+  3. Send a letter to the following postal address:
 
 
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please submit a form via the [Contact Us page.](https://web.archive.org/feedback.htm)  
-  
-  
-|  |  |   
----|---|---
+
+> _Town Sports International  
+>  5 Penn Plaza  
+> New York, NY 10001_
+
+### Changes to this policy
+
+We reserve the right to modify or amend this policy at any time by posting the revised privacy policy on our website. Any material changes in how we use or share your Personal information will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise.
+
+### Contact Us
+
+If you have any questions about this privacy statement, the practices of Town Sports or your dealings with our websites, please submit a form via the [Contact Us page](http://www.mysportsclubs.com/feedback.htm).
