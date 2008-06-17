@@ -1,32 +1,7 @@
-> *The following text is extracted and transformed from the altdesire.com privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912093814id_/http%3A//www.altdesire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdesire.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617182510id_/http%3A//www.altdesire.com/privacy.php) for the most accurate reproduction.*
 
-# AltDesire – The Quality Dating Service
+# Altdesire
 
-|   
----  
-  
-Privacy Policy covers altdesire the attitude to personal information collected by altdesire system during using the site www.altdesire.com. This policy also covers altdesire the treatment of any personal information that altdesire may collect on partner's sites or receive from business partners. 
+Privacy Policy covers the altdesire.com attitude to personal information collected by the altdesire.com system during using the site www.altdesire.com. This policy also covers the altdesire.com treatment of any personal information that altdesire.com may collect on partner's sites or receive from business partners. Because altdesire.com is an e-commerce-driven Web-conferencing platform, the company's services are directed to adults who possess validated credit card information, and are not marketed to individuals under the age of 18. Certain portions of altdesire.com, which may contain content considered offensive to some, are inaccessible to individuals under the age of 18 via a standard "credit card" wall, as advocated by the Communications Decency Act. For those portions, that may be accessible to individuals under the age of 18, such as the altdesire.com home page and other areas presenting non-offensive content, altdesire.com has no intention of collecting any personally identifiable information (that is, name, address, telephone number, or email address) from individuals under eighteen years of age. At the time of registration process you provide us with your first and last name, country, city, state, zip code, e-mail address, your IP-address, logs from your browser, cookie information, pages you requested. Once you register and sign in to our services, you are not anonymous to us. You may update your personal information anytime and supply additional information about yourself. altdesire.com automatically receives and records to server logs information from your browser including your IP-address, cookie information and pages you requested. altdesire.com does not collect and keep any information about user's credit cards. All payments are processed by our payment partner – the 2Checkout.com payment processing system. altdesire.com does not rent, sell or share your personal information with anybody, except processing banks and/or centers during authorizing your credit card and executing money transfer from your account to altdesire.com altdesire.com does not support using any unsolicited e-mail. Any use of such e-mail by participants and/or altdesire.com clients will cause application of sanctions from our side. altdesire.com does not bear the responsibility for dispatches of the advertising information from the Internet-shops to their buyers. Purchasing Platinum membership means getting access to the database, which contain personal information of the website members. We have NO trial period. The refund operation is valid only during 24 hours after the transaction was made. No refund will be given for unused portions of your subscription period. The refund operation also implies removing a profile from the website. altdesire.com has the right to change the conditions of this statement. In the case of changes we will inform you with a special notice on altdesire.com. If you have any questions about this Privacy Policy or our privacy practices, please email to [support@altdesire.com](mailto:support@altdesire.com)
 
-altdesire collects personally identifiable information at the time of registration process, visiting the site or using altdesire services. Also altdesire may receive personal information from business partners. 
-
-At the time of registration process you provide us with your first and last name, country, city, state, zip code, e-mail address, your IP-address, logs from your browser, cookie information, pages you requested. Once you register and sign in to our services, you are not anonymous to us. You may update your personal information anytime and supply additional information about yourself. altdesire automatically receives and records to server logs information from your browser including your IP-address, cookie information and pages you requested. altdesire do not collect and keep any information about user's credit cards. All payments pass through 2Checkout.com. 
-
-altdesire uses information for protecting the participants of transactions (banks, processing centers, payment systems) from fraud and unauthorized access, executing your requests for purchasing goods and services, making altdesire services more comfortable and providing you with information about any changes in altdesire services. 
-
-Non-disclosure of information  
-altdesire does not rent, sell or share your personal information with anybody except processing banks and/or centers during authorizing your credit card and executing money transfer from your account to altdesire. 
-
-Spam  
-altdesire does not support using any unsolicited e-mail. Any use of such e-mail by participants and/or altdesire clients will cause application of sanctions from our side. Sanctions for use of a spam are stipulated in the agreement. 
-
-altdesire does not bear the responsibility for dispatches of the advertising information from the Internet-shops to their buyers. 
-
-Refund policy  
-Purchasing Platinum membership means getting access to the user's databases, which content their personal information. We HAVE NO trial period. 
-
-The refund operation is valid only during 24 hours since the Transaction. 
-
-Changes  
-altdesire has the right to change the conditions of this statement. 
-
-In the case of changes we will inform you immediately with special notice on altdesire site. 
+[](https://web.archive.org/)
