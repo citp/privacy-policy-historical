@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214065402id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618002115id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site
 
@@ -72,11 +72,11 @@ The Alzheimer's Association collects information on our Web site. We do not sell
 
 _Donations._ When you make an online donation to us, it’s possible your name may be on some mailing lists shared with other reputable organizations. As a donor, you may request to have your name removed from these mailing lists. See the Your Choice section below to learn how.
 
-_E-mail Information Requests and Questions._ When we respond to your e-mail requests or questions, we may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
+_E-mail Information Requests and Questions._ When we respond to your e-mail requests or questions, we may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
 
-_E-News:_ When you sign up to receive Alzheimer's Association e-news, we collect your e-mail address and may also notify you about other information we think you will find valuable. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
+_E-News:_ When you sign up to receive Alzheimer's Association e-news, we collect your e-mail address and may also notify you about other information we think you will find valuable. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
 
-_Event Registration._ The Association provides online registration for our major events, such as the education and research conferences and our Memory Walk. We may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
+_Event Registration._ The Association provides online registration for our major events, such as the education and research conferences and our Memory Walk. We may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
 
 _Write Congress:_ We track the number of letters sent to members of Congress on a password-protected Web site. At this time, we do not use personal information you provide us.
 
