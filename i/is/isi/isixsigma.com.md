@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216110807id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617114530id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma.com Privacy Policy
 
 | [](http://www.isixsigma-magazine.com/)  
 ---  
+[**iSixSigma Live!**](http://live.isixsigma.com/)  
+[**Speaker Proposals**](http://www.isixsigma.com/speaker-proposals-website)  
   **Free Newsletters!     
   [ **Sign Up Now!**](http://www.isixsigma.com/newsletter/)  
   [Manage Subscriptions](http://www.isixsigma.com/newsletter/manage.asp) **  
@@ -11,11 +13,9 @@
   [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
   [ **Cert. Practice Test**](http://www.isixsigma.com/exam/)  
   [ **Problem Solving Wizard**](http://www.isixsigma.com/me/wizard/)  
-  [ **ISSSP Info**](http://www.isixsigma.com/ISSSPInfo2007_nav)  
+  [ **ISSSP Info**](http://www.isixsigma.com/ISSSPInfo2008_nav)  
   [Ldrshp. Conf. Arizona](http://www.isixsigma.com/ISSSPLC2008)  
   
-  [ **Six Sigma IQ Home**](http://www.isixsigma.com/sixsigmaiq)  
-  [6s Conferences](http://www.isixsigma.com/six_sigma_conferences/six_sigma_conferences_summits.asp)  
   **Channels**    
   [ **Europe**](http://europe.isixsigma.com/)  
   [ **Financial Services**](http://finance.isixsigma.com/)  
@@ -95,10 +95,10 @@ iSixSigma.com will not sell or rent your personally identifiable information to 
 
 
  **Cookies**  
-iSixSigma.com may set and access iSixSigma.com cookies on your computer. iSixSigma.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma.com's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma.com cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20071216110807id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma.com may set and access iSixSigma.com cookies on your computer. iSixSigma.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma.com's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma.com cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20080617114530id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma.com gives you the ability to edit your iSixSigma.com Account Information and preferences at any time. You may request deletion of your iSixSigma.com account, opt-in or opt-out of any of our lists by notifying iSixSigma.com using our [contact form](https://web.archive.org/web/20071216110807id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
+iSixSigma.com gives you the ability to edit your iSixSigma.com Account Information and preferences at any time. You may request deletion of your iSixSigma.com account, opt-in or opt-out of any of our lists by notifying iSixSigma.com using our [contact form](https://web.archive.org/web/20080617114530id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma.com Account Information is protected for your privacy and security.
@@ -107,42 +107,23 @@ Your iSixSigma.com Account Information is protected for your privacy and securit
 iSixSigma.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20071216110807id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20080617114530id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
 ---  
 | 
 
-BMG
+**BMG**
 
-Upgrade Your Skills
+**Upgrade Your Skills**
 
 | 
 
-Advanced Lean
-
-New Course puts you on the path to becoming a Lean Master.
-
-Starts Feb 4 in Denver >> Read more  
+**Master Black Belt Certification**  
+**Get the industry's most Flexible, Robust Program for Professionals**  
   
 ---|---  
-|  | 
-
-J
-
-| 
-
-URΛN 
-
-|   | 
-
-**_ Lean Six Sigma Public Workshop _**_  
-February 2008 - Atlanta, GA  
-Become one of your organization's 'vital few'. Get Juran Certified. _
-
-|   |    
----|---|---|---|---|---|---  
 | 
 
 ** SIGMAPRO**
@@ -156,33 +137,6 @@ Become one of your organization's 'vital few'. Get Juran Certified. _
 ---|---  
 | 
 
-_**NEXT SIGMA**_
-
-| 
-
-SigmaWorks® Professional  
-  
----|---  
-  
-**A complete software application for Six Sigma**  
-  
-| 
-
-PIVOTAL RESOURCES  
-The Experts in Six Sigma Strategy and Implementation
-
-| **Corporate Consulting & Training  
-Black Belt, Green Belt and Champion  
-_Click Here to Learn More >>_**  
----|---  
-  
-VILLANOVA UNIVERSITY
-
-[Your Route to a Higher Salary!](http://www.isixsigma.com/r.asp?id=4386&r=http://www.isixsigma.com/uagree/privacy.asp)  
-Earning your Six Sigma Master Certificate is the surest and fastest way to gain professional recognition and boost your paycheck.  
-  
-| 
-
 M O T O R O L A   
 U N I V E R S I T Y
 
@@ -191,24 +145,36 @@ practitioners of Six Sigma in the world
 Public Training & Certification  
 **Click here to take a free Six Sigma Lesson**  
 ---|---  
-| .  
----  
-| IIL  
-International Institute for Learning, Inc | 10% discount on Lean Six Sigma Courses   
-Fundamentals / Green Belt / Black Belt   
-Classroom or eLearning (use code WSS7 at checkout)  
----|---  
-.  
 | 
 
-Florida Atlantic University  
-& Key Performance  
-Quality education paired with industry knowledge 
+J
 
-|  Online Six Sigma Certification Courses  
-Green Belt * Black Belt  
-State-of-the-art * Interactive * Professional * Top instructors   
----|---  
+| 
+
+URΛN 
+
+|   | 
+
+**_ Lean Six Sigma Public Workshops _**_  
+_Atlanta, GA - Sept 2008 _  
+Become one of your organization's 'vital few'. Get Juran Certified. _
+
+|    
+---|---|---|---|---  
+  
+HOWARD UNIVERSITY
+
+Now offering Process Simulation !  
+
+
+4 weeks + 1 cost saving project + 1 mentor + 1 caring instructor = 1 Marketable Certified Lean Six Sigma Black Belt  
+  
+WINSTON SALEM STATE UNIVERSITY
+
+Now offering Process Simulation !  
+
+
+4 weeks + 1 cost saving project + 1 mentor + 1 caring instructor = 1 Marketable Certified Lean Six Sigma Black Belt  
   
 | _THE UNIVERSITY OF_  
 _TEXA_ _S_  
@@ -219,6 +185,17 @@ AT AUSTIN |  |
   
   
 ---|---|---  
+  
+| .  
+---  
+| 
+
+Find us on LinkedIn
+
+| Join the iSixSigma Network  
+and Connect with Other Six Sigma Pros  
+---|---  
+.  
   
 Download the [iSixSigma Toolbar](http://www.isixsigma.com/toolbar/) for 1-Click access. Search Your Way. Everyday. Without Delay.  
 [](http://www.isixsigma.com/toolbar/)
