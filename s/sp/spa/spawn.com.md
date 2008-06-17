@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233921id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617201506id_/http%3A//www.spawn.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # SPAWN.COM >> INFO >> PRIVACY POLICY
 
@@ -35,7 +35,7 @@ Registration is required in order to shop at the Spawn Store, to join the McFarl
 **PARENTAL RIGHTS**  
 You may review any personal information we have collected about your child, request that we delete some or all of the information, and/or prohibit us from further collecting or using any information from your child by submitting a Parental Access Request to us. The Parental Access Request form may be downloaded by clicking on the following link.
 
-[**Parental Access Request form**](https://web.archive.org/web/20071210233921id_/http%3A//spawn.com/info/parentalaccess.pdf) (Adobe PDF, 306kb)
+[**Parental Access Request form**](https://web.archive.org/web/20080617201506id_/http%3A//www.spawn.com/info/parentalaccess.pdf) (Adobe PDF, 306kb)
 
 Information that we collect from our users is maintained by the Web Department. Parental Access Request forms may be submitted to us at the following address.
 
