@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051905id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617132233id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TenTonHammer
+# Privacy Policy | Ten Ton Hammer
 
 **Keeping Your Personal Information Safe**
 
@@ -39,3 +39,6 @@ Ten Ton Hammer is committed to providing members with a Site that respects their
 **Licenses**
 
 _Ten Ton Hammer Audio Player_ based on [Audio Player Wordpress plugin](http://www.1pixelout.net/code/audio-player-wordpress-plugin/) and used [under license](http://creativecommons.org/licenses/by/2.0/).
+
+  
+
