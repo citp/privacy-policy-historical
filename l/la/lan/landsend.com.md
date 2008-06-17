@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214061626id_/http%3A//www.landsend.com/cd/fp/help/0%2C%2C1_36877_36883_36979___%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617205313id_/http%3A//www.landsend.com/cd/fp/help/0%2C%2C1_36877_36883_36979___%2C00.html) for the most accurate reproduction.*
 
 # Lands' End
 
