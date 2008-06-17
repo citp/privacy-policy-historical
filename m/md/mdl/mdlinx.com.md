@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009180719id_/http%3A//www.mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617085031id_/http%3A//www.mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Medical Information, Medical Research, Medical Dictionary, Medical News for Physicians
 
