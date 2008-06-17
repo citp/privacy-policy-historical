@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216054351id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617091357id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # DirectStarTV Privacy Policy
 
@@ -20,7 +20,7 @@ Personal information is collected only when users voluntarily register at Direct
 
 If you sign-up for DIRECTV service, it is necessary for us to share your information with DIRECTV in order to fulfill your service request. DIRECTV's Privacy Policy can be found on DIRECTV.com. 
 
-Your information will not be released, rented or sold to Third Parties for marketing purposes. Occasionally, DirectStarTV or a sister company such as DIRECTV may make special offers available to DirectStarTV customers. 
+Occasionally, we may share your contact information with affiliated companies, in order for them to contact you regarding relevant products, services, and special offers. Out of respect for your privacy, we will always require those affiliated companies to abide by our Privacy Policy and they will always provide you the opportunity to opt out of receiving those communications. 
 
 If you are already registered with DirectStarTV but no longer wish to receive messages from us, or you wish to correct/update information provided to us, please let us know using the contact information at the bottom of this page. 
 
@@ -47,7 +47,7 @@ DirectStarTV reserves the right to change this policy. If we do make changes, th
 **How to Contact Us**
 
 You may contact us via the following methods:  
-Email: [comments(at)DirectStarTV.com  
+Email: [comments @DirectStarTV.com  
 ](mailto:comments@DirectStarTV.com) Phone: 1-866-379-4009  
 Mailing Address: 15009 Lancaster Highway, Charlotte, NC 28277
 
