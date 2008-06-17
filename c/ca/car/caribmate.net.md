@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caribmate.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225204642id_/http%3A//www.insureme.com/Cobrand/ClassicPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribmate.net privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618015709id_/http%3A//www.insureme.com/Cobrand/ClassicPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # InsureMe - Privacy Policy
 
 This is the privacy policy ("Privacy Policy") for the InsureMe.com site (the "Site"). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms & Conditions](https://web.archive.org/web/20071225204642id_/http%3A//www.insureme.com/Cobrand/ClassicTermsConditions.aspx?) , which govern your use of the Site in general. 
+This Privacy Policy is incorporated into, and part of, the [Terms & Conditions](https://web.archive.org/web/20080618015709id_/http%3A//www.insureme.com/Cobrand/ClassicTermsConditions.aspx?) , which govern your use of the Site in general. 
 
 **Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site. 
 
