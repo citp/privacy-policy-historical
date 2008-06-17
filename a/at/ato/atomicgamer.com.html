@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atomicgamer.com privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217033758id_/http%3A//www.atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atomicgamer.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617161150id_/http%3A//www.atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
@@ -10,6 +10,7 @@ AtomicGamer - Privacy Policy</title>
 <link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/includes/root.css" title="sheet" type="text/css" media="screen">
 <script language="JavaScript" src="/js/customize.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/browse.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/features.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/popup.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/management.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/misc.js" type="text/javascript"></script>
@@ -29,7 +30,25 @@ AtomicGamer - Privacy Policy</title>
 <area href="http://www.ugo.com/" alt="UGO" shape="circle" coords="920,53 40">
 </map>
 
-<div id="header"><a href="http://www.atomicgamer.com/"><img src="/layouts/AtomicGamer_Grunge/images/logo.jpg" style=" width: 987px; height: 106px;" alt="AtomicGamer" title="AtomicGamer" border="0" usemap="#logoMap"></a></div>
+<div id="header">
+	<img src="/layouts/AtomicGamer_Grunge/images/logo.jpg" style=" width: 987px; height: 106px;" alt="AtomicGamer" title="AtomicGamer" border="0" usemap="#logoMap">	
+	<div id="search">
+		<form method="get" action="/search.php">
+			<input type="hidden" name="searchProcess" value="1">
+			<input type="text" id="searchText" name="search" value="Search" size="14" maxlength="50" style="width: 100px; margin-right: 3px; color: #BBBBBB;" onfocus="if (this.value == 'Search') { document.getElementById('searchTypeSelect').style.color='#000000'; this.value = ''; this.style.color = '#000000' }" onblur="if (this.value == '') { document.getElementById('searchTypeSelect').style.color='#BBBBBB'; this.value = 'Search'; this.style.color = '#BBBBBB' }"> 
+			<select id="searchTypeSelect" name="searchType" style="color: #BBBBBB;" onfocus="this.style.color = '#000000';">
+			<option>Any Type</option>
+			<option>Headlines</option>
+<option>Games</option>
+<option>Modifications</option>
+<option>Companies</option>
+<option>Articles</option>
+<option>Files</option>
+			</select>		
+			<input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Search">
+		</form>
+	</div>
+</div>
 
 
 <div id="leftColumn">
@@ -241,7 +260,7 @@ AtomicGamer - Privacy Policy</title>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-K"><span>K</span></li>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-L"><span>L</span></li>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-M"><span>M</span></li>
-<li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-n"><span>n</span></li>
+<li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-N"><span>N</span></li>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-O"><span>O</span></li>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-P"><span>P</span></li>
 <li><input type="checkbox" onclick="updateBrowseItems();" id="A to Z-Q"><span>Q</span></li>
@@ -290,14 +309,110 @@ AtomicGamer - Privacy Policy</title>
 	</ul>
 	<br>
 		
-	<div id="bannerSideLeft"><iframe name="bannerSideLeft" border="0" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="#000000" scrolling="no" src="http://banner.atomicgamer.com/atomicgamer/default600.html"></iframe></div>	<br>
+	 <div id="bannerSideLeft"><iframe name="bannerSideLeft" border="0" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="#000000" scrolling="no" src="http://banner.atomicgamer.com/atomicgamer/default600.html"></iframe></div> 	<br>
 	
 	<div id="affiliates">
 </div><br>
 	
 </div>
 
-<div id="bannerTop"><iframe name="bannerTop" border="0" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="#000000" scrolling="no" src="http://banner.atomicgamer.com/atomicgamer/default.html"></iframe></div>
+ <div id="bannerTop"><iframe name="bannerTop" border="0" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="#000000" scrolling="no" src="http://banner.atomicgamer.com/atomicgamer/default.html"></iframe></div> 
+<div id="rightColumn">
+	
+	<div id="login">
+	<img src="/layouts/AtomicGamer_Grunge/images/loginRightColumn.gif" style=" width: 212px; height: 25px;" alt="Login" title="Login" border="0" class="rightColumnHeader">			<form method="post" action="http://www.atomicgamer.com/privacyPolicy.php">
+			<input type="hidden" name="login" value="1">
+			<table width="202" border="0" cellpadding="0" cellspacing="0" style="width: 202px; margin: 0px 5px 5px;">
+				<tbody><tr>
+					<td width="80"><strong>Username:</strong></td>
+					<td width="122"><input type="text" name="username" size="16" style="width: 120px;"></td>
+				</tr>
+				<tr>
+					<td><strong>Password:</strong></td>
+					<td><input type="password" name="password" size="16" style="width: 120px;"></td>
+				</tr>
+			</tbody></table>
+			<table width="202" border="0" cellpadding="0" cellspacing="0" style="width: 202px; margin: 0px 5px;">
+				<tbody><tr>
+				  <td width="20"><input type="checkbox" name="remember" value="1"></td>
+					<td>Remember Login?</td>
+					<td width="22"><input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Login">
+</td>
+				</tr>
+			</tbody></table>
+			</form>
+
+			<ul>
+			<li><a href="/register.php">Register</a></li>
+			<li>Lost <a href="/lostUsername.php">Username</a> / <a href="/lostPassword.php">Password</a></li>
+			</ul>
+		
+			
+	</div>
+		
+	<div>
+	<img src="/layouts/AtomicGamer_Grunge/images/hottestFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Hottest Files" title="Hottest Files" border="0" class="rightColumnHeader">		<ul class="fileList">
+		<li><a href="/file.php?id=64626">Flyff - Fly For Fun / 9th...</a></li>
+<li><a href="/file.php?id=65145">Bid for Power Final v2 Fu...</a></li>
+<li><a href="/file.php?id=65428">World of Warcraft 2.3.0 F...</a></li>
+<li><a href="/file.php?id=67198">Flyff: Fly for Fun / 11th...</a></li>
+<li><a href="/file.php?id=28343">Wolfenstein: Enemy Territ...</a></li>
+<li><a href="/file.php?id=64978">Painkiller: Overdose Demo</a></li>
+<li><a href="/file.php?id=64980">unofficialFO2patch.exe</a></li>
+<li><a href="/file.php?id=28752">f2patch.exe</a></li>
+<li><a href="/file.php?id=67719">Rappelz Epic 4 Client (US...</a></li>
+<li><a href="/file.php?id=64755">Age of Empires III: The A...</a></li>
+<li><a href="/file.php?id=61672">Demo.rar</a></li>
+<li><a href="/file.php?id=62477">OpenArena v0.7.0</a></li>
+<li><a href="/file.php?id=30291">falche2.zip</a></li>
+<li><a href="/file.php?id=63257">World in Conflict Demo</a></li>
+<li><a href="/file.php?id=63046">OpenArena 0.7.1 Patch</a></li>
+		</ul>
+	</div>
+	
+	<div>
+	<img src="/layouts/AtomicGamer_Grunge/images/newestFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Newest Files" title="Newest Files" border="0" class="rightColumnHeader">		<ul class="fileList">
+		<li><a href="/file.php?id=70094">Spore Creature Creator Tr...</a></li>
+<li><a href="/file.php?id=70092">Happy Tree Friends False...</a></li>
+<li><a href="/file.php?id=70093">Happy Tree Friends False...</a></li>
+<li><a href="/file.php?id=70091">Battlefield: Bad Company...</a></li>
+<li><a href="/file.php?id=70090">Sango 2 v1.5 English Reta...</a></li>
+<li><a href="/file.php?id=70089">Spore Creature Creator Tr...</a></li>
+<li><a href="/file.php?id=70087">Myth War II Online v1.0.4...</a></li>
+<li><a href="/file.php?id=70088">Myth War II Online v1.0.4...</a></li>
+<li><a href="/file.php?id=70086">Warhammer Online Age of R...</a></li>
+<li><a href="/file.php?id=70084">Guitar Hero: Aerosmith "D...</a></li>
+<li><a href="/file.php?id=70085">Guitar Hero: Aerosmith "D...</a></li>
+<li><a href="/file.php?id=70083">Battlefield: Bad Company...</a></li>
+<li><a href="/file.php?id=70080">Project Origin "Remnant"...</a></li>
+<li><a href="/file.php?id=70081">Project Origin "Penthouse...</a></li>
+<li><a href="/file.php?id=70079">X Motor Racing Demo v1.07</a></li>
+		</ul>
+	</div>	
+	
+	<div>
+	<img src="/layouts/AtomicGamer_Grunge/images/hostedFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Hosted Files" title="Hosted Files" border="0" class="rightColumnHeader">		<ul class="fileList">
+			<li><a href="/directory.php?id=1259">BeyondUnreal</a></li>
+			<li><a href="/directory.php?id=2599">Civilization Fanatics' Center</a></li>
+			<li><a href="/directory.php?id=1533">Doomworld</a></li>
+			<li><a href="/directory.php?id=1770">Gamedesign.net</a></li>
+			<li><a href="/directory.php?id=1940">Liberated Games</a></li>
+			<li><a href="/directory.php?id=1941">LinuxGames</a></li>
+			<li><a href="/directory.php?id=2075">No Mutants Allowed</a></li>
+			<li><a href="/directory.php?id=2704">Totalwar.org</a></li>
+			<li><a href="/directory.php?id=3705">Zelda Dungeon</a></li>
+		</ul>
+	</div>	
+	
+	<div>
+		<img src="/layouts/AtomicGamer_Grunge/images/3ddRightColumn.gif" style=" width: 212px; height: 25px;" alt="3D Downloads?" title="3D Downloads?" border="0" class="rightColumnHeader">		<div style="border-style: none; padding: 5px;">
+			Expecting to see a file page somewhere on the gaming file site 3D Downloads?<br><br>
+			In our efforts to improve the quality of our sites, we have merged everything from 3D Downloads onto our gaming site, AtomicGamer. Not to worry - all of the content is here, organized better, and also now held together by an improved search engine.<br><br>
+			We have redirected you to a location that should be pretty close to what you need. If you bear with us, we think you'll find AtomicGamer's file section to be even better than what we had on 3D Downloads. Thanks, and enjoy!
+		</div>
+	</div>
+</div>
+
 <div id="content">
 	<img src="/layouts/AtomicGamer_Grunge/images/headers/CH_Privacy_Policy.png" style=" width: 595px; height: 25px;" alt="Privacy Policy" title="Privacy Policy" border="0" class="headerImage">	
 Here at AtomicGamer we are dedicated to making sure your private information stays private.  Any time we ask to collect any of this kind of information, we'll link to this Privacy Policy and will adhere to the policy in all cases.
@@ -330,142 +445,15 @@ AtomicGamer displays advertising that leads to third-party sites.  AtomicGamer i
 
 <div id="browse"></div>
 
-<div id="rightColumn">
-	
-	<div id="login">
-	<img src="/layouts/AtomicGamer_Grunge/images/loginRightColumn.gif" style=" width: 212px; height: 25px;" alt="Login" title="Login" border="0" class="rightColumnHeader">
-				<form method="post" action="http://www.atomicgamer.com/privacyPolicy.php">
-			<input type="hidden" name="login" value="1">
-			<table width="202" border="0" cellpadding="0" cellspacing="0" style="width: 202px; margin: 0px 5px 5px;">
-				<tbody><tr>
-					<td width="80"><strong>Username:</strong></td>
-					<td width="122"><input type="text" name="username" size="16" style="width: 120px;"></td>
-				</tr>
-				<tr>
-					<td><strong>Password:</strong></td>
-					<td><input type="password" name="password" size="16" style="width: 120px;"></td>
-				</tr>
-			</tbody></table>
-			<table width="202" border="0" cellpadding="0" cellspacing="0" style="width: 202px; margin: 0px 5px;">
-				<tbody><tr>
-				  <td width="20"><input type="checkbox" name="remember" value="1"></td>
-					<td>Remember Login?</td>
-					<td width="22"><input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Login">
-</td>
-				</tr>
-			</tbody></table>
-			</form>
-
-			<ul>
-			<li><a href="/register.php">Register</a></li>
-			<li><a href="/lostLogin.php">Lost Login</a></li>
-			</ul>
-		
-			
-	</div>
-	
-	<div>
-		<img src="/layouts/AtomicGamer_Grunge/images/3ddRightColumn.gif" style=" width: 212px; height: 25px;" alt="3D Downloads?" title="3D Downloads?" border="0" class="rightColumnHeader">		<div style="border-style: none; height: 200px; padding: 5px; overflow: auto;">
-			Expecting to see a file page somewhere on the gaming file site 3D Downloads?<br><br>
-			In our efforts to improve the quality of our sites, we have merged everything from 3D Downloads onto our gaming site, AtomicGamer. Not to worry - all of the content is here, organized better, and also now held together by an improved search engine.<br><br>
-			We have redirected you to a location that should be pretty close to what you need. If you bear with us, we think you'll find AtomicGamer's file section to be even better than what we had on 3D Downloads. Thanks, and enjoy!
-		</div>
-	</div>
-	
-	<div id="search">
-		<form method="get" action="/search.php">
-		<input type="hidden" name="searchProcess" value="1">
-		<table width="202" border="0" cellpadding="0" cellspacing="0" style="width: 202px; margin: 0px 5px;">
-			<tbody><tr>
-				<td><img src="/layouts/AtomicGamer_Grunge/images/searchHeader.gif" style=" width: 75px; height: 20px;" alt="Search" title="Search" border="0"></td>
-				<td><input type="text" name="search" size="14" maxlength="50" style="width: 100px; margin-right: 3px;"></td>				
-				<td><input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Search">
-</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td align="right">
-					<select name="searchType">
-					<option>Any Type</option>
-					<option>Headlines</option>
-<option>Games</option>
-<option>Modifications</option>
-<option>Companies</option>
-<option>Articles</option>
-<option>Files</option>
-					</select>
-				</td>
-				<td>&nbsp;</td>
-			</tr>
-		</tbody></table>
-		</form>
-	</div>
-	
-	<div>
-	<img src="/layouts/AtomicGamer_Grunge/images/hottestFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Hottest Files" title="Hottest Files" border="0" class="rightColumnHeader">		<ul class="fileList">
-		<li><a href="/file.php?id=64626">Flyff - Fly For Fun / 9th...</a></li>
-<li><a href="/file.php?id=50">Archlord Client</a></li>
-<li><a href="/file.php?id=65428">World of Warcraft 2.3.0 F...</a></li>
-<li><a href="/file.php?id=65145">Bid for Power Final v2 Fu...</a></li>
-<li><a href="/file.php?id=65184">Crysis Single Player Demo</a></li>
-<li><a href="/file.php?id=63046">OpenArena 0.7.1 Patch</a></li>
-<li><a href="/file.php?id=60785">Flyff - Fly For Fun / 7th...</a></li>
-<li><a href="/file.php?id=38432">00 - Complete Soundtrack....</a></li>
-<li><a href="/file.php?id=62477">OpenArena v0.7.0</a></li>
-<li><a href="/file.php?id=64888">Call of Duty 4: Modern Wa...</a></li>
-		</ul>
-	</div>
-	
-	<div>
-	<img src="/layouts/AtomicGamer_Grunge/images/newestFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Newest Files" title="Newest Files" border="0" class="rightColumnHeader">		<ul class="fileList">
-		<li><a href="/file.php?id=65996">Forgotten Hope v2 for Bat...</a></li>
-<li><a href="/file.php?id=65994">Dark Messiah of Might and...</a></li>
-<li><a href="/file.php?id=65995">Warhammer 40K Dawn of War...</a></li>
-<li><a href="/file.php?id=65991">Gothic 3 v1.5.2 Unofficia...</a></li>
-<li><a href="/file.php?id=65992">Warhammer 40K Dawn of War...</a></li>
-<li><a href="/file.php?id=65993">Bionic Commando Movie #5:...</a></li>
-<li><a href="/file.php?id=65990">The Witcher Demo</a></li>
-<li><a href="/file.php?id=65989">Ballerium Client v1.00.93</a></li>
-<li><a href="/file.php?id=65987">Boulder Dash Rocks 'Plane...</a></li>
-<li><a href="/file.php?id=65988">Darkeden Open Beta Client</a></li>
-		</ul>
-	</div>	
-	
-	<div>
-	<img src="/layouts/AtomicGamer_Grunge/images/hostedFilesRightColumn.gif" style=" width: 212px; height: 25px;" alt="Hosted Files" title="Hosted Files" border="0" class="rightColumnHeader">		<ul class="fileList">
-		<li><a href="/directory.php?id=1259">beyondunreal</a></li>
-<li><a href="/directory.php?id=1152">civfanatics</a></li>
-<li><a href="/directory.php?id=1533">doomworld</a></li>
-<li><a href="/directory.php?id=1674">faction</a></li>
-<li><a href="/directory.php?id=1685">forge</a></li>
-<li><a href="/directory.php?id=1747">fwstudios</a></li>
-<li><a href="/directory.php?id=1770">gamedesign</a></li>
-<li><a href="/directory.php?id=1921">games-fusion</a></li>
-<li><a href="/directory.php?id=1940">liberatedgames</a></li>
-<li><a href="/directory.php?id=1941">linuxgames</a></li>
-<li><a href="/directory.php?id=2055">mariotendo</a></li>
-<li><a href="/directory.php?id=2075">nma-fallout</a></li>
-<li><a href="/directory.php?id=2282">oblivionsource</a></li>
-<li><a href="/directory.php?id=2313">qeradiant</a></li>
-<li><a href="/directory.php?id=2351">ravensoft</a></li>
-<li><a href="/directory.php?id=2406">relicnews</a></li>
-<li><a href="/directory.php?id=2460">shrapnelgames</a></li>
-<li><a href="/directory.php?id=2461">sports-gaming</a></li>
-<li><a href="/directory.php?id=2596">strategy-gaming</a></li>
-<li><a href="/directory.php?id=2802">telefragged</a></li>
-<li><a href="/directory.php?id=1173">totalwar</a></li>
-<li><a href="/directory.php?id=3476">unrealism</a></li>
-<li><a href="/directory.php?id=3675">volitionwatch</a></li>
-<li><a href="/directory.php?id=3705">zeldadungeon</a></li>
-		</ul>
-	</div>	
-</div>
+<div class="clearing"></div>
 
 <div id="footer">
-<span><img src="/layouts/AtomicGamer_Grunge/images/button.gif" style=" width: 88px; height: 31px;" alt="AtomicGamer Button" title="AtomicGamer Button" border="0"></span>
-© 1997-2007 TeleFragged LLC, AtomicGamer. All trademarks used are properties of their respective owners. All rights reserved.
+<span class="button"><img src="/layouts/AtomicGamer_Grunge/images/button.gif" style=" width: 88px; height: 31px;" alt="AtomicGamer Button" title="AtomicGamer Button" border="0"></span>
+<span class="subscribe">Subscribe:<br> <a href="/rssFeeds.php?type=Articles">Articles</a> | <a href="/rssFeeds.php?type=Files">Files</a></span>
+© 1997-2008 TeleFragged LLC, AtomicGamer. All trademarks used are properties of their respective owners. All rights reserved.
 <br>
-<a href="/privacyPolicy.php">Privacy Policy</a> | <a href="/contact.php">Contact</a>
+<a href="/privacyPolicy.php">Privacy Policy</a> | 
+<a href="/contact.php">Contact</a>
 </div>	
 
 </div>
@@ -476,6 +464,7 @@ AtomicGamer displays advertising that leads to third-party sites.  AtomicGamer i
 _uacct = "UA-563912-1"; 
 urchinTracker();
 </script>
+<script type="text/javascript">loadDrag(); startFeatures();</script>
 
 
 </body></html>
