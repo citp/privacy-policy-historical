@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lankasexclips.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215032518id_/http%3A//www.lankasexclips.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lankasexclips.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617163615id_/http%3A//www.lankasexclips.com/privacy.php) for the most accurate reproduction.*
 
 # Lanka Sex Clips Lanka Sex Videos Lankan Teens SL sex Sri Lanka xxx Sexy Lanka Girls :: Privacy Policy
 
@@ -56,4 +56,4 @@ Third Parties' Practices
 
   This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Lanka Sex Clips Lanka Sex Videos Lankan Teens SL sex Sri Lanka xxx Sexy Lanka Girls does not own or control, or does not employ or manage. 
 
-**Public Videos:** 608 |  **Private Videos:** 1 |  **Watched Videos:** 1.394.471 |  **Members:** 3748 |  **Online:** 61 guests, 8 members 
+**Public Videos:** 1987 |  **Private Videos:** 24 |  **Watched Videos:** 6.623.421 |  **Members:** 14590 |  **Online:** 82 guests, 55 members 
