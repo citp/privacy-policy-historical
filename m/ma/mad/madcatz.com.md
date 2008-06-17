@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213051155id_/http%3A//www.madcatz.com/Default.asp%3FPage%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617053325id_/http%3A//www.madcatz.com/Default.asp%3FPage%3D51) for the most accurate reproduction.*
 
 # Privacy Policy
 
