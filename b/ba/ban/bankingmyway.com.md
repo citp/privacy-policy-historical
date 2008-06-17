@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224165651id_/http%3A//www.bankingmyway.com/%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617184956id_/http%3A//www.bankingmyway.com/%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D56) for the most accurate reproduction.*
 
-# BankingMyWay.com - Privacy Policy
+# Privacy Policy | BankingMyWay.com
 
 BankingMyWay.com, LLC ('BankingMyWay'), values the privacy of each user who accesses our website. We have adopted this Internet Privacy and Security Policy ('Policy') to disclose our data collection and disclosure policies and practices for this website and all related web pages (the 'Site').
 
@@ -16,7 +16,7 @@ The Site may contain links to other websites over which we have no control. Bank
 
 Personal Information. BankingMyWay collects personal information from users only on a voluntary basis. When purchasing goods and services from the Site, we ask each user to provide items such as the user's name, address, e-mail address, telephone number, facsimile number, and credit card information. Each purchaser will have a username and password associated with their personal information.
 
-We use your personal information to provide certain products and services you request through the Site, to operate and improve the Site, to improve existing or introduce new services, and to create a positive user experience. From time-to-time, we may also use information we gather to inform you of new products or services; however you may opt-out of such communications if you prefer not to receive them. You may also opt out of any opt-in email lists to which you subscribed. To opt-out of any such email communications from BankingMyWay, please follow the opt-out instructions in the email or send your request to opt-out to This e-mail address is being protected from spam bots, you need JavaScript enabled to view it '; document.write( '' ); document.write( addy_text71722 ); document.write( '' ); //-->n This e-mail address is being protected from spam bots, you need JavaScript enabled to view it 
+We use your personal information to provide certain products and services you request through the Site, to operate and improve the Site, to improve existing or introduce new services, and to create a positive user experience. From time-to-time, we may also use information we gather to inform you of new products or services; however you may opt-out of such communications if you prefer not to receive them. You may also opt out of any opt-in email lists to which you subscribed. To opt-out of any such email communications from BankingMyWay, please follow the opt-out instructions in the email or send your request to opt-out to This e-mail address is being protected from spam bots, you need JavaScript enabled to view it '; document.write( '' ); document.write( addy_text66334 ); document.write( '' ); //-->n This e-mail address is being protected from spam bots, you need JavaScript enabled to view it 
 
 We will use telephone numbers only to contact you with information regarding purchases or other requests.
 
@@ -62,4 +62,4 @@ This Policy is governed by the laws of the State of Wisconsin, without regard to
 
 You may view your personal information online through your individual account. You may change your personal information by editing your account online or by contacting us at This e-mail address is being protected from spam bots, you need JavaScript enabled to view it 
 
-Please feel free to contact us with questions and comments regarding this Policy at This e-mail address is being protected from spam bots, you need JavaScript enabled to view it '; document.write( '' ); document.write( addy_text90753 ); document.write( '' ); //-->n This e-mail address is being protected from spam bots, you need JavaScript enabled to view it 
+Please feel free to contact us with questions and comments regarding this Policy at This e-mail address is being protected from spam bots, you need JavaScript enabled to view it '; document.write( '' ); document.write( addy_text16386 ); document.write( '' ); //-->n This e-mail address is being protected from spam bots, you need JavaScript enabled to view it 
