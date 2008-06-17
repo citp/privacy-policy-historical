@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218074521id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617232946id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: The Peninsula Hotels, Luxury Hotels in Asia and USA
 
@@ -8,7 +8,7 @@
 [To Plan A Meeting or Event](https://web.archive.org/meetings/index.html)|   
 Portraits of Peninsula|   
 Concierge Choice|   
-[Gift Certificates](https://web.archive.org/web/20071218074521id_/http%3A//www.peninsula.com/gift_certificates.html) |   
+[Gift Certificates](https://web.archive.org/web/20080617232946id_/http%3A//www.peninsula.com/gift_certificates.html) |   
 [News Centre](http://newscenter.peninsula.com/)|   
 [E-Brochures](https://web.archive.org/ebrochures.html)|   
 [Your Feedback](https://web.archive.org/email.html)|   
