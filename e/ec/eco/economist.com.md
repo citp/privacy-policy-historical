@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214192521id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617034611id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
@@ -22,7 +22,7 @@
 [](https://web.archive.org/research)  
 |  |  [Articles by subject](https://web.archive.org/research/articlesBySubject/)  
 [Backgrounders](https://web.archive.org/research/backgrounders/)  
-[Surveys](https://web.archive.org/surveys/)  
+[Special Reports](https://web.archive.org/specialreports/)  
 [Economics A-Z](https://web.archive.org/research/Economics/)  
 [Style guide](https://web.archive.org/research/StyleGuide/)  
   
@@ -33,7 +33,6 @@
 |  |  [Management  
 Reading](https://web.archive.org/business/globalexecutive/reading)  
 [Business Education](https://web.archive.org/business/globalexecutive/education)  
-[Executive Dialogue](https://web.archive.org/business/globalexecutive/dialogue)  
   
 |  |   
 ---|---|---|---|---  
@@ -47,7 +46,7 @@ Reading](https://web.archive.org/business/globalexecutive/reading)
 ---|---|---|---|---  
   
   
-|  |  [Free registration](https://web.archive.org/about/moreinfo.cfm)  
+|  |  [Free registration](https://web.archive.org/members/members.cfm?act=registration)  
 [Web subscriptions](https://web.archive.org/subscriptions/)  
 [Print subscriptions](https://web.archive.org/subscriptions/?print=yes)  
 [Academic offers](https://web.archive.org/academic/)  
@@ -95,13 +94,12 @@ Books, diaries and more](http://www.economistshop.com/asp/default.asp?promotion_
 ---|---|---|---|---  
   
 [](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
-|  |  [Economist.com](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)  
-[The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
-[Global Agenda](https://web.archive.org/help/DisplayHelp.cfm?folder=663358#What_is_The_Global_Agenda)  
-[Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)  
-[Media Directory](https://web.archive.org/mediadirectory)  
-[Advertising info](http://ads.economist.com/)  
-[Job opportunities](http://mmm.economist.com/jobs/index.html)  
+|  |  [Economist.com](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)   
+[The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)   
+[Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)   
+[Media Directory](https://web.archive.org/mediadirectory)   
+[Advertising info](http://ads.economist.com/)   
+[Job opportunities](http://www.economistgroup.com/working_with_us/job_opportunities/index.html)   
   
 |  |   
 ---|---|---|---|---  
