@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2007-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070827055427id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617153441id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Trafficonomy (Pty) Ltd Privacy Policy
 
