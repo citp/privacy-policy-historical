@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012205850id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617164728id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
 
 # About Smart Bear | Privacy Policy
 
@@ -14,7 +14,7 @@ Cisco Systems®
   
 ### Introduction
 
-Smart Bear, Inc. ("Smart Bear") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of February 16, 2007. Any questions regarding this policy should be directed by email to [privacy@Smartbearsoftware.com](mailto:privacy@Smartbearsoftware.com). You may also contact Smart Bear at 12885 Research Blvd, Suite 209B, Austin, TX 78750. The following discloses Smart Bear's information gathering and dissemination practices for its website. 
+Smart Bear, Inc. ("Smart Bear") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of February 16, 2007. Any questions regarding this policy should be directed by email to [unsubscribe@smartbearsoftware.com](mailto:unsubscribe@smartbearsoftware.com). You may also contact Smart Bear at 12885 Research Blvd, Suite 209B, Austin, TX 78750. The following discloses Smart Bear's information gathering and dissemination practices for its website. 
 
 ### Information Collected and Received
 
@@ -59,4 +59,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ### Opt-Out
 
-Smart Bear's site provides users the opportunity to opt-out of receiving communications from Smart Bear. To opt-out of receiving our communications, you can (i) send email to remove@Smartbearsoftware.com; or (ii) send postal mail to: 12885 Research Blvd, Suite 209B, Austin, TX 78750.
+Smart Bear's site provides users the opportunity to opt-out of receiving communications from Smart Bear. To opt-out of receiving our communications, you can (i) send email to unsubscribe@smartbearsoftware.com; or (ii) send postal mail to: 12885 Research Blvd, Suite 209B, Austin, TX 78750.
