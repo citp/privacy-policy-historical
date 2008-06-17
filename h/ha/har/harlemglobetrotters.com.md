@@ -1,28 +1,41 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207204042id_/http%3A//www.harlemglobetrotters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617183743id_/http%3A//www.harlemglobetrotters.com/privacypolicy) for the most accurate reproduction.*
 
-# Harlem Globetrotters Privacy Policy
+# The Official Site of the Harlem Globetrotters: Privacy Policy
 
-  
-**HARLEMGLOBETROTTERS.COM PRIVACY POLICY**  
-Effective Date: February 2, 2002 
+This is the web site of Harlem Globetrotters.  
+Our postal address is   
+400 E. Van Buren 300  
+Phoenix, AZ 85260
 
-Harlem Globetrotters International, Inc., appreciates the feedback it receives from visitors to our website and is very sensitive to the privacy concerns of those visitors. This privacy policy explains what information we obtain and how we use the information that we receive online. 
+We can be reached via e-mail at [info@harlemglobetrotters.com](mailto:info@harlemglobetrotters.com)  
+or you can reach us by telephone at 602-258-0000
 
-Harlemglobetrotters.com does not automatically collect personal information from visitors to the site. We do not use "cookies," or digital information that many web sites store on the hard drives of their visitors' computers so that they can custom-tailor future interactions with those visitors. If we begin to use this technology in the future, we will update this privacy policy. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
-Harlemglobetrotters.com uses information collected through sweepstakes registrations, promotions and contests to learn about our audience and to obtain valuable feedback about our products and services. We use email addresses to notify people of upcoming games and other promotions. We do not share this information with any third parties. 
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and .
 
-Harlemglobetrotters.com does not permit children under the age of 13 to register for promotions that require submission of personally identifiable information. While we encourage kids to learn about the Harlem Globetrotters from our web site and we hope that they enjoy the games and puzzles in the KIDS COURT, it is the policy of Harlem Globetrotters International Inc. that visitors under 13 years of age should not submit any personal information to our web site. We believe that parents and/or guardians should supervise their children's online activities. We encourage concerned parents to utilize readily available software tools to ensure that their children are only exposed to kid-friendly sites and that their children are prevented from disclosing their name, address and other personally identifying information online. 
+With respect to cookies: We do not set any cookies. 
 
-Harlemglobetrotters.com provides links to third party web sites that may have different policies with regard to information collection. Please review the privacy policies of these sites to learn more about what information they collect and how they use it. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-If you have questions about the Harlemglobetrotters.com privacy statement, please contact: 
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-Harlem Globetrotters International Inc.  
-400 E. Van Buren St., Ste. 300  
-Phoenix, AZ 85004-2257  
-Phone: 602-258-0000  
-Fax: 602-258-5925  
-Email: [info@harlemglobetrotters.com](mailto:info@harlemglobetrotters.com)
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-[ **CLOSE WINDOW**](https://web.archive.org/web/20041207204042id_/http%3A//www.harlemglobetrotters.com/close)
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at   
+some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+Upon request we provide site visitors with access to a description of information that we maintain about them.
+
+Consumers can access this information by e-mail us at the above address. 
+
+Consumers can have this information corrected by sending us e-mail at the above address. 
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
