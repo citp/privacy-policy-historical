@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215012059id_/http%3A//www.bsasoftware.com/HOME/tabid/2815/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617165957id_/http%3A//www.bsasoftware.com/HOME/tabid/2815/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # BS&A Software
 
@@ -44,4 +44,4 @@ BS&A Software will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-BS&A Software welcomes your comments regarding this Statement of Privacy. If you believe that BS&A Software has not adhered to this Statement, please contact BS&A Software at [meggleston@itright.com](mailto:meggleston@itright.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+BS&A Software welcomes your comments regarding this Statement of Privacy. If you believe that BS&A Software has not adhered to this Statement, please contact BS&A Software at [cballreich@bsasoftware.com](mailto:cballreich@bsasoftware.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
