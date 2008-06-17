@@ -1,21 +1,27 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229080212id_/http%3A//www.ereader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617195737id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
 
-# eReader.com: Privacy Policy
+# eReader.com Privacy Policy
 
-  
-  
-  
   
 
 
-[ ](https://web.archive.org/feature/book/category/149)
+[](https://web.archive.org/ereader/software/ebookstudio.htm)
+
+[](https://web.archive.org/ereader/software/product/15005_pro_ppcwm.htm)
+
+[](https://web.archive.org/ereader/software/browse.htm)
+
+  
+
+
+[ ](https://web.archive.org/servlet/mw?t=freebooks&si=59)
 
   
 | 
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
-This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Motricity, Inc. and all of its wholly-owned subsidiaries, including but not necessarily limited to PalmGear, Inc., PocketGear, LLC, Motricity, Inc., Power By Hand, LLC, Pinpoint Network, Inc., Pinpoint Technology, Inc., and eReader, Inc. (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: [www.palmgear.com](http://www.palmgear.com/), [www.pocketgear.com](http://www.pocketgear.com/), [www.motricity.com](http://www.motricity.com/), [www.powerbyhand.com](http://www.powerbyhand.com/), [www.ereader.com](http://www.ereader.com/), [www.palmdigitalmedia.com](http://www.palmdigitalmedia.com/), [www.smartphone.net](http://www.smartphone.net/), [www.symbiangear.com](http://www.symbiangear.com/) and [www.mobile2day.de](http://www.mobile2day.de/) (each a "Web Site" and collectively the "Web Sites").
+This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Motricity, Inc. and all of its wholly-owned subsidiaries, including but not necessarily limited to PalmGear, Inc., PocketGear, LLC, Motricity, Inc., Power By Hand, LLC, Pinpoint Network, Inc., Pinpoint Technology, Inc., and eReader, Inc. (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: [www.ereader.com](http://www.ereader.com/) and [www.palmdigitalmedia.com](http://www.palmdigitalmedia.com/) (each a "Web Site" and collectively the "Web Sites").
 
 **1\. Changes to this Policy**  
 We reserve the right to modify this Privacy Policy at any time, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All such changes shall be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.
