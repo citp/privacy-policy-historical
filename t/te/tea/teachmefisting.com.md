@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachmefisting.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216062841id_/http%3A//www.teachmefisting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmefisting.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617110158id_/http%3A//teachmefisting.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
