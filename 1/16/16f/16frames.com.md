@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212324id_/http%3A//www.16frames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617054517id_/http%3A//www.16frames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Online digital photo printing, Online video publishing, Send photos & videos to India: 16Frames.com
+# Live Video Streaming, Online Photo Printing & Video Publishing, Send Photos & Videos to India
 
 #### Privacy Policy
 
