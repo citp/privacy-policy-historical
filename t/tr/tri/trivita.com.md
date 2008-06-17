@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220010441id_/http%3A//www.trivita.com/2006/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617223456id_/http%3A//www.trivita.com/2006/privacy.aspx) for the most accurate reproduction.*
 
 # TriVita - Privacy
 
