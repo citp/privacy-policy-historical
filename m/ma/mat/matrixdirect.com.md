@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626181822id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617205806id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
-# Life Insurance Quotes at Matrix Direct: Term Life Insurance Quotes, Affordable Life Insurance Rates, Affordable Term Life Insurance, Term Life Insurance Policy
+# Matrix Direct Privacy Policy
 
 Protecting the privacy of information about our customers is important. This notice tells you how we treat information about our current and former customers. 
 
@@ -81,11 +81,9 @@ Cookies
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. 
 
 ##    
-Third Party Cookies
+Third Party Cookies and Action Tags
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
-
-This document covers the use of cookies by matrixdirect.com only and does not cover the use of cookies by any advertisers or partner/linked sites. 
+We may also use a service that collects data remotely by using web beacons or tags embedded in our site's content. The data we collect includes which operating system and browser you use, how you navigate to and through our site, and how long you stay on our web pages. This information is anonymous and does not include your name, e-mail address, or any other contact information. We share this information with other AIG companies and with our third party vendor, Visual Sciences Inc. Visual Sciences Inc. gives us reports of this aggregated, anonymous data. We use this data to improve our site by responding to our users' interests and providing more relevant and useful information. To learn more about Visual Sciences Inc.'s privacy standards and use of web beacons, please visit: [http://www.websidestory.com/privacy/privacy-policy.html](http://www.websidestory.com/privacy/privacy-policy.html.). 
 
 ##   
 Links
