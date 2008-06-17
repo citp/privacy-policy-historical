@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233305id_/http%3A//www.weddingbycolor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617140736id_/http%3A//www.weddingbycolor.com/privacy) for the most accurate reproduction.*
 
 # Wedding By Color- Bride's Online Scrapbook. Share Your Wedding Story
 
