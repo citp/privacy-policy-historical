@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224072741id_/http%3A//www.sentimentrader.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617022115id_/http%3A//www.sentimentrader.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Why Bonds
 
