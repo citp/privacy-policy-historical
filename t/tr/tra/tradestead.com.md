@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradestead.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215164709id_/http%3A//www.tradestead.com/information.php/info_page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradestead.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617221732id_/http%3A//www.tradestead.com/information.php/info_page/privacy_policy) for the most accurate reproduction.*
 
 # Information - Wholesale Eletronics from China
 
