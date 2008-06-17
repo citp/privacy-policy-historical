@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyforex.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234837id_/http%3A//www.dailyforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyforex.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617132723id_/http%3A//www.dailyforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # FOREX Market | Daily Forex Privacy Policy
 
