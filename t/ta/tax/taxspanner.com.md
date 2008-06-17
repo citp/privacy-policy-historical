@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxspanner.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009183643id_/https%3A//www.taxspanner.com/ts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxspanner.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617134228id_/http%3A//www.taxspanner.com/ts/privacy-policy) for the most accurate reproduction.*
 
 # TaxSpanner: Privacy Policy
 
