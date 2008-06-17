@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201180430id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617041035id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security policy of GIO Australia
 
