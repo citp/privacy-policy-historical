@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227223912id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617230954id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
 
 # Crazy4Jigsaws.com - Privacy Policy
 
