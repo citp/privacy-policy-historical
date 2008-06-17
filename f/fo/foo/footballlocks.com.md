@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2007-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070214015922id_/http%3A//www.footballlocks.com/privacy.shtml%23PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617122335id_/http%3A//www.footballlocks.com/privacy.shtml) for the most accurate reproduction.*
 
 # FootballLOCKS.com: Privacy Policy for online NFL pick purchases at FootballLOCKS.com.
 
@@ -22,7 +22,7 @@ Football _LOCKS_.com makes use of cookies so that you do not have to re-enter ce
 
 Football _LOCKS_.com only transmits cookies over a secure server connection. 
 
-Football _LOCKS_.com may contain links to other sites. Football _LOCKS_.com is not responsible for the privacy, the practices, or the content of such web sites. 
+Football _LOCKS_.com may contain links to other sites. If you click on such a link, these other sites may make use of cookies (third party cookies). Football _LOCKS_.com is not responsible for the privacy, the practices, or the content of any such web sites. 
 
 By using the Football _LOCKS_.com web site you are consenting to the privacy policy as described. Football _LOCKS_.com reserves the right to change its privacy policy at any time and in the event that a change has occurred changes will be posted on this page. 
 
