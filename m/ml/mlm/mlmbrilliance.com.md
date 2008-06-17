@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026050841id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617134258id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.mlmbrilliance.com/about-tim-sales.cfm)  
-Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I want to help you to expand your network marketing business.
+Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I personally guarantee that you will be happy with how my movies help grow your business.
 
-|  | 
+**** |  | 
 
 Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site.
 
@@ -36,7 +36,17 @@ Ensuring secure online ordering is an important part of our pledge to honor your
 
 **We have nearly tripled the amount of people who have joined via the Internet.** This Brilliant Compensation® Presentation has helped us to explain the advantages of Network Marketing so much better. - Bert Jensen.
 
-**I no longer have to overcome the objection of Network Marketing. This NEVER even comes up!** My results have truly been unbelievable. I was just named a top sponsor in my company last week, so I know it's working. - Jackie U.
+** **
+
+I have used Brilliant Compensation with **truly unbelievable results** for over seven years. Now I never get the pyramid objection. In fact, I don’t get any objections. - Jackie Ulmer
+
+** **
+
+My sponsor recommended that I use Brilliant Compensation, and **I’ve already sponsored three people using it!** \- Jessica Inskip
+
+** **
+
+My team has been using Brilliant Compensation for the past year with consistent results. The best part is that **prospects want to show up and meet with us**. - Ashleigh Gass
 
 **Since we have added the movies, we have one out of every 12 visitors request more information.** Before using these movies, my group had one out of every 40 visitors to our website request further information about our business. **That's a 333% increase!"** \- Vickie Z.
 
