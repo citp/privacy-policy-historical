@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bnymellon.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214095841id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnymellon.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617050743id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy Policy</title>
@@ -24,6 +24,7 @@
   	document.write('<link href="/styles/bnymellon.css" rel="stylesheet" type="text/css" media="screen" />');
   }
 </script><link href="/styles/bnymellon.css" rel="stylesheet" type="text/css" media="screen">
+<noscript><link href="/styles/bnymellon.css" rel="stylesheet" type="text/css" media="screen" /></noscript>
 <link rel="Shortcut Icon" href="/favicon.ico">
 <link rel="stylesheet" href="/styles/bnymellon_print.css" type="text/css" media="print">
 
@@ -79,14 +80,26 @@
 <p>This notice is effective July 1, 2007. Any changes to our policy will be reflected in this location.</p>
 
 
+
 	</div>
 	<div id="footer">
 		<div id="footerNavCopy">
-			© 2007 The Bank of New York Mellon Corporation. All rights reserved.
+			© 2007-2008 The Bank of New York Mellon Corporation. All rights reserved.
 		</div>
 		<div id="footerNav">
 			<a href="/util/tononsecure.cfm?Dest=/sitemap.html">SITE MAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/util/tononsecure.cfm?Dest=/privacy/index.html">PRIVACY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/util/tononsecure.cfm?Dest=/security/index.html">SECURITY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/util/tononsecure.cfm?Dest=/legal/index.html">LEGAL &amp; REGULATORY</a>
 		</div>
+		<script language="JavaScript">
+			function doProductDisclaimer()
+			{
+				if (document.URL.indexOf("/products/") != -1)
+				{
+					document.write('<p align="right"><br />Products and services are provided by various subsidiaries of The Bank of New York Mellon Corporation.</p>');
+				}
+			}
+
+			doProductDisclaimer();
+		</script>
 	</div>
 </div>
 
