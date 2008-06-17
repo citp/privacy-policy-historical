@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GuildPortal Guild Hosting and Management - World of Warcraft, Guild Wars, EverQuest, Vanguard, Dungeons and Dragons Online, City of Heroes and More! - Privacy Policy
 
-|  |  [](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Default.aspx) |   |  [](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/NewGuild.aspx) |  [](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/NewUser.aspx) |  [](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Search.aspx)  
+|  |  [](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Default.aspx) |   |  [](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/NewGuild.aspx) |  [](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/NewUser.aspx) |  [](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Search.aspx)  
 ---|---|---|---|---|---  
-[](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Default.aspx) [Home](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Default.aspx) > Privacy Policy  
-[New Account](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/NewUser.aspx)  
-[New Guild](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/NewGuild.aspx)  
-[Support Form](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Support.aspx)  
-[Feature Request](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/FeatureRequest.aspx)  
-[Admin Guide](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Guide.aspx)
+[](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Default.aspx) [Home](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Default.aspx) > Privacy Policy  
+[New Account](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/NewUser.aspx)  
+[New Guild](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/NewGuild.aspx)  
+[Support Form](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Support.aspx)  
+[Feature Request](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/FeatureRequest.aspx)  
+[Admin Guide](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Guide.aspx)
 
 Search Guilds
 
 We Recommend
 
 [TenTonHammer](http://www.tentonhammer.com/ "TenTonHammer, the BEST *legit* source of gaming information!")  
-[Member Blogs](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/MemberBlogs.aspx "Blogs from members of GuildPortal-hosted guilds!")  
+[Member Blogs](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/MemberBlogs.aspx "Blogs from members of GuildPortal-hosted guilds!")  
 [GuildHelper](http://www.guildhelper.com/ "GuildHelper, for all your guild graphics and startup needs!")  
-[Offline T-Shirts](http://www.offlinetshirts.com/ "Gaming shirts!")
+[Offline T-Shirts](http://www.offlinetshirts.com/ "Gaming shirts!")  
+[Instant Ventrilo](http://www.instantventrilo.com/ "Instant, reliable, and lower-priced voice chat servers for your guild.")
 
 Service News
 
-[SOE Rosters](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=385 "SOE Rosters")  
-[Hands-Free Arm...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=384 "Hands-Free Armory Roster for World of Warcraft")  
-[File Uploads](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=383 "File Uploads")  
-[Image Hosting...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=382 "Image Hosting Services")  
-[Updates and Up...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=381 "Updates and Upcoming Updates!")  
-[Security Enhan...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=380 "Security Enhancements")  
-[Updated WoW Ad...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=379 "Updated WoW Add-On")  
-[Java Runtime P...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=378 "Java Runtime Problem")  
-[Microsoft Apri...](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=377 "Microsoft April 3 Update")  
-[Security Update](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/ShowNews.aspx?News=376 "Security Update")
+[Customization...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=389 "Customization Enhancements")  
+[Site Updates](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=388 "Site Updates")  
+[Network Mainte...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=387 "Network Maintenance")  
+[SOE Rosters](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=385 "SOE Rosters")  
+[Hands-Free Arm...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=384 "Hands-Free Armory Roster for World of Warcraft")  
+[File Uploads](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=383 "File Uploads")  
+[Image Hosting...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=382 "Image Hosting Services")  
+[Updates and Up...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=381 "Updates and Upcoming Updates!")  
+[Security Enhan...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=380 "Security Enhancements")  
+[Updated WoW Ad...](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/ShowNews.aspx?News=379 "Updated WoW Add-On")
 
-[](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/RSS/Feed.aspx)
+[](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/RSS/Feed.aspx)
 
 | 
 
@@ -83,23 +84,17 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 | 
 
-[](http://www.fh.org/)For every subscription and subscription renewal, GuildPortal donates $1 to Food for the Hungry and other humanitarian organizations. Click [here](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Donations.aspx "Click here to view GuildPortal's donation record!") to view our record!
+[](http://www.fh.org/)For every subscription and subscription renewal, GuildPortal donates $1 to Food for the Hungry and other humanitarian organizations. Click [here](https://web.archive.org/Donations.aspx "Click here to view GuildPortal's donation record!") to view our record!
 
   
-[](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/TrackAd.aspx?Ad=327)  
+[](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/TrackAd.aspx?Ad=327)
 
+Click [here](https://web.archive.org/Testimonials.aspx) for all testimonials, and find out why others have used GuildPortal for their Guild Management and Guild Hosting needs!
 
-Click [here](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Testimonials.aspx) for all testimonials, and find out why others have used GuildPortal for their Guild Management and Guild Hosting needs!
+"GP is easy to use and well maintained. You do not have to know alot about web coding or designing, you choose the coloures and templates and it is done for you."
 
-"GuildPortal was the answer to me not writing yet another guild management site for my guild. I would rather spend time playing than coding. Thanks so much!"
-
-Orkhammer, Mystic Dawn
-
+Aliisha, Guild Master of Shining Force  
   
+GuildPortal ©2001-2008 Axiom Shift, Inc. All rights reserved. [Terms of Use](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Terms.aspx) | [Privacy Policy](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Privacy.aspx) | [Support](https://web.archive.org/web/20080617165351id_/http%3A//www.guildportal.com/Support.aspx)
 
-
-Active sites listed by member count  
-  
-GuildPortal ©2001-2007 Axiom Shift, Inc. All rights reserved. [Terms of Use](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Terms.aspx) | [Privacy Policy](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Privacy.aspx) | [Support](https://web.archive.org/web/20071124030610id_/http%3A//www.guildportal.com/Support.aspx)
-
-Current Web Build: 3.0.2881.5505
+Current Web Build: 3.0.3087.16894
