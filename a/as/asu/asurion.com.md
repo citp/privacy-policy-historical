@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207151500id_/http%3A//www.asurion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617195837id_/http%3A//www.asurion.com/privacy.html) for the most accurate reproduction.*
 
 # Asurion
 
