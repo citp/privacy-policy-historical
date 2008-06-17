@@ -1,0 +1,401 @@
+<!--The following is the downloaded HTML source of the gomlab.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617060021id_/http%3A//www.gomlab.com/eng/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../ginclude/style/base.css" rel="stylesheet" type="text/css">
+    
+<title>GOM software - Free, Simple, Light, It just plays! - GOM Media Player, GOM encoder</title>
+<meta name="keywords" content="">
+<script>
+  <!-- 
+  function null_value(){
+   var sf = document.search_form;  
+   sf.search_keywords.value = "";  
+  }
+
+ 
+  
+
+function setCookieGtype( name, value, expiredays ) {
+        var todayDate = new Date();
+        todayDate.setDate( todayDate.getDate() + expiredays );
+        document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+}
+
+
+
+function getCookieGtype( name ) {
+	var nameOfCookie = name + '=';
+	var x = 0;
+	while ( x <= document.cookie.length ) {
+		var y = (x+nameOfCookie.length);
+		if ( document.cookie.substring( x, y ) == nameOfCookie ) {
+			if ( (endOfCookie=document.cookie.indexOf( ';', y )) == -1 ) 
+				endOfCookie = document.cookie.length;
+			return unescape( document.cookie.substring( y, endOfCookie ) );
+		}
+		x = document.cookie.indexOf( ' ', x ) + 1;
+		if ( x == 0 )
+		break;
+	}
+	return '';
+}	
+
+
+function gtype_setcookie() {    
+      returl = document.URL;        
+      var partStr=returl.split("/");
+      gtype = partStr[3];     
+      setCookieGtype('gtype',gtype,1);      
+      
+}
+
+
+ function go_url(gurl) {    
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    if (gtype_gourl == "") {
+      gtype_gourl = "eng";
+    }	
+    parent.top.location = "/"+gtype_gourl+"/"+gurl;
+  }
+
+ function go_reglogin(gurl) {    
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    if (gtype_gourl == "") {
+      gtype_gourl = "eng";
+    }	
+//    returl = "/gforum/index.html";
+    parent.top.location = "/"+gtype_gourl+"/"+gurl;
+//		    parent.top.location = "/"+gtype_gourl+"/"+gurl+"?redirect="+returl;
+  }
+
+  function go_login()
+  {
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    if (gtype_gourl == "") {
+      gtype_gourl = "eng";
+    }	
+    var returl = document.URL;
+	returl = escape(returl);
+	    
+    top.location = "/"+gtype_gourl+"/login.html?redirect="+returl;      
+  }
+      
+  function leng_move()
+  {
+    var langform = document.leng;  
+    var sindex = langform.lengtype.selectedIndex; 
+    lang = langform.lengtype.options[sindex].value; 
+    
+      
+    var returl = document.URL;
+    var partStr=returl.split("/");
+    returl = partStr[4]; 
+        	    
+    if (returl == "") {
+         top.location = "/"+lang+"/index.html?langgtype="+lang;     
+    } else {    
+        var t_point_type = returl.lastIndexOf("langgtype=");      
+        
+        if (t_point_type > 0) {
+          var returl =  returl.substring(0,t_point_type-1);                   
+        }
+        
+        var t_point_type2 = returl.lastIndexOf("?");      
+        if (t_point_type2 > 0) {
+          top.location = "/"+lang+"/"+returl+"&langgtype="+lang;      
+        } else {
+          top.location = "/"+lang+"/"+returl+"?langgtype="+lang;      
+        }
+    }
+        
+    }
+   
+
+  function leng_move_pds()
+  {
+  
+    var langform = document.lengpds;  
+    var sindex = langform.lengtypepds.selectedIndex; 
+    langselect = langform.lengtypepds.options[sindex].value;   
+    
+    lang =  getCookieGtype( 'gtype' );
+        
+    var returl = document.URL;
+    
+    var partStr=returl.split("/");
+    returl = partStr[4];     
+
+    var t_point_type = returl.lastIndexOf("langgtype=");      
+    
+    if (t_point_type > 0) {
+        var returl =  returl.substring(0,t_point_type-1);                   
+    }            
+    
+    var t_point_type2 = returl.lastIndexOf("?");      
+    if (t_point_type2 > 0) {
+      var gourl_type =  "/"+lang+"/"+returl+"&langgtype="+lang;    
+    } else {
+      var gourl_type =  "/"+lang+"/"+returl+"?langgtype="+lang;                    
+    }
+
+    gourl_type = gourl_type + "&alltype="+langselect;
+
+            
+    top.location = gourl_type;
+                  
+    
+        
+  }
+  
+  
+  
+  function change_leng() {
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    var langform = document.leng;  
+       
+    for(var i=0;i<langform.lengtype.length;i++) {      
+      if(langform.lengtype[i].value == gtype_gourl) {              
+        langform.lengtype[i].selected=true;        
+      }      
+    }
+        
+
+  }                  
+    
+
+ function go_home() {    
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    top.location = "/"+gtype_gourl+"/";
+  }
+
+
+  function gologinret()
+  {
+    var gtype_gourl = getCookieGtype( 'gtype' );
+    var returl = document.URL;
+	//returl = escape(returl);
+	top.location = "/"+gtype_gourl+"/login.html?redirect="+returl;
+  }
+  	
+  function go_search(){
+   var sf = document.search_form;  
+   sf.submit();
+  }  
+
+  function go_logout()
+  {  
+    var returl2 = document.URL;
+	returl2 = escape(returl2);
+    top.location  = "/gforum/login.html?logout=true&sid=&redirect="+returl2;
+  }
+    
+    
+        
+  // -->
+</script></head>
+
+  
+
+
+  <body id="index" class="index" onload="gtype_setcookie(),change_leng();">
+  
+
+<div id="Header">
+    <!-- login -->
+    <div id="BaseNav">
+          
+                  <!-- a href="/gforum/profile.html?mode=register" target="_top" >Register</a --> 
+          <a href="javascript:go_url('register_agreement.html?mode=register');">Register</a>&nbsp;&nbsp;
+          <!-- a href="/eng/login.html" target="_top" >Log in</a -->		
+          <a href="javascript:gologinret()">Log in</a>		
+          <!-- a href="/gforum/login.html" target="_top" >Log in</a -->		
+        		</div>
+    <!-- login -->
+		
+     <!-- gng -->
+    <div id="GnbWrapper">
+			<div id="Gnb">
+				<div id="Branding"><a href="javascript:go_home();" title="GOM"><img src="../ginclude/img/logo.gif" alt="GOM"></a></div>				
+      	<ul id="GnbMenu">
+          <li><a href="javascript:go_url('GMP_Introduction.html')" id="Software">GOM Software</a></li>
+					<li class="border">|</li>
+          <li><a href="javascript:go_url('GMP_download.html')" id="Download">Download</a></li>
+					<li class="border">|</li>
+          <li><a href="/gforum/index.html" target="_top" id="Forum">Forum</a></li>
+          <!-- li><a href="gforum.html" id="Forum">Forum</a></li -->
+          <!-- li><a href="gforum.html" id="Forum">Forum111</a></li -->
+				</ul>
+				
+				<!--[if IE]>
+				<div id='Language_ie'>
+				<![endif]-->				
+				<div id="Language">
+				<form name="leng">
+	            <select name="lengtype" onchange="leng_move()">
+				<option value="eng">English</option><!-- eng -->
+				<option value="japan">日本語 </option> <!-- jap -->
+				<option value="cn">中文(S)</option><!-- cn -->
+				<option value="tw">中文(T)</option><!-- tw -->
+				</select>				
+				</form>
+				</div>
+				<!--[if IE]>
+				</div>
+				<![endif]-->		
+								<div id="Search">
+				<form name="search_form" method="post" action="/ginclude/_inc/eng_header_search.html" target="_top" onsubmit="javascript:go_search()" ;="">				
+				<!-- form name="search_form" method="post" action="/gforum/search.html?mode=results" onsubmit="javascript:go_search()"; -->								
+				<!-- input type="hidden" name="mode" value="results" -->		
+								<input type="hidden" name="langgtype" value="eng">						
+                <input type="text" name="search_keywords" class="input" value="Search" onfocus="null_value()"><a href="javascript:go_search()"><img src="../ginclude/img/btn_srch.gif" class="BtnSrch"></a>			
+													
+				</form>
+				</div>
+				
+			</div>
+			
+    </div>
+    <!-- gng -->   
+</div>
+
+<hr class="menuBorder">
+<!-- #mainBody -->
+<div id="BodyWrapper">
+	
+	<div id="MainBodyFrame">
+	
+		<div id="Content2">
+			<div id="MainTitle">Privacy Policy</div>  
+			<div class="border"><img src="/ginclude/img/_.gif"></div>
+			<br>
+			<h1>What This Privacy Policy Covers</h1>
+			<p>This policy covers how Gretech treats personal information that Gretech collects and receives. <br>
+			Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. <br>
+			This policy does not apply to the practices of companies that Gretech does not own or control, or to people that Gretech does not employ or manage. </p>
+			
+			<div class="dotborder"><img src="/ginclude/img/_.gif"></div>
+			
+			<h1>Commitment To Your Privacy</h1>
+			<p>
+			This site is owned and operated by Gretech Corporation. 
+			Your privacy on the Internet is of the utmost importance to us.<br>
+			At Gretech, we want to make your experience online satisfying and safe.
+			</p>
+			
+			<p>
+			Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+			</p>
+			<br>
+				
+			<h2>INFORMATION GRETECH GATHERS AND TRACKS</h2>
+			<br>
+			<p><strong>Gretech gathers two types of information about users</strong></p>		
+			<ul>
+			<li>Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our forums, and from participation in polls and surveys. </li>
+			<li>Information Gretech gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Gretech derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Gretech divulge any information about an individual user to a third party. </li>
+			</ul>
+			<br>
+			
+			<p><strong>Gretech Gathers User Information In The Following Processes</strong></p>		
+			<ul>
+			<li>When a user views different webpages or downloads GOM Player</li>	
+			<li>When a user views writes a topic or a comment on our discussion forum</li>
+			<li>When a user views writes us an email</li>
+			</ul>
+			<br>
+			
+			<p><strong>Optional Voluntary Information</strong></p>			
+			<p>We offer the following free services, which require some type of voluntary submission of personal information by users</p>
+			<ul>
+			<li>Newsletter </li>			
+			<li>Discussion forum</li>
+			</ul>
+			<br>
+			<div class="dotborder"><img src="/ginclude/img/_.gif"></div>
+			
+			<h1>Privacy Policy</h1>
+			
+			<h2>Electronic newsletters policy (Dispatches) </h2>
+			<p>We will offer a free electronic newsletter to users. Gretech gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. </p>
+			
+			<h2>Discussion forums policy </h2>
+			<p>Users of the site's discussion forum must register for the service(free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. </p>  
+			
+			<h2>Polling </h2>
+			<p>We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Gretech may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. </p>
+			
+			<h2>Surveys </h2>
+			<p>Gretech may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. </p>
+			
+			<h2>Children </h2>
+			<p>Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. </p>
+			
+			<h2>Usage tracking</h2>
+			<p>Gretech tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Gretech does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). <br><br>
+			Gretech sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. </p>
+			
+			<h2>Cookies </h2>
+			<p>We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Gretech uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. <br><br>
+			You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in discussion forums, polling and surveys. </p>
+			
+			<h2>USE OF INFORMATION </h2>
+			<p>Gretech uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. <br><br>
+			As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, and discussion forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Gretech never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. <br><br>
+			When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. <br><br>
+			Gretech creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. </p>
+			
+			<h2>SHARING OF THE INFORMATION </h2>
+			<p>Gretech uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. </p>  
+			
+			<h2>SECURITY </h2>
+			<p>Gretech operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. </p>
+			
+			<h2>OPT-OUT POLICY </h2>
+			<p>We give users options wherever necessary and practical. Such choices include:</p>  
+			<ul>
+			<li>Opting not to register to receive our electronic newsletters. </li>			
+			<li>Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users </li>
+			</ul>
+			<br>
+			<h2>YOUR CONSENT </h2>
+			<p>By using this site, you consent to the collection and use of this information by Gretech. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. </p>  
+			
+		</div>  
+		
+	</div>  
+	<div class="clear"></div>
+	<br>
+</div>        
+<!-- #mainBody -->
+
+   <link href="../ginclude/style/base.css" rel="stylesheet" type="text/css">
+    
+
+
+<hr class="menuBorder">
+
+<div class="clear"></div>
+<div id="Footer">
+<p class="subNav">
+<a href="/eng/privacy_policy.html" target="_top">PRIVACY POLICY</a>
+&nbsp;|&nbsp;
+<a href="/eng/contactus.html" target="_top">CONTACT US</a>
+</p>
+<p class="copy">Copyright © GRETECH CORP. All Rights Reserved.</p>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3555958-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+</body></html>
