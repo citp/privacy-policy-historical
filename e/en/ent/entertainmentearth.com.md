@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208013725id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617060409id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
-# Action Figures, Gifts and Collectibles at Entertainment Earth
+# Action Figures, Toys, Gifts, and Collectibles at Entertainment Earth
 
-|  |   
+|  |   |  |    
 ---|---|---  
-  
-|  |  |  |  |   
----|---|---|---|---|---  
-  
-|   | **SEARCH** |    
----|---|---  
+ |   
   |  |    
    
   |    
@@ -22,13 +17,6 @@ Order by Phone:
 Monday - Friday  
 7am - 5:30pm Pacific Time
 
-Open Saturdays:  
-November 20, 27   
-and  
-December 4, 11, 18  
-10:00am to 2:00pm  
-Pacific Time
-
 Client Services:  
 1-818-255-0095  
 Fax: 1-818-255-0091
@@ -40,6 +28,8 @@ Product specifications, prices and ship dates are subject to change and availabi
 |    
    
   
+[](http://www.entertainmentearth.com/hitlist.asp?theme=Hulk)
+
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
 
@@ -75,7 +65,7 @@ You can access a variety of your personally identifiable information that we col
 Entertainment Earth is linked to the following sites - 
 
   * **www.bizrate.com** \- In order to allow our customers to provide feedback on our services and on their satisfaction, Entertainment Earth makes use of the Bizrate.com service. Bizrate.com operates under its own privacy and security policies which can be further evaluated at [www.bizrate.com](http://www.bizrate.com/). 
-  * **www.verisign.com** \- Entertainment Earth runs it's SSL server through verisign.com. A banner link to verisign.com on the Entertainment Earth website allows confirmation of Entertainment Earth's SSL status. Verisign.com operates under its own privacy and security policies that can be further evaluated at [www.verisign.com](http://www.verisign.com/)
+  * **www.verisign.com** \- Entertainment Earth runs its SSL server through verisign.com. A banner link to verisign.com on the Entertainment Earth website allows confirmation of Entertainment Earth's SSL status. Verisign.com operates under its own privacy and security policies that can be further evaluated at [www.verisign.com](http://www.verisign.com/)
   * **www.freeshipping.com** \- This site is not owned, operated or associated with Entertainment Earth, Inc. Entertainment Earth, Inc. is not responsible for any products, services or claims made by www.freeshipping.com. Entertainment Earth provides a link to www.freeshipping.com so that clients may purchase their goods and services. www.freeshipping.com operates under its own privacy and security policies that can be further evaluated at [www.freeshipping.com](http://www.freeshipping.com/). 
   * **www.fbillgates.com** \- This site is owned by Entertainment Earth, but is not covered by this privacy policy. 
   * **www.applewatches.com** \- This site is owned by Entertainment Earth, but is not covered by this privacy policy. 
@@ -85,7 +75,4 @@ Entertainment Earth is linked to the following sites -
 **Effective Date of Privacy Policy**  
 This privacy policy is effective as of November 29, 2004 and applies to all data collected since June 25, 2002 and may or may not apply to data collected from April 1, 1996 through June 25, 2002. Entertainment Earth reserves the right to change or modify this policy at any time. All changes and modifications to this policy will be posted on this page.  **How To Contact Us**  
 Should you have other questions or concerns about these privacy policies, please call us at 1-818-255-0095 or send us an email at [cs@entertainmentearth.com](mailto:cs@entertainmentearth.com).   
-
-
-Top of Page     
 
