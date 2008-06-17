@@ -1,88 +1,890 @@
-<!--The following is the downloaded HTML source of the herbergers.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211215747id_/http%3A//herbergers.com/who/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herbergers.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617033638id_/http%3A//www.herbergers.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Herbergers | Privacy Statement</title>
-<script language="javascript" src="/topnav.js"></script>
-	<link rel="stylesheet" href="../style.css" type="text/css">
-<script language="JavaScript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
+<html><head><script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
 }
 
-//-->
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+      function clickIt()
+      {
+          if(window.event.srcElement.id != "good") {
+              window.event.returnValue = false;
+           }
+      }
 </script>
-</head>
-<body marginwidth="0" marginheight="0" style="margin: 0" bgcolor="#FFFFFF" text="#000000" onresize="if (isNS4) nsResizeHandler()" onload="writeMenus();">
+
+<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
 
 
-<!-- BEGIN NEW_NAV -->
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td><a href="/default.asp"><img src="/pics/swings/herbergers/logo_190x50.gif" width="190" height="50" alt="Herbergers" border="0"></a></td>
-    <td align="left">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td align="right"> 
-      <table width="396" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td><a href="/default.asp"><img src="/pics/navigation/home.gif" width="49" height="40" alt="Click here to return to the homepage" border="0"></a></td>
-          <td><a href="#" onclick="MM_openBrWindow('http://www.saksincorporated.com/about_us.html','aboutus','toolbar=yes,location=yes,scrollbars=yes,resizable=yes,width=650,height=550')"><img src="/pics/navigation/aboutus.gif" width="66" height="40" alt="Click here for About Us" border="0"></a></td>
-          <td><a href="#" onclick="MM_openBrWindow('http://www.saksincorporated.com/our_stores/storelocator.html','storelocator','toolbar=yes,location=yes,scrollbars=yes,resizable=yes,width=650,height=550')"><img src="/pics/navigation/storelocator.gif" width="84" height="40" alt="Click here for a store near you" border="0"></a></td>
-          <td><a href="/who/index.html"><img src="/pics/navigation/info.gif" width="45" height="40" alt="Click here for information" border="0"></a></td>
-          <td><a href="/current/signup.html"><img src="/pics/navigation/emailsignup.gif" width="85" height="40" alt="Click here to sign up for email updates" border="0"></a></td>
-          <td><a href="#" onclick="add_bookmark();"><img src="/pics/navigation/bookmark.gif" border="0" width="66" height="40" alt="Click here to bookmark this site"></a></td>
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>
+      
+        Privacy Policy
+        -  
+      
+        Customer Service
+        
+      
+	  
+	  
+			 - Herberger's
+		
+  	  
+    </title>
+  
+
+
+
+    <meta name="description" content="">
+  
+
+
+
+    <meta name="keywords" content=" ">
+  
+
+
+  
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+  
+        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+        <script src="/includes/common.js"></script>
+        <script src="/includes/flyopen.js"></script>
+        <script src="/includes/rollover.js"></script>
+        <script src="/includes/cleartext.js"></script>
+    </head>
+<body class="main">
+<table width="954" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
+
+  <tbody><tr>
+	  <td class="navheaderbg">
+		  	  <div><!--TopNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 2;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+    var noSearchTerm = 'Please enter a keyword or item number';
+    var shortSearchTerm = 'Your keyword or item number must be at least 2 characters long';
+
+    if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else {
+      return true;
+    }
+  }
+  function store_location()
+	{	window.open('http://news.bonton.com/apps/storelocator/default_popup.asp?d=130','print_info','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=yes,width=665,height=415');	}
+</script>
+
+<table border="0" width="954" cellpadding="0" cellspacing="0" style="padding-top:15px;padding-bottom:15px;">
+<tbody><tr>
+	<td class="clearbg">
+	<!-- **************** CUSTOM: Start for CUST_BRND 1 ************************** -->
+	<!-- <a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border=0 alt="Company Name"></a> -->
+	<a href="/home.do"><img src="/images/en_US/global/globalnav/herbergers_logo01.gif" border="0" alt="Herbergers"></a>
+	<!-- **************** CUSTOM: End for CUST_BRND 1 ************************** -->
+	</td>
+	
+	<!--<td class=clearbg><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>-->
+	
+	
+	
+	<td align="right" class="clearbg">
+	<table border="0" cellpadding="0" cellspacing="0" class="tableLinksHeaderFooter">		
+		<tbody><tr>
+			<td align="right">
+			<a href="/category/customer+service.do">Customer Service</a>
+			|
+            
+			<a href="/account.do?method=start" alt="My Account" name="top_myaccount">My Shopping Account</a>
+			|
+			<a href="https://www.hrsaccount.com/bonton" target="_blank" alt="Online Bill Pay">Online Bill Pay</a>
+			</td>
+		</tr>
+		<tr>
+		<td height="20px">
+		</td></tr>
+		<tr>
+			<td align="right">
+			    <!-- ************** CUSTOM: TAR #artf554518 BonTon ***** Start - 1 **************** -->
+				<a href="http://gift.herbergers.com" target="_blank"><img src="/images/en_US/global/globalnav/bridalRegistry.gif" border="0" alt="Bridal Registry"></a>
+				<!-- ** ************** CUSTOM: TAR #artf554518 BonTon ***** End - 1 **************** * -->
+				<!-- ************** CUSTOM: TAR #artf564042 BonTon ***** Start  **************** -->
+				<img src="/images/en_US/global/globalnav/topnav_separator.gif" border="0">
+				<a href="/product/gifts/gift+cards/gift+card.do"><img src="/images/en_US/global/globalnav/giftCards.gif" border="0" alt="Gift Cards"></a>
+				<img src="/images/en_US/global/globalnav/topnav_separator.gif" border="0">
+				<a href="http://catalog.herbergers.com/" target="_blank"><img src="/images/en_US/global/globalnav/inStoreAd.gif" border="0" alt="In-Store Ad"></a>
+				<!-- ************** CUSTOM: TAR #artf564042 BonTon ***** End  **************** -->
+			</td>		
+		</tr>
+	</tbody></table>
+	
+	</td>
+	
+	<!--<td class=clearbg><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>-->
+	
+</tr>
+</tbody></table>
+<!--TopNav End-->
+</div>
+			  <div><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  var aCatImgs = new Array();
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav10_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav10_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav11_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav11_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav05_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav05_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav06_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav06_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav07_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav07_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav08_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav08_on.jpg";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_off.jpg";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_on.jpg";
+  
+  preload(aCatImgs);
+</script>
+
+<!-- milonic menu start -->
+<script type="text/javascript" src="/nav/menu/milonic_src.js"></script>
+<script type="text/javascript">
+<!--
+
+
+
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenuns4.js><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenudom.js><\/scr"+"ipt>");
+ -->
+</script>
+<script type="text/javascript">
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+fixMozillaZIndex=true; //Fixes Z-Index problem  with Mozilla browsers but causes odd scrolling problem, toggle to see if it helps
+_menuCloseDelay=450   // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=200     // The time delay before menus open on mouse over
+_subOffsetTop=0       // Sub menu top offset
+_subOffsetLeft=-15     // Sub menu left offset
+
+with(menuStyle=new mm_style()){
+  oncolor="#E9E9E9";
+  offcolor="#777777";
+  onclass="menuItemOn";
+  offclass="menuItemOff";
+  //bordercolor="#336699";
+  //borderstyle="solid";
+  //borderwidth="0";
+}
+
+with(menuStyle0=new mm_style()){
+ 
+  oncolor="black";
+  offcolor="black";  
+  align="left";
+  itemwidth="120";
+  onclass="menuItemOn";
+  offclass="menuItemOff";
+  onbgcolor="#E9E9E9";
+  offbgcolor="#FFFFFF";
+  bordercolor="#E9E9E9";
+  borderstyle="solid";
+  borderwidth="1";
+  horizontalMenuDelay = true;
+  opendelay="200";
+
+}
+
+with(milonic=new menuname("Menu100701")){style=menuStyle0;aI("text=`Petites`;showmenu=Menu102191;url=/category/women/petites.do;");aI("text=`Plus Size`;showmenu=Menu102199;url=/category/women/plus+size.do;");aI("text=`Activewear`;showmenu=Menu100702;url=/category/women/activewear.do;");aI("text=`Dresses & Social Occasion`;showmenu=Menu100703;url=/category/women/dresses+%26+social+occasion.do;");aI("text=`Career`;showmenu=Menu100704;url=/category/women/career.do;");aI("text=`Jackets`;showmenu=Menu101947;url=/category/women/womens+jackets.do;");aI("text=`Skirts`;showmenu=Menu100713;url=/category/women/womens+skirts.do;");aI("text=`Knit Tops & Tees`;showmenu=Menu100714;url=/category/women/knit+tops+%26+tees.do;");aI("text=`Shirts & Blouses`;showmenu=Menu103086;url=/category/women/shirts+%26+blouses.do;");aI("text=`Jeans`;showmenu=Menu100707;url=/category/women/jeans.do;");aI("text=`Pants`;showmenu=Menu100710;url=/category/women/pants.do;");aI("text=`Shorts`;showmenu=Menu101950;url=/category/women/womens+shorts.do;");aI("text=`Swim Shop`;showmenu=Menu102209;url=/category/women/swim+shop.do;");aI("text=`Sweaters`;showmenu=Menu100718;url=/category/women/sweaters.do;");aI("text=`Coats`;showmenu=Menu100723;url=/category/women/coats.do;");aI("text=`Maternity`;showmenu=Menu100728;url=/category/women/maternity.do;");aI("text=`Accessories`;showmenu=Menu101179;url=/category/women/accessories.do;");aI("text=`Breckenridge`;showmenu=Menu103411;url=/category/women/breckenridge.do;");aI("text=`Calvin Klein`;showmenu=Menu103692;url=/category/women/womens+calvin+klein.do;");aI("text=`Columbia`;showmenu=Menu103413;url=/category/women/womens+columbia.do;");aI("text=`DKNY Jeans`;showmenu=Menu103691;url=/category/women/womens+dkny+jeans.do;");aI("text=`J.H. Collectibles`;showmenu=Menu103412;url=/category/women/j.h.+collectibles.do;");aI("text=`Laura Ashley`;showmenu=Menu102213;url=/category/women/womens+laura+ashley.do;");aI("text=`Rafaella`;showmenu=Menu103881;url=/category/women/rafaella.do;");aI("text=`Ruff Hewn`;showmenu=Menu102216;url=/category/women/womens+ruff+hewn.do;");}with(milonic=new menuname("Menu100749")){style=menuStyle0;aI("text=`Bras`;showmenu=Menu100750;url=/category/intimate+apparel/bras.do;");aI("text=`Panties`;showmenu=Menu100758;url=/category/intimate+apparel/panties.do;");aI("text=`Daywear`;showmenu=Menu100763;url=/category/intimate+apparel/daywear.do;");aI("text=`Shapewear`;showmenu=Menu101959;url=/category/intimate+apparel/shapewear.do;");aI("text=`Sleepwear`;showmenu=Menu100770;url=/category/intimate+apparel/sleepwear.do;");aI("text=`Robes`;showmenu=Menu100773;url=/category/intimate+apparel/robes.do;");aI("text=`Brands`;showmenu=Menu104301;url=/category/intimate+apparel/brands.do;");aI("text=`Tops`;showmenu=Menu100774;url=/category/intimate+apparel/loungewear+tops.do;");aI("text=`Bottoms`;showmenu=Menu100775;url=/category/intimate+apparel/loungewear+bottoms.do;");aI("text=`Socks & Hosiery`;showmenu=Menu100777;url=/category/intimate+apparel/socks+%26+hosiery.do;");}with(milonic=new menuname("Menu100779")){style=menuStyle0;aI("text=`Active`;showmenu=Menu100780;url=/category/juniors/juniors+active+apparel.do;");aI("text=`Authentic U Shop`;showmenu=Menu103092;url=/category/juniors/authentic+u+shop.do;");aI("text=`Dresses`;showmenu=Menu100781;url=/category/juniors/dresses.do;");aI("text=`Jackets & Blazers`;showmenu=Menu100783;url=/category/juniors/jackets+%26+blazers.do;");aI("text=`Jeans`;showmenu=Menu100784;url=/category/juniors/jeans.do;");aI("text=`Pants`;showmenu=Menu100789;url=/category/juniors/pants.do;");aI("text=`Shorts`;showmenu=Menu102441;url=/category/juniors/juniors+shorts.do;");aI("text=`Skirts`;showmenu=Menu100792;url=/category/juniors/juniors+skirts.do;");aI("text=`Sweaters`;showmenu=Menu100798;url=/category/juniors/sweaters.do;");aI("text=`Swim Shop`;showmenu=Menu102411;url=/category/juniors/swim+shop.do;");aI("text=`Tops`;showmenu=Menu100793;url=/category/juniors/juniors+tops.do;");aI("text=`Vests`;showmenu=Menu104381;url=/category/juniors/vests.do;");aI("text=`Handbags`;showmenu=Menu102737;url=/category/juniors/handbags.do;");aI("text=`Shoes`;showmenu=Menu101201;url=/category/juniors/shoes.do;");aI("text=`Sunglasses`;showmenu=Menu103653;url=/category/juniors/sunglasses.do;");aI("text=`A. Byer`;showmenu=Menu103761;url=/category/juniors/a.+byer.do;");aI("text=`Apple Bottoms&#8482;`;showmenu=Menu103762;url=/category/juniors/apple+bottoms.do;");aI("text=`Baby Phat`;showmenu=Menu103763;url=/category/juniors/baby+phat.do;");aI("text=`Belle du Jour`;showmenu=Menu103764;url=/category/juniors/belle+du+jour.do;");aI("text=`Blue Spice`;showmenu=Menu103765;url=/category/juniors/blue+spice.do;");aI("text=`Dereon`;showmenu=Menu103766;url=/category/juniors/dereon.do;");aI("text=`DKNY Jeans`;showmenu=Menu103767;url=/category/juniors/dkny+jeans.do;");aI("text=`Eyeshadow&#174;`;showmenu=Menu103768;url=/category/juniors/eyeshadow.do;");aI("text=`Flowers`;showmenu=Menu103769;url=/category/juniors/flowers.do;");aI("text=`Grane`;showmenu=Menu103770;url=/category/juniors/grane.do;");aI("text=`GUESS`;showmenu=Menu103771;url=/category/juniors/guess.do;");aI("text=`L8ter`;showmenu=Menu103772;url=/category/juniors/l8ter.do;");aI("text=`l.e.i.`;showmenu=Menu103773;url=/category/juniors/l.e.i..do;");aI("text=`Love Rocks`;showmenu=Menu103774;url=/category/juniors/love+rocks.do;");aI("text=`Nori`;showmenu=Menu103775;url=/category/juniors/nori.do;");aI("text=`One Clothing`;showmenu=Menu103776;url=/category/juniors/one+clothing.do;");aI("text=`Piama`;showmenu=Menu103777;url=/category/juniors/piama.do;");aI("text=`Rocawear`;showmenu=Menu103778;url=/category/juniors/rocawear.do;");aI("text=`Silver Jeans&#174;`;showmenu=Menu103779;url=/category/juniors/silver+jeans.do;");aI("text=`Star City`;showmenu=Menu103780;url=/category/juniors/star+city.do;");}with(milonic=new menuname("Menu100813")){style=menuStyle0;aI("text=`Athletic`;showmenu=Menu100814;url=/category/men/athletic.do;");aI("text=`Jeans`;showmenu=Menu100817;url=/category/men/jeans.do;");aI("text=`Casual Shirts`;showmenu=Menu100821;url=/category/men/casual+shirt.do;");aI("text=`Golf Apparel`;showmenu=Menu103575;url=/category/men/golf+apparel.do;");aI("text=`Swimwear`;showmenu=Menu102030;url=/category/men/swimwear.do;");aI("text=`Shorts`;showmenu=Menu102218;url=/category/men/shorts.do;");aI("text=`Casual Pants`;showmenu=Menu100825;url=/category/men/casual+pants.do;");aI("text=`Sweaters`;showmenu=Menu100829;url=/category/men/mens+sweaters.do;");aI("text=`Dress Shirts`;showmenu=Menu100830;url=/category/men/mens+dress+shirts.do;");aI("text=`Neckwear`;showmenu=Menu102492;url=/category/men/neckwear.do;");aI("text=`Dress Pants`;showmenu=Menu100833;url=/category/men/mens+dress+pants.do;");aI("text=`Suit Separates`;showmenu=Menu100835;url=/category/men/suit+separates.do;");aI("text=`Blazers & Sportcoats`;showmenu=Menu100834;url=/category/men/blazers+%26+sportcoats.do;");aI("text=`Underwear`;showmenu=Menu100836;url=/category/men/underwear.do;");aI("text=`Socks`;showmenu=Menu100837;url=/category/men/socks.do;");aI("text=`Sleepwear & Loungewear`;showmenu=Menu100838;url=/category/men/pajamas+%26+loungewear.do;");aI("text=`Coats & Jackets`;showmenu=Menu100840;url=/category/men/coats+%26+jackets.do;");aI("text=`Accessories`;showmenu=Menu100853;url=/category/men/accessories.do;");aI("text=`Gifts`;showmenu=Menu100858;url=/category/men/gifts.do;");aI("text=`Calvin Klein`;showmenu=Menu101961;url=/category/men/mens+calvin+klein.do;");aI("text=`Claiborne`;showmenu=Menu102222;url=/category/men/claiborne.do;");aI("text=`Columbia`;showmenu=Menu102223;url=/category/men/mens+columbia.do;");aI("text=`Consensus`;showmenu=Menu102224;url=/category/men/consensus.do;");aI("text=`Dockers`;showmenu=Menu104021;url=/category/men/dockers.do;");aI("text=`Izod`;showmenu=Menu102225;url=/category/men/mens+izod.do;");aI("text=`Lyle & Scott`;showmenu=Menu102226;url=/category/men/lyle+%26+scott.do;");aI("text=`Nautica`;showmenu=Menu102034;url=/category/men/nautica.do;");aI("text=`Paradise`;showmenu=Menu102035;url=/category/men/paradise.do;");aI("text=`Perry Ellis`;showmenu=Menu102036;url=/category/men/perry+ellis.do;");aI("text=`Ruff Hewn`;showmenu=Menu102037;url=/category/men/mens+ruff+hewn.do;");aI("text=`Statements`;showmenu=Menu102038;url=/category/men/statements.do;");aI("text=`Tommy Bahama`;showmenu=Menu103751;url=/category/men/mens+tommy+bahama.do;");aI("text=`Woolrich`;showmenu=Menu103752;url=/category/men/woolrich.do;");}with(milonic=new menuname("Menu100859")){style=menuStyle0;aI("text=`Baby Apparel`;showmenu=Menu102361;url=/category/kids/baby+apparel.do;");aI("text=`Baby Gifts`;showmenu=Menu102366;url=/category/kids/baby+gifts.do;");aI("text=`Girls' 2-6X`;showmenu=Menu100868;url=/category/kids/girl+2-6x.do;");aI("text=`Girls' 7-16`;showmenu=Menu100869;url=/category/kids/girl+7-16.do;");aI("text=`Girls' Swimwear`;showmenu=Menu101971;url=/category/kids/swim.do;");aI("text=`Girls' Sleepwear`;showmenu=Menu100870;url=/category/kids/girls+sleepwear.do;");aI("text=`Boys' 2-7`;showmenu=Menu100874;url=/category/kids/boy+2-7.do;");aI("text=`Boys' 8-20`;showmenu=Menu100875;url=/category/kids/boy+8-20.do;");aI("text=`Boys' Swimwear`;showmenu=Menu102401;url=/category/kids/swim+shop.do;");aI("text=`Boys' Sleepwear`;showmenu=Menu100876;url=/category/kids/boys+sleepwear.do;");aI("text=`Toys By Age`;showmenu=Menu100877;url=/category/kids/toys+by+age.do;");}with(milonic=new menuname("Menu100882")){style=menuStyle0;aI("text=`Women's`;showmenu=Menu100883;url=/category/shoes+%26+handbags/womens.do;");aI("text=`Juniors`;showmenu=Menu100892;url=/category/shoes+%26+handbags/juniors+shoes.do;");aI("text=`Men's`;showmenu=Menu100897;url=/category/shoes+%26+handbags/mens.do;");aI("text=`Brands`;showmenu=Menu103414;url=/category/shoes+%26+handbags/shoe+brands.do;");aI("text=`Shoulder Bags`;showmenu=Menu100902;url=/category/shoes+%26+handbags/shoulder+bags.do;");aI("text=`Totes & Top-handles`;showmenu=Menu100906;url=/category/shoes+%26+handbags/totes+%26+top-handles.do;");aI("text=`Hobos`;showmenu=Menu100903;url=/category/shoes+%26+handbags/hobos.do;");aI("text=`Satchels`;showmenu=Menu100905;url=/category/shoes+%26+handbags/satchels.do;");aI("text=`Minis & Clutches`;showmenu=Menu100904;url=/category/shoes+%26+handbags/minis+%26+clutches.do;");aI("text=`Laptop & Business`;showmenu=Menu100907;url=/category/shoes+%26+handbags/laptop+%26+business.do;");aI("text=`Special Occasion`;showmenu=Menu101452;url=/category/shoes+%26+handbags/special+occasion.do;");aI("text=`Juniors'`;showmenu=Menu101905;url=/category/shoes+%26+handbags/juniors%27+handbags.do;");aI("text=`Brands`;showmenu=Menu103456;url=/category/shoes+%26+handbags/handbag+brands.do;");}with(milonic=new menuname("Menu100910")){style=menuStyle0;aI("text=`Belts`;showmenu=Menu100911;url=/category/jewelry+%26+accessories/belts.do;");aI("text=`Wallets`;showmenu=Menu100912;url=/category/jewelry+%26+accessories/wallets.do;");aI("text=`Social Occasion Wraps`;showmenu=Menu100913;url=/category/jewelry+%26+accessories/social+occasion+wraps.do;");aI("text=`Sunglasses`;showmenu=Menu101906;url=/category/jewelry+%26+accessories/sunglasses.do;");aI("text=`Socks & Hosiery`;showmenu=Menu104316;url=/category/jewelry+%26+accessories/socks+%26+hosiery.do;");aI("text=`Watches`;showmenu=Menu100915;url=/category/jewelry+%26+accessories/watches.do;");aI("text=`Fashion Jewelry`;showmenu=Menu100918;url=/category/jewelry+%26+accessories/fashion+jewelry.do;");aI("text=`Gemstone Jewelry`;showmenu=Menu100919;url=/category/jewelry+%26+accessories/gemstone+jewelry.do;");aI("text=`Social Occasion Jewelry`;showmenu=Menu100920;url=/category/jewelry+%26+accessories/social+occasion+jewelry.do;");aI("text=`Men's Cuff Links & Jewelry`;showmenu=Menu100921;url=/category/jewelry+%26+accessories/men%27s+cuff+links+%26+jewelry.do;");aI("text=`Sterling Silver Jewelry`;showmenu=Menu103654;url=/category/jewelry+%26+accessories/sterling+silver+jewelry.do;");}with(milonic=new menuname("Menu100922")){style=menuStyle0;aI("text=`Clinique`;showmenu=Menu100923;url=/category/beauty+%26+fragrance/clinique.do;");aI("text=`Elizabeth Arden`;showmenu=Menu102249;url=/category/beauty+%26+fragrance/elizabeth+arden.do;");aI("text=`Est&eacute;e Lauder`;showmenu=Menu102255;url=/category/beauty+%26+fragrance/estee+lauder.do;");aI("text=`Lab Series Skincare for Men`;showmenu=Menu102250;url=/category/beauty+%26+fragrance/lab+series+skincare+for+men.do;");aI("text=`Sovage`;showmenu=Menu101999;url=/category/beauty+%26+fragrance/sovage.do;");aI("text=`Amatokin`;showmenu=Menu100928;url=/category/beauty+%26+fragrance/amatokin.do;");aI("text=`Ceramide`;showmenu=Menu102552;url=/category/beauty+%26+fragrance/ceramide.do;");aI("text=`Hylexin`;showmenu=Menu100926;url=/category/beauty+%26+fragrance/hylexin.do;");aI("text=`Intervene`;showmenu=Menu102553;url=/category/beauty+%26+fragrance/intervene.do;");aI("text=`Lumedia`;showmenu=Menu100927;url=/category/beauty+%26+fragrance/lumedia.do;");aI("text=`Prevage`;showmenu=Menu102004;url=/category/beauty+%26+fragrance/prevage.do;");aI("text=`StriVectin`;showmenu=Menu100925;url=/category/beauty+%26+fragrance/strivectin.do;");aI("text=`Women's`;showmenu=Menu100929;url=/category/beauty+%26+fragrance/womens+fragrances.do;");aI("text=`Men's`;showmenu=Menu100930;url=/category/beauty+%26+fragrance/mens+fragrances.do;");aI("text=`Brands`;showmenu=Menu103831;url=/category/beauty+%26+fragrance/brands.do;");aI("text=`Women's`;showmenu=Menu100931;url=/category/beauty+%26+fragrance/womens.do;");aI("text=`Men's`;showmenu=Menu100932;url=/category/beauty+%26+fragrance/mens.do;");}with(milonic=new menuname("Menu100933")){style=menuStyle0;aI("text=`Kitchen`;showmenu=Menu100934;url=/category/home/kitchen.do;");aI("text=`Dining & Entertaining`;showmenu=Menu100940;url=/category/home/dining+%26+entertaining.do;");aI("text=`Home Accents`;showmenu=Menu100950;url=/category/home/home+accents.do;");aI("text=`Electronics`;showmenu=Menu100956;url=/category/home/electronics.do;");aI("text=`Personal Care`;showmenu=Menu102413;url=/category/home/personal+care.do;");aI("text=`Luggage`;showmenu=Menu100963;url=/category/home/luggage.do;");}with(milonic=new menuname("Menu100966")){style=menuStyle0;aI("text=`Towels`;showmenu=Menu100967;url=/category/bed+%26+bath/towels.do;");aI("text=`Rugs`;showmenu=Menu100968;url=/category/bed+%26+bath/rugs.do;");aI("text=`Bath Accessories`;showmenu=Menu100969;url=/category/bed+%26+bath/bath+accessories.do;");aI("text=`Bedding Collections`;showmenu=Menu100970;url=/category/bed+%26+bath/bedding+collections.do;");aI("text=`Comforter Sets`;showmenu=Menu100971;url=/category/bed+%26+bath/comforter+sets.do;");aI("text=`Quilts`;showmenu=Menu100972;url=/category/bed+%26+bath/quilts.do;");aI("text=`Down & Down-alternative Comforters`;showmenu=Menu100973;url=/category/bed+%26+bath/down+%26+down-alternative+comforters.do;");aI("text=`Sheets`;showmenu=Menu100974;url=/category/bed+%26+bath/sheets.do;");aI("text=`Blankets & Throws`;showmenu=Menu100975;url=/category/bed+%26+bath/blankets+%26+throws.do;");aI("text=`Pillows`;showmenu=Menu100976;url=/category/bed+%26+bath/pillows.do;");aI("text=`Pillow Protectors`;showmenu=Menu104161;url=/category/bed+%26+bath/pillow+protectors.do;");aI("text=`Mattress Pads`;showmenu=Menu100977;url=/category/bed+%26+bath/mattress+pads.do;");aI("text=`Foam Toppers`;showmenu=Menu100978;url=/category/bed+%26+bath/foam+toppers.do;");aI("text=`Dorm Shop`;showmenu=Menu104162;url=/category/bed+%26+bath/dorm+shop.do;");aI("text=`Calvin Klein`;showmenu=Menu102005;url=/category/bed+%26+bath/calvin+klein+bedding.do;");aI("text=`Croscill`;showmenu=Menu102006;url=/category/bed+%26+bath/croscill+bed+%26+bath.do;");aI("text=`Karen Neuburger`;showmenu=Menu102158;url=/category/bed+%26+bath/karen+neuburger+bed+%26+bath.do;");aI("text=`LivingQuarters`;showmenu=Menu102010;url=/category/bed+%26+bath/livingquarters+bed+%26+bath.do;");aI("text=`Ruff Hewn`;showmenu=Menu102011;url=/category/bed+%26+bath/ruff+hewn+bed+%26+bath.do;");aI("text=`Tommy Bahama`;showmenu=Menu102012;url=/category/bed+%26+bath/tommy+bahama+bed+%26+bath.do;");aI("text=`Tommy Hilfiger`;showmenu=Menu102013;url=/category/bed+%26+bath/tommy+hilfiger+bed+%26+bath.do;");aI("text=`Laura Ashley`;showmenu=Menu102752;url=/category/bed+%26+bath/laura+ashley+bed+%26+bath.do;");}with(milonic=new menuname("Menu101011")){style=menuStyle0;aI("text=`Gift Cards`;showmenu=Menu101012;url=/category/gifts/gift+cards.do;");aI("text=`Gifts for Grandma`;showmenu=Menu101462;url=/category/gifts/gifts+for+grandma.do;");aI("text=`Gifts for Mom`;showmenu=Menu101454;url=/category/gifts/gifts+for+mom.do;");aI("text=`Gifts for Juniors`;showmenu=Menu101465;url=/category/gifts/gifts+for+juniors.do;");aI("text=`Gifts for Tweens`;showmenu=Menu101458;url=/category/gifts/gifts+for+tweens.do;");aI("text=`Gifts for Her`;showmenu=Menu101233;url=/category/gifts/gifts+for+her.do;");aI("text=`Gifts for Grandpa`;showmenu=Menu101463;url=/category/gifts/gifts+for+grandpa.do;");aI("text=`Gifts for Dad`;showmenu=Menu101455;url=/category/gifts/gifts+for+dad.do;");aI("text=`Gifts for Young Men`;showmenu=Menu101461;url=/category/gifts/gifts+for+young+men.do;");aI("text=`Gifts for Him`;showmenu=Menu101470;url=/category/gifts/gifts+for+him.do;");aI("text=`Gifts for New Baby`;showmenu=Menu101456;url=/category/gifts/gifts+for+new+baby.do;");aI("text=`Gifts for Girl`;showmenu=Menu101467;url=/category/gifts/gifts+for+girl.do;");aI("text=`Gifts for Boy`;showmenu=Menu101466;url=/category/gifts/gifts+for+boy.do;");aI("text=`Gifts for the Home`;showmenu=Menu101236;url=/category/gifts/gifts+for+the+home.do;");aI("text=`Gifts for Anniversary`;showmenu=Menu101459;url=/category/gifts/gifts+for+anniversary.do;");}
+drawMenus();
+</script>
+<!-- milonic menu end -->
+
+<!-- 954 -->
+<table width="954" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+
+    
+    
+        <td>
+          <script>
+          with(milonic=new menuname("Main Menu")){
+            style=menuStyle;
+            alwaysvisible=1;
+            orientation="horizontal";
+            position="relative";
+
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav01_off.jpg;overimage=/images/en_US/global/globalnav/globalnav01_on.jpg;title=`Women`;url=/category/women.do;showmenu=Menu100701;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav01_off.jpg;title=`Women`;url=/category/women.do;showmenu=Menu100701;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav10_off.jpg;overimage=/images/en_US/global/globalnav/globalnav10_on.jpg;title=`Intimate Apparel`;url=/category/intimate+apparel.do;showmenu=Menu100749;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav10_off.jpg;title=`Intimate Apparel`;url=/category/intimate+apparel.do;showmenu=Menu100749;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav11_off.jpg;overimage=/images/en_US/global/globalnav/globalnav11_on.jpg;title=`Juniors`;url=/category/juniors.do;showmenu=Menu100779;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav11_off.jpg;title=`Juniors`;url=/category/juniors.do;showmenu=Menu100779;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav02_off.jpg;overimage=/images/en_US/global/globalnav/globalnav02_on.jpg;title=`Men`;url=/category/men.do;showmenu=Menu100813;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav02_off.jpg;title=`Men`;url=/category/men.do;showmenu=Menu100813;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav03_off.jpg;overimage=/images/en_US/global/globalnav/globalnav03_on.jpg;title=`Kids`;url=/category/kids.do;showmenu=Menu100859;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav03_off.jpg;title=`Kids`;url=/category/kids.do;showmenu=Menu100859;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav04_off.jpg;overimage=/images/en_US/global/globalnav/globalnav04_on.jpg;title=`Shoes & Handbags`;url=/category/shoes+%26+handbags.do;showmenu=Menu100882;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav04_off.jpg;title=`Shoes & Handbags`;url=/category/shoes+%26+handbags.do;showmenu=Menu100882;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav05_off.jpg;overimage=/images/en_US/global/globalnav/globalnav05_on.jpg;title=`Jewelry & Accessories`;url=/category/jewelry+%26+accessories.do;showmenu=Menu100910;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav05_off.jpg;title=`Jewelry & Accessories`;url=/category/jewelry+%26+accessories.do;showmenu=Menu100910;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav06_off.jpg;overimage=/images/en_US/global/globalnav/globalnav06_on.jpg;title=`Beauty & Fragrance`;url=/category/beauty+%26+fragrance.do;showmenu=Menu100922;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav06_off.jpg;title=`Beauty & Fragrance`;url=/category/beauty+%26+fragrance.do;showmenu=Menu100922;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav07_off.jpg;overimage=/images/en_US/global/globalnav/globalnav07_on.jpg;title=`Home`;url=/category/home.do;showmenu=Menu100933;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav07_off.jpg;title=`Home`;url=/category/home.do;showmenu=Menu100933;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav08_off.jpg;overimage=/images/en_US/global/globalnav/globalnav08_on.jpg;title=`Bed & Bath`;url=/category/bed+%26+bath.do;showmenu=Menu100966;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav08_off.jpg;title=`Bed & Bath`;url=/category/bed+%26+bath.do;showmenu=Menu100966;");
+                  
+          
+              
+                    <!--aI("image=/images/en_US/global/globalnav/globalnav09_off.jpg;overimage=/images/en_US/global/globalnav/globalnav09_on.jpg;title=`Gifts`;url=/category/gifts.do;showmenu=Menu101011;");-->
+					aI("image=/images/en_US/global/globalnav/globalnav09_off.jpg;title=`Gifts`;url=/category/gifts.do;showmenu=Menu101011;");
+                  
+          
+          }
+          drawMenus();
+          </script>
+        </td>
+     
+
+  </tr>
+  <tr>
+	<td class="globalNavGreyLine" colspan="9"></td>
+  </tr>
+  <tr>
+  <td align="left" class="topNavSearch" colspan="9">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<form name="searchForm" action="http://www.herbergers.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'Keyword or Item#');"></form>
+	<tbody><tr>
+			<td>
+			<img src="/images/en_US/global/globalnav/searchText.gif">
+			<input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='Keyword or Item#')this.value='';">
+			<input class="inputNoBorder" type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Search">
+			</td>
+			<td align="right" class="cart">
+				<div class="basket">
+					<span>
+						<img src="/images/en_US/local/localgraphics/leftBasketHeader.gif" border="0">
+						<a href="http://www.herbergers.com/basket.do">
+						<img src="/images/en_US/global/globalnav/basket.gif" border="0" alt="View Basket"></a>
+						&nbsp;&nbsp;
+						<a href="http://www.herbergers.com/basket.do">
+						Shopping Bag
+						</a>
+					</span>
+					<img src="/images/en_US/local/localgraphics/rightBagHeader.gif" border="0">
+					</div>
+			</td>
+			<td>
+				<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="5" height="1" border="0">
+			</td>
+			
+			
+        </tr>
+        <!-- 
+            <tr>
+                <td align=right colspan=3><a href="/p2p/advancedSearch.do?init=true" onMouseOver="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_on.gif');" onMouseOut="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_off.gif');"><img src="/images/en_US/global/globalnav/advancedsearch_off.gif" border=0 alt="Advanced Search" name="top_advancedsearch"></a></td>
+            </tr>
+         -->
+		
+		
+	</tbody></table></td>
+  </tr>
+  <tr>
+  <td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="12" border="0"></td>
+  </tr>
+</tbody></table>
+<!--CatNav End-->
+</div>	
+		</td>
+	</tr>
+
+
+	<tr valign="top">
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr valign="top">
+          
+		      <td class="contentbg"><div>	
+   
+   
+
+
+
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		<td class="shopBag">
+		
+		<table border="0" cellpadding="0" cellspacing="0" width="825">
+          <tbody><tr>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td valign="middle"><a href="/category/customer+service.do"><img src="/images/en_US/local/ancillary/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
+                  <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="20" height="1" border="0"></td>
+				  <td valign="middle">
+				  
+					  <table cellpadding="0" cellspacing="0" border="0" width="200px">
+							<tbody><tr>
+								<td><img src="/images/en_US/local/localgraphics/pinkBckg_top.gif" width="200px" border="0"></td>
+							</tr>
+							<tr>
+								<td align="center">
+									<table class="checkoutPinkBack" width="200px">
+										<tbody><tr>
+											<td align="center" style="padding-top:5px;padding-bottom:5px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
+
+
+<select name="subCatdd" onchange="changeCat(this.form,this)">
+    
+    
+            <option value="/category/customer+service/furniture+services.do">Furniture Services</option>
+        
+    
+    
+            <option value="/category/customer+service/gift+wrap.do">Gift Wrap</option>
+        
+    
+    
+            <option value="/category/customer+service/how+to+place+an+order.do">How To Place An Order</option>
+        
+    
+    
+            <option value="/category/customer+service/payment+options.do">Payment Options</option>
+        
+    
+    
+            <option value="/category/customer+service/pricing.do">Pricing</option>
+        
+    
+    
+            <option value="/category/customer+service/coupons+and+promotions.do">Coupons and Promotions</option>
+        
+    
+    
+            <option value="/category/customer+service/returns.do">Returns</option>
+        
+    
+    
+            <option value="/category/customer+service/sales+tax.do">Sales Tax</option>
+        
+    
+    
+            <option value="/category/customer+service/shipping+and+delivery.do">Shipping and Delivery</option>
+        
+    
+    
+            <option value="/category/customer+service/privacy+policy.do?sortby=ourPicks&amp;thumbby=12" selected="">Privacy Policy</option>
+        
+    
+    
+            <option value="/category/customer+service/other+policies.do">Other Policies</option>
+        
+    
+    
+            <option value="/category/customer+service/rebate+center.do">Rebate Center</option>
+        
+    
+    
+            <option value="/category/customer+service/faq.do">FAQ</option>
+        
+    
+</select>
+
+</td>						
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="/images/en_US/local/localgraphics/pinkBckg_bottom.gif" width="200px" border="0"></td>
+							</tr>
+						</tbody></table>
+				  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+          <tr valign="top">
+		  	<td>
+				<style type="text/css"><!--@import url("/text/sharedassets/includes/css/ancillary.css");--></style><div id="ancillary"><h1>Privacy Policy &amp; Security Procedures</h1>		<h3>The Bon-Ton's Privacy Policy</h3>	<p>This Privacy Policy was last updated on August 22, 2007.</p>	<p>This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.</p>	<p>We have posted this Privacy Policy here to inform you of the information we may collect, how it is handled and your rights to opt out of information disclosure. We value our customers and understand your concerns about privacy. Therefore, we have instituted policies intended to ensure your personal information is handled in a safe and responsible manner.</p>	<p>This Privacy Policy includes examples of the types of personal information we collect. We do not sell or rent the information you provide to us. We do, however, share your information with third parties under certain circumstances. We use this information for marketing and promotional purposes and to service your account. The examples provided below are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. </p><h3>Information We May Collect</h3>	<p>The Bon-Ton may collect personal information about you from the following sources:</p>		<ul>		<li>Information we receive from you (or that is provided to us on your behalf) on applications, contest entry forms, survey responses and other forms you submit to us, such as your name, address, email address, telephone number, Social Security number and income;</li>		<li>Information about your transactions with The Bon-Ton or others, such as your purchasing preferences;</li>		<li>And information from consumer reporting agencies, providers of marketing and demographic information and data collection agencies, such as customer names and mailing addresses, and information about your credit worthiness.<br>		</li>	</ul>		<h3>Information We May Disclose And To Whom We May Disclose Information</h3>		<h4>Disclosures Permitted By Law</h4>	<p>The Bon-Ton may disclose your personal information without your consent as permitted by law. For example, we may use non-affiliated parties to perform services for us, such as providing customer assistance and customer billing, and we may disclose your personal information to consumer reporting agencies. We also may disclose information in response to requests from law enforcement agencies or in response to a subpoena or court order.</p>	<h4>Other Disclosures</h4><p>We may disclose the personal information we collect to companies that perform marketing services on our behalf or to companies that offer products or services you may find of value or to other financial institutions, such as insurers, with whom we have marketing agreements.</p>	<h3>Information Regarding Former Customers</h3>	<p>The Bon-Ton does not disclose personal information about former customers or customers with inactive accounts, except in accordance with this Privacy Policy.</p>	<h3>Information Regarding Children</h3>	<p>For their safety and privacy, we do not collect information from children under 13 years of age except as permitted by law.</p>	<h3>Our Security Procedures</h3>	<p>To prevent unauthorized access to your personal information, we have put in place physical, electronic and managerial procedures. The Bon-Ton restricts access to personal information about you to those employees whom we determine have a legitimate business purpose to access such information in connection with the provision of products or services to you. We employ security techniques designed to protect our customer data. We provide training and communications programs designed to educate employees about the meaning and requirements of our strict standards for data security and confidentiality.</p>	<h3>Definition Of And How We Use "Cookies"</h3>	<p>A "cookie" is a small file stored on your computer's hard drive by your web browser that allows our website to recognize you every time you visit our site. No personal identifiable information about you is stored in the cookies. On our site, cookies are used to keep a list of: pages that you clicked on during your visit; items you have selected for printing; and items you have put on your shopping list or placed in the Shopping Bag.</p>	<p>It is your choice to not accept cookies. The "Help" menu of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. However, because cookies allow you to take full advantage of all features on our website, for the best experience we recommend you leave cookies enabled.</p>	<h3>Changes To This Privacy Policy</h3>	<p>We reserve the right to modify or supplement this Privacy Policy at any time. If we make material changes, we will provide current customers with a revised notice that describes our new practices.</p>	<h3>Your Preference</h3>	<p>If you prefer that we do not disclose your personal information to non-affiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to opt out of disclosures to non-affiliated third parties, you may mail a written request, along with your name, address and account number, to the following address:</p>	<p><strong>The Bon-Ton Department Stores, Inc. </strong><br>		<em>Corporate Office</em><br>		2801 East Market Street<br>		York, PA 17405</p>	<p>Or call the following toll-free number: <br>1-800-233-7626</p>	<p>If you have a joint account, a request by one party will apply to the entire account. Please allow approximately 10 weeks for your request to take effect.</p>	</div>
+			</td>
+          </tr>
+		  </tbody></table>
+		  
+		  </td></tr>
+        </tbody></table>
+</div></td>
         </tr>
       </tbody></table>
     </td>
-  </tr>
+	</tr>
+
+
+	<tr valign="bottom">
+		<td align="left" class="navfooterbg"><!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function email_subscription()
+  {	
+  	if((document.getElementsByName('email_addr')[0].value != '') && (document.getElementsByName('email_addr')[0].value != 'Enter email address'))
+	{
+		var siteName = 'herbergers';
+		var iPostId;
+		var email = document.getElementsByName('email_addr')[0].value;
+		
+		switch(siteName)
+		{
+			case 'bonton':
+				iPostId = '006';
+				break;
+			case 'carsons':
+				iPostId = '130';
+				break;
+			case 'bergners':
+				iPostId = '110';
+				break;
+			case 'elder-beerman':
+				iPostId = '005';
+				break;
+			case 'herbergers':
+				iPostId = '004';
+				break;
+			case 'bostonstore':
+				iPostId = '120';
+				break;
+			case 'younkers':
+				iPostId = '003';
+				break;
+			default:
+				ipostId = '900';
+		}
+		
+		var URL = 'http://ipost.com/bonton/prefs?email_addr=' + email + '&org_code=' + iPostId;
+		window.open(URL,'EmailSignup','print_info','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copy history=no,scrollbars=yes,width=365,height=415');
+	}
+	else
+	{
+		alert('Please enter your email address to join our email list.');
+	}
+	
+  }
+</script>
+
+
+<!-- Custom code for popping up the correct page when the user clicks on "Contact Us" -->
+
+
+		
+		
+<!-- End of Contact Us link customization -->
+<table width="954" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="954" height="10" border="0"></td>
+</tr>
+<tr>
+	<td colspan="2" class="greyLine"></td>
+</tr>
+<tr>
+	<td class="searchArea"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+
+		<form id="emailSignUp" method="get" action="JavaScript:email_subscription()"></form>
+
+		<tbody><tr>
+			<td colspan="3"><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
+		</tr>
+		<tr>
+			<td width="130px"><input name="email_addr" type="text" value="Enter email address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='Enter email address')this.value='';" onfocusout="if(this.value=='')this.value='Enter email address';"></td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" height="1" width="4px" border="0"></td>
+			<td><input class="inputNoBorder" type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
+		</tr>
+		
+	</tbody></table></td>
+	<td align="right" class="bottomNavRight" width="734px"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+				
+			<td class="footer" nowrap="" align="right">
+			<!-- TAR FIX : artf561485 - Changing the privacy security link : START -->
+			<a href="/category/customer+service/privacy+policy.do"><b>Privacy Policy</b></a>
+			<!-- TAR FIX : artf561485 - Changing the privacy security link : END -->
+			|	
+			<a href="/category/product+recalls.do ">Product Recalls</a>
+			|			
+			<a href="#" onclick="return flyopen(665,650,'http://news.bonton.com/apps/contactus/contactus.asp?d=004');">Contact Us</a>
+			|
+			<!-- **************** CUSTOM: Start for ANC_BRND 3 ************************** -->
+			<a href="/category/credit+services.do">Credit Services</a>
+			|
+            <!-- **************** CUSTOM: End for ANC_BRND 3 ************************** -->			
+			<a href="/category/special+events.do">Sales &amp; Events</a>
+			|
+			<!-- TAR FIX : Artifact artf560920 : BT: ID#74 - Investor Relations link : START -->
+			<a href="http://investors.bonton.com/" target="_blank">Investor Relations</a>	
+			<!-- TAR FIX : Artifact artf560920 : BT: ID#74 - Investor Relations link : START -->
+
+			
+				</td>
+      <!-- <a href="/category/customer+service/terms+of+use.do">Terms of Use</a>
+      | 
+      
+      <a href="/ancillary/sitemap.do">Site Map</a> -->
+	 <!-- P2P_CONF 6 : disable the hyperlinks -->
+	  <!--| 
+	  -->
+      <!---->
+      <!--<a href="/wishlist/friendfind.do?initial=true">Find Wish List</a><br>
+	  -->
+			<!-- **************** CUSTOM: Start for CUST_BRND 1 ************************** -->
+			<!-- &copy;2008 
+			Company Name 
+			</td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td> -->
+			<!-- **************** CUSTOM: End for CUST_BRND 1 ************************** -->
+		</tr>
+		<!-- **************** CUSTOM: Start for CUST_BRND 1 ************************** -->
+		<tr>
+		<td height="10px"></td>
+		</tr>
+		<tr>
+			<td class="footer" nowrap="" align="right">
+				<a href="/category/our+community.do">Our Community</a>
+				|
+				<a href="JavaScript:store_location()">Find a Store</a>
+				|
+				<a href="http://careers.bonton.com" target="_blank">Career Opportunities</a>
+				|
+				<a href="/category/corporate+gifts.do">Corporate Gifts</a>
+				|
+				<a href="/ancillary/sitemap.do">Site Map</a>
+				|
+				<a href="http://logistics.bonton.com" target="_blank">Vendor Logistics</a>
+				<!--|
+				<a href="http://catalog.herbergers.com/" target="_blank" >Sales Catalogs</a>-->
+			</td>
+		</tr>
+		<!-- **************** CUSTOM: End for CUST_BRND 1 ************************** -->
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" class="greyLine"></td>
+</tr>
+<tr>
+	<td colspan="2">
+	<img src="/images/en_US/global/globalgraphics/spacer01.gif" height="5px" width="1px" border="0">
+	</td>
+</tr>
+<tr>
+	<td align="left">
+	
+	<!-- Insertion of HackerSafe logo -->
+
+<!-- START SCANALERT CODE -->
+
+
+	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.herbergers.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.herbergers.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a>
+  	
+
+<!-- END SCANALERT CODE --> 
+			
+			
+					
+	
+	</td>
+			<td class="footer" style="padding-right:15px;" nowrap="" align="right">
+			©2008 
+			Bon-Ton Stores, Inc.
+			</td>
+		</tr>
+<tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
+</tr>
+
 </tbody></table>
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#999999"> 
-    <td><img src="/pics/navigation/transparent.gif" width="800" height="3"></td>
-  </tr>
-  <tr bgcolor="#CC0000"> 
-    <td><img src="/pics/navigation/transparent.gif" width="750" height="25"></td>
-  </tr>
-</tbody></table>
-<!-- END NEW_NAV -->
-<table width="700" border="0" cellspacing="6" cellpadding="6" align="center">
-  <tbody><tr align="center"> 
-    <td> 
-      <p>&nbsp;</p><table width="450" border="0" cellspacing="6" cellpadding="6">
-        <tbody><tr>
-          <td><img src="../pics/who/privacy.gif" alt="Privacy Statement" width="153" height="19" vspace="2" border="0"><br>
-            <span class="text">Our commitment to you as our valued customer is 
-            to provide an exciting shopping experience. In order to do so, we 
-            may ask to obtain information about you so that we may improve our 
-            level of service to our customers. We welcome your opinions about 
-            the products and services that we provide. Because we respect your 
-            privacy, we always handle this information in a safe and responsible 
-            manner. To best serve you, we may share that information with other 
-            members of our Saks family of companies, but that information will 
-            not be shared outside of the Saks family of companies. We will continue 
-            to find new ways to enhance your shopping experience. <a href="http://www.saksincorporated.com/our_stores/questions.html" target="_blank">We 
-            welcome your comments, questions and suggestions</a> about our site!</span></td>
-        </tr>
-      </tbody></table>
-      <p>&nbsp;</p><table cellspacing="0" cellpadding="0" border="0" width="680">
-        <tbody><tr> 
-          <td align="center"><span class="bottomNav"><a href="../who/index.html">Who 
-            We Are</a> | <a href="../current/default.asp">Current Sales and Events</a> 
-            | <a href="../personal/index.html">Personal Style</a> | <a href="../right_at_home/index.html">Right 
-            At Home</a> | <a href="../exclusive/index.html">Our Exclusive Collections</a> 
-            | <a href="../gift/index.html">Great Gift Ideas &amp; Registry</a><br>
-            <a href="../credit/index.html">The Credit You Deserve</a> | <a href="../community/default.asp">Community 
-            Involvement</a> | <a href="http://www.saksincorporated.com/about_us.html" target="_blank">Corporate 
-            Info</a> | <a href="http://www.saksincorporated.com/careers.html" target="_blank">Career 
-            Opportunities</a> | <a href="../who/site_index.html">Site Index</a> 
-            | <a href="http://www.saksincorporated.com/our_stores/storelocator.html" target="_blank">Store 
-            Locator</a> | <a href="http://www.saksincorporated.com/our_stores/questions.html" target="_blank">Contact 
-            Us</a> | <a href="../index.html">Home</a></span></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+<!--BottomNav End-->
+</td>
+	</tr>
 </tbody></table>
 
 
-</body></html>
+ 
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<log:debug category="wwwroot.omniture.omniture.jsp" message="ReportSystemModel.suiteID : mlBonTonProd">
+<log:debug category="wwwroot.omniture.omniture.jsp" message="Before rendering the JS : s.pageName='Product Groups/Customer Service/Privacy Policy';">
+<!-- Omniture Reporting Support -->
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+function getId() {
+  return "mlBonTonProd"
+}
+</script>
+<script language="JavaScript" src="/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+s.pageName='Product Groups/Customer Service/Privacy Policy';
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://marketliveglobaldev.122.2O7.net/b/ss/marketliveglobaldev/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>
+<!-- End, Omniture Reporting Support -->
+<log:debug category="wwwroot.omniture.omniture.jsp" message="After rendering the JS : s.pageName='Product Groups/Customer Service/Privacy Policy';">
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+</log:debug></log:debug></log:debug></body></html>
