@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefinanser.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102131018id_/http%3A//www.thefinanser.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefinanser.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617134503id_/http%3A//www.thefinanser.com/privacy.html) for the most accurate reproduction.*
 
 # The FinanSer
 
@@ -8,7 +8,7 @@ This web site is owned and operated by John Wiley & Sons Ltd (“Wiley”).
 
 HOW TO CONTACT US
 
-If you have any questions about this web site or our privacy policy, please contact us by writing to Hannah Dudley, John Wiley & Sons Ltd, The Atrium, Southern Gate, Chichester, PO19 8SQ, UK or telephoning 01243 770 414.
+If you have any questions about this web site or our privacy policy, please contact us by writing to Louise Holden, John Wiley & Sons Ltd, The Atrium, Southern Gate, Chichester, PO19 8SQ, UK or telephoning 01243 770 414.
 
 OUR APPROACH TO PRIVACY
 
