@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709223224id_/http%3A//www.joyfulheart.com/admin/privacy_policy_popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617131851id_/http%3A//www.joyfulheart.com/admin/privacy_policy_popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
   * **5\. Security.** To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, behind password protection, or off-line. 
   * **6\. Termination**. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
 
-These policies apply to all websites owned by Wilson Internet Services and Joyful Heart Renewal Ministries, including wilsonweb.com, doctorebiz.com, joyfulheart.com, psalmwalk.com, and jesuswalk.com. If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact Dr. Ralph F. Wilson](http://www.wilsonweb.com/contact/) and he will reply promptly. 
+These policies apply to all websites owned by Wilson Internet Services and Joyful Heart Renewal Ministries, including wilsonweb.com, doctorebiz.com, joyfulheart.com, psalmwalk.com, and jesuswalk.com. If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact Dr. Ralph F. Wilson](http://www.joyfulheart.com/contact/) and he will reply promptly. 
