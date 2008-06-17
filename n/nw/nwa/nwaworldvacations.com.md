@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwaworldvacations.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026034753id_/http%3A//www.nwaworldvacations.com/misc/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwaworldvacations.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617135909id_/http%3A//www.nwaworldvacations.com/misc/privacypolicy.do) for the most accurate reproduction.*
 
 # NWA WorldVacations | Privacy Policy | Northwest Airlines Vacation Packages | Hawaii | Mexico | Caribbean | Las Vegas | Asia | Europe | other USA
 
