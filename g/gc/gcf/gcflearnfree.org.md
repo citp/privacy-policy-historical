@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gcflearnfree.org privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220051323id_/http%3A//www.gcflearnfree.org/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcflearnfree.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617111105id_/http%3A//www.gcflearnfree.org/home/privacy.aspx) for the most accurate reproduction.*
 
 # GCFLearnFree.org: Privacy Statement
 
-Privacy protection is important at GCFLearnFree.org, and we want you to know that we make sure that your personal information remains confidential. Please take a moment to read the following statement to learn how we handle your personal information. 
+Privacy protection is important at GCFLearnFree.org®, and we want you to know that we make sure that your personal information remains confidential. Please take a moment to read the following statement to learn how we handle your personal information. 
 
 GCFLearnFree.org is administered by Goodwill Industries of Eastern North Carolina, Inc, a 501(c)(3), tax-exempt organization. Our mission is to "provide an environment for people to improve the quality of their lives through employment and learning opportunities with a focus on persons with disabilities."
 
