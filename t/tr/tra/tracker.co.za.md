@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracker.co.za privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026013928id_/http%3A//www.tracker.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracker.co.za privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617195500id_/http%3A//www.tracker.co.za/privacy.htm) for the most accurate reproduction.*
 
 # ((( TRACKER )))
 
