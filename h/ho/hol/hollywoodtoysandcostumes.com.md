@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219163824id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617183020id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
 
-# Halloween, Halloween costume, Christmas Costumes, Costume Accessories
+# Privacy / Terms and Conditions - Hollywood Toys & Costumes - Halloween Costumes - Holiday Costumes - Costume Accessories
 
 [](http://www.hollywoodtoysandcostumes.com/index.php)  
   
 | [  
-Adults](http://www.hollywoodtoysandcostumes.com/store.php?rc_id=1) | [  
-Kids](http://www.hollywoodtoysandcostumes.com/store.php?rc_id=2) | [Accessories  
-& Props](http://www.hollywoodtoysandcostumes.com/store.php?rc_id=3) | [Wigs  
-& Hats](http://www.hollywoodtoysandcostumes.com/store.php?rc_id=4) | [  
-Masks](http://www.hollywoodtoysandcostumes.com/store.php?rc_id=5) | [  
-Contact Us](http://www.hollywoodtoysandcostumes.com/contactus.php) | [  
+Adults](http://www.hollywoodtoysandcostumes.com/adults) | [  
+Kids](http://www.hollywoodtoysandcostumes.com/kids) | [Accessories  
+& Props](http://www.hollywoodtoysandcostumes.com/accessories-props) | [Wigs  
+& Hats](http://www.hollywoodtoysandcostumes.com/wigs-hats) | [  
+Masks](http://www.hollywoodtoysandcostumes.com/masks) | [Toys  
+& Collectibles ](http://www.hollywoodtoysandcostumes.com/toys-collectibles) | [  
 My Account](http://www.hollywoodtoysandcostumes.com/mystart.php)  
 ---|---|---|---|---|---|---  
 | Privacy / Terms & Conditions  
@@ -31,7 +31,7 @@ Our Site uses various order forms for you to request information, products, and 
 
 Security is a priority at Hollywoodtoysandcostumes.com and we take every precaution necessary to ensure your purchasing experience with us is enjoyable as well as safe.  We use Secure Socket Layer (SSL) encrypting to ensure your personal information is kept private and secure. Credit card information is collected for purchases and transmitted via Geotrust encryption, one of the most trusted security providers on the Internet.
 
-he use of this Site indicates your agreement to the Privacy statement above. Hollywoodtoysandcostumes.com reserve the right to make changes and updates to this Privacy statement. All changes will be posted here in the Privacy / Terms & Conditions section of our website. Please check back periodically to view any such changes.   
+The use of this Site indicates your agreement to the Privacy statement above. Hollywoodtoysandcostumes.com reserve the right to make changes and updates to this Privacy statement. All changes will be posted here in the Privacy / Terms & Conditions section of our website. Please check back periodically to view any such changes.   
   
 **Returns**  
   
