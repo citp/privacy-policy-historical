@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212040248id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618015726id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
 
-# The Politico - Politico.com
+# Politico - Politico.com
 
+## Privacy Policy
+
+  
 **Last Updated:** January 17, 2007  
 This Privacy Policy discloses the privacy practices for the www.politico.com website (the “Site”), which is provided by The Politico (“we” or “us”), a publication of Capitol News Company, LLC. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to us at feedback@politico.com or The Politico, 1100 Wilson Blvd., 6th Floor, Arlington, VA 22209. 
 
