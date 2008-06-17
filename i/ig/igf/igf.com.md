@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502035733id_/http%3A//www.igf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617161527id_/http%3A//www.igf.com/privacy.html) for the most accurate reproduction.*
 
 # The 9th Annual Independent Games Festival
 
