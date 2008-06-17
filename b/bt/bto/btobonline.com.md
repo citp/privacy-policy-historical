@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214100730id_/http%3A//btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617050717id_/http%3A//www.btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # BtoB Magazine: Marketing News and Strategies for BtoB, Direct & Internet Marketing
-
-|  |  | 
-
-CURRENT ISSUE
-
-[
-
-](https://web.archive.org/apps/pbcs.dll/section?category=btobissue)
-
-SPECIAL LINKS
-
-**Outside of search marketing, where are you spending the most online?**
-
-  
-
-
-|  |  |  | 
 
 **Privacy Policy**
 
@@ -42,6 +25,3 @@ This Web site is operated in the United States.  If you are located in the Euro
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [_privacyhelp@crain.com_](mailto:privacyhelp@crain.com) or 313-446-6000.
 
 _Policy Last Updated:_  January 1, 2005
-
-|  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---
