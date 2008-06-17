@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guru.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229231015id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guru.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617160354id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
   	<title>Guru.com - Privacy Policy</title>
@@ -25,21 +25,8 @@ OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,s
 <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#ffffff" text="#949494" link="#ca6400" alink="#ca6400" vlink="#ca6400">
 
 
-<noscript><table width=100% cellpadding=0 cellspacing=0 border=0 align=left><tr><td width=1004></noscript>
-		<script language="javascript" type="text/javascript">
-		<!-- Begin
-		if (document.all||document.getElementById||document.layers) {
-		if (screen.width > 1024) {
-		document.write('<div style="width:100%;background-color:#bfbfbf">');
-		document.write('<div name="contain" style="width:1004px;background-color:#ffffff;">');
-		} else {
-		document.write('<div style="width:100%;">');
-		document.write('<div name="contain" style="width:100%;min-width:770px;background-color:#ffffff;">');
-		}
-		}
-		// End -->
-		</script><div style="width:100%;"><div name="contain" style="width:100%;min-width:770px;background-color:#ffffff;">
-		
+<div style="width:100%;background-color:#bfbfbf">
+	<div name="contain" style="width:1004px;background-color:#ffffff;">
 
 
 
@@ -48,16 +35,18 @@ OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,s
 
 
 
-<link href="/css/styles_20071211.css" rel="stylesheet" type="text/css">
+<link href="/css/styles_20080325.css" rel="stylesheet" type="text/css">
 
 
 
-<script type="text/javascript">
+
+<script language="javascript" type="text/javascript">
           
-	function checkfields()
+	function checkHeaderLoginfields()
 	{  
-	    validInput = true;
+	    var validInput = true;
 	    
+	    var un = 
 	    un = document.forms["headerForm"].Username.value;
 	    pw = document.forms["headerForm"].Password.value;
 	    
@@ -119,9 +108,27 @@ OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,s
         document.forms["headerForm"]["Username"].focus();
     }     
     
+    function SwapUsernamePlace()
+    {
+        if (document.getElementById("Username").value == '')
+        {
+            document.getElementById("UsernamePlace").style.display = "";
+            document.getElementById("Username").style.display = "none";
+        }
+    }
+    
+    function SwapPasswordPlace()
+    {
+        if (document.getElementById("Password").value == '')
+        {
+            document.getElementById("PasswordPlace").style.display = "";
+            document.getElementById("Password").style.display = "none";
+        }
+    }
+    
 </script>
 
-<form id="headerForm" style="margin-bottom:0px;" onsubmit="return checkfields();">
+<form id="headerForm" style="margin-bottom:0px;" onsubmit="return checkHeaderLoginfields();">
 
     <input type="hidden" name="sessiondestination" value="myadmin.cfm">
     <div style="padding-left:10px;padding-right:10px;padding-top:0px;">
@@ -131,7 +138,7 @@ OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,s
                 <td valign="top" style="padding-left:14px;padding-top:4px;">
                     <table border="0" cellpadding="0" cellspacing="0">
                         <tbody><tr>
-                            <td style="padding-top:12px;width:676px;"><h1 style="color:#76B1ED;"><span id="guHeaderNew_lblHeading">Find freelancers at the world's largest online service marketplace.</span></h1></td>
+                            <td style="padding-top:12px;width:676px;"><span style="color:#76B1ED;font-size:13pt;"><span id="guHeaderNew_lblHeading">Find freelancers at the world's largest online service marketplace.</span></span></td>
                         </tr>
                         <tr>
                             <td valign="bottom" style="height:40px;padding-top:0px;">
@@ -156,26 +163,26 @@ OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,s
                 <td><img src="/images/homepage/header_left.gif" alt=""></td>
                 <td>
                     <div style="width:974px;height:28px;background-color:#76B2EE;padding-bottom:0px;margin-bottom:0px;padding-top:0px;">
-                        <table border="0" cellpadding="0" cellspacing="0" style="height:28px;">       
-                            <tbody><tr>
-                                <td valign="middle" align="right" style="width:100px;"><a id="guHeaderNew_lnkHome" class="headerLinks" href="http://www.guru.com/emp/index.aspx">home</a></td>
-                                <td valign="middle" align="right" style="width:90px;"><a id="guHeaderNew_lnkSearch" class="headerLinks" href="http://www.guru.com/emp/search.cfm">search</a></td>
-                                <td valign="middle" align="right" style="width:120px;"><a id="guHeaderNew_lnkPost" class="headerLinks" href="http://www.guru.com/emp/post_project.cfm">post a project</a></td>
-                                <td valign="middle" align="right" style="width:95px;"><a id="guHeaderNew_lnkMyAdmin" class="headerLinks" href="http://www.guru.com/emp/myadmin.cfm">my admin</a></td>
-                                <td valign="middle" align="right" style="width:400px;"><div id="guHeaderNew_pnlLogin">
-	<input type="text" name="Username" id="Username" size="19" style="color:#8C8C8C;display:none;"><input type="text" value="Username" name="UsernamePlace" size="19" id="UsernamePlace" onfocus="javascript:SwapUsername();" style="color:#8C8C8C;">&nbsp;&nbsp;<input type="password" name="Password" id="Password" size="19" style="color:#8C8C8C;display:none;"><input type="text" value="Password" name="PasswordPlace" size="19" id="PasswordPlace" onfocus="javascript:SwapPassword();" style="color:#8C8C8C;">
+                    <table border="0" cellpadding="0" cellspacing="0" style="height:28px;">       
+                        <tbody><tr>
+                            <td valign="middle" align="right" style="width:100px;"><a id="guHeaderNew_lnkHome" class="headerLinks" href="http://www.guru.com/emp/index.aspx">home</a></td>
+                            <td valign="middle" align="right" style="width:90px;"><a id="guHeaderNew_lnkSearch" class="headerLinks" href="http://www.guru.com/emp/search.aspx?new">search</a></td>
+                            <td valign="middle" align="right" style="width:120px;"><a id="guHeaderNew_lnkPost" class="headerLinks" href="http://www.guru.com/emp/post_project.cfm">post a project</a></td>
+                            <td valign="middle" align="right" style="width:95px;"><a id="guHeaderNew_lnkMyAdmin" class="headerLinks" href="http://www.guru.com/emp/myadmin.cfm">my admin</a></td>
+                            <td valign="middle" align="right" style="width:400px;"><div id="guHeaderNew_pnlLogin">
+	<input type="text" name="Username" id="Username" size="19" style="color:#8C8C8C;display:none;" onblur="SwapUsernamePlace();"><input type="text" value="Username" name="UsernamePlace" size="19" id="UsernamePlace" onfocus="javascript:SwapUsername();" style="color:#8C8C8C;">&nbsp;&nbsp;<input type="password" name="Password" id="Password" size="19" style="color:#8C8C8C;display:none;" onblur="SwapPasswordPlace();"><input type="text" value="Password" name="PasswordPlace" size="19" id="PasswordPlace" onfocus="javascript:SwapPassword();" style="color:#8C8C8C;">
 </div></td>
-                                <td valign="middle" align="right" style="width:66px;height:28px;"><input src="/images/buttons/home-signin.gif" name="guHeaderNew$SignInButton" type="image" id="guHeaderNew_SignInButton" alt="Sign in" onclick="return checkfields();"></td>
-                                <td valign="middle" align="right" style="width:66px;"><a id="guHeaderNew_lnkRegister" class="headerLinks" href="http://www.guru.com/emp/company-createnewaccount.cfm">Register</a></td>
-                            </tr>
-                        </tbody></table>
-                    </div>
-                </td>
+                            <td valign="middle" align="right" style="width:66px;height:28px;"><input type="image" src="/images/buttons/home-signin.gif" alt="Sign in" onclick="return checkHeaderLoginfields();" id="imgLogin"></td>
+                            <td valign="middle" align="right" style="width:66px;"><a id="guHeaderNew_lnkRegister" class="headerLinks" href="http://www.guru.com/emp/company-createnewaccount.cfm">Register</a></td>
+                        </tr>
+                    </tbody></table>
+                </div></td>
                 <td><img src="/images/homepage/header_right.gif" alt=""></td>
             </tr>
         </tbody></table>
     </div>
-</form> 
+</form>
+ 
 
 
 <script type="text/javascript" language="javascript">
@@ -276,23 +283,16 @@ writeSubNav("#ffffff","#ffffff","#000000","#ca6400","#000000","#949494");
 <tbody><tr><td height="40"><img src="/images/spacer.gif" width="1" height="40" border="0" alt=""></td></tr>
 <tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td height="5"><img src="/images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><a class="linkbtblue" href="/emp/index.aspx">Employers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/pro/index.aspx">Freelancers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/search.cfm">Search</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/myadmin.cfm">My Admin</a></span></span></span></td></tr>
+<tr><td valign="top" align="center"><a class="linkbtblue" href="/emp/index.aspx">Employers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/pro/index.aspx">Freelancers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/search.aspx">Search</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/myadmin.cfm">My Admin</a></span></span></span></td></tr>
 <tr><td height="10"><img src="/images/spacer.gif" width="1" height="10" border="0" alt=""></td></tr>
 <tr><td valign="top" align="center"><a class="smlinkbtblue" href="emp/about_guru.cfm">ABOUT GURU</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/contact.cfm">CONTACT US</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="javascript:help('emp');">HELP</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="/emp/press.cfm">PRESS / MEDIA</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/employer-tos.cfm">TERMS OF SERVICE</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/privacy.cfm">PRIVACY POLICY</a></span></span></span></span></span></td></tr>
 <tr><td height="15"><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><span class="smalmostblack">© 2001-2007 Guru.com&nbsp; All rights reserved.</span></td></tr>
+<tr><td valign="top" align="center"><span class="smalmostblack">© 2001-2008 Guru.com&nbsp; All rights reserved.</span></td></tr>
 <tr><td height="15"><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td></tr>
 <tr><td valign="top" align="center"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GURU.COM&amp;lang=en" target="new"><img src="/images/verisign.gif" width="100" height="72" border="0" alt="Verisign Secure Site"></a></td></tr>
 </tbody></table></td></tr><tr><td height="20"><img src="/images/spacer.gif" width="1" height="20" border="0" alt=""></td></tr></tbody></table>
 <!-- footer: end -->
-<noscript></td></tr></table></noscript>
-<script language="javascript" type="text/javascript">
-<!-- Begin
-if (document.all||document.getElementById||document.layers) {
-document.write('</div></div>');
-}
-// End -->
-</script></div></div>
+</div></div>
 
 
 
