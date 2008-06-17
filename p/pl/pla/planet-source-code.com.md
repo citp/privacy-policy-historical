@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212182048id_/http%3A//www.planet-source-code.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617132905id_/http%3A//www.planet-source-code.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
 
