@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012091615id_/http%3A//www.xm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618010704id_/http%3A//www.xm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | XM.COM
 
