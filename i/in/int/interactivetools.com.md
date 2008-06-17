@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217042726id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618000032id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -30,22 +30,10 @@ We take your privacy very seriously. In order for you to better understand our d
 |     | 
 
   
-**"Quite simply, you guys rock!"**
+**"Excellent support and everthing works is a treat, its good to know I'm working with a company who looks after their customers by providing them prompt solid support."**
 
-Jan Dunlop  
-internetfiji.com  
-
-
-  
-
-
-* * *
-
-  
-**"After intensive CMS research (and a lot of disappointment), we finally found one of the best pieces of software ever!!! Congratulations to the team at interactivetools.com."**
-
-Rulf Neigenfind  
-fahrenheit.fr  
+Andy Barnish  
+webvision.co.uk  
 
 
   
@@ -54,10 +42,22 @@ fahrenheit.fr
 * * *
 
   
-**"Simply the finest Perl product I've ever had the pleasure of working with."**
+**"This is the kind of support that makes a superb program like this a pleasure to use."**
 
-Chris Schear  
-pawsonline.org  
+Gary K. Busch  
+iomartdsl.com  
+
+
+  
+
+
+* * *
+
+  
+**"We have tried numerous products but this one is by far the best and most flexible to use."**
+
+Terry Mergl  
+pacmsolutions.com  
 
 
   
