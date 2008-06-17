@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolsolutions.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214095611id_/http%3A//www.eschoolsolutions.com/c-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolsolutions.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617151652id_/http%3A//www.eschoolsolutions.com/c-privacy.shtml) for the most accurate reproduction.*
 
 # eSchool Solutions | Privacy Policy
 
