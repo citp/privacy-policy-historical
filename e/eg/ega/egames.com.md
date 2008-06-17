@@ -1,119 +1,91 @@
-> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011120id_/http%3A//egames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617224622id_/http%3A//www.egames.com/support.php%3Fmode%3D2%26id%3D57) for the most accurate reproduction.*
 
-# Egames.com Privacy
+# eGames Support >
 
-The privacy of your information is important to us. The following are the privacy policies of Trymedia Systems, Inc.
+EGames has created this privacy statement in order to demonstrate our commitment to the privacy rights of our online visitors and to the purchasers of our products.
 
-Trymedia will be collecting two types of information from you: we collect non-personal information every time you visit our Web site or communicate with us over the Internet; and we collect personal information from you only when you engage in a transaction, download software or join a subscription service on our site. We explain how we collect and use both types of information below.
+Privacy Statement
 
-**The Personal Information Collected**  
-Personal information is information that is unique to you, such as your name, address, e-mail address, phone number and credit card number. The following are the ways in which we collect personal information:
+eGames has created this privacy statement in order to demonstrate our commitment to the privacy rights of our online visitors and to the purchasers of our products. At eGames, we strive to help our customers protect their privacy while using our products and services. This privacy statement contains information about our website and our products. This privacy statement provides information about: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; and how you can correct any inaccuracies in the information. Please note that this policy relates only to eGames.com. This policy does not apply to websites or products developed and/or maintained by other companies to which we link or which provide services to our website. 
 
-  * **Transaction Information**  
-In order to complete a software purchase, you will be asked to share with us information required to complete the transaction successfully, such as billing and shipping addresses, credit card number and expiration date, etc.
+**Information Collected**
 
+Examples of the information we collect and analyze while you visit our website, make a purchase, or register on our site include:
 
+1\. the Internet protocol (IP) address used to connect your computer to the Internet;   
+2\. login;   
+3\. e-mail address;   
+4\. password;   
+5\. computer and connection information such as browser type and version, operating system, and platform;   
+6\. purchase history, which we sometimes aggregate with similar information from other customers to create features such as top sellers;   
+7\. the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time;   
+8\. cookie number; and   
+9\. products you viewed or searched for. 
 
-  * **Subscription Information**  
-You have the opportunity to receive our special software offers via e-mail. When you sign up for this service, you will be asked to provide us with your e-mail address.
+During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
+If you are purchasing a product on our website, the type of personal information collected includes: your name, zip code, email address, phone number and credit card information. 
 
+If you register to become a member of our website, the information that we collect includes your email address, the country where you reside, your zip code, your birth date and gender. Once you register as a user on our website, we will keep your purchase history, favorite games information, reviews you provide and your navigational history. When you become a registered user, you can choose to receive email notices about upcoming products and promotions from eGames by checking the box on the registration form. Information you submit when completing our online registration form will not be used for this purpose unless you indicate that you wish to receive such additional information when you fill out the registration form. We use the information from the registration form to better design our website, create better products, bring to market products that consumers are looking for, and, to the extent you have agreed, to send email messages notifying you of product news, special offers and promotions. 
 
-  * **Download Information**  
-Each software download started by you generates a unique serial number. If you purchase a license to a product, the serial number will be used to protect the copyright of the software and prevent piracy.
+**What Organizations Collect Information**
 
+When you purchase a product online or become a registered user of our website, you are providing the information identified above to eGames. We have also contracted with several third party entities to provide certain webhosting and transactional services for our website. They include: 1) A host service, Dreamhost, which provides server space and bandwidth availability; 2) A software download hosting service, The Planet; and 3) Authorize.net, a credit card processing service. The host service maintains a secure database of customer information, including name, email address and zip code, but excluding any credit card information. The credit card processor utilizes a customer's credit card information to process debits or credits to the customer's credit card account as necessary. The entities whose servers handle these transactions maintain security measures designed to protect against the loss, misuse and alteration of your user data under their control. They use physical, electronic, and procedural safeguards to protect any personally identifiable data stored on their computers. Only authorized employees have access to the information you provide us. For more information about the privacy practices of our credit card processing service, Authorize.net, please visit www.authorize.net/company/privacy/. 
 
+**The Way Your Information Is Used**
 
+The information you provide about yourself when purchasing a product is used by eGames and the third-party credit card processing service to complete that order. Customers who buy products from the eGames website are shopping on a secure server, which encrypts all of the customer�s personal information including name, email address and credit card number. Encryption is used to block access and use of this information in an unauthorized manner. The eGames� shopping cart uses Secure Socket Layers. This means that the data being sent to the eGames server from your browser is encrypted using high-level encryption technology.
 
-**How Personal Information Is Used**  
-When you make a purchase, we use your information in the following ways:
+The information you provide about yourself when becoming a registered user is used to analyze website traffic, to aggregate and analyze demographic information about visitors to our website, and for other business purposes, such as product development and marketing, advertising on our website, and business transactions with third parties.
 
-  * Your personal information will be shared with third parties involved in facilitating or completing the transaction (for example, credit card authorization companies, the publisher of the software and, if applicable, the owner of the Web site that you were visiting when you clicked on a promotion for the software you are downloading).
+**Who Your Information is Shared With**
 
+When you become a registered user of our website, the information you provide � email address, username, zip code, gender and birth date -- allows eGames to send you information that may be of interest to users of our site, including special offers, news and updates that relate directly to your specific interests. As part of the registration process, we give you the opportunity to decline to receive any of these communications from us.  
+The data collected is used in the aggregate to give eGames demographic information about the entire audience registering to use the eGames wesbite. eGames uses this information to better understand that audience and to improve our offerings to our customers. We may also disclose this aggregated information to unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including advertising, marketing and joint business efforts for related and unrelated products and services.  
+The information you provide when you purchase a product online is used to complete the transaction. Your personally identifiable information provided during the purchasing process is not shared with third parties, although aggregated demographic and purchasing information may be shared with third parties for advertising, marketing and other business purposes. 
 
+**What choices are available to you regarding collection, use and distribution of the information**
 
-  * Trymedia will send you, from time to time, email or mail on topics, including: (i) information regarding your purchase, such as news of software patches or updates; (ii) news regarding updates to our Web sites; and (iii) details regarding any special promotions sponsored by Trymedia, such as rebates, sweepstakes and gift promotions.
+Users may opt out of receiving future notifications about new products and features by not checking the box at the bottom of the registration form. This option allows users to become a registered user without receiving promotional information. If you do not want the information that you provide on the user registration form to be shared with third parties, do not become a registered user of our website.
 
+**How You Can Access or Correct Your Information**
 
+You can access and change the information that we collect from you online during the registration process by going to the registration page, signing in with your password, and revising the information in the registration form. 
 
+**Cookies**
 
-If you opt-in to a subscription or mailing list then Trymedia and the third parties described above who receive your information will use your information in the following ways:
+Cookies are pieces of information � in the form of a small text file - that a Web site transfers to an individual's hard drive. The cookie transmits information back to the server that placed it, and most times can only be read by that server. Cookies can make Web-surfing easier for website visitors by saving the user�s preferences while at our site.
 
-  * Trymedia will send you emails and mail on special promotions that we believe will be valuable to you, including e-mails promoting special software deals, sponsored by Trymedia or third parties.
+The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when visitors use a site, cookies help us see which areas of our website are popular and which are not. Many improvements and updates to the site are based on the data collected by cookies such as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users� needs. 
 
+We have two primary uses for cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track website user trends and patterns. This helps us to better understand and improve areas of our website. You may also get cookies from third-party advertisers. eGames does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
 
+Most Internet browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. If you take affirmative steps to decline cookies, it will not impair your ability to browse our website, but you will not be able to become a registered user, download trials of products or purchase products online unless cookies are accepted. 
 
-  * Third parties will send you emails and mail on special promotions that they believe are valuable to you.
+**Use of IP Addresses**
 
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages to your computer- automatically identify your computer by its IP address. eGames collects IP addresses for the purpose of tracking visitors� usage of our site. We do not link IP addresses to any personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. Personally identifiable information includes name, address, phone number and email address. 
 
+**Advertising on our Website**
 
-  * Trymedia and third parties may conduct market research analysis in relation to mailing list subscribers.
+eGames may use third-party online advertising services on its website to display advertisements throughout the eGames website. These third-party advertising services would be responsible for maintaining and displaying the advertisements you may see on our website. 
 
+These services typically use cookies to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding viewing of advertisments. These services do not, and cannot, collect personally identifiable information about visitors to our website, such as email address, name, phone number and street address. 
 
+**Children�s Guidelines**
 
+eGames encourages parents and guardians to spend time online with their children and to participate in the activities offered by our website. No information should be submitted to or posted at eGames.com by customers under 13 years of age without the consent of their parent or guardian. All customers under the age of 13 are required to have a parent register online for them. We currently do not knowingly collect personally identifiable information from anyone under the age of 13. 
 
-We may also make the following general uses of your information:
+**Links to Other Sites**
 
-  * We may use independent contractors to provide services on our behalf, for example credit card processing and market research analysis. These third parties may have access to your information in the course of providing these services on behalf of Trymedia. Any personal information we provide to such third parties is protected under confidentiality agreements.
+Users should be aware that when they are at eGames.com, they could be directed to other sites that are beyond our control. There are links to other sites from eGames web pages that take you outside our website. For example, if you "click" on a banner advertisement, the "click" takes you off the eGames site. This includes links to advertisers, website traffic auditing services, e-commerce service providers and co-branding partners. These other sites may send their own cookies to users, collect data, or solicit personal information. The eGames privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond the control of eGames. 
 
+**Your Consent**
 
+By using this website, you consent to this privacy policy. If you do not agree to this policy, please do not use our website. 
 
-  * We may disclose your personal information to authorities (i) if you violate our Terms of Use or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
+**Changes to this Policy**
 
+Here at eGames, we continuously work to expand and improve the eGames.com website. When new features are added, we will incorporate the information collection and use practices stated in the policy. As our website and the products and services we provide evolve, we may revise this policy, so please check back frequently.
 
-
-  * In the event that Trymedia or certain of our assets are acquired, your personal information may be one of the transferred assets.
-
-
-
-
-Use of your personal information by third party contractors when working on behalf of Trymedia shall be subject to our Privacy Policy. Use of your personal information by other third parties who receive your information will be in accordance with their privacy policies.
-
-You may unsubscribe from Trymedia's promotional mailing list at anytime by following the unsubscribe instructions that appear in each email that you will receive from Trymedia. To unsubscribe from the mailing lists of third parties you will need to follow their stated unsubscribe processes.
-
-Many questions regarding your purchase history and assistance with your software can be answered by visiting our [ Customer Support Center](http://csc.trymedia.com/csc/start/affiliate=trygames/lang=en). If you would like access to other information and records that Trymedia retains in relation to you please complete and submit the Trymedia Information Request Form which can be obtained by sending an email requesting the form to: [privacy@trymedia.com](mailto:privacy@trymedia.com). Please be aware that information will not be released in response to a request until Trymedia has received a completed request form, verified the authenticity of the request and received payment of the modest fee due for each request. Once you have received the information and records you have requested you may request that they be changed, updated or removed. However, you should be aware that it is not technologically possible to remove or verify each and every record of the information you have provided to us and that any changes or deletions will not effect the information we have provided to third parties in accordance with this policy prior to such change or deletion. The need to back-up our systems to protect information from inadvertent loss means that a copy of your information may exist in a non-erasable form that will be difficult or impossible for us to locate.
-
-**What We Won't Do With Personal Information**  
-Trymedia Systems, Inc. will not sell or rent your personal information to any third parties unconnected with your purchase of the software.
-
-**Where Your Information is Used**  
-When you provide us with your information you acknowledge that this information may be stored and processed on servers located any where in the World, including either inside or outside of the USA or the European Economic Area ("EEA"). You consent to your information being transferred outside the USA and EEA and being stored and processed at our discretion on any of our servers wherever located.
-
-**Security**  
-Because security is important to us, we exercise care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) most of your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our databases.
-
-Remember to close your browser window when you have finished a purchase in order to ensure that others cannot access your personal information.
-
-We will permit only authorized employees, who are trained in the proper handling of personal data, to access your personal information.
-
-To further protect your personal information, we have a security system that includes: firewall technologies; logical network segmentation, allowing restricted access to stored profile information; encryption; and logical and physical security restrictions to our databases and systems.
-
-However, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
-
-**Other, Non-Personal Information Collected and Used**  
-Like many other Internet sites, we automatically collect non-personal information regarding our visitors, such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed) in order to analyze Web traffic and usage trends. Information of this nature does not pertain to your specific identity and is not associated with your personal information.
-
-To enhance your experience on our Web pages, Trymedia and our third party advertiser(s) commonly employ Internet technologies, such as "cookies," to collect and store non-personal information about our visitors. "Cookies" are small pieces of information that are transferred by a website and stored by your Web browser on your computer's hard drive. With most browsers, you can set the preferences to show a warning each time a cookie request is received. You can also set the browser not to accept cookies at all. However, because we won't be able to personalize your experience if we cannot recognize you, we suggest that you allow your browser to accept cookies.
-
-Cookies and Web beacons (also called "pixel tags") may be used by Trymedia or our third party advertiser(s) to determine how you reached us, to track your usage patterns once you are on our Web pages or Web Site, and to target our Internet banner advertisements on our Web pages and Web sites.
-
-We may also provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information about other users. For example, we might inform third parties regarding the number of unique users who have purchased software from Trymedia and the demographic breakdown of our user community.
-
-**What Is Not Covered By This Privacy Policy**  
-Except as stated above, this Privacy Policy does not apply to the practices or policies of any third parties, such as companies or entities that we do not own or control, and does not apply to any links to sites that are not maintained by us, or to people that we do not employ or manage.
-
-**Questions, Comments or Concerns**  
-Many questions regarding your purchase history and assistance with your software can be answered by visiting our [ Customer Support Center](http://csc.trymedia.com/csc/start/affiliate=trygames/lang=en). If you have additional questions or concerns regarding our Privacy Policy, please contact us at either of the addresses below:
-
-By email: [privacy@trymedia.com](mailto:privacy@trymedia.com)
-
-By mail:  
-Trymedia Systems, Inc.   
-135 Main Street  
-San Francisco, CA 94105  
-Attention: Privacy and Legal Depts.
-
- **Privacy Policy Updates**  
-This privacy policy has been in effect since March 15, 2005. We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted on the [www.trygames.com](http://www.trygames.com/) Web site. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
-
-BY USING OUR WEB SITE OR PURCHASING THE SOFTWARE YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF US PROCESSING YOUR INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEB SITE OR PURCHASE THE SOFTWARE. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [webmaster@egames.com](mailto:webmaster@egames.com).
