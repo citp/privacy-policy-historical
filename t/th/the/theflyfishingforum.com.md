@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflyfishingforum.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017003555id_/http%3A//www.theflyfishingforum.com/forums/f52/nafff-privacy-policy-1259.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflyfishingforum.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617184901id_/http%3A//www.theflyfishingforum.com/forums/f52/nafff-privacy-policy-1259.html) for the most accurate reproduction.*
 
 # NAFFF Privacy Policy - The North American Fly Fishing Forum
 
