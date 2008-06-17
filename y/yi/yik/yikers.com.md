@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053924id_/http%3A//www.yikers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617033942id_/http%3A//yikers.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Yikers.com
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -86,3 +86,7 @@ YES! If you have a privacy concern regarding the Yikers website or this Privacy 
 Attention: Privacy Officer / Yikers  
 840 Apollo Street, Suite 251  
 El Segundo, CA 90245
+
+[**Register for free**](https://web.archive.org/register.html) | [**Login**](https://web.archive.org/login.html)
+
+## Must See LIVE Streaming
