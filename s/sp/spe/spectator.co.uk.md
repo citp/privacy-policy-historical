@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213230143id_/http%3A//www.spectator.co.uk/corporate/privacy/196071/privacy.thtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617110206id_/http%3A//www.spectator.co.uk/corporate/privacy/196071/privacy.thtml) for the most accurate reproduction.*
 
 # Privacy | The Spectator
 
@@ -44,12 +44,6 @@ Any personal information gathered by or supplied to us via the website or the Ma
 
 We may use your personal information to:
 
-  * contact you by mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) which may be of interest to you unless you have asked us not to. Where we contact you about these items by email, text message, or similar electronic means we will only do this with your permission
-  * ensure materials on the website are presented in the most effective manner for you and your computer.
-  * improve the website and to monitor website usage.
-
-
-
 You may modify your preferences or get further information by writing to us at Data Department, The Spectator Publishing Ltd, 22 Old Queen Street, London SW1H 9HP
 
 or by email to **[info@spectator.co.uk](mailto:info@spectator.co.uk)**
@@ -58,15 +52,7 @@ Your wishes will be honoured
 
 **Disclosing your information**
 
-We may disclose your personal information if required to do so by law or in good-faith believing such action is necessary to comply with the law. We will not sell or otherwise share your personal information with third parties without your consent except in the following instances:
-
-  * where you have agreed to be contacted by us, we may pass your personal information to third parties who provide various products and services on our behalf. In all such cases we remain a data controller of your personal information
-  * unless required by applicable law or if we are ordered to do so by a court or other similar body;
-  * as we may think necessary to protect our legal rights, a registered user or third party, or to prevent personal injury; and/or
-  * where we are approached by a potential buyer of our business and/or assets or in relation to any joint venture or other business arrangement. In such circumstances we will be able to pass on your personal information to such third party's advisors and to any prospective buyer, as well as to any other relevant parties.
-
-
-
+We may disclose your personal information if required to do so by law or in good-faith believing such action is necessary to comply with the law. We will not sell or otherwise share your personal information with third parties without your consent except in the following instances:   
 **  
 Accessing and updating your personal information**
 
