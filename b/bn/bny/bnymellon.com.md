@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214095841id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617050743id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
