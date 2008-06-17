@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214074120id_/http%3A//www.coolbusinessideas.com/archives/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617103539id_/http%3A//www.coolbusinessideas.com/archives/privacy_policy.html) for the most accurate reproduction.*
 
 # CoolBusinessIdeas.com: Privacy Policy
 
