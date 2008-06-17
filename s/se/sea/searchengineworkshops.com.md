@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineworkshops.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221150903id_/http%3A//www.searchengineworkshops.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineworkshops.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617164438id_/http%3A//www.searchengineworkshops.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Search engine workshops: Our Privacy Policy.
 
@@ -67,6 +67,6 @@
 
 | 
 
-© 2005 SearchEngineWorkshops.com. All rights reserved. Duplication or reproduction  
+© 2002-2008 SearchEngineWorkshops.com. All rights reserved. Duplication or reproduction  
 of the contents of this web site, including, but not limited to, content, graphics and  
 source code, is prohibited without expressed written consent by SearchEngineWorkshops.com.
