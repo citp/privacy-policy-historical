@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiasat.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030124722id_/http%3A//www.asiasat.com/eng/06_others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiasat.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617152015id_/http%3A//www.asiasat.com/eng/06_others/privacy.html) for the most accurate reproduction.*
 
 # Asia Satellite | Privacy Policy
 
@@ -12,10 +12,9 @@ We will erase your personal information when they are no longer needed for any o
 
 In accordance with the Ordinance, you have the right to access and/or correct the personal information held by AsiaSat about you. Should you wish to do so, please write to us at : 
 
-**Asia Satellite Telecommunications Company Limited**
-
-17/F, The Lee Gardens  
-33 Hysan Avenue  
+**Asia Satellite Telecommunications Company Limited**  
+19/F, Sunning Plaza  
+10 Hysan Avenue  
 Causeway Bay  
 Hong Kong  
 Tel: (852) 2500 0888 Fax: (852) 2500 0895  
