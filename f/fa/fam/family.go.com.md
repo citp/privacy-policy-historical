@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the family.go.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229091645id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the family.go.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617215015id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
 
 # Privacy Policy for Walt Disney Internet Group
 
@@ -8,7 +8,7 @@ Walt Disney Internet Group
 [](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/privacy/safety.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/legal/terms.html?ppLink=pp_wdig)  
-[](https://web.archive.org/web/20071229091645id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
+[](https://web.archive.org/web/20080617215015id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
 |  |  |   
 ---  
 Privacy Policy/Your California Privacy Rights  
@@ -135,7 +135,7 @@ A8. | We may amend this Privacy Policy at any time. If we amend this Privacy Pol
 
 We amended our original privacy policy on November 6, 2003. For guests who registered on our Web sites prior to November 6, 2003 and have not accepted the terms and conditions of this Privacy Policy, personally identifiable information associated with their registration will continue to be handled under our original privacy policy. To read our original privacy policy, please [click here](http://disney.go.com/corporate/privacy/previous.html). 
 
-The Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html.   
+The Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.   
   
 back to top of policy  
 Q9. | What additional privacy protections do we provide for children under the age of 13 who visit our sites?  
