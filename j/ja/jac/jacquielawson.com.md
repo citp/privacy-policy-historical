@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223113756id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617020322id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
 
 # Jacquie Lawson privacy policy, cookies, history & data information collected
-
-| 
 
 ### Name and address data
 
@@ -22,7 +20,7 @@ The following are some of the circumstances in which we will send you e-mails.
  
   * **Renewal reminders.** When your membership is about to expire, we will send you renewal reminders. If you have selected auto-renew, we will automatically renew your membership.  
  
-  * **Administrative and help emails.** In addition, we will of course reply to your help requests, and we may send you miscellaneous administrative correspondence - password reminders, confirmation of payment, renewal confirmations, and so on. 
+  * **Administrative and help emails.** In addition, we will of course reply to your help requests, and we may send you miscellaneous administrative correspondence - password reminders, confirmation of payment, renewal confirmations, and so on.
 
 
 
@@ -57,5 +55,3 @@ We store the information collected on the site (principally membership informati
 By becoming a Member, you agree to the terms of this privacy policy. We may change the terms of this privacy policy by updating this page. You should periodically visit the Site to determine the Terms to which you are bound. If any of the rules contained in the privacy policy or any future changes to the privacy policy are not acceptable to you, you should cancel your licence. Your continued use of the Site now, or following the posting of any changes to this privacy policy, will indicate acceptance by you of such changes.
 
 close window
-
-| 
