@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popphoto.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117052111id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popphoto.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617170117id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
