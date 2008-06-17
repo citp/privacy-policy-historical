@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042241id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617050236id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
 
-# Newser - Faster, Smarter News
+# Newser - Know More. Search Less.
 
-Please read this Privacy Policy (last revised as of July 24, 2007) before using this service. By continuing to use Newser Website.com, you acknowledge that you have read and agree to the terms of this policy. 
+Please read this Privacy Policy (last revised as of March 12, 2008) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy. 
 
-HighBeam™ Research, Inc., the operator of www.Newser.com (the “Newser Website,” and collectively with HighBeam, referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the [User Agreement](https://web.archive.org/terms.aspx) governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. 
+Newser, LLC., the operator of www.Newser.com (the “Newser Website,” and collectively with its parent company, HighBeam™ Research, Inc., referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the [User Agreement](https://web.archive.org/terms.aspx) governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. 
 
 You should be aware that this Privacy Policy applies only to the Newser Website. Any websites linked to from the Newser Website, an advertisement or an article displayed on the site are governed by their own privacy policies.
 
 ## What personally identifiable information do I provide to Newser, and how does Newser use it?
 
   * Personally identifiable information refers to any information that identifies or can be used to identify, contact or locate you. Newser collects only the personally identifiable information that you provide to us if you register as a registered user on the Newser Website, such as your name and e-mail address.
-  * Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Website’s policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications. 
-  * /li>Newser may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us [here](https://web.archive.org/contact.aspx?ContactUs=Privacy) or by using the unsubscribe link on any e-mail message you receive. 
+  * Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Website’s policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.
+  * Newser may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us [here](https://web.archive.org/contact.aspx?ContactUs=Privacy) or by using the unsubscribe link on any e-mail message you receive.
   * In order to improve and create a more customized experience, Newser associates your personally identifiable information with information about your use of the website.
 
 
@@ -48,12 +48,6 @@ You should be aware that this Privacy Policy applies only to the Newser Website.
 
 
 
-## How can I “opt out” of having my information collected or shared?
-
-  * As part of our registration process, we give you important choices about receiving Newser special offers, newsletters, product updates, research tips and special third-party promotions. To simplify the process, we have automatically checked the opt-in box for you. You have the option of unchecking the boxes for the types of communications you do not want to receive from us. If you do not opt-out from receiving these communications about our site or third-party sites, we will send them to you. If you do not opt-out during registration, but later change your mind, you can email us [here](mailto:Privacy@Newser.com) or you can click on the unsubscribe link in the e-mails you receive from us.
-
-
-
 ## How will I know when there are changes to this Privacy Policy?
 
   * This Privacy Policy is subject to modification from time to time at Newser’s discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website. The date of last revision to the policy is indicated at the top of the document.
@@ -64,7 +58,7 @@ You should be aware that this Privacy Policy applies only to the Newser Website.
 
 If you have questions, you may contact:
 
-HighBeam Research, Inc.   
+Newser, LLC.   
 65 E. Wacker Place, Suite 400   
 Chicago, IL 60601   
 Attention: General Counsel 
