@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221012309id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617061512id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # TD Bank Financial Group - TD Privacy Code
 
