@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211022429id_/http%3A//www.smud.org/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617030749id_/http%3A//smud.org/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # SMUD.org | Legal | Privacy Policy Statement
 
