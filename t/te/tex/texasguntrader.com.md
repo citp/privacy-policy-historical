@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707171835id_/http%3A//www.texasguntrader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617190417id_/http%3A//www.texasguntrader.com/classifieds/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-[Home](http://www.texasguntrader.com/index.php)
+[Home](http://www.texasguntrader.com/classifieds/index.php)
 
 **Privacy Policy Statement      Created June 14, 2007**
 
