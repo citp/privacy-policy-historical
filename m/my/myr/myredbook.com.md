@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219122750id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617054654id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement : myredbook
 
@@ -65,6 +65,6 @@ We offer our Members the opportunity to access or modify information provided du
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at <http://www.myredbook.com/support.aspx> 
 
 myRedBook S.A.  
-An Suja Est 9  
+Anasuya Est #9  
 Revolution Ave  
 Victoria Mahe, Seychelles 601771
