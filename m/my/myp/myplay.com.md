@@ -1,85 +1,36 @@
-> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206022000id_/http%3A//www.myplay.com/mp/corp/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618013042id_/http%3A//www.sonymusic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sony Music USA
 
-Use these links to  
-navigate this page:
+  
+Your privacy is important to us. That is why we want you to be informed about how we protect the privacy of visitors to our site. Please take a moment to read the following policy, which describes our practices for the collection and use of personally identifiable information on this site. Sites that are linked to our site may have different policies; please review the privacy policy notices on those sites for details. 
 
-About TRUSTe  
-Our privacy promise  
-What we collect, and why  
-Your options  
-How we assure security  
-To contact us  
-[](http://www.truste.org/validate/4754)
+  We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your e-mail address, name, mailing address, cell phone number and carrier service provider or other information about yourself in order to participate in contests, chat rooms, or on bulletin boards, to be added to the list to receive e-mail or SMS (text message) updates on particular artists or types of music, to send so-called "postcards" or to conduct transactions elsewhere on the site. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site. 
 
-| 
+  We use the information we collect from you to allow you to participate in the site activities for which the information is collected. For example, when you give us your e-mail address in order to receive updates on a particular artist or type of music, that address is added to the e-mail list for that artist or type of music. On each e-mail you receive, you are given the opportunity to unsubscribe; once you unsubscribe, you will no longer receive such e-mails. 
 
-**About TRUSTe**
+  A cell phone number and carrier service provider is only required if you want to receive updates on a particular artist or type of music via SMS (text messages) sent to your mobile phone. There can be costs associated with receiving SMS (text) messages depending on your wireless carrier and plan. 
 
-This confirms that **myplay, inc.** is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for **www.myplay.com**. 
+  For contests conducted on this site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose, unless you have simultaneously subscribed to a mailing list. For further information about how we handle entries to a particular contest, please consult the contest rules. 
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+  Except with respect to personal information collected on sites devoted solely to individual recording artists, we may share the information we collect from you with our affiliates or send you e-mail promotions and special offers from reputable third parties in whose products and services we think you may have an interest. We may also share your information with reputable third-parties who may contact you directly. With regard to artist sites, except as discussed in the following paragraph, we do not share personal information collected on those sites with anyone outside Sony BMG for any purpose. 
 
-By displaying the TRUSTe mark, this Web site has agreed to notify you of: 
+  Personal information collected on this site may be shared with those with whom we contract to operate this site (for example, to send you a promotional item that you have requested on the site). These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations. To the extent required or permitted by law, we may also collect, use and disclose personal information in connection with security-related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements. We may also use your information as permitted by law to perform credit checks, report or collect debts owed, or protect our rights or property, our website, or its users. 
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under myplay, inc. control.
-  7. How you can correct any inaccuracies in the information.
+  Some information may automatically be collected as you browse our site. Our web server automatically collects information known as "clickstream data," such as the domain name of the service providing you with Internet access, the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics. We also use cookies on our site. Cookies are pieces of information that a web site transfers to the hard drive of a visitor's computer for record-keeping purposes. 
 
+  We use clickstream data and cookies only in the aggregate to measure the use of our site and to administer and improve our site. When we collect personal information, we may extract some of the information and combine it with other information, such as clickstream data. This combined information is used and analyzed only at an aggregate level to help us understand trends and patterns. 
 
+  We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorized access to it by those who do not have a legitimate need for it. To that end, we periodically review our security measures. We will never post your e-mail address or other identifying information you have provided on our site without your consent. 
 
-If you have questions or concerns regarding this statement, you should first contact [CustomerCare@myplay.com](mailto:CustomerCare@myplay.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+  If you are under 13 years of age, you should not provide any personally identifiable information on this site without the knowledge and permission of your parent or guardian. There are certain web pages within our website that require users to be at least 13 years of age; these pages require you to enter your date of birth, and anyone under the age of 13 will be restricted from participating in such web page activities. We use cookies to assure that this restriction persists. This may mean that you will be unable to participate in some activities on the site. 
 
-**Our privacy promise**
+  All contests that are held on this site are limited to persons above a certain age. Accordingly, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant is underage, the information submitted is deleted. Please refer to the specific age requirements for each contest as rules may vary from contest to contest. 
 
-Myplay wants to make your online experience safe and satisfying. This Privacy Policy, which will be updated as necessary at this page, explains how we do this. Our data-collection policies allow you to control how much information you give us, as well as how we use that information. Most importantly, we allow you to update and/or change the information that we have collected. 
+  We ask each visitor who wishes to participate in chat rooms and bulletin boards on this site to provide an e-mail address along with the visitor's screen name. Each visitor who wishes to send a so-called "postcard" is asked to provide the visitor's screen name and e-mail address, the recipient's name and e-mail address, and a message selected by the visitor. All such e-mail addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. 
 
-You can do a lot to protect your own privacy. Please remember that any information that is disclosed on the DJ Mixes page, such as your DJ name or the name of a shared or posted DJ Mix, becomes public information. Use caution and good judgment when disclosing personal information about yourself. 
+  The operator of this site is Sony BMG, 550 Madison Avenue, New York, NY 10022. 
 
-Finally, it is important to note that this site contains links to other sites. While we will endeavor to work with partners who follow our privacy philosophy, myplay is not responsible for the privacy practices or the content of other Web sites. 
+  By using our site you consent to our collection and use of your personal information as described in this policy. We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site, and your continued use constitutes acceptance of those changes. Thank you for visiting our site, and for taking the time to read this policy. 
 
-**What we collect, and why**
-
-Myplay collects both "personal information" and "aggregate information" from our users. Personal information is user-specific and includes information collected on the Registration page: your name and e-mail address, a password, and your Zip Code (optional). This information is used to identify you as a registered user and protect the contents of your Locker. As myplay allows you to organize and listen to your music collection, we may also track your music choices and preferences based on the contents of your Locker. This information may be used to provide you with special information and promotional offers according to your specific tastes. In addition, we collect so-called "third-party personally identifiable information," such as the e-mail addresses of people who have been invited by you to listen to a DJ Mix. Rest assured that we will never disclose your personal information, or that of an e-mail recipient, to third parties without your prior approval unless required by law. Moreover, if you authorize us to share personal information such as your e-mail address with our partners, you will always have the ability to "opt out" of receiving solicitations or other communications from those partners or myplay. To opt out, simply go to the My Settings page and change your preferences. 
-
-Myplay also collects aggregate information, which is a generalized accumulation of data derived from users of our service. Examples might include the number of users who requested a certain song. This generalized data will not contain personal information about you. We use this data to improve the user's experience on our Web site, and we share it with our partners to help all of us identify the interests and needs of those we serve. 
-
-There is certain personal information myplay will require in order to process your request to open a Locker. We will ask you for your e-mail address and password, for example, to confirm you as a registered user and to send you information about changes in service offered at myplay and our partners' sites. We also ask for your zip code (optional) in order to provide you with information specific to your geographic area such as concert alerts. At other times we may request additional personal information which you will have the option to furnish. For example, we may also ask you questions about your interests, favorite bands and hobbies in order to create a user profile for you and allow us to send you information that may be of interest to you. Keep in mind, however, that if you choose not to share requested information with us, we may not be able to provide you with some of the services that are dependent upon the collection of such information. 
-
-A word about "cookies:" To activate the features available at myplay, we will assign to your Internet browser (be it Netscape Navigator(tm) or Microsoft Internet Explorer(tm)) a unique ID number stored in a file on your computer. This file is called a cookie. Cookies are required to use myplay. 
-
-Cookies by themselves cannot be used to find out the identity of any user. Instead, a cookie introduces your browser to our computers. When you visit myplay, the cookie shakes hands, if you will, with our computer and says "Hi there, I'm #627. Remember me?" We do, which is how your personalized data--such as saved passwords and the contents of your Locker - is generated for you and you alone. 
-
-Other parts of our site that use cookies are the advertisements. We use an outside ad company to display ads on our site. Cookies received with banner ads are collected by our ad company and we do not have access to this information. Some of the customer data garnered from these cookies is shared with the advertising companies on an aggregate basis only. 
-
-For more information about cookies, Netscape users should visit <http://home.netscape.com/security/basics/privacy.html#cookies>, and Microsoft users should visit <http://www.microsoft.com/INSIDER/internet/articles/security.htm#cookies>. 
-
-Finally, we also use your Internet Protocol address to help diagnose problems with our server and to administer our Web site. Some aggregate information is gathered in this process, but never personal information. 
-
-**Your options**
-
-Myplay provides users the opportunity on the Registration Page to control the content and frequency of communications from us and certain of our partners. To do this, go to our [My Settings](https://web.archive.org/mp/settings/info.jsp) page, check or uncheck as many of the 'Subscribe' boxes as you wish, set the frequency of the e-mails you have selected, type in your password to authenticate the changes, and then click "Submit." We also permit users to close their account or to discontinue our service. To close your account, send e-mail to [CustomerCare@myplay.com](mailto:CustomerCare@myplay.com) (be sure to send it from the e-mail address associated with your Locker, and please tell us why so that we can improve our service). 
-
-If at some point in the future there is a change to our information usage practices that affect your personal information, we will notify you by e-mail of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by changing your preferences on the My Settings page as described above. You should also check this posted privacy statement for changes. 
-
-If you would like to continue to use our service but need to update your e-mail address or wish to change any of your personal information for any reason, click the My Settings link at the top of your Locker page. 
-
-**How we assure security**
-
-Myplay assures security in three ways. 1. Our data network is protected by industry-standard firewall systems. Internal security reviews are made on a regular basis, and third-party audits are conducted to further ensure data confidentiality. 2. Only authorized myplay personnel have access to the data network, which is accessible by password only. 3. Last but not least, myplay employees are regularly updated about our security policies and practices so that all employees share a commitment to customer privacy. 
-
-**To contact us**
-
-If you have any questions about this privacy statement or the practices of myplay, please contact: 
-
-Customer Care  
-1600 Bridge Parkway  
-Suite 101  
-Redwood City, CA 94065  
-[CustomerCare@myplay.com](mailto:CustomerCare@myplay.com)  
-
+    Last Revised: January, 2006 
