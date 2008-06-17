@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankaholic.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207213601id_/http%3A//www.bankaholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaholic.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617094039id_/http%3A//www.bankaholic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Best CD (Certificate of Deposit) Rates, Money Market Rates, High Interest Accounts
 
