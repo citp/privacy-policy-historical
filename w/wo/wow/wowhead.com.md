@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wowhead.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217114415id_/http%3A//www.wowhead.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowhead.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617143537id_/http%3A//www.wowhead.com%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wowhead
 
-The WOWHEAD Website (www.WOWHEAD.com) is maintained by ZAM Network, LLC. Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
+The Wowhead website is maintained by [ZAM Network](http://www.zam.com/), LLC. Protecting your privacy is important to us, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
 
   1. **Scope of the Privacy Policy.** This Privacy Policy applies only to the collection and use of information collected online on the ZAM Network, LLC Website. Other websites that may be affiliated with ZAM Network, LLC may have different privacy policies.
 
@@ -42,5 +42,3 @@ The WOWHEAD Website (www.WOWHEAD.com) is maintained by ZAM Network, LLC. Protect
 
 
 
-
-This page was last updated on 10/14/2007.
