@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217054659id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617192823id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Australian Broadcasting Corporation: Privacy Policy
 
