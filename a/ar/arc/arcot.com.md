@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813014618id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617163422id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
 
 # Arcot Privacy
 
