@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015130452id_/http%3A//www.classifieds.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618001144id_/http%3A//www.classifieds.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# Classifieds.co.uk - Privacy Policy
-
-**Privacy Policy for Classifieds.co.uk**
+# Free Classified Ads In The UK : Classifieds.co.uk - Privacy Policy
 
 **Effective Date: December 1, 2006**
 
@@ -64,4 +62,17 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 **VIII. AFFILIATED SITES**
 
-This policy shall also apply to the following affiliated sites: www.Shopping.net, www.directory.co.uk, www.telephone.co.uk, www.worldflights.com and any other site owned and operated by ValueClick Europe Ltd or ValueClick Inc.
+This policy shall also apply to the following affiliated sites: www.Shopping.net, www.directory.co.uk, www.telephone.co.uk, www.worldflights.com and any other site owned and operated by ValueClick Europe Ltd or ValueClick Inc.  
+  
+[](http://www.classifieds.co.uk/privacy.asp#add)Classifieds.co.uk, a division of Valueclick Europe Ltd. Registered in England and Wales, No. 03807256.
+
+ValueClick Europe Limited  
+182 Upper Richmond Road  
+Putney  
+London  
+SW15 2SH
+
+Registered office:  
+190 Strand  
+London  
+WC2R 1JN
