@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the easyclicktravel.com privacy policy that was archived on 2007-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215094400id_/http%3A//www.easyclicktravel.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyclicktravel.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617085746id_/http%3A//www.easyclicktravel.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-		<link rel="SHORTCUT ICON" href="http://easyclicktravel.com/Modules/Customizable/images/favicon.ico">
+		<link rel="SHORTCUT ICON" href="http://www.easyclicktravel.com/Modules/Customizable/images/favicon.ico">
 <!--
 modules/customizable/css/stylesheetlang.css
 modules/customizable/css/breadcrumbs.css
@@ -254,7 +254,7 @@ body
 }
 
 </style>
-<script>CrossDomainChanel = function(request,callBack,isValid)
+<script>CrossDomainChanel = function(request,callBack,isValid, args)
 {
 	var CDChanel=document.createElement("script");
 	CDChanel.type="text/javascript";
@@ -270,7 +270,7 @@ body
 			if(CDChanel&&("loaded"==CDChanel.readyState||"complete"==CDChanel.readyState))
 			{
 				CDChanel.onreadystatechange=null;
-				EndInvoke(CDChanel,callBack);
+				EndInvoke(CDChanel,callBack,args);
 			}
 		};
 	}
@@ -279,7 +279,7 @@ body
 		if(navigator.userAgent.indexOf("Safari")>0)
 			setTimeout( TestResults, 300 );
 		else
-			CDChanel.onload=function(){CDChanel.onload=null;EndInvoke(CDChanel,callBack)};
+			CDChanel.onload=function(){CDChanel.onload=null;EndInvoke(CDChanel,callBack, args)};
 	}
 	
 	document.getElementsByTagName("head")[0].appendChild(CDChanel);
@@ -296,9 +296,12 @@ body
 		}
 	}
 
-	function EndInvoke(CDChanel,callBack)
+	function EndInvoke(CDChanel,callBack,args)
 	{
-		callBack()
+	    if (args != null)
+		    callBack(args);
+		else
+		    callBack();
 		document.getElementsByTagName("head")[0].removeChild(CDChanel);
 	}
 }
@@ -356,6 +359,31 @@ function $Q( name )
   else
     return results[1];
 }
+
+function getMethodNameFromUrl(url,methodNamePrefix)
+{		
+	var queryparams=url.substring(url.indexOf('?')+1);
+
+	var params=queryparams.split('&');
+	
+	var methodname = methodNamePrefix || 'Get';
+	for(var i=0;i<params.length;i++)
+	{
+		methodname+=params[i].split('=')[1];
+	}
+
+	return methodname.replace(/[^a-zA-Z0-9_]/g,'_');
+}
+
+function LoadScript(script)
+{
+	var scriptTag=document.createElement("script");
+	scriptTag.type="text/javascript";
+	scriptTag.language="javascript";			
+	scriptTag.src=script;			
+	document.getElementsByTagName("head")[0].appendChild(scriptTag);
+}
+	
 //KeyPress support
 
 // corrige le code des touches
@@ -442,21 +470,6 @@ function codeTouche(e) {
 } 
 
 document.onclick = comboState;</script>
-
-<!-- BEGIN OVERTURE SUPPORT -->
-
-<script language="javascript">
-<!--
-var pm_tagname = 'universalTag.txt';
-			var pm_tagversion = '1.4';
-			var pm_accountid = 'U2MTUOMH29T7KM2B78CVG78KJ4';	
-			var pm_scripthost = 'srv.perf.overture.com';
-			var pm_customargs = '';
-			var pm_querystr = '?ver=' + pm_tagversion + '&aid=' + pm_accountid + pm_customargs;
-			var pm_tag = "<SCRIPT LANGUAGE='JavaScript' SRC='//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "'></SCRIPT>";
-			document.write(pm_tag);//-->
-</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=U2MTUOMH29T7KM2B78CVG78KJ4"></script>
-<!-- END OVERTURE -->
 <title id="pgTitle">Page Privacy Policy</title>
 		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
 		<meta name="CODE_LANGUAGE" content="C#">
@@ -468,7 +481,7 @@ var pm_tagname = 'universalTag.txt';
 	</head>
 	<body ms_positioning="GridLayout">
 		<form name="Form1" method="post" action="PagePrivacyPolicy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc5MTMxMTM2Mg9kFgQCAQ8WAh4JaW5uZXJodG1sBRNQYWdlIFByaXZhY3kgUG9saWN5ZAIHD2QWBAIBDxQrAAUPFgIeCUFjdGl2ZVRhYgUMRGVzdGluYXRpb25zZAUFaW1hZ2VkZGcWDAICDw8WAh4HVmlzaWJsZWhkZAIED2QWAmYPZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAUraHR0cDovL2Vhc3ljbGlja3RyYXZlbC5jb20vUGFnZURlZmF1bHQuYXNweGRkAgYPZBYCAgEPFgIeC18hSXRlbUNvdW50AgwWBgIIDxYCHwJoZAIKDxYCHwJoZAILDxYCHwJoZAIHD2QWAgIDDw8WAh8DBTFodHRwOi8vZWFzeWNsaWNrdHJhdmVsLmNvbS9TZWN1cmUvUGFnZUxvZ091dC5hc3B4ZGQCCA9kFgICAQ9kFgQCAQ8WAh4EVGV4dAUuQm9vayBlYXNpbHkgb25saW5lLCBvciBjYWxsIGEgY3J1aXNlIGV4cGVydCBhdGQCAw8WAh8FBQ4xLTg4OC04NjgtNzQyNmQCCQ8PFgIfAmhkZAIFD2QWAgIDDxQrAAUPFgIfAQUMRGVzdGluYXRpb25zZAUEdGV4dGRkaBYKAgIPDxYCHwJoZGQCBg9kFgICAQ8WAh8EAgwWCAIIDxYCHwJoZAIJDxYCHwJoZAIKDxYCHwJoZAILDxYCHwJoZAIHD2QWAgIDDw8WAh8DBTFodHRwOi8vZWFzeWNsaWNrdHJhdmVsLmNvbS9TZWN1cmUvUGFnZUxvZ091dC5hc3B4ZGQCCA9kFgICAQ9kFgQCAQ8WAh8FBS5Cb29rIGVhc2lseSBvbmxpbmUsIG9yIGNhbGwgYSBjcnVpc2UgZXhwZXJ0IGF0ZAIDDxYCHwUFDjEtODg4LTg2OC03NDI2ZAIJDw8WAh8CaGRkZCq75oXgPWwU4Y+QCs3M5osajEnX">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc5MTMxMTM2Mg9kFgQCAQ8WAh4JaW5uZXJodG1sBRNQYWdlIFByaXZhY3kgUG9saWN5ZAIHD2QWBAIBDxQrAAUPFgIeCUFjdGl2ZVRhYgUEQ2Fyc2QFBWltYWdlZGRnFgwCAg8PFgIeB1Zpc2libGVoZGQCBA9kFgJmD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFL2h0dHA6Ly93d3cuZWFzeWNsaWNrdHJhdmVsLmNvbS9QYWdlRGVmYXVsdC5hc3B4ZGQCBg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCDBYGAggPFgIfAmhkAgoPFgIfAmhkAgsPFgIfAmhkAgcPZBYCAgMPDxYCHwMFNWh0dHA6Ly93d3cuZWFzeWNsaWNrdHJhdmVsLmNvbS9TZWN1cmUvUGFnZUxvZ091dC5hc3B4ZGQCCA9kFgICAQ9kFgQCAQ8WAh4EVGV4dAUuQm9vayBlYXNpbHkgb25saW5lLCBvciBjYWxsIGEgY3J1aXNlIGV4cGVydCBhdGQCAw8WAh8FBQ4xLTg4OC04NjgtNzQyNmQCCQ8PFgIfAmhkZAIFD2QWAgIDDxQrAAUPFgIfAQUEQ2Fyc2QFBHRleHRkZGgWCgICDw8WAh8CaGRkAgYPZBYCAgEPFgIfBAIMFggCCA8WAh8CaGQCCQ8WAh8CaGQCCg8WAh8CaGQCCw8WAh8CaGQCBw9kFgICAw8PFgIfAwU1aHR0cDovL3d3dy5lYXN5Y2xpY2t0cmF2ZWwuY29tL1NlY3VyZS9QYWdlTG9nT3V0LmFzcHhkZAIID2QWAgIBD2QWBAIBDxYCHwUFLkJvb2sgZWFzaWx5IG9ubGluZSwgb3IgY2FsbCBhIGNydWlzZSBleHBlcnQgYXRkAgMPFgIfBQUOMS04ODgtODY4LTc0MjZkAgkPDxYCHwJoZGRkd1Gxz9oOssKZoCU/7Hu6uzWm23A=">
 
 			<table border="0" cellpadding="2" cellspacing="0" align="center" width="550" class="LANG_DIR">
 				<tbody><tr>
@@ -489,7 +502,7 @@ var pm_tagname = 'universalTag.txt';
 <table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td width="225">
-			<a id="nb_logo_LogoHyperLink" href="http://easyclicktravel.com/PageDefault.aspx"><img id="nb_logo_imgLeftPart" src="Modules/Customizable/images/240x60_lmt_stacked.gif" alt="www.easyclicktravel.com.com" border="0"></a>
+			<a id="nb_logo_LogoHyperLink" href="http://www.easyclicktravel.com/PageDefault.aspx"><img id="nb_logo_imgLeftPart" src="Modules/Customizable/images/240x60_lmt_stacked.gif" alt="www.easyclicktravel.com.com" border="0"></a>
 		</td>
 	</tr>
 </tbody></table>
@@ -508,7 +521,7 @@ var pm_tagname = 'universalTag.txt';
 						
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl0_hlTab" href="http://easyclicktravel.com/PageDefault.aspx"><img src="Modules/customizable/images/021804_home_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl0_hlTab" href="http://www.easyclicktravel.com/PageDefault.aspx"><img src="Modules/customizable/images/021804_home_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -516,7 +529,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl1_hlTab" href="http://easyclicktravel.com/PageHotelSearch.aspx"><img src="Modules/customizable/images/021804_hotels_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl1_hlTab" href="http://www.easyclicktravel.com/PageHotelSearch.aspx"><img src="Modules/customizable/images/021804_hotels_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -524,7 +537,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl2_hlTab" href="http://easyclicktravel.com/PageCruiseSearch.aspx"><img src="Modules/customizable/images/021804_cruises_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl2_hlTab" href="http://www.easyclicktravel.com/PageCruiseSearch.aspx"><img src="Modules/customizable/images/021804_cruises_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -532,7 +545,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl3_hlTab" href="http://easyclicktravel.com/PageCarOption.aspx"><img src="Modules/customizable/images/021804_cars_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl3_hlTab" href="http://www.easyclicktravel.com/PageCarOption.aspx"><img src="Modules/customizable/images/021804_cars_on.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -540,7 +553,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl4_hlTab" href="http://easyclicktravel.com/PageTopDeals.aspx"><img src="Modules/customizable/images/021804_top25deals_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl4_hlTab" href="http://www.easyclicktravel.com/PageTopDeals.aspx"><img src="Modules/customizable/images/021804_top25deals_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -548,7 +561,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl5_hlTab" href="http://easyclicktravel.com/PageDestinationHome.aspx"><img src="Modules/customizable/images/021804_destinations_on.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl5_hlTab" href="http://www.easyclicktravel.com/PageDestinationHome.aspx"><img src="Modules/customizable/images/021804_destinations_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -556,7 +569,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl6_hlTab" href="http://easyclicktravel.com/PageAttractionSearch.aspx"><img src="Modules/customizable/images/021804_attractions_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl6_hlTab" href="http://www.easyclicktravel.com/PageAttractionSearch.aspx"><img src="Modules/customizable/images/021804_attractions_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -564,7 +577,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl7_hlTab" href="http://easyclicktravel.com/PageTransportationSearch.aspx"><img src="Modules/customizable/images/021804_transfers_off.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl7_hlTab" href="http://www.easyclicktravel.com/PageTransportationSearch.aspx"><img src="Modules/customizable/images/021804_transfers_off.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -572,7 +585,7 @@ var pm_tagname = 'universalTag.txt';
 							
 								<td align="center" valign="bottom">
 									<div> 
-										<a id="nb_repTabs__ctl9_hlTab" href="https://easyclicktravel.com/Secure/PageRegistration.aspx"><img src="Modules/customizable/images/021804_members_000.gif" border="0"></a></div>
+										<a id="nb_repTabs__ctl9_hlTab" href="https://www.easyclicktravel.com/Secure/PageRegistration.aspx"><img src="Modules/customizable/images/021804_members_000.gif" border="0"></a></div>
 									<div>
 										</div>
 									
@@ -711,7 +724,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl0_lnkTab" title="Home Page" href="http://easyclicktravel.com/PageDefault.aspx">Home</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl0_lnkTab" title="Home Page" href="http://www.easyclicktravel.com/PageDefault.aspx">Home</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -719,7 +732,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl1_lnkTab" title="Hotels" href="http://easyclicktravel.com/PageHotelSearch.aspx">Hotels</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl1_lnkTab" title="Hotels" href="http://www.easyclicktravel.com/PageHotelSearch.aspx">Hotels</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -727,7 +740,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl2_lnkTab" title="Cruises" href="http://easyclicktravel.com/PageCruiseSearch.aspx">Cruises</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl2_lnkTab" title="Cruises" href="http://www.easyclicktravel.com/PageCruiseSearch.aspx">Cruises</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -735,7 +748,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl3_lnkTab" title="Cars" href="http://easyclicktravel.com/PageCarOption.aspx">Cars</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl3_lnkTab" title="Cars" href="http://www.easyclicktravel.com/PageCarOption.aspx">Cars</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -743,7 +756,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl4_lnkTab" title="Top 10 Deals" href="http://easyclicktravel.com/PageTopDeals.aspx">Deals</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl4_lnkTab" title="Top 10 Deals" href="http://www.easyclicktravel.com/PageTopDeals.aspx">Deals</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -751,7 +764,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl5_lnkTab" title="Destinations" href="http://easyclicktravel.com/PageDestinationHome.aspx">Destinations</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl5_lnkTab" title="Destinations" href="http://www.easyclicktravel.com/PageDestinationHome.aspx">Destinations</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -759,7 +772,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl6_lnkTab" title="Attractions" href="http://easyclicktravel.com/PageAttractionSearch.aspx">Attractions</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl6_lnkTab" title="Attractions" href="http://www.easyclicktravel.com/PageAttractionSearch.aspx">Attractions</a>
 								</td>
 							
 								<td align="center" valign="bottom">
@@ -767,7 +780,7 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
 										</div>
 									<div>
 										</div>
-									<a id="ModuleFooterContent1_nb_repTabs__ctl7_lnkTab" title="Transfers" href="http://easyclicktravel.com/PageTransportationSearch.aspx">Transfers</a>
+									<a id="ModuleFooterContent1_nb_repTabs__ctl7_lnkTab" title="Transfers" href="http://www.easyclicktravel.com/PageTransportationSearch.aspx">Transfers</a>
 								</td>
 							
 					</tr>
@@ -790,14 +803,14 @@ If EasyClickTravel.com is required by law to disclose certain information to gov
     <tr><td height="5" colspan="10"></td></tr>
     <tr><td height="5" bgcolor="#eeeeee" colspan="10"></td></tr>
 	<tr class="footer"> 
-		<td width="95" align="center"><a href="http://easyclicktravel.com/PagePrivacyPolicy.aspx">Privacy Policy</a></td>
-		<!--td width="98" align="center"><a href="http://easyclicktravel.com/PageUserAgreement.aspx">User Agreement</a></td>
-		<td align="center" style="POSITION: relative;visibility:visible;"><a href="http://easyclicktravel.com/PageSupport.aspx">Support</a></td>
-		<td align="center"><a href="http://easyclicktravel.com/PageAboutUs.aspx">About Us</a></td-->
-		<td width="73" align="center"><a href="http://easyclicktravel.com/PageContactUs.aspx">Contact Us</a></td>
-		<!--td width="76" align="center"><a href="http://easyclicktravel.com/PagePressRoom.aspx">Press Room</a></td>
-		<td width="65" align="center"><a href="http://easyclicktravel.com/PageFaq.aspx">FAQ</a></td>
-		<td width="77" align="center"><a href="http://easyclicktravel.com/PageSiteMap.aspx">Site Map</a></td-->
+		<td width="95" align="center"><a href="http://www.easyclicktravel.com/PagePrivacyPolicy.aspx">Privacy Policy</a></td>
+		<!--td width="98" align="center"><a href="http://www.easyclicktravel.com/PageUserAgreement.aspx">User Agreement</a></td>
+		<td align="center" style="POSITION: relative;visibility:visible;"><a href="http://www.easyclicktravel.com/PageSupport.aspx">Support</a></td>
+		<td align="center"><a href="http://www.easyclicktravel.com/PageAboutUs.aspx">About Us</a></td-->
+		<td width="73" align="center"><a href="http://www.easyclicktravel.com/PageContactUs.aspx">Contact Us</a></td>
+		<!--td width="76" align="center"><a href="http://www.easyclicktravel.com/PagePressRoom.aspx">Press Room</a></td>
+		<td width="65" align="center"><a href="http://www.easyclicktravel.com/PageFaq.aspx">FAQ</a></td>
+		<td width="77" align="center"><a href="http://www.easyclicktravel.com/PageSiteMap.aspx">Site Map</a></td-->
 	</tr> 
 	<tr class="footer">
 		<td colspan="10">&nbsp;</td>
