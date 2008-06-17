@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219133951id_/http%3A//www.pikaba.com/Default.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617144203id_/http%3A//pikaba.com/Default.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
-# Pikaba Privacy Policy - Pikaba © Online Marketing
+# Pikaba Privacy Policy - Pikaba Social Shopping, Online Merchant Network, Community Marketplace
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -42,26 +42,30 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [customerservice@pikaba.com](mailto:customerservice@pikaba.com). 
 
-### How Do We Protect Your Information?
+## 3\. How Do We Protect Your Information?
 
-#### How Do We Secure Information Transmissions?
+### How Do We Secure Information Transmissions?
 
 Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [customerservice@pikaba.com](mailto:customerservice@pikaba.com) if you have any questions or concerns. 
 
-#### How Can You Access and Correct Your Information?
+### How Can You Access and Correct Your Information?
 
 You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@pikaba.com](mailto:customerservice@pikaba.com). 
 
-#### Certain Disclosures
+### Certain Disclosures
 
 We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties. 
 
-#### What About Other Web Sites Linked to Our Web Site?
+### What About Other Web Sites Linked to Our Web Site?
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
 
 Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
 
-#### Your Consent
+### Your Consent
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
+
+### Deleting Your Account
+
+To permanently delete your Pikaba account, go to your profile at the following link: [DeleteAccount](https://web.archive.org/web/20080617144203id_/http%3A//pikaba.com/a/DeleteAccount.aspx). 
