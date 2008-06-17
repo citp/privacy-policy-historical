@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219121633id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617142515id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Lake Quincy Media
 
@@ -80,17 +80,21 @@ The Site may provide you the opportunity to opt-in to receive communications fro
 
 If you have any questions, comments or complaints about LakeQuincy.com or about this privacy statement, please contact: 
 
-> Via mail:  
->  Lake Quincy Media, LLC  
->  7303 State Route 43  
->  Kent, OH 44240  
->  USA
+> Via mail: 
+> 
+> Lake Quincy Media, LLC
+> 
+> 7303 State Route 43
+> 
+> Kent, OH, 44240
+> 
+> USA
 
 > Via email:  
 >  support AT lakequincy.com
 
 > Via telephone:  
->  330-677-2440
+>  (888) 364-4740 
 
 Information provided by you via general e-mail inquiries to Lake Quincy Media such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. 
 
