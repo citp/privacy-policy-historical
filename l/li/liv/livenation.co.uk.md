@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095644id_/http%3A//www.livenation.co.uk/company/getPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617161156id_/http%3A//www.livenation.co.uk/company/getPrivacy) for the most accurate reproduction.*
 
-# Live Nation | Find Concert Tickets, Tour Dates, Seating Charts and Venue Schedules with the UK's largest concert Search Engine
+# Live Nation UK - Find Concert Tickets, Tour Dates & UK Concert Information
 
-**[LiveNation.co.uk](http://www.livenation.co.uk/index) is owned and operated by Live Nation (Music) UK Ltd ("we"/"us"/"our"), company number 02409911. **
+**[LiveNation.co.uk](http://www.livenation.co.uk/index) is operated by Live Nation (Music) UK Ltd ("we"/"us"/"our"), company number 02409911. **
 
 **1\. INTRODUCTION**
 
