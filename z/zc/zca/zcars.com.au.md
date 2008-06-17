@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zcars.com.au privacy policy that was archived on 2007-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070902021530id_/http%3A//www.zcars.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zcars.com.au privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617134019id_/http%3A//www.zcars.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ don't give out others personal information without their prior consent eg home t
 
 written permission will be required before your personal information is given to others 
 
-Copyright © 2006 2007 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
+Copyright © 2006 2007 2008 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
