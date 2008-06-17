@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214181704id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617230942id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
 
 # Valued Opinions: Privacy Statement
 
@@ -6,16 +6,13 @@
 
 ## WEBSITE PRIVACY POLICY
 
- **WEBSITE PRIVACY POLICY**  
-
-
-**I. Company Background**
+ **I. Company Background**
 
 Research Now plc, The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc. (a US Company), Research Now Pty Limited (an Australian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now GmbH (a German Company), and Research Now Srl (a French Company) (together "Research Now") operate the Valued Opinions websites. This Privacy Policy governs the website located at [ www.valuedopinions.com](http://www.valuedopinions.com/). 
 
 Research Now is a member of various trade associations in the U.S. and Europe, including the Council of American Survey Research Organizations (CASRO) Code of Standards and Ethics for Survey Research, the European Society of Opinion and Marketing Research (ESOMAR) Codes and Guidelines for Survey Research, Marketing Research Association, American Marketing Association and the UK-based Market Research Society. Research Now strives to conform to the European Commission Directive on Data Protection, the Federal Trade Commission (FTC) Fair Information Practice Principles, the CAN-SPAM Act, and other privacy regulations and guidelines in the U.S. and abroad, as applicable. 
 
-**2\. Information Collected on this Website**
+**2\. Information Collected on this Website  **
 
 Our research survey websites, including this site ([www.valuedopinions.com](http://www.valuedopinions.com/)), provide survey respondents with the opportunity to express opinions and attitudes about the most current issues. We conduct research that involves people from around the world, and we aggregate and anonymize such research (stripped of any personally identifiable information) before sending research results to our clients. In addition, certain survey findings might be published on our websites (in anonymous form) so that our respondents can be among the first to hear about the concerns and interests of people around the world. 
 
@@ -43,21 +40,25 @@ We may also ask third parties to send survey invitation emails on our behalf. In
 
 **3\. How We Use the Information You Provide**
 
-If you have registered on the [ www.valuedopinions.com](http://www.valuedopinions.com/) site, we will use the information you provide us primarily to contact you about surveys in which we would like you to participate, or to provide you with the results of the surveys. We may also use your personal information to: 
+If you have registered on the www.valuedopinions.com site, we will use the information you provide us primarily to contact you about surveys in which we would like you to participate, or to provide you with the results of the surveys. We may also use your personal information to:
 
-  * notify you about new features on our websites, or other products or services in which we think you may be interested; 
+  * notify you about new features on our websites, or other products or services in which we think you may be interested;
   * update our internal database of individuals willing to take part in research and surveys; 
   * determine which individuals registered with Research Now should be invited to participate in our surveys; 
   * provide you with information about incentives for responding to our survey requests; 
-  * process your answers to surveys and summarize the results; 
-  * conduct research surveys on behalf of third parties; 
+  * process your answers to surveys and summarize the results;
+  * conduct research surveys on behalf of third parties;
   * transfer your survey responses to service suppliers who conduct process survey results on our behalf and under our direction; 
-  * provide a unique, non-personally identifiable ID (not associated with you) to our research partners so they may conduct surveys on our behalf and report the findings to us; 
+  * provide a unique, non-personally identifiable ID (not associated with you) to our research partners so they may conduct surveys on our behalf and report the findings to us;
   * to provide you with information relating to rewards provided by any third parties, including but not limited to a reward provided in response to your participation in surveys; 
   * contact you by email to invite you to take part in surveys and offline focus groups; and/or 
-  * invite you to enter a sweepstakes or participate in other incentive programs as a reward for participating in our surveys. 
+  * invite you to enter a sweepstakes or participate in other incentive programs as a reward for participating in our surveys;
+  * comply with applicable laws and regulations; and
+  * respond to your inquiries about Research Now or its website. 
 
 
+
+We may also share your personal information with Research Now subsidiaries or non-affiliated vendors, who may need to access and use your personal information to process your rewards, ensure that your mailing address is accurate, and eliminate duplicate information from our records. For example, Research Now provides our third-party fulfillment warehouse with names and mailing addresses so the warehouse can process and send paper gift certificates. 
 
 **_Email Communications from Research Now_**
 
@@ -81,17 +82,10 @@ Answers to the surveys are associated with unique, but non-personally identifiab
 
 **4\. Sharing Your Personal Information**
 
-In order to provide you with the services on our sites, we may need to share your personal information with third parties, our agents, who perform services on our behalf, such as merchandise fulfillment, web hosting, and the like. Research Now may also share your personal data with affiliated companies in the Research Now group of companies (see ["Company Background"](http://www.valuedopinions.com/en/privacy.htm#q2)) or with unaffiliated third parties when permitted by law, as described above under [ "How We Use the Information You Provide"](http://www.valuedopinions.com/en/privacy.htm#q1). 
+In order to provide you with the services on our sites, we may need to share your personal information with third parties, our agents, who perform services on our behalf, such as merchandise fulfillment, web hosting, and the like. Research Now may also share your personal data with affiliated companies in the Research Now group of companies (see "Company Background") or with unaffiliated third parties when permitted by law, as described above under "How We Use the Information You Provide". If Research Now acquires or spins off all or part of its business, or in the event of a bankruptcy proceeding, it might convey its business assets, including survey participant data. If a change of ownership occurs, a notice will be posted here, so please check this policy regularly.
 
-If Research Now acquires or spins off all or part of its business, or in the event of a bankruptcy proceeding, it might convey its business assets, including survey participant data. If a change of ownership occurs, a notice will be posted here, so please check this policy regularly. 
-
-  * use or share your personal information to comply with applicable laws and regulations; 
-  * to respond to your inquiries about Research Now or its website; 
-  * share with Research Now subsidiaries or non-affiliated vendors may need to access and use your personal information to process your rewards, ensure that your mailing address is accurate, and eliminate duplicate information from our records. For example, Research Now provides our third-party fulfillment warehouse with names and mailing addresses so the warehouse can process and send paper gift certificates. 
-
-
-
-**5\. Accessing the Personal Information You've Provided**
+**5\. Accessing the Personal Information You've Provided  
+**
 
 If you provided personal information during registration or in response to a survey, you may change or modify such information by: 
 
@@ -143,4 +137,4 @@ USA
 
 **12\. Terms and Conditions of Use**
 
-Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](http://www.valuedopinions.com/en/privacy.htm#). 
+Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](https://web.archive.org/web/20080617230942id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8?id=9 "Opens internal link in current window"). 
