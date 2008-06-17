@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveallaccess.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814040616id_/http%3A//www.iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveallaccess.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617030620id_/http%3A//www.iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.*
 
 # ILoveAllAccess.Com | Where True Fans Get Tickets!
 
@@ -99,9 +99,9 @@ Parental Requests for Information. If a child has provided any personal informat
 The Special Case of a Child’s Attempt to Complete an Order for Concert Packages or Other Products.  
 No user of this Site can order a premium package or any other product or service that we offer without submitting his or her credit card information. If a child under the age of 13 attempts to complete an order for one of our packages or other products or services, a boldly colored screen will pop-up that will ask the child to go get his or her parent (or legal guardian) to complete the order. Only the parent or legal guardian may complete the order. To make sure that it was the parent (or legal guardian) the person who completed the order, we endeavor to verify the identity of the person who completed the order by contacting them (using the information provided by the child or by the person completing the order) after the order is submitted. 
 
-If you have any further questions or comments, please e-mail us at [info@iloveallaccess.com](mailto:info@iloveallaccess.com), write us at ILAA, Inc., 21650 Oxnard Street, Suite 1925, Woodland Hills, CA. 91367, or give us a call at +1-888-I LUV AXS (+1-888-458-8297) toll free from the U.S., Canada, and Mexico  
+If you have any further questions or comments, please e-mail us at [info@iloveallaccess.com](mailto:info@iloveallaccess.com), write us at ILAA, Inc., 1100 Glendon Avenue, Suite 2000, Los Angeles, CA. 90024, or give us a call at +1-888-I LUV AXS (+1-888-458-8297) toll free from the U.S., Canada, and Mexico.  
 +800 I LUV AXS (+800 458-92971) toll free from UK, Germany, Ireland, the Netherlands, Spain, Belgium, Switzerland and Australia.
 
 THANK YOU FOR VISITING OUR SITE!
 
-This Privacy Statement was last revised on _October 21, 2004_
+This Privacy Statement was last revised on _January 2, 2008_
