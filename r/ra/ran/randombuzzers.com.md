@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the randombuzzers.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214191812id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randombuzzers.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617223459id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
 
-# Random House | Privacy Policy
+# Random House - Privacy Policy
 
 This Web site is maintained by:
 
