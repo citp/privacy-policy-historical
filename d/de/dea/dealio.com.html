@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealio.com privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217102758id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealio.com privacy policy that was archived on 2008-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617212756id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -29,55 +29,34 @@
 
             <div id="navLinks">
             <a href="http://www.dealio.com/deals/report-deal.html"><b>Post a Deal</b></a> | 
-            <a href="https://secure.dealio.com/login.html">Sign In</a> |
-            <a href="https://secure.dealio.com/reg.html" style="font-weight:bold">Join</a> |
+            <a href="https://secure.dealio.com/login.html" rel="nofollow">Sign In</a> |
+            <a href="https://secure.dealio.com/reg.html" style="font-weight:bold" rel="nofollow">Join</a> |
             <a href="http://www.dealio.com/help/community.html">Help</a>
             </div>
-
-<div id="logo" onclick="document.location = 'http://www.dealio.com/index.html';"></div>
 
 <script type="text/javascript">
 var search_urls = {
     "home" : "http://www.dealio.com/index.html",
     "products" : "http://www.dealio.com/products.html",
-    "products-seo" : "http://www.dealio.com/search-",
+    "products-seo" : "http://www.dealio.com/search/products/",
     "stores" : "http://www.dealio.com/coupons/index.html",
-    "stores-seo" : "http://www.dealio.com/coupons/search-",
+    "stores-seo" : "http://www.dealio.com/search/coupons/",
     "steals" : "http://www.dealio.com/deals/index.html",
-    "google" : "http://www.dealio.com/community/web-search.html"
+    "steals-seo" : "http://www.dealio.com/search/deals/",
+    "redirect" : "https://secure.dealio.com/redirect.html"   
 };
-var current_search_type = 'dealio';
 var default_search_text = ' ';
-var search_text_dealio = ' ';
-var search_text_web = 'Search Google';
 </script>
 
-<div id="search">
+<div id="logo" onclick="document.location = 'http://www.dealio.com/';"></div>
 
+<div id="search">
     <ul id="nav" class="home">
 <li id="nav_products" onclick="search_submit(false, &quot;products&quot;); return false;"><span class="tabLink"><a href="#" onclick="search_submit(false, &quot;products&quot;); return false;">Products</a></span></li><li class="separator1">&nbsp;</li><li id="nav_stores" onclick="search_submit(false, &quot;stores&quot;); return false;"><span class="tabLink"><a href="#" onclick="search_submit(false, &quot;stores&quot;); return false;">Coupons</a></span></li><li class="separator2">&nbsp;</li><li id="nav_steals" onclick="search_submit(false, &quot;steals&quot;); return false;"><span class="tabLink"><a href="#" onclick="search_submit(false, &quot;steals&quot;); return false;">Deals</a></span></li></ul>
 
-
-    <form method="get" action="http://www.dealio.com/community/web-search.html" name="web_search_form" id="web_search_form">
-        <input type="hidden" name="q" id="google_search_kwd" value=" ">
-        <input type="hidden" name="client" value="pub-1702431726390916">
-        <input type="hidden" name="forid" value="1">
-        <input type="hidden" name="channel" value="5249315053">
-        <input type="hidden" name="ie" value="ISO-8859-1">
-        <input type="hidden" name="oe" value="ISO-8859-1">
-        <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11">
-        <input type="hidden" name="hl" value="en">
-        <input type="hidden" name="cmd" id="cmd" value="">
-        <input type="hidden" name="search_type" value="web">
-    </form>
-
-    <div class="searchBoxCaption">Shop for:</div> <input id="searchBox" class="" value=" " onfocus="placeholder(event, this);" onblur="placeholder(event, this);" onkeydown="adjust_button(event);" type="text" maxlength="240">
+    <div class="searchBoxCaption">Shop for:</div> <input id="searchBox" class="placeholder" value=" " onfocus="placeholder(event, this);" onblur="placeholder(event, this);" onkeydown="adjust_button(event, false);" type="text" maxlength="240">
 
     <form method="post" action="http://www.dealio.com/" name="search_form" id="search_form">
-        <div id="searchOptions" style="display: none;">
-            <input name="search_type" value="dealio" id="searchSiteDealio" type="radio" checked="checked" onclick="adjust_button(event);"><label for="searchSiteDealio">Dealio</label>
-            <input name="search_type" value="web" id="searchSiteWeb" type="radio" onclick="adjust_button(event);"><label for="searchSiteWeb">Web by <img src="/images/logos/google_logo.gif" alt="google"></label>
-        </div>
         <input name="search_section" id="search_section" value="products" type="hidden">
         <input name="cmd" id="cmd" value="" type="hidden">
     </form>
@@ -87,7 +66,7 @@ var search_text_web = 'Search Google';
             <a href="#" onclick="search_submit(true);return false;">Search</a>
         </div>
     </div>
-      	  <div id="list_icon" onclick="document.location='http://www.dealio.com/dealio-lists.html'"><a href="#" onlick="return false;">My Dealio Lists</a></div>
+      	  <div id="list_icon" onclick="document.location='http://www.dealio.com/dealio-lists.html'"><a href="#" onclick="return false;">My Dealio Lists</a></div>
 </div>
 
 <div id="container" class="clearfix">
@@ -182,42 +161,40 @@ San Mateo, CA 94403<br>
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our announcements page notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.<br>
 </div>
     </div><img src="/images/info_l_bottom.gif" alt="">
-</div></div>
-
-<div id="footerStripe">
-	<!--FooterStripe Promo Title-->
+</div></div><div id="footerStripe">
+    <!--FooterStripe Promo Title-->
 </div>
 <div id="footer"> 
-	<ul>
-		<li title="Never miss a deal with the FREE Dealio Toolbar" onclick="window.location = '/toolbar/index.html';"><!--Footer Promo--></li>
-	</ul>
-       <h1><a href="http://www.dealio.com/toolbar/index.html">Learn more</a> <b>|</b> <a href="#" onclick="document.location='http://www.dealio.com/download.html'; return false;">Download Now</a> <b>|</b> <a href="http://www.dealio.com/about/tools.html">See More Deal Hunting Tools</a></h1>
-	<div>
-		<ul>
-			<li class="right">
-				Vendio Sites:&nbsp; 
-				<a href="http://www.honesty.com" target="_blank" title="Honesty.com eBay buyer research: find bargains on eBay">Honesty</a>&nbsp;|&nbsp;<a href="http://www.widgipedia.com" target="_blank" title="Widgets gallery, widget resources, samples, tutorials @ Widgipedia">Widgipedia</a>&nbsp;|&nbsp;<a href="http://www.vendio.com" target="_blank" title="Vendio - Smart Services for Smart Sellers">Vendio</a><br>
-				  <span class="copyright">
-				  Copyright © 1998-2007 Vendio Services, Inc. All Rights Reserved.<br>
-				  All registered trademarks are the property of their respective owners, without intent to infringe.
-				  </span>
-			</li>
-			<li class="left">
-				<a href="http://www.dealio.com/about/index.html">What the Dealio?</a><br>
-				<a href="http://www.dealio.com/privacy.html">Privacy Policy</a><br>
-				<a href="http://www.dealio.com/terms.html">Terms of Use</a><br>
-				<a href="http://www.dealio.com/siteinfo.html">Site Information</a><br>
-				 <a href="http://www.dealio.com/help/index.html">Help</a><br>
-    			</li>
-			<li class="left">
-        			<a href="http://www.dealio.com/resources.html">Resources</a><br>
-				<a href="http://www.dealio.com/testimonials.html">Testimonials</a><br>
-				<a href="http://www.dealio.com/merchants/program.html">Merchants</a><br>
-				<a href="https://secure.dealio.com/merchants/login.html">Merchant Login</a><br>
-  				<a href="http://www.dealio.com/contact.html">Contact Us</a><br>
-			</li>
-		</ul>
-	</div>
+    <ul>
+        <li title="Never miss a deal with the FREE Dealio Toolbar" onclick="window.location = '/toolbar/index.html';"><!--Footer Promo--></li>
+    </ul>
+       <h4><a href="http://www.dealio.com/toolbar/index.html">Learn more</a> <b>|</b> <a href="#" onclick="document.location='http://www.dealio.com/download.html'; return false;">Download Now</a> <b>|</b> <a href="http://www.dealio.com/about/tools.html">See More Deal Hunting Tools</a></h4>
+    <div>
+        <ul>
+            <li class="right">
+                Vendio Sites:&nbsp; 
+                <a href="http://www.honesty.com" target="_blank" title="Honesty.com eBay buyer research: find bargains on eBay">Honesty</a>&nbsp;|&nbsp;<a href="http://www.widgipedia.com" target="_blank" title="Widgets gallery, widget resources, samples, tutorials @ Widgipedia">Widgipedia</a>&nbsp;|&nbsp;<a href="http://www.vendio.com" target="_blank" title="Vendio - Smart Services for Smart Sellers">Vendio</a><br>
+                  <span class="copyright">
+                  Copyright © 1998-2008 Vendio Services, Inc. All Rights Reserved.<br>
+                  All registered trademarks are the property of their respective owners, without intent to infringe.
+                  </span>
+            </li>
+            <li class="left">
+                <a href="http://www.dealio.com/about/index.html">What the Dealio?</a><br>
+                <a href="http://www.dealio.com/privacy.html">Privacy Policy</a><br>
+                <a href="http://www.dealio.com/terms.html">Terms of Use</a><br>
+                <a href="http://www.dealio.com/siteinfo.html">Site Information</a><br>
+                <a href="http://www.dealio.com/shopping-guides/shopping-calendar-guide.html">Shopping Guides</a><br>
+                 <a href="http://www.dealio.com/help/index.html">Help</a><br>
+                </li>
+            <li class="left">
+                <a href="http://www.dealio.com/testimonials.html">Testimonials</a><br>
+                <a href="http://www.dealio.com/merchants/program.html">Merchants</a><br>
+                <a href="https://secure.dealio.com/merchants/login.html" rel="nofollow">Merchant Login</a><br>
+                <a href="http://www.dealio.com/contact.html">Contact Us</a><br>
+            </li>
+        </ul>
+    </div>
 </div>
 
 <!--Google Analytics-->
