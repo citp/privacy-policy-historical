@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216110503id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617223924id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy notes from AccuWebHosting.Com
 
@@ -56,7 +56,7 @@ To enable AccuWebHosting.com to use the information supplied such that we are no
 
 Security of client information that we maintain :
 
-We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured. In spite of all our security measures we can not rule out the possibility that such information/data could be illegally obtained / destroyed / damaged by some intruder/hacker. In any such event AccuWebHosting.com will not hold any liability thereof.
+We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured. In spite of all our security measures we can not rule out the possibility that such information/data could be illegally obtained / destroyed / damaged by some intruder/hacker or physical theft. In any such event AccuWebHosting.com will not hold any liability thereof.
 
 Changes in Privacy Policy :
 
