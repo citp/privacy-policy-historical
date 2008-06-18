@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216083424id_/http%3A//www.trade-it.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618200129id_/http%3A//trade-it.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
 
 # Online classifieds - Buy and sell classifieds - Classified advertising - Trade-It Classifieds in Bristol -
-
-[](https://web.archive.org/PlaceAnAd/)
 
 Trade-It is committed to protecting your right to privacy as a consumer of our online services.   
 It is our policy to respect the privacy of private communication and the information you provide to us will be held on Trade-It computers that are based in the UK. 
