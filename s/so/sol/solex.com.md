@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solex.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220220738id_/http%3A//www.solex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solex.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619005744id_/http%3A//www.solex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
