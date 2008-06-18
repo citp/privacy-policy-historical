@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vodpod.com privacy policy that was archived on 2007-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071209072859id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodpod.com privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618215134id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Vodpod: privacy</title>
@@ -8,26 +8,27 @@
 
 <link rel="search" type="application/opensearchdescription+xml" href="http://vodpod.com/opensearch.xml" title="Vodpod">
 
-  <script src="http://vodpod.com/javascripts/prototype.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/builder.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/effects.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/controls.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/dragdrop.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/application.js?r4680" type="text/javascript"></script>
-  <script src="http://vodpod.com/javascripts/window.js?r4680" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/prototype.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/builder.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/effects.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/controls.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/dragdrop.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/application.js?r6156" type="text/javascript"></script>
+  <script src="http://vodpod.com/javascripts/window.js?r6156" type="text/javascript"></script>
 
 
 
 
 
-<link href="http://vodpod.com/stylesheets/common.css?r4680" media="all" rel="Stylesheet" type="text/css">
-<link href="http://vodpod.com/stylesheets/help.css?r4680" media="all" rel="Stylesheet" type="text/css">
+<link href="http://vodpod.com/stylesheets/common.css?r6156" media="all" rel="stylesheet" type="text/css">
+
+<link href="http://vodpod.com/stylesheets/help.css?r6156" media="all" rel="stylesheet" type="text/css">
 
 
 
-  <link href="http://vodpod.com/stylesheets/themes/default.css?r4680" media="all" rel="Stylesheet" type="text/css">
-  <link href="http://vodpod.com/stylesheets/themes/alphacube.css?r4680" media="all" rel="Stylesheet" type="text/css">
-  <link href="http://vodpod.com/stylesheets/themes/videopopup.css?r4680" media="all" rel="Stylesheet" type="text/css">
+  <link href="http://vodpod.com/stylesheets/themes/default.css?r6156" media="all" rel="stylesheet" type="text/css">
+  <link href="http://vodpod.com/stylesheets/themes/alphacube.css?r6156" media="all" rel="stylesheet" type="text/css">
+  <link href="http://vodpod.com/stylesheets/themes/videopopup.css?r6156" media="all" rel="stylesheet" type="text/css">
 
 
 
@@ -42,25 +43,33 @@
     <meta name="verify-v1" content="IWqHVGmXQeOZnkDtdXd1+uPbV9F5evtM5ns+yxnLL8s=">
   </head>
   <body>
-    <div id="wrapper">
-      <div id="header_wrapper">
-        <script>
-function togglePodsMenu()
+    <div id="shadow">
+      <div id="wrapper">
+        <div id="header_wrapper">
+          <script>
+function togglePodsMenu(elt_id)
 {
-  var pods = $('pods');
+  elt_id = elt_id || 'pods';
+  var ifr = elt_id + '_iframe';
+  var pods = $(elt_id);
+  ifr_elt = $(ifr);
   
   if (pods != null)
   {
     if (pods.style.display == 'none')
     {
-      Element.show('pods');
-      Element.show('pods_iframe');
-      $('pods_iframe').style.width = $(pods).offsetWidth + 'px';
-      $('pods_iframe').style.height = $(pods).offsetHeight + 'px';
+      Element.show(elt_id);
+      if (ifr_elt){
+        Element.show(ifr_elt);
+        $(ifr).style.width = $(pods).offsetWidth + 'px';
+        $(ifr).style.height = $(pods).offsetHeight + 'px';
+      }
       podsMenu = pods;
     } else {
-      Element.hide('pods');
-      Element.hide('pods_iframe');
+      Element.hide(elt_id);
+      if (ifr_elt) {
+        Element.hide(ifr_elt);
+      }
       podsMenu = null;
     }
   }
@@ -78,10 +87,10 @@ function clearInput(inputField) {
     / <span class="inactive">Privacy Policy</span>
   </div>
   <div id="search">
-    <form action="/search/search" method="get" onsubmit="validateSearch()">
+    <form action="/search/browse?site=vodpod" method="get" onsubmit="validateSearch()">
       <div>
         <input id="text_box" name="q" onclick="clearInput(this)" type="text">
-        <input src="http://s3.amazonaws.com/vodpod.com/images/loginheader_search_button.png?r4680" style="border:0px;margin-left:1px" type="image">
+        <input src="http://s3.amazonaws.com/vodpod.com/images/loginheader_search_button.png?r6156" style="border:0px;margin-left:1px" type="image">
       </div>
       <input id="search_target" name="target" type="hidden" value="videos">
       <input id="search_mature" name="mature" type="hidden" value="">
@@ -94,49 +103,44 @@ function clearInput(inputField) {
       <script>
         var global_current_user = null;
       </script>
-      <!--
-      <img src="/images/blue_arrow.gif" style="float:left;padding-top:2px;"/>
-      <a href="http://vodpod.com/newpod" class="header_link"><b>Start</b> a Pod</a>
-      -->
-      <a id="header_explore_link" href="/explore" class="header_link "><b>explore</b></a>
+      <a id="header_explore_link" href="http://vodpod.com/tags" class="header_link "><b>explore</b></a>
     
   </div>
+  <div style="clear:both;"></div>
+  
+  
+  <div class="tagline">
+    Collect, Share, &amp; Discuss Your Favorite Videos  
+  </div>
+  
+  
   <ul id="account_nav">
     
     <li style="padding-left:6px;">
-      <a href="/site/login?direct=true">Login</a>
+      <a href="/site/login?direct=true">Sign In</a>
     </li>    
     <li class="right_border">
-      <a href="/site/register?direct=true"><b>Start Your Pod</b></a>
+      <a href="/site/register?direct=true"><b>Sign Up Now</b></a>
       &nbsp;|
     </li>
     
   </ul>
 </div><!-- close account_bar -->
 
-      </div>
-      
-      <div class="generic_header" style="background:url(/images/explore_bg.gif) repeat-y;">
-        <div style="float:left">
-          
-          
-          <a href="/site/privacy">Privacy Policy</a>
-          
-          
         </div>
-        <!--div style="float:right;margin-right:20px;margin-top:10px">
-            <form action="/search/search" method="get" style="line-height:20px">
-    <select id="target" name="target"><option value="videos">Videos</option>
-<option value="pods">Pods</option></select>
-     <input id="q" name="q" style="width:220px" type="text" />
-     <input name="commit" type="submit" value="Search" />
-  </form>
+        
+        <div class="generic_header" style="background:url(/images/explore_bg.gif) repeat-y;">
+          <div style="float:left">
+            
+            
+            <a href="/site/privacy">Privacy Policy</a>
+            
+            
+          </div>
+        </div>
+        
 
-        </div-->
-      </div>
-      
-
-      
+        
 
 
 <div id="wrapper" style="width:900px">
@@ -313,8 +317,9 @@ before implementing such revisions with respect to such information.</p>
 
 </div>
   
-      
-      
+
+        
+
 
 
 
@@ -326,7 +331,7 @@ before implementing such revisions with respect to such information.</p>
   <div id="copyright">©2006 Remixation, Inc.  All Rights Reserved</div>
   <div style="float:right;">
   
-    <a href="/explore/pods/all/all">All Pods</a> | <a href="/site/privacy">Privacy</a> | <a href="/account/blog_badges">Widgets</a> | <a href="/vpbutton/install">Tools</a> | <a href="/site/api">API</a> | <a href="http://blog.vodpod.com/?p=78">Jobs</a> | <a href="http://blog.vodpod.com">Blog</a> | <a href="http://blog.vodpod.com/?page_id=99">Help</a> |
+    <a href="/explore/pods/all/all">All Pods</a> | <a href="/site/privacy">Privacy</a> | <a href="/widgets">Widgets</a> | <a href="/vpbutton/install">Tools</a> | <a href="/site/api">API</a> | <a href="http://blog.vodpod.com/?p=78">Jobs</a> | <a href="http://blog.vodpod.com">Blog</a> | <a href="http://blog.vodpod.com/?page_id=99">Help</a> |
     <a href="#" onclick="ShowDialog('/site/feedback', {});return false;">Send Feedback</a>    
   
   </div>
@@ -335,8 +340,9 @@ before implementing such revisions with respect to such information.</p>
 
 
 
-      
-    </div>
+
+      </div>
+    </div><div id="shadow_bottom"></div>
     
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
