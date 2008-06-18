@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426173123id_/http%3A//www.goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618094502id_/http%3A//www.goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Goldmic: The Hip-Hop Network: Privacy Policy
 
@@ -16,8 +16,9 @@ You should be very cautious when You voluntarily disclose personal information (
 
 Goldmic also collects and archives transcripts of all of the Site's chat rooms. Such transcripts are used for market research and improvement of our Site and related products and services. In addition, Goldmic reserves the right to monitor the contents of all private messages sent by You on our Site for purposes of preventing abusive activity on the Site and improving our Site and related products and services. 
 
-**  
-Information Use**
+This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to http://www.doubleclick.com/us/about_doubleclick/privacy/
+
+**Information Use**
 
 Goldmic has a stringent Privacy Policy concerning how We use information about our members and the extent to which others may have access to this information. Member information is used for internal purposes only, such as market research, improvement of our marketing and promotional efforts, and improvement of our products, services and Site. We do not give, sell, rent, share or trade any identifiable personal information regarding our members to any third party, except as required by law or expressly permitted by a member. 
 
