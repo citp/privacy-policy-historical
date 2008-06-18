@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080533id_/http%3A//www.marketsurveys.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618154017id_/http%3A//marketsurveys.com/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement from Market Surveys
 
 ** Recent Survey  
-[Living the Good Life](https://web.archive.org/members/newsurveys.phtml "Living the Good Life") **
+[Backyard BBQ Survey](https://web.archive.org/members/newsurveys.phtml "Backyard BBQ Survey") **
 
 Market Surveys ("MS") is a survey research company and our use of your information is strictly limited in accordance with this Privacy Policy. To use MarketSurveys.com and its related sister sites (including MarketSurveys.com, SurveyMojo.com, YourInterestsOnly.com, ExpressMyOpinions.com, MusicSurveys.com, MovieSurveys.com, EmployeeSatisfaction.com, SatisfactionSurveys.com, RestaurantSurveys.com, QueEncuestas.com, and EncuestasdeOpiniones.com (collectively, the "MS Sites") you must register as a User (at no charge) and be at least thirteen (13) years old. The MS Sites neither target, nor are intended for, children. 
 
