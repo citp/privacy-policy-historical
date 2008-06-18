@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbuytires.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211064011id_/http%3A//superbuytires.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbuytires.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618102946id_/http%3A//superbuytires.com/privacy.html) for the most accurate reproduction.*
 
 # Superbuytires.com Privacy Policy
 
