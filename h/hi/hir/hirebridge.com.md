@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217010018id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618060156id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Hirebridge Applicant Tracking Solutions :: Privacy Policy
 
@@ -54,6 +54,6 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 * * *
 
-Have questions about the features or capabilities the Hirebridge Recruiter applicant tracking system and hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20071217010018id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
+Have questions about the features or capabilities the Hirebridge Recruiter applicant tracking system and hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20080618060156id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
 
-Our [free trial account](https://web.archive.org/web/20071217010018id_/http%3A//www.hirebridge.com/corp/demo.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
+Our [free trial account](https://web.archive.org/web/20080618060156id_/http%3A//www.hirebridge.com/corp/demo.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
