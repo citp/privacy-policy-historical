@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214124936id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618152724id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
-[Ask a Librarian](http://www.asknow.org/portal.cfm?lib=COLAPL)
+## Quick Links: 
 
-[Events & Activities](https://web.archive.org/cgi-bin/colapl/calendar/calendar-form)
+[Get a Library Card ](https://web.archive.org/aboutus/librarycard.html)
 
-[Book Lover's Central](https://web.archive.org/reading/)
+[Find Magazine and Newspaper Articles ](https://web.archive.org/periodicals/index.html)
 
-[Kid's Corner](https://web.archive.org/children/)
+[Local History ](https://web.archive.org/history/)
 
-[Teens Read](https://web.archive.org/teens/)
+[Donate to the Library ](https://web.archive.org/support/index.html)
 
-[Local History](https://web.archive.org/history/)
-
-[Donate to the Library](https://web.archive.org/support/)
+[About the Library ](https://web.archive.org/aboutus/index.html)
 
 | 
 
