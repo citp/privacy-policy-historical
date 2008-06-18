@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vncentral.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228063704id_/http%3A//www.vncentral.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vncentral.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618214638id_/http%3A//www.vncentral.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # VNCentral - An Online Social Community and Entertainment Company
 
