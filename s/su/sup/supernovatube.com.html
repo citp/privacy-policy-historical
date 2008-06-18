@@ -1,0 +1,345 @@
+<!--The following is the downloaded HTML source of the supernovatube.com privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618065544id_/http%3A//www.supernovatube.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+    <title> SuperNova Tube </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="keywords" content="video, sharing ,camera phone, video phone, video file sharing, share video, video sharing, share video online, share home video">
+    <meta name="description" content="Free videos on Supernova Tube, your top video sharing network.  Supernova Tube works with uploaders not against them in making sure online videos are easy to share with all your friends.  You can talk, rate and share home videos with the world or just your close friends. You decide!">
+    <link href="http://www.supernovatube.com/css/style_template.css" rel="stylesheet" type="text/css">
+    <link href="http://www.supernovatube.com/css/style_custom.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    </style>
+    <script type="text/javascript" src="include/toolset.js"></script>
+    <script type="text/javascript" src="include/swfobject.js"></script>
+    
+<script type="text/javascript">
+start=1;
+function show_recent(direction, total, divtag)
+{
+if(direction=="right")
+start = start + 4;
+else if(direction=="left")
+start = start - 4;
+if(start >= 13)
+start = 1;
+else if(start <= 0)
+start = 9;
+if(start == 1 && total>0)
+{
+document.getElementById(divtag + '1').style.display = "block";
+document.getElementById(divtag + '2').style.display = "none";
+document.getElementById(divtag + '3').style.display = "none";
+if(total<4) last = total; else last = 4;
+}
+if(start == 5 && total>4)
+{
+document.getElementById(divtag + '1').style.display = "none";
+document.getElementById(divtag + '2').style.display = "block";
+document.getElementById(divtag + '3').style.display = "none";
+if(total<8) last = total; else last = 8;
+}
+if(start == 9 && total>8)
+{
+document.getElementById(divtag + '1').style.display = "none";
+document.getElementById(divtag + '2').style.display = "none";
+document.getElementById(divtag + '3').style.display = "block";
+if(total<12) last = total; else last = 12;
+}
+return;
+}
+function createNewList()
+{
+var name = prompt("{$language[153]}", "");
+if(name)
+document.location.href="friends.php?add_list="+name;
+}
+function doAction(action)
+{
+if(action)
+{
+document.getElementById('action_name').value = action;
+document.friendsForm.submit();
+//                        document.location.href="friends.php?list_action="+action;
+}
+}
+function invite_mem_addall()
+{
+var x=document.getElementById("myfriends");
+var y=document.getElementById("invitefriends");
+var i;
+i= x.options.length;
+if(i!=0)
+{
+y.options.length=i;
+for(var j=0;j<i;j++)
+{
+y.options[j]=new Option(x.options[j].text,x.options[j].value);
+}
+for(j=0;j<i;j++)
+{
+x.remove(0);
+}
+}
+}
+function invite_mem_add()
+{
+var x=document.getElementById("myfriends");
+var y=document.getElementById("invitefriends");
+var i;
+i = x.selectedIndex;
+if(i>=0)
+{
+y.options[y.options.length]=new Option(x.options[i].text,x.options[i].value);
+x.remove(x.selectedIndex);
+}
+}
+function invite_mem_removeall()
+{
+var x=document.getElementById("invitefriends");
+var y=document.getElementById("myfriends");
+var i;
+i= x.options.length;
+if(i!=0)
+{
+y.options.length=i;
+for(var j=0;j<i;j++)
+{
+y.options[j]=new Option(x.options[j].text,x.options[j].value);
+}
+for(j=0;j<i;j++)
+{
+x.remove(0);
+}
+}
+}
+function invite_mem_remove()
+{
+var x=document.getElementById("invitefriends");
+var y=document.getElementById("myfriends");
+var i;
+i = x.selectedIndex;
+if(i>=0)
+{
+y.options[y.options.length]=new Option(x.options[i].text,x.options[i].value);
+x.remove(x.selectedIndex);
+}
+}
+function invite_mem_send()
+{
+var i,out;
+var x=document.getElementById("invitefriends");
+for(i=0; i<x.options.length; i++)
+{
+out = out + "<input type=hidden name=flist[] value="+x.options[i].text+" >";
+}
+document.getElementById('friends_div').innerHTML=out;
+document.fform.submit();
+}
+function approve_post(id)
+{
+var y="apostform"+id;
+var x = document.getElementById(y);
+return x.submit();
+}
+</script> 
+  </head>
+  <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+    <table width="780" border="0" align="center" cellpadding="0" cellspacing="0" class="header_top">
+      <tbody><tr>
+        <td>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0px;">
+            <tbody><tr>
+              <td>
+                <table width="780" border="0" cellspacing="0" cellpadding="0" class="background">
+                  <tbody><tr>
+                    <td>
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          </tr></tbody></table><table class="header_background">
+                            <tbody><tr>
+                              <td width="500" height="108" align="left" valign="top">
+                                <a href="http://www.supernovatube.com/index.php">
+                                  <img src="images/toplogo.jpg" alt="" border="0" style="margin-top:24px; margin-bottom:15px;"></a></td>
+                              <td valign="top">
+                                <table width="260" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody><tr>
+
+                                    <td align="right" valign="top">                                       <table cellspacing="0" cellpadding="0" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td style="padding-top:3px">
+                                              <a class="index_top" href="http://www.supernovatube.com/signup.php">Sign up</a></td>
+                                            <td style="padding-top:3px" class="divider_top">&nbsp;|&nbsp;</td>
+                                            <td style="padding-top:3px">
+                                              <a class="index_top" href="http://www.supernovatube.com/login.php">Log in</a></td>
+                                            <td style="padding-top:3px" class="divider_top">&nbsp;|&nbsp;</td>
+                                            <td style="padding-top:3px">
+                                              <a class="index_top" href="http://www.supernovatube.com/help.php">Help</a></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                                                            <br>
+                                      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td align="left">
+                                              <img style="margin-top: 4px; display:none;" src="http://www.supernovatube.com/images/slogan.gif" width="250" height="28" border="0">                                            
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>                                      
+                                     </td>
+                                     <td align="center" width="60" valign="top">
+                                      <a href="/privacy.php?slang=1" target="_self">
+                                        <img src="images/flag_en.gif" alt="English" width="16" height="15" style="margin-top:1px;"></a>&nbsp;
+                                      <a href="/privacy.php?slang=2" target="_self">
+                                        <img src="images/flag_de.gif" alt="Deutsch" width="16" height="15" style="margin-top:1px;"></a>
+                                    </td>    
+                                  </tr>
+                                </tbody></table></td>
+                            </tr>
+                          </tbody></table>
+                        </td></tr>
+                        <tr>
+                          <!--<td height=1></td>-->
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <!--
+                                -->
+                                <td width="100%" valign="bottom">
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                      <td align="right">
+                                                                              <table width="585" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tbody><tr align="center"> 
+                                                                                      <td width="110" height="26" class="head1_button_frame" align="left">
+                                              <div style="text-align:center; width:110px;"><a href="http://www.supernovatube.com/index.php" class="mainmenu">Home</a></div></td>
+                                            <td width="110" height="26" class="head1_button_frame" align="left">
+                                              <div style="text-align:center; width:110px;"><a href="http://www.supernovatube.com/video.php" class="mainmenu">Video</a></div></td>
+                                            <td width="110" height="26" class="head1_button_frame" align="left">
+                                              <div style="text-align:center; width:110px;"><a href="http://www.supernovatube.com/photos.php" class="mainmenu">Photos</a></div></td>
+                                            <td width="110" height="26" class="head1_button_frame" align="left">
+                                              <div style="text-align:center; width:110px;"><a href="http://www.supernovatube.com/community.php" class="mainmenu">Community</a></div></td> 
+                                                                                          <td width="110" height="26" class="head1_button_frame" align="left">
+                                              <div style="text-align:center; width:110px;"><a href="http://www.supernovatube.com/upload.php" class="mainmenu">Upload</a></div></td> 
+                                                                                        </tr>
+                                        </tbody></table></td>
+                                    </tr>
+                                  </tbody></table>
+                        </td></tr>  <tr>
+     <td height="34" align="center" class="submenu_header_table_back2">
+    
+    <a href="http://www.supernovatube.com/my_video.php" class="submenu">My videos</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/my_photos.php" class="submenu">My photos</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/my_favour.php" class="submenu">My favorites</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/my_playlist.php" class="submenu">My playlist</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/mygroup.php" class="submenu">My groups</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/my_profile.php" class="submenu">My profile</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+    <a href="http://www.supernovatube.com/inbox.php" class="submenu">Inbox</a>
+  </td>
+</tr>
+ </tbody></table></td>
+          </tr>
+
+
+
+    </tbody></table><table width="100%" height="300" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><table width="100%">
+  </table><table width="100%">
+    <tbody><tr>
+      <td align="left" valign="top" style="padding:20px;" class="infoText normalText">
+<font class="infoTextBig">Privacy Statement</font>
+<br><br><br>
+
+<h1>1 Purpose</h1>
+
+<p>This document sets out Supernova Tube’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the <a class="foreground2" href="/terms.php">General Terms of Use</a>.</p>
+
+<h1>2 Data collected</h1>
+
+<p>We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.</p>
+
+<h1>3 Purpose of processing</h1>
+
+<p>Data indicated on the Website as mandatory is required in order to use the Website’s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because Supernova Tube is a French company, the Data is collected and maintained in France.&nbsp; For your information, this processing has been reported to the relevant local authority (Commission Nationale de l’Informatique et des Libertés).</p>
+
+<h1>4 Data recipients</h1>
+
+<p>Your Data is not transmitted to third parties. However, Supernova Tube may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect Supernova Tube’s rights and interests.  It is Supernova Tube’s policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court.</p>
+
+<h1>5 Data security</h1>
+
+<p>Supernova Tube attaches great importance to the security of your Data, and takes all appropriate steps to limit the risk that it may be lost, damaged or misused.</p>
+
+<h1>6 Data retention</h1>
+
+<p>Data is stored on the premises of the Website host and is kept only as long as necessary for the purposes set out above. After that point, data is kept only for statistical purposes and shall not be used for any other reason.</p>
+      </td>
+    </tr>
+  </tbody></table></td></tr></tbody></table></td></tr><tr>
+  <td>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+      <tbody><tr>
+        <td height="24" align="center" class="tbl_headline_regular header_table_back">
+          <a href="http://www.supernovatube.com/about.php" class="tbl_headline_regular">Disclaimer</a>
+          <span class="tbl_headline_regular">
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+          </span>
+          <a href="http://www.supernovatube.com/dev.php" class="tbl_headline_regular">Copyright Notification</a>
+          <span class="tbl_headline_regular">
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+          </span>
+          <a href="http://www.supernovatube.com/terms.php" class="tbl_headline_regular">Terms of Use</a>
+          <span class="tbl_headline_regular">
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+          </span>
+          <a href="http://www.supernovatube.com/privacy.php" class="tbl_headline_regular">Privacy Policy</a></td>
+      </tr> 
+      <tr>
+        <td height="45" align="center" class="footer_bottom">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td align="left" width="70">&nbsp;
+                </td> 
+              <td align="center">
+                <span class="smallText">
+                  <br>
+                  &nbsp;©&nbsp;2007 Super Nova Tube. All rights reserved.
+                  <span style="color:gray;">
+                   
+                  </span>
+                </span><br>
+
+</td> 
+              <td align="right">
+</td> 
+            </tr>
+          </tbody></table><br><br></td>
+      </tr>
+
+    </tbody></table></td>
+</tr>
+
+</tbody></table></td>
+</tr>
+
+</tbody></table>
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-48Z_NUIjicbVI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-48Z_NUIjicbVI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-48Z_NUIjicbVI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</body></html>
