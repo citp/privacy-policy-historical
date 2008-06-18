@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216040438id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618052944id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
 **Heritage Privacy Policy**
 
-**Your right to privacy is honored by Heritage.**  
-Any information that you provide to us is personal, private, and valuable. When you choose to provide us with information, we realize that you trust us and expect us to act responsibly. Our policy is that all information that you provide will be used ONLY to better serve you.
+Any information that you provide to us is personal, private, and valuable. When you choose to provide us with information, we realize that you trust us and expect us to act responsibly. Our policy is that the information you provide will be used to better serve you. 
 
-As our relationship with you and our other customers grows, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy. This privacy policy was last updated on July 23, 2004.
+As we update and expand our services, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy.
 
 If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([Webmaster@HA.com](mailto:Webmaster@HA.com)) or writing us at the following address:
 
@@ -29,25 +28,27 @@ Dallas, TX 75219-3941
 
 
 **What personal information do we collect and why?**  
-We collect any and/or all of the following, depending on what particular form you fill out. Our surveys and contests collect your name, e-mail address, address, telephone number, and information about your collecting and selling habits and interests. Our free E-listings require only an e-mail address. Our registration for participating in online auctions collects your name, e-mail address, address, telephone number, and a valid Visa or Mastercard number. The credit card information is used for a credit check only, and is not charged for any reason unless you personally authorize charges to that card at a later time for a particular purchase. Your credit card information is held in strictest confidence and protected by multiple layers of security.
+We collect any and/or all of the following, depending on what particular form you fill out. Our surveys and contests collect your name, e-mail address, address, telephone number, and information about your collecting and selling habits and interests. Our free e-mail notices require only an e-mail address. Our registration for participating in online auctions collects your name, e-mail address, address, telephone number, and a valid credit card, eCheck or other validation method.
 
-We automatically record your IP address, session duration, transaction data, the order and addresses of the pages you visit, and in most cases the data that you enter on those pages. We use all of this information to improve the navigation, functionality, and general service that our Web site provides.
-
-If you provide us with your e-mail address, you will automatically begin receiving e-mails from us on a variety of subjects. If you wish to block your e-mail address from receiving any e-mails from Heritage, you may do so quickly and easily by sending an e-mail to [Webmaster@HA.com](mailto:Webmaster@HA.com?subject=REMOVE) with "REMOVE" in the subject line.
+We automatically record your IP address, session duration, transaction data, the order and addresses of the pages you visit, and in most cases the data that you enter on those pages. We use all of this information to improve the navigation, functionality, and general service that our website provides.
 
 **How does Heritage use your information?**  
-Heritage researches our customers' usage patterns and demographics based on the information provided to us during their experiences on our Web site. We do this to better understand our customers' needs and enhance our service. This information is compiled and analyzed on an aggregate basis for internal use only and is not shared with any parties outside of Heritage.
+Heritage researches our customers' usage patterns and demographics based on the information provided to us during their experiences on our Website. We do this to better understand our customers' needs and enhance our service. This information is compiled and analyzed for internal use.
 
-Registration qualifies user as a Heritage customer and regardless of any regulation to the contrary agrees, until this consent is revoked in writing, that Heritage may from time to time contact user concerning sale and purchase opportunities available through Heritage. **With whom does Heritage share your information?**  
-No one - for any reason. All information is held in confidence by Heritage. Any information disseminated to parties external to Heritage is anonymous in nature -- for example: the prices realized for a particular auction may include the price paid for a lot, but it will not include information concerning the person who purchased that lot.
+Registration qualifies user as a Heritage customer and regardless of any regulation to the contrary agrees, until this consent is revoked in writing, that Heritage may from time to time contact user concerning sale and purchase opportunities available through Heritage.
+
+**With whom does Heritage share your information?**  
+All information is held in confidence by Heritage. Any information disseminated to parties external to Heritage is anonymous in nature - for example: the prices realized for a particular auction may include the price paid for a lot.
 
 **What are cookies and how are they used?**  
-The internet browser that you use to view our site allows a small file called a "cookie" to be saved on your hard drive. This cookie enables our Web server to recognize you as a first-time or repeat customer and may include information such as your User Name so that you do not have to re-enter it every time you visit. We also use cookies to provide customized and personalized services to you. Your browser does allow you to turn off or warn you about cookies from our site and from any other Web sites. Cookies do not allow us to know anything about your surfing habits on other Web sites. They simply tell us about your surfing habits on our Web site.
+The internet browser that you use to view our site allows a small file called a "cookie" to be saved on your hard drive. This cookie enables our Web server to recognize you as a first-time or repeat customer and may include information such as your User Name so that you do not have to re-enter it every time you visit. We also use cookies to provide customized and personalized services to you. Your browser does allow you to turn off or warn you about cookies from our site and from any other Websites. Cookies do not allow us to know anything about your surfing habits on other Websites. They simply tell us about your surfing habits on our Website.
 
 **How do we ensure the protection of your personal information?**  
-Security measures are in place that protect against the loss, misuse or alteration of your information. Heritage servers are protected around-the-clock through multiple security layers, including a firewall and system architecture that prevent unauthorized access to any data not specifically provided on the Web site.
+Heritage maintains reasonable physical, electronic, and procedural safeguards to protect the security and integrity of all Personal Information provided to us.
 
-In the areas of our Web site where you must provide a User Name and password, only you have access to your information. In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity so that if someone else were to gain access to your computer they still would not be able to view your information on our site.
+Heritage limits access to personal information about you to those employees who we reasonably believe need to come into contact with that information to provide products or services to you in order to do their jobs.
+
+In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity. Heritage takes reasonable precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 **Reviewing and changing your information**  
-You can edit and change the information that Heritage has concerning you, including your User Name and password, by [editing your profile](https://web.archive.org/common/myprofile.php). If you have forgotten your password, we will [send it to you immediately via e-mail](https://web.archive.org/common/ForgotPwd.php) at your request. 
+Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/common/myprofile.php) page.
