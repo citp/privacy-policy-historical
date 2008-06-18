@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214175845id_/http%3A//www.ztod.com/privacy.php%3F%26lid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618073113id_/http%3A//www.ztod.com/privacy.php%3F%26lid%3D9) for the most accurate reproduction.*
 
 # ZTOD.com - Zero Tolerance On Demand! - Privacy Policy
 
