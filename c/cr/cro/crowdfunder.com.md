@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230174710id_/http%3A//www.crowdfunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618174836id_/http%3A//crowdfunder.com/home/privacy) for the most accurate reproduction.*
 
-# CrowdFunder Help and Information
+# Welcome to CrowdFunder
 
 **Effective Date of this version: September 21, 2007**
 
-Thank you for visiting CrowdFunder.com (the "Site"). This Site is operated by Fairground Media LLC, located at 1701 Pearl Street, Suite 200, Boulder, Colorado 80302. Your access to and use of the Site is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "CrowdFunder," "we," "us" and "our" when used in this Privacy Policy mean Fairground Media LLC. The terms "you" and "your," when used in this Privacy Policy, mean any user of the Site.
+Thank you for visiting CrowdFunder.com (the "Site"). This Site is operated by Fairground Media LLC, mailing address at PO Box 850, Boulder, Colorado 80306. Your access to and use of the Site is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "CrowdFunder," "we," "us" and "our" when used in this Privacy Policy mean Fairground Media LLC. The terms "you" and "your," when used in this Privacy Policy, mean any user of the Site.
 
 We understand your concerns about privacy and we want to assure you that CrowdFunder takes privacy matters seriously. Therefore, we are providing this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Privacy Policy, you may direct them to [privacy@CrowdFunder.com](mailto:privacy@CrowdFunder.com). 
 
@@ -63,6 +63,6 @@ If you have further questions about CrowdFunder's Privacy Policy or comments on 
 You may also contact us at:  
 Privacy Manager  
 CrowdFunder  
-1701 Pearl St. suite 200  
-Boulder, CO 80302   
+PO Box 850  
+Boulder, CO 80306   
 
