@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212003138id_/http%3A//www.skybet.com/help/sky_bet_privacy_policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618071449id_/http%3A//www.skybet.com/help/sky_bet_privacy_policy.shtm) for the most accurate reproduction.*
 
-# Sky Bet - Help & Support - Privacy Policy
+# Privacy Policy | Help & Support | Sky Betting & Gaming
 
 ## Privacy Policy
 
-You are at: [Home](https://web.archive.org/) > [Help & Support](https://web.archive.org/help/index.shtm) > **Privacy Policy**
+You are at: [Help & Support](https://web.archive.org/help/index.shtm) > **Privacy Policy**
 
 ### Cookies 
 
@@ -39,10 +39,10 @@ Security is very important to us. Secure Socket Layer ("SSL") encryption technol
 
 ### Updates
 
-You may notify us of any updates, amendments and corrections to previously collected user information by contacting us [by email](https://web.archive.org/web/20071212003138id_/http%3A//www.skybet.com/help/by_email.shtm) or by entering the "Personal Details" section in "My Account" on www.skybet.com and entering the relevant changes. Further, upon your request, we will use commercially reasonable efforts to delete your user information from our database; however, it may be impossible to delete your entry without some residual information remaining because of back-ups and records of deletions.
+You may notify us of any updates, amendments and corrections to previously collected user information by contacting us [by email](https://web.archive.org/web/20080618071449id_/http%3A//www.skybet.com/help/by_email.shtm) or by entering the "Personal Details" section in "My Account" on www.skybet.com and entering the relevant changes. Further, upon your request, we will use commercially reasonable efforts to delete your user information from our database; however, it may be impossible to delete your entry without some residual information remaining because of back-ups and records of deletions.
 
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
 
 ### Privacy Queries 
 
-Any queries or comments about the Sky Bet Privacy Policy should be forwarded to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com). Any web site that you may connect to from the site is not covered by this Privacy Policy.
+Any queries or comments about our Privacy Policy should be forwarded to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com). Any web site that you may connect to from the site is not covered by this Privacy Policy.
