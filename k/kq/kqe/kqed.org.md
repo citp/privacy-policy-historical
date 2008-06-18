@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201110145id_/http%3A//www.kqed.org/help/website/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618115236id_/http%3A//www.kqed.org/help/website/privacy.jsp) for the most accurate reproduction.*
 
 # KQED | Got a Question? Privacy Policy
 
