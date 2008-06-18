@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232439id_/http%3A//www.ntis.gov/about/policies.asp%3Floc%3D6-6-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618231124id_/http%3A//www.ntis.gov/about/policies.aspx) for the most accurate reproduction.*
 
 # Policies
+
+### Policies
 
 **Privacy Policy & Security**  
 NTIS is committed to protecting your privacy and will collect no personal information about you unless you choose to provide that information. Such information is kept within NTIS although some information may be provided to our agency sources. For products developed under a joint venture, some information may be shared with our joint venture partner.
@@ -33,4 +35,6 @@ Shopping online at NTIS is safe and secure. Our secure server software (SSL) is 
 "Cookies" are small bits of text that are either used for the duration of a session ("session cookies") or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site ("persistent cookies"). This Web site does not use persistent cookies or any other persistent tracking technology. Per-session cookies are used to store information only within a session. These cookies are cached only while a user is visiting the Web server issuing the per-session cookie and are deleted from the cache when the user closes the session. These cookies allow us to provide features such as storing items in your shopping cart. No other site can request this information nor can NTIS track your usage of other sites. If you turn your browser's cookie option off, you can still use most of the features on our site, however, you will not be able to review more than one search results page and you will not be able to order anything with our on-line order processing system. You may still use portions of the website and may order using our telephone sales number. 
 
 **Copyright Policy**  
-Some of the materials provided by NTIS are subject to copyrights owned by private parties therefore these may not be copied or distributed without permission of the copyright owner. NTIS cannot grant permission for further use. To understand if fair use may be applicable, see [http://www.dtic.mil/cendi/publications/00-3copyright.html](https://web.archive.org/newpage.asp?np=n&url=http://www.dtic.mil/cendi/publications/00-3copyright.html)
+Some of the materials provided by NTIS are subject to copyrights owned by private parties therefore these may not be copied or distributed without permission of the copyright owner. NTIS cannot grant permission for further use. To understand if fair use may be applicable, see [http://cendi.dtic.mil/publications/00-3copyright.html](https://web.archive.org/newpage.asp?np=n&url=http://cendi.dtic.mil/publications/00-3copyright.html)
+
+Back to Top 
