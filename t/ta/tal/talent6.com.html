@@ -1,28 +1,46 @@
-<!--The following is the downloaded HTML source of the talent6.com privacy policy that was archived on 2007-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212214518id_/http%3A//www.talent6.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talent6.com privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618100910id_/http%3A//www.talent6.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"><html><head>
 	<title>Talent6 Community</title>
-	<base href="http://www.talent6.com/">
+	<base href="http://talent6.com/">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 <!--<link href="i2/orange-style.css" rel="stylesheet" type="text/css">-->
 <link href="css/edit_portfolio.css" rel="stylesheet" type="text/css">
 <link href="css/system.menu.css" rel="stylesheet" type="text/css">
-<link href="css/context.menu.css" rel="stylesheet" type="text/css">
+<link href="css/context.menu.css?v=2e28461a21af6876382377ac359d9ba88" rel="stylesheet" type="text/css">
 <link href="css/main.menu.css" rel="stylesheet" type="text/css">
+
+<link href="css/new_style.css?v=3e28461a21af6876382377ac359d9ba88" rel="stylesheet" type="text/css">
+
 <link rel="SHORTCUT ICON" href="i/favicon.ico">
-<script language="JavaScript" type="text/javascript" src="js/tooltips.js?v=2596ca0a81b7fe741719c6df2f8b52a22"></script>
-<script language="JavaScript" type="text/javascript" src="js/contest.menu.js?v=2596ca0a81b7fe741719c6df2f8b52a22"></script>
+<script language="JavaScript" type="text/javascript" src="js/tooltips.js?v=2e28461a21af6876382377ac359d9ba88"></script>
+<script language="JavaScript" type="text/javascript" src="js/contest.menu.js?v=4e28461a21af6876382377ac359d9ba88"></script>
+<script language="JavaScript" type="text/javascript" src="js/js_remote.js?v=2e28461a21af6876382377ac359d9ba88"></script>
+<script language="JavaScript" type="text/javascript" src="js/swfobject.js?v=2e28461a21af6876382377ac359d9ba88"></script>
+<!--[if lt IE 7]>
+<script defer language="JavaScript" type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
 <script type="text/javascript">
-	var defaultMenuWidth="160px" //set default menu width.
+	var defaultMenuWidth="125px" //set default menu width.
 	var menu=new Array()
 </script>
+
+
 <script language="JavaScript" type="text/javascript">
+var img = new Image();
+img.src = 'images/loading.gif';
+
+var img2 = new Image();
+img2.src = 'images/loading2.gif';
+
+var img3 = new Image();
+img3.src = 'images/casting_call_imgs/red_star.gif';
+
 var request;
 var member_id = false;
 
-window.onload = function()
-{
+window.onload = function(){
 	if (document.createElement) tooltip.d();
 	var request       = new Object();
 	var elems_to_del  = ['sent', 'favorites'];
@@ -49,30 +67,144 @@ window.onload = function()
 			new_mform_url = new_mform_url.substr(0, new_mform_url.length - 1);
 		}
 	}
-		if ( (typeof request.sent != 'undefined') && (request.sent == 'invitation') )
-	{
-		alert('Your invitation has been sent');
-		window.location.assign(new_mform_url);
-		return false;
 	}
-		if ( (typeof request.favorites != 'undefined') && (request.favorites == 'photo') )
-	{
-		alert('Photo was added to favorites');
-		window.location.assign(new_mform_url);
-		return false;
-	}
-}
 </script>
 <!--<script type="text/javascript" src="js/ie5.js"></script>-->
-<script language="JavaScript" type="text/javascript" src="js/scripts.js?v=2596ca0a81b7fe741719c6df2f8b52a22"></script>
-	<script type="text/javascript" src="js/menu.js?v=2596ca0a81b7fe741719c6df2f8b52a22"></script>
+<script language="JavaScript" type="text/javascript" src="js/scripts.js?v=2e28461a21af6876382377ac359d9ba88"></script>
+	<script type="text/javascript" src="js/menu.js?v=2e28461a21af6876382377ac359d9ba88"></script>
 	<!--<script type="text/javascript" src="js/correct_png.js"></script>-->
-<script language="JavaScript" type="text/javascript" src="js/smiles.js?v=2596ca0a81b7fe741719c6df2f8b52a22"></script>
+<script language="JavaScript" type="text/javascript" src="js/smiles.js?v=2e28461a21af6876382377ac359d9ba88"></script>
 <!--<script language="JavaScript" type="text/javascript" src="js/check_dom.js"></script>-->
 </head>
-<body>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="not_logged">
 <div id="overlay" style="display:none;" onclick="return false;"></div>
 
+<!-- SEND MESSAGE WINDOW -->
+
+<div id="questionDiv" style="width:400px;position: absolute;background-color: #000000; border: 1px solid #333333; display:none;">
+		<table width="100%">
+		<tbody><tr>
+			<td style="padding:5px;background-color: #000000;"><img src="i/logo_small2.jpg" border="0"></td>
+		</tr>
+		<tr>
+			<td style="padding:5px;border:3px solid #000000;background-color: #F0F0F0;" align="center">
+				<table width="100%" align="center">
+					<tbody><tr>
+						<td align="center" style="padding:15px;" id="questionTd"><font class="fn_question" style="font-weight: bold; "><span id="questionMsg"></span></font></td>
+					</tr>
+					<tr>
+						<td align="center" style="padding-bottom:10px;">
+							<span id="question_buttons2">
+								<img src="images/buttons/yes.gif" style="cursor:pointer;" id="questionAct">&nbsp;&nbsp;&nbsp;<img src="images/buttons/cancel.gif" style="cursor:pointer;" id="questionAct3" onclick="myAlert.close();">
+							</span>
+							<span id="question_buttons1" style="display:none;">
+								<img src="images/buttons/ok.gif" style="cursor:pointer;" id="questionAct2" onclick="myAlert.close();">
+							</span>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<!-- Add to contacts/favorites question -->
+<div id="questionDiv1" style="width:420px;position: absolute;background-color: #000000; position: absolute; border: 1px solid #DA8A00; display:none;">
+		<table width="100%" height="115px">
+		<tbody><tr>
+			<td style="padding:0px;border:1px solid #DA8A00;background-color: #F0F0F0;" align="center" valign="top">
+				<table width="100%" align="center">
+					<tbody><tr>
+						<td id="_questionTd"><font class="fn_question"><span id="questionMsg1"></span></font></td>
+					</tr>
+					<tr>
+						<td align="center" style="padding-bottom:10px;">
+							<span id="_question_buttons2">
+							</span>
+							<span id="_question_buttons1" style="display:none;">
+							</span>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- // Add to contacts/favorites question -->
+
+<!-- Warning message for guests  -->
+<style>
+	#questionDiv2 b { 
+	 font-size:15px;
+	 color:#fff;
+	}
+	#questionDiv2 img {
+		border:none;
+	} 
+	#form_block {
+	 padding-left:5px;
+	 margin-top:10px;
+	 text-align:left;
+	 border-top:1px dashed #FF0000;
+	}	 
+</style>
+<div id="questionDiv2" style="position: absolute; background-color: #00000; display:none;" align="center">
+	  		<table width="443" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td align="left" valign="top">
+					<table width="443" height="326" border="0" cellpadding="0" cellspacing="0" style="margin-top:1px;">
+						<tbody><tr>
+							<td height="88" style="background:url(images/login/login_top2.gif) no-repeat;">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+								<tbody><tr height="19px">
+									<td>&nbsp;</td>
+									<td width="20px" align="right" valign="top"><img src="images/login/krest.gif" border="0" style="cursor: pointer; padding-top: 2px; padding-right: 2px;" onclick="myAlert2.close();"></td>
+								</tr>
+								<tr>
+									<td>&nbsp;</td>
+									<td>&nbsp;</td>
+								</tr>									
+								</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td height="238" align="center" valign="top" style="background:url(images/login/joinus_blackbg2.gif) no-repeat bottom;padding:10px 25px;">
+								<span style="color:#c11b33; font-family:Verdana;font-weight: bold; padding-top: 2px; padding-bottom: 2px;">You need to be a member to use this feature.<br></span>
+								<span style="color:#f9f9f9; font-size:11px; font-family:Verdana;">Contact Talent6 Now and get access to  thousands of casting calls!<br>
+									Network with fellow members and industry professionals! <br>
+								</span>
+								<div style="margin-top:15px;"><strong style="color:#f9f9f9; font-family:Verdana; font-size:20px;">CALL NOW</strong></div>
+																	<div style="margin-top:-5px;"><b style="color:#FBB403; font-size:36px; font-family:Verdana;">1-800-846-9470</b></div>
+																<div style="color:#f9f9f9; font-size:21px; padding-top: 13px; padding-bottom: 10px; font-weight: bold; font-family:Verdana;">Be a Star - Live YOUR Dream!</div>
+								<div style="padding-left: 50px; padding-top: 10px; padding-bottom: 10px;" id="sign_in">
+									<span style="color:#FFFFFF;font-size:11px; font-family:Verdana;">Already a Talent6 Member?&nbsp;
+									<a href="login.php" style="font-size:11px;color:#f90004;text-decoration:underline;letter-spacing:-1px; font-family:Verdana;">Sign in here</a></span>
+								</div>
+								<!-- <div id="form_block" style="display:none;">
+									<form name="signin" method="post" action="#" style="margin-top:10px;">
+										<b style="color:#f9f9f9;font-size:12px;">Already a Talent6 Member? </b><br />							
+										<div style="float:left;padding-right:10px;padding-top:5px; text-align:left;">
+											<span style="color:#f9f9f9;font-size:12px;">Username</span><br clear="left">
+											<input type="text" name="login" value="" style="width:100px;height:14px;" />
+										</div>
+										<div style="float:left;font-size:12px;text-align:left;width:140px;padding-top:5px;">
+											<span style="color:#f9f9f9;">Password</span><br />
+											<input type="password" name="pass" value="" style="width:130px;height:14px;" />
+										</div>
+										<div style="float:left;padding-top:15px;padding-left:5px;">
+											<a href="#"><img src="images/login/sign_in_btn.gif" width="106" height="28" /></a>
+										</div>
+									</form>
+								</div> -->
+							</td>
+						</tr>
+				  </tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+</div>
+<!-- Warning message for guests -->
 <!-- SYSTEM MESSAGE WINDOW -->
 <div id="inv" style="width: 250px;" class="modal">
 <table width="100%" class="blockInfo">
@@ -92,7 +224,7 @@ window.onload = function()
 	</tr>
 </tbody></table>
 </div>
-<!-- SEND MESSAGE WINDOW -->
+
 
 
 
@@ -114,101 +246,106 @@ window.onload = function()
 	</tbody></table>
 </div>
 
-<table width="780" height="100%" align="center" class="norm" border="0">
-	<tbody><tr>
-						<td id="headerLogo"><a href="http://www.talent6.com/"><img src="i/talent6-logo.gif"></a></td>
-					<td id="headerAdvert2" align="right">
-			<script language="JavaScript" type="text/javascript" src="http://www.talent6.com/ads/adx.js"></script>
-						<script language="JavaScript" type="text/javascript">
-						<!--
-						   if (!document.phpAds_used) document.phpAds_used = ',';
-						   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-						   
-						   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-						   document.write ("http://www.talent6.com/ads/adjs.php?n=" + phpAds_random);
-						   document.write ("&amp;clientid=17");
-						   document.write ("&amp;exclude=" + document.phpAds_used);
-						   if (document.referrer)
-						      document.write ("&amp;referer=" + escape(document.referrer));
-						   document.write ("'><" + "/script>");
-						//-->
-						</script><script language="JavaScript" type="text/javascript" src="http://www.talent6.com/ads/adjs.php?n=207354621&amp;clientid=17&amp;exclude=,"></script>		</td>
-	</tr>
-<!--	!!!!!!!!!!!!!!!!!-->
-	<tr>
-		<td colspan="2" align="right" id="loginMenu">
-			<form method="POST" action="index.php">
-						<table width="100%" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td align="right">
-						<table cellspacing="0" cellpadding="0" border="0">
-							<tbody><tr>
-														<td align="right"><a href="forgot.php">Forgot your password?</a>&nbsp;&nbsp;&nbsp;</td>
-																<td valign="middle">
-									<a href="login.php"><img src="i/v_log_in.jpg" border="0"></a>									<input type="hidden" name="login" value="Login">
-									<input type="hidden" name="resolution" value="800x600" id="screen">
-                                    <script language="javascript">
-                                    	document.getElementById('screen').value=screen.width+'x'+screen.height;
-                                    </script>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-
-						</form>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" align="left" id="topMenu" valign="bottom">
-			<!-- MAIN MENU -->
-			<table width="100%" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						<div class="sample1">
-							<div class="horz_menu">
-							<script type="text/javascript">var sub10 = {"Member Search"  : "talent_search.php"};
-var sub13 = {"Jokes"  : "jokes.php", "Stories"  : "stories.php", "Tips"  : "tips.php", "Movie Reviews"  : "movie_reviews.php"};
-var sub18 = {"Search"  : "photographers.php", "Gallery"  : "galleries.php?show=8"};
-var sub1 = {"<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Talents</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub10, "<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Forums</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub13, "<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Photographers</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub18};
-var sub30 = {"Search"  : "castingcalls.std.php"};
-var sub38 = {"NEW Members"  : "gallery_new_members.php", "TOP Rated Photos"  : "galleries.php", "Video Gallery"  : "galleries.php?show=11", "Music/Audio Gallery"  : "galleries.php?show=12", "Mr. &amp; Ms. State"  : "miss.php", "New uploads"  : "galleries.php?show=5", "Most Active Talents"  : "galleries.php?show=2", "Guest Gallery"  : "galleries.php?show=3", "Slideshow"  : "slideshow.php"};
-var sub50 = {"About Us"  : "about.php", "Entertainment Guide"  : "guide.php", "FAQ"  : "faq.php", "Financial Calculator"  : "calculator.php"};
-var menu = {"cmntLnk" : sub1, "sub30" : sub30, "sub38" : sub38, "sub50" : sub50}
-</script><b><a id="cmntLnk" style="color: #f1ff3f; " href="community.php">&nbsp;Community&nbsp;<img src="i/arrow_yellow.gif"></a></b>
-<b><a id="sub30" style="" href="castingcalls.php">&nbsp;Casting Calls&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
-<b><a id="sub38" style="" href="galleries.php">&nbsp;Galleries&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
-<b><a id="sub50" style="" href="faq.php">&nbsp;Help&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
-<b><a id="sub2" style="" href="testimonials.php">&nbsp;Testimonials&nbsp;</a></b>
-<script type="text/javascript">dhtmlmenu_build(menu);</script>							</div>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-			<!-- MAIN MENU -->
-		</td>
-	</tr>
-
 <script language="JavaScript" type="text/JavaScript">
 	var concierge_profile=443935;
 </script>
 
-			<tr>
-		<td colspan="2">
-				</td>
-	</tr>
-<!--	NOTIFICATION WINDOW-->
-	<!--	NOTIFICATION WINDOW-->
-	<tr>
-		<td colspan="2" id="general" style="padding-left: 0px; padding-right: 0px;">
-<table width="100%" class="block">
-	<tbody><tr>
-		<td class="title">Privacy Policy</td>
-	</tr>
-	<tr>
-		<td class="dataLeft" align="justify">
-<p class="terms">Talent6 understands the importance of privacy for our members.
+
+
+
+<div id="main1">
+  <div id="header"> 
+  	<table width="100%" height="100%">
+  		<tbody><tr>
+  			<td style="background:url(http://static.talent6.com/images/big/top_left2.jpg) no-repeat;background-position:right;"></td>
+  			<td width="800px" style="background:url(http://static.talent6.com/images/big/top_main2.jpg) no-repeat;background-position:left;" valign="top">
+  			<div style="position: absolute; margin-left:10px; margin-top:9px; height: 70px; width: 200px; cursor: pointer;" onclick="document.location.href='index.php'">
+  				
+  			</div>
+			
+  					  				<table align="right" cellpadding="0" cellspacing="0">
+	  					<tbody><tr>
+<!--	  						<td style="padding-top:30px;"><img src="images/top_buttons/signup_button.gif" border="0" onclick="openWindow('signup2.php',532,485)" style="cursor:pointer;"></td>-->
+	  						<td style="padding-top:30px;"><a href="joinus.php"><img src="images/top_buttons/register_button2.gif" border="0" style="cursor:pointer;"></a></td>
+	  						<td style="padding-top:30px;"><a href="login.php"><img src="images/top_buttons/login_button.gif" border="0" style="cursor:pointer;"></a></td>
+<!--	  						<td style="padding-top:30px;"><a onclick="document.getElementById('loginDiv').style.display='';document.getElementById('loginFrame').src='login.php';loginInt=setInterval('giveLogin()',50);"><img src="images/top_buttons/login_button.gif" border="0" style="cursor:pointer;"></a></td>-->
+	  					</tr>
+	  					<tr>
+	  						<td colspan="3" align="right" style="padding-top:5px;"><a href="forgot.php" class="forgot_password">Forgot password?</a></td>
+	  					</tr>
+							  					<tr>
+	  						<td>
+								<div style="position:absolute; width:374px; height:80px; background:black; top:-90px; border:0px solid black; display:none;" id="loginDiv">
+									<iframe src="" id="loginFrame" scrolling="No" border="0" style="border:0px solid red;width:374px; height:80px;" frameborder="0">
+									</iframe>
+								</div>
+	  						</td>
+	  					</tr>
+						 
+	  				</tbody></table>
+  				  			</td>
+  			<td style="background:url(http://static.talent6.com/images/big/top_right.jpg) no-repeat;background-position:left;"></td>
+  		</tr>
+  	</tbody></table>
+  </div>
+</div>
+<div id="main_div">
+<table width="800px" height="30" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr align="center"> 
+    <td>&nbsp;</td>
+    <td width="800px">
+    	<table width="100%"><tbody><tr><td style="padding-top:4px;padding-bottom:4px;">
+			<table width="100%" id="menus">
+				<tbody><tr>
+				    <td align="center"><a href="index.php">Home</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="community.php">Community</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="castingcalls.php">Casting Calls</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="blogs_all.php">Blogs</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="testimonials.php">Testimonials</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="galleries.php">Media</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="news.php">News</a></td>				    <td><img src="images/header_spacer.gif"></td>
+				    				    	<td style="width:230px;" align="center"><a href="registration.php"><nobr>Photographers &amp; Casting Directors</nobr></a></td>				    				    <td><img src="images/header_spacer.gif"></td>
+				    <td align="center"><a href="faq.php">Help</a></td>				</tr>
+			</tbody></table>
+		</td></tr>
+				</tbody></table>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+			<div align="center" style="padding-top:44px;margin-top:0px;">
+		<table width="802" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="100%" align="left" valign="top">
+					<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+		               		<td width="24" height="15" align="right" valign="bottom"><img src="images/search_LTcorner2.gif"></td>
+							<td width="100%" valign="top" style="background:url(images/search_Tfill2.jpg) repeat-x top;"></td>
+							<td width="20" align="left" valign="top"><img src="images/search_Rcorner2.jpg"></td>
+	                	</tr>
+		                <tr>
+							<td width="24" align="left" style="background:url(images/light_LVcenterfill3.gif) repeat-y left;"></td>
+							<td width="761px" align="left" valign="top">
+					  		  <!-- main content in the middle of page -->
+								<div style="margin-top:-1px;width:761px;"><img src="images/center_gray_top3.jpg"></div>
+								<table width="761px" border="0" cellpadding="0" cellspacing="0" bgcolor="#b1b1b1" style="border:0px solid black;">
+									<tbody><tr>
+										<td width="10px">&nbsp;</td>
+										<td width="741" align="left" valign="top">
+												<table width="741" border="0" cellpadding="0" cellspacing="0">
+												<tbody><tr>
+													<td width="4" height="33" align="right" valign="bottom" style="width:4px;"><img src="images/images_portfolio/p_center_grad_left.jpg" width="4" height="33"></td>
+	                                  				<td height="33" width="100%" colspan="1" style="background:url(images/images_portfolio/p_center_grad_center.jpg) repeat-x bottom;width:529px;">
+														<b class="p_profile_header">Privacy Policy</b>
+													</td>
+													<td width="4" height="33" align="left" valign="bottom"><img src="images/images_portfolio/p_center_grad_right.jpg" width="4" height="33"></td>
+												</tr>
+				                                <tr>
+				                                	<td bgcolor="#ECECEC"></td>
+													<td colspan="1" valign="top" bgcolor="#ECECEC" style="padding-left:10px;padding-right:10px;padding-top:10px;padding-bottom:10px;">	
+	<p class="terms">Talent6 understands the importance of privacy for our members.
 If you have any questions about this privacy policy, please contact us at <a href="mailto:privacy@talent6.com">privacy@talent6.com</a>.</p>
 
 <p class="terms">In order to register as a member of Talent6, you have provided certain personal
@@ -219,96 +356,85 @@ credit card information. Talent6 retains and uses this information for the follo
 2. To collect membership fees.<br>
 3. To maintain the security of our website.<br>
 4. To adjust and improve our marketing techniques and customized content, products and services.<br>
-5. To comply with applicable law in response to a subpoena, court order, or other legal process whether or not a
-response is required under applicable law; or it is necessary to share the information in order to enforce Talent6ts terms of use or investigate or prevent illegal activity or possible harm to the physical safety of any person.<br>
-6. Unless you choose to decline this aspect of our services, your information may be shared with third parties -
-including our marketing partners. Talent6 may use the information that you provide to work with third
-parties to bring you retail opportunities by e-mail, direct mail and telemarketing. Talent6 may sell
-or rent user, member, or former member information, including name, address, telephone number, e-mail address,
-payment information, as well as aggregate statistical information, to a third party or marketing partner.
-If you prefer that Talent6 not reveal any of your information to a third party, please follow this
-link to set your privacy information preferences.
+5. To comply with applicable law in response to a subpoena, court order, or other legal process whether or not a 
+response is required under applicable law; or it is necessary to share the information in order to enforce Talent6's terms of use or investigate or prevent illegal activity or possible harm to the physical safety of any person.<br>
+6. Talent6 will not sell, share or rent user information, member, or former member information, including name, address, telephone number, e-mail address, payment information, as well as aggregate statistical information, to a third party or marketing partner.
 <br>
-<a href="non_disclosure.php" onclick="openWindow('non_disclosure.php', 450, 230); return false;">Set your privacy preferences</a>
+<br>
 </ul>
 <p></p>
+													</td>
+				                                	<td bgcolor="#ECECEC"></td>
+												</tr>
+												<tr>
+													<td height="15" align="right" valign="top"><img src="images/images_portfolio/p_gray_LBround.jpg" width="4" height="6"></td>
+													<td width="100%" style="background:url(images/images_portfolio/p_Bgray_fill.gif) repeat-x top;">&nbsp;</td>
+													<td width="4" align="left" valign="top"><img src="images/images_portfolio/p_gray_RBround.jpg" width="4" height="6"></td>
+				                                </tr>
+											</tbody></table>													  
 
-		</td>
-	</tr>
-</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" height="100%"></td>
-	</tr>
-		<tr>
-		<td colspan="2" id="footer" valign="top">
-			<table width="100%">
-				<tbody><tr>
-					<td width="100%" colspan="3">
-						<table align="center">
-							<tbody><tr>
-															<td>
-									<span class="link" onclick="show('writeFeedback')"><b>Feedback</b></span>&nbsp;|
-								</td><td align="right" nowrap="">
-									<a href="about.php">About Us</a>&nbsp;|
-								</td><td align="right" nowrap="">
-									<a href="contact.php">Contact Us</a>&nbsp;|
-								</td><td align="center" nowrap="">
-									<a href="faq.php">FAQ</a>&nbsp;|
-								</td><td align="center" nowrap="">
-									<a href="privacy.html">Privacy Policies</a>&nbsp;|
-								</td><td align="center" nowrap="">
-									<a href="terms.html">Terms and Conditions</a>
-								</td>
-								<td align="center" nowrap="">
-									|&nbsp;<a href="advertize.php">Advertise with us</a>
-								</td>
-																						</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						&nbsp;
-					</td>
-					<td width="60%" valign="top" class="norm" align="center"><br><br>
-										<div style="display: none; width: 100%;" id="writeFeedback">
-					<form method="POST" action="privacy.html" onmouseover="txtCount('feedback','feedbackCnt',3000)">
-										<textarea class="w100" rows="4" name="feedback" id="feedback" onchange="txtCount('feedback','feedbackCnt',3000)" onkeyup="txtCount('feedback','feedbackCnt',3000)" onmouseout="txtCount('feedback','feedbackCnt',3000)" onpaste="txtCount('feedback','feedbackCnt',3000)" )"=""></textarea><br>
-						<table width="100%">
-							<tbody><tr>
-								<td align="left"><input type="submit" name="sendFeedback" value="Send" class="btn"> or <span class="link" onclick="show('writeFeedback')">Go back</span></td>
-								<td align="right"><span id="feedbackCnt">3000</span> characters left</td>
-							</tr>
-						</tbody></table>
-						<br><br>
-					</form>
-					We'll be happy to answer any questions you may have. We would also appreciate any comments or ideas about how to improve the site.<br><br>
-					</div>
-					
-					</td>
-					<td width="20%">
-						&nbsp;
-					</td>
-				</tr>
-								<tr>
-					<td colspan="3" align="center">
-						Copyright © 2004 - 2007 All Rights Reserved.<br>
-							Talent6 Official Service. There are 224 visitors online
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	</tbody></table>
-<div style="color: white;">CD: 1, Logged In: 50, Visitors: 174, Version: 5.2.17; Current user level:not_logged; Avg. time online: <u onclick="document.location.href='index.php?show_avg_time=1'">show</u></div>
+										</td>
+										<td width="10px">&nbsp;</td>
+								  	</tr>
+								</tbody></table>
+								<div style="margin-top:-1px;width:761px;"><img src="images/center_gray_bottom3.jpg" width="761" height="8"></div>
+			  		  <!-- end main content in the middle of page -->
+							</td>
+							<td width="20" align="left" style="background:url(images/lightGrayRVfill2.jpg) repeat-y left;"></td>
+						</tr>
+						<tr>
+							<td align="left" valign="top"><img src="images/light_BLround2.gif"></td>
+							<td valign="top" style="background:url(images/center_Bfill.jpg) repeat-x;">&nbsp;</td>
+							<td align="left" valign="top"><img src="images/light_BRround2.gif"></td>
+						</tr>
+					</tbody></table>			  
+				</td>	
+			</tr>
+		</tbody></table>
+	</div>
+
+
+<!-- footer advertisement end-->
+<div id="footer_links_holder">
+  <!-- footer links-->
+  <table cellpadding="0" cellspacing="0" align="center" border="0">
+    <tbody><tr>
+      <td><div id="footer_links">
+          <center>
+               <a href="feedback.php" class="footer_links_href">Feedback</a>
+             | <a href="about.php" class="footer_links_href">About Us</a>
+             | <a href="contact.php" class="footer_links_href">Contact Us</a>
+             | <a href="faq.php" class="footer_links_href">FAQ</a>
+             | <a href="privacy.html" class="footer_links_href">Privacy Policies</a>
+             | <a href="terms.html" class="footer_links_href">Terms and Conditions</a>
+             | <a href="advertize.php" class="footer_links_href">Advertise with us</a>          </center>
+        </div>
+        <!-- footer links end-->
+        <!-- disclaimer-->
+        <div id="footer_super"><br>
+          <br>
+                    <center>
+          Copyright © 2004 - 2008 All Rights Reserved.<br>
+          Talent6 Official Service. There are 77 visitors online </center></div>
+        <!-- disclaimer end-->
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+</div><!--main_div-->
+<br>
+
+	<div style="color: white;font: normal 10px Verdana;float:left;">Version: 6.3.69</div>
+
 <!--<script language="JavaScript" type="text/javascript">check_dom.check();</script>-->
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-1424971-1";
 urchinTracker();
 </script>
+
+
+
 
 
 </body></html>
