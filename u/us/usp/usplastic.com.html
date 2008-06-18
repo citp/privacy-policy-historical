@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usplastic.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220162220id_/http%3A//www.usplastic.com/catalog/uspprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usplastic.com privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618174057id_/http%3A//www.usplastic.com/catalog/uspprivacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script type="text/jscript"> /*@cc_on @if(@_jscript_version>=5.7)new Image().src="https://evbeacon.networksolutions.com/evbeacon.gif" @end @*/ </script>
 
@@ -83,20 +83,85 @@
 	<td width="5" rowspan="2"><img src="/images/plastic.gif" height="10" width="5"></td>
 	<td valign="top" width="150" rowspan="2" class="tiny">
 		&nbsp;
-		
-	<table width="150" border="0" cellpadding="0" cellspacing="0" valign="top" bgcolor="#ffffff" align="center">
+	
+	<span id="spBasket_small" style="visibility:visible;">
+	<table id="" width="150" border="0" cellpadding="0" cellspacing="0" valign="top" bgcolor="#ffffff" align="center">
 	<tbody><tr>
 		<td colspan="4" class="head" align="left">Cart Contains:<br></td>
 	</tr>				
-	<tr>
-		<td width="2" valign="top" align="center"><img src="/images/plastic.gif" height="1" width="2"></td>
+<tr>
+		<td colspan="4" class="totals" align="left">Loading...<br></td>
+	</tr>					
+
 		
-		<td valign="top" class="totals" nowrap="" align="center">Items = 0</td>
-		<td class="totals">&nbsp;</td>
-		<td valign="top" class="totals" nowrap="" align="center">Total = $0.00</td>
-	</tr>
-	
 	</tbody></table>
+	</span>
+		
+	<script language="javascript" type="text/javascript">
+var ta = document.getElementById('spBasket_small');
+
+var xmlHttp; 
+var time_out = 5000, tt; /* for timeouts */
+
+function ajaxFunction()
+{
+	var xmlHttp;
+	try
+	{
+		xmlHttp=new XMLHttpRequest();
+	}
+	catch (e)
+	{
+		try
+		{
+			xmlHttp=new ActiveXObject('Msxml2.XMLHTTP');
+		}
+		catch (e)
+		{
+			try
+			{
+				xmlHttp=new ActiveXObject('Microsoft.XMLHTTP');
+			}	
+			catch (e)	
+			{
+				alert('Your browser does not support AJAX!');
+				return false;
+			}
+		}
+	}
+
+
+	xmlHttp.onreadystatechange=function()
+		{
+			if(xmlHttp.readyState==4)
+			{
+				ta.innerHTML = xmlHttp.responseText;
+			}
+		}
+	return xmlHttp; 
+}
+
+function ShowBasket( )
+{
+	
+	xmlHttp = ajaxFunction();
+	if( xmlHttp)
+	{
+		var dt = new Date();
+		xmlHttp.open('GET','/catalog/basket_small_ajax.asp?tmst=' + dt.getMilliseconds() , true);
+		xmlHttp.send(null);
+	}
+}
+
+/* Set Timeout for the preview: */
+if( time_out > 0)
+{
+	clearTimeout( tt);
+	tt = setTimeout('ShowBasket()', time_out);
+}
+</script>
+
+	
 	<hr>
 		
 	<!-- THIS SECTION DISPLAYS THE LIVE CHAT ICON -->
@@ -291,6 +356,8 @@
 	</td>
 	<td width="7" rowspan="2"><img src="/images/plastic.gif" width="7" height="1"></td>
 	<td width="1" class="dividingline" rowspan="2"><img src="/images/plastic.gif" width="1" height="100%"></td>
+
+	
 <!-- MAKE SURE YOU HAVE A TD TAG SURROUNDING ALL OF YOUR HTML -->
 <td valign="top">&nbsp;<br>
 <div align="left">
@@ -551,7 +618,7 @@
 <p align="center"><font face="Arial" size="2">1390 Neubrecht Rd.&nbsp; Lima, Ohio 45801-3196&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone: 1-800-809-4217&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax: 1-800-854-5498<br>
 </font><font size="2"><br>
 </font>
-<font size="2" face="Arial">Copyright © 2007, United States Plastic Corporation ®.<a> |&nbsp;&nbsp;</a><a class="inherited" href="http://www.usplastic.com/catalog/uspprivacypolicy.asp">Privacy 
+<font size="2" face="Arial">Copyright © 2008, United States Plastic Corporation ®.<a> |&nbsp;&nbsp;</a><a class="inherited" href="http://www.usplastic.com/catalog/uspprivacypolicy.asp">Privacy 
 Policy</a><a>&nbsp;&nbsp;|&nbsp;</a>
 					<a class="inherited" href="http://www.usplastic.com/catalog/uspterms.asp">
 Terms and Conditions</a><a>&nbsp;&nbsp;|</a>
