@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185428id_/http%3A//www.benefitfocus.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618115038id_/http%3A//www.benefitfocus.com/privacy_statement.html) for the most accurate reproduction.*
 
 # BENEFITFOCUS…S0FTWARE AND SERVICES FOR BENEFITS
 
