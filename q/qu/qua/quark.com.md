@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217045110id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618061916id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Quark: Privacy Policy
-
-## Quark Web Privacy Policy
 
 Privacy is important to Quark, Inc. ("Quark" or "we"). This privacy policy explains Quark's web site and services (collectively, the "Service"). Effective Date: July 3, 2007.   
 If you feel that Quark is not abiding by this privacy policy, you should contact Quark at [legal@quark.com](mailto:legal@quark.com).
