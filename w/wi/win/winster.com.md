@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/privacy.jsp) for the most accurate reproduction.*
 
 # Winster - Privacy Policy
 
-[](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[Home](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[About Us](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/about.jsp "About Us")  
-[Club Winnie](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/club_winnie.jsp "Club Winnie")  
-[Winster News](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/news.jsp "Winster News")  
-[Winster Toolbar](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/toolbar.jsp "Winster Toolbar")  
-[Testimonials](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/testimonials.jsp "Testimonials")  
-[Terms & Conditions](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/terms.jsp "Terms & Conditions")  
-[Privacy Policy](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/privacy.jsp "Privacy Policy")  
-[FAQ](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/faq.jsp "FAQ")  
-[Play for Free](https://web.archive.org/web/20071231084303id_/http%3A//www.winster.com/nopurchase.jsp "No Purchase Necessary")
+[](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/home.jsp "Winster Home")  
+[Home](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/home.jsp "Winster Home")  
+[About Us](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/about.jsp "About Us")  
+[Club Winster](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/club_winnie.jsp "Club Winster")  
+[Winster News](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/news.jsp "Winster News")  
+[Winster Toolbar](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/toolbar.jsp "Winster Toolbar")  
+[Testimonials](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/testimonials.jsp "Testimonials")  
+[Terms & Conditions](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/terms.jsp "Terms & Conditions")  
+[Privacy Policy](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/privacy.jsp "Privacy Policy")  
+[FAQ](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/faq.jsp "FAQ")  
+[Play for Free](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/nopurchase.jsp "No Purchase Necessary")
 
-####  [Play Now](https://www.winster.com/secure/playit.jsp?game=SlotSocial "Play Now")
+####  [Play Now](http://www.winster.com/secure/playit.jsp?game=SlotSocial "Play Now")
 
   
 [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WINSTER.COM&lang=en) |       | 
 
 ### Privacy Policy
 
-Last updated: November 19, 2007
+Last updated: April 23, 2008
 
 Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want Ours treated on your web site. This notice describes Our Privacy Policy. 
 
@@ -33,7 +33,7 @@ By visiting Winster.com, you are accepting the practices described in this Priva
 
 **Information about you obtained from third parties** : In the course of Our business, We may receive and keep information about you that We receive from third parties. This could include information from Our business partners and/or vendors as to whether, when, and how you collect your prizes or make other purchases from them, package shipping status and delivery information, or other information that relates to or results from your relationship with Us. We may consult sources of information related to your credit history or from credit bureaus, which We use to help prevent and detect fraud and to offer certain credit or financial services to you. 
 
-**Automatic information** : We receive and stores certain types of information whenever you interact with Our web site. For example, like many web sites, We use "cookies". We love many kinds of cookies, but these cookies are small files that We store on your computer that permit Us to remember things about you, such as who you are and when you last visited. You can set most browsers to tell you when a new cookie is deposited, or to prevent cookies from being stored altogether. 
+**Automatic information** : We receive and store certain types of information whenever you interact with Our web site. For example, like many web sites, We use "cookies". We love many kinds of cookies, but these cookies are small files that We store on your computer that permit Us to remember things about you, such as who you are and when you last visited. You can set most browsers to tell you when a new cookie is deposited, or to prevent cookies from being stored altogether. 
 
 **Email and other communications** : When you email, fax, phone, write, or otherwise contact Us, We may keep a record of these communications. 
 
@@ -65,7 +65,7 @@ We use scrambling (encryption) methods to protect precious information like cred
 
 We maintain physical, electronic and procedural safeguards that protect your information. We restrict access to your information to employees who need to know that information in order to help you. 
 
-We use Secure Sockets Layer (SSL) software, which scrambles your information like an egg when it is transmitted between your computer and Ours.
+We use Secure Sockets Layer (SSL) software when appropriate, which scrambles your information like an egg when it is transmitted between your computer and Ours.
 
 We maintain information on a computer that is not directly accessible from the internet. Instead, We keep it tucked away discreetly behind Our cozy little firewall.
 
