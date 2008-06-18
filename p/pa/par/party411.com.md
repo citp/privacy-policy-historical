@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618054115id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -12,6 +12,12 @@
 • [Banner Guide](http://www.party411.com/bannerguide.html)  
 
 
+  
+• [Party Talk](http://sherrifoxman.typepad.com/party_talk/)  
+    [Newsletter](http://sherrifoxman.typepad.com/party_talk/)  
+• [Daily Dish Blog](http://sherrifoxman.typepad.com/daily_party_dish/)  
+
+
 **Personalize Your Party**  
 • [Candy Bar Wrappers](http://www.party411.com/custom-wrappers.html)  
 • [Life-Sized Cutouts](http://www.party411.com/custom-cutouts.html)  
@@ -23,8 +29,8 @@
 • [Bottle Labels](http://www.party411.com/custom-labels.html)  
 • [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
 • [Seating Cards](http://www.party411.com/custom-seating.html)  
-• [Favors, Accessories](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/custom-favors.html)  
-    [and more!](http://party411.makesparties.com/)  
+• [Favors, Accessories](https://web.archive.org/web/20080618054115id_/http%3A//www.party411.com/custom-favors.html)  
+    [and more!](https://web.archive.org/web/20080618054115id_/http%3A//www.party411.com/custom-favors.html)  
 • [Custom Party Plans](http://www.party411.com/partyhelp.html)  
 • [Creations for You](http://www.party411.com/custom.html)
 
@@ -33,7 +39,7 @@
 • [Special Occasions](http://www.party411.com/special-occasions.html)  
 • [Holiday Parties](http://www.party411.com/holidays.html)  
 • [Corporate Event](http://www.party411.com/corp-guides.html)  
-    [Planning](http://www.party411.com/corporate_events.html)  
+    [Planning](http://www.party411.com/corp-guides.html)  
 • [Party Decorating411](http://www.party411.com/decorating411.html)  
 • [Party Games](http://www.party411.com/gameguide.html)  
 • [Invitations](http://www.party411.com/invitations.html)  
@@ -72,7 +78,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20080618054115id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -122,6 +128,8 @@ If you have any questions about this privacy statement, the practices of this si
 216-514-8411   
   
   
-**Toll Free Party Line 1-877-514-8411.**  
+**Toll Free Party Line 1-877-514-8411.  
+4949 Galaxy Parkway, Suite G  
+Cleveland, Ohio 44128**  
 © 2020 411Unlimited, LLC. All rights reserved.  
 powered by [dynamics online](http://www.dynamicsonline.com/)
