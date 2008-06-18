@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2collab.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214220522id_/http%3A//www.2collab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2collab.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618083039id_/http%3A//www.2collab.com/privacy) for the most accurate reproduction.*
 
 # privacy policy - 2collab
 
@@ -84,7 +84,7 @@ P.O. Box 211
 The Netherlands  
 Tel: +31 20 485 3757  
 Fax: +31 20 485 3432  
-E-mail: [nlinfo-f@elsevier.com](mailto:nlinfo-f@elsevier.com)  
+E-mail: [nlinfo-f@elsevier.com](mailto:nlinfo-f@elsevier.com)   
 
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem.
