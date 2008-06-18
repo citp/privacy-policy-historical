@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223070513id_/http%3A//www.xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618022411id_/http%3A//www.xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies - Xpert4u.co.uk
 
-Privacy Policy
-
-The concept of privacy holds a paramount place in today's scenario henceforth; the Company envisages certain privacy policy, so that the personal and other information of the customers can be preserved. The Company endeavours to take all efforts which are required for maintaining online privacy norms on up-to-date basis which shows you the way towards safe and secured transactions. **We are registered under Data Protection Act, 1998, DPR No: Z9657804.**
+Privacy Policy The concept of privacy holds a paramount place in today's scenario henceforth; the Company envisages certain privacy policy, so that the personal and other information of the customers can be preserved. The Company endeavours to take all efforts which are required for maintaining online privacy norms on up-to-date basis which shows you the way towards safe and secured transactions. **We are registered under Data Protection Act, 1998, DPR No: Z9657804.**
 
 **1\. Purpose of this policy:**
 
@@ -43,7 +41,7 @@ To facilitate your use of our website and to collect aggregate information, we m
 
 Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems. 
 
-**To view our Cookie Policy, please** [](http://www.xpert4u.co.uk/cookies_notice.html).
+**To view our Cookie Policy, please[click here](http://www.xpert4u.co.uk/cookies_policy.html) ** [](http://www.xpert4u.co.uk/cookies_notice.html).
 
 **8\. Changes to Privacy Policy** :
 
@@ -55,4 +53,4 @@ By using this website you consent to the collection and use of your personal inf
 
 **10\. More Information**
 
-If you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to:[ **info@rupizcompare.co.uk** ](mailto:info@rupizcompare.co.uk).
+If you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to:[ **info@xpert4u.co.uk** ](mailto:info@xpert4u.co.uk).
