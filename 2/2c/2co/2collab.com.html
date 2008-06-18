@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 2collab.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214220522id_/http%3A//www.2collab.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2collab.com privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618083039id_/http%3A//www.2collab.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>privacy policy - 2collab</title>
@@ -8,6 +8,7 @@
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <base href="http://www.2collab.com/">
+<script language="JavaScript" src="/static/js/bart/checkBookmarkCheckboxes.js"></script>
 <script language="JavaScript" src="/static/js/bart/common.js"></script>
 <script language="JavaScript" src="/static/js/bart/help.js"></script>
 <script language="JavaScript" src="/static/js/ajax/prototype.js"></script>
@@ -17,14 +18,14 @@
 <script language="JavaScript" src="/static/js/bart/startrail.js"></script>
 <script language="JavaScript" src="/static/js/bart/general.js"></script>
 <script language="JavaScript" src="/static/js/bart/bookmark-rate.js"></script>
-<link rel="stylesheet" href="/static/css/bart/2collab.css" type="text/css">
-<link rel="stylesheet" href="/static/css/bart/2collab_add.css" type="text/css">
-<!--[if IE 7]> <link href="/static/css/bart/2collab_ie7fix.css" rel="stylesheet" type="text/css" /> <![endif]-->
+<link rel="stylesheet" href="/static/css/bart/2collab.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/bart/2collab_add.css" type="text/css" media="screen">
+<!--[if IE 7]> <link href="/static/css/bart/2collab_ie7fix.css" rel="stylesheet" type="text/css" media="screen" /> <![endif]-->
 
-<link rel="stylesheet" href="/static/css/skins/default.css" type="text/css">
-<link rel="stylesheet" href="/static/css/bart/layout.css" type="text/css">
+<link rel="stylesheet" href="/static/css/skins/default.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/bart/layout.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/static/css/bart/print.css" type="text/css" media="print">
-<link rel="stylesheet" href="/static/css/bart/dhtmlwindow.css" type="text/css">
+<link rel="stylesheet" href="/static/css/bart/dhtmlwindow.css" type="text/css" media="screen">
 <style>
 .AutoCompleteBackground
 {
@@ -43,9 +44,9 @@
 </style>
 <link rel="SHORTCUT ICON" href="http://www.2collab.com/static/images/bart/favicon-v2.ico">
 
-<script language="JavaScript" src="static/js/bart/common.js"></script>
 </head>
 <body onload="init();">
+
 
 <div id="bodyscreen" style="position:absolute; left:0px; top:0px; z-index: 25000; background:#000000; display:none"></div>
 <div id="header" style="background-color:#f2f6f8; height:80px;">
@@ -81,7 +82,8 @@
 
 			<li class="nav mainSettings"><div class="topNavStyle" onmouseover="mainTopOver(this);" onmouseout="mainTopOut(this);"><div class="topNavLeft"><img src="/static/images/bart/nav_l.gif" width="5" height="21"></div><div class="topNav">tools</div><div class="topNavRight"><img id="settingsImage" src="/static/images/bart/nav_r.gif" width="17" height="21"></div></div>
 				<ul class="nav">
-					<li id="Downloads" class="settings topNav topNavTop" onmouseover="mainOver(this);" onmouseout="mainOut(this);" onclick="mainClick(this);" href="/addtocollab">downloads</li>
+				     <li id="Add Bookmarking Button" class="settings topNav topNavTop" onmouseover="mainOver(this);" onmouseout="mainOut(this);" onclick="mainClick(this);" href="/customButton">add bookmarking button to your site</li>
+					<li id="Downloads" class="settings topNav" onmouseover="mainOver(this);" onmouseout="mainOut(this);" onclick="mainClick(this);" href="/addtocollab">downloads</li>
 					<li id="Edit Profile" class="settings topNav topNavBottom topNavLoggedOutOut" onmouseover="mainOver(this);" onmouseout="mainOut(this);" onclick="mainClick(this);" href="/login">edit profile</li>
 
 				</ul>
@@ -93,32 +95,7 @@
 		<div class="login" style="margin-right:5px;">
 			<a href="/register" class="nav_link">register</a><span class="nav_link_pipe">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="/login" class="nav_link">login</a><span class="nav_link_pipe">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#" onclick="helpPop();return false" class="nav_link" style="cursor: help;">help</a>
 			
-			
-	   	    <div class="login" style="height:23px; float:right; position:relative; top:14px; padding:0;">
-				<form name="bartSearchForm" method="post" action="/searchSubmit">
-					<input type="hidden" name="bookmarkSort" value="r">
-					<table cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td valign="top">
-								<select name="focus" class="search_dropdown">
-									<option value="bookmarks">search bookmarks</option>
-									<option value="groups">search groups</option>
-									<option value="users">search users</option>
-								</select>
-							</td>
-							<td valign="top">
-								<input name="searchtext" type="text" class="search_textfield">
-							</td>
-							<td valign="top">
-								<script><!--
-								    document.write(buildSearchButton());
-								  -->   
-								</script>
-							</td>
-						</tr>
-					</tbody></table>
-				</form>
-   		    </div>
+
 		</div>
 	</div>
 	<div class="clear nav_bottom"><img src="/static/images/bart/spacer.gif" height="1" width="1" alt="">
@@ -189,7 +166,8 @@
 			The Netherlands<br>
 			Tel: +31 20 485 3757<br>
 			Fax: +31 20 485 3432<br>
-			E-mail: <a href="mailto:nlinfo-f@elsevier.com">nlinfo-f@elsevier.com</a><br>
+			E-mail: <script language="javascript">document.write(unescape('%3C%61%20%68%72%65%66%3D%22%6D%61%69%6C%74%6F%3A%6E%6C%69%6E%66%6F%2D%66%40%65%6C%73%65%76%69%65%72%2E%63%6F%6D%22%3E%6E%6C%69%6E%66%6F%2D%66%40%65%6C%73%65%76%69%65%72%2E%63%6F%6D%3C%2F%61%3E%0D%0A'));</script><a href="mailto:nlinfo-f@elsevier.com">nlinfo-f@elsevier.com</a>
+<br>
 			</p>
 			
 			<p class="font_medium">If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem.</p>
@@ -211,13 +189,17 @@
 			<div id="footer_links" class="bodytext">
 				<h4>2collab links</h4>
 				<a href="/about" tabindex="10000">about</a><br>
-				<a href="http://blog.2collab.com" tabindex="10001">development blog</a><br>
-				<a href="/addtocollab" tabindex="10002">bookmark tools</a><br>
-				<a href="mailto:feedback@2collab.com" tabindex="10003">send feedback</a>
+				<a href="/faq" tabindex="10001">faq</a><br>
+				<a href="http://blog.2collab.com" tabindex="10002">development blog</a><br>
+				<a href="/addtocollab" tabindex="10003">bookmark tools</a><br>
+				<script language="javascript">
+				    document.write(unescape('%3C%61%20%68%72%65%66%3D%22%6D%61%69%6C%74%6F%3A%66%65%65%64%62%61%63%6B%40%32%63%6F%6C%6C%61%62%2E%63%6F%6D%22%20%74%61%62%69%6E%64%65%78%3D%22%31%30%30%30%34%22%3E%73%65%6E%64%20%66%65%65%64%62%61%63%6B%3C%2F%61%3E%0D%0A'));
+				</script><a href="mailto:feedback@2collab.com" tabindex="10004">send feedback</a>
+				
 			</div>
 			<div id="footer_legal" class="bodytext">
 				<h4>legal</h4>
-				© 2007 <a href="http://www.elsevier.com" tabindex="10005">Elsevier B.V.</a> all rights reserved<br>
+				© 2008 <a href="http://www.elsevier.com" tabindex="10005">Elsevier B.V.</a> all rights reserved<br>
 				<a href="/terms" tabindex="10006">terms &amp; conditions</a><br>
 				<a href="/privacy" tabindex="10007">privacy policy</a>
 			</div>
