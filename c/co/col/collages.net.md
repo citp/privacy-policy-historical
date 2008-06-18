@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217182007id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618052936id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Collages.net: Total Workflow and Printing Solution for Professional Photographers
+# Collages.net - Total Workflow and Printing Solution
 
 |  |  |   
 ---  
@@ -104,8 +104,8 @@ If you prefer not to have us provide personal information about you to third par
 
 Collages.net, Inc.  
 ATTN: Customer Service  
-444 Oxford Valley Rd  
-Suite 230  
+930 Town Center Drive  
+Suite G-75  
 Langhorne, PA 19047
 
 **2\. Emailing us at:[ customerservice@collages.net](mailto:customerservice@collages.net)  
@@ -129,9 +129,9 @@ Subject to the above provisions, by using our Web Site, you consent to the colle
 
 Collages.net® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ customerservice@Collages.net](mailto:customerservice@Collages.net).  
   
-Updated July 2007  
+Last updated on January 2, 2008  
   
   
   
 [Home](http://www.collages.net/site/Home/tabid/101/Default.aspx)|[Products](http://www.collages.net/site/Products/tabid/62/Default.aspx)|[collagesColor™](http://www.collages.net/site/collagesColor/tabid/213/Default.aspx)|[Sign Up Options](http://www.collages.net/site/SignUpOptions/tabid/61/Default.aspx)|[Workflow](http://www.collages.net/site/Workflow/tabid/103/Default.aspx)|[Community](http://www.collages.net/site/Community/tabid/66/Default.aspx)|[About](http://www.collages.net/site/About/tabid/73/Default.aspx)|[Support](http://www.collages.net/site/Support/tabid/81/Default.aspx)  
-Copyright 2007 by Collages.net Inc. [Terms Of Use](http://www.collages.net/site/Home/tabid/101/ctl/Terms/Default.aspx) [Privacy Statement](http://www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx)
+Copyright 2008 by Collages.net Inc. [Terms Of Use](http://www.collages.net/site/Home/tabid/101/ctl/Terms/Default.aspx) [Privacy Statement](http://www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx)
