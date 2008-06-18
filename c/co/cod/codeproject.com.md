@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011233705id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618181256id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# The Code Project - Privacy Policy - Free Source Code and Tutorials
+# CodeProject: Privacy Policy. Free source code and programming help
 
-Privacy Policy
-
-Last updated: 28 Aug 2007
+Last updated: Sunday, July 01, 2007
 
 The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. 
 
-This privacy statement explains data collection and use practices of The Code Project and The Code Project's website (the " **Site** ") (for purposes of this privacy policy, The Code Project and the Site shall collectively, be referred to as " **We** " or " **The Code Project** "). 
+This privacy statement explains data collection and use practices of The Code Project and The Code Project's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, The Code Project and the Site shall collectively, be referred to as " **We** " or " **The Code Project** "). 
+
+The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by The Code Project now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of The Code Project). 
 
 By providing personal information to The Code Project, you are consenting to the information collection and use practices described in this privacy statement.
 
@@ -31,12 +31,12 @@ Principle 10 - Handling Customer Complaints and Suggestions
 
 ## Principle 1 - Accountability
 
-We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at:
+We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [ webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at:
 
-> The Code Project   
->  503-250 Ferrand Drive  
->  Toronto Ontario, M3C 3G8  
->  ph: 416-849-8900 
+> The Code Project  
+>  503-250 Ferrand Drive   
+> Toronto Ontario, M3C 3G8 Canada  
+>  ph. +1 416-849-8900 x 100 
 
 ## Principle 2 - Identifying Purposes
 
@@ -64,7 +64,7 @@ We use cookies to store your viewing preferences on the Site and, at your choosi
 
 ### Anonymous Information
 
-In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. None of this information is personally-identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.
+In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.
 
 ## Principle 5 - Limiting Use, Disclosure and Retention
 
@@ -76,7 +76,7 @@ We use your personal information for the following purposes:
 
   * To register you for Site membership. 
   * To customize your experience on the Site. 
-  * Send electronic e-mail newsletters, if requested by you. 
+  * To send electronic e-mail newsletters, if requested by you. 
   * To fill in certain information for you such as your name and signature when posting to message boards. 
   * To display your biography at the end of articles and tutorials submitted by you. 
 
@@ -96,12 +96,12 @@ With that in mind, if you choose, you can have your information made available b
 
 Except as specifically provided for in this privacy policy, we do not disclose any personal information to third parties. The Code Project may disclose personal information in the following instances:
 
-  1. conform to the edicts of the law or comply with legal process served to The Code Project, or the Site; 
+  1. To conform to the edicts of the law or comply with legal process served to The Code Project, or the Site; 
   2. protect and defend the rights or property of The Code Project and our family of Web sites, including without limitation investigating potentially fraudulent or questionable activities regarding your account(s) or the use of the Site; 
-  3. act in urgent circumstances to protect the personal safety of users of The Code Project, our Web sites, or the public;
-  4. to offer you related products and services that might benefit you; 
-  5. in anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business; and
-  6. otherwise as permitted by law.
+  3. To act in urgent circumstances to protect the personal safety of users of The Code Project, our Web sites, or the public;
+  4. To offer you related products and services that might benefit you; 
+  5. In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business; and
+  6. Otherwise as permitted or required by law.
 
 
 
@@ -109,11 +109,13 @@ The type of information we are legally required to disclose may relate to crimin
 
 In addition, The Code Project occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
+You may be offered the option to provide your information to certain third parties as part of an advertising promotion, special section, sponsored download, or other area on the Site. You will be made aware of the use of your information before you provide it, and the use thereof will be limited to the use to which you agreed. 
+
 ### Email Addresses
 
 Because email is the dominant form of communication between The Code Project and you, we wanted to address certain aspects of handling email addresses separately. Email addresses collected as part of the sign-up process are not made publicly available, except in accordance with the terms of this privacy policy. Most of the time, email addresses are simply used to confirm your identity and to communicate with you via email. 
 
-Occasionally, third parties want to send emails regarding offers to our members. WE DO NOT PROVIDE SUCH THIRD PARTIES WITH YOUR EMAIL ADDRESS. These third parties wishing to send offers to our members do so through us. They send us the offer and we email it to you on their behalf. 
+Occasionally, third parties want to send emails regarding offers to our members. Unless you specifically authorize it WE DO NOT PROVIDE SUCH THIRD PARTIES WITH YOUR EMAIL ADDRESS. These third parties wishing to send offers to our members do so through us. They send us the offer and we email it to you on their behalf. 
 
 In order to comply with anti-spam legislation such as CANSPAM (in the United States) there may be cases where a third-party email data house is used to advise us as to which addresses on our list have specifically opted out of emails from a given advertiser. In order for this to occur we send our list to the data house, the advertiser sends their list to the data house, and the data house then advises us of the results. At no time do we see the third party company's list nor do they see our list. The data house operates under strict privacy guidelines and obligations of confidentiality. 
 
@@ -151,16 +153,16 @@ To help us keep your personal information up-to-date, we encourage you to amend 
 
 If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
 
-> The Code Project   
->  503-250 Ferrand Drive  
->  Toronto Ontario, M3C 3G8  
->  ph: 416-849-8900 
+> The Code Project  
+>  503-250 Ferrand Drive   
+> Toronto Ontario, M3C 3G8 Canada  
+>  ph. +1 416-849-8900 x 100 
 
 ## GENERAL TERMS
 
 ### Links to Other Web sites
 
-This Site may contain links to other Web sites. Please be aware that this Privacy Policy applies solely to the information collected on the Site. We are not responsible for the privacy practices or the content of other Web sites. We encourage you to be aware when you are leaving this Site and read the privacy statements of each and every Web site that you visit before providing any personally identifiable information.
+This Site may contain links to other Web sites. Please be aware that this Privacy Policy applies solely to the information collected on the Site. We are not responsible for the privacy practices or the content of other Web sites. We encourage you to be aware when you are leaving this Site and read the privacy statements of each and every Web site that you visit before providing any personally identifiable information. 
 
 ### Governing Law
 
