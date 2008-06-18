@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211113551id_/http%3A//www.gobananas.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618111907id_/http%3A//www.gobananas.co.uk/privacy.html) for the most accurate reproduction.*
 
-# GoBananas Privacy Policy
+# Stag Weekends - Hen Nights - Birthday Parties - Corparate Events
 
-**To view the Privacy Statement for http://helpmego.to please see the page<http://www.helpmego.to/privacy.html>**
+GoBananas Privacy Policy
 
-goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: [http://www.goBananas.co.uk](http://www.gobananas.co.uk/)
+  
+goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web site.
 
 **General**  
-We use your IP address to help diagnose problems with our server, general report information and to administer our Web site.  
-Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-This site contains links to other sites. [http://www.goBananas.co.uk](http://www.gobananas.co.uk/) is not responsible for the privacy practices or the content of such web sites.
+We use your IP address to help diagnose problems with our server, general report information and to administer our Web site. Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -35,14 +33,14 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
 1\. You can reply to any email sent out by the site following the opt-out instructions.  
 2\. You can send email to [privacy@goBananas.co.uk](mailto:privacy@gobananas.co.uk)  
 3\. You can send mail to the following postal address:
 
 _Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
 
-4\. You can call the following telephone number: 0871 789 6200 
+4\. You can call the following telephone number: 08700 112201
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
@@ -51,11 +49,11 @@ This site gives users the following options for changing and modifying informati
 
 _Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
 
-3\. You can call the following telephone number: 0871 789 6200 
+3\. You can call the following telephone number: 08700 112201 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:  
+  
 _GoBananas  
 55 Constitution Street  
 Edinburgh  
