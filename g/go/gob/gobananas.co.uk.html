@@ -1,175 +1,307 @@
-<!--The following is the downloaded HTML source of the gobananas.co.uk privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211113551id_/http%3A//www.gobananas.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gobananas.co.uk privacy policy that was archived on 2008-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618111907id_/http%3A//www.gobananas.co.uk/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>GoBananas Privacy Policy</title>
-<meta name="description" content="Indoor Go Karting in Newquay with GoBananas. Stag &amp; Hen party planners in Newquay including accommodation and hotels, activities.">
-<meta name="keywords" content="Indoor Go Karting Hen Night, Stag Party, Newquay">
-<meta name="copyright" content="2005 GoBananas &amp; HelpMeGo.To Ltd">
-<meta name="robots" content="INDEX, FOLLOW">
-<meta name="document-class" content="Living Document">
-<meta name="document-distribution" content="Global">
-<link rel="stylesheet" href="/css/story.css" type="text/css" media="screen">
-<!-- <link href="/css/style.css" rel="stylesheet" type="text/css"> -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="http://www.gobananas.co.uk/">
 
 
 
+<title>Stag Weekends - Hen Nights - Birthday Parties - Corparate Events</title>
+			<meta name="keywords" content="Birthday Party, stag weekends, hen weekends, team building, Birthdays, corporate events, Event Partners.">
+			<meta name="description" content="GoBananas.co.uk have Party Organizers and Event Partners for stag weekends, Hen Nights, Birthday Parties and Corporate Events in Top Locations of UK.">
+			<meta name="copyright" content="2008 GoBananas &amp; HelpMeGo.To Ltd"><meta name="ROBOTS" content="NOYDIR">
+<link href="css/style1.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!--<link href="css/form.css" rel="stylesheet" type="text/css" />-->
+<link href="css/calendar.css" rel="stylesheet" type="text/css" media="all" title="win2k-cold-1">
+<link href="css/scroller.css" rel="stylesheet" type="text/css">
+<link href="css/layout.css" rel="stylesheet" type="text/css">
+<link href="SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<script src="SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/calendar.js"></script>
+<script src="extras/htmleditor/wysiwyg.js"></script> 
+<script src="js/validator.js"></script>
+<script src="js/slide.js"></script>
+<script type="text/javascript" src="extras/editor/fckeditor.js"></script>
+<script type="text/javascript" src="js/dom-drag.js"></script>
+<script language="JavaScript" type="text/javascript">
 
+function homeload()
+{
+	/*scroller.init();
+	scroller3.init3();
+	scroller4.init4();
+	scroller5.init5();*/
+}
+function activitytypeload()
+{
+	scroller2.init2();
+	scroller3.init3();
+	scroller4.init4();
+	scroller5.init5();
+	//scroller6.init6();
+}
+</script>
+<script language="javascript">
+var DIV_CITY_PROFILE;
+function closex(){
+	document.getElementById("supplierlogin").removeChild(DIV_CITY_PROFILE);
+	document.getElementById("supplierlogin").style.display='none';
+	document.getElementById("hoverbox").style.display='none';
+	//document.body.className="enable-scroll-bars";
+}
+function getTop(){
+	if(window.innerHeight)
+	return window.pageYOffset;
+	
+	if(document.documentElement && document.documentElement.scrollTop)
+	return document.documentElement.scrollTop;
+	
+	if(document.body)
+	return document.body.scrollTop;
+}
+
+function ShowSupplierLogin(){
+	
+	var html="<table style=\"border:solid 5px #993300\" cellpadding=0 cellspacing=0><tr><td><TABLE id=leftmenupannel cellSpacing=0 cellPadding=0 width=300 border=0><TR><TD class=leftmenu_left width=25>&nbsp;</TD><TD width=250><P class=menu_head>SUPPLIER LOGIN</P></TD><TD class=leftmenu_rightsupplier align=right width=25 style='padding-right:3px'><a href=\"javascript:closex();\"><b>x</b></a></TD></TR></table><table width=\"300\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" bgColor=\"#fce387\">";
+	html+="<tr>";
+	html+="<td colspan=\"2\"><form id=\"frmLogin\" name=\"frmLogin\" method=\"post\" onSubmit=\"return ValidateForm(this)\" action=\"\"  >";
+	html+="<input type=\"hidden\" name=\"Process\" value=\"Login\" /><input type=hidden name=optUser value=supplier>";
+	html+="<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" >";
+	html+="<tr>";
+	html+="<td colspan=\"3\" class=\"blackMedinor\"><div align=\"center\"></div></td>";
+	html+="</tr>";
+	html+="<tr>";
+	html+="<td height=\"25\" colspan=\"2\" class=\"user\"><div align=\"right\">Username:</div></td>";
+	html+="<td  height=\"25\" class=\"MedWhiteNor\"><div align=\"left\">";
+	html+="<input name=\"UserName\" type=\"text\" class=\"InputBox\" id=\"UserName\" size=\"10\"/>";
+	html+="</div></td>";
+	html+="</tr>";
+	html+="<tr>";
+	html+="<td height=\"25\" colspan=\"2\" class=\"user\"><div align=\"right\">Password:</span></div></td>";
+	html+="<td height=\"25\" class=\"MedWhiteNor\"><div align=\"left\">";
+	html+="<input name=\"Password\" type=\"password\" class=\"InputBox\" id=\"Password\" size=\"10\" />";
+	html+="</div></td>";
+	html+="</tr>";
+	html+="<tr>";
+	html+="<td height=\"30\" align=\"center\" colspan=\"3\">";
+	html+="<input type=\"submit\" name=\"login\" class=\"inputSubmit\" value=\"Login\" />";
+	html+="<input type=\"hidden\" name=\"Validation\" 		value=\"Field=UserName|Alias=UserName|Validate=Blank^ 											   Field=Password|Alias=Password|Validate=Blank\" />";
+	html+="</td></tr><tr>";
+	html+="<td></td>";
+	html+="<td colspan=\"2\"><a class=\"forgot\" href=\"index.php?p=forgotpassword\">Forgot Password ?</a><a class=\"forgot\" href=\"index.php?p=newregistration&user=supplier\">New Registration ?</a></td>";
+	html+="</tr> </table></form><br></td></tr><tr></td></tr></table></td></tr></table>";
+	DIV_CITY_PROFILE=document.createElement('DIV');
+	DIV_CITY_PROFILE.innerHTML=html;
+	document.getElementById("supplierlogin").innerHTML="";
+	document.getElementById("supplierlogin").appendChild(DIV_CITY_PROFILE);
+	document.getElementById("supplierlogin").style.left = (window.screen.width/2 - 160)+"px";
+	document.getElementById("supplierlogin").style.top = (getTop()+200)+"px";
+	document.getElementById("supplierlogin").style.display='block';
+	//document.body.className="disable-scroll-bars";
+	document.getElementById("hoverbox").style.display="block";
+	heightwidth=getPageSizeWithScroll();
+	
+	document.getElementById("hoverbox").style.width=heightwidth[0];
+	document.getElementById("hoverbox").style.height=heightwidth[1];
+}
+function getPageSizeWithScroll(){
+     if (window.innerHeight && window.scrollMaxY) {// Firefox
+         yWithScroll = window.innerHeight + window.scrollMaxY;
+         xWithScroll = window.innerWidth + window.scrollMaxX;
+     }
+	 else if (document.body.scrollHeight > document.body.offsetHeight){ // all but Explorer Mac
+         yWithScroll = document.body.scrollHeight;
+         xWithScroll = document.body.scrollWidth;
+     } 
+	 else { // works in Explorer 6 Strict, Mozilla (not FF) and Safari
+         yWithScroll = document.body.offsetHeight;
+         xWithScroll = document.body.offsetWidth;
+     }
+     arrayPageSizeWithScroll = new Array(xWithScroll,yWithScroll);
+     //alert( 'The height is ' + yWithScroll + ' and the width is ' + xWithScroll );
+     return arrayPageSizeWithScroll; 
+} 
+</script>
 </head>
-<body class="index">
-<div id="wrapper">
-  <div id="header"><a href="/"><img src="/images/logo_mapped.gif" width="760" height="150" border="0" usemap="#Map">
-<map name="Map"><area shape="rect" coords="647,4,758,99" href="/enquiry/" target="_blank" alt="Enquiry Online">
-<area shape="rect" coords="14,2,120,147" href="/" alt="Home">
-</map></a></div>
-  <div id="content">
-	<div id="blogWide">
-
-	  <div class="post">
-			<h1>goBananas Privacy Policy</h1>
-			<p><span class="sectionheader"><strong>Privacy statement</strong></span></p>
-      <p><b>To view the Privacy Statement for http://helpmego.to please see the page <a href="http://www.helpmego.to/privacy.html" target="_blank">http://www.helpmego.to/privacy.html</a></b></p>
-      <p>  goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: <a href="http://www.gobananas.co.uk" target="_blank" class="mainlink">http://www.goBananas.co.uk</a> </p>
-      <p><b>General</b><br>
-  We use your IP address to help diagnose problems with our server, general report information and to administer our Web site.<br>
-  Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. </p>
-            <p>This site contains links to other sites. <a href="http://www.gobananas.co.uk" target="_blank" class="mainlink">http://www.goBananas.co.uk</a> is not responsible for the privacy practices or the content of such web sites.</p>
-            <p>Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
-            <p><b>Cookies</b><br>
-  Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other similar purposes.</p>
-            <p><b>Registration Forms/ Newsletters</b><br>
-  Where a registration form is used it may require users to give us contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary.</p>
-            <p><b>Order Forms</b><br>
-  Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like name, address and e-mail address), financial information (like account or credit card numbers), and demographic information (like post code, age, or income level). Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services.</p>
-            <p><b>Survey Forms</b><br>
-  Our online surveys ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. </p>
-            <p><b>Competitions</b><br>
-  We run contests on our site in conjunction with promoters in which we ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Information requested is shared with promoters on an aggregate basis where the visitor highlights their acceptance.</p>
-            <p><b>Public Forums</b><br>
-  This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
-            <p><b>Choice/Opt-Out</b><br>
-  Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.</p>
-            <p> This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. <br>
-              1. You can reply to any email sent out by the site following the opt-out instructions.<br>
-              2. You can send email to <a href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a><br>
-              3. You can send mail to the following postal address:</p>
-            <p>              <i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i><br>
-              <br>
-              4. You can call the following telephone number: 0871 789 6200 </p>
-            <p><b>Correct/Update</b><br>
-  This site gives users the following options for changing and modifying information previously provided. <br>
-  1. You can send email to <a class="mainlink" href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a><br>
-  2. You can send mail to the following postal address:<br>
-  <br>
-  <i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i><br>
-          <br>
-  3. You can call the following telephone number: 0871 789 6200 </p>
-            <p><b>Contacting the Web Site</b><br>
-  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:<br>
-          <br>
-          <i>GoBananas<br>
-          55 Constitution Street<br>
-          Edinburgh<br>
-          EH6 7BG<br>
-          Scotland</i><font face="Verdana, Arial, Helvetica, sans-serif"></font></p>
-	  </div>
-		
-	
-
-	</div>
-	
-	<div id="sidebar">
-		<!-- team profile -->
-<div id="profile">
-<h2 class="profile">What to do next... </h2>
-<!-- Embedded WhosOn -->
-<script language="Javascript" type="text/javascript" src="/whoson_gobananas.js"></script>
-<!-- End of embedded WhosOn -->
-
-<p>› Call us on 0871 789 6200 </p>
-<p><a href="/contact/">› Use our Online Contact Form</a> </p>
-</div>
-<div id="archives">
-<h2>or what about this... </h2>
-
-<!-- Start of right hand ads-->
-<!-- Start of Ad 1 -->
-<div class="pad20top">
-<script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.helpmego.to/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:17&amp;block=1");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adjs.php?n=415226980&amp;what=zone:17&amp;block=1&amp;exclude=,"></script><noscript><a href='http://ads.helpmego.to/adclick.php?n=afc9683a' target='_blank'><img src='http://ads.helpmego.to/adview.php?what=zone:17&amp;n=afc9683a' border='0' alt=''></a></noscript>
-<!-- End of Ad 1 -->
-</div>
-<div class="pad20top">
-<!-- Start of Ad 2 -->
-<script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.helpmego.to/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:17&amp;block=1");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adjs.php?n=334537309&amp;what=zone:17&amp;block=1&amp;exclude=,"></script><noscript><a href='http://ads.helpmego.to/adclick.php?n=a6a22989' target='_blank'><img src='http://ads.helpmego.to/adview.php?what=zone:17&amp;n=a6a22989' border='0' alt=''></a></noscript>
-<!-- End of Ad 2 -->
-</div>
-<div class="pad20top">
-<!-- Start of Ad 3 -->
-<script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.helpmego.to/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:17&amp;block=1");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.helpmego.to/adjs.php?n=780639896&amp;what=zone:17&amp;block=1&amp;exclude=,"></script><noscript><a href='http://ads.helpmego.to/adclick.php?n=a299095d' target='_blank'><img src='http://ads.helpmego.to/adview.php?what=zone:17&amp;n=a299095d' border='0' alt=''></a></noscript>
-<!-- end of Ad 3 -->
-<!--end of right hand links--></div>
-
-<br><br>
-<h2>Local Opportunities</h2>
-<ul>
-	<li><a href="/cornwall/newquay/stag-day.html" title="stag activities for the daytime in Newquay">Stag Daytime</a></li>
-	<li><a href="/cornwall/newquay/hen-evening.html" title="stag evening and night activities in Newquay">Stag Night stuff </a></li>
-	<li><a href="/cornwall/newquay/hen-daytime.html" title="Daytime Hen Activities in Newquay">Hen Daytime </a></li>
-	<li><a href="/cornwall/newquay/hen-night.html" title="Night Hen Activities in Newquay">Hen Evening</a> </li>
-	<li><a href="/group-bookings/" title="Group Bookings in Newquay hotels">Group Hotels </a></li>
-	<li><a href="/party-games/" title="Party Game Ideas">Games</a></li>
-	<li><a href="/cornwall/newquay/index.html" title="Is Newquay the right place for us">Is Newquay the right place? </a></li>
-</ul>
-</div>		
-    </div>
+<body>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td align="center" width="100%">
+<div id="holder">
+  <!--main header-->
+  <form action="http://www.gobananas.co.uk/index.php" id="searchbox_002645371773192851485:w-ooof_8yy4">
+<input type="hidden" name="cx" value="002645371773192851485:w-ooof_8yy4">
+<input type="hidden" name="cof" value="FORID:11">
+<input type="hidden" name="p" value="search">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+  <td><table width="776" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td valign="top" class="top-banner" align="right">
+			<table cellpadding="0" cellspacing="0">
+<tbody><tr><td><span class="call">Call us on</span> <span class="phone">0871 789 6200</span></td></tr>
+			<tr><td>
+            <span class="call">email</span> <a href="mailto:info@gobananas.co.uk"><span class="phone">info@gobananas.co.uk</span></a>
+</td></tr>
+<tr><td>
+			<!-- AddThis Bookmark Button BEGIN -->
+<script type="text/javascript">
+  addthis_url    = location.href;   
+  addthis_title  = document.title;  
+  addthis_pub    = 'stagman';     
+</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+<!-- AddThis Bookmark Button END -->
+</td></tr></tbody></table></td>
+      </tr>
+	  
+    </tbody></table></td>
+</tr>
+<tr>
+  <td><table width="776" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td valign="top" class="second_banner"><div id="topmenu_nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            |
+            <li><a href="javascript:void(0)" onclick="ShowSupplierLogin()">Supplier Login</a></li>
+            |
+            <li><a href="aboutus.html">About Us</a></li>
+            |
+            <li><a href="contactus.html">Contact Us</a></li>
+          </ul>
+        </div>
+  <p><span class="search">Quick search</span>
+    <label>
+    <input type="text" name="q" size="25" style="font-size:11px; background-color:#fdf1ba; border:1px solid #dd6815; color:#a62508;">
+    </label>
+    <label>
+    <input type="submit" name="sa" value="GO" style="font-size:10px; font-weight:bold; background-color:#fdf1ba; border:1px solid #dd6815;">
+    </label>
+  </p>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+  <td><div>
+          </div></td>
+</tr>
+</tbody></table>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_002645371773192851485%3Aw-ooof_8yy4&amp;lang=en"></script>
+  <!--Main header close-->
+  <!--middle start-->
+  <div id="middle">
+    <table width="776" height="100%">
+		<tbody><tr>
+			<td>
+			    <table width="100%" height="100%">
+<tbody><tr>
+	<td class="blackMedinor" width="70%">
+		<table width="100%" border="0">
+    <tbody>
+        <tr>
+            <td>
+            <table width="100%" border="0">
+                <tbody>
+                    <tr>
+                        <td>
+                        <div id="content">
+                        <div id="blogWide">
+                        <div class="post"><span class="head">GoBananas Privacy Policy</span>
+                        <p><span class="sectionheader"><strong>Privacy statement</strong></span><br>
+                        <span class="blackMedinor">goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web site.</span></p>
+                        <p align="justify"><b>General</b><br>
+                        <span class="blackMedinor">We use your IP address to help diagnose problems with our server, general report information and to administer our Web site. Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+                        </span></p><p class="blackMedinor">Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
+                        <p align="justify"><b>Cookies</b><br>
+                        <span class="blackMedinor">Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other similar purposes.</span></p>
+                        <p align="justify"><b>Registration Forms/ Newsletters</b><br>
+                        <span class="blackMedinor">Where a registration form is used it may require users to give us contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary.</span></p>
+                        <p align="justify"><b>Order Forms</b><br>
+                        <span class="blackMedinor">Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like name, address and e-mail address), financial information (like account or credit card numbers), and demographic information (like post code, age, or income level). Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services.</span></p>
+                        <p align="justify"><b>Survey Forms</b><br>
+                        <span class="blackMedinor">Our online surveys ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. </span></p>
+                        <p align="justify"><b>Competitions</b><br>
+                        <span class="blackMedinor">We run contests on our site in conjunction with promoters in which we ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Information requested is shared with promoters on an aggregate basis where the visitor highlights their acceptance.</span></p>
+                        <p align="justify"><b>Public Forums</b><br>
+                        <span class="blackMedinor">This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</span></p>
+                        <p><b>Choice/Opt-Out</b><br>
+                        <span class="blackMedinor">Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.</span></p>
+                        <p class="blackMedinor">This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.<br>
+                        <span class="blackMedinor">1. You can reply to any email sent out by the site following the opt-out instructions.<br>
+                        2. You can send email to <a href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a><br>
+                        3. You can send mail to the following postal address:</span></p>
+                        <p></p>
+                        <p class="blackMedinor"><i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i><br>
+                        <br>
+                        <span class="blackMedinor">4. You can call the following telephone number: 08700 112201</span> </p>
+                        <p class="blackMedinor"><b>Correct/Update</b><br>
+                        <span class="blackMedinor">This site gives users the following options for changing and modifying information previously provided.</span> <br>
+                        <span class="blackMedinor">1. You can send email to <a class="mainlink" href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a></span><br>
+                        <span class="blackMedinor">2. You can send mail to the following postal address:</span><br>
+                        <br>
+                        <span class="blackMedinor"><i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i></span><br>
+                        <br>
+                        <span class="blackMedinor">3. You can call the following telephone number: 08700 112201 </span></p>
+                        <p><b>Contacting the Web Site</b><br>
+                        <span class="blackMedinor">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:<br>
+                        </span><br>
+                        <span class="blackMedinor"><i>GoBananas<br>
+                        55 Constitution Street<br>
+                        Edinburgh<br>
+                        EH6 7BG<br>
+                        Scotland</i></span><font face="Verdana, Arial, Helvetica, sans-serif"></font></p>
+                        </div>
+                        </div>
+                        </div>
+                        <div>&nbsp;</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>    </td>
+</tr>
+</tbody></table>			</td>
+		</tr>
+	</tbody></table>
+	<!--content close-->
   </div>
-  <div id="footer">
-    <div id="copyright"> Copyright: 2006 HelpMeGo.To Ltd. Registered in Scotland</div>
-    <a target="_blank" href="http://www.helpmego.to" class="credits" rel="external"> web design by internal team and Jesso in Kerala</a> // powered by good ol' html and apache  <br>
-Thankyou for visiting this goBananas page about Indoor Go Karting in Newquay. Go Bananas!</div>
+  <!--middle close-->
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" id="extremebottom">
+  <tbody><tr>
+    <td width="732" class="footerbg" align="center"><div id="footerwhite"><a href="aboutus.html">About</a> | <a href="http://www.gobananas.co.uk/stuff/Stag-Weekends.html">Stag Weekends</a> | <a href="http://www.gobananas.co.uk/stuff/Hen-Weekends.html">Hen Weekends</a> | <a href="privacy.html">Privacy</a> | <a href="terms-and-condition.html">T &amp; Cs</a> | <a href="http://www.gobananas.co.uk/type-location/Stag-Weekends/Edinburgh.html">Edinburgh Stag Weekends</a> | <a href="http://www.gobananas.co.uk/type-location/Stag-Weekends/Newcastle.html">Newcastle Stag Weekends</a> | <a href="contactus.html">Contact</a> | <a href="new-supplier.html">New Supplier</a> | <a href="javascript:void(0)" onclick="ShowSupplierLogin()" class="LnkBrownSmallbold">Supplier Login</a> | <a href="http://www.gobananas.co.uk/links.html">Links</a></div></td>
+  </tr>
+  <tr>
+    <td class="footerlogo"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="89%" align="right"><span class="copyright">Copyright: 2008 <a href="http://www.helpmego.to" target="_blank">HelpMeGo.To Ltd</a></span></td>
+          <td width="11%" align="right">&nbsp;</td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+  <!--all div close-->
 </div>
+</td></tr></tbody></table>
+<div id="supplierlogin" style="position:absolute;z-index:1; display:none"></div>
+<div id="hoverbox" style="display: none; filter: alpha(opacity=60); -moz-opacity: .6; position: absolute;background-color: #000000; z-index:0; width: 100%; height: 100%; left: 0px; top:0px;" onclick="closex()">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-229424-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
-</body></html>
+
+</div></body></html>
