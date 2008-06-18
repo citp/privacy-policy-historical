@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs8.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs8.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618074034id_/http%3A//www.cbs8.com/misc/privacy_policy) for the most accurate reproduction.*
 
 # News 8 :: KFMB Stations, San Diego, California
 
