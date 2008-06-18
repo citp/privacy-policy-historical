@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214085834id_/http%3A//www.coloradotech.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618044339id_/http%3A//www.coloradotech.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Colorado Technical University
 
@@ -34,7 +34,7 @@ The Sites contain links to other web sites that are not owned or operated by Col
 
 To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below: 
 
-**1\. Email[webmaster@careeredonline.com](mailto:webmaster@careeredonline.com)**
+**1\. Email the[webmaster](mailto:8WebMaster@careered.com?subject=CTU_ColoradoTech%20-%20Important!%20Sent%20From%20Privacy%20Statement).**
 
 **2\. Contact us at:**  
 Colorado Technical University   
