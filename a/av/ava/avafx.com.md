@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avafx.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011051154id_/http%3A//www.avafx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avafx.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618183510id_/http%3A//www.avafx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,4 +56,4 @@ We may monitor your Communications to evaluate the quality of service you receiv
 
 From time to time, we may update this Privacy Statement. In the event we materially change this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web sites and we will post a notice on our Web sites informing you of such changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and our Customer Agreement. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.  If you have any questions that this statement does not address, please contact a Client Services representative.
 
-[Back to Top](http://avafx.com/#Top)
+[Back to Top](http://www.avafx.com/#Top)
