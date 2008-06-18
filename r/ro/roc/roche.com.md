@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029223651id_/http%3A//www.roche.com/home/service/service-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618230643id_/http%3A//www.roche.com/home/service/service-privacy.htm) for the most accurate reproduction.*
 
 # Roche Service - Privacy Policy
 
