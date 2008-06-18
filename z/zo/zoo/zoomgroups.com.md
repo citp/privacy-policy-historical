@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226163857id_/http%3A//www.zoomgroups.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618163012id_/http%3A//www.zoomgroups.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ZoomGroups - The Ultimate Playground to Communicate, Connect, Trade and more!
 
