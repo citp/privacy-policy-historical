@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215131213id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618062222id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
-
-Select UPS 2-Day Air service for fast, cost-effective delivery of in-stock items by Christmas.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
@@ -38,4 +36,4 @@ We will release personally identifiable information to third parties and organiz
 
 Our Web site protects the security of personal information you transmit to us by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal your credit card number when we confirm your order. In order to protect against unauthorized access to your account you should sign off when you finish visiting our site.
 
-© 2007 JensonUSA - All rights reserved.
+© 2008 JensonUSA - All rights reserved.
