@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212221843id_/http%3A//www.pixellogo.com/pages.php%3Fpageid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618212522id_/http%3A//www.pixellogo.com/Privacy-Policy-sp-6.html) for the most accurate reproduction.*
 
 # Affordable & Professional Company & Business Logo Design, 3D Logos & Web Page Templates, Stationery & Website Design - Pixellogo
 
