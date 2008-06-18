@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630191410id_/http%3A//www.orlandosentinel.com/about/orl-privacy%2C0%2C5707103.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618100553id_/http%3A//www.orlandosentinel.com/about/orl-privacy%2C0%2C5707103.htmlstory) for the most accurate reproduction.*
 
 # Privacy Policy -- OrlandoSentinel.com
-
-## Privacy Policy
 
 Last Updated: May, 2006
 
@@ -18,7 +16,7 @@ Like most Web sites, **OrlandoSentinel.com** also collects information automatic
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on **OrlandoSentinel.com** to communicate with you regarding our [**Terms of Service**](https://web.archive.org/about/orl-tos,1,6538214.story?coll=orl-news-utility-bonus) and privacy policy, products and services offered by OrlandoSentinel.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate’s use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on **OrlandoSentinel.com** to communicate with you regarding our [**Terms of Service**](https://web.archive.org/about/orl-tos,0,3575189.story) and privacy policy, products and services offered by OrlandoSentinel.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate’s use of such information.
 
 Personally Identifiable Information collected by **OrlandoSentinel.com** may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
