@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218070153id_/http%3A//www.workface.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618054101id_/http%3A//www.workface.com/pages/privacy) for the most accurate reproduction.*
 
 # workface - where experience matters
 
