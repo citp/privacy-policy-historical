@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l-word.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024143953id_/http%3A//www.l-word.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-word.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618033749id_/http%3A//www.l-word.com/privacy.php) for the most accurate reproduction.*
 
 # the L word Fan Site
 
