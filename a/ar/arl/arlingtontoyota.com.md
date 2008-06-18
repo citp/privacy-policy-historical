@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220025621id_/http%3A//www.arlingtontoyota.com/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618231908id_/http%3A//www.arlingtontoyota.com/Disclaimer.aspx) for the most accurate reproduction.*
 
 # Disclaimer Arlington Toyota Jacksonville FL
-
-| 
 
 10939 Atlantic Blvd  
 Jacksonville, FL 32225  
