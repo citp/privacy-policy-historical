@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213095417id_/http%3A//www.portero.com/cgi-bin/ncommerce3/ExecMacro/static/safety_security.d2w/report%3Fwl%3D66292034%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618182514id_/http%3A//www.portero.com/cgi-bin/ncommerce3/ExecMacro/static/safety_security.d2w/report%3Fwl%3D66292034%23Privacy) for the most accurate reproduction.*
 
 # Online Luxury Internet Auctions by Portero.com | Designer & Luxury Watches, Jewelry, Collectibles & Art | Buy It Now or Bid Auction Style at Portero
 
@@ -28,17 +28,40 @@ Your privacy is important to us. Accordingly, we have designed this privacy poli
 
 **Security:** Portero is committed to protecting your privacy in accordance with the terms of this privacy policy and we will use appropriate security measures to protect the personal information you provide to us, including the use of a Secure Socket Layer (SSL). However, no internet data transmission can be guaranteed to be secure from access by unintended parties, and, by registering with us and providing personal information, you agree that you will not hold us responsible for any breach of security unless such breach is due to our gross negligence or deliberate violation of this privacy policy. Please note that if you have logged into Portero.com from a shared computer, it is important that you sign off your account before leaving that computer. 
 
-The philosophy behind purchasing luxury goods is to appreciate the importance of exceptional quality and the time-honored expertise and tradition behind the product you are acquiring. Verified authenticity and product expertise are the keys to this experience. 
+_**Portero's Authenticity Guarantee**_
 
-Portero is the most trusted online exchange for exceptional pre-owned and new luxury items. Feel confident when browsing our categories of [Jewelry](https://web.archive.org/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=35769&cgmenbr=66292034), [Watches](https://web.archive.org/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=35790&cgmenbr=66292034), [Art](https://web.archive.org/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=35770&cgmenbr=66292034), and [Collectibles](https://web.archive.org/cgi-bin/ncommerce3/CategoryDisplay?cgrfnbr=191124&cgmenbr=66292034) (more categories will be added later). We deal only in prestigious, highly-respected brands. These include, among others, Baume & Mercier, David Yurman, Cartier, H. Stern, Kosta Boda, Kwiat, Lalique, Montblanc, Orrefors, Robert Lee Morris, Rolex, Rosiblu, Steuben, Tag Heuer, Tiffany, and Tourneau.
+We at Portero believe that buying luxury goods online should be straightforward, exciting, and without risk. Portero's mission is to be the leading trusted online source for authenticated, pre-owned, luxury Jewelry, Watches, Accessories, Art, and Fine Housewares. Portero guarantees that each item on our web site is 100% authentic. 
 
-Portero believes that buying and selling luxury goods online should be straightforward, exciting, and without risk. To deliver on this premise, we deal only with brands and companies exemplifying the finest of reputations, and we guarantee the authenticity of each item we sell. As a result, our customers can shop our site confidently, purchasing exquisite items online at Portero.com, knowing that they can completely trust that each item is as represented.
+We deliver on our promise of authenticity by drawing on the experience of our in-house category specialists, by working with outside product experts, and by partnering with selected luxury brands and other leading luxury companies, such as Tourneau, the world's largest luxury watch retailer. 
 
-Should you ever wish to discuss the authenticity of an item you have purchased from us, please contact [ Portero Customer Care ](https://web.archive.org/cgi-bin/ncommerce3/ExecMacro/static/contactus.d2w/report?wl=66292034) within 30 days of receiving the item.
+_**Authentication Process by Category:**_  
+**WATCHES:**  
+Tourneau certifies the authenticity of our pre-owned watches. The watch case and movement are thoroughly inspected to confirm the authenticity and operability of the watch. Portero offers a one-year warranty on service repair through Tourneau and other reputable repair service providers. Click here for more details
 
-## LEGAL DISCLAIMER
+**JEWELRY:**  
+In addition to our in-house specialists, Portero employs the services of a GIA certified jeweler who inspects and confirms the authenticity of all jewelry. This process includes close inspection of workmanship, jewelers' stamps, and quality of material and stones. 
 
-We make every effort to ensure the accuracy of our prices and information. However, mistakes and typographical errors may, nevertheless, occur. We reserve the right to correct those errors, and we apologize in advance for any inconvenience. In the event a transaction that was predicated on misinformation is completed, Portero reserves the right to cancel the transaction with no further liability on its part. 
+Through our partnerships with Kwiat and Robert Lee Morris, these brands certify that the Kwiat and Robert Lee Morris items sold on our site are authentic. Each Kwiat and Robert Lee Morris auction listing will display a seal signifying that the item is certified authentic by the respective brand. 
+
+**ART:**  
+Portero employs the services of a Christie's and Sotheby's trained art curator who personally selects each piece and verifies its origin. 
+
+**FINE HOUSEWARES:**  
+Portero's in-house Fine Housewares specialists closely inspect workmanship, designer and brand stamps, and verify the pieces with known pieces by the designer/brand. Through our partnership with Lalique, Lalique certifies that the Lalique products sold on our web site are authentic. Each Lalique auction listing will display a seal signifying that the item is certified authentic. 
+
+**ACCESSORIES:**  
+In addition to our in-house specialists, Portero employs the services of accessories experts who have experience authenticating and selling pre-owned luxury handbags and leather accessories, and who closely inspect workmanship, material quality, and stitching, as well as hardware and designer/brand authenticity stamps on every bag. 
+
+**Should you ever wish to discuss the authenticity of an item you have purchased from us, please contact Portero Customer Care by one of the following three easy methods:**  
+1) 'Live Chat': instant messaging by clicking on the 'Live Chat' link on any page   
+2) Email: [customercare@portero.com](mailto:customercare@portero.com)  
+3) Phone: toll free (in the US) at 1.877.307.3767
+
+**Customer Care Business Hours:**  
+Monday-Friday: 9am-5pm US Eastern (all forms of Customer Care support)  
+Sunday-Thursday: 4pm-Midnight US Eastern (Live Chat and email support)
+
+**LEGAL DISCLAIMER** : We make every effort to ensure the accuracy of our prices and information. However, mistakes and typographical errors may nevertheless occur. We reserve the right to correct those errors, and we apologize in advance for any inconvenience. In the event a transaction that was predicated on misinformation is completed, Portero reserves the right to cancel the transaction with no further liability on its part. Brand names are the trademarks of their respective owners and are not affiliated with Portero. In the event an item sold by Portero is determined to be inauthentic, Portero will refund the purchase price as well as any shipping and insurance charges incurred by the buyer. This refund shall constitute the buyer's full and complete remedy. 
 
 At Portero.com, your personal online security is a priority. We use the latest SSL encryption technology to store and safely transmit your personal and credit card information through our systems. We use a highly secure check out system provided by Truition, Inc. to process all orders. Additionally, for your safety and protection we confirm that your billing address exactly matches the address on file with your credit card company. 
 
