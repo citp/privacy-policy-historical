@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216032509id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618133000id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
-# North Carolina General Assembly -
+# North Carolina General Assembly - Privacy Statement
 
 | SITE NAVIGATION  
 ---  
@@ -14,6 +14,10 @@
 [Legislative Library](https://web.archive.org/LegLibrary/)  
 [Fiscal Research  
 Division](https://web.archive.org/FiscalResearch/)  
+[Legislative Drafting  
+Division](https://web.archive.org/LDD/)  
+[Program Evaluation  
+Division](https://web.archive.org/PED/)  
 [NCGA Information](https://web.archive.org/NCGAInfo/NCGAInfo.html)  
 [Audio](https://web.archive.org/Audio/Audio.html)  
 [Citizen Guide](https://web.archive.org/CitizenGuide/CitizenGuide.html)  
