@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211210835id_/http%3A//www.cheatmasters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618143312id_/http%3A//www.cheatmasters.com/privacy.php) for the most accurate reproduction.*
 
 # Cheat Masters : PC XBOX GB PS GBA PS2 cheats, cheat codes, and hints for your console games.
 
