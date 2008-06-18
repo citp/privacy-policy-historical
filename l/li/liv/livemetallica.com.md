@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053955id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618180808id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.*
 
-# LiveMetallica.com | Download Live MP3 and FLAC Shows | Terms of Use
+# LiveMetallica.com | Download Live MP3 and FLAC Shows | Privacy Policy
 
   
 
