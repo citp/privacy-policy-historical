@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215134136id_/http%3A//www.desire2learn.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618062512id_/http%3A//www.desire2learn.com/contact/privacy) for the most accurate reproduction.*
 
 # Desire2Learn Website Privacy Policy
 
-Desire2Learn is committed to protecting your privacy. This statement outlines our privacy practices with respect to collection, use, and disclosure of personal information and business information that you would reasonably expect to be kept confidential, such as financial information, on this site.
+Desire2Learn Incorporated (Desire2Learn) is committed to protecting your privacy. This statement outlines our privacy practices with respect to collection, use, and disclosure of personal information and business information that you would reasonably expect to be kept confidential, such as financial information, on this site.
 
 **Collection of your Personal Information**  
 Personal information is information that can be used to personally identify you or is associated with any such information, such as your name, e-mail address, mailing address, and so forth. Visitors to this website are not requested to reveal personal information, however to benefit from and use certain features of our website you may provide and disclose personal information on a volunteer basis.
