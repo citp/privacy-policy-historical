@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211230807id_/http%3A//www.fling.com/privacy.html%3Fprg%3D1%26id%3Dnoadvert%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618065917id_/http%3A//www.fling.com/privacy.html%3Fprg%3D1%26id%3Dnoadvert%26pg%3D1) for the most accurate reproduction.*
 
 # Fling.com - World's Best Personals
 
@@ -12,7 +12,7 @@ FLING.COM PRIVACY POLICY
   
 ---  
   
-Fling Incorporated ("we" or "Fling") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Flingmobile.com website, transactions for purchasing Fling subscription services, and activities or communications that occur using the Fling service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between Fling.com, Fling, or any other company, and consumers. This policy was implemented on January 1, 2003 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
+Fling Incorporated ("we" or "Fling") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Fling.com website, transactions for purchasing Fling subscription services, and activities or communications that occur using the Fling service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between Fling.com, Fling, or any other company, and consumers. This policy was implemented on January 1, 2003 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
   
 **Your IP Address**
 
