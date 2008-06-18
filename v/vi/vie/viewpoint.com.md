@@ -1,31 +1,30 @@
-> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212182515id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618144830id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Viewpoint - Privacy Policy
 
 We recognize that privacy is an important issue, so we design and operate our technology and services with the protection of your privacy in mind. This Privacy Policy outlines the types of information we gather when you use Viewpoint's technology and services, as well as some of the steps we take to safeguard it.
 
-Viewpoint is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers following websites: [http://www.viewpoint.com](http://www.viewpoint.com/), [http://developer.viewpoint.com](http://developer.viewpoint.com/) and [http://search.viewpoint.com](http://search.viewpoint.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Viewpoint is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers following websites: http://www.viewpoint.com, http://developer.viewpoint.com and http://search.viewpoint.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 This privacy statement covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-If you have questions or concerns regarding this statement, you should first contact us at
+If you have questions or concerns regarding this statement, you should first contact us at:
 
   
 Privacy Policy Group  
-Viewpoint Corporation  
-498 7th Ave. Suite 1810  
+Enliven Marketing Technologies Corporation  
+205 West 39th Street  
+16th Floor  
 New York, NY 10018  
 [privacy@viewpoint.com](mailto:privacy@viewpoint.com)
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The Viewpoint web site contains links to third-party web sites not under the control of Viewpoint. Viewpoint makes no representations whatsoever about any other web site to which you may have access through the Viewpoint web site. Access of a non-Viewpoint web site is done at your own risk and Viewpoint is not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made on these sites. Viewpoint provides these links merely as a convenience. The inclusion of such links does not imply that Viewpoint endorses or accepts any responsibility for the content or uses of such web sites.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.   
+TRUSTe will then serve as a liaison with us to resolve your concerns.   
+The Viewpoint web site contains links to third-party web sites not under the control of Viewpoint. Viewpoint makes no representations whatsoever about any other web site to which you may have access through the Viewpoint web site. Access of a non-Viewpoint web site is done at your own risk and Viewpoint is not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made on these sites. Viewpoint provides these links merely as a convenience. The inclusion of such links does not imply that Viewpoint endorses or accepts any responsibility for the content or uses of such web sites. 
 
 **Data collection**
 
-  * Viewpoint's software products _do not_ automatically collect any personally identifying information. Our software products do not have the ability to automatically collect or monitor personally-identifiable information. Examples of personally identifiable information include your name, address, email addresses, phone numbers, and passwords.
+  * Viewpoint's software products do not automatically collect any personally identifying information. Our software products do not have the ability to automatically collect or monitor personally-identifiable information. Examples of personally identifiable information include your name, address, email addresses, phone numbers, and passwords.
   * Viewpoint collects limited anonymous information in connection with its search and advertising products that your browser makes available whenever you visit a website. This information includes your browser type, browser language, referrer URL, the date and time of your search query and your operating system. We may use one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our technology and services.
   * Some of our services may ask you to register for an account and voluntarily submit limited personal information in order to create an account (typically your name, email address and unique password for your account). We will use that information only to provide the service and will not sell or license your information to 3rd parties.
   * When we ask for your information in connection with services that you register for, we will always inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us.
@@ -35,17 +34,15 @@ The Viewpoint web site contains links to third-party web sites not under the con
 
 **Updates to Viewpoint Software Products**
 
-  * Viewpoint's software products each have different updating policies. Please use this guide to view the policies for specific products
-
-
+Viewpoint's software products each have different updating policies. Please use this guide to view the policies for specific products
 
 **Site Security Practices**
 
 **Security**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link <http://en.wikipedia.org/wiki/Ssl>.] 
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link http://en.wikipedia.org/wiki/Ssl.]
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at [support@viewpoint.com](mailto:support@viewpoint.com)
 
@@ -76,13 +73,13 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 **Access to Personally Identifiable Information**
 
-If the personally identifiable information you have entered on the Developer site changes, or if you no longer desire our service, you may update it by making the change on our [developer.viewpoint.com](http://developer.viewpoint.com/) member information page or by emailing our Customer Support at [support@viewpoint.com](mailto:support@viewpoint.com)
+If the personally identifiable information you have entered on the Developer site changes, or if you no longer desire our service, you may update it by making the change on our developer.viewpoint.com member information page or by emailing our Customer Support at [support@viewpoint.com](mailto:support@viewpoint.com)
 
 **Links**
 
 This Web site contains links to other sites that are not owned or controlled by Viewpoint. Please be aware that we, Viewpoint, are not responsible for the privacy practices of such other sites.
 
-The forum located at <http://viewpoint.infopop.cc/eve> is provided by Infopop. Viewpoint does not control the information posted to this Infopop forum and this privacy policy does not cover information collected on the forum.
+The forum located at http://viewpoint.infopop.cc/eve is provided by Infopop. Viewpoint does not control the information posted to this Infopop forum and this privacy policy does not cover information collected on the forum.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
@@ -105,14 +102,15 @@ Viewpoint constantly strives to provide the best products and services. As new p
 If you have any questions about this privacy statement, or our software and website practices, please contact us:
 
 Privacy Policy Group  
-Viewpoint Corporation  
-498 7th Ave. Suite 1810  
+Enliven Marketing Technologies Corporation  
+205 West 39th Street  
+16th Floor  
 New York, NY 10018  
 [support@viewpoint.com](mailto:support@viewpoint.com)
 
 For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, use this guide.
 
-Effective Date: 05/02/07
+Effective Date: March 12, 2008
 
   
 [Viewpoint Media Player](http://www.viewpoint.com/installer/v4/html/vmp_faq.html#q1)  
