@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027072725id_/http%3A//www.iiiwebsites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619154814id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
 
-# Web Services & Products
+# Xtreme Profits All-Inclusive Membership
 
-This notice is being provided to you by III Websites, III Business, III Hosting and all Partner Sites. We are committed to maintaining the confidentiality and security of personal information gathered from potential, current and former customers. The proper handling of personal information continues to be one of our highest priorities. As a valued customer who provides us with nonpublic personal information, we want you to know why we need this information and we want to explain our commitment to protecting the information you provide.
+This notice is being provided to you by **_III Websites, LLC_** , Matt Levenhagen and all Partner Sites. We are committed to maintaining the confidentiality and security of personal information gathered from potential, current and former customers. The proper handling of personal information continues to be one of our highest priorities. As a valued customer who provides us with nonpublic personal information, we want you to know why we need this information and we want to explain our commitment to protecting the information you provide.
 
 Our postal address is: Upon Request
 
-We can be reached via e-mail at Support at iiiHosting.com
+We can be reached via e-mail at: http://www.jvpal.com/contact.htm
 
 **Customer Information**
 
@@ -55,7 +55,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
 
-Consumers can access this information by e-mailing us at the above address, or visiting us at [http://www.iiiBusiness.com/contact_us.htm](http://www.iiibusiness.com/contact_us.htm).
+Consumers can access this information by e-mailing us at the above address, or visiting us at <http://www.jvpal.com/contact.htm>.
 
 **Maintenance of Accurate Information**
 
@@ -63,7 +63,7 @@ We strive to maintain accurate, up-to-date customer records in accordance with i
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
 
-Consumers can have this information corrected by sending us e-mail at the above address, visiting us at [http://www.iiiBusiness.com/contact_us.htm](http://www.iiibusiness.com/contact_us.htm). 
+Consumers can have this information corrected by sending us e-mail at the above address, visiting us at <http://www.jvpal.com/contact.htm>. 
 
 **Protection of Information**
 
