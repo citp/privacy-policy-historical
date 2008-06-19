@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224014607id_/http%3A//www.educationconnection.com/global/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050725id_/http%3A//www.educationconnection.com/global/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Education Connection: Privacy Policy
 
@@ -40,7 +40,7 @@ We also share your information with the service providers who help us to run thi
 
 ### Your Ability To Choose
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by [opting out at the time that you submit your Student Matching Profile or by] sending us a written request either by email to [info@educationconnection.com](mailto:info@educationconnection.com) or via postal mail: 
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by [opting out at the time that you submit your Student Matching Profile or by] sending us a written request either by email to [unsubscribe@educationconnection.com](mailto:unsubscribe@educationconnection.com?Subject=Unsubscribe) or via postal mail. When composing your email, please include the word "Unsubscribe" in the subject line. You may also click on the following [link](http://www.educationconnection.com/emailunsubscribe.aspx) to add your email address directly to our Unsubscribe list. Please address postal mail requests to: 
 
   * Attn: Unsubscribe
   * Education Connection Services
