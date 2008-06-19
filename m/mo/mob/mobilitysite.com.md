@@ -1,38 +1,27 @@
-> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516070850id_/http%3A//www.mobilitysite.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619232615id_/http%3A//mobilitysite.com/mobilitysite-aximsite-privacy-policy) for the most accurate reproduction.*
 
-# MobilitySite - Privacy
+# Privacy Policy | Mobility Site
 
-|  |  |  **» Mobilitysite.com's Privacy Policy**  
----  
-  
-This message board will store a few details about you while you are using the message board. The board administrator takes all reasonable steps to ensure that no unauthorised access to the information is granted. The following information is collected. 
+Browse >
 
-  * **Cookies -** The message board software will set the following cookies: 
-    * **Membername** : This is so the board can 'remember' your username when using the message board.
-    * **Password** : This is so you don't have to re-tpye in your password everytime you wish to make a post or use any of the member only features on the board.
-    * **Last Visit Data** : So that you can be made aware of any new posts since your last visit, two cookies are stored. One called 'templastvisit', the other 'lastvisit'. These only store data in a numerical format.
-  * **IP address** \- When you register and when you make a post - your IP address is stored on our server. This protects you as a member and us as a company when identifying that the user who posted is indeed authentic. This information will only be used if you misuse any features on the board or in any dispute. The board administrator is able to ban by IP address. IP addresses may also be used to track user activity that we deem sketchy in order to keep spamming/hacking to a minimum.
+[Home](http://mobilitysite.com/ "Browse to: Home") / Privacy Policy 
 
+This is the web site of **Mobilitysite.com and Aximsite.com**.
 
+Our postal address is   
+**PO Box 20154  
+Tuscaloosa, AL 35402**
 
-**Registration Form** \- The registration process is designed so that you can keep a unique identity. The only required parts to the registration process is the 'Member name' and 'E-mail address'. There is an option to keep this email address private if you wish. The message board administrator will take all reasonable measures to ensure that any information you provide confidentially is kept confidential. You may change this information at any time by editing your profile. 
+We can be reached via e-mail at [chris(at)mobilitysite.com](mailto:chris\(at\)mobilitysite.com).
 
-**Postings**  
-The board administrator(s) cannot be held responsible for the content of posted messages on the forums. 
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-**Message Board Security**  
-Jelsoft Enterprises Limited, being the authors of this Vmessage Board software, have taken all reasonable steps to ensure that there is sufficient security in place to stop external misuse of any and all information that you provide. 
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas.
 
-**How to contact the Mobility Site Staff**   
-You may contact us by clicking **[here](http://www.mobilitysite.com/forums/sendmessage.php)**  
-  
-|  | **» Sponsors**  
----  
-**» Stats**  
----  
-Members: 35,326  
-Threads: 29,093  
-Posts: 161,518  
-Top Poster: [whitelyt](http://www.mobilitysite.com/forums/members/whitelyt.html) (6,222)  
-  
-Welcome to our newest member, [TheChatter](http://www.mobilitysite.com/forums/members/thechatter.html)
+The information we collect is used to notify consumers about updates to our Web site.
+
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site .
+
+If you do not want to receive e-mail from us in the future, please let us know by or Select do not contact in your User Control Panel..
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
