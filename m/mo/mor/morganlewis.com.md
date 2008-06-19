@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morganlewis.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120936id_/http%3A//www.morganlewis.com/index.cfm/nodeID/262c2ae2-d4d1-45cf-a53a-1cb9fd0bf74a/fuseaction/content.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morganlewis.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619170357id_/http%3A//www.morganlewis.com/index.cfm/nodeID/262c2ae2-d4d1-45cf-a53a-1cb9fd0bf74a/fuseaction/content.page) for the most accurate reproduction.*
 
 # EU Privacy Policy > Privacy Policy > About : Morgan, Lewis & Bockius - an international law firm
 
