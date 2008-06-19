@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095452id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619074058id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
 
-# DIRECTV Satellite Systems| DIRECTV Deals | DIRECTV Offers | DIRECTV Promotion - DIRECTSATTV
+# Direct TV Phone Number, 866-704-4571 - DIRECT SAT TV
 
   
   
