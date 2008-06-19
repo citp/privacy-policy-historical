@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220024706id_/http%3A//dealitem.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619192318id_/http%3A//www.dealitem.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy at Dealitem.com!
 
@@ -22,4 +22,4 @@ We bring you the best offers that are of interest to you, we have relationships 
 
 Feedback?
 
-Dealitem.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [Our Feedback page](https://web.archive.org/web/20071220024706id_/http%3A//dealitem.com/emaillink/default.asp?feedback=1).
+Dealitem.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [Our Feedback page](https://web.archive.org/web/20080619192318id_/http%3A//www.dealitem.com/emaillink/default.asp?feedback=1).
