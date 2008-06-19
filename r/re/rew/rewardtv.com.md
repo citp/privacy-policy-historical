@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardtv.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228201641id_/http%3A//www.rewardtv.com/help/privacy.sdo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardtv.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619033904id_/http%3A//www.rewardtv.com/help/privacy.sdo) for the most accurate reproduction.*
 
 # RewardTV
 
@@ -30,10 +30,11 @@
 
   * Contact Member Services
 
+  * Show all
+
 
 |  [](http://www.truste.org/ivalidate.php?url=www.rewardtv.com&sealid=101)  
 ---|---|---  
-  
   
 
 
@@ -51,6 +52,7 @@ We don't share your personal information
 
 Your name, address, email address, phone number, and other personally identifiable information is not sold to third party marketers.
 
-  
+RewardTV * 345 Park Avenue South * 12th Floor * New York, NY * 10010
+
   
 
