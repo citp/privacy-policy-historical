@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2007-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071115003112id_/http%3A//www.brookshires.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619125506id_/http%3A//www.brookshires.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Brookshire's Privacy Policy
 
@@ -14,7 +14,7 @@ _**What This Privacy Policy Covers**_
 
 This Privacy Policy describes how Brookshire treats personal information that Brookshire collects and receives, including information related to your past use of Brookshire products and services. Personal information is information about you that is personally identifiable like your name, address, email address, telephone number, credit card and checking account information, and any information that can be linked to you that is not otherwise publicly available. 
 
-This policy does not apply to the practices of companies that Brookshire does not own or control or to people that Brookshire does not employ or manage. In addition, certain Brookshire associated companies such as MyWebGrocer.com have their own Privacy Policies which can be viewed by clicking on the links. Brookshire is not responsible for the content or the privacy and security policies or practices of any such companies or people.
+This policy does not apply to the practices of companies that Brookshire does not own or control or to people that Brookshire does not employ or manage. In addition, certain Brookshire associated companies such as MyWebGrocer.com have their own Privacy Policies which can be viewed by going to <http://www.mywebgrocer.com/PrivacyPolicy.aspx>. Brookshire is not responsible for the content or the privacy and security policies or practices of any such companies or people.
 
 _**Information Sharing and Disclosure**_
 
@@ -28,11 +28,11 @@ We use this information for billing purposes and to fill your orders. If we have
 
 _**Application Forms**_
 
-If you submit information to us on our site, we may require that you provide certain personally identifiable information, including your name, address, phone number, and email address. This information is necessary to process your application and to contact you.
+If you submit information to us on the Site, we may require that you provide certain personally identifiable information, including your name, address, phone number, and email address. This information is necessary to process your application and to contact you.
 
 _**Surveys or Contests**_
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes, to monitor site traffic and personalize the site. 
+From time-to-time we may provide you the opportunity to participate in contests or surveys on the Site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes, to monitor Site traffic and personalize the Site. 
 
 _**Special Offers and Updates**_
 
@@ -60,29 +60,27 @@ We reserve the right to disclose your personally identifiable information as req
 
 _**Choice/Opt-out**_
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order page. 
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.
 
 _**Log Files**_
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site, optimize the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track users’ movements around the Site, optimize the Site and to gather demographic information about our user base as a whole. 
 
-We use a third-party tracking service (e.g.SurfStats, Web Trends, etc) that may use cookies to track non-personally identifiable information about visitors to our site in the aggregate that we used to improve the experience of the site. 
+We use a third-party tracking service (e.g.SurfStats, Web Trends, etc) that may use cookies to track non-personally identifiable information about visitors to the Site in the aggregate that we used to improve the experience of the Site. 
 
 _**Cookies**_
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site, if the user allows. 
+"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. The Site uses cookies for a number of purposes. For example: to enable simplification of the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our Site.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above, this will restrict the online services you can use.
 
-_**Clear Gifs (Web Beacons/Web Bugs)**_
+_**Clear Gifs (Web Beacons)**_
 
-We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice / Opt-out
+We use clear gifs on the Site from Google Analytics and other 3rd party vendors. This enables us to gauge the effectiveness of our services and marketing programs.
 
 _**Links to Other Sites**_
 
