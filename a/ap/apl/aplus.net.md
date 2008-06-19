@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207154536id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619171250id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
 
 # Aplus.Net
 
@@ -25,7 +25,7 @@ Overland Park, KS 66210
 [privacy@aplus.net](mailto:privacy@aplus.net)   
 Fax (913) 890-7787
 
-Copyright © 1996-2007  
+Copyright © 1996-2008  
 **Aplus.Net Internet Services**  
 7500 W 110th St., Suite 400  
 Overland Park, KS 66210  
