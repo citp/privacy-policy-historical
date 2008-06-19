@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneytrackin.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227053625id_/http%3A//www.moneytrackin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytrackin.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619125756id_/http%3A//www.moneytrackin.com/privacy) for the most accurate reproduction.*
 
-# privacy policy - Moneytrackin'
+# Moneytrackin' - privacy policy
 
 MoneyTrackin, S.L. (hereinafter, MoneyTrackin) is a company established under the laws of Spain with registration number 2543, filed with the Madrid Public Registry in File No. 23436, folio no. 100, Page M-420349, record 1st.
 
