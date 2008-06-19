@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freearticle.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217074258id_/http%3A//www.freearticle.org/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D6d7fa1c856a43fc232108e80b49c5d9d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticle.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619165930id_/http%3A//freearticle.org/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # FreeArticle.org - Free Articles | Submit Articles | Article Search
 
