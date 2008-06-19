@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the davidlloyd.co.uk privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216015809id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the davidlloyd.co.uk privacy policy that was archived on 2008-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619053655id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,6 +15,9 @@
 
 
 
+<!--New Navigation Pane-->
+<script type="text/javascript" src="/content/david_lloyd_leisure/javascripts/ddtabmenu.js"></script>
+<!--End Navigation Pane-->
 <script src="http://a248.e.akamai.net/img.atdmt.com/ds/QUQUADLYDNAS/davidLloyd_ns.js"></script>
 </head>
 
@@ -80,7 +83,7 @@
 <li><a href="/active_adults">Get Results</a></li> 			
 <li><a href="/families">Active Families</a></li> 			<li><a href="/older_adults">Staying Active</a></li> 			
 <li><a href="/partners">Partners &amp; Links</a></li> 			   </ul> 	</li> 	
-<li id="Our_Club"><a href="/club_locator__postcode">Find Your Club</a></li> 	 	
+<li id="Our_Club"><a href="/club_locator">Find Your Club</a></li> 	 	
 <li class="parent"><a class="what_do_you_want" href="#">Choose Your Activity</a> 		
 <ul class="navigation-expert" id="navigation-5">
 <li><a href="/exercise_classes">Start an Exercise Class</a></li> 
@@ -127,7 +130,7 @@
 		
 		<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
 		<tbody><tr>
-			<td style="text-align:left;" colspan="2"><a href="/12days?campaign=dec07clubpages"><img src="/content/david_lloyd_leisure/media/top-banner-december.gif" alt="Davidl Loyd Leisure health leisure and fitness club"></a></td>
+			<td style="text-align:left;" colspan="2"><a href="/5visits?_s_icmp=inpage_homepage"><img src="/content/david_lloyd_leisure/media/banner-may-campaign.jpg" alt="Davidl Loyd Leisure health leisure and fitness club"></a></td>
 		</tr>
 		</tbody></table>			
 	
@@ -146,8 +149,7 @@
 </div>
 </div>
 <div id="actionPanelRight01">
-<div class="padTRBL">
-<!--[if IE]>
+<div class="padTRBL"><!--[if IE]>
 <style type="text/css">
 input.go_button{width:58px;}
 input#postcode{margin-left:-7px; width:172px !important;}
@@ -193,6 +195,14 @@ function goToClubString(club_id)
   var s = document.clubchooser.clublocator2;
   //alert(s);
   var value = s.options[s.selectedIndex].value;
+
+  // divert all non UK traffic (20080215)
+  if(value=='Dublin'){
+   
+    window.location='http:\/\/www.davidlloyd.ie';
+ }
+else{
+
   var value = club_id;
   var replacableString = new String(value);
   var replaced = replacableString.replace(/(\s)(?=\w)/g,"_"); //This line does not work in IE for Mac. 
@@ -202,27 +212,25 @@ function goToClubString(club_id)
   replaced = replacableString.match(/(\w*)/);
   window.location = 'http://www.davidlloyd.co.uk/clubzone/' + replaced[0];
 }
+}
 -->
 </script>
 
-<div><form name="clubchooser" id="clubchooser" method="post"><strong>Choose your club:</strong>&nbsp; <br>
-<select style="" class="inputElement" name="clublocator2" id="clublocator2"><option selected="" value="">select...</option><option value="Aberdeen">Aberdeen</option><option value="Basildon">Basildon</option><option value="Belfast">Belfast</option><option value="Birmingham">Birmingham</option><option value="Bolton">Bolton</option><option value="Brighton">Brighton</option><option value="Bristol">Bristol</option><option value="Bromsgrove">Bromsgrove</option><option value="Cardiff">Cardiff</option><option value="Cheam">Cheam</option><option value="Chester - Cheshire Oaks">Chester - Cheshire Oaks</option><option value="Chigwell">Chigwell</option><option value="Derby">Derby</option><option value="Dublin">Dublin</option><option value="Eastbourne">Eastbourne</option><option value="Edinburgh">Edinburgh</option><option value="Enfield">Enfield</option><option value="Epsom">Epsom</option><option value="Finchley">Finchley</option><option value="Fulham">Fulham</option><option value="Glasgow - Renfrew">Glasgow - Renfrew</option><option value="Greenwich - Kidbrooke">Greenwich - Kidbrooke</option><option value="Hounslow - Heston">Hounslow - Heston</option><option value="Hull">Hull</option><option value="Kensington">Kensington</option><option value="Kings Hill - Kent">Kings Hill - Kent</option><option value="Kingston">Kingston</option><option value="Leeds">Leeds</option><option value="Leicester">Leicester</option><option value="Lincoln - Burton Waters">Lincoln - Burton Waters</option><option value="Liverpool Knowsley">Liverpool Knowsley</option><option value="Liverpool Speke">Liverpool Speke</option><option value="Luton">Luton</option><option value="Maidenhead">Maidenhead</option><option value="Maidstone">Maidstone</option><option value="Manchester">Manchester</option><option value="Manchester Cheadle">Manchester Cheadle</option><option value="Milton Keynes">Milton Keynes</option><option value="Newcastle">Newcastle</option><option value="Nottingham">Nottingham</option><option value="Nottingham West Bridgford">Nottingham West Bridgford</option><option value="Oxford">Oxford</option><option value="Port Solent">Port Solent</option><option value="Raynes Park">Raynes Park</option><option value="Reading">Reading</option><option value="Ringwood">Ringwood</option><option value="Sidcup">Sidcup</option><option value="Solihull">Solihull</option><option value="Solihull Cranmore">Solihull Cranmore</option><option value="Southampton">Southampton</option><option value="Southend">Southend</option><option value="Stevenage">Stevenage</option><option value="Stockport - Cheadle">Stockport - Cheadle</option><option value="Sudbury Hill">Sudbury Hill</option><option value="Swindon">Swindon</option><option value="Teesside">Teesside</option><option value="Warrington">Warrington</option><option value="Watford - Bushey">Watford - Bushey</option><option value="Weybridge - Brooklands">Weybridge - Brooklands</option><option value="Woking">Woking</option><option value="Worthing">Worthing</option></select> 
+<div><form name="clubchooser" id="clubchooser" method="post"><!-- <strong>Search by club:</strong>&nbsp; <br /> -->
+<select style="" class="inputElement" name="clublocator2" id="clublocator2"><option selected="" value="">Search by club</option><option value="Aberdeen">Aberdeen</option><option value="Basildon">Basildon</option><option value="Belfast">Belfast</option><option value="Birmingham">Birmingham</option><option value="Bolton">Bolton</option><option value="Brighton">Brighton</option><option value="Bristol">Bristol</option><option value="Bromsgrove">Bromsgrove</option><option value="Cardiff">Cardiff</option><option value="Cheam">Cheam</option><option value="Chester - Cheshire Oaks">Chester - Cheshire Oaks</option><option value="Chigwell">Chigwell</option><option value="Derby">Derby</option><option value="Dublin">Dublin</option><option value="Eastbourne">Eastbourne</option><option value="Edinburgh">Edinburgh</option><option value="Enfield">Enfield</option><option value="Epsom">Epsom</option><option value="Finchley">Finchley</option><option value="Fulham">Fulham</option><option value="Glasgow - Renfrew">Glasgow - Renfrew</option><option value="Greenwich - Kidbrooke">Greenwich - Kidbrooke</option><option value="Hounslow - Heston">Hounslow - Heston</option><option value="Hull">Hull</option><option value="Kensington">Kensington</option><option value="Kings Hill - Kent">Kings Hill - Kent</option><option value="Kingston">Kingston</option><option value="Leeds">Leeds</option><option value="Leicester">Leicester</option><option value="Lincoln - Burton Waters">Lincoln - Burton Waters</option><option value="Liverpool Knowsley">Liverpool Knowsley</option><option value="Liverpool Speke">Liverpool Speke</option><option value="Luton">Luton</option><option value="Maidenhead">Maidenhead</option><option value="Maidstone">Maidstone</option><option value="Manchester">Manchester</option><option value="Manchester Cheadle">Manchester Cheadle</option><option value="Milton Keynes">Milton Keynes</option><option value="Newcastle">Newcastle</option><option value="Nottingham">Nottingham</option><option value="Nottingham West Bridgford">Nottingham West Bridgford</option><option value="Oxford">Oxford</option><option value="Port Solent">Port Solent</option><option value="Raynes Park">Raynes Park</option><option value="Reading">Reading</option><option value="Ringwood">Ringwood</option><option value="Sidcup">Sidcup</option><option value="Solihull">Solihull</option><option value="Solihull Cranmore">Solihull Cranmore</option><option value="Southampton">Southampton</option><option value="Southend">Southend</option><option value="Stevenage">Stevenage</option><option value="Stockport - Cheadle">Stockport - Cheadle</option><option value="Sudbury Hill">Sudbury Hill</option><option value="Swindon">Swindon</option><option value="Teesside">Teesside</option><option value="Warrington">Warrington</option><option value="Watford - Bushey">Watford - Bushey</option><option value="Weybridge - Brooklands">Weybridge - Brooklands</option><option value="Woking">Woking</option><option value="Worthing">Worthing</option></select> 
     <input type="button" name="" value="GO" onclick="goToClubString(document.clubchooser.clublocator2.options[document.clubchooser.clublocator2.selectedIndex].value)" class="go_button"></form></div>
 
 
 
-<form action="/club_locator__postcode" method="post" style="margin-top:2px; padding-top:2px;">
+<form action="/club_locator" method="post" style="margin-top:2px; padding-top:2px;">
 <input type="hidden" name="search" value="yes" class="submit">
 <label for="postcode">
-<strong>Or search by postcode:<br>
-&nbsp; 
-<input type="text" name="postcode" id="postcode"></strong>
+<!-- <strong>Or search by postcode:</strong>-->
+&nbsp;  
+<input type="text" name="postcode" id="postcode" value="search by postcode" onfocus="this.value=''">
 <input id="submit" type="submit" name="submit" value="Search">
 </label>
 </form>
-
-
-
 </div>
 </div>
 </div>
@@ -234,6 +242,18 @@ function goToClubString(club_id)
 <div class="content">
 	<div id="genericContentLeft01">
 		<div id="genericContentRight01">
+			<div id="genericPageNav"><style type="text/css">
+#generic-sub-nav { list-style-type:none; margin:0 0 0 20px; padding:0; }
+#generic-sub-nav li { list-style-type:none; display:inline; padding-right:25px; }
+#generic-sub-nav li a { color:#999 }
+</style>
+<ul id="generic-sub-nav">
+<li><a title="Nutrition" href="/nutrition">Nutrition</a></li>
+<li><a title="Wellbeing" href="/wellbeing">Wellbeing</a></li>
+<li><a title="Weight Loss" href="/fitness">Weight Loss</a></li>
+
+<li><a title="Menus" href="/menus">General</a></li>
+</ul></div>
 			<div class="padTRBL"><p>This privacy policy explains how David Lloyd Leisure Limited collect and use data collected from individuals and how we protect your privacy. By using this site you agree to the terms of this Privacy Policy.<br><br>
 For those individual's who have opted to contact us via this website we may collect information such as name, address, email, telephone number and other personal data necessary to respond to your query. We will also use this information to look at ways in which this website and our services to our members can be improved and for the purpose of administration.<br><br>We may store this information for up to three years and use your contact details to communicate with you by mail, telephone SMS or email in the future regarding special offers or promotions that may be of interest to you.<br><br>We may also give your data to third parties who may contact you by mail, telephone SMS or email with offers about their products or services.<br><br>In order to comply with our obligations under the Data Protection Act of 1998 we follow procedures in the storage and disclosure of information that you have given us, to prevent unauthorised access, misuse, alteration or loss of information under our control. You are entitled to request a copy of the data we hold about you for which we may charge a small fee and you have the right to correct any inaccuracies in that data.<br><br>We use tracking software and capture the user's IP address by using visitor cookies. This allows us to monitor customer traffic patterns and site usage and help us develop the design and layout of the site. This software and the use of cookies does not enable us to capture information that will identify individuals.<br><br>When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disk for record keeping purposes and we may use them to do a number of things:<br><br>
 Cookies help us to recognise you when you next visit one of our websites and note the advertisements displyed to you. This allows us to tailor the advertisements we provide to your preferences. We may use the services of third party ad servers for this purpose.<br><br>Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. A third party collects such data on our behalf to measure web site performance. Information collected is aggregated for reporting purposes. No personally identifiable information is collected by this service. The use of this service assists us in measuring and improving the structure and ease of use of our web sites.<br><br>You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. <a href="#cookies">Click here</a> for instructions on how to disable cookies. Please be aware that if you do so, certain services on our websites may not be available to you.<br><br>This privacy policy applies only to websites owned and maintained by David Lloyd Leisure. Links from this site to third party websites are not covered by this policy.<br><br>You are legally entitled to modify, correct or delete data relating to you. Therefore, if you would like to exercise this right or if you have any questions, comments or concerns about this Privacy Policy please contact Huw Davies-Thomas, Group Member Relations Manager, David Lloyd Leisure, PO Box 888, Dunstable, LU5 5XA.</p>
@@ -273,39 +293,29 @@ Here is how you turn cookies off for Netscape Communicator 4.7: </p>
 
 <div style="height:20px; padding: 3px 22px 0 32px; width:760px;align: center;">
 <a href="/privacy_policy" title="privacy policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.leisurejobs.com/davidlloyd/" target="_blank">Jobs at David Lloyd Leisure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/partners" title="Partners &amp; Links">Partners &amp; Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/content/david_lloyd_leisure/media/dll_exercise_booking_policy.pdf" title="Download booking policy PDF">Booking Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/content/david_lloyd_leisure/media/dll_racquet_booking_policy.pdf" title="Download racquet booking policy PDF" target="_blank">Racquet Booking Policy</a></div></div>
-<p style="font-size:85%; color:#ccc; text-align:center;padding-top:10px" target="_blank">
-David Lloyd Leisure Ltd, registered office: 4th Floor, St Alphage House, 2 Fore Street, London EC2Y 5DH, registered in England No 1516226. <br>
-<a href="/content/david_lloyd_leisure/media/The_David_Lloyd_Leisure_Limited_Conditions_of_Purchase.pdf" target="_blank" style="font-size: 10px; color: rgb(204, 204, 204); font-weight:normal;">David Lloyd conditions of purchase</a>
+<p style="font-size:85%; color:#ccc; text-align:center;padding-top:10px">
+David Lloyd Leisure Ltd, registered office: Quadrant House, Floor 6, 17 Thomas More Street, Thomas More Square, London E1W 1YW. <br> Registered in England No 1516226. <br>
+<a href="/content/david_lloyd_leisure/media/The_David_Lloyd_Leisure_Limited_Conditions_of_Purchase.pdf" target="_blank" style="color: rgb(204, 204, 204); font-weight:normal;">David Lloyd conditions of purchase</a>
 </p>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<!-- b: tracking snippet -->
+
+<!-- b: em tracking -->
 <script type="text/javascript">
-_uacct = "UA-314850-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4664081-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
-<!-- Begin Sitestat4 code -->
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-function sitestat(ns_l){ns_l+='&amp;ns__t='+(new Date()).getTime();ns_pixelUrl=ns_l;
-ns_0=document.referrer;
-ns_0=(ns_0.lastIndexOf('/')==ns_0.length-1)?ns_0.substring(ns_0.lastIndexOf('/'),0):ns_0;
-if(ns_0.length>0)ns_l+='&amp;ns_referrer='+escape(ns_0);
-if(document.images){ns_1=new Image();ns_1.src=ns_l;}else
-document.write('<img src="'+ns_l+'" width="1" height="1" alt="">');}
-sitestat("http://int.sitestat.com/dlleisure/uk/s?privacy_policy");
-//-->
-</script>
-<noscript>
-<img src="http://int.sitestat.com/dlleisure/uk/s?privacy_policy"
-width="1" height="1" alt="">
-</noscript>
-<!-- End Sitestat4 code -->
+<!-- e: em tracking -->
 
 
+<!-- e: tracking snippet -->
 
 </div>
-
-
 	<!-- Customization Code -->
 <!-- Remove leading // to activate custom variables -->
 <script language="Javascript">
@@ -338,7 +348,8 @@ var sei_id='1989cbc1f6b708c4bc1b6ffbc5490fc2';
 var sei_page='privacy_policy';  
 //var sei_action=''; 
 </script>
-<script language="javascript1.1" src="/content/root/javascripts/sei.js"></script><img src="https://www.roi-pro.com/zei?sVer=4.0&amp;sSvr=0&amp;sID=1989cbc1f6b708c4bc1b6ffbc5490fc2&amp;rCok=0&amp;sCok=0&amp;sDoc=privacy_policy&amp;sRef=&amp;sSelf=https%3A//web.archive.org/web/20071216015809id_/http%253A//www.davidlloyd.co.uk/privacy_policy" width="1" height="1">
+<script language="javascript1.1" src="/content/root/javascripts/sei.js"></script><img src="https://www.roi-pro.com/zei?sVer=4.0&amp;sSvr=0&amp;sID=1989cbc1f6b708c4bc1b6ffbc5490fc2&amp;rCok=0&amp;sCok=0&amp;sDoc=privacy_policy&amp;sRef=&amp;sSelf=https%3A//web.archive.org/web/20080619053655id_/http%253A//www.davidlloyd.co.uk/privacy_policy" width="1" height="1">
+<script language="javascript1.1" src="/content/root/javascripts/roi.js"></script>
 
 
 
