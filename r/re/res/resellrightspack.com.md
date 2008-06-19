@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellrightspack.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218214639id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellrightspack.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619053603id_/http%3A//xodoinc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
