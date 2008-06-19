@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021135id_/http%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619175635id_/http%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Supermicro, Inc. - About Supermicro | Privacy
 
@@ -102,7 +102,7 @@ We track visitor traffic throughout our WebSites. This information is broken dow
 **[How To Contact Us](https://web.archive.org/about/contact/)**  
 If you have questions about Supermicro’s privacy policies and practices, please call us at (408)503-8000 or e-mail us at _[Webmaster@Supermicro.com](mailto:webmaster@supermicro.com)_. If you wish to review or change information gathered about you via a Supermicro Website, but do not know how, the webmaster will assist you.
 
-**[Supermicro Computer, Inc.](https://web.archive.org/about/contact/)**  
+**[Super Micro Computer, Inc.](https://web.archive.org/about/contact/)**  
 980 Rock Ave. San Jose, CA 95131-1615, USA  
 Tel: +1-408-503-8000  
 Fax: +1-408-503-8008  
@@ -112,5 +112,5 @@ Webmaster: [Webmaster@Supermicro.com](mailto:webmaster@supermicro.com)
 
 * * *
 
-©Copyright 2004 by Supermicro Computer, Inc.  
+©Copyright 2004 by Super Micro Computer, Inc.  
 All rights reserved. 
