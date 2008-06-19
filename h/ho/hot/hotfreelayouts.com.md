@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219160732id_/http%3A//www.hotfreelayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619055722id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
 
-# 
+# MyHotComments - Privacy Policy
 
-Hotfreelayouts.com / MyHotComments.com Privacy Policy 
+Contact: 
     
     
-    Contact:
     X92.net, Inc.
     hotfreelayouts@gmail.com
     1417 6th St Suite 302
@@ -13,6 +12,8 @@ Hotfreelayouts.com / MyHotComments.com Privacy Policy
     
 
 This Privacy Policy is effective on 10/10/05 
+
+third parties may be placing and reading cookies on your users. browser, or using web beacons to collect information, in the course of ads being served on your website. 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
