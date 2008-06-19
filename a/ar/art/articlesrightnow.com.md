@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesrightnow.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229002933id_/http%3A//www.articlesrightnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesrightnow.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619225854id_/http%3A//www.articlesrightnow.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesRightNow.com | Submit Articles | Search Find Free Content | Author Submission
 
