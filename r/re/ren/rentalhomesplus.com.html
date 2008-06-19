@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2007-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221011959id_/http%3A//www.rentalhomesplus.com/RHP/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2008-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619074625id_/http%3A//www.rentalhomesplus.com/RHP/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,8 +10,9 @@
 <body>
 <div id="headerDisplayControl">
 	
+<link href="http://media.rentalhomesplus.com/css/rhp.css" rel="stylesheet" type="text/css">
 
-<link href="/css/rhp.css" rel="stylesheet" type="text/css">
+
 <script type="text/JavaScript">
 <!-- Hide from old browsers
 // Modify to reflect site specifics
@@ -29,6 +30,251 @@ target = "SITE=RENTALHOMES/AREA=/PG=rhp_privacypolicy/AM=/BEDS=/HTYPE=/AFF=";
 // End Hide -->
 
 </script>
+
+<!-- Omniture Control -->
+
+<script type="text/javascript">
+var strTOH = ""
+var strbdrms = ""
+var strPets = ""
+var strAptAmen = "" 
+var strComAmen = ""
+</script>
+
+<script src="/RHP_s_code.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var tv="";
+var gp = "";
+if(tv!=""){
+	var AffiliateType = "";
+}else{
+	if(gp!=""){
+		var AffiliateType = "partner";
+	}else{
+		var AffiliateType = "national";
+	}
+}
+var pageCheck = "privacypolicy";
+var stateN ="";
+var cityN = "";
+<!-- Shared -->	
+var regionName = "";
+var areaName = "";
+var subareaName = "";
+    if(pageCheck == "avsummary"){
+
+            if(PropType)
+            {
+                var avSummary = "photosbz";
+            }else{
+                var avSummary = "photos";
+            }
+    
+        var pname = avSummary;
+    }else{
+        var pname ="privacypolicy";
+		
+    }
+var siteName	= "RHP";
+var siteType 	= "";
+var contentType	= AffiliateType;
+var affName		= "";
+var domain		= siteName;
+
+var siteSection = "";
+
+//The condition below determines if a site section is defined in one of the cases above.
+//If a page is not in one of the cases above then it will default to the function below which will grab the directory where the page resides.
+
+	if (siteSection == "")
+	{
+		var url = window.location.href;
+		var dir = url.split('/');
+		var url2 = dir[dir.length - 1]; //removes www.apartments.com or www.rentalhomesplus.com
+		var pn2 = location.pathname; //page name
+		var directoryListing = pn2.substring(0,pn2.lastIndexOf('/')); //site section
+
+		siteSection=directoryListing.split('/');
+		siteSection = siteSection [siteSection.length-1];
+		
+		if (siteSection == "managercenter")
+			{ pname = "managercenter";}
+	}
+	else
+	{
+		siteSection;
+	}
+	
+var affName	= ""; 
+var affChannel 	
+var affPageName
+	if (affName == "")
+	{
+		affName = "national";
+		affChannel = "national" + ":" + siteSection;
+		if (siteSection == "managercenter")
+		{
+			pname = "managercenter";
+			affPageName = "national"+":"+ pname
+		}
+		else
+		{
+		affPageName = "national"+":privacypolicy";
+		}
+	}
+	else
+	{
+		affChannel 	= affName + ":" + siteSection;
+				if (siteSection == "managercenter")
+		{
+			pname = "managercenter";
+			affPageName = affName+":"+ pname;
+		}
+		else
+		{
+		affPageName = affName+":privacypolicy";
+		}
+	}
+		
+var premCount = "-1";
+var clasCount = "-1";
+var frboCount = "-1";
+var totalCount = "-1";
+var products = "";
+var mapLinksBoo;	
+
+	s_clven.pageName= pname;
+	s_clven.products = products;
+	s_clven.prop2="-1";
+	s_clven.prop6= siteSection;
+	if(mapLinksBoo == "0"){prop37 = "Basic";}else if(mapLinksBoo == "1"){prop37 = "Enhanced";}else{prop37 = "";}
+	s_clven.prop29 = "";
+	
+	//prop29 for rhp city pages. Will override results prop29 when pagename's version exists.
+ 
+	if(s_clven.pageName == "citypage")
+	{
+	    if(prop37== "Basic")
+	    {
+	        s_clven.prop29 = "Basic"
+	    }else if(prop37 =="Enhanced")
+	    {
+	        s_clven.prop29 = "Enhanced"
+	    }else
+	    {
+	        s_clven.prop29 = "";
+	    }
+	    if(s_clven.eVar25!=""){s_clven.eVar25 = s_clven.prop29;}
+    }
+    
+	//if(s_clven.eVar2!=""){s_clven.eVar2 = "<--%=CMPval%>";} - Implement internal campaign later
+	
+	s_clven.prop36= affChannel;
+	s_clven.prop16= stateN;//search st
+	s_clven.prop17= cityN;//search city
+	
+	s_clven.prop20= "";//search zip
+	s_clven.prop5= contentType;
+	s_clven.prop14= affName;
+	s_clven.prop15= affPageName;
+	
+	s_clven.prop21= "http://www.rentalhomesplus.com/RHP/privacypolicy.aspx";
+	s_clven.prop22= domain;
+	s_clven.prop33= "";
+	s_clven.prop32= "" + "." + "";
+	s_clven.prop7= "";
+	s_clven.prop8= "";
+	s_clven.hier1 = domain + "+" + siteSection + "+" + "" + "+" + "" + "+" + pname;
+	
+	s_clven.events="";
+	s_clven.eVar17="";
+	
+<!-- Amenities -->	
+
+	s_clven.prop26=strTOH;//Housing Types
+	s_clven.prop27=strbdrms;//Rooms
+	s_clven.prop34=strPets;//Pets
+	s_clven.prop28=strAptAmen;//Apt Amenities
+	s_clven.prop30=strComAmen;//Comm Amenities
+	s_clven.prop37=prop37;//City Page Tag [enhanced or basic for RHP]
+
+
+if(s_clven.getQueryParam('Rent_Maximum') || s_clven.getQueryParam('Rent_Minimum')){
+	s_clven.prop18=s_clven.getQueryParam('Rent_Maximum');//max price
+	s_clven.prop19=s_clven.getQueryParam('Rent_Minimum');//min price	
+	}
+	
+
+<!-- Extras -->
+		var strResults=""
+		if(premCount != -1){
+		var managed =-1;//manage search result
+			if (strResults != ""){
+				strResults = "Manage_"+managed+":"+strResults;
+				}
+			else{
+			strResults = "Manage_"+managed
+			}
+
+		}
+		if(clasCount != -1){
+		var newspapers =-1;//newspaper search result
+			if (strResults != ""){
+				strResults = "News_"+newspapers+":"+strResults;
+				}
+			else{
+				strResults = "News_"+newspapers
+			}
+
+
+		}
+		if(frboCount != -1){
+		var privSear =-1;//private search result
+			if (strResults != ""){
+				strResults = "Priv_"+privSear+":"+strResults;
+				}
+			else{
+				strResults = "Priv_"+privSear
+			}
+
+
+		}
+		
+
+		if(regionName!= ""){
+		var regionN = "";	
+		regionN = regionN.toLowerCase();
+		s_clven.prop23=regionN;//getregion value
+
+		}
+
+		if(stateN != ""){
+		var stateName = stateN;
+		stateName = stateName.toLowerCase();
+		s_clven.prop16=stateName;//get state value
+
+		}
+		if(areaName != ""){
+		var areaN = "";
+		areaN = areaN.toLowerCase();
+		s_clven.prop24=areaN;//get area value
+		
+		}
+		if( subareaName != ""){
+		var subName = "";
+		subName=subName.toLowerCase();
+		s_clven.prop25=subName;//get sub area value
+		}
+	
+		
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_clven.t();if(s_code)document.write(s_code)//-->
+<!-- End SiteCatalyst code version: H.0. -->
+</script>
+<!-- End Omniture Control -->
+
 <script type="text/javascript">
 if(document.omni){
 if(document.omni.state.value != ""){
@@ -37,221 +283,148 @@ if(document.omni.state.value != ""){
 		}
 }
 </script>
+ 
+<div id="rhpWrap">
 
+	<div id="rhpMast">
+	<div id="rhpLogo"><a href="http://www.rentalhomesplus.com" class="rhpLogo"><img src="http://media.rentalhomesplus.com/images/rhp/logo.jpg" border="0" width="195" height="65" alt="RentalHomesPlus"></a></div>
+	<div id="rhpButtons"> 
+    <div id="tabs">
+			<div id="rhpOne" class="rhpOrange"><div class="rhpSdrightOr"><div class="rhpSdleftOr"><a href="http://www.rentalhomesplus.com/?lid=Srch_Tab" class="rhpHeadLink">Search Rental Homes</a></div></div></div>
+			<div id="rhpTwo" class="rhpGreen"><div id="rhpSdright"><div id="rhpSdleft"><a href="http://www.rentalhomesplus.com/managercenter/?lid=Mgr_Center_Tab" class="rhpHeadLink">Manager Center</a></div></div></div>
+				<div id="rhpThree" class="rhpGreen"><div class="rhpSdright"><div class="rhpSdleft"><a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus" class="rhpHeadLink">Moving Center</a></div></div></div>
 
-<div style="width:100%;">
-<table width="746" border="0" cellpadding="0" cellspacing="0" align="center"> 
-  <tbody><tr>
-    <td height="90" valign="bottom"><a href="http://www.rentalhomesplus.com"><img src="/images/rhp/logo.jpg" width="195" height="65" border="0" alt=""></a></td>
-    <td align="right" valign="bottom">
-    <div id="tabs"><table border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="7" height="25"><img src="/images/rhp/left_orange_tab.jpg" width="7" height="25" alt=""></td>
-        <td width="125" bgcolor="#FF6600" class="tab_link"><div align="center"><a href="/?lid=Srch_Tab" class="tablinks">Search Rental Homes</a></div></td>
-        <td width="14" align="left"><img src="/images/rhp/right_orange_tab.jpg" width="7" height="25" alt=""></td>
-        <td width="7"><img src="/images/rhp/left_green_tab.jpg" width="7" height="25" alt=""></td>
-        <td width="95" bgcolor="#5E8E00" class="tab_link"><div align="center"><a href="/managercenter/?lid=Mgr_Center_Tab" class="tablinks">Manager Center</a></div></td>
-        <td width="14" align="left"><img src="/images/rhp/right_green_tab.jpg" width="7" height="25" alt=""></td>
-        <td width="7"><img src="/images/rhp/left_green_tab.jpg" width="7" height="25" alt=""></td>
-        <td width="95" bgcolor="#5E8E00" class="tab_link"> <div align="center"><a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus" class="tablinks">Moving Center</a></div></td>
-        <td width="7"><img src="/images/rhp/right_green_tab.jpg" width="7" height="25" alt=""></td>
-      </tr>
-    </tbody></table></div></td>
-  </tr>
-</tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0"> 
-  <tbody><tr>
-    <td height="32" bgcolor="#FF6600" class="tab_link"><div align="center">
- Find a Rental Home, Townhouse, Condo or Duplex on RentalHomesPlus. Thousands of Home Rental listings!</div></td>
-  </tr>
-  <tr><td bgcolor="#FF6600" align="center">	
-			<script language="javascript" src="/APTS_728x90.js" type="text/javascript"></script>
+		</div>
+	</div>
+	</div>
+	<div class="clear"></div>
+
+<div id="rhpOrangeBar"><div id="rhpBarText">Find a Rental Home, Townhouse, Condo or Duplex on RentalHomesPlus. Thousands of Home Rental listings!</div>
+	
+			<script language="javascript" src="http://media.rentalhomesplus.com/APTS_728x90.js" type="text/javascript"></script>
 		
-		
-		</td></tr>
-		<tr><td bgcolor="#FF6600" height="5"></td></tr>
-</tbody></table>
- </div>
+</div>
+</div> <div class="clear"></div>
 </div>
 <table width="764" border="0" cellpadding="0" align="center">
 <tbody><tr>
 <td width="151" valign="top"><div id="leftNavDisplayControl">
 	
 
-<script language="JavaScript">
-<!-- 
-function openView()
+<script type="text/javascript" language="JavaScript">
+function openViewRHP()
 {
-window.open("/view_RHPbookmark.asp","book","height=300,width=440,scrollbars=1");
+	window.open('view_RHPbookmark.asp','book',"height=400,width=440, scrollbars=1");
 }
-//-->
 </script>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="151"><table width="151" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="11"><img src="/images/RHP/top_left_column.jpg" width="11" height="10"></td>
-        <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="top_border"><img src="images/RHP/spacer.gif" width="1" height="1"></td>
-        <td width="11"><img src="/images/RHP/top_right_column.jpg" width="11" height="10"></td>
-      </tr>
-    </tbody></table>
-        <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="3" bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td bgcolor="#FFF8F2" class="orange_12">Search Options</td>
-            <td width="3" bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-          <tr>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#CCCCCC" class="left_border"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1"></td>
-            <td background="/images/RHP/grey_spacer.jpg"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1"></td>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#CCCCCC" class="right_border"><img src="i/mages/RHP/grey_spacer.jpg" width="1" height="1"></td>
-          </tr>
-          <tr>
-            <td bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td bgcolor="#FFF8F2" class="body"><p>- <a href="/" class="body_link">Start a New Search</a><br>
-              - <a href="javascript:openView('/view_RHPbookmark.asp');" class="body_link">View Favorites</a> <br>
-                <br>
-             - <a href="/RHP/aboutus.aspx">About Us</a><br>
-- <a href="http://www.classifiedventures.com/tomcat_hr/cv_job_listings.jsp" target="_blank">Careers</a><br>
-- <a href="/RHP/sitemap.aspx">Site Map</a><br>
-- <a href="/RHP/FAQs.aspx">Rental Home FAQs</a><br>
-- <a href="/managercenter/?lid=Mgr_Center_Tab">Property Manager Center</a><br>
-- <a href="/RHP/propertymanagement.aspx">Property Management Listings</a><br>
-- <a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a><br>
-- <a href="/RHP/termsofservice.aspx">Terms of Service</a><br>
-- <a href="/RHP/privacypolicy.aspx">Privacy Policy</a><br>
-- <a href="/RHP/equalhousingopportunity.aspx">Equal Housing Opportunity</a><br>
-- <a href="/RHP/contactus.aspx">Contact Us</a><br>
-- <a href="/RHP/testimonials.aspx">Rental Home Testimonials</a><br>
-- <a href="/RentersResources/default.aspx">Renters Resources</a>
-              </p></td>
-            <td bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-          
-        </tbody></table>
-      <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="11"><img src="/images/RHP/bottom_left_column.jpg" width="11" height="10"></td>
-            <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="bottom_border"><img src="images/RHP/spacer.gif" width="1" height="1"></td>
-            <td width="11"><img src="/images/RHP/bottom_right_column.jpg" width="11" height="10"></td>
-          </tr>
-        </tbody></table>
-      <br>
+<div id="xsnazzy">
+<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+<div class="xboxcontent">
+<div class="pad5" id="navtop" style="border-bottom: 1px solid #CCCCCC;">
+<span class="orange_12">Fill Your Vacancy</span>
+</div> 
+<div class="pad5"><center>
+<a href="https://secure.rentalhomesplus.com/" onclick="_OMNLink('17',this,'LeftNavMoneyButton','Place an ad');">
+<img src="/images/RHP/place_an_ad.jpg" width="77" height="27" alt="" style="border:none" ;=""></a><br>
+<p>
+<span class="body">Post a listing and <br>
+find renters quickly</span></p></center>
+</div>
+</div>
+<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
+</div>
+
+ <div id="xsnazzy">
+<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+<div class="xboxcontent">
+
+<div class="pad5" id="navtop" style="border-bottom: 1px solid #CCCCCC;">
+<span class="orange_12">Search Options</span>
+</div>    
+<div class="pad5">
+<ul class="left_box_link">
+         <li>- <a href="/" class="body_link">Start a New Search</a></li>
+         <li> - <a href="javascript:openView('/view_RHPbookmark.asp');" class="body_link">View Favorites</a> </li>
+         <li>&nbsp;</li>
+        <li>- <a href="/RHP/aboutus.aspx">About Us</a></li>
+<li>- <a href="http://www.classifiedventures.com/tomcat_hr/cv_job_listings.jsp" target="_blank">Careers</a></li>
+<li>- <a href="/RHP/sitemap.aspx">Site Map</a></li>
+<li>- <a href="/RHP/FAQs.aspx">Rental Home FAQs</a></li>
+<li>- <a href="/managercenter/?lid=Mgr_Center_Tab">Property Manager Center</a></li>
+<li>- <a href="/RHP/propertymanagement.aspx">Property Management Listings</a></li>
+<li>- <a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a></li>
+<li>- <a href="/RHP/termsofservice.aspx">Terms of Service</a></li>
+<li>- <a href="/RHP/privacypolicy.aspx">Privacy Policy</a></li>
+<li>- <a href="/RHP/equalhousingopportunity.aspx">Equal Housing Opportunity</a></li>
+<li>- <a href="/RHP/contactus.aspx">Contact Us</a></li>
+<li>- <a href="/RHP/testimonials.aspx">Rental Home Testimonials</a></li>
+<li>- <a href="/RentersResources/default.aspx">Renters Resources</a></li>
+        </ul>
+ </div>          
+         </div>  
+<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
+</div>
  
  <div id="ctl01_MovCntrRentRsrcsControl">
 		
 
    
-    
-        <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="11"><img src="/images/RHP/top_left_column.jpg" width="11" height="10" alt=" "></td>
-            <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="top_border"><img src="/images/RHP/spacer.gif" width="1" height="1" alt=" "></td>
-            <td width="11"><img src="/images/RHP/top_right_column.jpg" width="11" height="10" alt=" "></td>
-          </tr>
-        </tbody></table>
-      <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td valign="top" bgcolor="#FFF8F2" class="body">&nbsp;</td>
-            <td width="133" bgcolor="#FFF8F2"><span class="orange_12">Moving Center</span></td>
-            <td bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-          <tr>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#CCCCCC" class="left_border"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-            <td valign="top" bgcolor="#CCCCCC" class="body"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#FFF8F2"><img src="/images/RHP/grey_spacer.jpg" width="138" height="1" alt=" "></td>
-            <td bgcolor="#CCCCCC" class="right_border"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-           </tr>
-          <tr>
-            <td bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td align="center" valign="top" bgcolor="#FFF8F2" class="body"></td>
-            <td bgcolor="#FFF8F2" class="body">
-           <p class="body">- <a href="http://acc.apartments.com/adclick/CID=000013fa0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Find a Roommate</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000013fb0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Moving Quotes</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000013fc0000000000000000/?&amp;partner=rentalhomesplus">Rent a Truck</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000013fd0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Packing Supplies</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=00001ddc0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">You Pack, We Move</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000016080000000000000000/?&amp;partner=rentalhomesplus" target="_blank" class="body_link">Connect Utilities</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000014010000000000000000/?&amp;partner=rentalhomesplus">Community Info</a><br><br>
-            </p>
-            <p class="body"><strong>Credit Resources</strong><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000014040000000000000000/?&amp;partner=rentalhomesplus" class="body_link" target="_blank">Free Credit Reports</a><br>
-            - <a href="http://acc.apartments.com/adclick/CID=000014050000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Free Checking</a>
-            </p></td>
-            <td bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-
-        </tbody></table>
-      <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="11"><img src="/images/RHP/bottom_left_column.jpg" width="11" height="10" alt=" "></td>
-            <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="bottom_border"><img src="/images/RHP/spacer.gif" width="1" height="1" alt=" "></td>
-            <td width="11"><img src="/images/RHP/bottom_right_column.jpg" width="11" height="10" alt=" "></td>
-          </tr>
-        </tbody></table>
+ <div id="xsnazzy">
+<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+<div class="xboxcontent">
+<div class="pad5" id="navtop" style="border-bottom: 1px solid #CCCCCC;">
+<span class="orange_12">Moving Center</span>
+</div>    
+<div class="pad5">
+<ul class="left_box_link">
+	<li>- <a href="http://acc.apartments.com/adclick/CID=000013fa0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Find a Roommate</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000013fb0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Moving Quotes</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000013fc0000000000000000/?&amp;partner=rentalhomesplus">Rent a Truck</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000013fd0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Packing Supplies</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=00001ddc0000000000000000/?&amp;partner=rentalhomesplus" class="body_link">You Pack, We Move</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000016080000000000000000/?&amp;partner=rentalhomesplus" target="_blank" class="body_link">Connect Utilities</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000004600000000000000000/?&amp;partner=rentalhomesplus" class="left_box_link">Connect Cable</a></li> 
+<li>- <a href="http://acc.apartments.com/adclick/CID=000003310000000000000000/?&amp;partner=rentalhomesplus" class="left_box_link">Connect Phone</a></li> 
+<li>- <a href="http://acc.apartments.com/adclick/CID=0000239e0000000000000000/?&amp;partner=rentalhomesplus" class="left_box_link">Connect Internet</a></li> 
+<li>- <a href="http://acc.apartments.com/adclick/CID=000021030000000000000000/?&amp;partner=rentalhomesplus" class="left_box_link">Auto Insurance</a></li> 
+             <li>- <a href="http://acc.apartments.com/adclick/CID=000021040000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Renters Insurance</a></li><br>
+           <li class="body"><strong>Credit Resources</strong></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000014040000000000000000/?&amp;partner=rentalhomesplus" class="body_link" target="_blank">Free Credit Reports</a></li>
+            <li>- <a href="http://acc.apartments.com/adclick/CID=000014050000000000000000/?&amp;partner=rentalhomesplus" class="body_link">Free Checking</a></li>
+    </ul>
+</div>
+</div>
+<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
+</div>
    
  
     
-        
-      <br>
-        <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="11"><img src="/images/RHP/top_left_column.jpg" width="11" height="10" alt=" "></td>
-            <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="top_border"><img src="/images/RHP/spacer.gif" width="1" height="1" alt=" "></td>
-            <td width="11"><img src="/images/RHP/top_right_column.jpg" width="11" height="10" alt=" "></td>
-          </tr>
-        </tbody></table>
-      <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td align="center" valign="top" bgcolor="#FFF8F2" class="body">&nbsp;</td>
-            <td width="133" bgcolor="#FFF8F2"><span class="orange_12"><img src="/images/RHP/renterresources.jpg" width="105" height="17" alt=" "></span></td>
-            <td bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-          <tr>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#CCCCCC" class="left_border"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-            <td align="center" valign="top" bgcolor="#CCCCCC" class="body"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-            <td background="/images/RHP/grey_spacer.jpg" bgcolor="#FFF8F2"><img src="/images/RHP/grey_spacer.jpg" width="138" height="1" alt=" "></td>
-            <td bgcolor="#CCCCCC" class="right_border"><img src="/images/RHP/grey_spacer.jpg" width="1" height="1" alt=" "></td>
-          </tr>
-          <tr>
-            <td width="4" bgcolor="#FFF8F2" class="left_border">&nbsp;</td>
-            <td width="10" align="center" valign="top" bgcolor="#FFF8F2" class="body"></td>
-            <td bgcolor="#FFF8F2" class="body"><p class="body">
-            - <a href="/RentersResources/howtobuyrentersinsurance.aspx" class="body_link">How to Buy Renter's Insurance</a><br>
-            - <a href="/RentersResources/howtocutyourenergycosts.aspx" class="body_link">How to Cut Your Energy Costs</a><br>
-            - <a href="/RentersResources/makingyourhomecomfortable.aspx" class="body_link">Making Your Home Comfortable</a><br>
-            - <a href="/RentersResources/questionstoaskwhenyourent.aspx" class="body_link">Questions to Ask When You Rent</a><br>
-            - <a href="/RentersResources/renterrights.aspx" class="body_link">Renters' Rights</a><br>
-            - <a href="/RentersResources/default.aspx" class="body_link">More...</a><br>
-            </p></td>
-            <td width="4" bgcolor="#FFF8F2" class="right_border">&nbsp;</td>
-          </tr>
-        </tbody></table>
-      <table width="151" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="11"><img src="/images/RHP/bottom_left_column.jpg" width="11" height="10" alt=" "></td>
-            <td background="/images/RHP/light_orange_background.jpg" bgcolor="#FFF8F2" class="bottom_border"><img src="/images/RHP/spacer.gif" width="1" height="1" alt=" "></td>
-            <td width="11"><img src="/images/RHP/bottom_right_column.jpg" width="11" height="10" alt=" "></td>
-          </tr>
-        </tbody></table>
-         <br>
+   <div id="xsnazzy">
+<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+<div class="xboxcontent">
+<div class="pad5" id="navtop" style="border-bottom: 1px solid #CCCCCC;">
+<span class="orange_12"><img src="../site/rhp/images/RHP/renterresources.jpg" width="105" height="17"></span>
+</div>    
+<div class="pad5">
+ <ul class="left_box_link">
+	    	<li><span style="float:left;">- </span><span style="float:left;"><a href="/RentersResources/howtobuyrentersinsurance.aspx" class="body_link">How to Buy Renter's Insurance</a></span></li>
+            <li><span style="float:left;">- </span><span style="float:left;"><a href="/RentersResources/howtocutyourenergycosts.aspx" class="body_link">How to Cut Your Energy Costs</a></span></li>
+            <li><span style="float:left;">- </span><span style="float:left;"><a href="/RentersResources/makingyourhomecomfortable.aspx" class="body_link">Making Your Home Comfortable</a></span></li>
+            <li><span style="float:left;">- </span><a href="/RentersResources/questionstoaskwhenyourent.aspx" class="body_link" style="float:left;">Questions to Ask When <br>You Rent</a></li>
+            <li><span style="float:left;">- </span><span style="float:left;"><a href="/RentersResources/renterrights.aspx" class="body_link">Renters' Rights</a></span></li>
+            <li><span style="float:left;">- </span><span style="float:left;"><a href="/RentersResources/default.aspx" class="body_link">More...</a></span></li>
+</ul><div class="clear"></div>
+</div>
+</div>
+<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
+</div>
     
-
 
 	</div>
  
   
 
-        
-      <p>&nbsp;</p></td>
-  </tr>
-</tbody></table>
-
+     
 </div></td>
 <td width="15px"></td>
 <td><br><table cellspacing="0" cellpadding="0" width="585" border="0">
@@ -341,8 +514,8 @@ window.open("/view_RHPbookmark.asp","book","height=300,width=440,scrollbars=1");
 <div class="body" style="text-align: left; margin-right:auto; margin-left:auto; width: 760px;">
 <p class="body">Looking for a <strong>rental home, condo or apartment and house for rent?</strong> <strong>RentalHomesPlus</strong> offers a <strong>FREE SEARCH</strong> for house rentals and has thousands of houses for rent  property listings. We connect renters to homes for rent or apartment or  vacation rental properties by marketing our <a href="http://www.rentalhomesplus.com/managercenter/?lid=Mgr_Center_Tab"><strong>home rental services </strong></a>to <strong>landlords</strong>, <strong>rental property managers</strong><strong>, </strong><strong>real estate brokers</strong> and <strong>real  estate agents</strong> in every home rental market in the U.S.  We strive to bring you the highest quality results for your rental home,  apartment, townhouse rental or condo rental search, which is why each home  rental property has a full description, including photos and amenity  information. Thanks for visiting <strong>RentalHomesPlus</strong>.</p>
 
-  <div style="text-align: center; margin-right:auto; margin-left:auto; width: 760px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8px; color: #333333; line-height: 23px;" align="center">
-    <p><a class="home_links" href="/RHP/aboutus.aspx">About Us</a> | <a class="home_links" href="http://www.classifiedventures.com/tomcat_hr/cv_job_listings.jsp">Careers</a> | <a class="home_links" href="/newscenter/">News Center</a> | <a class="home_links" href="/RHP/sitemap.aspx">Sitemap</a> | <a class="home_links" href="/managercenter/?lid=Mgr_Center_Tab">Manager Center</a> | <a class="home_links" href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a> | <a class="home_links" href="/RHP/contactus.aspx">Contact Us</a> | <a class="home_links" href="/RHP/links.aspx">Links</a> </p>
+  <div style="text-align: center; margin-right:auto; margin-left:auto; width: 760px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8px; color: #333333; line-height: 23px;">
+    <p><a class="home_links" href="/RHP/aboutus.aspx">About Us</a> | <a class="home_links" href="http://www.classifiedventures.com/tomcat_hr/cv_job_listings.jsp">Careers</a> | <a class="home_links" href="/newscenter/">News Center</a> | <a class="home_links" href="/RHP/sitemap.aspx">Sitemap</a> | <a class="home_links" href="/managercenter/?lid=Mgr_Center_Tab">Manager Center</a> | <a class="home_links" href="/managercenter/?lid=Mgr_Center_Tab">Post a Listing</a> | <a class="home_links" href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a> | <a class="home_links" href="/RHP/contactus.aspx">Contact Us</a> | <a class="home_links" href="/RHP/links.aspx">Links</a> </p>
 	  
 	  <p><a class="home_links" href="http://www.rentalhomesplus.com/RHP_fraud_awareness_tips.htm"><span class="fraudlink">Consumer Alert: Avoiding Scams and Fraud</span></a></p>
  
@@ -364,71 +537,6 @@ window.open("/view_RHPbookmark.asp","book","height=300,width=440,scrollbars=1");
 </div>
 
 </div>
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-classifiedventures.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM541029OPZD";//ACCOUNT NUMBER(S)
-hbx.pn="privacy";//PAGE NAME(S)
-hbx.mlc="footerlinks/rentalhomesplus.com";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1=top.location.href;//CUSTOM 1: URL
-hbx.hc2="national";//CUSTOM 2: AFFILIATE NAME
-//hbx.hc2=hbx.hc2.toLowerCase();//CUSTOM 2: AFFILIATE NAME
-hbx.hc3="RentalHomesPlus|national";//CUSTOM 3: DOMAIN and AFFILIATE NAME
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
-
 
 
 </body></html>
