@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213024527id_/http%3A//www.donorschoose.org/help/privacy_policy.html%3Fzone%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619222317id_/http%3A//www.donorschoose.org/help/privacy_policy.html%3Fzone%3D0) for the most accurate reproduction.*
 
 # DonorsChoose.org: Privacy Policy
+
+Crate and Barrel  
+
+
+Budget Rent A Car  
+
 
 | 
 
