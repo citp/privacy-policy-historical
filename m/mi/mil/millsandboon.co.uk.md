@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104034032id_/http%3A//www.millsandboon.co.uk/cgi-bin/millsandboon.filereader%3F461262c700a12d24273f58d0dc9e068f%2BEN/catalogs/1129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619135340id_/http%3A//www.millsandboon.co.uk/cgi-bin/millsandboon.filereader%3F461262c700a12d24273f58d0dc9e068f%2BEN/catalogs/1129) for the most accurate reproduction.*
 
 # Mills & Boon - Privacy Policy
 
