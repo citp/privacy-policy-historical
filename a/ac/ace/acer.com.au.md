@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117003647id_/http%3A//www.acer.com.au/acer/akc/marcom.nsf/Page/Marketing_Guidelines_Privacy_Policy%3Fopen%26current%3D19%26ms%3Dexpand%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619141850id_/http%3A//www.acer.com.au/acer/akc/marcom.nsf/Page/Marketing_Guidelines_Privacy_Policy%3Fopen%26current%3D20%26ms%3Dexpand%26) for the most accurate reproduction.*
 
 # Acer Computer Australia - Marketing Guidelines
 
