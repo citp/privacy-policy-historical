@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613061054id_/http%3A//www.automd.com/legal/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619162708id_/http%3A//www.automd.com/Content/Misc/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# autoMD.com - Company Information
+# AutoMD | Privacy Policy
 
-|  |  | 
+## AutoMD.com and your privacy
 
 AutoMD.com, LLC respects the privacy of visitors to our website. Please read this Privacy Statement carefully so that you understand what information we collect through our website and what we do with that information.
 
@@ -14,17 +14,17 @@ Children should always get permission from their parents before sending any info
 
 The information we gather falls into two categories: (1) information supplied by visitors to the site when they list a car for sale, perform a search, or initiate a transaction, and (2) tracking information gathered as visitors navigate through our website. Third-party providers featured on or linked to by our website, such as vendors of products and services offered through our site by third parties, may be gathering information, as well, through processes we don't control.
 
-**a. Email Addresses**
-
-If you provide us your email address, we may email you about our website or our services, or to inquire about your experience using our website or sites operated by others. From time to time, we'll also send you emails that may include automotive information; special promotions and other commercial offers that we think may be of interest to you. Though we hope you'll find these communications informative and useful, if you don't, you can always unsubscribe by following the simple instructions included in each email. And you can opt-out of receiving these types of commercial offers at all by indicating, when you list a car for sale or inquire about a car listed on our website, that you'd prefer not to receive these communications.
-
-**b. Cookies**
-
-To help us tailor our website to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in text file, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see the same ad repeatedly during a single visit to our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read unrelated data off your hard drive. Our advertisers and those who provide products and/or services through our site may also assign their own cookies, a process we don't control. We don't have access to these cookies or to any information they contain. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. Our "Find Your Car" feature, for example, won't work properly if you configure your browser not to accept cookies.
-
-**c. Browser Level Information**
-
-Our web server automatically collects limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to make our site as useful as we can for as many users as possible.
+> **a. Email Addresses**
+> 
+> If you provide us your email address, we may email you about our website or our services, or to inquire about your experience using our website or sites operated by others. From time to time, we'll also send you emails that may include automotive information; special promotions and other commercial offers that we think may be of interest to you. Though we hope you'll find these communications informative and useful, if you don't, you can always unsubscribe by following the simple instructions included in each email. And you can opt-out of receiving these types of commercial offers at all by indicating, when you list a car for sale or inquire about a car listed on our website, that you'd prefer not to receive these communications.
+> 
+> **b. Cookies**
+> 
+> To help us tailor our website to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in text file, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see the same ad repeatedly during a single visit to our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read unrelated data off your hard drive. Our advertisers and those who provide products and/or services through our site may also assign their own cookies, a process we don't control. We don't have access to these cookies or to any information they contain. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. Our "Find Your Car" feature, for example, won't work properly if you configure your browser not to accept cookies.
+> 
+> **c. Browser Level Information**
+> 
+> Our web server automatically collects limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to make our site as useful as we can for as many users as possible.
 
 **3\. USE AND DISCLOSURE OF INFORMATION**
 
@@ -45,6 +45,3 @@ Information we gather on our website is stored within AutoMD-controlled database
 **7\. CHANGES TO THIS PRIVACY STATEMENT**
 
 AutoMD reserves the right to change this Privacy Statement without prior notice.
-
-|  |   
----|---|---|---|---
