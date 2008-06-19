@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiejeebies.co.uk privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207160739id_/http%3A//www.freebiejeebies.co.uk/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiejeebies.co.uk privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619214500id_/http%3A//consoles.freebiejeebies.co.uk/Privacy.html) for the most accurate reproduction.*
 
 # 
 
