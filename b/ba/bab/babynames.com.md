@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229013308id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619074000id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
