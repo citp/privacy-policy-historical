@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214025549id_/http%3A//www.benefitnews.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619134139id_/http%3A//www.benefitnews.com/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Employee Benefit News
 
@@ -47,7 +47,7 @@ We don't like it, we don't support it, and we don't engage in it. If you do not 
 **Customer Service**
 
 [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com)  
-(800) 221-1809
+(888) 280-4820
 
 **Questions?**
 
