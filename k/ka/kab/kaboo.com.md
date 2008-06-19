@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kaboo.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212002539id_/http%3A//newyork.handylist.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaboo.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620000922id_/http%3A//sandiego.handylist.org/help/privacy) for the most accurate reproduction.*
 
-# Handylist: Privacy
-
-## Privacy Policy
+# Handylist.org - Privacy
 
 This Privacy Policy is effective as of June 12, 2007.
 
