@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214191951id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050951id_/http%3A//www.irishjobs.ie./about/privacy.asp) for the most accurate reproduction.*
 
 # Irish Jobs - Irish Jobs Privacy Policy
 
@@ -94,7 +94,7 @@ To store your CV in the database you **must** remove confidential details such a
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.
 
-In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from recruiters' access if they have not been updated for a period of 120 days. If you wish your CV to remain in the searchable database, you must update your details at least once every 120 days. 
+In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from recruiters' access if they have not been updated for a period of 12 months. If you wish your CV to remain in the searchable database, you must update your details at least once every 12 months. 
 
   * **Career Update Service  
 **The Career Update service within My Career Manager offers users the ability to register their personal details to receive a monthly email detailing career information and site service information. 
