@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2007-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070323172354id_/http%3A//www.wowko.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619132902id_/http%3A//www.wowko.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
 
 # Privacy Policy : Wowko.com, Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
 
@@ -35,11 +35,6 @@ You can use most of the Site without providing personal information; however, yo
 If you do not want Wowko to communicate with you about other offers regarding Wowko products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option when prompted stating that you do not wish to receive marketing messages from Wowko.
 
 ### Non-Personally Identifiable Information
-
-#### Internet Protocol (IP) Address
-
-Your current IP address (127.0.0.1) has been stored.  
-Your information is safe with us!
 
 #### Cookies
 
