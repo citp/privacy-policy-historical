@@ -1,255 +1,181 @@
-<!--The following is the downloaded HTML source of the hockeybuzz.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225134715id_/http%3A//www.hockeybuzz.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeybuzz.com privacy policy that was archived on 2008-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619204216id_/http%3A//www.hockeybuzz.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>HockeyBuzz.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="verify-v1" content="fXjop8GTjIPdSkWHv0QK+UcjvzwgITyKv4PNCw4yjzw=">
-<meta name="Keywords" content="hockey nhl trade rumors eklund">
-<meta name="Description" content="Hockey Trade Rumors">
-<script type="text/javascript" src="http://www.hockeybuzz.com/includes/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.hockeybuzz.com/includes/js/thickbox.js"></script>
-<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
-<link href="http://www.hockeybuzz.com/includes/styles5.css" rel="stylesheet" type="text/css">
-<link href="http://www.hockeybuzz.com/includes/js/thickbox.css" rel="stylesheet" type="text/css">
-<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/structure.css" rel="stylesheet" type="text/css">
-<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/style.css" rel="stylesheet" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="HockeyBuzz.com" href="http://www.hockeybuzz.com/rss/main.rss">
-<script type="text/javascript">
-
-var enablepersist="on" //Enable saving state of content structure using session cookies? (on/off)
-var collapseprevious="yes" //Collapse previously open content when opening present? (yes/no)
-
-if (document.getElementById){
-document.write('<style type="text/css">')
-document.write('.switchcontent{display:none;}')
-document.write('</style>')
-}
-
-function getElementbyClass(classname){
-ccollect=new Array()
-var inc=0
-var alltags=document.all? document.all : document.getElementsByTagName("*")
-for (i=0; i<alltags.length; i++){
-if (alltags[i].className==classname)
-ccollect[inc++]=alltags[i]
-}
-}
-
-function contractcontent(omit){
-var inc=0
-while (ccollect[inc]){
-if (ccollect[inc].id!=omit)
-ccollect[inc].style.display="none"
-inc++
-}
-}
-
-function expandcontent(cid){
-if (typeof ccollect!="undefined"){
-if (collapseprevious=="yes")
-contractcontent(cid)
-document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="block")? "block" : "none"
-}
-}
-
-function revivecontent(){
-contractcontent("omitnothing")
-selectedItem=getselectedItem()
-selectedComponents=selectedItem.split("|")
-for (i=0; i<selectedComponents.length-1; i++)
-document.getElementById(selectedComponents[i]).style.display="block"
-}
-
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-function getselectedItem(){
-if (get_cookie(window.location.pathname) != ""){
-selectedItem=get_cookie(window.location.pathname)
-return selectedItem
-}
-else
-return ""
-}
-
-function saveswitchstate(){
-var inc=0, selectedItem=""
-while (ccollect[inc]){
-if (ccollect[inc].style.display=="block")
-selectedItem+=ccollect[inc].id+"|"
-inc++
-}
-
-document.cookie=window.location.pathname+"="+selectedItem
-}
-
-function do_onload(){
-getElementbyClass("switchcontent")
-if (enablepersist=="on" && typeof ccollect!="undefined")
-revivecontent()
-}
+	<title>HockeyBuzz.com</title>
 
 
-if (window.addEventListener)
-window.addEventListener("load", do_onload, false)
-else if (window.attachEvent)
-window.attachEvent("onload", do_onload)
-else if (document.getElementById)
-window.onload=do_onload
+	<!-- META TAGS -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Keywords" content="hockey nhl trade rumors eklund">
+	<meta name="Description" content="Hockey Trade Rumors">
+	
+	<!-- CSS INCLUDES -->
+	<link href="http://www.hockeybuzz.com/includes/master7.css" rel="stylesheet" type="text/css">
+	<link href="http://www.hockeybuzz.com/includes/js/thickbox.css" rel="stylesheet" type="text/css">
+	<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/structure.css" rel="stylesheet" type="text/css">
+	<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/style.css" rel="stylesheet" type="text/css">
+	
+	<!-- JS INCLUDES -->
+	<script type="text/javascript" src="http://www.hockeybuzz.com/includes/js/jquery.js"></script>
+	<script type="text/javascript" src="http://www.hockeybuzz.com/includes/js/global.js"></script>
+	<script type="text/javascript" src="http://www.hockeybuzz.com/includes/js/thickbox.js"></script>
+	
+	<!-- FAVICON -->
+	<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
 
-if (enablepersist=="on" && document.getElementById)
-        window.onunload=saveswitchstate
-</script><style type="text/css">.switchcontent{display:none;}</style>
+	<!-- RSS -->
+	<link rel="alternate" type="application/rss+xml" title="HockeyBuzz.com" href="http://www.hockeybuzz.com/rss/main.rss">
+		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">
+	  	GS_googleAddAdSenseService("ca-pub-8064776348610841");
+  		GS_googleEnableAllServices();
+	</script>
+	<script type="text/javascript">
+		 	 		GA_googleAddSlot("ca-pub-8064776348610841", "default_lb");
+			 	 		GA_googleAddSlot("ca-pub-8064776348610841", "default_mb");
+			 	 		GA_googleAddSlot("ca-pub-8064776348610841", "default_ss");
+				</script>
+	<script type="text/javascript">
+  		GA_googleFetchAds();
+	</script>
 </head>
 <body>
-<div id="fullsite" style="width:1028px;">
+<div id="header" class="header_bg">
+	<div class="box1000 header_bg">
+		<a href="http://www.hockeybuzz.com/"><img src="/images/shim.gif" height="130" width="275"></a>
+		<div id="navigation">
+			<table cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td>
+						<a href="javascript:void(0);" onclick="toggleBloggers();">Bloggers <img src="/images/menuarrow.gif"></a><a>
+						</a><a href="/chart.php">Rumor Chart</a>
+						<a href="/fantasy">Fantasy</a>
+						<a href="/boards">Forums</a>
+						<a href="http://shop.hockeybuzz.com">Store</a>
+						<a href="/chat">Chat</a>
+						<a href="/power_rankings">Power Rankings</a>
+						<a href="/seasonticket.php">Season Ticket</a>
+						<a href="/video.php">Video</a>
+						<a href="/rss.php">RSS</a>
+						<a href="/search.php">Search</a>
+						<a href="http://my.hockeybuzz.com">My HockeyBuzz</a>
+					</td>
+					<td align="right">
+											<a href="#TB_inline?height=250&amp;width=300&amp;inlineId=login" class="thickbox" style="color:#FC0;">Login</a><a>
+						</a><a href="/register.php" style="color:#FC0;">Free Registration!</a><a>
+											
+					</a></td>
+				</tr>
+			</tbody></table>
 
-
-<!-- HEADER -->
-<div id="header" style="width:1028px; height:100px; background: url(/images/header.jpg); position:relative;">
-	<div id="bloggerpulldown" style="position:absolute; top:68px; left:10px; background-color:#036; padding:4px; border:1px #194775 solid; color:#CCC; font-weight:bold; font-size:10px;">
-		<form method="get" style="margin:0px;" action="/blog.php">
-		&nbsp;&nbsp;BLOGS&nbsp;&nbsp;
-		<select name="blogger_id">
-		<option value="1"> Eklund</option>
-<option value="3">Howard Berger</option>
-<option value="91">Gerry Bourdeau</option>
-<option value="48">Alec Brownscombe</option>
-<option value="60">Cassie Campbell</option>
-<option value="88">Puneet Chopra</option>
-<option value="52">Al Cimaglia</option>
-<option value="101">Bill Clement</option>
-<option value="86">Scoop Cooper</option>
-<option value="104">Brian Engblom</option>
-<option value="82">Eric Engels</option>
-<option value="94">Brandon Felder</option>
-<option value="4">Stan Fischler</option>
-<option value="102">Mark Gage</option>
-<option value="85">B.D. Gallof</option>
-<option value="105">Scott Gallof</option>
-<option value="59">Ryan Garner</option>
-<option value="6"> GARTH</option>
-<option value="67">Shawn Gates</option>
-<option value="16">Kevin Gibson</option>
-<option value="33">Celebrity Guests</option>
-<option value="81">Stan Hauseman</option>
-<option value="98">Steven Hindle</option>
-<option value="68"> HockeyBuzz Podcasts</option>
-<option value="53">Patrick Hoffman</option>
-<option value="90">Jon Jordan</option>
-<option value="75">Matt Kalman</option>
-<option value="56">Matt Karash</option>
-<option value="76">Rob Kerr</option>
-<option value="84">Adam Kirshenblatt</option>
-<option value="103">Eric Lapierre</option>
-<option value="14">Kevin Lee</option>
-<option value="89">Jan Levine</option>
-<option value="92">Adam Lippman</option>
-<option value="24">Paul McCann</option>
-<option value="73">Michael McDonald</option>
-<option value="45">Bill Meltzer</option>
-<option value="54">Brian Metzer</option>
-<option value="95">Carla Muller</option>
-<option value="106">Roger Mussa</option>
-<option value="2">Tim Panaccio</option>
-<option value="100">Darren Pang</option>
-<option value="21">Adam Poirier</option>
-<option value="78">Brad Ratgen</option>
-<option value="99">Julie Robenhymer</option>
-<option value="38">Mike Ross</option>
-<option value="23">Dan Russell</option>
-<option value="47">Anthony SanFilippo</option>
-<option value="96">Eric Smith</option>
-<option value="93">Dan Spiegel</option>
-<option value="77">Mark Spizzirri</option>
-<option value="40">Kat Stein</option>
-<option value="83">Doug Stolhand</option>
-<option value="5">Andy Strickland</option>
-<option value="32"> The Fan Blog</option>
-<option value="72"> The Hockey Dad Blog</option>
-<option value="39">Joe Thistel</option>
-<option value="51">Daniel Tolensky</option>
-<option value="61">Shaune Vetter</option>
-<option value="79">Katie Villeneuve</option>
-<option value="20">Dan Wallace</option>
-<option value="42">HockeyBuzz Wire</option>
-<option value="80">Sam Woo</option>
-<option value="64"> XM Home Ice Hot Topic</option>
-	
-		</select>
-
-		<input type="submit" value="GO">
-		</form>
+		</div>
+		<div id="leaderboard">
+					<script type="text/javascript">
+  			GA_googleFillSlot("default_lb");
+		</script>
+				</div>
 	</div>
-
-	
-	<div id="textad" style="color:#FFF; font-weight:bold; font-size:11px; position:absolute; top:4px; left:290px;">
-		<table cellpadding="0" cellspacing="0" align="center"><tbody><tr><td>
-					<a style="color:#FFF; text-decoration:none;" href="http://my.hockeybuzz.com" target="_blank"><img src="/images/myhbmini.gif" border="0" style="float:left; padding-right:5px;">Want your own blog on HockeyBuzz? <span style="color:#F90;">Get started on My HockeyBuzz now!</span></a>
-					</td></tr></tbody></table>
-		
+</div>
+<div id="login" style="display:none;">
+	<div id="login_form">
+		<form method="post" action="http://www.hockeybuzz.com/login.php">
+		<h1>Log In</h1>
+		<h3>Username:</h3>
+                <input type="text" name="username">
+		<h3>Password:</h3>
+		<input type="password" name="password"><br>
+		<input type="submit" value="Login" style="width:100px;"><br>
+               	<a href="http://www.hockeybuzz.com/register.php">Sign up for free!</a><br>
+		<a href="http://www.hockeybuzz.com/forgot_password.php">Forgot Password?</a>
+               	<input type="hidden" name="forward" value="http://hockeybuzz.com">
+      	</form>
 	</div>
-	
-	<div id="account" style="color:#FFF; font-weight:bold; font-size:11px; position:absolute; top:72px; left:300px; width:700px;">
-				<div id="login" style="float:right;">
-                        <form method="post" action="http://www.hockeybuzz.com/login.php" style="margin:0px; padding-top:2px; text-align:center;">
-				<table>
-					<tbody><tr>
-                                		<td>USERNAME:</td> 
-						<td><input type="text" name="username" size="15"></td>
-						<td>PASSWORD:</td>
-						<td><input type="password" name="password" size="15"></td>
-						<td><input type="submit" value="GO"></td>
-						<td><a href="http://www.hockeybuzz.com/register.php">Sign up for free!</a></td>
-						<td><a href="http://www.hockeybuzz.com/forgot_password.php">Forgot Password?</a></td>
-					</tr>
-				</tbody></table>
-                                <input type="hidden" name="forward" value="http://hockeybuzz.com/privacy_policy.php">
-                        </form>
-			</div>
-                        	</div>
-
 </div>
-<!-- END HEADER -->
 
-<!-- NAVIGATION BAR -->
-<div id="navigation" style="background: url(/images/navbg.jpg) repeat-x; height:24px; width:1028px; border-right:#E0E5FB 1px solid; position:relative;">
-	<table cellpadding="0" cellspacing="0" width="100%">	
-		<tbody><tr>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/index.php">Home</a></td>
-						<td width="" nowrap=""><a href="http://www.hockeybuzz.com/video.php">Video</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/fantasy">Fantasy</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/boards">Forums</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/chat">Chat Room</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/power_rankings">Power Rankings</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/seasonticket.php">Season Ticket</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/rss.php">RSS</a></td>
-			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/faq.php">FAQ</a></td>
-			<td width="" nowrap="" style="background:url(/images/navbgblue.gif);"><a href="http://my.hockeybuzz.com">My HockeyBuzz</a></td>
-			<td width="80%" nowrap=""></td>
-		</tr>
-	</tbody></table>
+<div id="bloggers">
+	<div class="box1000">
+		<div style="position:absolute; top:4px; left:950px; font-size:10px;">[<a href="javascript:void(0);" onclick="toggleBloggers();" style="font-size:10px; color:#900;">CLOSE</a>]</div>
+		<h1>Hockeybuzz Bloggers</h1>
+		<table>
+		<tbody><tr><td width="190">                        		<img src="/images/teams/mini/ekl.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=1"> Eklund</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/sj.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=110">Mark Freitas</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=84">Adam Kirshenblatt</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/pho.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=100">Darren Pang</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/stl.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=5">Andy Strickland</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/tor.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=3">Howard Berger</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/van.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=102">Mark Gage</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/mon.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=103">Eric Lapierre</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/edm.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=111">Scott Pattison</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=51">Daniel Tolensky</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/bos.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=91">Gerry Bourdeau</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/nyi.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=85">B.D. Gallof</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/ott.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=14">Kevin Lee</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/mon.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=112">Yvon Pedneault</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/cgy.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=61">Shaune Vetter</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/tor.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=48">Alec Brownscombe</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/nyr.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=105">Scott Gallof</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=89">Jan Levine</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/stl.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=109">Mike Rainey</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/ott.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=79">Katie Villeneuve</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/col.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=88">Puneet Chopra</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/sj.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=59">Ryan Garner</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/dal.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=113">Josh Lile</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/min.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=78">Brad Ratgen</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/nj.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=80">Sam Woo</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/chi.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=52">Al Cimaglia</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/buf.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=6"> GARTH</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/edm.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=92">Adam Lippman</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=99">Julie Robenhymer</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=33"> Celebrity Guests</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=101">Bill Clement</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=67">Shawn Gates</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/sj.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=115">Danielle Marchell</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=38">Mike Ross</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=68"> HockeyBuzz Podcasts</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/bos.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=116">Jesse Connolly</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/tor.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=16">Kevin Gibson</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/nas.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=24">Paul McCann</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/phi.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=117">EJ Russell</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=32"> The Fan Blog</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=86">Scoop Cooper</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/atl.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=81">Stan Hauseman</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/phi.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=45">Bill Meltzer</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=107">Frank Seravalli</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=42">HockeyBuzz Wire</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/stl.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=108">Chris DeGroat</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/was.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=98">Steven Hindle</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/pit.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=54">Brian Metzer</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/clb.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=96">Eric Smith</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=64"> XM Home Ice Hot Topic</a>
+                        		</td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/col.gif" height="30"> <a style="font-weight:bold;" href="/blog.php?blogger_id=104">Brian Engblom</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/tb.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=90">Jon Jordan</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/cgy.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=114">Tom Mix</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/fla.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=93">Dan Spiegel</a>
+                        		</td><td></td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/mon.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=82">Eric Engels</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/car.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=56">Matt Karash</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/la.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=95">Carla Muller</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/det.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=77">Mark Spizzirri</a>
+                        		</td><td></td><td></td></tr><tr><td width="190">                        		<img src="/images/teams/mini/nas.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=94">Brandon Felder</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/shim.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=40">Kat Kealy</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/nj.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=106">Roger Mussa</a>
+                        		</td><td></td><td width="190">                        		<img src="/images/teams/mini/ana.gif" height="30"> <a style="font-weight:normal;" href="/blog.php?blogger_id=83">Doug Stolhand</a>
+                        		</td><td></td><td></td></tr>		</tbody></table>
+	</div>
 </div>
-<!-- END NAVIGATION BAR -->
 
-<div id="main" style="width:1028px; float:left; background: url(/images/standardbg.gif)  repeat-y ; padding-bottom:10px;">
-<div style="padding:50px;">
-<h1>Privacy Policy</h1>
+	<div id="whitebar" class="whitebar_bg">
+		<div class="box1000 whitebar_bg">
+			<h1>HockeyBuzz Privacy Policy</h1>		</div>
+	</div>
+	<div id="content" class="content_bg">
+	<div class="box1000 content_bg">
+		<!-- BEGIN BOX -->
+		<div id="box" style="width:998px; float:none; ">
+			<div style="padding:5px; border:1px solid #FFF;">
+		<div style="padding:20px;">
 <b>General </b>
 <br><br>
 HockeyBuzz respects the privacy of every individual who visits hockeybuzz.com (the "Website") or responds to our guestbook, contests, or interactive advertisements. HockeyBuzz' Privacy Policy outlines the information HockeyBuzz will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising. 
@@ -298,16 +224,22 @@ Ultimately, your financial information is protected by the password you created 
 <br><br>
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Website of any major changes for at least 30 days following the change.
 </div>
+			</div>
+		</div>	
+		<!-- END BOX -->
+			</div>
 </div>
-<div id="footer" style="float:left; width:1028px; padding:10px; color:#FFF;">
-	<table width="1020">
+<div id="footer" class="footer_bg">
+	<div class="box1000">
+	<div style="padding:5px;" class="footer_bg">
+	<table width="100%">
 		<tbody><tr>
 			<td width="1%">
 			<img src="/images/blacklogo.jpg" style="float:left; padding-right:15px;">
 			</td>
 			<td>
-			<b><a style="color:#FFF;" href="http://www.hockeybuzz.com/contact.php">Contact Us</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/privacy_policy.php">Privacy Policy</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/terms_of_use.php">Terms of Use</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/rules.php">Code of Conduct</a> </b><br>
-			Copyright © 2005-2007 Eklund's Hockey, LCC. All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form. Please click above for legal restrictions and terms of use applicable to this site. Use of this site signifies your agreement to the Terms of Service.
+			<b><a style="color:#FFF;" href="http://www.hockeybuzz.com/contact.php">Contact Us</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/privacy_policy.php">Privacy Policy</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/terms_of_use.php">Terms of Use</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/rules.php">Code of Conduct</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/faq.php">FAQ</a></b><br>
+			Copyright © 2005-2008 Eklund's Hockey, LLC. All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form. Please click above for legal restrictions and terms of use applicable to this site. Use of this site signifies your agreement to the Terms of Service.
 			</td>
 			<td width="1%">
 			 <a href="http://www.cartikahosting.com"><img src="/images/cartika.jpg" style="float:left; padding-right:15px;" border="0"></a>
@@ -315,8 +247,8 @@ Please check this privacy policy periodically to inform yourself of any changes.
 		</tr>
 	</tbody></table>
 	</div>
+	</div>
 </div>
-
 
 			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 			</script>
@@ -324,9 +256,7 @@ Please check this privacy policy periodically to inform yourself of any changes.
 			_uacct = "UA-137388-4";
 			urchinTracker();
 			</script>
-			<!-- FM Tracking Pixel -->
-<script type="text/javascript" src="http://static.fmpub.net/site/hockeybuzz"></script>
-<!-- FM Tracking Pixel -->
+			<!-- 192.168.1.20 -->
 
 
 </body></html>
