@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226152949id_/http%3A//www.payless.com/en-US/Consumer/customersupport/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619230656id_/http%3A//www.payless.com/en-US/Consumer/customersupport/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * [What is our privacy policy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#PrivacyPolicy)
-  * [What kind of information does Payless.com collect?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#InformationCollection)
-  * [How does Payless.com use my information?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#InformationUse)
-  * [Does Payless.com share my information with third parties?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#InformationSharing)
-  * [How do I access, change or delete my account information?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#InformationAccess)
-  * [How does Payless.com protect kids' privacy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#KidsPrivacy)
-  * [What are cookies? How does Payless.com use cookies on its site?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#CookieUse)
-  * [What about links to other web sites and services?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#OtherSites)
-  * [How does Payless.com protect my privacy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#SecureShopping)
-  * [Notice to California residents - Your California privacy policy rights.](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#CaliforniaPrivacyPolicy)
-  * [Amendments to our privacy policy.](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#AmendmentsPrivacyPolicy)
+  * [What is our privacy policy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#PrivacyPolicy)
+  * [What kind of information does Payless.com collect?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#InformationCollection)
+  * [How does Payless.com use my information?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#InformationUse)
+  * [Does Payless.com share my information with third parties?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#InformationSharing)
+  * [How do I access, change or delete my account information?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#InformationAccess)
+  * [How does Payless.com protect kids' privacy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#KidsPrivacy)
+  * [What are cookies? How does Payless.com use cookies on its site?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#CookieUse)
+  * [What about links to other web sites and services?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#OtherSites)
+  * [How does Payless.com protect my privacy?](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#SecureShopping)
+  * [Notice to California residents - Your California privacy policy rights.](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#CaliforniaPrivacyPolicy)
+  * [Amendments to our privacy policy.](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#AmendmentsPrivacyPolicy)
 
 
 
@@ -36,7 +36,7 @@ Topeka, KS 66607
 
 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## What kind of information does Payless.com collect?
 
@@ -54,7 +54,7 @@ We use Coremetrics, a third party service provider, to help us gather and analyz
 
 We use a third party to serve ads on our behalf across the Internet. This third party may collect anonymous information about your visits to our website. The third party reports the anonymous data they collect on our behalf back to us, which we link to our customer's personally identifiable information for the purposes of better serving you. When we merge this data, it is treated under this policy as personally identifiable information as described above. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an Action Tag, which we place on various web pages within our website or in an email that allows the third party to collect anonymous information. This third party may use information about your visits in order to provide ads about goods and services of interest to you. If you would like more information about this practice, and your choices as they relate to this practice, [click here](http://www.atlasdmt.com/privacy/). 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## How does Payless.com use my information?
 
@@ -70,7 +70,7 @@ When you browse our website or make a purchase online, we collect information on
 
 Payless.com may also use third party advertising companies to place advertising on other web sites. These advertising companies collect anonymous information about your visits to these web sites or interaction with our email through the use of “web beacons”. This technology allows them to use information about your visits to help us serve you better. Payless.com also uses web beacons to review how visitors navigate our website or interact with our email advertising. 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## Does Payless.com share my information with third parties?
 
@@ -88,13 +88,13 @@ In the unlikely event of a sale of some or all of our business, Payless.com will
 
 Payless.com reserves the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as is necessary to protect the property, interests and rights of Payless.com, its affiliates and others.
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## How do I access, change or delete my account information?
 
 To change your account information, [click here](http://www.payless.com/Account/signin.aspx) and sign in. Choose any of the menu choices to update your personal information. If you would like to have your account removed from Payless.com, please contact Payless.com Customer Service at 1-877-452-7500.
 
-To unsubscribe from Payless email, [click here](http://www.payless.com/Account/signin.aspx) and sign in. Click on Update Email Profile. Enter your email address and on the next screen choose Unsubscribe. If you are not a member of Payless.com, you can unsubscribe at the bottom of each email from Payless ShoeSource.
+To unsubscribe from Payless email, [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=400751107&n=5).Enter your email address and on the next screen choose Unsubscribe.
 
 If you ask us to remove your name and address from our list, we will maintain your name in a "do not contact" file to ensure that we can honor your request. If may take up to 10 days to process your email request, and six to eight weeks to process your postal mail request, during which time you may continue to receive communications from Payless ShoeSource.
 
@@ -114,13 +114,13 @@ Topeka, KS 66607
 
 You can also review and change your personal information by logging onto [My Account](http://www.payless.com/Account/signin.aspx) on the homepage. There you can access all of your personal identifiable information that we collect online. You can correct factual errors in your personal identifiable information by sending us a request that accurately describes the error. To protect your privacy and security, we have also taken reasonable steps to verify your identity before granting access or making corrections. Please note that any requests to update your personal information may take up to 10 days for your email request, and six to eight weeks to process your postal mail request. 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## How does Payless.com protect kids' privacy?
 
 Payless.com is concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13. 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## What are cookies and how does Payless.com use cookies on its site?
 
@@ -132,13 +132,13 @@ Cookies are not required for you to browse our site; however, they are required 
 
 Cookies can be modified or disabled through your browser options. If you turn off cookies in your browser, we will not be able to recognize you as a registered user and allow you access to your account information, including items stored in your shopping bag. If you need assistance, please refer to your browser's detailed help files.
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## What about links to other web sites and services?
 
 The Payless.com website may contain links to other sites. You should review those site policies before providing any personal information, as we do not control the privacy policies or practices of these web sites. Payless.com provides links solely for the convenience and information of our visitors. We do not share your information with other parties.
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## How does Payless.com protect my privacy?
 
@@ -158,7 +158,7 @@ In the event of unauthorized use of your credit card, you must notify your credi
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Payless.com will cover the entire liability to you, up to the full $50 amount. Payless.com will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made at Payless.com while using the secure server. 
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## Notice to California Residents - Your California Privacy Rights.
 
@@ -166,7 +166,7 @@ In addition to other rights described in the Privacy Policy, a California reside
 
 A list of the categories of personal information disclosed to such third parties during the immediately preceding calendar year: The names and address of such third parties that received the personal information during the preceding calendar year. All requests for such information must be in writing and sent to: Attention: Payless.com Customer Service, 3231 SE 6th Avenue, Topeka, KS 66607
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
 
 ## Amendments to our privacy policy.
 
@@ -176,4 +176,4 @@ This Privacy Policy was last updated on 09/20/2006.
 
 Effective October 1, 2006
 
-[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRCACHEHINT=NoModifyGuest#menu)
+[menu](http://www.payless.com/Templates/ConsumerTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bAA69AE7A-F01E-44CC-8E75-E1B1D85E2DF0%7d&NRORIGINALURL=%2fen-US%2fConsumer%2fCustomerSupport%2fPrivacy%2ehtm&NRCACHEHINT=NoModifyGuest#menu)
