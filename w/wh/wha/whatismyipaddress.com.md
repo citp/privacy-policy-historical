@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230020152id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050246id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
 
 # What Is My IP Address? - Our Commitment To Privacy
 
-  
+## Our Commitment To Privacy
+
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our site. 
 
 **The Way We Use Information**
@@ -32,8 +33,6 @@ Please be careful and responsible whenever you are online. Should you choose to 
 **Changes to this policy**
 
 WhatIsMyIPAddress.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
-
-[](http://whatismyipaddress.com/ads/adclick.php?bannerid=78&zoneid=3&source=SP_privacy-policy&dest=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-558992-3751144%3Fsid%3Dhomepage)
 
   
 Last Updated Wednesday, July 25 2007 @ 07:14 am PDT
