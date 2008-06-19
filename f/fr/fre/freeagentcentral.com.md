@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216052926id_/http%3A//www.freeagentcentral.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619164712id_/http%3A//freeagentcentral.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - - FreeAgent Central
+# Our Privacy Policy - FreeAgent Central
 
-Version 2.0: This policy was last updated on 20th August 2007. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though. 
+**Version 3.0:** This policy was last updated on 5th February 2008. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though. 
 
 ## You Own and Control Your Data
 
@@ -45,7 +45,7 @@ In order to get the most from FreeAgent, you need to enter information about you
 
 ## Credit Card Information
 
-Once the beta test and any free trial period is over, you need to provide payment details to start your subscription to the service. This information is passed directly to our payment service provider (PayPal Europe - www.paypal.co.uk/uk) over an encrypted link and is never stored on our system. Ongoing billing is handled using an encrypted key to refer to your account. 
+Once your 30-day free trial is over, you need to provide payment details to start your subscription and continue using the service. This information is passed directly to our payment service provider (PayPal Europe - www.paypal.co.uk/uk) over an encrypted link and is never stored on our system. Ongoing billing is handled using an encrypted key to refer to your account. 
 
 ## Exporting your Data
 
