@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213065251id_/http%3A//www.travelindex.com/world/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D20%26Itemid%3D68) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619132326id_/http%3A//www.travelindex.com/world/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D20%26Itemid%3D68) for the most accurate reproduction.*
 
 # Travelindex. Simply! The world's largest travel and tourism directory. What's your destination? - Privacy
 
