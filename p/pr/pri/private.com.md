@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228125128id_/http%3A//www.private.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619112420id_/http%3A//www.private.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Private - The hardcore adult and private xxx porn source.
 
@@ -69,10 +69,12 @@ All other visual depictions displayed on this Website are exempt from provision 
 
 Records required to be maintained pursuant to United Status Code, Title 18, Section 2257, are kept by the custodian of records at:
 
-Coldfair Holdings, Ltd  
-Nicolaou Pentadromos Centre, 9th floor, Office 908  
-3025 Limassol  
-Cyprus 
+Coldfair Holdings Ltd.,  
+Office 1002, 10th Floor,  
+Nicoloau Pentadromos Centre,  
+Thessalonikis Street,  
+3025 Limassol,  
+Cyprus. 
 
 ### Data Protection
 
