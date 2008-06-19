@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221003756id_/http%3A//www.createandcraft.com/default.aspx%3Furl%3Dprivacy.html%26utm_source%3Dfooter%26utm_medium%3Dhyperlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619084106id_/http%3A//www.createandcraft.com/default.aspx%3Furl%3Dprivacy.html%26utm_source%3Dfooter%26utm_medium%3Dhyperlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
