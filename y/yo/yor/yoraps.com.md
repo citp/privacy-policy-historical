@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208053210id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619073613id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
-# Yo! Raps Magazine | PRIVACY POLICY / DISCLAIMER
+# Yo! Raps Magazine | PRIVACY POLICY/DISCLAIMER
 
-| 
-
-|  Receive alerts to your email, 2way or cellphone!   
----  
-Choose category:  
-  
-Subscribe  
-Unsubscribe  
-  
-**[](http://www.yoraps.com/advertising.php)**  
-[**
-
-[](http://www.myspace.com/stylesp)
-
-**](http://www.djbijal.com/)[](http://www.bestbuy.com/site/olspage.jsp;jsessionid=I1X1EBZSSCIZVKC4D3FVAGY?_dyncharset=ISO-8859-1&id=pcat17071&type=page&st=gorilla+Zoe&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960)
+|  | 
 
 | 
 
@@ -41,10 +27,11 @@ Your use of Yoraps.com is expressly conditioned on your acceptance of and agreem
 If you have any concerns or questions about our privacy policy or information collected on our sites, please [**contact us**](mailto:info@yoraps.com?subject=Privacy%20Policy).  
   
 ---  
- DISCLAIMER   
   
 Yo! Raps takes no responsibility or liability for any errors or inaccuracies on any page of the Yo! Raps site. 
 
 We endeavor to provide accurate information relating to each link provided (including those linked to from text, banner or button advertisements), but as linked sites are regularly updated we cannot accept responsibility for inaccurate descriptions or any of their content. 
 
-Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details. 
+Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details.   
+  
+---
