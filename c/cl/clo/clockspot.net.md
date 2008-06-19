@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clockspot.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213080151id_/http%3A//www.clockspot.net/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clockspot.net privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619111900id_/http%3A//www.clockspot.net/privacyPolicy.php) for the most accurate reproduction.*
 
 # Clockspot - Privacy Policy
 
@@ -70,6 +70,6 @@ Editing and Deleting Account Information. Security.
 
 Changes to this Privacy Policy
 
-Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. If you have questions or suggestions please [contact us](https://web.archive.org/web/20071213080151id_/http%3A//www.clockspot.net/contactUs.php). 
+Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. If you have questions or suggestions please [contact us](https://web.archive.org/web/20080619111900id_/http%3A//www.clockspot.net/contactUs.php). 
 
 Effective as of last update on: June 29, 2007.
