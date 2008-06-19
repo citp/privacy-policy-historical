@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewresearch.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210102957id_/http%3A//pewresearch.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewresearch.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050947id_/http%3A//pewresearch.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
