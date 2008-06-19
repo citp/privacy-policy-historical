@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216015809id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619053655id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,3 @@ You may reconfigure your computer to accept cookies again by following these ins
 
 To download a current version of Netscape Navigator, go to:  
 <http://home.netscape.com/computing/download/index.html>
-
-David Lloyd Leisure Ltd, registered office: 4th Floor, St Alphage House, 2 Fore Street, London EC2Y 5DH, registered in England No 1516226.   
-[David Lloyd conditions of purchase](https://web.archive.org/content/david_lloyd_leisure/media/The_David_Lloyd_Leisure_Limited_Conditions_of_Purchase.pdf)
