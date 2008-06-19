@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the roadfood.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606045359id_/http%3A//roadfood.com/NewsInformation/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadfood.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619212953id_/http%3A//www.roadfood.com/FAQ/Privacy.aspx) for the most accurate reproduction.*
 
-# Roadfood.com
+# Roadfood.com - Privacy Statement
 
-| [](https://web.archive.org/)  
----  
-A site devoted exclusively to finding the most memorable local   
-eateries along the highways and back roads of America   
-   
-  
-## Privacy Statement
-
-Thank you for visiting Roadfood.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Roadfood.com site. 
+Privacy Statement
 
   
-| **1.) What personally identifiable information does Roadfood.com collect?**  
+Thank you for visiting Roadfood.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Roadfood.com site.   
 ---  
+**1.) What personally identifiable information does Roadfood.com collect?**  
 Roadfood.com goal in collecting personal information is to provide you with the best and most useful content and services. 
 
 Roadfood.com collects personally identifiable information when you provide it to us, such as when you register, when you send an e-mail of a review, when you use certain services. Several of the services that we offer, may require registration as a condition of use. Once you register you are no longer anonymous to us.   
@@ -25,7 +18,4 @@ To enhance your experience with our sites, some of our web pages use "cookies." 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.   
   
 **3.) How to Contact Us**  
-If you have any questions or concerns about the Roadfood.com online policy for this site or its implementation you may contact us at Webmaster@Roadfood.com.   
-  
-  
-
+If you have any questions or concerns about the Roadfood.com online policy for this site or its implementation you may contact us using our [feedback page](https://web.archive.org/Feedback). 
