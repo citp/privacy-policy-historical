@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221054845id_/http%3A//www.pricesbolo.com/WebUI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619131455id_/http%3A//www.pricesbolo.com/WebUI/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# ..:Compare Before You Shop:..
+# Pricesbolo Privacy Policy - The Fastest growing Price comparison Portal in India
 
 PrivacyPolicy 
 
