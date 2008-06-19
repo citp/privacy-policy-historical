@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the muralsyourway.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220025823id_/http%3A//www.muralsyourway.com/myw4-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muralsyourway.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619091023id_/http%3A//www.muralsyourway.com/myw4-privacy.cfm) for the most accurate reproduction.*
 
 # Wall Murals, Custom, Murals Your Way - Privacy Policy
 
-[Home](https://web.archive.org/): [Customer Service](https://web.archive.org/web/20071220025823id_/http%3A//www.muralsyourway.com/myw4-service.cfm): 
+[Home](https://web.archive.org/): [Customer Service](https://web.archive.org/web/20080619091023id_/http%3A//www.muralsyourway.com/myw4-service.cfm): 
 
 ## About Your Privacy
 
@@ -31,7 +31,7 @@ You are also required to give the following information:
 
 The credit card information is sent directly to our payment provider who processes your order. The transaction has a very high level of security as described in the section below headed _Transaction Security Policies_.
 
-If you have any questions or require more information regarding Murals Your Way policies, products or other, please [contact us](https://web.archive.org/web/20071220025823id_/http%3A//www.muralsyourway.com/myw4-contact.cfm).
+If you have any questions or require more information regarding Murals Your Way policies, products or other, please [contact us](https://web.archive.org/web/20080619091023id_/http%3A//www.muralsyourway.com/myw4-contact.cfm).
 
 ### Transaction Security Policies
 
