@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SkinCareRx.com Privacy Policy
-
-[](https://web.archive.org/shipping-info.html)
 
 [ ](http://www.truste.org/ivalidate.php?url=%3C?=$o_h-%3Eget_domain\(\)?%3E.com&sealid=101) | 
 
@@ -17,7 +15,7 @@ While visiting our site, "http://skincarerx.com", certain pieces of data will be
 
 SkinCareRx.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://skincarerx.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service Manager by calling 1-877-682-3553 or via our [contact us](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/contactus.html) page. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Customer Service Manager by calling 1-877-682-3553 or via our [contact us](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/contactus.html) page. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Visitor Information
 
@@ -43,11 +41,11 @@ We use other third parties (iTransact, Paypal) to provide payment processing on 
 
 Rest assured, SkinCareRx.com does not share, sell, rent, or trade your personal information to third parties for promotional purposes.
 
-If your personally identifiable information changes, you may correct or update it by making the change on our [member information](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/sign-in.html?sec_y=1) page or by contacting [customer service](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/contactus.html?sec_y=1).
+If your personally identifiable information changes, you may correct or update it by making the change on our [member information](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/sign-in.html?sec_y=1) page or by contacting [customer service](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/contactus.html?sec_y=1).
 
 ## Posting a Review
 
-We post customer reviews on our web site which may contain personally identifiable information such as the reviewers's name. By posting a review on our site you grant us the right to publish your review along with the name you enter.  You may withdraw your review by [contacting customer service](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/contactus.html) at any time.
+We post customer reviews on our web site which may contain personally identifiable information such as the reviewers's name. By posting a review on our site you grant us the right to publish your review along with the name you enter.  You may withdraw your review by [contacting customer service](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/contactus.html) at any time.
 
 ## Right to Disclose Information
 
@@ -59,11 +57,11 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/securityrx.html) page.  You may also contact [customer service](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/contactus.html).
+For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/securityrx.html) page.  You may also contact [customer service](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/contactus.html).
 
 ## Newsletter Subscription
 
-We offer a monthly newsletter subscription to our customers.  If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. This newsletter may be sent as often as every two weeks due to special annoucements or website updates.  The information we store for the newsletter subscription is not sold nor shared with thrid parties.  You may [unsubscribe](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/unsubscribe.html) at any time by clicking this [link](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/unsubscribe.html) provided at the bottom of each email, or by phone 1-877-682-3553, [LiveHelp](javascript:open_window\('http://skincarerx.com/live/livehelp.php?department=1',550,400\);), or by postal mail to opt out:
+We offer a monthly newsletter subscription to our customers.  If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. This newsletter may be sent as often as every two weeks due to special annoucements or website updates.  The information we store for the newsletter subscription is not sold nor shared with thrid parties.  You may [unsubscribe](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/unsubscribe.html) at any time by clicking this [link](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/unsubscribe.html) provided at the bottom of each email, or by phone 1-877-682-3553, [LiveHelp](javascript:open_window\('http://skincarerx.com/live/livehelp.php?department=1',550,400\);), or by postal mail to opt out:
 
 > **Newsletter Unsubscribe**  
 >  SkinCareRx.com  
@@ -80,11 +78,11 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Terms of Use
 
-For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/disclaimer.html) page.
+For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/disclaimer.html) page.
 
 ## Questions
 
-Please direct all questions to our [contact us](https://web.archive.org/web/20071212093118id_/http%3A//skincarerx.com/contactus.html) page or write:
+Please direct all questions to our [contact us](https://web.archive.org/web/20080619063805id_/http%3A//skincarerx.com/contactus.html) page or write:
 
 SkinCareRx.com, LLC  
 ATTN: Privacy Department  
