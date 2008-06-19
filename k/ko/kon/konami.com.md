@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215020150id_/http%3A//www.konami.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D3810) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619035424id_/http%3A//www.konami.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D3810) for the most accurate reproduction.*
 
-# Konami America - Privacy Policy
+# Konami Digital Entertainment, Inc. - Privacy Policy
 
 [](http://www.esrb.org/confirm/konami-confirmation.jsp)
 
-Last Updated:  11/22/07
+Last Updated:  12/17/2007
 
 [Click here for PDF Version](https://web.archive.org/ctlimg/konami/konami_privacy_policy.pdf)
 
@@ -116,6 +116,16 @@ If you wish to review, update, or delete any other personal information that we 
 Attention: Website Administrator  
 2381 Rosecrans Ave. Suite #200  
 El Segundo, CA 90245
+
+_Your California Privacy Rights_
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us: 
+
+Konami Digital Entertainment, Inc.  
+Attention: Website Administrator  
+2381 Rosecrans Ave. Suite #200  
+El Segundo, CA 90245  
+webinfo@konami.com 
 
 **What is Konami's online privacy policy regarding children under 13?**
 
