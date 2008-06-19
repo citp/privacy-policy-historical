@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221073949id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619044626id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Services | WPMT FOX43
 
@@ -64,7 +64,7 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.  
 
 
-Copyright © 2007, WPMT
+Copyright © 2008, WPMT
 
   
   
