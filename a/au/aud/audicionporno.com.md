@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audicionporno.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220165725id_/http%3A//support.herfirsttryout.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2848%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audicionporno.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619163010id_/http%3A//support.herfirsttryout.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2848%26country%3Dus) for the most accurate reproduction.*
 
 # Her First Try Out
 
