@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backflip.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206100037id_/http%3A//www.backflip.com/help/gh_privacy_out.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backflip.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619051121id_/http%3A//backflip.com/help/gh_privacy_out.html) for the most accurate reproduction.*
 
 # Backflip | Privacy Policy
 
