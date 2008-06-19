@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214225511id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619081628id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Association for Computing Machinery
 
 | 
-
-last modified  2007-02-05 20:43 
 
 **ACM Privacy Policy**
 
