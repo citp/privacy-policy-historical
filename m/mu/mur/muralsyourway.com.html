@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the muralsyourway.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220025823id_/http%3A//www.muralsyourway.com/myw4-privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muralsyourway.com privacy policy that was archived on 2008-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619091023id_/http%3A//www.muralsyourway.com/myw4-privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -12,19 +13,27 @@
 
 <link href="/2007/includes-temp/myw-mainstyles.css" rel="stylesheet" type="text/css">
 
-
-
-
 <link href="/2007/includes/myw-development.css" rel="stylesheet" type="text/css">
-<link rel="SHORTCUT ICON" href="http://www.muralsyourway.com/images-misc/myw-logo.ico">
+<link rel="SHORTCUT ICON" href="http://www.muralsyourway.com/images-misc/myw-logo.ico" type="image/x-icon">
 
 <script type="text/javascript" language="javascript" src="2007/includes/mainV4.js"></script>
 
+
+
+
+
+
+
+ <style type="text/css">
+	 img, div { behavior: url(iepngfix.htc) }
+	 .dock img { behavior: url(iepngfix.htc) }
+ </style>
  
 <script src="2007/includes/insert_active_flash.js"></script>
 <script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript" src="2007/includes/dropdown.js"></script>
+
 <script src="scripts/linkpopups.js"></script>
+<script src="2007/includes/aScroller.js" type="text/javascript"></script>
 
 
 	<script type="text/javascript" src="fisheye-css-dockmenu/js/jquery.js"></script>
@@ -32,31 +41,31 @@
 	<link href="images-rooms/fisheye/style.css" rel="stylesheet" type="text/css">	
 
 
-
 	
 
 
+<script type="text/javascript" language="javascript" src="2007/includes/dropdown.js"></script>
+
+
+
+
+
+<script language="javascript">
+function validateAffState() {
+//check a field to make sure it has something filled in
+if (document.affForm.State.value == 'NY') {
+alert('The Murals Your Way affiliate program is not available to residents of New York.');
+return false;
+}
+}
+
+</script>
 
 
 
 
 
 
-
-
-
-<script language="JavaScript">
-<!-- Overture Services, Inc
-var pm_tagname    = "universalTag.txt";
-var pm_tagversion = "1.4";
-var pm_accountid  = "L1EG7VJ33ERBEM2B78CVG78KJ4";
-var pm_scripthost = "srv.perf.overture.com";
-var pm_customargs = "";
-var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
-var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
-document.write(pm_tag);
-// -->
-</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=L1EG7VJ33ERBEM2B78CVG78KJ4"></script>
 
 
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
@@ -65,6 +74,10 @@ document.write(pm_tag);
 _uacct = "UA-273616-1";
 urchinTracker();
 </script>
+
+
+
+
 
 
 <script type="text/javascript">
@@ -120,6 +133,7 @@ urchinTracker();
 
 <body>
 
+
 <div id="outerwrapper">
 	<div id="mainwrapper">
 		<div id="top">
@@ -144,26 +158,35 @@ urchinTracker();
 		</form>
 		
 		</div>		
-		<p class="tollfree">
-		<strong>Toll-free</strong>: 888-235-1318
-		</p>
+		
+		<div style="clear:both; float:right; width:380px; padding-right:.6em">
+			<p></p>
+			<span style="margin-right:20px">
+			
+			<a href="myw4-information-video.cfm"><img src="images-template/clapboard.gif" width="22" height="22" border="0" alt="" hspace="3" align="absmiddle"></a>
+			<a href="myw4-information-video.cfm"><strong>Video</strong></a>
+			</span>
+			<span style="margin-right:10px">
+			<img src="images-template/phone-icon.gif" width="11" height="22" border="0" alt="" hspace="3" align="absmiddle"><strong>Toll-free</strong>: 888-235-1318
+			</span>
+		</div>
+		
 		</div>
 		<!--eof shopping-nav-->
 		
 		<div id="site-nav">
 			
 			<ul id="mainnav" name="popups" class="navlist" style="width:100%;">				
-			    				
+			    <li id="home" title="home page" class="mainnavli"><a href="/" onclick="exit=false">Home</a></li>				
 				<li id="browsemurals" title="view all murals" class="mainnavli">
 					<a href="myw4-browse-res.cfm" onclick="exit=false">Browse Murals</a>					
 					<ul class="submenuul">
 					
 					<li class="submenuli"><a href="myw4-browse-res.cfm" onclick="exit=false">Residential</a></li>
-					<li class="submenuli"><a href="myw4-browse-bus.cfm" onclick="exit=false">Commercial</a></li>
+					<li class="submenuli"><a href="commercial-vinyl-mural-wall-coverings.cfm" onclick="exit=false">Commercial</a></li>
 					<li class="submenuli"><a href="myw4-custom.cfm" onclick="exit=false">Custom</a></li> 
 					
-					<li class="submenuli"><a href="myw4-personalize.cfm" onclick="exit=false">Personalize</a></li>
-					<li class="submenuli" style="border:none;"><a href="javascript:setVisibility('dock2', 'visible')" onclick="exit=false">Roomsettings</a></li>
+					<li class="submenuli" style="border:none;"><a href="myw4-personalize.cfm" onclick="exit=false">Personalize</a></li>
 					
 					</ul>					
 				</li>				
@@ -172,14 +195,18 @@ urchinTracker();
 					<ul class="submenuul">
 					
 						
+						<li class="submenuli"><a href="myw4-specials.cfm" onclick="exit=false">Save $25</a></li>
+						
 												
 					
-					<li class="submenuli" style="border-bottom:0px;"><a href="myw4-specials.cfm" onclick="exit=false">Free Fedex Shipping</a></li>
+					<li class="submenuli" style="border-bottom:0px;"><a href="myw4-specials.cfm#001" onclick="exit=false">Free Fedex Shipping</a></li>
 					
-					<li class="submenuli"><a href="myw4-specials.cfm" onclick="exit=false">Bill Me Later™</a></li>
+					<li class="submenuli"><a href="myw4-specials.cfm#002" onclick="exit=false">Bill Me Later™</a></li>
 					
+					<li class="submenuli"><a href="myw4-specials.cfm#003" onclick="exit=false">Bundle Deal</a></li>
 					</ul>
 				</li>				
+				<li id="accessories" title="wallcovering accessories"><a href="myw4-accessories.cfm" onclick="exit=false">Accessories</a></li>
 				<li id="examples" class="mainnavli" title="see what others have done">
 					<a href="myw4-examples.cfm?example=1" onclick="exit=false">Customer Examples</a>
 					
@@ -197,6 +224,50 @@ urchinTracker();
 		<!--eof site-nav-->
 		
 		</div><!--eof top-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -511,15 +582,15 @@ var DOCUMENTNAME='Privacy Policy';
   
   <a class="dock-item2" href="myw4-design.cfm?pid=MMBYXS1007" style="width: 50px; left: 200px;"><span></span><img src="images-rooms/fisheye/residential/Kitchen_Bridge-at-Pranzo_Af.jpg" alt=""></a>
   
-  <a class="dock-item2" href="myw4-design.cfm?pid=MMPIPI1257" style="width: 50px; left: 250px;"><span></span><img src="images-rooms/fisheye/residential/Living-Room_Fall-Trees_Afte.jpg" alt=""></a>
+  <a class="dock-item2" href="myw4-design.cfm?pid=MMELRM2001" style="width: 50px; left: 250px;"><span></span><img src="images-rooms/fisheye/residential/Living-Room_Poppies_After.jpg" alt=""></a>
   
-  <a class="dock-item2" href="myw4-design.cfm?pid=MMBACM1002" style="width: 50px; left: 300px;"><span></span><img src="images-rooms/fisheye/residential/Living-Room_Poppies_After.jpg" alt=""></a>
+  <a class="dock-item2" href="myw4-design.cfm?pid=MMBYM01006" style="width: 50px; left: 300px;"><span></span><img src="images-rooms/fisheye/residential/Living-Room_Rum-Cay_AFter.jpg" alt=""></a>
   
-  <a class="dock-item2" href="myw4-design.cfm?pid=MMBYM01006" style="width: 50px; left: 350px;"><span></span><img src="images-rooms/fisheye/residential/Living-Room_Rum-Cay_AFter.jpg" alt=""></a>
+  <a class="dock-item2" href="myw4-design.cfm?pid=MMIARK2030" style="width: 50px; left: 350px;"><span></span><img src="images-rooms/fisheye/residential/Nursery_AnimalClouds_After.jpg" alt=""></a>
   
-  <a class="dock-item2" href="myw4-design.cfm?pid=MMIARK2030" style="width: 50px; left: 400px;"><span></span><img src="images-rooms/fisheye/residential/Nursery_AnimalClouds_After.jpg" alt=""></a>
+  <a class="dock-item2" href="myw4-design.cfm?pid=MMRLXr3001" style="width: 50px; left: 400px;"><span></span><img src="images-rooms/fisheye/residential/Nursery_Small-Safari_After.jpg" alt=""></a>
   
-  <a class="dock-item2" href="myw4-design.cfm?pid=MMRLXr3001" style="width: 50px; left: 450px;"><span></span><img src="images-rooms/fisheye/residential/Nursery_Small-Safari_After.jpg" alt=""></a>
+  <a class="dock-item2" href="myw4-design.cfm?pid=MMAJNF1009" style="width: 50px; left: 450px;"><span></span><img src="images-rooms/fisheye/residential/Living-j2831_After.jpg" alt=""></a>
   
   </div>
   <div style="float:right; padding-right:20px; padding-top:10px;">
@@ -599,7 +670,7 @@ var DOCUMENTNAME='Privacy Policy';
 			</div>
 		</div><!--eof banner div-->		
 		<p class="bottomlinks">
-		<a href="myw4-about.cfm" onclick="exit=false">About Us</a>  |  <a href="myw4-contact.cfm" onclick="exit=false">Contact</a>  |  <a href="myw4-guarantee.cfm" onclick="exit=false">Guarantee</a>  |  <a href="myw4-asid.cfm" onclick="exit=false">Designer Log In</a>  |  <a href="myw4-affiliate.cfm" onclick="exit=false">Affiliate Program</a>  |  <a href="myw4-privacy.cfm" onclick="exit=false">Privacy Policy</a>  |  <a href="myw4-contest.cfm">Photo Contest</a>
+		<a href="myw4-about.cfm" onclick="exit=false">About Us</a>  |  <a href="myw4-contact.cfm" onclick="exit=false">Contact</a>  |  <a href="myw4-guarantee.cfm" onclick="exit=false">Guarantee</a>  |  <a href="myw4-asid.cfm" onclick="exit=false">Designer Log In</a>  |  <a href="free-affiliate-marketing-partnerships.cfm" onclick="exit=false">Affiliate Program</a>  |  <a href="myw4-privacy.cfm" onclick="exit=false">Privacy Policy</a>  |  <a href="myw4-sitemap.cfm">Site Map</a>  |  <a href="myw4-contest.cfm">Photo Contest</a>
 		</p>
 	</div>	
 	<!--eof bottom-->
@@ -619,7 +690,7 @@ var DOCUMENTNAME='Privacy Policy';
 		</td>
 		<td>
 		<p style="padding-left:10px; text-align:left;">
-		For Customer Service, Call Toll-Free 888-235-1318, 8am - 5pm CST<br>©2003-2007 Murals Your Way, Environmental Graphics, Inc. All Rights Reserved.
+		For Customer Service, Call Toll-Free 888-235-1318<br>Mon-Fri 7:30am – 5:30pm, Sat 11:00am – 3:00pm CST<br>©2003-2008 Murals Your Way, Environmental Graphics, LLC. All Rights Reserved.
 		</p>
 		</td>
 		<td>
@@ -633,9 +704,10 @@ var DOCUMENTNAME='Privacy Policy';
 		
 		</td>
 	</tr>
-	<tr><td colspan="4" align="right">1318</td></tr>
+	<tr><td colspan="4" align="right">1318 2008171_4104010100</td></tr>
 </tbody></table>
 </div>
+
 
 
 
@@ -650,7 +722,12 @@ var DOCUMENTNAME='Privacy Policy';
 <!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 
-<script language="JavaScript" src="http://chanalytics.merchantadvantage.com/inChannel/maq.js"></script>
+
+
+
+
+
+
 
 
 
