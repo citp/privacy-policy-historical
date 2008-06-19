@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbtbank.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221145250id_/http%3A//www.nbtbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbtbank.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619225846id_/http%3A//www.nbtbank.com/privacy.html) for the most accurate reproduction.*
 
 # NBT Bank - Reach for your Star!
 
