@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221020544id_/http%3A//www.stbotanica.com/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619130056id_/http%3A//www.stbotanica.com/privacy-notice.htm) for the most accurate reproduction.*
 
 # Privacy Notice
-
-## 
 
 Dear Customer,
 
@@ -20,5 +18,5 @@ Please be reassured that On-line Payment with Paysystems.com is the right decisi
 
 Yours faithfully,
 
-**StBotanica Cosmetics International Co., Ltd.**  
+**StBotanica**  
 www.stbotanica.com
