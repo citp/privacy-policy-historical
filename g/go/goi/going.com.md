@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223005557id_/http%3A//going.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620123342id_/http%3A//going.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Going San Francisco
+# Going New York - New York nightlife, live music, culture & arts. What's happening in New York?
 
 * * *
 
@@ -10,7 +10,7 @@
     1. _**Disclosure Regarding Our Policy.**_  
 **Going** , Inc. (" **Going** ") understands and recognizes that its members, visitors, users and others (collectively or individually "Users") who use www.going.com or other websites owned or operated by Going (collectively, the "Site") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Site. Going provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Site. Please take the time to read and understand this Privacy Policy so that you can understand how we use your personal information. **Remember, if you register with and/or provide any personal information to this Site, you agree to these terms.**
 
-This Privacy Policy is incorporated into and is subject to the Going [Terms of Use](https://web.archive.org/web/20071223005557id_/http%3A//going.com/terms_of_use.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20071223005557id_/http%3A//going.com/terms_of_use.php). 
+This Privacy Policy is incorporated into and is subject to the Going [Terms of Use](https://web.archive.org/web/20080620123342id_/http%3A//going.com/terms_of_use.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20080620123342id_/http%3A//going.com/terms_of_use.php). 
 
     2. _**Changes to Our Policy.**_  
 Because our business needs may change over time, Going reserves the right, at any time and from time to time, to change, modify, add or remove portions from this Privacy Policy. If at any time in the future we plan to use your personal information in a way that differs from this Privacy Policy, we will revise this Privacy Policy to reflect such change. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This Privacy Policy is effective as of the date indicated at the beginning of the policy. **Please review this Privacy Policy from time to time and before you provide any personal information to the Site.**
@@ -54,7 +54,7 @@ We may share non-personally-identifiable information (such as anonymous User usa
     4. _**Required by law.**_  
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
     5. _**Liability; Security.**_  
-Going also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Going believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20071223005557id_/http%3A//going.com/terms_of_use.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Going, our Users or others. 
+Going also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Going believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20080620123342id_/http%3A//going.com/terms_of_use.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Going, our Users or others. 
   5. Collection of Information by Others:
   
 Our Site may contain links to other websites owned or operated by third parties (collectively, the "Third Party Sites"). Such Third Party Sites may have information practices that are different from those described in this Privacy Policy. Going is not responsible for such practices. You should check the other privacy policies made available on such Third Party Sites. 
@@ -81,7 +81,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
   10. Accessing or Correcting Your Personal Information:
   
-**You** can access the personal information that we have collected about you through this Site **by logging onto your profile. Should you have any problems accessing your personal information or making any corrections to it** please [contact us](https://web.archive.org/web/20071223005557id_/http%3A//going.com/contact_us.php?topic=General%20Customer%20Service). 
+**You** can access the personal information that we have collected about you through this Site **by logging onto your profile. Should you have any problems accessing your personal information or making any corrections to it** please [contact us](https://web.archive.org/web/20080620123342id_/http%3A//going.com/contact_us.php?topic=General%20Customer%20Service). 
   11. A Special Note for Parents:
   
 Our Site is not geared towards children. Our Site will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to our Site without your permission, you may contact us at service@going.com. Protecting the privacy of young children is especially important. For that reason, Going does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Site at any time or in any manner. If Going learns that personally identifiable information of persons under 13 years of age has been collected on the Site without verified parental consent, then Going will take the appropriate steps to delete this information. 
