@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmusiczone.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220010431id_/http%3A//www.coolmusiczone.com/help/%3Fc%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmusiczone.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620052211id_/http%3A//www.coolmusiczone.com/help/%3Fc%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Listen English Music | Rock Pop | Cool Music Zone
 
