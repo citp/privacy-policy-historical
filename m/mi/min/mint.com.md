@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mint.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230151502id_/http%3A//www.mint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mint.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620234125id_/http%3A//www.mint.com/privacy.html) for the most accurate reproduction.*
 
-# Mint | Refreshing Money Management
+# How Mint Finance Management Software Protects Your Financial Privacy - Financial Calculator - Mint.com
 
-Date Last Revised: **November 12, 2007**
+Date Last Revised: **April 3, 2008**
 
 At Mint, our most important asset is our relationship with you.
 
@@ -25,17 +25,18 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
   7. Online session information and use is only used to improve your experience
   8. External service providers will not be given your personal information without your permission
   9. Use of Blogs and other Forums on Mint.com
-  10. Disclosure of your information to protect our rights or if required by law
-  11. Your data may be transferred upon acquisition of Mint but only in accordance with this policy
-  12. You can transport or delete your data
-  13. Cookies and Web Beacons are uses to analyze site usage and improve the Service
-  14. We comply with Can-Spam regulations for our newsletters
-  15. Your data is secure and only seen by you
-  16. Our service ensures secure communications with encryption
-  17. We use authentication to ensure that only you access your account
-  18. We will notify you of any changes to this Privacy & Security Policy
-  19. Former customers
-  20. Contact us if you have any questions or concerns
+  10. Contests, Giveaways and Surveys
+  11. Disclosure of your information to protect our rights or if required by law
+  12. Your data may be transferred upon acquisition of Mint but only in accordance with this policy
+  13. You can transport or delete your data
+  14. Cookies and Web Beacons are used to analyze site usage and improve the Service
+  15. We comply with Can-Spam regulations for our newsletters
+  16. Your data is secure and only seen by you
+  17. Our service ensures secure communications with encryption
+  18. We use authentication to ensure that only you access your account
+  19. We will notify you of any changes to this Privacy & Security Policy
+  20. Former customers
+  21. Contact us if you have any questions or concerns
 
 
 
@@ -49,7 +50,7 @@ Certain areas and features of Mint.com are available to you without registration
 
 Access to your Registration Information and your personal financial data is strictly restricted to Mint employees and contractors, as needed, in order to operate, develop or improve the Service. These individuals have been subject to prior background checks and are bound by confidentiality obligations. They may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address (if it contains some part of your name) gender, birth date, occupation, personal interests and other demographic information. With the exception of a Login ID in the form of an email address, which may be provided on an anonymous basis, and your Third Party Account Information, which is entered only one time by you to secure an automatic download ofyour account’s money transactions data, Mint does not require any information from you that might constitute personally identifiable information.
+Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address (if it contains some part of your name) gender, birth date, occupation, personal interests and other demographic information. With the exception of a Login ID in the form of an email address, which may be provided on an anonymous basis, and your Third Party Account Information, which is entered only one time by you to secure an automatic download of your account’s money transactions data, Mint does not require any information from you that might constitute personally identifiable information.
 
 Mint requires a Login ID email address from you in the following circumstances:
 
@@ -77,6 +78,8 @@ Mint uses your Registration Information only as follows:
 
 
 
+In the event that you access the Service as brought to you by one of our co-brand partners, through a co-branded URL, your email address used for Registration on the Service, may be provided to such co-brand partner.
+
 We only use your Zip Code to improve your experience. There are two main reasons why Mint requires your zip code as part of the Registration process for the Service. First, this allows the Service to provide you with accurate automated categorization of your spending by improving our ability to identify merchants both nationally and locally. Second, Mint needs to determine the appropriate time zone in order to send you timely personal finance alerts as part of the Service.
 
 ## Back to Top4\. Changes to your Registration Information
@@ -101,9 +104,10 @@ Mint uses your Account Information as follows:
 
 Mint does not sell, rent or disclose your personal Account Information. Mint discloses your Account Information only to you and to third-party contractors who help Mint provide the Service to you.
 
-Mint may aggregate financial transaction data derived from Account Information and disclose such data only in aggregate and in a non-personally identifiable manner to: 
+Mint may anonymize or aggregate financial transaction data derived from Account Information and disclose such data only in a non-personally identifiable manner to: 
 
   * Advertisers and other third parties for their marketing and promotional purposes, such as the number of users who applied for a credit card, or how many users clicked on a particular Mint Offer; 
+  * Organizations approved by Mint who conduct research into consumer spending.
   * Users of the Service for purposes of comparison of their personal financial situation relative to the broader community.
 
 
@@ -126,7 +130,19 @@ Mint may present links in a format that enables us to keep track of whether thes
 
 If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-## Back to Top10\. Disclosure of your information to protect our rights or if required by law
+## Back to Top10\. Contests, Giveaways and Surveys
+
+From time to time, Mint may offer you the opportunity to participate in contests, giveaways and other promotions.  Any information submitted in connection with such activities will be treated in accordance with this Privacy and Security Policy.  From time to time, Mint may also ask you to participate in surveys designed to help Mint improve the Web site.  Any Personally–Identifying Information provided to  Mint in connection with any survey will be used only in relation to that survey. 
+
+Mint may aggregate survey data and disclose such data only in aggregate and in a non-personally identifiable manner to: 
+
+  * Advertisers and other third parties for their marketing and promotional purposes, such as the number of users who have more than one credit card;
+  * Users of the Service for purposes of comparison of their personal financial situation relative to the broader community.
+  * Such information does not identify you individually.
+
+
+
+## Back to Top11\. Disclosure of your information to protect our rights or if required by law
 
 Notwithstanding the foregoing, Mint reserves the right (and you authorize Mint) to share or disclose your Registration Information and Account information when Mint determines, in its sole discretion, that the disclosure of such information is necessary to identify, contact, or bring legal action against you if:
 
@@ -136,15 +152,15 @@ Notwithstanding the foregoing, Mint reserves the right (and you authorize Mint) 
 
 
 
-## Back to Top11\. Your data may be transferred upon acquisition of Mint but only in accordance with this policy
+## Back to Top12\. Your data may be transferred upon acquisition of Mint but only in accordance with this policy
 
 Registration Information and Account Information may be transferred to a third party as a result of a sale, acquisition, merger, reorganization or other transfer (a “Transfer”) involving Mint. Mint specifically reserves the right to transfer Registration and Account Information to a third party in connection with a Transfer. Should such a Transfer occur, we will use our best efforts to require that the new combined entity follow this privacy and security policy with respect to your personal information, as and to the extent required by applicable law and require that you receive prior notice if your personal information could be used contrary to this policy. 
 
-## Back to Top12\. You can transport or delete your data
+## Back to Top13\. You can transport or delete your data
 
 Your data is yours. You can remove it anytime you want. When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly disconnect any connection we had established to your Account Information. However, portions of your data, consisting of aggregate data derived from your Account Information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. Mint keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers.
 
-## Back to Top13\. Cookies and Web Beacons are used to analyze site usage and improve the Service
+## Back to Top14\. Cookies and Web Beacons are used to analyze site usage and improve the Service
 
 “Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. Mint may set and access cookies on your computer to track and store preferential information about you. Mint may gather anonymous information about you through cookie technology on an aggregate level only. For example, Mint may assign a cookie to you, to limit the amount of times you see a particular Mint Offer or to help better determine which Mint Offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
 
@@ -152,13 +168,13 @@ We encode our cookies so that only we can interpret the information stored in th
 
 Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. Mint, or third party service providers acting on our behalf, may use Web beacons to help us analyze site usage and improve the Service.
 
-## Back to Top14\. We comply with CAN-SPAM regulations for our newsletters
+## Back to Top15\. We comply with CAN-SPAM regulations for our newsletters
 
 Mint.com sends only verified, double-opt-in e-mail newsletters, specifically requested by Mint subscribers. Subscriptions to Mint.com newsletters are verified by sending an e-mail confirmation to your e-mail address, which requires a positive response before an e-mail address is added to Mint’s list. Mint.com is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003.
 
 Because we provide you the option of receiving our promotional newsletters, Mint.com subscribers have the ability to opt-out of receiving these newsletters by emailing us at [security@mint.com](mailto:security@mint.com). We also will send users service-related emails which they do not have the ability to opt-out of. 
 
-## Back to Top15\. Your data is secure and only seen by you
+## Back to Top16\. Your data is secure and only seen by you
 
 Simply put, your data is yours and only you (through your Registration Information) have access to your data on the Service.
 
@@ -176,7 +192,7 @@ No employee may put any sensitive content on any unsecure machine (i.e., nothing
 
 Mint is independently verified secure and private. Mint has been audited by Verisign for its security practices, by Truste for its privacy practices and is tested daily for any failure points that would allow hacking by ScanAlert, HackerSafe.
 
-## Back to Top16\. Our service ensures secure communications with encryption
+## Back to Top17\. Our service ensures secure communications with encryption
 
 From the time you submit your Login ID and Password, these communications between your computer and Mint are encrypted using Secure Sockets Layer (SSL3) technology. SSL enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery. 
 
@@ -208,7 +224,7 @@ If you move the cursor over the “locked padlock” icon, a pop-up message will
 
 You must log out each time you have finished accessing your Mint.com account.
 
-## Back to Top17\. We use authentication to ensure that only you access your account
+## Back to Top18\. We use authentication to ensure that only you access your account
 
 Authentication is the process you go through on Mint to access secure areas of our Website. This process takes place when you log into your account, the two key components of which are your Login ID and Password. 
 
@@ -216,17 +232,17 @@ With regards to passwords, we maintain strict rules to help prevent others from 
 
 If you have a security related concern, please contact us at [security@mint.com](mailto:security@mint.com). We will work closely with you to ensure a rapid and personal response to your concerns.
 
-## Back to Top18\. We will notify you of any changes in this Privacy and Security Policy
+## Back to Top19\. We will notify you of any changes in this Privacy and Security Policy
 
 If we decide to change our privacy and security policy, we will update the date upon which this policy, including those changes became effective from at the top of this policy and post those changes to this policy, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this policy at any time, so please review it frequently.
 
-## Back to Top19\. Former Customers
+## Back to Top20\. Former Customers
 
 If you are a former customer, we treat your information in the same manner that we treat information about our current customers.
 
-## Back to Top20\. Contact us if you have any questions or concerns
+## Back to Top21\. Contact us if you have any questions or concerns
 
 If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy, send an e-mail to [security@mint.com](mailto:security@mint.com).
 
