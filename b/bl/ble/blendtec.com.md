@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222003809id_/http%3A//www.blendtec.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620151141id_/http%3A//www.blendtec.com/privacy.aspx) for the most accurate reproduction.*
 
 # Blendtec - Privacy Policy
 
@@ -15,10 +15,10 @@ Use of your information
   
 **_Submitting a recipe:_** When a recipe is submitted it may or may not be posted on the website. The recipes shared on our website are for visitor use. If your recipe is posted on this website your name and state will be posted, if you do not want your name to appear, leave the personal information field(s) blank.   
   
-**_Submitting your e-mail address:_** When you submit your e-mail address, Blendtec will send you information regarding updates to equipment, special offers and other pertinent information. At any time you may [contact us](https://web.archive.org/web/20071222003809id_/http%3A//www.blendtec.com/emailremoval.aspx) to have your e-mail removed from our system(s).   
+**_Submitting your e-mail address:_** When you submit your e-mail address, Blendtec will send you information regarding updates to equipment, special offers and other pertinent information. At any time you may [contact us](https://web.archive.org/web/20080620151141id_/http%3A//www.blendtec.com/emailremoval.aspx) to have your e-mail removed from our system(s).   
   
 Privacy Policy Change(s)   
   
 Please note that this privacy policy is subject to change without notice. Any change(s) will be updated and posted promptly to this website. 
 
-For any questions regarding our privacy policy please [Contact Us](https://web.archive.org/web/20071222003809id_/http%3A//www.blendtec.com/contactus.aspx). 
+For any questions regarding our privacy policy please [Contact Us](https://web.archive.org/web/20080620151141id_/http%3A//www.blendtec.com/contactus.aspx). 
