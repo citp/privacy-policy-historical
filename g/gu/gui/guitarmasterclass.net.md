@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224064754id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620204009id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
 
 # Guitar Masterclass Privacy Policy
 
@@ -12,4 +12,4 @@ During the payment process you will be asked for your name and address. The Guit
 
 **Computer information** \- The Guitar Masterclass gathers your computer resolution and operating system by using a tracker. This information is only used to improve the site and make it more accessible to the visitors. 
 
-**Contact the webmaster** \- If you have questions about this Privacy Policy, the practices of the site, or any other inquiries - you can contact the webmaster [_here_](https://web.archive.org/web/20071224064754id_/http%3A//www.guitarmasterclass.net/Contact.htm). 
+**Contact the webmaster** \- If you have questions about this Privacy Policy, the practices of the site, or any other inquiries - you can contact the webmaster [_here_](https://web.archive.org/web/20080620204009id_/http%3A//www.guitarmasterclass.net/Contact.htm). 
