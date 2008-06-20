@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034338id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620025607id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.*
 
-# here! - privacy
+# here! - Gay, Lesbian, Bisexual & Transgender Television | Online Privacy Policy | here! Networks | heretv.com
 
 **HERETV.COM'S ONLINE PRIVACY POLICY**
 
@@ -9,9 +9,9 @@ This website is operated by here! Networks, LLC, the owner of the here! programm
 Our postal address is: 
 
 here! Networks   
-570 Lexington Avenue   
+1500 Broadway  
 19th Floor   
-New York, NY 10022   
+New York, NY 10036   
 Attn: Interactive Department 
 
 We can be reached via e-mail at [info@Heretv.com](mailto:info@heretv.com)
