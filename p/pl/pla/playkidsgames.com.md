@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218171858id_/http%3A//www.playkidsgames.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620030028id_/http%3A//www.playkidsgames.com/statement.htm) for the most accurate reproduction.*
 
 # Play Kids' Games -- Kids Games On Line - kids games, alphabet games, math games, letter games, addition games, subraction games, K12, education, multiplication games, division games, letter, alphabet, spelling , learning games, educational games, word, java games, applets, children, kids, child games, child, spelling, games, alphabet,baby, kids.com, learning, www.play, kids games to play, games to play
 
