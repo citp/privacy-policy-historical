@@ -1,62 +1,59 @@
-> *The following text is extracted and transformed from the mindpoop.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025032710id_/http%3A//mindpoop.com/about.php%3Ftype%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindpoop.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620124601id_/http%3A//www.mindpoop.com/privacy.php) for the most accurate reproduction.*
 
-# MindPoop.com - Video Picture Music Flash Hosting
+# Mindpoop :: Privacy Policy
 
-Welcome to MindPoop.com (the "Site").
+[](http://www.mindpoop.com/index.php)
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by MindPoop.com (collectively, "Services") ("Authorized Customers").
+**Did you know?** You can make a private videos list and share them only with your favorite friends! 
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+Privacy Policy 
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+  The use of this version of the "Mindpoop" website and/or Mindpoop software and any other related software, upgrades or updates and all related services and special offers provided by "Mindpoop" are subject to the hereunder provisions of this Privacy Policy.: 
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+General 
 
- **How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.   [](http://www.weblawgenerator.com/)
+  "Mindpoop" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. In addition, anything in your public profile will be shared with any site visitor.
+  BY USING OR ACCESSING ANY Mindpoop WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Mindpoop MAY AMEND THIS POLICY FROM TIME TO TIME. 
 
-**How is Personally Identifiable Information stored?**
+  If you are under the age of 13, you are not eligible to use the Service, and we ask you not to submit any personal information to us. 
 
-Personally Identifiable Information collected by MindPoop.com is securely stored and is not used except for use as indicated above or for tech support issues. 
+Collection of Information 
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [webmaster@mindpoop.com](mailto:webmaster@mindpoop.com)
+**Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. The cookies are also how you are able to login, so make sure you have them enabled for our site.
+**Non personally identifiable Information:** Mindpoop may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the Mindpoop Service or website(s), and responses to the offerings and advertisements presented on Mindpoop's Service and/or website(s). 
 
-**How does MindPoop.com use login information?**  
-MindPoop.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+  "Mindpoop" may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the Mindpoop website(s) and pages are visited or when the Mindpoop Service is used. 
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-MindPoop.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+**How is the information being used?** The information is used to operate and improve the features, offerings and content presented to you by Mindpoop, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on Mindpoop Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. 
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees and authorized users who are given a special access in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+_Any personally identifiable information of yours_ will not be shared with third parties unless you have consented to the sharing of this information. Mindpoop may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of Mindpoop users, but do not receive information that personally identifies you. 
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [webmaster@mindpoop.com](mailto:webmaster@mindpoop.com) or logging into your account in most cases.
+_Notwithstanding the foregoing_ , your information may be accessed and disclosed if and as required by legal procedures. 
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [webmaster@mindpoop.com](mailto:webmaster@mindpoop.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+**Cookies:   ** "Mindpoop" may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of Mindpoop's website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+  Additionally, "Mindpoop" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Mindpoop's. 
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+  "Mindpoop" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. 
 
- **Government/Legal Issues:**  
-In the event of a law being broken or a Government authority wishes to know more information in a matter, MindPoop will comply with any command we see as okay. This may result in the disclosure of any of the information in your profile and from extra data colected by the server such as IP Addresses you have used. Remember to use this site legally so this won't happen.
+Special Note for Parents 
+
+  "Mindpoop"'s Service and website are not intended for a general audience, and children under the age of thirteen (13) are not permitted to register with Mindpoop's Service and websites. 
+
+Modification and Deletion of Personally Identifiable Information (Opt-Out) 
+
+  In order to delete the personally identifiable information you submitted, notify us, to the following email address: mindpooptos@hotmail.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+
+Modification 
+
+  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: mindpooptos@hotmail.com. Please note that deletion of your personally identifiable information from Mindpoop's database will not prevent Mindpoop from using gathered anonymous information. 
+
+Third Parties' Practices 
+
+  This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Mindpoop does not own or control, or does not employ or manage. 
+
+**Public Videos:** 38 |  **Private Videos:** 0 |  **Watched Videos:** 15.557 |  **Members:** 665 |  **Online:** 0 guests, 0 members 
+
+Copyright © 2006-2007 [Mindpoop](http://www.mindpoop.com/). All rights reserved.    | Page created in 0.0647 seconds.
