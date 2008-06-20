@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.net privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222170721id_/http%3A//www.southafrica.net/index.cfm%3FSitePageID%3D14502) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.net privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621012652id_/http%3A//www.southafrica.net/index.cfm%3FSitePageID%3D14502) for the most accurate reproduction.*
 
 # Welcome to South Africa
 
