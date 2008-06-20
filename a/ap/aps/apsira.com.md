@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015194840id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620034107id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policies
 
