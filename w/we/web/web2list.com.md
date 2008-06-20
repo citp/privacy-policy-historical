@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716051537id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620074740id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
 
 # Web 2.0 - Web2.0List
 
