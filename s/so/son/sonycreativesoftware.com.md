@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016005410id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620112726id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy Statement
 
 Privacy Policy Statement
 
 [](http://www.the-dma.org/dmalogotext.html) Privacy Policy (Including Your California Privacy Rights)   
-Sony Creative Software Inc. ("SCS")  
+Sony Creative Software, Inc. ("SCS")  
 Last Updated and Effective: 11 April, 2007
 
-At Sony Creative Software Inc., we believe that you, as a user of our Services, have a right to know our practices regarding the information we may collect when you visit or use our Services. This privacy policy ("Privacy Policy") is a legally binding agreement you have with us and, among other things, provides you notice of our information management practices, including the types of information we collect, how such information is used, stored and safeguarded, and the degree to which you may control the maintenance and our sharing of your information.
+At Sony Creative Software, Inc., we believe that you, as a user of our Services, have a right to know our practices regarding the information we may collect when you visit or use our Services. This privacy policy ("Privacy Policy") is a legally binding agreement you have with us and, among other things, provides you notice of our information management practices, including the types of information we collect, how such information is used, stored and safeguarded, and the degree to which you may control the maintenance and our sharing of your information.
 
-When we use "SCS", "our", "we" or "us", we mean not only Sony Creative Software Inc., but also its Affiliates (defined below), agents and contractors that operate or administer any of the Service or conduct Service-related activities on our behalf. All capitalized terms used in this Privacy Policy are defined either within the terms and provisions of the Privacy Policy or in the "Definitions" Section below. 
+When we use "SCS", "our", "we" or "us", we mean not only Sony Creative Software, Inc., but also its Affiliates (defined below), agents and contractors that operate or administer any of the Service or conduct Service-related activities on our behalf. All capitalized terms used in this Privacy Policy are defined either within the terms and provisions of the Privacy Policy or in the "Definitions" Section below. 
 
 1\. Privacy Generally.  
 This Privacy Policy governs our use and management of your Personal Information (defined below) and other information, and applies to the Service, unless otherwise indicated or stated. This Privacy Policy does not apply to any other software, web sites, services, goods, other materials (tangible or intangible) or third parties, even if they are Sony® branded or are linked to/from any of our Services.
@@ -99,10 +99,10 @@ www.acidplanet.com  and any other web sites hosted by SCS at which this Privacy 
 "Software" refers to any and all proprietary software programs, applications and updates provided or made available by us for use in conjunction with any one or more of our Services. In the case of Software downloaded to and/or installed on the hard drive of your personal computer and/or on your wireless or mobile device, you agree that updates and security components that permit digital files to be protected, streaming, access and/or use to occur only as permitted by our Terms of Service (including any end user license agreement) and the usage rules set by us, any licensor or content rights holders, may be subsequently installed, re-installed and updated on your personal computer or your registered wireless or mobile device automatically and without further specific notice. 
 
 17\. Questions. If you have any questions or comments about this Privacy Policy or any aspect of our collection, processing, storage or use of your Personal Information or other information held by SCS, please write or email us at (when emailing us, if you are registered with any of our Services, please indicate in your email which Services you have registered with):  
-Sony Creative Software Inc.  
+Sony Creative Software, Inc.  
 1617 Sherman Avenue, Madison, Wisconsin 53704  
 You may also contact us by following the email instructions on the web at: http://www.sonycreativesoftware.com/privacyinfo 
 
-© 2007 Sony Creative Software Inc. All Rights Reserved.
+© 2007 Sony Creative Software, Inc. All Rights Reserved.
 
 |  | 
