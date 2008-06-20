@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230011454id_/http%3A//www.neamb.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620125042id_/http%3A//www.neamb.com/privacy.jsp) for the most accurate reproduction.*
 
 # NEA Member Benefits - Privacy Policy
 
@@ -17,7 +17,7 @@ NEA Member Benefits values the privacy of NEA members, and we believe that the b
 
 When you register on the web site as a member of the NEA, you provide your name, address, login name and password, and home email address. This information is collected on the registration form for future personal identification and to communicate with you electronically to announce future NEA MB Programs and web site enhancements. 
 
-All personal data is kept secure and confidential and is protected against unauthorized access. NEA Member Benefits does not sell, trade, rent, or lease personal information about our members to any third party non-NEA source. 
+All personal data is kept secure and confidential and is protected against unauthorized access. In connection with our provision of member benefits, NEA Member Benefits may share the personal information that we collect about you, with NEA, NEA’s state and local affiliates and NEA-related organizations, as well as third parties that perform services on behalf of NEA Member Benefits.  Additionally, NEA Member Benefits may share any of the personal information that we collect about you with certain third parties that share NEA’s interests or as otherwise permitted by law.
 
 **Web Surveys**
 
