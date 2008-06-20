@@ -1,0 +1,848 @@
+<!--The following is the downloaded HTML source of the lowpriceshopper.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620075114id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>	Shop at BizRate: Compare Prices, Reviews and Stores Online	</title>
+	<link href="http://file.bizrate.com/css/site/nav.css" rel="stylesheet" type="text/css">
+	<link href="http://file.bizrate.com/css/site/features.css" rel="stylesheet" type="text/css">
+	<link href="http://file.bizrate.com/css/l_exp.css" rel="stylesheet" type="text/css">
+	<link href="http://file.bizrate.com/css/about.css" rel="stylesheet" type="text/css">
+	<link href="http://file.bizrate.com/css/header_bizrate.css" rel="stylesheet" type="text/css">
+	
+	
+		<link rel="stylesheet" href="http://file.bizrate.com/br/us/css/sitewide_fonts.css" type="text/css">
+		
+	
+	<meta name="ROBOTS" content="NOODP">
+	<meta name="keywords" content="BizRate.com, consumer reviews, product reviews, best price comparison, online shopping, compare prices, online store ratings, special offers, coupons, deals">
+	<meta name="description" content="BizRate.com has the best price comparison and online shopping information. Compare prices, check store ratings and read consumer reviews before you buy.">
+	<meta name="content-language" content="en-US">
+	<meta http-equiv="content-language" content="en-US">
+	<link rel="shortcut icon" href="http://img.bizrate.com/site/smiley.ico">
+	
+<!-- YUI -->
+<script language="JavaScript" src="http://file.bizrate.com/yui/yahoo/yahoo-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.com/yui/dom/dom-min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://yui.yahooapis.com/2.2.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.2.1/build/connection/connection-min.js"></script>
+
+<script language="Javascript" src="http://file.bizrate.com/yui/animation/animation-min.js" type="text/javascript"></script> 
+<script language="Javascript" src="http://file.bizrate.com/yui/yahoo-dom-event/yahoo-dom-event.js"></script> 
+<script language="Javascript" src="http://file.bizrate.com/yui/event/event-min.js"></script> 
+<script language="Javascript" src="http://file.bizrate.com/yui/element/element-beta-min.js"></script>
+<script language="JavaScript" src="http://file.bizrate.com/yui-extensions/yui-cookie.js" type="text/javascript"></script>
+
+<script language="JavaScript" src="http://file.bizrate.com/yui/dragdrop/dragdrop-min.js" type="text/javascript"></script>
+<!-- Shopzilla autocomplete customizations -->
+<script type="text/javascript" src="http://file.bizrate.com/static_29893/br/common/scripts/autocomplete.js"></script>	
+
+<script language="JavaScript" src="http://file.bizrate.com/static_29893/br/common/scripts/bizrate.js" type="text/javascript"></script>
+<script language="JavaScript1.1" type="text/javascript">
+
+	myTemplate = function() {
+		return {
+			init: function() {
+				myInternationalRedirectorConfigs = {
+					active:false
+				};
+		
+				
+				myPageConfigs = {
+					token:'47',
+					focusElementId:'searchTerm',
+					DLDESC:'BizRate - Home',
+					DLURL:'/content/privacy.html',
+					local_message:'Bookmark this page by pressing %keystroke%',
+					currentKeyword:'',
+					focusActive:false,
+					frameBusterActive:false,
+					actions:{
+						offers:'/offers/savings_center.xpml',
+						stores:'/merchant/results.xpml',
+						marketplace:'/buy/superfind.xpml',
+						
+							default_action:'/buy/superfind.xpml'
+						
+					},
+					sfsk:false
+				};
+
+				myInternationalRedirector = new BIZRATE.widget.InternationalRedirector(myInternationalRedirectorConfigs);
+
+				myPage = new BIZRATE.widget.Page(myPageConfigs);
+				myPage.init();
+
+				
+myNetPromoterPopupConfigs = {
+	SurveyURL:'http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=BizRate&logo=BizRate_US.gif&custid=0&marker=',
+	PrivacyPolicyURL:'/content/privacy.html',
+	CookieName:'net_promoter',
+	CookiePath:'/',
+	CookieExpires:new Date ( 2008, 5, 09 ),
+	CookieDomain:'.bizrate.com',
+	PopUpWidth:800,
+	PopUpHeight:600,
+	activatePopUp:false,
+	SessionCookieName:'net_promoter_pop_once'
+};
+
+				myNetPromoterPopup = new BIZRATE.widget.NetPromoterPopup(myNetPromoterPopupConfigs);
+				myNetPromoterPopup.init();
+				
+				myProductDetailsPodConfigs = {
+					enabled:false,
+					myStaringTabIndex:0,
+					mySelectedTabIndex:0
+
+				};
+				myProductDetailsPod = new BIZRATE.widget.myProductDetailsPod(myProductDetailsPodConfigs);
+				if (myProductDetailsPod.enabled) {
+					myProductDetailsPod.init();
+				}
+			}
+		}
+	}();
+
+var productDhtmlLayer = new Object(); //anonymous object should be turned into a proper subclass of BIZRATE.widget and moved to the .js file asap!!
+productDhtmlLayer.popups = new Array();
+
+productDhtmlLayer.init = function () {
+    var objSearchResults = document.getElementById('search_results');
+    if( objSearchResults ) {
+        var arraySearchResultsLinks = objSearchResults.getElementsByTagName('span');
+        var arrayLinksOpenList = new Array();
+        for (i = 0; i < arraySearchResultsLinks.length; i++) {
+            if (arraySearchResultsLinks[i].className == "more_like_this_popup") {
+                var openLink = arraySearchResultsLinks[i].getElementsByTagName('a')[0];
+                var divPopup = arraySearchResultsLinks[i].getElementsByTagName('div')[0];
+                
+                
+                openLink.divPopup = divPopup;
+				this.popups.push(divPopup);
+                
+                closeLink = divPopup.getElementsByTagName('a')[0];
+    			
+    			var attributes_in = {
+        			width: {to: 0},
+        			height: {to: 0},
+        			opacity: { to: 0 }
+    			};
+    			var attributes_out = {
+        			width: {to: 301},
+        			height: {to: productDhtmlLayer.heightCalc( divPopup ) },
+        			opacity: { to: 100 }
+    			};
+                 
+                openLink.anim = new YAHOO.util.Anim(divPopup, attributes_out, 0.3, YAHOO.util.Easing.backOut);
+				openLink.onclick = function () {
+					productDhtmlLayer.closeAll();
+					this.divPopup.style.visibility = 'visible';
+					this.divPopup.style.display = 'block';
+					this.divPopup.style.overflow = 'visible';
+					this.divPopup.style.position = 'absolute';
+					this.divPopup.style.left = this.style.left;
+					this.divPopup.style.top = this.style.bottom;
+					this.anim.animate();
+					this.divPopup.style.background = 'white';
+					return false;
+                }
+            
+                closeLink.divPopup = divPopup;
+                closeLink.anim = new YAHOO.util.Anim(divPopup, attributes_in, 0.3, YAHOO.util.Easing.backOut);
+                closeLink.onclick = function () {
+                    this.anim.animate();
+                    this.divPopup.style.overflow = 'hidden';
+					return false;
+                }
+            }
+        }
+    }
+}
+
+productDhtmlLayer.heightCalc = function ( divPopup ) {
+	return divPopup.getElementsByTagName('div')[0].offsetHeight;
+}
+
+productDhtmlLayer.closeAll = function() {
+	for ( i = 0; i < this.popups.length; i++) {
+		this.popups[i].style.visibility = 'hidden';
+	}	
+}
+</script>
+
+
+	<script language="JavaScript" type="text/javascript">
+	//	openPopup('http://www.bizrate.com/features/product/review_thanks_popup.xpml?aud=', 'shopzilla_popup' , 'height=315,width=450,scrollbars=no,resizable=no');
+	</script>
+
+	<style>
+	.breadcrumbCurrent a,
+	span.breadcrumbCurrent,
+	td.breadcrumbCurrent {font-size:11px;}
+	</style>
+
+</head>
+<body class="tkn47" onload="myTemplate.init();">
+
+	<div id="overlay"></div>
+	
+	
+	<div class="content">
+		<div id="header">
+			
+			
+			<div id="header_bar">
+				<a href="/" class="logo_link">&nbsp;</a>
+				<div class="search_box_container">
+					<form name="sf" id="searchForm" method="get" action="http://www.bizrate.com/buy/superfind.xpml" _base_target="_top">
+						<div class="search_input">
+							<input name="search_box" value="1" _base_target="_top" type="hidden">
+							<input name="cat_id" value="1" type="hidden">
+							<input name="sfsk" value="0" _base_target="_top" type="hidden">
+							<input id="searchTerm" name="keyword" value="" maxlength="256" size="25" style="font-size:20px;width:306px;" _base_target="_top" type="text">&nbsp;&nbsp;
+						</div>
+						<div class="search_button">
+							<input id="searchButton" type="image" src="http://img.bizrate.com/br/us/images/header/search_go_button.gif" name="SEARCH_GO" value="GO" _base_target="_top">
+						</div>
+					</form>
+				</div>
+				<div class="header_links_container">
+					<ul id="header_links">
+						
+							<li><a href="/myaccount/index.html" rel="nofollow">Your account</a></li>
+							<li> | <a href="http://em.bizrate.com/Apps/DCS/mcp?q=ST5G1LTI9pSwMg">Sign up for our newsletter!</a></li>
+						
+						
+					</ul>		
+				</div>
+				
+
+<div id="header_tab_container">
+    <table border="0" cellpadding="0" cellspacing="0" style="height:21px;">
+        <tbody><tr>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/tab_curve_left.gif" width="8" height="21"></td>	
+            <td class="current_tab"><a href="/">Home</a></td>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/tab_curve_right.gif" width="8" height="21"></td>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/alldept_curve_left.gif" width="8" height="21"></td>	
+            <td>
+                <div class="allDepartmentsContainer">  
+                    <div class="allDepartmentsController01">
+                        <div class="allDepartmentsBttnController02" onclick="allDepartsSlide();">
+                            <table width="100%" height="21" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                    <td align="center" valign="middle" class="all_dept_tab">
+                                    	All Departments
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>                    
+                    
+
+<div id="AllDepartmentsSlider" class="allDepartmentsLayer">
+	<iframe id="iframeCoverup" frameborder="0" scrolling="no"></iframe>
+	<table width="100%" height="100%">
+		<tbody><tr>
+			<td valign="top" style="padding:3px;">
+				<div class="closeBox_prop"></div>
+				<ul id="closeBox" onclick="allDepartsSlide();">
+					<li><img src="http://img.bizrate.com/br/us/images/header/close_box.gif" width="12" height="12" border="0"></li>
+				</ul>
+				
+				<ul id="allDepartmentList1">
+					<li><a href="/appliances/" rel="nofollow" title="Appliances">Appliances</a> </li>
+					<li><a href="/automotive/" rel="nofollow" title="Automotive">Automotive</a> </li>
+					<li><a href="/babies_kids/" rel="nofollow" title="Babies &amp; Kids">Babies &amp; Kids</a> </li>
+					<li><a href="/books_magazines/" rel="nofollow" title="Books &amp; Magazines">Books &amp; Magazines</a> </li>
+					<li><a href="/clothing_accessories/" title="Clothing &amp; Accessories">Clothing &amp; Accessories</a> </li>
+					<li><a href="/computers_software/" title="Computers &amp; Software">Computer &amp; Software</a> </li>
+					<li><a href="/dvds_videos/" rel="nofollow" title="DVDs &amp; Video">DVDs &amp; Videos</a> </li>
+				</ul>
+
+				<ul id="allDepartmentList2">
+					<li><a href="/electronics/" title="Electronics">Electronics</a> </li>
+					<li><a href="/giftsflowers_food/" rel="nofollow" title="Gifts, Flowers &amp; Food">Gifts, Flowers &amp; Food</a> </li>
+					<li><a href="/health_beautysupplies/" rel="nofollow" title="Health &amp; Bueaty">Health &amp; Beauty</a> </li>
+					<li><a href="/home_garden/" title="Home &amp; Garden">Home &amp; Garden</a> </li>
+					<li><a href="/jewelry_watches/" rel="nofollow" title="Jewelry &amp; Watches">Jewelry &amp; Watches</a> </li>
+					<li><a href="/music/" rel="nofollow" title="Music">Music</a> </li>
+					<li><a href="/musicalinstruments_accessories/" rel="nofollow" title="Musical Instruments">Musical Instruments</a> </li>
+				</ul>
+				
+				<ul id="allDepartmentList3">
+					<li><a href="/officesupplies/" rel="nofollow" title="Office Supplies">Office Supplies</a> </li>
+					<li><a href="/petsupplies/" rel="nofollow" title="Pet Supplies">Pet Supplies</a> </li>
+					<li><a href="/sportsequipment_outdoorgear/" rel="nofollow" title="Sporting Goods">Sporting Goods</a> </li>
+					<li><a href="/toys_games/" title="Toys &amp; Games">Toys &amp; Games</a> </li>
+					<li><a href="/videogames1/" rel="nofollow" title="Video Games">Video Games</a> </li>
+					
+					<li class="allDepartmentsLink"><a href="/categoryguide.html" title="All Departments">See all departments</a> </li>
+				</ul>
+			</td>
+		</tr>
+	</tbody></table>   
+</div>
+            	</div>
+            </td>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/alldept_curve_right.gif" width="8" height="21"></td>
+        </tr>
+    </tbody></table>
+</div>
+                
+
+
+<style>
+/* Styles from global.css that will need to be updated after test */
+#header_bar {
+	width:956px;
+	height:69px;
+	background:url(http://img.bizrate.com/br/us/images/header/header_bar_bg_new.jpg) no-repeat;
+	position:relative;
+	padding:0px 0px 0px 0px;
+	margin:0px auto 0px auto;
+	z-index:10000;
+}
+#header_tab_container {
+	border-color:#bbb;
+	border-bottom:1px thin #ABA9D0;
+	text-align:left;
+	position:absolute;
+	bottom:4px;
+	right:9px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 20px 0px;
+	height:21px;
+}
+/* ---------------------------------- */
+
+
+/* Styles for Header L1 Categories */
+#header_L1_Categories {
+	position:relative;
+}
+#header_L1_Categories ul {
+	margin:0px 0px 0px 0px;
+	padding: 3px 0px 0px 0px;
+}
+#header_L1_Categories ul li {
+	border-right:1px solid #B0AED3;
+	float:left;
+	line-height: 13px;
+	list-style: none;
+	margin: 47px 0px 0px 0px;
+	padding: 0px 11px 0px 11px;
+}
+#header_L1_Categories ul li a { 
+	color:#FFF;
+	font:Arial;
+	font-size:11px;	
+	text-decoration: none; 
+}
+#header_L1_Categories ul li.noBorder {
+	border:none;
+}
+
+/* ---------------------------------- */
+</style>
+   
+<div id="header_L1_Categories">
+    <ul>
+        <li><a href="/digitalcameras/">Digital Cameras</a></li> 
+        <li><a href="/home_garden/">Home &amp; Garden</a></li>
+        <li><a href="/clothing_accessories/">Clothing &amp; Accessories</a></li>
+        <li><a href="/computers_software/">Computer Hardware</a></li>
+        <li><a href="/mp3_mediaplayers/">MP3 Players</a></li>
+        <li><a href="/womensshoes/">Women's Shoes</a></li>
+        <li><a href="/furniture/">Furniture</a></li>
+        <li><a href="/laptopcomputers/">Laptop Computers</a></li>
+        <li class="noBorder"><a href="/jewelry_watches/">Jewelry &amp; Watches</a></li>
+    </ul>
+</div>                
+			</div>
+            
+			
+				
+					
+				
+	
+				
+	
+				
+					<table border="0" width="100%" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="75%" valign="top" class="breadcrumbCurrent">
+								
+									<a href="/">Home</a> &gt; <a href="/content/about.html">About BizRate</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+								
+							</td>
+						</tr>
+					</tbody></table>
+				
+			
+		</div>
+	</div>
+	<div class="content">
+<div id="search_header">
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="24%" valign="top">
+				
+<div class="helpNav">
+	<h2 style="margin-top: 0px;color:#fff;">Help &amp; FAQ Pages</h2>
+	<div class="body" style="padding: 10px 0 10px 0;">
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/about.html">About BizRate</a></p>
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/ratings_guide.html">Ratings</a></p>
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/jobs.html">Jobs@BizRate</a></p>
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/contact_info.html">Contact Us</a></p>
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/press_releases.html">Press</a></p>
+			
+		
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/content/legal.html">User Agreement</a></p>
+			
+		
+			
+				
+				<p style="padding: 3px 0 3px 6px;"><a href="http://www.bizrate.com/interstitial/btob.xpml">Business Services</a></p>
+			
+		
+	</div>
+</div>
+
+			</td>
+			<td width="76%" valign="top" style="padding-left: 18px;">
+				<h1>Shopzilla, Inc. Privacy Policy</h1>
+<div class="clickseal">
+	<a href="http://www.truste.org/ivalidate.php?url=www.bizrate.com&amp;sealid=101" rel="nofollow" target="_blank"><img src="http://img.bizrate.com/br/common/truste/clickseal.gif" width="91" height="73" border="0"></a>
+</div>
+Shopzilla, Inc. ("Shopzilla") operates online shopping Web sites and provides other services ("Services")
+designed to deliver the best possible online shopping experience to you, our users. We are committed to
+protecting the privacy and security of the information we may gather about you, and we appreciate your
+trust that we will use and share that information carefully and sensibly. 
+<br><br>
+
+Shopzilla operates the Shopzilla Network, which includes Shopzilla.com, BizRate.com and equivalent domains
+in the United Kingdom, Germany and France, and all other Web sites we operate or provide comparison-shopping
+content to, email newsletters or other email, surveys, or other media or Services we offer to consumers from
+time to time. All information you provide to Shopzilla via the Shopzilla Network, at any of our Web sites or
+otherwise in connection with our Services, will be transmitted to, held and processed by us as described in
+this Privacy Policy. Shopzilla is a company incorporated in the United States of America. Accordingly,
+information submitted by you to Shopzilla will be transmitted to, held and processed in the USA. You should
+be aware that the laws governing data protection in the USA are not the same as those of European or other
+countries. 
+<br><br>
+
+This Privacy Policy describes our practices concerning your privacy. Although this Privacy Policy may seem
+long, we have prepared a detailed policy because we believe you should know as much as possible about
+Shopzilla's practices so that you can make informed decisions. By accepting the User Agreement, using the
+Shopzilla Network, shopping at participating merchants, or otherwise interacting with Shopzilla, you are
+consenting to the Shopzilla practices, including the use and disclosure of any personally identifiable
+information you have shared with us, as described in this Privacy Policy. 
+<br><br>
+
+<strong>A SPECIAL NOTE ABOUT CHILDREN</strong><br>
+Shopzilla is not designed or intended for use by children under 13, although participating merchants on our
+Web site may offer children's products for purchase by adults. If you are under 18, you should use Shopzilla
+only with involvement of a parent or guardian. Children under 13 may not submit any personally identifiable
+information to us, and if we discover that we have inadvertently gathered any such information from a child
+under 13, we will take appropriate steps to delete it. 
+<br><br>
+
+<strong>ANTI-SPAM POLICY</strong><br>
+Shopzilla is 100% opposed to unsolicited commercial email ("spam"). We do not send emails to anyone without
+permission and we do not sell or provide email addresses to any unauthorized third party. If you receive any
+unsolicited emails from spammers, please be assured that Shopzilla did not provide your email address to such
+parties. 
+<br><br>
+
+This does not mean that we can prevent spam from happening on the Internet. Unfortunately, spammers obtain
+email addresses in a number of devious ways, including when you respond and ask to be taken off a spam email
+list, and in some cases by just generating emails to millions of random email addresses in the hopes of
+getting a few "live" ones. Please be assured that at Shopzilla we hate spam as much as you do. 
+<br><br>
+
+All that said, if you believe that you have gotten unsolicited email from us,
+<a href="/content/contact_us__subject--privacy_policy.html">click here</a>
+to contact us and we will investigate. Please be assured that we strive not to contact
+anyone without permission, and if you prefer not to receive any further communications from us, just
+tell us and we'll try to make sure you never hear from us again.
+<br><br>
+
+<strong>WHAT PERSONAL INFORMATION DOES Shopzilla GATHER?</strong><br>
+The information we learn from shoppers helps us personalize and continually improve your shopping experience at
+Shopzilla and our participating merchants. Here are the general types of information we gather. 
+<br><br>
+
+<strong>Information You Give Us</strong><br>
+We receive and store any information you provide to us when you become a Shopzilla Member, submit a review or
+survey, communicate by email, telephone or physical mail with our customer service, or otherwise interact with
+us. Such information may include your name, address, email address, shopping interests and preferences, birthday,
+hometown, transaction history, and other personal data.  You can choose not to provide certain information, but
+then you might not be able to take advantage of certain useful Shopzilla features. 
+<br><br>
+
+<strong>Information Gathered Automatically</strong><br>
+We receive and store certain types of information whenever you interact with us. For example, like many Web
+sites, we use "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses
+Shopzilla and our participating merchants' sites. 
+<br><br>
+
+Briefly, "cookies" are small files that we transfer to your computer's hard drive or your Web browser memory to
+enable our systems to recognize your browser and to provide convenience and other features to you, such as
+recognizing you as a Shopzilla member. "Clear gifs" are tiny graphics with a unique identifier, similar in
+function to cookies, and may be used to track the online movements of Web users or to let us know if you have
+opened an email that we sent you. 
+<br><br>
+
+Examples of the information we collect and analyze in this manner include the Internet protocol (IP) address used
+to connect your computer to the Internet; computer and connection information such as browser type and version,
+operating system, and platform; your behavior on our Web site and related Services, including the products and
+merchants you view or searched for, as well as the URL you come from and go to next (whether this URL is on our
+site or not); cookie number; and participating merchants you visit. The cookies and clear gifs that we use do
+not contain and are not tied to personally identifiable information about you. 
+<br><br>
+
+You are always free to decline our cookies if your browser permits although in that case you may not be able to
+use certain features on our Web site.
+<a rel="nofollow" href="javascript:openPopup2('/content/popup__content--no_cookies.html', 'no_cookies_popup', 'height=500,width=501,scrollbars=yes,resizable=yes')">Learn how to decline cookies</a>.
+<br><br>
+
+<strong>Third Party Advertising</strong><br>
+We work with third parties, including advertising companies and website analysis firms, who use cookies and
+clear gifs to collect non-personally identifiable information when you visit our Web site and other sites. This
+information may be used to provide you with better shopping or savings opportunities through advertisements on
+this and other Web sites that you visit, or to conduct market research and website analysis. In addition, these 
+third party advertising companies may use web beacons to help manage and optimize our online advertising.  Web 
+beacons enable us to recognize a browsers cookie, and to learn which banner ads bring users to our web site.  
+To opt out of this third party advertising tracking, please <a href="http://www.networkadvertising.org/consumer/opt_out.asp">click here.</a>
+<br><br>
+
+<strong>DOES SHOPZILLA SHARE THE INFORMATION IT GATHERS?</strong><br>
+Information about Shopzilla shoppers and other users is an important part of our business, and we take steps to
+maintain the privacy and security of such information against unauthorized access. We generally use such
+information for such purposes as customizing future shopping and savings opportunities for you, improving our
+Services, and communicating with you if you have authorized such communication. In an effort to serve you better
+and improve your online shopping experiences, we may also share such information in a responsible manner as
+described below. 
+<br><br>
+
+<strong>Aggregated Research Data</strong><br>
+The information collected from online surveys and reviews is used to develop ratings of, and research for,
+participating merchants, as well as product reviews and ratings. Our research team produces research reports
+and other information and data about online shopping for participating merchants and other customers, as well
+as media and other interested parties. Such information and data is based upon aggregated, anonymous information
+about millions of online shoppers and does not include personally identifiable information about individuals. 
+<br><br>
+
+<strong>Agents</strong><br>
+From time to time, we employ other companies and individuals to perform various functions on our behalf. Examples
+include sending postal mail and e-mail, analyzing shopper data, and providing other data and services. In such
+instances, they may have access to personal information needed to perform their functions, but will be prohibited
+from using it for other purposes. We may at various times also use a web measurement service, which may employ
+"cookies" and/or software code embedded in our web pages in order to evaluate key website metrics. Any such web
+measurement service does not collect any personally identifiable information about our visitors unless they
+voluntarily provide it, and is prohibited from using any such information except to assist us in evaluating
+user behavior relating to our Web site. 
+<br><br>
+
+<strong>Special Offers</strong><br>
+Sometimes we may send email newsletters or special offers to selected groups of Shopzilla shoppers who have chosen
+to receive email on behalf of participating merchants or other businesses. When we do this, we do not give that
+merchant or business your name or e-mail address. 
+<br><br>
+
+If you no longer wish to receive these newsletters or special offers, you can opt-out by notifying us by
+<a href="/content/contact_us__subject--privacy_policy.html">clicking here</a>
+or by mail at the address below.
+<br><br>
+
+<strong>Business Transactions</strong><br>
+As we continue to develop our business, we may share information with affiliates and participate in corporate
+transactions such as mergers and acquisitions, and it is possible that another company may acquire Shopzilla or
+its business assets in the future. In such cases, user information may be shared with the acquirer and/or other
+reputable parties involved in those transactions. Users will be notified via email or a prominent notice on our
+Web site for 30 days prior to a change of ownership or control of their personal information in such a
+transaction. We provide you with 30 days notice to allow you the opportunity to notify Shopzilla if you do not
+wish such information to be shared by notifying us by
+<a href="/content/contact_us__subject--privacy_policy.html">clicking here</a>.
+<br><br>
+
+<strong>Protection of Shopzilla and Others</strong><br>
+We release account and other personal information when we believe release is appropriate to comply with law;
+enforce or apply our User Agreement and other agreements; assist in fraud protection or investigation; or protect
+the rights, property, or security of Shopzilla, our users, or others. 
+<br><br>
+
+<strong>With Your Consent</strong><br>
+Other than as described above, with your consent at the time you submit information to us, we may also share your
+information with participating merchants where you have shopped from time to time or their agents or other
+specified parties. Once we share information with your consent with a merchant or other party, the use and
+protection of that information by the merchant or other party will be subject to the privacy policies or terms of use of that
+party. You may opt-out of such sharing of your information by declining to provide it or by sending a subsequent
+opt-out request to us by
+<a href="/content/contact_us__subject--privacy_policy.html">clicking here</a>
+or by mail at the address below; however, opting-out may limit our ability to provide you with a specific service.
+<br><br>
+
+<strong>PARTICIPATING MERCHANT POLICIES</strong><br>
+Online merchants and others who participate in our Web site and other Services are encouraged to participate in
+industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do
+not have direct control over the policies or practices of participating merchants and other third parties, we
+cannot be responsible for their actions. We recommend that you always review the privacy policies and terms of use of merchants
+and other third parties before you provide any personal information or complete any transaction with such parties. 
+<br><br>
+
+<strong>JOINT SERVICES</strong><br>
+In certain areas or features on our Web site or other Services, we may work with a reputable third-party source
+of specialized information or other content and services to provide you with some information or service ("joint
+services"). You authorize us to share with such party any information you provide in connection with your use of
+those joint services, and such party's handling and use of any shared information shall be governed by their own
+privacy policies and terms of use. You may opt-out of such sharing of your information by declining to provide it or by sending a
+subsequent opt-out request to us by
+<a href="/content/contact_us__subject--privacy_policy.html">click here</a>
+or by mail at the address below; however, opting-out may limit our ability to provide you with a specific service.
+We recommend that you always review the privacy policies and terms of use before you complete any transaction with
+the provider of any service.
+<br><br>
+
+<strong>HOW SECURE IS INFORMATION ABOUT ME?</strong><br>
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL)
+software, which encrypts information you input. We also use a secure server hosting location, firewall protection,
+controlled access and encryption technology to protect your data. While no system is completely foolproof, we
+take the security of your personal information very seriously, and our security measures are designed to protect
+that information in a responsible manner. 
+<br><br>
+
+<strong>WHAT INFORMATION CAN I ACCESS?</strong><br>
+If you register as a Shopzilla member, Shopzilla gives you access to your registration information for the
+purpose of viewing and updating that information. You are also entitled to request a copy of any other personal
+information we hold about you. We may charge a fee for complying with this request. If you become aware that
+the personal information we hold about you is inaccurate, you may request that we amend it. 
+<br><br>
+
+<strong>WHAT CHOICES DO I HAVE?</strong><br>
+As discussed above, you can always choose not to provide information, although that might prevent us from
+personalizing our Services for you or prevent you from taking advantage of certain useful Shopzilla features. 
+<br><br>
+
+If you have registered as a member, you can add or update your registration information (for instance, if your
+name, email address or zip code changes), or delete your membership account entirely, at any time by visiting
+the Your Account area. 
+<br><br>
+
+We will retain in our files information you have requested to delete in some circumstances, such as to resolve
+disputes, troubleshoot problems and enforce our
+<a href="/content/legal.html">User Agreement</a>.
+Furthermore, such prior information is never completely removed from our databases due to technical and legal
+constraints, including stored "back up" systems. 
+<br><br>
+
+<strong>EMAIL POLICIES</strong><br>
+From time to time, Shopzilla may send newsletters and other email to members and others who have agreed to be
+contacted by Shopzilla. You can always choose not to receive email from Shopzilla. Each of our email messages
+contains a link at the bottom of the email for the purpose of adjusting your email subscription preferences or
+to be removed from our mailing list. (If you do not want to receive notice of changes to our User Agreement and
+other legal notices from us, such as updates to this Privacy Policy, those notices will still govern your use of
+Shopzilla, and it is your responsibility to review them for changes.)
+<br><br>
+
+<strong>PRIVACY QUESTIONS?</strong><br>
+If you have any questions or concerns about privacy at Shopzilla, please contact us at by
+<a href="/content/contact_us__subject--privacy_policy.html">clicking here</a>,
+and we will try to answer your questions or otherwise resolve the matter to your satisfaction. Or, if you prefer,
+you may contact us in writing at Shopzilla, Inc., 12200 W. Olympic Blvd., Suite 300, Los Angeles, CA 90064.
+<br><br>
+
+As part of our ongoing commitment to your privacy and security, we are proud to be a licensee of the TRUSTe
+Privacy Program. TRUSTe's certification covers Shopzilla's gathering and dissemination of information on its
+Shopzilla.com and BizRate.com Web sites. If you have an inquiry regarding privacy that you feel has not been
+satisfactorily addressed, you may then contact TRUSTe who will serve as a liaison to resolve your concerns.
+To find out more about <a href="http://www.truste.org/consumers/watchdog_complaint.php" rel="nofollow" target="_blank">TRUSTe</a>, click here.
+<br><br>
+
+<strong>REVISIONS</strong><br>
+Your contacts with Shopzilla and use of our Web site and other Services are subject to this Privacy Notice. Since
+our business changes constantly, this Privacy Policy will also change from time to time. Users will be notified
+via email or a prominent notice on our Web site for 30 days prior to the effective date of any material changes
+to this Privacy Policy. We provide you with 30 days notice to allow you the opportunity to notify Shopzilla if
+you do not wish your information to be subject to the proposed changes to this Privacy Policy. You should also
+check for recent changes on our Web site whenever you visit our Web site or use our other Services.
+<br><br>
+
+<strong>Effective Date: Privacy Policy last modified  October 10, 2007.</strong>
+<br><br>
+
+<strong>© 2007 Shopzilla, Inc.</strong>
+
+
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<br>
+
+	</div>
+		<div id="footer">
+			
+				<div id="searchInFooter">
+					<div id="search_bar">
+	<form id="searchForm" action="/buy/superfind.xpml" method="get">
+		<input type="hidden" name="search_box" value="1">
+		
+I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" id="searchTerm" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
+	<option value="1">All Departments</option>
+	<option value="18000000">Appliances</option>
+	<option value="22000000">Automotive</option>
+	<option value="17000000">Babies &amp; Kids</option>
+	<option value="80">Books &amp; Magazines</option>
+	<option value="10000000">Clothing &amp; Accessories</option>
+	<option value="4">Computers &amp; Software</option>
+	<option value="51">DVDs &amp; Videos</option>
+	<option value="11000000">Electronics</option>
+	<option value="16000000">Gifts, Flowers &amp; Food</option>
+	<option value="50">Health &amp; Beauty Supplies</option>
+	<option value="13000000">Home &amp; Garden</option>
+	<option value="30000000">Jewelry &amp; Watches</option>
+	<option value="52">Music</option>
+	<option value="21000000">Musical Instruments &amp; Accessories</option>
+	<option value="24">Office Supplies</option>
+	<option value="20000000">Other Products</option>
+	<option value="31000000">Pet Supplies</option>
+	<option value="12000000">Sports Equipment &amp; Outdoor Gear</option>
+	<option value="14000000">Toys &amp; Games</option>
+	<option value="15000000">Video Games</option>
+	<option value="">----------------------</option>
+	<option value="offers">Special Offers</option>
+	<option value="stores">Store Ratings</option>
+</select>
+
+
+		&nbsp;<input type="submit" name="SEARCH_GO" value="Find it!">
+	</form>
+</div>
+
+
+
+				</div>
+			
+			
+			
+
+			
+				<div id="circleOfExcellence">
+					<a href="/boutique/2007circleofexcellence.html"><img src="http://img.bizrate.com/br/us/images/badges/circle_of_excellence/2007/43x39.gif" width="43" height="39" border="0" align="absmiddle" alt="Circle of Excellence"><strong>See the 2007 Circle of Excellence Winners!</strong></a>
+				</div>
+			
+
+			
+			<div style="clear:both;text-align:center;">
+				
+				<a href="/">Home</a> &nbsp;|&nbsp;
+				
+					<a href="/myaccount/index.html">Your account</a> &nbsp;|&nbsp;
+                    <a href="/help/help.html" rel="nofollow">Help</a> &nbsp;|&nbsp;
+				
+                <a href="/content/about.html" rel="nofollow">About BizRate</a> &nbsp;|&nbsp;
+				<a href="/content/privacy.html" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;
+				<a href="/content/legal.html" rel="nofollow">User Agreement</a>
+				
+					&nbsp;|&nbsp; <a href="/content/jobs.html" rel="nofollow">Jobs</a>
+				
+				&nbsp;|&nbsp; <a href="/content/press_releases.html" rel="nofollow">Press</a>
+			</div>
+			<div>
+				<a href="/sitemap/index.html">BizRate Sitemap Index</a> &nbsp;|&nbsp;
+				<a href="/sitemap/top_searches.html">BizRate Top Searches</a> &nbsp;|&nbsp;
+				<a href="/sitemap/top_products.html">BizRate Top Products</a>
+				
+				 &nbsp;|&nbsp;	<a href="/ratings_guide/guide.html">BizRate Store Ratings</a>
+				
+			</div>
+			
+			<div style="margin:20px 0px 0px 0px;">
+				<a href="/interstitial/btob.xpml" rel="nofollow">Merchant Login</a> &nbsp;|&nbsp;
+				<a href="/interstitial/btob.xpml" rel="nofollow">Merchant Listings and Advertising</a> &nbsp;|&nbsp;
+				<a href="/interstitial/btob.xpml" rel="nofollow">Ratings and Research</a>
+				
+					&nbsp;|&nbsp; <a href="http://publisher.shopzilla.com" rel="nofollow">Affiliates</a>
+				
+			</div>
+			<div>
+                
+					BizRate UK - <a href="http://www.bizrate.co.uk/">Shopping</a> &nbsp;|&nbsp;
+				
+                
+					BizRate France - <a href="http://fr.bizrate.com/">Acheter à prix discount</a> &nbsp;|&nbsp;
+				
+				
+					BizRate Germany - <a href="http://www.bizrate.de/">Preise vergleichen</a>
+				
+                
+			</div>
+			
+            
+            
+            
+            
+				<div id="net_promoter_invite"><a href="http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=BizRate&amp;logo=BizRate_US.gif&amp;custid=0&amp;marker=" target="_new" onclick="myNetPromoterPopup.createCookie('took_survey');">Take our survey and win an iPod</a></div>
+			
+            
+            
+            
+            
+            
+			
+            <div><a style="color: #000; text-decoration: none;" href="/">Thank you for shopping online at BizRate</a></div>
+			
+            <div>© 2008 Shopzilla, Inc.
+                
+                    Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.
+                
+            </div>
+			
+
+			
+
+			<div style="margin: 10px 0 0 0;">
+				<a href="/content/privacy.html" rel="nofollow"><img src="http://img.bizrate.com/br/common/truste/finalmark.gif" width="116" height="31" border="0" alt="Reviewed by TRUSTe - Site Privacy Statement"></a>
+			</div>
+		</div>
+		
+	
+
+
+
+
+<a href="/color_bumper.xpml"><img src="http://img.bizrate.com/site/trans.gif" width="10" height="10" border="0" alt=""></a>
+
+<!-- TKN#47 -->
+<!-- APPSERVER: dante107.shopzilla.lax -->
+
+
+
+
+</body></html>
