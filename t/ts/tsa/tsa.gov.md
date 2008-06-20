@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220000844id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620104028id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
 
 # TSA: Web Site Policies
+
+[](https://web.archive.org/press/happenings/random_screening_at_gates.shtm)
 
 Terms of Use
 
@@ -18,6 +20,8 @@ Terms of Use
 ## TSA Privacy Policy
 
 We collect no personal information about you when you visit our Web site unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our Web site.
+
+[View Privacy Act FAQ’s »](https://web.archive.org/research/reading/regs/privacy_act_faq.shtm)
 
 Back To Top
 
