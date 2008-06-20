@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229174033id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620045555id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
 
 # Michigan Virtual University - Contact Us
 
 ####   
-Privacy Policy and Terms of Service Statement [10/10/2007]
+Privacy Policy and Terms of Service Statement [02/15/2008]
 
 BY ACCESSING ANY OF OUR WEB SITES, YOU AGREE TO THE TERMS OF THIS PRIVACY STATEMENT AND TERMS OF SERVICE.  OUR PRIVACY POLICY AND TERMS OF SERVICE MAY CHANGE ACCORDING TO THE TERMS DESCRIBED BELOW AND ALL CHANGES ARE EFFECTIVE IMMEDIATELY.  PLEASE READ THE ENTIRE STATEMENT BEFORE USING THIS WEB SITE OR PROVIDING ANY INFORMATION THROUGH ANY OF THE SITES LISTED BELOW.
 
@@ -43,11 +43,24 @@ The User ID you select during registration must be used to log in and participat
 
 _MVU_ hosts, or provides links to, chat rooms, forums and message boards. Our online instructors, instructor services, and student services staff monitor and respond to user email sent to them and monitor and participate with users in threaded discussions and other online forums. _MVU_ may monitor or edit the contents of a user's email or threaded discussions or other online forums as required for normal maintenance of any of our Web sites or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on _MVU_ ; (2) protect and defend the rights or property of _MVU_ ; or (3) act to protect the personal safety of our guests or the public.
 
-If you are a _ **Michigan Virtual School™**_  student, your grades in _**MVS**_ ™ courses will be reported to your mentor and your school and/or sponsoring institution. Except as described in this statement, _the personal information you supply to_ MVU _will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of_ MVU _, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content on our sites violates the rights of third parties, or (iv) protect the rights, property, or personal safety of_ MVU _, its users, or the public._
+If you are a _ **Michigan Virtual School™**_  student, your grades in _**MVS**_ ™ courses will be reported to your mentor and your school and/or sponsoring institution. Except as described further in this statement, _the personal information you supply to_ MVU _will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of_ MVU _, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content on our sites violates the rights of third parties, or (iv) protect the rights, property, or personal safety of_ MVU _, its users, or the public._
 
 **_Mydreamexplorer®_**  is designed to protect your personal information from being seen or accessed by others. _Each school district has designated administrators who have access to information for students in their buildings and student counselors/advisors will be able to review the EDP information. Other than these school officials, your EDP information will never be sold or revealed to other people or companies._
 
 _MVU_ may use aggregated personal information to determine the demographics of our users and to distribute statistics and general marketplace information about _MVU_. We will use commercially reasonable efforts to ensure that these demographics do not identify any specific user.
+
+_On occasion, the MVS may engage **educational researchers** to conduct a study on the school's behalf to improve instruction and services for students. Any individual student information collected or analyzed in a research study will be protected to the maximum extent required by law and no individual names will be used in any reports or publications._ 
+
+_MVU_ will abide by the **student privacy guidelines**  set forth by the Family Educational Rights and Privacy Act (FERPA). The following persons have access to student records:
+
+  * MVU Board of Trustee members
+
+  * President and CEO. administrative team, and professional staff of  _MVU_
+
+  * Appropriate administrative support staff members and other professionals who have a legitimate educational or legal interest in student records as designated by the President and CEO.  
+
+
+
 
 Certain non-personal information regarding users is recorded by the standard operation of the Internet servers hosting our sites. This information may be used to provide visitors to our sites with an enhanced, online experience. _MVU_ may disclose aggregated user statistics, in order to describe the service to prospective partners, advertisers, and other third parties and for other lawful purposes.
 
@@ -150,4 +163,4 @@ If you have any questions about this privacy statement or the privacy practices 
  Lansing, MI 48910  
  (517) 324-5350
 
-In the event that you are concerned about how data you have provided to _MVU_ or one of its divisions through our sites and Services has been used, please contact us electronically at [privacy at mivu dot org](mailto:privacy@mivu.org)  or write to the postal address listed above.       [Last Updated on 10/10/2007]
+In the event that you are concerned about how data you have provided to _MVU_ or one of its divisions through our sites and Services has been used, please contact us electronically at [privacy at mivu dot org](mailto:privacy@mivu.org)  or write to the postal address listed above.       [Last Updated on 2/15/2008]
