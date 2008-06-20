@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the muxlim.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217061707id_/http%3A//www.muxlim.com/info/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muxlim.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620124658id_/http%3A//muxlim.com/info/policy.php) for the most accurate reproduction.*
 
 # Muxlim.com » Privacy Policy
-
-Monday, 17 December, 2007   •   Al Ithnain, 7 Dhul Hijjah, 1428 
-
-* * *
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
