@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223032009id_/http%3A//www.weartv.com/sections/station/2007_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620233734id_/http%3A//www.weartv.com/sections/station/2007_privacy_policy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3
 
 **General**
 
-The following privacy policy describes what information is collected by http://www.weartv.com/ (the “Website”) and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
+The following privacy policy describes what information is collected by http://www.weartv.com/ (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
 
 **No Postings by Children**
 
