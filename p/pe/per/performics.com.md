@@ -1,88 +1,48 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618180946id_/http%3A//performics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620163730id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
 
-# Performics: Performance-Based Marketing Solutions » Privacy Policy
+# Privacy Policy
+
+## www.performics.com
 
   
-Our Privacy Policy  
+**Scope and Effective Date**  
+This policy is effective 10/15/2007 and covers data collected by the DoubleClick Performics website located at www.performics.com.  It does not cover data collected by DoubleClick Performics’s Connect Commerce website, by other DoubleClick products or services by any client of DoubleClick or DoubleClick Performics.  This site is intended to provide information on the products and services offered by DoubleClick Performics.
 
+##  No Personal Data Collected at This Site
 
-**Privacy Statement**  
-This privacy statement discloses the privacy practices for Performics Inc., and its web sites: <http://www.performics.com/> and <http://www.connectcommerce.com/>. If you feel that Performics is not abiding by its posted privacy policy, you should contact Performics by e-mail at [privacy@performics.com](mailto:privacy@performics.com). 
+  
+This site does not offer the ability for users to submit personal data.
 
-**P3P Statement for Performics' Web Site**  
-Platform for Privacy Preferences (P3P) is an emerging industry standard that provides an automated way for a consumer's browser to read and interpret a Web site's privacy policy and compare it to the consumer's own set of privacy preferences. The goal of P3P is not to eliminate or reduce the exchange of personal data, but to increase user trust and confidence in the Web through an easy process that helps users be informed about Web site practices.
+###  Collection and Use of Non-Personal Information
 
-Importantly, P3P's implementation has been facilitated with the launch of Microsoft's Internet Explorer 6.0. With Internet Explorer powering around 90 percent of the browser market, it is important that Internet vendors and services providers be able to accommodate and fulfill P3P needs.
+  
+**Passive Browser Information**  
+Passive Browser information is collected by the web server hosting www.performics.com.  This server logs standard information communicated by web browsers as they make requests to the server, including:  
+•    IP address of the requesting computer  
+•    Date and time of the request  
+•    The URL of the actual request  
+•    Any cookie returned by the browser
 
-Performics has always been and continues to be committed to safeguarding privacy. We have converted our existing privacy policy to a machine-readable format so that a user's browser can read it automatically. This will ensure that all Performics' services are fully compliant with P3P. This change will not affect the way that Performics provides its services, and our ConnectCommerceSM tracking solution will be unaffected. 
+Your browser offers options on the management and preference of cookies.  Cookies are discussed in this policy in more detail below under “Analytics”.
 
-^ to top
+    **Analytics**  
+This site uses Google Analytics for website analysis, which includes the recording and processing of such information as how your browser navigates this site and what keywords drove traffic to this site.  Google Analytics utilizes both cookies and web beacons.  “Cookies” are small text files that contain a string of alpha-numeric characters and are used to associate an action taken by a browser with subsequent actions taken by that browser.  Web beacons are small strings of HTML code that are placed in a Web page, and are sometimes called “clear GIFs” (Graphics Interchange Format) or “pixel tags.”  Web beacons are most often used in conjunction with cookies. 
 
-**Information Collection and Use**  
-Performics will not sell, share, or rent information to others in ways different from what is disclosed in this statement. Performics collects different types of information from three different types of parties: its client marketers ("Clients"), its distribution partners ("Partners") and end-customers of its Clients when those customers are referred to the Clients by way of the Partners. 
-
-Partners must register on Performics' ConnectCommerce Web site [(http://www.connectcommerce.com/)](http://www.connectcommerce.com/). Clients are registered by Performics upon closing of a relationship agreement with the Client. End customers are never registered on the Performics Web site. 
-
-> **Registration**  
->  To participate in the ConnectCommerce Web site network, a Partner must first complete the registration form. During registration, the Partner is required to give their contact information (such as name and e-mail address). This information is used to contact the Partner about relationships with Clients in which they have expressed interest. End customers do not register on any of Performics' Web sites.
-> 
-> **Order**  
->  Performics does not collect personally identifiable information when an end customer places an order with one of our Clients. When an order takes place as a result of a referral from our Partners, we collect generic order data, such as total order amount, so that we can ensure that our Partners are compensated for their referrals.
-
-^ to top
-
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Performics uses cookies to keep track of which customers have been referred to our Clients by our Partners. Usage of a cookie is in no way linked to any personally identifiable information when making purchases through our network. 
-
-^ to top
-
-**Log Files**  
-Performics uses IP addresses to analyze trends, administer the site, track end customers' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-^ to top
-
-**Sharing**  
-Performics will share aggregated demographic information with our Clients and Partners. This is not linked to any personal information that can identify any individual person. Also, we will not share transaction data about any specific Client with any other Client, and we will not share transaction data about any specific Partner with any other Partner. We will share Client data with Partners, and vice versa, but only when the specific Client and the specific Partner were both parties to the transaction. In other words, a Client can see all of his/her transactions across all of his/her Partners, and a Partner can see all of his/her transactions across all of his/her Clients. No Client has access to any other Client's or Partner's data, and no Partner has access to any other Partner's or Client's data. 
-
-From time to time, Partners who register on the ConnectCommerce Web site may be contacted by Performics regarding participation in other Clients' marketing programs. Partners may opt out of this contact. Similarly, Performics will share Client information with an appropriate set of Partners, as determined by Performics and the Client. Clients may opt out of this information sharing. 
-
-^ to top
-
-**Online Partnerships**  
-All parties (end customers, Clients and Partners) should be aware that Performics is essentially a manager of online relationships between other Web sites. Performics' privacy policy applies to Performics' own Web sites and servers, and not those of its Clients and Partners. Any party with concerns about privacy should investigate the privacy policies of the Client and Partner who are party to a given transaction. Performics has no control over these policies. 
-
-^ to top
+**Other DoubleClick Performics Products and Services**  
+The DoubleClick Performics business offers products and services that collect online information.  This policy covers only data collected by DoubleClick Performics on this site and does not cover data collected by other products or services or data collected on other sites. 
 
 **Security**  
-Performics takes every precaution to protect our users' information. Sensitive information gathered via our servers is protected both online and off-line.
+We have implemented reasonable security measures in order to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction.  Our employees are made aware of, and are accountable for compliance with, these procedures.
 
-All transaction information and sensitive data are transmitted encrypted using SSL (Secure Sockets Layer), an industry leading standard for transmitting data across networks. We use SSL to secure the transmission of sensitive data between our network and our Clients' and Partners' networks.
+**Links to Other Sites**  
+This website may contain links to other sites, such as the Connect Commerce service or the DoubleClick corporate website.  You may also wish to read the privacy policies of the other sites you visit to learn about their data practices, which may differ from those described in this privacy policy. 
 
-While Performics uses SSL encryption to protect sensitive information transmitted online, we also do everything in our power to protect user-information off-line. All sensitive information received from Clients and Partners that is stored on our network is encrypted. Finally, the servers on which we store personally identifiable information are kept in a secure hosting environment. ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure that our Clients' and Partners' information is protected.
+**Changes to this Privacy Policy**  
+This privacy policy is subject to change.  If we make any material or substantive changes in the way that we treat the information collected at this site, we will post a clear and conspicuous notice of these changes on this site and in this privacy policy.
 
-If you have any questions about the security at Performics' Web site, you can send an email to [privacy@performics.com](mailto:privacy@performics.com). 
+**More Information**  
+DoubleClick’s global headquarters are located at:  
+111 Eighth Avenue, 10th Floor  
+New York, NY 10011
 
-^ to top
-
-**Supplementation of Information**  
-In order for Performics to enhance its ability to help its client marketers and distribution partners tailor their sites to an individual's preference, we may from time to time combine information about the purchasing habits of users with similar information from our Clients and Partners, to create a personalized user profile. When a user makes a purchase via the ConnectCommerce network, the Client and Partner may collect and share that purchase information with us so that we can help them tailor their sites to the customer's preferences. 
-
-^ to top
-
-**Correction/Updating Personal Information**  
-If a Partner's personally identifiable information changes (such as the zip code), or if a Partner no longer desires to participate in the ConnectCommerce network, we will endeavor to provide a way to correct, update or remove that Partner's personal data provided to us. This can usually be done via the ConnectCommerce Web site. 
-
-^ to top
-
-**Notification of Changes**  
-If Performics decides to change its privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-^ to top
-
-**Copyright Statement**  
-Performics provides the information on this server to anyone, but retains copyright on all text and graphic images. This means that you may not: distribute the text or graphics to others without the express written permission of Performics, "mirror" or include this information on your own server or documents without our permission, or modify or reuse the text or graphics on this system. You may: print copies of the information for your own personal use; store the files on your own computer for your personal use only, and reference hypertext documents on this server from your own documents. 
-
-^ to top
-
-  
-
+If you have further questions or concerns relating to this site’s privacy practices, please email [PrivacyQuestions@doubleclick.com](mailto:PrivacyQuestions@doubleclick.com?subject=A%20Privacy%20Question%20or%20Comment%20from%20the%20Performics.com%20Web%20Site&body=Message%3A). 
