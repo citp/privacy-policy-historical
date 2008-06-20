@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215193047id_/http%3A//www.sbcc.edu/index.php%3Fsec%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620131235id_/http%3A//www.sbcc.edu/index.php%3Fsec%3D71) for the most accurate reproduction.*
 
 # Santa Barbara City College
 
