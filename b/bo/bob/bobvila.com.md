@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220183650id_/http%3A//www.bobvila.com/Global/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620201837id_/http%3A//www.bobvila.com/Global/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # BobVila.com Privacy Statement
 
