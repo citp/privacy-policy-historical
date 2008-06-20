@@ -1,355 +1,2691 @@
-<!--The following is the downloaded HTML source of the pbrnow.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220065831id_/http%3A//www.pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pbrnow.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620081725id_/http%3A//www.pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
+ 
+<script type="text/javascript">
+	
+	var preOnLoadFunctions = new Array();
+	function addPreload(newFunction){
+		preOnLoadFunctions[preOnLoadFunctions.length] = newFunction;	
+	}
+	
+	function swapCountryTo(inLocation)
+	{
+		document.getElementById('countryText').innerHTML = inLocation;
 
-<meta name="keywords" content="bull,riding,rider,riders,pbr,fantasy,cowboy,rodeo">
-<meta name="description" content="Professional Bull Riders, the toughest sport on dirt.">
+	}
+	
+	function MM_jumpMenu(targ,selObj,restore){ //v3.0
+	  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+	  if (restore) selObj.selectedIndex=0;
+	}
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pbrnow.com/RSS/RSSnews.xml">
-
-
-<title>Professional Bull Riders</title>
-<link rel="stylesheet" type="text/css" href="/newhp4.css">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
-
-<body onload="runscroll();">
-<table width="900" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top"> 
-
-<style>
-.textLink { color: #aa0000; font-family:verdana; font-size: 9pt;text-decoration:none;} 
-.textLink:HOVER { color: #aa0033; font-family:verdana; font-size: 9pt; text-decoration:underline;}
-</style>
-
-
-
-
-
-
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_nbGroup(event, grpName) { //v6.0
-  var i,img,nbArr,args=MM_nbGroup.arguments;
-  if (event == "init" && args.length > 2) {
-    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
-      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
-      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
-      nbArr[nbArr.length] = img;
-      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-        if (!img.MM_up) img.MM_up = img.src;
-        img.src = img.MM_dn = args[i+1];
-        nbArr[nbArr.length] = img;
-    } }
-  } else if (event == "over") {
-    document.MM_nbOver = nbArr = new Array();
-    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
-      nbArr[nbArr.length] = img;
+	
+	
+				var COMPETITION = new Array();		
+			COMPETITION[COMPETITION.length] = '<a href="/season/seasonreview/SeasonStandings/index.cfm?season=2007">2007 Final Standings</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/bfts/standings">2008 Built Ford Tough Series Standings</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/ct/standings">Copenhagen Bull Riding sm Challenger Tour Standings</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/qualifier">2008 Qualifier Standings</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/stats/topAllTimeMoney.cfm">Top All-Time Money Earners</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/MDB/">Built Ford Tough World Champion Million Dollar Bonus</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/FSDC/">2008 PBR Ford Super Duty Challenge</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/rwtb">Enterprise Ride With the Best</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/ftmt">Ford Truck Moment of Truth</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/cabelas">Cabelas Worlds Foremost Ride</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/DRB">Daisy Rookie of the Year</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/salem/">Salem NationaLease High Mark Bull Bonus  </a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/insta-shot">Insta-Shot Grudge Match</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/90PointClub/">Copenhagen Bull Riding sm 90 Point Club</a>';			
+			COMPETITION[COMPETITION.length] = '<a href="/competition/bullteams/">Bull Team Challenge</a>';			
+			
+				var RIDERS = new Array();		
+			RIDERS[RIDERS.length] = '<a href="/riders">Rider Search</a>';			
+			RIDERS[RIDERS.length] = '<a href="/riders/injury">Sports Medicine Team / Injury Report</a>';			
+			RIDERS[RIDERS.length] = '<a href="/competition/bfts/standings">2008 Built Ford Tough Series Standings</a>';			
+			RIDERS[RIDERS.length] = '<a href="/competition/CT/standings">Copenhagen Bull Riding Challenger Tour Standings</a>';			
+			RIDERS[RIDERS.length] = '<a href="/competition/qualifier">2008 Qualifier Standings</a>';			
+			RIDERS[RIDERS.length] = '<a href="/stats/topAllTimeMoney.cfm">Top All-Time Money Earners</a>';			
+			RIDERS[RIDERS.length] = '<a href="/about/apply.cfm">Become a Bull Rider</a>';			
+			
+				var BULLS = new Array();		
+			BULLS[BULLS.length] = '<a href="/ridersbulls/bulls">Bull Search</a>';			
+			BULLS[BULLS.length] = '<a href="/about/sportinfo/bulls.cfm">Animal Welfare</a>';			
+			BULLS[BULLS.length] = '<a href="/ridersbulls/others/contractors.cfm">Stock Contractors</a>';			
+			BULLS[BULLS.length] = '<a href="/competition/bullteams/">2008 Bull Teams</a>';			
+			
+				var SCHEDULE = new Array();		
+			SCHEDULE[SCHEDULE.length] = '<a href="/competition/bfts">2008 Built Ford Tough Series Schedule</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="/competition/ct">2008 Copenhagen Bull Riding Challenger Tour Schedule</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="/competition/ENT">2008 Enterprise Tour Schedule</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="/competition/hnh">2008 Discovery Tour Schedule</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="/media/tv">Television Schedule</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="http://pbrnow.com.br">PBR Brazil</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="http://www.pbraustralia.com">PBR Australia</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="http://www.pbrcanada.com">PBR Canada</a>';			
+			SCHEDULE[SCHEDULE.length] = '<a href="http://www.pbrmexico.com">PBR Mexico</a>';			
+			
+				var PBR101 = new Array();		
+			PBR101[PBR101.length] = '<a href="http://www.youtube.com/watch?v=dmxtHv6WpR0 ">PBR 101 Video</a>';			
+			PBR101[PBR101.length] = '<a href="/about/sportinfo/basics.cfm">Bull Riding Basics</a>';			
+			PBR101[PBR101.length] = '<a href="/about/sportinfo/equipment.cfm">Bull Riding Equipment</a>';			
+			PBR101[PBR101.length] = '<a href="/about/sportinfo">All About Bull Riding</a>';			
+			PBR101[PBR101.length] = '<a href="/about/sportinfo/dictionary.cfm">Bull Riding Dictionary</a>';			
+			PBR101[PBR101.length] = '<a href="/ridersbulls/bullfighters">Bullfighters</a>';			
+			PBR101[PBR101.length] = '<a href="/about/site/help.cfm">FAQ</a>';			
+			PBR101[PBR101.length] = '<a href="/competition/scoring/">Ride and Event Scoring</a>';			
+			PBR101[PBR101.length] = '<a href="/competition/draft.cfm">PBR Second Round Draft</a>';			
+			
+				var ABOUTPBR = new Array();		
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/about">About US</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/contact">Contact Us</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/about/PBRInc/Staff.cfm">Staff Directory</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/construction">New PBR HQ</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/riders/ringofhonor">Ring of Honor</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="http://www.resistolrelief.com">Resistol Relief Foundation</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/cherrylane">PBR Music</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/careers">Careers</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/blog">PBR Blogs</a>';			
+			ABOUTPBR[ABOUTPBR.length] = '<a href="/community-relations/">Community Relations</a>';			
+			
+				var SPONSORS = new Array();		
+			
+				var FANS = new Array();		
+			FANS[FANS.length] = '<a href="http://www.teampbr.com">Join TeamPBR</a>';			
+			FANS[FANS.length] = '<a href="/signup">Newsletter/Mailing list</a>';			
+			FANS[FANS.length] = '<a href="/shop">PBR Store</a>';			
+			FANS[FANS.length] = '<a href="http://www.resistolrelief.com">Resistol Relief Fund</a>';			
+			FANS[FANS.length] = '<a href="http://www.probullridingoutreach.com/">PBR Outreach</a>';			
+			FANS[FANS.length] = '<a href="http://www.pbrfantasy.com">PBR Fantasy</a>';			
+			FANS[FANS.length] = '<a href="http://www.pbrnow.com/webchat">PBR Web Chats</a>';			
+			FANS[FANS.length] = '<a href="/clubpbr/">Night Club PBR</a>';			
+			FANS[FANS.length] = '<a href="/polls/">Your Voice: Poll Results</a>';			
+			FANS[FANS.length] = '<a href="/blog">PBR Blogs</a>';			
+			FANS[FANS.length] = '<a href="http://www.pbrnow.com/bigsky">PBR Big Sky</a>';			
+			FANS[FANS.length] = '<a href="/radio/">PBR Online Radio Show</a>';			
+			
+				var MULTIMEDIA = new Array();		
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="http://www.youtube.com/pbrnow">PBR Video</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/media/coverage/">In the News</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/media/press/releases.cfm">PBR Press Releases</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/media/mm">Public Event Photos</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="http://pbrnow.com/media/press/2008_Media_and_Photo_Credentia_%20Form.DOC">Media Credential Form</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/media/press">PBR Press Room</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="http://www.pbrphotos.com">Photo Database</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/media/tv">Television Schedule</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="http://pictopia.com/perl/gal?provider_id=603">Fan Photos - Buy Here</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/bull-riding-rides-and-wrecks/">Ride and Wrecks of the Week</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/top-rides/">Top 3 Videos From Each Event</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/blog">PBR Blog</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="/radio/">PBR Online Radio Show</a>';			
+			MULTIMEDIA[MULTIMEDIA.length] = '<a href="http://www.pbrnow.com/pbr-games">PBR Games</a>';			
+			
+				var MERCHANDISE = new Array();		
+			MERCHANDISE[MERCHANDISE.length] = '<a href="/shop">PBR Store</a>';			
+			MERCHANDISE[MERCHANDISE.length] = '<a href="http://pbr.shop.sportstoday.com/Product.aspx?cp=13215_13544_13545&pc=U9CM053">PBR Wrangler Jeans</a>';			
+			MERCHANDISE[MERCHANDISE.length] = '<a href="http://pbr.shop.sportstoday.com/Dept.aspx?cp=13215_13544">Mens</a>';			
+			MERCHANDISE[MERCHANDISE.length] = '<a href="http://pbr.shop.sportstoday.com/Dept.aspx?cp=13215_13546">Ladies</a>';			
+			MERCHANDISE[MERCHANDISE.length] = '<a href="http://pbr.shop.sportstoday.com/Dept.aspx?cp=13215_13547">Kids</a>';			
+			MERCHANDISE[MERCHANDISE.length] = '<a href="http://pbr.shop.sportstoday.com/Dept.aspx?cp=13215_13551">Toys and Collectibles</a>';			
+			
+				var PLAYWIN = new Array();		
+			PLAYWIN[PLAYWIN.length] = '<a href="http://www.invasionofthebulls.com/?bannerid=459571|23047980|185933857">Ford Trucks Invasion of the Bulls</a>';			
+			PLAYWIN[PLAYWIN.length] = '<a href="http://www.yamaha-motor.com/outdoor/nobullsweepstakes.aspx">Yamaha No Bull Sweepstakes</a>';			
+			
+	var menuwidth='165px' //default menu width
+	var menubgcolor='555555' //menu bgcolor
+	var disappeardelay=250 //menu disappear speed onMouseout (in miliseconds)
+	var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+	/////No further editting needed
+	var ie4=document.all
+	var ns6=document.getElementById&&!document.all
+	if (ie4||ns6)
+	document.write('<div id="dropmenudiv" style="filter:alpha(opacity=85);-moz-opacity:.90;opacity:.90; visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+	function getposOffset(what, offsettype){
+	var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+	var parentEl=what.offsetParent;
+	while (parentEl!=null){
+	totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+	parentEl=parentEl.offsetParent;
+	}
+	return totaloffset;
+	}
+	function showhide(obj, e, visible, hidden, menuwidth){
+		
+	if(typeof e.type == 'unknown')
+		usetype = 'mouseover';
+	else
+		usetype = e.type;
+	
+		
+		
+	if (ie4||ns6)
+	dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+	if (menuwidth!=""){
+	dropmenuobj.widthobj=dropmenuobj.style
+	dropmenuobj.widthobj.width=menuwidth
+	}
+	if (usetype=="click" && obj.visibility==hidden || usetype=="mouseover")
+	obj.visibility=visible
+	else if (usetype=="click")
+	obj.visibility=hidden
+	}
+	function iecompattest(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	}
+	function clearbrowseredge(obj, whichedge){
+	var edgeoffset=0
+	if (whichedge=="rightedge"){
+	var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+	dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+	if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+	edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+	}
+	else{
+	var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+	var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+	dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+	if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+	edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+	if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+	edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+	}
+	}
+	return edgeoffset
+	}
+	function populatemenu(what){
+	if (ie4||ns6)
+	dropmenuobj.innerHTML=what.join("")
+	}
+	gbDDTimer = "";
+	gbDDObj = "";
+	gbDDEvt = "";	
+	gbDDName = "";
+	gbDDWidth = "";
+	function delayshowmenu(obj, event, menuName, width)
+	{
+		clearTimeout(gbDDTimer);
+		bgDDObj= obj;
+		gbDDEvt = event;
+		gbDDName = menuName;	
+		gbDDWidth = width;
+		gbDDTimer = setTimeout('eval("dropdownmenu(bgDDObj, gbDDEvt,gbDDName,gbDDWidth );");', 200);		
+	}
+	function dropdownmenu(obj, e, menucontents, menuwidth){
+	if(document.all && parseInt(navigator.appVersion) < 7)
+	{
+		var elements = document.documentElement.getElementsByTagName('select');
+		for (var i=0; i<elements.length; i++)
+           	elements[i].style.visibility = "hidden";
     }
-  } else if (event == "out" ) {
-    for (i=0; i < document.MM_nbOver.length; i++) {
-      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
-  } else if (event == "down") {
-    nbArr = document[grpName];
-    if (nbArr)
-      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
-    document[grpName] = nbArr = new Array();
-    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
-      nbArr[nbArr.length] = img;
-  } }
+	if (window.event) event.cancelBubble=true
+	else if (e.stopPropagation) e.stopPropagation()
+	clearhidemenu()
+	dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+	populatemenu(menucontents)
+	if (ie4||ns6){
+	showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+	dropmenuobj.x=getposOffset(obj, "left")
+	dropmenuobj.y=getposOffset(obj, "top")
+	dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+	dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+	}
+	return clickreturnvalue()
+	}
+	function clickreturnvalue(){
+	if (ie4||ns6) return false
+	else return true
+	}
+	function contains_ns6(a, b) {
+	while (b.parentNode)
+	if ((b = b.parentNode) == a)
+	return true;
+	return false;
+	}
+	function dynamichide(e){
+	if (ie4&&!dropmenuobj.contains(e.toElement))
+	delayhidemenu()
+	else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+	delayhidemenu()
+	}
+	function hidemenu(e){
+	if(document.all && parseInt(navigator.appVersion) < 7)
+	{
+		var elements = document.documentElement.getElementsByTagName('select');
+		for (var i=0; i<elements.length; i++)
+           	elements[i].style.visibility = "visible";
+    }		
+	if (typeof dropmenuobj!="undefined"){
+	if (ie4||ns6)
+	dropmenuobj.style.visibility="hidden"
+	}
+	}
+	function delayhidemenu(){
+			clearTimeout(gbDDTimer);
+	if (ie4||ns6)
+	delayhide=setTimeout("hidemenu()",disappeardelay)
+	}
+	function clearhidemenu(){
+	if (typeof delayhide!="undefined")
+	clearTimeout(delayhide)
+	}
+	if (hidemenu_onclick=="yes")
+	document.onclick=hidemenu
+	
+	function addLoadEvent(_function) {
+	var _onload = window.onload;
+	if ( typeof window.onload != 'function' ) {
+	if ( window.onload ) {
+	window.onload = _function;
+	} else {
+	var _addEventListener = window.addEventListener || document.addEventListener;
+	var _attachEvent = window.attachEvent || document.attachEvent;
+	if ( _addEventListener ) {
+	_addEventListener('load', _function, true);
+	return true;
+	} else if ( _attachEvent ) {
+	var _result = _attachEvent('onload', _function);
+	return _result;
+	} else {
+	//todo: preloading fix for ie5.2 on mac os
+	return false;
+	}
+	}
+	} else {
+			window.onload = function() {
+			_onload();
+			_function();
+		}
+	}
+	}
+	
+	lastStoryUsed = 1;
+	function activateStory(targetStory, imageId)
+	{
+		try{
+			var slidI = document.getElementById('slideImage');
+			if(document.getElementById('storyText' + lastStoryUsed))
+			{
+				//IE and FF have different float commands
+				if(slidI && slidI.style.styleFloat)
+					slidI.style.styleFloat = 'none';	
+				else if (slidI)
+					slidI.style.cssFloat = 'none';
+							
+				document.getElementById('storyText' + lastStoryUsed).style.display = 'none';		
+			}
+
+			if(document.getElementById('storyTitle' + lastStoryUsed))
+				document.getElementById('storyTitle' + lastStoryUsed).style.display = 'none';		
+
+			if(document.getElementById('storyTitle' + targetStory))
+				document.getElementById('storyTitle' + targetStory).style.display = 'block';						
+					
+			
+			if(document.getElementById('storyText' + targetStory))
+			{
+				//IE and FF have different float commands
+				if(slidI && slidI.style.styleFloat)
+					slidI.style.styleFloat = 'left';	
+				else if (slidI)
+					slidI.style.cssFloat = 'left';		
+				document.getElementById('storyText' + targetStory).style.display = 'inline';	
+			}
+
+			document.getElementById('videoPlayer').innerHTML = "";
+			hideAndActivateText(lastStoryUsed, targetStory);	
+			document.getElementById('HPFCenterImage').style.top = -((250 * (targetStory -1)) + 1) + 'px';
+			FixBoxes();
+
+			lastStoryUsed = targetStory;	
+
+		}catch(e){
+		}
+	}
+	
+	function showYoutube(utubeId, story, autoplay)
+	{
+		//shows appropriate text
+		//activateStory(story);
+		//hides the image slider
+		activateStory(story, 0);
+		try{
+		document.getElementById('HPFCenterImage').style.top = (250) + 'px';
+		}catch(e){}
+		//write the video player 
+		if(utubeId.indexOf('http') == -1)
+			embedSource = "http://www.youtube.com/v/" + utubeId + "&autoplay=" + autoplay;
+		else
+			embedSource = utubeId + "&amp;autoplay=" + 1;
+
+		var ytFlash = new SWFObject(embedSource, "myytplayer", "442", "320", "8.0");
+	//	var yourDevKey = 'AI39si5ZYda4KHUD8hIxgJZVKx-t5SP0QHnN_GysjQno86PT67hpyRIHFUMflLHz_AnwkB2PUspNy7_lZyBr44Rf9a4Q7rmHrA';
+	//	var ytFlash = new SWFObject("http://gdata.youtube.com/apiplayer?key="+yourDevKey+"&enablejsapi=1&playerapiid=ytapiplayer", "ytapiplayer", "442", "320", "8.0");		
+		ytFlash.addParam("wmode", "transparent");
+	//	ytFlash.addParam('allowScriptAccess', "always");		
+		ytFlash.write("videoPlayer");
+//		
+
+		
+	}
+ 	function onYouTubePlayerReady(playerId)
+	{
+  		ytplayer = document.getElementById("ytapiplayer");
+  		ytplayer.addEventListener("onStateChange", "onytplayerStateChange");
+		ytplayer.loadVideoById("IeZV3EoWegA", 0);
+	}
+	
+	function onytplayerStateChange(newState) {
+
+	}
+		function showYoutubeSubstory(utubeId, story, autoplay)
+	{
+
+		//write the video player 
+		activateStory(10,4511);
+		document.getElementById('HPFCenterImage').style.top = (250) + 'px';		
+		hideAndActivateText(lastTextActivated, story);		
+		lastTextActivated = story;
+		if(utubeId.toUpperCase().indexOf('HTTP') == -1)
+			var ytFlash = new SWFObject("http://www.youtube.com/v/" + utubeId + "&autoplay=" + autoplay, "youtubeFlash", "442", "320", "8.0");
+		else
+			var ytFlash = new SWFObject(utubeId + "&autoplay=" + autoplay, "youtubeFlash", "442", "320", "8.0");
+		ytFlash.addParam("wmode", "transparent");
+		ytFlash.write("videoPlayer");
+		if(document.getElementById('slideText' + story))		//sanity check
+			document.getElementById('slideText' + story).style.display = 'block';		
+	}
+	
+	 
+	lastTextActivated = 1;
+	function hideAndActivateText(lastStory, newStory)
+	{
+		if(!lastStory)
+			lastStory =0 ;
+		if(lastStory != "" && newStory != lastStory)
+		{
+			if(document.getElementById('slideText' + lastStory))
+				document.getElementById('slideText' + lastStory).style.display = 'none';	
+		
+			if(document.getElementById('slideText' + newStory))		//sanity check
+				document.getElementById('slideText' + newStory).style.display = 'block';			
+		}
+	}
+	
+
+	
+	function handleAnswer(respText)
+	{
+				try{
+					setTimeout('FixBoxes();', 100);
+				}catch(e){
+				}
+	}
+
+	function recordPollAnswer(pid)
+	{
+		var voter = new myXMLObj("pollDiv", "/pollRecorder.cfm", "pid=" + pid);
+		voter.callback = handleAnswer;
+		voter.send();	
+	}
+
+	function multiAnswerPoll(questionId)
+	{
+		var answerNodeList = document.getElementsByName('pollAnswer');
+		var answers = "";
+		for (var mapCtr = 0; mapCtr < answerNodeList.length; mapCtr++)
+			if(answerNodeList[mapCtr].checked)
+				answers += ',' + answerNodeList[mapCtr].value;
+		
+		if(answers.length > 0)
+			answers = answers.substring(1, answers.length);
+		else
+			return;			
+
+		var voter = new myXMLObj("pollDiv", "/pollRecorder.cfm", "pid=" + answers);
+		voter.callback = handleAnswer;
+		voter.send();
+		
+	}
+
+	function multiAnswerResults(questionid)
+	{
+		var voter = new myXMLObj("pollDiv", "/pollRecorder.cfm", "qid=" + questionid);
+		voter.callback = handleAnswer;
+		voter.send();		
+	}
+
+
+	function myXMLObj(targDivIn, targUrlIn, postParamsIn){
+		this.targetDiv 	= targDivIn;
+		this.targUrl 	= targUrlIn;
+		this.postParams 	= postParamsIn;
+		this.callback = "undef";
+		this.send = function()
+		{
+			if(document.getElementById(this.targetDiv))
+				var theTargetDivObj = document.getElementById(this.targetDiv);
+			req = false;
+			params = this.postParams;
+			if (params != "")
+				method = "POST";
+			else
+				method = "GET";
+			contentType = "application/x-www-form-urlencoded";
+		    if(window.XMLHttpRequest) {
+	    		try {
+					req = new XMLHttpRequest();
+				}catch(e) {
+					req = false;
+				}
+			}else if(window.ActiveXObject)
+			{
+				 try {
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch(e) {
+					try {
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+						req = false;
+					}
+				}
+	    	}
+			if(req)
+			{
+				var self = this; // put a reference to "this" in a local-scoped variable
+				req.onreadystatechange = function()
+				{
+					self.processReqChange();
+				};
+				result = this.targUrl.match(/\?/gi);
+				if(method == "GET")
+				{
+					
+					
+					if(globalArgs == "" && typeof 'parseUri' != 'undefined' && parseUri(window.location.href)['query'])
+						extraString = parseUri(window.location.href)['query'];
+					else
+						extraString = globalArgs;
+	
+					
+					if (result != null) 
+						useUrl = this.targUrl + "&" + extraString + "&test=" + Math.random();
+			    	else
+			    		useUrl =  this.targUrl + "?" + extraString + "&DD_test=" + Math.random();
+	
+			    	uri = parseUri('http://www.pbrnow.com/' + useUrl + '&' + extraString);
+					query = uri['query'];	
+					
+					args = new Array(); 
+					args = query.split('&');
+					UIFIER = new Array();
+					for(argsLength = 0;argsLength < args.length;argsLength++)
+						if(args.length > 0)
+						{ 
+							thisParam = args[argsLength].split("=");
+							if(thisParam[0])
+							{
+								eval('thisResult = typeof ' + thisParam[0])
+								if(!thisParam[1])
+									thisParam[1] = ''; 
+								UIFIER[thisParam[0].toUpperCase()]= thisParam[1];
+							}
+						}		    	
+			    	useString = "?a=1";
+			    	for(key in UIFIER)
+			    		if (UIFIER[key].indexOf('__array') == -1 && key.indexOf('__array'))
+				    		useString += "&" + key + "=" + UIFIER[key];
+				    if(uri['path'].length < 1)
+				    	useUrl = '/' + useString;
+				    else
+				    	useUrl = uri['path'] + useString;
+				    useUrl = useUrl.replace('//', '/');
+					
+				    req.open(method, useUrl, true);
+		  		}else
+				    req.open(method, this.targUrl, true);
+	
+				if(contentType)
+					req.setRequestHeader("Content-Type", contentType);
+				req.send(params);	
+			}
+	     }
+	
+		this.processReqChange = function()
+		{
+			if (req.readyState == 4)
+			{
+				if (req.status == 200) 
+				{
+					if(this.targetDiv == 'ignore')
+					{
+					
+					}
+					else if(this.targetDiv != "LogInProcess" && this.targetDiv != "LogOutProcess" && this.targetDiv != "errorReport")
+			            swapDivText(this.targetDiv, req.responseText,this.targUrl);
+					else
+						performOnLoadOperations(this.targetDiv, this.targetUrl, displayList[currentLoad]);
+						
+					beenClicked = 0;	
+					if(this.callback != "undef")
+						this.callback(req.responseText);	
+				} else {
+					alert ( "Error: " + req.status + " \n Text: " + req.statusText + "\n" + this.targUrl);
+					checkLoadNextContent();
+	      		}
+				if(document.getElementById('loadingNoticeDiv'))
+					document.getElementById('loadingNoticeDiv').style.visibility = "hidden";
+	        }
+		}
+	}
+	
+	function swapDivText(id, text)
+	{
+	 eval("divToSwap = document.getElementById('"+ id + "');");
+	 if(divToSwap && divToSwap.innerHMTL != text && text.indexOf("A Problem Has Occurred") == -1)
+	 {
+		divToSwap.style.visibility = "visible";
+	 	divToSwap.innerHTML = text;
+	 }
+	 else
+	 {
+		if( text.indexOf("A Problem Has Occurred") != -1)
+			error = "A content error occured.";
+		else if (!divToSwap )
+			error = "No container could be located: " + id ;
+		else if (divToSwap.innerHMTL == text)
+			error = "Same content already on page.";
+		else
+			error = "Unknown error";
+	
+		displayNotice("Content Error", "Unable to display some, or all, of the page content. We apologize for this.<br>" + error, "pageErrorNotice", 400);
+	   //alert("Unable to display some, or all, of the page content. We apologize for this");
+	 }
+	}
+	
+	function switchResultsTo(targTab) 
+	{
+		if( document.getElementById("resultDiv" + targTab) )
+		{
+			try{
+				switchToTab(targTab);
+				if (targTab <= 5)
+				{
+					startTab = 1;
+					endTab = 6;	
+				}else{
+					startTab = 6;
+					endTab = 10;					
+				}
+				for (i = startTab; i < endTab; i++)
+					if (i != targTab && document.getElementById("resultDiv" + i))
+						document.getElementById("resultDiv" + i).style.display = "none";
+			}catch(e){
+					
+			}
+					
+			document.getElementById("resultDiv" + targTab).style.display = "block";
+		}
+		try{FixBoxes();}catch(e){}
+	}	
+	
+	function switchToTab(targTab)
+	{
+		if (targTab <= 5)
+		{
+			startTab = 1;
+			endTab = 6;	
+		}else{
+			startTab = 6;
+			endTab = 10;					
+		}		
+		for (i = startTab; i < endTab; i++)
+		{
+			try{			
+				if (i != targTab && document.getElementById('tabLeft' + i))
+				{
+					document.getElementById('tabLeft' + i).style.backgroundImage='url(/images/tabs/tabOffLeft.jpg)';
+					document.getElementById('tabMiddle' + i).style.backgroundImage='url(/images/tabs/tabOffMiddle.jpg)';
+					document.getElementById('tabRight' + i).style.backgroundImage='url(/images/tabs/tabOffRight.jpg)';
+				}
+			}catch(e){
+					
+			}				
+		}	
+		document.getElementById('tabLeft' + targTab).style.backgroundImage='url(/images/tabs/tabOnLeft.jpg)';
+		document.getElementById('tabMiddle' + targTab).style.backgroundImage='url(/images/tabs/tabOnMiddle.jpg)';
+		document.getElementById('tabRight' + targTab).style.backgroundImage='url(/images/tabs/tabOnRight.jpg)';	
+		return true;
+	}	
+	
+	function collapseExpand(tagId)
+	{
+		var tdd = document.getElementById(tagId);		
+		var td = document.getElementById(tagId + 'ff');
+		var txt = document.getElementById(tagId + 'text');
+		var expandText = "<font color=white>Click here to Expand this area and view its contents</font>";
+		var collapseText = "<font color=white>Collapse</font>";
+		if(document.all)
+		{
+
+			if (!tdd)
+				return;
+			else if ( tdd.style.display != 'none')
+			{
+				tdd.style.display = "none";
+				txt.innerHTML = expandText;
+			}
+			else 
+			{
+				tdd.style.display = "block";
+				txt.innerHTML = collapseText;
+			}
+		}else{
+			if (!td)
+				return;
+			else if ( td.style.height != '30px')
+			{
+				td.style.height = '30px';
+				tdd.style.visibility = "hidden";
+				txt.innerHTML = expandText;
+			}
+			else 
+			{
+				tdd.style.visibility = "visible";
+				td.style.height = 'auto';
+				txt.innerHTML = collapseText;								
+			}
+		}			
+		try{
+		FixBoxes();
+		setTimeout('FixBoxes();', 10);
+		}catch(e){}
+	}
+bpc=0;
+width = 80;
+doRotate = true;
+rotateCalled = false;
+oldPos = "";
+
+//<!-- rotateStaticBanners()
+function rotateStaticBanners()
+{
+	try{
+	if(doRotate)
+	{
+		for ( bannerLocation in bannerSwapperArray )
+		{
+			if(! isNaN(bannerLocation) && document.getElementById('bannerLocation'+bannerLocation+'div') )// if we dont have that, we cant swap
+			{
+				bannerSwapperArray[bannerLocation ][0]++;
+				curspot = bannerSwapperArray[bannerLocation][0] % (bannerSwapperArray[bannerLocation].length - 1);
+				curspot++;
+				if(bannerSwapperArray[bannerLocation][curspot][3] == 1)//we are swapping in some custom tag code
+				{
+					document.getElementById('bannerLocation' + bannerLocation + 'div').innerHTML = bannerSwapperArray[bannerLocation][curspot][0];
+					
+
+				}else{//we are swapping in some image
+					//alert("cs: " + curspot);
+		      		var randomnumber=Math.floor(Math.random()*101)
+		      		if(randomnumber < 50)
+		      			motion = "forward";
+		      		else
+		      			motion = "reverse";
+		      		var randomnumber=Math.floor(Math.random()*101)
+		      		if(randomnumber < 50)
+		      			WipeStyle = 1;
+		      		else
+		      			WipeStyle = 0;		
+					var imgobj = document.getElementById('img' + bannerLocation );
+					var linkobj = document.getElementById('link' + bannerLocation );
+		
+					if(imgobj && linkobj)//else we need to create the objects and insert into the div conntainer.
+					{
+						linkobj.href  = 'http://www.pbrnow.com/newHC.cfm?id=' + bannerSwapperArray[bannerLocation][curspot][2];
+			      		var filterstring="progid:DXImageTransform.Microsoft.GradientWipe(GradientSize=.6 Duration=1 WipeStyle="+WipeStyle+" Motion="+motion+")";
+		      	            if (imgobj.filters && window.createPopup)
+		            	    {
+		                  	   	imgobj.style.filter=filterstring
+		                     	imgobj.filters[0].Apply()
+								imgobj.src = bannerSwapperArray[bannerLocation][curspot][0];
+		      					imgobj.filters[0].Play()
+		                  	}else
+								imgobj.src = bannerSwapperArray[bannerLocation][curspot][0];
+					}else{//need to build html ele's and insert into appropriate div
+						document.getElementById('bannerLocation' + bannerLocation + 'div').innerHTML = '<a href=\'http://www.pbrnow.com/newHC.cfm?id=' + bannerSwapperArray[bannerLocation][curspot][2] + '\' id="link'+bannerLocation+'"><img id="img' + bannerLocation + '" border=0 src="'+bannerSwapperArray[bannerLocation][curspot][0]+'"></a>';
+					}
+				}
+			}
+		}
+	}
+	}catch(e){
+	}
 }
 //-->
-</script>
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="/images/index2005/v3/pbr_header2.gif" width="750" height="25"></td>
-  </tr>
-  <tr>
-    <td valign="top"><table width="750" border="0" cellspacing="0" cellpadding="0">
-	  <tbody><tr bgcolor="black">
-	  	<td colspan="3" width="310" valign="BOTTOM"><img src="/images/index2005/v3/logotop.gif" width="61" height="11"></td>
-		<td align="CENTER" width="110"><a class="SchedLinks" href="/competition/BFTS/events.cfm#sched" target="_top" onclick="MM_nbGroup('down','group1','bfts','/images/index2005/v3/bfts-down.gif',1)" onmouseover="MM_nbGroup('over','bfts','/images/index2005/v3/bfts-down.gif','/images/index2005/v3/bfts-down.gif',1)" onmouseout="MM_nbGroup('out')">Schedule/Results</a></td>
-		<td align="CENTER" width="110"><a class="SchedLinks" href="/competition/CT/events06.cfm#sched" target="_top" onclick="MM_nbGroup('down','group1','chal','/images/index2005/v3/usst-down.gif',1)" onmouseover="MM_nbGroup('over','chal','/images/index2005/v3/usst-down.gif','/images/index2005/v3/usst-down.gif',1)" onmouseout="MM_nbGroup('out')">Schedule/Results</a></td>
-		<td align="CENTER" width="110"><a class="SchedLinks" href="/competition/ENT/events.cfm#sched" target="_top" onclick="MM_nbGroup('down','group1','ent','/images/index2005/v3/ent-down.gif',1)" onmouseover="MM_nbGroup('over','ent','/images/index2005/v3/ent-down.gif','/images/index2005/v3/ent-down.gif',1)" onmouseout="MM_nbGroup('out')">Schedule/Results</a></td>
-		<td align="CENTER" width="110"><a class="SchedLinks" href="/competition/HNH/events.cfm#sched" target="_top" onclick="MM_nbGroup('down','group1','hnh','/images/index2005/v3/hnh-dwon.gif',1)" onmouseover="MM_nbGroup('over','hnh','/images/index2005/v3/hnh-dwon.gif','/images/index2005/v3/hnh-dwon.gif',1)" onmouseout="MM_nbGroup('out')">Schedule/Results</a></td>
-	  </tr>
-      <tr background="/images/index2005/v3/red.gif">
-        <td width="107"><a href="/"><img src="/images/index2005/v3/pbrlogo-mid.gif" width="107" height="70" border="none"></a></td>
-        <td background="/images/index2005/v3/red.gif" width="108"><font size="2" color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif">December 19, 2005</font></td>
-		<td background="/images/index2005/v3/red.gif" width="95"> 
+rotateInterval = setInterval('rotateStaticBanners()', 10000);
 
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="7"><img src="/images/index2005/v3/storel.gif" width="7" height="64" border="0"></td>
-		<td width="88"><div id="merchslide" style="width:88px; height:64px">
-		<div id="merchgyg" style="display: none; position: absolute; width: 88px; height: 64px;"><a href="/shop/"><img src="/images/index2005/v3/storer.gif" width="88" height="64" border="0"></a></div>
 
-	<div id="merchf1" style="display: block; position: absolute; width: 88px; height: 64px;"><a href="/shop/"><img src="http://www.pbrnow.com/images/shopprod/hpicons/pic4.jpg" alt="Deluxe Micro Icon" width="88" height="64" border="0"></a></div>
+bannerSwapperArray = new Array();
 
-	<div id="merchf2" style="display: none; position: absolute; width:88px; height:64px"><a href="/shop/"><img src="http://www.pbrnow.com/images/shopprod/hpicons/pic6.jpg" alt="GIT-R-DONE T-SHIRT" width="88" height="64" border="0"></a></div>
-
-	<div id="merchf3" style="display: none; position: absolute; width:88px; height:64px"><a href="/shop/"><img src="http://www.pbrnow.com/images/shopprod/hpicons/pic3.jpg" alt="Buckles" width="88" height="64" border="0"></a></div>
-
-	<div id="merchf4" style="display: none; position: absolute; width:88px; height:64px"><a href="/shop/"><img src="http://www.pbrnow.com/images/shopprod/hpicons/pic2.jpg" alt="Headwear" width="88" height="64" border="0"></a></div>
-
-	<div id="merchf5" style="display: none; position: absolute; width:88px; height:64px"><a href="/shop/"><img src="http://www.pbrnow.com/images/shopprod/hpicons/feat1.jpg" alt="Outerwear" width="88" height="64" border="0"></a></div>
-
-		</div></td>
-	</tr>
-</tbody></table>
-
-<script language="Javascript">
-var curfeat=1;
-var feattog=0;
-var maxfeats=5;
-
-var MerchHandle = 0;
-
-function getElement(psID) {
-   if(document.all) {
-      return document.all[psID];
-   } else {
-      return document.getElementById(psID);
-   }
-}
-
-function NextMerch ()
-{
-	if (feattog)
+	if(!bannerSwapperArray[1])
 	{
-		for (i=1; i <= maxfeats; i++)
+		bannerSwapperArray[1] = new Array();
+		bannerSwapperArray[1][0] = 0;
+	}
+	bannerSwapperArray[1][bannerSwapperArray[1].length] = new Array();
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][0] = 'http://ad.doubleclick.net/ad/N3016.pbrnow/B2273310;sz=150x225;ord=1213949848144?';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][1] = '1';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][2] = '122&ts=1213949848144';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[1])
+	{
+		bannerSwapperArray[1] = new Array();
+		bannerSwapperArray[1][0] = 0;
+	}
+	bannerSwapperArray[1][bannerSwapperArray[1].length] = new Array();
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][0] = 'http://www.pbrnow.com/uploads/finals.JPG';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][1] = '0';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][2] = '189&ts=1213949848144';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[1])
+	{
+		bannerSwapperArray[1] = new Array();
+		bannerSwapperArray[1][0] = 0;
+	}
+	bannerSwapperArray[1][bannerSwapperArray[1].length] = new Array();
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][0] = 'http://ad.doubleclick.net/ad/N3016.pbrnow/B2273310;sz=150x225;ord=1213949848144?';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][1] = '1';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][2] = '195&ts=1213949848144';
+	bannerSwapperArray[1][bannerSwapperArray[1].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[9])
+	{
+		bannerSwapperArray[9] = new Array();
+		bannerSwapperArray[9][0] = 0;
+	}
+	bannerSwapperArray[9][bannerSwapperArray[9].length] = new Array();
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][0] = 'http://www.pbrnow.com/uploads/073081_160x751.gif';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][1] = '17';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][2] = '8&ts=1213949848144';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[9])
+	{
+		bannerSwapperArray[9] = new Array();
+		bannerSwapperArray[9][0] = 0;
+	}
+	bannerSwapperArray[9][bannerSwapperArray[9].length] = new Array();
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][0] = 'http://www.pbrnow.com/uploads/Recog_Banner_Nash_160x75.gif';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][1] = '1';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][2] = '179&ts=1213949848144';
+	bannerSwapperArray[9][bannerSwapperArray[9].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[23])
+	{
+		bannerSwapperArray[23] = new Array();
+		bannerSwapperArray[23][0] = 0;
+	}
+	bannerSwapperArray[23][bannerSwapperArray[23].length] = new Array();
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][0] = 'http://www.pbrnow.com/uploads/073081_160x75.gif';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][1] = '8';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][2] = '147&ts=1213949848144';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[23])
+	{
+		bannerSwapperArray[23] = new Array();
+		bannerSwapperArray[23][0] = 0;
+	}
+	bannerSwapperArray[23][bannerSwapperArray[23].length] = new Array();
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][0] = 'http://www.pbrnow.com/uploads/073081_160x75.gif';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][1] = '11';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][2] = '148&ts=1213949848144';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[23])
+	{
+		bannerSwapperArray[23] = new Array();
+		bannerSwapperArray[23][0] = 0;
+	}
+	bannerSwapperArray[23][bannerSwapperArray[23].length] = new Array();
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][0] = 'http://www.pbrnow.com/uploads/073081_160x75.gif';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][1] = '4';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][2] = '154&ts=1213949848144';
+	bannerSwapperArray[23][bannerSwapperArray[23].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[24])
+	{
+		bannerSwapperArray[24] = new Array();
+		bannerSwapperArray[24][0] = 0;
+	}
+	bannerSwapperArray[24][bannerSwapperArray[24].length] = new Array();
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][0] = 'http://www.pbrnow.com/uploads/CCanim.gif';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][1] = '16';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][2] = '149&ts=1213949848144';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[24])
+	{
+		bannerSwapperArray[24] = new Array();
+		bannerSwapperArray[24][0] = 0;
+	}
+	bannerSwapperArray[24][bannerSwapperArray[24].length] = new Array();
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][0] = 'http://www.pbrnow.com/images/sidebarbanners/CCanim.gif';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][1] = '9';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][2] = '150&ts=1213949848144';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[24])
+	{
+		bannerSwapperArray[24] = new Array();
+		bannerSwapperArray[24][0] = 0;
+	}
+	bannerSwapperArray[24][bannerSwapperArray[24].length] = new Array();
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][0] = 'http://www.pbrnow.com/images/sidebarbanners/CCanim.gif';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][1] = '6';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][2] = '151&ts=1213949848144';
+	bannerSwapperArray[24][bannerSwapperArray[24].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[25])
+	{
+		bannerSwapperArray[25] = new Array();
+		bannerSwapperArray[25][0] = 0;
+	}
+	bannerSwapperArray[25][bannerSwapperArray[25].length] = new Array();
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][0] = 'http://www.pbrnow.com/uploads/yamaha_sm.gif';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][1] = '13';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][2] = '106&ts=1213949848144';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[25])
+	{
+		bannerSwapperArray[25] = new Array();
+		bannerSwapperArray[25][0] = 0;
+	}
+	bannerSwapperArray[25][bannerSwapperArray[25].length] = new Array();
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][0] = 'http://www.pbrnow.com/uploads/club_banner.jpg';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][1] = '9';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][2] = '68&ts=1213949848144';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[25])
+	{
+		bannerSwapperArray[25] = new Array();
+		bannerSwapperArray[25][0] = 0;
+	}
+	bannerSwapperArray[25][bannerSwapperArray[25].length] = new Array();
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][0] = 'http://www.pbrnow.com/uploads/abbi-2008.jpg';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][1] = '6';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][2] = '275&ts=1213949848144';
+	bannerSwapperArray[25][bannerSwapperArray[25].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[28])
+	{
+		bannerSwapperArray[28] = new Array();
+		bannerSwapperArray[28][0] = 0;
+	}
+	bannerSwapperArray[28][bannerSwapperArray[28].length] = new Array();
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][0] = 'http://www.pbrnow.com/uploads/bigTex160x75.jpg';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][1] = '1';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][2] = '169&ts=1213949848144';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[28])
+	{
+		bannerSwapperArray[28] = new Array();
+		bannerSwapperArray[28][0] = 0;
+	}
+	bannerSwapperArray[28][bannerSwapperArray[28].length] = new Array();
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][0] = 'http://ad.doubleclick.net/ad/N3016.pbrnow/B2273310.2;sz=160x75;ord=1213949848144?';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][1] = '1';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][2] = '164&ts=1213949848144';
+	bannerSwapperArray[28][bannerSwapperArray[28].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[38])
+	{
+		bannerSwapperArray[38] = new Array();
+		bannerSwapperArray[38][0] = 0;
+	}
+	bannerSwapperArray[38][bannerSwapperArray[38].length] = new Array();
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][0] = 'http://www.pbrnow.com/uploads/073081_160x75.gif';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][1] = '1';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][2] = '211&ts=1213949848144';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[38])
+	{
+		bannerSwapperArray[38] = new Array();
+		bannerSwapperArray[38][0] = 0;
+	}
+	bannerSwapperArray[38][bannerSwapperArray[38].length] = new Array();
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][0] = 'http://www.pbrnow.com/images/sidebarbanners/CCanim.gif';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][1] = '1';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][2] = '212&ts=1213949848144';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[38])
+	{
+		bannerSwapperArray[38] = new Array();
+		bannerSwapperArray[38][0] = 0;
+	}
+	bannerSwapperArray[38][bannerSwapperArray[38].length] = new Array();
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][0] = 'http://www.pbrnow.com/uploads/150x75jewelad.jpg';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][1] = '2';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][2] = '385&ts=1213949848144';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[38])
+	{
+		bannerSwapperArray[38] = new Array();
+		bannerSwapperArray[38][0] = 0;
+	}
+	bannerSwapperArray[38][bannerSwapperArray[38].length] = new Array();
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][0] = 'http://www.pbrnow.com/uploads/pcitopia-banner2.jpg';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][1] = '1';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][2] = '374&ts=1213949848144';
+	bannerSwapperArray[38][bannerSwapperArray[38].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[39])
+	{
+		bannerSwapperArray[39] = new Array();
+		bannerSwapperArray[39][0] = 0;
+	}
+	bannerSwapperArray[39][bannerSwapperArray[39].length] = new Array();
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][0] = 'http://www.pbrnow.com/uploads/abbi-20082.jpg';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][1] = '1';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][2] = '277&ts=1213949848144';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[39])
+	{
+		bannerSwapperArray[39] = new Array();
+		bannerSwapperArray[39][0] = 0;
+	}
+	bannerSwapperArray[39][bannerSwapperArray[39].length] = new Array();
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][0] = 'http://www.pbrnow.com/uploads/rodeo.jpg';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][1] = '1';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][2] = '219&ts=1213949848144';
+	bannerSwapperArray[39][bannerSwapperArray[39].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[41])
+	{
+		bannerSwapperArray[41] = new Array();
+		bannerSwapperArray[41][0] = 0;
+	}
+	bannerSwapperArray[41][bannerSwapperArray[41].length] = new Array();
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][0] = 'http://www.pbrnow.com/uploads/youtube-banner1.jpg';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][1] = '1';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][2] = '218&ts=1213949848144';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[41])
+	{
+		bannerSwapperArray[41] = new Array();
+		bannerSwapperArray[41][0] = 0;
+	}
+	bannerSwapperArray[41][bannerSwapperArray[41].length] = new Array();
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][0] = 'http://www.pbrnow.com/uploads/daisy.jpg';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][1] = '1';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][2] = '220&ts=1213949848144';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[41])
+	{
+		bannerSwapperArray[41] = new Array();
+		bannerSwapperArray[41][0] = 0;
+	}
+	bannerSwapperArray[41][bannerSwapperArray[41].length] = new Array();
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][0] = '<IFRAME SRC="http://ad.doubleclick.net/adi/N3016.pbrnow/B2629848.2;sz=160x75;ord=1213949848144?" WIDTH=160 HEIGHT=75 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\'><scr ipt language=\'Javascr ipt1.1\' SRC="http://ad.doubleclick.net/adj/N3016.pbrnow/B2629848.2;abr=!ie;sz=160x75;ord=1213949848144?"></scr ipt><NOscr ipt><A HREF="http://ad.doubleclick.net/jump/N3016.pbrnow/B2629848.2;abr=!ie4;abr=!ie5;sz=160x75;ord=1213949848144?"><IMG SRC="http://ad.doubleclick.net/ad/N3016.pbrnow/B2629848.2;abr=!ie4;abr=!ie5;sz=160x75;ord=1213949848144?" BORDER=0 WIDTH=160 HEIGHT=75 ALT="Click Here"></A></NOscr ipt></IFRAME>';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][1] = '1';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][2] = '305&ts=1213949848144';
+	bannerSwapperArray[41][bannerSwapperArray[41].length - 1][3] = '1';	
+
+	if(!bannerSwapperArray[42])
+	{
+		bannerSwapperArray[42] = new Array();
+		bannerSwapperArray[42][0] = 0;
+	}
+	bannerSwapperArray[42][bannerSwapperArray[42].length] = new Array();
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][0] = 'http://www.pbrnow.com/uploads/bigTex160x75.jpg';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][1] = '1';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][2] = '222&ts=1213949848144';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[42])
+	{
+		bannerSwapperArray[42] = new Array();
+		bannerSwapperArray[42][0] = 0;
+	}
+	bannerSwapperArray[42][bannerSwapperArray[42].length] = new Array();
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][0] = 'http://www.pbrnow.com/uploads/af-pbr_150x701.jpg';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][1] = '1';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][2] = '367&ts=1213949848144';
+	bannerSwapperArray[42][bannerSwapperArray[42].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[45])
+	{
+		bannerSwapperArray[45] = new Array();
+		bannerSwapperArray[45][0] = 0;
+	}
+	bannerSwapperArray[45][bannerSwapperArray[45].length] = new Array();
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][0] = 'http://www.pbrnow.com/uploads/ford-tough.jpg';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][1] = '1';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][2] = '290&ts=1213949848144';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[45])
+	{
+		bannerSwapperArray[45] = new Array();
+		bannerSwapperArray[45][0] = 0;
+	}
+	bannerSwapperArray[45][bannerSwapperArray[45].length] = new Array();
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][0] = 'http://www.pbrnow.com/uploads/af-pbr_150x70.jpg';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][1] = '1';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][2] = '366&ts=1213949848144';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[45])
+	{
+		bannerSwapperArray[45] = new Array();
+		bannerSwapperArray[45][0] = 0;
+	}
+	bannerSwapperArray[45][bannerSwapperArray[45].length] = new Array();
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][0] = 'http://www.pbrnow.com/uploads/pcitopia-banner1.jpg';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][1] = '2';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][2] = '373&ts=1213949848144';
+	bannerSwapperArray[45][bannerSwapperArray[45].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[52])
+	{
+		bannerSwapperArray[52] = new Array();
+		bannerSwapperArray[52][0] = 0;
+	}
+	bannerSwapperArray[52][bannerSwapperArray[52].length] = new Array();
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][0] = 'http://www.pbrnow.com/images/08FinalsBanner.png';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][1] = '1';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][2] = '296&ts=1213949848144';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[52])
+	{
+		bannerSwapperArray[52] = new Array();
+		bannerSwapperArray[52][0] = 0;
+	}
+	bannerSwapperArray[52][bannerSwapperArray[52].length] = new Array();
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][0] = 'http://www.pbrnow.com/flash/pbrmerch.gif';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][1] = '1';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][2] = '298&ts=1213949848144';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[52])
+	{
+		bannerSwapperArray[52] = new Array();
+		bannerSwapperArray[52][0] = 0;
+	}
+	bannerSwapperArray[52][bannerSwapperArray[52].length] = new Array();
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][0] = 'http://www.pbrnow.com/flash/NewTeamPBR.gif';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][1] = '1';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][2] = '299&ts=1213949848144';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[52])
+	{
+		bannerSwapperArray[52] = new Array();
+		bannerSwapperArray[52][0] = 0;
+	}
+	bannerSwapperArray[52][bannerSwapperArray[52].length] = new Array();
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][0] = 'http://www.pbrnow.com/uploads/08-games-banner1.png';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][1] = '1';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][2] = '381&ts=1213949848144';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][3] = '0';	
+
+	if(!bannerSwapperArray[52])
+	{
+		bannerSwapperArray[52] = new Array();
+		bannerSwapperArray[52][0] = 0;
+	}
+	bannerSwapperArray[52][bannerSwapperArray[52].length] = new Array();
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][0] = 'http://www.pbrnow.com/uploads/08-WC-tickets-banner.png';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][1] = '3';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][2] = '406&ts=1213949848144';
+	bannerSwapperArray[52][bannerSwapperArray[52].length - 1][3] = '0';	
+	
+	/***********************************************
+	* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit http://www.dynamicdrive.com/ for full source code
+	***********************************************/
+	
+	function writeNextEvent()
+	{
+
+		if(document.getElementById('nextEventHolder'))
 		{
-			curdiv=getElement ('merchf' + i);
-			if (i == curfeat)
+			newDiv = document.createElement("div");
+			newDiv.style.position = "relative";
+			newDiv.style.width = "304px";
+			newDiv.style.height = "53px";
+			newDiv.style.top = "10px";
+			newDiv.style.zIndex = 99999;
+			newDiv.style.zindex = 99999; 
+			newDiv.style.left = "380px"; 
+		
+	
+	
+			0.96141822498 
+				newDiv.innerHTML = '<a href="/competition/bfts/eventLoad.cfm?id=08-122"><img src="/images/dallas-Top-banner.png" border=0></a>';
+			
+			document.getElementById('nextEventHolder').appendChild(newDiv);		
+		}
+	}
+	try{
+		addPreload(writeNextEvent);
+//		addLoadEvent(writeNextEvent);
+	}catch(e){
+	}
+
+
+Array.prototype.inArray = function (value) {
+	var i;
+	for (i=0; i < this.length; i++) {
+		if (this[i] === value) {
+			return true;
+		}
+	}
+	return false;
+};
+
+function addEvent( obj, type, fn ) {
+	if (obj.addEventListener) {
+		obj.addEventListener( type, fn, false );
+		EventCache.add(obj, type, fn);
+	}
+	else if (obj.attachEvent) {
+		obj["e"+type+fn] = fn;
+		obj[type+fn] = function() { obj["e"+type+fn]( window.event ); }
+		obj.attachEvent( "on"+type, obj[type+fn] );
+		EventCache.add(obj, type, fn);
+	}
+	else {
+		obj["on"+type] = obj["e"+type+fn];
+	}
+}
+	
+var EventCache = function(){
+	var listEvents = [];
+	return {
+		listEvents : listEvents,
+		add : function(node, sEventName, fHandler){
+			listEvents.push(arguments);
+		},
+		flush : function(){
+			var i, item;
+			for(i = listEvents.length - 1; i >= 0; i = i - 1){
+				item = listEvents[i];
+				if(item[0].removeEventListener){
+					item[0].removeEventListener(item[1], item[2], item[3]);
+				};
+				if(item[1].substring(0, 2) != "on"){
+					item[1] = "on" + item[1];
+				};
+				if(item[0].detachEvent){
+					item[0].detachEvent(item[1], item[2]);
+				};
+				item[0][item[1]] = null;
+			};
+		}
+	};
+}();
+addEvent(window,'unload',EventCache.flush);
+
+	
+	function getLength(text)
+	{
+		//TODO: cleanup so doesnt interfere with page at all (hide in absolute div or something?)
+		var ruler = document.createElement("span");
+		ruler.innerHTML = text;
+		document.body.appendChild(ruler);
+		retVal = ruler.offsetWidth;
+		document.body.removeChild(ruler);
+		return retVal;
+
+	}
+	
+	function getHeight(text)
+	{
+		var ruler = document.createElement("div");
+		ruler.style.width = "290px";
+		ruler.innerHTML = text;
+		document.body.appendChild(ruler);
+		retVal = ruler.offsetHeight;
+		document.body.removeChild(ruler);
+		return retVal;
+		
+	}
+	
+	function getGoodText(text, height, node)
+	{
+		//make a decent start guess	(we'll say 8 pixels a character)
+		retval = text;
+		if(getHeight(retval) > height)
+		{
+			desiredCount = (height /12 ) * 40;
+			retval = text.substring(0, desiredCount);
+			itercount = 0;
+			while(getHeight(retval) > height)
 			{
-				curdiv.style.display='block';
+				itercount++;
+				//todo: optimize to substract an approximation to the goal rather than a fixed, large amount
+				retval = retval.substring(0, retval.length - 65);
+				//lets back up a word
+				inTag = false;
+				while(retval.substring(retval.length - 1, retval.length) != ' ' || inTag)
+				{
+					if (retval.substring(retval.length - 1, retval.length) == '>')
+						inTag = true;
+					if (retval.substring(retval.length - 1, retval.length) == '<')
+						inTag = false;						
+						
+					retval = retval.substring(0, retval.length - 1);
+				}	
 			}
-			else
+			
+			//in case our guess was right, or below, lets back up to a space
+			while(retval.substring(retval.length - 1, retval.length) != ' ')
 			{
-				curdiv.style.display='none';
+				retval = retval.substring(0, retval.length - 1);
+			}			
+			
+			//since we've ended on a space, lets remove it before appending our '...'
+			if(retval.substring(retval.length - 1, retval.length) == ' ')
+				retval = retval.substring(0, retval.length - 1);
+				
+			retval += "...<br>";
+			if(document.getElementById('linkForStory' + node))
+				retval += document.getElementById('linkForStory' + node).innerHTML;
+		}
+		
+		return retval;
+	}
+	
+	function checkStoryLengths(height)
+	{
+		for(var i = 1; i < 15; i++)
+		{	
+			var storySpan = document.getElementById('storyText'  + i);
+			if(storySpan)
+			{
+				storySpan.innerHTML = getGoodText(storySpan.innerHTML, height, i);
 			}
 		}
-		curdiv=getElement ('merchgyg');
-		curdiv.style.display='none';
-		
-		curfeat++;
-		if (curfeat > maxfeats)
-			curfeat=1;
 	}
-	else
-	{
-		for (i=1; i <= maxfeats; i++)
-		{
-			curdiv=getElement ('merchf' + i);
-			curdiv.style.display='none';
+
+	addPreload(function(){
+		try{ 
+			checkStoryLengths(428); 
+			FixBoxes();
+			setTimeout("FixBoxes();", 5000); }
+		catch(e){
+			
 		}
-		curdiv=getElement ('merchgyg');
-		curdiv.style.display='block';
+	}	
+	);
+	
+
+</script></head><body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin-top: 0px;"><div id="dropmenudiv" style="filter:alpha(opacity=85);-moz-opacity:.90;opacity:.90; visibility:hidden;width:165px;background-color:555555" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script type="text/javascript" src="/sifr2.js"></script>
+<script type="text/javascript">
+	if(typeof sIFR == "function" && !sIFR.UA.bIsIEMac){
+		sIFR.setup();
+	};
+</script>
+	
+
+<script type="text/javascript" src="/mapper.js"></script> 
+<script type="text/javascript" src="http://service.twistage.com:80/api/script"></script>
+    <script type="text/javascript">
+      function showPlayer(videoID,GetAutoPlay, story) {
+  
+        	activateStory(story);
+
+      	document.getElementById('HPFCenterImage').style.top = (250) + 'px';
+      document.getElementById('videoPlayer').innerHTML = getVideoViewer(videoID, {width: 442, height: 332, config: {autoplay: GetAutoPlay}});        
+//        alert(getVideoViewer(videoID, {width: 442, height: 332, config: {autoplay: GetAutoPlay}}));
+      }
+      function showText(story)
+      { 
+      	   	hideAndActivateText(lastTextActivated, story);
+      	   	lastTextActivated = story;
+        	FixBoxes(); 
+      }
+
+    </script> 	<style type="text/css">
+
+	
+	html{
+		font-family: tahoma;
 	}
 	
-	feattog = !feattog;
+	a{
+		color: blue;
+	}
+	.BigHeadline{
+
+	}
+	a:visited{
+		color: blue;
+	}
+	a:hover{
+		color: red;
+	}	
+	.privacyLink{
+		color: tan;
+		font-size: 8pt;
+	}
+	.darkBG{
+		background-color: gray
+	}
+
+	.privacyLink:visited{
+		color: tan;
+	}
 	
-	MerchHandle = setTimeout ('NextMerch()', 2000);
-}
-NextMerch();
-</script>
-</td>
-		<td width="110"><a href="/competition/BFTS/" target="_top" onclick="MM_nbGroup('down','group1','bfts','/images/index2005/v3/bfts-down.gif',1)" onmouseover="MM_nbGroup('over','bfts','/images/index2005/v3/bfts-down.gif','/images/index2005/v3/bfts-down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images/index2005/v3/bfts-up.gif" alt="Built Ford Tough Series" name="bfts" width="110" height="70" border="0" onload=""></a></td>
-		<td width="110"><a href="/competition/CT/events06.cfm" target="_top" onclick="MM_nbGroup('down','group1','chal','/images/index2005/v3/usst-down.gif',1)" onmouseover="MM_nbGroup('over','chal','/images/index2005/v3/usst-down.gif','/images/index2005/v3/usst-down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images/index2005/v3/usst-up.gif" alt="U.S. Smokeless Tobacco Company Challenger Tour" name="chal" width="110" height="70" border="0" onload=""></a></td>
-		<td width="110"><a href="/competition/ENT/" target="_top" onclick="MM_nbGroup('down','group1','ent','/images/index2005/v3/ent-down.gif',1)" onmouseover="MM_nbGroup('over','ent','/images/index2005/v3/ent-down.gif','/images/index2005/v3/ent-down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images/index2005/v3/ent-up.gif" alt="Enterprise Rent-A-Car Tour" name="ent" width="110" height="70" border="0" onload=""></a></td>
-		<td width="110"><a href="/competition/HNH/events06.cfm" target="_top" onclick="MM_nbGroup('down','group1','hnh','/images/index2005/v3/hnh-dwon.gif',1)" onmouseover="MM_nbGroup('over','hnh','/images/index2005/v3/hnh-dwon.gif','/images/index2005/v3/hnh-dwon.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images/index2005/v3/hnh-up.gif" alt="Discovery Tour" name="hnh" width="110" height="70" border="0" onload=""></a></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td background="/images/index2005/v3/gradient.gif"><table width="750" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="107"><img src="/images/index2005/v3/pbrlogo-bot.gif" width="107" height="21"></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="/ridersbulls/riders/">Riders</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="/ridersbulls/bulls/">Bulls</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="/sponsors/">Sponsors</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="http://www.pbrworldfinals.com/">World
-          Finals</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="http://www.resistolrelief.com/">RRF</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="/fans/club/">Team
-          PBR</a></font></strong></font></div></td>
-        <td valign="bottom"><div align="center"><font color="990000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a class="textLink" href="http://www.pbrnow.com/competition/BFTS/2006events.cfm">Tickets</a></font></strong></font></div></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><table width="750" border="0" cellspacing="0" cellpadding="0" style="border: 1px solid #999999;">
-      <tbody><tr>
-        <td><!-- area2a-3.cfm -->
-
-
-<table border="0" width="154" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="31"><img width="31" border="0" height="33" src="/images/index2005/tvicons/light/OLN_i.gif" alt="Catch Bull Riding Action on OLN"></td>
-<td width="123" class="NextTVShow"><a class="textLink" href="/media/tv/"><b>TOTAL BULL</b> Sat Dec 24 7:00 PM ET</a></td></tr>
-</tbody></table>
-</td>
-        <td><a href="http://www.pbrnow.com/competition/BFTS/2006events.cfm"><img src="/images/index2005/tickets.gif" alt="PBR Event Tickets" width="129" height="33" border="0"></a></td>
-        <td valign="top"><!-- area3-3.cfm -->
-<div id="tempholder"></div>
-<script language="JavaScript" src="/dhtmllib.js"></script>
-<script language="JavaScript" src="/scroller.js"></script>
-<script language="JavaScript">
-
-
-//SET SCROLLER APPEARANCE AND MESSAGES
-var myScroller1 = new Scroller(0, 0, 402, 44, 0, 2); //(xpos, ypos, width, height, border, padding)
-myScroller1.setColors("#000000", "#ffffff", "#999999"); //(fgcolor, bgcolor, bdcolor)
-myScroller1.setFont("verdana", 1);
-
-
-
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=117'>Lee Akin</a><font style='font-size:8pt;'> (Weatherford, Okla.) – Broken nose, facial lacerations, concussion. Probable for Minneapolis, Minn.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=3941'>Travis Briscoe</a><font style='font-size:8pt;'> (Edgemont, N.M.) – Pulled groin (hip adductor) muscle. Probable for Minneapolis, Minn.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=1080'>Chad Denton</a><font style='font-size:8pt;'> (Oroville, Calif.) – Broken collarbone. Questionable for Minneapolis, Minn.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=257'>J.W. Hart</a><font style='font-size:8pt;'> (Overbrook, Okla.) – Broken rib. Competing.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=1999'>Jake McIntyre</a><font style='font-size:8pt;'> (Zolfo Springs, Fla.) – Bruised pelvis. Probable for Minneapolis, Minn.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=2546'>B.J. Schumacher</a><font style='font-size:8pt;'> (Hillsboro, Wisc.) - Broken collarbone, out for 2-3 months.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=153'>Mike White</a><font style='font-size:8pt;'> (De Kalb, Texas) – Broken shoulder blade, concussion. Probable for Minneapolis, Minn.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=1607'>Cody Whitney</a><font style='font-size:8pt;'> (Asher, Okla.) – Bruised right thigh. X-rays scheduled for 11/21, status uncertain.</font>"); 
-myScroller1.addItem("<a class='textLink' style='font-size=8pt; color:#cc3333;' href='http://www.pbrnow.com/ridersbulls/riders/rider.cfm?ID=1137'>Sean Willingham</a><font style='font-size:8pt;'> (Summerville, Ga.) – Torn cartilage right knee, surgery after Thanksgiving. Probable for Minneapolis, Minn.</font>"); 
-
-
-
-//SET SCROLLER PAUSE
-myScroller1.setPause(3500); //set pause beteen msgs, in milliseconds
-
-function runscroll() {
-
-  var layer;
-  var xx, yy;
-
-  // Locate placeholder layer so we can use it to position the scrollers.
-
-  layer = getLayer("placeholderholder");
-  xx = getPageLeft(layer);
-  yy = getPageTop(layer);
-
-  // Create the first scroller and position it.
-
-  myScroller1.create();
-  myScroller1.hide();
-  myScroller1.moveTo(xx, yy);
-  myScroller1.setzIndex(100);
-  myScroller1.show();
-}
-
-// commented out by DRB, 04-19-05, this is instead in the body's onload html attribute window.onload=runscroll
-
-</script>
-<div id="placeholderholder" style="position:relative;">
-<div id="placeholder" style="position:relative; width:420px; height:48px;"> </div>
-<div align="RIGHT" id="moreholder" style="width:100%"><a class="textLink" style="font-size=10px; color:#cc3333; padding-right:4px" href="http://www.pbrnow.com/ridersbulls/injury/">Complete Injury Report</a></div>
-</div>
-</td>
-        </tr>
+	.privacyLink:active{
+		color: tan;
+	}		
+	.privacyLink:hover{
+		color: red;
+	}
 	
-	<tr>
-	<td colspan="3" align="center" bgcolor="red"> </td>
-</tr>
+
+	#dropmenudiv{
+		position:absolute;
+		border:1px solid black;
+		border-bottom-width: 0;
+		font:normal 8pt Verdana;
+		line-height:12px;
+		z-index:100;
+	}
+	#dropmenudiv a{
+		width: 100%;
+		display: block;
+		text-indent: 3px;
+		border-bottom: 1px solid black;
+		padding: 1px 0;
+		text-decoration: none;
+		font-weight: bold; 
+		color: white
+	}
+	#dropmenudiv a:hover{ /*hover background color*/
+		background-color: black;
+		color: white;
+	} 
+	.LHSLink{
+		color: black;
+		font-size: 8pt;
+		text-decoration: none;
+		position: relative; 
+		bottom: 3px;
+	}
+	.RHSLink{
+		color: white;
+		font-size: 8pt;		
+		text-decoration: none;		
+	}	
+	.NavBarright a {
+		text-decoration: none;
+		color: black;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;
+		}
+	.NavBarright a:visited {
+		text-decoration: none;
+		color: black;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;
+		}		
+	.NavBarright a:hover {
+		text-decoration: none;	
+		color: red;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;		
+		}		
+	.NavBarleft a{
+		text-decoration: none;	
+		color: #ffcd0a;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;		
+		}
+	.NavBarleft a:visited{
+		text-decoration: none;	
+		color: #ffcd0a;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;		
+		}				
+	.NavBarleft a:hover{
+		text-decoration: none;	
+		color: white;
+		font-family: tahoma;
+		font-weight: bold;
+		font-size: 9px;		
+		}		
+	.TourNav{
+		font-size: 5pt;
+		font-weight: bold;
+		display: inline;
+		width: 375px; 
+	}
+	.TourNav a {
+		font-weight: bold;
+		font-size: 5pt;
+		font-weight: bold;		
+		font-family: tahoma;
+		color: #333332;
+		text-decoration: none;
+	}
+	.TourNav a:visited {
+		font-weight: bold;
+		font-size: 5pt;
+		font-weight: bold;		
+		font-family: tahoma;
+		color: #333332;
+		text-decoration: none;
+	}
+	.TourNav a:hover {
+		font-weight: bold;
+		font-size: 5pt;
+		font-weight: bold;		
+		font-family: tahoma;
+		color: red;
+		text-decoration: none;
+	}		
+	.countryText{
+		color:red;
+		display: inline; 
+		font-size: 10pt;
+		position: relative;
+		left: 185px;
+		top: -3px;
+		width: 100px;
+		height: 20px;
+	}
+	
+	.contentBoxTitle{
+		font-family: arial,tahoma,serpentine;
+		font-style: italic;
+		color: white;
+		font-size: 14px;
+	}
+
+	.contentBoxTitle strong{
+		font-family: arial,tahoma,serpentine;
+		font-style: italic;
+		color: white;
+		font-size: 14px;
+	}	
+	
+	div.redbox a{
+		color: blue;
+	}
+	div.whitebox a{
+		color: blue;
+	}
+	div.blackbox a{
+		color: blue;
+	}		
+	
+	.whatshappening .header{
+		background-color: 7a7a7a;
+		bgcolor: 7a7a7a;
+		color: white;
+		font-size: 8pt;
+		font-weight: bold;
+	}
+	.whatshappening{
+		color: red;
+		font-size: 10px;
+		font-weight: bold; 
+	}	
+	.whatshappening table{
+
+		font-size: 10px;
+		font-weight: bold;
+	
+	}		
+ 	.forceSize *{
+		color: white;
+		font-family: tahoma;
+		font-size: 10px;
+		
+	}
+	.secondaryTVLink{
+		font-size: 10px;
+	}
+	
+	.secondaryTVLink a{
+			color: blue;
+		}
+		
+	.secondaryTVLink a:hover{
+			color: red;
+		}
+	.primaryTVLink{
+		font-size: 11px;
+	}
+	
+	.primaryTVLink a{
+			color: blue;
+		}
+		
+	.primaryTVLink a:hover{
+			color: red;
+		}		
 
 
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-</td>
-    <td width="184" rowspan="4" valign="top">
+	.whatshappening ul{
+		line-height: 10px;
+		margin-top: 0px;
+	}			
+	
+	.pbrsuperstars .header{
+		background-color: 7a7a7a;
+		bgcolor: 7a7a7a;
+		color: white;
+		font-size: 10px;
+		font-weight: bold;
+	}
+	
+	.pbrsuperstars .search{
+		color: black;
+		font-size: 10px;
+		font-weight: bold;
+	}
+	
+	.pbrsuperstars .rider{
+		background-color: cccccc;
+		bgcolor: cccccc;
+		color: black;
+		font-size: 10px;
+		font-weight: bold;
+	}
+	
+	.pbrsuperstars .riderwhite{
+		background-color: cccccc;
+		bgcolor: cccccc;
+		color: white;
+		font-size: 10px;
+		font-weight: bold;
+	}
+	.pbrsuperstars td a:active{
+		color: blue;
+		font-size: 10px;
+		font-weight: bold; 
+	}	
+	
+	.pbrsuperstars td a:visited{
+		color: blue;
+		font-size: 10px;
+		font-weight: bold; 
+	}
+	.pbrsuperstars td a{
+		color: blue;
+		font-size: 10px;
+		font-weight: bold; 
+	}	
+		
+	.pbrsuperstars li a{
+		color: black;
+		font-size: 10px;
+		font-weight: bold;
+	}		
+	.pbrsuperstars ul{
+		line-height: 15px;
+		margin-top: 0px;
+	}	
+	
+	.pbr101 .header{
+		background-color: 7a7a7a;
+		bgcolor: 7a7a7a;
+		color: white;
+		font-size: 10px;
+		font-weight: bold;
+	}
+	
+	.pbr101 .search{
+		color: black;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+	.pbr101 td a:active{
+		color: blue;
+		font-size: 12px;
+		font-weight: bold; 
+	}	
+	
+	.pbr101 td a:visited{
+		color: blue;
+		font-size: 12px;
+		font-weight: bold; 
+	}
+	
+	.pbr101 td a:hover{
+		color: red;
+		font-size: 12px;
+		font-weight: bold; 
+	}
+	.pbr101 td a{
+		color: blue;
+		font-size: 12px;
+		font-weight: bold; 
+	}	
+		
+	.pbr101 li a{
+		color: black;
+		font-size: 10px;
+		font-weight: bold;
+	}		
+	.pbr101 ul{
+		line-height: 15px;
+		margin-top: 0px;
+	}	
+	/* begin white rounded corner */
+	.whiteBox .content,
+	.whiteBox .t,
+	.whiteBox .b,
+	.whiteBox .b div {
+	zindex:1;
+	z-index:1;
+	 background:transparent url(/images/box-white2.png) no-repeat top right;
+	 _background-image:url(/images/whiteonred.png);
+	 color: white; 
+	}
+	
+	.frontPageInput{
+	  font-family: Tahoma; 
+	  height: 18px;
+	  font-size:8pt; 
+	  font-weight:bold; 
+	  background-color:336699; 
+	  border-color:6699bb; 
+	  border-style:inset; 
+	  border-width:2px; 
+	  color:FFFFFF; 
+	  width: 120px;
+	}
+	.goButton{
+		height: 20px;
+		color: black;
+		width: 25px;
+		font-size:8pt; 
+	}
+	.whiteBox ul{
+		color: black;
+	}
+	.whiteBox a:hover{
+		color: red;
+	}
+	.whiteBox .content {
+	 position:relative;
+	 zoom:1;
+	 _overflow-y:hidden;
+	 padding:5px 12px 0px 0px;
+	}
+	
+	.whiteBox .t {
+	 /* top+left vertical slice */
+	 position:absolute;
+	 left:0px;
+	 top:0px;
+	 width:12px; /* top slice width */
+	 margin-left: -12px;
+	 height:100%;
+	 _height:2100px; /* arbitrary long height, IE 6 */
+	 background-position:top left;
+	}
+	
+	.whiteBox div{
+		color: black;
+	}
+	.whiteBox h2{
+		color: black;
+	}	
+	
+	.whiteBox .b {
+	 /* bottom */
+	 width:100%;
+	}
+	.whiteBox .b,
+	.whiteBox .b div {
+	 height:10px; /* height of bottom cap/shade */
+	 font-size:1px;
+	
+	}
+	.whiteBox .b {
+	 background-position:bottom right;
+	}
+	
+	.whiteBox .b div {
+	 position:relative;
+	 width:12px; /* bottom corner width */
+	 margin-left:-12px;
+	 background-position:bottom left;
+	}
+	
+	.whiteBox .hd,
+	.whiteBox .bd,
+	.whiteBox .ft {
+	 position:relative;
+	}
+	
+	.whiteBox .wrapper {
+	 /* extra content protector - preventing vertical overflow (past background) */
+	 position:static;
+	 max-height:1000px;
+	 overflow:auto; /* note that overflow:auto causes a rather annoying redraw "lag" in Firefox 2, and may degrade performance. Might be worth trying without if you aren't worried about height/overflow issues. */
+	}
+	
+	
+	.whiteBox h1,
+	.whiteBox p {
+	 margin:0px; /* margins will blow out backgrounds, leaving whitespace. */
+	 padding:0.5em 0px 0.5em 0px;
+	} 
+	
+	.whiteBox h1 {
+	 padding-bottom:0px;
+	}
 
-<!-- area9.cfm -->
-
-<!-- dayslefft 12 -->
-
-
-<table width="77" bgcolor="BLACK" cellpadding="0" cellspacing="1">
+	/* begin red rounded corner box */
+	.redBox .content,
+	.redBox .t,
+	.redBox .b,
+	.redBox .b div {
+	zindex:1;
+	z-index:1;
+	 background:url(/images/optredonwhite.jpg) no-repeat top right;		
+	 color: white; 
+	}
+	
+	.redBox a {
+		color: white;
+	}
+	
+	.redBox a:hover{
+		color: red;
+	}
+	.redBox .content {
+	 position:relative;
+	 zoom:1;
+	 _overflow-y:hidden;
+	 padding:5px 12px 0px 0px;
+	}
+	
+	.redBox .t {
+	 /* top+left vertical slice */
+	 position:absolute;
+	 left:0px;
+	 top:0px;
+	 width:20px; /* top slice width */
+	 margin-left: -20px;
+	 height:100%;
+	 _height:2100px; /* arbitrary long height, IE 6 */
+	 background-position:top left;
+	}
+	
+	.redBox .b {
+	 /* bottom */
+	 width:100%;
+	}
+	.redBox .b,
+	.redBox .b div {
+	 height:20px; /* height of bottom cap/shade */
+	 font-size:1px;
+	 position: relative;
+	 top: 0px;
+	
+	}
+	.redBox .b {
+	 background-position:bottom right;
+	}
+	
+	.redBox .b div {
+	 position:relative;
+	 width:20px; /* bottom corner width */
+	 margin-left:-20px;
+	 background-position:bottom left;
+	}
+	
+	.redBox .hd,
+	.redBox .bd,
+	.redBox .ft {
+	 position:relative;
+	}
+	
+	.redBox .wrapper {
+	 /* extra content protector - preventing vertical overflow (past background) */
+	 position:static;
+	 max-height:1000px;
+	 overflow:auto; /* note that overflow:auto causes a rather annoying redraw "lag" in Firefox 2, and may degrade performance. Might be worth trying without if you aren't worried about height/overflow issues. */
+	}
+	
+	
+	.redBox h1,
+	.redBox p {
+	 margin:0px; /* margins will blow out backgrounds, leaving whitespace. */
+	 padding:0.5em 0px 0.5em 0px;
+	} 
+	
+	.redBox h1 {
+	 padding-bottom:0px;
+	}
+	
+	/* begin blue rounded corner box */
+	.blueBox .content,
+	.blueBox .t,
+	.blueBox .b,
+	.blueBox .b div {
+	zindex:1;
+	z-index:1;
+	 background:url(/images/optblueonwhite.jpg) no-repeat top right;		
+	 color: white; 
+	}
+	
+	.blueBox a {
+		color: blue;
+	}
+	
+	.blueBox a:hover{
+		color: red;
+	}
+	.blueBox .content {
+	 position:relative;
+	 zoom:1;
+	 _overflow-y:hidden;
+	 padding:5px 12px 0px 0px;
+	}
+	
+	.blueBox .t {
+	 /* top+left vertical slice */
+	 position:absolute;
+	 left:0px;
+	 top:0px;
+	 width:20px; /* top slice width */
+	 margin-left: -20px;
+	 height:100%;
+	 _height:2100px; /* arbitrary long height, IE 6 */
+	 background-position:top left;
+	}
+	
+	.blueBox .b {
+	 /* bottom */
+	 width:100%;
+	}
+	.blueBox .b,
+	.blueBox .b div {
+	 height:20px; /* height of bottom cap/shade */
+	 font-size:1px;
+	 position: relative;
+	 top: 0px;
+	
+	}
+	.blueBox .b {
+	 background-position:bottom right;
+	}
+	
+	.blueBox .b div {
+	 position:relative;
+	 width:20px; /* bottom corner width */
+	 margin-left:-20px;
+	 background-position:bottom left;
+	}
+	
+	.blueBox .hd,
+	.blueBox .bd,
+	.blueBox .ft {
+	 position:relative;
+	}
+	
+	.blueBox .wrapper {
+	 /* extra content protector - preventing vertical overflow (past background) */
+	 position:static;
+	 max-height:1000px;
+	 overflow:auto; /* note that overflow:auto causes a rather annoying redraw "lag" in Firefox 2, and may degrade performance. Might be worth trying without if you aren't worried about height/overflow issues. */
+	}
+	
+	
+	.blueBox h1,
+	.blueBox p {
+	 margin:0px; /* margins will blow out backgrounds, leaving whitespace. */
+	 padding:0.5em 0px 0.5em 0px;
+	} 
+	
+	.blueBox h1 {
+	 padding-bottom:0px;
+	}
+	
+	/* begin black rounded corner box */
+	.blackBox .content,
+	.blackBox .t,
+	.blackBox .b,
+	.blackBox .b div { 
+	zindex:1;
+	z-index:1;
+	 background:url(/images/optblackonwhite.jpg) no-repeat top right;	
+	
+	 color: white; 
+	}
+	
 
 	
-			<tbody><tr>
-				<td align="LEFT"><a href="http://www.pbrnow.com/competition/BFTS/2006events.cfm"><img border="0" width="125" height="125" src="/images/promos/auto/square/ticket_counter.gif" alt=""></a></td>
-			</tr>
+	.blackBox a:hover{
+		color: red;
+	}
+	.blackBox .content {
+	 position:relative;
+	 zoom:1;
+	 _overflow-y:hidden;
+	 padding:5px 12px 0px 0px;
+	}
+	
+	.blackBox .t {
+	 /* top+left vertical slice */
+	 position:absolute;
+	 left:0px;
+	 top:0px;
+	 width:20px; /* top slice width */
+	 margin-left: -20px;
+	 height:100%;
+	 _height:2100px; /* arbitrary long height, IE 6 */
+	 background-position:top left;
+	}
+	
+	.blackBox .b {
+	 /* bottom */
+	 width:100%;
+	}
+	.blackBox .b,
+	.blackBox .b div {
+	 height:20px; /* height of bottom cap/shade */
+	 font-size:1px;
+	
+	}
+	.blackBox .b {
+	 background-position:bottom right;
+	}
+	
+	.blackBox .b div {
+	 position:relative;
+	 width:20px; /* bottom corner width */
+	 margin-left:-20px;
+	 background-position:bottom left;
+	}
+	
+	.blackBox .hd,
+	.blackBox .bd,
+	.blackBox .ft {
+	 position:relative;
+	}
+	
+	.blackBox .wrapper {
+	 /* extra content protector - preventing vertical overflow (past background) */
+	 position:static;
+	 max-height:1000px;
+	 overflow:auto; /* note that overflow:auto causes a rather annoying redraw "lag" in Firefox 2, and may degrade performance. Might be worth trying without if you aren't worried about height/overflow issues. */
+	}
+	
+	
+	.blackBox h1,
+	.blackBox p {
+	 margin:0px; /* margins will blow out backgrounds, leaving whitespace. */
+	 padding:0.5em 0px 0.5em 0px;
+	} 
+	
+	.blackBox h1 {
+	 padding-bottom:0px;
+	}
+	
+	.HPFTable{
+		background: url(/images/HPFBackground.jpg);
+		background-repeat: no-repeat;
+
+	}
+	
+	.HPFTableTwo{
+		background: url(/images/HPFBackground.jpg);
+		background-repeat: no-repeat;
+		background-position: 0px -250px;
+	}	
+
+	.HPFTwistageTable{
+	/*	background: url(/images/HPFBackgroundTwistage.png);
+		background-repeat: no-repeat;*/
+	}
+	
+	.HPFTwistageTableTwo{
+		background: url(/images/HPFBackgroundTwistage.jpg);
+		background-repeat: no-repeat;
+		background-position: 0px -250px;
+	}	
+	
+	.twistageContentBox{
+		vertical-align: top;
+		width: 439px;
+		height: 320px;
+		background-color: #4d4d4f;
+		padding-left: 3px;
+	}
+	
+	.HPFTable td{
+		vertical-align: middle;
+
+	}
+
+	.newsTextTD div a{
+		color: white;
+		font-family: tahoma;
+		font-size: 10pt;
+
+	}
+
+	.newsTextTD a:visited{
+		color: white;
+		font-family: tahoma;
+		font-size: 10pt;
+	}
+
+	.newsTextTD a:hover{
+		color: red;
+		font-family: tahoma;
+		font-size: 10pt;
+	}		
 		
-			<tr>
-				<td align="LEFT"><a href="http://www.pbrnow.com/competition/BFTS/finalsinfo.cfm"><img border="0" width="125" height="125" src="/images/promos/auto/square/2006finals.gif" alt=""></a></td>
-			</tr>
+	.newsTextTD{
+		height: 65px;
+
+	}
+	.newsTable{
+		font-size: 10px;
+		width: 100%;
+		font-weight:bold;
+		font-family: tahoma;
+	}
+	.newsTable a{
+		color: blue;
+
+	}	
+	.newsTable a:hover {
+		color: red;
+	}		
+	.newsTable .moreLink{
+		color: blue;
+		font-size: 12px;
+		font-weight:bold;
+	}	
+	
+	.bannerRow{
+		padding-left: 15px;
+		padding-top: 10px;
+		vertical-align: middle;
+		position: relative;
+		top: -10px;
+	}
+	
+	.bannerRow td{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	.pollArea{
+		font-size: 10px;
+	}
+	.pollArea table{
+		font-size: 10px;
+	}	
+	
+	.pollArea a{
+		color: blue;
+	}
+	.merchArea a{
+		color: blue;
+		font-size: 10px;
+	}
+	.merchArea a:hover{
+		color: red;
+	}
+	
+	.standingsHeaderRow{
+		color: white;
+		background-color: black;
+		font-size: 10px;
+	}
+
+	.standingsContentRow{
+		color: black;
+		background-color: white;
+		font-size: 10px;
+	}	
+	.standingsContentRow a:visited{
+		color: blue;
+		font-weight: bold;
+	}
+	
+	.standingsContentRow a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.standingsContentRow .riders a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.standingsContentRow a:active{
+		color: blue;
+		font-weight: bold;
+	}
+	.standingsContentRow a:hover{
+		color: red;
+	}	
+	
+	.multimedia{
+		color: black;
+		background-color: white;
+		font-weight: bold;
+		font-size: 10px;
+	}
+
+	.multimedia a:visited{
+		color: blue;
+		font-weight: bold;
+	}
+	
+	.multimedia a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.multimedia .riders a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.multimedia a:active{
+		color: blue;
+		font-weight: bold;
+	}
+	.multimedia a:hover{
+		color: red;
+	}	
+	.EventPageNav{
+		width: 200px;
+		height: 150px;
+		vertical-align: bottom;
+		font-size: 10pt;
+	}
+	.EventPageNav a{
+		color: white;
+		text-decoration: none;
+		margin-bottom: 3px;
+		margin-top: 3px;
+		line-height: 12px;
+		font-size: 8pt;
+	}
+	.EventPageNav div{
+		padding-left: 5px;
+		vertical-align: bottom;
+	}
+	.EventPageNav a:visited{
+		color: white;
+		font-size: 8pt;
+	}	
+	.EventPageNav a:hover{
+		color: black;
+		font-size: 8pt;
+	}		
+	#content iframe{
+		frame-border: no;
+	}
+
+	.latestresults{
+		color: black;
+		background-color: white;
+		font-weight: bold;
+		font-size: 10px;
+	}
+	
+	.latestresults .header{
+		color: black;
+		font-weight: bold;
+		font-size: 14px;
+	}
+
+	.latestresults a:visited{
+		color: blue;
+		font-weight: bold;
+	}
+	
+	.latestresults a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.latestresults .riders a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.latestresults a:active{
+		color: blue;
+		font-weight: bold;
+	}
+	.latestresults a:hover{
+		color: red;
+	}	
+	
+	.stats{
+		color: black;
+		background-color: white;
+		font-weight: bold;
+		font-size: 10px;
+	}
+	
+	.stats .header{
+		color: black;
+		font-weight: bold;
+		font-size: 14px;
+	}
+
+	.stats a:visited{
+		color: blue;
+		font-weight: bold;
+	}
+	
+	.stats a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.stats .riders a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.stats a:active{
+		color: blue;
+		font-weight: bold;
+	}
+	.stats a:hover{
+		color: red;
+	}	
+	
+	.fans{
+		color: black;
+		background-color: white;
+		font-weight: bold;
+		font-size: 10px;
+	}
+	
+	.fans .header{
+		color: blue;
+		font-weight: bold;
+		font-size: 14px;
+	}
+
+	.fans a:visited{
+		color: blue;
+		font-weight: bold;
+	}
+	
+	.fans a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.fans .riders a{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+		font-size: 10px;
+	}
+	
+	.fans a:active{
+		color: blue;
+		font-weight: bold;
+	}
+	.fans a:hover{
+		color: red;
+	}	
+	
+	.headingBox{
+		background-color: blue;
+		padding-left: 15px;
+		color: white;
+		font-weight: bold;
+	}
+
+	#content{
+		font-size: 10pt;
+	}
+	.contentTD table tr td{
+		font-size: 8pt;
+	}		
+			
+	
+	#resultDiv1{
+		width: 785px;
+	}
+	#resultDiv2{
+		width: 785px;
+	}	
+	#resultDiv3{
+		width: 785px;
+	}
+	#resultDiv4{
+		width: 785px;
+	}
+	#resultDiv5{
+		width: 785px;
+	}		
+	.RecentTopPages{
+		font-size: 10px;
+	}
+	
+	.CTStandings{
+		color: black;
+		background-color: white;
+		font-size: 10px;
+	}	
+	
+	.tbH{
+		background-color: blue;
+		color: white;
+		font-weight: bold;
+		font-size: 12pt;
+	}
+	
+	.resultsHeader{
+		color: white;
+		font-size: 12px;
+		font-family: tahoma;
+
+	}
+	
+	.resultsHeader th{
+		padding-top: 4px;	
+	}
+	
+	/* begin white rounded corner */
+	.craveBox .content,
+	.craveBox .t,
+	.craveBox .b,
+	.craveBox .b div {
+	zindex:1;
+	z-index:1;
+	 background:transparent url(/images/GameBox.jpg) no-repeat top right;
+	 _background-image:url(/images/GameBox.jpg);
+	 color: white; 
+	}	
+	
+	.craveBox ul{
+		color: black;
+	}
+	.craveBox a:hover{
+		color: red;
+	}
+	.craveBox .content {
+	 position:relative;
+	 zoom:1;
+	 _overflow-y:hidden;
+	 padding:5px 12px 0px 0px;
+	}
+	
+	.craveBox .t {
+	 /* top+left vertical slice */
+	 position:absolute;
+	 left:0px;
+	 top:0px;
+	 width:12px; /* top slice width */
+	 margin-left: -12px;
+	 height:100%;
+	 _height:2100px; /* arbitrary long height, IE 6 */
+	 background-position:top left;
+	}
+	
+	.craveBox div{
+		color: black;
+	}
+	.craveBox h2{
+		color: black;
+	}	
+	
+	.craveBox .b {
+	 /* bottom */
+	 width:100%;
+	}
+	.craveBox .b,
+	.craveBox .b div {
+	 height:10px; /* height of bottom cap/shade */
+	 font-size:1px;
+	
+	}
+	.craveBox .b {
+	 background-position:bottom right;
+	}
+	
+	.craveBox .b div {
+	 position:relative;
+	 width:12px; /* bottom corner width */
+	 margin-left:-12px;
+	 background-position:bottom left;
+	}
+	
+	.craveBox .hd,
+	.craveBox .bd,
+	.craveBox .ft {
+	 position:relative;
+	}
+	
+	.craveBox .wrapper {
+	 /* extra content protector - preventing vertical overflow (past background) */
+	 position:static;
+	 max-height:1000px;
+	 overflow:auto; /* note that overflow:auto causes a rather annoying redraw "lag" in Firefox 2, and may degrade performance. Might be worth trying without if you aren't worried about height/overflow issues. */
+	}
+	
+	
+	.craveBox h1,
+	.craveBox p {
+	 margin:0px; /* margins will blow out backgrounds, leaving whitespace. */
+	 padding:0.5em 0px 0.5em 0px;
+	} 
+	
+	.craveBox h1 {
+	 padding-bottom:0px;
+	}		
+	
+
+	.MoreLink{
+		color: yellow;
+	}
+	
+	.BullTeams *{
+		font-size: 10px;
+	}
+	
+	.sIFR-flash 
+		{
+			visibility: visible !important;
+			margin: 0;
+			align: right;
+			position: relative;
+		}
 		
-			<tr>
-				<td align="LEFT"><a href="http://www.pbrnow.com/shop"><img border="0" width="125" height="125" src="/images/promos/auto/square/dvd.jpg" alt=""></a></td>
-			</tr>
+		.sIFR-hasFlash h4 
+		{
+			visibility: visible;
+			width:	300px;
+			height: 75px;
+			overflow: hidden;
+			position: relative;
+			margin-bottom: 0px;
+			font-weight: bold;		
+		}
 		
-			<tr>
-				<td align="LEFT"><a target="_blank" href="http://www.cripplecreek.com"><img border="0" width="125" height="125" src="/images/promos/auto/square/CCanim.gif" alt="Click here for Fashion Ladies' Leather"></a></td>
-			</tr>
+		.sIFR-replaced 
+		{
+				border: solid red 1px;
+				visibility: hidden !important;
+				align: left;
+				overflow: hidden;		
+				position: relative;
+				width:	auto;				
+				font-size: 2px;	
+		}
 		
-			<tr>
-				<td align="LEFT"><a href="http://www.pbrnow.com/hc.cfm?ID=6830"><img border="0" width="125" height="125" src="/images/promos/auto/square/teampbr-sq.gif" alt=""></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a target="_blank" href="/hc.cfm?ID=4286"><img border="0" width="125" height="125" src="/images/promos/auto/square/ERAC125.gif" alt="Take off this weekend - up to 50% off weekend car rentals"></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a target="_blank" href="http://www.bransontractor.com/"><img border="0" width="125" height="125" src="/images/promos/auto/square/sponhi.gif" alt=""></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a href="/fans/mag/"><img border="0" width="125" height="125" src="/images/promos/auto/square/freemag.gif" alt=""></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a href="http://www.namethebull.com/"><img border="0" width="125" height="125" src="/images/promos/auto/square/namethebull.jpg" alt=""></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a href="http://www.pbrnow.com/shop"><img border="0" width="125" height="125" src="/images/promos/auto/square/dvd_hilights.jpg" alt=""></a></td>
-			</tr>
-		
-			<tr>
-				<td align="LEFT"><a href="http://www.resistolrelief.com/"><img border="0" width="125" height="125" src="/images/promos/auto/square/rrf.gif" alt=""></a></td>
-			</tr>
 		
 
-</tbody></table>
-</td>
-  </tr>
-  <tr>
-    <td valign="top">
+/* competition table section */
 
-<table width="100%">
-<tbody><tr>
-	<td valign="top">
+		.competitionTable
+		{
+				  border: 1px solid #999999; 
+				  font-size: 10px;
+				  color: black;
+				  background-color: white;
+				  padding: 0px 0px 0px 0px;
+				  width: 750px;
+		}
+		
+		.competitionHead
+		{
+				  font-size: 10px;
+				  background: blue;
+				  color: #FFFFFF;
+				  padding: 0px 0px 0px 0px;
+		}
+		
+		.competitionBody2
+		{
+				  font-size: 10px;
+				  background-color: #eeeeee;
+				  color: black;
+				  padding: 0px 0px 0px 0px;
+		}
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="10&quot;" rowspan="2">&nbsp;</td>
+		p.competitionTitle
+		{
+				  font-size: 15px;
+				  color: black;
+				  padding: 0px 0px 0px 0px;
+				  text-align: center;
+				  text-transform: uppercase;
+				  font-weight: bold;
+		}
 
-	<td valign="top" width="530">
-		<font style="font-family:verdana; font-size:9pt;">
+	/* trouble shooting/temp/scratch area */
+	
+</style>
+<title>Professional Bull Riders, Inc. Privacy</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="bull,riding,rider,riders,pbr,fantasy,cowboy,rodeo,bullriding">
+<meta name="description" content="Professional Bull Riders, get tough with the toughest sport on dirt.">
+<script type="text/javascript" src="/swfObject.js"></script>
 
-	<h2 class="BigHeadline">PBRnow.com Web Site Privacy Policy</h2>
+<map name="CountryMap">
+		<area shape="rect" coords="-1,1,103,20" href="/ticketing">
+		<area shape="rect" coords="190,1,210,90,20" href="http://www.pbrcanada.com" onmouseover="swapCountryTo('Canada');" onmouseout="swapCountryTo('');">
+		<area shape="rect" coords="210,1,235,20" href="http://www.pbraustralia.com" onmouseover="swapCountryTo('Australia');" onmouseout="swapCountryTo('');">
+		<area shape="rect" coords="240,1,260,20" href="http://www.pbrmexico.com" onmouseover="swapCountryTo('Mexico');" onmouseout="swapCountryTo('');">
+		<area shape="rect" coords="265,1,290,20" href="http://www.pbrnow.com.br/" onmouseover="swapCountryTo('Brazil');" onmouseout="swapCountryTo('');">
+	</map> \
+	
+	<table id="Table_01" width="990" border="0" cellpadding="0" cellspacing="0" align="center">
+	
+	<tbody><tr><td colspan="3" bgcolor="black" width="990" height="100" alt="">
+	<div style="position: absolute;" id="nextEventHolder"><div style="position: relative; width: 304px; height: 53px; top: 10px; z-index: 99999; left: 380px;"><a href="/competition/bfts/eventLoad.cfm?id=08-122"><img src="/images/dallas-Top-banner.png" border="0"></a></div></div>
+	<div align="right" id="headerFlash">
+		
+	</div>
+	</td></tr>
+	<tr><td colspan="3" background="/images/HPSlicedUp08Site_02.jpg" width="990" height="1" alt="">
+		
+	</td></tr>
+	<tr><td valign="bottom" colspan="3" background="/images/HPnavArea2.jpg" width="990" height="60" alt="">
+				<div style="HEIGHT: 0PX; POSITION: absolute; width:300px;"><span style="position: relative; top: 2px;left: 420px;"><a class="privacyLink" href="/contact/contact2content.cfm?inquirytype=9">give feedback about PBRNow.com</a><font color="tan"> - </font><a class="privacyLink" href="/policies/privacy.cfm">privacy&nbsp;policy</a></span></div>
+			<table cellpadding="0" cellspacing="0" width="100%" align="center">
+				<tbody><tr height="30"> <td colspan="2" valign="bottom"> 
+						<table class="TourNav" width="375" align="left">
+							<tbody><tr><td width="32"></td><td width="60"><span><a href="/competition/bfts">BUILT FORD<br style="line-height: 2px;">
+								TOUGH SERIES</a></span>
+							</td><td width="25"></td><td valign="middle">
+								<a href="/competition/ct">CHALLENGER
+								TOUR</a>
+							</td><td width="50"></td><td>
+								<a href="/competition/ent">ENTERPRISE
+								TOUR</a>
+							</td><td width="40"></td><td>
+								<a href="/competition/hnh">DISCOVERY
+								TOUR</a>
+							</td></tr>
+						</tbody></table>
+
+				</td><td align="right"><div id="countryText" class="countryText"></div><img src="/images/transparent.gif" width="300" height="20" usemap="#CountryMap" border="0"></td></tr>
+				<tr height="30"><td valign="top" align="left">
+					
+		<table align="left" width="100%" cellpadding="0" cellspacing="0" class="NavBarleft"><tbody><tr>
+			<td align="left">
+		&nbsp; <a href="/competition" onmouseover="delayshowmenu(this, event, COMPETITION, '416px')" onmouseout="delayhidemenu()">COMPETITION</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/riders" onmouseover="delayshowmenu(this, event, RIDERS, '384px')" onmouseout="delayhidemenu()">RIDERS</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/ridersbulls/bulls" onmouseover="delayshowmenu(this, event, BULLS, '185px')" onmouseout="delayhidemenu()">BULLS</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/schedule" onmouseover="delayshowmenu(this, event, SCHEDULE, '416px')" onmouseout="delayhidemenu()">SCHEDULE</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/pbr101" onmouseover="delayshowmenu(this, event, PBR101, '185px')" onmouseout="delayhidemenu()">PBR 101</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/about" onmouseover="delayshowmenu(this, event, ABOUTPBR, '208px')" onmouseout="delayhidemenu()">ABOUT PBR</a>  
+		</td></tr></tbody></table>
+	
+				</td><td width="10" valign="top">
+				
+				</td><td valign="top" align="center" width="45%">
+					
+		<table align="center" width="100%" cellpadding="0" cellspacing="0" class="NavBarright"><tbody><tr>
+			<td align="center">
+		&nbsp;&nbsp;<a href="/sponsors">SPONSORS</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="#" onmouseover="delayshowmenu(this, event, FANS, '192px')" onmouseout="delayhidemenu()">FANS</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/multimedia/" onmouseover="delayshowmenu(this, event, MULTIMEDIA, '224px')" onmouseout="delayhidemenu()">MULTIMEDIA</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/shop" onmouseover="delayshowmenu(this, event, MERCHANDISE, '185px')" onmouseout="delayhidemenu()">MERCHANDISE</a><font color="white">&nbsp;&nbsp;|</font> &nbsp; <a href="/contests" onmouseover="delayshowmenu(this, event, PLAYWIN, '264px')" onmouseout="delayhidemenu()">PLAY &amp; WIN</a>  
+		</td></tr></tbody></table>
+	
+				</td></tr>	
+				
+			</tbody></table>
+		</td></tr>
+		
+			<tr><td colspan="3" bgcolor="white" style="" valign="top" class="contentTD">
+		
+
+<div id="content" style="z-index: 0; padding-top: 0px; position: relative; bottom: 2px;">
+<font style="font-family:verdana; font-size:9pt;">
+
+	<h2 class="BigHeadline">PBRnow com Web Site Privacy Policy</h2>
 "PBRnow.com" is the interactive on-line service operated by Professional Bull Riders, Inc., on behalf of Professional Bull Riders, Inc., PBR Properties, Inc., PBR-TV, Inc. and each of their respective subsidiaries and affiliates (collectively, "PBR") on the World Wide Web of the Internet, consisting of information services, interactive components and content provided by PBR and other third parties. This Privacy Policy is applicable to the website[s] accessible at PBRnow.com, PBRStuff.com, PBRFantasy.com (collectively the "Service"). This privacy policy shall be prominently published on the Service. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 <p>
 Please read the following to learn more about our data collection policies and practices.
@@ -368,8 +2704,8 @@ Please read the following to learn more about our data collection policies and p
 </li></ul>
 <p>
 </p><ol type="1">
-<a name="sec1">
-</a><li><a name="sec1"><strong>Types Of Information That May Be Collected.</strong><br>
+<a name="sec1"></a>
+<li><strong>Types Of Information That May Be Collected.</strong><br>
 The following are the types of information we may collect: 
 <ol type="a">
 <li>Information you provide PBR;
@@ -380,9 +2716,9 @@ The following are the types of information we may collect:
 </li><li>Non-personally Identifiable Information. We may collect certain non-personally identifiable information when you visit many of the Service's web pages such as the type of browser you are using (e.g. Netscape, Internet Explorer, etc.), the type of operating system you are using (e.g. Windows '95 or Mac OS, etc.) and the domain name of your internet service provider (e.g. AOL, Earthlink, etc.).
 </li><li>Information from Other Sources. We may receive information about you from other sources and add it to your personal information. 
 </li></ol>
-</a><p><a name="sec1">
-</a><a name="sec2">
-</a></p></li><li><a name="sec2"><strong>How Information May Be Collected.</strong><br>
+<p>
+<a name="sec2"></a>
+</p></li><li><strong>How Information May Be Collected.</strong><br>
 We may collect information from you in several different areas or pages on the Service, including but not limited to those described below:
 <ol type="a">
 <li>Registration. You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID, user name and password in order to take advantage of certain features or services the Service may choose to offer, including, but not limited to, newsletters, contests, forums, fantasy, auctions or other subscription based services.
@@ -395,9 +2731,9 @@ We may collect information from you in several different areas or pages on the S
 </li><li>Transaction Information. If you order any information from our Service, buy any of our products or subscribe for any of the services offered on our Service, we will ask you to complete an order form that will request certain information from you,       including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
 </li><li>Fantasy Games. When you register to play Fantasy games, you may be asked to provide personally identifiable information.
 </li></ol>
-</a><p><a name="sec2">
-</a><a name="sec3">
-</a></p></li><li><a name="sec3"><strong>How We Use The Information Collected.</strong><br>
+<p>
+<a name="sec3"></a>
+</p></li><li><strong>How We Use The Information Collected.</strong><br>
 PBR owns the information collected via this Service. As applicable, the information you provide to us may be used to: 
 <ol type="a">
 <li>contact you about the Service;
@@ -417,9 +2753,9 @@ PBR owns the information collected via this Service. As applicable, the informat
 </li><li>inform you of a prize you have won
 </li><li>contact others, about whom you have provided information, to offer our products, programs or services to them.
 </li></ol>
-</a><p><a name="sec3">
-</a><a name="sec4">
-</a></p></li><li><a name="sec4"><strong>With Whom The Information May Be Shared.</strong><br>
+<p>
+<a name="sec4"></a>
+</p></li><li><strong>With Whom The Information May Be Shared.</strong><br>
 At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
 <ol type="a">
 <li>Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Service analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
@@ -433,39 +2769,39 @@ At times, we may share your personally identifiable information with others for 
 </li></ol>
 <p>
 We may also disclose personally identifiable information to persons, companies and entities whose practices are not covered by this Privacy Policy (e.g. other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products and services to you. If the Service shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses.
-</p></a><p><a name="sec4">
-</a><a name="sec5">
-</a></p></li><li><a name="sec5"><strong>Chat Rooms, Forums And Message Boards.</strong><br>
+</p><p>
+<a name="sec5"></a>
+</p></li><li><strong>Chat Rooms, Forums And Message Boards.</strong><br>
 The Service may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you choose to submit content for publication (e.g. questions for an online chat guest), we may publish your screen name and other information you have provided to us (e.g. transcript of the chat, including your question). If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. PBR cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
-</a><p><a name="sec5">
-</a><a name="sec6">
-</a></p></li><li><a name="sec6"><strong>Links To Other Web Services.</strong><br>
+<p>
+<a name="sec6"></a>
+</p></li><li><strong>Links To Other Web Services.</strong><br>
 You should be aware that when you are on the Service you could be directed to other Services beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Service onto a different Website. This includes links from advertisers, sponsors and partners that may use the Service's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Service, you should consult that Service's privacy policy before providing any personal information. 
 <p>
 We sometimes may offer content (e.g. contests, sweepstakes, auctions, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors or users voluntarily submit to participate in the site activity. PBR does not have ultimate control over these third parties' use of such information and our Privacy Policy does not cover any use of information that third-party ad server may have collected from you.
-</p></a><p><a name="sec6">
-</a><a name="sec7">
-</a></p></li><li><a name="sec7"><strong>Security.</strong><br>
+</p><p>
+<a name="sec7"></a>
+</p></li><li><strong>Security.</strong><br>
 This Service incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
-</a><p><a name="sec7">
-</a><a name="sec8">
-</a></p></li><li><a name="sec8"><strong>A Special Note For Parents Concerning Privacy.</strong><br>
+<p>
+<a name="sec8"></a>
+</p></li><li><strong>A Special Note For Parents Concerning Privacy.</strong><br>
 The Service is a general audience Service. We do not currently collect any personal information from children under the age of thirteen on the Service. If in the future, PBR collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Service (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Web Service (www.getnetwise.org) to learn more about parental control tools.
-</a><p><a name="sec8">
-</a><a name="sec9">
-</a></p></li><li><a name="sec9"><strong>Notification Of Changes And Your Acceptance Of The Privacy Policy.</strong><br>
+<p>
+<a name="sec9"></a>
+</p></li><li><strong>Notification Of Changes And Your Acceptance Of The Privacy Policy.</strong><br>
 By using this Service, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Service shall constitute your acceptance of such revised privacy policy.
-</a><p><a name="sec9">
-</a><a name="sec10">
-</a></p></li><li><a name="sec10"><strong>Correcting/Updating Personal Information.</strong><br>
+<p>
+<a name="sec10"></a>
+</p></li><li><strong>Correcting/Updating Personal Information.</strong><br>
 If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Service, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing PBR Administration at admin@pbrnow.com. 
-</a><p><a name="sec10">
-</a><a name="sec11">
-</a></p></li><li><a name="sec11"><strong>DeepMetrix Privacy Policy.</strong><br>
+<p>
+<a name="sec11"></a>
+</p></li><li><strong>DeepMetrix Privacy Policy.</strong><br>
 The Service uses the products and services of DeepMetrix Corporation (DeepMatrix LiveStats) to analyze website traffic on the Service.
 The DeepMetrix privacy notices identify the key concerns of privacy advocates and explain the intentions and uses of web statistics from an end-user point of view.
 The DeepMetrix product specific privacy policies may be accessed at the following link:
-           </a><a target="_blank" class="textLink" href="http://www.deepmetrix.com/legal/privacy/products/">http://www.deepmetrix.com/legal/privacy/products/</a>
+           <a target="_blank" class="textLink" href="http://www.deepmetrix.com/legal/privacy/products/">http://www.deepmetrix.com/legal/privacy/products/</a>
 LiveStats is a registered trademark of DeepMetrix Corporation. DeepMetrix is a Registered trademark of DeepMetrix Corporation.<ul>
            <tt>DeepMetrix Corporation<br>
            15 Gamelin Blvd.<br>
@@ -484,8 +2820,8 @@ Questions regarding this Privacy Policy should be directed to:
 <table border="0" cellpadding="12" cellspacing="1" bgcolor="#999999">
 <tbody><tr><td bgcolor="#EEEEEE"><pre style="margin-bottom: 0">Professional Bull Riders, Inc.
 Attn: Website Administration - Privacy
-6 South Tejon Street, Suite 700
-Colorado Springs, Colorado 80903
+101 West Riverwalk
+Pueblo, Colorado 81003
 <a class="textLink" href="mailto:privacypolicy@pbrnow.com">privacypolicy@pbrnow.com</a></pre></td></tr></tbody></table>
 </center>
 <br>
@@ -496,151 +2832,129 @@ Colorado Springs, Colorado 80903
 
 </font>
 
-
-		
-	</p></td>
-	<td width="10&quot;" rowspan="2">&nbsp;</td>
-
-</tr>
-
-<tr>
-	<td valign="top">
-		
-
-
-	</td>
-</tr>
-</tbody></table>
-
-
-
-	</td>
-
-	<td rowspan="3" valign="top">
-			<table cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	
-	<td style="background-image:url(/competition/BFTS/bfts.gif); background-repeat:no-repeat;" width="136" height="160">
-		<div vertical-align="top"><a style="color:white;" href="/competition/BFTS/events.cfm"><img src="/competition/BFTS/bfts-half.gif" width="136" border="none"></a></div>
-		<div vertical-align="bottom">&nbsp;<a style="color:white;" href="/competition/CT/" class="RideSideMenuLink">Challenger</a><br>
-		&nbsp;<a style="color:white;" href="/competition/ENT/" class="RideSideMenuLink">Enterprise</a><br>
-		&nbsp;<a style="color:white;" href="/competition/HNH/" class="RideSideMenuLink">Discovery</a>
-		</div>
-	</td></tr>
-	</tbody></table>
-
-	<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#dddddd">
-
-<tbody><tr><td bgcolor="black" style="padding:4px;" class="RideSideMenuHeading">BFTS Competition</td></tr>
-<tr><td style="padding-left: 3px; padding-right: 2px">
-<table border="0" width="100%" cellpadding="3" cellspacing="0">
-<tbody><tr><td><a href="/competition/90PointClub/" class="RideSideMenuLink">90 Point Club</a></td></tr>
-<tr><td><a href="/competition/MossyOak/" class="RideSideMenuLink">Mossy Oak Shootout</a></td></tr>
-<tr><td><a href="/competition/FSDC/" class="RideSideMenuLink">Ford Super Duty Challenge</a></td></tr>
-<tr><td><a href="/competition/FTMT/" class="RideSideMenuLink">Ford Truck Moment of Truth</a></td></tr>
-<tr><td><a href="/competition/BudLight/" class="RideSideMenuLink">Bud Light Top Qualifier</a></td></tr>
-<tr><td><a href="/competition/Salem/salem.cfm" class="RideSideMenuLink">Salem Nationalease Highest Marked Bull / Ride</a></td></tr>
-</tbody></table>
-</td></tr>
-
-
-
-<tr><td bgcolor="black" style="padding:4px;" class="RideSideMenuHeading">PBR MEDIA</td></tr>
-<tr><td style="padding-left: 3px; padding-right: 2px">
-<table border="0" width="100%" cellpadding="3" cellspacing="0">
-<tbody><tr><td><a href="http://www.pbrnow.com/hc.cfm?ID=6432" target="_blank" class="RideSideMenuLink">Owen Washburn / Theraseed Commercial</a></td></tr>
-
-<tr><td><a href="http://www.pbrnow.com/media/radio/" class="RideSideMenuLink">PBR Radio Broadcasts</a></td></tr>
-<tr><td><a href="http://www.pbrnow.com/media/tv/" class="RideSideMenuLink">PBR TV Schedule</a></td></tr>
-
-</tbody></table>
-</td></tr>
-
-
-<tr><td bgcolor="black" style="padding:4px;" class="RideSideMenuHeading">IN THE COMMUNITY</td></tr>
-<tr><td style="padding-left: 3px; padding-right: 2px">
-<table border="0" width="100%" cellpadding="3" cellspacing="0">
-<tbody><tr><td><a href="/shop/" class="RideSideMenuLink">PBR Store: Wear What the Pros Wear</a></td></tr>
-<tr><td><a href="/media/mm/" class="RideSideMenuLink">PBR Photos</a></td></tr>
-<tr><td><a href="http://www.resistolrelief.com/" class="RideSideMenuLink">Resistol Relief Fund &amp; Auctions</a></td></tr>
-<tr><td><a href="/fans/interactive/newsletter/" class="RideSideMenuLink">Newsletters and Alerts</a></td></tr>
-</tbody></table>
-</td></tr>
-
-
-<tr><td bgcolor="black" style="padding:4px;" class="RideSideMenuHeading">ABOUT PBR</td></tr>
-<tr><td style="padding-left: 3px; padding-right: 2px">
-<table border="0" width="100%" cellpadding="3" cellspacing="0">
-<tbody><tr><td><a href="/about/PBRInc/" class="RideSideMenuLink">About PBR</a></td></tr>
-<tr><td><a href="/about/sportinfo/basics.cfm" class="RideSideMenuLink">Bull Riding Basics</a></td></tr>
-<tr><td><a class="RideSideMenuLink" href="/about/sportinfo/equipment.cfm">Bull Riding Equipment</a></td></tr>
-<tr><td><a class="RideSideMenuLink" href="/about/sportinfo/bulls.cfm">The Bull Athletes</a></td></tr>
-<tr><td><a class="RideSideMenuLink" href="/about/sportinfo/dictionary.cfm">Bull Riding Dictionary</a></td></tr>
-<tr><td><a class="RideSideMenuLink" href="/about/sportinfo/scoring.cfm">Event Scoring</a></td></tr>
-<tr><td><a class="RideSideMenuLink" href="/about/sportinfo/injuries.cfm">Common Injuries</a></td></tr>
-<tr><td><a href="/about/apply.cfm" class="RideSideMenuLink">Become a Bull Rider</a></td></tr>
-<tr><td><a href="/ridersbulls/others/contractors.cfm" class="RideSideMenuLink">Stock Contractors &amp; Bulls</a></td></tr>
-<tr><td><a href="/about/site/help.cfm" class="RideSideMenuLink">Frequently Asked Questions</a></td></tr>
-<tr><td><a href="/about/PBRInc/staff.cfm" class="RideSideMenuLink">Staff and Directory</a></td></tr>
-<tr><td><a href="/ridersbulls/others/barrelmen.cfm" class="RideSideMenuLink">Judges &amp; Barrelmen</a></td></tr>
-<tr><td><a href="/competition/archives/" class="RideSideMenuLink">Records &amp; Statistics</a></td></tr>
-<tr><td><a href="/competition/BFTS/events.cfm" class="RideSideMenuLink">Event Travel Information</a></td></tr>
-<tr><td><a href="http://www.probullridingoutreach.com/" class="RideSideMenuLink">Pro Bull Riding Outreach</a></td></tr>
-</tbody></table>
-</td></tr>
-
-
-<tr><td bgcolor="black" style="padding:4px;" class="RideSideMenuHeading">CONTACT US</td></tr>
-<tr><td style="padding-left: 3px; padding-right: 2px">
-<table border="0" width="100%" cellpadding="3" cellspacing="0">
-<tbody><tr><td><a href="/contact/" class="RideSideMenuLink">Email Us</a></td></tr>
-</tbody></table>
-</td></tr>
-
-</tbody></table>
-
-	</td>
-</tr>
-
-
-
-</tbody></table>
-
-
-</td>
-  </tr>
-  <tr>
-    <td valign="bottom"><table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td bgcolor="#000000"><div align="center"><img border="0" width="194" height="23" src="/images/index2005/tsod.gif" alt="Toughest Sport On Dirt"></div></td>
-  </tr>
-  <tr>
-    <td background="/images/index2005/footbg.gif">
-	<table border="0" width="689" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="1"><img border="0" width="1" height="60" src="/images/1.gif"></td>
-<td nowrap="" width="687" align="CENTER"><div align="CENTER" class="FooterAddress"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif">6
-      SOUTH TEJON STREET&nbsp;&nbsp;&nbsp;SUITE 700&nbsp;&nbsp;&nbsp;COLORADO SPRINGS, CO&nbsp;&nbsp;&nbsp;80903</font></div>
-<div align="CENTER" class="footlink" style="padding-top: 4px;">
-<a style="color:white;" href="/ridersbulls/search/">Search</a> | 
-<a style="color:white;" href="/sitemap.cfm">Site Map</a> | 
-<a style="color:white;" href="/about/">About PBR</a> | 
-<a style="color:white;" href="/sponsors/">Official Sponsors</a> | 
-<a style="color:white;" href="/policies/privacy.cfm">Privacy Policy</a> | 
-<a style="color:white;" href="/policies/terms.cfm">Terms</a> | 
-<a style="color:white;" href="/media/advertise/">Advertising</a> | 
-<a style="color:white;" href="/contact/">Contact Us</a>
+</p></div>
+<div id="secondaryContent" style=" padding-top: 0px;">
 </div>
-<div align="CENTER" class="FooterCopyright"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif">© 2005 PROFESSIONAL BULL RIDERS, INC. ALL RIGHTS RESERVED WORLD WIDE.</font></div></td>
-<td width="1"><img border="0" width="1" height="60" src="/images/1.gif"></td>
-</tr>
+
+
+		<br>
+		</td></tr><tr>
+		<td colspan="3" width="990" height="77" alt="">
+			<img src="/images/hpsponsors6.jpg" width="990" height="77" border="0" usemap="#Map2">
+<map name="Map2" id="Map2">
+	<area shape="rect" coords="75,5,118,48" href="/sponsors/sponsor.cfm?ID=1" target="_self" alt="ford">
+	<area shape="rect" coords="64,49,142,74" href="/sponsors/sponsor.cfm?ID=55" target="_self">
+	<area shape="rect" coords="124,10,187,39" href="/sponsors/sponsor.cfm?ID=3" target="_self">
+	<area shape="rect" coords="144,42,184,72" href="http://www.bigtextrailers.com/" target="_blank">
+	<area shape="rect" coords="195,12,256,37" href="/sponsors/sponsor.cfm?ID=4" target="_self">
+	<area shape="rect" coords="198,51,270,70" href="http://www.yamaha-motor.com/outdoor/products/lifestylehome/home.aspx" target="_blank">
+	<area shape="rect" coords="265,9,314,43" href="/sponsors/sponsor.cfm?ID=6" target="_self">
+	<area shape="rect" coords="285,48,348,71" href="/sponsors/sponsor.cfm?ID=13" target="_self">
+	<area shape="rect" coords="321,14,411,40" href="/sponsors/sponsor.cfm?ID=45" target="_self">
+	<area shape="rect" coords="356,45,425,71" href="http://www.rockyboots.com/" target="_blank">
+	<area shape="rect" coords="429,15,482,39" href="/sponsors/sponsor.cfm?ID=2" target="_self">
+	<area shape="rect" coords="432,41,475,74" href="http://www.salemleasing.com/" target="_blank">
+	<area shape="rect" coords="488,49,554,74" href="/sponsors/sponsor.cfm?ID=126" target="_self">
+	<area shape="rect" coords="496,13,545,41" href="/sponsors/sponsor.cfm?ID=51" target="_self">
+	<area shape="rect" coords="557,15,615,38" href="/sponsors/sponsor.cfm?ID=114" target="_self">
+	<area shape="rect" coords="570,42,612,73" href="/sponsors/sponsor.cfm?ID=125" target="_self">
+	<area shape="rect" coords="624,47,671,73" href="/sponsors/sponsor.cfm?ID=130" target="_self">
+	<area shape="rect" coords="625,12,693,38" href="/sponsors/sponsor.cfm?ID=115" target="_self">
+	<area shape="rect" coords="716,14,750,42" href="/sponsors/sponsor.cfm?ID=16" target="_self">
+	<area shape="rect" coords="682,45,758,74" href="/sponsors/sponsor.cfm?ID=132" target="_self">
+	<area shape="rect" coords="769,12,832,43" href="/sponsors/sponsor.cfm?ID=41" target="_self">
+	<area shape="rect" coords="761,46,838,73" href="/sponsors/sponsor.cfm?ID=131" target="_self">
+	<area shape="rect" coords="841,4,882,42" href="http://www.airforce.com/" target="_blank">
+	<area shape="rect" coords="851,45,882,75" href="http://www.borderpatrol.gov" target="_blank">
+	<area shape="rect" coords="890,11,966,40" href="http://www.exclusivegenetics.com/" target="_blank">
+	<area shape="rect" coords="893,50,950,68" href="http://www.zantrex3.com/" target="_blank">
+</map>
+</td> 
+	</tr>
+	<tr>
+
+	</tr>
+	
 </tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
+<script type="text/javascript" language="javascript">
+
+	function writeHeaderFlash()
+	{
+	  	var fo = new SWFObject("/flash/newflashheader5.swf", "headerMovie", "990", "100", "8.0");
+	  	fo.addParam('wmode', 'transparent');
+	  	fo.addParam('wmmode', 'transparent');	  	
+		fo.write("headerFlash");					
+	}
+	
+		writeHeaderFlash();
+	
+	function writeGetToughFlash()
+	{
+		
+		if(document.getElementById('gtPlayerContainer'))
+		{
+			gtDiv = document.createElement("div");
+			gtDiv.id = "gtPlayerDiv";
+			gtDiv.style.position = "absolute";
+			gtDiv.style.top = "";	
+			document.getElementById('gtPlayerContainer').appendChild(gtDiv);
+			var gtFlash = new SWFObject("/flash/getToughPlayer.swf", "headerFlash", "455", "325", "8.0");
+			gtFlash.write("gtPlayerDiv");
+		}
+	}
+	
+	function videoFinished(eventType)
+	{
+		try{
+			gtp = document.getElementById("gtPlayerDiv");
+			document.getElementById('gtPlayerContainer').removeChild(gtDiv);// now we kick off the regular video
+			newTest();
+			FixBoxes();
+		}catch(e){
+		} 
+	}
+	function newTest(){  
+			//this plays a youtube story 
+			
+			 
+				javascript: showYoutube('http://www.youtube.com/p/8AB2EDEAEAEBC511', 1, 1);
+			
+			
+			//showYoutubeSubstory('http://www.youtube.com/v/mPGZOiQIZA0', 1, 1);	
+			//this will show a twistage story (with auto play);
+			//showPlayer('6818135e97274', true, 1);
+		}
+	
+ 	if(typeof sIFR == "function"){
+	    sIFR.bHideBrowserText = false;
+	    sIFR.bFixFragIdBug = false; // not recommended!
+	    sIFR.setup();
+	};
+	if(typeof sIFR == "function"){
+	    sIFR.replaceElement("h2", named({sFlashSrc: "/28dayslater.swf", sColor: "#000", sCase: "upper"}));
+	};	 
+</script>
+
+ 
+ <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">  
+ </script>
+ <script type="text/javascript"> 
+  _uacct = "UA-75633-2"; 
+  urchinTracker(); 
+ </script>
+
+		
+		
+		<script type="text/javascript">
+			for(var m = 0; m < preOnLoadFunctions.length; m++){
+				try{
+					preOnLoadFunctions[m]();
+				}catch(e){
+					alert(e.message);
+				}
+			}
+		
+		</script>
 
 
 </body></html>
