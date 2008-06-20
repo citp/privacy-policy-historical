@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130060522id_/http%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620052846id_/http%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
 
-# Internet Crime Complaint Center (IC3)
+# Internet Crime Complaint Center (IC3) | Privacy Policy
 
 The [Federal Bureau of Investigation](http://www.fbi.gov/) (FBI) and the [National White Collar Crime Center](http://www.nw3c.org/) (NW3C) co-sponsor the Internet Crime Complaint Center (IC3). The NW3C is a private, non-governmental, not-for-profit organization, which provides analytical support for white collar crime cases for state and local agencies. 
 
