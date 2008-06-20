@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nichepass.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220035138id_/http%3A//nichepass.com/page.php%3Fsect%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichepass.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620215018id_/http%3A//www.nichepass.com/page.php%3Fsect%3Dprivacy) for the most accurate reproduction.*
 
-# NichePass Network - Privacy Policy
+# NichePass - privacy policy
 
 NichePass has created this Privacy Policy to explain our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you agree to our privacy practices and the terms and conditions of our Web site. If this policy is not agreeable to you, please leave the site immediately.
 
