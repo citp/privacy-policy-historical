@@ -1,0 +1,739 @@
+<!--The following is the downloaded HTML source of the kirkal.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620222228id_/http%3A//kirkal.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<html><head>
+<meta name="verify-v1" content="t/GA2AqeMkJdYrdueDKUycyKWA/ozTV3nsUsgPN7nW4=">
+<title>Kirkal-Connect you with ur Friends &amp; Relatives</title>
+<meta name="description" content="Kirkal is a Social Networking Site use to connect with friends, relatives, classmates and people live around,its a Friends networking site">
+<meta name="keywords" content="Kirkal is a Social Networking Site use to connect with friends, relatives, classmates and people live around,its a Friends networking site">
+<meta name="title" content="Kirkal">
+<meta name="copyright" content="Copyright 2008, kirkal.com">
+<meta name="rating" content="SAFE FOR KIDS">
+<meta name="distribution" content="GLOBAL">
+<meta name="classification" content="Portal">
+<meta name="revisit-after" content="1 Days">
+<meta name="robots" content="index,follow">
+<meta name="Creator" content="Premkumar, info@kirkal.com, www.kirkal.com">
+<meta name="Publisher" content="www.kirkal.com, Prem kumar">
+<meta name="Author" content="www.kirkal.com, Prem kumar, info@kirkal.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles/css.css" type="text/css" rel="stylesheet">
+<link href="styles/css_t.css" type="text/css" rel="stylesheet">
+<link href="styles/myspace_css.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="styles/css_profile.css">
+<link rel="stylesheet" type="text/css" href="styles/screen.css" media="screen">
+<link rel="stylesheet" type="text/css" href="styles/messages.css">
+<script language="javascript" type="text/javascript">
+function get()
+{
+ var xmlhttp;
+ if(window.XMLHttpRequest)
+ {
+  xmlhttp=new XMLHttpRequest();
+ }
+ else if(window.ActiveXObject)
+ {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  if(!xmlhttp)
+  {
+   xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ }
+return xmlhttp;
+}
+var http=get();
+
+</script>
+<script language="javascript" type="text/javascript">
+function lib_bwcheck () {
+	this.ver=navigator.appVersion
+	this.agent=navigator.userAgent.toLowerCase()
+	this.dom=document.getElementById?true:false;
+	this.op=(this.agent.indexOf("opera")>-1 && window.opera)?true:false;
+	this.op5=(this.agent.indexOf("opera 5")>-1 && window.opera)?true:false;
+	this.op6=(this.agent.indexOf("opera 6")>-1 && window.opera)?true:false;
+	this.op7=(this.agent.indexOf("opera 7")>-1 && window.opera)?true:false;
+  	this.ie5=(this.agent.indexOf("msie 5")>-1 && !this.op5 && !this.op6 && !this.op7)?true:false;
+  	this.ie55=(this.ie5 && this.agent.indexOf("msie 5.5")>-1)?true:false;
+  	this.ie6=(this.agent.indexOf("msie 6")>-1 && !this.op5 && !this.op6 && !this.op7)?true:false;
+  	this.ie7=(this.agent.indexOf("msie 7")>-1 && !this.op5 && !this.op6 && !this.op7)?true:false;
+  	this.ie=(this.ie4 || this.ie5 || this.ie6 || this.ie7)?true:false;
+	this.mac=(this.agent.indexOf("mac")>-1)?true:false;
+	this.sa=(this.agent.indexOf("safari")>-1)?true:false;
+	this.ff=(this.agent.indexOf("firefox")>-1)?true:false;
+	this.ff15=(this.agent.indexOf("firefox/1.5")>-1)?true:false;
+	this.ff2=(this.agent.indexOf("firefox/2.0")>-1)?true:false;
+	this.ns6=(this.agent.indexOf("gecko")>-1 &&!this.sa  || window.sidebar)?true:false;
+	this.ns4=(!this.dom && document.layers)?true:false;
+	this.bw=(this.ie7 || this.ie6 || this.ie5 || this.ns4 || this.ns6 || this.op5 || this.op6)
+
+	return this
+}
+var bw=new lib_bwcheck()
+
+//////////////////////////////////
+// Calendar popup that uses the OverLib class to choose a date
+//////////////////////////////////
+
+// Date variables
+var monthName = new Array("","January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+var monthDays = new Array(0,31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
+var week = new Array("Su", "Mo", "Tu", "We", "Th", "Fr", "Sa");
+var today = new Date();
+var disMonth = today.getMonth()+1;
+var year = today.getFullYear();
+var day = today.getDay();
+var dayN = today.getDate();
+var days = monthDays[disMonth];
+if (year%4 == 0 && disMonth == 2) days = 29;
+
+function getDays() {
+	if ((year%4 == 0) && (disMonth == 2))
+		d = 29;
+	else
+		d = monthDays[disMonth];
+	return d;
+}
+
+// The OverLib class can't accept functions with arguments the following two classes work around that issue
+function drawListEndDate() {
+	return drawCalendar("end_date");
+}
+
+function drawListStartDate() {
+	return drawCalendar("start_date");
+}
+
+function drawBusLicDate0() {
+	return drawCalendar("bus_lic_date[0]");
+}
+
+function drawBusLicDate1() {
+	return drawCalendar("bus_lic_date[1]");
+}
+
+function drawLicDate0() {
+	return drawCalendar("lic_date[0]");
+}
+
+function drawLicDate1() {
+	return drawCalendar("lic_date[1]");
+}
+
+function drawLicDate2() {
+	return drawCalendar("lic_date[2]");
+}
+
+function drawOpenDate1() {
+	return drawCalendar("open_1_date");
+}
+
+function drawOpenDate2() {
+	return drawCalendar("open_2_date");
+}
+
+// Used as the template for display in the OverLib class
+function drawCalendar(input) {
+	txt='<table border="0" cellpadding="0" cellspacing="0" width="139">';
+	txt+='<tr>';
+	txt+='	<td class="popcalmonth">';
+	txt+='	<table border="0" cellpadding="0" cellspacing="0" width="139">';
+	txt+='	<tr>';
+	txt+='		<td width="12"><a href="javascript:changeMonth(-1,\''+input+'\');"><img src="/resources/img/buttons/white-uparrow.gif" border="0" /></a></td>';
+	txt+='		<td width="115" style="text-align: center;"><div id="monthDiv">'+loadMonth()+'</div></td>';
+	txt+='		<td width="12"><a href="javascript:changeMonth(1,\''+input+'\');"><img src="/resources/img/buttons/white-downarrow.gif" border="0" /></a></td>';
+	txt+='	</tr>';
+	txt+='	</table>';
+	txt+='	</td>';
+	txt+='</tr>';
+	txt+='<tr>';
+	txt+='	<td><div id="daysDiv">'+loadDays(input)+'</div></td>';
+	txt+='</tr></table>';
+
+	return txt;
+}
+
+// Loads the current month and year along the top of drawCalendar function
+function loadMonth () {
+	return monthName[disMonth] + '  ' + year;
+}
+
+// Loads the current days in the drawCalendar function
+function loadDays (input) {
+	firstOfMonth = new Date (year,(disMonth-1),1);
+	firstDay = firstOfMonth.getDay();
+	txt='<table cellspacing="0" class="popcaldays">';
+	txt+='<tr>';
+	for (var i=0; i<7; i++) {
+		txt+='<td class="weekday">' + week[i] + '</td>';
+	}
+	txt+='</tr>';
+	var jumped = 0;
+	var inserted = 1;
+	var start = firstDay;
+	if (start < 0) start += 7;
+	var weeks = parseInt((start + days)/7);
+	if ((start + days)%7 != 0) weeks++;
+	for (var i=weeks; i>0; i--) {
+	  txt+='<tr>';
+	  for (var j=7; j>0; j--) {
+	    // Build onClick for calendar
+		if (inserted<10)
+			clickDay='0'+inserted;
+		else
+			clickDay=inserted;
+		if (disMonth<10)
+			clickMonth='0'+disMonth;
+		else
+			clickMonth=disMonth;
+
+		clickDate=' id="c'+inserted+'" onClick="changeInputDate(\''+input+'\',\''+clickDay+'\',\''+clickMonth+'\','+year+'); cClick();" onMouseOver="showHand(\'c'+inserted+'\');"';
+
+	    if (jumped<start) {
+	      txt+='<td></td>';
+	      jumped++;
+		} else if (inserted>days) {
+		  txt+='<td></td>';
+	      jumped++;
+		} else {
+		  txt+='<td class="day"'+clickDate+'>' + inserted + '</td>';
+	      inserted++;
+	    }
+	  }
+	  txt+='</tr>';
+	}
+	txt+='</table>';
+
+	return txt;
+}
+
+// Used for the up and down arrows next to calendar month and year
+function changeMonth(monthChange,input) {
+	disMonth += monthChange;
+	if (disMonth > 12) {
+		disMonth -= 12;
+		year += 1;
+	} else if (disMonth <= 0) {
+		disMonth += 12;
+		year -= 1;
+	}
+	newMonth=loadMonth();
+	days = getDays();
+	newDays=loadDays(input);
+	document.getElementById('monthDiv').innerHTML=newMonth;
+	document.getElementById('daysDiv').innerHTML=newDays;
+}
+
+// Gets the day/month/year indexes as well as the days in month
+function changeInputDate(input,day,month,year) {
+	obj = eval("document.getElementById('" + input + "')");
+	obj.value = month + "/" + day + "/" + year;
+}
+
+function popupPDF(sUrl, winName, w, h) {
+	winContent = window.open(sUrl, winName, "top=10,left=10,height="+h+",width="+w+",resizable=yes,menubar=yes,toolbar=yes");
+	winContent.focus();
+	return true;
+}
+
+function popupWin(sUrl, target, w, h, scrollable) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);
+
+	winContent = window.open(sUrl, target, "top="+y+",left="+x+",height="+h+",width="+w+",resizable=yes,menubar=no,toolbar=no,location=no,scrollbars="+scrollable);
+	winContent.focus();
+	return true;
+}
+
+function popupFrm(sUrl, fUrl, w, h) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);
+
+	frmContent = window.open(sUrl, "frm", "top="+y+",left="+x+",height="+h+",width="+w+",resizable=yes,menubar=no,toolbar=no,location=no,scrollbars=yes");
+	document.search.target = "frm";
+	document.search.action = sUrl;
+	document.search.submit();
+	frmContent.focus();
+	document.search.target = "_self";
+	document.search.action = fUrl;
+}
+
+function refreshParent() {
+    window.opener.location.reload();
+    setTimeout("window.close()", 2000);
+}
+
+//////////////////////////////////
+// returns the inner width of the browser window, outer width can't be used
+// because of AOL and the Netscape 6 toolbar. Add around 15 to 20 pixels to compensate
+// for outer width
+//////////////////////////////////
+function getWindowWidth () {
+	if (bw.ie) {
+		return document.body.offsetWidth;
+	} else {
+		return window.innerWidth;
+	}
+}
+
+function getWindowHeight () {
+	var windowHeight = 0;
+	if (typeof(window.innerHeight) == 'number') {
+		windowHeight = window.innerHeight;
+	} else {
+		if (document.documentElement && document.documentElement.clientHeight) {
+			windowHeight = document.documentElement.clientHeight;
+		} else {
+			if (document.body && document.body.clientHeight) {
+				windowHeight = document.body.clientHeight;
+			}
+		}
+	}
+	return windowHeight;
+}
+
+// Messages for New Message Notification
+function splash(txt)
+{
+	WinHgt = document.documentElement.scrollHeight;
+	WinWdt = document.documentElement.scrollWidth;
+
+	document.getElementById('splashFrame').style.height = WinHgt+'px';
+	document.getElementById('splashFrame').style.width = WinWdt+'px';
+	document.getElementById('splashFrame').style.display = 'block';
+	document.getElementById('splashContainer').style.height = WinHgt+'px';
+	document.getElementById('splashContainer').style.width = WinWdt+'px';
+	document.getElementById('splashContainer').style.visibility = 'visible';
+	if(txt == true) {
+		txt = 'While your request is being processed';
+	}
+
+	document.getElementById('splashText').innerHTML = txt;
+	document.getElementById('splashImg').innerHTML = '<img src="images/busy.gif" />';
+	positionSplash();
+}
+
+function positionSplash()  {
+	WinHgt = (getWindowHeight() / 2) - 60;
+	// set new height
+	if(document.documentElement.scrollTop) {
+		SpHgt = WinHgt + document.documentElement.scrollTop;
+	} else {
+		SpHgt = WinHgt + document.body.scrollTop;
+	}
+	document.getElementById('splash').style.top = SpHgt+'px';
+	setTimeout('positionSplash()',50);
+}
+
+function hideSplash()
+{
+	document.getElementById('splashFrame').style.display = 'none';
+	document.getElementById('splashContainer').style.visibility = 'hidden';
+}
+// Messages for New Message Notification
+
+function displayDeleteSaved(txt,delhref) {
+	overlib(txt+'<div id="centerbtn" style="padding-top:22px;"><div class="commonbtn" onClick="cClick();"><button type="button"><img src="/resources/img/buttons/cancel.gif">Cancel</button></div><div class="commonbtn" onClick="cClick();location.href=\''+delhref+'\';"><button type="button"><img src="/resources/img/buttons/ok.gif">Ok</button></div></div>', WIDTH, 300, HEIGHT, 100, CELLPAD, 10, 10, FGCOLOR, '#edf1f4', BGCOLOR, '#a4b3bf', STICKY, FOLLOWSCROLL, FOLLOWSCROLLREFRESH, 50, EXCLUSIVE, CENTERPOPUP, CENTEROFFSET, 0, -40);
+}
+
+
+function changeTab (tabfocus, len) {
+	for (i=1; i<=len; i++) {
+		hideObj('content'+i);
+		document.getElementById('tab'+i).className='unfocus';
+	}
+	showObj('content'+tabfocus);
+	document.getElementById('tab'+tabfocus).className='focus';
+    setFooter();
+}
+
+function setFooter () {
+	if (document.getElementById) {
+		var windowHeight = getWindowHeight();
+		if (windowHeight > 0) {
+			// First get page and footer height
+			var contentHeight = document.getElementById('page').offsetHeight;
+			var headerHeight = document.getElementById('header').offsetHeight;
+			var footerElement = document.getElementById('footer');
+			var footerHeight  = footerElement.offsetHeight;
+			// Next get left and right nav height if they exist
+			var leftHeight = 0;
+			if(document.getElementById('mainl')) {
+				leftHeight = document.getElementById('mainl').offsetHeight;
+			}
+
+			// Get the longest Height
+			var contentDiff  = 0;
+			var longestHeight = contentHeight + footerHeight;
+			//alert(longestHeight);
+			if((leftHeight + headerHeight) > longestHeight) {
+				longestHeight = leftHeight + headerHeight;
+				if(bw.op) {
+					contentDiff = longestHeight - 26;
+				} else {
+					contentDiff = longestHeight - contentHeight - footerHeight;
+				}
+			}
+			//alert(longestHeight);
+			if (windowHeight - longestHeight >= 0) {
+				footerElement.style.top = (windowHeight - (contentHeight + footerHeight)) + 'px';
+				document.getElementById('leftbg').style.height = windowHeight + 'px';
+			} else {
+				footerElement.style.top = contentDiff + 'px';
+				document.getElementById('leftbg').style.height = longestHeight + 'px';
+			}
+		}
+	}
+}
+
+////////////////////////////
+// Tab functions
+////////////////////////////
+
+function disDirView (dis, foot) {
+	if (dis == 'pic') {
+		changeTab(2,2);
+	} else {
+		changeTab(1,2);
+	}
+}
+
+function getObjectStyle (obj) {
+	if ((bw.dom) && (!bw.ie)) {
+		return eval("document.getElementById('" + obj + "').style");
+	} else if (bw.ie) {
+		return eval("document.all." + obj + ".style");
+	}
+}
+
+function showObj (obj) {
+	var theObj = getObjectStyle(obj);
+	theObj.display = 'block';
+	theObj.visibility = 'visible';
+}
+
+function hideObj (obj) {
+	var theObj = getObjectStyle(obj);
+	theObj.display = 'none';
+	theObj.visibility = 'hidden';
+}
+
+////////////////////////////////
+// Show hand
+////////////////////////////////
+function showHand(obj) {
+	var theObj = getObjectStyle(obj);
+	theObj.cursor = 'pointer';
+}
+
+////////////////////////////////
+// Thumbnail Navigator
+////////////////////////////////
+
+/**********************************************************************************
+SideScrollMenu
+*   Copyright (C) 2001 <a href="/dhtmlcentral/thomas_brattli.asp">Thomas Brattli</a>
+*   This script was released at DHTMLCentral.com
+*   Visit for more great scripts!
+*   This may be used and changed freely as long as this msg is intact!
+*   We will also appreciate any links you could give us.
+*
+*   Made by <a href="/dhtmlcentral/thomas_brattli.asp">Thomas Brattli</a>  and modified by Michael van Ouwerkerk
+*********************************************************************************/
+
+/**************************************************************************
+Scrolling functions
+***************************************************************************/
+function mLeft(){
+	if (!noScroll && oMenu.x<sArrowwidth){
+		oMenu.moveBy(sScrollPx,0)
+		tim = setTimeout("mLeft()",sScrollspeed)
+	}
+	showObj('divArrowRight');
+	if (!noScroll && oMenu.x>=sArrowwidth){
+		hideObj('divArrowLeft');
+	} else {
+		showObj('divArrowLeft');
+	}
+}
+function mRight(){
+	if (!noScroll && oMenu.x>-(oMenu.scrollWidth-(pageWidth))){
+		oMenu.moveBy(-sScrollPx,0)
+		tim = setTimeout("mRight()",sScrollspeed)
+	}
+	showObj('divArrowLeft');
+	if (!noScroll && oMenu.x<=-(oMenu.scrollWidth-(pageWidth))){
+		hideObj('divArrowRight');
+	} else {
+		showObj('divArrowRight');
+	}
+}
+function noMove(){
+	clearTimeout(tim);
+	noScroll = true;
+	sScrollPx = sScrollPxOriginal;
+}
+/**************************************************************************
+Object part
+***************************************************************************/
+function makeObj(obj,nest,menu){
+	nest = (!nest) ? "":'document.'+nest+'.';
+	this.elm = bw.ns4?eval(nest+"document.layers." +obj):bw.ie4?document.all[obj]:document.getElementById(obj);
+   	this.css = bw.ns4?this.elm:this.elm.style;
+	this.scrollWidth = bw.ns4?this.css.document.width:this.elm.offsetWidth;
+	this.x = bw.ns4?this.css.left:this.elm.offsetLeft;
+	this.y = bw.ns4?this.css.top:this.elm.offsetTop;
+	this.moveBy = b_moveBy;
+	this.moveIt = b_moveIt;
+	this.clipTo = b_clipTo;
+	return this;
+}
+
+function b_moveIt(x,y){
+	if (x!=null){this.x=x; this.css.left=this.x+px;}
+	if (y!=null){this.y=y; this.css.top=this.y+px;}
+}
+function b_moveBy(x,y){this.x=this.x+x; this.y=this.y+y; this.css.left=this.x+px; this.css.top=this.y+px;}
+function b_clipTo(t,r,b,l){
+	if(bw.ns4){this.css.clip.top=t; this.css.clip.right=r; this.css.clip.bottom=b; this.css.clip.left=l;}
+	else this.css.clip="rect("+t+"px "+r+"px "+b+"px "+l+"px)";
+}
+/**************************************************************************
+Object part end
+***************************************************************************/
+
+/**************************************************************************
+Init function. Set the placements of the objects here.
+***************************************************************************/
+function sideInit(){
+// Get table width to see if arrows are needed
+
+	//Making the objects...
+	oBg = new makeObj('divBg')
+	oMenu = new makeObj('divMenu','divBg',1)
+	oArrowRight = new makeObj('divArrowRight','divBg')
+
+	//Placing the menucontainer, the layer with links, and the right arrow.
+	oMenu.moveIt(sArrowwidth,null)
+	oArrowRight.css.width = sArrowwidth;
+
+	//Setting the width and the visible area of the links.
+	if (!bw.ns4) oBg.css.overflow = "hidden";
+	// Disabled because of Firefox 1.5 & 2
+	if (bw.ns6 && !bw.ff15 &!bw.ff2) oMenu.css.position = "relative";
+	oBg.css.width = pageWidth+px;
+	oBg.clipTo(0,pageWidth+4,sMenuheight,0);
+	oBg.css.borderColor = "#a9a9a9";
+	oBg.css.borderWidth = "1px";
+	oBg.css.borderStyle = "solid";
+	oBg.css.visibility = "visible";
+
+	// Get table width to see if arrows are needed
+	tWidth = document.getElementById('divMenu').offsetWidth;
+	if(tWidth > pageWidth) {
+		showObj('divArrowRight');
+	}
+}
+
+function swapImage(newImg, mpeg, key, type) {
+	document.getElementById('imageMain').src     = newImg;
+	if(mpeg != 0) {
+		document.getElementById('hrefMain').href         = 'javascript:popupWin("/sitetools/video.php?listing_vid='+mpeg+'&listing_key='+key+'", "video","405","390");void(null);';
+		document.getElementById('hrefMain').style.cursor = 'pointer';
+	} else {
+		document.getElementById('hrefMain').href         = 'javascript:void(null);';
+		document.getElementById('hrefMain').style.cursor = 'default';
+	}
+}
+</script>
+</head>
+<body leftmargin="0" topmargin="0">
+<!-- iframe and div for instant notification -->
+<iframe id="splashFrame" frameborder="0" scrolling="no"></iframe>
+<div id="splashContainer" onclick="return false;" style="visibility:hidden;">
+<div id="splash">
+<span id="splashText" class="splashText"></span>
+<span id="splashImg"><img src="images/busy.gif" width="270" height="17"></span>
+<span>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="4">
+<tbody><tr>
+<td width="100%">
+<div align="center">
+<input type="button" name="go_to_messages" value="Close Notification" onclick="hideSplash();">
+</div>
+</td>
+</tr>
+</tbody></table>
+</span>
+</div>
+</div>
+<!-- iframe and div for instant notification -->
+<!-- Nav.php -->
+<div align="center">
+<center>
+</center><table border="0" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" width="880" height="224">
+<tbody><tr>
+<td class="top_nav_class">
+<p align="right">
+<a class="top_nav" href="index.php"><b>Home</b></a>
+ | <a class="top_nav" href="browse.php"><b>Browse</b></a>
+
+ | <a class="top_nav" href="online_people.php"><b>Online Users</b></a>
+
+
+
+ | <a href="join_us.php" class="top_nav">Join Us</a> |
+ <a href="login.php" class="top_nav">Login</a> |
+ <a class="top_nav" href="games.php"><b>Games</b></a> |
+ <a class="top_nav" href="view_all_galleries.php"><b>Albums</b></a> |
+ <a href="shop.php" class="top_nav">Shop</a> |
+ <a href="advertise.php" class="top_nav">Advertise with Us</a> |
+ <a href="contact_us.php" class="top_nav">Contact Us</a> |
+ <a href="help.php" class="top_nav">Help</a>
+</p></td>
+</tr>
+<tr>
+<td>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr bgcolor="#FFFFFF">
+<td width="150"><img border="0" src="images/logo2.jpg" align="left"></td>
+<td width="680" valign="middle">
+<div align="center">
+<!-- ad code -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-0604136778685136";
+/* 468x60, created 15/06/08 */
+google_ad_slot = "5464144641";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	
+<!-- ad code -->
+</div></td>
+</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+<tr>
+<td height="5"><img border="0" src="images/top_divider.gif" width="100%" height="3"></td>
+</tr>
+
+<tr>
+<td height="28" background="images/nav_back.gif" class="top_nav_back">
+<div align="center">
+<a href="rate_photos.php" class="top_nav_black">Rate Photos</a>
+| <a class="top_nav_black" href="most_popular.php">Popular</a>
+| <a href="invite-new.php" class="top_nav_black">Invite</a>
+| <a href="my_messages.php?folder=inbox" class="top_nav_black">Mail Box</a> |
+<a href="blog.php" class="top_nav_black">Blog</a>
+| <a href="view_bookmarks.php" class="top_nav_black">Bookmarks</a> |
+<a href="message_board.php" class="top_nav_black">Forum</a>
+| <a href="groups.php" class="top_nav_black">Groups</a> |
+<a href="events.php" class="top_nav_black">Events</a>
+| <a href="classified.php" class="top_nav_black">Classifieds</a> |
+<a href="my_journal.php" class="top_nav_black">Journal</a>
+| <a href="videos.php" class="top_nav_black">Videos</a> |
+<a href="music_signup.php" class="top_nav_black">Music</a>&nbsp;|
+
+</div></td>
+</tr>
+<tr>
+<td height="5"><img border="0" src="images/top_divider.gif" width="100%" height="3"></td>
+</tr>
+<tr>
+<td height="21" bgcolor="#FFFFFF">
+<div align="center">
+
+</div></td>
+</tr>
+
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<tbody>
+<tr>
+<td valign="top">
+<table bgcolor="#FFFFFF" align="center" cellspacing="0" cellpadding="0" width="99%" border="0">
+<tbody>
+<tr>
+<td colspan="2" valign="top">
+<div align="center">
+<!-- Nav.php -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="dark_b_border2">
+<tbody><tr>
+<td class="dark_blue_white2">
+<strong>&nbsp;Privacy Policy</strong>
+</td>
+</tr>
+
+<tr><td>
+<p>&nbsp;</p><p>&nbsp;</p><p>Kirkal.com is a social networking  site. The kirkal’s privacy policy governs the collection, use and disclosure of  personal information you submit to kirkal.com.</p><p>Personal  information is one that uniquely identifiable to you, like your name, email  address, address, date of birth, and other information that is of personal in  nature.</p><p>&nbsp;</p><p><strong>Information collection</strong></p><p>When you visit  Kirkal we collect two types of information: personal information you knowingly  choose to disclose that is collected by us and Website usage information  collected by us as you interact with our Website. <br>
+  <br>
+  When you register with Kirkal,  you provide us with certain personal information, such as your name, your email  address, your telephone number, your address, your date of birth, your gender,  and any other personal or preference information that you provide to us.<br>
+When you enter Kirkal, we collect  your browser type and IP address. This information is gathered for all Kirkal  visitors. In addition to this, we store certain information from your browser  using "cookies." A cookie is a piece of data stored on the user's  computer tied to information about the user. We use session ID cookies to  confirm that users are logged in. These cookies terminate once the user closes  the browser. By default, the cookie stores your login ID (but not your  password) to make it easier for you to login when you come back to Kirkal. You  can remove or block this cookie using the settings in your browser if you want  to disable this convenience feature.</p><p>&nbsp;</p><p><strong>Use of Information</strong></p><p>Your profile  information, your name, photo will be displayed to people in the networks based  on your selection of privacy setting. We may use your name and email address to  send notification, if someone contacted you in kirkal.</p><p>If you choose to  use our invitation service to invite your friend to kirkal, we may ask you to  provide information such as friend’s email address to send the invitation.  Kirkal will not use this email address for any other communication besides  invitation and invitation reminders.</p><p>&nbsp;</p><p><strong>Children Under Age 16</strong></p><p>Kirkal does not  knowingly collect information from anyone under the age of 16. Kirkal is not  intended for anyone under the age of 16. Anyone under the age of 16 (sixteen)  should not register to use kirkal. </p><p>&nbsp;</p><p><strong>Information Sharing and  Disclosure</strong></p><p>Kirkal does not  rent, share, or sell personal information about you with third party or nonaffiliated  companies except to provide products or services you've requested, when we have  your permission, or as otherwise described in this privacy policy.</p><p>We will disclose  information in response to subpoenas, court orders, or legal process, or to establish  or exercise our legal rights or defend against legal claims. We may disclose  information, if we believe it is necessary to investigate, prevent, or take  action regarding suspected illegal activities or fraud, situations involving  the physical safety of any person, violations of kirkal's terms of use, or as  otherwise required by applicable law.</p><p>&nbsp;</p><p><strong>Changes in our privacy policy</strong></p><p>From time to  time we may make changes to our privacy policy. If we make changes, we will  post them on our site to make users aware of what the changes are, so users  will always be aware of what information we collect, how we use it, and when we  may disclose it. A user is bound by any changes to the policy when she or he  uses the site after those changes have been posted</p><p>If you have any  questions about this privacy statement, the practices of this site, please  contact us at: privacy@kirkal.com</p><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- middle_content -->
+
+
+</table>
+</td></tr></tbody></table>
+<!-- middle_content -->
+
+
+<!-- Middle Text -->
+</div></td></tr>
+<tr>
+<td height="5"><img border="0" src="images/top_divider.gif" width="100%" height="3"></td>
+</tr>
+<tr>
+<td height="31" background="images/nav_back.gif" class="top_nav_back">
+<p align="center">© Copyright 2008, kirkal.com |
+<a href="tos.php" class="top_nav_black">TOS</a> |
+<a href="privacy_policy.php" class="top_nav_black">Privacy Policy</a> |
+<a href="aff_banner_code.php" class="top_nav_black">Promote Our Site</a> |
+<a href="contact_us.php" class="top_nav_black">Contact Us</a> |
+<a href="advertise.php" class="top_nav_black">Advertise with Us</a> |
+<a href="about_us.php" class="top_nav_black">About Us</a>
+</p></td>
+</tr>
+<tr>
+<td height="5"><img border="0" src="images/top_divider.gif" width="100%" height="3"></td>
+</tr>
+<tr>
+<td height="5" class="bottom">
+<p align="right"> Patner site: <a href="http://www.freshersdreams.com">Freshersdreams.com - Freshers jobs site</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page generated in 0.0087 secs</p></td>
+</tr>
+</tbody></table>
+
+
+
+</td></tr></tbody></table></td></tr></tbody></table></div></body></html>
