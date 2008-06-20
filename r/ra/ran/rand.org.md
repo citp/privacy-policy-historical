@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027051726id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620073841id_/http%3A//rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # RAND | About This Site | Privacy Policy
 
@@ -74,6 +74,6 @@ RAND uses non-personally identifiable information and information obtained throu
 **How can you contact us about this web site?**  
 If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-#####  [About this Site](https://web.archive.org/web/20071027051726id_/http%3A//www.rand.org/site_info/index.html)
+#####  [About this Site](https://web.archive.org/web/20080620073841id_/http%3A//rand.org/site_info/index.html)
 
 #####  [About RAND](https://web.archive.org/about/)
