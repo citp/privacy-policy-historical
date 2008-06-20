@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalapornmovies.com privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008101300id_/http%3A//masalapornmovies.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalapornmovies.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620202348id_/http%3A//www.masalapornmovies.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
