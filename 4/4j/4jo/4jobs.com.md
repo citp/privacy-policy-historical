@@ -1,35 +1,27 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221161504id_/http%3A//www.4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620044156id_/http%3A//4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# 4Jobs.com - Part of the Beyond.com Career Network. Search Jobs, Find Companies, Post Your Resume
+# Job Search - Post & Search Resumes - Employment Site - 4Jobs.com
 
 If you have questions or concerns regarding this statement, please contact us. 
 
-Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms. 
 
- Collection and Use of Information  
----  
-Viewing and Updating Your Information  
-Cookies  
-Log Files  
-Links  
-Recommend A Friend or Colleague  
-Security and Access  
-Children  
-Notification of Changes  
-Contact  
   
+
+
 * * *
 
+  
 **Collection and Use of Information**  
 
 
-When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. For example, if you request additional information on other services, such as continuing education or student loan consolidation, we will share your information solely as is necessary to process your request. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
 
 We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
-We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
+We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes.
 
-In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. Beyond.com may post advertisements of third parties on this Site, including promotions of advertisers, members, or sponsors showing their goods and services on this Site. Your correspondence, purchases, participation in, or any other dealings with third parties found on this Site are solely between you and such third party, and such third parties may provide you with other offers or follow up email from this site or other sources. You agree that Beyond.com shall not be responsible for any loss or damage of any sort incurred as a result of any such dealings or as the result of the presence of such third parties on this Site. Moreover, Beyond.com shall not be responsible or liable for the accuracy, quality, suitability, currency or content of the statements or conduct of any third party on this Site. 
+In some cases our software and web site are utilized by our partners in a business alliance via their web community. In these cases, the information collected on our site is available to both companies. Our partners are not allowed to sell, license or otherwise disclose this information to any third-party.
 
  
 
@@ -39,7 +31,7 @@ Back to top
 
 **Viewing and Updating Your Information on the Network**
 
-You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime.
+You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime. 
 
 Back to top
 
@@ -47,9 +39,9 @@ Back to top
 
 **Cookies**
 
-In general, we have limited use of cookies.  As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. 
+In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. 
 
-Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
+Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers. 
 
 Back to top
 
@@ -65,7 +57,7 @@ Back to top
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
 Back to top
 
@@ -83,9 +75,11 @@ Back to top
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
 
-When you place an order online at Beyond.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
+When you place an order online at Beyond.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions. 
 
-Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
+Users should not post personal information to any site if they are uncomfortable with the security of the site. If you have any questions, please contact us. 
+
+Back to top
 
 * * *
 
@@ -99,16 +93,12 @@ Back to top
 
 **Notification of Changes**  
 
-If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. 
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. 
 
 Back to top
 
 * * *
 
-**Contact**
-
-If you have questions concerning your account or this privacy policy, please contact us. 
-
-Back to top
+Rev. Jan 2008
 
 * * *
