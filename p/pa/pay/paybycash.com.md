@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214114917id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620061454id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
 # PayByCash™
 
-[Last updated on September 22, 2006]
+[Last updated on January 21, 2008]
 
 [](http://www.truste.org/ivalidate.php?url=www.paybycash.com&sealid=101)
 
@@ -42,7 +42,7 @@ In order to register for our service, to use an alternate (non-credit card) paym
 We request information from the user on our order form. A user must provide contact information (such as name, email, and home address) and financial information (such as checking account information) if they wish to make their payments to us using electronic check processing (Virtual Check). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
 
 **Information Use**  
-The information provided to us by the user is used only to secure that user's account on the content provider's (e.g., subscription online game) site that user is using PayByCash™ to subscribe to. The information is used only to ensure we can collect payment from the customer, and to contact the customer in the event there is a problem with their account, or to respond to customer inquiries. 
+The information provided to us by the user is used only to secure that user's account on the merchant's site that user is using PayByCash® to purchase goods or services. The information is used only to ensure we can collect payment from the customer, and to contact the customer in the event there is a problem with their account, or to respond to customer inquiries. 
 
 **Cookies**  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. PayByCash.com uses cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
@@ -78,10 +78,10 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Internet Payment Solutions, Inc., does not share Web site usage information about users with any third party for the purpose of targeting our Internet banner advertisements on this site and other sites.   
 These are the instances in which we will share users’ personal information:
 
-We share users personal information only with the business partner whose content the user is subscribing to by using Internet Payment Solutions, Inc, us as their alternate payment option. This information may consist of email address, name, address, or phone number. This is all information that the user has already agreed to provide to that business partner as part of that business partner's subscription registration process or the Terms of Service that governs the user's use of that business partner's service. 
+We share users' personal information only with the business partner whose products or content the user is purchasing by using Internet Payment Solutions, Inc, us as their alternate payment option. This information may consist of email address, name, address, or phone number. This is all information that the user has already agreed to provide to that business partner as part of that business partner's subscription registration process or the Terms of Service that governs the user's use of that business partner's service. 
 
 **Service Providers**  
-We partner with other third parties to provide specific services (For example, access to the subscription online game, "Dark Age of Camelot," or "World War II Online") When the user signs up for one of these particular services, we share names, or other contact information like email address, name, address, and phone number, as well as other accounts that user has on that particular third party's service, that is necessary for the third party to provide these services. These third parties' use of that personally identifiable information is subject to their own privacy policies. 
+We partner with other third parties to provide specific products or services. When the user signs up for one of these particular services, we share names, or other contact information like email address, name, address, and phone number, as well as other accounts that user has on that particular third party's service, that is necessary for the third party to provide these services. These third parties' use of that personally identifiable information is subject to their own privacy policies. 
 
 **Business Transitions**  
 In the event Internet Payment Solutions, Inc., goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
@@ -110,7 +110,8 @@ To determine if users have provided valid bank account information and have fund
 If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct or update users’ personally identifiable information. This can be done by [emailing our Customer Service](https://web.archive.org/service/contact.php)
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.   
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. 
 
 **Contact Information**  
@@ -122,9 +123,8 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 **Postal Address:**  
 Internet Payment Solutions, Inc.  
-AStec Center   
 2020 Avon Court, Suite 25  
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20071214114917id_/http%3A//www.paybycash.com/company/contact_us.php)
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20080620061454id_/http%3A//www.paybycash.com/company/contact_us.php)
