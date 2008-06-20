@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231172006id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620164122id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -62,7 +62,7 @@ For information on GE Money Bank's key credit terms of the Dillard's Personal Cr
 
 ### Shipping Policy
 
-Items ordered through Dillards.com are shipped UPS, Fed Ex, or USPS. A street address is required for delivery. Merchandise will be delivered standard ground transportation, which takes 7-10 business days. You may request express delivery, which takes 2-3 business days, for an additional charge. Processing time for in stock items is approximately 2 business days. _Delivery times do not include processing time._
+Items ordered through Dillards.com are shipped UPS, Fed Ex, or USPS. A street address is required for delivery. Merchandise will be delivered standard ground transportation, which takes 7-10 business days. You may request express delivery, which takes 2-3 business days, for an additional charge. Processing time for in stock items is approximately 2 business days. Business days are Monday through Friday, excluding holidays. _Delivery times do not include processing time._
 
 At this time Dillard's only ships merchandise to the U.S.. Additional charges will be applied to merchandise shipped to Alaska and Hawaii. 
 
