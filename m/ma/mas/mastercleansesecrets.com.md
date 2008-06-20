@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mastercleansesecrets.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011165157id_/http%3A//mastercleansesecrets.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercleansesecrets.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620035251id_/http%3A//mastercleansesecrets.com/docs/privacy.php) for the most accurate reproduction.*
 
 # privacy
 
-[Home](https://web.archive.org/web/20071011165157id_/http%3A//mastercleansesecrets.com/index.php) |[ Master Cleanse Information](https://web.archive.org/web/20071011165157id_/http%3A//mastercleansesecrets.com/mastercleanse-history.php) | [About Me](https://web.archive.org/web/20071011165157id_/http%3A//mastercleansesecrets.com/aboutme.php) | [Blog](http://mastercleansesecrets.com/blog)
+[Home](https://web.archive.org/web/20080620035251id_/http%3A//mastercleansesecrets.com/index.php) |[ Master Cleanse Information](https://web.archive.org/web/20080620035251id_/http%3A//mastercleansesecrets.com/mastercleanse-history.php) | [About Me](https://web.archive.org/web/20080620035251id_/http%3A//mastercleansesecrets.com/aboutme.php) | [Blog](http://mastercleansesecrets.com/blog)
 
-[](https://web.archive.org/web/20071011165157id_/http%3A//mastercleansesecrets.com/index.php)
+[](https://web.archive.org/web/20080620035251id_/http%3A//mastercleansesecrets.com/index.php)
 
 **www.mastercleansesecrets.com Website Privacy Statement**
 
