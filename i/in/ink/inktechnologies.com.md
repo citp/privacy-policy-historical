@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513214329id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620212102id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
 
 # InkTechnologies.com - Privacy Statement
 
@@ -18,4 +18,4 @@ Ink Technologies takes all appropriate and reasonable steps to protect all infor
 
 ### Commitment
 
-Ink Technologies is committed to the principles of individual privacy and online security. Please [ contact us](mailto:inktechnologies-orders@ucrnet.com) with any questions or comments regarding these policies.
+Ink Technologies is committed to the principles of individual privacy and online security. Please [ contact us](https://web.archive.org/web/20080620212102id_/http%3A//www.inktechnologies.com/contact.asp) with any questions or comments regarding these policies.
