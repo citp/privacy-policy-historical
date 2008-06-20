@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blisspublisher.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231130851id_/http%3A//blisspublisher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisspublisher.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620115307id_/http%3A//blisspublisher.com/privacy.php) for the most accurate reproduction.*
 
 # BlissPublisher - Free Article Directory
 
