@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026073701id_/http%3A//www.scenedaily.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621011643id_/http%3A//www.scenedaily.com/privacy_policy) for the most accurate reproduction.*
 
-# About Us: Bios
+# Privacy Policy | SceneDaily.com - NASCAR News
 
-  
-| 
+PRIVACY POLICYThe SceneDaily.com web site is maintained by Street & Smith's Sports Group, Inc., 120 West Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at bsnyder@scenedaily.com. 
 
-Covering NASCAR Nextel Cup, Busch and Craftsman Truck Series
-
-|   
----|---  
-  
-  
-  
-
-
-### Privacy Policy
-
-The SceneDaily.com web site is maintained by Street & Smith's Sports Group, 120 West Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at [rfisher@amcity.com](mailto:rfisher@amcity.com). 
-
-How Street & Smith's Sports Group uses information provided by you: This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information may be used by Street & Smith's Sports Group for editorial purposes. Street & Smith's Sports Group may also use such information for marketing and promotional purposes and may share the information with companies that it has pre-screened. Individuals may request that their information not be used for commercial purposes by contacting Street & Smith's Sports Group. 
+**How Street & Smith's Sports Group uses information provided by you:**  This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information may be used by Street & Smith's Sports Group for editorial purposes. Street & Smith's Sports Group may also use such information for marketing and promotional purposes and may share the information with companies that it has pre-screened. Individuals may request that their information not be used for commercial purposes by contacting Street & Smith's Sports Group. 
 
 A user's personally identifying information will not be transferred to any other party unless otherwise stated at the time of collection. While Street & Smith's Sports Group will seek to require third parties with whom it has agreements to follow appropriate privacy policies, Street & Smith's Sports Group does not bear any responsibility for any actions or policies of such third parties. 
 
@@ -33,5 +19,3 @@ Kids: Be sure to ask your parents for permission before you send any information
 Parents: We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by Street & Smith's Sports Group from children (that we are aware are children) will only be used for Street & Smith's Sports Group's internal purposes such as market research and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to our advertisers for statistical purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, email address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
 Cookies placed by Street & Smith's Sports Group for use throughout Street & Smith's Sports Group' web site will not be used to collect information in areas within Street & Smith's Sports Group that are geared to children. If you have any concerns, do not hesitate to contact us at the above email address. 
-
-[ ](https://web.archive.org/infield-parking.html) Expand your NASCAR social network with our preferred partner. 
