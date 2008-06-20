@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the bizrate.com privacy policy that was archived on 2007-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071031174155id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizrate.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620075114id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>	Shop at BizRate: Compare Prices, Reviews and Stores Online	</title>
-	
 	<link href="http://file.bizrate.com/css/site/nav.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.com/css/site/features.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.com/css/l_exp.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.com/css/about.css" rel="stylesheet" type="text/css">
+	<link href="http://file.bizrate.com/css/header_bizrate.css" rel="stylesheet" type="text/css">
 	
 	
 		<link rel="stylesheet" href="http://file.bizrate.com/br/us/css/sitewide_fonts.css" type="text/css">
@@ -35,9 +35,9 @@
 
 <script language="JavaScript" src="http://file.bizrate.com/yui/dragdrop/dragdrop-min.js" type="text/javascript"></script>
 <!-- Shopzilla autocomplete customizations -->
-<script type="text/javascript" src="http://file.bizrate.com/br/common/scripts/autocomplete.js"></script>	
+<script type="text/javascript" src="http://file.bizrate.com/static_29893/br/common/scripts/autocomplete.js"></script>	
 
-<script language="JavaScript" src="http://file.bizrate.com/br/common/scripts/bizrate.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.com/static_29893/br/common/scripts/bizrate.js" type="text/javascript"></script>
 <script language="JavaScript1.1" type="text/javascript">
 
 	myTemplate = function() {
@@ -52,7 +52,7 @@
 					token:'47',
 					focusElementId:'searchTerm',
 					DLDESC:'BizRate - Home',
-					DLURL:'/content/privacy__rf--bmk.html',
+					DLURL:'/content/privacy.html',
 					local_message:'Bookmark this page by pressing %keystroke%',
 					currentKeyword:'',
 					focusActive:false,
@@ -75,19 +75,21 @@
 
 				
 myNetPromoterPopupConfigs = {
-	SurveyURL:'http://survey.ccsurvey.com/shpz0701a/survey.pl?brand=BizRate&logo=BizRate_US.gif&custid=&marker=',
+	SurveyURL:'http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=BizRate&logo=BizRate_US.gif&custid=0&marker=',
 	PrivacyPolicyURL:'/content/privacy.html',
 	CookieName:'net_promoter',
 	CookiePath:'/',
-	CookieExpires:new Date ( 2007, 09, 01 ),
+	CookieExpires:new Date ( 2008, 5, 09 ),
 	CookieDomain:'.bizrate.com',
-	PopUpWidth:445,
-	PopUpHeight:430,
-	activatePopUp:false
+	PopUpWidth:800,
+	PopUpHeight:600,
+	activatePopUp:false,
+	SessionCookieName:'net_promoter_pop_once'
 };
 
 				myNetPromoterPopup = new BIZRATE.widget.NetPromoterPopup(myNetPromoterPopupConfigs);
 				myNetPromoterPopup.init();
+				
 				myProductDetailsPodConfigs = {
 					enabled:false,
 					myStaringTabIndex:0,
@@ -111,33 +113,37 @@ productDhtmlLayer.init = function () {
         var arraySearchResultsLinks = objSearchResults.getElementsByTagName('span');
         var arrayLinksOpenList = new Array();
         for (i = 0; i < arraySearchResultsLinks.length; i++) {
-            if (arraySearchResultsLinks[i].className == "popup") {
+            if (arraySearchResultsLinks[i].className == "more_like_this_popup") {
                 var openLink = arraySearchResultsLinks[i].getElementsByTagName('a')[0];
                 var divPopup = arraySearchResultsLinks[i].getElementsByTagName('div')[0];
+                
+                
                 openLink.divPopup = divPopup;
 				this.popups.push(divPopup);
+                
                 closeLink = divPopup.getElementsByTagName('a')[0];
+    			
     			var attributes_in = {
         			width: {to: 0},
         			height: {to: 0},
         			opacity: { to: 0 }
     			};
     			var attributes_out = {
-        			width: {to: 200},
+        			width: {to: 301},
         			height: {to: productDhtmlLayer.heightCalc( divPopup ) },
         			opacity: { to: 100 }
     			};
                  
                 openLink.anim = new YAHOO.util.Anim(divPopup, attributes_out, 0.3, YAHOO.util.Easing.backOut);
-                openLink.onclick = function () {
-                    productDhtmlLayer.closeAll();
+				openLink.onclick = function () {
+					productDhtmlLayer.closeAll();
 					this.divPopup.style.visibility = 'visible';
-                    this.divPopup.style.display = 'block';
-                    this.divPopup.style.overflow = 'visible';
-                    this.divPopup.style.position = 'absolute';
-                    this.divPopup.style.left = this.style.left;
-                    this.divPopup.style.top = this.style.bottom;
-                    this.anim.animate();
+					this.divPopup.style.display = 'block';
+					this.divPopup.style.overflow = 'visible';
+					this.divPopup.style.position = 'absolute';
+					this.divPopup.style.left = this.style.left;
+					this.divPopup.style.top = this.style.bottom;
+					this.anim.animate();
 					this.divPopup.style.background = 'white';
 					return false;
                 }
@@ -146,7 +152,7 @@ productDhtmlLayer.init = function () {
                 closeLink.anim = new YAHOO.util.Anim(divPopup, attributes_in, 0.3, YAHOO.util.Easing.backOut);
                 closeLink.onclick = function () {
                     this.anim.animate();
-                    //this.divPopup.style.overflow = 'hidden';
+                    this.divPopup.style.overflow = 'hidden';
 					return false;
                 }
             }
@@ -178,76 +184,189 @@ productDhtmlLayer.closeAll = function() {
 
 </head>
 <body class="tkn47" onload="myTemplate.init();">
+
 	<div id="overlay"></div>
 	
 	
 	<div class="content">
 		<div id="header">
-			<div style="border-bottom: 1px solid #ccc; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;">
-				<table cellpadding="0" cellspacing="0" border="0" width="954">
-					<tbody><tr>
-					<td valign="top" width="150" rowspan="2">
-<div id="siteLogo"><a href="/"><img src="http://img.bizrate.com/br/us/images/logos/1000312.gif" border="0" alt="BizRate" title="BizRate" vspace="0"></a></div>
-</td>
-						<td colspan="4" align="right" "="">
-							<ul id="header_links">
-								
-									<li><a href="/myaccount/index.html" rel="nofollow">Your account</a></li>
-									<li> | <a href="http://em.bizrate.com/Apps/DCS/mcp?q=ST5G1LTI9pSwMg">Sign up for our newsletter!</a></li>
-								
-								
-							</ul>
-						</td>
-					</tr>
-					<tr>
-						<td valign="bottom" width="210" style="padding: 0px 0px 5px 0px;" align="center">
-						<form name="sf" id="searchForm" method="get" action="http://www.bizrate.com/buy/superfind.xpml" _base_target="_top"><input name="search_box" value="1" _base_target="_top" type="hidden"><input name="cat_id" value="1" type="hidden"><input name="sfsk" value="0" _base_target="_top" type="hidden"><input id="searchTerm" name="keyword" value="" maxlength="256" size="25" style="font-size: 12px; width: 130px;" _base_target="_top" type="text">&nbsp;&nbsp;<input id="searchButton" name="SEARCH_GO" value="GO" _base_target="_top" type="submit"></form></td><td>
-						</td><td valign="bottom">
-<div id="tabs2">
-	<table border="0" cellpadding="0" cellspacing="0">
+			
+			
+			<div id="header_bar">
+				<a href="/" class="logo_link">&nbsp;</a>
+				<div class="search_box_container">
+					<form name="sf" id="searchForm" method="get" action="http://www.bizrate.com/buy/superfind.xpml" _base_target="_top">
+						<div class="search_input">
+							<input name="search_box" value="1" _base_target="_top" type="hidden">
+							<input name="cat_id" value="1" type="hidden">
+							<input name="sfsk" value="0" _base_target="_top" type="hidden">
+							<input id="searchTerm" name="keyword" value="" maxlength="256" size="25" style="font-size:20px;width:306px;" _base_target="_top" type="text">&nbsp;&nbsp;
+						</div>
+						<div class="search_button">
+							<input id="searchButton" type="image" src="http://img.bizrate.com/br/us/images/header/search_go_button.gif" name="SEARCH_GO" value="GO" _base_target="_top">
+						</div>
+					</form>
+				</div>
+				<div class="header_links_container">
+					<ul id="header_links">
+						
+							<li><a href="/myaccount/index.html" rel="nofollow">Your account</a></li>
+							<li> | <a href="http://em.bizrate.com/Apps/DCS/mcp?q=ST5G1LTI9pSwMg">Sign up for our newsletter!</a></li>
+						
+						
+					</ul>		
+				</div>
+				
+
+<div id="header_tab_container">
+    <table border="0" cellpadding="0" cellspacing="0" style="height:21px;">
+        <tbody><tr>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/tab_curve_left.gif" width="8" height="21"></td>	
+            <td class="current_tab"><a href="/">Home</a></td>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/tab_curve_right.gif" width="8" height="21"></td>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/alldept_curve_left.gif" width="8" height="21"></td>	
+            <td>
+                <div class="allDepartmentsContainer">  
+                    <div class="allDepartmentsController01">
+                        <div class="allDepartmentsBttnController02" onclick="allDepartsSlide();">
+                            <table width="100%" height="21" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                    <td align="center" valign="middle" class="all_dept_tab">
+                                    	All Departments
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>                    
+                    
+
+<div id="AllDepartmentsSlider" class="allDepartmentsLayer">
+	<iframe id="iframeCoverup" frameborder="0" scrolling="no"></iframe>
+	<table width="100%" height="100%">
 		<tbody><tr>
-			
+			<td valign="top" style="padding:3px;">
+				<div class="closeBox_prop"></div>
+				<ul id="closeBox" onclick="allDepartsSlide();">
+					<li><img src="http://img.bizrate.com/br/us/images/header/close_box.gif" width="12" height="12" border="0"></li>
+				</ul>
 				
-				<td id="a0"><div id="a0" class="tab"><a href="/computers_software/">Computers</a></div></td>
-			
+				<ul id="allDepartmentList1">
+					<li><a href="/appliances/" rel="nofollow" title="Appliances">Appliances</a> </li>
+					<li><a href="/automotive/" rel="nofollow" title="Automotive">Automotive</a> </li>
+					<li><a href="/babies_kids/" rel="nofollow" title="Babies &amp; Kids">Babies &amp; Kids</a> </li>
+					<li><a href="/books_magazines/" rel="nofollow" title="Books &amp; Magazines">Books &amp; Magazines</a> </li>
+					<li><a href="/clothing_accessories/" title="Clothing &amp; Accessories">Clothing &amp; Accessories</a> </li>
+					<li><a href="/computers_software/" title="Computers &amp; Software">Computer &amp; Software</a> </li>
+					<li><a href="/dvds_videos/" rel="nofollow" title="DVDs &amp; Video">DVDs &amp; Videos</a> </li>
+				</ul>
+
+				<ul id="allDepartmentList2">
+					<li><a href="/electronics/" title="Electronics">Electronics</a> </li>
+					<li><a href="/giftsflowers_food/" rel="nofollow" title="Gifts, Flowers &amp; Food">Gifts, Flowers &amp; Food</a> </li>
+					<li><a href="/health_beautysupplies/" rel="nofollow" title="Health &amp; Bueaty">Health &amp; Beauty</a> </li>
+					<li><a href="/home_garden/" title="Home &amp; Garden">Home &amp; Garden</a> </li>
+					<li><a href="/jewelry_watches/" rel="nofollow" title="Jewelry &amp; Watches">Jewelry &amp; Watches</a> </li>
+					<li><a href="/music/" rel="nofollow" title="Music">Music</a> </li>
+					<li><a href="/musicalinstruments_accessories/" rel="nofollow" title="Musical Instruments">Musical Instruments</a> </li>
+				</ul>
 				
-				<td id=""><div id="" class="tab"><a href="/clothing_accessories/">Clothes</a></div></td>
-			
-				
-				<td id="halloween"><div id="halloween" class="tab"><a href="/costumes-accessories/">Costumes</a></div></td>
-			
-				
-				<td id=""><div id="" class="tab"><a href="/home_garden/">Home</a></div></td>
-			
-				
-				<td id=""><div id="" class="tab"><a href="/toys_games/">Toys</a></div></td>
-			
-				
-				<td id=""><div id="" class="tab"><a href="/electronics/">Electronics</a></div></td>
-			
-				
-            <td class="j">
-            	<div id="j">
-            		<a href="/categoryguide.html"><img src="http://img.bizrate.com/site/arrow_right_9x10.gif" width="9" height="10" alt="" border="0" valign="absmiddle" style="margin-right:2px;">All</a>
+				<ul id="allDepartmentList3">
+					<li><a href="/officesupplies/" rel="nofollow" title="Office Supplies">Office Supplies</a> </li>
+					<li><a href="/petsupplies/" rel="nofollow" title="Pet Supplies">Pet Supplies</a> </li>
+					<li><a href="/sportsequipment_outdoorgear/" rel="nofollow" title="Sporting Goods">Sporting Goods</a> </li>
+					<li><a href="/toys_games/" title="Toys &amp; Games">Toys &amp; Games</a> </li>
+					<li><a href="/videogames1/" rel="nofollow" title="Video Games">Video Games</a> </li>
+					
+					<li class="allDepartmentsLink"><a href="/categoryguide.html" title="All Departments">See all departments</a> </li>
+				</ul>
+			</td>
+		</tr>
+	</tbody></table>   
+</div>
             	</div>
             </td>
-		</tr>
-	</tbody></table>
-</div></td>
-	
-					</tr>
-				</tbody></table>
-				
-			</div>
+            <td><img src="http://img.bizrate.com/br/common/images/tabs/alldept_curve_right.gif" width="8" height="21"></td>
+        </tr>
+    </tbody></table>
+</div>
+                
 
+
+<style>
+/* Styles from global.css that will need to be updated after test */
+#header_bar {
+	width:956px;
+	height:69px;
+	background:url(http://img.bizrate.com/br/us/images/header/header_bar_bg_new.jpg) no-repeat;
+	position:relative;
+	padding:0px 0px 0px 0px;
+	margin:0px auto 0px auto;
+	z-index:10000;
+}
+#header_tab_container {
+	border-color:#bbb;
+	border-bottom:1px thin #ABA9D0;
+	text-align:left;
+	position:absolute;
+	bottom:4px;
+	right:9px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 20px 0px;
+	height:21px;
+}
+/* ---------------------------------- */
+
+
+/* Styles for Header L1 Categories */
+#header_L1_Categories {
+	position:relative;
+}
+#header_L1_Categories ul {
+	margin:0px 0px 0px 0px;
+	padding: 3px 0px 0px 0px;
+}
+#header_L1_Categories ul li {
+	border-right:1px solid #B0AED3;
+	float:left;
+	line-height: 13px;
+	list-style: none;
+	margin: 47px 0px 0px 0px;
+	padding: 0px 11px 0px 11px;
+}
+#header_L1_Categories ul li a { 
+	color:#FFF;
+	font:Arial;
+	font-size:11px;	
+	text-decoration: none; 
+}
+#header_L1_Categories ul li.noBorder {
+	border:none;
+}
+
+/* ---------------------------------- */
+</style>
+   
+<div id="header_L1_Categories">
+    <ul>
+        <li><a href="/digitalcameras/">Digital Cameras</a></li> 
+        <li><a href="/home_garden/">Home &amp; Garden</a></li>
+        <li><a href="/clothing_accessories/">Clothing &amp; Accessories</a></li>
+        <li><a href="/computers_software/">Computer Hardware</a></li>
+        <li><a href="/mp3_mediaplayers/">MP3 Players</a></li>
+        <li><a href="/womensshoes/">Women's Shoes</a></li>
+        <li><a href="/furniture/">Furniture</a></li>
+        <li><a href="/laptopcomputers/">Laptop Computers</a></li>
+        <li class="noBorder"><a href="/jewelry_watches/">Jewelry &amp; Watches</a></li>
+    </ul>
+</div>                
+			</div>
+            
 			
 				
 					
 				
 	
 				
-
-
 	
 				
 					<table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -415,7 +534,10 @@ use certain features on our Web site.
 We work with third parties, including advertising companies and website analysis firms, who use cookies and
 clear gifs to collect non-personally identifiable information when you visit our Web site and other sites. This
 information may be used to provide you with better shopping or savings opportunities through advertisements on
-this and other Web sites that you visit, or to conduct market research and website analysis. 
+this and other Web sites that you visit, or to conduct market research and website analysis. In addition, these 
+third party advertising companies may use web beacons to help manage and optimize our online advertising.  Web 
+beacons enable us to recognize a browsers cookie, and to learn which banner ads bring users to our web site.  
+To opt out of this third party advertising tracking, please <a href="http://www.networkadvertising.org/consumer/opt_out.asp">click here.</a>
 <br><br>
 
 <strong>DOES SHOPZILLA SHARE THE INFORMATION IT GATHERS?</strong><br>
@@ -478,7 +600,7 @@ the rights, property, or security of Shopzilla, our users, or others.
 Other than as described above, with your consent at the time you submit information to us, we may also share your
 information with participating merchants where you have shopped from time to time or their agents or other
 specified parties. Once we share information with your consent with a merchant or other party, the use and
-protection of that information by the merchant or other party will be subject to the privacy policies of that
+protection of that information by the merchant or other party will be subject to the privacy policies or terms of use of that
 party. You may opt-out of such sharing of your information by declining to provide it or by sending a subsequent
 opt-out request to us by
 <a href="/content/contact_us__subject--privacy_policy.html">clicking here</a>
@@ -489,7 +611,7 @@ or by mail at the address below; however, opting-out may limit our ability to pr
 Online merchants and others who participate in our Web site and other Services are encouraged to participate in
 industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do
 not have direct control over the policies or practices of participating merchants and other third parties, we
-cannot be responsible for their actions. We recommend that you always review the privacy policies of merchants
+cannot be responsible for their actions. We recommend that you always review the privacy policies and terms of use of merchants
 and other third parties before you provide any personal information or complete any transaction with such parties. 
 <br><br>
 
@@ -498,7 +620,7 @@ In certain areas or features on our Web site or other Services, we may work with
 of specialized information or other content and services to provide you with some information or service ("joint
 services"). You authorize us to share with such party any information you provide in connection with your use of
 those joint services, and such party's handling and use of any shared information shall be governed by their own
-privacy policies. You may opt-out of such sharing of your information by declining to provide it or by sending a
+privacy policies and terms of use. You may opt-out of such sharing of your information by declining to provide it or by sending a
 subsequent opt-out request to us by
 <a href="/content/contact_us__subject--privacy_policy.html">click here</a>
 or by mail at the address below; however, opting-out may limit our ability to provide you with a specific service.
@@ -570,10 +692,11 @@ you do not wish your information to be subject to the proposed changes to this P
 check for recent changes on our Web site whenever you visit our Web site or use our other Services.
 <br><br>
 
-<strong>Effective Date: Privacy Policy last modified  October 30, 2006.</strong>
+<strong>Effective Date: Privacy Policy last modified  October 10, 2007.</strong>
 <br><br>
 
-<strong>© 2006 Shopzilla, Inc.</strong>
+<strong>© 2007 Shopzilla, Inc.</strong>
+
 
 			</td>
 		</tr>
@@ -581,77 +704,6 @@ check for recent changes on our Web site whenever you visit our Web site or use 
 </div>
 
 <br>
-
-
-<script language="JavaScript">
-var _s_account = "shopzillabizratecom"; 
-var _link_internal_filters = "javascript:," + 'bizrate';
-
-var _cookie_domain_periods = '2';
-
-
-
-var _mtrcs_hostname = "bizrate.com";
-var _my_timestamp = "1193852515000";
-
-
-</script>
-
-
-
-
-
-<script language="JavaScript" src="http://file.bizrate.com/scripts/s_code.js"></script> 
-
-
-<script language="JavaScript">
-
-s.pageName = "47 : About, Privacy";  
-
-
-
-s.prop1    = "";
-s.prop2    = "81" + ' ' + s.pageName;
-s.prop3    = "US";  
-s.prop4    = "BR"; 
-s.prop6    = "bizrate"; 
-s.prop7    = "1"; 
-s.prop8    = "dit200"; 
-s.prop10   = "11938496118672500025200020101027296"; 
-
-s.prop11   = ""; 
-
-s.prop12   = "81"; 
-s.prop14   = "102911171602630381" ; 
-s.prop17   = "dit200"; 
-
-s.prop18   = "5"; 
-
-
-
-
-
-
-
-
-
-/* E-commerce Variables */
-
-
-s.campaign = "dit200"; 
-
-
-
-s.eVar8 = "US"; 
-s.eVar12 = "dit200"; 
-s.eVar16 = "bizrate"; 
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst code version: H.2. -->
-
-
 
 	</div>
 		<div id="footer">
@@ -752,10 +804,21 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" i
                 
 			</div>
 			
+            
+            
+            
+            
+				<div id="net_promoter_invite"><a href="http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=BizRate&amp;logo=BizRate_US.gif&amp;custid=0&amp;marker=" target="_new" onclick="myNetPromoterPopup.createCookie('took_survey');">Take our survey and win an iPod</a></div>
+			
+            
+            
+            
+            
+            
 			
             <div><a style="color: #000; text-decoration: none;" href="/">Thank you for shopping online at BizRate</a></div>
 			
-            <div>© 2007 Shopzilla, Inc.
+            <div>© 2008 Shopzilla, Inc.
                 
                     Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.
                 
@@ -777,7 +840,7 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" i
 <a href="/color_bumper.xpml"><img src="http://img.bizrate.com/site/trans.gif" width="10" height="10" border="0" alt=""></a>
 
 <!-- TKN#47 -->
-<!-- APPSERVER: dante009.sl1.shopzilla.hou -->
+<!-- APPSERVER: dante107.shopzilla.lax -->
 
 
 
