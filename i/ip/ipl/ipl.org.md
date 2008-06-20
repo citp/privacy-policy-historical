@@ -1,22 +1,32 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622071625id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620100413id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
 
 # Internet Public Library: About the IPL
 
-The Internet Public Library has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.ipl.org. 
+_Benefits of the IPL:_ Using the IPL collections benefits you by providing links to more than 45,000 evaluated information resources on hundreds of topics. The IPL contains vetted information and strives to be a safe site. Electing to seek help from the IPL’s "Ask a Question" service benefits you from the research provided to you by a mentored student or volunteer. Client identities are never shared and you can participate anonymously. 
 
-We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address may also be used to gather broad demographic information about our users. Please see our [Server Access Log Policy](https://web.archive.org/web/20030622071625id_/http%3A//www.ipl.org/div/about/circpol.html) for more details. 
+_Risks in using the IPL:_ Some people may find information in the IPL that does not fit their personal values for information that they would prefer not to know. Please see our Statement of Principles. This site contains links to other sites; the Internet Public Library is not responsible for the privacy policies or content of such web sites. 
 
-This site contains links to other sites. The Internet Public Library is not responsible for the privacy policies or content of such web sites. 
+Please also note that some questions submitted to the IPL may be rejected because they are out of scope (medical, legal) or above the daily quota (no volunteer staff available). 
 
-Our reference question forms ask visitors for contact information (like their e-mail address) and demographic information (like age range and profession). The visitors' contact information is used to contact visitors when necessary, such as to respond to reference questions or other comments you send to our site. We may also forward your question (including your contact information) to an [IPL partner](https://web.archive.org/div/askus/index.html#partner) when we lack the resources to answer it ourself. This site is experimental, which means it is used for research purposes in addition to providing a service for visitors. Any reference question you submit may be used for educational or research purposes, as well as for demonstrations of our question management system. Your name and identifying information including your e-mail address will be removed before being used for research and will not be supplied to any outside parties. If you DO NOT want your question included in our database, please do not submit a question. If you have previously submitted a question and would like it removed from consideration for research purposes, please [contact the IPL](https://web.archive.org/div/contact/)
+_Further information:_ We use your IP address to diagnose problems with our server and to administer our web site. Your IP address may also be used to gather broad demographic information about our users. 
 
-Our on-line surveys are anonymous and are used to improve our site and better serve our patrons. Demographic information is collected, but we do not ask for any personally identifying information. 
+Our reference question forms ask visitors for an e-mail address and demographic information (age range for children so we can respond with appropriate materials and some selected professions for adults). We use the e-mail address to respond to reference questions or other comments you send to our site. We may also forward your question (including your contact information) to an IPL partner when we lack the resources to answer it. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
+This site is experimental, which means it is used for research purposes in addition to providing a service for visitors. Any reference question you submit may be used for educational or research purposes as well as for demonstrations of our question management system. You will not be identified in the research because your name and identifying information, including your e-mail address, will be removed before being used for research and will not be supplied to any outside parties. If you DO NOT want your question included in our database, please do not submit a question. If you have previously submitted a question and would like it removed from consideration for research purposes, please contact the IPL. 
 
-[Sue Davidsen](https://web.archive.org/div/contact/)  
-Managing Director, Internet Public Library   
-University of Michigan School of Information   
-550 E. University   
-Ann Arbor, MI 48109  
+When you pose a question, you agree to the following: I understand that the questions I pose and the answers I receive may be used for research by schools of information studies. I also know that I may decide not to pose a question if I do not want to. If I have questions, I can ask some one at the Institutional Review Board or Dr. Eileen G. Abels. I can stop at any time.
 
+If you have any questions about the conditions of use of the IPL, please contact:
+
+[Institutional Review Board](mailto:orca@drexel.edu)  
+Drexel University College of Medicine  
+Office of Research  
+245 N 15th St. Ms 444  
+Philadelphia, PA 19102-1101
+
+If you have questions about the services provided by the Internet Public Library, please contact: 
+
+[Dr. Eileen G. Abels](mailto:eileen.abels@ischool.drexel.edu) or [Denise Agosto](mailto:denise.agosto@ischool.drexel.edu)  
+College of Information Science and Technology  
+Drexel University  
+3141 Chestnut Street Philadelphia, PA 19104-2875
