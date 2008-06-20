@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallvideosoft.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024143229id_/http%3A//www.smallvideosoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallvideosoft.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620125650id_/http%3A//www.smallvideosoft.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Smallvideosoft.
 
