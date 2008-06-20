@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222214617id_/http%3A//www.toys.ie/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620150913id_/http%3A//www.toys.ie/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Top Online Toy Store in Ireland, Games & Toys Online from Smyths Superstores
+# Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
 **Privacy & Security Policy**  
 This privacy statement is provided by Smyths Toys and its subsidiaries (referred to as 'us', 'our', or 'we' in the statement) for the information of visitors (referred to as 'you' or 'your' in the statement) to our website. 
