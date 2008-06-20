@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223090745id_/http%3A//www.westminster.gov.uk/tools/website/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620185723id_/http%3A//www.westminster.gov.uk/tools/website/privacy.cfm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
