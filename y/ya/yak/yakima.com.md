@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192543id_/http%3A//www.yakima.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620130224id_/http%3A//www.yakima.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Yakima - Copyright and Privacy Notice
+# Yakima Privacy Notice
 
 COPYRIGHT AND PRIVACY NOTICE
 
 **COPYRIGHT AND TRADEMARK**  
-© 2007 Yakima Products, Inc.  
+© 2008 Yakima Products, Inc.  
 All rights reserved
 
 Yakima, Mighty Mounts, SKS, and Rack Dawg are registered trademarks of Yakima Products, Inc.
