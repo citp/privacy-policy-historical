@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylinonline.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205103619id_/http%3A//stylinonline.stores.yahoo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylinonline.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620032110id_/http%3A//www.stylinonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
