@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229060305id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620052855id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Checks Unlimited: Personal Checks and Business Checks
+# Checks Unlimited Offers Personal Checks and Business Checks Online.
 
 This policy is effective October 23, 2007 and applies to all consumer identifiable information that consumers provide to Checks Unlimited. Checks Unlimited deals only with US banking documents so the website is limited to US residents only.
 
