@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the predictify.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictify.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/privacy.aspx) for the most accurate reproduction.*
 
 # Predictify, Inc. - Tap Into Collective Wisdom, Make Money by Predicting Future Events
 
-Predictify is committed to honoring the privacy of our users. Our privacy philosophy is based on a single core principle: we will not collect, use, or share any personally identifiable information about you without your knowledge. The following document outlines our privacy policy, which is incorporated by reference into our [Terms of Use](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/termsofuse.aspx).
+Predictify is committed to honoring the privacy of our users. Our privacy philosophy is based on a single core principle: we will not collect, use, or share any personally identifiable information about you without your knowledge. The following document outlines our privacy policy, which is incorporated by reference into our [Terms of Use](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/termsofuse.aspx).
 
 ### When We Collect Information
 
@@ -14,17 +14,17 @@ When you use Predictify services, our servers automatically record information p
 
 #### Account Creation
 
-When you create an account, Predictify collects personal information, such as your name and email address, during the registration process. By default, this information will be displayed to other users who view your profile. You may choose to make private one or more of these fields by updating your preferences on your [My Account](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/account.aspx) page.
+When you create an account, Predictify collects personal information, such as your name and email address, during the registration process. By default, this information will be displayed to other users who view your profile. You may choose to make private one or more of these fields by updating your preferences on your [My Account](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/account.aspx) page.
 
 #### Question Submission
 
-To submit a [deterministic question](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/help.aspx#deterministic), you must log in to your account (you may not submit questions anonymously). All questions will be reviewed by Predictify prior to being posted and are subject to our [Question Guidelines](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/questionguidelines.aspx).
+To submit a [deterministic question](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/help.aspx#deterministic), you must log in to your account (you may not submit questions anonymously). All questions will be reviewed by Predictify prior to being posted and are subject to our [Question Guidelines](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/questionguidelines.aspx).
 
 #### Prediction Submission
 
 Submitting a prediction may require that you provide additional personal information that has been specifically requested by the Information Seeker, such as political affiliation or marital status. This information will be included in the question results but will not be linked to you or your account in a personally identifiable way. That is, question results may reflect that married respondents, in aggregate, predicted a different outcome than unmarried respondents, but not your specific response.
 
-Personal information submitted with predictions will be added to your profile, where you can view it, change it, and/or delete it. To ensure that the information is current, we may ask you to update it from time to time. You may request that certain personal information not be added to your profile by opting out on your [My Account](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/account.aspx) page.
+Personal information submitted with predictions will be added to your profile, where you can view it, change it, and/or delete it. To ensure that the information is current, we may ask you to update it from time to time. You may request that certain personal information not be added to your profile by opting out on your [My Account](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/account.aspx) page.
 
 #### Billing and Payments
 
@@ -50,7 +50,7 @@ Predictify may share aggregated, non-personal information with third parties, su
 
 1) With our subsidiaries, affiliated companies, or other trusted businesses or persons under the condition that they comply with this privacy policy.
 
-2) When we have good faith reason to believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Use](https://web.archive.org/web/20071011064919id_/http%3A//www.predictify.com/termsofuse.aspx), including investigation of potential violations thereof, or (c) detect, prevent, or otherwise address fraud, security or technical issues.
+2) When we have good faith reason to believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Use](https://web.archive.org/web/20080620170050id_/http%3A//www.predictify.com/termsofuse.aspx), including investigation of potential violations thereof, or (c) detect, prevent, or otherwise address fraud, security or technical issues.
 
 In the case of a merger, acquisition, sale of assets, or bankruptcy, Predictify will provide notice before personal information is transferred and/or becomes subject to a different privacy policy.
 
