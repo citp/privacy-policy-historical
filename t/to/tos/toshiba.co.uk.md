@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba.co.uk privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222133244id_/http%3A//www.toshiba.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.co.uk privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620052437id_/http%3A//www.toshiba.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Toshiba United Kingdom Portal
 
