@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitions.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221225809id_/http%3A//www.definitions.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitions.net privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620030104id_/http%3A//www.definitions.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Enforcement of Agreement or Compliance with Law: STANDS4 LLC may use or disclose
 **How may you change or remove your personal information?**
 
   
-You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://web.archive.org/web/20071221225809id_/http%3A//www.definitions.net/contact.asp).
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://web.archive.org/web/20080620030104id_/http%3A//www.definitions.net/contact.asp).
 
 You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way. 
 
