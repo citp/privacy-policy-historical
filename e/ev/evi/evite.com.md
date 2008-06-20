@@ -1,87 +1,119 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201024148id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620072044id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
 
 # Evite Privacy Policy
 
-Evite is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Evite, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Interval International, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Evite has revised its [Privacy Policy](https://web.archive.org/app/cms/misc/privacy-policy), effective August 23, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](http://evite2.custhelp.com/cgi-bin/evite2.cfg/php/enduser/std_alp.php?p_pv=1.1609&p_topic=Privacy%20Policy) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy. 
+Last Updated: December 5, 2007
 
-**Consumer Privacy at Evite, an IAC Company**  
-Evite is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). 
+Evite respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of www.evite.com or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. It is not intended to cover information about businesses or business purpose activities.
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Evite, please [click here](https://web.archive.org/app/cms/misc/privacy-policy).
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. Evite is a part of the IAC/InterActiveCorp family of businesses ([www.iac.com](http://www.iac.com/)), which includes HSN, Ticketmaster, LendingTree, Ask.com, Citysearch, Evite, Match.com, Interval International, ServiceMagic, Entertainment Publications, IAC/InterActiveCorp, Gifts.com, Pronto, and many others. 
 
-**Information we may collect** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#collect)   
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
-We also may collect other types of information in the following ways when you visit our website: 
+**Information we collect about you**   
+_In General._ We may collect personal information that can identify you such as your name and e-mail address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. 
-  * We may assign your computer one or more [cookies](https://web.archive.org/app/cms/misc/privacy-definition#cookies) which may collect information to facilitate access to our website and to personalize your online experience. 
-  * We may use standard Internet tools, such [web beacons](https://web.archive.org/app/cms/misc/privacy-definition#beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, your location (such as zip code and/or country), and other demographic information and we may ask you to complete a survey or send us a review.
+  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors, and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.   
 
 
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. 
 
-**Information others may collect** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#others)   
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+**Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a gift, information that may interest them, invitations or messages (e.g., to use our carpool service) through our system, we may store your personal information, and the personal information of each such recipient. We use guests' contact information to allow them to respond to and comment on your Evite invitation. At your request, we may send Reminders to guests and display their email addresses to other guests of the same event. We also may send a post-event email to the host and guests. If you use our Reminders service, we use the information you provide in your Reminders to send it to you and others to whom you have requested it be sent. Other than as described in this Policy we will not intentionally sell or otherwise disclose guest contact information you submit to any third party. We may also collect guests' contact information in order to provide certain services through our Site, such as the carpool service. If you submit contact information as a user or a guest, such as email address and/or phone number, to Evite in order to use the carpool service such contact information will be shared with other guests using the carpool service. 
 
-  * We do not provide any personal information to these companies. 
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. 
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+You may delete your name from the guest list by requesting to be removed from the guest list on the invitation page. Once your name is removed from the guest list, it will no longer be accessible to other guests (unless you are subsequently invited to another party, in which case your name will be accessible to guests of the new event). 
 
+_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site. 
 
-
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. 
-
-**How we may use information we collect** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#use)   
-We may use information to: 
-
-  * Fulfill your requests for products and services; 
-  * Offer products and services that may be of interest to you; 
-  * Customize the advertising and content that you see on our website; 
-  * Facilitate use of our website; 
-  * Manage your account and your preferences; 
-  * Analyze use of and improve our website, products and services; 
-  * Identify and protect against fraudulent transactions and other misuses of our website; and 
-  * Enforce our Terms of Use.
+  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
+  * **Cookies.** When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/app/cms/misc/privacy-definition#cookies), to facilitate access to our site and to personalize your online experience. For example, when you sign in to our website, we will record your user ID, information to identify your computer, and the name on your user or member account in the cookie file on your computer. In the event a location, like a zip code, is not available in your profile or you have not searched in a location on Evite, we will cookie your location from your last Evite invitation. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
+  * **Other Technologies.** We may use standard Internet technology, such as pixel tags, [web beacons](https://web.archive.org/app/cms/misc/privacy-definition#beacons) and other similar technologies, to track your use of our site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, or other activities. 
+  * **Information collected by third-party advertising companies.** We may allow third-party advertising companies, including ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
 
 
-**With whom we may share information we collect** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#share)   
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
+**How we use the information we collect**   
+_In general._ We may use information that we collect about you, including anonymous and personal information:
 
-  * Service providers, such as credit-card payment processors, performing services on our behalf; 
-  * Other IAC businesses; 
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and 
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. 
-
-
-
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
-
-**Your choices** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#choices)   
-You may choose: 
-
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website; 
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by unsubscribing from your [profile](https://web.archive.org/pages/gt/people/view.jsp).
-  * To delete or decline [cookies](https://web.archive.org/app/cms/misc/privacy-policy#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly; 
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account. 
+  * to deliver invitations, and/or other products and services that you have requested; 
+  * manage your account and provide you with customer support; 
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister IAC companies or other third parties; 
+  * display content and advertising tailored to your interests; develop and display advertising on other sites; 
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
+  * enforce our terms and conditions; 
+  * manage our business and 
+  * as otherwise described to you at the time of collection.
 
 
 
-**Security** [(read more)](https://web.archive.org/app/cms/misc/privacy-policy#security)   
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+_Financial information._ We may use financial information or payment method to process payment for any purchases made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
 
-**Changes to our Privacy Policy**   
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+Please review "[Your choices about collection and use of your information"](https://web.archive.org/pages/custservice/privacy.jsp#choices) below.
+
+**With whom we share your information**  
+We want you to understand when and with whom we may share personal or anonymous information we have collected about you or your activities on our web site or while using our services. 
+
+_Personal information._ We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
+
+  * **Other Users.** Users and/or guests invited to the same events as you will be able to view the personal information that you provide on your My Info page, unless you choose to hide such information. You also may choose to have the personal information you supply on your My Info page viewable to Evite users in general. In addition, other users may choose to e-mail you. However, to ensure your privacy, Evite will not display or give out your e-mail address or any other contact information to other users except as otherwise described in this Privacy Policy. We have developed a Message Center that uses a "double-blind" e-mail system, which hides the e-mail addresses of both the sender and recipient of e-mail messages to protect the privacy of both the sender and receiver. When using the Message Center, it is up to you to choose when you are comfortable disclosing your e-mail address, or any other contact information, to others through private communications. 
+  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
+  * **Business partners:** We may also share your personal information with businesses with which we partner to offer you products, services, promotions, contests and/or sweepstakes through our website or our services. These businesses will be identified to you at the time you elect to engage in an offer or program being offered through them. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your e-mail address and other information to that merchant for purposes of completing the transaction you requested. 
+  * **Reservation partners.** By making reservations on our website for hotels, or other services provided by third parties, including government entities, you consent to our providing your personal information and reservation information to these reservation partners. Sharing this information with our reservation partners allows them to contact you using the e-mail address or other contact information you provided. Reservation partners may have their own privacy policies that govern their use of your personal information. If you want to learn about a particular reservation partner’s privacy policy, or if you do not want to receive communications from a reservation partner, or if you have other questions for a reservation partner, you should contact that reservation partner directly. 
+  * **Other Situations.** We also may disclose your information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+
+
+
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. These entities or their servers may be located either inside or outside the United States.
+
+_Aggregated and non-personal information._ We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+
+**Third-party websites**  
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. 
+
+**How you can access your information**  
+If you have an online account with us, you have the ability to review and update your personal information online by logging into [your account](https://web.archive.org/pages/gt/people/view.jsp). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+
+If you have an online account with us, you also may choose to delete your account at any time by submitting a request to our customer support department via the "Contact Us" link on the FAQ/Contact Support page of the Evite website. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you delete your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+
+**Your choices about collection and use of your information**
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
+  * While Evite does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Info page as described below. At any time you can choose to no longer receive commercial or promotional e-mails or newsletters from us or to discontinue use of our service. If you are a registered user, please log in and visit the My Info page of the Evite website and uncheck the box related to sending information to you via e-mail or send us an e-mail (including your e-mail address) at support@evite.com. You may also opt-out of receiving mobile alerts by following the opt-out instructions provided on the Evite website. If you are not a registered user, but are a recipient of an Evite invitation, you may delete your name from the guest list by requesting to be removed from the guest list on the invitation page. When you register on our website, you will be given a choice as to whether you want to receive e-mail messages about special offers. You may modify your choice at any time by clicking on the My Info link on the Evite website, visiting the My Info page, and changing your preferences. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt-out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt-out of receiving them. We also allow users the option of changing information previously provided. This may be done through the following method: (i) visit Evite and log in, (ii) click on the "My Info" link, and (iii) change the relevant information. Please note that changing information in your account, or otherwise opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider or business partner) before you have changed your preferences or updated your information, you may have to change your preferences directly with that third party 
+
+
+
+**How we protect your personal information**  
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. 
+
+We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure e-mail. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+
+**Reviews**  
+We may provide areas on our websites where you can post reviews of products, establishments, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](https://web.archive.org/pages/custservice/terms.jsp) . In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your e-mail address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information and are not responsible for the privacy of personal information that is disclosed in this manner. Once you have posted information, you will not be able to edit or delete such information. 
+
+**Children's privacy**   
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. 
+
+**Visiting our websites from outside the United States**  
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+**No Rights of Third Parties**  
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+**Changes to this Privacy Policy**  
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
 
 **How to contact us**   
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/app/cms/misc/privacy-policy), or our information practices, please contact us by email or postal mail below: 
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: 
 
-Evite, LLC   
-c/o IAC Search & Media   
+Evite LLC  
+c/o IAC Search & Media  
 555 12th Street, Suite 500  
 Oakland, CA 94607  
-[support@evite.com](mailto:support@evite.com), attention Privacy 
+[support@evite.com](mailto:support@evite.com)  
+Attn: Privacy
 
-© 2007 IAC/InterActiveCorp. All rights reserved. 
+© IAC/InterActiveCorp. All rights reserved. 
