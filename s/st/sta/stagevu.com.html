@@ -1,0 +1,221 @@
+<!--The following is the downloaded HTML source of the stagevu.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620030749id_/http%3A//www.stagevu.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>Privacy Policy - Stagevu: Your View</title>
+	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/yuireset.css">
+	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/css.css">
+    <link rel="shortcut icon" href="http://stagevu.com/favicon.ico" type="image/x-icon">
+	<script src="http://stagevu.com/includes/jquery.js" type="text/javascript"></script>
+	<script src="http://stagevu.com/includes/jqueryforms.js" type="text/javascript"></script>
+	<script src="http://stagevu.com/includes/js.js" type="text/javascript"></script>
+	<meta name="robots" content="index,follow">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	
+</head>
+
+<body>
+
+<div id="loading"><img src="http://stagevu.com/img/loading.gif" alt=""> Loading</div>
+<div class="center"><div id="notice"></div></div>
+
+<div id="topheader">
+
+	<div id="userlinks">
+			<a href="#" onclick="toggleuser(); return false;">Login</a>
+		<a href="http://stagevu.com/register">Sign up</a>
+		</div>
+	<div id="user">
+		<p class="floatright"><a href="#" onclick="toggleuser(); return false;">Hide</a></p>
+		<h2>Login</h2>
+		<form id="loginform" action="http://stagevu.com/ajax/login.php" method="post">
+		<table class="floatcenter">
+			<colgroup span="2">
+				<col width="100px">
+				<col width="150px">
+			</colgroup>
+			<tbody><tr>
+				<td><label for="un" class="yellow floatright">Username</label></td>
+				<td><input name="un" id="un" type="text" class="text" maxlength="30"></td>
+			</tr>
+			<tr>
+				<td><label for="pw" class="yellow floatright">Password</label></td>
+				<td><input name="pw" id="pw" type="password" class="text" maxlength="255"></td>
+			</tr>
+			<tr><td colspan="2"><input type="submit" class="button floatright" value="Log in"><a href="http://stagevu.com/forgot" style="margin-top: 6px;">Recover account/Reactivate</a></td></tr>
+			<tr><td colspan="2" id="loginmessage"></td></tr>
+		</tbody></table>
+		</form>
+	</div>
+	
+	<a href="http://stagevu.com/index"><img src="http://stagevu.com/img/title.gif" alt="StageVU" id="title"></a>
+	<a href="http://stagevu.com/index" class="m">Home</a>
+	<a href="http://stagevu.com/videos" class="m">Videos</a>
+	<a href="http://stagevu.com/upload" class="m yellow">Submit a video</a>
+</div>
+<div id="search">
+	look for:
+	<form action="http://stagevu.com/search" method="get">
+		<input name="for" type="text" maxlength="120" id="box">
+		in
+		<select name="in" id="dd">
+			<option value="Videos">Videos</option>
+			<option value="Tags">Tags</option>
+		</select>
+		<input name="box" type="submit" value="Go" id="button">
+	</form>
+	<a href="#" onclick="togglesearch();return false;">Advanced search</a></div>
+
+<div id="content">
+	<div id="advsearch" class="nodisplay">
+	<form action="http://stagevu.com/search" method="get">
+	<table class="form">
+	<colgroup span="4">
+		<col width="150px">
+		<col width="300px">
+		<col width="150px">
+		<col width="300px">
+	</colgroup>
+	<tbody><tr><td colspan="4"><a class="floatright" href="#" onclick="togglesearch();">Hide</a><h2>Advanced Search</h2></td></tr>
+	<tr>
+		<td class="textright"><label for="askeywords">Keywords</label></td>
+		<td><input name="keywords" id="askeywords" type="text" class="text" maxlength="120"></td>
+		<td class="textright"><label for="astags">Tags:</label><br><span class="small">Separate with commas</span></td>
+		<td><input name="tags" id="astags" type="text" class="text" maxlength="120"></td>
+	</tr>
+	<tr>
+		<td class="textright"><label for="assubmitter">Submitted by</label></td>
+		<td><input name="submitter" id="assubmitter" type="text" class="text" maxlength="30"></td>
+		<td class="textright"><label for="ascategory">Category</label></td>
+		<td><select name="category" id="ascategory">
+			<option value="">Any</option>
+			<option value="Animation">Animation</option>
+			<option value="Art">Art</option>
+			<option value="Blogs">Blogs</option>
+			<option value="Comedy">Comedy</option>
+			<option value="Educational">Educational</option>
+			<option value="Films and Movies">Films and Movies</option>
+			<option value="Games">Games</option>
+			<option value="Music">Music</option>
+			<option value="News and Politics">News and Politics</option>
+			<option value="Sports">Sports</option>
+			<option value="Television">Television</option>
+			<option value="Others">Others</option>
+		</select></td>
+	</tr>
+	<tr>
+		<td class="textright"><label for="asminmin">Minimum length</label></td>
+		<td><input name="minmin" id="asminmin" type="text" class="vartext" maxlength="4" size="4">:<input name="minsec" id="asminsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
+		<td class="textright"><label for="asmaxmin">Maximum length (mm:ss)</label></td>
+		<td><input name="maxmin" id="asmaxmin" type="text" class="vartext" maxlength="4" size="4">:<input name="maxsec" id="asmaxsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
+	</tr>
+	<tr>
+		<td class="textright"><label for="asminrating">Rating</label></td>
+		<td>From <select name="minrating" id="asminrating">
+			<option value="">Any</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select> to <select name="maxrating" id="asmaxrating">
+			<option value="">Any</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select></td>
+		<td class="textright"><label for="assortby">Sort by</label></td>
+		<td><select name="sortby" id="assortby">
+			<option value="relevance">Relevance</option>
+			<option value="duration">Length</option>
+			<option value="submittime">Time submitted</option>
+			<option value="rating">Rating</option>
+			<option value="views">Views</option>
+			<option value="recentview">Views in the last week</option>
+			<option value="favourites">Favourites</option>
+		</select> <select name="ascdesc" id="asascdesc">
+			<option value="DESC">Descending</option>
+			<option value="ASC">Ascending</option>
+		</select></td>
+	</tr>
+	<tr><td colspan="4"><input type="submit" class="button floatright" value="Search"></td></tr>
+	
+	</tbody></table>
+	</form>
+	</div>
+
+	<div style="padding: 5px;font-size:16px;"><strong>Like Stagevu? Support us!</strong>: 
+	<a href="http://digg.com/television/Stagevu_high_quality_and_better_than_Vreel" target="_blank"><img src="http://stagevu.com/img/digg.gif" alt="Digg" style="border:0;vertical-align:middle;"> <strong>Digg us</strong></a>
+	<a href="http://del.icio.us/url/dcba48bdd41cb55aad17fa627b152937" target="_blank"><img src="http://stagevu.com/img/delicious.gif" alt="Delicious" style="border:0;vertical-align:middle;"> <strong>Del.icio.us</strong></a>
+	<a href="http://www.stumbleupon.com/submit?url=stagevu.com&amp;title=Stagevu%3A%20High%20quality%20video%20site" target="_blank"><img src="http://stagevu.com/img/stumbleupon.png" alt="Stumbleupon" style="border:0;vertical-align:middle;"> <strong>Stumble it</strong></a>
+	</div>		<h1>StageVU Privacy Policy</h1>
+		<p>This document outlines exactly what you are permitted and not permitted to do as an user of StageVU. Note that by visiting StageVU, you are an user of StageVU and these rules apply to you. Using this site simply means visiting it, or downloading it.</p>
+		
+		<h2>Your Privacy is Important</h2>
+		<p>StageVU respects the privacy and sensitivity of any information you may give us, and strives to protect this information for its intended uses. This document is meant to clearly outline how personal information given to us will be used.</p>
+		
+		<h2>Information Collected and Uses</h2>
+
+		<p>StageVU chiefly collects personal information during the <a href="http://stagevu.com/register">registration</a> process. During this process, the following information are mandatory:</p>
+		<ul>
+			<li><strong>Username</strong>: This is your online identifier; it will be publicly viewable on your <strong>profile pages (<a href="http://www.stagevu.com/user/">sample</a>)</strong> as well as on any tablature you submit. We recommend a fairly anonymous username.</li>
+
+			<li><strong>Password</strong>: Your password will be stored in an encrypted hash format in a secure database. Nobody will be able to view or decode your password (not even the site administrators!)</li>
+			<li><strong>Valid email address</strong>: The email address you provide us will only be used to send you newsletters and other information of interest pertaining to your account, if the "Send me news" option is selected for your account. It will also be used for password recovery. You may hide your email by deselecting the "Show my email?" option.</li>
+		</ul>
+		<p>The following information is optional:</p>
+		<ul>
+			<li><strong>Name</strong></li>
+			<li><strong>Gender</strong></li>
+			<li><strong>Location</strong></li>
+			<li><strong>Birth Date</strong></li>
+			<li><strong>Profile</strong></li>
+			<li><strong>Profile picture</strong></li>
+		</ul>
+		<p>These pieces of optional information will only be displayed on your <strong>profile page (<a href="http://stagevu.com/user/">sample</a>)</strong>.</p>
+		
+		<p>StageVU also runs <strong>3rd-party advertisements</strong> and <strong>statistics software</strong>. The information collected by these programs may include your IP address and various other non-personal information such as the city of your Internet Service Provider. This information will not be used to identify you personally.</p>
+		
+		<p>If you decide to to contact us, your email and name will remain confidential and be used solely for communicating with you regarding the subject of the contact.</p>
+
+		<p>Finally, any <strong>videos published</strong> by you are published with the clear intention for them to be publicly viewable.</p>
+		
+		<h2>Our Commitment to Privacy</h2>
+		<p>Your information will <strong>NOT</strong> be used for any purposes other than those outlined above. Information will not be sold or given willingly to a third party for any non-related purposes. Our web servers are securely hosted to prevent unauthorized access.</p>
+		<p>In short, <strong>your information is safe at StageVU</strong></p>
+
+		
+		<h2>Accessing and Changing Your Information</h2>
+		<p>Your account can be voluntarily deleted any time, and on deletion, all traces of your information will disappear from our servers. To delete your account or modify its information:</p>
+		<ol>
+			<li><strong>Log in</strong>: if you have forgotten the password, choose Forgot PW and enter your Username and Email.</li>
+			<li>Select <a href="http://stagevu.com/editinfo">Edit account settings</a> on the Actions drop-down menu.</li>
+			<li><strong>Modify any information</strong> you wish to change.</li>
+			<li><strong>Re-enter your password</strong> and <strong>submit.</strong></li>
+		</ol>
+		
+		<h2>Contact Us</h2>
+		<p>If you have any concerns or questions concerning the Privacy Policy of StageVU, simply use the Contact Us link on the bottom bar.</p>
+</div>
+
+<div id="footcont">
+	<div id="footer">
+		<a href="http://stagevu.com/privacy">privacy</a>
+		<a href="http://stagevu.com/contact">contact</a>
+	</div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1336767-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
