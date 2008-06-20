@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the bobvila.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220183650id_/http%3A//www.bobvila.com/Global/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bobvila.com privacy policy that was archived on 2008-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080620201837id_/http%3A//www.bobvila.com/Global/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>BobVila.com Privacy Statement</title>
 
-</head><body onload=""><div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+</head><body class="oldHome" onload=""><div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 
 <script language="javascript" src="/includes/javascript/common2.js"></script>
 <script language="javascript" src="/includes/Site/js/menu_engine3.js"></script>
+<script type="text/javascript" language="javascript" src="/includes/Site/js/bvlib.js"></script>
+<script type="text/javascript" language="javascript" src="/includes/Site/js/lightboxlogin.js"></script>
 <script type="text/javascript">
 <!--
     var SUB_MENU = document.getElementById('Span_SubMenu');
@@ -16,11 +18,28 @@
     var CHANNEL_G = false;
 -->
 </script>
+<link href="/styles/global.css?v=2" rel="stylesheet" type="text/css" media="all">
 <link href="/styles/Article07.css" rel="stylesheet" type="text/css" media="all">
+<link href="/styles/lightboxlogin.css" rel="stylesheet" type="text/css" media="all">
 <link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="/styles/site_menu2.css">
-<script type="text/javascript" language="javascript" src="/includes/Site/js/bvlib.js"></script>
-<script type="text/javascript" language="javascript" src="/includes/Site/js/menu_script.php"></script>
+<link rel="stylesheet" type="text/css" href="/styles/site_menu2.css?v=2">
+<script type="text/javascript" language="javascript" src="/includes/Site/js/menu_script_new.php"></script>
+<script type="text/javascript" language="javascript">
+	var Dom_Ready = function() {
+
+                Init_SiteMenu_Functions();
+                Init_Lightbox_Login('loginLink');
+		try { document.execCommand("BackgroundImageCache", false, true); } catch(err) {}
+
+	}
+
+	var bLoadDom = true;
+	bvLib.domReady(window, function() {
+
+		if(bLoadDom) { Dom_Ready(); } else { return; }
+
+	});
+</script>
 
 
 <!-- WEBSIDESTORY CODE HBX2.0 (Universal) -->
@@ -71,40 +90,39 @@ hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
 </script><script language="javascript1.1" src="/includes/javascript/hbx.js"></script>
 <!--END -->
+<div id="intAdOuterWrap" name="intAdOuterWrap" style="display: none;"></div>
+<div id="wrapSiteBody">
 <div id="topAd">
 
 <!-- DC: MAIN_Global 728x90 -->
-<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;dcopt=ist;tile=1;sz=728x90;ord=1198923772" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;dcopt=ist;tile=1;sz=728x90;ord=1198923772" type="text/javascript"></script>
+<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;dcopt=ist;tile=1;sz=728x90;ord=1214121423" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;dcopt=ist;tile=1;sz=728x90;ord=1214121423" type="text/javascript"></script>
 
 </div>
 <div id="wrapMasthead">
 
-<div id="wrapMastheadTop">
-<div id="topLink">
-<p>Looking for Bob Vila Tools? <a href="/Tools/">Click Here</a></p>
-</div>
-</div>
+<div id="wrapMastheadTop"></div>
 
-<div id="wrapShortGraphicAboveChanShow"><div id="graphicBobsHair"></div><div id="graphicToolTop"></div></div>
+<div id="wrapShortGraphicAboveChanShow"><div id="graphicBobsHair"></div></div>
 
 <div id="wrapChanShows">
 <div id="graphicBobsForehead"></div>
 <ul id="menuChannels">
 <li id="buttonChannels"><a href="/Channels/">View Channels</a></li>
-<li id="featuredChannel">Featured: <a href="http://deckandpatio.bobvila.com/">Deck, Porch &amp; Patio</a></li>
+<li id="featuredChannel">Featured: <a href="http://fireplaces.bobvila.com/">Fireplaces</a></li>
 </ul>
 <ul id="menuShowrooms">
 <li id="buttonShowrooms"><a href="/ProductServices/Categories/Showrooms/">View Showrooms</a></li>
-<li id="featuredShowroom">Featured: <span><a href="/Showrooms/WeatherBest/index.html">WEATHERBEST® - Composite Decking</a></span></li>
+<li id="featuredShowroom">Featured: <span><a href="/Showrooms/WarnIndustries/index.html">WARN Works - PullzAll Electric Pulling Too</a></span></li>
 </ul>
-<div id="graphicToolHandle"></div>
+<div id="graphicChanShowsCorner"></div>
 </div>
 
 <div id="wrapMastheadBottom">
 <h1><a href="/index.html" title="BobVila.com home page">BobVila.com home page</a></h1>
+<div id="homeIcon"><a href="/index.html">Home</a></div>
 <div id="myBobVilaMenu">
 <div id="logIn">
-<a id="buttonLogin" href="/My/">Login</a>
+<a id="buttonLogin" class="loginLink" href="/My/">Login</a>
 <a id="buttonRegister" href="/My/">Register</a>
 </div>
 <div id="graphicMyBobVilaMenuTitle"></div>
@@ -117,7 +135,6 @@ hbx.pec="";//ERROR CODES
 </div>
 <a id="buttonSiteSearchSubmit">Search</a>
 </div>
-<div id="graphicToolBottom"></div>
 
 <div id="wrapSiteMenu">
 <ul id="subWrapSiteMenu">
@@ -134,6 +151,7 @@ hbx.pec="";//ERROR CODES
 <div><ul>
 <li><a href="/HowTo_Library/">Articles, Videos &amp; Tips</a></li>
 <li><a href="/HowTo_Library/Step-by-Step_How-Tos.html">Step by Step How Tos</a></li>
+<li><a href="/HowTo_Library/Audio_How-Tos.html">Audio Tip of the Day</a></li>
 <li><a href="/GlossaryTerms/">Glossary of Terms</a></li>
 <li><a href="/FixItClub/">Fix It Guides</a></li>
 <li><a href="/BVTV/Newsletter.html">Newsletter</a></li>
@@ -180,6 +198,7 @@ hbx.pec="";//ERROR CODES
 <li><a href="/ProductServices/">Product &amp; Service Directory</a></li>
 <li><a href="/ProductServices/#brand">Browse by Brand</a></li>
 <li><a href="/ProductServices/Categories/All/">View All Listings</a></li>
+<li><a href="/contest/">Contests &amp; Giveaways</a></li>
 </ul></div>
 </li>
 <li id="secMenu_shop" class="lightBlueMenu"><a href="/SmartBuys/">Shop</a>
@@ -205,8 +224,6 @@ hbx.pec="";//ERROR CODES
 
 </div>
 
-<div id="graphicMastheadCorner"></div>
-
 </div>
 <div id="DIV_Channels"></div>
 <div id="DIV_Showrooms"></div>
@@ -220,13 +237,13 @@ hbx.pec="";//ERROR CODES
 <div id="SITE_NAV_A">
 
 <!-- DC: MAIN_Global 300x250 -->
-<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=2;sz=300x250;ord=1198923772" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=2;sz=300x250;ord=1198923772" type="text/javascript"></script>
+<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=2;sz=300x250;ord=1214121423" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=2;sz=300x250;ord=1214121423" type="text/javascript"></script>
 
 </div><img src="/images/misc/spacer.gif" alt="" height="8" width="310" border="0"><br>
 
 
 <!-- DC: MAIN_Global 300x600 -->
-<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=3;sz=300x600;ord=1198923772" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=3;sz=300x600;ord=1198923772" type="text/javascript"></script>
+<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=3;sz=300x600;ord=1214121423" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=3;sz=300x600;ord=1214121423" type="text/javascript"></script>
 
 </div>
 <br>
@@ -398,7 +415,7 @@ hbx.pec="";//ERROR CODES
 
 
 <!-- DC: MAIN_Global 728x91 -->
-<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=4;sz=728x91;ord=1198923772" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=4;sz=728x91;ord=1198923772" type="text/javascript"></script>
+<script language="JavaScript">document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=4;sz=728x91;ord=1214121423" type="text/javascript"><\/scr'+'ipt>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/bv.bobvila/MAIN_Global;tile=4;sz=728x91;ord=1214121423" type="text/javascript"></script>
 
 </td>
 </tr>
@@ -409,13 +426,14 @@ hbx.pec="";//ERROR CODES
 <td align="left" width="483">
 <br>
 <span class="bodysmall2"><span class="bodysmall" style="width: 575px;"><a title="About Information for BobVila.com and more." href="/Global/About.html" target="_top">About</a> | <a title="FAQ" href="/Global/FAQ/FAQ.html" target="_top">FAQ</a> | <a title="Contact Page" href="/Global/Contact.html" target="_top">Contact</a> | <a title="SiteMap" href="/Global/SiteMap.html" target="_top">Sitemap</a> | <a title="Privacy Policy" href="/Global/PrivacyPolicy.html">Privacy Policy</a> | <a title="Terms of Use" href="/Global/TermsOfUse.html" target="_top">Terms of Use</a> | <a title="Get Help" href="/Global/Help.html" target="_top">Help</a><br>
-© BobVila.com 2007</span><br><br>
+© BobVila.com 2008</span><br><br>
 <br>
 </span>
 </td>
 <td align="center" width="185">&nbsp;</td>
 </tr>
 </tbody></table>
+</div>
 
 
 
