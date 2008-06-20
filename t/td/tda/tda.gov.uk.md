@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224134635id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620084807id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - TDA privacy statement
 
@@ -34,11 +34,11 @@ from publicly available sources.
     * help administer, and contact you about improved administration of, any services provided by us previously, now or in the future; 
     * carry out marketing analysis and applicant profiling (including with transactional information) and create statistical and testing information; 
     * help us to prevent and detect fraud or loss; and 
-    * contact you by various means (including mail, email, telephone, text or multimedia messages) about other services offered by us, and our contracted partners. We will only contact you in this way if you have previously indicated your consent. In addition, we will only contact you by email, text or multimedia message about other people's services, or services which are not similar to those you have sought from us, if you have explicitly opted in to receiving such material. 
+    * contact you by various means (including mail, e-mail, telephone, text or multimedia messages) about other services offered by us, and our contracted partners. We will only contact you in this way if you have previously indicated your consent. In addition, we will only contact you by e-mail, text or multimedia message about other people's services, or services which are not similar to those you have sought from us, if you have explicitly opted in to receiving such material. 
   3. ### Disclosure and transfer of information
 
 3.1 
-    We may disclose your information to other related education sector bodies such as the Department for Education and Skills, for them to carry out any of these purposes as set out in clause 2.1 above. 
+    We may disclose your information to other related education sector bodies such as the Department for Children, Schools and Families, for them to carry out any of these purposes as set out in clause 2.1 above. 
 3.2 
     Under the Freedom of Information Act 2000 we may be required to release information held by the TDA to any requesting body. This may include collated statistics from information you have provided us with, but it will in no way affect your right to privacy under data protection. 
 3.3 
@@ -47,7 +47,7 @@ from publicly available sources.
     We may also find it necessary to transfer your personal information to third parties located outside the European Economic Area (EEA). This may happen where companies who process data on behalf of TDA are based outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in the UK or the EU - in these instances we take rigorous steps to ensure an adequate level of protection is given to your information. 
   4. ### Monitoring
 
-You should also note that communications with you (including phone conversations and emails) may be monitored and recorded by us for quality assurance, legal, regulatory and training purposes. 
+You should also note that communications with you (including phone conversations and e-mails) may be monitored and recorded by us for quality assurance, legal, regulatory and training purposes. 
 
   5. ### Protection of information
 
@@ -56,9 +56,9 @@ We maintain strict security measures in order to protect personal information. T
   6. ### The internet
 
 6.1 
-    If you communicate with us via the internet then we may occasionally use email to contact you about our services. When you first provide personal information to our website we will normally give you the opportunity to indicate whether you would prefer us not to contact you in this way. However, you can contact us at any time to change your preferences. 
+    If you communicate with us via the internet then we may occasionally use e-mail to contact you about our services. When you first provide personal information to our website we will normally give you the opportunity to indicate whether you would prefer us not to contact you in this way. However, you can contact us at any time to change your preferences. 
 6.2 
-    Please be aware that communications over the internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. 
+    Please be aware that communications over the internet, such as e-mails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. 
 6.3 
     We may use "cookies" to monitor website user traffic patterns and site usage. This helps us to understand how our applicants and potential applicants use our websites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a website so that, when you revisit that website, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies. 
 6.4 
@@ -110,7 +110,7 @@ This website may contain links to other sites. Please be aware that we are not r
 
   10. ### Further information
 
-If you would like any further information or have any comments on our Privacy Policy then please write to us or send us an email at [data_protection_officer@tda.gov.uk](mailto:data_protection_officer@tda.gov.uk). We may amend this policy from time to time in which case the amended version will be published on our website and a copy may be obtained by writing to the address below.
+If you would like any further information or have any comments on our Privacy Policy then please write to us or send us an e-mail at [data_protection_officer@tda.gov.uk](mailto:data_protection_officer@tda.gov.uk). We may amend this policy from time to time in which case the amended version will be published on our website and a copy may be obtained by writing to the address below.
 
 Data Protection Officer  
 Training and Development Agency for Schools  
