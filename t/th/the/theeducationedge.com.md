@@ -1,53 +1,53 @@
-> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011035514id_/http%3A//theeducationedge.com/RequestSchoolInfo/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620031429id_/http%3A//www.theeducationedge.com/RequestSchoolInfo/privacypolicy.jsp) for the most accurate reproduction.*
 
 # TheEducationEdge.com
 
 **Privacy Policy**
 
-**Introduction**
+TheEducationEdge.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy and how your information may or may not be used by our site.
 
-THEEDUCATIONEDGE.COM respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at THEEDUCATIONEDGE.COM’s Web site. 
+By visiting TheEducationEdge.com you are accepting the terms described in our privacy policy. 
 
-**Part I.   Information Collection**
+**What personal information about customers does TheEducationEdge.com gather?**  
+Information we gather on our site helps us enhance the experience that future visitors may have on our site. Here are the types of information we gather: 
 
-THEEDUCATIONEDGE.COM collects information through our Web site at several points.  We collect the following information about primary visitors: Name, email, address, phone number. 
+  * **Information You Give Us**  
+On our site, you will find a variety of forms. Each form pertains to a particular school or educational institution. Each form may collect information such as Name, Phone number, email address, postal address, gender, and age. Not all forms require all the information. You can choose not to provide the information, but you may not be able to complete the process of requesting information from that school. We use the information you provide to inform the schools of your interest and the best way of getting in contact with you. You will usually be contacted via phone or email by a representative of the school. You may request information from more than one school, which means you may be contacted by each school. We do not resell the information to any company unless you authorize us to do so, by agreeing to be part of the TheEducationEdge.com newsletter. This is not a required question to complete the form. 
 
-We may also collect types of personally identifiable information which our users divulge about other people, such as referrals or gift purchases. THEEDUCATIONEDGE.COM does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
+We also want you to know that we do at times send the information to third party validation services to ensure all of the information is accurate and true. This helps us ensure that the schools which you are requesting information from have the most accurate way of getting in contact with you. 
 
-We collect the following general data that is not personally identifiable information such as your IP address.  We collect demographic data in order to present you with the most relevant information. Third party partners may also use this information to present you with other useful offers. . 
+  * **Automatic Information**  
+We receive and store certain types of information when you interact with our site. Our site uses "cookies" like many other sites. This helps us determine what browser you are using and how to best present the information to you. Some automatic information examples are: browser type, operating system, IP address, and date and time of information request. You can disable cookies in your web browser, however this may affect the experience you have on our site, since you may not be able to see all of the features. The cookies we set do have an expiration date and will automatically be disabled after the expiration date. 
+  * **Information from Other Sources**  
+We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what you may have typed in, during your search at Google, Yahoo!, Ask, or MSN which spawns our advertisement. This information helps us better optimize our site based on your information needs. 
 
-We verify the accuracy of this information by validating it against publically available databases. 
+**Does TheEducationEdge.com share the information we receive?**  
+Information about our customers is very important to us. We do reserve the right to sell the information to other parties if you willfully agree to be part of our newsletter. However, we will only disclose your email address. 
 
-We collect this information through log files, clickstream tracking, and registration forms.  The information is collected through registration forms is voluntary, any other data such as clickstream data or log files is involuntary.   To receive information from a particular school, filling out a registration form is mandatory because this is the primary way they will get in contact with you. 
+The information that is submitted to each school is not subject to being sold to anyone else except the school you have requested information from. Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
 
-We may at times employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable THEEDUCATIONEDGE.COM to track usage patterns and deliver customized content to users. The data a cookie enables us to see are details like, type of browser, IP address, the referring URL, and which page you went to after our site.   Our cookies do have an expiration date. Our cookies may collect personally identifiable information. 
+**What sort of Information might I receive from TheEducationEdge.com?**  
+If you do opt-in to our newsletter, we may on occasion send out information that we deem of interest to you. This could range from helpful hints about education to other advertising offers such as but not limited to loan offers, and/or consumer product offers. 
 
-At times, third parties may collect certain information about the visitor via a cookie. 
+If you wish to opt out of our newsletter, you can unsubscribe at any time by going to the following link: [http://www.TheEducationEdge.com/RequestSchoolInfo/unsubscribe.jsp](http://www.theeducationedge.com/RequestSchoolInfo/unsubscribe.jsp)
 
-**Part II.   Information Usage.**
+**What information can I access?**  
+TheEducationEdge.com fully believes in transparency and accessibility. If you wish to delete your information from our database, please send a written request to [contactus@TheEducationEdge.com](mailto:contactus@theeducationedge.com) and your request will be processed within 3 business days. 
 
-The information collected by THEEDUCATIONEDGE.COM will be used by schools to contact you.  Users who provide information will receive a phone call if a phone number is provided; otherwise you will be contacted by the school directly via email. 
+If you wish to remove your contact information from a particular school, you must contact that school directly. You can also email us, and we will forward on your request to the appropriate representatives at each school. It usually takes about 1 week for all parties to comply with your request. 
 
-Registered users may at times receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. If for some reason you are having difficulty unsubscribing, please email us at [contacus@theeducationedge.com](mailto:contactus@theeducationedge.com).
+**Are Children allowed to use TheEducationEdge.com?**  
+All people are allowed to access and use our site. However, since we market education for adult learners, we usually require the person to be at least 18 years old to submit an request for information.
 
-The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We may share data with the following third parties email vendors.   These third parties will use the information as follows to send you other offers you may be interested in.  Users may opt in to have their information shared with third parties. 
+**How safe is my information?**  
+At TheEducationEdge.com we currently do not collect information such as social security numbers or credit card numbers. If we do in the future change this policy, we will ensure that this information is transmitted in a secure environment. At the moment, we only collect information that is publicly accessible and can often be found in phone books or internet search engines. Therefore, we currently do not offer SSL encryption on our site. 
 
-We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours. 
+**If I have a problem with my data, how can I resolve it?**  
+We are committed to helping you resolve your dilemma as quickly as possible. Please contact us through email at [contactus@TheEducationEdge.com](mailto:contactus@theeducationedge.com). This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
 
-If our policy on information collection or uses changes, will advise you by posting an updated privacy policy on our site as soon as we have updates. 
+**Conditions of Use**  
+By using and accessing TheEducationEdge.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.
 
-**Part III.   Access to Information**
+Sincerely,
 
-THEEDUCATIONEDGE.COM maintains the accuracy of our information by making reasonable efforts to allow you to contact us to update or change your information. You can contact us at [contactus@theeducationedge.com](mailto:contactus@theeducationedge.com) to change or update your information at any time.   If you wish to be removed from our database, please email us at [unsubscribe@theeducationedge.com](mailto:unsubscribe@theeducationedge.com). 
-
-**Part IV. Problem Resolution**
-
-If problems arise, users may contact THEEDUCATIONEDGE.COM by email at [contactus@theeducationedge.com](mailto:contactus@theeducationedge.com). We are committed to resolving disputes in a timely manner.
-
-**Part V. Data Storage and Security**
-
-THEEDUCATIONEDGE.COM has a commitment to keeping your data safe and secure. Security standards are constantly changing and make the best effort to keep our servers secure. If we do collect sensitive information like a social security number of credit card number we will provide a SSL environment to ensure your data is transferred securely and stored securely. 
-
-**Part VI – Consent**
-
-By using Theeducationedge.com you hereby consent to the Online Privacy Policy set forth. If the policy changes, we will make an update to the site to show the new policy in a timely manner. 
+The TheEducationEdge.com Team 
