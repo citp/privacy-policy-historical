@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231132id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621093208id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
@@ -6,7 +6,7 @@ We at Catalogs.com are firmly committed to protecting your privacy.  We respect
 
 **_Your Personal Information_**
 
-By viewing our website, we do not collect any personal information about you.  Should you request to receive a catalog, newsletter or savings certificate from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your “personal information”). Your personal information is comprised of the information that you voluntarily fill in on our order form and your Internet Protocol (IP) address. 
+By viewing our website, we do not collect any personal information about you.  Should you request to receive a catalog, newsletter or savings certificate from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your personal information). Your personal information is comprised of the information that you voluntarily fill in on our order form and your Internet Protocol (IP) address. 
 
 **_How Do You Use My Personal Information?_**
 
@@ -20,13 +20,13 @@ Except as stated above, we DO NOT share your personal information with any other
 
 **_Opting - In at Catalogs.com_**
 
-When you order a catalog, newsletter, magazine or savings certificate through our website, you will be provided with an opportunity to receive email updates and special savings offers from Catalogs.com.  In order to receive this information, you must voluntarily “opt-in” by checking the appropriate circle on our order form.  
+When you order a catalog, newsletter, magazine or savings certificate through our website, you will be provided with an opportunity to receive email updates and special savings offers from Catalogs.com.  In order to receive this information, you must voluntarily opt-in by checking the appropriate circle on our order form.  
 
 **_Opting -Out_**
 
-Our website provides you with the opportunity to decline or “opt-out” of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
+Our website provides you with the opportunity to decline or opt-out of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
 
-[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20071211231132id_/http%3A//www.catalogs.com/unsubscribe.asp)
+[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20080621093208id_/http%3A//www.catalogs.com/unsubscribe.asp)
 
 **_How Do I Update My Personal Information?_**
 
@@ -36,7 +36,7 @@ If you want to update your account information at Catalogs.com, you may re-enter
 
 **_Internet Privacy_**
 
-In order to provide better service, we may use “cookies.”  A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for administrative purposes only; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services of our website. Catalogs.com also may use third parties to display advertisements and track leads and/or sales from our website. These ads and/or tracking functions may use cookies. Catalogs.com does not control these cookies, and they are not subject to Catalogs.com's privacy policy.
+In order to provide better service, we may use cookies.  A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for administrative purposes only; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services of our website. Catalogs.com also may use third parties to display advertisements and track leads and/or sales from our website. These ads and/or tracking functions may use cookies. Catalogs.com does not control these cookies, and they are not subject to Catalogs.com's privacy policy.
 
 **_Keeping Things Safe_**
 
