@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preciousglow.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201073659id_/http%3A//www.preciousglow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preciousglow.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622005354id_/http%3A//www.preciousglow.com/privacy.html) for the most accurate reproduction.*
 
-# Order jewelry online, discount fashion jewelry online, unique custom jewelry online
+# Privacy Policy - Wedding Rings, Anniversary Bands, Diamond Jewelry, Engagement Ring
 
 Preciousglow.com will occasionally update its privacy statement to reflect company and customer feedback. When Preciousglow.com posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Preciousglow.com home page. Preciousglow.com encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Preciousglow.com customer service department at [service@Preciousglow.com](mailto:service@Preciousglow.com) or **866-441-1278**.
 
@@ -63,7 +63,7 @@ We want to communicate with you only if you want to hear from us. To opt-out of 
  **Your Consent To Preciousglow.com Privacy Policy**  
 By using this Web Site, you agree to Preciousglow.com's privacy policy. This is our entire and exclusive privacy policy and it supersedes any earlier version. We may occasionally update this privacy policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to periodically review this privacy policy to stay informed about how we are protecting your information. Your continued use of this Web Site constitutes your consent to this privacy policy and any updates.
 
-For other terms and conditions that apply to your use of our Web Site, please see our Preciousglow.com [Product Policies and Legal Notices](https://web.archive.org/web/20071201073659id_/http%3A//www.preciousglow.com/product_policies.html).
+For other terms and conditions that apply to your use of our Web Site, please see our Preciousglow.com [Product Policies and Legal Notices](https://web.archive.org/web/20080622005354id_/http%3A//www.preciousglow.com/product-policies.html).
 
  **Questions Or Comments**  
 If you have questions about this privacy policy, please contact the Preciousglow.com customer service department at [service@Preciousglow.com](mailto:service@Preciousglow.com) or at **866-441-1278**. You may also send us your comments about the Preciousglow.com Web Site or the shopping experience in general, as we always appreciate feedback .
