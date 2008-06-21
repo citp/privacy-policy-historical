@@ -1,0 +1,575 @@
+<!--The following is the downloaded HTML source of the bedbathandbeyond.ca privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621110817id_/http%3A//www.bedbathandbeyond.ca/rdPolicyPrivacy.asp%3Forder_num%3D-1%26) for the most accurate reproduction.-->
+
+<html><head><script language="Javascript">
+<!--
+function init()
+{
+	;
+}
+
+function onOpen()
+{
+	if ( window.focus )
+		window.focus();
+}
+
+var windowpic = null;
+var windowpic2 = null;
+var bBeyondStore = false;
+
+
+var sBT = null;
+var sSubTotal = GetCookie( "subtotal" );
+if ( !sSubTotal )
+	sSubTotal = "<b>0</b>&nbsp;item(s)&nbsp;&nbsp;<br>sub-total:&nbsp;<b>$0.00</b>&nbsp;&nbsp;<br>excludes&nbsp;gift&nbsp;cards&nbsp;&nbsp;";
+
+if ( GetCookie("bridal") )
+{
+	sBT = GetCookie("bt");
+	if ( !sBT )
+		sBT = 0;
+}
+
+function GetCookie( name )
+{
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen)
+	{
+		var j = i + alen;
+		if ( document.cookie.substring( i, j ) == arg )
+			return getCookieVal ( j );
+		i = document.cookie.indexOf(" ", i ) + 1;
+		if ( i == 0 )
+			break;
+	}
+
+	return null;
+}
+
+function getCookieVal( offset )
+{
+	var endstr = document.cookie.indexOf ( ";", offset );
+
+	if ( endstr == -1 )
+		endstr = document.cookie.length;
+
+	return unescape( document.cookie.substring( offset, endstr ) );
+}
+
+function getURLArgs()
+{
+	var url;
+	var bFoundOrder = false;
+	var parts = new Array();
+	var sArgs = "?";
+	url = document.location.href;
+	parts = url.split( "?" );
+
+	var query = new Array();
+	var param = new Array();
+	var order_num, i;
+
+	if ( parts.length > 1 )
+	{
+		query = parts[1].split( "&" );
+		i = 0;
+		while( i < query.length )
+		{
+			param = query[i].split( "=" );
+			if ( param[0] == "order_num" )
+			{
+				sArgs += "order_num=" + param[1] + "&";
+				bFoundOrder = true;
+			}
+			if ( param[0].toUpperCase() == "BRN" )
+				sArgs += "BRN=" + param[1] + "&";
+			if ( param[0].toUpperCase() == "WRN" )
+				sArgs += "WRN=" + param[1] + "&";
+			if ( param[0].toUpperCase() == "MC" )
+				sArgs += "MC=" + param[1] + "&";
+			i++;
+		}
+		if ( !bFoundOrder )
+			sArgs += "order_num=-1&";
+	}
+	else
+		sArgs = "?order_num=-1&";
+
+	return sArgs;
+}
+
+function go()
+{
+	var sSearchText = document.search_prod.search.value;
+
+	if ( sSearchText == "enter keyword" || sSearchText == "" || sSearchText == " " )
+		return false;
+
+	var BTSmodeArgs = "";
+	if ( document.search_prod.section.value == '3' )
+		BTSmodeArgs = "BTSmode=true&";
+
+	while ( sSearchText.substring( 0, 1 ) == ' ')
+		sSearchText = sSearchText.substring( 1 );
+
+	while ( sSearchText.substring( sSearchText.length-1, sSearchText.length ) == ' ' )
+		sSearchText = sSearchText.substring( 0, sSearchText.length-1 );
+
+	document.search_prod.search.value = sSearchText
+	var len = sSearchText.length;
+	var strOut = "";
+	var i = 0;
+	var j = 0;
+	while (i < len)
+	{
+		j = sSearchText.indexOf( " ",i );
+		if (j > i)
+		{
+			strOut += sSearchText.substring( i, j ) + "+";
+			i = j + 1;
+		}
+		else
+		{
+			strOut += sSearchText.substring( i, len );
+			i = len;
+		}
+	}
+		window.location = "/searchSKU.asp"+getURLArgs()+"SSTR="+strOut+"&go=1&"+BTSmodeArgs;
+
+	return false;
+}
+//-->
+</script>
+
+
+
+<meta name="description" content="Bed, Bath and Beyond">
+<meta name="keywords" content="Bed, Bath and Beyond, Housewares, home decor, bedding, kitchen, bath, dining, electrics, storage, cleaning">
+<title>Bed Bath &amp; Beyond Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="Javascript">
+<!--
+
+var selectArr = new Array();
+var selCount = 0; 
+
+var nav1 = 10;
+var nav2 = 1;
+	var	n;
+	var	lit = -1;
+	var	imglit = "";
+	var	allloaded = false;
+	if (document.images) {
+		//arrow images
+		var theArrow = new Image();
+		var theArrow_on = new Image();
+
+		theArrow_on.src = "/img/arrow.gif";
+		theArrow.src ="/img/arrow_on.gif";
+
+		allloaded = true;
+	}
+
+	function clearLit(ltab) {
+		if (allloaded) {
+			if ((lit != -1)&&(lit != ltab)) {
+				document [imglit].src = tNavOff[lit].src;
+			}
+		}
+		lit = -1;
+	}
+
+
+	function showArrow(arrName,on) {
+		if (allloaded) {
+		//arrow function
+			if (on) {
+				//true- white double arrow image
+				document [arrName].src = theArrow_on.src;
+
+			} else  {
+				//false - blue double arrow image
+				document [arrName].src = theArrow.src;
+
+			}
+		}
+	}
+
+function doIMouseOver(a,b,c,d) {
+}
+function setClearTime() {
+}
+function clearMenus() {
+}
+function cancelClearTime() {
+}
+
+//-->
+</script>
+
+<script language="JavaScript1.2" src="/js/leftnav_preload.js"></script>
+
+<script language="JavaScript1.2" src="/js/common.js"></script>
+<link rel="stylesheet" href="css/ns4.css" type="text/css"><style type="text/css">@import url(css/main.css); /*IE and NN6x styles*/</style>
+
+
+</head>
+<body onload="init();" bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+<script>
+function handle()
+{
+	return true;
+}
+window.onerror=handle;
+</script>
+
+<script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script>
+
+<table cellspacing="0" cellpadding="0" border="0" width="779"><form name="search_prod" action="" method="post" onsubmit="return go()"></form>
+	<tbody><tr>
+
+	
+		<td width="318" valign="top" background="/img/i.gif">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td colspan="2"><img src="/img/i.gif" width="1" height="10" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/img/i.gif" width="7" height="1" alt="" border="0"></td>
+					<td>
+						<a href="http://www.bedbathandbeyond.ca/default.asp?order_num=-1&amp;"><img src="/img/logo_bbb.gif" alt="BED BATH &amp; BEYOND" title="BED BATH &amp; BEYOND" height="34" border="0"></a>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="459" valign="middle" align="right" background="/img/i.gif"><table width="380" border="0" align="right" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td><img src="/img/i.gif" width="27" height="1" alt="" border="0"></td>
+				<td><table cellspacing="0" cellpadding="0" border="0" width="380">
+						<tbody><tr>
+							<td>
+									<a href="http://www.bedbathandbeyond.ca/giftCardHome.asp?order_num=-1&amp;">
+									
+									<img src="/img/globalicon_giftcard.gif" alt="Gift Cards" title="Gift Cards" width="20" height="22" border="0"></a></td>
+							<td>&nbsp;
+									
+									<a href="http://www.bedbathandbeyond.ca/giftCardHome.asp?order_num=-1&amp;" class="blue">
+									
+								Gift Cards</a></td>
+							<td><img src="/img/i.gif" width="4" height="1" alt="" border="0"></td>
+							<td><a href="http://www.bedbathandbeyond.ca/subscribe.asp?order_num=-1&amp;" class="blue">	
+									<img src="/img/globalicon_emailsignup.gif" alt="Email Signup" title="Email Signup" width="20" height="21" border="0"></a></td>
+							<td>&nbsp;
+									
+								<a href="http://www.bedbathandbeyond.ca/subscribe.asp?order_num=-1&amp;" class="blue">	
+								Email Signup</a></td>
+							<td><img src="/img/i.gif" width="5" height="1" alt="" border="0"></td>
+							<td><a href="http://www.bedbathandbeyond.ca/storeLocator.asp?order_num=-1&amp;">
+									<img src="/img/globalicon_storelocator.gif" alt="Store Locator" title="Store Locator" width="18" height="21" border="0"></a></td>
+							<td>&nbsp;
+								<a href="http://www.bedbathandbeyond.ca/storeLocator.asp?order_num=-1&amp;" class="blue">								
+								Store Locator</a></td>
+							<td><img src="/img/i.gif" width="7" height="1" alt="" border="0"></td>
+						</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+		<td bgcolor="#DCD8C0" width="2"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+	</tr>
+	
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<form name="search_prod" action="" method="post" onsubmit="return go()"></form>
+		<tbody><tr>
+			
+			<td height="30" align="center" valign="top" background="/img/i.gif"><a href="http://www.bedbathandbeyond.ca/storeLocator.asp?order_num=-1&amp;" class="blue">
+				<img src="../Img/Coming_soon_hdr.gif" alt="NOW OPEN IN RICHMOND HILL, ONTARIO - CLICK HERE FOR MORE INFORMATION" title="NOW OPEN IN RICHMOND HILL, ONTARIO - CLICK HERE FOR MORE INFORMATION" width="670" height="23" border="0">
+								</a></td>
+			<td bgcolor="#DCD8C0" width="2"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+		</tr>
+	
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td colspan="4"><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td bgcolor="#DCD8C0" rowspan="2"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="137" valign="middle" align="center"></td>
+		<td><a href="http://www.bedbathandbeyond.ca/default.asp?order_num=-1&amp;"><img src="/img/tab_shop_on.gif" alt="SHOP COMING SOON" title="SHOP COMING SOON" width="129" height="34" border="0"></a></td>
+		<td><a href="http://www.bedbathandbeyond.ca/regHome.asp?order_num=-1&amp;"><img src="/img/tab_bridal_off.gif" alt="BRIDAL &amp; GIFT REGISTRY" title="BRIDAL &amp; GIFT REGISTRY" width="252" height="34" border="0"></a></td>
+		<td><a href="http://www.bedbathandbeyond.ca/btsHome.asp?order_num=-1&amp;"><img src="/img/tab_shopforcollege_off.gif" alt="OFF TO UNIVERSITY" title="OFF TO UNIVERSITY" width="259" height="34" border="0"></a></td>
+	</tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td background="/img/lnav_bg.gif" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=14&amp;" return;=""><img name="bedding" src="/img/lnav2_1bedding_off.gif" width="137" height="20" border="0" alt="Bedding" title="Bedding"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=1&amp;" return;=""><img name="bath" src="/img/lnav2_1bath_off.gif" width="137" height="20" border="0" alt="Bath" title="Bath"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=764&amp;" return;=""><img name="kids" src="/img/lnav2_1kids_off.gif" width="137" height="20" border="0" alt="Kids" title="Kids"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=102&amp;" return;=""><img name="kitchen" src="/img/lnav2_1kitchen_off.gif" width="137" height="20" border="0" alt="Kitchen" title="Kitchen"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=55&amp;" return;=""><img name="dining" src="/img/lnav2_1dining_off.gif" width="137" height="20" border="0" alt="Dining" title="Dining"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=94&amp;" return;=""><img name="windowtreatments" src="/img/lnav2_1windowtreatments_off.gif" width="137" height="20" border="0" alt="Window Treatments" title="Window Treatments"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=846&amp;" return;=""><img name="furniturerugs" src="/img/lnav2_1furniturerugs_off.gif" width="137" height="20" border="0" alt="Furniture/Rugs" title="Furniture/Rugs"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=83&amp;" return;=""><img name="homedecor" src="/img/lnav2_1homedecor_off.gif" width="137" height="20" border="0" alt="Home Decor" title="Home Decor"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=847&amp;" return;=""><img name="walldecor" src="/img/lnav2_1walldecor_off.gif" width="137" height="20" border="0" alt="Wall Decor" title="Wall Decor"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=67&amp;" return;=""><img name="electrics" src="/img/lnav2_1electrics_off.gif" width="137" height="20" border="0" alt="Electrics" title="Electrics"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=48&amp;" return;=""><img name="organization" src="/img/lnav2_1organization_off.gif" width="137" height="20" border="0" alt="Organization" title="Organization"></a></td></tr>
+			<tr><td><a href="http://www.bedbathandbeyond.ca/nodePage.asp?order_num=-1&amp;RN=119&amp;" return;=""><img name="seasonal" src="/img/lnav2_1seasonal_off.gif" width="137" height="20" border="0" alt="Seasonal" title="Seasonal"></a></td></tr>
+			
+				<tr><td bgcolor="#DCD8C0"><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td></tr>
+				<tr><td><a href="http://www.bedbathandbeyond.ca/giftCardHome.asp?order_num=-1&amp;"><img src="/img/callout_giftcards.gif" width="137" alt="GIFTCARDS" title="GIFTCARDS" border="0"></a></td></tr>
+				<tr><td bgcolor="#DCD8C0"><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td></tr>
+				
+				
+				<tr><td bgcolor="#DCD8C0"><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td></tr>
+				
+			</tbody></table>
+		</td>
+		<td align="left" valign="top">
+
+<center>
+
+<table cellpadding="0" cellspacing="0" border="0">
+  	<tbody><tr>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif" width="19" height="2" border="0"></td>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif" width="602" height="2" border="0"></td>
+		<td bgcolor="#DCD8C0"><img src="img/i.gif" width="19" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#F0EFE5"><img src="img/i.gif" width="19" height="1" border="0"></td>
+		<td bgcolor="#F0EFE5">
+		
+		<img src="/img/hdr_Privacy.gif" border="0" alt="Privacy Policy" title="Privacy Policy"></td>
+		<td bgcolor="#F0EFE5"><img src="img/i.gif" width="19" height="1" border="0"></td>
+	</tr>
+	
+		<tr>
+			<td bgcolor="#DCD8C0" colspan="3"><img src="img/i.gif" width="1" height="5" border="0"></td>
+		</tr>
+	</tbody></table>
+	
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><img src="img/i.gif" width="1" height="24" border="0"></td>
+	</tr>
+	<tr>
+		<td width="600">
+			<p><strong>Privacy Policy Effective Date: This Privacy Policy became effective on  December 06, 2007 and was most recently changed on December 06,  2007.</strong></p>
+			<p>This is the privacy policy ("Privacy  Policy") for the Web site located at http://www.bedbathandbeyond.ca (the  "Site") made available by&nbsp; &nbsp;Bed Bath &amp; Beyond Inc. and its subsidiary  companies, the legal owners of the Site ("Bed Bath &amp; Beyond,"  "we," "us" or "our"). This Privacy Policy sets  forth our policies regarding the collection, use and disclosure of certain  information relating to your use of the Site. You acknowledge and agree that  your use of this Site signifies your understanding and acceptance of the terms  of this Privacy Policy.<br>
+				<br>
+				At Bed Bath &amp; Beyond we are committed to  protecting the privacy of our customers, which is why we do not sell or rent  any personal identifiable information regarding our customers to any third  party. We hope this Privacy Policy will answer your questions regarding how we  treat information gathered from visitors to our Site. If you have questions or  concerns regarding this Privacy Policy or wish to exclude your Personal  Information from our direct marketing purposes, please feel free to contact us  at <a href="mailto:privacy@bedbath.com" class="blue">privacy@bedbath.com</a>, Attn: Privacy  Officer or by writing to us at Bed Bath &amp; Beyond Canada L.P., Attn: Privacy Officer, &nbsp;New Look Business Centre Ltd., 1275 West 6th Avenue, Vancouver B.C. Canada, V6H1A6. <br>
+				<br>
+This Privacy Policy will be  continuously assessed against new technologies, business practices and our  customers' needs. As we update and diversify our products and services, this  Privacy Policy may evolve. Please check this page for updates periodically. If  we make any material changes to this Privacy Policy, we will notify you here. You  acknowledge and agree that your use of the Site following any posted changes to  the Privacy Policy indicates your acceptance of such changes.<br>
+<br>
+By providing information  about an identifiable individual ("Personal  Information") to this Site, you fully understand and unambiguously  consent to the collection, use, retention and disclosure of such information in  Canada and in the United States in accordance with this Privacy Policy. It is always your choice whether or not you provide us with your  Personal Information, however, a decision to withhold Personal Information may  restrict or prevent us from providing you with a particular product or service. <br>
+<br>
+For clarity, we may collect, use or disclose your Personal  Information without your knowledge or consent where we are permitted or  required by applicable law or regulatory requirements to do so.<br>
+<br>
+You may withdraw your  consent at any time, subject to legal or contractual restrictions and  reasonable notice. If you withdraw your consent, we will inform you of the  implications of such withdrawal. To withdraw your consent, simply contact us at  &nbsp;&nbsp;<a href="mailto:privacy@bedbath.com" class="blue">privacy@bedbath.com</a> Attn: Privacy Officer or  by writing to us at Bed Bath &amp; Beyond Canada L.P., Attn: Privacy Officer,&nbsp; New Look Business Centre Ltd., 1275  West 6th Avenue, Vancouver B.C. Canada, V6H1A6 and advise us of what  Personal Information you no longer wish us to use. All communications with  respect to any withdrawal or variation of consent should be in writing and  addressed to our Privacy Officer.</p>
+			<p><span class="ftheadline">What Information We Collect</span></p>
+			<p>In order to process your order efficiently, we collect the  following Personal Information: name, billing address, shipping address, e-mail  address, phone number, and credit card number when you place an order with us.  Under certain circumstances we may also collect a user's IP address (i.e., the  Internet number associated with your specific computer); for example if we  suspect that credit card fraud may have occurred. We also may periodically  conduct surveys of visitors to our Site. This helps us better understand what  our customers would like to see from us. We use this information for internal  marketing research purposes. We may contact you if you use the "contact  us" hyperlink on our Site or if you responded to a survey for more  information, but only if you have told us in the survey that you don't mind  being contacted. <br>
+				<br>
+			With respect to emails that you may receive from us, we  capture data related to the opening, click-through and sales conversion  process. This information is used for internal Bed Bath &amp; Beyond review and  analysis only.</p>
+			<p><span class="ftheadline">Use of Information that You Provide</span></p>
+			<p>At Bed Bath &amp; Beyond we collect Personal  Information for purposes including fulfilling orders, providing a high level of  customer service, gaining knowledge internally regarding what our customers  want and mailing circulars and special offers from Bed Bath &amp; Beyond and  its subsidiaries (collectively, "Information  Usage Purposes"). We do not sell Personal Information and we do not use  or disclose Personal Information to any other party, except as set forth in  this Privacy Policy or as permitted or required by applicable law or regulatory  requirements. We may use or disclose your Personal Information  for any additional purposes that we advise you of and, where your consent is  required by law, we have obtained your consent.&nbsp;  We may use and disclose your Personal Information without your knowledge  or consent where we are legally permitted or required to do so</p>
+			<p><span class="ftheadline">Sharing of Your Information With Our Partners</span></p>
+			<p>We may share your Personal Information with our employees,  employees of corporate affiliates and with companies acting as our authorized  agents or partners in providing our service or co-branded services (e.g.,  credit card processing and customer and support services, mailing services ) to  you and for Information Usage Purposes. These companies agree to use such  Personal Information only for such specified purposes. Each partner&nbsp; must agree to implement and maintain  reasonable security procedures and practices in order to protect your Personal  Information from unauthorized access, destruction, use, modification or  disclosure in a manner similar to this Privacy Policy, unless you consent  otherwise. </p>
+			<p><span class="ftheadline">Transfer of Your Information Under Certain Events</span></p>
+			<p>In the event that Bed Bath &amp; Beyond is merged, or in  the event of a transfer of our assets, Site or operations, a restructuring of Bed  Bath &amp; Beyond (or our assets), the financing of Bed Bath &amp; Beyond or  some other form of business combination or joint venture involving Bed Bath  &amp; Beyond, Bed Bath &amp; Beyond may disclose or transfer your Personal  Information in connection with such transaction, provided that, where  appropriate, any party to whom the information is disclosed is bound by  agreements or obligations, and required to use or disclose your Personal Information  in a manner consistent with the use and disclosure provisions of this Privacy  Policy, unless you consent otherwise. In the event of such a transaction, Bed  Bath &amp; Beyond will notify you by posting a prominent notice on our Site for  30 days of any such change in control of your Personal Information. </p>
+			<p><span class="ftheadline">Release of Information to Protect Our Site and Others</span></p>
+			<p>Bed Bath &amp; Beyond may release Personal Information as  permitted or required by applicable law or regulatory requirements, to comply  with valid legal processes such as search warrants, subpoenas or court orders,  to seek advice from our&nbsp; legal counsel,  as part of Bed Bath &amp; Beyond's regular reporting activities to its related  companies, to protect the rights and property of Bed Bath &amp; Beyond, during  emergency situations or where necessary to protect the safety of a person or  group; or where the Personal Information is publicly available.</p>
+			<p><span class="ftheadline">How to Opt-out</span></p>
+			<p>We ask that you tell us when you do not wish to receive  periodic e-mails from us. We will only send e-mail for customer service  purposes and to those visitors who have indicated that they wish to receive  other types of e-mail from us and our subsidiaries. If at any time you wish to  stop receiving e-mail from us, you can always remove your name from our mailing  list by sending an e-mail to <a href="mailto:customer.service@bedbath.com" class="blue">customer.service@bedbath.com</a> stating  that you wish to unsubscribe and indicating in the subject line of the e-mail  "NO E-MAIL". <br>
+				<br>
+Please keep in mind that, if you choose not to receive  marketing communications, you will continue to receive transactional or account  communications related to services or products that you have requested on the  Site (e.g. confirmation e-mails, billing reminders).</p>
+			<p><span class="ftheadline">Security of the Information You Provide</span></p>
+			<p>Among our top priorities is keeping your Personal  Information secure. We use Secure Sockets Layer (SSL) technology to encrypt all  of your Personal Information before it is transmitted to us. Encrypted  information cannot be read or recorded as it travels over the Internet. You can  tell you are sending information securely by the unbroken key icon or closed  lock icon that should appear at the bottom of your Internet browser's window  (depending on what browser you use). These icons will appear when you are  placing an order on our Site. In addition, you will see our Site address change  slightly, from http: to https: indicating a secure server connection is being  used. The computers that store your Personal Information are located in a  separate facility which employs the latest in firewall and security technology.  We employ these procedures to protect your Personal Information from  unauthorized access, destruction, use, modification or disclosure.<br>
+				<br>
+Your Personal Information will be stored and processed on  our computers in the United    States. The laws on holding Personal  Information in the United    States may vary and be less stringent than  laws of your state or country. We will use commercially reasonable efforts to  hold and transmit your Personal Information in a safe, confidential and secure  environment. If you object to your Personal Information being transferred or  used in this manner please do not register with or use the Site. <br>
+<br>
+You acknowledge and agree that your use of the Site  confirms your understanding and acceptance that Personal Information stored and  processed in the United States  may be available to the United States  government or its agencies under a valid legal process such as a search warrant  or court order in the United    States.</p>
+			ALTHOUGH WE WILL TAKE (AND REQUIRE OUR THIRD-PARTY  PROVIDERS TO TAKE) REASONABLE SECURITY PRECAUTIONS REGARDING YOUR PERSONAL  INFORMATION COLLECTED FROM AND STORED ON THE SITE, BECAUSE OF THE OPEN NATURE  OF THE INTERNET, WE CANNOT GUARANTEE THAT ANY OF YOUR PERSONAL INFORMATION  STORED ON OUR SERVERS, OR TRANSMITTED TO OR FROM A USER, WILL BE FREE FROM  UNAUTHORIZED ACCESS. ACCORDINGLY, WE DISCLAIM ANY LIABILITY FOR ANY THEFT OR  LOSS OF, UNAUTHORIZED ACCESS OR DAMAGE TO, OR INTERCEPTION OF ANY DATA OR  COMMUNICATIONS. BY USING THE SITE, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND AGREE  TO ASSUME THESE RISKS. YOU AGREE AND CONFIRM THAT THIS EXCLUSION ON LIABILITY  IS FAIR AND REASONABLE IN THE CIRCUMSTANCES OF THIS AGREEMENT.			
+			<p><span class="ftheadline">Use of Cookies</span></p>
+			<p>We use cookies to provide our customers with streamlined  ordering and other useful features. Cookies are pieces of information that are  stored by your browser on your computer's hard drive. Cookies make Web surfing  easier for you by saving your customer identification information while you're  at our Site. The use of cookies has become an industry standard used by most  major Web sites. Most Web browsers automatically accept cookies, but you can  usually change your browser to prevent that.<br>
+				<br>
+			All portions of the Site that prompt you to log in or that  are customizable require that you accept cookies. We may use cookies technology  to reduce the time required for you to submit your requests and for Bed Bath  &amp; Beyond to respond to such requests. Cookies will not be used by us to  retrieve any information about you, or from your computer, that you have not voluntarily  given to us. Cookies may also be placed on your computer if you link from the  Site to our partners' Web sites. Cookies placed on your computer by third  parties by or through the Site, if any, are not within Bed Bath &amp; Beyond's  immediate control and are not subject to this Privacy Policy. If you have any  questions concerning third-party cookies, please contact the third party  placing such cookies to find out what information is collected and how it is  used. BED BATH &amp; BEYOND ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY  THIRD-PARTY COOKIES.</p>
+			Please be aware that although you may be able to elect  not to accept cookies through certain browser functionality, the features of  our Site may not function properly if you do not accept cookies.			
+			<p><span class="ftheadline">Use of Information in Sweepstakes and Contests.</span></p>
+			<p>Occasionally, we may run a promotion such as a sweepstakes  or a contest, and you will be given the opportunity to enter by filling out an  entry form. Your entry information will be used by Bed Bath &amp; Beyond, its  agents and co-sponsors for the immediate purpose of administration of the  sweepstakes or contest (including notification and delivery of prizes, in the  event you win)&nbsp; and sometimes address  information may be used to verify identity. If you choose to enter such a  promotion, you may also have the opportunity to consent to receive future  communications from Bed Bath &amp; Beyond and its subsidiaries. Since we value  your privacy, you will always have the opportunity to stop such communications  by opting-out, as detailed above. In addition, some promotions may have one or  more co-sponsors, and you may also be asked upon entry to consent to receive  future communications from such co-sponsors. In the event your consent is  indicated, your information from your entry will be shared with such  co-sponsor. In connection with any communications from or disclosure of your information  to any unaffiliated third-party co-sponsors, you acknowledge and agree that  they will be responsible for advising you of their own privacy policies  regarding the use and disclosure of your information, and you should be sure to  read them. In all events, we will make it clear to you in the entry form,  before you submit it, whether you are consenting to receive information from  any party, and you will be given the opportunity to confirm or withdraw such  consent prior to submitting your entry. </p>
+			Notwithstanding any restrictions in this Privacy  Policy, if Bed Bath &amp; Beyond asks you for Personal Information and you  elect to have us share your Personal Information with third parties, such as in  the promotions discussed above, such election shall constitute your consent to  Bed Bath &amp; Beyond's disclosure of your Personal Information. In addition,  Bed Bath &amp; Beyond makes no representation, warranty, covenant, or claim regarding,  and expressly disclaims and denies any responsibility or liability for,  directly or indirectly, the privacy practices, including the use and disclosure  of any Personal Information, that you elect to have us share with any  third-party.
+
+			<p><span class="ftheadline">Intended Users - Use By Children</span></p>
+			<p>We do not knowingly collect Personal Information from  children under 13 years of age. Bed Bath &amp; Beyond will promptly delete Personal  Information provided by a child. Simply contact us at <a href="mailto:customer.service@bedbath.com">customer.service@bedbath.com</a> Attn: Privacy  Officer. 
+			</p><p><span class="ftheadline">Access to Your Personal Information</span>
+			</p><p>You can request access to  your Personal Information stored by Bed Bath &amp; Beyond by contacting us at <a href="mailto:privacy@bedbath.com" class="blue">privacy@bedbath.com</a> Attn: Privacy Officer or by writing to us at  Bed Bath &amp; Beyond Canada L.P., Attn: Privacy  Officer, New Look Business Centre Ltd., 1275 West 6th Avenue, Vancouver B.C. Canada, V6H1A6  &nbsp;and we will inform  you about what type of Personal Information we have on record or in our  control, how it is used and to whom it may have been disclosed, provide you  with access to your information so you can review and verify the accuracy and  completeness and request changes to the information and make any necessary  updates to your Personal Information.<br>
+				<br>
+				There are instances where applicable law or regulatory  requirements allow or require us to refuse to provide some or all of the  Personal Information that we hold about you.&nbsp;  In addition, the Personal Information may have been destroyed, erased or  made anonymous in accordance with our record retention obligations and  practices.&nbsp; If we do not provide you with  access to your Personal Information, we will endeavor to inform you of the  reasons why, subject to any legal or regulatory restrictions.&nbsp; 
+			</p><p><span class="ftheadline">Links to Other Web Sites</span>
+			</p><p>The Site may also contain links to other Web sites and  advertising. The privacy policies of other Web site operators or advertisers  may significantly differ from our Privacy Policy. We urge you to contact  third-party Web site operators or advertisers directly if you have any  questions or concerns about their data collection or privacy policies. YOU  ACKNOWLEDGE AND AGREE THAT BED BATH &amp; BEYOND MAKES NO REPRESENTATION,  WARRANTY, COVENANT, OR CLAIM REGARDING, AND ASSUMES NO RESPONSIBILITY OR  LIABILITY, DIRECTLY OR INDIRECTLY FOR ANY THIRD-PARTY WEB SITE OPERATORS' OR  ADVERTISERS' DATA COLLECTION OR PRIVACY PRACTICES OR THEIR FAILURE TO ABIDE BY  THEIR PRIVACY POLICIES.<br>
+				<br>
+				You agree that the  inclusion of any such links does not suggest, represent, warrant, covenant or  imply that Bed Bath &amp; Beyond monitors,  endorses or exerts any control over such Web site whatsoever. &nbsp;You agree that Bed Bath &amp; Beyond provides  these links to you only as a convenience, and the inclusion of any link does  not suggest, represent, warrant,  covenant or imply affiliation, endorsement or adoption by Bed Bath &amp;  Beyond of any such Web site whatsoever.<br> 
+				<br>
+When you leave the Site, you acknowledge and agree that  our terms and policies do not govern your access to, and use of, other Web  sites. You accept and agree our recommendations that you should review the  applicable privacy and data gathering practices, of any Web site to which you  navigate from the Site.</p>
+			<p><span class="ftheadline">Your Acceptance of These Terms</span></p>
+			<p>By using our Site, you agree to the terms and  conditions of this Privacy Policy. Make sure you read this Privacy Policy  carefully, because if you do choose to use our Site, you automatically agree to  this Privacy Policy. If you do not agree to this Privacy Policy, please do not  use our Site. We reserve the right, at our discretion, to change, modify, add,  or remove portions of this Privacy Policy at any time. If this Privacy Policy  changes in the future, we will let you know by posting the new Privacy Policy  on our Site or by sending an email to our opt-in list. Please check this Web  page periodically for changes. Your continued use of our Site following the  posting of changes to these terms and conditions will mean you accept the  changes contained in the latest published Privacy Policy.</p>
+			<p><span class="ftheadline">Inquiries or Concerns</span><br>
+	If you have any questions about this Privacy Policy or concerns  about how we manage your Personal Information, please contact our Privacy  Officer.&nbsp; If you are dissatisfied with  our response, you may be entitled to make a written submission to the federal  Privacy Commissioner. </p>
+			<p><span class="ftheadline">Privacy Officer</span><br>
+	We have appointed a Privacy Officer to oversee compliance  with this Privacy Policy. The contact information for our Privacy Officer is as  follows:&nbsp; </p>
+			<p>Privacy Officer<br>
+				Bed Bath &amp; Beyond Canada L.P.,<br>
+New Look Business Centre Ltd., 1275 West 6th    Avenue,
+			 <br>
+			 Vancouver  B.C. Canada,  V6H1A6 <br>
+			 T. 1-877-222-5939<br>
+		    E. &nbsp;<a href="mailto:privacy@bedbath.com" class="blue">privacy@bedbath.com</a></p>
+		© 2007-2008 Bed Bath &amp; Beyond and its subsidiaries. All rights reserved.<p></p>		</td>
+	</tr>
+	<tr>
+		<td><img src="img/i.gif" width="1" height="20" border="0"></td>
+	</tr>
+</tbody></table>
+<script language="JavaScript">
+<!--
+function OpenVisaWindow()
+{
+	var sStr = ",scrollbars=no,resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no";
+	if (window.screen)
+	{
+		var aw = screen.availWidth - 30;
+		var ah = screen.availHeight - 50;
+		var height = 440;
+		var width = 540;
+		sStr = "width=" + width + ",height=" + height + sStr;
+		sStr += ",left=" + ( (aw - width) / 2 );
+		var nTop = (ah - height) / 2;
+		if ( nTop < 0 )
+			nTop = 0;
+		sStr += ",top=" + nTop;
+	}
+	window.open("VerifiedByVisa.asp","",sStr);
+}
+//-->
+</script>
+</center></td><td bgcolor="#DCD8C0"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td bgcolor="#DCD8C0" colspan="8"><img src="/img/i.gif" width="1" height="2" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#F4EDE1">
+			<table width="100" border="0" cellpadding="0" cellspacing="0">
+			<form name="optIn" action="/subscribe.asp?order_num=-1&amp;" method="post"></form>
+				<tbody><tr>
+					<td><img src="/img/ftr_getspecialoffers.gif" alt="GET SPECIAL OFFERS BY EMAIL" title="GET SPECIAL OFFERS BY EMAIL" width="240" height="26" border="0"></td>
+				</tr>
+				<tr>
+					<td background="/img/bkg_at.gif" valign="top" height="74" width="240">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td valign="top" background="" rowspan="2"><img src="/img/i.gif" width="12" height="53" border="0"></td>
+								<td valign="top" background=""><input type="text" style="width: 150px" size="10" name="email_addr" value="enter your email address" onfocus="this.select();"><br></td>
+								<td valign="top" background=""><img src="/img/i.gif" width="7" height="1" border="0"></td>
+								<td valign="top" background=""><img src="/img/i.gif" width="1" height="2" alt="" border="0"><br><input type="image" name="SUBMIT2" src="/img/btn_submit.gif" width="49" height="17" alt="SUBMIT" title="SUBMIT" border="0"></td>
+							</tr>
+							<tr>
+								<td colspan="4" background="" valign="top"><a href="http://www.bedbathandbeyond.ca/rdPolicyPrivacy.asp?order_num=-1&amp;" class="blue">Privacy policy</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="3"><img src="/img/ftr_shoppinginfo.gif" alt="SHOPPING INFO" title="SHOPPING INFO" width="259" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="8" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="126" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="125" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif" width="6" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="http://www.bedbathandbeyond.ca/rdProductGuides.asp?order_num=-1&amp;" class="blue">Product guides</a><br></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="http://www.bedbathandbeyond.ca/rdPolicyLegal.asp?order_num=-1&amp;" class="blue">Legal notices</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="2"><img src="/img/ftr_help.gif" alt="HELP" title="HELP" width="130" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="8" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="122" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif" width="8" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="http://www.bedbathandbeyond.ca/rdContactUs.asp?order_num=-1&amp;" class="blue">Contact us</a><br><a href="http://www.bedbathandbeyond.ca/rdSubscribe.asp?order_num=-1&amp;" class="blue">Our e-mail list</a><br><a href="http://www.bedbathandbeyond.ca/rdGlossary.asp?order_num=-1&amp;" class="blue">Glossary</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+		<td bgcolor="#F4EDE1" valign="top">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" colspan="2"><img src="/img/ftr_corporate.gif" alt="CORPORATE" title="CORPORATE" width="130" height="19" border="0"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="9" height="1" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="121" height="1" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td valign="top" background="" bgcolor="#F4EDE1"><img src="/img/i.gif" width="9" height="59" alt="" border="0"></td>
+					<td bgcolor="#F4EDE1" valign="top"><a href="http://www.bedbathandbeyond.ca/rdCorpSales.asp?order_num=-1&amp;" class="blue">Corporate sales</a><br>
+					<a href="javascript:OpenViewWindow('/about_us.asp',530,430,'yes','yes');" class="blue">Investor relations</a> <br>  <a href="http://www.bedbathandbeyond.ca/rdCareers.asp?order_num=-1&amp;" class="blue">Careers</a>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#F4EDE1"><img src="/img/i.gif" width="4" height="1" alt="" border="0"></td><td bgcolor="#DCD8C0"><img src="/img/i.gif" width="2" height="1" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="779">
+	<tbody><tr>
+		<td rowspan="2" bgcolor="#DCD8C0"></td>
+		<td rowspan="2" align="center" bgcolor="#DCD8C0"></td>
+		<td colspan="2" bgcolor="#DCD8C0"><img src="/img/i.gif" width="1" height="5" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#DCD8C0" valign="top" align="right">100% Satisfaction Guaranteed.<br>
+		Help is always available at 1-800-GO BEYOND™ (1-800-462-3966)<br>
+		bedbathandbeyond.ca <br>
+		© 2007-2008 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</td>
+		<td bgcolor="#DCD8C0"><img src="/img/i.gif" width="4" height="70" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1966617-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+</body></html>
