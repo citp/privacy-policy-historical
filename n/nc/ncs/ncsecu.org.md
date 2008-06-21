@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224062832id_/http%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621230430id_/http%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# State Employees' Credit Union
+# Privacy Policy
 
 State Employees' Credit Union is committed to keeping our members' financial and personal information secure and confidential. Member information will not be sold for any reason and remains confidential even after termination of membership. 
 
@@ -28,9 +28,9 @@ Member information is kept secure and confidential through physical, electronic,
 
 ## Other Related Links:
 
-  * [How You Can Protect Yourself](https://web.archive.org/web/20071224062832id_/http%3A//www.ncsecu.org/Security/HowYouCanProtectYou.html)
-  * [Legal](https://web.archive.org/web/20071224062832id_/http%3A//www.ncsecu.org/Home/Legal.html)
-  * [Locator](https://web.archive.org/web/20071224062832id_/http%3A//www.ncsecu.org/Info/Locator.aspx)
-  * [Call Center](https://web.archive.org/web/20071224062832id_/http%3A//www.ncsecu.org/Home/ContactUs.html#phone)
+  * [How You Can Protect Yourself](https://web.archive.org/web/20080621230430id_/http%3A//www.ncsecu.org/Security/HowYouCanProtectYou.html)
+  * [Legal](https://web.archive.org/web/20080621230430id_/http%3A//www.ncsecu.org/Home/Legal.html)
+  * [Locator](https://web.archive.org/web/20080621230430id_/http%3A//www.ncsecu.org/Info/Locator.aspx)
+  * [Call Center](https://web.archive.org/web/20080621230430id_/http%3A//www.ncsecu.org/Home/ContactUs.html#phone)
 
 
