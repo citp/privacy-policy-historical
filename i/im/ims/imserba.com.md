@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imserba.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224161023id_/http%3A//imserba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imserba.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621165208id_/http%3A//www.imserba.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | imserba.com - Mobile Phone Community
+# Privacy Policy | imserba.com - free mobile cell phone applications, ringtones, themes, games, wallpapers, and screensavers
 
 Imserba.com respects your privacy.  
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Imserba.com.
