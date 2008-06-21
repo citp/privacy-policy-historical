@@ -1,0 +1,462 @@
+<!--The following is the downloaded HTML source of the trippert.com privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621173909id_/http%3A//www.trippert.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" class="webkit safari linux js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="keywords" content="">
+<title>Trippert: privacy</title>
+
+<script type="text/javascript" src="/js/scriptaculous/prototype.js"></script><script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/slider.js"></script><script type="text/javascript" src="/js/global.js"></script><script type="text/javascript" src="/js/css_browser_selector.js"></script><script type="text/javascript" src="/js/lightbox.js"></script><script type="text/javascript" src="/js/validation.js"></script><script type="text/javascript" src="/js/userbar.js"></script><script type="text/javascript">setRoot('/')</script>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+
+<link rel="shortcut icon" href="/favicon.ico">
+</head><body>
+<div id="page_head"></div>
+<div id="wrapper">
+	<script language="JavaScript">
+<!--
+function checkFeedbackForm()
+{
+	var result = true;
+	['feedback_from_email', 'feedback_body'].each(function(field) {
+		if (!checkFeedbackField(field))
+			result = false;
+	});
+	return result;
+}
+
+function checkFeedbackField(field)
+{
+	switch (field) {
+		case 'feedback_from_email':
+			if (!$VP.EMAIL.test($F('feedback_from_email').strip())) {
+				$V.showInlineError('feedback_from_email', 'Please enter a valid E-Mail address.');
+				return false;
+			} else {
+				$V.removeInlineError('feedback_from_email');		
+			}
+			break;
+		case 'feedback_body':
+			if ($F('feedback_body').strip() == '') {
+				$V.showInlineError('feedback_body', 'Please enter some text.');
+				return false;
+			} else {
+				$V.removeInlineError('feedback_body');		
+			}
+			break;
+		default:
+			return false;
+			break;
+	}
+	return true;
+}
+
+function resetFeedbackForm()
+{
+	if ($('feedback-form')) {
+		$('feedback-form').reset();
+	}
+	$V.removeInlineError('feedback_from_email');		
+	$V.removeInlineError('feedback_body');	
+}
+
+function submitFeedbackForm()
+{
+	if (!checkFeedbackForm()) return false;
+	new Ajax.Updater(document.createElement('div'), webroot+'pages/feedback', {
+		onLoading:function(request){onFeedbackLoading()}, 
+		onLoaded:function(request){onFeedbackLoaded()}, 
+		onComplete:function(request){onFeedbackComplete()}, 
+		asynchronous:true, evalScripts:true, parameters:Form.serialize('feedback-form')});
+}
+
+function onFeedbackLoading()
+{
+	Element.show("loading_feedback");
+	Element.hide("feedback-form-wrap");
+}
+
+function onFeedbackLoaded()
+{
+	Element.hide("feedback");
+	Element.show("feedback-form-wrap");
+	gLightBoxes['feedback'].deactivate();
+}
+
+function onFeedbackComplete()
+{
+	Element.hide("loading_feedback");
+	resetFeedbackForm();
+}
+//-->
+</script>
+
+<div id="feedback" class="pop">
+<div class="popup">
+<div class="popwrapper">
+
+<h2>Feedback</h2>
+
+<div id="loading_feedback" style="display:none">
+	<img src="/img/loading_small.gif" class="working_img"><span class="working">sending..</span>
+</div>
+
+<div id="feedback-form-wrap">
+	<form id="feedback-form" method="post" onsubmit="return false;">
+	<span class="highlight">Enter your email address and a message for feedback.</span>
+
+	<span class="highlight"></span>
+	<fieldset class="userdata">
+		<label>From:</label>
+		<div class="field"><input id="feedback_from_email" name="data[from_email]" type="text" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	
+	<span class="highlight">Enter some text</span>
+	<fieldset class="userdata">
+		<div class="field-big"><textarea id="feedback_body" name="data[text]" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></textarea></div>
+	</fieldset>
+	
+	<fieldset class="buttons" id="comment_buttons">
+		<a href="javascript:resetFeedbackForm();gLightBoxes['feedback'].deactivate();void(0)" class="cancel"><span>Cancel</span></a>
+		<input size="32" src="/img/btn_send.gif" name="submit" type="image" id="feedback_button">
+	</fieldset>
+	</form>
+	<script type="text/javascript">
+		Event.observe("feedback-form", 'keypress', function(event){ 
+			if (event.keyCode == Event.KEY_RETURN && Event.element(event).tagName=='INPUT') {
+				submitFeedbackForm();
+			}
+		}, false);
+		Event.observe("feedback_button", 'mouseover', function(event){Event.element(event).src=webroot+'img/btn_send_over.gif';});
+		Event.observe("feedback_button", 'mouseout', function(event){Event.element(event).src=webroot+'img/btn_send.gif';});
+	</script>
+	<script type="text/javascript">Event.observe($('feedback-form'), 'submit', function(event){ submitFeedbackForm() }, false);</script>	<script type="text/javascript">Event.observe($('feedback_from_email'), 'blur', function(event){ checkFeedbackField("feedback_from_email") }, false);</script>	<script type="text/javascript">Event.observe($('feedback_body'), 'blur', function(event){ checkFeedbackField("feedback_body") }, false);</script></div>
+</div> <!-- End the Wrapper id -->
+</div>
+</div><div id="register" class="pop">
+<div class="popup">
+<div class="popwrapper">
+<h2>Register</h2>
+<form name="signup" method="post" action="/users/register/">
+	<span class="highlight">Please enter your username between 3 and 14 characters</span>
+	<fieldset class="userdata">
+		<label for="reg-username">Username:</label>
+		<div class="field"><input id="reg-username" name="data[User][name]" type="text" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	
+	<span class="highlight">Please enter and confirm your private password</span>
+	<fieldset class="userdata">
+		<label for="reg-password">Password:</label>
+		<div class="field"><input id="reg-password" name="data[User][password]" type="password" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	<fieldset class="userdata">
+		<label for="reg-cpassword">Confirm Password:</label>
+		<div class="field"><input id="reg-cpassword" name="data[User][password2]" type="password" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	
+	<span class="highlight">Please enter a valid E-Mail address</span>
+	<fieldset class="userdata">
+		<label for="reg-email">E-Mail:</label>
+		<div class="field"><input id="reg-email" name="data[User][email]" type="text" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	
+	<span></span>
+	
+	<div class="login_tools">
+		<a href="javascript:gLightBoxes['login'].activate();void(0)">Already have an account?</a>		
+	</div>
+	
+	<div style="clear:both;"></div>
+		
+	<fieldset class="checkbox">
+		<input type="checkbox" checked="checked" name="data[User][autolog]" id="autologin">
+		<label for="autologin">Log me in automatically</label><br>
+		<input type="checkbox" id="register-agree">
+		<label for="register-agree">I agree to the </label><a href="/pages/terms" target="terms">Terms of Use and Privacy Policy</a>.
+	</fieldset>
+	<input type="hidden" name="data[url]" value="/pages/privacy/">
+	<span></span>
+	
+	
+	<fieldset class="buttons">
+		<a href="#" onclick="$V.removeErrors();document.signup.reset(); gLightBoxes['register'].deactivate(); void(0)" class="cancel"><span>Cancel</span></a>
+		<a href="#" id="signup-button"><span class="btn-text">Sign Up</span></a>
+		<script type="text/javascript">Event.observe($('signup-button'), 'click', function(event){ 
+		if (!$("register-agree").checked) {
+			alert("You need to agree to the Terms of Use and Privacy Policy.");
+			$("register-agree").focus();
+		} else if (!$V.validate()) {
+			var first = $V.errmsgs.keys().first();
+			$V.showInlineError(first);
+			$(first).focus();			
+		} else {
+			document.signup.submit(); 			
+		}
+		 }, false);</script>	</fieldset>
+	
+</form>
+<script type="text/javascript">
+	$V.addValidator("reg-username", new Validation.Validator({regexp: $VP.REQUIRED, errmsg:"Please enter username."}));
+	$V.addValidator("reg-username", new Validation.Validator({handle: $VV.isInStringRange, args:[3,14], errmsg:"Please enter your username between 3 and 14 characters long."}));
+	$V.addValidator("reg-password", new Validation.Validator({regexp: $VP.REQUIRED, errmsg:"Please enter your password."}));
+	$V.addValidator("reg-password", new Validation.Validator({handle: $VV.isInStringRange, args:[6,20], errmsg:"Please enter your password between 6 and 20 characters long."}));
+	$V.addValidator("reg-cpassword", new Validation.Validator({regexp: $VP.REQUIRED, errmsg:"Please enter confirm password."}));
+	$V.addValidator("reg-cpassword", new Validation.Validator({handle: $VV.isEqual, args:["reg-password"], errmsg:"Confirm password must be the same as password."}));
+	$V.addValidator("reg-email", new Validation.Validator({regexp: $VP.REQUIRED, errmsg:"Please enter an E-Mail address."}));
+	$V.addValidator("reg-email", new Validation.Validator({regexp: $VP.EMAIL, errmsg:"Please enter a valid E-Mail address."}));
+</script></div> <!-- End the Wrapper id -->
+</div>
+</div>
+	<div id="login" class="pop">
+	<div class="popup">
+	<div class="popwrapper">
+	<h2>login</h2>
+	<span id="login_msg" class="highlight">Enter your username and password below:</span>
+	<div id="login_status" style="display:none;"></div>
+	<form name="login" id="login-form" method="post" action="/users/login/" onsubmit="return false">
+		<input type="hidden" name="data[url]" value="pages/privacy/">
+		<fieldset class="userdata">
+			<label for="login-username">Username:</label>
+			<div class="field" id="login-username-div">
+				<input id="login-username" name="data[User][username]" value="" type="text" onfocus="this.style.borderColor='#FF9933';removeError();" onblur="this.style.borderColor='#555'">
+				<span id="login-usernameErrorField" style="display:none">Invalid Username or Password. Please Try Again.</span>
+			</div>
+		</fieldset>
+	
+		<fieldset class="userdata">
+			<label for="login-password">Password:</label>
+			<div class="field">
+				<input id="login-password" name="data[User][password]" type="password" onfocus="this.style.borderColor='#FF9933';removeError();" onblur="this.style.borderColor='#555'">
+			</div>
+		</fieldset>
+	
+		<div class="login_tools">
+			<a href="#" rel="retrieve_password" class="lbOn">Forgotten your password?</a>
+			<a href="javascript:gLightBoxes['register'].activate();void(0)">Not registered yet?</a>		
+		</div>
+	
+		<div style="clear:both;"></div>
+	
+		<fieldset class="checkbox">
+			<input type="checkbox" name="data[User][remember]" id="remember" checked="checked">
+			<label for="remember">Log me in on this computer</label>
+		</fieldset>
+	
+		<fieldset class="buttons">
+			<a href="#" onclick="reset();gLightBoxes['login'].deactivate(); void(0)" class="cancel"><span>Cancel</span></a>
+			<input type="image" src="/images/btn_login.gif" id="login_button" onclick="return false;">
+		</fieldset>
+		<div style="display:none"><input type="submit"></div>
+		<script type="text/javascript">
+			Event.observe("login-form", 'keypress', function(event) {if ($B.isIE && event.keyCode == Event.KEY_RETURN) { submitLoginForm();}});
+			Event.observe("login_button", 'mouseover', function(event){Event.element(event).src=webroot+'images/btn_login_over.gif';});
+			Event.observe("login_button", 'mouseout', function(event){Event.element(event).src=webroot+'images/btn_login.gif';});
+			Event.observe("login_button", 'click', submitLoginForm, false);
+			var current_url = "";		
+			function submitLoginForm() { 
+				new Ajax.Updater('login_status','/users/login', 
+				{	asynchronous:true, 
+					evalScripts:true, 
+					parameters:Form.serialize($('login-form')), 
+					requestHeaders:['X-Update', 'prompt_message'],
+					onComplete: function() {afterVerification()}
+				}) 
+			}
+			function afterVerification() {
+				var authentication = $("login_status").innerHTML;
+				if(authentication=="yes") {
+					if (current_url)
+						top.location.href = current_url;	//redirect previous url
+					else
+						window.location.reload();				
+				} else {
+					Element.addClassName($('login-username-div'), 'error_message');					
+					$('login-usernameErrorField').show();
+				}			
+			}
+			function removeError() {
+				Element.removeClassName($('login-username-div'), 'error_message');
+				$('login-usernameErrorField').hide();
+			}
+			function resetInputs() {
+				$('login-username').value = login_name;
+				$('login-password').value = '';
+			}
+			function reset() {
+				removeError();
+				resetInputs();
+			}
+			var login_name = "";
+		</script>	
+	</form>
+
+	</div><!-- End the Wrapper id -->
+	</div>
+	</div>
+	<div id="retrieve_password" class="pop">
+<div class="popup">
+<div class="popwrapper">
+
+<h2>Retrieve Password</h2>
+<span class="normal">Enter your E-Mail address below</span>
+
+<form name="retrieve_password" method="post" action="/users/retrieve_password/">
+	<fieldset class="userdata">
+		<label for="retrieve-password-email">E-Mail:</label>
+		<div class="field"><input id="retrieve-password-email" name="data[User][email]" type="text" onfocus="this.style.borderColor='#FF9933'" onblur="this.style.borderColor='#555'"></div>
+		<div class="clear"></div>
+	</fieldset>
+	
+	<fieldset class="buttons">
+		<a href="#" class="lbAction cancel" rel="deactivate"><span>Cancel</span></a>
+		<a href="#" onclick="document.retrieve_password.submit()" id="retrieve-password-button"><span>Retrieve Password</span></a>
+	</fieldset>
+	
+</form>
+
+</div><!-- End the Wrapper id -->
+</div>
+</div>
+	<div style="display:none">&nbsp;</div> <!-- IE FIX -->
+</div><!-- end of wrapper -->
+<div id="deco"></div>
+<div id="container">
+		<div id="header">
+				<div class="logo">
+	<a href="/">
+		<img src="/img/trippert_beta_logo.png" alt="Trippert Logo" id="trippert_logo">	</a>
+</div>
+
+<div>
+<div id="login_status_wrap">
+	<div class="login_status not_logged_in">
+		You are not logged in, so <a href="#register" onclick="gLightBoxes['register'].activate(); void(0);" class="lbOn" rel="register">Register!</a> or 
+		<a id="signin" href="#login" rel="login" class="lbOn">Sign in!</a>
+	</div>
+	<span id="login-status-value" style="display:none">not in</span>
+</div>
+</div>				<div id="navbar">
+						<ul>
+		<li><a href="/">home</a></li>
+		<li><a href="/pages/community/">community</a></li>
+		<li><a href="/posts/add/">new article</a></li>
+		<li><a href="#feedback" rel="feedback" class="lbOn">feedback</a></li>
+</ul>						<div id="search-block">
+<form id="mini-search-form" name="searchform" action="/pages/search" method="post">
+	<a href="javascript:$('mini-search-form').submit();void(0)" id="mini-submit">Search</a>
+	<input type="text" id="mini-input" name="data[search]" onkeypress="if (event.keyCode == Event.KEY_RETURN) { $('mini-search-form').submit(); }">
+</form>
+</div>				</div> 
+		</div>
+		
+		
+				 
+		<!-- Content Starts-->
+		<div id="content">
+<h3>Privacy</h3>
+<p>Okay, so like the Terms of Use, lots of legalese below. Here's where we tell you about all the stupid stuff we're not going to do with your private information. Like selling it to magazine peddlers. Or using it to spam you. We're new, and we're not going to piss you off now or later. So any email you get for comments added or wiki updates you have the option to opt out from in your Preferences. We'll use cookies etc. to smooth the customer experience, but not to exploit your private info. Got questions? Ask us at <a href="mailto:info@Trippert.com">info@tripper.com</a> or click <a href="#feedback" rel="feedback" class="lbOn">here</a>.<br><br></p>
+
+<p class="title">Trippert Privacy Policy</p> 
+<p>May 15, 2006</p>
+
+<p>At Trippert we recognize that privacy is important. This Policy applies to all of the products, services, and websites offered by Trippert, Inc. or its subsidiaries or affiliated companies such as <a href="http://www.trippert.com">www.trippert.com</a> or <a href="http://www.gophernow.com">www.gophernow.com</a> (collectively, Trippert's "services").</p>
+
+<p>Trippert adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and will be registering with the <a href="http://www.export.gov/safeharbor/">U.S. Department of Commerce's safe harbor program</a>.</p>
+
+<p>If you have any questions about this Policy, please feel free to contact us through our website or write to us at <b>Trippert Privacy Matters, c/o John Bautista, Orrick, Herrington &amp; Sutcliffe, 1000 Marsh Road, Menlo Park, CA 94025, USA</b>.</p>
+
+<p class="title">Information we collect and how we use it:</p>
+<p>We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Trippert or Gophernow Search. In order to provide our full range of services, we may collect the following types of information:</p>
+<ul>
+	<li><b>Information you provide</b> - When you sign up for a <b>Trippert or Gophernow Account</b> or other Trippert service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, we may also request credit card or other payment account information which we will maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Trippert services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.  We may use this information you provide to contact you with information relating to articles you have posted or restaurants you have reviewed, to inform you of updates to your articles, posts, or accounts, or for services in which you have indicated an interest, as well as to verify the information you have provided us.  We will not sell your contact information to other companies. </li>
+	<li><b>Trippert cookies</b> - When you visit Trippert services, we send one or more cookies - a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies and session logs that track your actions during your visit to the site to improve the quality of our service by storing user preferences and tracking user trends, such as how people search and browse the site. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Trippert features and services may not function properly if your cookies are disabled or if session log tracking is refused. </li>
+	<li><b>Log information</b> - When you use Trippert services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, geographic location, the date and time of your request and one or more cookies or session logs that may uniquely identify your browser. </li>
+	<li><b>User communications</b> - When you send email or other communication to Trippert, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. </li>
+	<li><b>Affiliated sites</b> - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Trippert in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. </li>
+	<li><b>Links</b> - Trippert may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. </li>
+	<li><b>Other sites</b> - This Privacy Policy applies to web sites and services that are owned and operated by Trippert. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. </li>
+</ul>
+	
+<p>Trippert only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:</p>
+<ul>
+	<li>Providing our products and services to users, including the display of customized content and advertising; </li>
+	<li>Auditing, research and analysis in order to maintain, protect and improve our services; </li>
+	<li>Ensuring the technical functioning of our network; and </li>
+	<li>Developing new services. </li>
+</ul>
+
+<p>Trippert processes personal information on our servers in the United States of America and possibly in other countries. In some cases, we may process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.</p>
+
+<p class="title">Choices for personal information</p> 
+
+<p>When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. </p>
+<p>If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive personal information that we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. </p>
+<p>You can decline to submit personal information to any of our services, in which case Trippert may not be able to provide those services to you. </p>
+
+<p class="title">Information sharing </p>
+
+<p>Trippert only shares personal information with other companies or individuals outside of Trippert in the following limited circumstances: </p>
+<ul>
+	<li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information. </li>
+	<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. </li>
+	<li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable <b>Terms of Service</b>, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Trippert, its users or the public as required or permitted by law. </li>
+</ul>
+
+<p>If Trippert becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice if after the transfer of the company the personal information will become subject to a substantively different privacy policy. </p>
+<p>We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. </p>
+<p>Please contact us at the address below for any additional questions about the management or use of personal data. </p>
+
+<p class="title">Information security </p>
+
+<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. </p>
+<p>We restrict access to personal information to Trippert employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. </p>
+
+<p class="title">Data integrity </p>
+
+<p>Trippert processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. </p>
+
+<p class="title">Accessing and updating personal information </p>
+
+<p>When you use Trippert services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. </p>
+
+<p class="title">Enforcement </p>
+
+<p>Trippert regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Trippert's treatment of personal information by <b>contacting us</b> through this web site or by writing to us at Privacy Matters, c/o John Bautista, Orrick, Herrington &amp; Sutcliffe, 1000 Marsh Road, Menlo Park, CA 94025. When we receive formal written complaints at this address, it is Trippert's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Trippert and an individual. </p>
+
+<p class="title">Changes to this policy </p>
+
+<p>Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. </p>
+<p>If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, Trippert, Inc., c/o John Bautista, Orrick, Herrington &amp; Sutcliffe, 1000 Marsh Road, Menlo Park, CA 94025, USA. </p>
+
+
+</div>
+
+<div id="sidebar">
+	<h3>More</h3>
+	<ul class="list1">
+	<li class="li-tag"><a href="/pages/about">About Trippert</a></li><li class="li-tag"><a href="/pages/terms">Terms of Use</a></li><li class="li-tag"><a href="/pages/contact">Contact Us</a></li>	</ul>
+</div>
+		
+				
+		<!-- Content Ends -->
+		<div id="footer">
+	<ul>
+		<li class="first"><a href="/pages/about/">about</a></li>
+		<li><a href="/pages/contact/">contact</a></li>
+		<li><a href="/pages/terms/">terms</a></li>
+		<li><a href="/pages/privacy/">privacy</a></li>
+	</ul>
+</div>
+<p class="info-line"><img src="/img/btn_cakePHP.gif" alt="CakePHP" title="CakePHP"> <span>© Copyright 2007 trippert inc.</span></p></div>
+<!-- google analytics starts -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">_uacct = "UA-405580-1"; urchinTracker();</script>
+<!-- google analytics ends -->
+
+<div id="overlay"></div></body></html>
