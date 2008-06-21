@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212041257id_/http%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621132359id_/http%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Piano Street
 
@@ -21,7 +21,7 @@ When registering for an account your email will be stored and used for sending y
 
 If you have your account preferences set to receive our newsletters we will send you news, information about added content and special offers (approximately one e-mail per month).
 
-If you do not want to receive newsletters and website information from us, please let us know by using the contact details below or by checking "Unsubscribe" at <http://www.pianostreet.com/amember/profile.php>.
+If you do not want to receive newsletters and website information from us, please let us know by using the contact details below, by following the "unsupscribe" link in any of our emails or by checking the "Unsubscribe" setting in your membership profile at <http://www.pianostreet.com/amember/profile.php>.
 
 Your e-mail address will not be visable to other forum members unless you deliberately chose to share it by changing the setting at <http://www.pianostreet.com/amember/profile.php>.  
 
@@ -45,11 +45,11 @@ We have appropriate security measures in place in our physical facilities to pro
 Our postal address is: 
 
 Op 111 Productions   
-Varvsgatan 10A  
-SE-11728 Stockholm  
+Borgargatan 6   
+SE-11734 Stockholm  
 Sweden
 
-We can be reached via e-mail at [customerservice@pianostreet.com](mailto:customerservice@pianostreet.com) or you can reach us by telephone at +46 8720 0430 or +46 707 355 777
+We can be reached via e-mail at [customerservice@pianostreet.com](mailto:customerservice@pianostreet.com) or you can reach us by telephone at +46 8 7200 430 or +46 707 355 777
 
 **
 
