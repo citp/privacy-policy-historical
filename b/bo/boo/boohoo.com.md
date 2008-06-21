@@ -1,85 +1,112 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411002427id_/http%3A//www.yahoo.com/r/pv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621215554id_/http%3A//www.boohoo.com/Help/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# boohoo.com
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com)  
-**Special Topics**  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [Childrens' Privacy Policy](https://web.archive.org/privacy/us/kids/details.html)  
-[All special topics...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Policy/Privacy/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
+### boohoo.com Privacy Policy
+
+We are committed to protecting and respecting the privacy of all visitors and users of this website. 
+
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws. 
+
+**By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy.**   
+**You should print a copy of this privacy policy for future reference.**
+
+**What personal information do we collect?**
+
+If you decide to make an order with us, there is certain personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number). 
+
+We will only pass on your personal information to third parties if it is an essential part of trading with you (i.e. passing on you name and address to our carriers). We will not rent or sell your name, address, email address, credit card details or any other personal information to any unrelated third party. 
+
+From time to time we may also request further information to help us improve our service to you. 
+
+We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+
+**IP addresses and cookies**
+
+We also use your Internet Protocol (IP) address. An IP address is a set of numbers, which is assigned to your computer during a browsing session. It is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally. 
+
+Our site uses cookies to keep track of your visits to our website. A cookie is a small file that can be stored by your browser on your computer's hard drive. We use cookies to save your email address and password so that you don't have to re-enter it every time you visit our site. Cookies also help us to recognise when you visit our website and note the areas that are of interest to you. This allows us to tailor the service we provide. 
+
+Cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites. 
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+
+Please note that our advertisers may also use cookies, over which we have no control. 
+
+**Site statistics**
+
+We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the site. This provides statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. Boohoo.com Limited uses this information to help improve the site and services to its users. 
+
+**Where we store your personal data**
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+We follow strict security procedures in the storage and disclosure of personal information to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall. 
+
+We use secure socket layer software (SSL) to encrypt all of your personal information including your credit card number and your name and address. This technology prevents you from inadvertently revealing personal information using an insecure connection. 
+
+The Thawte Secure Site Program allows you to learn more about web sites you visit before you submit any confidential information. When you see a Thawte logo, clicking on it will verify that this web site is secure. 
+
+No credit or debit card details are stored once your order has been processed. This is why you can save your delivery address but need to enter your card details for every transaction. 
+
+We recommend that you always close down your internet browser when you have finished shopping online especially if you use a shared PC. This will delete temporary cookies from any sites that you may have visited. 
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+
+**We will never send an email or telephone you to ask for your security information or log on details.**
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site. Any transmission is at your own risk. You accept the inherent security risks of providing information and dealing on line over the internet. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We will not be held responsible for any breach of security unless this is due to our negligence or wilful default. 
+
+**Uses made of the information**
+
+We may use information held about you to: 
+
+  * set up, manage your account and contact you about your account;
+  * ensure that content from our site is presented in the most effective manner for you and for your computer;
+  * provide you with, or permit third parties to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
+  * carry out our obligations arising from any contracts entered into between you and us;
+  * allow you to participate in interactive features of our service, when you choose to do so; and,
+  * notify you about changes to our service.
+
+
+
+**Marketing and Communications**
+
+You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may, from time to time, send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies. 
+
+**Disclosure of your information**
+
+We may disclose your personal information: 
+
+1\. to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985; 
+
+2\. if Boohoo.com Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets; 
+
+3\. to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction; 
+
+4\. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or, 
+
+5\. in order to enforce or apply our terms of use **[terms of use](http://www.boohoo.com/Help/TermsOfUse.php)** or **[terms and conditions of supply of products](http://www.boohoo.com/Help/Terms.php)** and other agreements; or to protect the rights, property, or safety of Boohoo.com Limited our customers, or others. 
+
+Unless required to do so by law, we will not otherwise share, sell or distribute any of the personal information you provide to us without your consent. 
+
+**Your rights**
+
+**Opting Out**
+
+If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter your will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing. 
+
+**Access to information**
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at 32 Hilton Street, Manchester, M1 2EH. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+**Changes to our privacy policy**
+
+We reserve the right to change this policy at any time. If we change our privacy policy we will post the changes on this website. 
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 32 Hilton Street, Manchester, M1 2EH. 
+
   
-* * *  
-  
-  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children. 
-
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.**
-
-**What this Privacy Policy Covers**  
-
-
-  * This Privacy Policy covers Yahoo!'s treatment of personally identifiable information that Yahoo! collects when you are on the Yahoo! site, and when you use Yahoo!'s services. This policy also covers Yahoo!'s treatment of any personally identifiable information that Yahoo!'s business partners share with Yahoo!. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy. 
-
-**Information Collection and Use**  
-
-
-  * Yahoo! collects personally identifiable information when you register for a Yahoo! account, when you use certain [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages, and when you enter [ promotions or sweepstakes](http://privacy.yahoo.com/privacy/us/promo/details.html). Yahoo! may also receive personally identifiable information from our business partners. 
-  * When you register with Yahoo!, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://privacy.yahoo.com/privacy/us/ip/details.html), Yahoo! [cookie](http://privacy.yahoo.com/privacy/us/cookies/details.html) information and the page you requested. 
-  * Yahoo! uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
-
-**Information Sharing and Disclosure**  
-
-
-  * Yahoo! will not sell or rent your personally identifiable information to anyone. 
-  * Yahoo! may send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information; 
-    * We need to share your information to provide the product or service you have requested; 
-    * We need to send the information to companies who work on behalf of Yahoo! to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
-    * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web sites violate the [Yahoo! Terms of Service](http://docs.yahoo.com/info/terms/), the [Yahoo! GeoCities Terms of Service](http://docs.yahoo.com/info/terms/geoterms.html), or any of our usage guidelines for specific products or services. 
-
-**Cookies**  
-
-
-  * Yahoo! may set and access Yahoo! [cookies](http://privacy.yahoo.com/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! allows [other companies](http://privacy.yahoo.com/privacy/us/adservers/details.html) that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [web beacons](http://privacy.yahoo.com/privacy/us/pixels/details.html) to access our cookies within our network of web sites and in connection with Yahoo! products and services.
-
-**Your Ability to Edit and Delete Your Account Information and Preferences**  
-
-
-  * Yahoo! gives you the ability to edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile) and preferences at any time, including whether you want Yahoo! to contact you about specials and new products. 
-  * You may request deletion of your Yahoo! account by sending an email to [ account-remove@yahoo-inc.com](mailto:account-remove@yahoo-inc.com). Please [click here](http://privacy.yahoo.com/privacy/us/archives/details.html) to read about what information may possibly remain in our archived records after your account has been deleted.
-
-**Security**  
-
-
-  * Your Yahoo! Account Information is password-protected for your privacy and security. 
-  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions.
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
-
-**Questions or Suggestions**  
-
-
-  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback). 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/watchdog.html), an independent privacy organization. 
-
 
