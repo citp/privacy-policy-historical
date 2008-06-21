@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214224000id_/http%3A//aspalliance.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621061304id_/http%3A//aspalliance.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: ASP Alliance
 
