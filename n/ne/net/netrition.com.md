@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231075240id_/http%3A//www17.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622012754id_/http%3A//www4.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
@@ -38,8 +38,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Relations  
 Netrition, Inc.  
-20 Petra Lane  
-Albany, NY 12205  
+25 Corporate Circle, Suite 118  
+Albany, NY 12203  
 Or [contact us online](http://www.netrition.com/cgi/feedback_form.cgi)
 
 |  | 
