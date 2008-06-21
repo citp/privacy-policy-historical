@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224051124id_/http%3A//www.uts.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621214716id_/http%3A//www.uts.edu.au/privacy.html) for the most accurate reproduction.*
 
 # UTS: Privacy - University of Technology, Sydney
 
