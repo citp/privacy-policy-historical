@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228032601id_/http%3A//www.qwest.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621153706id_/http%3A//www.qwest.com/privacy) for the most accurate reproduction.*
 
-# Qwest | Legal Notices
+# Corporate | Legal | Customer Privacy Policy
 
-| 
-
-**Date: **November 14** , 2005**
+**Date: November 14, 2005**
 
 **Welcome to the Qwest Online Privacy Policy. We appreciate your business and thank you for taking an interest in our privacy policy.**
 
-**_ONLINE PRIVACY POLICY_**
-
-Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20071228032601id_/http%3A//www.qwest.com/privacy/privacyGeneral.html) and the [Qwest ChoiceTM TV & OnLine Services Customer Privacy Policy](https://web.archive.org/privacy/choice_privacy.html).
+Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20080621153706id_/http://www.qwest.com/privacy/privacyGeneral.html) and the [Qwest Choice™ TV & OnLine Services Customer Privacy Policy](https://web.archive.org/privacy/choice_privacy.html).
 
 **Table of Contents**
 
@@ -33,7 +29,7 @@ We collect personal information when you visit our Web sites, request products a
 
 In addition, when you visit a Qwest Web site, our servers automatically log certain technical information, such as the name of your Internet Service Provider (ISP), your IP address, browser type, and operating system. We use Internet technologies to learn more about how our Web sites are used, such as how often certain pages are viewed, and how much time users spend on those pages. This information is not used in a form that identifies you. To learn more about how this information is used, see "What are cookies and how do I disable them?"
 
-For our Qwest.netTM and Qwest Choice Online® customers **** \- as part of our ongoing efforts to improve our service, we or someone acting on our behalf may collect information about how you use our service and the Internet.  Qwest does not use this information in a personally identifiable form except under the following circumstances:  if we have reason to believe that an account is being used in a manner that violates the Qwest Subscription Agreement, the Qwest Acceptable Use Policy, or any applicable law or regulation; to protect the integrity of our services or network; to assert or defend our legal rights or those of a third party; pursuant to a lawful request from a government or legal authority, or where we have a good faith belief that it is needed to prevent harm or provide assistance to a third party. ****
+For our Qwest.net™ and Qwest Choice Online® customers **** \- as part of our ongoing efforts to improve our service, we or someone acting on our behalf may collect information about how you use our service and the Internet. Qwest does not use this information in a personally identifiable form except under the following circumstances:  if we have reason to believe that an account is being used in a manner that violates the Qwest Subscription Agreement, the Qwest Acceptable Use Policy, or any applicable law or regulation; to protect the integrity of our services or network; to assert or defend our legal rights or those of a third party; pursuant to a lawful request from a government or legal authority, or where we have a good faith belief that it is needed to prevent harm or provide assistance to a third party. ****
 
 **How does Qwest use personal information collected online?**   
 In general, Qwest uses personal information collected online to provide products and services and to operate our business, for example, for billing and collection activities. We use personal information collected online to address your questions and concerns, to understand how you use our products and services, to give you information about our products and services, and to improve our services. Qwest also uses personal information collected online to comply with laws and regulations, to assert or establish our legal rights, and to defend our legal interests. 
@@ -92,10 +88,10 @@ Choose **View Stored Cookies** from the submenu to open the Cookie Manager windo
     * **Safari Example:**   
 Choose **Preferences** from the Safari menu and click **Security**. Select **Never** , **Always** , or **Only from sites you navigate to** , to set your preferences at the level you desire. To see the cookies stored on your computer, click **Show Cookies**. From here you have the option to remove one or two cookies or all cookies. 
   * Most browsers have instructions on how to disable cookies in their "Help" sections. Or you can reference your specific browser's Internet-based support sections below for cookie disabling instructions. 
-    * [**Microsoft ® Internet Explorer**](http://www.microsoft.com/windows/ie/support/)
-    * [**Netscape ®**](http://browser.netscape.com/ns8/help/default.jsp)
-    * [**Mozilla Firefox ™ **](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
-    * [**Macintosh ® Safari** ](http://www.apple.com/support/safari)
+    * [Microsoft® Internet Explorer](http://www.microsoft.com/windows/ie/support/)
+    * [Netscape®](http://browser.netscape.com/ns8/help/default.jsp)
+    * [Mozilla Firefox™](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
+    * [Macintosh® Safari](http://www.apple.com/support/safari)
   * **Another cookie resource**   
 For additional information about cookies, visit [How Stuff Works](http://www.howstuffworks.com/cookie.htm)
 
