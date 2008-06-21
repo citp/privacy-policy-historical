@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012001548id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621234531id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Scanna - easy way to meet Russian brides – Privacy Statement
+# Scanna - easy way to meet Russian brides - Privacy Policy
+
+| 
 
 **CONFIDENTIAL DATA NON-DISTRIBUTION AGREEMENT**
 
@@ -80,3 +82,6 @@ The present Agreement is an open and publicly accessible document. The current e
 > 4\. Scanna right to modify the Agreement
 
 Scanna reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. 
+
+  
+
