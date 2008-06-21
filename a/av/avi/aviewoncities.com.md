@@ -1,47 +1,19 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029135528id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621044355id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
 # A View On Cities - Privacy Policy
 
----  
-|  |  [Home](https://web.archive.org/) |  [City Index](https://web.archive.org/_cityindex.htm) |  [Attractions](https://web.archive.org/_attractions.htm) |  [Hotels](https://web.archive.org/_travelcenter.htm) |  [Buildings](https://web.archive.org/_buildingindex.htm) |  [Facts](https://web.archive.org/_cityfacts.htm) |  [Maps](https://web.archive.org/_citymaps.htm) |  [Pictures](https://web.archive.org/gallery/_galleryindex.htm) |  [Posters](https://web.archive.org/_posters.htm) |  [Sitemap](https://web.archive.org/_sitemap.htm) |   
----|---|---|---|---|---|---|---|---|---|---|---  
-[A View On Cities](http://www.aviewoncities.com/) > [Privacy Policy](https://web.archive.org/_privacy.htm)  
-   
-  
-  
-| 
+The privacy of our visitors to aviewoncities.com is important to us. 
 
-Information collected  \-   Use of information   \-   External links  
-  
----  
-   
- Information collected  
-   
-  
-The following information is collected when you visit A View on Cities:
+At aviewoncities.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit aviewoncities.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
-   \- information automatically recorded by web logs, e.g. ip address, browser type
+Log Files
 
-   \- when you give feedback or send recommendations we do store your e-mail address for internal use only; we do not link it with an IP address or any other data.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-This site does _not   _ make use of cookies or user sessions.  
-  
-   
- Use of Information  
-   
-  
-None of the information gathered when you visit this site is communicated with external parties.
+Cookies and Web Beacons 
 
-You will not receive any promotional material from A View on Cities.  
-  
-   
- External Links  
-   
-  
-Please be aware that other internet sites to which a user hyperlinks from the site may contain privacy provisions that differ from the provisions provided herein. A View on Cities is not responsible for such provisions and expressly disclaims any and all liability related to such provisions.  
-  
-   
-  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
+We also use third party advertisements on aviewoncities.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
- 
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
