@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012141401id_/http%3A//www.healthequity.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621223331id_/http%3A//www.healthequity.com/About-HealthEquity/Privacy-Policy/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# HealthEquity/Privacy Policy/
+# Privacy Policy
 
 We understand your concerns about the security of information relating to you and your account(s) and want to assure you that we will always safeguard your information. Most importantly, we want you to know that we do not sell our customer lists or individual customer information.
 
-**Information We Collect**  
+ **Information We Collect**  
 Information that we collect about you may come from any or all the following sources: 
 
   * Information from you on applications or other forms, such as your name, address, Social Security Number and medical information, whether provided directly to us or to your health insurance provider;
@@ -14,7 +14,9 @@ Information that we collect about you may come from any or all the following sou
   * Information about you that we obtain through healthequity.com;
   * If you have a credit line, information from consumer reporting agencies, such as your credit history or creditworthiness.
 
-**How We Use Information**
+
+
+ **How We Use Information**
 
 We retain your personal information to help us develop products and services and may, from time to time, provide such information to nonaffiliated third party service providers to perform services for or functions on behalf of HealthEquity, to effect, administer, or enforce transactions authorized by you; for example,
 
