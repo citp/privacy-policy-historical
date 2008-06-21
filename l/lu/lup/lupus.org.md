@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223002150id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621033859id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
 
 # LUPUS FOUNDATION OF AMERICA
 
