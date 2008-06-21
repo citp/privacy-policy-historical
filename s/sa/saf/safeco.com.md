@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216221211id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621045400id_/http%3A//www.safeco.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Safeco - Consumer Privacy Policy
-
-### Consumer Privacy Policy
+# Privacy Policy - Safeco
 
 Effective Date: 07/06/2006
 
 Safeco appreciates the trust you place in us when you purchase insurance from one of our companies. We are committed to protecting your nonpublic personal information ("personal information") and we value you as a customer. 
 
-To learn more about how Safeco collects and uses your personal information, please read the following notice. 
+To learn more about how Safeco collects and uses your personal information, please read the following notice.
 
 #### Safeco's sources of information about you
 
@@ -16,8 +14,8 @@ We collect personal information about you from different sources, including:
 
   * The information you provide on applications or other forms (such as your name, address and Social Security number) 
   * Your transactions with us, our affiliates or others (such as your payment history and claims information) 
-  * The information we receive from a consumer reporting agency or insurance support organization (such as your credit history, driving record or claims history) 
-  * Your independent insurance distributor (such as updated information pertaining to your account) 
+  * The information we receive from a consumer reporting agency or insurance support organization (such as your credit history, driving record or claims history)
+  * Your independent insurance distributor (such as updated information pertaining to your account)
 
 
 
@@ -35,31 +33,31 @@ The independent insurance agents and brokers authorized to sell Safeco products 
 
 #### Information about Safeco web sites
 
-> **Information collected**  
->  We collect personal information (for example, name, address, e-mail address) on our web site only when you voluntarily provide it to us. Only your domain is recognized when you visit our web site; your individual e-mail address is not.
-> 
-> **Information sharing and use**  
->  Safeco does not sell information about you to others. If you only browse our web site and do not supply any information, you will not receive unsolicited e-mail, telephone calls, or other marketing materials from Safeco as a result of your visit. 
-> 
-> When you make changes to your account or request more information about our products, we may forward information that you supply to us to your independent Safeco insurance agent or broker. We do this so they can service your account or contact you with additional information about our products. 
-> 
-> **Cookies**  
->  Our web site sends cookies to your computer. We use cookies to carry forward information you entered on one page to other pages you visit. The data in the cookies we serve can be used only by our web site and do not contain your personal information. Our cookies do not read data from your computer's hard disk or other web sites' cookies.
-> 
-> Safeco does not serve or use cookies that store and track your visits to other web sites. 
-> 
-> **Browsers & Security**  
->  We use Secure Socket Layer (SSL) encryption technology. SSL protects information as it crosses the Internet. You can tell if you are visiting a secure area by looking at the padlock symbol at the bottom of your browser screen. If it is "locked," you have a secure session.
-> 
-> Safeco has security measures in place to protect the loss, misuse, and alteration of your personal information. Our servers are located in the United States of America and are designed to prevent unauthorized access.
-> 
-> **Links to other sites**  
->  Safeco.com contains links to other web sites. These other web sites are not under Safeco's direct control, and they may collect information about you that Safeco does not. We are not responsible for the privacy practices or the content of linked web sites.
+**Information collected**  
+We collect personal information (for example, name, address, e-mail address) on our web site only when you voluntarily provide it to us. Only your domain is recognized when you visit our web site; your individual e-mail address is not.
+
+**Information sharing and use**  
+Safeco does not sell information about you to others. If you only browse our web site and do not supply any information, you will not receive unsolicited e-mail, telephone calls, or other marketing materials from Safeco as a result of your visit.
+
+When you make changes to your account or request more information about our products, we may forward information that you supply to us to your independent Safeco insurance agent or broker. We do this so they can service your account or contact you with additional information about our products.
+
+**Cookies**  
+Our web site sends cookies to your computer. We use cookies to carry forward information you entered on one page to other pages you visit. The data in the cookies we serve can be used only by our web site and do not contain your personal information. Our cookies do not read data from your computer's hard disk or other web sites' cookies.
+
+Safeco does not serve or use cookies that store and track your visits to other web sites.
+
+**Browsers & Security**  
+We use Secure Socket Layer (SSL) encryption technology. SSL protects information as it crosses the Internet. You can tell if you are visiting a secure area by looking at the padlock symbol at the bottom of your browser screen. If it is "locked," you have a secure session.
+
+Safeco has security measures in place to protect the loss, misuse, and alteration of your personal information. Our servers are located in the United States of America and are designed to prevent unauthorized access.
+
+**Links to other sites**  
+Safeco.com contains links to other web sites. These other web sites are not under Safeco's direct control, and they may collect information about you that Safeco does not. We are not responsible for the privacy practices or the content of linked web sites.
 
 #### Protecting your personal information from unauthorized access
 
-We maintain physical, electronic and procedural safeguards to protect your personal information.   
-Our employees are authorized to access customer information only for legitimate business purposes. 
+We maintain physical, electronic and procedural safeguards to protect your personal information.  
+Our employees are authorized to access customer information only for legitimate business purposes.
 
 #### Your medical information
 
@@ -76,18 +74,20 @@ Please be aware that we may periodically update or revise this Statement. Please
 
 #### This Privacy Statement applies to the following members of the Safeco family of companies:
 
-> **American Economy Insurance Company  
->  American States Insurance Company  
->  American States Insurance Company of Texas  
->  American States Lloyds Insurance Company  
->  American States Preferred Insurance Company  
->  First National Insurance Company of America  
->  General Insurance Company of America  
->  Insurance Company of Illinois  
->  Safeco Insurance Company of America  
->  Safeco Insurance Company of Illinois  
->  Safeco Insurance Company of Indiana  
->  Safeco Insurance Company of Oregon  
->  Safeco Lloyds Insurance Company  
->  Safeco National Insurance Company   
->  Safeco Surplus Lines Insurance Company**
+  * American Economy Insurance Company
+  * American States Insurance Company
+  * American States Insurance Company of Texas
+  * American States Lloyds Insurance Company
+  * American States Preferred Insurance Company
+  * First National Insurance Company of America
+  * General Insurance Company of America
+  * Insurance Company of Illinois
+  * Safeco Insurance Company of America
+  * Safeco Insurance Company of Illinois
+  * Safeco Insurance Company of Indiana
+  * Safeco Insurance Company of Oregon
+  * Safeco Lloyds Insurance Company
+  * Safeco National Insurance Company 
+  * Safeco Surplus Lines Insurance Company
+
+
