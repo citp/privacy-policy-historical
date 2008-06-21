@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221092513id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621060811id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CafeMom
 
-At CafeMom™, we are committed to maintaining your privacy and your trust. This Privacy Policy explains how we collect, protect, use and share information about you when you use the CafeMom website (the "Site"). We hope this information increases your confidence in CafeMom and enhances your experience on our Site. This Privacy Policy is incorporated into and subject to the [CafeMom Terms of Service](https://web.archive.org/about/tos.php). Each time that you use the Site, you signify that you agree to be bound by the Terms of Service and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Service and terminate your membership. 
+At CafeMom™, we are committed to maintaining your privacy and your trust. This Privacy Policy explains how we collect, protect, use and share information about you when you use the CafeMom website (the "Site"). We hope this information increases your confidence in CafeMom and enhances your experience on our Site. This Privacy Policy is incorporated into and subject to the [CafeMom Terms of Service](https://web.archive.org/about/tos.php). Each time that you use the Site, you signify that you agree to be bound by the Terms of Service and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Service and terminate your membership.
+
+[Read tips about Privacy and Security on CafeMom.](https://web.archive.org/about/privacy_tips.php)
 
 ## I. ABOUT CAFEMOM 
 
