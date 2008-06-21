@@ -1,0 +1,624 @@
+<!--The following is the downloaded HTML source of the thegameslist.com privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621224531id_/http%3A//www.thegameslist.com/info/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Privacy at TheGamesList - Flash and Casual Game Listings</title>
+<meta name="keywords" content="social, casual, games, web, flash, downloadable, bloc, gamers">
+<meta name="description" content="The world's greatest social bookmarking site for Casual Games. Play Free Web Games, Flash Games and Downloadable Games">
+<link href="/css/shadowbox.css" rel="stylesheet" type="text/css">
+<link href="/css/default-min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/lib/jquery-1.2.3.min.js"></script>
+        <script type="text/javascript" src="/js/lib/shadowbox-1.0/build/js/adapter/shadowbox-jquery.js"></script>
+    <script type="text/javascript" src="/js/lib/shadowbox-1.0/build/js/shadowbox-min.js"></script>
+    <script type="text/javascript" src="/js/tgl/lib-min.js"></script>
+
+<script type="text/javascript" src="/js/swfobject.js"></script>
+
+
+<script language="JavaScript">
+var _global = {
+    tries:0,
+    init:function()
+    {
+        var msgs = null;
+
+        if(++_global.tries>20) {
+            alert("Initialisation failed :(");
+            return;
+        }
+
+        if(!window.tglreg) {
+            window.setTimeout(function(){_global.init()}, 100);
+            return;
+        }
+
+        
+        window.tglreg.setProps();
+        window.tglreg.setKeys();
+        
+
+        
+        _global.trackit("0","1858738",location.href,"_enter_","");
+        
+
+        $('#navtab_game').hover(
+            function() {
+                this.src = '/assets/play_over.gif';
+            },
+            function() {
+                this.src= '/assets/play_up.gif';
+            }
+        );
+        $('#navtab_user').hover(
+            function() {
+                this.src = '/assets/player_over.gif';
+            },
+            function() {
+                this.src= '/assets/player_up.gif';
+            }
+        );
+        $('#navtab_add').hover(
+            function() {
+                this.src = '/assets/add_over.gif';
+            },
+            function() {
+                this.src= '/assets/add_up.gif';
+            }
+        );
+        $('#navtab_forum').hover(
+            function() {
+                this.src = '/assets/forum_over.gif';
+            },
+            function() {
+                this.src= '/assets/forum_up.gif';
+            }
+        );
+        $('#hdr_login').click(
+            function() {
+                var login = $('#dv_login');
+                login.css('visibility', 'visible');
+            }
+        );
+        $('#auth_cancel').click(
+            function() {
+                var login = $('#dv_login');
+                login.css('visibility', 'hidden');
+            }
+        );
+        $('#s_srch_games').click(
+            function(e) {
+                $('#s_srch_games_pop').show();
+                e.stopPropagation();
+            }
+        );
+        $('#s_srch_opt_games1').click(
+            function(e) {
+                $('#s_srch_games_pop').hide();
+                e.stopPropagation();
+            }
+        );
+        $('#s_srch_opt_gamers1').click(
+            function(e) {
+                $('#s_srch_games_pop').hide();
+                $('#s_srch_games').removeClass('on');
+                $('#s_srch_gamers').addClass('on');
+                e.stopPropagation();
+            }
+        );
+        $('#s_srch_gamers').click(
+            function(e) {
+                $('#s_srch_gamers_pop').show();
+                e.stopPropagation();
+            }
+        );
+        $('#s_srch_opt_games2').click(
+            function(e) {
+                $('#s_srch_gamers_pop').hide();
+                $('#s_srch_games').addClass('on');
+                $('#s_srch_gamers').removeClass('on');
+                e.stopPropagation();
+            }
+        );
+        $('#s_srch_opt_gamers2').click(
+            function(e) {
+                $('#s_srch_gamers_pop').hide();
+                e.stopPropagation();
+            }
+        );
+        $(window).click(
+            function() {
+                var srch_f2 = $('#s_srch_f2');
+                if(srch_f2.css('display')=='inline') {
+                    srch_f2.css('display', 'none');
+                }
+            }
+        );
+
+        _global.defocus();
+
+        if(window._init) {
+            window._init();
+        }
+    },
+    defocus:function()
+    {
+        $('a,button').focus(function(e){this.blur();});
+        $('a').click(_global.exittrack);
+    },
+    search:function(form)
+    {
+        var search_on = $('#s_srch_games').hasClass('on') ? 'games' : 'gamers';
+        var term = form.elements['srch_txt'].value.replace(/^ +/,"").replace(/ +$/,"");
+        if(term.length>0) {
+            location.href = "/" + search_on + "/search/term/" + escape(term);
+            return false;
+        }
+        return false;
+    },
+    gamewin:function(url, norep)
+    {
+        var gwin = window.open(norep ? url : url.replace(/\/game\//, "/playgame/"));
+        return gwin;
+    },
+    cyclereasons:function()
+    {
+        if(!_global.reasons) {
+            _global.reasons = [];
+            for(var x=1;x<=5;x++) {
+                _global.reasons[x] = $('#join_reason'+x);
+            }
+        }
+        for(var x=1;x<=5;x++) {
+            if(_global.reasons[x].css('visibility')=='visible') {
+                _global.reasons[x].css('visibility', 'hidden');
+                _global.reasons[x==5?1:(x+1)].css('visibility', 'visible');
+                break;
+            }
+        }
+    },
+    trackit:function(u,g,l,s,t)
+    {
+        var i = new Image();
+        i.src = "/wb/t.gif?r=" + Math.random() + "&u=" + u + "&g=" + g + "&l=" + escape(l) + "&s=" + escape(s) + "&t=" + escape(t);
+    },
+    exittrack:function(e)
+    {
+        var elTarget = e.target;
+        var href = "";
+        if(elTarget.getAttribute && elTarget.getAttribute('href')) {
+            href = elTarget.getAttribute('href');
+        }
+        if((href.substr(0,1)=="/"||href.substr(0,4)=="http")) {
+            var pg_sec = "";
+            for(var n=elTarget;n;n=n.parentNode) {
+                if(n.getAttribute && n.getAttribute('pg_sec')) {
+                    pg_sec = n.getAttribute('pg_sec');
+                    break;
+                }
+            }
+
+            _global.trackit("0","1858738",location.href,pg_sec,elTarget.href);
+
+        }
+    }
+}
+$(document).ready(_global.init);
+</script>
+
+<link href="/css/info.css" rel="stylesheet" type="text/css">
+
+
+<script language="JavaScript">
+
+/*
+ * INITIALISATION
+ */
+function _init()
+{
+  _page.init();
+}
+
+/*
+ * OPERATIONS
+ */
+
+var _page = {
+    ajcalls: null,
+    init:function()
+    {
+        this.ajcalls = {
+        };
+        this.initcontent();
+        this.initevents();
+    },
+    initcontent:function()
+    {
+    },
+    initevents:function()
+    {
+    },
+    noiv:function(sec,act)
+    {
+        return !window.tglreg.hasKey(sec,act);
+    }
+}
+</script>
+
+
+
+</head>
+
+<body>
+<div id="G_header">
+    <div id="G_hdr_inner">
+        <div id="header"><div pg_sec="header" style="position:relative;">
+    <div style="position:absolute; top:4px; left:17px; width:184px; height:116px;">
+        <div id="tgl_logo"><a href="/" title="Home"><img src="/assets/logo_mac.png" width="184" height="116" border="0" alt="Home"></a>
+<script type="text/javascript">
+
+$(document).ready(
+    function() {
+        var so = new SWFObject("/assets/header_logo.swf", "logo", "184", "116", "8", "#FFFFFF");
+        so.addParam("MENU", "FALSE");
+        so.addParam("wmode", "transparent");
+        so.write("tgl_logo");
+    }
+);
+
+</script>        </div>
+    </div>
+    <div style="position:absolute; top:10px; left:352px; width:528px; z-index:10;">
+        <div style="float:right; margin: 0px 0px 0px 0px;">
+            <div id="dv_loginreg" style="float:right;">
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td class="header_lnk"><a href="#" id="hdr_login" class="header_lnk">Sign In</a> | <a href="/signup/" class="header_lnk">Sign Up</a></td>
+                    </tr>
+                                    </tbody></table>
+            </div>
+        </div>
+        <div id="dv_login" style="position:absolute; width:528px; top:0px; left:0px; visibility:hidden;">
+            <form name="frmLogin" method="post" action="/info/privacy/"><input type="hidden" name="auth" value="login"><input type="hidden" name="redirect" value="">
+            <div style="width:528px; height:6px; line-height:6px; background-image:url(/assets/login_top.gif);">&nbsp;</div>
+            <div style="width:528px; height:26px; background-color:#444444;">
+                <table border="0" cellspacing="0" cellpadding="0" width="528">
+                    <tbody><tr>
+                         <td width="528" height="26" valign="bottom" align="center"><table border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                 <td class="txt_b_med" style="padding:0px 3px 0px 0px">Username:</td>
+                                 <td style="padding:0px 12px 0px 0px"><input name="auth_username" type="text" id="auth_username"></td>
+                                 <td class="txt_b_med" style="padding:0px 3px 0px 0px">Password:</td>
+                                 <td style="padding:0px 12px 0px 0px"><input name="auth_password" type="password" id="auth_password"></td>
+                                 <td style="padding:0px 18px 0px 0px"><input type="submit" id="auth_submit" value="Sign In"></td>
+                                 <td><input type="button" id="auth_cancel" value="Cancel"></td>
+                             </tr>
+                        </tbody></table></td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div style="width:528px; height:7px; background-color:#444444;">&nbsp;</div>
+            <div style="width:528px; height:25px; background-color:#444444;">
+                <table border="0" cellspacing="0" cellpadding="0" width="528">
+                    <tbody><tr>
+                         <td width="528" height="25" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                 <td><input type="checkbox" name="remember_me" id="remember_me" value="true" checked=""></td>
+                                 <td class="txt_b_med">Remember me?</td>
+                                 <td class="txt_b_med" style="padding:0px 3px 0px 3px">|</td>
+                                 <td><a href="/signup/lost" class="txt_b_med user_col">Forgotten sign in details?</a></td>
+                                 <td class="txt_b_med" style="padding:0px 3px 0px 3px">|</td>
+                                 <td><a href="/signup/" class="txt_b_med user_col">Become a member</a></td>
+                             </tr>
+                        </tbody></table></td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div style="width:528px; height:6px; line-height:6px; background-image:url(/assets/login_bot.gif);">&nbsp;</div>
+            </form>
+         </div>
+    </div>
+<div id="search_tpl"><form name="_tops_srch_frm" method="get" action="#" onsubmit="return _global.search(this);"><div id="s_srch_games" class="on"></div><div id="s_srch_games_pop"><div id="s_srch_opt_games1">&nbsp;</div><div id="s_srch_opt_gamers1">&nbsp;</div></div><div id="s_srch_gamers" class=""></div><div id="s_srch_gamers_pop"><div id="s_srch_opt_gamers2">&nbsp;</div><div id="s_srch_opt_games2">&nbsp;</div></div><div class="srchtxt"><input type="text" id="srch_txt" name="srch_txt"></div><div id="srch_go"><input type="image" src="/assets/trans.gif" border="0" width="31" height="19" onfocus="this.blur()"></div></form></div><div pg_sec="nav_tabs" id="nav_tabs_tpl"><a href="/"><img src="/assets/home.gif" border="0" width="87" height="34" name="hdr_home" alt="Home"></a><a href="/games"><img id="navtab_game" src="/assets/play_up.gif" border="0" width="94" height="34" name="hdr_game" alt="Play Games"></a><a href="/gamers"><img id="navtab_user" src="/assets/player_up.gif" border="0" width="133" height="34" name="hdr_user" alt="Player Profiles"></a><a href="/mgl/addgame"><img id="navtab_add" src="/assets/add_up.gif" border="0" width="146" height="34" name="hdr_add" alt="Add a Game"></a><a href="/blog"><img id="navtab_forum" src="/assets/forum_up.gif" border="0" width="73" height="34" name="hdr_forum" alt="Games Forums"></a><a href="/rss.xml"><img src="/assets/rss.gif" border="0" width="20" height="34" style="margin-left: 4px;" alt="RSS Feed"></a></div>
+</div></div>
+    </div>
+</div>
+
+<div id="G_body">
+    <div id="G_bdy_inner">
+        <div id="G_bdy_tags">
+            <div id="tags"><div pg_sec="top_tags" id="tags_tpl" class="txt_med"><img src="/assets/top_840.gif" width="840" height="9" border="0"><div class="genres"><span class="txt_b_med">&nbsp;&nbsp;Genres:&nbsp;</span>&nbsp;&nbsp;<h1><a href="/games/genre/Arcade/games" class="txt_b_med game_col">Arcade</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Skill/games" class="txt_b_med game_col">Skill</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Puzzle/games" class="txt_b_med game_col">Puzzle</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Shooter/games" class="txt_b_med game_col">Shooter</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Strategy/games" class="txt_b_med game_col">Strategy</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Platformer/games" class="txt_b_med game_col">Platformer</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Adventure/games" class="txt_b_med game_col">Adventure</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Sports/games" class="txt_b_med game_col">Sports</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Driving/games" class="txt_b_med game_col">Driving</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="/games/genre/Multiplayer/games" class="txt_b_med game_col">Multiplayer</a></h1>&nbsp;&nbsp;</div><div class="tags"><div class="txt_b_med label">&nbsp;&nbsp;Top Tags:</div><h2><a href="/games/tag/Pixel/games" class="txt_b_med user_col">Pixel</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/Retro/games" class="txt_b_med user_col">Retro</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/ArmorGames/games" class="txt_b_med user_col">ArmorGames</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/MiniClip/games" class="txt_b_med user_col">MiniClip</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/Kongregate/games" class="txt_b_med user_col">Kongregate</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/physics/games" class="txt_b_med user_col">physics</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/defense/games" class="txt_b_med user_col">defense</a></h2> &nbsp;|&nbsp; <h2><a href="/games/tag/BigFishGames/games" class="txt_b_med user_col">BigFishGames</a></h2> &nbsp;|&nbsp; <a href="/games/tags/" class="txt_b_med user_col">More Tags...</a></div><img src="/assets/base_840.gif" width="840" height="9" border="0"></div></div>
+        </div>
+        <div id="G_bdy_content">
+            <div id="G_cnt_outer">
+                <div id="G_cnt_inner">
+                    <div id="G_inner_body">
+                        <div id="info"><div style="width:660px;">
+    <div style="width:660px; height:20px; line-height:20px; background-image:url(/assets/header_660.gif);"><span class="txt_b_med" style="margin-left:8px;">Privacy Policy</span></div>
+    <div style="width:660px; height:6px; line-height: 6px; background-image:url(/assets/header_shadow.gif); background-repeat:repeat-x;">&nbsp;</div>
+    <div style="width:660px; background-color:#161616;">
+        <div class="txt_med" style="padding:4px 4px 4px 10px;">
+            <div style="padding:0px 5px 20px 5px;">
+<p class="info"><b>Privacy Policy</b></p>
+<p class="info"><br>
+</p>
+<p class="info">TheGamesList is founded on the
+principals of helping people to discover new games by enabling them
+to share what they find interesting with one another. TheGamesList
+knows that you care about how your personal information is used and
+shared, and we take your privacy very seriously. Please read the
+following to learn more about our privacy policy. By visiting the
+TheGamesList website, you are accepting the practices outlined in
+this Privacy Policy.</p>
+<p class="info"><br>
+</p>
+<p class="info">This Privacy Policy covers
+TheGamesList's treatment of personal information that TheGamesList
+gathers when you are on the TheGamesList website and when you use
+TheGamesList services. This policy does not apply to the practices of
+third parties that TheGamesList does not own or control, or to
+individuals that TheGamesList does not employ or manage.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Information Collected by
+TheGamesList</b></p>
+<p class="info"><br>
+</p>
+<p class="info">We only collect personal information
+that is relevant to the purpose of our website, which is to enable
+users to discover and share information with one another. This
+information allows us to provide you with a customised and efficient
+experience. We do not process this information in a way that is
+incompatible with this objective. We collect the following types of
+information from our TheGamesList users:</p>
+<p class="info"><br>
+</p>
+<p class="info">1. Information You Provide to Us:</p>
+<p class="info">We receive and store any information
+you enter on our website or provide to us in any other way. You can
+choose not to provide us with certain information, but then you may
+not be able to take advantage of many of our special features.</p>
+<p class="info">* Registration: In order for you to use
+TheGamesList services, such as submitting new links to the website,
+you must complete a registration form. As part of this registration
+form, we require select personal information (including your full
+name and e-mail address).</p>
+<p class="info">* User Profile: To allow you to express
+yourself beyond just the information collected during registration,
+we enable you to provide additional information, such as a short bio.
+In addition, you may choose to include photos of yourself in your
+profile. As indicated below, in the section titled "Sharing Your
+Information", you can control how your information is displayed
+and used.</p>
+<p class="info"><br>
+</p>
+<p class="info">2. Automatic Information:</p>
+<p class="info">* We receive and store certain types of
+information whenever you interact with us. TheGamesList and its
+authorised agents automatically receive and record certain "traffic
+data" on their server logs from your browser including your IP
+address, TheGamesList cookie information, and the page you requested.
+TheGamesList uses this traffic data to help diagnose problems with
+its servers, analyse trends and administer the website.</p>
+<p class="info">* TheGamesList may collect and, on any
+page, display the total counts that page has been viewed. This
+includes User Profile pages.</p>
+<p class="info">* Many companies offer programs that
+help you to visit websites anonymously. While TheGamesList will not
+be able to provide you with a personalised experience if we cannot
+recognise you, we want you to be aware that these programs are
+available.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>E-mail Communications</b></p>
+<p class="info"><br>
+</p>
+<p class="info">TheGamesList is very concerned about
+your privacy and we will never provide your email address to a third
+party without your explicit permission, as detailed in the "Sharing
+Your Information" section below. TheGamesList may send out
+e-mails with TheGamesList-related news, products, offers, surveys or
+promotions. You may also receive notification e-mails from
+TheGamesList, which inform you of actions (e.g. new comments) that
+have been performed on the site. If you do not want to receive e-mail
+from us, please visit the Email Preferences section of your User
+Profile and/or follow the instructions contained in the email
+footers. However, please note that in all cases you will continue to
+receive all system e-mails (e.g. those regarding forgotten user
+passwords) and legal notices (e.g. updates to our policies) from us.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Cookies</b></p>
+<p class="info"><br>
+</p>
+<p class="info">* Cookies are alphanumeric identifiers
+that we tranfer to your computer's hard drive through your Web
+browser to enable our systems to recognise your browser and tell us
+how and when pages in our website are visited and by how many people.
+TheGamesList cookies do not collect personal information, and we do
+not combine information collected through cookies with other personal
+information to tell us who you are or what your screen name or e-mail
+address is.</p>
+<p class="info">* The "help" portion of the
+toolbar on the majority of browsers will direct you on how to prevent
+your browser from accepting new cookies, how to command the browser
+to tell you when you receive a new cookie, or how to fully disable
+cookies. We recommend that you leave the cookies activated because
+cookies allow you to use some of TheGamesList's coolest features.</p>
+<p class="info">* Some of our business partners, like
+our advertisers, may use cookies on our website. We have no access
+to, or control over, these cookies.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Sharing Your Information</b></p>
+<p class="info"><br>
+</p>
+<p class="info">Because TheGamesList enables people to
+discover and share information with one another, information about
+the people who use TheGamesList is an integral part of the
+TheGamesList experience. Rest assured that we neither rent nor sell
+your personal information to anyone and that we will share your
+personal information only as described below.</p>
+<p class="info"><br>
+</p>
+<p class="info">    * TheGamesList Personnel:
+TheGamesList personnel and authorised consultants and/or contractors
+may have access to user information if necessary in the normal course
+of TheGamesList business.</p>
+<p class="info">    * Business Transfers: In some
+cases, we may choose to buy or sell assets. In these types of
+transactions, user information is typically one of the business
+assets that is transferred. Moreover, if TheGamesList, or
+substantially all of its assets, were acquired, user information
+would be one of the assets that is transferred.</p>
+<p class="info">    * Protection of TheGamesList and
+Others: We may release personal information when we believe in good
+faith that release is necessary to comply with a law; to enforce or
+apply our Terms of Use and other policies; or to protect the rights,
+property, or safety of TheGamesList, our employees, our users, or
+others. This includes exchanging information with other companies and
+organisations for fraud protection and credit risk reduction.</p>
+<p class="info">    * User Profile information:
+Information collected during registration and subsequent visits, such
+as your full name and location (country), may be displayed to other
+TheGamesList users in your User Profile. The User Profile is the area
+on TheGamesList where we allow you to tell other TheGamesList users
+about yourself and your interests. You may control what personal
+information is displayed in your User Profile by visiting the Account
+settings section of your User Profile.</p>
+<p class="info">    * Social sharing of data:
+TheGamesList allows other users to browse games that you have added
+or commented on. This information is made available on the
+TheGamesList website and official TheGamesList communications.</p>
+<p class="info">    * API: TheGamesList will allow
+third parties access to all TheGamesList data that is already
+publicly available through the TheGamesList website. TheGamesList
+will keep private any passwords and blog settings.</p>
+<p class="info">    * Syndication: TheGamesList allows
+for the RSS syndication of all of its public content within the
+TheGamesList website.</p>
+<p class="info">    * With Your Consent: Except as
+noted above, we will contact you when your personal information is
+shared with third parties or used for a purpose incompatible with the
+purpose(s) for which it was originally collected, and you will be
+able to opt out to prevent the sharing of this information.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Keeping Information Secure</b></p>
+<p class="info"><br>
+</p>
+<p class="info">    * Your TheGamesList account
+information is protected by a password for your privacy and security.
+Protect against unauthorised access to your password and to your
+computer by logging off once you have finished using a shared
+computer.</p>
+<p class="info">    * Only employees who need personal
+information to perform a specific job (for example, a customer
+service representative) are granted access to it. All of our
+employees are kept up to date on our privacy and security practices.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Ways to Control Display and Use of
+Your Information</b></p>
+<p class="info"><br>
+</p>
+<p class="info">    * As stated previously, you can
+always opt not to disclose information, but then you may be unable to
+use certain features on our website, such as posting new links.</p>
+<p class="info">    * By visiting your User Profile,
+you can correct, amend, add or delete personal information on our
+website. When you update information, however, we may maintain a copy
+of the unrevised information in our records.</p>
+<p class="info">    * You may request deletion of your
+TheGamesList account by e-mailing us at <a href="mailto:support@TheGamesList.com">support@TheGamesList.com</a>.</p>
+<p class="info">    * If you do not wish to receive
+e-mail from us or other TheGamesList users, please visit the Email
+Preferences section of your User Profile and/or follow the
+instructions contained in the unwanted e-mail message.</p>
+<p class="info">    * However, please note that you
+will continue to receive all system e-mails (e.g. those regarding
+forgotten user passwords) and legal notices (e.g. updates to our
+policies) from us.</p>
+<p class="info">    * As explained earlier, the "help"
+portion of the toolbar on the majority of browsers will direct you on
+how to prevent your browser from accepting new cookies, how to
+command the browser to tell you when you receive a new cookie, or how
+to fully disable cookies. Please note, however, that if your browser
+does not accept cookies, you will not be able to take advantage of
+some of our attractive features.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Children Under 18 Years of Age</b></p>
+<p class="info"><br>
+</p>
+<p class="info">You must be 13 years and older to
+register to use the TheGamesList website. As a result, TheGamesList
+does not specifically collect information about children. If we learn
+that TheGamesList has collected information from a child under the
+age of 13, we will delete that information as quickly as possible. We
+recommend that minors between the ages of 13 and 18 ask and receive
+their parents' permission before using TheGamesList or sending
+information about themselves or anyone else over the Internet.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Changes to this Privacy Policy</b></p>
+<p class="info"><br>
+</p>
+<p class="info">TheGamesList may amend this Privacy
+Policy from time to time, at its sole discretion. Use of information
+we collect now is subject to the Privacy Policy in effect at the time
+such information is used. If we make changes to the Privacy Policy,
+we will notify you by posting an announcement on the TheGamesList
+website so you are always aware of what information we collect, how
+we use it, and under what circumstances if any, it is disclosed.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Conditions of Use</b></p>
+<p class="info"><br>
+</p>
+<p class="info">If you decide to visit TheGamesList
+website, your visit and any possible dispute over privacy is subject
+to this Privacy Policy and our Terms of Use, including limitations on
+damages, arbitration of disputes, and application of U.K. law.</p>
+<p class="info"><br>
+</p>
+<p class="info"><b>Effective Date of this Privacy
+Policy</b></p>
+<p class="info"><br>
+</p>
+<p class="info">This Privacy Policy is effective as of
+September 1, 2006 and last updated December 3, 2007.</p>
+<p class="info"><br>
+</p>
+            </div>
+        </div>
+    </div>
+    <div style="width:660px; height:2px; line-height:2px; float:left; clear:both;"><img src="/assets/trans.gif" width="1" height="2"></div>
+    <div style="width:660px; height:2px; line-height:2px; float:left; clear:both; background-image:url(/assets/divider_score.gif); background-repeat:repeat-x;"><img src="/assets/trans.gif" width="1" height="2"></div>
+    <div style="width:660px; height:2px; line-height:2px; float:left; clear:both;"><img src="/assets/trans.gif" width="1" height="2"></div>
+    <div style="width:660px; height:9px; line-height:9px; background-image:url(/assets/base_660_gry.gif); background-repeat:no-repeat;">&nbsp;</div>
+</div>
+</div>
+                    </div>
+                    <div id="G_inner_sidebar_outer">
+                        <div id="G_inner_sidebar_inner">
+                            <div id="advart"><div style="width:160px; height:600px;"><a href="http://www.thegameslist.com/game/4/Stackopolis" target="_blank"><img src="/assets/stack_sky.gif" width="160" height="600" border="0"></a></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="G_bdy_footer">
+            <div id="footer"><div pg_sec="footer_nonauth" id="footer_tpl"><div class="top"><div class="l1"><span><img src="/assets/basepanel_big.png" width="840" height="73" border="0" alt=""></span></div><div class="l2"><span class="footer">Not a member of TheGamesList yet? <a href="/signup/" class="txt_b_med user_col">Sign Up now!</a></span></div><div class="l3"><span class="footer_lnk"><a href="/info/about" class="footer_lnk">About Us</a> | <a href="/info/advertise" class="footer_lnk">Advertisers</a> | <a href="/info/help" class="footer_lnk">Help Center</a> | <a href="/info/safety" class="footer_lnk">Safety Tips</a> | <a href="/info/terms" class="footer_lnk">Terms of Use</a> | <a href="/info/privacy" class="footer_lnk">Privacy Policy</a></span></div></div><div class="bot"><div class="b1"><span><img src="/assets/lft_corner.png" width="20" height="20" border="0" alt=""></span></div><div class="b2 txt_sml">A BLOC Media Property. © 2008 Bloc Media Limited.</div><div class="b3"><span><img src="/assets/rgt_corner.png" width="20" height="20" border="0" alt=""></span></div></div></div>
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-65oCu7nzXi7HA";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-65oCu7nzXi7HA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-65oCu7nzXi7HA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag --></body></html>
