@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223131629id_/http%3A//www.cottages4you.co.uk/c4y%3Faction%3Dxsl%26view%3Dxsl%26xsltId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621232648id_/http%3A//www.cottages4you.co.uk/c4y%3Faction%3Dxsl%26view%3Dxsl%26xsltId%3Dprivacy) for the most accurate reproduction.*
 
-# cottages4you, holiday cottage rental in England, Scotland, Wales, Ireland and France.
+# Cottage Holidays in the UK and Europe at cottages4you.co.uk
 
 | 
 
