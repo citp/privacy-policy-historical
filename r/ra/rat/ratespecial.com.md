@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratespecial.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214090031id_/http%3A//www.ratespecial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratespecial.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621112735id_/http%3A//www.ratespecial.com/privacy.html) for the most accurate reproduction.*
 
 # Live Transfer Mortgage Leads - Exclusive Mortgage Leads - Live Transfers
 
