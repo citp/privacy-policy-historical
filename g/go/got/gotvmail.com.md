@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226222056id_/http%3A//www.gotvmail.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621033137id_/http%3A//gotvmail.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GotVMail - Privacy Policy
 
@@ -70,9 +70,9 @@ This Web site contains links to other sites. Please be aware that we, GotVMail C
 
 From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.  Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
 
-## Tell-A-Friend
+## Refer an Entrepreneur
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  GotVMail Communications will automatically send the friend a one-time email inviting them to visit the site.  GotVMail Communications  does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  The friend may contact GotVMail Communications by [submitting a ticket](http://support.gotvmail.net/index.php?_m=tickets&_a=submit) to request the removal of this information from our database. 
+If a user elects to use our referral service for informing an entrepreneur or friend about our site, we ask them for the entrepreneur’s or friend’s name and email address.  GotVMail Communications will automatically send the entrepreneur or friend a one-time email inviting them to visit the site.  GotVMail Communications  does not store this information; it is used for the sole purpose of sending this one-time email and tracking the success of our referral program.  The friend may contact GotVMail Communications by [submitting a ticket](http://support.gotvmail.net/index.php?_m=tickets&_a=submit) to request the removal of this information from our database. 
 
 ## Chat Rooms, Message Boards, and Public Forums
 
