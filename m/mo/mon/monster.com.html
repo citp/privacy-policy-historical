@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monster.com privacy policy that was archived on 2007-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071202153915id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monster.com privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621144609id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
 <title>Monster - Privacy Statement</title>
@@ -115,6 +115,16 @@
 				<li><a href="http://careeressentials.monster.com/">Monster Services</a></li>
 			</ul>
 
+		</li>
+		<li class="pipes"> </li>
+		<li id="mn-jobfairs">
+			<a href="http://resources.monster.com/job-fairs/">Job Fairs</a>
+			<ul>
+				<li><a href="http://monster.nationalcareerfairs.com/employers.php?p=calendar">Calendar</a></li>
+				<li><a href="http://monster.nationalcareerfairs.com/index.php?p=pre_register">Pre-Register</a></li>
+				<li><a href="http://monster.nationalcareerfairs.com/employers.php?p=contact_us">Contact Us</a></li>
+				<li><a href="http://monster.nationalcareerfairs.com/employers.php">For Exhibitors</a></li>
+			</ul>
 		</li>
 	</ul>
 </div>
@@ -270,6 +280,8 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 </tbody></table>
 
 <!-- Footer -->
+<link href="http://css.monster.com/mons/seeker/seo/seo.css" rel="stylesheet" type="text/css">
+
 <div id="footer">
 	<div id="footer_hor_spacer">
 	</div>
@@ -283,6 +295,7 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 			<li>› <a href="http://workabroad.monster.com/">International Jobs</a></li>
 			<li>› <a href="http://espanol.monster.com/">Monster en Español</a></li>
 			<li>› <a href="http://help.monster.com/besafe/">Security Center</a></li>
+			<li>› <a href="javascript:toggleLayer('mnst-popbox');">Browse Jobs</a></li>
 		</ul>
 	</div>
 	<div class="floatleft dotted_vert"></div>
@@ -308,14 +321,13 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 	<div class="floatleft dotted_vert"></div>
 	<div class="footerblock floatleft"><span class="footertitle">About Our Company</span>
 		<ul class="footermenu">
-			<li>› <a href="http://about.monster.com/">About Monster</a></li>
+			<li>› <a href="http://corporate.monster.com/">About Monster</a></li>
 			<li>› <a href="http://about.monster.com/monsternetwork/">The Monster Network</a></li>
 			<li>› <a href="http://www.monsterhires.com/">Work for Monster</a></li>
 			<li>› <a href="http://advertising.monster.com/">Advertise with Monster</a></li>
 			<li>› <a href="http://about.monster.com/affiliates/monster_affiliate_overview.asp">Partner with Monster</a></li>
 			<li>› <a href="http://www.monsterstore.keltner-secure.com/">Monster Store</a></li>
-			<li>› <a href="http://www.monsterworldwide.com/Press_Room/MEI.html">Monster Employment Index</a></li>
-			<li>› <a href="http://www.monsterworldwide.com/">Monster Worldwide</a></li>
+			<li>› <a href="http://corporate.monster.com/Press_Room/MEI.html">Monster Employment Index</a></li>
 			<li>› <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=110723&amp;p=irol-IRHome">Investor Relations</a></li>
 
 		</ul>
@@ -324,6 +336,141 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 		©2007 Monster - All Rights Reserved  - U.S. Patent No. 5,832,497 - NASDAQ: MNST<br>
 		<a href="http://about.monster.com/privacy/"><img src="http://media.monster.com/mm/usen/home/07/7/3/trust.GIF" width="87" height="26" alt="Reviewed by Trust-e Site Privacy Statement" border="0"></a>
 	</div>
+</div>
+<script>
+function posSEO(whichLayer,evt) {
+	var seoLyr;
+	var tp;
+    if (evt.pageY) tp = evt.pageY;
+    else if (evt.clientY)
+		tp = evt.clientY + (document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);
+	tp = tp + 15;
+	if (document.getElementById){
+	// this is the way the standards work
+		seoLyr = document.getElementById(whichLayer);
+		seoLyr.style.top  = tp + "px";
+	}
+	else if (document.all){
+	// this is the way old msie versions work
+		seoLyr = document.all[whichLayer];
+		seoLyr.style.top  = tp + "px";
+	}
+	else if (document.layers){
+	// this is the way nn4 works
+		seoLyr = document.layers[whichLayer];
+		document.layers[whichLayer].top = tp + "px";
+	}
+}
+
+function toggleLayer(whichLayer){
+	var style;
+	if (document.getElementById){
+	// this is the way the standards work
+		style = document.getElementById(whichLayer).style;
+	}
+	else if (document.all){
+	// this is the way old msie versions work
+		style = document.all[whichLayer].style;
+	}
+	else if (document.layers){
+	// this is the way nn4 works
+		style = document.layers[whichLayer].style;
+	}
+	style.display = style.display? "":"block";
+	scrollBy(0,220);
+}
+</script>
+<div id="mnst-popbox">
+<div id="mnst-popbox-title">
+  <div id="mnst-popbox-title-text">Browse Jobs and Companies</div>
+  <div id="mnst-popbox-close"><a href="javascript:toggleLayer('mnst-popbox');">close <img src="http://media.monster.com/mons/seo/btn-close.gif" alt="Close"></a></div>
+  <div id="mnst-popbox-addlinks"><a alt="Browse All Jobs" href="http://jobsearch.monster.com/get-all-jobs.aspx">Browse All Jobs</a> &nbsp;|&nbsp; <a alt="Browse Jobs by Category" href="http://jobsearch.monster.com/job-category/default.aspx">Browse Jobs by Category</a> &nbsp;|&nbsp; <a alt="Company Profiles" href="http://company.monster.com">Company Profiles</a> &nbsp;|&nbsp; <a alt="Jobs by Location" href="http://location.monster.com">Companies by Location</a></div>
+</div>
+<div id="mnst-popbox-text"></div>
+<div id="mnst-citytown">
+<div class="mnst-title">Browse by City/Town</div>
+<ul>
+<li><a alt="Atlanta Jobs" href="http://jobsearch.monster.com/Georgia/Atlanta/get-jobs-12.aspx">Atlanta Jobs</a></li>
+<li><a alt="San Francisco Jobs" href="http://jobsearch.monster.com/California/San-Francisco/get-jobs-12.aspx">Bay Area Jobs</a></li>
+<li><a alt="Boston Jobs" href="http://jobsearch.monster.com/Massachusetts/Boston/get-jobs-12.aspx">Boston Jobs</a></li>
+<li><a alt="Chicago Jobs" href="http://jobsearch.monster.com/Illinois/Chicago/get-jobs-12.aspx">Chicago Jobs</a></li>
+<li><a alt="Dallas Jobs" href="http://jobsearch.monster.com/Texas/Dallas/get-jobs-12.aspx">Dallas Jobs</a></li>
+<li><a alt="Houston Jobs" href="http://jobsearch.monster.com/Texas/Houston/get-jobs-12.aspx">Houston Jobs</a></li>
+<li><a alt="Jobs Los Angeles" href="http://jobsearch.monster.com/California/Los-Angeles/get-jobs-12.aspx">Los Angeles Jobs</a></li>
+<li><a alt="Jobs NYC" href="http://jobsearch.monster.com/New-York/New-York/get-jobs-12.aspx">New York City Jobs</a></li>
+<li><a alt="Philly Jobs" href="http://jobsearch.monster.com/Pennsylvania/Philadelphia/get-jobs-12.aspx">Philadelphia Jobs</a></li>
+<li><a alt="DC Jobs" href="http://jobsearch.monster.com/District-of-Columbia/Washington/get-jobs-12.aspx">Washington DC Jobs</a></li>
+<li>&nbsp;</li>
+<li><a alt="Jobs by City" href="http://jobsearch.monster.com/State/City/default.aspx">All Cities/Towns</a></li>
+</ul>
+</div>
+<div id="mnst-state">
+<div class="mnst-title">Browse by State</div>
+<ul>
+<li><a alt="AZ Jobs" href="http://jobsearch.monster.com/Arizona/get-jobs-1.aspx">Arizona Jobs</a></li>
+<li><a alt="CA Jobs" href="http://jobsearch.monster.com/California/get-jobs-1.aspx">California Jobs</a></li>
+<li><a alt="CO Jobs" href="http://jobsearch.monster.com/Colorado/get-jobs-1.aspx">Colorado Jobs</a></li>
+<li><a alt="FL Jobs" href="http://jobsearch.monster.com/Florida/get-jobs-1.aspx">Florida Jobs</a></li>
+<li><a alt="GA Jobs" href="http://jobsearch.monster.com/Georgia/get-jobs-1.aspx">Georgia Jobs</a></li>
+<li><a alt="IL Jobs" href="http://jobsearch.monster.com/Illinois/get-jobs-1.aspx">Illinois Jobs</a></li>
+<li><a alt="IN Jobs" href="http://jobsearch.monster.com/Indiana/get-jobs-1.aspx">Indiana Jobs</a></li>
+<li><a alt="MD Jobs" href="http://jobsearch.monster.com/Maryland/get-jobs-1.aspx">Maryland Jobs</a></li>
+<li><a alt="MA Jobs" href="http://jobsearch.monster.com/Massachusetts/get-jobs-1.aspx">Massachusetts Jobs</a></li>
+<li><a alt="MI Jobs" href="http://jobsearch.monster.com/Michigan/get-jobs-1.aspx">Michigan Jobs</a></li>
+<li>&nbsp;</li>
+<li><a alt="Jobs by State" href="http://jobsearch.monster.com/State/default.aspx">All States</a></li>
+</ul>
+</div>
+<div id="mnst-state2">
+<div class="mnst-title">&nbsp;</div>
+<ul>
+<li><a alt="MN Jobs" href="http://jobsearch.monster.com/Minnesota/get-jobs-1.aspx">Minnesota Jobs</a></li>
+<li><a all="NY Jobs" href="http://jobsearch.monster.com/New-York/get-jobs-1.aspx">New York Jobs</a></li>
+<li><a alt="NC Jobs" href="http://jobsearch.monster.com/North-Carolina/get-jobs-1.aspx">North Carolina Jobs</a></li>
+<li><a alt="OH Jobs" href="http://jobsearch.monster.com/Ohio/get-jobs-1.aspx">Ohio Jobs</a></li>
+<li><a alt="PA Jobs" href="http://jobsearch.monster.com/Pennsylvania/get-jobs-1.aspx">Pennsylvania Jobs</a></li>
+<li><a alt="TN Jobs" href="http://jobsearch.monster.com/Tennessee/get-jobs-1.aspx">Tennessee Jobs</a></li>
+<li><a alt="TX Jobs" href="http://jobsearch.monster.com/Texas/get-jobs-1.aspx">Texas Jobs</a></li>
+<li><a alt="WA Jobs" href="http://jobsearch.monster.com/Washington/get-jobs-1.aspx">Washington Jobs</a></li>
+<li><a alt="WI Jobs" href="http://jobsearch.monster.com/Wisconsin/get-jobs-1.aspx">Wisconsin Jobs</a></li>
+<li><a alt="VA Jobs" href="http://jobsearch.monster.com/Virginia/get-jobs-1.aspx">Virginia Jobs</a></li>
+</ul>
+</div>
+<div id="mnst-jobtitle">
+<div class="mnst-title">Browse by Job Title</div>
+<ul>
+<li><a alt="Architectural and Design Services Jobs" href="http://jobsearch.monster.com/Architectural-Design-Services/get-jobs-3.aspx">Architectural and Design Services Jobs</a></li>
+<li><a alt="Banking and Consumer Lending Jobs" href="http://jobsearch.monster.com/Banking/get-jobs-3.aspx">Banking Jobs</a></li>
+<li><a alt="Business Services Jobs" href="http://jobsearch.monster.com/Business-Services-Other/get-jobs-3.aspx">Business Services Jobs</a></li>
+<li><a alt="Healthcare Services Jobs" href="http://jobsearch.monster.com/Healthcare-Services/get-jobs-3.aspx">Healthcare Jobs</a></li>
+<li><a alt="Insurance Jobs" href="http://jobsearch.monster.com/Insurance/get-jobs-3.aspx">Insurance Jobs</a></li>
+<li><a alt="IT Jobs and Computer Jobs" href="http://jobsearch.monster.com/Computer-IT-Services/get-jobs-3.aspx">IT Jobs and Computer Jobs</a></li>
+<li><a alt="Management Consulting Services Jobs" href="http://jobsearch.monster.com/Management-Consulting-Services/get-jobs-3.aspx">Management Jobs</a></li>
+<li><a alt="Manufacturing Jobs" href="http://jobsearch.monster.com/Manufacturing-Other/get-jobs-3.aspx">Manufacturing Jobs</a></li>
+<li><a alt="Retail Jobs" href="http://jobsearch.monster.com/Retail/get-jobs-3.aspx">Retail Jobs</a></li>
+<li><a alt="Wholesale Trade Import Export Jobs" href="http://jobsearch.monster.com/Wholesale-Trade-Import-Export/get-jobs-3.aspx">Wholesale Trade/Import-Export Jobs</a></li>
+<li>&nbsp;</li>
+<li><a alt="Jobs by Title" href="http://jobsearch.monster.com/job-title/default.aspx">All Job Titles</a></li>
+</ul>
+</div>
+<div id="mnst-industry">
+<div class="mnst-title">Browse by Industry</div>
+<ul>
+<li><a alt="Executive Assistant Jobs" href="http://jobsearch.monster.com/Administrative-Assistant/get-jobs-5.aspx">Administrative Assistant Jobs</a></li>
+<li><a alt="Computer Technician Jobs" href="http://jobsearch.monster.com/Computer-Technician/get-jobs-5.aspx">Computer Technician Jobs</a></li>
+<li><a alt="Dispatcher Jobs" href="http://jobsearch.monster.com/Dispatcher/get-jobs-5.aspx">Dispatcher Jobs</a></li>
+<li><a alt="Financial Analyst Jobs" href="http://jobsearch.monster.com/Financial-Analyst/get-jobs-5.aspx">Financial Analyst Jobs</a></li>
+<li><a alt="Janitorial Jobs" href="http://jobsearch.monster.com/Janitor/get-jobs-5.aspx">Janitor Jobs</a></li>
+<li><a alt="Nursing Jobs" href="http://jobsearch.monster.com/Nurse/get-jobs-5.aspx">Nurse Jobs</a></li>
+<li><a alt="Business Operations Manager Jobs" href="http://jobsearch.monster.com/Operations-Manager/get-jobs-5.aspx">Operations Manager Jobs</a></li>
+<li><a alt="Physician Assistant Jobs" href="http://jobsearch.monster.com/Physician-Assistant/get-jobs-5.aspx">Physician Assistant Jobs</a></li>
+<li><a alt="Retail Manager Jobs" href="http://jobsearch.monster.com/Retail-Manager/get-jobs-5.aspx">Retail Manager Jobs</a></li>
+<li><a aly="Truck Driver Jobs" href="http://jobsearch.monster.com/Truck-Driver/get-jobs-5.aspx">Truck Driver Jobs</a></li>
+<li>&nbsp;</li>
+<li><a alt="Jobs by Industry" href="http://jobsearch.monster.com/industry/default.aspx">All Industries</a></li>
+</ul>
+</div>
+<div class="clear"></div>
 </div>
 
 
@@ -394,7 +541,7 @@ var dcsEXT="";
 dcsMeta();
 dcs_2_0(dcsURI,dcsQRY,dcsEXT);
 //-->
-</script><img border="0" name="DCSIMG" width="1" height="1" alt="" src="https://cookie.monster.com/DCS000003_6D4Q/dcs.gif?dcsuri=/web/20071202153915id_/http%3A//about.monster.com/privacy/&amp;dcsqry=&amp;dcssip=about.monster.com&amp;dcsdat=1580396974105">
+</script><img border="0" name="DCSIMG" width="1" height="1" alt="" src="https://cookie.monster.com/DCS000003_6D4Q/dcs.gif?dcsuri=/web/20080621144609id_/http%253A//about.monster.com/privacy&amp;dcsqry=&amp;dcssip=about.monster.com&amp;dcsdat=1580396977264">
 <noscript>
 <img border="0" name="DCSIMG" width="1" height="1" alt="" src="http://cookie.monster.com/DCS000003_6D4Q/njs.gif?dcsuri=/nojavascript&dcssip=about.monster.com">
 </noscript>
