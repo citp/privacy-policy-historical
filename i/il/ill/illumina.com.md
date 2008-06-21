@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223103724id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621181634id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
 
 # corporate .::. legal: privacy policy .::. illumina, inc. .::.
 
