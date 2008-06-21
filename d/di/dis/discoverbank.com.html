@@ -1,488 +1,233 @@
-<!--The following is the downloaded HTML source of the discoverbank.com privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230040526id_/http%3A//discoverbank.com/index.asp%3FpID%3Dmisc%26sID%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoverbank.com privacy policy that was archived on 2008-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622014026id_/http%3A//www.discoverbank.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Discover Bank  </title>
-	<script type="text/javascript" src="includes/swfobject.js"></script>
-	<script type="text/javascript">
-	function popWindow(page,xwidth,ywidth,sScroll,ToolBr) {
-		var winPar='width='+xwidth+',height='+ywidth+',screenX=100,left=50,resizable=0,screenY=50,screenX=50,top=50,toolbar='+ToolBr+',scrollbars='+sScroll
-		window.open(page,'window1',winPar);
-	 }
-	 //new code
-var winUrl = null;
-var childWindow = null;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy &amp; Security :: Discover Bank
+</title><meta name="keywords" content="Discover Bank, Privacy Policy &amp; Security"><meta name="description" content="Discover Bank Privacy Policy &amp; Security."><meta name="robots" content="all=index, follow"><meta name="robots" content="noodp"><meta name="revisit-after" content="7 days"><meta name="author" content="Discover Bank"><link rel="SHORTCUT ICON" href="/favicon.ico"><link rel="stylesheet" href="includes/css/styles.css" type="text/css" charset="utf-8" media="screen"><link rel="stylesheet" href="includes/css/reset.css" type="text/css" charset="utf-8"><link rel="stylesheet" href="includes/css/print.css" type="text/css" charset="utf-8" media="print">
 
-function showWin(url, windowName, features)
-            {
-            window.name = "mainWin";
-            winUrl = url;
+	<script src="includes/js/popWindow.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="includes/js/date_format.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="includes/js/login.js" type="text/javascript" charset="utf-8"></script>
 
-             // Simple Browser Check
-            var ns4 = (document.layers) ? 1 : 0;
-            var ie4 = (document.all) ? 1 : 0;
-            var ns6 = (document.getElementById && !document.all) ? 1 : 0;
+</head>
+<body>
+    <div id="wrapper">
+    	
+	    <!-- GLOBAL MASTHEAD -->
+	    <div id="masthead-global">
+		    <div id="masthead-logo">
+		        <a href="Index.aspx"><img src="imgs/masthead_logo.gif" alt="Discover Bank"></a>
+		    </div>
+		    <div id="date-time">
+			    <script type="text/javascript" charset="utf-8">
+					document.write(dateFormat().toString());
+				 </script>February 19, 2020 9:47 PM GMT+0000
+		    </div>
+	    </div>
+    	
+	    <!-- GLOBAL SIDEBAR -->
+	    <div id="sidebar-global">
+    		
+		    <!-- LOGIN -->
+            <form action="https://global1.onlinebank.com/vtg/dologinfihosted.htm?banknr=1299" name="acctlogin" method="post">
+		        <div class="box shaded">
+			        <!--<a href="#" onclick="javascript:window.open('disclaimer.html','','width=650,height=350');" class="link2">--><h1>Online Banking Access</h1><!--</a>-->
+			        <div class="login">
+					        <ul id="user-pass">
+						        <li class="floatleft"><label for="userID">User ID</label><input type="text" name="UserID"></li>
+                                <li class="floatright"><label for="userPass">Password</label><input type="password" name="Password"></li>
+						    </ul>
+						    <ul>
+							    <li class="floatleft"><a href="javascript:forgotpswd()" onmouseover="status='Forgot Password'; return true" onmouseout="status=''; return true"><strong>Forgot Password?</strong></a></li>
+							    <li class="floatright"><a href="javascript:document.acctlogin.submit('')" class="btn-login"><span>LOGIN</span></a></li>
+						    </ul>
+						    <ul>
+							    <li><a href="OnlineBanking.aspx"><strong>Sign Up for Online Banking</strong></a></li>
+							    <li><a href="https://demo1.onlinebank.com/vtg/login.htm?banknr=1299" target="_blank"><strong>View Online Banking Demo</strong></a></li>
+						    </ul>
+						    <div class="clear">&nbsp;</div>		
 
+				        <div class="clear">&nbsp;</div>
+			        </div>
+		        </div>
+		        
+		        <input type="hidden" name="Redirect-LoginRetry" value="Login-Retry.htm">
+	            <input type="hidden" name="PageInst:" value="0">
+	            <input type="hidden" name="Action" value="">
 
-            // Browser Window Dimensions
-            function windowWid(){
-                        return (ns4||ns6) ? window.innerWidth : document.body.clientWidth;
-            }
-            function windowHei(){
-                        return (ns4||ns6) ? window.innerHeight : screen.height;
-            }
-
-            // Example Use
-            var displaywidth = windowWid();
-            var displayheight = windowHei();
-
-            var percwidth =  Math.round(displaywidth * 0.80);
-            var percheight = Math.round(displayheight * 0.50);
-
-            var winAttributes = "width=" + percwidth + ", height=" + percheight + ",top=30,left=30,scrollbars=1,toolbar=1,menubar=1 " +  features;
-
-            //launch the new window and capture a reference to that window
-            childWindow = window.open(url,windowName,winAttributes);
-
-            //bring "focus" to the new window so it appears on top of the window stack
-            childWindow.focus();
-}
-
-function showBrowserWin(url, windowName)
-{
-            showWin(url, windowName, "resizable,scrollbars,menubar,status,toolbar,location");
-}
-	 //end new code
-
-	 function ShowConfirm(sURL) {
-	 	if (confirm("You are exiting the site.")) {
-			document.location=(sURL);
-		}
-	 }
-
-function forgotpswd() {
-
-	 if (document.loginForm.UserID.value.length == 0) {
-		alert("Please enter your User ID");
-		document.loginForm.UserID.focus();
-	 }
-	 else {
-	    document.loginForm.Action.value = "Forgot Password";
-	    document.loginForm.submit();
-	 }
-}
-
-// only allow numbers to be entered
-function isValid(parm) {
-	var numb = '0123456789.';
-
-	for (i=0; i<parm.length; i++) {
-		if (numb.indexOf(parm.charAt(i),0) == -1) return false;
-  	}
-	return true;
-}
-
-	</script>
-	
-		<link rel="STYLESHEET" type="text/css" href="style_lists.css">
-	
-		<link rel="STYLESHEET" type="text/css" href="style.css">
-	</head>
-	<body style="margin:0px;background-color:#FFFFFF;">
-	<!-- START HEADER --><a name="top"></a>
-	<table border="0" cellspacing="0" cellpadding="0" width="760" bgcolor="#FF6600" align="center">
-	<tbody><tr>
-		<td>
-
-	<table border="0" cellspacing="0" cellpadding="0" width="750">
-	<tbody><tr>
-		<td height="10" colspan="4"><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td>
-		<table border="0" width="750" cellspacing="0">
-		<tbody><tr>
-			<td height="10"><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td>
-			<td colspan="2" bgcolor="#CCCCCC" style="height:87px;"><a href="http://discoverbank.com/"><img src="images/hp_logo.gif" width="335" height="87" alt="Discover Bank" border="0"></a></td><td align="right" colspan="2" bgcolor="#cccccc"><img src="images/TopTier_1stQtr07_200.gif" width="200" height="40" alt="Discover Bank" border="0"></td>
-		</tr>
-	<tr>
-		<td height="10" colspan="4"><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td>
-	</tr>
-	</tbody></table>
-	<!-- END HEADER -->
-	
-		<table border="0" width="100%" cellspacing="0">
-		<tbody><tr valign="top">
-			<td width="150"><br><table border="0" width="100%" cellspacing="1" cellpadding="0">
-<tbody><tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp"><img src="images/nav_home_off.gif" width="154" height="22" border="0" alt="Home"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp?pID=cd"><img src="images/nav_cd_off.gif" width="154" height="24" border="0" alt="CD Accounts"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp?pID=mm"><img src="images/nav_mm_off.gif" width="154" height="37" border="0" alt="Money Market Accounts"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp?pID=rates"><img src="images/nav_rates_off.gif" width="154" border="0" height="24" alt="Interest Rates"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp?pID=calc"><img src="images/nav_calc_off.gif" width="154" height="23" border="0" alt="Calculator"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="index.asp?pID=bank"><img src="images/nav_bank_off.gif" width="154" height="24" border="0" alt="Banking Center"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-	<td><a href="http://www.discovercard.com/discoverhomeloans/heloc.shtml?vcmpgn=discoverhomequity"><img src="images/nav_loan_off.gif" width="154" height="24" border="0" alt="Banking Center"></a></td>
-</tr>
-<tr><td style="background:transparent url('images/nav_dotline.gif') "><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td></tr>
-</tbody></table>
-
-<p align="center"><a href="http://www.discovercard.com"><img src="images/hp_returntocard.gif" width="139" height="62" alt="Go to Discover Card" border="0"></a></p>
-
-
-
-<p align="center"><!--a href="http://www.bankrate.com/brm/rate/rankings.asp" target=_blank"--><!--/a--></p>
-			</td>
-			<td colspan="3" bgcolor="#ffffff" valign="top">
-				<!-- START MIDDLE CONTENT -->
-				<table cellspacing="5" cellpadding="5" border="0" width="100%" style="height:260px;">
-					<tbody><tr>
-						<td valign="top">
-						
-<p class="CopyTitle">Privacy Policy and Security</p>
-	
-<p><span class="Copyhead12">Discover Bank Privacy Policy</span>
-<br>Last Updated October 2nd, 2007</p>
-
-<p><strong>We are required by federal law to provide you with a
-copy of our Privacy Policy each year. If you have
-previously notified us about your privacy preferences,
-as described in Section 4, it is not necessary to do so
-again unless you decide to change your preferences.</strong></p>
-
-<p class="Copyhead105">We Respect Your Privacy</p>
-<p>Our mission is to provide you with superior products and
-services, along with the peace of mind knowing that the
-security of your personal information is our top priority. We
-understand your concerns about guarding information about
-you and your Account. We want to assure you that we have
-taken steps, and will continue to take steps, to safeguard that
-information.</p>
-
-<p>This Privacy Policy describes our efforts to meet these
-objectives. It includes a summary of the following important
-information:</p>
-<ul>
-	<li>A listing of the personal information we collect;</li>
-	<li>The circumstances in which we may share information
-with others;</li>
-	<li>The ways we safeguard the confidentiality and security
-of information; and</li>
-	<li>The steps you may take to limit our sharing of such
-information with others. See Section 4 for complete
-details.</li>
-</ul>
-<p>Please read our Privacy Policy carefully. It will help you
-understand how we collect and share information.</p>
-
-
-<p class="Copyhead105">1. What Personal Information Do We Collect?</p>
-<p>To serve you better and manage our business, it is important
-that we collect and maintain accurate personal information
-about you. We obtain this information from applications and
-other forms you submit to us, from your dealings with us and
-others, from consumer reporting agencies and from other
-sources, such as our Web sites. For example:</p>
-<ul>
-	<li>We may obtain information such as your name, address and
-date of birth from applications and other forms you submit
-to us.</li>
-	<li>We may obtain information such as Account balances,
-payment history, your use of your Account and the types of
-services you prefer from your transactions and other
-dealings with us and others.</li>
-	<li>We may obtain information such as the balances of your
-loans with other lenders and your payment history with
-others from consumer reporting agencies.</li>
-	<li>We may obtain information such as your Internet service
-provider, your email address, your computer’s operating
-system and Web browser, your Web site use and your
-product and service preferences from your visits to our
-Web sites.</li>
-</ul>
-<p class="Copyhead105">2. Is Personal Information Shared with Others?</p>
-
-<p>We limit the sharing of information with others. Many of
-the offers you receive for products and services are provided
-directly to you from us. For example, a company may come
-to us with a special offer for our Depositors. After careful
-consideration of the nature of the offer and the company, we
-will create a list of Depositors who may be interested in the
-offer based on certain characteristics. We will send the offer
-directly to those Depositors on behalf of the company by, for
-example, including an insert in their Account statement or
-mailing the offer ourselves. We control the information used to
-make the offer; we do not share the list or any information
-about our Depositors with the company. However, please
-understand that if you do receive this type of offer from us and
-choose to take advantage of it, the company may then learn
-information about you because only Depositors with certain
-characteristics received the offer.</p>
-
-<p>There are, however, circumstances in which we may share the
-information we collect about you, as described in Section 1,
-with other companies in order to provide you with access to
-products and services and to service your Account effectively,
-as detailed below. We require these companies to adhere to
-our privacy standards and to use this information only for the
-limited purpose for which it was shared. We do not allow them
-to disclose it to others without our prior approval.</p>
-
-<p><strong>a. Sharing Personal Information with Our Corporate Family</strong><br>
-Our corporate family offers a wide variety of products and services that
-can help you manage your finances. In order to provide you with
-access to these products and services, we may share the information
-we collect about you, as described in Section 1, with other members of
-our corporate family. These companies include financial service
-providers that offer lending, deposit and credit-related products.</p>
-
-<p><strong>b. Sharing Personal Information with Non-Affiliated Parties for Marketing Purposes</strong><br>
-We may share the information we collect about you, as
-described in Section 1, with non-affiliated third parties in order to
-provide you with access to products and services offered directly
-by these companies that may be of value to you. These
-companies include financial service providers, such as insurance
-companies, and non-financial companies, such as retailers.</p>
-
-<p><strong>c. Sharing Personal Information with Others</strong><br>
-We may share the information we collect about you, as
-described in Section 1, with companies that perform support or
-marketing services on our behalf, such as mailing, market
-research and data processing; or other financial institutions
-with which we have joint marketing agreements. We may also
-share such information as permitted by law.</p>
-
-<p class="Copyhead105">3. How Do We Protect the Confidentiality, Security and Integrity of Information About You?</p>
-
-<p>We maintain physical, electronic and procedural safeguards to
-protect the information we collect about you. Access to such
-information is restricted to individuals who need it in order to
-service your Account or provide products and services to you,
-and who are trained in the proper handling of such information.
-Employees who violate these confidentiality requirements are
-subject to our disciplinary process. Where third parties provide
-support services, we require them to conform to our privacy
-standards.</p>
-
-<p>It is important that the information we maintain about you is
-accurate and complete. If you see information in your Account
-statements or elsewhere which suggests that our information
-is incomplete or inaccurate, please write to us at Discover
-Bank, P.O. Box 7112, Dover, DE 19903-9955 so that we can
-update this information.</p>
-
-<p class="Copyhead105">4. How Can You Limit Sharing of Information About You?</p>
-
-<p>We respect your privacy and offer you choices as to whether
-we may share information about you with others. You have the
-option to tell us not to share the information we collect about
-you, as described in Section 1, with non-affiliated third parties.
-You also have the option to tell us not to share certain
-information we collect about you, as described in Section 1,
-with companies in our corporate family. However, this option is
-limited to information about your eligibility for credit obtained
-from your application, such as your income, and from consumer
-reporting agencies, such as your credit history. If you indicate a
-preference for either of these options, please understand that
-you may not receive offers for products and services provided
-by other companies that could help you lower your costs,
-maximize your financial resources or manage your finances. <strong>To
-indicate your preferences, please call us at 1-800-347-
-7000 or write to us at Discover Bank, PO Box 7112,
-Dover, DE 19903-9955. If you have previously notified us
-about your privacy preferences, it is not necessary to do
-so again unless you decide to change your preferences.</strong>
-Your written request should include your name, address,
-telephone number and Account number(s) and should not be
-sent with any other correspondence. In order to process your
-request, we require that the request be provided by you
-directly and not through a third party. You will need to provide
-us with your preferences for each Account you have with us.
-</p>
-<p>You may notify us about your preferences at any time. Your
-request will remain in effect until you notify us otherwise. We
-will honor your request and not share this information we
-collect about you, except as permitted by law. For example,
-federal law permits us to share information about you with
-consumer reporting agencies, service providers and financial
-institutions with which we have joint marketing agreements. It
-also permits us to share information about our experiences and
-transactions with you, such as your Account balance with
-other members of our corporate family. If you are a new
-Customer, we will not share any information about you, except
-as permitted by law, for thirty days after we provide this Policy
-to you in order to give you an opportunity to inform us about
-your preferences. If you are an existing Customer, please
-understand that you may continue to receive marketing offers
-directly from other companies that were already in production
-prior to the processing of your request.
-</p>
-
-<p>This Privacy Policy is provided to the primary Customer listed
-on the Account. However, any joint Depositor has the right to 
-notify us about preferences and we will treat that request as
-applying to the entire Account. We do not share information
-about former customers, except as permitted by law. This
-notification supercedes all previously issued Privacy Policies.
-We reserve the right to amend this Privacy Policy from time to
-time and we will notify you if we do.</p>
-
-<p>This Privacy Policy is provided to you by Discover Bank.
-Unless otherwise specified, this policy applies to products
-and services obtained at our retail bank office in Greenwood,
-Delaware or deposit Accounts opened by mail, by phone, or
-on our Web sites. It is part of your Account Agreement and
-provides a further explanation of how we collect and share
-information. You may have other rights under state laws that
-apply to this information. Please note that this Privacy Policy
-does not apply to any credit card accounts you have with us,
-as well as other financial products and services provided to
-you by us and our affiliates. You will receive a separate
-privacy policy for those financial products and services and
-you will need to indicate your preferences for each of these
-separately as disclosed in the notice.</p>
-
-<p><strong>Vermont Residents</strong> — Your state law requires financial
-institutions to obtain your consent prior to sharing
-information about you with others. Except as permitted by
-law, we will not share information we collect about you with
-non-affiliated third parties or companies in our corporate
-family unless you call us at 1-800-347-7000 and authorize us
-to do so.
-</p>
-
-<p><strong>California Residents</strong> — Your state law requires financial
-institutions to obtain your consent prior to sharing
-information about you with non-affiliated third parties. Except
-as permitted by law, we will not share information we collect
-about you with non-affiliated third parties while you are a
-resident of California.</p>
-
-<p>©2007 Discover Bank, Member FDIC</p>
-
-<p class="Copyhead12"><a name="security"></a>Security Information</p>
-	
-<p><b>Creating a Safe Internet Environment</b>
-</p><p>Internet security is a top priority at Discover Bank. That's why we use sophisticated encryption technology to keep your personal and financial information private. 
-
-</p><p>You can enhance your online safety by keeping your Account numbers and passwords private and by guarding your other financial information. 
-
-</p><p><b>Your User ID and Password </b>
-</p><p>To access the Banking Center, you need to create a user ID and password. To help ensure that only you can view your Account information: 
-</p><ul><li>Never reveal your password to anyone 
-</li><li>Keep your password secret 
-</li><li>Change your password periodically
-</li></ul> 
-
-<p>Find out more about your Banking Center User ID and Password in our <a href="index.asp?pID=misc&amp;sID=faq">Frequently Asked Questions</a>.
-
-</p><p><b>End Your Secure Session Completely </b>
-</p><p>If you do not log out of the Banking Center, you could potentially allow others using the same computer to access information saved or cached in the memory of the browser. When you are ready to leave the Banking Center always: 
-</p><ul>
-<li>Log out by clicking the "Banking Center Log Out" link</li>
-<li>Close your browser's window before you leave the computer as an extra precaution</li>
-</ul> 
-
-<p><b>Protect Your Account from Scams </b>
-</p><p>An increasingly common scam-called "phishing" uses official-looking e-mails to deceive consumers into disclosing their sensitive personal information. The e-mail often directs the recipient to a "look-alike" Web site of a legitimate business, tricking consumers into thinking they are responding to a valid request. Here are some ways to avoid getting caught by one of these scams:
-</p><ul>
-<li>Do not provide your vital Account information by e-mail or phone unless you initiated the contact. Discover&nbsp;Bank will never send an e-mail asking you to reply with your Account or personal information.</li>
-<li>If the URL is not Discoverbank.com, close your browser window immediately.</li>
-<li>Add the Discoverbank.com Banking Center Log In page to your browser's Favorites or Bookmarks menu.</li>
-</ul> 
-
-<p>If you receive an e-mail that claims to be from Discover&nbsp;Bank that you suspect might be fraudulent, call<br>
-<b>1-800-347-7000</b> TDD(1-800-347-7454) immediately. A Customer Service Representative can verify whether or not the e-mail was actually sent by Discover&nbsp;Bank.
-	
-</p><p class="Copyhead12">Prevent Identity Theft</p>
-
-<p>One of the fastest growing crimes in the United States is identity theft. Identity theft happens when someone uses your name or personal information to commit financial fraud. By following these simple steps, you can help safeguard your personal information and protect yourself and your credit rating.</p>
-	
-<p class="Copyhead105">Protect Your Identity</p>
-
-<p><span style="font-weight:bold;">Keep your personal information in a safe place.</span> Don't carry your birth certificate, social security card or passport with you unless you need to use it. Always make copies of the originals and keep them in a safe place. If you lose such documents, contact the appropriate government office immediately.</p>
-
-<p><span style="font-weight:bold;">Review your financial statements regularly.</span> Check your credit card and bank statements each month for any suspicious activity. Request and check your credit report at least once a year for mistakes or fraudulent use. If you come across any suspicious activity on your accounts, contact your financial institution immediately. If you notice suspicious activity on your Discover Bank Account, call <br>
-<span style="font-weight:bold;">1-800-347-7000</span> immediately.</p> 
-
-<p><span style="font-weight:bold;">Dispose of confidential information securely.</span> Shred important documents to prevent con artists from collecting private information from your trash.</p> 
-
-<p class="Copyhead105">Reporting Fraud</p>
- 
-<p><span style="font-weight:bold;">Act quickly.</span> If you suspect your identity or financial information is being used fraudulently, call your bank and credit card companies immediately. The sooner you act, the better the chances of catching the culprit and of limiting the damage.</p> 
-
-<p><span style="font-weight:bold;">File a police report.</span> The best way for the authorities to bring criminals to justice and prevent future fraud is through sharing information. Your police report helps authorities gain insight on how the crime was committed.</p> 
-
-<span style="font-weight:bold;">Prevent future fraud.</span><br>
-The minute you learn your identity is being used fraudulently, place a fraud alert on your name and social security number. This helps prevent future fraud and further tarnishing of your personal and financial records. Call the three national credit-reporting organizations and the Social Security Administration immediately to place a fraud alert on your name and Social Security number. The numbers are: 
-<ul>
-	<li> Equifax: 1-800-525-6285</li>
-	<li> Experian: 1-888-397-3742</li>
-	<li> TransUnion: 1-800-680-7289</li>
-	<li> Social Security Administration (Fraud Line): 1-800-269-0271</li>
-</ul>
-
-
-
-
-
-						</td>
-					</tr>
-				</tbody></table>
+            </form>
+    		
+		    <!-- GLOBAL NAV -->
+		    <div class="box">
+			    <ul id="global-nav">
+				    <li><a href="Index.aspx">Home</a></li>
+				    <li><a href="MoneyMarketAccounts.aspx">Money Market Accounts</a></li>
+				    <li><a href="CDAccounts.aspx">CD Accounts</a></li>
+				    <li><a href="InterestRates.aspx">Interest Rates</a></li>
+				    <li><a href="OnlineBanking.aspx">Sign Up For Online Banking</a></li>
+				    <li><a href="About.aspx">About Discover Bank</a></li>
+				    <li><a href="ATM.aspx">ATM Locator</a></li>
+					 <li id="gn-del" class="last"><a href="http://mydiscoverbank.com/" target="_blank">Greenwood Delaware Branch</a></li>
+				    <li id="gn-dc" class="last"><a href="http://discover.com/" target="_blank">Discover Card</a></li>
+			    </ul>
+		    </div>
+    		
+		   <!-- CUSTOMER SERVICE -->
+			<div class="box">
+				<h1>Customer Service</h1>
+				<div class="customer-service">
+					<h2 class="phone">Need phone assistance?</h2>
+					<p>Ask questions.</p>
+					<p>Or apply by phone.</p>
+					<p>8:00am – 11:00pm ET, M-F</p>
+					<p>8:00am – 4:30pm ET, Sat.</p>
+					<p><strong>1-800-347-7000</strong></p>
+					<p class="tdd">(TDD 1-800-347-7454)</p>
+					<p>24/7 Online Banking<br>Technical Support</p>
+					 <p><strong>1-877-409-0274</strong></p>
+					<h2 class="online">Online help</h2>
+					<p><a href="FAQ.aspx">View our FAQs</a></p>
+				</div>
+			</div>
+		
+		
+		    <!-- DB ADVANTAGE -->
+		    <div class="box">
+			    <h1>Discover Bank Advantage</h1>
+			    <div class="db-advantage">
+				    <ul>
+						<li><h3>Convenience.</h3><p>Easy access to your accounts - online, by phone, or through our network of ATMs</p></li>
+						<li><h3>Control.</h3><p>Take care of all of your banking needs online - pay bills, make transfers, access statements, view balance and history - all for free</p></li>
+						<li class="last"><h3>Strength.</h3><p>For over 95 years, Discover Bank has been providing superior customer service and competitive rates on FDIC-insured deposit products</p></li>
+					 </ul>
+			    </div>
+		    </div>
+		<!-- Promo -->
+			<div class="box">
+				<img src="imgs/DB_money_promo.gif">
+			</div>
+	    </div>
+    	
+	    <!-- CONTENT -->
+	    <div id="content">
+    		
+		    <!-- PAGE TITLE -->
+		    <h1 class="pt">Discover Bank Privacy Policy</h1>
+		
+			 
+    		
+		    <div id="faq-ppt">
+				<p>We are required by federal law to provide you with a copy of our Privacy Policy each year. If you have previously notified us about your privacy preferences, as described in Section 4, it is not necessary to do so again unless you decide to change your preferences.</p>
+		    	<h3>We Respect Your Privacy</h3>
+				<p>Our mission is to provide you with superior products and services, along with the peace of mind knowing that the security of your personal information is our top priority. We understand your concerns about guarding information about you and your Account. We want to assure you that we have taken steps, and will continue to take steps, to safeguard that information.</p>
+				<p>This Privacy Policy describes our efforts to meet these objectives. It includes a summary of the following important information:</p>
+				<ul class="bullet-list">
+					<li>A listing of the personal information we collect;</li>
+					<li>The circumstances in which we may share information with others;</li>
+					<li>The ways we safeguard the confidentiality and security of information; and</li>
+					<li>The steps you may take to limit our sharing of such information with others. See Section 4 for complete details.</li>
+				</ul>
+				<p>Please read our Privacy Policy carefully. It will help you understand how we collect and share information.</p>
+				<ol>
+					<li>
+						<h4>What Personal Information Do We Collect?</h4> 
+						<p>To serve you better and manage our business, it is important that we collect and maintain accurate personal information about you. We obtain this information from applications and other forms you submit to us, from your dealings with us and others, from consumer reporting agencies and from other sources, such as our Web sites. For example:</p>
+						<ul class="bullet-list">
+							<li>We may obtain information such as your name, address and date of birth from applications and other forms you submit to us.</li>
+							<li>The circumstances in which we may share information with others;</li>
+							<li>We may obtain information such as Account balances, payment history, your use of your Account and the types of services you prefer from your transactions and other dealings with us and others.</li>
+							<li>We may obtain information such as the balances of your loans with other lenders and your payment history with others from consumer reporting agencies.</li>
+							<li>We may obtain information such as your Internet service provider, your email address, your computer’s operating system and Web browser, your Web site use and your product and service preferences from your visits to our Web sites.</li>
+						</ul>
+					</li>
+					<li>
+						<h4>Is Personal Information Shared with Others?</h4> 
+						<p>We limit the sharing of information with others. Many of the offers you receive for products and services are provided directly to you from us. For example, a company may come to us with a special offer for our Depositors. After careful consideration of the nature of the offer and the company, we will create a list of Depositors who may be interested in the offer based on certain characteristics. We will send the offer directly to those Depositors on behalf of the company by, for example, including an insert in their Account statement or mailing the offer ourselves. We control the information used to make the offer; we do not share the list or any information about our Depositors with the company. However, please understand that if you do receive this type of offer from us and choose to take advantage of it, the company may then learn information about you because only Depositors with certain characteristics received the offer.</p>
+						<p>There are, however, circumstances in which we may share the information we collect about you, as described in Section 1, with other companies in order to provide you with access to products and services and to service your Account effectively, as detailed below. We require these companies to adhere to our privacy standards and to use this information only for the limited purpose for which it was shared. We do not allow them to disclose it to others without our prior approval.</p>
+						<ol>
+							<li>
+								<h4>Sharing Personal Information with Our Corporate Family</h4>
+								<p>Our corporate family offers a wide variety of products and services that can help you manage your finances. In order to provide you with access to these products and services, we may share the information we collect about you, as described in Section 1, with other members of our corporate family. These companies include financial service providers that offer lending, deposit and credit-related products.</p>
+							</li>
+							<li>
+								<h4>Sharing Personal Information with Non-Affiliated Parties for Marketing Purposes</h4>
+								<p>We may share the information we collect about you, as described in Section 1, with non-affiliated third parties in order to provide you with access to products and services offered directly by these companies that may be of value to you. These companies include financial service providers, such as insurance companies, and non-financial companies, such as retailers.</p>
+							</li>
+							<li>
+								<h4>Sharing Personal Information with Others</h4>
+								<p>We may share the information we collect about you, as described in Section 1, with companies that perform support or marketing services on our behalf, such as mailing, market research and data processing; or other financial institutions with which we have joint marketing agreements. We may also share such information as permitted by law.</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<h4>How Do We Protect the Confidentiality, Security and Integrity of Information About You?</h4>
+						<p>We maintain physical, electronic and procedural safeguards to protect the information we collect about you. Access to such information is restricted to individuals who need it in order to service your Account or provide products and services to you, and who are trained in the proper handling of such information. Employees who violate these confidentiality requirements are subject to our disciplinary process. Where third parties provide support services, we require them to conform to our privacy standards.</p>
+						<p>It is important that the information we maintain about you is accurate and complete. If you see information in your Account statements or elsewhere which suggests that our information is incomplete or inaccurate, please write to us at Discover Bank, P.O. Box 7112, Dover, DE 19903-9955 so that we can update this information.</p>
+					</li>
+					<li>
+						<h4>How Can You Limit Sharing of Information About You?</h4>
+						<p>We respect your privacy and offer you choices as to whether we may share information about you with others. You have the option to tell us not to share the information we collect about you, as described in Section 1, with non-affiliated third parties. You also have the option to tell us not to share certain information we collect about you, as described in Section 1, with companies in our corporate family. However, this option is limited to information about your eligibility for credit obtained from your application, such as your income, and from consumer reporting agencies, such as your credit history. If you indicate a preference for either of these options, please understand that you may not receive offers for products and services provided by other companies that could help you lower your costs, maximize your financial resources or manage your finances. <strong>To indicate your preferences, please call us at 1-800-347- 7000 or write to us at Discover Bank, PO Box 7112, Dover, DE 19903-9955. If you have previously notified us about your privacy preferences, it is not necessary to do so again unless you decide to change your preferences.</strong> Your written request should include your name, address, telephone number and Account number(s) and should not be sent with any other correspondence. In order to process your request, we require that the request be provided by you directly and not through a third party. You will need to provide us with your preferences for each Account you have with us.</p>
+						<p>You may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honor your request and not share this information we collect about you, except as permitted by law. For example, federal law permits us to share information about you with consumer reporting agencies, service providers and financial institutions with which we have joint marketing agreements. It also permits us to share information about our experiences and transactions with you, such as your Account balance with other members of our corporate family. If you are a new Customer, we will not share any information about you, except as permitted by law, for thirty days after we provide this Policy to you in order to give you an opportunity to inform us about your preferences. If you are an existing Customer, please understand that you may continue to receive marketing offers directly from other companies that were already in production prior to the processing of your request.</p>
+					</li>
+				</ol>
+				<p>This Privacy Policy is provided to the primary Customer listed on the Account. However, any joint Depositor has the right to notify us about preferences and we will treat that request as applying to the entire Account. We do not share information about former customers, except as permitted by law. This notification supercedes all previously issued Privacy Policies. We reserve the right to amend this Privacy Policy from time to time and we will notify you if we do.</p>
+				<p>This Privacy Policy is provided to you by Discover Bank. Unless otherwise specified, this policy applies to products and services obtained at our retail bank office in Greenwood, Delaware or deposit Accounts opened by mail, by phone, or on our Web sites. It is part of your Account Agreement and provides a further explanation of how we collect and share information. You may have other rights under state laws that apply to this information. Please note that this Privacy Policy does not apply to any credit card accounts you have with us, as well as other financial products and services provided to you by us and our affiliates. You will receive a separate privacy policy for those financial products and services and you will need to indicate your preferences for each of these separately as disclosed in the notice.</p>
+				<p><strong>Vermont Residents</strong> — Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties or companies in our corporate family unless you call us at 1-800-347-7000 and authorize us to do so.</p>
+				<p><strong>California Residents —</strong> Your state law requires financial institutions to obtain your consent prior to sharing information about you with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties while you are a resident of California.</p>
 				
-				<!-- END MIDDLE CONTENT -->
-			</td>
-		</tr>
-		<!-- START FOOTER -->
-		<tr valign="top">
-			<td width="150">&nbsp;</td>
-			<td colspan="3"><br>
-<!-- BLACK LINE -->
-<table border="0" width="100%" cellspacing="0" cellpadding="2">
-<tbody><tr>
-	<td bgcolor="#000000" colspan="3"><img src="images/blank_pixel.gif" width="1" height="8" alt=""></td>
-</tr>
-</tbody></table>
-<!-- BLACK LINE -->
-
-<table border="0" width="100%" cellspacing="0" cellpadding="2">
-	<tbody><tr><td colspan="3" style="height: 10px">&nbsp;</td></tr>
-	<tr><td colspan="3" align="right" style="height: 10px;color:#ffffff;"><a href="index.asp?pID=misc&amp;sID=terms" class="white">Terms of Use</a>   |   <a href="index.asp?pID=misc&amp;sID=faq2" class="white">FAQs</a>  |   <a href="index.asp?pID=misc&amp;sID=privacy" class="white">Privacy Policy and Security</a>   |   <a href="index.asp?pID=misc&amp;sID=contact" class="white">Contact Us</a>  |   <a href="index.asp?pID=misc&amp;sID=sitemap" class="white">Site Map</a></td></tr>
-	<tr><td colspan="3" style="height: 10px"><img src="images/blank_pixel.gif" width="1" height="2" alt=""></td></tr>
-	<tr><td colspan="3" align="right" style="height: 10px;color:#ffffff;">© 2007 Discover&nbsp;Bank, Member FDIC.</td></tr>
-</tbody></table></td>
-		</tr>
-		</tbody></table>
-		<!-- END FOOTER -->
+		    </div>
+    						
+		    
+    		
+    		
+    		
+		    <div class="clear">&nbsp;</div>
+		    <!-- FOOTER -->
+			 <div id="footer">
+				<div class="copy floatleft">©2008 Discover Bank, Member FDIC</div>
+				<div class="copy floatright"><a href="TermsOfUse.aspx">Terms of Use</a></div>
+				<div class="clear">&nbsp;</div>
+				<img src="imgs/logo_fdic.gif" alt="FDIC Bank deposits insured to at least $100,000">
+				<div id="verisign"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.discoverbank.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></div>
+				<img src="imgs/logo_bankrate.gif" alt="Bankrate.com’s TOP TIER 100 Highest Yields 4th Quarter 2007">
+				<div class="clear">&nbsp;</div>
+			 </div>
+    		<div class="clear">&nbsp;</div>
+	    </div>
 	
-	</td>
-  </tr>
-</tbody></table>
+	    <div class="clear">&nbsp;</div>
+    
+	 </div>
 
-<br>
-</td>
-</tr>
-</tbody></table>
+<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/JavaScript" language="JavaScript"><!--
+var s_pageName="Discover Bank:Privacy Policy"
+var s_server="Fusebox Inc."
+var s_channel="ORCC."
+var s_pageType=""
+var s_prop1="Discover Bank:Privacy Policy"
+var s_prop2=""
+var s_campaign=""
+var s_eVar2=""
+var s_events=""
+var s_products=""
+//--></script><script language="JavaScript" type="text/javascript" src="includes/js/banking.js"></script><img name="s_i_discoverbank" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/discoverbank/1/G.5-Pd-R/s55976564486845?[AQB]&amp;ndh=1&amp;t=19/1/2020%2021%3A47%3A33%203%200&amp;pageName=Discover%20Bank%3APrivacy%20Policy&amp;ch=ORCC.&amp;server=Fusebox%20Inc.&amp;c1=Discover%20Bank%3APrivacy%20Policy&amp;g=https%3A//web.archive.org/web/20080622014026id_/http%253A//www.discoverbank.com/PrivacyPolicy.aspx&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<!-- End SiteCatalyst code version: G.7. -->
+     
+<!--//BEGIN VS REFERENCE PAGE TAG-->
+<!--script type="text/javascript" language="javascript">
+var vlc = "1" //Capture Link Click  1=TRUE, 0=FALSE
+var vfc = "1" //Capture Form Field Click 1=TRUE, 0=FALSE
+var v = {};
+</script-->
 
+<!--//MODIFIY PATH TO ZIG.JS-->
+<!--script language="javascript" src="http://www.discovercard.com/scripts/zig.js" type="text/javascript"></script-->
 
+<!--noscript>
+<img src="http://www.discovercard.com/images/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
+</noscript-->
+<!--//END VS REFERENCE PAGE TAG-->
 
 
 
