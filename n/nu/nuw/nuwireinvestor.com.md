@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuwireinvestor.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210130143id_/http%3A//www.nuwireinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuwireinvestor.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621083813id_/http%3A//www.nuwireinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs and services, to respond to your inquiries about our offerings and to offer you other products, programs or services that we believe may be of interest to you.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online magazine or to contact you about your account with us.
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our registration agreements, to fulfill a request by you for an online magazine or to contact you about your account with us.
 
 We use the information that you provide about others to enable us to send them your gifts or free promotional items. From time to time, we also may use this information to offer our products, programs or services to them.
 
