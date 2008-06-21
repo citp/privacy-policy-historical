@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223022619id_/http%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621235154id_/http%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
 
 # Adult DVD Marketplace - buy and sell new and used adult DVD movies
 
@@ -6,7 +6,9 @@ Your privacy is a major priority at Adult DVD Marketplace. Any information that 
 
 Any and all information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!
 
-To guarantee the maximum protection of your personal information, we use the latest technology to securely encrypt all information we collect. This information is encrypted as it is collected over the Internet, and it is also encrypted where it is stored in our database.
+To maximize the security of your credit card info, we do not preserve credit card info in our database-- this data is immediately discarded following a transaction.
+
+Furthermore, to guarantee the maximum protection of your personal information, we use the latest technology to securely encrypt all information that must be transmitted over the Internet.
 
 When you place an order on our site, we provide your sellers with the minimum information needed to successfully fulfill your order. We expect our sellers to abide by these same privacy guidelines.
 
