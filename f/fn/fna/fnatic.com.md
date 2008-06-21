@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnatic.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214204959id_/http%3A//www.fnatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnatic.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621130057id_/http%3A//www.fnatic.com/about/privacy) for the most accurate reproduction.*
 
 # Fnatic.com E-Sports, A competitive gaming team - About
 
@@ -36,9 +36,9 @@ The Fnatic Team is a professional video gaming team, consisting of players from 
 The fnatic team won the **ESPORTS TEAM OF THE YEAR AWARD 2006** and is considered to have world class squads in the games Counter-Strike, Quake 4, and Warcraft 3. To read more about what Fnatic is, the about section can be read **[here](https://web.archive.org/about/)**.  
   
 ---  
-Multiplay i32 |   
-Multiplay i32 |   
-SLAP LIVE #13 |   
+WC3 Masters #1 |   
+KODE5 Grand Finals |   
+Kode5 Global Finals |   
 [more achievements](https://web.archive.org/achievements/)  
   
-All Content © FNATIC PTY LTD, 2004 - 2007
+All Content © FNATIC PTY LTD, 2004 - 2008
