@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressionengine.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212044800id_/http%3A//expressionengine.com/contact/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressionengine.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621072910id_/http%3A//expressionengine.com/contact/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExpressionEngine
 
