@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214193736id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621175956id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz
 
@@ -56,23 +56,23 @@ Cookies in and of themselves do not personally identify users, although they do 
 Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz reserves the right to change its [privacy policy](https://web.archive.org/Privacy.asp) at any time and notify you by posting an updated version of the policy on its website.  
 
 
-[ ](https://web.archive.org/StatsPage.asp) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.asp)  
-Based on unique browsers, ExplorOz stands out as the top ranking Australian 4WD, Caravan & Camping website amongst a number of niche categories. 
-
-[ ](https://web.archive.org/sitesearch_help.asp) [Site Search Help](https://web.archive.org/sitesearch_help.asp)  
-Find out how to use the ExplorOz Site Search System 
+[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
+Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! [[Feature Story]](https://web.archive.org/SiteUpdates.aspx)
 
 [ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
 Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). 
 
-[ ](https://web.archive.org/Privacy.asp) [Privacy Policy](https://web.archive.org/Privacy.asp)  
-This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general Terms of Use governing the Site and should be read in conjunction with such Terms of Use. 
-
-[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
-Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
+[ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
+ExplorOz stands out as the top ranking Australian 4WD, Caravan & Camping website and is a major Travel & Automotive Portal. 
 
 [ ](https://web.archive.org/RSSFeedList.aspx) [ExplorOz RSS Feeds](https://web.archive.org/RSSFeedList.aspx)  
 RSS (or Really Simple Syndication) provides a convenient way for you to receive content “feeds” from ExplorOz. With over 200 channels of content available there is bound to be a channel suitable for you. 
 
 [ ](https://web.archive.org/LinktoUs.asp) [Linking to ExplorOz](https://web.archive.org/LinktoUs.asp)  
 If you wish to link to ExplorOz content from your website then you will need to follow these guidelines. 
+
+[ ](https://web.archive.org/Privacy.asp) [Privacy Policy](https://web.archive.org/Privacy.asp)  
+This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general Terms of Use governing the Site and should be read in conjunction with such Terms of Use. 
+
+[ ](https://web.archive.org/sitesearch_help.asp) [Site Search Help](https://web.archive.org/sitesearch_help.asp)  
+Find out how to use the ExplorOz Site Search System 
