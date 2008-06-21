@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftitamerica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211111245id_/http%3A//www.giftitamerica.com/lch2.php%3Flk%3D421%26bid%3D27%26sesp%3D395_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftitamerica.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622013903id_/http%3A//www.giftitamerica.com/lch2.php%3Flk%3D421%26bid%3D27%26sesp%3D395_0) for the most accurate reproduction.*
 
 # GiftItAmerica.com Privacy Policy
 
@@ -8,7 +8,7 @@ http://www.giftitamerica.com ****
 
 **Review Our Privacy Policy**
 
-Last Revised: Aug 8, 2007
+Last Revised: May 13, 2008
 
 Use the links below to navigate to specific information about our Privacy Policy.  
 ---  
@@ -98,15 +98,10 @@ Pages on our Site may contain "web beacons" (also known as Internet tags, pixel 
 
 ** Client Offers and Third Parties**
 
-By registering at this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our Clients; (b) receive future information about products and services from us and from a variety of third parties to whom we may provide your information; (c) permit us, our Clients and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or cell number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ).
+By registering at this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our Clients; (b) receive future information about products and services from us and from a variety of third parties to whom we may provide your information; (c) permit us, our Clients and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or cell number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ).  
+Click here to view a representative list of Clients and third parties who may contact you. 
 
 Please see the opt-out procedures below if you do not want us to share your information with other companies or organizations. 
-
-** Terms for Specific Clients**
-
-**_ Central Florida Investments, Inc. and Westgate Resorts, Ltd._**
-
-If you indicated a vacation preference and responded to the vacation question on page 2 of the registration process, you agree that your personally identifiable information will be disclosed to Central Florida Investments, Inc, and Westgate Resorts, Ltd (collectively, "Westgate") and you will be considered to have made a business inquiry of Westgate, despite that neither entity is otherwise affiliated with or responsible for content contained on this Site. You agree that Westgate may contact you by telephone, including contacting you using an automated telephone dialing system, prerecorded message, or by email. You agree to hold Westgate and its affiliates harmless from and release and indemnify them and their agents and employees from any and all liability that may arise from your entering your personal information through this Site. You agree and acknowledge that Westgate may disclose your personally identifiable information to unrelated third parties.
 
 ** Other Circumstances **
 
@@ -234,10 +229,12 @@ If we change this Privacy Policy, updates will be posted in this privacy stateme
   
 
 
-[1] You are a subscriber if you choose to complete an online survey and/or register for a service, offer or promotion at our Site.
+[1] You are a subscriber if you choose to complete an online survey and/or register for or otherwise provide information in association with a service, offer or promotion at our Site.
 
 [2] Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
 
 [3] What is a cookie? A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computer and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences. Cookies let us know about repeat visitors and if we are delivering quality products and services to our Clients. We may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our affiliates and other business partners. We may share this information with third parties, but only in aggregated, anonymous form, including reporting the results of advertising campaigns. Reporting and analyzing the performance of offers and advertisements improves our ability to serve the right offer at the right time, increasing the increasing the personalization of your experience on the Site.
 
 You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit http://www.aboutcookies.org. 
+
+**Processing**
