@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the createblog.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231001808id_/http%3A//www.createblog.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the createblog.com privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621070121id_/http%3A//www.createblog.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy - CreateBlog</title>
-	<link rel="stylesheet" href="http://www.createblog.com/includes/daytime.css" type="text/css">
+	<link rel="stylesheet" href="http://www.createblog.com/includes/13.css" type="text/css" id="css">
 	<script type="text/javascript" src="http://www.createblog.com/includes/global.js"></script>
 	<script type="text/javascript" src="http://www.createblog.com/includes/jquery.js"></script>
 	<script type="text/javascript" src="http://www.createblog.com/includes/thickbox.js"></script>
@@ -25,7 +25,7 @@
 	</div>
 	
 		
-	<a href="http://www.createblog.com/"><img src="/images/logo.gif" alt="CreateBlog"></a>
+	<a href="http://www.createblog.com/" id="logo" title="CreateBlog"></a>
 		
 	<div class="clear"></div>
 		
@@ -41,6 +41,7 @@
 		<li><a href="http://www.createblog.com/layouts/index.php?layout=website_templates">Website Templates</a></li>
 		<li><a href="http://www.createblog.com/layouts/index.php?layout=wordpress_themes">Wordpress Themes</a></li>
 		<li><a href="http://www.createblog.com/layouts/index.php?layout=movabletype_styles">Movabletype Styles</a></li>
+		<li><a href="http://www.createblog.com/layouts/index.php?layout=createblog_layouts">CreateBlog Layouts</a></li>
 		</ul>
 	</li>
 	<li><a href="http://www.createblog.com/graphics/">Graphics</a>
@@ -101,10 +102,10 @@
 	</li>
 	<li class="submit"><a href="http://www.createblog.com/layouts/submit.php">Submit!</a>
 		<ul id="rightdrop">
-		<li class="top"><a href="http://www.createblog.com/layouts/submit.php">Submit Layout</a></li>
-		<li><a href="http://www.createblog.com/graphics/submit.php">Submit Graphic</a></li>
-		<li><a href="http://www.createblog.com/scripts/submit.php">Submit Script</a></li>
-		<li><a href="http://www.createblog.com/tutorials/submit.php">Submit Tutorial</a></li>
+		<li class="top"><a href="http://www.createblog.com/layouts/submit.php">Submit Layouts</a></li>
+		<li><a href="http://www.createblog.com/graphics/submit.php">Submit Graphics</a></li>
+		<li><a href="http://www.createblog.com/scripts/submit.php">Submit Scripts</a></li>
+		<li><a href="http://www.createblog.com/tutorials/submit.php">Submit Tutorials</a></li>
 		</ul>
 	</li>
 	</ul>
@@ -201,8 +202,10 @@ If you have any questions about this privacy statement, the practices of this si
 	<div id="footer">
 		
 	<div>
-	©2007 CreateBlog.com | 
+	©2008 CreateBlog.com | 
 	<a href="http://www.createblog.com/">Home</a> ·
+	<a rel="nofollow" href="http://www.createblog.com/affiliates/">Affiliates</a> ·
+	<a href="http://www.createblog.com/leader.php">Leader</a> ·
 	<a href="http://www.createblog.com/about.php">About</a> ·
 	<a href="http://www.createblog.com/contact.php">Contact</a> ·
 	<a href="http://www.createblog.com/privacy.php">Privacy</a> ·
@@ -210,10 +213,27 @@ If you have any questions about this privacy statement, the practices of this si
 	</div>
 	
 	<div class="right">
-	<select style="font-size:9px;">
-	<option value="">Daytime Style</option>
+	<select onchange="update_css(this.options[this.selectedIndex].value);">
+	<option value="13" selected="selected">Daytime Style</option>
+	<option value="15">Nighttime Style</option>
+	<option value="16">Latte Style</option>
+	<option value="17">Espresso Style</option>
 	</select>
 	</div>	
+
+	<script type="text/javascript">
+	
+	function update_css(id) {
+		
+		id = Number(id);
+		
+		ajax('/ajax/css.php?id='+id, '', 'GET');
+		
+		$$('css').href = 'http://www.createblog.com/includes/' + id + '.css';
+		
+	}
+	
+	</script>
 		
 	</div>
 
