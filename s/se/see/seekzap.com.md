@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020145232id_/http%3A//www.seekzap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/privacy.asp) for the most accurate reproduction.*
 
 # Seekzap.com - Privacy Policy
 
@@ -33,16 +33,16 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them.
 
-Consumers can access this information by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20061020145232id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
+Consumers can access this information by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
 
 Upon request we offer visitors the ability to have inaccuracies corrected in unique identifiers.
 
-Consumers can have this information corrected by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20061020145232id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
+Consumers can have this information corrected by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.  
  
 
-There are 1151 links in the Seekzap directory.   
+There are 2508 links in the Seekzap directory.   
 ---
