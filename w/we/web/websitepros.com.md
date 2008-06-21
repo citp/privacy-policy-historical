@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100754id_/http%3A//www.websitepros.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621192957id_/http%3A//www.websitepros.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Website Pros respects the privacy of the visitors of its website, the home page of which is located at [http://www.websitepros.com](http://www.websitepros.com/).
+Web.com respects the privacy of the visitors of its website, the home page of which is located at [http://www.websitepros.com](http://www.websitepros.com/).
 
 This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. “Personal Information” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -13,7 +13,7 @@ We act as a service provider to our customers and may process and store on behal
  **User Consent**  
 By submitting Personal Information through our website, you agree to the terms of this Privacy Statement.
 
-You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Website Pros, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Web.com, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
  **Collection of Personal Information**  
 The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to offer you additional information and opportunities.
@@ -60,13 +60,13 @@ We are not in the business of selling information about our customers or visitor
 
 To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific description about your business, information about your location, and information about your products and services to third-party services and to the general public.
 
-We also use third parties to maintain and store your Personal Information and to process any payment you make to us. These third parties are required not to use your Personal Information other than to provide the services requested by Website Pros.
+We also use third parties to maintain and store your Personal Information and to process any payment you make to us. These third parties are required not to use your Personal Information other than to provide the services requested by Web.com.
 
 Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), we may in the future. We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Statement.
 
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Statement.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Website Pros; or (b) to protect and defend the rights or property of Website Pros or users of our website.
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Web.com; or (b) to protect and defend the rights or property of Web.com or users of our website.
 
  **Your Choices Regarding Your Personal Information**  
 Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@websitepros.com](mailto:info@websitepros.com). Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
@@ -78,7 +78,7 @@ Our website is not designed for minors under the age of 18. We do not intentiona
 Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Statement do not apply to these outside websites.
 
  **Security**  
-We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible. No company, including Website Pros, can fully eliminate security risks associated with Personal Information.
+We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible. No company, including Web.com, can fully eliminate security risks associated with Personal Information.
 
  **Contact Us**  
 Should you have any questions or concerns regarding this Privacy Statement, please contact us:  
@@ -93,4 +93,4 @@ This Privacy Statement is subject to occasional revision, and if we make any sub
 This statement was last updated on October 31, 2005.
 
  **Conditions of Use and Revisions**  
-If you choose to visit Website Pros’ website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
+If you choose to visit Web.com’ website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
