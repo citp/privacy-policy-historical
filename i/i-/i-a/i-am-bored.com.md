@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219114005id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621085121id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
 
 # I Am Bored - Sites for when you're bored.
 
@@ -92,4 +92,4 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-< [**Back to I Am Bored Home**](https://web.archive.org/web/20071219114005id_/http%3A//www.i-am-bored.com/im_bored_latest_1.htm)
+< [**Back to I Am Bored Home**](https://web.archive.org/web/20080621085121id_/http%3A//www.i-am-bored.com/im_bored_latest_1.htm)
