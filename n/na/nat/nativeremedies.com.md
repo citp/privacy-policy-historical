@@ -1,6 +1,69 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016081526id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621105013id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Native Remedies Privacy Policy
+
+  * [Beauty & Personal Care
+
+Skin Care, Hair & Nails, Personal Hygiene and Weight
+
+](https://web.archive.org/category/beauty-personal-care-remedies-natural-herbal.html)
+  * [Body & Physical
+
+Thyroid & Adrenal, Pain & Recovery, Liver & Pancreas, Hair Loss…
+
+](https://web.archive.org/category/physical-remedies-health-natural-herbal.html)
+  * [Child Health 
+
+Learning & Concentration, Mood & Behavior, Child Obesity…
+
+](https://web.archive.org/category/children-remedies-health-natural-herbal.html)
+  * [General/Family Health
+
+Embarrassing Conditions, Infections, Cuts & Bruises, Immunity & Energy, Colds, Flu & Respiratory, Skin Health…
+
+](https://web.archive.org/category/general-remedies-health-natural-herbal.html)
+  * [Men’s Health
+
+Prostate, Sexual Health, Heart Health…
+
+](https://web.archive.org/category/men-remedies-health-natural-herbal.html)
+  * [Mom & Baby 
+
+Infant Comfort & Health Aids, Post-Partum Support…
+
+](https://web.archive.org/category/mom-baby-remedies-health-natural-herbal.html)
+  * [Pregnancy & Conception 
+
+Conception Support, Labor and Delivery Aids, Pregnancy Support…
+
+](https://web.archive.org/category/pregnancy-conception-remedies-health-natural-herbal.html)
+  * [Psychological
+
+Mood Support, Stress & Sleep, Learning & Concentration…
+
+](https://web.archive.org/category/psychological-remedies-health-natural-herbal.html)
+  * [Seniors’ Health
+
+Memory, Vision, Joint Health…
+
+](https://web.archive.org/category/seniors-remedies-health-natural-herbal.html)
+  * [Travel Health 
+
+Immunity & General Support, Digestive Support, Minor Travel Injuries…
+
+](https://web.archive.org/category/travelers-staying-healthy-while-traveling.html)
+  * [Weight Management
+
+Metabolism & Obesity, Detox & Cleansing, Energy…
+
+](https://web.archive.org/category/weight-management-remedies-health-natural-herbal.html)
+  * [Women’s Health
+
+Menopause, Sexual Health, Urinary Tract…
+
+](https://web.archive.org/category/women-remedies-health-natural-herbal.html)
+
+
 
 ## Privacy Policy
 
