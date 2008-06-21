@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215223259id_/http%3A//smartyhost.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621072009id_/http%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
 
-# Australia Web Hosting Support
+# SmartyHost
 
 **Information Collection** **and Use**  
 Smartyhost Pty Ltd is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Smartyhost Pty Ltd collects information from our users at several different points on our website. 
