@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229060605id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621122528id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
 
 # .:: SurveySpot.com ::.
 
