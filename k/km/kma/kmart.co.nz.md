@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224054152id_/http%3A//www.kmart.co.nz/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622000628id_/http%3A//www.kmart.co.nz/about/privacypolicy) for the most accurate reproduction.*
 
 # Kmart Home >
 
