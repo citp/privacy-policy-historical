@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelgames.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229044819id_/http%3A//www.novelgames.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelgames.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621220655id_/http%3A//www.novelgames.com/privacystatement) for the most accurate reproduction.*
 
 # Novel Games - Privacy Statement
 
