@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214183133id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621121518id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Lazydays RV SuperCenter - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
+# Privacy Policy - Lazydays RV SuperCenter - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
 
-LAZYDAYS PRIVACY POLICY
+**LAZYDAYS PRIVACY POLICY**
 
 Lazydays is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Website. We hope that this disclosure will help increase your confidence in our site and enhance your experience on the Internet. 
 
-Q1: What types of information is Lazydays collecting, and how is Lazydays collecting it?
+**Q1:** What types of information is Lazydays collecting, and how is Lazydays collecting it?
 
-Q2: How does Lazydays use the personally identifiable information that has been collected?
+**Q2:** How does Lazydays use the personally identifiable information that has been collected?
 
-Q3: Does Lazydays share information with companies or other organizations that are not part of Lazydays’ site?
+**Q3:** Does Lazydays share information with companies or other organizations that are not part of Lazydays’ site?
 
-Q4: What choices do I have about Lazydays collecting, using, and sharing my information?
+**Q4:** What choices do I have about Lazydays collecting, using, and sharing my information?
 
-Q5: What type of security does Lazydays provide?  
-  
-Q6: How can I access my account information?
+**Q5:** What type of security does Lazydays provide?
 
-Q7: Whom do I contact with questions or concerns about this privacy policy?
+**Q6:** How can I access my account information?
 
-Q1: What types of information is Lazydays collecting, and how is Lazydays collecting it?
+**Q7:** Whom do I contact with questions or concerns about this privacy policy?
+
+**Q1** : What types of information is Lazydays collecting, and how is Lazydays collecting it?
 
 The majority of great products and services on our site are offered without our collecting any personally identifiable information from you. There are a few activities on our site where the collection of personally identifiable information is necessary. Those activities include, but are not limited to, things like requesting promotional literature, entering a contest or sweepstakes, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name, phone number, address, e-mail address, birth date, gender, and zip code. 
 
@@ -30,11 +30,11 @@ Our site collects some information about you using technology, so it may not be 
 _What Are Cookies, and How Does Lazydays Use Them?_  
 Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. These pieces of information allow the Website to remember important information that will make your use of that site more useful. Lazydays and other companies use cookies for a variety of purposes. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to features or certain Websites that make your web experience more efficient, and some of our services will not function properly.
 
-Q2: How does Lazydays use the personally identifiable information that has been collected?
+**Q2:** How does Lazydays use the personally identifiable information that has been collected?
 
 Lazydays uses personally identifiable information in a limited number of ways. We use the information to mail you promotional literature that you requested, or to set up your “My Lazydays” account. Information we collect may be used to send you e-mail updates about our site, products and services. We also use the information you provide to send you Lazydays’ e-mail promotions and special offers from our third-party sponsors. 
 
-Q3: Does Lazydays share information with companies or other organizations not a part of the Lazydays’ family of sites?
+**Q3:** Does Lazydays share information with companies or other organizations not a part of the Lazydays’ family of sites?
 
 One of the most valuable assets of our business is you. We are not in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. 
 
@@ -53,19 +53,19 @@ Once you have clicked on an advertisement and have left Lazydays’ site, our pr
 _Organizations That Help Protect the Security and Safety of Our Guests and Our Site_  
 We will give out personal information as required by law, for example, to comply with a Court Order or Subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites.
 
-Q4: What choices do I have about Lazydays collecting, using, and sharing my information?
+**Q4:** What choices do I have about Lazydays collecting, using, and sharing my information?
 
 It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us, or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Lazydays and from our third-party partners. You can request, at any time, that Lazydays not send future e-mail to you either by unsubscribing from the communication or by contacting us at HYPERLINK "" Error! Hyperlink reference not valid. Also, as mentioned above, there are ways to limit the information collected through technology, although some of our features will not work if you decide to do this.
 
-Q5: What type of security does Lazydays provide?
+**Q5:** What type of security does Lazydays provide?
 
 The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. Lazydays takes technical, contractual, administrative and physical security steps to protect all visitors’ information. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish surfing the Web so that other people using the same computer will not have access to your information. 
 
-Q6: How can I access my account information?
+**Q6:** How can I access my account information?
 
 You can access the personally identifiable information you gave us to create your “My Lazydays” account in the “My Account” section of our website. Simply click on the “My Lazydays” tab, log in and click the “My Account” link. 
 
-Q7: Whom do I contact with questions or concerns about this privacy policy?
+**Q7:** Whom do I contact with questions or concerns about this privacy policy?
 
 If you need further assistance, please send an e-mail with your questions or comments to: 
 
