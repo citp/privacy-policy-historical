@@ -1,0 +1,630 @@
+<!--The following is the downloaded HTML source of the healthizen.com privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621093819id_/http%3A//www.healthizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Privacy Policy - Healthizen
+</title><link href="css/hindex.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="phrindex.css" type="text/css" media="screen"><link rel="stylesheet" href="style.css" type="text/css" media="screen"><link rel="stylesheet" href="ajaxtabscontent/ajaxtabs/ajaxtabs.css" type="text/css" media="screen"><link rel="stylesheet" href="style2.css" type="text/css" media="screen"><link href="greybox/gb_styles.css" rel="stylesheet" type="text/css" media="all">
+	 <script type="text/javascript">
+        var GB_ROOT_DIR = "./greybox/";
+    </script>	
+	<script type="text/javascript" src="greybox/AJS.js"></script>
+    <script type="text/javascript" src="greybox/AJS_fx.js"></script>
+    <script type="text/javascript" src="greybox/gb_scripts.js"></script>
+<script type="text/javascript" src="js/functions.js"></script><script src="scripts/signinmodule.js" type="text/javascript"></script><script type="text/javascript" src="scripts/prototype.lite.js"></script><script type="text/javascript" src="scripts/moo.fx.js"></script><script type="text/javascript" src="scripts/moo.fx.pack.js"></script><script type="text/javascript" src="scripts/tabcontent.js">
+
+/***********************************************
+* Tab Content script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script><script type="text/javascript" src="scripts/animatedcollapse.js">
+					tabledeleterow.js
+					/***********************************************
+					* Animated Collapsible DIV- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+					* This notice MUST stay intact for legal use
+					* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+					***********************************************/
+					
+					</script><script type="text/javascript" src="ajaxtabscontent\ajaxtabs\ajaxtabs.js">
+
+					/***********************************************
+					* Ajax Tabs Content script v2.0- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+					* This notice MUST stay intact for legal use
+					* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+					***********************************************/
+					
+					</script><script type="text/javascript">
+					
+
+/* my js code */
+
+function AttachEvent(obj,evt,fnc,useCapture){
+	if (!useCapture) useCapture=false;
+	if (obj.addEventListener){
+		obj.addEventListener(evt,fnc,useCapture);
+		return true;
+	} else if (obj.attachEvent) return obj.attachEvent("on"+evt,fnc);
+	else{
+		MyAttachEvent(obj,evt,fnc);
+		obj['on'+evt]=function(){ MyFireEvent(obj,evt) };
+	}
+} 
+function MyAttachEvent(obj,evt,fnc){
+	if (!obj.myEvents) obj.myEvents={};
+	if (!obj.myEvents[evt]) obj.myEvents[evt]=[];
+	var evts = obj.myEvents[evt];
+	evts[evts.length]=fnc;
+}
+function MyFireEvent(obj,evt){
+	if (!obj || !obj.myEvents || !obj.myEvents[evt]) return;
+	var evts = obj.myEvents[evt];
+	for (var i=0,len=evts.length;i<len;i++) evts[i]();
+}
+
+function setup()
+{
+    var divParent = document.getElementById('innerrightcontent');  
+    
+    var cntNodes = divParent.childNodes.length;
+    var count = 0 ;
+    
+    for(ndx=0; ndx < divParent.childNodes.length; ++ndx)
+    {
+      var child = divParent.childNodes[ndx];
+      count += (child.nodeType == 1 ? 1 : 0);
+    }
+    
+    var loopc = 0 ;
+    var loopcnt = 0 ; 
+    
+    for(i=0;i<cntNodes;i++)
+    {
+        var element = divParent.childNodes[i];
+        
+        if(element.nodeType == 1 )
+        {
+            if(element.tagName == "H5")
+            {
+                AttachEvent(element,"click",tabClick);
+                if(loopcnt>0)
+                  element.className = "showCursor";
+                  
+                loopcnt ++ ; 
+            }
+            if(element.tagName == "UL" )
+            {
+                if(loopc>0)
+                {
+                    element.className = "hide";
+                }
+                loopc ++ ;
+            }
+        }        
+    }
+}
+
+function tabClick(ev)
+{
+    // setTimeout(tabClick,2000);
+    var target = (ev.target ? ev.target : ev.srcElement);
+    var nextElement = target.nextSibling;
+    while( nextElement && (nextElement.nodeType != 1) ) 
+    {
+      nextElement = nextElement.nextSibling;
+    }
+    var cntNodes = nextElement.childNodes.length;
+    
+    var parentElem = nextElement.parentNode;
+    var cntNodes = parentElem.childNodes.length;
+    for(k=0;k<cntNodes;k++)
+    {
+        var elementt = parentElem.childNodes[k];
+       
+        if(elementt.nodeType == 1)
+        { 
+            if(elementt.tagName == "H5" )
+            {
+                if(target !== elementt)
+                {
+                    elementt.className = "showCursor" ; 
+                }
+                else
+                {  
+                    elementt.className = "" ;
+                }
+            }
+            if(elementt.tagName == "UL" )
+            {
+                if(nextElement != elementt)
+                {
+                     elementt.className = "hide" ;
+                }
+                else
+                {
+                     elementt.className = "show" ;
+                }
+            }
+        }
+    }
+    
+}
+
+</script><script type="text/javascript">
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script><script type="text/javascript">
+function ChangeText()
+    {
+        document.getElementById('_ctl0_txtSearch').value = "";
+        document.getElementById('_ctl0_txtSearch').style.fontStyle = "Normal";
+        document.getElementById('_ctl0_txtSearch').style.ForeColor = "Black";
+        document.getElementById('_ctl0_txtSearch').style.fontFamily.fontColor = "Black";
+        document.getElementById('_ctl0_txtSearch').style.BorderColor = "Black";
+        document.getElementById('_ctl0_txtSearch').style.font.fontColor = "Black";
+        document.getElementById('_ctl0_txtSearch').style.fontWeight.fontColor = "Black";
+        document.getElementById('_ctl0_txtSearch').style.font.fontSize = "5";
+        //Font-Italic="true" Font-Size="Small" ForeColor="Orange" BackColor="White" BorderColor="RosyBrown"
+        
+        document.getElementById('_ctl0_searchTextChangedIndicator').value = true;
+    }
+</script></head>    
+	                 
+	                
+					
+					
+					
+					
+					
+					
+					
+
+
+
+
+ <body id="indexnew">
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgEPZBYCAgMPZBYCAgEPEA8WBh4NRGF0YVRleHRGaWVsZAUETmFtZR4ORGF0YVZhbHVlRmllbGQFAklEHgtfIURhdGFCb3VuZGdkEBUHCEhvc3BpdGFsBkNsaW5pYwZEb2N0b3IDTGFiDE51cnNpbmcgSG9tZQpCbG9vZCBCYW5rCFBoYXJtYWN5FQcBMQEyATMBNQE2ATcBOBQrAwdnZ2dnZ2dnZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFD19jdGwwOmJ0blNlYXJjaAUOX2N0bDA6YnRuTG9naW5pJlYNKmhd7b+0q2NPzUC/z/w1AA==">
+
+     <p id="skipto">
+        <a href="#maincontent" title="Skip to content">Skip to Content</a></p>
+       <div class="topad" align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0754707473166880";
+//728x90, created 14/12/07
+google_ad_slot = "3324040545";
+google_ad_width = 728;
+google_ad_height = 90;
+google_cpa_choice = ""; // on file
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<input name="_ctl0:Hidden1" type="hidden" id="_ctl0_Hidden1" value="false">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<!--outer table-->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="3">
+<!--masthead table starts-->
+<div id="mastheadnew">
+<div class="logo"><a href="http://www.healthizen.com"><img src="images/logo.gif" alt="Healthizen" width="186" height="65" border="0"></a></div>
+<div id="_ctl0_searchpanel">
+	
+<div class="searchboxnew">
+  <table width="100%" height="42" border="0" cellpadding="0" cellspacing="0" background="images/searchboxbg.gif">   
+    <tbody><tr>     
+      <td align="right" style="width:25px;"></td>
+      <td><select name="_ctl0:cboDatatype" id="_ctl0_cboDatatype" class="input" onchange="javascript:ShowItemsForLocalSearch();">
+		<option value="1">Hospital</option>
+		<option value="2">Clinic</option>
+		<option selected="selected" value="3">Doctor</option>
+		<option value="5">Lab</option>
+		<option value="6">Nursing Home</option>
+		<option value="7">Blood Bank</option>
+		<option value="8">Pharmacy</option>
+
+	</select></td>
+      <td align="center" valign="middle" style="width:35px;">in</td>
+      <td align="left" valign="middle"> 
+      <input name="_ctl0:txtSearch" type="text" value="Enter keyword" id="_ctl0_txtSearch" class="keyinput" onclick="ChangeText();"></td>
+      <td align="center" valign="middle">
+          <input type="image" name="_ctl0:btnSearch" id="_ctl0_btnSearch" src="images/clipart/magnifier.gif" border="0"> </td>
+      <td align="center" valign="middle"><a href="LocalSearch.aspx">Advanced</a></td>
+       <td align="right"></td>
+    </tr>
+    <tr>
+     <td width="5"></td>
+      <td width="96"></td>
+      <td width="11"></td>
+      <td width="134"></td>
+      <td width="23"></td>
+      <td width="66"></td>
+       <td width="5"></td>
+    </tr>
+  </tbody></table>
+</div>
+
+</div>
+<div id="_ctl0_loginpanel">
+	   <div class="loginboxnew">
+  <table width="100%" height="44" border="0" cellpadding="0" cellspacing="0" background="images/searchboxbg.gif">
+       <tbody><tr>      
+      <td height="21" align="right">Username : </td>
+      <td><input name="_ctl0:txtUserName" type="text" id="_ctl0_txtUserName" tabindex="1" class="logbox"></td>
+      <td colspan="2"><a href="ForgotPassword.aspx">Forgot password?</a></td>
+      <td><a href="InitiateRegistrationProcess.aspx">Register</a></td>
+      <td><a href="javascript:var page=GB_showCenter('Healthizen : Help','../Help.aspx','',600)" class="whtlinktxt">Help</a></td>
+    </tr>
+     <tr>
+      <td height="20" align="right">Password : </td>
+      <td height="20"> <input name="_ctl0:txtPassword" type="password" id="_ctl0_txtPassword" tabindex="2" class="logbox"></td>
+      <td><input type="image" name="_ctl0:btnLogin" id="_ctl0_btnLogin" tabindex="3" title="Login" src="images/buttons/login.gif" border="0">  </td>
+      <td></td>
+      <td></td>
+    </tr> 
+  </tbody></table>
+</div>
+ 
+</div> <div id="multi-level">
+<ul class="menu">	  
+	<li class="top recordnav"><a href="#" id="mhr" class="top_link"><b class="b_top"></b><span class="span_top">My Health Records</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="MedicalInformationDoctorVisit.aspx" class="menuarrow"><span>Upload records</span><!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li><a href="MedicalInformationDoctorVisit.aspx"><span>Doctor's Visit</span></a></li>
+						<li><a href="MedicalInformationHospitalization.aspx"><span>Hospitalization</span></a></li>
+						<li><a href="MedicalInformationHealthCheckup.aspx"><span>Health Check-up</span></a></li>
+						<li><a href="MedicalInformationMinorSurgery.aspx"><span>Minor Surgery</span></a></li>
+						<li><a href="MedicalInformationOnlyPrescriptions.aspx"><span>Only prescriptions</span></a></li>
+						<li><a href="MedicalInformationLabTest.aspx"><span>Only Lab tests</span></a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+			<li><a href="MedicalInformationDoctorVisit.aspx" class="menuarrow"><span>View records</span><!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li><a href="MedicalInformationDoctorVisitDisplay.aspx"><span>Doctor's Visit</span></a></li>
+						<li><a href="MedicalInformationHospitalisationDisplay.aspx"><span>Hospitalization</span></a></li>
+						<li><a href="MedicalInformationHealthCheckupDisplay.aspx"><span>Health Check-up</span></a></li>
+						<li><a href="MedicalInformationMinorSurgeryDisplay.aspx"><span>Minor Surgery</span></a></li>
+						<li><a href="MedicalInformationOnlyPrescriptionDisplay.aspx"><span>Only prescriptions</span></a></li>
+						<li><a href="MedicalInformationOnlyLabTestDisplay.aspx"><span>Only Lab tests</span></a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+			<li><a href="MedicalSearchAll.aspx"><span>Search Records</span></a></li>			
+			
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	<li class="top contnav"><a href="#" id="cont" class="top_link"><b class="b_top"></b><span class="span_top">My Vitals</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+		<li><a href="frmMEMBER_PersonalDetails.aspx"><span>Basic Health</span></a></li>
+		<li><a href="DentalCare.aspx" class="menuarrow"><span>Dental care</span><!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li><a href="DentalCare.aspx#1"><span>My Dentist</span></a></li>
+						<li><a href="DentalCare.aspx#2"><span>Regular Care</span></a></li>
+						<li><a href="DentalCare.aspx#3"><span>Dental Treatements</span></a></li>
+						<li><a href="DentalCare.aspx#4"><span>Caution</span></a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+			<li><a href="EyeCare.aspx" class="menuarrow"><span>Eye care</span><!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li><a href="EyeCare.aspx#1"><span>My Doctor</span></a></li>
+						<li><a href="EyeCare.aspx#2"><span>Regular Care</span></a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+		
+			<li><a href="frmMEMBER_%20Family_Member_History.aspx"><span>Family History</span></a></li>
+			<li><a href="frmMEMBER_%20Life_Style.aspx"><span>Life Style</span></a></li>
+			<li><a href="frmMEMBER_Allergies.aspx"><span>Allergies</span></a></li>
+			<li><a href="frmMEMBER_Immunizations.aspx"><span>Immunizations</span></a></li>
+			<li><a href="frmMEMBER_Emergency_Contacts.aspx" class="menuarrow"><span>My Contacts</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+			<ul>
+			<li><a href="frmMEMBER_Emergency_Contacts.aspx"><span>Emergency Contacts</span></a></li>
+			<li><a href="frmMEMBER_Health_Care_Providers.aspx"><span>Healthcare Providers</span></a></li>
+			<li><a href="frmMEMBER_Insurance_Providers.aspx"><span>Insurance Plans</span></a></li>
+			<li><a href="frmMember_Legal_Documents.aspx"><span>Legal Documents</span></a></li>
+				
+			</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]--></li> 
+		
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>	 
+	<li class="top trknav"><a href="#" id="trk" class="top_link"><b class="b_top"></b><span class="span_top">Trackers</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="BMICalculator.aspx"><span>Body Mass Index</span></a></li>
+			 
+			<li><a href="WeightCalculator.aspx"><span>Ideal Weight</span></a></li>
+			<li><a href="bloodalcohol.aspx"><span>Blood Alcohol</span></a></li>
+			<li><a href="CalorieCalculator.aspx"><span>Calorie Counter</span></a></li>
+			<li><a href="FitnessCalculator.aspx"><span>Activity Calculator</span></a></li>
+			<li><a href="BodyFatCalculator.aspx"><span>Body Fat</span></a></li>
+			<li><a href="cigaretteCalculator.aspx"><span>Cigarette Cost</span></a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	<li class="top rsknav"><a href="#" id="rsk" class="top_link"><b class="b_top"></b><span class="span_top">Risk Assessments</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="BackPainAssessmentOuterpage.aspx"><span>Back pain index</span></a></li>
+			<li><a href="DiabetesAssessmentOuterpage.aspx"><span>Diabetes risk</span></a></li>
+			<li><a href="DepressionAssessmentOuterpage.aspx"><span>Depression</span></a></li>
+			<li><a href="StrokeRiskAssessmentOuterPage.aspx"><span>Stroke</span></a></li>
+			<li><a href="HeartDiseaseRiskAssessment.aspx"><span>Heart diseases</span></a></li>
+			<li><a href="OsteoporosisAssessment.aspx"><span>Osteoporosis</span></a></li>
+			<li><a href="HearingLossAssessmentOP.aspx"><span>Hearing loss</span></a></li>
+			<li><a href="GERDAssessmentOP.aspx"><span>GERD</span></a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li class="top alrtnav"><a href="#" id="alrt" class="top_link"><b class="b_top"></b><span class="span_top">Alerts</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="LabDocAppointment.aspx"><span>Appointment Alert</span></a></li>
+			<li><a href="PrescriptionRefillReminder.aspx"><span>Prescription Refill</span></a></li>
+			<li><a href="LabTestReminders.aspx"><span>Test reminder</span></a></li>
+			<li><a href="VaccinationAlert.aspx"><span>Vaccination alert</span></a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li class="top commnav"><a href="#" id="comm" class="top_link"><b class="b_top"></b><span class="span_top">Communities</span><!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="default.aspx?g=topics&amp;f=26"><span>High Cholesterol</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=2"><span>High Blood Pressure</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=9"><span>Smoking</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=10"><span>Drug Abuse</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=11"><span>Rehab Centres</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=45"><span>Asthma</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=46"><span>Inhalers</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=42"><span>Back Pain</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=24"><span>Diabetes-general</span></a></li>
+			<li><a href="default.aspx?g=topics&amp;f=17"><span>Vaccinations</span></a></li>			
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+<li class="top kbnav"><a href="#" id="kb" class="top_link"><b class="b_top"></b><span class="span_top">&nbsp;&nbsp;Knowledge Base</span><!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+			<li><a href="DiseasesAndConditions.aspx"><span>Diseases &amp; conditions</span></a></li>
+			<li><a href="TreatmentsAndProcedures.aspx"><span>Treatments &amp; procedures</span></a></li>
+			<li><a href="HealthyLiving.aspx"><span>Healthy living</span></a></li>
+		</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+	</li>
+
+</ul>
+</div>
+
+</div>
+ <!--masthead table ends-->
+</td>
+</tr>
+
+
+<tr>
+<td colspan="3">           
+        <!-- //e homepage-headline -->
+        <div class="container">
+             
+ <input name="_ctl0:searchTextChangedIndicator" type="hidden" id="_ctl0_searchTextChangedIndicator" value="false">
+            					<div id="innerrightcontent">
+									
+<div class="leftnav">
+<h3 class="headerbar">Home </h3>
+	  <div><a href="aboutus.aspx">About us </a></div>
+          <div><a href="whatweoffer.aspx">What we offer </a></div>
+          <div><a href="membershipbenefits.aspx">Membership Benefit </a></div>
+          <div><a href="ourpartners.aspx" class="mainlinks">Our Partners</a> </div>
+          <div><a href="advertisewithus.aspx">Advertise with us</a></div>
+          <div><a href="http://vnurture.wordpress.com">Blog</a></div>
+          <div><a href="contactus.aspx">Contact us</a></div>
+          <div><a href="Feedback.aspx">Feedback </a></div><div><a href="TermsofUse.aspx">Terms of Use</a></div><div><a href="PrivacyPolicy.aspx" class="selected">Privacy Policy </a></div> 
+</div>
+
+								</div>
+								
+								<div id="innerleftcontent" style="width: 470px">
+								    
+                             
+								      
+<h2>Privacy Policy</h2>
+ 
+								    
+									<div class="contentarea" style="width: 470px">
+									
+										
+										
+										
+										<!--Put the Content Here-->
+										
+									
+                        
+                            
+                            
+                            
+                            
+
+										
+										
+										
+
+										<table width="465" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td rowspan="3" align="left" valign="top" style="width: 2px">&nbsp;</td>
+                      
+                    
+                    </tr>
+                  
+                    <tr>
+                      <td width="410" align="left" valign="top" class="maintextgray"><p>PLEASE READ CAREFULLY THE PRIVACY POLICY BEFORE USING THE Healthizen.COM WEBSITE ("Healthizen"). <br>
+                        <br>  
+                        At Healthizen, <span class="heddertext">we understand how important the privacy of personal information</span> is for you. This Privacy Policy will tell you what information we collect about you and about your use of Healthizen and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.<br>
+                        <br>
+                        Healthizen is committed to protecting the privacy of its users. The personal and medical information gathered by Healthizen is to assist you to monitor and manage your medical condition. Healthizen will not release your name, address, telephone number, emergency information or health data related to your medical history to any third party without your consent unless, 1) you expressly direct Healthizen to give the information to your healthcare providers, or 2) Healthizen is required to disclose such information by law.<br>
+                        <br>
+                        We make every reasonable effort to ensure that information held by Healthizen is confidential and secure. We disclose our information-security practices to you as clearly and fully as possible. These practices are reviewed regularly, and many of our business decisions, including Web design, technology selections, and third-party business relationships, begin and end with considerations for your privacy.<br>
+                        <br>
+                        While our philosophy will not change, the details of this policy will change over time as we add additional services and form relationships with new business partners. Please refer back to this page periodically. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices<br>
+                        <br>
+                        At Healthizen, we exercise state-of-the-art care in providing secure transmission of your information from your PC to our servers. Personal information collected by our web site is stored in secure operation environments that are not available to the public. Only employees authorized to access your data are able to do so based on a series of permission levels protected by passwords and software algorithms. All employees sign a confidentiality of data agreement at time of employment in which they agree to uphold the confidentiality of any such information. Only those employees who need access to your information in order to do their jobs are allowed access, each having signed confidentiality agreements. Any employee who violates our privacy or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.<br>
+                        <br>
+                        No one other than yourself and your trusted providers is permitted to make changes or updates to your Personal Health Record, unless a third party uses your User ID and Password. It is your responsibility to protect your User ID and Password, and thus your Personal Health Record, from unauthorized use.<br>
+                        <br>
+                        <span class="heddertext">Healthizen does not sell, trade or rent personal information about its users.</span> The email addresses you provide are used to respond to comments submitted through our message boards, and users that contact our site via email will not be subject to any communication from us other than as a response to the question/suggestion, unless specifically requested by the user.<br>
+                        <br>
+                        The Healthizen website contains links to other sites. Once you enter another website (whether through an advertisement, service, or content link), be aware that Healthizen is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every website that you visit through a link or advertisement on Healthizen.<br>
+                        <br>
+                        Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We take all reasonable steps to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. Despite Healthizen's efforts to protect your personal health information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted. As a result, you use Healthizen content, products, and services at your own risk. Healthizen or its promoters will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. <br>
+                        <br>
+                        Healthizen welcomes your questions and comments about privacy and this policy. If you have any questions about this Privacy Policy or our practices, please contact us at <a href="mailto:info@healthizen.com">info@healthizen.com</a>. <br>
+                            <br>
+                            </p>                        </td>
+                      <td width="15" align="left" valign="top">&nbsp;</td>
+                    </tr>
+                    
+                    <tr>
+                      <td align="left" valign="top">&nbsp;</td>
+                      <td align="right" valign="top" class="maintextgray"><a href="#mastheadnew">^ TOP</a></td>
+                      <td align="left" valign="top">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" style="width: 2px">&nbsp;</td>
+                      <td align="left" valign="top" class="maintextgray">&nbsp;</td>
+                      <td align="left" valign="top">&nbsp;</td>
+                    </tr>
+                  </tbody></table>
+										
+										
+									
+
+                            
+										
+									</div>
+							 </div>	
+								
+								<div id="inneradvertisement">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0754707473166880";
+//SideBar1_200x200, created 14/12/07
+google_ad_slot = "4024921735";
+google_ad_width = 200;
+google_ad_height = 200;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0754707473166880";
+//SideBar2_200x200, created 14/12/07
+google_ad_slot = "6381072335";
+google_ad_width = 200;
+google_ad_height = 200;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+									
+								</div>
+        
+        </div>
+       
+	    </td></tr>
+<tr>
+  <td width="6%">&nbsp;</td>
+  <td width="75%" class="blueline">&nbsp;</td>
+  <td width="19%">&nbsp;</td>
+</tr>
+<tr><td colspan="3">
+<!--copyright table starts-->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<div id="footernew">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td> <table width="65%" border="0" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+          <td align="center"><a href="aboutus.aspx" class="mainlinks">About us </a></td>
+          <td align="center"><a href="whatweoffer.aspx" class="mainlinks">What we offer </a></td>
+          <td align="center"><a href="membershipbenefits.aspx" class="mainlinks">Membership Benefit </a></td>
+          <td align="center"><a href="ourpartners.aspx" class="mainlinks">Our Partners</a> </td>
+          <td align="center"><a href="advertisewithus.aspx" class="mainlinks">Advertise with us</a></td>
+          <td align="center"><a href="http://vnurture.wordpress.com" class="mainlinks">Blog</a></td>
+          <td align="center"><a href="contactus.aspx" class="mainlinks">Contact us</a></td>
+          <td align="center"><a href="Feedback.aspx" class="mainlinks">Feedback </a></td>  <td align="center"><a href="Resources.aspx" class="mainlinks">Resources </a></td>              
+          
+        </tr>
+      </tbody></table></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Important Safety Information:</strong> Information provided here is NOT a prescription or medical advice.<br> 
+        You must consult with an authorized healthcare professional before using any of the above information. <br>
+        Read our<a href="PrivacyPolicy.aspx"> Privacy Policy</a> and <a href="TermsofUse.aspx">Terms of Use </a>for further informations.</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>© 2008 Healthizen. All Rights Reserved</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody></table>
+</div>
+</td>
+</tr>
+</tbody></table>
+<!--copyright table ends-->
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<!--!Outer table ends!-->
+</td></tr>
+</tbody></table>
+    <!-- //e container -->
+    
+<script>var itemLocalSearch0= new Array("Abortion Clinic#107","AIDS#1","Audiology#10","Cardiology#15","Cardiothoracic and Vascular Surgery#19","Dentist#31","Dermatology (Skin)#34","Diabetology#37","ENT (Ear, Nose and Throat)#40","Epilepsy#42","Eye (Opthamology)#43","General Physician#24","Laproscopic Surgery#98","Nephrology#94","Neurosurgery#92","Orthopaedics#84","Paedratics#82","Plastic Surgery#72","Speech Therapy#63","Surgery#55","Urology#49");var itemLocalSearch1= new Array("Abortion Clinic#106","Acupressure#4","AIDS#2","Aroma Therapy#7","Asthma#9","Cardiology#17","Cosmetic Surgery#26","Dentist#30","Dermatology (Skin)#33","Diabetology#36","ENT (Ear, Nose and Throat)#39","Eye (Opthamology)#45","Gastroentrologists#47","General Physician#22","Genetics#105","Haematology#103","Infertility #100","Laser Medicine#97","Oncology#13","Orthodontist#89","Orthopaedics#85","Paedeatric Surgery#76","Paedratics#80","Peridontistry#74","Plastic Surgery#70","Psychiatry#69","Sexology#65","Speech Therapy#62","Surgery#58","Urology#52");var itemLocalSearch2= new Array("Acupressure#5","AIDS#3","Anaesthesisa#6","Association#8","Audiology#11","Ayurvedic Treatment #125","Brochology#12","Cancer Specialists#121","Cardiology#16","Cardiothoracic and Vascular Surgery#20","Chest Specialist#21","Chest Specialist#124","Cosmetic Surgery #117","Counsellor#27","Dental Surgeon #123","Dentist#29","Dermatology (Skin)#32","Diabetology#35","Dietician#128","Endoscopy#133","ENT (Ear, Nose and Throat)#38","Epilepsy#41","Eye (Opthamology)#44","Flower Therapy#131","Gastroentrologists#46","General Physician#23","General Surgery #122","Gynaecology #114","Haematology#104","Hair Transplant#113","Homoeopathy #111","Infertility #102","Kidney Specialist#130","Laproscopic Surgeon#129","Laproscopic Surgery#99","Laser Medicine#96","Naturopathy &amp; Yogic Sciences#112","Nephrology#93","Neurology #116","Neurology #135","Neurosurgery#91","Oncology#14","Oral Surgery#90","Orthodontist#88","Orthopaedics#83","Paedeatric Surgery#75","Paedratics#79","Pathology#78","Pharmacuology, Toxicology#126","Physiotherapy#73","Piles#115","Plastic Surgery#71","Psychiatry#68","Psychologist #134","Radiology#118","Radiology#67","Sexology#64","Sexology #120","Sonography#119","Speech Therapy#61","Spinal Injury#60","Surgery#57","Surgical Oncology#136","Ultrasonology#53","Urology#48","Venereology#132","Veterinarian#127");var itemLocalSearch3= new Array("Cardiology#18","CT Scan#109","Dentist#28","Nephrology#95","Orthopaedics#87","Pathology#77","Radiology#66","Surgery#56","Ultrasonology#54","Urology#51");var itemLocalSearch4= new Array("General Physician#25","Infertility #101","Orthopaedics#86","Paedratics#81","Surgery#59","Urology#50");var itemLocalSearch5= new Array("Blood Bank#108");var itemLocalSearch6= new Array("Retail Pharmacy#110");var collectionLocalSearch = [ itemLocalSearch0,itemLocalSearch1,itemLocalSearch2,itemLocalSearch3,itemLocalSearch4,itemLocalSearch5,itemLocalSearch6 ];</script></form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3801324-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
