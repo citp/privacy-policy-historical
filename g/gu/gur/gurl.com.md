@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213073452id_/http%3A//gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621094631id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
 
 # gURL.com - an interactive web thing for teen girls.
 
@@ -157,4 +157,4 @@ Questions regarding this Privacy Policy should be directed to us at [feedback@ma
 |    
   
   
-© iVillage Inc. 1995-2007. All rights reserved.
+© iVillage Inc. 1995-2008. All rights reserved.
