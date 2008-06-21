@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223101528id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621210643id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
 
-# CAREER CENTER » JOB BANK - ONLINE WRITING JOBS / Freelance Writing Jobs / Freelance Writing Gigs / Freelance Jobs / Writing Gigs / Writing Jobs / CAREER CENTER
+# ONLINE WRITING JOBS - Freelance Writing Jobs
 
 PRIVACY POLICY  
 
