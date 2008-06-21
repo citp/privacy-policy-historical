@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217202910id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621233603id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cracked.com
 
