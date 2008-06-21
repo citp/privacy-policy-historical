@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012054851id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621051045id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
@@ -62,5 +62,5 @@ _Travelzoo Inc.
 ATTN: Justin Soffer  
 Vice President of Production and Content  
 590 Madison Avenue  
-21st Floor  
+37th Floor  
 New York, NY 10022 _
