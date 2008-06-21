@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218160330id_/http%3A//indiafm.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621154237id_/http%3A//www.indiafm.com/privacy/index.html) for the most accurate reproduction.*
 
 # Bollywood Online on IndiaFM : India's premier Bollywood portal
 
-**IndiaFM** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
+**Bollywood Hungama** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
 
 #### Information Automatically Logged 
 
@@ -16,7 +16,7 @@ Our Site uses cookies to make sure you don't see the same ad repeatedly. We also
 
 #### Advertisers 
 
-We work with various third party advertising networks namely Intercept Consulting, Focusin, Adforce, Clickagents, Dime Clicks & Iadvertise. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by advertising network, and we do not have access to this information. 
+We work with various third party advertising networks. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by advertising network, and we do not have access to this information. 
 
 To find out more about how the ad network manages the privacy of information in conjunction with serving ads on this site, please go to :   
 [Google](https://www.google.com/adsense/premium-login)  
@@ -28,16 +28,17 @@ To find out more about how the ad network manages the privacy of information in 
 
 #### Registration Forms 
 
-IndiaFM does not collect personally identifiable information about individuals, except when individuals provide such information on a voluntary basis in our contests 
+Bollywood Hungama does not collect personally identifiable information about individuals, except when individuals provide such information on a voluntary basis in our contests 
 
 Contact information from the registration forms is used to get in touch with the customer when necessary. Contact information is never shared with anyone or disclosed to third parties. 
 
-Demographic and profile data is also collected at our site.   
+Demographic and profile data is also collected at our site. 
+
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. This data is also used to serve banner ads. 
 
 #### External Links 
 
-This site contains links to other sites. **IndiaFM** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **Bollywood Hungama** is not responsible for the privacy practices or the content of such Web sites. 
 
 #### Public Forums 
 
