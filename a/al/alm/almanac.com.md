@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222234634id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621055255id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Old Farmer's Almanac
 
@@ -28,6 +28,6 @@ On the Web at: [www.Almanac.com](http://www.almanac.com/) and [www.YankeeMagazin
 
 Yankee Publishing Inc.,  P.O. Box 520, Dublin, NH 03444, USA,  (603) 563-8111
 
-**Copyright ©2007, Yankee Publishing Inc. All rights reserved.**
+**Copyright ©2008, Yankee Publishing Inc. All rights reserved.**
 
 Interactive features developed and maintained by [Reinvented Inc.](http://www.reinvented.info/)
