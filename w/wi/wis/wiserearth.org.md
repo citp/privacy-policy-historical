@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080735id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621131934id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
 
 # Article: Privacy Policy - WiserEarth
 
@@ -15,7 +15,7 @@ By using WiserEarth, you permit the collection and use of your personal informat
 
 NCI collects certain personal information from you when you register for a WiserEarth account, including a [username](https://web.archive.org/index.php//article/glossary/#U) and your email address, as well as location information such as the country you reside in. You can also choose to add additional personal information in your [user profile](https://web.archive.org/index.php//article/glossary/#U), including one or more profile photos. 
 
-We collect information about your use of WiserEarth that you do not explicitly submit. For example, we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. If you create an account on WiserEarth certain information relating to your activity on the Website, such as the date and time at which you register and the text of the comments and contributions you make on WiserEarth, and the time that you make them, is displayed in your profile and can be viewed by other users, whether or not they are logged into an account. 
+We collect information about your use of WiserEarth that you do not explicitly submit. For example, we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. If you create an account on WiserEarth certain information relating to your activity on the Website, such as the date and time at which you register and the text of the comments and contributions you make on WiserEarth, and the time that you make them, is displayed in your profile and can be viewed by other users, whether or not they are logged into an account. Internal messages you send to other users are not public.
 
 **II. Use of Your Information**
 
@@ -65,6 +65,8 @@ Registered users are able to add, modify and delete certain text and other conte
 
 WiserEarth offers personal messaging functionality, enabling its registered users to quickly communicate with each other while on WiserEarth. At this time, registered users cannot opt-out of personal messages initiated by other WiserEarth users. Accordingly, if you are concerned about receiving possible unsolicited personal messages from NCI or other users, we recommend that you do not register with WiserEarth. 
 
+Personal messages sent among WiserEarth users are private and can only be viewed by the recipient and the sender of the message.
+
 **X. Mailing Lists**
 
 WiserEarth may create mailing lists to which users can subscribe. If you subscribe to one of these lists we will use commercially reasonable efforts to ensure that your email address is not exposed to other subscribers. 
@@ -90,4 +92,4 @@ When we receive formal written complaints, it is NCI's policy to contact the com
 
 **XIII. Terms and Modifications to this Privacy Policy**
 
-By using WiserEarth, you signify your agreement to the terms of this Privacy Policy. If you do not agree with these terms, you should not use WiserEarth. NCI may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post a prominent notice of the nature of such change at the top of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
+By using WiserEarth, you signify your agreement to the terms of this Privacy Policy. If you do not agree with these terms, you should not use WiserEarth. NCI may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post a prominent notice of the nature of such change at the top of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy.
