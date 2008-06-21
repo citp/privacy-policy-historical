@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202153915id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621144609id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster - Privacy Statement
 
