@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018062654id_/http%3A//www.cardomain.com/service/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621191610id_/http%3A//www.cardomain.com/privacy) for the most accurate reproduction.*
 
 # CarDomain Network's Privacy Policy
 
@@ -6,15 +6,14 @@ CarDomain Network, Inc. (" _ **CarDomain**_ ") takes your privacy seriously. Ple
 
 ## What this Privacy Policy Covers
 
-  * This Privacy Policy covers CarDomain's treatment of information that CarDomain collects when you use or access websites or webpages on the CarDomain suite of sites (the " _ **CarDomain Network**_ ") or when you use CarDomain's services or purchase products offered by CarDomain (the " _ **Services**_ "). This policy also covers information that CarDomain may collect on a partner's site.
+  * This Privacy Policy covers CarDomain's treatment of information that CarDomain collects when you use or access websites or webpages on the CarDomain suite of sites (the " _ **CarDomain Network**_ ") or when you use CarDomain's services offered by CarDomain (the " _ **Services**_ "). This policy also covers information that CarDomain may collect on a partner's site.
   * This policy does not apply to the practices of companies that CarDomain does not own or control, or to people that CarDomain does not employ or manage.
 
 
 
 ## General Rules
 
-  * CarDomain will utilize user information to consummate a transaction or for some other transactional purpose. CarDomain does not share any sensitive private information ( _e.g._ , financial information) with any third parties, unless needed to consummate the transaction, guard against fraud, or for some other similar purpose.
-  * CarDomain may utilize personally identifiable user information to optimize the user experience. CarDomain may share this information with third parties (via an intermediary, which anonymizes this information) to analyze user behavior, serve advertisements that are tailored to the user's interests, and for other similar purposes. **CarDomain will not provide your credit card, bank account, or other financial information, or social security number, to any third parties at any time, except to effectuate any transaction requested by you.**
+  * CarDomain may utilize personally identifiable user information to optimize the user experience. CarDomain may share this information with third parties (via an intermediary, which anonymizes this information) to analyze user behavior, serve advertisements that are tailored to the user's interests, and for other similar purposes.
   * CarDomain may provide personally identifiable information to a third party who analyzes such information on behalf of CarDomain — CarDomain will not allow any third party to use personally identifiable information except to analyze or anonymize it.
   * CarDomain may send you promotional materials provided you consent. As a general rule, CarDomain will only send you promotional emails which you consent or request to. By consenting to receive CarDomain emails or updates you are not signing up to receive any third party communications (unless sent on behalf of CarDomain). CarDomain will not rent or sell your email address or other personal information. 
 
@@ -22,8 +21,7 @@ CarDomain Network, Inc. (" _ **CarDomain**_ ") takes your privacy seriously. Ple
 
 ## Information Collection
 
-  * CarDomain collects personally identifiable information when you register for a CarDomain membership, when you sign up for a CarDomain email newsletter, when you purchase a product or service from CarDomain, and when you enter CarDomain promotions or sweepstakes. CarDomain may also receive personally identifiable information from business partners.
-  * CarDomain requests information from you on our order form when making purchases. In this context you must provide contact information (such as name and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill your order. If we have trouble processing an order, this contact information is used to contact you.
+  * CarDomain collects personally identifiable information when you register for a CarDomain membership, when you sign up for a CarDomain email newsletter, and when you enter CarDomain promotions or sweepstakes. CarDomain may also receive personally identifiable information from business partners.
   * Once you register with CarDomain and sign in to our services, you are not anonymous to CarDomain.
   * CarDomain also automatically receives and records information on our server logs from your browser including your IP address, CarDomain cookie information and the pages you requested and accessed. This information tracks website usage and behavior.
 
@@ -46,7 +44,7 @@ CarDomain Network, Inc. (" _ **CarDomain**_ ") takes your privacy seriously. Ple
 
   * CarDomain may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us though a third-party advertising partner and its service providers, which will merge that information with information gathered from other sources in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous and will only use the data in its anonymized form. Only the intermediary data provider which anonymizes the data comes into contact with any personal information. To choose not to have this information used by our third-party advertising partner, click <http://networkadvertising.org/consumer/opt_out.asp>.
   * CarDomain will not sell or rent your personally identifiable information to anyone. Third party advertising partners may use anonmyized user information for purposes of publishing CarDomain advertisements as well as for their own purposes.
-  * CarDomain may send or disclose your personally identifiable information to third parties:
+  * CarDomain may send or disclose your personally identifiable information to third parties: 
     * with your consent;
     * when necessary to provide the product or service you have requested;
     * when necessary to send the information to companies who work on behalf of CarDomain to provide a product or service to you (unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us);
@@ -54,7 +52,7 @@ CarDomain Network, Inc. (" _ **CarDomain**_ ") takes your privacy seriously. Ple
     * who analyze it on behalf of CarDomain;
     * in response to a subpoena, court order or other legal process;
     * when CarDomain determines that your actions potentially violate the CarDomain Terms of Service, Code of Conduct, or any of our other usage guidelines or rules; or
-    * when CarDomain determines that such action is reasonably necessary to avert or mitigate any action taken by you that is contrary to CarDomain's interests.
+    * when CarDomain determines that such action is reasonably necessary to avert or mitigate any action taken by you that is contrary to CarDomain's interests. 
 
 
 
@@ -99,12 +97,6 @@ CarDomain Network, Inc. (" _ **CarDomain**_ ") takes your privacy seriously. Ple
 ## Security
 
   * Your CarDomain Network Account Information is password-protected for your privacy and security. In certain areas CarDomain uses industry-standard SSL-encryption to protect data transmission. You should carefully safefguard your user name, password, and any log-in information.
-
-
-
-## AOL Certified Merchant
-
-  * As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, please contact us and we will do our best to respond to any of your questions.
 
 
 
