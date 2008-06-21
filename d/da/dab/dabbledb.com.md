@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dabbledb.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229061329id_/http%3A//www.dabbledb.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabbledb.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621100624id_/http%3A//www.dabbledb.com/legal) for the most accurate reproduction.*
 
-# Dabble DB: Legal Information - Privacy Policy
+# Dabble DB - Online Database - Legal Information - Privacy Policy
 
 The following applies to Smallthought Systems Inc. (Smallthought) and the Dabble service offered by Smallthought.
 
