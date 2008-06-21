@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060447id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621100424id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
 
-# AusGamers.com - Australia's Games Community
+# AusGamers Privacy Policy - AusGamers.com
 
 ### AusGamers Pty Ltd
 
@@ -60,8 +60,8 @@ If, upon receiving access to your personal information or at any other time, you
 
 AusGamers's web site may contain links to other web sites. AusGamers is not responsible for the privacy practices of linked web sites and so linked web sites are not subject to AusGamers's privacy policies and proceay in which AusGamers handles your personal information, please contact AusGamers's privacy officer at: 
 
-Street address: Ground Floor, 12 Swann Rd, Taringa, Queensland,Australia, 4068   
-Postal address: Ground Floor, 12 Swann Rd, Taringa, Queensland,Australia, 4068   
+Street address: Suite S04/34 Coonan Street, Indooroopilly, Queensland,Australia, 4068   
+Postal address: Suite S04/34 Coonan Street, Indooroopilly, Queensland,Australia, 4068   
 Email address: contact AT ausgamers [dot] com   
 Telephone: +61-7-3721-5000   
 Facsimile: +61-7-3721-5001 
