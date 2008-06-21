@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028161951id_/http%3A//www.foxhome.com/privacy/storepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621035520id_/http%3A//www.foxhome.com/privacy/storepolicy.html) for the most accurate reproduction.*
 
 # Fox Store Privacy Policy
 
@@ -60,9 +60,9 @@ Fox Store
 C/O Twentieth Century Fox Home Entertainment Online   
 2121 Avenue of the Stars, Suite 2500   
 Los Angeles, CA 90067   
-Telephone: (888) 801-9112   
-International Callers: (310) 649-6546   
-Fax: (866) 652-9118   
+Telephone: (888) 463-3767   
+International Callers: (310) 217-4765   
+Fax: (888) 443-4369   
 Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)
 
 Unless otherwise indicated by Fox Store, your usual operator rates apply to all telephone, email, SMS or other communications. 
@@ -75,9 +75,9 @@ Fox Store
 C/O Twentieth Century Fox Home Entertainment Online   
 2121 Avenue of the Stars, Suite 2500   
 Los Angeles, CA 90067   
-Telephone: (888) 801-9122   
-International Callers: (310) 649-6546   
-Fax: (866) 652-9118   
+Telephone: (888) 463-3767   
+International Callers: (310) 217-4765   
+Fax: (888) 443-4369   
 Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)
 
 Unless otherwise indicated by Fox Store, your usual operator rates apply to all telephone, email, SMS or other communications. 
