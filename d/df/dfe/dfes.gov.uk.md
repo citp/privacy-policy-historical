@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223055802id_/http%3A//www.dfes.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621103923id_/http%3A//www.dfes.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
 
-# Department for Children, Schools and Families policy statements
+# Department for Children, Schools and Families : Copyright statement
 
 Under the Data Protection Act 1998, we have legal obligations towards you in the way that we deal with data collected from you.. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so, or we are obliged or permitted by law to disclose it. 
 
@@ -12,4 +12,4 @@ If you register to receive updates your information will be held on a secure ser
 
 This site is taking part in a pilot project sharing campaign material across government. The pilot uses cookies to avoid you seeing the same campaign repeated over and over, and to gauge the number of people viewing a campaign or particular web page. These cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are restored in the cookie directory of your hard drive, and do not expire at the end of your session.
 
-[Download the Public Services Guarantee in PDF Format.](https://web.archive.org/web/20071223055802id_/http%3A//www.dfes.gov.uk/copyright/pdf/psg-english1.pdf)
+[Download the Public Services Guarantee in PDF Format.](https://web.archive.org/web/20080621103923id_/http%3A//www.dfes.gov.uk/copyright/pdf/psg-english1.pdf)
