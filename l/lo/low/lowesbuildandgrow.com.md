@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223053001id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3Dnone) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621034706id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3Dnone) for the most accurate reproduction.*
 
 # Need Help?
 
@@ -110,7 +110,7 @@ We value your business and respect your privacy.
 
 Use of Cookie Technology
 
-In order to register on or order products from our site, your browser must be set to accept cookies. A cookie is just an entry in a text file or folder on your hard drive. We use cookies when you visit our site, so the site can remember your specified area of interest and any other information you have saved. Cookie technology allows you to save products to your wish list or how-to's to your "My Projects " section.. We also use cookies to track the items you place in your shopping basket and the pages you visit. You must enable cookies on your Web browser for Lowes.com to function correctly. If you are concerned about information contained in your Lowes.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.
+In order to register on or order products from our site, your browser must be set to accept cookies. A cookie is just an entry in a text file or folder on your hard drive. We use cookies when you visit our site, so the site can remember your specified area of interest and any other information you have saved. Cookie technology allows you to save products to your wish list or how-to's to your "My Projects" section. We also use cookies to track the items you place in your shopping basket and the pages you visit. You must enable cookies on your Web browser for Lowes.com to function correctly. If you are concerned about information contained in your Lowes.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.
 
 The only personal information our cookie can contain is information you supply yourself. Our cookies cannot read data from your computer. If you would like more technical information about how cookies work, take a look at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
@@ -130,7 +130,7 @@ Is the Information I Send You Secure While It Is Being Sent?
 
 We strive to protect the security of the information you send to us while it is en route to our site. Every page of the Lowe's site on which information is exchanged between you and Lowe's employs Secure Sockets Layer technology. Secure Sockets Layer, or SSL, is a secure and encrypted method of communicating between your browser software and our Web server. SSL is the most common method of secure communication used on the Internet, and SSL technology is built into most major browsers. When you provide information or place an order with us, the information is sent to us via this secure, encrypted SSL connection. A quick method of identifying a secure Web page is to look at the address of the page. Secure pages will usually appear with an address that starts with "https://" rather than the standard "http://".
 
-Lowe's Companies provides links to Web sites outside of Lowes.com as an added convenience to the user. Any link included does not imply or convey endorsement of the other company or organization, its site or its products or services. Lowe's Companies is not responsible for the privacy, terms of use or other policies of any other Web site. 
+We provide links to Web sites outside of Lowes.com as an added convenience to the user. Any link included does not imply or convey endorsement of the other company or organization, its site or its products or services. We are not responsible for the privacy, terms of use or other policies of any other Web site. 
 
 Is the Information I Am Sending Really Going to Lowe's?
 
@@ -138,7 +138,7 @@ We have also obtained a Verisign™ digital security certificate for Lowes.com. 
 
 What Happens to My Information After You Receive It? 
 
-SSL protects information en route to us and the Verisign™ certificate confirms that we are the recipient of this information. How the information is handled after it arrives is every bit as important to maintaining security. Once you are finished shopping and you have typed in your shipping information, e-mail address and credit card information, and you have clicked "Submit Order," your encrypted information is sent to our server. All data collected is stored on site at and may be accessed by Lowe's Inc., its wholly owned subsidiaries and contracted third party service providers.
+SSL protects information en route to us and the Verisign™ certificate confirms that we are the recipient of this information. How the information is handled after it arrives is every bit as important to maintaining security. Once you are finished shopping and you have typed in your shipping information, e-mail address and credit card information, and you have clicked "Submit Order," your encrypted information is sent to our server. All data collected is stored on site at and may be accessed by Lowe's, Lowe's subsidiaries and contracted third party service providers.
 
 Security Questions or Comments
 
