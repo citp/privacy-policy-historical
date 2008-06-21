@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolinterview.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075342id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolinterview.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621061430id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,8 @@
 
 **[Looking for Job? Upload your resume here for MAXIMUM Exposure!](http://www.vyomworld.com/go/redir.asp?adv=1007)**
 
-  
-  
+* * *
+
+* * *
+
 | 
