@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214004937id_/http%3A//www.meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621092343id_/http%3A//www.meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
 
 # The N°1 site in Europe for singles' dates and chats - free access
 
