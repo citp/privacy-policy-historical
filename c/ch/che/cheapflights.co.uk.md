@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218102602id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621163456id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Cheapflights uses email addresses to send its weekly Travel Deals Alert Newslett
 
 We sometimes run competitions with our partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. We try to make it very clear when this is the case and we have no responsibility for subsequent use or distribution of email addresses by our partners. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [cheapflights@list.cheapflights.co.uk](mailto:cheapflights@list.cheapflights.co.uk). Alternatively, please visit [http://www.cheapflights.co.uk/Email-alerts/unsubscribe.html](https://web.archive.org/web/20071218102602id_/http%3A//Email-alerts/unsubscribe.html) to be removed from future communications. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [cheapflights@list.cheapflights.co.uk](mailto:cheapflights@list.cheapflights.co.uk). Alternatively, please visit [http://www.cheapflights.co.uk/Email-alerts/unsubscribe.html](https://web.archive.org/web/20080621163456id_/http%3A//Email-alerts/unsubscribe.html) to be removed from future communications. 
 
 The security of your personal information, including your email address and postcode, is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during registration and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100 per cent secure, however. Therefore, though we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -43,7 +43,7 @@ If we decide to change our email practices, we will post those changes to this p
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to our email practices, we will notify you here, by email, and by means of a notice on our home page.
 
 Access to Personally Identifiable Information   
-If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by making the change on our member information page, the "Update Details" tab which is located in every newsletter, or by visiting the Contact Us page at [http://www.cheapflights.co.uk/contactus.html.](https://web.archive.org/web/20071218102602id_/http%3A//contactus.html)
+If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by making the change on our member information page, the "Update Details" tab which is located in every newsletter, or by visiting the Contact Us page at [http://www.cheapflights.co.uk/contactus.html.](https://web.archive.org/web/20080621163456id_/http%3A//contactus.html)
 
 Tracking Technologies   
 Tracking technologies are set up via the Cheapflights newsletter to monitor open and click performance. Cookies are only used once a user enters the Cheapflights.co.uk website in order to identify, discriminate and count the unique users visiting our website. 
@@ -63,4 +63,4 @@ The banners and all graphical advertising appearing on this website are delivere
 Purchases   
 Cheapflights does not sell you travel products, but directs you to sites that do. These sites may store information such as your name and address and credit card details. They may operate their own privacy policies. 
 
-Last updated: April 2007
+Last updated: February 2008
