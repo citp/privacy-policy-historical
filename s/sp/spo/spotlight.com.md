@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223134908id_/http%3A//www.spotlight.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621080632id_/http%3A//www.spotlight.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Spotlight
 
-The Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.
+Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.
 
-This Privacy Policy applies to all users of this website as such – but does not apply to those persons whose personal information appears as content in Spotlight Interactive or any future publications of The Spotlight.
+This Privacy Policy applies to all users of this website as such – but does not apply to those members whose casting / personal information appears as content on the Spotlight website or any future publications of Spotlight.
 
 ## Definitions
 
-“You” means the user of the Site, “We/us” means The Spotlight, “website” or “Site” means the sites located at [www.spotlight.com](http://www.spotlight.com/) and [www.spotlightagent.info](http://www.spotlightagent.info/) on the World Wide Web, “Content” means the information and other material available within the Site. 
+“You” means the user of the Site, “We/us” means Spotlight, “website” or “Site” means the sites located at [www.spotlight.com](http://www.spotlight.com/) and [www.spotlightagent.info](http://www.spotlightagent.info/) on the World Wide Web, “Content” means the information and other material available within the Site. 
 
 ## Collection and Use of Personal Information
 
@@ -53,10 +53,10 @@ If you are a subscriber to Spotlight Interactive, cookies are vital to your usag
 
 ## Queries and Requests
 
-If you have any queries about the way your data is used by The Spotlight, or would like to remove your details from our records, please contact the Data Protection Manager:
+If you have any queries about the way your data is used by Spotlight, or would like to remove your details from our records, please contact the Data Protection Manager:
 
 Data Protection Manager  
-The Spotlight  
+Spotlight  
 7 Leicester Place  
 London  
 WC2H 7RJ  
