@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223064406id_/http%3A//deskaway.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621174402id_/http%3A//www.deskaway.com/privacy/index.php) for the most accurate reproduction.*
 
 # DeskAway - Privacy Policy
 
@@ -36,7 +36,7 @@ Public Forums/Blogs
 Synage Software may create and host a public discussion forum or Blogs for its customers and the general public. Any information disclosed in these areas is deemed public information and each user is responsible for and should exercise caution when disclosing personal information on these forums/Blogs. Synage Software is not responsible for any such information disclosed or any action taken as a result of the disclosed information. 
 
 Cookies  
-Synage Software uses ‘cookies’ to store and track information about your usage on DeskAway. A cookie is information that is sent to your browser from the web server and stored on your computer. We issue cookies to your computer when you login to DeskAway and when you register with our service. Cookies are required to use DeskAway. 
+Synage Software uses 'cookies' to store and track information about your usage on DeskAway. A cookie is information that is sent to your browser from the web server and stored on your computer. We issue cookies to your computer when you login to DeskAway and when you register with our service. Cookies are required to use DeskAway. 
 
 Changes To Our Privacy Policy  
 Synage Software reserves the right to change this Privacy Policy at any time. We will notify you of any significant changes through our website. 
