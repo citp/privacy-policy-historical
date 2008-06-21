@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212123938id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621052619id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
 # Holiday Taxis | Airport Transfers | Airport Taxi | Minibus | Limousines
 
