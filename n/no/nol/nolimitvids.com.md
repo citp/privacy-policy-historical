@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032552id_/http%3A//nolimitvids.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621102414id_/http%3A//nolimitvids.com/info/privacy) for the most accurate reproduction.*
 
 # No Limit Vids : 2257
 
