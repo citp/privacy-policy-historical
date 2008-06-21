@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instadaily.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075013id_/http%3A//www.instadaily.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instadaily.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621112837id_/http%3A//www.instadaily.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Insta daily: All the interesting stuff from the internet.
 
