@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624073013id_/http%3A//www.slexchange.com/pps.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621031631id_/http%3A//www.slexchange.com/pps.php) for the most accurate reproduction.*
 
 # SL Exchange
 
