@@ -1,38 +1,72 @@
-> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2006-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060118201212id_/http%3A//globalwholesale.biz/ec/privacy.php%3FosCsid%3D92dc8572529ce1a6a02454189d5dff46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621073249id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.*
 
-# GLOBAL WHOLESALE Shop
+# Locks | Door Locks | Padlocks | Multipoint Locks | Window Locks
 
-GlobalWholesale is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the GlobalWholesale Web site and governs data collection and usage. By using the GlobalWholesale website, you consent to the data practices described in this statement.
+**Privacy Policy**
 
- **UK Data Protection Act 1998**  
-GlobalWholesale treats all personal data in compliance with the UK's Data Protection Act 1998.
+**What information do we collect?**
 
- **Collection of your Personal Information**  
-GlobalWholesale collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. GlobalWholesale also collects anonymous demographic information, which is not unique to you, such as your Post/ZIP code, age, gender, preferences, interests and favorites.There is also information about your computer hardware and software that is automatically collected by GlobalWholesale. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by GlobalWholesale for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the GlobalWholesale Web site.Please keep in mind that if you directly disclose personally identifiableinformation or personally sensitive data through GlobalWholesale public message boards, this information may be collected and used by others. Note: GlobalWholesale does not read any of your private online communications. GlobalWholesale encourages you to review the privacy statements of Web sites you choose to link to from GlobalWholesale so that you can understand how those Web sites collect, use and share your information. GlobalWholesale is not responsible for the privacy statements or other content on Web sites outside of the GlobalWholesale and GlobalWholesale family of Web sites.
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
- **Use of your Personal Information**  
-GlobalWholesale collects and uses your personal information to operate the GlobalWholesale Web site and deliver the services you have requested. GlobalWholesale also uses your personally identifiable information to inform you of other products or services available from GlobalWholesale and its affiliates. GlobalWholesale may also contactyou via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  
+ **How do we use your information?**
 
-GlobalWholesale does not sell, rent or lease its customer lists to third parties. GlobalWholesale may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, GlobalWholesale may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to GlobalWholesale, and they are required to maintain the confidentiality of your information.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-GlobalWholesale does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-GlobalWholesale keeps track of the Web sites and pages our customers visit within GlobalWholesale, in order to determine what GlobalWholesale services are the most popular. This data is used to deliver customized content and advertising within GlobalWholesale to customers whose behavior indicates that they are interested in a particular subject area.
+  
+ **How do we protect visitor information?**
 
-GlobalWholesale Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on GlobalWholesale or the site; (b) protect and defend the rights or property of GlobalWholesale; and, (c) act under exigent circumstances to protect the personal safety of users of GlobalWholesale, or the public.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
- **Use of Cookies**  
-The GlobalWholesale Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+ **Do we use "cookies"?**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize GlobalWholesale's pages, or register with GlobalWholesale site or services, a cookie helps GlobalWholesale to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same GlobalWholesale Web site, the information you previously provided can be retrieved, so you can easily use the GlobalWholesale features that you customized.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the GlobalWholesale services or Web sites you visit.
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
- **Security of your Personal Information**  
-GlobalWholesale secures your personal information from unauthorized access, use or disclosure. GlobalWholesale secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
- **Changes to this Statement**  
-GlobalWholesale will occasionally update this Statement of Privacy to reflect company and customer feedback. GlobalWholesale encourages you to periodically review this Statement to be informed of how GlobalWholesale is protecting your information.
+ **Do we disclose the information we collect to outside parties?**
 
- **Contact Information**  
-GlobalWholesale welcomes your comments regarding this Statement of Privacy. If you believe that GlobalWholesale has not adhered to this Statement, please contact GlobalWholesale at [admin@GlobalWholesale.co.uk](mailto:admin@GlobalWholesale.co.uk). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Ultimate Locks Ltd. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **How can you opt-out, remove or modify information you have provided to us?**
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+ **Third party links**
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+ **Changes to our policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+
+ **Questions and feedback**
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+ **Online Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080621073249id_/http%3A//www.discountlocks.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+ **Your consent**
+
+By using our site, you consent to our privacy policy.
