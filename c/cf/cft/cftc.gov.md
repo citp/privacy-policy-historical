@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm%23privacy) for the most accurate reproduction.*
 
 # Web Policy
 
   
 
 
-Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/contactus/index.htm).
+Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/contactus/index.htm).
 
-[Accessibility](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#accessibility)   
-[Copyright](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#copyright)   
-[Information Quality](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#information)   
-[Linking](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#linking)   
-[Privacy](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#privacy)   
-[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#sbrefa)   
-[Use of CFTC Seal](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#seal)   
-[Web Content Inventory](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#webcontent)   
-[Website Security](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/index.htm#security)
+[Accessibility](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#accessibility)   
+[Copyright](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#copyright)   
+[Information Quality](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#information)   
+[Linking](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#linking)   
+[Privacy](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#privacy)   
+[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#sbrefa)   
+[Use of CFTC Seal](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#seal)   
+[Web Content Inventory](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#webcontent)   
+[Website Security](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/index.htm#security)
 
 ###  Accessibility
 
@@ -51,7 +51,7 @@ Direct any complaints under Section 508 to:
 
 ###  Copyright
 
-Government information at the CFTC website is in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the CFTC be given appropriate acknowledgement. When using the CFTC website, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [fair use](http://www.loc.gov/copyright/fls/fl102.pdf) as defined in the copyright laws requires the written permission of the copyright owners.
+Government information at the CFTC website is in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the CFTC be given appropriate acknowledgement. When using the CFTC website, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [fair use](http://www.copyright.gov/fls/fl102.html) as defined in the copyright laws requires the written permission of the copyright owners.
 
 ###  Information Quality
 
@@ -59,11 +59,11 @@ The CFTC's information quality guidelines are intended to ensure and maximize th
 
 The guidelines detail how affected persons may seek and obtain appropriate correction of information maintained and disseminated by the CFTC that does not comply with the Office of Management and Budget or agency guidelines.
 
-  * [CFTC Information Quality Guidelines](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/informationqualityguidelines.html)
-  * [Request for Correction of Information Form](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/correctionrequest/index.htm)
+  * [CFTC Information Quality Guidelines](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/informationqualityguidelines.html)
+  * [Request for Correction of Information Form](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/correctionrequest/index.htm)
   * [OMB Guidelines](http://www.whitehouse.gov/omb/fedreg/reproducible2.pdf)
-  * [Requests for Correction of Information and Agency Responses](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/correctionrequests.html)
-  * [Bulletin for Peer Review](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/bulletinpeerreview.html)
+  * [Requests for Correction of Information and Agency Responses](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/correctionrequests.html)
+  * [Bulletin for Peer Review](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/bulletinpeerreview.html)
 
 
 
@@ -114,9 +114,9 @@ You may submit other forms to us, such as Freedom of Information Act requests or
 
 If you have questions about CFTC’s privacy policy and information practices, you can email us at [questions@cftc.gov](mailto:questions@cftc.gov?Subject=Web%20Policy:%20CFTC%20Privacy%20Policy).
 
-The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/lawandregulation/federalregister/systemsofrecords/index.htm).
+The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/lawandregulation/federalregister/systemsofrecords/index.htm).
 
-**[CFTC Privacy Impact Assessments](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/cftcpia.html)**
+**[CFTC Privacy Impact Assessments](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/cftcpia.html)**
 
 ###  Small Business Regulatory And Enforcement Fairness Act
 
@@ -134,7 +134,7 @@ The CFTC seal is intended for the official use of the Commodity Futures Trading 
 
 ###  Web Content Inventory
 
-Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20071227055654id_/http%3A//www.cftc.gov/webpolicy/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
+Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20080621233649id_/http%3A//cftc.gov/webpolicy/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
 
   
 
