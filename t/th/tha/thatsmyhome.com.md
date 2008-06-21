@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030834id_/http%3A//www.thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621095703id_/http%3A//www.thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -20,6 +20,6 @@ This site may contain links to other sites. That's My Home is not responsible fo
 
 Contacting this Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:[ **Email me**](https://web.archive.org/web/20071211030834id_/http%3A//www.thatsmyhome.com/email.htm)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:[ **Email me**](https://web.archive.org/web/20080621095703id_/http%3A//www.thatsmyhome.com/email.htm)
 
 August 23, 2003
