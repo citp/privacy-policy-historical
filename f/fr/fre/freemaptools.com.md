@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemaptools.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222052417id_/http%3A//www.freemaptools.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemaptools.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621123218id_/http%3A//www.freemaptools.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Free Map Tools
 
@@ -61,6 +61,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, [please write to or email us](https://web.archive.org/web/20071222052417id_/http%3A//www.freemaptools.com/contact.htm) as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, [please write to or email us](https://web.archive.org/web/20080621123218id_/http%3A//www.freemaptools.com/contact.htm) as soon as possible. We will promptly correct any information found to be incorrect.
 
 ## Previous Comments For This Page
