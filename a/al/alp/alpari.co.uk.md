@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020038id_/http%3A//www.alpari.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621071811id_/http%3A//www.alpari.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Your privacy is important to us
 
@@ -12,13 +12,13 @@ Disclosure of your Personal Data and Trans-Border Data Transfers
 
 We comply with the United Kingdom Data Protection Act 1998. In particular, we must comply with the eight principles. They state that the data must be:
 
-  * fairly and lawfully processed; 
-  * processed for limited purposes; 
-  * adequate, relevant and not excessive; 
-  * accurate and up to date; 
-  * not kept longer than necessary; 
-  * processed in accordance with the individual's rights; 
-  * secure; 
+  * fairly and lawfully processed;
+  * processed for limited purposes;
+  * adequate, relevant and not excessive;
+  * accurate and up to date;
+  * not kept longer than necessary;
+  * processed in accordance with the individual's rights;
+  * secure;
   * not transferred to countries outside the European Economic area, unless there is adequate protection.
 
 
