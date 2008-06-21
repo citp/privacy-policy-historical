@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njfundz.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201070928id_/http%3A//www.njindiainvest.com/PRIVASYPOLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njfundz.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621141655id_/http%3A//www.njindiainvest.com/PRIVASYPOLICY.html) for the most accurate reproduction.*
 
 # 
 
