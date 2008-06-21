@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201220118id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621174917id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Thank you for visiting the United States Patent and Trademark Office website and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-Submitting personal information is **voluntary**. When you **voluntarily submit** information, it constitutes your **consent** to the use of the information for the **purpose(s)** **stated at the time of collection**. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/20071201220118id_/http%3A//www.uspto.gov/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
+Submitting personal information is **voluntary**. When you **voluntarily submit** information, it constitutes your **consent** to the use of the information for the **purpose(s)** **stated at the time of collection**. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/20080621174917id_/http%3A//www.uspto.gov/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
 
 For the protection of users of our Web sites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems. 
 
@@ -52,8 +52,8 @@ Here is how we handle information about your visit to our website:
 
 **Privacy Impact Assessments**
 
-> OMB Circular A-11, Exhibit 300 [Privacy Impact Assessments](https://web.archive.org/web/20071201220118id_/http%3A//www.uspto.gov/web/doc/privacy_pia.htm)   
->  [Systems of Records Notices ](https://web.archive.org/web/20071201220118id_/http%3A//www.uspto.gov/web/doc/privacy_sorn.htm)
+> OMB Circular A-11, Exhibit 300 [Privacy Impact Assessments](https://web.archive.org/web/20080621174917id_/http%3A//www.uspto.gov/web/doc/privacy_pia.htm)   
+>  [Systems of Records Notices ](https://web.archive.org/web/20080621174917id_/http%3A//www.uspto.gov/web/doc/privacy_sorn.htm)
 
 | Protect Yourself Against Identity Theft! 
 
