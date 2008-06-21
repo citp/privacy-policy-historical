@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221091521id_/http%3A//www.asce.org/lib/copyright/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621223203id_/http%3A//www.asce.org/lib/copyright/privacy.cfm) for the most accurate reproduction.*
 
 # American Society of Civil Engineers (ASCE)
 
 ASCE Privacy Statement
 
   
-[PDF Version](https://web.archive.org/web/20071221091521id_/http%3A//www.asce.org/lib/copyright/privacy.pdf)
+[PDF Version](https://web.archive.org/web/20080621223203id_/http%3A//www.asce.org/lib/copyright/privacy.pdf)
 
 ASCE respects the privacy of our members and other visitors to our web site. To protect online privacy, ASCE has implemented the following policy which may be amended at any time by posted amendments to this web page. 
 
