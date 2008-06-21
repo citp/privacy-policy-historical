@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228074135id_/http%3A//www.squaretrade.com/cnt/jsp/lgl/user_conf_agree.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621053452id_/http%3A//www.squaretrade.com/cnt/jsp/lgl/user_conf_agree.jsp) for the most accurate reproduction.*
 
 # SquareTrade
 
