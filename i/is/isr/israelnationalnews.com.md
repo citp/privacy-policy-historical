@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223181258id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621230618id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arutz Sheva
 
-| 14 Tevet 5768, December 23, '07|  |   
+| 19 Sivan 5768, June 22, '08|    
   
 [](https://web.archive.org/Blogs/)  
 [](https://web.archive.org/Subscribe/)  
