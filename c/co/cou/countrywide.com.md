@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621062004id_/http%3A//my.countrywide.com/privacy.aspx) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -158,7 +158,7 @@ Most browsers can be set to give you a pop-up announcement when you enter or lea
   
    
 Secure Mode and Frame-Based Web Pages | Back to top  
-Security may be operating without displaying any security icons (or Firecox may show the "red-slashed lock" icon) if only part of a frame-based page is employing security. You can verify the security of a page within a frame by opening it in a new browser window. Both IE and Firefox allow you to open a link in a new window by right-clicking on the link and selecting that option from the pop-up context menu. When a secure page is open in its own window, instead of being viewed within a frame, you can then see the security icons provided by your browser as well as the "https://" secure protocol prefix in the URL string.   
+Security may be operating without displaying any security icons (or Firefox may show the "red-slashed lock" icon) if only part of a frame-based page is employing security. You can verify the security of a page within a frame by opening it in a new browser window. Both IE and Firefox allow you to open a link in a new window by right-clicking on the link and selecting that option from the pop-up context menu. When a secure page is open in its own window, instead of being viewed within a frame, you can then see the security icons provided by your browser as well as the "https://" secure protocol prefix in the URL string.   
    
 | cookies, web beacons  
 |  | Cookies | Back to top  
@@ -186,7 +186,7 @@ Shared secrets are the most common security method for accessing confidential in
 Protecting Your Shared Secrets | Back to top  
 Protecting your shared secrets ensures that information accessed via those shared secrets is protected. You should never record your shared secrets electronically such as in documents or spreadsheets. In the event of a compromise of your computer hard drive, your shared secrets can be compromised as well placing all the data protected by those shared secrets at banks and merchants at risk. Likewise you should never store credit card numbers, expiration dates, bank account number, social security numbers, driver’s license number or other personal identifying information electronically on your computer for the same reason. 
 
-Your shared secrets should never be revealed in response to unsolicited e-mails. Criminals attempt to obtain individual’s personal identifying information and use that information illegally such as to open and/or use credit cards, obtain phone or utility accounts, obtain loans, work, open bank accounts and/or pass fraudulent checks using a technique called ("[phishing](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm)"). Criminals may also attempt to obtain that information over the phone posing as a survey taker, telemarketer or other unsolicited caller ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").  
+Your shared secrets should never be revealed in response to unsolicited e-mails. Criminals attempt to obtain individual’s personal identifying information and use that information illegally such as to open and/or use credit cards, obtain phone or utility accounts, obtain loans, work, open bank accounts and/or pass fraudulent checks using a technique called "[phishing](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm)". Criminals may also attempt to obtain that information over the phone posing as a survey taker, telemarketer or other unsolicited caller ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").  
   
    
 Common Shared Secrets | Back to top  
@@ -204,7 +204,7 @@ Immediately change your shared secrets with all sites on which you have used the
 Identity theft is when someone takes and uses your personal information (such as your name, social security or credit card number) without your permission to commit fraud or other crimes. These criminals take the identities of others to open new credit cards; obtain phone or utility accounts, loans, or employment; open bank accounts; and/or pass fraudulent checks. According to the FBI, identity theft is the fastest growing crime in America.  
    
 How Does Identity Theft Occur? | Back to top  
-Criminals gain access to personal information in many ways, but the most common method is to take it from the victim themselves - you. They steal mail (such as account statements, new checks and offers of credit) left in a mailbox, discarded in the trash or stored in an easy to get to location in your home or office. They take credit card and personal identification from your purse or wallet. Without knowing it, you may give the information directly to the criminal when you enter data at an unsecured or unknown website, or in response to a fraudulent request for account information through an unverified e-mail ("[phishing](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm)"). Imposters also ask for information from you in unsolicited phone calls, tricking you into thinking it is someone you know, such as your bank ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm)").   
+Criminals gain access to personal information in many ways, but the most common method is to take it from the victim themselves - you. They steal mail (such as account statements, new checks and offers of credit) left in a mailbox, discarded in the trash or stored in an easy to get to location in your home or office. They take credit card and personal identification from your purse or wallet. Without knowing it, you may give the information directly to the criminal when you enter data at an unsecured or unknown website, or in response to a fraudulent request for account information through an unverified e-mail ("[phishing](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm)"). Imposters also ask for information from you in unsolicited phone calls, tricking you into thinking it is someone you know, such as your bank ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").   
    
 What Happens to the Victim? | Back to top  
 Identity thieves can damage the credit reputations and lives of victims. Studies have shown that victims spend an average of $808 and 205 hours resolving the identity theft. Time and money is spent clearing credit reports, reporting the theft to lenders and merchants, and filing complaints with law enforcement and governmental agencies. One of the menacing problems of identity theft is that it can happen more than once. Once the initial incident is resolved, the thief may begin using the victim’s identity again after waiting 6 months to a year and the cycle begins all over again.   
@@ -217,7 +217,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20080621062004id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -240,7 +240,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.com/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20080621062004id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
@@ -269,9 +269,9 @@ phone   | 1-877-CUFRAUD (283-7283)
 fax   | 1-805-306-7158  
    
 mail   | Countrywide Financial Corporation  
-Fraud Prevention & Investigation  
-1757 Tapo Canyon Rd, SVW-469  
-Simi Valley, CA 93063   
+Fraud Investigation  
+30930 Russell Ranch Road, WLRR-469  
+Westlake Village, CA 91362   
   |  |  [](http://www.ftc.gov/bcp/conline/pubs/credit/affidavit.pdf)  
 [ID Theft Complaint](http://www.ftc.gov/bcp/conline/pubs/credit/affidavit.pdf) | Requires  
 Adobe Acrobat Reader
