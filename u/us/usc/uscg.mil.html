@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011111133id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2008-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621033103id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -45,7 +45,7 @@ function isSelected()
     
     if (isSel == true) {
       
-           document.gsearch.sitesearch.value = 'http://www.uscg.mil/global';
+           document.gsearch.sitesearch.value = 'http://www.uscg.mil/global/';
       
     } else {
         document.gsearch.sitesearch.value = '';
@@ -65,8 +65,9 @@ function isSelected()
 
 	  <li><a href="/global/sitemap.asp">Site Map</a></li>
 
-      <li><a href="/global/faqs.asp">Frequently Asked Questions</a></li>
+      <li><a href="/global/faqs.asp">FAQs</a></li>
 
+      <li><a href="/top/news/phonebook.pdf">Phone Book</a></li>
   </ul>
 
 
@@ -74,9 +75,9 @@ function isSelected()
 
 <!-- Search My Google Search Appliance --> 
   <form method="post" action="/global/search/default.asp" name="gsearch">
-  	<label class="hidden" for="searchline">Search: </label>
-    <input id="searchline" type="text" name="q" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
-    <input style="font-size: 8pt;" type="submit" name="btnG" value="Google Search" onclick="isSelected()"><br>
+    <input alt="Search" type="text" name="q" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
+    <input style="font-size: 8pt;" type="submit" name="btnG" value="Search" onclick="isSelected()">
+    <br>
     <input type="hidden" name="sitesearch" value="">
 
 	<span style="top: 0; left: 0; padding: 0;"></span>
@@ -94,19 +95,12 @@ function isSelected()
 	
 <div id="navbuttons">
 		
-<ul>
-
-			<li id="home"><a href="/default.asp">Home</a></li>
-
-			<li id="news"><a href="https://www.piersystem.com/external/index.cfm?cid=786" target="_blank">News</a></li>
-
-			<li id="jobs"><a href="/top/careers.asp">Careers</a></li>
-
-			<li id="units"><a href="/top/units">Units</a></li>
-
-			<li id="missions"><a href="/top/missions">Missions</a></li>
-
-			<li class="last" id="about"><a href="/top/about">About Us</a></li>
+<ul>        <li id="home"><a href="/default.asp">Home</a></li>
+        <li id="jobs"><a href="/top/careers.asp">Careers</a></li>
+        <li id="units"><a href="/top/units">Units</a></li>
+<li id="missions"><a href="/top/missions">Missions</a></li>
+        <li id="business"><a href="/acquisition/business/business.asp">Doing Business</a></li>
+        <li class="last" id="about"><a href="/top/about">About Us</a></li>
 
 		
 </ul>
@@ -268,14 +262,11 @@ function isSelected()
   <!-- ************************************************************** -->
   <!-- START Download Plug-Ins Check -->
 <div style="padding: 5px; float: right;">
-	<!--
-***************************************************************************************************************
-Date			Developer		CQ Ticket #		Description
-01/26/2007		David Crim		WwW00000252 	File to add Download Plug-In button for specific file types.
-05/24/2007		David Crim		WwW00000417		Added logic to see if link has a file extension.
-***************************************************************************************************************
--->
-
+	
+    <div id="plug">
+    	<span><a title="Click Here to Download Plug In to view Files" href="/global/adobe.asp">Download Plug-Ins</a></span>
+    </div>
+    
 
 </div>
 <!-- END Download Plug-Ins Check -->
@@ -288,7 +279,7 @@ Date			Developer		CQ Ticket #		Description
 		<li><a href="/global/mail">Contact Us</a></li>		
 		<li><a href="/global/disclaim.asp">Privacy Policy</a></li>		
 		<li><a href="/access/access.asp">Accessibility</a></li>
-		<li><a href="/global/foia.asp">FOIA</a></li>		
+		<li><a href="/foia/">FOIA</a></li>		
 		<li><a href="http://www.usa.gov/" target="_blank">USA.gov</a></li>		
 		<li><a href="http://www.uscg.mil/hq/g-cr/no_fear.htm" target="_blank">No FEAR</a></li>		
 		<li><a href="http://homeport.uscg.mil" target="_blank">Homeport</a></li>	
