@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opendrivers.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214195344id_/http%3A//www.opendrivers.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendrivers.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621165647id_/http%3A//www.opendrivers.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Open Drivers - Free Download Device Drivers
+# Open Drivers Privacy Policy
 
 |   
 OPENDRIVERS.com conjunction with our Advertisers, Affiliates, and Syndicated Providers have established the following statements regarding your privacy online at OPENDRIVERS.com  
