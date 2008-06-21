@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003115638id_/http%3A//www.cw.com.hk/computerworldhk/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621105102id_/http%3A//www.cw.com.hk/static.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Computer World HK
+# Computerworld Hong Kong
 
 When accessing www.questex.com or any other Questex Media Group site, you agree to the terms of the Questex online privacy policy, as outlined below. If you do not agree to these terms, please do not use these sites. 
 
@@ -11,12 +11,12 @@ Information Collection and Dissemination
 
 General Principles
 
-  * In general, you may visit this website without identifying yourself or revealing any personal information.
-  * As you browse our website, the site collects log file, IP address of your computer, and other standard tracking data we use to evaluate site traffic and usage patterns. Such information is aggregated with tracking data from all site visitors. We will use the information to personalize the site according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you.
+  * In general, you may visit this website without identifying yourself or revealing any personal information. 
+  * As you browse our website, the site collects log file, IP address of your computer, and other standard tracking data we use to evaluate site traffic and usage patterns. Such information is aggregated with tracking data from all site visitors. We will use the information to personalize the site according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. 
   * Some portions of this website may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation,  
 (i) registration for attendance at certain Questex Media Group trade shows, conferences and events; and  
-(ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information.
-  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested.
+(ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. 
+  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. 
   * If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc.   
 
 
@@ -61,4 +61,4 @@ Questex Media Group reserves the right, at any time and without notice, to add t
 
 Your Acceptance of these Terms
 
-By using our website, products or services, you signify your acceptance of the terms of the Questex Media Group Privacy Policy. If you do not agree to the terms of the Questex Media Group Privacy Policy, please do not use the website, products and/or services and exit the site immediately. 
+By using our website, products or services, you signify your acceptance of the terms of the Questex Media Group Privacy Policy. If you do not agree to the terms of the Questex Media Group Privacy Policy, please do not use the website, products and/or services and exit the site immediately.
