@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223092942id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621180502id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
-# Return
+# Privacy
 
 |  | 
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20071223092942id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20080621180502id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,8 +49,40 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |   
----|---|---|---|---  
+|  |  | 
+
+| Shopping Cart  
+---  
+  
+[](http://www.i-tech.com.au/Adsltpg.aspx)
+
+[ ](http://www.i-tech.com.au/Flexirent.aspx)
+
+[ ](http://compatible.corsairmemory.com/partner/default.aspx?partnerid=53)  
+  
+| [Specials](http://www.i-tech.com.au/Special.aspx)  
+---  
+| [ ADOBE PageMaker v7.02 Windows ACADEMIC EDITION ](http://www.i-tech.com.au/products/5076_ADOBE_PageMaker_v7_02_Windows_ACADEMIC.aspx)  
+---  
+$255.00   
+Regular Price $370.00  
+Your save $115.00  
+[ KINGSTON 1GB 333MHZ PC2700 DDR SDRAM UNBUFFERRED ECC DIMM CL2.5 KVR333X72C25-1G ](http://www.i-tech.com.au/products/5296_KINGSTON_1GB_333MHZ_PC2700_DDR_SDRAM.aspx)  
+$115.00   
+Regular Price $249.00  
+Your save $134.00  
+[ Flexiglow 80mm Aluminium Fan Filter Black ](http://www.i-tech.com.au/products/13670_Flexiglow_80mm_Aluminium_Fan_Filter.aspx)  
+$10.00   
+Regular Price $15.00  
+Your save $5.00  
+[ Shuttle SG33G5M, LGA775, G33, FSB1333, Dual DDR2 800, PCIE, VGA with HDMI/HDCP, SATAII ](http://www.i-tech.com.au/products/22725_Shuttle_SG33G5M__LGA775__G33__FSB1333.aspx)  
+$466.00   
+Regular Price $549.00  
+Your save $83.00  
+[ Razer Copperhead Chaos Green Infrared High Precision Gaming Mouse, 2000DPI, 1ms response, USB ](http://www.i-tech.com.au/products/8714_Razer_Copperhead_Chaos_Green_Infrared.aspx)  
+$57.00   
+Regular Price $89.00  
+Your save $32.00  
   
   
 ---  
