@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadverts.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223070928id_/http%3A//www.postadverts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadverts.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621181610id_/http%3A//www.postadverts.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -15,6 +15,6 @@ If so, how are cookies used on the website? Cookies are pieces of information th
 How will I know about changes in the Privacy Policy?**  
 Postadverts.com reserves the right to update this privacy policy from time to time. Please visit this page periodically so that you will be apprised of any changes.
 
-If you have any questions about this document, Postadverts.com's information practices, or your dealings with Postadverts.com, please [contact us](http://www.postadverts.com/contact.php).
+If you have any questions about this document, Postadverts.com's information practices, or your dealings with Postadverts.com, please [Contact Us](mailto:info@postadverts.com).
 
 This Privacy Policy was last updated April 2007.
