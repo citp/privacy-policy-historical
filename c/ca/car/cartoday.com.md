@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223021239id_/http%3A//www.cartoday.com/content/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621202011id_/http%3A//www.cartoday.com/content/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # CARtoday.com – South Africa | Motoring Information | New Cars | Used Cars | Latest Models | Motorsport | Videos
 
