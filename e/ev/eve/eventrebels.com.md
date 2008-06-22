@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422140855id_/https%3A//ww2.eventrebels.com/er/General/Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622151529id_/https%3A//ww2.eventrebels.com/er/General/Policy.jsp) for the most accurate reproduction.*
 
 # EventRebels.com - The Online-Onsite Registration Company
 
