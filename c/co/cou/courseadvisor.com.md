@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212040551id_/http%3A//www.courseadvisor.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622024238id_/http%3A//www.courseadvisor.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - online degree and online class options at CourseAdvisor.com
-
-## Privacy Policy
+# Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.courseadvisor.com&sealid=101)
 
 **COURSEADVISOR PRIVACY POLICY**
 
-**Effective Date: February 5, 2007**
+ **Effective Date: February 5, 2007**
 
 CourseAdvisor Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.courseadvisor.com. Because CourseAdvisor wants to demonstrate its commitment to users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
