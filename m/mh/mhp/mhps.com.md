@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231136id_/http%3A//www.mobilehomeparkstore.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622090113id_/http%3A//www.mobilehomeparkstore.com/policies.htm) for the most accurate reproduction.*
 
 # Mobile Home Parks For Sale, RV Parks and Mobile Home Parks For Sale, Manufactured Home Communities
 
