@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226021836id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622144431id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# CareerStructure.com
 
-[Home](https://web.archive.org/) Privacy policy
+[Home](https://web.archive.org/)Privacy policy
 
 At CareerStructure.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
@@ -44,9 +44,9 @@ There is no personally identifiable information held on cookies. An example of a
 
 You have the option to decline or accept these cookies, but if you decline you will not be able to access the personalised areas of the site. This means you will not be able to access your candidate profile, register your CV or set up any Jobs By Emails. 
 
-**Accept cookie        Decline cookie **
+**[Accept cookie](https://web.archive.org/)       [Decline cookie](https://web.archive.org/)**
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](https://web.archive.org/pgl/Redirect.aspx?page=http://www.adtech.info/en/cookie_opt-out.html), [Emediate](https://web.archive.org/pgl/Redirect.aspx?page=http://www.emediate.dk/privacy.html) and [DoubleClick](https://web.archive.org/pgl/Redirect.aspx?page=http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](https://web.archive.org/pgl/Redirect.aspx?page=http://www.adtech.info/en/cookie_opt-out.html), [Emediate](https://web.archive.org/pgl/Redirect.aspx?page=http://www.emediate.dk/privacy.html), [Webtrends](https://web.archive.org/pgl/Redirect.aspx?page=https://ondemand.webtrends.com/privacypolicy.asp) and [Epsilon](https://web.archive.org/pgl/Redirect.aspx?page=http://www.epsilon.com/privacy.html). 
 
 ## Statistical information
 
