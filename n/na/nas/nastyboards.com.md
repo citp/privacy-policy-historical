@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the nastyboards.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105345id_/http%3A//nastyboards.com/privacy.htm) for the most accurate reproduction.*
+
+# Nastyboards Privacy Policy
+
+[Nastyboards Home](http://nastyboards.com/forum/) | [Hardcore Porn](http://www.nastyboards.com/forums/f13-hardcore-videos.html) | [Teen Porn](http://www.nastyboards.com/forums/f30-teen-sex-videos.html) | [Amateur Porn](http://www.nastyboards.com/forums/f28-amateur-sex-videos.html) | [ Porn Stars](http://www.nastyboards.com/forums/f72-famous-pornstars.html) | [Blowjob Videos](http://www.nastyboards.com/forums/f34-blowjob-videos.html) | [Cam girls](http://www.nastyboards.com/forums/f29-cam-girl-videos.html) | [Anal sex](http://www.nastyboards.com/forums/f60-anal-sex-movies.html) | [Asian Porn Videos](http://www.nastyboards.com/forums/f59-asian-porn-movies.html) | [Cumshots](http://www.nastyboards.com/forums/f63-cumshot-videos.html) | [Latina Porn](http://www.nastyboards.com/forums/f66-latina-sex-videos.html) | [Lesbian Porn](http://www.nastyboards.com/forums/f67-lesbian-sex-movies.html) | [MILF Porn](http://www.nastyboards.com/forums/f68-milf-sex-videos.html) | [Big Tits](http://www.nastyboards.com/forums/f69-big-tit-movies.html) | [Squirting Pussy](http://www.nastyboards.com/forums/f70-squirting-videos.html) | [Celebrity sex tapes](http://www.nastyboards.com/forums/f56-celebrity-sex-tapes.html) | [Black porn](http://www.nastyboards.com/forums/f61-ebony-porn-movies.html) | Free Porn Star Videos | 
+
+## Information We Gather
+
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our sites.  
+
+
+##  What we do with the information we Collect
+
+We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
+
+Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, it is possible that some parts of this Web site, such as the polls, surveys, contests, product sales, and game areas, will not function properly if you disable cookies.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information.
+
+Nastyboards may provide links to third-party Web sites. Since we do not control third-party sites and are not responsible for any personal information you may provide while on such sites, we encourage you to read the privacy policies on those Web sites before providing any of your personal information on such sites. 
