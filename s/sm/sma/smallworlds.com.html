@@ -1,0 +1,406 @@
+<!--The following is the downloaded HTML source of the smallworlds.com privacy policy that was archived on 2008-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622213500id_/http%3A//blog.smallworlds.com//privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>SmallWorlds   » Privacy Policy</title>
+
+<link rel="shortcut icon" href="http://www.smallworlds.com/favicon.ico">
+<link rel="icon" href="http://www.smallworlds.com/favicon.ico">
+
+
+<meta name="generator" content="WordPress 2.3.1"> <!-- leave this for stats -->
+
+<link rel="stylesheet" href="http://blog.smallworlds.com/wp-content/themes/smallworlds/style.css" type="text/css" media="screen">
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Smallworlds Blog RSS Feed" href="http://blog.smallworlds.com/feed/">
+<link rel="pingback" href="http://blog.smallworlds.com/xmlrpc.php">
+
+   		<script type="text/javascript">
+			<!--
+			window.onload = function() {
+				if (navigator.appName == "Netscape") {
+					document.getElementById('content').style.height = (document.getElementById('maincolumn').offsetHeight + 60) + 'px';
+				}
+			}
+
+			window.onresize = function() {
+				if (navigator.appName == "Netscape") {
+					document.getElementById('content').style.height = (document.getElementById('maincolumn').offsetHeight + 60) + 'px';
+				}
+			}
+			//-->
+		</script>
+
+		<script type="text/javascript" src="http://www.smallworlds.com/swfobject/swfobject.js"></script>
+
+		
+<script type="text/javascript">
+	// Constants
+	var APP_WIDTH = 980;
+	var HEADER_HEIGHT = 60;
+	var LOGIN_HEIGHT = 430;
+	var FLASH_HEIGHT = 490;
+
+	// Variables
+	var localConnectionKey = Math.round(Math.random()*10000); // Each browser should have a different key so tours on different browsers won't affect each other.
+	function getConnectionKey() { return localConnectionKey; }
+
+
+	// Window methods
+	// --------------------------------------------
+	function windowOpen() {
+		// backwards compatibility with old-style urls
+		var url = window.location.href;
+
+		if(url.indexOf('#/home') >= 0) {
+		   	var oldStyle = url.substr(url.lastIndexOf('#/home') + 1);
+			window.location = 'http://www.smallworlds.com' + oldStyle;
+		}
+
+		if(url.indexOf('#/space') >= 0) {
+		   	var oldStyle = url.substr(url.lastIndexOf('#/space') + 1);
+			window.location = 'http://www.smallworlds.com' + oldStyle;
+		}
+	}
+
+	function windowClose() {
+		var flashObject = document.getElementById('Main');
+		if ( flashObject ) {
+			try {
+				flashObject.windowClose();
+			} catch (e) {}
+		}
+	}
+
+	function windowResize() {
+		if (document.body.clientWidth <= APP_WIDTH) {
+			document.getElementById('Base').style.width = APP_WIDTH + 'px';
+			document.getElementById('Main').style.width = APP_WIDTH + 'px';
+		} else {
+			document.getElementById('Base').style.width = '100%';
+			document.getElementById('Main').style.width = '100%';
+		}
+	}
+
+
+	// Login methods
+	// --------------------------------------------
+
+	// Login from Header SWF
+	function flashLogin() {
+		showFlash('loggedIn', true);
+	}
+
+	// Login from SmallWorlds SWF
+	function setLoggedIn(value) {
+		if(value) {
+			showFlash('loggedIn', false);
+		}
+	}
+
+	function showFlash(newLoadState, tellFlash) {
+		// redirect
+		destination = '';
+		if(tellFlash) {
+			if (destination) {
+				window.location = 'http://www.smallworlds.com' + destination, '_self';
+			} else {
+				window.location = 'http://www.smallworlds.com', '_self';
+			}
+		}
+	}
+
+	function getHeaderConnectionKey()
+		{ return '738750250_0.25889600 1214170496'; }
+
+
+	// Logout methods
+	// --------------------------------------------
+
+	// Logout from Header SWF
+	function logoutLinkClick() {
+		var flashObject = document.getElementById('Main');
+		if ( flashObject ) {
+			try {
+				flashObject.logoutLinkClick();
+			} catch (e) {}
+		}
+
+		showLogin();
+	}
+
+	// Session Expiry from SmallWorlds SWF
+	function sessionExpired() {
+		if(window.location.href.indexOf('login.php') == -1) {
+			showLogin();
+		}
+	}
+
+	// Do Logout
+	function showLogin() {
+		// redirect
+		window.location = 'http://www.smallworlds.com/login.php', '_self';
+	}
+
+
+	// Tour methods
+	// --------------------------------------------
+
+	// Show Tour from HTML
+	function showTour() {
+		var flashObject = document.getElementById('Base');
+		if ( flashObject ) {
+			try {
+				flashObject.showTour();
+			} catch (e) {}
+		}
+	}
+
+	// Start Tour
+	function showTourComplete() {
+		// change content
+		updateContent('tour');
+	}
+
+	// Close Tour
+	function closeTour() {
+		// change content
+		updateContent('loggedout');
+	}
+
+
+	// Web Content Update methods
+	// --------------------------------------------
+
+	function updateContent(state) {
+		new Ajax.Updater('wrapper', 'content_' + state + '.php');
+	}
+
+
+	// Navigation methods
+	// --------------------------------------------
+
+	function getClientAddress() {
+		var url = window.location.href;
+		var rootUrl = url.match('http://www.smallworlds.com') + '';
+		var address = url.slice(rootUrl.length);
+		if (address.indexOf('?') > -1) {
+            address = address.slice(0, address.indexOf('?'));	// strip away ?debug=true for developers
+		}
+
+		if(address.indexOf('/home') == 0 || address.indexOf('/space') == 0) {
+			return address;
+		}
+	}
+
+	function setClientAddress(address) {
+		window.location = 'http://www.smallworlds.com' + address, '_self';
+	}
+
+	function setPageTitle(t) {
+		if (!t || t == '')
+			document.title = 'SmallWorlds';
+		else
+			document.title = 'SmallWorlds: ' + t;
+	}
+
+	function browserBack() {
+		history.go(-1);
+	}
+
+	function openURL(url,target)
+	{
+		try {
+			var popup = window.open(url, target);
+			if (popup == null)
+				return false;
+
+			if (window.opera)
+				if (!popup.opera)
+					return false;
+		}
+		catch(err) {
+			return false;
+		}
+
+		return true;
+	}
+
+
+	// Preloading methods
+	// --------------------------------------------
+
+	function setClientLoadPercent(percent) {
+		var flashObject = document.getElementById('Base');
+		if ( flashObject ) {
+			try {
+				flashObject.setClientLoadPercent(percent);
+			} catch (e) {}
+		}
+	}
+
+	function setClientLoaded() {
+		var flashObject = document.getElementById('Base');
+		if ( flashObject ) {
+			try {
+				flashObject.setClientLoaded();
+			} catch (e) {}
+		}
+	}
+</script>
+
+		<link type="text/css" href="http://blog.smallworlds.com/css/smallworlds.css" rel="stylesheet">
+
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.smallworlds.com/xmlrpc.php?rsd">
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.smallworlds.com/wp-includes/wlwmanifest.xml"> 
+</head>
+<body>
+<div id="nonFooter">
+<div id="content" style="height: 766px;">
+<div id="header">
+	<center><img src="http://blog.smallworlds.com/webassets/noscript_header.jpg"></center>
+
+	<script type="text/javascript">
+	// <![CDATA[
+		 var so = new SWFObject('http://blog.smallworlds.com/webassets/header.swf', 'Base', '100%', '60', '9.0.28.0', '#000000');
+		 so.useExpressInstall('http://www.smallworlds.com/swfobject/expressinstall.swf');
+		 so.addParam('menu', 'false');
+		 so.addParam('allowScriptAccess', 'always');
+		 so.addVariable('onlyHeader', 'true');
+		 so.addVariable('webServiceUrl', 'http://www.smallworlds.com/swds/gateway');
+		 so.addVariable('urlHome', 'http://www.smallworlds.com');
+		 so.addVariable('urlBlog', 'http://blog.smallworlds.com/');
+		 so.addVariable('urlForum', 'http://forum.smallworlds.com');
+		 so.addVariable('urlHelp', 'http://blog.smallworlds.com/help-support');
+		 so.write('header');
+	// ]]>
+	</script>
+
+</div> <!-- end of header div -->
+
+	<!-- *********************  PAGE CONTENT ******************* -->
+	<div id="betweenheaderandfooter">
+		<center>
+			<div id="content980">
+
+				<!-- ******* IMAGE COLUMN ******** -->
+				<div id="imagecolumn">
+					<div id="imagecolumncontent"><img src="http://blog.smallworlds.com/webassets/paris.png" width="193" height="389"></div>
+				</div>
+
+				<!-- ******* MAIN CONTENT COLUMN ******** -->
+				<div id="maincolumn">
+					<div id="maincolumnheader"><div id="maincolumnheadertitle">Privacy Policy</div></div>
+
+<!-- END OF SMALLWORLDS WORDPRESS TEMPLATE HEADER  - START OF WORDPRESS PAGE.PHP CODE  -->
+
+						<div class="post" id="post-11">
+				<div class="entry">
+					<h2>SmallWorlds Privacy Policy</h2>
+<p>Your privacy is of the utmost importance to us here at SmallWorlds. At all times we will endeavor to protect your right to privacy, and only use any personal information you submit to us, for the purpose it was originally intended for.</p>
+<p>The following policy describes how we treat personal information that we collect and receive, including information related to your use of the SmallWorlds service. Personal information is information about you that is personally identifiable like your name, email address, or date of birth, and that is not otherwise publicly available.</p>
+<p>If we make any significant changes to the privacy policy, we will notify you via email or by placing a prominent notice on our site and within the SmallWorlds entry process.</p>
+<h2>Information Collection</h2>
+<p>SmallWorlds collects personal information when you register with us, when you use the SmallWorlds service, and when you visit SmallWorlds website pages or the pages of some of our partners. We may combine information about you that we have with information we obtain from business partners or other companies. We generally use this information to improve the relevance and quality of our service.</p>
+<p>When you register we ask for information such as your name, email address, date of birth etc. We use this information to allow you to log into the SmallWorlds service, and to contact you for important communications regarding the SmallWorlds service. You can opt out of these communications at any time.</p>
+<p>SmallWorlds collects information about your transactions with us and with some of our business partners.</p>
+<p>Our server logs automatically record information from your browser, including your IP address, browser cookie information, and the pages you request. Cookies are small text files placed in your web browser to remember your preferences, and are generally used to determine how many visitors we get and what parts of our website and service they visit.</p>
+<p>SmallWorlds does not currently accept registrations from children of the age of 12 or under.</p>
+<h2>Information Sharing</h2>
+<p>SmallWorlds will not disclose any personal information about you to any third parties without your permission, except under the following circumstances:</p>
+<ul>
+<li>We provide information to trusted partners who work on behalf of or with SmallWorlds under confidentiality agreements. These companies will only use this information in context to their relationship with SmallWorlds, and will not be allowed to use it for their own independent purposes.</li>
+<li>We are required by law to divulge the information, or in the process of exercising our legal rights or to defend against legal claims. We may also share information in order to prevent or arrest any illegal activities, violations of SmallWorld’s Terms Of Service, or any other activity that may threaten the safety or security of any person.</li>
+<li>We may transfer or merge information if we are acquired by, or merged with, another company.</li>
+</ul>
+<p>For further information, please email us at privacy@smallworlds.com.</p>
+
+					
+				</div>
+			</div>
+						
+<!-- START OF SMALLWORLDS WORDPRESS TEMPLATE FOOTER -->
+
+		</div> <!-- end of maincolumn -->
+
+		<!-- ******* RIGHT MENU COLUMN ******** -->
+		<div id="menucolumn">
+			<div id="menucolumncontent">
+				<p><a href="http://blog.smallworlds.com">Blog</a>  <a href="http://feeds.feedburner.com/smallworlds"><small>(RSS)</small></a></p>
+				<p><a href="http://blog.smallworlds.com/company-info/">Company info</a></p>
+				<p><a href="http://blog.smallworlds.com/press-bloggers/">Press</a></p>
+				<p><a href="http://blog.smallworlds.com/partnerships/">Partnerships</a></p>
+				<p><a href="http://blog.smallworlds.com/contact-us/">Contact us</a></p>
+
+				<!-- <h2>Recent Posts</h2>
+				<li><a href="http://blog.smallworlds.com/2008/05/21/a-virtual-world-for-the-masses/"rel="bookmark" title="Permanent Link: A virtual world for the masses">A virtual world for the masses</a></li><li><a href="http://blog.smallworlds.com/2008/01/23/early-response-for-smallworlds-very-positive/"rel="bookmark" title="Permanent Link: Early response for SmallWorlds very positive">Early response for SmallWorlds very positive</a></li><li><a href="http://blog.smallworlds.com/2008/01/18/smallworlds-private-beta-launch/"rel="bookmark" title="Permanent Link: SmallWorlds Private Beta Launch">SmallWorlds Private Beta Launch</a></li><li><a href="http://blog.smallworlds.com/2008/01/09/smallworlds-first-online-press-coverage/"rel="bookmark" title="Permanent Link: SmallWorlds first online press coverage">SmallWorlds first online press coverage</a></li>				<h2>Archives</h2>
+				<p>	<li><a href='http://blog.smallworlds.com/2008/05/' title='May 2008'>May 2008</a></li>
+	<li><a href='http://blog.smallworlds.com/2008/01/' title='January 2008'>January 2008</a></li>
+</p>
+				<h2>Categories</h2>
+				<p>	<li class="cat-item cat-item-6"><a href="http://blog.smallworlds.com/category/beta/" title="View all posts filed under Beta">Beta</a> (2)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blog.smallworlds.com/category/press/" title="View all posts filed under Press">Press</a> (2)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blog.smallworlds.com/category/smallworlds/" title="View all posts filed under Smallworlds">Smallworlds</a> (2)
+</li>
+</p> -->
+			</div>
+		</div>
+
+
+	   </div> <!-- end of content980 -->
+	</center>
+</div> <!-- end of betweenheaderandfooter div -->
+</div> <!-- end of content div -->
+</div>  <!-- end of nonFooter div -->
+
+
+<!-- *********************  FOOTER ******************* -->
+<div id="footer">
+	<center>
+		<div id="footercontent">
+			<div id="footerColumn1">
+				<strong></strong><p><strong><a href="http://www.smallworlds.com">Home</a></strong></p>
+				<p><a href="http://blog.smallworlds.com/tell-a-friend/">Tell a friend</a></p>
+				<p><a href="http://blog.smallworlds.com/partnerships/">Partnerships</a></p>
+				<p>© 2008 Outsmart. All Rights Reserved</p>
+			</div>
+
+			<div id="footerColumn2">
+				<strong></strong><p><strong><a href="http://blog.smallworlds.com">Blog</a></strong></p>
+				<p><a href="http://blog.smallworlds.com/press-bloggers/">Press</a></p>
+				<p><a href="http://blog.smallworlds.com/company-info/">Company Info</a></p>
+			</div>
+
+			<div id="footerColumn3">
+				<strong></strong><p><strong><a href="http://blog.smallworlds.com/faq/">FAQ</a></strong></p>
+				<p><a href="http://blog.smallworlds.com/terms-of-service/">Terms of use</a></p>
+				<p><a href="http://blog.smallworlds.com/privacy-policy/">Privacy Policy</a></p>
+			</div>
+
+			<div id="footerColumn4">
+				<strong></strong><p><strong><a href="">Help &amp; Support</a></strong></p>
+				<p><a href="http://forum.smallworlds.com">Forum</a></p>
+				<p><a href="http://blog.smallworlds.com/contact-us/">Contact us</a></p>
+			</div>
+
+		</div> <!-- end of footercontent div -->
+	</center>
+</div>  <!-- end of footer div -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-238307-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
