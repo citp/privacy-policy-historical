@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226093357id_/http%3A//web.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622035752id_/http%3A//www.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Elton John: Help: Privacy Policy
 
@@ -54,4 +54,4 @@ If we decide to make an important change to our Privacy Policy, we will post a n
 
 **LAST UPATED:** March 19, 2007 
 
-Copyright 2007 eltonjohn.com   All rights reserved. 
+© 2020 eltonjohn.com   All rights reserved. 
