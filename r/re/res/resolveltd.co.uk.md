@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resolveltd.co.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026113614id_/http%3A//www.resolveltd.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolveltd.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622160649id_/http%3A//www.resolveltd.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Resolve - Privacy Policy
 
