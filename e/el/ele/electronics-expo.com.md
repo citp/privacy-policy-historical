@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195526id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622114446id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
 
 # Electronics-Expo.com
 
