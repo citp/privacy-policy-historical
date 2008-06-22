@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreamdata.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220033724id_/http%3A//mainstreamdata.com/Default.aspx%3Fp%3D75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreamdata.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622045005id_/http%3A//www.mainstreamdata.com/Default.aspx%3Fp%3D75) for the most accurate reproduction.*
 
 # Mainstream Data - Privacy Policy
 
