@@ -1,540 +1,731 @@
-<!--The following is the downloaded HTML source of the cardplayer.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613111009id_/http%3A//www.cardplayer.com/about_us/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardplayer.com privacy policy that was archived on 2008-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622084754id_/http%3A//www.cardplayer.com/about_us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+  <!-- heart : about_us/privacy-->
+  <title>CardPlayer.com</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  
+  
+  
+  
+  
+  <link href="/stylesheets/shared/base_common.css" media="screen" rel="Stylesheet" type="text/css">
+
+  
+  <link href="/stylesheets/about_us/modules/about_us.css" media="all" rel="Stylesheet" type="text/css">
+  
+<link href="/stylesheets/about_us/modules/card_player_magazine.css" media="all" rel="Stylesheet" type="text/css">
+
+<link href="/stylesheets/shared/accordion.css" media="screen" rel="Stylesheet" type="text/css">
+
+  <link href="/stylesheets/about_us/main.css" media="all" rel="Stylesheet" type="text/css">
+
+
+  <!--[if gte IE 5]>
+    
+  <![endif]-->
+
+  
+
+  <script src="/javascripts/prototype.js" type="text/javascript"></script>
+<script src="/javascripts/effects.js" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js" type="text/javascript"></script>
+<script src="/javascripts/controls.js" type="text/javascript"></script>
+<script src="/javascripts/application.js" type="text/javascript"></script>
+  <script src="/javascripts/json.js" type="text/javascript"></script>
+
+  <script src="/javascripts/cp/cookies.js" type="text/javascript"></script>
+
+  <script src="/javascripts/top_nav/main.js" type="text/javascript"></script>
+
+  <script src="/javascripts/cp/jsutil.js" type="text/javascript"></script>
+
+  <script src="/javascripts/ie_png.js" type="text/javascript"></script>
+
+  <script src="/javascripts/ie_activate_control.js" type="text/javascript"></script>
+
+
+  
+
 <script>
-function chat(url,x,y){
- 	paramlist = 'width='+x+',height='+y+',resizable=no,scrollbars=no,status=no,titlebar=no,menubar=no';
-	newWindow = window.open(url,'chatWindow',paramlist);
-	newWindow.focus();
-}
-</script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<script language="JavaScript" src="http://www.cardplayer.com/js/menu/milonic_src.js" type="text/javascript"></script>
-<script language="JavaScript">
-   if (parent.frames.length) { top.location=document.location;}
-   if(ns4)_d.write("<scr"+"ipt language=JavaScript src='http://www.cardplayer.com/js/menu/mmenuns4.js'><\/scr"+"ipt>");
-else _d.write("<scr"+"ipt language=JavaScript src='http://www.cardplayer.com/js/menu/mmenudom.js'><\/scr"+"ipt>");
-</script>
-<script language="JavaScript" src="http://www.cardplayer.com/js/menu/menu_data.js" type="text/javascript"></script>
-<script language="JavaScript">
-		
-		with(milonic=new menuname("poker_magazine")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Card Player Magazine;url=/poker_magazine/;showmenu=cpmag;");
-    aI("text=Card Player Europe Magazine;url=/cpeurope/;showmenu=cpmageu;");
-    aI("text=Card Player College Magazine;url=/cpcollege/;showmenu=cpmagco;");
-    aI("text=Writers;url=/poker-author/;");
+Function sVBSwfVer(i)
+on error resume next
+Dim swC,swV
+swV=0
+set swC=CreateObject("ShockwaveFlash.ShockwaveFlash."+CStr(i))
+if(IsObject(swC))then
+swV=swC.GetVariable("$version")
+end if
+sVBSwfVer=swV
+End Function
+</script></head>
+<body onload="page_init();">
 
-		}
-		
-		with(milonic=new menuname("cpmag")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Current Issue;url=/poker_magazine/;");
-    aI("text=Archives;url=/poker_magazine/archives/;");
-    aI("text=Subscribe to Card Player;url=http://www.cardplayer.com/link/subscribe;target=_blank;");
-    aI("text=Subscription Support;url=https://w1.buysub.com/servlet/CSGateway?cds_mag_code=CRD;target=_blank;");
-    aI("text=Give as Gift;url=https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=CRD;target=_blank;");
+<div id="modal_window" style="display: none;"></div>
+<div id="modal_window_underlay" style="display: none;"></div>
 
-		}
-		
-		with(milonic=new menuname("cpmageu")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Current Issue;url=/cpeurope/current/;");
-    aI("text=Archives;url=/cpeurope/archives/;");
-    aI("text=Subscribe to Card Player Europe;url=https://pokerstore.cardplayer.com/product_info.php?products_id=127;target=_blank;");
+<div id="cp-wsop">
 
-		}
-		
-		with(milonic=new menuname("cpmagco")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Current Issue;url=/cpcollege/;");
-    aI("text=Archives;url=/cpcollege/archives/;");
+  <div id="header">
+    <div id="top-bar">
+      <!-- START MY CARD PLAYER LOGIN -->
+<div id="my-card-player-login">
+    <form action="/end_user/login" method="post">
 
-		}
-		
-		with(milonic=new menuname("poker-tournaments")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Schedules and Results;url=/poker-tournaments/list.php;");
-    aI("text=Player of the Year;url=/poker-tournaments/player_index.php?showpoy=2005;showmenu=player_of_the_year;");
-    aI("text=World Series of Poker;url=/world_series_of_poker/;showmenu=wsop_tourn;");
-    aI("text=World Poker Tour;url=/world-poker-tour/;showmenu=world_poker_tour;");
-    aI("text=NBC Heads-Up Poker;url=/headsup2006/;");
-    aI("text=Poker Superstars;url=/pokersuperstars/;");
-    aI("text=Online Tournaments;url=/online_tournaments/;");
-    aI("text=Photo Gallery;url=/poker-photos/;");
-    aI("text=Video Gallery;url=/poker_videos/;");
-    aI("text=CardPlayer.com Freeroll;url=/freeroll/;");
-    aI("text=Reporting Schedule;url=/reportingschedule/;");
-
-		}
-		
-		with(milonic=new menuname("player_of_the_year")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=2006 Criteria;url=/player_of_the_year/poycriteria.php;");
-    aI("text=2006 Standings;url=/poker-tournaments/player_index.php?showpoy=1&year=2006;");
-    aI("text=2005 Results;url=/poker-tournaments/player_index.php?showpoy=1&year=2005;");
-    aI("text=2004 Results;url=/poker-tournaments/player_index.php?showpoy=1&year=2004;");
-
-		}
-		
-		with(milonic=new menuname("wsop_tourn")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=2005 Coverage;url=/world_series_of_poker/;");
-    aI("text=2005 Bracelet Winners;url=/world_series_of_poker/2005winners.php;");
-    aI("text=2005/2006 Circuit Schedule;url=/world_series_of_poker/schedule.php;");
-    aI("text=WSOP History;url=/world_series_of_poker/#wsophistory;");
-
-		}
-		
-		with(milonic=new menuname("world_poker_tour")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Season 1;url=/world-poker-tour/season-1.php;");
-    aI("text=Season 2;url=/world-poker-tour/season-2.php;");
-    aI("text=Season 3;url=/world-poker-tour/season-3.php;");
-    aI("text=Courtney Friel Photo Gallery;url=/world-poker-tour/courtney-friel-photos.php;");
-    aI("text=Shana Hiatt Photo Gallery;url=/world-poker-tour/shana-hiatt-photos.php;");
-    aI("text=WPT Hosts;url=/world-poker-tour/hosts.php;");
-
-		}
-		
-		with(milonic=new menuname("poker_tools")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Poker Odds Calculators;url=/poker_odds/;showmenu=poker_odds;");
-    aI("text=Player Database;url=/poker-tournaments/player_index.php;");
-    aI("text=Free Poker;url=/free_poker/;");
-    aI("text=Poker Room Finder;url=/poker-room/;");
-    aI("text=Poker and the Law;url=/pokerlaw/;");
-    aI("text=Special Deals;url=/special_deals/;");
-    aI("text=Rules of Poker;url=/rules-of-poker/general-rules.php;showmenu=rules_of_poker;");
-    aI("text=Extras;url=#;showmenu=p_extras;");
-    aI("text=In the Fishtank;url=/in_the_tank/;");
-
-		}
-		
-		with(milonic=new menuname("poker_odds")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Texas Hold'em;url=/poker_odds/texas_holdem/index.php;");
-    aI("text=Omaha;url=/poker_odds/omaha/index.php;");
-
-		}
-		
-		with(milonic=new menuname("rules_of_poker")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=General Rules;url=/rules-of-poker/general-rules.php;");
-    aI("text=Hand Rankings;url=/rules-of-poker/poker-hand-rankings.php;");
-    aI("text=Texas Hold'em;url=/rules-of-poker/texas-holdem.php;");
-    aI("text=Omaha;url=/rules-of-poker/omaha.php;");
-    aI("text=Seven-Card Stud;url=/rules-of-poker/seven-card-stud.php;");
-    aI("text=Mississippi Stud;url=/rules-of-poker/mississippi-seven-card-stud.php;");
-    aI("text=Seven-Card Stud H/L;url=/rules-of-poker/seven-card-stud-high-low.php;");
-    aI("text=Razz;url=/rules-of-poker/razz.php;");
-    aI("text=Lowball;url=/rules-of-poker/lowball.php;");
-    aI("text=Draw High;url=/rules-of-poker/draw-high.php;");
-    aI("text=Draw Jacks or Better;url=/rules-of-poker/draw-jacks.php;");
-    aI("text=No-Limit & Pot-Limit;url=/rules-of-poker/no-limit-pot-limit.php;");
-    aI("text=Tournaments;url=/rules-of-poker/tournament.php;");
-    aI("text=Buttons and Blinds;url=/rules-of-poker/button-blind.php;");
-    aI("text=Kill Pots;url=/rules-of-poker/kill-pots.php;");
-    aI("text=Explanations;url=/rules-of-poker/explanations.php;");
-
-		}
-		
-		with(milonic=new menuname("p_extras")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Poker E-Cards;url=/poker-ecards/;");
-    aI("text=Cartoon of the Day;url=/cartoon/;");
-
-		}
-		
-		with(milonic=new menuname("poker_media")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Poker on TV;url=/poker_tv/;");
-    aI("text='The Circuit';url=/audio/thecircuit.php;");
-    aI("text=Poker News;url=/poker_news/;");
-    aI("text=Newsletters;url=/poker-newsletter/;");
-
-		}
-		
-		with(milonic=new menuname("my_cardplayer")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=Web Mail;url=/login.php?redir=:webmail;");
-    aI("text=Poker Analyst;url=/poker-analyst/;");
-    aI("text=Forums;url=http://forums.cardplayer.com/;");
-    aI("text=Account Options;url=http://mail.cardplayer.com/index.php?redir=home/options.php;");
-
-		}
-		
-		with(milonic=new menuname("our_company")){
-		style=subMenuStyle;
-		overflow="scroll";
-		    aI("text=CP Press Releases;url=/cpnews/;");
-    aI("text=Mission Statement;url=/about_us/mission_statement.php;");
-    aI("text=Advertise with Us;url=http://www.cardplayer.com/mediakit/;target=_blank;");
-    aI("text=Writer's Terms;url=/about_us/writers_terms.php;");
-    aI("text=Customer Support;url=http://support.cardplayer.com;");
-
-		}
-		
-         drawMenus();
-		</script>
-		
-<link href="http://www.cardplayer.com/css/cardplayer.css" rel="stylesheet" type="text/css">
-<link href="http://www.cardplayer.com/css/cpdefault.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" src="http://www.cardplayer.com/js/cardplayer.js">
-</script>
+    <table width="360px" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td rowspan="2" width="116px" height="35px">
+          <a href="/end_user/signup"><img alt="" height="35" src="/images/top_bar/my_cardplayer.gif?1213995048" width="112"></a>
+        </td>
+        <th>User Name</th>
+        <th>Password</th>
+        <th>&nbsp;</th>
+      </tr>
+      <tr>
+        <td><input class="text_field" id="username" name="username" type="text"></td>
+        <td><input class="text_field" id="password" name="password" type="password"></td>
+        <th height="18px"><input src="/images/top_bar/btn_login.gif?1213995048" type="image"></th>
+      </tr>
+    </tbody></table>
+</form></div>
+<!-- END MY CARD PLAYER LOGIN -->
 
 
-<style type="text/css">
-<!--
-body {
-	background-image: url(http://www.cardplayer.com/grfx/cp_blue_back.jpg);
-}
--->
-</style>
-</head><body>
-<a name="cptop"></a>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
+
+
+
+
+      <!-- START ANNOUNCEMENT TICKER -->
+
+<div id="announcement_ticker">
+<table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td bgcolor="#000000" width="1"></td>
-	<td><table width="729" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="728"><table width="728" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr>					<td width="225" height="24" align="left" valign="middle" class="cpHeaderTopLinks" style="padding-left: 5px; padding-right: 5px;"><a href="#" onclick="this.style.behavior='url(#default#homepage)';
-				this.setHomePage('http://www.cardplayer.com');" class="cpHeaderTopLinks">Make<strong> CardPlayer.com </strong>your homepage!</a></td>
-					<td width="300" align="center" valign="middle" class="cpHeaderTopLinks" style="padding-left: 5px; padding-right: 5px;">Tuesday, June 13, 2006 4:10 am PT </td>
-	 				<td width="191" align="right" valign="middle" class="cpHeaderTopLinks" bgcolor="#000000" style="padding-left: 5px; padding-right: 3px;"><table width="180" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><form method="get" action="http://www.cardplayer.com/search/index.php"></form><input type="hidden" name="PHPSESSID" value="f47e606e22d08d9bb921c57f10faf594"><tbody><tr><td width="40" align="left" valign="middle" class="cpHeaderTopLinks"><strong>Search: </strong></td>
-	 				<td align="left" valign="middle"><input name="q" type="text" class="cpLoginBox"></td><td width="22" align="left" valign="middle"><input type="image" src="http://www.cardplayer.com/search/grfx/search_go.gif" border="0" class="cpLoginBox"></td></tr></tbody></table></td>              </tr>
-              <tr><td colspan="3" bgcolor="#1c1c2b" height="1"><img src="http://www.cardplayer.com/poker_magazine/grfx/pixel.gif" width="1" height="1" border="0"></td></tr>
-            </tbody></table>
-            <table width="728" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td align="right"><table width="728" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-                  <tbody><tr>
-                    <td><!-- start 728x90 banner -->
-						<script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.cardplayer.com/banrotate/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:28&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referer)
-      document.write ("&amp;referer=" + escape(document.referer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adjs.php?n=804103013&amp;what=zone:28&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.cardplayer.com/banrotate/adclick.php?n=a369f61a' target='_blank'><img src='http://ads.cardplayer.com/banrotate/adview.php?what=zone:28&amp;n=a369f61a' border='0' alt=''></a></noscript>
-
-                        <!-- end 728x90 banner --></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table>
-            <table width="728" border="0" cellpadding="0" cellspacing="0" bgcolor="#666699">
-              <tbody><tr>
-                <td width="209"><a href="http://www.cardplayer.com/" target="_top"><img src="http://www.cardplayer.com/grfx/cplogo_tp.gif" alt="CardPlayer.com � The Poker Authority. Poker News, Tips, Free Hold�em Play" width="227" height="78" border="0"></a></td>
-                <td align="right"><table height="54" border="0" align="right" cellpadding="2" cellspacing="0">
-                  <tbody><tr align="center">
-                    <td width="75" class="cpHeaderTopLinks"><p><a href="http://mail.cardplayer.com" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_webmail.gif" alt="CardPlayer.com Web Mail" width="44" height="40" border="0"><br>
-						  Web&nbsp;Mail</a> </p></td>
-                    <td width="75" class="cpHeaderTopLinks"><a href="http://www.cardplayer.com/poker-analyst/" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_analyst.gif" alt="Analyze Your Poker Game" width="44" height="40" border="0"><br>
-						  Poker Analyst</a> </td>
-	  				<td width="75" class="cpHeaderTopLinks"><a href="http://www.cardplayer.com/poker_odds/" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_pokerodds.gif" alt="Calculate Poker Odds" width="44" height="40" border="0"><br>
-						  Poker Odds</a> </td>
-                    <td width="75" class="cpHeaderTopLinks"><a href="http://www.cardplayer.com/free_poker/" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_freepoker.gif" alt="Play FREE Poker" width="44" height="40" border="0"><br>
-						  FREE&nbsp;Poker</a> </td>
-                    <td width="75" class="cpHeaderTopLinks"><a href="http://forums.cardplayer.com/" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_forum.gif" alt="Poker Forum" width="44" height="40" border="0"><br>
-						  Poker&nbsp;Forum</a> </td>
-                    <td width="75" class="cpHeaderTopLinks"><a href="#" class="cpHeaderTopLinks"> </a><a href="https://pokerstore.cardplayer.com/" target="_top" class="cpHeaderTopLinks"><img src="http://www.cardplayer.com/grfx/quick_shoponline.gif" alt="Shop for Poker Books, DVDs, and Clothing" width="44" height="40" border="0"><br>
-						  Poker&nbsp;Store</a> </td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table>
-            <table width="728" border="0" cellpadding="0" cellspacing="0" background="http://www.cardplayer.com/grfx/menu_bk.gif">
-              <tbody><tr>
-                <td width="728">
-						
-		<script language="JavaScript">
-         with(milonic=new menuname("Main Menu")){
-         style=menuStyle;
-         alwaysvisible=1;
-         orientation="horizontal";
-	 menualign="center";
-         position="relative";
-		    aI("text=CardPlayer.com;url=/;itemwidth=100;");
-    aI("text=Magazines;url=/poker_magazine/;showmenu=poker_magazine;itemwidth=100;");
-    aI("text=Tournaments;url=/poker-tournaments/list.php;showmenu=poker-tournaments;itemwidth=100;");
-    aI("text=Resources;url=/;showmenu=poker_tools;itemwidth=100;");
-    aI("text=Poker Media;url=/;showmenu=poker_media;itemwidth=100;");
-    aI("text=MyCardPlayer;url=/;showmenu=my_cardplayer;itemwidth=100;");
-    aI("text=Company;url=/;showmenu=our_company;itemwidth=100;");
-
-		}
-		
-         drawMenus();
-      </script>
-		                </td>
-              </tr>
-            </tbody></table></td>
-          <td width="1" bgcolor="#000000"></td>
-        </tr>
-      </tbody></table>
-      <table width="729" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="728" valign="top"><table width="728" height="700" border="0" cellpadding="10" cellspacing="0" background="http://www.cardplayer.com/grfx/grey_bk.gif">
-              <tbody><tr>
-                <td valign="top">
-            
-
-				<!-- start content -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="5"><img src="http://www.cardplayer.com/grfx/top_grey_corner_tl.gif" width="5" height="5"></td>
-    <td bgcolor="#F2F2F2"></td>
-    <td width="5" align="right"><img src="http://www.cardplayer.com/grfx/top_grey_corner_tr.gif" width="5" height="5"></td>
-  </tr>
-  <tr bgcolor="#F2F2F2">
-    <td></td>
-    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="15">
-        <tbody><tr>
-          <td><span class="cpPageHeader">Terms of Use / Privacy Policy<br>
-                <span class="cpPageHeaderDesc"></span></span></td>
-        </tr>
-    </tbody></table></td>
-    <td></td>
-  </tr>
-  <tr bgcolor="#D8D8D8">
-    <td height="1"></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody></table>
-<table width="100%" height="750" border="0" cellpadding="10" cellspacing="0">
-  <tbody><tr>
-    <td valign="top" bgcolor="#FFFFFF" class="cpblack">
-      <br>
-<table cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td class="cpblack">
-<p class="cpblack">CardPlayer.com takes your privacy seriously. Please read the following to learn more about our privacy policy. </p>
-<p class="cpblack"><strong>What This Privacy Policy Covers</strong> </p>
-<ul>
-<li>This policy covers how CardPlayer.com treats personal information that CardPlayer.com collects and receives, including information related to your past use of CardPlayer.com products and services. Personal information is information about you that is personally identifiable, like your name, address, e-mail address, or phone number, and that is not otherwise publicly available. 
-</li><li>This policy does not apply to the practices of companies that CardPlayer.com does not own or control, or to people that CardPlayer.com does not employ or manage. </li></ul>
-<p class="cpblack"><strong>Information Collection and Use</strong> </p>
-<p class="cpblack"><strong>General </strong></p>
-<ul>
-<li>CardPlayer.com collects personal information when you register with CardPlayer.com, when you use CardPlayer.com products or services, when you visit CardPlayer.com pages or the pages of certain CardPlayer.com partners, and when you enter promotions or sweepstakes. CardPlayer.com may combine information about you that we have with information we obtain from business partners or other companies. 
-</li><li>When you register, we ask for information such as your name, e-mail address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with CardPlayer.com and sign in to our services, you are not anonymous to us. 
-</li><li>CardPlayer.com collects information about your transactions with us and with some of our business partners. 
-</li><li>CardPlayer.com automatically receives and records information on our server logs from your browser, including your IP address, CardPlayer.com cookie information, and the page you request. 
-</li><li>CardPlayer.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. </li></ul>
-<p class="cpblack"><strong>Children </strong></p>
-<p class="cpblack">When creating an account, we require the new member to certify that he or she is 18 years old or over by checking the appropriate box. If a child under age 18 attempts to register with CardPlayer.com, we ask that he or she have a parent or guardian create a CardPlayer.com Family Account to obtain parental permission. </p>
-<ul>
-<li>CardPlayer.com will not contact children under age 18 about special offers or for marketing purposes without a parent's permission. 
-</li><li>CardPlayer.com does not ask a child under age 18 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. </li></ul>
-<p class="cpblack"><strong>Information Sharing and Disclosure</strong> </p>
-<ul>
-<li>CardPlayer.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-<ul>
-<li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-</li><li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of CardPlayer.com's terms of use, or as otherwise required by law. 
-</li><li>We provide the information to trusted partners who work on behalf of or with CardPlayer.com under confidentiality agreements. These companies may use your personal information to help CardPlayer.com communicate with you about offers from CardPlayer.com and our marketing partners. However, these companies do not have any independent right to share this information. </li></ul>
-</li><li>CardPlayer.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-<ul>
-<li>CardPlayer.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. </li></ul></li></ul>
-<p class="cpblack"><strong>Cookies</strong> </p>
-<ul>
-<li>CardPlayer.com may set and access CardPlayer.com cookies on your computer. 
-</li><li>Cookies are anonymous .txt files that allow us to remember you and your preferences from previous visits. CardPlayer.com cookies collect no personally identifiable information. </li></ul>
-<p class="cpblack"><strong>Confidentiality and Security</strong> </p>
-<ul>
-<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. </li></ul>
-<p class="cpblack"><strong>Changes to this Privacy Policy</strong> </p>
-<ul>
-<li>CardPlayer.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in your CardPlayer.com account or by placing a prominent notice on our site. </li></ul>
-<p class="cpblack"><strong>Questions and Suggestions</strong> </p>
-<p class="cpblack">If you have questions or suggestions, please contact us at: </p>
-<p class="cpblack" align="center"><strong>CardPlayer.com<br></strong>Customer Care - Privacy Policy Issues <br>3140 S. Polaris Avenue #8 <br>Las Vegas Nevada 89102<br>Phone: (702) 871-1720 <br>Fax: (702)-871-2674 </p></td></tr></tbody></table></td>
-  </tr>
-</tbody></table>
-<!-- Generated page at 1150197006 (uncached) -->
-</td>
-</tr>
-</tbody></table>
-</td>
-
-<td width="1" bgcolor="#000000"></td>
-</tr>
-</tbody></table>
-<table width="729" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="728" valign="top"><table width="728" border="0" cellpadding="10" cellspacing="0" bgcolor="#D8D8D8">
-        <tbody><tr>
-          <td align="right" valign="top" class="cpFooterLinks02"><a href="/contact/contactus.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks02">Send us feedback</a> | <a href="/sendpage/sendthis.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" class="cpFooterLinks02">Send this page to a friend</a> | <a href="#cptop" class="cpFooterLinks02">Top of page</a> </td>
-        </tr>
-      </tbody></table>
-      <table width="728" border="0" cellpadding="10" cellspacing="0" bgcolor="#333366">
-        <tbody><tr>
-          <td align="center" valign="top" class="cpFooterLinks"><p align="justify" class="cpFooterLinks"><strong><a href="/about_us/privacy_policy.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks">Terms of Use / Privacy Policy</a> | <a href="/about_us/writers_terms.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks">Writer's Terms</a> | <a href="/about_us/mission_statement.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks">Mission Statement</a> | <a href="/site_map.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks">Site Map </a> | <a href="/contact/contactus.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top" class="cpFooterLinks">Contact Us</a> | <a href="/mediakit/?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_blank" class="cpFooterLinks">Advertise with Us</a> | <a href="/refundpolicy.php?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_blank" class="cpFooterLinks">Refund Policy</a></strong> <strong>|</strong> <a href="/poker?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" class="cpFooterLinks"><strong>More Poker </strong></a><br>
-              <br>
-              <strong>Copyright © 2001-2005 <a href="http://www.cardplayer.com" target="_top" class="cpFooterLinks">CardPlayer.com</a>, All rights reserved. </strong><br>
-              Card Player encourages you to gamble responsibly. If you or someone you know has a gambling problem, call 800.522.4700 or go to: www.ncpgambling.org
-U.S. Citizens Please Note: The information contained at this site is for news and entertainment purposes only.
-Any use of this information in violation of any federal, state, or local laws is prohibited.</p></td>
-        </tr>
-      </tbody></table></td>
-    <td width="1" bgcolor="#000000"></td>
-  </tr>
-</tbody></table>
-</td>
-<form method="post" action="/about_us/privacy_policy.php" onsubmit="return true;"></form><input type="hidden" name="PHPSESSID" value="f47e606e22d08d9bb921c57f10faf594">
-</tr></tbody></table><table width="195" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="10">&nbsp;</td><td width="185">
-<table width="97%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td background="http://www.cardplayer.com/grfx/login_box_back.gif"><table width="100%" border="0" cellpadding="7" cellspacing="0">
-<tbody><tr>
-<td class="cpLoginBox"><div align="center">
-<p><strong class="cpArticleTitle">MyCardPlayer</strong><br>
-Member features include: Web Mail, Poker Analyst, Newsletters, and more for FREE! </p>
-</div></td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr><td>
-<div align="center" class="cpLoginBox">USERNAME</div></td>
-</tr>
-<tr>
-<td><div align="center">
-<input type="text" id="username" name="username" value="" class="cpLoginBox">
-</div></td>
-</tr>
-<tr>
-<td class="cpLoginBox"><div align="center">PASSWORD</div></td>
-</tr>
-<tr>
-<td><div align="center">
-<input type="password" id="password" name="password" class="cpLoginBox">
-</div></td>
-</tr>
-<tr>
-<td class="cpLoginBox"><div align="center">
-<input type="checkbox" name="loginpersist" value="loginpersist"> Log me in automatically</div></td>
-</tr>
-<tr>
-<td><div align="center">
-<strong class="cpArticleTitle">
-<input value="LOGIN" id="doLogin" name="doLogin" type="submit" class="cpLoginBox">
-</strong><br><br><a href="http://mail.cardplayer.com/index.php?redir=home/signup.php" target="_top" class="cpLoginBox">Sign Up</a> | <a href="http://mail.cardplayer.com/index.php?redir=home/lostpwd.php" target="_top" class="cpLoginBox">Forgot Password</a></div>
-<input type="hidden" id="authsecret" name="authsecret" value=""><input type="hidden" id="redir" name="redir" value=""></td></tr>
-</tbody></table>
-</td></tr><tr><td><img src="http://www.cardplayer.com/grfx/login_box_bot.gif" width="185" height="17"></td></tr></tbody></table>
-</td></tr></tbody></table>
-
-
-<table border="0" cellspacing="0" cellpadding="10">
-    <tbody><tr>
-      <td valign="top"><table width="100%" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#000033">
-        <tbody><tr>
-          <td><table width="120" height="600" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#FFFFFF">
-            <tbody><tr>
-              <td align="center" class="arial01"><!-- start 120x600 banner -->
-		  <script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.cardplayer.com/banrotate/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:31&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referer)
-      document.write ("&amp;referer=" + escape(document.referer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adjs.php?n=208730431&amp;what=zone:31&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.cardplayer.com/banrotate/adclick.php?n=a38286be' target='_blank'><img src='http://ads.cardplayer.com/banrotate/adview.php?what=zone:31&amp;n=a38286be' border='0' alt=''></a></noscript>
-
-	                            <!-- end 120x600 banner -->
-              </td>
-            </tr>
-          </tbody></table></td>
-        </tr>
-      </tbody></table>
-        <br>
-        <table width="125" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="#000000">
-          <tbody><tr>
-            <form action="/poker-newsletter/" name="frmNewsletter" method="post"></form><input type="hidden" name="PHPSESSID" value="f47e606e22d08d9bb921c57f10faf594">
-              <td class="arial01">
-                <center>
-          Sign up for our <strong><br>
-          FREE newsletters</strong> <br>
-          and get special poker deals in your In-box!
-                <br>
-            <input name="submit" type="submit" class="cpblue" value="Sign up">
-            <br>
-            <a href="/poker-newsletter/?PHPSESSID=f47e606e22d08d9bb921c57f10faf594" target="_top"><br>
-            <span class="arial01">Click here for archives!</span>            </a>
-                  </center>
+    <td>
+      <a href="/"><img alt="" src="/images/flags/us_on.gif?1213995089"></a>
       </td>
-            
-          </tr>
-        </tbody></table>
-        <br>
-        <table width="125" height="125" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#344C7C">
-              <tbody><tr>
-                <td align="center" bgcolor="#666666" class="arial01">
 
-            <!-- start 125x125 banner -->
-			<script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.cardplayer.com/banrotate/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:30&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referer)
-      document.write ("&amp;referer=" + escape(document.referer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.cardplayer.com/banrotate/adjs.php?n=965474823&amp;what=zone:30&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.cardplayer.com/banrotate/adclick.php?n=a4a4dece' target='_blank'><img src='http://ads.cardplayer.com/banrotate/adview.php?what=zone:30&amp;n=a4a4dece' border='0' alt=''></a></noscript>
+    <td>
+      <a href="http://europe.cardplayer.com"><img alt="" src="/images/flags/eu.gif?1213995089"></a>
+    </td>
 
-			
-			<!-- end 125x125 banner -->
+    <td>
+      <a href="http://www.cardplayerfr.com" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/france.gif?1213995089"></a>
+    </td>
 
-</td>
-              </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
+    <td>
+      <a href="http://www.cardplayeritalia.com" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/italy.gif?1213995089"></a>
+    </td>
+
+    <td>
+      <a href="http://www.cardplayerbrasil.com/site/" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/brazil.gif?1213995089"></a>
+    </td>
+
+    <td>
+      <a href="http://www.cardplayer.fi" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/finland_flag.gif?1213995089"></a>
+    </td>
+
+    <td>
+      <a href="http://www.cardplayerespana.com" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/spain.gif?1213995089"></a>
+    </td>
+
+    <td>
+      <a href="http://www.cardplayerdeutsch.com" onclick="window.open(this.href);return false;"><img alt="" src="/images/flags/germany.gif?1213995089"></a>
+    </td>
+  </tr>
+</tbody></table>  
+</div>
+
+<!-- END ANNOUNCEMENT TICKER -->
 
 
-<!-- ClickTracks -->
+
+
+      <div id="search">
+  
+        <div class="search_field">
+      <input type="text" class="text_field" name="query">
+    </div>
+    <div class="button">
+      <input src="/images/top_bar/btn_search.gif?1213995048" type="image">
+    </div>
+  
+</div>
+
+
+
+
+
+
+      <!-- START HOME LINK -->
+<div id="home-link"><br>
+  <a href="/">HOME</a> &nbsp;
+</div>  
+<!-- END HOME LINK -->
+
+
+
+  
+    </div>
+  </div>
+
+    <div id="identity-bar">
+      <!-- START IDENTITY -->
+<div id="identity">
+  <a href="/" style="float:left"><img alt="" height="92" src="/images/logos/cardplayer_logo.gif?1213995097" width="259"></a>
+  
+    <div class="ad_banner" style="width: 728px"><iframe id="ab43d76a" name="ab43d76a" src="http://ads.cardplayer.com/openads/adframe.php?n=ab43d76a&amp;what=zone:28&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://ads.cardplayer.com/openads/adclick.php?n=ab43d76a' 
+          target='_blank'><img src='http://ads.cardplayer.com/openads/adview.php?what=zone:28&amp;n=ab43d76a' 
+                  border='0' alt=''></a></iframe></div>
+  
+</div>
+<!-- END IDENTITY -->
+
+
+
+    </div>
+<div class="clear">&nbsp;</div>
+    <div id="nav-bar">
+      
+
+
+<!-- START TOP NAVIGATION -->
+  <!-- START MAIN NAV -->
+  <div class="main-nav-off">
+    <div id="magazines" class="parent-container parent-text parent-text-off"><a href="/magazine">MAGAZINES</a></div><div class="spacer">&nbsp;</div><div id="poker_news" class="parent-container parent-text parent-text-off"><a href="/poker-news">POKER NEWS</a></div><div class="spacer">&nbsp;</div><div id="tournaments" class="parent-container parent-text parent-text-off"><a href="/tournaments/tournaments_list">TOURNAMENTS</a></div><div class="spacer">&nbsp;</div><div id="multimedia" class="parent-container parent-text parent-text-off"><a href="/tv">MULTIMEDIA</a></div><div class="spacer">&nbsp;</div><div id="online_poker" class="parent-container parent-text parent-text-off"><a href="/online-poker">ONLINE POKER</a></div><div class="spacer">&nbsp;</div><div id="tools_and_tips" class="parent-container parent-text parent-text-off"><a href="/tools_tips">TOOLS &amp; TIPS</a></div><div class="spacer">&nbsp;</div><div id="subscribe" class="parent-container parent-text parent-text-off"><a href="/link/subscribe">SUBSCRIBE</a></div>
+  </div>
+  <!-- END MAIN NAV -->
+  
+  <!-- START BG AND CAPS -->
+  <div id="left-cap"></div>
+  <div id="sub-nav-bg"></div>
+  <div id="right-cap"></div>
+  <!-- END BG AND CAPS -->
+<!-- START VERT NAV -->
+<div id="vert-sub-nav">
+<!-- START VERT SUB NAV -->
+<div id="vert-magazines" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/magazine">CARD PLAYER MAGAZINE</a></div>
+    
+    <ul>
+      
+      <li class="nav-item a-FFFFFF"><a href="/magazine/current">CURRENT</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/magazine/archive">ARCHIVE</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/magazine/authors">AUTHORS</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/link/subscribe">SUBSCRIBE</a></li>
+      
+    </ul>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/cpeurope">CARD PLAYER EUROPE</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-poker_news" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker-news">HEADLINES</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker-news/blogs">BLOGS</a></div>
+    
+    <ul>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/29">GUS HANSEN</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/15">ROY WINSTON</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/2">DANIEL NEGREANU </a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/6">PHIL HELLMUTH</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/30">DOYLE BRUNSON</a></li>
+      
+      <li class="nav-item a-FFFFFF"><a href="/poker-news/blogs/author/34">LEE WATKINSON</a></li>
+      
+    </ul>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker-law">GAMBLING LEGISLATION</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/history_of_poker">HISTORY OF POKER</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-tournaments" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/tournaments_list">SCHEDULE &amp; RESULTS</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/players">PLAYER DATABASE</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/poy">PLAYER OF THE YEAR</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/wsop">WSOP</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/wpt">WPT</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/nbcheadsup">NBC HEADS-UP</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tournaments/pokersuperstars">POKER SUPERSTARS</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-multimedia" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/multimedia/photos">PHOTOS</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tv">CARDPLAYER TV</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker-replay">HAND REPLAYER</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/cpaudio">CP AUDIO</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/cpnpokerstore">POKER MEDIA STORE</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/iamplify">POKER DOWNLOAD STORE</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-online_poker" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/online-poker/free-poker">CARD PLAYER POKER</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/online-poker/tournaments/schedule/upcoming">ONLINE TOURNAMENTS</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/online-poker/rooms">ONLINE ROOM REVIEWS</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/online-poker/players">ONLINE PLAYER DATABASE</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/online-poker/poker-beat">ONLINE POKER BEAT</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-tools_and_tips" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/pro">CARD PLAYER PRO</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker_room">POKER ROOM FINDER</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/rules-of-poker">RULES OF POKER</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker_on_tv">POKER ON TV</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/webmail">WEBMAIL</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="http://forums.cardplayer.com/forums">FORUM</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/tools_tips">ODDS CALCULATOR</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/poker_analyst">POKER ANALYST</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+<!-- START VERT SUB NAV -->
+<div id="vert-subscribe" class="vert-sub-nav" style="display: none;">
+  <div id="nav-list">
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/subscribe">26 ISSUES FOR $19.95</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/giftsubscription">GIFT SUBSCRIPTION</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/cpnpokerstore">POKER STORE</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="http://pokerstore.cardplayer.com/index.php?cPath=73">CARD PLAYER EUROPE</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="/link/magazinesupport">SUBSCRIPTION SUPPORT</a></div>
+    
+    <div class="seperator">&nbsp;</div>
+    
+    <div class="nav-item a-FFFFFF"><a href="https://w1.buysub.com/pubs/S9/CRD/CDR_Combo_entry.jsp?cds_page_id=24470&amp;cds_mag_code=CRD&amp;id=1176827854785&amp;lsid=71071137347024619&amp;vid=1">RENEW SUBSCRIPTION</a></div>
+    
+  </div>
+</div>
+<!-- END VERT SUB NAV -->
+
+</div>
+<!-- END VERT NAV -->
+<iframe id="DivShim" src="about:blank" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none; filter:progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)">
+</iframe>
+<!-- END TOP NAVIGATION -->
+<script type="text/javascript">
+  TopNavInit(new Array('magazines', 'poker_news', 'tournaments', 'multimedia', 'online_poker', 'tools_and_tips', 'subscribe'), '');
+</script>
+
+    </div>
+<div class="clear">&nbsp;</div>    
+</div>
+
+<div class="clear">&nbsp;</div>
+
+  <div id="page">
+  
+    <div id="col-1">
+    <div id="b">
+      <div id="right">
+        <!-- START CENTER CONTENT  -->
+<div id="about-us">
+  
+   <div class="title"><h1>PRIVACY POLICY</h1></div>
+
+  <div class="center-content">
+    <div class="module-container">
+
+
+      <br>
+      <br>
+
+
+<h2>Thank you for reviewing our Privacy Policy.</h2>
+<b>Your online safety is of utmost importance to us.</b>
+<br><br>
+
+
+This is Card Player Media, LLC's Privacy Policy, which is effective as of March
+7, 2008, and describes how Card Player collects and uses information from the
+Card Player Card Player website and subscriber information. Card Player
+respects the privacy rights of our users and recognizes the importance of
+protecting the information collected about you. Card Player uses your data to
+administer your subscription, provide information of interest to you, and to
+communicate with you. Card Player stores your data in the United States, and
+our use of your data is subject to this privacy policy. This Privacy Policy may
+be amended from time to time. Any such changes will be posted on this page. If
+we make a significant or material change in the way we use your personal
+information, the change will be posted on this page thirty (30) days prior to
+taking effect and registered users will be notified via e-mail. If you have any
+questions regarding the Privacy Policy, or wish to contact us, please send an
+email to <b><a href="mailto:%73%75%70%70%6f%72%74@%63%61%72%64%70%6c%61%79%65%72.%63%6f%6d">support@cardplayer.com</a></b>.
+
+<br><br><br><h2><u>Types of Information Collected</u></h2>
+
+<br><p><b>Personally Identifiable Information</b></p>
+Personal information is information that identifies you and may be used to
+contact you on-line or off-line. Card Player collects personal information from
+our online visitors during account registration, or through sign-ups for
+newsletter and magazine subscriptions, referral services, and other marketing
+surveys and email campaigns. 
+<br><br>
+Information collected will vary depending upon the activity and may include
+your name, e-mail address, phone number, home address, birth date, and credit
+card information. In addition, we may collect demographic information such as
+gender, zip code, software, platform, Internet IP address and connection,
+information about your use of the website such as click paths and other data
+that you may provide in surveys or online profiles. We may combine demographic
+information with personal information, such as email address, to tailor our
+offerings or web pages to your preferences or interests. 
+
+<br><br><p><b>Aggregate Information</b></p>
+We may store non-personally identifiable information that we collect through
+log files to create a profile of our users in the aggregate. Log files record
+internet protocol (IP) addresses, browser types, internet service provider
+(ISP), referring/exit pages, platform type, date/time stamp, and number of
+clicks which we will use to analyze trends, administer the Service or Card
+Player website, track aggregate service and usage patterns, and gather broad
+demographic information for general use. Your individual usage cannot be
+tracked through aggregate data. 
+<br><br>
+As is standard practice on many web sites, Card Player may use "cookies" and
+other technologies to recognize you and provide personalization, as well as to
+help us understand which parts of our web site is the most popular, where our
+visitors are going and how much time they spend there. 
+
+<br><br><p><b>Online Chat Rooms and Profiles</b></p>
+You may choose to disclose information, including personal information, about
+yourself through chat functions, message boards, screen name profiles for
+public view, or in similar forums on the website. Information that you disclose
+through these features is public information, and there is no expectation of
+privacy or confidentiality there. You should be aware that any personally
+identifiable information you submit there can be read, collected, or used by
+other users of those features, and could be used to send you unsolicited
+messages. We are not responsible for the personally identifiable information
+you choose to submit through these features. 
+
+
+<br><br><br><h2><u>How We Use the Information</u></h2>
+
+<br><p><b>Account Maintenance and Transactions</b></p>
+We use your personal information to maintain your Card Player account and
+subscription and to provide the website to you. In addition, the personal
+information you provide will allow us to alert you to new products, features
+and enhancements; special offers; upgrade opportunities; and events of
+interest. We may send you electronic communications about Card Player products
+or services. 
+
+<br><br><p><b>Statistical Analysis</b></p>
+Card Player may perform statistical, demographic and marketing analyses of
+users, and their usage patterns, for product development purposes and to
+generally inform advertisers about the nature of our user base. 
+
+<br><br><p><b>Products and Services from Third Parties</b></p>
+From time to time, Card Player may share your personal information with
+companies and organizations that provide products or services that we believe
+may be of interest to you. We see this as a value-added service helping you to
+find useful products or services. We strive to limit use of the information you
+provide to those offers that we think you would appreciate receiving. You may
+opt-out of receiving these offers by calling Card Player at 1-866-587-6537.To
+opt out of further communications from a marketing partner or sponsor with whom
+your information has been shared while you had opted-in to receiving such
+communications, please contact that partner directly. 
+
+<br><br><p><b>Changing or Updating Your Information</b></p>
+You can correct or update your account information at any time by calling Card
+Player at 1-866-587-6537.  We will be happy to review, update or remove
+information as appropriate. We may still retain your information in our files
+however, to resolve disputes, enforce our terms of use, and due to technical
+and legal requirements and constraints related to the security, integrity and
+operation of the Service and our websites. 
+<br><br>
+Card Player also sends regular newsletter updates to registered members.  To
+opt out of these communications, access the Unsubscribe page and enter your
+email address.  Then select the communications you choose to opt out of, and
+hit submit.  
+
+<br><br><p><b>Security</b></p>
+The security of your personal information is important to us. We follow
+generally accepted industry standards to protect the personal information
+submitted to us, both during transmission and once we receive it. When you
+enter sensitive information (such as credit card number numbers) on our
+registration or order forms, we encrypt that information using secure socket
+layer technology (SSL). No method of transmission over the Internet, or method
+of electronic storage, is 100% secure, however. Therefore, while we strive to
+use commercially acceptable means to protect your personal information, we
+cannot guarantee its absolute security. If you have any questions about
+security on our Web site, you can contact support@cardplayer.com.
+
+<br><br><p><b>COPPA Compliance</b></p>
+Card Player does not knowingly collect or store any personal information, even
+in aggregate, about children under the age of 13. 
+
+<br><br><p><b>Compliance with Legal Process</b></p>
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to: (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+
+
+    </div>
+  </div>
+</div>
+<!-- END CENTER CONTENT  -->
+
+
+
+
+        <div class="spacer">&nbsp;</div>
+      </div>
+      <div id="left">
+        <!-- START CARD PLAYER MAGAZINE NAV -->
+<div id="card-player-magazine" class="module_left">
+  <div class="module-heading"><img alt="" src="/images/about_us/module_headers/card_player_magazine.gif?1213995047"></div>
+  <div class="module-container-wide">
+    <div class="module-item module-dash-999 a-161E33"><a href="http://www.cardplayer.com/mediakit" onclick="window.open(this.href);return false;">ADVERTISE WITH US</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="/about_us/press_releases">CARD PLAYER NEWS &amp; PRESS RELEASES</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="/about_us/mission_statement">MISSION STATEMENT</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="/about_us/terms_of_use">TERMS OF USE &amp; PRIVACY POLICY</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="http://support.cardplayer.com/ics/support/default.asp?deptID=1198" onclick="window.open(this.href);return false;">CUSTOMER SUPPORT</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="http://support.cardplayer.com/ics/support/default.asp?deptID=1198" onclick="window.open(this.href);return false;">SUBSCRIPTION SUPPORT</a></div>
+    <div class="module-item module-dash-999 a-161E33"><a href="http://support.cardplayer.com/ics/support/default.asp?deptID=1198" onclick="window.open(this.href);return false;">CONTACT US</a></div>
+    <div class="module-item a-6699FF"><a href="/">BACK TO HOME PAGE</a></div>
+  </div>
+</div>
+<!-- END CARD PLAYER MAGAZINE NAV -->
+
+
+        <div class="spacer">&nbsp;</div>
+        <div class="ad_banner" style="width: 230px"><iframe id="abb96ad5" name="abb96ad5" src="http://ads.cardplayer.com/openads/adframe.php?n=abb96ad5&amp;what=zone:97&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="230" height="100"><a href='http://ads.cardplayer.com/openads/adclick.php?n=abb96ad5' 
+          target='_blank'><img src='http://ads.cardplayer.com/openads/adview.php?what=zone:97&amp;n=abb96ad5' 
+                  border='0' alt=''></a></iframe></div>
+        <div class="spacer">&nbsp;</div>
+      </div>
+  </div>
+</div>
+
+<div id="col-2">
+  <div class="ad_banner" style="width: 258px"><iframe id="a1565e2b" name="a1565e2b" src="http://ads.cardplayer.com/openads/adframe.php?n=a1565e2b&amp;what=zone:98&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="258" height="150"><a href='http://ads.cardplayer.com/openads/adclick.php?n=a1565e2b' 
+          target='_blank'><img src='http://ads.cardplayer.com/openads/adview.php?what=zone:98&amp;n=a1565e2b' 
+                  border='0' alt=''></a></iframe></div>
+
+<div class="spacer">&nbsp;</div>
+
+<!-- START RIGHT SIDEBAR LINKS -->
+<div id="right-sidebar-links">
+  <div class="set">
+      <div class="header a-3C4760"><a href="/poker_odds">ODDS CALCULATORS</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/poker_odds/texas_holdem">Texas Hold'em</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/poker_odds/omaha">Omaha</a></div>
+  </div>
+
+  <div class="set">
+      <div class="header a-3C4760"><a href="/free_poker">PLAY FREE POKER</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/free_poker">Download Card Player Poker</a></div>
+  </div>
+
+  <div class="set">
+      <div class="header a-3C4760"><a href="/end_user/signup">MY CARDPLAYER</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/end_user/signup">Sign Up</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/poker_analyst">Poker Analyst</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/webmail">Web Mail</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="http://forums.cardplayer.com/forums">Poker Forum</a></div>
+  </div>
+
+  <div class="set">
+      <div class="header a-3C4760"><a href="http://pokerstore.cardplayer.com/" onclick="window.open(this.href);return false;">POKER STORE</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="http://pokerstore.cardplayer.com/product_info.php?cPath=21&amp;products_id=270" onclick="window.open(this.href);return false;">Barry Shulman's More Hold'em Tips</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="http://pokerstore.cardplayer.com/" onclick="window.open(this.href);return false;" rel="NoFollow">View All Products</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="http://www.cardplayer.com/link/iamplify-sidebar" onclick="window.open(this.href);return false;">Poker Download Store</a></div>
+  </div>
+
+  <div class="set">
+      <div class="header a-3C4760"><a href="/tools_tips/">POKER TIPS</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/tools_tips/daily_tip">CardPlayer.com Tip of the Day</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/tools_tips/barry_shulmans_52_tips">Barry Shulman's Hold'em Tips</a></div>
+  </div>
+
+  
+  <div class="set">
+    <div class="header a-3C4760"><a href="/poker_quiz/5">POKER QUIZ</a></div>
+    <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/poker_quiz/5">Today's Topic: Betting on the End</a></div>
+  </div>
+  
+
+  
+  <div class="set">
+      <div class="header a-3C4760"><a href="/poll/">POKER POLL</a></div>
+      <div class="detail a-161E33"><span class="spade"><img alt="" src="/images/home/spade.gif?1213995059"></span> <a href="/poll/">Today's Question: You're at the final table. Whom would you NOT want playing at the table?</a></div>
+  </div>
+  
+
+</div>
+<!-- END RIGHT SIDEBAR LINKS -->
+
+
+
+
+</div>
+
+
+
+
+    <div class="clear-left">&nbsp;</div>
+
+        <div id="footer">
+  <div>
+    
+    <div class="legal" style="border: 0;">
+      <a href="http://www.cardplayer.com/" class="red-link">Home</a> | <a href="/media-kit" onclick="window.open(this.href);return false;">Advertise with Us</a> | <a href="http://support.cardplayer.com/ics/support/default.asp?deptID=1198" onclick="window.open(this.href);return false;">Customer Support</a> | <a href="https://w1.buysub.com/pubs/S9/CRD/CDR_Combo_entry.jsp?cds_page_id=24470&amp;cds_mag_code=CRD&amp;id=1152210472411&amp;lsid=61871327524027654&amp;vid=1" onclick="window.open(this.href);return false;">Subscription Support</a> | <a href="/about_us/press_releases">Card Player News &amp; Press</a> | <a href="http://support.cardplayer.com/ics/support/default.asp?deptID=1198" onclick="window.open(this.href);return false;">Contact Us</a> | <a href="/about_us/">About Us</a> | <a href="/about_us/privacy">Privacy Policy</a>
+    </div>
+      
+    <div class="legal">
+      <a href="http://www.cardplayer.com/site-map" class="red-link">Site Map</a> | Copyright © 2001-2008 <a href="/">CardPlayer.com</a>, All rights reserved.&nbsp;&nbsp;Visit our <a href="http://support.cardplayer.com/" class="red-link">Support Center</a> to send us feedback
+    </div>
+    
+    <div class="legal">
+      Card Player encourages you to gamble responsibly. If you or someone you know has a gambling problem, call 800.522.4700 or go to: <a href="http://www.ncpgambling.org" class="greylink">www.ncpgambling.org</a>. U.S. Citizens Please Note: The information contained at this site is for news and entertainment purposes only. Any use of this information in violation of any federal, state, or local laws is prohibited. Caveat: It is now a felony to play online poker in the state of Washington.
+    </div>
+    <div class="clear">&nbsp;</div>
+        
+  </div>
+  <div class="clear">&nbsp;</div>
+  
+</div>
+
+    <div class="clear">&nbsp;</div>
+
+  </div>
+
+  
+
+<script type="text/javascript">
+/*<![CDATA[*/
+
+
+
+  update_login_if_logged_in();
+
+
+/*]]>*/
+
+</script>
+<!-- IndexTools Code v4.00 - All rights reserved -->
+<script type="text/javascript" src="/javascripts/indextools.js"></script><noscript>
+<div><img src="http://stats.indextools.com/p.pl?a=10001169504075&amp;js=no" width="1" height="1" alt="" /></div></noscript><!--//-->
+<!-- End of IndexTools Code -->
+ 
+
 
 
 </body></html>
