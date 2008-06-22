@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226040329id_/http%3A//www.grantcardone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622163323id_/http%3A//www.grantcardone.com/privacy.php) for the most accurate reproduction.*
 
 # Grant Cardone, GrantCardone.com Motivational Speaking, Automotive Sales Tools, Real EstateGrant Cardone
 
