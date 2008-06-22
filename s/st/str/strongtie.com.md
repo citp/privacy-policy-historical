@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongtie.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224173541id_/http%3A//www.strongtie.com/privacy.html%3Fsource%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongtie.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622190422id_/http%3A//www.strongtie.com/privacy.html%3Fsource%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,8 @@ ACCEPTANCE OF TERMS
 
 **YOUR USE OF THIS WEB SITE INDICATES AN ACCEPTANCE OF THE TERMS OF THE PRIVACY POLICY IN EFFECT AT THE TIME OF SUCH USAGE. IF YOU DO NOT AGREE, PLEASE DO NOT USE OR ACCESS OUR WEB SITE.**
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. This Privacy Policy is incorporated into and subject to the [Simpson Strong-Tie User Agreement](https://web.archive.org/web/20071224173541id_/http%3A//www.strongtie.com/user_agreement.html). This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on the date first set forth above for all users. 
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. This Privacy Policy is incorporated into and subject to the [Simpson Strong-Tie User Agreement](https://web.archive.org/web/20080622190422id_/http%3A//www.strongtie.com/user_agreement.html). This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on the date first set forth above for all users. 
 
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on the Web site. All amended terms shall automatically be effective 30 days after they are initially posted on the Web site. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Web site notifying users that our Privacy Policy has changed. Our use of your personally identifiable information shall be governed by the terms and conditions of our Privacy Policy in effect at the time of such use. 
 
-Your privacy is important to Simpson Strong-Tie. If you have questions about any of the provisions described above, please [contact us at www.strongtie.com](https://web.archive.org/web/20071224173541id_/http%3A//www.strongtie.com/Contact_Us.html) or via the other contact information listed above.
+Your privacy is important to Simpson Strong-Tie. If you have questions about any of the provisions described above, please [contact us at www.strongtie.com](https://web.archive.org/web/20080622190422id_/http%3A//www.strongtie.com/Contact_Us.html) or via the other contact information listed above.
