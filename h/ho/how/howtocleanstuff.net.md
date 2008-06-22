@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218220837id_/http%3A//www.howtocleanstuff.net/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622041947id_/http%3A//www.howtocleanstuff.net/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Site Info
 
-Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](https://web.archive.org/site-info/contact/) and we'd be happy to explain anything to you in plain English.
+Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](https://web.archive.org/site-info/contact/) and we’d be happy to explain anything to you in plain English.
 
 The short version is: We collect only the information you freely give us, and we use it only to improve the site. We currently do not send out emails to our users unless specifically asked to, and we never sell your information to other companies. You will not be spammed by us!
 
@@ -16,7 +16,7 @@ Plano, TX 75093
 You can contact us through [this form](https://web.archive.org/site-info/contact/)  
 or by telephone at +1 210-748-7543
 
-For every visitor that comes to our Site, our server recognizes only the visitor's domain name, but not the e-mail address.
+For every visitor that comes to our Site, our server recognizes only the visitor’s domain name, but not the e-mail address.
 
 We only collect the domain name, the e-mail addresses of those who post tips and suggestions to our site, the e-mail addresses of anyone who communicates with us through e-mail, aggregate information on the pages that consumers access, and information volunteered freely by the visitor, like survey data and/or registrations.
 
