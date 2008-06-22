@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestlifeonline.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230034310id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestlifeonline.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622163421id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
 
 # Rodale
 
@@ -7,7 +7,7 @@
 
 **_Protecting Your Privacy and Servicing Your Needs_**
 
-Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, Best Life, Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
+Rodale is the world's leader in health and well-being. Through our brands ( _Best Life, Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
 
 We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and the security of the information you share with us.. 
 
