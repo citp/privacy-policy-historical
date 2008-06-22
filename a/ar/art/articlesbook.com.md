@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesbook.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215043747id_/http%3A//www.articlesbook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbook.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622084504id_/http%3A//www.articlesbook.com/privacy.php) for the most accurate reproduction.*
 
-# Free Articles Directory | Submit Articles | Free Content Directory - ArticlesBook.com
+# Free Articles Submission Directory | Submit Articles | Free Web Content Directory - ArticlesBook.com
 
 Your Article Directory Privacy Policy
 
