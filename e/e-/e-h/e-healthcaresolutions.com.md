@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211041704id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622090934id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
 
-# e-HS privacy statement
+# e-hs privacy statement
 
 * * *
 
