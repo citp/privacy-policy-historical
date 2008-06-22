@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235716id_/http%3A//www.oleolefootball.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622215724id_/http%3A//www.oleolefootball.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Policy for Football Match Listing
 
