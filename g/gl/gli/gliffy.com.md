@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203054541id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622081321id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Gliffy.com
 
@@ -76,7 +76,7 @@ You can access your personal information on our website and correct, amend, or d
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website. 
   * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may request deletion of your Gliffy account by sending an email to contacting us at our [support page](https://web.archive.org/web/20071203054541id_/http%3A//www.gliffy.com/support.shtml#contactform). Please note that some information may remain in our records after deletion of your account. 
+  * You may request deletion of your Gliffy account by sending an email to contacting us at our [support page](https://web.archive.org/web/20080622081321id_/http%3A//www.gliffy.com/support.shtml#contactform). Please note that some information may remain in our records after deletion of your account. 
   * If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes. 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
