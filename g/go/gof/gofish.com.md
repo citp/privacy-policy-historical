@@ -1,63 +1,68 @@
-> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217085752id_/http%3A//www.gofish.com/corp/privacy.gfp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622201324id_/http%3A//www.gofishcorp.com/roller/corp/entry/privacy_policy) for the most accurate reproduction.*
 
-# GoFish Corporation - Privacy Policy
+# Privacy Policy at GoFish Corporation
 
-GoFish provides this explanation about our online information practices as a show of our commitment to protect your privacy.
+At GoFish, we recognize the importance of privacy and we are committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet and Internet advertising. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit [www.gofishcorp.com,](http://www.gofishcorp.com/) how we may use that information, when information may be disclosed to anyone, and the choices you have regarding whether and how we gather and use information related to you.  
+ **  
+COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION**
 
-We do not sell, rent or otherwise use personally-identifying information (which means your actual identity, e-mail address, password, personal address and financial information, but not public information you choose to submit) collected during your use of our Website (www.GoFish.com) without your permission, unless required to do so by law.
+Personally identifiable information is information that can personally identify you, such as your name, your e-mail address and your postal address. Information that may be personal in nature, but cannot identify who you are, is not personally identifiable information. For example, your IP address and the type of Web browser you use is personal information, but it is not personally identifiable information because it cannot be used to identify you. 
 
-## The Information We Collect
+We do not collect personally identifiable information on this site, except in response to direct inquiries. For example, if you solicit information from GoFish via the website, you may be asked to complete forms which require you to provide personally identifiable information. If so, the personally identifiable information collected is used for the purpose for which it is requested. Contact information for potential clients or persons seeking business information is collected in order to contact those persons to provide information about our services. This information may be stored on our servers in the United States. Such information is usually deleted as space requires or in the normal course of business, but can be amended or deleted upon request. To update your information, please contact your account manager or sales representative.
 
-At the time you register with the GoFish Service, we may collect and store your name, e-mail address, and other personally-identifying information.
+In addition, if you send us an email in response to a job inquiry, publisher or advertiser inquiry, GoFish will use your email address to deliver the information requested or to respond to those inquiries. This contact information may be stored on our servers in the United States. Such information is usually deleted as space requires or in the normal course of business. To update your information, please contact your account manager or communicate with us at the email address you initially contacted.
 
-We may also ask you for personally-identifying information at other times, such as if you enter into a promotion, communicate with us, complete a survey, or for monetary transactions with us. If you opt-in to receive information regarding a promotion, you give us your permission to share your name and e-mail address with the third party offering the promotion. We do not, however, control or have any responsibility for the privacy policies of such third parties.
+If you do not want your personally identifiable information collected online, please do not send us emails or complete forms on our site.  
+ **  
+COLLECTION AND USE OF NON-PERSONALLY IDENTIFIABLE INFORMATION**
 
-In addition, we may automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, etc. We may use this data in the aggregate in any manner, such as to determine how our customers use parts of our site so we can improve our site. We may also provide this statistical information to third parties, but when we do so we do not provide personally-identifying information without your permission.
+The GoFish corporate website uses cookies. A “cookie” is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used at the GoFish corporate website: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the “Cookies” folder on your computer and remains in this “Cookies” folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut off your computer. The GoFish corporate website may also use Web beacons (also called “clear GIFs” or “pixel tags”) in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page.
 
-As part of our service, we may use cookies to store and track information about you. Some features of our site may be available only through the use of a cookie. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive.
+If you have arrived at this website by clicking on a banner ad for one of our products or services, a session cookie may be used. This cookie will contain an identification number for the ad that you clicked on, or will contain an identification number for the site that you were visiting when you clicked on the banner ad. This session cookie helps GoFish’s marketing department determine which of our ads attract the most visitors. If, after you arrive at our site, you choose to request further information from us about our products and services, the personal information that you provide in that request will be linked to the information in the session cookie. This also helps GoFish’s marketing department measure the effectiveness of our advertising. This “linking” will not be used to target future advertisements to you or to send you emails about future goods and services. You will receive emails about our products only if you tell us on the product request page that you want us to send them to you. Because this is a session cookie, it will disappear once you have closed your browser. If you return to our site via another one of our ads, you will appear as a new visitor unless and until you provide further personal information.
 
-If you obtain goods or services provided by third party retailers or vendors, retail partners, or service providers linked from GoFish.com, we may exchange with the vendor personally-identified information about you for purposes of completing your transaction.
+The GoFish corporate website may use persistent cookies, Web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at this site to better understand how the website is used, resolve technical problems, and enhance your experience at this site. Information from website analysis cookies or about website usage is not combined with information from any other GoFish cookie.  
 
-In addition, third parties may have different privacy policies that apply to any transactions you pursue with them, such as the purchase and download of media files. Your interaction with third party retailers is separate from your interaction with GoFish.com, and is governed by the third party's privacy policy.
+In addition, GoFish may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. If you do not want to receive cookies, you may disable cookies on your browser.
 
-## Cookies
+ **INFORMATION SHARING OR DISCLOSURE**
 
-Upon your first visit to GoFish, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. GoFish does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some GoFish features or services may not function properly without cookies.
+In the event that we contract with a third party to provide some part of the information or service on our website, GoFish may provide your information to such third party, or such third party may collect information from you on our behalf. By written agreement, these third parties are required to implement similar security measures and to process your information only as authorized by GoFish to fulfill the service(s) that they have been contracted to provide. Other than these entities, who act on our behalf, information you provide at this site will not be transferred to unrelated third parties, unless we have your permission to do so. However, please note that information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.
 
-## The Way We Use Information
+ **SPECIAL NOTE REGARDING THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT**
 
-We may use your personally-identifying information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
+The Children’s Online Privacy Protection Act (“COPPA”) applies to the online collection of personal information from children under 13. It specifies what a website operator must include in a privacy policy, parent or guardian consent requirements, and what responsibilities a website operator has to protect children's privacy and safety online including restrictions on the marketing to those under 13. At GoFish, we take compliance with COPPA very seriously. In addition to the COPPA information and links you will find on [this website](http://www.ftc.gov/kidzprivacy/), GoFish screens all of our publisher sites for COPPA compliance and we educate them as to what is necessary to comply.
 
-We may use your personally-identifying information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We may ask you to voluntarily provide us with additional information regarding your personal or business interests, experience or requests, which we may use to customize our service for you.
+ **CONFIDENTIALITY AND SECURITY**
 
-We may use your e-mail address and other personal contact information to contact you regarding administrative notices and communications relevant to your use of the site. We will not send you promotions or announcements unless you give us permission to do so. You can opt out of receiving such contact by so indicating in your registration/preferences file.
+GoFish has implemented reasonable security measures in order to protect both personal and non-personal information from loss, misuse and unauthorized access, disclosure or alteration. Our employees are made aware of and are accountable for compliance with these procedures.
 
-We may also use information to resolve disputes, investigate problems, or enforce our Terms of Use. At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+ **CHANGES TO THIS PRIVACY POLICY**
 
-We may use information, such as your IP address, to help diagnose problems with our server, to manage our Website or to enhance our site based on the usage pattern data we receive.
+Please note this Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. If you have any additional questions, please feel free to contact us any time at [privacymatters@gofish.com.](mailto:privacymatters@gofish.com)
 
-## Security
+ **CHANGES IN CORPORATE STRUCTURE**
 
-Your account information and profile are password-protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. This is to help ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place where others may have access to it.
+If all or part of the company is sold, merged or otherwise transferred to another entity, the information that you have provided at this site may be transferred as part of that transaction. However, GoFish will take reasonable steps to assure that such information is used in a manner consistent with the GoFish privacy policy under which it was collected.
 
-No data transmission over the Internet or any network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
+ **OTHER GOFISH WEBSITES**
 
-Should you elect any opt-out feature, you may access your registration/preferences file at your GoFish.com member profile page.
+GoFish also owns and operates the www.gofish.com website. This privacy policy does not cover information collected at that website. Please see the privacy policy at [www.gofish.com](http://www.gofish.com/) to learn how information is collected and used by that website.
 
-## How You Can Update, Correct or Delete Your Information
+ **LINKED WEBSITES**
 
-To update, correct or delete your personally-identifying information, you can make changes to your GoFish.com member profile. You may have your account deleted or deactivated, but doing so will result in you not being able to access certain customized member services.
+The Website may contain links to third party websites that are not owned or controlled by GoFish. These third party websites are typically subject to their own privacy policies, terms of use, and rules, independent of those of Gofish. These third party websites are not necessarily sanctioned, controlled or monitored by Gofish and GoFish has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third-party website. GoFish encourages you to be aware when you leave the Website and to read the terms and conditions and privacy policy of the other websites that you visit before responding to any offer.  
+ **  
+YOUR CALIFORNIA PRIVACY RIGHTS**
 
-## Children Under 13
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to [privacymatters@gofish](mailto:privacymatters@gofish.com).com or write us at:
 
-If you are a child under age 13, please do not use this site. While the GoFish.com registration requires agreement that you are not under thirteen, we have no way of distinguishing the age of individuals who access our Website, and so we carry out the same Privacy Policy for individuals of all ages. If you are over the age of 13 but under the age of 18, review this Agreement and Privacy Policy with a parent or guardian.
+GoFish Corporation  
+706 Mission St., 10th Floor  
+San Francisco, CA 94103
 
-If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+OTHER REQUESTS  
+You may request removal of your personally identifiable information at any time by sending an email to [privacymatters@gofish.com](mailto:privacymatters@gofish.com).  Any consumer who prefers not to provide this information online can send regular mail to the following address: 
 
-## Third Party Practices
-
-The Privacy Policy of an advertiser, promotional service, or third party link appearing at our site may differ from ours. We encourage you to read that policy before responding to the offer.
-
-## Changes to this Policy
-
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. If you have any additional questions, please feel free to contact us any time at [privacymatters@GoFish.com.](mailto:privacymatters@gofish.com)
+GoFish Corporation  
+706 Mission St., 10th Floor  
+San Francisco, CA 94103 
