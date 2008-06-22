@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226200855id_/http%3A//www.twu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623014113id_/http%3A//www.twu.edu/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement, Texas Woman's University, Denton Dallas & Houston Texas
-
-You are here: [TWU Home](http://www.twu.edu/) > Privacy Statement
+# TWU - Privacy Policy
 
 **Web Site Privacy Statement on the Collection and Use of Information Gathered from the General Public**
 
@@ -37,5 +35,6 @@ This site contains links to other sites outside of Texas Woman's University. Tex
 This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Texas Woman's University. 
   
 
-Contacting Texas Woman's University If there are any questions about this privacy statement, the practices of this site, or dealings with this Web site, contact  [webmaster@twu.edu](mailto:webmaster@twu.edu).    
 
+
+If you questions about this privacy statement, the practices of this site, or dealings with this website, contact [webteam@twu.edu](mailto:webteam@twu.edu). 
