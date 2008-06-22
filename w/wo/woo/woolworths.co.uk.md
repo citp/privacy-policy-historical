@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000358id_/http%3A//www.woolworths.co.uk/web/jsp/help/index.jsp%3Fsection%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622122823id_/http%3A//www.woolworths.co.uk/web/jsp/help/index.jsp%3Fsection%3D10) for the most accurate reproduction.*
 
 # Woolworths.co.uk
 
