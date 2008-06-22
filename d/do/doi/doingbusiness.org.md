@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doingbusiness.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026023423id_/http%3A//web.worldbank.org/WBSITE/EXTERNAL/0%2C%2CcontentMDK%3A20130472%7EmenuPK%3A1041850%7EpagePK%3A50016803%7EpiPK%3A50016805%7EtheSitePK%3A13%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doingbusiness.org privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622100248id_/http%3A//web.worldbank.org/WBSITE/EXTERNAL/0%2C%2CcontentMDK%3A20130472%7EmenuPK%3A1041850%7EpagePK%3A50016803%7EpiPK%3A50016805%7EtheSitePK%3A13%2C00.html) for the most accurate reproduction.*
 
 # Home - Privacy Policy
 
