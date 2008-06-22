@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208001624id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622092420id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WoWMine - Secured transaction trusted network of chinese farmers who doesn't use macro to farm gold. Information are saved with us.
+# Privacy Policy - WowMine - Secured transaction trusted network of chinese farmers who doesn't use macro to farm Gold. Information are saved with us.
 
-| Game List  
----  
-[World of Warcraft US](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=5)  
-[World of Warcraft EU](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=8)  
-[WoW Power Leveling](http://pl.wowmine.com/power-leveling/index.php)  
-[Final Fantasy XI](http://www.ffmine.com/)  
-[Guild Wars](http://www.gwmine.com/gwmine/en/Orders/OrderForm.htm)  
-[Lineage II](http://www.l2mine.com/l2mine/en/Orders/OrderForm.htm)  
-[Runescape 2](http://www.rs2mine.com/)  
-  
-[](http://www.wowma.com/)  
-[](https://web.archive.org/web/20071208001624id_/http%3A//best-price-guarantee.php)
-
-[](http://www.mmomaven.com/)
+| 
 
 Privacy Policy
 
@@ -53,7 +40,7 @@ We use this information to complete, support and analyze your purchases from WoW
 
 #### **Certain exception disclosures**
 
-#### We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or WoWMine.com has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on WoWMine.com or (2) to protect and defend the property or rights of WoWMine.com, the users of its website or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If WoWMine.com should ever file for bankruptcy or merge with another company, we may sell the information you provide to us on the WoWMine.com website to a third party or share your personal information with the company we merge with. 
+#### We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or WoWMine.com has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on WoWMine.com or (2) to protect and defend the property or rights of WoWMine.com, the users of its website or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. 
 
 #### **What are cookies? Why do we use them?**
 
@@ -95,15 +82,7 @@ Super Continental US LLC (WoWMine.com)
 
 | 
 
-MEMBER LOGIN  
-LOGIN EMAIL  
-  
-PASSWORD  
-  
-[Register New Account](http://www.wowmine.com/register.php)  
-[Forget Password](http://www.wowmine.com/password_retake.php)
-
-[](http://www.wowmine.com/wowmine-livechat.php)   
+[](http://support.wowmine.com/)  
 [](http://www.ringcentral.com/)
 
 US TOLL-FREE HOTLINE:  
@@ -114,6 +93,9 @@ Int. Call:
 
 
 [](https://www.scanalert.com/RatingVerify?ref=www.wowmine.com)
+
+  
+
 
 |   
 ---
