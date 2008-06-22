@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223140515id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odinjobs.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623010700id_/http%3A//www.odinjobs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # OdinJobs - The Technology Job Search Engine
 
@@ -16,7 +16,7 @@ NOTICE: Visit the FTC web site (http://www.ftc.gov/bcp/conline/pubs/online/sites
 
 1\. This policy covers how we treat personal information that we collects and receives, including information related to your past use of our products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
-2\. This policy does not apply to the practices of companies that we does not own or control, or to people that we do not employ or manage. 
+2\. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
 
 #####   
 **Information Collection and Use
@@ -31,7 +31,7 @@ General
 
 3\. We collect information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
 
-4\. We automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request. For more information about our use of IP addresses, visit the Privacy Center: IP Addresses reference page (http://privacy.yahoo.com/privacy/us/ip/details.html) on the Web. 
+4\. We automatically receive and record information on our server logs from your browser, including your IP address, cookie information, and the page you request. 
 
 5\. We use information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
