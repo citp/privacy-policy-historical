@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222144247id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622040224id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Cupid - date online from the privacy of home
 
