@@ -1,21 +1,13 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622161358id_/http%3A//chnlove.com/help/privacy.php) for the most accurate reproduction.*
 
 # Chnlove Club - Chinese women seeking single foreign men for dating, romance, marriage, long-time relationships.
 
-|  | **Help/FAQs**  
+|  |  |   
+---|---  
+  |  |    
 ---  
-| [About Us](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/about_us.php)  
-| [How Chnlove Works](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/how_it_works.php)  
-| [How to Use](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/how_to_use.php)  
-| [FAQs](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/faqs.php)  
-| [Term of Use](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/term.php)  
-| [Privacy Policy](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/privacy.php)  
-| [Contact Us](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/contact_us.php)  
-| [Site Map](https://web.archive.org/web/20071203032555id_/http%3A//www.chnlove.com/help/site_map.php)  
-|  |   
----  
-   
-  
+  | 
+
 Chnlove.com (the "Site") is committed to safeguarding your privacy online. We reserve the right to change it at any time, and all changes are effective upon posting.
 
   1. **About Chnlove and Information We Collect From You**
@@ -83,5 +75,4 @@ If you have any questions or concerns about this privacy policy, the practices o
 ( Revised Apr 25, 2005 )
 
 |    
----|---  
 | 
