@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114227id_/http%3A//www.workitmom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622144608id_/http%3A//www.workitmom.com/privacy) for the most accurate reproduction.*
 
-# Work It, Mom! | A Community for Working Moms
+# Privacy Policy - Work It, Mom!
 
 **Work it, Mom! Privacy Policy  
 Effective March 14, 2007**
@@ -55,4 +55,4 @@ _Changes to the Privacy Policy._ We may change this Privacy Policy from time to 
 
 _Contacting Us._
 
-If you have any questions about this Privacy Policy, or the practices of this Site, please visit our [contact page](https://web.archive.org/web/20071225114227id_/http%3A//www.workitmom.com/contact).
+If you have any questions about this Privacy Policy, or the practices of this Site, please visit our [contact page](https://web.archive.org/web/20080622144608id_/http%3A//www.workitmom.com/contact).
