@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123schoolsearch.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027145601id_/http%3A//www.123schoolsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123schoolsearch.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622194207id_/http%3A//www.123schoolsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome 123Schoolsearch.com
 
@@ -17,4 +17,4 @@ Our site will try to place one or more small pieces of information in your brows
 123SchoolSearch has security measures in place to protect against the loss, misuse and alteration of information within our immediate control. We cannot, however, guarantee the performance or adequacy of such security measures. 
 
 **Contact Us**   
-To remove or change your contact information in our database, to ask us any questions you may have about Privacy Statement, or to make other inquiries, please contact us at 
+To remove or change your contact information in our database, to ask us any questions you may have about Privacy Statement, or to make other inquiries, please contact us at: [info@123mediasolutions.com](mailto:info@123mediasolutions.com)
