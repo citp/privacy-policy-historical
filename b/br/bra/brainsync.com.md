@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224085130id_/http%3A//www.brainsync.com/pilot.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105847id_/http%3A//www.brainsync.com/pilot.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Brain Sync Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #### The Information We Collect
 
-**"I've been a personal trainer since 1983.** The hardest part of my work has been to help people achieve a new attitude about their optimal weight and getting fit. I think the [Slim Naturally](https://web.archive.org/web/20071224085130id_/http%3A//www.brainsync.com/product.asp?specific=137&title=Slim-Naturally) and [Healing Meditation](https://web.archive.org/web/20071224085130id_/http%3A//www.brainsync.com/product.asp?specific=157&title=Healing-Meditation) audios are the biggest life-changing discoveries I've made in years. My friends and clients agree!  
+**"I've been a personal trainer since 1983.** The hardest part of my work has been to help people achieve a new attitude about their optimal weight and getting fit. I think the [Slim Naturally](https://web.archive.org/web/20080622105847id_/http%3A//www.brainsync.com/product.asp?specific=137&title=Slim-Naturally) and [Healing Meditation](https://web.archive.org/web/20080622105847id_/http%3A//www.brainsync.com/product.asp?specific=157&title=Healing-Meditation) audios are the biggest life-changing discoveries I've made in years. My friends and clients agree!  
 — _M.S., Trainer, Omaha, NE_
 
 **This notice applies to all information collected or submitted on the Brain Sync website.** On some pages, you can order products, make requests, and register to receive materials. To process your request, we ask for information such as your name, address, email address and credit card information.
@@ -44,4 +44,4 @@ Protecting the privacy of the very young is especially important. For that reaso
   
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please refer to the [Contact Page](https://web.archive.org/web/20071224085130id_/http%3A//www.brainsync.com/contact.asp) for contact names, e-mail addresses and phone numbers.
+Should you have other questions or concerns about these privacy policies, please refer to the [Contact Page](https://web.archive.org/web/20080622105847id_/http%3A//www.brainsync.com/contact.asp) for contact names, e-mail addresses and phone numbers.
