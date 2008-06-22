@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
-| Security and Privacy **Security and Privacy**
+| 
+
+Security and Privacy
+
+ **Security and Privacy**
 
 This site is owned and operated by Pleasant Holidays, LLC (hereinafter referred to as "Pleasant Holidays," "we," "us," or "our").
 
  **SECURITY**
 
-**Site Security  
+ **Site Security  
 ** In creating and providing you with our privacy policy, we are underscoring an ongoing commitment to protecting all Personal Identifying Information you provide us.  Personal Identifying Information is information about you that is personally identifiable and includes your name, date of birth, address, email address, phone number(s), and credit card information.  We want visitors to our Web site to feel comfortable and confident planning and purchasing travel. To protect your Personal Identifying Information, our Web site uses some of the latest security technology. High-security firewalls and a secure server that sends and receives encrypted data provide among the highest levels of protection available.  However, you should know that no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure.  Although not all pages that collect Personal Identifying Information are secure, we secure all pages collecting credit card information including card number, card type, cardholder name and expiration date. This Web site is a Verisign certified site. Verisign is a central certificate authority issuing digital IDs to Internet Web sites -- further improving the integrity of the Internet for commerce and information access.
 
 **Internet Browsers**  
 While Pleasantholidays.com supports all SSL compliant browsers, we recommend that you use version 5.0 or higher of Netscape Navigator or Microsoft Internet Explorer. These browsers offer 128-bit encryption, which is the strongest, most secure form of encryption available.
 
-  
  **Security and Privacy**
 
  **PRIVACY  
@@ -80,6 +83,8 @@ This Privacy Policy was produced and posted on our Web site in June 2003. We res
 If you have questions about our Privacy Statement, please send us an e-mail. [net-support@pleasant.net](mailto:net-support@pleasant.net)
 
   
+
+
   
   
 
@@ -91,9 +96,12 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 ---  
 | [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
  | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
-[Site Features](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
-[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
   
-© 1999-2007 Pleasant Holidays, LLC. All rights reserved.  
+Partner Sites: [Pleasant Activities](http://www.pleasantactivities.com/) | [Hawaii World](http://www.hawaiiworld.com/) | [Distinguished Resorts](http://www.hawaiiworld.com/) | [Air by Pleasant](http://www.airbypleasant.com/)  
   
-SessionId: YblYoyYqmpxxRW_RmYFFxqn| [](http://www.nurun.com/)
+[Site Features](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
+[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
+  
+ Copyright © 1999-2008 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
+  
+SessionId: 0001wj7Gy2WOCsBbBAEiZBp2mRs:1244ng5jq| 
