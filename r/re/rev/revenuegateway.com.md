@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revenuegateway.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185030id_/http%3A//www.revenuegateway.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuegateway.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622092802id_/http%3A//www.revenuegateway.com/privacy.html) for the most accurate reproduction.*
 
-# Revenuegateway Affiliate Program and Affiliate Advertising Network
+# CPA affiliate program | affiliate network | advertising network
 
 REVENUE GATEWAY - PRIVACY POLICY
 
