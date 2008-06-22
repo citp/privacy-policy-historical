@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224122830id_/http%3A//www.raffles.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622114528id_/http%3A//www.raffles.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy: Raffles Hotels & Resorts
 
 |   
 ---  
-[Raffles Home](https://web.archive.org/index.shtml "Raffles Home")[Destinations](https://web.archive.org/destinations/index.html "Destinations")[Raffles Photo Gallery](https://web.archive.org/photo_gallery/index.html "Raffles Photo Gallery")[Exclusive Offers](https://web.archive.org/promos/index.html "Exclusive Offers")[Meetings & Events](https://web.archive.org/meetings/index.html "Meetings & Events")[Raffles Lifestyle](https://web.archive.org/lifestyle/index.html "Raffles Lifestyle")[Raffles Capital](https://web.archive.org/raffles_capital/index.html "Raffles Capital")  
+[Raffles Home](https://web.archive.org/ "Raffles Home")[Destinations](https://web.archive.org/destinations/index.html "Destinations")[Raffles Photo Gallery](https://web.archive.org/photo_gallery/index.html "Raffles Photo Gallery")[Exclusive Offers](https://web.archive.org/promos/index.html "Exclusive Offers")[Meetings & Events](https://web.archive.org/meetings/index.html "Meetings & Events")[Raffles Lifestyle](https://web.archive.org/lifestyle/index.html "Raffles Lifestyle")[Raffles Capital](https://web.archive.org/raffles_capital/index.html "Raffles Capital")  
 |  |  |  Privacy Policy
 
   1. **General**
