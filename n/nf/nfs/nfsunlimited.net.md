@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224083935id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105919id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
 # NFSUnlimited.net - covering Need for Speed Pro Street, Carbon and more - Privacy Policy
-
-Privacy Policy 
 
 **NFS Unlimited** has created this privacy statement in order to demonstrate our  commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [NFS Unlimited](http://www.nfsunlimited.net/)
 
@@ -30,23 +28,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 webmaster at nfsunlimited dot net
-
-Poll 
-
-How do you like the car handling in the demo?
-
- 49.2%  
-Awesome!
-
-  17%  
-Too arcade
-
-  14.9%  
-Too sim
-
-  19%  
-Don't know
-
-  Total votes: 1291
-
-[Previous polls](http://www.nfsunlimited.net/polls)
