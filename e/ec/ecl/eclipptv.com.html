@@ -1,0 +1,957 @@
+<!--The following is the downloaded HTML source of the eclipptv.com privacy policy that was archived on 2008-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622115556id_/http%3A//eclipptv.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="verify-v1" content="FgD/tAZ4sKGlQPHuHE42kaeN3fWxW11zCUv2FiIK7JQ=">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-Language" content="en-US">
+<meta name="keywords" content="eclipptv, eclipptv.com, online social networking, video hosting, photo hosting, view, upload and share videos and photos">
+<meta name="description" content="eclipptv.com is a free online social networking site that also provides a free video and photo hosting service allowing users to view, upload, and share videos and photos.">
+<meta name="Version" content="10590">
+<!-- Disable MSSmartTags -->
+<meta name="MSSmartTagsPreventParsing" content="true">
+<link rel="stylesheet" type="text/css" href="http://www.eclipptv.com/members/css/screen_blue.css" media="screen" title="Default">
+<link rel="stylesheet" type="text/css" href="http://www.eclipptv.com/css/print.css" media="print">
+<link rel="shortcut icon" href="http://www.eclipptv.com/favicon.ico" type="image/x-icon">
+<!-- for link bar -->
+<link rel="Home" href="http://www.eclipptv.com/" title="Home page">
+<link rel="Index" href="http://www.eclipptv.com/" title="Index">
+<link rel="search" href="#" title="Search this site">
+<link rel="contents" href="#" title="Site map">
+<script type="text/javascript">var siteUserId='0'; var siteUrl='http://www.eclipptv.com/';var pageId='staticPage';var status = new Object; </script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/lib/cssQuery-p.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/lib/behaviour.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/lib/prototype.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/script.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/online.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/menu.js"></script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/lib/scriptaculous.js?load=effects"></script>
+<script type="text/javascript">
+	statusSettingUrl = 'http://www.eclipptv.com/profileSettings.php';
+	logoutUrl = 'http://www.eclipptv.com/logout.php';
+	function blockError(){return true;}
+	window.onerror = blockError;
+</script>
+<script type="text/javascript" src="http://www.eclipptv.com/js/memberStatus.js"></script>
+<script type="text/javascript">
+function changeAction(){
+	var obj = document.formCommonSearch;
+	var act_url = '';
+	if(obj.tags.value=='')
+		return false;
+	switch (obj.soption.value){
+		case 'photos':
+			act_url = 'http://www.eclipptv.com/photoList.php?pg=photonew&tags=';
+			obj.action = act_url+obj.tags.value;
+			return true;
+			break;
+
+		case 'videos':
+			act_url = 'http://www.eclipptv.com/videoList.php?pg=videonew&tags=';
+			obj.action = act_url+obj.tags.value;
+			return true;
+			break;
+
+		case 'articles':
+			act_url = 'http://www.eclipptv.com/articleList.php?pg=articlenew&tags=';
+			obj.action = act_url+obj.tags.value;
+			return true;
+			break;
+
+		case 'musics':
+			act_url = 'http://www.eclipptv.com/musicList.php?pg=musicnew&tags=';
+			obj.action = act_url+obj.tags.value;
+			return true;
+			break;
+
+		case 'games':
+			act_url = 'http://www.eclipptv.com/gameList.php?pg=gamenew&tags=';
+			obj.action = act_url+obj.tags.value;
+			return true;
+			break;
+
+		case 'members':
+			act_url = 'http://www.eclipptv.com/membersList.php?tags=';
+			obj.action = act_url + obj.tags.value;
+			return true;
+
+		case 'groups':
+			act_url = 'http://www.eclipptv.com/groupListAll.php?tags=';
+			obj.action = act_url + obj.tags.value;
+			return true;
+
+		default:
+			return false;
+			break;
+	}
+}
+function changeActionSub(){
+	var obj = document.formCommonSearchSub;
+	var act_url = '';
+	if(obj.tagsSub.value=='')
+		return false;
+	switch (obj.soptionSub.value){
+		case 'photos':
+			act_url = 'http://www.eclipptv.com/photoList.php?pg=photonew&tags=';
+			obj.action = act_url+obj.tagsSub.value;
+			return true;
+			break;
+
+		case 'videos':
+			act_url = 'http://www.eclipptv.com/videoList.php?pg=videonew&tags=';
+			act_url = act_url+obj.tagsSub.value;
+			act_url = act_url+'&cid='+obj.catIdSub.value;
+			obj.action = act_url;
+			return true;
+			break;
+
+		case 'articles':
+			act_url = 'http://www.eclipptv.com/articleList.php?pg=articlenew&tags=';
+			obj.action = act_url+obj.tagsSub.value;
+			return true;
+			break;
+
+		case 'musics':
+			act_url = 'http://www.eclipptv.com/musicList.php?pg=musicnew&tags=';
+			obj.action = act_url+obj.tagsSub.value;
+			return true;
+			break;
+
+		case 'games':
+			act_url = 'http://www.eclipptv.com/gameList.php?pg=gamenew&tags=';
+			obj.action = act_url+obj.tagsSub.value;
+			return true;
+			break;
+
+		case 'members':
+			act_url = 'http://www.eclipptv.com/membersList.php?tags=';
+			act_url = act_url + obj.tagsSub.value;
+			obj.action = act_url;
+			return true;
+
+		case 'groups':
+			act_url = 'http://www.eclipptv.com/groupListAll.php?tags=';
+			obj.action = act_url + obj.tagsSub.value;
+			return true;
+
+		default:
+			return false;
+			break;
+	}
+}
+</script>
+<title>EclippTV</title>
+
+                             
+                                  
+
+                                
+<script type="text/javascript" src="http://www.eclipptv.com/js/navigationBar.js"></script>
+
+</head><body onload="logInUser();" onunload="logOutUser()">
+
+
+<!-- begin topheaderlinks-->
+ <div id="selTopHeaderLinks"><div id="selWelcomeLinks">
+        <ul class="clsTopWelcomeLinks">
+
+          <li><a class="clsActiveLink" href="http://www.eclipptv.com/index.php">Home</a></li>
+          <li class="clsFilterStatusAlert">
+        <span class="clsFilterStatus">Mature Warning: <span id="selContentFilterStatus">
+<a href="http://www.eclipptv.com/members/profileSettings.php">On</a></span></span>
+      </li>
+            
+                              <li class=""><a href="http://www.eclipptv.com/login.php">Log in</a></li>
+                               <li class="clsNoBorder"><a class="" href="http://www.eclipptv.com/signup.php">Sign up</a></li>
+                    
+        </ul>
+      </div></div>
+
+<!-- end topheaderlinks-->
+
+
+
+<div class="wrap1">
+	<div id="wrap">
+    <div id="page-header"><span class="side-left"></span><span class="side-right"></span></div>
+    <div id="page-body"></div>
+
+<div id="top_header">
+
+<!-- Logo and upload begin-->
+<div style="width:912px; height:115px; margin:0px auto;">
+<div onclick="location.href='http://www.eclipptv.com/';" style="float:left; cursor: pointer; width:300px; height:110px;"></div>
+<div style="float:left; margin-top:30px;"><a href="http://www.dpbolvw.net/click-2892138-10407813" target="_top">
+<img src="http://www.ftjcfx.com/image-2892138-10407813" width="468" height="60" alt="no one deals like we do!" border="0"></a></div>
+<div style="float:right; margin:10px 10px 0px 0px;" class="clsUpload"><a href="http://www.eclipptv.com/members/videoUploadPopUp.php"><img style="margin-top:-10px; margin-right:5px;" src="http://www.eclipptv.com/images/screen_blue/icon-uploadarrow.gif"><br></a></div>
+</div>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+sc_project=3580263; 
+sc_invisible=1; 
+sc_partition=41; 
+sc_security="10cd482f"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c42.statcounter.com/3580263/0/10cd482f/1/" alt="cool hit counter" ></a></div></noscript>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3902896-1";
+urchinTracker();
+</script>
+
+<!-- End of StatCounter Code -->
+<!-- Logo and upload end-->
+
+</div>  <!-- End of top header -->
+
+
+<script type="text/javascript">
+	onlineTimer = setInterval('logInUser()', 10000);
+	curStatus = '';
+</script>
+
+<div id="staticPage" class="clsBodyContent">
+
+
+<div id="selPageBody">
+<div id="hideScreen" style="z-index: 100; display: none;" class="VeilStyle1c">&nbsp;</div>
+<a href="#" id="alertHyperLink"></a>
+<div id="selAlertbox" class="clsMsgAlert" style="display:none;position:absolute;">
+  <p id="selAlertMessage"></p>
+  <form name="formAlertBox" id="formAlertBox">
+    <input type="button" class="clsSubmitButton" name="selAlertOkButton" id="selAlertOkButton" value="Ok" onclick="return hideAllBlocks();">
+  </form>
+</div>
+<!-- Accessibility Links -->
+<div id="top">
+  <ul>
+    <li><a href="#main">Skip to main content</a></li>
+    <li><a href="#selSubHeader">Skip to Navigation Links</a></li>
+    <li><a href="#footer">Skip to Footer</a></li>
+  </ul>
+</div>
+
+<!-- Header -->
+<div id="header">
+
+
+
+<!-- begin clstopheader which includes logo and search make sure you remove <~php /*?>-->
+    <!-- end clstopheader which includes logo and search make sure you remove <~php /*?>-->
+  </div>
+    <!-- selSubHeader -->
+<div id="selNavigation">
+    <div id="selNavigationContent">
+      <div id="selSubHeader">
+        <h3>Sub Navigation Links</h3>
+        <div id="selNav">
+
+          <dl class="clsMenu">
+            <dt id="dtmenu2" onmouseout="montreShowDefault('smenu2');" onmouseover="montre('smenu2');" class="clsSubMenu "><a href="http://www.eclipptv.com/membersList.php"><span class="clsTabNavLink">Members</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu2');" class="" style="display:none" id="smenu2" onmouseover="montre('smenu2');">
+			  <ul>
+              			    <li><a href="http://www.eclipptv.com/membersList.php?browse=maleMostFriends">Male with most Friends</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=femaleMostFriends">Female with most Friends</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=maleMostViewed">Most viewed Male</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=femaleMostViewed">Most viewed Female</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=recentMembers">Recent Members</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=onlineMembers">Who's Online</a></li>
+			    <li><a href="http://www.eclipptv.com/membersList.php?browse=mostActiveUsers">Most active users</a>
+
+
+
+				</li></ul>
+
+			</dd>
+          </dl>
+                    <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu3');" id="dtmenu3" onmouseover="montre('smenu3');" class="clsSubMenu "><a href="http://www.eclipptv.com/videoList.php?pg=videonew"><span class="clsTabNavLink">Videos</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu3');" class="" style="display:none" id="smenu3" onmouseover="montre('smenu3');">
+				<ul>
+					<li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videonew">Recently Added</a></li>
+					<!--<li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostrecentlyviewed">Recently Viewed</a></li>-->
+					<li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostviewed">Most Viewed</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videotoprated">Top Rated</a></li>
+				    <li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostdiscussed">Most Discussed</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostfavorite">Most Favorite</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/videoList.php?pg=featuredvideolist">Featured Videos</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostlinked">Most Linked</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/videoList.php?pg=videomostresponded">Most Responded</a>
+				</li></ul>
+			</dd>
+          </dl>
+                                        <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu5');" id="dtmenu5" onmouseover="montre('smenu5');" class="clsSubMenu "><a href="http://www.eclipptv.com/musicList.php?pg=musicnew"><span class="clsTabNavLink">Audio</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu5');" class="" style="display:none" id="smenu5" onmouseover="montre('smenu5');">
+				<ul>
+					<li class=""><a href="http://www.eclipptv.com/musicList.php?pg=musicnew">Recently Added</a></li>
+				    <li class=""><a href="http://www.eclipptv.com/musicList.php?pg=musicmostviewed">Most Viewed</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/musicList.php?pg=musictoprated">Top Rated</a></li>
+				    <li class=""><a href="http://www.eclipptv.com/musicList.php?pg=musicmostdiscussed">Most Discussed</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/musicList.php?pg=musicmostfavorite">Most Favorite</a>
+				</li></ul>
+
+			</dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu6');" id="dtmenu6" onmouseover="montre('smenu6');" class="clsSubMenu "><a href="http://www.eclipptv.com/photoList.php?pg=photonew"><span class="clsTabNavLink">Photos</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu6');" class="" id="smenu6" style="display:none" onmouseover="montre('smenu6');">
+				<ul>
+				    <li class=""><a href="http://www.eclipptv.com/photoList.php?pg=photonew">Recently Added</a></li>
+				    <li class=""><a href="http://www.eclipptv.com/photoList.php?pg=photomostviewed">Most Viewed</a>
+				    </li><li class=""><a href="http://www.eclipptv.com/photoList.php?pg=phototoprated">Top Rated</a></li>
+				    <li class=""><a href="http://www.eclipptv.com/photoList.php?pg=photomostdiscussed">Most Discussed</a>
+					</li><li class=""><a href="http://www.eclipptv.com/photoList.php?pg=photomostfavorite">Most Favorite</a>
+				</li></ul>
+
+			</dd>
+          </dl>
+                    
+                    <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu9');" id="dtmenu9" onmouseover="montre('smenu9');" class="clsSubMenu "><a href="http://www.eclipptv.com/communityList.php"><span class="clsTabNavLink">Community</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu9');" style="display:none" id="smenu9" class="" onmouseover="montre('smenu9');">
+              <ul>
+                                <li class=""><a href="http://www.eclipptv.com/groupListAll.php">Groups</a></li>
+                                
+                                              </ul>
+              
+            </dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu10');" id="dtmenu10" onmouseover="montre('smenu10');" class="clsSubMenu "><a href="http://www.eclippnews.com"><span class="clsTabNavLink">Blogs</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu10');" class="" style="display:none" id="smenu10" onmouseover="montre('smenu10');">
+				<ul>
+				  	<li class=""><a href="http://www.eclipptv.com/blogCategory.php">Blog Categories</a></li>
+				  	<li class=""><a href="http://www.eclipptv.com/blogList.php?pg=newblog">Recently Added</a></li>
+				  	<li class=""><a href="http://www.eclipptv.com/blogList.php?pg=mostviewblog">Mostly Viewed</a></li>
+				</ul>
+
+			</dd>
+
+         </dl>
+
+
+<dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu10');" id="dtmenu11" onmouseover="montre('smenu11');" class="clsSubMenu "><a href="http://www.eclipptv.com/phpbb.php"><span class="clsTabNavLink">Forum</span></a></dt>
+        </dl>
+
+
+                             </div>
+      </div>
+    </div>
+  </div>
+
+<div id="selRightHeader1">
+	<script language="javascript">
+	function chooseSearchSelect(type)
+		{
+			tag_value=$('tags').value;
+			if(tag_value!='')
+				location = 'http://www.eclipptv.com/searchList.php?search_type='+type+'&tags='+tag_value;
+		}
+	</script>
+      <!-- Search Form Begins -->
+      <div id="selFormCommonSearch">
+        <form name="formCommonSearch" id="formCommonSearch" method="post" action="" onsubmit="return changeAction()">
+          <table>
+            <tbody><tr>
+              <td><input type="text" class="clsTextBox clsSearchTextBox" name="tags" id="tags" value="" tabindex="100"></td>
+              <td>
+              <div class="clsSearch">
+              <ul>
+              <li onmouseover="mopen('selMenuSearch')" onmouseout="mclosetime()">
+			  <a onclick="chooseSearchSelect('video');"><img src="http://www.eclipptv.com/images/pixel.gif" width="30px"></a>
+
+              <div style="visibility: hidden;position: absolute;" id="selMenuSearch" class="clsMenuSearch">
+			  <a class="clssearchactive" onclick="chooseSearchSelect('video');">Videos</a>
+              <a onclick="chooseSearchSelect('photo');">Photos</a>
+              <a onclick="chooseSearchSelect('music');">Audios</a>
+
+              <a onclick="chooseSearchSelect('members');">Members</a>
+              <!--<a onClick="chooseSearchSelect('channel');">Channels</a>-->
+              </div>
+
+			  </li>
+			  </ul>
+
+              </div>
+                </td>
+            </tr>
+          </tbody></table>
+        </form>
+      </div>
+      <!-- End of Search Form -->
+    </div>
+<!-- Rayzz Bloo 2.0 template purchased by www.e c l i p p t v.com  # rb - 20 - 3a -->
+<!--if this domain is not e c l i p p t v.com then user is not authorized to use the template and must remove immediatly-->
+<!--SIDEBAR-->
+<div id="sideBar">
+  <!--SIDEBAR1-->
+
+  <div class="sideBar1">
+  <div class="roundedcornr_box_968323">
+   <div class="roundedcornr_top_968323"><div></div></div>
+      <div class="roundedcornr_content_968323">
+    <div class="clsSideBarLinks" id="selSideBarLogin">
+
+  <div class="clsMemberLogin"><h3>Member Login</h3>
+  <form id="formIndexLogin" name="formIndexLogin" method="post" action="http://www.eclipptv.com/login.php">
+    <table>
+      <tbody><tr>
+        <td class="clsFormLabelCellDefault">User Name</td>
+        <td class="clsFormFieldCellDefault"><input type="text" class="clsTextBox" name="user_name" value="" id="user_name" size="10"></td>
+      </tr>
+      <tr>
+        <td class="clsFormLabelCellDefault">Password:</td>
+        <td class="clsFormFieldCellDefault"><input type="password" class="clsPasswordBox" name="password" value="" id="password" size="10"></td>
+      </tr>
+      <tr>
+        <td class="clsFormLabelCellDefault"><input type="checkbox" class="clsCheckRadio" name="remember" id="remember" value="1"> <label for="remember">Remember</label></td>
+
+        <td class="clsFormFieldCellDefault"><input type="submit" class="clsLoginSubmitButton" name="login_submit" id="login_submit" value="Login">
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="clsLoginLinks"><a id="selForgotPwd" href="http://www.eclipptv.com/forgotPassword.php">Forgot Your Password?</a>&nbsp;
+                    <a id="selSignUpLink" href="http://www.eclipptv.com/signup.php">Signup</a>
+                  </td>
+      </tr>
+    </tbody></table>
+  </form></div>
+
+</div>
+
+      </div>
+   <div class="roundedcornr_bottom_968323"><div></div></div>
+</div>
+
+
+<p class="user_banner6"><script type="text/javascript"><!--
+google_ad_client = "pub-6005280922225518";
+/* 180x90, created 3/27/08 */
+google_ad_slot = "9952257233";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br></p>
+
+
+    <div id="selVideoPlayer">
+  <p class="clsVideoPlayer">
+    <!--<img src="http://www.eclipptv.com/images/screen_white/img1.jpg" width="263" height="220" />-->
+    <script type="text/javascript" src="http://www.eclipptv.com/js/swfobject.js"></script>
+  <!--<div id="flashcontent2" class="flashcontent_mini"></div>-->
+  <script type="text/javascript">
+			var so1 = new SWFObject("http://www.eclipptv.com/mini_flvplayer.swf", "flvplayer", "202", "172", "7",  null, true);
+			so1.addParam("allowFullScreen", "true");
+			//so1.addParam("wmode", "transparent");
+			so1.addParam("allowSciptAccess", "always");
+			so1.addVariable("config", "http://www.eclipptv.com/videoMiniPlayerConfigXmlCode.php?pg=smallvideo_2348_no_0");
+			so1.write("flashcontent2");
+		</script>
+  </p>
+  <!--<p>mini</p>-->
+
+</div>
+
+<!--      <div class="roundedcornr_box_968323_1">
+   <div class="roundedcornr_top_968323"><div></div></div>
+      <div class="roundedcornr_content_968323">-->
+
+<div style="border:1px solid #efefef; padding:5px;">
+    <div class="clsSideBarLinks" id="selPhotoChannel">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">Photo Channels</p>
+</div>
+
+ <div class="clsSideBarRight">
+ <div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=11">3D</a>(4)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=5">Animals</a>(2)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=10">Artistic</a>(6)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=8">Family</a>(2)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=4">Funny</a>(17)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=1">General</a>(53)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=6">Girls</a>(261)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=7">Kids</a>(2)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=2">Logos</a>(21)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=9">Nature</a>(5)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=3">Politics</a>(12)</li>
+        <li><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;cid=12">Sport</a>(5)</li>
+      </ul></div>
+</div></div></div>
+<div class="clsSideBarLinks" id="selPhotoTags">
+<div class="clsSideBar">
+	<div class="clsSideBarLeft">
+		<span class="clsSideBarLeftClose"></span>
+		<p class="clsSideBarLeftTitle">Photo Tags</p>
+	</div>
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Babe" style="font-size:24px">Babe</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Beauchamp" style="font-size:13px">Beauchamp</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Bianca" style="font-size:13px">Bianca</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Lace" style="font-size:13px">Lace</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Lady" style="font-size:12px">Lady</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Lingerie" style="font-size:16px">Lingerie</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Ozzfest" style="font-size:13px">Ozzfest</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Show" style="font-size:13px">Show</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=With" style="font-size:12px">With</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Wylde" style="font-size:13px">Wylde</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=Zakk" style="font-size:12px">Zakk</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=chicks" style="font-size:14px">chicks</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=christ" style="font-size:15px">christ</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=committed" style="font-size:15px">committed</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=girl" style="font-size:17px">girl</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=girls" style="font-size:16px">girls</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=model" style="font-size:15px">model</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=pictures" style="font-size:14px">pictures</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=sexy" style="font-size:28px">sexy</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/photoList.php?pg=photonew&amp;tags=2007" style="font-size:13px">2007</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.eclipptv.com/tags.php?pg=photo">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">Video Channels</p>
+</div>
+
+<div class="clsSideBarRight">
+<div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=10">Animals</a>(16)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=21">Autos &amp; Vehicles</a>(11)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=19">Business &amp; Stock Market</a>(24)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=8">Cartoons</a>(60)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=22">Commercials</a>(14)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=14">Eclipp TV shows</a>(2)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=12">Educational, How To</a>(29)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=20">Entertainment</a>(31)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=16">Films &amp; Shorts</a>(52)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=3">Funny</a>(239)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=9">Movie Trailers</a>(45)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=2">Music Videos</a>(219)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=11">People &amp; Blogs</a>(38)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=4">Politics &amp; News</a>(1071)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=13">Religious &amp; Spiritual</a>(9)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=17">Science &amp; Technology</a>(13)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=6">Sport</a>(159)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=7">Thillers and Horror</a>(0)</li>
+        <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;cid=5">War &amp; Army</a>(11)</li>
+      </ul>
+</div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Audio Channels</p>
+</div>
+
+  <div class="clsSideBarRight">
+   <div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=5">Comedy</a>(3)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=7">Eclipp</a>(0)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=3">Music</a>(7)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=4">Political</a>(8)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=6">Religious &amp; Spiritual</a>(0)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=2">Sport</a>(2)</li>
+        <li><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;cid=1">test</a>(0)</li>
+      </ul>
+</div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Audio Tags</p>
+</div>
+
+<div class="clsSideBarRight">
+<div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Alex" style="font-size:12px">Alex</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=American" style="font-size:12px">American</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Anka" style="font-size:12px">Anka</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Ann" style="font-size:12px">Ann</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Anthrax" style="font-size:12px">Anthrax</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Arbor" style="font-size:12px">Arbor</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Banking" style="font-size:12px">Banking</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Barack" style="font-size:12px">Barack</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Candidate" style="font-size:15px">Candidate</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Howard" style="font-size:15px">Howard</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Interview" style="font-size:20px">Interview</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Presidential" style="font-size:15px">Presidential</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=Stern" style="font-size:15px">Stern</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=auto" style="font-size:12px">auto</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=gage" style="font-size:15px">gage</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=paul" style="font-size:28px">paul</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=richard" style="font-size:15px">richard</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=truth" style="font-size:15px">truth</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=50" style="font-size:12px">50</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/musicList.php?pg=musicnew&amp;tags=2004" style="font-size:12px">2004</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.eclipptv.com/tags.php?pg=music">More &gt;&gt;</a></p>
+  </div></div> </div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Recent Blogs</p>
+</div>
+
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+    <ul>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=48">ZEITGEIST THE MOVIE</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=47">www.createdfit.com</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=45">How To Keep Your Cigar I ..</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=42">ThruVision T5000</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=41">Atkins vs South Beach Di ..</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=40">HOW TO UNLOCK THE iPHONE</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=39">10,000 B.C. REVIEW</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=38">Ron Paul on Capitol Hill</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=35">Patrick Swayze is fighti ..</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=34">Times Square Explosion</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=33">Mac Vs PC</a></li>
+        <li><a href="http://www.eclipptv.com/blogComment.php?blog_id=32">Where to buy Cheap Airli ..</a></li>
+      </ul>
+  <p class="clsMoreTags"><a href="http://www.eclipptv.com/blogList.php">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks" id="selExtURL">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">External Links</p>
+</div>
+
+<div class="clsSideBarRight">
+<div class="clsSideBarContent">
+	<ul>
+
+		 <li>
+		 	<div id="selExtURLDetail">
+				<p class="clsExtURLSpec"><a href="http://www.eclipp.com" target="_blank">Eclipp Inc</a></p>
+			</div>
+		</li>
+	</ul>
+			  <p class="clsMoreTags"><a href="http://www.eclipptv.com/exturl.php">More</a></p>
+
+</div></div></div></div>
+</div>
+<!--      </div>
+
+   <div class="roundedcornr_bottom_968323"><div></div></div>
+</div>-->
+<table border="0" style="height: 25px"><tbody><tr><td> </td><td style="height: 25px"> </td></tr><tr><td> </td><td> </td></tr></tbody></table>
+
+
+  </div>     <!-- sidebar1 end -->
+
+
+  </div>
+<!--end of SIDEBAR-->
+<!-- Main -->
+
+<!-- begin top banner for all pages except profile pages -->
+<div class="user_banner1"><script type="text/javascript"><!--
+google_ad_client = "pub-6005280922225518";
+/* 468x60, created 3/27/08 */
+google_ad_slot = "9190078236";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>  </div>
+
+<div id="main" class="clsMain clsMainNoBanner  clsNoAdVertisement">
+
+<!-- Header ends -->
+<div id="selStaticPage">
+<table border="0" width="600" align="justify" style="height: 459px"><tbody><tr><td><div id="selStaticPage">   <h1> </h1><h1> </h1><h1> </h1><h1> </h1><h1><font color="#000000"><span class="\">Privacy Policy</span></font></h1> <p><font color="#000000"> Such Respect We Have For Your Privacy! This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. The use of this version of the Eclipptv.com website(s) and/or Eclipptv.com software and any other related software, upgrades or updates and all related services and special offers (the \"Service\") provided by Eclipptv.com (\"Eclipptv.com is subject to the hereunder provisions of this Privacy Policy)</font> </p><p>&nbsp;</p><p>&nbsp;</p><h1><font color="#000000">General</font></h1> <p><font color="#000000">Eclipptv.com takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. BY USING OR ACCESSING ANY Eclipptv.com WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Eclipptv.com MAY AMEND THIS POLICY FROM TIME TO TIME. If you are under the age of 10, you are not eligible to use the Service, and we ask you not to submit any personal information to us. </font></p><p><font color="#000000"> </font></p><p>&nbsp;</p><p><font color="#000000"> </font></p><h1><font color="#000000">Use of Information</font></h1> <p><font color="#000000"> When you register, we ask for your e-mail address, a unique nickname selected by you and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information.</font></p> <p><font color="#000000">Any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. Eclipptv.com may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of Eclipptv.com users, but do not receive information that personally identifies you. Not with standing the foregoing, your information may be accessed and disclosed if and as required by legal procedures </font></p><p><font color="#000000"> </font></p><p>&nbsp;</p><p><font color="#000000"> </font></p><h1><font color="#000000">Cookies</font></h1> <p><font color="#000000">Eclipptv.com may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of Eclipptv.com web sites, including to operate and improve offerings through the Service and/or web sites; to help authenticate your identity when you visit and transact with the Service, and/or web sites; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. Additionally, Eclipptv.com or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements\' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Eclipptv.com. Eclipptv.com does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. </font></p><p><font color="#000000"> </font></p><p>&nbsp;</p><p><font color="#000000"> </font></p><h1><font color="#000000">Special Note for Parents</font> </h1> <p><font color="#000000">Eclipptv.com Service and websites are intended for a general audience, and children under the age of ten (10) are not permitted to register with Eclipptv.com Service and websites. Modification and Deletion of Personally Identifiable Information Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us, to the following email address: support@eclipptv.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. Modification. If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support@eclipptv.com Please note that deletion of your personally identifiable information from Eclipptv.com database will not prevent Eclipptv.com from using gathered anonymous information. Third Parties Practices. This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Eclipptv.com does not own or control, or does not employ or manage.</font></p></div></td></tr></tbody></table></div>
+<!-- Footer begins -->
+</div>
+<!-- Footer -->
+<div style="margin:0 auto; text-align:center; width:100%;padding-bottom:10px;">
+<div id="footer">
+
+      <div class="roundedcornr_box_968323">
+   <div class="roundedcornr_top_968323"><div></div></div>
+      <div class="roundedcornr_content_968323">
+
+
+  <script language="javascript">
+  function changeSearchAction()
+  	{
+			var type='video';
+			tag_value=$('tags_footer').value;
+			if(tag_value!='')
+				location = 'http://www.eclipptv.com//searchList.php?search_type='+type+'&tags='+tag_value;
+	}
+	initShowHideDivs()
+	initUserMenus();
+  </script>
+  <div id="selFooterCommonSearch">
+  <form name="searchFooterForm" onsubmit="if(trim($('tags_footer').value)!='') return true; else return false;" id="searchFooterForm" action="http://www.eclipptv.com/searchList.php" method="get">
+  	<input type="hidden" name="search_type" value="video">
+      <table>
+        <tbody><tr>
+          <td><input type="text" class="clsTextBox clsSearchTextBox" name="tags" id="tags_footer" value="" tabindex="100"></td>
+          <td>
+		  <!--<input type="button" onClick="changeSearchAction();"  class="clsSearchSubmitButton" name="commonSearchSubmit" id="commonSearchSubmit" value="Search" tabindex="110" />-->
+		  <input type="submit" class="clsSearchSubmitButton" name="commonSearchSubmit" id="commonSearchSubmit" value="Search" tabindex="110">
+		  </td>
+        </tr>
+      </tbody></table>
+ </form>
+  </div>
+   <div class="user_banner5"><a href="http://www.republicmagazine.com/affiliates/jrox.php?id=538_2_bid_9"><img src="http://www.republicmagazine.com/affiliates/image.php?bid=9&amp;mid=538" width="728" height="90" border="0"></a></div>
+
+
+<!--   <div id="selSubFooter"> <h2><span>Miscellaneous Navigational Links</span></h2></div> -->
+  <div id="subFooter">
+  <div id="selAccount">
+  <h2>Account</h2>
+    <ul>
+      <li><a href="http://www.eclipptv.com/videoList.php?pg=videonew">videos</a></li>
+      <li><a href="http://www.eclipptv.com/videoPlayList.php">playlist</a></li>
+      <!--<li><a href="#">subscription</a></li>-->
+
+      <li><a href="http://www.eclipptv.com/members/videoList.php?pg=myfavoritevideos">favourites</a></li>
+      <li><a href="http://www.eclipptv.com/members/mail.php?folder=inbox">inbox</a></li>
+      <!--<li><a href="#">more..</a></li>-->
+    </ul>
+</div>
+
+  <div id="selHelpInfo">
+  <h2>HelpInfo</h2>
+    <ul>
+      <li><a href="http://www.eclipptv.com/faq.php">help center</a></li>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=copyrightnotices">copyright notices</a></li>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=webhosting">Top 10 Web Hosting</a></li>
+      <!--<li><a href="#">developer apls</a></li>
+      <li><a href="#">copyright notices</a></li>
+      <li><a href="#">video toolbox</a></li>
+      <li><a href="#">safety tips</a></li>
+      <li><a href="#">code of conduct</a></li>-->
+    </ul>
+  </div>
+  <div id="selHelpInfo">
+ <h2>EclippTV</h2>
+    <ul>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=privacy">privacy policy</a></li>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=toc">terms of condition</a></li>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=companyinfo">company info</a></li>
+				<li><a href="http://www.eclipptv.com/staticPage.php?pg=store">EclippTV Store</a></li>
+      <!--<li><a href="#">company info</a></li>
+      <li><a href="#">terms of use</a></li>
+      <li><a href="#">press</a></li>
+      <li><a href="#">blog</a></li>
+      <li><a href="#">test EclippTV</a></li>
+      <li><a href="#">privacy policy</a></li>
+      <li><a href="#">jobs</a></li>-->
+      <li><a href="http://www.eclipptv.com/contactUs.php">contact</a></li>
+    </ul>
+  </div>
+
+  <div id="rss">
+  <h2>RSS</h2>
+			<ul>
+							    <li class="rss"><a href="http://www.eclipptv.com/rss.php">RSS Video</a></li>
+											    <li class="rss"><a href="http://www.eclipptv.com/rssMusic.php">RSS Audio</a></li>
+											    <li class="rss"><a href="http://www.eclipptv.com/rssPhoto.php">RSS photo</a></li>
+				  </ul></div>
+
+   </div>
+  <p>© 2007 EclippTV. All rights reserved.</p>
+        </div>
+   <div class="roundedcornr_bottom_968323"><div></div></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="page-footer"> <span class="fcorners-bottom"><span></span></span></div></div></div>
+
+
+<div style=" clear:both; width:100%; text-align:center; padding:5px 0px; margin:0px auto;">
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<!--<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Video Tags</p>-->
+</div>
+
+  <div class="clsSideBarRight">
+   <div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=-" style="font-size:17px">-</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=9/11" style="font-size:12px">9/11</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=Bill" style="font-size:12px">Bill</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=FUNNY" style="font-size:14px">FUNNY</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=Family" style="font-size:12px">Family</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=Movie" style="font-size:13px">Movie</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=Obama" style="font-size:17px">Obama</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=RON" style="font-size:16px">RON</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=The" style="font-size:18px">The</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=Wrestling" style="font-size:13px">Wrestling</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=barack" style="font-size:13px">barack</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=bush" style="font-size:15px">bush</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=clinton" style="font-size:13px">clinton</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=in" style="font-size:13px">in</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=iraq" style="font-size:14px">iraq</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=music" style="font-size:15px">music</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=on" style="font-size:14px">on</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=paul" style="font-size:28px">paul</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=rock" style="font-size:13px">rock</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.eclipptv.com/videoList.php?pg=videonew&amp;tags=video" style="font-size:16px">video</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.eclipptv.com/tags.php?pg=video">More &gt;&gt;</a></p>
+  </div></div></div></div>
+</div>
+
+
+
+<!--
+<benchmark>
+
+<hr />
+(mysqli): SELECT new_mails, total_friends, total_videos, privacy, status_msg_id FROM users WHERE user_id = 0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner6' AND status='activate' AND add_type='General' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT video_id, video_title FROM video as p WHERE p.video_status='Ok' AND (p.user_id = 0 OR p.video_access_type = 'Public') ORDER BY RAND() LIMIT 0,1 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT P.photo_category_id, COUNT(P.photo_id) AS total_photos FROM photo AS P WHERE P.photo_status='Ok' GROUP BY photo_category_id HAVING total_photos&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT photo_category_id, photo_category_name, photo_category_description, photo_category_status, photo_category_ext, date_added FROM photo_category WHERE photo_category_status = 'Yes' ORDER BY photo_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT tag_name, result_count AS search_count FROM tags_photo WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 20 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT P.video_category_id, COUNT(P.video_id) AS total_videos FROM video AS P WHERE P.video_status='Ok' GROUP BY video_category_id HAVING total_videos&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT video_category_id, video_category_name, video_category_type, video_category_description, video_category_status, video_category_ext, date_added FROM video_category WHERE parent_category_id=0 AND video_category_status = 'Yes' ORDER BY video_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT P.music_category_id, COUNT(P.music_id) AS total_musics FROM music AS P WHERE P.music_status='Ok' GROUP BY music_category_id HAVING total_musics&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT music_category_id, music_category_name, music_category_description, music_category_status, music_category_ext, date_added FROM music_category WHERE music_category_status = 'Yes' ORDER BY music_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT tag_name, result_count AS search_count FROM tags_music WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 20 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT  blog_id, subject FROM blogs WHERE status='Active' ORDER BY blog_id DESC LIMIT 20 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT exturl_id, exturl_name, exturl_url, exturl_description, exturl_status, exturl_ext, date_added FROM exturl WHERE exturl_status = 'Yes' ORDER BY exturl_name ASC LIMIT 0, 5 &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT user_id FROM users_featured &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner2' AND status='activate' AND add_type='General' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner3' AND status='activate' AND add_type='General' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner1' AND status='activate' AND add_type='General' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT content FROM static_pages WHERE page_name='privacy' AND status='Activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner5' AND status='activate' AND add_type='General' &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT page_name, title FROM static_pages WHERE status='Activate' AND display_in='both' AND display_tab='helpinfo'  &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT page_name, title FROM static_pages WHERE status='Activate' AND display_in='both' AND display_tab='rayzz'  &nbsp; 
+<hr />
+
+
+<hr />
+(mysqli): SELECT tag_name, result_count AS search_count FROM tags_video WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 20 &nbsp; 
+<hr />
+
+</benchmark>
+-->
+
+<!--
+<benchmark>
+  <parsetime>
+    <sec>0.17101</sec>
+  </parsetime>
+</benchmark>
+--><script language="javascript">
+	//from bizreel	
+	if(document.getElementById('selPageBody'))
+	{
+	var a = document.getElementById('selPageBody').getElementsByTagName('a');
+	//var site_url = ;
+	for(var i=0; i<a.length; i++){		
+		clk = a[i].onclick + '';
+		if((clk == 'null') || (clk == 'undefined') || (clk=='')){
+			a[i].onclick = function(){
+				var hurl = this.href;			
+				if(hurl.indexOf('http://www.eclipptv.com/')<0)
+					this.target = "_blank";
+			}
+		}
+	}
+	}
+</script>
+</body></html>
