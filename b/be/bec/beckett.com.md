@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062443id_/http%3A//www.beckett.com/InfoPages/PrivacyPolicy.osi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622070301id_/http%3A//www.beckett.com/InfoPages/PrivacyPolicy.osi) for the most accurate reproduction.*
 
 # Beckett Media LP
 
@@ -80,6 +80,6 @@ If you have any questions about this privacy statement, the practices of this si
 Beckett Media LP   
 4635 McEwen Road  
 Dallas, Texas 75244  
-[webmaster@beckett.com](https://web.archive.org/web/20071211062443id_/http%3A//www.beckett.com/InfoPages/webmaster@beckett.com)
+[webmaster@beckett.com](https://web.archive.org/web/20080622070301id_/http%3A//www.beckett.com/InfoPages/webmaster@beckett.com)
 
 [Member Terms of Service Agreement](http://www.beckett.com/estore/info.asp?T=CP&D=1724)
