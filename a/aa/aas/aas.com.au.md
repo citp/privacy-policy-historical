@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121075439id_/http%3A//www.aas.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622143801id_/http%3A//www.aas.com.au/privacy.htm) for the most accurate reproduction.*
 
 # AAS
 
@@ -40,7 +40,7 @@ How to contact AAS
 If you would like further information on how AAS handles personal information, or if you would like to lodge a complaint about a possible breach of privacy, please contact AAS in one of the following ways: 
 
   * Phone: (02) 8837 5007
-  * Email: compliance_aas@aas.kaz.com.au
+  * Email: Compliance_AAS@aas.com.au
   * Fax: (02) 8837 5434
   * Write to The Compliance Manager, Australian Administration Services Pty Ltd, Locked Bag 4085, PARRAMATTA NSW 2124
 
