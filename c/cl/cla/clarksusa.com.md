@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216043049id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622040724id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
-# Privacy - Clarks Shoes - Powered By Zappos.com
+# Privacy | Clarks Shoes | Powered by Zappos
 
   Privacy Policy  
 ---  
