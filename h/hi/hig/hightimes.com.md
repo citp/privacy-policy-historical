@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308155616id_/http%3A//www.hightimes.com/ht/legal/index.php%3Fpage%3Dprivacy%26PHPSESSID%3D7b17a08a68a5a139e6db600745740a3e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622152505id_/http%3A//hightimes.com/about/admin/4163/%3Fx%3D505590) for the most accurate reproduction.*
 
-# hightimes.com legal
+# High Times > HIGHTIMES.com Online Privacy Policy
 
-### Hightimes.com Online Privacy Policy
+Fri, Apr 18, 2008 1:26 pm
+
+  
+
 
 **Hightimes.com is committed to protecting your privacy.**
 
-We offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to the Site or provide notices of changes by displaying notices or links to notices to you generally on the Site. Please review this policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on July 1, 2002\. 
+We offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to the Site or provide notices of changes by displaying notices or links to notices to you generally on the Site. Please review this policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on July 1, 2002. 
 
 We define personal information as information that includes a person's full name, address, telephone number, date of birth and/or email address or any other information that is tied to individually identifiable information that would allow someone to identify or contact you, unless stated otherwise herein or on the Site. We can gather information on our users in two different ways: (1) cookie technology; and (2) voluntary submissions. 
 
@@ -18,4 +21,4 @@ When you order products from us, we also collect personally identifiable informa
 
 Users must be 18 years or older before registering in any of our sweepstakes or contests. Contests are open only to residents of the United States and Canada and their territories and principalities. 
 
-We have taken steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have physical access to its database servers, as well as electronic security systems and password protections which guard against unauthorized access. We encourage users to be smart about choosing when, and to whom to release information online. 
+We have taken steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have physical access to its database servers, as well as electronic security systems and password protections which guard against unauthorized access. We encourage users to be smart about choosing when, and to whom to release information online.
