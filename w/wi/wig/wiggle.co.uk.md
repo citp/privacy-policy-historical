@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214200254id_/http%3A//www.wiggle.co.uk/CustomerServices/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622022204id_/http%3A//www.wiggle.co.uk/CustomerServices/privacy.aspx) for the most accurate reproduction.*
 
 # Wiggle | Customer Services | Privacy
 
