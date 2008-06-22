@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221012254id_/http%3A//www.alldata.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622175753id_/http%3A//www.alldata.com/privacy.jsp) for the most accurate reproduction.*
 
 # ALLDATA
 
@@ -12,4 +12,4 @@ When you submit personal information to ALLDATA by any means, including but not 
 
 By using this site or receiving ALLDATA newsletters, you agree to the terms of the ALLDATA.com Online Privacy Policy. If you do not agree to these terms, please do not use this site. ALLDATA is not responsible for the content or privacy practices of non-ALLDATA web sites to which alldata.com or any other ALLDATA web site may link. ALLDATA can't guarantee your security or privacy when you visit other web sites. 
 
-Copyright ©1996-2007 ALLDATA LLC. All rights reserved. 
+Copyright ©1996-2008 ALLDATA LLC. All rights reserved. 
