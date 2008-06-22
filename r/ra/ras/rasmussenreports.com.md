@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106091651id_/http%3A//www.rasmussenreports.com/public_content/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622183818id_/http%3A//www.rasmussenreports.com/public_content/about_us/privacy) for the most accurate reproduction.*
 
-# Rasmussen Reports™: The most comprehensive public opinion coverage ever provided for a mid-term election.
+# Rasmussen Reports™: The most comprehensive public opinion coverage ever provided for a presidential election.
 
 Rasmussen Reports is committed to protecting your privacy and a safe online experience. This Statement of Privacy applies to the Rasmussen Reports Web site and governs data collection and usage. Rasmussen Reports will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our web site. By using the Rasmussen Reports website, you consent to the data practices described in this statement. 
 
