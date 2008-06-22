@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225064403id_/http%3A//www.rider.edu/1327.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622224437id_/http%3A//www.rider.edu/1327.htm) for the most accurate reproduction.*
 
-# Rider University - <% Response.Write GetHeadline() %>
+# Rider University - Privacy Policy Foundation
 
 Privacy Policy
 
@@ -41,5 +41,3 @@ This site and all information and images within it are copyright Rider Universit
 **Disclaimer**
 
 The information on this site is provided "as is," and no representations or warranties of any kind are made regarding it. Our policy is not to be applied in any manner contrary to applicable law or governmental regulation. Rider University reserves the right to make changes to this policy at any time. Please check this page periodically for updates.
-
-<% function GetHeadline() GetHeadline = "Privacy Policy" end function %>
