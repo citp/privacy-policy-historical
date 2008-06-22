@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218161845id_/http%3A//mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622171259id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
@@ -138,6 +138,8 @@ _Back to Top_
 **Making Your Choices**
 
 If you’d like to limit the amount of your information shared within the M&T family and/or with outside companies, you can do so now using our ["opt out" form](https://services.mandtbank.com/customerservice/privacy/optout.cfm) or by calling us at 1-800-785-3162. You will need to provide your M&T account number and your Social Security number to put the limitation on information sharing into effect.
+
+**Marketing Opt Out provided by the M &T family of companies.** Federal law also gives you the right to limit some but not all marketing offers from the M&T family of companies. We are required by Federal law to let you know of your choice to limit marketing offers. You may limit M&T family affiliates such as M&T Securities, Inc or M&T Credit Services, LLC from marketing their products and services to you based on your personal information that they receive from other members of the M&T family. This information may include income data, account history or your credit score. If you would like to limit marketing offers from M&T family affiliates call us at 1-800-785-3162.
 
 When we receive your request, we will process it promptly. Please note that at the time you make your request, programs that involve information sharing may already be underway, but your name will be removed from such programs in the future.
 
