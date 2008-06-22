@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203025037id_/http%3A//www.12fly.com.my/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105215id_/http%3A//www.12fly.com.my/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # 12fly.com.my Travel: Discount airfare, flights, hotels, vacations packages and more
 
