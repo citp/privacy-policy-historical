@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228104907id_/http%3A//www2.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622154647id_/http%3A//www2.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # mail.com
 
@@ -105,4 +105,4 @@ For general problems with your account, please [click here](http://mail01.mail.c
   
   
   
-© Copyright 2007 mail.com All rights reserved.
+© Copyright 2008 mail.com All rights reserved.
