@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024144209id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622135547id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
 
 # Manta: Privacy Policy
 
 Manta.com Privacy Policy
 
-Manta.com is a service provided by ECNext, Inc. (Â“we or usÂ”). We respect your privacy and we are committed to protecting the information that you provide us when you use Manta.com and when you make purchases from us. 
+Manta.com is a service provided by ECNext, Inc. (“we or us”). We respect your privacy and we are committed to protecting the information that you provide us when you use Manta.com and when you make purchases from us. 
 
 Your Manta.com Information
 
