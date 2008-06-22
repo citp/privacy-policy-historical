@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224043804id_/http%3A//www.weather2umbrella.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622231057id_/http%3A//www.weather2umbrella.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Weather Forecast - Privacy Statement .. Weather2Umbrella® ..
 
