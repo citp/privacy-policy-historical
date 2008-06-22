@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182927id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622050532id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
 
 # Daily.co.uk: Privacy Policy
 
