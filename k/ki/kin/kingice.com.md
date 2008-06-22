@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228064703id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622211210id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| [](http://www.kingice.com/) |   
----|---  
-25% OFF AFTER CHRISTMAS SALE ON ALL ORDERS! COUPON CODE:SALE1207 | ENDS 12/31   
----  
-|  | 
+| 
 
   
 |  **Privacy Policy**  
@@ -24,86 +20,4 @@ Your computer and our server begin to communicate in a secure area, sending data
 The credit card numbers are placed in the SQL database on the KING ICE web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure.   
   
   
-  
-  
-  
-  
-  
-| | 
 
-[Religious Pendants](http://www.kingice.com/Religious-Silver-Pendants-100507.html)  
-  
----|---  
-| 
-
-[Sport Pendants](http://www.kingice.com/gallery.aspx?searchtext=sport%20pendant&x=0&y=0&page=0)  
-  
-| 
-
-[Military Dog Tags](http://www.kingice.com/gallery.aspx?searchtext=dog%20tag%20pendant&x=0&y=0&page=0)  
-  
-| 
-
-[Platinum Pendants](http://www.kingice.com/Fake-Platinum-100498.html)  
-  
-| 
-
-[316L Steel Pendants](http://www.kingice.com/Stainless-Steel-Pendants-100513.html)  
-  
-| 
-
-[Real Horn Pendants](http://www.kingice.com/Horn-Silver-Pendants-100512.html)  
-  
-| 
-
-[Assorted Pendants](http://www.kingice.com/Assorted-Silver-Pendants-1-100510.html)  
-  
-| 
-
-[14K Gold Pendants](http://www.kingice.com/14K-Gold-Pendants-100511.html)  
-  
-  
-  
-  
-| 
-
-[Belt Buckles](http://www.kingice.com/Belt-Buckles-100514.html)  
-  
----|---  
-| 
-
-[Grillz](http://www.kingice.com/Grillz-100491.html)  
-  
-| 
-
-[Pimp Cups](http://www.kingice.com/Pimp-Cups-100515.html)  
-  
-| 
-
-[Money Clips](http://www.kingice.com/Money-Clips-100501.html)  
-  
-| 
-
-[Ring Gift Boxes](http://www.kingice.com/gallery.aspx?searchtext=ring%20gift%20box&x=0&y=0)  
-  
-| 
-
-[Bracelet Gift Boxes](http://www.kingice.com/gallery.aspx?searchtext=bracelet%20gift%20box&x=0&y=0)  
-  
-| 
-
-[Pendant Gift Boxes](http://www.kingice.com/gallery.aspx?searchtext=pendant%20gift%20box&x=0&y=0)  
-  
-| 
-
-[Chain Gift Boxes](http://www.kingice.com/gallery.aspx?searchtext=necklace%20gift%20box&x=0&y=0)  
-  
-| 
-
-[Earrings Gift Boxes](http://www.kingice.com/gallery.aspx?searchtext=earrings%20gift%20box&x=0&y=0)  
-  
-|  Call Toll Free  
-1-877-KING-ICE | [FAQ](http://www.kingice.com/faq.aspx) | | | [Privacy Policy](http://www.kingice.com/privacy.aspx) | | | [Links](http://www.kingice.com/links.aspx) | | | [Wholesale](http://www.kingice.com/wholesale.aspx) | | | [Articles](http://www.kingice.com/articles.aspx) |   
----|---|---|---|---|---|---|---|---|---|---  
-[Bling Bling Shopping Guide](https://web.archive.org/bling-jewelry-shopping-guide.aspx "Bling Bling Jewellery Shopping Guide") | [Hip Hop Fashion](https://web.archive.org/hip-hop-fashion.aspx "Hip Hop Fashion Jewellry") | [Bling Bling Dog Tag](https://web.archive.org/bling-dog-tag.aspx "Bling Bling Dog Tag") | [Men's Bling Bling Rings](https://web.archive.org/mens-bling-ring.aspx "Men's Bling Bling ring") | [Hip Hop craze](https://web.archive.org/hip-hop-craze.aspx "Hip hop craze") | [Hip Hop potency](https://web.archive.org/hip-hop-potency.aspx "Hip hop potency") | [Power of jewelry](https://web.archive.org/power-of-jewelry.aspx "Jewelry rules") | [Criminal Stars](https://web.archive.org/criminal-stars.aspx "Criminal Stars") | [Celebrity Love](https://web.archive.org/celebrity-love.aspx "Celebrity-love") | [Hip Hop Blood Sport](https://web.archive.org/hip-hop-blood-sport.aspx "Hip Hop Blood Sport")   
-©2002-2006 KingIce.com, real hip hop jewelry.
