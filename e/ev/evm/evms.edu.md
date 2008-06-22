@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/services/hipaa_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/services/hipaa_privacy.html) for the most accurate reproduction.*
 
-# EVMS Departments
+# EVMS HIPAA Privacy Notice
 
 |  |  |   
 ---  
@@ -118,8 +118,8 @@ This notice went into effect on April 14, 2003
   
 * * *  
   
-[Home](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/index.html) / [Site Map](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/site-map.html) / [Search](http://www.evms.edu/search.html) / [About EVMS](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/about/index.html) / [Patient Services](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/services/index.html)  
-[Education](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/education/index.html) / [Research](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/research/index.html) / [Departments](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/depts/index.html) / [Library](https://web.archive.org/web/20071216110036id_/http%3A//www.evms.edu/evmslib/index.html)  
+[Home](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/index.html) / [Site Map](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/site-map.html) / [Search](http://www.evms.edu/search.html) / [About EVMS](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/about/index.html) / [Patient Services](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/services/index.html)  
+[Education](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/education/index.html) / [Research](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/research/index.html) / [Departments](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/depts/index.html) / [Library](https://web.archive.org/web/20080622154108id_/http%3A//www.evms.edu/evmslib/index.html)  
   
-[Feedback](https://www.evmsdoctors.com/secure/feedback.html) / Copyright © 1999-2005 Eastern Virginia Medical School   
-Revised: December 07, 2003
+[Feedback](https://www.evmsdoctors.com/secure/feedback.html) / Copyright © 1999-2008 Eastern Virginia Medical School   
+Revised: June 16, 2008
