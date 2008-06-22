@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012211626id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622140042id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.*
 
 # PhysioNet Privacy Policy
 
@@ -14,7 +14,7 @@ Members may post data, software, and commentary via PhysioNet, but all such post
 
 Our privacy policy is based on those adopted by [Computer Professionals for Social Responsibility](http://www.cpsr.org/) and by the [Privacy Rights Clearinghouse](http://www.privacyrights.org/). This is a [P3P-enabled](http://www.w3.org/P3P/) web site. If you are using a P3P-enabled web browser, it should be able to fetch our P3P policy automatically. If not, here are our [P3P policy](https://web.archive.org/w3c/policy1.xml) and [P3P policy reference](https://web.archive.org/w3c/p3p.xml) files. 
 
-Your comments and suggestions are welcome. We encourage you to use our [feedback form](http://physionet.org/cgi-bin/feedback) to comment on this page. If you would like to receive a reply, please send your comments by email to [ `webmaster@physionet.org`](mailto:webmaster@physionet.org?subject=http://physionet.org/privacy.shtml), or post them to: 
+Your comments and suggestions are welcome. We encourage you to use our [feedback form](http://physionet.org/cgi-bin/feedback) to comment on this page. If you would like to receive a reply, please send your comments by email to [ `webmaster@physionet.org`](mailto:webmaster@physionet.org?subject=http://www.physionet.org/privacy.shtml), or post them to: 
 
 _PhysioNet  
 MIT Room E25-505A  
