@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordspy.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213225927id_/http%3A//www.keywordspy.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordspy.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622130755id_/http%3A//www.keywordspy.com/policy.aspx) for the most accurate reproduction.*
 
 # KeywordSpy
 
@@ -25,10 +25,10 @@ Our site has security measures in place to protect against the loss, misuse and 
 You are responsible for maintaining the confidentiality of your password and account and are fully responsible for all activities that occur using your password or account. Please notify us immediately of any unauthorized use of your password or account or any other breach of security. KeywordSpy will not be liable for any loss that you may incur as a result of any third party's use of your password or account, either with or without your knowledge. You may not use anyone else's password at any time. 
 
 **Review and Update Information**  
-If you wish to review or update your contact information, simply visit "My KeywordSpy", our password protected Members' Area. You may update your information here at any time. Should you encounter problems with updating your profile through My KeywordSpy, please send an email to support@keywordspy.com, and our Customer Care Department will assist you. 
+If you wish to review or update your account details, simply sign-in to your account and click the “My Account" link found on the upper right corner of the KeywordSpy Search Bar, or if you are on the result page, simply click the “Update Profile” link which will lead you to our password protected Members' Area. You may update your information any time. Should you encounter problems with updating your profile, please send an email to [support@KeywordSpy.com](mailto:support@keywordspy.com), and our Support Team will be glad to assist you. 
 
 **Notification of Changes**  
 If at some point in the future, there is a change to our privacy policy that will affect your personal information, we will notify you by email of the relevant changes. 
 
 **Contacting the Website**  
-If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at support@keywordspy.com. 
+If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at [support@KeywordSpy.com](mailto:support@keywordspy.com). 
