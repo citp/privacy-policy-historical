@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225204136id_/http%3A//www.travisperkins.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623165207id_/http%3A//www.travisperkins.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Travis Perkins :: Search Site
 
-We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy outlines how your personal information is treated and forms part of our [Conditions of Use](https://web.archive.org/web/20071225204136id_/http%3A//www.travisperkins.co.uk/conditions.asp). 
+We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy outlines how your personal information is treated and forms part of our [Conditions of Use](https://web.archive.org/web/20080623165207id_/http%3A//www.travisperkins.co.uk/conditions.asp). 
 
 **What information do we collect and how do we use it?**
 
