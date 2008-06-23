@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215204343id_/http%3A//www.travel.com.au/general/privacy-policy/w140%2Cgen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623225452id_/http%3A//www.travel.com.au/general/privacy-policy/w140%2Cgen) for the most accurate reproduction.*
 
 # Privacy Policy - travel.com.au
 
