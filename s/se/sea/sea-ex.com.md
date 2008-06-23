@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182228id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623195309id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacypolicy
 
@@ -34,13 +34,17 @@ We publish a newsletter and we never sell or share our subscribers email address
 
 Our website offers a trading board.  Please be advised that information posted on this board becomes public knowledge
 
-**Sea-Ex does not employ cookies.**
+**Cookies:  
+**A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site does not use cookies. However, some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+
+**Advertisers:  
+**We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, etc. Please check their websites for respective privacy policies.
 
 **Access to Information:**  
 Sea-Ex maintains the accuracy of our information by routinely checking with companies listed on our site. Users may access their own personal information and contact us about inaccuracies they may find by emailing [support@seaex.com](mailto:support@seaex.com) Users may delete their information from our database by notifying us by email. The request for removal will be completed within 24-48 hours.
 
 **Problem Resolution:**  
-If problems arise, users may contact Sea-Ex by email, fax or telephone. We are committed to resolving disputes within 24-48 hours.
+If problems arise, users may contact Sea-Ex by email, Skype or telephone. We are committed to resolving disputes within 24-48 hours.
 
 **Data Storage and Security:**  
 Sea-Ex protects user information with the following security measures:  No data is stored on our servers.  All information collected is stored within a secure environment in our offices.  There is no access by third parties to the information we hold.
