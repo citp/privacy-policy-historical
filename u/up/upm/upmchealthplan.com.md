@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/index.html) for the most accurate reproduction.*
 
 # UPMC Health Plan Privacy Policy
 
@@ -64,7 +64,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 >  112 Washington Place   
 >  Pittsburgh, PA 15219   
 >  Email: [HealthPlanHIPAAOffice@msx.upmc.edu](mailto:HealthplanHIPAAOffice@msx.upmc.edu)  
->  For general inquires about UPMC Health Plan, please [click here](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/contact/index.html). 
+>  For general inquires about UPMC Health Plan, please [click here](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/contact/index.html). 
 
   
 
@@ -73,17 +73,17 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC Health Plan (Commercial)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/NoticeOfPrivacy.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/commercialPRD.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/NoticeOfPrivacy.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/commercialPRD.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/MemberPHIauth.pdf)
 
 
 
 ### UPMC _for Life_ (Medicare)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/medicareNOP.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/medicarePRD.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20071225091613id_/http%3A//www.upmchealthplan.com/privacy/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/medicareNOP.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/medicarePRD.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20080623184031id_/http%3A//www.upmchealthplan.com/privacy/pdf/MemberPHIauth.pdf)
 
 
 
