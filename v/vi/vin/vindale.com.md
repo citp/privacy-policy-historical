@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230001734id_/http%3A//vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623070251id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy - Vindale Research
 
 ## Privacy policy 
-
-Information collected and used by Vindale Research
-
-Vindale Research collects user-submitted information including name, email address, and age to verify new accounts and send notifications regarding Vindale Research's services. Vindale Research collects additional data that is included in member profiles. This data includes but is not limited to: occupation, interests, school affiliations, gender, and location. 
 
 Information collected and used by Vindale Research
 
@@ -40,7 +36,7 @@ Links
 
 Vindale Research contains links to other websites. Vindale Research is in no way responsible for the privacy practices employed by other sites. Such websites may independently collect data, solicit personal information, or send their own cookies to your computer. Vindale Research is not responsible for any use of the information, including click-stream data, and you may create and disclose when visiting such third party sites. This privacy policy applies solely to information collected by Vindale Research. 
 
-Correcting/updating or removing information
+Correcting/updating information
 
 Members can update their information at any time by logging in to Vindale Research and editing their information. The user may also request a copy of the personal information Vindale Research has on record for their account by sending a self-addressed., stamped envelope to the following address: 
 
@@ -71,7 +67,7 @@ Should Vindale Research wish to use member's personally identifiable information
 
 California Online Privacy Protection Act
 
-Under California law, individual customers who reside in California and have provided personal information to Vindale Research map request information about our discloser of certain categories of personal information to their parties for their direct marketing purposes. These requests must be submitted to us at privacy@vindale.com. Within 45 days of receiving such a request, Vindale Research will provide a list of the types of information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year and the names and addresses of those parties. 
+Under California law, individual customers who reside in California and have provided personal information to Vindale Research may request information about our disclosing of certain categories of personal information to third parties for direct marketing purposes. These requests must be submitted to privacy@vindale.com. Within 45 days of receiving such a request, Vindale Research will provide a list of the types of information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year and the names and addresses of those parties. 
 
 Individual customers who reside in California may also choose to opt out of providing information to third parties for direct marketing purposes by canceling their account at any time. 
 
