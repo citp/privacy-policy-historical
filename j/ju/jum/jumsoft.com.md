@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jumsoft.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225202110id_/http%3A//www.jumsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumsoft.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623184033id_/http%3A//www.jumsoft.com/privacy) for the most accurate reproduction.*
 
 # Jumsoft | Privacy Policy
 
 ## Copyright
 
-All contents of this Web site are of copyright Jumsoft 2003-2007. All Rights Reserved. 
+All contents of this Web site are of copyright Jumsoft 2003-2008. All Rights Reserved. 
 
 ## Your Privacy
 
