@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsgarbage.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225081612id_/http%3A//www.newsgarbage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsgarbage.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623060545id_/http%3A//www.newsgarbage.com/about/privacy) for the most accurate reproduction.*
 
 # newsgarbage | privacy policy
 
-Did you know? The more you contribute to the community, the higher up the [user's table](https://web.archive.org/users) you'll climb! 
+Help promote stories to the front page, click [here](https://web.archive.org/pool/) to vote! 
 
 This Privacy Policy makes up one section of the [Terms and Conditions of Use](https://web.archive.org/about/tcs/). Please read these Terms and Conditions of Use carefully and fully before using any of the Services provided by the site. By accessing this site or using any part of the content or services (both defined below) on the site, you agree to become bound by these Terms and Conditions. If you do not agree to all of the Terms and conditions, you may not access the site or use any services or content on the site. newsgarbage acceptance is expressly conditioned upon your assent to all of these Terms and Conditions, to the exclusion of all other terms; If these Terms and Conditions are considered an offer by newsgarbage, acceptance if expressly limited to these terms.
 
