@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227031710id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623041132id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - Move.com
+# Privacy Policy - Move.com
 
 Last updated June 23, 2006  
 
