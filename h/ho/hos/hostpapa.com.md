@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044029id_/http%3A//hostpapa.com/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623072215id_/http%3A//hostpapa.com/Privacy.shtml) for the most accurate reproduction.*
 
 # Host Papa - America's Leading Web Host
 
