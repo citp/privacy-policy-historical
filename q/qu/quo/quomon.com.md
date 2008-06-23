@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225095603id_/http%3A//www.quomon.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623114203id_/http%3A//quomon.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Quomon.com - Privacy
 
