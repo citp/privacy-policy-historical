@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225090104id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623105713id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Press - Graham And Green
 
@@ -21,6 +21,8 @@ We would like you to keep the information about you up-to-date. You may change a
 In addition to the information which you supply to us, information and data may be automatically collected through the use of cookies. Cookies are small text files the site can use to recognise repeat users and allow us to observe behaviour and compile aggregate data in order to improve the site for you. 
 
 We may monitor customer traffic patterns, site usage and related site information in order to optimise your use of the site and we may give aggregated statistics to a reputable third-party, but these statistics will include no information personally identifying you.
+
+We continually strive to improve our standards of customer care at Graham & Green, and in order to help us with training of new or old members of the call centre team we sometimes monitor and record our incoming calls.
 
 Any further queries, please do not hesitate to contact with the below details
 
