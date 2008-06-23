@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the det.wa.edu.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225165050id_/http%3A//www.det.wa.edu.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the det.wa.edu.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623152536id_/http%3A//www.det.wa.edu.au/privacy.asp) for the most accurate reproduction.*
 
 # The Department of Education and Training - Privacy
 
