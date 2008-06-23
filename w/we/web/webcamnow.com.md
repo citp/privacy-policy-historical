@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222062248id_/http%3A//www.webcamnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623084724id_/http%3A//www.webcamnow.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - WEBCAMNOW
 
