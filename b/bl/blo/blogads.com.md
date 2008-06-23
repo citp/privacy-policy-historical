@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213035111id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624011938id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
 
 # Blog advertising makes opinions - Privacy Policy
 
