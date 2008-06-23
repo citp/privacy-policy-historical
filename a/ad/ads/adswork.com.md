@@ -1,0 +1,65 @@
+> *The following text is extracted and transformed from the adswork.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623083347id_/http%3A//www.adswork.com/privacy.php) for the most accurate reproduction.*
+
+# California, United States - AdsWork � Free Ads That Work
+
+**Privacy Policy:**
+
+Adswork.com and the Privacy of User/Buyer or User/Advertiser privacy and confidentiality is of the utmost importance to Adswork.com. Our reputation and integrity is directly related to how we serve our Web site's User/Buyer or User/Advertiser. Please find below a description of how Adswork.com strives to protect your privacy.
+
+How we use the information we collect: 
+
+Adswork.com never releases personal identifiable information about you to any third party without your initial prior approval. If we do release your information to a third party, for example to sign you up for a third party service provided through Adswork.com that you have specifically requested, a link to the third party's privacy notice and terms of service will be displayed at the time you are offered the option to release this information. These third parties privacy policies are provided below in the section entitled "The Way We Use Information".
+
+BUT please note that Adswork.com may disclose User/Buyer or User/Advertiser information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Adswork.com's rights or property, other Adswork.com User/Buyer or User/Advertiser, or anyone else that could be harmed by such activities. Adswork.com may disclose user information when we believe in good faith that the law requires it.
+
+Protecting children
+
+Adswork.com membership is exclusively geared toward individuals who are 18 years old and older. Adswork.com will not knowingly collect or use personal identifiable information from children or individuals younger than 18. 
+
+Information Collected Email address Other forms of electronic address (Web site, ICQ number, AIM id)
+
+On some pages, you can submit information about other people. For example, if you order a gift online or send an email to someone from Adswork.com Web site and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+
+Name
+
+Email address
+
+The Way We Use Information:
+
+We use the information you provide about someone else or yourself when placing an order or signing up for a service, only to ship the product and to confirm delivery or to provide the service. We do not share this information with outside parties except to the extent necessary to complete that order or provide that service. In cases in which we need to share the information with a third party to fulfill an order or provide a service, we will always inform you before sharing this information with these third parties, state how the information will be used by the third party by linking to their privacy statement and offer you the option to refuse to use the third party's services or products.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+We use your portfolio statistics information to enable authorized talent agencies using our online scouting service to search through our database of members. This information is never tied to any personal identifying information about you during the search except for your first name, initial of last name, photographs and your general location (State + Country.) When an agency contacts you through our scouting system you can accept or decline to respond. If you do not respond the agency will not have access to any additional personal identifying information about you. If you accept, only the information you voluntarily disclose will be available to the agency.
+
+Information you submit on our Web site will not be used for this purpose unless you fill out the registration form and select to receive these updates on our new products and services.
+
+We use non-identifying and aggregate information to better design our Web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+Emoral.com affiliated with Adswork.com may collect your personal information. A link to each company's privacy policy is included below for your information. Please note that in no case does Adswork.com share your personal information with any third party.
+
+Opting-out of email announcements and marketing: Adswork.com User/Buyer or User/Advertiser can select to opt-in or opt-out of receiving announcements and promotions from Adswork.com by emailing us at support@adswork.com.
+
+At any time, you may later review or update ALL the personal information we have collected online from you by logging on to http://www.Adswork.com and clicking "edit posted advertising" for your account information or "portfolios" for our Adswork.com portfolio information.
+
+To delete your advertising information from the Adswork.com servers you need to cancel your posted advertising.. 
+
+Our Commitment To Data Security To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+ADVERTISERS ON Adswork.com All users accessing the Adswork.com Web site, and viewing advertisements on Adswork.com�s Web pages, retain complete anonymity where Adswork.com is concerned. As ads are delivered Adswork.com does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. Adswork.com does, however, collect information which is specific to how you use the Internet. Adswork.com servers note details such as the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ad's effectiveness on behalf of Adswork.com advertising clients and customers.
+
+The Cookie Principle
+
+Adswork.com may use cookies to improve your Web browsing experience. When you first access a Adswork.com Web page with or without an ad on it, Adswork.com or its advertising client may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to measure the popularity of the different sections of the site, and to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute or which articles on the site are more popular. Likewise, the cookie can help make sure you do not see the same ad over and over and can also help us improve the Adswork.com Web site content and features based on user�s actual usage of the site - thus enhancing your online Web viewing experience. If you refuse a cookie, you can still use Adswork.com but your experience may differ from those individuals using cookies.
+
+3rd Party Measurement Services Often, advertisers will employ a third-party measurement service other than Adswork.com for tracking the performance of an ad program. In these instances, Adswork.com has no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact us at support@adswork.com
+
+Disclosure
+
+Adswork.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to us at support@adswork.com
+
+Adswork.com reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. This Privacy notice was last updated on April 7, 2008 and is deemed effective as of this date.
+
+� 2008, Adswork.com
