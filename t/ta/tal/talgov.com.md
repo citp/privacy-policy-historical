@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225201541id_/http%3A//talgov.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623184025id_/http%3A//www.talgov.com/privacy.cfm) for the most accurate reproduction.*
 
-# Talgov.com - Privacy Policy
-
-##### Talgov.com Privacy Policy
+# Privacy Policy - Talgov.com
 
 The following pertains to all pages within the Talgov.com domain:
 
@@ -47,4 +45,7 @@ As a general rule, Talgov.com does not disclose any personally identifiable info
 Talgov.com contains links to other sites. These sites follow their own privacy policy, and are not bound by this document. Any site outside of the Talgov.com domain is subject to its own guidelines, and should not be viewed as a part of the City's site.
 
 **How to contact us**  
-If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20071225201541id_/http%3A//talgov.com/email.cfm?id=webmaster) .
+If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20080623184025id_/http%3A//www.talgov.com/email.cfm?id=webmaster).
+
+  
+ 
