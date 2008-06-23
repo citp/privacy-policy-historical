@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222014831id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623085956id_/http%3A//legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
 
 # Legit Online Jobs - Privacy Policy
 
  
-
-[ ](http://www.truste.org/ivalidate.php?url=www.legitonlinejobs.com&sealid=101)
-
-Legit Online Jobs is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [ http://www.legitonlinejobs.com](http://www.legitonlinejobs.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Ross Belgrave at [contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
   
 Sharing Personal Information with Third Parties:  
@@ -107,5 +101,5 @@ Legit Online Jobs reserves the right to change this privacy policy at any time.
 
 This Privacy Policy was last revised on Jul 15, 2007.
 
-Copyright © 2007 Legit Online Jobs. All rights reserved.  
+Copyright © 2008 Legit Online Jobs. All rights reserved.  
 1901 60th Place E. Suite L9419, Bradenton, Florida 34203, United States
