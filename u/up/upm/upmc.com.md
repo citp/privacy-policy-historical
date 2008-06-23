@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225175856id_/http%3A//www.upmc.com/NoticeOfPrivacyPractice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623035644id_/http%3A//www.upmc.com/NoticeOfPrivacyPractice.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Practices, University of Pittsburgh Medical Center, Pittsburgh, PA, USA
 
 |    
-[](http://printfriendly.upmc.com/print.asp?ref=https://web.archive.org/web/20071225175856id_/http%3A//www.upmc.com/NoticeOfPrivacyPractice.htm "Print")   
+[](http://printfriendly.upmc.com/print.asp?ref=https://web.archive.org/web/20080623035644id_/http%3A//www.upmc.com/NoticeOfPrivacyPractice.htm "Print")   
 UPMC's Notice of Privacy Practices  
  
 
-[Notice of Privacy Practices](https://web.archive.org/web/20071225175856id_/http%3A//www.upmc.com/Pdf/HipaaPrivacyNotice.pdf "Use this link to read a pdf document on UPMC's Notice of Privacy Practices") (pdf file)  
-[List of Entities Covered by UPMC's Notice of Privacy Practices](https://web.archive.org/web/20071225175856id_/http%3A//www.upmc.com/HIPAAEntities.htm "Use this link to view a list of entities covered by UPMC's Notice of Privacy Practices")  
+[Notice of Privacy Practices](https://web.archive.org/web/20080623035644id_/http%3A//www.upmc.com/Pdf/HipaaPrivacyNotice.pdf "Use this link to read a pdf document on UPMC's Notice of Privacy Practices") (pdf file)  
+[List of Entities Covered by UPMC's Notice of Privacy Practices](https://web.archive.org/web/20080623035644id_/http%3A//www.upmc.com/HIPAAEntities.htm "Use this link to view a list of entities covered by UPMC's Notice of Privacy Practices")  
 Full Notice
 
 **Summary  
