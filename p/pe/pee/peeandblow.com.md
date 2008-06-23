@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peeandblow.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114724id_/http%3A//peeandblow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peeandblow.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623170816id_/http%3A//peeandblow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
