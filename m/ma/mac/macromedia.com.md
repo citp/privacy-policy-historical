@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217025704id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623203351id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.*
 
 # Adobe - Online Privacy Policy
 
