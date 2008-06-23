@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantdollarz.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantdollarz.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623101150id_/http%3A//www.instantdollarz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: InstantDollarz Media
 
@@ -8,7 +8,7 @@ InstantDollarz Inc. and its affiliated and subsidiary companies and sites (herea
 
 Revision Date: June 7, 2007 
 
-This Privacy Policy is incorporated into and is subject to the InstantDollarz.com’s Terms of Use. Your use of the InstantDollarz.com Site remains subject to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/terms.html). InstantDollarz reserves the right to change or modify this policy at any time, with any change being effective immediately upon posting on this website. InstantDollarz is the sole owner of the information collected on this site. We will collect and use information throughout this website only as described in this Privacy Policy. By using this Site, You signify Your acceptance of this Policy. If You do not agree to the terms of this Policy, in whole or part, You may not use this Site. 
+This Privacy Policy is incorporated into and is subject to the InstantDollarz.com’s Terms of Use. Your use of the InstantDollarz.com Site remains subject to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20080623101150id_/http%3A//www.instantdollarz.com/terms.html). InstantDollarz reserves the right to change or modify this policy at any time, with any change being effective immediately upon posting on this website. InstantDollarz is the sole owner of the information collected on this site. We will collect and use information throughout this website only as described in this Privacy Policy. By using this Site, You signify Your acceptance of this Policy. If You do not agree to the terms of this Policy, in whole or part, You may not use this Site. 
 
 I. INFORMATION COLLECTION 
 
@@ -61,4 +61,4 @@ Philadelphia, PA 19105
 
 X. ACCEPTANCE OF PRIVACY POLICY. 
 
-Your use of the InstantDollarz sites, including any dispute concerning privacy, is subject to this Privacy Policy and InstantDollarz’s [Terms of Use](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/terms.html). By using these InstantDollarz sites, You are accepting the practices set out in this privacy policy and the terms of use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the policy has been modified since You last reviewed it. Your continued use of any portion of the InstantDollarz sites following posting of the updated Privacy Policy will constitute Your acceptance of the changes. 
+Your use of the InstantDollarz sites, including any dispute concerning privacy, is subject to this Privacy Policy and InstantDollarz’s [Terms of Use](https://web.archive.org/web/20080623101150id_/http%3A//www.instantdollarz.com/terms.html). By using these InstantDollarz sites, You are accepting the practices set out in this privacy policy and the terms of use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the policy has been modified since You last reviewed it. Your continued use of any portion of the InstantDollarz sites following posting of the updated Privacy Policy will constitute Your acceptance of the changes. 
