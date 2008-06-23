@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nurseryadmissions.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225171430id_/http%3A//www.nurseryadmissions.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.nurseryadmissions.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurseryadmissions.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623174432id_/http%3A//www.nurseryadmissions.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.nurseryadmissions.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Nursery Admissions
 
