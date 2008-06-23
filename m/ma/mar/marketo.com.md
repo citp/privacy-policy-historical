@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221030051id_/http%3A//www.marketo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623035532id_/http%3A//www.marketo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Marketo | On-demand solution for B2B lead generation
-
-Marketo, Inc. ("Marketo" or "We") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Marketo has created this privacy statement ("Statement") in order to demonstrate our commitment to your privacy. Please read the following to learn more about our privacy policy. 
-
-By accessing the Marketo website at [www.marketo.com](http://www.marketo.com/), including all related pages ("Site"), including any subscription based features or services offered by Marketo through the Site or through app.marketo.com (collectively, the "Service"), you are accepting the practices outlined in this Statement. 
 
 ### What Does This Privacy Policy Cover?
 
