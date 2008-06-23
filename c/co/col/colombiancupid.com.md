@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225120106id_/http%3A//www.colombiancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623112132id_/http%3A//www.colombiancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
-# ColombianCupid.com - Colombian Dating, Singles and Personals
+# ColombianCupid.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
