@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultvideolink.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061018id_/http%3A//www.adultvideolink.com/avlstore/pops/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultvideolink.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623035914id_/http%3A//www.adultvideolink.com/avlstore/pops/privacy_policy.htm) for the most accurate reproduction.*
 
 # AdultVideoLink.COM - Privacy Policy
 
