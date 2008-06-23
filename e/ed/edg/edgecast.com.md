@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edgecast.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213094034id_/http%3A//edgecast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgecast.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623085127id_/http%3A//www.edgecast.com/privacy.htm) for the most accurate reproduction.*
 
-# Edgecast - Privacy Policy
+# Content Delivery Network (CDN) || Streaming Video, Audio and Media ||Edgecast - Privacy Policy
 
 Privacy Policy
 
