@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225170740id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623193628id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
 
 # IIR USA - Large Scale Events, Conferences, Seminars - Solutions, Skills, and Knowledge
 
