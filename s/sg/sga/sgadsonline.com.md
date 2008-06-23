@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225083915id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623060756id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy::Singapore Classifieds for jobs, personals, apartments, properties, cars, for sale, community, education, music and events
 
