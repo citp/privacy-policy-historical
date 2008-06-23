@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224015112id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623213423id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
 
 # NAFSA - Privacy Policy
 
-### January 2002
+#### January 2002
 
 NAFSA respects the privacy of its members and other visitors to its Web site. NAFSA strongly believes that if electronic commerce and online activities are to flourish, consumers must be assured that information provided online is used responsibly and appropriately. To protect online privacy, NAFSA has implemented the following policy.
 
@@ -19,11 +19,6 @@ NAFSA does not collect any information from visitors browsing its Web site. Visi
 To gain access to members-only resources and personalization features on the NAFSA Web site, members and other visitors are asked to register and provide some limited information. These data are submitted voluntarily. NAFSA asks visitors to provide their name, member number (for members), organization name, business phone, and e-mail. Similar information may be submitted to NAFSA through membership applications, conference or seminar registration, publication orders, and subscriptions. NAFSA only uses this information to enhance its products and distribution of those products to its members.
 
 ## How Does NAFSA Use Data Collected?
-
-  
-
-
-### NAFSA Member Services and Products
 
 Generally, NAFSA uses data collected to improve its own Web content; to respond to members' interests, needs and preferences; and to develop new products and services.
 
@@ -45,4 +40,4 @@ This Web site contains links to other Web sites. NAFSA has no control over and i
 
 ## Questions?
 
-Please contact us by e-mailing to [webmaster[at]nafsa.org](mailto:webmaster@nafsa.org?subject=Privacy%20Policy%3A%20Web%20Inquiry). 
+Please contact us by e-mailing to webmaster[at]nafsa.org. 
