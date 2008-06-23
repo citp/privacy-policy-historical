@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the thecarconnection.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225114021id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecarconnection.com privacy policy that was archived on 2008-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623044332id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.-->
 
-<html><head>
+<html><head></head><body bgcolor="#FFFFFF" link="#000000" alink="#000000" vlink="#9B9B9B" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"><doctype html="" public"-="" w3c="" dtd="" 4.01="" transitional="" en"="" "http:="" www.w3.org="" tr="" html4="" loose.dtd"="">
+
+
 	<title>Privacy Statement for TheCarConnection.com - The Car Connection</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="keywords" content="car information, car shows, auto news, cars, new cars, car reviews, car buying guide, autos, auto advice, automobiles, vehicles, the car connection, tcc, car, truck, pickup, sedan, suv, sport-ute, sport-utility vehicle, minivan, jaguar, volvo, ford, general motors, gm, lincoln, mercury, mazda, review, reviews, headlight news, kelley blue book, auto shows, detroit, chicago, los angeles, l.a., la, paris, dakar">
@@ -10,8 +12,8 @@
 	 <link rel="stylesheet" href="/common/css/us/carconnect.css" type="text/css">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<script src="/__utm.js" type="text/javascript"></script>
-</head>
-<body bgcolor="#FFFFFF" link="#000000" alink="#000000" vlink="#9B9B9B" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+
 <script language="JavaScript">
 <!--
 var tcdacmd="dt";var ANVSC=document.location.href
@@ -21,21 +23,101 @@ var tcdacmd="dt";var ANVSC=document.location.href
 </script>
 
 
+<script language="JavaScript" type="text/javascript">
+
+var digg_media = 'news';
+var ieModel = false;
+var intervalId = 0;
+var resetInterval = false;
+
+addEvent(window,'load',showMenuDropDown);
+function addEvent(_target,_event,_function){
+            if (_target.addEventListener)
+                        _target.addEventListener(_event, _function, false );
+            else{
+                        _target.attachEvent('on'+_event, _function);
+                        ieModel = true;  
+            }           
+}
+
+function showMenuDropDown(){
+            var reviewstab = document.getElementById("reviewstab");
+            if(reviewstab)
+            {
+              var aTags = reviewstab.getElementsByTagName("A");
+			  intervalId = setInterval("clearTimer()",4000);
+              for(var i=0; i < aTags.length; i++)
+              {
+                        aTags[i].onmouseover = function(){var dd = document.getElementById("reviewsDrop"); dd.style.display="block";   resetInterval=true;   };
+                        aTags[i].onmouseout  = function(){ resetInterval = false;  };
+
+              }
+             
+            }
+
+}
+
+function clearTimer()
+{
+
+  if(!resetInterval)
+  {
+		
+               //clearInterval(intervalId);
+               var dd = document.getElementById("reviewsDrop"); 
+               dd.style.display="none";
+		
+  }
+
+}
+
+function ReviewsToggle1() {
+	var revEl1 = document.getElementById("reviewsflyout1");
+	var revElB1=document.getElementById("reviewsbutton1");
+	if (revEl1.className == 'hid') { 
+		 revEl1.className =''; 
+		 revElB1.className ='hid'; 
+	}
+	else 	{ 
+		revEl1.className ='hid';
+		revElB1.className =''; 
+	 }
+	
+}				
+
+			
+
+function ReviewsToggle2() {
+	var revEl2 = document.getElementById("reviewsflyout2");
+	var revElB2=document.getElementById("reviewsbutton2");
+	if (revEl2.className == 'hid') { 
+		 revEl2.className =''; 
+		 revElB2.className ='hid'; 
+	}
+	else 	{ 
+		revEl2.className ='hid';
+		revElB2.className =''; 
+	 }
+	
+}
+			
+</script>	
+
 <table width="1290" align="left" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td width="979" align="left" valign="top">
+<td width="1000" align="left" valign="top">
 
-<table width="979" align="left" cellpadding="0" cellspacing="0" border="0">
+<table width="1000" align="left" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-	<td bgcolor="#004A7E" align="left" class="header_style_bg">
+	<td bgcolor="#004A7E" align="left" class="header_style_bg"> 	
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-
+		
 		<tbody><tr>
 			<td height="131" valign="TOP">
  				<table width="100%" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
-					<td align="LEFT" valign="MIDDLE"><a href="http://www.thecarconnection.com"><img src="/g/h/us/images/header_logo_new.gif" width="235" height="131" border="0" alt="Car Reviews, Information, Shows &amp; News"></a></td>
-				
+					<td align="LEFT" valign="MIDDLE"><a href="http://www.thecarconnection.com"><img src="/g/h/us/images/logo.jpg" width="235" height="131" border="0" alt="Car Reviews, Information, Shows &amp; News"></a></td>	
+					
 						<td>
 						<table>
 						<tbody><tr><td width="732" height="94" align="CENTER" valign="MIDDLE" bgcolor="#FFFFFF"><div align="center"><!--DART  ADS 728x90  iframe  code begin -->
@@ -61,7 +143,7 @@ if (navigator.userAgent.indexOf("Gecko")==-1)
 document.write('</iframe>');
 
 
-</script><iframe id="Dart_Ad_Super" name="Dart_Ad_Super" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;tile=1;dcopt=ist;sz=728x90;ord=482811784216364160?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+</script><iframe id="Dart_Ad_Super" name="Dart_Ad_Super" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;tile=1;dcopt=ist;sz=728x90;ord=155764380704983780?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
 
 <!-- DART ADS 728x90 code end -->
  
@@ -76,21 +158,21 @@ document.write('</iframe>');
 		</tr>
   <tr>
    <td height="36" valign="middle" bgcolor="#004A7E">
-    <table width="99%" border="0" align="center" cellpadding="0" cellspacing="0" background="/g/h/us/images/ButtonBar/bg_header2.jpg">
+    <table width="99%" border="0" align="center" cellpadding="0" cellspacing="0" background="/g/h/us/images/ButtonBar/bg_header2.jpg">	
       <tbody><tr>
         <td width="9" height="26">&nbsp;</td>
-		<td width="209" class="time">Tuesday   December 25, 2007</td>
+		<td width="209" class="time">Monday   June 23, 2008</td>
  	<td width="90" class="header_news"></td>
         <td width="102">&nbsp;</td>
-	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>
+	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>	
 	  <td width="117"><a href="/Enthusiasts/Spy_Shots_and_Future_Cars/S178.html" title="Spy Shots and Future Cars: A sneak peek at future products, by TCC's staff and spies."><img src="/g/h/us/images/ButtonBar/tcc_spyshots.jpg" width="117" height="26" border="0"><span style="display: none;">TCC Spy Shots</span></a></td>
-	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>
+	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>			
 	   <td width="144"><a href="/scrapbook.asp" title="Hi-Res Photos"><img src="/g/h/us/images/ButtonBar/tcc_hires.jpg" width="144" height="26" border="0"><span style="display: none;">TCC Hi-Res Photos</span></a></td>
-	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>
+	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>		
          <td width="100"><a href="http://forum.thecarconnection.com/" title="Interact on TCC Forums"><img src="/g/h/us/images/ButtonBar/tcc_forums.jpg" width="100" height="26" border="0"><span style="display: none;">TCC Forums</span></a></td>
 	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>
           <td width="131"><a href="/subscribe.asp" title="Subscribe to TCC Newsletters"><img src="/g/h/us/images/ButtonBar/tcc_newsletters.jpg" width="131" height="26" border="0"><span style="display: none;">TCC Newsletters</span></a></td>
-	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>
+	<td width="23"><img src="/g/h/us/images/ButtonBar/tcc_div.jpg" width="23" height="26" border="0"></td>       
  <td width="47"><a href="/rss/rsslist.asp" title="Free RSS -  RSS is an easy way to be alerted when new content appears on TheCarConnection.com"><img src="/g/h/us/images/rss.gif" width="35" height="26" border="0"></a></td>
       </tr>
  </tbody></table>
@@ -98,41 +180,63 @@ document.write('</iframe>');
   </tr>
 </tbody></table>
 	</td>
-</tr>
+</tr> 
 
 <tr><td><!--Nav Start-->
 <table width="100%" height="40" border="0" cellpadding="0" cellspacing="0" class="nav_style_bg">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
+   
+        <td id="reviewstab" width="133" valign="middle"><a class="nav" href="/vehiclereviews.asp" title="REVIEWS"><div valign="middle" align="center">REVIEWS</div>
 
-        <td width="133" valign="middle"><a class="nav" href="/vehiclereviews.asp" title="REVIEWS"><div valign="middle" align="center">REVIEWS</div></a></td>
-
-        <td width="2" class="nav"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
+<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<div id="reviewsDrop">
+    <p>Select a brand:</p>
+    <ul>
+        <li><a href="/vehiclereviews.asp?Make=Buick&amp;Model=&amp;Year=">Buick</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Cadillac&amp;Model=&amp;Year=">Cadillac</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Chevrolet&amp;Model=&amp;Year=">Chevrolet</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Chrysler&amp;Model=&amp;Year=">Chrysler</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Daewoo&amp;Model=&amp;Year=">Daewoo</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Dodge&amp;Model=&amp;Year=">Dodge</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Ferrari&amp;Model=&amp;Year=">Ferrari</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Ford&amp;Model=&amp;Year=">Ford</a></li>
+        <li><a href="/vehiclereviews.asp?Make=GMC&amp;Model=&amp;Year=">GMC</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Honda&amp;Model=&amp;Year=">Honda</a></li>
+        <li><a href="/vehiclereviews.asp?Make=HUMMER&amp;Model=&amp;Year=">HUMMER</a></li>
+        <li><a href="/vehiclereviews.asp?Make=Hyundai&amp;Model=&amp;Year=">Hyundai</a></li>
+        <li class="lastRow"><a href="/vehiclereviews.asp"><strong>See all brands</strong></a></li>
+    </ul>
+</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</td>	
  
+        <td width="2" class="nav"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
+    
         <td width="133" class="nav"><a class="nav" href="/Enthusiasts/S158.html" title="ENTHUSIASTS"><div align="center">ENTHUSIASTS</div></a></td>
 
  <td width="2" class="nav" valign="middle"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
- 
+    
         <td width="133" class="nav"><a class="nav" href="/Shoppers/S163.html" title="SHOPPERS"><div align="center">SHOPPERS</div></a></td>
-
+   
         <td width="2" class="nav"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
- 
+    
         <td width="133" class="nav"><a class="nav" a="" href="/Auto_News/S156.html" title="AUTO NEWS"><div align="center">AUTO NEWS </div></a></td>
-
+  
         <td width="2" class="nav"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
-
+   
         <td width="133" class="nav"><a class="nav" a="" href="/Car_Shows/S176.html" title="CAR SHOWS"><div align="center">CAR SHOWS </div></a></td>
-
+  
         <td width="2" class="nav"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
+    
+        <td width="137" class="nav"><a class="nav" href="/Pricing/New_Car_Quote/S1171.html" title="VEHICLE PRICING"><div align="center">VEHICLE PRICING </div></a></td>
  
-        <td width="137" class="nav"><a class="nav" href="/Pricing/S1173.html" title="VEHICLE PRICING"><div align="center">VEHICLE PRICING </div></a></td>
-
         <td width="2"><img src="/g/h/us/images/nav_line.gif" width="2" height="15"></td>
-        <td width="230" valign="middle">
+        <td width="245" valign="middle">
 		<table width="215" border="0" align="center" valign="middle" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-		<form id="search1" name="search1" method="get" action="/search.asp"></form>
+		<form id="search1" name="search1" method="get" action="/search.asp"></form>	
 	  		<td width="138" valign="middle" align="center">
 			<label>
 			        <input name="q" type="text" class="loginForm">
@@ -148,34 +252,44 @@ document.write('</iframe>');
     </tbody></table>
 </td>
   </tr>
-</tbody></table><!--Nav End--><!--Breadcrumb Start-->
+</tbody></table><!--Nav End-->
+
+
 <table width="100%" height="22" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="65%" class="breadcrumb">&nbsp;You are here:&nbsp;&nbsp; <a class="DRILLHISTORY" title="HOME" href="http://www.thecarconnection.com">HOME&nbsp;»</a> <a class="DRILLHISTORY" title="Extras" href="/Extras/S160.html">EXTRAS&nbsp;»</a> <a class="DRILLHISTORY" href="/index.asp?article=164 " title="Privacy Policy">PRIVACY POLICY&nbsp;»</a></td>
-    <td width="35%" class="breadcrumb"><div align="right">
-<script type="text/javascript"><!--
-google_ad_client = "pub-4956733744046268";
-google_ad_output = "textlink";
-google_ad_format = "ref_text";
-google_cpa_choice = "CAAQnLirggIaCFQiKZMX1ZjAKOCHu4UB";
-google_ad_channel = "";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-&nbsp;&nbsp;</div></td>
+    <td width="100%" height="5"><img src="/g/d.gif" width="1" height="5" border="0"></td>
+ </tr>	
+	<tr>
+    <td width="100%" height="100" bgcolor="red" color="white" align="center" style="font-size: 26px; font-weight:bold;"><a style="text-decoration:none; color:white;" href="http://www.thecarconnection.com">TheCarConnection.com has moved!</a></td>
+  </tr>
+  <tr>
+    <td width="100%" height="30"><img src="/g/d.gif" width="1" height="30" border="0"></td>
+ </tr>	
+</tbody></table>
+
+<!--Breadcrumb Start-->
+<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="100%"><span class="breadcrumb1">&nbsp;You Are Here:&nbsp;&nbsp;</span><span class="breadcrumb"><a class="DRILLHISTORY" title="Home" href="http://www.thecarconnection.com">Home&nbsp;&gt;</a> <a class="DRILLHISTORY" title="Extras" href="/Extras/S160.html">Extras&nbsp;&gt;</a> <a class="DRILLHISTORY" href="/index.asp?article=164 " title="Privacy Policy">Privacy Policy&nbsp;&gt;</a></span><span class="breadcrumbblack">&nbsp;&nbsp;Privacy Statement for TheCarConnection.com</span></td>
+    <!-- td width="35%" class="breadcrumb"><div align="right"><googletxtad>&nbsp;&nbsp;</div></td -->
   </tr>
 </tbody></table><!--Breadcrumb End-->
+
+
 
 	<!-- BEGIN CONTENT WELL -->
 	<table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
- 	
-		<td valign="TOP" width="187" bgcolor="#e6e9ec">
+ 		
+		<td id="leftcolumn" valign="TOP" width="182" bgcolor="#e6e9ec">
 		<!-- BEGIN LEFT CALLOUTS -->
-		<table bgcolor="#e6e9ec">
-		<tbody><tr><td height="1"><img src="/g/d.gif" width="" 1"="" height="1"></td></tr>
-		<tr><td>
-		<div id="LeftTower"><div align="center"><!--DART  ADS 160x600 iframe code begin -->
+		<table bgcolor="#e6e9ec" valign="TOP" border="0">
+		
+		<tbody><tr><td valign="TOP">
+		<table width="182" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top" align="center" style="padding-top:5px;">
+<div id="LeftTower" align="center" valign="top"><div align="center"><!--DART  ADS 160x600 iframe code begin -->
 
 <script language="JavaScript" type="text/javascript">
 
@@ -190,15 +304,18 @@ if (navigator.userAgent.indexOf("Gecko")==-1)
 }
 document.write('</iframe>');
 
-</script><iframe id="Dart_Ad_Tower_Left" name="Dart_Ad_Tower_Left" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=482811784216364160?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+</script><iframe id="Dart_Ad_Tower_Left" name="Dart_Ad_Tower_Left" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=155764380704983780?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;pos=left;tile=2;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
 <!-- DART ADS 160x600 code end -->
 
 
 </div><div><img src="/g/d.gif" width="1" height="6"></div></div>
+</td>
+</tr>
+</tbody></table>
 
 
 <!-- Start: Special Crosslink to the other site -->
-<div><img src="/g/d.gif" width="1" height="10"></div><table width="187" cellpadding="0" cellspacing="0" border="0">
+<table width="187" cellpadding="0" cellspacing="0" border="0">
 
 
 
@@ -209,102 +326,15 @@ document.write('</iframe>');
 
 <!-- start small CONNECT callout -->
 
-</table><table align="center"><tbody><tr><td><center>
-<script type="text/javascript"><!--
-google_ad_client = "pub-4956733744046268";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="6111190503";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "5F86C1";
-google_color_url = "993366";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</center></td></tr></tbody></table><div><img src="/g/d.gif" width="1" height="10"></div>
-<table width="185" border="0" cellpadding="0" cellspacing="0" background="/g/h/us/images/bg_left_body.gif">
-<tbody><tr>
-<td align="center" width="185" height="21" background="/g/h/us/images/bg_left_header.gif" class="GenevaBlue14">RECENT HEADLINES</td>
-</tr>
-</tbody></table>
-<table width="185" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td>
-<table width="100%" cellpadding="8" cellspacing="1" border="0">
-<tbody><tr>
-<td valign="TOP" background="/g/h/us/images/bg_left_body.gif">
-<table width="100%" cellpadding="0" cellspacing="5" border="0" bgcolor="#ffffff"><!-- google_ad_section_start -->
-<tbody><tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Auto_News/Daily_Auto_News/Cerberus_Spins_Nardellis_Bankruptcy_Talk.S173.A13779.html" title="Turning around Chrysler could be biggest challenge.&nbsp;(12/24/2007)">Cerberus Spins Nardelli’s Bankruptcy Talk</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sportscars_Convertibles/Chevrolet_SS_Will_Mean_Performance.S184.A13778.html" title="Mini-brand to spread across lineup except ‘Vette.&nbsp;(12/24/2007)">Chevrolet: SS Will Mean Performance</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Toyota_Corolla_Road_Test.S180.A13777.html" title="Substantial improvement, but is it enough?&nbsp;(12/24/2007)">2009 Toyota Corolla Road Test</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Shoppers/Weekly_Car_Guide/Weekly_Car_Guide_Mitsubishi_Lancer_Evolution.S174.A13775.html" title="Lancer Evo, Corvette ZR1, Detroit show and Rinspeed sQuba.&nbsp;(12/21/2007)">Weekly Car Guide: Mitsubishi Lancer Evolution</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sportscars_Convertibles/2009_Mercedes-Benz_SLK_Preview.S184.A13774.html" title="Power boost and a new nose.&nbsp;(12/21/2007)">2009 Mercedes-Benz SLK Preview</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Shoppers/Car_Trivia/Car_Trivia_December_21_2007.S1156.A9786.html" title="Jan and Dean, the New Avengers, and Indy.&nbsp;(12/21/2007)">Car Trivia: December 21, 2007</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Auto_News/Daily_Auto_News/Minor_Bumps_Big_Bills.S173.A13772.html" title="Nissan Quest ranks most expensive to fix in latest round of bumper-bashing.&nbsp;(12/20/2007)">Minor Bumps, Big Bills</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sportscars_Convertibles/2008_Mitsubishi_Lancer_Evolution_First_Drive.S184.A13771.html" title="The intersection of Drag Strip and Xbox Alley. &nbsp;(12/20/2007)">2008 Mitsubishi Lancer Evolution: First Drive</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Auto_News/Daily_Auto_News/EPA_Calif_Cant_Set_CO2_Limits.S173.A13770.html" title="State will fight to set its own rules.&nbsp;(12/20/2007)">EPA: Calif. Can’t Set CO2 Limits</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/SUVs_Wagons/2008_Lexus_LX_570_Preview.S181.A12057.html" title="Climbing upscale as swiftly as it does uphill.&nbsp;(12/20/2007)">2008 Lexus LX 570 Preview</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/Chevrolet_Impala_Marks_50_Years.S180.A13769.html" title="New edition celebrates the half-century mark.&nbsp;(12/19/2007)">Chevrolet Impala Marks 50 Years</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/Sportscars_Convertibles/2009_Chevrolet_Corvette_ZR1_Preview.S184.A13768.html" title="A supercar by any name.&nbsp;(12/19/2007)">2009 Chevrolet Corvette ZR1 Preview</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Auto_News/Daily_Auto_News/BMW_Wants_You_To_Join_In_at_the_Web.S173.A13767.html" title="Web 2.0 strikes the BMWUSA.com site.&nbsp;(12/19/2007)">BMW Wants You To Join In at the Web</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Vehicle_Reviews/SUVs_Wagons/2009_Toyota_Venza_Preview.S181.A13766.html" title="Toyota surprises with a new Ky.-built crossover.&nbsp;(12/19/2007)">2009 Toyota Venza Preview</a><br></td>
-</tr>
-<tr>
-<td width="186" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaltBlue11" target="_top" href="/Auto_News/Daily_Auto_News/CAFE_Wont_End_Automakers_Troubles.S173.A13764.html" title="Calif. lawsuit could spell even bigger trouble.&nbsp;(12/18/2007)">CAFE Won’t End Automakers’ Troubles</a><br></td>
-</tr><!-- google_ad_section_end  -->
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td></tr><tr>
-<td colspan="3"><img src="/g/h/us/images/left_footer.gif" width="187" height="12"></td>
-</tr>
-
-
-<tr>
-<td><img src="/g/d.gif" width="185" height="10" border="0"></td>
-</tr>
-</tbody></table>
-
+</table></td>
 <!-- </TR>
 </TABLE> -->
 <!-- end small CONNECT callout -->
-		</td>
-		</tr></tbody></table>
-		</td><td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
-	
-		<td valign="TOP">
+		
+		</tr></tbody></table> </td>
+		<td id="leftspacer" width="12" background="#FFFFFF;"><img src="/g/d.gif" width="12" height="1" border="0"></td>
+		
+		<td valign="TOP" id="midcolumn" background="#FFFFFF;" style="background-color:#FFFFFF;">
 		<!-- BEGIN BODY -->
 <script language="javascript">
 		function zoom(isrc) { zw = window.open('/zoom-image.asp?' + isrc,'zw','height=530,width=740,toolbar=no,scrollbars=yes,menubar=no,resizable=yes,location=yes'); zw.focus(); }
@@ -313,13 +343,17 @@ google_color_text = "000000";
 		</script><table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0" class="top_stories_style_bg">
+<table width="100%" cellpadding="4" cellspacing="0" border="0" class="features_style_bg">
 <tbody><tr>
 <td height="35">
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td><img src="/g/d.gif" width="4" height="1" border="0"></td>
-<td><span class="H1">Privacy Statement for TheCarConnection.com</span></td>
+<td width="300" align="left" valign="middle" class="H2Orange">PRIVACY POLICY</td>
+<td width="300" align="right" valign="middle" id="pageNumbersTop"></td>
+</tr>
+<tr><td colspan="2"><img src="/g/d.gif" width="1" height="3" border="0"></td></tr>
+<tr>
+<td width="100%" colspan="4"><span class="H1BLACK">Privacy Statement for TheCarConnection.com</span></td>
 </tr>
 </tbody></table></td>
 </tr>
@@ -328,51 +362,53 @@ google_color_text = "000000";
 <td><img src="/g/d.gif" width="4" height="1" border="0"></td>
 </tr>
 <tr>
-<td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<td bgcolor="#FFFFFF" width="622">
+<table border="0" cellspacing="4" cellpadding="0" width="622">
 <tbody><tr>
-<td bgcolor="#FFFFFF">
-<table border="0" cellspacing="0" cellpadding="0">
+<td align="left" width="100%" colspan="2">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="border-style: solid none; border-color: rgb(204, 204, 204); border-width: 1px 0;">
 <tbody><tr>
-<td width="611" class="ARTICLE_BYLINE" valign="middle">
-<div valign="middle"><span class="ARTICLE_DATE">
-							(2000-10-03)
-						</span>
-						&nbsp;
-					
-					<a class="icons" onmouseover="window.status='Email TCC'; return true;" onmouseout="window.status=''; return true;" href="/contact/index.asp?AuthorID=83" title="Email TCC"><img src="/g/h/us/images/icon_email.gif" width="13" height="13" border="0">Email TCC</a>
-					&nbsp;&nbsp;<a class="icons" onmouseover="window.status='Send to a Friend'; return true;" onmouseout="window.status=''; return true;" href="javascript:sendfriend();" title="Send to a Friend"><img src="/g/h/us/images/icon_friend.gif" width="13" height="13" border="0">Send to a Friend</a>
-					&nbsp;&nbsp;<a class="icons" href="/pf/Extras/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html"><img src="/g/h/us/images/icon_print.gif " width="13" height="13" border="0" alt="Printer Friendly Version">Printer Friendly</a></div></td>
-<td width="200" align="right" valign="middle"></td>
-</tr>
-<tr><td height="5"></td></tr>
-<tr>
-<td width="611" colspan="2">
-<table border="0" width="611">
-<tbody><tr>
-<td width="33%" align="left" height="24" valign="bottom"><a title="Post this story to del.icio.us" href="http://del.icio.us/post" class="icons" onmouseover="window.status='Post this story to del.icio.us'; return true;" onmouseout="window.status=''; return true;" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/images/delicious.gif" width="119" height="22" border="0"></a></td>
-<td width="33%" align="center" valign="middle"></td>
-<td align="right" width="33%" height="24"><script type="text/javascript">
-					digg_title = 'Privacy Statement for TheCarConnection.com';
-					digg_bodytext = '';
-					digg_topic = 'business_finance';
-					digg_skin = 'compact';
-					</script><script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script></td>
+<td align="center"><a class="icons" onmouseover="window.status='Email TCC'; return true;" onmouseout="window.status=''; return true;" href="/contact/index.asp?AuthorID=83" title="Email TCC"><img src="/g/h/us/images/email_tcc.gif" width="67" height="20" border="0"></a></td>
+<td align="center"><img src="/g/h/us/images/list_line.gif" width="2" height="20" border="0"></td>
+<td align="center"><a class="icons" onmouseover="window.status='Send to a Friend'; return true;" onmouseout="window.status=''; return true;" href="javascript:sendfriend();" title="Send to a Friend"><img src="/g/h/us/images/send_to_friend.gif" width="101" height="20" border="0"></a></td>
+<td align="center"><img src="/g/h/us/images/list_line.gif" width="2" height="20" border="0"></td>
+<td align="center"><a class="icons" href="/pf/Extras/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html"><img src="/g/h/us/images/printer_friendly.gif " width="91" height="20" border="0" alt="Printer Friendly Version"></a></td>
+<td align="center"><img src="/g/h/us/images/list_line.gif" width="2" height="20" border="0"></td>
+<td align="center"><a title="Post this story to del.icio.us" href="http://del.icio.us/post" class="icons" onmouseover="window.status='Post this story to del.icio.us'; return true;" onmouseout="window.status=''; return true;" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http://www.thecarconnection.com/Extras/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;title='+encodeURIComponent(document.title),'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/g/h/us/images/delicious.gif" width="67" height="20" border="0"></a></td>
+<td align="center"><img src="/g/h/us/images/list_line.gif" width="2" height="20" border="0"></td>
+<td align="center"><a title="Digg It" href="http://digg.com/submit" class="icons" onmouseover="window.status='Digg This'; return true;" onmouseout="window.status=''; return true;" onclick="window.open('http://digg.com/submit?url=http://www.thecarconnection.com/Extras/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;title=Privacy Statement for TheCarConnection.com&amp;bodytext=&amp;topic=business_finance&amp;media=news' ,'diggit','toolbar=no,scrollbars=yes,resize=yes'); return false;"><img src="/g/h/us/images/dig_this.gif" width="66" height="20" border="0"></a></td>
+<td align="center"><img src="/g/h/us/images/list_line.gif" width="2" height="20" border="0"></td>
+<td align="center"><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url = 'http://www.thecarconnection.com/Extras/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html'; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="/g/h/us/images/addthis.jpg" width="66" height="20" border="0" alt="AddThis Social Bookmark Button"></a><script type="text/javascript">var addthis_pub = 'thecarconnection';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="611"><img src="/g/h/us/images/line_gray.gif" width="611" border="0" height="1"></td>
+<td width="100%" colspan="2">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="byline" style="margin-top:5px;">
+<tbody><tr>
+<td width="360" class="ARTICLE_BYLINE" valign="middle" align="left">
+<div valign="middle">
+<div class="ARTICLE_DATE">Thursday, November 16, 2000 at   2:20PM</div>
+</div></td>
+<td width="150"></td>
+<td width="150"></td>
+</tr>
+<tr><td colspan="3" height="8"><img src="/g/d.gif" width="1" height="8" border="0"></td></tr>
+</tbody></table>
+</td>
 </tr>
 </tbody></table>
 </td></tr><tr>
-<td bgcolor="#FFFFFF"><!--DART  ADS Sponsor  468x84   code begin --> 
+<td bgcolor="#FFFFFF" colspan="2">
+<table width="100%" border="0" cellpadding="4">
+<tbody><tr><td>
+<div align="center"><!--DART  ADS Sponsor  468x84   code begin --> 
 <br>
 <center>
 <script language="JavaScript">
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/carconnection.tmus/S228;tile=3;sz=468x84;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/carconnection.tmus/S228;tile=3;sz=468x84;ord=482811784216364160?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/carconnection.tmus/S228;tile=3;sz=468x84;ord=155764380704983780?"></script>
 <script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/carconnection.tmus/S228;tile=3;sz=468x84;ord=' + ord + '?" TARGET="_blank">');
@@ -387,138 +423,332 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 <!-- DART ADS 468x84 code end -->
 
 
-<span id="intelliTXT"> <p>TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site. </p> <p>You can visit TheCarConnection.com without having to identify yourself or reveal any personal information. </p> <p>If you choose to identify yourself (by providing identifiable personal information), you can be assured such information will be used only to improve our ability to serve you. That information will not be passed to any third-party vendors, affiliates or associates unless you are expressly asked, and then specifically authorize such use.</p> <p>This statement <i><b>does not apply</b></i> to advertisers, vendors or others who appear on our website but who operate independently of TheCarConnection.com. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.</p> <p><em><strong>What May TheCarConnection.com Collect?</strong> </em></p> <p>At various times, readers may be asked to provide information such as personal or professional interests, demographics, comments on their experience with our site and/or services. Such data may be used to help us improve our content and services, to allow readers to participate in site-related activities and events, or to receive mailings, news and other updates, such as the regular WhatsNew@TheCarConnection.com mailing. </p> <p>As such, that information may be used to provide the stated services or, on an aggregate basis, to compile demographic profiles that might be used for advertising purposes. Under no conditions would TheCarConnection.com provide data identifying specific individuals in the absence of your express approval, given by the reader at the time such data was collected. TheCarConnection.com will not sell, rent or lease its mailing lists or personal information files. </p> <p>Should you authorize our use of any personal data, whether for the site. s mailing lists or other purposes, you will have a right to update or to opt out using clearly stated procedures. <br><em><strong><br>What Are Our Policies Regarding Third Parties?</strong> </em></p> <p>Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave TheCarConnection.com. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies. </p> <p>Advertisers, survey groups and those linked to or from TheCarConnection.com may seek to obtain additional information from readers. As such, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. Such information will not be gathered by or on behalf of TheCarConnection.com unless clearly authorized and stated in such solicitations. If you choose to do business with vendors in TheCarConnection.com. s TCC Mall, for example, you may be asked to provide such parties with personal information, including credit and credit card data. <i><b>Such actions will be covered only by that party' s own privacy policy.</b></i></p> <p>As such, if you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.<br><br><em><strong>What About "Cookies"?</strong> </em></p> <p>"Cookies" are small pieces of information that my be served to you while visiting a Web site, and which are then stored on your computer's hard drive.</p> <p>It is possible you will be served cookies by advertisers on TheCarConnection site. It has become a standard practice in the Internet community, one which most advertisers insist on. TheCarConnection has no control over such advertiser policies and does not normally participate in this practice. At times, an advertiser may choose to share broad demographic data, (but not personally identifying information), collected through such Cookies with TCC in order to develop an overview of the site and its users. </p> <p>Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept Cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site.</p> <p><b><em>Third Party Advertising</em></b><b><i><br></i></b><br><font color="#000000">We use MaxOnline, AlmondNet and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=49" target="_blank">AlmondNet</a>, <a href="http://www.maxonline.com/privacy_policy/index.php" target="_blank">MaxOnline</a> or <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--></font></p> <p><b><em>Third Party Cookies </em><br></b><br>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br><br><em><strong>How May Readers Communicate With Us?</strong> </em></p> <p>As noted, you have the right to opt out of any services or update any data collected by TheCarConnection.com. Where appropriate, such as with the WhatsNew@TheCarConnection.com mailing, specified procedures to update your personal information or opt out of the service may be spelled out. </p> <p>Other requests, comments or questions may be addressed to us by e-mail at <a href="mailto:Letters@TheCarConnection.com"><font color="#000000">Letters@TheCarConnection.com</font></a>. You may also correspond by standard post at Privacy Policy, TheCarConnection.com, 22 Cambridge Blvd., Pleasant Ridge, MI 48069.</p> <p>&nbsp;</p> <p><a href="/index.asp?article=166 "><font color="#000000">Contact Information</font> </a></p><table width="100%"><tbody><tr><td width="50%" align="left"></td><td width="50%" align="right"></td></tr></tbody></table><table width="100%"><tbody><tr><td width="100%" align="right"><div align="right" id="prevtoc"><span><a class="paging1" href="/Extras/Privacy_Policy/S228.html" title="">More Stories in Privacy Policy &gt;&nbsp;</a></span></div></td></tr></tbody></table></span><table width="100%" border="0">
-<tbody><tr><td height="5"></td></tr>
+</div><span id="intelliTXT"><!--INFOLINKS_ON--> <p>TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site. </p> <p>You can visit TheCarConnection.com without having to identify yourself or reveal any personal information. </p> <p>If you choose to identify yourself (by providing identifiable personal information), you can be assured such information will be used only to improve our ability to serve you. That information will not be passed to any third-party vendors, affiliates or associates unless you are expressly asked, and then specifically authorize such use.</p> <p>This statement <i><b>does not apply</b></i> to advertisers, vendors or others who appear on our website but who operate independently of TheCarConnection.com. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.</p> <p><em><strong>What May TheCarConnection.com Collect?</strong> </em></p> <p>At various times, readers may be asked to provide information such as personal or professional interests, demographics, comments on their experience with our site and/or services. Such data may be used to help us improve our content and services, to allow readers to participate in site-related activities and events, or to receive mailings, news and other updates, such as the regular WhatsNew@TheCarConnection.com mailing. </p> <p>As such, that information may be used to provide the stated services or, on an aggregate basis, to compile demographic profiles that might be used for advertising purposes. Under no conditions would TheCarConnection.com provide data identifying specific individuals in the absence of your express approval, given by the reader at the time such data was collected. TheCarConnection.com will not sell, rent or lease its mailing lists or personal information files. </p> <p>Should you authorize our use of any personal data, whether for the site. s mailing lists or other purposes, you will have a right to update or to opt out using clearly stated procedures. <br><em><strong><br>What Are Our Policies Regarding Third Parties?</strong> </em></p> <p>Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave TheCarConnection.com. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies. </p> <p>Advertisers, survey groups and those linked to or from TheCarConnection.com may seek to obtain additional information from readers. As such, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. Such information will not be gathered by or on behalf of TheCarConnection.com unless clearly authorized and stated in such solicitations. If you choose to do business with vendors in TheCarConnection.com. s TCC Mall, for example, you may be asked to provide such parties with personal information, including credit and credit card data. <i><b>Such actions will be covered only by that party' s own privacy policy.</b></i></p> <p>As such, if you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.<br><br><em><strong>What About "Cookies"?</strong> </em></p> <p>"Cookies" are small pieces of information that my be served to you while visiting a Web site, and which are then stored on your computer's hard drive.</p> <p>It is possible you will be served cookies by advertisers on TheCarConnection site. It has become a standard practice in the Internet community, one which most advertisers insist on. TheCarConnection has no control over such advertiser policies and does not normally participate in this practice. At times, an advertiser may choose to share broad demographic data, (but not personally identifying information), collected through such Cookies with TCC in order to develop an overview of the site and its users. </p> <p>Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept Cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site.</p> <p><b><em>Third Party Advertising</em></b><b><i><br></i></b><br><font color="#000000">We use MaxOnline, AlmondNet and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=49" target="_blank">AlmondNet</a>, <a href="http://www.maxonline.com/privacy_policy/index.php" target="_blank">MaxOnline</a> or <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--></font></p> <p><b><em>Third Party Cookies </em><br></b><br>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br><br><em><strong>How May Readers Communicate With Us?</strong> </em></p> <p>As noted, you have the right to opt out of any services or update any data collected by TheCarConnection.com. Where appropriate, such as with the WhatsNew@TheCarConnection.com mailing, specified procedures to update your personal information or opt out of the service may be spelled out. </p> <p>Other requests, comments or questions may be addressed to us by e-mail at <a href="mailto:Letters@TheCarConnection.com"><font color="#000000">Letters@TheCarConnection.com</font></a>. You may also correspond by standard post at Privacy Policy, TheCarConnection.com, 22 Cambridge Blvd., Pleasant Ridge, MI 48069.</p> <p>&nbsp;</p> <p><a href="/index.asp?article=166 "><font color="#000000">Contact Information</font> </a></p><!--INFOLINKS_OFF--></span></td></tr></tbody></table>
+</td></tr>
 <tr>
-<td width="33%" height="26" colspan="1" align="left" valign="middle"><a title="Post this story to del.icio.us" href="http://del.icio.us/post" class="icons" onmouseover="window.status='Post this story to del.icio.us'; return true;" onmouseout="window.status=''; return true;" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/images/delicious.gif" width="119" height="22" border="0"></a></td>
-<td width="33%" align="center"></td>
-<td width="33%" align="right"><script type="text/javascript">
-						digg_title = 'Privacy Statement for TheCarConnection.com';
-						digg_bodytext = '';
-						digg_topic = 'business_finance';
-						digg_skin = 'compact';
-						</script><script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script></td>
+<td width="100%">
+<table>
+<tbody><tr>
+<td width="150" valign="middle" align="left"></td>
+<td width="150" valign="middle" align="left"></td>
+<td width="315" align="right" valign="middle" id="pageNumbers"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr><td align="left" width="50%"><table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td width="622" bgcolor="#FFFFFF" valign="TOP">
+<table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="TOP" bgcolor="#FFFFFF" class="breakout" colspan="2"><div><p>Other Recent Auto News</p></div></td>
+</tr>
+<tr>
+<td valign="TOP" bgcolor="#FFFFFF"><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Daily_Auto_News_Jan_18_2008.S173.A13836.html" title="Daily Auto News: Jan. 18, 2008: Chicago show preview, BMW Ms priced.">Daily Auto News: Jan. 18, 2008</a><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Daily_Auto_News_Jan_17_2008.S173.A13834.html" title="Daily Auto News: Jan. 17, 2008">Daily Auto News: Jan. 17, 2008</a><a class="OtherLink" href="/Auto_News/Daily_Auto_News/2009_Kia_Borrego_Preview.S173.A13389.html" title="2009 Kia Borrego Preview: New seven-seating coming to Detroit show.">2009 Kia Borrego Preview</a><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Daily_Auto_News_Jan_10_2008.S173.A13810.html" title="Daily Auto News: Jan. 10, 2008">Daily Auto News: Jan. 10, 2008</a></td>
+<td valign="TOP" bgcolor="#FFFFFF"><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Carmakers_Trying_to_Avoid_Incentives.S173.A13802.html" title="Carmakers Trying to Avoid Incentives: The good news: lots aren’t overflowing.">Carmakers Trying to Avoid Incentives</a><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Farley_Wants_More_Fords_Soon.S173.A13801.html" title="Farley Wants More Fords Soon: Company trying to launch new vehicles sooner.">Farley Wants More Fords Soon</a><a class="OtherLink" href="/Auto_News/Daily_Auto_News/Daily_Auto_News_Jan_4_2008.S173.A13792.html" title="Daily Auto News: Jan. 4, 2008: Camaro spy shots, Detroit update, mechanic answers.">Daily Auto News: Jan. 4, 2008</a><a class="SeeAll" href="/new_articles.asp" title="See all Recent Headlines">
+								See all Recent Headlines</a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><img src="/g/d.gif" width="1" height="20" border="0"></td>
 </tr>
 </tbody></table>
 </td></tr>
-
-
-</tbody></table></td>
-</tr>
-<tr><td width="100%"><table width="611" height="150" valign="TOP" align="CENTER" cellpadding="0" cellspacing="0" border="0" bordercolor="#bcbcbc" style="border-collapse: collapse;"><tbody><tr><td align="CENTER" valign="TOP"><iframe id="iFrameShop" name="iFrameShop" frameborder="0" scrolling="NO" src="/shopper2.asp" width="611" height="150"></iframe></td></tr><tr><td><img src="/g/h/us/images/table_shadow.jpg" width="611" height="11"></td></tr></tbody></table></td></tr>
-<tr><td width="100%"><table width="611" border="0" cellpadding="0" cellspacing="0" class="features_style_bg">
+<tr>
+<td align="center" valign="TOP" bgcolor="#FFFFFF" colspan="4"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="features_style_bg">
 <tbody><tr>
-<td width="290" height="41"><span class="H1">&nbsp;FEATURES</span></td>
-<td colspan="2">&nbsp;</td>
-<td width="12">&nbsp;</td>
+<td width="2"><img src="/g/d.gif" width="2" height="1" border="0"></td>
+<td height="31" class="H1BLOG">CAR REVIEWS</td>
 </tr>
 </tbody></table>
-<table width="611" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td width="390" bgcolor="#FFFFFF" valign="TOP">
+<table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="TOP" align="LEFT" bgcolor="#FFFFFF">
+<div align="LEFT" valign="TOP"><a class="GenevaBlue" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Dodge_Challenger_R_T_Preview.S180.A13945.html" title="2009 Dodge Challenger R/T Preview: Muscle for every budget."><img src="/images/gallery/tmb2/12871_MTNVPDEJSZGQR.jpg" border="0"></a></div>
+</td>
+<td valign="TOP" align="LEFT" bgcolor="#FFFFFF">
+<div align="LEFT" valign="TOP"><span class="ReviewsBoxTitle">Latest Reviews:</span></div>
+<div align="LEFT" valign="TOP"><a class="ReviewsBoxLink" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Dodge_Challenger_R_T_Preview.S180.A13945.html" title="2009 Dodge Challenger R/T Preview: Muscle for every budget.">2009 Dodge Challenger R/T Preview</a></div>
+<div align="LEFT" valign="TOP"><a class="ReviewsBoxLink" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Nissan_Maxima_Preview.S180.A13942.html" title="2009 Nissan Maxima Preview: A rebirth of the sports sedan?">2009 Nissan Maxima Preview</a></div>
+<div align="LEFT" valign="TOP"><a class="ReviewsBoxLink" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Acura_TSX_Preview.S180.A13941.html" title="2009 Acura TSX Preview: Taking entry-level upscale.">2009 Acura TSX Preview</a></div>
+<div align="LEFT" valign="TOP"><a class="ReviewsBoxLink" href="/Vehicle_Reviews/Sedans_Coupes_and_Hatchbacks/2009_Pontiac_Solstice_Coupe.S180.A13939.html" title="2009 Pontiac Solstice Coupe : Pontiac tops off its little roadster">2009 Pontiac Solstice Coupe </a></div><br><div align="right"><a class="ReviewsBoxLinkAll" href="/vehiclereviews.asp" title="See all Reviews">
+			See all Reviews</a></div><br></td>
+</tr>
+</tbody></table>
+</td>
+<td id="reviewsboxspacer" width="16" bgcolor="#FFFFFF"></td>
+<td width="216" bgcolor="#FFFFFF" valign="TOP">
+<form action="/vehiclereviews.asp" name="FrmRevs" id="FrmRevs" method="Get">
+<table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="TOP" bgcolor="#FFFFFF" class="ReviewsBoxTitle">Find Reviews:</td>
+</tr><script language="JavaScript" type="text/javascript">
+var make = new Array();
+make[1] = new Array('3.2 CL','3.2 CL Type-S','3.2CL Type S','3.2TL','3.2TL Type S','CL','CL Type S','Integra GS-R','MDX','NSX','RDX','RL','RSX','RSX Type-S','TL','TL Type-S','TSX');
+make[2] = new Array('Competizione');
+make[3] = new Array('DB9','DBS','V12 Vanquish','V8 Vantage','V8 Vantage Roadster');
+make[4] = new Array('A3','A3 3.2 quattro S-line','A3 Sportback','A4','A4 1.8T','A4 Avant','A4 Cabriolet','A5','A6','A6 3.2 quattro','A6 4.2','A6 Avant 3.2 quattro','A8','A8L','A8L 4.2 quattro','allroad','allroad quattro','Q7','R8','R8 V12 TDI concept','RS4','RS4 Cabriolet','RS6','S4','S4 2.7T Avant','S4 Cabriolet','S5','S6','S6 Avant','S8','TT','TT 3.2 quattro roadster','TT Roadster','TTS');
+make[5] = new Array('Arnage','Arnage Series Two','Arnage T','Brooklands','Continental Flying Spur','Continental GT','Continental GT Speed','Continental GTC','Continental R','Flying Spur');
+make[6] = new Array('1-Series','1-Series Cabriolet','1-Series Coupe','128i Convertible','3-Series','3-Series Convertible','3-Series Convertible and Sport Wagon','3-Series Sport Wagon','3-Series Touring','323Ci and 328Ci','325xi Sport Wagon','330i','335i','335i Convertible','335i Coupe','5-Series','530i','6-Series','645Ci','650i','7-Series','745i','750i','760Li','M3','M3 Convertible','M3 SMG','M5','M6','X3','X5','X5 3.0i','X5 4.4i','X5 4.6is','X5 4.8i','X6','Z4','Z4 M','Z4 M Coupe','Z4M','Z8');
+make[7] = new Array('Veyron','Veyron Fbr','Veyron Pur Sang');
+make[8] = new Array('Century','Enclave','LaCrosse','LeSabre','Lucerne','Park Avenue','Park Avenue Ultra','Rainier','Regal','Rendezvous','Terraza');
+make[9] = new Array('Catera','Concours','CTS','CTS 3.6','CTS-V','CTSv','DeVille','DeVille DTS','DTS','DTS-L','Escalade','Escalade ESV','Escalade EXT','Escalade Hybrid','Seville','Seville STS','Sixteen','SRX','STS','STS-v','XLR','XLR-v');
+make[10] = new Array('Astro','Avalanche','Aveo','Aveo5','Blazer','Blazer Xtreme','Camaro','Camaro Z28 Convertible','Cavalier','Cobalt','Cobalt SS Supercharged','Colorado','Corvette','Corvette Conv.','Corvette Convertible','Corvette Z06','Corvette ZR1','Equinox','Express','HHR','HHR SS','Impala','Impala LS','Impala Police Car','Impala SS','Lumina','Malibu','Malibu Hybrid','Malibu Maxx','Malibu/Malibu Maxx','Monte Carlo','Monte Carlo SS','S-10 Xtreme','Sequel','Silverado','Silverado 2500 HD','Silverado HD','Silverado Hybrid','Silverado SS','Silverado/GMC Sierra Heavy Duty','SSR','Suburban','Suburban 2500','Tahoe','Tahoe Hybrid','Tracker','Trailblazer','TrailBlazer EXT','TrailBlazer SS','TrailBlazer/EXT','Traverse','Uplander','Venture');
+make[11] = new Array('300','300C SRT-8','300M','Aspen','Crossfire','Crossfire Roadster','Crossfire SRT-6','LHS','Minivans','Pacifica','Prowler','PT Cruiser','PT Cruiser Convertible','PT Dream Cruiser Series 3','PT Turbo','Sebring','Sebring Convertible','Sebring GTC','Sebring LX V-6','Sebring LXi','SRT8','Town & Country','Town & Country Limited');
+make[12] = new Array('Leganza','Leganza, Nubira, and Lanos');
+make[13] = new Array('Avenger','Avenger R/T','Caliber','Caliber SRT4','Caravan','Caravan/Grand Caravan','Challenger','Challenger Concept','Challenger R/T','Charger','Charger Daytona R/T','Charger Police Car','Charger SRT8','Dakota','Dakota Quad Cab','Dakota R/T Pickup','Durango','Durango Hybrid','Grand Caravan','Grand Caravan Sport','Intrepid SXT','Journey','Magnum','Magnum SRT8','Magnum SXT','Neon','Neon SRT-4','Nitro','Ram','Ram 1500 Sport Quad Cab','Ram 3500 4x4','Ram Heavy Duty','Ram Mega Cab','Ram Power Wagon','Ram Quad Cab','Ram SRT-10','Sprinter','Stratus','Stratus R/T','Stratus R/T Coupe','Viper','Viper ACR','Viper GTS SRT-10','Viper RT/10','Viper SRT-10','Viper SRT10 ACR');
+make[14] = new Array('360 Modena','575M Maranello','599 GTB','599 GTB Fiorano','612 Scaglietti','Challenge Stradale','F430','F430 Scuderia','F430 Spider');
+make[15] = new Array('Karma');
+make[16] = new Array('Crown Victoria','E-Series','Edge','Edge Sport','Escape','Escape HEV','Escape Hybrid','Escort ZX2','Excursion','Excursion vs. 2000 Chevy Suburban','Expedition','Expedition Funkmaster Flex Edition','Expedition XLT 4x4','Explorer','Explorer Sport Trac','F-150','F-150 4x4 SuperCrew Lariat','F-150 Foose Edition','F-150 Harley Davidson','F-150 Lightning','F-150 Roush Stage 3','F-150 SuperCrew','F-150 SVT Lightning','F-250 Super Duty','F-250/350 Super Duty','F-350 King Ranch','F-350 Power Stroke','F-350 Super Duty','F-Series Super Duty','Fiesta','Five Hundred','Flex','Focus','Focus PZEV ZX3','Focus SE Sedan','Focus SE Wagon','Focus ZTS','Focus ZTW Wagon','Focus ZX5','Freestar','Freestyle','Fusion','Futura','GT','Harley-Davidson F-150','Harley-Davidson F-150 Super Crew','King Ranch F-150','Mustang','Mustang Bullitt','Mustang Bullitt GT','Mustang Cobra R','Mustang Convertible','MUSTANG COUPE','Mustang GT','Mustang GT500','Mustang Mach 1','Mustang Shelby GT Coupe/Convertible','Mustang Shelby GT500 40th Anniversary','Mustang Shelby GT500KR','Ranger','Ranger FX4 Level II','Roush F-150 Tejon','Shelby Cobra GT500','Shelby GT500','Super Duty','SVT F-150 Lightning','SVT Focus','SVT Mustang Cobra','Taurus','Taurus Wagon','Taurus X','TH!NK Bike','Thunderbird','Transit Connect','Windstar');
+make[17] = new Array('Acadia','C3','Canyon','Denali vs. 2000 Cadillac Escalade','Envoy','Envoy XL','Envoy/XL/XUV','Safari','Savana','Sierra','Sierra 2500 HD','Sierra C-Series','Sierra Denali','Sierra HD','Sierra Hybrid','Sierra Performance Edition','Yukon','Yukon Denali','Yukon Denali XL','Yukon Hybrid','Yukon XL','Yukon/XL');
+make[18] = new Array('Accord','Accord Coupe','Accord EX','Accord Hybrid','Civic','Civic EX Coupe','Civic Hybrid','Civic Mugen Si Sedan','Civic Si','CR-V','Element','Element SC','FCX','FCX Clarity','Fit','Insight','Odyssey','Passport EX-L','Pilot','Prelude Type SH','Ridgeline','S2000');
+make[19] = new Array('General Hummer','H1','H1 Alpha','H2','H2 SUT','H3','H3T');
+make[20] = new Array('Accent','Azera','Elantra','Elantra GLS','Elantra GT','Elantra Touring','Entourage','Genesis','Genesis Coupe','Santa Fe','Santa Fe 3.5','Sonata','Tiburon','Tiburon GT V-6','Tucson','Veracruz','XG300','XG350');
+make[21] = new Array('EX','FX','FX35/45','FX45','FX50','G20','G35','G35 Coupe','G35 sedan','G35x','G37','G37 Coupe','I30','I35','M','M35/M45','M45','Q45','QX4','QX56');
+make[22] = new Array('Amigo','Ascender','Axiom','Axiom XS','i-Series','Rodeo','VehiCROSS');
+make[23] = new Array('Portfolio','S-Type','S-Type R','Super V8','X-Type','X-Type Sportwagon','XF','XJ','XJ Series','XJ8','XJ8 Vanden Plas','XJR','XJR-100 4.0 S/C','XK','XK Series','XK8','XKR','XKR Convertible','XKR-S');
+make[24] = new Array('Cherokee','Commander','Compass','Grand Cherokee','Grand Cherokee HEMI','Grand Cherokee SRT8','Liberty','Liberty Limited','Liberty Limited Diesel','Liberty Renegade','Patriot','Wrangler','Wrangler Rubicon','Wrangler Unlimited');
+make[25] = new Array('Amanti','Optima','Rio','Rio5','Rondo','Sedona','Sorento','Spectra','Spectra SX','Spectra vs. 2005 Suzuki Reno','Spectra5','Sportage');
+make[26] = new Array('Diablo','Gallardo','Gallardo LP560-4','Gallardo Spider','Gallardo Superleggera','Murcielago','Murciélago','Murcielago LP 640 Roadster','Murcielago Reventon');
+make[27] = new Array('Disco SD','Discovery','Discovery Series II','Discovery, Series II','Freelander','Freelander SE3','LR2','LR3','Range Rover','Range Rover Sport');
+make[28] = new Array('ES 300','ES300','ES330','ES350','GS','GS300/430','GS430','GS450h','GX470','IS','IS 250/IS 350','IS 300','IS-F','IS250/350','IS300','LS','LS 430','LS430','LS460','LS600h','LX 470','LX 570','LX470','RX 300 and LX 470','RX300','RX330','RX330/400h','RX350','RX400h','SC 430','SC430');
+make[29] = new Array('Aviator','Blackwood','LS','Mark LT','MKS','MKT','MKX','MKZ','Navigator','Navigator Ultimate','Town Car','Town Car Cartier L','Town Car Signature Touring Series','Zephyr');
+make[30] = new Array('Elise','Elise/Exige','Exige S');
+make[31] = new Array('Coupe','GranSport','GranSport Victory Edition','MC12','Quattroporte','Spyder','Spyder Evolution');
+make[32] = new Array('57','62','M62','Type 57','Type 62');
+make[33] = new Array('3','5','6','6 Sport Wagon','626','B-Series','CX-7','CX-9','Mazda3','Mazda5','Mazda6','Mazdaspeed MX-5 Miata','Mazdaspeed Protege','Mazdaspeed3','Mazdaspeed6','Miata','Miata SE','MPV','MX-5 Miata','MX-5 Power Retractable Hard Top','Protégé','Protege 5 and MP3','Protege ES','Protégé5','RX-8','Speed6','Tribute','Tribute HEV');
+make[34] = new Array('C-Class','C-Class Sport','C230 Coupe','C230 Kompressor','C230K','C300 Sport','C320 Sport','C320 Wagon','C63 AMG','C63 AMG Wagon','Cabrios','CL-Class','CL500','CL55','CL65 AMG','CLK Cabriolet','CLK-Class','CLK230','CLK320/CLK500','CLK430','CLK430 Cabriolet','CLK55','CLK55 AMG Cabriolet','CLK63 AMG Black Series','CLS 500','CLS-Class','CLS55','E-Class','E320','E320 Bluetec','E320 CDI','E320 Wagon','E55','E55 AMG','E550','G-Class','G500','GL-Class','GL320 CDI','GL450','M-Class','ML 320','ML-Class','ML320','ML320 BlueTEC','ML430','ML450 Hybrid','ML500','ML55','R-Class','S-Class','SL','SL-Class','SL-R','SL500','SL55 AMG','SL600','SL63 AMG','SLK','SLK 350','SLK-Class','SLK320','SLR','SLR McLaren');
+make[35] = new Array('Cougar','Grand Marquis','Marauder','Mariner','Mariner Hybrid','Milan','Montego','Monterey','Mountaineer','Sable','Villager');
+make[36] = new Array('Cabrio Sidewalk','Cooper','Cooper S','Cooper S Clubman','Cooper S Convertible','Cooper S John Cooper Works','Cooper/Convertible','John Cooper Works');
+make[37] = new Array('Diamante','Eclipse','Eclipse GS','Eclipse Spyder','Eclipse Spyder GT','Endeavor','Evo IX','Evolution MR','Galant','Galant GTZ','Lancer','Lancer Evo','Lancer Evolution','Lancer Ralliart','Montero','Montero Limited','Montero Sport','Montero Sport 3.5XS','Outlander','Raider');
+make[38] = new Array('350Z','350Z Roadster','Altima','Altima Coupe','Altima Hybrid','Altima SE-R','Armada','Frontier','Frontier and Xterra','Frontier NISMO','Frontier SC','Frontier SC 4x4 Crew Cab','Frontier V-6','GT-R','Maxima','Maxima SE','Murano','NISMO 350Z','Pathfinder','Pathfinder LE 4x4','Quest','Quest 3.5SL','Rogue','Sentra','Sentra SE-R','Sentra SE-R Spec V','Sentra SL','Titan','Titan Crew Cab','Titan King Cab','Versa','Xterra');
+make[39] = new Array('Alero Coupe','Aurora','Bravada','Eighty Eight LSS','Silhouette');
+make[40] = new Array('Corsa','Speedster');
+make[41] = new Array('Neon','Prowler');
+make[42] = new Array('Aztek','Bonneville','Bonneville SSEi','Firebird Trans Am WS6','G5','G6','G6 Convertible','G6 Convertible GT','G6 GT','G6 GXP','G8','G8 sport truck','Grand Am','Grand Prix','GTO','Montana','Montana AWD','Montana SV6','Solstice','Solstice Coupe','Sunfire','Torrent','Torrent GXP','Vibe');
+make[43] = new Array('911','911 Cabriolet','911 Carrera','911 Carrera 4 Cabriolet','911 Carrera 4S','911 Carrera 4S Cabriolet','911 Carrera Cabriolet','911 GT2','911 Targa','911 Turbo','Boxster','Boxster S','Carrera 4','Carrera GT','Cayenne','Cayenne GTS','Cayenne Turbo','Cayman');
+make[44] = new Array('Corniche','Phantom','Phantom Coupe','Phantom Drophead Coupe');
+make[45] = new Array('9-2X','9-3','9-3 Convertible','9-3 SportCombi','9-3 Turbo X','9-3 Vector','9-3 Viggen','9-3 Viggen Conv.','9-5','9-5 Aero Wagon','9-5 Sedan and Wagon','9-5 Wagon','9-7X');
+make[46] = new Array('Astra','Aura','Aura Green Line','Ion','ION Quad Coupe','L Sedan and Wagon','L-Series','LW300','Outlook','Relay','SC2 Coupe','Sky','Vue','Vue Green Line','Vue Green Line 2 Mode','VUE Red Line');
+make[47] = new Array('tC','xA','xA and xB','xB','xD');
+make[48] = new Array('fortwo');
+make[49] = new Array('B9 Tribeca','Baja','Forester','Forester Turbo','Impreza','Impreza 2.5 RS','Impreza WRX','Impreza WRX STi','Legacy','Legacy and Outback','Legacy GT Spec.B','Outback','Outback 3.0','Outback Sport','Outback XT Wagon','Tribeca','VDC Outback','WRX','WRX STI');
+make[50] = new Array('Aerio','Aerio SX','Equator','Esteem Wagon','Forenza','Forenza Wagon','Grand Vitara','Reno','SX4','SX4 sedan','SX4 Sport','Verona','XL-7','XL-7 Limited','XL7');
+make[51] = new Array('4Runner','Avalon','Camry','Camry Hybrid','Camry SE','Camry Solara','Celica','Corolla','Corolla Matrix','Corolla XRS','Echo','FJ Cruiser','Highlander','Highlander Hybrid','Land Cruiser','Matrix','MR2 Spyder','PreRunner','Prius','RAV4','Sequoia','Sienna','Solara','Solara Convertible','Tacoma','Tacoma X-Runner','Tacoma, S-Runner and DoubleCab','Tundra','Tundra Crewmax','Tundra Double Cab','Tundra Double Cab 4x4','Venza','Yaris');
+make[52] = new Array('Beetle','Eos','Eurovan','EuroVan MV','Golf','Golf GTI','Golft/GTI','GTI','Jetta','Jetta GLI','Jetta GLS','Jetta GLS 1.8T','Jetta GLX Wagon','Jetta SportWagen','Jetta TDI','Jetta Wagon GLX VR6','New Beetle','New Beetle Convertible','New Beetle Turbo S','Passat','Passat 1.8T','Passat CC','Passat GLS','Passat GLX Wagon 4Motion','Passat TDI','Passat Wagon','Phaeton','R32','Rabbit','Rabbit 2.5','Routan','Super Beetle 1.8T','Tiguan','Touareg','Touareg2','W8');
+make[53] = new Array('C30','C70','C70 Convertible','S40','S40 and V40','S40 T5','S60','S60 2.4T','S60 AWD','S60 sedan','S60 T5','S60R','S80','S80 2.9 Sedan','V50','V70','V70 Cross Country','V70 XC','V70 XC AWD','XC60','XC70','XC70 CrossCountry','XC90','XC90 V-8');
+
+function Populate()
+{
+	/* if (!optionTest) return; */
+	var Make = document.forms.FrmRevs.Make;
+	var MakeEl=document.getElementById("Makebox");
+	MakeEl.style.color = '#000000';
+	var number = MakeEl.options.selectedIndex;
+	if (!number) return;
+	var list = make[number];
+	var ModelEl=document.getElementById("Modelbox");
+	ModelEl.style.color = '#000000';
+	ModelEl.options.length = 0;
+	ModelEl.options[0] = new Option('Select Model','');
+	for(i=0;i<list.length;i+=1)
+	{
+		ModelEl.options[i+1] = new Option(list[i],list[i]);
+	}     
+}
+ 
+ 
+ function SubmitFind() 
+ {document.FrmRevs.submit(); }
+ 
+</script>	
+<tr><td align="left" colspan="1" valign="top"><select style="font-size: 8pt; width:200px; color:#b3b3b3;" id="Makebox" name="Make" size="1" onchange="Populate()"><option value="" selected="">Select Make</option><option value="Acura">Acura</option><option value="Alfa Romeo">Alfa Romeo</option><option value="Aston Martin">Aston Martin</option><option value="Audi">Audi</option><option value="Bentley">Bentley</option><option value="BMW">BMW</option><option value="Bugatti">Bugatti</option><option value="Buick">Buick</option><option value="Cadillac">Cadillac</option><option value="Chevrolet">Chevrolet</option><option value="Chrysler">Chrysler</option><option value="Daewoo">Daewoo</option><option value="Dodge">Dodge</option><option value="Ferrari">Ferrari</option><option value="Fisker">Fisker</option><option value="Ford">Ford</option><option value="GMC">GMC</option><option value="Honda">Honda</option><option value="HUMMER">HUMMER</option><option value="Hyundai">Hyundai</option><option value="Infiniti">Infiniti</option><option value="Isuzu">Isuzu</option><option value="Jaguar">Jaguar</option><option value="Jeep">Jeep</option><option value="Kia">Kia</option><option value="Lamborghini">Lamborghini</option><option value="Land Rover">Land Rover</option><option value="Lexus">Lexus</option><option value="Lincoln">Lincoln</option><option value="Lotus">Lotus</option><option value="Maserati">Maserati</option><option value="Maybach">Maybach</option><option value="Mazda">Mazda</option><option value="Mercedes-Benz">Mercedes-Benz</option><option value="Mercury">Mercury</option><option value="MINI">MINI</option><option value="Mitsubishi">Mitsubishi</option><option value="Nissan">Nissan</option><option value="Oldsmobile">Oldsmobile</option><option value="Opel">Opel</option><option value="Plymouth">Plymouth</option><option value="Pontiac">Pontiac</option><option value="Porsche">Porsche</option><option value="Rolls-Royce">Rolls-Royce</option><option value="Saab">Saab</option><option value="Saturn">Saturn</option><option value="Scion">Scion</option><option value="smart">smart</option><option value="Subaru">Subaru</option><option value="Suzuki">Suzuki</option><option value="Toyota">Toyota</option><option value="Volkswagen">Volkswagen</option><option value="Volvo">Volvo</option></select></td></tr><tr><td align="left" colspan="1" valign="top"><select style="font-size: 8pt; width:200px; color:#b3b3b3;" id="Modelbox" name="Model" size="1"><option value="">Select Model</option></select></td></tr><tr><td align="right" colspan="1" valign="top"><input id="findreviewsgo" type="submit" title="Find Reviews" value=""></td></tr></tbody></table><input type="hidden" value="" name="Year" id="Year"></form>
+</td>
+</tr><script language="JavaScript" type="text/javascript">
+			var MakeEl=document.getElementById("Makebox");
+			MakeEl.options.selectedIndex = 0;
+			</script></tbody></table>
+</td>
+</tr>
+<tr>
+<td><img src="/g/d.gif" width="1" height="10" border="0"></td>
+</tr>
+<tr><td width="100%"><table width="611" border="0" cellpadding="0" cellspacing="0" valign="TOP"><tbody><tr><td height="20">&nbsp;</td></tr><tr><td width="310" valign="TOP"><table width="310" border="0" cellpadding="0" cellspacing="0" class="features_style_bg">
+<tbody><tr>
+<td width="310" height="31"><span class="H1NEW">FEATURES</span></td>
+</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td>
-<table width="100%" cellpadding="0" cellspacing="1" border="0" class="features_style_bg">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="features_style_bg">
 <tbody><tr>
 <td valign="TOP" bgcolor="#FFFFFF">
 <table width="100%" cellpadding="1" cellspacing="0" border="0" bgcolor="#ffffff">
 <tbody><tr>
 <td bgcolor="#ffffff">
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Frankfurt_Auto_Show/S290.html" title="FRANKFURT MOTOR SHOW">FRANKFURT MOTOR SHOW</a><br>Jaguar XF, Audi A4, Ford Verve and more!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Frankfurt_Auto_Show/S290.html" title="FRANKFURT MOTOR SHOW"><img src="/images/gallery/thumbtacks/11849_UDFYNLAVIYTWS.jpg" width="56" height="42" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td>
-<table width="12" height="60" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="5">&nbsp;</td>
-<td height="60" align="center" width="1" valign="middle" bgcolor="#d3d3d3"></td>
-<td width="6">&nbsp;</td>
-</tr></tbody></table>
-</td>
-<td>
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
-<tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/scrapbook.asp" title="CAR PHOTOS">CAR PHOTOS</a><br>Get full-screen shots of all the latest cars - search, click, and right-click for wallpaper!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/scrapbook.asp" title="CAR PHOTOS"><img src="/images/gallery/thumbtacks/11670_HZPFPQHJOTHRD.jpg" width="56" height="42" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td>
-<table width="12" height="60" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="5">&nbsp;</td>
-<td height="60" align="center" width="1" valign="middle" bgcolor="#d3d3d3"></td>
-<td width="6">&nbsp;</td>
-</tr></tbody></table>
-</td>
-<td>
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
-<tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/subscribe.asp" title="CAR INFO FREE!">CAR INFO FREE!</a><br>Stay informed: TCC's FREE emails for daily news, weekly car info and what's new every week. Subscribe now!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/subscribe.asp" title="CAR INFO FREE!"><img src="/images/gallery/thumbtacks/11649_HZQARDOGEJYBZ.jpg" width="56" height="42" border="0"></a></td>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/Car_Shows_and_Concept_Cars/Detroit_Auto_Show/2008_Detroit_Auto_Show_Coverage.S286.A13668.html" title="2008 DETROIT AUTO SHOW"><img src="/images/gallery/thumbtacks/11849_UDFYNLAVIYTWS.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/Car_Shows_and_Concept_Cars/Detroit_Auto_Show/2008_Detroit_Auto_Show_Coverage.S286.A13668.html" title="2008 DETROIT AUTO SHOW">2008 DETROIT AUTO SHOW</a><br>Ford F-150, Honda Pilot, Toyota Venza, Dodge Ram and Chevrolet Corvette ZR1!</td>
 </tr>
 </tbody></table>
 </td>
 </tr>
-<tr>
-<td height="1" colspan="12" bgcolor="d3d3d3"></td>
-</tr>
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
 <tr>
 <td bgcolor="#ffffff">
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Concept_Cars/S283.html" title="CONCEPT CARS">CONCEPT CARS</a><br>Trailhawk, Nassau, MKR and C-XF - get the latest on the auto world's future cars!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Concept_Cars/S283.html" title="CONCEPT CARS"><img src="/images/gallery/thumbtacks/11630_TLTDLCPDEEALZ.jpg" width="56" height="42" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td>
-<table width="12" height="60" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="5">&nbsp;</td>
-<td height="60" align="center" width="1" valign="middle" bgcolor="#d3d3d3"></td>
-<td width="6">&nbsp;</td>
-</tr></tbody></table>
-</td>
-<td>
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
-<tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Shoppers/Car_Trivia/S1156.html" title="CAR TRIVIA">CAR TRIVIA</a><br>Think you know everything about cars? Take our ten-question quizzes and out-Trebek us!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Shoppers/Car_Trivia/S1156.html" title="CAR TRIVIA"><img src="/images/gallery/thumbtacks/11599_RXTVITEDDLRCZ.jpg" width="56" height="42" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td>
-<table width="12" height="60" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="5">&nbsp;</td>
-<td height="60" align="center" width="1" valign="middle" bgcolor="#d3d3d3"></td>
-<td width="6">&nbsp;</td>
-</tr></tbody></table>
-</td>
-<td>
-<table width="180" height="90" border="0" cellspacing="2" cellpadding="1">
-<tbody><tr>
-<td width="121" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Vehicle_Reviews/Pickup_Trucks/S275.html" title="TRUCK REVIEWS">TRUCK REVIEWS</a><br>Toyota Tundra, Chevrolet Silverado, Ford Explorer Sport Trac - get 'em all here!<br></td>
-<td width="59" valign="middle" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Vehicle_Reviews/Pickup_Trucks/S275.html" title="TRUCK REVIEWS"><img src="/images/gallery/thumbtacks/11479_BDRIFZORJGUZS.jpg" width="56" height="42" border="0"></a></td>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/scrapbook.asp" title="CAR PHOTOS"><img src="/images/gallery/thumbtacks/11670_HZPFPQHJOTHRD.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/scrapbook.asp" title="CAR PHOTOS">CAR PHOTOS</a><br>Get full-screen shots of all the latest cars - search, click, and right-click for wallpaper!</td>
 </tr>
 </tbody></table>
 </td>
 </tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td></tr><tr><td height="1" colspan="7" bgcolor="89afcb"></td></tr>
-
-
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
 <tr>
-<td><img src="/g/d.gif" width="187" height="10" border="0"></td>
+<td bgcolor="#ffffff">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/subscribe.asp" title="CAR INFO FREE!"><img src="/images/gallery/thumbtacks/11649_HZQARDOGEJYBZ.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="/subscribe.asp" title="CAR INFO FREE!">CAR INFO FREE!</a><br>Stay informed: TCC's FREE emails for daily news, weekly car info and what's new every week. Subscribe now!</td>
 </tr>
 </tbody></table>
-</td></tr>
+</td>
+</tr>
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
+<tr>
+<td bgcolor="#ffffff">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Concept_Cars/S283.html" title="CONCEPT CARS"><img src="/images/gallery/thumbtacks/11630_TLTDLCPDEEALZ.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Car_Shows/Concept_Cars/S283.html" title="CONCEPT CARS">CONCEPT CARS</a><br>Trailhawk, Nassau, MKR and C-XF - get the latest on the auto world's future cars!</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
+<tr>
+<td bgcolor="#ffffff">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Shoppers/Car_Trivia/S1156.html" title="CAR TRIVIA"><img src="/images/gallery/thumbtacks/11599_RXTVITEDDLRCZ.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Shoppers/Car_Trivia/S1156.html" title="CAR TRIVIA">CAR TRIVIA</a><br>Think you know everything about cars? Take our ten-question quizzes and out-Trebek us!</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
+<tr>
+<td bgcolor="#ffffff">
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="59" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Vehicle_Reviews/Pickup_Trucks/S275.html" title="TRUCK REVIEWS"><img src="/images/gallery/thumbtacks/11479_BDRIFZORJGUZS.jpg" width="56" height="42" border="0"></a></td>
+<td width="220" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/Vehicle_Reviews/Pickup_Trucks/S275.html" title="TRUCK REVIEWS">TRUCK REVIEWS</a><br>Toyota Tundra, Chevrolet Silverado, Ford Explorer Sport Trac - get 'em all here!</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td align="left" valign="top" height="4"><img src="/g/d.gif" width="1" height="4" border="0"></td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td></tr><tr height="20"><td height="20"><img src="/g/d.gif" width="1" height="20" border="0"></td></tr>
+
+
+</tbody></table>
+</td><td width="3" valign="TOP">&nbsp;</td><td width="310" valign="TOP"><table width="310" border="0" cellpadding="0" cellspacing="0" class="features_style_bg">
+<tbody><tr>
+<td width="2"><img src="/g/d.gif" width="2" height="1" border="0"></td>
+<td height="31" class="H1BLOG">NEW ON TCC'S BLOG</td>
+</tr>
+</tbody></table>
+<table width="310" cellpadding="0" cellspacing="0" border="0" valign="top" style="margin-top:5px;">
+<tbody><tr>
+<td valign="top" align="left" class="CALLOUTBOX_BODY" colspan="2"><a class="GenevaBlue16" href="http://www.thecarconnection.com/blog/?p=1221" title="Nissan Does a 360">Nissan Does a 360</a></td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td width="100%" valign="top" align="left" class="CALLOUTBOX_DATE">Wednesday, April 30th, 2008 at 5:10 am</td>
+</tr>
+<tr height="4"><td width="4" colspan="2"><img src="/g/d.gif" width="4" height="1" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td align="center"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1221" title="Nissan Does a 360"><img src="/images/gallery/tmb/12955_NXWEKAKCKHFFU.jpg" width="300" height="201" border="0" align="center"></a></td></tr>
+<tr height="4"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td class="blogtext">Japanese maker lifts the kimono and reveals scores of products, current and new.</td></tr>
+<tr>
+<td align="right" colspan="2" style="padding-right:5px;padding-bottom:2px;"><a class="GenevaBlue" href="/blog" title="Read Full Blog">Read Full Blog</a></td></tr>
+<tr><td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td><td class="recent">Recent Entries:</td></tr>
+<tr height="2"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_DATE">Wednesday, April 30th, 2008 at 12:01 am</td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1220" title="Audi Asks: Do You Have the Right Stuff?">Audi Asks: Do You Have the Right Stuff?</a></td>
+</tr>
+<tr height="2"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_DATE">Tuesday, April 29th, 2008 at 12:44 pm</td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1219" title="Can You Identify These Mystery Cars?">Can You Identify These Mystery Cars?</a></td>
+</tr>
+<tr height="2"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_DATE">Tuesday, April 29th, 2008 at 12:03 pm</td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1218" title="GM Slashing Truck Production; Worse May be Coming">GM Slashing Truck Production; Worse May be Coming</a></td>
+</tr>
+<tr height="2"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_DATE">Tuesday, April 29th, 2008 at 3:37 am</td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1217" title="What Next Kerkorian?">What Next Kerkorian?</a></td>
+</tr>
+<tr height="2"><td height="4"><img src="/g/d.gif" width="4" height="4" border="0"></td></tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_DATE">Monday, April 28th, 2008 at 1:54 pm</td>
+</tr>
+<tr>
+<td width="4"><img src="/g/d.gif" width="4" height="1" border="0"></td>
+<td valign="top" class="CALLOUTBOX_BODY"><a class="GenevaBlue" href="http://www.thecarconnection.com/blog/?p=1216" title="Nissan Wires Up With Innovative EA2 Concept">Nissan Wires Up With Innovative EA2 Concept</a></td>
+</tr>
+<tr height="20"><td height="20"><img src="/g/d.gif" width="1" height="20" border="0"></td></tr>
+</tbody></table>
+</td></tr></tbody></table></td></tr>
 <tr><td align="center" width="100%"></td></tr>
 </tbody></table>
-<table width="611" border="0" align="CENTER" valign="TOP"><tbody><tr><td align="CENTER" valign="TOP">
-<div><img src="/g/d.gif" width="1" height="3"></div>
+<table width="100%" border="0" align="CENTER" valign="TOP"><tbody><tr><td align="CENTER" valign="TOP">
+<div><img src="/g/d.gif" width="1" height="12"></div>
 
 <center>
 
@@ -539,34 +769,17 @@ google_color_url = "993366";
 google_color_text = "000000"; 
 //--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-<br>
-<script type="text/javascript"><!--
-//google_ad_client = "pub-4956733744046268"; 
-google_ad_client = "ca-gdan-thecarconnection_468x60_atf";
-google_ad_width = 468; 
-google_ad_height = 60; 
-google_ad_format = "468x60_as"; 
-google_ad_type = "text_image"; 
-//google_ad_channel ="hpbanner"; 
-google_ad_channel = "8483218974+8483218971";
-google_color_border = "004a7e";
-google_color_bg = "FFFFFF";
-google_color_link = "004a7e";
-google_color_text = "000000";
-google_color_url = "993366";
-google_color_text = "000000"; 
-//--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-</center></td></tr></tbody></table>
+</center>
+<div><img src="/g/d.gif" width="1" height="20"></div>
+</td></tr></tbody></table>
 
 		</td>
 		
-		<td width="3" valign="TOP" align="RIGHT"><img src="/g/d.gif" width="3" height="1" border="0"></td>
+		<td id="rightspacer" width="12" valign="TOP" align="left" background="#FFFFFF;"><img src="/g/d.gif" width="12" height="1" border="0"></td>
 		
-		<td width="160" valign="TOP" align="LEFT">
-		<!--DART  ADS 160x600 iframe code begin -->
+		<td id="rightcolumn" width="168" valign="TOP" align="LEFT" bgcolor="#e6e9ec">
+		<div><img src="/g/d.gif" width="1" height="4"></div>
+<div align="center" style="padding-top:5px;"><!--DART  ADS 160x600 iframe code begin -->
 
 <script language="JavaScript" type="text/javascript">
 
@@ -581,81 +794,11 @@ if (navigator.userAgent.indexOf("Gecko")==-1)
 }
 document.write('</iframe>');
 
-</script><iframe id="Dart_Ad_Tower" name="Dart_Ad_Tower" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=482811784216364160?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+</script><iframe id="Dart_Ad_Tower" name="Dart_Ad_Tower" src="http://ad.doubleclick.net/adi/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=155764380704983780?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe><noscript><a href="http://ad.doubleclick.net/jump/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/carconnection.tmus/S228;pos=right;tile=5;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
 <!-- DART ADS 160x600 code end -->
 
 
-
-<!-- CB Quick Search -->
-
-<!-- End CB Quick Search -->
-
-
-
-<div><img src="/g/d.gif" width="1" height="10"></div>
-<div align="center">
-<table width="160" height="200" border="0" cellpadding="1" cellspacing="0" bgcolor="#ffffff">
-<tbody><tr>
-<td width="160">
-<table width="160" border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" class="new_stories_style_bg">
-<tbody><tr>
-<td align="center" valign="middle" width="100%" height="41" class="GenevaRed14"><a href="http://www.thecarconnection.com/blog" target="_top" class="GenevaRed14">NEW ON TCC'S BLOG</a></td>
-</tr>
-</tbody></table>
-<table width="160" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-<tbody><tr>
-<td>
-<table width="100%" cellpadding="2" cellspacing="1" border="1" style="border-collapse:collapse;">
-<tbody><tr>
-<td valign="TOP">
-<table width="100%" cellpadding="0" cellspacing="5" border="0" bgcolor="#FFFFF0"><!-- google_ad_section_start -->
-<tbody><tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=651" title="A new Power study ranks Buick alongside Lexus.&nbsp;(08/12/2007)">J.D. Power Ranks Most Reliable Vehicles</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=650" title="Alfa Romeo readies its U.S. return with the exotic 8C Competizione.&nbsp;(07/31/2007)">Alfa Romeo: Ready for a Comeback with 8C</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=649" title="Wait, who has Sharpton on speed dial?&nbsp;(07/10/2007)">BMW Plays the Race Card?</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=648" title="New system is truly useful—streetlugers included.&nbsp;(07/09/2007)">Mercedes Shines the (Invisible) Light on Night Vision</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=647" title="Pair killed over CAFE hand-wringing.&nbsp;(07/02/2007)">Lutz: Sixteen, Velite Are Dead!</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=646" title="New fragrance has its own appeal – just ask Ford’s marketers!&nbsp;(06/25/2007)">Metrosexual, Petrosexual? Nope – Mustangs Are “Retrosexual”</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=645" title="First recorded stop with a fuel-cell vehicle, Wayne State says.&nbsp;(06/24/2007)">Fuel Cells Make Traffic History</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=644" title="A concept amphicar that could become a real amphicar very soon.&nbsp;(06/20/2007)">Gibbs Aquada: Whatever floats your amphibious boat</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=643" title="Holy Moses! Benedict smacks down drunk driving, speeding and in-car sin.&nbsp;(06/19/2007)">Pope Lays Down 10 Commandments – of Good Driving?</a><br></td>
-</tr>
-<tr>
-<td width="156" valign="top" class="CALLOUTBOX_BODY"><a class="GenevaRed11" target="_top" href="http://www.thecarconnection.com/blog/?p=642" title="Hoops, grilles - and now a dangly chair for your ball hitch.&nbsp;(06/19/2007)">Son of Tailgate BBQ: The Sling Chair</a><br></td>
-</tr><!-- google_ad_section_end  -->
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td><img src="/g/d.gif" width="160" height="10" border="0"></td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div><img src="/g/d.gif" width="1" height="4"></div><div align="center"><!-- Dart 125x125 begin -->
+</div><div><img src="/g/d.gif" width="1" height="4"></div><div align="center"><!-- Dart 125x125 begin -->
 <script language="Javascript">
 //var axel = Math.random() + "";
 //var ord = axel * 1000000000000000000;
@@ -691,7 +834,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 	<!-- END CONTENT WELL -->
 
 
-
+ 
 
 	</td>
 </tr>
@@ -714,7 +857,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 	<tbody><tr>
 		<td>
 
-
+		
 		<table width="100%" cellpadding="8" cellspacing="0" border="0" class="footer_style_bg">
 
 		<tbody><tr>
@@ -727,7 +870,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 					<a href="/Shoppers/S163.html" class="footerlink">SHOPPERS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="/Auto_News/S156.html" class="footerlink">AUTO NEWS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="/Car_Shows/S176.html" class="footerlink">CAR SHOWS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/Pricing/S1173.html" class="footerlink">VEHICLE PRICING</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/Pricing/New_Car_Quote/S1171.html" class="footerlink">VEHICLE PRICING</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="/sitemap/index.asp" class="footerlink">SITEMAP</a>&nbsp;&nbsp;| &nbsp;&nbsp;
 					<a href="/Extras/Inside_TCC/About_Us/About_Us.S225.A165.html" class="footerlink">ABOUT/BIOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="/Extras/S160.html" class="footerlink">EXTRAS</a>&nbsp;&nbsp;| &nbsp;&nbsp;
@@ -739,16 +882,16 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 		</tr>
 		<tr>
 			<td align="CENTER" width="100%" class="COPYRIGHT" height="35" bgcolor="#FFFFFF">
-
-
-			<div align="center">©2007 by The Car Connection™ All Rights Reserved  -  The Car Connection is a Trademark of DA Acquisition</div>
-
-
+				
+							
+			<div align="center">©2008 by The Car Connection™ All Rights Reserved  -  The Car Connection is a Trademark of DA Acquisition</div>
+								
+			
 			</td>
 		</tr>
 
-
-		<!-- TR>
+				
+		<!-- TR>	
 		<TD ALIGN="CENTER" width="100%" CLASS="COPYRIGHT" bgcolor="#FFFFFF" ><DIV ALIGN="CENTER"><A BORDER="0" TARGET="_BLANK" HREF="http://www.ipro.com" TITLE="This site's traffic and audience demographic data is certified by IPRO Corporation"><img src="/images/iprocert.gif"  BORDER="0" width="100" height="41"></A><br/>This site's traffic and audience demographic data is certified by IPRO Corporation.</DIV></TD>
 		</TR -->
 
@@ -756,10 +899,10 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 			<tr><td align="CENTER" bgcolor="#FFFFFF">
 				 <iframe id="almond" name="almond" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://pbid.pro-market.net/engine?site=107631+size=1x1+kw=auto">
 				</iframe>
-
+				
 
 			</td></tr>
-		
+					
 
 		</tbody></table></td>
 	</tr>
@@ -774,7 +917,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 <!-- TD valign="top"><img src="/g/spacer.gif" width="2"  height="1" border="0"></TD -->
 
 <td id="reskintbl" name="reskintbl" width="300" valign="top" align="left" height="100%" bgcolor="#FFFFFF">
-
+ 
 <table width="300" align="left" valign="top" border="0" cellpadding="0" cellspacing="0">
 <!-- TR>
 	<TD width="300"  height="196" valign="bottom" BGCOLOR="#ffffff" align="right">
@@ -783,27 +926,8 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
  </TR -->
 <tbody><tr>
 	<td width="300" valign="top" align="left">
-		<div align="right" valign="top" id="reskindiv" name="reskindiv"><!-- Dart 300x740 begin -->
-<script language="Javascript">
-//var axel = Math.random() + "";
-//var ord = axel * 1000000000000000000;
-</script>
-
-<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/carconnection.tmus/S228;tile=7;sz=300x740;ord=' + ord + '?"><\/SCRIPT>');
-</script>
-<script>
-if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-document.write('<A HREF="http://ad.doubleclick.net/jump/carconnection.tmus/S228;tile=7;sz=300x740;ord=' + ord + '?" TARGET="_blank">');
-document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;tile=7;sz=300x740;ord=' + ord + '?" WIDTH="300" HEIGHT="740" BORDER="0" ALT=""></A>');
-}
-</script>
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/carconnection.tmus/S228;tile=7;sz=300x740;ord=123456789?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;tile=7;sz=300x740;ord=123456789?" WIDTH="300" HEIGHT="740" BORDER="0" ALT=""></A>
-</noscript>
-<!-- Dart 300x740 end -->
-</div>
-
+		
+		
 	</td>
  </tr>
 </tbody></table>
@@ -812,6 +936,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/carconnection.tmus/S228;t
 </tr>
 </tbody></table>
 <!-- New 10.23.07 -->
+
 
 
 <script language="JavaScript"> // v1.0
@@ -826,8 +951,8 @@ document.write('<scr'+'ipt src="http://amch.questionmarket.com/adsc/d0/1026/0/ra
 //Submitted to Dynamic Drive (http://www.dynamicdrive.com)
 //Visit http://www.dynamicdrive.com for this script and more
 function Go(){return}
-function popupScrapbook(ScrapbookID) {
-scrapbookw = window.open('/scrapbook-popup.asp?ScrapbookID=' + ScrapbookID + '&jspop=1','scrapbookw','height=800,width=990,toolbar=no,scrollbars=auto,menubar=no,resizable=yes');
+function popupScrapbook(ScrapbookID) { 
+scrapbookw = window.open('/scrapbook-popup.asp?ScrapbookID=' + ScrapbookID + '&jspop=1','scrapbookw','height=800,width=990,toolbar=no,scrollbars=auto,menubar=no,resizable=yes'); 
 }
 
 </script>
@@ -842,7 +967,7 @@ scrapbookw = window.open('/scrapbook-popup.asp?ScrapbookID=' + ScrapbookID + '&j
 			}
 		} else {
 			blnGo = true;
-		}
+		}		
 		setTimeout("triggerMenu()",1000);
 	}
 </script>
@@ -863,7 +988,7 @@ LSPT += "&custid=thecarconnection";
 </script>
 <script language="Javascript">
 document.write('<img src=http://'+'content.ipro.com/images/pixel.gif'+LSPT+' height="1" width="1">');
-</script><img src="http://content.ipro.com/images/pixel.gif?durl=https%3A//web.archive.org/web/20071225114021id_/http%253A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;hostname=web.archive.org&amp;url=/web/20071225114021id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;query=&amp;referrer=&amp;browser=Netscape&amp;version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;os=Linux%20x86_64&amp;xdomain=thecarconnection.com&amp;custid=thecarconnection" height="1" width="1">
+</script><img src="http://content.ipro.com/images/pixel.gif?durl=https%3A//web.archive.org/web/20080623044332id_/http%253A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;hostname=web.archive.org&amp;url=/web/20080623044332id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html&amp;query=&amp;referrer=&amp;browser=Netscape&amp;version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;os=Linux%20x86_64&amp;xdomain=thecarconnection.com&amp;custid=thecarconnection" height="1" width="1">
 <noscript>
 <img src="http://content.ipro.com/images/pixel?version=nonjava" height="1" width="1">
 </noscript>
@@ -908,27 +1033,27 @@ urchinTracker();
 		if (reskindiv.offsetHeight > 100)
 		{
 			var reskintable = document.getElementById("reskintbl");
-
-
+		
+			
 			if (reskintable) {
 			 reskintable.bgColor = "#000000";
 			}
 
 			// document.write ('<a href="http://n4403ad.doubleclick.net/jump/gn.thecarconnection.com/redirect;sect=redirect;adid=151074317;sz=1x1;ord='+ ord +'?" target="_blank">');
 			// document.write ('<img src="http://n4403ad.doubleclick.net/ad/gn.thecarconnection.com/redirect;sect=redirect;adid=151074317;sz=1x1;ord='+ ord+ '?" width="1" height="1" border="0" alt=""></a>');
-
+			
 			//alert(reskintable.bgColor);
-
-
-
-
+			
+			
+			
+			
 		}
 	}
-
+	
 	</script>
 
 
 
 
 
-</body></html>
+</doctype></body></html>
