@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainableindustries.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225084142id_/http%3A//www.sustainableindustries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainableindustries.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623072846id_/http%3A//www.sustainableindustries.com/privacy) for the most accurate reproduction.*
 
 # Sustainable Industries | Privacy Policy
 
@@ -18,10 +18,10 @@ _ This web site does not request any personal information or collect any informa
 The newsletter system does collect your name, organization, city, state, zip and email address. 
 
 _External Links  
-_ This site contains links to other sites. Celilo Group Media is not responsible for the privacy practices or the content of such web sites. 
+_ This site contains links to other sites. Sustainable Media Inc. is not responsible for the privacy practices or the content of such web sites. 
 
 _Security_  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We make every effort to keep any email addresses that we collect (if you join our mailing list) safe. 
 
 _Contacting the Web Site_  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [**info@celilo.net**](mailto:info@celilo.net%20)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: **info (at) celilo.net**
