@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scc-fl.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225090808id_/http%3A//www.scc-fl.edu/internet_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scc-fl.edu privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623052754id_/http%3A//scc-fl.edu/internet_privacy_policy.htm) for the most accurate reproduction.*
 
 # SCC - Internet Privacy Policy
 
