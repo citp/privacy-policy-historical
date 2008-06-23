@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225181950id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26lid%3D177) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623170637id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26lid%3D177) for the most accurate reproduction.*
 
-# privacy-policy | RDLiving | Reader's Digest
+# privacy-policy | Advice and Know-How | Reader's Digest
 
 The policies below are applicable to readersdigest.com (rd.com) and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc. (collectively "RD sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit RD sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
