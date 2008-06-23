@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229085925id_/http%3A//www.pcworld.com/resource/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623073011id_/http%3A//www.pcworld.com/resource/privacy.html) for the most accurate reproduction.*
 
 # PC World - PCWorld.com Privacy Policy
 
@@ -26,7 +26,8 @@ When you visit the PC World Web site, PC World collects several forms of usage d
 
   * Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
   * Cookie data. When you visit the PC World Web site, PC World or one of our IDG affiliates or third-party partners may send one or more "cookies"—small files containing a string of characters—to your computer to identify you as a unique user. If you have registered with PC World, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
-  * Traffic and advertising data. Other cookies without personally identifying information and data are used to enable PC World to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the PC World site.
+  * Traffic and advertising data. Other cookies are used to enable PC World and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by PC World do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the PC World site.
+  * Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the PC World site. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the PC World site and other sites. For more information about their practices and your options regarding their collection and use of information, click [here](http://www.doubleclick.com/us/about_doubleclick/privacy/) to visit the DoubleClick website and [here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the website of the Network Advertising Initiative.
 
 
 
@@ -43,17 +44,17 @@ The aggregated information we collect is used for a number of purposes including
 
 Many portions of the PC World site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, PC World does collect personally identifying information regarding our online users, including in the following ways:
 
-  * When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us.
-  * When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site.
+  * When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, buying a product, signing up for a newsletter, tutorial, or email or mobile alerts, or otherwise contacting us.
+  * When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration or a white paper library, that appears on our site.
   * When you provide information about yourself or your company to PC World in connection with a subscription order, or when you provide information to any other IDG Publishing Network affiliate, that information may be included in your PC World user record, if one exists.
   * If you have previously registered with another IDG Publishing Network affiliate and you begin to fill out certain forms on the PC World Web site, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your PC World user record.
   * If you have provided information to PC World, from time to time we may enhance that information with other information that we collect from third-party sources.
 
 
 
-The personal information we collect may be used in a number of ways, including the following:
+The personal information we collect may be linked to information regarding your use of the PC World Site, such as which newsletters or alerts you subscribe to or which categories of white paper content you have downloaded. This combined data helps us recommend content to you and target our communications to topics that interest you. The personal information and related data may be used in a number of ways, including the following:
 
-  * To improve the content of the PC World site, including by allowing PC World's editors to consult with readers.
+  * To improve the content of the PC World Site, including by allowing PC World's editors to consult with readers.
   * To communicate with users about registration and other customer service issues.
   * To promote products and services of PC World, our parent company IDG, and our sibling IDG companies, as described in more detail below.
   * To conduct research surveys on behalf of PC World, IDG, and its subsidiaries and affiliates.
@@ -66,7 +67,7 @@ PC World may share aggregated, nonpersonal information, such as Web site traffic
 
   * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of PC World or our employees or customers.
   * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
-  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. PC World and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or have forms that include links to the third party's privacy policy.
+  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. PC World and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or include links to the third party's privacy policy.
   * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by Section 2 (PC World Subscriber Privacy Policy).
   * As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.
   * We may share information with third parties for promotional purposes, as described below.
@@ -77,11 +78,13 @@ In addition, you should be aware that when you disclose personal information suc
 
 #### Use of data for promotions, and choices for personal information
 
-Postal addresses will be used to promote PC World and IDG companie's products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+When you provide your e-mail address to us, you agree to receive e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-When you provide your e-mail address to us, you agree to receive e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+You may have the opportunity to provide us with your mobile phone number, whether by responding to a form that asks for a mobile number or by using your phone to send us certain kinds of communications, such as a shortcode, SMS or other mobile message. We use your mobile phone number to provide the products and services you've specifically requested, such as content delivery to your phone, and for customer service regarding those products and services. We may use your mobile phone number to promote other products and services of PC World and its sibling IDG companies if you have expressly consented to receive our promotions via your phone. Similarly, we may use your mobile phone number to promote products and services of carefully chosen third parties if you have expressly consented to receive third party promotions via your phone. Your preferences for receiving promotions via your mobile phone are separate from your preferences for receiving promotions via other means, and you can update your mobile phone preferences at any time simply by following the instructions included in the messages we send to your mobile phone. Please note that the privacy practices described in this paragraph apply only to mobile phone numbers provided to us in the ways described above. If you provide your mobile phone number in other contexts, such as by entering a mobile phone number in a form that asks for your home or business number, we will not be able to identify the number as a mobile number, and the practices described in this paragraph will not apply. Also, please be aware that many mobile phone companies recycle phone numbers, so if you have a new phone number it is possible that you might receive messages that the previous holder of the number had signed up for or consented to receive.
 
-In addition, you may change your preferences regarding use of personal data by sending an e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
+Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote PC World and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for PC World and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.
+
+In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
 
 If PC World or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
@@ -125,15 +128,14 @@ PC World may share aggregated, nonpersonal information, such as total magazine c
 
 Postal addresses will be used to promote PC World and IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-When you provide your e-mail address to us, you agree to receive promotional e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+When you provide your e-mail address to us, you agree to receive promotional e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
 Subscribers who do not want their personal information used for third-party promotions may write and ask to be removed from such promotion lists. Requests should be sent to:
 
 > PC World  
 >  Attn: Subscriber Services  
 >  P.O. Box 37571  
->  Boone, IA 50037-0571  
-> 
+>  Boone, IA 50037-0571 
 
 If PC World or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
@@ -157,4 +159,4 @@ The IDG Publishing Network is intended for individuals age 13 and over. Personal
 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
 
-Last updated: May 3, 2006.
+Last updated: April 21, 2008.
