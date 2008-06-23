@@ -1,81 +1,72 @@
-> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224122228id_/http%3A//www.courtrecords.org/index.php%3Frecords_state%3D%26xpath%3Dprivacy%26PHPSESSID%3D8cc50a8001f9afdb11aaf4939758facf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623024918id_/http%3A//www.courtrecords.org/index.php%3Frecords_state%3D%26xpath%3Dprivacy) for the most accurate reproduction.*
 
 # CourtRecords.org - Court Records, Criminal Records, Arrest Records, and Police Records
 
-**CourtRecords.org's Privacy Policy**
+**CIS WorldWide Privacy Policy**
 
-This Privacy Policy (“Policy”) discloses the practices of CourtRecords.org concerning personal information we obtain about you. By using any of CourtRecords.org’s websites, or using other services of CourtRecords.org (collectively the “Services”), you are accepting the practices described in this Policy. 
+**Effective Date:   January 1, 2008**
 
-  This Policy notifies you of: (a) what personal information of yours is collected when you access this website and/or use the Services; (b) how the information is collected; (c) how the information is used and shared; (d) our efforts to maintain the security of Sensitive Information; and (e) other details concerning your personal information and our policies.  
+This Privacy Policy describes the types of personal and non-personal information we collect on this website and any other website listed at [_www.professionalcash.com/sites.html_](http://www.professionalcash.com/sites.html) (each, a “Site”), how we use such information and to whom and under what circumstances we may disclose it.  By using the Site, you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not use the Site.  
 
-  This Policy does not apply to the practices of companies that CourtRecords.org does not own or control, or to people that we do not employ or manage. Information contained in this Policy may be changed or updated without notice at any time.
+**Collection of Information**
 
-** 1** **.  Information Collection and Use**
+  * **Personal Information**
 
-Information collected is stored in a single, secure database, accessible only by CourtRecords.org. CourtRecords.org collects information from our paying members (“Members”) or other persons who use, attempt to use, or access CourtRecords.org’s Services (“Users”): 
 
-** 1** **.  Information that may be gathered online**
 
-      This Site may collect three types of information from users who visit the Site: (1) information gathered by analyzing page views and user navigation patterns, and (2) information that users provide directly when they use any of our Services. We use page view and navigation information to ensure that users can find information on our web sites as quickly as possible. We use information collected when users upload documents to check their qualifications and verify their identity, as well as for billing purposes. 
+We collect personal information from you when you:  (1) register on the Site; (2) subscribe to one of our mailing lists; (3) contact us; and (4) order products and services.  The information we collect includes your name, address, email address, telephone number.  We also store your searches for 60 days, after which time we delete them. If you make a purchase, our service provider ClickBank will collect your payment information.  ClickBank does not share that information with us.
 
-      Certain other services may also require collecting personal information and/or registration. These services include, but are not limited to, subscribing to any of our mailing lists. If you choose not to register and provide personal information, you may not have access to those areas or products that require registration information.
+  
 
-**2.  Methods we Use for Gathering Information: Usage Tracking.**
 
-      CourtRecords.org analyzes user traffic patterns throughout its Sites. We do not attempt to identify individual visitors to our web sites, but we may collect data on general types of users based on domain name or browser type. This information is obtained directly from the user’s web browser identification information. 
+  * **Non-Personal Information**
 
-** 2** **.  Our Services.**
 
-      When a user registers for certain services, the user may be asked to provide certain information, including, but not limited to, your name, address, zip code, telephone number, email address, credit card or checking account number, and credit card expiration date. Once you register with us, you are not anonymous to us.
 
-**3.Cookies**    
- A cookie is a short line of text that is created by a web site and stored in a file on your computer. Cookies are used to store information about your preferences and activity during and after your visit to a web site. Cookies are also used widely in electronic commerce programs to keep track of which items a user has selected for purchase. Cookies cannot gather any information from your computer other than which you provide directly or that which is provided routinely by your browser software. Any user has the right and ability to refuse or delete cookies. However, such refusal or deletion may prevent the user from properly using the site’s cookie-dependent features.
+As part of the standard operation of the Site, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site.  In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site, your search history and other click-stream data. 
 
-** 4** **.  Use of Information**
+  
 
-Information we collect is generally used for the following purposes: 
 
-1. To build features that will make the services available on our site easier to use. This includes faster search requests, better member support and timely notice of new services and special offers.    
- 
+  * **Cookies**
 
-2. To improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our sites content, layout, and services. These uses improve our Services and better tailor them to meet your needs.    
- 
 
-3. To resolve disputes, troubleshoot problems and enforce our Terms and Conditions of Use. At times, we may look across multiple members or users to identify problems or resolve disputes, and in particular we may examine your information to identify members using multiple Member Ids or aliases.    
- 
 
-4. Sharing of Information. Except as otherwise provided herein, the information we collect from you is shared with our marketing partners or other third parties. We may use the personal information that you supply to us and we may work with other third parties to bring selected retail opportunities to you via direct mail, email and telemarketing. CourtRecords.org may sell or rent aggregated statistical information and user, member or former member specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties. If you want CourtRecords.org to stop sharing information it has about you in the future, you may notify us of this fact by contacting CourtRecords.org’s Member Services department at support AT CourtRecords.org. 
+We may use cookies to collect the non-personal information described above.  A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site.  We may also use cookies to remember you when you return to the Site.  In addition, our vendor ClickBank may place a cookie on the Site to recognize the website that referred you to the Site.  You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences.
 
-We reserve the right to disclose personal information, including Sensitive Information, when we believe that such disclosure is appropriate to comply with the law or a request by a government official, to protect the rights or property of CourtRecords.org, or to enforce our Terms and Conditions of Use. In the event that CourtRecords.org or substantially all of its assets are acquired by a third party, member information and Sensitive Information may be some of the transferred assets. 
+**Access to Information You Provide to Us**
 
-** 5** **.  Agents**
+You may access any personal information you provide to us and correct or modify such information by sending an email with your request to [_support@cisworldwide.com_](mailto:support@cisworldwide.com). 
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from member lists, analyzing data, providing marketing assistance, processing credit card payments, and providing member services. They have access to personal and Sensitive Information needed to perform their functions, but may not use it for other purposes. 
+**Use of Information**
 
-** 6** **.  Special Offers and Announcements**
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the Site; (3) to contact you via email, direct mail and telephone with service updates and information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (4) to contact you when necessary; (5) to review Site usage and operations; (6) to address problems with the Site, our business or our products and services; and (7) to protect the security or integrity of the Site and our business. 
 
-We send all new members a welcoming email or other notification to verify password and username. Active members and former members will occasionally receive information on products, services, special deals, and a newsletter. 
+**Disclosure of Information**
 
-** 7** **.  Security**
+We may disclose information collected from and about you to the following entities for the following purposes: **** (1) to our related companies, service providers and suppliers, if the disclosure will enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our terms of use or of our rights or the rights of any third party; (3) **** to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.  We **** may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties.  If you would prefer that we not share your personal information with such third parties, please contact us at [_support@cisworldwide.com_](mailto:support@cisworldwide.com). 
 
-CourtRecords.org takes every precaution to protect our users and members’ Sensitive Information, both online and offline. Your Sensitive Information is password-protected for your privacy and security.  
+We may disclose aggregate, non-personally identifiable information about site users to third parties.
 
-  Sensitive Information is also protected offline in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or member services representative) are granted access to Sensitive Information. Furthermore, all employees are kept up-to-date on our security practices and changes in those practices. Finally, the servers that we store Sensitive Information on are kept in a secure environment. If you have any questions about the security at our website, you can send an email to support AT CourtRecords.org. 
+**Security**
 
-Every User who has an account on this Site is responsible for (i) keeping his or her account password confidential and secured, (ii) restricting access to his or her computer; and (iii) keeping the e-mail address associated with that account current.
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.   
 
-** 8** **.  Other Sites**
+**Children**
 
-CourtRecords.org forwards users and members to other sites. Please be aware that this website and CourtRecords.org may not be responsible for the business and privacy practices of these other sites. We encourage you to be aware of this when you leave our site and to read the legal notices and privacy policies of each and every website you visit. 
+We do not direct the Site to, nor do we knowingly collect any personal information from, children under thirteen. 
 
-** 9** **.  Correction/Updating Personal Information**
+**Third Party Websites**
 
-If a Members’ personal information changes we will endeavor to provide a way to correct or update that members personal data provided to us. This can usually be done by contacting our Member Services Department. 
+The Site may contain links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the activities and practices that take place on these sites.  Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.
 
-** 10** **.  Notification of Changes**
+**Changes to This Privacy Policy**
 
-If we decide to change our Policy, we will post these changes on this website or provide other notification of our revised Policy so our users and members are always aware of what information we collect, how we use it, and when we disclose it. 
+We may change this privacy policy from time to time.  When we do, we will post the change(s) on our website.  If we change the policy in a material way, we will provide appropriate online notice to you.
 
-**11.  Children's Online Privacy Protection**
+**Contact Us**
 
-This website serves general users of the World Wide Web. This Site is intended for adult or adult supervised use. We support and comply with the Children's Online Protection Act (COPPA) and we do not knowingly collect information from children under the age of 13, nor do we share such information with third parties. UNDER NO CIRCUMSTANCES ARE PERSONS 13 YEARS OF AGE OR YOUNGER PERMITTED TO SUBMIT CONTACT, DEMOGRAPHIC OR BILLING INFORMATION. Children under the age of 18 may use this website only with the involvement of a parent or guardian.
+If you have questions or concerns about this Privacy Policy, contact us at [_support@cisworldwide.com_](mailto:support@cisworldwide.com). 
+
+  
+
