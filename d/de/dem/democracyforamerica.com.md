@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224112500id_/http%3A//www.democracyforamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623071740id_/http%3A//www.democracyforamerica.com/privacy) for the most accurate reproduction.*
 
-# Democracy for America » Privacy Policy
+# DemocracyForAmerica.com » Privacy Policy
 
-At Democracy for America, we are committed to protecting your online privacy and the security of the information that you might provide to us. 
+### [Home](https://web.archive.org/) » [Privacy Policy](https://web.archive.org/privacy)
 
-Our privacy policy explains the information practices we use at democracyforamerica.com, blogforamerica.com, and dfalink.com related to: 
+At Democracy for America, we are committed to protecting your online privacy and the security of the information that you might provide to us.
+
+Our privacy policy explains the information practices we use at democracyforamerica.com, blogforamerica.com, and dfalink.com related to:
 
   1. How we use the information you provide Democracy for America. 
   2. Information on Children. 
@@ -21,7 +23,7 @@ Our privacy policy explains the information practices we use at democracyforamer
 
 **How we use the information you provide Democracy for America:**
 
-We will potentially use this information to send you news and information about Democracy for America. When you volunteer online we may ask you to give us contact information (such as your name and e-mail address) and geographic information (such as your zip code and state). We may ask you to tell us how you would like to help. We may use this information to send you material and to help match your interests to our activities. If you provide your phone number, we may call you. You may update your information by emailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). Democracy for America may share information with its successor organizations, if any.
+We will potentially use this information to send you news and information about Democracy for America. When you volunteer online we may ask you to give us contact information (such as your name and e-mail address) and geographic information (such as your zip code and state). We may ask you to tell us how you would like to help. We may use this information to send you material and to help match your interests to our activities. If you provide your phone number, we may call you. You may update your information by emailing us at [website@democracyforamerica.com](mailto:website@democracyforamerica.com). Democracy for America may share information with its successor organizations, if any.
 
 **Information on Children:**
 
@@ -45,13 +47,13 @@ Democracy for America does use postal mailing lists it acquires from other organ
 
 **When you subscribe for updates:**
 
-We will use your email address to send you updates. You may remove your name from our mailing lists at anytime by e-mailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). 
+We will use your email address to send you updates. You may remove your name from our mailing lists at anytime by e-mailing us at [website@democracyforamerica.com](mailto:website@democracyforamerica.com).
 
 **When you sign up for our mailing lists:**
 
 We collect your e-mail address, state, and zip code.
 
-We use your e-mail address to send you Democracy for America updates. We may use your zip code and state to send you e-mail messages about upcoming campaign events in your area. You may remove your e-mail address from our lists by emailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). We do not share our mailing lists with non-political third parties; however, we may share your information with other like-minded Democratic candidates and organizations.
+We use your e-mail address to send you Democracy for America updates. We may use your zip code and state to send you e-mail messages about upcoming campaign events in your area. You may remove your e-mail address from our lists by emailing us at [website](mailto:website@democracyforamerica.com)[@democracyforamerica.com](mailto:info@democracyforamerica.com). We do not share our mailing lists with non-political third parties; however, we may share your information with other like-minded Democratic candidates and organizations.
 
 We log IP addresses, or the location of your computer network on the Internet, for systems administrations and troubleshooting purposes. We also may use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site. We do not use this data to develop profiles of individual visitors to our web site.
 
@@ -63,26 +65,29 @@ When you contribute online, we use a secure server and SSL to protect your credi
 
 At Democracy for America, we are putting forth every effort to ensure the security and privacy of the information that you share with us online. Remember that steps you take to help protect the privacy of your personal information, such as safeguarding your passwords and logging off the Web site after viewing or submitting personal information, are equally important. If you have broadband access to the Internet it is strongly advised to use a firewall.
 
+**When you sign one of our petitions:**
+
+When you sign one of our petitions, we treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses. We may also make comments available to the press and public online, identifying only your first name, the first initial of your last name, your city and state.
+
 **Choice/Unsubscribe:**
 
-We provide you the opportunity to opt-out of receiving communications from us easily and promptly. E-mail us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). Our unsubscribe requests are processed weekly. To comply with Federal election law, our contribution records will be continuously maintained in a separate secure database.
+We provide you the opportunity to opt-out of receiving communications from us easily and promptly. E-mail us at [website@democracyforamerica.com](mailto:info@democracyforamerica.com). Our unsubscribe requests are processed weekly. To comply with Federal election law, our contribution records will be continuously maintained in a separate secure database.
 
 **Correcting Your Information:**
 
-If you need to correct the information you have provided to us, please send us an email to [info@democracyforamerica.com](mailto:info@democracyforamerica.com). 
+If you need to correct the information you have provided to us, please send us an email to [website@democracyforamerica.com](mailto:info@democracyforamerica.com).
 
 If you need to change your email address, you can unsubscribe from our mailing list and sign up again using your new information.
 
 **Contacting us about privacy:**
 
-If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site, or your interaction with this web site, send email to: [webmaster@democracyforamerica.com](mailto:webmaster@democracyforamerica.com).
+If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site, or your interaction with this web site, send email to: [website@democracyforamerica.com](mailto:website@democracyforamerica.com).
 
 You can also reach us via US Mail at:
 
 Privacy  
 Democracy for America   
 P.O. Box 1717  
-Burlington, VT 05401  
-
+Burlington, VT 05401
 
 In an ongoing effort to provide the utmost in security of the information you give to us, Democracy for America reserves the right to revise or update the policy used. Should any of our changes be substantial in nature, we will post them clearly and conspicuously in advance of their effective date. Updates or revisions will not be applied retroactively.
