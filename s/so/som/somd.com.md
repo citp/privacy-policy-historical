@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225172252id_/http%3A//www.somd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623152619id_/http%3A//somd.com/privacy) for the most accurate reproduction.*
 
 # Our View on Reader Privacy - Official Privacy Statement for somd.com
 
