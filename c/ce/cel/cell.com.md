@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224145354id_/http%3A//www.cellpress.com/misc/page%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623071742id_/http%3A//www.cellpress.com/misc/page%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -102,7 +102,7 @@ Customer Service Department
 
 Orlando, FL 32887-4800 USA  
 Email: [subs@cell.com](mailto:subs@cell.com); [feedback@cell.com](mailto:feedback@cell.com)  
-Tele: (866) 314-2355 (Toll Free US & Canada), (407) 345-3000 (outside US & Canada),  
+Tele: (866) 314-2355 (Toll Free US & Canada), (407) 563-6021 (outside US & Canada),  
 Fax: (407) 363 9661
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem. 
