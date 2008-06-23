@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210550id_/http%3A//www.pandia.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623222803id_/http%3A//www.pandia.com/info/privacy.html) for the most accurate reproduction.*
 
 # Pandia, privacy policy
 
@@ -16,7 +16,7 @@ Demographic and profile data may also be collected at our site. We may use this 
 
 This site contains links to other sites. Pandia is not responsible for the privacy practices or the content of such websites. 
 
-[The Pandia Bookstore](https://web.archive.org/web/20071225210550id_/http%3A//www.pandia.com/bookstore/index.html) is operated in association with Amazon.com. Please see [Amazon.com's privacy statement](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/ref=gw_m_ln_nh_pp/002-8865118-7457809) for more information. 
+[The Pandia Bookstore](https://web.archive.org/web/20080623222803id_/http%3A//www.pandia.com/bookstore/index.html) is operated in association with Amazon.com. Please see [Amazon.com's privacy statement](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/ref=gw_m_ln_nh_pp/002-8865118-7457809) for more information. 
 
 We may use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. 
 
