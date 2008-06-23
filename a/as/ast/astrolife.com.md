@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041530id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623205845id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
 
-# Indian Astrology - Vedic Horoscope - Astrolife.com
+# Privacy Policy - Astrolife.com
 
 We, at Astrolife.com, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to contact us.
 
