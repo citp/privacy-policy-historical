@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114021id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623044332id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
 
 # Privacy Statement for TheCarConnection.com - The Car Connection
-
-  
-
 
 TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site. 
 
@@ -53,6 +50,26 @@ Other requests, comments or questions may be addressed to us by e-mail at [Lette
 
 [Contact Information ](https://web.archive.org/index.asp?article=166)
 
+| |    
+---  
 |   
 ---  
-[](http://del.icio.us/post "Post this story to del.icio.us") |  | 
+ |  |  | NEW ON TCC'S BLOG  
+---|---  
+[Nissan Does a 360](http://www.thecarconnection.com/blog/?p=1221 "Nissan Does a 360")  
+---  
+| Wednesday, April 30th, 2008 at 5:10 am  
+| [](http://www.thecarconnection.com/blog/?p=1221 "Nissan Does a 360")  
+| Japanese maker lifts the kimono and reveals scores of products, current and new.  
+[Read Full Blog](https://web.archive.org/blog "Read Full Blog")  
+| Recent Entries:  
+| Wednesday, April 30th, 2008 at 12:01 am  
+| [Audi Asks: Do You Have the Right Stuff?](http://www.thecarconnection.com/blog/?p=1220 "Audi Asks: Do You Have the Right Stuff?")  
+| Tuesday, April 29th, 2008 at 12:44 pm  
+| [Can You Identify These Mystery Cars?](http://www.thecarconnection.com/blog/?p=1219 "Can You Identify These Mystery Cars?")  
+| Tuesday, April 29th, 2008 at 12:03 pm  
+| [GM Slashing Truck Production; Worse May be Coming](http://www.thecarconnection.com/blog/?p=1218 "GM Slashing Truck Production; Worse May be Coming")  
+| Tuesday, April 29th, 2008 at 3:37 am  
+| [What Next Kerkorian?](http://www.thecarconnection.com/blog/?p=1217 "What Next Kerkorian?")  
+| Monday, April 28th, 2008 at 1:54 pm  
+| [Nissan Wires Up With Innovative EA2 Concept](http://www.thecarconnection.com/blog/?p=1216 "Nissan Wires Up With Innovative EA2 Concept")
