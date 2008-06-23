@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetraction.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224173527id_/http%3A//www.affiliatetraction.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetraction.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623091637id_/http%3A//affiliatetraction.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Affiliate Marketing - AffiliateTraction™
 
