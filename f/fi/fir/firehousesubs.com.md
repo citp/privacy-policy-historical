@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222101459id_/http%3A//www.firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623053412id_/http%3A//www.firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
 
 # Firehouse Subs ® Privacy Policy
 
@@ -79,7 +79,7 @@ Your Account Information is password-protected. In order to maintain this protec
 
 
   
-[](https://web.archive.org/web/20071222101459id_/http%3A//www.firehousesubs.com/printfriendly.cfm?ContentID=247)  
+[](https://web.archive.org/web/20080623053412id_/http%3A//www.firehousesubs.com/printfriendly.cfm?ContentID=247)  
   
   
   
