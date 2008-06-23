@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225112758id_/http%3A//www.unitedvacations.com/includes/reader.asp%3Fsection%3DHOME%26xmlFile%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623043640id_/http%3A//www.unitedvacations.com/includes/reader.asp%3Fsection%3DHOME%26xmlFile%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - United Vacations - Protecting the Privacy of Our Customers
 
 **Introduction**  
 At United Vacations, we believe that it is extremely important to protect the privacy of our customers. We are providing this privacy policy to help you better understand the ways in which your personal information is gathered and used on the www.unitedvacations.com website.
 
-United Vacations is operated by The Mark Travel Corporation. The Mark Travel Corporation and its affiliated technology and marketing agencies, and travel agency distributors, gather, store, and process the information from the United Vacations website. They help United Vacations use customer information to create and distribute products, specials, promotions, and website features for our customers. _Except as indicated in this Privacy Policy, The Mark Travel Corporation, and their affiliated technology and marketing agencies, and travel agency distributors (hereafter "United Vacations") will not sell or share your personally identifiable information with any third party company or agency without your permission._ If you have any comments or questions regarding this privacy statement, please contact United Vacations via our online [Customer service](https://web.archive.org/web/20071225112758id_/http%3A//www.unitedvacations.com/support/customer.asp).
+United Vacations is operated by The Mark Travel Corporation. The Mark Travel Corporation and its affiliated technology and marketing agencies, and travel agency distributors, gather, store, and process the information from the United Vacations website. They help United Vacations use customer information to create and distribute products, specials, promotions, and website features for our customers. _Except as indicated in this Privacy Policy, The Mark Travel Corporation, and their affiliated technology and marketing agencies, and travel agency distributors (hereafter "United Vacations") will not sell or share your personally identifiable information with any third party company or agency without your permission._ If you have any comments or questions regarding this privacy statement, please contact United Vacations via our online [Customer service](https://web.archive.org/web/20080623043640id_/http%3A//www.unitedvacations.com/support/customer.asp).
 
                                                                    Back To Top 
 
@@ -108,6 +108,6 @@ Back To Top
 
   
 **How to Contact United Vacations**  
-If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](https://web.archive.org/web/20071225112758id_/http%3A//www.unitedvacations.com/support/customer.asp).
+If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](https://web.archive.org/web/20080623043640id_/http%3A//www.unitedvacations.com/support/customer.asp).
 
 Back To Top 
