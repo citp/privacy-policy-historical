@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223205801id_/http%3A//www.stratasys.com/about.aspx%3Fid%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623043713id_/http%3A//stratasys.com/about.aspx%3Fid%3D120) for the most accurate reproduction.*
 
 # - Stratasys -
 
