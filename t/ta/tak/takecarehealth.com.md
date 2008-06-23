@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225050505id_/http%3A//www.takecarehealth.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623082708id_/http%3A//www.takecarehealth.com/privacy.htm) for the most accurate reproduction.*
 
 # Take Care Health Systems - Privacy Statement
 
