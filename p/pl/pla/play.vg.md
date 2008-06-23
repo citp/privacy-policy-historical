@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225202208id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623190401id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
 
 # play.vg Privacy Policy
 
   
   
+**Warning** : include() [[function.include](https://web.archive.org/web/20080623190401id_/http%3A//www.play.vg/function.include)]: URL file-access is disabled in the server configuration in **/home/goplay/public_html/content_start.php** on line **26**
 
+**Warning** : include(http://www.play.vg/468adsense.php) [[function.include](https://web.archive.org/web/20080623190401id_/http%3A//www.play.vg/function.include)]: failed to open stream: no suitable wrapper could be found in **/home/goplay/public_html/content_start.php** on line **26**
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20080623190401id_/http%3A//www.play.vg/function.include)]: Failed opening 'http://www.play.vg/468adsense.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/goplay/public_html/content_start.php** on line **26**
 
 play.vg Privacy Policy
 
-Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20071225202208id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
+Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20080623190401id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
 
 Visitors: Your privacy is important to us. That is why no personal information is collected about you by vgstores.com. No information about specific visitors is ever tracked or stored. However, general, non-personal data (such as the type of web browser you are using for example) may be logged for aggregate statistics data. This information is used to ensure that the site is compatible with the majority of visitors.
 
