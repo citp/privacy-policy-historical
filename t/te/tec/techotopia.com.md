@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203159id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623125557id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Techotopia:Privacy policy - Techotopia
 
 ### From Techotopia
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
-
-## Contents
-
-[hide]
-
-  * 1 The Way We Use Information
-  * 2 Our Commitment To Data Security
-  * 3 Our Commitment To Children's Privacy
-  * 4 How To Contact Us
-
-
 
 ## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=1 "Edit section: The Way We Use Information")] The Way We Use Information 
 
