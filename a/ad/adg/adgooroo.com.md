@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216023012id_/http%3A//www.adgooroo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623215737id_/http%3A//www.adgooroo.com/privacy.php) for the most accurate reproduction.*
 
 # AdGooroo Privacy Policy
 
@@ -24,7 +24,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing subscriber service and making available other products and services to our subscribers and prospective subscribers. Occasionally, we may also use the information we collect to notify you about important changes to the AdGooroo.com website, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at unsubscribe@adgooroo.com.
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing subscriber service and making available other products and services to our subscribers and prospective subscribers. Occasionally, we may also use the information we collect to notify you about important changes to the AdGooroo.com website, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at customersupport@adgooroo.com or visiting <http://www.adgooroo.com/unsubscribe.php>.
 
 **What Are Cookies?**
 
