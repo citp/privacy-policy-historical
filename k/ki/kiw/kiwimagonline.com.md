@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225135512id_/http%3A//kiwimagonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623082946id_/http%3A//kiwimagonline.com/privacy.htm) for the most accurate reproduction.*
 
 # Kiwi Magazine Privacy Policy
 
