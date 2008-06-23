@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225104832id_/http%3A//www.perpetualkid.com/index.asp%3FPageAction%3DCustom%26ID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623144918id_/http%3A//www.perpetualkid.com/index.asp%3FPageAction%3DCustom%26ID%3D1) for the most accurate reproduction.*
 
 # Perpetual Kid Privacy Policy
 
