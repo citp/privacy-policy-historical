@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenews.com.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225082525id_/http%3A//www.livenews.com.au/93.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenews.com.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623061550id_/http%3A//livenews.com.au/93.aspx) for the most accurate reproduction.*
 
 # LIVENEWS.com.au > Privacy Policy
 
