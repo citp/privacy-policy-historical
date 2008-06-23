@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drugs.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220185122id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drugs.com privacy policy that was archived on 2008-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623162624id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <title>Privacy Policy for Drugs.com</title>
@@ -22,25 +22,18 @@
 
 <link rel="alternate stylesheet" type="text/css" href="/css/features_1024.css" title="1024 x 768">
 
-<script type="text/javascript">
-window.onload=function(){
-if(!NiftyCheck())
-    return;
-Rounded("div#login","tr bl br","transparent","#aabbdd");
-Rounded("div#refine_box","tl tr bl br","#ffffff","#e9f0ef");
-}
+<script type="text/javascript" src="/js/ajax.js,/js/livesearch.js,/js/misc.js,/js/generateads.js"></script>
+
+<script language="Javascript" type="text/javascript">
+  <!--
+  AD_ZONE = 'generalhealth';
+  AD_DRUGS = new Array();
+  AD_SECOND = new Array();
+  AD_CTYPE = 'druginfo';
+  -->
 </script>
 
-<script language="javascript" src="/js/ajax.js,/js/livesearch.js,/js/misc.js" type="text/javascript"></script>
 
-
-      <script language="JavaScript" type="text/javascript">
-<!--
-AD_SITE        = 'cm.pub.drugs';
-AD_CATEGORIES  = new Array('generalhealth');
-//-->
-</script>
-<script language="Javascript" src="http://www.healthcentral.com/common/ads/generateads.js" type="text/javascript"></script>
 </head>
 
 <body onclick="liveSearchHide();">
@@ -49,7 +42,10 @@ AD_CATEGORIES  = new Array('generalhealth');
 
 <div id="login_register_container"><div id="login_register"></div></div>
 <div id="my_drug_list_add"></div>
-
+<div id="floatBox1"></div>
+<div id="floatBox2"></div>
+<div id="floatBox3"></div>
+<div id="overlay" style="display:none;" onclick="overlayHide();"></div>
 <div id="login">
   <div id="login-inside">
     <form action="" method="post" onsubmit="javascript:return false;">
@@ -59,7 +55,7 @@ AD_CATEGORIES  = new Array('generalhealth');
       <label for="f-password">Password</label>:<br>
       <input type="password" name="password" class="text" id="f-password"><br>
       <div class="spacer3"></div>
-      <div style="float: left; margin-right: 5px;"><input type="submit" value="Sign In" onclick="signin();"></div><a href="/forum/login.php?do=lostpw" style="font-size: 10px;" onclick="login_close();">Forgotten your password?</a>
+      <div style="float: left; margin-right: 5px;"><input type="submit" value="Sign In" onclick="signin(event);" id="signin_button"></div><a href="/forum/login.php?do=lostpw" style="font-size: 10px; line-height: 11px;" onclick="login_close();">Forgotten your password?</a>
     </form>
   </div>
 </div>
@@ -71,19 +67,9 @@ AD_CATEGORIES  = new Array('generalhealth');
     <tbody><tr>
       <td align="left" width="1" class="ddcad1">
         <div id="ddcad1">
-        <script type="text/javascript">
-        <!--
-        THCN_DISPLAY_AD(19);
-        //-->
-        </script>
-        </div>
+        <script language="Javascript" type="text/javascript">display_ad(1);</script>        </div>
       </td>
-      <td width="728">
-<script language="JavaScript" type="text/javascript">
-<!--
-DISPLAY_AD(1,1,1);
-//-->
-</script></td>
+      <td width="728"><script language="Javascript" type="text/javascript">display_ad(2);</script></td>
       <td class="v_ad" valign="top" width="15" height="90">&nbsp;</td>
     </tr>
   </tbody></table>
@@ -108,7 +94,7 @@ DISPLAY_AD(1,1,1);
                                 <td><input type="button" onclick="javascript:main_search('livesearch_main', '');" value="Drug Search"></td>
                                 <td><input type="button" onclick="javascript:main_search('livesearch_main', 'inet');" value="Web Search"></td>
                               </tr>
-                            </tbody></table><div id="LSResult_main" style="display: none;"><ul id="LSShadow_main"><li></li></ul></div>
+                            </tbody></table><div id="LSResult_main" class="LSResult" style="display: none; margin: -2px 0 0 1px;"></div>
                           </form>
                           <script type="text/javascript">
                             liveSearchInit('livesearch_main');
@@ -142,17 +128,12 @@ DISPLAY_AD(1,1,1);
 </td>
           <td width="12%"><div class="rbroundbox">
 <div class="rbtop"><div></div></div>
-<div class="rbcontent"><a href="/drug_information.html">Drugs &amp;<br>Medications</a></div>
+<div class="rbcontent"><a href="/drug_information.html">A to Z <br> Drug List</a></div>
 </div>
 </td>
           <td width="12%"><div class="rbroundbox">
 <div class="rbtop"><div></div></div>
-<div class="rbcontent"><a href="/medical_conditions.html">Diseases &amp;<br>Conditions</a></div>
-</div>
-</td>
-          <td width="12%"><div class="rbroundbox">
-<div class="rbtop"><div></div></div>
-<div class="rbcontent"><a href="/news.html">Pharmaceutical<br>News&nbsp;&amp;&nbsp;Articles</a></div>
+<div class="rbcontent"><a href="/medical_conditions.html">Drugs by<br>Condition</a></div>
 </div>
 </td>
           <td width="12%"><div class="rbroundbox">
@@ -177,6 +158,11 @@ DISPLAY_AD(1,1,1);
 </td>
           <td width="12%"><div class="rbroundbox">
 <div class="rbtop"><div></div></div>
+<div class="rbcontent"><a href="/news.html">Pharmaceutical<br>News&nbsp;&amp;&nbsp;Articles</a></div>
+</div>
+</td>
+          <td width="12%"><div class="rbroundbox">
+<div class="rbtop"><div></div></div>
 <div class="rbcontent"><a href="/forum/">Community<br>Forums</a></div>
 </div>
 </td>
@@ -186,16 +172,12 @@ DISPLAY_AD(1,1,1);
       		  <div id="gSubNavDiv">
               
                       		    <div id="gSubNavDivreg">
-        		              		        Welcome <b>Guest</b><span style="padding: 0px 8px;">|</span><a href="/register.php" rel="nofollow">Register</a> or <a href="#" onclick="javascript:login(this, event); return false;" rel="nofollow">Sign In</a>
+        		              		        Welcome <b>Guest</b><span style="padding: 0px 8px;">|</span><a href="/register.php" rel="nofollow">Register</a> or <a href="#" onclick="javascript:login(this, event); return false;" rel="nofollow">Sign In</a><span style="padding: 0px 8px;">|</span><a href="/mednotes.html" rel="nofollow">MedNotes</a> <img src="/img/beta.gif" alt="">
         		              		    </div>&nbsp;
-        		            				<a href="#" onclick="javascript:use_member_feature(event, '/my_viewing_history.php'); return false;" rel="nofollow">My Viewing History</a>
-        						<span style="padding: 0px 8px;">|</span>
-        				<a href="#" onclick="javascript:use_member_feature(event, '/my_drug_list.php'); return false;" rel="nofollow">My Drug List</a>
+        		            				<a href="#" onclick="javascript:use_member_feature(event, '/my_drug_list.php'); return false;" rel="nofollow">My Drug List</a>
         						<span style="padding: 0px 8px;">|</span>
         				<a href="#" onclick="javascript:use_member_feature(event, '/my_interactions_lists.php'); return false;" rel="nofollow">My Interactions Lists</a>
-        						<span style="padding: 0px 8px;">|</span>
-        				<a href="#" onclick="javascript:use_member_feature(event, '/member_offers.php'); return false;" rel="nofollow">Member Offers</a>
-        			  &nbsp;
+                &nbsp;        						
         			                
             </div>
           </td>
@@ -209,18 +191,20 @@ DISPLAY_AD(1,1,1);
 
 <div id="wrap-left">
 <div id="wrap-right">
-<div class="wrap-floatsins">
+
+  <div class="wrap-floatsins">
 
 <div class="wrap-floats-inner">
 
 
 <div class="content"><div class="textpadder">
 
+
 	
 <!-- google_ad_section_start -->
 <div class="hgbroundbox">
 <div class="hgbtop"><div></div></div>
-<div class="hgbcontent"><div class="headerTitleLeft"><h1>Privacy Policy</h1></div></div>
+<div class="hgbcontent vmig"><div class="headerTitleLeft"><h1>Privacy Policy</h1></div></div>
 </div><div class="contentBox">
 <h1>Drugs.com Privacy Statement</h1>
 <p>For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to the Drugsite Trust. The terms "You" and "End-User" refer to You as a user of this Site.</p>
@@ -270,7 +254,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 <h3>Changes to the Privacy Policy</h3>
 <p>If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.</p>
 <p>&nbsp;</p>
-<p>Updated: November 1, 2007</p><div class="dotline"></div><div id="first_ad_unit"></div><script type="text/javascript" language="JavaScript" src="/js/google_misc.js"></script><script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><div class="spacer"></div>
+<p>Updated: April 15, 2008</p><div class="dotline"></div><div id="first_ad_unit"></div><script type="text/javascript" language="JavaScript" src="/js/google_misc.js"></script><script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><div class="spacer"></div>
 
 <!-- google_ad_section_end -->
 
@@ -291,7 +275,6 @@ google_color_url = "008000";
 </script> 
 </div>
 
-<!-- disabled until finalised top search box , better test this properly-->
 <div class="sbroundbox" id="bottom_search">
 	<div class="sbtop"><div></div></div>
 		<div class="sbcontent">
@@ -299,11 +282,11 @@ google_color_url = "008000";
                   <form style="margin:0px; padding:0px;" method="get" action="" onsubmit="return false">
         			<table cellpadding="1" cellspacing="0">
                 <tbody><tr>
-                  <td style="width:100%;"><input type="text" alt="Search" id="livesearch_main2" onkeypress="liveSearchStart('main2');" style="width:99%;height:18px;border:1px solid black;" size="55" maxlength="50" value=""></td>
+                  <td style="width:100%;"><input type="text" alt="Search" id="livesearch_main2" onkeypress="liveSearchStart('main2');" style="width:99%;height:18px;border:1px solid #999;" size="55" maxlength="50" value=""></td>
                   <td><input type="button" onclick="javascript:main_search('livesearch_main2', '');" value="Drug Search"></td>
                   <td><input type="button" onclick="javascript:main_search('livesearch_main2', 'inet');" value="Internet Search"></td>
                 </tr>
-              </tbody></table><div id="LSResult_main2" style="display: none;"><ul id="LSShadow_main2"><li></li></ul></div>
+              </tbody></table><div id="LSResult_main2" class="LSResult" style="display: none; margin: -2px 0 0 1px;"></div>
             </form>
             <script type="text/javascript">
               liveSearchInit('livesearch_main2');
@@ -312,39 +295,42 @@ google_color_url = "008000";
 		</div>
 	<div class="sbbot"><div></div></div>
 </div>
-<!-- -->
 
-</div></div> <div class="leftnav"><div class="textpadder">
+</div></div> 
+
+<div class="leftnav"><div class="textpadder">
 <div class="hpContentBlock">
 <div class="rbroundbox">
 	<div class="rbtop"><div></div></div>
-		<div class="rbcontentheader">
-			<div style="float:right;margin-top:1px;"><img src="/img/question.gif" alt="Help"></div>All Services
-		</div>
+		<div class="rbcontentheader">Services</div>
 </div>
 	<div class="contentBoxlefttop">
 	<div class="padder">
-			<a href="/a-to-z-drug-list.html">A-Z Drug List</a><br>
-			<a href="/drug_information.html">Drugs &amp; Medications</a><br>
-			<a href="/medical_conditions.html">Diseases &amp; Conditions</a><br>
-			<a href="/news.html">News &amp; Articles</a><br>
+			<a href="/drug_information.html">A to Z Drug List</a><br>
+			<a href="/medical_conditions.html">Drugs by Condition</a><br>
+			<a href="/sfx/">Drug Side Effects</a><br>
 			<a href="/pill_identification.html">Pill Identifier</a><br>
 			<a href="/drug_interactions.html">Interactions Checker</a><br>
-			<a href="/sfx/">Drug Side Effects</a><br>
-			<a href="/image_search.html">Drug Image Search</a><br>
+
+			<a href="/news.html">News &amp; Articles</a><br>
 			<a href="/newdrugs.html">New Drug Approvals</a><br>
 			<a href="/new-drug-applications.html">New Drug Applications</a><br>
 			<a href="/fda_alerts.html">FDA Drug Alerts</a><br>
 			<a href="/clinical_trials.html">Clinical Trial Results</a><br>
+
+			<a href="/image_search.html">Drug Image Search</a><br>
+
 			<a href="/care_notes.html">Patient Care Notes</a><br>
 			<a href="/medical_encyclopedia.html">Medical Encyclopedia</a><br>
 			<a href="/medical_dictionary.html">Medical Dictionary</a><br>
-			<!--<a href="/health_video.html">Medical Videos</a><br/>-->
+
+			<a href="/drug-classes.html">Drug Classification</a><br>
+
 			<a href="/forum/">Community Forums</a><br>
+
 			<div id="line"></div>
 			<a href="/professionals.html"><b>For Professionals</b></a><br>
 			<a href="/imprints.html">Drug Imprint Codes</a><br>
-			<a href="http://www.medilexicon.com/" target="_blank" title="[External Website Link to Medilexicon.com]" onclick="javascript:urchinTracker('/outgoing/medilexicon.html');">Medical Abbreviations</a>
 			<a href="/vet/">Veterinary Drugs</a><br>
 			<a href="/contact.html">Contact Us</a><br>
 			<a href="/rss.html">News Feeds</a><a href="/rss.html"><img src="/img/myicon.gif" alt="RSS Feeds" style="margin: 1pt 0pt -2px; padding: 0pt 2px;"></a><br>
@@ -368,7 +354,7 @@ google_color_url = "008000";
 	<div class="contentBoxleft">
 	<div class="padder" style="line-height: 140%;">
 
-<a href="http://www.drugs.com/omnitrope.html">Omnitrope</a><br><a href="http://www.drugs.com/viread.html">Viread</a><br><a href="http://www.drugs.com/prinivil.html">Prinivil</a><br><a href="http://www.drugs.com/aloxi.html">Aloxi</a><br><a href="http://www.drugs.com/cialis.html">Cialis</a><br><a href="http://www.drugs.com/actoplus_met.html">Actoplus Met</a><br><a href="http://www.drugs.com/ciprodex.html">Ciprodex</a><br><a href="http://www.drugs.com/digoxin.html">Digoxin</a><br><a href="http://www.drugs.com/zingo.html">Zingo</a><br><a href="http://www.drugs.com/trimox.html">Trimox</a><br><a href="http://www.drugs.com/vicodin.html">Vicodin</a><br><a href="http://www.drugs.com/viagra.html">Viagra</a><br><a href="http://www.drugs.com/propecia.html">Propecia</a><br><a href="http://www.drugs.com/lipitor.html">Lipitor</a><br><a href="http://www.drugs.com/xenical.html">Xenical</a><br><a href="http://www.drugs.com/azasite.html">AzaSite</a><br><a href="http://www.drugs.com/oraqix.html">Oraqix</a><br><a href="http://www.drugs.com/pegasys.html">Pegasys</a><br><a href="http://www.drugs.com/requip.html">Requip</a><br><a href="http://www.drugs.com/integrilin.html">Integrilin</a><br><a href="http://www.drugs.com/cefzil.html">Cefzil</a><br><a href="http://www.drugs.com/concerta.html">Concerta</a><br><a href="http://www.drugs.com/verdeso.html">Verdeso</a><br><a href="http://www.drugs.com/veregen.html">Veregen</a><br><a href="http://www.drugs.com/alesse.html">Alesse</a><br>	</div></div>
+<a href="http://www.drugs.com/acam2000.html">ACAM2000</a><br><a href="http://www.drugs.com/robaxin.html">Robaxin</a><br><a href="http://www.drugs.com/enjuvia.html">Enjuvia</a><br><a href="http://www.drugs.com/arcalyst.html">Arcalyst</a><br><a href="http://www.drugs.com/adipex.html">Adipex</a><br><a href="http://www.drugs.com/restylane.html">Restylane</a><br><a href="http://www.drugs.com/mircera.html">Mircera</a><br><a href="http://www.drugs.com/caduet.html">Caduet</a><br><a href="http://www.drugs.com/radiesse.html">Radiesse</a><br><a href="http://www.drugs.com/pulmicort.html">Pulmicort</a><br><a href="http://www.drugs.com/viagra.html">Viagra</a><br><a href="http://www.drugs.com/propecia.html">Propecia</a><br><a href="http://www.drugs.com/lipitor.html">Lipitor</a><br><a href="http://www.drugs.com/xenical.html">Xenical</a><br><a href="http://www.drugs.com/ephedrine.html">Ephedrine</a><br><a href="http://www.drugs.com/estradiol.html">Estradiol</a><br><a href="http://www.drugs.com/tekturna-hct.html">Tekturna HCT</a><br><a href="http://www.drugs.com/vivitrol.html">Vivitrol</a><br><a href="http://www.drugs.com/dacogen.html">Dacogen</a><br><a href="http://www.drugs.com/gabapentin.html">Gabapentin</a><br><a href="http://www.drugs.com/pro/cyanokit.html">Cyanokit</a><br><a href="http://www.drugs.com/alprazolam.html">Alprazolam</a><br><a href="http://www.drugs.com/prandin.html">Prandin</a><br><a href="http://www.drugs.com/plaquenil.html">Plaquenil</a><br><a href="http://www.drugs.com/brovana.html">Brovana</a><br>	</div></div>
 </div> 
         <div class="hpContentBlock">
     	<div class="rbroundbox">
@@ -378,22 +364,39 @@ google_color_url = "008000";
     </div>
     <div class="contentBoxleft">
     <div class="padder" style="line-height: 140%;">
-    <a href="http://www.drugs.com/kuvan.html">Kuvan</a><br><a href="http://www.drugs.com/triesence.html">Triesence</a><br><a href="http://www.drugs.com/cymbalta.html">Cymbalta</a><br><a href="http://www.drugs.com/mircera.html">Mircera</a><br><a href="http://www.drugs.com/combigan.html">Combigan</a><br><a href="http://www.drugs.com/tasigna.html">Tasigna</a><br><a href="http://www.drugs.com/renvela.html">Renvela</a><br><a href="http://www.drugs.com/voltaren-gel.html">Voltaren Gel</a><br><a href="http://www.drugs.com/ixempra.html">Ixempra</a><br><a href="http://www.drugs.com/doribax.html">Doribax</a><br>    <a href="/newdrugs.html">More...</a>
+    <a href="http://www.drugs.com/trivaris.html">Trivaris</a><br><a href="http://www.drugs.com/entereg.html">Entereg</a><br><a href="http://www.drugs.com/oraverse.html">OraVerse</a><br><a href="http://www.drugs.com/relistor.html">Relistor</a><br><a href="http://www.drugs.com/aplenzin.html">Aplenzin</a><br><a href="http://www.drugs.com/cimzia.html">Cimzia</a><br><a href="http://www.drugs.com/treximet.html">Treximet</a><br><a href="http://www.drugs.com/patanase.html">Patanase</a><br><a href="http://www.drugs.com/lexiscan.html">Lexiscan</a><br><a href="http://www.drugs.com/rotarix.html">Rotarix</a><br>    <a href="/newdrugs.html">More...</a>
     </div>
     </div>
-  </div> </div> <br class="brclear">
-</div> <div class="rightnavins"><div class="textpadder">
-<div class="hpContentBlock">
-  <div class="rbroundbox">
-  	<div class="rbtop"><div></div></div>
-    <div class="rbcontentheader">Join Drugs.com</div>
-  </div>
-  <div class="contentBoxrighttop">
-  	<div class="padder">
-    <a href="/register.php" rel="nofollow">Click here</a> to see what benefits you can get by joining our <a href="/register.php" rel="nofollow">FREE membership programme</a>.<div class="spacer3"></div>
-      <b>Drugs.com</b> is the most popular, comprehensive, and up-to-date source of drug information online. Providing advice on more than 24,000 prescription drugs and over-the-counter medicines for consumers and professionals .
-  	</div>
-  </div>
+  </div> </div> 
+
+<br class="brclear">
+</div> 
+<div class="rightnavins"><div class="textpadder">
+      <div class="hpContentBlock">
+        <div class="rbroundbox">
+        	<div class="rbtop"><div></div></div>
+          <div class="rbcontentheader">What's New</div>
+        </div>
+        <div class="contentBoxrighttop">
+        	<div class="padder">
+      
+            <div style="padding: 0; margin: 0 0 0 3px;">
+                <div style="padding: 0; margin: 0;"><img src="/img/mednotes-promo-logo-sml.gif" alt=""></div>
+                <div style="padding: 0; margin: 0 0 7px 0; font-size: 14px; line-height:120%; font-weight: bold;">Keep track of all<br> your medications.</div>
+                <div style="padding: 0; margin: 0; font-size: 12px; line-height:120%;">
+                <ul style="margin: 0; padding: 0 0 0 12px;">
+                <li style="margin: 0 0 7px 0;">Assembles all relevant medical information in a simple, easy to read format.</li>
+                <li style="margin: 0 0 7px 0;">In-depth consumer information, FDA alerts, drug comparisons and interactions.</li>
+                </ul>
+                <div><a href="/mednotes.html"><img src="/img/mednotes-learnmore.gif" style="margin: 5px 0 7px 0;" alt=""></a></div>
+                </div>
+            </div>
+        	</div>
+        </div>
+      </div>
+    <div id="adv-h3"><img src="/img/adv-h2.gif" alt="Advertisement"></div>
+<div class="contentBox">
+  <div style="text-align:center;padding:10px 0 5px 0"><script language="Javascript" type="text/javascript">display_ad(4);</script></div>
 </div>
 <div class="hpContentBlock">
 	<div class="rbroundbox">
@@ -406,30 +409,21 @@ google_color_url = "008000";
 	<div class="contentBoxRight">
 	<div class="padder" style="line-height: 140%;">
 
-<a href="/lipitor_drug.html" onclick="javascript:urchinTracker('/top10/click/lipitor.html');">Lipitor</a><br>
-<a href="/hs/viagra" onclick="javascript:urchinTracker('/top10/click/viagra.html');">Viagra</a><br>
-<a href="/hs/lose+weight/br_lose+weight" onclick="javascript:urchinTracker('/top10/click/lose-weight.html');">Lose Weight</a><br>
-<a href="/hs/treatment+center/br_" onclick="javascript:urchinTracker('/top10/click/drug-treatment.html');">Drug Treatment</a><br>
-<a href="/hs/zoloft" onclick="javascript:urchinTracker('/top10/click/zoloft.html');">Zoloft</a><br>
-<a href="/hs/depression/br_" onclick="javascript:urchinTracker('/top10/click/depression.html');">Depression</a><br>
-<a href="/hs/drug+abuse/br_" onclick="javascript:urchinTracker('/top10/click/drug-abuse.html');">Drug Abuse</a><br>
-<a href="/hs/health+insurance/br_health+insurance" onclick="javascript:urchinTracker('/top10/click/health-insurance.html');">Health Insurance</a><br>
-<a href="/hs/healthy+diet/br_healthy+diet" onclick="javascript:urchinTracker('/top10/click/dieting.html');">Dieting</a><br>
-<a href="/hs/pain+relief/br_pain+relief" onclick="javascript:urchinTracker('/top10/click/pain-relief.html');">Pain Relief</a><br>
+<a href="/lipitor_drug.html" onclick="javascript:pageTracker._trackPageview('/top10/click/lipitor.html');">Lipitor</a><br>
+<a href="/hs/viagra" onclick="javascript:pageTracker._trackPageview('/top10/click/viagra.html');">Viagra</a><br>
+<a href="/hs/lose+weight/br_lose+weight" onclick="javascript:pageTracker._trackPageview('/top10/click/lose-weight.html');">Lose Weight</a><br>
+<a href="/hs/treatment+center/br_" onclick="javascript:pageTracker._trackPageview('/top10/click/drug-treatment.html');">Drug Treatment</a><br>
+<a href="/hs/zoloft" onclick="javascript:pageTracker._trackPageview('/top10/click/zoloft.html');">Zoloft</a><br>
+<a href="/hs/depression/br_" onclick="javascript:pageTracker._trackPageview('/top10/click/depression.html');">Depression</a><br>
+<a href="/hs/drug+abuse/br_" onclick="javascript:pageTracker._trackPageview('/top10/click/drug-abuse.html');">Drug Abuse</a><br>
+<a href="/hs/health+insurance/br_health+insurance" onclick="javascript:pageTracker._trackPageview('/top10/click/health-insurance.html');">Health Insurance</a><br>
+<a href="/hs/healthy+diet/br_healthy+diet" onclick="javascript:pageTracker._trackPageview('/top10/click/dieting.html');">Dieting</a><br>
+<a href="/hs/pain+relief/br_pain+relief" onclick="javascript:pageTracker._trackPageview('/top10/click/pain-relief.html');">Pain Relief</a><br>
 
 	</div></div>
 </div>
 
 
-<div id="adv-h3"><img src="/img/adv-h2.gif" alt="Advertisement"></div>
-<div class="contentBox">
-  <div style="text-align:center;padding:10px 0 5px 0">
-<script language="JavaScript" type="text/javascript">
-<!--
-DISPLAY_AD(2,3,1);
-//-->
-</script></div>
-</div>
     <div class="hpContentBlock">
     	<div class="rbroundbox">
     	  <div class="rbtop"><div></div></div>
@@ -438,12 +432,12 @@ DISPLAY_AD(2,3,1);
     </div>
     <div class="contentBoxleft">
       <div class="padder" style="line-height: 140%;">
-    <a href="/nda/ferumoxytol_071219.html">Ferumoxytol</a><br><a href="/nda/cervarix_071217.html">Cervarix</a><br><a href="/nda/viviant_071217.html">Viviant</a><br><a href="/nda/aquavan_071217.html">Aquavan</a><br><a href="/nda/pulzium_071213.html">Pulzium</a><br><a href="/nda/indiplon_071213.html">Indiplon</a><br><a href="/nda/pro_513_071212.html">PRO-513</a><br><a href="/nda/kynapid_071212.html">Kynapid</a><br><a href="/nda/orbec_071207.html">orBec</a><br><a href="/nda/kiacta_071207.html">Kiacta</a><br>    <a href="/new-drug-applications.html">More...</a>
+    <a href="/nda/mk_0524a_080620.html">MK-0524A</a><br><a href="/nda/surfaxin_080619.html">Surfaxin</a><br><a href="/nda/zentase_080619.html">Zentase</a><br><a href="/nda/ustekinumab_080618.html">Ustekinumab</a><br><a href="/nda/mozobil_080617.html">Mozobil</a><br><a href="/nda/remoxy_080610.html">Remoxy</a><br><a href="/nda/genasense_080606.html">Genasense</a><br><a href="/nda/nebido_080604.html">Nebido</a><br><a href="/nda/akten_080604.html">Akten</a><br><a href="/nda/sancuso_080602.html">Sancuso</a><br>    <a href="/new-drug-applications.html">More...</a>
       </div>
     </div>
       
-<div class="spacer"></div></div></div><br class="brclear">
-
+<div class="spacer"></div></div></div>
+<br class="brclear">
 </div></div></div><div id="solidline"></div>
 <div class="footer"><div class="textpadder">
 <br><p>
@@ -465,25 +459,30 @@ DISPLAY_AD(2,3,1);
     <td align="left" valign="top"><a href="/privacy.html"><img vspace="2" src="/img/truste_2007.gif" alt="Reviewed by TRUSTe site privacy statement."></a><br><a href="/privacy.html">Verify here</a></td>
     <td>&nbsp;</td>
     <td align="center" valign="top">The drugs.com drug database is powered by Micromedex<sup>TM</sup>, Facts &amp; Comparisons<sup>TM</sup> and Multum<sup>TM</sup>.<br>
-      Micromedex data last updated 30 October 2007. Multum data last updated 21 November 2007.<br>
-      Facts &amp; Comparisons data last updated 14 November 2007.<br>
-      © Copyright 2000-2007 Drugs.com. All Rights Reserved. (web7)</td>
+      Micromedex data last updated 30 April 2008. Multum data last updated 19 May 2008.<br>
+      Facts &amp; Comparisons data last updated 5 June 2008.<br>
+      © Copyright 2000-2008 Drugs.com. All Rights Reserved. (web5)</td>
     <td>&nbsp;</td>
     <td valign="middle">
-      <table cellspacing="2" cellpadding="2" border="0"> <tbody><tr><td><a target="_blank" href="http://www.hon.ch/HONcode/Conduct.html?HONConduct756274"> <img src="http://www.hon.ch/HONcode/Seal/HONConduct756274.jpg" title="This website is accredited by Health On the Net Foundation. Click to verify." alt="HONcode accreditation seal." border="0" height="72" width="49"></a></td> <td align="left" valign="top" style="width:160px;">We comply with the HONcode<br>standard 
+      <table cellspacing="2" cellpadding="2" border="0"> <tbody><tr><td><a target="_blank" href="http://www.hon.ch/HONcode/Conduct.html?HONConduct756274"> <img src="/img/HONConduct756274.jpg" title="This website is accredited by Health On the Net Foundation. Click to verify." alt="HONcode accreditation seal." border="0" height="72" width="49"></a></td> <td align="left" valign="top" style="width:160px;">We comply with the HONcode<br>standard 
 	for trustworthy<br>health information:<br> <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct756274" onclick="window.open(this.href); return false;">Verify here</a>. </td> </tr> </tbody></table>
  
     </td>
   </tr>
 </tbody></table></div></div> 
-</div></div><script type="text/javascript">setResolutionCookie(screen.width, screen.height);</script>
+</div></div><script type="text/javascript">
+Rounded("div#login","tr bl br","transparent","#aabbdd");
+Rounded("div#refine_box","tl tr bl br","#ffffff","#e9f0ef");
+</script>
+<script type="text/javascript">setResolutionCookie(screen.width, screen.height);</script>
 <script type="text/javascript">var tcdacmd="dt";</script>
 <script type="text/javascript" src="http://an.tacoda.net/an/15573/slf.js"></script>
-<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-78451-2";
-_udn="drugs.com";
-urchinTracker();
+var pageTracker = _gat._getTracker("UA-78451-2");
+pageTracker._setDomainName("drugs.com");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 <img src="http://servedby.advertising.com/burl/site=738065/mnum=1516/logs=0/bins=1" alt="" width="1" height="1">
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
