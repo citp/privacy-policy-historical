@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225093500id_/http%3A//www.footsmart.com/Page.aspx%3FpageId%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/Page.aspx%3FpageId%3D13) for the most accurate reproduction.*
 
 # FootSmart :: Comfortable Walking Shoes & Foot Pain Products for Heel Pain, Back Support & Foot Problems :: Comfort Footwear
 
@@ -42,14 +42,14 @@ You can refuse cookies by turning them off in your browser. **If you turn off co
 **      a. Email**  
 | 
 
-FootSmart periodically sends email to our customers to help keep you informed of FootSmart's new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20071225093500id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.  
+FootSmart periodically sends email to our customers to help keep you informed of FootSmart's new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.  
   
   
      **b. Catalog  
 **  
 | 
 
-In addition to shopping on our website, FootSmart distributes a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20071225093500id_/http%3A//www.footsmart.com/CatalogRequest.aspx).  If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20071225093500id_/http%3A//www.footsmart.com/ContactUs.aspx).  
+In addition to shopping on our website, FootSmart distributes a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/CatalogRequest.aspx).  If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/ContactUs.aspx).  
   
 **3.   Changing Personal Information  
 **  
