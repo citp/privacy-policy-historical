@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220194855id_/http%3A//www.clamwin.com/content/view/171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623050058id_/http%3A//www.clamwin.com/content/view/171) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
 ClamWin Pty. Ltd. Is firmly committed to protecting your privacy. To clarify our position on privacy, we have created this privacy statement to disclose the information gathering and dissemination practices for our Web Site: ClamWin.com. 
+
+Personal information collected on this website will only be used for the purposes stated at the time of collection. Your personal information will not be added to a mailing list or used for any other purpose without your consent.
 
 **Information Automatically Logged**  
 Our Web Site collects non-personally identifiable information, for example, browser type, operating system, domain name, time spent on the Web Site, or referring link. This information may be used for system, Web Site, and process improvements. We do not transfer or sell this information to anyone or any organization. 
@@ -31,4 +33,9 @@ These companies are:
 
 
 **Donations**  
-Our Web Site accepts donations via SourceForge.net web site. Please see [SourceForge.net Privacy Statement](http://sourceforge.net/tos/privacy.php). By default, names will be posted on the Sourceforge.net project Supporters page. If you wish to remain anonymous, you may opt-out of display of your donation on the Supporters page.
+Our Web Site accepts donations via PayPal.com web site. Please see [PayPal Privacy Statement](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).  
+  
+© 2008 ClamWin Free Antivirus  
+ClamWin™ is a trademark of ClamWin Pty Ltd.  
+Other trademarks are the property of the respective trademark holders.  
+[Privacy Statement](http://www.clamwin.com/content/view/171)
