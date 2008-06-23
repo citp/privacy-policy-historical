@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221090926id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623041602id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ As in life, there are no perfect guarantees. However, as Haacked.com doesn't req
 That's just it, there's hardly any information to collect. About the only personal information this site may have about you is anything you disclose within the comments section of the site or via the Contact Us page. Regarding the comments, that information is publicly available as it is displayed on the site. If you don't want it displayed, don't comment. Or make up false information. Haacked.com has no way of knowing. 
 
 **What About Cookies?**  
-Haacked.com automatically receives and records information in its server logs from your browser, including your IP Address, cookie information (should you request to be remembered), and the page you request. This information is used to generate aggregate statistics such as the # of users, visits, etc... This is a function of the blogging engine (.TEXT) as well as my hosting provider, [webhost4life.com](http://webhost4life.com/).
+Haacked.com automatically receives and records information in its server logs from your browser, including your IP Address, cookie information (should you request to be remembered), and the page you request. This information is used to generate aggregate statistics such as the # of users, visits, etc... This is a function of the blogging engine (Subtext).
 
 **So Who Do You Share This Information With?**  
 Absolutely nobody. 
