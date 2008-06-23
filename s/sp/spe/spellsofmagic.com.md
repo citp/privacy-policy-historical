@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225172616id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623152444id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.*
 
 # Spells of Magic Free Magic Spells, Forums and More
 
@@ -16,5 +16,10 @@ Cookies are a common tool used to track visitors to websites. Your cookies MUST 
 _What we do with this information_  
 Pretty much nothing. Your information will never be sold, given away or handed over unless required to do so by law. We will never sent you mail with the exception of email in the case the website goes offline and returns online at a new address. Any information we collect is the bare minimal amount of information needed to allow a site like this to function technically or optional information which allows you to share a little bit more about yourself to the rest of the community. 
 
+_3rd Party Cookies_  
+Some 3rd parties may also use cookies to track certain bits of information. Currently, Google will place some cookies on your machine for two reasons. The first is in the ad-serving code which is used to display relevant ads to you. The second is in Analytics, which is reporting software we use from Google. This allows us to view stats on the visitors who come to the website and help us determin which features should be improved, are popular, are not popular and so on. We can not track which pages YOU visited from this information, we can only see XXXX number of people have visited specific pages. 
+
 _Contact Us_  
 If you have any questions or concerns about our policy please [_contact_](https://web.archive.org/contact.html) me with them. 
+
+**NEW!** Join our new [Facebook Group](http://www.facebook.com/group.php?gid=35513770525&ref=mf). 10 free spell castings will be given away at the end of the month, chosen at random from all those who join! 
