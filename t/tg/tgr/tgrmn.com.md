@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225094356id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623063200id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
 
 # TGRMN Software
 
-### 
+### [](http://www.tgrmn.com/)
 
   Privacy Policy
 
-TGRMN Software is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. 
+[TGRMN Software](http://www.tgrmn.com/) is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. 
 
 **Cookies**  
 
