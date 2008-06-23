@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207201525id_/http%3A//www.invitationsbydawn.com/Custom/DawnUS/DD_Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623073143id_/http%3A//www.invitationsbydawn.com/Custom/DawnUS/DD_Privacy.cfm) for the most accurate reproduction.*
 
 # Invitations by Dawn - Unique Theme Wedding Invitations and Accessories
 
