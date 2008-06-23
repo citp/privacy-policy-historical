@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225202221id_/http%3A//www.three.ie/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623184026id_/http%3A//www.three.ie/company/privacy.htm) for the most accurate reproduction.*
 
-# 3 Ireland
+# 3 Ireland - Privacy Policy
 
 **Privacy Policy**  
 This policy statement relates to our privacy practices in connection with this website and is intended to inform you about the kinds of information we may obtain about you as a visitor to our website, how we may use that information and who we may share that information with. We are not responsible for the content or privacy practices of other websites. 
