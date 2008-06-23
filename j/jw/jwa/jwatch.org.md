@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225112456id_/http%3A//www.jwatch.org/misc/privacy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623125610id_/http%3A//www.jwatch.org/misc/privacy.dtl) for the most accurate reproduction.*
 
 # Journal Watch: Privacy Policy
 
@@ -37,7 +37,7 @@ We use log files to collect general data about the movement of visitors through 
 
 ### _Cookies_
 
-We also use cookies to collect information and help personalize your online experience. Cookies are small files stored on your computer that we use to recognize you and your access privileges and preferences. Cookies allow you to store your user name and password so you don’t have to log in each time you visit. We store minimal personally identifying information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. Most Web browsers automatically accept cookies. Most browsers can be configured to prevent this, but you may not be able to access some parts of our site without cookies.
+We also use cookies to collect information and help personalize your online experience. Cookies are small files stored on your computer that we use to recognize you and your access privileges and preferences. Cookies allow you to store your username and password so you don’t have to log in each time you visit. We store minimal personally identifying information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. Most Web browsers automatically accept cookies. Most browsers can be configured to prevent this, but you may not be able to access some parts of our site without cookies.
 
 ### _Clear Gifs (Web Beacons/Web Bugs)_
 
