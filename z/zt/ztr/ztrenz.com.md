@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ztrenz.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221102222id_/http%3A//www.ztrenz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztrenz.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623042439id_/http%3A//www.ztrenz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ZTRENZ Web Solutions Privacy Policy
 
@@ -39,4 +39,4 @@ ZTRENZ will share your personal information with the legal bodies/ investigation
 
 ZTRENZ may amend or modify the privacy policy from time to time. ZTRENZ guarantees to notify through its website for any substantial changes. Visitors are also requested to view the Privacy Policy page from time to time for details and in particular before submission of any such information. 
 
-[](https://web.archive.org/web/20071221102222id_/http%3A//www.ztrenz.com/request-quote.html)
+[](https://web.archive.org/web/20080623042439id_/http%3A//www.ztrenz.com/request-quote.html)
