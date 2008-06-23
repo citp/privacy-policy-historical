@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225113014id_/http%3A//www.rcsi.ie/index.jsp%3F%26pID%3D93%26nID%3D387) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623074835id_/http%3A//www.rcsi.ie/index.jsp%3F%26pID%3D93%26nID%3D387) for the most accurate reproduction.*
 
 # Privacy Statement
 
