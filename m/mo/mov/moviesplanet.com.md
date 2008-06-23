@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesplanet.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210204035id_/http%3A//www.moviesplanet.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesplanet.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624004402id_/http%3A//www.moviesplanet.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Trade Movies, Download FREE DivX Movies from our Movie FTP list
 
