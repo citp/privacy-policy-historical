@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210194457id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623024457id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
 
 # Privacy - Official Website of the Australian Football League
 
-**AFL TELSTRA NETWORK PRIVACY STATEMENT**
+### Privacy Statement
+
+ **AFL TELSTRA NETWORK PRIVACY STATEMENT**
 
 Welcome to the AFL Telstra Network ("AFLTN").
 
@@ -117,3 +119,13 @@ The web sites on the AFL Telstra Network including and all of the web sites ("We
 AFLTN Privacy Collection Statement - March 2004  
 Telstra Corporation Limited ABN 33 051 775 556  
 Australian Football League ABN 97 489 912 318
+
+## Google Analytics Code
+
+For the remainder of the 2008 season and beyond, BigPond has teamed up with Perform Group, the global digital sport and entertainment specialist, to provide a new international AFL video subscription service. The new site will be called Aussie Sports TV and will feature a world-class video experience. 
+
+Aussie Sport TV will take advantage of Perform Group’s distributed video servers, providing short buffer times, excellent video and audio synchronisation and low rates of service drop-outs. In addition, subscribers will have the opportunity to sign up to view all of BigPond’s sport properties; AFL, NRL and V8 Supercars, in one cost effective package. Of course, you can always just watch AFL videos – the choice is yours.
+
+Aussie Sport TV offers a range of subscription packages so you can just try it out for a day before committing long term.
+
+For more information visit Aussie Sport TV (<http://www.afl.aussiesport.tv/page/Faq>) or check out our FAQs (<http://www.afl.com.au/Video/VideoFAQs/tabid/9477/default.aspx>)
