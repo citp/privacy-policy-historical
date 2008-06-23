@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017123418id_/http%3A//www.adforum.com/help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623234510id_/http%3A//www.adforum.com/help/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # AdForum: Advertising Agencies, TV Commercials, Commercial Ads, Award Winning Ads
 
-### [Other Privacy Issues](https://web.archive.org/web/20071017123418id_/http%3A//www.adforum.com/help/privacy_policy.asp?#18)
+### [Other Privacy Issues](https://web.archive.org/web/20080623234510id_/http%3A//www.adforum.com/help/privacy_policy.asp?#18)
 
 **WHAT INFORMATION WE COLLECT AND WHY**
 
