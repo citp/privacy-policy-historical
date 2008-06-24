@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917064808id_/http%3A//www.davison54.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624091003id_/http%3A//www.inventionconcept.com/Davison-privacy.cfm) for the most accurate reproduction.*
 
-# Davison Inventegration
+# Davison Privacy
 
 Davison is sensitive to the privacy concerns of the inventors/consumers to our websites and recognizes that you are concerned about the information you provide us and how we treat that information. Because many of our visitors are inventors, we take special care to ensure that our content is straightforward, informative, and we take steps to help protect their privacy. As a result, we developed a Privacy Policy to address your concerns and explain certain choices you can make about the manner in which your information is collected and used at our websites. 
 
@@ -24,10 +24,3 @@ If you voluntarily provide us with any requested information, we use that inform
 Certain information we receive online may on occasion be combined with our other records to enhance our ability to market those products or services we believe may be of interest to you. **We will never sell, rent or otherwise share any personal information we obtain with third parties.**
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this policy. We have, however, put in place appropriate physical, electronic and administrative safeguards to help prevent the unauthorized access and use of the information we collect online. 
-
-| 
-
-  
-
-
-[](http://www.davison54.com/products.php)
