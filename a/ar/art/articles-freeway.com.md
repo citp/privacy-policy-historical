@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the articles-freeway.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224000918id_/http%3A//www.articles-freeway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles-freeway.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Article Marketing Directory: privacy Articles Freeway
 
-Top Categories: 
+  
+  
+  
+Popular Pages:   [ Article Writing Software](http://www.articles-freeway.com/article-writing-software.htm)        [ Create Unique Articles in Minutes](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/article-writing-software.htm)        [Get Paid to Write Articles](https://web.archive.org/web/20080624155625id_/http%3A//www.articles-freeway.com/get_paid_to_write_articles.htm)         [ Weddings](http://www.articles-freeway.com/weddings.htm)        [ Ezine Marketing](http://www.articles-freeway.com/cid129/Ezine-Marketing/)       [ Travel](http://www.articles-freeway.com/cid44/Travel-Leisure)   
+ 
 
-[ beauty](http://www.articles-freeway.com/cid92/Beauty/) [ home based business](http://www.articles-freeway.com/cid22/Home-Based-Business) [ pets](http://www.articles-freeway.com/cid119/Pets)[ diets](http://www.articles-freeway.com/cid105/Weight-Loss) [ weight loss](http://www.articles-freeway.com/cid105/Weight-Loss) [ careers](http://www.articles-freeway.com/cid18/Careers) [ affiliates](http://www.articles-freeway.com/cid121/Affiliate-Programs) [ parenting](http://www.articles-freeway.com/cid118/Parenting) [ motivation](http://www.articles-freeway.com/cid175/Motivation) [ nutrition](http://www.articles-freeway.com/cid103/Nutrition) [travel](http://www.articles-freeway.com/cid44/Travel-Leisure)
-
- **Articles Freeway Privacy Policy**
+**Articles Freeway Privacy Policy**
 
 **Our Commitment to Your Privacy**
 
@@ -21,5 +23,3 @@ When you visit the Articles Freeway web site, just as when you visit most other 
 We use the information you provide about yourself when submitting an information request. We do not share this information with outside parties. We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use the anonymous browsing information collected automatically by our servers primarily to help us administer and improve our web site. We may also use non-identifying and aggregate information to better design our web site. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
  ****
-
-| 
