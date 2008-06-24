@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212132822id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624201132id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
 
 # General Privacy Policy
 
