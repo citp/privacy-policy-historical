@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017021744id_/http%3A//www.tower.com/help/help_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625014214id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
-# Tower.com
+# Security and Privacy Policy at Tower.com
 
+|   
+---  
+  
 Security and Privacy Information
 
   
@@ -288,4 +291,24 @@ If, however, we are going to use users’ personally identifiable information in
 Return to the Top  
   
   
+**Still Have Questions? TALK TO US!**  
+---  
+  
+**Email:**  
+[info@tower.com](mailto:info@tower.com)
 
+**For US and Canadian Customers:** 1-800-ASK-TOWER (1-800-275-8693)  
+**For International Customers:** +1-514-315-9145  
+All Telephone Support available Monday-Friday 9:00 a.m. to 6:00 p.m. PST  
+  
+|  |  |   
+---|---  
+[About](http://www.tower.com/aboutus.cfm) |  [Community](http://www.tower.com/community.cfm) |  [Tower Newsletters](https://secure.tower.com/newsletters/index.cfm) |  [Careers](http://www.tower.com/towerculture.cfm) |  [Advertise](http://www.tower.com/advertising.cfm) |  [Terms](http://www.tower.com/help/help_terms.cfm) |  [Privacy](http://www.tower.com/help/help_security.cfm) |  [Returns](http://www.tower.com/help/help_returns.cfm) |  [Contact Us](http://www.tower.com/contactus.cfm) |  [Directory](http://www.tower.com/directory) |  [Help](http://www.tower.com/help/help_home.cfm) 
+
+Copyright © 1995 - 2008 TOWER.COM INC.  
+Tower, Tower Records, TowerRecords.com, Tower.com, Tower CD Listening Station, Tower Outlet, Tower Records Videos Books, Tower Essentials, Pulse! and associated logos and trademarks are registered trademarks of Tower.com Inc. in the United States and other countries.  
+Copyright 2007 Powered by Muze Inc. For personal noncommercial use only.   
+  
+To link directly to this page: http://www.tower.com/help/help_security.cfm  
+  
+Tower 2.0 Version 2.5.5
