@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212055151id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624080619id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # National Conference of Bar Examiners: Privacy Policy
 
@@ -24,7 +24,7 @@ Cookies are used by NCBE to keep track of your login information while you are c
 
 Questions regarding this statement should be directed to:  
 National Conference of Bar Examiners  
-402 W. Wilson St.  
-Madison, WI 53703  
+302 South Bedford Street  
+Madison, WI 53703-3622  
 email: support@ncbex.org  
-Telephone (608) 280-8550 
+Telephone 608-280-8550 
