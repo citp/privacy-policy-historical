@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095151id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624224106id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
 
 # WORKBOOK Legal - Workbook, Inc. Online Privacy Policy (USA)
 
