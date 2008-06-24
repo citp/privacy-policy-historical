@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pizzahut.com privacy policy that was archived on 2007-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226170702id_/http%3A//www.pizzahut.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pizzahut.com privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624072920id_/http%3A//www.pizzahut.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head"><title>
 	PizzaHut.com — Privacy Policy
@@ -16,10 +16,67 @@
 	</script>	
 	
 	<script type="text/javascript" language="javascript" src="/Javascript/swfobject.js"></script>
-</head>
+    <script type="text/javascript" language="javascript">
+        function switchLanguage() {
+	        urls=new Array();
+	        oh=new Array();tsd=new Array();
+	        tsh='quikorderespanol.pizzahut.com';
+	        oh[0]='quikorder.pizzahut.com';tsd[0]='/enes/sdquikorder/';
+	        oh[1]='qotest.quikorder.com';tsd[1]='/enes/sdqotest/sdquikorder/';
+	        urls[0]=new URLData(tsh, oh, tsd);
+
+	        oh=new Array();tsd=new Array();
+	        tsh='espanol.pizzahut.com';
+	        oh[0]='www.wingstreet.com';tsd[0]='/enes/dwingstreet/';
+	        oh[1]='pizzahutcard.pizzahut.com';tsd[1]='/enes/sdpizzahutcard/';
+	        oh[2]='coupons.eurorscgretail.com';tsd[2]='/enes/sdcoupons/deurorscgretail/';
+	        oh[3]='a248.e.akamai.net';tsd[3]='/enes/sda248/dakamai/';
+	        oh[4]='www.pizzahut.com';tsd[4]='/enes/';
+	        urls[1]=new URLData(tsh, oh, tsd);
+
+	        var found=false;
+	        for (i=0;i<urls.length;i++){ 
+		        idx=location.href.indexOf(urls[i].tsh);
+		        if(idx==-1){
+			        for (j=0;j<urls[i].oh.length;j++){ 
+				        idx=location.href.indexOf(urls[i].oh[j]);
+				        if(idx>-1){
+					        idx=idx+urls[i].oh[j].length;hname=urls[i].tsh+urls[i].tsd[j];
+					        found=true;
+					        break;
+				        }
+			        }
+		        }else{
+			        for (j=0;j<urls[i].tsd.length;j++){ 
+				        idx=location.href.indexOf(urls[i].tsd[j]);
+				        if(idx>-1){
+					        idx=idx+urls[i].tsd[j].length;hname=urls[i].oh[j];
+					        found=true;
+					        break;
+				        }
+			        }
+		        }
+		        if (found) break;
+	        }
+
+	        path=location.href.substring(idx);
+	        hend=hname.charAt(hname.length-1); pstart=path.charAt(0);
+	        if(hend=='/' && pstart=='/') path=path.substring(path.indexOf('/')+1);
+	        if(hend!='/' && pstart!='/') path='/'+path;
+	        location.href=location.protocol+'//'+hname+path;
+	        return false;
+        }
+        function URLData(tsh, oh, tsd) {
+	        this.tsh = tsh;
+	        this.oh = oh;
+	        this.tsd = tsd;
+        }	    
+    </script></head>
 <body>
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDAzMzIzMjEwD2QWAmYPZBYEAgEPZBYEAgEPFgIeB2NvbnRlbnQFJFByaXZhY3kgcG9saWN5IHBhZ2UgZm9yIFBpenphSHV0LmNvbWQCAg8WAh8ABb4BUGl6emEgSHV0LCBQYW4gUGl6emEsIEFtZXJpY2EncyBGYXZvcml0ZSBQaXp6YSwgb3JkZXIgb25saW5lLCBQaXp6YSwgcGl6emEgZGVsaXZlcnksIGNhcnJ5LW91dCwgcGl6emEgY2Fycnktb3V0LCBwaXp6YSBzcGVjaWFscywgcGl6emEgY291cG9ucywgZGVsaXZlcnkgcGl6emEsIFdpbmdTdHJlZXQsIHdpbmcgc3RyZWV0LCB3aW5nc2QCAw9kFgICBg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgICAQ8WAh8BAhgWMGYPZBYCAgEPFgIeB1Zpc2libGVoFgZmDxUGBWJsb2NrDC9TaWduVXAuYXNweAAAAABkAgEPFQUAAAdTaWduIFVwBG5vbmUML1NpZ25VcC5hc3B4ZAICDxUCAAdTaWduIFVwZAIBD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrCS9GQVEuYXNweAAAAABkAgEPFQUAAANGQVEEbm9uZQkvRkFRLmFzcHhkAgIPFQIAA0ZBUWQCAg9kFgICAQ9kFgZmDxUGBWJsb2NrCi9NZW51LmFzcHgETWVudQRNZW51BE1lbnUETWVudWQCAQ8VBQRNZW51BE1lbnUETWVudQRub25lCi9NZW51LmFzcHhkAgIPFQIETWVudQRNZW51ZAIDD2QWAgIBD2QWBmYPFQYFYmxvY2sPL051dHJpdGlvbi5hc3B4CU51dHJpdGlvbglOdXRyaXRpb24JTnV0cml0aW9uCU51dHJpdGlvbmQCAQ8VBQlOdXRyaXRpb24JTnV0cml0aW9uCU51dHJpdGlvbgRub25lDy9OdXRyaXRpb24uYXNweGQCAg8VAglOdXRyaXRpb24JTnV0cml0aW9uZAIED2QWAgIBD2QWBmYPFQYFYmxvY2sPL0xvY2F0aW9ucy5hc3B4CUxvY2F0aW9ucwlMb2NhdGlvbnMJTG9jYXRpb25zCUxvY2F0aW9uc2QCAQ8VBQlMb2NhdGlvbnMJTG9jYXRpb25zCUxvY2F0aW9ucwRub25lDy9Mb2NhdGlvbnMuYXNweGQCAg8VAglMb2NhdGlvbnMJTG9jYXRpb25zZAIFD2QWAgIBD2QWBmYPFQYFYmxvY2sLL0RlYWxzLmFzcHgFRGVhbHMFRGVhbHMFRGVhbHMFRGVhbHNkAgEPFQUFRGVhbHMFRGVhbHMFRGVhbHMEbm9uZQsvRGVhbHMuYXNweGQCAg8VAgVEZWFscwVEZWFsc2QCBg9kFgICAQ9kFgZmDxUGBWJsb2NrLmh0dHBzOi8vcGl6emFodXRjYXJkLnBpenphaHV0LmNvbS9uZXdnaWZ0Y2FyZC8ER2lmdARHaWZ0BEdpZnQER2lmdGQCAQ8VBQRHaWZ0BEdpZnQJR2lmdCBDYXJkBG5vbmUuaHR0cHM6Ly9waXp6YWh1dGNhcmQucGl6emFodXQuY29tL25ld2dpZnRjYXJkL2QCAg8VAgRHaWZ0CUdpZnQgQ2FyZGQCBw9kFgICAQ9kFgZmDxUGBWJsb2NrFi9jYXRlcmluZy9kZWZhdWx0LmFzcHgMTWVudUNhdGVyaW5nDE1lbnVDYXRlcmluZwxNZW51Q2F0ZXJpbmcMTWVudUNhdGVyaW5nZAIBDxUFDE1lbnVDYXRlcmluZwxNZW51Q2F0ZXJpbmcIQ2F0ZXJpbmcEbm9uZRYvY2F0ZXJpbmcvZGVmYXVsdC5hc3B4ZAICDxUCDE1lbnVDYXRlcmluZwhDYXRlcmluZ2QCCA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaw4vT3VyU3RvcnkuYXNweAAAAABkAgEPFQUAAAlPdXIgU3RvcnkEbm9uZQ4vT3VyU3RvcnkuYXNweGQCAg8VAgAJT3VyIFN0b3J5ZAIJD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDi9OZXdzcm9vbS5hc3B4AAAAAGQCAQ8VBQAACE5ld3Nyb29tBG5vbmUOL05ld3Nyb29tLmFzcHhkAgIPFQIACE5ld3Nyb29tZAIKD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDS9DYXJlZXJzLmFzcHgAAAAAZAIBDxUFAAAHQ2FyZWVycwRub25lDS9DYXJlZXJzLmFzcHhkAgIPFQIAB0NhcmVlcnNkAgsPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sNL0h1dHNldW0uYXNweAAAAABkAgEPFQUAAAtUaGUgSHV0c2V1bQRub25lDS9IdXRzZXVtLmFzcHhkAgIPFQIAC1RoZSBIdXRzZXVtZAIMD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEy9JbnRlcm5hdGlvbmFsLmFzcHgAAAAAZAIBDxUFAAANSW50ZXJuYXRpb25hbARub25lEy9JbnRlcm5hdGlvbmFsLmFzcHhkAgIPFQIADUludGVybmF0aW9uYWxkAg0PZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sSL1N1cHBsaWVyQ29kZS5hc3B4AAAAAGQCAQ8VBQAADVN1cHBsaWVyIENvZGUEbm9uZRIvU3VwcGxpZXJDb2RlLmFzcHhkAgIPFQIADVN1cHBsaWVyIENvZGVkAg4PZBYCAgEPFgIfAmgWBmYPFQYEbm9uZRMvUHJpdmFjeVBvbGljeS5hc3B4AAAAAGQCAQ8VBQAADlByaXZhY3kgUG9saWN5BWJsb2NrEy9Qcml2YWN5UG9saWN5LmFzcHhkAgIPFQIADlByaXZhY3kgUG9saWN5ZAIPD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEC9UZXJtc09mVXNlLmFzcHgAAAAAZAIBDxUFAAAMVGVybXMgb2YgVXNlBG5vbmUQL1Rlcm1zT2ZVc2UuYXNweGQCAg8VAgAMVGVybXMgb2YgVXNlZAIQD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDy9Db250YWN0VXMuYXNweAAAAABkAgEPFQUAAApDb250YWN0IFVzBG5vbmUPL0NvbnRhY3RVcy5hc3B4ZAICDxUCAApDb250YWN0IFVzZAIRD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDS9TaXRlTWFwLmFzcHgAAAAAZAIBDxUFAAAIU2l0ZSBNYXAEbm9uZQ0vU2l0ZU1hcC5hc3B4ZAICDxUCAAhTaXRlIE1hcGQCEg9kFgICAQ8WAh8CaBYGZg8VBgVibG9jawsvRXJyb3IuYXNweAAAAABkAgEPFQUAAAVFcnJvcgRub25lCy9FcnJvci5hc3B4ZAICDxUCAAVFcnJvcmQCEw9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxcvVlBvZlBpenphL0RlZmF1bHQuYXNweAAAAABkAgEPFQUAAAtWUCBvZiBQaXp6YQRub25lFy9WUG9mUGl6emEvRGVmYXVsdC5hc3B4ZAICDxUCAAtWUCBvZiBQaXp6YWQCFA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxMvUFpvbmUvRGVmYXVsdC5hc3B4AAAAAGQCAQ8VBQAABlAnWm9uZQRub25lEy9QWm9uZS9EZWZhdWx0LmFzcHhkAgIPFQIABlAnWm9uZWQCFQ9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxUvUFpvbmUvRW50cnlGb3JtLmFzcHgAAAAAZAIBDxUFAAAbUCdab25lIENoYWxsZW5nZSBFbnRyeSBGb3JtBG5vbmUVL1Bab25lL0VudHJ5Rm9ybS5hc3B4ZAICDxUCABtQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IEZvcm1kAhYPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2scL1Bab25lL0NvbmZpcm1hdGlvblBhZ2UuYXNweAAAAABkAgEPFQUAACNQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IENvbmZpcm1hdGlvbgRub25lHC9QWm9uZS9Db25maXJtYXRpb25QYWdlLmFzcHhkAgIPFQIAI1AnWm9uZSBDaGFsbGVuZ2UgRW50cnkgQ29uZmlybWF0aW9uZAIXD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHy9QWm9uZS9SdWxlc0FuZFJlZ3VsYXRpb25zLmFzcHgAAAAAZAIBDxUFAAAmUCdab25lIENoYWxsZW5nZSBSdWxlcyBhbmQgUmVndWxhdGlvbnMEbm9uZR8vUFpvbmUvUnVsZXNBbmRSZWd1bGF0aW9ucy5hc3B4ZAICDxUCACZQJ1pvbmUgQ2hhbGxlbmdlIFJ1bGVzIGFuZCBSZWd1bGF0aW9uc2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFLmN0bDAwJHJpZ2h0Q29udGVudCRDYWxsb3V0UmlnaHQkZ28zSW1hZ2VCdXR0b24FLmN0bDAwJHJpZ2h0Q29udGVudCRDYWxsb3V0UmlnaHQkZ28ySW1hZ2VCdXR0b275VBQfWLXHmZ9IK1TkaaqctVwXpQ==">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDAzMzIzMjEwD2QWAmYPZBYEAgEPZBYEAgEPFgIeB2NvbnRlbnQFJFByaXZhY3kgcG9saWN5IHBhZ2UgZm9yIFBpenphSHV0LmNvbWQCAg8WAh8ABb4BUGl6emEgSHV0LCBQYW4gUGl6emEsIEFtZXJpY2EncyBGYXZvcml0ZSBQaXp6YSwgb3JkZXIgb25saW5lLCBQaXp6YSwgcGl6emEgZGVsaXZlcnksIGNhcnJ5LW91dCwgcGl6emEgY2Fycnktb3V0LCBwaXp6YSBzcGVjaWFscywgcGl6emEgY291cG9ucywgZGVsaXZlcnkgcGl6emEsIFdpbmdTdHJlZXQsIHdpbmcgc3RyZWV0LCB3aW5nc2QCAw9kFgICBg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgICAQ8WAh8BAhcWLmYPZBYCAgEPFgIeB1Zpc2libGVoFgZmDxUGBWJsb2NrDC9TaWduVXAuYXNweAAAAABkAgEPFQUAAAdTaWduIFVwBG5vbmUML1NpZ25VcC5hc3B4ZAICDxUCAAdTaWduIFVwZAIBD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrCS9GQVEuYXNweAAAAABkAgEPFQUAAANGQVEEbm9uZQkvRkFRLmFzcHhkAgIPFQIAA0ZBUWQCAg9kFgICAQ9kFgZmDxUGBWJsb2NrCi9NZW51LmFzcHgETWVudQRNZW51BE1lbnUETWVudWQCAQ8VBQRNZW51BE1lbnUETWVudQRub25lCi9NZW51LmFzcHhkAgIPFQIETWVudQRNZW51ZAIDD2QWAgIBD2QWBmYPFQYFYmxvY2sPL051dHJpdGlvbi5hc3B4CU51dHJpdGlvbglOdXRyaXRpb24JTnV0cml0aW9uCU51dHJpdGlvbmQCAQ8VBQlOdXRyaXRpb24JTnV0cml0aW9uCU51dHJpdGlvbgRub25lDy9OdXRyaXRpb24uYXNweGQCAg8VAglOdXRyaXRpb24JTnV0cml0aW9uZAIED2QWAgIBD2QWBmYPFQYFYmxvY2s6aHR0cHM6Ly9xdWlrb3JkZXIucGl6emFodXQuY29tL3Bob3JkZXJzMi9zdG9yZV9sb2NhdG9yLnBocAlMb2NhdGlvbnMJTG9jYXRpb25zCUxvY2F0aW9ucwlMb2NhdGlvbnNkAgEPFQUJTG9jYXRpb25zCUxvY2F0aW9ucwlMb2NhdGlvbnMEbm9uZTpodHRwczovL3F1aWtvcmRlci5waXp6YWh1dC5jb20vcGhvcmRlcnMyL3N0b3JlX2xvY2F0b3IucGhwZAICDxUCCUxvY2F0aW9ucwlMb2NhdGlvbnNkAgUPZBYCAgEPZBYGZg8VBgVibG9jawsvRGVhbHMuYXNweAVEZWFscwVEZWFscwVEZWFscwVEZWFsc2QCAQ8VBQVEZWFscwVEZWFscwVEZWFscwRub25lCy9EZWFscy5hc3B4ZAICDxUCBURlYWxzBURlYWxzZAIGD2QWAgIBD2QWBmYPFQYFYmxvY2suaHR0cHM6Ly9waXp6YWh1dGNhcmQucGl6emFodXQuY29tL25ld2dpZnRjYXJkLwRHaWZ0BEdpZnQER2lmdARHaWZ0ZAIBDxUFBEdpZnQER2lmdAlHaWZ0IENhcmQEbm9uZS5odHRwczovL3BpenphaHV0Y2FyZC5waXp6YWh1dC5jb20vbmV3Z2lmdGNhcmQvZAICDxUCBEdpZnQJR2lmdCBDYXJkZAIHD2QWAgIBD2QWBmYPFQYFYmxvY2sLL3dpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXRkAgEPFQUOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQKV2luZ3N0cmVldARub25lCy93aW5nc3RyZWV0ZAICDxUCDk1lbnVXaW5nc3RyZWV0CldpbmdzdHJlZXRkAggPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sOL091clN0b3J5LmFzcHgAAAAAZAIBDxUFAAAJT3VyIFN0b3J5BG5vbmUOL091clN0b3J5LmFzcHhkAgIPFQIACU91ciBTdG9yeWQCCQ9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaw4vTmV3c3Jvb20uYXNweAAAAABkAgEPFQUAAAhOZXdzcm9vbQRub25lDi9OZXdzcm9vbS5hc3B4ZAICDxUCAAhOZXdzcm9vbWQCCg9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaw0vQ2FyZWVycy5hc3B4AAAAAGQCAQ8VBQAAB0NhcmVlcnMEbm9uZQ0vQ2FyZWVycy5hc3B4ZAICDxUCAAdDYXJlZXJzZAILD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEy9JbnRlcm5hdGlvbmFsLmFzcHgAAAAAZAIBDxUFAAANSW50ZXJuYXRpb25hbARub25lEy9JbnRlcm5hdGlvbmFsLmFzcHhkAgIPFQIADUludGVybmF0aW9uYWxkAgwPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sSL1N1cHBsaWVyQ29kZS5hc3B4AAAAAGQCAQ8VBQAADVN1cHBsaWVyIENvZGUEbm9uZRIvU3VwcGxpZXJDb2RlLmFzcHhkAgIPFQIADVN1cHBsaWVyIENvZGVkAg0PZBYCAgEPFgIfAmgWBmYPFQYEbm9uZRMvUHJpdmFjeVBvbGljeS5hc3B4AAAAAGQCAQ8VBQAADlByaXZhY3kgUG9saWN5BWJsb2NrEy9Qcml2YWN5UG9saWN5LmFzcHhkAgIPFQIADlByaXZhY3kgUG9saWN5ZAIOD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEC9UZXJtc09mVXNlLmFzcHgAAAAAZAIBDxUFAAAMVGVybXMgb2YgVXNlBG5vbmUQL1Rlcm1zT2ZVc2UuYXNweGQCAg8VAgAMVGVybXMgb2YgVXNlZAIPD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHi9Db250YWN0VXMvY29udGFjdGxhbmRpbmcuYXNweAAAAABkAgEPFQUAAApDb250YWN0IFVzBG5vbmUeL0NvbnRhY3RVcy9jb250YWN0bGFuZGluZy5hc3B4ZAICDxUCAApDb250YWN0IFVzZAIQD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDS9TaXRlTWFwLmFzcHgAAAAAZAIBDxUFAAAIU2l0ZSBNYXAEbm9uZQ0vU2l0ZU1hcC5hc3B4ZAICDxUCAAhTaXRlIE1hcGQCEQ9kFgICAQ8WAh8CaBYGZg8VBgVibG9jawsvRXJyb3IuYXNweAAAAABkAgEPFQUAAAVFcnJvcgRub25lCy9FcnJvci5hc3B4ZAICDxUCAAVFcnJvcmQCEg9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxcvVlBvZlBpenphL0RlZmF1bHQuYXNweAAAAABkAgEPFQUAAAtWUCBvZiBQaXp6YQRub25lFy9WUG9mUGl6emEvRGVmYXVsdC5hc3B4ZAICDxUCAAtWUCBvZiBQaXp6YWQCEw9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxMvUFpvbmUvRGVmYXVsdC5hc3B4AAAAAGQCAQ8VBQAABlAnWm9uZQRub25lEy9QWm9uZS9EZWZhdWx0LmFzcHhkAgIPFQIABlAnWm9uZWQCFA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxUvUFpvbmUvRW50cnlGb3JtLmFzcHgAAAAAZAIBDxUFAAAbUCdab25lIENoYWxsZW5nZSBFbnRyeSBGb3JtBG5vbmUVL1Bab25lL0VudHJ5Rm9ybS5hc3B4ZAICDxUCABtQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IEZvcm1kAhUPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2scL1Bab25lL0NvbmZpcm1hdGlvblBhZ2UuYXNweAAAAABkAgEPFQUAACNQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IENvbmZpcm1hdGlvbgRub25lHC9QWm9uZS9Db25maXJtYXRpb25QYWdlLmFzcHhkAgIPFQIAI1AnWm9uZSBDaGFsbGVuZ2UgRW50cnkgQ29uZmlybWF0aW9uZAIWD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHy9QWm9uZS9SdWxlc0FuZFJlZ3VsYXRpb25zLmFzcHgAAAAAZAIBDxUFAAAmUCdab25lIENoYWxsZW5nZSBSdWxlcyBhbmQgUmVndWxhdGlvbnMEbm9uZR8vUFpvbmUvUnVsZXNBbmRSZWd1bGF0aW9ucy5hc3B4ZAICDxUCACZQJ1pvbmUgQ2hhbGxlbmdlIFJ1bGVzIGFuZCBSZWd1bGF0aW9uc2RkkTuf5O0TZHleJ+YLzxNsI5U7ALA=">
+</div>
 
     
     
@@ -34,15 +91,20 @@
 			
 
 <div id="calloutOrderNow"><a href="https://quikorder.pizzahut.com/phorders2/login.php"><img src="Images/Callouts/callOrderNow.gif" id="ctl00_CalloutGlobal_Img6" alt=" Order now "></a></div>
-			<a href="Default.aspx" name="top"><img src="Images/Common/hdrLogo.gif" alt=" Pizza Hut "></a>
-			<img src="Images/Common/hdrSlogan.gif" alt=" America's Favorite Pizza ">
+			<a href="Default.aspx" name="top"><img src="Images/Common/hdrLogo2.gif" alt=" Pizza Hut "></a>
+			
 			<div id="globalNav">
 				<a href="https://quikorder.pizzahut.com/phorders2/login.php">ORDER NOW</a>&nbsp;&nbsp;|&nbsp;
 				<a href="https://quikorder.pizzahut.com/phorders2/register.php">REGISTER</a>&nbsp;&nbsp;|&nbsp;
 				<a href="FAQ.aspx">FAQ</a>&nbsp;&nbsp;|&nbsp;
-				<a href="http://espanol.pizzahut.com" target="_blank">EN ESPAÑOL</a>
+				<a href="contactus/contactlanding.aspx" id="ctl00_A2">CONTACT US</a>&nbsp;&nbsp;|&nbsp;
+				<a href="http://espanol.pizzahut.com/" target="_blank" onclick="return switchLanguage();">EN ESPAÑOL</a>
 			</div>
 			<div id="primaryNavigation">
+			    <table cellpadding="0" cellspacing="0" border="0" height="39px">
+			        <tbody><tr>
+			            
+
 				  
 						 
 								  		                      
@@ -50,33 +112,33 @@
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="/Menu.aspx" onmouseover="rollOver('navMenu', 'navMenuOn')" onmouseout="rollOver('navMenu', 'navMenuOff');"><img id="IMG1" src="/Images/Navigation/navMenu.gif" name="navMenu" border="0" alt=" Menu "></a>
-										  <a style="display:none;" href="/Menu.aspx"><img id="IMG2" src="/Images/Navigation/navMenuOn.gif" border="0" alt=" Menu "></a>
+										  <td valign="bottom"><a style="display:block;" href="/Menu.aspx" onmouseover="rollOver('navMenu', 'navMenuOn')" onmouseout="rollOver('navMenu', 'navMenuOff');"><img id="IMG1" src="/Images/Navigation/navMenu.gif" name="navMenu" border="0" alt=" Menu "></a>
+										  <a style="display:none;" href="/Menu.aspx"><img id="IMG2" src="/Images/Navigation/navMenuOn.gif" border="0" alt=" Menu "></a></td>
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="/Nutrition.aspx" onmouseover="rollOver('navNutrition', 'navNutritionOn')" onmouseout="rollOver('navNutrition', 'navNutritionOff');"><img id="IMG1" src="/Images/Navigation/navNutrition.gif" name="navNutrition" border="0" alt=" Nutrition "></a>
-										  <a style="display:none;" href="/Nutrition.aspx"><img id="IMG2" src="/Images/Navigation/navNutritionOn.gif" border="0" alt=" Nutrition "></a>
+										  <td valign="bottom"><a style="display:block;" href="/Nutrition.aspx" onmouseover="rollOver('navNutrition', 'navNutritionOn')" onmouseout="rollOver('navNutrition', 'navNutritionOff');"><img id="IMG1" src="/Images/Navigation/navNutrition.gif" name="navNutrition" border="0" alt=" Nutrition "></a>
+										  <a style="display:none;" href="/Nutrition.aspx"><img id="IMG2" src="/Images/Navigation/navNutritionOn.gif" border="0" alt=" Nutrition "></a></td>
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="/Locations.aspx" onmouseover="rollOver('navLocations', 'navLocationsOn')" onmouseout="rollOver('navLocations', 'navLocationsOff');"><img id="IMG1" src="/Images/Navigation/navLocations.gif" name="navLocations" border="0" alt=" Locations "></a>
-										  <a style="display:none;" href="/Locations.aspx"><img id="IMG2" src="/Images/Navigation/navLocationsOn.gif" border="0" alt=" Locations "></a>
+										  <td valign="bottom"><a style="display:block;" href="https://quikorder.pizzahut.com/phorders2/store_locator.php" onmouseover="rollOver('navLocations', 'navLocationsOn')" onmouseout="rollOver('navLocations', 'navLocationsOff');"><img id="IMG1" src="/Images/Navigation/navLocations.gif" name="navLocations" border="0" alt=" Locations "></a>
+										  <a style="display:none;" href="https://quikorder.pizzahut.com/phorders2/store_locator.php"><img id="IMG2" src="/Images/Navigation/navLocationsOn.gif" border="0" alt=" Locations "></a></td>
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="/Deals.aspx" onmouseover="rollOver('navDeals', 'navDealsOn')" onmouseout="rollOver('navDeals', 'navDealsOff');"><img id="IMG1" src="/Images/Navigation/navDeals.gif" name="navDeals" border="0" alt=" Deals "></a>
-										  <a style="display:none;" href="/Deals.aspx"><img id="IMG2" src="/Images/Navigation/navDealsOn.gif" border="0" alt=" Deals "></a>
+										  <td valign="bottom"><a style="display:block;" href="/Deals.aspx" onmouseover="rollOver('navDeals', 'navDealsOn')" onmouseout="rollOver('navDeals', 'navDealsOff');"><img id="IMG1" src="/Images/Navigation/navDeals.gif" name="navDeals" border="0" alt=" Deals "></a>
+										  <a style="display:none;" href="/Deals.aspx"><img id="IMG2" src="/Images/Navigation/navDealsOn.gif" border="0" alt=" Deals "></a></td>
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="https://pizzahutcard.pizzahut.com/newgiftcard/" onmouseover="rollOver('navGift', 'navGiftOn')" onmouseout="rollOver('navGift', 'navGiftOff');"><img id="IMG1" src="/Images/Navigation/navGift.gif" name="navGift" border="0" alt=" Gift Card "></a>
-										  <a style="display:none;" href="https://pizzahutcard.pizzahut.com/newgiftcard/"><img id="IMG2" src="/Images/Navigation/navGiftOn.gif" border="0" alt=" Gift Card "></a>
+										  <td valign="bottom"><a style="display:block;" href="https://pizzahutcard.pizzahut.com/newgiftcard/" onmouseover="rollOver('navGift', 'navGiftOn')" onmouseout="rollOver('navGift', 'navGiftOff');"><img id="IMG1" src="/Images/Navigation/navGift.gif" name="navGift" border="0" alt=" Gift Card "></a>
+										  <a style="display:none;" href="https://pizzahutcard.pizzahut.com/newgiftcard/"><img id="IMG2" src="/Images/Navigation/navGiftOn.gif" border="0" alt=" Gift Card "></a></td>
 								  		                      
 								
 								  	                          	                         
-										  <a style="display:block;" href="/catering/default.aspx" onmouseover="rollOver('navMenuCatering', 'navMenuCateringOn')" onmouseout="rollOver('navMenuCatering', 'navMenuCateringOff');"><img id="IMG1" src="/Images/Navigation/navMenuCatering.gif" name="navMenuCatering" border="0" alt=" Catering "></a>
-										  <a style="display:none;" href="/catering/default.aspx"><img id="IMG2" src="/Images/Navigation/navMenuCateringOn.gif" border="0" alt=" Catering "></a>
+										  <td valign="bottom"><a style="display:block;" href="/wingstreet" onmouseover="rollOver('navMenuWingstreet', 'navMenuWingstreetOn')" onmouseout="rollOver('navMenuWingstreet', 'navMenuWingstreetOff');"><img id="IMG1" src="/Images/Navigation/navMenuWingstreet.gif" name="navMenuWingstreet" border="0" alt=" Wingstreet "></a>
+										  <a style="display:none;" href="/wingstreet"><img id="IMG2" src="/Images/Navigation/navMenuWingstreetOn.gif" border="0" alt=" Wingstreet "></a></td>
 								  		                      
 								
 								  		                      
@@ -109,9 +171,9 @@
 								
 								  		                      
 								
-								  		                      
-								
-						
+					    
+			        </tr>
+			    </tbody></table>		
 			</div>
 		</div>
 		<div class="middle" id="middleTwoColumn">
@@ -121,10 +183,8 @@
 				
     
 	<h1><img src="Images/Headers/hdrPrivacyPolicy.gif" alt=" Privacy Policy "></h1>
-
 	<p>
-	Pizza Hut, Inc. (hereinafter referred to as either, “Company,” “We,” “Us,” or “Our”) is committed to protecting the privacy of personal information you may provide Us on this Website (the “Site”). We believe it is important for you to know how We treat your personal information. We updated this Privacy Policy effective as of December 13, 2006. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our revised Privacy Policy.
-	</p>
+	Pizza Hut, Inc. (hereinafter referred to as either, "Company", "We", "Us" or "Our") is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”).  We believe it is important for you to know how We treat your personal information.  We updated this Privacy Policy effective as of June 20, 2008.  The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.  Below you will find answers to several questions regarding Our revised Privacy Policy.  	</p>
 
 	<p>
 	</p><ul>
@@ -144,77 +204,83 @@
 	<h2><a name="al1"><img src="Images/Headers/subwhatInfo.gif" alt=" What information does Company collect about me on this Site? "></a></h2>
 	
 	<p>
-	Company collects personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following: your name, address, telephone number, email addresses, credit card information, demographic information, and any other information you may voluntarily provide. You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information.
+	Company collects personally identifiable information that you may voluntarily provide on online forms, which may include:  user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities.  The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following:  your name, address, telephone number(s), e-mail addresses, text messaging information and other contact information associated with electronic or digital messaging methods, vehicles and interaction, credit card information, demographic information, and any other information you may voluntarily provide.  You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information.
 	</p>
 
 	<p>
-	At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you via email to new features, special offers, updated information and new services.
+	At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box(es).  If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you  via your selected opt-in communication method (i.e., e-mail, text messaging, etc.) to new features, special offers, updated information and new services.  
 	</p>
 
 	<p>
-	In addition to the Personal Information identified above, Our Web servers automatically identify computers by their IP addresses. Company may use IP addresses to analyze trends, administer the Site, track users’ movement and gather broad demographic information for aggregate use. To emphasize, IP addresses are not linked to Personal Information.
+	In addition to the Personal Information identified above, Our web servers automatically identify computers by their IP addresses.  Company may use IP addresses to analyze trends, administer the Site, track users’ movement and gather broad demographic information for aggregate use.  To emphasize, IP addresses are not linked to Personal Information.
 	</p>
 
 	<p>
-	Further, Our Site may use technologies such as “cookies” to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial Websites that allow small text files to be sent by a Website, accepted by a Web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. To emphasize, cookies are not linked to any Personal Information while on this Site.
+	Further, Our Site may use technologies such as “cookies” to provide visitors with tailored information upon each visit.  Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site.  Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system.  You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled.  To emphasize, cookies are not linked to any Personal Information while on this Site.
 	</p>
 
 	<p>
-	Company’s ad management partner, DoubleClick, employs pixels or transparent GIF files to help manage Our online advertising. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables Us to learn which advertisements bring users to Our Website. The cookie was placed by Us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information We collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information on how to opt out of these technologies, go to <a href="http://www.doubleclick.net/Us/corporate/privacy" target="_blank">http://www.doubleclick.net/Us/corporate/privacy</a>.
+	Company's ad management partner, Microsoft Advertiser &amp; Publisher Solutions (Atlas), employs pixels or transparent GIF files to help manage Our online advertising.  These files enable Atlas to recognize a unique cookie on your web browser, which in turn enables Us to learn which advertisements bring users to Our website.  The cookie was placed by Us, or by another advertiser who works with Atlas. With both cookies and Universal Action Tag technology, the information We collect and share is anonymous and not personally identifiable.  It does not contain your name, address, telephone number(s), or email address.  For more information about Atlas, including information on how to opt out of these technologies, go to <a href="http://www.atlassolutions.com/privacy" target="_blank">http://www.atlassolutions.com/privacy</a>.
 	</p>
 
 	<h2><a name="al2"><img src="Images/Headers/subWhatDoWithInfo.gif" alt=" What does Company do with the information collected? "></a></h2>
 
 	<p>
-	Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations; and (9) in general, to promote and market Company’s business and various products.
+	Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations through your selected opt-in methods; and (9) in general, to promote and market Company’s business and various products.
 	</p>
 
 	<h2><a name="al3"><img src="Images/Headers/subWithWhom.gif" alt=" With whom does Company share the information? "></a></h2>
 
 	<p>
-	Company is a part of Yum! Brands, Inc. (“Yum Brands”). <a href="http://www.yum.com/privacy.asp" target="_blank">Yum Brands</a> includes: <a href="http://www.kfc.com/privacy.asp" target="_blank">KFC U.S. Properties, Inc.</a>, <a href="http://www.tacobell.com/legal/privacypolicy.html" target="_blank">Taco Bell Corp.</a>, <a href="PrivacyPolicy.aspx">Pizza Hut, Inc.</a>, <a href="http://www.ljsilvers.com/privacy/default.htm" target="_blank">Long John Silver’s, Inc.</a>, <a href="http://www.awrestaurants.com/privacy/default.htm" target="_blank">A&amp;W Restaurants, Inc.</a>, <a href="http://www.wingstreet.com/PrivacyPolicy.aspx " target="_blank">WingStreet, LLC</a>, and <a href="http://www.yrigfp.com/legal.asp" target="_blank">Yum Restaurants International, Inc.</a>. Company may share Personal Information collected on this Site with any member of Yum Brands and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members. If you choose to provide your Personal Information to other members of Yum Brands through their respective Websites, then the respective Privacy Policies will apply.
+	Company is a part of <a href="http://www.yum.com/privacy.asp" target="_blank">Yum! Brands, Inc</a>. ("Yum Brands"). Yum Brands includes:  <a href="http://www.kfc.com/privacy.asp" target="_blank">KFC U.S. Properties, Inc.</a>, <a href="http://www.tacobell.com/legal/privacypolicy.html" target="_blank">Taco Bell Corp.</a>, <a href="PrivacyPolicy.aspx" id="ctl00_mainContent_A1">Pizza Hut, Inc.</a>, <a href="http://www.ljsilvers.com/privacy/default.htm" target="_blank">Long John Silver’s, Inc.</a>, <a href="http://www.awrestaurants.com/privacy/default.htm" target="_blank">A&amp;W Restaurants, Inc.</a>, and <a href="http://www.yrigfp.com/legal.asp" target="_blank">Yum Restaurants International, Inc</a>.  Company may share Personal Information collected on this Site with any member of Yum Brands, its franchisees, and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members.  If you choose to provide your Personal Information to other members of Yum Brands through their respective websites, then the respective Privacy Policies will apply.
 	</p>
 
 	<p>
-	Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement. Company may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, or maintain a database of visitor information, etc.).
-	</p>
+    Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement.  Company may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, or maintain a database of visitor information, etc.).  
 
-	<p>
-	If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes. In support of this policy, Company will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with Company’s privacy policies and applicable laws. To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity.
+	</p><p>
+	If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes. In support of this policy, Company will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with Company’s privacy policies and applicable laws.  To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity.  
 	</p>
 	
 	<h2><a name="al4"><img src="Images/Headers/subStopInfo.gif" alt=" How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties? "></a></h2>
 
 	<p>
-	Users, who initially opted-in to receive future offers or promotional materials, or to allow the sharing of Personal Information with third parties, may subsequently opt-out by sending an email to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a>. Company will implement the change within three days of your request. Company will send an acknowledgement or confirmation of the request to the email address on file.
+	For those who initially opted-in to receive future offers or promotional materials or to allow the sharing of Personal Information with third parties may subsequently opt-out as follows: 
 	</p>
+	<ul>
+	<li style="list-style-type:disc;">For email communications: (a) send an e-mail to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> or (b) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website;</li>
+	<li style="list-style-type:disc;">For text message communications, (a) send an email to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> and include the appropriate mobile telephone number(s), (b) send a "STOP" text message to "749488" or (c) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website.</li>
+	</ul>
 
 	<h2><a name="al5"><img src="Images/Headers/subCorrectOrUpdate.gif" alt=" How do I correct or update my Personal Information? "></a></h2>
 
 	<p>
-	You control the accuracy of your Personal Information. If your Personal Information changes, feel free to correct, update or delete/deactivate it by emailing <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a>. If you wish to review your Personal Information that Company has on record, you may contact <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a>.
-	</p>
+    Those who have registered on Our website may review, correct, update or delete/deactivate  their Personal Information, by logging onto Our Site and clicking on “My Account” to make the appropriate changes. 
+    </p>
+    <p>
+    If you are not a Registered User, you may send an email to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> to correct, update or delete/deactivate their applicable email address(es).  
+    </p>
 
 	<h2><a name="al6"><img src="Images/Headers/subSecurPersonal.gif" alt=" How does Company protect the security of my Personal Information? "></a></h2>
 
 	<p>
-	Company uses appropriate security measures to protect all Personal Information collected in a secure, controlled environment. In addition, Company configures the list server software to refuse to divulge the email addresses of the list subscribers to anyone other than authorized Company staff members, including other list subscribers. In the event of a security breach whereas your Personal Information is acquired by an unauthorized person, Company will take appropriate steps to contain the breach and to notify you of the unauthorized acquisition.
+	Company uses appropriate security measures to protect all Personal Information collected in a secure, controlled environment.  In addition, Company configures the list server software to refuse to divulge the e-mail addresses of the list subscribers to anyone other than authorized Company staff members, including other list subscribers.  In the event of a security breach whereas your Personal Information is acquired by an unauthorized person, Company will take appropriate steps to contain the breach and to notify you of the unauthorized acquisition.  
 	</p>
 
 	<h2><a name="al7"><img src="Images/Headers/subLinkToOtherSites.gif" alt=" Does Company’s Site link to other sites? "></a></h2>
 
 	<p>
-	Yes. This Site may contain links to other Websites that may not be owned or operated by Company. Company cannot control nor is responsible for the privacy practices or content of such other Websites. Company encourages you to read the privacy statements of each and every Website that collects personally identifiable information. This Privacy Policy applies solely to Personal Information collected on this Site.
+	Yes. This Site may contain links to other websites that may not be owned or operated by Company.  Company cannot control nor is responsible for the privacy practices or content of such other websites.  Company encourages you to read the privacy statements of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to Personal Information collected on this Site.
 	</p>
 
 	<h2><a name="al8"><img src="Images/Headers/subEffectiveDate.gif" alt=" What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy? "></a></h2>
 
 	<p>
-	This Privacy Policy was last updated on December 13, 2006. Company will post any changes on the Site’s homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it. If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by email to the email addresses on record. Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
+	This Privacy Policy was last updated on June 20, 2008.  Company will post any changes on the Site’s Homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it.  If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by e-mail to the e-mail addresses on record.  Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
 	</p>
 
 	<p>
-	In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your personal information will, in most instances, be part of the assets transferred. Thirty days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site. If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt-out.
+	In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your personal information will, in most instances, be part of the assets transferred.  Thirty days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site.  If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt-out. 
 	</p>
 	
 	<h2><a name="al9"><img src="Images/Headers/subChildrensPrivacy.gif" alt=" How does Company handle children’s privacy online? "></a></h2>
@@ -224,41 +290,41 @@
 	</p>
 
 	<p>
-	On the sections directed towards children, Company does not collect Personal Information online from children under 13 without their parent's consent except in special, limited circumstances, as described below. If a child is under 13 and wants to use the children's sites with special activities, like scavenger hunts, personalized pages or clubs, Company might ask the child to “register” by giving Us a first name and his/her state of residence. When asking for a child's first name, the child is encouraged to use a “screen name” (not his/her real name) that only the child knows. Sometimes the child will be asked to make up a special password so that only they can see their customized areas on the site. 
+	On the sections directed towards children, Company does not collect Personal Information online from children under 13 without their parent's consent except in special, limited circumstances, as described below. If a child is under 13 and wants to use the children's sites with special activities, like scavenger hunts, personalized pages or clubs, Company might ask the child to "register" by giving Us a first name and his/her state of residence.  When asking for a child's first name, the child is encouraged to use a "screen name" (not his/her real name) that only the child knows.  Sometimes the child will be asked to make up a special password so that only they can see their customized areas on the site.  
 	</p>
 
 	<p>
-	With parent's verifiable consent, Company may collect personal information from a child such as an email address when the information is necessary for a particular activity. Usually the child is asked for his/her parent's email in order to get parental permission for a child to provide any Personal Information. When We ask for parental permission, We will tell the parents what We will do with the information his/her child provides Us, and We will tell parents how they can review their child's information and ask Us to delete the information. We do not keep parents’ (or children's) email address unless parents tell us it is OK. 
+	With parent's verifiable consent, Company may collect personal information from a child such as an e-mail address when the information is necessary for a particular activity.  Usually the child is asked for his/her parent's email in order to get parental permission for a child to provide any Personal Information.  When We ask for parental permission, We will tell the parents what We will do with the information his/her child provides Us, and We will tell parents how they can review their child's information and ask Us to delete the information.  We do not keep parents’ (or children's) e-mail address unless parents tell Us it is okay. 
 	</p>
 
 	<p>
-	Company might collect some information from a child under 13 without the parent’s consent, but only in the following special cases: If a child under 13 sends a request to Us, We keep their email address for long enough to respond to them. Company deletes this information from its system after the child's question is answered. Company’s webmaster is the only person who receives, collects or maintains children's submitted information, even temporarily, through the Site. The webmaster will not use such information for any purpose, including marketing back to the child. The webmaster will not disclose information collected from children to third parties. 
+	Company might collect some information from a child under 13 without the parent’s consent, but only in the following special cases: If a child under 13 sends a request to Us, We keep their e-mail address for long enough to respond to them.  Company deletes this information from its system after the child's question is answered.  Company’s webmaster is the only person who receives, collects or maintains children's submitted information, even temporarily, through the Site.  The webmaster will not use such information for any purpose, including marketing back to the child. The webmaster will not disclose information collected from children to third parties. 
 	</p>
 
 	<p>
-	Occasionally, Company has special site activities or promotions like sweepstakes or contests which are open to children even if they are under 13. In these activities, Company is not allowed to ask for more information from a child other than what is necessary for a child to participate in the activity. For instance, Company might ask for a parent's email address so Company can request information on how to send the child any prizes won or to tell a parent when his/her child has won a prize. 
+	Occasionally, Company has special site activities or promotions like sweepstakes or contests which are open to children even if they are under 13.  In these activities, Company is not allowed to ask for more information from a child other than what is necessary for a child to participate in the activity.  For instance, Company might ask for a parent's email address so Company can request information on how to send the child any prizes won or to tell a parent when his/her child has won a prize. 
 	</p>
 
 	<p>
-	In the last two situations when Company asks for information without parental consent, Company requires the child to give his/her parent's email address, so the parent is notified that their child registered in a promotion or for a service. Any information a child provides in the above special circumstances will be deleted from the database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete. 
+	In the last two situations when Company asks for information without parental consent, Company requires the child to give his/her parent's e-mail address, so the parent is notified that their child registered in a promotion or for a service.  Any information a child provides in the above special circumstances will be deleted from the database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete. 
 	</p>
 
 	<p>
-	Company also might collect contact information where it is necessary to protect a child's safety. 
+	Company also might collect contact information where it is necessary to protect a child's safety.  
 	</p>
 
 	<p>
-	A parent can always ask to review the information his/her child has submitted by sending an email to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> or a written request addressed to Company, 14841 Dallas Parkway, Dallas, TX 75254, or by calling the webmaster at 972-338-7700. Requests must include the screen name of the child, the child's password and any other information which will allow Company to verify that the requester is the parent of the child whose information is requested. A parent can ask to delete a child's information at any time and a parent can ask that Company not collect any more personal information from his/her child, by sending an email at <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> or a written request addressed to Company, Attention: Webmaster, Children's Online Privacy Act - Information Request, 14841 Dallas Parkway, Dallas, Texas 75254, Attn: Webmaster, Children's Online Privacy Act - Delete Request, or by calling the webmaster at 972-338-7700.
+	A parent can always ask to review the information his/her child has submitted by sending an email to <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> or a written request addressed to Company, 14841 Dallas Parkway, Dallas, Texas 75254, Attention: Webmaster, Children's Online Privacy Act - Information Request, or by calling the webmaster at 972-338-7700. Requests must include the screen name of the child, the child's password and any other information which will allow Company to verify that the requester is the parent of the child whose information is requested. A parent can ask to delete a child's information at any time and a parent can ask that Company not collect any more personal information from his/her child, by sending an email at <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a> or a written request addressed to Company 14841 Dallas Parkway, Dallas, Texas 75254, Attn: webmaster, Children's Online Privacy Act - Delete Request or by calling the webmaster at 972-338-7700.
 	</p>
 	
 	<h2><a name="al10"><img src="Images/Headers/subContact.gif" alt=" How do I contact Company? "></a></h2>
 
 	<p>
-	If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a>.
+	If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact <a href="mailto:webmaster@pizzahut.com" target="_blank">webmaster@pizzahut.com</a>.  
 	</p>
 	
 	<p style="text-align:right;">
-	<strong>Effective as of December 13, 2006</strong>
+	<strong>Effective as of June 20, 2008</strong>
 	</p>
 
 	
@@ -279,71 +345,211 @@
 					
 
 	
-
+<script src="/Javascript/mootools-release-1.11.js" type="text/javascript"></script>
 	<!-- Callout: Find a deal near your -->
 	<img src="Images/Callouts/callHdlFindaDeal.jpg" id="ctl00_rightContent_CalloutRight_Img3" alt=" Find a deal near you "><br>
 	<div class="rightModule">
 		<div class="innerPadding">
-			
-				<p>
-				Enter your ZIP code
-				</p>
-				
-				<strong>ZIP Code: </strong><br>
-				
-				
-				<input name="ctl00$rightContent$CalloutRight$zipCodeTextBox" type="text" maxlength="5" id="ctl00_rightContent_CalloutRight_zipCodeTextBox"><br><br>
-				
-				<input type="image" name="ctl00$rightContent$CalloutRight$go3ImageButton" id="ctl00_rightContent_CalloutRight_go3ImageButton" src="Images/Buttons/btnGo.gif" alt=" Go " onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$rightContent$CalloutRight$go3ImageButton&quot;, &quot;&quot;, true, &quot;calloutFindDeal&quot;, &quot;&quot;, false, false))" border="0">
-			
+		<br>
+			<a href="https://quikorder.pizzahut.com/phorders2/deals.php"><img src="Images/Buttons/btnGo.gif" id="ctl00_rightContent_CalloutRight_Img1" alt=" Go " border="0"></a>
 		</div>
 	</div>
 	
 	<!-- Callout: Get More -->
-	<img src="Images/Callouts/callHdlGetMore.jpg" alt=" Get more "><br>
+	<img src="Images/Callouts/callHdlGetMore.jpg" id="ctl00_rightContent_CalloutRight_Img2" alt=" Get more "><br>
 	<div class="rightModule">
-		<div class="innerPadding">
-			<p>Send us your email address and ZIP code to receive information about Pizza Hut/WingStreet coupons, promotions, announcements, events and specials.</p>
-			<strong>Email Address</strong><br>
-			<input name="ctl00$rightContent$CalloutRight$emailTextBox" type="text" id="ctl00_rightContent_CalloutRight_emailTextBox"><br><br>
-			
-			<input type="image" name="ctl00$rightContent$CalloutRight$go2ImageButton" id="ctl00_rightContent_CalloutRight_go2ImageButton" src="Images/Buttons/btnGo.gif" alt=" Go " border="0">
+		<div class="innerPadding" id="Div1">
+			<p>Get coupons, specials, promotions, announcements and event information from Pizza Hut. Just send us your email address.</p>
+			<p style="font-size: 8pt;">Required fields are marked with an (*)</p>
+			<strong>*Email Address</strong>
+			<input type="text" id="EmailStartBox">
+			<div id="EmailStartBoxError" style="font-size: 8pt; color: Red;">Please Enter a valid email</div><br>
+			<img src="Images/Buttons/btnGetStarted.gif" id="ctl00_rightContent_CalloutRight_ImgStart" onclick="Toggle1();" onmouseover="this.style.cursor = 'pointer';">
+		</div>
+		<div class="innerPadding" id="Div2">
+		    <p>Tell us how you want to get your Pizza Hut information.</p>
+		    <p style="font-size: 8pt;">Required fields are marked with an (*)</p>
+		    <input type="radio" id="EmailOnly" name="EmailOption" onclick="ToggleMobileOn();" checked="1">Email Only<br>
+		    <input type="radio" id="EmailAndText" name="EmailOption" onclick="ToggleMobileOff();">Email and Text Message<br>
+		    <b>*Email Address:</b><br>
+		    <input type="text" id="EmailBox"><br>
+		    <b>*Confirm Email Address</b><br>
+		    <input type="text" id="EmailBox2"><br>
+		    <b>*ZIP Code</b><br>
+		    <input type="text" id="ZipBox"><br>
+		    <b>*Birthdate</b> <a href="http://www.pizzahut.com/PrivacyPolicy.aspx#al9" target="_blank">Why do we ask?</a><br>
+		    <span id="MonthHolder"><select id="BirthMonth"><option value="">MM</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select></span>
+		    <script language="javascript" type="text/javascript">
+		        var BirthMonth = "<select id=\"BirthMonth\"><option value=\"\">MM</option>";
+		        for (i = 1; i < 13; i++)
+		        {
+		            if (i < 10)
+		                BirthMonth += "<option value=\"0" + i + "\">0" + i + "</option>";
+		            else
+		                BirthMonth += "<option value=\"" + i + "\">" + i + "</option>";
+		        }
+		        BirthMonth += "</select>";
+		        document.getElementById("MonthHolder").innerHTML = BirthMonth;
+		    </script>
+		    <span id="DayHolder"><select id="BirthDay"><option value="">DD</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select></span>
+		    <script language="javascript" type="text/javascript">
+		        var BirthDay = "<select id=\"BirthDay\"><option value=\"\">DD</option>";
+		        for (i = 1; i < 32; i++)
+		        {
+		            if (i < 10)
+		                BirthDay += "<option value=\"0" + i + "\">0" + i + "</option>";
+		            else
+		                BirthDay += "<option value=\"" + i + "\">" + i + "</option>";
+		        }
+		        BirthMonth += "</select>";
+		        document.getElementById("DayHolder").innerHTML = BirthDay;
+		    </script>
+		    <span id="YearHolder"><select id="BirthYear"><option value="">YYYY</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900</option></select></span>
+		    <script language="javascript" type="text/javascript">
+		        var BirthYear = "<select id=\"BirthYear\"><option value=\"\">YYYY</option>";
+		        for (i = 1990; i > 1899; i--)
+		        {
+		            BirthYear += "<option value=\"" + i + "\">" + i + "</option>";
+		        }
+		        BirthYear += "</select>";
+		        document.getElementById("YearHolder").innerHTML = BirthYear;
+		    </script>
+		    <div id="MobileHolder">
+		    <b>Mobile Phone Number:</b><br>
+		    <input type="text" id="MobileNumber1" style="width: 35px;"> - 
+		    <input type="text" id="MobileNumber2" style="width: 35px;"> - 
+		    <input type="text" id="MobileNumber3" style="width: 44px;">
+		    </div>
+		    <table cellpadding="2" cellspacing="0" border="0">
+		        <tbody><tr>
+		            <td valign="top"><input type="checkbox" id="TermsCheckbox"></td>
+		            <td style="font-size: 8pt;">I consent to receive coupons, specials, promotions, announcements and event information from Pizza Hut and its affiliates via the above electronic methods.</td>
+		        </tr>
+		    </tbody></table>	    	    
+		    <p style="font-size: 8pt;">Please read our <a href="http://www.pizzahut.com/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a> and <a href="http://www.pizzahut.com/TermsOfUse.aspx" target="_blank">Terms of Use</a>.</p>
+		    <div style="clear:both;"></div>
+		    <center><img src="Images/Buttons/btnSubmit.gif" id="ctl00_rightContent_CalloutRight_ImgSubmit" onclick="Toggle2();" onmouseover="this.style.cursor = 'pointer';"></center>
+		</div>
+		<div class="innerPadding" id="Div3">
+		    <p>Thank you for registering! Look for great deals from Pizza Hut designed especially for you. </p>
+		    <p>You may unsubscribe at any time by clicking the link on the emails you receive.</p>
 		</div>
 	</div>
 	<div class="calloutBottom"></div>
+	<div><iframe id="RegistrationIframe" src="" width="0px" height="0px" frameborder="0" scrolling="no"></iframe></div>
 	
 	<!-- Callout: WingStreet -->
-	<br><a href="http://www.wingstreet.com/" target="_blank"><img src="Images/Callouts/callWingStreet.jpg" alt=" WingStreet "></a>
+	<br><a href="/wingstreet/?WT.mc_id=061608WingStreet_Award_Winning_Call_Out"><img src="Images/Callouts/callWingStreet.jpg" id="ctl00_rightContent_CalloutRight_Img4" alt=" WingStreet "></a>
+	<script type="text/javascript">
+        var Div1 = new Fx.Slide('Div1', {duration: 500});
+        var Div2 = new Fx.Slide('Div2', {duration: 500});
+        var Div3 = new Fx.Slide('Div3', {duration: 500});
+        var MobileHolder = new Fx.Slide('MobileHolder', {duration: 500, mode: 'horizontal'});
+        var EmailStartBoxError = new Fx.Slide('EmailStartBoxError', {duration: 300});
+        Div2.hide();
+        Div3.hide();
+        MobileHolder.hide();
+        EmailStartBoxError.hide();
+        function Toggle1()
+        {
+            var validationString = $('EmailStartBox').value;
+            //if(validationString.length > 0)
+            if(validationString.match(/^([0-9a-zA-Z]+([_.-]?[0-9a-zA-Z]+)*@[0-9a-zA-Z]+[0-9,a-z,A-Z,.,-]*(.){1}[a-zA-Z]{2,4})+$/))
+            {
+                $('EmailBox').value = validationString;
+                Div2.toggle();
+                Div1.toggle();
+            }
+            else
+            {
+                EmailStartBoxError.slideIn();
+            }
+        }
+        
+        function Toggle2()
+        {
+            var Terms =$('TermsCheckbox').checked;
+            var Email1Value = $('EmailBox').value;
+            var Email2Value = $('EmailBox2').value;
+            var ZipValue = $('ZipBox').value;
+            var Birthday = $('BirthYear').value + $('BirthMonth').value + $('BirthDay').value;
+            var MobileNumber = $('MobileNumber1').value + $('MobileNumber2').value + $('MobileNumber3').value;
+            
+            var ValidationMessage = "";
+            var Validated = true;
+            if (Email1Value != Email2Value)
+            {
+                ValidationMessage += "Please make sure the two emails match.\n";
+                Validated = false;
+            }
+            if (!ZipValue.match(/^\d{5}$|^\d{5}-\d{4}$/))
+            {
+                ValidationMessage += "Please enter a valid zip code.\n";
+                Validated = false;
+            }
+            if ( Birthday.length <= 2 )
+            {
+                ValidationMessage += "Please enter your birthday.\n";
+                Validated = false;            
+            }
+            if( Terms != true )
+            {
+                ValidationMessage += "Please agree to the terms of use.\n";
+                Validated = false;              
+            }
+            //if(Email1Value == Email2Value && ZipValue.match(/^\d{5}$|^\d{5}-\d{4}$/) && Birthday.length > 2 && Terms == true)
+            if(Validated)
+            {
+                Div2.toggle();
+                Div3.toggle();
+                var URL = "GetMore.aspx?pfEmailaddress=" + Email1Value + "&pfBirthDate=" + Birthday + "&pfOptIn=true&pfMobileNumber=" + MobileNumber + "&pfZipCode=" + ZipValue;                               
+                $('RegistrationIframe').src = URL;               
+            }
+            else
+            {
+                alert(ValidationMessage);
+            }
+        }
+        
+        function ToggleMobileOn()
+        {
+            MobileHolder.slideOut();
+        }
+        
+        function ToggleMobileOff()
+        {
+            MobileHolder.slideIn();
+        }        
+	</script>
 	
 
 				</div>
 			</div>
 		</div>
 		<div id="footer">
-			<a href="Default.aspx" id="ctl00_A1"><img src="Images/Common/ftrLogoPH.gif" style="position:absolute;right:25px;top:0;margin-top:-11px;" alt=" Pizza Hut "></a>
+			<a href="OurStory.aspx?WT.mc_id=03260850th_Bday_Logo_on_Interior_Pages" id="ctl00_A1"><img src="Images/Common/ftrLogo50.gif" style="position:absolute;right:25px;top:0;margin-top:-12px;" alt=" Pizza Hut "></a>
 			<a href="OurStory.aspx">Our Story</a>&nbsp;&nbsp;|&nbsp;
 			<a href="Newsroom.aspx">Newsroom</a>&nbsp;&nbsp;|&nbsp;
 			<a href="Careers">Careers</a>&nbsp;&nbsp;|&nbsp;
-			<a href="Hutseum.aspx">Hutseum</a>&nbsp;&nbsp;|&nbsp;
-			<a href="http://www.yumfranchises.com/" target="_blank">Become a Franchisee</a>
+			<a href="http://www.yumfranchises.com/" target="_blank">Become a Franchisee</a>&nbsp;&nbsp;|&nbsp;
+			<a href="catering" id="ctl00_A3">Catering</a>
 			
 			
 
 			<div id="footerText">
 				<a href="PrivacyPolicy.aspx" id="ctl00_FooterText_A1">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
 				<a href="TermsOfUse.aspx" id="ctl00_FooterText_A2">Terms of Use</a>&nbsp;&nbsp;|&nbsp;
-				<a href="ContactUs.aspx" id="ctl00_FooterText_A3">Contact Us</a>&nbsp;&nbsp;|&nbsp;
+				<a href="contactus/contactlanding.aspx" id="ctl00_FooterText_A3">Contact Us</a>&nbsp;&nbsp;|&nbsp;
 				<a href="International.aspx" id="ctl00_FooterText_A4">International</a>&nbsp;&nbsp;|&nbsp;
 				<a href="SupplierCode.aspx" id="ctl00_FooterText_A5">Supplier Code</a>&nbsp;&nbsp;|&nbsp;
 				<a href="http://www.yum.com/responsibility/diversity.asp" target="_blank">Diversity</a>&nbsp;&nbsp;|&nbsp;
-				<a href="http://www.bookitprogram.com/" target="_blank">Book It!</a>&nbsp;&nbsp;|&nbsp;
+				<a href="http://www.bookitprogram.com/" target="_blank">BOOK IT!</a><sup>®</sup>&nbsp;&nbsp;|&nbsp;
 				<a href="SiteMap.aspx" id="ctl00_FooterText_A6">Site Map</a>
 				
 				<br><br>
-				© 2007 Pizza Hut, Inc. All rights reserved.<br><br>
+				© 2008 Pizza Hut, Inc. All rights reserved.<br><br>
 				
-				The Pizza Hut name, logos, and related marks are trademarks of Pizza Hut, Inc.<br>
-				The WingStreet name, logos and related marks are trademarks of WingStreet, LLC.<br><br>
+				The Pizza Hut name, logos, and related marks are trademarks of Pizza Hut, Inc.<br><br>
 				
 				PEPSI, PEPSI-COLA, and PEPSI Globe are registered trademarks of PepsiCo, Inc.<br>
 				DR PEPPER and PEPPER are registered trademarks of Dr Pepper/Seven Up, Inc.<br><br>
@@ -353,28 +559,16 @@
 		</div>
 	</div>		
 
-    
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKztPT7BALPhJ6eAwKfp9H4CALBwLSYDQLEs97DD+Bf1npWCOx50FKxmz7Rw9f2nijc"></form>
-    
+    </form>
     
     
-    <!-- Google Tracking -->
-    <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    _uacct = "UA-491402-1";
-    _udn = "pizzahut.com";
-    urchinTracker();
-    </script>
-
+    
 	<!-- WebTrends Tracking -->
 	<script type="text/javascript" language="javascript" src="/JavaScript/Tracking.js"></script>
 	<noscript>
 	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslc8cht10000gwfmqbu3e5f_6j9u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
 	</noscript>
-	
-	<!-- Non-secure Pixel: Ad Networks -->
-	<img src="http://media.fastclick.net/rt?cn1=urt11&amp;v1=z" width="1" height="1" border="0">
-    
+   
 
 
 </body></html>
