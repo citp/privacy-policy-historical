@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162553id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624145110id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
 # The Horse: TheHorse.com Privacy Policy
-
-Horse Health News   
-Horse Welfare and Industry News
-
-Your Name:  
-  
-Email:  
-
 
 Thank you for visiting **TheHorse.com**. As a guest to our site, your privacy is important to us. Following are our online information practices and the way your information is collected and used at this site. 
 
@@ -17,6 +9,8 @@ Thank you for visiting **TheHorse.com**. As a guest to our site, your privacy is
 On **TheHorse.com** , you may enter contests, vote in surveys, submit demographic information, subscribe to services, and express opinions. The types of personally identifiable information that may be collected via one or more of these vehicles include name, address, e-mail address, telephone number, fax number, credit card information, demographic information, and information about your interests and behaviors. 
 
 **TheHorse.com** may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of operating system you are using (e.g., WindowsXP, Macintosh OS), the type of browser you are using (e.g., Internet Explorer, Netscape), and the domain name of your Internet service provider (e.g., America Online, MSN). 
+
+**TheHorse.com** members may receive occasional updates about new features and special offers from TheHorse.com, its affiliates, and selected partners. 
 
 **TheHorse.com** and its parent company, Blood-Horse Publications, are the sole owners of the information collected on this site. We will not sell, share, or rent your e-mail address to other parties in any way other than what is disclosed in this privacy statement. 
 
