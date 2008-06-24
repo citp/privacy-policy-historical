@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schrodinger.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028144707id_/http%3A//www.schrodinger.com/Legal.php%3FmID%3D10%26sID%3D14%26cID%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schrodinger.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624020037id_/http%3A//www.schrodinger.com/Legal.php%3FmID%3D10%26sID%3D14%26cID%3D0) for the most accurate reproduction.*
 
 # Schrödinger -> Legal -> Privacy Policy
 
