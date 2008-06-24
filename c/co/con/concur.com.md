@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227195143id_/http%3A//www.concur.com/about/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625013028id_/http%3A//www.concur.com/about/corporate/privacy.html) for the most accurate reproduction.*
 
-# Concur Technologies, Inc. Privacy Policy | Concur
+# Concur | click.done about: corporate: privacy
 
 We have created this privacy statement in order to demonstrate our commitment to privacy. You can visit our web site without giving us any information about yourself. In certain circumstances, we do need information to respond to your requests, and this privacy statement explains data collection in those situations. This site may contain links to other web sites. Neither Concur Technologies, Inc. nor any of its affiliates or representatives shall be responsible for the privacy practices or the content of other web sites. We encourage you to look for and review the privacy policies of these web sites and every web site you visit. 
 
