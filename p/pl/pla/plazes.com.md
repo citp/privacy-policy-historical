@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223102654id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624111110id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
 
 # Plazes - Right Plaze, Right People, Right Time
 
@@ -36,7 +36,7 @@ IP addresses may be used for various purposes, including:
 
 ### Ambient Data
 
-The Plazer Software (the "Plazer") may use available ambient data as the default gateway's MAC ID in your LAN ("Mac ID"), identification of GSM/3G cell towers ('Cell ID'), MAC IDs of Wifi access points ("AP MAC ID") and GPS coordinates of attached GPS receivers ("GPS") to guess your location. Plazes **does not track your location unless you explicitly choose to do so** by voluntarily check-in to a specific location. Ambient data is used by Plazes to provide preselection of relevant locations to simplify the check-in process.
+The Plazer Software (the "Plazer") may use available ambient data as the default gateway's MAC ID in your LAN ("Mac ID"), identification of GSM/3G cell towers ('Cell ID'), MAC IDs of Wifi access points ("AP MAC ID") and GPS coordinates of attached GPS receivers ("GPS") to guess your location. Plazes **does not track your location unless you explicitly choose to do so** by voluntary check-in to a specific location. Ambient data is used by Plazes to provide preselection of relevant locations to simplify the check-in process.
 
 ### Cookies
 
@@ -86,6 +86,8 @@ About the use of cookies on Plazes.com:
 
 ## Changes to this Privacy Policy
 
-Plazes may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Plazes account or by placing a prominent notice on our site. Questions
+Plazes may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Plazes account or by placing a prominent notice on our site.
+
+## Questions
 
 Plazes Privacy Policy, 06/01/2007
