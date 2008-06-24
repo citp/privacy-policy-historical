@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227193545id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624081703id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -149,7 +149,13 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Folica, Inc.  
 Privacy Officer  
-8 Corporate Drive  
-Cranbury, NJ 08512
+90 Stults Rd  
+Dayton, NJ 08810
 
 [](mailto:adam@folica.com)
+
+  
+  
+---  
+   
+[](https://web.archive.org/Customer_Servic_d1280.html) | Question? [customer service](https://web.archive.org/Customer_Servic_d1280.html) |   |  |  |   | | 888-919-4247
