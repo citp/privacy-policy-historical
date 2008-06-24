@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutelyrics.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218032416id_/http%3A//www.absolutelyrics.com/lyrics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutelyrics.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624092645id_/http%3A//www.absolutelyrics.com/lyrics/privacy) for the most accurate reproduction.*
 
 # Privacy - Absolute Lyrics
 
@@ -55,7 +55,3 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Third Party Advertising Privacy**  
 
-
-* [MaxWorldWide Privacy Policy](http://www.maxonline.com/privacy_policy/index.php)
-* [ValueAd Privacy Policy](http://www.valuead.com/privacy.html)
-* [focusIN.com Privacy Policy](http://www.focusin.com/privacy.htm)
