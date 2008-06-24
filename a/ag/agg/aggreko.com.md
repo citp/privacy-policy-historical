@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011056id_/http%3A//www.aggreko.com/useful_links/useful_links/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625000005id_/http%3A//www.aggreko.com/useful_links/useful_links/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
-
-## Privacy policy - Aggreko plc
 
 The following sets out the Data Protection and Privacy Policy (the "Policy") for Aggreko plc ("Aggreko") and the manner in which Aggreko collects, uses and stores personal data and information submitted to it by its subscribers and/or users of its website ("you") or ("your"). 
 
@@ -60,8 +58,7 @@ Aggreko may from time to time post changes to the Policy. In such instances, Agg
 
 For further information on the Policy contact the following:-
 
-The Data Protection Manager: Paul Allen
-
+The Data Protection Manager: Hew Campbell  
 Aggreko plc  
 8th Floor, Aurora
 
