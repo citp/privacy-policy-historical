@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acunote.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227200624id_/http%3A//acunote.com/promo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acunote.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624065256id_/http%3A//www.acunote.com/promo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Notice describes what information we gather from you, how we use th
 
 _Please be aware that any personally identifiable or other professional information that you voluntarily choose to have displayed publicly on the Acunote Services – including your username, alias, or ID – becomes publicly available information and may be collected and used by others without restriction_.
 
-This Privacy Notice is incorporated into and is subject to the Acunote **[Terms of Service](https://web.archive.org/web/20071227200624id_/http%3A//acunote.com/promo/terms)**. Your use of the Acunote Services and any personal or professional information you provide on the Acunote Services are subject to the terms of this Privacy Notice and Acunote’s **[Terms of Service](https://web.archive.org/web/20071227200624id_/http%3A//acunote.com/promo/terms)**.
+This Privacy Notice is incorporated into and is subject to the Acunote **[Terms of Service](https://web.archive.org/web/20080624065256id_/http%3A//www.acunote.com/promo/terms)**. Your use of the Acunote Services and any personal or professional information you provide on the Acunote Services are subject to the terms of this Privacy Notice and Acunote’s **[Terms of Service](https://web.archive.org/web/20080624065256id_/http%3A//www.acunote.com/promo/terms)**.
 
 **_The Information Acunote Collects_** : 
 
