@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficzap.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224055642id_/http%3A//www.trafficzap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficzap.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625010718id_/http%3A//www.trafficzap.com/privacy.php) for the most accurate reproduction.*
 
 # TrafficZap Free Traffic
 
