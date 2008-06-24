@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162650id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624085347id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.*
 
 # Healia - health search engine
 
