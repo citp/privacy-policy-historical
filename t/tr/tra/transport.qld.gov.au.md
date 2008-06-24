@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221022330id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624105911id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,11 +8,11 @@ Queensland Transport is committed to protecting user privacy. The Queensland Gov
 
 When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
 
-  * the user's server address;
-  * the user's top level domain name (for example .com, .gov, .au, and so on);
-  * the date and time you visited the website;
-  * the pages accessed and documents downloaded;
-  * the previous website visited; and
+  * the user's server address
+  * the user's top level domain name (for example .com, .gov, .au, and so on)
+  * the date and time you visited the website
+  * the pages accessed and documents downloaded
+  * the previous website visited
   * the type of browser you use. 
 
 
@@ -48,9 +48,13 @@ This website contains links to non-Queensland government websites. Queensland Tr
 
 For more detailed information view the [smart card privacy statement](http://www.translink.com.au/qt/translin.nsf/index/go_privacy).
 
+##### Journey planner
+
+For more detailed information view the [journey planner privacy statement](http://www.translink.com.au/qt/translin.nsf/index/jp_privacy).
+
 ##### Contact 
 
 If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au).  
 
 
-Last updated 14 December 2007
+Last updated 28 April 2008
