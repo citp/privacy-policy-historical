@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnfismd.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613094737id_/http%3A//www.fidelityinfoservices.com/FNFIS/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnfismd.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624031839id_/http%3A//www.fidelityinfoservices.com/FNFIS/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Fidelity Information Services: Privacy Statement
 
