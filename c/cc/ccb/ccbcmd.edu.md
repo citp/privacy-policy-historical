@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccbcmd.edu privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027055619id_/http%3A//www.ccbcmd.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbcmd.edu privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624215117id_/http%3A//www.ccbcmd.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
