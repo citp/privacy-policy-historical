@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023026id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624172156id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
 
-# SecondShaadi.com - Start a New Life
+# Second Shaadi - Start a New Life - Indian Matrimonial for Second Marriages - Divorce, Widow, Re-
 
 **Privacy Policy**
 
@@ -61,7 +61,10 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
+
+
+| [](http://server.iad.liveperson.net/hc/91152469/?cmd=file&file=visitorWantsToChat&site=91152469&byhref=1&SESSIONVAR!operator=sonali&VISITORVAR!Username=&imageUrl=http://images.liveperson.com/lp/91152469)  
+---  
   
-[ ](http://www.s2d6.com/x/?x=c&z=s&v=624440&r=30&k=\[NETWORKID\])  
   
----|---
+[ ](http://www.s2d6.com/x/?x=c&z=s&v=624440&r=61&k=\[NETWORKID\])
