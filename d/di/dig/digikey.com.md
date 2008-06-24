@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211172054id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624233935id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Digi-Key Privacy Statement
 
@@ -79,6 +79,8 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > If you feel that your privacy is being violated by the use of "cookies," they can be erased from your hard drive. However, any links developed with the Web site that sent the "cookies" are lost. In the case of an online order with Digi-Key, the ability to create an order over time, or retrieve an order, would be lost. 
 > 
 > With respect to customer privacy concerns, Digi-Key has tried using alternative technologies to "cookies" to maintain stable connections. We returned to "cookies" after experiencing reduced performance and an unacceptable number of customer service problems. "Cookies" have, thus far, proven to be the best method of making the online ordering experience as efficient as possible.
+> 
+> **Spotlight tags:**   Information about Web site usage and visitors to our Web site is shared with a reputable third-party for the purpose of targeting our Internet advertisements in other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. For more information about our third-party advertiser or for your choices about not having this anonymous information used, please [click here](http://www.doubleclick.net/us/corporation/privacy).
 
 ## Contact Information
 
