@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222233724id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624050453id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
 
-# DHS: Web Site Privacy Policy
+# DHS | Web Site Privacy Policy
 
   * Privacy Policy
   * Linking Policy
@@ -65,4 +65,4 @@ The information posted on the Department of Homeland Security website includes h
 
 Back To Top
 
-This page was last modified on September 3, 2006
+This page was last reviewed/modified on March 21, 2008.
