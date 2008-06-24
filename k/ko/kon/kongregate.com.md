@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222204654id_/http%3A//kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624144308id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
-# Kongregate: Kongregate Privacy Policy
+# Kongregate Privacy Policy
 
 If you're reading this, it's because you want to know what information we, Kongregate, Inc., are collecting on www.kongregate.com, what we're doing with it, and what your options are. If you have any questions or concerns after reading this, please email us at [privacy@kongregate.com](mailto:privacy@kongregate.com).
 
