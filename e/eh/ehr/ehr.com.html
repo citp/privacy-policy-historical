@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ehr.com privacy policy that was archived on 2007-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222073739id_/http%3A//www.ehr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ehr.com privacy policy that was archived on 2008-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625011430id_/http%3A//www.ehr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -12,10 +12,7 @@
 
 
 <title>Watson Wyatt Global - Our Firm | Privacy Policy</title><meta name="WT.cg_s" content="Our Firm;Privacy Policy">
-<script language="JavaScript" type="text/javascript">
 
-
-</script>
 <script language="JavaScript" type="text/javascript">
 
 <!-- //Left Nav Mouseover Script Begin
@@ -119,31 +116,21 @@ function MM_jumpMenuGo(selName,targ,restore){ //v3.0
 <!-- //CHANGE FLASH VISIBILITY start
 
 function changeFlashVisibility(vis){
-
 if((navigator.userAgent.indexOf('Firefox')) > 0) {
-
 	if(document.all || document.getElementById){
-
 		if(document.all){
-
 			if(document.all.flashOBJECT){
-
 				document.all.flashOBJECT.style.visibility=vis
 			}
 		}
-
 		if(document.getElementById){
-
 			if(document.getElementById("flashOBJECT")){
-
 				document.getElementById("flashOBJECT").style.visibility=vis
-
 			}
 		}
 	}
 }
 }
-
 // CHANGE FLASH VISIBILITY end -->
 
 </script>
@@ -259,6 +246,49 @@ onload=Loadswapimage();
 //-->
 </script>
 
+<script language="JavaScript">
+<!--
+
+function isLoading(){
+	document.body.style.cursor = "wait"; 
+	document.login.btnSubmit.disabled = true;
+	document.login.btnSubmit.value='Please wait...';
+
+}
+function notLoading(){
+	document.body.style.cursor = "default"; 
+	document.login.btnSubmit.disabled=false;
+	document.login.btnSubmit.value='Submit';
+	
+}
+function checkemail(email){
+	var x = email.value
+	var filter  = /^(([^<>()[\]\\.,;:\s@""]+(\.[^<>()[\]\\.,;:\s@""]+)*)|("".+""))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	
+	if (filter.test(x) == true){
+		return true;
+	}else{
+		alert('Please enter a correct email address e.g. someone@ISP.com');
+		notLoading();
+		return false
+	 }
+	return false;
+}
+
+function checkCAPTCHA(captcha){
+		if (captcha.value == ""){
+			captcha.focus();
+			alert("Please enter the code displayed in the security box.");
+			return false
+		}else{
+			return true
+		}
+	}
+
+-->
+</script>
+
+
 <!-- RSS FEEDS START -->
 <link rel="alternate" type="application/rdf+xml" title="All Watson Wyatt Articles - RSS" href="/news/rss/all_articles.asp">
 <link rel="alternate" type="application/rdf+xml" title="Strategy@Work Articles - RSS" href="/news/rss/strategyatwork.asp">
@@ -303,7 +333,7 @@ onload=Loadswapimage();
 <td align="right">
 <!-- Checklogin.inc BEGIN -->
 <!-- Checklogin.inc END -->
-<ul><li><a href="/membership/login.asp">Log In</a></li>
+<ul><li><a href="/membership/login.asp">My Watson Wyatt</a></li>
 <li class="leftborder"><a href="/contactus/">Contact Us</a></li>
 <li class="leftborder"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=123884&amp;p=irol-irhome">Investor Relations</a></li>
 <li class="leftborder"><a href="/careers/">Careers</a></li>
@@ -333,7 +363,7 @@ onload=Loadswapimage();
 GLOBAL NAV begin here
 
 Link path = /
-Gnav(HMnav path) = /
+Gnav(HMnav path) = /images/
 Region path = /
 Country path = 
 
@@ -352,7 +382,11 @@ Country path =
 <tbody><tr align="center"><td align="left"><img src="/images/spacer.gif" alt="" border="0" height="25" width="53"></td><!--HOME--><td><a href="/" onmouseover="ro(1);popUp('HM_Menu1',event);" onmouseout="rof(1);popDown('HM_Menu1');" title="global home"><img src="/images/HMnav1a.gif" height="25" alt="global home" border="0" name="HMnav1"></a></td><!--OUR FIRM--><td width="130"><a href="/ourfirm/" onmouseover="popUp('HM_Menu2',event);" onmouseout="popDown('HM_Menu2');" title="our firm"><img src="/images/HMnav2c.gif" height="25" alt="our firm" border="0"></a></td><!--BUSINESS ISSUES--><td width="130"><a href="/issues/" onmouseover="ro(3);popUp('HM_Menu3',event);" onmouseout="rof(3);popDown('HM_Menu3');" title="business issues"><img src="/images/HMnav3a.gif" height="25" alt="business issues" border="0" name="HMnav3"></a></td><!--SERVICES--><td width="130"><a href="/services/" onmouseover="ro(4);popUp('HM_Menu4',event);" onmouseout="rof(4);popDown('HM_Menu4');" title="services"><img src="/images/HMnav4a.gif" height="25" alt="services" border="0" name="HMnav4"></a></td><!--IDEAS & RESEARCH--><td width="130"><a href="/research/" onmouseover="ro(5);popUp('HM_Menu5',event);" onmouseout="rof(5);popDown('HM_Menu5');" title="ideas and research"><img src="/images/HMnav5a.gif" height="25" alt="ideas and research" border="0" name="HMnav5"></a></td><!--NEWS--><td width="130"><a href="/news/" onmouseover="ro(6);popUp('HM_Menu6',event);" onmouseout="rof(6);popDown('HM_Menu6');" title="news"><img src="/images/HMnav6a.gif" height="25" alt="news" border="0" name="HMnav6"></a></td><td align="right"><img src="/images/spacer.gif" alt="" border="0" height="25" width="53"></td></tr></tbody></table>
 <!-- GLOBAL NAV end -->
 <table cellspacing="0" cellpadding="0" border="0" id="middle"><tbody><tr><td class="middleleftcell"><img src="/images/spacer.gif" width="50" height="1" alt=""></td>
-<td class="middlecell"><img src="/images/spacer.gif" width="3" height="1" alt=""></td><td class="middletitle"><h2>our firm</h2><h1>Privacy Policy</h1></td><td class="middlecell"><img src="/images/spacer.gif" height="1" width="3" alt=""></td><td class="middlerightcell"><img src="/images/spacer.gif" height="1" width="50" alt=""></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" id="cookietrail">
+<td class="middlecell"><img src="/images/spacer.gif" width="3" height="1" alt=""></td><td class="middletitle"><h2>our firm</h2><h1>Privacy Policy</h1></td>
+<td class="middlecell"><img src="/images/spacer.gif" height="1" width="3" alt=""></td>
+<td class="middlerightcell"><img src="/images/spacer.gif" height="1" width="50" alt=""></td>
+</tr>
+</tbody></table><table cellspacing="0" cellpadding="0" border="0" id="cookietrail">
 <tbody><tr>
 <td class="leftcell"><img src="/images/spacer.gif" width="50" height="1" alt=""></td>
 <td class="cell"><img src="/images/spacer.gif" width="3" height="1" alt=""></td>
@@ -505,7 +539,7 @@ e-mail: <a href="mailto:webmaster@watsonwyatt.com">webmaster@watsonwyatt.com</a>
 </tr>
 </tbody></table><table border="0" cellpadding="0" cellspacing="0" id="copyright">
 <tbody><tr>
-<td><span class="copyright">Copyright© 2007 Watson Wyatt Worldwide. All rights reserved.</span></td>
+<td><span class="copyright">Copyright© 2008 Watson Wyatt Worldwide. All rights reserved.</span></td>
 </tr>
 </tbody></table><br><script language="JavaScript1.2" type="text/javascript">
 
