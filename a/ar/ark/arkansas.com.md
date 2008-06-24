@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219080619id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041342id_/http%3A//arkansas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-About Us
+## About Us
 
-This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [http://www.arkansas.com](http://www.arkansas.com/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
+This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [http://www.arkansas.com](https://web.archive.org/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
@@ -15,7 +15,7 @@ USA
 
 You may contact us by e-mail at [adpt.webmaster@arkansas.gov](mailto:adpt.webmaster@arkansas.gov). You may call us at 1-501-682-7777. 
 
-Dispute Resolution and Privacy Seals
+## Dispute Resolution and Privacy Seals
 
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
@@ -28,7 +28,7 @@ USA
 
 You may contact us by e-mail at [adpt.webmaster@arkansas.gov](mailto:adpt.webmaster@arkansas.gov). You may call us at 1-501-682-7777. 
 
-Arkansas Freedom of Information Act:
+## Arkansas Freedom of Information Act:
 
 Information which can be identified or associated with a particular person or persons that is available from government web sites is subject to these principles and policies: 
 
@@ -45,7 +45,7 @@ Information which can be identified or associated with a particular person or pe
 
 
 
-What kind of information does this Web site collect?
+## What kind of information does this Web site collect?
 
 Unique identifiers issued by a web site or service for the purpose of identifying an individual over time.
 
@@ -59,7 +59,7 @@ Information that allows an individual to be contacted or located in the physical
 
 Information that allows an individual to be contacted or located on the Internet, such as an e-mail address. Often, this information is independent of the specific computer used to access the network.
 
-Why is this information collected?
+## Why is this information collected?
 
 Information may be used by the Web site to complete the activity for which it was provided, whether the activity is a one-time event, such as returning results from a Web search, forwarding an e-mail message or placing an order; or a recurring event, such as providing a subscription service or allowing access to an online address book or electronic wallet.
 
@@ -67,14 +67,18 @@ Information may be used for the technical support of the Web site and its comput
 
 Information may be used to enhance, evaluate, or otherwise review the Web site, service, product, or market.
 
-Who has access to this information?
+## Who has access to this information?
 
 This Web site, entities for whom it is acting as an agent, and/or entities acting as its agent. An agent in this instance is defined as a third party that processes data only for the completion of the stated purpose, such as a shipping firm or printing service.
 
-How long is the information retained?
+## How long is the information retained?
 
 Information is retained for an indeterminate period of time.
 
-Do users have access to their information collected by the Web site?
+## Do users have access to their information collected by the Web site?
 
 All personally identifiable information.
+
+## Did you know?
+
+**Morrilton** – _Morrilton, AR_ : This park is large and accessible to anyone, no matter their residence. Petit Jean's diverse features can be enjoyed by beginning adventurers as well as those well adapted to the outdoors. [Learn More ... ](http://www.arkansas.com/attractions/attr_detail/r/River+Valley/id/22266/lr/ "Learn more about: Petit Jean State Park")
