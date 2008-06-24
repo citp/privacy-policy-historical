@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the squaremeal.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215070536id_/http%3A//www.squaremeal.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaremeal.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624235355id_/http%3A//www.squaremeal.co.uk/privacy) for the most accurate reproduction.*
 
-# Square Meal's Privacy Policy - Square Meal
+# Square Meal's Privacy Policy — Square Meal
+
+(menu)
 
 ## Squaremeal.co.uk takes the privacy of its users seriously.
 
@@ -24,7 +26,7 @@ In certain circumstances we may need to disclose information about you if you br
 
 ### Data Protection
 
-Monomax Ltd is registered with the Information Commissioner in the UK as a “data controller” in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at [http://www.dpr.gov.uk](http://www.dpr.gov.uk/ "Website of the Information Commissioner's Office"). 
+Monomax Ltd is registered with the Information Commissioner in the UK as a �data controller� in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at [http://www.dpr.gov.uk](http://www.dpr.gov.uk/ "Website of the Information Commissioner�s Office"). 
 
 ### Security
 
