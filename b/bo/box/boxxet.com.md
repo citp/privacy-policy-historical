@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxxet.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217091118id_/http%3A//www.boxxet.com/corp/privacy.box) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxxet.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624203331id_/http%3A//www.boxxet.com/corp/privacy.box) for the most accurate reproduction.*
 
 # Boxxet Inc - Boxxet
 
@@ -15,6 +15,8 @@ Cookies are small text files stored by your browser on your computer when you vi
 Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order o understand their privacy and information collection practices. 
 
 Our service are intended solely for persons 13 years of age and older. If you are under the age of 13 you may not access or use our service. By using our service you represent and warrant to us that you are 13 years of age or older. 
+
+Our Red Band service are intended solely for persons 18 years of age and older. If you are under the age of 18 you may not access or use our service. By using our service you represent and warrant to us that you are 18 years of age or older. 
 
 If you desire to change or modify any of the information that you have previously provided to us, you may do so at the Account web page for your account on our website. 
 
