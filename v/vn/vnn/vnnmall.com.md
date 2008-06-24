@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnnmall.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218140835id_/http%3A//www.vnnmall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnnmall.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624154851id_/http%3A//www.vnnmall.com/privacy.php) for the most accurate reproduction.*
 
 # VnnMALL.com
 
@@ -6,53 +6,54 @@
 ---|---|---  
   
 ---  
-[Clearance - ONSALE](http://www.vnnmall.com/index.php?cPath=202) (107)  
-[DVD Phim Hàn Quốc](http://www.vnnmall.com/index.php?cPath=164) (431)  
-[DVD Phim VN Dài](http://www.vnnmall.com/index.php?cPath=112) (159)  
-[DVD Cải Lương](http://www.vnnmall.com/index.php?cPath=87) (414)  
-[DVD Cảnh Du Lịch](http://www.vnnmall.com/index.php?cPath=118) (246)  
-[DVD Hài Kịch](http://www.vnnmall.com/index.php?cPath=80) (183)  
-[DVD Hong Kong](http://www.vnnmall.com/index.php?cPath=135) (147)  
-[DVD Phim Ngắn](http://www.vnnmall.com/index.php?cPath=85) (170)  
-[Karaoke Hải Ngoại](http://www.vnnmall.com/index.php?cPath=84) (165)  
-[Karaoke Microphones](http://www.vnnmall.com/index.php?cPath=182) (9)  
-[Karaoke Mix Amplifier](http://www.vnnmall.com/index.php?cPath=181) (17)  
-[Karaoke Package](http://www.vnnmall.com/index.php?cPath=179) (22)  
-[Karaoke Player](http://www.vnnmall.com/index.php?cPath=178) (4)  
-[Karaoke Pro Mixers](http://www.vnnmall.com/index.php?cPath=180) (4)  
+[Clearance - ONSALE](http://www.vnnmall.com/index.php?cPath=202) (110)  
+[DVD Phim Hàn Quốc](http://www.vnnmall.com/index.php?cPath=164) (473)  
+[DVD Phim VN Dài->](http://www.vnnmall.com/index.php?cPath=112) (222)  
+[DVD Cải Lương](http://www.vnnmall.com/index.php?cPath=87) (520)  
+[DVD Cảnh Du Lịch](http://www.vnnmall.com/index.php?cPath=118) (293)  
+[CD Nhạc Hải Ngoại](http://www.vnnmall.com/index.php?cPath=42) (168)  
+[DVD Hài Kịch](http://www.vnnmall.com/index.php?cPath=80) (231)  
+[DVD Phim Ngắn](http://www.vnnmall.com/index.php?cPath=85) (231)  
+[DVD Phim Tàu](http://www.vnnmall.com/index.php?cPath=135) (192)  
+[Karaoke Hải Ngoại](http://www.vnnmall.com/index.php?cPath=84) (180)  
+[Karaoke Microphones](http://www.vnnmall.com/index.php?cPath=182) (11)  
+[Karaoke Mixing Amp](http://www.vnnmall.com/index.php?cPath=181) (23)  
+[Karaoke Package](http://www.vnnmall.com/index.php?cPath=179) (24)  
+[Karaoke Player](http://www.vnnmall.com/index.php?cPath=178) (6)  
 [Karaoke Speakers](http://www.vnnmall.com/index.php?cPath=183) (15)  
-[Karaoke Viet Nam](http://www.vnnmall.com/index.php?cPath=120) (126)  
-[Karaoke English](http://www.vnnmall.com/index.php?cPath=194) (100)  
-[DVD & CD Christmas](http://www.vnnmall.com/index.php?cPath=170) (12)  
-[DVD Nhạc Vietnam](http://www.vnnmall.com/index.php?cPath=88) (74)  
-[DVD Phim Tài Liệu](http://www.vnnmall.com/index.php?cPath=141) (41)  
-[DVD & CD Tân Cổ](http://www.vnnmall.com/index.php?cPath=134) (51)  
-[DVD & CD Tôn Giáo](http://www.vnnmall.com/index.php?cPath=126) (21)  
-[DVD Dạy Nấu Ăn](http://www.vnnmall.com/index.php?cPath=142) (33)  
-[DVD GaLa Cười](http://www.vnnmall.com/index.php?cPath=119) (15)  
-[DVD Nhac Asia](http://www.vnnmall.com/index.php?cPath=165) (33)  
-[DVD Nhạc Hải Ngoại](http://www.vnnmall.com/index.php?cPath=32) (44)  
-[DVD Thiếu Nhi](http://www.vnnmall.com/index.php?cPath=144) (91)  
+[Karaoke Viet Nam](http://www.vnnmall.com/index.php?cPath=120) (131)  
+[Karaoke English](http://www.vnnmall.com/index.php?cPath=194) (94)  
+[DVD & CD Christmas](http://www.vnnmall.com/index.php?cPath=170) (14)  
+[DVD Nhạc Vietnam](http://www.vnnmall.com/index.php?cPath=88) (108)  
+[DVD Phim Tài Liệu](http://www.vnnmall.com/index.php?cPath=141) (58)  
+[CD Thiếu Nhi - KIDs](http://www.vnnmall.com/index.php?cPath=209) (53)  
+[DVD & CD Tân Cổ](http://www.vnnmall.com/index.php?cPath=134) (48)  
+[DVD & CD Tôn Giáo](http://www.vnnmall.com/index.php?cPath=126) (24)  
+[DVD Dạy Nấu Ăn](http://www.vnnmall.com/index.php?cPath=142) (49)  
+[DVD GaLa Cười](http://www.vnnmall.com/index.php?cPath=119) (12)  
+[DVD Nhac Asia](http://www.vnnmall.com/index.php?cPath=165) (35)  
+[DVD Nhạc Hải Ngoại](http://www.vnnmall.com/index.php?cPath=32) (47)  
+[DVD Thiếu Nhi](http://www.vnnmall.com/index.php?cPath=144) (122)  
 [DVD Trance & Dance](http://www.vnnmall.com/index.php?cPath=130) (5)  
-[CD Nhac Viet MP3](http://www.vnnmall.com/index.php?cPath=176) (45)  
-[DVD Chinese Melodies](http://www.vnnmall.com/index.php?cPath=173) (14)  
-[DVD Tự Luyện Khiêu Vũ](http://www.vnnmall.com/index.php?cPath=168) (7)  
-[CD Nhạc Hải Ngoại](http://www.vnnmall.com/index.php?cPath=42) (66)  
-[CD Nhạc Trước 1975](http://www.vnnmall.com/index.php?cPath=133) (23)  
-[CD Nhạc Việt Nam](http://www.vnnmall.com/index.php?cPath=22) (126)  
-[Electronics and Games](http://www.vnnmall.com/index.php?cPath=197) (4)  
-[Thuốc Dương Lai Cảnh](http://www.vnnmall.com/index.php?cPath=185) (30)  
-[Zippo Lighter & Gift](http://www.vnnmall.com/index.php?cPath=196) (96)  
-[CD Thúy Nga](http://www.vnnmall.com/index.php?cPath=172) (85)  
-[DVD Thúy Nga](http://www.vnnmall.com/index.php?cPath=199) (31)  
-[Asia - CD](http://www.vnnmall.com/index.php?cPath=166) (118)  
-[Asia DVD Karaoke](http://www.vnnmall.com/index.php?cPath=171) (49)  
-[CD Cải Lương](http://www.vnnmall.com/index.php?cPath=146) (8)  
+[DVD Chinese Melodies](http://www.vnnmall.com/index.php?cPath=173) (13)  
+[DVD Luyện Khiêu Vũ](http://www.vnnmall.com/index.php?cPath=168) (12)  
+[CD Nhạc Trước 1975](http://www.vnnmall.com/index.php?cPath=133) (52)  
+[CD Nhạc Việt Nam](http://www.vnnmall.com/index.php?cPath=22) (128)  
+[Electronics and Games](http://www.vnnmall.com/index.php?cPath=197) (5)  
+[Thuốc Dương Lai Cảnh](http://www.vnnmall.com/index.php?cPath=185) (37)  
+[Zippo Lighter & Gift](http://www.vnnmall.com/index.php?cPath=196) (82)  
+[CD Audio Books](http://www.vnnmall.com/index.php?cPath=207) (36)  
+[CD Thúy Nga](http://www.vnnmall.com/index.php?cPath=172) (123)  
+[DVD Thúy Nga](http://www.vnnmall.com/index.php?cPath=199) (34)  
+[Asia - CD](http://www.vnnmall.com/index.php?cPath=166) (119)  
+[Asia DVD Karaoke](http://www.vnnmall.com/index.php?cPath=171) (50)  
+[CD Cải Lương](http://www.vnnmall.com/index.php?cPath=146) (6)  
 [CD Nhac Hòa Tấu](http://www.vnnmall.com/index.php?cPath=177) (25)  
-[CD & DVD Vân Sơn](http://www.vnnmall.com/index.php?cPath=198) (20)  
-[DVD & CD Xuân 2007](http://www.vnnmall.com/index.php?cPath=110) (31)  
+[CD & DVD Vân Sơn](http://www.vnnmall.com/index.php?cPath=198) (18)  
+[DVD & CD Xuân 2008](http://www.vnnmall.com/index.php?cPath=110) (29)  
+[Trung Hoa DVDs](http://www.vnnmall.com/index.php?cPath=208) (13)  
 [Ðồ cổ, sưu tầm](http://www.vnnmall.com/index.php?cPath=189) (1)  
-[Duoc Thao](http://www.vnnmall.com/index.php?cPath=200) (6)  
+[Dược Thảo và Mỹ Phẩm](http://www.vnnmall.com/index.php?cPath=200) (14)  
   
   
   * **[New Products](http://www.vnnmall.com/products_new.php)**
@@ -89,25 +90,12 @@ Free 40 DVDs**
 D | **  
 All Order with Priority Shipping**  
   
-**Our Sponsors**  
-  
----  
-[](http://www.vnngames.com/download.html)  
-  
-**[ Dowload Games](http://www.vnngames.com/download.html)**  
-  
-[ ](http://vietads.com/index.php?catid=6)  
+[ ](http://www.vietads.com/classifieds/index.php?catid=6)  
   
 ---  
   
 [ ](http://www.datviet.com/)  
   
-**Our Sponsors**  
-  
-**[VietFun.com](http://www.vietfun.com/)**  
-  
-**[ Tialia.com](http://www.tialia.com/)**  
-**[ ](http://www.tialia.com/) [ VinaGames.com](http://www.vinagames.com/)**  
 | Information |   
 ---|---|---  
   
@@ -146,8 +134,8 @@ What does VnnMall do with the the collected information? We respect your privacy
 [ ](http://www.vnndvd.com/index.php?cPath=29)  
 [ ](http://www.vnndvd.com/index.php?cPath=30)  
 [ ](http://www.vnndvd.com/index.php?cPath=28)  
-[ ](http://www.vnnmall.com/product_info.php?cPath=182&products_id=3282)  
-[ ](http://www.vnnmall.com/product_info.php?products_id=3784)  
+[ ](http://www.vnnmall.com/product_info.php?products_id=6961)  
+[ ](http://www.vnnmall.com/product_info.php?products_id=6959)  
 [ ](http://www.vnnmall.com/product_info.php?cPath=181&products_id=4479)  
 [ ](http://www.vnnmall.com/product_info.php?products_id=4243)  
 [ ](http://www.vnnmall.com/product_info.php?cPath=181&products_id=4699)  
