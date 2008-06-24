@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleoutpost.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226035146id_/http%3A//www.articleoutpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleoutpost.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624144743id_/http%3A//www.articleoutpost.com/privacy.php) for the most accurate reproduction.*
 
 # Article Outpost Free articles for your web site, blog, or newsletter.
 
