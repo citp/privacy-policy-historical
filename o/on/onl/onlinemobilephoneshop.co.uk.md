@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemobilephoneshop.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225155514id_/http%3A//www.onlinemobilephoneshop.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemobilephoneshop.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624053156id_/http%3A//www.onlinemobilephoneshop.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - onlinemobilephoneshop.co.uk
 
@@ -31,10 +31,10 @@ We will take all reasonable steps to safeguard the security and confidentiality 
 We provide site members with access to all information that we maintain about them, including transaction and contact information upon proper verification. The same can be provided to you on request, in case the members experience any doubts.
 
 **7\. Cookies**  
-To facilitate your use of our website and to collect aggregate information, we may use “cookies”. Cookies are merely text files, used to identify individual users. They are placed in computer’s browser to store preferences. Cookies, are not plug ins nor are they programs. They are stored on the computer's hard drive and can be deleted at any time. When you visit the website again, the cookie allows that site to recognize your browser.
+To facilitate your use of our website and to collect aggregate information, we may use "cookies". Cookies are merely text files, used to identify individual users. They are placed in computer's browser to store preferences. Cookies, are not plug ins nor are they programs. They are stored on the computer's hard drive and can be deleted at any time. When you visit the website again, the cookie allows that site to recognize your browser.
 
 Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems.  
-**To view our Cookie Policy, please[click here](https://web.archive.org/web/20071225155514id_/http%3A//www.onlinemobilephoneshop.co.uk/cookies.asp).**
+**To view our Cookie Policy, please[click here](https://web.archive.org/web/20080624053156id_/http%3A//www.onlinemobilephoneshop.co.uk/cookies.asp).**
 
 **8\. Changes to Privacy Policy:**  
 We reserve the right to revise this policy at any time. If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with others.
