@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220013019id_/http%3A//www.toggl.com/toggl_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041846id_/http%3A//www.toggl.com/en/About-Toggl/Privacy-Policy) for the most accurate reproduction.*
 
-# Toggl - online timetracker
+# Toggl - Privacy Policy
 
 This is the web site of toggl.com.
 
@@ -12,7 +12,7 @@ The information we collect is used to customize the content and/or layout of our
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -26,4 +26,4 @@ Consumers can have this information corrected by visiting the Account Settings p
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us via the application's feedback feature. (Toggl aims to respond within 24 business hours, but is under no obligation to do so).
+If you feel that this site is not following its stated information policy, you may contact us via the application's feedback feature. (Toggl aims to respond within 24 business hours, but is under no obligation to do so). 
