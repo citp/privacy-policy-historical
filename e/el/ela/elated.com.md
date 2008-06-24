@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219202138id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624044744id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
@@ -11,6 +11,10 @@ The Forums registration form requires users to give us contact information (like
 This site contains links to other sites. Elated Communications Ltd is not responsible for the privacy practices or the content of such Web sites.
 
 Our site uses an order form for customers to request information and services. We collect visitors' contact information (like their email address). The customer's contact information is used to get in touch with the visitor when necessary. We will not give or sell this contact information to any third party.
+
+## Third Party Cookies
+
+Third party advertisers and Web analytics software on this site may use cookies and/or Web beacons in order to collect information and serve advertisements to you. IP addresses and tracking cookies are not linked to personally identifiable information. You can set your browser to reject cookies, or to notify you when a cookie is being sent by a third party. This shouldn't affect your browsing experience of our website.
 
 ## Public Forums
 
