@@ -1,34 +1,89 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610011229id_/http%3A//www.acousticguitar.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624122848id_/http%3A//www.acousticguitar.com/leveltwo/PrivacyStatement-181.aspx) for the most accurate reproduction.*
 
-# Acoustic Guitar Central
+# Acoustic Guitar Central: Privacy Policy
 
-Our postal address is  
-**String Letter Publishing**  
-**PO Box 767  
-San Anselmo, CA 94901**
+  
+**String Letter Publishing Privacy Policy**   
+Effective June 1, 2007 
 
-We can be reached via e-mail at [webmaster@stringletter.com](mailto:webmaster@stringletter.com)
+String Letter Publishing recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws and follow industry best practices in order to best serve our community. The following guidelines have been created to demonstrate our commitment to privacy. It applies to all of our publications, books, events and properties. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. We collect only the domain name, but not the e-mail address of visitors to our Web page. We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer such as survey information and/or site registrations.
+**Our location and contact information:**   
+Privacy Matters   
+String Letter Publishing   
+PO Box 767   
+San Anselmo, CA 94979   
+Phone (415) 485-6946   
+Fax (415) 485-0831 
 
-The information we collect is used for internal review, to improve the content of our Web page, to notify consumers about updates to our Web site, and to contact consumers for marketing purposes.
+**Collected Information**   
+The information we collect is gathered from several sources, which include product subscriptions, purchases or registrations, either from print or online forms; reader service cards; website message postings; survey information and direct or indirect purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address only. No other identifiable information is collected unless volunteered. In addition, we collect aggregate information on what web pages visitors visit. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address, or by writing to us at the above address.
+**How We Use Collected Information**   
+The information we collect is used to improve the content of our web pages, to customize the content and layout of our pages for each individual visitor, and/or to notify visitors about updates to our website. As part of a subscription, purchase and/or registration agreement, subscribers, purchasers and registrants will be contacted by us through mail, e-mail, and/or phone to communicate with them about their subscription, purchase and/or registration. They will be contacted for renewal, re-qualification, surveys, updates concerning their account profile and special offers related to their subscription, purchase and/or registration. We also use the information to contact them for marketing purposes on behalf of other reputable organizations, but we never share or give-away this collected information. 
 
-From time to time, we may make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending us e-mail at the above address, or by writing to us at the above address.
+**Standard E-mail Communications**   
+If you have registered for our products and/or services, and have supplied an e-mail address, you will receive emails pertaining to your subscription, purchase and/or registration. These are sent to maintain your account with String Letter Publishing. You can 'opt-out' from receiving these types of e-mails by using the opt-out mechanism located within the received e-mail message. 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail to webmaster@stringletter.com, or by writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list.
+**Marketing E-Mail Communications**   
+For marketing e-mails, we retain three types of usage permission for submitted e-mail addresses as defined below. You can 'opt out' of receiving marketing e-mails about String Letter Publishing products and from outside companies either in response to a received e-mail or within this Privacy Policy. 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+**1\. E-mails about Related Products and Services**   
+If you volunteer an e-mail address you may be contacted by us regarding other products, services and/or upcoming events that are related to our Strings or Acoustic Guitar Publishing Groups within which your account resides. If you do not wish to receive these types of e-mails from us, please let us know by calling us at the above telephone number, or writing to us at the above address. You can also 'opt-out' from receiving these types of e-mails by using the opt-out mechanism located within the received e-mail message. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+**2\. E-mails about Other String Letter Publishing Products and Services**   
+If you volunteer an e-mail address you may be contacted by us regarding any other String Letter Publishing products, services, and/or upcoming events. If you do not wish to receive these types of e-mails from us, please let us know by calling us at the above telephone number, or writing to us at the above address. You can also 'opt-out' from receiving these types of e-mails by using the opt-out mechanism located within the received e-mail message. 
 
-Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them. Consumers can access this information by sending an e-mail to webmaster@stringletter.com, or by writing to us at the above address. 
+**3\. E-mails from Outside Companies**   
+If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. If you do not wish to receive e-mails from other companies, please let us know by calling us at the above telephone number, or writing to us at the above address. You can also 'opt-out' from receiving these types of e-mails by using the opt-out mechanism located within the received e-mail message. 
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, or transaction information. Consumers can have this information corrected by sending an e-mail to webmaster@stringletter.com, or by writing to us at the above address. 
+**All E-mails**   
+If you wish to opt-out of these three types of e-mail marketing messages at once, please let us know by calling us at the above telephone number, or writing to us at the above address. 
 
-We use cookies only to record session information, such as items that consumers add to their shopping cart.
+It will take up to ten business days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request. 
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+**Postal Communications**   
+If you volunteer a postal address you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by calling us at [1-800-637-6837], or writing to us at the above address. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+It will take up to three months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
+
+**Telephone Communications**   
+If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us, please let us know by calling us at the above telephone number, or writing to us at the above address. 
+
+It will take up to one month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request. 
+
+**Fax Communications**   
+If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by caling us at the above telephone number, or writing to us at the above address. 
+
+**Accessing Personal Information**   
+Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given proof of identity). This information can be requested by writing to us at the above address. 
+
+**Correcting/Updating Personal Information**   
+Upon request, we offer individuals the ability to have inaccuracies corrected within their contact information. This information can be corrected by writing to us at the above address. Current subscribers and registrants can also access and change their information through our websites by selecting the appropriate link on the website where their current subscription/registration resides. 
+
+**Cookies**   
+We use cookies primarily to allow returning visitors complete access to acousticguitar.com and to gather information about website, which helps to enhance our products. 
+
+**Links**   
+This site may contain links to other websites in the form of hyperlinks. String Letter Publishing is not responsible for the privacy practices or the content of such websites. 
+
+**Security**   
+String Letter Publishing takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline. When our registration/subscription form asks for a credit card number or other sensitive information, that information is encrypted and protected with the best encryption software in the industry - SSL. 
+
+**Changes to Privacy Policy**   
+We may use customer information for new, unanticipated uses not disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically. 
+
+* * *
+
+Got a question for _Acoustic Guitar_ 's editors? Please send us an email at [editors.ag@stringletter.com](mailto:editors.ag@stringletter.com) or snail-mail _Acoustic Guitar_ Editorial, PO Box 767, San Anselmo, CA 94979. We regularly print reader letters in our Mail column and reader questions and tips in Q&A. 
+
+* * *
+
+[Sponsor](http://www.froggybottomguitars.com/) [](http://www.froggybottomguitars.com/) When you're finally ready for the guitar you've always dreamed of................. 
+
+[Froggy Bottom Guitars](http://www.froggybottomguitars.com/)
+
+* * *
+
+|   
+---|---
