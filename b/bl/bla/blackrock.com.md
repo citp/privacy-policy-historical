@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226022708id_/http%3A//www.blackrock.com/global/home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624221419id_/http%3A//www.blackrock.com/global/home/PrivacyPolicy) for the most accurate reproduction.*
 
 # BlackRock - Privacy Policy
 
@@ -50,8 +50,8 @@ Contact Us
 
 If you have any questions about this Privacy Policy or our privacy related practices, or if you would like a copy of BlackRock’s Regulation S-P privacy policy, please contact us.
 
-BlackRock is a trademark of BlackRock, Inc. and the BlackRock logo is a service mark of The PNC Financial Services Group, Inc. BlackRock is an equal opportunity employer committed to diversity in the workplace.
+BlackRock is a trademark of BlackRock, Inc. BlackRock is an equal opportunity employer committed to diversity in the workplace.
 
-Copyright ©1998-2007 BlackRock, Inc. All rights reserved.
+Copyright ©1998-2008 BlackRock, Inc. All rights reserved.
 
 .
