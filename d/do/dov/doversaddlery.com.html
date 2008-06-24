@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the doversaddlery.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225193808id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doversaddlery.com privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624031815id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 
+ 
   <script language="javascript">
    function openZoom(sku) { //pass the sku that you want to open
     //var staging = 'qa.doversaddlery.com'
@@ -22,68 +23,16 @@
     newwin.focus();
    }
   </script>
-
-	
-	
-
-<title>Privacy Policy - Dover Saddlery</title>
-<meta name="description" content="Founded in 1975 by US Equestrian Team Members, Dover Saddlery is the leading purveyor of quality English horse tack, horse supplies and riding apparel for horse and rider at any level of competition.">
-<meta name="keywords" content="Privacy Policy - Dover Saddlery">
-<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
-<meta http-equiv="Expires" content="-1">
-<meta http-equiv="imagetoolbar" content="no">
-<meta name="MSSmartTagsPreventParsing" content="true">
-<meta name="robots" content="follow,index">
-<meta name="revisit-after" content="30">
-<meta name="author" content="DMinSite, a division of Lagniappe Marketing">
-<meta name="copyright" content="Dover Saddlery, Inc., All Rights Reserved">
-<meta name="language" content="en-us">
-<meta name="classification" content="Catalogs">
-<meta name="distribution" content="Global">
-<meta name="verify-v1" content="P77HWTSJcSjo18LYvm1gy0PtMMm4yrt9giNpiw+kZMU=">
-
-<base href="//www.doversaddlery.com/">
-
-<link rel="Stylesheet" type="text/css" href="/custom/style.css">
-<link rel="Stylesheet" type="text/css" href="/style.asp?si=CustomStyle1">
-<script language="JavaScript" type="text/javascript" src="/js/util.js">
-</script>
-
-<script language="JavaScript1.1"> 
+ <title>Privacy Policy - Dover Saddlery</title><meta name="description" content="Founded in 1975 by US Equestrian Team Members, Dover Saddlery is the leading purveyor of quality English horse tack, horse supplies and riding apparel for horse and rider at any level of competition."><meta name="keywords" content="Privacy Policy - Dover Saddlery"><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1"><meta http-equiv="Expires" content="-1"><meta http-equiv="imagetoolbar" content="no"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="robots" content="follow,index"><meta name="revisit-after" content="30"><meta name="author" content="DMinSite, a division of Lagniappe Marketing"><meta name="copyright" content="Dover Saddlery, Inc., All Rights Reserved"><meta name="language" content="en-us"><meta name="classification" content="Catalogs"><meta name="distribution" content="Global"><base href="//www.doversaddlery.com/"><link rel="Stylesheet" type="text/css" href="/custom/style.css"><link rel="Stylesheet" type="text/css" href="/style.asp?si=CustomStyle1"><script language="JavaScript" type="text/javascript" src="/js/util.js">
+</script><script language="JavaScript1.1"> 
 	var specialcase = ((navigator.userAgent.indexOf('Mac') != -1) || document.all)
 	var flag = 0;
-	//var msg = 'This image is protected by copyright.\nWe request that you do not attempt to copy our images.';
-                     var msg = 'This image is protected by copyright.';
-
-                     
-                     	var x,y,x1,y1,copyAttempt;
+	var msg = 'This image is protected by copyright.';
+	var x,y,x1,y1,copyAttempt;
 
 	var hidethis = "none";
 
-                    function click(e)
-                    {
-                         if (document.all) 
-                            {
-	          if (event.button == 2) 
-                                  {
-                                      alert(msg); 
-	                 return false;
-	              }
-                               }
-	            if (document.layers) 
-                                    {
-                                      if (e.which == 3) 
-                                        {
-                                           alert(msg); 
-		 return false;
-	                    }
-                                       }
-                         }
-			                                                              
-
-                                                                 
-
-                   function toggle(e) {
+	function toggle(e) {
 	 	if ( document.getElementById(e).style.display=='none' ) {
 			document.getElementById(e).style.display = '';
 		 }
@@ -100,9 +49,8 @@
 		}
 
 		for (i=0;i<document.images.length;i++) {
-			//document.images[i].onmousedown = checkIt;
-                                                                 document.images[i].onmousedown = click;  
-                                                                 document.images[i].onmouseup = function() {return false};
+			document.images[i].onmousedown = checkIt;
+			document.images[i].onmouseup = function() {return false};
 
 			if (specialcase) {
 				//document.images[i].onmousemove = special;
@@ -111,9 +59,31 @@
 		}
 	}
 
-	</script>
+	function checkIt(e) {
+		copyAttempt = 0;
 
-<script language="JavaScript">
+		if (window.Event) {
+			x = e.screenX;
+			y = e.screenY;
+			theButt = (e.which == 3);
+		}
+		else {
+			x = window.event.clientX;
+			y = window.event.clientY;
+			theButt = (window.event.button == 2);
+		}
+
+		if (theButt) {
+			copyAttempt = 1;
+			flag = 0;
+			alert(msg);
+			return false; // NN4 only
+		}
+
+		if (specialcase) flag = 1;
+		return false;
+	}
+</script><script language="JavaScript">
 <!--
 //##
 //## WishList.com, Inc.
@@ -191,10 +161,37 @@ function Addtowishlist(wlid,formindex,params){
     document.Wishlist_com_form.submit();
 }
 //-->
-</script>
+</script></head>
+
+	
+	
 
 
-</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <body oncontextmenu="return false;" bgcolor="#ffffff" onload="init();">
 <!-- SiteCatalyst code version: H.6.
 Copyright 1997-2006 Omniture, Inc. More info available at
@@ -204,12 +201,12 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="Article: Privacy Policy: 75"
-s.server="Site"
+s.server="Split_b"
 s.channel="Article"
 s.eVar2="";
-s.eVar8="Site";
-s.eVar9="2007122514";
-s.eVar10="";
+s.eVar8="Split_b";
+s.eVar9="2008062323";
+s.eVar10="x18s001t";
 s.eVar11="";
 s.prop1 = "Blank: Catalog/Bookmark/Direct to URL/Other";
 s.prop2 = s.prop1 + ": " + s.pageName;
@@ -249,7 +246,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#006a53">
 	<tbody><tr>
 		<td width="209" valign="top">	<a href="http://www.doversaddlery.com"><img src="/images/art/logo2b.gif" alt="Dover Saddlery - Quality English Horse Tack &amp; Horse Supplies for the Equestrian" border="0"></a></td>
-		<td width="300" valign="top" align="center"><img src="/images/art/hunterjumperheader.jpg" border="0"></td>
+		<td width="300" valign="top" align="center"><img src="/images/art/genheader.jpg" border="0"></td>
 		<td width="200" valign="top" align="center">
 			<table height="110" cellpadding="1" cellspacing="0" border="0">
 				
@@ -281,7 +278,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 		<td bgcolor="#000000"><img src="/images/art/onepixel.gif" border="0" width="1" height="1"></td>
 	</tr>
 	<tr>
-		<td valign="middle" align="center"><img src="/images/art/onepixel.gif" border="0" width="1" height="5"><br><b class="black12"><i>Shop by:</i></b> &nbsp;&nbsp; <a href="/eventchange.asp_Q_e_E_hj">Hunter/Jumper</a><img src="/images/art/greendiamond.gif" border="0"><a href="/eventchange.asp_Q_e_E_dr">Dressage</a><img src="/images/art/greendiamond.gif" border="0"><a href="/eventchange.asp_Q_e_E_ev">Eventing</a><img src="/images/art/greendiamond.gif" border="0"><a href="/eventchange.asp_Q_e_E_KP">Kids &amp; Ponies</a><img src="/images/art/greendiamond.gif" border="0"><a href="/eventchange.asp_Q_e_E_MS">Men's Shop</a><img src="/images/art/greendiamond.gif" border="0"><a href="/eventchange.asp_Q_e_E_all">All</a><br><img src="/images/art/onepixel.gif" border="0" width="1" height="5"></td>
+		<td valign="middle" align="center"><img src="/images/art/onepixel.gif" border="0" width="1" height="5"><br><b class="black12"><i>Shop by:</i></b> &nbsp;&nbsp; <a href="/default.asp_Q_e_E_hj">Hunter/Jumper</a><img src="/images/art/greendiamond.gif" border="0"><a href="/default.asp_Q_e_E_dr">Dressage</a><img src="/images/art/greendiamond.gif" border="0"><a href="/default.asp_Q_e_E_ev">Eventing</a><img src="/images/art/greendiamond.gif" border="0"><a href="/default.asp_Q_e_E_KP">Kids &amp; Ponies</a><img src="/images/art/greendiamond.gif" border="0"><a href="/default.asp_Q_e_E_MS">Men's Shop</a><img src="/images/art/greendiamond.gif" border="0"><a href="/default.asp_Q_e_E_all">All</a><br><img src="/images/art/onepixel.gif" border="0" width="1" height="5"></td>
 	</tr>
 
 </tbody></table>
@@ -293,7 +290,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 		<!-- LEFTER CONTENT -->
 		<td width="170" valign="top" bgcolor="#006A53">
 		    <div align="center">
-		    <div align="center">
+		    
+
+<div align="center">
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
     <tbody><tr>
         <td bgcolor="#e8e7d3">
@@ -315,7 +314,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                     
                     <img src="/images/onepixel.gif" border="0" width="1" height="10"><br>
                     <b class="black12">QUICK BUY</b><br>
-                    <span class="black10">Enter catalog item #<br>(e.g., 8B-1234)</span><br>
+                    <span class="black10">Enter catalog item #<br>(e.g., JB-1234)</span><br>
                     <table cellpadding="1" cellspacing="0" border="0">
                         <form action="/prg_quickshop.asp" method="get"></form>
                         <tbody><tr>
@@ -324,6 +323,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                         </tr>
                         
                     </tbody></table>
+<br>
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.doversaddlery.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/survey/www.doversaddlery.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<!-- END SCANALERT CODE --> 
                     </td>
                 </tr>
             </tbody></table>
@@ -338,10 +341,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     </tr>
     <tr>
         <td valign="top" width="13"><img src="/images/whitearrow.gif" width="13" height="12"></td>
-        <td valign="top" width="137"><a href="/category.asp?c=1515" title="Shop Holiday Gifts at Dover Saddlery Today!" class="white">Holiday Gifts</a>           
-<li style="color:white"><a href="/category.asp?c=1506" title="Shop Stocking Stuffers at Dover Saddlery!" class="white" style="font-size: 10px">Stocking Stuffers</a></li>
- <li style="color:white"><a href="/category.asp?c=1508" title="Gifts under $50 from Dover Saddlery" class="white" style="font-size: 10px">Gifts under $50</a></li>
-            <li style="color:white"><a href="/category.asp?c=1511" title="Dream Gifts from Dover Saddlery" class="white" style="font-size: 10px">Dream Gifts</a></li>
+       <td valign="top" width="137">
+<a href="/category.asp?c=4242" title="Shop Summer Riding Essentials at Dover Saddlery Today!" class="white">Summer Essentials</a><li style="color:white"><a href="/category.asp?c=2" title="Shop Breeches at Dover Saddlery!" class="white" style="font-size: 10px">Breeches</a></li><li style="color:white"><a href="/category.asp?c=153" title="Fly Control from Dover Saddlery" class="white" style="font-size: 10px">Fly Control</a></li><li style="color:white"><a href="/category.asp?c=4242" title="Summer Sale at Dover Saddlery" class="white" style="font-size: 10px">Summer Sale</a></li>
+
           
         
         </td>
@@ -409,7 +411,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         <td valign="top" width="13"><img src="/images/whitearrow.gif" width="13" height="12"></td>
         <td valign="top" width="137"><a href="/horse-health-and-horse-supplies/c/146/c2c/ln/" title="Horse Health Supplies, Horse Supplements, Equine Health Supplies, Equine Supplements" class="white">Horse Supplements</a>
             <li style="color:white"><a href="/dewormers/c/158/c2c/ln/" title="Horse Dewormers - Horse Health Supplies at Dover Saddlery" class="white" style="font-size: 10px">Dewormers</a></li>
-            <li style="color:white"><a href="/category.asp?c=148" title="Horse Electrolytes - Horse Health Supplies at Dover Saddlery" class="white" style="font-size: 10px">Electrolytes</a></li>
+            <li style="color:white"><a href="http://www.doversaddlery.com/horse-treats/c/163/c2c/sc/" title="Horse Treats - Horse Health Supplies at Dover Saddlery" class="white" style="font-size: 10px">Horse Treats</a></li>
             <li style="color:white"><a href="/category.asp?c=399" title="Horse Joint Supplements, Equine Supplies, Horse Supplements, Equine Supplements" class="white" style="font-size: 10px">Joint Supplements</a></li>
             <li style="color:white"><a href="/horse-health-and-horse-supplies/c/146/c2c/ln/" title="Horse Health &amp; Horse Supplies from Dover Saddlery" class="white" style="font-size: 10px">View All Horse Health</a></li>
         </td>
@@ -662,6 +664,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 </tbody></table>
 
 
+
+
+
 		</div></td>
 		<!-- END LEFTER -->
 
@@ -887,8 +892,8 @@ consumers and companies with interest in direct marketing.
 		<td width="140" valign="top">
 		    <!-- RIGHTER CONTENT -->
 		    
-<div align="center"><img src="/images/requestacatalog.gif" border="0"><br><img src="/images/onepixel.gif" border="0" height="5" width="1"><br><div align="center" style="padding:4px"><span class="black10">To receive our FREE catalog <a href="javascript:openPopUp('https://www.doversaddlery.com/pop_catalog_request.asp?boutique=0');">click here</a>.</span><br><img src="/images/onepixel.gif" height="6"><br><a href="javascript:openPopUp('https://www.doversaddlery.com/pop_catalog_request.asp?boutique=0');"><img src="/images/adspace/curcathj.jpg" border="0"></a>
-<!-- AdSpace4_HJ --><br></div>&nbsp;<br></div>
+<div align="center"><img src="/images/requestacatalog.gif" border="0"><br><img src="/images/onepixel.gif" border="0" height="5" width="1"><br><div align="center" style="padding:4px"><span class="black10">To receive our FREE catalog <a href="javascript:openPopUp('https://www.doversaddlery.com/pop_catalog_request.asp?boutique=0');">click here</a>.</span><br><img src="/images/onepixel.gif" height="6"><br><a href="javascript:openPopUp('https://www.doversaddlery.com/pop_catalog_request.asp?boutique=0');"><img src="/images/adspace/curcat_040308.jpg" border="0"></a>
+<!-- AdSpace4 --><br></div>&nbsp;<br></div>
 <div align="center"><img src="/images/emailspecials.gif" border="0"><br><img src="/images/onepixel.gif" border="0" height="5" width="1"><br><div align="center" style="padding:3px"><script language="JavaScript">
 <!--
 function newsletterSignUp(form) {
@@ -926,13 +931,9 @@ function openNewsletterPopUp(PageName) {
 
 <!-- START HomepageLinks -->
 
-<br><center><a href="/category.asp?c=1515"><img src="/images/alt/holidaygiftcenter.jpg" border="0</a"><br><br><br>
 
+<br><center><a href="/article.asp?ai=72"><img src="/images/alt/testride.jpg" border="0</a"><br><br><br>
 
-<br></a><center><a href="/category.asp?c=1515"></a><a href="/article.asp?ai=72"><img src="/images/alt/testride.jpg" border="0</a"><br><br><br>
-
-
-</a><center><a href="/article.asp?ai=72"></a><a href="/catalog-closeouts/c/238/c2c/ln/"><img src="/images/art/buttoncatalogcloseouts.gif" alt="Save Up to 60% on Dover Saddlery Catalog Closeouts" border="0" vspace="5"></a><br>&nbsp;<br></center>
 
 
 <!--<br><a href="/category.asp?c=2523"><img src="/images/adspace/PHSrightnav.jpg" border=0></a></center><br>-->
@@ -941,7 +942,7 @@ function openNewsletterPopUp(PageName) {
 <!-- <br><center><a href="/info.asp?ii=2" target="_blank"><img src="/images/adspace/CreditCardRighter.jpg" border=0></a></center><br><br><br>-->
 <br><br>
 <!-- START Tell-A-Friend -->
-<div align="center"><img src="/images/tellafriend.gif" border="0"><br><img src="/images/onepixel.gif" border="0" height="5" width="1"><br><div align="center" style="padding:3px"><span class="black10">To share the news about the world's greatest selection of riding gear and accessories, <a href="javascript:openPopUp('/pop_tell_friend.asp?p=article');">click here</a>.</span><br><span class="black10">Or, if you would like to send a friend a catalog<br><a href="javascript:openPopUp('/pop_catalog_request_friend.asp?catalog_code=1X811001&amp;eid=X1811001');">click here</a>.</span><br></div>&nbsp;<br></div>
+</a><div align="center"><a href="/article.asp?ai=72"><img src="/images/tellafriend.gif" border="0"><br><img src="/images/onepixel.gif" border="0" height="5" width="1"><br></a><div align="center" style="padding:3px"><a href="/article.asp?ai=72"><span class="black10">To share the news about the world's greatest selection of riding gear and accessories, </span></a><a href="javascript:openPopUp('/pop_tell_friend.asp?p=article');">click here</a>.<br><span class="black10">Or, if you would like to send a friend a catalog<br><a href="javascript:openPopUp('/pop_catalog_request_friend.asp?catalog_code=1X811001&amp;eid=X1811001');">click here</a>.</span><br></div>&nbsp;<br></div>
 <!-- END Tell-A-Friend -->
 
 
@@ -990,7 +991,7 @@ function openNewsletterPopUp(PageName) {
 
 
 		    <!-- END RIGHTER -->
-		</center></center></td>
+		</center></td>
 	            </tr>
 	            <tr>
 		<td width="150" valign="top" bgcolor="#006a53"></td>
@@ -1079,19 +1080,19 @@ urchinTracker();
 
 
 
-<!-- Lyris List Manager -->
-<!-- Referer:  -->
-<!-- No referer cookie associated to a mailing -->
-<!-- Lyris List Manager -->
-
-
-
-
 <script language="JavaScript">
   // Dover Saddlery SITE
   rsi_account = 'E06272A53574039F91CA0B46465A707C';
   rsi_site    = '0573A9064C7466FC3C93C9BA86B3728D';
   rsi_event   = '056F6BE297154EEAB892A1BEFFDD08DF';
 </script>
-<script language="JavaScript" src="http://ads.revsci.net/adserver/rsi_event.js"></script>
+
+<!--SHELL B-->
+
+
+<!-- Lyris List Manager -->
+<!-- Referer:  -->
+<!-- No referer cookie associated to a mailing -->
+<!-- Lyris List Manager -->
+
 </body></html>
