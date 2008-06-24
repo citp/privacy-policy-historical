@@ -1,24 +1,52 @@
-> *The following text is extracted and transformed from the bookmarks.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625004512id_/http%3A//www.new.net/policies_quick.tp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarks.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624101327id_/http%3A//netrocket.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# New.net: Privacy Policy
+# netRocket bookmarking, tagging and scheduling the sites you browse and discover -- Privacy Policy
 
-New.net, Inc. (“New.net,” “we,” “us” or “our”) publishes and distributes Internet navigation assistance web pages in response to certain queries that you submit (“Quick! Pages”). This Privacy Policy applies to your use of the Quick! Pages. Your privacy is important to us and this Privacy Policy reflects our concern in safeguarding it. This Privacy Policy describes our practices regarding the collection, maintenance, use and sharing of information that we collect. Our Privacy Policy may change from time to time and those changes will be available for your review on each Quick! Page that you view and on our web page located at www.new.net/policies_quick.tp. Your continued use of our Quick! Pages after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version. We will sometimes post announcements on our home page ([www.new.net](http://www.new.net/)) regarding any changes to our Privacy Policy. To contact New.net about privacy issues, please e-mail us at privacy@new.net.
+Last Updated December 16, 2007
 
-  
-We do not purposefully collect any personally identifiable information about you (such as your name, address, email address, or telephone number). Our Quick! Pages, or any software used to obtain such Quick! Pages, may, however, transmit limited non-personally identifiable information, such as your IP address, type of browser and operating system, unique software ID, version of the New.net software, internal software status indicators (including error codes to determine if the software has encountered any internal errors), a tag that identifies any New.net distribution partner from whom you may have downloaded or installed the software, keyword and error search queries entered in your browser if you are using our software known as “New.net Domains,” and Internet search queries entered in the toolbar if you are using our software known as “Internet Search Toolbar.” Please note that any search query information collected by us is maintained by New.net on an aggregated basis ( i.e., together with the queries of all of our end-users) for the purposes of generating statistics regarding the use of our software or services (such as the number of queries performed by the average end-user per month, a list of the most popular query terms, etc.), and is never used in a manner that matches specific search query information with any particular end-user. To properly reflect your language, filtering and other preferences, our Quick! Pages may also use cookies ( i.e. packets of information containing your preferences that are sent to your browser and sent back by your browser each time your browser accesses our server). Cookies that we may use may only be read by the server that placed them there. If you wish to control how and whether cookies will be accepted by your browser, you should refer to the documentation accompanying your browser. 
+isend.com, LLC d/b/a NetRocket (“NetRocket”) collects, receives and uses information, including personal information and information concerning your past use of the NetRocket web site(s), its products and its services. Personal information is identifying information such as your name, age, address, email address, and telephone phone number. At present, the only personal information collected by NetRocket is a user’s email address. Personal information does not include information such as usage or other demographic information when that information does not contain identifying information. 
 
-  
-Most of the limited, non-personally identifiable information collected is used to provide more relevant products and services to our end-users. For example, New.net may use your IP address to determine which language to use to provide you with Internet search results. In addition, information collected from end-users may be used in aggregate form to, among other things, determine the total number of distributed and active copies of our software or total number of end-users who are using our services, prepare utilization reports for our partners or affiliates (collectively, “Partners”), diagnose and fix compatibility problems or other bugs in our software, and perform statistical analyses to enable New.net to build higher quality, more useful online services. The information collected from end-users also allows New.net to determine if the software on an end-user’s computer is encountering internal errors or needs to be updated and permits New.net to deliver search results pages that are as responsive as possible to an individual end-user’s particular search query ( e.g., serves results in the end-user’s native language and tailored to the end-user’s country of connectivity). 
+NetRocket has business, and will have relationships with other commercial entities, and NetRocket does not control third parties or their respective privacy policies. 
 
-  
-As a general rule, we do not share the information we collect from end-users with third-parties. However, search terms or phrases inputted as queries by our end-users are transmitted to certain Partners with whom New.net has subcontracted (such as Google, Overture Services, FindWhat.com and others) to obtain Internet search results or other services in response to such search queries. In addition, some of the information we collect is provided, in aggregate form only, to our Partners solely for purposes related to our relationships with such Partners, not for the purposes of marketing to our end-users. While we encourage our Partners to adhere to our Privacy Policy, we are not responsible for their actions or omissions, including the manner in which they use information that they receive from New.net or that they independently may collect from you. Nevertheless, if you feel that any of our Partners, or any third party who claims association with New.net, is improperly collecting or using information about you, we urge you to contact them directly and also to inform us by e-mailing us at [privacy@new.net](mailto:privacy@new.net). If in the future we sell or transfer assets or portions of our business, or if we experience a change in control, reorganization or liquidation, we may transfer such information to our successor or buyer, subject to this Privacy Policy. Finally, we reserve the right to disclose any information about you if you violate any of our published guidelines, or as required by law, or to defend our rights or the rights and well-being of our other end-users, or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant or court order. 
+How NetRocket collects information
 
-  
-Any websites displayed to you when you click on a link or advertisement on a Quick! Page, including websites owned or operated by customers who have purchased New.net domain names, have been developed by third-parties over which New.net exercises no control. Such websites may send their own cookies to end-users, collect data, or solicit personally identifiable information from you. New.net is not responsible for the privacy practices or the content of such websites, including such websites’ use of any information collected when New.net’s end-users are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites. 
+NetRocket collects information, including your personal information: 
 
-  
-Questions regarding this Privacy Policy should be directed by e-mail to New.net at [privacy@new.net](mailto:privacy@new.net) or, by U.S. mail, to 15260 Ventura Blvd., Suite 2000, Sherman Oaks, California 91403, Attn: Privacy Officer. 
+  * when you register as a user with NetRocket
+  * when you use NetRocket products or services
+  * when you use the NetRocket web site(s)
+  * when you use our partners’ and affiliates web sites, if any
+  * and when you participate in promotions, which may be offered by NetRocket from time to time. 
 
-Effective Date: May 2004.
 
-| 
+
+NetRocket may aggregate your information with other information, including other personal information, that we may receive from third parties or from your use of our website(s). 
+
+NetRocket requires certain information when you register as a user at our web site(s), for example, your username, email address, password and your time zone (e.g. EST, MST, etc.). NetRocket may ask, from time to time, though it has no specific, present plans to do so, for certain demographic information such as your age, occupation, industry, and personal interests. NetRocket may also require certain personal information to be used for security purposes. Personal information collected solely for security purposes will never be shared with any person or entity, but shall only be used to authenticate you to our web site(s). 
+
+NetRocket may collect information about your transactions with us as well as those with our business partners and affiliates, NetRocket uses all manner of technology to set, access, and collect information, including transparent images, web beacons, and other scripts. 
+
+NetRocket collects information on our server logs from your browser, including your IP address, NetRocket cookies, referring pages and web sites, and the page you request, among other information. NetRocket shall never share its originating cookie information with any third party, except as provided below. 
+
+How NetRocket uses personal information
+
+NetRocket currently uses personal information it collects and receives solely to administer your user account and enhance your user experience at our web sites. NetRocket currently uses user usage information, including the identity of bookmarked websites, in aggregated form only, as part of its service offerings to all users. In the future, NetRocket may use personal information it collects and receives to direct content you see, including advertisements; to fulfill your requests for products and services; to improve our web site(s), products and services; to conduct research; and to provide anonymous reporting for all purposes. NetRocket may also use the information it collects to contact you, or as otherwise provided in this document. 
+
+How NetRocket shares information
+
+NetRocket does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, or as provided below. 
+
+  * NetRocket may share information, including personal information with our business partners and/or affiliates, but only pursuant to confidentiality agreements which provide that your personal information shall be deemed confidential.
+  * NetRocket may share information, including personal information to comply with subpoenas, court orders, or other as otherwise required by law or to exercise our legal rights.
+  * NetRocket will share information, including personal information (and cookies) in the event of a sale, merger, or other organic change to the corporate structure if NetRocket, or as part of a sale of our assets.
+  * NetRocket will share user usage information with third parties, including other users, but only in aggregated, not personally identifying, form.
+
+
+
+How NetRocket uses security-related information
+
+NetRocket uses security-related information only for the purpose of authentication. This information may be used to authenticate you to our servers and our employees. This information is not used for any other purpose. Only those employees that reasonably require access to security-related information may see it. No employee will ever ask for, or be able to see your password. 
+
+How NetRocket makes changes to its Privacy Policy
+
+NetRocket may modify or update this policy at any time. We will notify you about major changes to this policy as such changes affect the use of your personal information. NetRocket shall notify you by sending such notices to the email address specified in your NetRocket account and/or by placing a notice on our site. Consequently, you agree to regularly visit the NetRocket web sites so that you will be kept informed of any changes to this privacy policy or any other policy or terms governing your use of the NetRocket web sites, products or services. 
