@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the capperspicks.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225214816id_/http%3A//www.capperspicks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capperspicks.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624112242id_/http%3A//www.capperspicks.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms & Conditions for cappers picks
 
 Terms & Conditions for Cappers Picks
 
-Do you have a question or concern about CappersPicks.com the website, or our website network? In order to get your question to the people who can best answer your questions please email our webmaster \- info @ cappers picks.com
-
-Type the above email address into your email program and in just a few steps you will be able to send your e-mail to the team who will best be able to help you with your concern. Along the way, you may find the answer to your question before you even need to ask it.
+Do you have a question or concern about CappersPicks.com the website, or our website network? In order to get your question to the people who can best answer your questions please [email our webmaster](http://www.capperspicks.com/forums/sendmessage.php)
 
 Important Information \- Online Handicapping Sports Service Disclaimer
 
@@ -38,4 +36,4 @@ Our site's email registration form requires users to give us contact information
 
 This site contains advertising links to other sites. CappersPicks.com is not responsible for the privacy practices or the content of such Web sites. These websites each have separate privacy and data collection practices, independent of CappersPicks.com.
 
-We hope that we were able to answer your question. If you still have more questions you can just email us:
+We hope that we were able to answer your question. If you still have more questions you can just [email us](http://www.capperspicks.com/forums/sendmessage.php):
