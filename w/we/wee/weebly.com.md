@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weebly.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221015547id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weebly.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624135911id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
@@ -14,6 +14,17 @@ This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us
   * Weebly may also collect personal information if you enter into promotions or sweepstakes.
   * Weebly may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
   * Weebly uses information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
+
+
+
+**Billing information**
+
+  * Should you sign up for a Weebly pro account or register a domain through us, we require your billing information in order to process the transaction.
+  * We do not store your billing information, and this information will be discarded after your transaction has been processed.
+  * We will retain the last 4 digits of your credit card number, and credit card type, so that you may identify the card used in the future.
+  * If your subscription is auto-renewing, a recurring subscription will be created at our payment gateway, Authorize.net. Authorize.net will store your billing information on their secure payment gateway for as long as necessary to carry out the terms of your subscription.
+  * Should you cancel your subscription, your billing information will be immediately removed by Authorize.net
+  * All transactions are processed over an industry standard SSL/TLS connection, with a minimum of 128-bit encryption.
 
 
 
