@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162918id_/http%3A//www.papermag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624151610id_/http%3A//www.papermag.com/privacypolicy) for the most accurate reproduction.*
 
 # PAPERMAG: BROUGHT TO YOU BY PAPER MAGAZINE
 
@@ -70,7 +70,7 @@ How to Contact Us
 
 If you have any questions or concerns about any aspect of this Privacy Policy or its implementation please contact us via e-mail at [vip@papermag.com](mailto:vip@papermag.com) or at the following address: 
 
-Paper Magazine   
+PAPER Magazine   
 Privacy Policy Coordinator/Customer Service   
-365 Broadway   
-New York, NY 10013 
+15 E. 32nd St. 11th Fl.   
+New York, NY 10016 
