@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211204849id_/http%3A//triplejack.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624063436id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="keywords" content="play poker,online poker,poker,texas hold 'em,texas poker,world series of poker,wsop,play poker online,triplejack,triplejack.com,poker online,play poker for fun, win prizes, tournaments, freeroll, free roll, play for prizes, holdem, omaha, win, prize, cash prize, poker for prizes">
+<meta name="description" content="Play poker, win prizes and have fun at Triplejack. Triplejack is an online poker community with more fun and interactive features than any other poker site. Throw pies at your opponents! Play for free or become a Power Player and get additional features and win great prizes.">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="STYLESHEET" type="text/css" href="tj.css">
 <title>Triplejack Poker</title>
@@ -23,6 +23,7 @@
 <script language="JavaScript1.1" type="text/javascript">
 <!--
 var link_target='_self';
+var parent_url_prefix='';
 var avscroller_fg_rgb = 0x336699;   // foreground and background colors for avatar selector
 var avscroller_bg_rgb = 0x19334D;   // shown in register.php and start.php registration forms
 //-->
@@ -138,6 +139,7 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 // -->
 </script>
 <!--/\-- FLASH PLAYER DETECTION FUNCTIONS -->
+<script type="text/javascript" language="JavaScript" src="http://eas.apm.emediate.eu/EAS_tag.1.0.js"></script>
 <script language="JavaScript1.1" src="tj.js"></script>
 <script language="JavaScript1.1">
 <!--
@@ -149,7 +151,7 @@ function delay_recent_posts_complete(){
       setTimeout("request_recent_posts_complete()", 309000);
 }
 function request_recent_posts_complete(){
-      http_recent_posts_complete.open('get', '/recent_posts_complete.php?link_target=');
+      http_recent_posts_complete.open('get', '/recent_posts_complete.php?network_id=1&link_target=');
       http_recent_posts_complete.onreadystatechange = handle_recent_posts_complete;
       http_recent_posts_complete.send(null);
       delay_recent_posts_complete();
@@ -168,7 +170,7 @@ function delay_high_scores_complete(){
       setTimeout("request_high_scores_complete()", 300000);
 }
 function request_high_scores_complete(){
-      http_high_scores_complete.open('get', '/high_scores_complete.php?link_target=');
+      http_high_scores_complete.open('get', '/high_scores_complete.php?network_id=1&link_target=');
       http_high_scores_complete.onreadystatechange = handle_high_scores_complete;
       http_high_scores_complete.send(null);
       delay_high_scores_complete();
@@ -187,7 +189,7 @@ function delay_prizes_won(){
       setTimeout("request_prizes_won()", 604000);
 }
 function request_prizes_won(){
-      http_prizes_won.open('get', '/prizes_won.php?link_target=');
+      http_prizes_won.open('get', '/prizes_won.php?network_id=1&link_target=');
       http_prizes_won.onreadystatechange = handle_prizes_won;
       http_prizes_won.send(null);
       delay_prizes_won();
@@ -206,7 +208,7 @@ function delay_prizes_to_win(){
       setTimeout("request_prizes_to_win()", 1201000);
 }
 function request_prizes_to_win(){
-      http_prizes_to_win.open('get', '/prizes_to_win.php?link_target=');
+      http_prizes_to_win.open('get', '/prizes_to_win.php?network_id=1&link_target=');
       http_prizes_to_win.onreadystatechange = handle_prizes_to_win;
       http_prizes_to_win.send(null);
       delay_prizes_to_win();
@@ -225,7 +227,7 @@ function delay_server_status(){
       setTimeout("request_server_status()", 30000);
 }
 function request_server_status(){
-      http_server_status.open('get', '/server_status.php?link_target=');
+      http_server_status.open('get', '/server_status.php?network_id=1&link_target=');
       http_server_status.onreadystatechange = handle_server_status;
       http_server_status.send(null);
       delay_server_status();
@@ -244,7 +246,7 @@ function delay_auto_mtts(){
       setTimeout("request_auto_mtts()", 245000);
 }
 function request_auto_mtts(){
-      http_auto_mtts.open('get', '/auto_mtts.php?link_target=');
+      http_auto_mtts.open('get', '/auto_mtts.php?network_id=1&link_target=');
       http_auto_mtts.onreadystatechange = handle_auto_mtts;
       http_auto_mtts.send(null);
       delay_auto_mtts();
@@ -263,7 +265,7 @@ function delay_next_mtt(){
       setTimeout("request_next_mtt()", 245000);
 }
 function request_next_mtt(){
-      http_next_mtt.open('get', '/next_mtt.php?link_target=');
+      http_next_mtt.open('get', '/next_mtt.php?network_id=1&link_target=');
       http_next_mtt.onreadystatechange = handle_next_mtt;
       http_next_mtt.send(null);
       delay_next_mtt();
@@ -313,12 +315,13 @@ function start_ajax(){
 <td><a href="/info/" target="_self"><img width="103" height="24" src="tjtop2-info.gif" border="0" alt="poker info"></a></td>
 <td><a href="register.php" target="_self"><img width="103" height="24" src="tjtop2-register.gif" border="0" alt="register for free"></a></td>
 <td><a href="lounges.php" target="_self"><img width="103" height="24" src="tjtop2-lounges.gif" border="0" alt="poker private games"></a></td>
-<td><a href="account.php" target="_self"><img width="103" height="24" src="tjtop2-account.gif" border="0" alt="my account"></a></td>
-<td rowspan="2"><img width="88" height="48" src="blank.gif"></td>
+<!--<td><a href="account.php" target="_self"><img width=103 height=24 src="tjtop2-account.gif" border=0 alt="my account"></a></td>-->
+<td><a href="account.php" target="_self"><img width="103" height="24" src="tjtop2-account.gif" border="0" alt="my account"></a></td><td rowspan="2"><img width="88" height="48" src="blank.gif"></td>
 <td rowspan="2"><img width="88" height="48" src="blank.gif"></td>
 </tr><tr>
-<td><a href="/forum/" target="_blank"><img width="103" height="24" src="tjtop2-forum.gif" border="0" alt="poker forum"></a></td>
-<td><a href="/stats.php" target="_self"><img width="103" height="24" src="tjtop2-scores.gif" border="0" alt="poker scores"></a></td>
+<!--<td><a href="/forum/" target="_blank"><img width=103 height=24 src="tjtop2-forum.gif" border=0 alt="poker forum"></a></td>-->
+<td><a href="/forum/" target="_blank"><img width="103" height="24" src="tjtop2-forum.gif" border="0" alt="poker forum"></a></td><td><a href="/profile.php" target="_self"><img width="103" height="24" src="tjtop2-players.gif" border="0" alt="poker player profiles"></a></td>
+<!--<td><a href="/stats.php" target="_self"><img width=103 height=24 src="tjtop2-scores.gif" border=0 alt="poker scores"></a></td>-->
 <td><a href="http://www.icostore.net/triplejack/" target="_blank"><img width="103" height="24" src="tjtop2-store.gif" border="0" alt="poker store"></a></td>
 <!--<td><a href="/affiliate.php" target="_self"><img width=103 height=24 src="tjtop2-aff.gif" border=0 alt="poker affiliate program"></a></td>-->
 <td><a href="prizes.php" target="_self"><img width="103" height="24" src="tjtop2-prizes.gif" border="0" alt="poker prizes"></a></td></tr></tbody></table>
@@ -444,22 +447,22 @@ what circumstances we disclose it.</span> </p>
 
 </center></td></tr></tbody></table>
 
-<center><table border="0" cellspacing="0" cellpadding="0" style="padding:0px;"><tbody><tr><td class="yellow-tl"></td><td class="yellow-t"></td><td class="yellow-tr"></td></tr><tr><td class="yellow-l"></td><td class="yellow"><b>Not a member yet?</b> <a href="register.php" target="_self">Register Now!</a> — It's free and tons of fun!</td><td class="yellow-r"></td></tr><tr><td class="yellow-bl"></td><td class="yellow-b"></td><td class="yellow-br"></td></tr></tbody></table><br><br><table width="100%" cellpadding="10" cellspacing="0" bgcolor="#264C72" class="taillink"><tbody><tr><td align="center"><table width="500" cellpadding="0" cellspacing="0" bgcolor="#264C72"><tbody><tr><td align="center"><a href="/">Home / Login</a></td><td align="center"><a href="/info.php">Game Info</a></td><td align="center"><a href="/register.php">Register Free!</a></td></tr><tr><td align="center"><a href="/stats.php" target="_self">Scores &amp; Stats</a></td><td align="center"><a href="/forum/" target="_blank">Forum</a></td><td align="center"><a href="password.php" target="_self">Change Password</a></td></tr><tr><td align="center"><a href="/affiliate.php" target="_self">Affiliate Program</a></td><td align="center"><a href="/daily_stats.php" target="_self">Daily Stats</a></td><td align="center"><a href="/password.php" target="_self">Forgotten Login?</a></td></tr><tr><td align="center">&nbsp;</td><td align="center"><a href="contact.php" target="_self">Contact Us</a></td><td align="center">&nbsp;</td></tr></tbody></table></td></tr></tbody></table>
+<center><table border="0" cellspacing="0" cellpadding="0" style="padding:0px;"><tbody><tr><td class="yellow-tl"></td><td class="yellow-t"></td><td class="yellow-tr"></td></tr><tr><td class="yellow-l"></td><td class="yellow"><b>Not a member yet?</b> <a href="register.php" target="_self">Register Now!</a> — It's free and tons of fun!</td><td class="yellow-r"></td></tr><tr><td class="yellow-bl"></td><td class="yellow-b"></td><td class="yellow-br"></td></tr></tbody></table><br><br><table width="100%" cellpadding="10" cellspacing="0" bgcolor="#264C72" class="taillink"><tbody><tr><td align="center"><table width="500" cellpadding="0" cellspacing="0" bgcolor="#264C72"><tbody><tr><td align="center"><a href="/">Home / Play</a></td><td align="center"><a href="/info/">Game Info</a></td><td align="center"><a href="/register.php">Register Free!</a></td></tr><tr><td align="center"><a href="/stats.php" target="_self">Scores &amp; Stats</a></td><td align="center"><a href="/forum/" target="_blank">Forum</a></td><td align="center"><a href="password.php" target="_self">Change Password</a></td></tr><tr><td align="center"><a href="contact.php" target="_self">Contact Us</a></td><td align="center"><a href="/daily_stats.php" target="_self">Daily Stats</a></td><td align="center"><a href="password.php" target="_self">Forgotten Login?</a></td></tr></tbody></table></td></tr></tbody></table>
 <table width="100%" cellpadding="2" cellspacing="0" bgcolor="#224466">
 <tbody><tr><td align="right"><span class="sm"><font color="#99CCFF">
 <span class="taillink"><a href="terms.php" target="_self">Terms &amp; Conditions</a></span>&nbsp;&nbsp;&nbsp;
 <span class="taillink"><a href="privacy.php" target="_self">Privacy Policy</a></span>&nbsp;&nbsp;&nbsp;
-©2007 Triplejack, LLC. All Rights Reserved.</font></span>
+©2008 Triplejack, LLC. All Rights Reserved.</font></span>
 </td></tr></tbody></table>
 
 </center></td></tr></tbody></table>
+<!--/\-- client-specific -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-372310-1";
 urchinTracker();
 </script>
-<!--/\-- client-specific -->
 
 
                   
