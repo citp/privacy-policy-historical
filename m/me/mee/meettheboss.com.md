@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214112547id_/http%3A//www.gdsinternational.com/privacy/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624084643id_/http%3A//www.gdsinternational.com/privacy/privacy_en.html) for the most accurate reproduction.*
 
 # GDS Publishing Ltd. Privacy Policy
 
