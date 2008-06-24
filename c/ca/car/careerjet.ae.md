@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.ae privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225175856id_/http%3A//www.careerjet.ae/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.ae privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624034606id_/http%3A//www.careerjet.ae/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
@@ -15,7 +15,7 @@ You can generally visit our Website without revealing any personally identifiabl
 #### Disclosure of Personal Information
 
 We do not disclose personal information to third parties in the normal course of operations, unless you specifically ask the Website to do so, for example when submitting your application to a recruiter through Careerjet or when making your CV searchable to be viewed by recruiters.   
-Under certain circumstances, however, we could be legally obliged to disclose information to the government or other third parties and if Careerjet becomes part of another organization, that organization will possess the personal information collected by Careerjet and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
+Under certain circumstances, however, we could be legally obliged to disclose information to the government or other third parties and if Careerjet becomes part of another organisation, that organisation will possess the personal information collected by Careerjet and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
 #### Security
 
