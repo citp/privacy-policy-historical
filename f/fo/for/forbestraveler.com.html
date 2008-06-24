@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forbestraveler.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211193226id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forbestraveler.com privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624223213id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy, Policy Statement - ForbesTraveler.com </title>
@@ -23,13 +23,65 @@
 
 <script language="JavaScript" src="/brady"></script>
 <script language="JavaScript" src="http://images.forbestraveler.com/media/js/js.js"></script>
-<link href="http://images.forbestraveler.com/media/css/main_style.css" rel="stylesheet" type="text/css">
+<link href="http://images.forbestraveler.com/media/css/main_style.css" rel="stylesheet" type="text/css"><link rel="icon" href=" http://images.forbestraveler.com/media/img/favicon.ico" type="image/x-icon">
 </head>
 
 <body onload="ftdc_moveDown()" bgcolor="F0EFE5" leftmargin="0" topmargin="0">
+<script>
+var url=document.location.href;
+var hostname=document.location.hostname;
+var uri = url.substring(url.indexOf(hostname)+hostname.length,url.length);
+if(uri.indexOf("cmpid=")==-1)
+	uri="no360";
+else
+	uri=uri.substring(0,uri.indexOf("?cmpid"));
+if(uri.lastIndexOf('/')!=uri.length-1)
+	uri+="/";
+var mylanders=new Array("/","/vacations/","/fractional-ownership.html/");
+var len=mylanders.length;
+var i=0;
+var display360=new Boolean(false);
 
+for (i=0;i<=len && display360==false;i++)
+{
+	if(mylanders[i]==uri)
+		display360=true;
+}
+
+var previousPage = getCookie('ppage');
+for (i=0;previousPage!=undefined && i<=len && display360==false;i++)
+{
+	if(mylanders[i]==previousPage)
+		display360=true;
+}
+
+if(display360==true)
+{
+	// write out forbes.js
+	var _9host = (("https:" == document.location.protocol) ? "https://" : "http://");
+	document.write(unescape("%3Cscript src=\"" + _9host + "12980E65.9554e258.net/9.js\" type=\"text/javascript\"%3E%3C/script%3E"));
+}
+
+
+var tomorrow = new Date();
+var nowPlus =  tomorrow.getTime() + (24*60*60*1000);
+tomorrow.setTime(nowPlus);
+var ppageStr = 'ppage='+uri+'; expires=' + tomorrow.toGMTString()+'; path=/;';
+document.cookie = ppageStr;
+
+</script>
+<script>
+    if(display360==true) {
+            try 
+            {
+                var ce = new CLEQ("12980E65");
+                ce.pageview();
+            } 
+            catch (e) {}
+    }
+</script>
 <div style="display:none">
-<script language="JavaScript" src="http://images.forbes.com/scripts/omniture/s_code_forbestraveler.js"></script>
+<script language="JavaScript" src="http://images.forbestraveler.com/media/omniture/s_code_forbestraveler.js"></script>
 </div>
 
 <div id="content_area">
@@ -301,7 +353,27 @@ Revised and posted as of August 31, 2006 <br>
 
 
 		<!---------- ---------- ATTACHE BEGINS HERE ---------- ---------->
-		<script language="JavaScript" type="text/javascript">
+		
+
+
+
+<div style="padding-top:18px;padding-bottom:10px;width:215px;float:left;">
+	<a href="/signup.html"><img src="http://images.forbestraveler.com/media/img/FPnewslettermodule.jpg" width="215" height="242" border="0" alt=""></a>
+	<a href="/login.html"><img src="http://images.forbestraveler.com/media/img/FPupdate_module.gif" width="215" height="29" border="0" alt=""></a>
+
+
+
+	<a href="http://images.forbestraveler.com/media/rss/newInspirationsRSS.xml">
+		<img src="http://images.forbestraveler.com/media/img/RSSmodule.gif" border="0" alt="">
+	</a>
+
+
+	<a href="/tools/widgets-tool.html">
+		<img src="http://images.forbestraveler.com/media/img/Widget_module.gif" border="0" alt="">
+	</a>
+
+<script language="JavaScript" src="http://images.forbestraveler.com/media/js/attacheHeaderBlock.js"></script>
+<script language="JavaScript" type="text/javascript">
 <!--
 
 var forbesmemb = getParam("forbesmemb");
@@ -374,19 +446,35 @@ function eraseCookie(name) {
 	document.write('<iframe src="http://my.forbes.com/fifth/fifth.do?pzn_id='+forbesmemb+'&fifthinit='+fifthinit+'&backto=http://www.forbestraveler.com/" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" height="3000" scrolling="no" width="215"></iframe>');
 </script><iframe src="http://my.forbes.com/fifth/fifth.do?pzn_id=null&amp;fifthinit=null&amp;backto=http://www.forbestraveler.com/" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" height="3000" scrolling="no" width="215"></iframe>
 
+
+</div>
+
 		<!---------- ----------  ATTACHE ENDS HERE  ---------- ---------->
 
 	<!---------- COLUMN THREE ENDS ---------->
 	</div>
 </div>
 
+
+
 <!--START FOOTER-->
+
+<script language="JAVASCRIPT">
+var d = new Date();
+var curr_year=2008;
+curr_year = d.getFullYear();
+</script>
+
+
 <br clear="all">
 
 <div id="footer">
 <a href="/inspirations/" class="subnav">INSPIRATIONS</a> | <a href="/destinations/" class="subnav">DESTINATIONS</a> | <a href="/accommodations/" class="subnav">ACCOMMODATIONS</a> | <a href="/vacations/" class="subnav">VACATIONS</a> | <a href="/reservations/" class="subnav">RESERVATIONS</a><br>
 <a href="/privacy/" class="subnav">Privacy Policy </a> | <a href="/terms/" class="subnav">Terms of Service</a> | <a href="/sitemap/" class="subnav">Site Map </a> | <a href="/contact/" class="subnav">Contact Us</a> | <a href="/advertise/" class="subnav">Advertise on ForbesTraveler.com</a> | <a href="/permissions/" class="subnav">Reprints/Permissions</a><br>
-<a href="http://www.forbes.com/adinfo/" class="subnav">Advertise on Forbes.com</a> | <a href="http://www.forbestraveler.com" class="subnav">© 2007 Forbes.com LLC</a>
+<a href="http://www.forbes.com/adinfo/" class="subnav">Advertise on Forbes.com</a> | <a href="http://www.forbestraveler.com" class="subnav">© <script>
+document.write(curr_year)
+</script>2020
+ Forbes.com LLC</a>
 
 </div>
 <!-------------------------- FOOTER -------------------------------------->
