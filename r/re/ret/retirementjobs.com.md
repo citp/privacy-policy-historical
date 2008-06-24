@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retirementjobs.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226175240id_/http%3A//www.retirementjobs.com/aboutus/resources/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retirementjobs.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624131916id_/http%3A//www.retirementjobs.com/aboutus/resources/Privacy.html) for the most accurate reproduction.*
 
 # ABOUT US - Privacy Policy
 
@@ -24,24 +24,27 @@ Contacting RetirementJobs.com If you have any questions about this privacy polic
 
 Web Policy   
 RetirementJobs.com   
-888 Worcester Street, Suite 260   
-Wellesley, MA 02482   
+204 Second Ave   
+Waltham, MA 02451   
 [support@RetirementJobs.com](mailto:support@retirementjobs.com)
 
-Update effective April, 2006
+Update effective April, 2007
 
 | 
 
 CONTACT US RetirementJobs.com, Inc.  
-888 Worcester Street  
-Suite 260  
-Wellesley, MA 02482
+204 Second Avenue  
+Waltham, MA 02451
 
-Sales & Support  
-(781) 235-1329 (option 2)  
+Sales & Pricing  
+(781) 890-5050 (option 2)  
 [Email Sales](mailto:sales@retirementjobs.com)
+
+Job Seeker Inquiries  
+[Email Support](mailto:support@retirementjobs.com)
 
 Press Inquiries:  
 Patrick Rafter  
-(781) 235-1329 (option 4)  
-[Email Patrick](mailto:pr@retirementjobs.com)
+(781) 890-5050 (option 4)  
+[Email Patrick](mailto:pr@retirementjobs.com)  
+
