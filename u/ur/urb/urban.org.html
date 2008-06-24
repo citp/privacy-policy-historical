@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the urban.org privacy policy that was archived on 2007-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227132919id_/http%3A//www.urban.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urban.org privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624151550id_/http%3A//www.urban.org/about/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright The Urban Institute --><!-- Page generated 2007-12-21 17:30:07 by CommonSpot Version 4.5.1 (2005-06-07 09:30:00) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>The Urban Institute | Privacy</title> <meta name="Description" id="Description" content="Privacy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright The Urban Institute --><!-- Page generated 2008-06-14 12:20:37 by CommonSpot Version 4.5.1 (2005-06-07 09:30:00) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>The Urban Institute | Privacy</title> <meta name="Description" id="Description" content="Privacy">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server Version 4.5.1">
@@ -26,11 +26,55 @@
 			
 			externalLinkRegEx = /^https?:[\/\\]{2}/i;
 			
-				blnPopUpsOffScreen=0;
-				intTop=200;
-				intLeft=200;
-				intHeight=290;
-				intWidth=480;
+				cookieStr = document.cookie;
+				cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+				rxVal = /\d+/;
+				try
+				{
+					if (cookieStr && cookieStr.match(cookieWinRegEx))
+					{
+						strVal=cookieStr.match(cookieWinRegEx);
+						if (strVal)
+							blnPopUpsOffScreen=strVal.toString().match(rxVal);
+						else
+							bInPopUpsOffScreen = 0;
+					}
+					else
+						blnPopUpsOffScreen=0;
+				}
+				catch (oErr)
+				{
+					blnPopUpsOffScreen=0;
+				}
+				if(blnPopUpsOffScreen==1)
+				{
+					
+					intTop=window.screen.height - 9;
+					intLeft=window.screen.width - 9;
+					intHeight=1;
+					intWidth=1;
+				}
+				else
+				{
+					
+					intTop=(window.screen.height / 2) - 109;
+					intLeft=(window.screen.width / 2) - 210;
+					intHeight=218;
+					intWidth=421;
+				}
+			
+				if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+				{
+					try
+					{
+						if( url.indexOf ('?') == -1 )
+							url = url + '?kurrentPageID=' + kurrentPageID;
+						else
+							url = url + '&kurrentPageID=' + kurrentPageID;
+					}
+					catch (oErr)
+					{ /* Do Nothing */ }
+				}
 			
 			
 			re = new RegExp();
@@ -84,7 +128,7 @@
 			strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
 			
 			
-				winWindow=window.open(url,name);
+				winWindow=window.open(url,name,strWinOptions);
 			
 			if (!winWindow)
 				alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
@@ -92,32 +136,65 @@
 				return winWindow;
 		}
 	</script>
-	<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
-<script type="text/javascript" language="JavaScript">
-<!-- //
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-// -->
-</script>
-<!-- --> </head><body onload="onLoadFinished();" lang="en" class="CS_Document"><script type="text/javascript" language="JavaScript">
+	<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body lang="en" class="CS_Document"><script type="text/javascript" language="JavaScript">
 document.CS_StaticURL = "http://prod.urban.org/";
 document.CS_DynamicURL = "http://prod.urban.org/";
-</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript" language="JavaScript"></script>
+</script><a name="__topdoc__"></a>
 	<script type="text/javascript" language="JavaScript">
 		function newWindow (name,url)
 		{
 			
 			externalLinkRegEx = /^https?:[\/\\]{2}/i;
 			
-				blnPopUpsOffScreen=0;
-				intTop=200;
-				intLeft=200;
-				intHeight=290;
-				intWidth=480;
+				cookieStr = document.cookie;
+				cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+				rxVal = /\d+/;
+				try
+				{
+					if (cookieStr && cookieStr.match(cookieWinRegEx))
+					{
+						strVal=cookieStr.match(cookieWinRegEx);
+						if (strVal)
+							blnPopUpsOffScreen=strVal.toString().match(rxVal);
+						else
+							bInPopUpsOffScreen = 0;
+					}
+					else
+						blnPopUpsOffScreen=0;
+				}
+				catch (oErr)
+				{
+					blnPopUpsOffScreen=0;
+				}
+				if(blnPopUpsOffScreen==1)
+				{
+					
+					intTop=window.screen.height - 9;
+					intLeft=window.screen.width - 9;
+					intHeight=1;
+					intWidth=1;
+				}
+				else
+				{
+					
+					intTop=(window.screen.height / 2) - 109;
+					intLeft=(window.screen.width / 2) - 210;
+					intHeight=218;
+					intWidth=421;
+				}
+			
+				if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+				{
+					try
+					{
+						if( url.indexOf ('?') == -1 )
+							url = url + '?kurrentPageID=' + kurrentPageID;
+						else
+							url = url + '&kurrentPageID=' + kurrentPageID;
+					}
+					catch (oErr)
+					{ /* Do Nothing */ }
+				}
 			
 			
 			re = new RegExp();
@@ -171,7 +248,7 @@ document.CS_DynamicURL = "http://prod.urban.org/";
 			strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
 			
 			
-				winWindow=window.open(url,name);
+				winWindow=window.open(url,name,strWinOptions);
 			
 			if (!winWindow)
 				alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
@@ -179,7 +256,165 @@ document.CS_DynamicURL = "http://prod.urban.org/";
 				return winWindow;
 		}
 	</script>
-	<script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript" language="JavaScript"></script>
+	<script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+		
+				if (httpPos != -1)
+					targetLink = link.substr(httpPos);
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+		</script>
 	<script type="text/javascript" language="JavaScript">
 	function glblLinkHandler(lobj, attr, val)
 	{
@@ -269,7 +504,7 @@ function ImageSet(imgID,newTarget)
 <h1 class="off"><a href="/places/index.cfm">places</a></h1>
 </div></div></div><!-- --><div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3365"></div></div><!-- --><div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3366"><div class="CS_Element_Textblock">
 <h1 class="off"><a href="/people/index.cfm">people</a></h1>
-</div></div></div><!-- --><div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3367"></div></div><!-- --><div class="CS_Element_Image"><a href="/about/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--4','/images/about_ui_2.gif'); return true;" onmouseover=" setStatbar('/about/index.cfm'); ImageSet('AIID--4','/images/about_ui_ro_2.gif'); return true;"><img name="AIID--4" src="/images/about_ui_2.gif" border="0" vspace="4" class="CS_Image_IMG" width="174" height="35" alt="About UI" title="About UI"></a></div><!-- -->
+</div></div></div><!-- --><div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3367"></div></div><!-- --><div class="CS_Element_Image"><a href="/about/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--4','/images/about_ui_2.gif'); return true;" onmouseover=" setStatbar('/about/index.cfm'); ImageSet('AIID--4','/images/about_ui_ro_2.gif'); return true;"><img name="AIID--4" src="/images/about_ui_2.gif" border="0" style="margin-top:4px;margin-bottom:4px" class="CS_Image_IMG" width="174" height="35" alt="About UI" title="About UI"></a></div><!-- -->
 	<div class="holder">
 		<div class="chief_partdeux">
 <div class="CS_Element_Layout"><table id="idLayout1208" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell1208x1x1" class="CS_Layout_TD"><div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_1213"><div class="CS_Element_LinkBar"><div class="section"><div class="on"><a href="/about/index.cfm">About UI</a></div>
@@ -305,7 +540,7 @@ function ImageSet(imgID,newTarget)
 								<tbody><tr>
 									<td>
 									<form action="/about/emaildocument.cfm" method="POST" name="EmailToForm">
-									<input type="hidden" name="pagefrom" value="http://www.urbaninstitute.org/about/privacy.cfm">
+									<input type="hidden" name="pagefrom" value="http://urbaninstitute.org/about/privacy.cfm">
 									<input type="hidden" name="title" value="Privacy">
 									<input type="hidden" name="desc" value="Privacy">
 									<a href="javascript:document.EmailToForm.pagefrom.value=document.EmailToForm.pagefrom.value+'?'+document.getElementById('renderforprintvars').value;document.EmailToForm.submit();"><img src="/images/button_email2.gif" width="99" height="22" alt="Email this Page"></a>
@@ -320,17 +555,18 @@ function ImageSet(imgID,newTarget)
 						</div>
 					</td>
 					<td class="column_right">
-<div class="CS_Element_Image"><a href="/center/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/center/index.cfm'); return true;"><img src="/images/columnHeader_policyCenters_1.gif" border="0" vspace="16" class="CS_Image_IMG" width="170" height="40" alt="Policy Centers" title="Policy Centers"></a></div><!-- --><div class="CS_Element_Image"><a href="/center/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--5','/images/policy_center_7_2.gif'); return true;" onmouseover=" setStatbar('/center/index.cfm'); ImageSet('AIID--5','/images/policy_center_ro_3_2.gif'); return true;"><img name="AIID--5" src="/images/policy_center_7_2.gif" border="0" class="CS_Image_IMG" width="169" height="30" alt="see list of UI policy centers" title="see list of UI policy centers"></a></div><!-- --><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><span class="smallerwhite">ten centers focus on critical research areas</span></div></div><!-- --><div class="CS_Element_Image"><a href="http://www.taxpolicycenter.org/" onclick="javascript:doWindowOpen('http://www.taxpolicycenter.org/','NewWindow','top=10,left=10,width=860,height=700,toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1');return false;" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--6','/images/urban_brookings.gif'); return true;" onmouseover=" setStatbar(' '); ImageSet('AIID--6','/images/urban_brookings_ro.gif'); return true;"><img name="AIID--6" src="/images/urban_brookings.gif" border="0" class="CS_Image_IMG" width="169" height="48" alt="Urban Brookings Tax Policy Center" title="Urban Brookings Tax Policy Center"></a></div><!-- --><div class="CS_Element_Image"><a href="http://www.uipress.org" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--7','/images/books_1.gif'); return true;" onmouseover=" setStatbar('http://www.uipress.org'); ImageSet('AIID--7','/images/books_ro_1.gif'); return true;"><img name="AIID--7" src="/images/books_1.gif" border="0" class="CS_Image_IMG" width="170" height="35" alt="Bookstore" title="Bookstore"></a></div><!-- -->
+<div class="CS_Element_Image"></div><!-- --><div class="CS_Element_Image"><a href="/center/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--5','/images/policy_center_7_2.gif'); return true;" onmouseover=" setStatbar('/center/index.cfm'); ImageSet('AIID--5','/images/policy_center_ro_3_2.gif'); return true;"><img name="AIID--5" src="/images/policy_center_7_2.gif" border="0" class="CS_Image_IMG" width="169" height="30" alt="see list of UI policy centers" title="see list of UI policy centers"></a></div><!-- --><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><div class="smallerwhite">ten centers focus on critical research areas</div></div></div><!-- --><div class="CS_Element_Image"><a href="http://www.taxpolicycenter.org/" onclick="javascript:doWindowOpen('http://www.taxpolicycenter.org/','NewWindow','top=10,left=10,width=860,height=700,toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1');return false;" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--6','/images/urban_brookings.gif'); return true;" onmouseover=" setStatbar(' '); ImageSet('AIID--6','/images/urban_brookings_ro.gif'); return true;"><img name="AIID--6" src="/images/urban_brookings.gif" border="0" class="CS_Image_IMG" width="169" height="48" alt="Urban Brookings Tax Policy Center" title="Urban Brookings Tax Policy Center"></a></div><!-- --><div class="CS_Element_Image"><a href="http://www.uipress.org" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--7','/images/books_1.gif'); return true;" onmouseover=" setStatbar('http://www.uipress.org'); ImageSet('AIID--7','/images/books_ro_1.gif'); return true;"><img name="AIID--7" src="/images/books_1.gif" border="0" class="CS_Image_IMG" width="170" height="35" alt="Bookstore" title="Bookstore"></a></div><!-- -->
 						<div id="column_bookstore">
-<div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_834"><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><h1 style="font-size: 1em;"><img src="/images/childrenwithdisabilities_sm.jpg" alt="children with disabilities" align="right" border="0" height="113" hspace="5" vspace="5" width="75"></h1><h1 style="font-size: 1em;"><a class="CP___PAGEID_25362 CP___PAGEID_22612" href="/books/childrenwithdisabilities/index.cfm">Meeting the Needs of Children with Disabilities</a></h1><p style="font-size: 9px;">by:</p><p style="font-size: 9px;">Laudan Aron and Pamela Loprest</p></div></div></div></div><!-- --><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><img alt=">" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a href="http://www.uipress.org/">more titles from UI Press</a></div></div><!-- -->
+<div class="CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Sched_922_834"><div class="CS_Element_Textblock">
+<div class="CS_Textblock_Text"><p><a onmouseover="return window.status='/books/nonprofit_almanac/index.cfm'" href="/books/nonprofit_almanac/index.cfm" class="CP___PAGEID_29109"><img src="/images/NonprofitAlmanac08.gif" class="CP___PAGEID_29109" alt="Nonprofit Almanac 2008 cover" align="right" border="0" height="113" hspace="5" vspace="5" width="75"></a><a href="/books/nonprofit_almanac/index.cfm" class="CP___PAGEID_29109">Nonprofit Almanac 2008<br></a></p><p>by<br>Kennard T. Wing, Thomas H. Pollak, and Amy Blackwood</p></div><!-- --></div></div></div><!-- --><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><p><img alt=">" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a href="http://www.uipress.org/">more titles from UI Press</a></p></div></div><!-- -->
 						</div>
 <div class="CS_Element_Image"><a href="/toolkit/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--8','/images/research_toolkit_2.gif'); return true;" onmouseover=" setStatbar('/toolkit/index.cfm'); ImageSet('AIID--8','/images/research_toolkit_ro_2.gif'); return true;"><img name="AIID--8" src="/images/research_toolkit_2.gif" border="0" class="CS_Image_IMG" width="170" height="50" alt="Toolkit" title="Toolkit"></a></div><!-- -->
 						<div id="column_toolkit">
-<div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><ul><li><a id="CP___PAGEID=4396,Decoder.cfm,91|" href="/toolkit/Decoder.cfm">Policy Jargon Decoder</a> </li><li><a id="CP___PAGEID=7780,data.cfm,133|" onmouseover="" onmouseout="" href="/Pressroom/data.cfm">Fact Sheets:</a> data at a glance </li><li><a id="CP___PAGEID=2488,index.cfm,102|" href="/toolkit/issues/index.cfm">Issues in Focus:</a> facts and findings on key issues </li><li><a id="CP___PAGEID=5136,index.cfm,113|" href="/toolkit/data-methods/index.cfm">Data Methods</a> </li><li><a id="CP___PAGEID=7847,storyboards.cfm,133|" onmouseover="" onmouseout="" href="/Pressroom/storyboards.cfm">Reporter Storyboards</a> </li><li><a id="CP___PAGEID=1105,index.cfm,92|" onmouseover="" onmouseout="" href="/toolkit/databases/index.cfm">UI Databases:</a> justice and charitable statistics, transfer income model, family data and more<br></li></ul></div></div><!-- --><div class="CS_Element_Textblock"></div><!-- -->
+<div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><ul><li><a class="CP___PAGEID_4396" href="/toolkit/Decoder.cfm">Policy Jargon Decoder</a></li><li><a class="CP___PAGEID_7780" onmouseover="" onmouseout="" href="/Pressroom/data.cfm">Fact Sheets:</a> data at a glance</li><li><a class="CP___PAGEID_2488" href="/toolkit/issues/index.cfm">Issues in Focus:</a> facts and findings on key issues</li><li><a class="CP___PAGEID_5136" href="/toolkit/data-methods/index.cfm">Data Methods</a></li><li><a class="CP___PAGEID_1105" onmouseover="" onmouseout="" href="/toolkit/databases/index.cfm">UI Databases:</a> justice and charitable statistics, transfer income model, family data and more<br></li></ul></div></div><!-- --><div class="CS_Element_Textblock"></div><!-- -->
 						</div>
 <div class="CS_Element_Image"><a href="/about/signup.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--9','/images/updates_header_2.gif'); return true;" onmouseover=" setStatbar('/about/signup.cfm'); ImageSet('AIID--9','/images/updates_header_on_2.gif'); return true;"><img name="AIID--9" src="/images/updates_header_2.gif" border="0" class="CS_Image_IMG" width="170" height="43" alt="get newsletters" title="get newsletters"></a></div><!-- -->
 						<div id="column_newsletters">
-<div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><p>Get the latest UI news on the topics of your choice.</p><p><a id="CP___PAGEID=3433,UIRSS.cfm,83|" onmouseover="" onmouseout="" href="/about/UIRSS.cfm"><img id="||CPIMAGE:23410|" height="7" alt="what is RSS? find out here" hspace="0" src="/images/blue-arrow.gif" width="7" border="0"> get the <span style="FONT-WEIGHT: bold; COLOR: rgb(255,255,255); BACKGROUND-COLOR: rgb(204,102,51)">RSS</span> feed</a></p><p><a id="CP___PAGEID=1114,signup.cfm,83|" href="/about/signup.cfm"><img id="||CPIMAGE:23410|" height="7" alt=">" hspace="0" src="/images/blue-arrow.gif" width="7" border="0"> subscribe to e-mail newsletters</a></p></div></div><!-- -->
+<div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><p>Get the latest UI news on the topics of your choice.</p><p><img alt="what is RSS? find out here" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a class="CP___PAGEID_3433" onmouseover="" onmouseout="" href="/about/UIRSS.cfm"><span style="font-weight: bold; color: rgb(255, 255, 255); background-color: rgb(204, 102, 51);">RSS</span> feed</a></p><p><img alt=">" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a class="CP___PAGEID_1114" href="/about/signup.cfm">e-mail newsletters</a></p><p><img alt=">" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a class="CP___PAGEID_16744" href="/podcasts/index.cfm">podcasts</a></p></div></div><!-- -->
 						</div>
 					</td>
 				</tr>
@@ -339,7 +575,7 @@ function ImageSet(imgID,newTarget)
 	</tr>
 </tbody></table>
 <div id="footer">
-<div class="CS_Element_LinkBar"><span class="CS_LinkBar_CurrentItem">© 2007 Urban Institute</span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/contact.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/contact.cfm');return true;">Contact Us</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy Policy</a></div><!-- -->
+<div class="CS_Element_LinkBar"><span class="CS_LinkBar_CurrentItem">© 2008 Urban Institute</span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/contact.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/contact.cfm');return true;">Contact Us</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy Policy</a></div><!-- -->
 </div>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -348,4 +584,4 @@ function ImageSet(imgID,newTarget)
 _uacct = "UA-392952-1";
 urchinTracker();
 </script>
-<!-- --><div style="display:block; clear:left; padding:10px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+<div style="display:block; clear:left; padding:10px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
