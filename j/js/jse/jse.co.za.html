@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jse.co.za privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217004559id_/http%3A//www.jse.co.za/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jse.co.za privacy policy that was archived on 2008-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624201912id_/http%3A//www.jse.co.za/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -91,11 +91,11 @@
 
 
 <div id="branding">
-	<a href="index.jsp">
-		<img src="http://www.jse.co.za/common/gfx/headers/jse1a.jpg" alt="JSE" border="0">
+	<a href="beginners_guide.jsp">
+		<img src="http://www.jse.co.za/common/gfx/headers/jse4a.jpg" alt="JSE" border="0">
 	</a>
 </div>
-<div id="login" style="background:#425f73 url('http://www.jse.co.za/common/gfx/headers/jse1b.jpg') no-repeat;">
+<div id="login" style="background:#425f73 url('http://www.jse.co.za/common/gfx/headers/jse4b.jpg') no-repeat;">
 
 
 
@@ -112,7 +112,19 @@
 <div id="ticker"> <img src="http://www.jse.co.za/common/gfx/ticker.jpg" width="776" height="28" alt="ticker"> </div>
 
     <!-- Service Navigation Include -->
-    <div id="service">  <div id="quicklinks">      <form name="qlink" id="qlink">  <select name="quickLinksMenu" onchange="quick_links('parent',this,0)"> 	<option value="javascript:;">Quicklinks</option> 	<option value="jse">JSE</option>        <option value="ir">Investor Relations</option>        <option value="altx">AltX</option>        <option value="cdo">Can Do Options</option>	<option value="ftsejse">FTSE/JSE</option>        <option value="fdd">Safex ED</option>        <option value="apd">Safex Agric</option>	<option value="ssf">Single Stock Futures</option>        <option value="sri">SRI Index</option>        <option value="talx">TalX</option>	<option value="yieldx">Yield-X</option>	</select></form>  </div>  <a href="glossary.jsp">Glossary</a> | <a href="contact.jsp">Contact</a> | <a href="faq.jsp">FAQ</a> | <a href="find_us.jsp">How to find Us</a></div> 
+    <div id="service">  <div id="quicklinks">      
+<form name="qlink" id="qlink">  
+<select name="quickLinksMenu" onchange="window.location.href=quickLinksMenu.options[quickLinksMenu.selectedIndex].value">
+	<option value="javascript:;">Quicklinks</option> 	
+    <option value="jse_general.jsp">Media Releases</option>        
+	<option value="http://webapps.jse.co.za/brokerlookup/lookup/search.htm">Broker Links</option>				    <option value="hr_careers.jsp">Graduate Programme</option>        
+    <option value="http://www.jse.co.za/hr_careers.jsp">Market Statistics</option>        
+	<option value="beginners_guide.jsp">How to Invest</option>        
+    <option value="docs/listings/guidelines.pdf">How to List (pdf)</option>        
+</select>
+</form>  
+</div>  
+<a href="glossary.jsp">Glossary</a> | <a href="contact.jsp">Contact</a> | <a href="faq.jsp">FAQ</a> | <a href="find_us.jsp">How to find Us</a></div> 
 
     <!-- Search Include -->
     <div id="search">
@@ -124,16 +136,11 @@
 </div>
 
     <!-- Main Navigation Include -->
-    <style type="text/css">
-<!--
-.style1 {color: #FFFFFF}
--->
-</style>
-<div id="left">
+    <div id="left">
   <div id="mainnav">
     <!-- LEFT NAVIGATION START -->
-    <ul id="menu">
-      <li><a class="nolink">About the JSE</a>
+	<ul id="menu">	
+		      <li><a class="nolink">About the JSE</a>
         <ul>
           <li><a href="companyoverview.jsp">Company Overview</a></li>
           <li><a href="chairmanceo.jsp">Chairman &amp; CEO Statement</a></li>
@@ -143,19 +150,15 @@
             <ul>
               <li><a href="asea.jsp">ASEA</a></li>
               <li><a href="cosse.jsp">Cosse</a></li>
+			  <li><a href="nepad.jsp">Nepad</a></li>
+			  <li><a href="wef.jsp">WEF</a></li>
               <li><a href="wfe.jsp">WFE</a></li>
             </ul>
           </li>
           <li><a href="calendar.jsp">JSE Calendar</a></li>
-          <li><a href="#">Newsroom
-            </a>
+          <li><a href="newsroom.jsp">Newsroom</a>
             <ul>
-              <li><a href="#" class="nolink">Press Releases</a>
-                <ul>
-                  <li><a href="jse_general.jsp">JSE </a></li>
-                </ul>
-              </li>
-              <li><a href="#" class="nolink">Publications</a>
+              <li><a href="publications.jsp">Publications</a>
                 <ul>
                   <li><a href="xbrl_financial.jsp">XBRL Financial Results</a></li>
                   <li><a href="xbrl_taxonomy.jsp">XBRL - SA Taxonomy</a></li>
@@ -164,30 +167,28 @@
               </li>
             </ul>
           </li>
-          <li><a href="#">Human Resources 
-            </a>
+          <li><a href="#">Careers</a>
             <ul>
-              <li><a href="cultures_hr.jsp" class="nolink">Our Culture </a></li>
-              <li><a href="hr_careers.jsp" class="nolink">Careers</a></li>
-            </ul>
+              <li><a href="cultures_hr.jsp" class="nolink">Our Culture</a></li>
+              <li><a href="hr_careers.jsp" class="nolink">Graduate Recruitment Programme</a></li>
+			  <li><a href="hr_vacancies.jsp" calss="nolink">Vacancies</a></li>
+	       </ul>
         </li></ul>
       </li>	 
 	  <li><a class="nolink">Products &amp; Services</a>
         <ul>
-          <li><a>Information Products</a>
+          <li><a>Information Products Sales</a>
             <ul>
               <li><a href="info_prod_overview.jsp">Overview</a></li>
-              <li><a href="#">Whats New's
-                </a>
+              <li><a href="#">What's New</a>
                 <ul>
-                  <li><a href="new_products.jsp">Products</a></li>
-                  <li><a href="new_projects.jsp">Projects </a>  </li>
+                  <li><a href="new_prods.jsp">Products</a></li>
+                  <li><a href="new_projects.jsp">Projects</a>  </li>
                 </ul>
               </li>
-              <li><a href="data_vendors.jsp">JSE Data Distributors </a></li>
-              <li><a href="products.jsp">Subscription Documentation </a></li>
+              <li><a href="dd_data_vendors.jsp">JSE Data Distributors</a></li>
+              <li><a href="products.jsp">Subscription Documentation</a></li>
               <li><a href="presentations.jsp">Presentations</a></li>
-              <li><a href="lp_brochures.jsp">Brochures </a></li>
               <li><a href="faq.jsp">FAQ</a></li>
               <li><a href="ps_contact.jsp">Contact Us</a></li>
             </ul>
@@ -210,7 +211,7 @@
 			</li><li><a class="nolink">STP</a>
               <ul>
                 <li><a href="stp_introduction.jsp">Introduction</a></li>
-                <li><a href="stp.jsp">STP Information </a></li>
+                <li><a href="stp.jsp">STP Information</a></li>
                 <li><a href="stp_stats.jsp">Statistics</a></li>
                 <li><a href="stp_contacts.jsp">Contacts</a></li>
               </ul>
@@ -232,7 +233,7 @@
               <li><a href="isins_money.jsp">Money Market ISINs</a></li>
             </ul>
           </li>
-          <li><a class="nolink">Moving to T+3 </a>
+          <li><a class="nolink">Moving to T+3</a>
             <ul>
               <li><a href="t3_introduction.jsp">Introduction</a></li>
                       <li><a href="t3_documentation.jsp">Documentation</a></li>
@@ -249,7 +250,8 @@
                       <li><a href="compliance_ac500.jsp">Compliance with the AC 500 Series of Standards</a></li>
                       <li><a href="ifrs.jsp">IFRS from 01/01/05</a></li>
                       <li><a href="pro_forma.jsp">Pro Forma Financial Effects and New Accounting Standards</a></li>
-                      <li><a href="paragraph_428.jsp">Paragraph 4.28(d)(i)</a></li>
+					  <li><a href="paragraph_428.jsp">Paragraph 4.28(d)(i)</a></li>
+                      <li><a href="paragraph_13.20.jsp">Paragraph 13.20(c)</a></li>
                       <li><a href="approved_sponsors.jsp">Approved Sponsors</a></li>
                       <li><a href="competent_persons.jsp">Competent Persons Report</a></li>
                       <li><a href="listing_checklists.jsp">Checklists</a></li>
@@ -260,49 +262,38 @@
               </li>
             </ul>
           </li>
-          <li><a href="finance_price_list.jsp">Finance  </a></li>
+          <li><a href="finance_price_list.jsp">Trading &amp; Service Prices </a></li>
+          <li><a href="isins.jsp">ISIN Data</a></li>
+          <li><a href="corporate_actions.jsp">Corporate Actions</a></li>
+          
         </ul>
       </li>
-      <li><a class="nolink">SENS</a>
-        <ul>
-          <li><a href="logon_sens.jsp">SENS Logon &amp; Registration </a></li>
-          <li><a href="summary_sens.jsp">Summary of  Requirements</a></li>
-          <li><a href="presentation_sens.jsp">Format of Announcements </a></li>
-          <li><a href="hardware_sens.jsp">Hardware Requirements  </a></li>
-          <li><a href="http://fin.jse.co.za/findata/index.asp">SENS Announcements </a></li>
-          <li><a href="sens_financial_results.jsp">Listed Company   Financial Results</a></li>
-        </ul>
-      </li>
-      <li><a class="nolink">Education</a>
+      <li><a class="nolink">How to Invest</a>
         <ul>
           <li><a href="beginners_guide.jsp">Beginners Guide to the JSE</a></li>
-          <li><a href="guideline_to_listing.jsp">Guideline to Listing on the JSE</a></li>
           <li><a href="understanding_warrants.jsp">Understanding Warrants</a></li>
           <li><a href="brochures.jsp">Brochure</a></li>
           <li><a href="http://schools.jse.co.za/">JSE/Liberty Schools Challenge</a></li>
           <li><a href="http://university.jse.co.za/">JSE/Liberty Universities Challenge</a></li>
-          <li><a href="adopt_a_school.jsp">Adopt a School Sponsors </a></li>
+          <li><a href="adopt_a_school.jsp">Adopt a School Sponsors</a></li>
         </ul>
       </li>
-      <li><a href="membership.jsp" class="nolink">Membership</a></li>
-      <li><a class="nolink">Downloads</a>
-        <ul>
-          <li><a href="isins.jsp">ISIN Data</a></li>
-          <li><a href="corporate_actions.jsp">Corporate Actions</a></li>
-        </ul>
+      <li><a class="nolink">How to List</a><ul><li><a href="guideline_to_listing.jsp">Guideline to Listing on the JSE</a></li>
+          <li><a href="listing_requirements.jsp">Listing Requirements</a></li>
+          <li><a href="docs/magazine/How_to_list.pdf">Educational Pullouts - How to List</a></li>
+          <li><a href="http://www.altx.co.za/listing_requirements.jsp">AltX listing Requirements</a></li>
+          <li><a href="http://www.yieldx.co.za/listing_requirements.aspx">Listing a Bond</a></li>
+
+          </ul>
       </li>
-      <li><a href="links.jsp">Links</a></li>
-	   <li><a class="nolink">JSE Initiatives</a>
-	     <ul>
-           <li><a href="jse_tis.jsp">JSE Trading &amp; Information Systems</a></li>
-         </ul>
-	   </li><li><a href="listed_companies.jsp">Listed Companies</a>
+      <li><a href="listed_companies.jsp">Listed Companies</a>
 	   <ul>
 	   <li><a href="main_board_market.jsp">Main Board Market</a></li>
 	   <li><a href="trsec.jsp">Transfer Secretaries</a></li>
 	   <li><a href="dual_listed.jsp">Dual Listed Company Info</a></li>
+	   <li><a href="http://www.altx.co.za/listedcompanies/browse/search.htm">AltX Market</a></li>
 	   </ul>
-	   </li>
+      </li>
       <li><a href="locate_broker.jsp">Locate a broker</a></li>
 	   <li><a class="nolink">Regulatory Environment</a>
 	       <ul>
@@ -318,24 +309,73 @@
                   </li>
                   <li><a href="listing_requirements.jsp">Listing Requirements</a> </li>
 				   <li><a href="jse_compliance_forum.jsp">JSE Compliance Forum</a> </li>
-                   <li><a class="nolink">Examination Syllabi</a>
-                        <ul>
-                          <li><a href="compliance_officer_exam.jsp">JSE Equities Compliance Officers Examination</a></li>
-                          <li><a href="settlement_exam.jsp">JSE Equities Settlement Officers Examination</a></li>
-                        </ul>
+             <li><a class="nolink">Examination Syllabi</a>
+                  <ul>
+                    <li><a href="compliance_officer_exam.jsp">JSE Equities Compliance Officers Examination</a></li>
+                    <li><a href="settlement_exam.jsp">JSE Equities Settlement Officers Examination</a></li>
+                  </ul>
                   </li>
-          </ul>
+                   </ul>
       </li>
-       <li><a href="http://extranet.jse.co.za">Extranet<br>       (Restricted Access)</a></li>
-       <li><a href="project_orion2.jsp">Project Orion </a></li>
-      <li><a class="nolink">JSE Magazine</a>
+       <li><a class="nolink">Media</a>
+	     <ul>
+           <li><a href="jse_general.jsp">Media Releases</a> </li>
+	     </ul>
+	   
+	   
+	   
+	   </li>
+	   
+       <li><a href="http://extranet.jse.co.za">Extranet<br>       
+       (Restricted Access)</a></li>
+      <li><a href="http://www.jseshowcase.co.za/" target="_blank">JSE Companies Showcase Presentations</a></li>
+       <li><a class="nolink">Publications</a>
+	     <ul>
+           <li><a href="weekly_stats.jsp">Weekly Stats</a> </li>
+		   <li><a href="ranking_reports.jsp">Ranking Reports</a> </li>
+           <li><a href="annual_reports.jsp">Annual Reports</a> </li>
+           <li><a class="nolink">JSE Magazine</a>
+             <ul>
+               <li><a href="magazine.jsp">About JSE Magazine</a></li>
+               <li><a href="magazine_pullouts.jsp">Educational Pullouts</a></li>
+             </ul>
+           </li>
+		   <li><a href="monthly_bulletin.jsp">Monthly Bulletin</a></li>
+	     </ul>
+	   </li>
+	    <li><a class="nolink">Downloads</a>
+         <ul>
+           <li><a href="corporate_actions.jsp">Corporate Actions</a> </li>
+         </ul>
+        </li>
+	        <li><a class="nolink">Company Announcements/SENS</a>
         <ul>
-          <li><a href="magazine.jsp">About JSE Magazine </a></li>
-          <li><a href="magazine_pullouts.jsp">Educational Pullouts</a></li>
+          <li><a href="logon_sens.jsp">SENS Logon &amp; Registration</a></li>
+          <li><a href="summary_sens.jsp">Summary of  Requirements</a></li>
+          <li><a href="presentation_sens.jsp">Format of Announcements</a></li>
+          <li><a href="hardware_sens.jsp">Hardware Requirements </a></li>
+          <li><a href="http://fin.jse.co.za/findata/index.asp">SENS Announcements</a></li>
+          <li><a href="sens_financial_results.jsp">Listed Company Financial Results</a></li>
         </ul>
       </li>
-       <li><a href="http://www.jseshowcase.co.za/" target="_blank">JSE Companies Showcase Presentations </a></li>
-    </ul>
+
+       		<li><a class="nolink">Technical Library</a>
+	   	<ul>
+			<li><a href="jse_tis.jsp">JSE Trading &amp; Information Systems</a></li>
+	   		<li><a href="technology_upgrade.jsp">Technology Upgrade</a></li>
+		</ul>
+	   		</li>
+			
+			<li><a class="nolink">Projects</a>
+	   	<ul>
+			<li><a href="project_orion2.jsp">New Derivative System Replacement</a></li>
+		</ul>
+	   		</li>
+			
+	   <li><a href="links.jsp">Links</a> </li>
+	   <li><a href="sitemap.jsp">Site Map</a> </li>
+   
+	</ul>
     <script type="text/javascript">
 initMenu();
 </script>
@@ -349,7 +389,6 @@ initMenu();
         <dd><a href="#" onclick=" window.print(); return false"><img src="gfx/print.gif" alt="" width="19" height="20" border="0">Print this page</a> </dd>
         <dd><a href="javascript:createETFForm()"><img src="gfx/email.gif" alt="" width="19" height="20" border="0">Email to a friend</a></dd>
         <dd><a href="javascript:bookmark(location.href,'JSE Limited')"><img src="gfx/bookmark.gif" alt="" width="19" height="20" border="0">Bookmark this page</a></dd>
-        <dt><a href="http://womensnet.org.za/16Days/" target="_blank"></a></dt>
       </dl>
       <div class="clear"></div>
     </div>
