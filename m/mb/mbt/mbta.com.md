@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044606id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624221428id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
 
 # MBTA > Customer Support > Privacy Policy
 
@@ -218,45 +218,45 @@ Back to Top
 
 ### 16\. Definitions
 
->  **16.1.** "Aggregate Information" is defined in section 3 of this Policy.
+> **16.1.** "Aggregate Information" is defined in section 3 of this Policy.
 > 
->  **16.2.** "Authorized Vendor" are vendors working with the MBTA in order to help facilitate your use of the Corporate Pass Program.
+> **16.2.** "Authorized Vendor" are vendors working with the MBTA in order to help facilitate your use of the Corporate Pass Program.
 > 
->  **16.3.** "Autoload" or "autoload" is a program whereby the MBTA (i) automatically charges your credit or debit card at your request and (ii) loads those funds to your Electronic Fare Media.
+> **16.3.** "Autoload" or "autoload" is a program whereby the MBTA (i) automatically charges your credit or debit card at your request and (ii) loads those funds to your Electronic Fare Media.
 > 
->  **16.4.** "Automated Fare Collection" or "AFC" means the platform of systems, equipment (fare vending machines, fareboxes, fare gates), back office hardware, and software for the MBTA's fare collection activities. This system includes Electronic Fare media, electronic ticketing, electronic fare collection, and customer service activities.
+> **16.4.** "Automated Fare Collection" or "AFC" means the platform of systems, equipment (fare vending machines, fareboxes, fare gates), back office hardware, and software for the MBTA's fare collection activities. This system includes Electronic Fare media, electronic ticketing, electronic fare collection, and customer service activities.
 > 
->  **16.5.** "Data Subject" means the individual identified by the Personally Identifiable Information at issue.
+> **16.5.** "Data Subject" means the individual identified by the Personally Identifiable Information at issue.
 > 
->  **16.6.** "Electronic Fare Media" means a Smart Card or magnetic stripe ticket designed to be used by Customers to obtain MBTA transportation services.
+> **16.6.** "Electronic Fare Media" means a Smart Card or magnetic stripe ticket designed to be used by Customers to obtain MBTA transportation services.
 > 
->  **16.7.** "Managed Account" means an account for Electronic Fare Media that includes advanced service features such as recurring autoloads, electronic payments, and loss protection.
+> **16.7.** "Managed Account" means an account for Electronic Fare Media that includes advanced service features such as recurring autoloads, electronic payments, and loss protection.
 > 
->  **16.8.** "Electronic Fare Media Programs" mean MBTA administered programs dealing with customer purchase, registration, or use of Electronic Fare Media.
+> **16.8.** "Electronic Fare Media Programs" mean MBTA administered programs dealing with customer purchase, registration, or use of Electronic Fare Media.
 > 
->  **16.9.** "Personally Identifiable Information" is defined in Section 3 of this Policy.
+> **16.9.** "Personally Identifiable Information" is defined in Section 3 of this Policy.
 > 
->  **16.10.** "Personalized Webpage Service" or "Personalized Webpage" is defined in Section 4.8 of this Policy.
+> **16.10.** "Personalized Webpage Service" or "Personalized Webpage" is defined in Section 4.8 of this Policy.
 > 
->  **16.11.** "Reduced Fare Programs" shall mean Electronic Fare Media Programs at reduced rates provided to senior citizens, persons with disabilities, and blind persons.
+> **16.11.** "Reduced Fare Programs" shall mean Electronic Fare Media Programs at reduced rates provided to senior citizens, persons with disabilities, and blind persons.
 > 
->  **16.12.** "Registered User" means an individual or entity that has registered a Smart Card with the MBTA.
+> **16.12.** "Registered User" means an individual or entity that has registered a Smart Card with the MBTA.
 > 
->  **16.13.** "Ridership Information" is defined in Section 9.1 of this Policy.
+> **16.13.** "Ridership Information" is defined in Section 9.1 of this Policy.
 > 
->  **16.14.** "Search-Term Recall" means the feature on our Website that retains in memory the most recent terms you used in conducting searches of our site. This Search-Term Recall feature relies on cookies, as further described in Section 4.10 of this Policy.
+> **16.14.** "Search-Term Recall" means the feature on our Website that retains in memory the most recent terms you used in conducting searches of our site. This Search-Term Recall feature relies on cookies, as further described in Section 4.10 of this Policy.
 > 
->  **16.15.** "Smart Card" means the magnetic stripe ticket used to identify users of the MBTA and to provide them with certain services that we offer.
+> **16.15.** "Smart Card" means the magnetic stripe ticket used to identify users of the MBTA and to provide them with certain services that we offer.
 > 
->  **16.16.** "T-Service Alert Program" is defined in Section 4.5 of this Policy.
+> **16.16.** "T-Service Alert Program" is defined in Section 4.5 of this Policy.
 > 
->  **16.17.** "Trip-Planning Services" means services that assist you in obtaining directions, locating maps, and obtaining other information to help you in locating your destination.
+> **16.17.** "Trip-Planning Services" means services that assist you in obtaining directions, locating maps, and obtaining other information to help you in locating your destination.
 > 
->  **16.18.** "You" and "your" refer to any person (i) who accesses this Site, (ii) who participates in an Electronic Fare Media Program or Website Services program, and (ii) whose Personally Identifiable Information is provided to the MBTA.
+> **16.18.** "You" and "your" refer to any person (i) who accesses this Site, (ii) who participates in an Electronic Fare Media Program or Website Services program, and (ii) whose Personally Identifiable Information is provided to the MBTA.
 > 
->  **16.19.** "We," "us," and "our" mean the MBTA.
+> **16.19.** "We," "us," and "our" mean the MBTA.
 > 
->  **16.20.** "Website Services" means the informational, educational, travel-related, or other services that we offer through our Website. The term "Website Services" includes our T-Service Alert Program, our Personalized Webpage Service, and our Trip-Planning Services.
+> **16.20.** "Website Services" means the informational, educational, travel-related, or other services that we offer through our Website. The term "Website Services" includes our T-Service Alert Program, our Personalized Webpage Service, and our Trip-Planning Services.
 
 Back to Top
 
@@ -298,7 +298,7 @@ Back to Top
 
 ### 18\. Contact Us
 
-We welcome your feedback or suggestions, please contact us at [privacypolicy@mbta.com](mailto:privacypolicy@mbta.com)
+Please provide any feedback to the Privacy Policy on our [customer comment form](https://web.archive.org/customer_support/feedback/default.asp "customer comment form").
 
 ### 19\. Complete Agreement.
 
