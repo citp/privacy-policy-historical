@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the fashion-networks.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223093751id_/http%3A//www.fashion-networks.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion-networks.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625014051id_/http%3A//www.fashion-networks.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Fashion Networks - Terms and Conditions
 
 **  
-Last Updated: August 26th, 2007**
+Last Updated: February 29th, 2008**
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
 • We will never rent or sell your personally identifiable information to third parties for marketing purposes   
 • We will never share your contact information with another user, without your consent.   
-• Any sensitive information that you provide will be secured with all industry standard protocols and technology 
+• Any sensitive information that you provide will be secured with all industry standard protocols and technology 
 
-Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the Fashion Networks service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices  
+Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the Fashion Networks service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.  
 The following explains in details all aspects related to the privacy policy:
 
-Fashion Networks is a venture of Reach Sewn Technologies & Consulting Private Limited. The mission of Fashion Networks is to enable individuals and organizations establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.fashion-networks.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by Reach Technologies.  
+The mission of Fashion Networks is to enable individuals and organizations establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.fashion-networks.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance.  
 If users have questions or concerns regarding this statement, you should first contact Fashion Networks by email at legalinfo@fashion-networks.com. 
 
 **Information Collection**
