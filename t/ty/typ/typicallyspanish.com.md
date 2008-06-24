@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110721id_/http%3A//www.typicallyspanish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624030447id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Typically Spanish.com
+# Typically Spanish Privacy Policy
+
+###  Typically Spanish Privacy Policy 
 
 * * *
 
@@ -74,7 +76,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
 
-  1. You can send email to [info@typicallyspanish.com](mailto:info@typicallyspanish.com)
+  1. You can send email to [info@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
 
 
 
@@ -82,13 +84,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [webmaster@typicallyspanish.com](mailto:webmaster@typicallyspanish.com)
+  1. You can send email to [webmaster@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ info@typicallyspanish.com](mailto:info@typicallyspanish.com)
-
-|  **Sponsored Results:**  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ info@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
