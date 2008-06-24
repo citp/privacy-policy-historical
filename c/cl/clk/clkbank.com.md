@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clkbank.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224151312id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clkbank.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624112527id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - ClickBank
+# Privacy Policy - ClickBank
 
 Click Sales Inc. (ClickBank) is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by ClickBank.
 
