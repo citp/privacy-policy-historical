@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniti.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219205239id_/http%3A//www.infiniti.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniti.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624082327id_/http%3A//www.infiniti.com/global/privacy.html) for the most accurate reproduction.*
 
 # Infiniti USA - Privacy Policy
 
@@ -23,7 +23,11 @@ Infiniti also maintains standard web logs that record data about all visitors to
 
 Infiniti uses web log and clickstream information to help us design our site, to identify popular site features and to make the site more useful for visitors. Web logs are recorded in sequential files, and we normally do not attempt to identify individuals from these logs. However, we may use web logs to identify persons attempting to break into, disrupt, or damage our site. We may share web log information with law enforcement personnel if we believe evidence exists, or is likely to occur, of a violation of federal, state or local laws or regulations.
 
-Infiniti advertising at other non-Infiniti sites may be serviced by Infiniti service providers, who may use cookies to collect information about your visits to those sites. Information collected may include the pages visited, date and time, browser information and/or IP address. We normally make no attempt to link this information to you personally, except under circumstances described above. This information is gathered in order to help us customize and target our advertising to the needs and interests of our customers. If you wish to opt out of this tracking at our advertising at third party sites, please visit the site of our service provider, [Centrport](http://www.centrport.com/). Should you decide that you do not wish to participate in CentrPort-enabled information delivery, you can opt out from there, or by [clicking here](http://www.centrport.com/optxout.html).
+Infiniti advertising at other non-Infiniti sites may be serviced by Infiniti service providers, who may use cookies to collect information about your visits to those sites. Information collected may include the pages visited, date and time, browser information and/or IP address. We normally make no attempt to link this information to you personally, except under circumstances described above. This information is gathered in order to help us customize and target our advertising to the needs and interests of our customers. If you wish to opt out of this tracking at our advertising at third party sites, please visit the following sites: 
+
+[Network Advertising](http://www.networkadvertising.org/managing/opt_out.asp)  
+[Factor TG](http://factortg.com/company/privacy.html)  
+[Omniture](http://www.112.2o7.net/optout.html)
 
 Users may choose to volunteer personal information (name, e-mail, address, phone number, etc.) in order for us to provide them with services such as brochure and information requests, surveys and contests, site announcements, and special offers at the time of the request or in the future.
 
