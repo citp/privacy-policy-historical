@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214220000id_/http%3A//www.site5.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041812id_/http%3A//www.site5.com/support/privacy.php) for the most accurate reproduction.*
 
 # Site5 General Purpose Privacy Policy
 
