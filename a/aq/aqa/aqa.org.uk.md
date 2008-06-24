@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218064940id_/http%3A//www.aqa.org.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624135820id_/http%3A//www.aqa.org.uk/privacy.php) for the most accurate reproduction.*
 
 # AQA Website Privacy Statement
 
@@ -60,7 +60,7 @@ AQA reserve the right to change this privacy and security policy at any time wit
   * **5\. Data Protection Act - requesting further information from AQA**
     * **5.1** The Assessment and Qualifications Alliance is Registered under the requirements of the Data Protection Act (1998) with the Information Commissioner's Office (Registration No PZ6944888). 
     * **5.2** If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'. 
-    * **5.3** You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA is obliged to obtain that information and share it with you within 40 days. 
+    * **5.3** You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA is obliged to obtain that information and share it with you within 40 days. AQA will formally accept a disclosure request upon receipt of (a) the formal request (b) the fee and (c) where the request is made on behalf of a data subject (for example a parent or guardian initiating a request on behalf of a child), confirmation from the data subject that the adult in question is acting on their behalf. If you submit your request by email to an existing contact you will still need to send the fee before the process can proceed.
     * **5.4** You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you. 
     * **5.5** You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to AQA's Data Protection Compliance Officer Mr P G Dawson, Director of Information & Communications Technology, AQA, Devas Street, Manchester, M15 6EX. 
   * **6\. Payment**
