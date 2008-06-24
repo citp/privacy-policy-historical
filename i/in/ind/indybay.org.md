@@ -1,55 +1,8 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051151id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624134913id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
-[](https://web.archive.org/news/2003/12/1665904.php)
-
-$90.00 donated in past month
-
-  
-**africa**
-
-  
-**canada**
-
-  
-**east asia**
-
-  
-**europe**
-
-  
-**latin america**
-
-  
-**oceania**
-
-  
-**south asia**
-
-  
-**united states**
-
-  
-**west asia**
-
-  
-**process**
-
-  
-**projects**
-
-  
-**regions**
-
-  
-**topics**
-
-| 
-
-### [Indymedia](https://web.archive.org/indymedia)
-
-> ### Privacy Policy
+### Privacy Policy
 
 The SF Bay Area IMC intends to give you the user as much control as possible over your personal information. We will let each user know how we will use the personal information derived from each user's access to and use of the web site services.
 
