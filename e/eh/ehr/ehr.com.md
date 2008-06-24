@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222073739id_/http%3A//www.ehr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625011430id_/http%3A//www.ehr.com/privacy) for the most accurate reproduction.*
 
 # Watson Wyatt Global - Our Firm | Privacy Policy
 
