@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decameron.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227004610id_/http%3A//www.decameron.com/Eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decameron.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624104658id_/http%3A//www.decameron.com/Eng/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of the Decameron All Inclusive Hotels & Resorts
 
