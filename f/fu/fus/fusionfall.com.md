@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fusionfall.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221010209id_/http%3A//www.fusionfall.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionfall.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624082155id_/http%3A//www.fusionfall.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cartoon Network Universe: FusionFall
 
 |  | 
 
-For a printer friendly version, [click here.](https://web.archive.org/web/20071221010209id_/http%3A//www.fusionfall.com/legal/privacy_print.html)
+For a printer friendly version, [click here.](https://web.archive.org/web/20080624082155id_/http%3A//www.fusionfall.com/legal/privacy_print.html)
 
 Thank you for visiting Cartoon Network. Your privacy is important to us. To better protect your privacy, and to help ensure a rewarding online experience for all visitors, we provide this Privacy Statement summarizing our online information practices and explaining the choices you can make about the way your information is collected and used. This Privacy Statement applies only to personally identifiable information collected on Cartoon Network's Web sites where this Privacy Statement is posted (the "Sites") and does not apply to any other information collected by Cartoon Network and its affiliated entities through any other means. Cartoon Network and its affiliated entities are collectively referred to in this Privacy Statement as "Cartoon Network," "we" or "us."
 
