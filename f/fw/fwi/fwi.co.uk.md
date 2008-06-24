@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213095139id_/http%3A//www.fwi.co.uk/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624073257id_/http%3A//www.fwi.co.uk/StaticPages/privacy.htm) for the most accurate reproduction.*
 
-# FarmersWeekly
+# FarmersWeekly -
 
 This website is owned and operated by [Reed Business Information Limited ](http://www.rbi.co.uk/rb2_about/rb2_about_profile.htm)  
 Information we collect from our customers and users of our websites may be used in the following ways.
