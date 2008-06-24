@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208171306id_/http%3A//www.simplyaudiobooks.com/Privacy_Policy/dp/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624071429id_/http%3A//www.simplyaudiobooks.com/Privacy_Policy/dp/33) for the most accurate reproduction.*
 
 # Simply Audiobooks - Privacy Policy
+
+## Privacy Policy
 
 ### About
 
@@ -32,4 +34,4 @@ For transmitting your personal information to us, we use a secure server (SSL), 
 
 * * *
 
-_Last updated April 2006 (c) Simply Audiobooks, Inc._
+_Last updated April 2006 © Simply Audiobooks, Inc._
