@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219223554id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625000426id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
 
-# Arsenal FC News from Arsenal World - The Definitive Arsenal FC website
+# Arsenal FC News - Arsenal World
 
 **_Entertainment & Sports Agency Privacy Policy_**
 
