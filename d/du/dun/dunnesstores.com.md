@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217100411id_/http%3A//www.dunnesstores.ie/page.php%3Fpid%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624071233id_/http%3A//www.dunnesstores.ie/page.php%3Fpid%3D91) for the most accurate reproduction.*
 
 # Dunnes Stores Privacy Policy
 
 #### Privacy Policy
 
-Dunnes Stores would like it’s web site users to read the following Privacy Statement which explains how we process and utilise your personal information collected on our site.
+Dunnes Stores would like its web site users to read the following Privacy Statement which explains how we process and utilise your personal information collected on our site.
 
 ##### Personal Information
 
@@ -19,7 +19,7 @@ Enquiries sent via the website or by email will be regarded as private and confi
 
 ##### Non Personal Information:
 
-YouOur web site gathers statistical and other analytical information of all visitors to our websites. We use this non-personal data gathered from visitors to our website in a collective form to get a better understanding of where our visitors come from and how they are using the site.  
+Our web site gathers statistical and other analytical information of all visitors to our websites. We use this non-personal data gathered from visitors to our website in a collective form to get a better understanding of where our visitors come from and how they are using the site.  
 The information which you give us will only ever be seen by us and our website designers and developers. No other third party companies will have access to this information. 
 
 ##### Technical - Cookies
@@ -33,5 +33,5 @@ Our web site may contain links to other web sites, which are outside our control
 
 ##### Changes to Privacy Policy
 
-As legislation protecting all internet users changes, our website Privacy Statement will also change to ensure we are fully compliant and will be posted on this site so you are always aware of what information we collect, how we use it, and under what circumstances, if any we disclose it.   
+As legislation protecting all internet users' changes, our website Privacy Statement will also change to ensure we are fully compliant and will be posted on this site so you are always aware of what information we collect, how we use it, and under what circumstances, if any we disclose it.   
 If at any time we decide to use the Personal Data in a manner significantly different from that stated in this website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by e-mail, and you will have a choice as to whether or not we use your information in the new manner.
