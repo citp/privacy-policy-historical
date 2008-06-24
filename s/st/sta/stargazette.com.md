@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227035204id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624215230id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
 
-# Star-Gazette.COM - Customer Service
+# Star-Gazette.COM Privacy Policy | stargazette.com | Star-Gazette
+
+The following Privacy Policy governs **Star-Gazette.COM** 's online information collection practices. Specifically, it outlines the types of information that **Star-Gazette.COM** gathers about you while you are using the **Star-Gazette.COM** website (the “Service”), and the ways in which **Star-Gazette.COM** uses this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+
+Please read this Privacy Policy carefully. By visiting the **Star-Gazette.COM** website, you agree that your use of our Service, and any dispute over privacy, is governed by this Privacy Policy and our [http://www.stargazette.com/apps/pbcs.dll/article?AID=/99999999/HELP/50929012/1141](https://web.archive.org/web/20080624215230id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/%3Ca%20href=)">Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the **Star-Gazette.COM** website after we post any such changes, you accept the Privacy Policy as modified.
+
+#### Your California Privacy Rights
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
@@ -8,6 +14,8 @@ Online Privacy Coordinator
 Newspaper Division  
 7950 Jones Branch Drive  
 McLean, VA 22107
+
+#### How We Collect and Use Information
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Service (e.g., while on the **Star-Gazette.COM** site or in responding via email to a feature provided on the **Star-Gazette.COM** site). 
 
@@ -27,9 +35,11 @@ We are an affiliate of the CareerBuilder online careers service. Through our coo
 
 Likewise, we are an affiliate of the Topix.net online news service, which enables us to provide you with access to Topix.net products and services through a co-branded Topix.net site. When you provide information through the co-branded Topix.net site, Topix.net may share your information with us and we may use that information in a manner consistent with this Privacy Policy.
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.stargazette.com/apps/pbcs.dll/article?AID=/99999999/HELP/50929012/1141). agreement, or to protect the rights, property or safety of users of our Services, the public, or **Star-Gazette.COM**.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [http://www.stargazette.com/apps/pbcs.dll/article?AID=/99999999/HELP/50929012/1141](https://web.archive.org/web/20080624215230id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/%3Ca%20href=)">Terms of Service. agreement, or to protect the rights, property or safety of users of our Services, the public, or **Star-Gazette.COM**.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we, some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+#### Children's Privacy Statement
 
 This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding your rights under federal law with respect to such information.
 
@@ -37,3 +47,17 @@ This Service is not directed to children under the age of thirteen and we do NOT
 
 * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Service, we also do NOT knowingly distribute such information to third parties.
 * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Service.
+* Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Service, we do NOT condition the participation in the Service's online activities of a child under thirteen on providing personally identifiable information.
+
+#### How To Make Changes to Your Information
+
+If you have subscribed to one or more **Star-Gazette.COM** email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting [http://www.stargazette.com/apps/pbcs.dll/section?category=Register](https://web.archive.org/web/20080624215230id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/%3Ca%20href=)">here.
+
+#### Questions Regarding Privacy
+
+If you have any questions about this Privacy Policy, the privacy practices of **Star-Gazette.COM** , or your dealings with **Star-Gazette.COM** , you can contact:
+
+Online Privacy Coordinator  
+Newspaper Division  
+7950 Jones Branch Drive  
+McLean, VA 22107
