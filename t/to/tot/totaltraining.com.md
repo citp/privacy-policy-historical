@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224033020id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624123615id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
----  
-  
 |   
 Your right to privacy is important to us.
 
@@ -53,7 +51,7 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 **4.1** We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by emailing us at customerservice@totaltraining.com or writing us at: 
 
 Total Training, Inc.  
-1920 Palomar Point Way  
+1819 Aston Avenue, Suite 105  
 Carlsbad, CA 92008 
 
 Please include your name, address, and/or email address when you contact us. 
@@ -94,7 +92,7 @@ Please include your name, address, and/or email address when you contact us.
 
 Total Training, Inc.  
 ATTN: Privacy Compliance Officer  
-1920 Palomar Point Way  
+1819 Aston Avenue, Suite 105  
 Carlsbad, CA 92008 
 
 You may also contact us by email at customerservice@totaltraining.com. 
@@ -141,6 +139,6 @@ Questions regarding our Privacy Policy may be addressed to Total Training in the
 
 
 Total Training  
-1920 Palomar Point Way  
+1819 Aston Avenue, Suite 105  
 Carlsbad, CA 92008  
 Attention: Online Marketing 
