@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161000id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624235045id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -28,7 +28,7 @@ In accordance with the requirements of the 1998 Data Protection Act - we have ta
 
 **Access**
 
-You have the right to access all personal information supplied to Marine Trader Media Digital, and rectify any inaccuracies on the information held. A charge of £10 will be made for any subject access request. Further enquiries should be made to sales@marinetradermedia.co.uk or sent to Customer Care, Marine Trader Media, 44a North Street, Chichester, West Sussex PO19 1NF.
+You have the right to access all personal information supplied to Marine Trader Media Digital, and rectify any inaccuracies on the information held. A charge of £10 will be made for any subject access request. Further enquiries should be made to sales@boatshop24.co.uk or sent to Customer Care, Marine Trader Media, 44a North Street, Chichester, West Sussex PO19 1NF.
 
 Amendments and Updates to this policy may be made from time to time. Any revisions will be posted on this page so you will always be aware of what information we collect.  
 
