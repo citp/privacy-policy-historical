@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergentonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225223804id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergentonline.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624104715id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.*
 
 # Mergent Online
 
