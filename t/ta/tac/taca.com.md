@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213190359id_/http%3A//www.taca.com/eng/cus/csec/csecsecpri.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624090011id_/http%3A//www.taca.com/eng/cus/csec/csecsecpri.asp) for the most accurate reproduction.*
 
 # Security and privacy - TACA.COM
 
