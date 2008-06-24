@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626010442id_/http%3A//billoreilly.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624125557id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # BillOReilly.com: Privacy Policy
 
@@ -32,4 +32,4 @@ In addition, BillOReilly.com may, and you hereby authorize us to, disclose your 
 
 **A Special Note about Children.** Children are not eligible to use our services and BillOReilly.com asks that minors (under the age of 18) do not submit any personal information to BillOReilly.com. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
 
-This site is owned and operated by BillOReilly.com, c/o Bell and Co, P.C., 535 5th Avenue, 21st Floor, New York, New York 10017. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click [here](https://web.archive.org/contactus). You may have this same information sent to you by e-mail by sending a letter to [legal@BillOReilly.com](mailto:legal@BillOReilly.com) with your e-mail address and a request for this information. 
+This site is owned and operated by BillOReilly.com, c/o OWD and Co, 10 First Ave East, Mobridge, SD 57601. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click [here](https://web.archive.org/contactus). You may have this same information sent to you by e-mail by sending a letter to [legal@BillOReilly.com](mailto:legal@BillOReilly.com) with your e-mail address and a request for this information. 
