@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113111id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624050732id_/http%3A//www.igmarkets.com.au/cfd/privacy-notice.html%3Fct%3Df) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -39,7 +39,6 @@ Depending on the product or service concerned and particular restrictions on sen
   * credit reporting or reference agencies 
   * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside Australia or the European Economic Area) 
   * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law 
-  * credit reporting or reference agencies 
   * anyone authorised by an individual, as specified by that individual or the contract
 
 
