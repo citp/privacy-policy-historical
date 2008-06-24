@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000623id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624172700id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy policy - Dial-a-Phone
+# Privacy Policy - Mobile Phone Shop - Dial-a-Phone
 
-Dial-a-Phone Limited is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+Dial-a-Phone is a trading division of Phones 4u Limited, which is a limited company registered in England with registered company number 03154198, VAT number GB 884 2536 96, and its registered office at Osprey House, Ore Close, Lymedale Business Park, Newcastle-under-Lyme, Staffordshire, ST5 9QD, a limited company registered in England.
 
-* ### The Information We Collect and How We Use It ...Top
+Dial-a-Phone is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+
+  1. ### The Information We Collect and How We Use It ...Top
 
 When you wish to obtain products and services from us we need to know your name, your address (and for contract mobile phones 3 years of address history), e-mail address, telephone number, credit card number and expiry date and your bank sort code and account number. We also need to know your date of birth and your residential, employment and marital status.
 
@@ -18,7 +20,7 @@ We and our group companies may also wish to provide you with information about o
 
 We may also be required to provide your personal information to the Financial Services Authority and other regulatory and governmental agencies.
 
-* ### Our Use of Cookies and Other Information Gathering Technologies ...Top
+  2. ### Our Use of Cookies and Other Information Gathering Technologies ...Top
 
 We monitor the use of our website for customer traffic and purchasing patterns by the use of “session cookies”.
 
@@ -26,9 +28,7 @@ Cookies are text files that identify your computer to our server. Our server wil
 
 Our cookies only record those areas of the site that have been visited by your computer, and for how long. You do have the opportunity to set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
 
-Our website is being monitored by Speed Trap Limited's monitoring software and may capture information regarding your visit that will help us improve the quality of our service and the design of our Site.
-
-* ### How We Protect your Information ...Top
+  3. ### How We Protect your Information ...Top
 
 The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy.
 
@@ -36,15 +36,15 @@ We realise how important it is to securely store any information that you provid
 
 You can tell whether a page is secure as a small locked padlock will appear in the bottom bar of your browser window. Only the Checkout stage will be secure to protect your data.
 
-We also keep your information confidential. The internal procedures of Dial-a-Phone Limited cover the storage, access and disclosure of your information.
+We also keep your information confidential. The internal procedures of Dial-a-Phone cover the storage, access and disclosure of your information.
 
 We must advise that despite the measures that we take to ensure that the security facilities that we provide are of the highest standards as possible, it is necessary for us to notify you that there is no guarantee that any e-mail sent by you to us at this site will be received by Dial-a-Phone, or that the message will remain confidential whilst in transit. You therefore accept that by acknowledging this situation that you do so at your own risk.
 
-* ### Sale of Business ...Top
+  4. ### Sale of Business ...Top
 
 If our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. 
 
-* ### Updating your Details ...Top
+  5. ### Updating your Details ...Top
 
 #### Existing Customers
 
@@ -54,12 +54,15 @@ If any of the information that you have provided us changes, for example if you 
 
 If you are not an existing customer of Dial-a-Phone and have received promotional emails that you no longer wish to receive you can unsubscribe by following the links at the top of the email.
 
-* ### Your Consent ...Top
+  6. ### Your Consent ...Top
 
 By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it.
 
 Owing to the global nature of the Internet infrastructure, the information you provide may be transferred to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers. 
 
-* ### Complaints...Top
+  7. ### Complaints...Top
 
 If you have any complaints regarding how your data is managed you can email privacy@dialaphone.com or write to The Privacy Manager, Dial-a-Phone, 53-79 Highgate Road, London, NW5 1TL. Please note this email and postal address are only provided for issues relating to storage and use of your data and we cannot guarantee any response to queries relating to any other issues.
+
+
+
