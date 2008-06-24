@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheempires.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218203342id_/http%3A//www.nicheempires.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheempires.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624060625id_/http%3A//www.nicheempires.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Niche products for sale with private label and master resell rights
 
@@ -23,7 +23,7 @@ In addition to our direct collection of information, our third party service ven
 **How does the Site use Personally Identifiable Information?**  
 We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
- [](http://www.weblawgenerator.com/)
+ 
 
 **With whom may the information may be shared?**  
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
