@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226201255id_/http%3A//www.topsmarkets.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624221345id_/http%3A//www.topsmarkets.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
 
 # TOPS Privacy Policy
 
@@ -23,7 +23,7 @@ This privacy policy does not include TOPS pharmacy records. Pharmacy records are
 To help better understand and serve the needs of our customers, we collect Customer Information from various sources, including the following: 
 
   * Information we receive when you use your TOPS BonusCard. 
-  * Information you give us on application forms, customer surveys, sweepstakes and coupon rebate entries, or when you visit our website or shop at our stores.
+  * Information you give us on application forms, customer surveys, store kiosks, sweepstakes and coupon rebate entries, or when you visit our website or shop at our stores.
   * Information you provide to us over the phone or through the mail. 
   * Information we collect through your browser when you visit our website and your browser interacts with us; 
   * Information recorded as a result of your interaction with any company in our corporate family related by common ownership, such as Ahold USA, Inc. and its other supermarket companies; and 
@@ -60,4 +60,4 @@ TOPS may modify this Privacy Policy from time to time. Our current Privacy Polic
 If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact TOPS Consumer Relations, toll-free at 1-800-522-2522,or ** _[contact us ](http://www.topsmarkets.com/shareddev/TOPS_comments/consumer_commentcard.cfm)_**through our website.
 
   
-This Privacy Policy was last revised on January 9, 2003
+This Privacy Policy was last revised on March 7, 2008
