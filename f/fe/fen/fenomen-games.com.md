@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032955id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624050054id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Web Application Development
+# Privacy Policy of Fenomen Games
 
 Fenomen Games ("FG") takes your privacy very seriously. Please read the following to learn more about our privacy policy.  
 
