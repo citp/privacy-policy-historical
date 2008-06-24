@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225170206id_/http%3A//phuketindex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041807id_/http%3A//phuketindex.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - One stop Phuket island directory
 
@@ -77,6 +77,6 @@ This Site contains content, services, advertising and other materials that link 
 **This Site is operated by:**
 
 Guide Vision Limited   
-71 Moo 1, Chaofa Rd., Vichit,   
+9/98 Moo 3, Rasadanusorn Rd., Rasada,   
 Muang, Phuket 83000   
 Email: [info@guidevision.com](mailto:info@guidevision.com)
