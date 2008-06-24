@@ -1,71 +1,85 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018081322id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624155441id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Updated: July 17, 2007_
+_Updated: March 29, 2008_
 
-iUniverse respects your privacy. As the sole owner of information collected on this Web site, it is our policy not to sell, share, or rent the information we collect about any user.
+Our privacy policy, as detailed below, answers questions you may have about access, security and control of personal information. It also describes how the information will be used, and whether it will be provided to third parties.
 
-  * Registration Processes
-  * Online Orders
-  * Web Site Cookies
-  * Web Site Log Files
-  * Information Sharing
-  * External Links
-  * Newsletters and Announcements
-  * Surveys and Contests
-  * Online and Offline Security
-  * Updating Personal Information
-  * Notification of Changes
+All companies that are part of Author Solutions (ASI) believe that your personal information – including your name, mailing address, telephone number, e-mail address and credit card data – belongs to you. While we collect this type of information when you provide it to us, we do not rent or sell it to third parties. We use it only to process orders and to provide a more personalized shopping experience. 
+
+The United States Federal Trade Commission has created a Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm), which provides general tips about navigating the Internet. The Web site is filled with information about how to use the Internet wisely, how to avoid fraud and deception online, and how to keep personal information private. 
+
+  * WHAT INFORMATION DO AUTHOR SOLUTIONS COMPANIES COLLECT?
+  * DOES AUTHOR SOLUTIONS USE NON-PERSONALLY IDENTIFIABLE INFORMATION?
+  * HOW DOES AUTHOR SOLUTIONS PROTECT USER INFORMATION?
+  * COOKIES
+  * SECURITY
+  * YOUR CONSENT AND NOTIFICATION OF CHANGES
+  * TELL US WHAT YOU THINK
 
 
 
-## Registration Processes
+## WHAT INFORMATION DO AUTHOR SOLUTIONS COMPANIES COLLECT? 
 
-In order to use certain features of this Web site, you must first complete the registration form. These features include using myUniverse, interacting with communities, purchasing books or other goods and services, and submitting manuscripts for publication. During registration, we ask you to provide contact information (such as name and e-mail address). We use this information to provide you with a more personalized experience and to contact you, if necessary, regarding your order or manuscript submission. We also ask for information that helps us develop our business to better serve your needs, including your postal code, age group, and how you heard about iUniverse.
+When users visit our Web sites, there are two types of information that may be collected. 
 
-## Online Orders
+The first type of information is known as “personally identifiable information.” In order to serve your needs and to provide improved products and services, we may from time to time request personal and private information, such as your name or company, address, contact information, education, interests, payment information when you place orders, survey information and/or other information. You may choose to provide this information at your option. Many areas of our site are accessible without providing any personally identifiable information. Personally identifiable information excludes any information you may choose to submit publicly, such as reviews, critiques, editorials, testimonials, documentaries, forum or blog discussions.
 
-On our order forms, we request contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have a question about your order, we will use this information to contact you.
+You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. ASI does not rent, sell or share personal information about you with other people or non-affiliated companies, period!
 
-## Web Site Cookies
+If you choose not to provide private information to this Web site, alternate ordering and payment arrangements can be made by providing the necessary information via telephone, fax or mail, or via another standard method of communication. 
 
-A cookie is a piece of data stored by your Web browser on your hard drive. If you register on our site, we use cookies to record that information. This allows you to automatically reenter membership-only sections of the Web site without having to retype your username and password. We also use cookies to keep track of your order information as you step through the ordering process and to avoid errors if you are interrupted while ordering. If you decide not to accept cookies, you can still use our site, but these particular features will not work properly. We also use cookies to help us analyze our site log files (see the next paragraph for more information).
+To better serve you, Wordclay may share your name and contact information with companies that are part of ASI, which offer products or services desirable or useful to you. ASI companies share aspects of common ownership and control. 
 
-## Web Site Log Files
+Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse and Wordclay.
 
-Like most Web sites, our site collects standard statistical information about site visits. We learn how many visitors come to our site, which pages are most popular, what paths visitors take to reach our site and move through it, what Web browsers are being used, and what IP addresses and domain names (such as aol.com or earthlink.net) visitors come from. However, none of this information is associated with you as an individual. It is measured only in aggregate. We use it to help us make our site as interesting and useful to you as we can.
+We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services and special offers we think you’ll find valuable.
 
-## Information Sharing
+We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users or others. 
 
-We share aggregated information on site visitors with our partners to help them understand our business. We share aggregate sales data with our partners and authors, in order to pay them royalties on the sales of their works. This aggregate information is not linked to any personal information that can identify a single person.
+We may release account information when we believe, in good faith, that such release is reasonably necessary to:
 
-We use outside printing and shipping companies to fulfill orders and a credit card processing company to bill for purchases. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes.
+Respond to subpoenas, court orders or legal process; to establish or exercise our legal rights; or defend against legal claims. 
 
-## External Links
+Believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ASI's terms of use, or as otherwise required by law. 
 
-Our Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by the iUniverse Web site.
+Transfer information about you if ASI is acquired by or merged with another company. In this event, ASI will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-## Newsletters and Announcements
+The second type of information is known as “non-personally identifiable information” and is collected upon each visit to our Web site. Our server automatically recognizes visitors’ domain names and Internet Protocol addresses (where possible). We also collect information and statistics about how visitors use the site. This information, which is collected and maintained in an anonymous, non-personal and composite form, allows us to improve the content of our Web site and facilitate market research. 
 
-If you wish to subscribe to one of our newsletters or to receive periodic product and service announcements, we ask for your e-mail address, so we can send you the e-mail. If you no longer wish to receive the e-mail, please use the "Unsubscribe" and "Subscription Center" links located at the bottom of each e-mail. If you have a myUniverse account, you should edit your [myUniverse Profile](https://web.archive.org/login/pass/?target=https://www.iuniverse.com/myiu_misc/profile) rather than using the e-mail links.
+## DOES AUTHOR SOLUTIONS USE NON-PERSONALLY IDENTIFIABLE INFORMATION? 
 
-## Surveys and Contests
+On occasion, we may provide non-personally identifiable information about our users, sales, traffic patterns and related site information to reputable third-party vendors to help us understand this information better. However, these statistics will not include any personally identifiable information. Other than improving our Web site and providing our visitors with the best experience possible, we make no other use of this information. 
 
-From time to time, we may run surveys or contests on our Web site. Participation in these surveys or contests is voluntary. The information we request may include contact information (such as name and shipping address), demographic information (such as gender or education level), and your opinions about our site and our company. We use contact information to notify the winners and award prizes. We use survey information to evaluate and improve the usability and satisfaction of our site.
+## HOW DOES AUTHOR SOLUTIONS PROTECT USER INFORMATION? 
 
-## Online and Offline Security
+We use encryption technology to keep your personal information safe. All of your ordering information – including your name, mailing address, telephone number, e-mail address and credit card data – is encrypted using a secure server for maximum security. 
 
-iUniverse takes precautions to protect our users' information. When you submit sensitive information via the Web site, your information is protected both online and offline.
+Credit card transactions are handled by a third-party financial institution called Verisign, the world's recognized leader in e-commerce payment solutions. They receive the credit card data only to verify the credit card numbers and process transactions. 
 
-When our registration or order form asks you to enter sensitive information (such as credit card number or Social Security Number), that information is encrypted. While on a secure page, such as the page that features our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer visibly becomes locked, as opposed to when you are just surfing.
+Furthermore, your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we store only the last five digits on a server that is not accessible from the Internet. 
 
-Our servers are protected by a firewall and located within a secure, locked facility.
+## COOKIES
 
-## Updating Personal Information
+When you visit a Web site, information may be stored in a file known as a “cookie.” This file is stored on your computer and is used for future reference. If you revisit a Web site, the cookie allows that Web site to identify you as a returning guest and tailor your shopping experience to you. 
 
-If your personal information changes (such as your e-mail or mailing address) or if you no longer desire our service, please visit our registration page to update your records.
+We use cookies in two places. The first is when a user places an order. We use cookies to fill in their name and e-mail address in the form where appropriate (this is known as “auto-fill.”) The second is when a customer uses the User Registration page. Again, we use cookies for auto-filling the form.
 
-## Notification of Changes
+Most Web browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your Web browser’s help file to learn more about these functions. 
 
-iUniverse will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, we may notify you by placing prominent notice on other areas of the Web site.
+The information contained in our cookies is only used by Author Solutions. Your Web browser will not pass a cookie to a site other than the one that created it. 
+
+## SECURITY
+
+Author Solutions is committed to maintaining the privacy of your personally identifiable information, and will treat the privacy of your information with the same or greater security protections as we provide for our own private information. ASI company Web sites have industry-standard security measures in place to prevent the loss, misuse, and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we take reasonable steps to ensure the safety of all information.
+
+Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up to date on our security and privacy practices. 
+
+## YOUR CONSENT AND NOTIFICATION OF CHANGES 
+
+By using this Web site, products and services, you consent to the terms of this policy. If our privacy policy changes, we will post those changes on this page so that you are always aware of access, security, control of personal information, how information will be used, and whether it will be provided to third parties. Your continued use of the Web site constitutes your consent to the updated policy. 
+
+## TELL US WHAT YOU THINK
+
+We welcome your questions and comments about privacy. [Please e-mail us](https://web.archive.org/web/20080624155441id_/http%3A//www.iuniverse.com/contact/index.htm). 
