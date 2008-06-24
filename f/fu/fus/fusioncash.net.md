@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224070158id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624054702id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
 
 # FusionCash
 
@@ -34,7 +34,7 @@ FusionCash sends three types of emails:
 
 
 
-You may [unsubscribe from newsletters](https://web.archive.org/web/20071224070158id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
+You may [unsubscribe from newsletters](https://web.archive.org/web/20080624054702id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
 
 For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions.
 
