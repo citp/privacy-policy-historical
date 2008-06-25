@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211220919id_/http%3A//www.vois.com/index.php/default/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625043727id_/http%3A//www.vois.com/default/privacyPolicy) for the most accurate reproduction.*
 
 # Free Business Social Networking, Find Your Classmates - Privacy Policy
 
 |  |  (Version 2007.05) 
 
-VOIS, INC. ("VOIS") operates a social commerce (or "sCommerce") network Website located at [http://www.vois.com](https://web.archive.org/index.php/index_new "http://www.vois.com") and any other VOIS-branded services provided to you by VOIS (the VOIS Website and other VOIS-branded services are together referred to as the "Website"). The Website is an online service that connects our members together both socially and economically. VOIS members can profile their lives online, view each other's profiles, and connect with others around shared social and economic interests. VOIS members can make unlimited friends and connections and then use those connections to connect personally and do business with others on a whole new level. VOIS members can change their profile information at any time and can control how other members and the service communicates with them.
+VOIS, INC. ("VOIS") operates a social commerce (or "sCommerce") network Website located at [http://www.vois.com](http://www.vois.com/ "http://www.vois.com") and any other VOIS-branded services provided to you by VOIS (the VOIS Website and other VOIS-branded services are together referred to as the "Website"). The Website is an online service that connects our members together both socially and economically. VOIS members can profile their lives online, view each other's profiles, and connect with others around shared social and economic interests. VOIS members can make unlimited friends and connections and then use those connections to connect personally and do business with others on a whole new level. VOIS members can change their profile information at any time and can control how other members and the service communicates with them.
 
-This Privacy Policy provides VOIS' policies and procedures with respect to the collection and use of your personally identifiable information as a user of the Website, as well as what choices you have about its use. Use of the Website is governed by the TERMS OF USE (located at [http://www.vois.com/default/termsOfUse](https://web.archive.org/index.php/default/termsOfUse "http://www.vois.com/default/termsOfUse")), which incorporates this Privacy Policy by reference. In this regard, acceptance of the TERMS OF USE constitutes acceptance of this Privacy Policy, all as expressly provided in the TERMS OF USE.
+This Privacy Policy provides VOIS' policies and procedures with respect to the collection and use of your personally identifiable information as a user of the Website, as well as what choices you have about its use. Use of the Website is governed by the TERMS OF USE (located at [http://www.vois.com/default/termsOfUse](https://web.archive.org/default/termsOfUse/ "http://www.vois.com/default/termsOfUse")), which incorporates this Privacy Policy by reference. In this regard, acceptance of the TERMS OF USE constitutes acceptance of this Privacy Policy, all as expressly provided in the TERMS OF USE.
 
 By accepting the TERMS OF USE and therefore this Privacy Policy, you hereby confirm that you know that the Website is a website operated by VOIS in the U.S., and you consent to the transfer of your personal data to the U.S., where your personal data will be subject to U.S. law and, if you live outside of the U.S., where the level of data protection may be different compared to your country.
 
@@ -66,7 +66,7 @@ Registered Member information is displayed to people in order to facilitate user
 
 Visitors and Registered Members each by default may view all of your Personal Profile information (other than your date of birth), Registration Information, your presence online, who are your "friends", and your pictures (including your Main Profile Picture). You may, however, restrict access to this information through VOIS's 
 
-[Privacy Settings](https://web.archive.org/index.php/home/chgPriSettings "Privacy Settings") in the following ways:  
+[Privacy Settings](https://web.archive.org/home/chgAccSettings/ "Privacy Settings") in the following ways:  
 
 
   * You may hide your presence online (that is, designate that others will not be told by VOIS that you are currently online and actively viewing the Website).
@@ -116,7 +116,7 @@ Other than as set out above, you will receive notice when information about you 
 
 Other than Service-Related Announcements and Customer Service communications (each described below), you may elect not to receive updates or notifications from VOIS by unchecking "Send Me All Notifications" on your account's 
 
-[Account Settings](https://web.archive.org/index.php/home/chgAccSettings "Account Settings") page. You also may elect to receive only specific types of notifications, by checking one or more of the options available in [Account Settings](https://web.archive.org/index.php/home/chgAccSettings "Account Settings"). _ **Special Offers and Updates**_
+[Account Settings](https://web.archive.org/home/chgAccSettings/ "Account Settings") page. You also may elect to receive only specific types of notifications, by checking one or more of the options available in [Account Settings](https://web.archive.org/home/chgAccSettings/ "Account Settings"). _ **Special Offers and Updates**_
 
 We will occasionally send you information on products, services, special deals, promotions. You can sign up for these emails from us on our registration page. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Your Account Settings" area of your Personal Profile.
 
@@ -160,7 +160,7 @@ If you have any questions about security on the Website, you can send email us a
 
 You may correct, update or delete your Profile information, and update your registration information (other than with respect to your username) by logging into your account and accessing the "
 
-[My Home](https://web.archive.org/index.php/home "My Home")" option (available when logged in and viewing your Home Page). _ **General**_
+[My Home](https://web.archive.org/my-home/ "My Home")" option (available when logged in and viewing your Home Page). _ **General**_
 
 You always have the right to refrain from providing any information (other than information required for registration). This may have an impact on use of the Website and on the ease of making, or ability to make, purchases or taking advantage of certain unique features of the Website. By providing information about third parties, you represent that you have all necessary authority and/or obtained all necessary consents from such person to authorize us to collect, use and disclose the information of such third parties. All such information shall be governed by the terms of this Privacy Policy.
 
