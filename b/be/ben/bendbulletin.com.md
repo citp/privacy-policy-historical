@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195352id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001%26nav_category%3DABOUT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625070724id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001%26nav_category%3DABOUT) for the most accurate reproduction.*
 
 # Privacy and security policy | About Us | The Bulletin
 
-#### Published: December 25. 2007 4:00AM PST
+  * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=emailto)
+  * [print](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=print)
+
+
+
+Published: June 24. 2008 4:00AM PST
 
 This policy discloses the privacy and security practices for bendbulletin.com and bendhomes.com, which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. Bendbulletin.com and bendhomes.com are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. If you have any questions about bendbulletin.com's privacy practices, please contact us via e-mail at privacy@bendbulletin.com.
 
@@ -51,3 +56,5 @@ As required by U.S. law, bendbulletin.com and bendhomes.com have created this ch
 4\. We do NOT condition a child's participation in online activities by requiring personally-identifiable information. 
 
 5\. The dominant page in the bendbulletin.com web site that children might use is our Newspapers in Education page, which contains links to high quality education web sites. These sites are reviewed and approved as appropriate for children by our Newspapers in Education Director. There are no pages in bendhomes.com of particular interest to children.
+
+ARTICLE ACCESS: This article is among those available to all readers. Many more articles are available only to E-Edition members. [Sign up](https://circulation.bendbulletin.com/cgi-bin/cmo_cmo.sh/custservice/web/web-subscribe-online/login.html) today!
