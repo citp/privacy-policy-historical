@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213162853id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625055704id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
 
 # Dress up games online.
 
