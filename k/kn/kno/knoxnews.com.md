@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024160844id_/http%3A//www.knoxnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626010704id_/http%3A//www.knoxnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy & User Agreement : News : Knoxville News Sentinel
 
