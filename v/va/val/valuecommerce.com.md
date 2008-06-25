@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823153915id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626012524id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
 
 # ValueCommerce: learn about the ValueCommerce.com Privacy Policy
 
