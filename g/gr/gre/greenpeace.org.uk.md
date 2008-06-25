@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223162909id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625043530id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Greenpeace UK
 
