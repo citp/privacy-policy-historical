@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129074350id_/http%3A//www.texassports.com/doc_lib/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625122016id_/http%3A//www.texassports.com/doc_lib/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Host Communications Privacy Policy
 
