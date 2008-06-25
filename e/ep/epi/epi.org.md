@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212055440id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625044219id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,7 +104,7 @@ Washington, DC 20005
 (202) 775-8810  
 [webmaster@epi.org](mailto:webmaster@epi.org)
 
-All material contained within this site Copyright © 2007 Economic Policy Institute.   
+All material contained within this site Copyright © 2008 Economic Policy Institute.   
 All rights reserved. 
 
 [](http://www.epi.org/)
