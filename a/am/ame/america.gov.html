@@ -1,397 +1,1258 @@
-<!--The following is the downloaded HTML source of the america.gov privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213102817id_/http%3A//usinfo.state.gov/usinfo/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the america.gov privacy policy that was archived on 2008-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625203914id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
- <title>Privacy Statement - US Dept of State</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Privacy - Privacy - America.gov</title>
 
-
- 
-         
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="CREATE_DATE" content=" ">
-  <meta name="CREATE_DATE_IN_LANGUAGE" content="06/04/2007
-">
-  <meta name="PAGE_SUMMARY" content="">
-  <meta name="SLUG_ID" content="">
-
-<meta name="description" content="usinfo.state.gov UNITED STATES DEPARTMENT OF STATE">
-<meta name="keywords" content="    ">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-
-
-    
-  
-
-
-<script language="JavaScript">
-function popup(URL) { day = new Date(); id = day.getTime(); eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=650,height=600,left = 100,top = 100');");}
-function popup800(URL) { day = new Date(); id = day.getTime(); eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=800,height=675,left = 100,top = 100');");}// End  --><!--
-
-var wpid = 22;
-var directory = '/usinfo';
-
-var wpid = 22;
-
-
-var NS4 = (document.layers) ? 1 : 0;
-var IE4 = (document.all) ? 1 : 0;
-var ver4 = (NS4 || IE4);
-window.updatefield = 0;
-
-if(top.name.length == 0 || top.name == "MainFrame" || top.name.indexOf("eGmain") == 0) {
-	top.name = "eGmain" + wpid;
+<meta name="generator" content="WebGUI 7.4.18">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript">
+function getWebguiProperty (propName) {
+var props = new Array();
+props["extrasURL"] = "/extras/";
+props["pageURL"] = "/pages/footer/local/privacy.html";
+return props[propName];
 }
+</script>
+<!-- START OF SmartSource Site Specific Data Collector TAG -->
 
-function ow(loc, name, width, height, replace, statusbar, scrollbars)
-{
-// this function opens a window
-	if(!width) width = 540;
-	if(!height) height = 560;
-	if(!name.length) name = "unknown";
-	if(!replace) name += uniqid();
-	if (name == "admin") {
-		hostname = window.location.hostname;
-		i = 0;
-		while (hostname.indexOf(".") > -1 && i < 3) {
-			hostname = hostname.replace(/\./, "_");
-			i++;
-		}
-		name = "eG_" + hostname + directory.replace(/\//g, "_") + "_" + name;
-		name = name.replace(/-/,"_");
-	} else {
-		name = "eG_" + window.name + "_" + name;
-	}
-	
-	xpos = (screen.width - width)/2;
-	ypos = (screen.height - height)/2;
-	
-	wi = window.open(loc, name, 'width=' + width + ',height=' + height + ',resizable=1,status=1,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
-	if(ver4) wi.focus();
-	return(wi);
-}
+<script src="http://www.america.gov/sdc_scr/america-wtinit.js" type="text/javascript"></script>
 
-function NewWizard(loc,width,height)
-{
-	xpos = (screen.width - width)/2;
-	ypos = (screen.height - height)/2;
-		
-	wi = window.open(loc, 'newwindow' + uniqid(), 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
-	if(ver4) wi.focus();
-}
-
-function NewBrowseWindow(loc,width,height)
-{
-	xpos = (screen.width - width)/2;
-	ypos = (screen.height - height)/2;
-		
-	wi = window.open(loc, 'egBrowseWindow', 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
-	if(ver4) wi.focus();
-}
-
-function uniqid()
-{
-        var t = new Date();
-	var m = t.getTime();
-	return(m % 90000);
-}
-
-function getRef(name)
-{	
-	name = "eG" + name + wpid;
-	return(window.open("",name));
-}
-
-function BamfTo(name, loc, focus)
-{
-	rf = getRef(name);
-	rf.location = loc;
-	if(focus && ver4) rf.focus();
-}
-
-function BamfSize(loc,x,y) { ow(loc,"bamfsize",x,y,0); }
-function AdminPanel(loc) { ow(loc,"admin",700,500,1); }
-function NewWindow(loc,w,h,close) { ow(loc,"newwindow",w, h,close); }
-function NewWindowName(loc,name,w,h,close) { ow(loc,name,w,h,close); }
-function bamf(loc) { ow(loc,"justbamf",400,100,0); }
-function BamfHelp(loc) { ow(loc,"bamfhelp",400,300,1); }
-function BamfLink(loc) { self.location = loc; }
-function BamfPanel(loc) { ow(loc,"bamfpanel",300,500,0); }
-function BamfNewPanel(loc) { BamfPanel(loc); }
-function BamfPicker(loc,w,h,field) {
-	if(!w) w = 350;
-	if(!h) h = 250;
-	window.updatefield = field;
-	wr = ow(loc,"picker",w,h,0);
-}
-function CloseBamf() { return true; } 
-function PullDownStart() { return true; }
-function MsMenuInit() { if(IE4) MsMenuInit2(); }
-function SetCookie(Name,Val) { document.cookie = Name + "=" + Val + ";expires=Wed, 23-Dec-2000 03:24:00 GMT;path=/;domain=.egrail.com;"; }
-function setcookie(Name,Val,MyDate) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=.egrail.com;"; }
-function setcookie2(Name,Val,MyDate,Domain) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=" + Domain + ";"; }
-function setcookie3(Name,Val,MyDate,Domain,Path) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=" + Path + ";domain=" + Domain + ";"; }
-function setsessioncookie(Name,Val,Domain,Path) { document.cookie = Name + "=" + Val + ";path=" + Path + ";domain=" + Domain + ";"; }
-
-function OpenWindow(Loc) { 	
-	window.open(Loc); 
-}
-function ReplaceText(Pre, Post) {
-	if (!IE4) { alert("Sorry, the browser you are using does not support the functions needed\nto perform this action.  Currently they are only available in\nInternet Explorer 4 or later."); return; }	
-	var Selection;
-	var Current;
-	if (!document.selection) { alert("Please select an area of text, and try again."); return; }
-	Selection = document.selection.createRange();
-	Current = Selection.text;
-	if (Current == '') return;
-	Selection.text = Pre + Current + Post;
-	Selection.parentElement().focus();
-}
-function SpellCheck(Obj) {
-	var MyForm = document.forms[0];
-	var oval = MyForm.elements[Obj].value;
-	var ct = ow(directory + "/login.html?" + escape(Obj) + "=" + escape(oval) + "&FormSwitch=SpellCheck|" + escape(Obj),"spelling",400,400,1);
-	ct.focus();
-	return;
-}
-				
-function HiliteThis(Name, Image) { ChangeImage(Name, Image); return true; }
-function RestoreThis (Name, Image) { ChangeImage(Name, Image); return true; }
-function HiliteThread(Name, Image) { ChangeImage(Name, Image); }
-function RestoreThread(Name, Image) { ChangeImage(Name, Image); }
-						
-function ChangeImage(Name, Image) {
-	if (!document.images || Image == null) return false;
-	document.images[Name].src = Image;
-	return true;
-}
-
-
-function BamfMain(loc) {
-	self.location = loc;
-}
-
-
-function BamfMainPanel(loc) {
-        r = getRef("admin");
-        x = r.frames["egrail"]
-        if(x)
-                x.location = loc;
-        else
-                r.location = loc;
-}
-
-function GetFormVarsAsArgs(formname) {
-	if (!formname) formname = 0;
-	elements = document.forms[formname].elements;
-	args = '?';
-	for (i = 0; i < elements.length; i++) {
-		args += elements[i].name + '=' + escape(elements[i].value);
-		if (i+1 < elements.length) {
-                	args += '&';
-		}
-	}       
-	return(args);   
-}       
-
-
-// --></script>
-
-     
-<link rel="stylesheet" href="/usinfo/img/assets/3602/regional.css" type="text/css">
-
-<script language="javascript" src="/usinfo/img/assets/3602/srch.js"></script>
-<script language="javascript" src="/usinfo/img/assets/3602/roll.js"></script>
-<script language="javascript" src="/usinfo/img/assets/3602/nav.js"></script>
-
-
-
-</head>
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#ffffff" text="#000000" onload="MM_preloadImages('/usinfo/img/assets/3602/Topics_Over.gif','/usinfo/img/assets/3602/Regions_Over.gif','/usinfo/img/assets/3602/ResourceTools_Over.gif','/usinfo/img/assets/3602/Products_Over.gif')">
-
-<!-- top banner image and search areas, no top navigation  -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td>
-
-  
-       <!-- top banner image and search areas, no top navigation  -->
-      <a name="top"></a>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"> 
-<td width="77" height="1"><a href="#content"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="jump over navigation bar" width="77" height="1" border="0"></a></td><td width="483" height="1"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="583" height="1" border="0"></td><td width="100%" align="RIGHT" nowrap=""><img src="/usinfo/img/assets/3602/SPACER.gif" width="90" height="1" alt="" border="0"></td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top" bgcolor="#000066"> 
-<td width="77" height="75" rowspan="5" valign="bottom"><img src="/usinfo/img/assets/3602/US_Dept_State_Seal.jpg" alt="Department of State Seal" width="77" height="75" border="0"></td><td width="483" height="18" bgcolor="#000066"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="4" height="18" border="0"></td><td width="100%" height="18" align="RIGHT" bgcolor="#000066" nowrap=""><a href="http://www.state.gov"><img src="/usinfo/img/assets/3602/US_Department_of_State.gif" width="143" height="18" alt="U.S. Department of State" border="0"></a></td></tr>
-<tr valign="top"> 
-<td rowspan="4" width="483" height="57" nowrap=""><a href="/"><img src="/usinfo/img/assets/3602/USINFO.State.gov.jpg" alt="International Information Programs and USINFO.STATE.GOV url" width="483" height="57" border="0"></a></td><td width="100%" align="RIGHT" valign="top" height="2" nowrap="" background="/usinfo/img/assets/3602/RedSpacer_top.gif" bgcolor="#990000" border="0"></td>
-</tr>
-
-<!-- 8/2/2006 search form BEGIN -->
-<tr valign="middle"><td width="100%" height="35" align="right" bgcolor="#990000" class="search_font" nowrap=""><form name="gs" method="GET" action="http://search.state.gov/search"><label for="search"><img height="12" alt="SEARCH" src="/usinfo/img/assets/3602/wwwgsearchtool.gif" width="47" border="0"></label><input type="hidden" name="oe" value="utf8"><input type="hidden" name="ie" value="utf8"><input type="text" value="Enter Keyword" onclick="value=''" ;="" name="q" size="12" maxlength="256"><input type="hidden" name="filter" value="0"><input type="hidden" name="entqr" value="3"><input type="hidden" name="ud" value="1"><input type="hidden" name="sort" value="date:D:L:d1"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="lr" value="lang_en"><input type="hidden" name="client" value="usinfo_frontend"><input type="hidden" name="proxystylesheet" value="usinfo_frontend"><input type="hidden" name="site" value="usinfo">
-
-<input type="image" src="http://usinfo.state.gov/usinfo/img/assets/3602/gobutton.gif" alt="go" valign="middle"><img src="/gi/img/assets/3602/SPACER.gif" width="8" alt=""></form></td></tr>
-<!-- 8/2/2006 search form END -->
-
-<tr>
-<td width="100%" height="18" align="right" valign="top" nowrap="" bgcolor="#990000" class="search_font"><a class="search_font" href="http://search.state.gov/search?access=p&amp;entqr=3&amp;ud=1&amp;sort=date:D:L:d1&amp;output=xml_no_dtd&amp;site=usinfo&amp;ie=utf8&amp;oe=utf8&amp;lr=lang_en&amp;client=usinfo_frontend&amp;proxystylesheet=usinfo_frontend&amp;proxycustom=%3CADVANCED/%3E"><font color="white">Advanced Search/Archive</font></a><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="8" border="0"></td> </tr>
-<tr>
-<td width="100%" align="RIGHT" valign="top" height="2" background="/usinfo/img/assets/3602/RedSpacer_bottom.gif" alt="" bgcolor="#FFFFFF" border="0"></td>
-</tr>
-</tbody></table><a name="content"></a>
-</td>
-</tr>
-
-
-<!--?php include '/iip/content/usia/usia/web/docs/usinfo/header.inc'; ?-->
-
-<tr>
-<td>
-
-<!-- top nav header with swapouts -->
-<table height="19" border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr height="19" class="language_font"> 
-    <td width="91" height="19" nowrap=""><a href="/usinfo/topics.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/usinfo/img/assets/3602/Topics_Over.gif',1)"><img src="/usinfo/img/assets/3602/Topics.gif" width="91" height="19" alt="Topics" border="0" name="Image1"></a></td><td height="19" nowrap=""><a href="/usinfo/regions.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/usinfo/img/assets/3602/Regions_Over.gif',1)"><img src="/usinfo/img/assets/3602/Regions.gif" height="19" border="0" name="Image2" width="90" alt="Regions"></a></td><td width="118" height="19" nowrap=""><a href="/usinfo/resource_tools.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/usinfo/img/assets/3602/ResourceTools_Over.gif',1)"><img src="/usinfo/img/assets/3602/ResourceTools.gif" width="118" height="19" border="0" name="Image3" alt="Resource Tools"></a></td><td width="102" height="19" nowrap=""><a href="/usinfo/products.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/usinfo/img/assets/3602/Products_Over.gif',1)"><img src="/usinfo/img/assets/3602/Products.gif" width="102" height="19" border="0" name="Image4" alt="Products"></a></td>
-<td height="19" align="left" valign="center" background="/usinfo/img/assets/3602/Language_background_N.gif" class="language_font" nowrap="">&nbsp;&nbsp;<a href="/esp/">Español</a>&nbsp;|&nbsp;<a href="/fr/">Français</a>&nbsp;|&nbsp;<a href="/russian/">Русский</a>&nbsp;|&nbsp;</td>
-<td width="37" height="19" valign="center" align="left" background="/usinfo/img/assets/3602/Language_background_N.gif" nowrap=""><a href="/ar/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/usinfo/img/assets/3602/arb_on.gif',1)"><img src="/usinfo/img/assets/3602/arb.gif" alt="Arabic" border="0" name="Image5"></a></td><td width="4" height="19" valign="top" background="/usinfo/img/assets/3602/Language_background_N.gif" class="language_font" nowrap="">&nbsp;|&nbsp;</td>
-<td valign="center" align="left" background="/usinfo/img/assets/3602/Language_background_N.gif" nowrap="">
-<a href="/mgck/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/usinfo/img/assets/3602/zhongwen_on.gif',1)"><img src="/usinfo/img/assets/3602/zhongwen.gif" alt="Chinese" border="0" name="Image6"></a></td><td width="4" height="19" valign="top" background="/usinfo/img/assets/3602/Language_background_N.gif" class="language_font" nowrap="">&nbsp;|&nbsp;</td>
-<td valign="center" align="left" background="/usinfo/img/assets/3602/Language_background_N.gif" nowrap="">
-<a href="http://persian.usinfo.state.gov" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/usinfo/img/assets/3602/farsi_on.gif',1)"><img src="/usinfo/img/assets/3602/farsi.gif" alt="Persian" border="0" name="Image7"></a></td>
-<td width="100%" height="15" valign="center" background="/usinfo/img/assets/3602/Language_background_N.gif" nowrap=""><img src="/usinfo/img/assets/3602/SPACER.gif" width="1" height="1" border="0"></td>
-</tr>
-</tbody></table></td>
-</tr>
-
-
-<tr>
-<td>
-<!-- section header and date -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="32" bgcolor="#CCCCCC" nowrap=""><img src="/usinfo/img/assets/3602/privacyheader.gif" alt="Privacy" height="32" align="top"></td>
-    <td width="100%" height="32" bgcolor="#CCCCCC" class="date" nowrap=""> 
-      <div align="right">&nbsp;&nbsp;</div>
-    </td>
-  </tr>
-</tbody></table></td>
-</tr>
-</tbody></table>
-
-
-<!-- main part of document pages -->
-<table width="90%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="left" valign="top" width="83" rowspan="2"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="83" height="1" border="0" align="top"></td>
-
-<!-- begin main content for page here -->
-
-<td width="80%" class="breadcrumb" align="left" valign="top" nowrap=""><b> You Are In: </b> 
-<a href="/usinfo/index.html" class="breadcrumbb">USINFO</a><br><br></td>
-
-<td align="left" valign="top" width="83" rowspan="2"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" height="1" border="0" align="top"></td>
-</tr>
-
-<!-- begin main content for page here -->
-
-<tr>
-<td width="100%" align="left">
-<p class="bulet_list_land"><br>
-We collect no personal information about you when you visit our site unless you choose to provide this information to us. However, we collect and store certain information automatically.</p>
-
-<p class="aboutsubhead">What We Collect and Store Automatically<br>
-<span class="bulet_list">Name of the domain from which you access the Internet (for example, aol.com, if you use an America Online account, or princeton.edu if you connect from Princeton University's domain); Date and time you access our site; and Internet address of the Website from which you linked directly to our site.<br><br> 
-
-We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.</span></p>
-
-<p class="aboutsubhead">If You Send Us E-mail<br>
-<span class="bulet_list">You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.</span></p>
-
-<p class="aboutsubhead">Links to Other Sites<br>
-<span class="bulet_list">Our Website has many links to other federal agencies, embassies, multilateral organizations and private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.</span></p></td>
-
-<td><img src="/usinfo/img/assets/3602/SPACER.gif" width="15" alt=""></td>
-
-<td valign="top" align="middle"><img src="/usinfo/img/assets/3602/SPACER.gif" width="1" height="37">
-<!-- nested feature table -->
-<table width="152" border="0" cellspacing="0" cellpadding="0" align="right"><tbody><tr><td width="23" height="19"><img src="/usinfo/img/assets/3602/BlueBar_graphic.gif" alt="" width="23" height="19" border="0"></td>
-<td width="125" height="19" align="left" valign="middle" nowrap="" bgcolor="#000066" class="featureditems">
-<div align="left">OTHER LANGUAGES</div></td>
-<td width="4" height="19"><img src="/usinfo/img/assets/3602/Blue_corner.gif" alt="" width="4" height="19" border="0"></td>
-</tr>
-<tr>
-<td colspan="3" bgcolor="#FFFFCC">
-<table width="152" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td height="6" valign="top" colspan="2"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" height="6" border="0"></td>
-</tr>
-<tr>
-<td width="24"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="24" border="0"></td>
-<td class="caption" align="left"><a href="/ar/Home/privacy.html">Arabic</a><br><br>
-<a href="/mgck/home/privacy.html">Chinese</a><br><br>
-<a href="/fr/home/privacy.html">French</a><br><br>
-<a href="http://persian.usinfo.state.gov/USINFO_Persian/privacy.html">Persian</a><br><br>
-<a href="/russian/home/privacy.html">Russian</a><br><br>
-<a href="/esp/home/privacy.html">Spanish</a><br><br></td>
-</tr>
-</tbody></table>
-</td></tr></tbody></table>
-
-</td>
-</tr>
-
-</tbody></table>
-
-<!-- footer -->
-<!-- footer -->
-<!-- global_ft -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<tbody><tr><td>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"> 
-<td width="77" height="1"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="77" height="1" border="0"></td><td width="483" height="1"><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="583" height="1" border="0"></td><td width="100%" align="RIGHT" nowrap=""><img src="/usinfo/img/assets/3602/SPACER.gif" width="90" height="1" alt="" border="0"></td>
-</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="100%" colspan="6" align="RIGHT" nowrap="" valign="bottom"><a href="#top"><img src="/usinfo/img/assets/3602/BackToTop.gif" alt="Back to Top" width="58" border="0"></a><img src="/usinfo/img/assets/3602/SPACER.gif" alt="" width="100" height="1" border="0"></td></tr>
-<tr> 
-<td class="disclaimer" colspan="6" height="65" valign="top"><hr size="1" width="100%"><br>
-&nbsp; &nbsp; &nbsp; USINFO delivers information about current U.S. foreign policy and about American life and culture. 
-This site <br>&nbsp; &nbsp; &nbsp; is produced and maintained by the U.S. Department of State's Bureau of International 
-Information Programs. <br>
-&nbsp; &nbsp; &nbsp; Links to other internet sites should not be construed as an endorsement of the views contained 
-therein.<br><br></td>
-</tr>
-<tr valign="Middle"> 
-<td bgcolor="#000066" class="footer" height="36" nowrap="" width="1">&nbsp;&nbsp;</td>
-<td height="36" align="left" nowrap="" bgcolor="#000066" class="footer"><a href="/usinfo">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/about_usinfo.html">About USINFO</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/site_index.html">Site Index</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/webmaster.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/privacy_statement.html">Privacy</a><br>
-<a href="/usinfo/topics.html">Topics</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/regions.html">Regions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/resource_tools.html">Resource Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usinfo/products.html">Products</a></td>
-<td bgcolor="#000066" width="100%" height="36" align="right" valign="top" class="footer"><a href="/usinfo"><img src="/usinfo/img/assets/3602/USINFO_footer_Logo.gif" alt="usinfo.state.gov url" width="199" height="36" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!-- end global ft -->
-<!-- tag -->
-<script language="javascript" src="http://utils.usinfo.state.gov/livelog/loggerjs.php?code=1776" type="text/javascript"></script>
-<script language="JavaScript" src="/scripts/triggerParams.js"></script> 
-<script language="JavaScript" src="/scripts/stdLauncher.js"></script> 
-<script language="JavaScript">Poll(); </script>
-
-
-<!--?php include '/iip/content/usia/usia/web/docs/usinfo/footer.inc'; ?-->
-
-<script src="/scripts/usinfo_sdc_tag.js" language="javascript" type="text/javascript"></script>
-<script src="/scripts/usinfo_tag.js" language="javascript" type="text/javascript"></script>
 <noscript>
-Sorry, you need a JavaScript capable browser to get the best from this page
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src=" http://sdc.america.gov/dcs3xm2zrgkajvdc2oya6c0y1_8s7p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;dcscfg=4&amp;WT.tv=1.3.7"/></div>
 </noscript>
 
+<!-- END OF SmartSource Site Specific Data Collector TAG -->
+
+<link href="" rel="alternate" title="RSS" type="application/rss+xml">
+<style type="text/css">
+.forumHead {
+	background-color: #eeeeee;
+	border-bottom: 1px solid #cccccc;
+	padding: 2px;
+	padding-bottom: 4px;
+	font-size: 13px;
+	font-weight: bold;
+}
+.oddThread {
+	font-size: 13px;
+	border-bottom: 1px dashed #83cc83;
+	padding-bottom: 4px;
+}
+.evenThread {
+	font-size: 13px;
+	border-bottom: 1px dashed #aaaaff;
+	padding-bottom: 4px;
+}
+</style>
 
 
-  	</body></html>
+
+<meta http-equiv="Cache-Control" content="must-revalidate">
+<!-- START OF SmartSource Data Collector TAG -->
+
+
+<script src="http://www.america.gov/sdc_scr/wtbase.js" type="text/javascript"></script> 
+
+
+<!-- END OF SmartSource Data Collector TAG -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="DCSext.CP.lang" value="en">
+<meta name="ROBOTS" content="NOARCHIVE">	
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate, max_age=0">
+<meta http-equiv="Expires" content="0">
+
+<link rel="icon" href="/uploads/qE/Bq/qEBqpJV6sm5iNqmKcrSWjQ/favicon.png" type="image/png">
+<link rel="SHORTCUT ICON" href="/uploads/c5/2u/c52uIhpZmH8lrUeN6AOA4A/favicon.ico" type="image/x-icon">
+
+<style type="text/css" media="screen"> @import url(/root/import/america/css/new-global.css); </style>
+
+<style type="text/css" media="screen"> @import url(/root/import/do-not-export/css/fpolicy.css); </style>
+<style type="text/css" media="screen"> @import url(/root/import/do-not-export/css/politics.css); </style>
+<style type="text/css" media="screen"> @import url(/root/import/do-not-export/css/amlife.css); </style>
+<style type="text/css" media="screen"> @import url(/root/import/do-not-export/css/democracy.css); </style>
+<style type="text/css" media="screen"> @import url(/root/import/do-not-export/css/science.css); </style>
+
+<!--[if IE 6]><style type="text/css" media="screen"> @import url(/root/import/america/css/new-ie6.css); </style><![endif]-->
+<!--[if IE 7]><style type="text/css" media="screen"> @import url(/root/import/america/css/ie7.css); </style><![endif]-->
+
+<style type="text/css" media="print"> @import url(/root/import/america/css/print.css); </style>
+<style type="text/css" media="print"> @import url(/root/import/america/css/ie6-print.css); </style>
+
+<script language="javascript" type="text/javascript" src="/root/import/america/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/root/import/america/js/jquery.enlarge.js"></script>
+<script language="javascript" type="text/javascript" src="/root/import/america/js/jquery.bits-05-09-08v1.09.js"></script>
+<script language="javascript" type="text/javascript" src="/root/import/america/js/jquery.scroll.js"></script>
+<script language="javascript" type="text/javascript" src="/root/import/america/js/jquery.cycle.js"></script>
+
+<script language="JavaScript" src="http://www.america.gov/scripts/triggerParams.js"></script> 
+<script language="JavaScript" src="http://www.america.gov/scripts/stdLauncher.js"></script>
+
+<script language="JavaScript">Poll(); </script>
+<script type="text/javascript">AC_FL_RunContent = 0;</script>
+
+<script src="/uploads/Wb/54/Wb543rEaN5u6Fq544gWDaw/AC_RunActiveContent.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/uploads/vH/t-/vHt-TOYiHILTM3YiagjrAw/swfobject.js"></script>
+
+</head>
+
+<body id="package-index">
+
+
+<div id="page">
+
+
+<!-- B. Header -->
+	<!-- [BEGIN] Main Header -->
+
+  <div id="header">
+  
+    <div class="banner">
+   <ul class="editions"> 
+
+  <li class="title">Editions:</li>
+
+
+<li class="spanish"><a title="Español" alt="Español" href="http://usinfo.state.gov/esp" name="Español" español="">
+Español</a></li>
+
+
+<li class="french"><a title="Français" alt="Français" href="http://www.america.gov/fr" name="Français" français="">
+Français</a></li>
+
+<li class="russian "><a title="Русский" alt="Русский" href="http://usinfo.state.gov/russian" name="Русский" Русский="">
+Русский</a></li>
+
+
+<li class="farsi"><a title="فارسی" alt="فارسی" href="http://persian.usinfo.state.gov" name="فارسی" فارسی="">
+فارسی</a></li>
+
+
+<li class="chinese"><a title="中文" alt="中文" href="http://usinfo.state.gov/mgck" name="中文" 中文="">
+中文</a></li>
+
+
+<li class="arabic"><a title="عربي" alt="عربي" href="http://usinfo.state.gov/ar" name="عربي" عربي="">
+
+عربي</a></li>
+
+
+<li class="department-of-state"><a title="U.S. Department of State" alt="U.S. Department of State" href="http://www.state.gov/">U.S. Department of State</a></li>
+</ul>
+
+
+
+</div>
+    
+    <div class="branding">
+  
+      <h1><a href="http://www.america.gov/">America.gov - <em>Telling America's Story</em></a></h1>
+    
+    <!-- 1/4/2007 search form BEGIN -->
+<div class="search">
+<form class="search_form" name="gs" method="GET" action="http://search.state.gov/search">
+<input type="hidden" name="oe" value="utf8">
+<input type="hidden" name="ie" value="utf8">
+<label for="searchText" style="display:none">Enter search terms</label>
+<input type="text" value="Enter Search Term(s)" onclick="value=''" ;="" name="q" maxlength="256" class="search-text blur" id="searchText"> 
+<input type="hidden" name="filter" value="0"><input type="hidden" name="entqr" value="3">
+<input type="hidden" name="ud" value="1">
+<input type="hidden" name="sort" value="date:D:L:d1">
+<input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="lr" value="lang_en">
+<input type="hidden" name="client" value="americagov">
+<input type="hidden" name="proxystylesheet" value="americagov">
+<label for="siteSearch" style="display:none">Choose what site to search</label>
+<select name="site" id="siteSearch">
+  <option value="americagov">Entire Site</option>
+  <option value="americagov_fpolicy">Foreign Policy</option>
+  <option value="americagov_uspolitics">U.S. Politics</option>
+  <option value="americagov_amlife">American Life</option>
+  <option value="americagov_democracy">Democracy</option> 
+  <option value="americagov_science">Science &amp; Health</option>
+</select>
+<input class="button" name="Submit" value="Submit" src="/uploads/Qr/0f/Qr0fBbbAlwZqFosxfMFQiQ/placeholder.png" type="image" title="Search" alt="Search">
+</form>
+</div>
+<!-- 1/4/2007 search form END -->
+
+
+      
+      <span class="updated">Updated  11:03 EDT - 12 Jun 2008 </span>
+
+      
+    </div>
+
+<a class="skip-nav" href="#skipGlobalNav"><img src="/uploads/cP/iX/cPiXu6sEEhAzgCLmGKtPwA/spacer.gif" width="1" height="0" border="0" alt="Skip Navigation"></a> 
+   
+<div id="menu">
+<ul class="primary">
+
+
+	
+
+	<li class="home
+	
+	
+		
+			
+				active"><a title="Home" alt="Home" href="/">
+		Home
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Foreign Policy
+	
+	
+		
+			
+			"><a title="Foreign Policy" alt="Foreign Policy" href="http://fpolicy.america.gov/fpolicy.html">
+		Foreign Policy
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="Economics &amp; Trade
+	
+	 "><a title="Economics &amp; Trade" alt="Economics &amp; Trade" href="http://fpolicy.america.gov/fpolicy/econ/index.html">
+
+		Economics &amp; Trade
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="American Giving
+	
+	 "><a title="American Giving" alt="American Giving" href="http://fpolicy.america.gov/fpolicy/aid/index.html">
+		American Giving
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Peace &amp; Security
+	
+	 "><a title="Peace &amp; Security" alt="Peace &amp; Security" href="http://fpolicy.america.gov/fpolicy/security/index.html">
+		Peace &amp; Security
+			
+		</a>
+
+		</li>
+	
+
+
+
+
+
+	<!--
+
+	<li class="more
+	
+	 "><a title="More »" alt="More »"
+	
+
+
+	href="http://fpolicy.america.gov/fpolicy.html" title="More »">
+		More »
+			
+		</a>
+		</li>
+	-->
+
+
+
+
+
+	</ul></li>
+
+	<li class="U.S. Politics
+	
+	
+		
+			
+			"><a title="U.S. Politics" alt="U.S. Politics" href="http://uspolitics.america.gov/uspolitics.html">
+		U.S. Politics
+		 		 </a>
+
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="Elections 2008
+	
+	 "><a title="Elections 2008" alt="Elections 2008" href="http://uspolitics.america.gov/uspolitics/elections/index.html">
+		Elections 2008
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="U.S. Government
+	
+	 "><a title="U.S. Government" alt="U.S. Government" href="http://uspolitics.america.gov/uspolitics/government/index.html">
+		U.S. Government
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	<!--
+
+	<li class="more
+	
+	 "><a title="More »" alt="More »"
+	
+
+
+	href="http://uspolitics.america.gov/uspolitics.html" title="More »">
+
+		More »
+			
+		</a>
+		</li>
+	
+
+-->
+
+
+
+	</ul></li>
+
+	<li class="American Life
+	
+	
+		
+			
+			"><a title="American Life" alt="American Life" href="http://amlife.america.gov/amlife.html">
+		American Life
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="The Arts
+	
+	 "><a title="The Arts" alt="The Arts" href="http://amlife.america.gov/amlife/arts/index.html">
+
+		The Arts
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Diversity
+	
+	 "><a title="Diversity" alt="Diversity" href="http://amlife.america.gov/amlife/diversity/index.html">
+		Diversity
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Education
+	
+	 "><a title="Education" alt="Education" href="http://amlife.america.gov/amlife/education/index.html">
+		Education
+			
+		</a>
+
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Innovation
+	
+	 "><a title="Innovation" alt="Innovation" href="http://amlife.america.gov/amlife/innovation/index.html">
+		Innovation
+			
+		</a>
+		</li>
+	
+
+	<li class="Sports
+	
+	 "><a title="Sports" alt="Sports" href="http://amlife.america.gov/amlife/sports/index.html">
+		Sports
+			
+		</a>
+		</li>
+	
+<!--
+
+
+
+
+	
+
+	<li class="more
+	
+	 "><a title="More »" alt="More »"
+	
+
+
+	href="http://amlife.america.gov/amlife.html" title="More »">
+		More »
+			
+		</a>
+		</li>
+	
+
+
+-->
+
+
+	</ul></li>
+
+	<li class="Democracy
+	
+	
+		
+			
+			"><a title="Democracy" alt="Democracy" href="http://democracy.america.gov/democracy.html">
+		Democracy
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="Democracy Around the World
+	
+	 "><a title="Democracy Around the World" alt="Democracy Around the World" href="http://democracy.america.gov/democracy/global/index.html">
+		Democracy Around the World
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Human Rights
+	
+	 "><a title="Human Rights" alt="Human Rights" href="http://democracy.america.gov/democracy/rights/index.html">
+
+		Human Rights
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+		<li class="Press Freedom
+	
+	 "><a title="Press Freedom" alt="Press Freedom" href="http://democracy.america.gov/democracy/press-freedom/index.html">
+
+		Press Freedom
+			
+		</a>
+		</li>
+
+<!--
+
+	<li class="more
+	
+	 "><a title="More »" alt="More »"
+	
+
+
+	href="http://democracy.america.gov/democracy.html" title="More »">
+		More »
+			
+		</a>
+		</li>
+	
+
+-->
+
+
+
+	</ul></li>
+
+	<li class="Science &amp; Health
+	
+	
+		
+			
+			"><a title="Science &amp; Health" alt="Science &amp; Health" href="http://science.america.gov/science.html">
+
+		Science &amp; Health
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="Environment
+	
+	 "><a title="Environment" alt="Environment" href="http://science.america.gov/science/environ/index.html">
+		Environment
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Global Health
+	
+	 "><a title="Global Health" alt="Global Health" href="http://science.america.gov/science/health/index.html">
+		Global Health
+			
+		</a>
+
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Space
+	
+	 "><a title="Space" alt="Space" href="http://science.america.gov/science/space/index.html">
+		Space
+			
+		</a>
+		</li>
+	
+
+
+
+
+<!--
+	
+
+	<li class="more
+	
+	 "><a title="More »" alt="More »"
+	
+
+
+	href="http://science.america.gov/science.html" title="More »">
+		More »
+			
+		</a>
+		</li>
+	
+
+
+
+-->
+
+	</ul></li>
+
+	<li class="secondary Publications
+	
+	
+		
+			
+			"><a title="Publications" alt="Publications" href="/publications.html">
+		Publications
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="eJournals
+	
+	 "><a title="eJournal USA" alt="eJournal USA" href="/publications/ejournalusa.html">
+		eJournal USA
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Books
+	
+	 "><a title="Books" alt="Books" href="/publications/books.html">
+
+		Books
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Student Corner
+	
+	 "><a title="Student Corner" alt="Student Corner" href="/publications/student-corner.html">
+		Student Corner
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	</ul></li>
+
+	<li class="secondary Multimedia
+	
+	
+		
+			
+			"><a title="Multimedia" alt="Multimedia" href="/multimedia.html">
+
+		Multimedia
+		 		 </a>
+		<ul>
+	
+
+
+
+
+
+	
+
+	<li class="Ask America
+	
+	 "><a title="Ask America" alt="Ask America" href="/multimedia/askamerica.html">
+		Ask America
+			
+		</a>
+		</li>
+	
+
+<li class="Blogs
+	
+	 "><a title="Blogs" alt="Blogs" href="http://blogs.america.gov">
+		Blogs
+			
+		</a>
+		</li>
+	
+
+
+
+
+	
+
+	<li class="Photo Gallery
+	
+	 "><a title="Photo Gallery" alt="Photo Gallery" href="/multimedia/photogallery.html">
+		Photo Gallery
+			
+		</a>
+
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Podcasts
+	
+	 "><a title="Podcasts" alt="Podcasts" href="/multimedia/podcast.html">
+		Podcasts
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Video
+	
+	 "><a title="Video" alt="Video" href="/multimedia/video.html">
+		Video
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	</ul></li>
+
+	<li class="secondary world-regions"><a title="World Regions" alt="World Regions" href="/world.html">World Regions</a>
+		<ul>
+	
+
+<li class="Africa"><a title="Africa" alt="Africa" href="/world/africa.html">Africa</a>
+		</li>
+
+	<li class="The Americas"><a title="The Americas" alt="The Americas" href="/world/americas.html">The Americas</a>
+		</li>
+
+<li class="East Asia &amp; the Pacific"><a title="East Asia &amp; the Pacific" alt="East Asia &amp; the Pacific" href="/world/easia.html">East Asia &amp; the Pacific</a>
+		</li>
+
+<li class="Europe &amp; Eurasia"><a title="Europe &amp; Eurasia" alt="Europe &amp; Eurasia" href="/world/europe.html">Europe &amp; Eurasia</a>
+		</li>
+
+<li class="Middle East &amp; North Africa"><a title="Middle East &amp; North Africa" alt="Middle East &amp; North Africa" href="/world/mideast.html">Middle East &amp; North Africa</a>
+		</li>
+
+	
+		<li class="South &amp; Central Asia"><a title="South &amp; Central Asia" alt="South &amp; Central Asia" href="/world/scasia.html">South &amp; Central Asia</a>
+		</li>
+		
+       		</ul>
+
+		</li>
+       		</ul>
+ 	
+
+
+</div>
+  </div>
+
+<span id="skipGlobalNav"></span>
+
+<!-- [END] Main Header -->
+<!-- E. Header -->
+
+<!-- B. Content -->
+<a name="id0y6_p5VE4czLHAzi2gTE7A" id="id0y6_p5VE4czLHAzi2gTE7A"></a>
+
+
+
+<div id="page-tools">
+
+<a class="skip-nav " href="#skipBreadcrumbNav"><img src="/uploads/cP/iX/cPiXu6sEEhAzgCLmGKtPwA/spacer.gif" width="1" height="0" border="0" alt="Skip Navigation"></a> 
+
+<!-- S. Breadcrumb -->
+
+
+<ul class="breadcrumbs">
+
+      	<li>You are in:</li>
+				<li>
+					<a href="http://www.america.gov" alt="<tmpl_var page.menuTitle>" title="<tmpl_var page.menuTitle>">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&gt;
+				</li>
+
+		
+</ul>
+<!-- E. Breadcrumb -->
+
+<span id="skipBreadcrumbNav"></span>
+
+</div>
+
+<div class="body landing-page" id="">
+
+<h2>Privacy</h2>
+
+<!-- begin position 1 -->
+<div class="help-feedback">
+
+
+
+	
+
+	<!-- START OF SmartSource Site Specific Data Collector TAG -->
+
+<script src="http://www.america.gov/sdc_scr/america-wtinit.js" type="text/javascript"></script>
+
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src=" http://sdc.america.gov/dcs3xm2zrgkajvdc2oya6c0y1_8s7p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;dcscfg=4&amp;WT.tv=1.3.7"/></div>
+</noscript>
+
+<!-- END OF SmartSource Site Specific Data Collector TAG -->
+
+
+	
+
+
+
+</div>
+<!-- end position 1 -->
+
+<!-- begin position 2 -->
+<div class="column-two">
+
+
+
+	
+
+	
+<a name="id0yArN1LDghXMgCujO-grfg" id="id0yArN1LDghXMgCujO-grfg"></a>
+
+
+
+
+
+
+
+
+
+
+	<p>We collect no personal information about you when you visit our site unless you choose to provide this information to us. However, we collect and store certain information automatically. </p><p class="aboutsubhead"><strong>What We Collect and Store Automatically</strong></p><p>Name of the domain from which you access the Internet (for example, aol.com, if you use an America Online account, or princeton.edu if you connect from Princeton University's domain);</p><p>Date and time you access our site; and</p><p>Internet address of the Website from which you linked directly to our site.</p><p>We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you. </p><p class="aboutsubhead"><strong>If You Send Us E-mail</strong></p><p>You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.</p><p class="aboutsubhead"><strong>Links to Other Sites</strong></p><p>Our Website has many links to other federal agencies, embassies, multilateral organizations and private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.</p>
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+</div>
+<!-- end position 2 -->
+
+<!-- begin position 3 -->
+<div class="column-right">
+
+
+	
+		
+
+		<span class="widgetid-other-languages">
+<div class="box Other Languages">
+<a name="idMzvr_EVMXixqSfpqwBOqsw" id="idMzvr_EVMXixqSfpqwBOqsw"></a>
+
+
+
+	 
+
+
+        <h4>Other Languages <span> </span></h4>
+	
+
+<div class="box-body">
+
+
+	<p><a href="http://usinfo.state.gov/ar/Home/privacy.html">Arabic</a></p><p><a href="http://usinfo.state.gov/mgck/home/privacy.html">Chinese</a></p><p><a href="http://usinfo.state.gov/fr/home/privacy.html">French</a></p><p><a href="http://persian.usinfo.state.gov/USINFO_Persian/privacy.html">Persian</a></p><p><a href="http://usinfo.state.gov/russian/home/privacy.html">Russian</a></p><p><a href="http://usinfo.state.gov/esp/home/privacy.html">Spanish</a></p>
+
+
+
+</div>
+
+</div>
+</span>
+
+		
+	
+
+	
+</div>
+<!-- end position 3 -->
+
+<!-- begin position 4 -->
+<div class="column-three">
+
+
+
+
+
+</div>
+<!-- end position 4 -->
+
+
+
+</div>
+<!-- E. Content -->
+
+<!-- B. Footer -->
+<!-- [BEGIN] Footer -->
+
+  <div id="footer">
+
+    <!-- [BEGIN] Footer Top -->
+
+    <ul class="footer-top">
+
+
+
+<li><a title="Home" alt="Home" href="http://www.america.gov"> Home	<!-- 
+a--></a></li><a title="Home" alt="Home" href="http://www.america.gov">
+
+
+</a><li><a title="Home" alt="Home" href="http://www.america.gov"></a><a title="Foreign Policy" alt="Foreign Policy" href="http://fpolicy.america.gov/fpolicy.html &#10;"> Foreign Policy	</a></li>
+
+
+<li><a title="U.S. Politics" alt="U.S. Politics" href="http://uspolitics.america.gov/uspolitics.html &#10;"> U.S. Politics	</a></li>
+
+
+<li><a title="American Life" alt="American Life" href="http://amlife.america.gov/amlife.html &#10;"> American Life	</a></li>
+
+
+<li><a title="Democracy" alt="Democracy" href="http://democracy.america.gov/democracy.html &#10;"> Democracy	</a></li>
+
+
+<li><a title="Science &amp; Health" alt="Science &amp; Health" href="http://science.america.gov/science.html &#10;"> Science &amp; Health	</a></li>
+
+<li><a title="World Regions" alt="World Regions" href="http://www.america.gov/world.html &#10;"> World Regions	</a></li>
+
+<li><a title="Multimedia" alt="Multimedia" href="http://www.america.gov/multimedia.html &#10;"> Multimedia	</a></li>
+
+<li><a title="Publications" alt="Publications" href="http://www.america.gov/publications.html &#10;"> Publications	</a></li>
+
+
+
+
+</ul>
+
+    <p class="disclaimer">This
+site delivers information about current U.S. foreign policy and about
+American life and culture. It is produced by the U.S. Department of
+State's Bureau of International Information Programs. Links to other
+Internet sites should not be construed as an endorsement of the views
+contained therein.</p>
+
+    <!-- [END] Footer Top -->
+
+    <!-- [BEGIN] Footer Middle -->
+
+    <div class="footer-middle">
+
+      <div class="footer-middle-content">
+
+        <div class="footer-site"><a href="http://www.america.gov/" class="logo" title="America.gov" alt="America.gov">America.gov - Telling America's Story</a></div>
+
+        <div class="footer-links">
+
+         <ul class="services">
+<li class="title">Services:</li>
+
+<li class="Subscribe"><a href="http://www.america.gov/services/subscribe.html" alt="Subscribe" name="Subscribe" subscribe="" title="Subscribe">
+Subscribe</a></li>
+
+
+<li class="RSS Feeds"><a href="http://www.america.gov/services/rss-feeds.html" alt="RSS Feeds" name="RSS Feeds" rss="" feeds="" title="RSS Feeds">
+
+RSS Feeds</a></li>
+
+
+<li class="Mobile"><a href="http://www.america.gov/services/mobile.html" alt="Mobile" name="Mobile" mobile="" title="Mobile">
+Mobile</a></li>
+
+
+<li class="Weekly Newsletter"><a href="http://www.america.gov/services/email-alerts.html" alt="Weekly Newsletter" name="Weekly Newsletter" title="Weekly Newsletter">
+Weekly Newsletter</a></li>
+
+</ul>
+          
+<ul class="editions"> <li class="title">Editions:</li>
+
+
+<li class="spanish"><a title="Español" alt="Español" href="http://usinfo.state.gov/esp" name="Español" español="">
+Español</a></li>
+
+
+<li class="french"><a title="Français" alt="Français" href="http://www.america.gov/fr" name="Français" français="">
+Français</a></li>
+
+<li class="russian "><a title="Русский" alt="Русский" href="http://usinfo.state.gov/russian" name="Русский" Русский="">
+Русский</a></li>
+
+
+<li class="farsi"><a title="فارسی" alt="فارسی" href="http://persian.usinfo.state.gov" name="فارسی" فارسی="">
+فارسی</a></li>
+
+
+<li class="chinese"><a title="中文" alt="中文" href="http://usinfo.state.gov/mgck" name="中文" 中文="">
+中文</a></li>
+
+
+<li class="arabic"><a title="عربي" alt="عربي" href="http://usinfo.state.gov/ar" name="عربي" عربي="">
+
+عربي</a></li>
+ </ul>
+
+<ul class="multimedia">
+<li class="title">Multimedia:</li>
+
+<li class="Ask America
+	
+	 "><a title="Ask America" alt="Ask America" href="/multimedia/askamerica.html">
+		Ask America
+			
+		</a>
+		</li>
+	
+
+<li class="Blogs
+	
+	 "><a title="Blogs" alt="Blogs" href="http://blogs.america.gov">
+		Blogs
+			
+		</a>
+		</li>
+	
+
+
+
+	
+
+	<li class="Photo Gallery
+	
+	 "><a title="Photo Gallery" alt="Photo Gallery" href="/multimedia/photogallery.html">
+		Photo Gallery
+			
+		</a>
+
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Podcasts
+	
+	 "><a title="Podcasts" alt="Podcasts" href="/multimedia/podcast.html">
+		Podcasts
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Video
+	
+	 "><a title="Video" alt="Video" href="/multimedia/video.html">
+		Video
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+</ul>
+
+<ul class="publications">
+<li class="title">Publications:</li>
+
+
+
+<li class="eJournals
+	
+	 "><a title="eJournal USA" alt="eJournal USA" href="/publications/ejournalusa.html">
+		eJournal USA
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Books
+	
+	 "><a title="Books" alt="Books" href="/publications/books.html">
+
+		Books
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+	<li class="Student Corner
+	
+	 "><a title="Student Corner" alt="Student Corner" href="/publications/student-corner.html">
+		Student Corner
+			
+		</a>
+		</li>
+	
+
+
+
+
+
+	
+
+</ul>    
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- [END] Footer Middle -->
+
+    <!-- [BEGIN] Footer Bottom -->
+
+    <div class="footer-bottom">
+
+      <div class="footer-bottom-content">
+
+<ul class="local">
+
+<li><a title="About Us" alt="About Us" href="/pages/footer/local/about-us.html"> About Us	</a></li>
+
+<li><a title="Contact Us" alt="Contact Us" href="/pages/footer/local/contact-us.html"> Contact Us	</a></li>
+
+
+<li><a title="Site Map" alt="Site Map" href="/pages/footer/local/site-map.html"> Site Map	</a></li>
+
+
+<li><a title="Privacy" alt="Privacy" href="/pages/footer/local/privacy.html"> Privacy	</a></li>
+
+</ul>
+       
+
+<ul class="external">
+
+<li><a title="USA.gov" alt="USA.gov" href="http://www.usa.gov"> USA.gov	</a></li>
+
+<li><a title="Government Links" alt="Government Links" href="/pages/footer/external/other-government-links.html"> Government Links	</a></li>
+
+</ul>
+
+       
+      </div>
+
+    </div>
+
+    <!-- [END] Footer Bottom -->
+
+  </div>
+
+<!-- [END] Footer -->
+
+<!-- E. Footer -->
+	
+</div>
+
+
+
+</body></html>
