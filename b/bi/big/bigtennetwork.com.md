@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigtennetwork.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215041303id_/http%3A//www.bigtennetwork.com/corporate/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtennetwork.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625053206id_/http%3A//www.bigtennetwork.com/corporate/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Big Ten Network
 
-_Effective as of August 30, 2007._
+_Effective as of January 17, 2008._
 
 Big Ten Network, LLC (""Big Ten Network"") is part of the News America Group, which has adopted a set of Privacy Principles ([http://www.newscorp.com/privacy.html](http://www.newscorp.com/privacy.html)) applicable to all its U.S.-based companies. Big Ten Network has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (""PII"") we obtain from and about individuals located in the U.S., both online and off-line.  
 
@@ -39,6 +39,10 @@ Big Ten Network's Web site(s) may be linked to Internet sites operated by other 
 Big Ten Network's Web site(s) may also be linked to Web sites operated by companies affiliated with Big Ten Network (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's Privacy Principles ([http://www.newscorp.com/privacy.html](http://www.newscorp.com/privacy.html)), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
 Some of the advertisements that appear on Big Ten Network's Web site(s) are delivered to you by national Internet advertising companies such as Doubleclick and 24/7Real Media. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit:
+
+[http://www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx "http://www.doubleclick.com/privacy/index.aspx")
+
+[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")  
 
 **_CHOICE:    BIG TEN NETWORK WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_**
 
@@ -92,6 +96,6 @@ P.O. Box 900
 
 Beverly Hills, California 90213-0900
 
-Telephone:        (310) 369-0532
+Telephone:        (310) 369-1350
 
 You may also request a written response to your concerns, which will be made no later than forty-five (45) business days after you contact Big Ten Network.
