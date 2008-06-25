@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221210241id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625045951id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Machine Mart: No1 for Tools & Equipment
 
@@ -50,6 +50,6 @@ Cookies are small programs that our website sends to your browser software, whic
    **Information queries**  
 We collect, store and process information in accordance with the Data Protection Act 1998. 
 
- If you have any queries with regards to personal information collected by Machine Mart Ltd, please contact us at webprivacy@machinemart.co.uk
+ If you have any queries with regards to personal information collected by Machine Mart Ltd, please contact us at customerservice@machinemart.co.uk
 
  Or write to:
