@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217020654id_/http%3A//mbna.co.uk/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625113512id_/http%3A//www.mbna.co.uk/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
 
 # MBNA Europe - Privacy
 
@@ -33,7 +33,7 @@ MBNA is committed to ensuring your personal and Account information is protected
 
 
 **Advertising Services**  
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programmes. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20071217020710id_/http://www.mbna.co.uk/advertising_services.html "Link opens in a new window")
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programmes. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20080320074714id_/http://www.mbna.co.uk/advertising_services.html "Link opens in a new window")
 
 MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
