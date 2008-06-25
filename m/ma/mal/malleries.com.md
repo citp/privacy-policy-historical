@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114924id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625173951id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
-SHOP CATEGORIES
+CATEGORIES
 
 [](http://www.malleries.com/)
+
+[](http://www.collectorsplus.com/)
 
 | 
 
