@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zoombli.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111041204id_/http%3A//zoombli.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombli.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625020016id_/http%3A//www.zoombli.com//Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# zoombli.com
-
-## Privacy Policy
+# Zoombli
 
 Zoombli takes your privacy as seriously as you do. Respecting your privacy is our lifeblood because without customers like you we have no business. This Privacy Policy is designed to assist you in understanding how we collect and use personal information such as your name and email address. We hope that this will help you to make informed decisions when visiting our web sites, buying from us, or otherwise using our services.
 
@@ -55,6 +53,6 @@ We limit access to personal information about you to employees who we believe re
 
 Zoombli may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address in our file for you or by placing a prominent notice on our site.
 
-If you have any questions about this Privacy Policy, please email us at [support@ Zoombli.com](mailto:support@zoombli.com) or write to us at Privacy Concerns, c/o Zoombli, 23316 NE Redmond-Fall City Road, #667, Redmond, WA 98053.
+If you have any questions about this Privacy Policy, please email us at [support@zoombli.com](mailto:support@zoombli.com) or write to us at Privacy Concerns, c/o Zoombli, 23316 NE Redmond-Fall City Road, #667, Redmond, WA 98053.
 
 ##### Last Updated October 10th, 2006
