@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162756id_/http%3A//www.dailyexpress.co.uk/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625151808id_/http%3A//www.dailyexpress.co.uk/show/privacy) for the most accurate reproduction.*
 
-# Daily Express: The World's Greatest Newspaper :: Show
+# Daily Express: The World's Greatest Newspaper :: Privacy Policy
 
 Express Newspapers is committed to your right to Privacy and will only use your data as set in our privacy policy below. Please read this information carefully. By using the Site you agree to us collecting and using your personal information with the details below. 
 
