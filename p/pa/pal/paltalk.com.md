@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231122916id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625062824id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
@@ -54,9 +54,9 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@corp.paltalk.com](mailto:optout@corp.Paltalk.com). You may also contact us at: 
 
 Paltalk.com  
-P.O. Box 2412  
-JAF Station  
-New York, NY 10116
+Church Street Station  
+P.O. Box 3454  
+New York, NY 10008
 
 Or, please contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
 
@@ -119,9 +119,9 @@ This statement reflects the privacy policy of Paltalk with respect to the Web si
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Paltalk.com  
-P.O. Box 2412  
-JAF Station  
-New York, NY 10116 
+Church Street Station  
+P.O. Box 3454  
+New York, NY 10008
 
 Or, by visiting our helpful customer support staff online, on the Paltalk buddy list window, click Groups, then Paltalk Help Groups. 
 
