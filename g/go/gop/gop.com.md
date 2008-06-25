@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126021330id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625230057id_/http%3A//www.gop.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# GOP.com | Republican National Committee :: Privacy Policy
+# Republican • National • Committee
 
----  
-| 
-
+|  |  |   
+---|---|---  
+  
 Welcome to GOP.com, the official Web site of the Republican National Committee (RNC). We hope you enjoy your visit. The RNC knows your right to privacy online is important. You do not have to identify yourself or divulge personal information unless you choose to give us your personal information. 
 
 Should you choose to share your personal information, we would like you to know exactly how that information is used by us to provide a better user experience, and the steps we take to protect your information. This privacy policy has been created to answer any questions you may have regarding the RNC’s data collection and protection policies. 
@@ -91,7 +91,7 @@ When registering with GOP.com, please know that you are opting to receive these 
 
 **How do I contact the Republican National Committee?**
 
-  * **Contact information for the Republican National Committee:** If you have any questions, comments or concerns please contact the RNC by e-mail or by phone using the contact information [provided here](https://web.archive.org/contactus/default.aspx). 
+  * **Contact information for the Republican National Committee:** If you have any questions, comments or concerns please contact the RNC by e-mail or by phone using the contact information [provided here](http://www.gop.com/Connect/ContactUs.htm). 
 
 
 
@@ -102,21 +102,3 @@ When registering with GOP.com, please know that you are opting to receive these 
 
 
 Updated July 17, 2006
-
-|  |   
----  
-  
-[]()  
-  
-|   
----  
-| **Republican National Committee** | 310 First Street, SE | Washington, D.C. 20003  
-p: 202.863.8500 | f: 202.863.8820 | e: [info@gop.com](mailto:info@gop.com)   
-[ PRIVACY POLICY](http://www.gop.com/PrivacyPolicy.aspx) | [ SITE MAP](http://www.gop.com/SiteMap.aspx)
-
-Paid for by the Republican National Committee  
-Not Authorized By Any Candidate Or Candidate's Committee   
-www.GOP.com © 2007 Republican National Committee
-
-  
-| 
