@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232212id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626001224id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Compiere Privacy Statement
 
 Version 2.1 - 14-May-2003 - modified 26-Jan-04/08-Apr-04
 
-This privacy note discloses the privacy practices for **http://www.compiere.org** and **http://www.compiere.com**. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://sourceforge.net/docman/display_doc.php?docid=6049&group_id=1).
+his privacy note discloses the privacy practices for **http://www.compiere.org** and **http://www.compiere.com**. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://sourceforge.net/docman/display_doc.php?docid=6049&group_id=1).
 
 ## Our Commitment To Privacy
-
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine®. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). You can verify this by clicking [here](http://www.bbbonline.org/cks.asp?id=2030514133831318) or on the seal above.
 
 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -56,7 +54,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 If you have any questions about this privacy notice, the practices of this site, or your dealings with this Web site, you can contact
 
-_ComPiere, Inc.  
+_Compiere, Inc.  
 3600 Bridge Parkway  
 Suite 102  
 Redwood City, CA 94065  
