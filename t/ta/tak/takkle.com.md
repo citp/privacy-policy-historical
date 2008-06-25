@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030033008id_/http%3A//www.takkle.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625092821id_/http%3A//www.takkle.com/general/privacy) for the most accurate reproduction.*
 
 # Takkle Privacy Policy
 
@@ -99,9 +99,10 @@ Because our business needs may change over time, we reserve the right, at our di
 If you have any questions or concerns about this privacy policy you may [email us](mailto:%20privacy@takkle.com) or write to the following address:
 
 TAKKLE, INC.  
-1560 Broadway, Suite 1308  
-New York, NY 10036  
+245 West 17th Street  
+11th Floor  
+New York, NY 10011  
 Attn: Privacy
 
-Telephone: (212) 792-5850  
+Telephone: (212) 488-4970  
 Facsimile: (212) 792-5859 
