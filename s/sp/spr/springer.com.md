@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214011222id_/http%3A//www.springer.com/west/home/generic/privacy%3FSGWID%3D4-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626010012id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
 
-# Privacy Journals, Academic Books & Online Media | Springer
+# Journals, Academic Books & Online Media | Springer
 
 | 
 
@@ -51,6 +51,10 @@ At any time, you may contact us to review and correct the Personal Data we have 
 Users' profile information (e.g. type of user (.com, .edu, e.g.), discipline(s) of interest, etc.) may be used to create personalized content, services, and advertising on or related to www.springeronline.com. www.springeronline.com may also use Users' profile information to create aggregate reports. Such profile information is anonymous and does not contain any personally identifiable information.   
   
 www.springeronline.com reserves the right to cooperate fully with state, local, and federal officials in any investigation relating to any Content (including personal or private electronic communication transmitted on www.springeronline.com) or purported unlawful activities of any User. 
+
+[Opt-out](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
+
+When you wish to opt-out from the tracking of user activities on springer.com you can do so at the form when following the link [...More!](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
 |  |  |   
 ---|---|---|---|---
