@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211074519id_/http%3A//www.nashuatelegraph.com/apps/pbcs.dll/article%3FAID%3D/20031129/ABOUTUS/31129006/-1/ABOUT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625193505id_/http%3A//www.nashuatelegraph.com/apps/pbcs.dll/article%3FAID%3D/20031129/ABOUTUS/31129006/-1/ABOUT) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
@@ -82,6 +82,7 @@ We have several feedback forms on the Telegraph Online. Any feedback that is sub
 
 Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about the Telegraph Online’s privacy policy, please feel free to email us at [privacy@nh.com](mailto:privacy@nh.com) or call (603) 594-6458 and speak to our new media manager. 
 
-  
+## Automatic email verification now required to post comments. Anonymous posts still allowed. Details [here](http://www.nashuatelegraph.com/apps/pbcs.dll/article?AID=/20080219/COLUMNISTS43/771763242).
+
   
 
