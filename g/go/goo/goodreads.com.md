@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208113519id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626000939id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
 
 # Goodreads | see what your friends are reading
 
@@ -32,7 +32,7 @@ Your email address and name are used when a member invites another person via em
 
 Goodreads may develop special sites in cooperation with other companies. If you register at these "co-branded" sites, we share your registration information (such as name and email address) with that company.
 
-Our business is about building a long-term relationship with you. To build that trust, we know that as you spend time on our site and with our email newsletters, your personal information must remain within your control. Therefore, unless you give us your express permission, except if we believe in good faith that the law requires it, that disclosure is necessary to respond to a subpoena, warrant, or court order, or to protect the rights of Goodreads or others, we will not share your personal information with unauthorized third parties. We consider your personal information to be exactly that — yours. And we will do our best to protect it!
+Our business is about building a long-term relationship with you. To build that trust, we know that as you spend time on our site and with our email newsletters, your personal information must remain within your control. Therefore, unless you give us your express permission, except if we believe in good faith that the law requires it, that disclosure is necessary to respond to a subpoena, warrant, or court order, or to protect the rights of Goodreads or others, we will not share your personal information with unauthorized third parties. We have currently not received any such warrants, and intend to resist any we do receive. We consider your personal information to be exactly that — yours. And we will do our best to protect it!
 
   
 
