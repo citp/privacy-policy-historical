@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiamissourian.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051127id_/http%3A//www.columbiamissourian.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiamissourian.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625122722id_/http%3A//www.columbiamissourian.com/about/privacy) for the most accurate reproduction.*
 
 # Columbia Missourian
 
