@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214222209id_/http%3A//www.spcollege.edu/webcentral/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626012718id_/http%3A//www.spcollege.edu/webcentral/privacy.htm) for the most accurate reproduction.*
 
 # SPC Internet Privacy Policy
 
