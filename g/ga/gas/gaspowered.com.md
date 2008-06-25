@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221182740id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625033306id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
 
 # Gas Powered Games: Privacy Policy
 
@@ -9,7 +9,7 @@
 | |   
 
 
-Last updated: May 30th, 2007
+Last updated: January 8th, 2008
 
 **OUR PRIVACY COMMITMENT**
 
@@ -161,6 +161,17 @@ top
 
 As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so through our User Profile mechanism.
 
+### Your California Privacy Rights
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please send us an e-mail to [privacy@gaspowered.com](mailto:privacy@gaspowered.com) or write us:
+
+Gas Powered Games  
+Attn.: Online Privacy  
+5000 148th Ave NE Suite 200  
+Redmond, WA 98052-5118
+
+425-522-1600 
+
 top  
   
 ### Q5
@@ -213,10 +224,10 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 Gas Powered Games  
 Attn.: Online Privacy  
-PO Box 0428  
-Redmond, WA 98073-0428
+5000 148th Ave NE Suite 200  
+Redmond, WA 98052-5118
 
-425-522-1600
+425-522-1600 
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
