@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrepreneur.co.za privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027092829id_/http%3A//www.entrepreneur.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneur.co.za privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626012413id_/http%3A//www.entrepreneur.co.za/privacy.htm) for the most accurate reproduction.*
 
 # entrepreneur.co.za - focusing on solutions rather than problems
 
