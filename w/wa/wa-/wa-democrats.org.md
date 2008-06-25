@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724094949id_/http%3A//wa-democrats.org/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625200805id_/http%3A//www.wa-democrats.org/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
 
 # Washington State Democrats - Privacy Policy
 
@@ -26,7 +26,3 @@ Washington State Democrats
 P.O. Box 4027  
 Seattle, WA 98194  
 (206) 583-0664
-
-|  | 
-
-[](http://www.wa-democrats.org/index.php?page=display&id=38)
