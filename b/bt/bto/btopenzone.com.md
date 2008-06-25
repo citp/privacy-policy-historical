@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205060325id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625081747id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
 
 # privacypolicy
 
