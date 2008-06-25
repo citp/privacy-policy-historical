@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823072603id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625231913id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
+
+* * *
 
 ## Privacy Policy
 
