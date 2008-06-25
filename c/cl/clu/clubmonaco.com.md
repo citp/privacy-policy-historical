@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217203241id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625095747id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
 
 # Club Monaco Privacy Policy
 
