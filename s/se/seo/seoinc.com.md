@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818040030id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625050057id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
 
-# Legal
+# Legal and Privacy Page - Search Engine Optimization Inc.
 
   *   * This privacy notice discloses the privacy practices for Search Engine Optimization Inc or SEO Inc. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
     * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
@@ -44,7 +44,7 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 
   * * * *
 
-**Search Engine Optimization Inc.** \- 2720 Loker Ave W, Suite G - Carlsbad, CA 92010   
+**[Search Engine Optimization Inc](http://www.seoinc.com/ "Search Engine Optimization Inc")** \- 2720 Loker Ave W, Suite G - Carlsbad, CA 92010   
 Phone: 1-877-736-0006 • Phone: 1-760-929-0039 • Fax: 1-760-929-8002  
 North County San Diego 
 
