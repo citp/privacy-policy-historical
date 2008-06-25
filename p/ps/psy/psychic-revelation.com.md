@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024034350id_/http%3A//www.psychic-revelation.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626005547id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Psychic Revelation Privacy Policy
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
@@ -10,10 +10,10 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 3\. To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing. Our welcome message to subscribers and every issue of our newsletters clearly explain how to unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mail addresses to take unnecessary bandwidth. 
 
-4\. To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies (1) to help rotate banner advertising, (2) to identify shoppers with their shopping carts, (3) to make it easy to order a second time, (4) to allow subscribers to store passwords in cookies if they desire, (5) to give proper credit for sales made through links on our affiliates' sites, and (6) to prevent users from experiencing our pop-up subscription box more than once. We do NOT collect or use information from cookies to develop a profile about our visitors or shoppers. 
+4\. To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies (1) to help rotate banner advertising, (2) to identify shoppers with their shopping carts, (3) to make it easy to order a second time, (4) to allow subscribers to store passwords in cookies if they desire, and (5) to give proper credit for sales made through links on our affiliates' sites. We do NOT collect or use information from cookies to develop a profile about our visitors or shoppers. 
 
 5\. To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, behind password protection, or off-line. 
 
 6\. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
 
-These policies apply to all websites owned by TLG , including psychic-revelation.com, triquetra-design.com, saenbattams.com, and native-american-world.com.com. If you have any concerns or questions about our privacy policy or information collected on our sites, please contact [Talisman](mailto:talisman@psychic-revelation.com?=Privacy%20Policy) and he will reply promptly.
+These policies apply to all the various web sites owned by [DPH Enterprises](http://www.dphenterprises.com/), including Psychic Revelation, [Adriana's Attic](http://www.adrianas-attic.com/), [Native American World](http://www.native-american-world.com/), [Sharing Circle](http://www.sharing-circle.com/) and [Triquetra Design](http://www.triquetra-design.com/). If you have any concerns or questions about our privacy policy or information collected on our sites, please contact [support@psychic-revelation.com](mailto:support@psychic-revelation.com?subject=PrivacyPolicy) and we will reply promptly.
