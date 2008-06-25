@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126061001id_/http%3A//www.codegear.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegear.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625180919id_/http%3A//www.codegear.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+| 
 
+|  [ ](http://www.codegear.com/) | 
+
+Where Developers Matter
+
+Integrated Development Environments for Windows, Java, and Web Developers
+
+|   
+---|---|---  
+  
 **(Effective Date: August 31, 2004)**
 
 The following statement discloses the consumer privacy practices of Borland Software Corporation ("Borland") for the CodeGear Web Site (this "Site"). This Privacy Policy governs all use of this Site, except for the portions of the site within the shop.borland.com domain, which are covered by the privacy policy [here](http://shop.borland.com/dr/v2/ec_main.entry11?xid=39696&sp=10345&pn=1#q1). By using this Site, you are deemed to consent to our privacy practices. If you do not consent to these privacy practices, do not use this Site or download any materials from it.
@@ -44,4 +53,4 @@ We may also link to co-branded Web sites from time to time that are maintained b
 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
-For questions regarding this Privacy Statement please [contact us](https://web.archive.org/web/20071126061001id_/http%3A//contact).
+For questions regarding this Privacy Statement please [contact us](https://web.archive.org/web/20080625180919id_/http%3A//contact).
