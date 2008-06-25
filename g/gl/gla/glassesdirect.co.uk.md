@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216194556id_/http%3A//glassesdirect.co.uk/release_000/pacp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625022711id_/http%3A//www.glassesdirect.co.uk/release_000/pacp.php) for the most accurate reproduction.*
 
-# Glasses Direct - Privacy and cookie policy
+# Glasses Direct - Legal Stuff
 
 ### 1\. INTRODUCTION
 
