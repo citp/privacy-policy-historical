@@ -1,28 +1,34 @@
-> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104062340id_/http%3A//www.colorado.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625091358id_/http%3A//www.colorado.edu/privacy) for the most accurate reproduction.*
 
-# Privacy | University of Colorado at Boulder
+# Privacy Statement | University of Colorado at Boulder
 
-  
-**Privacy Statement**
+## Privacy Statement
 
-**Commitment to Individual Privacy**
+### Commitment to Protection of Individual Privacy
 
-The University of Colorado supports the protection of individual privacy, and is committed to ensuring the confidentiality of personally identifiable information provided by its employees, students, and visitors. However, because the University of Colorado is a public institution, some personally identifiable information may be subject to disclosure pursuant to the Colorado Open Records Act (C.R.S. § 24-72-101 _et seq_.). In addition, the University may disclose information to third parties when such disclosure is required or permitted by law. 
+The University of Colorado at Boulder (CU-Boulder) supports the protection of the privacy of individuals who visit official campus websites. It recognizes the numerous laws that govern the collection, storage, transfer, use and access to personally identifiable information. This statement extends to the collection of all personally identifiable information, regardless of source or medium. However, because CU-Boulder is a state institution, some information collected from official websites may be subject to the Colorado Open Records Act (C.R.S. 24-72-201 et.seq.) In addition, CU-Boulder may disclose information to third parties when such disclosure is required or permitted by law.
 
-**Colorado Open Records Act (C.R.S. § 24-72-201 _et seq_ )**
+This statement does not apply to websites that are created and maintained for purposes other than conducting official university business by individual faculty, staff or students using resources made available within a university domain.
 
-The State of Colorado requires that all public records be open for public inspection by any person except as otherwise provided by law. “Public Records” are defined as all writings made or maintained by a state institution, such as the University of Colorado regardless of medium or format. Personal information provided to the University may be subject to public inspection and copying unless protected by state or federal law. 
+### Collection of Information
 
-**Family Education Rights and Privacy Act (20 U.S.C. § 1232g)**
+It is the practice of CU-Boulder to collect the least amount of personally identifiable information required to fulfill its duties and responsibilities, to complete a particular transaction, or as required by law. A wide variety of colleges, schools, departments, divisions, and other units contribute to CU-BoulderÕs official web pages. Any website collecting personally identifiable information must include a privacy statement and collect only personally identifiable information required to fulfill the unitÕs duties and responsibilities.
 
-In general, the Family Education Rights and Privacy Act (“FERPA”) prohibits the release of students’ educational records. However, the University of Colorado may release student directory information or student educational records if allowed or required by FERPA. For more information about FERPA, contact your campus registrar’s office. 
+Information you provide will only be shared with individuals within the university community who need to know it in order to respond to your request, to provide services and to carry out university business. For the same reasons, CU-Boulder may also share your information with other people or organizations that provide services to CU-Boulder or help us provide services to you. CU-Boulder requires these individuals and organizations to protect your information according to this statement and applicable law. 
 
-**Information Collected**
+You may choose whether or not to provide personal information to CU-Boulder via the Internet. If you choose not to provide personal information, you can still visit most CU-Boulder websites, but you may be unable to access certain options, offers, and services.
 
-It is the policy and practice of the University of Colorado to collect the least amount of personally identifiable information necessary to fulfill its required duties and responsibilities, complete a particular transaction, deliver services, or as required by law. This applies to the collection of all personally identifiable information regardless of source or medium. Information provided should only be shared with members of the University community who have a need to know in order to provide services or conduct University business. The University of Colorado may share personally identifiable information with other individuals or organizations that provide services to the University. The University requires these third parties to protect personally identifiable information it receives pursuant to this policy and applicable law. The University will take reasonable and appropriate measures to protect personally identifiable information from unauthorized access or disclosure.   
-Individuals may choose whether or not to provide information to the University of Colorado via the Internet. Most University websites may be accessed without providing personally identifiable information, however some options or special services may require the submission of personally identifiable information.   
-Information other than personally identifiable information may be collected from the Internet for analysis and statistical purposes. Such information may include user visit logs, network traffic logs, and small text files known as “cookies” used to assess website activity. Information collected from the Internet is used to diagnose problems, assess what information is of most interest, determine technical design specifications, and identify system performance and/or problem areas. 
+For website administration purposes, information, other than personally identifiable information, is collected for analysis. This information is used to help diagnose problems, assess what information is most of interest, determine technical design specifications, and identify system performance and/or problem areas, and other administrative functions. This information includes logs of user visits to CU-Boulder websites, network traffic logs necessary to insure security and optimum performance, and small text files called ÒcookiesÓ used to keep track of settings.
 
-**Comments and Feedback**
+### Comments and Feedback
 
-Please send comments, questions, or concerns to [webcom@colorado.edu](mailto:webcom@colorado.edu). When sending comments, please include a current mailing address. Please do not send attachments with the message. 
+Send comments or questions to [webcom@colorado.edu](mailto:webcom@colorado.edu). If you send comments, please include a mailing address. Do not send attachments with the message. (Due to concern about computer viruses and the damage they cause, email messages containing attachments will be deleted without opening them.)
+
+### Disclaimer
+
+The information provided in this privacy statement should not be construed as giving business, legal or other advice, or as guaranteeing the security of information provided through CU-BoulderÕs websites.
+
+Date: March 26, 2007  
+Approved by: G. P. "Bud" Peterson, Chancellor  
+Authors: Electronic Communications Committee (ECC) and Office of University Counsel  
+Distribution: Students, Deans, Directors, Department Heads, Faculty and Staff
