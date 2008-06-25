@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227215708id_/http%3A//www.viewbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625230340id_/http%3A//viewbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Viewbug
 
