@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215184644id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625042507id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Statement
 
@@ -11,7 +11,7 @@ In this Web Site Privacy Statement (“statement”), we, Qualcomm Incorporated 
 **Scope.**  
 This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data that we or our affiliates collect offline or through web sites that do not display a direct link to this statement. Occasionally, we may refer to this statement in notices and consent requests related to surveys and special-purpose web pages, for example, our [Careers](https://jobs.qualcomm.com/privacy.asp) web pages; under such circumstances, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
 
-Our Safe Harbor Certification covers offline and human resources data, but not data submitted through the site, as further explained in our [General EEA Safe Harbor Notice](https://web.archive.org/web/20071215184644id_/http%3A//www.qualcomm.com/main/eea_safeharbor.html). Some of our business units and web pages apply this statement subject to specifically disclosed modifications, supplements or exceptions.
+Our Safe Harbor Certification covers offline and human resources data, but not data submitted through the site, as further explained in our [General EEA Safe Harbor Notice](https://web.archive.org/web/20080625042507id_/http%3A//www.qualcomm.com/main/eea_safeharbor.html). Some of our business units and web pages apply this statement subject to specifically disclosed modifications, supplements or exceptions.
 
 **Types of Data and Collection Methods.**  
 Through the site, we receive data that you actively submit as well as data that we track:
