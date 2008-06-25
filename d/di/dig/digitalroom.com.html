@@ -1,0 +1,965 @@
+<!--The following is the downloaded HTML source of the digitalroom.com privacy policy that was archived on 2008-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625162848id_/http%3A//www.digitalroom.com/site-policies.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Digital Poster Printing Company - Digital Room</title>
+<meta name="keywords" content="4 Color Printing, Digital Printing, Poster Printing, Postcards, Business Cards, Posters, Greeting Cards, Rack Cards, Response Cards, Stickers and Labels">
+<meta name="description" content="Premier digital printing and poster printing company utilizing 4 color process and digital technology. Provides wide range of commercial printing products.">
+<base href="http://www.digitalroom.com/">
+<link rel="stylesheet" type="text/css" href="includes/templates/digitalroom/css/stylecampaign.css"><link rel="stylesheet" type="text/css" href="includes/templates/digitalroom/css/stylesheet.css">
+<script>
+
+		
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "GET";
+		
+		function sajax_debug(text) {
+			if (sajax_debug_mode)
+				alert("RSD: " + text)
+		}
+ 		function sajax_init_object() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			
+ 			var A;
+			try {
+				A=new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {
+				try {
+					A=new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (oc) {
+					A=null;
+				}
+			}
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		function sajax_do_call(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			
+			uri = "";
+			if (sajax_request_type == "GET") {
+				if (uri.indexOf("?") == -1) 
+					uri = uri + "?rs=" + escape(func_name);
+				else
+					uri = uri + "&rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					uri = uri + "&rsargs[]=" + escape(args[i]); 
+				uri = uri + "&rsrnd=" + new Date().getTime();
+				post_data = null;
+			} else {
+				post_data = "rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					post_data = post_data + "&rsargs[]=" + escape(args[i]);
+			}
+			
+			x = sajax_init_object();
+			x.open(sajax_request_type, uri, true);
+			if (sajax_request_type == "POST") {
+				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			}
+			x.onreadystatechange = function() {
+				if (x.readyState != 4) 
+					return;
+				sajax_debug("received " + x.responseText);
+				
+				var status;
+				var data;
+				status = x.responseText.charAt(0);
+				data = x.responseText.substring(2);
+				if (status == "-") 
+					alert("Error: " + data);
+				else  
+					args[args.length-1](data);
+			}
+			x.send(post_data);
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+		}
+		
+				
+		// wrapper for get_categories		
+		function x_get_categories() { 
+			sajax_do_call("get_categories",
+				x_get_categories.arguments);
+		}
+		
+				
+		// wrapper for get_options		
+		function x_get_options() { 
+			sajax_do_call("get_options",
+				x_get_options.arguments);
+		}
+		
+				
+		// wrapper for get_quantity		
+		function x_get_quantity() { 
+			sajax_do_call("get_quantity",
+				x_get_quantity.arguments);
+		}
+		
+				
+		// wrapper for get_price		
+		function x_get_price() { 
+			sajax_do_call("get_price",
+				x_get_price.arguments);
+		}
+		
+				
+		// wrapper for get_attributes		
+		function x_get_attributes() { 
+			sajax_do_call("get_attributes",
+				x_get_attributes.arguments);
+		}
+		
+				
+		// wrapper for get_attributes_info		
+		function x_get_attributes_info() { 
+			sajax_do_call("get_attributes_info",
+				x_get_attributes_info.arguments);
+		}
+		
+				
+		// wrapper for get_category_name		
+		function x_get_category_name() { 
+			sajax_do_call("get_category_name",
+				x_get_category_name.arguments);
+		}
+		
+				
+		// wrapper for calculate_shipping		
+		function x_calculate_shipping() { 
+			sajax_do_call("calculate_shipping",
+				x_calculate_shipping.arguments);
+		}
+		
+				
+		// wrapper for calculate_shippingRates		
+		function x_calculate_shippingRates() { 
+			sajax_do_call("calculate_shippingRates",
+				x_calculate_shippingRates.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb_psi		
+		function x_get_price_newdb_psi() { 
+			sajax_do_call("get_price_newdb_psi",
+				x_get_price_newdb_psi.arguments);
+		}
+		
+				
+		// wrapper for get_product_poster_details		
+		function x_get_product_poster_details() { 
+			sajax_do_call("get_product_poster_details",
+				x_get_product_poster_details.arguments);
+		}
+		
+				
+		// wrapper for get_product_details		
+		function x_get_product_details() { 
+			sajax_do_call("get_product_details",
+				x_get_product_details.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb_posters		
+		function x_get_price_newdb_posters() { 
+			sajax_do_call("get_price_newdb_posters",
+				x_get_price_newdb_posters.arguments);
+		}
+		
+				
+		// wrapper for get_sizes		
+		function x_get_sizes() { 
+			sajax_do_call("get_sizes",
+				x_get_sizes.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb		
+		function x_get_price_newdb() { 
+			sajax_do_call("get_price_newdb",
+				x_get_price_newdb.arguments);
+		}
+		
+				
+		// wrapper for call_ups		
+		function x_call_ups() { 
+			sajax_do_call("call_ups",
+				x_call_ups.arguments);
+		}
+		
+				
+		// wrapper for get_ups_methods		
+		function x_get_ups_methods() { 
+			sajax_do_call("get_ups_methods",
+				x_get_ups_methods.arguments);
+		}
+		
+				
+		// wrapper for test_call		
+		function x_test_call() { 
+			sajax_do_call("test_call",
+				x_test_call.arguments);
+		}
+		
+				
+		// wrapper for get_price_pack		
+		function x_get_price_pack() { 
+			sajax_do_call("get_price_pack",
+				x_get_price_pack.arguments);
+		}
+		
+				
+		// wrapper for get_price_by_stock		
+		function x_get_price_by_stock() { 
+			sajax_do_call("get_price_by_stock",
+				x_get_price_by_stock.arguments);
+		}
+		
+				
+		// wrapper for get_price_catalogs		
+		function x_get_price_catalogs() { 
+			sajax_do_call("get_price_catalogs",
+				x_get_price_catalogs.arguments);
+		}
+		
+				
+		// wrapper for get_price_by_stock_ver2		
+		function x_get_price_by_stock_ver2() { 
+			sajax_do_call("get_price_by_stock_ver2",
+				x_get_price_by_stock_ver2.arguments);
+		}
+		
+				
+		// wrapper for get_price_pack_ver2		
+		function x_get_price_pack_ver2() { 
+			sajax_do_call("get_price_pack_ver2",
+				x_get_price_pack_ver2.arguments);
+		}
+		
+				
+		// wrapper for call_ups_xml		
+		function x_call_ups_xml() { 
+			sajax_do_call("call_ups_xml",
+				x_call_ups_xml.arguments);
+		}
+		
+				
+		// wrapper for get_ups_xml_methods		
+		function x_get_ups_xml_methods() { 
+			sajax_do_call("get_ups_xml_methods",
+				x_get_ups_xml_methods.arguments);
+		}
+		
+				
+		// wrapper for set_product		
+		function x_set_product() { 
+			sajax_do_call("set_product",
+				x_set_product.arguments);
+		}
+		
+				
+		// wrapper for get_ups_xml_methods_job		
+		function x_get_ups_xml_methods_job() { 
+			sajax_do_call("get_ups_xml_methods_job",
+				x_get_ups_xml_methods_job.arguments);
+		}
+		
+				
+		// wrapper for get_ups_xml_methods_lfp		
+		function x_get_ups_xml_methods_lfp() { 
+			sajax_do_call("get_ups_xml_methods_lfp",
+				x_get_ups_xml_methods_lfp.arguments);
+		}
+		
+				
+		// wrapper for select_state		
+		function x_select_state() { 
+			sajax_do_call("select_state",
+				x_select_state.arguments);
+		}
+		
+				
+		// wrapper for validate_zip_code		
+		function x_validate_zip_code() { 
+			sajax_do_call("validate_zip_code",
+				x_validate_zip_code.arguments);
+		}
+		
+		
+var DIR_WS_TEMPLATE = 'includes/templates/digitalroom/';
+var IMG_DIR = '';
+var REQUEST_URI = '/site-policies.html';
+var HTTP_SERVER = 'http://www.digitalroom.com';
+var CURRENT_PAGE = 'privacy_policy';
+var CPATH = '';
+var MARK = '';
+var PRODUCT_ID = '';
+var DISCOUNT_PERCENT = '';
+	var TYPE = '';
+var SEL_SHIPPING = '';</script> 
+
+<script src="includes/templates/digitalroom/jscripts/JSON.js"></script> 
+<script src="includes/templates/digitalroom/jscripts/misc.js"></script> 
+<script src="includes/templates/digitalroom/jscripts/site_search.js"></script> 
+<script type="text/javascript" src="includes/templates/digitalroom/jscripts/common.js"></script>
+
+<script language="JavaScript" src="https://seals.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
+<script type="text/javascript">var GB_ROOT_DIR = "http://www.digitalroom.com/includes/templates/digitalroom/greybox/";</script>
+<script type="text/javascript" src="includes/templates/digitalroom/greybox/AJS.js"></script>
+<script type="text/javascript" src="includes/templates/digitalroom/greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="includes/templates/digitalroom/greybox/gb_scripts.js"></script>
+<script type="text/javascript" language="JavaScript">
+function MM_preloadImages() { //v3.0
+  var d=document; 
+	if(d.images){ 
+		if(!d.MM_p) d.MM_p=new Array();
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
+			for(i=0; i<a.length; i++)
+				if (a[i].indexOf("#")!=0) { 
+					d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+				}
+	}
+}
+</script><script language="javascript" type="text/javascript">var lpPosY = 100;</script><script language="javascript" src="http://server.iad.liveperson.net/hc/77577663/x.js?cmd=file&amp;file=chatScript3&amp;site=77577663&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a"> </script></head>
+
+
+
+ <!-- Live Person -->
+
+ 
+<body id="privacypolicy" style="margin:0 0 0 0; padding:0 0 0 0;">
+<a name="back_to_top"></a>
+<link href="includes/templates/digitalroom/greybox/gb_styles.css" rel="stylesheet" type="text/css">
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="870">
+	<tbody><tr>
+    <td>
+			<!-- header begin -->
+			<link href="includes/templates/digitalroom/css/offsetStyles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body,tr, td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-top:0px;
+	text-align:left;
+}
+form {
+	padding:0 0 0 0;
+}
+.bodytext {
+	color:#333333;
+}
+.footlinks {
+	font-size: 11px;
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.toplinks {	color: #000000;
+	text-decoration: none;
+}
+.headerLinks {
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+}
+.pointEr {
+	cursor:pointer;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+.divCartLink {
+	z-index:1;
+  width: 100%;
+	height:34px;}
+.divCartPopHidden {
+	z-index:2;
+	position:absolute;
+	top:34px;	height:0px;
+  width: 110px;
+	visibility:hidden;
+}
+.divCartPopVisible {
+	z-index:2;
+	position:absolute;
+	top:34px;  width: 100%;
+	visibility:visible;
+}
+.whiteNav {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:11px;
+}
+a.whiteNav {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:11px;
+	text-decoration:underline;
+}
+-->
+</style>
+<form name="custom_proof_home" action="http://www.digitalroom.com/index.php?main_page=custom_product" enctype="multipart/form-data" method="post">
+<input type="hidden" name="submit_proof" value="">
+</form>
+<script>
+var newwindow = '';
+function popitupImage(url) {
+	newwindow=window.open(url,'htmlname','width=504,height=416,resizable=1,scrollbars=yes');   
+}
+function showDropMenu() {
+	document.getElementById('divCartPopHidden').className = 'divCartPopVisible';
+}
+function hideDropMenu() {
+	document.getElementById('divCartPopHidden').className = 'divCartPopHidden';
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		<td><a href="http://www.digitalroom.com"><img src="includes/templates/digitalroom/images/digitalroom-logo.png" border="0"></a></td>
+		<td valign="top" style="padding-top:5px;">
+			<table align="right" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td valign="top">
+						<div align="right"><img src="includes/templates/digitalroom/images/tollFreeNUm.gif"></div>
+						<div align="right"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a" target="chat77577663" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat77577663','width=475,height=400,resizable=yes');return false;"><img src="includes/templates/digitalroom/images/launchLiveChat.gif" name="hcIcon" border="0"></a></div>
+					</td>
+						
+						
+					<td valign="top" style="padding-left:10px;"><img src="includes/templates/digitalroom/images/menuOrderLogin.gif" width="56" height="29"></td>
+					<td valign="top"><form action="http://www.digitalroom.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/digitalroom/images/menuOrderStatusLogged.gif" width="92" height="29"></form></td>
+					<td valign="top"><form action="http://www.digitalroom.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dproofs" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/digitalroom/images/menuProofs.gif" width="57" height="29"></form></td>
+					<td valign="top"><form action="http://www.digitalroom.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/digitalroom/images/menuTrackShipment.gif" width="79" height="29"></form></td>
+					<td valign="top">
+												<div id="divCartLink" class="divCartLink" onmouseover="showDropMenu();" onmouseout="hideDropMenu();">
+							<img src="includes/templates/digitalroom/images/menuCart.gif" width="83" height="29" class="pointEr" id="cartLink"><br>
+							<div id="divCartPopHidden" class="divCartPopHidden">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								<tbody><tr>
+									<td><form action="http://www.digitalroom.com/index.php?main_page=cart_items&amp;cart_type=db" method="post" class="pointEr" onclick="this.submit();" rel="nofollow"><img src="includes/templates/digitalroom/images/uphead-onlineorder.gif" width="110" height="20"></form></td>
+								</tr>
+								<tr>
+									<td><img src="includes/templates/digitalroom/images/upheadpopmenuline.gif" width="110" height="1"></td>
+								</tr>
+								<tr>
+									<td><form action="http://www.digitalroom.com/index.php?main_page=cart_items&amp;cart_type=custom" method="post" class="pointEr" onclick="this.submit();" rel="nofollow"><img src="includes/templates/digitalroom/images/uphead-projectreview.gif" width="110" height="20"></form></td>
+								</tr>
+							</tbody></table>
+							</div>
+						</div>			
+					</td>
+							
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td background="includes/templates/digitalroom/images/hdr-menubg.gif" width="0%"><div align="left"><img src="includes/templates/digitalroom/images/hdr-menu-left.gif"></div></td>
+					<td background="includes/templates/digitalroom/images/hdr-menubg.gif" width="100%">
+						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tbody><tr>
+								<td>
+									<div align="left" style="float:left;">
+									<table border="0" cellspacing="0" cellpadding="0" style="color:#FFFFFF;">
+										<tbody><tr>
+											<td class="headerLinks" nowrap="nowrap" valign="middle" style="padding:0px 5px 0px 5px;"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/company.html"><img src="includes/templates/digitalroom/images/hdrAboutUs.gif"></form></td>
+											<td class="headerLinks"><img src="includes/templates/digitalroom/images/hdr-menudiv.gif"></td>
+											<td class="headerLinks" nowrap="nowrap" valign="middle" style="padding:0px 5px 0px 5px;"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/Trade-Program.html"><img src="includes/templates/digitalroom/images/hdrTradeProgram.gif"></form></td>
+											<td class="headerLinks"><img src="includes/templates/digitalroom/images/hdr-menudiv.gif"></td>
+																						<td class="headerLinks" nowrap="nowrap" valign="middle" style="padding:0px 5px 0px 5px;"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/samples.html"><img src="includes/templates/digitalroom/images/hdrFreeSamples.gif"></form></td>
+											<td class="headerLinks"><img src="includes/templates/digitalroom/images/hdr-menudiv.gif"></td>
+											<td class="headerLinks" nowrap="nowrap" valign="middle" style="padding:0px 5px 0px 5px;"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/index.php?main_page=job_quote&amp;product_id=45"><img src="includes/templates/digitalroom/images/hdrQuotes.gif"></form></td>
+											<td class="headerLinks"><img src="includes/templates/digitalroom/images/hdr-menudiv.gif"></td>
+											<td class="headerLinks" nowrap="nowrap" valign="middle" style="padding:0px 5px 0px 5px;"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/support.html"><img src="includes/templates/digitalroom/images/hdrHelp.gif"></form></td>
+										</tr>
+									</tbody></table>
+							 		</div>
+									<div align="right" style="float:right;">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td valign="bottom"><form style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.digitalroom.com/index.php?main_page=custom_product"><img src="includes/templates/digitalroom/images/hdr-project-review2.gif"></form></td>
+										</tr>
+									</tbody></table>
+									</div>
+							  </td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td background="includes/templates/digitalroom/images/hdr-menubg.gif" width="0%"><div align="right"><img src="includes/templates/digitalroom/images/hdr-menu-right.gif"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>			
+			<!-- header end -->
+		</td>
+  </tr>
+  <tr>
+    <td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td background="includes/templates/digitalroom/images/mainbg-left-bg.gif" bgcolor="#F2F2F2" width="15" style="background-repeat:repeat-y;" valign="top"><div align="left"><img src="includes/templates/digitalroom/images/mainbg-left.gif"></div></td>
+					<td background="includes/templates/digitalroom/images/nup-gray-body.gif" bgcolor="#F2F2F2" width="100%" style="background-repeat:repeat-x;" valign="top">
+					<div align="right"><img src="includes/templates/digitalroom/images/hdr-quality-printing.gif"></div>
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td width="20%" valign="top">
+								<style>
+.leftLinks {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:underline;
+	cursor:pointer;
+	margin:0;
+}
+.leftLinksSelected {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:underline;
+	cursor:pointer;
+	margin:0;
+	/*font-weight:bold;*/
+	color:#003399;
+}
+</style>
+						
+<table align="right" border="0" cellspacing="0" cellpadding="0" width="162">
+	<tbody><tr>
+		<td colspan="2"><img src="includes/templates/digitalroom/images/hdr-products.gif" align="left"></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="15"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="includes/templates/digitalroom/images/nup-offset-printing.gif" width="162" height="23" alt=""></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td width="25"><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><strong><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Brochures.html">Brochures</form></strong></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Business-Cards.html">Business Cards</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Calendars.html">Calendars</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Premium-Catalogs.html">Catalogs/Booklets</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Club-Card-Flyers.html">Club Card Flyers</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td class="leftLinks"><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Door-Hangers.html">Door Hangers</form></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Envelopes.html">Envelopes</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Flyers.html">Flyers</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Greeting-Cards.html">Greeting Cards</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Labels.html">Labels/Stickers</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Letterhead.html">Letterhead</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Newsletter.html">Newsletters</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Folders.html">Pocket Folders</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><strong><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Postcards.html">Postcards</form></strong></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Offset-Posters.html">Posters 100+ Qty</form></td>
+	</tr>	
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td class="leftLinks"><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Upage.html">U-Page (Custom Size)</form></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="25">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2"><form action="/Posters.html" method="post" style="cursor:pointer" onclick="this.submit();"><img src="includes/templates/digitalroom/images/large-format.gif" width="162" height="24" alt=""></form></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="color:#999999; font-size:11px; padding-left:13px;">Any size up to 59"x100"</td>
+	</tr>
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/Semi-Gloss-Posters.html">Posters (1-100 Qty)</form></td>
+	</tr>					
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/Artist-Canvas-Posters.html">Artist Canvas</form></td>
+	</tr>					
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/Vinyl-Banners-Posters.html">Vinyl Banners</form></td>
+	</tr>					
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/Adhesive-Vinyl-Posters.html">Adhesive Back</form></td>
+	</tr>					
+	<tr>
+		<td colspan="2" height="7"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/digitalroom/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
+		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/Window-Signs-Posters.html">Window Cling</form></td>
+	</tr>					
+		
+</tbody></table>								</td>
+								<td width="80%" valign="top">
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																														<tbody><tr>
+                      <td background="includes/templates/digitalroom/images/apr-b3.png"><div align="left"><img src="includes/templates/digitalroom/images/apr-b1.png" width="10" height="32"></div></td>
+                      <td background="includes/templates/digitalroom/images/apr-b3.png" width="100%" nowrap="nowrap">
+                      	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+                          <tbody><tr>
+                                                          <td><div align="left"><img src="includes/templates/digitalroom/images/jun-bnr-l.png" border="0"></div></td>
+							  <td><div align="right"><a href="/yoursize" rel="nofollow"><img src="includes/templates/digitalroom/images/jun-bnr-r.png" border="0"></a></div></td>
+                                                    </tr>
+                      	</tbody></table>
+                      </td>
+										  <td background="includes/templates/digitalroom/images/apr-b3.png"><div align="right"><img src="includes/templates/digitalroom/images/apr-b5.png" width="15" height="32"></div></td>
+									  </tr>
+									  																					<tr>
+											<td background="includes/templates/digitalroom/images/nup-gray-brdr-lbg.gif" style="background-repeat:repeat-y;"><div align="left"><img src="includes/templates/digitalroom/images/nup-gray-brdr-lbg.gif" width="15" height="15"></div></td>
+											<td bgcolor="#ffffff" style="padding-top:20px;"><style>
+table, tr, td, th {
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+}
+</style>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr>
+    <td>
+			<strong>PRIVACY POLICY</strong><br><br>
+			
+			COMMITMENT TO PRIVACY<br><br>
+			
+			Digital Room, Inc. understands the importance of protecting the privacy of DigitalRoom.com users. The information collected on the DigitalRoom.com website is used to market and improve the services we and our subsidiaries offer, to improve the DigitalRoom.com web site content, and to contact you with updates to the web site or for other marketing purposes.<br><br>
+			
+			Certain areas of DigitalRoom.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for DigitalRoom.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to DigitalRoom.com will need to register for a DigitalRoom.com Login user ID and password to use many of the interactive features on DigitalRoom.com as well as to make a purchase or file an order from DigitalRoom.com. Log file data and other information gathered from registered users of DigitalRoom.com are used to improve the DigitalRoom.com customer experience.<br><br>
+			
+			<strong>For more information on this Privacy Policy, please read below.</strong>
+			<ul>
+			<li>Visitor Information</li>
+			<li>Personal Information</li>
+			<li>Use of Personal Information</li>
+			<li>Cookies</li>
+			<li>Links</li>
+			<li>Security</li>
+			<li>Opt Out Options</li>
+			<li>How do I contact DigitalRoom.com</li>
+			</ul>
+			
+			<strong>Visitor Information</strong><br><br>
+			
+			The DigitalRoom.com web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to DigitalRoom.com), type of Internet browser, and visitor's IP address. (Each computer that connects to the Internet is assigned a unique number, an IP address, for identification purposes). The log file does not capture a visitor's email address.<br><br>
+			
+			<strong>Personal Information</strong><br><br>
+			
+			Certain areas of DigitalRoom.com ask for personal information. DigitalRoom.com uses this personal information to aid in presenting its customers with a better interactive experience and to facilitate the customer’s ability to make purchases and orders from the DigitalRoom.com website. To register for a login user ID, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable DigitalRoom.com Internet-based information and services, and to facilitate the billing process for those services if you elect to use them. Customers will have the ability to access and change the information which they have provided to DigitalRoom.com by use of the appropriate features on the DigitalRoom.com website.<br><br>
+			
+			<strong>Use of Personal Information</strong><br><br>
+			
+			The information collected through this site helps us identify the type of web site content that our customers value, allowing us to market and improve the web site and our services. The information is also used to send email notifications to customers about updates to the web site, and to contact customers by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of Digital Room, Inc. and its subsidiaries (unless required by law); provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. DigitalRoom.com does use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. Our practice is to require our suppliers and vendors to conduct themselves in a manner consistent with this policy and our requirements.<br><br>
+			
+			<strong>Information From Third Parties</strong><br><br>
+			
+			If necessary, DigitalRoom.com obtains consumer information from third-party providers in order to improve the accuracy of our customer database and to increase our understanding of our customers or to identify potential customers. For example, we get updated addresses from the National Change of Address (NCOA) service to assist us in having the correct addresses for our customers.<br><br>
+			
+			<strong>Cookies</strong><br><br>
+			
+			A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to "recognize" you as a unique individual. DigitalRoom.com uses these Coolies to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow DigitalRoom.com the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, DigitalRoom.com can "remember" your user ID when you login to DigitalRoom.com on your computer. Should you choose to do so, cookies can be removed from your hard drive and certain web browsers can be set so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.<br><br>
+			
+			<strong>Links</strong><br><br>
+			
+			Our sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of this fact when they leave our site and to read the privacy statements of each and every Web site that they visit which collects personally-identifiable information. This privacy statement applies solely to information collected by this web site.<br><br>
+			
+			<strong>Security</strong><br><br>
+			
+			For the safety of our customers who are shopping online, DigitalRoom.com always has security measures in place to protect customer information. DigitalRoom.com takes all reasonable precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. The DigitalRoom.com web site uses encryption technology, such as Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL technology represents the highest level of security available on the Internet, automatically encrypting information traveling over the Internet, verifying the identity of the transacting servers through certificates and digital signatures, and confirming that the integrity of the message content is maintained throughout its transmission. DigitalRoom.com cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.<br><br>
+			
+			<strong>Opt Out Options</strong><br><br>
+			
+			DigitalRoom.com allows customers the option to opt-out of marketing communications upon request. Once we receive your information, we may send you marketing communications that contain valuable offers, promotions and other content. However, users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following the directions contained in the communication. All marketing communications from DigitalRoom.com will tell you how to stop receiving them. In addition, you can opt out of receiving further marketing communications from DigitalRoom.com by the use of the Unsubscribe page on the DigitalRoom.com website.<br><br>
+			
+			<strong>How do I contact DigitalRoom.com?</strong><br><br>
+			
+			Our postal address is:<br>
+			DigitalRoom.com<br>
+			Digital Room, Inc.<br>
+			10936 Santa Monica Blvd.<br>
+			Los Angeles, CA 90025<br><br>
+			
+			We can be reached via email at <a href="mailto:info@digitalroom.com">info@digitalroom.com</a> or by telephone at (888) 888-4211.<br><br>
+			
+			Digital Room, Inc. reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.<br><br>
+			
+			Your use of DigitalRoom.com constitutes your agreement to this Privacy Policy.<br><br>
+		</td>
+	</tr>
+</tbody></table></td>
+											<td background="includes/templates/digitalroom/images/nup-gray-brdr-rbg.gif" style="background-repeat:repeat-y;"><div align="right"><img src="includes/templates/digitalroom/images/nup-gray-brdr-rbg.gif" width="15" height="15"></div></td>
+										</tr>
+										<tr>
+											<td><img src="includes/templates/digitalroom/images/nup-gray-brdr-lleft.gif" width="15" height="15"></td>
+											<td background="includes/templates/digitalroom/images/nup-gray-brdr-bbg.gif"><img src="includes/templates/digitalroom/images/nup-gray-brdr-bbg.gif" width="15" height="15"></td>
+											<td><img src="includes/templates/digitalroom/images/nup-gray-brdr-lright.gif" width="15" height="15"></td>
+										</tr>
+									</tbody></table>
+																	</td>
+							</tr>
+						</tbody></table>
+							
+					</td>		
+					<td background="includes/templates/digitalroom/images/mainbg-right-bg.gif" bgcolor="#F2F2F2" width="15" style="background-repeat:repeat-y;" valign="top"><div align="right"><img src="includes/templates/digitalroom/images/mainbg-right.gif"></div></td>
+				</tr>
+				<tr bgcolor="#F2F2F2">
+					<td valign="bottom"><div align="left"><img src="includes/templates/digitalroom/images/mainbg-footer-left.gif"></div></td>
+					<td background="includes/templates/digitalroom/images/mainbg-footer.gif" style="font-size:11px; text-align:center;"><img src="includes/templates/digitalroom/images/mainbg-footer.gif"></td>
+					<td valign="bottom"><div align="right"><img src="includes/templates/digitalroom/images/mainbg-footer-right.gif"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+  </tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+  <tr>
+		<td>
+			<!-- footer begin -->
+			<script>
+function checkValues() {
+	var greatDealsPromo = document.singupPromosNewsletters.greatDealsPromo.checked;
+	var greatDealsNewsletter = document.singupPromosNewsletters.greatDealsNewsletter.checked;
+	var email = document.singupPromosNewsletters.emailAddress.value;
+	
+	var $errorFlag = false;
+	var	$errorMsg = '';	
+	
+	if(greatDealsPromo==false && greatDealsNewsletter==false) {
+		$errorFlag = true;
+		$errorMsg += 'Please select which newsletter you would like to subscribe\n';	
+	}
+	
+	if(!email) {
+		$errorFlag = true;
+		$errorMsg += 'Please provide your email address\n';	
+	}
+	
+	if(email && !isValidEmail(document.singupPromosNewsletters.emailAddress)){
+		$errorFlag = true;
+		$errorMsg += 'Please provide a valid email address.\n';
+	}
+	
+	if($errorFlag==true) {
+		alert($errorMsg);
+		return false;
+	} else {
+		return true;
+	}
+}
+</script>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+		<td width="0%" background="includes/templates/digitalroom/images/footBackground.gif"><div align="left"><img src="includes/templates/digitalroom/images/footLeft.gif" style="padding:0px; margin:0px;"></div></td>
+		<td width="100%" background="includes/templates/digitalroom/images/footBackground.gif" bgcolor="#3366CC">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td width="60%" valign="top">
+						<form name="singupPromosNewsletters" method="post" action="/site-policies.html" style="padding:0px; margin:0px;">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td class="whiteNav" colspan="2" valign="top"><strong>Get Deals and Marketing Tips!</strong></td>
+							</tr>
+							<tr>
+								<td width="1%"><input type="checkbox" name="greatDealsPromo" value="promos"></td>
+								<td width="99%" class="whiteNav">Offers &amp; Promos (2x a month)</td>
+							</tr>
+							<tr>
+								<td><input type="checkbox" name="greatDealsNewsletter" value="newsletter"></td>
+								<td class="whiteNav">Direct Marketing Newsletter (monthly)</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									<table align="left" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td style="padding-left:5px;"><input type="text" name="emailAddress" class="blackSmall" value=""></td>
+											<td style="padding-left:20px;"><input type="image" name="signupButton" src="includes/templates/digitalroom/images/fc-su.gif" onclick="return checkValues();"></td>
+																					</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						</form>
+					</td>
+					<td width="40%" valign="top">
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td valign="top" class="whiteNav" nowrap="nowrap">
+									<strong>Company Info</strong><br>
+									<a href="http://www.digitalroom.com/company.html" class="whiteNav"><u class="whiteNav">About Us</u></a><br>
+									<a href="http://www.digitalroom.com/contact_us.html" class="whiteNav"><u class="whiteNav">Contact Info</u></a><br>
+									<a href="http://www.digitalroom.com/Trade-Program.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Trade Program</u></a><br>
+									<a href="http://www.digitalroom.com/sitemap.html" class="whiteNav"><u class="whiteNav">Site Map</u></a>
+								</td>
+								<td width="20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								<td valign="top" class="whiteNav" nowrap="nowrap">
+									<strong>Services</strong><br>
+																		<a href="/print/Postcards-Mailing.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Mailing Services</u></a><br>
+									<a href="/print/Postcards-Mailing.html" class="whiteNav"><u class="whiteNav">List Services</u></a>
+								</td>
+								<td width="20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								<td valign="top" class="whiteNav" nowrap="nowrap">
+									<strong>Trust</strong><br>
+									<a href="http://www.digitalroom.com/Trust.html" class="whiteNav" rel="nofollow"><u class="whiteNav">BBB Membership</u></a><br>
+									<a href="http://www.digitalroom.com/Trust.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Secure Checkout</u></a><br>
+									<a href="http://www.digitalroom.com/site-policies.html" class="whiteNav"><u class="whiteNav">Privacy Policy</u></a><br>
+									<a href="http://www.digitalroom.com/terms.html" class="whiteNav"><u class="whiteNav">Terms of Services</u></a>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>					
+		<td width="0%" background="includes/templates/digitalroom/images/footBackground.gif"><div align="right"><img src="includes/templates/digitalroom/images/footRight.gif" style="padding:0px; margin:0px;"></div></td>
+	</tr>
+	<tr>
+		<td colspan="3">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="3" style="text-align:center;"><div align="center" style="font-weight:normal;"><img src="includes/templates/digitalroom/images/digitalroom-footer-logo.gif"></div></td>
+	</tr>
+</tbody></table>
+	 				
+			<!-- footer end -->
+		</td>
+	</tr>	
+</tbody></table>
+</div>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4537363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
