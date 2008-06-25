@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226231915id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625231400id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
 
 # Sojourners : About Us : Privacy Statement
 
@@ -9,8 +9,11 @@ _Sojourners is committed to preserving your privacy and safeguarding your inform
 **E-mail Lists**   
 Sojourners will not sell, trade, or give away e-mail addresses that are subscribed to our e-mail lists - such as SojoMail, our weekly e-mail newsletter - to any other organization or entity without your consent. 
 
-**Resource Catalog and Electronic Resources**   
-Orders for our online resources are processed on our own secure server. Sojourners does not sell or trade names or other personal data that we collect on our website nor do we maintain any credit card information. 
+**Online Store and Resources**  
+Orders for our online store and resources are processed on our own  
+secure server and through a secure connection with eCommerce by  
+Volusion. Sojourners does not sell or trade names or other personal data  
+that we collect through the online store or resource sales. 
 
 **Donations**   
 Online credit card donations to Sojourners are processed securely by our contracted e-commerce service. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. If you do not want to receive materials from us, you can e-mail our development department at [donate@sojo.net](mailto:donate@sojo.net) or call 202-328-8842. 
