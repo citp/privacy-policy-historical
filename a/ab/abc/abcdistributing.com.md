@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221094313id_/http%3A//www.abcdistributing.com/abc/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625073541id_/http%3A//www.abcdistributing.com/abc/privacypolicy.asp) for the most accurate reproduction.*
 
 # abc distributing ® - Privacy Policy
 
 We do not share or sell any information that we gather with other organizations for any purpose.
 
-abc Distributing LLC will treat your email address as confidential information; we will not rent, sell or trade the contents of our email list to any outside parties.
+abc Distributing will treat your email address as confidential information; we will not rent, sell or trade the contents of our email list to any outside parties.
 
   * What kind of information do you collect from me when I visit your web site?
   * Does abc share information it collects from me with outside parties?
@@ -29,7 +29,7 @@ No, any information you provide on the web site is used solely to fulfill a prod
 
 **What do you do with my email address?**
 
-abc Distributing LLC collects your email address as part of your registration with us. We use this address to communicate with you about your account. We do not sell or otherwise give out your email address to others.
+abc Distributing collects your email address as part of your registration with us. We use this address to communicate with you about your account. We do not sell or otherwise give out your email address to others.
 
 [ top ]
 
@@ -60,7 +60,7 @@ Monday - Friday
 Central Time  
   
   |  **Fax:** |  (847) 735-9720   
-  |  **Address:** |  abc Distributing LLC, 2800 Lakeside Drive, Bannockburn, IL 60015   
+  |  **Address:** |  abc Distributing, 2800 Lakeside Drive, Bannockburn, IL 60015   
   
 [ top ]
 
