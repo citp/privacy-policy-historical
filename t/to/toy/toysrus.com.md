@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216031855id_/http%3A//www6.toysrus.com/guest/rusFamiPrivPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625024149id_/http%3A//www9.toysrus.com/guest/rusFamiPrivPolicy.cfm) for the most accurate reproduction.*
 
 # Toys''R''Us, Inc. - Guest - Privacy Policy
 
