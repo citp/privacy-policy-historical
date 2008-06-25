@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211824id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625211303id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
 
 # HAGERTY - Facts
 
@@ -84,7 +84,7 @@ This site may make forums, message boards, and/or news groups available to its u
   
 **_Questions_**  
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [ webmaster@hagerty.com](mailto:webmaster@hagerty.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [webmaster@hagerty.com](mailto:webmaster@hagerty.com) . 
 
   
 
