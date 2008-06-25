@@ -1,18 +1,86 @@
-<!--The following is the downloaded HTML source of the citeulike.org privacy policy that was archived on 2007-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071219225557id_/http%3A//www.citeulike.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citeulike.org privacy policy that was archived on 2008-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625213857id_/http%3A//www.citeulike.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-		<title>CiteULike: Privacy Policy
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>CiteULike: Privacy Policy
 </title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="stylesheet" type="text/css" href="http://static.citeulike.org/citeulike3.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="http://static.citeulike.org/citeulike6.css">
 
-<script>
+<script type="text/javascript">
 function show_search_help() {
-    window.open("/search_help","search_help",config="height=650,width=550,toolbar=no,menubar=no,scrollbars=yes,resizable=yes");
+	window.open("/search_help","search_help",config="height=650,width=550,toolbar=no,menubar=no,scrollbars=yes,resizable=yes");
 }
 </script>
 
+
+
+
+
+<!-- CSS for Menu -->
+
+<link rel="stylesheet" type="text/css" href="http://static.citeulike.org/yui-2.5.1/build/menu/assets/skins/sam/menu.css">
+
+<style type="text/css">
+
+div.yui-b p {
+	margin: 0 0 .5em 0;
+	color: #999;
+}
+div.yui-b p strong {
+	font-weight: bold;
+	color: #000;
+}
+div.yui-b p em {
+	color: #000;
+}
+#citeulikemenu {
+	margin: 0 0 10px 0;
+	font-size: 100%;
+	font-weight: bold;
+}
+#citeulikemenu a:hover {
+	background-color: blue;
+	color: white;
+}
+#citeulike, #myciteulike, #postarticle, #journals, #groups {
+	z-index: 110;
+}
+</style>
+
+
+<!-- Dependency source files -->
+
+<script type="text/javascript" src="http://static.citeulike.org/yui-2.5.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://static.citeulike.org/yui-2.5.1/build/container/container_core-min.js"></script>
+
+
+<!-- Menu source file -->
+
+<script type="text/javascript" src="http://static.citeulike.org/yui-2.5.1/build/menu/menu-min.js"></script>
+
+<!-- Page-specific script -->
+
+<script type="text/javascript">
+
+/* Initialize and render the MenuBar when its elements are ready to be scripted.
+ */
+YAHOO.util.Event.onContentReady("citeulikemenu", function () {
+
+	/* Instantiate a MenuBar:  The first argument passed to the constructor is the id of the element in the page
+	 * representing the MenuBar; the second is an object literal of configuration properties.
+	 */
+	var oMenuBar = new YAHOO.widget.MenuBar("citeulikemenu",
+		{ autosubmenudisplay: true, zindex: 110, hidedelay: 250, showdelay: 100, lazyload: true }
+	);
+
+	/* Call the "render" method with no arguments since the markup for this MenuBar instance
+	 * already exists in the page.
+	 */
+	oMenuBar.render();
+});
+
+</script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -20,72 +88,141 @@ function show_search_help() {
 _uacct = "UA-55349-1";
 urchinTracker();
 </script>
-	</head>
-	<body>
-	<div style="position:absolute; top: 18px; left: 20px; padding: 0px;">
-	  <div class="logo">
+
+</head>
+
+<body class="yui-skin-sam">
+<div style="position:absolute; top: 5px; left: 20px; padding: 0px;">
+	<div class="logo">
 		<img src="http://static.citeulike.org/img/slogo.gif" style="cursor:pointer" onclick="document.location.href='/'" alt="CiteULike">
-	  </div>
 	</div>
+</div>
 
 
-	<div class="topright" style="height: 50px">
+
+<div class="topright" style="height: 50px">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="width: 100%;"></td>
+<td align="right" nowrap="nowrap" valign="center">
 
 			<a href="/register">Register</a>  |
 			<a accesskey="l" href="/login?from=%2fprivacy">Log in</a> 
 	
 
-		| <a href="/faq/all.adp">FAQ
-</a> 
+	| <a href="/faq/all.adp">FAQ</a> 
+	&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-	
-		| <a class="plain" href="http://www.citeulike.org/privacy"> <img style="border: 1px solid" src="http://static.citeulike.org/img/en.png" alt="en"></a>&nbsp;|&nbsp;<a class="plain" href="http://fr.citeulike.org/privacy"><img alt="fr" style="border: 1px solid" src="http://static.citeulike.org/img/fr.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://de.citeulike.org/privacy"><img alt="de" style="border: 1px solid" src="http://static.citeulike.org/img/de.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://it.citeulike.org/privacy"><img alt="it" style="border: 1px solid" src="http://static.citeulike.org/img/it.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://ru.citeulike.org/privacy"><img alt="ru" style="border: 1px solid" src="http://static.citeulike.org/img/ru.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://no.citeulike.org/privacy"><img alt="no" style="border: 1px solid" src="http://static.citeulike.org/img/no.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://sv.citeulike.org/privacy"><img alt="sv" style="border: 1px solid" src="http://static.citeulike.org/img/sv.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://jp.citeulike.org/privacy"><img alt="jp" style="border: 1px solid" src="http://static.citeulike.org/img/jp.png"></a>&nbsp;|&nbsp;<a class="plain" href="http://zh.citeulike.org/privacy"><img alt="zh" style="border: 1px solid" src="http://static.citeulike.org/img/zh.png"></a>
-	
-</div>
-
-	      <form action="/search/all" method="get">
-		<div style="position:absolute; text-align:right; right:20px; top:35px; width:450px; height:20px;">
-<br>
-
-<a href="javascript:void(show_search_help())">[?]</a>&nbsp;<input onfocus="this.style.border='2px solid #000'" onblur="this.style.border='2px solid #ccc'" name="q" size="20" value="">  
+		<td align="right" valign="center" nowrap="nowrap">
+		<a href="javascript:void(show_search_help())">[?]</a>&nbsp;
+		</td>
+		<td valign="center" nowrap="nowrap">
+		<form action="/search/all" method="get">
+		<input onfocus="this.style.border='2px solid #000'" onblur="this.style.border='2px solid #ccc'" name="q" size="20" value="">
+		</form></td>
+		<td valign="center" nowrap="nowrap">
 		<input type="submit" value="Search">
-	  </div>
-	  </form>
+		
+		</td>
 	
 
-
-	<div id="navleft">
-
-	  <div class="navleftinner">
-<h2>CiteULike</h2>
-	<ul>
-		<li class="menu"><a href="/news">News</a></li>
-		<li class="menu"><a href="/discuss">Discussion</a></li>
-	</ul>
+</tr>
+</tbody></table>
+</div>
 
 
 
+<div id="doc" class="yui-t1">
+	<div id="bd">
+		<div id="yui-main">
+			<div class="yui-b">
+				<div id="citeulikemenu" class="yuimenubar yuimenubarnav">
+					<div class="bd">
+						<ul class="first-of-type">
+						<li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#">CiteULike</a>
+						<div id="citeulike" class="yuimenu">
+							<div class="bd">
+								<ul>
+								<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/news">News</a></li>
+								<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/citegeist">CiteGeist</a></li>
+								<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/discuss">Discussion</a></li>
+
+								</ul>
+							</div>
+						</div>
+						</li>
 
 
-<h2>Journals
-</h2>
-<ul>
-	<li class="menu"><a href="/journals" accesskey="j">Browse current issues
+
+
+
+						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="#">Journals
+</a>
+						<div id="journals" class="yuimenu">
+							<div class="bd">
+								<ul>
+								<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/journals">Browse current issues
 </a> </li>
-</ul>
+								</ul>
+							</div>
+						</div>
+						</li>
 
-<h2>Groups
-</h2>
-<ul>
-	<li class="menu"><a href="/groups/search/go">Search groups
-</a></li>
+						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="#">Groups
+</a>
+						<div id="groups" class="yuimenu">
+							<div class="bd">
+								<ul>
+								<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/groups/search/go">Search groups
+</a> </li>
 
-</ul>
+								</ul>
+							</div>
+						</div>
+						</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 
+<!---
+<div style="text-align: right; margin-bottom: 10px;">
+
+		| <a class="plain" href="http://www.citeulike.org/privacy"> <img style="border: 1px solid" src="http://static.citeulike.org/img/en.png" alt="en"/></a>&nbsp;|&nbsp;<a class="plain" href="http://fr.citeulike.org/privacy"><img alt="fr" style="border: 1px solid" src="http://static.citeulike.org/img/fr.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://de.citeulike.org/privacy"><img alt="de" style="border: 1px solid" src="http://static.citeulike.org/img/de.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://it.citeulike.org/privacy"><img alt="it" style="border: 1px solid" src="http://static.citeulike.org/img/it.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://ru.citeulike.org/privacy"><img alt="ru" style="border: 1px solid" src="http://static.citeulike.org/img/ru.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://no.citeulike.org/privacy"><img alt="no" style="border: 1px solid" src="http://static.citeulike.org/img/no.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://sv.citeulike.org/privacy"><img alt="sv" style="border: 1px solid" src="http://static.citeulike.org/img/sv.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://jp.citeulike.org/privacy"><img alt="jp" style="border: 1px solid" src="http://static.citeulike.org/img/jp.png" /></a>&nbsp;|&nbsp;<a class="plain" href="http://zh.citeulike.org/privacy"><img alt="zh" style="border: 1px solid" src="http://static.citeulike.org/img/zh.png" /></a>
+	
 
 </div>
+--->
+
+<div id="navleft">
+
+
+
+	<div class="adverts">
+
+
+		<a href="/adclick?campaign=sage2"><img style="cursor:pointer" src="http://static.citeulike.org/adverts/sage2.jpg"></a>
+		<p style="text-align: right" class="vague">Sponsored link</p>
+	
+
+		<a href="/adclick?campaign=annual-reviews"><img style="cursor:pointer" src="http://static.citeulike.org/adverts/annual-reviews.jpg"></a>
+		<p style="text-align: right" class="vague">Sponsored link</p>
+	
+
+		<a href="/adclick?campaign=csh"><img style="cursor:pointer" src="http://static.citeulike.org/adverts/csh.jpg"></a>
+		<p style="text-align: right" class="vague">Sponsored link</p>
+	
+
+	</div>
+
+
+
+</div> <!-- Navleft -->
 
 
 <div class="contentonly">
@@ -156,5 +293,6 @@ CiteULike organises scholarly (or academic) papers or literature and provides bi
 <!-- google_ad_section_end -->
 </div>
 	
+
 
 </body></html>
