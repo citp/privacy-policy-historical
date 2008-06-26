@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226215732id_/http%3A//www.cms.hhs.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626080047id_/http%3A//www.cms.hhs.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 A cookie is a small piece of information that is sent to your browser when you access a site. There are two kinds of cookies, session cookies and persistent cookies. A session cookie is a line of text that is stored temporarily in your computer's memory. Because a session cookie is never saved, it is erased from the memory of your computer as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive.
 
