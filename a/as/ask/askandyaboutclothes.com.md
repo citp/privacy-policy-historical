@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211180742id_/http%3A//www.askandyaboutclothes.com/FrontPGArticles/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626041556id_/http%3A//askandyaboutclothes.com/FrontPGArticles/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
-# Ask Andy DEPARTMENTS Men
+# Ask Andy PRIVACY POLICY
 
-**Privacy Policy:**
+**  
+Privacy Policy:**
 
 These policies relate to information that we at ASKANDYABOUTCLOTHES gather about you and the use that we make of it in the course of our business.  
 
@@ -23,5 +24,7 @@ ASKANDYABOUTCLOTHES does not share information with any third parties whatsoever
 ` We may occasionally contact you from the information you provide us for news of interest to participants such as promotional offers, new features, etc.`
 
 **If you want to e-mail me a question or comment just click on the line below.**
+
+**[_ Click here to Ask Andy a question about men's clothes, fashion, history. . ._](mailto:andygilchrist01@hotmail.com?Subject=Ask_Andy_A_Question)**
 
 **\-- Andy Gilchrist**
