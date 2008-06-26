@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223102447id_/http%3A//www.improvementscatalog.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626135027id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Improvements Catalog
 
@@ -7,10 +7,10 @@ Improvements® respects your privacy and is a member of the Direct Marketing Ass
   
 Improvements® is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
 
-At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Improvements®, please click [here](https://web.archive.org/category/customer+service/full+privacy+policy.do).
+At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Improvements®, please click [here](https://web.archive.org/category/customer-service/full-privacy-policy.do).
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#aboutyou))  
-We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.We also may collect other types of information in the following ways when you visit our website:  
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#aboutyou))  
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:  
 
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
@@ -21,19 +21,19 @@ We may collect information that can identify you ("personal information"), such 
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#thirdparty))  
-We may allow third-party advertising companies or ad networks to display advertisements on our websites.
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#thirdparty))  
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
   * We do not provide any personal information to these companies.
   * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
-  * Some of these companies may be members of the Network Advertising Initiative www.networkadvertising.org, which offers consumers the ability to opt out of ad targeting by all member companies.
+  * Some of these companies may be members of the Network Advertising Initiative [www.networkadvertising.org](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
 
 
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#howweuse))  
-We may use information to:
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#howweuse))  
+We may use information to: 
 
   * Fulfill your requests for products and services;
   * Offer products and services that may be of interest to you;
@@ -46,8 +46,8 @@ We may use information to:
 
 
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#sharedinfo))  
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#sharedinfo))  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
   * Other IAC businesses;
@@ -58,8 +58,8 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#yourchoices))  
-You may choose:
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#yourchoices))  
+You may choose: 
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
   * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/ancillary/unsubscribe.do)
@@ -77,16 +77,16 @@ West Chester, OH 45069-2914
 
 
 
-   ([read more](https://web.archive.org/category/customer+service/full+privacy+policy.do#security))  
+   ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#security))  
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
   
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
   
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/category/customer+service/full+privacy+policy.do), or our information practices, please contact us by email or postal mail below:
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/category/customer-service/full-privacy-policy.do), or our information practices, please contact us by email or postal mail below:
 
- **Privacy Contact:**  
+**Privacy Contact:**  
 Customer Service  
 c/o Improvements  
 5566 West Chester Road   
