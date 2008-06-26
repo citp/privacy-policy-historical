@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223091715id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626154543id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
-# Quizlet › Privacy Policy
+# Privacy Policy | Quizlet
 
 Your privacy is critically important to us. At Brainflare we have a few fundamental principles:
 
