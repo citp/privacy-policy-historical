@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227172206id_/http%3A//www.sacbee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626054146id_/http%3A//www.sacbee.com/privacy) for the most accurate reproduction.*
 
 # Online - Privacy Policy - guide.sacbee.com
 
@@ -48,7 +48,7 @@ In the near future, parents and legal guardians of children under age 13 who reg
 
 Parental consent to collect information about children can be provided in two ways: (1) Fax a copy of a completed [Parental Consent Form](http://www.sacbee.com/static/live/guide/online/consent.html), including your signature, to the facsimile number provided on the Parental Consent Form. This form will be available in applicable areas of our site. (2) Mail a completed Parental Consent Form to the address indicated. 
 
-Sacbee.com will not knowingly disclose personal information about users under the age of 13 without prior parental or legal guardian consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previously provided to sacbee.com, you may fax us (at 916-552-5200), call us (at 916-321-1240) or send an e-mail to [webmaster@sacbee.com](mailto:webmaster@sacbee.com). 
+Sacbee.com will not knowingly disclose personal information about users under the age of 13 without prior parental or legal guardian consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previously provided to sacbee.com, you may fax us (at 916-552-5200), call us (at 916-321-1000) or send an e-mail to [webmaster@sacbee.com](mailto:webmaster@sacbee.com). 
 
 Sacbee.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
 
