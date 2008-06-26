@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205012121id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626221422id_/http%3A//somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -52,7 +52,7 @@ No refunds, returns, or cancellations are permitted, unless it is a problem with
 >  PO Box 997  
 >  Lee's Summit, MO 64063
 
-Questions, comments, or inquiries may be sent to [ webmaster@somethingawful.com.](mailto:webmaster@somethingawful.com?subject=Something%20Awful%20Privacy%20Policy)  
+Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.](mailto:webmaster@somethingawful.com?subject=Something%20Awful%20Privacy%20Policy)  
 
 
 \- [Rich "Lowtax" Kyanka](mailto:lowtax@somethingawful.com)
@@ -62,22 +62,17 @@ Questions, comments, or inquiries may be sent to [ webmaster@somethingawful.com.
   
 
 
-  *   * [December 3, 2007](http://www.somethingawful.com/d/forum-fridays/ff12-03-07.php "December 3, 2007")  
+  *   * [Double Dare](http://www.somethingawful.com/d/rom-pit/double-dare-nintendo.php "Double Dare")  
+**Rom Pit**
+
+Hey buddy, miss your childhood? Not anymore you don't!
+
+  * 
+
+  * [June 23, 2008](http://www.somethingawful.com/d/forum-fridays/ff06-23-08.php "June 23, 2008")  
 **Forum Friday's Monday**
 
 Some of the best threads of the week from the SA Forums.
 
-  * [Christmas Comics](http://www.somethingawful.com/d/feature-articles/chistmas-comics.php "Christmas Comics")  
-**Features / Articles**
-
-No Flash Tub this week, just some Christmas Comics
-
-
-
-  *   *   * [A Better World](http://www.somethingawful.com/d/photoshop-phriday/better-world.php "A Better World")  
-**Photoshop Phriday**
-
-A look at the world as it should be, with crazy transportation systems and fancy gadgets.
-
-
+  *   * 
 
