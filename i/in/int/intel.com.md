@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213064713id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626154628id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
 
 # Intel® Privacy Policy
 
@@ -6,7 +6,15 @@ _To read the Intel® Privacy Policy in another language, choose from the options
 
 Intel is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
 
-We encourage you to read this privacy policy to ensure you understand Intel’s privacy practices.
+We encourage you to read this privacy policy to ensure you understand Intel's privacy practices.
+
+[](http://www.truste.org/ivalidate.php?url=www.intel.com&sealid=101)
+
+Intel Corporation is proudly affiliated with the [TRUSTe](http://www.truste.org/ivalidate.php?url=www.intel.com&sealid=101) and [BBBOnLine](http://www.bbb.org/) privacy seal organizations.
+
+[](http://welcome.bbb.org/)
+
+If you are not satisfied with our response to your privacy-related concerns, please contact [BBBOnLine](http://www.bbb.org/) or [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php).
 
 This policy covers the Intel Corporate website and is applicable worldwide. Some of our subsidiaries or programs may have their own, possibly different, policies (see lists at right). We encourage you to read this privacy policy and those of all websites you visit.
 
@@ -32,9 +40,9 @@ We will only use your personal information in the way we specified when it was c
   * To provide the ability to create personal profile areas and view protected content.
   * To provide the ability to contact you, and provide you with shipping and billing information.
   * To provide customer feedback and support.
-  * To provide contests, sweepstakes or other marketingpromotional activities on the intel.com or affiliate websites. Personal information may be collected to administer those programs.
+  * To provide contests, sweepstakes or other marketing or promotional activities on the intel.com or affiliate websites. Personal information may be collected to administer those programs.
   * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.
-  * To support recruitment inquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20071213064713id_/http%3A//www.intel.com/sites/corporate/privacy3.htm)
+  * To support recruitment inquiries. For more information, please see the worldwide [Candidate Privacy Policy.](https://web.archive.org/sites/corporate/privacy3.htm)
   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest.
   * To allow you to forward information to another individual such as a friend or co-worker. Intel does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address.
   * To meet contract obligations.
@@ -47,7 +55,7 @@ back to top
 
 We need your help in keeping the personal information you have shared with us accurate and up to date. Please notify us of any changes to your personal information.
 
-Most of our sites allow you to make these updates yourself online via a particular program’s member pages or the [Intel Profile Center](https://ssl.intel.com/ipc-app/default.aspx).
+Most of our sites allow you to make these updates yourself online via a particular program's member pages or the [Intel Profile Center](https://ssl.intel.com/ipc-app/default.aspx)
 
 back to top
 
@@ -55,20 +63,20 @@ back to top
 
 Subscriptions to some newsletters can be managed through the [Intel Online Subscriptions website](https://web.archive.org/intel/subscriptions.htm). In addition, each email newsletter includes instructions on how you can unsubscribe from that particular mailing.
 
-You may also unsubscribe from Intel's various newsletters by sending a letter, including your name, email address and the title of the marketing material you wish to unsubscribe from to: 
+You may also unsubscribe from Intel's various newsletters by sending a letter, including your name, email address and the title of the marketing material you wish to unsubscribe from to:
 
-> Intel Corporation  
->  Unsubscribe/Privacy  
->  M/S SC3-37  
->  2200 Mission College Blvd  
->  Santa Clara, CA 95054  
-> 
+Intel Corporation  
+Unsubscribe/Privacy  
+M/S RNB4-145  
+2200 Mission College Blvd  
+Santa Clara, CA 95054  
+
 
 back to top
 
 ## Non-personal information collection
 
-In some instances, Intel may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance and effectiveness of the Intel.com website.
+In some instances, Intel may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the Intel.com website.
 
 back to top
 
@@ -84,7 +92,7 @@ We may respond to subpoenas, court orders, or legal process by disclosing your p
 
 We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Intel's terms of use, or as otherwise required by law.
 
-While navigating Intel’s web site you may be directed to content or functionality that is hosted by a third party supplier, not on Intel.com. This is typically done to host special events, such as contests. When information is collected on behalf of Intel exclusively, Intel’s privacy policy will be referenced on the site and will govern how your information is used. For other, non-Intel sites, the site owner’s privacy policy will be referenced. It is Intel’s practice to require such suppliers to handle information in a manner consistent with Intel’s privacy and security policies.
+While navigating Intel's web site you may be directed to content or functionality that is hosted by a third party supplier, not on Intel.com. This is typically done to host special events, such as contests. When information is collected on behalf of Intel exclusively, Intel's privacy policy will be referenced on the site and will govern how your information is used. For other, non-Intel sites, the site owner's privacy policy will be referenced. It is Intel's practice to require such suppliers to handle information in a manner consistent with Intel's privacy and security policies.
 
 We will ask you for your opt-in consent to share your personal information with a third party for any other reason.
 
@@ -138,7 +146,7 @@ Intel newsgroups and forums are public. Please consider this before posting mate
 
 back to top
 
-## Children’s privacy
+## Children's privacy
 
 Intel does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personal information on a child under the age of 13, we will delete that data from our systems. Intel encourages parents and guardians to go online with their children. Here are a few tips to help make a child's online experience safer:
 
@@ -154,7 +162,7 @@ back to top
 
 ## Transfer of personal information
 
-We may transfer your personal information to Intel Corporation in the US, to any Intel subsidiary worldwide or to third parties acting on our behalf for the purposes of processing or storage.
+We may transfer your personal information to Intel Corporation in the US, to any Intel subsidiary worldwide, or to third parties acting on our behalf for the purposes of processing or storage.
 
 back to top
 
@@ -164,12 +172,13 @@ In order to further demonstrate our commitment to your privacy, we have agreed t
 
   * Intel is a proud holder of the BBBOnLine privacy seal which applies to our English language websites.
   * Intel is also proud holder of the TRUSTe privacy seal (which applies to online, English language websites at this time. By participating in the TRUSTe privacy program, Intel agrees in the importance of notifying you of the following:
-    1. What information of yours is collected.
-    2. How your information is used.
-    3. With whom we may share your information.
-**Note:** The TRUSTe program covers information that is collected through this website and does not cover information that may be collected through software downloaded from the site.
+  * What information of yours is collected.
+  * How your information is used.
+  * With whom we may share your information.
 
 
+
+**Note** : The TRUSTe program covers information that is collected through this website and does not cover information that may be collected through software downloaded from the site.
 
 back to top
 
@@ -185,9 +194,9 @@ Need help with an update, access, or unsubscribe request? Please contact us by u
 
 back to top
 
-## Supplement for Intel® Viiv™ technology
+## Supplement for Intel® Core™2 processor with Viiv™ technology
 
-We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20071213064713id_/http%3A//www.intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.
+We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel Core 2 processor with Viiv technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel Core 2 processor with Viiv technology-based home network.
 
 back to top
 
@@ -199,5 +208,6 @@ back to top
 
 ## Policy updates
 
-The Intel Privacy Policy has been recently updated. For more details on the changes to the policy, please [visit our FAQs](https://web.archive.org/sites/corporate/privacy_faq.htm).  
+The Intel Privacy Policy has been recently updated. For more details on the changes to the policy, please [visit our FAQs](https://web.archive.org/sites/corporate/privacy_faq.htm).
+
 Last update: **April 21, 2006**
