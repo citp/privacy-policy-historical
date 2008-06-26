@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231141318id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626072528id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
 # Amazon.com: Help > Privacy & Security > Privacy Notice
 
@@ -121,4 +121,4 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 **Co-branded and Joint Offerings**
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Target, Borders, Waldenbooks, CD Now, Verizon Wireless, Sprint, T-Mobile, Cingular, Shutterfly, Office Depot, J&R, PetSmart, Godiva, FTD, Avon, Bombay Company, Macy's, PacSun, Eddie Bauer and Northern Tool + Equipment.
+Examples of businesses with which we offer joint or co-branded products and other offerings include Target, CD Now, Verizon Wireless, Sprint, T-Mobile, Cingular, Shutterfly, Office Depot, J&R, PetSmart, Godiva, FTD, Avon, Bombay Company, Macy's, PacSun, Eddie Bauer and Northern Tool + Equipment.
