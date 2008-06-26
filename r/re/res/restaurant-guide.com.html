@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the restaurant-guide.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214011106id_/http%3A//www.restaurant-guide.com/uk%2Bprivacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restaurant-guide.com privacy policy that was archived on 2008-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080626084146id_/http%3A//www.restaurant-guide.com/uk%2Bprivacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Statement From Restaurant-Guide.com</title>
 <style type="text/css">@import url("/global/css/rg.css");</style>
 <style type="text/css" media="screen">
@@ -14,6 +14,8 @@
 <meta name="description" content="UK restaurant guide showcasing selected restaurants across the UK. Only the very best restaurants make it into this restaurant guide.">
 <meta name="keywords" content="restaurant guide, UK restaurant guide">
 <script src="/global/js/newwin.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <div id="main">
@@ -29,17 +31,21 @@
 	</a>
 	
 </div>
-<div id="banner">The Genuine Restaurant Guide since 1997</div>
+
+
+<div id="banner">
+	<span style="float: left; padding-left: 2em; margin: 0;"><a href="/uk.htm"><img src="/images/geo/uk_small.gif" alt="View the UK Restaurant Guide"> UK Edition</a>&nbsp;&nbsp;&nbsp;<a href="/us.htm"><img src="/images/geo/us_small.gif" alt="View the US Restaurant Guide"> USA Edition</a></span><span style="float: right;">The Genuine Restaurant Guide since 1997</span>
+	<div class="clear">&nbsp;</div>
+</div>
 
 <!-- END header -->
 		<div id="container2">
 <!-- START main content -->
 			<div id="container">
 				<div id="content">
-					<div id="bread"><h2 class="noshow">You Are In</h2> <a href="/">Home</a> Privacy Statement</div>
+					<div id="bread"><h2 class="noshow">You Are In</h2> <a href="/uk.htm">Home</a> Privacy Statement</div>
 
 					<h1>Privacy Statement</h1>
-
 					<p>General</p>
 					<p>Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via restaurant-guide.com website. Whenever you use this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.</p>
 					<p>Ways that we collect information</p>
@@ -111,6 +117,7 @@
 				<h3>Quick Search</h3>
 <iframe id="qssFrame" src="about:blank" style="display:none"></iframe>
 <script type="text/javascript">
+//<![CDATA[
 var qss_CuisArea=664;
 var tlcc = 664;
 function qss_clearList(selObj,o) {
@@ -165,21 +172,23 @@ function qss_popList(arglist) {
 		var pc=0;
 		var oGroup=document.createElement('OPTGROUP');
 		var oOption=document.createElement('OPTION');
-		for (i=0;i<IDs.length;i++) {
-			if (Parents[i]!=pc) {
-				if (pc!=0) selObj.appendChild(oGroup);
-				oGroup=document.createElement('OPTGROUP');
-				oGroup.label=Names[i];
-				pc=Parents[i];
-				oOption=document.createElement('OPTION');
-				oOption.innerHTML='All '+Names[i];
-				oOption.value=IDs[i];
-			} else {
-				oOption=document.createElement('OPTION');
-				oOption.innerHTML=Names[i];
-				oOption.value=IDs[i];
+		if (IDs) {
+			for (i=0;i<IDs.length;i++) {
+				if (Parents[i]!=pc) {
+					if (pc!=0) selObj.appendChild(oGroup);
+					oGroup=document.createElement('OPTGROUP');
+					oGroup.label=Names[i];
+					pc=Parents[i];
+					oOption=document.createElement('OPTION');
+					oOption.innerHTML='All '+Names[i];
+					oOption.value=IDs[i];
+				} else {
+					oOption=document.createElement('OPTION');
+					oOption.innerHTML=Names[i];
+					oOption.value=IDs[i];
+				}
+				oGroup.appendChild(oOption);
 			}
-			oGroup.appendChild(oOption);
 		}
 		if (pc!=0) selObj.appendChild(oGroup);
 		clearFrame(jsq_Frame[Idx]);
@@ -189,9 +198,11 @@ function qss_popList(arglist) {
 		var IDs=arglist[1];
 		var Names=arglist[2];
 		var selIdx=0;
-		for (var i=0;i<IDs.length;i++) {
-			if ((jsq_ID[Idx]=='qssRegion') && (IDs[i]==664)) selIdx=i+1;
-			selObj.options[i+1]=new Option(Names[i],IDs[i]);
+		if (IDs) {
+			for (var i=0;i<IDs.length;i++) {
+				if ((jsq_ID[Idx]=='qssRegion') && (IDs[i]==664)) selIdx=i+1;
+				selObj.options[i+1]=new Option(Names[i],IDs[i]);
+			}
 		}
 		if (selIdx>0) {
 			selObj.selectedIndex=selIdx;
@@ -202,15 +213,16 @@ function qss_popList(arglist) {
 	}
 }
 function qss_onload() {
-	jsq_registerReturn('qssRegion', qss_popList, 'qssFrame', 'qssRegion', 1);
-	jsq_registerReturn('qssArea', qss_popList, 'qssFrame', 'qssArea', 2);
-	jsq_registerReturn('qssCuisine', qss_popList, 'qssFrame', 'qssCuisine', 3);
+	jsq_registerReturn('qssRegion', qss_popList, 'qssFrame', 'qssRegion', 1, 664);
+	jsq_registerReturn('qssArea', qss_popList, 'qssFrame', 'qssArea', 2, 664);
+	jsq_registerReturn('qssCuisine', qss_popList, 'qssFrame', 'qssCuisine', 3, 664);
 	qss_clearList('qssRegion','Loading...');
 	jsq_Query('qssRegion', tlcc);
 }
 addOnLoad(qss_onload);
+//]]>
 </script>
-				<form id="frmsearch" action="search.htm" method="post">
+				<form id="frmsearch" action="/uk+search.htm" method="post">
 					<input type="hidden" name="tlcc" value="664">
 					<ul>
 						<li><label for="qssRegion">Region</label>
@@ -230,7 +242,7 @@ addOnLoad(qss_onload);
 
 					</ul>
 					<p class="small">All fields are optional</p>
-					<p><a href="uk+advanced.htm">Advanced Search</a></p>
+					<p><a href="/uk+advanced.htm">Advanced Search</a></p>
 				</form>
 			</div>
 			</div>
@@ -247,7 +259,8 @@ addOnLoad(qss_onload);
 <!-- END restaurant advice -->
 <!-- START newsletter -->
 				
-<script language="JavaScript">
+<script type="text/javascript">
+//<![CDATA[
 function xlaANLformvalidate(what){
 var toreturn=true;
 if (what.email.value == ''){
@@ -256,6 +269,7 @@ toreturn=false;
 }
 return(toreturn);
 }
+//]]>
 </script>
 
 <div class="newsletter">
@@ -265,23 +279,25 @@ return(toreturn);
 		</div>
 	</div>
 	<div class="latestnewsbody">
-		<form method="post" style="margin:0" target="_blank" action="http://newsletters.vip-internet.net/user-subscribe.aspx" onsubmit="return xlaANLformvalidate(this)" id="frmNewsletter">
-			<p><label for="newsemail">Sign up to our newsletter and receive all latest reviews and special offers every month!</label></p>
+		<p>Sign up to our newsletter and receive all latest reviews and special offers every month!</p>
+		<form method="post" style="margin:0" target="_blank" action="http://newsletter.restaurant-guide.com/user-subscribe.aspx" onsubmit="return xlaANLformvalidate(this)" id="frmNewsletter">
 			<p><input id="name" size="18" value="Enter name..." onfocus="if(this.value=='Enter name...')this.value=''; return true;" name="name"></p>
 			<p><input id="email" size="18" value="Enter email..." onfocus="if(this.value=='Enter email...')this.value=''; return true;" name="email"></p>
 			<p><select id="nlarea" name="nlarea">
-				<option value="London">London</option>
-				<option value="South East">South East</option>
-				<option value="South West">South West</option>
-				<option value="Midlands East">Midlands East</option>
-				<option value="Midlands West">Midlands West</option>
-				<option value="North East">North East</option>
-				<option value="North West">North West</option>
-				<option value="Scotland">Scotland</option>
-				<option value="Wales">Wales</option>
+						
+				<option>London</option>
+				<option>South East</option>
+				<option>South West</option>
+				<option>Midlands East</option>
+				<option>Midlands West</option>
+				<option>North East</option>
+				<option>North West</option>
+				<option>Scotland</option>
+				<option>Wales</option>
+			
 			</select></p>
-			<input type="hidden" name="lists" value="8" id="Hidden1">
-			<input type="hidden" name="lists" value="7" id="Hidden2">
+			<input type="hidden" name="lists" value="5">
+			<input type="hidden" name="lists" value="2">
 			<p><input type="submit" value="Sign up!" class="button" id="Submit2" name="Submit2"></p>
 		</form>
 	</div>
@@ -323,18 +339,22 @@ return(toreturn);
 	</div>
 	<div class="specoffersbody">
 		<dl>
-			<dt><a href="tapaellya.htm">TaPaell'Ya</a> (Glasgow)</dt>
-			<dd>Selection of tapas and glass of wine £18</dd>
-			<dt class="altlist"><a href="house-the.htm">House, The</a> (Camden, Islington &amp; Marylebone)</dt>
-			<dd class="altlist">3 course Christmas menu £35</dd>
-			<dt><a href="avenue-restaurant-and-bar.htm">Avenue Restaurant &amp; Bar</a> (SW1, Belgravia &amp; Westminster)</dt>
-			<dd>2 Courses £19.95, 3 Courses £21.95</dd>
-			<dt class="altlist"><a href="deep.htm">Deep</a> (Earl's Court &amp; Fulham)</dt>
-			<dd class="altlist">Christmas Menus from £28</dd>
-			<dt><a href="mango-tree.htm">Mango Tree</a> (SW1, Belgravia &amp; Westminster)</dt>
-			<dd>50% off total food bill</dd>
-			<dt class="altlist"><a href="percento.htm">Percento</a> (City &amp; Fringes)</dt>
-			<dd class="altlist">3 Course Menu £36.50</dd>
+			<dt><a href="covent-garden-grill.htm">Covent Garden Grill</a> (Covent Garden &amp; Theatreland)</dt>
+			<dd>3 course fixed price menu (Table d'hote), including a glass of bubbly for £15</dd>
+			<dt class="altlist"><a href="fire-and-stone.htm">Fire &amp; Stone</a> (Covent Garden &amp; Theatreland)</dt>
+			<dd class="altlist">3 course fixed price menu (Pizza and Party Menu includes free entry to Gardening Club), including a glass of Prosecco for £15.50</dd>
+			<dt><a href="olive-press-bolton.htm">Olive Press - Bolton</a> (Bolton)</dt>
+			<dd>1 course fixed price menu (Pizza or Pasta) for £5.95</dd>
+			<dt class="altlist"><a href="london-road.htm">London Road</a> (Alderley Edge)</dt>
+			<dd class="altlist">5 course fixed price menu (With a glass of matched Australian wine per course) for £55</dd>
+			<dt><a href="pont-de-la-tour-le.htm">Pont de la Tour, Le</a> (South of the River - East)</dt>
+			<dd>2 course fixed price menu (Sunday Menu) for £18.50</dd>
+			<dt class="altlist"><a href="sams-brasserie-and-bar.htm">Sam's Brasserie &amp; Bar</a> (West London &amp; Hammersmith)</dt>
+			<dd class="altlist">2 course fixed price menu (Barmy Summer Dining), including one bottle of wine for £40</dd>
+			<dt><a href="rock-garden.htm">Rock Garden</a> (Covent Garden &amp; Theatreland)</dt>
+			<dd>2 course fixed price menu, including a glass of Prosecco for £14.95</dd>
+			<dt class="altlist"><a href="cafe-des-amis.htm">Cafe des Amis</a> (Covent Garden &amp; Theatreland)</dt>
+			<dd class="altlist">2 course fixed price menu for £14.50</dd>
 		</dl>
 	</div>
 </div>
@@ -347,7 +367,7 @@ return(toreturn);
 					<div class="brnotr">
 					<div class="brnobl">
 					<div class="brnobr">
-						<a href="/uk+more-offers.htm">More Special Offers</a>
+						<a href="/uk+more-offers.htm">Search Special Offers</a>
 					</div>
 					</div>
 					</div>
@@ -357,6 +377,7 @@ return(toreturn);
 		</div>
 	</div>
 </div>
+
 <div class="clear">&nbsp;</div>
 
 <!-- END special offers -->
@@ -371,11 +392,11 @@ return(toreturn);
 	<div class="ser">
 	<div class="sel">
 		<div class="selrestbody">
-			<h3><a href="/san-carlo-bristol.htm">San Carlo - Bristol</a><br>(Bristol)</h3>
+			<h3><a href="/da-vincis-warehouse-brasserie.htm">Da Vinci's Warehouse Brasserie</a><br>(Poole)</h3>
 			<div class="clear">&nbsp;</div>
-			<p><a href="/san-carlo-bristol.htm"><img src="/imgsvr/thumbnails/san-carlo-bristol-2.jpg" class="thumbnail"></a></p>
+			<p><a href="/da-vincis-warehouse-brasserie.htm"><img src="/imgsvr/thumbnails/da-vincis-poole-2.jpg" class="thumbnail" alt=""></a></p>
 			<p> 
-  When one of the country's most respected and leading critics says that a restaurant in this group is 'the best Italian Restaurant outside London' it is time to take them seriously. Britain's love&nbsp;...</p>
+  On the second floor of a venerable warehouse that has successfully made the leap into a new 21st century use, da Vinci's Warehouse Brasserie sits on the waterfront, painted pink, with stunning views&nbsp;...</p>
 		</div>
 	</div>
 	</div>
@@ -415,11 +436,11 @@ return(toreturn);
 		<div class="featrestbody">
 			<dl>
 		
-				<dt><a href="/belgo-centraal.htm">Belgo Centraal</a><br>(Covent Garden &amp; Theatreland)</dt>
+				<dt><a href="/larkswood-restaurant-at-thaxted-hall.htm">Larkswood Restaurant at Thaxted Hall</a><br>(Thaxted)</dt>
 
-				<dt><a href="/tango-joes.htm">Tango Joes</a><br>(Preston)</dt>
+				<dt><a href="/cellar-restaurant-the-1.htm">Cellar Restaurant, The</a><br>(Warwick)</dt>
 
-				<dt><a href="/gigalum.htm">Gigalum</a><br>(South of the River - West)</dt>
+				<dt><a href="/new-mill-the.htm">New Mill, The</a><br>(Eversley)</dt>
 
 			</dl>
 		</div>
@@ -453,10 +474,10 @@ return(toreturn);
 <!-- START footer -->
 		
 		<div id="footer">
-			<p><strong>Content ©1997 - 2007 Vip Internet Limited. All Rights Reserved.</strong></p>
+			<p><strong>Content ©1997 - 2008 Vip Internet Limited. All Rights Reserved.</strong></p>
 			<h2 class="noshow">Contact us</h2>
 			<p>Weston Bank, Weston Under Lizard, Shifnal, Shropshire, TF11 8JT, UK</p>
-			<p><strong>Tel:</strong> +44 (0)1952 852200 - <strong>Fax:</strong> +44 (0)1952 850445 - <strong>Email:</strong> <a href="mailto:info@vip-internet.com">info@vip-internet.com</a></p>
+			<p><strong>Tel:</strong> +44 (0)844 736 5221 - <strong>Fax:</strong> +44 (0)844 736 5822 - <strong>Email:</strong> <a href="mailto:info@vip-internet.com">info@vip-internet.com</a></p>
 			<h2 class="noshow">Site navigation</h2>
 			<ul>
 				<li class="first"><a href="/uk+more-offers.htm">Special Offers</a></li>
@@ -475,11 +496,11 @@ return(toreturn);
 				<li><a href="/uk+sitemap.htm">Site Map</a></li>
 			</ul>
 		</div>
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 		<script type="text/javascript">
 			_uacct = "UA-975107-2";
 			urchinTracker();
 		</script>
+		
 <!-- END footer -->
 	</div>
 
