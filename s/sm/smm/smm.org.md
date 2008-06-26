@@ -1,40 +1,36 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228043500id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626100315id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
 
 # Science Museum of Minnesota - Privacy Statement
 
-###   
-Information Privacy Statement 
+### Information Privacy Statement
 
-#### Contact Information
+**Contents**
 
-##### Contents
-
-  * [ General Privacy Statement](http://www.smm.org/#privacy)
-  * [Notification of Changes to this Policy](http://www.smm.org/#changes)
-  * [Information Collected by the Museum](http://www.smm.org/#collected)
-  * [Information Submitted by Third Parties](http://www.smm.org/#submitted)
-  * [Personal Information Collected by the Museum Online](http://www.smm.org/#collectedOnline)
-  * [Other Information Collected by the Museum Online](http://www.smm.org/#collectedOther)
-  * [The Science Museum Adult Computer Education Center](http://www.smm.org/#compEd)
-  * [Cookies](http://www.smm.org/#cookies)
-  * [Web Ticketing Services](http://www.smm.org/#webTicketing)
-  * [SSL Encryption](http://www.smm.org/#ssl)
-  * [Children's Privacy on the Web](http://www.smm.org/#childrenPrivacy)
-  * [Use of Information](http://www.smm.org/#use)
-  * [Sharing of Information](http://www.smm.org/#sharing)
-  * [Use of Postal Address Information and Opt-Out](http://www.smm.org/#postal)
-  * [Use of Telephone Numbers and Opt-Out](http://www.smm.org/#telephone)
-  * [E-Mail Correspondence, Newsletters, and Informational Updates](http://www.smm.org/#email)
-  * [Reviewing Information](http://www.smm.org/#reviewing)
-  * [Third Party Mailing Lists](http://www.smm.org/#thirdParty)
+  * [ General Privacy Statement](http://www.smm.org/privacy/#privacy)
+  * [Notification of Changes to this Policy](http://www.smm.org/privacy/#changes)
+  * [Information Collected by the Museum](http://www.smm.org/privacy/#collected)
+  * [Information Submitted by Third Parties](http://www.smm.org/privacy/#submitted)
+  * [Personal Information Collected by the Museum Online](http://www.smm.org/privacy/#collectedOnline)
+  * [Other Information Collected by the Museum Online](http://www.smm.org/privacy/#collectedOther)
+  * [The Science Museum Adult Computer Education Center](http://www.smm.org/privacy/#compEd)
+  * [Cookies](http://www.smm.org/privacy/#cookies)
+  * [SSL Encryption](http://www.smm.org/privacy/#ssl)
+  * [Children's Privacy on the Web](http://www.smm.org/privacy/#childrenPrivacy)
+  * [Use of Information](http://www.smm.org/privacy/#use)
+  * [Sharing of Information](http://www.smm.org/privacy/#sharing)
+  * [Use of Postal Address Information and Opt-Out](http://www.smm.org/privacy/#postal)
+  * [Use of Telephone Numbers and Opt-Out](http://www.smm.org/privacy/#telephone)
+  * [E-Mail Correspondence, Newsletters, and Informational Updates](http://www.smm.org/privacy/#email)
+  * [Reviewing Information](http://www.smm.org/privacy/#reviewing)
+  * [Third Party Mailing Lists](http://www.smm.org/privacy/#thirdParty)
   * [Compliance with this Policy  
-](http://www.smm.org/#compliance)
+](http://www.smm.org/privacy/#compliance)
 
 
 
 #### General Privacy Statement
 
-The Science Museum of Minnesota is committed to its mission of "inviting learners of all ages to experience their changing world through science." As an element of its operations in pursuit of that mission, the Science Museum routinely collects contact and other personal information from or about its constituents. The Science Museum recognizes and respects the need for privacy and security with information of this kind. The Science Museum is committed to following both the letter and the spirit of all laws governing its operations, including those pertaining to privacy and use of information.
+The Science Museum of Minnesota is committed to its mission to "Turn on the science: realizing the potential of policy makers, educators, and individuals to achieve full civic and economic participation in the world." As an element of its operations in pursuit of that mission, the Science Museum routinely collects contact and other personal information from or about its constituents. The Science Museum recognizes and respects the need for privacy and security with information of this kind. The Science Museum is committed to following both the letter and the spirit of all laws governing its operations, including those pertaining to privacy and use of information.
 
 The following privacy policy describes the Science Museum's current policies and practices with regard to information collected from and about its constituents. Unless otherwise indicated, all procedures apply to information collected online (via the Internet, World Wide Web, and e-mail) and offline (via postal mail, telephone, fax, and in person). The collective term "constituents" is used to refer to Science Museum members, donors, Web site visitors, students, retail and rental customers, gift recipients for whom personal information is required, people who respond to offers sent by mail, people who request that information about the museum be sent to them, and all others from whom we collect information in order to provide requested services and products.
 
@@ -74,19 +70,13 @@ The Science Museum uses technology to collect a wide range of statistical inform
 
 #### The Science Museum Adult Computer Education Center
 
-The Science Museum Adult Computer Education Center (ACEC) operates an educational facility at the Science Museum and a Web site at http://comped.smm.org/. Please refer to the privacy policy posted on the ACEC site for details about its use of information, or contact the ACEC directly.
+The Science Museum Adult Computer Education Center (ACEC) operates an educational facility at the Science Museum and a Web site at [http://comped.smm.org](http://comped.smm.org/). Please refer to the privacy policy posted on the ACEC site for details about its use of information, or contact the ACEC directly.
 
 [back to top](http://www.smm.org/#top)
 
 #### Cookies
 
 Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The Science Museum currently uses cookies to store constituents' preferences and record session information such as items that consumers add to their online shopping carts in the ticketing area or while registering for classes. Cookies are also used to record page location to assist with navigation and menus on our site.
-
-[back to top](http://www.smm.org/#top)
-
-#### Web Ticketing Services Provided by ExtremeTix
-
-Advanced reservation services on the World Wide Web are provided by ExtremeTix/ClicknPrint. When a web user chooses this option for ticket reservations, his or her Web browser is linked to the ExtremeTix site. Information entered by users on the ExtremeTix site is transmitted securely to the Science Museum and is subject to the terms of our Privacy Policy. Please refer to the ExtremeTix privacy page for detailed information.
 
 [back to top](http://www.smm.org/#top)
 
@@ -102,7 +92,7 @@ The Science Museum encourages families to visit the museum's Web site together a
 
 In compliance with the Children's Online Privacy Protection Act, we do our best to delete any information we inadvertently collect from children under the age of 13 who visit our Web site as soon as we gain actual knowledge of its existence. If you learn or suspect that your child has provided personal information to the Science Museum during one of his or her visits to our Web site, please contact the Membership or Development Office or, if your child visited the ACEC site, please call the ACEC directly.
 
-To learn more about how to protect your child's privacy on the Web, please see "A Parent's Guide to Online Privacy" from the Center for Media Education at http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/
+To learn more about how to protect your child's privacy on the Web, please see "A Parent's Guide to Online Privacy" from the Center for Media Education at [http://www.ftc.gov/bcp/conline/edcams/kidzprivacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/).
 
 [back to top](http://www.smm.org/#top)
 
@@ -169,6 +159,6 @@ The Science Museum of Minnesota is very sensitive to concerns regarding privacy 
 ##### If you have questions or comments about this policy, please contact:
 
 > Science Museum of Minnesota  
->  Attn. Vice President for Marketing and Communications  
+>  Attn. Senior Vice President for Museum Enterprises  
 >  120 West Kellogg Blvd.  
 >  St. Paul, MN 55102 
