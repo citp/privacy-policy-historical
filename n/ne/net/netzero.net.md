@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226202227id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626025336id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
 
 # NetZero - Privacy and Security- Free Dial Up Internet Service - High Speed ISP - Net Zero Internet Provider - Netzero.com
 
