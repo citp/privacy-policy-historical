@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204011457id_/http%3A//www.trialpay.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626163320id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
 
-# TrialPay
-
-### TrialPay Privacy Policy
+# TrialPay Online Shopper Privacy Policy
 
 **Information We Collect**  
+
+
 We collect personal information when you register with TrialPay or when you use our products or services. We may combine information about you that we have with information we obtain from business partners or other companies.
 
 When you register we ask for information such as your name and email address. For some products and services we may also ask for your address so that we can ensure delivery of physical products.
@@ -20,7 +20,11 @@ This site is not aimed to attract children and its objective is not to collect p
 **Information Sharing and Disclosure**  
 TrialPay does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-We provide the information to trusted partners who work on behalf of or with TrialPay under confidentiality agreements. These companies may use your personal information to help TrialPay communicate with you about offers from TrialPay and our marketing partners. However, these companies do not have any independent right to share this information.  
+  
+
+
+We provide the information to trusted partners who work on behalf of or with TrialPay under confidentiality agreements. These companies may use your personal information to help TrialPay communicate with you about offers from TrialPay and our marketing partners. However, these companies do not have any independent right to share this information.
+
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TrialPay's terms of use, or as otherwise required by law. We transfer information about you if TrialPay is acquired by or merged with another company. In this event, TrialPay will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 TrialPay displays targeted offers based on personal information. Advertisers may assume that people who interact with, view, or click on targeted offers meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
