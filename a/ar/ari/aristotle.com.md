@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013121644id_/http%3A//www.aristotle.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D31%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626104128id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
 
-# Privacy Statement and Data Restrictions for Aristotle, Inc. - Aristotle - Now You Know
+# Privacy Policy and Data Restrictions - Aristotle - Now You Know
 
 Aristotle, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **Aristotle, Inc.** and its divisions. 
 
@@ -13,6 +13,15 @@ Our site uses an order form for customers to request information, products, and 
 
 This site has security measures in place, including server password and firewalls, to protect the loss, misuse and alteration of the information under our control. 
 
+## Copyright Notice
+
+© 2007 Aristotle, Inc. All rights reserved.   
+
+
+## Trademarks
+
+ARISTOTLE, the "Digital Fountain" logo, INTEGRITY, the Integrity "Star Burst" logo, and other trademarks are trademarks of Aristotle Incorporated and may not be used without permission. 
+
 ## Political Data Restrictions
 
 Use of and access to voter list data is restricted in some jurisdictions. For information, contact an Aristotle representative. AZ voter data is not available on the Internet. Orders for PA & SD voter data may be placed; however, the data will be delivered separately as it is not available for download over the Internet. Searching for individual voters is not available, and voter names and addresses are not visible during your searches. 
@@ -21,7 +30,7 @@ Any information copied, or otherwise obtained, from any FEC report or statement,
 
 ## Use of Data for Verification Purposes
 
-Information provided for purposes of age and identity verification to Aristotle and it's Integrity unit is used only for that purpose, and is not transferred or retained, except as required by law. 
+Personally identifiable information provided for purposes of age and identity verification to Aristotle and its Integrity unit is used only for that purpose, and is not transferred or retained, except as required by law. 
 
 ## U.S.-EU Safe Harbor Privacy Statement
 
