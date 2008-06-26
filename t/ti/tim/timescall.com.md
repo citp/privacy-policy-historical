@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timescall.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226175926id_/http%3A//www.timescall.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timescall.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626100016id_/http%3A//www.timescall.com/privacy.asp) for the most accurate reproduction.*
 
 # The Longmont Times-Call
 
