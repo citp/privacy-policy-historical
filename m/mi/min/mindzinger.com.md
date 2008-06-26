@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindzinger.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202075652id_/https%3A//www.mindzinger.com/stuff/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindzinger.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626052710id_/http%3A//mindzinger.com/resources/privacy) for the most accurate reproduction.*
 
-# MindZinger :: Privacy
+# MindZinger :: Homework Help :: Privacy
 
 _(revised August 8th, 2007)_
 
