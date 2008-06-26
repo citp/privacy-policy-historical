@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longislandwatch.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011346id_/http%3A//www.longislandwatch.com/faq/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandwatch.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626045848id_/http%3A//www.longislandwatch.com/faq/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
