@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belleville.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015234340id_/http%3A//www.bnd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleville.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626043952id_/http%3A//www.bnd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | www.bnd.com
 
@@ -107,6 +107,24 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 1\. Responsible conduct. You agree to act responsibly at this site and to treat other visitors with respect. 
 
 2\. Limited License/ Copyright and Intellectual Property Law Restrictions. Except for public domain material, the content on this site is protected by intellectual property laws, including U.S. copyright laws. You are hereby granted a non-exclusive license to use the material at this site ("Content") while connected to this site (including, where available, to email individual stories to friends directly from this site). You are also granted a limited license to print one copy of any Content posted at the site, but only for your personal use. Except as expressly provided above, all rights are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our site, electronic reproduction, adaptation, distribution, performance or display is prohibited. Changes to or deletion of author attribution or copyright notices are prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other web sites also is strictly prohibited. You may not display this website in frames (or any of the Content via in-line links) without our express written permission, which may be requested by contacting us through our feedback form. You may, however, establish ordinary links to our site without our written permission. 
+
+COPYRIGHTS
+
+If you believe that [bnd.com](http://www.bnd.com/) or any user of [bnd.com](http://www.bnd.com/) has infringed your copyright in any material way, please notify our Copyright Agent and provide the following information: 
+
+1\. An identification of the copyrighted work that you claim has been infringed. 
+
+2\. An identification of the material on [bnd.com](http://www.bnd.com/) that you claim is infringing or is subject to infringing activity, with enough detail so that we can locate the material on our site. 
+
+3\. Your name, address, telephone number and e-mail address. 
+
+4\. A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent or the law. 
+
+5\. A statement by you declaring that the above information in your Notice is accurate, made under penalty of perjury, and that you are authorized to act on behalf of the owner of the copyright interest involved. 
+
+6\. Your physical or electronic signature. 
+
+The Copyright Agent for [newspaper website.com] is Karole Morgan-Prager, General Counsel, who can be reached at 2100 Q Street, Sacramento, CA 95816 , or at [kmorgan-prager@mcclatchy.com](mailto:kmorgan-prager@mcclatchy.com) or at 916-321-1828. 
 
 3\. Links. We may provide links from our site to other sites as a convenience to our visitors. We have no control over linked sites and make no representations about any content or material available at these locations. Links are not intended to imply sponsorship, affiliation or endorsement. 
 
