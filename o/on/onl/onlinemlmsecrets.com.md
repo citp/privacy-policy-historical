@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217041834id_/http%3A//www.onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626033707id_/http%3A//www.onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -75,7 +75,7 @@ Our postal address is
 somers, ct, 06071
 
 We can be reached via e-mail at support@OnlineMLMSecrets.com  
-or you can reach us by telephone at 860-985-3985
+or you can reach us by telephone at 206-666-4398
 
 For each visitor to our Web page, our Web server automatically recognizes no   
 information regarding the domain or e-mail address.
@@ -134,4 +134,5 @@ may contact us at the above addresses or phone number.
 
 
 © 2007 **www.OnlineMLMSecrets.com** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
+
