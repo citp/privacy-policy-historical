@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interfacelift.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213075206id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interfacelift.com privacy policy that was archived on 2008-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080626033622id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title></title>
@@ -93,6 +93,24 @@ function handleResponse3() {
   }
 }
 
+function cmt_view(comment_id) {
+  http.open('get', '/cmt_view.php?comment_id='+comment_id);
+  http.onreadystatechange = handleResponse4;
+  http.send(null);
+}
+
+function handleResponse4() {
+  if(http.readyState == 4){
+    var response = http.responseText;
+    var update = new Array();
+
+    if(response.indexOf('|' != -1)) {
+      update = response.split('|');
+      document.getElementById('comment_text_'+update[0]).innerHTML = update[1];
+    }
+  }
+}
+
 function pad(number,length) {
     var str = '' + number;
     while (str.length < length)
@@ -133,7 +151,7 @@ function pad(number,length) {
 <div id="page">
 <div id="navbar">
 <div class="left"><a href="/" title="InterfaceLIFT Home Page"><img name="interfacelift" src="/img/interfacelift2_on.gif" width="106" height="25" border="0"></a></div>
-<div class="right"><a href="/news/" onmouseover="news.src='/img/news_on.gif';" onmouseout="news.src='/img/news.gif';" title="Graphical User Interface News (Mac and Windows)"><img name="news" src="/img/news.gif" width="56" height="25" border="0"></a><a href="/wallpaper/index.php?sort=date" onmouseover="wallpaper.src='/img/wallpaper_on.gif';" onmouseout="wallpaper.src='/img/wallpaper.gif';" title="Desktop Wallpaper (Mac, Windows, Linux)"><img name="wallpaper" src="/img/wallpaper.gif" width="87" height="25" border="0"></a><a href="/icons-mac/index.php?sort=date" onmouseover="icons.src='/img/icons_on.gif';" onmouseout="icons.src='/img/icons.gif';" title="Icons (Mac, Windows, Developers)"><img name="icons" src="/img/icons.gif" width="55" height="25" border="0"></a><a href="/themes-mac/index.php?sort=date" onmouseover="themes.src='/img/themes_on.gif';" onmouseout="themes.src='/img/themes.gif';" title="Mac OS X Themes (ShapeShifter)"><img name="themes" src="/img/themes.gif" width="73" height="25" border="0"></a><a href="/icons-stock/index.php?sort=date" onmouseover="forsale.src='/img/forsale_on.gif';" onmouseout="forsale.src='/img/forsale.gif';" title="Royalty-Free Stock Icons for Developers"><img name="forsale" src="/img/forsale.gif" width="118" height="25" border="0"></a><a href="/forhire/" onmouseover="forhire.src='/img/forhire_on.gif';" onmouseout="forhire.src='/img/forhire.gif';" title="Freelance Graphic Designers"><img name="forhire" src="/img/forhire.gif" width="69" height="25" border="0"></a><a href="/account/" onmouseover="account.src='/img/account_on.gif';" onmouseout="account.src='/img/account.gif';" title="My Account"><img name="account" src="/img/account.gif" width="76" height="25" border="0"></a><a href="/search.php" onmouseover="search2.src='/img/search_on.gif';" onmouseout="search2.src='/img/search.gif';" title="Spotlight Search"><img name="search2" src="/img/search.gif" width="65" height="25" border="0"></a></div></div>
+<div class="right"><a href="/news/" onmouseover="news.src='/img/news_on.gif';" onmouseout="news.src='/img/news.gif';" title="Graphical User Interface News (Mac and Windows)"><img name="news" src="/img/news.gif" width="56" height="25" border="0"></a><a href="/wallpaper/index.php?sort=date" onmouseover="wallpaper.src='/img/wallpaper_on.gif';" onmouseout="wallpaper.src='/img/wallpaper.gif';" title="Desktop Wallpaper (Mac, Windows, Linux)"><img name="wallpaper" src="/img/wallpaper.gif" width="87" height="25" border="0"></a><a href="/icons-mac/index.php?sort=date" onmouseover="icons.src='/img/icons_on.gif';" onmouseout="icons.src='/img/icons.gif';" title="Icons (Mac, Windows, Developers)"><img name="icons" src="/img/icons.gif" width="55" height="25" border="0"></a><a href="/themes-mac/index.php?sort=date" onmouseover="themes.src='/img/themes_on.gif';" onmouseout="themes.src='/img/themes.gif';" title="Mac OS X Themes (ShapeShifter)"><img name="themes" src="/img/themes.gif" width="73" height="25" border="0"></a><a href="/icons-stock/index.php?sort=date" onmouseover="forsale.src='/img/forsale_on.gif';" onmouseout="forsale.src='/img/forsale.gif';" title="Royalty-Free Stock Icons for Developers"><img name="forsale" src="/img/forsale.gif" width="118" height="25" border="0"></a><a href="/account/" onmouseover="account.src='/img/account_on.gif';" onmouseout="account.src='/img/account.gif';" title="My Account"><img name="account" src="/img/account.gif" width="76" height="25" border="0"></a><a href="/search.php" onmouseover="search2.src='/img/search_on.gif';" onmouseout="search2.src='/img/search.gif';" title="Spotlight Search"><img name="search2" src="/img/search.gif" width="65" height="25" border="0"></a></div></div>
 
 <div id="contentarea">
 
@@ -184,29 +202,16 @@ function pad(number,length) {
 
 </div><!-- contentarea -->
 <div style="background-color: #e4e4e4; font-size: 10px; padding: 3px 0 3px 0;">
-<div class="left">Copyright © 2000-2007 L-bow Grease, LLC.</div>
-<div class="right"><a href="/site/advertising.html">advertise</a> | <a href="/site/rss.html"><b>rss</b></a> | <a href="/newsletter/"><b>newsletter</b></a> | <a href="/goto.php?url=http://www.apple.com/downloads/dashboard/blogs_forums/interfaceliftcomwidget.html" target="_blank"><b>widget</b></a> | <a href="/site/license.html">content usage rights</a> | <a href="/site/privacy.html">privacy policy</a> | <a href="/site/contact.html">contact</a></div>
+<div class="left">Copyright © 2000-2008 L-bow Grease, LLC.</div>
+<div class="right"><a href="/site/advertising.html">advertise</a> | <a href="/site/rss.html"><b>rss</b></a> | <a href="/goto.php?url=http://www.apple.com/downloads/dashboard/blogs_forums/interfaceliftcomwidget.html" target="_blank"><b>widget</b></a> | <a href="/site/license.html">content usage rights</a> | <a href="/site/privacy.html">privacy policy</a> | <a href="/site/contact.html">contact</a></div>
 </div>
 </div><!-- page -->
 
 
 <div id="bottomleaderboard">
-<script type="text/javascript"><!--
-google_ad_client = "pub-3902458398606385";
-google_alternate_ad_url = "http://ads.interfacelift.com/local/vc_728x90.html";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text_image";
-google_ad_channel ="5424080503";
-google_color_border = "e4e4e4";
-google_color_bg = "e4e4e4";
-google_color_link = "0000FF";
-google_color_url = "0000CC";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+<!-- BEGIN TAG - 728x90 - interfacelift.com/ - DO NOT MODIFY -->
+<script type="text/javascript" src="http://optimizedby.rmxads.com/st?ad_type=ad&amp;ad_size=728x90&amp;promote_sizes=1&amp;section=100686"></script>
+<!-- END TAG -->
 </div><!-- bottomleaderboard -->
 
 </div><!-- right -->
@@ -215,72 +220,67 @@ google_color_text = "000000";
 <div id="left">
 
 <div id="badge1">
-<script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adx.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
    if (!document.phpAds_used) document.phpAds_used = ',';
    phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
    
    document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.interfacelift.com/adjs.php?n=" + phpAds_random);
+   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
    document.write ("&amp;what=zone:4&amp;target=_blank");
    document.write ("&amp;exclude=" + document.phpAds_used);
    if (document.referrer)
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adjs.php?n=782380303&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.interfacelift.com/adclick.php?n=a8e35665' target='_blank'><img src='http://ads.interfacelift.com/adview.php?what=zone:4&amp;n=a8e35665' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=828998912&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a9566082' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:4&amp;n=a9566082' border='0' alt=''></a></noscript>
 </div><!-- 160_90 -->
 
 <div id="badge2">
-<script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.interfacelift.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:3&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-
-</script><script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adjs.php?n=116093154&amp;what=zone:3&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.interfacelift.com/adclick.php?n=a8ca00f2' target='_blank'><img src='http://ads.interfacelift.com/adview.php?what=zone:3&amp;n=a8ca00f2' border='0' alt=''></a></noscript>
-</div><!-- 160_120 -->
-
-<div id="badge3">
-<script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adx.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
    if (!document.phpAds_used) document.phpAds_used = ',';
    phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
    
    document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.interfacelift.com/adjs.php?n=" + phpAds_random);
+   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=358789570&amp;what=zone:3&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a4ca0ab9' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:3&amp;n=a4ca0ab9' border='0' alt=''></a></noscript>
+<div style="margin: 0; padding: 0; margin-top 3 px; text-align: center;"><a href="http://db.interfacelift.com/adclick.php?bannerid=158&amp;zoneid=3&amp;source=&amp;dest=http%3A%2F%2Fwww.iconshock.com%2Fprofessional-icons.php%3Fres%3Dilift" target="_blank" style="text-decoration: none; color: black; font-size: 12px; font-family: sans-serif;">iconshock - vista icons</a></div>
+</div><!-- 160_120 -->
+
+<div id="badge3">
+<script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://db.interfacelift.com/adjs.php?n=" + phpAds_random);
    document.write ("&amp;what=zone:13&amp;target=_blank");
    document.write ("&amp;exclude=" + document.phpAds_used);
    if (document.referrer)
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.interfacelift.com/adjs.php?n=350712894&amp;what=zone:13&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.interfacelift.com/adclick.php?n=aa25d98c' target='_blank'><img src='http://ads.interfacelift.com/adview.php?what=zone:13&amp;n=aa25d98c' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://db.interfacelift.com/adjs.php?n=531048417&amp;what=zone:13&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://db.interfacelift.com/adclick.php?n=a47fb578' target='_blank'><img src='http://db.interfacelift.com/adview.php?what=zone:13&amp;n=a47fb578' border='0' alt=''></a></noscript>
 </div><!-- 160_90 -->
 
 <div id="badge4">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3902458398606385";
+/* 160x90 Ad Links left */
+google_ad_slot = "7560893120";
 google_ad_width = 160;
 google_ad_height = 90;
-google_ad_format = "160x90_0ads_al_s";
-//2007-12-01: ad links 160x90 left
-google_ad_channel = "9632960449";
-google_color_border = "E4E4E4";
-google_color_bg = "E4E4E4";
-google_color_link = "0000FF";
-google_color_text = "000000";
-google_color_url = "CC0000";
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
@@ -288,18 +288,21 @@ google_color_url = "CC0000";
 </div><!-- 160_90 google -->
 
 <div id="skyscraper">
-
-<script type="text/javascript">
-   e9 = new Object();
-   e9.size = "160x600,120x600";
-   e9.noAd = 1;
-</script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Xiconscom/ROS/tags.js"></script>
-
+<!-- BEGIN TAG - 160x600 - interfacelift.com/ - DO NOT MODIFY -->
+<script type="text/javascript" src="http://optimizedby.rmxads.com/st?ad_type=ad&amp;ad_size=160x600&amp;promote_sizes=1&amp;section=100686"></script>
+<!-- END TAG -->
 </div><!-- skyscraper -->
 
 </div><!-- left -->
 </div><!-- main -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-e3WlqZovL8L1Y";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-e3WlqZovL8L1Y" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-e3WlqZovL8L1Y.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
