@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-japan.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228052000id_/http%3A//web-japan.org/plaza/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-japan.org privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626151712id_/http%3A//web-japan.org/plaza/privacy.html) for the most accurate reproduction.*
 
 # Web Japan : Privacy Policy
 
