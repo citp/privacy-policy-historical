@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppnow.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010022956id_/http%3A//www.ppnow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppnow.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626214518id_/http%3A//www.ppnow.com/privacy) for the most accurate reproduction.*
 
 # ppnow.net - privacy policy
 
