@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201165151id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626193754id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Upper Deck Company: Privacy Policy
 
@@ -58,8 +58,6 @@ We have put in place physical, electronic and managerial procedures to safeguard
 **Policy for children under 18 years of age**   
 If you are a citizen of a European Country and under the age of 18, or a citizen of the United States or Canada and under the age of 13 you must provide your parent or legal guardian's email address in order to be eligible and gain full access to the services provided at the Websites. In addition, we will provide your parents with the ability to: (a) review the personal information we have collected from you; (b) refuse to allow any further collection or use of your personal data; and (c) remove your records from our database. Upper Deck does not require children to provide any more information than is reasonably necessary to participate in any of our site activities. 
 
-In the event that Upper Deck learns that you are under the age of 18 in Europe or 13 in the United States or Canada, Upper Deck will contact your parent or legal guardian (collectively, "Parents") to seek consent before we further process your personal data. 
-
 Until consent is provided, we will neither collect any additional information about you nor use the information we've collected except for the purpose of seeking consent. If we do not have your parent's consent within 30 days we will destroy all personal data we have received from you and you will have only limited access to the Websites. 
 
 Once consent is provided, you will receive an e-mail message confirming that you will have full access to the Websites. This e-mail should be received within a week of receiving your Parent's consent. 
@@ -73,9 +71,13 @@ Upper Deck (Europe BV)
 Flevolaan 15   
 1382 JX Weesp   
 The Netherlands   
-Fax number: (011) 31 294 461 601 
+Phone: + Int 31 294 461 600   
+Fax number: (011) 31 294 492 401   
+E-mail: [questions@upperdeck.com](mailto:questions@upperdeck.com)
 
-The Upper Deck Company, LLC   
-5909 Sea Otter Place   
-Carlsbad, California 92010   
-Fax number: (760) 929-3194 
+The Upper Deck Company, Inc   
+985 Trade Drive Suite A   
+Las Vegas NV 89030   
+Phone: (800) 873-7332   
+Fax number: (702) 633-0685   
+E-mail: [customer_service@upperdeck.com](mailto:customer_service@upperdeck.com)
