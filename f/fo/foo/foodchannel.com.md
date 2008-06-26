@@ -1,19 +1,35 @@
-> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422160613id_/http%3A//www.noble.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627014100id_/http%3A//www.foodchannel.com/privacy) for the most accurate reproduction.*
 
-# Noble
+# Food Channel: Privacy Policy
 
-  
-**_NOBLE WEBSITE PRIVACY POLICY_**
+This Privacy Policy governs the manner in which Food Channel LLC, a Missouri company (“Food Channel”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its www.foodchannel.com web site and any derivative or affiliated web sites on which this Privacy Policy is posted (collectively, the “Web Site”) reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page. Please check this Privacy Policy periodically for changes. The continued use of the Web Site following the posting of changes to these terms constitutes an acceptance of those changes.
 
-NOBLE respects your privacy and your privacy is important to us.  We collect no personal information unless you provide that information to us. 
+### Privacy
 
-If you choose to provide us with personal information by sending NOBLE an e-mail, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us provide you with information that you request. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons.   NOBLE does not collect or use information for commercial marketing. Any information you give us about yourself is held with the utmost care and security and will not be used in ways to which you have not consented.
+Food Channel is committed to safeguarding the information Users entrust to Food Channel and believes every User should know how it utilizes the information collected from Users. The Web Site is not directed at children under 13 years of age.
 
-To the extent required by law, we may disclose personally identifiable information to government authorities, or to third parties pursuant to a subpoena or other legal process. 
+### The Information Food Channel Collects
 
-NOBLE reserves the right to change this Privacy Policy at any time and will notify users of any material changes by updating the policy here and by including a "NEWLY UPDATED" label with the " PRIVACY POLICY” link on the web sites governed by this policy for 30 days after any material changes are made.
+Food Channel may collect personally identifiable information from Users in a variety of ways. Personally identifiable information may include, without limitation, (i) contact data (such as a User’s name, mailing and e-mail addresses); (ii) demographic data (such as a User’s zip code, age and income); (iii) financial information collected to process purchases made from Food Channel via the Web Site or otherwise (such as credit card, debit card or other payment information); and (iv) other information requested during the account registration process. If a User communicates with Food Channel by e-mail or otherwise, post User Content (as defined in the Web Site Terms of Use) to the Web Site, post messages to any forums, complete online forms, surveys or entries or otherwise interact with or use the features on the Web Site, any information provided in such communications may be collected by Food Channel. Food Channel may also collect information about how Users use the Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains and IP addresses from which Users originate. While not all of the information that Food Channel collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide Food Channel through the Web Site or otherwise.
 
-This policy was last updated on June 4, 2006.
+Food Channel may use “cookies” or “web beacons” to track how Users use the Web Site. A cookie is a piece of software that a web server can store on Users’ PCs and use to identify Users should they visit the Web Site again. Users may adjust their web browser software if they do not wish to accept cookies. Food Channel may use third party advertising networks to serve advertisements on the Web Site. The cookies received with banner advertisements served by these networks are used to collect and build anonymous behavioral profiles by these companies to deliver targeted advertisements and tracking referrals, and Food Channel generally does not have access to this information. 
 
-  
+### How Food Channel Uses Information
 
+Food Channel may use personally identifiable information collected through the Web Site for the specific purposes for which the information was collected, to process purchases and sales of products or services offered via the Web Site, to contact Users regarding products and services offered by Food Channel and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with Food Channel and such affiliates, independent contractors and business partners. Food Channel may also use information collected through the Web Site for research regarding the effectiveness of the Web Site and the business planning, marketing, advertising and sales efforts of Food Channel, its trusted affiliates, independent contractors and business partners.
+
+### Disclosure of Information
+
+Food Channel may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above or for the specific purposes for which the information was collected. Food Channel may disclose information at the request of law enforcement or governmental agencies or in response to subpoenas, court orders or other legal process, to establish or exercise Food Channel’s legal rights or defend against a legal claim or as otherwise required by law. Food Channel may disclose information to investigate or prevent a violation by User of any contractual or other relationship with Food Channel or the perpetration of any illegal or harmful activity. Food Channel may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, Food Channel may disclose or transfer information collected from Users in connection with a sale of its assets or business or a merger, consolidation or other reorganization of its business.
+
+### Personal Information Provided as Part of User Content
+
+If a User includes such User’s personally identifiable information as part of the User Content that such User posts to the Web Site, such information may be made available to any parties using the Web Site and/or such User Content. Food Channel does not edit or otherwise remove such information from User Content before it is posted on the Web Site. If a User does not wish to have such User’s personally identifiable information made available in this manner, such User must remove any such information from the User Content before posting. User contact information (which may include, without limitation, a User’s username and email address) may be included with any User Content that a User posts via the Web Site. Food Channel is not liable for any damages caused or incurred due to personally identifiable information made available in the foregoing manners.
+
+### Security of Information
+
+Information about Users that is maintained on Food Channel’s systems is protected using industry standard security measures. However, Food Channel cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Users should please email Food Channel at [info@foodchannel.com](https://web.archive.org/web/20080627014100id_/http%3A//www.foodchannel.com/info@foodchannel.com) if they would like their information updated or removed from Food Channel’s systems.
+
+### Correcting/Updating Personal Information 
+
+If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Food Channel, Food Channel will endeavor to provide a way to correct, update and/or remove that User’s personal data provided. This can be done by emailing a request to Food Channel at [info@foodchannel.com](mailto:info@foodchannel.com). 
