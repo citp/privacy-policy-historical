@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchindia.tv privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/private_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchindia.tv privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/private_policy.html) for the most accurate reproduction.*
 
 # WatchIndia live
 
@@ -30,5 +30,5 @@ KUMARINA INVESTMENT LTD. - PRIVACY POLICY, APRIL 2007
   
   
    
-|  | [Terms & Conditions](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/terms.html) |  | [Privacy Policy](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/private_policy.html) |  | [Join](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/join_secure.aspx) |  | [Contact](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/contact.aspx) |  | [Support](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/support.html) |  | [Partners](https://web.archive.org/web/20071207093721id_/http%3A//www.watchindia.tv/partners.html) |   
----|---|---|---|---|---|---|---|---|---|---|---|---
+|  | [Terms & Conditions](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/terms.html) |  | [Privacy Policy](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/private_policy.html) |  | [Join](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/join_secure.aspx) |  | [Contact](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/contact.aspx) |  | [Support](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/support.html) |  | [Partners](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/partners.html) |  | [Advertise with us](https://web.archive.org/web/20080626205716id_/http%3A//www.watchindia.tv/Advertise.html) |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
