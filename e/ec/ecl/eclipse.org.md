@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232257id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626151631id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
 
 # Eclipse.org Privacy Policy
 
