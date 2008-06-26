@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlerealm.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228024542id_/http%3A//www.articlerealm.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerealm.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626163349id_/http%3A//www.articlerealm.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy Article Realm - Free Article Directory For Free Articles
+# privacy Article Realm - Free Article Directory - Free Articles
 
 |    
 
