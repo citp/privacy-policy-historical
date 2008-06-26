@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebodypharmacy.co.uk privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125095958id_/http%3A//www.thebodypharmacy.co.uk/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodypharmacy.co.uk privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626045850id_/http%3A//www.thebodypharmacy.co.uk/Terms_privacy.asp) for the most accurate reproduction.*
 
-# The Body Pharmacy - Buy health and beauty products online, including diet supplements, sports nutrition, sexual health products and vitamins & minerals at cheap prices.
+# Buy Health And Beauty Products Online From The Body Pharmacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071125095958id_/http%3A//www.thebodypharmacy.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080626045850id_/http%3A//www.thebodypharmacy.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
