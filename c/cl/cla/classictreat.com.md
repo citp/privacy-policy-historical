@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classictreat.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211184641id_/http%3A//gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classictreat.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626162053id_/http%3A//gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
 
-# Breaking News, Movies, Cricket, Dating, Music, Ecards & more at GogruMogru.com
+# Privacy Policy - GogruMogru.com
 
 | 
 
