@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oldnavy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211213048id_/http%3A//www.oldnavy.com/customerService/info.do%3Fcid%3D3318) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnavy.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626073946id_/http%3A//www.oldnavy.com/customerService/info.do%3Fcid%3D3318) for the most accurate reproduction.*
 
-# Ordering: Privacy & Security | Old Navy
+# Privacy Policy | Old Navy
 
 Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Stores, and Piperlime (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
 
