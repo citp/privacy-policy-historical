@@ -1,70 +1,47 @@
-> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122153336id_/http%3A//www.tribstar.com/policy/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626105549id_/http%3A//www.tribstar.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
-# Terre Haute, Indiana News :: TribStar.com :: Policy
+# Terre Haute News, Terre Haute, Indiana- TribStar.com - Homepage
 
-  
-|  | |   
----|---  
-| 
+## Effective
 
-PRIVACY POLICY
+This Policy was last modified on October 18, 2007.
 
-The Tribune-Star, referred to as "We", "Us" or "Our" as applicable, is committed to maintaining the privacy of personal information that you provide to Us when using Our web site. This Privacy Policy describes how We treat personal information received about you when you visit the Tribune-Star Web site.
+## Information Practices
 
- **Information Collected**
+Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "Company") understand that security and privacy are important issues for visitors to our web site, (the "Site") and recognize our obligation to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent. Please note that the Policy applies only to information collected by Company through the Site, as specified below, and does not govern or apply to any information collected or used by Company through other means.
 
-Web Site Usage Information: We automatically collect IP addresses and web site usage information from you when you visit Our web site. This information helps Us in evaluating how Our visitors use and navigate Our web site on an aggregate basis, including the number and frequency of visitors to each page of the web site, and the length of their visits.
+## Collection of Information
 
-Special Features: When you use some of the special features of Our web site and at other times, We may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your interests and similar information.
+You may be asked to voluntarily provide your name, billing address, shipping address, phone number, credit card number, email addressor other personally identifiable information ("Personal Information") to make purchases or to have access to some features of the Site. By using the Site and providing us with your Personal Information, you consent to our use of such information as described in this Policy. You may always refuse to provide your Personal Information, and this may lead to our inability to provide you with certain products or services. We or our business partners may also collect information that is anonymous, such as your IP number (a number used to identify your computer on the Internet) or the type of browser you are using ("Anonymous Information"), through the use of cookies or by other means. Because this information helps us in evaluating how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each page of the Site, and the length of visits, we hope that, by using Anonymous Information, we can update the Site to make it more useful to you and other users. We reserve the right to maintain, update, disclose or otherwise use Anonymous Information, without limitation.
 
-Surveys and Form: We may conduct occasional online surveys or ask you to fill in forms. For example, when you are within Our web site, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys and forms are entirely voluntary and you may easily decline to participate.
+## Use of Information
 
- **How We Use Information Collected**
+We use your Personal Information for the following purposes: to process your orders and administer your account; to administer and improve the Site and related services; to personalize the content of the Site to your preferences; to process requests made by you; to notify you of our products, services, promotional events or special offers that maybe of interest to you; to provide Internet security; where reasonably necessary to enforce our Legal Terms and Conditions of Use; and if there is a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request. Company may work with our business partners who may perform certain functions on our behalf, such as fulfilling orders, sending email messages, managing data, processing credit card payments or providing customer service. These business partners have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose. Other than for the specific purposes set forth in this Policy, we will not disclose your Personal Information unless we obtain your prior consent or are legally required to do so. We may use third party advertising companies to place ads on the Site and to place our ads on other web sites. These companies may use Anonymous Information about your visits to this and other web sites to provide advertisements on the Site and other sites about goods and services that may be of interest to you. If Company is involved in the sale of a substantial portion of its business assets, Anonymous or Personal Information maybe among the transferred assets.
 
-We may use information that you provide Us in the following ways:
+## Privacy of Children
 
-* For the purposes for which you specifically provided the information, for example, when you request that additional information be sent to you, We will use your personal information to process your request.
-* To send you e-mail notifications about Our new or existing services, special offers, or to otherwise contact you.
-* To allow Us to personalize the content and advertising that you and others see based on personal characteristics or preferences.
-* To enhance existing features or develop new features, products and services.
-* To provide advertisers and other third parties with aggregate information about Our user base and usage patterns.
+We encourage parents and guardians to be aware of and participate in their children's online activities. We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly collect, use or disclose Personal Information from any child under the age of 13 in any manner that violates this law. Please note that the Site may contain links to other sites on the Internet that are owned and operated by third parties ("Third Party Sites") which may request Personal Information from children under the age of 13. Company is not responsible for the collection or use of Personal Information collected from any child under the age of 13 at any Third Party Sites. We encourage parents and guardians to review the privacy policies contained on the Third Party Sites. Company disclaims any liability for any third party's use of such Personal Information obtained through using the Third Party Site.
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce Our Terms of Use (for example, when necessary to protect Our intellectual property rights) or when We, in Our sole discretion, believe it is necessary or appropriate, in
+## Your Opportunity to Opt-out of Email Advertising
 
-connection with a sale or transfer of some or all of Our assets in Our web site. We may also disclose personally identifiable information when We, in good faith, believe that the law requires Us to do so. As We develop Our business, We might sell or buy businesses or assets. In transactions such as these, customer information is generally one of the transferred business assets. Moreover, in the unlikely event that We or one of Our publishing lines are acquired, customer information may be one of the transferred assets.
+In the event you do not wish to receive promotional email from us, follow the opt-out instructions contained within the body of any email message you receive.
 
-Except as otherwise set forth in this Privacy Policy, We will not share your personally identifiable information outside of Our organization unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with Us.
+## Cookies
 
- **Your Ability to Choose**
+When you visit the Site, we or a third party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that can help us in many ways. A "cookie" is a small computer file that is transferred to a computer's hard drive and which permits us to know about site visits. We may use cookies to improve your experience on the Site by making it easier for you to navigate through the Site or to make a site feature work better. Information collected from a "cookie" might include information regarding your browser, type of computer, operating system, Internet service provider and other similar information. Cookie technology may also gather information about the areas you visit on our Site and about the links you may select from within our Site to other areas of the Internet. We use such information in the aggregate to understand which services and resources our visitors prefer and how those services and resources are used. Cookies also allow us to remember you between visits, for example, they may be used for any auto-login feature on the Site or to save any customized preference settings for future visits. We do not extract Personal Information during this process. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.
 
-You can always decide not to provide your personal information to Our web site, however in some cases failing to provide such information may limit your ability to use certain features available at Our web site. You can let Us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give Us your personally identifiable information or after opting in by contacting Us at the following e-mail address: [max.jones@tribstar.com](mailto:max.jones@tribstar.com)
+## Links
 
- **Cookies**
+The Site may contain links to Third Party Sites. Company is not responsible for the collection or use of your Personal or Anonymous Information at any Third Party Sites. Therefore, Company disclaims any liability for any third party's use of your Personal or Anonymous Information obtained through using the Third Party Site.
 
-We use cookies to allow you to move quickly through Our site, to recognize repeat visitors and to allow you to take advantage of some of Our site's special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory.
+## Surveys
 
-Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit Our web site, or use some of the features, We may pass cookies to your computer. Some of the cookies that We pass to your computer are long term. Otherwise, We would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time.
+From time to time, Company may conduct online surveys through the Site. For example, an opportunity to participate in a survey may be presented in a pop-up window. All surveys are completely voluntary and you may always decline to participate. The information you provide in response to a survey may be shared with our business partners and other third parties, but only in the aggregate, unless we notify you otherwise at the time of collection.
 
-**Links to Third Party Web Sites**
+## Public Areas
 
-We may make third party content or services from other web sites available to you from links located on Our web site. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators.
+Company makes some public chat rooms, forums, message boards, and news groups available to you. Please remember that these areas of the Site are public areas and may be viewed by other visitors to the Site. You should not post any Personal Information in these areas. Any information that is voluntarily disclosed by you in these areas is not proprietary or protected. Please see the section on Submitted Information in the Company's Legal Terms and Conditions of Use for additional information and restrictions regarding these submissions.
 
- **Security**
+## Security
 
-The personally identifiable information We collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information.
-
- **Exclusions**
-
-Any submissions that you make to any public areas of Our web site including but not limited to, chat services, bulletin boards, reviews, letters to the editor (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of Our web site with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
-
- **Policy Modifications**
-
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
-
- **Comments and Questions**
-
-If you have any questions, comments or concerns about Our Privacy Policy, you may contact Us by e-mail at [max.jones@tribstar.com](mailto:max.jones@tribstar.com) or by regular mail at: Tribune-Star, P.O. Box 149, Terre Haute, IN 47808 , Attn: Editor.
-
-  
-  
-| 
+We have policies and procedures in place to protect the privacy and confidentiality of your Personal Information that we collect and maintain. All Personal Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. We use Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. Any unauthorized use of the Site may result in criminal and/or civil prosecution.
