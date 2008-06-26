@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202102604id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626085522id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
 
 # cashplus security and privacy | cashplus
 
@@ -99,7 +99,7 @@ Some of our services require cookies in your browser to view and use them and to
 
 ### Phishing
 
-Some customers may receive an email claiming to be from APS or Broadcastle Bank Limited (who is our partner bank) with a link to what appears to be our or Broadcastle's website, where they are prompted to enter their personal and account details. APS is in no way involved with this email and the website does not belong to us or Broadcastle. APS will never send emails to its customers requesting security or any other confidential information. Do not reply to any such emails or disclose any personal information in these websites. If you think you have received a fraudulent email that looks like it is from APS or Broadcastle, forward the entire email including the header and footer to [fraud@apsgroup.com](mailto:fraud@apsgroup.com) and then delete it from your email account.
+Some customers may receive an email claiming to be from APS, AFL or Broadcastle Bank Limited (who are our partner banks) with a link to what appears to be our, AFL’s or Broadcastle's website, where they are prompted to enter their personal and account details. APS is in no way involved with this email and the website does not belong to us, AFL or Broadcastle. APS will never send emails to its customers requesting security or any other confidential information. Do not reply to any such emails or disclose any personal information in these websites. If you think you have received a fraudulent email that looks like it is from APS, AFL or Broadcastle, forward the entire email including the header and footer to [fraud@apsgroup.com](mailto:fraud@apsgroup.com) and then delete it from your email account.
 
 ### Personal Information
 
