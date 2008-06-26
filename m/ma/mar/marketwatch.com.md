@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211215851id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626020318id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.marketwatch.com&sealid=101)
-
-Privacy Policy (Update 6/26/2007) Sites Subject to this Privacy Policy
+Privacy Policy (Update 4/08/2008) Sites Subject to this Privacy Policy
 
 This privacy policy describes how Dow Jones & Company, Inc. and its affiliates (“Dow Jones”) will treat the personal information received about you when you visit MarketWatch (home page at MarketWatch.com), and BigCharts (home page at Big Charts.com) (hereafter referred to collectively as the "Services").
 
@@ -45,7 +43,7 @@ We offer you the opportunity to choose whether to receive certain communications
 
 **MarketWatch Members:** If you are a MarketWatch member, you may update your preferences by visiting the “My Account” section of the MarketWatch.com web site. You are always able to update your preferences by contacting customer service at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com)
 
-**_Hulbert Financial Digest Subscriptions:_** If you subscribe to Hulbert Financial Digest or Hulbert Financial Digest’s related products Long Term Performance Ranking, Newsletter Honor Roll and Newsletter Profile (the “Hulbert Products”), you may update your postal communication preferences by directly contacting Hulbert Financial Digest. See below [LINK] for contact information for Hulbert Financial Digest and more information on Hulbert’s practices regarding sharing your information with third parties.
+**_Hulbert Financial Digest Subscriptions:_** If you subscribe to Hulbert Financial Digest or Hulbert Financial Digest’s related products Long Term Performance Ranking, Newsletter Honor Roll and Newsletter Profile (the “Hulbert Products”), you may update your postal communication preferences by directly contacting Hulbert Financial Digest. See below for contact information for Hulbert Financial Digest and more information on Hulbert’s practices regarding sharing your information with third parties.
 
 While we strive to process your requests as quickly as possible, please allow for reasonable time for us to process any updates to your preferences. Also, please note that we may send you certain communications relating to your membership accounts, such as transaction confirmations and other administrative messages, without offering you the opportunity to opt-out of receiving them.
 
@@ -93,15 +91,11 @@ Specific Features
 
 **Hulbert Financial Digest Subscriptions.** If you subscribe to _Hulbert Financial Digest_ or Hulbert Financial Digest’s related products _Long Term Performance Ranking, Newsletter Honor Roll and Newsletter Profile_ (the “Hulbert Products”), your subscription information will be provided to, and managed directly by, Hulbert Financial Digest or its service providers. Hulbert Financial Digest provides the contact information of the Hulbert Products subscribers to third parties for marketing purposes. If you do not want your name and postal address provided to third parties for marketing purposes, you can opt out by contacting Hulbert Financial Digest by mail at P.O. Box 2025, Marion, OH 43306-4125, by phone at 1-866-428-6568 or by email at [orders@marketwatch.com](mailto:orders@marketwatch.com). You also can update your Hulbert Products subscription information by contacting Hulbert Financial Digest directly at the contacts above. These procedures are applicable even if you purchase your subscription to Hulbert Products through the Services.
 
-**Special Offers.** If you sign up to receive a Special Offer [link to page] on the MarketWatch.com Service, Dow Jones will forward your request along with your e-mail and Special Offer delivery information, to the company making the relevant Special Offer so that it can contact you directly. Once your information is provided to another company pursuant to your request it is not governed by this Privacy Policy.
+**Special Offers.** If you sign up to receive a [Special Offer](https://secure3.marketwatch.com/registration/MemberBenefits.aspx) on the MarketWatch.com Service, Dow Jones will forward your request along with your e-mail and Special Offer delivery information, to the company making the relevant Special Offer so that it can contact you directly. Once your information is provided to another company pursuant to your request it is not governed by this Privacy Policy.
 
 Policy Modifications
 
 When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated. 
-
-TRUSTe
-
-MarketWatch, Inc. is a licensee of TRUSTe, an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. TRUSTe reviews the following practices: (1) what personally identifiable information the Services collect; (2) what personally identifiable information third parties collect through the Services; (3) what organization collects such information; (4) how we use such information; (5) with whom we may share user information; (6) what choices are available to users regarding collection, use and distribution of such information; (7) what types of security procedures are in place to protect the loss, misuse or alteration of such information when under our control; and (8) how users can correct any inaccuracies in such information. 
 
 Your California Privacy Rights
 
@@ -116,7 +110,7 @@ and include your name and the address to which you would like us to respond.
 
 Questions, Comments and Concerns
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed within 14 days, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/watchdog.html](mailto:http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Services to resolve users’ concerns.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com).
 
   
 
