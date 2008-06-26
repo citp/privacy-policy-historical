@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212011403id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626182415id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FirstShowing.net
 
 This is the web site of **First Showing, LLC**.
 
-We can be reached via e-mail at [Alex@firstshowing.net](mailto:Alex@firstshowing.net)  
+We can be reached via e-mail at [Alex[at]firstshowing.net](mailto:Alex\[at\]firstshowing.net)  
 or you can reach us by telephone at 719-964-5995
 
 First Showing, LLC is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the improvement of our web site.
@@ -16,9 +16,9 @@ With respect to cookies: We use cookies to store visitors preferences, record us
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. If you supply us with your postal address online you will only receive the information for which you provided us your address.
 
 With respect to ad servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+<http://www.giantrealm.com/>  
 <http://www.tribalfusion.com/>  
-<http://www.google.com/adsense/>
+<http://www.google.com/adsense/>  
+<http://www.vibrantmedia.com/>
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by e-mail us at the above address. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
-
-**Discover More:** [Movie News](http://www.firstshowing.net/category/movie-news/ "View all posts in Movie News")
