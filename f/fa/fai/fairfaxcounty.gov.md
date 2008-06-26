@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217024219id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627015115id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy - Fairfax County, Virginia
 
@@ -17,6 +17,10 @@ We do not use cookies to record any personal information. Cookies are used by so
 ##  Disclosure of Information 
 
 Fairfax County does not sell, rent, or publish any of our visitors' personal or private information. We do not reveal specific information about subscribers or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by the [Virginia Freedom of Information Act](https://web.archive.org/offsite/?pg=http://dls.state.va.us/foiacouncil.htm) or other law. In addition, we endeavour to restrict employee access to any personal information except where necessary to perform required duties. 
+
+##  E-Mail and the Virginia Freedom of Information Act
+
+Any e-mail or other correspondence sent to a member of the Board of Supervisors, or any other public official and/or employee of Fairfax County in the transaction of public business is considered a public record, and such records are subject to the [Virginia Freedom of Information Act](https://web.archive.org/offsite/?pg=http://dls.state.va.us/foiacouncil.htm). This means that Virginia law generally requires the County to provide a copy of any such e-mail, upon request, for inspection and copying to any citizen of the Commonwealth or to any member of the news media. 
 
 ##  Unauthorized Access 
 
