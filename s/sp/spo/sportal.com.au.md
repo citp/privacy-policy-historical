@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportal.com.au privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216050712id_/http%3A//sportal.com.au/default.aspx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportal.com.au privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626160026id_/http%3A//sportal.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Sportal > Privacy Policy
 
