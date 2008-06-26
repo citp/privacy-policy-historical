@@ -1,24 +1,9 @@
-> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227132128id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626111936id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Search Forecast - Privacy Policy, SEO, In-Text Advertising Links, Contextual Advertising, Local Content, CMS, Text Links - Marc Phillips
+# Search Forecast - Privacy Policy, SEO, Post Free Classifieds, Lead Generation, Website Optimization - Marc Phillips
 
-  
+| 
 
-
-|    
----  
-What is your website score in search engines?  
-1\. Enter your email:  
-  
-2\. Your URL:  
-  
-3\. Competitor 1:  
-  
-4\. Competitor 2:  
-  
-5\. Enter letters to verify:  
-  
-  
 | Privacy Policy  
 
 
@@ -27,57 +12,85 @@ What is your website score in search engines?
   
   
 ---  
-For SearchForecast to process your order, we need information such as your name, email or contact number, address and credit card payment details. Other information will also be collected with your permission from time to time. This will normally include preferences such as likes or dislikes
-
-Outside of information that you enter on the web site, we also receive and store certain types of information when you interact with SearchForecast online, this is provided through the use of Cookies.  
   
-What are Cookies?  
+**Collecting Your Information**
 
+SearchForecast provides a range of self service diagnostic tools and complimentary reports on the website. In order to qualify users, we need information such as your names and email address.
 
-  * Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser.
-  * Cookies enable our systems to recognise your browser and welcome you back to the Store.
-  * By disabling cookies, you will not be able to participate in some of the features offered by SearchForecast.
-  * Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. As there are many browsers in the marketplace, the easiest way to change your settings is by searching for Cookies in your Help/Contents and Index option on your browser.
-  * We recommend that you leave your Cookies enabled otherwise, you will not be able to shop with us.
-  * Our cookies don't send us back any information about your computer or any other information on your hard drive.
+SearchForecast provides self service advertising solutions. As part of the registration process, we collect name, address, website, Social Security Number (if a US resident) in order to verify and authenticate you as a qualified publisher. 
 
-How do we use the information?Information that you have provided us will be used in three ways:
+SearchForecast provides a classifieds listings service. As part of the registration process, we collect email addresses in order to verify you as a qualified advertiser.
 
-  * To enhance your shopping experience.
+We don't share your information with third parties for marketing purposes.
+
+We often send out emails promoting Complimentary Briefs that contain insights and case studies, which are contained in our private member area.
+
+SearchForecast does not knowingly collect any information from persons under the age of 13. We will immediately remove any classified posting if we learn that it has been posted by a person under the age of 13. 
+
+Websites/people who we index in our Publisher Directory and or users who post a classified on SearchForecast, often provide external hyperlinks to other websites about which SearchForecast does not know of their privacy, content, or terms of use. SearchForecast is not responsible for, nor have any control over, the privacy policies of those third party websites. We encourage all users to read the privacy policies of each and every website visited.
+
+SearchForecast does run banner ads in the Publisher Directory web pages. These ads are served by an external organization and SearchForecast does not collect any information whatsoever on the users who click on these banner ads.
+
+SearchForecast uses both Google Analytics and Quantcast measurement services for all web pages contained on our website. We don't make available any information available to third parties.  
+  
+**Storing Your Information**
+
+All personal data from form postings are are stored in the SearchForecast database, even after "deletion," and may be archived elsewhere. 
+
+All information from form postings is stored indefinitely. 
+
+SearchForecasts makes good faith efforts to store the information in a secure operating environment that is not available to the public, yet we cannot guarantee complete security. 
+
+SearchForecast Publisher Directory pages, PDF reports and classified listings are ofiten highly indexed by search engine such as Google and Yahoo! SearchForecast is not affiliated with any search engine and hence cannot guarantee the accuracy of results contained in archived search engine results pages.
+
+**Using Your Information**
+
+Information that you have provided us will be used in three ways:
+
+  * To verify and confirm your registration on SearchForecast via email.
   * To communicate to you new products and services and also at times, the opportunity to up take on special promotions or offers. You have the option to opt-out of this communication by replying to the communication with an unsubscribe message.
-  * To generate a holistic but anonymous view of the SearchForecast customer base. This information will allow us to analyse trends and demographics to help SearchForecast improve on the services provided.
+  * To generate a holistic but anonymous view of the SearchForecast customer base. This information will allow us to analyze trends and demographics to help SearchForecast improve on the services provided.
   * It is important to note that we only send periodical communications to people who have "opted in" to receive it. We do not set out to "spam" our members in any way and honour their right to privacy.
 
-Disclosing Your Information
+**Disclosing Your Information**
 
   * Partners  
-Third party companies and individuals have been engaged to perform functions on behalf of SearchForecast. Functions such as affiliate partnerships, credit card payment authorisation, trend analysis, marketing and promotions, but all information will only be used to perform their appropriate functions and not for other usage.
+Third party companies and individuals have been engaged to perform functions on behalf of SearchForecast. Functions such as affiliate partnerships, credit card payment authorization, trend analysis, marketing and promotions, but all information will only be used to perform their appropriate functions and not for other usage.
   * Authorities  
-SearchForecast will pass on any information relating to suspected fraudulent activity to appropriate authorities
+SearchForecast may pass on any information to enforce or as required by our [_Terms of Use_](http://www.searchforecast.com/terms_of_use.php "SearchForecast Terms of Use") relating to suspected fraudulent activity to appropriate authorities if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
   * Partner Web Stores  
-With organizations that we have affiliate relationships with but do not own, your information will be shared with that business. Please note, that we only go into partnerships with stores who have the same regard to Privacy as we do.
+With organizations that we have affiliate relationships with but do not own, your information will be shared with that business. Please note, that we only go into partnerships with companies who have the same regard to Privacy as we do.
   * Industry Groups  
 From time to time we provide statistical information about sales, trading patterns and navigation techniques to reputable third parties. This may comprise data collected about you and other users to form aggregate results. However, we will not provide any direct personal information that identifies you as our customer.
   * Verification of Members  
-We do use various details to verify information given to us by our members. At times, we use: 
-    * Names on member accounts to compare with information on credit cards
-    * We use member phone numbers and email addresses provided to us to communicate with customers about payments
-    * We use member addresses to check against credit card billing addresses etc.
+We use various details to verify information given to us by our members. At times, we use: 
+    * Names on member accounts to compare with information on publicly available domain registrars
+    * We use member email addresses provided to us to communicate with customers about payments
     * In cases where fraud or other crime is suspected, we do communicate with Police, Banks and other relevant authorities
     * Many of these checks are done manually and communication is handled carefully by a member of SearchForecast's own Customer Experience team.
 
-Information Security
 
-  * All information submitted to SearchForecast is secured using Secure Sockets Layer (SSL) software.
-  * Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology.
 
-Accessing Your Information
+**International Users**  
+SearchForecast receives visitors from many countries. Our data is stored on servers located in the United States and by providing us with your data, you consent to the transfer of such data. 
 
-  * Personal information provided by you can be changed by contacting SearchForecast by email at [service@searchforecast.com](mailto:service@searchforecast.com).
-  * Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology.
+**Information Security**  
+Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology. 
 
-Other Privacy information you should be aware ofSign out or close your browser once you have finished shopping within SearchForecast's websites or associate partner stores. This is to ensure that others cannot access your personal information and correspondence.If you share a computer with someone or are using a computer in a public place like a library or Internet caf? You as an individual are responsible for the security of and access to your computer.
+**Accessing Your Information**  
+Personal information provided by you can be changed by contacting SearchForecast by email at [service@searchforecast.com](mailto:service@searchforecast.com).
 
-  * You are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet and SearchForecast.
+Information sitting on the SearchForecast website is protected by state-of-the-art encryption and firewall technology.
 
-Notification of ChangesIf we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Other Privacy information you should be aware of:
+
+Sign out or close your browser once you have finished shopping within SearchForecast's websites. This is to ensure that others cannot access your personal information and correspondence.
+
+If you share a computer with someone or are using a computer in a public place like a library or Internet cafe, you as an individual are responsible for the security of and access to your computer.
+
+You are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet and SearchForecast services.
+
+**Notification of Changes**
+
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+
