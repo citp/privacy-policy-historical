@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zettai.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219214848id_/http%3A//www.zettai.net/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zettai.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626043441id_/http%3A//www.zettai.net/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Queries and comments received via our websites, via email and by telephone are a
 
 Information gathered may be used to report on usage of the Zettai.net service and such reports will be generic in nature and will not report on individual or personal details or behaviour. 
 
-**Zettai Ltd's use of Cookies**
+**Zettai's use of Cookies**
 
 A cookie is a small data file that certain Websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
 
