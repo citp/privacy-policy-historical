@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstphera.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227021222id_/http%3A//www.firstphera.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstphera.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626055654id_/http%3A//www.firstphera.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Firstphera Privacy Policy - Free Indian Wedding Site
 
 FirstPhera.com values the trust its customers place in the Site. Accordingly, FirstPhera.com adheres to the highest ethical standards in gathering, using and safeguarding customer information that is entrusted to the Site. 
 
