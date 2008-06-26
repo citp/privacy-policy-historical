@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224034218id_/http%3A//desihits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626204653id_/http%3A//desihits.com/privacy) for the most accurate reproduction.*
 
-# DesiHits!
+# Desi Radio, Videos and MP3s, Bollywood Hindi Songs, Bhangra Music and Podcasts at Desi Hits.com
 
 This privacy policy discloses the privacy practices for DesiHits.com. While we will generally not share information that may be used to identify you, we do expect our policy statement will change as new ways to protect your confidentiality and new uses for information emerge. To that end, we value your comments about our privacy statement and invite you to e-mail us with suggestions and concerns. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@DesiHits.com
 
@@ -30,6 +30,3 @@ Except as otherwise described in this privacy statement, DesiHits! will not disc
 **Changes in Our Privacy Policy**
 
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted.
-
-  
-
