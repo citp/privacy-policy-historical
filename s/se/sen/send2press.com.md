@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227192429id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626132301id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Press Release Services since 1983 :: Send2Press™ Privacy Statement
 
@@ -17,7 +17,7 @@
 
 _If you don't wish to abide by the terms and conditions for using this site, please leave this Web site now._
 
-[Click here](https://web.archive.org/web/20071227192429id_/http%3A//www.send2press.com/about/legal.shtml) to view the Legal Statement and Terms of Use for this Website. 
+[Click here](https://web.archive.org/web/20080626132301id_/http%3A//www.send2press.com/about/legal.shtml) to view the Legal Statement and Terms of Use for this Website. 
 
   
 **Privacy Statement for Send2Press.com**  
