@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005037id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626165252id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
 
-# RedBalcony.com >> Disclaimer
-
-[](https://web.archive.org/)[](https://web.archive.org/?catid=5)[](https://web.archive.org/?catid=7)[](https://web.archive.org/?catid=0)[](https://web.archive.org/?catid=4)[](https://web.archive.org/?catid=3)[](https://web.archive.org/?catid=2)[](https://web.archive.org/?catid=6)[](https://web.archive.org/?catid=1)[](https://web.archive.org/?catid=9)[](https://web.archive.org/?catid=8)[](https://web.archive.org/?feed=articles)
-
-  
-
+# RedBalcony > Privacy Plicy
 
 **REDBALCONY.COM PRIVACY POLICY**
 
@@ -54,46 +49,15 @@ Some contests, sweepstakes and other promotions that will appear on the Redbalco
 
 **CONTACTING REDBALCONY.COM**
 
- If you have a privacy concern regarding any Redbalcony.com website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, should write to us by email at webmaster@redbalcony.com. Alternatively, we can be reached by telephone at Tel: 416 512 9662 or our postal mail address: 
+ If you have a privacy concern regarding any Redbalcony.com website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, should write to us by email at webmaster@redbalcony.com. Alternatively, we can be reached by telephone at Tel: 905-482-3372 or our postal mail address: 
 
 Attention: Privacy Officer  
 A. & S. Network Media Solutions Corp.  
-5650 Yonge Street - Suite 1500  
-Toronto, Ontario  
-M2M 4G3  
+7368 Yonge Street - Suite 309  
+Thornhill, Ontario  
+L4J 8H9  
 Canada  
 
-
-  
-
-
-|   | 
-
-| 
-
-[](https://web.archive.org/web/20071229005037id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy?gid=328 "Jennifer Lamiraqui’s Sexy Christmas Lingerie")  
-  
----  
-  
-Jennifer Lamiraqui’s Sexy Christmas Lingerie
-
-  
-  
-  
-
-
-* * *
-
-  
-
-
-* * *
-
-* * *
-
-**THE LAST SEARCHED VIDEOS**
-
-[ **ughter**](https://web.archive.org/?tag=ughter), [beyonce shakira](https://web.archive.org/?tag=beyonce+shakira), [e3](https://web.archive.org/?tag=e3), [**wwe diva**](https://web.archive.org/?tag=wwe+diva), [**ops**](https://web.archive.org/?tag=ops), [t squirt](https://web.archive.org/?tag=t+squirt), [**anna nicole sex scenes**](https://web.archive.org/?tag=anna+nicole+sex+scenes), [**final fantasy x**](https://web.archive.org/?tag=final+fantasy+x), [**corona**](https://web.archive.org/?tag=corona), [web cam hot](https://web.archive.org/?tag=web+cam+hot), [guitar](https://web.archive.org/?tag=guitar), [belluc](https://web.archive.org/?tag=belluc), [**wayans**](https://web.archive.org/?tag=wayans), [girls gone wild](https://web.archive.org/?tag=girls+gone+wild), [girls kissing](https://web.archive.org/?tag=girls++kissing), [**google**](https://web.archive.org/?tag=google), [desert](https://web.archive.org/?tag=desert), [bikini model](https://web.archive.org/?tag=bikini+model), [poppin](https://web.archive.org/?tag=poppin), [**him and her**](https://web.archive.org/?tag=him+and+her), [carmen electra sex video](https://web.archive.org/?tag=carmen+electra+sex+video), [anna nicole smith](https://web.archive.org/?tag=anna++nicole++smith), [ann angel](https://web.archive.org/?tag=ann+angel), [tera a](https://web.archive.org/?tag=tera+a), [oh father](https://web.archive.org/?tag=oh+father), [**hot blond**](https://web.archive.org/?tag=hot+blond), [**akon molesting girl**](https://web.archive.org/?tag=akon+molesting+girl), [**ho**](https://web.archive.org/?tag=ho), [sound](https://web.archive.org/?tag=sound), [biking](https://web.archive.org/?tag=biking), [**lyric**](https://web.archive.org/?tag=lyric), [jennifer love hewitt sex scene](https://web.archive.org/?tag=jennifer+love+hewitt+sex+scene), [stacy k](https://web.archive.org/?tag=stacy+k), [**joey**](https://web.archive.org/?tag=joey), [**goth**](https://web.archive.org/?tag=goth), [eel](https://web.archive.org/?tag=eel), [iguodala](https://web.archive.org/?tag=iguodala), [wrestling](https://web.archive.org/?tag=wrestling), [**x games**](https://web.archive.org/?tag=x+games), [todd fedoruk](https://web.archive.org/?tag=todd+fedoruk), [christina apple gate and cameron diaz](https://web.archive.org/?tag=christina+apple+gate+and+cameron+diaz), [raid](https://web.archive.org/?tag=raid), [atkinson](https://web.archive.org/?tag=atkinson), [**marisa miller perfect 10**](https://web.archive.org/?tag=marisa+miller+perfect+10), [**girl in girl**](https://web.archive.org/?tag=girl+in+girl), [**rachael**](https://web.archive.org/?tag=rachael), [**porn**](https://web.archive.org/?tag=porn), [jones](https://web.archive.org/?tag=jones), [florida](https://web.archive.org/?tag=florida), [**page 3 keeley**](https://web.archive.org/?tag=page+3+keeley), [**you kill me**](https://web.archive.org/?tag=you+kill+me), [double finish!](https://web.archive.org/?tag=double+finish!), [celeb up skirt](https://web.archive.org/?tag=celeb+up+skirt), [madonna](https://web.archive.org/?tag=madonna), [hot ass](https://web.archive.org/?tag=hot+ass), [girls kissing girls](https://web.archive.org/?tag=girls+kissing+girls), [**borat**](https://web.archive.org/?tag=borat), [gets naked](https://web.archive.org/?tag=gets+naked), [ass lick](https://web.archive.org/?tag=ass+lick), [sex movie jennifer love hewitt](https://web.archive.org/?tag=sex+movie+jennifer+love+hewitt), [tv strip](https://web.archive.org/?tag=tv+strip), [me da el don](https://web.archive.org/?tag=me+da+el+don), [lia may](https://web.archive.org/?tag=lia+may), [ripping](https://web.archive.org/?tag=ripping), [vida guerra photos](https://web.archive.org/?tag=vida+guerra+photos), [promiscuous](https://web.archive.org/?tag=promiscuous), [sex only](https://web.archive.org/?tag=sex+only), [megan fox kissing scene](https://web.archive.org/?tag=megan+fox+kissing+scene), [spanked](https://web.archive.org/?tag=spanked), [newsroom](https://web.archive.org/?tag=newsroom), [sex hot girl](https://web.archive.org/?tag=sex+hot+girl), [britney](https://web.archive.org/?tag=britney), [**bra and panties**](https://web.archive.org/?tag=bra+and+panties), [christina aguilera photoshoot](https://web.archive.org/?tag=christina+aguilera+photoshoot), [mobile suit gundam](https://web.archive.org/?tag=mobile+suit+gundam), [julia louis dreyfus](https://web.archive.org/?tag=julia+louis+dreyfus), [coco ice t wife](https://web.archive.org/?tag=coco+ice+t+wife), [pamela anderson hot](https://web.archive.org/?tag=pamela+anderson+hot), [**lindsay ohan**](https://web.archive.org/?tag=lindsay+ohan), [hot move](https://web.archive.org/?tag=hot+move), [bikini](https://web.archive.org/?tag=bikini), [red man](https://web.archive.org/?tag=red+man), [the bionic woman](https://web.archive.org/?tag=the+bionic+woman), [instinct](https://web.archive.org/?tag=instinct), [**final**](https://web.archive.org/?tag=final), [play boy](https://web.archive.org/?tag=play+boy), [**good girls**](https://web.archive.org/?tag=good+girls), [ara mina](https://web.archive.org/?tag=ara+mina), [olivia](https://web.archive.org/?tag=olivia), [mia maestro](https://web.archive.org/?tag=mia++maestro), [**desmond**](https://web.archive.org/?tag=desmond), [family guy sex](https://web.archive.org/?tag=family+guy+sex), [latin](https://web.archive.org/?tag=latin), [**live sex**](https://web.archive.org/?tag=live+sex), [olay](https://web.archive.org/?tag=olay)
 
   
 
