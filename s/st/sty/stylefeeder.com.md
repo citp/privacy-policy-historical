@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224041520id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626184040id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
 
 # Information - StyleFeeder.com
 
@@ -35,7 +35,7 @@ You may not opt-out of receiving these transactional emails.
 
 We also use your email address to perform the following: 
 
-  1. To send you alerts and updates about our site, if you request them.
+  1. To send you alerts and updates about our site.
 
 
 
