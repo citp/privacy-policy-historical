@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211090845id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626021557id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Progress Energy
 
-|  |  | 
-
+|  |  |   
+  
 Progress Energy values the privacy of each visitor to our site. To better protect your privacy, Progress Energy is providing this notice to explain our online information practices, and to explain the choices you can make concerning the way your information is collected and used.
 
 **Why We Collect Information**
@@ -23,7 +23,7 @@ You should protect the confidentiality of your personal account number and perso
 Access by Progress Energy and subsidiary employees or consultants to any personal information you provide is limited to only that necessary to provide the business service offered and to otherwise allow such employees or consultants to perform their duties. Progress Energy may use the personal information you supply to notify you about important news concerning our company, including new products and services, product updates and technical support issues, and special offers we think you may be interested in.
 
   2. _Shared Information:  
-_Progress Energy and its subsidiaries will not sell, rent or lease to others your personally identifiable information. Progress Energy will share the personal data you provide only with other Progress Energy subsidiaries and affiliates and/or business partners who are acting on our behalf. In order to provide you with services offered on the Web site, or to complete transactions or requests initiated by you on the Web site, we may transfer you to Web sites operated by third parties that help us provide services to you. Progress Energy does not assume responsibility for any of these sites, their content, or their privacy policies. Progress Energy does not endorse or make any representations about them or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third-party sites linked to the Progress Energy site, you do so at your own risk.
+_Progress Energy and its subsidiaries will not sell, rent or lease to others your personally identifiable information without your consent. Absent your consent, Progress Energy will share the personal data you provide only with other Progress Energy subsidiaries and affiliates and/or business partners who are acting on our behalf. We may also share information about you with other companies if we bill and collect from you for various products and services for which you have signed up. For example, we may share billing and collection information about you for a home appliance warranty service with the third party providing such service if we bill you for this service as part of your monthly statement from us.
   3. _Anonymous Audience Traffic Analysis:  
 _In the process of administering our site, we maintain and track usage through Web server logs. Web server logs provide such information as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. It is not used to personally identify you.
 
@@ -55,9 +55,5 @@ By using Progress Energy's Web site, you signify your assent to this Privacy Sta
   
 **How to Contact Us**
 
-Should you have questions or concerns about this Privacy Statement, please call (919) 546-6111, or mail us at:
-
-Progress Energy  
-P.O. Box 1551  
-Raleigh, NC 27602  
+Should you have questions or concerns about this Privacy Statement, please send us an [e-mail](mailto:employee.feedback@pgnmail.com).  
 
