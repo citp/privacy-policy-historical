@@ -1,11 +1,110 @@
-<!--The following is the downloaded HTML source of the tigerdroppings.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229025457id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdroppings.com privacy policy that was archived on 2008-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080626165239id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 <meta name="description" content="The best site on the web for LSU sports news, discussion and tickets.  Come to TigerDroppings.com for the poop on LSU football, LSU basketball, LSU Baseball and LSU Recruiting.  Buy and sell LSU Tickets at the LSU Ticket Exchange">
-<meta name="keywords" content="LSU Football, LSU Basketball, LSU Baseball, LSU Recruiting, LSU sports, LSU News Links, rant, TigerRant.com, LSU Tickets, Tiger, college football, Louisiana State University, Les Miles, Saban, Nick Saban, SEC, baseball, basketball, Skip Bertman, TigerDroppings.com, Droppings, daily, free, calendar, College Pickem, LSU Message Board, Fantasy Football, Louisiana Politics">
-<link rel="StyleSheet" href="../comm/css/MB/TigerDroppings3.css" type="text/css" media="screen">
+<meta name="keywords" content="LSU Football, LSU Basketball, LSU Baseball, LSU Recruiting, LSU sports, LSU News Links, rant, TigerRant.com, LSU Tickets, Tiger, college football, Louisiana State University, Les Miles, Saban, Nick Saban, SEC, baseball, basketball, Skip Bertman, TigerDroppings.com, Droppings, daily, free, calendar, College Pickem, LSU Message Board, Fantasy Football, Louisiana Politics"><script type="text/javascript">
+
+/***********************************************
+* Universal Countdown script- Š Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdLocalTime(container, servermode, offsetMinutes, targetdate, debugmode){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+var servertimestring=(servermode=="server-php")? '<? print date("F d, Y H:i:s", time())?>' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '6/26/2008 12:52:35 PM'
+this.localtime=this.serverdate=new Date(servertimestring)
+this.targetdate=new Date(targetdate)
+this.debugmode=(typeof debugmode!="undefined")? 1 : 0
+this.timesup=false
+this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
+this.updateTime()
+}
+
+cdLocalTime.prototype.updateTime=function(){
+var thisobj=this
+this.localtime.setSeconds(this.localtime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdLocalTime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdLocalTime.prototype.showresults=function(){
+var thisobj=this
+var debugstring=(this.debugmode)? "<p style=\"background-color: #FCD6D6; color: black; padding: 5px\"><big>Debug Mode on!</big><br /><b>Current Local time:</b> "+this.localtime.toLocaleString()+"<br />Verify this is the correct current local time, in other words, time zone of count down date.<br /><br /><b>Target Time:</b> "+this.targetdate.toLocaleString()+"<br />Verify this is the date/time you wish to count down to (should be a future date).</p>" : ""
+
+var timediff=(this.targetdate-this.localtime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=debugstring+this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=debugstring+this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
+
+//Create your own custom format function to pass into cdLocalTime.displaycountdown()
+//Use arguments[0] to access "Days" left
+//Use arguments[1] to access "Hours" left
+//Use arguments[2] to access "Minutes" left
+//Use arguments[3] to access "Seconds" left
+
+//The values of these arguments may change depending on the "baseunit" parameter of cdLocalTime.displaycountdown()
+//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
+//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
+
+//1) Display countdown using plain text
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+var displaystring="<span style='background-color: #CFEAFE'>"+arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds</span>"
+}
+else{ //else if target date/time met
+var displaystring="Launch time!"
+}
+return displaystring
+}
+
+//2) Display countdown with a stylish LCD look, and display an alert on target date/time
+function formatresults2(){
+if (this.timesup==false){ //if target date/time not yet met
+var displaystring="<span class='lcdstyle'>Countdown to Appalachian State:&nbsp;<br>"+arguments[0]+" days, "+arguments[1]+" hours, "+arguments[2]+" minutes, "+arguments[3]+" seconds&nbsp;</span>"
+}
+else{ //else if target date/time met
+var displaystring="Geaux Tigers!" //Don't display any text
+}
+return displaystring
+}
+
+</script>
+<link rel="StyleSheet" href="../comm/css/MB/TigerDroppings4.css" type="text/css" media="screen">
 
 
 
@@ -31,133 +130,58 @@ function openWin(theURL,winName,features) {
 	<a name="top"></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td width="100%">
-	<table border="0" cellpadding="3" cellspacing="0" width="100%" height="25" bgcolor="#500974">
-	<tbody><tr>
+<td height="95" width="100%" bgcolor="#DEDEDE" colspan="2">
+<table width="100%">
 
-<td class="HeadNav1" width="50%" align="left"><table><tbody><tr><td class="MemNAV"><a href="/users/userlogin.asp">&nbsp;Sign&nbsp;In&nbsp;</a></td><td class="MemNAV">&nbsp;|&nbsp;</td><td class="MemNAV"><a href="/users/User.asp?action=new">&nbsp;Register&nbsp;</a>&nbsp;</td></tr></tbody></table></td><td width="50%" class="MemNav" align="right"><script language="JavaScript1.2">
+<tbody><tr><td height="95" align="center" bgcolor="#DEDEDE">	
 
-//Dynamic countdown Script II- © Dynamic Drive (www.dynamicdrive.com)
-//Support for hour minutes and seconds added by Chuck Winrich (winrich@babson.edu) on 12-12-2001
-//For full source code, 100's more DHTML scripts, visit http://www.dynamicdrive.com
+	<iframe src="/comm/ban/topban.asp?Type=1" allowtransparency="true" width="730" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-
-function setcountdown(theyear,themonth,theday,thehour,themin,thesec){
-yr=theyear;mo=themonth;da=theday;hr=thehour;min=themin;sec=thesec
-}
-
- //////////CONFIGURE THE COUNTDOWN SCRIPT HERE//////////////////
-
-//STEP 1: Configure the countdown-to date, in the format year, month, day, hour(0=midnight,23=11pm), minutes, seconds:
-setcountdown(2008,1,7,19,00,00)
-
-//STEP 2: Change the two text below to reflect the occasion, and message to display on that occasion, respectively
-var occasion="Final Four"
-var message_on_occasion=""
-
-//STEP 3: Configure the below 5 variables to set the width, height, background color, and text style of the countdown area
-var countdownwidth='400px'
-var countdownheight='20px'
-var countdownbgcolor='#500974'
-var opentags='<font class=Countdown>Countdown to Kickoff: '
-var closetags='</font>'
-
-//////////DO NOT EDIT PAST THIS LINE//////////////////
-
-
-var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
-var crosscount=''
-
-function start_countdown(){
-if (document.layers)
-document.countdownnsmain.visibility="show"
-else if (document.all||document.getElementById)
-crosscount=document.getElementById&&!document.all?document.getElementById("countdownie") : countdownie
-countdown()
-}
-
-if (document.all||document.getElementById)
-document.write('<span id="countdownie" style="width:'+countdownwidth+'"></span>')
-
-window.onload=start_countdown
-
-
-function countdown(){
-var today=new Date()
-var todayy=today.getYear()
-if (todayy < 1000)
-todayy+=1900
-var todaym=today.getMonth()
-var todayd=today.getDate()
-var todayh=today.getHours()
-var todaymin=today.getMinutes()
-var todaysec=today.getSeconds()
-var todaystring=montharray[todaym]+" "+todayd+", "+todayy+" "+todayh+":"+todaymin+":"+todaysec
-futurestring=montharray[mo-1]+" "+da+", "+yr+" "+hr+":"+min+":"+sec
-dd=Date.parse(futurestring)-Date.parse(todaystring)
-dday=Math.floor(dd/(60*60*1000*24)*1)
-dhour=Math.floor((dd%(60*60*1000*24))/(60*60*1000)*1)
-dmin=Math.floor(((dd%(60*60*1000*24))%(60*60*1000))/(60*1000)*1)
-dsec=Math.floor((((dd%(60*60*1000*24))%(60*60*1000))%(60*1000))/1000*1)
-//if on day of occasion
-if(dday<=0&&dhour<=0&&dmin<=0&&dsec<=1&&todayd==da){
-if (document.layers){
-document.countdownnsmain.document.countdownnssub.document.write(opentags+message_on_occasion+closetags)
-document.countdownnsmain.document.countdownnssub.document.close()
-}
-else if (document.all||document.getElementById)
-crosscount.innerHTML=opentags+message_on_occasion+closetags
-return
-}
-//if passed day of occasion
-else if (dday<=-1){
-if (document.layers){
-document.countdownnsmain.document.countdownnssub.document.write(opentags+""+closetags)
-document.countdownnsmain.document.countdownnssub.document.close()
-}
-else if (document.all||document.getElementById)
-crosscount.innerHTML=opentags+""+closetags
-return
-}
-//else, if not yet
-else{
-if (document.layers){
-document.countdownnsmain.document.countdownnssub.document.write(opentags +dday+ "d "+dhour+"h "+dmin+"m "+dsec+"s"+closetags)
-document.countdownnsmain.document.countdownnssub.document.close()
-}
-else if (document.all||document.getElementById)
-
-crosscount.innerHTML=opentags+dday+ "d "+dhour+"h "+dmin+"m "+dsec+"s"+closetags
-}
-setTimeout("countdown()",1000)
-}
-</script><span id="countdownie" style="width:400px"><font class="Countdown">Countdown to Kickoff: </font></span>
-
-<ilayer id="countdownnsmain" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" visibility="hide"><layer id="countdownnssub" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" left="0" top="0"></layer></ilayer>		&nbsp;</td>
+</td>
 </tr>
 </tbody></table>
 </td>
 </tr>
-<tr>
-<td height="59" width="100%">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="78" bgcolor="#56027D" background="/images/logo/bg_header.gif">
-	<tbody><tr>
-	<td>
-	<a href="/"><img border="0" src="/images/logo/BG_Logo_265.jpg" height="90" width="265"></a></td>
-	<td width="80%" align="center" bgcolor="#56027D" height="78" background="/images/logo/bg_header.gif">
-	&nbsp;&nbsp;
-		<iframe src="/comm/ban/topban.asp?Type=1" allowtransparency="true" width="720" height="90" align="center" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-	</td>
+<tr>
+<td width="100%" colspan="2">
+	<table class="MBLogo" border="0" cellpadding="3" cellspacing="0" width="100%" height="25">
+	<tbody><tr>
+
+	<td class="MemNav" width="50%" align="left"><table><tbody><tr><td class="MemNAV"><a href="/users/userlogin.asp">&nbsp;Sign&nbsp;In&nbsp;</a></td><td class="MemNAV">&nbsp;|&nbsp;</td><td class="MemNAV"><a href="/users/User.asp?action=new">&nbsp;Register&nbsp;</a>&nbsp;</td></tr></tbody></table></td><td width="50%" class="MemNav" align="right"><a href="/calendar/dayview.asp?d=26&amp;m=6&amp;y=2008">June 26, 2008</a>&nbsp;</td>
 	</tr>
 	</tbody></table>
 </td>
 </tr>
+
+
 <tr>
-<td class="MainNav">
-<table bgcolor="gray" height="25" border="0" cellpadding="3" cellspacing="0" width="30%">
-<tbody><tr>
-<td class="MainNav">&nbsp;&nbsp;<a href="/">Home</a>&nbsp;</td>
+<td class="MBLogo" width="50%" align="left">
+<a href="/"><img border="0" src="/images/logo/TDlogo_400_50.gif" width="400" height="50"></a>
+</td>
+
+<td class="MBLogo" width="50%" align="right">
+
+<div id="cdcontainer"><span class="lcdstyle">Countdown to Appalachian State:&nbsp;<br>65 days, 4 hours, 7 minutes, 23 seconds&nbsp;</span></div>
+
+<script type="text/javascript">
+//cdLocalTime("ID_of_DIV_container", "server_mode", LocaltimeoffsetMinutes, "target_date", "opt_debug_mode")
+//cdLocalTime.displaycountdown("base_unit", formatfunction_reference)
+
+//Note: "launchdate" should be an arbitrary but unique variable for each instance of a countdown on your page:
+
+var launchdate=new cdLocalTime("cdcontainer", "server-asp", -60, "August 30, 2008 16:00:00")
+launchdate.displaycountdown("days", formatresults2)
+</script>
+</td>
+</tr>
+
+
+<tr>
+<td class="MainNav" colspan="2">
+	<table bgcolor="gray" height="25" border="0" cellpadding="3" cellspacing="0" width="30%">
+	<tbody><tr>
+	<td class="MainNav">&nbsp;&nbsp;<a href="/">Home</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="../dailylinks/list.asp">LSU&nbsp;News</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
@@ -174,16 +198,16 @@ setTimeout("countdown()",1000)
 <td class="MainNAV">&nbsp;<a href="/pickem/home.asp">Pick'em</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="../links/linkindex.asp">Links</a>&nbsp;</td>
-<td class="MainNAV">|</td> 
-<td class="MainNAV">&nbsp;<a href="http://www.footballfanatics.com/?partner_id=2535" target="blank">LSU&nbsp;Shop</a>&nbsp;</td>
 <td class="MainNAV">|</td>
 <td class="MainNAV">&nbsp;<a href="http://www.tigerdroppings.com/sponsors">Sponsors</a>&nbsp;</td>
-</tr>
-</tbody></table>
+<td class="MainNAV">|</td> 
+<td class="MainNAV">&nbsp;<a href="http://www.tigerdistrict.com" target="blank" onclick="parent.urchinTracker('/Ads/Tigerdistrict_HeaderNav');">LSU&nbsp;Shop</a>&nbsp;</td>
+	</tr>
+	</tbody></table>
 </td>
 </tr>
 <tr>
-<td class="SubNav"></td>
+<td class="SubNav" colspan="2"></td>
 </tr>
 </tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -194,11 +218,13 @@ setTimeout("countdown()",1000)
 <table width="100%" border="0" cellspacing="0">
 <tbody><tr><td class="subnav"></td></tr>
 <tr><td class="RightBorder" valign="center"><font class="Cat"><b>&nbsp;Message Boards</b></font></td></tr>
-<tr><td class="nav"><a href="/rant">&nbsp;Tiger Rant</a>&nbsp;<font color="#f8cc34" size="1">|</font><a href="/rant/default.asp?b=6">&nbsp;Score Board</a></td></tr>
+<tr><td class="nav"><a href="/rant">&nbsp;Tiger Rant</a>&nbsp;<font color="#f8cc34" size="1"></font></td></tr>
 <tr><td class="linkdiv"></td></tr>
-<tr><td class="nav"><a href="/rant/default.asp?b=40">&nbsp;Coaching Changes</a></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=5">&nbsp;Recruiting Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/NewOrleansSaints">&nbsp;Saints Talk</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=12">&nbsp;SEC Rant</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=100">&nbsp;More Sports Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -213,6 +239,8 @@ setTimeout("countdown()",1000)
 <tr><td class="nav"><a href="/rant/default.asp?b=15">&nbsp;Fark Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=20">&nbsp;Gaming Board</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=45">&nbsp;Food and Drink Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/Tickets">&nbsp;Ticket Exchange</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -231,6 +259,8 @@ setTimeout("countdown()",1000)
 	</td>
 	</tr>
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Sites</b></font></td></tr>
+<tr><td class="nav"><a href="http://www.tigerdistrict.com" target="_blank">&nbsp;TigerDistrict.com</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://www.DandyDon.com" target="_blank">&nbsp;Dandy Don</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://www.lsusports.net" target="_blank">&nbsp;LSUsports.net</a></td></tr>
@@ -242,6 +272,7 @@ setTimeout("countdown()",1000)
 <tr><td class="nav"><a href="/links/linkindex.asp">&nbsp;More LSU Links</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
+
 
 
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;TD.com Features</b></font></td></tr>
@@ -273,7 +304,7 @@ setTimeout("countdown()",1000)
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Baseball</b></font></td></tr>
-<tr><td class="nav"><a href="/team/team.asp?t=3">&nbsp;Team Home</a><font class="reg"> | </font><a href="/schedule/Schedule.asp?t=3">Schedule</a></td></tr>
+<tr><td class="nav"><a href="/team/team.asp?t=3">&nbsp;Team Home</a><font class="reg"> | </font><a href="http://www.lsusports.net/SportSelect.dbml?DB_OEM_ID=5200&amp;KEY=&amp;SPID=2173&amp;SPSID=27866">Schedule</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://sports.yahoo.com/ncaabb/polls" target="_blank">&nbsp;Rankings</a><font class="reg"> | </font><a href="http://www.ncaa-baseball.com/daily/today.htm" target="_blank">Scoreboard</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -297,7 +328,7 @@ setTimeout("countdown()",1000)
 
 
 
-<center><img src="/images/MISC/spacer.gif" height="12"><br></center><table border="0" cellpadding="2" width="98%" cellspacing="0"><tbody><tr><td><p align="center"><b><font size="3">TigerDroppings.com Privacy Policy</font></b></p>
+<center><img src="/images/MISC/spacer.gif" height="11"><br></center><table border="0" cellpadding="2" width="98%" cellspacing="0"><tbody><tr><td><p align="center"><b><font size="3">TigerDroppings.com Privacy Policy</font></b></p>
 <p>Your privacy is very important to us.  TigerDroppings.com will not share
 your personal information with any third party.  We collect an email address from registered users so that we can communicate important information about the website when necessary.  All other information collected in a user's profile is optional information that can be maintained or deleted at any time.  In order to be compliant with the Children's Online Privacy Protection Act of 1998 (COPPA), we require that anyone under the age of 13 furnish us with verifiable parental consent before setting up a user profile.</p>
 <p>TigerDroppings.com does work with third-party ad agencies that serve
@@ -543,7 +574,7 @@ function LoadIcon()
 <a class="HeaderLinks" href="mailto:tigerdroppings@gmail.com">Contact Us</a>
 <br>
 <font class="foot" size="1" face="verdana," arial="" color="#18004c">
-TigerDroppings.com is an independent website featuring LSU sports news &amp; opinions. This website is neither affiliated with, nor endorsed by Louisiana State University or its athletic department.&nbsp; The opinions expressed on this site are not necessarily those of TigerDroppings.com or its operators.&nbsp; ©Copyright. 2007 TigerDroppings.com&nbsp;<br>
+TigerDroppings.com is an independent website featuring LSU sports news &amp; opinions. This website is neither affiliated with, nor endorsed by Louisiana State University or its athletic department.&nbsp; The opinions expressed on this site are not necessarily those of TigerDroppings.com or its operators.&nbsp; ŠCopyright. 2007 TigerDroppings.com&nbsp;<br>
         All Rights Reserved.</font>
 </td>
 </tr>
