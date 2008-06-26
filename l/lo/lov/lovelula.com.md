@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227132946id_/http%3A//www.lovelula.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy & Security | The Organic Skincare Specialists
+
+  | 
+
+|   
+---  
+|  | 
 
 ### Privacy Policy
 
@@ -12,7 +18,7 @@
 
 4) If you choose not to receive our e-newsletter, we will only contact you to answer your queries, send you your order confirmation, contact you about any issues with payment or your order & to inform you about changes to your account. We will not contact you by e-mail anytime else.
 
-5) We will send you copies of our catalogues by mail. If you would prefer not to receive this please [contact us](https://web.archive.org/web/20071227132946id_/http%3A//www.lovelula.com/cat_contact.cfm).
+5) We will send you copies of our catalogues by mail. If you would prefer not to receive this please [contact us](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_contact.cfm).
 
 6) This site does use cookies. However, we do not keep any of your personal details on cookies. We simply store your Customer ID (just a number) in cookie format. This Customer ID does not correlate to any of your personal information. We also store your first name on cookie format to personalise this website. This cookie is only present if you have not registered as a member of our site. If you are a member, then the only cookie that we use is the Customer ID cookie.
 
@@ -21,3 +27,24 @@
 2) Your credit card details are only decrypted after they reach Protx's or PayPal's systems, where they are then automatically processed and your card charged. They are not held in clear text on any web site so it is not possible for your details to be stolen during a transaction.
 
 3) We at LoveLula never receive your complete credit card details or keep such information anywhere in our systems.
+
+|   
+---|---|---  
+|   
+---  
+  
+All Rights Reserved. Copyright 2006 - 2008 Ellament Ltd | the **[organic skin care](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_100_organic.cfm)** apothecary | UK & Ireland   
+  
+|  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---  
+  
+LoveLula.com is certified by the Soil Association, the UK's organic body. The Soil Association Organic Standard is a symbol of trust and a sign of our commitment to truly organic beauty. LoveLula.com also stocks a range of organic certified beauty & skincare products. License no. DJ18248.  
+  
+[  
+site map](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/iestore_sitemap.cfm) | [links](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_useful.cfm)  
+  
+LoveLula.com is an online natural and organic skin care specialist. Our mission is to bring you quality and effective natural skin care and beauty products that love your skin and the planet and transform your beauty routines into rituals. That's why all our organic skincare products are free of ingredients such as parabens, artificial fragrance, sls and phthalates and they're cruelty free.
+
+Our range includes organic makeup and cosmetics from [Lavera](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_lavera_organic_makeup.cfm), suki color, Elysambre & [Nvey Eco](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_nvey_eco.cfm) mineral makeup from [Bare Escentuals i.d. bareMinerals](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_bare_escentuals.cfm), natural and paraben free foundations and lipsticks, organic skin care and facial care from brands such as [Dr Alkaitis](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_dr_alkaitis.cfm), [suki](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_suki.cfm), bod, [Kimia](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_kimia.cfm), Kaeline, Madara, Apples & Pears, Antipodes, Kimberly Sayer, [Pai](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_pai_organic_skincare.cfm), ila, Trilogy, [Lavere](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_lavere.cfm), [Lavera](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_lavera_face_organic_skincare.cfm), Spiezia, [Weleda](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_weleda.cfm), Balm Balm and bod, natural haircare from [John Masters Organics](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_john.cfm), Headonism, [Lavera](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_lavera.cfm) , Giovanni and Urtekram, organic and natural bath and bodycare from Alqvimia, Primavera, ila, Dr Bronner's, Green People and [Badger Balms](https://web.archive.org/web/20080626055412id_/http%3A//www.lovelula.com/cat_badger.cfm), organic pampering products for pregnancy including natural anti stretch mark lotions and potions, organic babycare from Erbaviva, Weleda, bod for bubs and Beaming Baby, 100% natural skin care supplements from Viridian, organic skin care and ointments for eczema and acne, mineral oil free natural wax treatment candles from Natural Magic with organic essential oils and a range of organic skin care and organic grooming products for men.   
+  
+ 
