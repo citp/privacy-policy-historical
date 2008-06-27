@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarschoice.ca privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229112323id_/http%3A//www.scholarschoice.ca/PrivacyPolicy.aspx%3FiZoneUID%3D1%26iAgeUID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarschoice.ca privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627045106id_/http%3A//www.scholarschoice.ca/PrivacyPolicy.aspx%3FiZoneUID%3D1%26iAgeUID%3D22) for the most accurate reproduction.*
 
 # Privacy Policy - Scholar's Choice, Children's Educational Toys And Games
 
