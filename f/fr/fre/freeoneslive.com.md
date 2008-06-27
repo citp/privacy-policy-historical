@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229051318id_/http%3A//www.freeoneslive.com/privacy.php%3Fservice%3Dgirls%26mp_code%3Dbbc3%26source_code%3Ddefault%26PHPSESSID%3Dc5b192ad934a5498e34504f6b6f60362) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627130230id_/http%3A//www.freeoneslive.com/privacy.php%3Fservice%3Dgirls%26mp_code%3Dbbc3%26source_code%3Ddefault%26PHPSESSID%3D6e5ba2ca7dbd1e3e301e171f00151184) for the most accurate reproduction.*
 
 # FreeOnes Live : Live Adult Chat
 
-[](https://web.archive.org/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690)  
+|  | [](https://web.archive.org/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe)  
 ---  
 |    
 |  |   
@@ -12,13 +12,14 @@
 |   
 |   
   
-[Forget your password?](https://web.archive.org/lookup.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690)  
+[Forget your password?](https://web.archive.org/lookup.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe)  
 |   
   
   
+  
 
 
-[](http://www.freeoneslivevip.com/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690)
+[](http://www.freeoneslivevip.com/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe)
 
   
 
@@ -62,7 +63,7 @@ What Information Can I Access?
 
 FreeOnes Live gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690)
+  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe)
 
 What Choices Do I Have?
 
@@ -81,6 +82,6 @@ FreeOnes Live does not sell products for purchase by children. We do not permit 
   
 Brought to you by VS Media, Inc. 
 
-All persons depicted herein were at least 18 years of age at the time of photography: [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/2257.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690) The records required pursuant to 18 U.S.C. §2257 for this site are kept by VS Media, Inc., at 26672 Agoura Rd, Calabasas, CA 91302-2969, by A. Marshall, Custodian of Records. The initial date of production was October 1996 and the most recent date of reissuance is December 29, 2007. 
+All persons depicted herein were at least 18 years of age at the time of photography:  [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/2257.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe) The records required pursuant to 18 U.S.C. §2257 for this site are kept by VS Media, Inc., at 26672 Agoura Rd, Calabasas, CA 91302-2969, by John Hevy, Custodian of Records. The initial date of production was October 1996 and the most recent date of reissuance is June 27, 2008. 
 
-© 1999-2007 FreeOnes Live. All Rights Reserved. [Privacy Policy](https://web.archive.org/privacy.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=61d82cb23675cf36dc0a88f8b62d1690). 
+© 1999-2008 FreeOnes Live. All Rights Reserved. [Privacy Policy](https://web.archive.org/privacy.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=afdba1b132c8c2cb461269429a5936fe). 
