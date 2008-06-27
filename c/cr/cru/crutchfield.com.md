@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045507id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627130805id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 33 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 34 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
 If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1-888-955-6000; e-mail us at [webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
@@ -12,7 +12,7 @@ By visiting Crutchfield.com, CrutchfieldAdvisor.com or Crutchfieldenespanol.com 
 
 ## Changes to this Privacy Notice, Conditions of Use and Notices:
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on July 11, 2007. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20071229045507id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on March 6, 2008. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20080627130805id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
 
 ## Personal Information Collected By Crutchfield:
 
@@ -30,7 +30,7 @@ Action Tags: Crutchfield's web pages may contain action tags set by third party 
 
 Affiliated Businesses and Crutchfield Corporation: We may share any information that you supply to us with any affiliated business that is substantially controlled by Crutchfield and Crutchfield Corporation. Any information that is shared this way will be subject to this Privacy Notice.
 
-Independent Contractors: We may employ other companies or individuals to provide certain services to us such as sending e-mail, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose.
+Independent Contractors: We may employ other companies or individuals to provide certain services to us such as sending e-mail, providing click to call telephone calling services, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose.
 
 DirecTV, XM Radio, SIRIUS, TiVo, MySony.com, and other third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider that requires this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no responsibility or liability for these policies and urge you to contact the third party provider if you have any questions. We may occasionally partner with MySony.com in various email programs. If you link to Crutchfield.com from any MySony.com website and purchase a Sony product on Crutchfield.com we will forward a copy of your email address to MySony.com so that MySony.com can assure that you are awarded the correct points for your purchase and auto-register your purchase in the MySony.com product locker. Please note that MySony.com has its own privacy and data collection policies which are not controlled by Crutchfield. If you link to our site from Optimumstore.com we will provide the following personally identifiable information to CSC Holdings, Inc ("Cablevision"): your name, address, and information about the product you purchased. If you do not wish to have this information provided to Cablevision please do not visit Crutchfield.com from Optimumstore.com to make your purchase.
 
@@ -60,7 +60,7 @@ We will release personally identifiable information to third parties and organiz
 
 ## Business Transfer:
 
-Crutchfield has been in business independently for years, and our intent is to continue for at least another 33 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
+Crutchfield has been in business independently for years, and our intent is to continue for at least another 34 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
 
 ## Security:
 
