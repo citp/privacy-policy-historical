@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211162057id_/http%3A//www.suzukicycles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627182728id_/http%3A//www.suzukicycles.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # The Official Site of Suzuki® Motorcycles, Quadrunner ATVs and Scooters
 
@@ -28,7 +28,7 @@ Limitation on Scope of Content
 
 The Suzuki Website contains information regarding Suzuki and its products and promotional programs. The Suzuki vehicles described in this site contain uniquely American specifications and equipment and are offered for sale only in the U.S.A. (excluding Hawaii). The promotional programs described in this site are available only in those states and territories of the U.S. (excluding Hawaii, Guam and Puerto Rico) specifically referred to within the description of the program. All pricing information referred to in this site is in U.S. dollars. 
 
-**The policies described in this Online Privacy and Use Policy do not apply to ASMC's offline communications, data collection practices, or other activities.**
+**The policies described in this Online Privacy and Use Policy do not apply to ASMC’s offline communications, data collection practices, or other activities.**
 
 Back To Top
 
