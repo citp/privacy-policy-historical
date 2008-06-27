@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228122903id_/http%3A//www.iste.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627234300id_/http%3A//www.iste.org/privacy) for the most accurate reproduction.*
 
 # ISTE | ISTE Privacy Policy Notice
 
@@ -13,11 +13,11 @@ ISTE is sincerely committed to protecting the privacy of our membership, as well
 
 
 > > > **List Manager**  
->  175 West Broadway, Suite 300  
->  Eugene, OR 97401-3003  
->  E-mail: [mailinglists@iste.org](mailto:mailinglists@iste.org)   
+>  180 W. 8th Avenue, Suite 300  
+>  Eugene, OR  97401-2916 USA  
+>  E-mail: [mailinglists@iste.org](mailto:mailinglists@iste.org)  
 >  Phone: 541.302.3786  
 >  Fax: 541.302.3778  
 > 
 
-Please see our complete [Privacy Policy under Legal Notices](https://web.archive.org/Content/NavigationMenu/About_ISTE/Legal_Notice/ISTEs_Legal_Notice.htm) for more detailed information.
+Please see our complete [Privacy Policy under Legal Notices](https://web.archive.org/Content/NavigationMenu/AboutISTE/Legal_Notice/ISTEs_Legal_Notice.htm) for more detailed information.
