@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031211id_/http%3A//www.free-samples.ca/privacy.html) for the most accurate reproduction.*
+
+# FreeStuff.net.au
+
+FreeStuff.net.au is committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our policies, practices and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
+
+**Type of Information Collected** Our sites offer both free and commercial advertising. Each commercial offer is sponsored by one of our advertisers. Information is collected from the consumer through online forms. Applicants submit their name, address, title, e-mail address, and age along with other demographic information and optional questions chosen by the advertiser. 
+
+**Use of Collected Information** Information collected by FreeStuff.net.au solely for the purpose of sending you our FreeStuff.net.au email will be used only for that purpose. It will not be disclosed or sold to others. Information collected by FreeStuff.net.au on behalf of advertisers is the sole property of the advertiser and is shared only with the advertiser. Each advertiser individually controls what is done with the information collected. We host ads and collect the information from consumers on behalf of our client. We only use this information to audit accuracy. We guarantee unique users to our clients, and the auditing procedure ensures that promise. 
+
+**Member Contact** If the opt-in box is selected on the entry form, we have permission to contact the applicant via electronic or postal mail regarding information, savings, or special offers that relate directly to the information, savings, or special offers that relate directly to the information they have provided. This is opt-in only, meaning that the applicant has complete control in allowing us to contact them. Applicant must opt-in to receive secondary communication from FreeStuff.net.au but the policies of our clients may differ. 
+
+**Cookies** Cookies are only used to keep track of log-in names and passwords. A user's e-mail address is automatically logged in when they revisit the site and they do not have to reenter profile information. This is to keep track of preferences and to better tailor the site to the visitor's needs while providing the most effective service to our clients. Information such as IP address internal session ID, user's domain, type of Internet browser, domain of Web site are collected and used only for traffic auditing and analyzing trends. 
+
+**Security** In order to ensure security and protection of collected information, all employees are aware of our security policy and practices. Web security is constantly reviewed. Access to the information is limited and only obtained through codenames and passwords. Any loss, misuse, or alteration of information is prohibited followed by appropriate action and termination of employee. This is to uphold our promise to our clients, affiliate members, and property users. 
+
+**Delete/Deactivate** "Deactivating" refers to the process by which Personally Identifiable Information, upon request, is removed. Because of backups and records of deletions, it may be impossible to delete a consumer's entry without some residual information. An individual who requests to have Personally Identifiable Information deactivated will be functionally deleted. We will not sell, transfer, or use the information relating to a deleted individual in any way. To deactivate your account, please click unsubscribe at the bottom of one of our emails. 
+
+**Contact Information** FreeStuff.net.au abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to [ privacy@ourfreestuff.com](mailto:privacy@ourfreestuff.com)
+
+  
+ 
