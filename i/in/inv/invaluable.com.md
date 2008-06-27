@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083135id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627143459id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # INVALUABLE.COM : Art Market Intelligence at Your Fingertips
 
@@ -62,7 +62,7 @@ Subscription Billing
 
 We charge fees for using our subscription level services of Invaluable.com. At present, these are Invaluable Fine Art, Invaluable iFind+, Invaluable Off-line Search, Invaluable Basic, Invaluable Premium, and Invaluable Appraiser subscriptions.  We also charge fees for specialized software, advertising, and marketing services provided to auction houses and other members of the art trade.  To enable the purchase of these products, we collect and store billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
 
-You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure Manage Account page.
+You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure My Invaluable page.
 
 Access Control
 
@@ -88,7 +88,7 @@ If it is clear from the information that you provide us that you are a member of
 
 3) HOW YOU CAN CORRECT INFORMATION
 
-Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure Manage Account page. 
+Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure My Invaluable page. 
 
 4) OUR E-MAIL POLICIES
 
@@ -102,17 +102,17 @@ If we offer, and you have registered for upcoming auction alerts or online discu
 
 Email Newsletters
 
-We may offer e-mail newsletters.  If you do not wish to receive newsletters, you can either (1) follow the 'unsubscribe' instructions located near the bottom of each newsletter, or (2) log in and go to Manage Account, select "opt out" in your Personal Information area and then select "Update Personal Information."
+We may offer e-mail newsletters.  If you do not wish to receive newsletters, you can either (1) follow the 'unsubscribe' instructions located near the bottom of each newsletter, or (2) log in and go to My Invaluable, select "opt out" in your Personal Information area and then select "Update Personal Information."
 
 Promotional E-mails
 
-We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by either (1) following the 'unsubscribe' instructions located near the bottom of each e-mail, or (2) log in and go to Manage Account, select "opt out" in your Personal Information area and then select "Update Personal Information."
+We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by either (1) following the 'unsubscribe' instructions located near the bottom of each e-mail, or (2) log in and go to My Invaluable, select "opt out" in your Personal Information area and then select "Update Personal Information."
 
 5) SECURITY AND PROTECTION OF YOUR INFORMATION
 
 We take very seriously our commitment to protect your personal information. To this end, we maintain a secure process to collect, transmit and store your personally identifiable information including credit card details.
 
-Subscribers can review or change their registration, subscription or credit card information at any time through the secure Manage Account page with the exception of card number and card verification number which cannot be viewed or changed by any means.
+Subscribers can review or change their registration, subscription or credit card information at any time through the secure My Invaluable page with the exception of card number and card verification number which cannot be viewed or changed by any means.
 
 We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or using a computer in a public place.
 
@@ -122,4 +122,4 @@ As a dynamic and growing Site, Invaluable.com may contain links to other sites t
 
 If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable.com Privacy Policy or its implementation, please contact us by email at: [Bpeverill@Invaluable.com](mailto:Bpeverill@Invaluable.com).
 
-This policy document 1.60 was last revised June 22, 2007.
+This policy document 1.70 was last revised February 1, 2008.
