@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometone.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228203251id_/http%3A//www.hometone.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometone.org privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627130934id_/http%3A//www.hometone.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Hometone: Hometone is your ultimate guide to creating and managing your Home, giving tips on appliances, bedrooms, housekeeping, kitchen utensils, beauty, decor, dining, flooring, food and diet, furniture, gardening, lighting, and security
+# Privacy Policy - Hometone: Contemporary Home Improvement trends
 
 Privacy Policy
 
