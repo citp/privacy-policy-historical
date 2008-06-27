@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the dotphoto.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211115052id_/http%3A//www.dotphoto.com/AboutPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotphoto.com privacy policy that was archived on 2008-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080627160258id_/http%3A//www.dotphoto.com/AboutPrivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 	<meta http-equiv="imagetoolbar" content="no">
 	
     <title>Digital Photography-Secure Ordering of Digital Prints, Photo Cards and Gifts with dotPhoto</title>
-<!--SrvID=[3]-->
+<!--SrvID=[9]-->
 <style type="text/css">
 <!--
 body {font-family: Verdana, Arial, Helvetica;}
@@ -533,12 +533,13 @@ a.BottomNav:hover {
     width: 120px; 
     height: 120px; 
     left:0px;
-    top:15px;
+    top:0px;
     margin-left: auto; 
     margin-right: auto;  
     margin-top: auto;
     margin-bottom: auto;
     z-index:1;
+    background-color: #f5f5f5;
 }
 .divThumbWrap {
     position:absolute;
@@ -664,17 +665,67 @@ a.BottomNav:hover {
     <script src="http://an.tacoda.net/an/13966/slf.js" language="JavaScript"></script>
     
     
-    <script src="img/banners/bannerad3.js" type="text/javascript"></script>
+    <script src="img/banners/bannerad3.js" type="text/javascript" language="javascript"></script>
 
+    <!-- Sale message expose once -->
+    <script language="javascript" type="text/javascript">
+        var countShowingOfMessage = 0;
+        function showSaleMessageOnce(e) {
+            if (countShowingOfMessage >= 1) return false;
+            
+            // Increment the count
+            countShowingOfMessage++;
+        
+            // Only show if cookie not set
+            if (getCookie("8cent_sale_message") == "Y") return false;
+            
+            // Show off the message
+            try {
+                showPopup('saleMessage',e);
+                
+                // Set a cookie so this only happens once
+			    var expdate = new Date();
+			    expdate.setTime(expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
+			    setCookie("8cent_sale_message", "Y", expdate);
+            } catch(er) {
+                // do nothing
+            }
+        }
+        
+	    function setCookie(name, value, expires, path, domain, secure) {
+		    document.cookie= name + "=" + escape(value) +
+			    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+			    ((path) ? "; path=" + path : "") +
+			    ((domain) ? "; domain=" + domain : "") +
+			    ((secure) ? "; secure" : "");
+	    }
+
+	    function getCookie(name) {
+		    var dc = document.cookie;
+		    var prefix = name + "=";
+		    var begin = dc.indexOf("; " + prefix);
+		    if (begin == -1) {
+			    begin = dc.indexOf(prefix);
+			    if (begin != 0) return null;
+		    } else {
+			    begin += 2;
+		    }
+		    var end = document.cookie.indexOf(";", begin);
+		    if (end == -1) {
+			    end = dc.length;
+		    }
+		    return unescape(dc.substring(begin + prefix.length, end));
+	    }        
+    </script>        
 </head>
 
  
 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
-<body bgcolor="#9CB5CB" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="1" link="#0067B0" alink="#0067B0" vlink="#0067B0">
+<body bgcolor="#9CB5CB" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0067B0" alink="#0067B0" vlink="#0067B0">
     <table width="764" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#FFFFFF">
 	    <tbody><tr>
 		    <td colspan="3" align="center">
-			    <table width="764" border="0" cellpadding="0" cellspacing="0"> 
+			    <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
 				    <!-- Advertising banner -->
 				    <tbody><tr align="center">
 					    <td colspan="3"></td>
@@ -692,11 +743,11 @@ a.BottomNav:hover {
 				                As it is hosted in the middle row (need a blank td above and below
 				                It will not distort the horizontal of the menus, but it
 				                will explode the height of the header by design -->
-				        <td></td>
+				        <td><img src="/img/spacer.gif" height="24px"></td>
 				    
 				        <!-- Tip-Top navigation -->
 					    <td align="right" valign="top" class="TopNav">
-						    <a href="StoreBrowseStart.asp?MP=Y" class="TopNav"><font color="018148"><img src="img/little-gift.gif" border="0"> Gift Ideas</font></a> | 
+						    <a href="StoreBrowseStart.asp?MP=Y" class="TopNav"><font color="018148">Gift Ideas</font></a> | 
                                     <a href="/Join.asp" class="TopNav">Join Free</a> |
                                     <a href="/Gallery.asp" class="TopNav">Galleries</a> |
                                     <a href="/GuestOrderViewAlbum.asp" class="TopNav"><img src="IMG/mydp_tab_carticon.gif" width="23" height="18" border="0"> Cart</a> |
@@ -710,10 +761,10 @@ a.BottomNav:hover {
 				        a column for custom logo,
 				        a basically extra space to accomodate a giganto custom logo -->
 				<tr>
-				    <td>
+				    <td colspan="2">
 										    
 				    </td>
-				    <td><img src="IMG/spacer.gif" width="605" height="15"></td>
+				    <!--<td><img src="IMG/spacer.gif" width="605" height="15"/></td>-->
 				</tr>
 
                 <!-- Third row: needs no first column (dotPhoto logo),
@@ -731,11 +782,11 @@ a.BottomNav:hover {
 							<tbody><tr>
 								
 									<td width="21" valign="bottom"><img src="img/nav_tableft_white.gif" width="21" height="33" border="0"></td>
-									<td width="77" valign="bottom"><a href="/MemLogin.asp"><img src="img/dptab_myalbums_white.gif" width="77" height="33" border="0"></a></td>
+									<td width="77" valign="bottom"><a href="/GuestViewAlbum.asp"><img src="img/dptab_myalbums_white.gif" width="77" height="33" border="0"></a></td>
 									
 										<td width="21" valign="bottom"><img src="img/nav_tabmiddle_white.gif" width="21" height="33" border="0"></td>
 									
-									<td width="77" valign="bottom"><a href="/MemLogin.asp"><img src="img/dptab_myshows_white.gif" width="77" height="33" border="0"></a></td>
+									<td width="77" valign="bottom"><a href="/GuestListShows.asp"><img src="img/dptab_myshows_white.gif" width="77" height="33" border="0"></a></td>
 									
 										<td width="21" valign="bottom"><img src="img/nav_tabmiddle_white.gif" width="21" height="33" border="0"></td>
 									
@@ -762,7 +813,7 @@ a.BottomNav:hover {
 							<tbody><tr>
 						<!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 								<td width="464" height="21" class="TopStatusBar">&nbsp;<b>WELCOME BACK</b>&nbsp;&nbsp;&nbsp;&nbsp;
-						
+						&nbsp;Guest: aavalanche&nbsp;&nbsp;
 								</td>
 
 								<td width="300">
@@ -772,7 +823,7 @@ a.BottomNav:hover {
 										 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 										
 											<td width="140" align="right">
-												<input type="hidden" name="HeaderMID" value="0">
+												<input type="hidden" name="HeaderMID" value="1486606">
 												<input type="text" id="HeaderSearchString" name="HeaderSearchString" size="15" maxlength="30" class="NormalTextSmall">
 											</td>
 											<td width="13">&nbsp;</td>
@@ -790,49 +841,12 @@ a.BottomNav:hover {
 				
 			     
 			        <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
-				    
-				    <tr>
-					    <td colspan="3" align="center" style="height: 68px">
-						    <table cellpadding="0" cellspacing="0">
-							    <tbody><tr><td>&nbsp;</td></tr>
-							    <tr>
-							        <td align="center">
-							            <!-- Replaced with a rotating banner ad
-							                    30-OCT-2007
-							                    Bryan LeBlanc
-							            <img src= />
-							            -->
-				                        <script type="text/javascript">
-                                            // Courtesy of SimplytheBest.net - http://simplythebest.net/scripts/
-                                            //
-                                            //  myAd = new Banner( 5, 468, 60, "Visit our sponsor", 1, 0 );
-                                            //  (time between rotations (seconds), width of banner, height of banner, alt text, starting banner, random (0 means it iterates through banners, 1 means it randomly picks the next banner))
-                                            //
-                                            //  myAd.Ad( "banners/banner_1.gif", "business_planning.html", "_blank", "Business planning" )
-                                            //  path to image, url, target window, and mouseover message
-                                            <!--
-                                            myAd = new Banner(5, 480, 60, "DotPhoto.com Promotions", 1, 1);
-                                            myAd.Ad( "img/banners/FreeShippingBanner_NoDate02.gif", "#", null, "Free Shipping..." );
-                                            myAd.Ad( "img/banners/12centPrintBanner.gif", "#", null, "12 cent prints all the time." );
-                                            myAd.Ad( "img/banners/dotphotoGoBanner.jpg", "/dotPhotoGo.asp", null, "Get dotPhotoGO now" );
-                                            myAd.Ad( "img/banners/dotPhotoShowBanner.gif", "http://www.dotphoto.com/Flashtool/MemViewShow.asp?SID=185291", "_blank", "Visit the dotPhoto show" );
-                                            myAd.Ad( "img/banners/EyeFiBanner.jpg", "/EyeFiAddToCart.asp", null, "Free your memories... quickly, easily, and wirelessly!" );
-                                            myAd.Ad( "img/banners/LigareBanner.jpg", "/GreetingCardLogo.asp?StID=2&GC=CRD&IC=CRD&MC=LIGARE&SC=44", null, "Order exclusive Ligare Signature Series holiday cards" );
-                                            myAd.output();
-                                            // -->
-                                        </script><a href="javascript:bannerAd0.link();" onmouseover="bannerAd0.showStatus(); return true" onmouseout="status='';return true"><img src="img/banners/FreeShippingBanner_NoDate02.gif" width="480" name="bannerAd0Img" height="60" alt="DotPhoto.com Promotions" border="0"></a>							        
-							        </td>
-							        <td rowspan="2" align="left"></td>
-							    </tr>
-						    </tbody></table>			
-					    </td>
-				    </tr>	
-			     
+				     
 			    <!-- End of section for FileUploader.aspx redirect-->
 				
-			    </tbody></table>
-		    </td>
-	    </tr>
+		    </tbody></table>
+	        </td>
+        </tr>
         <tr>
             <td></td>
             <!-- Begin main content -->
@@ -1256,8 +1270,8 @@ a.BottomNav:hover {
     <tr>
         <td><img src="/img/spacer.gif" width="10" height="1" border="0" alt=""></td>
         <td class="NormalText">
-            By email:<br>
-            &nbsp;&nbsp;&nbsp;<a href="mailto:cnorcross@dotPhoto.com">cnorcross@dotPhoto.com</a><br><br>
+            <a href="SendFeedback.asp">By email</a><br><br>
+            <!--&nbsp;&nbsp;&nbsp;<a href="mailto:cnorcross@dotPhoto.com">cnorcross@dotPhoto.com</a><br><br>-->
         </td>
     </tr>
     <tr>
@@ -1300,17 +1314,17 @@ a.BottomNav:hover {
 		<td align="center" valign="bottom" colspan="3">
 			
 			
-			<table width="764" border="0" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="TableBorderTop">
+			<table width="100%" border="0" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="TableBorderTop">
 			 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 				<tbody><tr>
-					<td width="88" rowspan="3" valign="top"><img src="IMG/privacy.gif" width="83" height="29"></td>
-					<td width="676" height="17" align="center">
+					<td width="88" rowspan="3" valign="top" align="center"><img src="IMG/privacy.gif" width="83" height="29"></td>
+					<td height="17" align="center">
 						<span class="FooterLink">
 								<a href="/About.asp" class="FooterLink">About Us</a> | 
 								<a href="/AffiliateMarketing.asp" class="FooterLink">Affiliates</a> | 
 								<a href="http://dotphoto.typepad.com/blog" class="FooterLink">blog</a> |
 								<a href="/PrintPlans.asp?TabLoc=3" class="FooterLink">Membership</a> | 
-								<a href="http://www.pictavision.com/PVconfig/p-15-pictavision.aspx" class="FooterLink">Mobile</a> | 
+								<!--<a href="http://www.pictavision.com/PVconfig/p-15-pictavision.aspx" class="FooterLink">Mobile</a> | -->
 								<a href="/PricingAndReturn.asp" class="FooterLink">Pricing</a>|
 								<a href="http://dotphoto.custhelp.com/cgi-bin/dotphoto.cfg/php/enduser/std_adp.php?p_faqid=508" class="FooterLink">Promotion Details</a> |
 								<a href="/GuestOrderDetail.asp" class="FooterLink">Order Tracking</a> 
@@ -1319,7 +1333,7 @@ a.BottomNav:hover {
 				</tr>
 
 				<tr>
-					<td width="676" height="20" align="center" valign="top">
+					<td height="20" align="center" valign="top">
 						<span class="FooterLink">
 								<a href="http://www.dotphotopro.com" class="FooterLink">Professionals</a> |
 								<a href="/Newspapers.asp" class="FooterLink">Newspapers</a> |
@@ -1334,7 +1348,7 @@ a.BottomNav:hover {
 				</tr>
 			
 				<tr>
-					<td height="16" align="center" class="FooterGreyText">Copyright ©2000-2007&nbsp;dotPhoto, Inc. All Rights Reserved</td>
+					<td height="16" align="center" class="FooterGreyText">Copyright ©2000-2008&nbsp;dotPhoto, Inc. All Rights Reserved</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -1345,6 +1359,7 @@ a.BottomNav:hover {
 	<script language="javascript" type="text/javascript">
 		document.onload = refreshFrame();
 	</script>
+
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
