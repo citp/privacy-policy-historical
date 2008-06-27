@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045004id_/http%3A//www.pearsonvue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031113id_/http%3A//www.pearsonvue.com/legal/privacy) for the most accurate reproduction.*
 
 # Pearson VUE: Privacy Policy
 
@@ -37,7 +37,7 @@ Cookies are small text files that a website transfers to your computer’s brows
 
 ### Transmission of Information
 
-The Internet is a global environment. By using this site and sending information to us electronically, you consent to transborder and international transmission of any data that you may choose to supply us. Information transmissions to this site and emails sent to us may not be secure. Given the inherent operation and nature of the Internet, all Internet transmissions are done at the user’s own risk.
+Data collected and received by us in connection with the delivery of certification, licensure and academic admission testing services may be transmitted to the United States and other countries. NCS Pearson’s computer operations are currently based in the United States. The Internet is a global environment. By using this site and sending information to us electronically, you consent to transborder and international transmission of any data that you may choose to supply us. Information transmissions to this site and emails sent to us may not be secure. Given the inherent operation and nature of the Internet, all Internet transmissions are done at the user’s own risk.
 
 ### Information Policy Relating to Test Center Applications
 
@@ -55,4 +55,4 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
 
 If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918.
 
-Revision Date of April 4, 2005
+Revision Date of January 4, 2008
