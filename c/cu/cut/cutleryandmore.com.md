@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229153134id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627195603id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
@@ -6,7 +6,7 @@
 ---|---|---  
 | 
 
-| [](https://web.archive.org/cutlery/)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  | [](https://web.archive.org/clearance.htm) |    
+| [](https://web.archive.org/cutlery.htm)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  | [](https://web.archive.org/clearance.htm) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  |   
 ---  
@@ -15,7 +15,7 @@
   
 
 
-[](https://web.archive.org/grandprix.htm)  
+[](https://web.archive.org/cooks_illustrated.htm)  
   
 |  [](https://web.archive.org/shipping.asp)
 
@@ -50,4 +50,4 @@ Elk Grove, IL 60007
 |   
 | |   
 | |   
-© 2007 CutleryAndMore.com| | 
+© 2008 CutleryAndMore.com| | 
