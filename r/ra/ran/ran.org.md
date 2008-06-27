@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229235821id_/http%3A//ran.org/who_we_are/our_mission_history/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627231852id_/http%3A//ran.org/who_we_are/our_mission_history/privacy_policy) for the most accurate reproduction.*
 
 # Rainforest Action Network: Privacy policy
 
@@ -17,6 +17,8 @@ The information we collect is used to improve the content of our Web site, to no
 To process a charitable contribution or product purchase, it is necessary for RAN to gather the visitor's name, email address, mailing address, phone, and credit card information. This data is used to verify identity and execute the financial transaction. Additionally, phone number and email address information may be used to contact visitors if there is a problem with the transaction. 
 
 RAN may use service providers (such as merchant banks and ecommerce integrators) for the express purpose of conducting financial transactions. Personal information is kept private and secure and is not sold, rented, or traded to third parties. It is important to note that credit card numbers are used only at the time of the transaction, and are not stored following the conclusion of the transaction unless a transaction is selected that occurs on a regular basis. For transactions that recur, credit card information is stored in an encrypted format. 
+
+Donations to Rainforest Action Network are refundable within 30 days upon written request. If you would like to have your donation refunded, please contact [RAN’s Development Department](mailto:ranmembers@ran.org). 
 
 #####  Electronic Newsletter
 
