@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timbrydges.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230184148id_/http%3A//theinternetcompany.net/legal-pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbrydges.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627164200id_/http%3A//theinternetcompany.net/legal-pp.shtml) for the most accurate reproduction.*
 
 # 
 
