@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231154811id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2008-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080627115728id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><param name="wmode" value="opaque">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body onload="headerOnLoadHandler();"><param name="wmode" value="opaque">
 
 <link type="application/rss+xml" rel="alternate" title="Recently Added Feed" href="http://feeds.feedburner.com/mobango/rss/recentlyadded">
 <link type="application/rss+xml" rel="alternate" title="Top Favorites Feed" href="http://feeds.feedburner.com/mobango/rss/topfavourites">
@@ -19,11 +19,17 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 
-<link rel="stylesheet" type="text/css" href="http://content.mobango.com/css/mobango.css">
+<link rel="stylesheet" type="text/css" href="http://content.mobango.com/css/pack/all_mobango-0.3.css">
 
-<script language="JavaScript" src="http://content.mobango.com/js/mobango.js" type="text/javascript"></script>
-<script language="Javascript" type="text/javascript">
+<script src="http://content.mobango.com/js/pack/all_mobango-0.1.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
 <!--
+function manageUserStatus()  {} 
+
+
+
 function trim(s)
     {
       while (s.substring(0,1) == ' ')
@@ -32,179 +38,225 @@ function trim(s)
            { s = s.substring(0,s.length-1); }
       return s;
     }
-function check(adult)
+
+var isLanguagePopupOpened = false;
+function clickedOnLanguageLink()
 {
-    //document.keysrch.submit();
-    var search_url;
-    var key = document.getElementById('headkey').value;
-    key = key.replace(/^\s+|\s$/g, '') ;    
-    if(key == '?' || key == ' ?')
-    {        
-        key = "\\?";
-    }
-    if(adult == 1)
-        search_url = '/view/search.php?search=key&adult=1&key='+key;
-    else
-        search_url = '/view/search.php?search=key&key='+key;    
-    window.location.href=search_url;
-    return true;
-}
-function chkEnterforkeyword(e,adult){
-    if(e.keyCode == 13) {
-        if(adult==1)
-            check(1);
-        else 
-            check();
-    }
+	if (isLanguagePopupOpened)
+		document.getElementById('mobango-flags-selection').style.visibility = 'hidden'; 
+	else
+		document.getElementById('mobango-flags-selection').style.visibility = 'visible';
+		
+	isLanguagePopupOpened = !isLanguagePopupOpened;
+	
+	return false;
 }
 
-
-/*function restore_state(){
-    
-    
-}*/
-
-
-function menuActivate(idEdit, idMenu)
+function init()
 {
-    oMenu = document.getElementById(idMenu);
-    oEdit = document.getElementById(idEdit);
-    nTop = oEdit.offsetTop + oEdit.offsetHeight;
-    //alert(nTop);
-    nLeft = oEdit.offsetLeft;
-    while (oEdit.offsetParent != document.body)
-    {
-        oEdit = oEdit.offsetParent;
-        //alert(oEdit);
-        if(oEdit!= null){
-            nTop += oEdit.offsetTop;
-            nLeft += oEdit.offsetLeft;
-            break;
-        }
-    }
-    
-    
-    //oMenu.style.left = nLeft-3;
-    
-    var browser=navigator.appName
-    var b_version=navigator.appVersion
-    var version=parseFloat(b_version)
-    if (browser=="Netscape")
-    {
-        oMenu.style.top = nTop+10;
-        oMenu.style.left = "-1px";
-    }
-    else
-    {
-        oMenu.style.top = nTop+2;
-        oMenu.style.pixelLeft = nLeft-50;
-    }
-    //browser=="Microsoft Internet Explorer")
-    //oMenu.style.top = nTop+2;
-    oMenu.style.display = "";
-    document.getElementById("adid").style.display="";
-    //fActiveMenu = idMenu;
-    //document.getElementById(idSel).focus();
-    return false;
+	if(document.all&&document.getElementById&&document.body.style.maxHeight==undefined)
+	{
+		var node, menu = document.getElementById('menu').getElementsByTagName('ul')[0];
+		for(var i=0;i<menu.childNodes.length;i++)
+		{
+			node = menu.childNodes[i];
+			if(node.tagName == 'LI') {
+			 node.onmouseover=function(){this.className+=' hover'}
+			 node.onmouseout=function(){this.className=this.className.replace(' hover','')}
+			}
+		}
+	}
 }
 
-function menuHide(idobj){
-    
-    document.getElementById(idobj).style.display = "none";
-    document.getElementById("adid").style.display="none";
-}
-
-function menuvisble(idobj){
-    document.getElementById(idobj).style.display = "";
-    document.getElementById("adid").style.display="";
-}
-function hidemenu()
-{
-    document.getElementById("adid").style.display="none";
+function headerOnLoadHandler()
+{	
+	manageUserStatus();	
+	init();
+	
+	if (typeof onloadHandler == 'function')
+		onloadHandler();	
 }
 
 -->
 </script>
 
 
-
+<div class="jqmDialog" id="status_mng">
+	<img src="http://content.mobango.com/images/standard/status.gif" alt="loading..">
+</div>	
 <div id="layout">
-    <div><img src="http://content.mobango.com/images/standard/pv/pv_template1.gif" width="0" height="0" alt=""></div>
-    
-    <div><span><a href="/"><img src="http://content.mobango.com/images/standard/mobango_logo.gif" title="Welcome to Mobango Home" border="0" class="mlogo" alt=""></a></span>
-    
-            <div id="main-crumbs">  
-        <span class="hiringtxt1"><a href="#" title="Get direct access to over 400K of FREE Mobile content with the new Mobango Toolbar" onclick="window.open('http://www.mobango.com/tool/toolbar')"><font color="#FF6600"><u>NEW: Download the Mobango Toolbar NOW!</u></font></a></span>
-                                   <span class="lbl-search1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/signup/">Sign up</a></span>  | <a href="/help/">Help</a> | <a href="/login/">Login</a> </div>
-      
-        
-    <div>  </div>
-    <div id="header">
-            <ul>
-                      <li><a href="/">Home</a></li>
-            <li><a href="/mobile_stuff/recent/">Mobile Stuff</a></li>
-            <li><a href="/ugc/">Categories</a></li>
-            <li><a href="/view/friend.php">Friends</a></li>
-            <li><a href="/resource/">Tools</a></li>
-            <li><a href="/view/upload.php">Upload</a></li>
-                  </ul>
-    </div>
-    <br clear="all">
-  <div class="sub-menus">
-        <div class="sub"><div><div><div>
-            <img src="http://content.mobango.com/images/standard/blank.gif" width="1" height="8" alt=""><br>
-                    </div>
-        </div></div></div>
-  </div>
-<!-- added by subash for 6 week web and mobile promotion [id=3270] -->
-	<div style="font-size:12px; color:#3366CC; font-weight:bold; width:100%; text-align:center">
-  <a href="http://blog.mobango.com/?utm_source=mobango.com&amp;utm_medium=textlink&amp;utm_term=What%2Bis%2Bnew%2Bon%2BMobango%3F%2BVisit%2Bour%2BBlog&amp;utm_campaign=blog-header" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/track/stats/outbound/blog.mobango.com/header');">What is new on Mobango? Visit our Blog</a>
-  </div>
-<!-- end -->
+	<div><img src="http://content.mobango.com/images/standard/pv/pv_template1.gif" width="0" height="0" alt=""></div>
 
-<!--        SEARCH BAR COMES HERE        -->
+<!-- HEADER BEGIN -->
 
-<div id="search-bar">
-    <div class="rounded"><div><div><div>
-      
-    <span class="f-left">
-     <label class="lbl-search">Search Mobango</label>
-         <input type="hidden" name="search" value="key">
-                         <input name="headkey" id="headkey" type="text" class="txt-search" title="Search" alt="Key Search" value="" maxlength="50" onkeypress="chkEnterforkeyword(event)">
-                <table class="btn-search btn-font" align="center" border="0" cellpadding="0" cellspacing="0">
-                 <tbody>
-                 <tr>
-                <!--<td width="10" >
-                <img src="http://content.mobango.com/images/standard/btn_01.gif"  width="10" height="22" alt="" /></td>-->
-                <td bgcolor="#FFFFFF">&nbsp;
-                                    <a href="#" onclick="return check();">Search</a>&nbsp;</td>
-                    
-                <!--<td width="10">
-                <img src="http://content.mobango.com/images/standard/btn_03.gif" width="10" height="22" alt="" /></td>-->
-                <td bgcolor="#FFFFFF"><img align="middle" src="http://content.mobango.com/images/standard/down_button.gif" id="combotext1" onmouseover="JavaScript:menuActivate('combotext1', 'combodiv1')">
+<div id="header">	
+	<div id="user-actions">	
+					New user? <a href="/signup/">Sign up</a> or <a href="/login/">Login</a>
+				
+		| <a href="/help/">Help</a>
+				| 	
+		<span class="simplePopup">
+			<span id="mobango-flags-selection">
+				<table width="100%" align="center">			
+						
+					<tbody><tr>				
+						<td>
+							<a href="http://www.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/us');">
+								<img src="http://content.mobango.com/images/flags/us.gif" title="English" class="scaledFlagImages">
+							</a>
+						</td>
+						<td>
+							<a href="http://www.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/us');">
+								English
+							</a>
+						</td>	
+					</tr>					
+						
+					<tr>				
+						<td>
+							<a href="http://es.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/es');">
+								<img src="http://content.mobango.com/images/flags/spain.gif" title="Español" class="scaledFlagImages">
+							</a>
+						</td>
+						<td>
+							<a href="http://es.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/es');">
+								Español
+							</a>
+						</td>	
+					</tr>					
+						
+					<tr>				
+						<td>
+							<a href="http://it.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/it');">
+								<img src="http://content.mobango.com/images/flags/italy.gif" title="Italiano" class="scaledFlagImages">
+							</a>
+						</td>
+						<td>
+							<a href="http://it.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/it');">
+								Italiano
+							</a>
+						</td>	
+					</tr>					
+						
+					<tr>				
+						<td>
+							<a href="http://de.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/de');">
+								<img src="http://content.mobango.com/images/flags/germany.gif" title="Deutsch" class="scaledFlagImages">
+							</a>
+						</td>
+						<td>
+							<a href="http://de.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/header/language/de');">
+								Deutsch
+							</a>
+						</td>	
+					</tr>					
+										<tr>
+						<td align="left" colspan="2">
+							<br>
+							<center><a href="#" onclick="return clickedOnLanguageLink();">close</a></center>
+						</td>
+					</tr>
+				</tbody></table>
+			</span>
+		</span>
+		<a href="#" onclick="return clickedOnLanguageLink();">
+			Language
+		</a>	
+			</div>
 
-                <div id="combodiv1" style="background:#FFFFFF;position:absolute; display:none; top:20px; left:10px;z-index:10000;border-width:1px;border-style:solid;border-color:#C0C0C0; padding:5px; width:150px" onmouseout="javascript:menuHide('combodiv1')" onmouseover="javascript:menuvisble('combodiv1')">
+	<br class="hide">
+	<a href="/" id="mobango-logo"><img src="http://content.mobango.com/images/standard/mobango_logo.gif" title="Welcome to Mobango Home"></a>
+	
+	<h2>
+		
+<strong>Discover</strong>, <strong>play</strong>, <strong>share</strong>
+		<br>
+		and <strong>personalize</strong> your <strong>Phone</strong>
 
+	</h2>
 
-                <a href="/newsearch/file">Files Advanced Search</a><br>
-                <a href="/newsearch/user">Member Search</a>
+	<div id="users-number">
+		Already joined Mobango:
+		<strong>3.277.483</strong>
+		<a href="/view/invitefriend.php?utm_source=homepage&amp;utm_medium=textlink&amp;utm_campaign=invitefriends">Invite Friends</a>
+	</div>	
+	
+	<div id="mobango-numbers">
+		<a class="videos" href="/ugc/Video/Uiw3_ezZNEs=">
+			60.395 <span>Videos</span>
+		</a>
+		
+		<a class="ringtones" href="/ugc/True_Tones/qjcdTtMc0!g=">
+			107.231 <span>Ringtones</span>
+		</a>
+		
+		<a class="images" href="/ugc/Images/zf4pzI1jT4g=">
+			502.886 <span>Images</span>
+		</a>		
+	</div>	
+	<div id="menu">
+		<a href="/view/upload.php" id="upload">Upload</a>
+		<ul class="menu">
+							<li><a href="/">Home</a></li>
+						
+							<li class="dropdown">
+					<a href="/ugc/">Categories</a>
+					<ul>
+													<li><a href="/ugc/Video/Uiw3_ezZNEs=/">Video</a></li>
+													<li><a href="/ugc/TrueTones/qjcdTtMc0!g=/">True Tones</a></li>
+													<li><a href="/ugc/Polyphonics/0j1K6M_zTT0=/">Polyphonics</a></li>
+													<li><a href="/ugc/Software/V1k3mM!QKPI=/">Software</a></li>
+													<li><a href="/ugc/Games/hNlZNq4l4wU=/">Games</a></li>
+													<li><a href="/ugc/Images/zf4pzI1jT4g=/">Images</a></li>
+													<li><a href="/ugc/Photos/DxiHFfE6pV8=/">Photos</a></li>
+													<li><a href="/ugc/Wallpapers/N1uNLEeRY4U=/">Wallpapers</a></li>
+											</ul>
+				</li>
+						
+							<li class="dropdown">
+					<a href="/mobile_stuff/recent/">Mobile Stuff</a>
+					<ul>
+						<li><a href="/mobile_stuff/recent/">Recently viewed</a></li>
+						<li><a href="/mobile_stuff/mostviewed/">Most viewed</a></li>
+						<li><a href="/mobile_stuff/lastuploaded/">Last Uploaded</a></li>
+						<li><a href="/mobile_stuff/topfavorites/">Top favorites</a></li>
+						<li><a href="/mobile_stuff/toprated/">Most rated</a></li>
+						<li><a href="/mobile_stuff/topdownloads/">Top downloads</a></li>
+						<li><a href="/mobile_stuff/topwap/" class="sub-links">Top Mobile</a></li>
+					</ul>
+				</li>
+			
+							<li><a href="/view/friend.php">Friends</a></li>
+						
+							<li><a href="/resource/">Tools</a></li>
+					</ul>
+		
+		<ul class="submenu">
+							<!-- Empty home sub-menu -->
+					</ul>
+		
+		
+		<div class="floor"><!-- empty --></div>
+	</div>
 
-                </div>
-                </td>
-                </tr> </tbody>
-        </table>
-        <img src="http://content.mobango.com/images/standard/blank.gif" height="1" width="60" alt=""> &nbsp; &nbsp; 
-        <!-- dont remove the form here . Otherwise other pages wornt work for ex: Modify file page -->
-        <form name="keysrch">    
-        <!---->
-        </form>
-</span> 
+	<div id="search">
+		<form action="/view/search.php">
+			<label for="headkey">Search Mobango</label>
+			<input type="hidden" name="search" value="key">
+						<input type="text" id="headkey" name="key" class="text" value="" maxlength="50">
+			<input type="submit" value="Search" class="button">
+		</form>
 
+		<a href="/search/file">Files Advanced Search</a>
+		<a href="/search/user">Member Search</a>
 
-    </div></div>
-    </div></div>
+		<div class="floor"><!--empty--></div>
+	</div>
+	<br class="hide">
+
 </div>
-   
+
+<!-- HEADER END -->
 <div class="bread-crumbs"><a href="/">Home</a> &gt; </div>
 <div class="heading"><span class="headtxt">PRIVACY</span></div>
 <div class="terms-des">
@@ -235,126 +287,100 @@ Please refer to the section <a href="../view/termsofservices.php" class="orange1
 </div>
 
 
-  
+
+
 <br clear="all">
-  <img src="http://content.mobango.com/images/standard/blank.gif" alt=""><br clear="all">
+<!-- FOOTER BEGIN -->
 		
-<div id="footer" style="height: 121px;">
-<div class="foot-form">
-	<label class="bl-bold">Search Mobango</label><br>
-			<input name="footkey" id="footkey" type="text" class="foot-txtbx" title="Text box" alt="Key Search" value="" maxlength="50" onkeypress="chkEnterfoot(event)">
-		<br><img src="http://content.mobango.com/images/standard/blank.gif" alt=""><br clear="all">
-	<table class="btn-font" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td width="10" height="22">
-				<img src="http://content.mobango.com/images/standard/btn_01.gif" width="10" height="22" alt=""></td>
-				<td bgcolor="#3366CC">
-									<a href="#" class="btn-link" onclick="return footcheck();">Search</a></td>
+<br clear="all">
+
+<div id="footer">
+
+	<dl id="summary">
+		<dt>All mobile content</dt>
+		<dd>
+			<a href="/ugc/Wallpapers/N1uNLEeRY4U=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Wallpapers');">Free Wallpapers</a> -
+			<a href="/ugc/Ringtones/qjcdTtMc0!g=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Tunes');">Free Tunes</a> -
+			<a href="/ugc/Video/Uiw3_ezZNEs=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Videos');">Free Mobile Videos</a> -
+			<a href="/ugc/Software/V1k3mM!QKPI=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Software');">Free Mobile Software</a> -
+			<a href="/ugc/Games/hNlZNq4l4wU=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Games');">Free Mobile Games</a> -
+			<a href="/ugc/Photos/DxiHFfE6pV8=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Photos');">Free Mobile Photos</a> -
+			<a href="/ugc/Ringtones/qjcdTtMc0!g=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Ringtones');">Free Ringtones</a> -
+			<a href="/ugc/Images/zf4pzI1jT4g=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Images');">Free Mobile Images</a>
+		</dd>
+		<dt>Mobile phone brands:</dt>
+		<dd>
+			<a href="/cell_phones/brand/11/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Nokia');">Nokia</a> -
+			<a href="/cell_phones/brand/14/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Motorola');">Motorola</a> -
+			<a href="/cell_phones/brand/25/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/SonyEricsson');">SonyEricsson</a> -
+			<a href="/cell_phones/brand/17/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Samsung');">Samsung</a> -
+			<a href="/cell_phones/brand/19/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/LG');">LG</a> -
+			<a href="/cell_phones/brand/109/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/RIM_BlackBerry');">BlackBerry</a> -
+			<a href="/cell_phones/brand/100/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Apple');">Apple</a>
+		</dd>
+		<dt>Most Popular:</dt>
+		<dd>
+			<a href="/cell_phones/brand/100/model/2273/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Apple_iPhone');">Apple iPhone</a> -
+			<a href="/cell_phones/brand/11/model/2651/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Nokia_6500_classic');">Nokia 6500 Classic</a> -
+			<a href="/cell_phones/brand/11/model/2281/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Nokia_N95');">Nokia N95</a> -
+			<a href="/cell_phones/brand/25/model/1609/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/SonyEricsson_K800i');">SonyEricsson K800i</a> -
+			<a href="/cell_phones/brand/14/model/2644/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Motorola_RAZR2_V9');">Motorola RAZR2 V9</a> -
+			<a href="/cell_phones/brand/109/model/2723/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/RIM_BlackBerry_8800');">BlackBerry 8800</a> -
+			<a href="/cell_phones/brand/25/model/3304/" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/SonyEricsson_W960i');">SonyEricsson W960i</a>
+		</dd>
+				<dt>Choose a language:</dt>
+		<dd>				
+						<a href="http://www.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/footer/language/us');">
+				<img src="http://content.mobango.com/images/flags/us.gif" title="English" class="scaledFlagImages">
+			</a>						
+						<a href="http://es.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/footer/language/es');">
+				<img src="http://content.mobango.com/images/flags/spain.gif" title="Español" class="scaledFlagImages">
+			</a>						
+						<a href="http://it.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/footer/language/it');">
+				<img src="http://content.mobango.com/images/flags/italy.gif" title="Italiano" class="scaledFlagImages">
+			</a>						
+						<a href="http://de.mobango.com?forceCountry=1" onclick="javascript:urchinTracker('/track/stats/links/footer/language/de');">
+				<img src="http://content.mobango.com/images/flags/germany.gif" title="Deutsch" class="scaledFlagImages">
+			</a>						
 						
-				<td width="10" height="22">
-				<img src="http://content.mobango.com/images/standard/btn_03.gif" width="10" height="22" alt=""></td>
-				</tr>
-		</tbody></table>
-</div>
-
-<div class="foot-mid">
- 
-<script language="Javascript" type="text/javascript">
-<!--
-
-function footcheck(adult)
-{
-	//document.keysrch.submit();
-	var search_url;
-	var key = document.getElementById('footkey').value;
-	if(adult == 1)
-		search_url = '/view/search.php?search=key&adult=1&key='+key;
-	else
-		search_url = '/view/search.php?search=key&key='+key;
-	//alert(search_url);
-	window.location.href=search_url;
-    return true;
-}
-function chkEnterfoot(e,adult){
-	if(e.keyCode == 13) {
-		if(adult==1)
-			footcheck(1);
-		else 
-			footcheck();
-	}
-}
--->
-</script>
-
-<a href="/ugc/Wallpapers/N1uNLEeRY4U=/">Free Wallpapers</a>&nbsp;|
-<a href="/ugc/Polyphonics/0j1K6M_zTT0=/">Free Ringtones</a>&nbsp;|
-<a href="/ugc/Video/Uiw3_ezZNEs=/">Free Mobile Videos</a>&nbsp;|
-<a href="/ugc/Software/V1k3mM!QKPI=/">Free Mobile Software</a>&nbsp;|
-<a href="/ugc/Games/hNlZNq4l4wU=/">Free Mobile Games</a>&nbsp;|
-<a href="/ugc/Photos/DxiHFfE6pV8=/">Free Mobile Photos</a>&nbsp;|
-<a href="/ugc/TrueTones/qjcdTtMc0!g=/">Free Mobile True Tones</a>&nbsp;|
-<a href="/ugc/Images/zf4pzI1jT4g=/">Free Mobile Images</a><br>
-
-<span style="color:#000000;">Mobile phone brands:</span>&nbsp;<a href="/cell_phones/brand/11/">Nokia</a>|
-<a href="/cell_phones/brand/14/">Motorola</a>&nbsp;|
-<a href="/cell_phones/brand/25/">SonyEricsson</a>&nbsp;|
-<a href="/cell_phones/brand/17/">Samsung</a>&nbsp;|
-<a href="/cell_phones/brand/19/">LG</a>&nbsp;|
-<a href="/cell_phones/brand/20/">Nec</a>&nbsp;|
-<a href="/cell_phones/brand/27/">Sanyo</a><br>
-<span style="color:#000000;">Most Popular:</span>&nbsp;<a href="/cell_phones/brand/11/model/772/">Nokia N70</a>&nbsp;|
-<a href="/cell_phones/brand/14/model/550/">Motorola Razr V3</a>&nbsp;|
-<a href="/cell_phones/brand/25/model/1603/">SonyEricsson K750i</a>&nbsp;|
-<a href="/cell_phones/brand/19/model/2172/">LG VX8600</a>&nbsp;|
-<a href="/cell_phones/brand/11/model/1026/">Nokia 6233</a>&nbsp;|
-<a href="/cell_phones/brand/25/model/650/">SonyEricsson K500</a>&nbsp;|
-<a href="/cell_phones/brand/27/model/2167/">Sanyo 6600</a>
-
+		</dd>
+			</dl>
 	
-
-
-<div style="align:center;margin:0 0 15px 0">
-<fieldset style="border:0px solid #CCCCCC;text-align:center;padding:5px 5px 5px 12px">
-
-<div style="margin:5px 0 0 0"></div>
-
-<a href="#" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone', 'delicious','toolbar=no,width=700,height=400');urchinTracker('/outbound/bookmark/del.icio.us');">
-<img src="http://content.mobango.com/images/standard/delicious.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a onclick="javascript:urchinTracker('/outbound/bookmark/digg');" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="http://content.mobango.com/images/standard/digg.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a onclick="javascript:urchinTracker('/outbound/bookmark/furl');" href="http://www.furl.net/storeIt.jsp?t=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;u=http%3A%2F%2Fwww.mobango.com/view/privacy.php">
-<img src="http://content.mobango.com/images/standard/furl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a onclick="javascript:urchinTracker('/outbound/bookmark/reddit');" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="http://content.mobango.com/images/standard/reddit.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a onclick="javascript:urchinTracker('/outbound/bookmark/spurl');" href="http://www.spurl.net/spurl.php?title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php">
-<img src="http://content.mobango.com/images/standard/spurl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a href="/rss/"><img src="http://content.mobango.com/images/standard/rss.gif" alt="Mobangorss" border="0"></a>
-<!-- end -->
-
-
-</fieldset>
-</div>
-
-<!--	bookmark added ends	David -->
-
-
-
- </div>
-<div class="lt-align">
-	<a href="/"><img src="http://content.mobango.com/images/standard/foot_logo.gif" alt="Mobango" border="0"></a><br>
-	<a href="/aboutus/">About us</a>&nbsp;|&nbsp;<a href="/privacy/">Privacy</a>&nbsp;|&nbsp;<a href="/terms_of_services.php">TOS</a>&nbsp;|&nbsp;<br><a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');">Blog</a>&nbsp;|&nbsp;<a href="/view/invitefriend.php" title="Invite Friends">Invite Friends</a><br>
-	© 2007 Mobango</div>
-
-	<br>
+	<div id="mobile-tools">
+		<h4>Mobile tools</h4>
+		<ul>
+			<li><a href="/view/toolsw.php">Tools &amp; software</a></li>
+			<li><a href="/cell_phones/">Cell phones</a></li>
+			<li><a href="/compatibility/">Compatibility </a></li>
+						<li>
+								<a href="http://wap.mobango.com">
+								Mobango Mobile Site
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	<div id="mobango-about">
+		<h4>Mobango</h4>
+		<ul>
+			<li><a href="/aboutus/">About us</a></li>
+			<li><a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');">Blog</a></li>
+			<li><a href="/privacy/">Privacy</a></li>
+			<li><a href="/terms_of_services.php">  Terms of service</a></li>
+		</ul>
+	</div>
 
 </div>
+<!-- FOOTER END -->
 
-<br clear="all">&nbsp;<img src="http://content.mobango.com/images/standard/blank.gif" alt="">
+
+
+
+<br clear="both">
+
+
+
+
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -364,4 +390,4 @@ urchinTracker();
 </script>
 
 
-</div></body></html>
+</body></html>
