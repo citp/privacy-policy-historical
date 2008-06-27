@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228122411id_/http%3A//www.mbayaq.org/sg/sg_policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627130849id_/http%3A//www.mbayaq.org/sg/sg_policies.asp) for the most accurate reproduction.*
 
 # Monterey Bay Aquarium: About Us - Web Site Info - Privacy Policy
 
@@ -9,19 +9,25 @@
 
 
 Regular Hours  
-10 a.m.-6 p.m. Daily  
-Closed Dec. 25  
+10 a.m.–6 p.m. Daily  
+Closed Dec. 25 
 
+Summer (May 26–Sept. 1)  
+9:30 a.m.–6 p.m. 
+
+Summer Weekends  
+(July 5–Sept. 1) Sat. & Sun.  
+9:30 a.m.–8:00 p.m. 
 
 Holidays  
-9:30 a.m.-6 p.m. 
+9:30 a.m.–6 p.m. 
 
   
 
 
-EMAIL NEWSLETTER
+E-MAIL NEWSLETTER
 
-Stay connected by signing up for our email newsletter. Example
+Stay connected by signing up for our e-mail newsletter. Example
 
 |  The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
 
