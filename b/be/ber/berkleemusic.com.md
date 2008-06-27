@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217063527id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627204255id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
 
 # Berkleemusic - Privacy Policy
 
@@ -64,4 +64,11 @@ Consistent with the Children's Online Privacy Protection Act ("COPPA"), Berklee 
 
 ## CONTACTING THE WEB SITE
 
-If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact service@berkleemusic.com.
+If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact service@berkleemusic.com or by mail:
+
+Berklee Media  
+Berklee College of Music  
+1140 Boylston Street  
+MS 855  
+Boston, MA 02215-3693  
+
