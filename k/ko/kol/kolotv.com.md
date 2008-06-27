@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229151745id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627181519id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
 
 # KOLO | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -141,6 +141,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-This Privacy Policy was last updated on Jan. 1, 2007 and is effective immediately.
+This Privacy Policy was last updated on Jan. 8, 2008 and is effective immediately.
 
-Copyright © 2007 Gray Television Group, Inc. All rights reserved.
+Copyright © 2008 Gray Television Group, Inc. All rights reserved.
