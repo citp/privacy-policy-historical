@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222085101id_/http%3A//www.wedj.com/dj-photo-video.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627232510id_/http%3A//www.wedj.com/dj-photo-video.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
 
 # WeDJ.com Privacy Policy
 
@@ -71,7 +71,8 @@ To protect your privacy and security, we will also take reasonable steps to veri
 To contact us, regarding any privacy concerns, you can reach us at:  
   
 WeDJ.com  
-717 W. Windom Suite C   
-Peoria, IL 61606 USA   
+Associated Bank Tower  
+411 Hamilton Blvd Suite 1820   
+Peoria, IL 61602 USA   
 email: support@wedj.com  
-phone: 309.494.9858
+phone: 309.740.1808
