@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224182736id_/http%3A//discovermagazine.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627153040id_/http%3A//discovermagazine.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DISCOVER Magazine
 
