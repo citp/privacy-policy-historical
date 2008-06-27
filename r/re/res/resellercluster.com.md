@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellercluster.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084139id_/http%3A//www.resellercluster.com/hosting_reseller_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellercluster.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031120id_/http%3A//www.resellercluster.com/hosting_reseller_privacy_policy.html) for the most accurate reproduction.*
 
 # ResellerCluster
 
