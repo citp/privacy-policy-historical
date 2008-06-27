@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164327id_/http%3A//www.edinburghairport.com/portal/page/EDI%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627134042id_/http%3A//www.edinburghairport.com/portal/page/EDI%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
-# BAA Edinburgh: Privacy Statement
+# BAA Edinburgh: Privacy statement
 
 Please read carefully
 
 1.Introduction  
-BAA Limited and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+BAA Limited and its group companies ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
 
 2\. The information we collect through the Website and the way we use it  
 If you give us your personal details when you use the Website, we will inform you of the uses we make of that information at the time we collect it from you.
