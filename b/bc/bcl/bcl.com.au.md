@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045819id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627130643id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
 
 # BCL - Privacy Policy
 
@@ -28,14 +28,18 @@ We do not receive the names of people who book hotels or buy from online shops t
 
 ##  BCL  \- Email newsletter
 
-The only information required to receive the BCL email newsletter is a valid email address. We do not sell, share or give our mailing list to any other party. All newsletters include details on how to unsubscribe from the newsletter. From October 2006, we will be using an impressive new mailing service which will provide better newsletters and additional information about how you read them. We aim to use this information to improve the service - give you more of what you are interested in and stop boring you with what you aren't interested in.  The information provided is listed below. You can use the same methods to avoid passing information on with many other newsletters.
+The only information required to receive the BCL email newsletter is a valid email address. We do not sell, share or give our mailing list to any other party. All newsletters include details on how to unsubscribe from the newsletter. 
 
-  * **if you open the newsletter.** If you don't want us to know, just keep your email program set so that it doesn't load images automatically and don't load the image at the bottom of the newsletter. 
+From October 2006, we will be using an impressive new mailing service which will provide better newsletters and additional information about how you read them. We aim to use this information to improve the service - give you more of what you are interested in and stop boring you with what you aren't interested in. 
+
+It will tell us if you open the newsletter and what links you click on. You can avoid passing this information using the steps below. (You can do this with other emails and newsletters too.)
+
+  * **if you open the newsletter.** If you don't want us to know, just keep your email program set so that it doesn't load images automatically. 
   * **if you forward the newsletter to a friend.** If you don't want us to know, just use standard email forwarding.
-  * **if you click on a link.** If you don't want us to know, don't click on a link. When you see the newsletter come in, instead of reading the email, go to the website at <http://www.bcl.com.au/newsletter.htm> and read it there instead. It will be posted online
+  * **if you click on a link.** If you don't want us to know, don't click on a link. We provide the URLS (web addresses) in the newsletter so you can copy and paste them into your browser. 
 
 
 
 ##  Questions
 
-Please [contact the editor](https://web.archive.org/web/20071229045819id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
+Please [contact the editor](https://web.archive.org/web/20080627130643id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
