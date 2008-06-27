@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matadortravel.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105103id_/http%3A//matadortravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matadortravel.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627160148id_/http%3A//matadortravel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Matador
 
@@ -42,4 +42,4 @@ MatadorTravel is intended solely for use by persons 16 years of age or older. Al
 
 **Notification of Changes**
 
-This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. 
+This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy.
