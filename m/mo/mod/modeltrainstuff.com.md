@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021716id_/http%3A//www.modeltrainstuff.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627062559id_/http%3A//www.modeltrainstuff.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Model Train Stuff Featuring Exclusive Model Trains and accessories at Discount Prices
+# Model Train Stuff - Model Trains and Model Railroad Accessories
 
-**Privacy Policy**
+modeltrainstuff.com privacy policy  
 
-What information do we collect?
+
+* * *
+
+What information do we collect?  
+
 
   * We collect information from you when you register on the site, place an order, or participate in another site feature.
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
@@ -50,7 +54,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on February 2, 2007.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on January 14, 2008.
 
 Questions and feedback
 
@@ -62,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071229021716id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080627062559id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
