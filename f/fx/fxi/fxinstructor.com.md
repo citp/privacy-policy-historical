@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxinstructor.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229004741id_/http%3A//www.fxinstructor.com/eng/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxinstructor.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627030958id_/http%3A//www.fxinstructor.com/eng/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Live Forex Trading Education: We Trade. You Learn.
+# Privacy Policy - Forex Education, Technical Analysis, Trading Strategies
 
 | 
 
