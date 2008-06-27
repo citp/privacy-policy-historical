@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeretailrewards.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218054913id_/http%3A//members.freeretailrewards.com/Info/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeretailrewards.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627022502id_/http%3A//members.freeretailrewards.com/Info/pp) for the most accurate reproduction.*
 
 # Info
 
