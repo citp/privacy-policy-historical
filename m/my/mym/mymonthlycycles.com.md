@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092408id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031037id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MyMonthlyCycles Privacy Policy
 
@@ -7,7 +7,7 @@ We understand that you value your privacy, and Binfinity Web, Inc., the owner an
 Binfinity Web, Inc. may update its MyMonthlyCycles.com privacy policy at any time. If there is a significant change to how we handle personal information, we will send you a notice to the primary email account you have specified in your MyMonthlyCycles.com account. You should also check this policy periodically to see if there are any changes. If our Privacy Policy does change, your continued use of the site will be deemed your acceptance of our changed Privacy Policy. 
 
 **Terms of Service**  
-Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20071229092408id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
+Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20080627031037id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
 
 **What Personal Information we collect**  
 Information you provide to us: MyMonthlyCycles.com collects personal information about you when you register to become a site member, subsequently change your account information, or interact with our site to use the software services available on the site.
@@ -59,6 +59,10 @@ We will share information about you if i) it is necessary to comply with the law
   * MyMonthlyCycles.com reserves the right to automatically send you email communications relating to the MyMonthlyCycles.com service and administration, policy changes, or your account without offering you an opt-out of receiving such notices. 
 
 
+
+**Member Content Submissions to Public Areas**
+
+As part of the MyMonthlyCycles service, we provide forums where visitors can post messages, as well as a chart room service for sharing charts that other visitors can view and, if opted for by the chart owner, post comments. Examples are the BBT Chart Room and CycleViews. Forums and chart rooms are open to the public, and therefore any visitor can view, including any profile information that you have chosen to share in these public areas. Also be aware that other third parties, including Search Engines, can view and index these public pages. You are solely responsible for protecting your privacy when you opt to post in public areas on MyMonthlyCycles and should be extremely careful about what personally identifiable information you choose to reveal about yourself. You agree that bInfinity is not responsible for any information you choose to disclose in public areas on MyMonthlyCycles. 
 
 **What this Policy Does Not Cover**   
 It is our goal to provide you with a useful service, to provide privacy as set forth above in this document, as well as provide information and advertising that may be of use to you. Please keep in mind that we may present links and advertisements on our website and in our emails that link to other websites that are not affiliated with MyMonthlyCycles.com. Such websites may collect personal information from you. MyMonthlyCycles.com's privacy policy does not cover the policies set forth by other websites in terms of how they collect information or how they use your personal information. If you link to other sites from the MyMonthlyCycles.com site, you should make sure to read the privacy policies of these sites, as their privacy policies may differ from those of MyMonthlyCycles.com. 
