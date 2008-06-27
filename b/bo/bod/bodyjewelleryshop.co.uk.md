@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021715id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627125434id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
@@ -70,6 +70,6 @@ About Body Jewellery Shop
 
 Jewellery Essentials
 
-[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](https://web.archive.org/about_BJS/catalogue/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.imrg.org/IDIS) [](http://www.bodyjewelleryshop.com/online_store/piercing_tools_426.cfm)  
-[](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/flesh_tunnels_flesh_plugs.cfm)  
-[](https://web.archive.org/about_BJS/shipping_information/index.cfm) [](http://www.crystalage.com/)[](http://www.scentedcandleshop.com/)
+[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.imrg.org/IDIS) [](http://www.bodyjewelleryshop.com/online_store/blackline_139.cfm)  
+[](http://www.bodyjewelleryshop.com/online_store/ikon_plugs_425.cfm)  
+[](http://www.crystalage.com/)[](http://www.scentedcandleshop.com/)
