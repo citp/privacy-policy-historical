@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230033830id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627114826id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - ZipRealty Real Estate
-
-**_Privacy_**
 
 **ZipRealty's Privacy Policy**
 
@@ -11,6 +9,8 @@ Last updated: 12/17/06
   * **We do not sell information about you to others.**
   * **We protect the security and confidentiality of information about you.**
   * **We share information outside of our company only when necessary to administer products or services we or our subsidiaries may provide, when we have your permission, when required by law, or as otherwise described in this Privacy Policy.**
+
+
 
 This Privacy Policy describes how we handle your personal information for our services available through [www.ZipRealty.com](http://www.ziprealty.com/) (the "Site"). By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective beginning 30 days after first posted on the Site. 
 
@@ -40,6 +40,8 @@ You will be asked to provide personally identifiable information at various plac
   * **email** — Throughout your use of the Site, you will communicate extensively with our Agents and other staff. We will use your email address and all of the information you submit in order to provide you with guidance, suggestions and service in your efforts to sell your existing home or in your search for a new home. 
   * **Contact Us** — We collect an email address in order to respond to your questions or suggestions. 
   * **Off-line Discussions and Meetings** — If you choose to interact with one of our Agents, we may collect information in the course of helping you buy or sell property. The purchase or sale of real estate is a complex transaction and requires a considerable amount of information. 
+
+
 
 Please note that our Site is a general audience web site. If you are under the age of 13 you should not register or provide information on this Site. We do not collect personal information from any person we actually know is a child under the age of 13. 
 
