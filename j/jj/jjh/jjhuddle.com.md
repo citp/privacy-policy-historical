@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231230137id_/http%3A//www.jjhuddle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628212303id_/http%3A//jjhuddle.com/privacypolicy) for the most accurate reproduction.*
 
 # JJHuddle's Ohio High - Ohio High School Sports Stuff
 
