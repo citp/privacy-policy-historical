@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201212807id_/http%3A//www.susquehanna.net/misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628213838id_/http%3A//www.susquehanna.net/misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Susquehanna > About Us > Privacy
 
-Susquehanna Bancshares, Inc., is a family of member companies and related financial businesses that includes:  **Susquehanna Bank,**  Hagerstown, MD;  **Susquehanna Bank PA** , Lititz, PA; and **Susquehanna Bank DV** , Marlton, NJ. This notice relates to these companies. 
+Susquehanna Bancshares, Inc., is a family of member companies and related financial businesses that includes:  **Susquehanna Bank,**  Hagerstown, MD;  **Susquehanna Bank PA** , Lititz, PA; and **Susquehanna Bank DV** , Bryn Mawr, PA. This notice relates to these companies. 
 
 We believe that protecting the privacy and confidentiality of your personal information is very important. We value your business and the trust you have placed in us. 
 
@@ -17,6 +17,7 @@ Should you no longer be our customer, or if your accounts with us become inactiv
   * Information Sharing Within Our Corporate Family
   * Former Customers
   * How We Protect Your Information
+  * Changes
   * Opt-Out Selection Form
   * Internet Privacy Notice
 
@@ -62,7 +63,10 @@ All of the practices described in this notice apply to former customers as well.
 **How We Protect Your Information**   
 We have strict policies and procedures to safeguard your privacy. Some of these measures involve technology that is required to maintain data security. Some are more traditional and include such things as training employees about the importance of confidentiality and customer privacy and of limiting access to certain information on a need-to-know business basis. We review and update our practices as needed to maintain security.
 
-**pt-Out Selection Form**   
+**Changes**   
+We may amend this privacy notice at any time, and we will inform you of changes as required by law. 
+
+**Opt-Out Selection Form**   
 You may instruct us not to share your Credit Report Information within our corporate family for marketing purposes. If you make this choice, then you must complete our opt-out form, print it and send it in a stamped envlope to:
 
 Susquehanna Bancshares, Inc.  
@@ -71,7 +75,7 @@ P.O. Box 1000
 26 North Cedar Street  
 Lititz, PA 17543
 
-_If you already have notified us about your privacy choice, then you do not need to so again. Your previous notice to us will continued to be honored._
+_If you already have notified us about your privacy choice, then you do not need to do so again. Your previous notice to us will continued to be honored._
 
 Download [Opt-Out Selection Form](http://www.susquehanna.net/misc/optOut.pdf)  (Fill it out online, then print.)   
 If Adobe Reader is not installed on your PC, a free download is available through Adobe's Web site.
