@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229081732id_/http%3A//www.academy.com/index.php%3Fpage%3Dcontent%26target%3Dcompany/privacy_policy%26lnkSRC%3DSLfromFOOTER) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629011741id_/http%3A//www.academy.com/index.php%3Fpage%3Dcontent%26target%3Dcompany/privacy_policy%26lnkSRC%3DSLfromFOOTER) for the most accurate reproduction.*
 
 # Academy Sports & Outdoors Privacy Policy
 
