@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212090128id_/http%3A//www.columbus.gov/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628142615id_/http%3A//columbus.gov/privacy_policy.asp) for the most accurate reproduction.*
 
 # City of Columbus: Privacy Policy
 
