@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221104708id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628054433id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy « Free Games Downloads on GameXtazy.com
+# Privacy Policy
 
 GameXtazy.com is committed to protecting your privacy rights online. We are also dedicated to providing you with the best possible online gaming experience. In order to do this, we request certain information about you that helps us customize our content to your tastes and interests. Please read the following policy to better understand how your information will be treated and utilized as you make full use of GameXtazy.com. This policy may change from time-to-time. So, please check back periodically. 
 
