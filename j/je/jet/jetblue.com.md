@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215031731id_/http%3A//www.jetblue.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628174610id_/http%3A//www.jetblue.com/about/privacy.html) for the most accurate reproduction.*
 
-# JetBlue:Your Privacy
+# JetBlue | Your Privacy
 
 At JetBlue Airways, we respect your privacy. That is why we would like you to know how we protect the privacy and security of the information collected online on jetblue.com websites. Please take a moment to read the following questions and answers, which describe our online privacy and security practices in more detail. By visiting this website, you agree to these practices. 
 
@@ -47,7 +47,7 @@ JetBlue is a general audience site and does not knowingly collect personally ide
 > JetBlue Airways Corporation  
 >  Att'n: Customer Relations  
 >  P.O. Box 17435  
->  Salt Lake City, UT 84117-0435 
+>  Salt Lake City, UT 84117-0435
 
 Or by calling 1-801-365-2470 if they would like this information deleted from our records. 
 
@@ -64,7 +64,7 @@ You can access and edit any of the personally identifiable information you've pr
 > JetBlue Airways Corporation  
 >  Att'n: Customer Relations  
 >  P.O. Box 17435  
->  Salt Lake City, UT 84117-0435 
+>  Salt Lake City, UT 84117-0435
 
 Or by calling 1-801-365-2470. 
 
