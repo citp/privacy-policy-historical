@@ -1,132 +1,83 @@
-<!--The following is the downloaded HTML source of the genieknows.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225202013id_/http%3A//www.genieknows.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genieknows.com privacy policy that was archived on 2008-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628141050id_/http%3A//www.genieknows.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>GenieKnows.com Privacy Policy | GenieKnows.com</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
-<link rel="alternate" type="application/rss+xml" title="Press Releases" href="/press/feed">
-
-	<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+	<title>GenieKnows.com Privacy Policy | GenieKnows.com</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/themes/abac/favicon.ico" type="image/x-icon">
+		<style type="text/css" media="all">@import "/modules/node/node.css";</style>
 <style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
 <style type="text/css" media="all">@import "/modules/system/system.css";</style>
 <style type="text/css" media="all">@import "/modules/user/user.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/cck/fieldgroup.css";</style>
-<style type="text/css" media="all">@import "/themes/genieknows/style.css";</style>
-		<style type="text/css" media="all">@import "/themes/genieknows/genieknows_style.css";</style>
-	<style type="text/css" media="print">@import "/themes/genieknows/print.css";</style>
-  </head>
+<style type="text/css" media="all">@import "/themes/abac/style.css";</style>
+		<script src="/scripts/urchin/urchin.js" type="text/javascript"></script>
+				<style type="text/css" media="print">@import "/themes/abac/print.css";</style>
+</head>
+<body>
+<div class="main">
+	<div class="push">
 
-<body class="sidebar-left">
+	<div class="header">
+	<div class="logo"><a href="/sms" title=""><img src="/themes/abac/logo.png" alt="" id="logo"></a>				
+	  </div>
 
-  <div id="header-region" class="clear-block"></div>
-
-    <div id="wrapper">
-
-	<div id="header">
-
-<!-- SEARCH FORM -->
-<script language="javascript">
-function doSearch(){
-	var theForm = document.getElementById( 'landingSearch' );
-	var theCorpus = theForm.elements['corpus'].value;
-	var theQuery = theForm.elements['query'].value;
-	theForm.elements['keys'].value = theQuery;
-	theForm.elements['keywords'].value = theQuery;
-	if (theQuery != '') {
-	if ( theCorpus == 'games' ) {
-		theForm.action = 'http://games.genieknows.com/search';
-		theForm.submit();
-	} else if ( theCorpus == 'health' ) {
-		theForm.action = 'http://health.genieknows.com/search';
-		theForm.submit();
-	} else if ( theCorpus == 'local' ) {
-		theForm.action = 'http://local.genieknows.com/fcgi-bin/parser_flow';
-		theForm.submit();
-	} else if ( theCorpus == 'PPC' ) {
-		theForm.action = 'http://www.genieknows.com/search_ppc';
-		theForm.submit();
-    } else {
-	  theForm.submit();
-	}}
-	return true;
-}
-</script>
-
-<div id="gk-search">
-   <form id="landingSearch" action="/search/node" method="get" onsubmit="doSearch(); return false;">
-	  <input type="hidden" name="keys" value="">
-	  <input type="hidden" name="keywords" value="">
-	  <input type="text" name="query" value="" maxlength="256" size="36">
-	  <select name="corpus">
-	  <option value="PPC">PPC</option>
-	  <option value="website">website</option>
-	  <option value="games">games</option>
-	  <option value="health">health</option>
-	  <option value="local">local</option>
-	  </select>
-	  <input name="go" type="button" value="go" onclick="doSearch(); return true;">
-   </form>
-</div>
-
-	  </div><!-- /header -->
-	  
-	  <div id="left">
-	  
-        <div id="logo">
-		 
-	<a href="http://www.genieknows.com" title="www.GenieKnows.com"><img src="/themes/genieknows/images/goHome.gif"></a>
+	  <div class="search-box">
+            <!-- SEARCH FORM -->
+			<script language="javascript">
+			function doSearch(){
+			var theForm = document.getElementById( 'search-theme-form' );
+			var theQuery = theForm.elements['query'].value;
+			theForm.elements['keys'].value = theQuery;
+			theForm.elements['keywords'].value = theQuery;
+			theForm.action = 'http://www.genieknows.com/search_ppc';
+			theForm.submit();
+			return true;
+			}
+			</script>
 	
-                </div><!-- /logo -->
+			<div class="tab"><span class="open"><span class="close">Pay Per Click</span></span></div>
+            <form action="/search/node" method="get" onsubmit="doSearch(); return false;" id="search-theme-form">
+                <div>
+                    <input type="text" maxlength="128" name="query" id="edit-search-theme-form-keys" value="">
+					<input type="button" value="Search PPC" id="edit-search-theme-form-submit" onclick="doSearch(); return true;">
+					<input type="hidden" name="keys" value="">
+	  				<input type="hidden" name="keywords" value="">
+                </div>
+            </form>
+	  </div>
+	  <ul class="links">
+		
+						
+	  	<li><a href="mailto:feedback@genieknows.com">Feedback</a></li>
+	  	<li><a href="http://www.genieknows.com/about">About</a></li>
+	  	<li class="last"><a href="http://www.genieknows.com/contact">Contact</a></li>
+	  </ul>
+		<div class="welcome"><h1><a href="/" title="GenieKnows.com"><span>GenieKnows.com</span></a></h1>			
+			<p>
+</p>
+		</div>
+	</div>
 
-              <div id="nav">
-                    <div id="block-user-1" class="clear-block block block-user">
-
-
-  <div class="content">
-<ul class="menu">
-<li class="collapsed"><a href="/advertising" title="Genieknows.com pay per click advertising">Advertising</a></li>
-<li class="collapsed"><a href="/publishing" title="GenieKnows.com Publishing Partnerships">Publishing</a></li>
-<li class="collapsed"><a href="/About">About Us</a></li>
-<li class="leaf"><a href="/contact" title="Get in touch with the GenieKnows.com team">Contact Us</a></li>
-<li class="leaf"><a href="/genie_blog" title="say hi to the team!">Genie Blog</a></li>
-<li class="leaf"><a href="/press">Press Releases</a></li>
-<li class="leaf"><a href="/jobs" title="Openings, Culture, Diversity, Growth">Careers</a></li>
-
-</ul>
-</div>
-</div>
-<div id="block-views-New_Press" class="clear-block block block-views">
-
-  <h2>Latest News</h2>
-
-  <div class="content"><div class="view view-New-Press"><div class="view-content view-content-New-Press"><div class="item-list"><ul><li><div class="view-item view-item-New-Press"><div class="view-field view-data-node-created">06.12.07</div><div class="view-field view-data-node-title"><a href="/node/82">GenieKnows.com expands operations by adding key staff.</a></div></div>
-</li><li><div class="view-item view-item-New-Press"><div class="view-field view-data-node-created">10.10.07</div><div class="view-field view-data-node-title"><a href="/node/80">GenieKnows.com games search engine gets tune-up with version 1.1</a></div></div>
-</li><li><div class="view-item view-item-New-Press"><div class="view-field view-data-node-created">21.08.07</div><div class="view-field view-data-node-title"><a href="/node/69">A search engine for gamers developed by gamers</a></div></div>
-</li></ul></div></div><div class="more-link"><a href="/press">more</a></div></div>
-</div>
-</div>
-        </div><!-- /nav -->
-      
-	  <div id="support">
-        <p>Call: +902.431.4847</p>
-      </div><!-- /support -->
-	  	  
-	  </div><!-- /left -->
-      <div id="right">
-
-		  <div class="breadcrumb"></div>		  
-                    			
-		  <h1>GenieKnows.com Privacy Policy</h1>			
-        
-		  
-                    		  
-          
+	<div class="tabs">
+						<ul class="links primary-links"><li class="first menu-1-1-2"><a href="/sms/gka" title="we've got everything you need to see excellent results from your advertising." class="menu-1-1-2">for advertisers</a></li>
+<li class="menu-1-2-2"><a href="/sms/gkp" title="discover a fast and easy way to earn movie displaying relevant and unobstrusive ads on your website" class="menu-1-2-2">for website owners</a></li>
+<li class="last menu-1-3-2"><a href="/sms/gkl" title="get found by the thousands of people searching for your local business everyday." class="menu-1-3-2">for local business owners</a></li>
+</ul>				</div>
+	
+		<div class="breadcrumb"><p><a href="http://www.genieknows.com">Home</a> » GenieKnows.com Privacy Policy</p></div> 
+	
+	<div class="cont">
+		<div class="center ">			
+									
+			<h1>GenieKnows.com Privacy Policy</h1>				
+															
 <div id="node-41" class="node">
 
 
-
+    
+  
   
   <div class="content">
     <h3>
@@ -190,35 +141,22 @@ We also use cookies to analyze how visitors, in the aggregate, use our website, 
         </div>
 
       </div>
+  
+</div>		</div>
+					
+	</div>
+</div><!-- close push -->
+	
+	<div class="footer">
+	
+	
+			
+			</div>
+	<div class="footer_links">
+		<a href="http://www.genieknows.com">GenieKnows</a> - <a href="http://www.genieknows.co.uk">GenieKnows UK</a>  · <a href="http://www.genieknows.com/press">Press Releases</a> · <a href="http://www.genieknows.com/sms">Search Marketing Solutions</a> · <a href="http://www.genieknows.com/about">About Us</a> · <a href="http://www.genieknows.com/contact">Contact Us</a> · <a href="http://www.genieknows.com/privacy">Privacy Statement</a> · <a href="http://www.genieknows.com/tos">Terms of Service</a> · <a href="http://www.genieknows.com/copyright">©2008 GenieKnows.com</a>
+	</div>
+	
+</div>
 
-</div>          <span class="clear"></span>
-          <a href="/press/feed" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"></a>   
-	  </div><!-- /right --> 
 
-    <div class="clear"> </div>
-    <div id="spacer"> </div>
-
-<div id="footer">
-
-
-	<!-- <div id="copyright"> -->
-   		<a href="http://www.genieknows.com/copyright" class="siteMap">©2007 Genieknows.com</a> ·
-	<!-- </div> -->   
-   
-   <a href="http://www.genieknows.com/tos" class="siteMap">Terms of Service</a> ·
-   <a href="http://www.genieknows.com/feedback" class="siteMap">Feedback</a> ·
-   <a href="http://www.genieknows.com/About" class="siteMap">About GenieKnows</a> ·
-   <a href="http://www.genieknows.com/privacy" class="siteMap">Privacy Statement</a> ·
-   <a href="http://www.genieknows.com/contact" class="siteMap">Contact Us</a>
-   <p>
-   GenieKnows International -
-   <a href="http://www.genieknows.co.uk" class="siteMap"><img src="http://www.genieknows.com/images/uk-flag.gif" alt="UK" title="genieknows.co.uk" border="0" align="middle" width="25" height="18" class="siteMap"></a>
-   <a href="http://www.genieknows.com" class="siteMap"><img src="http://www.genieknows.com/images/usa-flag.gif" alt="USA" title="genieknows.com" border="0" align="middle" width="26" height="18" class="siteMap"></a>
-   </p>
-   <div id="footerline"></div>
-</div><!-- /footer -->
-
-  </div><!-- /wrapper -->
-
-    
 </body></html>
