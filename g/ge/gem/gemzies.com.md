@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gemzies.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211225902id_/http%3A//gemzies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemzies.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628155033id_/http%3A//gemzies.com/privacy) for the most accurate reproduction.*
 
-# Gemzies (Alpha)
+# Gemzies
 
 Privacy Policy
 
@@ -45,7 +45,7 @@ Gemzies by its nature includes links to many different web sites. We are not res
 
 ** How to contact us**
 
-If you have any questions about this Privacy Policy or our data processing activities, you can contact us via email using: [ info@gemzies.com](mailto:info@gemzies.com). 
+If you have any questions about this Privacy Policy or our data processing activities, you can contact us via email using: [ feedback@gemzies.com](mailto:feedback@gemzies.com). 
 
 ** Amendments to this Privacy Policy**
 
