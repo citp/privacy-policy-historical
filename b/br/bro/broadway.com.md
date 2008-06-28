@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229235724id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628095113id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,6 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 Broadway.com, Inc.   
-1650 Broadway   
-Ninth Floor   
+729 7th Avenue, 6th Floor   
 New York, NY 10019   
 or email us at [info@broadway.com](mailto:info@broadway.com)
