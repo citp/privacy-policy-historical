@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225214557id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628135011id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scripps Networks : Privacy Policy
-
-Privacy Policy
 
 At Scripps Networks, Inc. (“SNI” or “we”), we are committed to protecting the online privacy of visitors to our websites, including [ www.scrippsnetworks.com](http://www.scrippsnetworks.com/), [www.HGTV.com](http://www.hgtv.com/) , [www.FoodNetwork.com](http://www.foodnetwork.com/), [ www.DIYNetwork.com](http://www.diynetwork.com/), [www.FineLiving.com](http://www.fineliving.com/), and [www.GACTV.com](http://www.gactv.com/). This Privacy Policy (also referred to here as the “Policy”) applies only to the websites and online services provided by SNI. This Policy does not cover any interaction you may have with Scripps Networks, Inc. by telephone, postal mail, or other offline communications. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our websites, how we may use that information, and how we disclose it to third parties. 
 
