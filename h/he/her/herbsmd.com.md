@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228020852id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628185220id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
 
 # HerbsMD - Herbal Privacy Policy
 
@@ -10,13 +10,13 @@ The privacy practices of this statement apply to our services available under th
 
 The HerbsMD Privacy Policy discloses our privacy practices and contains detailed information about the following:
 
-  1. [What information of yours does the HerbsMD collect?](http://www.herbsmd.com/#1)
-  2. [What organization is collecting the information?](http://www.herbsmd.com/#2)
-  3. [What are "cookies" and how does HerbsMD use them?](http://www.herbsmd.com/#3)
-  4. [How can you access or edit your information?](http://www.herbsmd.com/#4)
-  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.herbsmd.com/#5)
+  1. [What information of yours does the HerbsMD collect?](http://www.herbsmd.com/privacy.asp#1)
+  2. [What organization is collecting the information?](http://www.herbsmd.com/privacy.asp#2)
+  3. [What are "cookies" and how does HerbsMD use them?](http://www.herbsmd.com/privacy.asp#3)
+  4. [How can you access or edit your information?](http://www.herbsmd.com/privacy.asp#4)
+  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.herbsmd.com/privacy.asp#5)
   6. [Notice  
-](http://www.herbsmd.com/#7)
+](http://www.herbsmd.com/privacy.asp#6)
 
 
 
@@ -45,7 +45,7 @@ HerbsMD provides registered users a complete personalized panel. This personaliz
 **5\. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?**  
 HerbsMD uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers.
 
-**7\. Notice**  
+**6\. Notice**  
 We may amend this Privacy Policy at any time by posting the amend terms on our site. All amended terms shall automatically be effective 30 days after they are initially posted on our site. In addition, we will notify you in accordance with your Notification Preferences.
 
 **Last updated:** Monday October 28, 2002
