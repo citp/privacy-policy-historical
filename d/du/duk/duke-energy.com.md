@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102001624id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628140859id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Duke Energy
 
@@ -53,7 +53,8 @@ Duke Energy does not sell the personally identifiable information you provide fo
   3. Making such information available to third parties who are providing the product, service or information that you have requested (but never your password); 
   4. Making such information available to third parties who are providing services to Duke Energy or its subsidiaries or affiliates (e.g., providing such information to third parties performing computer-related services for Duke Energy or its affiliates (but never your password)); 
   5. We form a good-faith belief that disclosure of such information is necessary to investigate, prevent, or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use; or 
-  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order. 
+  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order.
+  7. Information may be shared with a third party only for debt collection purposes in the event of account default.
 
 
 
