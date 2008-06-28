@@ -1,11 +1,27 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233213id_/http%3A//www.bluebottle.com./privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628170725id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
-# Bluebottle Spam-Free Email: Privacy
+# Bluebottle Email: Privacy
+
+[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
+
+"Thanks for your excellent service, and I recommend to everyone the Bluebottle experience." - **_Sebastian N_**
+
+"I can count many email providers who have promised many juicy things and could not fulfill them at all. I can confirm that Bluebottle is different and will remain different... keep up the good job." - **Oyeniyi B,** _May 2006_
+
+"Thank you for the great product you provide!" - **_James P_**
+
+"I see that you've responded to your customers ideas with great services. I would like to thank you for these improvements." - _**Murat S**_
+
+"In the BlueBottle fan list, I am on the top."- **_Ratn R_**
+
+##  Bluebottle - the Only Anti-Spam solution you will ever need
+
 
 **1** | **PRIVACY POLICY**  
+---|---  
 | This Privacy Policy: 
 
-  1. discloses the privacy practices for the websites located at [www.bluebottle.com ](http://www.bluebottle.com/) and [mail.bluebottle.com ](http://mail.bluebottle.com/) (together, the **Website** ), solely owned and operated by trusted Delivery Pty Ltd ( **we** , the **Company** , or **us** ); and 
+  1. discloses the privacy practices for the websites located at [www.bluebottle.com ](http://www.bluebottle.com/) and [mail.bluebottle.com ](http://mail.bluebottle.com/) (together, the **Website** ), solely operated by Bluebottle Solutions Pty Ltd ( **we** , the **Company** , or **us** ); and 
   2. sets out matters relating to the collection, use, disclosure and storage by us of personal information relating to our customers (the **Customer** or **you** ). 
 
   
@@ -73,7 +89,6 @@
 | If you have any queries in relation to this Privacy Policy, if you would like more details of what sort of personal information we hold, or if you would like to request access to your personal information or have a complaint about a breach of privacy, then you should contact us as follows:   
 | Web Administrator   
 Email : [support@bluebottle.com ](mailto:support@bluebottle.com)  
-Phone (International) : +61 3 9642 0449   
-Fax (International) : +61 3 9642 4225   
+Telephone (International) : 61 421 511 933  
 **14** | **CHANGES TO THIS POLICY**  
 ****|  We reserve the right to change this Privacy Policy at any time. Changes are effective once they are posted on the Website. You should periodically visit this page to review the current terms of this Privacy Policy. 
