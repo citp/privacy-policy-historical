@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the limogesjewelry.com privacy policy that was archived on 2007-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071202211129id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the limogesjewelry.com privacy policy that was archived on 2008-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628025526id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 	var varservername="http://www.limogesjewelry.com/";
@@ -28,6 +28,86 @@ function launch(newURL, newName, newFeatures, orgName) {
   var remote = open(newURL, newName, newFeatures);
   if (remote.opener == null)
       remote.opener = window;  remote.opener.name = orgName;  return remote;}
+	  
+<!--
+///////////////////////////////////////////////////////////////////////////
+//     This script was designed by plx Web Studio  //
+//                                                                                             //
+//     For more info: http://plxwebdev.com                  //
+//     Contact Email: admin@plxwebdev.com          //
+/////////////////////////////////////////////////////////////////////////
+
+
+		var desitnayionurl = 'http://www.limogesjewelry.com/winback_pop.asp'; //the page loaded in the popup window or in the floating layer
+		var usefarewellpop = 1; // 0=no; 1=yes
+
+
+		var usepopup = 1; // 0=no; 1=yes
+		var popup_one_time = 1; // Load new PopUp only once per browser session? (0=no, 1=yes);
+		var popup_timed = 5; // timed popup in seconds; use 0 to pop on load
+		// Specify the width and height of new popup window (in pixels).
+		var popup_width = '420';
+		var popup_height = '255';
+		// set any of these appearance settings as you wish
+		var popup_props = 'scrollbars=no,resizable=no,toolbar=no,' +
+		'menubar=no,status=no,location=no,left=0,top=0,height=' +
+		popup_height + ',width=' + popup_width;
+
+		function get_cookie(Name) {
+   		// set expiration date to 1 month
+   		var exp = new Date()
+   		var oneMonthFromNow = exp.getTime() + (30 * 24 * 60 * 60 * 1000)
+   		exp.setTime(oneMonthFromNow)
+			var search = Name + "="
+			var returnvalue = "";
+			if (document.cookie.length > 0) {
+				offset = document.cookie.indexOf(search)
+				if (offset != -1) { // if the cookie exists
+					offset += search.length
+					end = document.cookie.indexOf(";", offset);
+				if (end == -1)
+					end = document.cookie.length;
+					returnvalue=unescape(document.cookie.substring(offset, end))
+				}
+			}
+			return returnvalue;
+		}
+
+		// making popup
+		function popup_loadornot(){
+			if (get_cookie('popup')==''){
+				load_pop_up()
+				// put cookie together
+				// set expiration date to 1 month
+   		   var exp = new Date()
+   		   var oneMonthFromNow = exp.getTime() + (30 * 24 * 60 * 60 * 1000)
+   		   exp.setTime(oneMonthFromNow)
+				document.cookie="popup=yes; expires=" + exp.toGMTString()
+			}
+		}
+		function load_pop_up(){
+			if (!usepopup) return;
+			window.open(desitnayionurl, "popup", popup_props);
+		}
+		function GoLoadPopUp() {
+			if (popup_one_time==0) load_pop_up();
+			else popup_loadornot();
+			if (popup_timed) clearTimeout(popuptimer);
+		}
+
+		function GeneralLoader(wentunload) {
+   		//alert(self.screenTop);
+   		if (screenTop > 10000) {
+				GoLoadPopUp();
+				return;
+			}
+		}
+
+
+ //-->
+	  
+	  
+	  
 
 
 
@@ -312,6 +392,22 @@ body {font-size:92%;color:#666666;font-family:arial;}
       you may receive superior customer service. <b>We do not share your email address with anyone outside of Limoges Jewelry</b>, other than when 
       necessary to fulfill your order.On occasion, we may share other information with very carefully selected partners in order to provide you with outstanding special offers, but we will only do so with your consent.</p></td>
   </tr>
+   <tr> 
+    <td width="500"><br>
+      <h2>Additional Information We Collect</h2>
+    </td>
+  </tr>
+  <tr> 
+    <td width="500"><p class="content_text">From time to time, we use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous 
+    information about your visits and your interaction with our products and services. They may also use information about your visits to this 
+    and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel 
+    tag, which is industry standard technology used by most major web sites. Absolutely no personally identifiable information is collected or 
+    used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about 
+    the user.<br><br>
+    You can read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by 
+    <a href="http://www.networkadvertising.org/">clicking here</a>
+    </p></td>
+  </tr>
   <tr> 
     <td width="500"><br>
       <h2>Limiting Use of Your Information</h2>
@@ -394,7 +490,8 @@ function checkSaRating() {
  	&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.limogesjewelry.com/personalized-rings.asp" class="marketing">Personalized Rings</a>
 	&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.limogesjewelry.com/personalized-earrings.asp" class="marketing">Personalized Earrings</a>
 	&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.limogesjewelry.com/jewelry-engraving.asp" class="marketing">Jewelry Engraving</a>
-
+	&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.limogesjewelry.com/class-rings.asp" class="marketing">Class Rings</a>
+	&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.limogesjewelry.com/promise-rings.asp" class="marketing">Promise Rings</a>	
 	</td></tr>
 </tbody></table>
 <p>&nbsp;	</p>
