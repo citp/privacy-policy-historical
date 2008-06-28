@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 8coupons.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229233919id_/http%3A//www.8coupons.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8coupons.com privacy policy that was archived on 2008-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628053515id_/http%3A//www.8coupons.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>8coupons.com - Privacy Policy </title>
@@ -81,8 +81,64 @@ body {
     -->
 </script><script src="http://www.8coupons.com/ajax/mootools/mootools.js" type="text/javascript" charset="utf-8"></script>  
 <script src="http://www.8coupons.com/ajax/mootools/main.js" type="text/javascript" charset="utf-8"></script>	
+<script type="text/javascript">
 
+var strHref = window.location.href.split("#");
+var couponID = strHref[1];
+	
+window.onDomReady(function(){ new SmoothScroll({duration: 1000}); });
+    
+window.addEvent('load', function() {
+		//tool tip
+	var Tips3 = new Tips($$('.Tips1'), {
+			initialize:function(){
+				this.fx = new Fx.Style(this.toolTip, 'opacity', {duration: 500, wait: false}).set(0);
+			},
+			onShow: function(toolTip) {
+				this.fx.start(1);
+			},
+			onHide: function(toolTip) {
+				this.fx.start(0);
+			}
+			});	
+});
 
+	
+window.addEvent('domready', function() {
+	// orange menu demo
+	if($('fancymenu'))
+		FancyExample = new SlideList($E('ul', 'fancymenu'), {transition: Fx.Transitions.backOut, duration: 700, onClick: function(ev, item) { ev.stop(); }});
+	
+	// profile demo
+	if($('pictureselect')) PictureSelect = new SlideList('pictureselect', { onClick: function(ev, item) { ev.stop(); } });
+			
+	//anchor tag flash background	
+	if (couponID > 0)
+	{
+		//adding click to the coupon
+		var urlCLICK = "http://www.8coupons.com/coupon/addclick/"+couponID;
+		var syncXhr = new XHR({async: false, method: 'post'});
+		syncXhr.send(urlCLICK, null);
+		
+		var cssCouponId = document.getElementById('effect'+couponID)
+		cssCouponId.className='coupon_over';
+		
+		var CouponTopId = document.getElementById('top'+couponID)
+		CouponTopId.src='/imagefiles/box-top-current.gif';
+		
+		var CouponBottomId = document.getElementById('bottom'+couponID)
+		CouponBottomId.src='/imagefiles/box-down-current.gif';
+		
+		var cssCouponBGId = document.getElementById('BG'+couponID)
+		cssCouponBGId.className='box-bg-current';
+	}	
+	
+	
+	
+});
+
+	
+</script>
 
 </head>
 <body>
@@ -106,11 +162,8 @@ body {
 			<a class="top-nav" href="https://www.8coupons.com/user/login">business login</a> 			</div>
 			
 			<div id="movie" name="movie" style="position: absolute; bottom: 0px">
-			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="475" height="50">
-			              <param name="movie" value="http://www.8coupons.com/imagefiles/special/snowmen.swf">
-			              <param name="quality" value="high">
-			              <embed src="http://www.8coupons.com/imagefiles/special/snowmen.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="475" height="50"></object>
-			
+			<!--<img src="http://www.8coupons.com/imagefiles/other/yearof2008.gif" align="right" alt="Happy 2008!  Year of the 8coupons">
+			-->
 			</div>
 			
 		</div>
@@ -134,7 +187,7 @@ body {
 				</div>
 				<div class="highslide-body" style="overflow: hidden; padding: 0 10px 10px 10px">
 					<div class="neighborhood">
-					<div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/6">Chelsea</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/3">East Village</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/10">Gramercy &amp; Murray Hill</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/2">Greenwich &amp; West Village</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/19">Hoboken</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/4">Lower East Side</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/15">Lower Manhattan</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/16">Midtown East</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/17">Midtown West</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/7">TriBeCa &amp; SoHo</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/1">Union Square &amp; Flatiron</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/14">Upper East Side</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/13">Upper West Side</a></div>	
+					<div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/6">Chelsea</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/3">East Village</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/10">Gramercy &amp; Murray Hill</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/2">Greenwich &amp; West Village</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/19">Hoboken</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/4">Lower East Side</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/15">Lower Manhattan</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/16">Midtown East</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/18">Midtown South</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/17">Midtown West</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/9">NYC Deals</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/7">TriBeCa &amp; SoHo</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/1">Union Square &amp; Flatiron</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/14">Upper East Side</a></div><div class="neighborhood_name"><a class="url_small" href="http://www.8coupons.com/search/grid/13">Upper West Side</a></div>	
 					</div>
 					<div style="float: right; color: white; font-size: 8pt;">more neighborhoods coming soon!</div>
 					
@@ -155,16 +208,15 @@ body {
 					
 					 <h3>Give me the OCHO LOCO!  </h3>
 					 <b>Exclusively for OCHO LOCO members.</b>
-					 <p>In the spirit of OCHO LOCO (CRAZY 8), the 8coupons team goes around the city persuading local businesses to provide us with exclusive &amp; outrageous OCHO LOCO Deals such as 8¢  burgers, 8¢  beers, 88¢  cocktails, 88¢  manicures, $8 dining deals, and more! <b>Sign up to get these exclusive offers.</b></p>
-					 
+					 <p><b>It's part of a promotion by Ocho Loco (8coupons ), a company that wrangles special deals at bars and restaurants to give people things for very, very cheap prices that end in 8. - The L Magazine</b></p>
+					<br>
+					
+					
 					<ul>
-						<li><a href="http://www.8coupons.com/showcoupon/discount/10515-8FALAFELS.htm" class="url">8¢  falafels</a> + <a href="http://www.8coupons.com/email/contest" class="url">Falafel Eating Contest</a> - Dec. 7th @ <a href="http://www.8coupons.com/search/profile/333233393333-Tasty-Falafel.htm" class="url">Tasty Falafels</a> in the East Village </li>
-					 	
-						<li><a href="http://www.8coupons.com/showcoupon/discount/10417-8-cent-beersOCHO-LOCODec8th-ONLY.htm" class="url">8¢  beers (Miller) &amp; Beer Pong Competition</a> - Dec. 8th @ <a href="http://www.8coupons.com/search/profile/333233323331-Wicked-Willy-s.htm" class="url">Wicked Willy's</a>  in Greenwich Village</li>
+					 	<li>06/09/08,  <a href="http://www.8coupons.com/search/discount/333533333335-Cold-Stone-CreameryAstor-Place.htm#10728" class="url">8-cent Scoop!</a> @ <a href="http://www.8coupons.com//search/discount/333533333335-Cold-Stone-CreameryAstor-Place.htm" class="url">Cold Stone Creamery (Astor Place)</a> - East Village</li>
+					</ul>
 					
-						<li><a href="http://www.8coupons.com/showcoupon/discount/10507-88-cents-Margaritas-OCHO-LOCO-DEAL12-8.htm" class="url">88¢  Margaritas</a>, <a href="http://www.8coupons.com/showcoupon/discount/10276-88-cents-Sangrias-OCHO-LOCO-DEAL-on-12-8.htm" class="url">Sangrias</a>, and <a href="http://www.8coupons.com/showcoupon/discount/10508-88-cents-Empanadas-OCHO-LOCO-DEAL-12-8.htm" class="url">Empanadas</a> - Dec. 8th @ <a href="http://www.8coupons.com/search/profile/333133383331-Bamboleo-Mexican-Restaurant.htm" class="url">Bamboleo Mexican Restaurant</a> in Greenwich Village</li>
-					</ul>	
-					
+					<a href="http://www.8coupons.com/home/pastocholoco" class="url">Check out our past OCHO LOCOs</a><br>
 					<br>
 					<br>
 					 
@@ -430,7 +482,7 @@ body {
 	
 	<p></p>
 	<div class="row" style="height:10px;"></div>
-	<div style="float: right;">© Copyright 2007 <a href="http://www.8coupons.com/">8coupons.com</a></div>
+	<div style="float: right;">© Copyright 2008 <a href="http://www.8coupons.com/">8coupons.com</a></div>
 	<div style="float: left;">
 		 <b style="padding-right: 6px;">As seen in:</b> 
 		 <img src="http://www.8coupons.com/partners/press/small/ny1.png" style="padding-right: 6px;">
