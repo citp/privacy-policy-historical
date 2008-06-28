@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219165005id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628060657id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
 
-# www.CityEvents.tv : A Global Night Life Network
-
-## Privacy Statement 
+# CityEvents : Venues, Events, Nightlife, Club listings, Events, Night clubs, Club Videos, Promoters, Job offers, Talents, New York, Miami, California, Guestlists, DJs, Models, Club Photos, Dancers, Photographers, Musicians ...
 
 In CITYEVENTS.TV INC. we take your Privacy seriously. We created this Privacy statement to demonstrate our firm commitment to Privacy. The following outlines our information gathering and dissemination practices for this website. 
 
