@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005605id_/http%3A//www.dallascityhall.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012156id_/http%3A//dallascityhall.com/html/privacy.html) for the most accurate reproduction.*
 
 # City of Dallas Privacy Policy
 
