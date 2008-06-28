@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225180141id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628134738id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
 
 # College Privacy Statement :: Niagara College
 
@@ -26,4 +26,4 @@ At any time, you may choose to be removed from any mailing lists that may result
 
 To ensure that we are publishing content that our customers desire, Niagara College collects aggregated site-visitation statistics using cookies. However, we do not track individuals’ use of the site. A cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously. 
 
-If you choose not to have your browser accept cookies from the site, you will still be able to view the text on the screens. However, you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. When a user saves a page to their hot links, it is saved as a cookie on their system for 30 days. 
+If you choose not to have your browser accept cookies from the site, you will still be able to view the text on the screens. However, you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
