@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231141603id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012107id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge
 
-Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
+Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior (including the content of web pages visited) to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
 
 Be assured that protection of your privacy is one of our top priorities. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
 
@@ -223,7 +223,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of September 19, 2007.
+This Agreement is effective as of June 11, 2008.
 
 Whom can I contact if I have additional questions? 
 
@@ -234,10 +234,10 @@ The program sponsor is TMRG, Inc., a Delaware, U.S.A. corporation. If you have a
 
 privacy@tmrginc.com  
 Privacy Office  
-11465 Sunset Hills Road  
-Suite 200  
+11950 Democracy Drive  
+Suite 600  
 Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0738
+LP 0824
