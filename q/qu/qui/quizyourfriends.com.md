@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015014916id_/http%3A//www.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628103252id_/http%3A//www02.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
 
 # QuizYourFriends - Privacy Policy
 
