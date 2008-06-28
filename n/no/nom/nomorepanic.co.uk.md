@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223064532id_/http%3A//www.nomorepanic.co.uk/NMPcms.php%3Fnmppage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628161942id_/http%3A//www.nomorepanic.co.uk/NMPcms.php%3Fnmppage%3Dprivacy) for the most accurate reproduction.*
 
 # No More Panic - Data Protection and your privacy
 
@@ -79,4 +79,4 @@ You may request details of personal information which we hold about you under th
 
 Last updated: February 2007 
 
-Copyright 2007 No More Panic. All data is released with written permission only. Contact [E-mail](mailto:nomorepanic@btinternet.com). Usage Term & Conditions will be detailed in your reply. 
+Copyright 2007 No More Panic. All data is released with written permission only. Contact [E-mail](mailto:nomorepanic@btinternet.com). Usage Term & Conditions will be detailed in your reply. This page was last modified on 2008-03-28 22:20:14. 
