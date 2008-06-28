@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229172243id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629010728id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for NewAmerica.net | The New America Foundation
 
