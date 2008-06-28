@@ -1,44 +1,15 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202211129id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628025526id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Limoges Jewelry Privacy Policy
 
-We recognize that our online customers are concerned about their personal information and how it will be used. So we have done our very best to make ordering from Limoges Jewelry a safe and hassle-free experience!  
-  
-  
+Orders placed on our site are encrypted with SSL (Secure Socket Layers) technology. When placing an order with us, you are on our secure server where you can enter your personal information without fear of it being insecurely transmitted to someone else. Check this by looking for the lock symbol at the bottom of your browser window. You will see that this symbol appears as soon as you click to submit your order, indicating you are on a secure site. **The information you send through our site can be trusted to arrive safely and privately.**
 
+| 
 
-## Order Technology  
-  
-Orders placed on our site are encrypted with SSL (Secure Socket Layers) technology. When placing an order with us, you are on our secure server where you can enter your personal information without fear of it being insecurely transmitted to someone else. Check this by looking for the lock symbol at the bottom of your browser window. You will see that this symbol appears as soon as you click to submit your order, indicating you are on a secure site. **The information you send through our site can be trusted to arrive safely and privately.**  
-  
-  
+Limoges Jewelry collects information that you volunteer in order to process your order, to inform you of special offers, and so that you may receive superior customer service. **We do not share your email address with anyone outside of Limoges Jewelry** , other than when necessary to fulfill your order.On occasion, we may share other information with very carefully selected partners in order to provide you with outstanding special offers, but we will only do so with your consent.
 
+| 
 
-## Your Personal Information  
-  
-Limoges Jewelry collects information that you volunteer in order to process your order, to inform you of special offers, and so that you may receive superior customer service. **We do not share your email address with anyone outside of Limoges Jewelry** , other than when necessary to fulfill your order.On occasion, we may share other information with very carefully selected partners in order to provide you with outstanding special offers, but we will only do so with your consent.  
-  
-  
+From time to time, we use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. Absolutely no personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
 
-
-## Limiting Use of Your Information  
-  
-If you do not want to ever receive promotional emails from Limoges Jewelry, please:  
-  
-  
-
-
-## Write:  
-  
-Limoges Jewelry  
-WWW Remove  
-1556 W. Carroll St.  
-Chicago, IL 60607-1012  
-  
-  
-
-
-## Or Email:  
-  
-  
-
+You can read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by [clicking here](http://www.networkadvertising.org/)
