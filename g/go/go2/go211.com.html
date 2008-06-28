@@ -1,20 +1,27 @@
-<!--The following is the downloaded HTML source of the go211.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011151017id_/http%3A//www.go211.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the go211.com privacy policy that was archived on 2008-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628173303id_/http%3A//www.go211.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Go211 : </title>
-<meta name="description" content="Go211.com is your online source for action sports videos, photos and more, covering Snowboarding, Skateboarding, Surfing, BMX and more. ">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="verify-v1" content="Eihqwm1wWjjzChD5lNQhGA4hfN6zI0Zl4n5ejIsMAXk=">
+<title></title>
+<meta name="description" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script language="javascript" type="text/javascript" src="/js/common.js"></script>
+<script language="javascript" type="text/javascript" src="/js/swfobject.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/js/betaStatement.js"></script>
+<link rel="*alternate*" type="text/html" media="*handheld*" href="http://wap.go211.com/" title="Mobile/PDA">
+<link rel="stylesheet" type="text/css" href="/styles/styles_old.css">
 <link rel="stylesheet" type="text/css" href="/styles/styles.css">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/styles/home.css">
+
 <!-- Start User Styles -->
 <style>
 #user_header_div
 {
 	color: #ffffff;
-	background-color: #0B2E4E;
+	background-color: #303030;
 	height: 33px;
-	margin: 6px 0px 6px 0px;
+	margin: 6px 0px 0px 0px;
 	text-align: left;
 }
 
@@ -24,61 +31,57 @@
 	font-size: 16px;
 	font-weight: bold;
 	float: left;
-	padding: 7px 6px 6px 10px;
+	padding: 7px 6px 6px 0px;
 }
 
 #user_profile_body_div
 {
 	color: #ffffff;
-	background-color: #0B2E4E;
-	background-image: url(/images/clipsBg.gif);
+	background-image: url(http://images.go211.com/img/home/bg_box.jpg);
 	padding: 10px 10px 10px 10px;
-	font-weight: bold;
+	background-attachment: fixed;
 }
 
 #user_light_grey_content_div
 {
 	color: #ffffff;
-	background-color: #0B2E4E;
-	background-image: url(/images/clipsBg.gif);
+	background-image: url(http://images.go211.com/img/home/bg_box.jpg);
 	padding: 10px 10px 10px 10px;
 	margin: 6px 0px 6px 0px;
 }
 
 #user_name_bar_div
 {
-	background-color: #003366;
+	background-color: #303030;
 	color: #FFFFFF;
 	font-size: 24px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	margin: 0px 0px 8px 0px;
-	padding: 0px;
+	margin: 0px 0px 6px 0px;
+	padding: 0px 0px 0px 0px;
 }
 
 .user_header_link
 {
-	color: #00ff30;
+	color: #999999;
 	font-weight: bold;
 }
 
 .user_content_link
 {
-	color: #00ff30;
+	color: #999999;
 	font-weight: bold;
 }
 
 #user_frame_body
 {
 	color: #ffffff;
-	background-color: #0B2E4E;
 	text-align: left;
 }
 
 #user_frame_dark_body
 {
 	color: #ffffff;
-	background-color: #0B2E4E;
 	text-align: left;
 }
 
@@ -86,13 +89,65 @@
 {
 float: left;
 width: 792px;
-margin: 8px 0px 0px 0px;
+margin: 10px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 text-align: left;
 }
 </style>
 <!-- End User Styles -->
+
+
+
 <script language="javascript">
+	
+	// shows a hidden page element (usually used for displaying some hidden DIVs)
+	function showElement(elmnt)
+	{
+		if(document.getElementById(elmnt))
+		{
+			document.getElementById(elmnt).style.display = 'block';
+		}
+	}
+
+
+
+	// hides a page element (usually used for hiding some DIVs)
+	function hideElement(elmnt)
+	{
+		if(document.getElementById(elmnt))
+		{
+			document.getElementById(elmnt).style.display = 'none';
+		}
+	}
+
+	function searchPost(cmdSearch)
+	{
+		if (document.advanced_search_form.elements.keywordtmp.value == ""
+		    || document.advanced_search_form.elements.keywordtmp.value == "find"
+		    || document.advanced_search_form.elements.keywordtmp.value == "Please, enter keyword..."
+		   )
+		{
+			document.advanced_search_form.elements.keywordtmp.value = "Please, enter keyword...";
+			return false;
+		}
+
+		if(cmdSearch == "search")
+		{
+			frmName = "search_form";
+			frm = document.getElementById(frmName);
+			frm.elements.band_name.value = document.advanced_search_form.elements.keywordtmp.value;
+			frm.submit();
+			return;
+		} else
+		{
+			frmName = "advanced_search_form";
+			frm = document.getElementById(frmName);
+			frm.elements.keyword.value = document.advanced_search_form.elements.keywordtmp.value;
+			frm.submit();
+			return;
+		}
+	}
+
 	function confirmDialog(txt, url)
 	{
 		if (confirm(txt))
@@ -110,273 +165,227 @@ text-align: left;
 		window.open('http://www.go211.com/videos/fullPlayer.php?videoID='+videoID+'&jumpToTime='+jumpToTime, 'vidPlayer', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=800, height=600');
 		//alert('test');
 	}
-	
-	function startupSilo() {
-		showBottomCat(1);
-		showCat(1);
-	}
 
 </script>
-<script type="text/javascript" src="/includes/swfobject.js"></script>
-<script language="JavaScript" type="text/JavaScript" src="/includes/betaStatement.js"></script>
+<!-- begin script to create random number for ads -->
+<script language="Javascript">
+<!--
+sgi_ord=Math.random()*10000000000000000;
+//-->
+</script>
+<!-- End random number script -->
+
 </head>
 
 <body>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
+<script type="text/javascript"> 
+  _userv=2; 
+  _uacct="UA-1422141-1"; 
+  urchinTracker(); 
+</script>
+
+
+<!--<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
-_uacct = "UA-1422141-1";
-urchinTracker();
+var pageTracker = _gat._getTracker("UA-1422141-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
+-->
 <div id="outterMain">
 	<div id="innerMain">
-		<!-- someday here was logo div -->
-		<div style="width: 962px;">
-			<div id="bannerAd">
-				
+		<div style="margin: 0px 0px 4px 0px; padding: 0px; width: 962px; height: 90px;">
+			<div id="bannerAd"><a href="http://www.go211.com/oa/adclick.php?bannerid=266&amp;zoneid=3&amp;source=&amp;dest=http%3A%2F%2Fwww.go211.com%2Fusopenofsurfing%2Fcontest" target="_top"><img src="http://www.go211.com/oa/adimage.php?filename=usoscontest728x90.jpg&amp;contenttype=jpeg" width="728" height="90" alt="Win a FREE TRIP to the US Open of Surfing in Huntington Beach, CA!" title="Win a FREE TRIP to the US Open of Surfing in Huntington Beach, CA!" border="0"></a><div id="beacon_266" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.go211.com/oa/adlog.php?bannerid=266&amp;clientid=95&amp;zoneid=3&amp;source=&amp;block=0&amp;capping=0&amp;cb=7e7660dedbda8512c42e819ea556718d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
 
-<iframe src="http://www.activeathletevector.com/OAS/AA_728x90.cfm?pub=tas.go211&amp;refresh_rate=60&amp;refresh=yes" name="728x90" width="728" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>			</div>
-
-			<form action="/login.php" method="post">
-				<input type="hidden" name="action" value="login">
 				<div id="signIn">
-					<div style="margin: 5px 5px 0px 10px;">
-						<span style="width: 50px; padding-top: 4px; float: left;">User ID</span>
-						<span style="float: right;"><input style="width: 140px; height: 17px; font-size: 8pt; border: 0px #000000 solid; border-style: none;" name="username" type="text"></span>
-					</div>
-					<div style="clear: both;"></div>
-					<div style="margin: 2px 5px 2px 10px;">
-						<span style="width: 50px; padding-top: 2px; float: left;">
-							Password
-						</span>
-						<span style="float: right;"><input style="width: 140px; height: 17px; font-size: 8pt; border: 0px #000000 solid; border-style: none;" name="password" type="password"></span>
-					</div>
-					<div style="clear: both;"></div>
-					<div style="margin: 0px 5px 0px 10px;">
-						<span style="width: 70px; padding-top: 2px; float: left; text-align: left;">
-							<a href="/lostpassword.php">Forgot Your Password?</a>
-						</span>
-						<span style="padding-top: 2px; padding-right: 0px; float: right;"><input style="border: none;" type="image" src="/img/login.gif"><a href="/signup.php"><img src="/img/signup.gif" width="56" height="25" alt="Sign Up"></a></span>
-					</div>
-					<div style="clear: both;"></div>
-				</div>
+					<form action="/login" method="post" style="margin: 0px 0px 0px 0px; padding: 0px;">
+					<input type="hidden" name="cmd" value="login">
 
-			</form>
+					<table cellpadding="0" cellspacing="1" border="0">
+						<tbody><tr>
+							<td width="42"><span style="font-size: 8pt;">username:</span></td>
+							<td colspan="2" align="right">
+								<input style="margin: 0px; padding: 0px 0px 0px 2px; width: 155px; height: 16px; font-size: 8pt; border: 0px #000000 solid; border-style: none;" name="username" type="text" value="">
+							</td>
+						</tr>
+						<tr>
+							<td><span style="font-size: 8pt;">password:</span></td>
+							<td colspan="2" align="right">
+								<input style="margin: 0px; padding: 0px 0px 0px 2px; width: 155px; height: 16px; font-size: 8pt; border: 0px #000000 solid; border-style: none;" name="password" type="password" value="">
+							</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td align="left" valign="middle">
+								<a href="/lostpassword"><b>forget?</b></a>
+							</td>
+							<td align="right" style="height: 19px; overflow-y: hidden;"><input type="image" src="http://images.go211.com/img/login.jpg" alt="Login" style="padding: 0px; margin: 0px; border: none; width: 46px; height: 19px;"><img src="http://images.go211.com/img/clear.gif" width="2" height="1" alt="" title=""><a href="/register"><img src="http://images.go211.com/img/signup.jpg" alt="Sign Up" style="padding: 0px; margin: 0px; width: 46px; height: 19px;"></a></td>
+						</tr>
+					
+					<tr align="right">
+					<td width="42" style="text-align:right;" align="right">&nbsp;<a href="#" onclick="searchPost('advanced_search'); return false;"><img src="http://images.go211.com/img/search_advanced.gif" width="19" height="19" alt="Search Content" title="Search Content"></a><a href="#" onclick="searchPost('search'); return false;"><img src="http://images.go211.com/img/search_members.gif" width="19" height="19" alt="Search Members" title="Search Members"></a></td>
+					<td colspan="2" align="right"><form id="search_form" name="search_form" action="/member_search/" method="post" style="margin: 0px; padding: 0px;"><input name="cmd" type="hidden" value="search"><input name="band_name" type="hidden" value=""><input name="action" type="hidden" value="search"></form><form id="advanced_search_form" name="advanced_search_form" action="/advanced_search/" method="post" style="margin: 0px; padding: 0px;" onsubmit="searchPost('advanced_search'); return false;"><input name="cmd" type="hidden" value="advanced_search"><input name="keyword" type="hidden" value=""><input name="keywordtmp" type="text" style="margin: 0px; padding: 0px 0px 0px 2px; width: 155px; height: 16px; font-size: 8pt; border: 0px #000000 solid; border-style: none;" value="search" onfocus="this.value = '';"></form></td>
+					</tr>
+				</tbody></table>
+		</form></div><!-- /signIn -->
 
 		</div>
 
 		<div style="clear: both;"></div>
+
+			
+			<div id="newsAlert"><span style="font-weight: bold;">News:</span>&nbsp;&nbsp;The <a href="http://www.go211.com/u/starsnstripes2008">NBL Stars n Stripes Nationals</a> will be aired at 6:00 PM Saturday AND Sunday.  Stay tuned for more information!</div>
+
+
+		<div style="clear: both;"></div>
+
 		<!-- logo div starts -->
-		<div id="logo_test">
-			<div id="logo_div"><a href="/"><img src="/img/test_header/logo.gif" width="224" height="100" alt="" title=""></a></div>
-			<div id="navigationTop">
-				<div><img src="/img/clear.gif" width="1" height="75" alt="" title=""></div>
-				<div><a href="/pros"><img src="/img/test_header/pros_idle.gif" width="70" height="25" alt="Go211 Professionals" title="Pros"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/snow/"><img src="/img/test_header/snow_idle.gif" width="70" height="25" alt="Snowboarding" title="Snowboarding"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/skate/"><img src="/img/test_header/skate_idle.gif" width="70" height="25" alt="Skateboarding" title="Skateboarding"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/bmx/"><img src="/img/test_header/bmx_idle.gif" width="70" height="25" alt="BMX" title="BMX"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/surf/"><img src="/img/test_header/surf_idle.gif" width="70" height="25" alt="Surfing" title="Surfing"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="#" onclick="window.open('/music/musPlayer.php', 'musicPlayer', 'width=990, height=680, scrollbars=no, resize=no'); return false;" style="text-decoration:none; color:#FFFFFF;"><img src="/img/test_header/music_idle.gif" width="70" height="25" alt="Music" title="Music"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/forums/"><img src="/img/test_header/forum_idle.gif" width="70" height="25" alt="Forum" title="Forum"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/events"><img src="/img/test_header/events_idle.gif" width="70" height="25" alt="Go211 Events" title="Go211 Events"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""><a href="/store/affiliates.php"><img src="/img/test_header/store_idle.gif" width="70" height="25" alt="Store" title="Store"></a><img src="/img/clear.gif" width="2" height="1" alt="" title=""></div>
-			</div>
-		</div>
-		<div style="clear: both;"></div>
-		<div id="navTopLow">
-			<form action="/search/" method="post">
-			<table cellspacing="0" cellpadding="0" border="0" style="margin: 0px 0px 0px 0px;">
-				<tbody><tr>
-					<td align="center" valign="middle" width="136" height="22">
-						<input name="band_name" type="text" style="width: 130px;">
-					</td>
-					<td valign="top" align="center" width="24" height="22"><input type="image" src="/img/test_header/search_icon.gif" width="20" height="22" value="search" alt="Member Search"></td>
-					<td valign="middle" width="140" height="21">
-						<input name="action" type="hidden" value="search">
-						 <a href="/search/">Advanced search</a>
-					</td>
-					<td width="662" valign="middle" align="left">
-											</td>
-				</tr>
-			</tbody></table>
-			</form>
-		</div>
+				<div id="logo" style="background: url(http://media.go211.com/img/headers/home.jpg) #000000 no-repeat top left;"><div id="clearLogoDiv"><a href="/"><img src="http://images.go211.com/img/clear.gif" width="235" height="100"></a></div><div style="display: inline; width: 727px; float: right;"><div id="overlayDiv"><div id="headercontent"></div><script type="text/javascript">var po = new SWFObject("/includes/timer/Timer01_3928351.swf", "appw", "599", "32", "9", "#000000");po.write("headercontent");</script>&nbsp;</div><div style="clear: both;"></div><div id="navigationTop"><a href="/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_home.gif);">&nbsp;HOME</a><a href="/pros/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_team.gif);">&nbsp;TEAM</a><a href="/snow/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_snow.gif);">&nbsp;SNOW</a><a href="/skate/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_skate.gif);">&nbsp;SKATE</a><a href="/surf/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_surf.gif);">&nbsp;SURF</a><a href="/bmx/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_bmx.gif);">&nbsp;BMX</a><a href="/music/player/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_music.gif);">&nbsp;MUSIC</a><a href="/events/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_events.gif);">&nbsp;&nbsp;EVENTS</a><a href="/discussions/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_forum.gif);">&nbsp;FORUM</a><a href="/store/" class="navigationTopA" style="background: url(http://images.go211.com/img/tabs/bg_store.gif);">&nbsp;STORE</a></div><!-- /navigationTop --></div></div><!-- /logo --><div style="clear: both;"></div><div id="navTopLow" style="text-align:left;"></div><!-- /navTopLow -->
 		<!-- logo div ends -->
-		<div style="clear: both;"></div>
-	
-
-		<div id="newsAlert"><span style="font-weight:bold;">Breaking News:</span>&nbsp;&nbsp;
-	
-		Follow <a target="_blank" href="http://www.go211.com/oa/adclick.php?bannerid=54&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.go211.com%2Fu%2Fbmxdiva&amp;ismap=">Go211 Pro Arielle Martin</a> at the 2007 UCI BMX World Cup in Frejus, France<br>
-<span style="font-weight:bold;">Go211.com Update:</span>&nbsp;&nbsp;Go211 <a target="_blank" href="http://www.go211.com/oa/adclick.php?bannerid=54&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.go211.com%2Fu%2Fgo211team%2Fblogs%2F433&amp;ismap=">wishes Tara Llanes a speedy recovery</a>.  <a target="_blank" href="http://www.go211.com/oa/adclick.php?bannerid=54&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.tarallanesroadtorecovery.com%2F&amp;ismap=">Find out how you can help</a>!<div id="beacon_54" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.go211.com/oa/adlog.php?bannerid=54&amp;clientid=23&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=fba32bc23ceeccb31febe364b4246f12" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>  
-
-		</div>
-
-		<div id="profileLeft">
-			<div id="memberVideosHeader">
-				<span class="headerText">Privacy Policy</span>
-			</div>
-			
-		<div style="margin-top: 6px; margin-bottom: 10px; padding: 5px 5px 5px 5px;  background-color: #0B2E4E; background-image: url(/img/bg.gif);"> 	
-		<center>
-			<b>
-				Go211.COM <br>
-				PRIVACY POLICY
-			</b>
-		</center>
-
-		<p class="privacy">
-		Effective: January 1, 2007
-		</p>
-		
-		<p class="privacy">
-			<b>CONTENTS.</b> 
-		</p>
-		
-		<p class="privacy"> 
-			</p><ol>
-				<li>Agreement;</li>
-				<li>Age Requirement; Children's Privacy; </li>
-				<li>Information Gathered; </li>
-				<li>Use of Information and Communications; </li>
-				<li>Privacy Policy Changes; </li>
-				<li>Cookies; </li>
-				<li>Links; </li>
-				<li>Security;</li>
-				<li>Your Password and Other Security Issues;</li>
-				<li>Parental Consent.</li>
-			</ol>
-		<p></p>
-		
-		<p class="privacy">
-			<b><u>AGREEMENT.</u></b> The purpose of this privacy policy is to inform you of what information may be gathered about you by Action Sports, Inc. (the "<b>Company</b>") when you visit <a href="http://www.Go211.com">www.Go211.com</a> (the "<b>Website</b>"), its products and services (collectively, the "<b>Services</b>"), how such information and other information that you may provide (collectively, "<b>Information</b>") may be used, whether such Information will be disclosed to anyone, and the choices you have regarding use of such Information. Information includes, without limitation, any communications transmitted through or stored on the Website or any Service. This Website, and does not apply to any other website to which this Website may be linked and or affiliated. If you have questions or concerns regarding this privacy policy, contact the Company (Contact Us). By accessing and using this Website or any Services, you consent to the collection and use of Information by the Company in accordance with this Privacy Policy and the <a href="http://www.Go211.com/terms.php"> Terms and Conditions </a>, as amended from time to time. 
-		</p>
-		
-		<p class="privacy">
-			<b><u>AGE REQUIREMENT; CHILDREN'S PRIVACY.</u></b> You must be at least 13 years of age to register for use of the Website and Services. Children under the age of 13 may not register for use of the Website or any Services, and parents or legal guardians may not register on your behalf. This Website and the Services are not intended or designed for use by or to attract children under the age of 13. The Company does not collect personally identifiable information from any person we actually know is a child under the age of 13. By registering for use of the Website or any Services you represent and warrant that (i) you have read, understood and agree to be bound by this Agreement and (ii) you are at least 13 years old, either entering into this Agreement for yourself or entering on behalf of your child or a child in your legal care. If you are a parent or guardian entering this Agreement for the benefit of your child, please be aware that you are fully responsible for his or her use of the Website and any Services, including his or her compliance with the Terms and Conditions and all financial charges and legal liability that he or she may incur. You will not receive any additional communication from the Company prior to or regarding any such obligations.  If you do not agree to (or cannot comply with) any of these terms and conditions, do not check the acceptance box and do not attempt to access the Services. 
-		</p>
-		
-		<p class="privacy">
-			<b><u>INFORMATION GATHERED.</u></b> The Company collects and tracks Information about you on an aggregate and individual basis and will know and keep track of precisely who you are. The Company may use such Information to contact you again by e-mail, by regular mail or telephone. Information that the Company collects includes the following: 
-		</p>
-		
-		<p class="privacy">
-			<b>User Provided Information.</b> You provide certain personally identifiable information (such as your name and email address) to Website when choosing to participate in various activities on the Website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-		</p>
-		
-		<p class="privacy">
-			<b>Cookies Information.</b> When you visit this Website we send one or more cookies (a small text file containing a string of alphanumeric characters) to your computer that identifies your browser. This Website uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to this Website. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse cookies or to indicate when a cookie is being sent. You may not have access to some features of the Website or Services if you refuse cookies. When you return to the Website, the Company will recognize you by the Internet cookies and customize your experience accordingly. In addition, in order to access certain Services the Company may require that you provide certain additional identifying Information. You never have to answer these questions although this may limit what Services are available to you.  This Information may include your subscriber name or "screen name," areas of interest, password used to access such Services, method of payment if required, and, if applicable, your credit card number. If you are comfortable providing the requested Information, such Services are available to you that are impossible for us to offer to anonymous users. If you prefer, you may set your computer to refuse cookies. However, you may not be able to take full advantage of the Website or Services if you do so. The Company reserves the right to request any additional information necessary to establish and maintain your use of the Website or Services.
-		</p>
-		
-		<p class="privacy">
-			<b>Log File Information:</b> When you access this Website we record information that your web browser automatically sends whenever you visit any website. These "logs files" may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-		</p>
-		
-		<p class="privacy">
-			<b>Clear Gifs (Web Beacons/Web Bugs)</b>
-		</p>
-		
-		<p class="privacy">
-		The Company employs a technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are similar in function to cookies, and are used to track the online movements of users. Clear gifs may be tied to a users personally identifiable information.  In addition, the Company may use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Opt-out section. 
-		</p>
-		
-		<p class="privacy">
-			<b><u>USE OF INFORMATION AND COMMUNICATIONS.</u></b> The Company uses personally identifiable information and non-personally-identifiable information that it collects about you to analyze what its users like and don't like about the Website or Services so that it can design better products and services, in addition to a variety of other business related purposes. <b>THE COMPANY MAY SELL OR DISCLOSE YOUR PERSONALLY IDENTIFIABLE INFORMATION TO THIRD PARTIES WITHOUT YOUR CONSENT.</b> The Company may also disclose Information about you when required to do so by law and when it has a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation or current judicial proceeding. In conducting its business the Company may provide certain third parties with Information in order to provide services to you. <b>BY PROVIDING INFORMATION TO THE COMPANY, YOU UNDERSTAND AND ACKNOWLEDGE THAT SUCH INFORMATION MAY BE DISCLOSED BY THE COMPANY FOR SUCH PURPOSES AND SUCH DISCLOSURE AND USE IS THEREBY AUTHORIZED BY YOU.</b>  
-		</p>
-		
-		<p class="privacy">
-			The Company also uses Information collected about you to, among other things: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
-		</p>
-		
-		<p class="privacy">
-			The Company may use your email address or other personally identifiable information without further consent to send commercial or marketing messages without your consent or as part of a specific program or feature. The Company may also use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
-		</p>
-		
-		<p class="privacy">
-			Any communication that is transmitted through this Website or any Service or stored by the Company is the property of the Company, subject to and protected by the Electronic Communications Privacy Act. <b>ANY COMMUNICATIONS POSTED, STORED OR OTHERWISE TRANSMITTED TO NON-PUBLIC PORTIONS OF THE WEBSITE OR ANY SERVICE WILL NOT BE DISCLOSED TO ANY THIRD PARTY WITHOUT YOUR EXPRESS WRITTEN CONSENT, UNLESS REQUIRED BY LAW.</b> In addition, under certain circumstances the Company may be required to or may choose to provide information about you to third parties without your consent, as permitted by law, including, to respond to a subpoena or court order, judicial process or regulatory authorities, to consumer reporting agencies, in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or an operating unit, and to protect against fraud. 
-		</p>
-		
-		<p class="privacy">
-			Please be aware that whenever you voluntarily post public information to journals, weblogs, message boards, classifieds or any other public forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. You should be aware that any personally identifying information (such as, for example, your name or e-mail address) publicly posted in the interactive sections of the Website may be collected by third parties for unsolicited purposes. The Company is not responsible or liable for such actions, as they are beyond our control. Please note that any video, image, or other content posted at the direction of users onto the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy and may be redistributed through the Internet and other media channels, and may be viewed by the general public.
-		</p>
-		
-		<p class="privacy">
-			<b><u>SURVEYS &amp; CONTESTS.</u>  FROM TIME-TO-TIME THE COMPANY REQUESTS INFORMATION FROM USERS VIA SURVEYS OR CONTESTS. PARTICIPATION IN THESE SURVEYS OR CONTESTS IS COMPLETELY VOLUNTARY AND THE USER THEREFORE HAS A CHOICE WHETHER OR NOT TO DISCLOSE THIS INFORMATION. THE REQUESTED INFORMATION TYPICALLY INCLUDES CONTACT INFORMATION (SUCH AS NAME AND SHIPPING ADDRESS), AND DEMOGRAPHIC INFORMATION (SUCH AS ZIP CODE).  CONTACT INFORMATION WILL BE SHARED WITH THE CONTEST/SURVEY SPONSORS AND USED TO NOTIFY THE WINNERS AND AWARD PRIZES. ANONYMOUS SURVEY INFORMATION WILL BE USED FOR PURPOSES OF MONITORING OR IMPROVING THE USE AND SATISFACTION OF THIS SITE.</b> 
-		</p>
-		
-		<p class="privacy">
-			<b><u>PRIVACY POLICY CHANGES.</u></b> If the Company changes this privacy policy those changes will be posted to this Website so that you will always know what Information is gathered, how it may be used and whether it will be disclosed to anyone. The Company will use Information in accordance with the privacy policy under which the Information was collected. If, however, the Company is going to use your personally identifiable Information in a manner materially different from that stated at the time of collection, you will be notified and you will have a choice as to whether or not your Information is used in this different manner. However, if you have opted-out of all communication with the Company, or deleted or deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. Even if you are no longer a member or customer, our privacy policy will continue to apply to you and your Information.
-		</p>
-		
-		<p class="privacy">
-			<b><u>LINKS.</u></b> The Company may provide or allow links to other websites. The Company does not control any of these linked websites or any other websites, is not responsible for them, and makes no representations as to their information collection or use practices. The Company encourages you to review and understand the privacy policies on these websites before providing any information to them. The fact that the Company provides any such links is not an endorsement, authorization, sponsorship, or affiliation with respect to such website, its privacy and or security policies, its owners, or its providers. You agree that under no circumstances will you hold the Company liable for any loss or damage caused by use of or reliance on the information collection practices of any other website. You should contact the parties that place and own the link directly if you have any questions about their collection and use of information.
-		</p>
-				
-		<p class="privacy">
-			<b><u>SECURITY.</u></b> The Company shall have no liability for disclosure or access to your Information due to errors in transmission, unauthorized access, or other acts of third parties, as further described in <u>Terms and Conditions</u>. No representation or warranty is made regarding the security of any submission of information by you through this Website or any Service. The Company requires that your browser support SSL, and does not allow information to be stored on your hard drive unless you specifically download it and save it on your computer. For security reasons, access to this site is limited to SSL-capable browsers like Netscape Navigator or Microsoft's Internet Explorer. These browsers will activate SSL automatically whenever you sign on to the Website or Service. Under no circumstances should you use any software, program, application, or any other device to access or log-in to the Website, or to automate the process of obtaining, downloading, transferring, or transmitting any content to or from the Company's computer systems, Website, or proprietary software. Although the Company will use all reasonable efforts to safeguard the confidentiality of your information, transmissions made by means of the internet cannot be made absolutely secure.
-		</p>
-		
-		<p class="privacy">
-			Your username and password to this Website or any Service are your private entry keys into your account or other member only areas of the Website or any Service. You should never share it with anyone and you should change it periodically. You can change your username, password or other registration information at any time after logging in by clicking <u>Update User Information</u>. If you forget your password, please contact the Company immediately at <u>password@go211.com</u>. 
-		</p>
-		
-		<p class="privacy">
-			<b>THE FEDERAL TRADE COMMISSION SUGGESTS THESE TIPS FOR SOCIALIZING SAFELY ONLINE:</b>
-		</p>
-		
-		<p class="privacy">
-			<b>Think about how different sites work before deciding to join a site.</b> Some sites will allow only a defined community of users to access posted content; others allow anyone and everyone to view postings.
-		</p>
-		
-		<p class="privacy">
-			<b>Think about keeping some control over the information you post.</b> Consider restricting access to your page to a select group of people, for example, your friends from school, your club, your team, your community groups, or your family.
-		</p>
-		
-		<p class="privacy">
-			<b>Keep your information to yourself.</b> Don't post your full name, Social Security number, address, phone number, or bank and credit card account numbers - and don't post other people's information, either. Be cautious about posting information that could be used to identify you or locate you offline. This could include the name of your school, sports team, clubs, and where you work or hang out.
-		</p>
-		
-		<p class="privacy">
-			<b>Make sure your screen name doesn't say too much about you.</b> Don't use your name, your age, or your hometown. Even if you think your screen name makes you anonymous, it doesn't take a genius to combine clues to figure out who you are and where you can be found.
-		</p>
-		
-		<p class="privacy">
-			<b>Post only information that you are comfortable with others seeing - and knowing - about you.</b> Many people can see your page, including your parents, your teachers, the police, the college you might want to apply to next year, or the job you might want to apply for in five years.
-		</p>
-		
-		<p class="privacy">
-			<b>Remember that once you post information online, you can't take it back.</b> Even if you delete the information from a site, older versions exist on other people's computers.
-		</p>
-		
-		<p class="privacy">
-			<b>Consider not posting your photo.</b> It can be altered and broadcast in ways you may not be happy about. If you do post one, ask yourself whether it's one your mom would display in the living room.
-		</p>
-		
-		<p class="privacy">
-			<b>Flirting with strangers online could have serious consequences.</b> Because some people lie about who they really are, you never really know who you're dealing with.
-		</p>
-		
-		<p class="privacy">
-			<b>Be wary if a new online friend wants to meet you in person.</b> Before you decide to meet someone, do your research: Ask whether any of your friends know the person, and see what background you can dig up through online search engines. If you decide to meet them, be smart about it: Meet in a public place, during the day, with friends you trust. Tell an adult or a responsible sibling where you're going, and when you expect to be back.
-		</p>
-		
-		<p class="privacy">
-			<b>Trust your gut if you have suspicions.</b> If you feel threatened by someone or uncomfortable because of something online, tell an adult you trust and report it to the police and the social networking site. You could end up preventing someone else from becoming a victim. 
-		</p>
-		
-		</div>
-			
-		</div>
-		
-		
-		<div id="profileRight">
-			<div id="towerAd"><iframe src="http://www.activeathletevector.com/OAS/AA_160x600.cfm?pub=tas.go211&amp;refresh_rate=60&amp;refresh=yes" name="160x600" width="160" height="600" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe><div id="beacon_33" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.go211.com/oa/adlog.php?bannerid=33&amp;clientid=17&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=f4a250e031868520c044d9389972a0a3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
-		</div>
-		<div style="clear: both;"></div>
-
-		<div style="clear: both;"></div>
-		
+		<div style="clear: both;"></div><div id="profileLeft">
+	<div id="membersHeaderGrey">
+		<div id="headerCorner"></div>
+		<h1 class="headerTextH1"><span class="headerText">PRIVACY POLICY</span></h1>
 	</div>
-	
-	
-	
+	<div id="margin_div_6"></div>
+	<div id="div_contact_form">
+				<center><b>
+					Go211.COM <br>
+					PRIVACY POLICY
+				</b></center>
+				<br>
+				<br>
+				Effective: January 1, 2007
+				<br>
+				<br>
+				<b>CONTENTS.</b>
+
+				<ul type="1">
+					<li>Agreement;</li>
+					<li>Age Requirement; Children's Privacy; </li>
+					<li>Information Gathered; </li>
+					<li>Use of Information and Communications; </li>
+					<li>Privacy Policy Changes; </li>
+					<li>Cookies; </li>
+					<li>Links; </li>
+					<li>Security; </li>
+					<li>Your Password and Other Security Issues; </li>
+					<li>Parental Consent. </li>
+				</ul>
+				<p>
+					<b><u>AGREEMENT.</u></b> The purpose of this privacy policy is to inform you of what information may be gathered about you by Action Sports, Inc. (the "<b>Company</b>") when you visit <a href="/">www.Go211.com</a> (the "<b>Website</b>"), its products and services (collectively, the "<b>Services</b>"), how such information and other information that you may provide (collectively, "<b>Information</b>") may be used, whether such Information will be disclosed to anyone, and the choices you have regarding use of such Information. Information includes, without limitation, any communications transmitted through or stored on the Website or any Service. This Website, and does not apply to any other website to which this Website may be linked and or affiliated. If you have questions or concerns regarding this privacy policy, contact the Company (Contact Us). By accessing and using this Website or any Services, you consent to the collection and use of Information by the Company in accordance with this Privacy Policy and the <a href="/terms">Terms and Conditions</a> , as amended from time to time.
+				</p>
+				<p>
+					<b><u>AGE REQUIREMENT; CHILDREN'S PRIVACY.</u></b> You must be at least 13 years of age to register for use of the Website and Services. Children under the age of 13 may not register for use of the Website or any Services, and parents or legal guardians may not register on your behalf. This Website and the Services are not intended or designed for use by or to attract children under the age of 13. The Company does not collect personally identifiable information from any person we actually know is a child under the age of 13. By registering for use of the Website or any Services you represent and warrant that (i) you have read, understood and agree to be bound by this Agreement and (ii) you are at least 13 years old, either entering into this Agreement for yourself or entering on behalf of your child or a child in your legal care. If you are a parent or guardian entering this Agreement for the benefit of your child, please be aware that you are fully responsible for his or her use of the Website and any Services, including his or her compliance with the Terms and Conditions and all financial charges and legal liability that he or she may incur. You will not receive any additional communication from the Company prior to or regarding any such obligations. If you do not agree to (or cannot comply with) any of these terms and conditions, do not check the acceptance box and do not attempt to access the Services.
+				</p>
+				<p>
+					<b><u>INFORMATION GATHERED.</u></b> The Company collects and tracks Information about you on an aggregate and individual basis and will know and keep track of precisely who you are. The Company may use such Information to contact you again by e-mail, by regular mail or telephone. Information that the Company collects includes the following:
+				</p>
+				<p>
+					<b>User Provided Information.</b> You provide certain personally identifiable information (such as your name and email address) to Website when choosing to participate in various activities on the Website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+				</p>
+				<p>
+					<b>Cookies Information.</b> When you visit this Website we send one or more cookies (a small text file containing a string of alphanumeric characters) to your computer that identifies your browser. This Website uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to this Website. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse cookies or to indicate when a cookie is being sent. You may not have access to some features of the Website or Services if you refuse cookies. When you return to the Website, the Company will recognize you by the Internet cookies and customize your experience accordingly. In addition, in order to access certain Services the Company may require that you provide certain additional identifying Information. You never have to answer these questions although this may limit what Services are available to you. This Information may include your subscriber name or "screen name," areas of interest, password used to access such Services, method of payment if required, and, if applicable, your credit card number. If you are comfortable providing the requested Information, such Services are available to you that are impossible for us to offer to anonymous users. If you prefer, you may set your computer to refuse cookies. However, you may not be able to take full advantage of the Website or Services if you do so. The Company reserves the right to request any additional information necessary to establish and maintain your use of the Website or Services.
+				</p>
+				<p>
+					<b>Log File Information:</b> When you access this Website we record information that your web browser automatically sends whenever you visit any website. These "logs files" may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+				</p>
+				<p>
+					<b>Clear Gifs (Web Beacons/Web Bugs)</b> <br>
+				The Company employs a technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are similar in function to cookies, and are used to track the online movements of users. Clear gifs may be tied to a users personally identifiable information. In addition, the Company may use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Opt-out section.
+				</p>
+				<p>
+					<b><u>USE OF INFORMATION AND COMMUNICATIONS.</u></b> The Company uses personally identifiable information and non-personally-identifiable information that it collects about you to analyze what its users like and don't like about the Website or Services so that it can design better products and services, in addition to a variety of other business related purposes. <b>THE COMPANY MAY SELL OR DISCLOSE YOUR PERSONALLY IDENTIFIABLE INFORMATION TO THIRD PARTIES WITHOUT YOUR CONSENT.</b> The Company may also disclose Information about you when required to do so by law and when it has a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation or current judicial proceeding. In conducting its business the Company may provide certain third parties with Information in order to provide services to you. <b>BY PROVIDING INFORMATION TO THE COMPANY, YOU UNDERSTAND AND ACKNOWLEDGE THAT SUCH INFORMATION MAY BE DISCLOSED BY THE COMPANY FOR SUCH PURPOSES AND SUCH DISCLOSURE AND USE IS THEREBY AUTHORIZED BY YOU.</b>
+				</p>
+				<p>
+					The Company also uses Information collected about you to, among other things: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+				</p>
+				<p>
+					The Company may use your email address or other personally identifiable information without further consent to send commercial or marketing messages without your consent or as part of a specific program or feature. The Company may also use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
+				</p>
+				<p>
+					Any communication that is transmitted through this Website or any Service or stored by the Company is the property of the Company, subject to and protected by the Electronic Communications Privacy Act. <b>ANY COMMUNICATIONS POSTED, STORED OR OTHERWISE TRANSMITTED TO NON-PUBLIC PORTIONS OF THE WEBSITE OR ANY SERVICE WILL NOT BE DISCLOSED TO ANY THIRD PARTY WITHOUT YOUR EXPRESS WRITTEN CONSENT, UNLESS REQUIRED BY LAW.</b> In addition, under certain circumstances the Company may be required to or may choose to provide information about you to third parties without your consent, as permitted by law, including, to respond to a subpoena or court order, judicial process or regulatory authorities, to consumer reporting agencies, in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or an operating unit, and to protect against fraud.
+				</p>
+				<p>
+					Please be aware that whenever you voluntarily post public information to journals, weblogs, message boards, classifieds or any other public forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. You should be aware that any personally identifying information (such as, for example, your name or e-mail address) publicly posted in the interactive sections of the Website may be collected by third parties for unsolicited purposes. The Company is not responsible or liable for such actions, as they are beyond our control. Please note that any video, image, or other content posted at the direction of users onto the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy and may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+				</p>
+				<p>
+					<b><u>SURVEYS &amp; CONTESTS.</u> FROM TIME-TO-TIME THE COMPANY REQUESTS INFORMATION FROM USERS VIA SURVEYS OR CONTESTS. PARTICIPATION IN THESE SURVEYS OR CONTESTS IS COMPLETELY VOLUNTARY AND THE USER THEREFORE HAS A CHOICE WHETHER OR NOT TO DISCLOSE THIS INFORMATION. THE REQUESTED INFORMATION TYPICALLY INCLUDES CONTACT INFORMATION (SUCH AS NAME AND SHIPPING ADDRESS), AND DEMOGRAPHIC INFORMATION (SUCH AS ZIP CODE). CONTACT INFORMATION WILL BE SHARED WITH THE CONTEST/SURVEY SPONSORS AND USED TO NOTIFY THE WINNERS AND AWARD PRIZES. ANONYMOUS SURVEY INFORMATION WILL BE USED FOR PURPOSES OF MONITORING OR IMPROVING THE USE AND SATISFACTION OF THIS SITE. </b>
+				</p>
+				<p>
+					<b><u>PRIVACY POLICY CHANGES.</u></b> If the Company changes this privacy policy those changes will be posted to this Website so that you will always know what Information is gathered, how it may be used and whether it will be disclosed to anyone. The Company will use Information in accordance with the privacy policy under which the Information was collected. If, however, the Company is going to use your personally identifiable Information in a manner materially different from that stated at the time of collection, you will be notified and you will have a choice as to whether or not your Information is used in this different manner. However, if you have opted-out of all communication with the Company, or deleted or deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. Even if you are no longer a member or customer, our privacy policy will continue to apply to you and your Information.
+				</p>
+				<p>
+					<b><u>LINKS</u></b>. The Company may provide or allow links to other websites. The Company does not control any of these linked websites or any other websites, is not responsible for them, and makes no representations as to their information collection or use practices. The Company encourages you to review and understand the privacy policies on these websites before providing any information to them. The fact that the Company provides any such links is not an endorsement, authorization, sponsorship, or affiliation with respect to such website, its privacy and or security policies, its owners, or its providers. You agree that under no circumstances will you hold the Company liable for any loss or damage caused by use of or reliance on the information collection practices of any other website. You should contact the parties that place and own the link directly if you have any questions about their collection and use of information.
+				</p>
+				<p>
+					<b><u>SECURITY.</u></b> The Company shall have no liability for disclosure or access to your Information due to errors in transmission, unauthorized access, or other acts of third parties, as further described in <u>Terms and Conditions</u>. No representation or warranty is made regarding the security of any submission of information by you through this Website or any Service. The Company requires that your browser support SSL, and does not allow information to be stored on your hard drive unless you specifically download it and save it on your computer. For security reasons, access to this site is limited to SSL-capable browsers like Netscape Navigator or Microsoft's Internet Explorer. These browsers will activate SSL automatically whenever you sign on to the Website or Service. Under no circumstances should you use any software, program, application, or any other device to access or log-in to the Website, or to automate the process of obtaining, downloading, transferring, or transmitting any content to or from the Company's computer systems, Website, or proprietary software. Although the Company will use all reasonable efforts to safeguard the confidentiality of your information, transmissions made by means of the internet cannot be made absolutely secure.
+				</p>
+				<p>
+					Your username and password to this Website or any Service are your private entry keys into your account or other member only areas of the Website or any Service. You should never share it with anyone and you should change it periodically. You can change your username, password or other registration information at any time after logging in by clicking <u>Update User Information</u>. If you forget your password, please contact the Company immediately at <u>password@go211.com</u>.
+				</p>
+				<p>
+					<b>THE FEDERAL TRADE COMMISSION SUGGESTS THESE TIPS FOR SOCIALIZING SAFELY ONLINE: </b>
+				</p>
+				<p>
+					<b>Think about how different sites work before deciding to join a site.</b> Some sites will allow only a defined community of users to access posted content; others allow anyone and everyone to view postings.
+				</p>
+				<p>
+					<b>Think about keeping some control over the information you post.</b> Consider restricting access to your page to a select group of people, for example, your friends from school, your club, your team, your community groups, or your family.
+				</p>
+				<p>
+					<b>Keep your information to yourself.</b> Don't post your full name, Social Security number, address, phone number, or bank and credit card account numbers - and don't post other people's information, either. Be cautious about posting information that could be used to identify you or locate you offline. This could include the name of your school, sports team, clubs, and where you work or hang out.
+				</p>
+				<p>
+					<b>Make sure your screen name doesn't say too much about you.</b> Don't use your name, your age, or your hometown. Even if you think your screen name makes you anonymous, it doesn't take a genius to combine clues to figure out who you are and where you can be found.
+				</p>
+				<p>
+					<b>Post only information that you are comfortable with others seeing - and knowing - about you. </b>Many people can see your page, including your parents, your teachers, the police, the college you might want to apply to next year, or the job you might want to apply for in five years.
+				</p>
+				<p>
+					<b>Remember that once you post information online, you can't take it back.</b> Even if you delete the information from a site, older versions exist on other people's computers.
+				</p>
+				<p>
+					<b>Consider not posting your photo.</b> It can be altered and broadcast in ways you may not be happy about. If you do post one, ask yourself whether it's one your mom would display in the living room.
+				</p>
+				<p>
+					<b>Flirting with strangers online could have serious consequences. </b>Because some people lie about who they really are, you never really know who you're dealing with.
+				</p>
+				<p>
+					<b>Be wary if a new online friend wants to meet you in person.</b> Before you decide to meet someone, do your research: Ask whether any of your friends know the person, and see what background you can dig up through online search engines. If you decide to meet them, be smart about it: Meet in a public place, during the day, with friends you trust. Tell an adult or a responsible sibling where you're going, and when you expect to be back.
+				</p>
+				<p>
+					<b>Trust your gut if you have suspicions.</b> If you feel threatened by someone or uncomfortable because of something online, tell an adult you trust and report it to the police and the social networking site. You could end up preventing someone else from becoming a victim.
+				</p>
+		</div>
 </div>
-<div id="footer"><a href="/corporate/about.php">ABOUT US</a> | <a href="/corporate/sitemap.php">SITE MAP</a> | <a href="http://www.go211.com/syndicate">RSS FEEDS</a> | <a href="http://www.go211.com/corporate/press.php">NEWS &amp; PRESS</a> | <a href="http://www.go211.com/forums/faq.php">FAQ</a> | <a href="http://www.go211.com/privacy.php">PRIVACY POLICY</a> | <a href="http://www.go211.com/terms.php">TERMS &amp; CONDITIONS</a> | <a href="http://www.go211.com/corporate/advertise.php">ADVERTISE</a> | <a href="http://www.go211.com/corporate/contact.php">CONTACT US</a><br>
-  <br>Copyright 2007 Go211.com</div>
 
+<div id="profileRight">
+	<div id="towerAd"><a href="http://www.go211.com/oa/adclick.php?bannerid=264&amp;zoneid=5&amp;source=&amp;dest=http%3A%2F%2Fwww.go211.com%2Fusopenofsurfing%2Fcontest" target="_top"><img src="http://www.go211.com/oa/adimage.php?filename=usoscontest160x600.jpg&amp;contenttype=jpeg" width="160" height="600" alt="Win a FREE TRIP to the US Open of Surfing in Huntington Beach, CA!" title="Win a FREE TRIP to the US Open of Surfing in Huntington Beach, CA!" border="0"></a><div id="beacon_264" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.go211.com/oa/adlog.php?bannerid=264&amp;clientid=95&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=4ac5320750b0010e2ae396ceb3f6ef1e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+</div>
+<div style="clear: both;"></div>
 
+		<div style="clear: both;"></div>
 
+		<div id="footer" style="line-height: 12px;">
+			<a href="/about">ABOUT US</a> | <a href="/corporate/sitemap">SITE MAP</a> | <a href="http://wap.go211.com/">GO211 MOBILE</a> | <a href="/syndicate">RSS FEEDS</a> | <a href="/press/news/">NEWS &amp; PRESS</a> | <a href="/help/faq/">FAQ</a> | <a href="/privacy/">PRIVACY POLICY</a> | <a href="/terms">TERMS &amp; CONDITIONS</a> | <a href="/advertise">ADVERTISE</a> | <a href="/contact">CONTACT US</a>
+			<br>
+			<div style="font-size: 10px;">Copyright 2008 GO211.com W1 (5)</div>
+		</div>
+
+	</div><!-- /innerMain -->
+</div><!-- /outterMain -->
+
+<script language="javascript" type="text/javascript" src="http://analytics.live.com/Analytics/msAnalytics.js"></script>
+<script language="javascript" type="text/javascript">
+	msAnalytics.ProfileId = 'CA16';
+	msAnalytics.CookieDomain = '';
+	msAnalytics.TrackPage();
+</script>
 
 </body></html>
