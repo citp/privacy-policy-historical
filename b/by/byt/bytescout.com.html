@@ -1,700 +1,325 @@
-<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229100309id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629014247id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>ByteScout.Com Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="bytescout, privacy statement, cookies, information, swreg">
-<meta name="description" content="ByteScout.com privacy statement"><link rel="stylesheet" href="mainstyles.css" type="text/css">
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0px;padding:0px ">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<meta name="description" content="ByteScout.com privacy statement">
+<link rel="stylesheet" href="mainstyles.css" type="text/css">
+<link rel="stylesheet" href="css/left_menu.css" type="text/css">
+<script type="text/javascript">
+
+function DownloadThanks()
+{
+var destination = "thanks_for_downloading.html";
+setTimeout("window.location='"+destination+"'",2000);
+return true;
+}
+
+function left_menu(id) {
+	if (!document.getElementById || !document.getElementsByTagName)
+		return false;
+	this.menu = document.getElementById(id);
+	this.submenus = this.menu.getElementsByTagName("div");
+	this.remember = true;
+	this.speed = 3;
+	this.markCurrent = true;
+	this.oneSmOnly = false;
+}
+left_menu.prototype.init = function() {
+	var mainInstance = this;
+	for (var i = 0; i < this.submenus.length; i++)
+		this.submenus[i].getElementsByTagName("span")[0].onclick = function() {
+			mainInstance.toggleMenu(this.parentNode);
+		};
+	if (this.markCurrent) {
+		var links = this.menu.getElementsByTagName("a");
+		for (var i = 0; i < links.length; i++)
+			if (links[i].href == document.location.href) {
+				links[i].className = "current";
+				break;
+			}
+	}
+	if (this.remember) {
+		var regex = new RegExp("left_menu_" + encodeURIComponent(this.menu.id) + "=([01]+)");
+		var match = regex.exec(document.cookie);
+		if (match) {
+			var states = match[1].split("");
+			for (var i = 0; i < states.length; i++)
+				this.submenus[i].className = (states[i] == 0 ? "collapsed" : "");
+		}
+	}
+};
+left_menu.prototype.toggleMenu = function(submenu) {
+	if (submenu.className == "collapsed")
+		this.expandMenu(submenu);
+	else
+		this.collapseMenu(submenu);
+};
+left_menu.prototype.expandMenu = function(submenu) {
+	var fullHeight = submenu.getElementsByTagName("span")[0].offsetHeight;
+	var links = submenu.getElementsByTagName("a");
+	for (var i = 0; i < links.length; i++)
+		fullHeight += links[i].offsetHeight;
+	var moveBy = Math.round(this.speed * links.length);
+	
+	var mainInstance = this;
+	var intId = setInterval(function() {
+		var curHeight = submenu.offsetHeight;
+		var newHeight = curHeight + moveBy;
+		if (newHeight < fullHeight)
+			submenu.style.height = newHeight + "px";
+		else {
+			clearInterval(intId);
+			submenu.style.height = "";
+			submenu.className = "";
+			mainInstance.memorize();
+		}
+	}, 30);
+	this.collapseOthers(submenu);
+};
+left_menu.prototype.collapseMenu = function(submenu) {
+	var minHeight = submenu.getElementsByTagName("span")[0].offsetHeight;
+	var moveBy = Math.round(this.speed * submenu.getElementsByTagName("a").length);
+	var mainInstance = this;
+	var intId = setInterval(function() {
+		var curHeight = submenu.offsetHeight;
+		var newHeight = curHeight - moveBy;
+		if (newHeight > minHeight)
+			submenu.style.height = newHeight + "px";
+		else {
+			clearInterval(intId);
+			submenu.style.height = "";
+			submenu.className = "collapsed";
+			mainInstance.memorize();
+		}
+	}, 30);
+};
+left_menu.prototype.collapseOthers = function(submenu) {
+	if (this.oneSmOnly) {
+		for (var i = 0; i < this.submenus.length; i++)
+			if (this.submenus[i] != submenu && this.submenus[i].className != "collapsed")
+				this.collapseMenu(this.submenus[i]);
+	}
+};
+left_menu.prototype.expandAll = function() {
+	var oldOneSmOnly = this.oneSmOnly;
+	this.oneSmOnly = false;
+	for (var i = 0; i < this.submenus.length; i++)
+		if (this.submenus[i].className == "collapsed")
+			this.expandMenu(this.submenus[i]);
+	this.oneSmOnly = oldOneSmOnly;
+};
+left_menu.prototype.collapseAll = function() {
+	for (var i = 0; i < this.submenus.length; i++)
+		if (this.submenus[i].className != "collapsed")
+			this.collapseMenu(this.submenus[i]);
+};
+left_menu.prototype.memorize = function() {
+	if (this.remember) {
+		var states = new Array();
+		for (var i = 0; i < this.submenus.length; i++)
+			states.push(this.submenus[i].className == "collapsed" ? 0 : 1);
+		var d = new Date();
+		d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
+		document.cookie = "left_menu_" + encodeURIComponent(this.menu.id) + "=" + states.join("") + "; expires=" + d.toGMTString() + "; path=/";
+	}
+};
+</script>
 
 <script type="text/javascript">
+var MenuObj;
+
 window.onload = setLinkBehaviours;
 
-function formatLink(link)
-{
-  var res;
-  var re = /http:\/\/(.*)/ig;
-  res = link.replace(re, "$1");
-  re = /\//g;
-  return res.replace(re, "_");
-}
 
 function setLinkBehaviours()
 {
-    var Links = document.getElementsByTagName( 'A' );
-    for( var i = 0; i < Links.length; i++ )
-    {
-        Links[i].onclick = function() {
-            if(this.href.indexOf(".htm")==-1 && (this.href.indexOf(".exe")>=0 || this.href.indexOf(".zip")>=0 || this.href.indexOf(".png")>=0 || this.href.indexOf(".jpg")>=0 || this.href.indexOf(".pdf")>=0 || this.href.indexOf(".swf")>=0 || this.href.indexOf(".xls")>=0))
-            {
-                urchinTracker("/" + formatLink( this.href));
-            }
-	    else if((this.href.indexOf("bytescout.com")==-1) && (this.href.indexOf("javascript:")==-1)){
-                	urchinTracker("/out/" + formatLink( this.href));			
-		 }
-        }
-    }
+	// now initialize the menu
+		MenuObj = new left_menu("menu1");
+		MenuObj.init();
 }
-_uacct = "UA-96647-1";
-urchinTracker();
 </script>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+	  
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0px;padding:0px ">
+<table width="99%" border="0" align="left" cellpadding="0" cellspacing="0">
   <tbody><tr> 
-    <td> 
-      <table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td rowspan="2" width="209" height="226"> 
-            <table width="209" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                                <td> 
-				<a href="../index.html"><img src="images/main_logo.jpg" width="209" height="66" alt="" border="0"></a><br>
-				<!-- Windows Live Search -->
-<div id="WLSearchBoxDiv" style="padding-left:5; width: 180px;">
-	<table cellpadding="0" cellspacing="0"><tbody><tr id="WLSearchBoxPlaceholder">
-	<td style="border-style: solid none solid solid; border-color: rgb(75, 123, 159); border-width: 2px;">
-	<input maxlength="200" autocomplete="off" id="WLSearchBoxInput" value="loading..." style="font-family:tahoma;font-size:12px; border: 0px none rgb(255, 255, 255); background-image: url(http://search.live.com/s/siteowner/searchbox_background.png); background-repeat: no-repeat; height: 16px; width: 165px;" type="text"></td><td style="border: 2px solid rgb(75, 123, 159);">
-	<input ilo-full-src="http://search.live.com/s/siteowner/searchbutton_normal.PNG" id="WLSearchBoxButton" src="http://search.live.com/s/siteowner/searchbutton_normal.PNG" style="border-style: none;" align="absbottom" type="image">
-	</td>
-	</tr>
-	</tbody>
-	</table>
-	<script type="text/javascript" charset="utf-8">
-	var WLSearchBoxConfiguration=
-	{
-		"global":{
-			"serverDNS":"search.live.com"
-		},
-		"appearance":{
-			"autoHideTopControl":false,
-			"width":600,
-			"height":400
-		},
-		"scopes":[
-			{
-				"type":"web",
-				"caption":"Bytescout Software Site",
-				"searchParam":"site:bytescout.com"
-			}
-			,
-			{
-				"type":"web",
-				"caption":"Web",
-				"searchParam":""
-			}
-		]
-	}
-	</script>
-	<script language="javascript" src="http://search.live.com/bootstrap.js?ServId=SearchBox&amp;ServId=SearchBoxWeb&amp;Callback=WLSearchBoxScriptReady"></script>
-</div>
-<!-- Windows Live Search -->
-				</td>
-              </tr>
-              <tr> 
-                <td background="images/table-5_05.jpg" width="209" height="122"> 
-                  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td width="27%" valign="top" align="right"><img src="images/01_company-picture-1_16.jpg"></td>
-                      <td width="73%" height="100%" valign="top"> 
-                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr> 
-                            <td height="28"> 
-                              <div style="padding-left:5 "><font class="textwhite">Privacy 
-                                Statement</font></div>
-                            </td>
-                          </tr>
-                          <tr> 
-                            <td height="90"> 
-                              <div style="padding-left:5 "> 
-                                <p><font class="textblack">Your privacy is very 
-                                  important for us and we keep all your personal 
-                                  information secret. We don't share it with anyone 
-                                  else.</font></p>
-                              </div>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td> <img src="images/table-5_06.jpg" width="209" height="14" alt=""></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td> 
-            <table width="557" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td> <a href="../index.html"><img src="images/table-8_02.jpg" width="103" height="54" alt="Main Page of Products" border="0"></a></td>
-                <td> <a href="../download.html"><img src="images/table-8_03.jpg" width="87" height="54" alt="Download" border="0"></a></td>
-                <td> <a href="../purchase.html"><img src="images/table-8_04.jpg" width="87" height="54" alt="Purchase" border="0"></a></td>
-                <td> <a href="../support.html"><img src="images/table-8_05.jpg" width="87" height="54" alt="Support" border="0"></a></td>
-                <td> <a href="../contacts.html"><img src="images/table-8_06.jpg" width="87" height="54" alt="Contacts" border="0"></a></td>
-                <td background="images/table-8_07.jpg" width="106" height="54"> 
-                  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td width="23%" align="right"><img src="images/home_05.jpg"></td>
-                      <td width="77%"> 
-                        <div style="padding-left:5 "><font class="textblack" style="color:#B7B7B7 "><a href="../index.html" style="color:#B7B7B7 ">Home</a></font></div>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td align="right"><img src="images/help_09.jpg"></td>
-                      <td> 
-                        <div style="padding-left:5 "><font class="textblack" style="color:#B7B7B7 "><a href="../help.html" style="color:#B7B7B7 ">Help</a></font></div>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td align="right"><img src="images/sitemap_12.jpg"></td>
-                      <td> 
-                        <div style="padding-left:5 "><font class="textblack" style="color:#B7B7B7 "><a href="../sitemap.html" style="color:#B7B7B7 ">Sitemap</a></font></div>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td> 
-            <table width="557" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td rowspan="3"> <img src="images/girl1.jpg" width="136" height="172" alt=""></td>
-                <td rowspan="3"> <img src="images/without_fl_15.jpg" width="143" height="172" alt=""></td>
-                <td colspan="2"> <img src="images/without_fl_16.jpg" width="278" height="107" alt=""></td>
-              </tr>
-              <tr> 
-                <td colspan="2" background="images/without_fl_20.jpg" width="278" height="35"> 
-                  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td width="24%">&nbsp;</td>
-                      <td width="8%" align="right"> 
-                        <div style="padding-bottom:5 "></div>
-                      </td>
-                      <td width="68%"> 
-                        <div style="padding-bottom:5;padding-left:3 "><font class="textwhite">Quick 
-                          Links </font></div>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td> <img src="images/without_fl_24.jpg" width="65" height="30" alt=""></td>
-                <td> <img src="images/quick_links_head.jpg" width="213" height="30" alt=""></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td colspan="2"><img src="images/bok_fl_02.jpg" width="766" height="1"></td>
-        </tr>
-      </tbody></table>
+    <td width="212" valign="top">
+      <a href="/"><img src="/images/main_logo.jpg" alt="Home" border="0"></a>
+
+      <p class="textblack"><strong>About Us <br>
+        <br>
+        </strong><a href="about_us.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
+        about us</font></a><br>
+        <a href="press.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
+        press</font></a><br>
+        <a href="privacy_statement.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
+        privacy statement</font></a><br>
+        <a href="partner_solutions.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
+        partner solutions </font></a></p>
+      <br>
+<!-- menu begin -->
+<div style="float: left" id="menu1" class="left_menu"> 
+        <div> <span>Products</span> <a href="watermarking.html">Watermarking</a> 
+		<a href="watermarkingpro.html">Watermarking PRO (with EXIF macros)</a> 
+          <a href="formfiller.html">Form Filler</a> <a href="graphdigitizerscout.html">Graph 
+          Digitizer Scout</a> <a href="moviesextractorscout.html">Movies Extractor 
+          Scout</a> <a href="swftovideoscout.html">SWF To Video Scout</a> <a href="swftovideoscoutpro.html">SWF 
+          To Video Scout PRO</a> <a href="ppttoswfscout.html">PPT To SWF Scout</a> 
+          <a href="ppttopdfscout.html">PPT To PDF Scout</a> <a href="ppttovideoscout.html">PPT 
+          To Video Scout</a> <a href="swftoscreensaverscout.html">SWF To ScreensaverScout</a> 
+		   <a href="wallpaperscout.html">Wallpaper Scout</a> 
+        </div>
+        <div class="collapsed"> 
+		<span>For Software Developers</span> 
+<a href="watermarkingsdk.html">Watermarking SDK for .NET</a> 		  
+<a href="bytescoutxls.html">Bytescout.XLS for .NET</a>
+<a href="swfscout.html">SWF 
+          Scout library</a> <a href="swfslideshowscout.html">SWF SlideShow Scout 
+          library</a> <a href="rss2htmlpro.html">RSS2HTMLPro.ASP script</a> 
+
+<a href="pdfdocscout.html">PDFDoc Scout library</a>  
+          <a href="bytescoutpdf.html">Bytescout.PDF for .NET</a> 
+		  
+		  <a href="how_to_automate_conversion_of_powerpoint_to_video.html">PPT 
+          To Video command-line</a> <a href="swftovideo_using_command_line_interface_to_automate.html">SWF 
+          To Video command-line</a> 
+		 </div>
+        <div> 
+		<span>Download</span> 
+		<a href="download.html">Free Trial Versions</a>
+		<a href="download_freeware.html">Freeware Software</a> 
+        </div>
+        <div> 
+		<span>Purchase</span> 
+		 <a href="purchase.html">Online Shop</a> 
+		 <a href="purchase_resellers.html">Worldwide Resellers</a> 
+        </div>		
+        <div class="collapsed"> 
+		<span>Support</span> 
+		  <a href="support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2">Submit a Ticket</a> 
+		  <a href="mailto:support@bytescout.com?subject=[Question]">Submit a Ticket via E-Mail</a> 
+		  <a href="support/">Manage Tickets</a> 
+		</div>
+      </div>
+<!-- menu end -->		
+	  
     </td>
-    <td valign="top" background="images/tiling-1_02-1.jpg" width="100%" height="226"> 
+    <td width="99%" align="left" valign="top"> 
+      <div style="padding-left: 4px; padding-top: 4px"> 
+<form action="http://bytescout.com/search_results.html" id="cse-search-box">
+ <font class="textblue1">
+
+ &nbsp;<a href="index.php" style="color:#4687B6;text-decoration:none ">Products</a> 
+ &nbsp;|&nbsp; <a href="download.html" style="color:#4687B6;text-decoration:none ">Download</a> 
+ &nbsp;|&nbsp; <a href="purchase.html" style="color:#4687B6;text-decoration:none ">Purchase</a> 
+ &nbsp;|&nbsp; <a href="support.html" style="color:#4687B6;text-decoration:none ">Support</a> 
+ &nbsp;|&nbsp; <a href="contacts.html" style="color:#4687B6;text-decoration:none ">Contacts</a>
+ &nbsp;|&nbsp; <a href="random_quote.php?all" style="color:#4687B6;text-decoration:none ">Testimonials</a> |&nbsp; 
+<!-- Google CSE code begins -->
+    <input type="hidden" name="cx" value="011330914343353014936:ks1xvgmifuk">
+    <input type="hidden" name="cof" value="FORID:11">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="17">
+    <input type="submit" name="sa" value="Search">	
+<!-- Google CSE code ends -->	
+ </font>
+</form>
+
+  <hr>
+</div>
+	  
+      <div style="padding-left:5;padding-right:5;padding-bottom:5 "> 
+        <div style="padding-left:5 "><strong>Privacy Statement</strong></div>
+        <div style="padding-left:15 "> 
+          <p class="textblack">ByteScout Software Development has created this 
+            privacy statement in order to demonstrate our firm commitment to privacy. 
+            The following discloses the information gathering and dissemination 
+            practices for this Web site: www.ByteScout.com.</p>
+          <p class="textblack"><b>Information Automatically Logged</b><br>
+            We use your IP address to help diagnose problems with our server and 
+            to administer our Web site. This information is also used to allow 
+            us to determine statistical usage of the website.</p>
+          <p class="textblack">The referring URL (the web page you left before 
+            coming to a www.ByteScout.com web page, if any) is logged whenever 
+            you view a page on the www.ByteScout.com website. This allows us to 
+            see which areas are more popular than others on the website, the paths 
+            taken to reach each page, and it also allows us to gauge the effectiveness 
+            of any promotional programs we may be running at the time.</p>
+          <p class="textblack">All such information is gathered globally rather 
+            than individually, and no information is linked to any identifying 
+            information about you.</p>
+          <p class="textblack"><b>Cookies</b><br>
+            Our site uses cookies to track the aggregate information about our 
+            visitors. This information is not linked to individual visitors.</p>
+          <p class="textblack"><b>Order Forms</b><br>
+            ByteScout Software Development has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+            Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+            e-commerce providers to accept your orders. Both <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+            Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+            provide secure order forms for you to buy our products. When you place 
+            an order, <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+            Regnow</font></a> or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+            collects contact information (like your email address), and financial 
+            information (like your credit card number). Contact information from 
+            the order forms is used only to get in touch with you when necessary. 
+            This includes sending you the product(s) you ordered, notifying you 
+            about new versions of the product(s) you ordered, and contacting you 
+            if there's a problem with your order. Financial information that is 
+            collected is used to bill you for the order. </p>
+          <p class="textblack"><b>Newsletter</b><br>
+            We allow visitors to sign up for our free newsletter by providing 
+            an email address. The email address you provide is used only to send 
+            you the free newsletter.</p>
+          <p class="textblack"><b>External Links</b><br>
+            This site contains links to other sites. ByteScout Software Development 
+            is not responsible for the privacy practices or the content of such 
+            web sites.</p>
+          <p class="textblack"><b>Security</b><br>
+            This site has security measures in place to protect the loss, misuse, 
+            and alteration of the information under our control.</p>
+                      </div>
+      </div>
+      
     </td>
   </tr>
   <tr> 
-    <td bgcolor="#E4E4E4"> 
-      <table border="0" cellpadding="0" cellspacing="0">
+    <td colspan="2"> 
+              <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td height="100%" valign="top"> 
-            <table width="216" height="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td> 
-                  <table width="216" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td background="images/table-1_04.jpg" width="216" height="30" valign="top"> 
-                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr> 
-                            <td width="19%" align="right" valign="top"><img src="images/paper_03.jpg" vspace="0" width="15" height="15"></td>
-                            <td width="81%"> 
-                              <div style="padding-left:5;padding-bottom:12 "><font class="textwhite">About 
-                                Us </font></div>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td background="images/table-1_07.jpg" width="216"> 
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr> 
-                            <td valign="top"> 
-                              <div style="padding-left:5;padding-top:10;padding-right:10"><a href="../about_us.html" style="color:#4687B6;text-decoration:none "> 
-                                <img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                about us</font></a></div>
-                              <div style="padding-left:5;padding-right:10"><a href="../privacy_statement.html" style="color:#4687B6;text-decoration:none "> 
-                                <img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                privacy statement</font></a></div>
-                              <div style="padding-left:5;padding-right:10;padding-bottom:10;"> 
-                                <a href="../partner_solutions.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                partner solutions </font></a></div>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td height="100%" bgcolor="#F1F1F1" background="images/tiling-7_68.jpg"> 
-                  <table width="216" height="100%" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td background="images/table-2_10.jpg" width="216" height="40" style="background-repeat:no-repeat;background-position:top "> 
-                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr> 
-                            <td width="19%" align="right" valign="top"><img src="images/men_20.jpg" vspace="6"></td>
-                            <td width="81%" valign="top"> 
-                              <div style="padding-left:5;padding-top:7 "><font class="textwhite">Quick 
-                                Contact Form</font></div>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td valign="top" background="images/table-2_11.jpg" width="216" height="174"> 
-                                                        <div style="padding-left:10"> 
-<font class="textblack">								
-                          <p>Contact us:</p>
-						  <ul>
-                          <li><a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2" style="color:#4687B6;text-decoration:none ">General 
-                            Questions</a></li>
-                          <li> <a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=1" style="color:#4687B6;text-decoration:none ">Sales 
-                            Questions</a></li>
-                          <li><a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=3" style="color:#4687B6;text-decoration:none ">Press 
-                            Relations Department</a></li>
-                        </ul>
-						</font>
-						
-					<p><font class="textblack">Contact us via e-mail:<br>
-						<br>
-<a onmouseover="email = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m','?','s','u','b','j','e','c','t','=','[','Q','u','e','s','t','i','o','n',']');this.href='mailto:';for(i=0;i<email.length;i++){this.href+=email[i]}" href="blockme@relays.osirusoft.com"><script>text = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m');for(i=0;i<text.length;i++) {document.write(text[i])}</script>support@bytescout.com</a>
-					</font>
-					</p>
-					<font class="textblack">
-						<strong>IMPORTANT:</strong>
-						
-						When you send us e-mail then confirmation will be sent to you via email 
-                            within next 10-20 minutes. Sometime emails may be 
-                            caught by your "Spam Protection" tool, or 
-                            may be automatically sent to your "Junk" 
-                            folder, please be sure to check those locations if 
-                            you don't receive the confirmation.<p></p>
-                          <p>To manage your previously submitted tickets 
-                            please <a href="http://bytescout.com/support/">login 
-                            here</a></p>
-                          						
-						</font>
-                                </div>
+          <td width="50%" align="left"> 
+ <font class="textblue1">
+  <a href="index.php" style="color:#4687B6;text-decoration:none ">Products</a> 
+ &nbsp;|&nbsp; <a href="download.html" style="color:#4687B6;text-decoration:none ">Download</a> 
+ &nbsp;|&nbsp; <a href="purchase.html" style="color:#4687B6;text-decoration:none ">Purchase</a> 
+ &nbsp;|&nbsp; <a href="support.html" style="color:#4687B6;text-decoration:none ">Support</a> 
+ &nbsp;|&nbsp; <a href="contacts.html" style="color:#4687B6;text-decoration:none ">Contacts</a>
+ &nbsp;|&nbsp; <a href="random_quote.php?all" style="color:#4687B6;text-decoration:none ">Testimonials</a>
+ 
+   | <a href="http://feeds.feedburner.com/Bytescout" style="color:#4687B6;text-decoration:none "><img src="images/feed-icon-14x14.png" width="14" height="14" border="0"></a> 
+&nbsp;
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">addthis_pub  = 'b2008';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
 
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp; </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td height="100%" valign="top"> 
-            <table width="337" height="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td> 
-                  <table width="337" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td background="images/table-3_05.jpg" width="337" height="34" valign="top"> 
-                        <div style="padding-left:20 "><img src="images/line_policy.jpg" vspace="5"></div>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td height="100%" valign="top"> 
-                  <table width="337" height="100%" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td background="images/table-4_16.jpg" height="96" class="textblack" valign="top"> 
-                        <p>ByteScout Software Development has created this privacy 
-                          statement in order to demonstrate our firm commitment 
-                          to privacy. The following discloses the information 
-                          gathering and dissemination practices for this Web site: 
-                          www.ByteScout.com.</p>
-                        <p><b>Information Automatically Logged</b><br>
-                          We use your IP address to help diagnose problems with 
-                          our server and to administer our Web site. This information 
-                          is also used to allow us to determine statistical usage 
-                          of the website.</p>
-                        <p>The referring URL (the web page you left before coming 
-                          to a www.ByteScout.com web page, if any) is logged whenever 
-                          you view a page on the www.ByteScout.com website. This 
-                          allows us to see which areas are more popular than others 
-                          on the website, the paths taken to reach each page, 
-                          and it also allows us to gauge the effectiveness of 
-                          any promotional programs we may be running at the time.</p>
-                        <p>All such information is gathered globally rather than 
-                          individually, and no information is linked to any identifying 
-                          information about you.</p>
-                        <p><b>Cookies</b><br>
-                          Our site uses cookies to track the aggregate information 
-                          about our visitors. This information is not linked to 
-                          individual visitors.</p>
-                        <p><b>Order Forms</b><br>
-                          ByteScout Software Development has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
-                          </font></a>and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-                          to accept your orders. Both <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
-                          </font></a>and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-                          provide secure order forms for you to buy our products. 
-                          When you place an order, <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
-                          </font></a>or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-                          collects contact information (like your email address), 
-                          and financial information (like your credit card number). 
-                          Contact information from the order forms is used only 
-                          to get in touch with you when necessary. This includes 
-                          sending you the product(s) you ordered, notifying you 
-                          about new versions of the product(s) you ordered, and 
-                          contacting you if there's a problem with your order. 
-                          Financial information that is collected is used to bill 
-                          you for the order. <br>
-                        </p>
-                        <p><b>Newsletter</b><br>
-                          We allow visitors to sign up for our free newsletter 
-                          by providing an email address. The email address you 
-                          provide is used only to send you the free newsletter.</p>
-                        <p><b>External Links</b><br>
-                          This site contains links to other sites. ByteScout Software 
-                          Development is not responsible for the privacy practices 
-                          or the content of such web sites.</p>
-                        <p><b>Security</b><br>
-                          This site has security measures in place to protect 
-                          the loss, misuse, and alteration of the information 
-                          under our control. This site uses a secure server for 
-                          all credit card orders, securely encrypting all personal 
-                          data with industry-standard methods.</p>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td height="100%" valign="top"> 
-            <table width="213" height="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td background="images/table-8_10.jpg" width="213" height="103"> 
-                  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td width="33%" align="right" valign="top"><img src="images/man_1.jpg" vspace="5" hspace="5" width="62" height="99"></td>
-                      <td width="67%" valign="top"> 
-                        <div style="padding-left:5;padding-right:10"> 
-                          <div style="padding-left:5;padding-top:5;padding-right:5 "> 
-                                <div style="padding-left:15;padding-right:15 "><a href="index.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  main page</font></a></div>
-                                <div style="padding-left:15;padding-right:15 "><a href="index.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  products</font></a></div>
-                                <div style="padding-left:15;padding-right:15 "><a href="download.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  download</font></a></div>
-                                <div style="padding-left:15;padding-right:15 "><a href="purchase.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  purchase</font></a></div>
-                                <div style="padding-left:15;padding-right:15 "><a href="blog/" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  our blog</font></a></div>
-                                <div style="padding-left:15;padding-right:15 "><a href="contacts.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  contact us</font></a></div>
-								  
-                                <br>
-								<div style="padding-left:15;padding-right:15 "><a href="press.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-                                  press section</font></a></div>
-								  
-								  <br>
-</div>
-
-                        </div>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td height="100%" valign="top"> 
-                  <table width="213" border="0" cellpadding="0" cellspacing="0" background="images/tiling-6_81.jpg">
-                    <tbody><tr> 
-                      <td background="images/table-7_24.jpg" width="213" height="90" style="background-repeat:no-repeat;background-position:bottom " valign="top"> 
-                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr background="images/tiling-6_81.jpg"> 
-                            <td background="images/table-7_23.jpg" width="213" height="44" style="background-repeat:no-repeat "> 
-                              <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr> 
-                                  <td width="17%" align="right" valign="top"> 
-                                    <div style="padding-top:5 "><img src="images/!_46.jpg" width="15" height="16"></div>
-                                  </td>
-                                  <td width="83%" valign="top"> 
-                                    <div style="padding-left:10;padding-top:5"><font class="textwhite">Direct 
-                                      Links </font></div>
-                                  </td>
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                          <tr> 
-                            <td valign="top"> 
-                              
-<div style="padding-left:5;padding-right:10 "> 
-  <p>
-    <font class="textblack"><a href="files/FormFiller.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout Form Filler (direct download link)"> 
-	<img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font>
-
-	<a href="buy/formfiller.html" style="color:#4687B6;text-decoration:none " title="Buy Bytescout Form Filler"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18"></a>	
+ </font>
 
 
-    <font class="textblue1">Form Filler</font>
-	<br>
-	
-    <font class="textblack"><a href="files/MoviesExtractorScout.exe" style="color:#4687B6;text-decoration:none " title="Download Movies Extractor Scout Free Trial (direct download link)"> 
-	<img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="buy/moviesextractorscout.html" style="color:#4687B6;text-decoration:none " title="Buy Movies Extractor Scout at $19 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">Movies Extractor Scout</font></a><br>
-	
-    <font class="textblack"><a href="files/SWFToVideoScout.exe" style="color:#4687B6;text-decoration:none " title="Download SWF To Video Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="buy/swftovideoscout.html" style="color:#4687B6;text-decoration:none " title="Buy SWF To Video Scout at $29 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">SWF2Video Scout </font></a>
-	<br>
-	
-    <font class="textblack"><a href="files/SWFToVideoScoutPro.exe" style="color:#4687B6;text-decoration:none " title="Download SWF To Video Scout PRO Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="buy/swftovideoscoutpro.html" style="color:#4687B6;text-decoration:none "> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">SWF2Video Scout PRO</font></a>
-	<br>
-	
-    <font class="textblack"><a href="files/PPTToVideoScout.exe" style="color:#4687B6;text-decoration:none " title="Download PPT To Video Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/ppttovideoscout.html" style="color:#4687B6;text-decoration:none " title="Buy PPT To Video Scout at $49 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">PPT To Video Scout </font></a>
-	<br>
-
-    <font class="textblack"><a href="files/PPTToPDFScout.exe" style="color:#4687B6;text-decoration:none " title="Download PPT To PDF Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/ppttopdfscout.html" style="color:#4687B6;text-decoration:none " title="Buy PPT To PDF Scout at $49 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">PPT To PDF Scout </font></a>
-	
-	<br>
-
-    <font class="textblack"><a href="files/SWFPrinter.exe" style="color:#4687B6;text-decoration:none " title="Download SWF Printer Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/swfprinter.html" style="color:#4687B6;text-decoration:none " title="Buy SWF Printer at $35 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">SWF Printer</font></a>
-	 <br>
-	
-  <font class="textblack"><a href="files/SWFPrinterPro.exe" style="color:#4687B6;text-decoration:none " title="Download SWF Printer PRO Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/swfprinterpro.html" style="color:#4687B6;text-decoration:none " title="Buy SWF Printer PRO at $65 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">SWF Printer Pro</font></a> 
-	<br>
-
-
-   <font class="textblack"><a href="files/PPTToSWFScout.exe" style="color:#4687B6;text-decoration:none " title="Download PPT To SWF Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/ppttoswfscout.html" style="color:#4687B6;text-decoration:none " title="Buy PPT To SWF Scout at $19 USD (regular price $49)"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">PPT To SWF Scout</font></a> 
-<br>
-
-    <font class="textblack"><a href="files/GraphDigitizerScout.exe" style="color:#4687B6;text-decoration:none " title="Download Graph Digitizer Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-	
-	</font>  <a href="buy/graphdigitizerscout.html" style="color:#4687B6;text-decoration:none " title="Buy Graph Digitizre Scout $35 USD (regular price $49) "> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">Graph Digitizer Scout </font></a>
-	<br>
-
-    <font class="textblack"><a href="files/SWFToScreensaverScout.exe" style="color:#4687B6;text-decoration:none " title="Download SWF To Screensaver Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> 
-	<a href="buy/swftoscreensaverscout.html" style="color:#4687B6;text-decoration:none " title="Buy SWF To Screensaver Scout at $35 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">SWF2ScreensaverScout</font></a>
-	<br>	
-
-    <font class="textblack"><a href="files/WallpaperScout.exe" style="color:#4687B6;text-decoration:none " title="Download Wallpaper Scout Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> 
-	<a href="buy/wallpaperscout.html" style="color:#4687B6;text-decoration:none " title="Buy Wallpaper Scout at $29 USD"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">
-    <font class="textblue1">Wallpaper Scout</font></a>
-	<br>	
-
-    <font class="textblack"><a href="files/SWFScout.exe" style="color:#4687B6;text-decoration:none " title="Download SWF Scout library Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase.html#swfscout" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for SWF Scout library (starting at $299 USD)"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">SWF Scout library</font> </a> <br>
-	
-    <font class="textblack"><a href="files/SWFSlideShowScout.exe" style="color:#4687B6;text-decoration:none " title="Download SWF SlideShow Scout library Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase.html#swfscout" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for SWF SlideShow Scout library (starting at $299 USD)"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">SWF SlideShow Scout library</font> </a> <br>	
-	
-    <font class="textblack"><a href="files/PDFDocScout.exe" style="color:#4687B6;text-decoration:none " title="Download PDFDoc Scout library Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase_pdfdocscout.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for PDFDoc Scout library (starting at $299 USD)"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">PDFDoc Scout library</font> </a> <br>
-		
-    <font class="textblack"><a href="files/BytescoutPDF.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout.PDF library for .NET Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase_bytescoutpdf.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for Bytescout.PDF library"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">Bytescout.PDF library for .NET</font> </a> <br>
-	
-    <font class="textblack"><a href="files/BytescoutXLS.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout.XLS library Free Trial (direct download link)"> 
-    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase_bytescoutxls.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for Bytescout.XLS library (starting at $195 USD)"> 
-    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
-    <font class="textblue1">Bytescout.XLS library for .NET</font> </a> <br>	
-		
-    <font color="#FF0000" class="textblack"><a href="academic_discount_request.html">how to apply discount for academic users</a></font> </p>
-  </div>
-
-                            </td>
-                          </tr>
-                          <tr> 
-                            <td height="100%" valign="top"> 
-                              <table width="213" height="100%" border="0" cellpadding="0" cellspacing="0" background="images/tiling-6_81.jpg">
-                                <tbody><tr> 
-                                  <td background="images/table-7_23.jpg" width="213" height="44" style="background-repeat:no-repeat "> 
-                                    <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                                      <tbody><tr> 
-                                        <td width="17%" align="right" valign="top"> 
-                                          <div style="padding-top:5 "><img src="images/!_46.jpg" width="15" height="16"></div>
-                                        </td>
-                                        <td width="83%" valign="top"> 
-                                          <div style="padding-left:10;padding-top:5"><font class="textwhite">Links 
-                                            And Resources</font></div>
-                                        </td>
-                                      </tr>
-                                    </tbody></table>
-                                  </td>
-                                </tr>
-                                <tr> 
-                                  <td background="images/table-7_24.jpg" width="213" height="90" style="background-repeat:no-repeat;background-position:bottom " valign="top"> 
-                                    <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-                                      <tbody><tr> 
-                                        <td valign="top"> 
-                                          <div style="padding-left:5;padding-top:5;padding-right:10 ">
-    <div style="padding-left:15;padding-right:10 "><font class="textblack"><a href="/blog/"><font class="textgren" style="text-decoration:underline ">Our 
-      Blog</font></a><br>
-      Our blog: news, updates, links, fun</font></div>
-    <div style="padding-left:15;padding-top:5 "> <a href="/blog/" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-      read more</font></a> </div><br>
-
-    <div style="padding-left:15;padding-right:10 "><font class="textblack"><a href="links_feedscout.html"><font class="textgren" style="text-decoration:underline ">RSS 
-      Links</font></a><br>
-      RSS links to different popular news sites, blogs and more</font></div>
-    <div style="padding-left:15;padding-top:5 "> <a href="links_feedscout.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-      read more</font></a> </div>
-    <div style="padding-left:15; padding-top:10"><font class="textblack"><a href="links_internetresearch.html"><font class="textgren" style="text-decoration:underline ">Internet 
-      Research Releated Resources</font></a><br>
-      List of links devoted to Internet research, various bibliography styles 
-      and other resources related to gathering, organizing and processing information 
-      from web sites.</font>
-  </div>
-  <div style="padding-left:15;padding-top:5 "> <a href="links_internetresearch.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-    read more</font></a> </div>
-  <div style="padding-left:15; padding-top:10"><font class="textblack"><a href="links_flashmovies.html"><font class="textgren" style="text-decoration:underline ">Funny 
-    Flash Movies</font></a><br>
-    Links to resources devoted to flash videos, animation and funny movies.</font></div>
-  <div style="padding-left:15;padding-top:5 "><a href="links_flashmovies.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-    read more</font></a></div>
-  <div style="padding-left:15; padding-top:10"><font class="textblack"><a href="links_developer.html"><font class="textgren" style="text-decoration:underline ">Software Developer Articles &amp; Tutorials</font></a><br>
-    Collection of Articles and Tutorials for Visual Basic, Visual C++, C#, ASP and ASP.NET developers</font></div>
-  <div style="padding-left:15;padding-top:5 "><a href="links_developer.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-    read more</font></a></div>	
-</div>
-                                        </td>
-                                      </tr>
-                                      <tr> 
-                                        <td valign="top" height="100%">&nbsp;</td>
-                                      </tr>
-                                    </tbody></table>
-                                  </td>
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td width="100%" bgcolor="#E4E4E4"></td>
-  </tr>
-  <tr> 
-    <td background="images/bottom_19.jpg" width="766" height="66" style="background-repeat:repeat-x "> 
-      <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="50%" align="center"> 
-                                <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="50%" align="center"> 
-<div><font class="textblue1"><a href="index.php" style="color:#4687B6;text-decoration:none ">Home</a> 
-              <font style="color:#4C4C4C;text-decoration:none "> </font><font class="textblue1"><font style="color:#4C4C4C;text-decoration:none "> 
-              ||</font> <a href="index.php" style="color:#4687B6;text-decoration:none ">Products</a></font> 
-              <font style="color:#4C4C4C;text-decoration:none ">||</font> <a href="download.html" style="color:#4687B6;text-decoration:none ">Download</a> 
-            <br>
-              <font class="textblue1"> 
-			  <a href="/blog/" style="color:#4687B6;text-decoration:none ">Blog</a> 
-              </font><font style="color:#4C4C4C;text-decoration:none ">||			  
-              <a href="purchase.html" style="color:#4687B6;text-decoration:none ">Purchase</a> 
-              </font><font style="color:#4C4C4C;text-decoration:none ">||</font> 
-              <a href="support.html" style="color:#4687B6;text-decoration:none ">Support</a> 
-              <font style="color:#4C4C4C;text-decoration:none ">||</font> <a href="contacts.html" style="color:#4687B6;text-decoration:none ">Contacts</a></font></div>
 		</td>
 
         </tr>
-      </tbody></table>			  </td>
-          <td width="50%"> 
-            <div style="padding-left:30 "><a href="http://www.bytescout.com/news.xml"><img src="images/feedbullet.gif" width="30" height="16" border="0"></a> <font class="textblack" style="color:#4C4C4C "> 
-              ByteScout, 2003-2005. All other company and product names may be
-                   trademarks of their respective companies. <font class="textblue1"><a href="../privacy_statement.html" style="color:#4687B6;text-decoration:none ">Privacy 
-              Statement</a></font></font></div>
-          </td>
-        </tr>
       </tbody></table>
-    </td>
-    <td valign="top" background="images/tiling-2_08.jpg" height="67" width="100%" colspan="2" style="background-position:top left "> 
-      
+      <br> 
+                  <div style="padding-left:4 ">
+			<a href="http://feeds.feedburner.com/Bytescout"><img src="images/feed-icon-14x14.png" width="14" height="14" border="0"></a> 
+			<font class="textblack" style="color:#4C4C4C "> 
+              ByteScout, 2003-2008. All other company and product names may be
+                   trademarks of their respective companies. <font class="textblue1"><a href="privacy_statement.html" style="color:#4687B6;text-decoration:none ">Privacy
+                Statement</a></font></font></div>	  
     </td>
   </tr>
 </tbody></table>
