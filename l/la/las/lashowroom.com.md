@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224020907id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628233215id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
 
-# LA Showroom - Privacy Policy
+# LAShowroom.com - Privacy Policy
 
-## LA SHOWROOM PRIVACY STATEMENT
+## LASHOWROOM.COM PRIVACY STATEMENT
 
-This privacy statement covers the site WWW.LASHOWROOM.COM. This policy statement strives to explain the following issues.
+This privacy statement covers the site . This policy statement strives to explain the following issues.
 
-  1. What personally identifiable information lashowroom.com collects.
+  1. What personally identifiable information LAShowroom.com collects.
   2. What personally identifiable information third parties collect through the Web site.
   3. What organization collects the information.
-  4. How lashowroom.com uses the information.
-  5. With whom lashowroom.com may share user information.
+  4. How LAShowroom.com uses the information.
+  5. With whom LAShowroom.com may share user information.
   6. What choices are available to users regarding collection, use and distribution of the information.
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under lashowroom.com's control.
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under LAShowroom.com's control.
   8. How users can correct any inaccuracies in the information.
 
 
 
-If users have questions or concerns regarding this statement, they should first contact us by phone at 213.627.0339 or by fax at 213.627.0369
+If users have questions or concerns regarding this statement, they should first contact us by phone at 213.612.0991 or by fax at 213.627.0369
 
 ## Information Collection and Use
 
 ### Information Collection
 
-The ownership of user information collected in www.lashowroom.com is twofold. Primarily, www.lashowroom.com owns all the information collected on the site. However, as and when a user requests access to a particular store, then that store also owns that user's information. Lashowroom.com collects information from our users at several different points on our Web site.
+The ownership of user information collected in is twofold. Primarily, LAShowroom.com owns all the information collected on the site. However, as and when a user requests access to a particular store, then that store also owns that user's information. LAShowroom.com collects information from our users at several different points on our Web site.
 
 ### Registration
 
@@ -35,7 +35,7 @@ We request information from the user on our checkout form. A user must provide c
 
 ### Information Use
 
-www.lashowroom.com is an online marketplace of apparel manufacturers and wholesalers. The information collected at the time of registration and checkout are used to carry out the primary task of facilitating a sale from the apparel manufacturer/wholesaler to the customer.
+LAShowroom.com is an online marketplace of apparel manufacturers and wholesalers. The information collected at the time of registration and checkout are used to carry out the primary task of facilitating a sale from the apparel manufacturer/wholesaler to the customer.
 
 As soon as the user registers with a store or requests access to a store, his/her registration information is sent to that particular store. The store representative then can either immediately grant access to the user or contact the user for further questions/clarifications before granting access. The user can view and purchase clothing from those stores where he/she has been granted access. However, the right to cancel or grant access to any users is the sole prerogative of the store representative. Once granted access, the user will be able to access the store using his/her username and password (login information). It is the responsibility of the user and the store representative to maintain the secrecy of the username and password. Any fraudulent use of login information will lead to legal action or at the very least cancellation of access.
 
@@ -58,7 +58,7 @@ The information collected at the time of checkout is used for the following purp
 
 
 
-www.lashowroom.com reserves the right to share the registration information with any third party that we deem is a business associate. This will only be done as a business enhancement exercise.
+LAShowroom.com reserves the right to share the registration information with any third party that we deem is a business associate. This will only be done as a business enhancement exercise.
 
 ### Profile
 
@@ -102,11 +102,11 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 ### Business Transitions
 
-In the event lashowroom.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event LAShowroom.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
 ## Links
 
-This Web site contains links to other sites. Please be aware that we, lashowroom.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we, LAShowroom.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ## Security
 
@@ -130,11 +130,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**LA Showroom Inc.**  
+**LAShowroom.com**  
 110 E. 9th St. Ste B1201  
 Los Angeles, CA 90079  
 USA  
-Tel: 213.627.0339  
+Tel: 213.612.0991  
 Fax: 213.627.0369  
 E-mail: customerservice@lashowroom.com  
 []()
