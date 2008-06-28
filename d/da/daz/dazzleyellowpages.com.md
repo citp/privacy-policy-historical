@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231120749id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628192221id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
 
 # DazzleYellowPages.com - Privacy Policy
 
@@ -126,6 +126,8 @@ A cookie is a small, encrypted data string our server writes to your hard drive 
   
    
   
+[ ](http://www.dazzleyellowpages.com/order.asp?ctrid=)
+
 |  Fill in almost any combination of fields:  
 ---  
 Keyword:  
