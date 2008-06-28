@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230014018id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628160924id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gardening Know How
+# Privacy Policy Gardening Know How
 
 **We will not sell or share your email address.** We respect your privacy. We collect visitor information in an effort to improve your experience and to communicate with you about our services, contests and promotions. We recognize that we must maintain and use customer information responsibly. When obtaining information from you, we follow a simple, common sense principle: we ask only for the information we need to provide the service you request. For example, if you would like to receive emails from us, we need an email address.
 
