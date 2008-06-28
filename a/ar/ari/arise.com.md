@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arise.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229121415id_/http%3A//www.arise.com/Content/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arise.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628053625id_/http%3A//www.arise.com/Content/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Real Home Based Business Opportunity - Arise - At Home
 
