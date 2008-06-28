@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229172932id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629002436id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # BIKEmagic - Privacy Policy
 
@@ -8,11 +8,18 @@
 ---  
 **
 
-Join today & you could win one of five tubeless conversion kits from Hotlines
+Join today & you could win one of five Joe's no flats tubeless conversion kits from Hotlines
 
 **  
 [why join?](https://web.archive.org/members/whyjoin.asp?sp=&v=1)    
   
+**Got gear to[BUY](https://web.archive.org/classifieds/classifieds.asp?) or [SELL](https://web.archive.org/classifieds/classifieds.asp?)?**
+
+  
+Don't post it up in the forum!   
+Go to the [BM Classifieds](https://web.archive.org/classifieds/classifieds.asp?) and post an advert or see what's on offer.  
+And if you can't see what you want then post in the [Wanteds](https://web.archive.org/classifieds/wanteds.asp?) section. 
+
 | 
 
 |   
