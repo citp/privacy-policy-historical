@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228163219id_/http%3A//www.teamcowboy.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628053458id_/http%3A//www.teamcowboy.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Team Cowboy - Privacy Policy
 
