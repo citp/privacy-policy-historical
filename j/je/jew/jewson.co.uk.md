@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewson.co.uk privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228152243id_/http%3A//www.jewson.co.uk/en/static/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewson.co.uk privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629014523id_/http%3A//www.jewson.co.uk/en/static/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Jewson - The UK's leading supplier of building materials and industry expertise
 
