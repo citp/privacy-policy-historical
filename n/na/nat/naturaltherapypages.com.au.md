@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912225832id_/http%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628233927id_/http%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NaturalTherapyPages.com.au
 
