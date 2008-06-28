@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224215722id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629003106id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk: Help > Security & Privacy > Privacy Notice
 
@@ -126,7 +126,7 @@ Examples of information you can access easily at Amazon.co.uk include: up-to-dat
 
 **Co-Branded and Joint Offerings**
 
-In the future we may offer joint or co-branded products and services such as those offered on Amazon.com's US website for Target, Borders, Hotwire, Gap, Nordstrom, Office Depot and Virginmega.com.
+In the future we may offer joint or co-branded products and services such as those offered on Amazon.com's US website for Target, Hotwire, Gap, Nordstrom, Office Depot and Virginmega.com.
 
 [Back to top](https://web.archive.org/gp/help/customer/display.html?nodeId=502584#Top)
 
