@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230014427id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628144314id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Discount Remote Control Airplanes, Helicopters, Trucks, Cars, and Boats from Nikko, Venom, and Megatech + New Erector Sets!
+# Discount Remote Control Airplanes & Helicopters, Radio Control Cars & Trucks + RC Boats - All Types
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071230014427id_/http%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080628144314id_/http%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
