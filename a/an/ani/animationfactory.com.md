@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029113144id_/http%3A//www.animationfactory.com/en/company/privacy.mc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628233946id_/http%3A//www.animationfactory.com/en/company/privacy.mc) for the most accurate reproduction.*
 
-# Animation Factory - Royalty Free Animations, 3D Clip Art, Backgrounds, PowerPoint Templates, and Video Clips
+# Royalty Free Animations, PowerPoint Templates, Videos, and Animated Clipart
 
-| 
-
-[HOME](https://web.archive.org/en/) > [COMPANY](https://web.archive.org/en/company/about.mc) > PRIVACY POLICY 
+[Home](https://web.archive.org/en/) > [Company](https://web.archive.org/en/company/about.mc) > Privacy Policy 
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
@@ -47,13 +45,13 @@ Wherever JUPM collects personal information we make an effort to include a link 
 **Will you disclose the information you collect to outside third parties?**
 
 JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-    1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
+1) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
 
-    2)   Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
+2) Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
 
-    3)   Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
+3) Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
 
-    4)   Fulfill a user's order or request. 
+4) Fulfill a user's order or request. 
 
 JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
 _See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
@@ -79,6 +77,3 @@ Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.
 Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
 
 (Revised March 30, 2005) 
-
-  
-|  
