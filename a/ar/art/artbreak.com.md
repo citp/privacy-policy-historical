@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artbreak.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031901id_/http%3A//www.artbreak.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbreak.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628054616id_/http%3A//www.artbreak.com/about/privacy) for the most accurate reproduction.*
 
 # Artbreak: Privacy Policy
 
@@ -14,8 +14,7 @@ Effective Date: 08/22/2007
 
   * We hate spam. We never sell or disclose your name or e-mail address to third parties.
   * Artbreak collects personal information when you register with Artbreak to use Artbreak services or to post content on Artbreak. When you register we ask for your email address and certain optional information such as biographical information, favorite materials and personal interests.
-  *   * If you would like to obtain a Seller account, we will ask for your billing address, phone number, and credit card information.
-  * Artbreak automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
+  *   * Artbreak automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
   * Artbreak uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. IP Addresses IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with Artbreak. IP addresses may be used for various purposes, including: to diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; to estimate the total number of users visiting Artbreak from specific geographical regions; to make sure that people are not voting for themselves or friends during contests or promotions.
 
 
