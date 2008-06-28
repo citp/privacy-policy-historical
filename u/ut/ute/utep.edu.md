@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the utep.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131241id_/http%3A//www.utep.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utep.edu privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628181046id_/http%3A//www.utep.edu/privacy.aspx) for the most accurate reproduction.*
 
 # UT El Paso - Privacy Statement Information
 
-Monday, December 24, 2007 | 3:53 PM
-
+Saturday, June 28, 2008 | 12:35 AM  
+  
 **_Web Site Privacy Statement on the Use of Information Gathered from the General Public_**
 
    The University of Texas at El Paso maintains the University of Texas at El Paso web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used. Employees of the university should refer to UTS165 , which outlines the internal policy for the use and protection of information resources.
