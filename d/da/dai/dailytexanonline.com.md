@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytexanonline.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024153756id_/http%3A//www.dailytexanonline.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytexanonline.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629015625id_/http%3A//www.dailytexanonline.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Daily Texan
 
@@ -151,5 +151,7 @@ Copyright © 2007 MTV Networks, a division of Viacom International Inc. - All Ri
 | 
 
 #### Advertisement
+
+#### Daily Texan Blog
 
 #### Advertisement
