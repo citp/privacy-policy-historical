@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021704id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629011916id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
 
 # EDJOIN Privacy Statement
 
@@ -70,3 +70,6 @@ If we decide to change our Privacy Statement for EDJOIN, we will post those chan
 EDJOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by San Joaquin County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [ edjoin_helpdesk@sbcss.k12.ca.us](mailto:edjoin_helpdesk@sbcss.k12.ca.us) or call us at 800-398-9580 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday).
 
 Thank you for using EDJOIN.
+
+  
+
