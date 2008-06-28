@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225403id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628031241id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
 
 # OJR.org Privacy Policy
 
@@ -44,12 +44,13 @@ Phone: 213-740-0948
 
 [Log-In](http://www.ojr.org/ojr/people/login.cfm)  
 [Register](http://www.ojr.org/ojr/people/register.cfm)  
+[Post Blog Entry](http://www.ojr.org/ojr/people/edit.cfm)  
 
 
-### [OJR Delivered](http://www.ojr.org/ojr/people/newsub.cfm)
+### OJR Delivered
 
-[ Article Feed](http://www.ojr.org/ojr/stories/rss.xml)  
-[](http://add.my.yahoo.com/content?.intl=us&url=http%3A//www.ojr.org/ojr/stories/rss.xml)  
+[](http://feeds.feedburner.com/ojr/SUgz) [News feed](http://feeds.feedburner.com/ojr/SUgz)  
+[](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/ojr/SUgz "Add OJR to My Yahoo!")  
 [ OJR on Facebook](http://usc.facebook.com/group.php?gid=2351478831)  
 [ OJR on Twitter](http://twitter.com/OJR)  
 
@@ -63,62 +64,58 @@ Phone: 213-740-0948
 [Reporting](http://www.ojr.org/ojr/wiki/reporting/)  
 [Shooting Video](http://www.ojr.org/ojr/wiki/video/)  
 [User-Generated Content](http://www.ojr.org/ojr/wiki/communities/)  
-[Writing](http://www.ojr.org/ojr/wiki/writing/)  
+[Writing](http://www.ojr.org/ojr/wiki/writing/)
+
+[](http://www.knightdigitalmediacenter.org/)
+
+### [Recent Blogs](https://web.archive.org/ojr/stories/)
+
+[Jessica Scott](http://www.ojr.org/ojr/people/WebsiteDesignAndDevelopment/200806/1519/)  
+[Robert Niles](http://www.ojr.org/ojr/people/robert/200806/1515/)  
+[Anusonia Risun](http://www.ojr.org/ojr/people/Anusonia/200806/1514/)  
+[Robert Niles](http://www.ojr.org/ojr/people/robert/200806/1513/)  
+[Peters yosef](http://www.ojr.org/ojr/people/jklmno/200806/1512/)  
 
 
-### [OJR Archives](https://web.archive.org/ojr/stories/)
+### [Top Tags](https://web.archive.org/ojr/search/)
 
-[entrepreneurial journalism](https://web.archive.org/archive.cfm?topic=entrepreneurial%20journalism)  
-[grassroots journalism](https://web.archive.org/archive.cfm?topic=grassroots%20journalism)  
-[tools](https://web.archive.org/archive.cfm?topic=tools)  
-[revenue](https://web.archive.org/archive.cfm?topic=revenue)  
-[discussion boards](https://web.archive.org/archive.cfm?topic=discussion%20boards)  
-[newspaper blogs](https://web.archive.org/archive.cfm?topic=newspaper%20blogs)  
-[newsroom convergence](https://web.archive.org/archive.cfm?topic=newsroom%20convergence)  
-[website design](https://web.archive.org/archive.cfm?topic=website%20design)  
-[social media](https://web.archive.org/archive.cfm?topic=social%20media)  
-[ethics](https://web.archive.org/archive.cfm?topic=ethics)  
-[journalism education](https://web.archive.org/archive.cfm?topic=journalism%20education)  
-[media law](https://web.archive.org/archive.cfm?topic=media%20law)  
-[press freedom](https://web.archive.org/archive.cfm?topic=press%20freedom)  
-[multimedia](https://web.archive.org/archive.cfm?topic=multimedia)  
-[The Los Angeles Times](https://web.archive.org/archive.cfm?topic=The%20Los%20Angeles%20Times)  
-[censorship](https://web.archive.org/archive.cfm?topic=censorship)  
-[content management systems](https://web.archive.org/archive.cfm?topic=content%20management%20systems)  
-[Flash](https://web.archive.org/archive.cfm?topic=Flash)  
-[OJR conference](https://web.archive.org/archive.cfm?topic=OJR%20conference)  
-[political blogs](https://web.archive.org/archive.cfm?topic=political%20blogs)  
-[management](https://web.archive.org/archive.cfm?topic=management)  
-[mergers and acquisitions](https://web.archive.org/archive.cfm?topic=mergers%20and%20acquisitions)  
-[news aggregators](https://web.archive.org/archive.cfm?topic=news%20aggregators)  
-[online video](https://web.archive.org/archive.cfm?topic=online%20video)  
-[Google](https://web.archive.org/archive.cfm?topic=Google)  
-[photojournalism](https://web.archive.org/archive.cfm?topic=photojournalism)  
-[student spotlight](https://web.archive.org/archive.cfm?topic=student%20spotlight)  
-[The New York Times on the Web](https://web.archive.org/archive.cfm?topic=The%20New%20York%20Times%20on%20the%20Web)  
-[awards](https://web.archive.org/archive.cfm?topic=awards)  
-[infographics](https://web.archive.org/archive.cfm?topic=infographics)  
-[Backfence](https://web.archive.org/archive.cfm?topic=Backfence)  
-[Bob Cauthorn](https://web.archive.org/archive.cfm?topic=Bob%20Cauthorn)  
-[Google News](https://web.archive.org/archive.cfm?topic=Google%20News)  
-[interactivity](https://web.archive.org/archive.cfm?topic=interactivity)  
-[Iraq](https://web.archive.org/archive.cfm?topic=Iraq)  
-[newspaper archives](https://web.archive.org/archive.cfm?topic=newspaper%20archives)  
-[NorthwestVoice.com](https://web.archive.org/archive.cfm?topic=NorthwestVoice%2Ecom)  
-[search engine optimization](https://web.archive.org/archive.cfm?topic=search%20engine%20optimization)  
-[wikis](https://web.archive.org/archive.cfm?topic=wikis)  
-[YourHub](https://web.archive.org/archive.cfm?topic=YourHub)  
+[entrepreneurial journalism](http://www.ojr.org/archive.cfm?topic=entrepreneurial%20journalism)  
+[tools](http://www.ojr.org/archive.cfm?topic=tools)  
+[grassroots journalism](http://www.ojr.org/archive.cfm?topic=grassroots%20journalism)  
+[social media](http://www.ojr.org/archive.cfm?topic=social%20media)  
+[newsroom convergence](http://www.ojr.org/archive.cfm?topic=newsroom%20convergence)  
+[management](http://www.ojr.org/archive.cfm?topic=management)  
+[journalism education](http://www.ojr.org/archive.cfm?topic=journalism%20education)  
+[revenue](http://www.ojr.org/archive.cfm?topic=revenue)  
+[ethics](http://www.ojr.org/archive.cfm?topic=ethics)  
+[discussion boards](http://www.ojr.org/archive.cfm?topic=discussion%20boards)  
+[newspaper blogs](http://www.ojr.org/archive.cfm?topic=newspaper%20blogs)  
+[website design](http://www.ojr.org/archive.cfm?topic=website%20design)  
+[multimedia](http://www.ojr.org/archive.cfm?topic=multimedia)  
+[political blogs](http://www.ojr.org/archive.cfm?topic=political%20blogs)  
+[online video](http://www.ojr.org/archive.cfm?topic=online%20video)  
+[question of the week](http://www.ojr.org/archive.cfm?topic=question%20of%20the%20week)  
+[The Los Angeles Times](http://www.ojr.org/archive.cfm?topic=The%20Los%20Angeles%20Times)  
+[elections](http://www.ojr.org/archive.cfm?topic=elections)  
+[media law](http://www.ojr.org/archive.cfm?topic=media%20law)  
+[press freedom](http://www.ojr.org/archive.cfm?topic=press%20freedom)  
 
 
-### [Staff](http://www.ojr.org/ojr/wiki/)
+### [Search Archives](http://www.ojr.org/ojr/search/)
 
-Editor:  
-[Robert Niles](http://www.ojr.org/ojr/people/robert/)
+Or, browse: 
 
-Advisory board:  
-[Michael Parks](http://annenberg.usc.edu/Faculty/Journalism/ParksM.aspx)  
-[Xeni Jardin](http://xeni.net/)  
-[Chris Jennewein](http://www.signonsandiego.com/)  
-[Robin Miller](http://www.roblimo.com/)  
-[Anthony Moor](http://www.dallasnews.com/)  
-[Lisa Stone](http://surfette.typepad.com/)
+**2008**  
+[Jan. ](http://www.ojr.org/ojr/stories/200801/) [Feb. ](http://www.ojr.org/ojr/stories/200802/) [Mar. ](http://www.ojr.org/ojr/stories/200803/) [Apr. ](http://www.ojr.org/ojr/stories/200804/) [May ](http://www.ojr.org/ojr/stories/200805/) [Jun. ](http://www.ojr.org/ojr/stories/200806/)
+
+**2007**  
+[Jan. ](http://www.ojr.org/ojr/stories/200701/) [Feb. ](http://www.ojr.org/ojr/stories/200702/) [Mar. ](http://www.ojr.org/ojr/stories/200703/) [Apr. ](http://www.ojr.org/ojr/stories/200704/) [May ](http://www.ojr.org/ojr/stories/200705/) [Jun. ](http://www.ojr.org/ojr/stories/200706/) [Jul. ](http://www.ojr.org/ojr/stories/200707/) [Aug. ](http://www.ojr.org/ojr/stories/200708/) [Sep. ](http://www.ojr.org/ojr/stories/200709/) [Oct. ](http://www.ojr.org/ojr/stories/200710/) [Nov. ](http://www.ojr.org/ojr/stories/200711/) [Dec. ](http://www.ojr.org/ojr/stories/200712/)
+
+**2006**  
+[Jan. ](http://www.ojr.org/ojr/stories/200601/) [Feb. ](http://www.ojr.org/ojr/stories/200602/) [Mar. ](http://www.ojr.org/ojr/stories/200603/) [Apr. ](http://www.ojr.org/ojr/stories/200604/) [May ](http://www.ojr.org/ojr/stories/200605/) [Jun. ](http://www.ojr.org/ojr/stories/200606/) [Jul. ](http://www.ojr.org/ojr/stories/200607/) [Aug. ](http://www.ojr.org/ojr/stories/200608/) [Sep. ](http://www.ojr.org/ojr/stories/200609/) [Oct. ](http://www.ojr.org/ojr/stories/200610/) [Nov. ](http://www.ojr.org/ojr/stories/200611/) [Dec. ](http://www.ojr.org/ojr/stories/200612/)
+
+**2005**  
+[Jan. ](http://www.ojr.org/ojr/stories/200501/) [Feb. ](http://www.ojr.org/ojr/stories/200502/) [Mar. ](http://www.ojr.org/ojr/stories/200503/) [Apr. ](http://www.ojr.org/ojr/stories/200504/) [May ](http://www.ojr.org/ojr/stories/200505/) [Jun. ](http://www.ojr.org/ojr/stories/200506/) [Jul. ](http://www.ojr.org/ojr/stories/200507/) [Aug. ](http://www.ojr.org/ojr/stories/200508/) [Sep. ](http://www.ojr.org/ojr/stories/200509/) [Oct. ](http://www.ojr.org/ojr/stories/200510/) [Nov. ](http://www.ojr.org/ojr/stories/200511/) [Dec. ](http://www.ojr.org/ojr/stories/200512/)
+
+**2004**  
+[Oct. ](http://www.ojr.org/ojr/stories/200410/) [Nov. ](http://www.ojr.org/ojr/stories/200411/) [Dec. ](http://www.ojr.org/ojr/stories/200412/)
