@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224050848id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA%26chnpath%3D%252FsunlifeCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628044909id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
 
 # Privacy
 
 **Respecting your Privacy**
 
-In this document, **_you_** and **_your_** mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and **_we_** , **_us_** and **_our_** mean the members of the Sun Life Financial group of companies in Canada, who include Sun Life Financial Inc., Sun Life Assurance Company of Canada, Sun Life Financial Trust Inc., Sun Life Financial Advisory Inc., Sun Life Financial Realty Advisors Inc., Sun Life Financial Distributors (Canada) Inc.,Sun Life Financial Investment Services (Canada) Inc., and other affiliates of Sun Life Assurance Company of Canada, in Canada.
+In this document, **you** and **your** mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and **we** , **us** and **our** mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada.  The complete list of companies in the Sun Life Financial group of companies can be found in the Sun Life Financial Privacy Policy which is available on the Sun Life Financial website or contact our Canadian Privacy Officer at the contact information listed below.
 
 **_Our commitment to protecting your privacy, our policy_**
 
 Collecting personal information about you is essential to our ability to offer you high-quality investment, retirement and insurance products and to provide you with on-going service relating to your lifetime financial needs. We take great care to keep your personal information which we collect accurate, confidential and secure.
 
-...top
-
 Our Policy sets high standards for collecting, using, disclosing and storing personal information. Sun Life Financial's Canadian Privacy Policy is complemented by our Privacy Code and by procedures to manage your personal information.
 
 If you have any questions about Sun Life Financial's Canadian Privacy Policy and Privacy Code, please contact our Canadian Privacy Officer at (416) 408-8850 or by email at ["privacyofficer@sunlife.com"](mailto:privacyofficer@sunlife.com).
-
-...top
 
 * * *
 
@@ -26,8 +22,6 @@ How we collect, use and disclose personal information
 We will protect your personal information  
 Your right to access your personal information  
 For more information
-
-...top
 
 **How we collect, use and disclose personal information**
 
@@ -46,11 +40,11 @@ Generally, we need to collect personal information to:
   * understand your needs,
   * determine your eligibility,
   * continue to offer you the full range of products and services that we believe meet your changing needs and to service such products and services,
-  * meet regulatory or contractual requirements relating to the services and products provided to you.
+  * meet regulatory or contractual requirements and implement risk management programs and procedures relating to the services and products provided to you.
 
 
 
-We will make sure you understand why we need the information by using clear, understandable language when we identify the purpose.
+We will make sure you understand why we need the information by using clear, understandable language.
 
 **We will obtain your permission**
 
@@ -70,29 +64,23 @@ We will keep your personal information as long as it is necessary, including upd
 
 When we destroy personal information, we will use safeguards to prevent unauthorized parties from gaining access to the information during the process.
 
-...top
-
 **We will protect your personal information**
 
 **We are responsible for your information**
 
-We are responsible for all personal information in our possession, including information transferred to a third party service provider or agent, so that we can provide you with a product or service.
-
-All employees, agents and authorized service providers of Sun Life Financial are required to protect the confidentiality of your personal information.
+We are responsible for all personal information in our possession, including information transferred to a third-party service provider or agent, so that we can provide you with a product or service. In some instances our employees, service providers or agents may be located in jurisdictions outside Canada, and your personal information may be subject to the laws of those foreign jurisdictions.  All such persons, whether or not they are located in Canada, are required to protect the confidentiality of your personal information in a manner that is consistent with our privacy policy and practices.
 
 **How we protect information**
 
 Access to your personal information is restricted to those of Sun Life Financial's employees, agents and authorized service providers who need it to do their jobs.
 
-We have developed and are continuing to enhance security procedures to safeguard and protect personal information against loss, theft, unauthorized disclosure, copying, and unauthorized use or modification. We will maintain appropriate safeguards and security procedures that reflect the types of documents, including electronic or paper records, organizational measures including security clearances and limiting access on a "need-to-know" basis, and technological measures such as the use of passwords and encryption. While we endeavour to protect all information, the most sensitive information, such as medical information, receives the highest level of protection.
-
-...top
+We have developed and are continuing to enhance security procedures to safeguard and protect personal information against loss, theft, unauthorized disclosure, copying, and unauthorized use or modification. We will maintain appropriate safeguards and security procedures that reflect the types of documents, including electronic or paper records, organizational measures including security clearances and limiting access on a "need-to-know" basis, and technological measures such as the use of passwords and encryption. While we endeavour to protect all information, the most sensitive information, such as medical information, receives the highest level of protection. 
 
 **Your right to access your personal information**
 
 **Your rights**
 
-You have the right to ask whether we hold any personal information about you and to see that information, as provided by law. Where we have obtained medical information about you from a third party, we will release this information only through your physician.
+You have the right to ask whether we hold any personal information about you and to see that information, as provided by law. Where we have obtained medical information about you from a third-party, we will release this information only through your physician.
 
 You also have the right to know:
 
@@ -114,13 +102,9 @@ If you feel we have not dealt with your request to your satisfaction, you can fo
 
 You may register a privacy-related complaint by contacting Sun Life Financial's Canadian Privacy Officer. We will explain Sun Life Financial's Canadian complaint procedure to you and investigate all complaints. If a complaint is justified, we will take all appropriate steps to set the situation right, including changing our policies and practices if necessary. We will also let you know what other complaint procedures may be available to you.
 
-...top
-
 **For more information**
 
 For more information, please contact Sun Life Financial's Privacy Officer in Canada at (416) 408-8850 or by email at [privacyofficer@sunlife.com](mailto:privacyofficer@sunlife.com).
-
-...top
 
 * * *
 
@@ -167,8 +151,6 @@ Upon request, an individual will be informed of the existence, use and disclosur
 
 **Principle 10 - Handling Customer Complaints and Suggestions**
 
-Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer.
-
-[privacyofficer@sunlife.com](mailto:privacyofficer@sunlife.com)  
+Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer.[privacyofficer@sunlife.com](mailto:privacyofficer@sunlife.com)  
   
-...top
+...Back to top
