@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110928id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628175622id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
 
 # Vancouver 2010 - VANOC Website Privacy Policy
 
