@@ -1,14 +1,63 @@
-> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229065938id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
 
 # beyondblue: the national depression initiative - Privacy
 
-|   
-[](https://web.archive.org/web/20071229065938id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=)
+|  | | | [Home](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=96)|[Depression](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=89)|[Anxiety](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=90)|[Bipolar Disorder](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=91)|[Postnatal Depression](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=94)| |   
+---|---|---  
+  
+| 
 
-| | [Privacy](https://web.archive.org/web/20071229065938id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=16)| |   
+[About us
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2)| | | 
+
+[Get information
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7)| | | 
+
+[Symptom  
+Checklists
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103)| | | 
+
+[Getting involved
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104)| | | 
+
+[Research
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6)| | | 
+
+[Media
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105)| | | 
+
+[Get Help
+
+](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=107)|   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+[Our programs](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.896)[Our mission](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.524)[Who we are](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.19)[Our History](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.22)[Our Policies](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.574)[History of the _beyondblue_ logo](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.826)[Annual Reports & Evaluation Report](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.24)[Funding Structure](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.23)[Partners](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.525)[Jobs at _beyondblue_](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.408)[Frequently Asked Questions](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=2.653)
+
+[Get Information](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.897)[Order _beyondblue_ Resources](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.233)[Download _beyondblue_ Resources](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.980)[Information for Health Professionals](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.102)[Further Reading](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.498)[Introducing Marti's Party](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.1008)[Multimedia Library](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=7.104)
+
+[Symptom checklists](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103.991)[Depression checklists](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103.882)[Anxiety checklist](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103.883)[Bipolar disorder checklist](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103.884)[Postnatal depression checklist](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=103.885)
+
+[Getting involved](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.1001)[Fundraising](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.887)[Donations](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.888)[Making a Bequest](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.997)[Join us](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.889)[Personal Experiences](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.1000)[National Reference Group blueVoices](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=104.1006)
+
+[Medical Journal of Australia Supplement - June 16, 2008](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.1023)[ _beyondblue_ Victorian Centre of Excellence in Depression and Related Disorders Research Grant Round 2008: Applications Now Closed](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.1010)[Expert Working Committee Members 2008](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.1017)[ _beyondblue_ Victorian Centre of Excellence ](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.731)[Search for beyondblue Research](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.979)[ _beyondblue_ Research Book 2001 - 2007](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.993)[CVD and Depression Strategic Research Program NOW OPEN](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.876)[bbVCoE Funded Projects](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.732)[New Research](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.739)[Research Topics of Interest ](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.819)[Research Notice Board](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.740)[Cancer and Depression Funding Round - Now Closed](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=6.989)
+
+[News 2008](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.998)[News 2007](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.892)[Media contacts](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.899)[Media Releases](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.898)[Newsletters](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.891)[ _beyondblue_ National Advertising Campaign](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.903)[Media articles](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.912)[Media reporting guidelines](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.913)[Media Transcripts](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.902)[Position statements](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.901)[Media Background Kits](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.900)[News 2006](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.893)[News 2005](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=105.894)
+
+[Get Help](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=107.985)[Find a Doctor or other Mental Health Practitioner](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=107.1007)[beyondblue Rural Assistance Information Network (RAIN) Map](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=107.950)[Links](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=107.911)  
+  
+|   
+[](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=)
+
+| | [Privacy](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=16)| |   
 ---  
   
-|  |  |  | | [Home](https://web.archive.org/web/20071229065938id_/http%3A//www.beyondblue.org.au/index.aspx) >>Privacy  
+|  |  |  | | [Home](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx) >>Privacy  
 ---|---  
   
 Privacy  
@@ -153,20 +202,58 @@ _Health Records Act (VIC) 2001_
 
 **  
   
-| [](http://beyondblue.org.au/index.aspx?link_id=97)
+| |   
+SearchGo  
+  
+---  
+[](http://beyondblue.org.au/index.aspx?link_id=97)
+
+[](http://www.beyondblue.org.au/index.aspx?link_id=107.1007)
+
+| Our ambassadors| |   
+---  
+  
+  
+ **Garry McDonald**
 
   
-**Garry McDonald**
-
+| [ Workplace Program](http://www.beyondblue.org.au/index.aspx?link_id=4.66)| |   
+---  
   
-
-
 [](http://www.beyondblue.org.au/index.aspx?link_id=4.66)
 
   
-[](http://www.youthbeyondblue.org.au/)  
+[](http://www.youthbeyondblue.com/)| [Other languages](http://www.beyondblue.org.au/index.aspx?link_id=102)| |   
+---  
+  
+| [Personal experiences](http://www.beyondblue.org.au/index.aspx?link_id=4.992)| |   
+---  
+  
+| [Bulletin Board](http://www.beyondblue.org.au/index.aspx?link_id=61.303)| |   
+---  
+  
+| [Events diary](http://www.beyondblue.org.au/index.aspx?link_id=8&page=1)| |   
+---  
+  
+| | Multimedia| | | |   
+---  
+  
+[](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=550)| [Play _beyondblue_ 's Bipolar Disorder TV advert](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=550)  
+---|---  
+  
+* * *
+
+[](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=844)| [Play _beyondblue_ 's Depression in men TV advert ](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=844)  
+---|---  
+  
+* * *
+
+[](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=843)| [Play _beyondblue_ 's Postnatal depression TV advert](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?tmp=FileStream&fid=843)  
+---|---  
   
   
   
+| |  Last updated Monday, 30 July 2007| [](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=16&print=true)|  **10,283** page views from 07 May 2007 to 29 Jun 2008  
+---|---|---  
   
-| 
+[Contact Us](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=13)|[Links](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=106)|[About this Site](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=14)|[Disclaimer](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=15)|[Privacy](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=16)|[Copyright](https://web.archive.org/web/20080628143641id_/http%3A//www.beyondblue.org.au/index.aspx?link_id=17)
