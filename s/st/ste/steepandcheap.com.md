@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217215754id_/http%3A//www.steepandcheap.com/steepcheap/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629013323id_/http%3A//www.steepandcheap.com/steepcheap/privacy.html) for the most accurate reproduction.*
 
 # Steepandcheap.com | Privacy Policy from Steepandcheap.com
 
