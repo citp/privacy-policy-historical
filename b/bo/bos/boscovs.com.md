@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084220id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012334id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
 
 # Boscov's Online - Your Full Service Department Store
 
