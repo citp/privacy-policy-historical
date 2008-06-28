@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smithfield.com privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230112224id_/http%3A//www.smithfield.com/legal.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smithfield.com privacy policy that was archived on 2008-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628053609id_/http%3A//www.smithfield.com/legal.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -23,9 +23,21 @@
 
 <script type="text/javascript" src="/media/javascripts/hbx_flv.js"></script>
 
-<script type="text/javascript" src="/media/javascripts/snowstorm.js"></script>
+<!--<script type="text/javascript" src="/media/javascripts/snowstorm.js"></script> -->
 
 <script type="text/javascript" src="/media/javascripts/bookmark.js"></script>
+
+
+
+<style type="text/css">
+<!--
+#UI_greater_primary_content {
+
+min-height: 0;
+
+}
+-->
+</style>
 
 
 </head>
@@ -43,15 +55,40 @@
 
 <a class="nav_link" id="nav_link_where_to_buy" href="/buy/index.php"><img src="/media/images/layout/menus/menu_a/where_to_buy_off.png" alt="Where To Buy" width="103" height="19"></a>
 
-<a class="nav_link" id="nav_link_mailing_list" href="/about/join.php"><img src="/media/images/layout/menus/menu_a/mailing_list_off.png" alt="Join Our Mailing List" width="58" height="19"></a>
+<a class="nav_link" id="nav_link_mailing_list" href="/members/register"><img src="/media/images/layout/menus/menu_a/mailing_list_off.png" alt="Join Our Mailing List" width="58" height="19"></a>
 
 <a class="nav_link" id="nav_link_ask_smithfield" href="/about/ask_smithfield.php"><img src="/media/images/layout/menus/menu_a/ask_smithfield_off.png" alt="Ask Smithfield" width="108" height="17"></a>
 
-<h2 id="search_recipes_heading"><img src="/media/images/layout/menus/search_recipes.png" width="132" height="15" alt="Search Recipes"></h2>
 
-<form action="/recipes/index.php" method="post" name="recsearch" id="recipe1"><input name="searchfield" id="searchfield" type="text" onfocus="empty_search(recsearch, 'searchfield');" onkeypress="return(process(event, 'recipe1'))" value="Enter keyword or ingredient..."> <input type="submit" name="Go" value="Go" id="gobutton"></form>
 
-<a class="nav_link" id="nav_link_advanced_search" href="/recipes/index.php?flush=yes"><img src="/media/images/layout/menus/menu_a/advanced_search_off.png" alt="Advanced Search" width="127" height="16"></a>
+<div id="search_recipes_heading"><img src="/media/images/layout/menus/search_recipes.png" width="132" height="15" alt="Search Recipes"></div>
+
+<form id="recipe1" name="recsearch" method="post" action="/recipes/search_results">
+<div>
+<input type="hidden" name="ACT" value="25">
+<input type="hidden" name="XID" value="f0299f4d36e5b2c9bf9da9475875ee8005af7f8b">
+<input type="hidden" name="RP" value="recipes/search_results">
+<input type="hidden" name="NRP" value="recipes/search_no_results">
+<input type="hidden" name="RES" value="10">
+<input type="hidden" name="status" value="open">
+<input type="hidden" name="weblog" value="recipes">
+<input type="hidden" name="search_in" value="entries">
+<input type="hidden" name="where" value="all">
+</div>
+
+
+
+<input name="keywords" id="searchfield" type="text" onfocus="empty_search(recsearch, 'searchfield');" onkeypress="return(process(event, 'recipe1'))" value="Enter keyword or ingredient..."> <input type="submit" name="Go" value="Go" id="gobutton">
+
+<input type="hidden" name="orderby" value="date">
+
+<input type="hidden" name="sort_order" value="desc">
+
+<input type="hidden" name="where" value="any">
+
+</form>
+
+<a class="nav_link" id="nav_link_advanced_search" href="/recipes/"><img src="/media/images/layout/menus/menu_a/advanced_search_off.png" alt="Advanced Search" width="127" height="16"></a>
 
 </div>
 <!-- #menu_A -->
@@ -61,15 +98,17 @@
 
 <div id="menu_planner">
 
-<h2 id="menu_planner_heading"><img src="/media/images/layout/menus/menu_planner/title.png" width="128" height="15" alt="Meal Planner"></h2>
+<div id="menu_planner_heading"><img src="/media/images/layout/menus/menu_planner/title.png" width="128" height="15" alt="Meal Planner"></div>
 
-<a class="nav_link" id="nav_link_breakfast" href="/recipes/index.php?mplan=2,1"><img src="/media/images/layout/menus/menu_planner/breakfast_off.png" width="86" height="77" alt="Breakfast"></a>
+<a class="nav_link" id="nav_link_breakfast" href="/recipes/category/C121/"><img src="/media/images/layout/menus/menu_planner/breakfast_off.png" width="86" height="77" alt="Breakfast"></a>
 
-<a class="nav_link" id="nav_link_lunch" href="/recipes/index.php?mplan=2,2"><img src="/media/images/layout/menus/menu_planner/lunch_off.png" width="84" height="77" alt="Lunch"></a>
+<a class="nav_link" id="nav_link_lunch" href="/recipes/category/C123/"><img src="/media/images/layout/menus/menu_planner/lunch_off.png" width="84" height="77" alt="Lunch"></a>
 
-<a class="nav_link" id="nav_link_dinner" href="/recipes/index.php?mplan=2,3"><img src="/media/images/layout/menus/menu_planner/dinner_off.png" width="84" height="77" alt="Dinner"></a>
+<a class="nav_link" id="nav_link_dinner" href="/recipes/category/C124/"><img src="/media/images/layout/menus/menu_planner/dinner_off.png" width="84" height="77" alt="Dinner"></a>
 
-<a class="nav_link" id="nav_link_leftovers" href="/recipes/index.php?mplan=2,6"><img src="/media/images/layout/menus/menu_planner/leftovers_off.png" width="83" height="77" alt="Grilling"></a></div>
+<a class="nav_link" id="nav_link_grilling" href="/recipes/category/C126/"><img src="/media/images/layout/menus/menu_planner/grilling_off.png" width="83" height="80" alt="Grilling"></a>
+
+</div>
 <!-- #menu_planner -->
 
 </div>
@@ -83,18 +122,43 @@
 
 <div id="menu_B">
 
+<div id="search_topics_heading"><img src="/media/images/headings/search_topics.png" width="124" height="15"></div>
+
+<form id="topic1" name="topicsearch" method="post" action="/articles/search">
+<div>
+<input type="hidden" name="ACT" value="19">
+<input type="hidden" name="XID" value="84d5ad8cb6e12749999458e92e26ae752392e2a7">
+
+<input type="hidden" name="RP" value="articles/search">
+<input type="hidden" name="NRP" value="articles/search_no_results">
+<input type="hidden" name="RES" value="10">
+<input type="hidden" name="status" value="open">
+<input type="hidden" name="weblog" value="Articles">
+<input type="hidden" name="search_in" value="entries">
+<input type="hidden" name="where" value="all">
+</div>
+
+<input name="keywords" type="text" onfocus="empty_search(topicsearch, 'keywords');" value="Enter keyword..."> <input type="submit" name="Go2" value="Go" id="gobutton2">
+</form>
+
 <a class="nav_link" id="nav_link_paulas_recipes" href="/paula/index.php"><img src="/media/images/layout/menus/menu_b/paulas_recipes_off.png" alt="Paula's Recipes" width="177" height="40"></a>
 
 <a class="nav_link" id="nav_link_cooking" href="/articles/cooking/"><img src="/media/images/layout/menus/menu_b/cooking_off.png" alt="Cooking Tips &amp; Techniques" width="293" height="40"></a>
 
 <a class="nav_link" id="nav_link_entertaining" href="/articles/entertaining/"><img src="/media/images/layout/menus/menu_b/entertaining_off.png" alt="Entertaining &amp; Lifestyle" width="257" height="40"></a>
 
-<h1 id="smithfield_logo">
+<!-- Standard logo -->
+<div id="smithfield_logo">
 <a href="/index.php"><img src="/media/images/layout/menus/logo.png" width="333" height="78" alt="Smithfield"></a>
-</h1>
+</div>
 
-<!-- Holiday Decor -->
-<div style="position: absolute; left: 1px; top: -64px;"><img src="/media/images/holiday/santa_hat.jpg" width="56" height="68"></div>
+<!-- Christmas logo
+<div style="position: absolute; left: 1px; top: -64px;"><img src="/media/images/holiday/santa_hat.jpg" width="56" height="68" /></div> -->
+
+<div style="position: absolute; left: 1px; top: -74px;"><a href="/index.php"><img src="/media/images/holiday/fourth_logo.gif"></a></div>
+
+<!-- Easter logo
+<div style="position: absolute; left: -38px; top: -70px;"><a href="/index.php"><img src="/media/images/holiday/easter_logo.gif"/></a></div> -->
 
 </div>
 <!-- #menu_B -->
@@ -103,9 +167,30 @@
 <!-- #mastheadB -->
 
 
+<div id="UI_extra_greater_member_nav">
+
+
+
+<div id="member_nav">
+
+<a href="/members/sign_in" class="nav_link">Sign In</a>
+|
+<a href="/members/sign_in" class="nav_link">New User?</a>
+|
+<span class="label">Join Smithfield.com and you’ll be able to save, rate and review recipes, submit your own recipes, and more!</span>
+</div>
+<!-- #member_nav -->
+
+
+
+</div>
+<!-- #UI_extra_greater_member_nav -->
+
+
 <div id="UI_extra_greater_primary_content">
 
 <div id="UI_greater_primary_content">
+
 
 <!-- begin old content -->
 
@@ -190,6 +275,7 @@
 <div style="position: relative; width: 994px; height: 73px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; background: url(/media/img/layout/wallpaper_tile.gif) repeat-x;"></div>
 <!-- end old content -->
 
+
 </div>
 <!-- #UI_greater_primary_content -->
 
@@ -219,22 +305,15 @@
 
 <a href="http://www.smithfieldhams.com/" target="_blank" class="nav_link invert">Shop Online</a>
 
-<!--<a href="http://www.pauladeenmagazine.com/" target="_blank" class="nav_link invert">Paula's Magazine</a> -->
-
 <a href="" class="bookmark_site nav_link invert">Bookmark This Site</a></div>
 <!-- #footer_nav -->
 
 <div id="copyright">
 
 <p>
-© 2007 Smithfield, Inc. All rights reserved. All content in this site is the property of Smithfield, Inc. except where stated otherwise.
+© 2008 Smithfield, Inc. All rights reserved. All content in this site is the property of Smithfield, Inc. except where stated otherwise.
 <br>
 No part of this site may be reproduced in any way without written permission from Smithfield, Inc.<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 
@@ -260,7 +339,7 @@ No part of this site may be reproduced in any way without written permission fro
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-lawlerballard.hitbox.com";
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg.smithfield.com";
 
 //BEGIN EDITABLE SECTION
 hbx.acct = "DM57061000VW52EN3";
@@ -276,6 +355,7 @@ hbx.lt = "auto";
 
 </script><script language="javascript1.1" src="/media/javascripts/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
+
 
 
 
