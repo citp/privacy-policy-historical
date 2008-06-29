@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228180024id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630015008id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
 
 # Our Position on Privacy and Data Protection - Maplesoft
 
@@ -22,7 +22,7 @@ The default setting on most web browsers is to accept cookies. You can change th
 Maplesoft recognizes that appropriate protection and management of personal data is critical. We have adopted the following privacy principles for the protection of Web site visitor’s and customer’s personal data (personal data is defined as any information relating to an identified or identifiable individual). 
 
   1. Maplesoft will provide Web site visitors and customers with easily understood information about its policies regarding the collection, use and disclosure of personal data. 
-  2. Maplesoft will limit the collection and use of personal data to that which is needed for valid business purposes to comply with local law, and any such data will be obtained only by lawful and fair means. 
+  2. Maplesoft will limit the collection and use of personal data to that which is needed for valid business purposes, to comply with local law, and any such data will be obtained only by lawful and fair means. 
   3. Maplesoft will strive to maintain the accuracy of personal data held, including establishing mechanisms allowing Web site visitors and customers to have the opportunity to review and correct their personal data. 
   4. Maplesoft will not release personal data to third parties, unless:  
 
