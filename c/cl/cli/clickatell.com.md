@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229231607id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629154655id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
 
 # About | Privacy Policy | Clickatell
 
@@ -26,7 +26,9 @@ Disclosure of Your Information
 
 We do not sell or rent any personally identifiable information about you to any third party. We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Clickatell offers features on our site where we will by necessity, need to provide some of your information to the third party offering such services. To the extent that that third party requires your information to enable you to use their service, we will notify you of the specific information that will be provided to such third parties. Before you use the service you should evaluate whether you will accept the terms and conditions of the third party service, and give Clickatell the right to pass your information on to that third party. In addition, we must comply with court orders, information requests from government agencies and regulators and other legal and regulatory processes that may require the disclosure of your personally-identifiable information.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use SSL encryption technology to protect the transfer of your information. 
+For those users who make purchases at our website, we, through our third-party payment processor, may collect IP address, browser version and other information about the software and hardware resident on the computer used to make the purchase. This information is passed on to and used by our third-party payment processor solely for purposes of authentication and security. By making a purchase at our website you authorize such collection and use. 
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use SSL encryption technology to protect the transfer of your information.
 
 Our Commitment to Children's Privacy
 
