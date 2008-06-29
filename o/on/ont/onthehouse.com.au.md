@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026075002id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629031658id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
-# onthehouse.com.au
+# Privacy Policy - onthehouse.com.au
 
-onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth). A copy of the National Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. 
+onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to Privacy Legislation, including the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth), The Privacy and Personal Information Protection Act (1988) and contractual requirements relating to Privacy pursuant to a number of State and Territory Government Licence Agreements. A copy of the National Privacy Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. 
 
 ## 1\. WHAT IS PERSONAL INFORMATION?
 
@@ -26,7 +26,9 @@ onthehouse collects personal information from a variety of sources. This privacy
   * Registration information required to utilise the sell your property facility or email alert service; 
   * Information as requested by onthehouse to complete surveys and enter competitions; 
   * Your IP address; 
-  * Cookies and appletets.
+  * Cookies and applets;
+  * Information sourced from State and Territory Government Land Authorities;
+  * Information sourced from Real Estate Agents.
 
 
 
@@ -34,9 +36,9 @@ This privacy policy does not apply to parties that may be linked or associated w
 
 ## 3\. HOW ONTHEHOUSE COLLECTS PERSONAL INFORMATION
 
-Generally, onthehouse will collect personal information directly from you, when you deal with onthehouse online or by email.
+Generally, onthehouse will collect personal information directly from you, when you deal with onthehouse online or by email. onthehouse may also collect personal information through various licence agreements with State Government providers and from information provided by Real Estate Agents.
 
-The type of personal information that onthehouse collects depends on the circumstances of collection and on the type of service you request from onthehouse. The particular purpose for which personal information is collected by onthehouse is generally either specified or reasonably apparent at the time the information is collected. onthehouse usually collects information such as your name, address, contact number, occupation, gender, date of birth and email address. It is not onthehouse.s general practice to collect sensitive information and we will only collect sensitive information with your consent.
+The type of personal information that onthehouse collects depends on the circumstances of collection and on the type of service you request from onthehouse. The particular purpose for which personal information is collected by onthehouse is generally either specified or reasonably apparent at the time the information is collected. onthehouse usually collects information such as your name, address, contact number, occupation, gender, date of birth and email address. It is not onthehouse's general practice to collect sensitive information and we will only collect sensitive information with your consent.
 
 ## 4\. HOW ONTHEHOUSE USES PERSONAL INFORMATION 
 
@@ -116,8 +118,8 @@ Sometimes onthehouse will transfer information to persons outside of Australia. 
 
 If you wish to gain access to or correct your personal information or make a complaint about a breach of your privacy, you should contact:
 
-T: +617 3290 0530  
-F: +617 3852 6294
+T: +617 3852 6205  
+F: +617 3852 6204
 
 A: 22B Ross Street, Newstead, Queensland, 4006, Australia  
 E: info@onthehouse.com.au
