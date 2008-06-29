@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227091854id_/http%3A//jokepro.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629052355id_/http%3A//www.jokepro.com/privacy.asp) for the most accurate reproduction.*
 
-# Genre Comedy, Funny Videos, Joke and Site Directory, Online Comedy Club, Gifts That Get Laughs, Affiliate Program - JokePro.com
+# Online Comedy Club, Genre Comedy, Funny Videos, Joke and Site Directory, Gifts That Get Laughs, Affiliate Program - JokePro.com
 
 ### Privacy Policy
 
