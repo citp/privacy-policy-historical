@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lionbridge.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231095239id_/http%3A//www.lionbridge.com/lionbridge/en-US/company/web-site/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbridge.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629231530id_/http%3A//www.lionbridge.com/lionbridge/en-US/company/web-site/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
