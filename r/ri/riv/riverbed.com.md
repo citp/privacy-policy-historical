@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215144210id_/http%3A//www.riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629183729id_/http%3A//www.riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
 
-# Riverbed Technology - Company
+# Riverbed Technology -Company
 
-Privacy policy
+Privacy Policy
 
 Riverbed knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Riverbed's web site, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
