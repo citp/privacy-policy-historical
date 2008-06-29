@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011155451id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629122348id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at All poetry
 
