@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncc.edu privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021604id_/http%3A//info.uncc.edu/redirect/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncc.edu privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629034818id_/http%3A//info.uncc.edu/redirect/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Office of General Counsel | UNC Charlotte
 
