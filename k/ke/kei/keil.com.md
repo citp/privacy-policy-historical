@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229224748id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629233336id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Keil Privacy Statement
 
