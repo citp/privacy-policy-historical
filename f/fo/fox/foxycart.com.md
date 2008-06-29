@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205014150id_/http%3A//www.foxycart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630001713id_/http%3A//www.foxycart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FoxyCart's Privacy Policy :: FoxyCart.com
 
 ## Overview
 
-This privacy statement covers the Web pages belonging to FoxyCart LLC in the United States. It does not cover the privacy policies of FoxyCart customers (stores using FoxyCart’s services).
+This privacy statement covers the Web pages belonging to FoxyCart.com LLC in the United States. It does not cover the privacy policies of FoxyCart users (stores using FoxyCart’s services). For the purposes of this privacy policy, “you” shall refer to the FoxyCart.com LLC customer (“user”), and not user’s customers. For information on the “user’s customers” please see the “Stores Using FoxyCart” section.
 
 At FoxyCart, privacy on the Internet means that:
 
@@ -15,11 +15,29 @@ At FoxyCart, privacy on the Internet means that:
 
 
 
-We respect your privacy, and will not share, sell, or otherwise disclose your personal information to disclose this information to affiliates, subsidiaries, agents, or third party content providers for marketing purposes. FoxyCart LLC retains the right to disclose any information necessary to normal business operation, such as to payment processors.
+We respect your privacy, and will not share, sell, or otherwise disclose your personal information to disclose this information to affiliates, subsidiaries, agents, or third party content providers for marketing purposes. FoxyCart.com LLC retains the right to disclose any information necessary to normal business operation, such as to payment processors.
 
-The websites of our customers (store owners using FoxyCart’s services) may have different privacy policies and practices from those disclosed here, and we encourage you to become familiar with them as necessary. This site is operated by FoxyCart LLC in the United States. By using this website, you understand and agree that (1) the information collected from this site may be retained indefinitely, and may be stored, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; and (2) FoxyCart LLC may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing from FoxyCart LLC).
+The websites of our users (stores using FoxyCart’s services) may have different privacy policies and practices from those disclosed here, and we encourage you to become familiar with them as necessary. This site is operated by FoxyCart.com LLC in the United States. By using this website, you understand and agree that (1) the information collected from this site may be retained indefinitely, and may be stored, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; and (2) FoxyCart.com LLC may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing from FoxyCart.com LLC).
 
-FoxyCart LLC will not use information not provided directly to FoxyCart LLC (www.foxycart.com, forum.foxycart.com, wiki.foxycart.com, or any future sites controlled directly by FoxyCart LLC). In other words, FoxyCart LLC will not disclose our customers’ customers’ information.
+FoxyCart.com LLC will not use information not provided directly to FoxyCart.com LLC (www.foxycart.com, forum.foxycart.com, wiki.foxycart.com, or any future sites controlled directly by FoxyCart.com LLC). In other words, **FoxyCart.com LLC will not disclose its users’ customer information**, except as noted below.
+
+## Stores Using FoxyCart
+
+**This privacy policy does not apply to sites _using_ FoxyCart.com LLC’s services.** Stores using FoxyCart.com LLC’s services may have their own privacy policies. FoxyCart.com LLC will not use any customer information that is not provided to FoxyCart.com LLC directly. In other words, if a business named “Ketchup Popsicles” uses FoxyCart.com LLC’s services, Ketchup Popsicle’s customers:
+
+  * will be processed through FoxyCart.com LLC’s services and servers as necessary to complete the transaction, which may include: 
+    * logging the customer IP and other network information,
+    * setting cookies,
+    * sending the customer information to the payment gateways that are configured by the store admin;
+    * sending the customer by encrypted XML to the URL specified in the FoxyCart store admin;
+  * will receive whatever email receipts are configured in the FoxyCart admin;
+  * will have their information stored on FoxyCart.com LLC’s servers, as necessary to provide transaction history reports to Ketchup Popsicles’ store administrator;
+  * will _not_ be contacted by FoxyCart.com LLC or any representative of FoxyCart.com LLC without explicit approval from Ketchup Popsicles (ie. for troubleshooting or bug diagnosis);
+  * will _not_ be used for direct marketing by FoxyCart.com LLC or any representative of FoxyCart.com LLC;
+  * will _not_ have their information shared, sold, or otherwise disclosed, unless FoxyCart.com LLC is required by law to do so;
+  * may be used in an anonymous, aggregatred format to calculate statistics for FoxyCart.com LLC’s services (ie. average transaction value, average transactions per store, average transactions per day per store, etc.), which may be used for both internal purposes (analyzing server load, etc.) and external purposes (marketing, etc.).
+
+
 
 ## What We Collect
 
@@ -33,7 +51,7 @@ The information collected online is stored indefinitely and is used for various 
 
 ## Your Choices
 
-Unless you opt out of receiving promotional materials from us, we may notify you of special promotions, new products or services, or other information that may be of interest. You may choose not to receive promotional information from FoxyCart LLC by checking the appropriate box at the time of information collection or at a later time by sending an email to support+privacy@foxycart.com. If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may access, update, or delete your information in the My Account section of this website.
+Unless you opt out of receiving promotional materials from us, we may notify you of special promotions, new products or services, or other information that may be of interest. You may choose not to receive promotional information from FoxyCart.com LLC by checking the appropriate box at the time of information collection or at a later time by sending an email to support+privacy@foxycart.com. If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may access, update, or delete your information in the My Account section of this website.
 
 ## Other Disclosures
 
@@ -41,7 +59,7 @@ We also reserve the right to disclose your personal information if required to d
 
 ## Cookies
 
-When you visit FoxyCart.com, we may place a text file, called a cookie, in the browser directory of your computer’s hard drive. A cookie is a small piece of information that a website can store on your web browser and later retrieve. Cookies do not contain your personal information. The information that cookies collect includes the date and time of your visit, your registration information and your navigational and purchase activity. Cookies offer you many conveniences. They allow FoxyCart LLC, and certain third party content providers, to recognize information, and so can determine what content is best suited to your needs. Cookies also allow you to retrieve previous image search results and view your previous invoices. The domain name of the site server transmitting the cookies is FoxyCart.com.
+When you visit FoxyCart.com, we may place a text file, called a cookie, in the browser directory of your computer’s hard drive. A cookie is a small piece of information that a website can store on your web browser and later retrieve. Cookies do not contain your personal information. The information that cookies collect includes the date and time of your visit, your registration information and your navigational and purchase activity. Cookies offer you many conveniences. They allow FoxyCart.com LLC, and certain third party content providers, to recognize information, and so can determine what content is best suited to your needs. Cookies also allow you to retrieve previous image search results and view your previous invoices. The domain name of the site server transmitting the cookies is FoxyCart.com.
 
 Most browsers allow you to decline cookies, but if you elect to do so, these pages may not display properly. While cookies will be stored in your hard drive for your next visit with us, you are free to delete cookies after your session, and your browser should contain instructions on how to do this.
 
@@ -51,7 +69,7 @@ The sites to which we link, including but not limited to the sites of third part
 
 ## Safeguarding Your Information
 
-FoxyCart LLC uses reasonable precautions to keep your personal information secure from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, we are not responsible for any breach of security or for the actions of third parties.
+FoxyCart.com LLC uses reasonable precautions to keep your personal information secure from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, we are not responsible for any breach of security or for the actions of third parties.
 
 ## Policy Regarding Minors
 
@@ -59,7 +77,7 @@ We do not intend to collect personal information from anyone under the age of 18
 
 ## Safe Harbor: Notice to European Union Member Citizens and Residents
 
-FoxyCart LLC complies with the Safe Harbor principles.
+FoxyCart.com LLC complies with the Safe Harbor principles.
 
 FoxyCart has verified that its privacy practices meet the Safe Harbor requirements developed by the U.S. Department of Commerce and the European Commission’s Directive on Data Protection. Please visit http://www.export.gov/safeharbor/ for more information about the Safe Harbor program.
 
@@ -71,7 +89,7 @@ As required by Safe Harbor’s Enforcement Principle, unresolved complaints will
 
 ## Additional Information
 
-Under no circumstances does this privacy policy override any provisions or agreements set forth in any of FoxyCart LLC’s Terms of Service or Acceptable Use Policies. The Terms of Service or the Acceptable Use Policy will be used instead of this privacy policy if conflicting statements are discovered.
+Under no circumstances does this privacy policy override any provisions or agreements set forth in any of FoxyCart.com LLC’s Terms of Service or Acceptable Use Policies. The Terms of Service or the Acceptable Use Policy will be used instead of this privacy policy if conflicting statements are discovered.
 
 ## Contacting Us
 
