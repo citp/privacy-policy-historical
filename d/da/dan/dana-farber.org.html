@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dana-farber.org privacy policy that was archived on 2007-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226035144id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dana-farber.org privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629051056id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="eng"><head>
     <title>Dana-Farber Privacy Statement</title>
@@ -42,8 +42,10 @@
     <script src="/includes/javascript/common.js" type="text/javascript"></script>
 </head>
 
+
 <body class="other">
-<!--stopindex-->
+<!-- proxy_control:header -->
+<!--googleoff: index-->
 <div class="skipLink">
     <a href="#contentAnchor">Skip to content</a><br>
     <a href="#mainMenu">Skip to menu</a>
@@ -54,8 +56,9 @@
 	<a href="/"><img src="/images/logos/dana-farber.gif" alt="Dana-Farber Cancer Institute Logo"></a>
 	<p><strong>Dana-Farber Cancer Institute</strong></p>
 	<div id="tabFrame">	
-	<div id="aboveTabs"><a href="/LanguageSet.aspx">En Español</a>
-	</div>	
+	    <div id="aboveTabs">
+		<a href="/contact/">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/LanguageSet.aspx">En Español</a>
+	    </div>	
 	    <div id="tabs">		        
             <ul>
 		        <li id="patient"><a href="/pat/">Patient Care</a></li>
@@ -74,11 +77,27 @@
     
     <div id="diagnosisNavigation">
         
-<form action="/redirect.aspx" method="post">
+
+<form id="simple_search_form" action="/apps/danafarber_search.aspx" method="get" style="float: right" onsubmit="if(( this.q.value.replace(/(^\s*)|(\s*$)/g, '') == '' )||( this.q.value == 'Search the site')) { alert('Please enter some keywords.'); return false; }">
+
+    <input name="q" id="searchKeywords" type="text" size="27" value="Search the site" style="margin: 0 0 1px 0; font: 11px Arial, sans-serif; padding: 0 0 1pt 1pt; color: #666666; background-color: #ffffff; cursor: auto" onfocus="document.getElementById('searchKeywords').style.color='#000000'; document.getElementById('searchKeywords').value=''">
+
+    <input type="submit" name="searchButton" value="go" id="searchButton" style="background-color: #a21e36; border: 2px solid #A21E36;">
+
+    <input type="hidden" name="sitesearch" value="www.dana-farber.org">
+    <input type="hidden" name="site" value="DFCI">
+    <input type="hidden" name="client" value="DFCI">
+    <input type="hidden" name="proxystylesheet" value="DFCI">
+    <input type="hidden" name="access" value="p">
+    <input type="hidden" name="output" value="xml_no_dtd">
+    <input type="hidden" name="filter" value="0">
+
+</form>
+
+<form action="/redirect.aspx" method="post" style="margin: 0 0 0 174px">
     <div id="_ctl2_formFrame">
-        <label for="destination">Information by Diagnosis</label>
         <select id="destination" name="newUrl">
-            <option value="" selected="selected">Choose a Diagnosis</option>
+            <option value="" selected="selected">Treatment information by cancer type</option>
             <optgroup label="Diagnosis Help">
 	            <option value="/pat/adult/treatment-centers/disease-index">I can't find my diagnosis</option>
             </optgroup>
@@ -284,9 +303,11 @@
                         </option>
                     
             </optgroup>
-        </select><input type="submit" value="go">
+        </select>
+	<input type="submit" value="go" style="background-color: #a21e36; border: 2px solid #A21E36;">
     </div>
 </form>
+
     </div>
     <div id="structuralNavigationFrame">
        <div id="structuralNavigation">
@@ -308,8 +329,8 @@
 	<div id="contentFrame">
 	    <div id="content">
             <a name="contentAnchor"></a>
-<!--startindex-->
-
+<!--googleon: index-->
+<!-- /proxy_control:header -->
     <h1>Dana-Farber Privacy Statement</h1>
 <p>Your privacy is important to us, so we operate the site by the following principles:</p>
 <h3>Confidentiality</h3>
@@ -345,6 +366,7 @@
 </p>
 
                 <p class="emailPage"><a href="/email-page?pageUrl=http%3a%2f%2fwww.dana-farber.org%2fprivacy-policy%2fDefault.html">E-mail this page</a></p>
+<!-- proxy_control:footer -->
            </div>
     </div>
 	<div id="additionalContentFrame">
@@ -353,7 +375,7 @@
         </div>
     </div>
     </div>
-<!--stopindex-->
+<!--googleoff: index-->
     <div id="footerFrame">
         <div id="footer">
             <!--tab link added 12/24/2007 - Greg-->
@@ -365,10 +387,21 @@
                 <a href="/contact">Contact Us</a></p>
                 <p><a href="/LanguageSet.aspx">En Español</a></p>
                 
-            <p class="copyright">© 2001 – 2007, Dana-Farber Cancer Institute</p>
+            <p class="copyright">© 2001 – 2008, Dana-Farber Cancer Institute</p>
         </div>
     </div>
 </div>
-<!--startindex-->
+<!-- /proxy_control:footer -->
+<!-- addtional trackers -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4016599-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- end of trackers -->
 
 </body></html>
