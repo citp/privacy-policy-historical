@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bop.gov privacy policy that was archived on 2007-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071209215135id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bop.gov privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629194401id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>BOP: Privacy Policy</title>
@@ -48,123 +48,6 @@ if (parent.frames.length > 0) {
 	}
 </script>
 
-
-<script language="javascript">
-// EVERYTHING IN THIS SCRIPT BLOCK IS FOR DETERMINING IF THEY HAVE CRITICAL BROWSER COMPONENTS
-	 var agt=navigator.userAgent.toLowerCase();
-    var appVer = navigator.appVersion.toLowerCase();
-    var is_minor = parseFloat(appVer);
-    var is_major = parseInt(is_minor);
-	var is_opera = (agt.indexOf("opera") != -1);
-    var is_mac = (agt.indexOf("mac")!=-1);
-    var iePos  = appVer.indexOf('msie');
-    if (iePos !=-1) {
-       if(is_mac) {
-           var iePos = agt.indexOf('msie');
-           is_minor = parseFloat(agt.substring(iePos+5,agt.indexOf(';',iePos)));
-       }
-       else is_minor = parseFloat(appVer.substring(iePos+5,appVer.indexOf(';',iePos)));
-       is_major = parseInt(is_minor);
-    }
-    var is_konq = false;
-    var kqPos   = agt.indexOf('konqueror');
-    if (kqPos !=-1) {                 
-       is_konq  = true;
-       is_minor = parseFloat(agt.substring(kqPos+10,agt.indexOf(';',kqPos)));
-       is_major = parseInt(is_minor);
-    }                                 
-    var is_getElementById   = (document.getElementById) ? "true" : "false"; 
-    var is_getElementsByTagName = (document.getElementsByTagName) ? "true" : "false"; 
-    var is_documentElement = (document.documentElement) ? "true" : "false";
-    var is_safari = ((agt.indexOf('safari')!=-1)&&(agt.indexOf('mac')!=-1))?true:false;
-    var is_khtml  = (is_safari || is_konq);
-    var is_gecko = ((!is_khtml)&&(navigator.product)&&(navigator.product.toLowerCase()=="gecko"))?true:false;
-    var is_gver  = 0;
-    if (is_gecko) is_gver=navigator.productSub;
-    var is_moz   = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
-                    (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
-                    (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
-                    (is_gecko) && 
-                    ((navigator.vendor=="")||(navigator.vendor=="Mozilla")||(navigator.vendor=="Debian")));
-    var is_fb = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
-                 (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
-                 (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
-                 (is_gecko) && (navigator.vendor=="Firebird"));
-    var is_fx = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
-                 (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
-                 (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
-                 (is_gecko) && (navigator.vendor=="Firefox"));
-    if ((is_moz)||(is_fb)||(is_fx)) {  // 032504 - dmr
-       var is_moz_ver = (navigator.vendorSub)?navigator.vendorSub:0;
-       if(!(is_moz_ver)) {
-           is_moz_ver = agt.indexOf('rv:');
-           is_moz_ver = agt.substring(is_moz_ver+3);
-           is_paren   = is_moz_ver.indexOf(')');
-           is_moz_ver = is_moz_ver.substring(0,is_paren);
-       }
-       is_minor = is_moz_ver;
-       is_major = parseInt(is_moz_ver);
-    }
-    var is_fb_ver = is_moz_ver;
-    var is_fx_ver = is_moz_ver;
-
-    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-                && (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)
-                && (!is_khtml) && (!(is_moz)) && (!is_fb) && (!is_fx));
-    if ((navigator.vendor)&&
-        ((navigator.vendor=="Netscape6")||(navigator.vendor=="Netscape"))&&
-        (is_nav)) {
-       is_major = parseInt(navigator.vendorSub);
-       is_minor = parseFloat(navigator.vendorSub);
-    }
-    var is_nav2 = (is_nav && (is_major == 2));
-    var is_nav3 = (is_nav && (is_major == 3));
-    var is_nav4 = (is_nav && (is_major == 4));
-    var is_nav4up = (is_nav && is_minor >= 4);
-    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
-                          (agt.indexOf("; nav") != -1)) );
-    var is_nav6   = (is_nav && is_major==6);
-    var is_nav6up = (is_nav && is_minor >= 6);
-        
-	var is_ie   = ((iePos!=-1) && (!is_opera) && (!is_khtml));
-    var is_ie3  = (is_ie && (is_major < 4));
-    var is_ie4   = (is_ie && is_major == 4);
-    var is_ie4up = (is_ie && is_minor >= 4);
-    var is_ie5   = (is_ie && is_major == 5);
-    var is_ie5up = (is_ie && is_minor >= 5);
-    
-    var is_webtv = (agt.indexOf("webtv") != -1);
-    var is_TVNavigator = ((agt.indexOf("navio") != -1) || (agt.indexOf("navio_aoltv") != -1)); 
-    var is_AOLTV = is_TVNavigator;
-    
-	var is_hotjava = (agt.indexOf("hotjava") != -1);
-    var is_hotjava3 = (is_hotjava && (is_major == 3));
-    var is_hotjava3up = (is_hotjava && (is_major >= 3));
-
-	document.cookie = "cookies=true";
-	var is_cookie = (document.cookie) ? "true" : "false";
-	
-//Check for Cookies
-if (is_cookie == "false")
-	dispBrowserReq();
-
-//Check Browser Compatability	
-if (is_TVNavigator || is_webtv || is_AOLTV)
-	dispBrowserReq();
-else {
-	if (is_ie){
-		if (!(is_ie5up))
-			dispBrowserReq();}
-	else if (is_nav){
-		if (!(is_nav6up))
-			dispBrowserReq();}
-}
-
-function dispBrowserReq(){
-	window.open('/browser_requirements.html', 'browser_requirements', 'scrollbars=yes, titlebar=yes, toolbar=yes, resizable=yes, height=750, width=550, top=0, left=0' ); 
-}
-</script>    
 
 
    
@@ -428,14 +311,7 @@ function preloadImages() {
 						<a href="/browser_requirements.html" class="sidenav">- Browser Requirements</a><br>
 						</td>
 					</tr>								
-					<tr>
-						<td valign="top" align="right" class="sidenav">
-						<img src="/webimages/public/arrow.gif">
-						</td>
-						<td valign="top" class="sidenav">
-							<a href="/about/contactus.jsp" class="sidenav">Contact Us</a>
-						</td>
-					</tr>
+					
 					
 				</tbody></table>
 		</td>
@@ -747,7 +623,14 @@ News / Information</a></td>
 <table width="600" height="38" align="center" cellspacing="0" cellpadding="0" border="0" class="footer">
 	<tbody><tr valign="middle" align="center">
 		<td align="center" valign="center">
-			<a href="/access.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Accessibility</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/browser_requirements.html" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Browser Requirements</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/disclaimer.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Disclaimer</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/policy/privacypolicy.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Privacy Policy</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.bop.gov/search/index.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Search</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Site Map</strong></a>
+			<a href="/access.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Accessibility</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/browser_requirements.html" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Browser Requirements</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/about/contactus.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Contact Us</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/disclaimer.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Disclaimer</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<br>
+			<a href="http://www.usdoj.gov/legalpolicies.htm" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>DOJ Legal Policies</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/policy/privacypolicy.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Privacy Policy</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			 <a href="http://searchjustice.usdoj.gov/search?q=&amp;output=xml_no_dtd&amp;client=default_frontend&amp;proxystylesheet=bop" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Search</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/sitemap.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Site Map</strong></a>
 		</td>
 	</tr>
 </tbody></table>
