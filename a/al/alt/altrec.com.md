@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the altrec.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219200132id_/http%3A//www.altrec.com/helpdesk/cs.yourinfo.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altrec.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629090719id_/http%3A//www.altrec.com/helpdesk/guarantees.privacy/static.htm) for the most accurate reproduction.*
 
-# Guarantees and Security - ALTREC.COM
+# Helpdesk: Privacy Policy - Altrec.com
 
-## Privacy Policy
-
-**We will never sell, lease, rent or give your e-mail address to anyone else without your permission.** Period. Since Altrec.com's distribution model requires some manufacturers to ship products to customers, it is necessary to provide shipping information for that purpose. We created this policy to demonstrate our firm commitment to your privacy.
+**We will never sell, lease, rent or give your e-mail address or other personal information to anyone else without your permission.** Period. Since Altrec.com's distribution model requires some manufacturers to ship products to customers, it is necessary to provide shipping information for that purpose. We created this policy to demonstrate our firm commitment to your privacy.
 
 * * *
 
 The following policy is enacted to show Altrec.com's firm commitment to customer privacy.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site uses cookies to keep track of your shopping cart. We use cookies for other purposes such as site personalization. You can reject cookies and still use the Altrec.com site, however, it will disable the ability for the site to recognize your cart, your account and any personalization efforts.
+We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site uses cookies to keep track of your shopping cart. We use cookies for other purposes such as site personalization. You can reject cookies and still use the Altrec.com site, however, it will disable the ability for the site to recognize your cart, your account and any personalization efforts.
 
 This site contains links to other sites. Altrec.com is not responsible for the privacy practices or the content of such Web sites. Since Altrec.com's distribution model requires some manufacturers to ship products to customers, it is necessary to provide shipping information.
 
@@ -23,7 +21,7 @@ Our online surveys ask visitors for contact information (typically the customer'
 We run contests on our site in which we ask visitors for contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users promotional material from Altrec.com and at times, some of our partners. When partners will receive the customer's information, it will be disclosed as such. The customer's contact information is also used to contact the visitor when necessary (i.e. When someone wins a contest.) Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When we collect sensitive information, it is done with our Secure Server (SSL). All employees are aware of security procedures and place the highest value on customers' privacy and security. For more information on our Security see the [Your Information](https://web.archive.org/helpdesk/cs.yourinfo.jhtml) page.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When we collect sensitive information, it is done with our Secure Server (SSL). All employees are aware of security procedures and place the highest value on customers' privacy and security. For more information on our Security see the [Your Information](https://web.archive.org/helpdesk/guarantees.security/static.htm) page.
 
 **Subscriptions to Magazines**  
 Altrec.com provides the opportunity for customers to purchase subscriptions to various publications. The information submitted will only be given to Altrec, Inc and the Publisher of the purchased magazine subscription. All use of information by Altrec.com will be within the guidelines set forth in Altrec.com's Privacy Policy. Altrec.com cannot vouch for the privacy policies of the Publisher(s) and does not control or monitor the use of entry information by the Publisher(s).
