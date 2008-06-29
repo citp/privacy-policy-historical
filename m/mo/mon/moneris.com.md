@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneris.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226180654id_/http%3A//moneris.com/index.php%3Fcontext%3D/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneris.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629121337id_/http%3A//www.moneris.com/index.php%3Fcontext%3D/aboutus/privacy) for the most accurate reproduction.*
 
 # Moneris- payment processing, point of sale, debit credit card machine, pos equipment: /aboutus/privacy
 
