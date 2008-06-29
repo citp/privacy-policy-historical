@@ -1,462 +1,24 @@
-<!--The following is the downloaded HTML source of the cakepoker.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211034950id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cakepoker.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629194355id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- /Integrity/Privacy.aspx --><head><title>
-	Cake Poker
-</title>
-    <!-- Generated: 12/11/2007 3:49:50 AM -->
-    <link id="ctl00_ctl00_ctl00_BaseCSS" type="text/css" rel="Stylesheet" href="../Styles/Base.css"><link id="ctl00_ctl00_ctl00_ExternalCSS" type="text/css" rel="Stylesheet" href="../Styles/External.css"><link type="text/css" rel="Stylesheet" href="../Styles/Controls.css">
-    <script language="javascript" type="text/javascript">
-//*************************************************************************
-//    This Foundation Classes version 1.0 is written by Stanley Tso (bug report: cleverstan@gmail.com)
-//    Foundation.js contains the foundation functions and classes:
-//    Classes:
-//      - Stack
-//      - Queue (support iteration)
-//      - Page (support iteration)
-//    
-//*************************************************************************
-
-function Container(Type)
-{
-    if (Type == null)
-    {
-        this.FIFO = true;
-    }
-    else
-    {
-        this.FIFO = Type;
-    }
-    this.Data = new Array();
-    this.Iterator = 0;
-}
-
-Container.prototype.Push = function(value)    /* Define Method */
-{
-    this.Data[this.Data.length] = value;
-}
-
-Container.prototype.Next = function()    /* Define Method */
-{
-    if (this.Iterator == this.Data.length)
-        this.Iterator = 0;
-    var val = this.Data[this.Iterator];
-    this.Iterator++;
-    return val
-}
-
-Container.prototype.HasNext = function()    /* Define Method */
-{
-    return (this.Iterator != this.Data.length)
-}
-
-Container.prototype.Pop = function()    /* Define Method */
-{
-    var value = null;
-    if (this.FIFO)
-    {/* queue */
-        if (this.Data.length > 0)
-        {
-            value = this.Data[0];
-            this.Data[0] = null;
-            for(var i = 0; i < (this.Data.length-1); i++)
-            {
-                this.Data[i] = this.Data[i+1];
-                this.Data[i+1] = null;
-            }
-        }
-    }
-    else
-    {/* stack */
-        if (this.Data.length > 0)
-        {
-            value = this.Data[this.Data.length-1];
-            this.Data[this.Data.length-1] = null;
-        }
-    }
-    
-    if (this.Data.length > 0)
-        this.Data.length = this.Data.length - 1;
-
-    return value;
-}
-
-Container.prototype.Length = function()
-{
-    return this.Data.length;
-}
-
-function Stack()
-{
-    return new Container(false);
-}
-
-function Queue()
-{
-    return new Container();
-}
-
-//Page object for page event managements
-/************************************************
-    //This class will automatically bound to DOM's body.onload & body.unload
-    Class Page
-    {
-        //Methods:
-        void AddOnResize(string script);
-        bool HasOnResize();
-        string GetOnResize();
-        void AddOnload(string script);
-        bool HasOnload();
-        string GetOnload();
-        void AddUnload(string script);
-        bool HasUnload();
-        string GetUnload();
-        int Width();    //current open browser width
-        int Height();
-        bool Status();      //set windows status bar message
-        void SwitchLanguage(language)
-    }
-*************************************************/
-function Page()
-{
-    this.onloadList = new Queue;
-    this.unloadList = new Queue;
-    this.onResizeList = new Queue;
-}
-
-Page.prototype.AddOnResize = function(Script)
-{
-    return this.onResizeList.Push(Script);
-}
-
-Page.prototype.HasOnResize = function()
-{
-    var value = this.onResizeList.Length() != this.onResizeList.Iterator;
-    if (!value)
-        this.onResizeList.Iterator = 0;
-    return value;
-}
-
-Page.prototype.GetOnResize = function()
-{
-    return this.onResizeList.Next();
-}
-
-Page.prototype.AddOnload = function(Script)
-{
-    return this.onloadList.Push(Script);
-}
-
-Page.prototype.HasOnload = function()
-{
-    return this.onloadList.Length() > 0;
-}
-
-Page.prototype.GetOnload = function()
-{
-    return this.onloadList.Pop();
-}
-
-Page.prototype.AddUnload = function(Script)
-{
-    return this.unloadList.Push(Script);
-}
-
-Page.prototype.HasUnload = function()
-{
-    return this.unloadList.Length() > 0;
-}
-
-Page.prototype.GetUnload = function()
-{
-    return this.unloadList.Pop();
-}
-
-Page.prototype.Width = function() {
-    var myWidth = 0;
-    if( typeof( window.innerWidth ) == 'number' ) 
-    {
-        myWidth = window.innerWidth;
-    }
-    else if( document.documentElement && document.documentElement.clientWidth ) 
-    {
-        myWidth = document.documentElement.clientWidth;
-    }
-    else if( document.body && document.body.clientWidth) 
-    {
-        myWidth = document.body.clientWidth;
-    }
-    return myWidth;
-}
-
-Page.prototype.Height = function() {
-    var myHeight = 0;
-    if( typeof( window.innerHeight ) == 'number' )
-    {
-        myHeight = window.innerHeight;
-    }
-    else if( document.documentElement && document.documentElement.clientHeight )
-    {
-        myHeight = document.documentElement.clientHeight;
-    }
-    else if( document.body && document.body.clientHeight )
-    {
-        myHeight = document.body.clientHeight;
-    }
-    return myHeight;
-}
-
-Page.prototype.Status = function (text)
-{
-    try
-    {
-        if (text == null)
-        {
-            text = '';
-        }
-        window.status = text;
-    }
-    catch (e)
-    {
-        return false;
-    }
-    return true;
-}
-
-Page.prototype.SwitchLanguage = function (lang)
-{
-    var url = window.location + '';
-    var re1 = new RegExp("&?lang=[a-z][a-z]", "g");
-    var re2 = new RegExp("&?lang=[a-z][a-z]-[A-Z][A-Z]", "g");
-    url = url.replace(re2, "");
-    url = url.replace(re1, "");
-    window.location = (url.indexOf('?')>0)?url+((url.indexOf('?')==url.length-1)?'':'&')+'lang='+lang:url+'?lang='+lang;
-}
-
-var page = new Page;
-
-function PageInit()
-{
-    while (page.HasOnload())
-    {
-        try
-        {
-            eval(page.GetOnload());
-        } catch(e)
-        {
-            //alert(e); //silence problematic scripts
-        }
-    }
-}
-
-function PageDispose()
-{
-    while (page.HasUnload())
-    {
-        try
-        {
-            eval(page.GetUnload());
-        } catch(e)
-        {
-            //alert(e); //silence problematic scripts
-        }
-    }
-}
-
-function PageResize()
-{
-    while (page.HasOnResize())
-    {
-        try
-        {
-            eval(page.GetOnResize());
-        } catch(e)
-        {
-            //alert(e); //silence problematic scripts
-        }
-    }
-}
-
-window.onload = PageInit;
-window.unload = PageDispose;
-window.onresize = PageResize;
-
-
-var AjaxObjName="AjaxObj";
-var LoadingHTML='<center><img src="/Client/Images/ajax-loader.gif" /></center>';
-
-var AjaxResponseObject; /* singleton variable for Ajax object to make sure no collision*/
-eval('var '+AjaxObjName+' = new Ajax();');
-
-function AContent(pUrl, pTargetDiv, pProcessMethod)
-{
-    this.url = pUrl;
-    this.targetDiv = pTargetDiv;
-    this.processMethod = pProcessMethod;
-}
-
-function Ajax()
-{
-    this.t = null;
-    AjaxResponseObject = null;
-    this.page = new Queue();
-    this.current = null;
-    this.On = false;
-}
-
-Ajax.prototype.Request = function(url, targetDiv, processMethod)    /* Define Method */
-{
-    this.page.Push(new AContent(url, targetDiv, processMethod));
-}
-
-Ajax.prototype.XMLHTTP = function(url, AjaxDiv, processmethod) /*private method */
-{
-    if (processmethod==null)
-    {
-        processmethod = this.StandardProcessMethod;
-    }
-    try
-    {
-        // Firefox, Opera 8.0+, Safari
-        AjaxResponseObject=new XMLHttpRequest();
-    }
-    catch (e)
-    {
-        // Internet Explorer
-        try
-        {
-            AjaxResponseObject=new ActiveXObject("Msxml2.XMLHTTP");
-        }
-        catch (e)
-        {
-            try
-            {
-                AjaxResponseObject=new ActiveXObject("Microsoft.XMLHTTP");
-            }
-            catch (e)
-            {
-                alert("Your browser does not support AJAX!");
-                return false;
-            }
-        }
-    }
-    if (AjaxResponseObject)
-    {
-        if (document.getElementById(AjaxDiv))
-        {
-            document.getElementById(AjaxDiv).innerHTML = LoadingHTML;
-        }
-        else
-        {
-            alert("<Div id=\""+AjaxDiv+"\"> Not Found! Request terminated.");
-            return;
-        }
-        AjaxResponseObject.onreadystatechange = processmethod;
-        AjaxResponseObject.open("GET", url, true);
-        AjaxResponseObject.send(null);
-    }
-}
-
-Ajax.prototype.Start = function()
-{
-    this.Stop();
-    this.On = true;
-    if (this.current == null)
-    {
-        this.current = this.page.Pop();
-        if (this.current != null) /* seed a request */
-        {
-            this.XMLHTTP( this.current.url, this.current.targetDiv, this.current.processMethod );
-        }
-        else /* no request found, seed a timeout and look for the next request */
-        {
-            this.t=setTimeout(AjaxObjName+".Start()",50);
-        }
-    }
-}
-
-Ajax.prototype.Stop = function()
-{
-    this.On = false;
-    if (this.t != null)
-    {
-        clearTimeout(this.t);
-    }
-}
-
-Ajax.prototype.StandardProcessMethod = function() /* static method */
-{
-    /* only if AjaxResponseObject shows "complete" */
-    if (AjaxResponseObject.readyState == 4) {
-        /* only if "OK" */
-        if (AjaxResponseObject.status == 200) {
-            /* ...processing statements go here... */
-            if (document.getElementById(eval(AjaxObjName+'.current.targetDiv')))
-            {
-                var content = (AjaxResponseObject.responseText.length>0)?AjaxResponseObject.responseText:"";
-                try
-                {
-                    document.getElementById(eval(AjaxObjName+'.current.targetDiv')).innerHTML = content;
-                }catch (e)
-                {
-                    alert('Error name: ' + e.name + '. \nError message: ' + e.message+'\n Info: \n   Ajax Target:'+eval(AjaxObjName+'.current.targetDiv')+' exists:'+((document.getElementById(eval(AjaxObjName+'.current.targetDiv')))?'true':'false')+'\n   Returned Text:\n'+((content.indexOf("<body>")>0)?content.substring(content.indexOf("<body>")):content));
-                }
-            }
-            else
-            {
-                alert("<Div id=\""+eval(AjaxObjName+'.current.targetDiv')+"\"> Not Found! Returned content dumped:\n"+AjaxResponseObject.responseText);
-            }
-        } else {
-            if (document.getElementById(eval(AjaxObjName+'.current.targetDiv')))
-            {
-                document.getElementById(eval(AjaxObjName+'.current.targetDiv')).innerHTML = "There was a problem retrieving the XML data:" + AjaxResponseObject.statusText;
-            }
-            else
-            {
-                alert("There was a problem retrieving the XML data:\n" + AjaxResponseObject.statusText);
-            }
-        }
-        eval(AjaxObjName+'.current = null;');
-        eval(AjaxObjName+'.Start();');
-    }
-}
-
-function Load(url, div, method)
-{
-    url = url.replace("'", "\\'");
-    if (method==null)
-    {
-        method = 'null';
-    }
-    if (div==null)
-    {
-        div = "AjaxContent";
-    }
-    if (document.getElementById(div))
-    {
-        document.getElementById(div).innerHTML = LoadingHTML;
-    }
-    eval(AjaxObjName+".Request('"+url+"', '"+div+"', "+method+")");
-}
-
-page.AddOnload(AjaxObjName+'.Start();');
-
-
-    </script>
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Online Poker Privacy and Security at Cake Poker
+</title><link id="ctl00_ctl00_ctl00_BaseCSS" type="text/css" rel="Stylesheet" href="http://ckpn.cachefly.net/Web/CakePoker-Web/Styles/Base.css"><link id="ctl00_ctl00_ctl00_ExternalCSS" type="text/css" rel="Stylesheet" href="http://ckpn.cachefly.net/Web/CakePoker-Web/Styles/External.css"><link id="ctl00_ctl00_ctl00_ControlsCSS" type="text/css" rel="Stylesheet" href="http://ckpn.cachefly.net/Web/CakePoker-Web/Styles/Controls.css">
+    <script type="text/javascript" src="/Scripts/prototype.js"></script>
+    <script type="text/javascript" src="/Scripts/Cake.Common.js"></script>
+    <link type="text/css" rel="stylesheet" href="http://ckpn.cachefly.net/Web/CakePoker-Web/Integrity/Styles/Security.css">
 	
-	<link type="text/css" rel="Stylesheet" href="Styles/Security.css">
-
+	
 </head>
 <body>
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaGQCAQ9kFgICAQ9kFgQCAw9kFgICBw8WAh4FY2xhc3MFCVNlbGVjdGVkIGQCBQ9kFgICAQ9kFgICBQ8WAh8BBQlTZWxlY3RlZCBkZBm0Gb8iky7yoMA5CXOcwFaZ5QCh">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAmYPZBYCZg9kFgQCAQ9kFgICAxAWAh4HVmlzaWJsZWhkZAIDD2QWAgIBD2QWBAIDD2QWAgIHDxYCHgVjbGFzcwUJU2VsZWN0ZWQgZAIFD2QWAgIBD2QWAgIFDxYCHwEFCVNlbGVjdGVkIGRkPh2/UiOJsKzrQELBVzCS8w06V4g=">
 
 		<div>
 			
 	<div id="Masthead">
 		<a href="../" id="ctl00_ctl00_ctl00_MainContent_A1">
-			<img src="../Images/Logo.gif" id="ctl00_ctl00_ctl00_MainContent_Logo" alt="Cake Poker"><br>
+			<img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logo.gif" id="ctl00_ctl00_ctl00_MainContent_Logo" alt="Cake Poker"><br>
 		</a>
 	</div>
 	
@@ -479,12 +41,12 @@ page.AddOnload(AjaxObjName+'.Start();');
 </ul>
 		
 <div style="text-align: center; margin-top: 30px;">
-	<a href="../Download"><img src="../Images/PlayNow.gif" style="margin-left: 18px;"></a><br>	
+	<a href="../Download"><img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/PlayNow.gif" style="margin-left: 18px;"></a><br>	
 	<a href="../Promotions/DepositBonus.aspx">
-		<div style="height: 40px; width: 170px; background-image: url(Images/100Bonus.gif); cursor: pointer;"></div>
+		<img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/DepositBonus.gif" height="39" width="169">
 	</a>
 	<a href="../Promotions/Freerolls.aspx">
-		<div style="height: 40px; width: 170px; background-image: url(Images/100Bonus.gif); cursor: pointer; background-position: 0 40px;"></div>
+		<img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/FreeRolls.gif" height="39" width="169">
 	</a>
 </div>
 	</div>
@@ -492,30 +54,30 @@ page.AddOnload(AjaxObjName+'.Start();');
 		
 <h1>Privacy</h1>
 <p>
-CakePoker and its owner and operator, Cake Gaming N.V. understand the importance of privacy protection on the internet.  CakePoker remains committed to upholding the confidentiality of the personal information that we collect.  The information that we collect is safeguarded with the appropriate software and hardware tools in place as well as the techniques, methods and procedures that we choose to employ.
+Cake Poker and its owner and operator, Cake Gaming N.V. understand the importance of privacy protection on the internet.  Cake Poker remains committed to upholding the confidentiality of the personal information that we collect.  The information that we collect is safeguarded with the appropriate software and hardware tools in place as well as the techniques, methods and procedures that we choose to employ.
 </p>
 <p>
 The following information will help you to understand our policies and your rights regarding the collection, storage, use and the safeguarding of information relating to you.
 </p>
 
-<h2>Information collected by CakePoker</h2>
+<h2>Information collected by Cake Poker</h2>
 <p>
-When you choose to open a CakePoker Account you will be asked to provide us with certain pertinent personal information. This information will include your full name, mailing address, e-mail address and a chosen password. You will also be asked to certify that you are at least 18 years old or older in jurisdictions where specifically required. We will use this personal information to confirm and complete any financial transactions as well as to contact you regarding news and events information and provide you with customer support services. If at any time you do not wish to receive our newsletters, you may instruct us to remove you from the distribution list by following the appropriate instructions included in each of the newsletters or by contacting the Support Team directly by E-mail.  It is very important that you complete the required account details with valid information as this information will be used in the process of validating financial transactions. Players may change their account details by selecting an account option in the lobby screen.
+When you choose to open a Cake Poker Account you will be asked to provide us with certain pertinent personal information. This information will include your full name, mailing address, e-mail address and a chosen password. You will also be asked to certify that you are at least 18 years old or older in jurisdictions where specifically required. We will use this personal information to confirm and complete any financial transactions as well as to contact you regarding news and events information and provide you with customer support services. If at any time you do not wish to receive our newsletters, you may instruct us to remove you from the distribution list by following the appropriate instructions included in each of the newsletters or by contacting the Support Team directly by E-mail.  It is very important that you complete the required account details with valid information as this information will be used in the process of validating financial transactions. Players may change their account details by selecting an account option in the lobby screen.
 </p>
 
 <h2>Information used to process Deposits and Withdrawals</h2>
 <p>
-Players will need to provide deposit specific information when making a deposit to play for real money (example: credit card number, Firepay or NETeller account number). This information may be applied along with your personal information to allow us to clear financial transactions executed by you with CakePoker. 
+Players will need to provide deposit specific information when making a deposit to play for real money (example: credit card number, Firepay or NETeller account number). This information may be applied along with your personal information to allow us to clear financial transactions executed by you with Cake Poker. 
 </p>
 
 <h2>Confidentiality of Information</h2>
 <p>
-CakePoker undertakes substantial efforts to ensure the confidentiality of the information it has collected about individual players and will not knowingly allow access to this information to anyone outside of CakePoker, other than to the player himself or as described in this Privacy Policy. In order to protect the information, CakePoker has ensured from a technological standpoint that its server, database, backup, firewall and encryption technologies all exceed industry standards. All of the employees working with CakePoker are required to comply with the terms of our Privacy Policy which outlines that employees are obligated to keep player information strictly confidential and this obligation continues when an employee has left our company. As a player, you should ensure that your CakePoker account password remains confidential and we recommend that you take appropriate steps to ensure others are not able to access your account information. 
+Cake Poker undertakes substantial efforts to ensure the confidentiality of the information it has collected about individual players and will not knowingly allow access to this information to anyone outside of Cake Poker, other than to the player himself or as described in this Privacy Policy. In order to protect the information, Cake Poker has ensured from a technological standpoint that its server, database, backup, firewall and encryption technologies all exceed industry standards. All of the employees working with Cake Poker are required to comply with the terms of our Privacy Policy which outlines that employees are obligated to keep player information strictly confidential and this obligation continues when an employee has left our company. As a player, you should ensure that your Cake Poker account password remains confidential and we recommend that you take appropriate steps to ensure others are not able to access your account information. 
 </p>
 
 <h2>Limits of Confidentiality</h2>
 <p>
-Legally Required Disclosures: Due to the existing legal, regulatory and security environment, CakePoker may be required, under certain circumstances, to disclose personally identifiable information about our Players. CakePoker will use its best reasonable efforts to limit such disclosure to the following: where CakePoker believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce CakePoker's rights. Further, we can, and you authorize us to, disclose your Player identification, name, street address, city, state, zip code, country, phone number, e-mail, and company to third party agents of CakePoker as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
+Legally Required Disclosures: Due to the existing legal, regulatory and security environment, Cake Poker may be required, under certain circumstances, to disclose personally identifiable information about our Players. Cake Poker will use its best reasonable efforts to limit such disclosure to the following: where Cake Poker believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce Cake Poker's rights. Further, we can, and you authorize us to, disclose your Player identification, name, street address, city, state, zip code, country, phone number, e-mail, and company to third party agents of Cake Poker as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
 </p>
 
 <h2>Who receives your information</h2>
@@ -523,27 +85,27 @@ Legally Required Disclosures: Due to the existing legal, regulatory and security
 In addition to disclosures due to legal requirements as explained above, we may from time to time disclose your personal information to:
 </p>
 <ol>
-	<li>our CakePoker employees</li>
+	<li>our Cake Poker employees</li>
 	<li>employees of other companies that are related to or affiliated with Cake Gaming N.V.</li>
-	<li>third party service providers who use your personal information to provide services to us in respect of your being a Player with CakePoker.</li>
+	<li>third party service providers who use your personal information to provide services to us in respect of your being a Player with Cake Poker.</li>
 </ol>
 <p>
-All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private. These parties will adhere to policies that, at the very minimum, reflect those of CakePoker.
+All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private. These parties will adhere to policies that, at the very minimum, reflect those of Cake Poker.
 </p>
 
 <h2>Cookies</h2>
 <p>
-We may send you a temporary cookie when you visit the CakePoker website. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit our website. We may use the data that is generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see contact our Support Team if you require any further information about the use or deletion of cookies.
+We may send you a temporary cookie when you visit the Cake Poker website. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit our website. We may use the data that is generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see contact our Support Team if you require any further information about the use or deletion of cookies.
 </p>
 
 <h2>Your rights pertaining to your information</h2>
 <p>
-You may write CakePoker to, where appropriate, have your personal information removed, rectified, amended or completed. In order to contact us regarding your information please e-mail our Security Team at security@cakepoker.com. Please note that CakePoker may levy a small charge to cover administration costs in regard to any such request.
+You may write Cake Poker to, where appropriate, have your personal information removed, rectified, amended or completed. In order to contact us regarding your information please e-mail our Security Team at security@cakepoker.com. Please note that Cake Poker may levy a small charge to cover administration costs in regard to any such request.
 </p>
 
 <h2>Consent to Privacy Policy</h2>
 <p>
-By opening an Account with CakePoker, you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. Your continued use of the CakePoker services constitutes your agreement to this Privacy Policy and any updates.
+By opening an Account with Cake Poker, you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. Your continued use of the Cake Poker services constitutes your agreement to this Privacy Policy and any updates.
 </p>
 <p>
 In the case of any conflicting presentation between this Privacy Policy and the Cake End User Agreement captured under our Terms Of Service, the terms outlined in the Cake End User Agreement shall prevail.
@@ -569,19 +131,30 @@ a wholly owned subsidiary of Cake Gaming N.V.
 
 	<div id="Footer">
 		<div id="FooterIcons">			
-			<a href="../Help/ResponsibleGaming.aspx#Over18" id="ctl00_ctl00_ctl00_MainContent_A2"><img src="../Images/Over18.gif" id="ctl00_ctl00_ctl00_MainContent_Img1"></a>			
-			<a href="http://www.gamblersanonymous.org/" id="ctl00_ctl00_ctl00_MainContent_A3"><img src="../Images/gamblers_anonymous.gif" id="ctl00_ctl00_ctl00_MainContent_Img2"></a>			
-			<a href="http://www.neteller.com" id="ctl00_ctl00_ctl00_MainContent_A4"><img src="../Images/Logos/Neteller.png" id="ctl00_ctl00_ctl00_MainContent_Img3"></a>
-			
-			<a href="http://www.epassporte.com" id="ctl00_ctl00_ctl00_MainContent_A5"><img src="../Images/Logos/epassporte.gif" id="ctl00_ctl00_ctl00_MainContent_Img4"></a>
-			<a href="http://www.moneybookers.com" id="ctl00_ctl00_ctl00_MainContent_A6"><img src="../Images/Logos/moneybookers.gif" id="ctl00_ctl00_ctl00_MainContent_Img5"></a>
-
-			<a href="../HowToPlay/Depositing.aspx#CreditCard" id="ctl00_ctl00_ctl00_MainContent_A7"><img src="../Client/Cashier/Providers/Images/Visa.png" id="ctl00_ctl00_ctl00_MainContent_Img6" alt="VISA" style="margin-bottom: 5px;"></a>
-			<a href="../HowToPlay/Depositing.aspx#CreditCard" id="ctl00_ctl00_ctl00_MainContent_A8"><img src="../Client/Cashier/Providers/Images/Mastercard.png" id="ctl00_ctl00_ctl00_MainContent_Img7" alt="MasterCard" style="margin-bottom: 5px;"></a>
-			<table>
+			<a href="http://www.neteller.com">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/neteller.png" class="Png" alt="Logo"></a>
+            <a href="../Help/ResponsibleGaming.aspx#Over18" id="ctl00_ctl00_ctl00_MainContent_A2">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/over18.png" class="Png" alt="Logo"></a>
+            <a href="http://www.gamblersanonymous.org/">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/ga.png" class="Png" alt="Logo"></a>
+            <a href="http://www.moneybookers.com">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/moneybookers.png" class="Png" alt="Logo"></a>
+            <a href="../HowToPlay/Depositing.aspx#CreditCard" id="ctl00_ctl00_ctl00_MainContent_A3">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/visa.png" class="Png" alt="Logo"></a>
+            <a href="../HowToPlay/Depositing.aspx#CreditCard" id="ctl00_ctl00_ctl00_MainContent_A4">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/mc.png" class="Png" alt="Logo"></a>
+            <a href="http://www.ecocard.com/" target="_blank">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/eco.png" class="Png" alt="logo"></a>
+            <a href="http://www.usemywallet.com/" target="_blank">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/usemywallet.png" class="Png" alt="logo"></a>
+            <a href="https://www.ewalletxpress.com/navaho/app" target="_blank">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/Home/ewallet.png" class="Png" alt="logo"></a>
+            <a href="http://www.tstglobal.com/" target="_blank">
+                <img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/TSTNALogo.gif" class="Png" alt="logo"></a>
+            <table style="margin-top: 25px;">
 				<tbody><tr>
 					<td style="text-align: left;">
-						<a href="http://www.cyberluck.com/Seal/SealDetails.asp?IPurl=http://www.cakepoker.com"><img src="../Images/Logos/CyberLuck.png" id="ctl00_ctl00_ctl00_MainContent_CyberLuckLogo" alt="CyberLuck"></a>
+						<a href="http://www.cyberluck.com/Seal/SealDetails.asp?IPurl=http://www.cakepoker.com"><img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/CyberLuck.png" id="ctl00_ctl00_ctl00_MainContent_CyberLuckLogo" alt="CyberLuck"></a>
 					</td>
 					<td style="text-align: center;">
 						<div id="FooterLinks">
@@ -589,19 +162,19 @@ a wholly owned subsidiary of Cake Gaming N.V.
 						</div>
 					</td>
 					<td style="text-align: right;">
-						<a href="http://www.vengine.com/products/vengine/index.html" target="_blank"><img src="../Images/Logos/vengine_download.gif"></a>
+						<a href="http://www.vengine.com/products/vengine/index.html" target="_blank"><img src="http://ckpn.cachefly.net/Web/CakePoker-Web/Images/Logos/vengine_download.gif"></a>
 					</td>
 				</tr>
 			</tbody></table>
 		</div>		
-	</div>
-	
+	</div>	
+
+            
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-84205-4";
 urchinTracker();
 </script>
-	
 
 		</div>
     </form>
