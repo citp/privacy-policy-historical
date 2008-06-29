@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917033331id_/http%3A//www.securedservers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629190431id_/http%3A//www.securedservers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Secured Servers | Privacy Policy
 
@@ -53,8 +53,9 @@ This Privacy Policy is subject to change. Any changes to Secured Servers' Privac
 Should you have other questions or concerns about Secured Servers' Privacy Policy, please contact us at support@securedservers.com, or write to us at: 
 
 **Secured Servers, LLC**   
-1501 West 17th Street   
-Tempe , Arizona 85281 - USA   
+2353 W. University Dr.   
+Building A   
+Tempe, AZ 85281-7223   
 Phone (480) 449-7750   
 Fax (480) 449-8819 
 
