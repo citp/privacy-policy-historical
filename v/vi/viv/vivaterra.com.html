@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivaterra.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivaterra.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="distribution" content="Global">
@@ -47,23 +47,23 @@ obj.value=obj.value.substring(0,mlength)
         return null;
       }
       function session_id(){
-        return "165354243411";
+        return "45425497774";
+      }
+      function org_id(){
+        return "";
       }
     //-->
   </script>
 
     <script type="text/javascript" language="javascript">
       <!--
-      function display_popup(url_in){
-        popupWindowRef = window.open(url_in, "popupWindow",
-          "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=500,screenX=50,screenY=50,top=50,left=50");
-        if(popupWindowRef){
-          popupWindowRef.focus();
-        }
-      }
       function display_popup(url_in, width_in, height_in){
+        var width = width_in;
+        var height = height_in;
+        if (width == null) width=750;
+        if (height == null) height=500;
         popupWindowSizedRef = window.open(url_in, "popupWindowSized",
-          "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=" + width_in + ",height=" + height_in + ",screenX=50,screenY=50,top=50,left=50");
+          "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=" + width + ",height=" + height + ",screenX=50,screenY=50,top=50,left=50");
         if(popupWindowSizedRef){
           popupWindowSizedRef.focus();
         }
@@ -91,38 +91,52 @@ obj.value=obj.value.substring(0,mlength)
   
     <!-- script for navigation dropdowns -->
     <script language="javascript" type="text/javascript">
+      var gaObjId    = new Array();
+      var gaObjWidth = new Array();
+      var gnObjCount = 0;
+
+      function PreloadWidth(objid) {
+        // Allow preloading of object width, work-around for a drop menu bug in Firefox
+        var obj, nObjWidth;
+        obj=document.getElementById(objid);
+        nObjWidth = obj.offsetWidth;
+        gaObjId[gnObjCount] = objid;
+        gaObjWidth[gnObjCount] = nObjWidth;
+        gnObjCount++;
+      }
 
       function resetDropdownDiv(objid, parid, vis, dir) {
-        var par,obj;
+        var par,obj, nWidth=0;
         if (document.getElementById) {
-
           if ((obj=document.getElementById(objid))!=null){
-
             if (obj.style) {
-              //check for parent to set left/right position
-              if ((par=document.getElementById(parid))!=null){
+              if ((par=document.getElementById(parid))!=null) {	// Check for parent to set left/right position
+                for (i=0;i<gnObjCount;i++) { 										// Check for preloaded parent
+                  if (gaObjId[i] == parid) {
+                    nWidth = gaObjWidth[i];
+                    i = gnObjCount;
+                  }
+                }
+                if (nWidth == 0) {
+                  nWidth = par.offsetWidth;
+                }
                 if (dir == "left") {
-                  //submenu should go left of the parent, use the right edge
-                  obj.style.right = par.offsetWidth;
+                  obj.style.right = nWidth;											// submenu should go left of the parent, use the right edge
                 }
                 else {
-                  //submenu should go right of the parent, use the left edge
-                  obj.style.left = par.offsetWidth;
+                  obj.style.left = nWidth;											// submenu should go right of the parent, use the left edge
                 }
               }
-              //now set the visibility
-              obj.style.visibility = vis;
+              obj.style.visibility = vis; 											// set the visibility
             } //object supports styles
-
           } //object found
-
         } //if we have browser support
       } //resetDropdownDiv
 
     </script>
   </head>
 <body>
-<!-- Copyright Enetrix Technologies 2007 (www.enetrix.com) -->
+<!-- Copyright Enetrix Technologies 2008 (www.enetrix.com) -->
 
 <table class="bodyTable" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
@@ -157,10 +171,6 @@ obj.value=obj.value.substring(0,mlength)
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.484198.cat">Garden</a></div></td>
 </tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.484187.cat">Bath Accessories</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.908110.cat">Bedding</a></div></td>
-</tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.1062177.cat">Rugs &amp; Mats</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.919994.cat">Display &amp; Storage</a></div></td>
@@ -174,15 +184,15 @@ obj.value=obj.value.substring(0,mlength)
 <td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_2561145','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_2561145','','hidden', '');">
 <div id="dd_div_2561145" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.1897047.cat">Holiday Decor</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2561500.cat">Objet</a></div></td>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2561500.cat">Objet</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2561503.cat">Wall Decor</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2561499.cat">Candles &amp; Lights</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2561498.cat">Vases &amp; Vessels</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.3345667.cat">Garden Objet</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.2561145.2561145.2585866.cat">Pillows &amp; Throws</a></div></td>
 </tr>
@@ -215,25 +225,29 @@ obj.value=obj.value.substring(0,mlength)
 </tr>
 </tbody></table>
 </div><a href="!stmenu_template.main?complex_id_in=482007.1062176..1062176.cat" onmouseover="image_1062176.src='object_utils.display_object?id=2906600&amp;dummy=0';" onmouseout="image_1062176.src='object_utils.display_object?id=2847655&amp;dummy=0';"><img src="object_utils.display_object?id=2847655&amp;dummy=0" alt="Dining &amp; Kitchen" name="image_1062176" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_486160','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_486160','','hidden', '');">
-<div id="dd_div_486160" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_486161','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_486161','','hidden', '');">
+<div id="dd_div_486161" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486183.cat">Gift Sets</a></div></td>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.484187.cat">Bath Accessories</a></div></td>
 </tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486184.cat">Tea &amp; Coffee</a></div></td>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.908110.cat">Bedding</a></div></td>
 </tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.484134.cat">Chocolate &amp; Sweets</a></div></td>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.2565187.cat">Bedroom Accents</a></div></td>
 </tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.484227.cat">Fresh Food</a></div></td>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.1058944.cat">Towels &amp; Robes</a></div></td>
 </tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.919683.cat">New</a></div></td>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918444.cat">New</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918448.cat">Bed, Bath &amp; Spa Sale</a></div></td>
 </tr>
 </tbody></table>
-</div><a href="!stmenu_template.main?complex_id_in=482007.486160..486160.cat" onmouseover="image_486160.src='object_utils.display_object?id=2906608&amp;dummy=0';" onmouseout="image_486160.src='object_utils.display_object?id=2906610&amp;dummy=0';"><img src="object_utils.display_object?id=2906610&amp;dummy=0" alt="Organic Gourmet" name="image_486160" border="0"></a></td>
+</div><a href="!stmenu_template.main?complex_id_in=482007.486161..486161.cat" onmouseover="image_486161.src='object_utils.display_object?id=2921544&amp;dummy=0';" onmouseout="image_486161.src='object_utils.display_object?id=2847671&amp;dummy=0';"><img src="object_utils.display_object?id=2847671&amp;dummy=0" alt="" name="image_486161" border="0"></a></td>
 <td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_484107','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_484107','','hidden', '');">
 <div id="dd_div_484107" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.1020781.cat">Apparel</a></div></td>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.3249754.cat">Lounge Wear</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.1020781.cat">Apparel</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.484108.cat">Jewelry</a></div></td>
 </tr>
@@ -254,18 +268,24 @@ obj.value=obj.value.substring(0,mlength)
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1062184.cat">Dining &amp; Kitchen Sale</a></div></td>
 </tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.918448.cat">Bed, Bath &amp; Spa Sale</a></div></td>
+</tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.919829.cat">Women's Sale</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1636464.cat">Final Clearance</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.2585686.cat"><font color="990000"><b>Special Offers</b></font></a></div></td>
 </tr>
 </tbody></table>
 </div><a href="!stmenu_template.main?complex_id_in=482007.826941..826941.cat" onmouseover="image_826941.src='object_utils.display_object?id=2906627&amp;dummy=0';" onmouseout="image_826941.src='object_utils.display_object?id=2847679&amp;dummy=0';"><img src="object_utils.display_object?id=2847679&amp;dummy=0" alt="Sale" name="image_826941" border="0"></a></td>
 <td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_488301','','visible', 'left');" onmouseout="resetDropdownDiv('dd_div_488301','','hidden', '');">
 <div id="dd_div_488301" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493438.cat">Under $50</a></div></td>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.917044.cat">Wedding</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.907946.cat">Housewarming</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493430.cat">Host or hostess</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493438.cat">Under $50</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.1062137.cat">$50 - $100</a></div></td>
 </tr>
@@ -274,14 +294,6 @@ obj.value=obj.value.substring(0,mlength)
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493428.cat">For her</a></div></td>
 </tr>
 <tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493429.cat">For him</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.1874449.cat">Business gifts</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.917044.cat">Wedding</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.907946.cat">Housewarming</a></div></td>
-</tr>
-<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493430.cat">Host or hostess</a></div></td>
 </tr>
 </tbody></table>
 </div><a href="!stmenu_template.main?complex_id_in=482007.488301..488301.cat" onmouseover="image_488301.src='object_utils.display_object?id=2906629&amp;dummy=0';" onmouseout="image_488301.src='object_utils.display_object?id=2847683&amp;dummy=0';"><img src="object_utils.display_object?id=2847683&amp;dummy=0" alt="Gift Ideas" name="image_488301" border="0"></a></td>
@@ -454,7 +466,7 @@ financial records and consumer information.
 <!-- bCategoryHasContent=Y rParamRec.param_value_name="None" -->
   <!-- end of output from template_utils.show_content -->
 <!-- end of output from template_utils.display_content -->
-<!-- Content took 00:00:00.053947000 to generate --><!-- END MAIN CONTENT AREA --></div></td>
+<!-- Content took 00:00:00.043702000 to generate --><!-- END MAIN CONTENT AREA --></div></td>
 </tr>
 </tbody></table>
 </td>
