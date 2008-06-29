@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629205650id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
 
 # Miles Kimball
 
-|  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Sale&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Gateway.aspx?CID=Web+Exclusives&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=New+Arrivals&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=As+Seen+On+TV&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Kimball+Klearance&SiteNum=0) |   
----|---|---|---|---|---  
-  
-| [Home](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx)  
+|  | 
+
+| [Home](https://web.archive.org/web/20080629205650id_/http%3A//www.mileskimball.com/MilesKimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20080629205650id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20080629205650id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence |  **Call us at** 1-800-546-2255  
@@ -15,18 +14,22 @@ Shop With Confidence |  **Call us at** 1-800-546-2255
    
 |  _Quibble-Free Guarantee_  
 ---  
+_Installment Billing Details:_  
 _Privacy and Security Policy_  
 _Terms of Use_  
    
 **_Quibble-Free Guarantee_**  
 Miles Kimball understands that returning an item needs to be as easy and convenient as possible. With that in mind we created our Quibble-Free Guarantee® just for you. Whether an item is too big, too small, too short, or too tall, simply exchange it for a new item, or return it for a complete refund. No questions, no hassles. 
 
-Your complete satisfaction is guaranteed. If you change your mind about a purchase for any reason just return it. We'll promptly refund your money or replace the item without a quibble or a quarrel. Miles Kimball prides itself on offering you great value prices on all our merchandise. We guarantee we will beat all competitive catalog prices on identical merchandise advertised within the past 30 days. 
+Your complete satisfaction is guaranteed. If you change your mind about a purchase for any reason just return it. We'll promptly refund your money or replace the item without a quibble or a quarrel. Miles Kimball prides itself on offering you great value prices on all our merchandise. 
 
 If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our 
 
-[_Returns & Exchanges_](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Ordering.aspx#returns) information.   
+[_Returns & Exchanges_](https://web.archive.org/web/20080629205650id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Ordering.aspx#returns) information.   
 _Back to top of page_  
+   
+**_Installment Billing Details:_**  
+Installment billing is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $60 after discounts, promotions, and gift certificates have been applied to your order. Your merchandise total will be divided into three payments. The first payment will include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into two equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payment dates may change based on when your items ship. The Miles Kimball Company reserves the right to demand payment in full if a payment cannot be obtained at the time of a billing.   
    
 **_Privacy and Security Policy_**  
 At MilesKimball.com, we respect your privacy and have established diligent procedures to ensure that your personal information is handled in a safe, secure, responsible manner. Below we describe why we gather information from our customers, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. 
