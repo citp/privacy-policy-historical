@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050654id_/http%3A//www.lendingtree.com/stmrc/privacy.asp%3Finline%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629102943id_/http%3A//www.lendingtree.com/stmrc/privacy.asp%3Finline%3Dtrue) for the most accurate reproduction.*
 
 # LendingTree -- Privacy Policy
 
@@ -15,7 +15,6 @@ Privacy Policy
 [Get Internet Mortgage Leads from LendingTree](https://web.archive.org/stm3/aboutlt/join-lender.asp)  
 [Get Internet Mortgage Leads from GetSmart](http://www.getsmart.com/forlenders.asp)  
 [Join Our Real Estate Network](https://web.archive.org/stm3/aboutlt/join-realestate.asp)  
-[Post Home Listings](https://web.archive.org/stm3/aboutlt/postlistings.asp)  
 [Advertising/Marketing Opportunities](https://web.archive.org/stm3/aboutlt/advertising.asp)  
 [Directions to LendingTree](https://web.archive.org/stm3/aboutlt/directions.asp)  
 [Technical Publications](https://web.archive.org/stm3/aboutlt/tech_pubs/default.asp)  
@@ -75,7 +74,7 @@ In general. We may use information that we collect about you to:
 
 
 
-Financial information. We may use financial information to match you with lenders or to provide loan offers to you, to verify your identify, to protect against or identify possible fraudulent transactions, otherwise as needed to manage our business, and, if you request a loan through LendingTree Loans or Home Loan Center, to determine your eligibility for a loan and to charge you for any lock or processing fees.
+Financial information. We may use financial information to match you with lenders or to provide lenders' conditional loan offers to you, to verify your identify, to protect against or identify possible fraudulent transactions, otherwise as needed to manage our business, and, if you request a loan through LendingTree Loans or Home Loan Center, to determine your eligibility for a loan and to charge you for any lock or processing fees.
 
 Job applicants. If your personal information is submitted through our websites when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with the other IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
 
