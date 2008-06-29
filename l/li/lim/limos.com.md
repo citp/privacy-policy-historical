@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226053821id_/http%3A//www.limos.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629112031id_/http%3A//www.limos.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Limos.com Privacy Policy
 
@@ -35,4 +35,4 @@ All information obtained and submitted herein is only used in accordance with th
 c/o LIMOS.com  
 4505 E. Chandler Blvd, Ste 105   
 Phoenix AZ 85048  
-admin@limos.com
+customerservice@limos.com
