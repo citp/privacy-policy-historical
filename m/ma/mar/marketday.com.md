@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218061538id_/http%3A//www.marketday.com/util/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629052618id_/http%3A//www.marketday.com/util/privacy.aspx) for the most accurate reproduction.*
 
 # Market Day | Privacy
 
