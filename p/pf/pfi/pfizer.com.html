@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,6 +14,67 @@
 <link rel="alternate stylesheet" type="text/css" media="screen" title="medium-text" href="/include/css/pf_style_med.css">
 <link rel="alternate stylesheet" type="text/css" media="screen" title="large-text" href="/include/css/pf_style_lg.css">
 <script src="/include/js/css_switch.js" type="text/javascript"></script><script src="/include/js/ajax.js" type="text/javascript"></script>
+
+<!--start CMS JS-->
+<script language="javascript" type="text/javascript" src="/include/js/tiny_mce/tiny_mce.js"></script>
+<script language="javascript" type="text/javascript">
+	tinyMCE.init({
+		mode : "textareas",
+		theme : "advanced",
+		//plugins : "devkit,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+		plugins : "style,layer,table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+		theme_advanced_buttons1_add_before : "save,newdocument",
+		//theme_advanced_buttons1_add : "fontselect,fontsizeselect",
+		//theme_advanced_buttons2_add : "separator,insertdate,inserttime,preview,separator,forecolor,backcolor",
+		//theme_advanced_buttons2_add_before: "cut,copy,paste,pastetext,pasteword,separator,search,replace,separator",
+		//theme_advanced_buttons3_add_before : "tablecontrols,separator",
+		//theme_advanced_buttons3_add : "emotions,iespell,media,advhr,separator,print,separator,ltr,rtl,separator,fullscreen",
+		//theme_advanced_buttons4 : "insertlayer,moveforward,movebackward,absolute,|,styleprops,|,cite,abbr,acronym,del,ins,attribs,|,visualchars,nonbreaking,template,|,code",
+		theme_advanced_toolbar_location : "top",
+		theme_advanced_toolbar_align : "left",
+		theme_advanced_path_location : "bottom",
+		content_css : "example_full.css",
+	    plugin_insertdate_dateFormat : "%Y-%m-%d",
+	    plugin_insertdate_timeFormat : "%H:%M:%S",
+		extended_valid_elements : "hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]",
+		external_link_list_url : "example_link_list.js",
+		external_image_list_url : "example_image_list.js",
+		flash_external_list_url : "example_flash_list.js",
+		media_external_list_url : "example_media_list.js",
+		template_external_list_url : "example_template_list.js",
+		file_browser_callback : "fileBrowserCallBack",
+		theme_advanced_resize_horizontal : false,
+		theme_advanced_resizing : true,
+		nonbreaking_force_tab : true,
+		apply_source_formatting : true,
+		template_replace_values : {
+			username : "",
+			staffid : ""
+		}
+	});
+
+	function fileBrowserCallBack(field_name, url, type, win) {
+		// This is where you insert your custom filebrowser logic
+		alert("Example of filebrowser callback: field_name: " + field_name + ", url: " + url + ", type: " + type);
+
+		// Insert new URL, this would normaly be done in a popup
+		win.document.forms[0].elements[field_name].value = "someurl.htm";
+	}
+</script>
+	<script language="javascript">
+		function showCMSTool()
+		{
+			var oldContent = document.getElementById('cmsContent').innerHTML;
+			document.getElementById('cmsContent').style.display="none";
+			document.getElementById("cmsTool").style.display="";
+			document.getElementById("elm1").rows="50";
+			//alert(document.getElementById("htmlSource").innerHTML);
+			//document.getElementById('htmlSource').value = oldContent;
+			tinyMCE.setContent(oldContent);
+		}
+	</script>
+<!-- end cms javscript -->
+
 </head>
 <body>
 <div id="bkgcontainer">
@@ -69,7 +130,11 @@ function GoogleSearch()
 <div id="contentcontainer_oneoff">
 
 <div id="intcontentleft_oneoff">
-	<h1>Privacy</h1>
+	
+
+
+<!-- start cms content -->
+<div id="cmsContent"><h1>Privacy</h1>
 	<p>Last updated February 2006</p>
 
     <div><img src="/img/clickseal.gif" style="float:right"></div>
@@ -118,6 +183,8 @@ function GoogleSearch()
       <li>We do not knowingly collect personally identifiable information from any person under the age of 13 without parental consent.</li>
       <li>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and prevent unauthorized access, maintain data security, and correctly use the information we collect online.</li>
     </ul>
+</div>
+<!-- end cms content -->
 
 </div>
 
@@ -130,7 +197,7 @@ function GoogleSearch()
 <div id="footer">
 	<p>
         <a href="/home/"><img src="/img/logo.footer.gif" alt="Pfizer, the World's Largest Pharmaceutical Company" width="45" height="23" align="left" border="0"></a>
-        Copyright © 2002-2007 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States.<br>
+        Copyright © 2002-2008 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States.<br>
         <a href="/b2b/index.jsp">Business to Business</a>
         <a href="/careers/">Careers</a>
         <a href="/contact/index.jsp">Contact Us</a>
@@ -147,8 +214,6 @@ function GoogleSearch()
 	<p>Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
     
 </div>
-
-
 <!-- END FOOTER INCLUDE -->
 
 
@@ -180,6 +245,24 @@ function hbxStrip(a) {
              a = a.split("~").join("");
              a = a.split(";").join("");
              a = a.split(" ").join("+");
+			 
+			 a = a.split("|").join("");
+			 a = a.split("&").join("");
+			 a = a.split("'").join("");
+			 a = a.split("#").join("");
+			 a = a.split("$").join("");
+			 a = a.split("%").join("");
+			 a = a.split("^").join("");
+			 a = a.split("*").join("");
+			 a = a.split(":").join("");
+			 a = a.split("!").join("");
+			 a = a.split("").join("");
+			 a = a.split("~").join("");
+			 a = a.split(";").join("");
+			 a = a.split("ý").join("");
+			 a = a.split("(tm)").join("");
+			 a = a.split(" ").join("+");
+
 		 return a;
              }
 </script>
