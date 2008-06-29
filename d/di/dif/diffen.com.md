@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229110340id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629024304id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Diffen
 
@@ -42,11 +42,15 @@ When using a pseudonym, your IP address will not be available to the public exce
 
 If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Diffen contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
-**Cookies**
+**Cookies and Web Beacons**
 
 Diffen will set a temporary session cookie (PHPSESSID) whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. 
 
 More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
+
+Diffen uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, [IP address](http://en.wikipedia.org/wiki/Ip_address "http://en.wikipedia.org/wiki/Ip_address"), [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
+
+You can choose to disable cookies from Diffen or selectively from any of the 3rd party advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website but will still be able to use a lot of the site's functionality. 
 
 **Passwords**
 
@@ -73,7 +77,7 @@ It is the policy of Diffen that personally identifiable data collected in the se
 
 
 
-Diffen's policy does not permit public distribution of such information under any circumstances, except as described above. 
+Diffen's policy does not permit public distribution of such information under any circumstances, except as described above. Please also see the section on **Cookies and Web Beacons** on this page. 
 
 ## [[edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=4 "Edit section: Sharing information with third parties")] Sharing information with third parties 
 
