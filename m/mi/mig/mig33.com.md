@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221003514id_/http%3A//www.mig33.com/about_mig33/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629152130id_/http%3A//www.mig33.com/about_mig33/privacy.php) for the most accurate reproduction.*
 
 # mig33 :: About Mig33 :: News
 
@@ -25,7 +25,7 @@ Through the website, we receive data that you actively submit and data that we t
 
 ## Purposes of Data Collection
 
-We collect information from you so that we can manage and administer the services we provide to you; administer your account; respond to your questions; solve any technical support problems; communicate with you about any modifications, upgrades or enhancements to our service; determine what sorts of services are likely to be most useful for you and to further develop our understanding of customers' needs; ensure your compliance with our [Terms of Use](https://web.archive.org/web/20071221003514id_/http%3A//www.mig33.com/about_mig33/terms.php); and carry out a statistical analysis of the use of our service.
+We collect information from you so that we can manage and administer the services we provide to you; administer your account; respond to your questions; solve any technical support problems; communicate with you about any modifications, upgrades or enhancements to our service; determine what sorts of services are likely to be most useful for you and to further develop our understanding of customers' needs; ensure your compliance with our [Terms of Use](https://web.archive.org/web/20080629152130id_/http%3A//www.mig33.com/about_mig33/terms.php); and carry out a statistical analysis of the use of our service.
 
 ## Disclosure of Data
 
@@ -61,7 +61,7 @@ This Privacy Policy is effective August 31, 2007. We reserve the right to amend 
 
 ## Terms of Use
 
-Note also that your use of our website is subject to our [Terms of Use](https://web.archive.org/web/20071221003514id_/http%3A//www.mig33.com/about_mig33/terms.php), which contain disclaimers, limitations of liability, a choice of California law, and consent to the jurisdiction of State and federal courts in California.
+Note also that your use of our website is subject to our [Terms of Use](https://web.archive.org/web/20080629152130id_/http%3A//www.mig33.com/about_mig33/terms.php), which contain disclaimers, limitations of liability, a choice of California law, and consent to the jurisdiction of State and federal courts in California.
 
 ## Contact Us
 
