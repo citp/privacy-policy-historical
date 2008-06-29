@@ -1,0 +1,319 @@
+<!--The following is the downloaded HTML source of the thesixtyone.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629225402id_/http%3A//www.thesixtyone.com/static/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <title>thesixtyone - a music adventure</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="Radio sucks so let's do something about it. At thesixtyone, musicians upload music and listeners decide which songs go on the homepage.">
+  <meta name="keywords" content="music mp3 free download artist album Alternative Indie Rock streaming ">
+  
+  
+  </head><body onload="t61.init();"><div id="header_css">
+  
+  <link href="http://www.thesixtyone.com/site_media/stylesheets/thesixtyone_sprite.v4543.css" media="screen" rel="Stylesheet" type="text/css">
+
+
+  </div>
+
+
+
+  
+  <div id="page_layout">
+    <div id="page_header">
+      <img onclick="if (t61.context.nav != 'prelaunch') t61.load_url('/home/', {'emulate_nonajax':true});" title="thesixtyone" id="masthead" class="masthead" src="http://www.thesixtyone.com/site_media/images/masthead_sprite.gif">
+      <div id="top_navigation" class="navigation">
+        
+          <a href="/home/" graceful="true">home</a>
+
+          <a href="/profile/" graceful="true">profile</a>
+
+          <a href="/music/" graceful="true">browse</a>
+
+          <a href="/leaders/" graceful="true">leaders</a>
+
+        
+      </div>
+      <div id="page_navigation">
+        <div id="top_profile">
+          
+<div id="top_player" style="display: none;">
+  <a href="#" id="top_player_photo_link"><img id="top_player_photo"></a>
+  <div class="now_playing" id="top_player_content">
+    <span>now playing</span> (<span id="top_player_progress_time">0:00</span>)<br>
+    <div id="top_player_song_name"></div>
+    <div id="top_player_artist"></div>
+  </div>
+  <div id="top_player_controls">
+    <a href="#" title="previous" onclick="t61.playlist.play_previous_song(); return false;" id="top_prev_button" class="light">prev</a>
+    <a href="#" title="stop" onclick="t61.show_top_profile(); return false;" id="top_stop_button" class="light" style="display:none;">stop</a>
+    <a href="#" title="pause" onclick="t61.current_song.pause(); return false;" class="light" id="top_pause_button">pause</a>
+    <a href="#" title="pause" onclick="t61.current_song.play(); return false;" class="light" id="top_play_button" style="display:none;">play</a>
+    <a href="#" title="next" onclick="t61.playlist.play_next_song(); return false;" class="light">next</a>
+
+    <div id="top_player_volume_slider">
+      <span style="float: left; margin-top:-1px;">vol</span>
+       <div id="top_player_volume_track" style="width:30px; height: 4px;">
+        <div id="top_player_volume_handle" style="height: 10px; width: 3px;"></div>
+      </div>
+    </div>
+  </div>
+  <div id="top_login_form_wrapper">
+  
+  <form id="top_login_form" style="" action="." onsubmit="new Ajax.Request('/user/show_login_popup/', {asynchronous: true, evalScripts: true}); return false;">
+    <input type="submit" class="input_submit_button" value="login">
+
+  </form>
+  
+  </div>
+</div>
+
+
+<div id="profile_photo_jump_tip" class="jump_tip" style="display:none;">
+click to jump back to where you began<br>
+<span>→</span>
+</div>
+
+
+          <div id="top_profile_default">
+          
+            
+<div id="top_signin">
+  <form class="signin" method="post" id="top_signin_form" action="." onsubmit="t61.user.start_login($('id_email').value, $('id_password').value); return false;">
+    <table cellspacing="0" cellpadding="0">
+      <tbody><tr><th>e-mail:</th><th>password:</th><th></th></tr>
+      <tr><td><input id="id_email" type="text" name="email" maxlength="75"></td>
+          <td><input type="password" name="password" id="id_password"></td>
+          <td><input type="submit" class="input_submit_button" value="login">
+</td>
+      </tr>
+    </tbody></table>
+    <div id="signin_footer">
+      <a href="#" onclick="new Ajax.Request('/user/show_register_popup/'); return false;" class="light">free account</a> | <a href="/user/forgot_password/" graceful="true" force_ajax="true" class="light">forgot password?</a>
+    </div>
+  </form>
+</div>
+
+          
+          </div>
+        </div>
+
+        <div id="user_points_container" style="display:none;">
+          
+        </div>
+      </div>
+    </div>
+
+    <div id="middle_bar">
+      <div id="top_left_nookie">
+        <span id="num_currently_listening">2673</span> listeners
+        <span id="global_menu">
+          
+
+        </span>
+      </div>
+
+      <div id="top_subnavigation" class="navigation">
+         
+        
+      </div>
+
+      <div class="search" id="global_search" style="background: url(http://www.thesixtyone.com/site_media/images/search_box.png) no-repeat;">
+        <form action="." onsubmit="t61.load_url('/search/'+$(global_search_input).value+'/', {emulate_nonajax: true}); return false;">
+          <div class="search_wrapper"><input type="text" id="global_search_input" value="Search..." onfocus="if (this.value.match(/Search.../)) this.value = &quot;&quot;"></div>
+        </form>
+      </div>
+    </div>
+    
+      
+        
+        <div id="page_notice" style="display:none;"><div id="page_notice_inner"></div></div>
+        
+      
+    
+
+    <div style="width:800px;text-align:center;margin-top:6px;margin-bottom:2px;clear:both;float:left;">
+      <div class="ad_728x90" style="margin:auto;">
+        <div class="ad_728x90_content" id="ad_728x90_content">
+        
+        </div>
+      </div>
+    </div>
+
+    <div id="page_content">
+    
+<div class="static_content">
+  
+<h2>Privacy Notice</h2>
+<br>
+
+<h4>Personal Information</h4>
+<ul>
+<li><b>Non-Account Activity.</b> You can listen and download songs on thesixtyone without having an Account.</li>
+
+<li><b>Account-Related Activity.</b> Certain other activities on thesixtyone—like uploading songs, posting comments, or listening to restricted songs—require you to have an Account. We ask for some personal information when you create an Account, including your email address and a password, which is used to protect your Account from unauthorized access. An Account allows you to access many of our services that require registration.</li>
+<li><b>Usage Information.</b> We may record information about your usage, such as when you use thesixtyone, the songs you listen to, the contacts you communicate with, and the frequency and size of data transfers, as well as information you display or click on in thesixtyone (including UI elements, settings, and other information). If you are logged in, we may associate that information with your Account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.</li>  
+<li><b>Content Uploaded to Site.</b> Any personal information or song content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.</li>
+</ul>
+<br>
+
+<h4>Uses</h4>
+<ul>
+<li>If you submit personally identifiable information to us through thesixtyone, we use your personal information to operate, maintain, and provide to you the features and functionality of thesixtyone, as well as provide special personalized features to you.</li>
+<li>Your Account name (not your email address) is displayed to other Users when you upload songs or send messages through thesixtyone and other Users can contact you through messages and comments. Any songs that you submit to thesixtyone may be redistributed through the internet and other media channels, and may be viewed by the general public.</li>
+<li>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major thesixtyone Site changes or for customer service purposes).</li> 
+<li>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of thesixtyone and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</li> 
+<li>We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit thesixtyone; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</li>
+</ul>
+<br>
+
+<h4>Your Choices</h4>
+<ul>
+<li>You may, of course, decline to submit personally identifiable information through thesixtyone, in which case you can still listen to songs and explore thesixtyone, but thesixtyone may not be able to provide certain services to you. Some advanced features may, for authentication purposes, require you to sign up for other thesixtyone services. The privacy notices of those services govern the use of your personal information associated with them.</li>
+<li>You may update or correct your personal profile information and email preferences at any time by visiting your <a href="/user/prefs/" graceful="true" class="dark">Account profile page</a>.</li>
+</ul>
+<br>
+
+<h4>More Information</h4>
+<p>thesixtyone adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the <a class="dark" href="http://www.export.gov/safeharbor/">Department of Commerce's web site</a>.</p>
+
+</div>
+
+    </div>
+
+    <div id="page_footer">
+      <div id="bottom_navigation">
+        <a href="/static/about/" class="dark" graceful="true">about</a> | <a href="/static/faq/" class="dark" graceful="true">faq</a> | <a href="http://thesixtyone.spreadshirt.com" target="_blank">store</a> | <a href="/forum/" class="dark" graceful="true">forums</a> | <a href="http://thesixtyone.tumblr.com/" target="_blank">blog</a> | <a href="/static/contest/" class="dark" graceful="true">contest</a> | <a href="mailto:help@thesixtyone.com" class="dark">contact</a> | <a href="/static/privacy/" class="dark" graceful="true">privacy</a> | <a href="/static/service/" class="dark" graceful="true">terms</a> | <a href="/static/jobs/" class="dark" graceful="true">jobs</a>   | © 2008 thesixtyone 
+      </div> 
+      <div style="text-align: center; margin-bottom:8px; display:none;"><img src="http://www.thesixtyone.com/site_media/images/jingle.gif"></div>
+      <div id="theme_selector">
+      <span class="label"><img src="http://www.thesixtyone.com/site_media/images/facebook_16x16.png" style="position: relative; top: 3px; padding-right: 2px;"> <a href="http://www.facebook.com/pages/thesixtyone/11594574625?ref=ts" target="_blank">join us on facebook</a> or <a href="http://www.facebook.com/apps/application.php?id=7128185562" target="_blank">add your badge</a> | try a theme:</span>
+
+  <div title="sprite" class="theme_selected theme_sprite">&nbsp;</div>
+
+  
+  <div title="autumn" class="theme_autumn theme_unselected" onclick="new Ajax.Request('/user/set_theme/autumn/', {evalScripts: true, asynchronous: true});">&nbsp;</div>
+
+  
+  <div title="strawberry" class="theme_strawberry theme_unselected" onclick="new Ajax.Request('/user/set_theme/strawberry/', {evalScripts: true, asynchronous: true});">&nbsp;</div>
+
+
+      </div>
+    </div>
+
+  </div>
+
+  <div id="floating_tutorials"></div>
+  <div id="floating_notices"></div>
+
+  <div id="flashcontent"></div>
+  <div class="image_cache">
+    <img src="http://www.thesixtyone.com/site_media/images/mini_pause_button.gif">
+    <img src="http://www.thesixtyone.com/site_media/images/mini_pause_button_hover.gif">
+    <img src="http://www.thesixtyone.com/site_media/images/mini_play_button_hover.gif">
+    <img src="http://www.thesixtyone.com/site_media/images/quest_play_button_hover.png">
+    <img src="http://www.thesixtyone.com/site_media/images/quest_pause_button_sprite.png">
+    <img src="http://www.thesixtyone.com/site_media/images/quest_pause_button_hover.png">
+  </div>
+
+  <div id="popup_overlay_wrapper">
+    <div id="popup_overlay" style="display:none;"></div>
+    <div id="ajax_loader" style="display:none;">Loading...</div>
+  </div>
+
+  <div id="popup_wrapper" style="display:none;">
+    <a class="close" href="#" onclick="t61.popup.hide(); return false;">CLOSE X</a>
+    <div id="popup">
+      <div id="popup_content">
+      </div>
+    </div>
+    <div class="status" id="popup_status"></div>
+      <div class="image_cache">
+        <img src="http://www.thesixtyone.com/site_media/images/large_black_button_hover.png">
+        <img src="http://www.thesixtyone.com/site_media/images/black_button_hover.png">
+      </div>
+    </div>
+    
+
+
+
+  <script type="text/javascript" id="criticaljs">
+  if (!this["t61"]) var t61 = {};
+  t61.load_url = function(url, options) {};
+  </script>
+ 
+  
+  <script src="http://www.thesixtyone.com/site_media/javascripts/thesixtyone.v4543.js" type="text/javascript"></script>
+  
+
+  <script type="text/javascript" id="globaljs">
+    var fo = new SWFObject("http://www.thesixtyone.com/site_media/swf/song_player_f9.v4543.swf", "flash_song_player", "0", "0", "9", "#666666", true);
+    fo.addParam("allowScriptAccess", "always");
+    fo.write("flashcontent");
+    if (!this["console"]) var console = {'log': function() {}}; // for firebug compatibility with non-Firefox browsers
+    t61.environment = 'production';
+    
+      t61.level.xp_requirements = [-1, 0, 120, 230, 350, 480, 750, 1300, 2000, 3150, 5000, 7500, 11700, 17550, 26300, 39500, 59200, 88850, 133270, 199900, 299858, 449800, 674700, 1012050];
+      t61.is_artist = false;
+    
+    t61.user_volume = 0.5;
+    t61.is_logged_in = false;
+    t61.session_key = '8daf949a18e96b7fed32f4a845853e80';
+    
+    
+    t61.viewport = t61.util.get_viewport();
+    t61.page_title = 'thesixtyone - a music adventure';
+    t61.media_url = 'http://www.thesixtyone.com';
+    t61.site_url = 'http://www.thesixtyone.com';
+    t61.s3_audio_load = 0.0;
+
+    t61.bump_cost_structure = {
+      bump_cost: 5,
+      discovery_cost: 50,
+      bumps_needed_for_publishing: 75,
+      publish_cost_offset: 5,
+      multi_bumps_allowed_per_level: 1,
+      song_artist_fame_cost_penalty: 0.06,
+      song_artist_fame_first_users_affected: 300.0
+    }
+
+    // iframe loading must be executed dynamically so that subsequent javascript is not clobbered
+    if ($('vertical_ad_panel_content')) {
+      $('vertical_ad_panel_content').update('<iframe name="ad_160x600" id="ad_160x600" width="160" height="635" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" src="http://www.thesixtyone.com/site_media/adcode/indieclick_160x600.html" />');
+    }
+
+    /* TODO: re-introduce once digg button is needed
+    if ($('collection_digg_button')) {
+      $('collection_digg_button').update('<iframe scrolling="no" frameborder="0" marginwidth="0" marginheight="0" width=160 src="http://www.thesixtyone.com//collection/digg_button//"></iframe>');
+    }
+    */
+
+    
+      $('ad_728x90_content').update('<iframe name="ad_728x90" id="ad_728x90" width="728" height="90" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" src="http://www.thesixtyone.com/site_media/adcode/indieclick_728x90.html" />');
+    
+  </script>
+
+  <script type="text/javascript" id="customjs">
+    
+t61.context = {};
+
+    
+    t61.tutorial.data = null;
+    t61.tutorial.progress = null;
+    
+    
+t61._comment_form_submit = function() {
+  new Ajax.Request('/comments/post///?viewed_username=', {parameters: Form.serialize('comments_form')}); $('comments_status').innerHTML = 'Submitting comment...'; return false;
+}
+    
+  </script>
+
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+  _uacct = "UA-2531913-1";
+  urchinTracker();
+  </script>
+
+
+
+</body></html>
