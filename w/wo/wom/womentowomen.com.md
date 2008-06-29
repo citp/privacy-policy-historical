@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028132712id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629202657id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
 
 # Legal/Privacy
+
+Privacy policy & legal
 
 Women to Women was founded in 1985 to provide healthcare services to women of all ages through three venues: clinical care from its base in Yarmouth, Maine; medical/health educational services through its clinic and website nationally; and a personalized, at-home program for hormonal balance designed to support a foundation of health for all women.
 
@@ -26,7 +28,7 @@ Women to Women and its employees or contractors shall not be liable in the event
 **Advertising**  
 The Women to Women website does not accept paid endorsements of products or display banner advertising of any kind.
 
-**Notice of privacy practices regarding Women to Women’s Healthcare Center**
+Notice of privacy practices regarding Women to Women’s Healthcare Center
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
@@ -34,7 +36,7 @@ If you have any questions about this Notice please contact our Privacy Officer: 
 
 This Notice of Privacy Practices describes how we may use and disclose your protected health information to carry out treatment, payment or health care operations and for other purposes that are permitted or required by law. It also describes your rights to access and control your protected health information. “Protected health information” is information about you, including demographic information, that may identify you and that relates to your past, present or future physical or mental health or condition and related health care services. 
 
-We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](http://www.womentowomen.com/) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
+We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](https://web.archive.org/web/20080629202657id_/http%3A//www.womentowomen.com/default.aspx) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
 
 **Understanding your health record/information**  
 Each time you visit a healthcare provider, a record of your visit is made. Typically, this record contains your symptoms, examination and test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your health or medical record, serves as a:
@@ -119,4 +121,7 @@ Federal law makes provision for your health information to be released to an app
 This notice was published and becomes effective on April 14, 2003.
 
 _Original Publication Date:_ 04/14/2003  
-_Last Modified:_ 1/9/2007 
+
+
+_Last Modified:_ 01/10/2008   
+
