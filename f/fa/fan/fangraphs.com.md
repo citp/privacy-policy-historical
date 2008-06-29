@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229220247id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629032653id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Fan Graphs
+# Privacy Policy | FanGraphs Baseball
 
 **Privacy Policy**  
   
@@ -62,6 +62,4 @@ Questions and Suggestions
 
   
   
-  
-|  | Copyright 2007 by STATS LLC. Any commercial use or distribution without the express written consent of STATS LLC is strictly prohibited."  
----|---
+
