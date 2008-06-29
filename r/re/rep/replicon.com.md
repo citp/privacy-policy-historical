@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222132135id_/http%3A//www.replicon.com/About_Replicon/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629183728id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Replicon - Privacy Statement
+
+[Home](https://web.archive.org/default.aspx "Replicon, Inc. offers easy to use timesheet software for employee attendance and project billing solutions.") > [About Us](https://web.archive.org/about-replicon.aspx "Replicon, Inc. is the global leader of corporate web-based time and expense management solutions.") > Privacy Statement
 
 ("Replicon" or "we", "us", "our", etc.)
 
