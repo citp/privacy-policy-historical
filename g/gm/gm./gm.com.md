@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231093744id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629073259id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -44,7 +44,7 @@ GM may obtain information about you and your vehicle in a number of ways: For ex
   * contact information (name, address, city, state and Zip Code, e-mail address, and telephone number)
   * vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.)
   * demographic information (age range, marital status, household composition, etc.)
-  * non-credit-related marketing gprofile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)
+  * non-credit-related marketing profile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)
   * relationships you have with GM not related to your vehicle (i.e., GM Card or OnStar)
 
 
@@ -154,7 +154,7 @@ Information Security \- We take steps to make personal information received from
 
 Correcting Your Information and Privacy Inquiries \- If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Supplier Discount Website, please contact us by calling 1-800-960-3375.
 
-### 2006 Disclosure
+### 2007 Disclosure
 
 Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MYPRIVACY (1-866-697-7482) to request a copy.
 
