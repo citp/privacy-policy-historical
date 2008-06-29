@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022850id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ Privacy Statement
 
@@ -109,7 +109,7 @@ Website: <http://www.nasdaq.com/>
 User Profile update: [ https://login.passport.net/ppsecure/uisecure.srf?lc=1033&id=10](https://login.passport.net/ppsecure/uisecure.srf?lc=1033&id=10)  
 Contact Info: <http://www.nasdaq.com/help/contactInformation.stm>
 
-Website: <https://www.nasdaq.net/nisn_frameset.asp>  
+Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Email: [contact@nasdaq.net](mailto:contact@nasdaq.net)  
 Phone: 800.943.5502
 
@@ -124,7 +124,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20071213022850id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -138,9 +138,9 @@ NASDAQ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, no
 Website: <http://www.emi.nasdaq.com/>  
 Website: <http://www.nasdaqinsurance.com/>  
 Website: <http://www.nasdaqtrader.com/>  
-Website: <https://www.nasdaq.net/nisn_frameset.asp>  
+Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20071213022850id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20080629073731id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
 Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
