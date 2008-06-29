@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229121213id_/http%3A//www.remedylife.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629063650id_/http%3A//remedylife.com/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# REMEDYLife
 
 This Privacy Policy applies to consumers who have agreed to receive promotional emails from MediZine, LLC ("MediZine").  By continuing to receive such promotional emails, you consent to the collection and use of information by MediZine as outlined in this Privacy Policy. 
 
-MediZine practices permission-based marketing, and is committed to respecting and protecting your privacy.  This Privacy Policy will help you understand how and the extent to which MediZine collects, uses and safeguards the Personal Information (defined below) that you have provided.  
+MediZine practices permission-based marketing, and is committed to respecting and protecting your privacy.  This Privacy Policy will help you understand how and the extent to which MediZine collects, uses and safeguards the Personal Information (defined below) that you have provided. 
 
-**Personal Information MediZine Collects From You**
+Anti-Spam
+
+RemedyLife complies with the [CAN-SPAM Act of 2003](http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.shtm)[](http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.shtm).
+
+**Every email sent includes links to unsubscribe, allowing users to automatically and immediately remove themselves from subscription lists.
+
+Personal Information MediZine Collects From You
+
+**
 
 If you are receiving MediZine publications and promotional email messages, this is due to your having returned a business reply card to MediZine upon which you included certain Personal Information (defined below) and indicated your interest in receiving such communications.  For purposes of this Privacy Policy, "Personal Information" shall mean information that can be used to identify you, including, but not limited to: (a) a first and last name; (b) a home or other physical address, including street name and name of city or town; (c) an e-mail address; or (d) a telephone number.
 
