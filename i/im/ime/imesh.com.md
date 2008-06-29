@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228090803id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629064108id_/http%3A//imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
@@ -12,23 +12,65 @@ iMesh takes your privacy very seriously. In order to provide you with the highes
 
 **Direct Submissions:**
 
-In order to provide you with excellent service and a superior customer experience iMesh has several areas where you can submit information to us and we also have features that automatically collect information from users of our service. Some of the information you may choose to provide includes personally identifiable information such as your name, address, email, age, gender and interests. In addition, we may collect information linked to your communications preferences, your payment and billing information, your searches and purchases, music you own, your music listening preferences, your library, playlists, most played artists and other requested information on surveys that are presented to you.
+In order to provide you with excellent service and a superior customer experience iMesh has several areas where you can submit information to us and we also have features that automatically collect information from users of our service. Some of the information you may choose to provide includes personally identifiable information such as your name, address, email, age, gender and interests. In addition, we may collect information linked to your communications preferences, your payment and billing information, your searches and purchases, music you own, your music listening preferences, your library, play lists, most played artists and other requested information on surveys that are presented to you.
 
-**Cookies and Other Technology** :
+**iMesh Personalization Service:   **
 
-iMesh may use cookies or other technologies for several purposes all designed to improve the customer experience. Within the iMesh service we may use either what are commonly called temporary or "session" cookies as well as permanent or "persistent" cookies. Temporary or "session" cookies mean that they only last as long as you are online. We may use these cookies to identify you as a valid member so that we can deliver music to you, and to help us personalize your service experience based on your registration preferences (such as genre choice, your connection speed, your preference with regard to receiving songs that contain explicit lyrics and the country you live in). We may also use session cookies to help us facilitate any promotions or surveys that we provide. Within the site, we may also use session cookies to keep track of your shopping cart. These cookies do not contain any personally identifying information and we do not store data collected by them.
+If you have elected to enable any of iMesh's Personalization Services, iMesh uses technology and services from third party partners to understand your unique interests by analyzing what content you view across Web sites and search results. This information is used to make music and other content recommendations to you.  iMesh and its partners also provide this information to other third parties to enable them to show you advertisements across the web that might be more interesting to you. 
+
+**What Information is collected by the iMesh Personalization Service?**
+
+When you first agree to receive the iMesh Personalization Service, information will be collected about your Web browsing history to begin building a profile of your interests. While your computer is on, the Personalization Service will periodically collect:
+
+  * Anonymous information about how you use the Web; for example — 
+    * the URL addresses of Web pages you view and how long you view them,
+    * the links and advertisements you click on,
+    * whether you make a purchase, and
+    * non-personally identifiable information you provide on Web pages and forms, including the Internet searches you conduct.
+  * Which computer operating system and Web browser(s) you use, and identification of some of your system settings. 
+  * Information on how you use the iMesh Personalization Service; for example, how often you use it and its settings and preferences.
+
+
+
+Personalization information is stored on servers located in the United States by iMesh and our third party partners. 
+
+**How is this Information used?**
+
+This information is used to make music and content recommendations to you within the iMesh software and iMesh MediaBar. This information also enables the Personalization Service to personalize the ads that are displayed to you on Web sites you visit. 
+
+This anonymous information might also be used to conduct research for use in improving and developing new products, and to complete aggregate analytics and custom marketing research programs.
+
+**With Whom do you Share my Information?**
+
+Search Partners: Your search queries might be with partners who may provide you with search results, sponsored links and customized ads to display to you.
+
+Research and Reporting: The analytics and custom marketing research programs compiled from the aggregated, anonymous information collected may be announced to the press or public to report emerging Web usage trends, or provided to its corporate clients and partners so they can better understand the effectiveness of their advertising campaigns, and trends in online consumer behavior.
+
+Service Providers: Your information may be shared with third parties who help perform a business function that it would otherwise perform itself. Such third parties are prohibited from using the data to any greater extent than allowed by this privacy policy.  This information may also be used by iMesh or its partners in connection with a judicial or administrative proceeding, or in response to a court order, subpoena, discovery request or other lawful process.
+
+**How Do I Uninstall Personalization Service?** You can uninstall the Personalization Service by disabling the technology in both the iMesh application and MediaBar (if installed).
+
+**Sale, Merger, or Asset Transfer**
+
+Information that has been collected from you by our software may be one of the transferred assets in the event iMesh or our partners are purchased or merged with another company. 
+
+**Cookies and Other Technology:**
+
+iMesh may use cookies or other technologies for several purposes all designed to improve the customer experience. Within the iMesh service we may use either what are commonly called temporary or "session" cookies as well as permanent or "persistent" cookies. Temporary or "session" cookies mean that they only last as long as you are online. We may use these cookies to identify you as a valid member so that we can deliver music to you, and to help us personalize your service experience based on your registration preferences (such as genre choice, your connection speed, your preference with regard to receiving songs that contain explicit lyrics and the country you live in), and to tailor the content and ads you receive. We may also use session cookies to help us facilitate any promotions or surveys that we provide. Within the site, we may also use session cookies to keep track of your shopping cart. These cookies do not contain any personally identifying information and we do not store data collected by them. 
 
 We may as part of the sign-in process for our service or within our shopping module, use what are commonly called "persistent" cookies which stay with you after your session is over and you are offline. We may use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be pre-populated for you. If we make this cookie available, it can only be activated if you select that option during your sign-in. If you select that option you can always deselect it each time you sign-in.
 
 We may sometimes use cookies, as well as other tracking technology, such as web beacons, within the promotional emails that we send to our members or advertisements for our service or sites. These technologies help us track, for example, whether an e-mail recipient has completed an event, such as signing up for a trial. The generated information is related to non-personally identifiable customer identification numbers and is only analyzed at aggregate levels. We may send these emails via third-party service providers that act on our behalf.
 
+While you download and install Imesh, Web beacons may be used to monitor your progress through the installation process. These Web beacons are used to identify and correct problems with the installer program and to improve the installation process.
+
 We sometimes utilize third party service providers to help us track the activity and user flows within our service or sites. These third parties may use temporary cookies and/or web beaconing technology to facilitate such tracking. Such tracking would track an individual user's movements but the data would not be tracked in a personally identifiable way. Such data would be stored and analyzed on an aggregated basis for purposes of internal analysis by iMesh to continue to optimize our customer experience.
 
 If we engage with any advertising partners and or other third parties, our approved advertising partners and third parties whose products or services are promoted on our site may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices if you are presented with one of their offers during your association with iMesh.
 
-**Log Files and IP addresses** :
+**Log Files and IP addresses:**
 
-We use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by iMesh to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
+We and our Personalization Partner use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, geographical location and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by iMesh to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
 
 **SEARCH TECHNOLOGY AND THE IMESH MEDIA BAR**
 
@@ -102,4 +144,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **QUESTIONS**
 
-If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at iMesh. 211 East 43rd St. 23rd Floor, New York, NY 10017, Attn: PRIVACY OFFICER.
+If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at iMesh. 211 East 43rd St. 23rd Floor, New York, NY 10017, Attn: PRIVACY OFFICER. 
