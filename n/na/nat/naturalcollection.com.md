@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224115120id_/http%3A//www.naturalcollection.com/organic/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629223316id_/http%3A//www.naturalcollection.com/organic/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
