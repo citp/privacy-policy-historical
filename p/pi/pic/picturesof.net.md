@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesof.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011082405id_/http%3A//www.picturesof.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesof.net privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629204507id_/http%3A//www.picturesof.net/privacy_policy.html) for the most accurate reproduction.*
 
 # PicturesOf.net - Terms Of Use
 
