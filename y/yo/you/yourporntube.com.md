@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourporntube.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212100544id_/http%3A//www.yourporntube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourporntube.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629023455id_/http%3A//yourporntube.com/privacy.php) for the most accurate reproduction.*
 
-# YourPornTube Collection of Smut
+# YourPornTube - Free Adult PornTube
 
 **YourPornTube, Inc.** (" ******YourPorn** Tube") recognizes that its customers, visitors, users, and others who use [www.YourPornTube.com](http://www.yourporntube.com/) or other web sites owned or operated by **YourPorn** Tube (the " **YourPorn** Tube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the **YourPorn** Tube Sites. **YourPorn** Tube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the **YourPorn** Tube Sites. 
 
