@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232514id_/http%3A//philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629061741id_/http%3A//www.philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
-Revised on March 27, 2007
+Revised on April 28, 2008
 
 ### Privacy Policy
 
@@ -14,7 +14,7 @@ _**Personally Identifiable Information**_
 
 **Registration for our Web sites**
 
-Anyone can view our site, but free registration is required for access to the full range of information and services.
+Anyone can view our site, but free registration and/or subscription is required for access to the full range of information and services.
 
 Philanthropy.com requires that you supply an e-mail address to register. You will also be asked for demographic information, which is optional. By using Philanthropy.com, you are agreeing to the terms of our [User Agreement.](https://web.archive.org/help/useragreement.htm)
 
@@ -36,11 +36,11 @@ _**Aggregate Information Collected Through Technology**_
 
 **Cookies and other technologies**
 
-As is standard practice on many Web sites, _The Chronicle_ uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web site is the most popular, where our visitors are going, and how much time they spend there. Users who do not accept cookies from the domain “philanthropy.com” cannot access most areas of our site.
+As is standard practice on many Web sites, _The Chronicle_ uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web site are the most popular, where our visitors are going, and how much time they spend there. Users who do not accept cookies from the domain “philanthropy.com” cannot access most areas of our site.
 
-We reserve the right to place a cookie on your computer with a unique, anonymous number to ensure that your browser does not see the same advertisement repeatedly, to sequence ads in a series, and to measure the number of unique visitors who have viewed a particular ad or visited a particular Web page.
+We reserve the right to place a cookie on your computer with a unique, anonymous number to ensure that your browser does not see the same advertisement repeatedly, to sequence ads in a series, and to measure the number of unique visitors who have visited a particular Web page or viewed a particular ad.
 
-In addition, advertisers may elect to use third-party advertising companies to serve ads onto our Web site. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique “cookie” on your browser. We do not have access to these cookies or any information that they may contain. Acceptance of cookies from domains other than philanthropy.com is optional.
+In addition, advertisers may elect to use third-party advertising companies to serve ads on our Web site. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique “cookie” on your computer. We do not have access to these cookies or any information that they may contain. You may block cookies from loading. Blocking cookies may prevent our site from working properly on your browser.
 
 **IP addresses**
 
@@ -66,25 +66,23 @@ We may use demographic and preference information to allow advertising on our We
 
 **User-generated content (comments, forums, and discussions)**
 
-We offer the ability for readers to post content in a number of areas on our Web site. Any information you disclose when posting on our site, along with your user name, becomes public and may be used by _The Chronicle_ for online and off-line promotional or commercial uses in any and all media. Any posting becomes public as soon as it is published online. For more information, please refer to the [User Agreement.](https://web.archive.org/help/useragreement.htm)
+We offer the ability to post content in a number of areas on our Web site. Any information you disclose when posting on our site, along with your user name, becomes public and may be used by _The Chronicle_ for online and off-line promotional or commercial uses in any and all media. Any posting becomes public as soon as it is published online. For more information, please refer to the [User Agreement.](https://web.archive.org/help/useragreement.htm)
 
-_**E-Mail Communication and Addresses**_
-
-If you choose to receive them, _The Chronicle_ will periodically send you e-mail newsletters or promotional e-mail about services offered by _The Chronicle_ and its advertisers.
-
-**What is our e-mail policy?**
+_**What is our e-mail policy?**_
 
 We will not share, sell, rent, swap, or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail message from us in error, please contact [help@philanthropy.com](mailto:help@philanthropy.com).
 
-**Account and service-related e-mail:** _The Chronicle_ reserves the right to send you e-mail about your account status. This includes order confirmations, renewal and expiration notices, notices of credit-card problems, other transactional e-mails, and notifications about major changes in our Web sites or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
+**Account and service-related e-mail:** _The Chronicle_ reserves the right to send you e-mail about your account status. This includes order confirmations, renewal and expiration notices, notices of credit-card problems, other transactional e-mails, changes to paid or free services that you have signed up for, and notifications about major changes in our Web sites or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
 **E-mail newsletters:** _The Chronicle_ offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. To manage your Chronicle.com e-mail preferences, please [click here.](https://web.archive.org/services/email_lists?minimal=y)
 
-**Promotional e-mail:** If you choose to receive them, _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) [opting out.](https://web.archive.org/services/email_lists?minimal=y)
+**Promotional e-mail:** _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) [opting out.](https://web.archive.org/services/email_lists?minimal=y)
 
-**Survey e-mail:** We may send you an e-mail inviting you to participate in user surveys, asking for feedback about _The Chronicle_ or philanthropy.com and and about existing or prospective products and services, as well as information to better understand our readers. Reader surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. Occasionally, we may send you an e-mail message inviting you to participate in a third-party sponsored survey. We recommend that you review the third party's privacy policy if you have any questions about how your responses might be used.
+**Survey e-mail:** We may send you e-mail inviting you to participate in user surveys, asking for feedback about _The Chronicle_ or philanthropy.com and about existing or prospective products and services, as well as information to better understand our readers. Reader surveys help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. 
 
-**HTML e-mail:** We may include coding to determine whether or not readers have viewed the message. This process does not leave any information on your computer, nor does it collect information from your computer. _The Chronicle_ will share this data with others in aggregate only.
+Occasionally, we may send you an e-mail message inviting you to participate in a third-party sponsored survey. We recommend that you review the third party's privacy policy if you have any questions about how your responses might be used.
+
+**HTML e-mail:** We may include coding to determine whether or not readers have viewed messages. This process does not leave any information on your computer, nor does it collect information from your computer. _The Chronicle_ will share this data with others in aggregate only.
 
 **E-mail from you:** If you send us e-mail messages, you should be aware that information disclosed in those messages may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mail. We will use your e-mail address to respond directly to your questions or comments.
 
@@ -94,7 +92,7 @@ _**With Whom Do We Share the Information We Gather?**_
 
 If you have registered with us, **_The Chronicle_ will not sell, rent, swap, or authorize any third party to use your e-mail address or any information that personally identifies you without your permission.** We do, however, share information about our audience in aggregate form.
 
-If you are a print subscriber to _The Chronicle,_ we may exchange or rent your name and postal address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you do not wish to receive such mailings, please send an e-mail message to [circulation@philanthropy.com](mailto:circulation@philanthropy.com). Please include your online account number or your name and address as they appear on your mailing label. That will help us to expedite your request.
+If you are a print subscriber to _The Chronicle,_ we may exchange or rent your name and postal address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you do not wish to receive such mailings, please send an e-mail message to [subscriptions@philanthropy.com](mailto:subscriptions@philanthropy.com). Please include your online account number or your name and address as they appear on your mailing label. That will help us to expedite your request.
 
 **Service providers**
 
@@ -110,7 +108,7 @@ There are a number of things you can do in [Manage Your Account](https://web.arc
 
 **E-mail promotions**
 
-If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. Or log into [Manage Your Account](https://web.archive.org/services/) and [change your e-mail settings.](https://web.archive.org/services/email_lists?minimal=y)
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail message. Or log into [Manage Your Account](https://web.archive.org/services/) and [change your e-mail settings.](https://web.archive.org/services/email_lists?minimal=y)
 
 If you experience difficulty with the process, feel free to contact us at [help@philanthropy.com](mailto:help@philanthropy.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
 
@@ -143,4 +141,4 @@ Or see our complete information on [contacting _The Chronicle._](https://web.arc
 
 * * *
 
-](https://web.archive.org/about/email.htm)[Copyright](https://web.archive.org/about/copyright.htm) © 2007 [The Chronicle of Philanthropy](https://web.archive.org/)
+](https://web.archive.org/about/email.htm)[Copyright](https://web.archive.org/about/copyright.htm) © 2008 [The Chronicle of Philanthropy](https://web.archive.org/)
