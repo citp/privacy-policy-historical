@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bbsradio.com privacy policy that was archived on 2007-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071028113248id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbsradio.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629074147id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>BBS Radio Privacy Policy</title>
@@ -76,229 +76,12 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 //-->
-</script>
-<script type="text/javascript">
-// JavaScript Document
-
-<!-- Original:  Eddie Traversa (psych3@primus.com.au) -->
-<!-- Web Site:  http://dhtmlnirvana.com/ -->
-
-<!-- This script and many more are available free online at -->
-<!-- The JavaScript Source!! http://javascript.internet.com -->
-
-<!-- Begin
-window.onerror = null;
-var topMargin = 5;
-var HiTopMargin = 5;
-var LoTopMargin = 250;
-var slideTime = 1200;
-var ns6 = (!document.all && document.getElementById);
-var ie4 = (document.all);
-var ns4 = (document.layers);
-function layerObject(id,left) {
-if (ns6) {
-this.obj = document.getElementById(id).style;
-this.obj.left = left;
-return this.obj;
-}
-else if(ie4) {
-this.obj = document.all[id].style;
-this.obj.left = left;
-return this.obj;
-}
-else if(ns4) {
-this.obj = document.layers[id];
-this.obj.left = left;
-return this.obj;
-   }
-}
-function layerSetup() {
-floatLyr = new layerObject('floatLayer', 5);
-window.setInterval("main()", 10)
-}
-function floatObject() {
-if (ns4 || ns6) {
-findHt = window.innerHeight;
-} else if(ie4) {
-findHt = document.body.clientHeight;
-   }
-} 
-function main() {
-if (ns4) {
-this.currentY = document.layers["floatLayer"].top;
-this.scrollTop = window.pageYOffset;
-mainTrigger();
-}
-else if(ns6) {
-this.currentY = parseInt(document.getElementById('floatLayer').style.top);
-this.scrollTop = scrollY;
-mainTrigger();
-} else if(ie4) {
-this.currentY = floatLayer.style.pixelTop;
-this.scrollTop = document.body.scrollTop;
-mainTrigger();
-   }
-}
-function mainTrigger() {
-var newTargetY = this.scrollTop + this.topMargin;
-if ( this.currentY != newTargetY ) {
-if ( newTargetY != this.targetY ) {
-this.targetY = newTargetY;
-floatStart();
-}
-animator();
-   }
-}
-function floatStart() {
-var now2 = new Date();
-this.A = this.targetY - this.currentY;
-this.B = Math.PI / ( 2 * this.slideTime );
-this.C = now2.getTime();
-if (Math.abs(this.A) > this.findHt) {
-this.D = this.A > 0 ? this.targetY - this.findHt : this.targetY + this.findHt;
-this.A = this.A > 0 ? this.findHt : -this.findHt;
-}
-else {
-this.D = this.currentY;
-   }
-}
-function animator() {
-var now2 = new Date();
-var newY = this.A * Math.sin( this.B * ( now2.getTime() - this.C ) ) + this.D;
-newY = Math.round(newY);
-if (( this.A > 0 && newY > this.currentY ) || ( this.A < 0 && newY < this.currentY )) {
-if ( ie4 )document.all.floatLayer.style.pixelTop = newY;
-if ( ns4 )document.layers["floatLayer"].top = newY;
-if ( ns6 )document.getElementById('floatLayer').style.top = newY + "px";
-   }
-}
-function startfl1() {
-if(ns6||ns4) {
-pageWidth = innerWidth;
-pageHeight = innerHeight;
-layerSetup();
-floatObject();
-}
-else if(ie4) {
-pageWidth = document.body.clientWidth;
-pageHeight = document.body.clientHeight;
-layerSetup();
-floatObject();
-   }
-}
-//  End -->
-
-<!--
-
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-
-
-//-->
-</script>
-<script language="JavaScript1.2">
-
-// Script Source: CodeLifter.com
-// Copyright 2003
-// Do not remove this header
-
-isIE=document.all;
-isNN=!document.all&&document.getElementById;
-isN4=document.layers;
-
-
-function ddInit(e){
-  topDog=isIE ? "BODY" : "HTML";
-  whichDog=isIE ? document.all.theLayer : document.getElementById("theLayer");  
-  hotDog=isIE ? event.srcElement : e.target;  
-  while (hotDog.id!="titleBar"&&hotDog.tagName!=topDog){
-    hotDog=isIE ? hotDog.parentElement : hotDog.parentNode;
-  }  
-  if (hotDog.id=="titleBar"){
-    offsetx=isIE ? event.clientX : e.clientX;
-    offsety=isIE ? event.clientY : e.clientY;
-    nowX=parseInt(whichDog.style.left);
-    nowY=parseInt(whichDog.style.top);
-    ddEnabled=true;
-    document.onmousemove=dd;
-  }
-}
-
-function dd(e){
-  if (!ddEnabled) return;
-  whichDog.style.left=isIE ? nowX+event.clientX-offsetx : nowX+e.clientX-offsetx; 
-  whichDog.style.top=isIE ? nowY+event.clientY-offsety : nowY+e.clientY-offsety;
-  return false;  
-}
-
-function ddN4(whatDog){
-  if (!isN4) return;
-  N4=eval(whatDog);
-  N4.captureEvents(Event.MOUSEDOWN|Event.MOUSEUP);
-  N4.onmousedown=function(e){
-    N4.captureEvents(Event.MOUSEMOVE);
-    N4x=e.x;
-    N4y=e.y;
-  }
-  N4.onmousemove=function(e){
-    if (isHot){
-      N4.moveBy(e.x-N4x,e.y-N4y);
-      return false;
-    }
-  }
-  N4.onmouseup=function(){
-    N4.releaseEvents(Event.MOUSEMOVE);
-  }
-}
-
-function hideMe(){
-  if (isIE||isNN) whichDog.style.visibility="hidden";
-  else if (isN4) document.theLayer.visibility="hide";
-}
-
-function showMe(){
-  if (isIE||isNN) whichDog.style.visibility="visible";
-  else if (isN4) document.theLayer.visibility="show";
-}
-
-document.onmousedown=ddInit;
-document.onmouseup=Function("ddEnabled=false");
-
 </script><link rel="stylesheet" type="text/css" href="http://www.bbsradio.com/stylesheet2.css">
 </head>
 <body marginwidth="0" marginheight="0" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0"> 
 <div align="center"> 
   <table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#210F2A">
-  <tbody><tr> 
-    <td align="CENTER"><font face="Verdana, Arial, Helvetica, sans-serif" size="4" color="#FFFFFF"><strong> 
-      We're <font color="#00FF00">MOVING</font> to <font color="#00FF00">NEW UPGRADED 
-      Servers</font> throughout this week. Please be patient. We have not been 
-      able to upload archives for the last two weeks due to low server space, 
-      and we won't be able to again until this weekend. Again, thank you for your 
-      understanding; it may get a bit bumpy this week.</strong></font></td>
-  </tr>
-</tbody></table>
-<table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#210F2A">
-  <tbody><tr> 
+<tbody><tr> 
     <td height="92" colspan="3" valign="top" align="CENTER"> 
       <a href="http://www.bbsradio.com"><img src="http://www.bbsradio.com/images/bbsradio_logo_1.jpg" width="780" height="90" alt="If it's not mainstream, it's on BBSRadio.com" border="0"></a>    </td>
   </tr>
@@ -309,8 +92,8 @@ document.onmouseup=Function("ddEnabled=false");
     <td width="20%"><a href="http://www.bbsradio.com/bbs_talk_radio_station1.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_1.gif" width="144" height="66" border="0" alt="BBS Live Talk Radio Station I" id="Image1" onmouseover="MM_swapImage('Image1','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_1_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
     <td width="20%"><a href="http://www.bbsradio.com/bbs_talk_radio_station2.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_2.gif" width="144" height="66" border="0" alt="BBS Live Talk Radio Station 2" id="Image2" onmouseover="MM_swapImage('Image2','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_2_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
     <td width="20%" align="right"><a href="http://www.bbsradio.com/bbs_talk_radio_station3.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_3.gif" width="144" height="66" border="0" alt="BBS Talk Radio Station 3" id="Image4" onmouseover="MM_swapImage('Image4','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_3_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+    <td width="20%" align="right"><a href="http://www.latalkradio.com/" target="_blank"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_4.gif" width="144" height="66" border="0" alt="LA Talk Radio Station 4" id="Image5" onmouseover="MM_swapImage('Image5','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/stations/STATION_4_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
     <td width="20%"><a href="http://www.bbsradio.com/bbs_24hour_music.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/24_MUSIC.gif" width="144" height="66" border="0" alt="BBS 24-Hour Music" id="Image3" onmouseover="MM_swapImage('Image3','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/24_MUSIC_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="20%"><a href="http://www.bbsradio.com/bbs_latv.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/BBS_LA_TV.gif" width="144" height="66" border="0" alt="BBS L.A. T.V." id="Image5" onmouseover="MM_swapImage('Image5','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/BBS_LA_TV_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
   </tr>
 </tbody></table>
     </td>
@@ -327,16 +110,77 @@ document.onmouseup=Function("ddEnabled=false");
  
   <table width="780" cellspacing="0" bgcolor="#210F2A"> 
     <tbody><tr> 
-      <td width="175" rowspan="4" align="left" valign="top"> <table width="175" border="0" cellspacing="5" cellpadding="0" bordercolor="#31153F" align="CENTER">
-  <tbody><tr><td align="CENTER"><div align="center"> <a href="http://www.bbsradio.com/music_artists.php" class="regular"><img src="http://www.bbsradio.com/music_artists/albums.gif" width="100" height="100" border="0" alt="BBS MUSIC ARTISTS"><br>
-      NEW MUSIC</a></div></td>
+      <td width="175" rowspan="4" align="left" valign="top"> <table width="160" border="0" cellspacing="2" cellpadding="0" align="CENTER" bgcolor="#210F2A">
+  <tbody><tr> 
+    <td align="CENTER"> 
+      <table cellspacing="0" cellpadding="0" border="0" align="CENTER">
+  <tbody><tr> 
+    <td align="CENTER"><a href="http://www.veganguesthouse.com/" target="_blank"><img src="http://www.bbsradio.com/advertising/vendors/hammerton3.gif" width="150" height="150" alt="Vegan Guest House. An Unforgetable Journey" border="0"></a> 
+    </td>
+  </tr>
+  <tr> 
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" height="2" width="1" alt=""></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><a href="http://www.gaius-julius-caesar.com/" target="_blank"><img src="http://www.bbsradio.com/advertising/hosts/caesar_book.gif" width="150" height="150" alt="Pick up your copy of Convesations with Caesar.  A truly riveting and emotional body of work that captures the account of Caesar’s life on the other side." border="0"></a> 
+    </td>
+  </tr>
+  <tr> 
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" height="2" width="1" alt=""></td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"> <table width="140" border="0" cellspacing="0" cellpadding="2" align="center">
+        <tbody><tr align="center"> 
+          <td><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Enter 
+            email address<br>
+            and press Submit</b></font></td>
+        </tr>
+        <tr align="center"> 
+          <td height="30" background="http://www.bbsradio.com/graphics/bbs_n1.gif"><b><font color="#FFFF99" size="1" face="Verdana, Arial, Helvetica, sans-serif">BBS 
+            Radio<br>
+            Newsletter</font></b></td>
+        </tr>
+        <tr align="center"> 
+          <td> <form action="http://www.bbsradio.com/cgi-bin/dada/mail.cgi" method="get">
+              <input type="hidden" name="f" value="subscribe">
+              <input type="text" name="email" value="email address" size="17" onfocus="this.value='';">
+              <input type="hidden" name="list" value="newlist">
+              <input type="submit" value="Submit">
+              <font color="#00FF00" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.bbsradio.com/join_newsletter.php">info</a></font></form></td>
+        </tr>
+        <tr> 
+          <td height="7"><img src="http://www.bbsradio.com/images/blank.gif" height="1" width="1" alt=""></td>
+        </tr>
+        <tr align="center"> 
+          <td height="30" background="http://www.bbsradio.com/graphics/bbs_n2.gif"><b><font color="#FFFF99" size="1" face="Verdana, Arial, Helvetica, sans-serif">BBS 
+            Friends<br>
+            Newsletter</font></b></td>
+        </tr>
+        <tr align="center"> 
+          <td> <form action="http://www.bbsradio.com/cgi-bin/dada/mail.cgi" method="get">
+              <input type="hidden" name="f" value="subscribe">
+              <input type="text" name="email" value="email address" size="17" onfocus="this.value='';">
+              <input type="hidden" name="list" value="phosts">
+              <input type="submit" value="Submit">
+              <font color="#00FF00" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.bbsradio.com/bbs_friends/">info</a></font></form></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="12"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><font face="Georgia, Times New Roman, Times, serif" size="4" color="#FFFFFF"><strong><i><font color="#336699">BBS</font> 
+      Radio</i></strong></font></td>
   </tr>
   <tr> 
     <td height="1"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
-  </tr>
-  <tr> 
-    <td background="http://www.bbsradio.com/images/CELL_BACKGROUNDS/cell_BKG_2.jpg" align="CENTER"><font face="Georgia, Times New Roman, Times, serif" size="4" color="#FFFFFF"><strong><i><font color="#336699">BBS</font> 
-      Radio</i></strong></font></td>
   </tr>
   <tr> 
     <td><table align="CENTER">
@@ -345,7 +189,7 @@ document.onmouseup=Function("ddEnabled=false");
             BBS</a></td>
         </tr>
         <tr> 
-          <td colspan="2" align="CENTER"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Putting 
+          <td colspan="2" align="CENTER"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF">Putting 
             media back<br>
             in the People's Hands™<br>
             <font face="Geneva, Arial, Helvetica, sans-serif" size="1" color="#8080FF"><strong><em>".....where 
@@ -354,146 +198,32 @@ document.onmouseup=Function("ddEnabled=false");
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/index.php" class="regular">BBS 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/index.php" class="regular">BBS 
               INDEX</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/grab_player_code.html" class="regular" target="_blank">GRAB 
-              PLAYER CODE</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-    <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/index.php?#BBSSCHEDULE" class="regular">PROGRAM TIMES</a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/archives.php" class="regular">ARCHIVES</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station1.php" class="regular">STATION 
-              1</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station2.php" class="regular">STATION 
-              2</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station3.php" class="regular">STATION  
-              3</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/bbs_24hour_music.php" class="regular">24-HOUR 
-              MUSIC</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/listen_now.php" class="regular">HOW 
-              TO LISTEN</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/become_a_host.php" class="regular">HOSTING 
-              ON BBS</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/demographics.php" class="regular">DEMOGRAPHICS</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/advertisements.php" class="regular">BBS 
-              IN THE NEWS</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/affiliates.php" class="regular">AFFILIATES</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/music_artists_play.php" class="regular">GET 
-              PLAYED</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/archives.php" class="regular">ARCHIVES</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="https://www.bbsradio.com/bbsradio/signup.php" class="regular">SUBSCRIBE</a> 
+          <td width="132"><div align="center"><a href="https://www.bbsradio.com/bbsradio/signup.php" class="regular">Subscribe</a> 
               | <a href="https://www.bbsradio.com/bbsradio/member.php" class="regular-small">login 
               | help</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
@@ -501,299 +231,297 @@ document.onmouseup=Function("ddEnabled=false");
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/donations.php" class="regular">DONATE</a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/index.php?#BBSSCHEDULE" class="regular">PROGRAM 
+              TIMES</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/empty_rooms.php" class="regular">BBS 
-              FILMS</a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/headlined_guests.php" class="regular">2008 HEADLINES</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/events.php" class="regular">HOST'S 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station1.php" class="regular">BBS 
+              STATION 1</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station2.php" class="regular">BBS 
+              STATION 2</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bbs_talk_radio_station3.php" class="regular">BBS 
+              STATION 3</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.latalkradio.com/" class="regular" target="_blank">LA 
+              STATION 4</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bbs_24hour_music.php" class="regular">BBS 
+              MUSIC STATION</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/music_artists.php" class="regular">MUSIC 
+              ARTISTS</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/listen_now.php" class="regular">HOW 
+              TO LISTEN</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/become_a_host.php" class="regular">HOST 
+              YOUR SHOW</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/advertisements.php" class="regular">BBS 
+              IN THE NEWS</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/music_artists_play.php" class="regular">GET 
+              PLAYED</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/events.php" class="regular">HOST'S 
               LIVE EVENTS</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/feedback.php" class="regular">SEND 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/feedback.php" class="regular">SEND 
               FEEDBACK</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/link_to_bbsradio.php" class="regular">LINK 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/link_to_bbsradio.php" class="regular">LINK 
               TO US</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/advertise.php" class="regular">ADVERTISE 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/advertise.php" class="regular">ADVERTISE 
               ON BBS</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/contact.php" class="regular">CONTACT 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/be_a_guest.php" class="regular">BE 
+              A SHOW GUEST</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/contact.php" class="regular">CONTACT 
               US</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/contact_host.php" class="regular">CONTACT 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/contact_host.php" class="regular">CONTACT 
               A HOST</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/join_newsletter.php" class="regular">NEWSLETTER</a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/join_newsletter.php" class="regular">JOIN NEWSLETTER</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/broadcasting_policy.php" class="regular">ON 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bbs_friends/" class="regular" target="_blank">JOIN 
+              BBS FRIENDS</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/broadcasting_policy.php" class="regular">ON 
               AIR POLICY</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/management.php" class="regular">ABOUT 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/management.php" class="regular">ABOUT 
               US</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td> 
-  </td></tr><tr> 
-    <td height="12"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" alt="" border="0"></td>
+    <td height="12"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
   </tr>
   <tr> 
-    <td align="CENTER"> <form action="http://www.bbsradio.com/cgi-bin/dada/mail.cgi" method="get">
-        <table width="140" border="0" cellspacing="0" cellpadding="2" align="center">
-          <tbody><tr align="center"> 
-            <td bgcolor="#31153F"><b><font color="#FFFF99" size="1" face="Verdana, Arial, Helvetica, sans-serif">BBS 
-              Radio<br>
-              Newsletter</font></b></td>
-          </tr>
-          <tr align="center"> 
-            <td bgcolor="#000000"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Enter 
-              email address<br>
-              and press Submit</b></font></td>
-          </tr>
-          <tr align="center"> 
-            <td bgcolor="#000000"><input type="hidden" name="f" value="subscribe"> 
-              <input type="text" name="email" value="email address" size="17" onfocus="this.value='';"> 
-              <input type="hidden" name="list" value="newlist"> <input type="submit" value="Submit"></td>
-          </tr>
-        </tbody></table>
-      </form></td>
+    <td align="CENTER"><script type="text/javascript"><!--
+google_ad_client = "pub-5509459021769220";
+//125x125, created 11/24/07
+google_ad_slot = "2644247388";
+google_ad_width = 125;
+google_ad_height = 125;
+//--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
   </tr>
   <tr> 
-    <td height="12"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" alt="" border="0"></td>
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" border="0" alt=""></td>
   </tr>
   <tr> 
-    <td background="http://www.bbsradio.com/images/CELL_BACKGROUNDS/cell_BKG_2.jpg" align="CENTER"><font face="Georgia, Times New Roman, Times, serif" size="4" color="#336699"><strong><i><font color="#FFFFFF">BlogIn</font>Service</i></strong></font></td>
+    <td align="CENTER"><font color="#FFCC00" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>** 
+        EXTREME NEWS **</strong><br>
+        </font><a href="http://www.bbsradio.com/bbs_latv.php"><img src="http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/BBS_LA_TV.gif" width="144" height="66" border="0" alt="BBS L.A. T.V." id="Image6" onmouseover="MM_swapImage('Image6','','http://www.bbsradio.com/bbc/images/BUTTON_BAR/new/BBS_LA_TV_OVER.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td height="5"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" alt="" border="0"></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><font face="Georgia, Times New Roman, Times, serif" size="4" color="#336699"><strong><i><font color="#FFFFFF">BlogIn</font> 
+      Service</i></strong></font></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/cgi-bin/webbbs/webbbs_config.pl" class="regular"><font color="#FF0000">Trusted</font><font color="#FF0000">&nbsp;</font>News<font color="#FFFFFF">&nbsp;</font><font color="#72B8FE">Trader</font></a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/cgi-bin/webbbs/webbbs_config.pl" class="regular">Trusted 
+              News Trader</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/notebook/index.php" class="regular">Spiritual 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/notebook/index.php" class="regular">Spiritual 
               Notebook</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/vocal_impressions.php" class="regular">Vocal 
-              Impressions</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="javascript:popUp2('http://www.bbsradio.com/authors/daily_quote/quote.php')" class="regular">Daily 
-              Quote</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/blog/index.php" class="regular">Archangel 
-              Michael's</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/weekly_columns/index.shtml" class="regular">Cliff 
-              Mickelson Column</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/cgi-bin/archives/webbbs_config.pl" class="regular">Author's 
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/cgi-bin/archives/webbbs_config.pl" class="regular">Author's 
               Inkwell</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
         <tbody><tr> 
           <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/question_the_experts/" class="regular">Question 
-              the Experts</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/bible.php" class="regular">Bible 
-              to Self Awareness</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/proving_it.php" class="regular">Spiritual 
-              Proof</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/real_news_feeds.php" class="regular">Current 
-              News</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/more_great_info.php" class="regular">More 
-              Great Stuff</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/domains.php" class="regular">Domains 
-              4-Sale</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/privacy_policy.php" class="regular">Privacy 
-              Policy</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/terms_of_usage.php" class="regular">Terms 
-              of Usage</a></div></td>
-          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td><table width="163" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-        <tbody><tr> 
-          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
-          <td width="135"><div align="center"><a href="http://www.bbsradio.com/disclaimer.php" class="regular">Disclaimer</a></div></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/real_news_feeds.php" class="regular">Current 
+              News Feeds</a></div></td>
           <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
         </tr>
       </tbody></table></td>
@@ -803,42 +531,87 @@ document.onmouseup=Function("ddEnabled=false");
   </tr>
   <tr> 
     <td align="CENTER"> 
-      <!-- SiteSearch Google -->
-<form method="get" action="http://www.google.com/custom" target="google_window">
-  <table border="0" align="CENTER" height="50" cellpadding="0" cellspacing="0">
-    <tbody><tr> 
-      <td valign="top"><font face="Geneva, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF">Search</font><br>
-        <table border="0" align="CENTER" cellpadding="0" cellspacing="0">
-          <tbody><tr valign="RIGHT"> 
-            <td height="25" valign="TOP"><input type="hidden" name="domains" value="www.bbsradio.com"> 
-              <input type="text" name="q" size="15" maxlength="255" value="">
-              <img src="http://www.bbsradio.com/images/blank.gif" height="20" width="1" alt=""> 
-            </td>
-            <td height="25"><img src="http://www.bbsradio.com/images/blank.gif" height="25" width="1" alt=""> 
-              <input type="image" src="http://www.bbsradio.com/images/go.gif" name="sa" value="Search"> 
-            </td>
-          </tr>
-        </tbody></table><table align="CENTER" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr> 
-            <td align="CENTER"><input type="radio" name="sitesearch" value="www.bbsradio.com"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF">bbsradio.com</font></td><td>
-            </td><td align="CENTER"><input type="radio" name="sitesearch" value="" checked="checked"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF">web</font></td>
-          </tr>
-        </tbody></table>
-        <input type="hidden" name="client" value="pub-5509459021769220"> 
-        <input type="hidden" name="forid" value="1">
-        <input type="hidden" name="channel" value="8268013386">
-        <input type="hidden" name="ie" value="ISO-8859-1">
-        <input type="hidden" name="oe" value="ISO-8859-1">
-        <input type="hidden" name="safe" value="active">  <input type="hidden" name="flav" value="0000"> 
-        <input type="hidden" name="sig" value="OC-r9iURQ5gLhsvr">
-        <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:100;L:http://www.bbsradio.com/banner_exchange/bbs_logo_100x50.jpg;S:http://www.google.com/adsense;FORID:1"> 
-        <input type="hidden" name="hl" value="en">
-        </td>
-    </tr>
-  </tbody></table>
-</form>
-<!-- SiteSearch Google -->
-  </td></tr>
+      <table width="160" border="0" cellspacing="2" cellpadding="0" bordercolor="#31153F" align="CENTER">
+  <tbody><tr> 
+    <td align="CENTER"><font face="Georgia, Times New Roman, Times, serif" size="4" color="#336699"><strong><i><font color="#FFFFFF">BBS</font> 
+      Dimension</i></strong></font></td>
+  </tr>
+</tbody></table>
+<table width="160" border="0" cellspacing="2" cellpadding="0" bordercolor="#31153F" align="CENTER">
+  <tbody><tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/bible.php" class="regular">Self Awareness Bible</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/vocal_impressions.php" class="regular">Vocal 
+              Impressions</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/more_great_info.php" class="regular">Nostalgic 
+              Areas</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/domains.php" class="regular">Domains 
+              4-Sale</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/privacy_policy.php" class="regular">Privacy 
+              Policy</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/terms_of_usage.php" class="regular"> 
+              Terms of Usage</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="CENTER"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+        <tbody><tr> 
+          <td width="14" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/LEFT_SIDE.gif" width="14" height="20"></td>
+          <td width="132"><div align="center"><a href="http://www.bbsradio.com/disclaimer.php" class="regular">Disclaimer</a></div></td>
+          <td width="14" align="right" valign="top"><img src="http://www.bbsradio.com/images/ROUNDED_TABLE_CORNERS/RIGHT_SIDE.gif" width="14" height="20"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="10"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" alt="" border="0"></td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
 </tbody></table>
  
         <br> 
@@ -848,26 +621,6 @@ document.onmouseup=Function("ddEnabled=false");
       even the music we play<br> 
       always original<br> 
       always.... </font></td> 
-  </tr> 
-</tbody></table>
-<br> 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" align="CENTER"> 
-  <tbody><tr> 
-    <td align="CENTER"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><strong>Intro By Kara Johnstad</strong><br> 
-      <a href="http://www.karajohnstad.com/" target="_blank">Singer / Songwriter<br> 
-      Kara Johnstad</a><br> 
-      <a href="mailto:don@bbsradio.com">Send us</a> your Version<br> 
-      </font>
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="70" height="30" align="absmiddle">
-        <param name="movie" value="http://www.bbsradio.com/intros/mp3ss4d.swf">
-        <param name="quality" value="best">
-        <param name="wmode" value="transparent">
-        <param name="bgcolor" value="#000000">
-        <param name="loop" value="true">
-        <embed src="http://www.bbsradio.com/intros/mp3ss4d.swf" quality="best" wmode="transparent" bgcolor="#000000" loop="true" width="70" height="30" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" align="absmiddle">
-        
-      </object>
-</td> 
   </tr> 
 </tbody></table>
  </td> 
@@ -887,13 +640,13 @@ document.onmouseup=Function("ddEnabled=false");
                 <b>Our Policy:</b><br> 
                 </font> </p> 
               <ul> 
-                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">BBS Radio collects the following information only: 1) names; and 2) email addresses. This is for our BBS Radio and Survival Forums. These areas may require login information to access, as they member only forums. Further, we send out a periodical email news release. </font></li> 
+                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">BBS Radio collects the following information only: 1) names; and 2) email addresses. This is for BBS Radio's use only. Areas may require login information to access, as they are member only areas. Further, we send out a periodical emails "news bulletins". </font></li> 
               </ul> 
               <ul> 
-                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">We do not give out the information to third parties! </font><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.</font></li> 
+                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">We do not give out the information to third parties!</font><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.</font></li> 
               </ul> 
               <ul> 
-                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">Any individual or company may request to opt out of our electronic newsletters by sending an email directly to <a href="MAILTO:don@bbsradio.com">don@bbsradio.com</a>, or contacting the me by mail at the following address. BBS Radio, 5167 Toyon Lane, Paradise, CA 95969. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.</font></li> 
+                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">Any individual or company may request to opt out of our electronic newsletters by sending an email directly to <a href="MAILTO:contact@bbsradio.com">contact@bbsradio.com</a>, or contacting the us by mail at the following address. BBS Radio, 5167 Toyon Lane, Paradise, CA 95969. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.</font></li> 
               </ul> 
               <font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial"><b>Surveys &amp; Contests:</b></font><br> 
               <ul> 
@@ -904,14 +657,14 @@ document.onmouseup=Function("ddEnabled=false");
                 <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">When you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries.</font> </li> 
               </ul> 
               <ul> 
-                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters only to those who request this when Registering. If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at <a href="MAILTO:don@bbsradio.com">don@bbsradio.com</a>, asking to be removed, and it will be done within 24 hours. </font></li> 
+                <li><font face="verdana" size="2" ,="," sans-serif="sans-serif" arial="arial">BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters only to those who request this by communicating with us and/or joining the newsletters. If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at <a href="MAILTO:contact@bbsradio.com">contact@bbsradio.com</a>, asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website.  Please contact management whenever you have a concern, and we'll be most happy to speak with you personally.</font></li> 
               </ul> 
-              <p><font bold="" face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,=""><b>Tell-A-Friend Features:</b></font></p> 
-              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio does not utilize any information processed through the Tell-A-Friend option. The information gathered and processed by the Tell-A-Friend script is purely used as intended and will never be used in any way other than to facilitate the intended purpose of allowing an individual to send a message to a recipient. The recipient's information is never verified nor utilized. </font></p> 
+              <p><font bold="" face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,=""><b>"Tell-A-Friend" or "Send This Page to a Friend" Features:</b></font></p> 
+              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio does not utilize any information processed through the Tell-A-Friend or Send This Page to a Friend options. The information gathered and processed by the scripts are purely used as intended and will never be used in any way other than to facilitate the intended purpose, of allowing an individual to send a message to a recipient. The recipient's information is never verified nor utilized. </font></p> 
               <p><font bold="" face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,=""><b>Testimonials:</b></font></p> 
-              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio will only posts testimonials to the website that are granted and allowed by the author(s). We do not submit testimonials by individuals without their express permission. All submissions are verified and then posted to the testimonials area manually.</font></p> 
+              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio will only posts testimonials to the website that are granted and allowed by the author(s). We do not submit testimonials by individuals without their express permission (or those submitted to us by a radio host). All submissions are verified and then posted to the testimonials area manually.</font></p> 
               <p><font bold="" face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,=""><b>Disclosure to Authorities:</b></font></p> 
-              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize BBS Radio to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.</font></p> 
+              <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">BBS Radio cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right, and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize BBS Radio to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.</font></p> 
               <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">Further, you authorize BBS Radio to disclose your password, name, street address, city, state, zip code, country, phone number, email, and company as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, gray market, intellectual property infringement, piracy, or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for fraud protection and credit risk reduction. BBS Radio cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights.</font></p> 
               <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,=""><b>What are cookies?</b></font></p> 
               <p><font face="verdana" size="2" ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?sans-serif?="" ?arial?,="" ,="">A cookie is a small amount of information sent from a Web server to your computer.</font></p> 
@@ -930,24 +683,23 @@ document.onmouseup=Function("ddEnabled=false");
         <!-- ENTER BODY INFO off --> </td> 
     </tr> 
   </tbody></table> 
-  <table border="0" cellpadding="0" cellspacing="0" bgcolor="#210F2A" width="780" align="CENTER">
+  <table border="0" cellpadding="0" cellspacing="0" width="780" align="CENTER">
   <tbody><tr> 
-    <td valign="bottom" align="center" height="94"><a href="http://www.bbsradio.com"><img src="http://www.bbsradio.com/images/bbsradio_logo_2.jpg" width="780" height="90" alt="If it's not mainstreams, it's on BBSRadio.com" border="0"></a></td>
+    <td valign="bottom" align="center"><a href="http://www.bbsradio.com"><img src="http://www.bbsradio.com/images/bbsradio_logo_2.jpg" width="780" height="90" alt="If it's not mainstreams, it's on BBSRadio.com" border="0"></a></td>
   </tr>
 </tbody></table>
  
   <table cellspacing="0" cellpadding="0" border="0" width="780" bgcolor="#000000" align="CENTER">
   <tbody><tr> 
-    <td align="LEFT"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF">Copyright 
-      ©2006—2007 BBS Network, Inc. - BBSRadio.com - ALL RIGHTS RESERVED.</font></td>
-    <td width="1"><img src="http://www.bbsradio.com/images/blank.gif" width="1" height="1" alt="" border="0"></td>
-    <td align="RIGHT"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF">If it's not mainstream, it's on BBSRadio.com™</font></td>
+    <td align="CENTER"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF">©2005-2008 
+      BBS Network, Inc. : BBSRadio.com &amp; BBSTalkRadio.com ALL RIGHTS RESERVED 
+      —</font> <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF">If 
+      it's not mainstream, it's on BBS Radio™</font></td>
   </tr>
   <tr> 
-    <td align="CENTER" colspan="3"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#00FF40">Crafted 
-      &amp; Designed by</font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF"><em><strong><font color="#FFFFFF">The</font></strong></em> <a href="http://www.wealthdoctors.com/" target="_blank">Wealth 
-      Doctors</a></font></td>
-
+    <td align="CENTER"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#00FF40">Crafted 
+      &amp; Designed by</font> <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#E6CEFF"><em><strong><font color="#FFFFFF">The</font></strong></em> 
+      <a href="http://www.wealthdoctors.com/" target="_blank">Wealth Doctors</a></font></font></td>
   </tr>
 </tbody></table>
  
