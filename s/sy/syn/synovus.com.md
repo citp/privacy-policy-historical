@@ -1,185 +1,137 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216025110id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629162618id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
-**_2007  
-Our Customer Covenant and Privacy Policy_**
-
-**_Synovus  
- _Our Customer Covenant_   
-_**
-
-**_We pledge to serve every customer with the highest levels of sincerity, fairness, courtesy, respect and gratitude, delivered with unparalleled responsiveness, expertise, efficiency and accuracy. We are in business to create lasting relationships, and we will treat our customers like we want to be treated. We will offer the finest personal service and products delivered by caring team members who take 100% responsibility for meeting the needs of each customer._**
-
-**We care about your privacy.**
-
-The principles outlined in our customer covenant are reinforced in our privacy policy, which is our commitment to keep information about you safe and secure. Our privacy policy and your choices regarding the disclosure of this information are outlined here. (A list of companies covered by this policy is included.) 
-
-Our most important asset is our customers’ trust. Keeping information about you secure is a top priority for us. 
-
-**Here is a brief summary of our privacy policy**
-
-1) We have never sold and will never sell information about you to others for their independent use. 
-
-2) We have incorporated policies and procedures designed to keep any information you provide us safe. 
-
-3) We will limit the collection and use of information about you to the minimum we believe is required to deliver superior service. 
-
-4) In addition to restricting access to information about you, we also maintain physical, electronic and procedural safeguards that comply with applicable legal and regulatory standards to keep this information private and secure. 
-
-5) Whenever we hire other organizations to provide support services that will have access to customer information, we will require them to conform to our privacy requirements and to allow us to audit them for compliance. 
-
-6) For purposes of credit reporting, verification and risk management, we will exchange information about you with reputable reference sources and consumer reporting agencies. 
-
-7) We will tell you in plain language, initially and at least once every year while you are a customer, what information we collect from you, where we obtain that information and how we plan to use it. As discussed in this policy, you have several choices (which you may select at any time) of how you would like us to manage information about you. 
+**_2008 Synovus Privacy Policy_**
 
 **Protecting your privacy…our privacy policy.**
 
-It is important to us that you understand what information we collect about you and how it is used. We want you to know that we limit the collection and disclosure of information to what we believe is necessary to serve you and administer our business. 
+We care about your privacy, and it’s important to us that you understand what information we collect about you and how it is shared. The Synovus privacy policy and your choices regarding the disclosure of personal information about you apply to the following companies*: 
 
-_Collecting Information_
+> Athena Service Corporation (Athens, GA)  
+> AFB&T (Athens, GA)  
+> Bank of Coweta (Newnan, GA)  
+> The Bank of Nashville (Nashville, TN)  
+> Bank of North Georgia (Alpharetta, GA)  
+> Bank of Pensacola (Pensacola, FL)  
+> The Bank of Tuscaloosa (Tuscaloosa, AL)  
+> CB&T Bank of East Alabama (Phenix City, AL)  
+> CB&T Bank of Middle Georgia (Warner Robins, GA)  
+> Citizens & Merchants State Bank (Douglasville, GA)  
+> Citizens Bank & Trust of West Georgia (Carrollton, GA)  
+> Citizens First Bank (Rome, GA)  
+> The Coastal Bank of Georgia (Brunswick, GA)  
+> Coastal Bank and Trust, a division of CB&T of Southeast Alabama (Mobile, AL)  
+> Cohutta Banking Company (Chatsworth, GA)  
+> Cohutta Banking Company of Tennessee (Chattanooga, TN)  
+> Columbus Bank and Trust Company (Columbus, GA)  
+> Columbus Bank and Trust Company dba Synovus Banker’s Bank  
+> Commercial Bank (Thomasville, GA)  
+> Commercial Bank & Trust Company of Troup County (LaGrange, GA)  
+> Community Bank and Trust of Southeast Alabama (Enterprise, AL)  
+> First Coast Community Bank (Fernandina Beach, FL)  
+> First Commercial Bank (Birmingham, AL)  
+> First Commercial Bank of Huntsville (Huntsville, AL)  
+> First Community Bank of Tifton (Tifton, GA)  
+> The First National Bank of Jasper (Jasper, AL)  
+> First State Bank and Trust Company of Valdosta (Valdosta, GA)  
+> Georgia Bank & Trust (Calhoun, GA)  
+> The National Bank of South Carolina (Columbia, SC)  
+> The National Bank of Walton County (Monroe, GA)  
+> Sea Island Bank (Statesboro, GA)  
+> Security Bank and Trust Company of Albany (Albany, GA)  
+> Sterling Bank (Montgomery, AL)  
+> Sumter Bank and Trust Company (Americus, GA)  
+> Synovus Bank of Jacksonville (Jacksonville, FL)  
+> Synovus Bank (St. Petersburg, FL)  
+> Tallahassee State Bank (Tallahassee, FL)  
+> Trust One Bank (Memphis, TN)  
+> Vanguard Bank & Trust Company (Valparaiso, FL)  
+> Creative Financial Group, LTD.  
+> GLOBALT, Inc.  
+> Synovus Insurance Services of Alabama, Inc.  
+> Synovus Insurance Services of Florida, Inc.  
+> Synovus Insurance Services of Georgia, Inc.  
+> Synovus Insurance Services of South Carolina, Inc.  
+> Synovus Insurance Services of West Georgia, Inc. (Carrollton, GA)  
+> Synovus Mortgage Corp.  
+> Synovus Securities, Inc.  
+> Synovus Title LLC
 
-In the process of serving you, we obtain certain “non-public personal information” – information about you that is not available publicly. This information comes to us from a variety of sources, including:
+*Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with the companies unless you are notified otherwise.   
 
-· Information you give directly to us (or is given to us on your behalf) on applications, other forms or otherwise (such as Social Security Number, assets and income). 
+**Collecting Information: Categories of Non Public Information**
 
-· Information about your transactions with us or others (such as account balance, payment history, and credit card usage). 
+In the process of serving you, we obtain certain “non-public personal information” -- information about you that is not available publicly. This information comes to us from a variety of sources: 
 
-· Information we receive from third parties (such as consumer reporting agencies or credit or employment references). 
+  * You or someone acting on your behalf, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, Social Security number, credit history and other financial information.
+  * Transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records.
+  * Credit reporting agencies. For example, information relating to your creditworthiness, your credit score and credit usage.
+  * Third parties to verify information you have given us.
 
-· Information obtained at your request (such as aggregated information from multiple financial providers in order to develop a financial profile or plan for you). 
 
-_Using that Information_
 
-We may share all the information that we collect as follows:
+**  
+Safeguarding Information**
 
-· With related companies listed in this notice in order to offer you additional products and services, such as banking, insurance or mortgages, that help meet your needs or that will result in added savings or convenience to you. 
+We have incorporated policies and procedures designed to keep any information you provide us safe. We maintain physical, electronic and procedural safeguards that we believe comply with applicable legal and regulatory standards to keep this information private and secure. Whenever we hire other organizations to provide support services that will have access to customer information, we require them to conform to our privacy requirements and to allow us to audit them for compliance. We restrict access to personal information about you to those employees we believe need to know that information to provide products and services to you.
 
-_**·**_ As permitted or required by law, for example: to process your accounts, prepare your account statements or to respond to subpoenas or similar legal requests as well as requests from law enforcement agencies or state and federal banking regulators. 
+**Sharing Information**
 
-· To companies that perform marketing services on our behalf, for example, financial companies such as banks and insurance companies; non-financial companies such as direct marketers and mail houses; and others such as membership groups or to other financial institutions under joint marketing agreements, such as insurance companies, banks and securities broker-dealers. 
+We want you to know that we limit the collection and sharing of information to what we believe is necessary to serve you and administer our business. We may share all the information that we collect as described above in the categories of nonpublic information:
 
-· To unrelated companies – such as retailers, airlines, non-profit organizations, etc. – which may provide you with special offers related to their products and services. 
+  * As permitted or required by law 
+  * With companies that perform marketing services on our behalf 
+  * With related companies listed in this notice to meet your needs or deliver added savings or convenience to you 
+  * With unrelated companies that may provide you with special offers related to their products and services.
+  * For identification purposes to protect your accounts and guard against unauthorized access 
 
-· For identification purposes to protect your accounts and guard against unauthorized access. 
 
-· Only in accordance with the principles stated in this covenant. 
 
-We will comply with applicable state and local laws that, to the extent they apply, may restrict the types of information we share about you or require us to provide you with additional notices.
+You may have other privacy rights in some states, such as Vermont and California. To the extent state laws apply, we will comply with them when we share information about you. 
 
-**You have choices regarding information disclosure**
+If at any time you become an inactive customer or close your account(s), we will continue to adhere to the privacy policies and practices described in this notice. However, we will not send you an annual notice.
 
-We are committed to protecting information about you and to using it in ways that will improve our service to you. We give you choices about how we share information about you. 
+**Your Privacy Preferences**
 
-If you are comfortable with the promises discussed in this policy and will allow us to exchange information about you as outlined, then you do not need to contact us – unless you have previously selected Options 1, 2, or 3 and want to make a change to that selection.
+If you wish to direct Synovus to stop sharing certain nonpublic personal information about you with nonaffiliated third parties or among our affiliates, please call 1-800-695-0987 (toll free) to opt-out. You will be prompted to select one of the options listed below.
 
-Your selection will apply to all Synovus companies listed in this notice. 
+The toll-free telephone number is the only authorized means to inform us of your decision not to share information. Your selection will apply to all Synovus companies listed in this notice. If a joint account customer chooses not to allow disclosure of this information, the decision will apply to the entire joint account. 
 
-If you have previously called in a selection and want to keep that same selection, then there is nothing you need to do. Your previous choice will remain in force until you tell us otherwise. 
+If you are comfortable with the Synovus privacy policy and your current privacy preferences you do not need to contact us unless you are establishing a new customer relationship with us. Your previous choice will remain in force until you tell us otherwise.
 
-If you would prefer to change the selection you made previously or limit disclosure of information about you, please see the options below. 
+**_Option 1: Directs Synovus not to share nonpublic personal information with nonaffiliated third parties, except as permitted by law._**
 
-_**Option 1: Limiting Disclosure With Outside Companies**_
+Choosing this option directs Synovus not to share nonpublic personal information about you with nonaffiliated third parties, except as permitted by law. Exceptions include sharing information within the Synovus family of companies, with companies that perform marketing services on our behalf, other financial institutions with whom we have joint marketing agreements, other nonaffiliated service providers, and credit reporting agencies to whom we report information on your transactions with us.
 
-We may share non-public personal information we collect about you with companies not part of our corporate family. Examples of such organizations would be non-financial companies with whom we have formed an alliance to provide special services to our customers, such as airlines, publishers, retailers. Just a reminder: we do not sell information about you to outside companies for their independent use and we require explicit standards of security and confidentiality when we enter into agreements with outside companies.
+**_Option 2: Directs Synovus not to share certain nonpublic information about you within the Synovus family of companies, except as permitted by law._**
 
-If you prefer that we not share this information about you with unrelated companies, you must notify us by calling the following toll-free number: 1-800-695-0987 – and selecting Option 1 when prompted. Choosing this option would still allow us to share within the Synovus family of companies described below and with unrelated companies where required to do business (such as companies performing marketing services on our behalf), with other financial institutions with whom we have joint marketing agreements or as permitted or required by law.
+Choosing this option directs Synovus not to share credit information about you within the Synovus family of companies, except as permitted by law. You will continue to receive mailings and advertisements from the Synovus companies with which you do business. Banks and other financial service providers within our Synovus family may share among ourselves the information we collect about your identity, your transactions, or other information within our affiliated family.
 
-_**_Option 2: Limiting Disclosure of Credit Information Within the Synovus Family of Companies_ **_(including the companies listed in this notice, Synovus Trust companies and companies which may join us in the future)
+**_Option 3: Directs Synovus not to share nonpublic personal information with nonaffiliated third parties or among its affiliates, except as permitted by law._**
 
-Banks and other financial service providers (such as mortgage, securities and insurance companies) within our Synovus family may use the credit information we collect about you among ourselves. Our trust companies would participate only on a limited basis, primarily receiving information. 
+Choosing this option directs Synovus to limit disclosure of information with outside companies and within the Synovus family of companies as outlined in Options 1 and 2, respectively.
 
-If you prefer that we not share information with companies in our corporate family, you must notify us by calling the following toll-free number: 1-800-695-0987 – and selecting Option 2 when prompted. Choosing this option still allows us to share information with unrelated companies discussed above. If you have selected this option, we may continue to share within the Synovus family certain information about our experiences or transactions with you or your accounts as permitted by law. 
+**_Option 4: Allows disclosure of information within the Synovus family and unrelated companies._**
 
-_**Option 3: Limiting Disclosure With Outside Companies and Within the Synovus Family**_
+Choosing this option allows Synovus to disclose information about you within the Synovus family and with unrelated companies. This will reverse any previous elections you have made to limit disclosure. If you are currently allowing disclosure, there is nothing you need to do. 
 
-If you would prefer to limit disclosure of information with outside companies as outlined in Option 1 AND limit disclosure of information within the Synovus family of companies as outlined in Option 2, you must notify us by calling the following toll-free number: 1-800-695-0987 – and selecting Option 3 when prompted. 
+If you have any questions regarding our privacy policies or procedures, please contact the compliance officer of the Synovus company where you are a customer. 
 
-_**Option 4: Disclosure Within the Synovus Family and With Outside Companies is Permissible**_
+If you are a customer of more than one Synovus company or if you have multiple accounts with us, you may receive more than one notice. 
 
-This option allows disclosure of information about you within the Synovus family and with unrelated companies. If you are currently allowing disclosure, there is nothing you need to do. If you have previously chosen Options 1, 2 or 3 and would like to change to this choice, you must tell us by calling the following toll-free number: 1-800-695-0987 – and selecting Option 4 when prompted. 
+**June 2008. This notice supersedes any previous privacy statement issued. We reserve the right to modify or add to the policy at any time.**
 
-_**Additional information about your choices**_
+**Your Choice to Limit Use of Information for Marketing**
 
-As you can see, you have choices about our disclosure of information about you. 
+The Synovus companies listed in this policy are providing this notice. 
 
-· You may choose to allow us to exchange such information under strict confidentiality standards. If you choose this option, you don’t need to do anything – unless you have previously chosen Options 1, 2 or 3. If you have selected another option in the past, you will need to call 1-800-695-0987 and select Option 4. 
+You may limit Synovus companies, such as Synovus banking and other affiliates, from marketing their products or services to you based on credit or transaction information about you that they receive from other Synovus companies. This information includes your account balance, payment history, and your credit history. 
 
-You could also choose to allow us to share information within our corporate family while choosing not to allow us to share with companies outside our corporation. (Your selection in this example would be Option 1.) 
+However, when you choose this option to limit the use of this information by other Synovus companies to market their products and services, to you, your choice does not apply to any Synovus company that has an existing business relationship with you or where the use is otherwise permitted by law.
 
-· Once we process your request, it will remain in effect until you request a change. You may request a change at any time throughout the year by calling us toll-free at 1-800-695-0987 and selecting the option that reflects your choice. 
+Your choice to limit such marketing offers from Synovus companies will apply until you tell us to change your choice. If a joint account customer chooses not to allow disclosure of this information, the decision will apply to the entire joint account. 
 
-· If a joint account customer chooses not to allow disclosure of this information that decision will apply to the entire joint account. 
+If you have already made a choice to limit such marketing offers from Synovus companies, you do not need to act again. 
 
-· In order to protect your choice and to maximize our ability to administer your choice, the toll-free telephone number will be the only authorized means to inform us of your decision not to share information. 
-
-· You may have other privacy rights in some states, such as Vermont and California. To the extent state laws apply, we will comply with them when we share information about you. For example, if your billing address is in Vermont, we will not share credit report information about you with our related family of companies, unless you permit us to do so. In addition, we will not share information about you with unrelated companies except:
-
-o With companies that do marketing or other services for us; 
-
-o Contact information, (such as name and address) and transaction information, (such as your payment history) with financial companies with which we have joint marketing agreements;
-
-o With your authorization; and 
-
-o As permitted by law.
-
-If at any time you become an inactive customer or close your account(s), we will continue to adhere to the privacy policies and practices described in this notice. However, we will not send you an annual notice. 
-
-Please note: Third parties may have access to information about you, which they obtain independently from us (for example: through credit rating agencies or public real estate records). Mailings or solicitations based on this information are not within our control. 
-
-If you have any questions regarding our privacy policies or procedures, please contact the compliance officer of the appropriate Synovus company where you are a customer. If you are a customer of more than one Synovus company or if you have multiple accounts with us, you may receive more than one notice. 
-
-**June 2007. This covenant supersedes any previous privacy statement issued. We reserve the right to modify or add to the policy at any time.**
-
-This privacy policy is being provided on behalf of the following companies who provide Synovus financial services*:
-
-Athena Service Corporation (Athens, GA)  
-AFB&T (Athens, GA)  
-Bank of Coweta (Newnan, GA)  
-The Bank of Nashville (Nashville, TN)  
-Bank of North Georgia (Alpharetta, GA)  
-Bank of Pensacola  
-The Bank of Tuscaloosa  
-CB&T Bank of East Alabama (Phenix City, AL)  
-CB&T Bank of Middle Georgia (Warner Robins, GA)  
-Citizens & Merchants State Bank (Douglasville, GA)  
-Citizens Bank & Trust of West Georgia (Carrollton, GA)  
-Citizens First Bank (Rome, GA)  
-The Coastal Bank of Georgia (Brunswick, GA)  
-Cohutta Banking Company (Chatsworth, GA)  
-Cohutta Banking Company of Tennessee (Chattanooga, TN)  
-Columbus Bank and Trust Company  
-Columbus Bank and Trust Company dba Synovus Banker’s Bank   
-Commercial Bank (Thomasville, GA)  
-Commercial Bank & Trust Company of Troup County (LaGrange, GA)  
-Community Bank and Trust of Southeast Alabama (Enterprise, AL)  
-First Coast Community Bank (Fernandina Beach, FL)  
-First Commercial Bank (Birmingham, AL)  
-First Commercial Bank Huntsville  
-First Community Bank of Tifton  
-First Florida Bank (Naples, FL)  
-First National Bank of Jasper  
-First State Bank and Trust Company (Valdosta, GA)  
-Georgia Bank & Trust (Calhoun, GA)  
-The National Bank of South Carolina  
-The National Bank of Walton County (Monroe, GA)  
-Sea Island Bank (Statesboro, GA)  
-Security Bank and Trust Company (Albany, GA)  
-Sterling Bank (Montgomery, AL)  
-Sumter Bank and Trust Company (Americus, GA)  
-Synovus Bank of Jacksonville (Jacksonville, FL)  
-Synovus Bank of Tampa Bay (St. Petersburg, FL)  
-Tallahassee State Bank  
-Trust One Bank (Memphis, TN)  
-Vanguard Bank & Trust (Valparaiso, FL)  
-Creative Financial Group, LTD.  
-GLOBALT, Inc.  
-Synovus Insurance Services of Alabama, Inc.  
-Synovus Insurance Services of Florida, Inc.  
-Synovus Insurance Services of Georgia, Inc.  
-Synovus Insurance Services of South Carolina, Inc.  
-Synovus Insurance Services of West Georgia, Inc. (Carrollton, GA)  
-Synovus Mortgage Corp.  
-Synovus Securities, Inc.
-
-* Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with these companies unless you are notified otherwise.
+To limit such marketing offers please call 1-800-695-0987 (toll free).
