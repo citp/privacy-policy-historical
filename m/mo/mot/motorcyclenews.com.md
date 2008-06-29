@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the motorcyclenews.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011180309id_/http%3A//www.motorcyclenews.com/MCN/Other/Copyright/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclenews.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629215626id_/http%3A//www.motorcyclenews.com/MCN/Other/Copyright/) for the most accurate reproduction.*
 
-# Privacy policy - MCN
+# Privacy policy
 
-From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services (such as access to our bookings service subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Emap’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy ( see "Who Else Will We Provide Your Data To?" below) 
+From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services (such as access to our bookings service subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Bauer’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy ( see "Who Else Will We Provide Your Data To?" below) 
 
-Emap is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Emap shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent We are required to accept such responsibility by the Data Protection Act 1998.
+Bauer is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Bauer shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent We are required to accept such responsibility by the Data Protection Act 1998.
 
-This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Emap in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use](http://www.motorcyclenews.com/MCN/Other/User-Policy/?id=1863) for the website.
+This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Bauer in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use](http://www.motorcyclenews.com/MCN/Other/User-Policy/?id=1863) for the website.
 
 Why We Need To Collect Information From You 
 
@@ -22,7 +22,7 @@ Who Else Will We Provide Your Data To?
 
 If you enter any competitions on this website it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving. 
 
-Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Emap acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with MCN despite a change of ownership. 
+Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Bauer acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with MCN despite a change of ownership. 
 
 We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you. 
 
@@ -48,7 +48,7 @@ Please be aware that if you do disable cookies, certain services on this website
 
 Links and Third Party Advertising 
 
- Any links on the website may take you to third party sites over which we have no control. Similarly, advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. When linking to another website you should read the privacy policy stated on that website. This privacy policy covers the use made of cookies and personal data by Emap and does not cover the use made of cookies and personal data by any third parties. 
+ Any links on the website may take you to third party sites over which we have no control. Similarly, advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. When linking to another website you should read the privacy policy stated on that website. This privacy policy covers the use made of cookies and personal data by Bauer and does not cover the use made of cookies and personal data by any third parties. 
 
 Feedback, Comments & Suggestions   
    
