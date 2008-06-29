@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your4state.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230150321id_/http%3A//your4state.com/content/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your4state.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629063740id_/http%3A//your4state.com/content/about/privacypolicy) for the most accurate reproduction.*
 
 # Your4State.com - Privacy Policy
 
