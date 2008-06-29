@@ -1,23 +1,65 @@
-> *The following text is extracted and transformed from the co.cc privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217121036id_/http%3A//co.cc/etc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co.cc privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629045942id_/http%3A//www.co.cc/etc/privacy.php) for the most accurate reproduction.*
 
-# CO.CC : Free Domain Name service [100]
+# CO.CC - Free domain names + free DNS, Mapping, Custom domain name. [3]
 
-CO.CC respect and protect all users privacy.  
-We observe department of information communication laws of Korea.
+CO.CC respects and protects your privacy  
+We will not give any information about you to others without your express permission.Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new CO.CC Software services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "My Account" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
 
-CO.CC Service agree to submit to the exclusive jurisdiction of the courts of Korea.   
-CO.CC will not disclose any users personal information to anyone without consent.
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
 
-After registered at CO.CC Service, you should agree that your name and your country will be shown in CO.CC.  
-This is the only information about you in CO.CC.
+On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first. 
 
-CO.CC will use your email address for inform you about CO.CC Service changes, updates.   
-Users email will use for login and finding password. We are not collect users address for sell to anyone.   
-But, we can disclose your information If we consider a member violates our rules or law, infringe other's interest or disturb our service.
+We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. 
 
-CO.CC Service will record users IP address for only internal purposes.  
-CO.CC Service use users cookies only for your information as you move throughout our site and when you are accessing CO.CC. We will not give any information about users cookies to anyone for any reason.
+Our site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't have to login each time you visit our site. They are linked to your customer number which is associated with the information in your account. 
 
-CO.CC reserve the right to change this Policy anytime without prior notification.  
-If you have any question, please do not hesitate to Contact us.   
+This site also contains links to other sites. Unfortunately CO.CC is not responsible for the privacy practices or the content of such Web sites. 
 
+Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+
+Updating Your Information 
+
+As a customer of CO.CC , you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information.
+
+\- You may send an email to sales@co.cc   
+\- You may visit your online My Account  
+\- You may send mail to CO.CC, Inc. at the following postal address:   
+\- 864-2,502, JANGHANG-DONG, ILSAN-GU, GOYANG, GYEONGGI-DO, 410380 KOREA  
+\- You may call us at: +82-31-919-6171  
+\- Or you may fax us at +82-31-919-6150  
+
+
+Emails
+
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our "About Us" page, to allow you to contact us directly. We strive to promptly reply to your messages. 
+
+The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. 
+
+Only If We Have To 
+
+As stated previously in this policy, we will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. We may also need to give out your information if one of our partners requires it, but these situations are rare. 
+
+Changes in Our Practices 
+
+If we make material changes to our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 30 days prior to their implementation or notify you directly via email. Minor changes will be immediately effective upon reposting to this privacy policy on the CO.CC Software Web site. 
+
+Service Provider
+
+We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+
+Affiliates
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. CO.CC will automatically send the friend a one-time email inviting them to visit the site. CO.CC stores this information for the sole purpose of sending this one-time email. The friend may contact CO.CC at support@co.cc to request the removal of this information from our database. 
+
+If I Terminate my CO.CC Account
+
+When Your CO.CC account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant CO.CC databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
+
+Contacting the Web Site
+
+If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site,   
+please contact us at :   
+\- CO.CC, Inc.   
+\- ATTN: Web Team : 864-2,502, JANGHANG-DONG, ILSAN-GU, GOYANG, GYEONGGI-DO, 410380 KOREA 
