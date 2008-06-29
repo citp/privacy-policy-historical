@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kaotic.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033057id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaotic.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201426id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Fight Videos Shocking Videos Extreme Videos - Viewing Info - Kaotic.com
-
-Fight videos, funny videos, sexy videos and more for your viewing pleasure. [ ](http://clicks.toteme.com/?s=33604&p=21&pp=1)
 
 **Information Collection**  
 We will not collect any unique information about you unless you specifically and knowingly provide such information to us. 
