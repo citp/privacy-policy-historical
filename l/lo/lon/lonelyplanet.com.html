@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2006-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230051725id_/http%3A//www.lonelyplanet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629130856id_/http%3A//www.lonelyplanet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,130 +20,200 @@
 		//-->
 		
 		<!--
-function JumpToIt(list) {
-    var newPage = list.options[list.selectedIndex].value
-    if (newPage != "None") {
-        window.open(newPage)
-    }
-}
-//-->
-
-
+		function JumpToIt(list) {
+			var newPage = list.options[list.selectedIndex].value
+			if (newPage != "None") {
+				window.open(newPage)
+			}
+		}
+		//-->
+	</script>
+	<script language="JavaScript" type="text/javascript">
+		<!--
+		activeNavID = 'help';
+		activeNavIDSub = 'help_sub';
+		activeNavIDSubHighlight = 'legal';
+		-->
 	</script>
 </head>
 
 <body>
 <!-- TOP NAVIGATION AND HEADER -->
 <!-- start ad code -->
-
-<style type="text/css">
-/* 
-Temporarily duplicate styles here to prevent nasty client-side caching issues on release
-These styles are defined in /css/top_nav.css
-Remove from code after 1 week or so
-*/
-#ad_banner_top_placeholder {display:none; width:758px; height:110px; margin:0; position:absolute; top:0px; border-left:solid 1px gray; border-right:solid 1px gray; background:url(/rcl/includes/images/img_header_ad_bg.gif) top left repeat-x; z-index:8;}
-#ad_banner_top { display:none; width:738px; height:100px; margin:0; position:absolute; top:0px; border-left:solid 1px gray; border-right:solid 1px gray;padding:10px 0 0 20px; z-index:10;}
-#ad_banner_top  .note { position:absolute; top:12px; left:7px; }
-
-#ad_banner_side_placeholder { display:none; position:absolute; width:170px; height:625px; top:110px; left:760px; z-index:8; background:#fff url(/rcl/includes/images/img_side_ad_bg.gif) top left repeat-y; margin-top:0px; padding:18px 8px 0 0; border-top:1px solid gray; border-bottom:1px solid gray; border-right:1px solid gray; text-align:right; float:none;}
-#ad_banner_side { display:none; position:absolute; width:170px; height:625px; top:110px; left:760px; z-index:10; margin-top:0px; padding:18px 8px 0 0; text-align:right; float:none;}
-#ad_banner_side .note { position:absolute; top:7px; left:110px; }
-</style>
-
-<div id="global_container" style="width:762px;margin:0px auto 0px auto;">
+<div id="global_container" style="width: 762px; margin: 0px auto; position: relative;">
 <a name="top"></a>
-
-<script language="JavaScript" type="text/javascript">
-	
-	//Grab the current URL and get the first part of the path after the server name.
-	url = location.href;
-	url_array1 = url.split("//");
-	url_array2 = url_array1[1].split("/");
-	
-	var section = url_array2[1];
-	section = section.toLowerCase();
-	
-	//Generate a random number for this web-request
-	var	ord=Math.random()*10000000000000000;
-	
-	//Only display the Ads on certain sections of the site.
-	var showAd = (section == 'accommodation' || section == 'download_shop' || section == 'bluelist' || section == 'journeys' || section == 'responsibletravel' || section == 'letters' || section == 'lptv' || section == 'bluelist_winners' || section == 'theme' || section == 'podcasts' );
-	
-	var strBannerAdSkyscraper = '';
-	var strBannerAdTop = '';
-	
-	if(showAd)
-	{
-		//Script for Skyscraper Ad.
-		strBannerAdSkyscraper = '<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/lonely_planet/' + section + ';sz=160x600;ptile=2;ord=' + ord + '?" type="text/javascript"><\/script>';
-		
-		//Script for top banner Ad.
-		strBannerAdTop = '<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/lonely_planet/' + section + ';dcopt=ist;sz=728x90;ptile=1;ord=' + ord + '?" type="text/javascript"><\/script>';
-		
- 		//Move the main content down by 110px to accomodate the banner advert (inserted in footer)
-		var divGlobal_Container = document.getElementById('global_container');
-		divGlobal_Container.style.width = "942px";
-		divGlobal_Container.style.position = "relative";
-		divGlobal_Container.style.paddingTop = "110px";
-	}
-	else
-	{
-		document.getElementById('global_container').style.width = '762px';
-	}	
-</script>
-
-
+<div id="search_container" style="position: absolute; top: 55px; left: 610px; margin: 0px; padding: 0px; width: 137px;">
+	<script language="javascript" type="text/javascript">
+		<!--//
+		function validateForm(e)
+		{
+			var theForm = document.getElementById("search_form");
+			
+			if(theForm.Ntt.value == "Search Lonely Planet" || theForm.Ntt.value.replace(' ','') == "")
+			{
+				alert("Please enter a search term");
+				theForm.Ntt.focus();
+				if (e && e.preventDefault)
+					e.preventDefault(); // DOM style
+				return false; // IE style
+			}
+			else 
+				return true;
+		}
+		//-->
+		</script>
+	<form name="search_form" id="search_form" method="get" action="http://search.lonelyplanet.com/search.do" style="display:inline;" title="Search across all of Lonely Planet's websites!" onsubmit="return validateForm(event);">
+		<input type="text" name="Ntt" value="Search Lonely Planet" style="display:inline;width:100px; font-size:11px; height:12px; padding:3px 0 3px 0; color:#999999" onfocus="if(this.value == 'Search Lonely Planet'){this.value = ''}" onblur="if(this.value.replace(' ','') == ''){this.value = 'Search Lonely Planet'}">
+		<input type="image" value="Search" src="/rcl/includes/headers/images/button_go_search.gif" style="display:inline;vertical-align:top; padding:1px 0;">
+	</form>
+</div>
 <div class="uninav_top">
 	<ul>
-		<li><a href="http://www.lonelyplanet.com">home</a></li>
-		<li><a href="http://www.lonelyplanet.com/worldguide/">destinations</a></li> 
-		<li><a href="http://shop.lonelyplanet.com/index.cfm?affil=lpgn-h">book shop</a></li>
-		<li><a href="http://www.lonelyplanet.com/travel_services/">bookings &amp; services</a></li>
-		<li><a href="http://www.lonelyplanet.com/classifieds">classifieds</a></li>
-		<li><a href="http://www.lonelyplanet.com/accommodation/">hotel reviews</a></li>
-		<li><a href="http://haystack.lonelyplanet.com">hotel bookings</a></li>
-		<li><a href="http://www.lonelyplanet.com/download_shop/">digital guides</a></li>
-		<li><a href="http://thorntree.lonelyplanet.com/">thorn tree</a></li>
-		<!--<li><a href="http://www.lonelyplanet.com/bluelist/">bluelist</a></li> -->
-		<li><a href="http://www.lonelyplanet.com/journeys/">travel stories</a></li>
+		<li><a href="http://www.lonelyplanet.com" title="Lonely Planet Publications">home</a></li>
+		<li><a href="http://www.lonelyplanet.com/worldguide/" title="Destinations: Everything you need to know about everywhere you want to go.">destinations</a></li>
+		<li><a href="http://shop.lonelyplanet.com/?affil=lpgn-h" title="Online Shop: Books, maps, new releases and juicy bargains.">online shop</a></li>
+		<li><a href="http://hotels.lonelyplanet.com" title="Hotels &amp; Hostels: House boat or hotel, they're all here for the booking.">hotels &amp; hostels</a></li>
+		<li><a href="http://www.lonelyplanet.com/bookings" title="Bookings &amp; Services: Flights, cars, tours, insurance, the lot.">bookings &amp; services</a></li>
+		<li><a href="http://www.lonelyplanet.tv" title="Lonely Planet TV: Live it. Shoot it. Share it.">video</a></li>
+		<li><a href="http://www.lonelyplanet.com/bluelist/" title="Bluelist: Travel experiences recommended by travellers, for travellers.">bluelist</a></li>
+		<li><a href="http://www.lonelyplanet.com/thorntree/" title="Thorn Tree Forum: Our online travel community, asking questions and sharing advice.">thorn tree</a></li>
+		<li><a href="http://www.lonelyplanet.com/travelstories/" title="Travel Stories: Feature articles, photo galleries, podcasts and blogs.">travel stories</a></li>
+		
 	</ul>
-
 </div>
 <div style="clear:left;"></div>
-<!-- header help -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="760">
+<script language="javascript" type="text/javascript" src="/rcl/includes/js/lp_advertising.js"></script>
+<script language="JavaScript" type="text/javascript">
+	<!--//
+	lpAdsInit();
+	
+	document.getElementById("search_container").style.top = (showBanner)?"165px":"55px";
+	//-->
+</script>
+<table class="tblContent" border="0" cellpadding="0" cellspacing="0" width="760">
 	<tbody><tr>
 		<td bgcolor="#000000" width="1"><img src="/rcl/includes/images/pixel.gif" title="" border="0" height="1" width="1"></td>
 		<td bgcolor="#000066" width="159"><a href="http://www.lonelyplanet.com/"><img src="/rcl/includes/images/logo_lp.gif" alt="Lonely Planet Publications" title="Lonely Planet Publications" border="0" height="80" width="159"></a></td>
-		<td width="599"><img src="/rcl/includes/headers/images/bannerUtils_privacy.jpg" width="599" height="80" alt="Help" title="Help"></td>
+		<td width="599"><img src="/rcl/includes/headers/images/banner_aboutus.jpg" alt="About Us" width="599" height="80" title="About Us"></td>
 		<td bgcolor="#000000" width="1"><img src="/rcl/includes/images/pixel.gif" title="" border="0" height="1" width="1"></td>
 	</tr>
 </tbody></table>
 
-<!-- open the table to hold the LHC, content and RHC -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="760">
+<table class="tblContent" border="0" cellpadding="0" cellspacing="0" width="760">
 	<tbody><tr>
-		<!-- black line down the left hand side -->
-		<td bgcolor="#000000" width="1"><img src="/rcl/includes/images/pixel.gif" border="0" height="1" width="1"></td>
+		<td bgcolor="#000000" width="1"><img src="/rcl/includes/images/pixel.gif" title="" border="0" height="1" width="1"></td>
 <!-- END TOP NAVIGATION AND HEADER --> 
 
 <!-- LEFT NAVIGATION -->
 <!-- LHC open -->
 <td bgcolor="#E7E7E7" valign="top" width="158">
 
-<!-- Navigation -->
+<style type="text/css" media="screen">
+	#secondary_menu span { border:1px solid #e7e7e7; display: block; padding: 0 5px; width: 140px; color: #666; text-decoration: none; }
+	#secondary_menu .navactive span { background: rgb(195, 181, 168); color: white; }
+	
+	#secondary_menu ul ul ul li a { font-weight:normal; padding-left:20px; width: 125px; line-height:1.3em; }
+	#secondary_menu ul .navactive ul ul li a { background:#e7e7e7; color:#666; }
+	#secondary_menu ul .navactive ul ul .navactiveSubHighlight a {background-color:rgb(206, 199, 196); color:#666; font-weight:normal;}
 
+	#secondary_menu #responsible a:hover { background-color:#8DDA2C;}
+	#secondary_menu #responsible .navactiveSubHighlight a { background-color: #AABE92; color: white; font-weight:normal;}
+	#secondary_menu #responsible .navactiveSubHighlight a:hover { background-color:#8DDA2C; color: #FFF; font-weight:normal;}
+</style>
+
+<!-- Navigation -->
 <div id="secondary_menu">
 	<ul>
-		<li class="head"><a href="index.cfm" title="Privacy Policy">PRIVACY POLICY</a></li>
-		<li id="newsletter"><a href="newsletters.cfm" title="Privacy and Newsletters">Newsletters</a></li>
-		<li id="shop"><a href="privacy_shop.cfm" title="Privacy and Book Shop">Book Shop</a></li>
-		<li id="feedback"><a href="talk2us.cfm" title="Privacy and Feedback">Feedback</a></li>
-		<li id="media"><a href="privacy_media.cfm" title="Privacy and Media">Media</a></li>
-		
-	</ul>	
+		<li class="head"><a href="/about/" title="About Us">About Us</a></li>
+		<li id="whatwedo"><a href="/about/whatwedo/" title="Read our company history">What We Do</a>
+			<ul id="whatwedo_sub">
+				<li id="companyhistory"><a href="/about/whatwedo/" title="Read our company history">Company History</a></li>
+				<li id="ourbooks"><a href="/about/whatwedo/ourbooks.cfm" title="About our books">Our Books</a></li>
+				<li id="ourauthors"><a href="/about/whatwedo/ourauthors.cfm" title="About our authors">Our Authors</a></li>
+				<li id="lpwebsite"><a href="/about/whatwedo/lpwebsite.cfm" title="About the LonelyPlanet.com  website">LonelyPlanet.com</a></li>
+				<li id="lpimages"><a href="/about/whatwedo/lpimages.cfm" title="About Lonely Planet Images">Lonely Planet Images</a></li>
+				<li id="lptv"><a href="/about/whatwedo/lptv.cfm" title="About Lonely Planet TV">Lonely Planet TV</a></li>
+				<li id="lpfoundation"><a href="/about/whatwedo/foundation.cfm" title="About the Lonely Planet Foundation">Our Foundation</a></li>
+				<li id="affiliate"><a href="/about/affiliate.cfm" title="Our Affiliate Program">Affiliate Program</a></li>
+				<li id="advertising"><a href="/about/advertising_enq.cfm" title="Advertising">Advertising</a></li>
+			</ul>
+		</li>
+		<li id="whatshappening"><a href="/pressroom/" title="Press Releases">What's Happening</a>
+			<ul id="whatshappening_sub">
+				<li id="pressreleases"><a href="/pressroom/" title="Press Releases">Press Releases</a></li>
+			</ul>
+		</li>
+		<li id="workforus"><a href="/jobs/" title="Work at Lonely Planet">Work For Us</a>
+			<ul id="workforus_sub">
+				<li id="workingatlp"><a href="/jobs/" title="Work at Lonely Planet">Work at Lonely Planet</a></li>
+				<li id="becomeauthor"><a href="/jobs/becomeauthor.cfm" title="Become an Author">Become an Author</a></li>
+				<li id="becomefreelance"><a href="/jobs/becomefreelance.cfm" title="Become a Freelance Editor">Become a Freelance Editor</a></li>
+				<li id="becomephoto"><a href="/jobs/becomephoto.cfm" title="Become a Photographer">Become a Photographer</a></li>
+			</ul>
+		</li>
+		<li id="responsible"><a href="/responsibletravel/" title="Responsible Travel">Responsible Travel</a>
+			<ul id="responsible_sub">
+				<li id="overview"><a href="/responsibletravel/overview.cfm" title="Overview">Overview</a></li>
+				<li id="traveltips"><a href="/responsibletravel/travel_tips.cfm" title="Travel Tips">Travel Tips</a></li>
+				<li id="climatechange"><a href="/climatecare/index.cfm" title="Climate Change &amp; Travel">Climate Change</a></li>
+				<li id="codegreen"><a href="/responsibletravel/code_green.cfm" title="Code Green">Code Green</a></li>
+				<li id="codegreen"><a href="/responsibletravel/myanmar.cfm" title="Myanmar (Burma)">Myanmar (Burma)</a></li>
+				<!-- <img src="/rcl/includes/modules/images/volunteer_promo_152_103.gif" alt="Looking to Volunteer?" /> -->
+			</ul>
+		</li>
+		<li id="contact"><a href="/contact/" title="Contact">Contact Us</a></li>		
+		<li id="help" class="navactive"><a href="/about/faq.cfm" title="FAQs">Help</a>
+			<ul id="help_sub" class="navactiveSub">
+				<li id="faq"><a href="/about/faq.cfm" title="FAQs">FAQs</a></li>
+				<li id="legal" class="navactiveSubHighlight"><a href="/privacy/index.cfm" title="Privacy Policy">Privacy Policy</a></li>
+				<li id="onlinecommunity"><a href="/privacy/online_community_tou.cfm" title="Online Community">Online Community</a></li>
+				<li id="intellectual"><a href="/ip/" title="Intellectual Property">Intellectual Property</a></li>
+				<li id="compwinners"><a href="/about/compwinners.cfm" title="Competition Winners">Competition Winners</a></li>
+			</ul>
+		</li>
+	</ul>		
 </div>
+
+<script language="JavaScript" type="text/javascript">
+	<!--
+	function exists(testVar){
+		if (typeof(window[testVar]) != "undefined" & window[testVar] != ''){
+			return true;
+		}else{
+			return false;
+		}
+	}
+	
+	if(! exists("activeNavClass")){
+		var activeNavClass = 'navactive';
+	}
+	
+	if(! exists("activeNavClassSub")){
+		var activeNavClassSub = 'navactiveSub';
+	}
+	
+	if(! exists("activeNavClassSubHighlight")){
+		var activeNavClassSubHighlight = 'navactiveSubHighlight';
+	}
+	
+	if(exists("activeNavID")){
+		var identity=document.getElementById(activeNavID);
+		if(identity != null)
+			identity.className=activeNavClass;
+	}
+	
+	if(exists("activeNavIDSub")){
+		var identity=document.getElementById(activeNavIDSub);
+		if(identity != null)
+			identity.className=activeNavClassSub;
+	}
+		if(exists("activeNavIDSubHighlight")){
+		var identity=document.getElementById(activeNavIDSubHighlight);
+		if(identity != null)
+			identity.className=activeNavClassSubHighlight;
+	}
+	//-->
+</script>
 
 
 <!-- LHC close -->
@@ -199,6 +269,15 @@ Remove from code after 1 week or so
 	<li><a href="#cookies">What about "cookies"?</a></li>
 	<li><a href="#tellwho">You tell who?</a></li>
 	<li><a href="#contact">Complaints, comments or corrections?</a></li>
+	<li>Other Lonely Planet privacy policies
+		<ul style="padding-top:0; margin-top:0; list-style:square;">
+			<li><a href="/privacy/newsletters.cfm">Newsletters</a></li>
+			<li><a href="/privacy/privacy_shop.cfm">Book Shop</a></li>
+			<li><a href="/privacy/talk2us.cfm">Feedback</a></li>
+			<li><a href="/privacy/privacy_media.cfm">Media</a></li>
+		</ul>
+	</li>
+	
 </ul>
 <!-- END OPENING PARAGRAPH -->
 <a name="who" id="who"></a>
@@ -361,18 +440,14 @@ Remove from code after 1 week or so
           <div class="podLink"><a href="http://www.lonelyplanet.com/feedback/" alt="Send us your feedback" title="Send us your feedback">Send us your feedback&nbsp;›</a></div> 
 <!-- RHC close -->
 </td>
-
-
 <!-- Closing the LHC, content and RHC table -->
-		<!-- Black line down RHS -->
- 		
-
+<!-- Black line down RHS -->
 <td width="1" bgcolor="#000000"><img src="/rcl/includes/images/pixel.gif" border="0" height="1" width="1"></td>
 	</tr>
 </tbody></table>
 
-
 <!--Footer -->
+<!-- begin: footer_content.htm -->
 <!--#include virtual="/rcl/webTrends/smartSource.htm" -->
 
 
@@ -407,7 +482,7 @@ gVersion="1.4";
 gVersion="1.5";
 //-->
 </script>
-<script type="text/javascript" src="/rcl/webTrends/lptr.js"></script>
+<script type="text/javascript" src="http://www.lonelyplanet.com/rcl/webTrends/lptr.js"></script>
 
 <noscript>
 <IMG BORDER="0" NAME="DCSIMG" WIDTH="0" HEIGHT="0" SRC="http://lptr.lonelyplanet.com/dcs474a68onmhcwki2sdk29l7_4h1o/njs.gif?dcsuri=/nojavascript&WT.js=No">
@@ -431,43 +506,40 @@ imageTR.src = stURL;
 
 
 
-<!-- Middle bit -->
-
-<table class="tblContent" border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#FFFFFF" style="margin-bottom: 15px; border-left: 1px solid #333; border-right: 1px solid #333; border-bottom: 3px solid #555;">
-	<tbody><tr>
-		<td>
-		<!--Footer -->	
-		<div id="footer">
-			
-			<div class="f_line_2">
-			<a href="http://www.lonelyplanet.com.au" title="Lonely Planet Home">home</a>
-			<a href="http://www.lonelyplanet.com/about/" title="About Lonely Planet">about us</a>
-			<a href="http://www.lonelyplanet.com/contact/" title="contact us">contact us</a>
-			<a href="http://www.lonelyplanet.com/responsibletravel" title="Responsible Travel" class="responsibletravel">responsible travel</a>
-			<a href="http://search.lonelyplanet.com/" title="Search Lonely Planet">search</a>
-			</div>
-			
-			<div class="f_line_3">
-				<a href="http://www.lonelyplanet.com/worldguide/">destinations</a> 
-				<a href="http://shop.lonelyplanet.com/index.cfm?affil=lpgn-h">book shop</a>
-				<a href="http://www.lonelyplanet.com/travel_services/">bookings &amp; services</a>
-				<a href="http://www.lonelyplanet.com/classifieds">classifieds</a>
-				<a href="http://www.lonelyplanet.com/accommodation/">hotel reviews</a>
-				<a href="http://haystack.lonelyplanet.com">hotel bookings</a>
-				<a href="http://www.lonelyplanet.com/download_shop/">digital guides</a>
-				<a href="http://thorntree.lonelyplanet.com/">thorn tree</a>
-				<!--<a href="http://www.lonelyplanet.com/bluelist/">bluelist</a> -->
-				<a href="http://www.lonelyplanet.com/journeys/">travel stories</a>
-			</div>
-			
-			
-			<div class="disc">© 2006 Lonely Planet Publications. All rights reserved. No part of this site may be reproduced without our written permission.</div>
-		</div>
-
-		</td>
-	</tr>
+<table class="tblContent" border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#FFFFFF" style="border-left:solid 1px #000; border-right:solid 1px #000; border-bottom:solid 1px #000; margin-bottom:15px;"> 
+<tbody><tr>
+	<td>
+		<!--#include virtual="/rcl/includes/footer_global_css.htm" -->
+		<div id="gl_footer">
+	<!-- footer_global_css.htm -->
+	<!-- Global footer for use in sites using CSS layout (not tables) -->
+	<ul id="gl_footer_line_1">
+		<li><a href="http://www.lonelyplanet.com" title="Lonely Planet Home">home</a></li>
+		<li><a href="http://www.lonelyplanet.com/about/" title="About Lonely Planet">about us</a></li>
+		<li><a href="http://www.lonelyplanet.com/contact/" title="contact us">contact us</a></li>
+		<li><a href="http://www.lonelyplanet.com/privacy/index.cfm" title="privacy policy">privacy policy</a></li>
+		<li><a href="http://www.lonelyplanet.com/responsibletravel" title="Responsible Travel" class="responsibletravel">responsible travel</a></li>
+		<li><a href="http://search.lonelyplanet.com/" title="Search Lonely Planet">search</a></li>
+		<li style="margin-left:20px;"><a href="http://www.addthis.com/bookmark.php" class="addthis" onclick="window.open('http://www.addthis.com/bookmark.php?wt=nw&amp;pub=DDRJFCDSDKVY5C2B&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'addthis', 'scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100'); return false;" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s3.addthis.com/button0-bm.gif" width="83" height="16" border="0" alt="AddThis Social Bookmark Button" align="top"></a></li>	
+	</ul>
+	
+<ul id="gl_footer_line_2">
+		<li><a href="http://www.lonelyplanet.com/worldguide/" title="Destinations: Everything you need to know about everywhere you want to go.">destinations</a></li>
+		<li><a href="http://shop.lonelyplanet.com/?affil=lpgn-h" title="Online Shop: Books, maps, new releases and juicy bargains.">online shop</a></li>
+		<li><a href="http://hotels.lonelyplanet.com" title="Hotels &amp; Hostels: House boat or hotel, they're all here for the booking.">hotels &amp; hostels</a></li>
+		<li><a href="http://www.lonelyplanet.com/bookings" title="Bookings &amp; Services: Flights, cars, tours, insurance, the lot.">bookings &amp; services</a></li>
+		<li><a href="http://www.lonelyplanet.tv" title="Lonely Planet TV: Live it. Shoot it. Share it.">video</a></li>
+		<li><a href="http://www.lonelyplanet.com/bluelist/" title="Bluelist: Travel experiences recommended by travellers, for travellers.">bluelist</a></li>
+		<li><a href="http://www.lonelyplanet.com/thorntree/" title="Thorn Tree Forum: Our online travel community, asking questions and sharing advice.">thorn tree</a></li>
+		<li><a href="http://www.lonelyplanet.com/travelstories/" title="Travel Stories: Feature articles, photo galleries, podcasts and blogs.">travel stories</a></li>		
+	</ul>
+	
+	<div id="gl_footer_disclaimer">© 2007 Lonely Planet Publications. All rights reserved. No part of this site may be reproduced without our written permission.</div>
+</div>
+	</td>
+</tr>
 </tbody></table>
-<!--End Footer -->	
+<!-- end: footer_content.htm -->
 <!--#include virtual="/rcl/includes/footer_content.htm" -->
 <!--End Footer -->	
 
@@ -495,25 +567,26 @@ if(!exists("strBannerAdSkyscraper"))
 if(!exists("strBannerAdTop"))
 	var strBannerAdTop = "";
 	
-if(!exists("showAd"))
-	var showAd = false;
+if(!exists("showBanner"))
+	var showBanner = false;
+	
+if(!exists("showSkyscraper"))
+	var showSkyscraper = false;
 	
 //-->
 </script>
 
 <!-- These place holders proved a frame overwhich the averts will be placed when the eventually load -->
 <div id="ad_banner_top_placeholder" style="display: none;"></div>
-<div id="ad_banner_side_placeholder" style="display: none;"></div>
+<div id="ad_banner_side_placeholder" style="display: none; top: 0px;"></div>
 
 <!-- Show or hide the Ad placeholders as required -->
 <script language="JavaScript" type="text/javascript">
-if (showAd) {
- document.getElementById('ad_banner_top_placeholder').style.display = 'block';
- document.getElementById('ad_banner_side_placeholder').style.display = 'block';
-} else {
- document.getElementById('ad_banner_top_placeholder').style.display = 'none';
- document.getElementById('ad_banner_side_placeholder').style.display = 'none';
-}
+<!--
+	document.getElementById('ad_banner_top_placeholder').style.display = (showBanner)?'block':'none';
+	
+	document.getElementById('ad_banner_side_placeholder').style.display = (showSkyscraper)?'block':'none';
+	document.getElementById('ad_banner_side_placeholder').style.top = (showBanner)?'110px':'0';
 //-->
 </script>
 
@@ -524,8 +597,8 @@ if (showAd) {
 		</script>
 </div>
 
-<div id="ad_banner_side" style="display: none;">
-	<div class="note"><img src="/rcl/includes/images/img_header_ad_adTxt.gif"></div>
+<div id="ad_banner_side" style="display: none; top: 0px;">
+	<div class="note"><img src="/rcl/includes/images/img_header_ad_adTxt.gif" alt="advertising" border="0"></div>
 	
 	<script language="JavaScript" type="text/javascript">
 		document.write(strBannerAdSkyscraper);
@@ -534,13 +607,11 @@ if (showAd) {
 
 <!-- Show or hide the Ads as required -->
 <script language="JavaScript" type="text/javascript">
-if (showAd) {
- document.getElementById('ad_banner_top').style.display = 'block';
- document.getElementById('ad_banner_side').style.display = 'block';
-} else {
- document.getElementById('ad_banner_top').style.display = 'none';
- document.getElementById('ad_banner_side').style.display = 'none';
-}
+<!--
+	document.getElementById('ad_banner_top').style.display = (showBanner)?'block':'none';
+	
+	document.getElementById('ad_banner_side').style.display = (showSkyscraper)?'block':'none';
+	document.getElementById('ad_banner_side').style.top = (showBanner)?'110px':'0';
 //-->
 </script>
 
@@ -551,6 +622,44 @@ if (showAd) {
 <!-- Close div id="global_container" -->
 </div>
 <!-- END RHC PODS -->
+
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.5.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.lonelyplanet.com/omniture/lpcom/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName= " help : privacy policy " 
+s.channel="help"
+s.prop1=" : privacy policy"
+s.prop2=""
+
+
+
+
+s.eVar2="help"
+s.eVar3=" : privacy policy"
+s.eVar4=""
+
+
+s.events = ""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://om.lonelyplanet.com/b/ss/lonelyplanetcom/1/H.5--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.5. -->
+
 
 
 </body></html>
