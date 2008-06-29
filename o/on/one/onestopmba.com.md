@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopmba.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230032652id_/http%3A//www.onestopmba.com/privacy-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopmba.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629223738id_/http%3A//www.onestopmba.com/privacy-policies.asp) for the most accurate reproduction.*
 
 # Privacy Policies | Vyom Privacy Policies | Corporate Privacy policies
 
@@ -12,6 +12,6 @@ Protecting your privacy is one of our highest priorities, but as with all Web si
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the www.onestopmba.com Web site, 
 
-please contact us at [amit[dot]mathur[at]vyom[dot]co[dot]in ](mailto:amit.mathur@vyom.co.in)
+please contact us at [amit[dot]mathur[at]vyom[dot]co[dot]in ](mailto:amit.mathur@vyom.co.in "mailto:amit.mathur@vyom.co.in")
 
 **Note :** Please replace [at] with @ and [dot] with . in the above email address 
