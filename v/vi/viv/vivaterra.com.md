@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
 
 # VivaTerra - Eco Living With Style
 
@@ -6,25 +6,25 @@
 
 [View Catalog
 
-](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.782286..782286.cat)
+](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.782286..782286.cat)
 
 [Catalog Quick Order
 
-](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?proc_to_call_in=shopping_cart.QuickCart&complex_id_in=482007.488490..488490.cat)
+](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?proc_to_call_in=shopping_cart.QuickCart&complex_id_in=482007.488490..488490.cat)
 
 [Request a Catalog
 
-](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488289..488289.cat)  
+](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488289..488289.cat)  
 Gift Registry 
 
 [Gift Certificate
 
-](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488492..488492.cat)  
+](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488492..488492.cat)  
 
 
 [View eNewsletter
 
-](https://web.archive.org/web/20071231041323id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.797413..797413.cat)  
+](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.797413..797413.cat)  
 | 
 
 Privacy Policy
