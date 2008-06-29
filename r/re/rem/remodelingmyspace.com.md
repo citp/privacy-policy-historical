@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703085926id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629220807id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy @ RemodelingMySpace.com
 
-At RemodelingMySpace.com, your privacy is of the utmost importance. We are dedicated not only to providing for you, our customer, the best possible shopping experience, but also to ensuring your complete privacy. Information we collect from you is used to process your orders with us and provide for you the best possible shopping experience.
+At RemodelingMySpace.com, your privacy is of the utmost importance. We are dedicated not only to providing for you, our viewer and customer, the best possible viewing and shopping experience, but also to ensuring your complete privacy. Information we collect from you is used to process your account and/or orders with us and provide for you the best possible user experience.
 
 RemodelingMySpace.com is the sole owner of all personally identifiable information collected via our web site. Please read on for more details about our privacy policy.
 
 **Information We Collect And The Uses For It**
 
-When you place an order with RemodelingMySpace.com or any of our third party sales providers, we/they will need to know your full name, mailing address, e-mail address, phone number, credit card number, and credit card expiration date. This information is used to fulfill your order, including payment and shipping, and to notify you of your order status.
+When you sign up for a user account, join our newsletter, register as a user or author for our blog or place an order with RemodelingMySpace.com or any of our third party sales providers, we/they will need to know your full name, mailing address, e-mail address, phone number, - in the case of orders - credit card number, and credit card expiration date. This information is used to manage your account, process your registration and/or to fulfill your order, including payment and shipping, and to notify you of your order status.
 
 To ship your order, it will be necessary for us to share your name, address, and telephone number with the shipping company of our choice. Shipping companies require this information to deliver your products.
 
 _Upon completion of your order, your credit card information is deleted from our database to ensure your protection._
 
-We offer a free newsletter through RemodelingMySpace.com used to keep you informed of specials, deliver information of interest, and more. Once you buy a product we automatically add you to our email list. We will deliver the newsletter to your e-mail address, and you will have the option to stop your receipt of the publication at any time. We only require your e-mail address for the purpose of the newsletter, and you will only receive our newsletter if you so choose.
+We offer a free newsletter through RemodelingMySpace.com used to keep you informed of specials, deliver information of interest, and more. Once you create a user account, register as a user or author for our blog, or buy a product we automatically add you to our email list. We will deliver the newsletter to your e-mail address, and you will have the option to stop your receipt of the publication at any time. We only require your e-mail address for the purpose of the newsletter, and you will only receive our newsletter if you so choose.
 
 When you make purchases at our site, we monitor the information enabling us to better serve you. We use the general purchasing information to help us determine what products and services you are most interested in. We also keep track of site traffic using log files to help us better determine what areas of our site are providing our customers with the greatest value. We use this information to fine tune our site and tailor it to you and other visitors to our site.
 
@@ -28,7 +28,11 @@ The online shopping process at RemodelingMySpace.com is safe and secure. Wheneve
 
 A 'cookie' is a small piece of information that is stored on your computer's hard drive by your web browser and which may be accessed by our server. The cookies we provide to your browser do not contain any personal information, but they do allow us to provide special services to you while you visit our website. Cookies simplify the ordering process by remembering information about you, allow the use of the shopping cart function, and enable online ordering.
 
-If you do not wish to accept cookies, most browsers allow you to prevent them from being accepted and saved to your hard drive. If you choose not to use cookies, you will be unable to place online orders at our website.
+Third parties, such as Google AdSense, may place and read cookies on your browser, or use web beacons to collect information, while serving ads on RemodelingMySpace.com. 
+
+Here is how Google explains cookies: "A 'cookie' is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies." 
+
+If you do not wish to accept cookies, most browsers allow you to prevent them from being accepted and saved to your hard drive. If you choose not to use cookies, certain functions may not operate correctly at our website.
 
 **Disclosure of Information to Third Parties**
 
