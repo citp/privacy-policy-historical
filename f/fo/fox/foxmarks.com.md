@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the foxmarks.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822210849id_/http%3A//www.foxcloud.com/wiki/Foxmarks%3A_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxmarks.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629084625id_/http%3A//wiki.foxmarks.com/wiki/Foxmarks%3A_Privacy_Policy) for the most accurate reproduction.*
 
-# Foxmarks: Privacy Policy - Foxcloud Wiki
+# Foxmarks: Privacy Policy - Foxmarks Wiki
 
-### From Foxcloud Wiki
+### From Foxmarks Wiki
 
 _You can see a[ summary of changes](https://web.archive.org/wiki/Privacy_Policy_Changes "Privacy Policy Changes") since the most recent version._
 
 Your privacy, and the privacy of all registered users of foxmarks.com, is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site. 
+
+## Contents
+
+  * 1 Notice
+    * 1.1 Types of Information Collected
+    * 1.2 Use of Cookies
+    * 1.3 Use of Information
+    * 1.4 Disclosure of Information
+  * 2 Choice
+  * 3 Access
+    * 3.1 Security
+
+
 
 ##  Notice 
 
@@ -32,7 +45,9 @@ We may disclose information to fulfill certain legal and regulatory requirements
 
 ##  Choice 
 
-You may choose at any time to have your account deleted by contacting us at support@foxmarks.com. We will make our best effort to delete your account and remove its associated information from our system as quickly as possible. 
+You may choose to delete your account at any time. Instructions on how to delete your account are available [here](https://web.archive.org/wiki/Foxmarks:_Frequently_Asked_Questions#How_do_I_delete_my_Foxmarks_account.3F "Foxmarks: Frequently Asked Questions"). 
+
+You may also choose to uninstall Foxmarks from your computer at any time. Instructions on how to uninstall Foxmarks are available [here](https://web.archive.org/wiki/Foxmarks:_Uninstalling_the_Extension "Foxmarks: Uninstalling the Extension"). 
 
 ##  Access 
 
