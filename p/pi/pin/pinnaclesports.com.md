@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111125634id_/http%3A//pinnaclesports.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629154617id_/http%3A//www.pinnaclesports.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # About Pinnacle Sports
 
@@ -68,7 +68,7 @@ Pinnacle Sports is the sole owner of the personal information we collect from ou
 
 If a client provides personal information during an interaction with our customer service areas (for example, an email address or telephone number), we will use it only for the purpose of customer service. We will not sell a client's phone number to telemarketers or anyone else.
 
-[Pinnacle Sports is licensed](https://web.archive.org/LicensedandRegulated "Pinnacle Sports is licensed") and sanctioned by the Governments of Curacao and the Netherlands Antilles. Pinnacle will not release information about our clients to any government.
+[Pinnacle Sports is licensed](https://web.archive.org/LicensedandRegulated "Pinnacle Sports is licensed") and sanctioned by the Governments of Curacao and the Netherlands Antilles. Pinnacle will not release information about our clients to any government.
 
 Close Panel 
 
