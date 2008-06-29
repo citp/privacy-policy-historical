@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journal.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231002802id_/http%3A//www.news-journal.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journal.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629040512id_/http%3A//www.news-journal.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to News-Journal!
 
