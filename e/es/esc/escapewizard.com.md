@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
 
 # Escape Wizard
 
@@ -7,7 +7,7 @@
 * * *  
   
 ---  
-|  | [Flights](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/index.php?flag=fl) | [Travel Packages](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/travel_packages.php?flag=tp) | [Hotels](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/hotels.php?flag=htl) | [Cars](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/cars.php?flag=cr) | [Cruises](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/cruises.php?flag=cru) | [Deals](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/deals.php?flag=dls) | [Subscribers](https://web.archive.org/web/20071231101254id_/http%3A//www.escapewizard.com/forms.php?flag=sub) |    
+|  | [Flights](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/index.php?flag=fl) | [Travel Packages](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/travel_packages.php?flag=tp) | [Hotels](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/hotels.php?flag=htl) | [Cars](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/cars.php?flag=cr) | [Cruises](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/cruises.php?flag=cru) | [Deals](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/deals.php?flag=dls) | [Subscribers](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/forms.php?flag=sub) |    
 ---|---|---|---|---|---|---|---|---  
    
   
