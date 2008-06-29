@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224084352id_/http%3A//www.uswitch.com/CorporatePages/Information/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630011659id_/http%3A//www.uswitch.com/CorporatePages/Information/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy on uSwitch.com – switch online with confidence
 
@@ -10,7 +10,7 @@ The site is operated by uSwitch Limited; a company incorporated in England and W
 
 ####  What personal information do we collect? 
 
-In order to process a switch, we collect your name, address and payment details. We also collect your email address and phone number. These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you.
+In order to process a switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. If you abandon your switch, we may email you to give you the opportunity to compare again and/or to provide feedback on our switching process.
 
 You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com "Email help@uswitch.com"). 
 
@@ -22,7 +22,7 @@ If you enter a contest or another promotion, we will use the data so that we can
 
 If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
-If during your visit to our car insurance calculator, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine onto one of our representatives. By indicating you have read and understood this Privacy Policy you are agreeing to passing of your personal data to one of these representatives and them contacting you to discuss car insurance quotes. Without clicking 'continue' you will be unable to complete the car insurance quotation process. Our representatives contact individuals by phone who have not purchased a policy through our car insurance comparison service in order to offer them competitive quotes from offline providers who we do not work with. They are only allowed to help you with this particular quote and only for a limited amount of time after you have used our service. They have agreed not to use your details for any other purpose.
+If during your visit to one of our insurance calculators, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine onto one of our representatives. By indicating you have read and understood this Privacy Policy you are agreeing to passing of your personal data to them as uSwitch deems appropriate on the basis of your search, and them contacting you to discuss insurance quotes. Without clicking 'continue' you will be unable to complete the car insurance quotation process. Our representatives or suppliers contact individuals by phone who have not purchased a policy through our car insurance comparison service in order to offer them competitive quotes or further assistance. They are only allowed to help you with this particular quote and only for a limited amount of time after you have used our service. They have agreed not to use your details for any other purpose.
 
 If while comparing loans with us you provide us with your phone number, name, address and postcode, we may pass these details - and the information you have submitted on the site - to one of our loans brokers. By entering this information you are agreeing for us to pass your personal data to our loans brokers and for them to contact you by phone or email to discuss your requirements. They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
@@ -48,9 +48,11 @@ SW1W 0SR
 
 By disclosing your personal information to uSwitch.com, you consent to the collection, storage and processing of your personal information in the manner set out in this privacy policy.
 
-####  Use of cookies 
+####  Use of cookies and third-party advertising technology 
 
-1\. uSwitch.com collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies. A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited uSwitch.com before.
+1\. We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use Web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These Web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. To learn more about our third-party ad-serving partner, cookies, and how to “opt-out” please [click here](http://www.doubleclick.com/us/corporate/privacy).
+
+2\. uSwitch.com collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies. A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited uSwitch.com before.
 
 We use cookies to help us analyse traffic on our site and customer behaviour. Cookies may also be used by our partners to understand marketing and traffic patterns. During the course of any visit to uSwitch.com, the pages you see, along with a cookie, are downloaded to your computer. Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors. 
 
@@ -58,7 +60,7 @@ Most web browsers automatically accept cookies, but normally you can alter your 
 
 We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity.
 
-2\. How to find and control your cookies
+3\. How to find and control your cookies
 
 If you're using **Internet Explorer 6.0 or 7.0** :
 
@@ -99,7 +101,7 @@ If you're using **Safari** :
 
 
 
-3\. How do you know which of the sites you've visited use cookies?
+4\. How do you know which of the sites you've visited use cookies?
 
 If you're using **Internet Explorer** :
 
@@ -138,6 +140,6 @@ If you're using **Safari** :
 
 
 
-4\. How to see your cookie code
+5\. How to see your cookie code
 
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
