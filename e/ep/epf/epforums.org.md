@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224194154id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629193143id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
 
 # Emuparadise.org - N64, Playstation, Dreamcast, Snes, Genesis, Arcade, Nes, MAME...
 
