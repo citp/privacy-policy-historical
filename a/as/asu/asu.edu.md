@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227170653id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629031016id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
