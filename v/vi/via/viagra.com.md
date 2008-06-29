@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
@@ -6,9 +6,9 @@ Last updated February 2006
 
 ## Scope
 
-This notice provides highlights of the full Pfizer Inc privacy statement and applies to TRUSTe certified Pfizer Web sites. Visit the TRUSTe Web site to view a [complete list of Pfizer Web sites with Validated Privacy Statements](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101).
+This notice provides highlights of the full Pfizer Inc privacy statement and applies to TRUSTe certified Pfizer Web sites. Visit the TRUSTe Web site to view a [complete list of Pfizer Web sites with Validated Privacy Statements](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101).
 
-View the [full Pfizer Privacy Statement](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy_policy.jsp).
+View the [full Pfizer Privacy Statement](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy_policy.jsp).
 
 ## Personal Information
 
@@ -19,7 +19,7 @@ View the [full Pfizer Privacy Statement](https://web.archive.org/web/20071229072
 
 
 
-[Additional Information](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy_policy.jsp)
+[Additional Information](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy_policy.jsp)
 
 ## How to Contact Us
 
@@ -43,7 +43,7 @@ We use personal information you provide to fulfill your request for information,
 
 
 
-[Additional Information](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy_policy.jsp#one)
+[Additional Information](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy_policy.jsp#one)
 
 ## Your Rights and Choices
 
@@ -52,7 +52,7 @@ We use personal information you provide to fulfill your request for information,
 
 
 
-[Additional Information](https://web.archive.org/web/20071229072344id_/http%3A//www.pfizer.com/general/privacy_policy.jsp#four)
+[Additional Information](https://web.archive.org/web/20080629233045id_/http%3A//www.pfizer.com/general/privacy_policy.jsp#four)
 
 ## Important Information
 
