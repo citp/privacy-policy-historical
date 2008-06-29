@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kaotic.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213033057id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaotic.com privacy policy that was archived on 2008-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629201426id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Fight Videos Shocking Videos Extreme Videos - Viewing Info - Kaotic.com</title>
@@ -9,22 +9,76 @@
 		<script type="text/javascript" src="/styles/kaotic/resources/swf/swfobject.js"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<script type="text/javascript">
+			var orating=0;
+			var na=false;
+			var homepage=true;
+			
 			function write_stars(s) {
+				if(s!="N/A")
+					orating=eval(s.charAt(0));
 				if(s == 'N/A') {
+					na=true;
 					for (var i=0; i<5; i++) {
-						document.write('<img src="/styles/kaotic/resources/img/star_na.gif" />');
+						document.write('<img src="/styles/kaotic/resources/img/star_na.gif" onclick=doRating(,'+eval(i+1)+'); onmouseover=slideStars('+i+'); onmouseout=revertStars(); id="star'+i+'" />');
 					}
 				} else {
 					var x = s.split('/');
 					for (var i=0; i<x[1]; i++) {
 						if(x[0]>i) {
-							document.write('<img src="/styles/kaotic/resources/img/star_full.gif" />');
+							document.write('<img src="/styles/kaotic/resources/img/star_full.gif" onclick=doRating(,'+eval(i+1)+'); onmouseover=slideStars('+i+'); onmouseout=revertStars(); id="star'+i+'" />');
 						} else {
-							document.write('<img src="/styles/kaotic/resources/img/star_empty.gif" />');
+							document.write('<img src="/styles/kaotic/resources/img/star_empty.gif" onclick=doRating(,'+eval(i+1)+'); onmouseover=slideStars('+i+'); onmouseout=revertStars(); id="star'+i+'" />');
 						}
 					}
 				}
 			}
+
+			function slideStars(star)
+			{
+				if(!homepage)
+				{	
+				var empty="";
+				if(na)
+					empty="/styles/kaotic/resources/img/star_na.gif";
+				else
+					empty="/styles/kaotic/resources/img/star_empty.gif";
+
+				var full="/styles/kaotic/resources/img/star_full.gif";
+
+
+				for(var c=0;c<5;c++)
+				{
+					if(c<=star)
+						document.getElementById("star"+c).src=full;
+					else
+						document.getElementById("star"+c).src=empty;
+				}
+
+				}
+			}
+			function revertStars()
+			{
+				if(!homepage)
+				{
+				var empty="";
+				if(na)
+					empty="/styles/kaotic/resources/img/star_na.gif";
+				else
+					empty="/styles/kaotic/resources/img/star_empty.gif";
+
+				var full="/styles/kaotic/resources/img/star_full.gif";
+
+
+				for(var c=0;c<5;c++)
+				{
+					if(c<orating)
+						document.getElementById("star"+c).src=full;
+					else
+						document.getElementById("star"+c).src=empty;
+				}
+				}
+			}
+
 
 			function bookmark() {
 				var url = window.top.location;
@@ -50,7 +104,8 @@
       <link rel="shortcut icon" href="http://www.kaotic.com/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="swfobject.js"></script>
 
-
+<script language="javascript" type="text/javascript">var ids='33604';</script>
+<script language="javascript" src="http://cbanners.virtuagirlhd.com/customdata/banner/flash/peel/peel.js" type="text/javascript"></script>
 
 	</head>
 	<body>
@@ -76,9 +131,12 @@
                 <img src="http://wankmedia.com/backend/tracking/in.php?s=&a=&j=0&r1=" width="1" height="1" style="display: none" />
         </noscript>
 
+<div id="dhtmltooltip"></div>
+<script type="text/javascript" src="/styles/kaotic/resources/js/tooltips.js"></script>
+
+<script type="text/javascript" src="/styles/kaotic/resources/js/multithumb.js"></script>
 
 
-<a id="topleft" href="javascript:bookmark()" title="Bookmark Kaotic NOW Bitch">Bookmark Us</a>
 
 		<center id="wrap0">
 			<div id="wrap1">
@@ -96,9 +154,7 @@
 
 				<ul id="head">
 					<li id="logo"><a href="/"></a></li>
-					<li id="topad"><table cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://clicks.toteme.com/?s=33604&amp;p=21&amp;pp=1" target="_blank">
-<img src="http://cbanners.virtuagirlhd.com/customdata/banner/308.gif" width="468" height="60" border="0">
-</a></td></tr></tbody></table></li>
+					<li id="topad"><table cellpadding="0" cellspacing="0"><tbody><tr><td><a href="/sponsoredlink31" target="_new"><img src="/banners/a8884bc8530e9be6bda9c2d521e88f5a.gif"></a></td></tr></tbody></table></li>
 				</ul>
 
 				<ul id="tabs">
@@ -106,20 +162,27 @@
 					<li><a href="/Videos">Videos</a></li>
 					<li><a href="/Submit">Upload</a></li>
 					<li><a href="/Categories">Channels</a></li>
-					<li><a href="/forums">Forum</a></li>
-					<li><a href="/Contact">Contact</a></li>
-					<li><a href="http://www.wankmedia.com/oursites.php">Advertise</a></li>
+					<li><a href="/profile.php">My Profile</a></li>
+					<li><a href="http://imlive.com/wmaster.asp?wid=124685475255&amp;from=freevideo6&amp;icase=1&amp;promocode=BCODE9E2FE39E_915D450D" target="_blank">Live Cams</a></li>
+					<li><a href="/contact.php">Advertise</a></li>
 				</ul>
 
-				<div id="bar"><a href="javascript:bookmark()">Bookmark Us</a> | <a href="/rss/feeds.rss">RSS Feed</a> | <a href="/News">News</a> | <a href="/pages.php?page=about">Legal</a> | <a href="/pages.php?page=privacypolicy">Privacy Policy</a></div>
-<div align="center">Fight videos, funny videos, sexy videos and more for your viewing pleasure.
+				<div id="bar"></div>
 
 
-<a href="http://clicks.toteme.com/?s=33604&amp;p=21&amp;pp=1" target="_blank">
-<img src="http://banners.virtuagirlhd.com/customdata/banner/413.gif" width="800" height="120" border="0">
+<!--<div id="plugtrades">
+	
+</div>
 
-</a></div><a href="http://clicks.toteme.com/?s=33604&amp;p=21&amp;pp=1" target="_blank">
+
+<div align="center">
+<iframe src="http://banners.adultfriendfinder.com/piclist?background_color=%23FFFFFF&banner_title=1Hook+up+with+hot+girls+in&border_color=%23DDDDDD&link_color=%23FF4E00&models=1&no_fakevid=1&no_flash=1&override=1&p=piclist_links&photo=2&pid=g819498-pmo&site=ffadult&iframe=1&noclick=1&text_color=%233A75CF&border_color=%23DDDDDD&rollover_header_color=%23FFFFF" width="810" height="178" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+</div>
+-->
+
 				<div style="float: left; padding: 10px; text-align: left">
+
+
 					<b>Information Collection</b><br>
 We will not collect any unique information about you unless you specifically and knowingly provide such information to us.
 <br><br>
@@ -138,26 +201,20 @@ If we change this privacy policy, we will post those changes on our news page so
 <b>Further Questions</b><br>
 Click on the contact tab above and send us a mail.
 
-<div align="center">
-
-<!-- begin ZEDO for channel: Entertainment/Humor , publisher: CD1078 kaotic.com , Ad Dimension: Super Banner - 728 x 90 -->
-<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=670;c=31;s=358;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
-<!-- end ZEDO for channel: Entertainment/Humor , publisher: CD1078 kaotic.com , Ad Dimension: Super Banner - 728 x 90 -->
 
 
-
-</div>
 
 				</div>
 
-			</a></div><a href="http://clicks.toteme.com/?s=33604&amp;p=21&amp;pp=1" target="_blank">
 
-			</a><div style="float: left; width: 100%; height: 28px; line-height: 28px; background: #0b285d; position: relative; font-size: 11px; color: #fff"><a href="http://clicks.toteme.com/?s=33604&amp;p=21&amp;pp=1" target="_blank">
+			</div>
+
+			<div style="float: left; width: 100%; height: 28px; line-height: 28px; background: #0b285d; position: relative; font-size: 11px; color: #fff">
 				<div style="position: absolute; bottom: 0px; left: 0px; width: 8px; height: 10px; background: url(/styles/kaotic/resources/img/foot_corners.gif); font-size: 1px"></div>
-				</a><a href="/Contact">Contact Us</a> | <a href="/pages.php?page=privacypolicy">Privacy Policy</a>
+				<a href="/Contact">Contact Us</a> | <a href="/pages.php?page=privacypolicy">Privacy Policy</a>
 				<div style="position: absolute; bottom: 0px; right: 0px; width: 8px; height: 10px; background: url(/styles/kaotic/resources/img/foot_corners.gif) 8px; font-size: 1px"></div>
 			</div>
-			<span style="color: #3a75cf; font-size: 8pt; line-height: 20px">Copyright 2006-2007 Kaotic.com. All Rights Reserved No Duplication Allowed Or We Will Track Your Ass Down.</span>
+			<span style="color: #3a75cf; font-size: 8pt; line-height: 20px">Copyright 2006,2007,2008 Kaotic.com. All Rights Reserved No Duplication Allowed Or We Will Track Your Ass Down.</span>
 
 
 
