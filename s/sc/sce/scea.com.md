@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112060430id_/http%3A//scea.com/Support/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629120628id_/http%3A//www.us.playstation.com/Support/PrivacyPolicy) for the most accurate reproduction.*
 
 # PlayStation.com - Support - Privacy Policy
 
@@ -85,11 +85,11 @@ Additionally, we may also use your personal information for marketing and demogr
 
 #### Your California Privacy Rights/ Information Sharing Policy
 
-PlayStation Underground Members whose information is collected through us.playstation.com will have an additional option to "opt-in" to have their information shared with our promotional partners, licensed software publishers, licensed peripheral makers and other licensees (Our Partners). This will give us the opportunity to work with partners to provide you with additional material on PlayStation and related product, which we think you will enjoy. 
+PlayStation Underground Members whose information is collected through us.playstation.com will have an additional option to "opt-in" to have their information shared with our promotional partners, licensed software publishers, licensed peripheral makers and other licensees (�Our Partners�). This will give us the opportunity to work with partners to provide you with additional material on PlayStation and related product, which we think you will enjoy. 
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of SCEA who are California residents to request certain information regarding SCEA’s disclosure within the immediately preceding calendar year of the California resident’s personal information to third parties for their direct marketing purposes.  To make such a request, contact our Consumer Services group through the following link: <http://www.us.playstation.com/Corporate/ConsumerServices> or via telephone at 1-800-345-7669. If you would like to change your current account preferences, please click on the following link: <https://secureus.playstation.com/Registration/SignIn>.
 
-Except for law enforcement and certain third parties that we have engaged to assist us in fulfilling your requests and maintaining our database records, your personally identifying information will not be shared with non-Sony parties unless participants choose this option or register through the PLAYSTATIONNetwork.
+Except for law enforcement and certain third parties that we have engaged to assist us in fulfilling your requests and maintaining our database records, your personally identifying information will not be shared with non-Sony parties unless participants choose this option or register through the PLAYSTATION�Network.
 
 #### Policies for Children 12 Years Old and Under
 
