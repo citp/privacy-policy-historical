@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210723id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629084743id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # B&T : Privacy Policy
 
@@ -54,13 +54,8 @@ Privacy inquiries
 
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:
 
-Mary Alice Bannister   
+The Privacy Officer   
 Reed Elsevier Australia Pty Limited   
 Tower 2, 475 Victoria Avenue or Locked Bag 2001 Chatswood Delivery Centre   
 CHATSWOOD NSW 2067   
 AUSTRALIA
-
-Phone 02 9422 2002   
-Fax 02 9422 2682
-
-Email: [mary-alice.bannister@reed-elsevier.com.au](mailto:mary-alice.bannister@reed-elsevier.com.au)
