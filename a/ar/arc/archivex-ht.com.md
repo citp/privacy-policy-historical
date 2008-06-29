@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archivex-ht.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224215432id_/http%3A//www.archivex-ht.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archivex-ht.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629082556id_/http%3A//archivex-ht.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
