@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224030420id_/http%3A//www.ettu.org/others.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629104948id_/http%3A//www.ettu.org/others.php%3Fid%3D2) for the most accurate reproduction.*
 
 # ETTU - European Table Tennis Union
 
