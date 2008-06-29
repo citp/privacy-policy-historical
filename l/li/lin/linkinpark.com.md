@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227021924id_/http%3A//linkinpark.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630003936id_/http%3A//linkinpark.com/legal-privacy) for the most accurate reproduction.*
 
 # LINKIN PARK / PRIVACY POLICY
 
