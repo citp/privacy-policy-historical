@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231184652id_/http%3A//www.nrcc.org/about/default.asp%3FID%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630071623id_/http%3A//www.nrcc.org/about/default.asp%3FID%3D76) for the most accurate reproduction.*
 
 # NRCC
 
-[NRCC Home](https://web.archive.org/default.asp) > [About](https://web.archive.org/web/20071231184652id_/http%3A//www.nrcc.org/about/default.asp) > NRCC Online Privacy Policy 
+[NRCC Home](https://web.archive.org/default.asp) > [About](https://web.archive.org/web/20080630071623id_/http%3A//www.nrcc.org/about/default.asp) > NRCC Online Privacy Policy 
 
 The National Republican Congressional Committee is committed to protecting the personal information that you provide to us when using the NRCC Site. This privacy policy describes how we treat all user data collected during your visit to [www.NRCC.org](http://www.nrcc.org/), both anonymous data and personally-identifying data.
 
