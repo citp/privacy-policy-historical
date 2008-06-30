@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225153625id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630085150id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # New York Jobs - NewYorkJobs.com
 
@@ -26,7 +26,29 @@ NewYorkJobs.com resume functionality requires/requests users to give us contact 
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process serviced on our website. 
 
 **Links**   
-NewYorkJobs.com contains links to other sites. These sites have their own policies and practices with respect to online privacy, and NewYorkJobs.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a NewYorkJobs.com advertiser may ask you for personal information. NewYorkJobs.com cannot be responsible for the privacy practices of its advertisers. 
+NewYorkJobs.com contains links to other sites. These sites have their own policies and practices with respect to online privacy, and NewYorkJobs.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a NewYorkJobs.com advertiser may ask you for personal information. NewYorkJobs.com cannot be responsible for the privacy practices of its advertisers.   
+'We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies: The following third parties are supported:
+
+**North America: Ad servers**
+
+\- DoubleClick DFA ([www.doubleclick.com](http://www.doubleclick.com/))  
+\- Mediaplex/ValueClick ([www.mediaplex.com](http://www.mediaplex.com/))
+
+**North America: Rich media**
+
+\- DoubleClick Rich Media ([www.doubleclick.com](http://www.doubleclick.com/))  
+\- Eyeblaster ([www.eyeblaster.com](http://www.eyeblaster.com/))  
+\- EyeWonder ([www.eyewonder.com](http://www.eyewonder.co/))  
+\- Interpolls ([www.interpolls.com](http://www.interpolls.com/))  
+\- Pointroll ([www.pointroll.com](http://www.pointroll.com/))  
+\- Unicast ([www.unicast.com](http://www.unicast.com/))
+
+**North America: Research**
+
+\- Dynamic Logic/Safecount ([www.safecount.net](http://www.safecount.net/))  
+\- Factor TG ([www.factortg.com](http://www.factortg.co/))  
+\- IAG ([www.iagr.com](http://www.iagr.com/))  
+\- InsightExpress ([www.insightexpress.com](http://www.insightexpress.com/))
 
 **Notification of Changes**   
 This policy may be revised over time and as new features are added to the website. 
