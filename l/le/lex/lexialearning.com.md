@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexialearning.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231175826id_/http%3A//www.lexialearning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexialearning.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630050544id_/http%3A//www.lexialearning.com/privacy.html) for the most accurate reproduction.*
 
 # Lexia Learning > Privacy Policy
 
