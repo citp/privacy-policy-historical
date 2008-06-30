@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230223052id_/http%3A//www.bumrungrad.com/Overseas-Medical-Care/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630181229id_/http%3A//www.bumrungrad.com/Overseas-Medical-Care/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Bumrungrad International Hospital,Thailand - Privacy Policy
 
-|   
----  
-| [  Home](http://www.bumrungrad.com/overseas-medical-care/Bumrungrad-International.aspx)  
-| [  About Us](http://www.bumrungrad.com/overseas-medical-care/about-us/overview.aspx)  
-| [  Medical Services](http://www.bumrungrad.com/overseas-medical-care/Medical-Services/Overview.aspx)  
-| [  Plan Your Visit](http://www.bumrungrad.com/overseas-medical-care/Plan-Your-Visit/Overview.aspx)  
-| [  FAQs](http://www.bumrungrad.com/overseas-medical-care/FAQ-s.aspx)  
-| [  Contact Us](http://www.bumrungrad.com/overseas-medical-care/Contact-Us/contact-details.aspx)  
-| 
+|  | 
 
-[Home](http://www.bumrungrad.com/overseas-medical-care/Bumrungrad-International.aspx) > Privacy Policy   
+[Home](http://www.bumrungrad.com/Overseas-Medical-Care/Bumrungrad-International.aspx) > Privacy Policy   
   
 ---  
   
@@ -72,5 +64,5 @@ Changes in Our Privacy Statement:
 Bumrungrad Web may at any time revise this privacy statement by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the most current privacy statement.  
    
 Questions:   
-If you have any questions about the Web site’s Internet Privacy Statement or other aspects of privacy on our Web site, please contact us via our [feedback form](http://www.bumrungrad.com/overseas-medical-care/Contact-Us/Feedback.aspx "Feedback").   
+If you have any questions about the Web site’s Internet Privacy Statement or other aspects of privacy on our Web site, please contact us via our [feedback form](http://www.bumrungrad.com/Overseas-Medical-Care/Contact-Us/Feedback.aspx "Feedback").   
  
