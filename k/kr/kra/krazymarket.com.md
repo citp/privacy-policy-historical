@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207153630id_/http%3A//krazymarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630083149id_/http%3A//www.krazymarket.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Indonesia's online marketplace! Find the best deals for new and used products, services, and much more!
+# KrazyMarket - Indonesia's online marketplace! Beli & jual semua di sini! Temukan harga terbaik!
 
 **Privacy Policy**
 
-**KrazyMarket Privacy Policy (Updated on March 9, 2007)**
+**KrazyMarket Privacy Policy (Updated on August 1, 2007)**
 
 This is the Privacy Policy governing your use of the KrazyMarket Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and KrazyMarket which by use of this Site you agree to accept.
 
@@ -64,7 +64,7 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 **Changes to Privacy Policy**
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact KrazyMarket in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that KrazyMarket return and/or destroy all copies of all or part of your Collected Information in KrazyMarket's possession. This Privacy Policy was last amended on March 9, 2007. 
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact KrazyMarket in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that KrazyMarket return and/or destroy all copies of all or part of your Collected Information in KrazyMarket's possession. This Privacy Policy was last amended on August 1, 2007. 
 
 **Correcting Your Information**
 
