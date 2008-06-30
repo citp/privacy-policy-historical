@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231307id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630075258id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Maplin > Privacy Statement
 
@@ -99,7 +99,7 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 **IF YOU HAVE A PRIVACY QUESTION**   
 
 
-If you have a privacy question about our Site, please email: chris west at chris.west@maplin.co.uk or webadmin@maplin.co.uk. Or write: Maplin Electronics Ltd, Attn: chris west, Valley Road Wombwell, S73 0BS. 
+If you have a privacy question about our Site, please email: webmaster@maplin.co.uk. Or write: Maplin Electronics Ltd, Attn: Content Manager, Brookfields Way, Manvers, Wath-upon-Dearne, Rotherham, South Yorkshire, S63 5DL. 
 
 (end of policy)  
 
