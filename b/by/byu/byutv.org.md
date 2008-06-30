@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228055157id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630213720id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Website Privacy Policy
 
