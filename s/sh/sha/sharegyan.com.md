@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216031143id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630034035id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
-**Highlights:** 1.Market to remain volailte, still avoid going short.    2 **.** Nifty Support are 5995/57/20 ND Resistance are 6094/6140/88
+**Highlights:** 1\. Do intraday trading only for few days.   2 **.** Try to book profit at regular intervals only. 
 
 [](http://edit.yahoo.com/config/send_webmesg?.target=sharegyan&.src=pg)
 
