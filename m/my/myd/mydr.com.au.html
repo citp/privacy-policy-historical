@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229151708id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630063750id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
-<title>myDr Privacy Policy</title>
+<title>myDr Privacy Policy - myDr.com.au</title>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> 
 <script type="text/javascript"> _uacct = "UA-2802005-1"; urchinTracker(); </script> 
@@ -14,7 +14,7 @@
 	<LINK REL="stylesheet" HREF="/styles/regie.css" TYPE="text/css">
 <![endif]-->
 <script language="JavaScript" type="text/javascript">
-
+<!--
 
 if (document.images) {
 	pic9over = new Image(75,26);
@@ -198,9 +198,49 @@ function MiniWebPopup(PopupURL)
 	//alert("Finished after focus")
 }
 //************ End POPHELPJS Include ************
+//-->
 
+var WndPopUp;
 
+function WindowPopUp(iUrl, iWidth, iHeight)
+{
+	var popW = iWidth, popH = iHeight;
+	var ns = (document.layers) ? true : false;
+	var scrnW = (ns) ? window.innerWidth : document.body.offsetWidth;
+	var scrnH = (ns) ? window.innerHeight: document.body.offsetHeight;
+	var posX, posY;
+	if (scrnW && scrnH)
+	{
+		posX = (scrnW / 2) - (popW / 2);
+		if (posX < 0)
+		{
+			posX = 10;
+		}
+		posY = (scrnH / 2) - (popH / 2);
+		if (posY < 0)
+		{
+			posY = 10;
+		}
+	}
+	else
+	{
+		posX = 10;
+		posY = 10;
+	}
+	if (WndPopUp)
+	{
+		WndPopUp.close();
+	};
+	WndPopUp = window.open(iUrl, '', 'resizable=yes,scrollbars=yes,width=' + popW + ',height=' + popH + ',left=' + posX + ',top=' + posY);
+	WndPopUp.focus();
+}
 
+function ExternalLinkClick(iUrl, iNewWindow, iWidth, iHeight)
+{
+	iUrl = '/ExtDisclaimer.asp?newwin=' + iNewWindow + '&targeturl=' + iUrl;
+	WindowPopUp(iUrl, 500, 405);
+	return false;
+}
 </script>	
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
@@ -212,12 +252,33 @@ function MiniWebPopup(PopupURL)
     <td width="190"><a href="/"><img src="/images/logo.jpg" border="0" width="190" height="124" alt="myDr.com.au"></a></td>
     <td background="/images/bg/orange.jpg" width="15%">&nbsp;</td>
     <td width="100%"> 
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/bg/top.jpg">
-        <tbody><tr>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#3367CD">
+         <tbody><tr style="background:url('/images/bg/top.jpg') no-repeat;">
           <td>
 			<table width="100%" border="0" bordercolor="red" cellspacing="0" cellpadding="0" background="/images/spacer.gif">
-              <tbody><tr align="right"> 
-                <td colspan="2"><img src="/images/healthy.gif" border="0" width="346" height="85" alt="For a Healthy Australia"></td>
+              <tbody><tr align="right">
+               <td align="center"><div id="addiv" align="center" width:468;="" height:="" 60;="" position:relative;"="">
+					<!-- top banner ad //-->
+					<div style="text-align:center;font-size:10px;height:15px;color:white;font-variant: small-caps">advertisement</div>
+      <script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
+		<script language="JavaScript" type="text/javascript">
+		<!--
+		   if (!document.phpAds_used) document.phpAds_used = ',';
+		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+		   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+		   document.write ("http://chg.mydr.com.au/adjs.php?n=" + phpAds_random);
+		   document.write ("&amp;what=zone:3077");
+		   document.write ("&amp;exclude=" + document.phpAds_used);
+
+		   if (document.referrer)
+		      document.write ("&amp;referer=" + escape(document.referrer));
+		   document.write ("'><" + "/script>");
+		//-->
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=637483045&amp;what=zone:3077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:3077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+	
+				</div></td>
+                <td height="85">&nbsp;</td>
               </tr>
               <tr> 
                 <td valign="top"> 
@@ -294,12 +355,9 @@ function Quicksubmit(type) {
   var status = "yes";
 
   var localRegEx = /\s/;
-  
-  var re2 = /[^\w ]/g;
 
   kw = document.quicksearchform.inputtext.value;
-  kw = kw.replace(re2, "");
- // alert(kw);
+
   if (kw == "" || kw.length < 3)
   {
     alert("Please enter at least one keyword of at least three (non-space) characters.");
@@ -348,7 +406,7 @@ function Quicksubmit(type) {
 
 
   <tbody><tr>
-    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';">
+    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';" onclick="window.location='/';">
       <a href="/"><font color="#000066" size="2"><b>&nbsp;<u><em><i>myDr</i></em> HomePage <br></u></b></font></a>
     </td>
   </tr>
@@ -359,9 +417,9 @@ function Quicksubmit(type) {
   //
 -->
   <tr>
-    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)">
+    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)" onclick="window.location='/default.asp?Section=Sitemap';">
 
-      <a href="/default.asp?Section=Sitemap" onmouseover="on(this);" onmouseout="off(this)">Site Map</a>
+      Site Map
     </td>
   </tr>
   <tr>
@@ -664,12 +722,7 @@ function Quicksubmit(type) {
 
       &nbsp;<a href="/tools/bodymass.asp"><u>Body Mass Index (BMI)</u></a><br>&nbsp;<a href="/tools/bodymass.asp"><u>Calculator</u></a>
     </td>
-  </tr>
-    <tr>
-    <td style="color:blue">
-      &nbsp;<a href="/tools/caloriesburnedcalc.asp"><u>Calories Burned Calculator</u></a>
-    </td>
-  </tr>
+  </tr>  
   <tr>
     <td style="color:blue">
       &nbsp;<a href="/tools/ChildEnergyCalculator.asp"><u>Child Energy Calculator</u></a>
@@ -797,19 +850,7 @@ function Quicksubmit(type) {
     <td class="menuseperator">
     </td>
   </tr>
-  <tr>
-    <td style="color:blue">
-
-      &nbsp;<a href="/hcp/hcp.asp?mode=GP"><u>Find a GP</u></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color:blue">
-
-      &nbsp;<a href="/hcp/hcp.asp?mode=Specialist"><u>Find a Specialist</u></a>
-    </td>
-  </tr>
-  <tr>
+   <tr>
     <td style="color:blue">
 
       &nbsp;<a href="/hcp/hcp.asp?mode=Pharmacist"><u>Find a Pharmacy</u></a>
@@ -1072,7 +1113,25 @@ function Quicksubmit(type) {
 
 <div style="border:2px solid #CCC;padding:3px;">
 <div style="text-align:center;font-size:10px;height:15px;color:gray;font-variant: small-caps">advertisement</div>
+	<!-- top banner ad //-->
+      <script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
+		<script language="JavaScript" type="text/javascript">
+		<!--
+		   if (!document.phpAds_used) document.phpAds_used = ',';
+		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
 
+		   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+		   document.write ("http://chg.mydr.com.au/adjs.php?n=" + phpAds_random);
+		   document.write ("&amp;what=zone:2077");
+		   document.write ("&amp;exclude=" + document.phpAds_used);
+
+		   if (document.referrer)
+		      document.write ("&amp;referer=" + escape(document.referrer));
+		   document.write ("'><" + "/script>");
+		//-->
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=567060455&amp;what=zone:2077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:2077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+	
+	<!-- top right ad //-->
       <script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
 		<script language="JavaScript" type="text/javascript">
 		<!--
@@ -1088,8 +1147,8 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=387657970&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
-			
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=708341935&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:77&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		<!-- bottom right ad //-->	
 		<div style="margin:3px;"><hr noshade="" size="1" style="height:1px"></div>
 			
 		<script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
@@ -1107,7 +1166,7 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=409186252&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=511037663&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
 			
 			
 			
@@ -1122,8 +1181,8 @@ Top 10 Site!
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img border="0" align="center" src="/content/images/categories/Awardsandlogos/hitwiseJulSep07.gif" alt="Hitwise top 10 website logo"><br>
-Hitwise ranks <i>myDr</i> as the number 6 Health and Medical Information Website in Australia.
+<img border="0" align="center" src="/content/images/categories/Awardsandlogos/hitwiseJanMar08.gif" alt="Hitwise top 10 website logo"><br>
+Hitwise ranks <i>myDr</i> as the number 5 Health and Medical Information Website in Australia.
 <!-- End Hitwise Award Code -->
 
 <br>
@@ -1247,8 +1306,8 @@ to be a HealthInsite information partner site<br><br clear="all"></div>
 	</script>
 	-->
 	<br><br>
-	This page last updated : Friday, 28 December 2007<br>
-	© Copyright CMPMedica Australia, 2007.</font>
+	This page last updated : Friday, 27 June 2008<br>
+	© Copyright CMPMedica Australia, 2000-2008.</font>
 	</center>
 	
 	<p></p>
