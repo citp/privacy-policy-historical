@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232219id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630101946id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,7 +32,7 @@ When you supply personal information to Hampshire County Council we have a legal
 
 You have the legal right to request a copy of any information that we hold about you.
 
-For further information on the Data Protection Act 1998, subject access request forms and contacting the Data Protection Officer, please see the [Hampshire County Council Data Protection pages](http://www.hants.gov.uk/dataprotection/).
+For further information on the Data Protection Act 1998, subject access request forms and contacting the Data Protection Officer, please see the [Hampshire County Council Data Protection pages](http://www3.hants.gov.uk/service826).
 
 ## Security:
 
