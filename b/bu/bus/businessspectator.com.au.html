@@ -1,46 +1,41 @@
-<!--The following is the downloaded HTML source of the businessspectator.com.au privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231160931id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessspectator.com.au privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630021301id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Business Spectator - Privacy Policy</title><meta name="KEYWORDS" content="business news, finance news, business spectator, Alan Kohler, Robert Gottliebsen, Stephen Bartholomeusz, Gotti, Bartho, industry news">
 <meta name="DESCRIPTION" content="Latest Business &amp; Finance News Online &amp; Updated Daily at Business Spectator. Register Free For Commentary from Experts like Kohler, Gottliebsen &amp; Bartholomeusz">
 <meta name="ROBOTS" content="noarchive,index,follow">
-<link rel="STYLESHEET" href="/bs.nsf/HTMLObject/Screen.css?OpenDocument" type="text/css">
-<link rel="STYLESHEET" href="/bs.nsf/HTMLObject/Print.css?OpenDocument" type="text/css">
+<link rel="stylesheet" href="/bs.nsf/screen.css" type="text/css" media="all">
+<link rel="stylesheet" href="/bs.nsf/handheld.css" type="text/css" media="handheld">
+<link rel="stylesheet" href="/bs.nsf/print.css" type="text/css" media="print">
 <link rel="shortcut icon" href="/bs.nsf/favicon.ico" type="image/x-icon">
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2818127-1";
-urchinTracker();
-</script>
-<script language="JavaScript" type="text/javascript" src="/bs.nsf/webScripts?OpenJavascriptLibrary">
+<script language="JavaScript" type="text/javascript" src="/bs.nsf/webScripts!OpenJavascriptLibrary">
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/bs.nsf/AjaxLookup?OpenJavascriptLibrary">
+<script language="JavaScript" type="text/javascript" src="/bs.nsf/AjaxLookup!OpenJavascriptLibrary">
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/bs.nsf/Cookies?OpenJavascriptLibrary">
+<script language="JavaScript" type="text/javascript" src="/bs.nsf/Cookies!OpenJavascriptLibrary">
 </script>
 
 <script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
 function _doClick(v, o, t) {
-  var url="/bs.nsf/pages/Privacy_Policy?OpenDocument&Click=" + v;
-  if (o.href != null)
+  var url="/bs.nsf/pages/Privacy_Policy!OpenDocument&Click=" + v;
+  if ((o.href != null) && (o.href.value != null))
     o.href = url;
   else {
     if (t == null)
       t = document._domino_target;
     window.open(url, t);
   }
-
+  return false;
 }
 // -->
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/bs.nsf/ticker?OpenJavascriptLibrary">
+<script language="JavaScript" type="text/javascript" src="/bs.nsf/ticker!OpenJavascriptLibrary">
 </script>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
@@ -56,22 +51,76 @@ var serverName = 'www.businessspectator.com.au';
 var serverNameRoot = 'businessspectator.com.au';
 //-->
 </script>
+
+ 
 </form>
 <div id="FilterPersons" class="filterPopup" data="0" otherfilter="Company" otherfilter2="Recieve">
-<div align="center">
-<h3>Select a person in the news today from the list below, <br>or use Advanced Search to find older articles</h3>
-<form action="javascript:goFilterSearch('persons')" name="persons"><br><label>search by person</label><input id="searchperson" name="persons" type="text"><a href="javascript:goFilterSearch('persons')">go</a></form></div>
-<div id="FilterPersonsInner"></div>
+	<img src="/bs.nsf/close.gif" style="float:right; margin:0px 0px 5px 5px; " onclick="closePopin()">
+	<div style="text-align: center; height: 70px;"><h3>Select a person from the recent news from the list below, <br>or use Advanced Search to find older articles</h3>
+		<form action="javascript:goFilterSearch('persons')" name="persons">
+		<label>search by person</label>
+		<span style="font-size:70%"> (Enter last name only) </span>
+		<input id="searchperson" name="persons" type="text" disabled=""><a href="javascript:goFilterSearch('persons')">go</a>
+		</form>
+	</div>
+	<div style="text-align: center; margin: 2px 0;"><a href="JavaScript:closePopin()" style="color: #bd5f47;">CLOSE THIS PANEL</a></div>
+	<div id="atzPersonsHeading">People from the recent news.</div>
+	<div id="atzPersons" class="alphaPop"></div>
+	<div id="FilterPersonsInner"></div>
+	<div style="text-align: center; margin: 8px 0;"><a href="JavaScript:closePopin()" style="color: #bd5f47;">CLOSE THIS PANEL</a></div>
 </div>
 <div id="FilterCompany" class="filterPopup" data="0" otherfilter="Persons" otherfilter2="Recieve">
+	<img src="/bs.nsf/close.gif" style="float:right; margin:0px 0px 5px 5px; " onclick="closePopin()">
+	<div style="text-align: center; height: 70px;"><h3>Select a company in the recent news from the list below, <br>or use Advanced Search to find older articles</h3>
+		<form action="javascript:goFilterSearch('company')" name="company" '="">
+			<label>search by company</label><input name="company" id="searchcompany" type="text" disabled=""><a href="javascript:goFilterSearch('company')">go</a>
+		</form>
+		<form action="javascript:goFilterSearch('asx')" name="asx" '="">
+			<label>search by asx</label><input name="asx" id="searchasx" type="text" disabled="" style="width:30px;"><a href="javascript:goFilterSearch('asx')">go</a>
+		</form>
+	</div>
+	<div style="text-align: center; margin: 2px 0;"><a href="JavaScript:closePopin()" style="color: #bd5f47;">CLOSE THIS PANEL</a></div>
+	<div id="atzCompanyHeading">Companies from the recent news.</div>
+	<div id="atzCompany" class="alphaPop"></div>
+	<div id="FilterCompanyInner"></div>
+	<div style="text-align: center; margin: 8px 0;"><a href="JavaScript:closePopin()" style="color: #bd5f47;">CLOSE THIS PANEL</a></div>
+</div>
+<div id="emailAFriend" class="filterPopup" data="0">
+<img src="/bs.nsf/close.gif" style="float:right; margin:0px 0px 5px 5px; " onclick="closeEmail()">
 <div align="center">
-<h3>Select a company in the news today from the list below, <br>or use Advanced Search to find older articles</h3>
-<form action="javascript:goFilterSearch('company')" name="company" '=""><br><label>search by company</label><input name="company" id="searchcompany" type="text"><a href="javascript:goFilterSearch('company')">go</a></form>
-<form action="javascript:goFilterSearch('asx')" name="asx" '=""><label>search by asx</label><input name="asx" id="searchasx" type="text"><a href="javascript:goFilterSearch('asx')">go</a></form></div>
-<div id="FilterCompanyInner"></div>
+<h3>Send to a friend.</h3>
+<form action="javascript:emailAFriend()" name="emailAFriend">
+<input type="hidden" name="emailDoc" value="C4EFCCBD6B6A67BACA25737B007F171B" id="emaildoc">
+	<div class="emailfields"><label>* Your name:</label><input type="text" name="sendername" value="" style="width:300px;" disabled="" id="emailsendername"></div>
+	<div class="emailfields"><label>* Your email address:</label><input type="text" name="from" value="" style="width:300px;" disabled="" id="emailfrom"></div>
+	<br>
+	<div class="emailfields">
+		<div class="emailLabelCol">
+			<label>* Recipient's email addresses:</label>
+			<div class="emailNotes">Seperate email addresses with a coma ( , )
+			</div>
+		</div>
+		<textarea name="sendto" value="" style="width:300px;" rows="4" disabled="" id="emailsendto" wrap="soft"></textarea>
+	</div>
+	<br>
+	<div class="emailfields">
+		<label>* Your message:</label>
+		<textarea name="body" value="" style="width:300px;" rows="4" disabled="" id="emailbody" onkeydown="return true" wrap="hard"></textarea>
+<div><label style="width:100%">All fields with a * are required.</label></div>
+	</div>
+	<div class="emailsubmit" align="center">
+		
+		<input id="emailSendButton" type="button" value="Send email" onclick="sendtoaFriend()"><br><br>
+	</div>
+<div align="center" id="closeemail"><a href="JavaScript:closeEmail()">CLOSE THIS PANEL</a></div>
+<br>
+<div class="emailfields" style="text-align:center;overflow:auto;"><div id="emailMsg" style="text-align:left;"></div></div>
+</form>
+</div>
 </div>
 <div id="wrap"><div id="header">
 <!---START: SUBFORM HEADER-->
+<!--SN=EurekaW01 -->
 <div style="height:1px;overflow:hidden;"><!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
 <!-- Activity Name for this tag is:Registration - Start -->
 <!-- Creation Date:10/22/2007 -->
@@ -79,54 +128,86 @@ var serverNameRoot = 'businessspectator.com.au';
 var axel = Math.random()+"";
 var a = axel * 10000000000000;
 var ordran = Math.random() * 10000000000000 + "";
-document.write('<IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=' + ordran + ';num='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
-</script><img src="https://ad.au.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=3004474937242.767;num=2481084676969.8804?" width="1" height="1" border="0">
-<noscript><IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=1;num=1?" WIDTH=1 HEIGHT=1 BORDER=0></noscript>
+document.write('<IMG SRC="https://ad.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=' + ordran + ';num='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
+</script><img src="https://ad.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=5019921658585.349;num=5035838631377.545?" width="1" height="1" border="0">
+<noscript><IMG SRC="https://ad.doubleclick.net/activity;src=1595941;type=busin251;cat=regis227;ord=1;num=1?" WIDTH=1 HEIGHT=1 BORDER=0></noscript>
 <!-- End of DoubleClick Spotlight Tag: Please do not remove--></div>
-<img src="/bs.nsf/emhead.gif" id="printheader">
-<div id="headpic"><div id="headshot" style="background: transparent url(/bs.nsf/oneoffpages/headpics/$File//RK_KOHLERSMILE.JPG) left 50% no-repeat; margin-top:10px;">&nbsp;</div></div>
-   <div id="headsaid"><p>Something for nothing? It happens.</p>
-   <span></span></div>
+   <div id="headpic"><div id="headshot" style="background: transparent url(/bs.nsf/oneoffpages/headpics/$File//RG_GOTTLIEBSENHAND.JPG) left 50% no-repeat; margin-top:10px;">&nbsp;</div></div>
+   <div id="headsaid"><table id="headsaidtbl" cellpadding="0" cellspacing="0"><tbody><tr valign="middle"><td>If it happens today, you read it today </td></tr></tbody></table>
+   <span>Gottliebsen</span></div>
 <!-- begin ad tag (tile=1) -->
 <div id="banner">
-<script language="JavaScript" src="http://ad.au.doubleclick.net/adj/businessspectator.com.au;kw=;pos=top;tile=1;sz=728x90;ord=3980.51311512932?" type="text/javascript"></script>
-<noscript><a href="http://ad.au.doubleclick.net/jump/businessspectator.com.au;kw=;pos=top;tile=1;sz=728x90;ord=3980.51311512932?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/businessspectator.com.au;kw=;pos=top;tile=1;sz=728x90;ord=3980.51311512932?" width="728" height="90" border="0" alt=""></a></noscript>
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/businessspectator.com;kw=;pos=top;tile=1;dcopt=ist;sz=728x90;ord=75942.8666514076?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/businessspectator.com;kw=;pos=top;tile=1;dcopt=ist;sz=728x90;ord=75942.8666514076?" target="_blank"><img src="http://ad.doubleclick.net/ad/businessspectator.com;kw=;pos=top;tile=1;sz=728x90;ord=75942.8666514076?" width="728" height="90" border="0" alt=""></a></noscript>
 <!-- End Banner ad tag -->
 </div>
 <!-- End ad tag -->
-	<h1><a href="/bs.nsf/pages/home?Opendocument" title="homepage">Business Spectator</a></h1>
+	<div id="homelink"><a href="http://www.businessspectator.com.au" title="Business Spectator Home Page">Business Spectator</a></div>
 	<div id="searchholder">
+		<div id="addSearch">
+			<a href="#" onclick="addToHomePage();return false;" class="smallnoneunderline">Make us your homepage</a>
+		</div>
+       		<div id="specialHomePage">
+		          <img src="/bs.nsf/close.gif" style="float:right; margin:0px 0px 5px 5px; " onclick="hidHomeDiv()"><br><h2>Make Business Spectator my home</h2>
+		          <a href="http://www.businessspectator.com.au/" id="dragableHomelink" onclick="return false" title="businessspectator" style="background:transparent url(/bs.nsf/homepage.gif) repeat scroll 0%;display:block;font-size:0px;height:40px;width:40px;left:8px;line-height:0px;position:absolute;top:25px; ">&nbsp;</a>
+		          <ol style="list-style-position:inside;margin-left:60px;;">
+			            <li>Drag the "B" and drop it onto your home button.</li>
+			            <li>Select "Yes" from the pop up window.</li>
+				<li>Click on the <a href="javascript:hidHomeDiv()" style="color:red;">red X</a> to close this window.</li>
+			          
+		          </ol>
+      		</div>
                
 	<div id="search"><form action="javascript:goSearch()" name="searchForm">
-		<label><a href="/bs.nsf/search?searchView">Advanced Search</a></label>  
-		<input type="text" id="searchval" name="searchText">
+		<label><a href="/bs.nsf/Search?SearchView&amp;query=&amp;SearchOrder=4&amp;count=500&amp;start=1">Search</a></label>  
+		&nbsp;<input type="text" id="searchval" name="searchText">
 		<a href="javascript:goSearch()">Go</a></form>
 	<!-- end search -->
-<div id="addSearch">  
-    <a href="#" onclick="installSearchEngine()">Add Business Spectator to your Search Bar</a><br>
-</div>
 	</div>
 	</div>
 <div id="navtabs"><ul id="menu">            
-	<li id="home"><a href="/bs.nsf/pages/home?Opendocument" title="homepage">Home |</a></li>
-	<li id="commen"><a href="/bs.nsf/SpectatorsHomePage?Openview" title="the spectators">The Commentators</a></li>
-	<li id="conver"><a href="/bs.nsf/ConversationHomePage?Openview" title="the conversation">The Conversation</a></li>
-	<li id="wheels"><a href="/bs.nsf/wheelsanddealshomepage?Openview" title="wheels and deals">Wheels &amp; Deals</a></li>
+	<li id="home"><a href="http://www.businessspectator.com.au" title="Home">Home |</a></li>
+	<li id="commen"><a href="/bs.nsf/SpectatorsHomePage?Openview" title="The Spectators">The Spectators</a>
+		<ul id="commendrop">
+			<li><a class="drop" href="/bs.nsf/filterSpectatorsc?openview&amp;restricttocategory=Alan%20Kohler">Alan Kohler</a></li>
+<li><a class="drop" href="/bs.nsf/filterSpectatorsc?openview&amp;restricttocategory=Robert%20Gottliebsen">Robert Gottliebsen</a></li>
+<li><a class="drop" href="/bs.nsf/filterSpectatorsc?openview&amp;restricttocategory=Stephen%20Bartholomeusz">Stephen Bartholomeusz</a></li>
+		</ul>
+	</li>
+	<li id="conver"><a href="/bs.nsf/home/conversation" title="The Conversation">The Conversation</a></li>
+	<li id="wheels"><a href="/bs.nsf/wheelsanddealshomepage?Openview" title="Wheels and Deals">Wheels &amp; Deals</a></li>
 	</ul>
 	</div>
 </div>
+ <!-- START TICKER  -->
+                <script type="text/javascript">
+		pausecontent[0] = "<a href='http://www.businessspectator.com.au/bs.nsf/Conversations/Superannuation_outlook_BL8DK?OpenDocument' target='_blank'>The Conversation: Super fund holders are preparing for the worst returns in 20 years.</a>"
+pausecontent[1] = "Monday's weather: Sydney fine windy 21°, Melbourne showers windy 15°, Brisbane fine 23°, Perth partly cloudy 17°"
+pausecontent[2] = "Monday's weather: Adelaide showers easing 16°, Hobart fine windy 13°, Canberra possible showers 16°, Auckland fine 14°"
+pausecontent[3] = "<a href='http://www.businessspectator.com.au/bs.nsf/Article/Many-hands-FZ32J?OpenDocument' target='_blank'>Wheels & Deals: Many hands make lucrative work &#8211; just ask BG's and Origin's advisors</a>"
+	</script>
+	<div id="ticked"><div id="tickertab"><ul id="ticmenu"><li id="ticback"><a href="javascript: ourTicker.previous()">Back</a></li>
+			<li id="ticpause"><a href="javascript: ourTicker.stop()">Pause</a></li>
+			<li id="ticforward"><a href="javascript: ourTicker.go()">Forward</a></li>
+		</ul></div>
+		<div id="tickcontent"><script type="text/javascript">
+			//new pausescroller(name_of_message_array, CSS_ID, CSS_classname, story_number)
+			ourTicker = new pausescroller(pausecontent, "pscroller", "someclass", 75, 5000)
+		</script></div>
+                </div>
+<!-- END TICKER  -->
 <!---END: SUBFORM HEADER-->
 <div id="content">
 <!--START: LEFT COLUMN SUBFORM-->
 	<div id="leftcol">
 		<ul class="bluebar">
-		<li><a href="/bs.nsf/Domlogin?readform&amp;login&amp;s=full&amp;url=/bs.nsf/pages/Privacy_Policy?OpenDocument">Sign In</a></li></ul>
+		<li style="height:18px;"><a href="/bs.nsf/Domlogin?readform&amp;login&amp;s=full&amp;url=/bs.nsf/pages/Privacy_Policy?OpenDocument" style="height:18px;line-height:18px;">Sign In</a></li></ul>
 <ul class="bluebar">
-			<li><a href="/bs.nsf/Domlogin?readform&amp;login&amp;s=full&amp;url=/bs.nsf/MyWatchListDirector?OpenAgent&amp;alerts">Your Watch List</a></li></ul>
+			<li><a href="/bs.nsf/Domlogin?readform&amp;login&amp;s=full&amp;url=/bs.nsf/MyWatchlistDirector?OpenAgent&amp;alerts">My Watch List</a></li></ul>
 <ul class="bluebar">
-			<li><a href="javascript:showFilter('Company')">Today's companies</a></li>
-			<li><a href="javascript:showFilter('Persons')">Today's people</a></li>
-			<li><a href="http://marketdata.businessspectator.com.au/summary">Today's markets</a></li>
+			<li><a href="javascript:showFilter('Company')">Latest companies</a></li>
+			<li><a href="javascript:showFilter('Persons')">Latest people</a></li>
+			<li><a href="http://marketdata.businessspectator.com.au/summary">Latest markets</a></li>
 			<li><span>Industry &amp; category</span></li>
 		</ul>
 		<div id="indlistwrap"><ul class="indlist">
@@ -165,20 +246,19 @@ document.write('<IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;typ
 		<div id="alertregister">
 			<div id="registernow" class="bluebutton"><a href="/subscriber.nsf/subscribeNew?openform&amp;alerts">Register Now!!</a> </div>
 		</div>
-<ul class="bluebar" style="margin-top: -7px;">
-			<li><a href="/bs.nsf/oneoffpages/using_this_site">Using this site</a></li>
+		<ul class="bluebar" style="border-top: 1px solid #3347EE;">
+			<li style="background: url(/bs.nsf/rss2.jpg) center right no-repeat;"><a href="/bs.nsf/rsshome?readform">RSS&nbsp;Feeds</a></li>
+                                    <li><a href="/bs.nsf/oneoffpages/using_this_site">Using this site</a></li>
 			<li><a href="/bs.nsf/oneoffpages/about_us">About us</a></li>
-			<li><a href="/bs.nsf/webcontactus?openform">Contact us</a></li>
-			<li><a href="http://www.eurekareport.com.au">Eureka Report</a></li>
 		</ul>
-		<div id="lefteureka"><h2>Eureka Report</h2>
+		<div id="lefteureka"><a href="http://www.eurekareport.com.au"><h2>Eureka Report</h2></a>
 			<h3>What’s New</h3>
 			<ul>
-				<li><a href="http://www.eurekareport.com.au/iis/iis.nsf/pages/5A5E01EA08A6F2E3CA2573B40077EE5A?OpenDocument" target="_blank">Centro's potential contagion risk</a></li><li><a href="http://www.eurekareport.com.au/iis/iis.nsf/pages/17F182C933DE1E6DCA2572F400050DB0?OpenDocument " target="_blank">Festive Season Bonus</a></li>
+				<li><a href="http://www.eurekareport.com.au/iis/iis.nsf/pages/540758223F96DEF0CA25747400088CB1?OpenDocument" target="_blank">Whatever happens to oil prices, oil service suppliers are in a very strong position</a></li>
 			</ul>
 			<a href="http://www.eurekareport.com.au/iis/subscriber.nsf/subscribeNew?openform&amp;type=f" id="signup">Click for 2 week trial</a>
 		</div>
-	</div>
+       </div>
 <!--END: LEFT COLUMN SUBFORM-->
 		 <div id="centcolumn"><div id="article">
 		 		 <blockquote>
@@ -239,8 +319,8 @@ document.write('<IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;typ
 		 <div id="rightcolumn">
 <p>
 </p><div id="ad200"> 
-<script language="JavaScript" src="http://ad.au.doubleclick.net/adj/businessspectator.com.au;kw=;pos=top;tile=1;sz=300x600;ord=3980.51311512932?" type="text/javascript"></script>
-<noscript><a href="http://ad.au.doubleclick.net/jump/businessspectator.com.au;kw=;pos=top;tile=1;sz=300x600;ord=3980.51311512932?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/businessspectator.com.au;kw=;pos=top;tile=1;sz=300x600;ord=3980.51311512932?" width="300" height="600" border="0" alt=""></a></noscript>
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/businessspectator.com;kw=;pos=top;tile=2;sz=300x600;ord=75942.8666514076?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/businessspectator.com;kw=;pos=top;tile=2;sz=300x600;ord=75942.8666514076?" target="_blank"><img src="http://ad.doubleclick.net/ad/businessspectator.com;kw=;pos=top;tile=2;sz=300x600;ord=75942.8666514076?" width="300" height="600" border="0" alt=""></a></noscript>
 <!-- End Tower ad tag -->
 </div>
 
@@ -249,17 +329,27 @@ document.write('<IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;typ
 <br clear="all">
 </div>
 <!-- START: FOOTER SUBFORM -->
-<div id="footer"><p>Copyright© 2007 Business Spectator Pty Ltd. All rights reserved.<br>ABN 76 126 233 725<br>
+<div id="footer"><p>Copyright © 2008 Business Spectator Pty Ltd. All rights reserved.<br>ABN 76 126 233 725<br>
 <a href="/bs.nsf/pages/Website_Terms_of_Use_Agreement?OpenDocument">Terms and conditions |</a>
 <a href="/bs.nsf/pages/Privacy_Policy?OpenDocument"> Privacy Policy |</a>
 <a href="/bs.nsf/webcontactus?openform"> Contact us |</a>
 <a href="mailto:news@businessspectator.com.au" title="eMail News to Business Spectator"> News |</a>
 <a href="mailto:commentary@businessspectator.com.au" title="eMail Commentary to the Business Spectators"> The Spectators |</a>
-<a href="mailto:advertising@businessspectator.com.au" title="eMail Advertising enquiries to Business Spectator"> Advertising |</a>
+<a href="mailto:adsales@businessspectator.com.au" title="eMail Advertising enquiries to Business Spectator"> Advertising |</a>
 <a href="mailto:marketing@businessspectator.com.au" title="eMail to Marketing at Business Spectator"> Marketing |</a>
 <a href="mailto:theconversation@businessspectator.com.au" title="eMail Conversations to the Business Spectators"> The Conversation |</a>
 <a href="/bs.nsf/search?searchView"> Search </a></p>
 </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2818127-1");
+pageTracker._setDomainName("businessspectator.com.au");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 <script type="text/javascript">
@@ -277,7 +367,7 @@ document.write('<IMG SRC="https://ad.au.doubleclick.net/activity;src=1595941;typ
 <div id="printURL"><script language="JavaScript">
 //shows your URL
 document.write("" + document.URL);
-</script>https://web.archive.org/web/20071231160931id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument</div>
+</script>https://web.archive.org/web/20080630021301id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument</div>
 <!-- END: FOOTER SUBFORM -->
 
 </div>
