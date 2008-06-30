@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229231114id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630052324id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
 
 # Felix Films Ltd - Privacy
 
@@ -7,9 +7,9 @@
   | 
 
 Customer Accounts  
-[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=ii35b9.a1204)   
-[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=ii35b9.a1204)   
-[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=ii35b9.a1204)   
+[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=Ob3nru.a1204)   
+[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=Ob3nru.a1204)   
+[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=Ob3nru.a1204)   
 [Benefits of Registering](https://web.archive.org/ingenii.cgi?page=Benefits_of_Registering.html)
 
 |    
@@ -20,8 +20,8 @@ Customer Accounts
 We Recommend
 
 [  
- **Ghosts of Dudley Castle**  
-£ 12.99](https://web.archive.org/more/on/details/0005)
+ **Box set of 5 ghost dvds**  
+£ 59.99](https://web.archive.org/more/on/details/0010)
 
 |    
   
