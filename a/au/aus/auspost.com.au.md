@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225230354id_/http%3A//auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630211707id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
 
 # Australia Post - Privacy Policy
 
@@ -16,10 +16,13 @@ Australia Post is committed to working with its customers to obtain a fair resol
   
 | 
 
-To contact us with a privacy question, compliment or complaint [email](https://www.auspost.com.au/APC/CDA/Forms/APC_CDA_Specific_Enquiry_Form/0,1472,CH4543%257EMO19,00.html) or write to us at:
+To contact us with a compliment or complaint; [  
+please select your contact type from the list provided.](http://www.auspost.com.au/CUP/0,1460,CHNONE%257EMO19,00.html)
+
+To contact us with a privacy question [email](https://www.auspost.com.au/APC/CDA/Forms/APC_CDA_Specific_Enquiry_Form/0,1472,CH4543%257EMO19,00.html) or write to us at:
 
 > Australia Post  
->  Chief Privacy Officer  
+> Chief Privacy Officer  
 > GPO Box 1777  
 > Melbourne Vic 3000  
   
