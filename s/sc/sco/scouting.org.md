@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618033153id_/http%3A//www.scouting.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630061249id_/http%3A//www.scouting.org/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - www.scouting.org
+# Privacy Policy for Scouting.org
 
 The Boy Scouts of America is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
 
@@ -30,7 +30,7 @@ Personally identifiable information is used only for the express purpose for whi
 
 The BSA does not share personally identifiable information about its web site visitors with anyone.
 
-Reports, statistics, and other analyses of aggregate anonymous information may be shared within the organization or provided to third parties at the sole discretion of the Boy Scouts of America. This information does not include any personally identifiable information.
+Reports, statistics, and other analysis of aggregate anonymous information may be shared within the organization or provided to third parties at the sole discretion of the Boy Scouts of America. This information does not include any personally identifiable information.
 
 Exception: the Boy Scouts of America reserves the right to use all information at its disposal and to share this information with ISPs and other third parties as necessary to investigate any incident of misuse or abuse of its site, server, or information systems.
 
@@ -48,8 +48,11 @@ Providing personal information is _never_ a prerequisite for accessing any of th
 
 ## Policy Modifications and Deviations
 
+This policy was last modified on 12 January 2001.
+
 We may modify this privacy policy and will post those changes here. If the privacy policy changes in the future, we will not any personal information you have submitted to us under the current Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
 It may be necessary to deviate from this general policy in unique instances and for specific purposes. In such instances, a link will be provided to a description of the deviation. This link will be placed where it can be reasonably expected to be noticed prior to submitting any information for which this privacy policy is modified or exempted in any way.
 
-* * *
+  
+
