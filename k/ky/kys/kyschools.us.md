@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429111139id_/http%3A//kyschools.us/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630045632id_/http%3A//www.kyschools.us/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-Last updated on Wednesday, February 25, 2004 
+Last Updated on Tuesday, March 06, 2007 at 5:17 AM
 
 Your privacy and security are our highest priority. The Kentucky Department of Education collects only the personal information necessary to provide enhanced services to our citizens and customers. Please note that all non-exempt information collected by KDE may be subject to public disclosure under KRS 61.870, the Kentucky Open Records Act. However, public records containing information of a personal nature are protected from disclosure by the personal privacy exemption of state law. Personal data in our possession is maintained and used in ways that respect individual privacy. 
-
-  
-
 
 Depending on the situation, we may collect the following information about visitors to our Web site: 
 
