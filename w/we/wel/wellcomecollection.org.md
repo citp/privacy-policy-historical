@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/wtd027252.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630043538id_/http%3A//www.wellcomecollection.org/WTD027252.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
 The Wellcome Trust regards the lawful and correct treatment of personal information as very important and to this end is fully committed to the principles of data protection, as set out in the Data Protection Act. 
 
-[What information we collect about you](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P10_454)
+[What information we collect about you]()
 
-[How we use this information](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P12_889)
+[How we use this information]()
 
-[Surveys](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P15_1723)
+[Surveys]()
 
-[Do we use cookies?](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P19_2884)
+[Do we use cookies?]()
 
-[How do we protect personal information?](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P23_3818)
+[How do we protect personal information?]()
 
-[Do we share your information with anyone else?](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P25_4197)
+[Do we share your information with anyone else?]()
 
-[Your rights](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P27_4397)
+[Your rights]()
 
-[How to tell us about changes. ](https://web.archive.org/web/20070624051852id_/http%3A//www.wellcomecollection.org/WTD027252.htm#P30_4713)
+[How to tell us about changes. ]()
 
 ## What information we collect about you 
 
