@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraidpages.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229222927id_/http%3A//www.consumeraidpages.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraidpages.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630061555id_/http%3A//www.consumeraidpages.com/privacy.htm) for the most accurate reproduction.*
 
 # Consumer Aid Page
 
