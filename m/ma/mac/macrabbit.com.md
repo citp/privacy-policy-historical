@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrabbit.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115949id_/http%3A//macrabbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrabbit.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073712id_/http%3A//macrabbit.com/privacy) for the most accurate reproduction.*
 
 # MacRabbit - Privacy
 
