@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228111837id_/http%3A//www.scandinaviandesigncenter.com/Popups/PrivacyPolicyPopup.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630160851id_/http%3A//www.scandinaviandesigncenter.com/Popups/PrivacyPolicyPopup.aspx) for the most accurate reproduction.*
 
 # ...
 
@@ -26,7 +26,7 @@ To make contact with Scand. Design OnLine AB
 Write to:   
 Scand. Design Online AB  
 Privacy Policy Coordinator   
-Jutegatan 27  
-SE-392 35 KALMAR  
+Slöjdaregatan 1  
+SE-393 55 KALMAR  
 SWEDEN  
 
