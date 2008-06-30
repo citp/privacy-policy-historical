@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231114234id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
 
 # What is your privacy policy? - LookAgain Help
 
-  * [Help](https://web.archive.org/web/20071231114234id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20071231114234id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
+  * [Help](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
 
 
 
@@ -51,6 +51,6 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [What is your data protection policy?](https://web.archive.org/web/20071231114234id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp?qid=671)
+  * [What is your data protection policy?](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp?qid=671)
 
 
