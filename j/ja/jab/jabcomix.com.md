@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206112243id_/http%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630035449id_/http%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # JABcomix :: Privacy Policy
 
