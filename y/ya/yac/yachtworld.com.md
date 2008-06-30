@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131154id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630124014id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
 
-# YachtWorld.com Boats and Yachts for Sale
+# None
 
 The YachtWorld.com Web site ("Web site") is owned and operated by Dominion Enterprises ("Dominion", "YachtWorld.com", "We", "us", "our"). This Web site offers services to (i) marine professionals such as vessel brokers and dealers (and their employees) that have signed a service agreement ("Member"), and (ii) a consumer or an individual who visits the Web site but is not a Member of the Web site ("Site Visitor").
 
