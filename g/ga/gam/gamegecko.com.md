@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegecko.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214004512id_/http%3A//gamegecko.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegecko.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630064418id_/http%3A//gamegecko.com./privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - GameGecko.com
 
