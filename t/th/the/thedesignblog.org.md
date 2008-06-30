@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedesignblog.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231123740id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedesignblog.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630160817id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - The Design blog: The Design blog - All about Funky Designs, Appliance, Art, Buildings, Color, Furnitures, Decor, Dining Interiors, Gadgets, Jewelry, Lights, Web Designs, and Weird Designs.
+# Privacy Policy - The Design blog: Design trendsetter
 
 Privacy Policy
 
