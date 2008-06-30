@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224183049id_/http%3A//www.free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630085612id_/http%3A//www.free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
 
 # Free Webmaster Tools and Resources - Privacy
 
 **Privacy**
+
+[](http://www.onewaytextlink.com/)
 
 We respect your privacy. Your Email address and any other data you provide us will never be released to a third party. All our Email lists and Membership forms use the Opt-In model. These Emails always include a procedure and instructions to remove yourself from our lists.
 
