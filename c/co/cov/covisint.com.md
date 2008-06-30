@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222134929id_/http%3A//covisint.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630170308id_/http%3A//www.covisint.com/privacy.shtml) for the most accurate reproduction.*
 
-# Covisint - Privacy Policy
+# Our Privacy Policy
 
 This Privacy Policy _**(the "Policy")**_ sets forth Compuware Corporation's _**("Compuware" or "Covisint")**_ policies regarding the collection and use of information relating to the Covisint Web site _**(the "Web Site")**_ and the Covisint Exchange _**(the "Exchange")**_. The Exchange is only accessible by registered Members of the Exchange ("Members") and their authorized users _**("Authorized Users")**_ ; the Web Site is generally accessible by all others who visit the Web Site _**("Visitors")**_. With respect to Members and their Authorized Users, the applicable Product Agreement or Product Addenda may specify certain additional rights and obligations regarding the collection of data. 
 
