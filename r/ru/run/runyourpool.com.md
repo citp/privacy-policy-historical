@@ -1,37 +1,45 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213004731id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630082151id_/http%3A//www.elycathedral.org/pages/privacy.html) for the most accurate reproduction.*
 
-# Run your Pool at runyourpool.com
+# Ely Cathedral - Privacy
 
-  
-  
-  
-  
-|   |    
+## Privacy and Security Policy
 
+We have developed this policy so that you can feel confident about the privacy and security of the personal information that you provide to us.
 
-### Privacy Statement
+## Disclosure of information
 
-It is the policy of runyourpool.com that personal information, such as your name and email address, is private and confidential. Because your privacy is important to us, runyourpool.com maintains this website privacy statement to protect your personal information. By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law. 
+Ely Cathedral complies with and is registered under the Data Protection Act 1998 in the United Kingdom. We take all reasonable care to prevent any unauthorised access to and use of your personal data.
 
-**Information We Collect**
+Our staff maintain a responsibility to keep your information confidential and will only use it to offer relevant information related to your enquiry.
 
-(1) Site Activity Data  
-Each time a visitor comes to this website, our web server collects and logs certain information. These access logs are kept for a reasonable period of time. These logs include, but are not restricted to your username (if applicable), date, and time. These logs are used solely for performance, site administration and security reviews. They are not sold or shared in any way to third party organizations.
+Any personal details that we use to provide or promote ourselves to you (e.g. name, address, email address, telephone number) will not be passed to any third party organisation for marketing purposes without your permission and will not be used by us for any purpose other than that which you requested.
 
-(2) Cookies  
-The website uses cookies for security and authentication purposes only. This information is used solely to maintain your authentication status and minimal account information. This information is not shared or sold to third party organizations for any purpose.
+The Internet is not a secure medium. However to protect your data we put in place various security procedures including use of firewalls, backup measures, we limit access to data to relevant personnel and password protect all machinery holding personal data.
 
-(3) Personal Information  
-Personal information, such as your name and email address is collected only when you voluntarily provide it when creating or joining a pool. Unlike many sites, we collect as little personal information possible, just that information required to provide our services.
+## Cookies
 
-The personal information you provide is accessible only to members of your private pool, your pool administrator, and to site administrators.
+Ely Cathedral� web site does not use �cookies�. A 'cookie' is a piece of information that is held on your PC, which enables our website to recognise you on subsequent visits and allows us to tailor your visit to your specific requirements.
 
-Personal information will not be sold to any third parties, nor will such information be added to bulk email lists.
+## Email
 
-**Policy Revisions**
+Ely Cathedral complies with the Privacy and Electronic Communications Regulations 2003 in the United Kingdom.
 
-Changes to runyourpool.com's privacy policy may occur from time to time without notice to you. However, all privacy policy changes will be reflected in this document.
+We respect the privacy of personal email accounts and we store your email address as securely as any other personal information we hold. We will not send you unwanted email messages or junk mail and your details will not be passed to any organisation outside Ely Cathedral without your explicit permission.
 
-If you have any questions about this privacy statement or wish to update any of the personal information you have provided to us, contact us at 
+If you have given us permission, we may use email to send you messages to keep you up to date with news about ourselves , as well as anything you express an interest in, either online or through other contact with Ely Cathedral.
 
-[_support@runyourpool.com_](mailto:support@runyourpool.com).
+## Third party sites
+
+Third party internet sites that you can link through to from our website are not covered by our Privacy and Security policy, so we accept no responsibility or liability for these sites.
+
+## Ely Cathedral Shop Ltd
+
+**Ely Cathedral Shop Limited**  
+Registered in England and Wales  
+Company No: **01988081**  
+Registered Office  
+**Richmond House  
+Broad Street  
+Ely  
+Cambs  
+CB7 4AH**
