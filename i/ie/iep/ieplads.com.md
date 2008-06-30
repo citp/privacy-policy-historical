@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieplads.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225134605id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieplads.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072601id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
 
 # Jeevansathi Matrimonials- Privacy Policy
 
@@ -31,6 +31,6 @@ NO, All visitors to our site may browse the site, search the ads and view any ar
 5\. 
 
 **Can users contact any number of profiles in a single day?**   
-As a paid member of this site, you have the privilege to contact lots of profiles in a single day. However, there is a specified limit to 100 contacts for security reasons per day. If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time. 
+As a paid member of this site, you have the privilege to contact lots of profiles. However, there is a specified limit to 100 contacts for security reasons per day. If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time. 
 
 **Notice:** We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to webmaster@jeevansathi.com 
