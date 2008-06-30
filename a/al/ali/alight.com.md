@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234948id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630021727id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -48,6 +48,3 @@ When you enter your credit card number into the order form, it is transmitted ac
 If you are not the kind of person who worries about being hit by lightning as you're crossing the street, you probably don't have to worry that your credit card number will be intercepted on the way to a secure Web site. According to CNN, "The prevalent opinion... is that on-line credit card use is actually no riskier for consumers than traditional "low-tech" transactions." 
 
 So order with confidence at alight.com.
-
-[ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--27478.html)   
-
