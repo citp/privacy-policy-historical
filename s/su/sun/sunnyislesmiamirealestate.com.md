@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162020id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072504id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
-# Sunny Realty Of South Florida offers you the power of an unmatched database of Miami real estate listings, Miami MLS & Fort Lauderdale MLS
+# Sunny Realty Of South Florida Privacy Statement
 
-  |    
-|  |  |   
----|---|---  
-|  |   
----  
-  
-|   |   
 **We are committed** to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. That's why, when you visit Sunny Realty Of South FLorida, we help you maintain control over your data on the Internet. 
 
 **Specific types of information we ask for**
@@ -46,24 +39,13 @@ Sunny Realty Of South FLorida is the sole operator of the electronic web pages k
 
 **Mailing Address:**   
 Sunny Realty Of South FLorida  
-17086 Collins Ave  
+19370 Collins Ave, cu# 7  
 Sunny Isles Beach, FL 33160
 
- **Toll Free:**  
-1-877-368-2318
+**Toll Free:** 1-877-368-2318  
+**Customer Care:** 1-954-336-1016  
+**Fax:** 1-305-935-1301
 
-**Customer Care:**  
-954-336-1016
+**General Feedback:** [ info@Sunny-Realty.com](mailto:info@Sunny-Realty.com)
 
-**Fax:**  
-305-935-1301
-
-**General Feedback:** [ _info@Sunny-Realty.com_](mailto:info@Sunny-Realty.com)
-
-Effective Date: 12/25/2007   
----|---  
-|  |   
-  
-|    
-  
-| 
+Effective Date: 6/30/2008 
