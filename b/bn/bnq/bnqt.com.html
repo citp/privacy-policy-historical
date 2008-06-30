@@ -1,32 +1,30 @@
-<!--The following is the downloaded HTML source of the bnqt.com privacy policy that was archived on 2007-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070911173940id_/http%3A//bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnqt.com privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630090240id_/http%3A//www.bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Banquet social networking website providing action sport videos for the action sport community.">
-<meta name="keywords" content="banquet,bnqt,action sport,action,sport,sports,community,bmx,skate,fmx,moto cross,ski,mountain bike,surf,wakeboard,snowboard,video,video sharing,flash movie">
+<meta name="description" content="Banquet social networking website providing action sport videos and news for the action sport community.">
+<meta name="keywords" content="banquet,bnqt,action sport,action,sport,sports,community,bmx,skate,fmx,moto cross,ski,mountain bike,surf,wakeboard,news,latest events,snowboard,video,video sharing,flash movie">
 <link rel="shortcut icon" href="favicon.ico">
 
-<title>Bnqt.com -- Banquet Action Sports Video Community </title>
+<title>Privacy Policy — BNQT.com — Banquet Action Sports Digital Network</title>
+
+
+
+
 
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="/js/pngfix.js"></script>
 <![endif]-->
 
 <link rel="shortcut icon" href="/favicon.ico">
-<link href="includes/site.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-div.legal {
-	position:relative;
-	width:555px;
-//	height:3870px;
-	background:white url('/images/bg_userbar.jpg') repeat-x;
-        float: left;
-        margin: 0px 10px 0px 10px;
-}
-</style><script type="text/javascript" src="/js/scriptaculous/lib/prototype.js"></script>		
+<link href="/includes/site.css" rel="stylesheet" type="text/css">
+
+
+
+<script type="text/javascript" src="/js/scriptaculous/lib/prototype.js"></script>		
 <script type="text/javascript" src="/js/scriptaculous/src/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
+
 
 <!--// Additional JS functions - Start //-->
 <!--// Additional JS functions - End //-->
@@ -34,25 +32,21 @@ div.legal {
 <!--// Global JS functions - Start //-->
 <script type="text/javascript">
 
-function doClear(searchBox, default_string)          
-{
-        if (searchBox.value == default_string)
-                searchBox.value = '';        
-}
+function doClear(searchBox, default_string) {
+	if (searchBox.value == default_string) { searchBox.value = ''; }       
+	}
 
-function noClear(searchBox, default_string)         
-{
-        if (searchBox.value == '')        
-                searchBox.value = default_string;        
-}
+function noClear(searchBox, default_string) {
+	if (searchBox.value == '') { searchBox.value = default_string; }       
+	}
 
 function doSearch(form_id) {
         var searchForm = eval("$('" + form_id +"')");
-
         if (searchForm.keyword.value.length < 3) {
-		alert('Keyword must be greater than 2 characters.');
-                return(0);
-        }
+			alert('Keyword must be greater than 2 characters.');
+            return(0);
+        	}
+			
         queryString = Form.serialize(searchForm);
         var url = "ajax/ajax.advancedSearch.php";
         var myAjax = new Ajax.Request(url,
@@ -81,160 +75,1492 @@ function doSearch(form_id) {
 
 }
 
-</script>
-</head>
-<body>
-<div id="container">
-	<!-- HEADER IMAGE -->
-	<div style="text-align: center; height: 100px; width: 730px; margin: 0px auto;"><img src="/images/ads/FFT3.jpg" style="width:728px; height:90px; border:2px solid #999999;"></div>
-	<div id="header_container">
-        	<div style="position: relative; float: left; left:20px; top:0px; width:70px; height:70px;"><a href="/"><img src="/images/logo_header.jpg" border="0" style="width:70px; height:70px;"></a></div>         
-                <div style="position: relative; float: right; right:20px; top: 46px; width:110px; height:24px;">                         
-                                <a href="/"><img src="/images/bnqt_word.png" border="0" style="width:110px; height:24px;"></a>
-                </div>
-	</div>
-	<!-- SPORTS NAVIGATION AND SEARCH -->
-	<div style="width: 995px; height: 35px; position: relative; z-index: 8000">
-		<div class="sports_bar" style="left: -5px;">
-			<div style="padding:15px 5px 5px 5px;"><span style="display:none" id="current_menu_sport"></span>
-                		<div class="suckertreemenu">
-					<ul id="treemenu1">
+//--SLIDE MENU		
+function init_showhide() {
+	var sportxid = new Array;
+	sportxid["SKATE"] = 1;
+	sportxid["SURF"] = 2;
+	sportxid["MOTO"] = 3;
+	sportxid["BMX"] = 4;
+	sportxid["MTB"] = 5;
+	sportxid["WAKE"] = 6;
+	sportxid["SNOWBOARD"] = 7;
+	sportxid["SKI"] = 8;
+	sportxid["LIFESTYLE"] = 9;
+	var currSport = sportxid[''];
+	if (currSport != undefined) { showhide_controlpanel(currSport); }
+	}
 
-						<li style="padding:0px 10px;" id="skate">
-							<span onclick="self.location='/news.php?ms=SKATE'; return false">SKATE</span>
-                	        			<ul style="background-color:#1f7979;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=SKATE">&nbsp;&nbsp;&nbsp;SKATE HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=SKATE">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=SKATE">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=SKATE">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="surf">
-							<span onclick="self.location='/news.php?ms=SURF'; return false">SURF</span>
-                	        			<ul style="background-color:#415c7d;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=SURF">&nbsp;&nbsp;&nbsp;SURF HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=SURF">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=SURF">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=SURF">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="fmx">
-							<span onclick="self.location='/news.php?ms=FMX'; return false">FMX</span>
-                	        			<ul style="background-color:#603f84;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=FMX">&nbsp;&nbsp;&nbsp;FMX HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=FMX">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=FMX">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=FMX">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="bmx">
-							<span onclick="self.location='/news.php?ms=BMX'; return false">BMX</span>
-                	        			<ul style="background-color:#9b1192;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=BMX">&nbsp;&nbsp;&nbsp;BMX HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=BMX">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=BMX">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=BMX">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="mountainbike">
-							<span onclick="self.location='/news.php?ms=MTN+BIKE'; return false">MTN BIKE</span>
-                	        			<ul style="background-color:#90496e;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=MTN+BIKE">&nbsp;&nbsp;&nbsp;MTN BIKE HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=MTN+BIKE">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=MTN+BIKE">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=MTN+BIKE">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="wakeboard">
-							<span onclick="self.location='/news.php?ms=WAKEBOARD'; return false">WAKEBOARD</span>
-                	        			<ul style="background-color:#79383d;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=WAKEBOARD">&nbsp;&nbsp;&nbsp;WAKEBOARD HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=WAKEBOARD">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=WAKEBOARD">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=WAKEBOARD">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="snowboard">
-							<span onclick="self.location='/news.php?ms=SNOWBOARD'; return false">SNOWBOARD</span>
-                	        			<ul style="background-color:#654f0e;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=SNOWBOARD">&nbsp;&nbsp;&nbsp;SNOWBOARD HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=SNOWBOARD">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=SNOWBOARD">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=SNOWBOARD">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="ski">
-							<span onclick="self.location='/news.php?ms=SKI'; return false">SKI</span>
-                	        			<ul style="background-color:#618b4a;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=SKI">&nbsp;&nbsp;&nbsp;SKI HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=SKI">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=SKI">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li><a href="/cinema.php?ms=SKI">&nbsp;&nbsp;&nbsp;CINEMA</a></li>
-                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>						<li style="padding:0px 10px;" id="lifestyle">
-							<span onclick="self.location='/news.php?ms=LIFESTYLE'; return false">LIFESTYLE</span>
-                	        			<ul style="background-color:#468d5c;">
-                	        	        		<li style="height:10px;"></li>
-								<li><a href="/news.php?ms=LIFESTYLE">&nbsp;&nbsp;&nbsp;LIFESTYLE HOME</a></li>
-                	        	        		<li><a href="/content.php?ms=LIFESTYLE">&nbsp;&nbsp;&nbsp;NEWS</a></li>
-                	        	        		<li><a href="/videos.php?ms=LIFESTYLE">&nbsp;&nbsp;&nbsp;VIDEO</a></li><li>&nbsp;</li>                	        	        		<li style="height:10px;"></li>
-                	        			</ul>
-                	        		</li>                			</ul>
-				</div>
-				<div class="sports_bar_item" style="position: relative; bottom: 10px; left: 80px">
-                			<div style="position: relative; float: left; top: 10px">SEARCH:</div>
-                		        <div>
-						<form id="top_nav_search" method="post" action="javascript:void(0)" name="simpleSearch" onsubmit="doSearch(this.id)">
-							<input type="hidden" name="ss" value="">
-							<input type="hidden" name="searchSports[]" value="">
-							<input type="hidden" name="sortBy" value="keyword_count">
-							<input type="hidden" name="sortOrder" value="DESC">
-							<input type="hidden" name="type" value="1">
-                                			<input name="keyword" id="top_search_text" value="" style="width:100px; margin-bottom: 4px" onfocus="doClear(this, ' Search here...')" onblur="noClear(this, ' Search here...')">
-                                		       	<div id="suggest_fill" class="autocomplete" style="display:none;"></div><input type="image" name="submit" src="images/button_go.jpg" style="position: relative; top: 3px">
-							<a href="/search.php">advanced search</a>
-                               			</form>
-                                		<script type="text/javascript">
-                                			new Ajax.Autocompleter('top_search_text', 'suggest_fill', '/ajax/ajax.autofill.php', {paramName: 'suggest'});
-                                		</script>
-                        		</div>
-        			</div>
-			</div>
-		</div>
-	</div>
-<!--// left: 150px //-->
-	<div class="body_container"> 
-		<div style="float: left; width: 120px;">
-		<!-- USER / LOGIN BAR -->
-			<div class="user_bar">
-				<div style="padding:30px 0px 0px 0px;">
-					                	<a href="/signup.php" class="menu_sports">SIGNUP</a><br>
-        		        	LOGIN<br>
-        		        	<form method="post" action="login.php" id="accountLogin" style="font-size:10px;">
-        		               		<input type="hidden" name="doLogin" value="1">
-        		               		<input type="hidden" name="have_fields" value="1">
-        		               		<br>
-        		               		NAME:<br>
-        		               		<input class="input_box" style="width:85px" type="text" name="username" id="username"><br><br>
-        		               		PASSWORD:<br>
-        		               		<input class="input_box" type="password" name="password" id="password" style="width:60px; margin-bottom:5px;">
-       	        		       		<input type="image" src="/images/button_go.jpg"><br>
-        		               		<input type="checkbox"> <span style="font-size:9px;">REMEMBER ME</span>
-                			</form>
-				        	      		<div style="padding:10px; font-size: 9px">
-                			</div>
-        				
-				</div>
-			</div>
-			<!-- TOWER BANNER BENEATH THE USER BAR -->
-	        	<div class="ad_bottomleft">AD SPACE</div>
-		</div>
+function showhide_controlpanel(elementID) {
+        var panel_current_state = $("menuState").innerHTML;
+        if (panel_current_state == elementID) { //--HIDE W/ SAME ID
+                Effect.BlindUp('slider', {queue: 'end', fps: '70', duration: '0.50' });
+				$("menuItemLink"+ panel_current_state).className ='';
+                $("menuState").innerHTML = "H";
+        } else if (panel_current_state != "H" && elementID != "") { //-- SWITCH ID
+				$("menuItemLink"+ elementID).className ='selected';				
+				$("menuItemLink"+ panel_current_state).className ='';
+				$("subLinks").className ='selected' + elementID ;
+				$("menuState").innerHTML = elementID;
+                build_subNav(elementID - 1);
+		} else { //--OPEN ASIGN ID
+				if (elementID != undefined) {
+ 	            	Effect.BlindDown('slider', {queue: 'end', fps: '70', duration: '0.5' });
+					$("menuItemLink"+ elementID).className ='selected';
+					$("subLinks").className ='selected' + elementID ;
+					$("menuState").innerHTML = elementID;
+					build_subNav(elementID - 1);
+					}  
+        }
+}
+
+function build_subNav(sem) {
+	var sport = new Array('SKATE', 'SURF', 'MOTO', 'BMX', 'MTB', 'WAKE', 'SNOWBOARD', 'SKI', 'LIFESTYLE');
+	var forumsport = new Array('skate-f16','surf-f20','fmx-f24','bmx-f36','mountain-bike-f37','wakeboard-f38','snowboard-f39','ski-f40','general-f1');
+	var sportNumber = parseInt(0-1);
+	
+	if (sem == sportNumber) { //If sport IS selected
+		if (sem != 9) { //Build Sport Sub Menus for selected page
+			var subMenu = "<a href=\"/news.php?ms="+ sport[sem] +"\"  >"+ sport[sem] + " HOME</a>";
+			subMenu += "<a href=\"/content.php?ms="+ sport[sem] +"\"  >NEWS</a>";
+			subMenu += "<a href=\"/videos.php?ms="+ sport[sem] +"\"  >VIDEOS</a>";
+			subMenu += "";
+			subMenu += "<a href=\"/forums/"+ forumsport[sem] +"/index.html\">"+ sport[sem] +" FORUM</a>";
+		} else {  //Build Home Sub Menus
+			var subMenu = "<a href=\"/news.php\" class=\"\" >BNQT HOME</a>";
+			subMenu += "<a href=\"/content.php\" class=\"\" >ALL NEWS</a>";
+			subMenu += "<a href=\"/videos.php\" class=\"\" >BROWSE VIDEOS</a>";
+			subMenu += "<a href=\"/forums/\" class=\"\" >FORUMS</a>";
+		}
+	} else { //If sport is NOT selected
+		if (sem != 9) { //Build Sport Sub Menus
+			var subMenu = "<a href=\"/news.php?ms="+ sport[sem] +"\">"+ sport[sem] + " HOME</a>";
+			subMenu += "<a href=\"/content.php?ms="+ sport[sem] +"\">NEWS</a>";
+			subMenu += "<a href=\"/videos.php?ms="+ sport[sem] +"\">VIDEOS</a>";
+			subMenu += "";
+			subMenu += "<a href=\"/forums/"+ forumsport[sem] +"/index.html\">"+ sport[sem] +" FORUM</a>";
+		} else {  //Build Home Sub Menus
+			var subMenu = "<a href=\"/news.php\" class=\"\" >BNQT HOME</a>";
+			subMenu += "<a href=\"/content.php\" class=\"\" >ALL NEWS</a>";
+			subMenu += "<a href=\"/videos.php\" class=\"\" >BROWSE VIDEOS</a>";
+			subMenu += "<a href=\"/forums/\" class=\"\" >FORUMS</a>";
+		}
+	}
+	
+	$('subMenu').innerHTML = subMenu;
+}
+
+</script>
+
+
+
+
+
+<style type="text/css">
+
+
+
+/*-----45 DEGREE NAVIGATION MENU-----*/
+
+.slant {
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 2px;
+	list-style: none;
+	}
+	
+.slant li {
+	float: left;
+	text-align: center;
+	margin-right: -20px;
+	}
+	
+.slant a {
+	display: block;
+	text-decoration: none;
+	font-size: 8pt;
+	font-weight: normal;
+	}
+	
+.slant a em {
+	font-style: normal;
+	display: block;
+	padding: 0px;
+	height: 25px;
+	background: #1c1e22;
+	float: left;
+	cursor: pointer;
+	color: #848e97;
+	line-height: 20px;
+	}
+	
+.slant a b,
+a span {
+	cursor: pointer;
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #1c1e22;
+	}
+	
+.slant a span {
+	height: 0px;
+	border-top: 25px solid #1c1e22; 
+	border-right: 25px solid #2e3135;
+	}
+
+.slant a b.p1,
+.slant a b.p2,
+.slant a b.p3,
+.slant a b.p4,
+.slant a b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #1c1e22;
+	}
 		
+.slant a b.p1 {
+	height: 0px;
+	margin-top: 20px;
+	}
+	
+.slant a b.p2 {
+	height: 5px;
+	margin-top: 15px;
+	}
+	
+.slant a b.p3 {
+	height: 10px;
+	margin-top: 10px;
+	}
+	
+.slant a b.p4 {
+	height: 15px;
+	margin-top: 5px;
+	}
+	
+.slant a b.p5 {
+	height: 20px;
+	}
+	
+.slant a b.p6,
+.slant a b.p7,
+.slant a b.p8,
+.slant a b.p9,
+.slant a b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #1c1e22;
+	}
+	
+.slant a b.p6 {
+	height: 20px;
+	}
+	
+.slant a b.p7 {
+	height: 15px;
+	}
+	
+.slant a b.p8 {
+	height: 10px;
+	}
+	
+.slant a b.p9 {
+	height: 5px;
+	}
+	
+.slant a b.p10 {
+	height: 0px;
+	}
+
+.slant a.selected:hover b,
+.slant a.selected:hover em,
+.slant a.selected:hover span {
+	cursor:default;
+	}
+
+
+
+/*-------menuItem 1--------*/
+.slant #menuItem1 a:hover {
+	background: #a7a282;
+	}
+	
+.slant #menuItem1 a:hover em,
+.slant #menuItem1 a.selected em {
+	color: #535141;
+	background: #a7a282;
+	}
+	
+.slant #menuItem1 a:hover b.p1,
+.slant #menuItem1 a.selected b.p1,
+.slant #menuItem1 a:hover b.p2,
+.slant #menuItem1 a.selected b.p2,
+.slant #menuItem1 a:hover b.p3,
+.slant #menuItem1 a.selected b.p3,
+.slant #menuItem1 a:hover b.p4,
+.slant #menuItem1 a.selected b.p4,
+.slant #menuItem1 a:hover b.p5,
+.slant #menuItem1 a.selected b.p5 {
+	border-right-color: #a7a282;
+	background: #a7a282;
+	}
+	
+.slant #menuItem1 a:hover b.p6,
+.slant #menuItem1 a.selected b.p6,
+.slant #menuItem1 a:hover b.p7,
+.slant #menuItem1 a.selected b.p7,
+.slant #menuItem1 a:hover b.p8,
+.slant #menuItem1 a.selected b.p8,
+.slant #menuItem1 a:hover b.p9,
+.slant #menuItem1 a.selected b.p9,
+.slant #menuItem1 a:hover b.p10,
+.slant #menuItem1 a.selected b.p10 {
+	border-left-color: #a7a282;
+	background: #a7a282;
+	}
+	
+.slant #menuItem1 a:hover span,
+.slant #menuItem1 a.selected span {
+	border-top-color: #a7a282;
+	}
+
+
+
+/*-------menuItem 2--------*/
+.slant #menuItem2 a:hover {
+	background: #1e648c;
+	}
+	
+.slant #menuItem2 a:hover em,
+.slant #menuItem2 a.selected em {
+	color: #0f3246;
+	background: #1e648c;
+	}
+	
+.slant #menuItem2 a:hover b.p1,
+.slant #menuItem2 a.selected b.p1,
+.slant #menuItem2 a:hover b.p2,
+.slant #menuItem2 a.selected b.p2,
+.slant #menuItem2 a:hover b.p3,
+.slant #menuItem2 a.selected b.p3,
+.slant #menuItem2 a:hover b.p4,
+.slant #menuItem2 a.selected b.p4,
+.slant #menuItem2 a:hover b.p5,
+.slant #menuItem2 a.selected b.p5 {
+	border-right-color: #1e648c;
+	background: #1e648c;
+	}
+	
+.slant #menuItem2 a:hover b.p6,
+.slant #menuItem2 a.selected b.p6,
+.slant #menuItem2 a:hover b.p7,
+.slant #menuItem2 a.selected b.p7,
+.slant #menuItem2 a:hover b.p8,
+.slant #menuItem2 a.selected b.p8,
+.slant #menuItem2 a:hover b.p9,
+.slant #menuItem2 a.selected b.p9,
+.slant #menuItem2 a:hover b.p10,
+.slant #menuItem2 a.selected b.p10 {
+	border-left-color: #1e648c;
+	background: #1e648c;
+	}
+	
+.slant #menuItem2 a:hover span,
+.slant #menuItem2 a.selected span {
+	border-top-color: #1e648c;
+	}
+
+
+/*-------menuItem 3--------*/
+.slant #menuItem3 a:hover {
+	background: #63351c;
+	}
+	
+.slant #menuItem3 a:hover em,
+.slant #menuItem3 a.selected em {
+	color: #311a0e;
+	background: #63351c;
+	}
+	
+.slant #menuItem3 a:hover b.p1,
+.slant #menuItem3 a.selected b.p1,
+.slant #menuItem3 a:hover b.p2,
+.slant #menuItem3 a.selected b.p2,
+.slant #menuItem3 a:hover b.p3,
+.slant #menuItem3 a.selected b.p3,
+.slant #menuItem3 a:hover b.p4,
+.slant #menuItem3 a.selected b.p4,
+.slant #menuItem3 a:hover b.p5,
+.slant #menuItem3 a.selected b.p5 {
+	border-right-color: #63351c;
+	background: #63351c;
+	}
+	
+.slant #menuItem3 a:hover b.p6,
+.slant #menuItem3 a.selected b.p6,
+.slant #menuItem3 a:hover b.p7,
+.slant #menuItem3 a.selected b.p7,
+.slant #menuItem3 a:hover b.p8,
+.slant #menuItem3 a.selected b.p8,
+.slant #menuItem3 a:hover b.p9,
+.slant #menuItem3 a.selected b.p9,
+.slant #menuItem3 a:hover b.p10,
+.slant #menuItem3 a.selected b.p10 {
+	border-left-color: #63351c;
+	background: #63351c;
+	}
+	
+.slant #menuItem3 a:hover span,
+.slant #menuItem3 a.selected span {
+	border-top-color: #63351c;
+	}
+	
+	
+/*-------menuItem 4--------*/
+.slant #menuItem4 a:hover {
+	background: #806736;
+	}
+	
+.slant #menuItem4 a:hover em,
+.slant #menuItem4 a.selected em {
+	color: #40331b;
+	background: #806736;
+	}
+	
+.slant #menuItem4 a:hover b.p1,
+.slant #menuItem4 a.selected b.p1,
+.slant #menuItem4 a:hover b.p2,
+.slant #menuItem4 a.selected b.p2,
+.slant #menuItem4 a:hover b.p3,
+.slant #menuItem4 a.selected b.p3,
+.slant #menuItem4 a:hover b.p4,
+.slant #menuItem4 a.selected b.p4,
+.slant #menuItem4 a:hover b.p5,
+.slant #menuItem4 a.selected b.p5 {
+	border-right-color: #806736;
+	background: #806736;
+	}
+	
+.slant #menuItem4 a:hover b.p6,
+.slant #menuItem4 a.selected b.p6,
+.slant #menuItem4 a:hover b.p7,
+.slant #menuItem4 a.selected b.p7,
+.slant #menuItem4 a:hover b.p8,
+.slant #menuItem4 a.selected b.p8,
+.slant #menuItem4 a:hover b.p9,
+.slant #menuItem4 a.selected b.p9,
+.slant #menuItem4 a:hover b.p10,
+.slant #menuItem4 a.selected b.p10 {
+	border-left-color: #806736;
+	background: #806736;
+	}
+	
+.slant #menuItem4 a:hover span,
+.slant #menuItem4 a.selected span {
+	border-top-color: #806736;
+	}
+
+
+/*-------menuItem 5--------*/
+.slant #menuItem5 a:hover {
+	background: #446620;
+	}
+	
+.slant #menuItem5 a:hover em,
+.slant #menuItem5 a.selected em {
+	color: #223310;
+	background: #446620;
+	}
+	
+.slant #menuItem5 a:hover b.p1,
+.slant #menuItem5 a.selected b.p1,
+.slant #menuItem5 a:hover b.p2,
+.slant #menuItem5 a.selected b.p2,
+.slant #menuItem5 a:hover b.p3,
+.slant #menuItem5 a.selected b.p3,
+.slant #menuItem5 a:hover b.p4,
+.slant #menuItem5 a.selected b.p4,
+.slant #menuItem5 a:hover b.p5,
+.slant #menuItem5 a.selected b.p5 {
+	border-right-color: #446620;
+	background: #446620;
+	}
+	
+.slant #menuItem5 a:hover b.p6,
+.slant #menuItem5 a.selected b.p6,
+.slant #menuItem5 a:hover b.p7,
+.slant #menuItem5 a.selected b.p7,
+.slant #menuItem5 a:hover b.p8,
+.slant #menuItem5 a.selected b.p8,
+.slant #menuItem5 a:hover b.p9,
+.slant #menuItem5 a.selected b.p9,
+.slant #menuItem5 a:hover b.p10,
+.slant #menuItem5 a.selected b.p10 {
+	border-left-color: #446620;
+	background: #446620;
+	}
+	
+.slant #menuItem5 a:hover span,
+.slant #menuItem5 a.selected span {
+	border-top-color: #446620;
+	}
+
+
+/*-------menuItem 6--------*/
+.slant #menuItem6 a:hover {
+	background: #36787e;
+	}
+	
+.slant #menuItem6 a:hover em,
+.slant #menuItem6 a.selected em {
+	color: #1b3c3f;
+	background: #36787e;
+	}
+	
+.slant #menuItem6 a:hover b.p1,
+.slant #menuItem6 a.selected b.p1,
+.slant #menuItem6 a:hover b.p2,
+.slant #menuItem6 a.selected b.p2,
+.slant #menuItem6 a:hover b.p3,
+.slant #menuItem6 a.selected b.p3,
+.slant #menuItem6 a:hover b.p4,
+.slant #menuItem6 a.selected b.p4,
+.slant #menuItem6 a:hover b.p5,
+.slant #menuItem6 a.selected b.p5 {
+	border-right-color: #36787e;
+	background: #36787e;
+	}
+	
+.slant #menuItem6 a:hover b.p6,
+.slant #menuItem6 a.selected b.p6,
+.slant #menuItem6 a:hover b.p7,
+.slant #menuItem6 a.selected b.p7,
+.slant #menuItem6 a:hover b.p8,
+.slant #menuItem6 a.selected b.p8,
+.slant #menuItem6 a:hover b.p9,
+.slant #menuItem6 a.selected b.p9,
+.slant #menuItem6 a:hover b.p10,
+.slant #menuItem6 a.selected b.p10 {
+	border-left-color: #36787e;
+	background: #36787e;
+	}
+	
+.slant #menuItem6 a:hover span,
+.slant #menuItem6 a.selected span {
+	border-top-color: #36787e;
+	}
+
+/*-------menuItem 7--------*/
+.slant #menuItem7 a:hover {
+	background: #75b5d9;
+	}
+	
+.slant #menuItem7 a:hover em,
+.slant #menuItem7 a.selected em {
+	color: #3a5a6c;
+	background: #75b5d9;
+	}
+	
+.slant #menuItem7 a:hover b.p1,
+.slant #menuItem7 a.selected b.p1,
+.slant #menuItem7 a:hover b.p2,
+.slant #menuItem7 a.selected b.p2,
+.slant #menuItem7 a:hover b.p3,
+.slant #menuItem7 a.selected b.p3,
+.slant #menuItem7 a:hover b.p4,
+.slant #menuItem7 a.selected b.p4,
+.slant #menuItem7 a:hover b.p5,
+.slant #menuItem7 a.selected b.p5 {
+	border-right-color: #75b5d9;
+	background: #75b5d9;
+	}
+	
+.slant #menuItem7 a:hover b.p6,
+.slant #menuItem7 a.selected b.p6,
+.slant #menuItem7 a:hover b.p7,
+.slant #menuItem7 a.selected b.p7,
+.slant #menuItem7 a:hover b.p8,
+.slant #menuItem7 a.selected b.p8,
+.slant #menuItem7 a:hover b.p9,
+.slant #menuItem7 a.selected b.p9,
+.slant #menuItem7 a:hover b.p10,
+.slant #menuItem7 a.selected b.p10 {
+	border-left-color: #75b5d9;
+	background: #75b5d9;
+	}
+	
+.slant #menuItem7 a:hover span,
+.slant #menuItem7 a.selected span {
+	border-top-color: #75b5d9;
+	}
+
+
+/*-------menuItem 8--------*/
+.slant #menuItem8 a:hover {
+	background: #a5c0cd;
+	}
+	
+.slant #menuItem8 a:hover em,
+.slant #menuItem8 a.selected em {
+	color: #526066;
+	background: #a5c0cd;
+	}
+	
+.slant #menuItem8 a:hover b.p1,
+.slant #menuItem8 a.selected b.p1,
+.slant #menuItem8 a:hover b.p2,
+.slant #menuItem8 a.selected b.p2,
+.slant #menuItem8 a:hover b.p3,
+.slant #menuItem8 a.selected b.p3,
+.slant #menuItem8 a:hover b.p4,
+.slant #menuItem8 a.selected b.p4,
+.slant #menuItem8 a:hover b.p5,
+.slant #menuItem8 a.selected b.p5 {
+	border-right-color: #a5c0cd;
+	background: #a5c0cd;
+	}
+	
+.slant #menuItem8 a:hover b.p6,
+.slant #menuItem8 a.selected b.p6,
+.slant #menuItem8 a:hover b.p7,
+.slant #menuItem8 a.selected b.p7,
+.slant #menuItem8 a:hover b.p8,
+.slant #menuItem8 a.selected b.p8,
+.slant #menuItem8 a:hover b.p9,
+.slant #menuItem8 a.selected b.p9,
+.slant #menuItem8 a:hover b.p10,
+.slant #menuItem8 a.selected b.p10 {
+	border-left-color: #a5c0cd;
+	background: #a5c0cd;
+	}
+	
+.slant #menuItem8 a:hover span,
+.slant #menuItem8 a.selected span {
+	border-top-color: #a5c0cd;
+	}
+
+
+/*-------menuItem 9--------*/
+.slant #menuItem9 a:hover {
+	background: #435440;
+	}
+	
+.slant #menuItem9 a:hover em,
+.slant #menuItem9 a.selected em {
+	color: #212a20;
+	background: #435440;
+	}
+	
+.slant #menuItem9 a:hover b.p1,
+.slant #menuItem9 a.selected b.p1,
+.slant #menuItem9 a:hover b.p2,
+.slant #menuItem9 a.selected b.p2,
+.slant #menuItem9 a:hover b.p3,
+.slant #menuItem9 a.selected b.p3,
+.slant #menuItem9 a:hover b.p4,
+.slant #menuItem9 a.selected b.p4,
+.slant #menuItem9 a:hover b.p5,
+.slant #menuItem9 a.selected b.p5 {
+	border-right-color: #435440;
+	background: #435440;
+	}
+	
+.slant #menuItem9 a:hover b.p6,
+.slant #menuItem9 a.selected b.p6,
+.slant #menuItem9 a:hover b.p7,
+.slant #menuItem9 a.selected b.p7,
+.slant #menuItem9 a:hover b.p8,
+.slant #menuItem9 a.selected b.p8,
+.slant #menuItem9 a:hover b.p9,
+.slant #menuItem9 a.selected b.p9,
+.slant #menuItem9 a:hover b.p10,
+.slant #menuItem9 a.selected b.p10 {
+	border-left-color: #435440;
+	background: #435440;
+	}
+	
+.slant #menuItem9 a:hover span,
+.slant #menuItem9 a.selected span {
+	border-top-color: #435440;
+	}
+
+
+/*-------menuItem 10--------*/
+.slant #menuItem10 a:hover {
+	background: #de9e52;
+	}
+	
+.slant #menuItem10 a:hover em,
+.slant #menuItem10 a.selected em {
+	color: #1c1e22;
+	background: #de9e52;
+	}
+	
+.slant #menuItem10 a:hover b.p1,
+.slant #menuItem10 a.selected b.p1,
+.slant #menuItem10 a:hover b.p2,
+.slant #menuItem10 a.selected b.p2,
+.slant #menuItem10 a:hover b.p3,
+.slant #menuItem10 a.selected b.p3,
+.slant #menuItem10 a:hover b.p4,
+.slant #menuItem10 a.selected b.p4,
+.slant #menuItem10 a:hover b.p5,
+.slant #menuItem10 a.selected b.p5 {
+	border-right-color: #de9e52;
+	background: #de9e52;
+	}
+	
+.slant #menuItem10 a:hover b.p6,
+.slant #menuItem10 a.selected b.p6,
+.slant #menuItem10 a:hover b.p7,
+.slant #menuItem10 a.selected b.p7,
+.slant #menuItem10 a:hover b.p8,
+.slant #menuItem10 a.selected b.p8,
+.slant #menuItem10 a:hover b.p9,
+.slant #menuItem10 a.selected b.p9,
+.slant #menuItem10 a:hover b.p10,
+.slant #menuItem10 a.selected b.p10 {
+	border-left-color: #de9e52;
+	background: #de9e52;
+	}
+	
+.slant #menuItem10 a:hover span,
+.slant #menuItem10 a.selected span {
+	border-top-color: #de9e52;
+	}
+
+/*--------------------------*/
+
+
+.slant2 {
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 2px;
+	list-style: none;
+	}
+	
+.slant2 li {
+	float: left;
+	text-align: center;
+	margin-right: -20px;
+	}
+	
+.slant2 #subLinks b.p1 {
+	height: 0px;
+	margin-top: 20px;
+	}
+	
+.slant2 #subLinks b.p2 {
+	height: 5px;
+	margin-top: 15px;
+	}
+	
+.slant2 #subLinks b.p3 {
+	height: 10px;
+	margin-top: 10px;
+	}
+	
+.slant2 #subLinks b.p4 {
+	height: 15px;
+	margin-top: 5px;
+	}
+	
+.slant2 #subLinks b.p5 {
+	height: 20px;
+	}	
+	
+
+.slant2 #subLinks b,
+#subLinks #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #1c1e22;
+	}		
+	
+.slant2 #subLinks b.p1,
+.slant2 #subLinks b.p2,
+.slant2 #subLinks b.p3,
+.slant2 #subLinks b.p4,
+.slant2 #subLinks b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #1c1e22; 
+	}
+	
+.slant2 #subLinks b.p6,
+.slant2 #subLinks b.p7,
+.slant2 #subLinks b.p8,
+.slant2 #subLinks b.p9,
+.slant2 #subLinks b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #1c1e22; 
+	}
+	
+.slant2 #subLinks b.p6 {
+	height: 20px;
+	}
+	
+.slant2 #subLinks b.p7 {
+	height: 15px;
+	}
+	
+.slant2 #subLinks b.p8 {
+	height: 10px;
+	}
+	
+.slant2 #subLinks b.p9 {
+	height: 5px;
+	}
+	
+.slant2 #subLinks b.p10 {
+	height: 0px;
+	}
+	
+#subMenu a {
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+	
+
+/*--------Submenu 1----------*/
+
+.slant2 #subLinks.selected1 b,
+#subLinks.selected1 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #a7a282;
+	}
+	
+.slant2 #subLinks.selected1 b.p1,
+.slant2 #subLinks.selected1 b.p2,
+.slant2 #subLinks.selected1 b.p3,
+.slant2 #subLinks.selected1 b.p4,
+.slant2 #subLinks.selected1 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #a7a282;
+	}
+	
+.slant2 #subLinks.selected1 b.p6,
+.slant2 #subLinks.selected1 b.p7,
+.slant2 #subLinks.selected1 b.p8,
+.slant2 #subLinks.selected1 b.p9,
+.slant2 #subLinks.selected1 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #a7a282;
+	}
+	
+.slant2 #subLinks.selected1 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #535141;
+	line-height: 20px;
+	}
+	
+.slant2 #subLinks.selected1 a:hover {
+	background: #535141;
+	color: #d3cea2;
+	text-decoration: none;
+	}
+
+	
+/*--------Submenu 2----------*/
+
+.slant2 #subLinks.selected2 b,
+#subLinks.selected2 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #1e648c;
+	}
+	
+.slant2 #subLinks.selected2 b.p1,
+.slant2 #subLinks.selected2 b.p2,
+.slant2 #subLinks.selected2 b.p3,
+.slant2 #subLinks.selected2 b.p4,
+.slant2 #subLinks.selected2 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #1e648c;
+	}
+	
+.slant2 #subLinks.selected2 b.p6,
+.slant2 #subLinks.selected2 b.p7,
+.slant2 #subLinks.selected2 b.p8,
+.slant2 #subLinks.selected2 b.p9,
+.slant2 #subLinks.selected2 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #1e648c;
+	}
+	
+.slant2 #subLinks.selected2 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #0f3246;
+	line-height: 20px;
+	}
+
+.slant2 #subLinks.selected2 a:hover {
+	background: #0f3246;
+	color: #40afe1;
+	text-decoration: none;
+	}
+	
+/*--------Submenu 3----------*/
+
+.slant2 #subLinks.selected3 b,
+#subLinks.selected3 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #63351c;
+	}
+	
+.slant2 #subLinks.selected3 b.p1,
+.slant2 #subLinks.selected3 b.p2,
+.slant2 #subLinks.selected3 b.p3,
+.slant2 #subLinks.selected3 b.p4,
+.slant2 #subLinks.selected3 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #63351c;
+	}
+	
+.slant2 #subLinks.selected3 b.p6,
+.slant2 #subLinks.selected3 b.p7,
+.slant2 #subLinks.selected3 b.p8,
+.slant2 #subLinks.selected3 b.p9,
+.slant2 #subLinks.selected3 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #63351c;
+	}
+	
+.slant2 #subLinks.selected3 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #311a0e;
+	line-height: 20px;
+	}
+
+.slant2 #subLinks.selected3 a:hover {
+	background: #311a0e;
+	color: #c68d5a;
+	text-decoration: none;
+	}
+
+/*--------Submenu 4----------*/
+
+.slant2 #subLinks.selected4 b,
+#subLinks.selected4 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #806736;
+	}
+	
+.slant2 #subLinks.selected4 b.p1,
+.slant2 #subLinks.selected4 b.p2,
+.slant2 #subLinks.selected4 b.p3,
+.slant2 #subLinks.selected4 b.p4,
+.slant2 #subLinks.selected4 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #806736;
+	}
+	
+.slant2 #subLinks.selected4 b.p6,
+.slant2 #subLinks.selected4 b.p7,
+.slant2 #subLinks.selected4 b.p8,
+.slant2 #subLinks.selected4 b.p9,
+.slant2 #subLinks.selected4 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #806736;
+	}
+	
+.slant2 #subLinks.selected4 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #40331b;
+	line-height: 20px;
+	}
+	
+.slant2 #subLinks.selected4 a:hover {
+	background: #40331b;
+	color: #c9ab6c;
+	text-decoration: none;
+	}
+	
+/*--------Submenu 5----------*/
+
+.slant2 #subLinks.selected5 b,
+#subLinks.selected5 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #446620;
+	}
+	
+.slant2 #subLinks.selected5 b.p1,
+.slant2 #subLinks.selected5 b.p2,
+.slant2 #subLinks.selected5 b.p3,
+.slant2 #subLinks.selected5 b.p4,
+.slant2 #subLinks.selected5 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #446620;
+	}
+	
+.slant2 #subLinks.selected5 b.p6,
+.slant2 #subLinks.selected5 b.p7,
+.slant2 #subLinks.selected5 b.p8,
+.slant2 #subLinks.selected5 b.p9,
+.slant2 #subLinks.selected5 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #446620;
+	}
+	
+.slant2 #subLinks.selected5 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #223310;
+	line-height: 20px;
+	}	
+
+.slant2 #subLinks.selected5 a:hover {
+	background: #223310;
+	color: #9dc667;
+	text-decoration: none;
+	}
+		
+/*--------Submenu 6----------*/
+
+.slant2 #subLinks.selected6 b,
+#subLinks.selected6 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #36787e;
+	}
+	
+.slant2 #subLinks.selected6 b.p1,
+.slant2 #subLinks.selected6 b.p2,
+.slant2 #subLinks.selected6 b.p3,
+.slant2 #subLinks.selected6 b.p4,
+.slant2 #subLinks.selected6 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #36787e;
+	}
+	
+.slant2 #subLinks.selected6 b.p6,
+.slant2 #subLinks.selected6 b.p7,
+.slant2 #subLinks.selected6 b.p8,
+.slant2 #subLinks.selected6 b.p9,
+.slant2 #subLinks.selected6 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #36787e;
+	}
+	
+.slant2 #subLinks.selected6 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #1b3c3f;
+	line-height: 20px;
+	}
+	
+.slant2 #subLinks.selected6 a:hover {
+	background: #1b3c3f;
+	color: #7cc9cf;
+	text-decoration: none;
+	}
+		
+	
+/*--------Submenu 7----------*/
+
+.slant2 #subLinks.selected7 b,
+#subLinks.selected7 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #75b5d9;
+	}
+	
+.slant2 #subLinks.selected7 b.p1,
+.slant2 #subLinks.selected7 b.p2,
+.slant2 #subLinks.selected7 b.p3,
+.slant2 #subLinks.selected7 b.p4,
+.slant2 #subLinks.selected7 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #75b5d9;
+	}
+	
+.slant2 #subLinks.selected7 b.p6,
+.slant2 #subLinks.selected7 b.p7,
+.slant2 #subLinks.selected7 b.p8,
+.slant2 #subLinks.selected7 b.p9,
+.slant2 #subLinks.selected7 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #75b5d9;
+	}
+		
+.slant2 #subLinks.selected7 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #3a5a6c;
+	line-height: 20px;
+	}
+	
+.slant2 #subLinks.selected7 a:hover {
+	background: #3a5a6c;
+	color: #a0d6f3;
+	text-decoration: none;
+	}
+
+	
+/*--------Submenu 8----------*/
+
+.slant2 #subLinks.selected8 b,
+#subLinks.selected8 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #a5c0cd;
+	}
+	
+.slant2 #subLinks.selected8 b.p1,
+.slant2 #subLinks.selected8 b.p2,
+.slant2 #subLinks.selected8 b.p3,
+.slant2 #subLinks.selected8 b.p4,
+.slant2 #subLinks.selected8 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #a5c0cd;
+	}
+	
+.slant2 #subLinks.selected8 b.p6,
+.slant2 #subLinks.selected8 b.p7,
+.slant2 #subLinks.selected8 b.p8,
+.slant2 #subLinks.selected8 b.p9,
+.slant2 #subLinks.selected8 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #a5c0cd;
+	}
+	
+.slant2 #subLinks.selected8 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #526066;
+	line-height: 20px;
+	}
+	
+.slant2 #subLinks.selected8 a:hover {
+	background: #526066;
+	color: #daeaf2;
+	text-decoration: none;
+	}
+	
+
+/*--------Submenu 9----------*/
+
+.slant2 #subLinks.selected9 b,
+#subLinks.selected9 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #435440;
+	}
+	
+.slant2 #subLinks.selected9 b.p1,
+.slant2 #subLinks.selected9 b.p2,
+.slant2 #subLinks.selected9 b.p3,
+.slant2 #subLinks.selected9 b.p4,
+.slant2 #subLinks.selected9 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #435440;
+	}
+	
+.slant2 #subLinks.selected9 b.p6,
+.slant2 #subLinks.selected9 b.p7,
+.slant2 #subLinks.selected9 b.p8,
+.slant2 #subLinks.selected9 b.p9,
+.slant2 #subLinks.selected9 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #435440;
+	}
+	
+.slant2 #subLinks.selected9 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #212a20;
+	line-height: 20px;
+	}
+
+.slant2 #subLinks.selected9 a:hover {
+	background: #212a20;
+	color: #7b9277;
+	text-decoration: none;
+	}
+	
+/*--------Submenu 10----------*/
+
+.slant2 #subLinks.selected10 b,
+#subLinks.selected10 #subMenuItems {
+	/*cursor:pointer;*/
+	display: block;
+	width: 0px;
+	overflow: hidden;
+	float: left;
+	background: #de9e52;
+	}
+	
+.slant2 #subLinks.selected10 b.p1,
+.slant2 #subLinks.selected10 b.p2,
+.slant2 #subLinks.selected10 b.p3,
+.slant2 #subLinks.selected10 b.p4,
+.slant2 #subLinks.selected10 b.p5 {
+	border-top: 5px solid #2e3135;
+	border-right: 5px solid #de9e52;
+	}
+	
+.slant2 #subLinks.selected10 b.p6,
+.slant2 #subLinks.selected10 b.p7,
+.slant2 #subLinks.selected10 b.p8,
+.slant2 #subLinks.selected10 b.p9,
+.slant2 #subLinks.selected10 b.p10 {
+	border-bottom: 5px solid #2e3135;
+	border-left: 5px solid #de9e52;
+	}
+	
+.slant2 #subLinks.selected10 a {
+	font-style: normal;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 3px;
+	height: 20px;
+	float:left;
+	/*cursor:pointer;*/
+	color: #1c1e22;
+	line-height: 20px;
+	}
+
+.slant2 #subLinks.selected10 a:hover {
+	background: #1c1e22;
+	color: #de9e52;
+	text-decoration: none;
+	}
+
+
+/*----------------------------*/
+
+#navMenu {
+	width: 1000px;
+	padding-top: 1px;
+	background-color: #2e3135;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #393f44;
+	}
+
+#mainMenu {
+	margin-left: 27px;
+	}
+	
+#mainMenu a {
+	text-decoration: none;
+	}
+
+#simpleSearch {
+	position: relative;
+	right: 0%;
+	top: 0%;
+	}
+
+#slider {
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	width: 1000px;
+	display: block;
+	}
+
+#subMenu span {
+	margin-top: 5px;
+	display: inline;
+	}
+
+#subMenu a {
+	margin: 0px 5px;
+	padding: 0px 10px;
+	}
+	
+#subMenu a.selected:link,
+#subMenu a.selected:visited,
+#subMenu a.selected:hover,
+#subMenu a.selected:active {
+	color: #1c1e22;
+	background-color: #de9e52;
+	border-left: 1px solid #1c1e22;
+	border-right: 1px solid #1c1e22;
+	}
+	
+#accountLoginForm {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	text-align: right;
+	width: 300px;
+	float: right;
+	color: #888e9a;
+	font-weight: normal;
+	padding: 2px;
+	font-weight: normal;
+	}
+	
+#accountLoginForm a {
+	color: #f79a2c;
+	font-weight: normal;
+	}
+	
+#accountLoginForm small {
+	font-size: 7pt;
+	}
+	
+#accountLoginForm input {
+	font-size: 7pt;
+	}
+
+#accountLogin {
+	font-size: 7pt;
+	width: 120px;
+	margin-left: 3px;
+	text-align: left;
+	}
+		
+</style>
+
+
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--MASTER TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" id="pageBounds" style="z-index: 1;">
+<tbody><tr><td bgcolor="#2e3135" height="155" valign="top" style="background: url(/images/topHead.gif) no-repeat;">
+
+
+<!--Return Home TransTile-->
+<div style="position: absolute; top: 17px; left: 50%; margin-left: -498px;">
+    <a href="/"><img src="/images/transTile.gif" width="150" height="139" border="0"></a>
+</div>
+
+
+<!--LOGIN BOX-->
+
+    <form method="POST" action="/login.php" id="accountLoginForm">
+        <input type="hidden" name="doLogin" value="1">
+		<input type="hidden" name="have_fields" value="1">
+        <small>USER : </small><input class="input_box" type="text" size="9" name="username" id="username">
+        <small>PASSWORD : </small><input class="input_box" type="password" size="9" name="password" id="password">
+        <input type="submit" value="LOGIN">
+		<div style="clear: left; margin-top: 2px;">
+			<input type="checkbox" checked="checked"><small> REMEMBER ME &nbsp; <a href="/forgot_password.php">LOST PASSWORD?</a> &nbsp; <a href="/signup.php">REGISTER</a></small>
+		</div>
+    </form>
+	
+
+<!--AD TECH TOP 728x90-->
+<div style="text-align: center; height: 90px; width: 728px; float: right; margin: 10px 25px 0px 0px; border: 1px solid #111111;">
+    <!--IFRAME Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: Homepage // Placement: TopB728x90 (69790) // created at: Dec 10, 2007 8:37:11 PM   -->
+<iframe width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5105/69790/0/225/ADTECH;target=_blank;key=key1+key2+key3+key4;grp=[group]"><script language="javascript" src="http://adserver.adtechus.com/addyn/3.0/5105/69790/0/225/ADTECH;loc=700;target=_blank;key=key1+key2+key3+key4;grp=[group]"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5105/69790/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5105/69790/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="728" height="90"></a></noscript></iframe>
+<!-- End of IFRAME Tag --></div>
+	
+
+</td></tr>
+<tr><td bgcolor="#2e3135">
+
+
+<!--SPORTS NAVIGATION AND SEARCH-->
+<div id="navMenu">
+<span id="menuState" style="display: none;">H</span>
+    <ul class="slant" id="mainMenu">
+    	<li id="menuItem10"><a onclick="showhide_controlpanel(10);" id="menuItemLink10" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em><img src="/images/transB.png" width="18" height="16" style="margin-top:4px; padding-left:1px;"></em><span></span></a></li>
+        <li id="menuItem1"><a href="/news.php?ms=SKATE" id="menuItemLink1" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SKATE</em><span></span></a></li>
+        <li id="menuItem2"><a href="/news.php?ms=SURF" id="menuItemLink2" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SURF</em><span></span></a></li>
+        <li id="menuItem3"><a href="/news.php?ms=MOTO" id="menuItemLink3" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MOTO</em><span></span></a></li>
+        <li id="menuItem4"><a href="/news.php?ms=BMX" id="menuItemLink4" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>BMX</em><span></span></a></li>
+        <li id="menuItem5"><a href="/news.php?ms=MTB" id="menuItemLink5" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MTB</em><span></span></a></li>
+        <li id="menuItem6"><a href="/news.php?ms=WAKE" id="menuItemLink6" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>WAKE</em><span></span></a></li>
+        <li id="menuItem7"><a href="/news.php?ms=SNOWBOARD" id="menuItemLink7" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SNOWBOARD</em><span></span></a></li>
+        <li id="menuItem8"><a href="/news.php?ms=SKI" id="menuItemLink8" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SKI</em><span></span></a></li>
+       	<li id="menuItem9"><a href="/news.php?ms=LIFESTYLE" id="menuItemLink9" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>LIFESTYLE</em><span></span></a></li>
+<!--//
+        <li id="menuItem11"><a href="/concreteMagazine/"><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MAGAZINE</em><b class="p6"></b><b class="p7"></b><b class="p8"></b><b class="p9"></b><b class="p10"></b></a></li>
+//-->
+    </ul>
+   
+
+    <form id="top_nav_search" method="post" action="javascript:void(0)" name="simpleSearch" onsubmit="doSearch(this.id)" style="float: right; margin-right: 5px;">                			
+        <input type="hidden" name="ss" value="">
+        <input type="hidden" name="searchSports[]" value="">
+        <input type="hidden" name="sortBy" value="keyword_count">
+        <input type="hidden" name="sortOrder" value="DESC">
+        <input type="hidden" name="type" value="1">
+        <input name="keyword" type="text" id="top_search_text" onfocus="doClear(this, ' Search')" onblur="noClear(this, ' Search')" value=" Search" size="10" style="font-size: 9pt;">
+            <div id="suggest_fill" class="autocomplete" style="display:none;"></div>
+        <input type="submit" name="submit" value="GO" style="font-size: 9pt;">
+        
+        <a href="/search.php" style="font-size:7pt; font-weight: normal; color: #888e9a;"> ADVANCED </a>                                                                            
+        
+        <script type="text/javascript">
+            new Ajax.Autocompleter('top_search_text', 'suggest_fill', '/ajax/ajax.autofill.php', {paramName: 'suggest', parameters: 'suggest_type=content_videos'});
+        </script>
+    </form>
+
+
+     <div id="slider" style="float: left; display: none;">
+        <ul class="slant2">
+            
+            <li>
+            	<span id="subLinks" class="">
+            		<b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b>
+            		<span id="subMenuItems" style="width: 974px; height: 25px;">
+            			<div id="subMenu"></div>
+            		</span>
+            	</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>   
+
+<script type="text/javascript">
+	init_showhide();
+</script>
+
+
+</td></tr>
+<tr><td>
+
+
+<!--BODY CONTAINER DIV-->
+<div class="body_container"> 
+
+<!-- LEFT COLUMN -->
+<div style="float: left; width: 120px;">
+        
+        
+<!-- USER / LOGIN BAR -->
+
+<div id="accountLogin">
+	<a href="/shop.php"><img align="absmiddle" src="/images/icon_shop.gif"> 0 Items in Cart </a>
+</div>
+	  
+        
+<!-- TOWER BANNER BENEATH THE USER BAR -->
+<div class="ad_bottomleft">
+    <!--IFRAME Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: Homepage // Placement: LeftSC120x600 (69711) // created at: Dec 10, 2007 8:37:10 PM   -->
+<iframe width="120" height="600" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5105/69711/0/168/ADTECH;target=_blank;key=key1+key2+key3+key4;grp=[group]"><script language="javascript" src="http://adserver.adtechus.com/addyn/3.0/5105/69711/0/168/ADTECH;loc=700;target=_blank;key=key1+key2+key3+key4;grp=[group]"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5105/69711/0/168/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5105/69711/0/168/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="120" height="600"></a></noscript></iframe>
+<!-- End of IFRAME Tag --></div>
+<!-- TOWER BANNER BENEATH THE USER BAR #2 -->
+<div class="ad_bottomleft_2" style="margin-top: 10px;">
+	
+    </div>
+
+
+
+
+       
+      
+            
+
+</div><!-- LEFT COLUMN CLOSE -->
+
 <div style="float: right; width: 875px; clear: right; margin: 0px auto;">
-<div class="legal">
-	<div class="section_title"><h1>Privacy Policy</h1></div>
-<p>Banquet / Bnqt.com. ("Banquet") is committed to protecting your online privacy when visiting a website operated by us. We do not collect and keep any personal information online from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information online from children under the age of 13 without consent of a parent or legal guardian, except in limited circumstances authorized by law and described in this policy. Please review the information below to familiarize yourself with our policies on website privacy, so that you can take full advantage of all the fun activities available at our sites for you and your family. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site.</p><br>
+        <div class="body" style="width:865px">
+                <div class="section_title">Privacy Policy</div>
+                <div style="padding:0px 20px;">
+
+                <p>Banquet / Bnqt.com. ("Banquet") is committed to protecting your online privacy when visiting a website operated by us. We do not collect and keep any personal information online from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information online from children under the age of 13 without consent of a parent or legal guardian, except in limited circumstances authorized by law and described in this policy. Please review the information below to familiarize yourself with our policies on website privacy, so that you can take full advantage of all the fun activities available at our sites for you and your family. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site.</p><br>
 
 <p>A SPECIAL NOTE FOR PARENTS AND LEGAL GUARDIANS:</p><br>
 
@@ -305,20 +1631,68 @@ function doSearch(form_id) {
 
 <p>Use of this site signifies your acceptance of the terms and conditions.</p><br>
 
-© 2005 Banquet / Bnqt.com, Inc. All Rights Reserved</div>
+© 2005 Banquet / Bnqt.com, Inc. All Rights Reserved
 
-<!-- TOP RIGHT AD SPACE -->
-<div class="ad_topright">AD SPACE</div>
-
+                </div>
+        </div>
 </div>
-	</div> 
-	<div class="footer_container">  
-	        <div class="ad_bottom"><a href="#"><img src="/images/ads/FFT3.jpg" style="width:728px; height:90px; border:2px solid #999999;"></a></div> 
-		<div style="text-align:center;"><p><a href="/legal.php?page=privacy">Privacy Policy</a> | <a href="/legal.php?page=terms">Terms of Use</a> | <a href="/contact.php">Contact Us</a></p></div>
-	</div> 
-</div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+	
+</div>
+
+</td></tr>
+<tr><td colspan="2" class="footer_container">
+
+
+    <!-- AD TECH BOTTOM 728x90 --> 
+
+    <div class="ad_bottom">
+	<!--IFRAME Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: Homepage // Placement: BottomB728x90 (69738) // created at: Dec 10, 2007 8:37:10 PM   -->
+<iframe width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtechus.com/adiframe/3.0/5105/69738/0/225/ADTECH;target=_blank;key=key1+key2+key3+key4;grp=[group]"><script language="javascript" src="http://adserver.adtechus.com/addyn/3.0/5105/69738/0/225/ADTECH;loc=700;target=_blank;key=key1+key2+key3+key4;grp=[group]"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5105/69738/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5105/69738/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="728" height="90"></a></noscript></iframe>
+<!-- End of IFRAME Tag --></div>     
+    
+    
+    <div id="pageBottom">
+        <p>
+        <a href="/legal.php?page=privacy">Privacy Policy</a> |
+        <a href="/legal.php?page=terms">Terms of Use</a> |
+        <a href="/2008_Sell-Sheet.pdf" target="_BLANK" onclick="javascript: pageTracker1._trackPageview('2008_Sell-Sheet.pdf'); pageTracker2._trackPageview('2008_Sell-Sheet.pdf');">Advertising</a> |
+        <a href="/faq.php">FAQ</a> |
+        <a href="/contact.php">Contact Us</a>
+        </p>
+    </div>
+	
+
+</td></tr>
+</tbody></table>
+
+
+
+
+<!-- End of JavaScript Tag -->
 <script type="text/javascript">
-_uacct = "UA-1395637-1";
-urchinTracker();
-</script></body></html>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker1 = _gat._getTracker("UA-1395637-1");
+pageTracker1._initData();
+pageTracker1._trackPageview();
+
+var pageTracker2 = _gat._getTracker("UA-3632331-1");
+pageTracker2._initData();
+pageTracker2._trackPageview();
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-1buSqyiYpOdiQ";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-1buSqyiYpOdiQ" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-1buSqyiYpOdiQ.gif" style="display: none" border="0" height="1" width="1" 
+alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+<img src="/bnqtst.php" style="width:0px; height:0px;">
+
+
+<!--// TL-0.0994780063629 //-->
+</body></html>
