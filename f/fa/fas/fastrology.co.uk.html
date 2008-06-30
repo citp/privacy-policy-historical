@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the fastrology.co.uk privacy policy that was archived on 2007-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616133627id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fastrology.co.uk privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630073206id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Fastrology | Privacy policy</title>
-<link rel="stylesheet" type="text/css" href="fastrology.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.fastrology.co.uk/d/fastrology/fastrology.css">
 <!--[if lt IE 7.]>
 		<script defer type="text/javascript" src="/pngfix.js"></script>
 		<![endif]-->
@@ -24,18 +24,24 @@
 _uacct = "UA-870262-1";
 urchinTracker();
 </script>
-<img src="http://img.fastrology.co.uk/images/button_song_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_colour_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_number_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_warning_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_signal_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_person_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_task_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_tarot_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_animal_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_people_on.gif" class="hide">
-<img src="http://img.fastrology.co.uk/images/button_tips_on.gif" class="hide">
-<div id="logo"><a href="http://www.fastrology.co.uk?ID=null"><img src="http://img.fastrology.co.uk/images/fastrology_logo.gif" border="0" alt="Fastrology"></a></div>
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_song_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_colour_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_number_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_warning_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_signal_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_person_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_task_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_tarot_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_animal_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_people_on.gif" class="hide">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/button_tips_on.gif" class="hide">
+<div id="logo"><a href="http://www.fastrology.co.uk/?ID=null">
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/fastrology_logo.gif" border="0" alt="Fastrology">
+<!--
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/fastrology_logo.gif" border="0" alt="Fastrology">
+-->
+</a>
+</div>
 <div>
 <table id="login-or-register" class="rightalign" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -105,7 +111,6 @@ urchinTracker();
 </select>
 <select name="dob_year_F" id="dob-year">
 <option value="">- Year - </option>
-<option>1922</option>
 <option>1923</option>
 <option>1924</option>
 <option>1925</option>
@@ -173,6 +178,7 @@ urchinTracker();
 <option>1987</option>
 <option>1988</option>
 <option>1989</option>
+<option>1990</option>
 </select>
 </td>
 </tr>
@@ -214,10 +220,29 @@ urchinTracker();
 </div>
 </td>
 </tr>
-</tbody></table><a href="/report?ID=null&amp;TL=8"><img src="/images/banner1.gif" style="border:0;"></a><div id="main-white">
+</tbody></table>
+</div>
+<div id="main-white">
 <div id="content">
-<div id="nav" class="floatleft">
+<script language="Javascript" type="text/javascript">
+            function changeLoc()
+            {
+                        index = 0;
+                        numberselected = document.getElementById('items').selectedIndex;
+                        document.getElementById('items').selectedIndex=0;
+	                 textsrc = document.getElementById('items').options[numberselected].value;
+                        newIndex = textsrc;
+	               
+       		   if (textsrc != "")
+                        {
+                                    parent.location.href = newIndex;
+                        }
+            }
+</script>
+<div id="nav" class="floatleft" style="text-align: left;">
 <ul>
+<li class="starsign"><a href="/index?ID=null">Homepage</a></li>
+<li style="background: #8353AB; padding: 5px 10px 5px 10px;"><b style=" color:white;">Horoscopes</b></li>
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Aries">Aries</a></li>
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Taurus">Taurus</a></li>
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Gemini">Gemini</a></li>
@@ -230,9 +255,10 @@ urchinTracker();
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Capricorn">Capricorn</a></li>
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Aquarius">Aquarius</a></li>
 <li class="starsign"><a href="/horoscope?ID=null&amp;sign=Pisces">Pisces</a></li>
-<li><a href="/report?ID=null&amp;TL=1">Personalised forecast</a></li>
-<li><a href="/privacy?ID=null">Privacy</a></li>
-<li><a href="/contact?ID=null">Contact us</a></li>
+<li class="starsign"><a href="shopfront?ID=null">Shop Online</a></li>
+<li><a href="competition?ID=null">Monthly Competition</a></li>
+<li style="background: #8353AB;padding: 5px 10px 5px 10px; "><b style="color: white;">Our astrologers</b></li>
+<li class="starsign"><a href="/mary?ID=null">Mary</a></li>
 <li class="navbase"><span class="hide">-</span></li>
 </ul>
 </div>
@@ -269,7 +295,7 @@ We use personal information collected via fastrology.co.uk to:
 </li><li> pass on to selected companies to provide you with other offers and promotions
 </li><li> help other companies profile and extend their databases
 </li><li> facilitate communication between yourself and others
-</li><li> allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData.
+</li><li> allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData and Financial Connexions Ltd. (FSA 441723).
 </li></ul>
 <p></p>
 <p>
@@ -335,7 +361,7 @@ cannot guarantee the security of any data you send to us.
 </p>
 <h3>Data Protection</h3>
 <p>
-fastrology.co.uk is wholly owned by Data Media and Retail Limited, which is registered
+fastrology.co.uk is wholly owned by Data Media and Research Limited, which is registered
 under the 1998 Data Protection Act, ref Z4579096
 and is a licensed credit broker (no. 437820)
 </p>
@@ -346,17 +372,40 @@ and is a licensed credit broker (no. 437820)
 <p>
 </p><ul>
 <li><a href="contact?ID=null">Contact Us</a></li>
-<li><a href="privacy?ID=null" class="endoflist">Privacy</a></li>
+<li><a href="/sitemap?ID=null">Site Map</a></li>
+<li><a href="privacy?ID=null">Privacy</a></li>
+<li class="endoflist"><a href="refunds?ID=null">Our Refund Policy</a></li>
+</ul>
+</div>
+<div id="footer" class="cleared" style="background-color:#8353AB;">
+<p>
+</p><ul>
+<li><a href="/horoscope?ID=null&amp;sign=Aries">Aries</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Taurus">Taurus</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Gemini">Gemini</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Cancer">Cancer</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Leo">Leo</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Virgo">Virgo</a></li>
 </ul>
 <p></p>
-</div>
-<div id="footer" class="cleared" style="background-color:#8353AB; height:59px;">
 <p>
-<img src="http://img.fastrology.co.uk/images/dma_mps_logos.gif" alt="logos">
+</p><ul>
+<li><a href="/horoscope?ID=null&amp;sign=Libra">Libra</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Scorpio">Scorpio</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Sagittarius">Sagittarius</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Capricorn">Capricorn</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Aquarius">Aquarius</a></li>
+<li><a href="/horoscope?ID=null&amp;sign=Pisces" style="border-right: 0;">Pisces</a></li>
+</ul>
+<p></p>
+<br><br>
+<p>
+<img src="http://cdn.fastrology.co.uk/d/fastrology/images/dma_mps_logos.gif" alt="logos">
 </p>
 </div>
 <div style="padding: 6px 0; background-color:#3a006a; text-align:center; color:#8353ab;">
-Fastrology - A daily free and fun <a style="color:#8353ab; text-decoration:none;" href="http://www.fastrology.co.uk">Horoscopes</a> and <a style="color:#8353ab; text-decoration:none;" href="http://www.fastrology.co.uk">Astrology</a> site<br>
+Fastrology - A daily free and fun <a style="color:#8353ab; text-decoration:none;" href="http://www.fastrology.co.uk">Horoscopes</a> and <a style="color:#8353ab; text-decoration:
+none;" href="http://www.fastrology.co.uk">Astrology</a> site<br>
 </div>
 <!-- Start of IntelliTracker Page Tag -->
 <script language="javascript"><!-- 
@@ -406,16 +455,14 @@ if(iie>0)dt.write("\<\!--");
 <img src="'http://anm.intelli-direct.com/e/t3.dll?731&0&%20&iAddPAR&iREGQry&iSale&0&0&0&0&0&0&%20&1500&%20&0'" height="1" width="1" border="0">
 </noscript><!--//-->
 <!-- End of IntelliTracker Page Tag -->
-</div><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="pragma" content="no-cache"><meta http-equiv="expires" content="-1"><meta name="MSSmartTagsPreventParsing" content="TRUE"><table>
+</div>
+</div>
 
 
-
-	
-
-
-
-
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
 
 
-
-</table></div></div></body></html>
+</body></html>
