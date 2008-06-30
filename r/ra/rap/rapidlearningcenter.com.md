@@ -1,35 +1,36 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203915id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630034111id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
-|   **Promotion**  
+|  [](http://www.bbbonline.org/cks.asp?id=108031018228)  
 ---  
-|  | **  
-** Buy any two Premium courses and get the 3rd one free. Phone Order Only. 
+  
+  **Need Help?**  
+---  
+  
+M-F: 9am-5pm(PST):  
+Toll-Free Order: (877) RAPID-10
 
-**Special Code:** DEC342   
+24/7 Technical Support:  
+[The Rapid Support Center](https://web.archive.org/web/20080630034111id_/http%3A//www.rapidlearningcenter.com/contact.html)
+
+Online Order with Instant Access:  
+[](https://www.rapidlearningcenter.com/members/signup.php)  
   
----|---  
-  
-  
-  **Toll-Free Info & Ordering: **  
+  **Member Login:**  
 ---  
-  
-     M-F: 9am-5pm (PST): **  
-(877) RAPID-10**  
-  
-  
+User ID:  |   
+Password:  |   
+  |   
   
   
-  
-  
-  **Tell-A-Friend**  
+  **Tell-A-Friend:**  
 ---  
   
 Have friends taking science and math courses too? Tell them about our rapid learning system.   
   
   
-  **Gift Certificate**  
+  **Gift Certificate:**  
 ---  
   
 Send a gift of education to someone you care. Give the learning edge with our rapid learning courses.
@@ -43,14 +44,13 @@ Send a gift of education to someone you care. Give the learning edge with our ra
   
   
   
-  
 
 
 **Privacy Policy**
 
 Online Privacy Statement
 
-The policy of Chemistry Survival Publishing is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
+The policy of Rapid Learning Center is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
 There are four types of information that this site may collect during your visit: network traffic logs, web visit logs, cookies, and information voluntarily provided by you.
 
