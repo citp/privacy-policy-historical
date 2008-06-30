@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211619id_/http%3A//www.ldproducts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630152150id_/http%3A//www.ldproducts.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ldproducts
 
@@ -18,7 +18,7 @@ This notice applies to all information collected or submitted on the LD Products
 
 
 
-On some pages, you can submit information about other people. For example, if you order a gift onliCRIPnd want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
   * Name
   * Address
@@ -54,6 +54,13 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+### Updates and Changes to Privacy Policy
+
+Although most changes are likely to be minor, ldproducts.com reserves the right, at any time and without notice, to add to, update, change or modify this privacy policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the website. Each time you use the website, the then-current version of this privacy policy will apply. Accordingly, each time you use the website you should check the date of this privacy policy (which appears at the end) and review any changes since the last time you used the website. Unless ldproducts.com obtains your express consent, any revised privacy policy will apply only to information collected after the effective date of such revised privacy policy, and not to information collected under any earlier privacy policy.
+
 ### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at [888-321-2552] or send us an [email](mailto:email@ldproducts.com). 
+
+  
+Effective January 24, 2008
