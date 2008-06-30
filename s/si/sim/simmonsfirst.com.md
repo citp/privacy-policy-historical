@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016055406id_/http%3A//www.simmonsfirst.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630094407id_/http%3A//www.simmonsfirst.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Privacy And Security: Simmons First National Bank
 
@@ -15,6 +15,8 @@ We will not disclose information about you to anyone except as disclosed in our 
 
 **[Click Here to view Simmons First's Privacy Policy For Consumers.](http://www.simmonsfirst.com/privacy/privacy.asp) **
 
+**
+
 ADDITIONAL WAYS TO MAKE YOUR BANKING WITH SIMMONS FIRST MORE SECURE
 
 FDIC Offers Identity Theft Help
@@ -23,13 +25,17 @@ View a multimedia presentation created by the FDIC, which provides information o
 
 Note: Macromedia Flash Player is required to view this presentation. The latest version of Macromedia Flash Player can be downloaded at <http://www.macromedia.com/go/getflashplayer>.
 
+Protect Yourself from Cashier’s Check Fraud
+
+The Office of the Comptroller of the Currency offers guidance in protecting yourself from Cashier’s Check Fraud. [>>>For More Information Click Here](http://www.occ.treas.gov/ftp/ADVISORY/2007-1.html)
+
 Protect Yourself From Email Fraud
 
 Typically, criminals send emails that look like they are from legitimate sources, but are not. The fake messages (Phishing) generally include a link to phony, or spoofed, websites where victims are asked to provide sensitive, personal information. The information goes to criminals, rather than the legitimate business. [>>>For More Information Click Here](https://web.archive.org/online/email_fraud.asp)
 
 MasterCard SecureCode
 
-The Security and Privacy of your payments are important. Protect your Simmons First MasterCard with your own personal password so only you can purchase with them online. It is easy safe and free of charge. [ >>>Click Here To Register](https://secure4.arcot.com/vpas/simmons_vbvisa/enroll/index.jsp?locale=en_US&bankid=1053).
+The Security and Privacy of your payments are important. Protect your Simmons First MasterCard with your own personal password so only you can purchase with them online. It is easy safe and free of charge. [ >>>Click Here To Register](https://secure4.arcot.com/vpas/simmons_vbvisa/enroll/index.jsp?locale=en_US&bankid=1053)
 
 STOP Mortgage Fraud
 
@@ -42,3 +48,5 @@ True Credit offers access to your personal credit information, credit monitoring
 Verified by VISA
 
 With Verified by Visa service you can password protect purchases when shopping at participating merchants on the internet with your Simmons First Visa Card. Verified by Visa is a free service offered to all Credit Card Customers. [>>>Register now for added security when you use your Simmons First Credit Card online](https://secure4.arcot.com/vpas/simmons_vbvisa/enroll/index.jsp?locale=en_US&bankid=1053). 
+
+[.](http://www.simmonsfirst.com/online/NEW_LOOK2.asp) **
