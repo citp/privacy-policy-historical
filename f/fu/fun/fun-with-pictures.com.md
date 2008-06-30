@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225190041id_/http%3A//www.fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630160901id_/http%3A//www.fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
 
 # Privacy Policy of Fun with Pictures
 
@@ -64,4 +64,8 @@ This web site contains links to other web sites. Please note that when you click
 
 © 2004 **Fun-with-Pictures.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
+
+
 Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
+
+[ Return to Pictures Index from Feedback Page](http://www.fun-with-pictures.com/pictures.html) or browse for [ More Fun Pictures](http://www.fun-with-pictures.com/coloringpagessearch.html?domains=www.fun-with-pictures.com&q=Fun%20Pictures&sa=Search&sitesearch=&client=pub-7125597699069942&forid=1&channel=6782018879&ie=ISO-8859-1&oe=ISO-8859-1&safe=active&flav=0000&sig=M7fgoB1E3ARCWv7F&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23ffffff%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3Affffff%3BLBGC%3Affffff%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=en)
