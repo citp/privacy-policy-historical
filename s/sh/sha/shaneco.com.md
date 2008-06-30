@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084253id_/http%3A//www.shaneco.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630162909id_/http%3A//www.shaneco.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -9,6 +9,8 @@
 [Home](https://web.archive.org/default.asp) > [Customer Service](https://web.archive.org/about/about_us.asp) > Our Privacy Policy 
 
 * * *
+
+Shane Co. does not share your personal info with anyone
 
 |  At ShaneCo.com, we are committed to protecting your privacy. We will never sell or give any of your personal information to anyone. The information we gather is used to provide better service and information to you, our customer.   
 ---  
@@ -71,8 +73,8 @@ If we decide to change our privacy policy, we will post notification of those ch
   
 
 
-I purchased two wedding rings through your site and was amazed at the dedication, knowledge and friendliness. I will never go anywhere else for our jewelry needs. 
+I purchased a necklace for our 35th anniversary. I must say that the stone is exquisite. The fire, color and clarity are outstanding. 
 
-Karen D. - St. Charles, MO
+Alex N. - Peyton, CO
 
 [ ](https://financial.wellsfargo.com/retailprivatelabel/initApp.do?profileNum=8710)
