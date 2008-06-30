@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227214203id_/http%3A//www.publishersweekly.com/info/CA337408.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630020759id_/http%3A//www.publishersweekly.com/info/CA337408.html) for the most accurate reproduction.*
 
 # Privacy Policy - publishers weekly
 
