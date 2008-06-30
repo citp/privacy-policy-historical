@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumforfree.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224051951id_/http%3A//www.premiumforfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumforfree.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630025226id_/http%3A//www.premiumforfree.com/privacy.php) for the most accurate reproduction.*
 
 # Premium Memberships For Free
 
