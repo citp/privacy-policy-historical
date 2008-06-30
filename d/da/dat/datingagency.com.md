@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230958id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630061837id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@ We are registered as Data Controllers with the Office of the Information Commiss
 
 ## Privacy contact
 
-Matters concerning your privacy on this site should be addressed to Gordon Daniel Smith through our [contact form](https://web.archive.org/contact/).
+Matters concerning your privacy on this site should be addressed to us through our [contact form](https://web.archive.org/contact/).
 
 ## How data is collected
 
@@ -33,13 +33,14 @@ This information is used to improve our service by adapting our pages to display
 
 ##  Personally-identifiable information
 
-If you join you give us:
+If you join you supply us with data that collectively, is personally-identifiable, including:
 
   * a username and password
   * an email address
   * the promise that you have read and wish to abide by our rules
   * the country you want to be registered in
   * your sex and the sex of the person you are looking for
+  * your postcode or ZIP code
 
 
 
@@ -49,7 +50,7 @@ If you add a profile we also collect the following personally-identifiable infor
 
   * your nickname, alias, or real name (if you choose to give it)
   * your date of birth
-  * the country/state/country in which you live
+  * the country/state/county in which you live
   * your height
   * your build
   * your sex
@@ -57,7 +58,7 @@ If you add a profile we also collect the following personally-identifiable infor
   * a description of yourself
   * a description of someone you may like to meet
   * the sex of the person you would like to meet
-  * optionally, a photograph of yourself
+  * optionally, photographs of yourself
 
 
 
@@ -73,6 +74,16 @@ You can opt out of our mailings using the instructions on the mailing, or in the
   * follow the instructions on-screen
 
 
+
+## Search engines, directories and other sites
+
+We do not prevent search engines or directories from indexing our web content including your public profile, and Conversations contributions. This is so that those who share your interests can discover you via the search engines, and make contact with you through this site. Our job is to bring people to you for you to meet, and this is one way we carry out this task.
+
+For this reason it is important that you take common-sense precautions when preparing your profile and making Conversations contributions, and post only material which you are happy for non-members to read. 
+
+Your public data may continue to be accessible through search engines even after you have closed your account here. We cannot guarantee this can be removed. If you not feel comfortable with this, you should not use this web site, and you should close your account immediately.
+
+Your public data can also be copied without our permission or authorisation and may from time to time appear on unauthorised web sites. When we become aware of this we will take steps to get this public data removed. However removal cannot be guaranteed.
 
 ## Other information
 
