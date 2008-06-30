@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008134926id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630051250id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# CanadaEast Online
+# canadaeast.com - Breaking News, New Brunswick, Canada
 
 **Last Updated** : July 17, 2007
 
@@ -69,14 +69,6 @@ Go directly to our website by typing it into your web browser or using a bookmar
 If you believe that you are being targeted by a fraudulent communication, please contact us immediately so that we may investigate. If you have been the victim of a fraudulent communication and have mistakenly provided a userID or password that may allow persons to exploit your Personally Identifiable Information, contact us immediately so that we may disable access.
 
 ## G. Access & Accuracy
-
-If you have any questions about the collection, use or disclosure of your personal information by CE Network, or if you simply want to know whether we have any of your personal information on file, you may contact CanadaEast. 
-
-Except in limited circumstances, as specifically provided by applicable privacy legislation, the CE Network can tell you whether they hold personal information about you. 
-
-CE Network attempts to ensure that information about you is accurate, complete and up-to-date. In the event you have questions about the accuracy of factual information we have collected about you, CE Network will provide the means to correct it or if unavailable update it upon request. If we have disclosed inaccurate information about you to a third party, we will be pleased to contact the third party in order to correct the information.
-
-CE Network will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. If a CanWest Company refuses access to you, it will provide you with the reasons for its refusal upon request. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. CE Network will respond to your requests for access in accordance with applicable privacy legislation.
 
 ## H. Children
 
