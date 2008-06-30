@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230073530id_/http%3A//www.teenink.com/About/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630194411id_/http%3A//www.teenink.com/About/privacy.php) for the most accurate reproduction.*
 
-# Teen Ink: Privacy Policy of Teen Ink: A Magazine Written by Teens for Teens
+# Teen Ink: Privacy Policy of Teen Ink: A Magazine Written by Teens for Teens from our Teen Magazine
 
   
 **Privacy Policy**  
