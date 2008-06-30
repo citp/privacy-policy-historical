@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225160723id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630085922id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
 
 # Queensland Health Privacy and Confidentiality Statement
 
