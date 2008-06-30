@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321165234id_/http%3A//www.viart.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630090116id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
 
-# ..:: Privacy Policy ::..
+# ViArt Ltd Privacy Policy
 
 Data Protection  
 Collection & Use Of Information  
