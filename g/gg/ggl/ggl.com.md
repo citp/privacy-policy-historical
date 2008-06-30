@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225233810id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26content%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630101849id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26content%3Dprivacy) for the most accurate reproduction.*
 
 # GGL - Privacy
 
@@ -78,7 +78,7 @@ If you have any other questions, comments or complaints about this policy, pleas
 **Global Gaming League**  
 **A Division of Professional Interactive Entertainment Inc.**  
 Attn: Privacy Officer  
-1524 Cloverfield Blvd., Suite E  
+1522 Cloverfield Blvd., Suite C  
 Santa Monica, CA 90404
 
 *Be sure to include the specific PIE Site to which you are a member.
