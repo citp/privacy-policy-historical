@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the sonicbids.com privacy policy that was archived on 2007-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025055200id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonicbids.com privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630112914id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-			<title>Sonicbids</title>
-
+		<!-- To display new meta name and title for partners page -->
+		    
+	        
+            <title>Sonicbids Connects Bands &amp; Music Promoters- Book Gigs and Bands at Sonicbids</title>
 			<meta name="Description" content="Spending too much money sending out bulky press kits? Try Sonicbids. Our Electronic Press Kits (EPKs) are a faster, better, easier, and cheaper way for bands to connect with club owners, festival directors, conference organizers, songwriting competitions, or radio station programmers at a click of the mouse.">
 			<meta name="Keywords" content="Sonicbids, EPK, Electronic Press Kit, music, bands, online submissions, music conferences, music festivals, songwriting competitions, live music, booking, booking agency, music tours">
-
+            
+            
 			<meta http-equiv="expires" content="0">
 			<meta http-equiv="Pragma" content="no-cache">
 			<meta http-equiv="Cache-Control" content="no-cache">
@@ -14,284 +17,340 @@
 			
 			<link rel="stylesheet" href="/css/sonic.css">
 			<link rel="stylesheet" href="/css/mainstyles.css">
+			<!--[if IE]><style type="text/css">@import "/css/IEfixes.css";</style><![endif]-->
 			<link rel="alternate" type="application/rss+xml" title="Sonicbids Most Recently Added Opportunities" href="http://www.sonicbids.com/rss/feeds/recentlyaddedopportunities.rss">
 			<link rel="alternate" type="application/rss+xml" title="Sonicbids Upcoming Submission Deadlines" href="http://www.sonicbids.com/rss/feeds/upcomingsubmissiondeadlines.rss">
 			<link rel="alternate" type="application/rss+xml" title="It Works on Sonicbids" href="http://www.sonicbids.com/rss/feeds/itworks.rss">
 			<link rel="alternate" type="application/rss+xml" title="Sonicbids News and Events" href="http://www.sonicbids.com/rss/feeds/news.rss">
 
+        
 			<script language="JavaScript" src="/js/sonic.js"></script>
 			
 			<script type="text/javascript">
-				window.opener = null;
-			</script>
+		    
+		    window.opener = null;
+	    	
+		    function doShowNavigationMenu(listID)
+		    {
+			    var menu = document.getElementById(listID);
+			    menu.style.display = 'block';
+			    //menu.style.border = '0px solid #EFEFEF';
+			    //menu.style.zIndex = 999;
+		    }
+		
+		    function doHideNavigationMenu(listID)
+		    {
+			    var menu = document.getElementById(listID);
+			    menu.style.display = 'none';
+			    //menu.style.border = '0px solid #EFEFEF';
+			    //menu.style.zIndex = 999;
+		    }		
+	    
+	        //This function is copied from "BBBOnLine Programs"
+		    function Rcertify() 
+		    {
+		    popupWin = window.open('http://www.bbbonline.org/cks.asp?id=1020711124024729', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+		    window.name = 'opener';
+		    } 
+		    // -->
+	    
+	        var usernameClientID = 'ctl00_wcLogIn_Username';
+            var passwordClientID = 'ctl00_wcLogIn_Password';
+            var passwordCleanClientID = 'ctl00_wcLogIn_PasswordClean';
+	            
+	        function initLogin()
+	        {
+	            
+	            var username = document.getElementById(usernameClientID);
+	            var password = document.getElementById(passwordClientID);
+	            var passwordClean = document.getElementById(passwordCleanClientID);
+	           /* 
+	            if (username)
+	            {
+	                username.value = 'User Name';
+	            }
+	            */
+	            if (password && passwordClean)
+	            {
+	              //  password.style.display = "none";
+	              //  passwordClean.style.display = "inline";
+	            }
+	            
+	            
+	            
+	        }
+	        
+	        function onFocusUsername()
+	        {
+	            var username = document.getElementById(usernameClientID);
+	            if (username)
+	            {
+	                if (username.value == 'User Name')
+	                {
+	                    username.focus();
+	                    username.value = '';
+	                }
+	            }
+	        }
+	        
+	        function onFocusPassword()
+	        {
+	            var password = document.getElementById(passwordClientID);
+	            var passwordClean = document.getElementById(passwordCleanClientID);
+	            
+	            if (password && passwordClean)
+	            {
+	                if (passwordClean.value == 'Password')
+	                {
+	                    password.style.display = "inline";
+	                    passwordClean.style.display = "none";
+	                    password.value = '';
+	                    passwordClean.blur();
+	                    password.focus();
+	                }
+	            }
+	        }
+	        
+	        addOnLoadEvent(initLogin);
+	        
+	    </script> 
 	
-			<script language="JavaScript"> 
-				<!-- 
-				//This function is copied from "BBBOnLine Programs"
-				function Rcertify() 
-				{
-				popupWin = window.open('http://www.bbbonline.org/cks.asp?id=1020711124024729', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
-				window.name = 'opener';
-				} 
-				// --> 
-			</script>  
+	</head>
 
-			<script language="javascript">
-			
-				function doShowNavigationMenu(spanID) {
-					document.getElementById(spanID).style.display = '';
-				}
-			
-				function doHideNavigationMenu(spanID) {
-					document.getElementById(spanID).style.display = 'none';
-				}
-			
-			</script>
+	<body class="FullPage">
+        <a name="top"></a>
+        <div id="outer">
+	            <div id="inner">
+	                <div id="container">
 
-		</head>
-
-
-		<body class="FullPage">
-
-			<div id="spHomeMenu" class="NavigationMenu" style="display:none; left:227; top:94;" onmouseover="javascript:doShowNavigationMenu('spHomeMenu');" onmouseout="javascript:doHideNavigationMenu('spHomeMenu');">
-				<table cellpadding="0" cellspacing="0" id="Table7">
-					<tbody><tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/">Sonicbids Home</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/Opportunity/">Promoter Drop Box Home</a></td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="spArtistMenu" class="NavigationMenu" style="display:none; left:303; top:94;" onmouseover="javascript:doShowNavigationMenu('spArtistMenu');" onmouseout="javascript:doHideNavigationMenu('spArtistMenu');">
-				<table cellpadding="0" cellspacing="0" id="Table1">
-					<tbody><tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/ArtistsGetTheDetails.aspx">Get the Details</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/ArtistFAQ.aspx">FAQs</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="javascript:fncPopUp('http://www.sonicbids.com/tour/artist_tour_1.asp', 'winTour', 675, 600, 20, 20, 'yes', 'no', 'no');">Tour</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/ArtistTestimonials.aspx">Testimonials</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/ItWorks/default.aspx">Success Stories</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="https://www.sonicbids.com/account/register.asp">Free Trial</a></td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="spPromoterMenu" class="NavigationMenu" style="display:none; left:397; top:94;" onmouseover="javascript:doShowNavigationMenu('spPromoterMenu');" onmouseout="javascript:doHideNavigationMenu('spPromoterMenu');">
-				<table cellspacing="0" id="Table2">
-					<tbody><tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/PromotersGetTheDetails.aspx">Get the Details</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/PromoterFAQ.aspx">FAQs</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="javascript:fncPopUp('http://www.sonicbids.com/tour/promoter_tour_1.asp', 'winTour', 675, 600, 20, 20, 'yes', 'no', 'no');">Tour</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/PromoterTestimonials.aspx">Testimonials</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/ItWorks/default.aspx">Success Stories</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="https://www.sonicbids.com/account/register.asp">Sign Up Now</a></td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="spCommunityMenu" class="NavigationMenu" style="display:none; left:516; top:94;" onmouseover="javascript:doShowNavigationMenu('spCommunityMenu');" onmouseout="javascript:doHideNavigationMenu('spCommunityMenu');">
-				<table cellspacing="0" id="Table3">
-					<tbody><tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/forum/">Forum</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/forum/topic_list.asp?forum_id=20&amp;page=1">Panos' Brew</a></td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="spAboutMenu" class="NavigationMenu" style="display:none; left:635; top:94;" onmouseover="javascript:doShowNavigationMenu('spAboutMenu');" onmouseout="javascript:doHideNavigationMenu('spAboutMenu');">
-				<table cellspacing="0" id="Table4">
-					<tbody><tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/WhatIsSonicbids.aspx">What is Sonicbids?</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/OurStory.aspx">Our Story</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/OurMission.aspx">Our Mission</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/About/OurTeam.aspx">Our Team</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/jobs">Our Job Openings</a></td>
-					</tr>
-					<tr>
-						<td class="NavigationMenuItem" nowrap=""><a href="http://www.sonicbids.com/about/partners.asp">Our Partners</a></td>
-					</tr>
-				</tbody></table>
-			</div>
-
-
-
-
-
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="Table5">
-				<tbody><tr>
-					<td rowspan="3"><a href="http://www.sonicbids.com/"><img src="/img/home/promo/banner_left.gif" width="224" height="114" border="0" alt="Sonicbids Logo"></a></td>
-					<td colspan="6"><img src="/img/home/promo/banner_center.gif" width="606" height="74" alt=""></td>
-					<td rowspan="2" width="100%" style="background-image:url('/img/home/promo/banner_right.gif');"></td>
-				</tr>
-				<tr>
-					<td><a href="http://www.sonicbids.com/"><img src="/img/home/promo/banner_icon_home.gif" width="76" height="20" alt="Home" onmouseover="javascript:doShowNavigationMenu('spHomeMenu');" onmouseout="javascript:doHideNavigationMenu('spHomeMenu');"></a></td>
-					<td><a href="http://www.sonicbids.com/About/ArtistsGetTheDetails.aspx"><img src="/img/home/promo/banner_icon_artists.gif" width="94" height="20" alt="Artists" onmouseover="javascript:doShowNavigationMenu('spArtistMenu');" onmouseout="javascript:doHideNavigationMenu('spArtistMenu');"></a></td>
-					<td><a href="http://www.sonicbids.com/About/PromotersGetTheDetails.aspx"><img src="/img/home/promo/banner_icon_promoters.gif" width="119" height="20" alt="Promoters" onmouseover="javascript:doShowNavigationMenu('spPromoterMenu');" onmouseout="javascript:doHideNavigationMenu('spPromoterMenu');"></a></td>
-					<td><a href="http://www.sonicbids.com/forum/"><img src="/img/home/promo/banner_icon_community.gif" width="120" height="20" alt="Community" onmouseover="javascript:doShowNavigationMenu('spCommunityMenu');" onmouseout="javascript:doHideNavigationMenu('spCommunityMenu');"></a></td>
-					<td><a href="http://www.sonicbids.com/About/WhatIsSonicbids.aspx"><img src="/img/home/promo/banner_icon_about.gif" width="105" height="20" alt="About Us" onmouseover="javascript:doShowNavigationMenu('spAboutMenu');" onmouseout="javascript:doHideNavigationMenu('spAboutMenu');"></a></td>
-					<td><img src="/img/home/promo/banner_icon_extension.gif" width="92" height="20" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="7" height="20" width="100%" style="background-image:url('/img/home/promo/banner_border_middle.gif');"></td>
-				</tr>
-				<tr>
-					<td colspan="8" height="14" width="100%" style="background-image:url('/img/home/promo/banner_border_bottom.gif');"></td>
-				</tr>
-			</tbody></table>
-			
-			<table cellpadding="0" cellspacing="0" border="0">
-			
-				<tbody><tr>
-					<td class="LeftNavigationArea" rowspan="2">
+	                    <div id="ctl00_wcLeftBorder" class="leftSide" style="background-image:url('/img/home/default/borderLeft.gif');">
+	                        <div id="ctl00_wcRightBorder" class="rightSide" style="background-image:url('/img/home/default/borderRight.gif');">
+	                            <div id="ctl00_wcMainHeading" class="mainHeading" style="background-image:url('/img/home/default/mainHeaderDottedBackground.gif');">
+	                                <div id="extendHeading"></div>
+	                                <a href="/Default.aspx" id="mainLogo"></a>
+                                    <div id="loginStatus"><form method="POST" action="http://www.sonicbids.com/login.asp" id="frmLoginSmall" name="frmLoginSmall" style="padding:0px; margin:0px;">
+										
+										    <table id="ctl00_wcLogIn" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
+	                                            <tbody><tr>
+		                                            <td>
+		                                                <span>Log In:</span>
+                                                   <!--     <input name="username" type="text" value="ccartist80" id="ctl00_wcLogIn_Username" class="styINPUT" onfocus="onFocusUsername()" style="width:100px;" />   -->
+                                                              <input name="username" type="text" id="ctl00_wcLogIn_Username" class="styINPUT" onfocus="onFocusUsername()" style="width:100px;" value="">   
+                                                        <input name="password" type="password" id="ctl00_wcLogIn_Password" class="styINPUT" style="width:100px;">
+                                                        <input name="passwordClean" type="text" value="Password" id="ctl00_wcLogIn_PasswordClean" class="styINPUT" onfocus="onFocusPassword()" style="width:100px;display:none;">
+                					                        
+                                                        <input type="image" name="btnLogIn" id="ctl00_wcLogIn_LogIn" src="/img/buttons/buttonRightArrowGray.gif" align="absbottom" style="border-width:0px;">
+                                                        <a id="ctl00_wcLogIn_wcForgotPassword" class="LeftNavigationForgottenPassword" href="javascript:fncPopUp('http://localhost/email_password.asp', 'email_password', 300, 250, 20, 20, 'no', 'no', 'no');">Forgot Password?</a>
+                                                    </td>
+	                                            </tr>
+                                            </tbody></table>
+										</form></div>
+                                    <div id="menu">
+                                        <ul id="mainNavigationMenu">
+											<li>
+												<script type="text/javascript">
+												var image = new Image();
+												image.src = '/img/home/default/HomeOver.gif';
+												</script>
+												<a href="http://www.sonicbids.com/" id="ctl00_wcHomeMenu_wcLink" title="Home" onmouseover="doShowNavigationMenu('ctl00_wcHomeMenuList');setImage('ctl00_wcHomeMenu_wcImage', '/img/home/default/HomeOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcHomeMenuList');setImage('ctl00_wcHomeMenu_wcImage', '/img/home/default/HomeOff.gif');"><img src="/img/home/default/HomeOff.gif" id="ctl00_wcHomeMenu_wcImage"></a>
+												<div id="ctl00_wcHomeMenuList" class="MasterNavMenu" onmouseover="doShowNavigationMenu('ctl00_wcHomeMenuList');setImage('ctl00_wcHomeMenu_wcImage', '/img/home/default/HomeOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcHomeMenuList');setImage('ctl00_wcHomeMenu_wcImage', '/img/home/default/HomeOff.gif');">
+													<br>
+													<link id="ctl00_wcHomeMenuHover_wcStyle" rel="stylesheet" type="text/css" href="/UserControl/styles/liquidcorners_gray.css">
 					
-						<!--Left Navigation-->
-							<table border="0" class="LeftNavigationTable">
-								<tbody><tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationTitle">Member Login</td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationContent"><form method="POST" action="http://www.sonicbids.com/login.asp" id="Form1" name="frmLoginSmall" style="padding:0px; margin:0px;">
-											
-												<table align="center" cellspacing="0" style="padding:1px;" id="Table10">
-													<tbody><tr>
-														<td class="TextSmall">Username:</td>
-													</tr>
-													<tr>
-														<td><input class="styINPUT" style="width:100px;" name="username" value="" id="Text1"></td>
-													</tr>
-													<tr>
-														<td class="TextSmall">Password:</td>
-													</tr>
-													<tr>
-														<td><input type="password" class="styINPUT" style="width:100px;" name="password" id="Password1"></td>
-													</tr>
-													<tr>
-														<td><input type="image" src="/img/nav/button_login_left_navigation.gif" border="0" name="btnLogIn" id="Image2"></td>
-													</tr>
-													<tr>
-														<td><a href="javascript:fncPopUp('http://www.sonicbids.com/email_password.asp', 'email_password', 300, 250, 20, 20, 'no', 'no', 'no');" class="LeftNavigationForgottenPassword">Forgot Password?</a></td>
-													</tr>
-												</tbody></table>
-											</form></td>
-								</tr>
-								
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
+													<div id="ctl00_wcHomeMenuHover_wcOuterBox" class="grayRoundedCornerBox" style="width:190px;">
+														<div class="top-left"></div>
+														<div class="top-right"></div>  
+														<div id="ctl00_wcHomeMenuHover_wcInside" class="inside"> 
+															<div class="nogap">
+																<div style="padding-bottom: 3px; ">
+																<a id="ctl00_wcHomeMenuHover_ctl00_wcHomeMenupPromoterDropBox" href="http://www.sonicbids.com/Opportunity/">Promoter Drop Box Home</a>
+																</div>
+															</div>  
+														</div>    
+														<div class="bottom-left"></div>
+														<div class="bottom-right"></div>         
+													</div>
+                                                </div>
+			                                </li>
+                                            <li id="BandsMenu">
+												<script type="text/javascript">
+												var image = new Image();
+												image.src = '/img/home/default/ForBandsOver.gif';
+												</script>
+												<a href="http://www.sonicbids.com/About/ArtistsGetTheDetails.aspx" id="ctl00_wcArtistMenu_wcLink" title="Artists" onmouseover="doShowNavigationMenu('ctl00_wcArtistMenuList');setImage('ctl00_wcArtistMenu_wcImage', '/img/home/default/ForBandsOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcArtistMenuList');setImage('ctl00_wcArtistMenu_wcImage', '/img/home/default/ForBandsOff.gif');"><img src="/img/home/default/ForBandsOff.gif" id="ctl00_wcArtistMenu_wcImage"></a>
+                                                <div id="ctl00_wcArtistMenuList" class="MasterNavMenu" onmouseover="doShowNavigationMenu('ctl00_wcArtistMenuList');setImage('ctl00_wcArtistMenu_wcImage', '/img/home/default/ForBandsOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcArtistMenuList');setImage('ctl00_wcArtistMenu_wcImage', '/img/home/default/ForBandsOff.gif');">
+													<br>
+													<link id="ctl00_wcArtistMenuHover_wcStyle" rel="stylesheet" type="text/css" href="/UserControl/styles/liquidcorners_gray.css">
 
-								<tr>
-									<td class="LeftNavigationTitle">Tour Sonicbids</td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationContent">
-										<a href="http://www.sonicbids.com/tour/"><img src="/img/nav/icon_tour_left_navigation.gif" border="0"></a>
-									</td>
-								</tr>
-								
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
+													<div id="ctl00_wcArtistMenuHover_wcOuterBox" class="grayRoundedCornerBox" style="width:120px;">
+														<div class="top-left"></div>
+														<div class="top-right"></div>  
+														<div id="ctl00_wcArtistMenuHover_wcInside" class="inside"> 
+															<div class="nogap">
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcArtistMenuHover_ctl00_wcArtistMenuGetTheDetails" href="http://www.sonicbids.com/About/ArtistsGetTheDetails.aspx">Get the Details</a>
+																</div>
+																<div style="padding-bottom: 3px">
+																	
+																    	<a href="http://artists.sonicbids.com">Support Center</a>
+																	
+																</div>
 
-								<tr>
-									<td class="LeftNavigationTitle">Sponsors</td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationContent">
-										<table style="width:100%;">
-											<tbody><tr>
-												<td style="text-align:center;"><a href="/ads/go.asp?ad_id=1&amp;referring_page=http%3A%2F%2Fwww%2Esonicbids%2Ecom%2Fabout%2Fprivacy%2Easp" target="_blank"><img vspace="4" src="/ads/logos/1.gif" style="border: 0px"></a></td>
-											</tr><tr>
-													<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=341" target="_blank" style="text-align:center;"><img src="/logos/341.gif" style="text-align:center; width:100px;" width="100" vspace="4" border="0"></a></td>
-												</tr><tr>
-													<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=168" target="_blank" style="text-align:center;"><img src="/logos/168.jpg" style="text-align:center; width:100px;" width="100" vspace="4" border="0"></a></td>
-												</tr></tbody></table>
-									</td>
-								</tr>
-								
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-
-								<tr>
-									<td class="LeftNavigationTitle">Premier Partners</td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationSpacerCell"></td>
-								</tr>
-								<tr>
-									<td class="LeftNavigationContent">
-										<table style="width:100%;"><tbody><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=282" target="_blank"><img src="/logos/282.gif" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=384" target="_blank"><img src="/logos/384.jpg" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=308" target="_blank"><img src="/logos/308.jpg" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=173" target="_blank"><img src="/logos/173.jpg" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=295" target="_blank"><img src="/logos/295.gif" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=336" target="_blank"><img src="/logos/336.gif" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=388" target="_blank"><img src="/logos/388.jpg" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=390" target="_blank"><img src="/logos/390.gif" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=393" target="_blank"><img src="/logos/393.jpg" width="100" vspace="4" border="0"></a></td>
-													</tr><tr>
-														<td style="text-align:center;"><a href="http://www.sonicbids.com/FeaturedPartnerClick.aspx?PartnerID=338" target="_blank"><img src="/logos/338.gif" width="100" vspace="4" border="0"></a></td>
-													</tr></tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						<!--End Left Navigation-->
-					</td>
-					
-					<td style="width:15px;"><img src="/img/spacer.gif" width="15" border="0"></td>
-					
-					<td style="vertical-align: top;" width="600">
-
-
-						<a name="sonicbids_content_top"></a><table border="0" cellspacing="2" cellpadding="0" width="600">
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcArtistMenuHover_ctl00_wcArtistMenuTour" href="javascript:fncPopUp('http://www.sonicbids.com/tour/artist_tour_1.asp', 'winTour', 675, 600, 20, 20, 'yes', 'no', 'no');">Tour</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcArtistMenuHover_ctl00_wcArtistMenuTestimonials" href="http://www.sonicbids.com/About/ArtistTestimonials.aspx">Testimonials</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcArtistMenuHover_ctl00_wcArtistMenuSuccessStories" href="http://www.sonicbids.com/ItWorks/default.aspx">Success Stories</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcArtistMenuHover_ctl00_wcArtistMenuFreeTrial" href="https://www.sonicbids.com/account/register.asp">Sign Up Now</a>
+																</div>
+															</div>  
+														</div>    
+														<div class="bottom-left"></div>
+														<div class="bottom-right"></div>         
+													</div>
+                                                </div>
+                                            </li>
+		                                    <li id="PromoterMenu">
+												<script type="text/javascript">
+												var image = new Image();
+												image.src = '/img/home/default/ForPromotersOver.gif';
+												</script>
+												<a href="http://www.sonicbids.com/About/PromotersGetTheDetails.aspx" id="ctl00_wcPromoterMenu_wcLink" title="Promoters" onmouseover="doShowNavigationMenu('ctl00_wcPromoterMenuList');setImage('ctl00_wcPromoterMenu_wcImage', '/img/home/default/ForPromotersOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcPromoterMenuList');setImage('ctl00_wcPromoterMenu_wcImage', '/img/home/default/ForPromotersOff.gif');"><img src="/img/home/default/ForPromotersOff.gif" id="ctl00_wcPromoterMenu_wcImage"></a>
+												<div id="ctl00_wcPromoterMenuList" class="MasterNavMenu" onmouseover="doShowNavigationMenu('ctl00_wcPromoterMenuList');setImage('ctl00_wcPromoterMenu_wcImage', '/img/home/default/ForPromotersOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcPromoterMenuList');setImage('ctl00_wcPromoterMenu_wcImage', '/img/home/default/ForPromotersOff.gif');">
+													<br>
+													<link id="ctl00_wcPromoterMenuHover_wcStyle" rel="stylesheet" type="text/css" href="/UserControl/styles/liquidcorners_gray.css">
+													<div id="ctl00_wcPromoterMenuHover_wcOuterBox" class="grayRoundedCornerBox" style="width:150px;">
+														<div class="top-left"></div>
+														<div class="top-right"></div>  
+														<div id="ctl00_wcPromoterMenuHover_wcInside" class="inside"> 
+															<div class="nogap">
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcPromoterMenuHover_ctl00_wcPromoterMenuGetTheDetails" href="http://www.sonicbids.com/About/PromotersGetTheDetails.aspx">Get the Details</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																	    
+																        <a href="http://promoters.sonicbids.com">Support Center</a>
+																	
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcPromoterMenuHover_ctl00_wcPromoterMenuTour" href="javascript:fncPopUp('http://www.sonicbids.com/tour/promoter_tour_1.asp', 'winTour', 675, 600, 20, 20, 'yes', 'no', 'no');">Tour</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcPromoterMenuHover_ctl00_wcPromoterMenuTestimonials" href="http://www.sonicbids.com/About/PromoterTestimonials.aspx">Testimonials</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcPromoterMenuHover_ctl00_wcPromoterMenuSuccessStories" href="http://www.sonicbids.com/ItWorks/default.aspx">Success Stories</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcPromoterMenuHover_ctl00_wcPromoterMenuSignUpNow" href="https://www.sonicbids.com/account/register.asp">Sign Up Now</a>
+																</div>
+															</div>  
+														</div>    
+														<div class="bottom-left"></div>
+														<div class="bottom-right"></div>         
+													</div>
+		                                        </div>
+		                                    </li>
+		                                    <li id="CommunityMenu">
+												<script type="text/javascript">
+												var image = new Image();
+												image.src = '/img/home/default/CommunityOver.gif';
+												</script>
+												<a href="http://lounge.sonicbids.com" id="ctl00_wcCommunityMenu_wcLink" title="Community" onmouseover="doShowNavigationMenu('ctl00_wcCommunityMenuList');setImage('ctl00_wcCommunityMenu_wcImage', '/img/home/default/CommunityOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcCommunityMenuList');setImage('ctl00_wcCommunityMenu_wcImage', '/img/home/default/CommunityOff.gif');"><img src="/img/home/default/CommunityOff.gif" id="ctl00_wcCommunityMenu_wcImage"></a>
+												<div id="ctl00_wcCommunityMenuList" class="MasterNavMenu" onmouseover="doShowNavigationMenu('ctl00_wcCommunityMenuList');setImage('ctl00_wcCommunityMenu_wcImage', '/img/home/default/CommunityOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcCommunityMenuList');setImage('ctl00_wcCommunityMenu_wcImage', '/img/home/default/CommunityOff.gif');">
+													<br>
+													<link id="ctl00_wcCommunityMenuHover_wcStyle" rel="stylesheet" type="text/css" href="/UserControl/styles/liquidcorners_gray.css">
+													<div id="ctl00_wcCommunityMenuHover_wcOuterBox" class="grayRoundedCornerBox" style="width:130px;">
+														<div class="top-left"></div>
+														<div class="top-right"></div>  
+														<div id="ctl00_wcCommunityMenuHover_wcInside" class="inside"> 
+															<div class="nogap">
+															    <div style="padding-bottom: 3px">
+																<a id="ctl00_wcCommunityMenuHover_ctl00_wcCommunityMenuLounge" href="http://lounge.sonicbids.com">Lounge</a>
+																</div>
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcCommunityMenuHover_ctl00_wcCommunityMenuPanosBrew" href="http://www.sonicbids.com/PanosBrew">Panos' Brew</a>
+																</div>
+                                                                
+<!--																<div style = "padding-bottom: 3px">
+																<a id="ctl00_wcCommunityMenuHover_ctl00_wcCommunityMenuPanosBrew" href="http://www.sonicbids.com/forum/topic_list.asp?forum_id=20&amp;page=1">Panos' Brew</a>
+																</div>
+-->																
+																<!--<div style = "padding-bottom: 3px">
+																<a id="ctl00_wcCommunityMenuHover_ctl00_wcCommunityMenuGetAGig" href="http://www.sonicbids.com/getagig/EducationCenter.aspx">How to get a gig</a>
+																</div>-->
+															</div>  
+														</div>    
+														<div class="bottom-left"></div>
+														<div class="bottom-right"></div>         
+													</div>
+		                                        </div>
+		                                    </li>
+		                                    <li id="AboutMenu">
+												<script type="text/javascript">
+												var image = new Image();
+												image.src = '/img/home/default/AboutUsOver.gif';
+												</script>
+												<a href="http://www.sonicbids.com/About/WhatIsSonicbids.aspx" id="ctl00_wcAboutMenu_wcLink" title="About Us" onmouseover="doShowNavigationMenu('ctl00_wcAboutMenuList');setImage('ctl00_wcAboutMenu_wcImage', '/img/home/default/AboutUsOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcAboutMenuList');setImage('ctl00_wcAboutMenu_wcImage', '/img/home/default/AboutUsOff.gif');"><img src="/img/home/default/AboutUsOff.gif" id="ctl00_wcAboutMenu_wcImage"></a>
+                                                <div id="ctl00_wcAboutMenuList" class="MasterNavMenu" onmouseover="doShowNavigationMenu('ctl00_wcAboutMenuList');setImage('ctl00_wcAboutMenu_wcImage', '/img/home/default/AboutUsOver.gif');" onmouseout="doHideNavigationMenu('ctl00_wcAboutMenuList');setImage('ctl00_wcAboutMenu_wcImage', '/img/home/default/AboutUsOff.gif');">
+													<br>
+													<link id="ctl00_wcAboutMenuHover_wcStyle" rel="stylesheet" type="text/css" href="/UserControl/styles/liquidcorners_gray.css">
+													<div id="ctl00_wcAboutMenuHover_wcOuterBox" class="grayRoundedCornerBox" style="width:140px;">
+														<div class="top-left"></div>
+														<div class="top-right"></div>  
+														<div id="ctl00_wcAboutMenuHover_wcInside" class="inside"> 
+															<div class="nogap">
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuWhatIsSonicbids" href="http://www.sonicbids.com/About/WhatIsSonicbids.aspx">What is Sonicbids?</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuOurStory" href="http://www.sonicbids.com/About/OurStory.aspx">Our Story</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuOurMission" href="http://www.sonicbids.com/About/OurMission.aspx">Our Mission</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuOurTeam" href="http://www.sonicbids.com/About/OurTeam.aspx">Our Team</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuOurJobs" href="http://www.sonicbids.com/jobs/">Our Job Openings</a>
+																</div>
+																
+																<div style="padding-bottom: 3px">
+																<a id="ctl00_wcAboutMenuHover_ctl00_wcAboutMenuPartners" href="http://www.sonicbids.com/about/partners.asp">Our Partners</a>
+																</div>
+															</div>
+														</div>    
+														<div class="bottom-left"></div>
+														<div class="bottom-right"></div>         
+													</div>
+		                                        </div>
+		                                    </li>
+		                                </ul>
+		                            </div>
+		                        </div>
+                    		    
+                    		       
+	                            <a name="sonicbids_content_top"></a>
+                                <div id="content">
+						            <table border="0" cellspacing="2" cellpadding="0" width="600">
 	<tbody><tr>
     <td valign="top" class="body"> 
       <br><font class="MajorHeader">Privacy Policy</font><br>&nbsp;
@@ -631,39 +690,40 @@
 	</tr>
 </tbody></table>
 
-					
-					</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="vertical-align:bottom;">
-						<br>
-					    <table style="text-align: center; width: 650px">
-							<tbody><tr>
-								<td style="width: 50px">&nbsp;</td>
-								<td>
-									<table align="center">
-										<tbody><tr>
-											<td colspan="2" style="text-align: center;"><a href="#" onclick="Rcertify();return false;"><img src="/sonicbanners/reliability.gif" alt="BBBOnLine Reliability Seal" style="border: 0px"></a></td>
-										</tr>
-										<tr>
-											<td><img src="/img/icon_clock.gif" border="0"></td>
-											<td><b>Sonicbids Official Time: </b>Thursday, October 25, 2007 1:52 AM EST</td>
-										</tr>
-									</tbody></table>
-						
-									<a href="http://www.sonicbids.com/">Home</a> | <a href="http://www.sonicbids.com/About/ArtistFAQ.aspx">Artist FAQ</a> | <a href="http://www.sonicbids.com/About/PromoterFAQ.aspx">Promoter FAQ</a> | <a href="https://www.sonicbids.com/account/register.asp">Sign Up</a><a href="http://www.sonicbids.com/About/gift_certificates.asp">Gift Certificates</a> | <a href="http://www.sonicbids.com/login.asp">Log In</a><br><a href="http://www.sonicbids.com/about/terms.asp">Conditions of Use</a> | <a href="http://www.sonicbids.com/about/privacy.asp">Privacy Policy</a> | <a href="http://www.sonicbids.com/jobs">Jobs</a> | <a href="http://www.sonicbids.com/about/contact.asp">Contact</a><br>
-								</td>
-							</tr>
-						</tbody></table>						
-					</td>
-				</tr>			
-			</tbody></table>
-			<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-			</script>
-			<script type="text/javascript">
-			_uacct = "UA-1759239-1";
-			urchinTracker();
-			</script>
-		
-	</body></html>
+	
+        <!--for no gap at bottom of page-->
+                                    <div id="nogap"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        
+                        <div id="ctl00_wcFooter" class="footer">
+                        
+                            <div class="copyright">
+                                © 2008 Sonicbids Corporation. All Rights Reserved.
+                            </div>
+                            
+                            <div class="links">
+                                <a id="ctl00_wcFooterHome" href="/">Home</a> | 
+                                <a id="ctl00_wcFooterAdvertise" href="/advertise">Advertise</a> | 
+                                <a id="ctl00_wcFooterJobs" href="/jobs">Jobs</a> | 
+                                <a id="ctl00_wcFooterContact" href="/about/contact.asp">Contact Us</a> | 
+                                <a id="ctl00_wcFooterGiftCertificates" href="/About/gift_certificates.asp">Gift Certificates</a> | 
+                                <a id="ctl00_wcFooterPrivacy" href="/about/privacy.asp">Privacy Policy</a> | 
+                                <a id="ctl00_wcConditionsOfUse" href="/about/terms.asp">Conditions of Use</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+            </script>
+            <script type="text/javascript">
+            _uacct = "UA-1759239-1";
+            urchinTracker();
+            </script>
+        
+    
+    </body></html>
