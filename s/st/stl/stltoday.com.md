@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130656id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630153919id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
-# STLtoday - Help Center - Privacy Policy
+# STLtoday - Privacy Policy
 
-|  |  |   
----  
-  
+  | 
+
 Privacy Policy
 
   
@@ -76,4 +75,70 @@ Last updated on 09/12/07
 # 4125080_v1 
 
 
-|  | 
+Email a friend 
+
+Save & Share
+
+  
+
+What's this? 
+
+[](http://www.stltoday.com/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp%5Cstories.nsf&docid=84236C32FB886B7486256EC4004C5F70) [Printer](http://www.stltoday.com/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp%5Cstories.nsf&docid=84236C32FB886B7486256EC4004C5F70)
+
+[Digg](http://digg.com/submit?phase=2&url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument)
+
+[Yahoo!](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=yahoo&title=Privacy%20Policy&popup=true)
+
+[](http://newsletters.stltoday.com/) [3 O'Clock Stir](http://www.stltoday.com/newsletters)
+
+[Del.icio.us](http://del.icio.us/post?v=4&partner=&noui&jump=close&url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=delicious&title=Privacy%20Policy)
+
+Facebook 
+
+[](http://www.stltoday.com/rss)[RSS Feeds](http://www.stltoday.com/rss)
+
+[Reddit](http://reddit.com/submit?url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=reddit&title=Privacy%20Policy)
+
+Drudge 
+
+[](https://www.formrouter.net/forms@STLPD/subscribe.html) [Subscribe](https://www.formrouter.net/forms@STLPD/subscribe.html)
+
+[Google](http://www.google.com/bookmarks/mark?op=add&title=Privacy%20Policy&bkmk=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=google)
+
+Fark 
+
+[](mailto:letters@post-dispatch.com) [Email the editor](mailto:letters@post-dispatch.com)
+
+|   | 
+
+Quick Links
+
+St. Louis Post-Dispatch Help
+
+Suburban Journals Help
+
+St. Louis At Work Help
+
+[Member Center for Forums, Blogs & Newsletters](http://www.stltoday.com/membercenter/register)
+
+Post-Dispatch Quick Directory
+
+St. Louis Post-Dispatch Main Line  
+314-340-8000
+
+Subscriptions, Vacation Stops, etc.  
+314-340-8888 or 1-800-365-0820 (ext. 8888)
+
+Classified Advertising  
+314-621-6666 or 1-800-365-0820
+
+Suburban Journals Quick Directory
+
+Main Line  
+314-821-1110
+
+Classified Advertising  
+314-966-3278 or 1-800-766-3278
+
+|    
+---|---|---|---|---
