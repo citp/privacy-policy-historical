@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231213332id_/http%3A//www.explorebranson.com/sitelink/index.cfm%3FcontentID%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630071408id_/http%3A//www.explorebranson.com/sitelink/index.cfm%3FcontentID%3D29) for the most accurate reproduction.*
 
 # Branson Missouri vacation lodging, hotels, shows, Chamber of Commerce
 
