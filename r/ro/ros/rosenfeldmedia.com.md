@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229112255id_/http%3A//rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630162643id_/http%3A//www.rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Rosenfeld Media - Privacy Policy
 
-_This policy covers both[www.rosenfeldmedia.com ](http://www.rosenfeldmedia.com/)and [www.uxzeitgeist.com](http://www.uxzeitgeist.com/)_
+_This policy covers both[www.rosenfeldmedia.com](http://www.rosenfeldmedia.com/) and [www.uxzeitgeist.com](http://www.uxzeitgeist.com/)_
 
 ### Thank you for visiting our web sites!
 
@@ -12,7 +12,7 @@ We hope you’ll find our user experience books and other services valuable to y
 Louis Rosenfeld, Publisher and Privacy Policy Representative  
 705 Carroll Street, #2L  
 Brooklyn, NY 11215 USA  
-+1.718.306.9396  
++1.718.568.9756  
 lou [at] rosenfeldmedia.com 
 
 ### Your acceptance of our privacy policy.
