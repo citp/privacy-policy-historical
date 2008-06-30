@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130809id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630192938id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Helio Privacy Policy | Helio.com - Mobile Devices, Phones, and Wireless Service for You
+# Helio Privacy Policy for Cell Phones and Wireless Plans
 
   
 
@@ -127,3 +127,29 @@ Los Angeles, CA 90024
 #### Revisions to This Policy
 
 Helio reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: [www.helio.com.](http://www.helio.com/)
+
+  
+
+
+#### Helio's Privacy Policy
+
+Even though Helio connects our members to just about anything and everything, sometimes, everyone needs their own private space. Helio deeply respects preserving your space, which is why Helio complies with the National Do Not Call Registry, state registries and maintains its own internal Do Not Call list. Helio does not contact non-customers with sales and marketing-related phone calls. If you receive a call from someone purporting to sell you Helio products, and you have already placed yourself on the national, state or Helio lists, please let us know at 888-88-HELIO so that we can investigate the problem.
+
+  
+
+
+#### Helio’s Do Not Call List
+
+In addition to observing the federal and state registries, Helio maintains its own Do Not Call list. To be added to this list, simply let us know in writing at:
+
+HELIO   
+Attn: HELIO Privacy Policy   
+Suite 700   
+10960 Wilshire Blvd   
+Los Angeles, CA 90025 
+
+or by telephone at 888-88-HELIO. Please be sure to inform us of your name, address, and all the telephone numbers you want added to the list. It will take up to 30 days for the system to be updated but don’t forget to let us know of new numbers and addresses when your information changes. Residential customers will remain on our list for 2 years, unless you request to be removed from the list. Business customers will remain on our list for 1 year.
+
+If you are a Helio customer, were a customer at one point, or provided us your information because you thought about becoming a customer, you may be contacted by Helio even though you are on the national, state or Helio Do Not Call lists. Many state regulations and the National Do Not Call Registry permit companies to contact their own customers, former customers or people who provided information to be contacted.
+
+Please note that being listed on the National Do Not Call Registry and/or the Helio Do Not Call list does not prevent Helio from contacting you for non-solicitation purposes, such as surveys, billing or service-related questions.
