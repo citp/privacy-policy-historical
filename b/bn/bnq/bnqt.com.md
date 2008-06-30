@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bnqt.com privacy policy that was archived on 2007-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070911173940id_/http%3A//bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnqt.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630090240id_/http%3A//www.bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Bnqt.com -- Banquet Action Sports Video Community
+# Privacy Policy — BNQT.com — Banquet Action Sports Digital Network
 
 Banquet / Bnqt.com. ("Banquet") is committed to protecting your online privacy when visiting a website operated by us. We do not collect and keep any personal information online from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information online from children under the age of 13 without consent of a parent or legal guardian, except in limited circumstances authorized by law and described in this policy. Please review the information below to familiarize yourself with our policies on website privacy, so that you can take full advantage of all the fun activities available at our sites for you and your family. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site.
 
@@ -75,4 +75,4 @@ If you have any questions, please don't hesitate to contact us!
 
 Use of this site signifies your acceptance of the terms and conditions.
 
-© 2005 Banquet / Bnqt.com, Inc. All Rights Reserved
+© 2005 Banquet / Bnqt.com, Inc. All Rights Reserved 
