@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225064647id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630034458id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SureWest - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Our commitment to privacy**
 
-The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies.
+The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies. 
 
 The policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
