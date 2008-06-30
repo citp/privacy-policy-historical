@@ -1,73 +1,63 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231181322id_/http%3A//www.mycoupons.com/coupon-codes-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630180849id_/http%3A//www.mycoupons.com/coupon-codes-privacy.html) for the most accurate reproduction.*
 
 # MyCoupons.com Privacy Statement
 
-##### How Data is Collected:
+##### PRIVACY POLICY
 
-Signing up for the MyCoupons® service provides us with your name, email address, gender, and zip code. Our method of collection is through our register page ([https://mycoupons.com/signup/](https://www.mycoupons.com/signup/)).  After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transferred to our server and an account is setup.  For more information about the Terms of Use of MyCoupons, please read the Terms of Use page at: [http://www.mycoupons.com/coupon-codes-siteterms.html](https://web.archive.org/web/20071231181322id_/http%3A//www.mycoupons.com/coupon-codes-siteterms.html)
+MyCoupons.com, LLC (the "Company") values our customers and respects their privacy. We have a strong commitment to providing quality customer service. In an effort to maintain that level of service to our customers, we must utilize customer information to help us understand what aspects of mycoupons.com (the "Site") are of interest to customers and to improve the customer web experience. At the same time, we recognize that we must maintain and use customer information responsibly.
 
-##### With Whom will information be shared:
+This policy describes the personal information that we collect from our customers, why we collect it, and how we use it. If you have any questions regarding our privacy policy, you can contact the Company via e-mail at [help@mycoupons.com](mailto:help@mycoupons.com)
 
-MyCoupons, holds all data gathered in strict confidence.  Under no circumstances will your e-mail address be sold to, supplied to, or otherwise made available to any third party.  However, if you select to have one of the 'opt-in' advertisers to send you offers and emails to your MyCoupons email address, then we supply them with your name, zip code, gender, and your email address.  Otherwise, they are never given your personal email address, and you can opt out from their emails whenever you wish.
+##### KINDS OF INFORMATION WE COLLECT AND HOW WE USE IT
 
-##### Cookies: 
+The Company collects only basic information which you provide to us on the Site. We do not use "data harvesting technology". 
 
-When you log into the MyCoupons site, we administer a single browser cookie, which helps us to keep track of your identity.  We also use this cookie to save your username and password so you don't have to re-enter it each time you wish to use the site.  If you choose not to accept the cookie, you will still be able to use the site; however you will need to log in manually.  MyCoupons allows third party advertisers to set cookies.  We are not responsible for these cookies and do not have access to the information contained in advertiser's cookies.
+You may be asked to complete brief surveys while on the Site. These surveys help us to better understand how you are using the Site and enable us to provide better service to you. These surveys may be administered by the Company or by a third party.
 
-##### Security Measures: 
+You may receive periodic e-mail communication from the Company. This correspondence may include special offers and/or promotions relating to services provided by the Company or services provided by strategic partners and affiliates of the Company. Should you chose to "opt out" of receiving these e-mail communications, you will then only receive e-mail communications which directly relate to the service provided by the Company. To unsubscribe to any of our communications or if you have any questions about our services, please send an e-mail to help@mycoupons.com.
 
-Employees are made aware of our privacy policy and practices by reviewing this statement upon hire.  Access to user data contained in the database is limited to select members of our organization.  Passwords are changed regularly to provide additional protection.
+You agree that we may use any of the information you provide to: 
 
-##### Messages and Chat Forum:
+  * * Provide the service and customer support you request;
+  * * Resolve disputes, collect fees and troubleshoot problems relating to the use of the website;
+  * * Prevent potentially prohibited or illegal activities and enforce our General Terms of Use and Legal Policy (or any other agreement between the Company and its customers and/or service providers) or this Privacy Policy;
+  * * Customize, measure and improve our services and the Site's content and layout;
+  * * Compare information for accuracy, and verify it with third parties; and
+  * * For any other purpose as provided herein.
 
-Disclosing personally identifiable information on-line through Chat Rooms, Forums, and Message Boards makes the information submitted public information; such disclosure may increase user's chances of receiving "spam" or unsolicited email.  Be extra careful and use discretion when disclosing information on-line.
 
-##### Tell a Friend:
 
-You can send email to your friends to let them know about the site.  The friend will not receive further communication from the site above and beyond the initial email sent.
+We may disclose personal information to respond to legal inquiries, to enforce our Privacy Policy, to defend a claim that any information contained on the Site violates the rights of others, or to protect anyone's rights. This may require the Company to disclose personal information. We may also share your personal information with 
 
-##### Polls/Contests:
+  * * Third parties such as bill collection agencies, other business entities;
+  * * Another company in the event we plan to merge with or be acquired by that business (should such a combination or transaction occur, we will require that the new combined entity and develop a policy with respect to your personal information. If your personal information will be distributed pursuant to this policy, you will receive prior notice.);
+  * * A law enforcement or other governmental officials in response to a court order or other verified request for such information; and
+  * * Other third parties to whom you explicitly ask us to send your information or as identified above.
 
-From time to time the site has contests or conduct polls.  The polls are completely anonymous and not linked to any personal user information.  We also provide contest/prizes.  We provide the prizes for the contests from time to time.
 
-##### Log Files:
 
-We do keep track of user IP numbers and log browser type, access times, and domain names.  We do not tie this information into any personal information.
+##### DATA MANAGEMENT
 
-##### Notification of Changes in the Privacy Policy:
+The Company may have or may establish business relationships with third parties who assist with management of our data. When you register on the Site and you leave the box checked "Yes, I want to receive information and offers from the Company", you understand that you are explicitly authorizing the Company to share any information provided by you to these third parties. If you do not wish to have your information shared with these third parties, you should check the box which says "No, I do not want to receive information and offers from the Company".
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email.  You will have a choice as to whether or not we use your information in this different manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change.  In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+##### AFFILIATES
 
-##### Change/Update User Information:
+Please note that the Site may contain links to other web sites. The Company is not responsible for the privacy practices or the contents of these web sites. In addition, the Company may partner with other businesses or organizations on the Internet. In some cases, you may access the Site through a link on such partner's web sites. By entering the Site through one of our partner's web site, you signify your understanding that the Company is not responsible for the privacy practices or the contents of these websites. Further, it is also possible that by entering through a partner's web site and using the Site, you may be allowing the partner's site to view any information you provide. If you are concerned about entering through a partner's web site, you can enter the Site directly at [www.mycoupons.com](http://www.mycoupons.com/). 
 
-To Change user information, a subscriber only needs to click on MyCoupons Account, log in, and click on Edit Account. 
+##### ACCESS TO AND MODIFYING PERSONAL INFORMATION
 
-##### The Site Opt-Out Policy
+You can review, change or delete your personal information provided to us through our Site. To access your information on-line, simply Login to [www.mycoupons.com](http://www.mycoupons.com/) and select the "My Homepage" link. Through this link you will be able to edit your personal information and/or remove and delete personal information. 
 
-Subscribers can opt-out at any time from MyCoupons by clicking the unsubscribe link in the newsletters or logging into their account and disabling it.
+##### CHILDREN'S ON-LINE PRIVACY PROTECTION ACT (COPTA)
 
-If you opt-in for a newsletter listed on the signup form of MyCoupons, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons, in some cases you may have to confirm your opt out.
+This Site is a web site directed to the general public. We do not knowingly collect information from children under the age of 13 without prior verifiable parental consent. If we receive actual knowledge that a prescriber to this Site is under the age of 13, we will remove all personally identifiable information about the person from our files.
 
-866-383-7890
+##### CONSENT TO PRIVACY POLICY
 
-[help@mycoupons.com](mailto:help@mycoupons.com%20)
+By using this Site and providing us with your personal information, you are accepting the terms set forth in this Privacy Policy. We may update this Privacy Policy from time to time. Accordingly, please check the Site occasionally for any updates or changes. Updates to our Privacy Policy that would affect how we treat personal information will not apply to information collected before we made the update, unless we first obtain your consent. 
 
-##### Creating New Accounts:
+##### MONITORING
 
-Subscribers can create new accounts simply by going through the registration process again.
-
-##### Business Data Collected:
-
-We collect no business data.
-
-##### Links to other sites:
-
-We link to may other sites from MyCoupons.  Our site is a list of coupons and free stuff found on the Internet.  Our links are provided to users and users link at their own risk.  We do not share information, such as demographical data tracking, to link partners.  We ONLY provide our listed 'opt in' partners with name, zipcode, gender, and email address if a user opts in.
-
-##### Privacy of Information
-
-MyCoupons will cooperate with law enforcement and other legal authorities in investigating claims of illegal activity and to report to law enforcement officials any suspected illegal activity.
-
-MyCoupons will not release any personally-identifiable information regarding its Users to any third party except to the extent necessary or appropriate to cooperate with such law enforcement or other legal authorities, to comply with applicable laws or regulations or in legal or administrative proceedings where such information is relevant, according to the selected options of service listed on the signup page, or to properly provide the MyCoupons Service, operate or maintain its systems or protect itself or its customers.  MyCoupons is not responsible for the privacy of your IP address, or any identifying data that you provide to the public through our MyCoupons shopping forum profiles, the auctions, classifieds, or free website.  You agree that MyCoupons' judgment as to the validity of any court order or government directive to disclose information shall be considered proper and final.   **MyCoupons reserves the right to terminate any User's account if MyCoupons learns that such User has provided MyCoupons false or misleading registration information.**  If you select one of the check boxes for additional offers to be sent to you, MyCoupons will share your name, MyCoupons email address, gender, and zip code with the sites that you select.
+The Company may elect to monitor areas of communication (i) to satisfy any applicable law or regulation; (ii) to comply with any law enforcement or governmental agency requests; (iii) to protect the right or property of the Company and/or any clients or (iv) where such monitoring is necessary or appropriate in order for the Company to operate its business.
 
 Back to top
