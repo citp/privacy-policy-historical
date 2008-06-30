@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225134943id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072741id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
-# Adult Dating Services Online - SexInTheUK
+# Sex in the UK - adult fun and dating for singles, couples and groups for erotic encounters and sex in the UK
 
 SexInTheUK is a trading name of EasyDate Ltd. 
 
