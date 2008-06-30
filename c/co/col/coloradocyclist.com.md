@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coloradocyclist.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225215234id_/http%3A//www.coloradocyclist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradocyclist.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630224714id_/http%3A//www.coloradocyclist.com/privacy) for the most accurate reproduction.*
 
-# The Colorado Cyclist, Inc
+# The Colorado Cyclist :: Bicycle Parts and Accessories
 
 ## About Us
 
