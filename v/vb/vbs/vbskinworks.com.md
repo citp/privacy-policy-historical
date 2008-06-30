@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214061726id_/http%3A//www.vbskinworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630204416id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
 
 # vBSkinworks - Quality vBulletin Skins, vBulletin Styles and more
 
-|  | [ ](http://vbskinworks.com/) | [ ](http://vbskinworks.com/forum/index.php) | [ ](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [ ](http://vbskinworks.com/supporttrio/index.php) | [ ](http://vbskinworks.com/idevaffiliate/index.php) | [ ](http://vbskinworks.com/contact.php) |   
+|  | [ ](http://vbskinworks.com/) | [ ](http://vbskinworks.com/forum/index.php) | [ ](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [ ](http://vbskinworks.com/desk/index.php) | [ ](http://vbskinworks.com/idevaffiliate/index.php) | [ ](http://vbskinworks.com/contact.php) |   
 ---|---|---|---|---|---|---|---  
   
-[](https://web.archive.org/web/20071214061726id_/http%3A//www.vbskinworks.com/index.php)
+[](https://web.archive.org/web/20080630204416id_/http%3A//vbskinworks.com/index.php)
 
 |  | 
 
@@ -39,12 +39,12 @@ News & UpdatesNews & Updates
 |   
 ---|---|---  
   
-August '07
+April '08
 
-All of our designs have been upgraded to the newest vBulletin version, 3.6.8. 
-
-October '06
-
-We are pleased to announce the opening of our Premium Subscribers Area on the forums. Those who own vBSkinworks licenses are eligible to subscribe to this area for $50 a year to gain access to non-public styles and much more!   
+All of our designs have been upgraded to the newest vBulletin version, 3.7.   
 |   
-|  | 
+|  |   
+  
+[](https://www.paypal.com/us/verified/pal=sale%40vbskinworks.com)
+
+[ ](http://www.liquidweb.com/?RID=smacklan)
