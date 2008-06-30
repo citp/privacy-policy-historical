@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223150730id_/http%3A//www.lipower.org/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630043125id_/http%3A//www.lipower.org/company/privacy.html) for the most accurate reproduction.*
 
-# LIPA | Website Privacy Policy and Terms of Use
+# LIPA | About The Long Island Power Authority | Privacy Policy and Terms of Use
 
 Privacy Policy and Terms of Use
 
@@ -12,9 +12,8 @@ Information provided on this Web site is intended to allow the visitor access to
 
 This policy describes LIPA’s privacy practices regarding information collected from visitors to this Web site. In addition, this policy describes what data is collected and how that information is used. LIPA may, at its sole discretion, change, modify, add or delete portions of this policy. Because this privacy policy only applies to this Web site, you should examine the privacy policy of any Web site, including other State Web sites you access through this Web site.
 
-**Information Collected When You Visit This Web site**
-
-When visiting this Web site, LIPA automatically collects and stores the following information about your visit:
+**Information Collected When You Visit This Web site  
+**When visiting this Web site, LIPA automatically collects and stores the following information about your visit:
 
   * The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you;
   * The type of browser and operating system you used;
@@ -26,40 +25,33 @@ When visiting this Web site, LIPA automatically collects and stores the followin
 
 This information is used to improve this Web site’s content and to help LIPA understand how people are using this Web site. This information is collected for statistical analysis, to determine what information is of most and least interest to our visitors, and to identify system performance or problem areas. This information is not collected for commercial marketing purposes and LIPA does not sell or distribute the information collected from the Web site for commercial marketing purposes. The information is retained in accordance with the public record retention provisions in the State Arts and Cultural Affairs Law.
 
-**Information Collected When You Access LIPA Services E-mail or This Site**
-
-This Web site provides access to some LIPA customer services. Information that you submit when accessing customer services will be collected. If during your visit to this Web site, you access a customer service or send an e-mail to LIPA, your e-mail address and the contents of your e-mail or communication will also be collected. The information collected is not limited to text characters and may include audio, video and graphic information formats that you send to LIPA. 
+**Information Collected When You Access LIPA Services E-mail or This Site  
+**This Web site provides access to some LIPA customer services. Information that you submit when accessing customer services will be collected. If during your visit to this Web site, you access a customer service or send an e-mail to LIPA, your e-mail address and the contents of your e-mail or communication will also be collected. The information collected is not limited to text characters and may include audio, video and graphic information formats that you send to LIPA. 
 
 The information contained in your e-mail or communication will be used to access customer services, respond to you, address that issues you identify, further improve this Web site, or forward your e-mail or communication to another agency or entity for appropriate action. Information received by LIPA from your communication with this Web site, including your e-mail address, is not collected for commercial marketing purposes, and LIPA does not sell or distribute such information for commercial marketing purposes. The information is retained in accordance with the public record retention provisions in the State Arts and Cultural Affairs Law.
 
-**Personal Information and Choice**
-
-"Personal Information" is information about an individual (e.g., an individual’s name, address and phone number). A domain name or Internet Protocol address is not considered personal information. 
+**Personal Information and Choice  
+**"Personal Information" is information about an individual (e.g., an individual’s name, address and phone number). A domain name or Internet Protocol address is not considered personal information. 
 
 Personal information is not collected through this Web site unless you voluntarily provide it by directly communicating with LIPA. If you do not communicate with this Web site it does not affect your ability to use any of the other features of this Web site. 
 
 LIPA does not knowingly collect personal information from children or create profiles of children through this Web site. LIPA cautions that the collection of personal information provided by any individual in an e-mail will be treated the same as information given by an adult, and may, if not protected by federal or State law, be subject to public access. LIPA encourages parents and teachers to be involved in children’s Internet activities and guide the children whenever children are asked to provide personal information on-line.
 
-**Disclosure of Information Collected Through This Web site**
+**Disclosure of Information Collected Through This Web site  
+**If not protected by federal or State law, personal information collected through this Web site may be subject to disclosure pursuant to law, such as the Freedom of Information Law (FOIL), the Personal Privacy Protection Law (PPPL), the federal Children’s Online Privacy Protection Act, court order, subpoena or other legal process. In addition, LIPA may disclose personal information to federal or State law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to LIPA’s information.
 
-If not protected by federal or State law, personal information collected through this Web site may be subject to disclosure pursuant to law, such as the Freedom of Information Law (FOIL), the Personal Privacy Protection Law (PPPL), the federal Children’s Online Privacy Protection Act, court order, subpoena or other legal process. In addition, LIPA may disclose personal information to federal or State law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to LIPA’s information.
+**Cookies  
+**To better serve you, we occasionally use "cookies" to enhance or customize your visit to this Web site. Cookies created on the device you use to access this Web site do not contain personally identifiable information, and do not compromise your privacy and security. We use the cookie feature to store a randomly generated identifying tag on the device you use to access this Web site. The use of cookies is a standard practice among Internet Web sites. The software and hardware you use to access this Web site allows you to refuse the cookie or delete the cookie file at any time.
 
-**Cookies**
-
-To better serve you, we occasionally use "cookies" to enhance or customize your visit to this Web site. Cookies created on the device you use to access this Web site do not contain personally identifiable information, and do not compromise your privacy and security. We use the cookie feature to store a randomly generated identifying tag on the device you use to access this Web site. The use of cookies is a standard practice among Internet Web sites. The software and hardware you use to access this Web site allows you to refuse the cookie or delete the cookie file at any time.
-
-**Security**
-
+**Security**  
 LIPA limits employee access to personally identifiable information from this Web site to only those employees who need access to perform a specific job. Security measures have been integrated into the design, implementation, and day-to-day operations of this Web site as part of LIPA’s continuing commitment to the security of electric content as well as the electronic transmission of information.
 
 The information contained in this policy should not be construed in any way as giving business, legal or other advice, or warranting as fail proof, the security of information provided via this Web site. For site security purposes and to ensure that this Web site remains available to all users, LIPA employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this Web site. 
 
-**Links Disclaimer**
+**Links Disclaimer  
+**In order to provide visitors with certain information, this Web site provides links to local, State and federal government agencies, and Web sites of other entities. A link does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policy, products, services, or accessibility of that Web site. Once you link to another Web site from this Web site, including one maintained by the State, you are subject to the terms and conditions of that Web site, including, but not limited to, its privacy policy. 
 
-In order to provide visitors with certain information, this Web site provides links to local, State and federal government agencies, and Web sites of other entities. A link does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policy, products, services, or accessibility of that Web site. Once you link to another Web site from this Web site, including one maintained by the State, you are subject to the terms and conditions of that Web site, including, but not limited to, its privacy policy. 
-
-**Podcasts**
-
+**Podcasts**  
 LIPA’s podcasting service (the "Podcast Service") consists of news and information audio files (the "Podcast Content") that may be downloaded from LIPA’s web site (“Site”) to your computer and/or transferred to your portable MP3 player. 
 
 These Terms of Use and LIPA’s Privacy Policy govern your use of the Podcasting Service. Any uses of the Podcasting Service not granted herein are strictly prohibited. Prohibited uses include, but are not limited to, the incorporation of advertising or the placement of advertising associated with or targeted at the Podcast Content, redistribution of the Podcast Content and the use of the Podcast Content in a manner which suggests or implies that LIPA endorses any products, services or causes of a third party. You may not edit or modify the Podcast Content or links in any manner whatsoever.
@@ -70,7 +62,5 @@ Any suggestions, comments or other feedback ("Feedback") offered to LIPA with re
 
 LIPA reserves the right to cease offering any or all of the Podcasting Service or Podcast Content at any time or to require you to cease any and all use of the Podcasting Service or Podcast Content at any time for any reason. LIPA assumes no liability for your activities in connection with the Podcasting Service or for your use of the Podcast Content in connection with your website, computer or MP3 player.
 
-**Contact Information**
-
-For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [ lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).  
-
+**Contact Information  
+**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [ lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).
