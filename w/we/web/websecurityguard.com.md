@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231081050id_/http%3A//www.websecurityguard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630182322id_/http%3A//www.websecurityguard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Web Security Guard
 
-|   
 **The Privacy Policy will address the following points:**
 
   * What information, if any, is collected as a result of your visit?
   * Whether information is shared?
   * Whether Cookies are placed on your hard drive?
   * Contact Information
+
+
 
 **Introduction**
 
@@ -40,6 +41,3 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 
 © Crawler, LLC  
 All trademarks are the property of their respective owners. All Rights Reserved.
-
-  
-| 
