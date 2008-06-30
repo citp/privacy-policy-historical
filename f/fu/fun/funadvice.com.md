@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230144329id_/http%3A//funadvice.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630035254id_/http%3A//www.funadvice.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy FunAdvice.com
 
