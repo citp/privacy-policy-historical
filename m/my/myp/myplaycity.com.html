@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myplaycity.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225131717id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myplaycity.com privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630205256id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
   <title>Privacy Policy - MyPlayCity</title>
@@ -34,7 +34,14 @@ urchinTracker();
     <img src="/i/cat_right_on.jpg">
     <img src="/i/glad.jpg">
   </div>
-      <div class="ihead">
+            <div class="ttbar" id="ttbar">
+        <div class="l">More games and entertainment? Install our Gaming Toolbar for free!</div>
+        <div class="m">→ <a href="/files/toolbarsetup.exe" onclick="trkset('ver1', 'install', 'ttbar', '', '');">Install Free Games Toolbar Now</a></div>
+        <div class="m2">→ <a href="/toolbar/" onclick="trkset('ver1', 'to_page', 'ttbar', '', '');">Read more</a></div>
+        <div class="r" onclick="ttbar();"> x <a href="#">Close</a></div>
+    </div>
+  <div class="ihead">
+
     <div class="ihlogo"><a href="/"><img src="/i/logo.gif" width="197" height="74" alt="Home" hspace="5" vspace="5"></a></div>
     <div class="ihbanner">
         <script type="text/javascript"><!--
@@ -42,6 +49,17 @@ urchinTracker();
        e9.size = "728x90";
     //--></script>
     <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Myplaycity/ROS/tags.js"></script>
+    <script>
+      function ttbar () {
+          setCookie ("ttbar", "close1", "", "/");
+          document.getElementById('ttbar').style.display='none';
+          trkset('ver1', 'close', 'ttbar', '', '');
+      }
+      if (getCookie("ttbar") == "close1") {
+          document.getElementById('ttbar').style.display='none';
+      }
+    </script>
+    
     </div>
     <div class="clr"></div>
   </div>
@@ -89,10 +107,7 @@ urchinTracker();
           <a href="/free_action_games">Action Games</a>&nbsp; | &nbsp;
           <a href="/free_arcade_games">Arcade Games</a>&nbsp; | &nbsp;
           <a href="/free_racing_games">Racing Games</a>&nbsp; | &nbsp;
-          <a href="/free_puzzle_games">Puzzle Games</a>&nbsp; | &nbsp;
-          <a href="/free_casino_games">Casino Games</a>&nbsp; | &nbsp;
-          <a href="/free_card_games">Card Games</a>&nbsp; | &nbsp;
-          <a href="/fun_utilities/">Fun Utilites</a>
+          <a href="/free_puzzle_games">Puzzle Games</a>&nbsp;
               </div>
     </div>
     <div class="clr"></div>
@@ -126,17 +141,13 @@ urchinTracker();
     <option value="/air_force_missions">Air Force Missions</option>
     <option value="/air_invasion">Air Invasion</option>
     <option value="/alien_riposte">Alien Riposte</option>
+    <option value="/alien_zap">Alien Zap</option>
     <option value="/amusive_checkers">Amusive Checkers</option>
     <option value="/amusive_chess">Amusive Chess</option>
     <option value="/animal_rehouse">Animal Rehouse</option>
     <option value="/animal_retreat">Animal Retreat</option>
-    <option value="/antiquity_blackjack">Antiquity Blackjack</option>
-    <option value="/antiquity_craps">Antiquity Craps</option>
-    <option value="/antiquity_roulette">Antiquity Roulette</option>
-    <option value="/arctic_quest">Arctic Quest</option>
     <option value="/barman_life">Barman's Life</option>
     <option value="/billiard_art">Billiard Art</option>
-    <option value="/bistro_stars">Bistro Stars</option>
     <option value="/bog_glutton">Bog Glutton</option>
     <option value="/bomb_threat">Bomb Threat</option>
     <option value="/born_big">Born To Be Big</option>
@@ -144,27 +155,19 @@ urchinTracker();
     <option value="/brave_dragon">Brave Dragon</option>
     <option value="/brave_pirate">Brave Pirate</option>
     <option value="/brave_plane">Brave Plane</option>
-    <option value="/brontosaur_poker">Brontosaur Poker</option>
+    <option value="/bunduster">Bunduster</option>
     <option value="/burglars_adventure">Burglars Adventure</option>
     <option value="/captain_otto_in_trap">Captain Otto In Trap</option>
     <option value="/car_racing_deluxe">Car Racing Deluxe</option>
     <option value="/cleaners_scrape">Cleaner's Scrape</option>
-    <option value="/color_it_up">Color-it-up Game</option>
     <option value="/combatant_area">Combatant Area</option>
-    <option value="/concave_mirror">Concave Mirror</option>
-    <option value="/craps_gamers">Craps Gamers</option>
     <option value="/crazy_car_gangsters">Crazy Car Gangsters</option>
     <option value="/crazy_fishing">Crazy Fishing</option>
     <option value="/crazy_fishing_multiplayer">Crazy Fishing Multiplayer</option>
     <option value="/crazy_racing_cars">Crazy Racing Cars</option>
     <option value="/crossword_puzzle_premium">Crossword Puzzle Premium</option>
-    <option value="/crystalix">Crystalix</option>
     <option value="/delightful_gifts">Delightful Gifts</option>
     <option value="/demons_doomsday">Demon's Doomsday</option>
-    <option value="/digital_salon">Digital Hairdressing Salon</option>
-    <option value="/make_up">Digital Make-up</option>
-    <option value="/dinosaur_poker_game">Dinosaur Poker Game</option>
-    <option value="/dressup_doll">Dress Up Your Doll</option>
     <option value="/duck_riposte">Duck Riposte</option>
     <option value="/egypt_ball">Egypt Ball</option>
     <option value="/f1_racing">F1 Racing</option>
@@ -173,16 +176,12 @@ urchinTracker();
     <option value="/fight_terror_2">Fight Terror 2</option>
     <option value="/fight_terror_3">Fight Terror 3</option>
     <option value="/fisherman_of_fortune">Fisherman Of Fortune</option>
-    <option value="/flower_quest">Flower Quest</option>
     <option value="/fortune_fishing_game">Fortune Fishing Game</option>
     <option value="/freak_world">Freak World</option>
-    <option value="/free_blackjack_journey">Free Black Jack Journey</option>
     <option value="/free_mahjong_planet">Free Mahjong Planet</option>
-    <option value="/free_roulette_premium">Free Roulette Premium</option>
     <option value="/free_solitaire_galaxy">Free Solitaire Galaxy</option>
     <option value="/free_solitaire_ultra">Free Solitaire Ultra</option>
     <option value="/free_solitaire_world">Free Solitaire World</option>
-    <option value="/froggy_crossword">Froggy Crossword</option>
     <option value="/fun_mice_house">Fun Mice House</option>
     <option value="/funny_bricks">Funny Bricks</option>
     <option value="/furious_biker">Furious Biker</option>
@@ -191,16 +190,16 @@ urchinTracker();
     <option value="/galaxy_guard">Galaxy Guard</option>
     <option value="/galaxy_racing">Galaxy Racing</option>
     <option value="/gnomzy">Gnomzy</option>
+    <option value="/grabrilla">Grabrilla</option>
     <option value="/greedy_spooks">Greedy Spooks</option>
     <option value="/helicopter_game">Helicopter Game</option>
     <option value="/hell_buggies">Hell Buggies</option>
     <option value="/hen_house">Hen House</option>
-    <option value="/greeting_cards">Homemade Greeting Cards</option>
+    <option value="/hive_drive">Hive Drive</option>
     <option value="/huge_catch">Huge Catch</option>
     <option value="/jigsaw_twister">Jigsaw Twister</option>
     <option value="/jolly_balls">Jolly Balls</option>
     <option value="/jolly_cubes">Jolly Cubes</option>
-    <option value="/jurassic_video_poker">Jurassic Video Poker</option>
     <option value="/lab_enigma">Lab Enigma</option>
     <option value="/last_pilot">Last Pilot Vs Machine Aliens</option>
     <option value="/mad_dogs">Mad Dogs On The Road</option>
@@ -215,14 +214,12 @@ urchinTracker();
     <option value="/mountain_car">Mountain Car</option>
     <option value="/mutant_garden_guard">Mutant Garden Guard</option>
     <option value="/free_mahjong">My Free Mahjong</option>
-    <option value="/my_free_poker">My Free Poker</option>
     <option value="/my_freecell_solitaire">My Freecell Solitaire</option>
     <option value="/myplaycity_arcanoid">Myplaycity Arcanoid</option>
     <option value="/myplaycity_freecell">Myplaycity Freecell Solitaire</option>
     <option value="/myplaycity_puzzles">Myplaycity Puzzles</option>
     <option value="/screensaver">Myplaycity Screensaver</option>
     <option value="/myplaycity_solitare">Myplaycity Solitaire</option>
-    <option value="/myplaycity_video_poker">Myplaycity Video Poker</option>
     <option value="/need_extreme">Need For Extreme</option>
     <option value="/need_extreme_2">Need For Extreme 2</option>
     <option value="/need_extreme_3d">Need For Extreme 3d</option>
@@ -235,11 +232,8 @@ urchinTracker();
     <option value="/petro_the_soldier">Petro The Soldier</option>
     <option value="/plasticine_martian">Plasticine Martian</option>
     <option value="/plasticine_racing">Plasticine Racing</option>
-    <option value="/play_blackjack_forever">Play Blackjack Forever</option>
     <option value="/play_mahjong_forever">Play Mahjong Forever</option>
-    <option value="/play_poker_forever">Play Poker Forever</option>
     <option value="/play_solitaire_forever">Play Solitaire Forever</option>
-    <option value="/poker_game_deluxe">Poker Game Deluxe</option>
     <option value="/poofik">Poofik</option>
     <option value="/racing_trucker">Racing Trucker</option>
     <option value="/refined_bowling">Refined Bowling</option>
@@ -247,21 +241,18 @@ urchinTracker();
     <option value="/ringed_drag_strip">Ringed Drag Strip</option>
     <option value="/ringed_racing_fun">Ringed Racing Fun</option>
     <option value="/road_attack">Road Attack</option>
-    <option value="/roulette_passion">Roulette Passion</option>
     <option value="/sea_guard">Sea Guard</option>
     <option value="/sea_trapper">Sea Trapper</option>
+    <option value="/shootiah">Shootiah</option>
     <option value="/shooting_balls">Shooting Balls Gallery</option>
     <option value="/sky_goofers">Sky Goofers</option>
     <option value="/smart_cook">Smart Cook</option>
-    <option value="/snowy_treasure_hunter">Snowy Treasure Hunter</option>
-    <option value="/snowy_puzzle_islands">Snowy: Puzzle Islands</option>
-    <option value="/snowy_bear_adventures">Snowy: The Bear's Adventures</option>
-    <option value="/snowy_treasure_hunter_2">Snowy: Treasure Hunter 2</option>
     <option value="/solitaire_game_ultra">Solitaire Game Ultra</option>
     <option value="/space_courage">Space Courage</option>
     <option value="/space_race_mania">Space Race Mania</option>
     <option value="/spider_hunting">Spider Hunting</option>
     <option value="/starlight_walk">Starlight Walk</option>
+    <option value="/subaquatic">Subaquatic</option>
     <option value="/targeted_descent">Targeted Descent</option>
     <option value="/top_speeder">Top Speeder</option>
     <option value="/treasure_frogman">Treasure Frogman</option>
@@ -279,7 +270,7 @@ urchinTracker();
   
   <div class="inavr2">
   <form action="/search/index.php" method="POST">
-  <input class="fgs" type="text" name="keywords" value="Free games search" onfocus="value=''" onblur="value='Free games search'">
+  <input class="fgs" type="text" name="keywords" value="Free games search" onfocus="value=''">
   <input name="submit" type="submit" class="sgo" value=" ">
   <input type="hidden" name="category" value="">
   <input type="hidden" name="sort" value="Relevancy">
@@ -403,14 +394,11 @@ urchinTracker();
   
 </div>
   <div class="iright">
-   <div class="sit"><a href="http://feeds.feedburner.com/Myplaycity" rel="alternate" type="application/rss+xml" onclick="javascript:urchinTracker('/Outgoing/FeedBurner');"><img src="/i/icons/rss.png" alt="" align="left" width="16" height="16">
+   <div class="sit"><a href="http://feeds.feedburner.com/Myplaycity" target="_blank" rel="alternate" type="application/rss+xml" onclick="javascript:urchinTracker('/Outgoing/FeedBurner');"><img src="/i/icons/rss.png" alt="" align="left" width="16" height="16">
     Free Games by RSS   </a></div>
-   
-   <div class="sit"><a href="/freecd" onclick="javascript:urchinTracker('/Website/FreeCD3');"><img src="/i/icons/cd.png" width="16" height="16" align="left" alt="">
-    Free Games CD   </a></div>
-   
+
    <div class="sit"><a href="/toolbar" onclick="javascript:urchinTracker('/Website/ToolbarRight');"><img src="/i/icons/toolbar.png" width="16" height="16" align="left" alt="">
-    MyPlayCity Toolbar   </a></div>
+    Free Games Toolbar   </a></div>
    
    <div class="sit"><a href="/tell_a_friend" onclick="javascript:urchinTracker('/Website/TellAFriend');"><img src="/i/icons/friend.png" width="16" height="16" align="left" alt="">
     Spread the Word   </a></div>
@@ -428,18 +416,16 @@ urchinTracker();
   <option value="">Quick Games Download</option>
   <option value=""></option>
   <option value="/files/absevil_setup.exe">Absolute Evil</option>
-    <option value="/flies/angling_setup.exe">Addictive Angling</option>
+    <option value="/files/angling_setup.exe">Addictive Angling</option>
     <option value="/files/alines_setup.exe">Advanced Lines</option>
     <option value="/files/afmissions_setup.exe">Air Force Missions</option>
     <option value="/files/airinv_setup.exe">Air Invasion</option>
     <option value="/files/alienriposte_setup.exe">Alien Riposte</option>
+    <option value="/files/alienzap_setup.exe">Alien Zap</option>
     <option value="/files/checkers_setup.exe">Amusive Checkers</option>
     <option value="/files/achess_setup.exe">Amusive Chess</option>
     <option value="/files/arehouse_setup.exe">Animal Rehouse</option>
     <option value="/files/animalr_setup.exe">Animal Retreat</option>
-    <option value="/files/ablackjack_setup.exe">Antiquity Blackjack</option>
-    <option value="/files/acraps_setup.exe">Antiquity Craps</option>
-    <option value="/files/aroulette_setup.exe">Antiquity Roulette</option>
     <option value="/files/barman_setup.exe">Barman's Life</option>
     <option value="/files/billiardart_setup.exe">Billiard Art</option>
     <option value="/files/bogglut_setup.exe">Bog Glutton</option>
@@ -449,26 +435,19 @@ urchinTracker();
     <option value="/files/bdragon_setup.exe">Brave Dragon</option>
     <option value="/files/bpirate_setup.exe">Brave Pirate</option>
     <option value="/files/braveplane_setup.exe">Brave Plane</option>
-    <option value="/files/brontopoker_setup.exe">Brontosaur Poker</option>
+    <option value="/files/bunduster_setup.exe">Bunduster</option>
     <option value="/files/burglarsadventure_setup.exe">Burglars Adventure</option>
     <option value="/files/captaino_setup.exe">Captain Otto In Trap</option>
     <option value="/files/carracing_setup.exe">Car Racing Deluxe</option>
     <option value="/files/cleaners_setup.exe">Cleaner's Scrape</option>
-    <option value="/files/coloritup_setup.exe">Color-it-up Game</option>
     <option value="/files/carea_setup.exe">Combatant Area</option>
-    <option value="/files/mirror_setup.exe">Concave Mirror</option>
-    <option value="/files/craps_setup.exe">Craps Gamers</option>
-    <option value="/files/crcagangsters_setup.exe">Crazy Car Gangsters</option>   
+    <option value="/files/crcagangsters_setup.exe">Crazy Car Gangsters</option>
     <option value="/files/cfishing_setup.exe">Crazy Fishing</option>
     <option value="/files/cfishingmp_setup.exe">Crazy Fishing Multiplayer</option>
     <option value="/files/crazyracing_setup.exe">Crazy Racing Cars</option>
     <option value="/files/crswrdpzzl_setup.exe">Crossword Puzzle Premium</option>
     <option value="/files/dlfgifts_setup.exe">Delightful Gifts</option>
     <option value="/files/demonsdoomsday_setup.exe">Demon's Doomsday</option>
-    <option value="/files/digitalsalon_setup.exe">Digital Hairdressing Salon</option>
-    <option value="/files/makeup_setup.exe">Digital Make-up</option>
-    <option value="/files/dinopoker_setup.exe">Dinosaur Poker Game</option>
-    <option value="/files/dressupdoll_setup.exe">Dress Up Your Doll</option>
     <option value="/files/duckriposte_setup.exe">Duck Riposte</option>
     <option value="/files/egyptball_setup.exe">Egypt Ball</option>
     <option value="/files/f1racing_setup.exe">F1 Racing</option>
@@ -479,13 +458,10 @@ urchinTracker();
     <option value="/files/fisherman_setup.exe">Fisherman Of Fortune</option>
     <option value="/files/fortfishing_setup.exe">Fortune Fishing Game</option>
     <option value="/files/freakworld_setup.exe">Freak World</option>
-    <option value="/files/blackjack_setup.exe">Free Black Jack Journey</option>
     <option value="/files/mahjongp_setup.exe">Free Mahjong Planet</option>
-    <option value="/files/froulettep_setup.exe">Free Roulette Premium</option>
     <option value="/files/solitaireg_setup.exe">Free Solitaire Galaxy</option>
     <option value="/files/solitaireultra_setup.exe">Free Solitaire Ultra</option>
     <option value="/files/solitaireworld_setup.exe">Free Solitaire World</option>
-    <option value="/files/froggycrswrd_setup.exe">Froggy Crossword</option>
     <option value="/files/funmiceh_setup.exe">Fun Mice House</option>
     <option value="/files/funnybricks_setup.exe">Funny Bricks</option>
     <option value="/files/furiousbiker_setup.exe">Furious Biker</option>
@@ -494,15 +470,16 @@ urchinTracker();
     <option value="/files/galaxyg_setup.exe">Galaxy Guard</option>
     <option value="/files/gracing_setup.exe">Galaxy Racing</option>
     <option value="/files/gnomzy_setup.exe">Gnomzy</option>
+    <option value="/files/grabrilla_setup.exe">Grabrilla</option>
+    <option value="/files/spooks_setup.exe">Greedy Spooks</option>
     <option value="/files/helicopter_setup.exe">Helicopter Game</option>
     <option value="/files/hlbuggies_setup.exe">Hell Buggies</option>
     <option value="/files/henhouse_setup.exe">Hen House</option>
-    <option value="/files/greetingc_setup.exe">Homemade Greeting Cards</option>
+    <option value="/files/hivedrive_setup.exe">Hive Drive</option>
     <option value="/files/hugecatch_setup.exe">Huge Catch</option>
     <option value="/files/jigsawt_setup.exe">Jigsaw Twister</option>
     <option value="/files/jollyballs_setup.exe">Jolly Balls</option>
     <option value="/files/jollycubes_setup.exe">Jolly Cubes</option>
-    <option value="/files/jvpoker_setup.exe">Jurassic Video Poker</option>
     <option value="/files/labenigma_setup.exe">Lab Enigma</option>
     <option value="/files/lastpilot_setup.exe">Last Pilot Vs Machine Aliens</option>
     <option value="/files/maddogs_setup.exe">Mad Dogs On The Road</option>
@@ -511,19 +488,17 @@ urchinTracker();
     <option value="/files/m3maze_setup.exe">Match3 Maze</option>
     <option value="/files/mfrog_setup.exe">Merry Frog</option>
     <option value="/files/minicars_setup.exe">Mini-cars Racing</option>
-    <option value="/files/monkeysfriends_setup.exe">Monkey's Friends</option>
     <option value="/files/mstone_setup.exe">Moabite Stone</option>
+    <option value="/files/monkeysfriends_setup.exe">Monkey's Friends</option>
     <option value="/files/motogeeks_setup.exe">Moto Geeks</option>
     <option value="/files/mcar_setup.exe">Mountain Car</option>
     <option value="/files/mutantgg_setup.exe">Mutant Garden Guard</option>
     <option value="/files/mahjong_setup.exe">My Free Mahjong</option>
-    <option value="/files/freepoker_setup.exe">My Free Poker</option>
     <option value="/files/freecell_setup.exe">My Freecell Solitaire</option>
     <option value="/files/mpcarcanoid_setup.exe">Myplaycity Arcanoid</option>
     <option value="/files/mpcfreecell_setup.exe">Myplaycity Freecell Solitaire</option>
     <option value="/files/mpcpuzzles_setup.exe">Myplaycity Puzzles</option>
     <option value="/files/mpcsolitare_setup.exe">Myplaycity Solitaire</option>
-    <option value="/files/videopoker_setup.exe">Myplaycity Video Poker</option>
     <option value="/files/nfe_setup.exe">Need For Extreme</option>
     <option value="/files/nfe2_setup.exe">Need For Extreme 2</option>
     <option value="/files/nfe3d_setup.exe">Need For Extreme 3d</option>
@@ -536,20 +511,18 @@ urchinTracker();
     <option value="/files/petrothesoldier_setup.exe">Petro The Soldier</option>
     <option value="/files/pmartian_setup.exe">Plasticine Martian</option>
     <option value="/files/plasticineracing_setup.exe">Plasticine Racing</option>
-    <option value="/files/pblackjackf_setup.exe">Play Blackjack Forever</option>
     <option value="/files/pmahjongf_setup.exe">Play Mahjong Forever</option>
-    <option value="/files/ppokerf_setup.exe">Play Poker Forever</option>
     <option value="/files/psolitairef_setup.exe">Play Solitaire Forever</option>
-    <option value="/files/poker_setup.exe">Poker Game Deluxe</option>
+    <option value="/files/poofik_setup.exe">Poofik</option>
     <option value="/files/racingtrucker_setup.exe">Racing Trucker</option>
     <option value="/files/rbowling_setup.exe">Refined Bowling</option>
     <option value="/files/renjuworldsetup.exe">Renju World</option>
     <option value="/files/rdstrip_setup.exe">Ringed Drag Strip</option>
     <option value="/files/rracing_setup.exe">Ringed Racing Fun</option>
     <option value="/files/rattack_setup.exe">Road Attack</option>
-    <option value="/files/roulette_setup.exe">Roulette Passion</option>
     <option value="/files/seag_setup.exe">Sea Guard</option>
     <option value="/files/seatrapper_setup.exe">Sea Trapper</option>
+    <option value="/files/shootiah_setup.exe">Shootiah</option>
     <option value="/files/shootingballs_setup.exe">Shooting Balls Gallery</option>
     <option value="/files/skygoofs_setup.exe">Sky Goofers</option>
     <option value="/files/smartcook_setup.exe">Smart Cook</option>
@@ -558,6 +531,7 @@ urchinTracker();
     <option value="/files/spaceracemania_setup.exe">Space Race Mania</option>
     <option value="/files/spiderhunt_setup.exe">Spider Hunting</option>
     <option value="/files/slwalk_setup.exe">Starlight Walk</option>
+    <option value="/files/subaquatic_setup.exe">Subaquatic</option>
     <option value="/files/tdescent_setup.exe">Targeted Descent</option>
     <option value="/files/topspeeder_setup.exe">Top Speeder</option>
     <option value="/files/trfrogman_setup.exe">Treasure Frogman</option>
@@ -568,7 +542,6 @@ urchinTracker();
     <option value="/files/vividbricks_setup.exe">Vivid Bricks</option>
     <option value="/files/wplanet_setup.exe">Weird Planet</option>
     <option value="/files/worddlx_setup.exe">Word Game Deluxe</option>
-    
   </select></form>
   </div>
   
@@ -577,7 +550,7 @@ urchinTracker();
      <div class="nm">Free Games by E-mail</div>
      <form action="http://pr2.netatlantic.com/subscribe/subscribe.tml" method="POST">
      <div class="txt">Subscribe to the New Games Alert and get a few New Games every week:</div>
-     <div class="t1"><input type="text" name="email" value="Your e-mail" onfocus="value=''" onblur="value='Your e-mail'"></div><div class="t2"><input type="submit" value=" " name="sendmessagebutton" onclick="javascript:urchinTracker('/Website/SubscribeDirect');"></div>
+     <div class="t1"><input type="text" name="email" value="Your e-mail" onfocus="value=''"></div><div class="t2"><input type="submit" value=" " name="sendmessagebutton" onclick="javascript:urchinTracker('/Website/SubscribeDirect');"></div>
      <input type="hidden" name="list" value="myplaycity">
      <input type="hidden" name="confirm" value="none">
      <input type="hidden" name="showconfirm" value="F">
@@ -627,11 +600,14 @@ urchinTracker();
     <p>
     <!-- GBN Code Start -->
     <script language="JavaScript">
-    <!--
-    var rand=Math.round(Math.random()*10000);
-    document.write('<a href="http://www.gamesbanner.net/work/click.php4?rnd='+rand+'" target="_blank"><img src="http://www.gamesbanner.net/work/show.php4?from=Dimaban5&rnd='+rand+'" border="0" alt="Games Banner Network" width="100" height="100"></a>');
-    // -->
-    </script><a href="http://www.gamesbanner.net/work/click.php4?rnd=7565" target="_blank"><img src="http://www.gamesbanner.net/work/show.php4?from=Dimaban5&amp;rnd=7565" border="0" alt="Games Banner Network" width="100" height="100"></a>
+    aj_pr = Math.floor(Math.random() * 1000000);
+    document.write('<iframe width="100" height="100" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://ads.gamesbannernet.com/servlet/ajrotator/5261/0/vh?z=gbn&dim=119&nocache='+aj_pr+'&referer='+escape(document.location.href)+'"></iframe>');
+    </script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/5261/0/vh?z=gbn&amp;dim=119&amp;nocache=776096&amp;referer=https%3A//web.archive.org/web/20080630205256id_/http%253A//www.myplaycity.com/privacy_policy.html"></iframe>
+    <noscript>
+    <a href="http://www.gamesbannernet.com/" target="_blank">
+    <img src="http://www.gamesbannernet.com/img/spacer.gif" alt="Games Banner Network" width="1" height="1" border="0">
+    </a>
+    </noscript>
     <!-- GBN Code End -->
     </p>
 
@@ -697,11 +673,7 @@ urchinTracker();
           <p><a href="/free_arcade_games">Free Arcade Games</a></p>
           <p><a href="/free_racing_games">Free Racing Games</a></p>
           <p><a href="/free_puzzle_games">Free Puzzle Games</a></p>
-          <p><a href="/free_card_games">Free Card Games</a></p>
-          <p><a href="/free_casino_games">Free Casino Games</a></p>
-          <p><a href="/online_games">Free Online Games</a></p>
-          <p><a href="/fun_utilities">Fun Utilities</a></p>
-          <p><a href="/high_score">High Score</a></p>
+          <p><a href="/online_games">Free Online Games</a></p><p><a href="/high_score">High Score</a></p>
           <p><a href="/free_content">Free Content</a></p>
           <p><a href="/support">Support</a></p>                               
         </div>
@@ -715,17 +687,13 @@ urchinTracker();
         <a href="/online_games/play_online_air_invasion.html" target="_blank">Air Invasion Online</a><br>
         <a href="/air_invasion" target="_blank">Air Invasion</a><br>
         <a href="/alien_riposte" target="_blank">Alien Riposte</a><br>
+        <a href="/alien_zap" target="_blank">Alien Zap</a><br>
         <a href="/amusive_checkers" target="_blank">Amusive Checkers</a><br>
         <a href="/amusive_chess" target="_blank">Amusive Chess</a><br>
         <a href="/animal_rehouse" target="_blank">Animal Rehouse</a><br>
         <a href="/animal_retreat" target="_blank">Animal Retreat</a><br>
-        <a href="/antiquity_blackjack" target="_blank">Antiquity Blackjack</a><br>
-        <a href="/online_games/play_online_antiquity_craps.html" target="_blank">Antiquity Craps Online</a><br>
-        <a href="/antiquity_craps" target="_blank">Antiquity Craps</a><br>
-        <a href="/antiquity_roulette" target="_blank">Antiquity Roulette</a><br>
         <span>B</span><br><a href="/barman_life" target="_blank">Barman's Life</a><br>
         <a href="/billiard_art" target="_blank">Billiard Art</a><br>
-        <a href="/online_games/play_online_antiquity_blackjack.html" target="_blank">Blackjack Online</a><br>
         <a href="/bog_glutton" target="_blank">Bog Glutton</a><br>
         <a href="/bomb_threat" target="_blank">Bomb Threat</a><br>
         <a href="/born_big_multiplayer" target="_blank">Born To Be Big Multiplayer</a><br>
@@ -736,17 +704,12 @@ urchinTracker();
         <a href="/brave_pirate" target="_blank">Brave Pirate</a><br>
         <a href="/online_games/play_online_brave_plane.html" target="_blank">Brave Plane Online</a><br>
         <a href="/brave_plane" target="_blank">Brave Plane</a><br>
-        <a href="/online_games/play_online_brontosaur_poker.html" target="_blank">Brontosaur Poker Online</a><br>
-        <a href="/brontosaur_poker" target="_blank">Brontosaur Poker</a><br>
+        <a href="/bunduster" target="_blank">Bunduster</a><br>
         <a href="/burglars_adventure" target="_blank">Burglars Adventure</a><br>
         <span>C</span><br><a href="/captain_otto_in_trap" target="_blank">Captain Otto In Trap</a><br>
         <a href="/car_racing_deluxe" target="_blank">Car Racing Deluxe</a><br>
         <a href="/cleaners_scrape" target="_blank">Cleaner's Scrape</a><br>
-        <a href="/color_it_up" target="_blank">Color-it-up Game</a><br>
         <a href="/combatant_area" target="_blank">Combatant Area</a><br>
-        <a href="/concave_mirror" target="_blank">Concave Mirror</a><br>
-        <a href="/online_games/play_online_craps_gamers.html" target="_blank">Craps Gamers Online</a><br>
-        </td><td><a href="/craps_gamers" target="_blank">Craps Gamers</a><br>
         <a href="/crazy_car_gangsters" target="_blank">Crazy Car Gangsters</a><br>
         <a href="/crazy_fishing_multiplayer" target="_blank">Crazy Fishing Multiplayer</a><br>
         <a href="/online_games/play_online_fishing.html" target="_blank">Crazy Fishing Online</a><br>
@@ -756,11 +719,7 @@ urchinTracker();
         <a href="/crossword_puzzle_premium" target="_blank">Crossword Puzzle</a><br>
         <span>D</span><br><a href="/delightful_gifts" target="_blank">Delightful Gifts</a><br>
         <a href="/demons_doomsday" target="_blank">Demon's Doomsday</a><br>
-        <a href="/make_up" target="_blank">Digital Make-up</a><br>
-        <a href="/dinosaur_poker_game" target="_blank">Dinosaur Poker Game</a><br>
-        <a href="/online_games/play_online_dinosaur_poker_game.html" target="_blank">Dinosaur Poker Online</a><br>
-        <a href="/dressup_doll" target="_blank">Dress Up Your Doll</a><br>
-        <a href="/duck_riposte" target="_blank">Duck Riposte</a><br>
+        </td><td><a href="/duck_riposte" target="_blank">Duck Riposte</a><br>
         <span>E</span><br><a href="/egypt_ball" target="_blank">Egypt Ball</a><br>
         <span>F</span><br><a href="/f1_racing" target="_blank">F1 Racing</a><br>
         <a href="/fantasy_submarine_game" target="_blank">Fantasy Submarine</a><br>
@@ -773,18 +732,12 @@ urchinTracker();
         <a href="/fortune_fishing_game" target="_blank">Fortune Fishing Game</a><br>
         <a href="/online_games/play_online_fortune_fishing_game.html" target="_blank">Fortune Fishing Online</a><br>
         <a href="/freak_world" target="_blank">Freak World</a><br>
-        <a href="/free_blackjack_journey" target="_blank">Free Black Jack Journey</a><br>
-        <a href="/online_games/play_online_free_blackjack_journey.html" target="_blank">Free Blackjack Online</a><br>
         <a href="/free_mahjong_planet" target="_blank">Free Mahjong Planet</a><br>
-        <a href="/online_games/play_online_free_roulette_premium.html" target="_blank">Free Roulette Online</a><br>
-        <a href="/free_roulette_premium" target="_blank">Free Roulette Premium</a><br>
         <a href="/free_solitaire_galaxy" target="_blank">Free Solitaire Galaxy</a><br>
         <a href="/free_solitaire_ultra" target="_blank">Free Solitaire Ultra</a><br>
         <a href="/free_solitaire_world" target="_blank">Free Solitaire World</a><br>
         <a href="/myplaycity_freecell" target="_blank">Freecell Solitaire</a><br>
-        <a href="/online_games/play_online_froggy_crossword.html" target="_blank">Froggy Crossword Online</a><br>
-        <a href="/froggy_crossword" target="_blank">Froggy Crossword</a><br>
-        </td><td><a href="/online_games/play_online_fun_mice_house.html" target="_blank">Fun Mice House Online</a><br>
+        <a href="/online_games/play_online_fun_mice_house.html" target="_blank">Fun Mice House Online</a><br>
         <a href="/fun_mice_house" target="_blank">Fun Mice House</a><br>
         <a href="/funny_bricks" target="_blank">Funny Bricks</a><br>
         <a href="/furious_biker" target="_blank">Furious Biker</a><br>
@@ -794,18 +747,18 @@ urchinTracker();
         <a href="/galaxy_guard" target="_blank">Galaxy Guard</a><br>
         <a href="/galaxy_racing" target="_blank">Galaxy Racing</a><br>
         <a href="/gnomzy" target="_blank">Gnomzy</a><br>
+        <a href="/online_games/play_online_grabrilla.html" target="_blank">Grabrilla Online</a><br>
+        <a href="/grabrilla" target="_blank">Grabrilla</a><br>
         <a href="/greedy_spooks" target="_blank">Greedy Spooks</a><br>
-        <a href="/greeting_cards" target="_blank">Greeting Cards</a><br>
-        <span>H</span><br><a href="/digital_salon" target="_blank">Hairdressing Salon</a><br>
-        <a href="/helicopter_game" target="_blank">Helicopter Game</a><br>
+        <span>H</span><br><a href="/helicopter_game" target="_blank">Helicopter Game</a><br>
         <a href="/hell_buggies" target="_blank">Hell Buggies</a><br>
         <a href="/hen_house" target="_blank">Hen House</a><br>
+        <a href="/online_games/play_online_hivedrive.html" target="_blank">Hive Drive Online</a><br>
+        <a href="/hive_drive" target="_blank">Hive Drive</a><br>
         <a href="/huge_catch" target="_blank">Huge Catch</a><br>
         <span>J</span><br><a href="/jigsaw_twister" target="_blank">Jigsaw Twister</a><br>
-        <a href="/jolly_balls" target="_blank">Jolly Balls</a><br>
+        </td><td><a href="/jolly_balls" target="_blank">Jolly Balls</a><br>
         <a href="/jolly_cubes" target="_blank">Jolly Cubes</a><br>
-        <a href="/online_games/play_online_jurassic_video_poker.html" target="_blank">Jurassic Poker Online</a><br>
-        <a href="/jurassic_video_poker" target="_blank">Jurassic Video Poker</a><br>
         <span>L</span><br><a href="/lab_enigma" target="_blank">Lab Enigma</a><br>
         <a href="/last_pilot" target="_blank">Last Pilot</a><br>
         <span>M</span><br><a href="/mad_dogs" target="_blank">Mad Dogs</a><br>
@@ -820,16 +773,14 @@ urchinTracker();
         <a href="/monkeys_friends" target="_blank">Monkey's Friends</a><br>
         <a href="/moto_geeks" target="_blank">Moto Geeks</a><br>
         <a href="/mountain_car" target="_blank">Mountain Car</a><br>
-        </td><td><a href="/mutant_garden_guard" target="_blank">Mutant Garden Guard</a><br>
+        <a href="/mutant_garden_guard" target="_blank">Mutant Garden Guard</a><br>
         <a href="/free_mahjong" target="_blank">My Free Mahjong</a><br>
-        <a href="/my_free_poker" target="_blank">My Free Poker</a><br>
         <a href="/online_games/play_online_my_freecell_solitaire.html" target="_blank">My Freecell Online</a><br>
         <a href="/my_freecell_solitaire" target="_blank">My Freecell Solitaire</a><br>
         <a href="/myplaycity_arcanoid" target="_blank">Myplaycity Arcanoid</a><br>
         <a href="/myplaycity_puzzles" target="_blank">Myplaycity Puzzles</a><br>
         <a href="/screensaver" target="_blank">Myplaycity Screensaver</a><br>
         <a href="/myplaycity_solitare" target="_blank">Myplaycity Solitaire</a><br>
-        <a href="/myplaycity_video_poker" target="_blank">Myplaycity Video Poker</a><br>
         <span>N</span><br><a href="/online_games/play_online_need_for_extreme.html" target="_blank">Need Extreme Online</a><br>
         <a href="/need_extreme_2" target="_blank">Need For Extreme 2</a><br>
         <a href="/need_extreme_3d" target="_blank">Need For Extreme 3d</a><br>
@@ -844,29 +795,21 @@ urchinTracker();
         <a href="/pestering_birds" target="_blank">Pestering Birds</a><br>
         <a href="/petro_the_soldier" target="_blank">Petro The Soldier</a><br>
         <a href="/plasticine_martian" target="_blank">Plasticine Martian</a><br>
-        <a href="/plasticine_racing" target="_blank">Plasticine Racing</a><br>
-        <a href="/play_blackjack_forever" target="_blank">Play Blackjack Forever</a><br>
-        <a href="/online_games/play_online_play_blackjack_forever.html" target="_blank">Play Blackjack Online</a><br>
+        </td><td><a href="/plasticine_racing" target="_blank">Plasticine Racing</a><br>
         <a href="/play_mahjong_forever" target="_blank">Play Mahjong Forever</a><br>
-        <a href="/play_poker_forever" target="_blank">Play Poker Forever</a><br>
         <a href="/play_solitaire_forever" target="_blank">Play Solitaire Forever</a><br>
-        <a href="/online_games/play_online_play_poker_forever.html" target="_blank">Poker Forever Online</a><br>
-        <a href="/poker_game_deluxe" target="_blank">Poker Game Deluxe</a><br>
-        <a href="/online_games/play_online_poker_game_deluxe.html" target="_blank">Poker Game Online</a><br>
         <a href="/poofik" target="_blank">Poofik</a><br>
         <span>R</span><br><a href="/racing_trucker" target="_blank">Racing Trucker</a><br>
         <a href="/refined_bowling" target="_blank">Refined Bowling</a><br>
         <a href="/renju" target="_blank">Renju World</a><br>
-        </td><td><a href="/ringed_drag_strip" target="_blank">Ringed Drag Strip</a><br>
+        <a href="/ringed_drag_strip" target="_blank">Ringed Drag Strip</a><br>
         <a href="/ringed_racing_fun" target="_blank">Ringed Racing Fun</a><br>
         <a href="/online_games/play_online_road_attack.html" target="_blank">Road Attack Online</a><br>
         <a href="/road_attack" target="_blank">Road Attack</a><br>
-        <a href="/online_games/play_online_antiquity_roulette.html" target="_blank">Roulette Online</a><br>
-        <a href="/online_games/play_online_roulette_passion.html" target="_blank">Roulette Passion Online</a><br>
-        <a href="/roulette_passion" target="_blank">Roulette Passion</a><br>
         <span>S</span><br><a href="/online_games/play_online_sea_guard.html" target="_blank">Sea Guard Online</a><br>
         <a href="/sea_guard" target="_blank">Sea Guard</a><br>
         <a href="/sea_trapper" target="_blank">Sea Trapper</a><br>
+        <a href="/shootiah" target="_blank">Shootiah</a><br>
         <a href="/shooting_balls" target="_blank">Shooting Balls Gallery</a><br>
         <a href="/sky_goofers" target="_blank">Sky Goofers</a><br>
         <a href="/online_games/play_online_smart_cook.html" target="_blank">Smart Cook Online</a><br>
@@ -881,14 +824,16 @@ urchinTracker();
         <a href="/space_race_mania" target="_blank">Space Race Mania</a><br>
         <a href="/spider_hunting" target="_blank">Spider Hunting</a><br>
         <a href="/starlight_walk" target="_blank">Starlight Walk</a><br>
+        <a href="/subaquatic" target="_blank">Subaquatic</a><br>
         <span>T</span><br><a href="/targeted_descent" target="_blank">Targeted Descent</a><br>
         <a href="/top_speeder" target="_blank">Top Speeder</a><br>
         <a href="/treasure_frogman" target="_blank">Treasure Frogman</a><br>
         <a href="/trial_bike_ultra" target="_blank">Trial Bike Ultra</a><br>
         <span>U</span><br><a href="/ufokiller" target="_blank">Ufo Killer</a><br>
         <a href="/underwater_ball" target="_blank">Underwater Ball</a><br>
-        <span>V</span><br><a href="/vivid_arkanoid" target="_blank">Vivid Arkanoid</a><br>
-        <a href="/online_games/play_online_vivid_bricks.html" target="_blank">Vivid Bricks Online</a><br>
+        <span>V</span><br><a href="/online_games/play_online_vivid_arkanoid.html" target="_blank">Vivid Arkanoid Online</a><br>
+        <a href="/vivid_arkanoid" target="_blank">Vivid Arkanoid</a><br>
+        </td><td><a href="/online_games/play_online_vivid_bricks.html" target="_blank">Vivid Bricks Online</a><br>
         <a href="/vivid_bricks" target="_blank">Vivid Bricks</a><br>
         <span>W</span><br><a href="/weird_planet" target="_blank">Weird Planet</a><br>
         <a href="/online_games/play_online_word_game_deluxe.html" target="_blank">Word Game Online</a><br>
@@ -910,9 +855,73 @@ urchinTracker();
      
       <div class="clr"></div>    
                                                                     
-  <br>
- 
-<center>
+  <center>
+
+
+<div class="clr"><br></div>
+
+<style>
+  .expf {width:640px; clear:both;}
+  .expf .b {width:640px; clear:both; background-color:#e9e9e9; border-left:1px solid #ababab; border-right:1px solid #ababab;}
+  .expf h1 {margin:10px 0 10px 0; width:630px; font-size:16px; text-align: center; font-family:Arial, Helvetica, Sans-Serif; color:#eb0000;}
+  .expf p {margin:0 0 10px 0; width:610px; font-size:12px; text-align:left; font-family:Arial, Helvetica, Sans-Serif; color:#555;}
+  .expf .js {margin:0 0 10px 0; width:610px;}
+</style>
+
+  <div class="expf">
+    <div class="f"><img src="/i/ogbb.jpg" width="642" height="5" alt=""></div>
+    <div class="b">
+      <h1>FOREX - Currency Trading, the biggest and most exciting market<br>on earth, offers you countless opportunities!</h1>
+      <p>The Euro-US-Dollar rate is constantly changing, usually in small movements. Daily fluctuations around 1% are quite common. In Forex trading, when you invest with a 1:100 “leverage”, changes of, say, 1.2% turn to 120%, during a single day, even hours or minutes! You may profit unlimited amounts, but if the exchange rate moves against your favor, you lose not more than your initial investment. Learn Forex trading and make millions by trading freely at home!</p>
+      <div class="js">
+
+<script type="text/javascript"><!--
+
+google_ad_client = "pub-5655997124934707";
+
+/* Ref02, 468x60, ������� 24.06.08 */
+
+google_ad_slot = "1776466138";
+
+google_ad_width = 468;
+
+google_ad_height = 60;
+
+google_cpa_choice = ""; // on file
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+
+      </div>
+    </div>
+    <div class="f"><img src="/i/ogbt.jpg" width="642" height="5" alt=""></div>
+  </div>
+
+  
+<div class="clr"><br></div>
+
+<div style="margin:0px 0 0px 0;">
+    <script type="text/javascript"><!--
+    google_ad_client = "pub-5655997124934707";
+    google_ad_width = 468;
+    google_ad_height = 15;
+    google_ad_format = "468x15_0ads_al_s";
+    google_ad_channel ="2070945412";
+    google_color_border = "FFFFFF";
+    google_color_bg = "FFFFFF";
+    google_color_link = "00a0ba";
+    google_color_url = "00a0ba";
+    google_color_text = "00a0ba";
+    //--></script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<br>
+
 <table width="600" cellpadding="0" cellspacing="0" align="center">
  <tbody><tr>
 
@@ -946,7 +955,7 @@ urchinTracker();
     <center>
     <script language="JavaScript"> 
     document.write('<s'+'cript language="JavaScript" src="http://www.basefun.com/work.php?n=104&size=1&j=1&c=1&code='+new Date().getTime()+'"></s'+'cript>'); 
-    </script><script language="JavaScript" src="http://www.basefun.com/work.php?n=104&amp;size=1&amp;j=1&amp;c=1&amp;code=1580358802064"></script> 
+    </script><script language="JavaScript" src="http://www.basefun.com/work.php?n=104&amp;size=1&amp;j=1&amp;c=1&amp;code=1580358800874"></script> 
     <noscript>
     <IFRAME SRC="http://www.basefun.com/work.php?n=104&size=1&c=1" width=100 height=100 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling="no"></IFRAME>
     </noscript>
@@ -994,8 +1003,8 @@ urchinTracker();
     <a href="/press">Press</a>&nbsp;&nbsp;|&nbsp;
     <a href="/advertisers">Advertisers</a>&nbsp;&nbsp;|&nbsp;
     <a href="/developers">Developers</a>&nbsp;&nbsp;|&nbsp;
-    <a href="/map.html">Map</a>&nbsp;&nbsp;|&nbsp;
-    <a href="/tou.html">Terms of Use</a>
+    <a href="/tou.html">Terms of Use</a>&nbsp;&nbsp;|&nbsp; 
+    <a href="http://www.myplaycity.ru/index.php?afid=g3572" onclick="javascript:urchinTracker('/Partner/BanMPCRU/');" target="_blank">MyPlayCity.RU</a>
     <p>© 2007 MyPlayCity.com. All Rights Reserved. <a href="/privacy_policy.html">Privacy Policy.</a></p>
    </div>
  </div>
