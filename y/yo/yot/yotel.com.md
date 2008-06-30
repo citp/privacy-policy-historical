@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117041619id_/http%3A//www.yotel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630234957id_/http%3A//www.yotel.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
