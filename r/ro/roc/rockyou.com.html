@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockyou.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231170344id_/http%3A//www.rockyou.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockyou.com privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630021319id_/http%3A//rockyou.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>RockYou.com - photo sharing, MySpace slideshows, MySpace codes, MySpace music</title>
@@ -69,6 +69,32 @@ function showHelp(name)
     if (window.focus) newwindow.focus();
 }
 
+function toggle_frontpage_sound() {
+    var frontpage_music = document.getElementById("frontpage_music");       
+    if (frontpage_music) frontpage_music.blur();
+    // Toggle text
+    var music_text_span = document.getElementById("music_text_span");
+    if (music_text_span)
+        music_text_span.innerHTML = (music_text_span.innerHTML == 'MUTE') ? 'LISTEN' : 'MUTE';
+    // Toggle speaker image
+    var speaker_button = document.getElementById("speaker_button");
+    if (speaker_button)
+        speaker_button.src = (speaker_button.src == "http://dev2.rockyou.com/images/bling3/speaker.png") ? 
+            "http://dev2.rockyou.com/images/bling3/speaker-on.png" : "http://dev2.rockyou.com/images/bling3/speaker.png"; 
+    // Toggle sound
+    var showcase_slide_embed = document.getElementById("showcase_slide_embed");
+    if (showcase_slide_embed) {
+        if (showcase_slide_embed.innerHTML.indexOf('nosound=false') != -1) {
+            showcase_slide_embed.innerHTML = showcase_slide_embed.innerHTML.replace(/nosound=false/, 'nosound=true');
+            Set_Cookie('frontpage_music_disabled', '1', 1);
+        }
+        else {
+            showcase_slide_embed.innerHTML = showcase_slide_embed.innerHTML.replace(/nosound=true/, 'nosound=false');
+            Set_Cookie('frontpage_music_disabled', '0', 1);
+        }
+    }  
+}
+
 function toggle_frontpage_music_icon() {
     var frontpage_music = document.getElementById("frontpage_music");
     var slide_container = document.getElementById("showcase_slide_embed");
@@ -134,7 +160,7 @@ function toggle_frontpage_music_text() {
 
 
 
-<body class="" style="background-image: url(/images/menu-bg.gif); background-repeat: repeat-x;" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="" onunload="">
+<body class="" style="background-image: url(/images/menu-bg.gif); background-repeat: repeat-x;" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="" onunload="">
 
 
 <!-- TF 728x90 JScript NoAD code -->
@@ -146,7 +172,7 @@ function toggle_frontpage_music_text() {
         
         <td style="font-size:15px"><a class="mainmenu" href="/choose_widget.php">Create</a>&nbsp;|&nbsp;</td>
         <td style="font-size:15px"><a class="mainmenu" href="/my_stuff.php">My Stuff</a>&nbsp;|&nbsp;</td>
-        <td style="font-size:15px"><a class="mainmenu" href="/categorylist.php">Browse</a></td>
+        <td style="font-size:15px"><a class="mainmenu" href="/featuredartists.php">Browse</a></td>
         
         </tr></tbody></table>
         
@@ -163,7 +189,7 @@ function toggle_frontpage_music_text() {
         </td></tr></tbody></table> <input type="hidden" value="1" name="p"></form>
     </div>
     
-<div id="partner_logo_small" style="position:absolute;top:0px;left: 430px;width:220px;height:23px;"><div style="position:absolute;top:0;left:0;width:70px;display:inline"><a href="http://www.bebo.com/Default.jsp?MID=2764438726"><img src="/images/bebo_logo_small.gif" style="border:0px"></a></div><div style="position:absolute;top:6px;left:70;font-size:10px;font-family:verdana,arial,sans serif">[<a href="http://bebo.com/Profile.jsp?MyProfile=Y&amp;MID=2764438726">Go to Bebo Profile</a>]</div></div>    <!-- TF 728x90 JScript NoAD code -->
+    <!-- TF 728x90 JScript NoAD code -->
     <div style="width:850px;margin-bottom:10px;">
     <div style="padding-left:60px;">
 
@@ -178,7 +204,7 @@ function toggle_frontpage_music_text() {
           'width="728" height="90" marginwidth="0" marginheight="0" ' +
           'frameborder="0" scrolling="no"></iframe>');
 
-    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=3626465631/pageid=496074/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=2050671025/pageid=134887/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 
     <noscript>
@@ -324,29 +350,30 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
 
 
 
-
+    
 <div style="position: absolute; left: 850px; top: 0px; width: 160px;">
 
 
     <div style="border:1px solid #ccc;margin-top:70px;width:176px;height:236px;margin-bottom:10px;">
         <div style="padding:8px;">
             <!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/ -->
+            
             <script language="javascript">
 
                if (!pageNum) var pageNum = Math.round(Math.random() * 1000000);
                var aamRnd = Math.round(Math.random() * 10000000000);
                
                document.writeln('<iframe src="http://rocku.adbureau.net/hserver/acc_random=' + 
-                  aamRnd + '/pageid=' + pageNum + '/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/" ' +
+                  aamRnd + '/pageid=' + pageNum + '/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/" ' +
                   'width="160" height="220" marginwidth="0" marginheight="0" ' +
                   'frameborder="0" scrolling="no"></iframe>');
 
-            </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=6584308797/pageid=496074/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/" width="160" height="220" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+            </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=739948757/pageid=134887/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/" width="160" height="220" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 
             <noscript>
-               <a href="http://rocku.adbureau.net/adclick/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/pageid=1" target="_blank">
-                  <img src="http://rocku.adbureau.net/nserver/area=SHOWMYGALLLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/pageid=1" border="0" />
+               <a href="http://rocku.adbureau.net/adclick/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/pageid=1" target="_blank">
+                  <img src="http://rocku.adbureau.net/nserver/area=SHOWMYGALLLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/pageid=1" border="0" />
                </a>
             </noscript>
         </div>
@@ -362,7 +389,7 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
           'width="180" height="288" marginwidth="0" marginheight="0" ' +
           'frameborder="0" scrolling="no"></iframe>');
 
-    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=9941449245/pageid=496074/aamsz=PM3/AGE=/GENDER=/" width="180" height="288" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=7739453571/pageid=134887/aamsz=PM3/AGE=/GENDER=/" width="180" height="288" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 
     <noscript>
@@ -374,9 +401,10 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
     
 <div style="width:120px;">
 
-<div style="border:1px solid #ccc;margin-top:5px;width:176px;height:616px;margin-bottom:5px;">
-    <div style="padding:8px;">
 
+
+<div style="border:1px solid white;margin-top:5px;width:176px;height:616px;margin-bottom:5px;">
+    <div style="padding:8px;">
         <!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/area=NONE/aamsz=SKYS/ -->
         <script language="javascript">
 
@@ -388,7 +416,7 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
               'width="160" height="600" marginwidth="0" marginheight="0" ' +
               'frameborder="0" scrolling="no"></iframe>');
 
-        </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=3753199566/pageid=496074/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+        </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=4004924216/pageid=134887/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 
         <noscript>
@@ -397,7 +425,8 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
            </a>
         </noscript>
     </div>
-</div>
+</div>        
+
 </div>
         <div style="margin-top:10px;width:160px;overflow:hidden;padding:0px;text-align:center;">
         <!-- YB: right_bottom (160x600) -->
@@ -413,7 +442,7 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
 <br><br>
     
 <div class="tp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Copyright © 2007 RockYou | <a target="_BLANK" href="/help">FAQ / Help</a> | <a target="_BLANK" href="/privacypolicy.php">Privacy</a> | <a href="/tos.php" target="_blank">Terms of Use</a> | <a href="/corp/facebook/ad.php" target="_blank">Facebook Advertisers</a> | <a href="/corp/facebook/dev.php" target="_blank">Facebook Developers</a> | <a href="/corp/about.php" target="_blank">About Us</a></div>
+Copyright © 2008 RockYou | <a target="_BLANK" href="/help">FAQ / Help</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-helpspace&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fhelpspace">MySpace Profile Tips</a> | <a target="_BLANK" href="/privacypolicy.php">Privacy</a> | <a href="/tos.php" target="_blank">Terms of Use</a> | <a href="/corp/facebook/ad.php" target="_blank">Facebook Advertisers</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-dev-pub&amp;url=http%3A%2F%2Fwww.rockyouads.com%2F" target="_blank">Facebook Developers</a> | <a href="/corp/about.php" target="_blank">About Us</a></div>
 
 <div class="tp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | <a href="?lang=en">English</a> | <a href="?lang=zh">中文</a> | <a href="?lang=es">Español | </a><a href="?lang=pt">Português</a>
@@ -459,6 +488,6 @@ alt="Quantcast"/></noscript>
 
     
 
-<!--0.079709s!--><!--ver 102906!-->
-<!-- www212.rockyou.com
- --></div></div></body></html>
+<!--0.026124s!--><!--END 0.026092052459717--><!--0.026124s!--><!--ver 102906!-->
+<!-- www209.rockyou.com -->
+</div></div></body></html>
