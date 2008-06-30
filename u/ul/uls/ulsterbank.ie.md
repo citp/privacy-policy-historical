@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulsterbank.ie privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231352id_/http%3A//www.ulsterbank.ie/ri_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulsterbank.ie privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630101552id_/http%3A//www.ulsterbank.ie/ri_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
 
 # Ulster Bank: Privacy
 
