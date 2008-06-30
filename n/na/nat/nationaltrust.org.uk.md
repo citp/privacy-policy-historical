@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226094908id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073252id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
 
 # National Trust | Privacy Policy
 
@@ -97,12 +97,12 @@ The National Trust is not responsible for the privacy policies of third party we
 
 The National Trust holds your personal data in accordance with the security provisions of the UK Data Protection legislation. We use industry standard Secure Server Software (SSL) for your transactions with us. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
-If you have any questions about security please contact The National Trust on: **0870 458 4000**
+If you have any questions about security please contact The National Trust on: **0844 800 1895**
 
   * More information on [Internet security](http://www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-internet_security.htm)
 
 
 
-**Notification of Changes**
+ **Notification of Changes**
 
 If The National Trust decides to change its Privacy Policy, it will post such changes on its website under the section entitled 'Privacy Policy'.
