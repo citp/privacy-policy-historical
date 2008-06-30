@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226012643id_/http%3A//www.nowpublic.com/newsroom/tips/fine_print/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073142id_/http%3A//www.nowpublic.com/newsroom/tips/fine_print/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The News is NowPublic.com
-
-## Privacy
 
 This Privacy Policy sets out the privacy policies and practices for NowPublic Technologies Inc. ("NowPublic") with respect to the collection, use, and disclosure of personal information in connection with nowpublic.com (the "Site"). This Privacy Policy may be updated by NowPublic giving reasonable notice of the revised terms (including by e-mail or by posting on the Site), and this Privacy Policy may be supplemented or modified by agreements entered into between NowPublic and an individual from time to time.
 
@@ -51,16 +49,11 @@ If you have any questions about this Privacy Policy, NowPublic's privacy practic
 
 NowPublic Technologies Inc.  
 Attention: Privacy Officer  
-1 Alexander St,  
-Suite 420,  
-Vancouver B.C.  
-V5A 1B2  
+204-576 Seymour St,  
+Vancouver, B.C.,  
+V6B 3K1,  
 Canada
 
-By fax: 917-591-3235  
+  
+By fax: 604-628-1141  
 By email: privacy@nowpublic.com 
-
-[](https://web.archive.org/forum/191177)
-
-If you have a question about this tool, some input, or even a tip  
-of your own, leave us a comment in the Newsroom Forum.
