@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030175704id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073153id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
-# CafePress.com : Help Desk : Privacy Policy
-
-Privacy Policy
+# CafePress.com : Customer Service : Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.cafepress.com&sealid=101)
 
-**Effective Date: September 25, 2006**
+**Effective Date: January 21, 2008**
 
 CafePress.com values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("CafePress.com Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com).
 
@@ -18,7 +16,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Does CafePress.com Ever Make Changes to its Privacy Policy?**
 
-We may make changes to the Privacy Policy from time to time. We will notify you of any changes by sending you an email, posting a notice on the home page of the Website, or posting a notice in your account when you first login after we have made changes. If you receive notification of a change in our Privacy Policy, you must review the new Privacy Policy carefully to make sure you understand our practices and procedures. You may not be able to receive notices from us if your cookies are not set to accept and/or are disabled.
+We may make changes to the Privacy Policy from time to time. We will notify you of any material changes by sending you an email, posting a notice on the home page of the Website, or posting a notice in your account when you first login after we have made changes. If you receive notification of a change in our Privacy Policy, you must review the new Privacy Policy carefully to make sure you understand our practices and procedures. You may not be able to receive notices from us if your cookies are not set to accept and/or are disabled.
 
 **What Types of Information Does CafePress.com Collect From Me?**
 
@@ -46,7 +44,7 @@ We may make changes to the Privacy Policy from time to time. We will notify you 
 
 **Disclosure to Unaffiliated Third Parties.** We may disclose your Personal Information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). In particular, if you are a Shopkeeper, we may disclose your information to a third party that alleges that you have infringed their intellectual property rights through the products sold through your Shop. Similarly, if you allege that a Shopkeeper is infringing upon your intellectual property rights, we may disclose your information to that Shopkeeper.
 
-**Disclosure to Third Party Service Providers and Online Partners.** We may contract with various third parties who help us provide, maintain and improve the Website and the CafePress.com Services. For example, we use a third party to process payments made to us, and may subcontract out production, fulfillment, analytics, reporting or other operations. We also contract with several online partners to help manage, monitor and optimize our Website and the CafePress.com Services and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services in question. We cannot guarantee that such third parties will not disclose your Personal Information.
+**Disclosure to Third Party Service Providers and Online Partners.** We may contract with various third parties who help us provide, maintain and improve the Website and the CafePress.com Services. For example, we use a third party to process payments made to us, and may subcontract out production, fulfillment, analytics, reporting or other operations. We also contract with several online partners to help manage, monitor and optimize our Website and the CafePress.com Services and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services in question. We cannot guarantee that such third parties will not disclose your Personal Information. CafePress.com does not share, rent or trade your Personal Information with third parties for their promotional purposes.
 
 **Disclosure to Shopkeepers.** If you purchase a product from a Shop, CafePress.com may provide your name, and the city and state information provided by you to the Shopkeeper. In the Shopkeeper Agreement, CafePress.com contractually obligates each Shopkeeper not to use or disclose this information for any purposes other than internal record keeping, and for marketing their Shops, only if you have opted in to receive marketing material directly from the Shopkeeper. We cannot guarantee all Shopkeepers will comply with this obligation.
 
@@ -94,7 +92,7 @@ You may be able to access third party websites directly from the Website. This P
 
 We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com); [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-7708150844737363916/escalate!PAGETYPE?VisitorProfile=cafepress); or via mail sent to 950 Tower Lane, Suite 600, Foster City, CA 94404.
+If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com); [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-7708150844737363916/escalate!PAGETYPE?VisitorProfile=cafepress); or via mail sent to 1850 Gateway Drive, Suite 300, San Mateo, CA 94404.
 
 If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
 
