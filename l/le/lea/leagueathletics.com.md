@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102182021id_/http%3A//leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630232159id_/http%3A//leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  |  |   
----|---|---|---  
+|   
   
-[ ](https://web.archive.org/Default.asp?org=leagueathletics.com)
-
-|   |  | 
-
-| 
-
 ### Privacy Policy Statement   
   
 ---  
