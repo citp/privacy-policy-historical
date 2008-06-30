@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225143527id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630032714id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Stylin' Trucks Privacy Policy
 
@@ -31,6 +31,8 @@ Stylin’ Trucks does, on occasion, exchange customer mailing addresses with ot
 Stylin’ Trucks will never share, rent or sell your email address to any other company or organization. The use of your email address is strictly for internal business use. We may, on occasion, use your email address to confirm orders, requests or quotes, answer questions and respond to customer service related issues. We may also send you periodic newsletters, and product and promotional information related to our products and services.
 
 If you do not want to receive non-transactional email from us in the future, please let us know by sending us an email at the address below, calling us at the telephone number below, or writing to us at the address listed below.
+
+We also may market certain third party services through our site.  If you accept the offer, we will pass your relevant personal information, including name and credit/debit card number to that third party. 
 
 **Security**
 
