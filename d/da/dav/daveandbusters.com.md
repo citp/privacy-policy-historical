@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221021220id_/http%3A//www.daveandbusters.com/Misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630093541id_/http%3A//www.daveandbusters.com/Misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Dave & Buster’s – Eat, Drink, Play – Privacy Policy
 
