@@ -1,100 +1,293 @@
-<!--The following is the downloaded HTML source of the pinchingyourpennies.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225232524id_/http%3A//www.pinchingyourpennies.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pinchingyourpennies.com privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630213830id_/http%3A//pinchingyourpennies.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr"><head>
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <meta http-equiv="Content-Style-Type" content="text/css">
+
 <link rel="search" href="./search.php" title="Search">
+
 <link rel="help" href="./faq.php" title="FAQ">
+
 <link rel="author" href="./memberlist.php" title="Memberlist">
-<title>Pinching Your Pennies Home </title>
-<link rel="stylesheet" href="../phpBB2/templates/subVereor/subVereor.css" type="text/css" --="">
+
+<title>Pinching Your Pennies</title>
+
+
+
 <script language="JavaScript">
 <!--
+
+
+<!--
+
 function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+
   if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+
     document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+
   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+
 }
+
+
+
 MM_reloadPage(true);
+
 // -->
+
+function MM_nbGroup(event, grpName) { //v3.0
+
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+
+  if (event == "init" && args.length > 2) {
+
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+
+      nbArr[nbArr.length] = img;
+
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+
+        if (!img.MM_up) img.MM_up = img.src;
+
+        img.src = img.MM_dn = args[i+1];
+
+        nbArr[nbArr.length] = img;
+
+    } }
+
+
+
+  } else if (event == "over") {
+
+    document.MM_nbOver = nbArr = new Array();
+
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+
+      if (!img.MM_up) img.MM_up = img.src;
+
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+
+      nbArr[nbArr.length] = img;
+
+    }
+
+  } else if (event == "out" ) {
+
+    for (i=0; i < document.MM_nbOver.length; i++) {
+
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+
+  } else if (event == "down") {
+
+    if ((nbArr = document[grpName]) != null)
+
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+
+    document[grpName] = nbArr = new Array();
+
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+
+      if (!img.MM_up) img.MM_up = img.src;
+
+      img.src = img.MM_dn = args[i+1];
+
+      nbArr[nbArr.length] = img;
+
+  } }
+
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+  if (restore) selObj.selectedIndex=0;
+
+}
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_findObj(n, d) { //v4.01
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+//-->
 </script>
+
+<style type="text/css">
+
+<!--
+
+;
+
+Color: ;
+
+font-weight: bold;
+
+}
+
+.style9 {font-weight: bold}
+
+.style15 {color: #000000}
+
+a:link {
+
+	color: #D1C079;
+
+}
+
+a:visited {
+
+	color: #D1C079;
+
+}
+
+a:hover {
+
+	color: #85704D;
+
+}
+
+.style19 {color: #85704D}
+
+.style33 {color: #FFFFFF; font-size: 24px; }
+
+.style34 {
+
+	font-size: 24px;
+
+	color: #85704D;
+
+}
+
+.style36 {font-size: 18px}
+
+.style37 {color: #FFFFFF; font-size: 18px; }
+a {
+	font-weight: bold;
+}
+
+-->
+
+</style>
+
 </head>
+<body><table width="100%" border="3" cellpadding="4" cellspacing="0" bordercolor="#85704D">
 
-<body bgcolor="#EBECEC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+  <tbody><tr bordercolor="CCBFAF" bgcolor="CCBFAF">
 
-<table width="100%" height="87" border="0" cellpadding="0" cellspacing="0" bgcolor="#B6B6B6">
-  </table>
+    <td height="35" colspan="4" align="left" valign="middle" class="style15"><img src="http://www.pinchingyourpennies.com/graphics/header.jpg" hspace="8" vspace="8" border="0">   
+
+  </td></tr>
+
   
 
-<br><p><br>
-  </p><table width="100%" border="10" bordercolor="#445395" height="80%">
-  <tbody><tr> 
-    <td align="center" height="700" valign="top" bordercolor="#445395">
+  <tr bordercolor="#85704D" bgcolor="CCBFAF">
+
+    <td height="25" colspan="3" align="left" valign="top" bordercolor="#85704D" bgcolor="#FFFFFF" class="style15"><table width="100%" border="3" cellpadding="0" cellspacing="0" bordercolor="#85704D">
+
+     <tbody><tr>
+
+  <td height="40" colspan="4" align="center" valign="middle" bordercolor="CCBFAF" bgcolor="583434" class="style15"> <div align="center" class="style19"><a href="../index.php" class="catlink">Home</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="/forums/index.php" class="catlink">Forums</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.utahshoppingsecrets.com/" class="catlink">PYP Blog</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=82" class="catlink">Deals by State</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.pinchingyourpennies.com/couponlists.php" class="catlink">Coupon List</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.pinchingyourpennies.com/CouponIntro.php" class="catlink">Coupons 101</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../groceryguide.php" class="catlink">Grocery Guide</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../forums/register.php?" class="catlink">Register HERE</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../contact.htm" class="catlink">Contact</a> </div>    </td></tr>
+
+    </tbody></table>  </td></tr>
+
+  <tr>
+    <td width="1" align="left" valign="top" bordercolor="#85704D" bgcolor="#85704D" class="style33"><div align="center"> </div>      <div align="center" class="style36"></div>
+    </td><td width="890" align="center" valign="top" bordercolor="#85704D" bgcolor="#FFFFFF" class="style15">      
+
       <div align="left">
-        <p>&nbsp;</p>
-        <p><b>We take your right to privacy seriously and want you to feel comfortable 
-          using our web site. This Privacy Policy deals with personally identifiable 
-          information that may be collected by us on our site. This Policy does 
-          not apply to other entities that we do not own or control or persons 
-          that are not our employees, agents or within our control. Our Privacy 
-          Policy is as follows: </b></p>
+        <p><b>We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Our Privacy Policy is as follows: </b></p>
         <p><b>1. Collection of Data.<br>
-          Our registration process requires only a valid e-mail address and a 
-          unique user ID and password. Providing us with other information is 
-          at your option. Please take note that your user name, e-mail address, 
-          or other submissions that you make on this site may contain your real 
-          name or other personally identifiable information and, as a result, 
-          may appear on this site. Like many web sites, we may also automatically 
-          receive general information that is contained in our server log files 
-          such as your IP address and cookie information. Information about how 
-          advertising may be served on this site is set forth below.</b></p>
+  Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site is set forth below.</b></p>
         <p><b>2. Use of Data.<br>
-          We may use personal information to customize and improve your user experience 
-          on this site. We will make efforts so that your personal information 
-          will not be provided to third parties. In the event you choose to use 
-          links that appear on our site to visit other web sites, you are advised 
-          to read the privacy policies that appear on those sites.</b></p>
+  We may use personal information to customize and improve your user experience on this site. We will make efforts so that your personal information will not be provided to third parties. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.</b></p>
         <p><b>3. Cookies.<br>
-          Like many web sites, we set and use cookies to enhance your user experience, 
-          such as retaining your personal settings. </b></p>
+  Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. </b></p>
         <p><b>4. Editing or Deleting Your Account Information.<br>
-          We provide you with the ability to edit the information in your user 
-          account information that you provided to us in registration. You may 
-          request deletion of your user account by contacting us. Content or other 
-          data that you may have provided to us and that is not contained within 
-          your user account, such as posts that may appear within our forums, 
-          may continue to remain on our site at our discretion even though your 
-          user account is deleted. </b></p>
+  We provide you with the ability to edit the information in your user account information that you provided to us in registration. You may request deletion of your user account by contacting us. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. </b></p>
         <p><b>5. Changes to this Privacy Policy.<br>
-          We may make changes to this Policy from time to time. We will notify 
-          you of substantial changes to this Policy either by posting a prominent 
-          announcement on our site and/or by sending a message to the e-mail address 
-          you have provided to us that is contained within your user settings.</b></p>
+  We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.</b></p>
         <p><b>6. NO GUARANTEES.<br>
-          While this Privacy Policy states our standards for maintenance of personal 
-          information and we will make efforts to meet them, we are not in a position 
-          to guarantee these standards. There may be factors beyond our control 
-          that may result in disclosure of data. As a consequence, we disclaim 
-          any warranties or representations relating to maintenance or nondisclosure 
-          of personal information.</b></p>
+  While this Privacy Policy states our standards for maintenance of personal information and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of personal information.</b></p>
         <p><b>7. Contact Information.<br>
-          If you have any questions about this Policy or our web site, please 
-          feel free to contact us at <a href="mailto:%20admin@pinchingyourpennies.com?subject=privacy%20policy">admin@pinchingyourpennies.com</a></b></p>
-        <p></p>
+  If you have any questions about this Policy or our web site, please feel free to contact us at <a href="mailto:%20admin@pinchingyourpennies.com?subject=privacy%20policy">admin@pinchingyourpennies.com</a></b></p>
       </div>
-      <div align="center"> 
-        <p><br>
-          <font face="Georgia, Times New Roman, Times, serif"><br>
-          </font><br>
-          <br>
-        </p>
-      </div>
-    </td>
-  </tr>
-  
-  </tbody></table><table width="100%" border="0">
-  </table>
+      </td><td width="1" align="left" valign="top" bordercolor="#85704D" bgcolor="#85704D" class="style15"><div align="center"> </div>      <div align="center" class="style37"></div>
+    <div align="center">    </div>      </td></tr>
+
+</tbody></table>
+
+<br>
+
+
+
+    
+
+
+
+
+
+<br>
+
+<div align="center"><script type="text/javascript" language="javascript" src="http://www.jdoqocy.com/t165j40qsux30tu6FIPNKGNN?target=_blank&amp;mouseover=Y"></script> 
+
+              <script type="text/javascript" language="javascript" src="http://www.dpbolvw.net/placeholder-2974080?target=_blank&amp;mouseover=Y"></script></div>
+
+ <p align="center">Copyright 2008, Pinching Your Pennies, LLC. All rights reserved. 
+
+  View our <a href="terms.htm" target="_blank"><strong>Terms and Conditions</strong></a>. View 
+
+  our <span class="style9"><a href="privacy.htm" target="_blank">Privacy Policy</a>.</span></p>
+
+
 
 
 
