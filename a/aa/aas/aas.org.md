@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227175227id_/http%3A//www.aas.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630171107id_/http%3A//www.aas.org/privacy_policy.php) for the most accurate reproduction.*
 
 # AAS — Privacy Policy
 
