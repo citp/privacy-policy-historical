@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rephunter.net privacy policy that was archived on 2007-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226110318id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rephunter.net privacy policy that was archived on 2008-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630213715id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>RepHunter Privacy Notice, Manufacturers Reps, Sales Force, Independent Sales Rep, Sales Agency, Manufacturer Agent, Sales Job, Sales Careers</title>
@@ -9,24 +9,79 @@
 <meta name="keywords" content="independent sales reps, manufacturer sales rep, manufacturers reps, sales force, sales agencies, sales agents, sales agents wanted, sales reps needed, sales reps, sales reps for small business, distributors wanted, distributors needed, manufacturer representation, reps wanted, representatives wanted, independent sales representation, sales representation, representatives, reps, sale rep, products wanted, product lines, products, manufacturing, distributors, industry, industrial reps, business opportunities, trade, export, import, suppliers">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/tabs/seagreen/tabs.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css"/>
+<![endif]-->
 
 
 <link rel="shortcut icon" href="/favicon.ico">
+<script type="text/javascript">
+var search_keywords_confirm_message = 'You entered a territory or territory abbreviation as a\nkeyword. Territories are not part of the keyword field\nand will dramatically reduce your results.'+'\n\nTo use this search anyway, click OK.';
+</script>
 
-		<style type="text/css">
-			@import "http://o.aolcdn.com/dojo/1.0.2/dijit/themes/tundra/tundra.css";
-			/*@import "http://o.aolcdn.com/dojo/1.0.2/dojo/resources/dojo.css";*/
-			/* rephunter theme */
-			@import "/css/theme/rephunter/rephunter.css";
-		</style>
-<script type="text/javascript" djconfig="baseUrl:'http://o.aolcdn.com/dojo/1.0.2/dojo/',dojoIframeHistoryUrl: '/js/iframe_history.html', parseOnLoad: true, preventBackButtonFix: false" src="http://o.aolcdn.com/dojo/1.0.2/dojo/dojo.xd.js"></script>		<script type="text/javascript">
+<script type="text/javascript" src="js/library.js"></script>
+
+
+			<style type="text/css">
+			@import "http://o.aolcdn.com/dojo/1.1.0/dijit/themes/tundra/tundra.css";
+			</style>
+
+			<script type="text/javascript">
+				djConfig = {
+					
+					baseUrl: ".",
+					modulePaths: {
+						framework: "/js/widgets",
+						dojo:  "http://o.aolcdn.com/dojo/1.1.0/dojo",
+						dijit: "http://o.aolcdn.com/dojo/1.1.0/dijit",
+						dojox: "http://o.aolcdn.com/dojo/1.1.0/dojox"
+					},
+					parseOnLoad: true,
+					dojoIframeHistoryUrl: '/js/iframe_history.html',
+					preventBackButtonFix: false
+				};
+			</script>
+
+			<!-- Include dojo from CDN -->
+			<script type="text/javascript" src="http://o.aolcdn.com/dojo/1.1.0/dojo/dojo.xd.js"></script>
+
+			<!-- Hot fallback, in case dojo doesnt load -->
+			<script type="text/javascript">
+			if(typeof dojo == 'undefined')
+			{
+				djConfig.baseUrl = "dojo-release-1.1.0/dojo/";
+				djConfig.modulePaths = {
+					framework: "js/widgets",
+					dojo:  "dojo-release-1.1.0/dojo",
+					dijit: "dojo-release-1.1.0/dijit",
+					dojox: "dojo-release-1.1.0/dojox"
+				};
+				document.write('<style type="text/css">@import "/dojo-release-1.1.0/dijit/themes/tundra/tundra.css";</style>');
+
+				// Need to use dom method to get it to parse correctly.
+				var e = document.createElement("script");
+				e.src = "/dojo-release-1.1.0/dojo/dojo.js";
+				e.type="text/javascript";
+				document.getElementsByTagName("head")[0].appendChild(e);
+
+			}
+			</script><style type="text/css">@import "/dojo-release-1.1.0/dijit/themes/tundra/tundra.css";</style><script src="/dojo-release-1.1.0/dojo/dojo.js" type="text/javascript"></script>
+			<style type="text/css">
+				@import "/css/theme/rephunter/rephunter.css";
+			</style>		<script type="text/javascript">
 	    	dojo.require("dojo.parser");
 	    </script>
 
 
 
+
 <script type="text/javascript" src="js/popup.js"></script>
-<script type="text/javascript" src="js/browser_detect.js"></script>
+
+
+
+
+
+
 
 
 
@@ -43,14 +98,16 @@
 		</div>
 		<div class="header">
 				<div id="login">
+		<div style="padding:3px;clear:both;">
 		<form action="/privacy.php" method="post">
 			
-			<div class="loginprompt" style="margin: 44px 5px 0 0;">
+			<div class="loginprompt" style="margin: 44px 5px 0 0; ">
 				
 					<span class="login-label" style="margin-top:5px;">Already registered?</span>
 	<input type="submit" value="Login" name="requestloginbutton" class="login-button">
 			</div>
 		</form>
+		</div>
 	</div>
 				<div class="logo-section">
 		
@@ -58,7 +115,7 @@
 			<a href="/index.php" id="logo-neutral">
 				<span class="logo-part-1">Rep</span><span class="logo-part-2">Hunter<span class="reg">®</span></span>
 			</a>
-			<span style="position:absolute; left: 40px; top: 85px;"><img src="images/holly1.gif" border="0" alt="Holly Berries - Seasons Greetings!"></span>
+			
 		</div>
 		<div id="tagline">Find Sales Reps — Find Sales Positions</div>
 	</div>
@@ -70,7 +127,7 @@
 			<li><a href="find-new-lines.php"><span>Find New Lines</span></a></li>
 			</ul>
 		</div>
-		<div class="subheader">&nbsp;</div>
+		<div class="subheader">&nbsp; <div id="phone"></div></div>
 		<div class="subcontent_all">
 				
 				<div class="subcontent_nofloat">
@@ -166,7 +223,6 @@ while(x=eval(x));}rh_encrypt();
 							<td><a href="/testimonials.php">Testimonials</a></td>
 							<td><span class="fpsep">|</span></td>
 							<td><a href="/display-ads.php">Display Ads</a></td>
-							
 						</tr>
 					</tbody></table>
 				</td>
@@ -210,9 +266,12 @@ while(x=eval(x));}rh_encrypt();
 				</td>
 			</tr>
 			<tr>
-				<td colspan="11" align="center" class="copyright"><br>© RepHunter, Inc. 2001-2006. All Rights Reserved.</td>
+				<td colspan="11" align="center" class="copyright"><br>© RepHunter, Inc. 2001-2008. All Rights Reserved.</td>
 			</tr>
 		</tbody></table>
+			<p align="center">
+			
+			</p>
 		</div>
 	</div>
 	<!-- END CONTENT -->
@@ -223,11 +282,22 @@ while(x=eval(x));}rh_encrypt();
 <!-- optional footer javascripts -->
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-411589-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try
+{
+	var pageTracker = _gat._getTracker("UA-411589-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+}
+catch(e){/*some browsers block analytics, hide error*/}
 </script>
+
+
+
+
 
 </body></html>
