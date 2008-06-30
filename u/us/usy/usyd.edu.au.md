@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209195332id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630051242id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
 
 # University Web Sites Privacy Statement - The University of Sydney
 
