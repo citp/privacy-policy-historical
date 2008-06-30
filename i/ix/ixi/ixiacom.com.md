@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219181844id_/http%3A//www.ixiacom.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630044501id_/http%3A//www.ixiacom.com/info/privacy) for the most accurate reproduction.*
 
 # Info :: Ixia - Leader in IP Performance Testing
 
