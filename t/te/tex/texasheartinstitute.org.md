@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130903id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630042901id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
 
 # Website Terms of Use and Privacy Policy
 
 Mission Statement
 
-The Texas Heart Institute is a nonprofit organization dedicated to reducing the devastating toll of cardiovascular disease through innovative and progressive programs in research, education, and patient care.
+The Texas Heart Institute is a nonprofit organization. The mission of the Texas Heart Institute is to reduce the devastating toll of cardiovascular disease through innovative programs in research, education and improved patient care.
 
 The Texas Heart Institute's Heart Information Center is a community outreach program wherein the Institute's staff members provide patient-education information related to the prevention, diagnosis, and treatment of cardiovascular diseases.
 
@@ -28,8 +28,8 @@ The Texas Heart Institute website is not supported by advertising or commercial 
 
 Copyright Information
 
-All text, graphic, and multimedia content on this website © Copyright Texas Heart Institute. All rights reserved. Portions of this website may be printed or stored locally for personal use only. Texas Heart Institute, Texas Heart Institute Journal, THI, Heart Owner's, The Heart of Discovery, and Leading With the Heart are members of the family of trademarks of the Texas Heart Institute.
+All text, graphic, and multimedia content on this website © Copyright Texas Heart Institute. All rights reserved. Portions of this website may be printed or stored locally for personal use only. Texas Heart Institute, Texas Heart, Texas Heart Institute Journal, THI, Heart Owner's, Leading With the Heart, and Heart of Discovery are members of the family of trademarks of the Texas Heart Institute.
 
 Contact Information
 
-You may contact the Texas Heart Institute with any questions or comments concerning this website by sending e-mail to [webmaster@heart.thi.tmc.edu](mailto:webmaster@heart.thi.tmc.edu).
+You may contact the Texas Heart Institute with any questions or comments concerning this website by contacting the [webmaster](mailto:webmaster@heart.thi.tmc.edu?subject=Inquiry%20from%20website%20Terms%20of%20Use).
