@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadershiparticles.net privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231064518id_/http%3A//www.leadershiparticles.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadershiparticles.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205936id_/http%3A//www.leadershiparticles.net/privacy.php) for the most accurate reproduction.*
 
 # Leadership Articles - A great resource for enhancing your leadership knowledge!
 
