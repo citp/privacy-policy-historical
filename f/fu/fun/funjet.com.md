@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225200459id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630060550id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
-
-**Privacy Policy**
 
 **Introduction**  
 At Funjet Vacations, we believe that it is extremely important to protect the privacy of our customers. We are providing this privacy policy to help you better understand the ways in which your personal information is gathered and used on the www.funjet.com website.
