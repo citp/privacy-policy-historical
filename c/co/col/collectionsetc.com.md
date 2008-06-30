@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the collectionsetc.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225230839id_/http%3A//www.collectionsetc.com/helpPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectionsetc.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630024929id_/http%3A//www.collectionsetc.com/helpPrivacy.aspx) for the most accurate reproduction.*
 
-# Collections Etc. values its customers and respects their privacy
+# Collections Etc.: Privacy & Security
 
+|    
+
+
+| 
+
+Secure Buying
+
+Collections Etc. understands the importance of protecting you and your credit card information. Our site is equipped with advanced VeriSign® Secure Buy software. All personal data and credit information is encrypted during transmission and is for our internal purpose only. 
+
+|   
+---|---  
+  
 Customer Privacy
 
 Privacy Policy   
 Last updated on: 04/25/2006
 
-Introduction
-
-Collections Etc. values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, sales and specials, and promotions. This policy describes the personal information we collect about you on this web site, why we collect it, how we use it and when we share it with third parties. 
+IntroductionCollections Etc. values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, sales and specials, and promotions. This policy describes the personal information we collect about you on this web site, why we collect it, how we use it and when we share it with third parties.
 
 Our policy also describes the choices you can make about how we collect and use your information. This privacy policy does not apply to the use or disclosure of information that is collected or obtained by us through means other than this web site. 
 
@@ -20,9 +30,12 @@ If you have any questions about our privacy policy:
 2\. call us at 1-620-584-8000 seven days a week, 6:00 AM to midnight CST, or   
 3\. write us at Collections Etc. Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007.
 
-If our information practices change in the future, we will let you know by posting the policy changes on our web site or by communicating directly with you via email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information. 
+If our information practices change in the future, we will let you know by posting the policy changes on our web site or by communicating directly with you via email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
 
 What information does Collections Etc. collect about me?
+
+  
+
 
 Information collected from you using technology   
 CollectionsEtc.com collects some information about you using technology related to the operation of the World Wide Web, including Internet Protocol ("IP") addresses and cookies. This technology may not be readily apparent to you. 
@@ -30,7 +43,7 @@ CollectionsEtc.com collects some information about you using technology related 
 _IP Addresses_  
 Each visitor to this site has an IP address that is associated with the place from which you access the Internet - like your ISP (Internet service provider), your company, or your university. Our web site collects your IP address when you visit the site so that our server can send the information and content you request back to your computer. This information is not personally identifiable.   
 _  
-Cookies_  
+__Cookies_  
 Cookies are pieces of information that a web site sends to your computer while you are viewing the web site. These pieces of information allow the web site to remember important information that will make your use of that site more productive. CollectionsEtc.com uses cookies to keep track of what you have in your shopping cart and to remember you when you return to our store. Cookies cannot harm your computer and they do not contain any personal or private information. You must accept cookies to purchase products at CollectionsEtc.com.
 
 CollectionsEtc.com employs WebTrends On Demand™ to aggregate data collected by technological means. Any information that WebTrends On Demand™ collects is completely anonymous. Click [here](https://ondemand.webtrends.com/privacypolicy.asp) to view the privacy policy for WebTrends On Demand.
@@ -50,12 +63,13 @@ How do you use my information?
 
 You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our web site products and our privacy statement.
 
-When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated you do not want to receive promotional materials from us, you may receive periodic mailings or promotional email offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings from us, please click [here](https://web.archive.org/web/20071225230839id_/http%3A//www.collectionsetc.com/HelpCustomerService.aspx) for contact information or call us at 1-620-584-8000. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.
+When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated you do not want to receive promotional materials from us, you may receive periodic mailings or promotional email offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings from us, please click [here](https://web.archive.org/web/20080630024929id_/http%3A//www.collectionsetc.com/service.aspx) for contact information or call us at 1-620-584-8000. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.
 
 If you have provided us with a valid email address, we will send you order confirmation emails and shipment confirmation emails when your order is shipped from our distribution centers. We may contact you by mail or telephone if we have questions about your order. If one or more of the items in your order is on backorder, you may receive an email notification regarding the expected delivery date. 
 
 How do you use third party personal information?
 
+  
 What is third party personal information?   
 This is information we have collected through our web site from a person other than the person to whom it pertains or whom it identifies, such as information about a person for whom you are ordering a gift. Our product display pages allow you to send email to a friend about an item on this site. We require your name, your email address, your friend's name and your friend's email address. The individual you designate will be sent a one-time email, displaying your name as the sender. The names and email addresses are not stored by Collections Etc.
 
@@ -64,7 +78,7 @@ This information is primarily used for the purpose for which such information is
 
 When do we share personal information with other third parties? 
 
-When you provide us with a mailing address on our site, Collections Etc. will provide your name and postal address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please click [here](https://web.archive.org/web/20071225230839id_/http%3A//www.collectionsetc.com/HelpCustomerService.aspx) for contact information or call us at 1-620-584-8000. Please see the end of this document for additional contact information.
+When you provide us with a mailing address on our site, Collections Etc. will provide your name and postal address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please click [here](https://web.archive.org/web/20080630024929id_/http%3A//www.collectionsetc.com/HelpCustomerService.aspx) for contact information or call us at 1-620-584-8000. Please see the end of this document for additional contact information.
 
 We provide your personal information, including IP Address, and personal information of third parties to third party agents we have hired to help us provide the good or service you have requested. For example, we use an outside shipping company to ship orders, a credit card processing company to bill customers for goods and services, and a payment solution company to allow customers to shop online without a credit card (deferred billing). These companies do not retain, share, store or use personally identifiable information for any secondary purposes. When you place an order with us for merchandise, we use the shipping information you provided at order entry to fulfill your order and provide this information to the shipping company. If you have paid for your order using a credit card, we transmit the information required to authorize your credit card over a secure channel to the credit card processing company for authorization. If you have select to pay for your order with deferred billing, we transmit your personal information, and IP address to the payment solution company to authorize credit.
 
@@ -91,7 +105,12 @@ Collections Etc. is committed to earning and keeping your trust. We understand t
 
 Does Collections Etc. have a Kid's Privacy Policy? 
 
-Collections Etc. does not seek to solicit information from children under 18 years of age. No information should be submitted to this site by guests under 18 years of age, and guests under 18 years old are not allowed to register for our mailings, contests, or customer accounts. We recognize the need to protect the privacy of children. If a child submits information to us and we know that the person submitting the information is a child, we will not use it for any purpose. We will delete any information inadvertently given to us without parental consent as soon as we discover it and we will not disclose it to third parties. 
+  
+Collections Etc. does not seek to solicit information from children under 18 years of age. No information should be submitted to this site by guests under 18 years of age, and guests under 18 years old are not allowed to register for our mailings, contests, or customer accounts. We recognize the need to protect the privacy of children. If a child submits information to us and we know that the person submitting the information is a child, we will not use it for any purpose. We will delete any information inadvertently given to us without parental consent as soon as we discover it and we will not disclose it to third parties.   
+
+
+  
+
 
 Addressing California SB 27 - How can I opt-out on CollectionsEtc.com?
 
@@ -99,6 +118,9 @@ For California Residents Only
 Under California law, residents of California who have an established business relationship with Collections Etc. may choose to opt-out of Collections Etc. sharing their personal information with 3rd parties for marketing purposes. Collections Etc. customers can also opt-out of receiving future Collections Etc. catalogs.
 
 If you would like us not to share your personal information with 3rd parties and/or would like to stop receiving Collections Etc. catalogs, click here. 
+
+  
+
 
 How can I update my information on your web site? 
 
@@ -128,3 +150,6 @@ If you have any additional questions, please contact a Collections Etc. customer
 
 Copyright Laws  
 Collections Etc™ and other marks on our web site and in our catalog mailings are trademarks of Collections Etc. Inc. All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Collections Etc., Inc. Copyright 2005. Replication of the content of this web site in any manner without the express written consent of Collections Etc. Inc. is strictly prohibited. 
+
+|   
+---|---
