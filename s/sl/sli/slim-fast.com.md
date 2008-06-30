@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slim-fast.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513084603id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.slim-fast.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slim-fast.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072404id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.slim-fast.com) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
