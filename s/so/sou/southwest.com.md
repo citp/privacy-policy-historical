@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130825id_/http%3A//southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072155id_/http%3A//www.southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
@@ -133,7 +133,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### Log Files and Cookies
 
-We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in aggregate  
+We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in aggregate.  
 We do not link automatically-collected data to personally identifiable information. 
 
 _**Log Files**_
