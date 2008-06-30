@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225223634id_/http%3A//www.bengals.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630204826id_/http%3A//www.bengals.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Cincinnati Bengals
 
 ## Cincinnati Bengals Web Site Privacy Policy
 
-**Revised: March 30, 2006**
+**Revised: June 11, 2008**
 
 [](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=Bengals)
 
@@ -34,15 +34,17 @@ Please read the information below to learn more about our data collection polici
 
 7\. Links To Other Web sites 
 
-8\. A Special Note For Parents Concerning Privacy 
+8\. Tell-A-Friend
 
-9\. Notification Of Changes And Your Acceptance Of The Privacy Policy
+9\. A Special Note For Parents Concerning Privacy 
 
-10\. Correcting/Updating Personal Information
+10\. Notification Of Changes And Your Acceptance Of The Privacy Policy
 
-11\. Your California Privacy Rights
+11\. Correcting/Updating Personal Information
 
-12\. Questions About This Privacy Policy 
+12\. Your California Privacy Rights
+
+13\. Questions About This Privacy Policy 
 
 **TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -107,6 +109,12 @@ Administrative or Legal Process: Your personal information may be transferred to
 **CHAT ROOMS, FORUMS, AND MESSAGE BOARDS**
 
 The Web site makes message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. Message boards are run in-house by the Bengals and no information is collected by any third party.
+
+**TELL-A-FRIEND**
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Cincinnati Bengals stores [or does not store] this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. 
+
+Your friend may contact us at [webmaster@bengals.nfl.net](mailto:%20webmaster@bengals.nfl.net) to request that we remove this information from our database. 
 
 **LINKS TO OTHER WEB SITES**
 
