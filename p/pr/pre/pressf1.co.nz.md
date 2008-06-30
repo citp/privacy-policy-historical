@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pressf1.co.nz privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212195802id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressf1.co.nz privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630081044id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
 
 # Corporate : Privacy Policy
 
   
-**Privacy Policy** This website is a member of the [Fairfax Business Media network](http://fairfaxbm.co.nz/). Fairfax Business Media complies strictly with New Zealand’s [Privacy Act](http://www.privacy.org.nz/privacy-act), which deals with the collection, storage, use and disclosure of personal information, and the [Unsolicited Electronic Messages Act](http://www.antispam.govt.nz/), New Zealand's "anti-spam" legislation. Fairfax Business Media does not monitor individual traffic patterns - only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.Most of the _Fairfax Business Media_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Business Media_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Business Media_ will not release your personal data without your consent.You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer by emailing [lawrie_dipple@fairfaxbm.co.nz](mailto:lawrie_dipple@fairfaxbm.co.nz).
+**Privacy Policy** This website is a member of the [Fairfax Business Media network](http://fairfaxbm.co.nz/). Fairfax Business Media complies strictly with New Zealand’s [Privacy Act](http://www.privacy.org.nz/privacy-act), which deals with the collection, storage, use and disclosure of personal information, and the [Unsolicited Electronic Messages Act](http://www.antispam.govt.nz/), New Zealand's "anti-spam" legislation. Fairfax Business Media does not monitor individual traffic patterns - only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.Most of the _Fairfax Business Media_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Business Media_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Business Media_ will not release your personal data without your consent.You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer, Karl Martin, by emailing [kmartin@fairfaxbm.co.nz](mailto:kmartin@fairfaxbm.co.nz).
 
 _Fairfax Business Media_
 
@@ -18,7 +18,9 @@ They may also be used by partner and advertiser sites associated with
 
 _Fairfax Business Media_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. 
 
-Our third party ad server, Accipiter, may use a cookie file to identify your computer, but no personally identifiable information is collected. This cookie may be used to limit the number of times you see certain ads. If you block cookies from Accipiter our ad server will be unable to recognise your browser from one visit to the next, and you may therefore notice that you receive the same ad multiple times.
+Our third party ad serve
+
+r, Atlas AdManager, may use a cookie file to identify your computer, but no personally identifiable information is collected. This cookie may be used to limit the number of times you see certain ads. If you block cookies from the inl.adbureau.net domain then our ad server will be unable to recognise your browser from one visit to the next, and you may therefore notice that you receive the same ad multiple times.
 
 Although 
 
