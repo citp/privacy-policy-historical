@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502163218id_/http%3A//www.blueskyfactory.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2008-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080703182642id_/http%3A//www.blueskyfactory.com/privacy.asp) for the most accurate reproduction.*
 
 # Blue Sky Factory :: Premium Email Service Providers
 
