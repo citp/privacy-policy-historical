@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2008-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080214194935id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2008-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080703172233id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -49,12 +49,9 @@ In reviewing the information above, please keep in mind that SilkRoad cannot and
  
 
 
-[ ](http://www.aberdeen.com/link/sponsor.asp?spid=30410362&cid=4574) 
-
-
 ##### Featured Case Study
 
-Applicants would e-mail their resumes to me, so I was dealing with mountains of paper that were impossible to organize and search through to match with job openings. I didn’t feel like I was effectively managing the recruiting process. After evaluating a number of applicant tracking systems, OpenHire stood out with a user-friendly interface, great price, and the professionalism and attentiveness of the OpenHire staff. And best of all, I love not having all the paper on my desk!
+I am a user of OpenHire, and have been very satisfied with the application. It integrates very well with other job boards e.g. Monster, Career Builder, etc.
 
-~ Nicole Burke, Recruiting Manager  
+\- Mark Connelly, Recruiter  
 [[see more customers]](https://web.archive.org/customers/index.htm)
