@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the francescascollections.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811133133id_/http%3A//www.francescascollections.com/Content/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francescascollections.com privacy policy that was archived on 2008-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080703170730id_/http%3A//www.francescascollections.com/Content/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Francesca's Collections -
 
