@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prothom-alojobs.com privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221195052id_/http%3A//www.prothom-alojobs.com/target_28/home_page/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prothom-alojobs.com privacy policy that was archived on 2008-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080703181012id_/http%3A//www.prothom-alojobs.com/target_28/home_page/privacy_policy.php) for the most accurate reproduction.*
 
 # Prothom Alo jobs | Job Site for Best Jobs in Bangladesh | Privacy Policy
 
