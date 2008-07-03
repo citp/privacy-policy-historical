@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224121404id_/http%3A//www.quickyellow.com/quickyellow-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2008-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080703153704id_/http%3A//www.quickyellow.com/quickyellow-privacy.html) for the most accurate reproduction.*
 
 # QuickYellow - Privacy Policy
 
