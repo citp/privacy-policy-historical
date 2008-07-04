@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701153442id_/http%3A//www.nexcess.net/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704171437id_/http%3A//www.nexcess.net/policies/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
-
-#### Privacy Policy
+# NEXCESS.NET Web Hosting - Privacy Policy
 
 We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns email [support@nexcess.net](mailto:%73%75%70%70%6f%72%74%40%6e%65%78%63%65%73%73%2e%6e%65%74) or call 1.866.NEXCESS. 
 
