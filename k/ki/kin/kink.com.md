@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516192341id_/http%3A//www.kink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704163611id_/http%3A//kink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Kink.com - Privacy Policy
 
