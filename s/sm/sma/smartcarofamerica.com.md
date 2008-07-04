@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307081242id_/http%3A//www.smartcarofamerica.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705014900id_/http%3A//www.smartcarofamerica.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Smart Car of America - The leading smart fortwo news and information portal - Privacy Policy for SmartCar Of America.com
+# Smart Car of America - Privacy Policy for SmartCar Of America.com
 
 Privacy Policy for SmartCar Of America.com   
   
