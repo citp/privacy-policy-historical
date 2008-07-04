@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2008-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/disclaimer/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704104359id_/http%3A//www.abnamro.com/disclaimer/privacy.cfm) for the most accurate reproduction.*
 
-# ABN AMRO - Security on the internet
+# ABN AMRO - Privacy Statement
 
-Security is a top priority for ABN AMRO. We know that you want your financial transactions to be safe and secure, especially when they're done over the internet.
+This web site is administered by ABN AMRO Bank N.V., with its principal place of business located at Gustav Mahlerlaan 10, Amsterdam (P.O. Box 283, 1000 EA), The Netherlands, and registered in the Amsterdam Trade Registry under number 33002587 ("ABN AMRO"). 
 
-ABN AMRO has extensive security methods and technologies in place to protect the transactions and details that you transmit over the internet, but no system can ever be guaranteed as 100% safe. 
+When you visit this web site ABN AMRO may collect personal data about you, either directly (where you are asked to provide the data) or indirectly. ABN AMRO will, however, only use these personal data in accordance with the purposes set forth in this Privacy Statement and is committed to safeguarding the personal information collected. This statement sets out the purposes of ABN AMRO's data processing in respect of this web site, the use of cookies and how to effect your rights in respect of your personal data. 
 
-Rapidly advancing technology and the open nature of the internet, for example, make it difficult to achieve watertight security. This is why you too must **keep an eye on your own safety** , especially when downloading files and supplying personal details on the internet. It's wise for you to take some personal precautions, so we can both ensure that any risks related to internet banking are kept to a minimum.
+**Purposes of Processing**
 
-**E-mail fraud and bogus websites**
+ABN AMRO collects and processes information about customers and visitors to its web site to conduct its business, to inform and make available products and services that may be of interest to you and for the development of web statistics. The information you provide will be used to contact you when necessary, e.g. to notify you about functionality changes to the web site and to offer services that you may find helpful (provided you have not opted out to receive such services). 
 
-You may have heard of the term 'phishing'. It refers to fraudsters 'fishing' for your personal and financial details to use for criminal purposes.
+ATTENTION: 
 
-Criminals do this, for instance, by making identical copies of the websites of large reputable enterprises such as ABN AMRO. They may also send scam e-mails in the hope of tricking you into surrendering your personal information. Remember: **ABN  AMRO will never ask you for confidential information** in this way! Some frequently asked questions about this topic are listed below.
+Check whether these purposes are applicable to your processing activities or whether other purposes should be added. 
 
-**How can I recognise a bogus website?**
+The ways in which ABN AMRO collects and uses personal data, through this web site and otherwise, are specifically regulated by the [ insert name of local privacy code of conduct that is applicable, if any, and if possible, add link]. 
 
-Whenever you are uncertain of whether the website on your screen is genuine, check the exact internet address, or URL. The URL of the corporate internet site of ABN AMRO is http://www.abnamro.com. If the address on your screen does not correspond with this, and you see 'abnarmo' or 'abnamor', for instance, then you are literally at the wrong address and should break the connection with this site. To make sure you have the correct URL, you can type it in yourself. That way, you avoid being directed to a bogus address by a misleading banner or link.
+ATTENTION: 
 
-**What are the websites of ABN  AMRO and its subsidiaries?**
+Check whether local legislation or processing activities require the above paragraph, if not delete this paragraph 
 
-Links to the websites of a selection of ABN AMRO's major brands and units can be found on our links page: [www.abnamro.com/com/about/links.jsp](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/about/links.cfm)  
-For all other sites of ABN AMRO and its subsidiaries, please go to [Worldwide Opportunities](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/career/worldwide_presence.cfm).
+**Sensitive Data**
 
-**How can I recognise a scam e-mail?**
+ABN AMRO does not seek to collect sensitive personal data (such as data revealing political opinions, religious beliefs, health or other matters) through this site. If ABN AMRO does seek to collect such data, your prior (explicit) consent hereto will be asked. Please note that, by providing ABN AMRO with unsolicited sensitive personal data you (explicitly) consent to our using those data as described above. 
 
-Without using additional measures such as a digital signature, it is easy for fraudsters to imitate e-mails. But that doesn't mean you can't recognise scam e-mails. Cyber-criminals often place alarming, enticing or exciting subjects in their e-mails with the hope of tempting you to respond impulsively and divulge the requested information. So, always take your time to read the e-mail carefully. In case of doubt, it is better not to respond. If you do choose to respond, always first check that the mail is genuine by contacting the company that is the apparent sender by telephone, for instance.
+**Cookies**
 
-Remember: ABN AMRO will **never** ask you via e-mail to supply confidential information such as your PIN code.
+ABN AMRO may collect and analyse information in connection with the use of his web site, such as domain name, the number of hits, the pages visited, previous/subsequent sites visited and length of user session. This information may be collected by using cookies. A cookie is a small text file containing relevant information which our webpage-server can extract from your browser. Our webpage-server may only require cookies that relate to information that has been exchanged between you and ABN AMRO through internet. Cookies not containing any security sensitive information can be stored on your hard disk in such a manner that they are available during the next visit. The only cookie that is saved from the secured domain on the hard disk is the cookie that is used for retaining the bank account- and pass number on the login page. You can allow the use of cookies or prevent this by changing the settings of your browser. If you prevent the use of cookies, the mentioned information shall no longer be stored by your browser and with every visit your information shall be required and shall have to be completed again. Furthermore, the use of Internet Banking is not possible without the use of cookies. However, use of the open domain (<http://www.abnamro.nl/>) through the browser is possible without the use of cookies. Specific settings regarding cookies depend on the type of browser. 
 
-**Must I keep sensitive information confidential?**
+**Third Party Sites**
 
-Always be careful when asked for sensitive information such as account numbers, card numbers, PIN codes and address details. ABN AMRO will **never** ask you for this via e-mail! ABN AMRO always handles your personal information and security with the utmost care. We also urgently advise you never to share user names, passwords and PIN codes with anyone else.
+Please note that this Privacy Statement does not extend to third party sites linked to this web site. 
 
-**What is phishing?**
+How to Effect Your Rights; How to Contact ABN AMRO 
 
-'Phishing' refers to the practice of fraudsters 'fishing' for your details in order to find out and misuse sensitive personal and financial information. Criminals may, for instance, make identical copies of existing corporate websites, or send scam e-mails to elicit a response from you and trick you into divulging your personal information.
+If you do not wish to receive any marketing messages from ABN AMRO, you can contact us via [ insert you local address/phone number/e-mailaddress via which requests will be processed]. If you have any questions about this Privacy Statement, our data processing activities or your dealings with this web site, you can contact us via [ insert you local address/phone number/e-mailaddress via which requests will be processed]. 
 
-**Where can I find more information?**
+**Amendments**
+
+ABN AMRO reserves the right to modify sections of this Privacy Statement at any time. Please check this statement from time to time for any changes. 
