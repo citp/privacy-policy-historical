@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616020430id_/http%3A//www.thehousedesigners.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704075545id_/http%3A//www.thehousedesigners.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
