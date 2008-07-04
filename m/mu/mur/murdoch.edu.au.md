@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093903id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704104143id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
 
 # Murdoch University University Web Sites Privacy Notice
 
