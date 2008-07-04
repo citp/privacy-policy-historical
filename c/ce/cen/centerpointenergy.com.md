@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528145923id_/http%3A//centerpointenergy.com/portal/site/CenterPointEnergy/menuitem.2146d2f5f1168cbb62d341b1101ad0a0/%3Fvgnextoid%3Db0d8267f08023110VgnVCM10000001a10d0aRCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704182255id_/http%3A//centerpointenergy.com/aboutus/legal/privacypolicy) for the most accurate reproduction.*
 
 # CNP - Privacy Policy
 
