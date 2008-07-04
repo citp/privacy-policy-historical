@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hargray.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011131123id_/http%3A//www.hargray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hargray.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704183538id_/http%3A//www.hargray.com/privacy.php) for the most accurate reproduction.*
 
-# Hargray : Privacy Policy
+# Hargray: Privacy Policy
 
 ### Hargray Internet Privacy Policy
 
