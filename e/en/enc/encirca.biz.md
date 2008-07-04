@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2006-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060824025316id_/http%3A//encirca.biz/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704073510id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -68,7 +68,7 @@ To revise or edit your personally identifiable information, simply use your new 
 
 Most requests for access to personal data are processed within seconds of being made through the EnCirca software Web interface. Some requests may take up to a few days to process, and the results may be delivered by e-mail. 
 
-Any other questions should be addressed to support(at)EnCirca.us. 
+Any other questions should be addressed to customer-support(at)EnCirca.us. 
 
 Information about a member may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation. 
 
@@ -97,7 +97,7 @@ Suite 1725-307
 Woburn, MA 01801 
 
 Fax: 781-823-8911  
-E-mail: encirca(at)spamfree.pw 
+E-mail: visit our customer service page 
 
 **Openness**
 
@@ -208,7 +208,7 @@ Suite 1725-307
 Woburn, MA 01801>BR>
 
 Fax: 781-823-8911  
-E-mail: encirca(at)spamfree.pw 
+E-mail: visit our customer service page 
 
 **Policy Regarding Children's Use of Our Site**
 
