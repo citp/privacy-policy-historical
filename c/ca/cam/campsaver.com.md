@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717181543id_/http%3A//campsaver.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704170154id_/http%3A//campsaver.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# CampSaver.com Privacy Policy
+# Campsaver.Com - Contact us
 
 **Camp Saver LLC  
 **
 
-> **Privacy Statement**  
+> ** Privacy Statement**  
 >  We value and respect the privacy of all our user guests and want you to know how we handle information we learn about you when you visit our Web site or make a purchase. The provisions of this notice will apply to current customers as well as former customers unless we indicate otherwise. 
 > 
 > **Non personal Data Collected**  
@@ -18,7 +18,7 @@
 > 
 > We use this data to analyze the effectiveness of the site and better serve our guests.
 > 
-> **Email**  
+> ** Email**  
 >  We do not sell, rent, lease or give your email to any third-party organizations. We do not send unsolicited email. **We do not spam.** If you choose to provide us with your email address we will use it to send:
 > 
 >   * answers to questions and/or requested information, newsletters, order confirmations, receipts, product announcements and/or special promotions
