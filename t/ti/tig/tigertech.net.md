@@ -1,44 +1,41 @@
-> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007162502id_/http%3A//www.tigertech.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704055254id_/http%3A//www.tigertech.net/privacy.html) for the most accurate reproduction.*
 
-# Tiger Technologies Privacy Policy
+# Tiger Technologies: Privacy Policy
 
-**Privacy Policy**  
-  
+##  Privacy Policy 
+
 We're aware of the growing concern of Internet users regarding the widespread distribution of their personal information. This privacy policy describes how we collect and use such information. 
 
-**Personal Information**  
-  
+### Personal Information
+
 We request personal information (such as your name, address, and e-mail address) if you sign up for one of our domain name or Web hosting services. We do not request, collect or store personal information if you merely browse our Web site or search for available domain names. 
 
-If you choose to sign up for a domain name, your contact information may be made available to the public via the WHOIS system (this happens with any domain name registration company and is required by ICANN). We use a [privacy-enhanced version of your contact information](http://support.tigertech.net/whois-privacy) for this purpose where possible, but that's not guaranteed and there are some restrictions. If privacy is a concern, you may wish to use valid but less revealing contact information (such as a post office box address, work address and phone number, etc.) when you sign up with us. 
+If you choose to sign up for a domain name, your contact information may be made available to the public via the WHOIS system (this happens with any domain name registration company and is required by ICANN, the central organization that oversees domain names). We use a [privacy-enhanced version of your contact information](https://web.archive.org/whois) for this purpose where possible, but there are some limits. If privacy is a concern, you may wish to use valid but less revealing contact information (such as a post office box address, work address, etc.) when you sign up with us. 
 
-We may provide your contact information to other parties for legal reasons (for example, in response to a court order or request from a law enforcement agency, or to resolve an apparent violation of our Terms of Service). 
+We may provide your contact information to other parties for legal reasons. For example, we may provide it in response to a court order, or to a request from a law enforcement agency, or to other parties if necessary to resolve an apparent violation of our Terms of Service. 
 
-If you sign up for a Web hosting account and we issue a [Referral Reward](http://support.tigertech.net/referral) to an existing customer who referred you, the other customer will know your domain name and may be able to use the resulting accounting records to determine the basic cost of the plan you signed up for and the date you close your account. We do not provide any other information to the existing customer. 
+If you sign up for a Web hosting account and we issue a [Referral Reward](https://web.archive.org/referral) to an existing customer who referred you, the other customer will know your domain name and may be able to use the resulting accounting records to determine the basic cost of the plan you signed up for and the date you close your account. We do not provide any other information to the existing customer. 
 
 We will not share your contact information with third parties for other reasons. In particular, we never sell or trade customer information for marketing purposes. 
 
 After you sign up, we will not send you e-mail or postal mail unrelated to the service you purchased. Instead, the information you supply is used by us for only these purposes: 
 
-  1. After you order, we send one or more e-mail messages confirming the order, with instructions on how to get started. 
-  2. As long as you remain a customer, we may occasionally send update notices that are primarily related to the service you purchased. For example, from time to time we send notices of new features available to our Web hosting customers. These messages sometimes include other promotional announcements about our company, but such announcements will not be the focus of the message. 
+  1. After you order, we send one or more e-mail messages confirming the order, with instructions on how to get started.
+  2. As long as you remain a customer, we may occasionally send update notices that are primarily related to the service you purchased. For example, from time to time we send notices of new features available to our Web hosting customers. These messages sometimes include other promotional announcements about our company, but such announcements will not be the focus of the message.
   3. If you purchase a service that expires after a certain time period (such as a one-year "domain name only" service), we will send you renewal notices by e-mail. 
 
 
 
-   
-**Cookies**  
-  
+### Cookies
+
 A few pages on our Web site use "cookies". A cookie is a unique number or other identifier generated by our servers that allows them to remember your progress from page to page as you move through our Web site. This allows us to offer features such as the ability to remember the password used to login to your account management pages. 
 
 The type of cookies we use cannot be used to reference any personal information unless you supply it yourself by typing it, and cannot track you once you leave our Web site. 
 
-   
-**Encryption**  
-  
+### Encryption
+
 In order to further protect customer information, certain forms on our Web site are run on a secure server, utilizing encryption technology to safeguard all credit card transactions from unauthorized viewing. We use industry-standard SSL encryption. 
 
-   
-**Summary**  
-  
-These measures, together with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that we will do our best to protect your privacy. If you have any questions or concerns, please contact us at [support@tigertech.net](mailto:support@tigertech.net). 
+### Summary
+
+These measures, together with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that we will do our best to protect your privacy. If you have any questions or concerns, please [contact us](https://web.archive.org/contact). 
