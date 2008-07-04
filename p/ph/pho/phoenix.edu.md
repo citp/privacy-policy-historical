@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512001035id_/http%3A//www.phoenix.edu/terms_conditions/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704071958id_/http%3A//www.phoenix.edu/terms_conditions/privacy_policy.aspx) for the most accurate reproduction.*
 
-# University of Phoenix - Terms & Conditions - Privacy Policy
+# Terms & Conditions - Privacy Policy - University of Phoenix
 
 University of Phoenix is committed to protecting your privacy when you visit our websites. We want you to know what information is collected, how we use that information, and how you can update it. The University reserves the right to append or otherwise modify this privacy statement at any time, so please re-visit this page occasionally to check for updates.
 
@@ -90,7 +90,7 @@ Back to Top
 
 **For More Information**
 
-If you have questions about our information practices, please [contact us](https://web.archive.org/web/20080512001035id_/http%3A//www.phoenix.edu/terms_conditions/contact_us.aspx).
+If you have questions about our information practices, please [contact us](https://web.archive.org/web/20080704071958id_/http%3A//www.phoenix.edu/terms_conditions/contact_us.aspx).
 
 Back to Top
 
