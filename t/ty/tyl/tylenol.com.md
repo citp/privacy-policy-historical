@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2008-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080111134155id_/http%3A//tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704074322id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tylenol.com
 
 Welcome to  www.tylenol.com! This site is owned by  McNeil Consumer Healthcare Division of McNeil-PPC, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States.
 
@@ -58,7 +58,7 @@ This site may contain links or references to other Web sites to which this Priva
 How to Contact Us  
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: 
 
-[Customer Service](https://web.archive.org/page2.jhtml?id=tylenol/ask/main.inc)
+[Customer Service](https://web.archive.org/page.jhtml?id=tylenol/ask/main.inc)
 
 Changes to This Privacy Policy  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on August 31, 2006. 
