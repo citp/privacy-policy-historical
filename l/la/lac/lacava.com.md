@@ -1,67 +1,8 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704052704id_/http%3A//lacava.com/HTML/Privacy_statement.htm) for the most accurate reproduction.*
 
-# Lacavadesign.com
+# Lacava Bathroom Design
 
-**1.888.522.2823 **  
-
-
-| 
-
-* * *  
-  
----  
-  
-[HOME PAGE](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/index.htm)  
-  
-* * *  
-  
-[COLLECTIONS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/product%20collections.htm)  
-  
-* * *  
-  
-[ONLINE LITERATURE,  
-SERVICE PARTS  
-DISCONTINUED PRODUCTS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/online.htm)  
-  
-* * *  
-  
-[INQUIRIES](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/questionnaire.htm)  
-  
-* * *  
-  
-[LACAVA PROFILE](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/about%20lacava.htm)  
-  
-* * *  
-  
-[CONTACT INFO](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/contacts.htm)  
-  
-* * *  
-  
-[TERMS AND CONDITIONS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/terms%20and%20conditions%20.htm)  
-  
-* * *  
-  
-[LACAVA BUSINESS ETHICS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/Business%20ethics.htm)  
-  
-* * *  
-  
-[SHOW ORDER DETAILS](http://order.store.yahoo.com/cgi-bin/wg-order?yhst-53061245039550)  
-  
-* * *  
-  
-LACAVA  
-BATHROOM DESIGN
-
-LACAVA  
-BATHROOM DESIGN
-
-LACAVA  
-BATHROOM DESIGN
-
-LACAVA  
-BATHROOM DESIGN
-
-** Lacava LLC Privacy Statement  
+**Lacava LLC Privacy Statement  
 **Updated: April 22, 2005 
 
 This privacy statement has been created to disclose how the information collected on this web site is used. Lacava LLC recognizes that privacy is an important issue in the information age, thus, our firm is greatly committed to our customers’ privacy. 
@@ -106,4 +47,5 @@ You can request to be removed from our databases to stop our communication with 
 
 Should you feel necessary to communicate your questions or concerns regarding this privacy, please feel free to write to Lacava LLC, 2243 S. Throop St., Chicago, IL 60608. 
 
-We welcome your inquiries and hope to exceed your expectations in every area of our business policies. 
+We welcome your inquiries and hope to exceed your expectations in every area of our business policies.   
+
