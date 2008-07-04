@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the freeadscity.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429020954id_/http%3A//freeadscity.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadscity.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704115833id_/http%3A//www.freeadscity.com/help-privacy.html) for the most accurate reproduction.*
 
-# Privacy policy & Disclaimer
+# Privacy policy
 
-## Privacy policy
+FreeAdsCity has established its privacy policy to explain how your information within the purview of FreeAdsCity is protected, collected and used. This policy may be updated by FreeAdsCity. FreeAdsCity will post notices of its policy changes on the FreeAdsCity site at: [http://www.FreeAdsCity.com/help-privacy.html](http://www.freeadscity.com/help-privacy.html)
 
-FreeAdsCity.com care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it.
+ **PRIVACY PROTECTION**
 
- **Cookies**
+FreeAdsCity does not share your information with third parties for marketing purposes, or engage in cross-marketing or link-referral programs with other similar sites. FreeAdsCity recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). FreeAdsCity does not knowingly collect any information from persons under the age of 13. If FreeAdsCity learns that a posting is by a person under the age of 13, FreeAdsCity will remove that posting. FreeAdsCity, or persons who post on FreeAdsCity, may provide links to third party websites, with different privacy policies. FreeAdsCity is not responsible for, nor have any control over, those third party websites.  
 
-FreeAdsCity.com may use "cookie" technology (a tiny element of data that is sent to your browser, which may then be stored on your hard drive so we can recognize you when you return) only to obtain non-personal information from our online visitors in order to improve their online experience. For example, we store cookies to customize the website for the user on multiple visits. Any other companies or persons do not have access to FreeAdsCity.com's cookies.
+**INFORMATION COLLECTION AND USE**
 
- **Information Collection and Use**
+FreeAdsCity collect traditional contact information such as your name, mailing and/or billing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, to provide subscription email services, to register for forums, to process any credit card charges, etc.
 
-We collect traditional contact information such as your name, mailing address, phone number, e-mail in order to process your request to place an ad to FreeAdsCity.com's classifieds. We use this information for few purposes: to place your ad and to notify you, usually via email, about login data for edit/delete ads. We do not share your information. We do not have "marketing partners". We do not give, rent, loan, or otherwise disclose anything about you to anyone. Traditional contact information is kept for as long as is legally required.
+FreeAdsCity does not store full credit card information but FreeAdsCity may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by FreeAdsCity are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL 128 Bit) protocol.
 
- **Accuracy**
+Your personal information may be collected by FreeAdsCity if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at [contact us page](https://web.archive.org/contact.html).  
-If, for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
+Should you expect your personal information to be private please do not post any personal information on FreeAdsCity site. Standard web log entries for each page served, including visitor’s IP address, page URL, and timestamp are collected by FreeAdsCity web logs in order to help diagnose problem with FreeAdsCity servers, to administer FreeAdsCity site, and to otherwise enhance visitor’s use of FreeAdsCity sites and services. 
 
-While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please [contact us.](https://web.archive.org/contact.html)
+**DATA STORAGE**
 
+FreeAdsCity stores in its database all user generated content (classified ads, forums, guestbook postings etc.) even after they are deleted, as well as can archive such data elsewhere. FreeAdsCity indefinitely stores web logs and other records. Registered members can access and update personal account information through the account homepage.  
 
+**DISCLOSURE OF PERSONAL INFORMATION**
 
+FreeAdsCity may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. FreeAdsCity may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-party; or protect the rights, property, or personal safety of FreeAdsCity, its users or the general public. FreeAdsCity complies with the provisions of C.R.S. § 6-1-716 pertinent to the breaches of security notifications effective September 1st, 2006.  
 
-## Disclaimer
+**GLOBAL USE**
 
-FreeAdsCity.com does not assume responsibility for the content of classified ads or thirds party advertising presented on the web site. FreeAdsCity.com cannot be involved in person-to-person dealings i.e. you are using this web site at your own risk. 
+By providing us with data and by visiting FreeAdsCity you acknowledge and agree that due to the global use of FreeAdsCity we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to FreeAdsCity may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations.  
 
+**IF YOU DO NOT AGREE WITH FREEADSCITY PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**
