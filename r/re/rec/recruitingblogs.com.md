@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitingblogs.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526235744id_/http%3A//www.recruitingblogs.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.recruitingblogs.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitingblogs.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705135317id_/http%3A//www.recruitingblogs.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.recruitingblogs.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - RecruitingBlogs.com
 
