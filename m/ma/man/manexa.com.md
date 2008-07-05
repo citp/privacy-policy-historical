@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607035107id_/http%3A//www.manexa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705185922id_/http%3A//www.manexa.com/privacy.asp) for the most accurate reproduction.*
 
 # Manexa - Privacy Policy
 
