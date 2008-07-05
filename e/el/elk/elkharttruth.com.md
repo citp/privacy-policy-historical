@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013070056id_/http%3A//www.elkharttruth.com/Know/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705032503id_/http%3A//www.etruth.com/Know/Legal/Privacy.aspx) for the most accurate reproduction.*
 
-# eTruth.com - The Truth Online Edition
+# 
 
 Fundamental Principles  
 Our Privacy Policy is based upon the following four fundamental principles. 
