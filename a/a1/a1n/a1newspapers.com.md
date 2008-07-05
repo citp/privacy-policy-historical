@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505013123id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705113010id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy-Policy
 
 **Privacy Policy for www.a1newspapers.com**
 
