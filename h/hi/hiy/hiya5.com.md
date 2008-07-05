@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiya5.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611030621id_/http%3A//www.hiya5.com/footer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiya5.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705195144id_/http%3A//www.hiya5.com/footer/policy) for the most accurate reproduction.*
 
 # - HiYa5.com - Friends are just a high five away!
 
