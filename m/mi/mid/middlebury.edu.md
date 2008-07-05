@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middlebury.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611000809id_/http%3A//go.middlebury.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middlebury.edu privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705041630id_/http%3A//go.middlebury.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
