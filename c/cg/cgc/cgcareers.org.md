@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502123336id_/http%3A//www.cgcareers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705230724id_/http%3A//www.cgcareers.org/privacy) for the most accurate reproduction.*
 
 # Commongood Careers » Privacy Policy
 
@@ -38,11 +38,11 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 #### Our Commitment To Children’s Privacy
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 16, and no part of our website is structured to attract anyone under 16. 
+Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
 
 #### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by sending us a request by email to [info@cgcareers.org](mailto:info@cgcareers.org). We use this procedure to better safeguard your information. 
+In order to change any of your personally identifiable information that we collect online, please send us a request by email to [help@cgcareers.org](mailto:help@cgcareers.org). We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -56,5 +56,5 @@ Should you have other questions or concerns about these privacy policies, please
 
 We may change this Privacy Statement from time-to-time. If we do make a change, we will post the revised Privacy Statement on this Site. We encourage you to review this Privacy Statement periodically. Questions, comments or complaints about our privacy policies should be submitted to us by one of the methods listed above. 
 
-This privacy policy was last updated in December 2005.   
+This privacy policy was last updated in June 2008.   
 
