@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513165029id_/http%3A//microsoftstartupzone.com/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705090024id_/http%3A//www.microsoftstartupzone.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Startup Zone
 
@@ -26,7 +26,7 @@ Microsoft may disclose personal information if required to do so by law or in th
 
 Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
+Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted. 
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
 
@@ -82,6 +82,3 @@ Microsoft.com privacy
 Microsoft Corporation   
 One Microsoft Way   
 Redmond, Washington 98052-6399
-
-  
-
