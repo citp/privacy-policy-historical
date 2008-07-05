@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416014020id_/http%3A//elgin.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705144406id_/http%3A//www.elgin.edu/privacypolicy) for the most accurate reproduction.*
 
 # Elgin Community College -
 
