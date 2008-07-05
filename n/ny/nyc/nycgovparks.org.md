@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810184930id_/http%3A//www.nycgovparks.org/common_files/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705032638id_/http%3A//nycgovparks.org/temporary/sdsdf) for the most accurate reproduction.*
 
 # About the City of New York/Parks and Recreation
 
@@ -14,7 +14,7 @@ This website utilizes temporary ("session") cookies. These cookies are set to ex
 
 How voluntarily provided information is used 
 
-If you voluntarily send us information, it will be used for governmental purposes. These purposes may include, without limitation, helping us respond to your request for information; to look into a problem you are bringing to our attention; or to keep lists of interested people (e.g. prospective employees). We will not rent or sell information identifying you as a particular person (name, address, phone number, etc.) to third parties, without your permission. We will also not disclose credit card information, except for purposes related to your credit card transaction, or with your permission, or as required by law.
+If you voluntarily send us information, it will be used for governmental purposes. These purposes may include, without limitation, helping us respond to your request for information; to look into a problem you are bringing to our attention; or to keep lists of interested people (e.g. prospective employees). We will not rent or sell information identifying you as a particular person (name, address, phone number, etc.) to third parties without your permission. We will also not disclose credit card information, except for purposes related to your credit card transaction, or with your permission, or as required by law.
 
 Children 
 
