@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518113906id_/http%3A//onlysimchas.com/v4/index.cfm/fuseaction%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705040721id_/http%3A//www.onlysimchas.com/v4/index.cfm/fuseaction%3Aprivacy) for the most accurate reproduction.*
 
 # OnlySimchas.com ® - Celebrating Jewish Life
 
