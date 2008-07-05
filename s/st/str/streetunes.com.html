@@ -1,63 +1,75 @@
-<!--The following is the downloaded HTML source of the streetunes.com privacy policy that was archived on 2008-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080221191237id_/http%3A//www.streetunes.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streetunes.com privacy policy that was archived on 2008-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080705114601id_/http%3A//www.streetunes.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
+  <base href="http://www.streetunes.com">
+	
     
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<meta name="keywords" content="ringtones, ring tone, ringtone, tone, mobile, cell phone ringtones, mobile, download ringtones, polyphonic ringtones, nokia ringtones, wallpapers, screensavers, mobile animation, real tones, java games, truetones, tmobile ringtones, motorola ringtones, sprint ringtones, cingular ringtones">
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <meta http-equiv="Expires" content="Tue, 20 Jun 1995 04:13:09 GMT">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="keywords" content="ringtones, ring tone, ringtone, tone, mobile, cell phone ringtones, mobile, download ringtones, polyphonic ringtones, nokia ringtones, wallpapers, screensavers, mobile animation, real tones, java games, truetones, tmobile ringtones, motorola ringtones, sprint ringtones, cingular ringtones">
     <meta name="description" content="THE place to download the hottest ringtones, realtones, wallpaper, and phone animation. Browse for your favorite song or artist, and within a couple of clicks the item will be sent to your cell phone. Cool bonuses for every new client! No credit card required.">
     
     <title>Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint</title>
     <style type="text/css" media="all"> @import url(http://www.streetunes.com/++resource++streetunes.css/main.css);</style>
-    
+	<!-- script type="text/javascript" tal:attributes="src string:${here/absolute_url}/++resource++streetunes.js/prototype.js"></script>
+<script type="text/javascript" tal:attributes="src string:${here/absolute_url}/++resource++streetunes.js/scriptaculous.js"></script>
+<script type="text/javascript" >
+	function opencode(mid)
+	{
+		elm = $(mid);
+		d = $('popupdiv');
+		Element.clonePosition(d, elm,{setWidth: false,setHeight: false,offsetLeft: -20,offsetTop: -380})
+		d.show();
+    }
+</script -->
     <script type="text/javascript" src="http://www.streetunes.com/jsvariables.js"></script>
-	<script type="text/javascript" src="http://www.streetunes.com/++resource++streetunes.js/wz_tooltip.js"></script>
-	
+    <script type="text/javascript" src="http://www.streetunes.com/++resource++streetunes.js/MochiKit.js"></script>
+    <script type="text/javascript" src="http://www.streetunes.com/++resource++streetunes.js/play_preview.js"></script>
     <script type="text/javascript">
-        var PlayerStatus = 0
+	var PlayerStatus = 0
 		function PlayPreview(filename,elmn){
-			elmn = document.getElementById(elmn)
-			mPlayer = document.getElementById('player')
-			clearButtonStatus()
+			var elmn = document.getElementById(elmn);
+			var mPlayer = document.getElementById('player');
+			clearButtonStatus();
 			try{
 				if(PlayerStatus==0){
 					mPlayer.innerHTML="<embed width=0 height=0 src='"+filename+"' hidden=true autostart=true loop=false>";
 					elmn.className = '';
-					elmn.className = "ringtone-stop-preview"
-					PlayerStatus = 1
+					elmn.className = "ringtone-stop-preview";
+					PlayerStatus = 1;
 				}else{
 					mPlayer.innerHTML="<embed width=0  height=0 src='' hidden=true autostart=true loop=false>";
 					elmn.className = '';
-					elmn.className = "ringtone-preview"
-					PlayerStatus = 0
+					elmn.className = "ringtone-preview";
+					PlayerStatus = 0;
 				}
 			}catch(e){;return;}
 		}
+	
+	function clearButtonStatus() {
+            for(var i=0; i<=document.links.length-1; i++) {
+                var el = document.links[i];
+                if (el.className=="ringtone-stop-preview")
+                    el.className="ringtone-preview";
+            }
+        }
 
-		function clearButtonStatus()
-		{
-			for(i=0;i<=document.links.length-1;i++)
-			{
-				el = document.links[i]
-				if(el.className=="ringtone-stop-preview")
-				{
-					el.className="ringtone-preview"
-				}
-			}
+	function disableElement(elmnt) {
+            elmnt.disabled = true;
+	}
 
-		}
-		
-		function disableElement(elmnt)
-		{
-			elmnt.disabled = true;
-		}
-		function handleSubmit(elmnt)
-		{
-			disableElement(elmnt);
-		}
-		
-    </script>
+	function handleSubmit(elmnt) {
+            disableElement(elmnt);
+	}
+	function submitFrm()
+	{
+		document.getElementById('forgot_password').value= 1;
+		document.forms.hplogin.submit();
+	}
+</script>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 
 </script>
@@ -69,111 +81,131 @@ _uacct = "UA-790666-8";
 urchinTracker();
 
 </script>
-
-
   </head>
 
   <body>
-
-<div id="player"></div>
-
-<table border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed; margin: 0 auto;" width="760">
-  <tbody><tr>
-    <td class="logo" id="logo" width="286" rowspan="2"><h1>
-      <a href="http://www.streetunes.com/index.html" title="Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint">
-        <img alt="Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint" src="http://www.streetunes.com/Images/Logo.gif">
-      </a>
-      </h1>
-    </td>
-    <td valign="top" width="472">
-       <ul id="toplink">
-	  
-	  
-	  <li><a href="http://www.streetunes.com/login.html">Log In</a></li>
-	  <li><a href="http://www.streetunes.com/registration.html">Register Now</a></li>
-	  <li><a href="http://www.streetunes.com/pricing-and-plans">Pricing and Plans</a></li>
-	  <li><a href="http://www.streetunes.com/terms.html">Terms and Conditions</a></li>
-	  <li><a href="http://www.streetunes.com/helpfaq.html">Help/FAQ</a></li>
-          
-	  <li class="home">
-               <a href="http://www.streetunes.com/index.html">
-             <img src="http://www.streetunes.com/Images/HomeIcon.gif" style="position: relative; top: 2px; margin-bottom: -1px;" title="Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint">
-             </a></li>
-          
-       </ul>
-   </td>
-   </tr><tr>
-   <td valign="bottom">
-       <div id="search">
-	 <form action="http://www.streetunes.com/search.html" method="get" name="search_form" onsubmit="return document.forms.search_form['search_term'].value != '';">
-	   <input name="search_term" type="text" class="inpt" value="I'm looking for..." onfocus="if (this.value == 'I\'m looking for...') this.value = ''">
-	   <input type="button" onclick="if (document.forms.search_form['search_term'].value != '') {document.forms.search_form.submit();}" class="seh">
-	 </form>
-       </div>
-    </td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; margin: 0 auto;" width="760">
- <tbody><tr>
-   <td valign="top" class="menuBG" width="134">
-    <div class="sidebar-menu">
-      
-      <div class="category">
-        <a href="http://www.streetunes.com/index.html">Home</a>
-      </div>
-      
-      
-
-  
-  <div class="category">
-    <a href="http://www.streetunes.com/ringtones">Ringtones</a>
-  </div>
-    
-  
-  
-  <div class="category">
-    <a href="http://www.streetunes.com/realtones">Realtones</a>
-  </div>
-    
-  
-  
-  <div class="category">
-    <a href="http://www.streetunes.com/wallpapers">Wallpapers</a>
-  </div>
-    
-  
-  
-  <div class="category">
-    <a href="http://www.streetunes.com/animation">Animations</a>
-  </div>
-    
-  
-
-
-      <div class="category">
-        <a href="http://www.streetunes.com/artists">Artists A-Z</a>
-      </div>
-    </div>
-   </td>
-   <td style="background: white; border-left:1px solid #666;" valign="top">
-    
-    
- <a href="http://www.streetunes.com/streetunes/STBanners/redirect" target="_self">
-                <img width="624" height="98" border="0" src="http://www.streetunes.com/streetunes/STBanners/streetunes2go">
-    </a>
-    
-
-     <div class="pathbar">
+  <div id="player"></div>
+  <center id="st_center">
+   <table cellspacing="0" cellpadding="0" id="st_box">
+    <tbody>
+     <tr>
+      <td id="st_header_box_left" style="height:117px;">&nbsp;</td>
+      <td colspan="2" id="st_header_box_center" style="height:117px;"><table id="anon_fast_tabs" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+         <td class="at_left_corner">&nbsp;</td>
+         <td>
+          <a href="http://www.streetunes.com/registration.html">
+           <img style="margin-top:5px" src="http://www.streetunes.com/++resource++streetunes.img/at_icon_register.gif">
+          </a>
+         </td>
+         <td style="padding-top:10px;">
+          <a href="http://www.streetunes.com/registration.html">Register Now</a>
+         </td>
+         <td><img style="margin-top:5px" src="http://www.streetunes.com/++resource++streetunes.img/header_del.gif"></td>
+         <td>
+          <a href="http://www.streetunes.com/login.html">
+           <img style="margin-top:5px" src="http://www.streetunes.com/++resource++streetunes.img/at_icon_login.gif">
+          </a>
+         </td>
+         <td style="padding-top:10px;">
+          <a href="http://www.streetunes.com/login.html">Log In</a>
+         </td>
+         <td><img style="margin-top:5px" src="http://www.streetunes.com/++resource++streetunes.img/header_del.gif"></td>
+         <td>
+          <a href="http://www.streetunes.com/helpfaq.html">
+           <img style="margin-top:5px" src="http://www.streetunes.com/++resource++streetunes.img/at_icon_help.gif">
+          </a>
+         </td>
+         <td style="padding-top:10px;">
+         <a href="http://www.streetunes.com/helpfaq.html">Need Help</a>
+         </td>
+         <td class="at_right_corner">&nbsp;</td>
+        </tr>
+	   </tbody></table>
+	   
+	   <a id="st_logo" href="http://www.streetunes.com/index.html" title="Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint">
+        <img alt="Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint" src="http://www.streetunes.com/++resource++streetunes.img/logo.gif">
+       </a>
+       
+       <div class="visualClear"><!-- --></div>
+       <table id="st_silebar_top" bolder="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+        <td class="category first">
+         <a href="http://www.streetunes.com/index.html">Home</a>
+        </td>
+       
         
-   <a href="http://www.streetunes.com">Home</a>
-    »
-    Privacy Policy 
 
-     </div>
-    
-     
-     <div>
-        <div id="content">
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/ringtones">Ringtones</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/realtones">Realtones</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/wallpapers">Wallpapers</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/animation">Animations</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/themes">Themes</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/games">Games</a>
+    </td>
+   
+   
+    <td class="category">
+      <a href="http://www.streetunes.com/applications">Applications</a>
+    </td>
+   
+  
+   <!-- td tal:attributes="class python:'%s/alerts' % (here.absolute_url())==current_url and 'category current' or 'category'">
+        <a tal:attributes="href string:${here/absolute_url}/alerts">Alerts</a>
+   </td -->
+  
+  <td class="category">
+   <a href="http://www.streetunes.com/artists">Artists A-Z</a>
+  </td>
+
+
+        
+        </tr>
+       </tbody></table>
+       
+	   
+	   
+      </td>
+      <td id="st_header_box_right" style="height:117px;">&nbsp;</td>
+     </tr>
+     <tr>
+      <td id="st_content_box_left">&nbsp;</td>
+      <td style="height:76%" id="st_content_box_center">
+       <table id="content_wrapper" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+         
+         
+         <td id="content" valign="top" width="*" align="left">
+         
+          <span id="top-section">
+           
+          </span>
+          
+          
+          
+          <div id="content">
 
     <h2 class="cell-header">Privacy Policy </h2>
 <p>At Streetunes, which is operated by SMBP Iglu, Ltd. and its family of companies, we take your privacy seriously. This privacy policy applies to the personal information we collect through this Web site, and describes how we collect, use, disclose, protect, and provide you with access to the personal information about you that we maintain. This privacy policy does not apply to personal information you may otherwise provide to us, or that we may otherwise collect.</p>
@@ -210,7 +242,7 @@ urchinTracker();
 </ul>
 
 <h3>Access to Personal Information  </h3>
-<p>You can call us at 1-877-268-2527 or e-mail us at support@streetunes.com to update, change, or request that we delete your personal information. </p>
+<p>You can call us at 1-877-268-8110 or e-mail us at support@streetunes.com to update, change, or request that we delete your personal information. </p>
 
 <h3>Protection of Personal Information  </h3>
 
@@ -230,1097 +262,139 @@ urchinTracker();
 
 <h3>How To Contact Us </h3>
 
-<p>If you have questions about our privacy policy, please call us at 1-877-268-2527; or e-mail us at support@streetunes.com. </p>
+<p>If you have questions about our privacy policy, please call us at 1-877-268-8110; or e-mail us at support@streetunes.com. </p>
 
 <p>* * * This privacy policy is effective as of 20/2/2006.  </p>
 
 </div>
-     </div>
-     <div style="clear: both;">
-       
-        
+          
+          
+         </td>         
+        </tr>
+       </tbody></table>
+      </td>
+      <td id="st_content_box_right_portlets">
+       <form action="http://www.streetunes.com/search.html" method="get" name="search_form" onsubmit="return document.forms.search_form['search_term'].value != '';">
+        <table id="st_search_box" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+          <td valign="center" height="28" align="left" width="154">
+	       <input name="search_term" type="text" class="inpt" value="Search the site" onfocus="if (this.value == 'Search the site') this.value = ''">
+          </td>
+          <td valign="center" height="28" align="left">
+	       <input type="button" class="sbmt" onclick="if (document.forms.search_form['search_term'].value != '') {document.forms.search_form.submit();}">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" valign="top" align="left" id="st_search_box_searches">
+           <h2>Top Searches:</h2>
+           <div class="tscont">
+            
+             <a href="http://www.streetunes.com/search.html?search_term="></a>
+             <span class="st_searches_del">|</span>
+             
+            
+            
+             <a href="http://www.streetunes.com/search.html?search_term=Nickelback">Nickelback</a>
+             <span class="st_searches_del">|</span>
+             
+            
+            
+             <a href="http://www.streetunes.com/search.html?search_term=Bow Wow">Bow Wow</a>
+             
+             <br>
+            
+            
+             <a href="http://www.streetunes.com/search.html?search_term=50 Cent">50 Cent</a>
+             <span class="st_searches_del">|</span>
+             
+            
+            
+             <a href="http://www.streetunes.com/search.html?search_term=David Banner">David Banner</a>
+             <span class="st_searches_del">|</span>
+             
+            
+            
+             <a href="http://www.streetunes.com/search.html?search_term=japan">japan</a>
+             
+             
+            
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" id="st_search_box_bottom">&nbsp;</td>
+         </tr>
+        </tbody></table>
+	   </form>
+	   <table id="st_dn" cellspacing="0" cellpadding="0">
+	    <tbody><tr><td colspan="3" class="top">&nbsp;</td></tr>
+	    <tr>
+	     <td class="left">&nbsp;</td>
+	     <td class="center">
 
-<div style="border-top: 1px solid #666; padding: 2px;">
-<h2 class="cell-header" style="margin: 0">MORE COOL DOWNLOADS</h2>
-<table width="100%" style="margin: 1em 0em; font-size: 90%">
-<tbody><tr>
-    <td align="center" valign="top" width="16%">
-        <div class="promotion-header">Animations</div>
-        <span class="preview-border-medium promotion">
-        <a href="http://www.streetunes.com/getit/Streetunes Babe/760" title="Streetunes Babe - Animations">
-        
-          
-          
-            <img width="76" height="76" src="http://212.235.1.11/DCMS5/uploads/GIF/A/animation_screensavers_Stre.gif" alt="Streetunes Babe - Animations">
-          
-          
-        
-        
-        </a>
-        </span>
-        <a href="http://www.streetunes.com/getit/Streetunes Babe/760" title="Streetunes Babe - Animations">
-        <b>Streetunes Babe</b>
-        </a>
-        
-    </td>
-    <td align="center" valign="top" width="16%">
-        <div class="promotion-header">Animations</div>
-        <span class="preview-border-medium promotion">
-        <a href="http://www.streetunes.com/getit/All I Want Is To Cuddle/1960" title="All I Want Is To Cuddle - Animations">
-        
-          
-          
-            <img width="76" height="76" src="http://212.235.1.11/DCMS5/uploads/GIF/A/Animations_Animals_All_I_Want_Is_To_Cuddle_preview_All_I_Want_Is_To_Cuddle_1.gif" alt="All I Want Is To Cuddle - Animations">
-          
-          
-        
-        
-        </a>
-        </span>
-        <a href="http://www.streetunes.com/getit/All I Want Is To Cuddle/1960" title="All I Want Is To Cuddle - Animations">
-        <b>All I Want Is To Cuddle</b>
-        </a>
-        
-    </td>
-    <td align="center" valign="top" width="16%">
-        <div class="promotion-header">wallpapers</div>
-        <span class="preview-border-medium promotion">
-        <a href="http://www.streetunes.com/getit/Love Flames/794" title="Love Flames - wallpapers">
-        
-          
-          
-            <img width="76" height="76" src="http://212.235.1.11/DCMS5/uploads/GIF/S/ST_wallpapers_Love_Flames_128x128.gif" alt="Love Flames - wallpapers">
-          
-          
-        
-        
-        </a>
-        </span>
-        <a href="http://www.streetunes.com/getit/Love Flames/794" title="Love Flames - wallpapers">
-        <b>Love Flames</b>
-        </a>
-        
-    </td>
-    <td align="center" valign="top" width="16%">
-        <div class="promotion-header">Ringtones</div>
-        <span class="preview-border-medium promotion">
-        <a href="http://www.streetunes.com/getit/Photograph/813" title="Photograph - Ringtones">
-        
-        <img src="http://www.streetunes.com/Images/img8.gif" width="76" alt="Photograph - Ringtones">
-        </a>
-        </span>
-        <a href="http://www.streetunes.com/getit/Photograph/813" title="Photograph - Ringtones">
-        <b>Photograph</b>
-        </a>
-        <div>Nickelback</div>
-    </td>
-    <td align="center" valign="top" width="16%">
-        <div class="promotion-header">Ringtones</div>
-        <span class="preview-border-medium promotion">
-        <a href="http://www.streetunes.com/getit/Like You/815" title="Like You - Ringtones">
-        
-        <img src="http://www.streetunes.com/Images/img8.gif" width="76" alt="Like You - Ringtones">
-        </a>
-        </span>
-        <a href="http://www.streetunes.com/getit/Like You/815" title="Like You - Ringtones">
-        <b>Like You</b>
-        </a>
-        <div>Bow Wow</div>
-    </td>
-</tr>
-<tr>
-    <td align="center" valign="top">
-        <a href="http://www.streetunes.com/getit/Streetunes Babe/760" class="button blue60">Get It!</a>
-    </td>
-    <td align="center" valign="top">
-        <a href="http://www.streetunes.com/getit/All I Want Is To Cuddle/1960" class="button blue60">Get It!</a>
-    </td>
-    <td align="center" valign="top">
-        <a href="http://www.streetunes.com/getit/Love Flames/794" class="button blue60">Get It!</a>
-    </td>
-    <td align="center" valign="top">
-        <a href="http://www.streetunes.com/getit/Photograph/813" class="button blue60">Get It!</a>
-    </td>
-    <td align="center" valign="top">
-        <a href="http://www.streetunes.com/getit/Like You/815" class="button blue60">Get It!</a>
-    </td>
-</tr>
-</tbody></table>
-</div>
+	       <img class="op" src="http://www.streetunes.com/++resource++streetunes.img/ringtones_op.gif">
+	            <b>1</b><a style="color: #474747; text-decoration: none" href="http://www.streetunes.com/getit/ringtones/I%20Just%20Called%20To%20Say%20I%20%20Love%20You/3029">
+	            			I Just Called To Say I LoveYou</a><br>
+
+	       <img class="op" src="http://www.streetunes.com/++resource++streetunes.img/ringtones_op.gif">
+	           <b>2</b><a style="color: #474747; text-decoration: none" href="http://www.streetunes.com/getit/ringtones/Say%20It%20Right/2981">
+	            			Say It Right</a><br>
+
+	       <img class="op" src="http://www.streetunes.com/++resource++streetunes.img/games_op.gif">
+	           <b>3</b> <a style="color: #474747; text-decoration: none" href="http://www.streetunes.com/getit/games/Pix%20Jig/272">
+	            			Pix Jig</a><br>
+
+	       <img class="op" src="http://www.streetunes.com/++resource++streetunes.img/games_op.gif">
+	           <b>4</b><a style="color: #474747; text-decoration: none" href="http://www.streetunes.com/getit/games/Sudokuick/2139">
+	            			Sudokuick</a><br>
+	       <img class="op" src="http://www.streetunes.com/++resource++streetunes.img/applications_op.gif">
+	           <b>5</b><a style="color: #474747; text-decoration: none" href="http://www.streetunes.com/getit/applications/Love%20Or%20Lust/1829">
+	            			Love Or Lust</a><br>
 
 
-       
-     </div>
-    </td>
- </tr>
-</tbody></table>
-<div id="footerH">
-	<ul>
-	 <li class="first"><a href="http://www.streetunes.com/index.html">Home</a></li>
-	 <li><a href="http://www.streetunes.com/about.html">About us</a></li>
-	 <li><a href="http://www.streetunes.com/privacy.html">Privacy policy</a></li>
-	</ul>
-</div>
-<div align="center" style="color: white;margin-top:5px; ">
-	Artist names for identification purposes only
-</div>
-	<div align="center">
-	       
-	        
-<div id="footerPHL">
-We Support the following Carriers: AT&amp;T, T-Mobile, and Sprint
-Our mobile content works with:
-<br>
-<li>Alcatel Generic Alcatel,</li>
-<li>Audiovox CDM-8910,</li>
-<li>Audiovox CDM-8900,</li>
-<li>Audiovox CDM-9900,</li>
-<li>Audiovox CDM-8920,</li>
-<li>Audiovox PM-8920,</li>
-<li>Audiovox SMT 5600,</li>
-<li>Audiovox CDM-9950SP,</li>
-<li>Audiovox CDM-180,</li>
-<li>Audiovox CDM-8940,</li>
-<li>Audiovox PM-8912,</li>
-<li>Audiovox CDM-8945,</li>
-<li>Audiovox CDM8912SP,</li>
-<li>BenQ-Siemens E61,</li>
-<li>BlackBerry 7100g,</li>
-<li>BlackBerry 8700c,</li>
-<li>BlackBerry 7105t,</li>
-<li>BlackBerry 8700g,</li>
-<li>BlackBerry 7130e,</li>
-<li>BlackBerry 8100,</li>
-<li>BlackBerry 8100c,</li>
-<li>BlackBerry 7105t,</li>
-<li>BlackBerry 7130c,</li>
-<li>BlackBerry 8703e,</li>
-<li>HTC 2125,</li>
-<li>HTC 3125,</li>
-<li>Huawei U526,</li>
-<li>Innostream INNO 89,</li>
-<li>Innostream INNO 90,</li>
-<li>Kyocera Koi KX2,</li>
-<li>Kyocera K7,</li>
-<li>Kyocera KE433,</li>
-<li>Kyocera KX414,</li>
-<li>Kyocera KX424,</li>
-<li>Kyocera KE424c,</li>
-<li>Kyocera KX434,</li>
-<li>Kyocera KX433,</li>
-<li>Kyocera K10,</li>
-<li>Kyocera SE47,</li>
-<li>LG LG500,</li>
-<li>LG C1300,</li>
-<li>LG G4015,</li>
-<li>LG G4020,</li>
-<li>LG L1150,</li>
-<li>LG L1400,</li>
-<li>LG L1200,</li>
-<li>LG VX6100,</li>
-<li>LG VX7000,</li>
-<li>LG G4011,</li>
-<li>LG 5350,</li>
-<li>LG LX-535,</li>
-<li>LG MM-535,</li>
-<li>LG G4010,</li>
-<li>LG G4050,</li>
-<li>LG F9100,</li>
-<li>LG L342i,</li>
-<li>LG A7110,</li>
-<li>LG C2000,</li>
-<li>LG VX6000,</li>
-<li>LG C1500,</li>
-<li>LG PM225,</li>
-<li>LG F7200,</li>
-<li>LG VX5200,</li>
-<li>LG VX8100,</li>
-<li>LG VX8000,</li>
-<li>LG VX9800,</li>
-<li>LG VX4650,</li>
-<li>LG L1400i,</li>
-<li>LG LX5350,</li>
-<li>LG LX350,</li>
-<li>LG VX8500,</li>
-<li>LG VX8300,</li>
-<li>LG CG225,</li>
-<li>LG CG300,</li>
-<li>LG LX550,</li>
-<li>LG CU500,</li>
-<li>LG VX8600,</li>
-<li>LG VX5300,</li>
-<li>LG C1300i,</li>
-<li>LG Mini,</li>
-<li>LG MG155,</li>
-<li>LG SmartCam,</li>
-<li>LG MG210,</li>
-<li>LG CU320,</li>
-<li>LG CU400,</li>
-<li>LG F9200,</li>
-<li>LG VX9400,</li>
-<li>LG VX9900,</li>
-<li>LG KE970,</li>
-<li>LG G7100,</li>
-<li>LG U900,</li>
-<li>LG U890,</li>
-<li>LG U880,</li>
-<li>LG U8550,</li>
-<li>LG U8500,</li>
-<li>LG U8380,</li>
-<li>LG U8360,</li>
-<li>LG U8330,</li>
-<li>LG U8210,</li>
-<li>LG U8180,</li>
-<li>LG U8150,</li>
-<li>LG U8138,</li>
-<li>LG U8130,</li>
-<li>LG U8120,</li>
-<li>LG U8110,</li>
-<li>LG U8100,</li>
-<li>LG U300,</li>
-<li>LG TU500,</li>
-<li>LG S5200,</li>
-<li>LG P7200,</li>
-<li>LG MG810C,</li>
-<li>LG MG800,</li>
-<li>LG MG320D,</li>
-<li>LG ME500c,</li>
-<li>LG L600v,</li>
-<li>LG L3100,</li>
-<li>LG KU800,</li>
-<li>LG KU730,</li>
-<li>LG KU311,</li>
-<li>LG KU250,</li>
-<li>LG KS10 JOY,</li>
-<li>LG KG920,</li>
-<li>LG KG810,</li>
-<li>LG KG320,</li>
-<li>LG KG245,</li>
-<li>LG KG240,</li>
-<li>LG KG225,</li>
-<li>LG KG220,</li>
-<li>LG G5600,</li>
-<li>LG F3000,</li>
-<li>LG F2410,</li>
-<li>LG F2400,</li>
-<li>LG F2300,</li>
-<li>LG F2100,</li>
-<li>LG F1200,</li>
-<li>LG C3400,</li>
-<li>LG C3380,</li>
-<li>LG C3320,</li>
-<li>LG C3310,</li>
-<li>LG C3300,</li>
-<li>LG C2200,</li>
-<li>LG B2100,</li>
-<li>LG B2000,</li>
-<li>LG A7150,</li>
-<li>LG MG200c,</li>
-<li>LG MG105,</li>
-<li>Motorola T720,</li>
-<li>Motorola C330,</li>
-<li>Motorola C350,</li>
-<li>Motorola T725,</li>
-<li>Motorola A835,</li>
-<li>Motorola A388,</li>
-<li>Motorola E380,</li>
-<li>Motorola V600,</li>
-<li>Motorola T720i,</li>
-<li>Motorola A630,</li>
-<li>Motorola A845,</li>
-<li>Motorola C650,</li>
-<li>Motorola i830,</li>
-<li>Motorola i860,</li>
-<li>Motorola MPx220,</li>
-<li>Motorola RAZR V3,</li>
-<li>Motorola V180,</li>
-<li>Motorola V220,</li>
-<li>Motorola V265,</li>
-<li>Motorola V300,</li>
-<li>Motorola V400,</li>
-<li>Motorola V505,</li>
-<li>Motorola V551,</li>
-<li>Motorola V547,</li>
-<li>Motorola V710,</li>
-<li>Motorola A1000,</li>
-<li>Motorola V500,</li>
-<li>Motorola V525,</li>
-<li>Motorola E378i,</li>
-<li>Motorola V173,</li>
-<li>Motorola V535,</li>
-<li>Motorola V551J,</li>
-<li>Motorola V330,</li>
-<li>Motorola V188,</li>
-<li>Motorola V557,</li>
-<li>Motorola V260,</li>
-<li>Motorola V276,</li>
-<li>Motorola i833,</li>
-<li>Motorola i835,</li>
-<li>Motorola i836,</li>
-<li>Motorola i850,</li>
-<li>Motorola i855,</li>
-<li>Motorola E815,</li>
-<li>Motorola i265,</li>
-<li>Motorola i275,</li>
-<li>Motorola i355,</li>
-<li>Motorola i560,</li>
-<li>Motorola i710,</li>
-<li>Motorola i733,</li>
-<li>Motorola i720,</li>
-<li>Motorola i740,</li>
-<li>Motorola i760,</li>
-<li>Motorola ROKR E1,</li>
-<li>Motorola V170,</li>
-<li>Motorola V171,</li>
-<li>Motorola V266,</li>
-<li>Motorola V267,</li>
-<li>Motorola V545,</li>
-<li>Motorola V550,</li>
-<li>Motorola E550,</li>
-<li>Motorola V60p,</li>
-<li>Motorola V60s,</li>
-<li>Motorola V360,</li>
-<li>Motorola V325,</li>
-<li>Motorola V3c,</li>
-<li>Motorola A840,</li>
-<li>Motorola L7,</li>
-<li>Motorola V190,</li>
-<li>Motorola E790,</li>
-<li>Motorola Q,</li>
-<li>Motorola V235,</li>
-<li>Motorola V3r,</li>
-<li>Motorola L6,</li>
-<li>Motorola C290,</li>
-<li>Motorola V220ENS,</li>
-<li>Motorola ROKR E2,</li>
-<li>Motorola KRZR K1m,</li>
-<li>Motorola L2,</li>
-<li>Motorola V3m,</li>
-<li>Motorola V3i,</li>
-<li>Motorola KRZR K1c,</li>
-<li>Motorola V3x,</li>
-<li>Motorola E398,</li>
-<li>Motorola V365,</li>
-<li>Motorola K1,</li>
-<li>Motorola MotoQ,</li>
-<li>Motorola MOT-RAZRV3xx,</li>
-<li>Motorola RIZR Z3,</li>
-<li>Motorola V195,</li>
-<li>Motorola V197,</li>
-<li>Motorola K3,</li>
-<li>Motorola C380,</li>
-<li>Motorola C390,</li>
-<li>Motorola E1000,</li>
-<li>Motorola E770,</li>
-<li>Motorola V3,</li>
-<li>Motorola V6,</li>
-<li>Motorola A768,</li>
-<li>Motorola C550,</li>
-<li>Motorola C975,</li>
-<li>Motorola V1050,</li>
-<li>Motorola V620,</li>
-<li>Motorola V635,</li>
-<li>Motorola V80,</li>
-<li>Motorola V975,</li>
-<li>Motorola V980,</li>
-<li>Motorola Z3,</li>
-<li>Motorola V1075,</li>
-<li>Motorola V1000,</li>
-<li>Motorola MPX200,</li>
-<li>Motorola L7imode,</li>
-<li>Motorola A925,</li>
-<li>Motorola A920,</li>
-<li>Motorola A830,</li>
-<li>Motorola V172,</li>
-<li>NEC 525,</li>
-<li>NEC N411i,</li>
-<li>NEC 515,</li>
-<li>NEC N840,</li>
-<li>NEC e616,</li>
-<li>NEC e338,</li>
-<li>NEC e313,</li>
-<li>NEC e228,</li>
-<li>Nokia 6110 Navigator,</li>
-<li>Nokia 7650,</li>
-<li>Nokia 3510,</li>
-<li>Nokia 3510i,</li>
-<li>Nokia 6100,</li>
-<li>Nokia 6800,</li>
-<li>Nokia 3650,</li>
-<li>Nokia 5100,</li>
-<li>Nokia 7250,</li>
-<li>Nokia 6610,</li>
-<li>Nokia 6650,</li>
-<li>Nokia 7210,</li>
-<li>Nokia 7250i,</li>
-<li>Nokia 3300,</li>
-<li>Nokia 6220,</li>
-<li>Nokia 3100,</li>
-<li>Nokia 6225,</li>
-<li>Nokia 3120,</li>
-<li>Nokia 3200,</li>
-<li>Nokia 3205,</li>
-<li>Nokia 3586i,</li>
-<li>Nokia 3588i,</li>
-<li>Nokia 3587i,</li>
-<li>Nokia 3620,</li>
-<li>Nokia 3660,</li>
-<li>Nokia 6010,</li>
-<li>Nokia 6200,</li>
-<li>Nokia 6230,</li>
-<li>Nokia 6560,</li>
-<li>Nokia 6620,</li>
-<li>Nokia 6651,</li>
-<li>Nokia 6820,</li>
-<li>Nokia 7610,</li>
-<li>Nokia N-Gage QD,</li>
-<li>Nokia 3100b,</li>
-<li>Nokia 6235,</li>
-<li>Nokia 6630,</li>
-<li>Nokia 3220,</li>
-<li>Nokia 3600,</li>
-<li>Nokia 6680,</li>
-<li>Nokia 6101,</li>
-<li>Nokia 6102,</li>
-<li>Nokia 6682,</li>
-<li>Nokia 6235i,</li>
-<li>Nokia 6256i,</li>
-<li>Nokia 6255i,</li>
-<li>Nokia 6030,</li>
-<li>Nokia 6061,</li>
-<li>Nokia 6103,</li>
-<li>Nokia 6102i,</li>
-<li>Nokia 6021,</li>
-<li>Nokia 3155i,</li>
-<li>Nokia 6305i,</li>
-<li>Nokia RH-27,</li>
-<li>Nokia 6315i,</li>
-<li>Nokia E50,</li>
-<li>Nokia E62,</li>
-<li>Nokia E61,</li>
-<li>Nokia 6275i,</li>
-<li>Nokia N72,</li>
-<li>Nokia 6165i,</li>
-<li>Nokia 6275,</li>
-<li>Nokia 6282,</li>
-<li>Nokia 6126,</li>
-<li>Nokia 6280,</li>
-<li>Nokia 6230i,</li>
-<li>Nokia N73,</li>
-<li>Nokia 6120,</li>
-<li>Nokia 2650,</li>
-<li>Nokia 3230,</li>
-<li>Nokia 6111,</li>
-<li>Nokia N80,</li>
-<li>Nokia 6131,</li>
-<li>Nokia 5200,</li>
-<li>Nokia 6070,</li>
-<li>Nokia 3520,</li>
-<li>Nokia 6085,</li>
-<li>Nokia E65,</li>
-<li>Nokia 2600,</li>
-<li>Nokia 2610,</li>
-<li>Nokia 2865i,</li>
-<li>Nokia 5300,</li>
-<li>Nokia 6030b,</li>
-<li>Nokia 6133,</li>
-<li>Nokia 6136,</li>
-<li>Nokia 6215i,</li>
-<li>Nokia 6260,</li>
-<li>Nokia 7370,</li>
-<li>Nokia 7373,</li>
-<li>Nokia 9300,</li>
-<li>Nokia N70,</li>
-<li>Nokia N71,</li>
-<li>Nokia N75,</li>
-<li>Nokia N93,</li>
-<li>Nokia 8800,</li>
-<li>Nokia 6233,</li>
-<li>Nokia 6300,</li>
-<li>Nokia N95,</li>
-<li>Nokia 6236i,</li>
-<li>Nokia 5140,</li>
-<li>Nokia 5700,</li>
-<li>Nokia 6288,</li>
-<li>Nokia 6600,</li>
-<li>Nokia N76,</li>
-<li>Nokia 2660,</li>
-<li>Nokia 3250,</li>
-<li>Nokia 6170,</li>
-<li>Nokia 7260,</li>
-<li>Nokia 7270,</li>
-<li>Nokia 7280,</li>
-<li>Nokia 7600,</li>
-<li>Nokia 9500,</li>
-<li>Nokia E70,</li>
-<li>Nokia nokia_6500s,</li>
-<li>Nokia 2630,</li>
-<li>Nokia 6080,</li>
-<li>Nokia 6086,</li>
-<li>Nokia 3155,</li>
-<li>Nokia 6151,</li>
-<li>Nokia 6290,</li>
-<li>Nokia 2760,</li>
-<li>Nokia 7500,</li>
-<li>Nokia N92,</li>
-<li>Nokia 6270,</li>
-<li>Nokia 6234,</li>
-<li>Nokia 6267,</li>
-<li>Nokia 6500,</li>
-<li>Nokia N77,</li>
-<li>Nokia N93i,</li>
-<li>Nokia N91,</li>
-<li>Nokia N81,</li>
-<li>Nokia E61i,</li>
-<li>Nokia E60,</li>
-<li>Nokia 8800 Sirocco Edition,</li>
-<li>Nokia 8600 Luna,</li>
-<li>Nokia 7390,</li>
-<li>Nokia 7360,</li>
-<li>Nokia 6810,</li>
-<li>Nokia 6610i,</li>
-<li>Nokia 6301,</li>
-<li>Nokia 6265i,</li>
-<li>Nokia 6265,</li>
-<li>Nokia 6255,</li>
-<li>Nokia 6165,</li>
-<li>Nokia 6155i,</li>
-<li>Nokia 6155,</li>
-<li>Nokia 6152,</li>
-<li>Nokia 6108,</li>
-<li>Nokia 6015i,</li>
-<li>Nokia 6012,</li>
-<li>Nokia 5500,</li>
-<li>Nokia 5140i,</li>
-<li>Nokia 3630,</li>
-<li>Nokia 3587,</li>
-<li>Nokia 3585i,</li>
-<li>Nokia 3152,</li>
-<li>Nokia 3125,</li>
-<li>Nokia 3110c,</li>
-<li>Nokia 3108,</li>
-<li>Nokia 3105,</li>
-<li>Nokia 2865,</li>
-<li>Nokia 2855,</li>
-<li>Nokia 2652,</li>
-<li>Nokia 2626,</li>
-<li>PalmOne Treo 600,</li>
-<li>PalmOne Treo 650 (CDMA),</li>
-<li>PalmOne Treo 750,</li>
-<li>Panasonic GD67,</li>
-<li>Panasonic GD87,</li>
-<li>Panasonic G51,</li>
-<li>Panasonic A210,</li>
-<li>Panasonic G50,</li>
-<li>Panasonic VS2,</li>
-<li>Panasonic VS3,</li>
-<li>Panasonic X300,</li>
-<li>Panasonic X800,</li>
-<li>Panasonic X700,</li>
-<li>Panasonic X60,</li>
-<li>Panasonic X400,</li>
-<li>Panasonic X200,</li>
-<li>Panasonic VS7,</li>
-<li>Panasonic VS6,</li>
-<li>Panasonic SA7,</li>
-<li>Panasonic SA6,</li>
-<li>Pantech PT-G700,</li>
-<li>Pantech 3200,</li>
-<li>Pantech(PG) PG-1000S,</li>
-<li>Pantech(PG) PG-1300,</li>
-<li>Pantech(PG) PG-1600,</li>
-<li>Pantech(PG) G700,</li>
-<li>Pantech(PG) PT-GB200,</li>
-<li>Pantech(PG) PG1300v,</li>
-<li>Pantech(PG) PG-C120,</li>
-<li>Pantech(PG) PG-C300,</li>
-<li>Philips 568,</li>
-<li>Qtek 9100,</li>
-<li>Sagem MYX-5,</li>
-<li>Sagem myX-6,</li>
-<li>Sagem myZ-5,</li>
-<li>Sagem myV-56,</li>
-<li>Sagem myC4-2,</li>
-<li>Sagem my411V,</li>
-<li>Sagem my411C,</li>
-<li>Sagem my401X,</li>
-<li>Samsung T100,</li>
-<li>Samsung T400,</li>
-<li>Samsung T500,</li>
-<li>Samsung N620,</li>
-<li>Samsung S100,</li>
-<li>Samsung P400,</li>
-<li>Samsung S300,</li>
-<li>Samsung C100,</li>
-<li>Samsung V200,</li>
-<li>Samsung C225,</li>
-<li>Samsung D415,</li>
-<li>Samsung E105,</li>
-<li>Samsung E315,</li>
-<li>Samsung E316,</li>
-<li>Samsung SGH-i500,</li>
-<li>Samsung MM-A700,</li>
-<li>Samsung SGH-P735,</li>
-<li>Samsung A670,</li>
-<li>Samsung SCH-A790,</li>
-<li>Samsung SPH-A790,</li>
-<li>Samsung A795,</li>
-<li>Samsung E715,</li>
-<li>Samsung A740,</li>
-<li>Samsung X427,</li>
-<li>Samsung X426,</li>
-<li>Samsung A680,</li>
-<li>Samsung E317,</li>
-<li>Samsung P107,</li>
-<li>Samsung S307,</li>
-<li>Samsung X105,</li>
-<li>Samsung C207,</li>
-<li>Samsung V205,</li>
-<li>Samsung X475,</li>
-<li>Samsung S342i,</li>
-<li>Samsung S410i,</li>
-<li>Samsung A650,</li>
-<li>Samsung X497,</li>
-<li>Samsung X475,</li>
-<li>Samsung T309,</li>
-<li>Samsung A920,</li>
-<li>Samsung sph-a840,</li>
-<li>Samsung E335,</li>
-<li>Samsung A740,</li>
-<li>Samsung A950,</li>
-<li>Samsung A970,</li>
-<li>Samsung A890,</li>
-<li>Samsung P207,</li>
-<li>Samsung X495,</li>
-<li>Samsung X496,</li>
-<li>Samsung A900,</li>
-<li>Samsung E635,</li>
-<li>Samsung D357,</li>
-<li>Samsung A880,</li>
-<li>Samsung T509,</li>
-<li>Samsung A700,</li>
-<li>Samsung A940,</li>
-<li>Samsung E870,</li>
-<li>Samsung A930,</li>
-<li>Samsung A640,</li>
-<li>Samsung T319,</li>
-<li>Samsung T209,</li>
-<li>Samsung sgh-d407,</li>
-<li>Samsung sgh-d807,</li>
-<li>Samsung T809,</li>
-<li>Samsung A900m,</li>
-<li>Samsung SGH-T609,</li>
-<li>Samsung T629,</li>
-<li>Samsung SGH-T619,</li>
-<li>Samsung D600,</li>
-<li>Samsung A870,</li>
-<li>Samsung E900,</li>
-<li>Samsung Z550,</li>
-<li>Samsung A990,</li>
-<li>Samsung SGH-C417,</li>
-<li>Samsung T519,</li>
-<li>Samsung D900,</li>
-<li>Samsung T719,</li>
-<li>Samsung SGH-D820,</li>
-<li>Samsung SGH-X460,</li>
-<li>Samsung SGH-X480,</li>
-<li>Samsung SGH-D500,</li>
-<li>Samsung SGH-E100,</li>
-<li>Samsung SGH-E370,</li>
-<li>Samsung SGH-E630,</li>
-<li>Samsung SGH-E700,</li>
-<li>Samsung SGH-S300m,</li>
-<li>Samsung SGH-V200,</li>
-<li>Samsung SGH-X100,</li>
-<li>Samsung SGH-X650,</li>
-<li>Samsung SGH-E351,</li>
-<li>Samsung SGH-C400,</li>
-<li>Samsung SGH-E250,</li>
-<li>Samsung SGH-F300,</li>
-<li>Samsung SGH-X660,</li>
-<li>Samsung A707,</li>
-<li>Samsung A820,</li>
-<li>Samsung D347,</li>
-<li>Samsung D500,</li>
-<li>Samsung D508,</li>
-<li>Samsung M500,</li>
-<li>Samsung M610,</li>
-<li>Samsung SPH-A800,</li>
-<li>Samsung T209R,</li>
-<li>Samsung T219,</li>
-<li>Samsung T329,</li>
-<li>Samsung X507,</li>
-<li>Samsung X820,</li>
-<li>Samsung ZX10,</li>
-<li>Samsung ZX20,</li>
-<li>Samsung D840,</li>
-<li>Samsung U600,</li>
-<li>Samsung C130,</li>
-<li>Samsung X200,</li>
-<li>Samsung Z230,</li>
-<li>Samsung Z240,</li>
-<li>Samsung Z300,</li>
-<li>Samsung Z720,</li>
-<li>Samsung E330,</li>
-<li>Samsung E340,</li>
-<li>Samsung SGH-E530,</li>
-<li>Samsung E720,</li>
-<li>Samsung E730,</li>
-<li>Samsung E800,</li>
-<li>Samsung X640,</li>
-<li>Samsung SGH-Z140,</li>
-<li>Samsung SGH-ZV10,</li>
-<li>Samsung SGH-Z140,</li>
-<li>Samsung SGH-ZV30,</li>
-<li>Samsung SGH-Z220,</li>
-<li>Samsung SGH-Z710,</li>
-<li>Samsung SGH-Z400,</li>
-<li>Samsung SGH-Z560,</li>
-<li>Samsung SGH-ZV50,</li>
-<li>Samsung Z130,</li>
-<li>Samsung X910,</li>
-<li>Samsung SGH-ZV40,</li>
-<li>Samsung SGH-ZM60,</li>
-<li>Samsung SGH-Z720,</li>
-<li>Samsung SGH-Z630,</li>
-<li>Samsung SGH-Z620,</li>
-<li>Samsung SGH-Z500V,</li>
-<li>Samsung SGH-Z308,</li>
-<li>Samsung SGH-Z230,</li>
-<li>Samsung SGH-Z105,</li>
-<li>Samsung SGHX830,</li>
-<li>Samsung SGH-X820,</li>
-<li>Samsung SGH-X810,</li>
-<li>Samsung SGH-X700,</li>
-<li>Samsung SGH-X640,</li>
-<li>Samsung SGH-X610,</li>
-<li>Samsung SGH-X608,</li>
-<li>Samsung SGH-X600A,</li>
-<li>Samsung SGH-X600,</li>
-<li>Samsung SGH-X530,</li>
-<li>Samsung SGH-X510,</li>
-<li>Samsung SGH-X500,</li>
-<li>Samsung SGH-X480C,</li>
-<li>Samsung SGH-X468,</li>
-<li>Samsung SGH-X460C,</li>
-<li>Samsung SGH-X458,</li>
-<li>Samsung SGH-X450,</li>
-<li>Samsung SGH-X430,</li>
-<li>Samsung SGH-X427m,</li>
-<li>Samsung SGH-X426,</li>
-<li>Samsung SGH-X400,</li>
-<li>Samsung SGH-X300,</li>
-<li>Samsung SGH-X210,</li>
-<li>Samsung SGH-X200,</li>
-<li>Samsung SGH-X140,</li>
-<li>Samsung SGH-X120,</li>
-<li>Samsung SGH-X108,</li>
-<li>Samsung SGH-V206,</li>
-<li>Samsung SGH-V205,</li>
-<li>Samsung SGH-U700,</li>
-<li>Samsung SGH-U600,</li>
-<li>Samsung T629,</li>
-<li>Samsung SGH-T500,</li>
-<li>Samsung SGH-T400,</li>
-<li>Samsung SGH-T319,</li>
-<li>Samsung SGH-S500,</li>
-<li>Samsung SGH-S308,</li>
-<li>Samsung SGH-S307,</li>
-<li>Samsung SGH-S200,</li>
-<li>Samsung SGH-S100,</li>
-<li>Samsung SGH-P920,</li>
-<li>Samsung SGH-P910,</li>
-<li>Samsung SGH-P900,</li>
-<li>Samsung SGH-P730C,</li>
-<li>Samsung SGH-P730,</li>
-<li>Samsung SGH-P700,</li>
-<li>Samsung SGH-P518,</li>
-<li>Samsung SGH-P510,</li>
-<li>Samsung SGH-P408,</li>
-<li>Samsung SGH-P400,</li>
-<li>Samsung SGH-P310,</li>
-<li>Samsung SGH-P200,</li>
-<li>Samsung SGH-P108,</li>
-<li>Samsung SGH-P100,</li>
-<li>Samsung SGH-I300,</li>
-<li>Samsung SGH-G800,</li>
-<li>Samsung SGH-G600,</li>
-<li>Samsung SGH-E908,</li>
-<li>Samsung SGH-E900,</li>
-<li>Samsung SGH-E850,</li>
-<li>Samsung SGH-E840,</li>
-<li>Samsung SGH-E830,</li>
-<li>Samsung SGH-E820,</li>
-<li>Samsung SGH-E810C,</li>
-<li>Samsung SGH-E810,</li>
-<li>Samsung SGH-E808,</li>
-<li>Samsung SGH-E800C,</li>
-<li>Samsung SGH-E800,</li>
-<li>Samsung SGH-E760,</li>
-<li>Samsung SGH-E730,</li>
-<li>Samsung SGH-E720C,</li>
-<li>Samsung SGH-E710,</li>
-<li>Samsung SGH-E708,</li>
-<li>Samsung SGH-E700A,</li>
-<li>Samsung SGH-E638,</li>
-<li>Samsung SGH-E635,</li>
-<li>Samsung SGH-E630C,</li>
-<li>Samsung SGH-E608,</li>
-<li>Samsung SGH-E600C,</li>
-<li>Samsung SGH-E600,</li>
-<li>Samsung SGH-E570,</li>
-<li>Samsung SGH-E500,</li>
-<li>Samsung SGH-E480,</li>
-<li>Samsung SGH-E420,</li>
-<li>Samsung SGH-E390,</li>
-<li>Samsung SGH-E350V,</li>
-<li>Samsung SGH-E340,</li>
-<li>Samsung SGH-E338,</li>
-<li>Samsung SGH-E330N,</li>
-<li>Samsung SGH-E330C,</li>
-<li>Samsung SGH-E330,</li>
-<li>Samsung SGH-E316,</li>
-<li>Samsung SGH-E310,</li>
-<li>Samsung SGH-E300,</li>
-<li>Samsung SGH-E200,</li>
-<li>Samsung SGH-E108,</li>
-<li>Samsung SGH-D900,</li>
-<li>Samsung SGH-D840,</li>
-<li>Samsung SGH-D800,</li>
-<li>Samsung SGH-D720,</li>
-<li>Samsung SGH-D608,</li>
-<li>Samsung SGH-D600E,</li>
-<li>Samsung SGH-D600,</li>
-<li>Samsung SGH-D520,</li>
-<li>Samsung SGH-D510,</li>
-<li>Samsung SGH-D508,</li>
-<li>Samsung SGH-D500E,</li>
-<li>Samsung SGH-D500C,</li>
-<li>Samsung SGH-D418,</li>
-<li>Samsung SGH-D415,</li>
-<li>Samsung SGH-D410C,</li>
-<li>Samsung SGH-D410,</li>
-<li>Samsung SGH-D307,</li>
-<li>Samsung SGH-D100,</li>
-<li>Samsung SGH-C250,</li>
-<li>Samsung SGH-C230,</li>
-<li>Samsung SGH-C225,</li>
-<li>Samsung SGH-C210,</li>
-<li>Samsung SGH-C207,</li>
-<li>Samsung SGH-C200,</li>
-<li>Samsung SGH-C140,</li>
-<li>Samsung SGH-C130,</li>
-<li>Samsung SGH-C110,</li>
-<li>Samsung SGH-C100G,</li>
-<li>Samsung SGH-C100,</li>
-<li>Samsung SGH-A701,</li>
-<li>Samsung SGH-A501,</li>
-<li>Samsung SCH-A950,</li>
-<li>Samsung SCH-A890,</li>
-<li>Samsung SCH-A600,</li>
-<li>Samsung E770,</li>
-<li>Samsung Z310,</li>
-<li>Samsung E350,</li>
-<li>Samsung SGH-C510L,</li>
-<li>Samsung X660,</li>
-<li>Samsung SGH-C510V,</li>
-<li>Samsung SGH-C510,</li>
-<li>Samsung X800,</li>
-<li>Samsung SGH-X660-Vodafone,</li>
-<li>Sanyo RL-7300,</li>
-<li>Sanyo SCP-5500,</li>
-<li>Sanyo SCP-5400,</li>
-<li>Sanyo PM-8200,</li>
-<li>Sanyo SCP-7400,</li>
-<li>Sanyo MM-7400,</li>
-<li>Sanyo SCP-4920,</li>
-<li>Sanyo MM-8300,</li>
-<li>Sanyo SCP-6600,</li>
-<li>Sanyo SCP-8400,</li>
-<li>Sanyo RL-4930,</li>
-<li>Sanyo SCP-2400,</li>
-<li>Sanyo VI-2300,</li>
-<li>Sanyo SCP-3100,</li>
-<li>Sanyo M1,</li>
-<li>Sanyo MM-7500,</li>
-<li>Sanyo SCP-7050,</li>
-<li>Sendo X,</li>
-<li>Sendo S600,</li>
-<li>Sharp GX1,</li>
-<li>Sharp GX10i,</li>
-<li>Sharp TM150,</li>
-<li>Sharp 703SH,</li>
-<li>Sharp 903SH,</li>
-<li>Sharp 802SH,</li>
-<li>Sharp TM-200,</li>
-<li>Sharp TM-100,</li>
-<li>Sharp SX813,</li>
-<li>Sharp 770SH,</li>
-<li>Sharp 550SH,</li>
-<li>Siemens C55,</li>
-<li>Siemens S55,</li>
-<li>Siemens SL55,</li>
-<li>Siemens M55,</li>
-<li>Siemens U10,</li>
-<li>Siemens CF62T,</li>
-<li>Siemens CF62,</li>
-<li>Siemens S56,</li>
-<li>Siemens C66,</li>
-<li>Siemens SL56,</li>
-<li>Siemens SL65,</li>
-<li>Siemens A70,</li>
-<li>Siemens A31,</li>
-<li>Siemens AX72,</li>
-<li>Siemens AX75,</li>
-<li>Siemens CL75,</li>
-<li>Siemens EL71,</li>
-<li>Siemens SX1,</li>
-<li>Siemens S75,</li>
-<li>Siemens M75,</li>
-<li>Siemens ME75,</li>
-<li>Siemens CX70,</li>
-<li>Siemens SXG75,</li>
-<li>Siemens ST60,</li>
-<li>Siemens SFG75,</li>
-<li>Siemens SF65v2,</li>
-<li>Siemens S88,</li>
-<li>Siemens S81,</li>
-<li>Siemens S68,</li>
-<li>Siemens S65-Vodafone,</li>
-<li>Siemens MC6C,</li>
-<li>Siemens M81,</li>
-<li>Siemens M65i,</li>
-<li>Siemens EF91,</li>
-<li>Siemens EF81,</li>
-<li>Siemens EF51,</li>
-<li>Siemens CXT70,</li>
-<li>Siemens CXT65,</li>
-<li>Siemens CX65-Vodafone,</li>
-<li>Siemens CV65,</li>
-<li>Siemens CT65,</li>
-<li>Siemens CFX65,</li>
-<li>Siemens CF76,</li>
-<li>Siemens C70,</li>
-<li>Siemens C62,</li>
-<li>Sony Ericsson T300,</li>
-<li>Sony Ericsson P800,</li>
-<li>Sony Ericsson T310,</li>
-<li>Sony Ericsson T610,</li>
-<li>Sony Ericsson T630,</li>
-<li>Sony Ericsson T237,</li>
-<li>Sony Ericsson Z500a,</li>
-<li>Sony Ericsson T616,</li>
-<li>Sony Ericsson T226,</li>
-<li>Sony Ericsson T306,</li>
-<li>Sony Ericsson Z600,</li>
-<li>Sony Ericsson T237,</li>
-<li>Sony Ericsson P900,</li>
-<li>Sony Ericsson K500i,</li>
-<li>Sony Ericsson K700i,</li>
-<li>Sony Ericsson T316,</li>
-<li>Sony Ericsson K300i,</li>
-<li>Sony Ericsson S710a,</li>
-<li>Sony Ericsson T290a,</li>
-<li>Sony Ericsson Z520a,</li>
-<li>Sony Ericsson Z300a,</li>
-<li>Sony Ericsson W600i,</li>
-<li>Sony Ericsson J220a,</li>
-<li>Sony Ericsson W300i,</li>
-<li>Sony Ericsson W810i,</li>
-<li>Sony Ericsson W800,</li>
-<li>Sony Ericsson J100i,</li>
-<li>Sony Ericsson W880i,</li>
-<li>Sony Ericsson K700,</li>
-<li>Sony Ericsson K608i,</li>
-<li>Sony Ericsson K610,</li>
-<li>Sony Ericsson K750,</li>
-<li>Sony Ericsson K790a,</li>
-<li>Sony Ericsson P990i,</li>
-<li>Sony Ericsson W550i,</li>
-<li>Sony Ericsson W810,</li>
-<li>Sony Ericsson W850i,</li>
-<li>Sony Ericsson W900i,</li>
-<li>Sony Ericsson Z520,</li>
-<li>Sony Ericsson Z525,</li>
-<li>Sony Ericsson Z610i,</li>
-<li>Sony Ericsson Z710i,</li>
-<li>Sony Ericsson Z800,</li>
-<li>Sony Ericsson K800i,</li>
-<li>Sony Ericsson K810i,</li>
-<li>Sony Ericsson W800i,</li>
-<li>Sony Ericsson Z520i,</li>
-<li>Sony Ericsson J300i,</li>
-<li>Sony Ericsson K510i,</li>
-<li>Sony Ericsson K530i,</li>
-<li>Sony Ericsson K500,</li>
-<li>Sony Ericsson K790,</li>
-<li>Sony Ericsson K800,</li>
-<li>Sony Ericsson K508i,</li>
-<li>Sony Ericsson F500i,</li>
-<li>Sony Ericsson K320i,</li>
-<li>Sony Ericsson Z800i,</li>
-<li>Sony Ericsson K600i,</li>
-<li>Sony Ericsson V800,</li>
-<li>Sony Ericsson K550im,</li>
-<li>Sony Ericsson V600i,</li>
-<li>Sony Ericsson W700i,</li>
-<li>Sony Ericsson W660iv,</li>
-<li>Sony Ericsson V630i,</li>
-<li>Sony Ericsson S500i,</li>
-<li>Sony Ericsson W830i,</li>
-<li>Sony Ericsson M600i,</li>
-<li>Sony Ericsson Z710,</li>
-<li>Sony Ericsson Z608,</li>
-<li>Sony Ericsson Z550c,</li>
-<li>Sony Ericsson Z550,</li>
-<li>Sony Ericsson Z525i,</li>
-<li>Sony Ericsson Z520c,</li>
-<li>Sony Ericsson Z500,</li>
-<li>Sony Ericsson Z310iv,</li>
-<li>Sony Ericsson Z1010,</li>
-<li>Sony Ericsson W950i,</li>
-<li>Sony Ericsson W910i,</li>
-<li>Sony Ericsson W850iv,</li>
-<li>Sony Ericsson W810c,</li>
-<li>Sony Ericsson W800c,</li>
-<li>Sony Ericsson W710,</li>
-<li>Sony Ericsson W700c,</li>
-<li>Sony Ericsson W700,</li>
-<li>Sony Ericsson W610,</li>
-<li>Sony Ericsson W550c,</li>
-<li>Sony Ericsson T650i,</li>
-<li>Sony Ericsson T250i,</li>
-<li>Sony Ericsson S700c,</li>
-<li>Sony Ericsson S700,</li>
-<li>Sony Ericsson P990c,</li>
-<li>Sony Ericsson P990,</li>
-<li>Sony Ericsson P908,</li>
-<li>Sony Ericsson K850i,</li>
-<li>Sony Ericsson K800iv,</li>
-<li>Sony Ericsson K790c,</li>
-<li>Sony Ericsson K750c,</li>
-<li>Sony Ericsson K700c,</li>
-<li>Sony Ericsson K608,</li>
-<li>Sony Ericsson K600,</li>
-<li>Sony Ericsson K508c,</li>
-<li>Sony Ericsson K500c,</li>
-<li>Sony Ericsson K300c,</li>
-<li>Sony Ericsson K300a,</li>
-<li>Sony Ericsson J230i,</li>
-<li>Sony Ericsson S710,</li>
-<li>Sony Ericsson S600,</li>
-<li>SonyEricsson P802,</li>
-<li>SonyEricsson V802,</li>
-<li>Toshiba VM4050,</li>
-<li>Toshiba TS 921,</li>
-</div>               
-
-	       
-	</div>
-	<div class="Dnote">INKOD
-             <img style="position: relative; top: 5px;" src="http://www.streetunes.com/Images/DesignerLogo.gif">
-             <span>Exclusive Designs by Ilan Dray</span>
-     </div>
+	     </td>
+	     <td class="right">&nbsp;</td>
+	    </tr>
+	    <tr><td colspan="3" class="bottom">&nbsp;</td></tr>
+	   </tbody></table>
+	   
+	   
+	
+      </td>
+      <td id="st_content_box_right">&nbsp;</td>
+     </tr>
+     <tr>
+      <td id="st_footer_box_left">&nbsp;</td>
+      <td id="st_footer_box_center">
+       <table cellspacing="0" cellpadding="0">
+        <tbody><tr>
+         <td class="first">
+          <a href="http://www.streetunes.com/about.html">About us</a>
+         </td>
+         <td class="">
+          <a href="http://www.streetunes.com/terms.html">Terms and Conditions</a>
+         </td>
+         <td class="current">
+          <a href="http://www.streetunes.com/privacy.html">Privacy policy</a>
+         </td>
+         <td class="">
+         <a href="http://www.streetunes.com/pricing-and-plans">Pricing and Plans</a>
+          
+         </td>
+         <td class="">
+          <a href="http://www.streetunes.com/helpfaq.html">Help/FAQ</a>
+         </td>
+        </tr>
+       </tbody></table>
+      </td>
+      <td id="st_footer_box_right">&nbsp;</td>
+      <td id="st_footer_box_right_right">&nbsp;</td>
+     </tr>
+    </tbody>
+   </table>
+  </center>
+ 
+ <script type="text/javascript" src="http://www.streetunes.com/++resource++streetunes.js/fixflash.js"></script>
   
 
 
