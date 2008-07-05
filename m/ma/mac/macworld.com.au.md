@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516012619id_/http%3A//www.macworld.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705102926id_/http%3A//www.macworld.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Australian Macworld
 
