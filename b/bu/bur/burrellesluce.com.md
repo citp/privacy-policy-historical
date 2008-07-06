@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512153746id_/http%3A//www.burrellesluce.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2008-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080706095530id_/http%3A//www.burrellesluce.com/Privacy) for the most accurate reproduction.*
 
 # BurrellesLuce | Privacy Policy
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Burrelles _Luce_ (collectively, "Services") ("Authorized Customers").
 
-"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, company name address, phone number, fax number, email address. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, company name address, phone number, fax number, email address. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified inpidual.
 
 **What Personally Identifiable Information is collected?**
 
@@ -44,7 +44,7 @@ Visitors and Authorized Customers may contact us to update Personally Identifiab
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting info@burrellesluce.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting info@burrellesluce.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An inpidual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that inpidual in any way moving forward.
 
 **What happens if the Privacy Policy Changes?**
 
