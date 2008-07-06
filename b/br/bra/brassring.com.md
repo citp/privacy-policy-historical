@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091421id_/http%3A//www.kenexa.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2008-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080706034549id_/http%3A//www.kenexa.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kenexa.com
 
