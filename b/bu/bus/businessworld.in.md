@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516024537id_/http%3A//www.businessworld.in/content/view/2922/3002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2008-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080707023259id_/http%3A//www.businessworld.in/content/view/2922/3002) for the most accurate reproduction.*
 
-# Businessworld : Number one Indian business portal with incisive analysis and surveys - Privacy Policy
+# Businessworld - Privacy Policy
 
 Technical and routing information about the customer's computer is collected when he/she visits Businessworld site. This facilitates use of the site by the customer. For example, the Internet Protocol address of the customer's originating Internet Service Provider may be recorded, to ensure the best possible service and use the customer's IP address to track his/her use of the site. Businessworld also records search requests and results to ensure the accuracy and efficiency of its search engine. 
 
