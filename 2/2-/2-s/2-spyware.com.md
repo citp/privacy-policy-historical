@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124116id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708224411id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
 
 # Privacy Policy - spyware news
 
