@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205210558id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708191642id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
 
-# Vocus.com
+# ::: Vocus ::: On-Demand Software for Public Relations and Government Relations :::
 
 This is the web site of Vocus, Inc.
 
 Our postal address is:  
 4296 Forbes Boulevard  
-Lanham, MD 20706 
+Lanham, MD 20706
 
-We can be reached via email at [privacy@vocus.com](mailto:privacy@vocus.com) or you can reach us by telephone at 301.459.2590. Vocus collects information from our users at several different points on our website to enable us to better inform you about our service. By knowing your preferences we can deliver relevant information that meets your needs and ensure that your visit to our site is quick, easy and productive. Vocus is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+Vocus takes privacy seriously. As a leading provider of on-demand software for corporate communications and public relations, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
+
+Vocus collects information from our users at several different points on our website to enable us to better inform you about our service. By knowing your preferences we can deliver relevant information that meets your needs and ensure that your visit to our site is quick, easy and productive. Vocus is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+
+If you have any questions about this privacy statement or the practices of this site, you may contact us via email at [privacy@vocus.com](mailto:privacy@vocus.com). In order for Vocus to take the appropriate action please describe in reasonable detail the nature of your request or inquiry.
 
 ## Collected Information:
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the email address (where possible).
 
-We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes. If you do not want to receive email from us in the future, please let us know by sending us email at the above address.
+We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes. If you do not want to receive email from us in the future, please let us know by sending us email at [remove@vocus.com](mailto:remove@vocus.com).
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
