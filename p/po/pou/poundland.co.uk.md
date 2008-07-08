@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516175054id_/http%3A//poundland.co.uk/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708142354id_/http%3A//www.poundland.co.uk/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Poundland - Pound shop online UK
 
