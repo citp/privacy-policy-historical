@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421135131id_/http%3A//blog.gumgum.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708142813id_/http%3A//blog.gumgum.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
 
 # GumGum: Privacy Policy
 
@@ -50,4 +50,4 @@ All payment and license reporting can be found on your Portfolio page.
 
 This information may change, at any time, as GumGum revises this service by adding or removing features or using different service providers. We advise users to periodically refer to this policy so that you understand the current policy in effect.
 
-Questions? Suggestions? Concerns? Comment below or [contact us](mailto:contact@gumgum.com).
+Questions? Suggestions? Concerns? Comment below or [contact us](mailto:contact@gumgum.com). 
