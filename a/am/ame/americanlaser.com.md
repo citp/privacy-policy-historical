@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012080017id_/http%3A//americanlaser.com/dsp_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708192056id_/http%3A//www.americanlaser.com/dsp_privacy.cfm) for the most accurate reproduction.*
 
-# Laser Hair Removal - American Laser Centers
+# Laser Hair Removal – American Laser Centers
 
 **Introduction/Commitment**  
 As a premier laser care service provider, American Laser Centers is committed to protecting the privacy of all visitors to its Web site. It is our goal to maintain compliance with the highest standards of Web site privacy so our visitors may comfortably and safely use the site for a range of information needs. As used here, "American Laser Centers" means ALC-Partner, Inc., and where appropriate, its affiliated organizations.
