@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630084716id_/http%3A//www.1800contractor.com/rfs/servicerequest/exactmatch/oehPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708143148id_/http%3A//www.1800contractor.com/rfs/servicerequest/exactmatch/oehPrivacy.jsp) for the most accurate reproduction.*
 
 # 1800Contractor.com - Privacy Policy
 
