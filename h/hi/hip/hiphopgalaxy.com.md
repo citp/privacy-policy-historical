@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopgalaxy.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613172500id_/http%3A//www.hiphopgalaxy.com/privacy-policy-article3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopgalaxy.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708214222id_/http%3A//www.hiphopgalaxy.com/privacy-policy-article3.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hip Hop Galaxy
 
