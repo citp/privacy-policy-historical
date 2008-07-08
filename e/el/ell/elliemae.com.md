@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713050622id_/http%3A//www.elliemae.com/legal/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708135741id_/http%3A//www.elliemae.com./legal/legal_privacy.asp) for the most accurate reproduction.*
 
 # Ellie Mae
 
 Privacy Policy
 
 (January 21, 2000) 
-
-**ADDED 11:53 AM 06/28/2001: The ELLIE MAE® Companies, ELLIE MAE, Genesis 2000 and Contour Software Inc., hereinafter referred to as ELLIE MAE.**
 
 ELLIE MAE is committed to honoring the privacy of visitors to our corporate and affiliate Web sites. Our Web site describes our information practices and lets users give informed consent before participating in programs and services. This page provides answers to the following questions: 
 
