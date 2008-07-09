@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tram-pararam.com privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220140842id_/http%3A//www.tram-pararam.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tram-pararam.com privacy policy that was archived on 2008-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080709054426id_/http%3A//www.tram-pararam.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
