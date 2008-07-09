@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the atptour.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203014410id_/http%3A//www.atptennis.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atptour.com privacy policy that was archived on 2008-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080709042714id_/http%3A//www.atptennis.com/5/en/privacypolicy) for the most accurate reproduction.*
 
 # ATPtennis.com - Privacy Policy
 
-  
-|  |    
+****| ****|    
   
 
 
