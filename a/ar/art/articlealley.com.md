@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2008-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,53 +6,55 @@
 
 Topics
 
-  * [Automotive](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_31.html)
-  * [Baby & Child](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_40.html)
-  * [Blogs](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_13.html)
-  * [Business](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_15.html)
-  * [Career](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_36.html)
-  * [Computer Hardware](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_10.html)
-  * [Computer Software](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_11.html)
-  * [Dating](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_39.html)
-  * [Directories](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_5.html)
-  * [Domain Names](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_1.html)
-  * [E-Marketing](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_3.html)
-  * [Ezines](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_12.html)
-  * [Fashion](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_34.html)
-  * [Finance](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_19.html)
-  * [Food-and-Drink](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_26.html)
-  * [Forums](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_14.html)
-  * [Health & Healthcare](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_17.html)
-  * [Health-and-Fitness](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_23.html)
-  * [Home Business](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_80.html)
-  * [Home-and-Family](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_27.html)
-  * [Internet](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_81.html)
-  * [Legal](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_18.html)
-  * [Money](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_63.html)
-  * [Music](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_48.html)
-  * [Pay Per Click](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_7.html)
-  * [Pets](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_54.html)
-  * [Pregnancy & Childbirth](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_61.html)
-  * [Real Estate](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_33.html)
-  * [Recreation-and-Sports](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_32.html)
-  * [Reference-and-Education](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_22.html)
-  * [Relationships](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_35.html)
-  * [Religion](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_51.html)
-  * [Sales and Marketing](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_64.html)
-  * [Search Engines](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_6.html)
-  * [Self-Improvement](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_24.html)
-  * [SEO](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_62.html)
-  * [Shopping](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_47.html)
-  * [Site Promotion](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_105.html)
-  * [Technology](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_45.html)
-  * [Travel-and-Leisure](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_29.html)
-  * [Web Design](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_4.html)
-  * [Web Hosting](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_2.html)
-  * [Webmasters](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_16.html)
-  * [Wedding & Marriage](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_41.html)
-  * [Women](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_28.html)
-  * [Writing & Speaking](https://web.archive.org/web/20070612073357id_/http%3A//www.articlealley.com/index_1_50.html)
+  * [Automotive](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_31.html)
+  * [Baby & Child](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_40.html)
+  * [Blogs](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_13.html)
+  * [Business](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_15.html)
+  * [Career](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_36.html)
+  * [Computer Hardware](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_10.html)
+  * [Computer Software](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_11.html)
+  * [Dating](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_39.html)
+  * [Directories](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_5.html)
+  * [Domain Names](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_1.html)
+  * [E-Marketing](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_3.html)
+  * [Ezines](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_12.html)
+  * [Fashion](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_34.html)
+  * [Finance](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_19.html)
+  * [Food-and-Drink](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_26.html)
+  * [Forums](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_14.html)
+  * [Health & Healthcare](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_17.html)
+  * [Health-and-Fitness](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_23.html)
+  * [Home Business](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_80.html)
+  * [Home-and-Family](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_27.html)
+  * [Internet](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_81.html)
+  * [Legal](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_18.html)
+  * [Money](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_63.html)
+  * [Music](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_48.html)
+  * [Pay Per Click](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_7.html)
+  * [Pets](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_54.html)
+  * [Pregnancy & Childbirth](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_61.html)
+  * [Real Estate](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_33.html)
+  * [Recreation-and-Sports](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_32.html)
+  * [Reference-and-Education](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_22.html)
+  * [Relationships](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_35.html)
+  * [Religion](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_51.html)
+  * [Sales and Marketing](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_64.html)
+  * [Search Engines](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_6.html)
+  * [Self-Improvement](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_24.html)
+  * [SEO](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_62.html)
+  * [Shopping](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_47.html)
+  * [Site Promotion](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_105.html)
+  * [Technology](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_45.html)
+  * [Travel-and-Leisure](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_29.html)
+  * [Web Design](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_4.html)
+  * [Web Hosting](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_2.html)
+  * [Webmasters](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_16.html)
+  * [Wedding & Marriage](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_41.html)
+  * [Women](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_28.html)
+  * [Writing & Speaking](https://web.archive.org/web/20080709054138id_/http%3A//www.articlealley.com/index_1_50.html)
 
+
+  * 
 | 
 
 Privacy Policy
@@ -107,8 +109,5 @@ If you use this site to purchase services you may occasionally receive informati
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected
 
-| 
-
-Sponsors  
-  
+|    
 ---|---|---
