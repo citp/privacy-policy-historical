@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611140726id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy%26PHPSESSID%3Dd6d2f58e9925e6678dd0f5bddeed6bb0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2008-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080714082857id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
 
 # Cape Business News - Trade Leads, Tenders, Jobs, Press Offices
 
