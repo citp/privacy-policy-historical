@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617170117id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2008-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080714113956id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
