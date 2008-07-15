@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ahrn.com privacy policy that was archived on 2007-07-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070720135336id_/http%3A//ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahrn.com privacy policy that was archived on 2008-07-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080715134709id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 		<link rel="shortcut icon" href="favicon.ico">
@@ -8,12 +8,129 @@
 		<meta name="description" content="The Automated Housing Referral Network (AHRN) is a Department of Defense-sponsored site featuring available housing for military families in communities surrounding service installations.">
 		<meta name="keywords" content="off-base housing,off-post-housing,community housing,rental housing,community based housing,housing referral,housing referral system,places to rent,permanent change of station,automated housing referral network,AHRN">
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<title>Automated Housing Referral Network (AHRN.com) v4.4</title>
+		<title>Automated Housing Referral Network (AHRN.com) v5.2</title>
 
-		
-		<script language="javascript" src="includes/functions.js" type="text/javascript"></script>
+        <script type="text/javascript" src="gz_out.php?f=includes/functions.js&amp;t=js"></script>
+
+
+		<script type="text/javascript" src="ajax_server.php?client=all&amp;stub=all"></script>
+		<script type="text/javascript">
+
+			function addLoadEvent(func) {
+
+				var oldonload = window.onload;
+
+				if (typeof window.onload != 'function') {
+					window.onload = func;
+				} else {
+					window.onload = function() {
+
+						if (typeof(oldonload) == 'function') {
+							oldonload();
+						}
+
+						func();
+					}
+				}
+			}
+
+
+            var userAgent = navigator.userAgent.toLowerCase();
+
+            // Figure out what browser is being used
+            var browser = {
+                version: (userAgent.match( /.+(?:rv|it|ra|ie)[\/: ]([\d.]+)/ ) || [])[1],
+                safari: /webkit/.test( userAgent ),
+                opera: /opera/.test( userAgent ),
+                msie: /msie/.test( userAgent ) && !/opera/.test( userAgent ),
+                mozilla: /mozilla/.test( userAgent ) && !/(compatible|webkit)/.test( userAgent )
+            };
+
+
+            /**
+             * Helper function to load items once DOM is ready.
+             * Replaces window.onload arguments
+             */
+            function LoadDOM() {
+
+                ; 
+                //alert('DOM functions loaded');
+            }
+
+
+            // DOM Readiness
+            var readyBound = false;     //Has DOMReady already been executed
+            var isReady    = false;     //Flag to indicate whether DOM is ready
+
+            function DOMReady(fn) {
+
+                // Mozilla, Opera (see further below for it) and webkit nightlies currently support this event
+                if ( document.addEventListener && !browser.opera && !browser.safari) {
+                    // Use the handy event callback
+                    document.addEventListener( "DOMContentLoaded", fn, false );
+                    return;
+                }
+
+                // If IE is used and is not in a frame
+                // Continually check to see if the document is ready
+                if ( browser.msie && window == top ) (function(){
+                    if (isReady) return;
+                    try {
+                        document.documentElement.doScroll("left");
+                    } catch( error ) {
+                        setTimeout( arguments.callee, 0 );
+                        return;
+                    }
+                    // and execute any waiting functions
+                    isReady = true;
+                    eval(fn);
+
+                })();
+
+                // Opera
+                if ( browser.opera )
+                    document.addEventListener( "DOMContentLoaded", function () {
+                        if (isReady) return;
+                        for (var i = 0; i < document.styleSheets.length; i++)func
+                            if (document.styleSheets[i].disabled) {
+                                setTimeout( arguments.callee, 0 );
+                                return;
+                            }
+                        // and execute any waiting functions
+                        isReady = true;
+                        eval(fn);
+                    }, false);
+
+                // Safari
+                if ( browser.safari ) {
+                    var numStyles;
+                    (function(){
+                        if (isReady) return;
+                        if ( document.readyState != "loaded" && document.readyState != "complete" ) {
+                            setTimeout( arguments.callee, 0 );
+                            return;
+                        } else {
+                            // and execute any waiting functions
+                            isReady = true;
+                            eval(fn);
+                        }
+                    })();
+                }
+
+                // A fallback to window.onload that will always work
+                addLoadEvent(fn);
+            }
+
+            DOMReady(LoadDOM);  // Perform check to see if DOM is ready and fire functions if so
+
+		</script>
+
 	</head>
-	<body bgcolor="#FFFFFF" style="margin: 0 0 0 0" onload=";">
+
+
+	
+    <body bgcolor="#FFFFFF" style="margin: 0 0 0 0">
+
       <!-- ******************************************************************
            ***                                                            ***
            ***          Automated Housing Referral Network (AHRN)         ***
@@ -34,6 +151,7 @@
            ***     Copyright 2004, Runzheimer International               ***
            ***                                                            ***
            ****************************************************************** -->
+
                <table width="800" border="0" cellpadding="0" cellspacing="0" summary="shell table">
          	<tbody><tr>
          		<td><img src="ahrs_images/misc/shim.gif" width="118" height="1" border="0" alt=""></td>
@@ -63,6 +181,7 @@
                   	      <img src="ahrs_images/misc/shim.gif" width="1" height="400" alt="" align="left" border="0">
             		         <img src="ahrs_images/misc/shim.gif" width="15" height="1" border="0" alt=""></td>
             		      <td valign="top" width="99%">
+
                      		   <!-- content goes here -->
          					<h1>Our Privacy Policy<p></p></h1>
 <p>
@@ -110,10 +229,12 @@
          			</tbody></table><br><br>
          			<!-- footer -->
          	      <table width="100%" summary="footer"><tbody><tr><td align="right">
-         	         <a href="?page=privacy" class="smalltext"><font color="#888888">Privacy policy</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=TermsAndConditions" class="smalltext"><font color="#888888">Terms and conditions</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="smalltext"><font color="#888888">©2007</font></span>         	      </td></tr></tbody></table>
+         	         <a href="javascript:;" onclick="MM_openBrWindow('ahrs_shell.php?page=help_index&amp;hide_frame=1','HELPwin','header=no, scrollbars=yes,resizable=yes, width=450, height=350')" class="smalltext"><font color="#888888">Help</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=deployed_installations" class="smalltext"><font color="#888888">Deployed installations</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=privacy" class="smalltext"><font color="#888888">Privacy policy</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=TermsAndConditions" class="smalltext"><font color="#888888">Terms and conditions</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=eho" class="smalltext"><font color="#888888">Equal Housing Opportunity</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="smalltext"><font color="#888888">©2008</font></span>         	      </td></tr></tbody></table>
          	   </td>
          	</tr>
          </tbody></table>
+
+<div style="color:white; padding:15px;font-size:16px; width:300px;">LVS Host: spirit1-3</div>
          
 				<!-- this stuff is for live chat -->
 					<!-- BEGIN Invitation Positioning  -->
