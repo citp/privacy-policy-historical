@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519205039id_/http%3A//www.facialabuse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2008-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080715231935id_/http%3A//www.facialabuse.com/privacy.htm) for the most accurate reproduction.*
 
 # Facial Abuse
 
