@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525221212id_/http%3A//www.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2008-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080716045045id_/http%3A//www.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
