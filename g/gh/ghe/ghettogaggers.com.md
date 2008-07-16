@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghettogaggers.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530224944id_/http%3A//www.ghettogaggers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghettogaggers.com privacy policy that was archived on 2008-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080717012134id_/http%3A//ghettogaggers.com/privacy.htm) for the most accurate reproduction.*
 
 # Ghetto Gaggers
 
