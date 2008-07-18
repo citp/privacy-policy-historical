@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421034238id_/http%3A//www.seafolly.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2008-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080718164248id_/http%3A//www.seafolly.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Seafolly - Australian swimwear, apparel and accessories
 
