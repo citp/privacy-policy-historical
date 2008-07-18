@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeshop.com.au privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505033559id_/http%3A//www.homeshop.com.au/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeshop.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719012008id_/http%3A//www.homeshop.com.au/info/privacy.asp) for the most accurate reproduction.*
 
 # HomeShop - Privacy Statement - Woolworths HomeShop - Australia's premier online grocery shopping & delivery service
 
