@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613062802id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2008-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080718131226id_/http%3A//www.helpwanted.com/Application/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # HelpWanted.com
+
+
 
   * 
 |   | 
