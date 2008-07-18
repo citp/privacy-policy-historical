@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtf.net.au privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606164652id_/http%3A//www.gtf.net.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtf.net.au privacy policy that was archived on 2008-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080718215428id_/http%3A//www.gtf.net.au/privacy.html) for the most accurate reproduction.*
 
 # Green Tree Frog Internet Provider
 
