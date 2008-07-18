@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812185545id_/http%3A//www.healthspan.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719005642id_/http%3A//www.healthspan.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Healthspan
+# Privacy Policy
 
 **Customer charter**
 
@@ -47,7 +47,7 @@ Where we process or transfer your data outside of what is outlined in "How we us
 
 The data that you have provided will remain in databases that are established in a network that is firewall protected. Firewalls exist to stop the transfer of unauthorised information to or from the network. Physical access to our servers is restricted through the use of door code security systems. Higher level user login ID and password controls are also in place to restrict access. Only a limited number of IT personnel are authorised by the IT director to access the database. We use industry standard security technology and server certification.
 
-As a routine we carry out validation checks to help prevent fraud. No protection system is foolproof and the company cannot guarantee the total security of data or accept any liability unless a breach of security was due to our proven wilful default or negligence. Certain web sites linked to our site may not offer the same protections as the NutriProfile site and the laws of some countries outside the Channel Islands or the EU to which your data may be transferred as part of the process of providing products and services to you, may not offer the same data protection.
+As a routine we carry out validation checks to help prevent fraud. No protection system is foolproof and the company cannot guarantee the total security of data or accept any liability unless a breach of security was due to our proven wilful default or negligence. Certain web sites linked to our site may not offer the same protections as the Healthspan site and the laws of some countries outside the Channel Islands or the EU to which your data may be transferred as part of the process of providing products and services to you, may not offer the same data protection.
 
 **Customer choice**
 
