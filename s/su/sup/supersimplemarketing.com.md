@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514191324id_/http%3A//supersimplemarketing.com/%3Fpage_id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719102743id_/http%3A//www.supersimplemarketing.com/Privacy_Statement.html) for the most accurate reproduction.*
 
-# Privacy Policy | Bum Marketing | Article Marketing | Affiliate Marketing
+# Privacy Policy
 
-**
+** **
 
-PRIVACY POLICY
+**PRIVACY POLICY**
 
-**
+Last Updated: June 16, 2008
 
-****Last Updated: March 10, 2008
-
-SuperSimpleMarketing.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
+SuperSimpleMarketing.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
 **How we gather information from users**
 
- ****How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, SuperSimpleMarketing.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, SuperSimpleMarketing.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
 **What we do with the information we collect**
 
- ****Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
@@ -28,7 +26,7 @@ Personally Identifiable Information collected by SuperSimpleMarketing.com may al
 
 **Affiliated sites, linked sites and advertisements**
 
- ****SuperSimpleMarketing.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a SuperSimpleMarketing.com page, certain content that is actually created or hosted by a third party. Also, through SuperSimpleMarketing.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. SuperSimpleMarketing.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+SuperSimpleMarketing.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a SuperSimpleMarketing.com page, certain content that is actually created or hosted by a third party. Also, through SuperSimpleMarketing.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. SuperSimpleMarketing.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. SuperSimpleMarketing.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
@@ -36,7 +34,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 **Children**
 
- ****SuperSimpleMarketing.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe SuperSimpleMarketing.com has any information from or about anyone under 13, please contact us at the address listed below.
+SuperSimpleMarketing.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe SuperSimpleMarketing.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 Contacting Us.
 
@@ -44,7 +42,7 @@ We can be reached by contacting:
 
 SuperSimpleMarketing.com
 
-Email: privacy@supersimplemarketing.com
+Email: admin@supersimplemarketing.com
 
 Changes to this Policy
 
@@ -52,8 +50,8 @@ SuperSimpleMarketing.com reserves the right to change this policy at any time. P
 
 **Governing law**
 
- ****This policy and the use of this Site are governed by California law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Orange County, California. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by California law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Orange County. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Orange County, California, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Orange County, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 SuperSimpleMarketing.com is controlled, operated and administered entirely within California. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
