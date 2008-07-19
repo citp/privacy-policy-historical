@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514023020id_/http%3A//www.kellysearch.co.uk/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719153605id_/http%3A//www.kellysearch.co.uk/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Find UK suppliers with the Kellysearch B2B product search engine
 
