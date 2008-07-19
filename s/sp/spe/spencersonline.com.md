@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513122020id_/http%3A//www.spencersonline.com/index.cfm/fuseaction/content.page/nodeID/e2b9b7c4-48fe-4021-888e-5f1366e659be) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719182425id_/http%3A//www.spencersonline.com/index.cfm/fuseaction/content.page/nodeID/e2b9b7c4-48fe-4021-888e-5f1366e659be) for the most accurate reproduction.*
 
 # Spencer's - Privacy Policy
 
@@ -17,6 +17,7 @@ _General_
   * When you register for Spencer’s Underground, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spencer’s Undergound and sign in to our services, you are not anonymous to us. 
   * Spencer collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spencer uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+  * Spencer _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold by Spencer. When you submit a product review to Spencer, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/index_en_US.html)>_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _[http://www.Buzzillions.com](http://www.buzzillions.com/ "http://www.buzzillions.com/")__ _  and our site._
 
 
 
