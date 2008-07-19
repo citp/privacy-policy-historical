@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829095222id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719182911id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
 
 # Information
 
@@ -14,7 +14,7 @@ Members have the right to opt out of mailings other than their Points Summary. T
 
   1. **Members' Rights**
 
-Loyalty Pacific Pty Ltd as manager of the FlyBuys program respects and upholds the rights of members to privacy protection. The provisions of this Policy are evidence of Loyalty Pacific Pty Ltd's commitment to that protection. This Policy applies to all personal information held in the FlyBuys database. Refer section 5 of the FlyBuys Terms and Conditions. Words and phrases defined in the FlyBuys Terms and Conditions have the same meaning when used in this Policy. In this Policy "Coles Group Entities" means Coles Group Ltd. (ABN 11 004 089 936) and its related bodies corporate and "NAB Group Entities" means National Australia Bank Limited ABN 12 004 044 937 and its related bodies corporate including MLC Ltd and Custom Service Leasing Limited (trading as Custom Fleet). 
+Loyalty Pacific Pty Ltd as manager of the FlyBuys program respects and upholds the rights of members to privacy protection. The provisions of this Policy are evidence of Loyalty Pacific Pty Ltd's commitment to that protection. This Policy applies to all personal information held in the FlyBuys database. Refer section 5 of the FlyBuys Terms and Conditions. Words and phrases defined in the FlyBuys Terms and Conditions have the same meaning when used in this Policy. In this Policy "Coles Group Entities" means Coles Group Ltd. (ABN 11 004 089 936) and its related bodies corporate and "NAB Group Entities" means National Australia Bank Limited ABN 12 004 044 937 and its related bodies corporate including MLC Ltd. 
 
 go to top
 
@@ -79,6 +79,8 @@ go to top
 **4.2** Members can tell FlyBuys not to disclose their name to Coles Group Entities and NAB Group Entities. Members can make this request by writing to FlyBuys or calling 13 1116. 
 
 **4.3** To unsubscribe from the FlyBuys e-mail database, please send an e-mail to unsubscribe@flybuys.com.au with "UNSUBSCRIBE" typed into the subject of the e-mail. For technical reasons you will not receive a notice when you unsubscribe from this list. 
+
+**4.4** To unsubscribe from the FlyBuys SMS database, please send an SMS to [# Mobile phone number to be inserted] with [# Desired message to be inserted e.g. "unsubscribe" ]. For technical reasons you will not receive a return SMS when you unsubscribe from the SMS service.
 
 go to top
 
