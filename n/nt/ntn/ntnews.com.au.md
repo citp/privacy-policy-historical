@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831105716id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719142007id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
 
 # Northern Territory News
 
@@ -67,7 +67,7 @@ Whenever you voluntarily disclose personal information over the Internet this in
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-**Email:**[privacy@ntnews.com.au](mailto:privacy@ntnews.com.au)   
-**Telephone:** +61 7 4052 6666  
-**Mail:** Privacy Officer, P.O. Box 126, Cairns, Qld 4870  
+**Email:**[online@ntn.newsltd.com.au](mailto:online@ntn.newsltd.com.au)   
+**Telephone:** +61 8 8944 9900  
+**Mail:** Privacy Officer, P.O. Box 1300, Darwin, NT 0820  
 
