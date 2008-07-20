@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514224010id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720130339id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
@@ -115,7 +115,7 @@ Fraudulent scams called "phishing" have been increasing in frequency. "Phishing"
 
 It is the City's policy never to request confidential personal or financial information from our customers via an unsolicited e-mail. The City will also never send you an unsolicited e-mail containing a link to a City website where confidential personal or financial information is requested. If you receive such an e-mail, purportedly from the City, you are encouraged to immediately contact the City's Citizen Service Bureau at: (206) 684-CITY.
 
-For more general information about "phishing" [visit the Federal Trade Commission web site](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm). For specific information about a suspected phishing attempt you may have received contact the organization represented in the suspect e-mail. 
+For more general information about "phishing" [visit the Federal Trade Commission web site](http://www.ftc.gov/). For specific information about a suspected phishing attempt you may have received contact the organization represented in the suspect e-mail. 
 
 Section J. Disclaimer
 
@@ -131,12 +131,8 @@ To access your personally identifiable information collected, if any, or request
 
 To offer comments about the information presented in this Privacy Notice, you can contact:
 
-**By e-mail:** [Sam.Foucault@seattlegov](mailto:Sam.Foucault@seattle.gov)  
-**By telephone:** (206) 684-5952  
-**By fax:** (206) 684-0911  
-**By mail:** Sam Foucault  
-             PO Box 94709  
-             Seattle, WA 98124-4709 
+**By e-mail:** [Robert.Kaye@seattlegov](mailto:Robert.Kaye@seattle.gov)  
+**By telephone:** (206) 684-3412 
 
   
 
