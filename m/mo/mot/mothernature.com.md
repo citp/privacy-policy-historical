@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511234604id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720183852id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
 
 # MotherNature's Healthy Living Help Desk
 
