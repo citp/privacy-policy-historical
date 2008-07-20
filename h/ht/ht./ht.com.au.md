@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829015114id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720222402id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
 # ht.com.au | Purchasing Information | Security & Privacy Policy
 
