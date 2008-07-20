@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516084106id_/http%3A//www.eharmony.com.au/cms/singles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720074255id_/https%3A//www.eharmony.com.au/privacy) for the most accurate reproduction.*
 
 # eHarmony - Privacy Policy
 
@@ -90,7 +90,7 @@ Pasadena, CA 91116 USA
 **Correct/Update**
 
     6. We will advise you of what personal information we hold about you on request. If your request is particularly complex or requires detailed searching of our records, there may be a cost to you in order for us to provide this information.
-    7. If you believe there are errors in our records about you, please let us know and we will be happy to investigate and correct any inaccuracies. You can send email to [support-au@eharmony.com.au](https://web.archive.org/web/20080516084106id_/http%3A//www.eharmony.com.au/cms/singles/support-au@eharmony.com.au).
+    7. If you believe there are errors in our records about you, please let us know and we will be happy to investigate and correct any inaccuracies. You can send email to [support-au@eharmony.com.au](https://web.archive.org/web/20080720074255id_/https%3A//www.eharmony.com.au/support-au@eharmony.com.au).
     8. eHarmony also provides users the following options for changing and modifying information previously submitted. 
     9. Users may change their credit card, password and other information by going to My Matches page and selecting "My Account" link in the top navigation area;
     10. You can send mail to the following postal address:   
