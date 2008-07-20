@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082606id_/http%3A//www.localwineevents.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720133832id_/http%3A//www.localwineevents.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LocalWineEvents.com Privacy Policy
 
