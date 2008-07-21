@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221120036id_/http%3A//www.netspace.net.au/sfoa/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2008-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080721034957id_/http%3A//www.netspace.net.au/sfoa/privacy.php) for the most accurate reproduction.*
 
 # Netspace Online Systems - Privacy Statement
 
@@ -6,7 +6,7 @@ Netspace is subject to the Privacy Act 1988 including the National Privacy Princ
 
 **1\. Whose privacy statement is this?**
 
-> This is the privacy statement of Netspace Online Systems Pty Ltd ACN 067 116 269. We can be contacted by telephone on (03) 9811 0000 or as indicated at [http://www.netspace.net.au/internet_provider/contact.php](https://web.archive.org/internet_provider/contact.php)
+This is the privacy statement of Netspace Online Systems Pty Ltd ACN 067 116 269. We can be contacted by telephone on (03) 9811 0000 or as indicated at [http://www.netspace.net.au/about/contact.php](https://web.archive.org/about/contact.php)
 
 **2\. Who is the Netspace group?**
 
