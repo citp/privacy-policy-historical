@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusmo.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011054922id_/http%3A//www.plusmo.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusmo.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723180249id_/http%3A//plusmo.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Plusmo Mobile Widget Gallery
 
