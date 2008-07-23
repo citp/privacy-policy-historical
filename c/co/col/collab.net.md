@@ -1,52 +1,116 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324050942id_/http%3A//www.collab.net/about/legal/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723103508id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
 
-# CollabNet - Simplify. Collaborate. Innovate
+# Legal - Privacy Policy - CollabNet
 
-##### CollabNet, Inc. New Privacy Policy
+## Privacy Policy
 
-CollabNet, Inc. ("CollabNet") provides this Website Privacy Policy to describe how we collect, use, disclose, and otherwise process information relating to identifiable individuals ("Personal Information") that we obtain through our public websites at [www.collab.net](http://www.collab.net/), [www.collabnet.com](http://www.collab.net/), and www.team.collab.net ("Websites"). Personal Information that is not collected on these Websites is not subject to this Website Privacy Policy.
+This Privacy Policy is intended to describe the privacy practices of CollabNet, Inc. ("CollabNet") and provide information about the choices you have regarding the ways in which information collected through the CollabNet websites (collectively, the "Site") is used and disclosed. In general you can use this Site without revealing any personal information about yourself. However, some areas of the Site, such as registering for webcasts or downloading whitepapers, will require you to register and provide some personally identifiable information.
 
-**Safe Harbor Privacy Principles**  
-CollabNet adheres to the European Union Safe Harbor Privacy Principles as set forth by the United States Department of Commerce ("Safe Harbor Privacy Principles") regarding Personal Information from the European Union that we obtain through the Websites. CollabNet also adheres to the Safe Harbor Privacy Principles that apply to agents with respect to Personal Information from the European Union that we obtain through websites that we host as a service to our corporate customers ("Hosted Sites"). In the context of Hosted Sites, we process Personal Information only as a processing agent, on our customers' behalf, and in accordance with our customers' instructions, who ultimately determine how data is processed on Hosted Sites and for what purposes. Thus, the remainder of this Website Privacy Policy does not apply to our data processing activities on Hosted Sites - only the applicable Safe Harbor Privacy Principles and our customers' instructions do. CollabNet's other websites, business units, service offerings, and data collection or processing activities are not covered by CollabNet's self-certification of adherence to the Safe Harbor Privacy Principles. For further information regarding the Safe Harbor Privacy Principles, please see the United States Department of Commerce website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+**Safe Harbor**  
+CollabNet has self-certified its adherence to the European Union "Safe Harbor" Principles with the United States Department of Commerce, and has chosen to cooperate with the European Union Data Protection Authorities for unresolved privacy complaints.
 
-**Collection of Personal Information**  
-In general, you can visit our Websites without telling us who you are or revealing any Personal Information about yourself. There are some activities, however, where providing Personal Information is required, such as downloading certain white papers or registering for certain services, as discussed below. 
+**The Information We Collect**  
+This Privacy Statement applies to all information collected by or submitted to CollabNet through the Site, including personal information. "Personal information" is data that reasonably can be used to identify or describe an individual.
 
-If you wish to download or obtain white papers, newsletters, or certain other articles or materials, you often must register with us. Registration requires the provision of certain Personal Information such as your name, company name, email address and other contact information. The specific categories of Personal Information on the registration form that are required are marked with an asterisk (*). If you do not wish to provide the required information, you may not be able to engage in the particular activity at issue. 
+CollabNet collects personal information when:
 
-For customers who wish to purchase our Team Edition services offered on www.team.collab.net ("Team Edition Services"), we require that you register and provide us with Personal Information such as your name, company name, address, phone number, email address, along with billing information such as billing name and address, credit card number, and the number of users within your organization that will be using such services. 
+  * you become a registered member on the Site;
+  * you request that CollabNet contact you;
+  * you download CollabNet software (where required);
+  * you download CollabNet Partner software (where required);
+  * you register for an online training course;
+  * you make online purchases;
+  * you request support for a CollabNet product;
+  * you register for webcasts and other online events;
+  * you request information or materials (e.g., whitepapers);
+  * you participate in surveys and evaluations;
+  * you participate in promotions, contests or giveaways;
+  * you submit questions or comments to us;
+  * you subscribe to an electronic mailing list.
 
-If you are a user of Team Edition Services - whether because your employer or another organization has purchased the services and invited you to participate in the forum - we will collect your email address in order to provide you with a user name and password. Depending on how your organization wishes to structure the data collections on the forum at www.team.collab.net, you may also be able to post or otherwise provide other Personal Information in the forum in the course of using the Team Edition Services. With respect to such Personal Information, CollabNet acts as a mere processing agent for your organization, and therefore will collect, use, disclose, and otherwise process such Personal Information in accordance with your organization's instructions. 
 
-**Cookies and Passive Tracking**  
-The Websites use certain "cookies" and other tracking technologies. These technologies allow us to remember your interests as expressed by the pages you visit on our Websites. A cookie is a small text file that may be used, for example, to collect information about your activities on our Websites. The cookie transmits this information back to our Websites' computer that, generally speaking, is the only computer that can read it. Some cookies may serve to recall Personal Information previously registered by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. You can also set your browser to block or remove cookies; however, if you choose to do so, certain features and functionality of our Websites may no longer be available to you.
 
-Our Websites also use other tracking technologies to record anonymous information, such as; (i) the name of the domain and host from which you access the Internet, (ii) the Internet protocol (IP) address of the computer you are using, (iii) the browser software you use and your operating system, (iv) the date and time you access our Websites, and (v) the Internet address of the website from which you linked directly to our Websites. CollabNet makes full use of data collected through the Websites that is not in individually identifiable form.
+The types of personal information collected may include (but are not limited to):
 
-**Use of Personal Information**  
-CollabNet uses the Personal Information collected on the Websites to provide you with requested products, services, articles, and other materials. We also use Personal Information to provide you with ongoing services and support, to customize your experience on our Websites, and to enhance our Websites' content. We also use Personal Information to communicate with you on a variety of topics such as product upgrades, special offers, and events of possible interest to you. To the extent we obtain credit card numbers from you in connection with the Team Edition Services, we use such information solely to confirm your qualification to pay for the Team Edition Services, and to perform and administer the payment transactions. 
+  * your first and last name;
+  * your role in your organization;
+  * your organization's name;
+  * your home, billing, or other physical address (including street name, name of a city or town, state/province);
+  * your e-mail address;
+  * your telephone number;
+  * any other identifier that permits CollabNet to make physical or online contact with you;
+  * the CollabNet product in which your are primarily interested;
+  * any information that CollabNet collects online from you and maintains in association with your account, such as: 
+    * your CollabNet username,
+    * your CollabNet password,
+    * your credit card account information.
 
-**Disclosure of Personal Information**  
-We may disclose Personal Information to service providers that assist us to perform tasks in connection with the Websites, such as to process credit card payment transactions or to contact you on our behalf with information about our products or services. We require such service providers to not use the Personal Information for any purpose other than those for which we provided the Personal Information to them, and require them to apply appropriate security protections for the Personal Information.
 
-We may disclose Personal Information to technology partners that may wish to offer their own products and services to you, or to resellers that may offer our products and services to you. You will be provided with the opportunity to opt out of having your Personal Information shared with such third parties before it is disclosed. Generally, this option will be available to you on the registration or other page where you provide Personal Information to us. You may also opt out of our sharing of Personal Information with such third parties in the future by sending us an email as described below in the paragraph below on "Opt Out Choice." 
 
-CollabNet may also share Personal Information with government agencies or other third parties where required by or in connection with law enforcement actions, subpoenas or other litigation or applicable law. We may also disclose your Personal Information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
+CollabNet also collects more general information about your use of products and services offered on the Site, and your participation in various forums and projects. In addition, our Site uses tracking technologies to record information, such as; (i) the name of the domain and host from which you access the Internet, (ii) the Internet protocol (IP) address of the computer you are using, (iii) the browser software you use and your operating system, (iv) the date and time you access our Site, and (v) the Internet address of the website from which you linked directly to our Site.
 
-**Opt Out Choice**  
-You may opt out of receiving newsletters and marketing communications from CollabNet in the future by sending an email to [unsubscribe@collab.net](mailto:unsubscribe@collab.net). You may also opt out of any disclosures of Personal Information by CollabNet to technology partners and resellers in the future by sending us an email to [unsubscribe@collab.net](mailto:unsubscribe@collab.net). These opt out choices do not apply to communications for the purposes of administering order completion, contracts, support, product safety warnings or driver updates, or other comparable activities.
+**Using Your Personal Information**  
+CollabNet uses the personal information you provide to:
 
-**Access and Accuracy**  
-To keep your Personal Information accurate, current, and complete, please contact us as specified in the paragraph below on "Questions or Comments." We will make reasonable efforts to update or correct Personal Information that we maintain in our possession on our own behalf. 
+  * create and maintain your accounts;
+  * process, fulfill, and follow-up on your orders;
+  * answer your questions;
+  * register you in programs (per your request);
+  * send you information;
+  * send you newsletters;
+  * send you surveys.
 
-**Security of Personal Information**  
-CollabNet takes appropriate and reasonable precautions to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-**Notification of Changes**  
-If we decide to change our Website Privacy Policy, we will post the revised Website Privacy Policy on this Website via a link from the home page. In the event that we change a significant or material term, we will notify you by temporarily revising the link to the Website Privacy Policy to read, for example, "New Website Privacy Policy." 
 
-**Questions or Comments**  
-If you have any questions or comments regarding our Website Privacy Policy, please contact us at privacy [at] collab.net or send a letter to Mary Ann Moran, Associate General Counsel, Legal Department, CollabNet Inc., 8000 Marina Blvd., Suite 600, Brisbane, CA 94005.
+We also use this personal information, in conjunction with the information collected regarding your purchases and participation in various activities, to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, and to personalize communications.
 
-**Effective Date**  
-This Website Privacy Policy is effective as of October 1, 2005. 
+**Sharing Your Personal Information**  
+Unless you assent, CollabNet will never share the personal information you provide to us except as described below.
+
+CollabNet may disclose your personal information to third parties under any of the following circumstances:
+
+  * As may be required to fulfill orders, to conduct billing/credit card processing, and to provide services (as a consequence of uses already described in this Privacy Policy).
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud).
+  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
+
+
+
+**Your Choices About Receiving E-Mail**  
+CollabNet makes every effort to provide you with the ability to opt-in and opt-out of receiving communications from CollabNet and/or its partners.
+
+CollabNet may send you e-mail about your account, about the products you have downloaded and/or purchased, to remind you about a webcast for which you have registered or a service you have purchased, or in response to your questions. If you choose to receive it, CollabNet may send you our technical newsletter and other related technical information. CollabNet may also send you e-mail with information and/or special offers about products and services that may be of interest to you if you have opted in to such communications. In addition, with your assent, our business partners may send you such information.
+
+You may let us know whether or not you would like to receive information, special offers, and promotional materials from CollabNet or our business partners when you create an openCollabNet account, when you register for a service, when you provide us with your personal information, or when we send you e-mail. You may also update these choices in your registration profile at any time. Please note that if you choose not to accept promotional e-mails, you may not receive special offers that may be of value to you.
+
+CollabNet will provide you with the opportunity to opt-out of the newsletter or any of our direct marketing communications at any time. All newsletters and promotional e-mail sent from CollabNet will contain a provision allowing you the option to decline receiving future e-mail. You may unsubscribe to an e-mail communication by contacting CollabNet at the email address provided below and requesting that you be unsubscribed from that specific communication:
+
+  * To unsubscribe from the openCollabNet Technical Newsletter: [unsubscribe-ocn@collab.net](mailto:unsubscribe-ocn@collab.net)
+  * To unsubscribe from other CollabNet email communications: [unsubscribe@collab.net](mailto:unsubscribe@collab.net)  
+
+
+
+
+**Cookies and Other Browser Information**  
+Our Site uses certain "cookies" and other tracking technologies. These technologies allow us to remember your interests as expressed by the pages you visit on our Site and to allow the Site to "remember" your login information to facilitate automatic logins (if desired). A cookie is a small text file that may be used, for example, to collect information about your activities on our Site. The cookie transmits this information back to our Site's computer that, generally speaking, is the only computer that can read it. Some cookies may serve to recall Personal Information previously registered by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. You can also set your browser to block or remove cookies; however, if you choose to do so, certain features and functionality of our Websites may no longer be available to you.
+
+**Our Commitment to Data Security**  
+CollabNet trains its employees on our privacy policy guidelines and makes our privacy policy available to our business partners. Our website uses Secure Socket Layer (SSL) technology, which encrypts your credit card information when you send it to our Site. In addition, CollabNet and its business partners enter into confidentiality agreements which require that care and precautions be taken to prevent loss, misuse, or disclosure of your personal information.
+
+**Public Forums Reminder**  
+This site often makes discussion forums, mailing lists, wikis, blogs and chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, CollabNet reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is inappropriate. Any communications sent to you by third parties are the responsibility of such third parties.
+
+**Our Commitment to Children's Online Privacy**  
+Out of special concern for children's privacy, CollabNet does not knowingly accept online personal information from children under the age of 13. CollabNet does not knowingly allow children under the age of 13 to become registered members of our sites, or buy products and services on our sites. CollabNet does not knowingly collect or solicit personal information about children under 13.
+
+In the event that CollabNet ever decides to expand its intended site audience to include children under the age of 13, those specific web pages will, in accordance with the requirements of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice addressed to children under 13. In addition, CollabNet will provide an appropriate mechanism to obtain parental approval, allow parents to subsequently make changes to or request removal of their children's personal information, and provide access to any other information as required by law.
+
+**About Links to Other Sites**  
+This Site contains links to other websites. CollabNet does not control the information collection of websites that can be reached through links from our Site. If you have questions about the data collection procedures of linked sites, please contact those companies directly.
+
+**How to Contact Us**  
+If you have any questions about any of these practices or CollabNet's use of your personal information, or if you believe that CollabNet has not complied with this Privacy Policy, please contact us at legal@collab.net, or by mail at:
+
+CollabNet, Inc.  
+Legal Department  
+8000 Marina Boulevard, Suite 600  
+Brisbane, California 94005
