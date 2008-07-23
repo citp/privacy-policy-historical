@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608230916id_/http%3A//www.unfcu.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723111828id_/http%3A//www.unfcu.org/Privacy.asp) for the most accurate reproduction.*
 
 # UNFCU - Privacy Policy
 
@@ -87,7 +87,7 @@ to the address indicated.
 **INTERNET PRIVACY  
 **
 
-When you visit our website at [www.unfcu.org](https://web.archive.org/web/20080608230916id_/http://www.unfcu.org/default.asp), we want you to feel secure that we are respecting your privacy. The majority of the UNFCU website is protected with 128 bit SSL encryption. This encryption protects the user’s information from being viewed by an unauthorized party.
+When you visit our website at [www.unfcu.org](https://web.archive.org/web/20080723111828id_/http%3A//default.asp), we want you to feel secure that we are respecting your privacy. The majority of the UNFCU website is protected with 128 bit SSL encryption. This encryption protects the user’s information from being viewed by an unauthorized party.
 
 We protect your account information by placing it on the secure portion of our website. That is why you have to enter a unique member number and password each time you want to access your account information. In addition, you can use the sign off button located throughout Internet Banking to securely exit your account without closing your browser. Your password should never be shared with anyone.
 
