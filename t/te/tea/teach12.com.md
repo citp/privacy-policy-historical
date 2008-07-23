@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724091050id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724002906id_/http%3A//www.teach12.com/ttcx/Privacy.aspx) for the most accurate reproduction.*
 
 # The Teaching Company - Privacy Policy
 
@@ -36,7 +36,7 @@ You can verify our compliance at any time by clicking on the VeriSign logo locat
 If you feel uncomfortable buying through our site, we'd be delighted to take your orders via: 
 
 **Phone** : 1-800-TEACH-12 (1-800-832-2412)   
-Office hours: 9:00 a.m. to 12 midnight eastern time Monday through Friday; and 9:00 a.m. to 5:00 p.m. eastern time Saturday. 
+Office hours: 9 a.m. to 12 midnight eastern time Monday through Friday; and 9 a.m. to 5 p.m. eastern time Saturday and Sunday.
 
 **Fax:** 703-378-3819 
 
@@ -69,7 +69,7 @@ If you are not a registered user, please contact us through one of the means lis
 **E-mail:** [custserv@teachco.com ](mailto:custserv@teachco.com)
 
 **Phone** : 1-800-TEACH-12 (1-800-832-2412)   
-Our office hours are 9 a.m. to 12 midnight eastern time Monday through Friday; and 9 a.m. to 5 p.m. eastern time Saturday. 
+Our office hours are 9 a.m. to 12 midnight eastern time Monday through Friday; and 9 a.m. to 5 p.m. eastern time Saturday and Sunday. 
 
 **Fax:** 703-378-3819 
 
