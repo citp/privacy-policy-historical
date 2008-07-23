@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellybelly.com.au privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828213402id_/http%3A//www.bellybelly.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellybelly.com.au privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723192635id_/http%3A//www.bellybelly.com.au/privacy) for the most accurate reproduction.*
 
 # BellyBelly Privacy Policy
 
@@ -12,7 +12,7 @@ Bellybelly keeps a log of web traffic to the site, which is very common practice
 
 ### Cookies
 
-BellyBelly uses cookies, for example in sections of the site where you log on or place a vote on any of our polls. This enables the website to �remember things� for example, to keep track of whether a visitor has already voted for particular questions. There is no other use of cookies at this site and cookies are not used in any way to collect personal data of visitors.
+BellyBelly uses cookies, for example in sections of the site where you log on or place a vote on any of our polls. This enables the website to Ôremember thingsÕ for example, to keep track of whether a visitor has already voted for particular questions. There is no other use of cookies at this site and cookies are not used in any way to collect personal data of visitors.
 
 ### Advertisers
 
@@ -36,7 +36,7 @@ Bellybelly.com.au has security measures in place to protect the loss, misuse, an
 
 ### Children
 
-The BellyBelly website does not contain any pornographic or violent material. We also strive to ensure that the sites we link to and represent meet the same standards, with the exception of adultshop.com.au, who provide information on products suitable for couples of a �soft� nature. However, the adult nature of some of the topics related to pre-conception to parenthood mean that some of the information in this site and the sites that we link to may be unsuitable for children. Parents should supervise their children’s internet use in general and for certain sections of this site in particular. Further, we can not be held responsible for all the content at the sites that we link to, especially if it changes after we add our link. This site does not purposefully collect personal data on children (or adults) in any way except as defined above.
+The BellyBelly website does not contain any pornographic or violent material. We also strive to ensure that the sites we link to and represent meet the same standards, with the exception of adultshop.com.au, who provide information on products suitable for couples of a ÔsoftÕ nature. However, the adult nature of some of the topics related to pre-conception to parenthood mean that some of the information in this site and the sites that we link to may be unsuitable for children. Parents should supervise their children’s internet use in general and for certain sections of this site in particular. Further, we can not be held responsible for all the content at the sites that we link to, especially if it changes after we add our link. This site does not purposefully collect personal data on children (or adults) in any way except as defined above.
 
 ### Contacting BellyBelly
 
