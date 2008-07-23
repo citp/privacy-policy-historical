@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516182202id_/http%3A//dirgio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723113434id_/http%3A//www.dirgio.com/privacy.php) for the most accurate reproduction.*
 
 # Dirgio - Search, Advertise and Make Money Online
 
