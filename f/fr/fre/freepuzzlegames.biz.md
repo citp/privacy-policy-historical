@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601072107id_/http%3A//freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723200149id_/http%3A//freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Privacy Policy Game Online at Free puzzle games.biz
 
