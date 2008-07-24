@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329060653id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724035137id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
-# PlatinumServerManagement
+# Platinum Server Management, Inc.
 
 _Platinum Server Management, Inc._ is dedicated to protecting your privacy and handling any personal information obtained from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
@@ -70,8 +70,8 @@ Contact information provide by you may be accessed and updated by simply sending
 If you have questions or wish to send comments about this Privacy Policy, please send an e-mail with your questions or comments to sales@platinumservermanagement.com or write to: 
 
 _Platinum Server Management, Inc._  
-5601 Boulevard East,  
-West New York, NJ 07093
+PO Box 442,  
+Edgewater, NJ 07020
 
 Please be assured that any personal information that you provide in communications to the above email and mailing addresses will not be used to send you promotional materials, unless you so request. 
 
