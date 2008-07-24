@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505034358id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724105909id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Bargain Outfitters - Bargains, Discounts, Markdowns, Deals, on Boots, Clothing, Outdoor Gear at Bargain Outfitters
 
