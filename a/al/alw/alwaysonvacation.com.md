@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwaysonvacation.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512003903id_/http%3A//www.alwaysonvacation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysonvacation.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725002248id_/http%3A//www.alwaysonvacation.com./privacy.html) for the most accurate reproduction.*
 
 # PRIVACY - AlwaysOnVacation.com - your vacation rental destination
 
