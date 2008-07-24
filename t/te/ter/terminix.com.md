@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330173558id_/http%3A//www.terminix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724081121id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -10,13 +10,12 @@ At ServiceMaster, we are committed to protecting your privacy. We use the inform
   * [www.FurnitureMedic.com](http://www.furnituremedic.com/)
   * [www.MerryMaids.com](http://www.merrymaids.com/)
   * [www.ServiceMaster.com](http://www.servicemaster.com/)
-  * [www.Terminix.com](http://www.terminix.com/)
+  * [www.Terminix.com](https://web.archive.org/)
   * [www.TruGreen.com](http://www.trugreen.com/)
-  * [www.weservegift.com](http://www.weservegift.com/)
 
 
 
-### What information do we collect? How do we use it?
+###  What information do we collect? How do we use it?
 
 When you request information about a product or service or register with one of our sites, we may need to know specific information about you. This enables us to process your registration/ requests and reply to your needs promptly.
 
@@ -32,21 +31,21 @@ We monitor customer traffic patterns and site usage to help us develop the desig
 
 Note to Parents: Your child’s privacy is important to us and that is why we take additional measures to protect the privacy of the younger visitors to our Web site. We have created a children’s area, "Just For Kids," in which we offer content specially designed for children. Currently, we do not collect any personally identifiable information in the children’s area of our site. If we do in the future, we will do so consistent with the requirements of the Children’s Online Privacy Protection Act (COPPA).
 
-### How does ServiceMaster protect customer information?
+###  How does ServiceMaster protect customer information?
 
 When you place orders or access your account information, we use a secure server. This secure server software, SSL (Secure Sockets Layer) encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates. ServiceMaster’s digital certificates are issued by VeriSign, one of the most established signers of digital certificates. To learn more about ServiceMaster’s online security simply click on the "Security" icon in your browser tool bar.
 
-### What about cookies?
+###  What about cookies?
 
 "Cookies" are small pieces of information that are stored by your browser on your computer’s hard drive. Our cookies do not contain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without accepting cookies, you can still use most of the features throughout the ServiceMaster Quality Service Network Web sites.
 
 Our site uses cookies to keep track of your shopping cart and to make sure you don’t see the same advertisement or content repeatedly. We use cookies to deliver information specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
-### Will ServiceMaster disclose information it collects to outside parties?
+###  Will ServiceMaster disclose information it collects to outside parties?
 
 ServiceMaster does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can request that we do not by emailing us at [customercare@svm.com](mailto:customercare@svm.com) (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use). Also, ServiceMaster may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
-### Choice / Opt-Out
+###  Choice / Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from ServiceMaster and our partners at the point where we request information about the visitor.
 
@@ -61,7 +60,7 @@ Memphis, TN 38120
 
 
 
-### Correct / Update
+###  Correct / Update
 
 This site gives users the following options for changing and modifying information previously provided.
 
@@ -74,15 +73,15 @@ Memphis, TN 38120
 
 
 
-### Your Consent
+###  Your Consent
 
 By using our Web site, you consent to the collection and use of this information by ServiceMaster. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-### Tell us what you think
+###  Tell us what you think
 
 ServiceMaster welcomes your questions and comments about privacy. Please send e-mail to [customercare@svm.com](mailto:customercare@svm.com).
 
-### Contacting the Web Site
+###  Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
