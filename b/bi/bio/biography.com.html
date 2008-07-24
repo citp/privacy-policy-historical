@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biography.com privacy policy that was archived on 2007-07-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070711054247id_/http%3A//www.biography.com/privacy_statement.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biography.com privacy policy that was archived on 2008-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080724151743id_/http%3A//www.biography.com/privacy_statement.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -53,6 +53,12 @@
 #p7TMnav div div div div div div div div div div div div div div div div div div div div {display:none;}
 </style>
 	
+	
+	<script type="text/javascript">
+	var BCBoxTrackingPixelLocation = "BCBoxTrackingPixelLocation"; 
+	var BCBannerTrackingPixelLocation = "BCBannerTrackingPixelLocation"; 
+	var BCVideoTrackingPixelLocation = "BCVideoTrackingPixelLocation";
+	</script>
 	<link rel="shortcut icon" href="/images/common/favicon.ico">
 	
 		<link href="/css/biochan_global.css" rel="stylesheet" type="text/css">
@@ -61,7 +67,11 @@
 	
 </head>
 <body>
+<div id="BCBoxTrackingPixelLocation" style="visibility:hidden;"></div> 
 
+<div id="BCBannerTrackingPixelLocation" style="visibility:hidden;"></div> 
+
+<div id="BCVideoTrackingPixelLocation" style="visibility:hidden;"></div> 
 <!-- header -->
 
 	
@@ -123,16 +133,19 @@
 </style>
 <script language="javascript" type="text/javascript" src="/js/bookmarkme.js"></script>
 <script language="javascript" type="text/javascript" src="/js/emailtofriend.js"></script>
-
+<script language="javascript" type="text/javascript" src="/js/sifr.js"></script>
+<script language="javascript" type="text/javascript" src="/js/swfobject.js"></script>
 <div class="clear"></div> 
 
 <!-- global top nav -->
 
 <div class="header-wrapper">
 
-<div class="header-toolbox">
-<div class="header-toolbox-1"><a href="javascript:emailToFriend()"><img src="/images/header-biography-email.gif">Email to a friend</a></div>
+<div class="header-toolbox">   
+<div class="header-toolbox-1"><a href="/rss/rss.jsp"><img src="/images/header-biography-rss.gif">RSS FEEDS</a></div>
+<div class="header-toolbox-2"><a href="javascript:emailToFriend()"><img src="/images/header-biography-email.gif">Send to friend</a></div>
 <div class="header-toolbox-2"><a href="javascript:bookmarkme()">I<img src="/images/header-biography-love.gif">Biography - Bookmark this page</a></div>
+<div class="header-toolbox-2"><a href="javascript:void(window.open('http://emailmgr.aetv.com/index.jsp?brand=bio','emailmgr','width=600,height=500,scrollbars=yes'));">Bio Email Updates</a></div>
 <div class="clear"></div>
 </div>
 <div class="clear"></div>
@@ -166,53 +179,21 @@
 	<li><a href="/broadband/" class="navVideos">Videos</a>
 		<ul style="top: 13px;">
 		
-			<li class="no-border"><a href="/broadband/main.do?category=Actors%2FActresses">Actors/Actresses</a></li>
+			<li class="no-border"><a href="/famous-couples/video-gallery.jsp">Celebrity Couples</a></li>
 		
-			<li><a href="/broadband/main.do?show=Bio4Kids">Bio4Kids</a></li>
+			<li><a href="/video.do?name=blackhistory">Black History</a></li>
 		
-			<li><a href="/broadband/main.do?category=Black+History">Black History</a></li>
+			<li><a href="/isurvived/video.jsp">I Survived...</a></li>
 		
-			<li><a href="/broadband/main.do?category=Celebrity+Fact+or+Fiction">Celebrity Fact or Fiction</a></li>
+			<li><a href="/digital-drivein/index.jsp?category=Movie+Trailers">Movie Trailers &amp; More</a></li>
+		
+			<li><a href="/elections/video.jsp">Presidential Candidates</a></li>
+		
+			<li><a href="/notorious/video-gallery-serial.jsp">Serial Killers</a></li>
 		
 			<li><a href="/broadband/">Weekly Highlights</a></li>
 		
 		</ul>
-	</li>
-
-	<li><a href="/search/" class="navPeople">People</a>
-		<ul style="top: 13px;">
-		
-			<li class="no-border"><a href="/search/">Browse Alphabetical Index</a></li>
-		
-			<li><a href="/search/">Browse By Category</a></li>
-		
-		</ul>
-	</li>
-
-	<li><a href="/topics/index.jsp" class="navTopics">Topics</a>
-		<ul style="top: 13px;">
-		
-			<li class="no-border"><a href="/blackhistory/index.jsp">Black History</a></li>
-		
-			<li><a href="/womens-history/index.jsp">Women's History</a></li>
-		
-			<li><a href="/impressionists/index.jsp">The Impressionists</a></li>
-		
-			<li><a href="/oscars/">The Oscars</a></li>
-		
-			<li><a href="/st-patrick/index.jsp">St. Patrick &amp; The Irish</a></li>
-		
-			<li><a href="/tv-moms/index.jsp">TV Moms</a></li>
-		
-			<li><a href="/presidents/index.jsp">U.S. Presidents</a></li>
-		
-		</ul>
-	</li>
-
-	<li><a href="/games/" class="navGames">Games</a>
-		
-		
-		
 	</li>
 
 	<li><a href="/listings/daily.do" class="navTV">TV</a>
@@ -228,40 +209,108 @@
 		
 			<li><a href="/final24/index.jsp">Final 24</a></li>
 		
+			<li><a href="/isurvived/">I Survived...</a></li>
+		
 			<li><a href="/notorious/index.jsp">Notorious</a></li>
 		
-			<li><a href="/mysteries/">Mystery Programs</a></li>
+			<li><a href="/paranormal-zone/paranormal-zone-PAS.jsp">Paranormal Zone</a></li>
+		
+		</ul>
+	</li>
+
+	<li><a href="/search/" class="navPeople">People</a>
+		<ul style="top: 13px;">
+		
+			<li class="no-border"><a href="/search/">Browse Alphabetical Index</a></li>
+		
+			<li><a href="/search/">Browse By Category</a></li>
+		
+			<li><a href="/deathiversary.do">Famous Icons</a></li>
+		
+			<li><a href="/search/">Top 10 Searches</a></li>
+		
+		</ul>
+	</li>
+
+	<li><a href="/topics/index.jsp" class="navBIO's Best">BIO's Best</a>
+		<ul style="top: 13px;">
+		
+			<li class="no-border"><a href="/animalographies/">Animalographies</a></li>
+		
+			<li><a href="/blackhistory/index.jsp">Black History</a></li>
+		
+			<li><a href="/deathiversary.do">Deathiversary</a></li>
+		
+			<li><a href="/famous-couples/">Famous Couples</a></li>
+		
+			<li><a href="/digital-drivein/index.jsp">Movie Trailers &amp; Extras</a></li>
+		
+			<li><a href="/tv-moms/index.jsp">TV Moms</a></li>
+		
+			<li><a href="/elections/index.jsp">Who Will Be President?</a></li>
+		
+		</ul>
+	</li>
+
+	<li><a href="/games/" class="navGames">Games</a>
+		<ul style="top: 13px;">
+		
+			<li class="no-border"><a href="/games/britneyforadaygame/britney_for_a_day_game.jsp">Britney For A Day</a></li>
+		
+			<li><a href="/home_page/dead_celebrity_soulmate.jsp">Dead Celebrity Soulmate</a></li>
+		
+			<li><a href="/games/dead-or-not/dead-or-not.jsp">Dead Or Not</a></li>
+		
+			<li><a href="/famous-couples/love-machine.jsp">Love Machine</a></li>
+		
+			<li><a href="/animalographies/presidential-pets-quiz.jsp">Presidential Pets</a></li>
+		
+			<li><a href="/tv-moms/quiz.jsp">TV Moms</a></li>
+		
+			<li><a href="/games/">ALL GAMES</a></li>
 		
 		</ul>
 	</li>
 
 	<li><a href="/search/botd.do" class="navBorn On This Day">Born On This Day</a>
+		<ul style="top: 13px;">
 		
+			<li class="no-border"><a href="/deathiversary.do">Died On This Day</a></li>
 		
+			<li><a href="/multimedia/index.jsp">Born On This Day Widget</a></li>
 		
+		</ul>
 	</li>
 
 	<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar&amp;dest=/html/home/index_branded.jhtml" class="navShop">Shop</a>
 		<ul style="top: 13px;">
 		
-			<li class="no-border"><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown1&amp;dest=/html/subject/index.jhtml?id%3Dbio1000">BIOGRAPHY DVDs</a></li>
+			<li class="no-border"><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown1_Biography&amp;dest=/html/subject/index.jhtml?id%3Dbio1000">Shop Biography DVDs</a></li>
 		
-			<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown2&amp;dest=/html/subject/index.jhtml?id%3Dmys1000">MYSTERY DVDs</a></li>
+			<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown2_Notorious&amp;dest=/html/subject/index.jhtml?id%3Dcat2690016">Shop Notorious DVDs</a></li>
 		
-			<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown3&amp;dest=/html/subject/index.jhtml?id%3Dpow3000">PRODUCT OF THE WEEK</a></li>
+			<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown3_mys1007&amp;dest=/html/subject/index.jhtml?id%3Dmys1007">Shop Midsomer Murders DVDs</a></li>
 		
-			<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_HP_TopNavBar_DropDown4&amp;dest=/html/subject/index.jhtml?id%3Dcat1240002">CLEARANCE DVDs</a></li>
+			<li><a href="http://store.aetv.com/html/exit_track.jhtml?vid=BIO_HP_TopNavBar_DropDown4_Bioitunes&amp;dest=http:%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fclick%3Fid%3DeYMwlj6Ptf0%26offerid%3D78941.10004988%26type%3D3%26subid%3D0">iTunes: Biography</a></li>
 		
 		</ul>
 	</li>
 
-	<li><a href="javascript:void(window.open('http://emailmgr.aetv.com/index.jsp?brand=bio','emailmgr','width=600,height=500,scrollbars=yes'));" class="navNewsletters">Newsletters</a>
+	<li><a href="/photogallery/photo_gallery.jsp" class="navPhoto Galleries">Photo Galleries</a>
+		<ul style="top: 13px;">
 		
+			<li class="no-border"><a href="/photogallery/hollywood_heart_throbs/">Hollywood Heartthrobs</a></li>
 		
+			<li><a href="/famous-couples/photo-gallery.jsp">Rock Star Couples</a></li>
 		
+			<li><a href="/animalographies/photo-gallery.jsp">Celebrity Animals</a></li>
+		
+			<li><a href="/photogallery/photo_gallery.jsp">ALL GALLERIES</a></li>
+		
+		</ul>
 	</li>
 
-	<li><a href="http://boards.biography.com/index.jspa" class="navDiscussions">Discussions</a>
+	<li><a href="http://boards.biography.com/index.jspa" class="navDiscuss">Discuss</a>
 		
 		
 		
@@ -287,7 +336,7 @@
 <h1>SEARCH:</h1>
 </div>
 <div class="float-left">
-<form action="/search/global.do" method="get">
+<form action="/search/biography.do" method="get">
 <input name="keywords" class="search-input" id="keywords2" size="15" type="text">
 <input name="imageField2" src="/images/button-search-go.jpg" style="vertical-align:bottom; border:none;" alt="Go" type="image" id="submit">
 </form>
@@ -306,6 +355,7 @@
 
 <div style="width: 980px;">
 <div style="float: left; width: 760px;">
+
 
 <!-- begin content -->
 <table cellspacing="0" cellpadding="15" width="740" border="0">
@@ -455,118 +505,159 @@ Any of the policies or procedures above, and any of our policies or procedures c
 </tbody>
 </table>
 <!-- /end content -->
+<table width="760" cellspacing="0" cellpadding="0" border="0" class="siteAdBkgrndHome">
+	<tbody><tr>
+		<!-- 300x250 ad -->
+		<td align="center">
+		<div class="squarebottomad">
+			
+
+
+
+		<!-- Block ad Code missing, omitting ad -->
+	
+
+		</div>
+		</td>
+		<!-- /300x250 ad -->
+	</tr>
+</tbody></table>
 
 </div>
 
 <div style="width: 220px; margin-left: 0px; float: left;">
 
 	
-				<div class="right-sidebar">
+				<style type="text/css">
+<!--
+.style1 {font-weight: bold}
+-->
+</style>
 
-
-<div class="sidebar-videos">
-<h1>PHOTO GALLERIES</h1>
-<h2 style="background:none; padding-left: 0; margin-left:10px;"><a href="/biography/photo-gallery/index.jsp" style="font-size:14px; color: #000 !important;">Most Popular Galleries</a></h2>
-<a href="http://www.biography.com/biography/photo-gallery/index.jsp"><img src="/images/sidebar/photo-galleries.jpg" alt="" width="170" height="75" border="0" title=""></a>
-<ul>
-<li><a href="/biography/photo-gallery/evolution/celebrity-evolution.jsp">Celebrity Evolution</a></li>
-<li><a href="/biography/photo-gallery/mugshots/celebrity-bookings.jsp">Celebrity Mugshots</a></li>
-<li><a href="/biography/photo-gallery/romances/celebrity-hookups.jsp">Celebrity Hookups</a></li>
-<li><a href="/biography/photo-gallery/where/where-are-they-now.jsp">Where Are They Now?</a></li>
-</ul>
-
-<div class="sidebar-videos">
-
-<h1>VIDEOS</h1>
-<h2>Most Watched Women</h2>
-
-<a href="http://www.biography.com/broadband/main.do?video=bio-top250-bettedavis-broadwaytohollywood"><img src="/images/sidebar/davis_bette.jpg" alt="" width="170" height="100" border="0" title=""></a>
-
-<ul>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-bettedavis-broadwaytohollywood">Bette Davis</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-sacagawea-friend">Sacagawea</a></li>
-
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-janeausten-byalady">Jane Austen</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-carolinekennedy-justlikemom&amp;category=Authors">Caroline Kennedy</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=mf229_grace_66&amp;category=Black+History">Maya Angelou</a></li>
-</ul>
-
-<hr>
-<h2>Most Watched Men</h2>
-
-<a href="http://www.biography.com/broadband/main.do?video=bio-top250-bobmarley-lyceum"><img src="/images/sidebar/marley_bob.jpg" alt="" width="170" height="100" border="0" title=""></a>
-
-<ul>
-<li><a href="http://www.biography.com/broadband/main.do?video=biobites-maninblack">Johnny Cash</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=famous-adamsandler-early">Adam Sandler</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-bobmarley-lyceum">Bob Marley</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-charlesdickens-childhood">Charles Dickens</a></li>
-<li><a href="http://www.biography.com/broadband/main.do?video=bio-top250-baberuth-brooklyn">Babe Ruth</a></li>
-</ul>
-	
-<div class="sidebar-more"><a href="http://www.biography.com/broadband/">Watch FREE videos now!</a></div>
-	
-</div>
-
-<div class="sidebar-topics">
-
-<h1>IN-DEPTH TOPICS</h1>
-<p>Visit our special exhibit sites for info, activities, and more!</p>
-
-<a href="http://www.biography.com/blackhistory/index.jsp"><img src="/images/sidebar/martin-luther-king.jpg" alt="" width="170" height="130" border="0" title=""></a>
-
-
-<h2>Black History</h2>
-<p><a href="http://www.biography.com/blackhistory/index.jsp">Meet over 200 Notables</a> and much much more!</p>
-<hr>
-<h2>Hispanic Heritage</h2>
-
-<p>You may know their names, but do you know their faces? </p>
-<p><a href="http://www.biography.com/hispanic-heritage/index.jsp">Check out the Photo Gallery!</a></p>
-<hr>
-<h2>Women's History</h2>
-<p>Take an <a href="http://www.biography.com/womens-history/index.jsp">Interactive Timeline Journey</a>!</p>
-<hr>
-
-<h2>St. Patrick &amp; The Irish</h2>
-<p><a href="http://www.biography.com/st-patrick/index.jsp">Explore our interactive map</a> and more!</p>
-
-<div class="sidebar-more"><a href="http://www.biography.com/allshows.jsp">More</a> &gt;</div>
-</div>
-
-
-
-<div class="sidebar-tvfans">
-
-<h1>TV FANS</h1>
-
-<p>Visit your favorite Biography Channel program sites!</p>
-
-<img src="/images/sidebar/sidebar-biogrpahy-channel-logo.gif" alt="Biography Channel" title="Biography Channel" width="99" height="48" border="0" style="border:none;">
-<ul>
-<li><a href="http://www.biography.com/biography/index.jsp">BIOGRAPHYÂ®</a></li>
-<li><a href="http://www.biography.com/biocountry/index.jsp">BioCountry</a></li>
-<li><a href="http://www.biography.com/bio4kids/index.jsp">Bio4Kids</a></li>
-<li><a href="http://www.biography.com/dead_famous/index.jsp">Dead Famous</a></li>
-<li><a href="http://www.biography.com/final24/index.jsp">Final 24</a></li>
-<li><a href="http://www.biography.com/notorious/index.jsp">Notorious</a></li>
-<li><a href="http://www.biography.com/mysteries/">Mystery Programs</a></li>
-</ul>	
-
-
-<div class="sidebar-more"><a href="http://www.biography.com/allshows.jsp">More</a> &gt;</div>
-</div>
-
+<div class="right-sidebar">
 
 <div class="sidebar-store">
-<h1>SHOP BIOGRAPHY</h1>
-<p>Find your favorite celebrities, and mysteries on DVD at the BIOGRAPHYÂ® store. <a href="http://store.aetv.com/html/referer_entry.jhtml?vid=BIO_Global_RightNavBar&amp;dest=/html/home/index_branded.jhtml">Shop now!</a></p>
+<h1>NEW THIS MONTH</h1>
+
+<div><a href="http://www.biography.com/featured-biography/barack-obama/index.jsp"><img src="/images/sidebar/elections_180x110.jpg" alt="Barack Obama" width="180" height="110" border="0" title="Presidental Candidates"></a></div>
+<div>
+  <p><strong>How much do you know about the Presidential Candidates? </strong><br>
+    </p><p>Read  <a href="http://www.biography.com/featured-biography/barack-obama/index.jsp">Barack Obama's </a>biography.
+      <br>
+      Read <a href="http://www.biography.com/featured-biography/john-mccain/index.jsp">John McCain's</a> biography.</p>
+  </div>
+
+<div><a href="http://www.biography.com/deathiversary/billie-holiday/billie-holiday.jsp"><img src="/images/sidebar/death_july_180x110.jpg" alt="Deathiversary" width="180" height="110" border="0" title="Deathiverary"></a></div>
+<div>
+   <p><span class="style1"><a href="http://www.biography.com/deathiversary/billie-holiday/billie-holiday.jsp">Billie Holiday</a> died on July 17, 1959.</span></p>
+
+   <p>Visit <a href="http://www.biography.com/deathiversary/billie-holiday/billie-holiday.jsp">Billie Holiday</a> Featured Bio for timeline, photo gallery, and more.</p>
+     
+   <p>  Visit <a href="http://www.biography.com/deathiversary/frida-kahlo/frida-kahlo.jsp">Frida Kahlo</a>, <a href="http://www.biography.com/deathiversary/bruce_lee/brucelee.jsp">Bruce Lee</a> and more <a href="http://www.biography.com/deathiversary.do">famously departed</a>.</p>
+   <hr>
+   </div>
+   
+
+
+   
+
+<h1>BIO'S BEST</h1>
+
+<div><a href="http://www.biography.com/multimedia/index.jsp"><img src="/images/sidebar/botd_widget_180x110.jpg" alt="" width="180" height="110" border="0" title="2008 Presidential Elections"></a></div>
+
+<div>
+
+<p>Come and grab the <strong>Born on this Day Widget</strong> and see who was born today and who was born on your birthday!<br>
+<a href="http://www.biography.com/multimedia/index.jsp">Click to Learn More..</a><a href="http://www.biography.com/isurvived/"><br>
+</a>
+</p><hr>
+
+</div>
+
+
+<div></div>
+<div>
+<p><strong>More Bio's Best:</strong></p>
+
+<ul>
+<li><a href="/genghis-khan">Genghis Khan</a></li>
+
+
+<li><a href="http://www.biography.com/digital-drivein/index.jsp">Digital Drive-in</a></li>
+<li><a href="http://www.biography.com/elections/index.jsp">Race to the White House</a></li>
+<li><a href="http://www.biography.com/games/britneyforadaygame/britney_for_a_day_game.jsp">Britney for a Day Game</a></li>
+<li><a href="http://www.biography.com/biocountry/dolly-game.jsp">Dolly for a Day Game</a></li>
+</ul>
+  
+<br>
+<p><a href="http://www.biography.com/topics/index.jsp">See All</a></p>
+<hr></div>
+
+<h1>WHAT'S ON TV</h1>
+
+
+<div><a href="http://www.biography.com/isurvived/"><img src="/images/sidebar/IS_RSP_180x45.jpg" alt="" width="180" height="45" border="0" title="I Survived"></a></div>
+<div>
+
+<p><b>Tune-in </b>Mondays 9e/8c<br>
+  Real People Who Faced Death<br>
+  And Lived to Tell How<a href="http://www.biography.com/isurvived/"><br>
+  Watch previews and more.<br>
+  </a>
+</p><hr></div>
+
+
+
+
+
+
+<div><a href="http://www.biography.com/notorious/index.jsp"><img src="/images/sidebar/notorious_RSP_180x45.jpg" alt="" width="180" height="45" border="0" title="Notorious"></a></div>
+<div>
+
+<p>Enter the fascinating criminal world of Notorious featuring over 100 videos, TV schedule, Crime Files of infamous people, games, and more.<a href="http://www.biography.com/notorious/index.jsp"><br>Check out NOTORIOUS now!</a></p>
+
+<hr></div>
+
+
+
+
+
+
+
+
+
+
+   
+<div class="sidebar-videos">
+  <h1>VIDEOS</h1>
+ 
+  <ul>
+<li> <a href="http://www.biography.com/broadband/main.do?video=bio-top250-pamelaanderson-body">Pamela Anderson: The Body</a></li>
+<li><a href="http://www.biography.com/broadband/main.do?video=celeb_factfiction_heathledger">Heath Ledger: Fact or Fiction</a></li>
+<li><a href="http://www.biography.com/broadband/main.do?video=Biography_1968_Led-Zeppelin">Led Zeppelin: Rock Sound </a></li>
+<li><a href="http://www.biography.com/broadband/main.do?video=anne-frank-tdih-0804">Anne Frank: Captured</a></li>
+<li><a href="http://www.biography.com/broadband/main.do?video=Biography_Notorious_Genghis-Khan_Origins">Genghis Khan: Origins of a Warrior</a></li>
+</ul>
+
+</div>
+<p><a href="http://www.biography.com/broadband">Check out our Weekly Video Highlights</a></p>
+<hr>
+
 </div>
 
 
 
 
+
+
+
+
+
+
 </div>
+
+
+
 
 
 
@@ -583,6 +674,8 @@ Any of the policies or procedures above, and any of our policies or procedures c
 		
 
 </div>
+<!-- Baseboard ad unit -->
+
 </div>
 
 <!-- footer -->
@@ -590,6 +683,9 @@ Any of the policies or procedures above, and any of our policies or procedures c
 	
 	
 	
+	
+
+
 
 
 
@@ -614,7 +710,7 @@ Any of the policies or procedures above, and any of our policies or procedures c
 	<div class="footer float-left" style="width:180px;">
 		<ul>
 			<li>&gt;<a href="/sitemap.jsp">Site Map</a></li>
-			<li>&gt;<a href="http://www.aetv.com/global/feedback/index.jsp?NetwCode=BIO">FAQ</a></li>
+			<li>&gt;<a href="http://www.biography.com/global/feedback/index.jsp?NetwCode=BIO">FAQ</a></li>
 			<li>&gt;<a href="javascript:void(window.open('http://www.aetv.com/global/feedback/contact.jsp?site=biography.com&amp;NetwCode=BIO','contact','width=630,height=460'))">Contact Us</a></li>
 			<li>&gt;<a href="javascript:void(window.open('http://emailmgr.aetv.com/index.jsp?brand=bio','emailmgr','width=600,height=500,scrollbars=yes'));">Newsletters</a></li>
 		</ul>
@@ -638,6 +734,7 @@ Any of the policies or procedures above, and any of our policies or procedures c
 		</ul>
 	</div>
 <div class="footer float-left" style="height: 70px; border-left:1px dotted #ccc; margin-top:5px; margin-bottom: 5px;"></div>
+<script language="JavaScript">var tcdacmd="dt";</script> <script src="http://an.tacoda.net/an/15893/slf.js" language="JavaScript"></script>
 <!-- /footer text -->
 
 	
@@ -648,10 +745,10 @@ Any of the policies or procedures above, and any of our policies or procedures c
 <!-- footer networks -->
 <div class="float-left footer-logos">
 <a href="http://www.aetv.com/"><img src="/images/footer/footer-aetv-logo.jpg" alt="A&amp;E Television Networks" title="A&amp;E Television" border="0"></a>
-<a href="http://www.biographychannel.com/"><img src="/images/footer/footer-biography-logo.jpg" alt="Biography.com" title="Biogrpahy.com" border="0"></a>
+<a href="http://www.biographychannel.com/"><img src="/images/footer/footer-biography-logo.jpg" alt="Biography.com" title="Biography.com" border="0"></a>
 <a href="http://www.historychannel.com/"><img src="/images/footer/footer-history-channel-logo.jpg" alt="The History channel" title="The History Channel" border="0"></a>
 <a href="http://www.historyinternational.com"><img src="/images/footer/footer-history-international-logo.jpg" alt="History International" title="History International" border="0"></a>
-<a href="http://www.historychannel.com/espanol/"><img src="/images/footer/footer-history-espanol-logo.jpg" alt="History Espanol" title="History Espanol" border="0"></a></div>
+<a href="http://www.historychannel.com/espanol/"><img src="/images/footer/footer-history-espanol-logo.jpg" alt="History Espanol" title="History en Espanol" border="0"></a></div>
 <div class="clear"></div>
 
 
@@ -661,7 +758,7 @@ Any of the policies or procedures above, and any of our policies or procedures c
 </div>
 
 
-<p class="copyright">© 1996-2007 <a href="http://www.aetn.com/">A&amp;E Television Networks</a>. All Rights Reserved</p>
+<p class="copyright">© 1996-2008 <a href="http://www.aetn.com/">A&amp;E Television Networks</a>. All Rights Reserved</p>
 <!-- google analytics -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -681,6 +778,10 @@ urchinTracker();
 	
 	
 	
+	
+	
+
+
 
  
 
@@ -689,13 +790,16 @@ urchinTracker();
 
 
 
-<!-- SiteCatalyst code version: H.2.
-Copyright 1997-2005 Omniture, Inc. More info available at
+<!-- SiteCatalyst code version: H.15.1
+Copyright 1997-2007 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="javascript" type="text/javascript" src="/js/s_code.js"></script><img name="s_i_aebio" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/aebio/1/H.2-Pdv-2/s96447932890064?[AQB]&amp;ndh=1&amp;t=31/0/2020%209%3A45%3A39%205%200&amp;pageName=PrivacyStatement&amp;g=https%3A//web.archive.org/web/20070711054247id_/http%253A//www.biography.com/privacy_statement.jsp&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript"><!--
+var omnitureSuiteName = "aebio,aetnglobal";
+var s_account="aebio,aetnglobal";
+//--></script>
+<script language="javascript" type="text/javascript" src="/js/s_code-prod.js"></script>
 <script language="javascript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+/* You may give each page an identifying name, server, and channel on the next lines. */
 s.pageName="PrivacyStatement"
 s.server=""
 s.channel=""
@@ -709,7 +813,7 @@ s.prop5=""
 s.campaign=""
 s.state=""
 s.zip=""
-s.events=""
+s.events="event7"
 s.products=""
 s.purchaseID=""
 s.eVar1=""
@@ -724,12 +828,18 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="javascript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://aetv.112.2O7.net/b/ss/aebio/1/H.2--NS/0?pageName=PrivacyStatement"
+src="http://aebio.112.2O7.net/b/ss/aebio/1/H.15.1--NS/0?pageName=PrivacyStatement"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.2. -->
-
+<!-- End SiteCatalyst code version: H.15.1 -->
 <!--PAGE DONE-->
 
+<div id="omniDiv" style="display:none;"></div>
+<script type="text/javascript"><!--
+    function trackPageHit() {
+        var scode=s.t();
+        if(s_code) document.getElementById("omniDiv").innerHTML = scode;
+	}
+--></script>
 
 
 <!-- /footer -->
@@ -740,4 +850,4 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-</div></body></html>
+</body></html>
