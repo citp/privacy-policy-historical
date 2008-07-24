@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026010431id_/http%3A//www.goldgenie.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724223643id_/http%3A//www.goldgenie.com/static/privacypolicy) for the most accurate reproduction.*
 
-# Goldgenie Gold Plated Apple Ipods, Iphones and services
+# 24ct.Gold Plated Apple ipods, iphones, unique gifts and ALL gold plated services
 
 END USER PRIVACY AND COOKIE POLICY  
 Welcome to our Privacy Policy. This explains what we do with the personal information that you give us. If you have not already done so, please read our User Agreement before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please contact us at:  
