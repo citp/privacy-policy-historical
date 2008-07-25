@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144955id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725035657id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
-[Terms & Conditions](https://web.archive.org/web/20080509144955id_/http%3A//www.zenimax.com/legal_terms.htm)  
+[Terms & Conditions](https://web.archive.org/web/20080725035657id_/http%3A//www.zenimax.com/legal_terms.htm)  
 **Privacy Policy**  
-[Legal Information](https://web.archive.org/web/20080509144955id_/http%3A//www.zenimax.com/legal_info.htm)
+[Legal Information](https://web.archive.org/web/20080725035657id_/http%3A//www.zenimax.com/legal_info.htm)
 
 [](http://www.esrb.org/confirm/zenimax-confirmation.jsp)
 
@@ -55,7 +55,7 @@ To register on our site, we may ask you to provide personal information such as 
 
 To register for membership in any of our online community forums, we may ask you to provide personal information such as your email address, and to create a username and password. We may also collect demographic information about you, including your occupation, hobbies and interest, and other preferences. The information that you submit to us for this purpose is used to give you access to our community forums and other community features and to allow the moderators and administrators of the message board to contact you.
 
-The ability to participate in the community forums by simply logging in
+The ability to participate in the community forums by simply logging in is available to only those Web users that have already created a password during an earlier visit to the community registration area of our site. To login as a member, we
 
 
 
