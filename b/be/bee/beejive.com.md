@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the beejive.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513232634id_/http%3A//www.beejive.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beejive.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725115804id_/http%3A//www.beejive.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# BeeJive :: JiveTalk mobile messenger - instant messaging to go
+# Beejive | instant messaging, just about anywhere
 
-BeeJive Privacy Policy, Effective May 25, 2007.
+Beejive Privacy Policy, Effective May 25, 2007.
 
 The following information is to help users and visitors (collectively "Users" or "You") understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our JiveTalk™ software, mobile applications, services, the website at www.beejive.com (the "Website"), and any other websites and mobile applications and services as may be added from time to time (collectively, "Product").
 
-This Privacy Policy is incorporated into the Beejive, Inc. ("BeeJive") License Agreement. Your use of the Product and any personal information You provide on the Product remain subject to the terms of this Privacy Policy and our License Agreement, available at www.beejive.com/privacyPolicy.php and www.beejive.com/licenseAgreement.php.
+This Privacy Policy is incorporated into the Beejive, Inc. ("Beejive") License Agreement. Your use of the Product and any personal information You provide on the Product remain subject to the terms of this Privacy Policy and our License Agreement, available at www.beejive.com/privacyPolicy.php and www.beejive.com/licenseAgreement.php.
 
 **1\. Information We Collect**
 
-We do not collect or store any of your instant message ("IM") account information, such as your user name and password, messages, or contact lists, except that we temporarily store your instant messages solely in order to complete the instant message communication (for example, in response to a dropped call); however after the communication is complete the instant message is deleted from the BeeJive system. We also collect the following information: 
+We do not collect or store any of your instant message ("IM") account information, such as your user name and password, messages, or contact lists, except that we temporarily store your instant messages solely in order to complete the instant message communication (for example, in response to a dropped call); however after the communication is complete the instant message is deleted from the Beejive system. We also collect the following information: 
 
-a. User Provided Information. You may provide certain personally identifiable information to BeeJive directly, such as your mobile device phone number, IMEI, or PIN, first and last name, telephone number, address, credit card or PayPal® information, and email address (collectively, "Personally Identifiable Information") when choosing to purchase the Product, using the Product, participating in promotions or surveys, or subscribing to any newsletters or other distribution lists. 
+a. User Provided Information. You may provide certain personally identifiable information to Beejive directly, such as your mobile device phone number, IMEI, or PIN, first and last name, telephone number, address, credit card or PayPal® information, and email address (collectively, "Personally Identifiable Information") when choosing to purchase the Product, using the Product, participating in promotions or surveys, or subscribing to any newsletters or other distribution lists. 
 
 Any graphics, text, files, or any other content submitted, transmitted, or uploaded, via Internet or mobile communications, to the public areas of the Website by Users ("User Submissions"), or such material that You make accessible to others directly, becomes published and are not considered Personally Identifiable Information. Be aware that if your User Submissions includes personal information, such as your name, email address, etc., other Users will have access to it and it will not be protected Personally Identifiable Information. 
 
-When You use your mobile telephone or other wireless device to send, store, receive, or access material, through your wireless network carrier, we may collect Non-Personally Identifiable Information. In addition, BeeJive may specifically request that you provide log information that contains Personally Identifiable Information only to debug the Product, but we will not store Personally Identifiable Information after debugging. 
+When You use your mobile telephone or other wireless device to send, store, receive, or access material, through your wireless network carrier, we may collect Non-Personally Identifiable Information. In addition, Beejive may specifically request that you provide log information that contains Personally Identifiable Information only to debug the Product, but we will not store Personally Identifiable Information after debugging. 
 
 b. Cookies. When You visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that identifies your web browser. You can set your web browser to refuse cookies. 
 
@@ -28,7 +28,7 @@ Clear gif, cookies, and log file information are non-personally identifiable inf
 
 **2\. Use of Information**
 
-Collected Information is used to operate, maintain, and provide to You the features and functionality of the Product. Any personal information or User Submissions that You voluntarily submit to be disclosed on the BeeJive Website (on discussion boards or forums, in blogs, messages and chat areas, etc.) becomes publicly available and can be collected and used by other Users, who may forward this personal information or User Submissions to other websites or people, making it available to the general public and, therefore, Non-Personally Identifiable Information. 
+Collected Information is used to operate, maintain, and provide to You the features and functionality of the Product. Any personal information or User Submissions that You voluntarily submit to be disclosed on the Beejive Website (on discussion boards or forums, in blogs, messages and chat areas, etc.) becomes publicly available and can be collected and used by other Users, who may forward this personal information or User Submissions to other websites or people, making it available to the general public and, therefore, Non-Personally Identifiable Information. 
 
 We may use your Personally Identifiable Information for administrative purposes, such as notifying You of major changes in Product, news, and for other customer service purposes. Also, we may provide credit card and ordering information to payment processors, including Paypal#&174;, but we do not retain such information. 
 
@@ -36,25 +36,25 @@ We may use Non-Personally Identifiable Information to: (a) remember information 
 
 **3\. When We Disclose Information**
 
-We may provide Non-Personally Identifiable Information to our subsidiaries, affiliated companies, mobile carriers, or others. If we provide such Non-Personally Identifiable Information to such third party, their use of that Non-Personally Identifiable Information shall be governed by their privacy policy, not BeeJive's. 
+We may provide Non-Personally Identifiable Information to our subsidiaries, affiliated companies, mobile carriers, or others. If we provide such Non-Personally Identifiable Information to such third party, their use of that Non-Personally Identifiable Information shall be governed by their privacy policy, not Beejive's. 
 
 In order to describe our Product to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Product, including Users' use of our Product and the success of promotions. 
 
 We may release Collected Information if required to do so by law, or if we believe that such action is appropriate to comply with state and federal laws or respond to a court order, law enforcement request or demand, subpoena, or search warrant. We may share Collected Information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud, potential threats to public safety or the physical safety of any person, violations of our License Agreement, or as otherwise permitted by law. 
 
-We also reserve the right to disclose Collected Information that BeeJive believes is appropriate or necessary to enforce our License Agreement, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Product, and to exercise or protect the rights, property, or personal safety of BeeJive, our Users or others. 
+We also reserve the right to disclose Collected Information that Beejive believes is appropriate or necessary to enforce our License Agreement, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Product, and to exercise or protect the rights, property, or personal safety of Beejive, our Users or others. 
 
 **4\. Partners and Mobile Carriers**
 
-Product may be provided through a variety of mobile carriers and IM network providers (like Yahoo, AOL, etc.). The use of User Submissions and other information provided by You by partners or affiliates of Beejive, mobile carriers, or IM network providers are governed by their privacy policies, not our Privacy Policy. BeeJive is not responsible for third party privacy policies or their compliance with such policies. 
+Product may be provided through a variety of mobile carriers and IM network providers (like Yahoo, AOL, etc.). The use of User Submissions and other information provided by You by partners or affiliates of Beejive, mobile carriers, or IM network providers are governed by their privacy policies, not our Privacy Policy. Beejive is not responsible for third party privacy policies or their compliance with such policies. 
 
-BeeJive may allow other companies to serve advertisements through the Website or Product. Our Privacy Policy does not apply to, and we cannot control the activities of, such other third parties or their websites. 
+Beejive may allow other companies to serve advertisements through the Website or Product. Our Privacy Policy does not apply to, and we cannot control the activities of, such other third parties or their websites. 
 
 **5\. Choices**
 
 You may update or correct your Personally Identifiable Information at any time using the Software or by sending us an email at support@beejive.com. Your mobile device pin may only be changed if You purchased the User Plan. 
 
-If You or BeeJive intend to delete any User Submissions provided by You, we cannot guarantee that your User Submissions will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that You supply. In addition the other Users may have already copies and forwarded your User Submissions to others, making recovery impossible. We are not responsible for any public display or misuse of your User Submissions. 
+If You or Beejive intend to delete any User Submissions provided by You, we cannot guarantee that your User Submissions will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that You supply. In addition the other Users may have already copies and forwarded your User Submissions to others, making recovery impossible. We are not responsible for any public display or misuse of your User Submissions. 
 
 **6\. Data Security**
 
