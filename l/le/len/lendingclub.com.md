@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517083756id_/http%3A//www.lendingclub.com/info/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725024514id_/http%3A//www.lendingclub.com/info/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy - Lending Club
 
-We are not accepting new lender registrations or new commitments from existing lenders at this time. Read [here](https://web.archive.org/info/quietPeriod.action) for an important announcement.
+We are not accepting new lender registrations or new commitments from existing lenders at this time. Read here for an [update](https://web.archive.org/info/quietPeriod.action).
 
 ## Privacy Policy
 
