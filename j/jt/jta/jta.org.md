@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101112724id_/http%3A//www.jta.org/page_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725091009id_/http%3A//www.jta.org/cgi-bin/iowa/special/privacy.html) for the most accurate reproduction.*
 
-# JTA - Global Jewish News
+# JTA - Jewish & Israel News
 
-  
-**JTA Privacy Policy**
+## JTA Privacy Policy
 
 This Privacy Policy explains what information the Jewish Telegraph Agency ("JTA" or "we" or "us") collects on our web site, www.jta.org (the "Web Site"), how we use your information, and your choices. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected by any other web site or offline by JTA (unless specifically stated) or any other company. Please read this Privacy Policy carefully. 
 
