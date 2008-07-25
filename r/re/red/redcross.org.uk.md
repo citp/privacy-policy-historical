@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2008-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080301000345id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725054537id_/http%3A//www.redcross.org.uk./49555) for the most accurate reproduction.*
 
 # Privacy | British Red Cross
 
@@ -16,7 +16,7 @@ The types of information we might collect includes, names, addresses, e-mail add
 
 We will use your information to provide you with the information, products or services you have requested, for administration purposes, to further our charitable aims and to comply with the law. We may need to share your information with our trading subsidiaries, service providers, associated organisations and agents for these purposes.
 
-We may also share your information with other organisations who are supportive of our charitable objectives. When you provide your details you will be asked if you do not want this to happen. You can change your mind by contacting us at any time.
+We will not share your information with other like minded organisations for the purpose of marketing unless you have previously indicated that you are happy for us to do so.
 
 ## Do we use 'cookies'?
 
