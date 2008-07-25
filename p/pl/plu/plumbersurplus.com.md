@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225092653id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725050018id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PlumberSurplus.com
 
 [Home](https://web.archive.org/) > Privacy Policy 
 
-[](https://web.archive.org/Search.aspx?search=best+deals+on+top+performing+tools)
+[](https://web.archive.org/Promotions.aspx#promo7)
 
 #### Overview
 
@@ -61,6 +61,9 @@ We periodically send emails such as, account emails, order emails, product email
 
 **Contact Information and Third Party Data**  
 If you contact PlumberSurplus.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
+
+**Product Reviews**  
+PlumberSurplus.com LLC has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by PlumberSurplus.com LLC. When you submit a product review to PlumberSurplus.com LLC, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and PlumberSurplus.com.
 
 **Customer Service**  
 We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information.
@@ -167,8 +170,4 @@ You may also contact us by email at [info@plumbersurplus.com](mailto:info@plumbe
 
 #### Privacy Policy changes
 
-This Privacy Policy was last changed on January 4, 2008. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
-
-[](https://www.scanalert.com/RatingVerify?ref=www.plumbersurplus.com)
-
-[ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--107325.html)
+This Privacy Policy was last changed on July 7, 2008. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
