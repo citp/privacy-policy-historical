@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831173010id_/http%3A//www.australia.gov.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725062710id_/http%3A//www.australia.gov.au/Privacy) for the most accurate reproduction.*
 
 # Privacy - australia.gov.au
 
-## Privacy
-
 ### Scope
 
-This statement applies to the australia.gov.au website only. The website is managed by the Department of Finance and Administration. 
+This statement applies to the australia.gov.au website only. The website is managed by the Department of Finance and Deregulation. 
 
 ### Personal Information
 
 Australia.gov.au collects personal information that you choose to give us, for example your email address. 
 
-We do not collect identifiable personal information about you if you only browse this website. 
+No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect our logs. 
 
 ### Uses
 
@@ -26,7 +24,7 @@ We do not share information about you with other government agencies or other or
 
 
 
-We analyse non-identifiable website traffic data to improve our services. We use cookies only for the [Service Locator Trial](https://web.archive.org/web/20070831173010id_/http%3A//www.australia.gov.au/Service_Locator_Trial). 
+We analyse non-identifiable website traffic data to improve our services. We do not use cookies[](https://web.archive.org/web/20080725062710id_/http%3A//www.australia.gov.au/Service_Locator_Trial). 
 
 ### Your choices
 
@@ -44,16 +42,16 @@ We also follow the Guidelines for Federal and ACT Government Websites issued by 
 
 ### How to contact us
 
-[Contact Us](https://web.archive.org/web/20070831173010id_/http%3A//www.australia.gov.au/Contact_Us) about any of your privacy concerns or to suggest further improvements to this website. 
+[Contact Us](https://web.archive.org/web/20080725062710id_/http%3A//www.australia.gov.au/Contact_Us) about any of your privacy concerns or to suggest further improvements to this website. 
 
-Alternatively, write to us at: 
+Alternatively, write to us at:
 
 **Manager, australia.gov.au**  
 Australian Government Information Management Office  
-Department of Finance and Administration  
+Department of Finance and Deregulation  
 John Gorton Building  
 King Edward Terrace  
 Parkes ACT 2600  
 AUSTRALIA
 
-For more information about our privacy practices, see our [full privacy statement.](https://web.archive.org/web/20070831173010id_/http%3A//www.australia.gov.au/Full_Privacy_Statement)
+For more information about our privacy practices, see our [full privacy statement.](https://web.archive.org/web/20080725062710id_/http%3A//www.australia.gov.au/Full_Privacy_Statement)
