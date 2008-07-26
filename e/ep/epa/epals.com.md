@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625165815id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2008-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080726191954id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
 
 # ePals, Inc. Privacy Policy
+
+|  **ePals, Inc. Privacy Policy**
 
 I. PRIVACY NOTICE FOR CHILDREN UNDER 13
 
@@ -78,7 +80,7 @@ For some ePals' products and services, teachers and school administrators may pr
 
 Parents can provide consent by email, fax, or postal mail for their children to use the following ePals products and services: SchoolMail™, SchoolBlog™, and the Global Community™. Complete email instructions are provided in the parental consent form available at [ www.epals.com/privacy/forms](http://www.epals.com/privacy/forms/).
 
-To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-888-201-2332 or mail it to: 
+To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-703-885-3491 or mail it to: 
 
 ePals Legal Department  
 13625-A Dulles Technology Drive  
@@ -188,6 +190,9 @@ Please let us know if you have any questions or comments regarding our privacy p
 ePals Legal Department  
 13625-A Dulles Technology Drive  
 Herndon, VA 20171  
-Phone: (703) 885-3400  
-Fax: (703) 885-3490  
+Phone: (703) 885-3401  
 [Contact ePals](http://www.epalscorp.com/contact.html)
+
+[](https://web.archive.org/resc/resc.e/?url=/askepals/?ref=askepals_728x90f2b&ads_askepals_728x90_2bb.jpg)
+
+| 
