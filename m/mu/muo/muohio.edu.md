@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215024118id_/http%3A//www.miami.muohio.edu/documents_and_policies/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2008-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080726182607id_/http%3A//muohio.edu/documents_and_policies/privacy_statement) for the most accurate reproduction.*
 
 # Miami University: Privacy Statement
 
@@ -100,12 +100,11 @@
 > If you have questions about this Privacy Statement, or if you find Miami Web pages that do not adhere to this statement, please e-mail us at [infoprivacy@muohio.edu](mailto:infoprivacy@muohio.edu).
 
 |   
-| |   
+|  |   
 ---|---  
 [](https://web.archive.org/)  
 [](http://netapps.muohio.edu/musearch/)  
 [](https://web.archive.org/sitemap/)  
 [](https://web.archive.org/contact_us/index.cfm)  
 [](http://www.miami.muohio.edu/news)  
-  
 [](https://web.archive.org/sports_and_events/index.cfm)
