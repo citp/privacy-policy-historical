@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006070808id_/http%3A//www.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2008-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080727004618id_/http%3A//www.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Corsair :: Privacy Policy
 
@@ -24,10 +24,6 @@ Corsair may sell or buy assets from or to other companies. Customer information 
 
 We may release information on customers and visitors to our website when we believe release is appropriate to comply with laws, to enforce or apply our terms of use or terms of agreements we have entered into, or to protect our rights and property.
 
-##  Correcting/Updating Information
-
-You have the right to correct/update the personal information collected about you at www.corsair.com. You can make changes to your personal profile at any time by going to the “Customer Sign In” page at our website. You will need your Logon ID (user name) and password in order to access your personal information. Alternatively, you can contact us via e-mail at privacy@corsair.com to request changes to your profile.
-
 ##  Changes to Privacy Policy
 
-Corsair reserves the right to change this Privacy Policy. Any changes in the policy will be posted directly on the Corsair website at www.corsair.com/privacy. In the event of a material change in Corsair’s data collection and handling practices, Corsair will inform those users who have provided an e-mail address via e-mail and will post a prominent notice on the website for 30 days.
+Corsair reserves the right to change this Privacy Policy. Any changes in the policy will be posted directly on the Corsair website at http://www.corsair.com/privacy_policy.aspx. In the event of a material change in Corsair’s data collection and handling practices, Corsair will inform those users who have provided an e-mail address via e-mail and will post a prominent notice on the website for 30 days.
