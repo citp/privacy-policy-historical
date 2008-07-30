@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba-india.com privacy policy that was archived on 2008-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080310082116id_/http%3A//www.toshiba-india.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-india.com privacy policy that was archived on 2008-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080730040238id_/http%3A//www.toshiba-india.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
