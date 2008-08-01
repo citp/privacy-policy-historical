@@ -1,135 +1,189 @@
-> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627080534id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2008-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080801174909id_/http%3A//www.residentevil.com/5/privacy_us.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**
+# Capcom Privacy Policy
 
 [](http://www.esrb.org/confirm/capcom-confirmation.jsp)
 
-**
+**CAPCOM USA ONLINE PRIVACY STATEMENT**
 
-**Capcom** **USA** **'s** **Online Privacy Policy**
+Last updated December 20, 2007
 
-Capcom USA and its subsidiaries (collectively, "Capcom USA " or "Capcom")  
-respect the privacy rights of our online visitors and are committed to protecting  
-the information collected from you.  To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, use, and disclose the information you provide to Capcom online. 
+Welcome to Capcom USA!
 
-This Privacy Policy Statement and the certification seal located on this page confirms that Capcom is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/).  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+**OUR PRIVACY COMMITMENT**
 
-Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:  
+Capcom U.S.A., Inc., Capcom Entertainment, Inc. and Capcom Studio 8, Inc. (collectively, "Capcom USA" or "Capcom") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-·        The websites and information covered by this Privacy Policy;
+This certification seal shown on this page confirms that Capcom USA is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
 
-·        Exactly what information may be collected and how it will be used;
+**TABLE OF CONTENTS**
 
-·        The consequences, if any, resulting from your refusal to provide personal information;
+**Q1.**What information does this Privacy Statement cover?  
+**Q2.**What types of personally identifiable information do we collect about our guests?  
+**Q3.**How is your personally identifiable information used and shared?  
+**Q4.**What choices do you have about the collection, use, and sharing of your personally identifiable information?  
+**Q5.**What kinds of security measures do we take to safeguard your personally identifiable information?  
+**Q6.**How can you update your personal information and profile?  
+**Q7.**How can you ask questions, or send us comments, about this Privacy Policy?  
+**Q8.**How will you know if we amend this Privacy Policy?
 
-·        Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information;
+**What information does this Privacy Statement cover?**
 
-·        Who, if anyone, is collecting your personal information;
+This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Capcom USA through any other means.
 
-·        With whom, if anyone, is your personal information shared;
+This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
 
-·        What is a company's policy regarding links to third party sites;
+Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Capcom USA offline. This Privacy Policy applies only to websites maintained by Capcom USA, and not to Capcom Interactive, Inc. (www.capcommobile.com), or to our international affiliates (Capcom Asia, Capcom Europe, Capcom Japan), or any websites maintained by other companies or organizations to which we link. Capcom USA is therefore not responsible for the content or activities provided on those websites.
 
-·        What choices you have with regard to the use of your personal information;
+Finally, the terms of this Privacy Policy are subject to all applicable laws. 
 
-·        How you can access, and if necessary, change the personal information a company collects and maintains;
+**What types of personally identifiable information do we collect about our guests?**
 
-·        Whether and how information is collected from children under 13;
+We don't require personal information to access our website. But if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you.
 
-·        How a company ensures data security, quality, and integrity;
+**Children**
 
-·        Where and how to ask questions or file complaints. 
+We don't knowingly collect personal information from children under 13. We take kids privacy seriously, and encourage parents to play an active role in their children's online experience at all times.
 
-This Privacy Policy currently applies to the following website operated by Capcom: 
+**Information You Provide to Us**
 
-[ www.capcom.com/games_main.xpml](http://www.capcom.com/games_main.xpml)
+All of the personal information we receive comes directly from our guests. To offer our guests certain features on our website, we collect several types of personal information. We collect personal information from our guests to:
 
-In addition, Capcom may own several other domain names that point to the website listed above.  From time to time, we may add new sites and will take reasonable steps to update the list. 
+>   1. Register for our website
+>   
+> 
+>   2. Register for community forum
+>   
+> 
+>   3. Register for our newsletter
+>   
+> 
+>   4. Use "Tell-a-Friend" features
+>   
+> 
+>   5. Purchase a product at one of our online stores
+>   
+> 
+>   6. Participate in contests, sweepstakes, or other promotions
+>   
+> 
+>   7. Receive customer or technical support
+> 
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the websites listed above, and does not apply to information that may be collected by Capcom offline.  In addition, this Privacy Policy applies to Capcom USA only, and not to our international affiliates (Capcom Asia, Capcom Europe, and Capcom Japan ).  When you link to these foreign sites or to any other sites from a website operated by Capcom USA (as listed above), this Privacy Policy no longer applies. 
 
-Top
+Typically, this information includes:
 
-In order to give you the best experience on our sites, Capcom may collect information about you, but only if you voluntarily provide it to us.  Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) Capcom registration; (2) community forum registration; (3) purchase of a product or service at our online store;(4) tell-a-friend feature; and/or, (5) personal information submitted in a business capacity (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below. 
+>   1. name
+>   
+> 
+>   2. e-mail address
+>   
+> 
+>   3. telephone and fax number
+>   
+> 
+>   4. shipping and billing address, and
+>   
+> 
+>   5. for those purchasing products online, credit card information.
+>   
+>  
 
-To register on one of our websites, we may ask you to provide personal information such as your name and email address, and demographic information such as your date of birth.  The information that you submit during registration will be used to: (a) enter your name into our monthly raffles and other promotional giveaways; (b) allow you to participate in certain activities and features offered exclusively to registered users (e.g., game-specific events); and, (c) send you a free subscription to our quarterly newsletter, which will keep you informed about upcoming releases, special new offers, and other events or opportunities that we believe you'd be interested in.  You must be 13 years old or older to register. 
 
-Before you can post messages on our message board, we require that you become a registered user.  Typically, this may involve submitting to us personal information such as your email address and full name, and creating a desired username and password.  We may also request and collect demographic information about you, including your gender, occupation, home page URL, the city, state and country in which you live, and other preferences; and, combine such information with your personal information.  The personal and demographic information that you submit to us during this process will allow you to post messages and will be used to tailor your message board experience to your preferences.  To simply read messages posted on our bulletin board, you do not need to register.  However, you must be at least 13 years old to post or even read any messages. 
+Additionally, we may also collect other types of non-personal information (known as demographic information) such as your age or date of birth, gender, hobbies, occupation, marital status, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
 
-The ability to participate in the community forums by simply logging in is available to only those Web users that have already created a password during an earlier visit to the message board registration area of a Capcom USA website. To login as a registered user, we may ask you to submit your username and password. This information is collected so that you can access and participate in the message board without having to reregister. 
+**Information Collected Through Technology**
 
-Please note that whenever you give out personal information in public areas such as on our community forums, that information can be collected and used by people you don't know.  While we strive to protect those who wish to participate in these forums, we cannot guarantee the security of any information you post in these areas.  When you register to use our message board, you have the option to make your email address inaccessible to other viewers or users of the message board. 
+We collect information through technology to make our websites more interesting and useful to you. For example, when you come to one of our websites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet Service Provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites.
 
-Visitors purchasing goods or services at our online store will need to provide a valid credit card number and expiration date, in addition to name, mailing and billing addresses, phone number and e-mail address. We may also ask you to create a login name and password so that when you return to our website, you can easily retrieve your shopping cart by logging in. 
+**Cookies**
 
-This feature will allow you to send an e-card or web page from our website to a friend. To make this feature work, we typically ask for your name and e-mail address and the name and e-mail address of the recipient. This information is collected solely for the purpose of forwarding your message to persons you choose and is deleted once the message has been sent. 
+Our websites also use cookies. Cookies are pieces of information that a website sends to your computer while you are viewing the website. We and other companies use cookies for a variety of purposes. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is sent, or you can choose to turn off all cookies. You can do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
 
-## §         _Resumes_
+Finally, once you've clicked on an advertisement or a third party and have left our websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser/third party to see how your personal information will be handled on their website. 
 
-Capcom may provide on its websites an email address that visitors can use to send us their resumes. Personal information collected from resumes will be used for the purpose of accepting and evaluating candidate submissions for job postings and may therefore be shared within our company.  Other than as explained above, this Privacy Policy does not apply to personal information gathered through resumes. 
+**How is your personally identifiable information used and shared?**
 
-Unless noted otherwise, we may also use your personal and demographic information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs. 
+Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. 
+**Capcom USA Activities and Updates**
 
-Top
+Information collected from those who voluntarily submit it to us is used to provide services like newsletter subscription, updates on special events, game news, and e-mail announcements of interest to our users. Moreover, if you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. You should understand, however, that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. So whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
 
-If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our websites and may considerably limit the services we can provide you.  For example, if you refuse to provide your email address to us, you will not be able to use our message boards or enter any of our raffles.  To simply use our websites, however, you do not need to give us any personal information. 
+**Operational Uses**
 
-Top
+We may also use your personal information for other purposes such as "Operational Uses." For example, we may use your information to send you administrative communications either about your account with us or about features of our websites.
 
-_Cookies_
+We occasionally employ other companies to perform services necessary to our internal operations. For example, we have partnered with other companies to personalize our web pages, process credit card transactions, analyze customers' interaction with our website, and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. While providing their services, these companies may access your personally identifying information. These companies have agreed to securely store and maintain the personal information received from us.
 
-Capcom may use cookies on its websites.  A "cookie" is a small bit of record-keeping information that websites often store on a user's computer. Cookies do not include people's names, e-mail addresses, or other information that is personally identifiable; they are used only to identify the computer.  The use of cookies is standard on the Internet and many major websites use them.  You can, however, set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it.  To purchase online, however, you must accept cookies. 
+**Aggregate Information**
 
-_IP Addresses_
+Finally, we may take your personally identifiable information and make it non-personally identifiable. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (e.g., your name) that make the information personally identifiable to you. This process is known as de-personalizing your information. Given the non-personal nature of this information, no restrictions apply under this Privacy Policy on our right to de-personalize your personal information. We may use de-personalized information in any way and share it with third parties without your consent.
 
-We do not keep track of Internet Protocol (IP) addresses.  An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. __
+**Business Information**
 
-Top
+For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes) may be shared with third parties, depending on the nature of the inquiry.
 
-The information that you disclose while visiting any of our websites is collected by Capcom USA , and is used in the manner specified above. ****
+**Purchase or Sale of Businesses**
 
-Capcom may share your personal information with our parent, subsidiary, or affiliate companies for purposes of internal marketing and demographic studies, which help us improve and tailor the products and services we provide you.  
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same way required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
-We may also disclose personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of Capcom, our customers, or the public.   
+**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
 
-In addition, information about our customers, including personal information, may be disclosed to a third party as part of any bankruptcy, merger, sale, transfer of company assets, acquisition, or similar event.  We will require any such third party to agree to maintain the confidentiality, security, and integrity of any personal information transferred or shared for this purpose. 
+We will disclose personal information when we believe in good faith that disclosure is required by law (e.g., court order or subpoena) or help enforce:
 
-Top
+>   * our Terms of Use, contest, sweepstakes, promotions, or game rules;
+>   
+> 
+>   * protect your safety or security, including the safety and security of your property; or
+>   
+> 
+>   * protect the safety and security of our websites or third parties.
+>   
+>  
 
-You should be aware that while you are on a website operated by Capcom, you may be directed to other sites that are beyond our control and for which we are not responsible.  Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
 
-If you no longer wish to receive our newsletter or information about our products and services, you can opt-out from receiving such communications by selecting the unsubscribe link at the bottom of the newsletter email or by sending a remove request to [megamail@capcom.com](mailto:megamail@capcom.com).  Alternatively, you may call us at (408) 774-0400.  We will be happy to honor your request. 
+**What choices do you have about the collection, use, and sharing of your personally identifiable information?**
 
-Top
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please write us: 
 
-If you have registered to use the message board on one of our sites and wish to update your profile, you may do so online by clicking on "Create/Edit Profile" from the Capcom Community section of the website at which you registered.  You may be required to submit your login name and password before you can access and/or update your profile. 
+Capcom USA  
+Attn.: Privacy Policy Administrator  
+800 Concar Drive, Suite 300  
+San Mateo, CA 94402  
+(650) 350-6500  
+[privacy@capcom.com](mailto:privacy@capcom.com)
 
-If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us by phone at (408) 774-0400, via email at [megamail@capcom.com](mailto:megamail@capcom.com), or by regular mail at: Customer Service , Capcom, 475 Oakmead Parkway, Sunnyvale, CA 94085. ****
+**What kinds of security measures do we take to safeguard your personally identifiable information?**
 
-Top
+The security and confidentiality of your information is extremely important to us. That's why we have technical, administrative, and physical security measures in place to protect your personal information from unauthorized access and improper use. We also review our security procedures periodically to consider appropriate new technology and updated methods. But, despite our best efforts, no security measure is ever perfect or impenetrable. 
 
-We do not knowingly collect personal information from children 12 years old and under.  A user who indicates that he or she is 12 years old or younger will not be allowed to register. 
+**How can you update your personal information and profile?**
 
-From time to time, certain portions of our websites may allow children under 13 to submit personal information such as their email address without first telling us their age or getting their parent’s permission.  Such portions of our sites operate activities or provide services in a way that does not require prior parental consent under the law.  
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [accounts@capcom.com](mailto:accounts@capcom.com). 
 
-We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly. 
+**How can you ask questions, or send us comments, about this Privacy Policy?**
 
-Top
+If you have questions or wish to send us comments about this Privacy Policy, please contact us with questions or comments at:
 
-Capcom maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect.  Personal information collected by Capcom is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees.  We also have security measures in place to protect the loss, misuse and alteration of the information under our control (i.e., maintain data quality).  Before we allow web users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password. 
+> Capcom USA  
+>  Attn.: Privacy Policy Administrator  
+>  800 Concar Drive, Suite 300  
+>  San Mateo, CA 94402  
+>  (650) 350-6500  
+>  [privacy@capcom.com](mailto:privacy@capcom.com)
 
-Top
+Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact Capcom by phone at (408) 774-0400, via email at [megamail@capcom.com](mailto:megamail@capcom.com), or by regular mail at: Customer Service , Capcom, 475 Oakmead Parkway , Sunnyvale , CA 94085 .
+Capcom USA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>
 
-Top
+> ESRB  
+>  Attn.: Privacy Online Program  
+>  317 Madison Avenue, 22nd Floor  
+>  New York, NY 10017  
+>  (212) 759-0700  
+>  [privacy@esrb.org](mailto:privacy@esrb.org)
 
-You can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor , New York , NY 10017 . 
+**How will you know if we amend this Privacy Policy?**
 
-_By using a website operated by Capcom_ _USA_ _,_ _you signify your assent to Capcom_ _USA_ _'s Online Privacy Policy.   If you do not agree to this Privacy Policy, please do not use this site.  We reserve the right to make changes to this Privacy Policy.  Please check back from time to time to ensure that you aware of these changes.  Your continued use of this site will signify your acceptance of these changes.  If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy, and if necessary, give you additional choices regarding such change._
-
-Updated 5/17/04
+We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
