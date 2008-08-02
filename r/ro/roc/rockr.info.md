@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockr.info privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617123835id_/http%3A//www.rockr.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockr.info privacy policy that was archived on 2008-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080802222549id_/http%3A//www.rockr.info/privacy.php) for the most accurate reproduction.*
 
 # free hosting services
 
@@ -37,5 +37,5 @@ CONTACTING THE WEBSITE
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at The support system in your control panel 
 
-[click here to sign up for free hosting](https://web.archive.org/web/20080617123835id_/http%3A//www.rockr.info/signup.php)  
+[click here to sign up for free hosting](https://web.archive.org/web/20080802222549id_/http%3A//www.rockr.info/signup.php)  
 
