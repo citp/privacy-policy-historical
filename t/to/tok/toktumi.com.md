@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010932id_/http%3A//toktumi.amazonwebstore.com/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803214115id_/http%3A//toktumi.amazonwebstore.com/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toktumi
 
