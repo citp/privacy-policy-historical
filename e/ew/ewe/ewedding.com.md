@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509183906id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807173544id_/http%3A//ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -57,12 +57,12 @@ You may opt out of any eWedding.com e-mails containg newly added features, news 
 
 If you have any questions, comments or concerns with the privacy of your information collected by Launchpad Web Development, please contact us with the info at the top of this page.
 
-> This site has been a great resource and such a huge help! We have so many family and friends out of state and we've been able to give them all information and keep them as updated as we can! Most of our bridesmaids and groomsmen are scattered throughout the US so it has been really helpful to put pictures up of everyone so they will all know who is who when the meet in person. Our families and friends all love the site and are constantly checking it and complimenting us on it. I would definitely tell others to use this...it's easy to set up and maintain and helps us from having to answer the same questions over and over again! THANK YOU 
+> This is in the top 3 most excited things we have done towards the planning of our wedding!!!!! It is so cool that we can use this incredible website as a tool to keep our friends and family informed as well a great way for us to to share our love with everyone, too. 
 > 
-> Valerie and Marc  
-> Seattle, WA
+> Josh and Carolina  
+> Miami, Florida
 
-[Visit our wedding website](http://www.marcandvalerie.com/)  
+[Visit our wedding website](http://www.joshandcarolina.com/)  
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
 
 #### Website Features
