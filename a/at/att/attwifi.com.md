@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attwifi.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616172323id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attwifi.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807162347id_/http%3A//www.att.com/privacy_policy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
