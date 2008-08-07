@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qandas.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512110021id_/http%3A//www.qandas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qandas.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807114610id_/http%3A//www.qandas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Featured Q&As
 
