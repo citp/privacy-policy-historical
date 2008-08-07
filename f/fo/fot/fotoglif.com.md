@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoglif.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611050331id_/http%3A//fotoglif.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoglif.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807130832id_/http%3A//fotoglif.com/privacy) for the most accurate reproduction.*
 
 # fOTOGLIF : High Resolution Interactive Photographs : Upload an unlimited amount of photos to share
 
