@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705121023id_/http%3A//www.returnpath.com/company/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807160626id_/http%3A//returnpath.com/privacy/privacy_returnpath.php) for the most accurate reproduction.*
 
-# Return Path Solutions for Increased Email Delivery, Performance
+# Return Path
 
-| 
+---  
+  
+1/30/2020 
 
-**Download our Glossary of Email Terms:**
+|   
+  
+## Introduction:
 
-|  | 
+We know that your privacy is important to you. At Return Path, we're committed to helping you understand how we manage and protect it. We take privacy seriously, and have taken many steps to help safeguard the information we collect and manage for you.
 
-**Effective December 2003  
-RETURN PATH PRIVACY STATEMENT**
+This privacy policy is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used. 
 
-We know that your privacy is important to you. At Return Path, we're  
-committed to helping you manage and protect it. We take privacy very  
-seriously, and have taken many steps to help safeguard the personal  
-information we collect from you at this Web site.
+If you have questions or concerns regarding this policy, you may contact the Return Path Privacy Office at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net). If you have any Customer Service issues, please contact [support@returnpath.net](mailto:support@returnpath.net). 
 
-If you have questions or concerns regarding this statement, you should  
-contact Return Path at [privacy@returnpath.net](mailto:privacy@returnpath.net "Contact us"). Our privacy statement  
-will tell you about:
+Our privacy policy will tell you about:
 
-  * The organization collecting information at this Web site. 
-  * The information we collect. 
-  * With whom it may be shared. 
-  * The security procedures in place to protect it. 
+  * The organization collecting information at this Website 
+  * The Information we Collect and Use 
+  * Information Sharing and Disclosure 
+  * Communications From the Site 
+  * Choice/Opt-out 
+  * Security and Information Protection 
+  * Privacy Policy for Children 
+  * Changes to this Policy 
 
 
 
@@ -31,104 +33,97 @@ Thank you for using Return Path.
 
 Sincerely,  
 Matt Blumberg, CEO  
-Tom Bartel, CPO 
+Tom Bartel, CPO
 
-**RETURN PATH PRIVACY STATEMENT**  
+## The organization collecting information at this Website:
 
+[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20080807160626id_/http%3A//returnpath.com/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
 
-Protecting your privacy is very important to Return Path. We offer services that help consumers manage their email relationships with personal and commercial contacts. We know that you're concerned with privacy on the Internet, and we've taken many steps to help safeguard your information.
+## The Information We Collect and Use:
 
-This privacy statement is provided to inform you of our privacy policy and practices and of the choices you can make about the way your personal information is collected online and how that information is used. By personal information we mean information about you collected through this Web site, including your name, email addresses, home or work addresses, or any other information combined with these identifiers.
+By information we mean information about you collected through our website(s), including your email address and other information you provide to us by registering for our services or making requests for information about our services. Any information provided to us will be retained and used solely for the purposes of fulfilling your request for information, fulfilling a request through a Site feature, performing and carrying out the terms of the Service, or communicating with you as a member of Return Path services.
 
-**The organization collecting information at this Web site:**  
-Return Path collects personal information about you when you sign-up for Return Path's email change of address service, email forwarding service, or contact management service, or when you sign up for special promotions offered on our Web site, or when you use our email finder service. We collect this information either directly at our Web site, [www.returnpath.net](http://www.returnpath.net/), or through a co-registration page at a partner Web site, or through a pop-up window deployed on a partner Web site. We may combine the information about you that we collect with information we obtain from business partners or other companies. 
+### Aggregate Information
 
-**Information we collect:**  
-Return Path asks you for information that enables us to provide the services you wish to use.
+From time to time, we may collect general, non-personal, statistical information about the use of the Site and the Service, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they "click" on. We collect this information through the use of technologies such as "cookies" and "IP addresses", which are discussed in greater detail below. We may also group this information into aggregate visitor data in order to describe the use of the Site and Service to our existing or potential business partners or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you, other list members or any other visitors to the Site.
 
-  * This information may include your old email address, your new email address, your name, or your residential or work address. 
-  * If you wish to use Return Path Email Forwarding we will ask you to provide us with the password for your old email account. Your email password is necessary for Return Path to access and re-route email from your old email account to your new email account. We may also ask you to provide a valid credit card number and expiration date so we can authenticate your identity prior to activating the email forwarding service and for billing purposes. 
-  * Return Path collects information about your interactions with our services and our Web site, including the date and time you submit your registration for our services, as well as other administrative information that helps Return Path prevent people from misusing our system. 
-  * If you choose to send an email notification card to friends, family and business contacts informing them of your email address change, Return Path will collect the email addresses of the intended recipients, and if you choose to include such information, a brief, personal message. To facilitate the use of Return Path email address change notification cards, you may upload your email address book from your old email account. Return Path will not use the recipients' email addresses other than to deliver a notification card (although the recipients may be presented with an opportunity to register with Return Path themselves). 
-  * If a user elects to use our referral service for informing a friend about our site, we ask him for the friend's email address. Return Path will automatically send the friend a one-time email inviting him to visit the site. Return Path stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact [Return Path Support](http://returnpath.custhelp.com/) to request the suppression of this information in our database. 
-  * If you are using Return Path Email Finder to look for someone, we will ask you for your first and last name, as well as the last known email address for the person you are seeking. We request your first and last name to identify you to the individual whose email address you are seeking. 
+### IP Addresses
 
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. Web servers, the computers that "serve" web pages, automatically identify your computer by its IP address. Company collects IP addresses for purposes of system administration, to report aggregate information to third parties and to track the use of the Site. When visitors request pages from the Site or click on a link in a mailing sent through the Service our servers log the visitors' IP addresses. We reserve the right to use IP addresses to identify a visitor or list member when it will enhance the users experience or if we feel it is necessary to enforce compliance with the Site's policies or to protect Company, the Site, its visitors, the Service, our Internet Service Provider partners, the list members or others.
 
+### Cookies
 
-**How we use this information:**  
-Return Path uses the collected information for the following general purposes: to fulfill the services you have requested, inform you of your account activity, customize the services or content you receive, contact you, improve our services, conduct research, and provide anonymous reporting for internal and external clients. Return Path treats your personal information as confidential and does not disclose it or use it except as permitted by you, as described in this privacy policy, or as required by law, subpoena, court order, legal process or a warrant.
+Cookies are pieces of information that a websites transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you're at the Site. The use of cookies is an industry standard -- you'll find them at most websites. They are not used to store personal information, or to retain historical or transactional subscriber data. By showing how and when visitors use the Site, cookies help us see which areas are popular and which are not. Information such as the total number of visitors and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Site and to tailor our services to our visitors' needs. 
 
-  * When you register with Return Path, we send out confirmation emails to both your old and new email addresses. We do this to validate your registration and to help prevent people from misusing our service. Our confirmation emails provide instructions on how to activate your registration, or cancel it as appropriate. 
-  * Return Path, on occasion, surveys selected users regarding their use of email and our services, as well as their interests and/or preferences so that we may continue to enhance our services to best serve all our customers. Should we ask you to participate in one of these surveys, your participation is completely at your option. 
-  * Your new email address serves as your account log-in ID. You should use a new email address that only you have access to for this purpose, if at all possible, to reduce the risk of someone misusing your Return Path account. 
-  * If we are served with a civil subpoena seeking personal information about a Return Path user, we will use reasonable efforts to notify the specified user of the request prior to disclosure of such personal information, so as to allow the user the opportunity to oppose the subpoena. 
-  * Return Path may engage third parties to perform analysis or data processing of our databases that involves access to your personal information, in order to better provide you with the services for which you joined. If Return Path does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than is necessary to perform their work for Return Path. 
-  * If you register with Return Path, you give Return Path permission to use the information we have told you we collect here, for the purposes we have stated here, according to the options you indicate through the Return Path emails and on our Web site. 
+You always have the option of disabling cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Site will not function properly or may be slower if you refuse cookies.
 
+### Clear Gifs (Web Beacons / Web Bugs)
 
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly in HTML files and are about the size of the period at the end of this sentence.
 
-**Information we share:**
+We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
 
-  * Return Path maintains a directory of email address changes to help you regain contact with businesses and individuals with whom you have a previous email relationship. Once you register with Return Path, you decide who gets access to your information. Individuals who have lost contact with you at an old email address may request your updated email address. Alternatively, businesses may send us a list of email addresses in an attempt to re-contact customers or subscribers whose email addresses may have changed. Return Path will notify you each time an individual or business requests your updated email address, providing you with seven days to decline the request. If after seven days you have not declined the request, the request will be considered approved by you, and your email address will be provided to the requester, whose use of your new email address will be covered by their privacy policy. Return Path only works with businesses that practice permission marketing. If you are concerned about the privacy practices of a business that has requested your new email address using the Return Path service, please notify us at Return Path Privacy at [privacy@returnpath.net](mailto:privacy@returnpath.net). 
-  * If you choose to use Return Path's optional, fee-based, email forwarding service, we will collect email sent to your old email address, re-address the email, and forward it to your new email address. Your old email account must be active while using this service. In addition, Return Path sends an automatic reply email message to the email sender indicating that the email message has been forwarded. This message contains a link to the Return Path Email Finder Directory, where the sender can submit a request for your new email address. Return Path will send you an email message requesting that you approve the request. Return Path will only provide your new email address to the sender if you click the acceptance link in the request message. 
-  * As part of the Return Path email forwarding service, emails sent to your old email account that are subsequently forwarded to your new email account will be deleted from your old email account. The Return Path email forwarding service deletes these old email copies to prevent the inbox of your old email account from running out of space. 
-  * Return Path may gather information about the email traffic of customers including the number and size of messages received, the domain name and address of the email sender, and the number and size of email attachments. 
-  * Return Path uses a widely available "spam" filtering application to limit the amount of unsolicited commercial email that is transmitted through the Return Path email forwarding service. This spam filtering application will automatically scan the email message for specific words or phrases. Messages deemed to be spam will not be forwarded. 
-  * As needed to provide the service, Return Path will temporarily store messages for a short time. When messages are received they are stored in a queue for processing. Once messages are delivered to the final destination at your new ISP, the messages are deleted. Return Path will not read or disclose to third parties private email communications that are transmitted using Return Path services except as required to operate the service or as otherwise authorized by law. 
-  * If you choose to send an email greeting card to notify others of your email address change, Return Path will share your first name, last name, and email address with the recipients of the greeting card. Return Path will not use the recipients' names or email addresses other than to deliver the greeting card (although the recipients may be presented with an opportunity to register for Return Path's free email change of address service). 
+### Profile
 
+We store information that we collect through cookies and clear gifs to create a "profile" of your preferences. We tie your personal information to information in the profile to provide tailored promotions and marketing offers or to improve the content of the Site for you.
 
+We do not share your profile with other third parties.
 
-**Our use of cookies:**  
-A "cookie" is a small data file transferred by a Web site to your computer's hard drive. Return Path sends cookies when you surf our site or register for certain services. Accepting cookies used on our Web site does not give Return Path access to your personal information, but we may use the cookies to identify your computer. Cookies are typically classified as either "session" cookies or "permanent" cookies.
+## Information Sharing and Disclosure:
 
-"Session" cookies do not stay on your computer after you leave our Web site or close your browser. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. 
+Except for the limited situations listed here in this Privacy Policy, we will not share your personal information with third parties. 
 
-"Permanent" cookies are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a log-in is required. "Permanent" cookies can be manually removed by the user. 
+### Agents and Third Party Service Providers
 
-Currently Return Path only uses session cookies.
+To provide the Service to you, we may sometimes use other businesses to perform certain specialized services such as data processing or other technology services. In such instances, we may provide your personal information to those businesses but they are not permitted to retain or use your information for any other purpose.
 
-Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following Web sites:
+### Change of Control / Asset Transfer
 
-Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>  
-Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.html>
+As the Company develops we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by, merged with, or sold to a third party, or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control. In the event of such a corporate change in control affecting all or parts of our business assets our users will be notified in accordance with the "Changes to this Policy" section of the policy if their personal information is provided to the new controlling party.
 
-**Our use of web beacons:**  
-Some Return Path Web pages, banner ads and HTML-formatted email newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1), an action tag or a clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and whether the visitor is using an email reader that understands HTML email messages. This information helps us understand and improve the effectiveness of our web-based communications. You may render some Web beacons unusable by rejecting their associated cookies.
+### Legal Compliance
 
-**Our use of third party media companies:**  
-We may display advertisements from third parties. Third-party ad-serving companies control which ads are shown. These ad-serving companies may use their own cookies to collect non-personally identifiable information from you. Some Return Path email newsletters may also be delivered on Return Path's behalf by third party media companies that use the same technologies. In either case, this data is used by the third party media companies to measure advertising and content interest and relevance. To prevent third party media companies from placing cookies on your computer, you will need to visit each media company's Web site and use their cookie removal process or set your browser cookie filter accordingly.
+Company reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Company's rights or property, other visitors, list members, or anyone else that could be harmed by such activities. Company also reserves the right to disclose visitor or list member information when we believe in good faith that the law requires it.
 
-**Your choices:**  
-As a Return Path member, you have access to, and appropriate control over, the data that Return Path maintains about you. We provide you with easy access to the information maintained about you in the Return Path database in a format that is easy to understand. 
+## Communications From the Site:
 
-To revise or edit your personally identifiable information, simply go to My Account on the Return Path Web site. Use your new email address as your log-in ID. Return Path, upon recognizing your valid log-in ID, will send an email to your new email address containing the link for access to My Account. Requests for deletion of certain key information, such as email address, may require closing the account.
+### Customer Service
 
-Most requests for access to personal data are processed within seconds of being made through the Return Path Web interface. Some requests may take up to a few days to process, and the results may be delivered by email. Any other questions should be addressed to [Return Path Support](http://returnpath.custhelp.com/). Information about a member may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation.
+Based upon the information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We may communicate with you by email or telephone.
 
-**To Unsubscribe:**  
-If you decide that you do not wish to participate in our service, you can unsubscribe by clicking on the link provided in any email message Return Path sends you and following the directions provided. Additionally, you can remove your account information directly from the Return Path Web site by going to My Account, after logging in, and clicking the link marked "Remove Old Addresses". Or you may contact [Return Path Support](http://returnpath.custhelp.com/).
+### Newsletters and Promotions
 
-**Security Safeguards:**  
-Return Path is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Return Path has in place appropriate physical and managerial procedures to safeguard the information we collect. We hold our employees and partners accountable for maintaining the privacy and integrity of our users' information.
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, we will use your name and email address to communicate with you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
-Return Path may engage employees, contractors, and other companies to perform work that involves access to personal information. If Return Path does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for Return Path.
+## Choice/Opt-out:
 
-We use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data such as credit card information. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window.
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
 
-To access the information Return Path holds about you, use your new email address as your log-in ID. Return Path, upon recognizing your valid log-in ID will send an email to your new email address, containing the link for access to My Account. If you allow others to have access to your new email address box--that is, allow them to access and read your email--they may be able to gain access to your Return Path account. To maintain the highest level of security for your Return Path account, you should not provide others with access to your email address box.
+## Security and Information Protection:
 
-**Children's Privacy:**  
-Return Path is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Return Path does not knowingly collect information from children under the age of 13 and Return Path does not target its Web sites to children under 13. 
+The security of your information is important to us. When you enter sensitive information (such as a credit card number) on our payment forms, we encrypt that information using Secure Socket Layer (SSL) technology.
 
-**Business Transfers or Bankruptcy:**  
-As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. In the unlikely event that Return Path or substantially all of its assets are acquired, customer information will be one of the transferred assets. Return Path users will be notified of such business transfer or bankruptcy and be given the opportunity to opt-out of any such transfer. For more information see the "Notification of Changes" section below.
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-**Notification of Changes:**  
-If there are changes to the terms of Return Path's Privacy Statement, we will post those changes and update the revision date in this document on Return Path's Web site prior to implementing those changes, so you will always know what information we collect online, how we use it, and what choices you have. For material changes to this Statement, Return Path will post an announcement on our site and provide email notification to affected customers. The foregoing policy is effective as of June 2003.
+### Firewalls
 
-**Contacting us:**  
-We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacy@returnpath.net](mailto:privacy@returnpath.net), or contact:
+Protecting the security of your personal information is very important to us. When we store information that you have provided to us when registering for the Service, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors) and other tools such as data encryption and physical security, where appropriate. Unfortunately, no data transmission over the Internet or data repository can be guaranteed to be 100% secure. As a result, while Company strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
+
+### Links to other sites
+
+Please be aware that when you are on the Site, or when you receive an email message from us through the Service, you could be directed to other sites that are beyond our control. There may be links to other sites from the Site's pages or from the email message we send to you that take you outside our Site. These other sites may send their own cookies to visitors, collect data, or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. Note that when you link to a third party site from the Site, you may see pre-populated data fields with your personal information; however, that information is not available to the third party unless you take certain actions on the third party's site, such as submitting a form
+
+## Privacy Policy for Children:
+
+We do not knowingly collect information from children under the age of 13 on the Site or through the Service. If you are under the age of 13, please do not provide any information to us. If we become aware that we have collected information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database. 
+
+## Changes to this Policy:
+
+The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Effective" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes. 
+
+## Contacting us:
+
+We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net), or contact:
 
 Return Path, Inc.  
 304 Park Avenue South, 7th Floor  
@@ -136,5 +131,6 @@ New York, New York 10010
 Phone: 212-905-5500  
 Fax: 212-905-5501
 
-[Company](https://web.archive.org/company/) | [Delivery Assurance ](http://www.senderscore.com/) | [Email List Quality](https://web.archive.org/listquality/) | [Customer Acquisition](http://www.postmasternetwork.net/) | [Strategic Solutions ](https://web.archive.org/strategic/) | [Client Login](https://web.archive.org/login/)  
-Copyright 2000-2007 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
+For more information call 866-EMAILRP or email us at [rpinfo@returnpath.net](mailto:rpinfo@returnpath.net).
+
+  ©2008 Return Path, Inc. All Rights Reserved
