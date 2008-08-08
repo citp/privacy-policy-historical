@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907190822id_/http%3A//www.hotel.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2008-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080808142345id_/http%3A//www.hotel.com.au/privacy.asp) for the most accurate reproduction.*
 
 # About Hotel.com.au - Offering a wide choice of competitive rate hotels world wide
 
-Your Privacy
-
-If you would like to create, edit, or close a Newsletter or Mailing List account with Hotel.com.au [please click here](http://www.hotel.com.au/mailing_list/default.asp).
+If you would like to create or close a Newsletter service from Hotel.com.au please [subscribe here](http://www.hotel.com.au/subscribe.asp) and [unsubscribe here](http://www.hotel.com.au/unsubscribe.asp).
 
 Hotel.com.au is committed to ensuring our customers' privacy and security of all information collected. In accordance with the privacy legislation introduced on December 21, 2001, this Privacy & Security Policy outlines the information collection practices utilised by Hotel.com.au, how that information is used and the choices you can make about the way the information you provide to us is collected and used. " Our commitment to data security " The information we collect " How we use the information " Who we share your information with " Cookies " How to contact us 
 
@@ -40,5 +38,5 @@ We at Hotel.com.au work hard to provide our clients with the best possible rates
 How to contact us   
 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Hotel.com.au or would like more information, please contact us on [service@hotel.com.au](mailto:service@hotel.com.au)
 
-If you would like to create, edit, or close a Newsletter or Mailing List account with Hotel.com.au [please click here](http://www.hotel.com.au/mailing_list/default.asp).  
+If you would like to create or close a Newsletter service from Hotel.com.au please [subscribe here](http://www.hotel.com.au/subscribe.asp) and [unsubscribe here](http://www.hotel.com.au/unsubscribe.asp).  
 
