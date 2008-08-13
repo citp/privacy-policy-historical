@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045358id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2008-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080813065157id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.*
 
 # Washington Redskins
 
