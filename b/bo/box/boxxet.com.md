@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxxet.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624203331id_/http%3A//www.boxxet.com/corp/privacy.box) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxxet.com privacy policy that was archived on 2008-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080813224538id_/http%3A//www.boxxet.com/corp/privacy.do) for the most accurate reproduction.*
 
 # Boxxet Inc - Boxxet
 
@@ -25,3 +25,5 @@ Periodically, we may send email to you if you have indicated a preference to rec
 Boxxet reserves the right to modify all or some of this Privacy Policy at any time without notice. If we change our Privacy Policy, we will post a notice on our website so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise. 
 
 We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy.
+
+Do you publish a blog? If so, consider joining the [Boxxet Network](http://www.boxxet.com/corp/boxxet_network_introduction.do) and see your great content showcased and rewarded! [Learn more...](http://www.boxxet.com/corp/boxxet_network_introduction.do)
