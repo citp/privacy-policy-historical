@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609213421id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2008-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080814061024id_/http%3A//www.wilton.com/site/privacy.cfm) for the most accurate reproduction.*
 
-# Wilton
+# Privacy Policy
 
 _At Wilton, we are committed to protecting your privacy. We use the information we collect about you to process orders and to improve your Wilton Web site experience. Please read on for more details about our privacy policy._
 
@@ -14,7 +14,7 @@ Simply put, we use your information to serve you better. Wilton is committed to 
 To optimize your shopping experience we use a common Web browser feature called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. Some of them expire after a set period of time. Others expire as soon as you close your browser. Cookies help us keep track of items you order. 
 
 **Please take me off your mailing list.**  
-If, for any reason, you would like to be taken off our email list, go to [http://www.wilton.com/contact/optout.cfm](https://web.archive.org/contact/optout.cfm) and enter your email address.
+If, for any reason, you would like to be taken off our email list, go to [http://www.wilton.com/newsletter/optout.cfm](https://web.archive.org/newsletter/optout.cfm) and enter your email address.
 
 **How will I know when Wilton changes its privacy policy?**  
 Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. We reserve the right to change and update the privacy policy and these changes will be posted on our Web site. If we make a change to how we collect, store or share personally identifiable information we will update the Web site privacy policy accordingly. We encourage you to visit this page from time to time to ensure you are aware of any changes we may have made.
@@ -24,8 +24,7 @@ Thank you for visiting our website and for your interest in Wilton! We are conti
 
 If, despite our request that you not send us your unpatented ideas, you still send them, then regardless of what your letter says, the following terms shall apply to your submission. 
 
-You agree that:  
-
+You agree that:
 
   1. Your ideas will automatically become the property of Wilton, without compensation to you
   2. Wilton can use the ideas for any purpose and in any way, even give them to others
@@ -41,6 +40,3 @@ Wilton does, however, welcome your feedback regarding many areas of Wilton´s ex
 Any feedback you provide at this site shall be deemed to be non-confidential. Wilton shall be free to use such information on an unrestricted basis.
 
 This privacy policy was last modified on February 16, 2007. 
-
-  
-
