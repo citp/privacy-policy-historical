@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607222026id_/http%3A//www.vrbo.com/global/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2008-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080814131614id_/http%3A//www.vrbo.com/global/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - VRBO Vacation Rentals by Owner
 
