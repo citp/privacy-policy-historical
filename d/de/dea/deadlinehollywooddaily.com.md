@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadlinehollywooddaily.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010025id_/http%3A//www.laweekly.com/about-us/about-us/about-la-weekly-privacy-policy/12435) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadlinehollywooddaily.com privacy policy that was archived on 2008-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080818124616id_/http%3A//www.laweekly.com/about-us/about-us/about-la-weekly-privacy-policy/12435) for the most accurate reproduction.*
 
 # LA Weekly - About Us - About LA Weekly: Privacy Policy - Webmaster - The Essential Online Resource for Los Angeles
 
