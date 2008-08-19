@@ -1,354 +1,788 @@
-<!--The following is the downloaded HTML source of the aiu-online.com privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223141319id_/http%3A//www.aiuonline.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aiu-online.com privacy policy that was archived on 2008-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080820013152id_/http%3A//www.aiu-online.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="Templates/SecondaryPage_Default.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- InstanceBeginEditable name="meta tags include" -->
-<meta name="description" content="Learn about American InterContinental University (AIU) -- its mission, campuses, policies and academic programs.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    
+    
+        <title>American InterContinental University</title>
+        <meta name="description" content="American InterContinental University offers associate's, bachelor's and master's degrees, with emphasis on the fields of business administration, criminal justice, education, healthcare management, marketing, information technology and visual communication.">
+        <meta name="keywords" content="AIU, American InterContinental University, masters degree, bachelors degree, associates degree">
+    
 
-<meta name="keywords" content="american intercontinental university, aiu">
+    <meta name="robots" content="index,follow">
+    <link href="/Schools/AIU/reset_layout.css" rel="stylesheet" type="text/css">
+    <link href="/Schools/AIU/main.css" rel="stylesheet" type="text/css">
+    <link href="/Schools/AIU/SpryAccordion.css" rel="stylesheet" type="text/css">
+    <link href="/Schools/AIU/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+    
+	<!--[if lte IE 7]>
+    	<link href="/Schools/AIU/lte_ie6.css" rel="stylesheet" type="text/css" />
+     <![endif]-->
+    <script src="/Schools/AIU/functions.js" language="JavaScript" type="text/javascript"></script>
+    <script src="/Schools/AIU/swfobject.js" language="JavaScript" type="text/javascript"></script>
+    <script src="/Schools/AIU/SpryAccordion.js" type="text/javascript"></script>
+    <script src="/Schools/AIU/SpryTabbedPanels.js" type="text/javascript"></script>
+<script type="text/javascript">
 
-<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="doctitle" -->
+    var needValidate = false;
+    var defaultVal2 = "Type your question here and click Start Chat.";
 
-<title>American InterContinental University Online</title>
+    var pgname="";
 
-<!-- InstanceEndEditable -->
+    function  openchatwindow(windowName, act) {
 
-<!-- InstanceBeginEditable name="head" -->
+	    var res = true;
+        var cbForm = document.forms['aspnetForm'];
+        if (!cbForm) {
+            cbForm = document.aspnetForm;
+        }
+	    var msg = document.getElementById("lp_msgfield");
 
-<!-- InstanceEndEditable -->
-<link href="/includes_shared/main_pie.css" rel="stylesheet" type="text/css">
-<link href="/includes_shared/print.css" rel="stylesheet" type="text/css" media="print">
-<script language="JavaScript" src="/includes_shared/functions.js"></script>
-<script language="JavaScript" src="http://as00.estara.com/as/InitiateCall2.jsp?accountid=200106280367&amp;Template=19610"></script>
+	    if(needValidate){
+		    var validateMessage = "Before you start your chat, type in the following fields:\r\n ";
 
-<script type="text/javascript" src="http://as00.estara.com/as/InitiateCall2.php?accountid=200106280367&amp;Template=19610"></script>
+		    if(msg.value.length==0 || msg.value==defaultVal2 ){
+			    validateMessage += "Your Question\r\n";
+			    res=false;
+		    }
+
+		    if(res==false){
+			    alert(validateMessage);
+		    }
+
+	    }
+
+        var formurl = act;
+
+        if(formurl.indexOf('?')==-1)
+            formurl += '?';
+        var elemCol = cbForm.elements;
+        for(var ie=0; ie<elemCol.length; ie++){
+            var et = elemCol[ie].type;
+
+            if(et=="text" || et=="hidden" || et=="radio" || et=="textarea"){
+                if (elemCol[ie].name == 'cmd' || elemCol[ie].name == 'file' || elemCol[ie].name == 'site' || elemCol[ie].name == 'SESSIONVAR!survey_pre-chat_enable' || elemCol[ie].name == 'SESSIONVAR!source' || elemCol[ie].name == 'SESSIONVAR!skill' || elemCol[ie].name == 'imageUrl' || elemCol[ie].name == 'SESSIONVAR!message') {
+                    if (elemCol[ie].name == 'site') {
+                        formurl += elemCol[ie].name + "=" + escape(9420105) + "&" ;
+                    }else{ 
+                    	if (elemCol[ie].name == 'SESSIONVAR!skill') {
+                      		formurl += elemCol[ie].name + "=" + escape('chat') + "&" ;
+                    	}else{
+							formurl += elemCol[ie].name + "=" + escape(elemCol[ie].value) + "&" ;
+						}
+					}
+                }
+            }
+        }
 
 
-<!--[if IE]>
-<style type="text/css">
-/*** The rule below prevents long urls from widening floated cols and breaking the layout in IE. It is not W3C valid, but if placed within a "Conditional comment" it will be hidden from all user agents other than IE/Win, and thus validate. This fix fails in IE5/Win. http://msdn.microsoft.com/workshop/author/dhtml/overview/ccomment_ovw.asp ***/
-#PIE_outer{word-wrap:break-word;}
-</style>
-<![endif]-->
+	    if(res==true)
+		    window.open(formurl, windowName,'width=475,height=400,resizable=yes');
+        
+	    return false;
+    }
+
+    function  sbmtSrch(submittopage) {
+
+        var elem = document.getElementById('txtSearch');
+        if (elem == null){
+            elem = document.getElementsByName('txtSearch');
+        }
+        if (elem == null){
+            return (false);
+        }
+
+        var formURL = submittopage + '?q=' + elem.value;
+        window.location = formURL;
+        return (false);
+    }
+
+    function clickButton(e, buttonid){ 
+          var evt = e ? e : window.event;
+          var bt = document.getElementById(buttonid);
+          if (bt){ 
+              if (evt.keyCode == 13){ 
+                    bt.click(); 
+                    return false; 
+              } 
+          } 
+    }
+
+</script>
+	
+	
+	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-232351-1");
+	pageTracker._setCampSourceKey("code"); // source
+	pageTracker._setCampNameKey("siteid"); // name
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+
 
 </head>
-<body id="">
-<div id="PIE_fullheightcontainer">
-  <div id="PIE_wrapper">
-	<div id="PIE_outer">
-	  <div id="PIE_float-wrap">
-		<div id="PIE_center">
-		  <div id="PIE_clearheadercenter"></div>
-		  <div id="PIE_container-center">
-			<div id="contentModule">
-					
-					
-					
-					<!-- InstanceBeginEditable name="EditRegion_maincontent" -->
-          <h1>Privacy Statement</h1>
-<br>
-This and certain other linked web pages on servers owned by Career Education Corporation  (otherwise noted as the “Sites”) are owned and operated by Career Education Corporation and American InterContinental University.
-<br>
-<br>
-At  American InterContinental University, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: www.aiuonline.edu.
+<body id="htmlBody">
+<div id="entirecontainer">
+<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA0NzAzOTIxMQ9kFgJmD2QWAmYPZBYCAgMPZBYCAgEPZBYEZg9kFgICBw9kFgQCAQ8WAh4Dc3JjBYgBaHR0cHM6Ly9zZXJ2ZXIuaWFkLmxpdmVwZXJzb24ubmV0L2hjLzk0MjAxMDUvP2NtZD1yZXBzdGF0ZSZzaXRlPTk0MjAxMDUmY2hhbm5lbD13ZWImdmVyPTEmaW1hZ2VVcmw9aHR0cHM6Ly93d3cuYWl1b25saW5lLmVkdS9pbWFnZXMvY2hhdGQCAw8WAh4Hb25jbGljawWDAXBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCcvY2hhdC9jaGF0T3BlbicpOyByZXR1cm4gb3BlbmNoYXR3aW5kb3coJ2NoYXQ5NDIwMTA1JywnaHR0cHM6Ly9zZXJ2ZXIuaWFkLmxpdmVwZXJzb24ubmV0L2hjLzk0MjAxMDUvJyk7ZAIBD2QWAgIFDxYCHgRocmVmBQcvYXBwbHkvZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUkY3RsMDAkY3RsMDAkQ29udGFpbmVyJE1haW4kbHBDaGF0QnRuWE+8fWR2LoNUym0yLfRWUnwNFsU=">
+
+
+    	
+    
+	<div id="maincontainer">		
+		
+			<div id="maincontent">
+				
+
+	
+    
+
+
+<h1>Privacy Statement</h1>
+<p>This and certain other linked web pages on servers owned by Career Education Corporation  (otherwise noted as the "Sites") are owned and operated by Career Education Corporation and American InterContinental University Online.</p>
+
+<p>At  American InterContinental University Online, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: http://www.aiuonline.edu/.</p>
 
 <h3>IP Address</h3>
-
-We log all connections to our web servers. Those log files include your IP address. An IP address is NOT personally identifiable information, but general information about your location, connection to the Internet, and your Internet Service Provider. We use your IP address to help diagnose problems with our server and to administer the Sites. 
+<p>We log all connections to our web servers. Those log files include your IP address. An IP address is NOT personally identifiable information, but general information about your location, connection to the Internet, and your Internet Service Provider. We use your IP address to help diagnose problems with our server and to administer the Sites.</p> 
 
 <h3>Cookies</h3>
-
-“Cookies” are small pieces of information stored in a user’s browser that give that user a unique identification.  If you are accessing our protected content, we will use cookies for authentication purposes only. All cookies are established on a per session basis, and are not permanently stored on your machine. 
+<p>"Cookies" are small pieces of information stored in a user's browser that give that user a unique identification.  If you are accessing our protected content, we will use cookies for authentication purposes only. All cookies are established on a per session basis, and are not permanently stored on your machine. </p>
 
 <h3>Contact Form</h3>
+<p>The Sites' contact forms request that users provide contact information (such as their name, mailing address, telephone number and e-mail address). We use this contact information to send the user additional information about our schools and partners. A user's contact information may also be used by us to contact the user directly. We do not sell or rent your contact information to third parties except when required to disclose such information by law or in response to a request from a law enforcement agency or authority. </p>
 
-The Sites’ contact forms request that users provide contact information (such as their name, mailing address, telephone number and e-mail address). We use this contact information to send the user additional information about our schools and partners. A user’s contact information may also be used by us to contact the user directly. We do not sell or rent your contact information to third parties except when required to disclose such information by law or in response to a request from a law enforcement agency or authority. 
-<br>
-<br>
-In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Sites do not permit children under 13 years of age to become users, and we do not collect information from children.  By using our Sites, you represent that you are not under 13 years of age.
-<br>
-<br>
-Except with regard to any contact information you may provide us via the Sites, all comments, feedback, information or materials submitted to American InterContinental University through or in association with this website (collectively, “Feedback”) will be considered non-confidential and the property of American InterContinental University.  By submitting such Feedback to American InterContinental University, you agree that you assign to American InterContinental University, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback.  American InterContinental University shall be free to use such Feedback on an unrestricted basis.“ 
+<p>In compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Sites do not permit children under 13 years of age to become users, and we do not collect information from children.  By using our Sites, you represent that you are not under 13 years of age.</p>
+
+<p>Except with regard to any contact information you may provide us via the Sites, all comments, feedback, information or materials submitted to American InterContinental University Online through or in association with this website (collectively, "Feedback") will be considered non-confidential and the property of American InterContinental University Online.  By submitting such Feedback to American InterContinental University Online, you agree that you assign to American InterContinental University Online, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback.  American InterContinental University Online shall be free to use such Feedback on an unrestricted basis." </p>
 
 <h3>Security</h3>
-
-The Sites have security measures in place to protect against the loss, misuse and alteration of the information under our control; however, American InterContinental University does not guarantee the performance or adequacy of such security measures. 
+<p>The Sites have security measures in place to protect against the loss, misuse and alteration of the information under our control; however, American InterContinental University Online does not guarantee the performance or adequacy of such security measures.</p> 
 
 <h3>Links to other web Sites</h3>
+<p>The Sites contain links to other web sites that are not owned or operated by American InterContinental University Online. American InterContinental University Online is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our legal terms and conditions). </p>
 
-The Sites contain links to other web sites that are not owned or operated by American InterContinental University. American InterContinental University is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our legal terms and conditions). 
-<h3>
-Contact Us</h3>
+<h3>Contact Us</h3>
+<p>To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below:</p>
 
-To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below:
-<br>
-<br>
-<strong>1. Email the <a href="mailto:webmaster@careeredonline.com&amp;subject=Important! Sent From http://www.aiuonline.edu/schools/aiu/aiu_online/privacy.asp">webmaster</a></strong><br><br>
+<p><strong>1. Email the <a href="mailto:8WebMaster@careered.com?subject=AIU_Online - Important! Sent From http://www.aiuonline.edu/schools/aiu/aiu_online/privacy.aspx">webmaster</a>.</strong></p>
 
-<strong>2. Contact us at</strong><br>
+<p><strong>2. Contact us at</strong><br>
+American InterContinental University Online<br>
+5550 Prairie Stone Parkway<br>
+Suite 400<br>Hoffman Estates,IL 60192<br>
 
-American InterContinental University<br>
-5550 Prairie Stone Parkway Suite 400<br>Hoffman Estates, IL 60192<br>Phone: 1.877.701.3800
-          <!-- InstanceEndEditable -->
-				<div id="footerSecondary">
-American InterContinental University Online <strong>·</strong> 5550 Prairie Stone Parkway,
-Suite 400<br>
-Hoffman Estates, IL 60192 <strong>·</strong> 1.877.701.3800<br>
-©  2007 American InterContinental University Online. All rights reserved.<br>
-<a href="/privacy.asp">Privacy Statement</a> | <a href="/terms_conditions.asp">Legal Terms and Conditions</a> | <a href="/sitemap.asp">Sitemap</a></div>
+Phone: 1-877-701-3800</p>
 
-			  </div>
-		  </div>
-		  <div id="PIE_clearfootercenter"></div>
+
+	 
+
+			</div>
+	  
+			<div id="sidenav">
+			
+               <div id="sivenavHdr"><img src="/Schools/AIU/images/more_information.gif" alt="More Information For"></div>
+                
+               <div id="Accordion1" class="Accordion" tabindex="0">
+				
+
+	
+    
+	
+
+
+				
+
+ <div id="StudentRsources" class="AccordionPanel AccordionPanelOpen">
+              <div class="AccordionPanelTab">Documents &amp; Resources</div>
+              <div class="AccordionPanelContent" style="height: auto;">  
+          
+              <ul>
+              
+				
+                <li><a href="/about_aiu/course_catalog_addenda.aspx" rel="nofollow">AIU Online Course Catalog</a></li>
+                
+                
+                <li><a href="https://mycampus.aiu-online.com/schools/5/pdf/academic_calendar.pdf" target="_blank" rel="nofollow">Academic Calendar</a></li>
+                
+                              
+                <li><a href="https://mycampus.aiu-online.com/schools/5/pdf/faculty_staff.pdf" target="_blank">Faculty and Staff</a></li>
+                
+                
+                
+              
+              <li>
+              
+              	<a href="/financial_aid/tuition.aspx" rel="nofollow">Tuition and Fees</a>
+              
+              </li>
+              
+             
+              <li><a href="/about_aiu/university_policies.aspx" rel="nofollow">University Policies</a></li>
+              
+              
+              <li><a href="/Schools/AIU/PDF/newsletters/Spring07.pdf" target="_blank" rel="nofollow">@AIU Newsletter</a></li>
+              
+              
+              	<li><a href="/about_aiu/newsletter.aspx" rel="nofollow">AIU Online Newsletter</a></li>
+               
+              <li><a href="/about_aiu/question_contact.aspx" rel="nofollow">Question? Contact Us</a></li>
+             
+              </ul>    
+              </div>
+            </div>
+			
+				</div>
+			<div id="ctl00_ctl00_Container_Main_ChatSection">
+				<div id="sivenavDiv"><img src="/Schools/AIU/images/navbar_divider.gif" alt=""></div>
+                <!-- BEGIN LivePerson Button Code -->
+                <div id="chatbox">
+                <!-- BEGIN LivePerson Chatbox Code -->
+                     
+                <div name="LPChatBox">
+                <!--form id="_lpChatBox" target='chat9420105' method="get"-->
+                <input type="hidden" name="cmd" value="file">
+                <input type="hidden" name="file" value="visitorWantsToChat">
+                <input type="hidden" name="site" id="chatinput">
+                <input type="hidden" name="SESSIONVAR!survey_pre-chat_enable" value="Off">
+                <input type="hidden" name="SESSIONVAR!source" value="chatbox">
+				<input type="hidden" name="SESSIONVAR!skill" id="chatskill">
+                <input type="hidden" name="imageUrl" value="https://www.aiuonline.edu/images/chat">
+
+
+                <div id="chat_image"><img src="https://server.iad.liveperson.net/hc/9420105/?cmd=repstate&amp;site=9420105&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.aiuonline.edu/images/chat" id="ctl00_ctl00_Container_Main_chatimg"></div>
+                <div id="LPmessage">
+                <textarea id="lp_msgfield" name="SESSIONVAR!message" rows="5" wrap="VIRTUAL" class="LPform" onfocus="if(this.value==defaultVal2){this.value='';}" onblur="if(this.value==''){this.value=defaultVal2;}">Type your question here and click Start Chat.</textarea>
+                </div>
+                  <div id="submit_btn">
+                    <input src="/schools/aiu/images/start_chat_btn.gif" name="ctl00$ctl00$Container$Main$lpChatBtn" type="image" id="ctl00_ctl00_Container_Main_lpChatBtn" onclick="pageTracker._trackPageview('/chat/chatOpen'); return openchatwindow('chat9420105','https://server.iad.liveperson.net/hc/9420105/');">
+                  </div>
+                <!--/form-->
+                </div>
+
+                <!-- END LivePerson Chatbox Code -->
+                </div><!-- END LivePerson Button code -->
+				</div>		
+			</div>
+			<div class="clear"></div>
+		
+	</div> 
+	
+		
+		
+	<div id="topnav">
+		<ul>
+			<li><a href="/about_aiu/"><img src="/schools/AIU/images/navtext_about.gif" alt="About AIU" width="61" height="7"></a></li>
+				
+				<li><a href="/degree-programs/"><img src="/schools/AIU/images/navtext_degrees.gif" alt="Degree Programs" width="102" height="7"></a></li>
+				
+			<li><a href="/admissions/" rel="nofollow"><img src="/schools/AIU/images/navtext_admissions.gif" alt="Admissions" width="66" height="7"></a></li>
+			
+				<li><a href="/financial_aid/"><img src="/schools/AIU/images/navtext_fa.gif" alt="Tuition and Financial Aid" width="138" height="7"></a></li>
+			
+			<li><a href="/alumni/" rel="nofollow"><img src="/schools/AIU/images/navtext_alumni.gif" alt="Alumni" width="42" height="7"></a></li>
+			
+			<li class="last"><a href="/outcomes/"><img src="/schools/AIU/images/navtext_outcomes.gif" alt="Outcomes" width="60" height="7"></a></li>
+		</ul>
+	</div>  	
+			
+	<div id="topbar">
+		<div id="phone"><h2>TOLL FREE 1-877-701-3800</h2></div>
+		<div id="search"><label>SEARCH</label><input type="text" class="text" id="txtSearch" onkeypress="return clickButton(event,'searchSubmit')"><input type="image" id="searchSubmit" src="/schools/AIU/images/search_button.gif" onclick="return sbmtSrch('http://www.aiuonline.edu/sitesearch/searchcode.aspx');" class="image">
+		<div id="logout"></div></div>
+		<div class="clear"></div>	
+	</div>
+  
+	<div id="logoarea">
+		<div class="sectionlt"><a href="/"><img src="/schools/AIU/images/logo.gif" alt="American InterContinental University Online" width="234" height="82"></a></div>  
+		
+		
+		
+		<div class="sectionmid">
+			<a href="/apply/" rel="nofollow"><img src="/schools/AIU/images/apply_photo.jpg" alt="Apply Online" align="left" width="63" height="54">
+			<p><img src="/schools/AIU/images/apply_online.gif" alt="Apply Online to AIU Online" width="90" height="12"><br>
+			We're glad that you have decided to apply to American InterContinental University!</p></a></div>
+		  
+		<div class="sectionrt">
+			<a href="/request_info/" rel="nofollow"><img src="/schools/AIU/images/request_photo.jpg" alt="Request Info" align="left" width="63" height="54">
+			<p><img src="/schools/AIU/images/request_info.gif" alt="Request Info" width="90" height="12"><br>
+			One of our Admissions Advisors will contact you shortly.</p></a></div>
+			
+			
+			
+			
+		<div class="clear"></div>
+	</div>
+		 
+		 
+		
+		<div id="mastarea">
+						
+				<div id="mainimage">	
+	
+    <img src="/Schools/AIU/Images/mast_privacy.jpg" alt="Privacy Statement">
+	
+</div>
+			
+				<div id="sideimage">
+					<div class="nav">
+						<a href="/request_info/" id="ctl00_ctl00_Container_MastArea_HrefRequestInfo" rel="nofollow"><img src="/schools/AIU/images/side_request_info.gif" alt="Request Info" width="199" height="19"></a><br>
+					    <a href="/apply/" id="ctl00_ctl00_Container_MastArea_HrefApplyOnline" rel="nofollow"><img src="/schools/AIU/images/side_apply_online.gif" alt="Apply Online" width="199" height="19"></a><br>
+						<img id="ctl00_ctl00_Container_MastArea_imageback" alt="Call Us Toll Free" src="/Schools/AIU/AIU_Online/Images/side_tollfree.gif" border="0">
+					</div>	
+				</div>
+				
+				<div class="clear"></div>		
+			        
 		</div>
-		<div id="PIE_left">
-		  <div id="PIE_clearheaderleft"></div>
-		  <div id="PIE_container-left">
-			<div id="sideModuleLeft">
-			<!-- InstanceBeginEditable name="side_nav_include" -->
-          <div class="sidenavHdr">About AIU</div>
-<br>
-
-American InterContinental University has been educating students for over 35
-years, offering career-relevant degree programs. <br>
-<br>
-As a student, you will enjoy a dynamic curriculum reflecting industry-current technologies and practices. <br>
-<br>
-You will have the opportunity to discuss concepts with classmates and work on group projects, emphasizing the pursuit of real-world skills and practical deliverables in every course. 
-
-          <!-- InstanceEndEditable -->
-			  </div>
-		  </div>
-		  <div id="PIE_clearfooterleft"></div>
-		</div>
-	  </div>
-	  <div id="PIE_right">
-		<div id="PIE_clearheaderright"></div>
-		<div id="PIE_container-right">
-			<div id="sideModuleRight">
-			
-			
-			<!-- InstanceBeginEditable name="EditRegion_Contact_Inc" -->
-	  <img src="/images_shared/contact_aiu_hdr.gif" width="170" height="15" class="mainSubhdr"><br>
-      <img src="/images_shared/icons/chat.gif" width="15" height="15" class="contactIcon"><a href="javascript:Void(0);" onclick="javascript:window.open('/lis_redirect.asp','LisChat','resizable=yes,width=500,height=400');return false;" class="contactLink">Chat Live Now</a><br>
-	  <img src="/images_shared/icons/talk.gif" width="15" height="15" class="contactIcon"><a href="javascript:webVoicePop('Template=19610');" class="contactLink">Click To Talk</a><br>
-	  <img src="/images_shared/icons/request_info.gif" width="15" height="15" class="contactIcon"><a href="/request_info/" class="contactLink">Request Information</a><br>
-	   <img src="/images_shared/icons/links2.gif" width="16" height="16" class="contactIcon"><span class="accent2"><a href="/about_campus/staff_directory.asp" class="contactLink">Staff Directory</a></span> <br>
-	  <img src="/images_shared/icons/question.gif" width="15" height="15" class="contactIcon"><a href="/about_campus/question_contact.asp" class="contactLink">Question? Contact Us</a><br>
-      <img src="/images_shared/icons/apply.gif" width="16" height="16" class="contactIcon"><a href="http://enroll.aiuonline.edu/?code=680&amp;siteid=" target="_blank" class="contactLink">Apply Online</a><br>
-	  <img src="/images_shared/icons/call.gif" width="16" height="16" class="contactIcon"><span class="accent2">Call 1.877.701.3800</span><br>
-<br>	  
-<br>
-
-	  <!-- InstanceEndEditable -->
-			
-			
-			<!-- InstanceBeginEditable name="EditRegion_StudentResources_Inc" -->
-	  <img src="/images_shared/resources_hdr.gif" width="170" height="15" class="mainSubhdr"><br>
-      <img src="/images_shared/icons/catalog.gif" width="15" height="15" class="contactIcon"><a href="/current_students/course_catalog_addenda.asp" class="contactLink">AIU Online Catalog</a><br>
-      <img src="/images_shared/icons/calendar.gif" width="15" height="15" class="contactIcon"><a href="https://mycampus.aiu-online.com/schools/5/pdf/academic_calendar.pdf" target="_blank" class="contactLink">Academic Calendar</a><br>
-	  <img src="/images_shared/icons/links2.gif" width="15" height="15" class="contactIcon"><a href="https://mycampus.aiu-online.com/schools/5/pdf/faculty_staff.pdf" target="_blank" class="contactLink">Faculty and Staff</a><br>
-	 <img src="/images_shared/icons/tuition.gif" width="15" height="15" class="contactIcon"><a href="/financial_aid/tuition.asp" class="contactLink">Tuition &amp; Fees</a><br>
-	  <img src="/images_shared/icons/policies.gif" width="15" height="15" class="contactIcon"><a href="/about_aiu/university_policies.asp" class="contactLink">University Policies</a><br>
-<br>
-<br>	  
-
-
-	  <!-- InstanceEndEditable -->
-			
-			
-			<!-- InstanceBeginEditable name="EditRegion_Campuses_Inc" -->
-	  <img src="/images_shared/aiu_campuses_hdr.gif" class="mainSubhdr">
-	  <div class="imgNospace"><img src="/images_shared/aiu_camp_map.jpg" width="172" height="106" border="0" usemap="#AIUCampusMap"></div>
-<ul class="campuses">
-
-
-
-<li class="bullet"><a href="http://buckhead.aiuniv.edu" class="bulletLink" target="_blank">AIU Buckhead (Atlanta)</a></li>
-
-<li class="bullet"><a href="http://dunwoody.aiuniv.edu" class="bulletLink" target="_blank">AIU Dunwoody (Atlanta)</a></li>
-
-<li class="bullet"><a href="http://houston.aiuniv.edu" class="bulletLink" target="_blank">AIU Houston</a></li>
-
-<li class="bullet"><a href="http://www.aiulondon.com/" class="bulletLink" target="_blank">AIU London</a></li>
-
-<li class="bullet"><a href="http://la.aiuniv.edu" class="bulletLink" target="_blank">AIU Los Angeles</a></li>
-
-<li class="bullet"><span class="accentblue">AIU Online</span></li>
-
-<li class="bullet"><a href="http://www.aiufl.edu" class="bulletLink" target="_blank">AIU South Florida</a></li>
-
-
-<li class="bullet"><a href="http://www.aud.edu" class="bulletLink" target="_blank">AU Dubai</a></li>
-
-
-<li class="bullet"><a href="http://www.aiustudyabroad.com/" class="bulletLink" target="_blank">Study Abroad Program</a></li>
-
-
-<br>
-
-</ul>
-
-
-<map name="AIUCampusMap" id="AIUCampusMap">
-
-<area shape="rect" coords="4,42,28,51" alt="Los Angeles" href="http://la.aiuniv.edu" target="_blank">
-<area shape="circle" coords="11,56,4" alt="Los Angeles" href="http://la.aiuniv.edu" target="_blank">
-
-<area shape="rect" coords="1,72,44,81" alt="Houston" href="http://houston.aiuniv.edu" target="_blank">
-<area shape="circle" coords="22,66,4" alt="Houston" href="http://houston.aiuniv.edu" target="_blank">
-
-<area shape="rect" coords="37,41,91,51" alt="Dunwoody (Atlanta)" href="http://dunwoody.aiuniv.edu" target="_blank">
-<area shape="circle" coords="46,54,4" alt="Dunwoody (Atlanta)" href="http://dunwoody.aiuniv.edu" target="_blank">
-
-<area shape="rect" coords="49,57,100,66" alt="Buckhead (Atlanta)" href="http://buckhead.aiuniv.edu" target="_blank">
-<area shape="circle" coords="41,61,4" alt="Buckhead (Atlanta)" href="http://buckhead.aiuniv.edu" target="_blank">
-
-<area shape="rect" coords="49,68,100,77" alt="South Florida" href="http://www.aiufl.edu" target="_blank">
-<area shape="circle" coords="45,69,4" alt="South Florida" href="http://www.aiufl.edu" target="_blank">
-
-<area shape="rect" coords="114,28,154,37" alt="London" href="http://www.aiulondon.com/" target="_blank">
-<area shape="circle" coords="110,32,4" alt="London" href="http://www.aiulondon.com/" target="_blank">
-
-
-<area shape="rect" coords="127,68,160,77" alt="Dubai" href="http://www.aud.edu" target="_blank">
-<area shape="circle" coords="164,72,4" alt="Dubai" href="http://www.aud.edu" target="_blank">
-</map>
-
-
-	  <!-- InstanceEndEditable -->
-			
-			
+		
+		
+			<div id="breadbar"><a id="top" name="top"></a>
+				<div id="breadcrumbs">
+				<span id="ctl00_ctl00_Container_SiteMapPath1"><a href="#ctl00_ctl00_Container_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=H1CBXSyt2TNWXWVVJEy5qA2&amp;t=633427479412863025" border="0"></a><span class="HideRootNode"><a href="" rel="nofollow">AIU</a></span><span> &gt; </span><span><a href="/Schools/AIU/aiu_online/Default.aspx" rel="nofollow">Home</a></span><span> &gt; </span><span class="noDecoration"><a rel="nofollow">Privacy</a></span><a id="ctl00_ctl00_Container_SiteMapPath1_SkipLink"></a></span>
+							 					
+				</div>
+			</div>	
+			 
+	  
+		<div id="footercontainer">
+			<div id="footer">
+				<p>American InterContinental University Online<br>
+				5550 Prairie Stone Parkway, Suite 400 · Hoffman Estates, IL 60192 · 1-877-701-3800 <br> © 2008 American InterContinental University Online. All rights reserved.
+				<br>
+				<a href="/privacy.aspx">Privacy Statement</a> | 
+				<a href="/terms_conditions.aspx" rel="nofollow">Terms &amp; Conditions</a> | 
+				<a href="/sitemap.aspx">Site Map</a> |
+				
+					<a href="/media_press/" rel="nofollow">Media</a> |
+					<a href="http://careers.aiuonline.edu/" target="_blank" rel="nofollow">Careers at AIU</a>
+				
+				</p>
+				
 			</div>
 		</div>
-		<div id="PIE_clearfooterright"></div>
-	  </div>
-	  <div class="PIE_clear">&nbsp;</div>
-	</div>
-	<div id="PIE_gfx_bg_middle">&nbsp;</div>
-  </div>
-  <div id="PIE_header">
-	<div id="PIE_subheader1">
-		<!-- <div id="topGradient"></div> -->
-<!-- "topGradient" div not needed here now with CSS bgimage part of the PIE CSS layout solution in "PIE_subheader1" div -->
-	</div>
-	<div id="PIE_subheader2">
 		
-		<!-- InstanceBeginEditable name="header_links_include" -->
-        <a href="/default.asp"><img src="/images_shared/aiu_online_logo.gif" width="133" height="48" border="0" align="absmiddle" class="logoSchool"></a>
+    
 
-<div id="TESTSEARCHDIV" style="float:left; width:800px;">
-<!-- TESTING a SEARCH INPUT -->
-<div style="height:20px; width:185px; padding:2px 2px 0px 3px; margin:0px 0px 0px 0px; float:right;">
-<form action="../sitesearch/sitesearch.asp" method="get">
-<div style="float:left; padding:0px 0px 0px 0px;"><input name="q" type="text" size="19" maxlength="50" class="formelement"></div><div style="float:right; padding:0px 0px 0px 0px; border:#ff7700 solid 1px;"><input type="image" src="/images_shared/search/search_btn_alt.gif" name="action" value="Search"></div></form>
-</div>
 
-<div style="clear:both"></div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKX5+mCAgL0kcKNA1VZVB/gwxdz+jZ3v6YP7ZLVFaCc"></form>
 
-<!-- TESTING a SEARCH INPUT -->
+<!-- Omniture Rev 2 -->
+<!-- SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
 
-<div id="topnavContainer">
-<ul id="navlist">
-<li id="nav-home"><a href="http://www.aiuonline.edu">HOME</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-aboutaiu"><a href="/about_aiu/">ABOUT AIU</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-aboutcampus"><a href="/about_campus/">ABOUT AIU ONLINE</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-outcomes"><a href="/outcomes/">OUTCOMES</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-academic"><a href="/academic_programs/">ACADEMIC PROGRAMS</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-admissions"><a href="/admissions/">ADMISSIONS</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-fa"><a href="/financial_aid/">FINANCIAL AID</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-contact"><a href="/request_info/">REQUEST INFO</a><img src="/images_shared/line_nav.gif" width="15" height="9"></li>
-<li id="nav-apply"><a href="http://enroll.aiuonline.edu/?code=680&amp;siteid=" target="_blank">APPLY NOW</a></li>
-</ul>
-</div>
+<script language="JavaScript" type="text/javascript">
+function leftBackString(fullString, subString) {
+   if (fullString.lastIndexOf(subString) == -1) {
+      return "";
+   } 
+   else {
+      return fullString.substring(0, fullString.lastIndexOf(subString));
+   }
+}
+function middleString(fullString, startString, endString) 
+{
+	if (fullString.indexOf(startString) == -1)
+	 {
+		return "";
+	 }
+	else
+	 {
+		var sub = fullString.substring(fullString.indexOf(startString)+startString.length, fullString.length);
+		if (sub.indexOf(endString) == -1)
+		 {
+			return sub;
+		 }
+		 else
+		 {
+			return (sub.substring(0, sub.indexOf(endString)));
+		 }
+	}
+}
 
-</div>
+url = new String(window.location);
+domain = new String(middleString(url,"//", "/")); 
+filename= new String(url.substring(url.lastIndexOf('/')+1));
+pagename = new String(leftBackString(filename,"."));
 
-        <!-- InstanceEndEditable -->
-	</div>
-	<div id="PIE_subheader3">
-		
-		<!-- InstanceBeginEditable name="header_include" -->
-        <div id="masthead"><img src="/images_shared/generic_mast1.jpg" class="floatLeft"><img src="/images_shared/privacy_mast2.jpg" class="floatLeft"><img src="/images_shared/generic_mast3.jpg" class="floatRight"></div>
-        <!-- InstanceEndEditable -->
-	</div>
-  </div>
-  <div class="PIE_clear">&nbsp;</div>
-  <div id="PIE_footer">
-	<div id="PIE_subfooter1">
-		<img src="/images_shared/gradient_btm.gif" width="980" height="23">
-<!--Added 6/6/06 -->
-<!-- # include virtual="/includes/google_analytics.asp"-->
-<!--End Google Analytic Tracking Code-->
-<!-- BEGIN omniture, added 7/3/06 -->
-<!-- # include virtual="/omniture/include_omniture.txt" -->
-<!-- END omniture -->
-	</div>
-  </div>
-</div>
+urltoroot = "http://" + domain + "/";
+var omnitureurl = urltoroot + "omniture/s_code_remote.js";
 
-<!--Added 6/6/06 -->
-<!-- Google Analytics Code for Tracking -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-232351-1";
-urchinTracker();
-</script>
-<!--End Google Analytic Tracking Code-->
-<!-- BEGIN omniture, added 7/3/06 -->
-<!-- SiteCatalyst code version: H.1.
-Copyright 1997-2005 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="http://www.aiuonline.edu/omniture/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
+//Setting The Initial Values
+var application_school = 'AIU Online';
+var s_pageName="";
+var s_server= '10.50.52.13';
+var s_channel="";
+var s_pageType="";
+var s_prop1="";
+var s_prop2="";
+var s_prop3="";
+var s_prop4="";
+var s_prop5="";
+var s_prop6="";
+var s_prop7="";
+var s_prop8="";
+var s_prop9="";
+var s_prop10="";
 /* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
+var s_campaign="";
+var s_state="";
+var s_zip="";
+var s_events="";
+var s_products="";
+var s_purchaseID="";
+var s_eVar1="";
+var s_eVar2="";
+var s_eVar3="";
+var s_eVar4="";
+var s_eVar5="";
+var s_eVar6="";
+var s_eVar7="";
+var s_eVar8="";
+var s_eVar9="";
+var s_eVar10="";
+	
+if (filename.length != 0)
+	{
+		subfolder = new String(middleString(url,domain + "/", filename)); 
+	}
+	else
+	{
+		subfolder = new String(middleString(url,domain + "/", url.lastIndexOf('/')+1)); 
+	}
+if (subfolder.length > 0) // If we are in a subfolder, then add the subfolder name before the page name. 
+	 {
+		if ((pagename.length > 0) && !(pagename.indexOf("index") >= 0) && !(pagename.indexOf("default") >= 0))
+		{
+			s_pageName= application_school  + " - " + subfolder.toUpperCase() + " " + pagename.toUpperCase();
+		}
+		else
+		{
+			s_pageName= application_school  + " - " + subfolder.toUpperCase();
+		}
+     }
+else // if we are in a root of the page, then just list the page name
+	{
+		if ((pagename.length > 0) && !(pagename.indexOf("index") >= 0) && !(pagename.indexOf("default") >= 0))
+		{
+			s_pageName= application_school  + " - " + pagename.toUpperCase();
+		}
+		else
+		{
+			s_pageName= application_school  + " - INDEX";
+		}
+	}
+
+if ((pagename.indexOf("thank") >= 0) || (pgname.indexOf("thank") >= 0)) //if the page name contains "thank" - Due to inconsistency in page naming
+	{		
+		s_events="event1";
+		s_campaign='680';
+		s_pageName = application_school + " " + subfolder + " - THANK YOU";
+    }
+if ((pgname.indexOf("payment-complete") >= 0) || (pgname.indexOf("edpartner-complete") >= 0))
+    {
+		s_events="event2";
+		s_campaign='680';
+		s_pageName = application_school + " " + subfolder + " - THANK YOU";
+    }
+if (pagename == "404") //If the page name is 404
+	 {
+		s_channel="Error";
+		s_campaign="";
+	 }
+
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+/************************ ADDITIONAL FEATURES ************************
+     Plugins
+*/
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here.                       */
+/* Variables (s_pageName, s_prop1, etc.) not prefixed with "s_" will not be used. */
+var s_disableLegacyVars=true
+/* Specify the Report Suite ID(s) to track here */
+var s_account="onlineedaiu"
+/* E-commerce Config */
+var s_eVarCFG=""
+/* Link Tracking Config */
+var s_trackDownloadLinks=false
+var s_trackExternalLinks=true
+var s_trackInlineStats=true
+var s_linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,doc,pdf,xls"
+var s_linkInternalFilters="javascript:,aiuonline.edu,mycampus.aiu-online.com,info.aiuonline.edu, graduation.aiuonline.edu,enroll.aiuonline.edu"
+var s_linkLeaveQueryString=false
+var s_linkTrackVars="None"
+var s_linkTrackEvents="None"
+/* Plugin Config */
+var s_usePlugins=true
+function s_doPlugins() {
+	/* Add calls to plugins here */
+	// External Campaigns.
+	s_vp_getCGI('s_campaign','src');
+	// Internal campaigns
+	s_vp_getCGI('s_eVar1','intcmp');
+}
+
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+/*
+ * Plugin: Get Plugin Modified Value
+ */
+function s_vp_getValue(vs)
+	{var k=vs.substring(0,2)=='s_'?vs.substring(2):vs;return s_wd[
+	's_vpm_'+k]?s_wd['s_vpv_'+k]:s_gg(k)}
+/*
+ * Plugin: Get Query String CGI Variable Value
+ */
+function s_vp_getCGI(vs,k)
+	{var v='';if(k&&s_wd.location.search){var q=s_wd.location.search,
+	qq=q.indexOf('?');q=qq<0?q:q.substring(qq+1);v=s_pt(q,'&',s_cgif,
+	k)}s_vpr(vs,v)}function s_cgif(t,k){if(t){var te=t.indexOf('='),
+	sk=te<0?t:t.substring(0,te),sv=te<0?'True':t.substring(te+1);if(
+	sk==k)return s_epa(sv)}return ''}
+/*
+ * Plugin Utilities v2.0 (Required For All Plugins)
+ */
+function s_vpr(vs,v){if(s_wd[vs])s_wd[vs]=s_wd[vs];else s_wd[vs]=''
+if(vs.substring(0,2) == 's_')vs=vs.substring(2);s_wd['s_vpv_'+vs]=v
+s_wd['s_vpm_'+vs]=1}function s_dt(tz,t){var d=new Date;if(t)d.setTime(
+t);d=new Date(d.getTime()+(d.getTimezoneOffset()*60*1000))
+return new Date(Math.floor(d.getTime()+(tz*60*60*1000)))}
+function s_vh_gt(k,v){var vh='|'+s_c_r('s_vh_'+k),vi=vh.indexOf('|'+v
++'='),ti=vi<0?vi:vi+2+v.length,pi=vh.indexOf('|',ti),t=ti<0?'':
+vh.substring(ti,pi<0?vh.length:pi);return t}function s_vh_gl(k){var
+vh=s_c_r('s_vh_'+k),e=vh?vh.indexOf('='):0;return vh?(vh.substring(0,
+e?e:vh.length)):''}function s_vh_s(k,v){if(k&&v){var e=new Date,st=
+e.getTime(),y=e.getYear(),c='s_vh_'+k,vh='|'+s_c_r(c)+'|',t=s_vh_gt(k,
+v);e.setYear((y<1900?y+1900:y)+5);if(t)vh=s_rep(vh,'|'+v+'='+t+'|','|'
+);if(vh.substring(0,1)=='|')vh=vh.substring(1);if(vh.substring(
+vh.length-1,vh.length)=='|')vh=vh.substring(0,vh.length-1);vh=v
++'=[PCC]'+(vh?'|'+vh:'');s_c_w(c,vh,e);if(s_vh_gt(k,v)!='[PCC]')
+return 0;vh=s_rep(vh,'[PCC]',st);s_c_w(c,vh,e)}return 1}
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img
-src="http://onlineedaiu.112.2O7.net/b/ss/onlineedaiu/1/H.1--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.1. -->
+var s_un,s_ios=0,s_q='',s_code='',code='',s_bcr=0,s_lnk='',s_eo='',
+s_vb,s_pl,s_tfs=0,s_etfs=0,s_wd=window,s_d=s_wd.document,s_ssl=(
+s_wd.location.protocol.toLowerCase().indexOf('https')>=0),s_n=
+navigator,s_u=s_n.userAgent,s_apn=s_n.appName,s_v=s_n.appVersion,
+s_apv,s_i,s_ie=s_v.indexOf('MSIE '),s_ns6=s_u.indexOf('Netscape6/')
+if(s_v.indexOf('Opera')>=0||s_u.indexOf('Opera')>=0)s_apn='Opera';var
+s_isie=(s_apn=='Microsoft Internet Explorer'),s_isns=(s_apn==
+'Netscape'),s_isopera=(s_apn=='Opera'),s_ismac=(s_u.indexOf('Mac')>=0)
+if(s_ie>0){s_apv=parseInt(s_i=s_v.substring(s_ie+5));if(s_apv>3)s_apv=
+parseFloat(s_i)}else if(s_ns6>0)s_apv=parseFloat(s_u.substring(s_ns6
++10));else s_apv=parseFloat(s_v);function s_fl(s,l){return (s+''
+).substring(0,l)}function s_co(o){if(!o)return o;var n=new Object
+for(x in o)n[x]=o[x];return n}function s_num(x){var s=x.toString(),g=
+'0123456789',p,d;for(p=0;p<s.length;p++){d=s.substring(p,p+1);if(
+g.indexOf(d)<0)return 0}return 1}function s_rep(s,o,n){var i=
+s.indexOf(o),l=n.length>0?n.length:1;while(s&&i>=0){s=s.substring(0,i)
++n+s.substring(i+o.length);i=s.indexOf(o,i+l)}return s}function s_ape(
+s){return s?s_rep(escape(''+s),'+','%2B'):s}function s_epa(s){
+return s?unescape(s_rep(''+s,'+',' ')):s}function s_pt(s,d,f,a){var t=
+s,x=0,y,r;while(t){y=t.indexOf(d);y=y<0?t.length:y;t=t.substring(0,y)
+r=f(t,a);if(r)return r;x+=y+d.length;t=s.substring(x,s.length);t=x<
+s.length?t:''}return ''}function s_isf(t,a){if(t.substring(0,2)=='s_')
+t=t.substring(2);return (t!=''&&t==a)}function s_fsf(t,a){if(s_pt(a,
+',',s_isf,t))s_fsg+=(s_fsg!=''?',':'')+t;return 0}var s_fsg
+function s_fs(s,f){s_fsg='';s_pt(s,',',s_fsf,f);return s_fsg}var
+s_c_d='';function s_c_gdf(t,a){if(!s_num(t))return 1;return 0}
+function s_c_gd(){var d=s_wd.location.hostname,n=s_gg(
+'cookieDomainPeriods'),p;if(d&&!s_c_d){n=n?parseInt(n):2;n=n>2?n:2;p=
+d.lastIndexOf('.');while(p>=0&&n>1){p=d.lastIndexOf('.',p-1);n--}
+s_c_d=p>0&&s_pt(d,'.',s_c_gdf,0)?d.substring(p):''}return s_c_d}
+function s_c_r(k){k=s_ape(k);var c=' '+s_d.cookie,s=c.indexOf(' '+k
++'='),e=s<0?s:c.indexOf(';',s),v=s<0?'':s_epa(c.substring(s+2
++k.length,e<0?c.length:e));return v}function s_c_w(k,v,e){var d=
+s_c_gd(),l=s_gg('cookieLifetime');v=''+v;l=l?(''+l).toUpperCase():''
+if(e&&l!='SESSION'&&l!='NONE'){l=parseInt(l);if(l){e=new Date
+e.setTime(e.getTime()+(parseInt(l)*1000))}}if(k&&l!='NONE'){
+s_d.cookie=k+'='+s_ape(v)+'; path=/;'+(e&&l!='SESSION'?' expires='
++e.toGMTString()+';':'')+(d?' domain='+d+';':'');return s_c_r(k)==v}
+return 0}function s_cet(f,a,et,oe,fb){var r,d=0
+/*@cc_on@if(@_jscript_version>=5){try{return f(a)}catch(e){return et(e)}d=1}@end@*/
+if(!d){if(s_ismac&&s_u.indexOf('MSIE 4')>=0)return fb(a);else{
+s_wd.s_oe=s_wd.onerror;s_wd.onerror=oe;r=f(a);s_wd.onerror=s_wd.s_oe
+return r}}}function s_gtfset(e){return s_tfs}function s_gtfsoe(e){
+s_wd.onerror=s_wd.s_oe;s_etfs=1;var code=s_gs(s_un);if(code)s_d.write(
+code);s_etfs=0;return true}function s_gtfsfb(a){return s_wd}
+function s_gtfsf(w){var p=w.parent,l=w.location;s_tfs=w;if(p&&
+p.location!=l&&p.location.host==l.host){s_tfs=p;return s_gtfsf(s_tfs)}
+return s_tfs}function s_gtfs(){if(!s_tfs){s_tfs=s_wd;if(!s_etfs)s_tfs=
+s_cet(s_gtfsf,s_tfs,s_gtfset,s_gtfsoe,s_gtfsfb)}return s_tfs}
+function s_ca(un){un=un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?
+un:un.substring(0,ci),imn='s_i_'+fun;if(s_d.images&&s_apv>=3&&
+!s_isopera&&(s_ns6<0||s_apv>=6.1)){s_ios=1;if(!s_d.images[imn]&&(
+!s_isns||(s_apv<4||s_apv>=5))){s_d.write('<im'+'g name="'+imn
++'" height=1 width=1 border=0 alt="">');if(!s_d.images[imn])s_ios=0}}}
+function s_it(un){s_ca(un)}function s_mr(un,sess,q,ta){un=
+un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci
+),unc=s_rep(fun,'_','-'),imn='s_i_'+fun,im,b,e,rs='http'+(s_ssl?'s':''
+)+'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/1/G.5-Pd-R/'
++sess+'?[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]';if(s_ios){im=s_wd[
+imn]?s_wd[imn]:s_d.images[imn];if(!im)im=s_wd[imn]=new Image;im.src=rs
+if(rs.indexOf('&pe=')>=0&&(!ta||ta=='_self'||ta=='_top'||(s_wd.name&&
+ta==s_wd.name))){b=e=new Date;while(e.getTime()-b.getTime()<500)e=
+new Date}return ''}return '<im'+'g sr'+'c="'+rs
++'" width=1 height=1 border=0 alt="">'}function s_gg(v){var g='s_'+v
+return s_wd[g]||s_wd.s_disableLegacyVars?s_wd[g]:s_wd[v]}var s_qav=''
+function s_havf(t,a){var b=t.substring(0,4),s=t.substring(4),n=
+parseInt(s),k='s_g_'+t,m='s_vpm_'+t,q=t,v=s_gg('linkTrackVars'),e=
+s_gg('linkTrackEvents');if(!s_wd['s_'+t])s_wd['s_'+t]='';s_wd[k]=s_wd[
+m]?s_wd['s_vpv_'+t]:s_gg(t);if(s_lnk||s_eo){v=v?v+',pageName,charSet,'
++'cookieDomainPeriods,cookieLifetime,eVarCFG,purchaseID':'';if(v&&
+!s_pt(v,',',s_isf,t))s_wd[k]='';if(t=='events'&&e)s_wd[k]=s_fs(s_wd[k
+],e)}s_wd[m]=0;if(t=='charSet')q='ce';else if(t=='cookieDomainPeriods'
+)q='cdp';else if(t=='cookieLifetime')q='cl';else if(t=='channel')q=
+'ch';else if(t=='campaign')q='v0';else if(s_num(s)){if(b=='prop')q='c'
++n;else if(b=='eVar')q='v'+n;else if(b=='hier')q='h'+n}if(s_wd[k]&&t!=
+'linkName'&&t!='linkType')s_qav+='&'+q+'='+s_ape(s_wd[k]);return ''}
+function s_hav(){var n,av='charSet,cookieDomainPeriods,cookieLifetime'
++',pageName,channel,server,pageType,campaign,state,zip,events,product'
++'s,purchaseID,eVarCFG,linkName,linkType';for(n=1;n<26;n++)av+=',prop'
++n+',eVar'+n+',hier'+n;s_qav='';s_pt(av,',',s_havf,0);return s_qav}
+function s_lnf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
+te=t.indexOf('=');if(t&&te>0&&h.indexOf(t.substring(te+1))>=0)
+return t.substring(0,te);return ''}function s_ln(h){if(s_gg(
+'linkNames'))return s_pt(s_gg('linkNames'),',',s_lnf,h);return ''}
+function s_ltdf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
+qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h;if(t&&h.substring(
+h.length-(t.length+1))=='.'+t)return 1;return 0}function s_ltef(t,h){
+t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(t&&h.indexOf(t)>=0)
+return 1;return 0}function s_lt(h){var lft=s_gg(
+'linkDownloadFileTypes'),lef=s_gg('linkExternalFilters'),lif=s_gg(
+'linkInternalFilters')?s_gg('linkInternalFilters'):
+s_wd.location.hostname;h=h.toLowerCase();if(s_gg('trackDownloadLinks'
+)&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(s_gg('trackExternalLinks'
+)&&(lef||lif)&&(!lef||s_pt(lef,',',s_ltef,h))&&(!lif||!s_pt(lif,',',
+s_ltef,h)))return 'e';return ''}function s_lc(e){s_lnk=s_co(this)
+s_gs('');s_lnk='';if(this.s_oc)return this.s_oc(e);return true}
+function s_ls(){var l,ln,oc;for(ln=0;ln<s_d.links.length;ln++){l=
+s_d.links[ln];oc=l.onclick?l.onclick.toString():'';if(oc.indexOf(
+"s_gs(")<0&&oc.indexOf("s_lc(")<0){l.s_oc=l.onclick;l.onclick=s_lc}}}
+function s_bc(e){s_eo=e.srcElement?e.srcElement:e.target;s_gs('')
+s_eo=''}function s_ot(o){var x=o.type,y=o.tagName;return (x&&
+x.toUpperCase?x:y&&y.toUpperCase?y:o.href?'A':'').toUpperCase()}
+function s_oid(o){var t=s_ot(o),p=o.protocol,c=o.onclick,n='',x=0;if(
+!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.toLowerCase(
+).indexOf('javascript')<0))n=o.href;else if(c){n=s_rep(s_rep(s_rep(
+s_rep(c.toString(),"\r",''),"\n",''),"\t",''),' ','');x=2}else if(
+o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if(o.src&&t==
+'IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100);o.s_oidt=x}}return o.s_oid}
+function s_rqf(t,un){var e=t.indexOf('='),u=e>=0?','+t.substring(0,e)
++',':'';return u&&u.indexOf(','+un+',')>=0?s_epa(t.substring(e+1)):''}
+function s_rq(un){var c=un.indexOf(','),v=s_c_r('s_sq'),q='';if(c<0)
+return s_pt(v,'&',s_rqf,un);return s_pt(un,',',s_rq,0)}var s_sqq,s_squ
+function s_sqp(t,a){var e=t.indexOf('='),q=e<0?'':s_epa(t.substring(e
++1));s_sqq[q]='';if(e>=0)s_pt(t.substring(0,e),',',s_sqs,q);return 0}
+function s_sqs(un,q){s_squ[un]=q;return 0}function s_sq(un,q){s_sqq=
+new Object;s_squ=new Object;s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0
+s_pt(v,'&',s_sqp,0);s_pt(un,',',s_sqs,q);v='';for(x in s_squ)s_sqq[
+s_squ[x]]+=(s_sqq[s_squ[x]]?',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(
+x==q||c<2)){v+=(v?'&':'')+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0
+)}function s_wdl(e){s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(
+e);if(s_wd.s_ls)s_wd.s_ls();return r}function s_wds(un){un=
+un.toLowerCase();s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=
+5)){s_wd.s_wd_l=0;if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[
+s_wd.s_unl.length]=un;if(s_d.body&&s_d.body.attachEvent){if(
+!s_wd.s_bcr&&s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}
+else if(s_d.body&&s_d.body.addEventListener){if(!s_wd.s_bcr&&
+s_d.body.addEventListener('click',s_bc,false))s_wd.s_bcr=1}else{var
+ol=s_wd.onload?s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){
+s_wd.s_ol=s_wd.onload;s_wd.onload=s_wdl}}}}function s_iepf(i,a){if(
+i.substring(0,1)!='{')i='{'+i+'}';if(s_d.body.isComponentInstalled(i,
+'ComponentID')){var n=s_pl.length;s_pl[n]=new Object;s_pl[n].name=i
++':'+s_d.body.getComponentVersion(i,'ComponentID')}return 0}
+function s_vs(un,x){var s=s_gg('visitorSampling'),g=s_gg(
+'visitorSamplingGroup'),k='s_vsn_'+un+(g?'_'+g:''),n=s_c_r(k),e=
+new Date,y=e.getYear();e.setYear(y+10+(y<1900?1900:0));if(s){s*=100
+if(!n){if(!s_c_w(k,x,e))return 0;n=x}if(n%10000>s)return 0}return 1}
+function s_gs(un){un=un.toLowerCase()
+s_un=un;var trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(
+Math.random()*10000000000000):tm.getTime(),sess='s'+Math.floor(
+tm.getTime()/10800000)%10+sed,yr=tm.getYear(),t,ta='',q='',qs='';yr=
+yr<1900?yr+1900:yr;t=tm.getDate()+'/'+tm.getMonth()+'/'+yr+' '
++tm.getHours()+':'+tm.getMinutes()+':'+tm.getSeconds()+' '+tm.getDay()
++' '+tm.getTimezoneOffset();if(!s_q){var tfs=s_gtfs(),tl=tfs.location,
+r=tfs.document.referrer,s='',c='',v='',p='',bw='',bh='',j='1.0',g=
+s_wd.location,k=s_c_w('s_cc','true',0)?'Y':'N',hp='',ct='',iepl=s_gg(
+'iePlugins'),pn=0,ps;if(s_apv>=4)s=screen.width+'x'+screen.height;if(
+s_isns||s_isopera){if(s_apv>=3){j='1.1';v=s_n.javaEnabled()?'Y':'N'
+if(s_apv>=4){j='1.2';c=screen.pixelDepth;bw=s_wd.innerWidth;bh=
+s_wd.innerHeight;if(s_apv>=4.06)j='1.3'}}s_pl=s_n.plugins}else if(
+s_isie){if(s_apv>=4){v=s_n.javaEnabled()?'Y':'N';j='1.2';c=
+screen.colorDepth;if(s_apv>=5){bw=s_d.documentElement.offsetWidth;bh=
+s_d.documentElement.offsetHeight;j='1.3';if(!s_ismac&&s_d.body){
+s_d.body.addBehavior("#default#homePage");hp=s_d.body.isHomePage(tl)?
+"Y":"N";s_d.body.addBehavior("#default#clientCaps");ct=
+s_d.body.connectionType;if(iepl){s_pl=new Array;s_pt(iepl,',',s_iepf,
+'');}}}}else r='';if(!s_pl&&iepl)s_pl=s_n.plugins}if(s_pl)while(pn<
+s_pl.length&&pn<30){ps=s_fl(s_pl[pn].name,100)+';';if(p.indexOf(ps)<0)
+p+=ps;pn++}s_q=(g?'&g='+s_ape(s_fl(g,255)):'')+(r?'&r='+s_ape(s_fl(r,
+255)):'')+(s?'&s='+s_ape(s):'')+(c?'&c='+s_ape(c):'')+(j?'&j='+j:'')+(
+v?'&v='+v:'')+(k?'&k='+k:'')+(bw?'&bw='+bw:'')+(bh?'&bh='+bh:'')+(ct?
+'&ct='+s_ape(ct):'')+(hp?'&hp='+hp:'')+(s_vb?'&vb='+s_vb:'')+(p?'&p='
++s_ape(p):'')}if(s_gg('usePlugins'))s_wd.s_doPlugins();q+=(t?'&t='
++s_ape(t):'')+s_hav();if(s_lnk||s_eo){var o=s_eo?s_eo:s_lnk;if(!o)
+return '';var p=s_wd.s_g_pageName,w=1,t=s_ot(o),n=s_oid(o),x=o.s_oidt,
+h,l,i,oc;if(s_eo&&o==s_eo){while(o&&!n&&t!='BODY'){o=o.parentElement?
+o.parentElement:o.parentNode;if(!o)return '';t=s_ot(o);n=s_oid(o);x=
+o.s_oidt}oc=o.onclick?o.onclick.toString():'';if(oc.indexOf("s_gs(")>=
+0)return ''}ta=o.target;h=o.href?o.href:'';i=h.indexOf('?');h=s_gg(
+'linkLeaveQueryString')||i<0?h:h.substring(0,i);l=s_gg('linkName')?
+s_gg('linkName'):s_ln(h);t=s_gg('linkType')?s_gg('linkType'
+).toLowerCase():s_lt(h);if(t&&(h||l))q+='&pe=lnk_'+(t=='d'||t=='e'?
+s_ape(t):'o')+(h?'&pev1='+s_ape(h):'')+(l?'&pev2='+s_ape(l):'');else
+trk=0;if(s_gg('trackInlineStats')){if(!p){p=s_wd.location.href;w=0}p=
+p?s_fl(p,255):'';t=s_ot(o);i=o.sourceIndex;if(s_gg('objectID')){n=
+s_gg('objectID');x=1;i=1}if(p&&n&&t)qs='&pid='+s_ape(p)+(w?'&pidt='+w:
+'')+'&oid='+s_ape(n)+(x?'&oidt='+x:'')+'&ot='+s_ape(t)+(i?'&oi='+i:'')
+}s_wd.s_linkName=s_wd.s_linkType=s_wd.s_objectID=s_lnk=s_eo='';if(
+!s_wd.s_disableLegacyVars)s_wd.linkName=s_wd.linkType=s_wd.objectID=''
+}if(!trk&&!qs)return '';var code='';if(un){if(trk&&s_vs(un,sed))code+=
+s_mr(un,sess,q+(qs?qs:s_rq(un)),ta);s_sq(un,trk?'':qs)}else if(
+s_wd.s_unl)for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[
+unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
+s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
+s_wds(un);s_ca(un);return s_gs(un)}
+s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
+
+</script><img name="s_i_onlineedaiu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/onlineedaiu/1/G.5-Pd-R/s63286223639160?[AQB]&amp;ndh=1&amp;t=31/0/2020%202%3A33%3A40%205%200&amp;pageName=AIU%20Online%20-%20WEB/20080820013152ID_/HTTP%253A//WWW.AIU-ONLINE.COM/%20PRIVACY&amp;server=10.50.52.13&amp;g=https%3A//web.archive.org/web/20080820013152id_/http%253A//www.aiu-online.com/privacy.aspx&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 
-<!-- END omniture -->
-
-<script language="javascript" src="http://server.iad.liveperson.net/hc/9420105/x.js?cmd=file&amp;file=chatScript3&amp;site=9420105&amp;imageUrl=http://www.aiuonline.edu/main/images/"> </script>
 
 
 
-<!-- InstanceParam name="Optional_h1_Text" type="boolean" value="false" -->
-<!-- InstanceParam name="Optional_h2_Text" type="boolean" value="false" -->
-<!-- InstanceParam name="Optional_h3_Text" type="boolean" value="false" -->
-<!-- InstanceParam name="bodyid" type="text" value="" -->
-<!-- InstanceParam name="Optional_Contact_Inc" type="boolean" value="true" -->
-<!-- InstanceParam name="Optional_StudentResources_Inc" type="boolean" value="true" -->
-<!-- InstanceParam name="Optional_Campuses_Inc" type="boolean" value="true" -->
+		
+		 <script type="text/javascript">
+			<!--
+			var Accordion1 = new Spry.Widget.Accordion("Accordion1", { defaultPanel: 0, useFixedPanelHeights: false });			
+			//-->
+		</script>					   
+	 
 
-<!-- InstanceEnd -->
-</body></html>
+
+<!-- BEGIN Invitation Positioning  -->
+<script language="javascript" type="text/javascript">
+var lpPosY = 100;
+</script>
+<!-- END Invitation Positioning  -->
+<!-- BEGIN Monitor Tracking Variables -->
+<script language="JavaScript1.2">
+if (typeof(tagVars) == "undefined") tagVars = "";
+tagVars += "&SESSIONVAR!skill=chat";
+</script>
+<!-- End Monitor Tracking Variables -->
+
+    <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/9420105/x.js?cmd=file&amp;file=chatScript3&amp;site=9420105&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatBox-Gallery/English/General/custom-chatbox/header"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+
+</div></body></html>
