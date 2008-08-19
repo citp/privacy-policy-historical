@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084026id_/http%3A//www.thewiire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819201222id_/http%3A//thewiire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Wiire - Privacy Policy
 
