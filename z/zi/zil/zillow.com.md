@@ -1,62 +1,26 @@
-> *The following text is extracted and transformed from the zillow.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217234151id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillow.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820012645id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
 
-# Zillow - Privacy Policy
+# Privacy Policy | Zillow Real Estate
 
-Zillow.com respects your privacy and recognizes the importance of protecting information collected from you through Zillow.com's Web site, related data, and/or related services (collectively, the "Services"). We have adopted this privacy policy. Zillow.com will comply with this policy, and applicable privacy-related law, when we gather and use information from users of the Services. 
+At Zillow.com ("Zillow" or "we" or "us" or "our"), we appreciate your use of and contributions to our Web site and features (known as the "services"). Zillow respects your privacy and is committed to protecting your personal information.
 
-This policy is current as of its last revision date below. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. You should check back for the most current version before relying on any of the provisions in this privacy policy. 
+This is our privacy policy and we will comply with it, as well as applicable U.S. privacy law, when we gather and use information from users of our services. We encourage you to read this privacy policy to understand what we do with the information we collect from you.
+
+### Advertising-Supported Business Model
+
+Zillow and our extensive set of features are generally funded through advertising dollars. This advertising [revenue](https://web.archive.org/corp/HowZillowMakesMoney.htm) helps keep Zillow free of charge for our user community. It also allows us to explore and build new features.
+
+We strive to make advertisements relevant and useful to you. Therefore, we may serve advertisements to you based on the information we collect from you or in relation to your interaction on our site.
+
+We pledge to be transparent about the information we monitor and collect from you. We keep information private between you and Zillow, except as explained below. 
 
 ### Collection of Information
 
-Zillow.com collects a variety of information relating to usage of the Services.
+When you use Zillow, we collect a variety of information.
 
-  * **Information you provide.** You may provide us information about yourself, such as providing your e-mail address so we can send you information about the Services, or sending us e-mail. We use this information to respond to your requests, and to provide and improve the Services. We may combine this information with other information we collect from the Services or from other companies. 
-  * **Cookies.** Cookies are bits of electronic information that can be transferred to a user's computer to uniquely identify the user's browser. When you visit the Services, we place one or more cookies on your computer. The use of cookies helps us improve the quality of the Services in various ways, such as identifying which Services are most interesting to you, or storing information you may want to retrieve on a regular basis or tracking user trends. You may adjust settings on your browser to refuse cookies. Also, we work with one or more service providers to track and manage cookie information; you may opt out of cookie tracking and analysis as identified below in Opting Out. Some Services and features may not function property if you disable cookies. 
-  * **Usage logs.** When you access the Services, your computer communicates a variety of information to computer servers operating the Services, including the existence of cookies, your Internet Protocol address, and information about your browser program. Your usage also creates a record of what information you are requesting from the Services. 
-
-
-
-### Usage and Disclosure
-
-In general, Zillow.com uses the information collected to provide the Services and to communicate with you.
-
-We will only share personal information in the following circumstances:
-
-  * **Consent.** When you consent or direct Zillow.com to share the information.
-  * **Affiliates and service providers.** When Zillow.com provides personal information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy. 
-  * **Legal Obligation or Protection from Harm.** When Zillow.com has a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/corp/Terms.htm), (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, or (d) protect the rights, property, or safety of Zillow.com, its users, or the public against harm. 
-  * **Merger or sale.** When and if Zillow.com is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business. 
+  * **Information you provide.** When using our site and services, you may provide information about yourself, such as name, address, and e-mail. This may occur when you register on Zillow, claim a home, or complete other forms, such as a loan request. We may combine this information with other information we collect from your activity on our Web site or from other companies. 
+  * **Cookies and Web beacons.** Cookies are bits of electronic information that can be transferred to a computer to uniquely identify that computer's browser. When you visit Zillow and use our services, we may place one or more cookies on your computer. The use of cookies helps us improve the quality of our services to you, by identifying information which is most interesting to you, tracking trends, or storing information you may want to retrieve on a regular basis, such as your favorite homes. At any time, you may adjust settings on your browser to refuse cookies. However, if you choose to disable cookies, many of the free features and services on Zillow will not operate properly. Also, the pages of our service may include Web beacons, which are electronic files to count users who have visited that page or to identify certain cookies on the computer accessing that page.
+  * **Third-party cookies.** We work with service providers and advertising networks to track and manage cookie information and your activities while you're on Zillow or using our services. You may opt-out of cookie tracking and analysis from any of these ad networks by Opting Out of Collection of Information, which is explained further below.
+  * **Usage logs.** When you use Zillow, your computer communicates a variety of information to computer servers, including the existence of cooki
 
 
-
-We may share with third parties aggregate information or information that does not personally identify individuals. 
-
-### Opting Out
-
-If you want Zillow.com to cease sending you e-mail about the Services, you can discontinue such communication by following the instructions included in our e-mail, or if you have a user account with Zillow.com, you can [indicate your preference](https://web.archive.org/myzillow/Account.htm). If you do not want Zillow.com and its marketing service provider to follow your usage of the Services via cookies, you can opt out of the Web site analysis tool by clicking here: <http://www.omniture.com/global/privacy>.
-
-### Collection of Information by Ad Servers
-
-Zillow.com may use a third party to present or serve advertisements that you may see at Zillow.com Web pages. These third-party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers, please [click here](http://www.networkadvertising.org/).
-
-### Windows Live™ Virtual Earth
-
-Windows Live Virtual Earth imagery is supplied by Microsoft Corporation, and use is subject to the Microsoft MapPoint [Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=21970). 
-
-### Third Party Web Sites
-
-The Services may include links to the Web sites of other companies and/or individuals. These third party Web sites may collect personal information about users on those Web sites, and Zillow.com's privacy policy does not extend to these external Web sites and third parties. Please refer directly to these third parties and Web sites regarding their privacy policies.
-
-### Children Under the Age of 13
-
-Zillow.com will not knowingly collect personally identifiable information from any person under the age of 13. The Services are not designed to attract the attention of persons under the age of 13.
-
-### Storage and Security of Information
-
-Personal information will be processed and stored by Zillow.com in databases hosted in the United States. Zillow.com has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
-
-### Contacting Zillow.com
-
-If you have any questions about this privacy statement, or the privacy practices of Zillow.com, please contact us by e-mailing [privacy@zillow.com](mailto:privacy@zillow.com) .
-
-_— Updated November 2006_
