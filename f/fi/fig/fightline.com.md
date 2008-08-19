@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the fightline.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513031057id_/http%3A//www.fightline.com/pages/mma_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightline.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819173814id_/http%3A//www.fightline.com/pages/mma_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - FightLine.com
 
-[](http://www.fightline.com/pages/mma_home.html) | [](http://www.fightline.com/pages/mma_home.html) | [](http://www.fightline.com/pages/mma_home.html) |   
-|  |   
+[](http://www.fightline.com/pages/mma_home.html) | [](http://www.fightline.com/pages/mma_home.html) | [](http://www.fightline.com/pages/mma_home.html)  
+|    
+  
+|   
 ---  
   
-  
-  
----  
-  
-Who takes the UFC 84 main event?
+Who would win a GSP - BJ Penn fight?
 
- **    Penn via KO  
-   Sherk via KO  
-   Penn via sub   
-   Sherk via sub  
-   Penn via decision  
-   Sherk via decision  
-   Undecided   
+ **    GSP via KO / TKO  
+   GSP via Sub  
+   GSP via Decision  
+   Penn via KO / TKO  
+   Penn via Sub  
+   Penn via Decision  
+   Undecided  
 **   
   
   
