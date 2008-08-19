@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaleidescape.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514154325id_/http%3A//www.kaleidescape.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaleidescape.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820014806id_/http%3A//www.kaleidescape.com/site/privacy.php) for the most accurate reproduction.*
 
 # Kaleidescape - Privacy Policy
 
