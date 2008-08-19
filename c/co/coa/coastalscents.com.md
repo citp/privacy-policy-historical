@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619072613id_/http%3A//www.coastalscents.com/cfwebstore/index.cfm%3Ffuseaction%3Dpage.display%26page_id%3D152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819064856id_/http%3A//www.coastalscents.com/cfwebstore/index.cfm%3Ffuseaction%3Dpage.display%26page_id%3D152) for the most accurate reproduction.*
 
 # Coastal Scents:
 
