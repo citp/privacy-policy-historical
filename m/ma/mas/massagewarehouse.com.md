@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200931id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819152601id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.*
 
 # Massage Warehouse
 
@@ -32,8 +32,6 @@ _What we do with your information_
 
   _Privacy and Security_
 
-  We use GeoTrust to enable the use of digital certificates. You can click on the GeoTrust logo at the bottom right of each page to verify that Massage Warehouse.com is a GeoTrust secure site. For your security, the verification process happens in the background every time you place an order on our site. 
-
   Massage Warehouse uses several of the latest encryption technologies to keep your personal information safe. Your private ordering information - including your credit card number - is encrypted using several keys for maximum security. Your credit card and billing information cannot be read as it travels to our ordering system (128 bit SSL encryption), and the numbers are unreadable to anyone trying to access the site remotely. We have implemented the requisite physical, electronic, and managerial processes to prevent unauthorized access, and maintain data security. 
 
   _Updating or Changing Contact Preferences_
@@ -54,12 +52,12 @@ _What we do with your information_
 
   Massage Warehouse reserves the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be a full refund. 
 
-  The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. We cannot be held responsible for incorrect pricing on our website. Please review our [Return & Exchange Policy](https://web.archive.org/web/20080511200931id_/http%3A//www.massagewarehouse.com/returns.asp). 
+  The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. We cannot be held responsible for incorrect pricing on our website. Please review our [Return & Exchange Policy](https://web.archive.org/web/20080819152601id_/http%3A//www.massagewarehouse.com/returns.asp). 
 
   While Massage Warehouse makes best efforts to maintain the security of customer transactions, its liability in cases of third party theft or misuse is limited to the funds which Massage Warehouse has already collected in reference to the customer's most recent order. 
 
   Massage Warehouse does not warrant that this site, its servers, or its electronic communication are free of viruses or other harmful components. Massage Warehouse will not be liable for damages arising from the use of this site, including but not limited to direct, indirect, incidental, punitive and consequential damages. 
 
-  You agree that the laws of the State of Georgia, without regard to principles of conflict of laws, will govern these Terms of Service and any dispute of any sort that might arise between you and Massage Warehouse. 
+  You agree that the laws of the State of Illinois, without regard to principles of conflict of laws, will govern these Terms of Service and any dispute of any sort that might arise between you and Massage Warehouse. 
 
   Thank you for your understanding and choosing Massage Warehouse. 
