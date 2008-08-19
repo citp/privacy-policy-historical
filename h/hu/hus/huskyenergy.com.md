@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219012340id_/http%3A//www.huskyenergy.ca/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819190222id_/http%3A//www.huskyenergy.com/privacystatement) for the most accurate reproduction.*
 
 # Husky Energy
 
@@ -67,7 +67,7 @@ If you do refuse or withdraw your consent, please be aware that this may affect 
 
 _(d) Contacting Husky_
 
-Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are Vice President Legal and Vice President Corporate Administration. You may email the Privacy Officers at [privacyofficer@huskyenergy.ca](mailto:privacyofficer@huskyenergy.ca), or you may contact the Privacy Officers at: 
+Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are Vice President Legal and Vice President Corporate Administration. You may email the Privacy Officers at [privacyofficer@huskyenergy.com](mailto:privacyofficer@huskyenergy.com), or you may contact the Privacy Officers at: 
 
 > Husky Energy Inc.  
 > Attention: Privacy Officers  
