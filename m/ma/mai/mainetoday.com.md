@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614033609id_/http%3A//www.mainetoday.com/membercenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetoday.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820000419id_/http%3A//www.mainetoday.com/membercenter/privacy.html) for the most accurate reproduction.*
 
 # MaineToday.com Privacy Policy
 
 Privacy Policy
 
-The following statement explains how the Web sites operated by Blethen Maine Newspapers collect and use your personal information. These Web sites include: pressherald.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com
+The following statement explains how the Web sites operated by Blethen Maine Newspapers collect and use your personal information. These Web sites include, but are not limited to: pressherald.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com
 
 **The basic principle**  
 In general, we will never intentionally disclose your personal information to any third party for their use without first receiving your express permission. We will not send you e-mail unless you have requested it or unless it's in the course of a transaction you have initiated.
