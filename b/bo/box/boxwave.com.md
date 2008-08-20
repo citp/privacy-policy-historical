@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110064848id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820161611id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
 
-# BoxWave - Privacy Policy
+# Privacy Policy
 
 **BoxWave Privacy Policy**  
   
