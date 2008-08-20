@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paganspace.net privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527234241id_/http%3A//www.paganspace.net/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.paganspace.net%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paganspace.net privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820052048id_/http%3A//www.paganspace.net/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.paganspace.net%252F) for the most accurate reproduction.*
 
-# Privacy Policy - PaganSpace.Net
+# Privacy Policy - PaganSpace.net
 
 Updated: February 2007
 
