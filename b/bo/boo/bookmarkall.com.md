@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkall.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613192935id_/http%3A//www.bookmarkall.com/bookmark/services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkall.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820062422id_/http%3A//bookmarkall.com/bookmark/services/privacy.aspx) for the most accurate reproduction.*
 
 # BookmarkAll Service Security and Privacy Policies
 
