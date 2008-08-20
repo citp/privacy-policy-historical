@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052537id_/http%3A//www.eq2flames.com/admin-requests-feedback/8562-eq2flames-com-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820055149id_/http%3A//www.eq2flames.com/admin-requests-feedback/8562-eq2flames-com-privacy-policy.html) for the most accurate reproduction.*
 
 # EQ2Flames.com Privacy Policy - EQ2Flames Forum
 
