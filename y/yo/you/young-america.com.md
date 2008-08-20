@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the young-america.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609210130id_/http%3A//www.young-america.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the young-america.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820123554id_/http%3A//young-america.com/privacy.htm) for the most accurate reproduction.*
 
 # Young America
 
