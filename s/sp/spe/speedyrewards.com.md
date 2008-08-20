@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164215id_/http%3A//www.speedway.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820031801id_/http%3A//speedway.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Statement
 
@@ -32,7 +32,7 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (10) **Other Sites**. This privacy statement applies only to this Web Site. While this Web Site may contain links to other third party sites, Company is not responsible for the practices or contents of such third party sites.   
    
-(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [Contact Us Section](https://web.archive.org/web/20080509164215id_/http%3A//www.speedway.com/ContactUs/) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Statement are in the Subject line.   
+(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [Contact Us Section](https://web.archive.org/web/20080820031801id_/http%3A//speedway.com/ContactUs/) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Statement are in the Subject line.   
   
 * * *
 
