@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adirondacksolutions.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503011222id_/http%3A//www.adirondacksolutions.com/PrivPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adirondacksolutions.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820094932id_/http%3A//www.adirondacksolutions.com/PrivPolicy.cfm) for the most accurate reproduction.*
 
 # Adirondack Solutions
 
