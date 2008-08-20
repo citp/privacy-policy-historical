@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601103147id_/http%3A//www.rsaconference.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820205337id_/http%3A//www.rsaconference.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # RSA Conference :: Privacy Policy
 
@@ -50,8 +50,6 @@ In each solicitation sent online, RSA furnishes individuals with a link or notic
 RSA will pass on your contact information to other companies or individuals if you specifically ‘opt-in” to being contacted. Once you have opted in to have your contact information passed to another company or inidivual, your contact details will become subject to their privacy policies and terms of conditions. Otherwise, RSA never rents or sells email addresses to any other company or individual.
 
 RSA always discloses its identity in mass email communication, and provides specific company contact information.
-
-We welcome and encourage your [input](mailto:webmaster@rsaconference.com) on this policy. To be removed from our email list, please [email your opt-out request](mailto:webmaster@rsaconference.com).
 
 **_RSA Conference Email Marketing Communication Policy_**
 
