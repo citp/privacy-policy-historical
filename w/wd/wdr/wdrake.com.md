@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820094602id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%23privacy) for the most accurate reproduction.*
 
 # Walter Drake
 
-|  |  |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=New) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Customer+Favorites) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=As+Seen+On+TV) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Sale) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Clearance)  
----|---|---|---|---  
+|  |   
+---  
   
-| [Home](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/Default.aspx) :: [Customer Service](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx)  
+| [Home](https://web.archive.org/web/20080820094602id_/http%3A//www.wdrake.com/WalterDrake/Default.aspx) :: [Customer Service](https://web.archive.org/web/20080820094602id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20080820094602id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence |  **Call us at** 1-800-525-9291  
@@ -15,6 +15,7 @@ Shop With Confidence |  **Call us at** 1-800-525-9291
    
 |  _100% Satisfaction Guarantee_  
 ---  
+_Installment Billing Details_  
 _Privacy and Security Policy_  
 _Terms of Use_  
    
@@ -39,8 +40,13 @@ Please include the following information with all returned items:
 
 If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our 
 
-[_Returns & Exchanges_](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Ordering.aspx#returns) information.   
+[_Returns & Exchanges_](https://web.archive.org/web/20080820094602id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Ordering.aspx#returns) information.   
 _Back to top of page_  
+   
+**_Installment Billing Details:_**  
+Installment billing is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $60 after discounts, promotions, and gift certificates have been applied to your order.   
+Your merchandise total will be divided into equal payments. The first payment will also include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payments may be split based on when your items ship. There is no interest charged by Walter Drake for installment billing. Normal interest charges may be applied by your credit card company per your individual card agreement.   
+If unable to obtain credit card authorization at the time of billing, you authorize Walter Drake to charge up to the full unpaid balance to another credit card we have on file.   
    
 **_Privacy and Security Policy_**  
 At wdrake.com, we respect your privacy and have established diligent procedures to ensure that your personal information is handled in a safe, secure, responsible manner. Below we describe why we gather information from our customers, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. 
@@ -118,7 +124,7 @@ A "cookie" is a small file stored on your computer by a web site that gathers ce
 "Web bugs" or "Web beacons" are devices placed inside emails that allow us to track certain activity. Tracked activity includes being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked. We do not use these devices for any other tracking activity. 
 
 **_How do you opt out of wdrake.com email promotions?_**   
-From time to time, Walter Drake will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address and agreed to receive our emails. We will never share, rent or sell your email address. If you do not wish to receive email from us, you may unsubscribe at any time by any of the following methods: 
+From time to time, Walter Drake will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address and agreed to receive our emails. By signing up to receive our emails, you may also receive an email from another member of our family of companies. We will never share, rent or sell your email address. If you do not wish to receive email from us, you may unsubscribe at any time by any of the following methods: 
 
 * If you receive a promotional e-mail from us, click on the link "Click Here to Unsubscribe" found at the bottom of every e-mail letter we send out.   
 * You may unsubscribe in the "Email Signup" section of our web site.   
