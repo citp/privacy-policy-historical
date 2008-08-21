@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602194112id_/http%3A//www.titleboxingclub.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821123703id_/http%3A//www.titleboxingclub.com/privacy.aspx) for the most accurate reproduction.*
 
 # Title Boxing Club // Privacy
 
