@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605011910id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821184210id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
 
 # flyerspecials.com - Flyers, coupons, savings, online shopping,
 
