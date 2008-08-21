@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commerce.gov privacy policy that was archived on 2008-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080519053913id_/http%3A//www.commerce.gov/ssNODELINK/286) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commerce.gov privacy policy that was archived on 2008-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080821115338id_/http%3A//www.commerce.gov/ssNODELINK/286) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script language="JavaScript">
    var g_HttpRelativeWebRoot = "/s/";
@@ -25,6 +25,10 @@
   <script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
   <ssinfo>
   
+    <fragmentinstance  id="fragmentLanguageUrl" fragmentid="LanguageUrl" library="server:LANGUAGEFRAGMENTLIBRARY">
+    </fragmentinstance>
+    <fragmentinstance  id="fragmentLanguageDictionary" fragmentid="LanguageDictionary" library="server:LANGUAGEFRAGMENTLIBRARY">
+    </fragmentinstance>
     <fragmentinstance id="fragmentCSS" fragmentid="standard_ocio_css" library="server:FRAGLIB"></fragmentinstance>
     <fragmentinstance id="fragmentContentTitle" fragmentid="centerPageHeader" library="server:CENTERPAGEHEADER"></fragmentinstance>
     <fragmentinstance id="fragmentFooter" fragmentid="ocioFooterV1_1" library="server:ocio_website_footer"></fragmentinstance>
@@ -141,11 +145,8 @@
     </fragmentinstance>
     <fragmentinstance  id="fragmentPrinting" fragmentid="DOC_Printing_Dialog" library="server:FRAGLIB">
     </fragmentinstance>
-      
-      
-      
       <fragmentinstance  id="fragmentDynamicNews" fragmentid="NewsList" library="server:DYNAMIC_NEWS_LIST_FRAGMENT">
-        <querytext><![CDATA[dDocType <substring> `Content`  <AND>  dSecurityGroup <substring> `Public`  <AND>  dDocAccount <substring> `DOC/OS/OPA`  <AND>  xContent_Sub_Type <substring> `TopNewsStory`  <AND>  dExtension <matches> `doc`]]></querytext>
+        <querytext><![CDATA[dDocType <substring> `Content`  <AND>  dSecurityGroup <substring> `Public`  <AND>  dDocAccount <substring> `DOC/OS/OPA`  <AND>  xContent_Sub_Type <substring> `TopNewsStory`  <AND>  dExtension <matches> `doc`  <AND>  (xLanguage <matches> `EN`  <OR>  xLanguage <matches> ``)]]></querytext>
         <sortfield><![CDATA[xEdition_Date]]></sortfield>
         <sortorder><![CDATA[Desc]]></sortorder>
         <limitscope><![CDATA[true]]></limitscope>
@@ -445,6 +446,12 @@
   </ssinfo>
   </script>
 
+<!-- SS_BEGIN_SNIPPET(fragmentLanguageUrl,LanguageUrlCode)--><!-- Check for Language variable, if nothing was passed in URL set it to English (en)-->
+			<!-- SS_END_SNIPPET(fragmentLanguageUrl,LanguageUrlCode)-->
+<!-- SS_BEGIN_SNIPPET(fragmentLanguageDictionary,LanguageDictionaryCode)-->				<!-- Be sure to include Language URL fragment BEFORE including this fragment or else this won't work!! -->
+
+			<!-- SS_END_SNIPPET(fragmentLanguageDictionary,LanguageDictionaryCode)-->
+
 <!-- Include javascript libraries -->
 <!-- SS_BEGIN_SNIPPET(fragmentJavascript,javascript_links_included_in_head)-->				<!-- Include prototype javascript library -->
 <script type="text/javascript" src="/s/groups/public/@doc/@os/@ocio/@osds/documents/web_assets/dev01_003939.js"></script>
@@ -457,7 +464,8 @@
 			<!-- SS_END_SNIPPET(fragmentJavascript,javascript_links_included_in_head)-->
 
 <!--SS_BEGIN_SNIPPET(fragmentPageTitle,presentation)-->				  <title>
-      Department of Commerce - Privacy Policy
+    	Department of Commerce - 
+			Privacy Policy
   </title>
 				
 			<!--SS_END_SNIPPET(fragmentPageTitle,presentation)-->
@@ -467,7 +475,7 @@
  
 <!-- SS_BEGIN_SNIPPET(DocMetadataTags,head_tags)-->  
      <meta name="Content ID" content="doc_index">
-     <meta name="Released" content="5/15/08 11:41 AM">
+     <meta name="Released" content="8/15/08 2:54 PM">
      <meta name="Title" content="doc_index">
      <meta name="Author" content="twood">
      <meta name="Description" content="This is the L1 or Primary Landing Page for all of DOC/OS">
@@ -479,6 +487,7 @@
      <meta name="Account" content="DOC/OS/OPA">
      <meta name="Format" content="">
 			<!-- SS_END_SNIPPET(DocMetadataTags,head_tags)-->
+
 </head>
  
  <body>
@@ -497,7 +506,7 @@
      <div id="masthead_search_bar">
        <!-- SS_BEGIN_SNIPPET(fragmentSearchBoxTop,search_form_code)-->
 				<!-- Start FirstGov Search Box -->
-	<form method="get" action="http://firstgovsearch.gov/search">
+	<form method="get" action="http://usasearch.gov/search">
 	    <input type="hidden" name="affiliate" value="commerce.gov">
 	    <input type="hidden" name="v:project" value="firstgov">
 
@@ -521,7 +530,7 @@
      <div id="top_menu_bar_kludge">
       <!--SS_BEGIN_SNIPPET(fragmentTopNav,globalNav)-->				<ul id="top_menu">	
 	<li><a href="/">Home</a></li>
-	<li><a href="/ssNODELINK/163"><span lang="es">En Español</span></a></li>
+	<li><a href="/NewsRoom/index.htm?ssLanguage=ES"><span lang="es">Noticias en español</span></a></li>
 	<li><a href="/ssNODELINK/164">Careers</a></li>
 	<li><a href="http://dir.commerce.gov/">Person Finder</a></li>
 	   
@@ -572,7 +581,7 @@ You Are Here:
 </div>
 
 	<div style="text-align: right; margin-left: 90%; margin-right: 1ex;">
-		<a href="/Privacy/index.htm?format_for_print=true" target="_blank" onclick="javascript:window.open(location.href + '?format_for_print=true', 'Print', 'alwaysRaised=yes,toolbar=no,dependent=yes,status=no,scrollbars=yes');return false;"><img src="/s/groups/public/@doc/@os/@opa/documents/web_assets/dev01_004759.gif" alt="Print without navigation (left or right)" title="Print without navigation (left or right)" style="border: none;"></a>
+		<a href="/Privacy/index.htm?format_for_print=true" target="_blank" onclick="javascript:window.open(location.href + '?format_for_print=true', 'Print', 'alwaysRaised=yes,toolbar=no,dependent=yes,status=no,scrollbars=yes');return false;"><img src="/s/groups/public/@doc/@os/@opa/documents/web_assets/dev01_004759.gif" alt="Print without left or right navigation" title="Print without left or right navigation" style="border: none;"></a>
 	</div>
 </div>
 <div id="content_header_divider_line" style="clear: both;"></div>
@@ -762,7 +771,7 @@ You Are Here:
        	  <dl>
         	<dt><em>Last Updated:</em></dt>
          	<dd><!-- SS_BEGIN_SNIPPET(fragmentLastUpdated,print date)-->  
-    May 15, 2008
+    August 15, 2008
 				
 			<!-- SS_END_SNIPPET(fragmentLastUpdated,print date)--></dd>
        	  </dl>
@@ -846,15 +855,15 @@ You Are Here:
        
         </ul>
   
-        <li><a href="/EconomicNews/index.htm" title="Economic News">Economic News</a></li>
+        <li><a href="/NewsRoom/index.htm" title="Newsroom">Newsroom</a></li>
+  
+       <ul style="display: none;">
+        <li><a href="/NewsRoom/EconomicNews/index.htm" title="Economic News">Economic News</a></li>
   
        <ul style="display: none;">
        
         </ul>
   
-        <li><a href="/NewsRoom/index.htm" title="Newsroom">Newsroom</a></li>
-  
-       <ul style="display: none;">
         <li><a href="/NewsRoom/TopNews/index.htm" title="Top News">Top News</a></li>
   
        <ul style="display: none;">
@@ -961,7 +970,8 @@ You Are Here:
      <li><a href="http://ocio.os.doc.gov/ssNODELINK/9416">Information&nbsp;Quality</a></li>
 	 <li><a href="http://oam.ocs.doc.gov/competitive_sourcing.html">Fair&nbsp;Act</a></li>
 	 <li><a title="Emergency Status Reporting System" href="http://www.safe.doc.gov/">ESR&nbsp;System</a></li>
-	 <li class="last"><a title="Inspector General" href="http://www.oig.doc.gov/oig/">Inspector&nbsp;General</a></li>
+	 <li><a title="Inspector General" href="http://www.oig.doc.gov/oig/">Inspector&nbsp;General</a></li>
+	 <li class="last"><a title="Budget and Performance" href="http://www.osec.doc.gov/bmi/budget/budgetsub_perf_strategicplans.htm">Budget&nbsp;and&nbsp;Performance</a></li>
 </ul>
 				
 			<!--SS_END_SNIPPET(fragmentFooter,StaticFooter)-->
