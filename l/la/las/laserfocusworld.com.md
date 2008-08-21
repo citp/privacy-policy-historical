@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516051229id_/http%3A//laserfocusworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821103945id_/http%3A//www.laserfocusworld.com/privacy.html) for the most accurate reproduction.*
 
 # Laser Focus World:Laser, Optics, Photonics News & Technology Advances
 
