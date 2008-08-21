@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514060015id_/http%3A//www.coolnurse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821143959id_/http%3A//coolnurse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | CoolNurse.com
 
@@ -10,7 +10,7 @@ This Privacy and Information Security Policy ("this Policy") discusses the infor
 
 ### This Policy and the Terms of Use.
 
-This Policy is part of and incorporated into the CoolNurse.com [Terms of Use](https://web.archive.org/web/20080514060015id_/http%3A//www.coolnurse.com/terms-of-use.htm) (collectively, the "Terms"). 
+This Policy is part of and incorporated into the CoolNurse.com [Terms of Use](https://web.archive.org/web/20080821143959id_/http%3A//coolnurse.com/terms-of-use.htm) (collectively, the "Terms"). 
 
 **BY PROVIDING PERSONAL INFORMATION OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
 
@@ -27,6 +27,6 @@ This Policy is part of and incorporated into the CoolNurse.com [Terms of Use](ht
 
 The information collected by third party cookies is subject to the privacy policy of the third party, not CoolNurse.com's privacy policy.
 
-    4. _Promotions, Sweepstakes, and Contests._ From time to time, we may host a promotion, sweepstake, or contest on the Service. 
+    4. _Promotions, Sweepstakes, and Contests._ From time to time, we may host a promotion, sweepstake, or contest on the Service. You May be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it 
 
 
