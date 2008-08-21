@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509101107id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dictionary.com privacy policy that was archived on 2008-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080821114259id_/http%3A//www.dictionary.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Dictionary.com</title>
@@ -15,39 +15,13 @@
 <link rel="stylesheet" href="http://cache.lexico.com/css/d/help.css" type="text/css" media="all">
 <script type="text/javascript" language="JavaScript" src="http://cache.lexico.com/js/premium.js"></script>
 <link rel="stylesheet" href="http://cache.lexico.com/css/d/wideright.css" type="text/css" media="all">
-<script language="JavaScript" type="text/javascript">
-<!--
-_version=10;
-// -->
-</script>
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1) { _version=10; }
-// -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-var OAS='http://oascentral.reference.com/RealMedia/ads/';
-var sitepage = "dictionary.reference.com/help/privacy.html";
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-
-function DisplayAds (position, width, height) {
-	var OASpage = sitepage + '/1' + RNS + '@' + position;
-
-	if (_version < 11) {
-		document.write ('<a href="' + OAS + 'click_nx.ads/'+ OASpage + '" target="_top"><img src="' + OAS + 'adstream_nx.ads/' + OASpage + '" border="0" width="' + width + '" height="' + height + '"><\/a>');
-	}
-
-	else {
-		document.write ('<script language="JavaScript1.1" src="' + OAS + 'adstream_jx.ads/' + OASpage + '">');
-		document.write ('\<\!-- --\>');
-		document.write ('\<\/script\>');
-		document.write ('\<\!-- --\>');
-	}
-}
-// -->
+<script type="text/javascript">
+aamPageId = Math.round(Math.random() * 1000000000);
+aamRndNum = Math.round(Math.random() * 1000000000) * 9;
+for (aamRndNum = ''; aamRndNum.length < 10;)
+aamRndNum += Math.round(Math.random() * 9);
+var adServer, aamPageId, aamRndNum;
+adServer = 'http://iacas.adbureau.net';
 </script>
 <script language="JavaScript" type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script language="JavaScript" type="text/javascript">
@@ -79,7 +53,7 @@ function jump2form() {
 function isblank(s) {
 	for(var i = 0; i < s.length; i++) {
 		var c = s.charAt(i);
-		if ((c != ' ') && (c != '\n') && (c != '\t')) {
+		if ((c != ' ') && (c != "\n") && (c != "\r") && (c != "\t")) {
 			return false;
 		}
 	}
@@ -90,7 +64,18 @@ function formcheck() {
 	var q = document.search_form.q.value;
 	var redirectURL = DetermineRedirectURL(q);
 		
-	if ((q == null) || (q == "") || isblank(q)) {
+	if ((q == null) || (q == "") || isblank(q) || (typeof(q)  == "undefined")) {
+		redirectURL = DetermineRedirectURL('search');
+	}
+	location.href = redirectURL;
+	return false;
+}
+
+function formcheck_old() {
+	var q = document.search_form.q.value;
+	var redirectURL = DetermineRedirectURL(q);
+		
+	if ((q == null) || (q == "") || isblank(q) || (typeof(q)  == "undefined")) {
 		alert("Please enter a word to look up.");
 		jump2form();
 		return false;
@@ -100,6 +85,7 @@ function formcheck() {
 }
 //-->
 </script>
+<script type="text/javascript">document.domain='reference.com';</script>
 </head>
 <body class="dictionary">
 <a name="top"></a>
@@ -108,8 +94,8 @@ function formcheck() {
 <div class="sub">
 <a href="/" id="home"><img src="http://cache.lexico.com/g/d/dictionary_logo.gif" alt="Dictionary.com" width="182" height="43" border="0"></a>
 <ul id="controls">
-<li><img src="http://cache.lexico.com/g/d/premium_mh.gif" alt="[P]" class="pl" width="17" height="16" border="0"> <a href="/premium/index.html">Premium Content</a> | </li>
-<li><a href="https://secure.reference.com/cgi-bin/premium/register.pl">Register</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fdictionary.reference.com%2Fhelp%2Fprivacy.html">Log In</a> | </li>
+<!-- <li><img src="http://cache.lexico.com/g/d/premium_mh.gif" alt="[P]" class="pl" width="17" height="16" border="0" /> <a href="/premium/index.html">Premium Content</a> | </li> -->
+<li><img src="http://cache.lexico.com/g/d/premium_mh.gif" alt="[P]" class="pl" width="17" height="16" border="0"> <a href="https://secure.reference.com/cgi-bin/premium/register.pl">Register</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fdictionary.reference.com%2Fhelp%2Fprivacy.html">Log In</a> | </li>
 <li><a href="/help/">Help</a></li>
 </ul>
 <div id="search">
@@ -135,36 +121,42 @@ function formcheck() {
 <div id="main">
 <div class="sub">
 <div class="banner ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-DisplayAds("Top,Right2,Right1!Top", "90", "728");
-//-->
-</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/dictionary.reference.com/help/privacy.html/1423190422@Top,Right2,Right1!Top"><!-- --></script><!-- -->
-<br>Advertisement</div>
+<script language="javascript">
+var adTarget;
+adTarget ='/site=dictionary.com/area=help/aamsz=728x90' +'/pageid=' + aamPageId +'/random=' + aamRndNum;
+document.writeln('<scr' + 'ipt language="javascript" type="text/javascript" ' +'src="' + adServer + '/jserver' + adTarget + '"></scr' + 'ipt>');
+</script><script language="javascript" type="text/javascript" src="http://iacas.adbureau.net/jserver/site=dictionary.com/area=help/aamsz=728x90/pageid=500100505/random=4828731367"></script>
+
+</div><p></p>
 
 <div id="primary" class="column">
-<h1>Dictionary.com <em>Privacy Policy</em></h1><br>
+<h1>Dictionary.com <em>Privacy Policy</em></h1>
 <p>The following discloses our privacy policy for this web site: Dictionary.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).</p>
 <p>We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you do, so we won't give your information to anyone.</p>
 <p>We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.</p>
+<p>Each time you visit our site, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; and (e) the data in any undeleted cookies that your browser previously accepted from us.</p>
 <p>We use your <a href="/search?q=IP%20address">IP address</a> to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to gather broad demographic information.</p>
-<p>This site contains links to other sites.  We are not responsible for the privacy practices or the content of such Web sites.</p>
-<p>Dictionary.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may tell potential advertisers that we have a certain number of subscribers to our <a href="/wordoftheday/list/">Word of the Day mailing list</a>, but we would never tell them that <em>you personally</em> are a subscriber.</p>
+<p>Some elements on the sites such as the sponsored links advertising on our pages, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements for display on the site. We may share the following information with third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries you submit. For example, when you submit a query, we transmit it (and some of the related information described above) to our paid listing providers in order to obtain relevant advertising to display in response to your query. These third party companies have their own policies as to record keeping and data retention.</p>
+<p>This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.</p>
+<p>Dictionary.com shares your personal information only in aggregate form, so that only anonymous information is shared with our affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may tell potential advertisers that we have a certain number of subscribers to our Word of the Day mailing list, but we would never tell them that you personally are a subscriber.</p>
 <p>We use <a href="/search?q=cookie">cookies</a> for various purposes, including:</p>
 <ul>
-<li>to control ad delivery (for example, to limit the number of pop-up ads you see)</li>
+<li>to control ad delivery<!-- (for example, to limit the number of pop-up ads you see) --></li>
 <li>to indicate your subscription status (to check whether or not you are signed in as a subscriber)</li>
 <li>to customize and enhance your experience</li>
 </ul>
+<p>A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.</p>
+<p>Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.</p>
+<p>You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.</p>
 
 <h3>Public Forums</h3>
-<p>This site makes chat rooms, forums, message boards, and news groups available to its users.  Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+<p>This site makes chat rooms, forums, message boards, and news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
 
 <h3>Security</h3>
 <p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
 
 <h3>Children's Guidelines</h3>
-<p>This Web site meets the guidelines of <a href="http://www.truste.org/">TRUSTe's</a> Children's program.<br><b>Dictionary.com DOES NOT</b>:</p>
+<p>This Web site meets the guidelines of <a href="/go/http://www.truste.org/">TRUSTe's</a> Children's program.<br><b>Dictionary.com DOES NOT</b>:</p>
 <ul>
 <li>collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes</li>
 <li>collect personally identifiable offline contact information without prior parental consent</li>
@@ -186,14 +178,21 @@ DisplayAds("Top,Right2,Right1!Top", "90", "728");
 <li><a href="/go/http://www.tribalfusion.com/">Tribal Fusion</a></li>
 <li><a href="/go/http://www.zedo.com/">Zedo</a></li>
 </ul>
+<p>These companies may use information about your visits to the site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the site. Our Privacy Policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: <a href="/go/http://www.networkadvertising.org/">http://www.networkadvertising.org</a>.</p>
 
 <h3>Choice/Opt-Out</h3>
 <p>If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question or use the unsubscribe form on these pages:</p>
 <ul>
 <li><a href="/wordoftheday/list/">Dictionary.com Word of the Day</a></li>
+<li><a href="/wordoftheday/list/es/">Dictionary.com Spanish Word of the Day</a></li>
 <li><a href="/go/http://www.reference.com/thisday/list/">Reference.com On This Day</a></li>
 </ul>
+<!-- 
 <p>We also offer the option to permanently <a href="/go/http://www.reference.com/help/faq/popout.html">opt-out</a> of pop-under advertising from Dictionary.com, Reference.com and Thesaurus.com.</p>
+ -->
+
+<h3>Law Enforcement/Legal Requirements.</h3>
+<p>We may disclose your personally identifiable information as well as your IP address and other information in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use.</p>
 
 <h3>Contacting Us</h3>
 <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p>
@@ -207,19 +206,21 @@ Long Beach, CA 90802<br>
 </div>
 <div id="sidebar" class="column">
 <div class="banner ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-DisplayAds("Top,Right2,Right1!Right2", "250", "300");
-//-->
-</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/dictionary.reference.com/help/privacy.html/1423190422@Top,Right2,Right1!Right2"><!-- --></script><!-- -->
-<br>Advertisement</div>
+<script language="javascript">
+var adTarget;
+adTarget ='/site=dictionary.com/area=help/aamsz=300x250' +'/pageid=' + aamPageId +'/random=' + aamRndNum;
+document.writeln('<scr' + 'ipt language="javascript" type="text/javascript" ' +'src="' + adServer + '/jserver' + adTarget + '"></scr' + 'ipt>');
+</script><script language="javascript" type="text/javascript" src="http://iacas.adbureau.net/jserver/site=dictionary.com/area=help/aamsz=300x250/pageid=500100505/random=4828731367"></script>
+
+</div><p></p>
 <div class="banner ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-DisplayAds("Top,Right2,Right1!Right1", "600", "160");
-//-->
-</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/dictionary.reference.com/help/privacy.html/1423190422@Top,Right2,Right1!Right1"><!-- --></script><!-- -->
-<br>Advertisement</div>
+<script language="javascript">
+var adTarget;
+adTarget ='/site=dictionary.com/area=help/aamsz=160x600' +'/pageid=' + aamPageId +'/random=' + aamRndNum;
+document.writeln('<scr' + 'ipt language="javascript" type="text/javascript" ' +'src="' + adServer + '/jserver' + adTarget + '"></scr' + 'ipt>');
+</script><script language="javascript" type="text/javascript" src="http://iacas.adbureau.net/jserver/site=dictionary.com/area=help/aamsz=160x600/pageid=500100505/random=4828731367"></script>
+
+</div><p></p>
 <script language="JavaScript" type="text/javascript">
 <!--
 GA_googleFillSlot("All_TopRight"); 
@@ -241,21 +242,13 @@ GA_googleFillSlot("All_Bottom1");
 <li>Privacy Policy | </li>
 <li><a href="/help/terms.html">Terms of Use</a> | </li>
 <li><a href="/help/linking/index.html">Link to Us</a> | </li>
+<li><a href="/go/http://www.lexico.com/jobs/index.html">Jobs</a> | </li>
 <li><a href="/help/contact.html">Contact Us</a></li>
+
 </ul>
-<p id="copyright">Copyright © 2008, <a href="/go/http://www.lexico.com/">Lexico Publishing Group, LLC</a>. All rights reserved.</p>
+<p id="copyright">Copyright © <span title="B: 192.168.1.141">20</span><span title="D: 192.168.1.105">08</span>, <a href="/go/http://www.lexico.com/">Dictionary.com, LLC</a>. All rights reserved.</p>
 </div>
 </div>
-<script language="JavaScript" type="text/javascript">
-<!--
-var if_Site_ID='reference';
-var if_sid='1';
-var if_protocol=window.location.protocol;
-var if_tag='<script language="JavaScript" type="text/javascript"' + 'defer src="http' + '://a248.e.akamai.net/7/836/1132/102403/' + if_Site_ID + '.247realmedia.com/scripts/reference_if.js"' + '><\/scr' + 'ipt>';
-var mep1='Site=Dictionary.com&Section=Help&Script=/help/privacy.html&User Type=Normal';
-document.write(if_tag);
-// -->
-</script><script language="JavaScript" type="text/javascript" defer="" src="http://a248.e.akamai.net/7/836/1132/102403/reference.247realmedia.com/scripts/reference_if.js"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -265,15 +258,23 @@ var pageTracker = _gat._getTracker("UA-4036279-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4036279-9");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
 <script type="text/javascript" language="JavaScript">
 <!--
 var wl_ord=new Date().getTime();
 document.write('<img width="1" height="1" src="' + 'http://tu.connect.wunderloop.net/TU/339/821/6005/?AC=on&ord=' + wl_ord + '" />');
 //-->
-</script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/339/821/6005/?AC=on&amp;ord=1580409768115">
+</script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/339/821/6005/?AC=on&amp;ord=1580409765184">
 <noscript>
 <img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/339/821/6005/?AC=on&ord=12345" />
 </noscript>
+<script type="text/javascript" src="/fsrscripts/triggerParams.js"></script> 
+<script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
 
 
 </body></html>
