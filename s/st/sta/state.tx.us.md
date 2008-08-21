@@ -1,47 +1,24 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026123654id_/http%3A//www.state.tx.us/page.jsp%3Flanguage%3Deng%26pageId%3Dpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821223619id_/http%3A//www.texasonline.com/portal/tol/en/policies%23privacy) for the most accurate reproduction.*
 
-# TexasOnline : TexasOnline Accessibility & Site Policies
+# TexasOnline Accessibility & Site Policies
 
-| | 
+### Accessibility
 
-[Home](https://web.archive.org/?language=eng) : TexasOnline Accessibility & Site Policies[](https://web.archive.org/category.jsp?language=eng&categoryId=)   
-
-
-  * Accessibility
-  * Privacy
-  * Security
-  * Linking Policy
-  * Legal Notices
-  * Public Information Act
-
-
-
-## Accessibility
-
-### Statement of Purpose
+#### Statement of Purpose
 
 The Department of Information Resources is committed to providing an accessible web presence that enables the public full access to Texas government information and services. The Department of Information Resources has identified disability as a barrier to Internet access. This policy addresses accessibility from a disability standpoint. The following barriers to Internet access may be addressed in forthcoming versions of this policy: geographic barriers, economic barriers, and language barriers. Understanding that government has a responsibility to provide service to all citizens and businesses in its jurisdiction, the Department of Information Resources will make reasonable efforts to accommodate all users.
 
 In order to make the TexasOnline website accessible, the Department of Information Resources has chosen to comply with high accessibility standards in order to make the TexasOnline web site accessible to all who visit. This policy describes these accessibility standards and may be updated periodically. The current version was approved on July 9, 2004.
 
-### Origin
+#### Origin
 
 The TexasOnline Electronic Framework Project and the TexasOnline Division of the Department of Information Resources were established pursuant to Subchapter I of Chapter 2054, Texas Government Code and the authority of the Department of Information Resources. This document is rendered under the sanction of the Department of Information Resources.
 
-### Definitions
+#### Definitions
 
-Throughout this document unless otherwise specified: 
+Throughout this document unless otherwise specified:
 
-  * "Accessibility" refers to capability of the public to reach online government services and information;
-  * "DIR" means the Department of Information Resources.
-  * "Standards compliant web browsers" are browsers that generally complies with the standards set forth by the Worldwide Web Consortium (W3C) or similar Internet standard setting bodies;
-  * "TexasOnline" refers to any content or applications residing on the TexasOnline domains; or TexasOnline operation, and/or the staff of the primary contractor who manage, oversee or operate said content and applications.
-  * "TexasOnline operation" means the TexasOnline operation of the Department of Information Resources; and
-  * "TexasOnline domains" refer to the following: [http://www.texasonline.com](http://www.texasonline.com/), [http://www.state.tx.us](http://www.state.tx.us/), [http://www.texasonline.state.tx.us](http://www.texasonline.state.tx.us/), [http://info.texas.gov](http://info.texas.gov/), [http://www.tx.gov](http://www.tx.gov/) and [http://www.texas.gov](http://www.texas.gov/).
-
-
-
-### TexasOnline Accessibility Policy / Disability Barriers
+#### TexasOnline Accessibility Policy / Disability Barriers
 
 Some form of disability affects as much as twenty-three percent of the Texas population. These include but are not limited to hearing impairment, visual impairment and cognitive disorders.
 
@@ -49,9 +26,7 @@ The Department of Information Resources is committed to making TexasOnline acces
 
 #### Standard for Compliance
 
-[Section 508](http://www.section508.gov/index.cfm?FuseAction=Content&ID=3) of the Rehabilitation Act of 1973, as amended, sets forth guidelines for developing and maintaining accessible information technology. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that would help achieve these goals. The law applies to all federal agencies when they develop, procure, maintain, or use electronic and information technology. Though not specifically bound by this federal legislation, the Department of Information Resources has chosen to use Section 508 as the standard for accessibility compliance for TexasOnline. 
-
-To verify compliance with Section 508, TexasOnline is regularly tested using Bobby, the leading web site accessibility technology originally created by CAST (Center for Applied Special Technology, an educational, not-for-profit organization) and now maintained by Watchfire software. This testing demonstrates that TexasOnline is compliant with Section 508. In addition, volunteers from various organizations have reviewed the web site. The results of these reviews have been incorporated into the web site to improve its accessibility on a more practical level.
+To ensure TexasOnline.com is accessible to everyone regardless of ability, we keep abreast of current accessibility practices and conduct testing throughout development of the web site and successively when applying new technologies and techniques. Achieving verification of the web site’s conformance with [Section 508](http://www.section508.gov/) is by means of various automated testing tools, such as [Cynthia Says](http://www.cynthiasays.com/) and [aDesigner](http://www.alphaworks.ibm.com/tech/adesigner). Furthermore, adjunctive reviews conducted by volunteers of independent organizations work to bring the accessibility of TexasOnline.com to a more practical level.
 
 #### Additional Information
 
@@ -61,44 +36,35 @@ Additional information about accessibility programs in Texas is available from t
 
 If you use assistive technology and the format of any material on our web site interferes with your ability to access the information, please email [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the web address of the requested material, and your contact information.
 
-If you have any questions or concerns about the TexasOnline Accessibility Policy, please contact us at [accessibility@www.state.tx.us](mailto:accessibility@www.state.tx.us). Each [state agency](http://www.tsl.state.tx.us/trail/agencies.html) and [local government](https://web.archive.org/category.jsp?language=eng&categoryId=11) has its own accessibility policy, which can be accessed through [TexasOnline](http://texasonline.com/).
+If you have any questions or concerns about the TexasOnline Accessibility Policy, please contact us at [accessibility@www.state.tx.us](mailto:accessibility@www.state.tx.us). Each [state agency](http://www.tsl.state.tx.us/trail/agencies.html) and [local government](https://web.archive.org/portal/tol/en/gov/11) has its own accessibility policy, which can be accessed through [TexasOnline](http://texasonline.com/).
 
-If you need to contact us via TDD equipment, dial 7-1-1 and ask the Relay Texas agent to call the TexasOnline webmaster at (512) 475-4700. Relay Texas provides telephone-interpreting service between people who can hear and those who are deaf, hard-of-hearing, deaf-blind or speech-disabled. For additional information please visit the [Relay Texas web site](http://www.puc.state.tx.us/relay/index.cfm).
+Back To Top
 
-## Privacy
+### Privacy
 
-### Statement of Purpose
+#### Statement of Purpose
 
 This policy describes the privacy practices regarding information collected from visitors to TexasOnline. It contains information about what data is collected and how it is used. The TexasOnline Privacy and Security Policy applies only to the TexasOnline site. **This policy does not apply whenever visitors leave the TexasOnline domains and follow a link to another site, including the sites of state agencies and local governments.** If the address in the browser does not indicate one of the TexasOnline domains, you are no longer on the TexasOnline site. The privacy and security policy of the site owner of each site visited should be reviewed to determine how each site owner addresses personally identifiable information. This policy may be updated periodically.
 
 This Policy was approved on October 10, 2003. It was amended October 2004.
 
-### Origin
+#### Origin
 
 The TexasOnline electronic framework project and the TexasOnline operation of the Department of Information Resources were established pursuant to Subchapter I of Chapter 2054, Texas Government Code and the authority of the Department of Information Resources.
 
-### Definitions
+#### Definitions
 
-Throughout this document unless otherwise specified: 
+Throughout this document unless otherwise specified:
 
-  * "DIR" means the Department of Information Resources;
-  * "Governmental body" means those entities identified in the definition of governmental body found at Texas Government Code, Section 552.003, which is part of the Texas Public Information Act.
-  * "Personally identifiable information" means information that could be used to name or distinguish an individual conducting business on TexasOnline from others. Personally identifiable information includes, but is not limited to: name; address; Social Security Number; credit card, debit card, or bank account information numbers; driver's license number, professional license number, occupational license number, and tax identification numbers; and email address.
-  * "TexasOnline" refers to any content or applications residing on the TexasOnline domains; or the Department of Information Resources TexasOnline operation and/or the staff of the primary contractor who manage, oversee or operate said content and applications;
-  * "TexasOnline operation" means the TexasOnline operation of the Department of Information Resources;
-  * "TexasOnline domains" refer to the following: http://www.texasonline.com, http://www.state.tx.us, http://www.texasonline.state.tx.us, http://info.texas.gov, http://www.tx.gov, http://www.texasonline.gov and http://www.texas.gov.
-
-
-
-### Collection of Information
+#### Collection of Information
 
 For online transactions conducted on TexasOnline, individuals will be requested to enter certain information about themselves and/or the organization with which they are affiliated. When personally identifiable information is requested, there will be an indication of whether the disclosure of such information is mandatory or optional to continue the transaction. The type of information requested will vary based upon the type of transaction and the state agency or local government involved in the transaction with the individual. TexasOnline will collect the same information as would be collected if the transaction was performed in person, over the telephone, or through the mail with the state agency or local government. Additional information may be requested if required by law, if such information is necessary to verify an individual’s identity and secure the transaction, or if the visitor would like updates regarding new features offered by TexasOnline. Information regarding TexasOnline features will only be sent to visitors if they explicitly choose to receive it.
 
 For all other browsing, visitors are not asked for personally identifiable information, and none will be collected. The server logs and persistent cookies of TexasOnline collect information about the number and types of visitors to TexasOnline and how they use the website. This information includes the type of browser, operating system, and the Internet Protocol ("IP") address used by each visitor and similar information about the computer network used. It also includes information verifying when and how pages of the website were accessed. However, no attempt is made to match this information with the identity of the visitor, except as is required to comply with a law enforcement investigation.
 
-### Use of Information
+#### Use of Information
 
-Information collected in the course of the transaction is used for the following purposes: 
+Information collected in the course of the transaction is used for the following purposes:
 
   * To conduct online transactions with the appropriate state agency or local government (such as the payment of sales tax or the renewal of a license or permit);
   * To send an email to the individual using the online service confirming the transaction; or
@@ -106,7 +72,7 @@ Information collected in the course of the transaction is used for the following
 
 
 
-Metrics from TexasOnline server logs and persistent cookies are used for the following purposes: 
+Metrics from TexasOnline server logs and persistent cookies are used for the following purposes:
 
   * assessing the usability of TexasOnline,
   * determining what information is of most interest to TexasOnline visitors,
@@ -124,13 +90,15 @@ The Department of Information Resources may be required by law enforcement or ju
 
 **TexasOnline does not sell or release personally identifiable information.** Information provided to any governmental body may be subject to disclosure pursuant to the Texas Public Information Act and applicable federal legislation. Information about the [Texas Public Information Act](http://www.oag.state.tx.us/AG_Publications/txts/2004publicinfohb_3_01.shtml) is available from the Office of the Attorney General and at [Texas Government Code, Chapter 552](http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm). Additionally, although TexasOnline does not sell or release personally identifiable information, certain state agencies or local governments whose sites are accessible through TexasOnline may have different policies concerning the sale or release of personally identifiable information. Information about those policies should be obtained from the appropriate state agency or local government.
 
-### Access to Information
+#### Access to Information
 
 Unless a governmental body is authorized to withhold the information from an individual under Texas Government Code, Section 552.023, individuals are entitled to receive the information that state agencies and local governments collected through TexasOnline. Pursuant to Texas Government Code, Sections 552.021 and 552.023, individuals are entitled to receive and review that information and to have inaccurate information corrected. Pursuant to Texas Government Code, Section 559.004, individuals are entitled to have each governmental body correct inaccurate information. Individuals who discover through the use of TexasOnline that information relating to the individual is incorrect must contact each appropriate state agency or local government directly to request the information held about them and to correct any inaccurate information. Pursuant to Texas Government Code, Chapter 552, each governmental body may charge a fee to an individual who requests information about the data collected about him or her. However, the governmental body may not charge a fee to the individual to correct the information.
 
-## Security
+Back To Top
 
-TexasOnline uses Secure Sockets Layer (SSL) for secure transmissions. SSL applies encryption between two computers, in this case the individual’s personal computer and the TexasOnline server. TexasOnline utilizes 128-bit encryption, which is the strongest encryption currently standard in the marketplace. As a minimum, the following information will be protected when transmitted to TexasOnline: 
+### Security
+
+TexasOnline uses Secure Sockets Layer (SSL) for secure transmissions. SSL applies encryption between two computers, in this case the individual’s personal computer and the TexasOnline server. TexasOnline utilizes 128-bit encryption, which is the strongest encryption currently standard in the marketplace. As a minimum, the following information will be protected when transmitted to TexasOnline:
 
   * Name;
   * Social Security Number;
@@ -140,9 +108,11 @@ TexasOnline uses Secure Sockets Layer (SSL) for secure transmissions. SSL applie
   * Personal identification numbers (PIN) and passwords; and
   * Email addresses.
 
-A web browser will automatically activate the appropriate security features when initiating a transaction on TexasOnline. On most browsers, an unbroken key or locked padlock graphic at the bottom of the browser screen indicates that a secure connection is established. 
 
-### Cookies
+
+A web browser will automatically activate the appropriate security features when initiating a transaction on TexasOnline. On most browsers, an unbroken key or locked padlock graphic at the bottom of the browser screen indicates that a secure connection is established.
+
+#### Cookies
 
 Some of the online transactions hosted on TexasOnline use cookies. A cookie is a small text file that a website stores on a visitor’s personal computer to track specific information about that visitor’s interaction with the website. The services hosted on TexasOnline use both session cookies and persistent cookies. A session cookie is temporary and only exists during a single session in which a visitor visits TexasOnline. Session cookies are used to keep track of a particular online transaction. TexasOnline session cookies are destroyed after successful completion of a transaction, after a few minutes of inactivity or when the browser is closed. Persistent cookies continue to exist after a few minutes of inactivity, after the browser is closed or after a visitor completes a single session. TexasOnline uses persistent cookies to track visitor activity on the site to structure content and make the TexasOnline websites easy to use. All persistent cookies from TexasOnline will expire within twenty-five months.
 
@@ -152,40 +122,33 @@ If an individual’s web browser does not accept cookies, he or she may not be a
 
 TexasOnline does not utilize web bugs or any other technology to track user activity other than those stated in this policy.
 
-### Additional Information
+#### Additional Information
 
 To the extent allowed by the laws that establish the framework of open government, the Department of Information Resources has a firm commitment to protecting the personal privacy of TexasOnline visitors. For more information on cookies, review the World Wide Web Consortium's Frequently Asked Questions at <http://www.w3.org/Security/Faq/wwwsf2.html#CLT-Q10>. For more information on how to protect personal information online consult the U.S. Federal Trade Commission website at <http://www.ftc.gov/privacy/index.html>. 
 
-### Contact Information
+#### Contact Information
 
 If you have any questions or concerns about the TexasOnline Privacy and Security Policy, please contact us at [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). If you have any questions or concerns about how state agencies and local governments handle personal information, please contact those governmental bodies directly.
 
-## Linking Policy
+Back To Top
 
-### Statement of Purpose
+### Linking Policy
+
+#### Statement of Purpose
 
 This document outlines the policies for linking to and from the TexasOnline website(s). The mission of TexasOnline is to provide a single point of access to government and public information and services that is private, secure, convenient, efficient, service-oriented, and accessible to everyone.
 
 TexasOnline will use the guidelines outlined below to link to information and services in order to provide a public portal that allows citizens and businesses to quickly locate and access electronic government services and related information. This policy may be updated periodically. The current version was approved on July 9, 2004.
 
-### Origin
+#### Origin
 
 The TexasOnline electronic framework project and the TexasOnline operation of the Department of Information Resources were established pursuant to Subchapter I of Chapter 2054, Texas Government Code and the authority of the Department of Information Resources. This document is rendered in order to describe the linking practices of TexasOnline.
 
-### Definitions
+#### Definitions
 
-Throughout this document unless otherwise specified: 
+Throughout this document unless otherwise specified:
 
-  * "TexasOnline operation" means the TexasOnline operation of the Department of Information Resources
-  * "DIR" means the Department of Information Resources;
-  * "TexasOnline" refers to any content or applications residing on the TexasOnline domains; or the Department of Information Resources TexasOnline operation and/or the staff of the primary contractor who manage, oversee or operate said content and applications;
-  * "TexasOnline domains" refer to the following: http://www.texasonline.com, http://www.state.tx.us, http://www.texasonline.state.tx.us, http://info.texas.gov, http://www.tx.gov and http://www.texas.gov.
-  * "Division Director" refers to the Director of the Service Delivery Division of the Department of Information Resources or his designee;
-  * "Purpose of TexasOnline" means providing the electronic infrastructure described in Subchapter I of Chapter 2054, Texas Government Code commonly recognized as a portal that allows citizens and businesses to quickly locate and access electronic government services and information.
-
-
-
-### Links to TexasOnline
+#### Links to TexasOnline
 
 Advance permission to link to TexasOnline.com is not necessary. However, be aware that TexasOnline subpages, including the pages of state agencies and local governments, may change at any time without notice. Entities and individuals linking to TexasOnline must continuously verify links to our subpages.
 
@@ -193,13 +156,13 @@ Entities and individuals linking to TexasOnline shall not capture TexasOnline pa
 
 Any link to the TexasOnline site should be a full forward link that passes the client browser to TexasOnline unencumbered. The "Back" button should return the visitor to original site if the visitor wishes to back out.
 
-### Links from TexasOnline
+#### Links from TexasOnline
 
 This section outlines the criteria and requirements that external web sites must meet to have a link from TexasOnline. It also details how links are accepted and removed from TexasOnline.
 
 TexasOnline reserves the right to link to external web sites that it feels would provide a service to the citizen.
 
-#### Acceptance Criteria
+##### Acceptance Criteria
 
 TexasOnline links to federal, state, and local governments that provide information and services that benefit Texas citizens and businesses. At its discretion, TexasOnline will consider link requests to non-governmental web sites that contain information and/or services that further the purpose of TexasOnline.
 
@@ -220,7 +183,7 @@ Every link request must undergo review to determine its relevance and appropriat
 
 TexasOnline reserves the right to deny links if it determines that a web site contains misleading or unsubstantiated claims, conflicts with the purpose of TexasOnline, or does not meet one or more of the criteria set forth above in numbered sections or set out below in the Conditions for Link Maintenance on TexasOnline section.
 
-#### Review Process
+##### Review Process
 
   1. Email link requests to [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). Each link request should address how the site meets the two acceptance criteria outlined above.
   2. The link request will be reviewed against the acceptance criteria set forth above. The decision of the Division Director is final as to whether the requesting site may have a link from TexasOnline.
@@ -228,7 +191,7 @@ TexasOnline reserves the right to deny links if it determines that a web site co
 
 
 
-#### Conditions for Link Maintenance on TexasOnline
+##### Conditions for Link Maintenance on TexasOnline
 
 To give superior customer service to citizens and businesses accessing governmental information and services through TexasOnline, we require that external web sites linked from TexasOnline meet the following conditions in order to maintain a link on TexasOnline:
 
@@ -242,11 +205,11 @@ To give superior customer service to citizens and businesses accessing governmen
 
 
 
-#### Removal Process
+##### Removal Process
 
 TexasOnline reserves the right to remove links if it determines that a web site contains misleading or unsubstantiated claims, conflicts with the purpose of TexasOnline, or does not meet one or more of the criteria set forth above in numbered sections or set out above in the Conditions for Link Maintenance on TexasOnline section.
 
-Links from TexasOnline will be reviewed regularly and may be removed for the following reasons: 
+Links from TexasOnline will be reviewed regularly and may be removed for the following reasons:
 
   * The link no longer points to the original information or resource to which it was intended to point;
   * The web site pointed to by the link contains inaccurate or misleading information or has changed such that it is no longer in compliance with the acceptance criteria;
@@ -259,11 +222,13 @@ Links from TexasOnline will be reviewed regularly and may be removed for the fol
 
 The decision of the Division Director is final as to whether a link is to be removed from TexasOnline.
 
-### Contact Information
+#### Contact Information
 
 For questions and concerns regarding the linking policy, email us at [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us).
 
-## Legal Notices
+Back To Top
+
+### Legal Notices
 
 Any trademarks that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by TexasOnline. TexasOnline respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please contact us.
 
@@ -275,10 +240,10 @@ Upon leaving TexasOnline and linking to an external site, the policies governing
 
 Reference herein to any specific commercial products, process or service by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the State of Texas, and shall not be used for advertising or product endorsement purposes.
 
-The materials are provided for public use on computer systems located within the State of Texas and for the use and benefit of citizens of Texas. Any person choosing to use this system or seeking access to information or materials on this system is subject to Texas jurisdiction. Any dispute arising therefrom shall be decided under the laws and in the courts in Texas.
+Back To Top
 
-## Public Information Act
+### Public Information Act
 
 [Public Information Act](http://www.oag.state.tx.us/AG_Publications/txts/2004publicinfohb_3_01.shtml)
 
-| 
+Back To Top
