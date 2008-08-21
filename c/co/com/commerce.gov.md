@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519053913id_/http%3A//www.commerce.gov/ssNODELINK/286) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821115338id_/http%3A//www.commerce.gov/ssNODELINK/286) for the most accurate reproduction.*
 
 # Department of Commerce - Privacy Policy
 
