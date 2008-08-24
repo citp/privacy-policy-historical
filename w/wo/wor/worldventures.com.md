@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldventures.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629200946id_/http%3A//www.worldventures.com/privacy_wv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldventures.com privacy policy that was archived on 2008-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080824063118id_/http%3A//worldventures.com/info.php%3FLink%3Dprivacy) for the most accurate reproduction.*
 
-# World Ventures Travel
+# WorldVentures™ Travel
 
 Worldventures.com guarantees that the privacy and security of all personal and/or financial information shared by you will be protected in compliance with the highest e-commerce security standards when exchanged over the internet. The Secure Socket Layer (SSL) technology we use ensures the privacy and security of all transactions. SSL technology encrypts data before it is transmitted, so that only the authorized recipient can have access to it. In addition to SSL technology, your information is further protected by the following: segmentation and compartmentalization of information on our network to ensure restricted access to customer information databases; physical and logical barriers to unauthorized access; and a best of breed firewall system. Worldventures.com is a trusted VeriSign secure site and uses VeriSign digital certificates with all transactions. Worldventures.com's status with VeriSign may be verified independently by visiting the VeriSign website.   
 
@@ -11,7 +11,7 @@ This site requires that customers share personal and/or financial information in
 
 1\. Telephone numbers may be used to contact customers in case of an urgent need relating to an existing reservation or request for services.
 
-2\. E-mail addresses may be used to inform clients of services and offers which are most likely to be of interest to them. With respect to this use of personal information, customers may at any time indicate their preference not to receive such information by sending an email to [support@worldventures.com](https://web.archive.org/web/20070629200946id_/http%3A//www.worldventures.com/support@worldventures.com). 
+2\. E-mail addresses may be used to inform clients of services and offers which are most likely to be of interest to them. With respect to this use of personal information, customers may at any time indicate their preference not to receive such information by sending an email to [support@worldventures.com](https://web.archive.org/web/20080824063118id_/http%3A//worldventures.com/support@worldventures.com). 
 
 RETENTION OF PERSONAL DATA
 
@@ -27,11 +27,11 @@ Worldventures.com logs visitor IP addresses to optimize server performance and t
 
 COOKIES 
 
-Upon your initial visit to our site, Worldventures.com will automatically set a cookie � a small piece of data� on your hard drive to welcome you back to the site upon subsequent visits and to save your chosen site parameters. We do not use cookies to collect any information other than just described, and the information stored in a cookie can in no way be used to identify you personally. You can always avoid receiving cookies by setting your Web browser to refuse them. 
+Upon your initial visit to our site, Worldventures.com will automatically set a cookie – a small piece of data– on your hard drive to welcome you back to the site upon subsequent visits and to save your chosen site parameters. We do not use cookies to collect any information other than just described, and the information stored in a cookie can in no way be used to identify you personally. You can always avoid receiving cookies by setting your Web browser to refuse them. 
 
 LINKS TO THIRD PARTY SITES
 
-This website contains links to third-party websites. Worldventures.com�s Privacy Policy does not apply to these sites, and Worldventures.com makes no guarantees as to the privacy policy of any third party sites to which it contains links. 
+This website contains links to third-party websites. WorldVentures™.com's Privacy Policy does not apply to these sites, and Worldventures.com makes no guarantees as to the privacy policy of any third party sites to which it contains links. 
 
 CHANGES TO PRIVACY POLICY 
 
