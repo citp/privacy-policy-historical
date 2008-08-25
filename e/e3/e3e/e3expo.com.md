@@ -1,162 +1,78 @@
-> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045804id_/http%3A//www.theesa.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2008-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080825043919id_/http%3A//www.e3expo.com/Privacy.aspx) for the most accurate reproduction.*
 
-# ESA
+# E3 Insider - The Official E3 Website - Privacy
 
-ESA Privacy Policy
+## Privacy Policy
 
-_[](https://www.esrb.org/confirm/esa-confirmation.jsp)  
-_
+### This is a Web site of IDG World Expo Corp.
 
-_  
-Last updated on January 25, 2006_
+IDG World Expo Corp.  
+3 Speen Street, Suite 320  
+Framingham, MA 01701 
 
-**ESA ONLINE PRIVACY STATEMENT**
+We can be reached via e-mail at [idgworldexpo@idg.com](mailto:idgworldexpo@idg.com)  
+or you can reach us by telephone at (508) 879-6700. 
 
-**Welcome to ESA!**
+### Information Collected
 
-**OUR PRIVACY COMMITMENT**
+IDG World Expo collects personally identifying information and data about individuals, their company, and the companies demographics "personally identifying information and data" including (i) when you provide information to IDG World Expo, such as when you register or sign up for any of our products such as, but not limited to, events, conferences, on-line seminars contests, RSS Feeds, webcasts, and other communications with IDG World Expo; (ii) when you register or sign up on any IDG World Expo site, your information will be known to IDG World Expo; and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to IDG World Expo. 
 
-The Entertainment Software Association, and its subsidiaries and affiliates (collectively, “ESA”) respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us. 
+### Notice of New Policy Changes
 
-This Privacy Statement and the certification seal shown on this page confirms that ESA is a member in good standing of ESRB’s Privacy Online Program.  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+Below is the current policy regarding the usage of personally identifying information and data collected by IDG World Expo. We reevaluate this policy on an ongoing basis. IDG World Expo reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Web site. 
 
-TABLE OF CONTENTS 
+### Cookies
 
-  
-Q1.       What information does this Privacy Statement cover?
+IDG World Expo, or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a user. 
 
-Q2.       What types of personally identifiable information do we collect about our guests?
+If you have visited our Web site, the information in your "cookie" is used to provide a more personalized experience on the Web site. This cookie identifies you as a unique user by means of a tracking ID. However, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address. 
 
-Q3.       How is your personally identifiable information used and shared?
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases, you would not be able to take advantage of most of the personalization services offered by IDG World Expo. 
 
-Q4.       What choices do you have about the collection, use, and sharing of your personally identifiable information?
+The aggregated information we collect may be used:
 
-Q5.       What kinds of security measures do we take to safeguard your personally identifiable information?
+  \-- to improve the content and design of the IDG World Expo Web site.   
+  \-- to enable an audit bureau to verify our claims of traffic to the site   
+  \-- to help advertisers, potential advertiser, exhibitors, potential exhibitors, sponsors, potential sponsors, or marketers to assess the suitability of the site for their ad campaigns   
+  \-- we may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of IDG World Expo or selection organizations.
 
-Q6.       How can you update your personal information and profile?
+### Postal Addresses
 
-Q7.       How can you ask questions, or send us comments, about this Privacy Policy?
+Postal addresses, and other personally identifying information and data may be used to promote IDG World Expo and other IDG companiesâ€™ products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
 
-Q8.       How will you know if we amend this Privacy Policy?
+### Telephone Numbers & Telemarketing
 
-  
-What information does this Privacy Statement cover?
+Telephone numbers provided to IDG World Expo may be used by IDG World Expo, and other IDG companies, affiliates and its advertisers for promotional purposes. IDG World Expo may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully.
 
-This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by ESA through any other means. 
+### Fax Numbers
 
-This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted. 
+Fax numbers provided to IDG World Expo may be used to communicate information about an IDG World Expo event to an attendee, exhibitor, and/or sponsor. Information communicated may include, but is not limited to, confirmation of registration for an attendee, receipt of conference fee for an attendee, exhibitor or sponsors newsletter to an exhibitor or sponsor, welcome letter to an exhibitor or sponsor, list of due dates to an exhibitor or sponsor, and general information regarding an event.
 
-Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by ESA offline.  This Privacy Policy applies only to websites maintained by ESA, and not to our international affiliates, or any websites maintained by other companies or organizations to which we link.  ESA is therefore not responsible for the content or activities provided on those websites. 
+### E-mail Addresses
 
-Finally, the terms of this Privacy Policy are subject to all applicable laws. 
+E-mail addresses provided to IDG World Expo may be used to collect feedback, promote IDG World Expo and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your e-mail address to us, you agree to receive e-mail from IDG World Expo and its sister IDG companies. We allow users to "opt-out" of receiving e-mail from outside firms when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further e-mail from outside firms, IDG World Expo (or a specific IDG World Expo event), and its sister IDG companies that sent you the e-mail. If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their e-mail address, the address may be used by IDG World Expo, its sister IDG Companies, or rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. Users who want to "opt-out" of receiving any e-mail, or want to otherwise change their preferences may do so by sending an e-mail to [idgworldexpo@idg.com](mailto:idgworldexpo@idg.com).
 
-**What types of personally identifiable information do we collect about our guests?**
+### Transfer of Ownership
 
-We don’t require personal information to access our website.  However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.  Personal information is information that identifies you and may be used to contact you.  To offer our guests certain features on our website, we collect several types of personal information. 
+In the event that the ownership of IDG World Expo, or any of its products are sold or transferred, all lists and data which contains personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data, and e-mail address, will be transferred to the new owner.
 
-**Children  
-**We don’t knowingly collect personal information from children under 13.  We take kids privacy seriously, and encourage parents to play an active role in their children’s online experience at all times. 
+### Registration Data Changes/Corrections
 
-**Information You Provide to Us**  
-All of the personal information we receive comes directly from our guests.  We collect personal information from our guests to: 
+Upon request, we offer users the ability to update or correct their contact information. Users may have this information updated or corrected by e-mailing us at [idgworldexpo@idg.com](mailto:idgworldexpo@idg.com).
 
-  * Participate in polls, surveys, and questionnaires 
-  * Use e-cards, wish lists, and tell-a-friend features 
-  * Purchase a product at one of our online stores 
-  * Participate in contests, sweepstakes, or other promotions 
-  * Report piracy, offer feedback, or other business inquiries 
-  * Receive customer or technical support 
+### Security
 
+IDG World Expo uses industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measurers in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from users at our site.  
 
 
-Typically, this information includes:   
-Name  
-E-mail Address   
-Telephone Number   
-Shipping and Billing address, and   
-For those purchasing products online, credit card information. 
+### About the IDG Publishing Network
 
-Additionally, we may also collect other types of non-personal information (known as demographic information) such as your age or date of birth, gender, marital status, hobbies, platform preferences, and other game ownership and preferences.  This demographic information may be associated with your personal information. 
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Darwin, InfoWorld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes cio.com, csoonline.com, darwinmag.com, infoworld.com, networkworld.com, macworld.com, maccentral.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/ "www.idg.com").
 
-**Information Collected Through Technology  
-**We collect information through technology to make our websites more interesting and useful to you.  For example, when you come to one of our websites, we collect your IP address.  An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university.  Standing alone, your IP address is not personally identifiable.  At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites.  We may combine this information with personally identifiable information. 
+To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time.
 
-**Cookies**  
-Our websites also use cookies.  Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. We and other companies use cookies for a variety of purposes.  For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.  You can do this through your browser (like Netscape Navigator or Internet Explorer) settings.  Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies.  If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly. 
+You can "opt-out" of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow.
 
-**Web Beacons**   
-Our websites use a variety of technical methods for tracking purposes, including Web beacons.  web beacons are small pieces of data that are embedded in images on the pages of websites.  We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which our users visit various parts of our websites.  These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.  We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails or clicked on links in those e-mails.  The information from use of these technical methods may be collected in a form that is personally identifiable. 
+The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition, no one under the age of 18 years old may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
 
-**Network Advertisers  
-**Many advertisements are managed and placed on our websites by third parties.  These companies are called “network advertisers.”  Network advertisers who place advertisements on our websites may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected.  In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. 
-
-Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website. 
-
-**How is your personally identifiable information used and shared?**
-
-We don’t share, sell, or rent your personal information to third parties without your consent.  We don’t require personal information to access our website.  However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. 
-
-Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
-
-**ESA Tools and Updates  
-**Information collected from those who voluntarily submit it to us is used to provide services like updates on special events, game news, and email announcements of interest to our users.  Occasionally, we share your personal information (e.g., email address) with a third party sponsor, co-sponsor, or other reputable third party that provides products or services that may be of interest to you.  Moreover, if you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards.  However, you should understand that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community.  As such, whenever you give out personal information in public areas, that information can be collected and used by people you don’t know. 
-
-**Operational Uses**   
-We may also use your personal information for other purposes such as “Operational Uses.”  For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy. 
-
-We occasionally use other companies, agents or contractors to perform services necessary to our operations.  For example, we have partnered with other companies to personalize our web pages, process credit card transactions, analyze customers’ interaction with our website, and process consumer surveys.  We also provide postal addresses to the U.S. Post Office for delivery purposes.  In the course of providing such services, these companies may have contact with your personally identifying information.  These entities have agreed to securely store and maintain the personal information received from us. 
-
-**Aggregate Information**   
-Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information).  Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information. 
-
-**Business Information**   
-For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity.  Personal information submitted to us in a business capacity (e.g. resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry. 
-
-**Purchase or Sale of Businesses  
-**From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale.  If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so.  If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy).  The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings. 
-
-**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others  
-**We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties. 
-
-**What choices do you have about the collection, use, and sharing of your personally identifiable information?**
-
-As mentioned above, you have control over the personal information you submit to us.  If at any time you decide to remove your personal information from our database, you may do so by emailing us at [privacy@theesa.com](mailto:privacy@theesa.com). 
-
-**What kinds of security measures do we take to safeguard your personally identifiable information?**
-
-The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. 
-
-**How can you update your personal information and profile?**
-
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [privacy@theesa.com](mailto:privacy@theesa.com). 
-
-**How can you ask questions, or send us comments, about this Privacy Policy?**
-
-If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at: 
-
-ESA  
-Attn.: Privacy Policy Administrator   
-575 7th Street, NW #300  
-Washington, DC 20004  
-202-223-2400   
-[privacy@theesa.com](mailto:privacy@theesa.com)
-
-Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it. 
-
-ESA is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
-
-ESRB  
-Attn.: Privacy Online Program   
-317 Madison Avenue, 22nd Floor   
-New York, NY 10017   
-212-759-0700   
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
-**How will you know if we amend this Privacy Policy?**
-
-We may amend this Privacy Policy at any time.  If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy.  Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
-
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address.  If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
-
-  
-
+If you have any questions or comments regarding the IDG Publishing Network or its use of information, please send an e-mail to [IDGNetwork@idg.com](mailto:IDGNetwork@idg.com) or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109. 
