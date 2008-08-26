@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618004332id_/http%3A//www.carsons.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2008-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080826094130id_/http%3A//www.carsons.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Carson Pirie Scott
 
