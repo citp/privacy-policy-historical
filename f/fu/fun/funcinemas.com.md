@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616142529id_/http%3A//www.funcinemas.com/Privacy.aspx%3Fcc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2008-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080826023330id_/http%3A//funcinemas.com/Privacy.aspx%3Fcc%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
