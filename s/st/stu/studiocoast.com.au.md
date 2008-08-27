@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829164606id_/http%3A//www.studiocoast.com.au/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827191459id_/http%3A//studiocoast.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ASP.NET 2.0 Web Hosting - Studiocoast
+# Privacy Policy - Studiocoast
 
 Privacy Policy
 
@@ -29,10 +29,16 @@ Cookies are data that a Web site transfers to an individual's hard drive for rec
 
 **Access to Information**
 
-We will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. Links to other sites
+We will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. 
+
+**Links to other sites**
 
 We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy statement. 
 
 **Problems or questions**
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20070829164606id_/http%3A//www.studiocoast.com.au/contact.asp). Further Privacy Information For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site. [www.privacy.gov.au](http://www.privacy.gov.au/)
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20080827191459id_/http%3A//studiocoast.com.au/contact.asp). 
+
+**Further Privacy Information**
+
+For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site. [www.privacy.gov.au](http://www.privacy.gov.au/)
