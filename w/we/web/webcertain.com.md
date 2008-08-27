@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcertain.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145137id_/http%3A//www.webcertain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcertain.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827231546id_/http%3A//www.webcertain.com/privacy.html) for the most accurate reproduction.*
 
 # webcertain privacy policy
 
