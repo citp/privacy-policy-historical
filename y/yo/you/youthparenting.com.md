@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222215415id_/http%3A//www.youthparenting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827214110id_/http%3A//www.youthparenting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ don't give out others personal information without their prior consent eg home t
 
 written permission will be required before your personal information is given to others 
 
-Copyright © 2006 2007 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
+Copyright © 2006 2007 2008 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
