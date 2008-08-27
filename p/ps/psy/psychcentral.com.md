@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113120436id_/http%3A//psychcentral.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827232542id_/http%3A//psychcentral.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Psych Central - About: Privacy Policy
 
@@ -89,19 +89,20 @@ If you have any additional questions or concerns about this Policy, please feel 
 
   * [General Information](https://web.archive.org/about/)
   * [Press Releases](https://web.archive.org/about/press_releases/)
-  * [RSS Feeds Available](https://web.archive.org/about/rss.htm)
-  * [Investment Information](https://web.archive.org/about/investors.htm)
+  * [RSS Feeds](https://web.archive.org/about/rss.htm)
+  * [Editorial Submissions](https://web.archive.org/about/submissions.htm)
   * [Advertising on Psych Central](https://web.archive.org/about/advertising.htm)
-  * [Awards We've Won](https://web.archive.org/about/awards.htm)
+  * [Employment](https://web.archive.org/about/employment.htm)
+  * [Awards](https://web.archive.org/about/awards.htm)
 
 
 
 **People**
 
-  * [John M. Grohol, Psy.D.](https://web.archive.org/about/official_bio.htm)   
-CEO & Publisher 
-  * [Staff & Contributors](https://web.archive.org/about/staff.htm)
+  * [John M. Grohol, Psy.D.](https://web.archive.org/about/john_grohol.htm)   
+CEO & Publisher
   * [Professional Advisory Board](https://web.archive.org/about/advisory_board.htm)
+  * [Editorial Staff](https://web.archive.org/about/staff.htm)
 
 
 
@@ -115,7 +116,10 @@ CEO & Publisher
 
 
 > Last reviewed:   
->   On 13 Oct 2006   
+>   On 24 Jan 2007   
 >   By John M. Grohol, Psy.D.  
 >    
 > 
+
+_That which does not kill me makes me stronger.  
+\-- Frederick Nietzsche _
