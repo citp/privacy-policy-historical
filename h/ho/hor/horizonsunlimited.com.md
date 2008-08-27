@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonsunlimited.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514202644id_/http%3A//www.horizonsunlimited.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonsunlimited.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827230910id_/http%3A//www.horizonsunlimited.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Horizons Unlimited Global Enterprises Privacy Policy
 
