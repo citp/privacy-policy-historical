@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028014553id_/http%3A//www.sheridanmentoring.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828013927id_/http%3A//www.sheridanmentoring.com/privacypolicy) for the most accurate reproduction.*
 
 # Sheridan Options Mentoring
+
+### Sheridan Options Mentoring Privacy Policy
 
 Feb 11, 2007
 
@@ -67,3 +69,6 @@ Attention: Privacy Matters
 1539 Della Drive  
 Hoffman Estates, IL 60169  
 USA 
+
+  
+
