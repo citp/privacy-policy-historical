@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimclarymarketing.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610083340id_/http%3A//jimclarymarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimclarymarketing.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828045344id_/http%3A//www.jimclarymarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Webmaster Tools for easy to create popup and popunder wizards
 
