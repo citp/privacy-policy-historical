@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513165435id_/http%3A//www.zagat.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828222407id_/http%3A//www.zagat.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Zagat Survey
 
