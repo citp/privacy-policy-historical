@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716164124id_/http%3A//www.offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828214859id_/http%3A//www.offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
 
 # The Best Free Quizzes, Play a Quiz and Win Free Prizes
 
-**Last updated: June 2007**  
+**Last updated: August 2008**  
  **Introduction**
 
   
@@ -56,7 +56,8 @@ The Internet is not a 100% secure medium for communication and, accordingly, Off
 Every user must agree and opt-in to the following statement before completing their OfferX registration:  
 “By registering and entering your details you consent to Offerx.co.uk and its clients sending you information about products and/or services that have been selected based on your stated interests. You also agree to the terms and conditions of the privacy that govern how your information will be processed.”  
 Each quiz on OfferX is sponsored by a client, after answering five questions correctly on the quiz you will be directed to the prize select page. At this point you are giving your consent for the sponsor / client sending you information about products and/or services that have been selected based on your stated interests. You will also have the opportunity to opt out of the draw/offer. The information you provide may be used, by OfferX and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.  
-At times it may be appropriate for OfferX, its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices. Before doing so OfferX will always ask you for your specific consent. If having given consent previously, you wish to withdraw this consent you may do so by logging on and unsubscribing.  
+At times it may be appropriate for OfferX, its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices.   
+You give your consent that OfferX or any third-party it provides data to may contact you by post or telephone. Where your telephone number is not provided, OfferX or a third-party may seek to append your telephone number from a third-party source. You accept that OfferX or a selected third-party may contact you by phone on our behalf or in partnership with OfferX with an offer of their own, and may choose not to suppress you against the Telephone Preference Service, whilst you are a member of OfferX.  
 Your data may be provided to clients of OfferX to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent.  
 OfferX may from time to time use third party suppliers to provide all or part of a service to you. OfferX shall only be entitled to supply such of your personal information as is necessary to enable them to provide the relevant service to you.  
 You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance OfferX will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1988.  
@@ -149,4 +150,4 @@ or by post:
 
 If you have any questions regarding the privacy policy of Offerx Ltd or require any further information please use the [Contact Us page](http://www.offerx.co.uk/Documents/ContactUs.aspx).
 
-Last updated: June 2007
+Last updated: August 2008
