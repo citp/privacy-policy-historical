@@ -1,635 +1,1510 @@
-<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2006-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110213303id_/http%3A//www.lexmarkstore.com/service.asp%3Fsection%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2008-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080828182551id_/http%3A//lexmarkstore.com/servlet/PromoServlet/promoID.905700) for the most accurate reproduction.-->
 
-<html><head>
-<title>The Lexmark Online Store - Customer Service</title>
-
-<!--
-$Workfile: body.asp $
-$Revision: 1.1 $ 
--->
-<link rel="stylesheet" href="/buyLexmark_assets/css/lexmark.css">
-<!--Task #25744 - 'Lexmarkstore.com organic SEO'-->
-<meta name="description" content="Lexmark is a leading developer, manufacturer and supplier of printing solutions, including color laser, mono laser, inkjet, dot matrix, and all-in-one printers, associated supplies and services for office and home">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=meta.html"-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Lexmark Printers, Inkjet Ink, Print Cartridge, Laser Toner, Ribbons – Lexmark Online Store</title>
 <meta name="keywords" content="printers, cartridges, printer drivers, dot matrix, inkjet, color laser, mono laser, multifunction, all in one, AIO, home printing, photo printing, photo paper, markvision, toner, printer memory, transparencies, marknet, printer supplies, scanners, copiers, consumables">
-<!--/Task #25744-->
-<script language="javascript" type="text/javascript">
+<meta name="description" content="Lexmark is a leading developer, manufacturer and supplier of printing solutions, including color laser, mono laser, inkjet, dot matrix, and all-in-one printers, associated supplies and services for office and home">
 
-	function goURL (url) {
-		if (url!='') 
-			window.top.location=url
-			// cescoffi->browser back button break
-			//self.parent.location.replace(url);
-	}
+<link rel="SHORTCUT ICON" href="//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/favicon.ico">
+<!--!/esi:include --><link rel="stylesheet" href="//drh.img.digitalriver.com/servlet/ControllerServlet?Action=DisplayContentManagerStyleSheet&amp;SiteID=lexmark&amp;StyleID=31500&amp;StyleVersion=56&amp;styleIncludeFile=style.css" type="text/css" media="all"><!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&Currency=USD&Env=BASE&Locale=en_US&SiteID=lexmark&SiteID=lexmark&StyleID=31500&StyleVersion=56&ThemeID=22400&ceid=57957900&cename=TopHeader&id=ContentTheme"-->
 
-	function LinkItUp() {
-	 	var list = document.forms.dropit.alShortcuts
-	 	var num = list.selectedIndex
-	 	var loc = list.options[num].value
-  	if (loc != "Quick Jump") {
-     	location.href = loc;
-   	}
-	}
 
-var popUp = null
-function makeNewWindow(URL,Prop) {
-	if (!popUp || popUp.closed) {
-		popUp = window.open(URL,"",Prop)
-	} else {
-		popUp.close();
-		popUp = window.open(URL,"",Prop)
-	}
-}			
-function LinkUpmfg() {
-   var number   = document.formpartno.myurl.selectedIndex;
-   var url      = document.formpartno.myurl.options[number].value; 
-   if (url != "------------------" && url != "Shortcuts") {
-      location.href = url;
-   }
+
+
+
+
+
+<!-- REQUEST ID: TIME=1219973162877:NODE=c1a2602:THREAD=24; ESI Fragment - CREATED: Thu Aug 28 20:26:02 CDT 2008 MAX-AGE: 28800+180 -->
+<!-- BEGIN TOPHEADER -->
+<!-- -->
+
+<title>
+Lexmark US Online Store
+</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- begin site specific javascript -->
+
+<style type="text/css" media="all">
+/* BEGIN CHECKOUTPAYMENT JS VALIDATION CSS */
+select.dr_inputErrorBlur, select.dr_inputErrorSubmit {
+   border: 1px solid #f00;
+   background-color: #ffe8e9;
+   padding: 1px;
+   _padding: 1px 3px 1px 1px;
 }
-</script><style>
-BODY
-{
-	margin:0px; padding:0;
-	font-family: verdana,sans-serif;
-	BACKGROUND-IMAGE: url(/buylexmark_assets/images/bkgd-gradient.gif) ;
+select.dr_inputErrorFocus {
+   border: 2px solid #b4342b;
+   background-color: #fff;
+   padding: 0px;
+   _padding: 0px 2px 0px 0px;
 }
-</style><script language="JavaScript">
-function showhide(nav,imageName) { //advanced search	
-	if (document.getElementById(nav).style.display == "none") {		
-		document.getElementById(nav).style.display = "";
-	} else {	
-		document.getElementById(nav).style.display = "none";
-	}	
-}	
-</script><script language="JavaScript">
-	function checkSearch() {
-		if (document.frmSearch.search_criteria.value == "") {
-			alert("Please enter your cartridge part number.");
-		}
-		else {
-			document.frmSearch.submit();
-		}
-	}
-	
-	function doSearch() {
-		if (document.frmSearch.search_criteria.value == "") {
-			alert("Please enter your cartridge part number.");
-			return false;
-		}
-		else {
-			//Task #31361 - 'Lexmark: HitBox code needs to be added to "enhanced" Cartridge Finder'
-			searchstring = "searchresults.asp?partordesc=" + document.frmSearch.search_criteria.value + escape("**") + "&search=keyword&search_field=description&search_id=" + document.frmSearch.search_id.value + "&cartridgefinder=" + document.frmSearch.cartridgefinder.value;
-			//Task #31361
-			self.location = searchstring;
-		}
-	}
-</script><style>
-.expressheader {
-	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: none; visible: false
+input.dr_inputErrorBlur {
+   border: 1px solid #f00;
+   background-color: #ffe8e9;
+   padding: 1px 1px 3px 1px;
+   _padding: 1px 3px 3px 1px;
 }
-</style></head>
+input.dr_inputErrorFocus {
+   border: 2px solid #b4342b;
+   background-color: #fff;
+   padding: 0px 0px 2px 0px;
+   _padding: 0px 2px 2px 0px;
+}
+input.dr_inputErrorSubmit {
+   border: 1px solid #f00;
+   background-color: #ffe8e9;
+   padding: 1px 1px 3px 1px;
+   _padding: 1px 3px 3px 1px;
+}
+/* END CP JS VALIDATION CSS */
+/* Task 49103,48782 */
+</style>
+
+   
+  
+   
+     
+   
+
+<!-- end site specific javascript -->
 
 
+<script type="text/javascript">
+// Page-level global variables
+var q = true, newWin = null;
 
+//  Open Window Script
+function popUp(popURL, popName, width, height) {
+  if(newWin && !newWin.closed) {
+    newWin.close();
+  }
+  newWin = window.open(popURL,popName,"width=" + width + ",height=" + height + ",resizable=yes,status=yes,screenX=50,screenY=50,top=50,left=50,scrollbars=yes");
+}
 
+// Script to hide/show info
+function hideText(id) {
+  var tgtElem = document.getElementById(id);
+  if (tgtElem) { // Make sure the element exists
+    tgtElem.style.display = (!tgtElem.style.display || tgtElem.style.display == 'none') ? 'block' : 'none';
+  }
+}
 
-<!--
-$Workfile: header.asp $
-$Revision: 1.7 $ 
--->
-
-
-	
-
-<!--Task #29782 - 'Lexmark Express Order Functionality'-->
-
-<!--/Task #29782-->
-
-
-<body><table cellpadding="0" cellspacing="0" width="100%" border="0">
-<!--Task #29782 - 'Lexmark Express Order Functionality'-->
-
-<!--/Task #29782-->
-	<tbody><tr>
-		<td>
-
-<table border="0" width="850" cellspacing="0" cellpadding="0">
-
-	
-	<tbody><tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" width="890" border="0">
-				<form action="http://www1.lexmarkstore.com/searchresults.asp" method="get"></form>
-				<input type="hidden" name="search" value="keyword">
-				<input type="hidden" name="search_field" value="description">
-				
-				<!--<tr>
-					<td height="50" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="890" height="50" border="0"></td>
-				</tr>-->		
-				<tbody><tr>
-					<td colspan="3" height="45">
-						<table cellpadding="0" cellspacing="0" width="890" border="0">
-							<tbody><tr>
-								<td width="14">
-									<img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="14" height="5" border="0"></td>
-								<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
-								<td height="35" width="128">
-									<a href="http://www.lexmark.com" name="&amp;lid=Lexmark Logo"><img src="/buyLexmark_assets/images/logo_onBlack.gif" alt="Lexmark" border="0"></a>							
-								</td>
-								<!--/ Task #31609 -->
-								<td width="30"><img src="/buyLexmark_assets/images/space.gif" alt="" width="30" height="10" border="0"></td>
-								<td width="126"><img src="/buyLexmark_assets/images/country_us.gif" alt="United States" border="0"></td>				
-								<td width="100"><img src="/buyLexmark_assets/images/space.gif" alt="" width="100" height="5" border="0"></td>
-								<td width="84"><img src="/buyLexmark_assets/images/store_search.gif" alt="Store search" border="0"></td>					
-								<td width="15"><img src="/buyLexmark_assets/images/space.gif" alt="" width="15" height="5" border="0"></td>
-								<td>
-								<!--Task #26674 - 'Lexmark HBX code upgrade (Active Viewer)'-->
-									<input type="text" size="23" name="search_criteria" style="font-size:11px;" class="newinput">								
-								<!--/Task #26674-->					
-								</td>
-								<td width="2"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="2" height="2" border="0"></td>
-								<td width="30">
-									<a href="" name="&amp;lid=SEARCH"></a>
-									<input type="image" border="0" src="/buyLexmark_assets/images/button_go.gif" alt="Store Search" onclick="_hbLink('SEARCH')"></td>
-								<td width="100"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="100" height="2" border="0"></td>
-								<td width="180" align="right" style="padding-right:10px;padding-left:10px">
-									<img src="/buyLexmark_assets/images/contactus.gif" alt="Contact Us" border="0">
-								</td>
-							</tr>
-						</tbody></table>	
-
-					</td>						
-				</tr>
-				
-				<tr>
-					<td height="58">
-						<table cellpadding="0" cellspacing="0" width="780" border="0">
-							<tbody><tr>
-							<!--Task #31228 - 'Lexmark: Change Top Navigation to Match Lexmark Corporate Site'-->
-							<script language="javascript" type="text/javascript">
-
-								normal_image = new Image();
-								normal_image.src = "/buyLexmark_assets/images/storehome_off.gif";
-
-								mouseover_image = new Image();
-								mouseover_image.src = "/buyLexmark_assets/images/storehome_on.gif";
-								
-								normal_image1 = new Image();
-								normal_image1.src = "/buyLexmark_assets/images/cartridgefinder_off.gif";
-
-								mouseover_image1 = new Image();
-								mouseover_image1.src = "/buyLexmark_assets/images/cartridgefinder_on.gif";
-								
-								normal_image2 = new Image();
-								normal_image2.src = "/buyLexmark_assets/images/myaccount_off.gif";
-
-								mouseover_image2 = new Image();
-								mouseover_image2.src = "/buyLexmark_assets/images/myaccount_on.gif";
-								
-								normal_image3 = new Image();
-								normal_image3.src = "/buyLexmark_assets/images/orderstatus_off.gif";
-
-								mouseover_image3 = new Image();
-								mouseover_image3.src = "/buyLexmark_assets/images/orderstatus_on.gif";
-								
-								normal_image4 = new Image();
-								normal_image4.src = "/buyLexmark_assets/images/customerservice_off.gif";
-
-								mouseover_image4 = new Image();
-								mouseover_image4.src = "/buyLexmark_assets/images/customerservice_on.gif";
-
-
-								function swap(){
-									if (document.images){
-									for (var x=0;
-										x<swap.arguments.length;
-										x+=2) {
-											document[swap.arguments[x]].src = eval(swap.arguments[x+1] + ".src");
-										}
-									}
-								}
-							</script>														
-								<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->													
-								<td>
-									<a href="http://www.lexmarkstore.com/store/lexmark/DisplayHomePage/" title="The Lexmark Store" onmouseover="swap('storehome','mouseover_image')" onmouseout="swap('storehome','normal_image')" name="&amp;lid=Store Home"><img name="storehome" src="/buyLexmark_assets/images/storehome_off.gif" alt="HOME" border="0"></a><a href="http://www1.lexmarkstore.com/getmodel.asp" title="Cartridge Finder" onmouseover="swap('cartridge','mouseover_image1')" onmouseout="swap('cartridge','normal_image1')" name="&amp;lid=Cartridge Finder"><img name="cartridge" src="/buyLexmark_assets/images/cartridgefinder_off.gif" alt="CARTRIDGE FINDER" border="0"></a><a href="http://www.lexmarkstore.com/store/lexmark/DisplayOrderInformationPage/" title="My Account" onmouseover="swap('myaccount','mouseover_image2')" onmouseout="swap('myaccount','normal_image2')" name="&amp;lid=myaccount"><img name="myaccount" src="/buyLexmark_assets/images/myaccount_off.gif" alt="MY ACCOUNT" border="0"></a><a href="https://www.lexmarkstore.com/store/lexmark/DisplayEditProfilePage" title="Order Status" onmouseover="swap('orderstatus','mouseover_image3')" onmouseout="swap('orderstatus','normal_image3')" name="&amp;lid=orderstatus"><img name="orderstatus" src="/buyLexmark_assets/images/orderstatus_off.gif" alt="ORDER STATUS" border="0"></a><a href="https://www.lexmarkstore.com/store/lexmark/DisplayHelpPage" title="Customer Service" onmouseover="swap('customerservice','mouseover_image4')" onmouseout="swap('customerservice','normal_image4')" name="&amp;lid=Customer Service"><img name="customerservice" src="/buyLexmark_assets/images/customerservice_off.gif" alt="CUSTOMER SERVICE" border="0"></a></td>								
-								
-							<!--/Task #31609-->
-								<!--/Task #31228-->
-							</tr>
-						</tbody></table>
-					</td>			
-					<td width="170" align="center">
-						<!--Task #34402 - 'Lexmark: Add "View Cart" on www1.lexmarkstore.com'-->
-						
-<script>
-<!--
-function submititCart() { document.frmMiniCart.submit(); }		
--->
+// Scripts to disable submit button after it has been clicked once already to prevent multiple order submission on CheckoutPayment and ConfirmOrder
+function disableButton(button) {
+  //button.style.display = 'none';
+}
 </script>
 
-<table cellpadding="0" cellspacing="0" width="100" border="0" height="30" align="left">
-		<!--<tr>
-			Task #23125 - 'Netgear Mini Cart Not Formatted Properly When Cart Value Exceeds $10K'
-			<td colspan="5" height="1" background ="/buyLexmark_assets/images/minicart_top1.gif" nowrap></td>
-		</tr>-->
-		<tbody><tr class="minicart">
-			<td valign="middle" align="right" width="30%">
-				<a href="http://www.lexmarkstore.com/store/lexmark/DisplayShoppingCartPage">
-					<img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="" align="absmiddle">
-				</a>
-			</td>
-			<td align="left" class="minicart">
-				<a href="http://www.lexmarkstore.com/store/lexmark/DisplayShoppingCartPage">
-					View Cart
-				</a>
-			</td><td>	
-		</td></tr>
-		<!--<tr>
-			<td width="1" rowspan="2" background ="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
-			<td class="minicart" width="7"><img src="/buyLexmark_assets/images/space.gif" width="7" height="17" border="0" alt=""></td>
-			<td class="minicart" colspan="2" valign="middle"><a href="http://www1.lexmarkstore.com/basket.asp"><img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="">Shopping Cart</a></td>
-			<td width="1" background ="/buyLexmark_assets/images/minicart_right.gif" nowrap><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
-		</tr>	
-		<tr>
-			<td colspan="4" height="1"  background ="/buyLexmark_assets/images/minicart_center1.gif" nowrap></td>
-		</tr>	
-		<tr>
-			<td background ="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
-			<td class="minicart"><img src="/buyLexmark_assets/images/space.gif" width="7" height="25" border="0" alt=""></td>
-			<td class="minicart" width="62">0&nbsp;Items:</td>
-			<td class="minicart" width="62" nowrap>$0.00</td>
-			<td width=1 background ="/buyLexmark_assets/images/minicart_right.gif"><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
-		</tr>	
-		<tr>
-			<td colspan="5" height="1" background ="/buyLexmark_assets/images/minicart_bottom1.gif"></td>
-		</tr>-->	
-		<!--/Task #23125-->
-	</tbody></table>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+<!-- END TOPHEADER -->
+
+<!--!/esi:include --><!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section0.html"-->
+<style type="text/css">
+HTML {
+	MARGIN: 0px auto;
+}
+BODY {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px; 
+	FLOAT: none; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: -14px auto 0px; 
+	WIDTH: 100%; 
+	PADDING-TOP: 0px; 
+	BACKGROUND-COLOR: #ebebe4; 
+	TEXT-ALIGN: center;
+}
+A:link {
+	COLOR: #cc0000; 
+	TEXT-DECORATION: none;
+}
+A:visited {
+	COLOR: #cc0000; 
+	TEXT-DECORATION: none;
+}
+A:active {
+	COLOR: #cc0000; 
+	TEXT-DECORATION: none;
+}
+A:hover {
+	TEXT-DECORATION: underline;
+}
+#document {
+	BACKGROUND-POSITION: 0px bottom;
+	BACKGROUND-IMAGE: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/footer_bg.gif); 
+	PADDING-BOTTOM: 27px; 
+	MARGIN: 0px auto; 
+	WIDTH: 1017px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: auto;
+}
+#header {
+	CLEAR: both; 
+	PADDING-LEFT: 0px; 
+	MARGIN: 0px auto; 
+	WIDTH: 1017px; 
+	PADDING-TOP: 23px; 
+	HEIGHT: auto;
+}
+#nav_div {
+	CLEAR: both; 
+	MARGIN-TOP: 7px; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/prinav_bg.gif) no-repeat; 
+	FLOAT: left; 
+	MARGIN-LEFT: 0px; 
+	WIDTH: 1017px; 
+	POSITION: relative; 
+	HEIGHT: 30px;
+}
+#nav_dl {
+	FLOAT: left; 
+	MARGIN: 0px; 
+	HEIGHT: 30px;
+}
+#nav_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#nav_dl {
+	PADDING-LEFT: 0px;
+}
+#nav_dl DT {
+	FLOAT: left;
+}
+#nav_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FONT-SIZE: 10px; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	TEXT-TRANSFORM: uppercase; 
+	COLOR: #d0d0d0; 
+	LINE-HEIGHT: 32px; 
+	PADDING-TOP: 0px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	FONT-FAMILY: Arial, Helvetica, Sans-serif; 
+	HEIGHT: 32px;
+}
+#nav_dl DT A:hover {
+	COLOR: #fff;
+}
+DT#nav_store_home A {
+	MARGIN-LEFT: 23px; 
+	WIDTH: 130px; 
+	HEIGHT: 30px; 
+	TEXT-DECORATION: none;
+}
+DT#nav_cartridge_finder A {
+	WIDTH: 135px; 
+	HEIGHT: 30px; 
+	TEXT-DECORATION: none;
+}
+DT#nav_my_account A {
+	WIDTH: 116px; 
+	HEIGHT: 30px; 
+	TEXT-DECORATION: none;
+}
+DT#nav_order_status A {
+	WIDTH: 120px; 
+	HEIGHT: 30px; 
+	TEXT-DECORATION: none;
+}
+DT#nav_customer_service A {
+	WIDTH: 146px; 
+	MARGIN-RIGHT: 22px; 
+	HEIGHT: 30px; 
+	TEXT-DECORATION: none;
+}
+#header_nav {
+	BACKGROUND-POSITION: 155px 15px; 
+	FLOAT: left; 
+	BACKGROUND-IMAGE: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/store.gif); 
+	PADDING-BOTTOM: 9px; 
+	MARGIN: 0px; 
+	WIDTH: 420px; 
+	PADDING-TOP: 15px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 30px;
+}
+#header_nav DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px; 
+	HEIGHT: 24px;
+}
+#header_nav DT {
+	PADDING-LEFT: 33px; 
+	FLOAT: left;
+}
+#header_nav DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	PADDING-TOP: 35px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px !important;
+}
+DT#logo {
+	LEFT: -17px; 
+	FLOAT: left; 
+	WIDTH: 130px; 
+	POSITION: relative; 
+	TOP: -2px; 
+	TEXT-ALIGN: center;
+}
+DT#logo A {
+	CLEAR: both; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/s_204816596_238473766.gif) no-repeat; 
+	HEIGHT: 35px; 
+	TEXT-DECORATION: none;
+}
+#search_input FORM {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#search_input {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN-RIGHT: 12px; 
+	PADDING-TOP: 0px;
+}
+#search_input INPUT {
+	BORDER-TOP-WIDTH: 0px; 
+	PADDING-RIGHT: 1px; 
+	PADDING-LEFT: 1px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	FONT-SIZE: 11px; 
+	FLOAT: left; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 1px; 
+	MARGIN: 0px; 
+	WIDTH: 120px; 
+	COLOR: black; 
+	PADDING-TOP: 1px; 
+	BACKGROUND-COLOR: white; 
+	BORDER-RIGHT-WIDTH: 0px;
+}
+#search_input {
+	PADDING-RIGHT: 0px; 
+	MARGIN-TOP: 16px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN-LEFT: 7px; P
+	PADDING-TOP: 0px;
+}
+[id]#search_input {
+	PADDING-RIGHT: 0px; 
+	MARGIN-TOP: 16px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN-LEFT: 15px; 
+	PADDING-TOP: 0px;
+}
+#search {
+	MARGIN-TOP: 7px; 
+	LEFT: -28px; 
+	FLOAT: right; 
+	PADDING-TOP: 0px; 
+	POSITION: relative; 
+	HEIGHT: 35px;
+}
+#search_dl {
+	MARGIN-TOP: 16px; 
+	FLOAT: left; 
+	WIDTH: 82px; 
+	HEIGHT: 16px;
+}
+#search INPUT {
+	BORDER-RIGHT: #666 1px solid; 
+	PADDING-RIGHT: 1px; 
+	BORDER-TOP: #666 1px solid; 
+	PADDING-LEFT: 1px; 
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 10px; 
+	LEFT: 12px; 
+	PADDING-BOTTOM: 1px; 
+	BORDER-LEFT: #666 1px solid; 
+	PADDING-TOP: 1px; 
+	BORDER-BOTTOM: #666 1px solid; 
+	POSITION: relative; 
+	HEIGHT: 12px;
+}
+#search_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#search_dl DT {
+	FLOAT: right;
+}
+#search_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	PADDING-TOP: 16px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px !important;
+}
+DT#search_go A {
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/search_bg.gif) no-repeat;
+	WIDTH: 82px; 
+	HEIGHT: 16px; 
+	TEXT-DECORATION: none;
+}
+#right_box {
+	CLEAR: both; 
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	WIDTH: auto; 
+	PADDING-TOP: 0px; 
+	POSITION: relative; 
+	TOP: -34px; 
+	HEIGHT: 0px; 
+	TEXT-ALIGN: left;
+}
+#right_box #contact {
+	MARGIN: -38px 340px; 
+	WIDTH: 344px; 
+	POSITION: relative; 
+	HEIGHT: 22px;
+}
+#right_box > #contact {
+	MARGIN: -33px 340px;
+}
+#contact DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#contact {
+	PADDING-LEFT: 0px;
+}
+#contact DT {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px;
+	OVERFLOW: hidden; 
+	PADDING-TOP: 29px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 22px;
+}
+DT#contact_box {
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/contact.gif) no-repeat 0px 0px; 
+	WIDTH: 339px; 
+	HEIGHT: 0px; 
+	TEXT-DECORATION: none;
+}
+#mini_cart {
+	PADDING-RIGHT: 4px; 
+	PADDING-LEFT: 4px; 
+	FONT-SIZE: 10px; 
+	Z-INDEX: 1; 
+	LEFT: 822px; 
+	PADDING-BOTTOM: 4px; 
+	MARGIN-LEFT: 5px; 
+	WIDTH: 140px; 
+	COLOR: #dcdcdc; 
+	PADDING-TOP: 4px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	POSITION: absolute; 
+	TOP: -4px; 
+	TEXT-ALIGN: left;
+}
+#line {
+	MARGIN-TOP: 2px; 
+	MARGIN-BOTTOM: 2px; 
+	OVERFLOW: hidden; 
+	WIDTH: 100%; 
+	HEIGHT: 1px; 
+	BACKGROUND-COLOR: #666;
+}
+#mini_cart #line {
+	DISPLAY: none;
+}
+#mini_cart A {
+	BACKGROUND-POSITION: 1px 1px; 
+	PADDING-LEFT: 22px; LEFT: -138px; 
+	BACKGROUND-IMAGE: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/minicart.gif); 
+	TEXT-TRANSFORM: uppercase; 
+	WIDTH: 340px; 
+	COLOR: #dcdcdc; 
+	BACKGROUND-REPEAT: no-repeat; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	POSITION: relative; 
+	TOP: 15px;
+}
+#mini_cart .items {
+	DISPLAY: block; 
+	PADDING-LEFT: 12px; 
+	FONT-WEIGHT: bold; 
+	FLOAT: left; 
+	COLOR: #fff; 
+	LINE-HEIGHT: 16px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+#mini_cart .price {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 0px; 
+	COLOR: #fff; 
+	LINE-HEIGHT: 16px; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+#body {
+	CLEAR: both; 
+	BACKGROUND-IMAGE: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/top_mid_bg2.gif); 
+	MARGIN: 0px auto 0px 1px; 
+	WIDTH: 1017px; 
+	BACKGROUND-REPEAT: repeat-y;
+}
+#body #left_nav {
+	FLOAT: left; 
+	MARGIN: 0px; 
+	WIDTH: 237px; 
+	TEXT-ALIGN: left;
+}
+#body > #left_nav {
+	MARGIN: 0px 0px 0px 16px; 
+	WIDTH: 221px;
+}
+#left_nav_c5_logo {
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/c5_hosted.gif) no-repeat center bottom;
+	HEIGHT: 100%;
+}
+#left_nav_bottom {
+	display: table-cell;
+	BACKGROUND-POSITION: 50% bottom; 
+	WIDTH: 221px;
+}
+#content {
+	MARGIN: 0px; 
+	WIDTH: auto;
+}
+#content_right {
+	BACKGROUND-POSITION: right 50%;
+}
+#content_top {
+	BACKGROUND-POSITION: right top;
+}
+#content_bottom {
+	BACKGROUND-POSITION: 50% bottom;
+}
+#content_bottom_right {
+	display:table-cell;
+	WIDTH: auto;
+}
+#left_nav_div {
+	MARGIN-TOP: 10px; 
+	FLOAT: left; 
+	MARGIN-LEFT: 17px; 
+	HEIGHT: auto;
+}
+#left_nav_div H3 {
+	DISPLAY: none;
+}
+#left_nav_dl {
+	Z-INDEX: 1000; 
+	FLOAT: left; 
+	MARGIN: 0px; 
+	POSITION: relative;
+}
+#left_nav_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#left_nav_dl DT {
+	CLEAR: both; 
+	FLOAT: left; 
+	WIDTH: 190px;
+}
+#left_nav_dl DT A {
+	DISPLAY: block; 
+	PADDING-LEFT: 6px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10px; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/button_back.gif) no-repeat; 
+	COLOR: white; 
+	PADDING-TOP: 6px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	HEIGHT: 20px;
+}
+#left_nav_dl DT A:hover {
+	BACKGROUND-POSITION: 0px -26px; 
+	TEXT-DECORATION: none;
+}
+#left_nav_dl .divider {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px 0px 0px 6px; 
+	OVERFLOW: hidden; 
+	WIDTH: 180px; 
+	PADDING-TOP: 0px; 
+	HEIGHT: 1px; 
+	BACKGROUND-COLOR: gray;
+}
+* HTML #left_nav_dl .divider {
+	MARGIN-LEFT: 3px;
+}
+#left_nav_dl DL {
+	DISPLAY: none;
+}
+#left_nav_dl .break {
+	MARGIN-BOTTOM: 10px;
+}
+#left_nav_dl .subnav {
+	CLEAR: both; 
+	FLOAT: left; 
+	WIDTH: 190px;
+}
+#left_nav_dl .subnav A {
+	DISPLAY: block; 
+	PADDING-LEFT: 15px; 
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 10px; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/button_back.gif) no-repeat; 
+	COLOR: white; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	HEIGHT: 17px;
+}
+#left_nav_dl .subnav A:hover {
+	BACKGROUND-POSITION: 0px 0px; 
+	TEXT-DECORATION: underline;
+}
+#left_nav_bottom #specials_dl {
+	Z-INDEX: 1000; 
+	LEFT: 21px; 
+	POSITION: relative;
+}
+#left_nav_bottom #hosted_dl {
+	Z-INDEX: 1000; 
+	LEFT: 21px; 
+	POSITION: relative;
+}
+#left_nav_bottom > #specials_dl {
+	LEFT: 5px;
+}
+#left_nav_bottom > #hosted_dl {
+	LEFT: 5px;
+}
+#specials_dl {
+	FLOAT: left; 
+	WIDTH: auto; 
+	HEIGHT: auto;
+}
+#specials_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 40px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#specials_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	PADDING-TOP: 51px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px! important;
+}
+DT#specials_dt {
+	MARGIN-TOP: 20px; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/Phase1/SendMeOffersSurveys.gif) no-repeat; 
+	MARGIN-LEFT: 12px; 
+	WIDTH: 192px; 
+	HEIGHT: 51px; 
+	TEXT-DECORATION: none;
+	display:block;
+}
+#hosted_dl {
+	FLOAT: left; 
+	WIDTH: auto;
+	/* 51731 HEIGHT: 150px;*/
+	padding-top: 10px;
+}
+#hosted_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 40px; 
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+}
+#hosted_dl {
+	PADDING-LEFT: 0px;
+}
+#hosted_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	/* 51731 PADDING-TOP: 94px;  */
+	PADDING-TOP: 44px;
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px !important;
+}
+DT#hosted_dt {
+	MARGIN-TOP: 40px; 
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/hosted_drgt_sm.gif) no-repeat; 
+	MARGIN-LEFT: 7px; 
+	WIDTH: 201px;
+	HEIGHT: 63px; 
+	TEXT-DECORATION: none;
+}
+#content_body {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	margin:5px 5px 5px 6px; 
+	WIDTH: 746px; 
+
+	PADDING-TOP: 0px;
+}
+#right_nav {
+	PADDING-RIGHT: 3px; 
+	FLOAT: left; 
+	WIDTH: 213px; 
+	PADDING-TOP: 3px;
+}
+#cartridge_finder {
+	FLOAT: left; 
+	MARGIN-BOTTOM: 0px; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	WIDTH: 514px; 
+	HEIGHT: 33px; 
+	BACKGROUND-COLOR: #cc0000;
+}
+#cartridge_body {
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/cartridge_title.gif) no-repeat 7px 7px;
+	FLOAT: left; 
+	HEIGHT: 30px;
+}
+#cartridge_body FORM {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#cartridge_body INPUT {
+	BORDER-TOP-WIDTH: 0px; 
+	PADDING-RIGHT: 1px; 
+	PADDING-LEFT: 1px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	FONT-SIZE: 11px; 
+	FLOAT: left; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 1px; 
+	MARGIN: 7px 0px 0px 125px; 
+	WIDTH: 100px; COLOR: black; 
+	PADDING-TOP: 1px; 
+	BACKGROUND-COLOR: white; 
+	BORDER-RIGHT-WIDTH: 0px;
+}
+#cf_button_dl {
+	MARGIN-TOP: 4px; 
+	FLOAT: left; 
+	MARGIN-LEFT: 3px; 
+	WIDTH: 24px; 
+	HEIGHT: 22px;
+}
+#cf_button_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#cf_button_dl {
+	PADDING-LEFT: 0px;
+}
+#cf_button_dl DT {
+	FLOAT: left;
+}
+#cf_button_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
+	PADDING-TOP: 22px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px !important;
+}
+DT#cf_button_go A {
+	BACKGROUND: url(//drh.img.digitalriver.com/DRHM/Storefront/Site/lexmark/cm/images/redesign/cartridge_button.gif) no-repeat; 
+	WIDTH: 24px; 
+	HEIGHT: 22px; 
+	TEXT-DECORATION: none;
+}
+#cartridge_finder FORM {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px;
+}
+#cartridge_finder SELECT {
+	BORDER-TOP-WIDTH: 0px; 
+	PADDING-RIGHT: 1px; 
+	PADDING-LEFT: 1px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	FONT-SIZE: 10px; 
+	FLOAT: left; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 1px; 
+	MARGIN: 6px 0px 0px 14px; 
+	WIDTH: 232px; 
+	COLOR: black; 
+	PADDING-TOP: 1px; 
+	BACKGROUND-COLOR: white; 
+	BORDER-RIGHT-WIDTH: 0px;
+}
+#hero_banner {
+	CLEAR: both; 
+	FLOAT: left; 
+	MARGIN-LEFT: 1px; 
+	PADDING-TOP: 13px;
+}
+#featured_products {
+	CLEAR: both; 
+	MARGIN-TOP: 13px; 
+	FLOAT: left; 
+	/*WIDTH: 514px;*/
+	WIDTH: 255px;
+}
+.product_title {
+	PADDING-RIGHT: 2px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 6px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 11px; 
+	PADDING-BOTTOM: 2px; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	HEIGHT: 29px; 
+	BACKGROUND-COLOR: #e0e0e0;
+}
+.product_image {
+	FLOAT: left; 
+	MARGIN-RIGHT: 5px; 
+	HEIGHT: 165px;
+}
+.product_short_description {
+	MARGIN-TOP: 5px; 
+	DISPLAY: block; 
+	FONT-SIZE: 10px; 
+	FLOAT: left; 
+	MARGIN-BOTTOM: 8px; 
+	WIDTH: 82px; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.product_reg_price {
+	DISPLAY: block; 
+	FONT-SIZE: 10px; 
+	FLOAT: left; 
+	WIDTH: 82px; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.product_sale_price {
+	DISPLAY: block; 
+	FONT-SIZE: 10px; 
+	FLOAT: left; 
+	MARGIN-BOTTOM: 8px; 
+	WIDTH: 82px; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.strikethrough {
+	TEXT-DECORATION: line-through;
+}
+.bold {
+	FONT-WEIGHT: bold;
+}
+#product1 {
+	FLOAT: left; 
+	MARGIN-BOTTOM: 14px; 
+	WIDTH: 254px; 
+	MARGIN-RIGHT: 3px;
+}
+#product2 {
+	FLOAT: left; 
+	MARGIN-BOTTOM: 14px; 
+	MARGIN-LEFT: 3px; 
+	WIDTH: 254px;
+}
+#product3 {
+	CLEAR: both; 
+	FLOAT: left; 
+	WIDTH: 254px; 
+	MARGIN-RIGHT: 3px;
+}
+#product4 {
+	FLOAT: left; 
+	MARGIN-LEFT: 3px; 
+	WIDTH: 254px;
+}
+#footer {
+	CLEAR: both; 
+	FONT-SIZE: 10px; 
+	FLOAT: left; 
+	BACKGROUND-IMAGE: none; 
+	PADDING-BOTTOM: 46px; 
+	WIDTH: 560px; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	HEIGHT: 56px; 
+	TEXT-ALIGN: center;
+}
+.divider2 {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px 0px 10px; 
+	OVERFLOW: hidden; 
+	WIDTH: auto; 
+	PADDING-TOP: 0px; 
+	HEIGHT: 1px; 
+	BACKGROUND-COLOR: #e0e0e0;
+}
+.dr_Content {
+	CLEAR: both; 
+	DISPLAY: block;
+}
+#dr_siteButtons .dr_button {
+	BORDER-TOP-WIDTH: 0px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	BORDER-RIGHT-WIDTH: 0px;
+}
+#featured_products {
+	width:265px;
+}
+
+/* 51731 */
+#left_nav_bottom #left_hosted_dl {
+	Z-INDEX: 1000; 
+	LEFT: 21px; 
+	POSITION: relative;
+}
+#left_nav_bottom > #left_hosted_dl {
+	LEFT: 5px;
+}
+#left_hosted_dl {
+	FLOAT: left; 
+	WIDTH: auto;
+	/* 51731 HEIGHT: 150px;*/
+	padding-top: 20px;
 	
-						<!--/Task #34402-->
-					</td>
-				</tr>				
-			</tbody></table>	
-		</td>
-	</tr>
-</tbody></table>
+}
+#left_hosted_dl DL {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 40px; 
+	MARGIN: 0px;
+	PADDING-TOP: 0px;
+}
+#left_hosted_dl {
+	PADDING-LEFT: 0px;
+}
+/*
+#left_hosted_dl DT A {
+	PADDING-RIGHT: 0px; 
+	DISPLAY: block; 
+	PADDING-LEFT: 0px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 0px; 
+	OVERFLOW: hidden; 
 
+	PADDING-TOP: 44px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	HEIGHT: 0px !important;
+}
+*/
+DT#left_hosted_dt {
+	/* 51731 MARGIN-TOP: 40px; */
 
-
-
-<table border="0" width="650" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-	<tbody><tr>
-		<!--td colspan="0" bgcolor="#000000">
-			<img src="/buyLexmark_assets/images/mainbody_top.gif" border="0"></td-->
-        <td colspan="3" bgcolor="#000000">
-			<img src="/buyLexmark_assets/images/mainbody_TopLeft.jpg" border="0" width="221" height="3"></td>
-        <td colspan="3">
-			<img src="/buyLexmark_assets/images/mainbody_TopSpacer.jpg" border="0" width="560" height="3"></td>
-        <td colspan="2" align="left" bgcolor="#000000">
-			<img src="/buyLexmark_assets/images/mainbody_topright.gif" border="0" height="3"></td>
-	</tr>
-	<tr>
-		<td class="left_body" width="1" valign="top"><img src="/buyLexmark_assets/images/left_leftNav.gif" border="0"></td>
-		<td class="leftinside_body" width="1" valign="top"><img src="/buyLexmark_assets/images/leftinside_leftNav.gif" border="0"></td>
-		<td width="194" valign="top" bgcolor="#646464">
-			<table cellpadding="0" cellspacing="0" width="194" border="0" class="leftNav_body">
-				<tbody><tr>
-					<td height="45" class="leftNav_title"><a style="COLOR: rgb(255,255,255)" href="http://www.lexmarkstore.com/">Lexmark Online Store</a></td>
-				</tr>
-				<tr>
-					<td><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="2" border="0"></td>
-				</tr>
-				<tr bgcolor="#656565">
-					<td colspan="3" align="center" bgcolor="#656565"><a href="http://www.commerce5.com" target="_New" name="&amp;lid=Commerce5 Logo"><img src="/buyLexmark_assets/images/c5_hosted.gif" border="0"></a><br>
-				</td></tr>
-			</tbody></table>
-			
-		</td>
-		<td width="0" valign="top">&nbsp;</td>
-		
-		
-		
-		
-		<td valign="top" width="550" style="border-left:10px solid #FFFFFF">
-			
-			<img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="550" height="0" border="0">
-		
-			<table border="0" cellpadding="0" cellspacing="0" width="536" bgcolor="#CE0000">
-				<tbody><tr>
-					<td height="5" width="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="5" border="0"></td>
-				</tr>
-				<tr>
-					<td width="100" valign="middle" height="20">
-						<img src="/buylexmark_assets/images/cartridge_title.gif" border="0" align="absmiddle">
-					</td>
-					<form action="searchresults.asp" method="get" name="frmSearch" onsubmit="return doSearch();" style="display:inline"></form>
-					<input type="hidden" name="search_id" value="3,13,19">
-					<input type="hidden" name="cartridgefinder" value="yes">
-					<td width="150" valign="middle">				
-						<input type="text" style="width:150px;" name="search_criteria" size="20" class="searchBox" value="Cartridge Part No." onfocus="this.value=''">					
-					</td>
-					<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
-					<td width="20">
-						<input type="image" src="/buylexmark_assets/images/cartridge_button.gif" border="0" align="absmiddle">
-					</td>
-					<!--/Task #31609 -->
-					
-					
-<style>
-.wizard {font-family:arial;font-size:10px;}
-.wizardinput { font-family:arial; font-size:10px;}
+	MARGIN-LEFT: 7px; 
+	WIDTH: 201px;
+	TEXT-DECORATION: none;
+}
 </style>
-	
-					<td width="205" align="center" valign="top">
-<table cellpadding="2" cellspacing="1" border="0" class="wizard">
-<form name="wizard0" action="/service.asp" method="post"></form>
-<input type="hidden" name="id" value="CARTRIDGES">
-<input type="hidden" name="view_state" value="">
-<tbody><tr><td align="right" valign="top"></td>
-<td align="left" valign="top">
-<select name="action_id" class="wizardinput" onchange="document.wizard0.submit();">
-<option value="">Find cartridge by printer model</option><option value="0,1470682">4079 Color Jetprinter</option>
-<option value="0,1470683">ExecJet IIc, Winwriter 150c, Medley</option>
-<option value="0,1470684">IBM 4019, 4029, 4028 Laser Printers</option>
-<option value="0,1470685">IBM 4037 5E Page Printer</option>
-<option value="0,1470686">Lexmark 2030, 2050, 2055, 3000</option>
-<option value="0,1470687">Lexmark 2070 Color Jetprinter</option>
-<option value="0,1470688">Lexmark 3200, 5000, 5700, 5770, 7000, 7200</option>
-<option value="0,1470689">Lexmark 4039</option>
-<option value="0,1470690">Lexmark 4039 10plus Laser Printer</option>
-<option value="0,1470691">Lexmark 4039 Laser Printers</option>
-<option value="0,1470692">Lexmark 4039 Plus</option>
-<option value="0,1470693">Lexmark C510</option>
-<option value="0,1470694">Lexmark C510dtn</option>
-<option value="0,1470695">Lexmark C510n</option>
-<option value="0,1470696">Lexmark C520n</option>
-<option value="0,1470697">Lexmark C522n</option>
-<option value="0,1470698">Lexmark C524dn</option>
-<option value="0,1470699">Lexmark C524dtn</option>
-<option value="0,1470700">Lexmark C524N</option>
-<option value="0,1470701">Lexmark C720</option>
-<option value="0,1470702">Lexmark C720dn</option>
-<option value="0,1470703">Lexmark C720n</option>
-<option value="0,1470704">Lexmark C750</option>
-<option value="0,1470705">Lexmark C750dn</option>
-<option value="0,1470706">Lexmark C750dtn</option>
-<option value="0,1470707">Lexmark C750fn</option>
-<option value="0,1470708">Lexmark C750in</option>
-<option value="0,1470709">Lexmark C750n</option>
-<option value="0,1470710">Lexmark C752</option>
-<option value="0,1470711">Lexmark C752dn</option>
-<option value="0,1470712">Lexmark C752dtn</option>
-<option value="0,1470713">Lexmark C752fn</option>
-<option value="0,1470714">Lexmark C752ldn</option>
-<option value="0,1470715">Lexmark C752ldtn</option>
-<option value="0,1470716">Lexmark C752ln</option>
-<option value="0,1470717">Lexmark C752n</option>
-<option value="0,1470718">Lexmark C760</option>
-<option value="0,1470719">Lexmark C760dn</option>
-<option value="0,1470720">Lexmark C760dtn</option>
-<option value="0,1470721">Lexmark C760n</option>
-<option value="0,1470722">Lexmark C762</option>
-<option value="0,1470723">Lexmark C762dn</option>
-<option value="0,1470724">Lexmark C762dtn</option>
-<option value="0,1470725">Lexmark C762n</option>
-<option value="0,1470726">Lexmark C910</option>
-<option value="0,1470727">Lexmark C910dn</option>
-<option value="0,1470728">Lexmark C910fn</option>
-<option value="0,1470729">Lexmark C910n</option>
-<option value="0,1470730">Lexmark C912</option>
-<option value="0,1470731">Lexmark C912dn</option>
-<option value="0,1470732">Lexmark C912n</option>
-<option value="0,1470733">Lexmark E120n</option>
-<option value="0,1470734">Lexmark E210</option>
-<option value="0,1470735">Lexmark E230</option>
-<option value="0,1470736">Lexmark E232</option>
-<option value="0,1470737">Lexmark E232t</option>
-<option value="0,1470738">Lexmark E234</option>
-<option value="0,1470739">Lexmark E238</option>
-<option value="0,1470740">Lexmark E320</option>
-<option value="0,1470741">Lexmark E321</option>
-<option value="0,1470742">Lexmark E322</option>
-<option value="0,1470743">Lexmark E322n</option>
-<option value="0,1470744">Lexmark E323n</option>
-<option value="0,1470745">Lexmark E330</option>
-<option value="0,1470746">Lexmark E332n</option>
-<option value="0,1470747">Lexmark E332tn</option>
-<option value="0,1470748">Lexmark J110</option>
-<option value="0,1470749">Lexmark Optra C710</option>
-<option value="0,1470750">Lexmark Optra C710n</option>
-<option value="0,1470751">Lexmark Optra Color 1200</option>
-<option value="0,1470752">Lexmark Optra Color 1200n</option>
-<option value="0,1470753">Lexmark Optra Color 40</option>
-<option value="0,1470754">Lexmark Optra Color 45</option>
-<option value="0,1470755">Lexmark Optra E, Ep, Es, E+</option>
-<option value="0,1470756">Lexmark Optra E310</option>
-<option value="0,1470757">Lexmark Optra E312</option>
-<option value="0,1470758">Lexmark Optra E312L</option>
-<option value="0,1470759">Lexmark Optra K 1220</option>
-<option value="0,1470760">Lexmark Optra M410</option>
-<option value="0,1470761">Lexmark Optra M410n</option>
-<option value="0,1470762">Lexmark Optra M412</option>
-<option value="0,1470763">Lexmark Optra M412n</option>
-<option value="0,1470764">Lexmark Optra N 240, 245</option>
-<option value="0,1470765">Lexmark Optra S 1250</option>
-<option value="0,1470766">Lexmark Optra S 1255</option>
-<option value="0,1470767">Lexmark Optra S 1620</option>
-<option value="0,1470768">Lexmark Optra S 1625</option>
-<option value="0,1470769">Lexmark Optra S 1650</option>
-<option value="0,1470770">Lexmark Optra S 1855</option>
-<option value="0,1470771">Lexmark Optra S 2420</option>
-<option value="0,1470772">Lexmark Optra S 2450</option>
-<option value="0,1470773">Lexmark Optra S 2455</option>
-<option value="0,1470774">Lexmark Optra SC 1275</option>
-<option value="0,1470775">Lexmark Optra SC 1275n</option>
-<option value="0,1470776">Lexmark Optra Se 3455</option>
-<option value="0,1470777">Lexmark Optra T610</option>
-<option value="0,1470778">Lexmark Optra T610n</option>
-<option value="0,1470779">Lexmark Optra T612</option>
-<option value="0,1470780">Lexmark Optra T614</option>
-<option value="0,1470781">Lexmark Optra T614n</option>
-<option value="0,1470782">Lexmark Optra T614nl</option>
-<option value="0,1470783">Lexmark Optra T616</option>
-<option value="0,1470784">Lexmark Optra T616n</option>
-<option value="0,1470785">Lexmark Optra W810</option>
-<option value="0,1470786">Lexmark Optra W810dn</option>
-<option value="0,1470787">Lexmark Optra W810n</option>
-<option value="0,1470788">Lexmark OptraImage W810s</option>
-<option value="0,1470789">Lexmark P315</option>
-<option value="0,1470790">Lexmark P3150</option>
-<option value="0,1470791">Lexmark P4350</option>
-<option value="0,1470792">Lexmark P450</option>
-<option value="0,1470793">Lexmark P6250</option>
-<option value="0,1470794">Lexmark P6350</option>
-<option value="0,1470795">Lexmark P707</option>
-<option value="0,1470796">Lexmark P915</option>
-<option value="0,1470797">Lexmark T420d</option>
-<option value="0,1470798">Lexmark T430</option>
-<option value="0,1470799">Lexmark T430d</option>
-<option value="0,1470800">Lexmark T430dn</option>
-<option value="0,1470801">Lexmark T520</option>
-<option value="0,1470802">Lexmark T520 SBE</option>
-<option value="0,1470803">Lexmark T520d</option>
-<option value="0,1470804">Lexmark T520dn</option>
-<option value="0,1470805">Lexmark T520n</option>
-<option value="0,1470806">Lexmark T520n sbe</option>
-<option value="0,1470807">Lexmark T522</option>
-<option value="0,1470808">Lexmark T522dn</option>
-<option value="0,1470809">Lexmark T522n</option>
-<option value="0,1470810">Lexmark T620</option>
-<option value="0,1470811">Lexmark T620n</option>
-<option value="0,1470812">Lexmark T622</option>
-<option value="0,1470813">Lexmark T622dn</option>
-<option value="0,1470814">Lexmark T622in</option>
-<option value="0,1470815">Lexmark T622n</option>
-<option value="0,1470816">Lexmark T630</option>
-<option value="0,1470817">Lexmark T630 VE</option>
-<option value="0,1470818">Lexmark T630dn</option>
-<option value="0,1470819">Lexmark T630n</option>
-<option value="0,1470820">Lexmark T630n VE</option>
-<option value="0,1470821">Lexmark T630ve</option>
-<option value="0,1470822">Lexmark T632</option>
-<option value="0,1470823">Lexmark T632dtn</option>
-<option value="0,1470824">Lexmark T632dtnf</option>
-<option value="0,1470825">Lexmark T632n</option>
-<option value="0,1470826">Lexmark T632tn</option>
-<option value="0,1470827">Lexmark T634</option>
-<option value="0,1470828">Lexmark T634dtn</option>
-<option value="0,1470829">Lexmark T634dtnf</option>
-<option value="0,1470830">Lexmark T634n</option>
-<option value="0,1470831">Lexmark T634tn</option>
-<option value="0,1470832">Lexmark W812</option>
-<option value="0,1470833">Lexmark W812dtn</option>
-<option value="0,1470834">Lexmark W812tn</option>
-<option value="0,1470835">Lexmark W820</option>
-<option value="0,1470836">Lexmark W820dn</option>
-<option value="0,1470837">Lexmark W820n</option>
-<option value="0,1470838">Lexmark X1150 PrintTrio</option>
-<option value="0,1470839">Lexmark X1185</option>
-<option value="0,1470840">Lexmark X125</option>
-<option value="0,1470841">Lexmark X215 MFP</option>
-<option value="0,1470842">Lexmark X2250</option>
-<option value="0,1470843">Lexmark X3350</option>
-<option value="0,2745248">Lexmark X340</option>
-<option value="0,2745249">Lexmark X340n</option>
-<option value="0,2745250">Lexmark X342n </option>
-<option value="0,1470844">Lexmark X422 MFP</option>
-<option value="0,1470845">Lexmark X4250</option>
-<option value="0,1470846">Lexmark X4270</option>
-<option value="0,1470847">Lexmark X5150</option>
-<option value="0,1470848">Lexmark X520 MFP</option>
-<option value="0,1470849">Lexmark X522 MFP</option>
-<option value="0,1470850">Lexmark X5250</option>
-<option value="0,1470851">Lexmark X5270</option>
-<option value="0,6564143">Lexmark X5470</option>
-<option value="0,1470852">Lexmark X6150</option>
-<option value="0,1470853">Lexmark X6170</option>
-<option value="0,1470854">Lexmark X620e MFP</option>
-<option value="0,1470855">Lexmark X63</option>
-<option value="0,1470856">Lexmark X630 MFP</option>
-<option value="0,1470857">Lexmark X632 MFP</option>
-<option value="0,1470858">Lexmark X632e MFP</option>
-<option value="0,2745251">Lexmark X642e</option>
-<option value="0,1470859">Lexmark X644e MFP</option>
-<option value="0,1470860">Lexmark X646dte MFP</option>
-<option value="0,1470861">Lexmark X646e MFP</option>
-<option value="0,1470862">Lexmark X7170</option>
-<option value="0,1470863">Lexmark X720 Color MFP</option>
-<option value="0,1470864">Lexmark X73</option>
-<option value="0,1470865">Lexmark X7350</option>
-<option value="0,1470866">Lexmark X75</option>
-<option value="0,1470867">Lexmark X750e MFP</option>
-<option value="0,2745258">Lexmark X752e</option>
-<option value="0,2745259">Lexmark X762e</option>
-<option value="0,2745252">Lexmark X820e</option>
-<option value="0,1470868">Lexmark X83</option>
-<option value="0,2745253">Lexmark X830e</option>
-<option value="0,2745254">Lexmark X832e </option>
-<option value="0,1470869">Lexmark X8350</option>
-<option value="0,1470870">Lexmark X85</option>
-<option value="0,2745255">Lexmark X850e</option>
-<option value="0,2745256">Lexmark X852e</option>
-<option value="0,2745257">Lexmark X854e</option>
-<option value="0,1470871">Lexmark Z11 and Z31</option>
-<option value="0,1470872">Lexmark Z12</option>
-<option value="0,1470873">Lexmark Z13</option>
-<option value="0,1470874">Lexmark Z22</option>
-<option value="0,1470875">Lexmark Z23</option>
-<option value="0,1470876">Lexmark Z25</option>
-<option value="0,1470877">Lexmark Z32</option>
-<option value="0,1470878">Lexmark Z33</option>
-<option value="0,1470879">Lexmark Z35</option>
-<option value="0,1470880">Lexmark Z42</option>
-<option value="0,1470881">Lexmark Z43</option>
-<option value="0,1470882">Lexmark Z45</option>
-<option value="0,1470883">Lexmark Z45se</option>
-<option value="0,1470884">Lexmark Z51</option>
-<option value="0,1470885">Lexmark Z515</option>
-<option value="0,1470886">Lexmark Z52</option>
-<option value="0,1470887">Lexmark Z53</option>
-<option value="0,1470888">Lexmark Z55</option>
-<option value="0,1470889">Lexmark Z55se</option>
-<option value="0,1470890">Lexmark Z605</option>
-<option value="0,1470891">Lexmark Z611</option>
-<option value="0,1470892">Lexmark Z615</option>
-<option value="0,1470893">Lexmark Z65</option>
-<option value="0,1470894">Lexmark Z65n</option>
-<option value="0,1470895">Lexmark Z65p</option>
-<option value="0,1470896">Lexmark Z705</option>
-<option value="0,1470897">Lexmark Z715</option>
-<option value="0,1470898">Lexmark Z735</option>
-<option value="0,1470899">Lexmark Z816</option>
-<option value="0,1470900">Lexmark Z82</option>
-</select>
-</td></tr>
 
-</tbody></table>
+<script type="text/javascript">
+	<!--
+	function show(myid) {
+		if(document.getElementById(myid).style.display == "block") {
+			document.getElementById("subnav_Accessories").style.display = "none";
+			document.getElementById("subnav_Printers").style.display = "none";
+			document.getElementById("subnav_Supplies").style.display = "none";
+
+			document.getElementById(myid).style.display = "none";
+			}
+		else {
+			document.getElementById("subnav_Accessories").style.display = "none";
+			document.getElementById("subnav_Printers").style.display = "none";
+			document.getElementById("subnav_Supplies").style.display = "none";
 			
-							<!--/Task #30881 -->
-					</td>					
-			 </tr>	
-			 <tr>
-					<td height="5" width="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="5" border="0"></td>
-			 </tr>	
-		</tbody></table>
+			document.getElementById(myid).style.display = "block";
+			}
+		}
+	//-->
+</script>
+
+<div id="document">
+	<div id="header">
+		<dl id="header_nav">
+			<dt id="logo"><a href="http://www.lexmark.com" title="Lexmark.com" onfocus="this.blur();">Lexmark.com</a></dt>
+		</dl>
+		<div id="search">
+			<div id="search_input">
+				<form name="ProductSearchForm" method="get" action="/DRHM/servlet/ControllerServlet">
+					<input type="hidden" name="Action" value="DisplayProductSearchResultsPage">
+					<input type="hidden" name="SiteID" value="lexmark">
+					<input type="hidden" name="CallingPageID" value="HomePage">
+					<input type="text" name="keywords" size="19" maxlength="100" value="Store Search" onclick="document.ProductSearchForm.keywords.select();">
+				</form>
+			</div>
+			<dl id="search_dl">
+				<dt id="search_go"><a href="javascript:document.ProductSearchForm.submit();" title="Search" onfocus="this.blur();">Search</a></dt>
+			</dl>
+		</div>
+		<div id="nav_div">
+			<dl id="nav_dl">
+				<dt id="nav_store_home"><a href="/store/lexmark/DisplayHomePage" title="Store Home" onfocus="this.blur();">Store Home</a></dt>
+				<dt id="nav_cartridge_finder"><a href="/store/lexmark/DisplayProductFinderPage" title="Cartridge Finder" onfocus="this.blur();">Cartridge Finder</a></dt>
+				<dt id="nav_my_account"><a href="/store/lexmark/DisplayEditProfilePage" title="My Account" onfocus="this.blur();">My Account</a></dt>
+				<dt id="nav_order_status"><a href="/store/lexmark/DisplayOrderInformationPage" title="Order Status" onfocus="this.blur();">Order Status</a></dt>
+				<dt id="nav_customer_service"><a href="/store/lexmark/DisplayHelpPage" title="Customer Service" onfocus="this.blur();">Customer Service</a></dt>
+			</dl>
+		</div>
+	</div>
+	<!-- Task 43611 - 'Lexmark Site Scrub for CTO Metric' -->
+	<div id="right_box">
+	<dl id="contact">
+ 	 <dt id="contact_box">Contact us 1-800-539-6275<br>Monday-Friday 6am-6pm PST </dt>
+	</dl>
 		
-			<script language="javascript">
-			var promo
-			promo = window.open("http://www1.lexmarkstore.com/promopopup.asp","promo","menubar=no,scrollbars=yes,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=350,height=285")
-			</script>
-
-<table border="0" cellpadding="0" cellspacing="0" width="500">
-<tbody><tr><td><img src="/buyLexmark_assets/images/space.gif" width="1" height="10" alt=""></td></tr>
-<tr><td><b>Customer Service</b></td></tr>
-<tr><td colspan="3"><hr></td></tr>
-<tr>
-<td>
+<!--!/esi:include -->
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="500">
-	<tbody><tr>
-		<td valign="top">
-<ul>
-	<li><a href="http://www1.lexmarkstore.com/copyright.asp" class="font11">Terms and Conditions</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=1" class="font11">Privacy Policy</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=2" class="font11">Establishing An Account</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=3" class="font11">Placing A New Order</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=5" class="font11">Billing</a></li>
-</ul>
-		</td>
-		<td valign="top">
-<ul>	
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=6" class="font11">Tax and Shipping Info</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=8" class="font11">Returns &amp; Replacements</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=7" class="font11">Canceling An Order</a></li>
-	<li><a href="http://www1.lexmarkstore.com/service.asp?section=11" class="font11">Customer Assistance</a></li>
-</ul>
-		</td>
-	</tr>
-<tr><td colspan="3"><hr></td></tr>		
+
+
+
+
+<!-- REQUEST ID: TIME=1219973162436:NODE=c1a2602:THREAD=31 -->
+
+<div id="mini_cart">
+	<a href="/store/lexmark/DisplayShoppingCartPage">Shopping Cart</a>
+	<div id="line"></div>
+	
+		<span class="items">0 Items:</span> <span class="price">$0.00</span>
+	
+	
+</div>
+		
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section1.html"-->
+
+	</div>
+	<!-- Task #43611 -->	
+	<div id="body">
+		<div id="left_nav">
+			<div id="left_nav_top">
+				<div id="left_nav_bottom">
+					<div id="left_nav_div">
+						<h3>Lexmark Online Store</h3>
+						
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+<dl id="left_nav_dl">
+	
+		
+			
+			
+				
+				
+			
+			
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+							    <dt id="Dt1"><a href="javascript:show('subnav_Printers');" title="Printers" onfocus="this.blur();">Printers</a></dt>
+							    
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Printers">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=10662200" onclick="q=false">Wireless Inkjet Printers</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438400" onclick="q=false">Color Inkjet</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438500" onclick="q=false">All-in-One</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438700" onclick="q=false">Color Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438600" onclick="q=false">Mono Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438800" onclick="q=false">Multifunction</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1438300&amp;categoryID=1438900" onclick="q=false">Dot Matrix</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+							    <dt class="divider"></dt>
+							
+                            
+						
+					
+				
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+							    <dt id="Dt1"><a href="javascript:show('subnav_Supplies');" title="Supplies" onfocus="this.blur();">Supplies</a></dt>
+							    
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Supplies">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439100" onclick="q=false">Inkjet Ink/Print Cartridge</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439200" onclick="q=false">Laser Toner/Print Cartridge</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439300" onclick="q=false">Lexmark Linea Print Cartridges</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439400" onclick="q=false">IBM Supplies</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439600" onclick="q=false">Paper and Transparencies</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439500" onclick="q=false">Paper Handling</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439800" onclick="q=false">Ribbons</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1439000&amp;categoryID=1439900" onclick="q=false">Typewriter Supplies</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+							    <dt class="divider"></dt>
+							
+                            
+						
+					
+				
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+							    <dt id="Dt1"><a href="javascript:show('subnav_Accessories');" title="Accessories" onfocus="this.blur();">Accessories</a></dt>
+							    
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Accessories">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=1440900" onclick="q=false">Application Cards / SIMMs</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=3881800" onclick="q=false">Connectivity</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=3951800" onclick="q=false">Flash, SDRAM Memory</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=1441100" onclick="q=false">Furniture</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=1440800" onclick="q=false">Hard Disk</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=1441300" onclick="q=false">MFP Options</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=1441000" onclick="q=false">Software</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=12739300" onclick="q=false">Application Cards / SIMMS</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=1440000&amp;categoryID=12739400" onclick="q=false">Paper Handling</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+							    <dt class="divider"></dt>
+							
+                            
+						
+					
+				
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Cartridge Finder">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7442400" onclick="q=false">Color Inkjet</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7442500" onclick="q=false">All-in-One</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7901900" onclick="q=false">Color Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7903000" onclick="q=false">Multifunction</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7902000" onclick="q=false">Mono Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=7442300&amp;categoryID=7902100" onclick="q=false">Dot Matrix</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+                            
+						
+					
+				
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Connectivity">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11911200" onclick="q=false">All-in-One</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11911700" onclick="q=false">Color Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11912100" onclick="q=false">Dot Matrix</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11913000" onclick="q=false">Mono Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11913700" onclick="q=false">Multifunction</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=11911100&amp;categoryID=11922600" onclick="q=false">Color Inkjet</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+                            
+						
+					
+				
+			
+				
+				
+										
+						
+						
+						<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						
+                            
+                            
+                            
+                            
+							
+							
+								
+								
+							 
+							<dl id="subnav_Paper Handling">
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=12077600&amp;categoryID=12077700" onclick="q=false">Mono Laser</a></dt>
+									
+								
+									
+										<dt class="subnav"><a href="/DRHM/servlet/ControllerServlet?Action=DisplayCategoryProductListPage&amp;SiteID=lexmark&amp;Locale=en_US&amp;ThemeID=22400&amp;parentCategoryID=12077600&amp;categoryID=12100900" onclick="q=false">Multifunction</a></dt>
+									
+								
+							</dl>
+							<!-- Task #54117 - 'Lexmark - Need to hide Categories in the left Navigation'-->
+						    
+                            
+                            
+                            
+                            
+						
+					
+				
+			
+			<!--<dt id="nav_rebates"><a href="http://www.lexmarkstore.com/lexmarkredirect.asp?link=rebates" onClick="q=false">Rebates</a></dt>
+			<dt class="divider"></dt>-->
+		
+	
+</dl>
+
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section2.html"-->
+
+					</div>
+					<dl id="specials_dl">
+						<dt id="specials_dt"><a href="https://www.lexmarkregister.com/preference/optin.aspx?src=estore_leftnav" target="_blank">Send me special offers &amp; surveys </a></dt>
+					</dl>
+					<dl id="hosted_dl">
+						<dt id="hosted_dt"><a href="http://www.commerce5.com">Hosted and Operated by DR globalTech</a></dt>
+					</dl>
+					<dl id="left_hosted_dl">
+						<dt id="left_hosted_dt">
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>
+	
+	
+	</td>
+  </tr>
 </tbody></table>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section3.html"-->
+</dt>					
+					</dl>
+				</div>
+			</div>
+		</div>
+		<div id="content">
+			<div id="content_right">
+				<div id="content_top">
+					<div id="content_bottom">
+						<div id="content_bottom_right">
+							<div id="content_body">
+								
+<!--!/esi:include -->
 
+  
+
+
+<div align="left" style="padding:4px;">
 <b>Privacy Policy</b><p>
 </p><div style="padding:1px;">
 
@@ -639,14 +1514,27 @@ function submititCart() { document.frmMiniCart.submit(); }
 </p><p>This Site is managed by a third party service provider of Lexmark International, Inc. (the "Online Store" and collectively with 
 Lexmark International, Inc. "we" or "us"). We are committed to 
 protecting our customers' privacy. Your privacy through the use of the Web site 
-located at URL http://www1.lexmarkstore.com ("the Site") is paramount in 
+located at URL http://www.lexmarkstore.com ("the Site") is paramount in 
 that goal. 
 </p><p>The purpose of this Privacy Policy ("Policy") is to inform you about the 
 types of information we gather about you and your organization, how we may use 
 that information, whether we disclose it to anyone, and the choices you have 
 regarding our use of, and your ability to correct, that information. <b>This 
 Policy may change from time to time, so please check back periodically. </b>
-</p><p>In addition to our Privacy Policy, we also recommend you read our <a href="copyright.asp">Terms &amp; Conditions</a> for 
+</p><p>In addition to our Privacy Policy, we also recommend you read our 
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/servlet/PromoServlet/promoID.1013700">Terms &amp; Conditions</a> for 
 important information regarding your rights and obligations, as well as 
 limitations and exclusions, that apply to your purchases on the Site and the use 
 of the Site. 
@@ -746,7 +1634,17 @@ our pages, and to provide the services required by an individual customer.
   receive promotional emails. This option is usually included in your account 
   registration form or at our optional home page registration form. If you have 
   established an account with us, to stop receiving promotional emails and 
-  newsletters in the future, please go to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
+  newsletters in the future, please go to the 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a href="/store/lexmark/DisplayEditProfilePage">account page</a> and log in 
   with your account information. Once you are logged in you may scroll to the 
   bottom of the page and un-check the opt-in box. Then click the 'Update 
   Account' button and you will be removed from our mailing list. If you have not 
@@ -755,7 +1653,15 @@ our pages, and to provide the services required by an individual customer.
   unsubscribe address specified at the bottom of the email you receive to let us know 
   you do not wish us to sent future newsletters, updates or promotional emails to you.
     </p><p><b>Cookies:</b> We use cookies in the operation of the Site. To find out 
-  what cookies are and how we use them, <a href="cookies.asp">click here</a>. 
+  what cookies are and how we use them, 
+  
+  
+  
+  
+  
+  
+  
+  <a href="/store/lexmark/DisplayTechnicalAssistancePage">click here</a>. 
   </p><p><b>Contact Information and Third Party Data:</b> If you contact us by 
   telephone, e-mail or letter, we may keep a record of your correspondence or 
   comments. If you report a problem with the Site, we may collect such 
@@ -810,7 +1716,16 @@ authorities to provide Personally Identifiable Information to the appropriate
 governmental authorities. We will disclose Personally Identifiable Information 
 upon receipt of a court order or subpoena or to cooperate with a law enforcement 
 investigation. We fully cooperate with law enforcement agencies in identifying 
-those who use our services for illegal activities. As expressed in the <a href="copyright.asp">Terms and Conditions</a> that govern 
+those who use our services for illegal activities. As expressed in the 
+
+
+
+
+
+
+
+
+<a href="/servlet/PromoServlet/promoID.1013700">Terms and Conditions</a> that govern 
 this Site, we reserve the right to conduct an investigation and/or report to law 
 enforcement agencies any activities that we in good faith believe to be 
 unlawful. 
@@ -820,7 +1735,16 @@ portion or all of our business, assets, or stock.
 </p><p><a name="4"></a><b>4. How can you update or correct your Personally Identifiable Information?</b> 
 </p><p>During the online ordering process you can review, change or delete the 
 information that you have submitted. You may change any of your personal 
-information in your account online at any time. Simply go to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
+information in your account online at any time. Simply go to the 
+
+
+
+
+
+
+
+
+<a href="/store/lexmark/DisplayEditProfilePage">account page</a> and log in 
 with your account information. Once you are logged in you may update your 
 account. Then click on "Update Account". We encourage you to promptly update 
 your information if it changes. You may ask to have some or all of your account 
@@ -833,7 +1757,15 @@ completely removed from our databases due to legal obligations.
 communications regarding current promotions, specials and new additions to the 
 Site. You may "opt-out," or unsubscribe from our newsletters, updates, and 
 promotions, by following the unsubscribe instructions in any e-mail you receive 
-from us. You may also unsubscribe by going to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a>  
+from us. You may also unsubscribe by going to the 
+
+
+
+
+
+
+
+<a href="/store/lexmark/DisplayEditProfilePage">account page</a>  
 and logging in with your account information. Once you are logged in you may scroll to the bottom of 
 the page and un-check the opt-in box. Then click on 'Update Account' and you will not receive any further communications or mailings.
 
@@ -889,7 +1821,15 @@ Our policy is that we do not knowingly collect, use or disclose Personally
 Identifiable Information about visitors to our Site under 18 years of age. If 
 you are the parent or guardian of a minor under 18 years of age and believe that 
 they have disclosed personally identifiable information to us, please contact us 
-by <a href="contactus.asp">clicking here</a> so that we 
+by 
+
+
+
+
+
+
+
+<a href="/store/lexmark/DisplayContactFormPage">clicking here</a> so that we 
 may delete the minor's information. 
 </p><p><a name="10"></a><b>10. Lexmark International, Inc. General Privacy Policy</b>
 </p><p>Lexmark International, Inc. may have additional privacy policies 
@@ -897,7 +1837,16 @@ that govern its general corporate site and the use of that site. To see and
 review these policies, please visit the corporate web site of Lexmark International, Inc.. 
 </p><p><a name="11"></a><b>11. Contacting Us About our Privacy Policy</b> 
 </p><p>If you have any questions about this Privacy Policy please contact our 
-Privacy Compliance Department by <a href="contactus.asp">clicking here</a>. 
+Privacy Compliance Department by 
+
+
+
+
+
+
+
+
+<a href="/store/lexmark/DisplayContactFormPage">clicking here</a>. 
 </p><p><a name="12"></a><b>12. Privacy Policy Changes</b>
 </p><p>This Privacy Policy was last changed on 2/1/2004. If we make changes to any terms 
 or conditions of the Privacy Policy, the changes will be posted in this document 
@@ -908,136 +1857,98 @@ before proceeding to use the Site.
 </p><p>
 <a href="#top">Top</a>
 </p><p>
-
 </p></div>
-<p>
-		
-</p></td></tr></tbody></table>
 
-		<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td colspan="5" height="20">
-				<img src="/buyLexmark_assets/images/space.gif" width="1" height="20" alt=""></td>
-			</tr>
-			<tr>
-				<td colspan="5" align="center" class="footer">
-					All prices are in US Dollars. Products are available for purchase by U.S. customers who take<br>
-					delivery in the U.S. All sales are subject to The Online Store's <a href="http://www1.lexmarkstore.com/copyright.asp">Terms and Conditions</a>.
-					<!--Task #29786 - 'Edit URL paths on Lxk store'-->
-					<p class="footer"><a href="http://www.lexmarkstore.com/warranty.asp">Warranty Information</a> | <a href="http://www1.lexmarkstore.com/lexmarkredirect.asp?link=TechSupport">Technical Support</a></p>
-					<!--/ Task #29786 -->
-					<br><img src="/buyLexmark_assets/images/space.gif" width="1" height="5" alt=""><br>
-					Want to know how we use your personal information? Click here for our <a href="http://www1.lexmarkstore.com/service.asp?section=1">Privacy Policy</a>.<br>
-					Copyright © 1997 - 2006 Lexmark International, Inc. All rights reserved. Used with permission.
-				</td>
-			</tr>
-		</tbody></table>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section4.html"-->
 
-</td>
-<!--td width="213" valign="top">
-<img src="/buyLexmark_assets/images/right_bodyTop.gif" alt="" width="213" border="0">
-
-	<table cellpadding="0" cellspacing="0" width="213" border="0">
+								<div id="footer">
+									<!-- Task 43611 - 'Lexmark Site Scrub for CTO Metric' -->
+									<div class="divider2"></div>
+									All prices are in US Dollars. Products are available for purchase by U.S. customers who take delivery in the U.S. All sales are subject to The Online Store's <a href="/servlet/PromoServlet/promoID.1013700">Terms and Conditions</a>.
+									<br><br>
+									<a href="//www.lexmark.com/lexmark/sequentialem/home/0,6959,204816596_652569481_0_en,00.html">Technical Support</a> |  
+								    <a href="/store/lexmark/DisplayContactFormPage">Pre-Sales</a><br>
+									 <br>
+									Want to know how we use your personal information? Click here for our <a href="/servlet/PromoServlet/promoID.905700">Privacy Policy</a>. Copyright © 1997 - 2007 Lexmark International, Inc. All rights reserved. Used with permission.
+								</div>
+								<!--/ Task #43611 -->
+							</div>
+							<div id="right_nav">
+								
+<!--!/esi:include -->
 
 
-	</table>
+
+
+
+
 	
-</td-->
-
-<td colspan="3" width="0" valign="top" align="right"><img src="/buyLexmark_assets/images/right-gradient.gif" alt="" border="0"></td>
-</tr>
-<tr>
-		<!--td colspan="8" height="1"><img src="/buyLexmark_assets/images/mainbody_bottom.gif" alt="spacer" border="0"></td-->
-		<td colspan="3" valign="top">
-			<img src="/buyLexmark_assets/images/mainbody_bottomLeft.jpg" border="0" width="221" height="68"></td>
-        <td colspan="3" valign="top">
-			<img src="/buyLexmark_assets/images/mainbody_bottomSpacer.jpg" border="0" width="100%" height="68"></td>
-        <td bgcolor="#000000">
-			<img src="/buyLexmark_assets/images/mainbody_bottomRight.jpg" border="0" width="4" height="68"></td>
-	</tr>	
-</tbody></table>
-
-		</td>
-	</tr>
-</tbody></table>
-<!--Task #31624 - 'Lexmark: ROI Trackers for Lexmark'-->
-
-<!--/Task #31624-->
-<!--
-$Workfile: footer.asp $
-$Revision: 1.1 $
--->
-
-
-
-	<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-	<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No.6,393,479B1 & 6,766,370. INFO:http://websidestory.com/privacy-->
-	<script language="javascript">
-	var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-	var hbx=_hbEvent("pv");hbx.vpc="HBX0103u";hbx.gn="ehg-channelwave.hitbox.com";
-
-	//BEGIN EDITABLE SECTION
-	//CONFIGURATION VARIABLES
-	hbx.acct="DM54121772DB";//ACCOUNT NUMBER(S)
-	//Task #32026 - 'Change Commerce Manager Hitbox Code'
-		
-	///Task #32026
-	hbx.pn="/service.asp";//PAGE NAME(S)
-	//Task #25290 - 'Hitbox: Add Certain Fields to Client Profile'
-	hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-	hbx.pndef="default.asp";//DEFAULT PAGE NAME
-	// /Task #25290
-	hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-	//OPTIONAL PAGE VARIABLES
-	//ACTION SETTINGS
-	hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-	hbx.lt="auto";//LINK TRACKING
-	hbx.dlf="n";//DOWNLOAD FILTER
-	hbx.dft="n";//DOWNLOAD FILE NAMING
-	hbx.elf="n";//EXIT LINK FILTER
-
-	//SEGMENTS AND FUNNELS
-	hbx.seg="1";//VISITOR SEGMENTATION
-	hbx.fnl="";//FUNNELS
-
-	//CAMPAIGNS
-	hbx.cmp="";//CAMPAIGN ID
-	hbx.cmpn="";//CAMPAIGN ID IN QUERY
-	hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-	hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-	hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-	hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-	hbx.hra="";//RESPONSE ATTRIBUTE
-	hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-	hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-	hbx.hlt="";//LEAD TRACKING
-	hbx.hla="";//LEAD ATTRIBUTE
-	hbx.gp="";//CAMPAIGN GOAL
-	hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-	hbx.hcn="";//CONVERSION ATTRIBUTE
-	hbx.hcv="";//CONVERSION VALUE
-	hbx.cp="null";//LEGACY CAMPAIGN
-	hbx.cpd="";//CAMPAIGN DOMAIN
-
-	//CUSTOM VARIABLES
-	hbx.ci="";//CUSTOMER ID
-	hbx.hc1="";//CUSTOM 1
-	hbx.hc2="";//CUSTOM 2
-	hbx.hc3="";//CUSTOM 3
-	hbx.hc4="";//CUSTOM 4
-	hbx.hrf="";//CUSTOM REFERRER
-	hbx.pec="";//ERROR CODES
-
-	//INSERT CUSTOM EVENTS
-	//Task #25290 - 'Hitbox: Add Certain Fields to Client Profile'
-	// Task #26627 - 'Hitbox: Add Internal Search Tracking to All Store'
 	
-	// /Task #25290
 
-	//END EDITABLE SECTION
 
-	//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-	</script><script language="javascript1.1" defer="" src="https://cm.commerce5.com/commercemgr_assets/js/hbx.js"></script>
-	<!--END WEBSIDESTORY CODE-->
-</body></html>
+
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=lexmark&StyleID=31500&StyleVersion=56&styleIncludeFile=body-section5.html"-->
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+if(navigator.appName=="Netscape")
+{
+	self.setInterval('adjustHeight()',1000);
+	function adjustHeight() {
+		if(document.getElementById('content_bottom_right').offsetHeight > document.getElementById('left_nav_bottom').offsetHeight) {
+			document.getElementById('left_nav_bottom').style.height = document.getElementById('content_bottom_right').offsetHeight + "px";
+			}
+		else if(document.getElementById('left_nav_bottom').offsetHeight > document.getElementById('content_bottom_right').offsetHeight) {
+			document.getElementById('content_bottom_right').style.height = document.getElementById('left_nav_bottom').offsetHeight + "px";
+			}
+		}
+}
+</script>
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Fireclick Netflame Web Analytics - COPYRIGHT 1999-2004 - Please do not modify this code-->
+  <script language="javascript">
+  <!--
+  function handle(){return true;}
+    window.onerror=handle;
+    var fc_host='www.lexmark.com';
+    document.write('<scr'+'ipt '
+    +'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
+    +'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
+    function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
+    var fcfn=window.onload;
+    function fcco(){window.setTimeout("fcce();", 100);fcfn();}
+    window.onload= null==fcfn ? fcce:fcco;
+  // -->
+  </script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.lexmark.com"></script>
+  <!-- Fireclick Netflame Web Analytics COPYRIGHT 1999-2004 - Please do not modify this code-->
+
+
+
+
+
+</div></body></html>
