@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514200836id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828125808id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edutopia
 
@@ -21,4 +21,5 @@ The types of information collected at this Web site may include:
 
 ## How Do We Use Information?
 
-**Subscripti**
+**Subscription:**  
+Our Web site'
