@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506135341id_/http%3A//www.theorchidboutique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828104510id_/http%3A//www.theorchidboutique.com/privacy.php) for the most accurate reproduction.*
 
 # The Orchid Boutique
 
@@ -6,7 +6,7 @@
 ---|---|---|---|---  
 |  |  |  |  |   
 ---|---  
-|  |  [](http://www.theorchidboutique.com/index.html) |  |  [](http://www.theorchidboutique.com/jewelry/trendy-jewelry.php) |  |  [](http://www.theorchidboutique.com/swimwear/designer-swimwear.php) |  |  [](http://www.theorchidboutique.com/handbags/designer-trendy-fashion-handbags.php) |  |  [](http://www.theorchidboutique.com/clearence/clearence-items.php) |  |  [](http://www.theorchidboutique.com/news.php) |  |  [](http://www.theorchidboutique.com/customer_service.php) |   
+|  |  [Home](http://www.theorchidboutique.com/) |  |  [Jewelry](http://www.theorchidboutique.com/jewelry/trendy-jewelry.php) |  |  [Swimwear](http://www.theorchidboutique.com/swimwear/designer-swimwear.php) |  |  [Handbags](http://www.theorchidboutique.com/handbags/trendy-fashion-handbags.php) |  |  [Clearance](http://www.theorchidboutique.com/clearence/clearence-items.php) |  |  [Blog](http://www.theorchidboutique.com/blog) |  |  [About Our Swimwear](http://www.theorchidboutique.com/about_swimwear.php) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
