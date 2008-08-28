@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomen.co.uk privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327070212id_/http%3A//www.gnomen.co.uk/content/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomen.co.uk privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828212119id_/http%3A//www.gnomen.co.uk/content/privacy-and-terms) for the most accurate reproduction.*
 
 # Gnomen Privacy Statement and Website Terms of Use
 
