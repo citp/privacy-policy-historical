@@ -1,766 +1,256 @@
-<!--The following is the downloaded HTML source of the thediamondgames.com privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614020311id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thediamondgames.com privacy policy that was archived on 2008-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080829000933id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
-<title></title>
+<title>Privacy Policy | Diamond Games</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="generator" content="WordPress 1.5.2"> <!-- leave this for stats -->
-<meta name="keywords" content="tropix, mystic inn, mystery case files prime suspects, diner dash 2, plantasia, spongebob diner dash, cake mania">
-<meta name="ROBOTS" content="ALL, INDEX, FOLLOW">
-<meta name="revisit-after" content="7 days">
-<meta name="description" content="">
-<script src="http://www.thediamondgames.com/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax-js.php?ajaxurl=http://www.thediamondgames.com/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax.php" type="text/javascript"></script><script src="http://www.thediamondgames.com/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-js.php" type="text/javascript"></script>
-<!-- Powered by AdSense-Deluxe WordPress Plugin v0.7 - http://www.acmetech.com/blog/adsense-deluxe/ -->
-<script language="javascript" type="text/javascript">
-<!--
-		function collapseThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} else {
-				comment.className += " collapsed";
-			}
-		}
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thediamondgames.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thediamondgames.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.5.1">
 
-		function expandThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} 
-		}
-		
-		function findBody(el)
-		{
-			var divs = el.getElementsByTagName("div");
-			var ret;
-			for(var i = 0; i < divs.length; ++i) {
-				if(divs.item(i).className.indexOf("body") > -1)
-					return divs.item(i);
-			}
-			return false;
-		}
-	
-		function onAddComment() {
-			checkDocumentIntegrity();
-			var el = document.getElementById("commentform");
-			// Future release: Check if form is filled correctly and mark the form fields.
-			el.submit();
-		}
-		
-		function moveAddCommentBelow(theId, threadId, collapse)
-		{
-			expandThread( theId );
-			var addComment = document.getElementById("addcomment");
-			if(!addComment)
-			{
-			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
-				return
-			}
-			var comment = document.getElementById(theId);
-			if(collapse)
-			{
-				for(var i = 0; i < comment.childNodes.length; ++i) {
-					var c = comment.childNodes.item(i);
-					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
-						c.className += " collapsed";
-					}
-				}
-			}
-			addComment.parentNode.removeChild(addComment);
-
-			comment.appendChild(addComment);
-			if(comment.className.indexOf("alt")>-1) {
-				addComment.className = addComment.className.replace(" alt", "");					
-			} else {
-				addComment.className += " alt";
-			}
-		        var replyId = document.getElementById("comment_reply_ID");
-			if(replyId == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
-			}
-			replyId.value = threadId;
-			var reRootElement = document.getElementById("reroot");
-			if(reRootElement == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
-			}
-			reRootElement.style.display = "block";
-			var aTags = comment.getElementsByTagName("A");
-			var anc = aTags.item(0).id;
-			document.location.href = "#"+anc;
-			document.getElementById("comment").focus();
-		}
-
-		function checkDocumentIntegrity()
-		{
-			str = "";
-			
-			str += checkElement("reroot","div tag");
-			str += checkElement("addcomment", "div tag");
-			str += checkElement("comment_reply_ID", "hidden form field");
-			str += checkElement("content", "div tag");
-			str += checkElement("comment", "textfield");
-			str += checkElement("addcommentanchor", "anchor tag");
-			
-			if(str != "")
-			{
-				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
-				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
-
-				alert(str);
-			}
-		}
-               
-		function checkElement(theId, elDesc)
-		{
-			var el = document.getElementById(theId);
-			if(!el)
-			{
-				if(elDesc == null)
-					elDesc = "element";
-				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
-			}
-			else 
-				return "";
-		}
-		
-		function reRoot()
-		{
-			var addComment = document.getElementById("addcomment");			
-			var reRootElement = document.getElementById("reroot");
-			reRootElement.style.display = "none";
-			var content = document.getElementById("content");
-			addComment.parentNode.removeChild(addComment);
-			content.appendChild(addComment);
-			addComment.className = addComment.className.replace(" alt", "");
-			document.location.href = "#addcommentanchor";
-			document.getElementById("comment").focus();				
-			document.getElementById("comment_reply_ID").value = "0";
-		}			
-		
-		function changeCommentSize(d)
-		{
-			var el = document.getElementById("comment");
-			var height = parseInt(el.style.height);
-			if(!height && el.offsetHeight)
-				height = el.offsetHeight;
-			height += d;
-			if(height < 20) 
-				height = 20;
-			el.style.height = height+"px";
-		}		
--->
-</script>
-<style type="text/css">
-.comment 
-{
-	position: 				relative;
-	margin:					3px;
-	margin-top:				6px;
-/*	border: 				1px solid #666; */
-	padding:				4px 4px 4px 8px;
-	background-color:		#fff;
-}
-
-.odd
-{
-	background-color: #f8f8f8;
-}
-
-.comment div {
-	position: 				relative;
-}
-
-.comment .comment img
-{
-	margin: 				0px;
-}
-
-.comment .collapseicon 
-{
-	width: 					13px;
-	height: 				13px;
-	overflow:				hidden;
-	background-image: 		url(http://www.thediamondgames.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
-}
-
-.collapsed .collapseicon 
-{
-	background-image: 		url(http://www.thediamondgames.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
-}
-
-
-.comment .reply {
-	text-align: 			right;
-	font-size: 				80%;
-	padding: 				0px 6px 6px 0px;
-}
-
-.comment
-{
-	border: 	1px solid #ddd;
-	margin-top: 			10px;
-}
-
-input#subscribe
-{
-	width: auto;
-}
-
-.comment .body .content
-{
-	padding:				0px 3px 0px 3px;
-	width: 					100%;	
-	overflow: 				auto; 
-}
-
-.comment .title abbr
-{
-	border: none;
-}
-
-.collapsed .body, .collapsed .comment
-{
-	display:				none;
-}
-/*
-#addcomment small, #addcomment div
-{
-	padding:				3px;
-}
-*/
-#commentform textarea {
-	width: 97%;
-}
-</style>
-<meta name="description" content="Privacy Policy TheDiamondGames.com takes your privacy seriously. Please read the following to learn more about our privacy policy. This policy ...">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<script type="text/javascript" src="http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/zap_imgpop.js"></script>
-<script type="text/javascript">
-loading = new Image();
-loading.src = 'http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/loading.gif';
-closeover = new Image();
-closeover.src = 'http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/closeover.gif';
-closepush = new Image();
-closepush.src = 'http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/closepush.gif';
-closebutton = new Image();
-closebutton.src = 'http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/closebutton.gif';
-shadowAlpha = new Image();
-shadowAlpha.src = 'http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/shadowAlpha.png';
-</script>
-<link rel="stylesheet" type="text/css" href="http://www.thediamondgames.com/wp-content/plugins/zap_imgpop/zap_imgpop.css">
+<script type="text/javascript" src="http://www.thediamondgames.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.thediamondgames.com/wp-content/plugins/postratings/postratings-js.php?ver=1.10"></script>
+<link rel="stylesheet" href="http://www.thediamondgames.com/wp-content/plugins/postratings/postratings-css.css" type="text/css" media="screen">
 <link rel="shortcut icon" href="favicon.ico">
-
-	<style type="text/css" media="screen">
-		@import url( http://www.thediamondgames.com/wp-content/themes/thediamondgames-2.0/style.css );
-	</style>
-	<link rel="alternate" type="application/rss+xml" title="The Diamond Games .com:  Fun game downloads" href="http://www.thediamondgames.com/feed/">
-	<link rel="alternate" type="application/rss+xml" title="The Diamond Games .com:  Fun game downloads" href="http://www.thediamondgames.com/feed/">
-	<link rel="alternate" type="text/xml" title="The Diamond Games .com:  Fun game downloads" href="http://www.thediamondgames.com/feed/rss/">
-	<link rel="alternate" type="application/atom+xml" title="The Diamond Games .com:  Fun game downloads" href="http://www.thediamondgames.com/feed/atom/">
-
-	<style type="text/css">
-	#stafBlock { position: absolute !important; z-index: 100000; display: none; width: 200px; }
-	#stafForm { background-color: #ffffff; border: 1px solid #c6c6c6; padding: 5px; margin:0; }
-	#stafForm h2 { margin: 0; } 
-	
-	#stafForm input, #stafForm label, #stafForm h2 { font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif; font-size: 1em; color: #222222; }
-	#stafForm input { width: 90px; height: 15px; margin-top: 5px; border: 1px solid #ccc; }
-	#stafForm label { float: left; display: block; width: 90px; line-height: 16px; }
-	#stafClose { float: right; margin-right: 5px; }
-	</style>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-244368-1";
-urchinTracker();
-</script>
+<link rel="stylesheet" href="http://www.thediamondgames.com/wp-content/themes/thediamondgames-2.0/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="Diamond Games Free Game Downloads RSS Feed" href="http://www.thediamondgames.com/feed/">
 <link rel="stylesheet" type="text/css" href="http://www.thediamondgames.com/chromemenu/chrometheme/chromestyle2.css">
-<script type="text/javascript" src="http://www.thediamondgames.com/chromemenu/chromejs/chrome.js">
-
+<script type="text/javascript">
 /***********************************************
 * Chrome CSS Drop Down Menu- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
 * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 ***********************************************/
-
 </script>
+
 
 </head>
 <body>
 
 <div id="wrapper">
-<div id="header">
-<a href="http://www.thediamondgames.com"><img src="http://www.thediamondgames.com/thediamondgames-tdg-new-header-smriti-2.jpg" alt="The Diamond Games .com"></a>
 
+<div id="header">
+<table><tbody><tr><td>
+	<a href="http://www.thediamondgames.com"><img src="http://www.thediamondgames.com/images/diamond-games-free-game-downloads.png" alt="Diamond Games"></a>
+	</td><td>
+	<div id="searchboxheader">
+	<center><img src="http://www.thediamondgames.com/images/payments-blue.gif" alt="Payment with Visa, Mastercard, PayPal, Discover">
+<form method="get" class="diamondgamesearch" action="/index.php">
+<p>
+<input type="text" value="" name="s" id="s" size="16">
+<input type="submit" value="Diamond Games Search">
+</p>
+</form></center>
+	</div>
+	</td></tr></tbody></table>
 <div id="chromemenu">
 <ul>
-<li><a href="http://www.thediamondgames.com/">Home</a></li>
-<li><a href="http://www.thediamondgames.com/help/">Help</a></li>
-<li><a href="http://www.thediamondgames.com/archives/">Archives</a></li>
-<li><a href="http://www.thediamondgames.com/game-reviews/">Game Reviews</a></li>
+<li><a href="http://www.thediamondgames.com/hidden-object-games/">Hidden Object Games</a></li>
+<li><a href="http://www.thediamondgames.com/diner-games/">Diner Games</a></li>
+<li><a href="http://www.thediamondgames.com/new-games/">New Games</a></li>
+<li><a href="http://www.thediamondgames.com/mac-games/">Mac Games</a></li>
+<li><a href="http://www.thediamondgames.com/game-reviews/">Reviews</a></li>
+<li><a href="http://www.thediamondgames.com/top-10/">Top 10</a></li>
+<li><a href="http://www.thediamondgames.com/coupons/" rel="nofollow">Coupons</a></li>
 <li><a href="http://www.thediamondgames.com/sitemap/">Sitemap</a></li>
-<li><a href="http://www.thediamondgames.com/top10-online-games/">Online Games</a></li>
-<li><a href="http://www.thediamondgames.com/action-games/" onmouseover="cssdropdown.dropit(this,event,'dropmenu1')">Action</a></li>
-<li><a href="http://www.thediamondgames.com/card-games/" onmouseover="cssdropdown.dropit(this,event,'dropmenu2')">Card</a></li>
-<li><a href="http://www.thediamondgames.com/mahjong-games/">Mahjong</a></li>
-<li><a href="http://www.thediamondgames.com/puzzle-games/" onmouseover="cssdropdown.dropit(this,event,'dropmenu3')">Puzzle</a></li>
-<li><a href="http://www.thediamondgames.com/word-games/">Word</a></li>
-<li><a href="#" onmouseover="cssdropdown.dropit(this,event,'dropmenu4')">Themes</a></li>
 </ul>
-</div>
-
-<!--1st drop down menu -->                                                   
-<div id="dropmenu1" class="dropmenudiv" style="width: 118px;">
-<a href="http://www.thediamondgames.com/tag/arcade-games/">Arcade</a>
-<a href="http://www.thediamondgames.com/tag/breakout-games/">Breakout</a>
-<a href="http://www.thediamondgames.com/tag/flying-games/">Flying</a>
-<a href="http://www.thediamondgames.com/tag/physics-games/">Physics</a>
-<a href="http://www.thediamondgames.com/tag/platform-games/">Platform</a>
-<a href="http://www.thediamondgames.com/tag/serving-games/">Serving</a>
-<a href="http://www.thediamondgames.com/tag/shooter-games/">Shooter</a>
-<a href="http://www.thediamondgames.com/tag/sport-games/">Sport</a>
-</div>
-
-<!--2nd drop down menu -->                                                
-<div id="dropmenu2" class="dropmenudiv" style="width: 108px;">
-<a href="http://www.thediamondgames.com/tag/blackjack-games/">Blackjack</a>
-<a href="http://www.thediamondgames.com/tag/poker-games/">Poker</a>
-<a href="http://www.thediamondgames.com/tag/solitaire-games/">Solitaire</a>
-<a href="http://www.thediamondgames.com/tag/texas-hold-em-games/">Texas Hold 'Em</a>
-</div>
-
-<!--3rd anchor link and menu -->                                                 
-<div id="dropmenu3" class="dropmenudiv" style="width: 120px;">
-<a href="http://www.thediamondgames.com/tag/inlay-games/">Inlay</a>
-<a href="http://www.thediamondgames.com/tag/logic-games/">Logic</a>
-<a href="http://www.thediamondgames.com/tag/match3-games/">Match 3</a>
-<a href="http://www.thediamondgames.com/tag/shoot3-games/">Shoot 3</a>
-<a href="http://www.thediamondgames.com/tag/slide3-games/">Slide 3</a>
-<a href="http://www.thediamondgames.com/tag/strategy-games/">Strategy</a>
-<a href="http://www.thediamondgames.com/tag/tetris-games/">Tetris</a>
-</div>
-
-<!--4th anchor link and menu -->                                                 
-<div id="dropmenu4" class="dropmenudiv" style="width: 120px;">
-<a href="http://www.thediamondgames.com/tag/bowling-games/">Bowling</a>
-<a href="http://www.thediamondgames.com/tag/casino-games/">Casino</a>
-<a href="http://www.thediamondgames.com/tag/chess-games/">Chess</a>
-<a href="http://www.thediamondgames.com/tag/egyptian-theme/">Egyptian Theme</a>
-<a href="http://www.thediamondgames.com/tag/family-games/">Family</a>
-<a href="http://www.thediamondgames.com/tag/fantasy-theme/">Fantasy Theme</a>
-<a href="http://www.thediamondgames.com/tag/fish-theme/">Fish Theme</a>
-<a href="http://www.thediamondgames.com/tag/holiday-theme/">Holiday Theme</a>
-<a href="http://www.thediamondgames.com/tag/jigsaw-games/">Jigsaw Puzzles</a>
-<a href="http://www.thediamondgames.com/tag/mac-games/">Mac Games</a>
-<a href="http://www.thediamondgames.com/tag/multiplayer-games/">Multiplayer</a>
-<a href="http://www.thediamondgames.com/tag/space-games/">Space Theme</a>
-<a href="http://www.thediamondgames.com/tag/ocean-theme/">Ocean Theme</a>
-<a href="http://www.thediamondgames.com/tag/tycoon-games/">Tycoon</a>
-</div>
-
-</div>
-<div style="float:left;padding: 2px 2px 0 2px;">
-
-<table><tbody><tr><td><script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 160;
-google_ad_height = 90;
-google_ad_format = "160x90_0ads_al_s";
-google_ad_channel ="9135352793";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000CC";
-google_color_url = "008000";
-google_color_text = "000000";
-//--></script>
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr>
-<tr><td>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="2346265530";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000CC";
-google_color_url = "008000";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</td></tr>
-<tr><td>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="7270342300";
-google_color_border = "FFFFFF";
-google_color_link = "0000CC";
-google_color_bg = "FFFFFF";
-google_color_text = "000000";
-google_color_url = "008000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</td></tr></tbody></table><a href="http://www.unicefusa.org/site/c.duLRI8O0H/b.25933/k.AE95/US_Fund_for_UNICEF.htm"><img src="http://www.darfurGenocide.org/images/buttons/helpdarfurblue.jpg" alt="Help Darfur" onclick="javascript:urchinTracker ('/darfur') ; " border="0"></a><br>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as_rimg";
-google_cpa_choice = "CAAQ3LekgwIaCLJg-TvVp5qZKJjC4IEB";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as_rimg";
-google_cpa_choice = "CAAQhfCXhAIaCJM442ipyzWdKPG193M";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as_rimg";
-google_cpa_choice = "CAAQkOakgwIaCExWj-m8HyJjKLTJrIMB";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as_rimg";
-google_cpa_choice = "CAAQ2deWhAIaCA_QWxJ5HFVmKOPC93M";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-<br><a href="http://www.text-link-ads.com/?ref=18918"><img src="http://www.text-link-ads.com/images/text_link_ads_A_120x600.gif" border="0" alt="Text Link Ads"></a>
 </div>
     <div id="outer">
       <div id="inner">
-
 <div id="content">
-<!-- SiteSearch Google -->
-<form method="get" action="http://www.google.com/custom" target="_top">
-<table border="0" bgcolor="#ffffff">
-<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
-<a href="http://www.google.com/">
-<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a>
-</td>
-<td nowrap="nowrap">
-<input type="hidden" name="domains" value="thediamondgames.com">
-<input type="text" name="q" size="30" maxlength="255" value="">
-<input type="submit" name="sa" value="Search">
-</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td nowrap="nowrap">
-<table>
-<tbody><tr>
-<td>
-<input type="radio" name="sitesearch" value="" checked="checked">
-<font size="-1" color="#000000">Web</font>
-</td>
-<td>
-<input type="radio" name="sitesearch" value="thediamondgames.com">
-<font size="-1" color="#000000">thediamondgames.com</font>
-</td>
-</tr>
-</tbody></table>
-<input type="hidden" name="client" value="pub-7431789689051396">
-<input type="hidden" name="forid" value="1">
-<input type="hidden" name="channel" value="3719192262">
-<input type="hidden" name="ie" value="ISO-8859-1">
-<input type="hidden" name="oe" value="ISO-8859-1">
-<input type="hidden" name="safe" value="active">
-<input type="hidden" name="flav" value="0000">
-<input type="hidden" name="sig" value="gBkrQvQEXKW405bY">
-<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:29;LW:46;L:http://www.thediamondgames.com/images/diamond.jpg;S:http://www.thediamondgames.com;FORID:1;">
-<input type="hidden" name="hl" value="en">
-</td></tr></tbody></table>
-</form>
-<!-- SiteSearch Google -->
-	<div style="float:top;padding: 5px 15px 0 15px;">
-<script type="text/javascript"><!--
-google_ad_client = "pub-7431789689051396";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-google_ad_channel ="5626533914";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000CC";
-google_color_url = "008000";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-			<p><strong>Privacy Policy</strong></p>
-	<p>TheDiamondGames.com takes your privacy seriously. Please read the following to learn more about our privacy policy. This policy may change from time to time, so please check back periodically.</p>
-	<p><strong>What are “Cookies” and how do we use them?</strong></p>
-	<p>Cookies are small files written on your computer that are only accessible by the TheDiamondGames.com website. The cookie is used for your convenience. For instance, there’s no point in showing you an advertisement for a game you’ve already purchased.</p>
-	<p>Any information we collect will be stored and processed in a database that resides solely in the United States.</p>
-	<p><strong>Do we share your information with others?</strong></p>
-	<p>TheDiamondGames.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested or when we have your permission.</p>
-	<p><strong>Conditions of Use</strong></p>
-	<p>Your access and use of this site is subject to this Privacy Policy. You may view this policy at any time by visiting www.thediamondgames.com/privacy-policy/</p>
-	<p><strong>Your Consent</strong></p>
-	<p>By using our site, you consent to the collection and use of your personal information by TheDiamondGames.com as stated in this Privacy Policy.</p>
-	<p><strong>Contacting the Site</strong></p>
-	<p>If you have questions about this Privacy Policy or the Site, please contact:</p>
-	<p>    TheDiamondGames.com<br>
-    Attn: Privacy<br>
-    Cornell College 379<br>
-    Mt Vernon, IA 52314</p>
-	<p>    contact@thediamondgames.com</p>
-	<p><strong>Changes to our Privacy Policy</strong></p>
-	<p>TheDiamondGames.com reserves the right to change this privacy policy without notice. Therefore, please check back periodically for any changes.</p>
-	<p><strong>Other Web Sites</strong></p>
-	<p>Other companies that advertise on our site may collect information about you when you view or click on their site or logos.<br>
-TheDiamondGames.com is not responsible for the privacy practices or the content of such web sites. You are encouraged to check the privacy policies of these other sites.</p>
-	<p><strong>Other Cookies</strong></p>
-	<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your computer.<br>
-Third-Party Advertising</p>
-	<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personally identifiable information about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-</p>
+	
+		<h1>Diamond Games Privacy Policy</h1>
+<p>Please take a moment to read our privacy policy prior to using this Website.</p>
+<p>This privacy statement (”Privacy Policy”) covers all the websites owned, affiliated or operated by The Diamond Games, LLC. (”Diamond Games”, “we”, “us”, “our”). Diamond Games knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Diamond Games websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
+<p>We want to share with you how we treat personal information about you that we receive in connection with this Website.</p>
+<p>Also, note that use of this Website is governed by the Terms of Services posted on the Website. As noted in the Terms of Services, Diamond Games expressly excludes any representation or warranty, express or implied, with respect to the information available on this Website. Diamond Games makes no representation about any third-party websites that may be accessed via links from this Website. By using this Website, you agree that the laws of the District of Columbia, without regard to its conflict of laws principles, will govern all matters between you and Diamond Games with respect to your use of this Website.</p>
+<p>What does Diamond Games do?</p>
+<p>Diamond Games is an online web site dedicated to casual games. We post reviews, previews, news, and articles about casual games and provide links to download these games. In addition, we let you post your own ratings and reviews on casual games in the comment sections of the web pages.</p>
+<p>What Information We Collect and How We Use It.</p>
+<p>In general, you can visit our Website without telling us who you are or revealing any personal information about yourself. However, in order to provide the best online service and enrich our members’ experience, as described further below, sections of this Website may request and display some of your personal information to other members and visitors. Diamond Games members can change their profile information at any time and can control how we and other members communicate with them.</p>
+<p>Diamond Games collects personal information that you may submit to us for such purposes as becoming a member of Diamond Games and registering for the use of certain restricted portions of this Website. We use this information to help authenticate users of Diamond Games, send you and other members newsletters and notifications regarding our services, respond to your requests for information or other materials, conduct internal analyses such as surveys, and help you to identify and communicate with other members. Our use of email addresses is discussed in greater detail below in the section entitled “What About Email Addresses.” Note, only your “user name” which you pick is displayed on this Web site. Your full name is never revealed by Diamond Games to other members (unless you expressively pick it as your user name).</p>
+<p>Diamond Games has a general policy of not disclosing your personal information to third parties unless you have consented to such sharing. However, we may share the personal information you provide to us with trusted companies we have hired to provide services for us, such as sending out newsletters, developing new Web site features, or collecting or processing information on our behalf. These companies - our vendors - are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.</p>
+<p>In addition, through certain technologies, Diamond Games also collects non-personally-identifiable information from users and visitors to this site. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and targeted advertisements to members. For more information on how we collect this type of information, please see the section below entitled “What about Cookies.”</p>
+<p>User profile information which may include your picture and user name (that you provide us) is displayed to other members in order to facilitate user interaction within the Diamond Games community. You can modify and change your personal information at any time by logging into your account, going to your my Diamond Games page, and clicking “Edit my Account.”</p>
+<p>What About Email Addresses?</p>
+<p>When you provide your email address, we may use it for the purposes of facilitating your invitations to new friends (“Invitees”) to join Diamond Games, inviting “friends” to connect to your personal My Diamond Games page, and sending notifications and other communications related to the Services, such as, for example, newsletters, emailing an article to a friend, or other information. With the exception of inviting friends, adding friends, or emailing an article to a friend, we will not share or display your email address. We will only do the above is initiated by the user.</p>
+<p>Diamond Games members can invite Invitees to join the service by sending emails via our automated invitation system. Diamond Games does not sell the email addresses of Invitees and uses them solely for the internal purposes of sending email invitations and invitation reminders.</p>
+<p>Can I Opt Out of Emails?</p>
+<p>Members who no longer wish to receive notifications or other communications via email may opt out of such communications. All communications via email include an opt-out link which you may click to unsubscribe from further communications via that channel. You may also visit our <a href="http://www.thediamondgames.com/newsletter/">Diamond Games Newsletter page</a> to enter your email address into the unsubscribe form and click submit to remove that email address from further communications via that channel.</p>
+<p>What about Cookies?</p>
+<p>A “cookie” is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), browser type, and the type of computer and operating system being used. Diamond Games uses cookies to store visitors’ preferences and to record session information to ensure that visitors are provided with a customized content and advertising experience. We record your IP address for security and monitoring purposes.</p>
+<p>We do not link the information stored in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to change your cookie settings. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features available on this Website. To disable all cookies, follow the instructions for your particular browser.</p>
+<p>Customized Advertisements, Promotions, and Sweepstakes</p>
+<p>Ads appearing on this Website may be delivered to users by Diamond Games or one of our Web advertising partners. As noted above, we may use cookies to provide you with customized, targeted ads. Our Web advertising partners may also set cookies to allow their ad servers to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information such as whether you saw their advertisements and which ads you “clicked” on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Please note, however, that this privacy statement covers the use of cookies by Diamond Games on this website and does not cover the use of cookies by any advertisers. Visitors should consult the other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.</p>
+<p>In addition, from time to time, Diamond Games or a partner may sponsor a promotion, sweepstakes or contest on Diamond Games. If you voluntarily participate in these activities, you may be asked to provide personal information including your name, email address or home address or to answer questions in order to participate. If you participate in a promotion, sweepstakes, or contest, we may transfer personal information to our ad partners who have sponsored the promotions, sweepstakes, or contests. It will be clear at the point of collection whether Diamond Games or one of our sponsors or advertising partners is collecting your personal information and whose privacy statement will apply.</p>
+<p>Links to Third Party Web Sites</p>
+<p>We may provide links to third party websites as a convenience to you. Our privacy policy only governs information collected on Diamond Games. Diamond Games is not responsible for the privacy policies and/or practices on these linked sites. When linking to another site, you should read the privacy policy posted on that linked site.</p>
+<p>Public Information</p>
+<p>Whenever you voluntarily post public information anywhere on the Diamond Games Web site, people can access that information and in turn could use that information to send you unsolicited communications. Do not post information you consider to be private on this Website if you desire to maintain the privacy of that information.</p>
+<p>How Old Should I Be?</p>
+<p>The age is 13 or above. Diamond Games does not knowingly collect personal information from children under 13. In the event that we learn that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.</p>
+<p>Security</p>
+<p>At Diamond Games, your privacy and security are our top priorities. Accounts are secured by member-created passwords.</p>
+<p>Diamond Games takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database and restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.</p>
+<p>PLEASE NOTE: we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time.</p>
+<p>Privacy and Sharing</p>
+<p>Except as otherwise described in this privacy statement, Diamond Games will never disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Diamond Games, whether or not a response is required by applicable law; (2) to enforce the Diamond Games Terms of Use Agreement and to protect our rights; or (3) to protect the safety of members of the public and users of the Diamond Games service.</p>
+<p>Diamond Games reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of all or substantially all of Diamond Games’ assets to that successor in interest. For more information see the “Changes in Our Privacy Policy” section below.</p>
+<p>Conditions of Use</p>
+<p>If you decide to visit Diamond Games, your visit and any possible dispute over privacy is subject to this <a href="http://www.thediamondgames.com/privacy-policy/">Privacy Policy</a> and our <a href="http://www.thediamondgames.com/terms-of-service/">Terms of Services</a>, including limitation of damages, arbitration of disputes, and application of District of Columbia law.</p>
+<p>Changes in Our Privacy Policy</p>
+<p>We may make changes to our Privacy Policy from time to time. We will inform users of any changes we make by posting a notice on our Website. USERS WILL ALWAYS BE AWARE OF THE INFORMATION WE COLLECT AND HOW WE USE IT VIA THIS PRIVACY POLICY.</p>
+<p>If the change in how we collect and use information is minor, you will be bound to our privacy policy when you use the site after the changes have been posted. For all material changes to our privacy policy we will provide you with 30 days’ notice through a posting on our Website. At that time, you will have the opportunity to opt out of such new collection and use practices on a going forward basis. Therefore, we recommend that you review this Privacy Policy from time to time to see how any changes impact you.</p>
+<p>Contacting the Web Site</p>
+<p>If you have any questions or concerns regarding privacy, feel free to contact us at privacypolicy@thediamondgames.com or at</p>
+<p>The Diamond Games, LLC<br>
+ATTN: Privacy Policy<br>
+PO Box 32249<br>
+Washington DC 20007<br>
+<strong><br>
+The Effective date of this Privacy Policy: June 30, 2008</strong></p>
 				
 			
 <!-- You can start editing here. -->
-<p><a href="http://www.thediamondgames.com/privacy-policy/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed</a> 
-| <a href="http://www.thediamondgames.com/privacy-policy/trackback/">Trackback <acronym title="Uniform Resource Identifier">URI</acronym></a>
-</p>
-
-<h2 id="comments">Comment 
-<a href="#postcomment" title="Leave a comment">»</a>
-</h2>
-<div class="#commentlist">
-	<p>No comments yet.</p>
-</div>
-<div id="addcomment" class="comment">
-<a id="addcommentanchor" name="addcommentanchor"></a>
-<form action="http://www.thediamondgames.com/wp-comments-post.php" method="post" id="commentform">
-<div class="add">
-	<div id="reroot" style="display: none;">
-		<small><a href="javascript:reRoot()">
-			Click here to cancel "reply".
-		</a></small>
-	</div>
-		
-	<div>
-		<input type="text" name="author" id="author" class="textarea" value="" size="28" tabindex="1"> Name (required)	</div><br>
-
-	<div>
-		<input type="text" name="email" id="email" value="" size="28" tabindex="2">		 E-mail (required) (never shown)	</div><br>
-		
-	<div>
-		<input type="text" name="url" id="url" value="" size="28" tabindex="3">	<acronym title="Uniform Resource Identifier"> Your Website URI (optional)</acronym>	</div><br>
-Your Comment
-	<div style="width: 100%;">
-		<textarea name="comment" id="comment" cols="60" rows="8" tabindex="4"></textarea>
-	</div>
-	<div>
-		<input type="hidden" name="comment_post_ID" value="23">
-		<input type="hidden" name="redirect_to" value="/privacy-policy/">
-		<input onclick="if(typeof(onAddComment) == 'function') { onAddComment(); } else { alert('ERROR:\nIt looks like the website administrator hasn\'t activated the Brians Threaded Comments plugin from the plugin page'); };" name="addcommentbutton" type="button" id="addcommentbutton" value="Add comment">
-	</div>
-</div>
-<input type="hidden" id="sk2_my_js_check1" name="sk2_my_js_check1" value="cxb8tfs3hy">
-<input type="hidden" id="sk2_my_js_check2" name="sk2_my_js_check2" value="df3c694dd7008c285aa377b7ae2b77af">
-<script type="text/javascript">
-<!--
-	document.write('<input type="hidden" id="sk2_my_js_payload" name="sk2_my_js_payload" value="');
-	document.write(Math.round ( Math.abs(((Math.min(((((1 * 41) + 37) + 30) + 35), 33) + Math.round( Math.abs(100*Math.sin(31)) ) ) * 30))));
-	document.write('" />');
--->
-</script><input type="hidden" id="sk2_my_js_payload" name="sk2_my_js_payload" value="2190">
-<input type="hidden" id="sk2_time" name="sk2_time" value="1150250590"><input type="hidden" id="sk2_ip" name="sk2_ip" value="209.237.238.230"><input type="hidden" id="sk2_payload" name="sk2_payload" value="488a0020d52907a3e5e3e60b3f0c86fe"><input type="hidden" id="comment_reply_ID" name="comment_reply_ID" value="0">
-
-	<p style="clear: both;" class="subscribe-to-comments">
-        <input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
-        <label for="subscribe">Notify me of followup comments via e-mail</label>
-	</p>
 
 
-</form>
-</div>
-	</div>
-<div id="sidebar">
-<font size="2"><strong>Welcome to thediamondgames.com!</strong><br>
-We are dedicated to finding and sharing fun pc and mac game software downloads with you because your entertainment is our goal. Enjoy your stay!</font>
+			<p class="nocomments">Comments are closed.</p>
+		</div>
+<div id="sidebar"><br>
+	<center><a href="http://www.thediamondgames.com/link/iwin/coupon" target="_blank" onclick="javascript: pageTracker._trackPageview('/link/iwin/coupon/');">Save $8.00 at iWin with Coupon Code DIAMONDGAMES40</a><br><br>
+	<a href="http://www.thediamondgames.com/games/jojos-fashion-show-2-las-cruces/"><img src="http://www.thediamondgames.com/images/jojos-fashion-show-2-logo.jpg" alt="Jojo's Fashion Show 2"></a><br>
+	<a href="http://www.thediamondgames.com/download/jojos-fashion-show-2-las-cruces/" title="Download Jojo's Fashion Show 2">Download Now</a></center>
 
-<h2><b>Subscribe</b></h2>
-<ul class="sm_sub">
-<li><a href="http://www.thediamondgames.com/feed/"><img src="http://www.thediamondgames.com/wp-content/plugins/ak-subscribe/xml.jpg" alt=""></a></li><li><a href="http://www.bloglines.com/sub/http://www.thediamondgames.com/feed/"><img src="http://www.thediamondgames.com/wp-content/plugins/ak-subscribe/addbloglines.gif" alt="Bloglines"></a></li><li><a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://www.thediamondgames.com/feed/&amp;ru=http://www.thediamondgames.com"><img src="http://www.thediamondgames.com/wp-content/plugins/ak-subscribe/addmymsn.gif" alt="MyMSN"></a></li><li><a href="http://add.my.yahoo.com/rss?url=http://www.thediamondgames.com/feed/"><img src="http://www.thediamondgames.com/wp-content/plugins/ak-subscribe/addmyyahoo.gif" alt="MyYahoo!"></a></li><li><a href="http://www.google.com/reader/preview/*/feed/http://www.thediamondgames.com/feed/"><img src="http://www.thediamondgames.com/wp-content/plugins/ak-subscribe/googlereader.gif" alt="Google Reader"></a></li></ul>
-<a target="_blank" href="http://www.klipfarm.com/klipinfo.php?klip=5016">
- <img border="0" src="http://www.klipfarm.com/images/kf/ui/buttons/getKlip_b2.gif" alt="Get the Klip for this site"></a>
-
-<br>
-<a href="http://search.ebay.com/_W0QQsassZgamblingpQQhtZ-1" title="eBay board games"><h2>Buy my board games on eBay for $20!</h2>
-<img src="http://www.thediamondgames.com/powergrid.jpg" alt="Power Grid Board Game"></a>
-
-<a href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/" title="Solve the mystery of the stolen diamond!"><h2>The Diamond Games</h2>
-<img src="http://www.thediamondgames.com/images/mystery-case-files-prime-suspects-logo.jpg" alt="MCF Prime Suspects" height="160" width="160"></a>
-<br>
-<a href="http://www.thediamondgames.com/games/mystic-inn/" title="Serve wizards potions to gain magic and escape from the enchanted Inn!"><img src="http://www.thediamondgames.com/images/mystic-inn-logo.jpg" alt="Mystic Inn" height="160" width="160"></a>
-
-<h2>The Most Popular Games, Give one a try!</h2>
-<ol>
-<li><a href="http://www.thediamondgames.com/games/diner-dash-2/" title="Help Flo and her restaurant owner friends defeat Mr. Big the tycoon!">Diner Dash 2</a></li>
-<li><a href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/" title="Solve the mystery of the stolen diamond in this sequel to Huntsville!">Mystery Case Files Prime Suspects</a></li>
-<li><a href="http://www.thediamondgames.com/games/mystic-inn/" title="Save Daphne from the ensaring magic by upgrading the inn!">Mystic Inn</a></li>
-<li><a href="http://www.thediamondgames.com/games/cake-mania/" title="A cake-baking adventure of delicious proportions!">Cake Mania</a></li>
-<li><a href="http://www.thediamondgames.com/games/tropix/" title="Solve puzzles to earn sand dollars and upgrade your Island!">Tropix</a></li>
-<li><a href="http://www.thediamondgames.com/games/mystery-case-files-huntsville/" title="Put the criminals behind bars forever in this one-of-a-kind puzzler!">MCF Huntsville</a></li>
-<li><a href="http://www.thediamondgames.com/games/spongebob-diner-dash/" title="Help Spongebob run his undersea restaurant!">Spongebob Diner Dash</a><br>
-</li><li><a href="http://www.thediamondgames.com/games/magic-match/" title="Journey through the magical Lands of Arcane in this rich puzzler!">Magic Match</a></li>
-<li><a href="http://www.thediamondgames.com/games/plantasia/" title="Make your gardens bloom in this splendid action game!">Plantasia</a></li>
-<li><a href="http://www.thediamondgames.com/games/snowy-lunch-rush/">Snowy Lunch Rush</a></li>
-<li><a href="http://www.thediamondgames.com/games/10-talismans/">10 Talismans</a></li>
-</ol>
-<h2>The Very Latest Games</h2>
-<ol id="whats-new">
-<li><a href="http://www.thediamondgames.com/games/the-apprentice/">The Apprentice</a></li><li><a href="http://www.thediamondgames.com/games/shopmania/">Shopmania</a></li><li><a href="http://www.thediamondgames.com/games/microblots/">Microblots</a></li><li><a href="http://www.thediamondgames.com/games/big-kahuna-reef-2/">Big Kahuna Reef 2</a></li><li><a href="http://www.thediamondgames.com/games/10-talismans/">10 Talismans</a></li><li><a href="http://www.thediamondgames.com/games/the-da-vinci-code/">The Da Vinci Code</a></li><li><a href="http://www.thediamondgames.com/games/clash-n-slash-worlds-away/">Clash N Slash Worlds Away</a></li><li><a href="http://www.thediamondgames.com/games/zoo-vet/">Zoo Vet</a></li><li><a href="http://www.thediamondgames.com/games/caribbean-mah-jong/">Caribbean Mah Jong</a></li><li><a href="http://www.thediamondgames.com/games/hyperballoid-around-the-world/">Hyperballoid Around the World</a></li></ol>
-<h2>The Diamond Games (or, our favorite games!)</h2>
-<ol>
-<li><a href="http://www.thediamondgames.com/games/mystic-inn/" title="Mystic Inn Game">Mystic Inn</a></li>
-<li><a href="http://www.thediamondgames.com/games/diner-dash-2/" title="Diner Dash 2 Game">Diner Dash 2 Restaurant Rescue</a></li>
-<li><a href="http://www.thediamondgames.com/games/cake-mania/" title="Cake Mania Game">Cake Mania</a></li>
-<li><a href="http://www.thediamondgames.com/games/magic-match/" title="Magic Match Game">Magic Match</a></li>
-<li><a href="http://www.thediamondgames.com/games/oasis/" title="Oasis Game">Oasis</a></li>
-<li><a href="http://www.thediamondgames.com/games/glow-worm/" title="Glow Worm Game">Glow Worm</a></li>
-<li><a href="http://www.thediamondgames.com/games/wonderlines/" title="Wonderlines Game">Wonderlines</a></li>
-<li><a href="http://www.thediamondgames.com/games/tropix/" title="Tropix Game">Tropix</a></li>
-<li><a href="http://www.thediamondgames.com/games/hexalot/" title="Hexalot Game">Hexalot</a></li>
-<li><a href="http://www.thediamondgames.com/games/diner-dash/" title="Diner Dash Game">Diner Dash</a></li>
-<li><a href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/" title="Mystery Case Files Prime Suspects Game">Mystery Case Files Prime Suspects</a></li>
-
-<h2>Editor Favorite Games</h2>
-<a href="http://www.thediamondgames.com/tag/favorites-of-diamond-miner-mark">Diamond Miner Mark</a><br>
-<a href="http://www.thediamondgames.com/tag/favorites-of-diamond-miner-shane">Diamond Miner Shane</a><br>
-<a href="http://www.thediamondgames.com/tag/favorites-of-diamond-miner-smriti">Diamond Miner Smriti</a><br>
-</ol>
-<h2>Search</h2>
-<form method="get" action="/index.php">
-<p>
-<input type="text" value="" name="s" id="s">
-<input type="submit" value="Search">
-</p>
-</form>
+<h2>New Free Game Downloads</h2>
 <ul>
-</ul>
-
-
-<h2>Join the Newsletter</h2>
-Receive notifications when we add new games to our site! Absolutely no spam.<br>You will receive a confirmation email with a link you must click to activate the subscription.<br> 
-Your Email Address<br>
-<form method="post" action="http://www.thediamondgames.com/subscribe.php"><input type="text" name="email" value="" size="30"><input type="hidden" name="action" value="add" checked="checked"><input type="submit" value="Subscribe"></form>
-<h2>Translate</h2>
-<table border="0">
-                <tbody><tr>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=de&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Deutsch"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_de.gif" alt="German Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=es&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Spanish"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_es.gif" alt="Spanish Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=fr&amp;u=http://www.thediamondgames.com/privacy-policy/" title="French"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_fr.gif" alt="French Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=it&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Italian"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_it.gif" alt="Italian Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=pt&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Portuguese"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_pt.gif" alt="Portuguese Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=ja&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Japanese"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_ja.gif" alt="Japanese Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=ko&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Korean"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_ko.gif" alt="Korean Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/wp-content/plugins/translator.php?l=zh-CN&amp;u=http://www.thediamondgames.com/privacy-policy/" title="Chinese (Simplified)"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_zh-CN.gif" alt="Chinese Flag" border="0" width="18" height="12"></a></td>
-                  <td><a href="http://www.thediamondgames.com/privacy-policy/" title="English"><img src="http://www.thediamondgames.com/wp-content/plugins/flags/flag_en.gif" alt="British Flag" border="0"></a></td>
-                </tr>
-              </tbody></table><ul>
-<li><a href="http://www.thediamondgames.com/wp-register.php">Register</a></li></ul>
-<h2><a href="http://www.thediamondgames.com/wp-login.php">Login</a></h2>
-
-<h2>Latest Comments</h2>
-<ul class="latestactivity"> <li class="alternate"><a href="http://www.thediamondgames.com/games/roller-rush/" class="activityentry">Roller Rush</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/roller-rush/#comments" title="Go to the comments of this entry">28</a><br>
-<small><a style="color: #5b5b5b;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1648">Jen</a>, <a style="color: #5b5b5b;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1647">Jen</a>, <a style="color: #aeaeae;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1617">dyna</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1578">christine</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1566">Jennifer</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/roller-rush/#comment-1565">Gaby M</a> <a href="http://www.thediamondgames.com/games/roller-rush/#comments" title="Go to the comments of this entry">[...]</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/magic-match/" class="activityentry">Magic Match</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/magic-match/#comments" title="Go to the comments of this entry">45</a><br>
-<small><a style="color: #666666;" href="http://www.thediamondgames.com/games/magic-match/#comment-1646">samantha</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/magic-match/#comment-1569">widdlewabbit</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/magic-match/#comment-423">The Big Diamond</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/magic-match/#comment-422">STONE</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/magic-match/#comment-332">The Big Diamond</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/magic-match/#comment-331">Colleen</a> <a href="http://www.thediamondgames.com/games/magic-match/#comments" title="Go to the comments of this entry">[...]</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/plantasia/" class="activityentry">Plantasia</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/plantasia/#comments" title="Go to the comments of this entry">28</a><br>
-<small><a style="color: #707070;" href="http://www.thediamondgames.com/games/plantasia/#comment-1645">Elspeth</a>, <a style="color: #707070;" href="http://www.thediamondgames.com/games/plantasia/#comment-1644">Elspeth</a>, <a style="color: #7e7e7e;" href="http://www.thediamondgames.com/games/plantasia/#comment-1633">colette</a>, <a style="color: #818181;" href="http://www.thediamondgames.com/games/plantasia/#comment-1632">vanadix</a>, <a style="color: #a1a1a1;" href="http://www.thediamondgames.com/games/plantasia/#comment-1621">mind</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/plantasia/#comment-1594">Jocelyn</a> <a href="http://www.thediamondgames.com/games/plantasia/#comments" title="Go to the comments of this entry">[...]</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/cake-mania/" class="activityentry">Cake Mania</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/cake-mania/#comments" title="Go to the comments of this entry">60</a><br>
-<small><a style="color: #747474;" href="http://www.thediamondgames.com/games/cake-mania/#comment-1642">gmb</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/cake-mania/#comment-1587">Ishita Gupta</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/cake-mania/#comment-649">The Big Diamond</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/cake-mania/#comment-648">Megan Sirisena</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/cake-mania/#comment-644">Jimmy</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/cake-mania/#comment-588">Susan Darnell</a> <a href="http://www.thediamondgames.com/games/cake-mania/#comments" title="Go to the comments of this entry">[...]</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/ww2-pacific-heroes/" class="activityentry">WW2 Pacific Heroes</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/ww2-pacific-heroes/#comments" title="Go to the comments of this entry">3</a><br>
-<small><a style="color: #7b7b7b;" href="http://www.thediamondgames.com/games/ww2-pacific-heroes/#comment-1637">Cougar</a>, <a style="color: #7b7b7b;" href="http://www.thediamondgames.com/games/ww2-pacific-heroes/#comment-1636">Cougar</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/ww2-pacific-heroes/#comment-1596">Paul</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/granny-in-paradise/" class="activityentry">Granny In Paradise</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/granny-in-paradise/#comments" title="Go to the comments of this entry">4</a><br>
-<small><a style="color: #7c7c7c;" href="http://www.thediamondgames.com/games/granny-in-paradise/#comment-1635">Pat</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/granny-in-paradise/#comment-1585">carol</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/granny-in-paradise/#comment-333">kazza</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/granny-in-paradise/#comment-262">antonia</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/jigsaw365/" class="activityentry">Jigsaw365</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/jigsaw365/#comments" title="Go to the comments of this entry">2</a><br>
-<small><a style="color: #9a9a9a;" href="http://www.thediamondgames.com/games/jigsaw365/#comment-1622">The Big Diamond</a>, <a style="color: #a3a3a3;" href="http://www.thediamondgames.com/games/jigsaw365/#comment-1618">rosemary boggs</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/luxor/" class="activityentry">Luxor</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/luxor/#comments" title="Go to the comments of this entry">5</a><br>
-<small><a style="color: #c9c9c9;" href="http://www.thediamondgames.com/games/luxor/#comment-1613">David</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/luxor/#comment-1590">katy</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/luxor/#comment-173">jeanette</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/luxor/#comment-52">David</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/luxor/#comment-31">arlene</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/snowy-lunch-rush/" class="activityentry">Snowy: Lunch Rush</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/snowy-lunch-rush/#comments" title="Go to the comments of this entry">2</a><br>
-<small><a style="color: #cccccc;" href="http://www.thediamondgames.com/games/snowy-lunch-rush/#comment-1608">payal</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/snowy-lunch-rush/#comment-647">Rhian Williams</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/" class="activityentry">Mystery Case Files Prime Suspects Game</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comments" title="Go to the comments of this entry">6</a><br>
-<small><a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-1583">The Big Diamond</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-1582">Connie Clements</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-805">The Big Diamond</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-695">Patsy Walters</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-568">Jitka</a>, <a style="color: #cccccc;" href="http://www.thediamondgames.com/games/mystery-case-files-prime-suspects/#comment-565">romona</a></small></li>
-<li class="alternate"><a href="http://www.thediamondgames.com/games/spongebob-diner-dash/" class="activityentry">Spongebob Diner Dash</a>&nbsp;&nbsp;<a href="http://www.thediamondgames.com/games/spongebob-diner-dash/#comments" title="Go to the comments of this entry">1</a><br>
-<small><a style="color: #cccccc;" href="http://www.thediamondgames.com/games/spongebob-diner-dash/#comment-1579">Morgz</a></small></li>
- </ul>
-
-<ul>
-
-		<li id="linkcat-2"><h2>Game Site Links</h2>
-	<ul>
-<li><a href="http://www.fun-motion.com/" title="Physics Games:  Reviews, Physics-Based Game Downloads, and Developer Interviews">Fun-Motion</a></li>
-<li><a href="http://www.gamezebo.com" title="Casual Gaming News and Reviews">GameZebo</a></li>
-<li><a href="http://www.mah-jong-games.com/" title="Mahjong solitaire game downloads and online mahjong games for PC and Mac!">Mah Jong Games</a></li>
-<li><a href="http://www.thedinergames.com" title="Diner game downloads and online diner games for PC and Mac.">The Diner Games</a></li>
-
+		
+					<li><a href="http://www.thediamondgames.com/games/farm-frenzy-2/">Farm Frenzy 2</a></li>
+				
+					<li><a href="http://www.thediamondgames.com/games/righteous-kill/">Righteous Kill</a></li>
+				
+					<li><a href="http://www.thediamondgames.com/games/jewel-match-2/">Jewel Match 2</a></li>
+				
+					<li><a href="http://www.thediamondgames.com/games/treasure-masters-inc/">Treasure Masters, Inc</a></li>
+				
+					<li><a href="http://www.thediamondgames.com/games/janes-realty/">Jane’s Realty</a></li>
+				<li><a href="http://www.thediamondgames.com/new-games/">New Game Downloads</a></li>
 	</ul>
-</li>
+<h3>Browse Games</h3>
+			<ul>
+		<li><a href="http://www.thediamondgames.com/category/adventure-games/">Adventure Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/action-games/">Action Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/card-games/">Card Games</a></li>
+		<li><a href="http://www.thediamondgames.com/diner-games/">Diner Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/fashion-games/">Fashion Games</a></li>
+		<li><a href="http://www.thediamondgames.com/hidden-object-games/">Hidden Objects Games</a></li>
+		<li><a href="http://www.thediamondgames.com/mac-games/">Mac Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/mahjong-games/">Mahjong Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/puzzle-games/">Puzzle Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/strategy-games/">Strategy Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/tycoon-games/">Tycoon Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/word-games/">Word Games</a></li>
+		<li><a href="http://www.thediamondgames.com/category/web-games/">Web Games</a></li>
+		<li><a href="http://www.thediamondgames.com/sitemap/">Sitemap</a></li>
+	</ul>
+	<a href="http://www.thediamondgames.com/games/ranch-rush/"><img src="http://www.thediamondgames.com/images/ranch-rush-logo-iwin.jpg" alt="Ranch Rush"></a>
 
-</ul>
-	
+	New! Play games on your phone at our <a href="http://www.thediamondgames.com/mobile-games/" title="Play games on your phone!">mobile games store</a>, powered by Movaya.<br><br>
+	Welcome to Diamond Games! You'll find all your favorite free game downloads from our partners <a href="http://www.thediamondgames.com/iwin-games-channel/">iWin</a>, <a href="http://www.thediamondgames.com/playfirst-games-channel/">PlayFirst</a>, Shockwave, Yahoo! Games, <a href="http://www.thediamondgames.com/reflexive-games-channel/">Reflexive Entertainment</a>, and RealArcade at Diamond Games.<br>
+	We have Free Game Downloads - Play Now! Unlock unlimited play using PayPal. You can also purchase games with credits cards like Visa, Mastercard, American Express and Discover. Buy games to support developers and to show your appreciation.
+		<br>
+	<a href="http://feeds.feedburner.com/thediamondgames" title="Subscribe to my feed" rel="nofollow" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="RSS Feed" align="left" style="margin:0 4px 0 0"></a><a href="http://feeds.feedburner.com/thediamondgames" rel="nofollow"><img src="http://feeds.feedburner.com/~fc/thediamondgames?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0;padding:1" alt="Subscribe to the Diamond Games RSS Feed"></a><br><br>Subscribe to our RSS feed for daily updates!<br>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=194593" name="url"><input type="hidden" value="Diamond Games : Free Game Downloads" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"><p>Delivered by FeedBurner </p></form>
+<br><br>
+
+<br>
+
+<font size="2"><strong>Welcome to thediamondgames.com! </strong><br></font>
+
+<h2>Most Rated Games</h2>
+   <ul>
+      <li><a href="http://www.thediamondgames.com/games/belles-beauty-boutique/">Belles Beauty Boutique</a> - 1181 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/wedding-dash/">Wedding Dash</a> - 1058 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/sallys-salon/">Sally's Salon</a> - 796 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/nanny-mania/">Nanny Mania</a> - 719 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/virtual-villagers-2-the-lost-children/">Virtual Villagers 2 The Lost Children</a> - 680 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/turbo-pizza/">Turbo Pizza</a> - 612 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/burger-island/">Burger Island</a> - 572 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/posh-shop/">Posh Shop</a> - 532 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/chocolatier/">Chocolatier Game</a> - 528 Votes</li>
+<li><a href="http://www.thediamondgames.com/games/diner-dash-flo-on-the-go/">Diner Dash Flo on the Go</a> - 525 Votes</li>
+   </ul>
+
+We are dedicated to finding and sharing fun PC and Mac game software downloads with you because your entertainment is our goal. Enjoy your stay!<br><br>
+
+<form method="post" action="http://www.ymlp.com/subscribe.php?thediamondgames">
+<table border="0">
+<tbody><tr>
+<td colspan="2"><strong>Sign up for our Newsletter</strong><br>Your Email Address</td>
+</tr>
+<tr>
+<td><input type="text" name="YMLP0" size="20"> <input type="submit" value="Submit"></td>
+</tr>
+</tbody></table>
+</form>
+
+						
+
+			
+			
+			
+<ul>
+<li><a href="http://www.thediamondgames.com/wp-login.php?action=register">Register</a></li></ul>
+<h2><a href="http://www.thediamondgames.com/wp-login.php">Log in</a></h2>
+
+<strong>Make the world a little better.</strong><br><br>
+
+Donate to UNICEF<br>
+<a href="http://www.unicef.org/"><img src="http://www.unicef.org/about/images/unicef_logo.gif" alt="UNICEF"></a><br><br>
+<img src="http://www.thediamondgames.com/logo-small.gif" alt="Diamond Games">
+<br>
+<br>
+	<img src="http://www.thediamondgames.com/images/ssl.gif" alt="Downloads verified, virus and spyware free">
+
+</div><div id="footer">
+	<br>
+<a href="http://www.thediamondgames.com/diner-games/">Diner Games</a>·
+<a href="http://www.thediamondgames.com/category/farm-games/">Farm Games</a>·
+<a href="http://www.thediamondgames.com/category/fashion-games/">Fashion Games</a>·
+<a href="http://www.thediamondgames.com/hidden-object-games/">Hidden Object Games</a>·
+<a href="http://www.thediamondgames.com/mac-games/">Mac Games</a>·
+<a href="http://www.thediamondgames.com/category/puzzle-games/">Puzzle Games</a>
+<br>
+<a href="http://www.thediamondgames.com/about-us/" rel="nofollow">About Diamond Games</a>·
+<a href="http://www.thediamondgames.com/contact/" rel="nofollow">Contact Us</a>· 
+<a href="http://www.thediamondgames.com/privacy-policy/" rel="nofollow">Privacy Policy</a>·
+<a href="http://www.thediamondgames.com/terms-of-service/" rel="nofollow">Terms of Service</a>·
+<a href="http://www.thediamondgames.com/support/" rel="nofollow">Help</a>·
+<a href="http://www.thediamondgames.com/sitemap/">Sitemap</a>· 
+<a href="http://www.thediamondgames.com/archives/">Archives</a>· 
+<a href="http://www.thediamondgames.com/">Free Game Downloads</a>
+<br><br>
+All games and their related content are Copyright their respective owner(s).<br>
+© 2005-2008 The Diamond Games, LLC. All rights reserved.
 </div>
-<div id="footer">
-<p>
-<a href="http://www.thediamondgames.com/action-games/">Action Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thediamondgames.com/card-games/">Card Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thediamondgames.com/mahjong-games/">Mahjong Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thediamondgames.com/puzzle-games/">Puzzle Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thediamondgames.com/word-games/">Word Games</a>
-</p><p>
-<a href="http://www.thediamondgames.com/about-us/">About TheDiamondGames.com</a>
-·
-<a href="http://www.thediamondgames.com/privacy-policy/">Privacy Policy</a>
-·
-<a href="http://www.thediamondgames.com/contact/">Contact Us</a>
-·
-<a href="http://www.thediamondgames.com/sitemap/">Sitemap</a>
-·
-All games and their related content on The Diamond Games .com are Copyright their respective owner(s). All other content © 2005 TheDiamondGames.com. TheDiamondGames.com © 2005 Mark Wegner.
-</p>
 </div>
 </div>
 </div>
 </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+if (typeof(_gat) == 'object')
+  {
+var pageTracker = _gat._getTracker("UA-244368-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+  }
+</script>
 
 
-
-
-</body></html>
+<!-- Dynamic Page Served (once) in 0.170 seconds -->
+<!-- super cache --></body></html>
