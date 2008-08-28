@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501095527id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828203004id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Broadway Chiropractic And Wellness - Chiropractor In New York, NY, USA :: Privacy Policy
 
