@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623221506id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828055340id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
 
 # Brunico Communications Ltd. / Brunico Marketing Inc.
 
@@ -8,7 +8,7 @@ and its subsidiary Brunico Marketing Inc.
 
 Protecting personal information and respecting personal privacy are very important to Brunico. This policy applies to all of Brunico's information practices and to all of its business operations, products, and services, including:
 
-  * the print and electronic publications published by Brunico Communications Ltd., including **Playback, Strategy, Media In Canada, KidScreen, RealScreen, and Boards** ("Our Publications");
+  * the print and electronic publications published by Brunico Communications Ltd., including **Playback, Strategy, Media In Canada, Stimulant, KidScreen, RealScreen, and Boards** ("Our Publications");
   * conferences and other events produced by **Brunico Communications Ltd** , and by its wholly-owned subsidiary, **Brunico Marketing Inc**. (collectively "Our Events");
   * websites related to Our Publications and Our Events ("Our Websites"); and
   * email newsletters related to Our Publications ("Our Email Newsletters").
@@ -53,7 +53,7 @@ Information which Brunico does not treat as personal for the purposes of this po
 To access or change your personal information, or for any matters pertaining to privacy of personal information, please contact Brunico's privacy officer:
 
 Omri Tintpulver  
-VP, eBrunico and Circulation  
+VP and CIO  
 Suite 500, 366 Adelaide St. West  
 Toronto, Ontario, M5V 1R9, Canada  
 Telephone: 1-866-408-2300 or 416-408-0136  
@@ -83,6 +83,6 @@ Information that is no longer being used for the reasons stated upon collection 
 
 Non-personal information is collected from Our Websites in the form of web logs. The web logs are used to analyze anonymous behavior on Our Websites for the purposes of improving Brunico's products and services. On occasion aggregate statistics will be provided to reputable third-party companies, but these statistics will contain no personally identifiable information.
 
-**If you do not agree with this privacy policy, please do not use Our Websites or subscribe to Our Publications or Our Email Newsletters.**
+**If you do not agree with this privacy policy, please do not use or subscribe to Our Websites, Our Publications or Our Email Newsletters.**
 
-This policy was last modified on July 26, 2005.
+This policy was last modified on April 22, 2008.
