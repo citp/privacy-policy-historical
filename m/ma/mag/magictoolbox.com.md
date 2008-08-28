@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516200156id_/http%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828044525id_/http%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Magic Toolbox
 
@@ -16,11 +16,13 @@ Customers purchasing a product are asked to provide their name and email address
 
 Magic Toolbox does not disclose personally-identifying information to anyone other than its employees, contractors and affiliated organisations that need to know that information in order to process it on our behalf.
 
-Magic Toolbox takes all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
 If you make a contribution to a forum or blog on our website, such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information.
 
-For users outside the United Kingdom, please note that any personally-identifiable information you enter into the website will be transferred out of your country and into the United Kingdom. You consent to such transfer through your use of the website. You also warrant that you have the right to transfer such information outside your country and into the United Kingdom.
+If you provide feedback about our products or service, your comments, name and website address may be included on our [testimonials page](https://web.archive.org/testimonials/). If you do not want this information published, please [contact us](https://web.archive.org/contact/) and we will remove it.
+
+Magic Toolbox takes all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+Our webservers are located in the United States. Any personally-identifiable information you enter into the website will be transferred out of your country and into the United States. You consent to such transfer through your use of the website. You also warrant that you have the right to transfer such information outside your country and into the United States.
 
 ### Security
 
@@ -28,7 +30,7 @@ All information collected on this website is stored on restricted database serve
 
 ### Email Opt-out
 
-We send email newsletters to our customers and other people that have subscribed via the website. You may opt-out of this at any time on the [newsletter](https://web.archive.org/newsletter) section of the website.
+We send email newsletters to our customers and other people that have subscribed via the website. You may opt-out of this at any time on the [newsletter](https://web.archive.org/newsletter/) section of the website.
 
 ### Cookies
 
@@ -40,8 +42,8 @@ This privacy policy may be updated from time to time and changes will be posted 
 
 ### Review and Access
 
-Upon your request, we will provide you with a summary of the information we collect about you. You may correct, update, modify or delete this information by [contacting us](https://web.archive.org/contact).
+Upon your request, we will provide you with a summary of the information we collect about you. You may correct, update, modify or delete this information by [contacting us](https://web.archive.org/contact/).
 
 ### Contact Us
 
-If you have any questions about this policy or our site in general, please [contact us](https://web.archive.org/contact).
+If you have any questions about this policy or our site in general, please [contact us](https://web.archive.org/contact/).
