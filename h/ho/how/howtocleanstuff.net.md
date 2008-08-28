@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622041947id_/http%3A//www.howtocleanstuff.net/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828104301id_/http%3A//www.howtocleanstuff.net/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Info
 
