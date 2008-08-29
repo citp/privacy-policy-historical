@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeexpress.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629090911id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeexpress.com privacy policy that was archived on 2008-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080829155653id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
