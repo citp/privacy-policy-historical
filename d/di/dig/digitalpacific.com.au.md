@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516084420id_/http%3A//www.digitalpacific.com.au/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2008-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080829175352id_/http%3A//www.digitalpacific.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Digital Pacific Privacy Policy | Digital Pacific
+# Digital Pacific Privacy Policy
+
+## Maintaining your privacy
 
 Digital Pacific is dedicated to maintaining the privacy of our web hosting customers. Once you have chosen to become a Digital Pacific customer, we assure you that your personal information will be exclusively used to provide you with comprehensive services.
 
