@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208102339id_/http%3A//www.golftown.com/aboutUs/privacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2008-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080831014238id_/http%3A//www.golftown.com/aboutUs/privacySecurity.aspx) for the most accurate reproduction.*
 
 # Golf Town
 
