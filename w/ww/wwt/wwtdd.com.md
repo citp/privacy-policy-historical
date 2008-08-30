@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608161449id_/http%3A//fatpenguinmedia.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2008-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080830222858id_/http%3A//fatpenguinmedia.com/privacy.phtml) for the most accurate reproduction.*
 
 # Fat Penguin Media
 
