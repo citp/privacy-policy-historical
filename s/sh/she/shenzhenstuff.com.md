@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shenzhenstuff.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506094657id_/http%3A//www.shenzhenstuff.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.shenzhenstuff.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shenzhenstuff.com privacy policy that was archived on 2008-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080831214558id_/http%3A//www.shenzhenstuff.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.shenzhenstuff.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Shenzhen Stuff
 
