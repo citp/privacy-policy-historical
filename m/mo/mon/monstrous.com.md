@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010805id_/http%3A//www.monstrous.com/content/view/21/103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2008-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080901174725id_/http%3A//www.monstrous.com/content/view/21/103) for the most accurate reproduction.*
 
 # Monstrous.com - The largest site about monsters - Privacy policy
 
