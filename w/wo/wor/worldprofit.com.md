@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152206id_/http%3A//www.worldprofit.com/policy.cfm%3Fid%3D9717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2008-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080902040807id_/http%3A//www.worldprofit.com/policy.cfm%3Fid%3D0) for the most accurate reproduction.*
 
 # Worldprofit.com - Webcasting, Database Development, Website Design, Hosting, Work from Home, Video, E-Commerce - Edmonton, Alberta, Canada
 
