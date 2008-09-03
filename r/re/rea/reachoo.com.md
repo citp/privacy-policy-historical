@@ -1,98 +1,45 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329160615id_/http%3A//reachoo.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2008-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080903131530id_/http%3A//www.reachoo.com/privacy_policies) for the most accurate reproduction.*
 
-# Reachoo Video Classifieds
+# Reachoo free video classifieds
 
-|   
----  
-|   |  |   
----  
-|   
----  
-   
-|    
----  
-|  |  |  |   
----|---|---  
-  |  |   |   |    
----|---|---  
-|  |   
-|  | PRIVACY POLICY   
----  
-| 
+Your privacy is critically important to us. At Reachoo we have a few fundamental principles: 
 
-Welcome to reachoo.com (“reachoo”), owned, produced and operated by Unborn Media, Inc. (“Unborn Media”) and, potentially, in part or in whole, by its parents, subsidiary and affiliate corporations, successors, and assigns (collectively referred to as “Unborn Companies”). Unless explicitly stated otherwise, any current, updated and new products and services (“Products and Services”), including the addition of new properties shall be subject to this Privacy Policy, as well as the General Terms and Conditions of Use (“Terms and Conditions”). By using reachoo you agree to be bound by this Privacy Policy and the Terms and Conditions, whether or not you register as a listener (“Listener”). Please read this Privacy Policy carefully. 
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We don't send your information for marketing purposes.
+  * In our video classified products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-reachoo.com is a music-oriented content and information website that provides a service to musical artists and to record companies on behalf of musical artists (each an “Artist” and collectively “Artists”) to post information regarding themselves as well as musical content owned and/or created by them. reachoo members can view each others' profiles (“Profiles”), communicate with each other, share photos, post journals and comments, and describe their interests. Registered Users can change their Profile information at any time and can control how other Users and the service communicates with them. Users and Artists are sometimes referred to hereinafter individually and collectively as “Users.” 
 
-reachoo cares about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy[at]reachoo[dot]com](mailto:privacy@virb.com).  
-  
----  
-  
-#### INFORMATION COLLECTION AND USE BY Reachoo 
 
-reachoo collects User submitted personal information such as name, mailing address, email address, telephone number and age to authenticate Users, and to send notifications to those Users relating to, without limitation, the reachoo service, special events, contests and special offers. 
+Below is our privacy policy which incorporates these goals: 
 
-As is standard practice on many corporate websites, reachoo also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from Users and other visitors to the site. This data is used to improve the website services, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. reachoo will not use the information collected to market directly to that person. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to Users. User IP addresses are recorded for security and monitoring purposes.
+Reachoo LLC. (“Reachoo”) only operates Reachoo.com. It is Reachoo’s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
-In addition reachoo uses pixel tags — tiny graphic images — to tell us what parts of our website have been visited or to measure the effectiveness of searches customers perform on our site. Pixel tags also enable us to send email messages in a format customers can read. And they tell us whether emails have been opened to assure that we’re only sending messages that are of interest to our customers. reachoo stores all of this information in a secure database.
+### Website Visitors
 
-User Profile information including Users' pictures and first names is displayed to people in order to facilitate user interaction in the reachoo social networking community. Users' full names are never directly revealed to other Users.
+Like most website operators, Reachoo collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Reachoo’s purpose in collecting non-personally identifying information is to better understand how Reachoo’s visitors use its website. From time to time, Reachoo may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
-Reachoo may also use a Users’s email address to send updates, a newsletter or news regarding the service. Reachoo may send email messages which use a “click-through URL” linked to content on the reachoo website. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. Reachoo tracks this click-through data to help determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
+Reachoo also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Reachoo does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
 
-From time to time, reachoo or a partner may sponsor a promotion, sweepstake or contest on reachoo. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Reachoo may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
+### Gathering of Personally-Identifying Information
 
-Reachoo may also collect information for market research purposes to gain a better understanding of our customers and thus provide more valuable service. Reachoo also collects information regarding customer activities on our website, and on related websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.  
-  
-#### USE OF COOKIES
+Certain visitors to Reachoo’s websites choose to interact with Reachoo in ways that require Reachoo to gather personally-identifying information. The amount and type of information that Reachoo gathers depends on the nature of the interaction. In each case, Reachoo collects such information only in so far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Reachoo. Reachoo does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
-Reachoo uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, to customize newsletter, advertising, and Web page content based on browser type and user profile information, to help track usage to help us understand which parts of our website are the most popular, where our visitors are going, and how much time they spend there. to make usage of our website even more rewarding as well as to study the effectiveness of our customer communications and to customize each visitor’s experience and provide greater convenience.
+### Aggregated Statistics
 
-Reachoo does not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from reachoo in order to use most functions on the site. Please note that reachoo allows third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the reachoo Privacy Policy.   
-  
-#### LINKS
+Reachoo may collect statistics about the behavior of visitors to its websites. Reachoo may display this information publicly or provide it to others. However, Reachoo does not disclose personally-identifying information other than as described below. 
 
-Reachoo contains links to third party websites. Reachoo is not responsible for the privacy policies and/or practices on other sites. When linking to another site, a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on reachoo.   
-  
-#### CHAT ROOMS, PROFILES, MESSAGE BOARDS AND PUBLIC FORUMS
+### Protection of Certain Personally-Identifying Information
 
-Please be aware that whenever you voluntarily post public information to Chat Rooms, Profiles, Message Boards or any other Public Forum, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Unborn Media and the Unborn Companies are not responsible for the personally identifiable information you choose to submit on reachoo. Please think before you post any personal information online.   
-  
-#### CORRECTING/UPDATING OR REMOVING INFORMATION
+Reachoo discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Reachoo’s behalf or to provide services available at Reachoo’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Reachoo’s websites, you consent to the transfer of such information to them. Reachoo will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Reachoo discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Reachoo believes in good faith that disclosure is reasonably necessary to protect the property or rights of Reachoo, third parties or the public at large. If you are a registered user of a Reachoo website and have supplied your email address, Reachoo may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Reachoo and our products. We primarily use our various video classifieds to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Reachoo takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
-Reachoo Users may modify or remove any of the personal information contained in their Profile at any time by logging into their account and accessing features such as Edit Profile and Account Info.   
-  
-#### EMAIL CHOICE / OPT OUT
+### Cookies
 
-Users who no longer wish to receive updates or notifications may choose not to by opting-out. To opt-out, simply log-in to your Listener Account, click the “Edit Profile” link and select the “No” button next to “Receive Virb Email Updates”. All notification emails and Virb newsletters also include the above instructions for opting-out of those communications in the future.   
-  
-#### THIRD PARTY ADVERTISING
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Reachoo uses cookies to help Reachoo identify and track visitors, their usage of Reachoo website, and their website access preferences. Reachoo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Reachoo’s websites, with the drawback that certain features of Reachoo’s websites may not function properly without the aid of cookies. 
 
-Ads appearing on reachoo may be delivered to Users by reachoo or one of our web advertising partners. Our web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers only the use of cookies by reachoo and does not cover the use of cookies by any third party advertisers.   
-  
-#### SECURITY
+### Privacy Policy Changes
 
-Reachoo User and Artist accounts are secured by User-created and Artist-created (as applicable) passwords. Reachoo takes precautions to insure that account information is kept private. Reachoo uses reasonable measures such as encryption to protect private information that is stored within our database against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction, and we restrict access to such private information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that reachoo cannot guarantee the security of Listener or Artist account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Users are urged to also take precautions to protect their personal data by changing passwords often using a combination of letters and numbers, and using a secure web browser. For any additional information about the security measures reachoo uses on our website, please contact us at privacy[at]reachoo[dot]com.   
-  
-#### SHARING AND DISCLOSURE OF INFORMATION Reachoo COLLECTS
+Although most changes are likely to be minor, Reachoo may change its Privacy Policy from time to time, and in Reachoo’s sole discretion. Reachoo encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Reachoo.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-Except as otherwise described in this Privacy Policy, reachoo will not disclose personal information to any third party unless believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by reachoo, whether or not a response is required by applicable law; (2) to enforce the reachoo Terms and Conditions or to protect our rights; or (3) to protect the safety of members of the public and Users of the service. Reachoo reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of reachoo or substantially all of its assets to that successor in interest. For more information, see the "Changes in Our Privacy Policy" section below. Reachoo takes your privacy very seriously. Reachoo does not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared with the Unborn Entities who will safeguard it in accordance with reachoo ’s privacy policy. There are also times when it may be advantageous for reachoo to make certain personal information about you available to companies that reachoo has a strategic relationship with or that perform work for reachoo to provide products and services to you on our behalf. These companies may help us process information, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with reachoo ’s policies. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the reachoo website.  
-  
-#### PRIVACY OF CHILDREN
-
-None of the Unborn Media sites are directed to children under the age of 13. We operate our network of sites in compliance with the Children’s Online Privacy Protection Act of 1998, and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.  
-  
-#### CHANGES IN OUR PRIVACY POLICY
-
-From time to time reachoo may make changes to our Privacy Policy. If we make changes, we will post them on our site to make Users aware of what the changes are so Users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the Privacy Policy when she or he uses the site after those changes have been posted If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on reachoo for 30 days.   
-  
-#### CONTACTING THE WEB SITE
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy[at]reachoo[dot]com](mailto:privacy@Virb.com)  
-  
-   
-|  |   
-   
-|  |   
-   
- 
+Copyright © 2005–2008 Reachoo, LLC. Privacy Policy. 
