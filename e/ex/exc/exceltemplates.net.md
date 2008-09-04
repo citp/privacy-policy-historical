@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504094832id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2008-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080904082133id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Excel Templates
 
@@ -47,3 +47,5 @@ When Exceltemplates.net makes changes to this privacy policy we will post those 
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us at info@exceltemplates.net.
+
+**Share to your friends :** These icons link to social bookmarking sites where readers can share and discover new web pages.
