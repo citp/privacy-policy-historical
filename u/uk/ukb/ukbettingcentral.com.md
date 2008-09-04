@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618092842id_/http%3A//www.ukbettingcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2008-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080904093515id_/http%3A//www.ukbettingcentral.com/privacy.html) for the most accurate reproduction.*
 
 # UK Betting Central Privacy Policy
 
@@ -87,7 +87,7 @@ Please note that the messages that UKBettingCentral.com sends to you to confirm,
 
 ### 
 
-SIY Ads
+Advertising
 
 When purchasing an Ad, it is important to note that any information you choose to include in an Ad may be made publicly available via the Site and other media in which UKBettingCentral.com listings are published, including third-party Web sites and print publications. You are required to include at least your phone number and, optionally, an email address or website link to allow users to contact you regarding your Ad. As such, you may receive unsolicited phone calls and emails from third parties. Except for required information, you should not include any contact or other information in an Ad that you do not want other parties to see or use. 
 
