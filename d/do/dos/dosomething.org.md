@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513022923id_/http%3A//www.dosomething.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905073739id_/http%3A//www.dosomething.org/privacy) for the most accurate reproduction.*
 
-# Do Something | Privacy Statement
+# Privacy | Do Something
+
+## Privacy
 
 Do Something is a not-for-profit organization for teens that want to change our world. This site is designed to offer resources to help teens change our world and has established online security measures to ensure the safety of every user.
 
@@ -10,7 +12,7 @@ Our promise about your personal information: If we collect information from you,
 
 Here are the details of our privacy policies. This statement may change over time -- please review it periodically. 
 
-## Types of Information Collected; Uses of Information
+### Types of Information Collected; Uses of Information
 
 We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Certain, non-personally identifiable information (including, but not limited to, your IP address, the type of browser and operating system you are using, the domain name from which you linked to our site) might be collected by our web servers to help diagnose technical problems and to help administer our website. We may share this information with our other business partners on an aggregated basis or for the expressed purposes of web site functionality.
 
@@ -20,15 +22,15 @@ We may use the information from our registration forms and surveys to contact th
 
 * * *
 
-## Cookies
+### Cookies
 
 We may use "cookies" to determine whether you have visited our site previously and to save and remember any preferences that you set while using our site. Our cookies cannot retrieve any other data from a hard drive or obtain an e-mail address. Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to utilize certain services at dosomething.org if cookies are rejected.
 
-## Links
+### Links
 
 Do Something only links to other non-profit or for-profit organizations that qualify as strategic partners. This site contains links to other sites. Do Something is not responsible for the privacy practices or the content of such Web sites. 
 
-## User Generated Content
+### User Generated Content
 
 The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of Do Something as an organization. Do Something is a not-for-profit and does not directly support or push any political, social, or religious agendas. We love all of our users equally.  
 
