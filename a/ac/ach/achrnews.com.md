@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610135608id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905114028id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - HTML - BNP Media
 
