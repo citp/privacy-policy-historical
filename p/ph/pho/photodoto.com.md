@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517005409id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905190307id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Photodoto | Privacy Policy
 
