@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510113558id_/http%3A//www.pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906002517id_/http%3A//pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PITB Privacy Policy
 
