@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613101635id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905180637id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
 
 # toledoblade.com -- Privacy statement for toledoblade.com
 
@@ -40,6 +40,7 @@ A final note: The Web and the world around it are changing rapidly. We may have 
 Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
   
+[Permanent Link](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/READERSERVICE02/40108028/-1/READERSERVICE)  
 **RELATED ARTICLES**
 
 > • [About The Blade and toledoblade.com](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/READERSERVICE02/40108027/0/READERSERVICE)  
