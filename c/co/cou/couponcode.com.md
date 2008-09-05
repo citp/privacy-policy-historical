@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couponcode.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719174414id_/http%3A//couponcode.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcode.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905185105id_/http%3A//couponcode.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-LDS Marketing (couponcode.com) is strongly committed to protecting the privacy of this site's visitors. To that extent, we are the sole owners of all information collected on this site.
+LDS Marketing (CouponCode.com®) is strongly committed to protecting the privacy of this site's visitors. To that extent, we are the sole owners of all information collected on this site.
 
 Any information is collected in order to deliver the services you have requested.
 
@@ -50,16 +50,18 @@ We collect personal information at the user's discretion. This information will 
 
 We will collect information for statistical purposes for administration of the website. The stored information will not include any information that reveals any contact information of the user.
 
-Confidentiality / Security
+**Confidentiality / Security**
 
 LDSM maintains physical, electronic and administrative safeguards that are appropriate to the type of personal information we obtain from you.
 
 LDSM staff and volunteers having access to personal data are required to respect the confidentiality of personal information and handle it responsibly.  
-Privacy Questions
 
-If you are aware of any inaccuracy or changes in the personal information which we hold about you, please [contact](https://web.archive.org/web/20060719174414id_/http%3A//couponcode.com/contact.cfm) an LDSM staff.
 
-If you have a complaint or concern about LDSM's information handling practices, we encourage you to talk to us. You can [contact](https://web.archive.org/web/20060719174414id_/http%3A//couponcode.com/contact.cfm) LDSM's Chief Privacy Officer . You will be asked to provide the following information in writing:
+**Privacy Questions**
+
+If you are aware of any inaccuracy or changes in the personal information which we hold about you, please [contact](https://web.archive.org/web/20080905185105id_/http%3A//couponcode.com/contact102306.cfm) an LDSM staff.
+
+If you have a complaint or concern about LDSM's information handling practices, we encourage you to talk to us. You can [contact](https://web.archive.org/web/20080905185105id_/http%3A//couponcode.com/contact102306.cfm) LDSM's Chief Privacy Officer . You will be asked to provide the following information in writing:
 
 Your name, address or fax number where you prefer to be reached;
 
@@ -73,4 +75,4 @@ LDSM will investigate and assist with resolving your concern.
 
 LDSM regularly reviews its policies and procedures to ensure we remain current with changing laws and evolving public expectations.
 
-LDS Marketing welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please [contact us](https://web.archive.org/web/20060719174414id_/http%3A//couponcode.com/contact.cfm).
+LDS Marketing welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please [contact us](https://web.archive.org/web/20080905185105id_/http%3A//couponcode.com/contact102306.cfm).
