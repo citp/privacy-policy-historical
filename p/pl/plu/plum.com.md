@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2008-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080205200946id_/http%3A//www.plum.com/privacy.plum) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905141028id_/http%3A//www.plum.com/privacy.plum) for the most accurate reproduction.*
 
 # Plum: Privacy Statement
 
-Our Terms of Service and Privacy Policy are currently in draft form and may change while the Plum service is in its early beta period. During this period, we may make material changes to this document and note them _only_ here. 
+Our Terms of Service and Privacy Policy are currently in draft form and may change. We may make material changes to this document and note them _only_ here. 
 
 **Your privacy guarantees as a member of the Plum community**
 
@@ -24,7 +24,7 @@ _The Basics:_
 
   * First and foremost, we want you to know that you own all personal information you provide to Plum. While this information is "deposited" with us, it is and will always remain your property. 
   * We will never sell this information, nor will we share it in any form that can identify you individually with third parties who aren't our agents. 
-  * If you no longer want to be a member of the Plum community, you can deactivate your Plum account at any time. While we're in our beta period, you can have your account deactivated by contacting us by [clicking here.](https://web.archive.org/feedback.plum?s=privacy_deactivate1) If you do, we delete all private information you've provided to us from our systems. (You should be aware that this information may still exist in backup files, but these files are never used or accessed except in the event of a significant system failure.) 
+  * f you no longer want to be a member of the Plum community, you can deactivate your Plum account at any time by contacting us by [clicking here.](https://web.archive.org/feedback.plum?s=privacy_deactivate1)
   * If you've deleted your account, some of the "passive" information we've collected may still exist in log files. However, there's no way to link this information to you individually once your account has been deactivated. 
   * Plum needs to comply with the law, ensure our service is used legally and for its intended purpose, and make certain that people's lives and well-being aren't threatened because of anything related to Plum. This means that there may be times when we are required to disclose your private information to comply with a valid legal order (for example, a warrant or subpoena), to investigate fraud or egregious misuse of the Plum service, or in situations involving physical harm to any person. 
 
