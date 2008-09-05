@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfiliate.com privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709230850id_/http%3A//www.perfiliate.com/w3c/human.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfiliate.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905124955id_/http%3A//www.perfiliate.com/w3c/human.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -6,10 +6,10 @@
 
 (Company Number 3783384) trading as buy.at whose registered office is at 
 
-7-15 Pink Lane,  
-Newcastle upon Tyne,  
-Tyne and Wear,  
-NE1 5DW is committed to safeguarding the privacy of its users. 
+Shropshire House,   
+11-20 Capper Street,   
+London,   
+WC1E 6JAis committed to safeguarding the privacy of its users. 
 
 We take your privacy very seriously and it is important to us that you can use and enjoy the website without having to compromise your privacy in any way.  Perfiliate Technologies Limited is registered under the Data Protection Act 1998  (Registration Number Z7349922) 
 
