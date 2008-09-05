@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610153329id_/http%3A//www.talisma.com/tal_about/privacy.aspx%3FKBRU%3Dnone%26KBAC%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906004021id_/http%3A//www.talisma.com/tal_about/privacy.aspx%3FKBRU%3Dnone%26KBAC%3D) for the most accurate reproduction.*
 
 # Talisma: Privacy Statement
 
 Talisma Corporation Privacy Statement  
-Talisma Corporation, with its principal offices located at 411 108th Avenue NE, Suite 900, Bellevue, WA 98004, together with its subsidiaries (hereinafter "Talisma") are committed to protecting the privacy of their clients. Talisma will not distribute, sell, or rent names, email addresses, or any other personally identifiable information to any third party.
+Talisma Corporation, with its principal offices located at 3015 112th Avenue NE, Suite 100, Bellevue, WA 98004, together with its subsidiaries (hereinafter "Talisma") are committed to protecting the privacy of their clients. Talisma will not distribute, sell, or rent names, email addresses, or any other personally identifiable information to any third party.
 
 Talisma may share non-personal, non-individual information collectively with its marketing partners strictly for its own research purposes. For example, Talisma will not provide specifics around who purchased a specific product, but rather how many customers purchased that product.
 
@@ -29,10 +29,10 @@ When you access a non-Talisma Web site, you do so at your own risk and Talisma i
 Additionally, while the Talisma Web site may be accessed from countries around the world and contains references to Talisma products, services, and programs such references do not obligate Talisma to provide such products, services, or programs in every country.
 
 Opt-Out Policy   
-Please email [privacy@talisma.com](mailto:privacy@talisma.com) if you no longer wish to receive information from Talisma.
+Please email [unsubscribe@talisma.com](mailto:unsubscribe@talisma.com "unsubscribe@talisma.com") if you no longer wish to receive information from Talisma.
 
 Changes to this Privacy Statement:   
 Talisma reserves the right to modify this Talisma Privacy Statement, and will publish notification on this Web site no less than 30 days before the revised statement takes effect.
 
 Additional Information    
-If you have any questions about this Talisma Privacy Statement or the practices of this Web site, email [privacy@talisma.com](mailto:privacy@talisma.com).
+If you have any questions about this Talisma Privacy Statement or the practices of this Web site, please contact a [Talisma representative](https://web.archive.org/tal_about/contact.aspx "Talisma representative").
