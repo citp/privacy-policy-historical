@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalregister.gov privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622040529id_/http%3A//federalregister.gov/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalregister.gov privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905161500id_/http%3A//federalregister.gov/Privacy.aspx) for the most accurate reproduction.*
 
 # The Office of the Federal Register (OFR)
 
