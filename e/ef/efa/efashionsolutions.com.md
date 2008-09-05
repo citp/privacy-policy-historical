@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the efashionsolutions.com privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729144623id_/http%3A//www.efashionsolutions.com/index.php%3Foption%3Dcom_splash%26Itemid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efashionsolutions.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905173855id_/http%3A//www.efashionsolutions.com/privacy) for the most accurate reproduction.*
 
-# eFashion Solutions
+# eFashionSolutions :: Privacy
 
-This is the web site of eFashion Solutions.
+### Privacy Policy
+
+This is the web site of eFashionSolutions.
 
 Our postal address is  
 80 Enterprise Avenue South  
