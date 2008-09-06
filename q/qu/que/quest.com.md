@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516013656id_/http%3A//www.quest.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906173049id_/http%3A//www.quest.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
 We at Quest Software recognize the importance of protecting your personal information and we are committed to safeguarding your privacy online.
 
-Because Quest Software respects its customers and understands that you are concerned about privacy, we have instituted policies and security measures intended to ensure that your personal information is handled in a safe and responsible manner. We also post this privacy policy so that you can agree to the kind of information we collect, how it is handled, and with whom it may be shared. This privacy policy applies to [www.quest.com](https://web.archive.org/)
+Because Quest Software respects its customers and understands that you are concerned about privacy, we have instituted policies and security measures intended to ensure that your personal information is handled in a safe and responsible manner. We also post this privacy policy so that you can agree to the kind of information we collect, how it is handled, and with whom it may be shared. This privacy policy applies to [www.quest.com](https://web.archive.org/).
 
 By accessing or using the Quest Software Web site, you agree to the terms of this Quest Software Privacy Statement. If you do not agree to these terms, you must not access or use this site. Quest Software is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -66,4 +66,4 @@ If you would like to remove your information from our database or not receive fu
 
 If you have any questions about this privacy statement, the practices of this site, Quest Software's adherence to this privacy statement, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:webmaster@quest.com); 5 Polaris Way, Aliso Viejo, CA 92656.
 
-Page last updated: March 30, 2006
+Page last updated: August 18, 2008
