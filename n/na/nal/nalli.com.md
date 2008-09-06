@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nalli.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420225229id_/http%3A//www.nalli.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nalli.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906090738id_/http%3A//www.nalli.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Nalli
 
