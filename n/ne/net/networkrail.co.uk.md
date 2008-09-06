@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkrail.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041409id_/http%3A//www.networkrail.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkrail.co.uk privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906095455id_/http%3A//www.networkrail.co.uk/Privacy) for the most accurate reproduction.*
 
 # Network Rail - Privacy Policy
 
