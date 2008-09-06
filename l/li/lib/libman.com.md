@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612040654id_/http%3A//www.libman.com/index.aspx%3Fsrc%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906234923id_/http%3A//www.libman.com/index.aspx%3Fsrc%3DPRV) for the most accurate reproduction.*
 
 # 
 
