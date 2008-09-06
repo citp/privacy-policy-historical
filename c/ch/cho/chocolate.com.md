@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020052436id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906170253id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Indulgent Triple Dark Chocolate Petit Fours](https://web.archive.org/products/indulgent-triple-chocolate-brownies-and-petit-fours/ "Indulgent Triple Dark Chocolate Petit Fours") \- Creek House popular brownie-like petit fours, made with 3 types of chocolate: Bittersweet, Semisweet, and Unsweetened Cocoa. Premium semisweet chocolate chips are added for texture , and the petit fours are covered with a wonderful ...
+
+[Mr Handyman's Toolbox Of Treats Gift Basket](https://web.archive.org/products/mr-handymans-toolbox-of-treats-gift-basket/ "Mr Handyman\\'s Toolbox Of Treats Gift Basket") \- Celebrate the man that can DO EVERYTHING! We fill this paperboard tool box gift tote to overflowing with gourmet goodies and treats to satisfy all his crunchy cravings. Featuring Savory Beef Salami, Camembert Cheese, Chocolate ...
+
+[48 Piece Bite Size Cheesecake Assortment](https://web.archive.org/products/48-piece-bite-size-cheesecake-assortment/ "48 Piece Bite Size Cheesecake Assortment") \- Our very popular bite size cheesecakes are exquisitely packed and presented in two gold foil candy/truffle boxes (24 per box) with gold ribbon and shipped with a personalized gift message. Four each of six different flavors: Chocolate ...
+
+[24 Piece Bite Size Cheesecake Assortment](https://web.archive.org/products/24-piece-bite-size-cheesecake-assortment/ "24 Piece Bite Size Cheesecake Assortment") \- Our very popular bite size cheesecakes are exquisitely packed and presented in a gold foil candy/truffle box with gold ribbon and shipped with a personalized gift message. Four each of six different flavors: Chocolate Chip, New ...
+
+[6 Pc Chocolate Mini Cheesecake Assortment](https://web.archive.org/products/6-pc-chocolate-mini-cheesecake-assortment/ "6 Pc Chocolate Mini Cheesecake Assortment") \- Perfect for a dinner party, or just to keep on hand for that special ending to any meal. Two each: Rocky Road, White Chocolate and Chocolate Topped New York Style. Keep frozen, they thaw quickly...Enjoy! Perfect for a dinner party, ...
 
 **Chocolate.com Privacy Statement**   
 By visiting Chocolate.com, you are accepting the practices described in this Privacy Statement. 
@@ -54,6 +64,53 @@ Our business does change, and our Privacy Notice and the Conditions of Use may a
 
 We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-\-- __
+_Next Article:_   [Contact Us](https://web.archive.org/articles/contact-us.html "Contact Us")
 
-**Next Article:[Contact Us](https://web.archive.org/articles/contact-us.html "Contact Us")**
+[All Chocolate Articles](https://web.archive.org/articles/) | [Christmas Chocolate](https://web.archive.org/seasons/christmas-gifts/ "christmas chocolate") | [Corporate Gifts](https://web.archive.org/corporate-gifts/ "corporate gifts")
+
+[](https://web.archive.org/products/assorted-mini-truffles-in-gold-gift-box-8-oz/)
+
+$ 13.00 
+
+  
+
+
+[](https://web.archive.org/products/dark-family-assortment-1-lb/)
+
+$ 24.50 
+
+  
+
+
+[](https://web.archive.org/products/large-gift-box-assortment/)
+
+$ 30.00 
+
+  
+
+
+[](https://web.archive.org/products/dark-chocolate-brownies/)
+
+$ 15.50 
+
+  
+
+
+[](https://web.archive.org/products/mackinac-fudge-gourmet-sampler/)
+
+$ 22.00 
+
+  
+
+
+[](https://web.archive.org/products/king-size-chocolate-lover-gift-basket/)
+
+$ 75.50 
+
+A 2005 study based at Tufts University in Medford, MA found that [dark chocolate](https://web.archive.org/dark-chocolate/ "dark chocolate") actually helps to lower blood pressure. In a controlled experiment comparing 20 different people, researchers found that dark chocolate was a significant factor in lowering blood pressure, while [white chocolate](https://web.archive.org/white-chocolates/ "white chocolate") was not. The key ingredient thought to cause this phenomenon is flavonoids. 
+
+Flavonoids, also found in wine are types of pigments that are water-soluble and created by plants of many varieties. There are thousands of different flavanoids. Plants use flavonoids in the process of photosynthesis. 
+
+How the human body actually uses and/or processes flavonoids is still not determined but they have been linked to good health in many areas - particularly blood circulation.
+
+If you are a science buff, then you'll be interested to know that flavonoids are polyphenolic compounds containing 15 carbon atoms, two benzene rings joined by a linear three carbon chain. If you're just an average, everyday person with a sweet tooth, then you'll be interested to know that good things are contained in a single bite of dark chocolate. So please, put down the chemistry book and enjoy some today! 
