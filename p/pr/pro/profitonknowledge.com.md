@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitonknowledge.com privacy policy that was archived on 2008-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080101130029id_/http%3A//www.profitonknowledge.com/privacy/privacy_policy_for_www.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitonknowledge.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908000645id_/http%3A//www.profitonknowledge.com/privacy/privacy_policy_for_www.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www
 
