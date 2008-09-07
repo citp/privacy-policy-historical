@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511234036id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907032622id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
 
 # RA: Privacy policy
 
