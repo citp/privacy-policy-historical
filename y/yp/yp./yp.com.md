@@ -1,141 +1,111 @@
-> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819235011id_/http%3A//www.yp.com/terms-of-use.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907191159id_/http%3A//www.yp.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Test Page
+# livedeal.com >> About >> Privacy Policy
 
-### Copyright
+[](http://www.truste.org/ivalidate.php?url=www.livedeal.com&sealid=101)
 
-The content of this site, including but not limited to the text and images herein and their arrangement, are copyright (c) 1996-2002 by YP.Com. All Rights Reserved.   
-YP.Com hereby authorizes you to copy and display the content herein, but for your personal, non-commercial use only. Any copy you make must include this copyright notice. If attribution to YP.Com is included, limited quotations from the content are hereby permitted. You may not copy or display for redistribution to third parties for commercial purposes any portion of the content without the prior written permission of YP.Com. 
+LiveDeal takes your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. Please read the following to learn more about our Privacy Policy and how we use and protect your personal information. 
 
-### No Implied Licenses
+**Overview**
 
-Nothing contained herein shall be construed as conferring by implication, estoppel, or otherwise any license or right under any patent, trademark, copyright (except as expressly provided above), or proprietary rights of YP.Com or of any third party. 
+This Privacy Policy describes how LiveDeal treats the personal information that LiveDeal collects and receives through its web site. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that LiveDeal does not own or control or to people that LiveDeal does not employ or manage. 
 
-### The Content
+By your use of the LiveDeal web site, you expressly consent to our disclosure and use of your personal information as described in this Privacy Policy. 
 
-YP.Com makes no representations about the suitability of the content of this site for any purpose. All content is provided "as is" without any warranty of any kind. YP.Com hereby disclaims all warranties and conditions with regard to the content, including but not limited to all implied warranties and conditions of merchantability, fitness for a particular purpose, title, and non-infringement. In no event shall YP.Com be liable for any special, indirect, exemplary, or consequential damages or any damages whatsoever, including but not limited to loss of use, data, or profits, without regard to the form of any action, including but not limited to contract, negligence, or other tortious actions, arising out of or in connection with the use, copying, or display of the content.   
-Although YP.Com believes the content to be accurate, complete, and current, YP.Com makes no warranty as to the accuracy, completeness or currency of the content. It is your responsibility to verify any information before relying on it. The content of this site may include technical inaccuracies or typographical errors. From time to time changes are made to the content herein. YP.Com may make changes in the products and/or the services described herein at any time.   
-Any opinions expressed herein are solely those of the creators of the material and are not the opinions of YP.Com, its subsidiaries, or its affiliates, or the management of those entities. 
+We reserve the right to modify this Privacy Policy at any time, and will notify you of any material changes by posting a notice on the "General Announcements" section of the Community page of our web site. In addition, we may notify you directly (via email) of such changes. 
 
-### Links to Other Sites
+We last updated our Privacy Policy on February 20, 2008. 
 
-Some of the sites listed as links herein are not under the control of YP.Com. Accordingly, YP.Com makes no representations whatsoever concerning the content of those sites. The fact that YP.Com has provided a link to a site is NOT an endorsement, authorization, sponsorship, or affiliation by YP.Com with respect to such site, its owners, or its providers. YP.Com is providing these links only as a convenience to you. YP.Com has not tested any information, software, or products found on these sites and therefore cannot make any representations whatsoever with respect thereto.   
-There are risks in using any information, software, or products found on the Internet; and YP.Com cautions you to make sure that you completely understand these risks before retrieving, using, relying upon, or purchasing anything via the Internet. 
+**1\. A Special Note About Children**
 
-### Information Provided by You
+Children (persons under the age of 18) are not eligible to use the web site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may use the web site only in conjunction with and under the supervision of a parent or legal guardian. 
 
-Any information provided by you to YP.Com, including but not limited to feedback, data, questions, comments, suggestions, or the like, shall be deemed to be non-confidential; YP.Com shall have no obligation of any kind with respect to such information and shall be free to reproduce, use, disclose, and distribute the information to others without limitation. Additionally, YP.Com shall be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose whatsoever, including but not limited to developing, manufacturing, and marketing products incorporating such information. 
+**2\. Information Collection and Use**
 
-### Trademarks
+LiveDeal collects personal information from our users at several different points on our web site. This includes when you register with LiveDeal and when you conduct certain activities on the web site. 
 
-YP.Com and the YP.Com logo are trademarks of YP.Com. All other trademarks are either owned by YP.Com or by other companies. 
+When you register, we ask for information such as your name, address, telephone number, email address, city, state and zip code. We may also ask you for credit card information to enable us to bill you fees for our services. Once you register with LiveDeal and login to our services, you are not anonymous to us. However, you can browse our web site without telling us who you are or revealing personal information about yourself. 
 
-### Privacy
+When you wish to contact a seller regarding an item listed on our web site, we ask you for your email address and you may also volunteer to provide your telephone number. In addition, each member may provide information about the buyers with whom they deal (including the email address, and feedback regarding the other member's performance during the transaction). Finally, we may also collect the Internet Protocol (IP) address and other information regarding transactions in which you participate (either as a buyer or seller) through our web site. 
 
-We at YP.Com are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.   
-First and foremost, YP.Com respects your right to privacy. When you visit YP.Com, you may be providing information to YP.Com on two different levels about your visit: 
+If you elect to use our referral service to inform a friend about our web site, we ask you for the friend's name and email address. We will automatically send the friend an email inviting him or her to visit our web site. The referral message will be sent to you friend’s email address one time, and will not be stored or used for any other purpose. 
 
-  * Anonymous statistics collected as you browse the site,
-  * And personal information you knowingly give us.
+When you leave a testimonial, we ask for your name, zip, email and phone number. This testimonial is displayed on our website with your name and the State from which you post the testimonial. No other information is publicly displayed with the testimonial. If you use the testimonial feature on this site, you should be aware that any personally identifiable information you submit within the body of the testimonial can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in the body of the testimonials.
 
+We use the information that we collect to improve product offerings, fulfill your requests, bill you for services, customize the web site's content and layout, develop feedback ratings, contact you, and for marketing activities and statistical analysis. 
 
+LiveDeal automatically receives and records information on our server logs from your browser, including your IP address, LiveDeal cookies information, and the page you request. Our collection and use of such information is further described below. 
 
-We want you to be aware of how we handle this information. 
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp. 
 
-**_Our Commitment to Your Privacy_**  
-YP.Com would like to assure you that we do not: 
+**3\. Information Sharing and Disclosure**
 
-  * Collect personal information from you unless you provide it to us.
-  * Provide or sell the names and addresses of our customers [site users] to outside vendors.
+LiveDeal is the sole owner of the information collected on [ www.livedeal.com](http://www.livedeal.com/index.jsp). We will not rent, sell or share your personal information with anyone except under the following circumstances: 
 
+  * Other visitors to our web site may view your member ID, feedback rating, city, region and items or messages that you have posted on our web site. 
+  * In order to complete a transaction, the buyer and seller will communicate directly. To enable such communications, we will disclose a buyer's email address and (where the buyer has chosen to provide such information) telephone number to the seller. 
+  * We provide information about our users to trusted partners **(such as credit card processor)** who work on our behalf pursuant to confidentiality agreements.  Pursuant to the terms of their agreements, these companies do not have any independent right to share or use such information. 
+  * We may disclose user information in response to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+  * We may disclose user information when we believe such disclosure is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our User Agreement, or as otherwise required by law. 
+  * We may transfer information about you if we are acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
-YP.Com does: 
 
-  * Safeguard customers' information from unauthorized access.
-  * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services).
-  * Honor customers' requests to remove their names from our telephone or mail solicitation lists. (Just contact us.).
-  * Maintain confidentiality of customer information when undertaking projects with other companies.
+Of course, once you provide personal information to a buyer or seller on our web site, LiveDeal has no control over how your information is used or shared by that individual. You should discuss any privacy concerns you may have with any individual you meet through our web site, as the only protection you will have is whatever terms you agree to directly with this individual. 
 
+On account of the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
+**4\. Cookies**
 
-YP.Com has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific web page says otherwise. If you have further questions about our privacy policy, please contact us. 
+Some of our business partners (e.g., tracking utility agents, advertisers) use cookies on our site.  We have no access to or control over these cookies. 
 
-### Information this Site Gathers/Tracks
+This privacy statement covers the use of cookies by LiveDeal, Inc. www.livedeal.com only and does not cover the use of cookies by any advertisers. 
 
-**_Statistics about your visit_**  
-As you browse the site, YP.Com's computers collect information about your visit, not about you personally. Via web server logs and browser cookie files, we monitor statistics such as: 
+LiveDeal may set and access LiveDeal "cookies" on your computer. A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie does not link to any personally identifiable information while on our web site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. 
 
-  * How many people visit our site
-  * Which pages people visit on our site
-  * From which domains our visitors come (e.g., "aol.com")
-  * Which browsers people use to visit our site
+Cookies were implemented to allow user-side customization of web site information. Cookie related information is used by LiveDeal to facilitate the user's transactions and to improve LiveDeal's service offering to better match the user's needs. 
 
+**5\. Log Files**
 
+Like most standard web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the web site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. 
 
-While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our web site, to monitor its performance, and to make it easier for you and other visitors to use. 
+**6\. Your Ability to Edit and Deactivate Your Account Information and Preferences**
 
-**_Organizational and personal information you knowingly give us_**  
-Within the YP.Com web site, you may be asked to give us personal or organizational information when you ask a question that requires a response, request rate information online, or order a service online. This information may range from your generic zip code, to your specific phone number, account number, a credit card number, e-mail address, organization URL, business description, business graphics, or mailing address. 
+You can edit your LiveDeal account information by going to the My LiveDeal page. There, you may also opt-out of receiving marketing or promotional-related emails. However, we reserve the right to send you communications necessary for the functioning of the LiveDeal systaem. You may not opt out of System and Account Information emails that are necessary to provide our services.
 
-### Use of the Information this Site Gathers/Tracks
+Upon your request, we will deactivate your account, contact information, billing information and any financial information from our active databases. To make this request, email . Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our User Agreement and applicable law. 
 
-**_Your IP Address and Host Name_**   
-YP.Com's web site logs Host Names and IP addresses (when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the web content. 
+We will retain in our files some personal information you have requested to edit or remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and user viewing and will only be available to select LiveDeal personnel for the limited purposes described above. 
 
-**_YP.Com Registration Forms_**   
-We encourage all visitors to register with YP.Com, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and e-mail address) and preferences that help us better serve you. Your name and e-mail address are used to send you information about our company, product updates, special offers, and newsletters. You may change your preferences at any time, or remove your name entirely from our user registry. 
+**7\. Confidentiality and Security**
 
-**_Order Forms and Enrollment Forms_** Our order forms securely collect visitor's contact information and financial information (like your credit card number and other billing information). Contact information on the order form is used for order fulfillment and may be shared with our Partners or Resellers if that is necessary to fulfill your request. The information that we require on our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product. During the purchasing process, you may be given the opportunity to sign up for future e-mailings regarding our products, services, and promotions. If you sign up here, YP.Com will share your contact information with other YP.Com companies only, not with other companies. 
+Your personal information is stored on LiveDeal's servers located in the United States . We use physical, procedural and technical safeguards to protect that information against loss or theft as well as unauthorized access and disclosure. Certain information is password-protected. Likewise, in certain areas, LiveDeal uses VeriSign-certified industry-standard SSL-encryption and network firewalls to protect data transmissions and storage. Finally, all of our employees are kept up-to-date on our security and privacy practices. 
 
-As YP.Com's online systems become more sophisticated, you may also be given the option of registering a profile with YP.Com. This would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. Once profiling is available, you may opt out of this feature at any time by changing/canceling your profile online. 
+**8\. Your Responsibilities**
 
-### Cookies
+We go to great lengths to protect all of your information on our web site. In order to help us maintain the security of your personal information, we ask that you not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions. 
 
-A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique YP.Com User ID. We use cookies to deliver web content specific to your interests and to control access to YP.Com premium content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique YP.Com User ID. Please be aware that cookies may be required to complete certain functions on YP.Com. 
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, testimonials, through email, or in chat areas - that information can be collected and used by others. By disclosing personal information online, you may receive unsolicited communication from other parties in return. Therefore, you should exercise caution and common sense in such disclosures.
 
-### Sharing of the Information this Site Gathers/Tracks
+**9\. Privacy Program  **
 
-The information you submit on the order form is never shared with any third parties unless it is necessary to complete your request. Also, as required by law, YP.Com will not share customer proprietary network information with other YP.Com companies, unless you give YP.Com permission to do so (either online, or via phone or mail). 
+LiveDeal, Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.livedeal.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUST e. 
 
-### Information Security
+If you have questions or concerns regarding this statement, you should first contact Steve Harmon at 408-855-9988.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at TRUSTe WATCHDOG LINK **(** **<http://www.truste.org/consumers/watchdog_complaint.php>)** **.**   TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-We have security measures in place to protect the loss, misuse and alteration of information under our control. When you place an order, the information you submit is encrypted using the Secure Sockets Layer (SSL) protocol. 
+**10\. Links to Other Sites**
 
-### Links to Other Sites
+This Web site contains links to other sites that are not owned or controlled byLiveDeal, Inc. Please be aware that we, LiveDeal, Inc. are not responsible for the privacy practices of such other sites. 
 
-The YP.Com web site contains links to other web sites. Please be aware that our privacy policy does not apply to these sites. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  LiveDeal sellers accepting PayPal payments, please read PayPal’s policy, click here. LiveDeal affiliates, please read terms, click here. 
 
-### Opt-out Policy
+This privacy statement applies only to information collected by this Web site.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our Partners at the point where we request information about the visitor. Visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can contact us. 
+If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at: 
 
-### Privacy Policy
-
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen (13) on the Site. If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.). 
-
-### Third-Party Ad Serving & Audience and Traffic Measurement Services
-
-The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit http://www.networkadvertising.org/optout_nonppii.asp in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
-
-### Web Beacons
-
-Consistent with standard practice within the web publishing industry, web pages throughout the Site may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow SITE to access certain cookies that were set in a domain different from that which is displayed in the current web page's address bar. SITE's use of web beacons, includes, without limitation, the following: 
-
-  * SITE may use web beacons within the Site in order to count unique users (actually, unique web browsers), visits and page views. Unique browser recognition is possible through the use of web beacons and associated cookies that may be managed by a third party site analytics partner.
-  * SITE may use web beacons to monitor SITE traffic and conversion patterns through our various product and service offerings. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages. This allows us to determine the most appropriate methods to serve our transaction-oriented customers.
-  * SITE includes web beacons in HTML-formatted email messages (messages in which we are able to include graphics). These beacons allow us to determine whether or not email messages were opened, links were clicked and notifications/offers were acted upon. 
-
-
-
-### Third Party Advertising
-
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal informa-tion), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here. 
-
-### Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
-
-### Correcting/Update Policy
-
-If you would like to correct and/or update your Preferred Listing information, please contact our Customer Service Department. 
+**LiveDeal, Inc.**   
+Customer Care - Privacy Policy Issues  
+2550 Walsh Avenue , Suite A  
+Santa Clara , California 95051  
+  
+(408) 855-9988
