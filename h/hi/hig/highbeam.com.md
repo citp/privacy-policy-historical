@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004230832id_/http%3A//www.highbeam.com/about/privacypolicy.hbr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907053603id_/http%3A//www.highbeam.com/about/privacypolicy.hbr) for the most accurate reproduction.*
 
 # HighBeam Research
 
@@ -69,7 +69,7 @@ HighBeam Research, Inc.
 Chicago, IL 60601  
 Attention:  General Counsel
 
-[Or, use this form.](https://web.archive.org/help/contactus.asp)
+[Or, use this form.](https://web.archive.org/contact_us.aspx)
 
 ### 
 
