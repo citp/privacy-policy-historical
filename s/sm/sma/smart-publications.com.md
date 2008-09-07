@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907075618id_/http%3A//www.smart-publications.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Smart Publications Privacy Policy
 
@@ -47,7 +47,7 @@ Smart Publications' privacy policy applies only to its website. Our website may 
 In the event that Smart Publications should change its privacy practices or start using member information in a manner different from that stated at the time of collection, we would notify our customers of the changes, explaining the reasons and allowing them the opportunity to accept the changed policy, or demand exemption from it. 
 
 **Contact Us**  
-Please contact us with your questions or concerns about these privacy policies and/or the practices of this web site at: Smart Publications, PO Box 4667, Petaluma, CA 94955, telephone 1-800-976-2783, or contact us [online](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/contact/index.php). 
+Please contact us with your questions or concerns about these privacy policies and/or the practices of this web site at: Smart Publications, PO Box 4667, Petaluma, CA 94955, telephone 1-800-976-2783, or contact us [online](https://web.archive.org/web/20080907075618id_/http%3A//www.smart-publications.com/contact/index.php). 
 
 Copyright © 2008 - Smart Publications  
 POB 4667 - Petaluma, CA 94955  
@@ -66,15 +66,16 @@ Just type your email address below and click on submit (unsubscribe anytime.)
 Subscribe...to   
 _Smart Publications Health & Wellness Update_  
 the 16-page monthly newsletter.  
-[](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/print-terms.php)  
+[](https://web.archive.org/web/20080907075618id_/http%3A//www.smart-publications.com/print-terms.php)  
 and receive the latest information from the world of nutritional medicine.   
-[>> subscribe for free!](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/print-terms.php)
+[>> subscribe for free!](https://web.archive.org/web/20080907075618id_/http%3A//www.smart-publications.com/print-terms.php)
 
 Advertisement  
-FREE Catalog   
+FREE   
+Welcome Kit    
 from  
  _Health Freedom Nutrition_ [](http://www.hfn-usa.com/customer-service/catalog.php)   
-A convenient way to shop and save!  
-[>> request a calatog](http://www.hfn-usa.com/customer-service/catalog.php)  
+Complete product listing and discount offers included!  
+[>> request a kit ](http://www.hfn-usa.com/customer-service/catalog.php)  
   
 ---|---|---
