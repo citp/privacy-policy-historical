@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaondemand.net privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430033736id_/http%3A//www.mediaondemand.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaondemand.net privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907101509id_/http%3A//www.mediaondemand.net/privacy.aspx) for the most accurate reproduction.*
 
 # MEDIA ON DEMAND SOLUTIONS - Privacy
 
