@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the istockbargains.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028065358id_/http%3A//www.istockbargains.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istockbargains.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907142208id_/http%3A//www.istockbargains.com/privacy-policy/info_4.html) for the most accurate reproduction.*
 
-# Privacy Policy - Wholesale Gifts and Collectibles - Low Wholesale Prices - I Stock Bargains (Powered by CubeCart)
+# Privacy Policy - Wholesale Gifts and Collectibles at Low Wholesale Prices - I Stock Bargains (Powered by CubeCart)
 
 Our affiliated companies and we at I Stock Bargains are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
