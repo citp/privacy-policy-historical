@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the latimes.com privacy policy that was archived on 2008-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080512043356id_/http%3A//www.latimes.com/services/site/la-privacy%2C0%2C3125046.htmlstory) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latimes.com privacy policy that was archived on 2008-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080908014928id_/http%3A//www.latimes.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en"><head>
 
@@ -68,24 +68,64 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 
 
 
-
-
 <div class="canvas_outer">
 	<div class="canvas_inner">
 		<div id="header" class="canvas_content">
 			<div id="banner_ad_wrapper">
 				<div id="banner_ad" style="overflow:visible;">
-				<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=37854537?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;sz=728x90;tile=1;ord=37854537?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=37854537?" width="728" height="90" border="0" alt=""></a></noscript>
+				<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=89469982?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;sz=728x90;tile=1;ord=89469982?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=89469982?" width="728" height="90" border="0" alt=""></a></noscript>
 				</div>
 			</div>
 			<div id="inner">
 				<div id="user_info" class="clearfix">
-					<span>Hello Visitor</span>
-					
-						<a rel="nofollow" class="teal" title="Register" href="/services/site/registration/show-createprofile.register">Register</a>
-						<a rel="nofollow" class="teal" title="Sign-In" href="/services/site/registration/show-login.register">Sign-In</a>
-					
+
+				<div id="usrWelcome"><span>Hello Visitor</span><a rel="nofollow" class="teal" title="Register" href="/services/site/registration/show-createprofile.register">Register</a><a rel="nofollow" class="teal" title="Sign-In" href="/services/site/registration/show-login.register">Sign-In</a></div>
+
+				<script type="text/javascript">
+				function createXMLHttpRequest() {
+				   try { return new XMLHttpRequest(); } catch(e) {}
+				   try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
+				   try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) {}
+				   return null;
+				 }
+
+				  var xhReq = createXMLHttpRequest();
+
+				  xhReq.open("GET", "/templates/misc/id.jsp", true);
+				  xhReq.onreadystatechange = onSumResponse;
+				  xhReq.send(null);
+
+				  function onSumResponse() {
+				    if (xhReq.readyState != 4)  { return; }
+				    var serverResponse = xhReq.responseText;
+				    var z = serverResponse.indexOf('&nbsp;');
+				    var y = serverResponse.substring(serverResponse.indexOf('&nbsp;')+6,serverResponse.indexOf('<!'));
+
+				    if (serverResponse.indexOf('&nbsp;') > 0) {
+					//we have a user email
+					var fullUsrEmail = serverResponse.substring(serverResponse.indexOf('&nbsp;')+6,serverResponse.indexOf('<!'));
+
+					if (fullUsrEmail.length > 20) {
+					   usrEmail = fullUsrEmail.substring(0,17) + "...";
+					} else {
+					   usrEmail = fullUsrEmail
+					}
+
+					var usrEmailText = '<span>Hello '+ usrEmail +'</span>';
+					    usrEmailText +='<a rel="nofollow" class="teal" title="Profile" href="/services/site/registration/show-editprofile.register">Profile</a>';
+					    usrEmailText +='<a rel="nofollow" class="teal" title="Logout" href="/services/site/registration/logout.register">Logout</a>';
+				        document.getElementById('usrWelcome').innerHTML = usrEmailText;
+				    } else {
+				        var usrText = '<span>Hello Visitor</span>';
+					    usrText +='<a rel="nofollow" class="teal" title="Register" href="/services/site/registration/show-createprofile.register">Register</a>';
+					    usrText +='<a rel="nofollow" class="teal" title="Sign-In" href="/services/site/registration/show-login.register">Sign-In</a>';
+				        document.getElementById('usrWelcome').innerHTML = usrText;    
+				    }
+
+				 }
+				</script> 
+
 				</div>
 				<div id="site_links" class="clearfix">
 					<ul class="left">
@@ -100,6 +140,8 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 					<ul class="right">
 						<li><a rel="nofollow" href="/classified/" title="Los Angeles Times - Classifieds">More Classifieds</a></li>
 						<li>|</li>
+						<li><a href="http://www.zetabid.com/" title="Los Angeles Times - Foreclosure Sale">Foreclosure Sale</a></li>
+						<li>|</li>						
 						<li><a rel="nofollow" href="/classified/realestate/" title="Los Angeles Times - Real Estate">Real Estate</a></li>
 						<li>|</li>
 						<li><a rel="nofollow" href="/classified/cars" title="Los Angeles Times Presents Cars.com">Cars.com</a></li>
@@ -110,6 +152,9 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 				<div id="site_section" class="clearfix">
 					<div id="site_section_left" class="clearfix">
 						<a id="home_link" href="/" title="Los Angeles Times - Home"><img src="/images/standard/lat_logo_inner.gif" border="0"></a>
+						
+								<span id="section_name"></span>						
+						
 						
 					</div>
 					<div id="site_section_right">
@@ -158,7 +203,7 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 							<input type="hidden" name="ud" value="1">
 							<input type="hidden" name="oe" value="UTF-8">
 							<input type="hidden" name="proxystylesheet" value="latimes">
-							<input type="hidden" name="getfields" value="thumbnail_small">
+							<input type="hidden" name="getfields" value="thumbnail_small.author.pubdate">
 
 						     <td width="5">&nbsp;</td>
 						     <td valign="middle" width="69">
@@ -173,8 +218,8 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 						
 			
 				           <td width="20">&nbsp;</td>
-					   <td width="88"><div id="small_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=37854537?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=37854537?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=37854537?" width="88" height="31" border="0" alt=""></a></noscript></div></td>
+					   <td width="88"><div id="small_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=89469982?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=89469982?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=1;sz=88x31;tile=2;ord=89469982?" width="88" height="31" border="0" alt=""></a></noscript></div></td>
 					  </tr>
 					 </tbody></table>
 					</div>	
@@ -192,8 +237,16 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 </div>
 
 
-	<div id="bread_crumb_trail">You are here: <a class="teal" href="/" title="Los Angeles Times - Home">LAT Home</a> &gt; <a href="/services/site/" id="last_link">Online Services</a></div>
 
+
+
+
+
+
+
+
+
+<div id="bread_crumb_trail">You are here: <a class="teal" href="/" title="Los Angeles Times - Home">LAT Home</a> &gt; <a href="/services/site/" id="last_link">Online Services</a></div>
 
 <script type="text/javascript" language="javascript">
 <!--
@@ -241,8 +294,8 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 
 
 
-<div class="left_nav_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=37854537?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=37854537?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=37854537?" width="120" height="60" border="0" alt=""></a></noscript></div>
+<div class="left_nav_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=89469982?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=89469982?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=3;sz=120x60;tile=3;ord=89469982?" width="120" height="60" border="0" alt=""></a></noscript></div>
 <div class="left_nav_menu clearfix"><div id="mini_nav">
 	<div id="mini_nav_section"><a href="/services/site/">Site Services</a></div>
 	<div id="mini_nav_links">
@@ -257,105 +310,96 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 <div class="left_nav_menu clearfix">
 
 <style type="text/css">
-<!--
-.headline18 h2 {font-size:18px; font-family:arial,verdana,sans-serif;}
-.headline13 h2 {font-size:13px; font-family:arial,verdana,sans-serif;}
-.headline13 h3 {font-size:13px; font-family:arial,verdana,sans-serif;}
-.headline12 h2 {font-size:12px; font-family:arial,verdana,sans-serif;}
-.headline12 h3 {font-size:12px; font-family:arial,verdana,sans-serif;}
-.headline11 h2 {font-size:11px; font-family:arial,verdana,sans-serif;}
-.headline11 h3 {font-size:11px; font-family:arial,verdana,sans-serif;}
-
-#story_paging .abstract2 a { font:normal 10px Arial; color:#333333; text-transform:uppercase; }
-#story_paging .headline11, #story_paging .headline11 a { font:normal 10px Arial; color:#999999; }
-#story_paging ul {list-style-image:none;list-style-position:outside;list-style-type:none;margin:0px;padding:0px;}
-#story_paging li {float:left;font-family:Arial;font-size:12px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:normal;margin:0pt 5px;}
--->
+#navig a.nav-head { color:#ccc; border-bottom:1px solid #E5E6DA; border-top:1px solid #E5E6DA; font:bold 13px Arial ; color:#545454; margin: 0  0 3px; padding:2px 6px;}
+.nav-head1 { color:#ccc; border-bottom:1px solid #E5E6DA; border-top:1px solid #E5E6DA; font:bold 13px Arial !important; color:#545454; margin: 0  0 3px; padding:2px 6px;}
 </style>
-
 <div id="navig">
-<a class="nav-head" href="/">News</a>
-<a class="nav" href="/news/local/" title="Los Angeles Times - Local News">California | Local</a>
-<a class="nav" href="/news/nationworld/nation/" title="Los Angeles Times - National News">National</a>
-<a class="nav" href="/news/nationworld/world/" title="Los Angeles Times - World News">World</a>
-<a class="nav" href="/entertainment/news/" title="Los Angeles Times - Entertainment News">Entertainment</a>
-<a class="nav" href="/business/" title="Los Angeles Times - Business News">Business</a>
-<a class="nav" href="/sports/" title="Los Angeles Times - Sports">Sports</a>
-<a class="nav" href="/news/politics/" title="Los Angeles Times - Politics">Campaign '08</a>
-<a class="nav" href="/news/science/" title="Los Angeles Times - Science">Science</a>
-<a class="nav" href="/news/science/environment/" title="Los Angeles Times - Environment">Environment</a>
-<a class="nav" href="/news/opinion/" title="Los Angeles Times - Opinion">Opinion</a>
-<a class="nav" href="/news/columnists/" title="Los Angeles Times - Columnists">Columnists</a>
-<a class="nav" href="/news/printedition/front/" title="Los Angeles Times - Print Edition">Print Edition</a>
-<a class="nav" href="http://latimesblogs.latimes.com/readers/" title="Los Angeles Times - Readers Rep">Readers' Rep</a>
-<a class="nav" href="/news/custom/corrections/" target="_parent" title="Los Angeles Times - Corrections">Corrections</a>
-<br>
-<!--
-<a class="nav" href="http://www.calendarlive.com/" target="_parent" title="Los Angeles Times - Calendarlive">Calendarlive</a>
--->
-
-<a title="Los Angeles Times - The Guide" target="_parent" href="http://theguide.latimes.com" class="nav">The Guide <img src="/images/new2.gif" alt="new" width="14" height="5" border="0"></a>
-
-<a class="nav" href="http://theenvelope.latimes.com/" target="_parent" title="Los Angeles Times - The Envelope" rel="nofollow">The Envelope</a>
-<a class="nav" href="http://travel.latimes.com" title="Los Angeles Times - Travel" rel="nofollow">Travel</a>
-<a class="nav" href="/features/magazine/" target="_parent" title="Los Angeles Times - Magazine" rel="nofollow">Magazine</a>
-<a class="nav" href="/features/home/" target="_parent" title="Los Angeles Times - Home &amp; Garden" rel="nofollow">Home &amp; Garden</a>
-<a class="nav" href="/features/health/" target="_parent" title="Los Angeles Times - Health" rel="nofollow">Health</a>
-<a class="nav" href="/features/food/" target="_parent" title="Los Angeles Times - Food" rel="nofollow">Food</a>
-<a class="nav" href="/classified/automotive/highway1/" target="_parent" title="Los Angeles Times - Automotive" rel="nofollow">Autos</a>
-<a class="nav" href="/features/books/" title="Los Angeles Times - Books" rel="nofollow">Books</a>
-<a class="nav" href="/features/lifestyle/" title="Los Angeles Times - Fashion" rel="nofollow">Image</a>
-<a class="nav" href="/entertainment/news/arts/" title="Los Angeles Times - Arts &amp; Culture" rel="nofollow">Arts &amp; Culture</a>
-<a class="nav" href="/features/lifestyle/green/" title="Los Angeles Times - Living Green" rel="nofollow">Living Green</a>
-<a class="nav" href="/video/" title="Los Angeles Times - Video" rel="nofollow">Video</a>
-<a class="nav" href="/news/local/photography/" title="Los Angeles Times - Photography" rel="nofollow">Photography</a>
-<a class="nav" href="/news/obituaries/" target="_parent" title="Los Angeles Times - Obituaries" rel="nofollow">Obituaries</a>
-<a class="nav" href="http://games.latimes.com/" target="_parent" title="Los Angeles Times - Games" rel="nofollow">Crossword, Sudoku</a>
-<a class="nav" href="http://yourscene.latimes.com/mycapture/photos/index.aspx" title="Los Angeles Times - Your Scene" rel="nofollow">Your Scene</a>
-<a class="nav" href="/blogs/" title="Los Angeles Times - Blogs" rel="nofollow">Blogs</a>
-<a class="nav" href="/about/site/la-about-sitemap,0,2204194.htmlstory" title="Los Angeles Times - Site Map" rel="bookmark">All Sections</a>
+<div class="nav-head1">News/Opinion</div>
+<a class="nav" target="_parent" href="/news/local/" title="Los Angeles Times - Local News">California | Local</a>
+<a class="nav" target="_parent" href="/news/nationworld/nation/" title="Los Angeles Times - National News">National</a>
+<a class="nav" target="_parent" href="/news/nationworld/world/" title="Los Angeles Times - World News">World</a>
+<a class="nav" target="_parent" href="/business/" title="Los Angeles Times - Business News">Business</a>
+<a class="nav" target="_parent" href="/sports/" title="Los Angeles Times - Sports">Sports</a>
+<a class="nav" target="_parent" href="/news/politics/" title="Los Angeles Times - Politics">Campaign '08</a>
+<a class="nav" target="_parent" href="/news/science/" title="Los Angeles Times - Science">Science</a>
+<a class="nav" target="_parent" href="/news/science/environment/" title="Los Angeles Times - Environment">Environment</a>
+<a class="nav" target="_parent" href="/news/opinion/" title="Los Angeles Times - Opinion">Opinion</a>
 <br>
 
-<a class="nav-head" href="/classified/" rel="nofollow">Buy, Sell &amp; More</a>
-<a href="/classified/jobs/" rel="nofollow">Jobs</a>
-<a href="/classified/cars/" rel="nofollow">Cars</a>
-<a href="/classified/realestate/" rel="nofollow">Real Estate</a>
-<a href="/classified/realestate/rentals/" rel="nofollow">Apartments</a>
-<a href="/entertainment/dating/" rel="nofollow">Personals</a>
-<a href="http://www.shoplocal.com/latimes" rel="nofollow">Deals at Local Stores</a>
-<a href="http://print.coupons.com/alink.asp?go=13135nc9210" rel="nofollow">Coupons</a>
-<a href="/classified/printads/" rel="nofollow">Newspaper Ads</a>
+<div class="nav-head1">Arts/Entertainment</div>
+<a class="nav" target="_parent" href="/entertainment/news/" title="Los Angeles Times - Entertainment" rel="nofollow">Entertainment</a>
+<a class="nav" target="_parent" href="http://theguide.latimes.com" title="Los Angeles Times - The Guide">The Guide</a>
+<a class="nav" target="_parent" href="/entertainment/news/arts/" title="Los Angeles Times - Arts &amp; Culture" rel="nofollow">Arts &amp; Culture</a>
+<a class="nav" target="_parent" href="http://theenvelope.latimes.com/" title="Los Angeles Times - The Envelope">The Envelope</a>
 <br>
 
-<a href="http://advertise.latimes.com" class="nav-head" rel="nofollow">Place an Ad</a> 
-<a href="/mediakit" rel="nofollow">In the Newspaper</a>
-<a href="/onlinemediakit" rel="nofollow">Online</a>
+<div class="nav-head1">Living</div>
+<a class="nav" target="_parent" href="http://travel.latimes.com" title="Los Angeles Times - Travel">Travel</a>
+<a class="nav" target="_parent" href="/features/health/" title="Los Angeles Times - Health" rel="nofollow">Health</a>
+<a class="nav" target="_parent" href="/classified/automotive/highway1/" title="Los Angeles Times - Automotive" rel="nofollow">Autos</a>
+<a class="nav" target="_parent" href="/features/home/" title="Los Angeles Times - Home &amp; Garden" rel="nofollow">Home &amp; Garden</a>
+<a class="nav" target="_parent" href="/features/food/" title="Los Angeles Times - Food" rel="nofollow">Food</a>
+<a class="nav" target="_parent" href="/features/lifestyle/" title="Los Angeles Times - Fashion" rel="nofollow">Image</a>
+<a class="nav" target="_parent" href="/features/books/" title="Los Angeles Times - Books" rel="nofollow">Books</a>
+<a class="nav" target="_parent" href="/features/lifestyle/green/" title="Los Angeles Times - Living Green" rel="nofollow">Living Green</a>
+
+<div style="border-bottom:1px solid #E5E6DA;height:2px;line-height:2px;margin-bottom:2px;padding-top:2px;">&nbsp;</div>
+
+<a class="nav" target="_parent" href="/video/" title="Los Angeles Times - Video" rel="nofollow">Video</a>
+<a class="nav" target="_parent" href="/news/local/photography/" title="Los Angeles Times - Photography" rel="nofollow">Photography</a>
+<a class="nav" target="_parent" href="/news/obituaries/" title="Los Angeles Times - Obituaries" rel="nofollow">Obituaries</a>
+<a class="nav" target="_parent" href="http://games.latimes.com/" title="Los Angeles Times - Games" rel="nofollow">Crosswords/Sudoku</a>
+<a class="nav" target="_parent" href="http://yourscene.latimes.com/mycapture/photos/index.aspx" title="Los Angeles Times - Your Scene" rel="nofollow">Your Scene</a>
+
+<div style="border-bottom:1px solid #E5E6DA;height:2px;line-height:2px;margin-bottom:2px;padding-top:2px;">&nbsp;</div>
+
+<a class="nav" target="_parent" href="/blogs/" title="Los Angeles Times - Blogs" rel="nofollow">Blogs</a>
+<a class="nav" target="_parent" href="/news/columnists/" title="Los Angeles Times - Columnists">Columnists</a>
+<a class="nav" target="_parent" href="/news/printedition/front/" title="Los Angeles Times - Print Edition">Print Edition</a>
+<a class="nav" target="_parent" href="http://latimesblogs.latimes.com/readers/" title="Los Angeles Times - Readers Rep">Readers Rep</a>
+<a class="nav" target="_parent" href="/news/custom/corrections/" title="Los Angeles Times - Corrections">Corrections</a>
+<a class="nav" target="_parent" href="/about/site/la-about-sitemap,0,2204194.htmlstory" title="Los Angeles Times - Site Map" rel="bookmark">All Sections</a>
 <br>
 
-<a class="nav-head" href="/services/site/registration/show-memberservices.register" rel="nofollow">Settings &amp; Services</a>
 
-
-
-
-
-<a href="/services/site/registration/show-login.register" rel="nofollow">Sign In</a>
-<a href="/services/site/registration/show-createprofile.register" rel="nofollow">Register</a>
-<a href="http://my.latimes.com/" rel="nofollow">Personalized News</a>
-<a href="http://www.latimes.com/services/site/registration/show-editproducts.register" rel="nofollow">E-Mail Newsletters</a>
-
-
-
-<a href="/services/site/la-rssinfopage,0,5039586.htmlstory" rel="nofollow"><img src="/images/mylatimes/rss_icon.gif" align="left" style="margin-top:2px">&nbsp;RSS Feeds</a>
-<a href="/services/site/" rel="nofollow">Help</a>
-<a href="/services/site/la-contactus,0,1439615.htmlstory" rel="nofollow">Contact Us</a>
-<a href="http://pqasb.pqarchiver.com/latimes/search.html" rel="nofollow">L.A. Times Archives</a>
-<a href="/services/site/la-reprint-request-splash,0,6731163.htmlstory" rel="nofollow" title="Los Angeles Times - Reprint Requests">Reprint Requests</a>
-<a rel="nofollow" href="http://www.careerbuilder.com/Jobs/Company/C35J3799H32J0FZL9X/Los-Angeles-Times/?cbsid=0f9d44ec0ccd408aae720005c762ee06-254332449-R8-4&amp;&amp;cbRecursionCnt=1&amp;IPath=CS">Work for Us</a>
+<a rel="nofollow" href="http://www.latimes.com/classified/" target="_parent" class="nav-head">Buy, Sell &amp; More</a>
+<a target="_parent" href="/classified/jobs/" rel="nofollow">Jobs</a>
+<a target="_parent" href="/classified/cars/">Cars</a>
+<a target="_parent" href="/classified/realestate/" rel="nofollow">Real Estate</a>
+<a target="_parent" href="http://www.zetabid.com">Foreclosure Sale <img src="/images/new2.gif" alt="new" width="14" height="5" border="0"></a>
+<a target="_parent" href="/classified/realestate/rentals/" rel="nofollow">Apartments</a>
+<a target="_parent" href="/entertainment/dating/" rel="nofollow">Personals</a>
+<a target="_parent" href="http://www.shoplocal.com/latimes" rel="nofollow">Deals at Local Stores</a>
+<a target="_parent" href="http://print.coupons.com/alink.asp?go=13135nc9210" rel="nofollow">Coupons</a>
+<a target="_parent" href="/classified/printads/" rel="nofollow">Newspaper Ads</a>
 <br>
 
-<a class="nav-head" href="http://myaccount.latimes.com/newSubscriptionZip.do?source=latweb" rel="nofollow">Home Delivery</a>
-<a href="http://myaccount.latimes.com/" rel="nofollow">Customer Support</a>
-<a href="http://myaccount.latimes.com/newSubscriptionZip.jsp" rel="nofollow">Subscribe</a>
+<a rel="nofollow" href="http://advertise.latimes.com" class="nav-head" target="_parent">Place an Ad</a>
+<a target="_parent" href="/mediakit" rel="nofollow">In the Newspaper</a>
+<a target="_parent" href="/onlinemediakit" rel="nofollow">Online</a>
+<br>
+
+<a rel="nofollow" href="http://www.latimes.com/services/site/registration/show-memberservices.register" class="nav-head" target="_parent">Settings/Services</a>
+<a target="_parent" href="/services/site/registration/show-login.register" rel="nofollow">Sign In</a>
+<a target="_parent" href="/services/site/registration/show-createprofile.register" rel="nofollow">Register</a>
+<a target="_parent" href="http://my.latimes.com/" rel="nofollow">Personalized News</a>
+<a target="_parent" href="http://www.latimes.com/services/site/registration/show-editproducts.register" rel="nofollow">E-Mail Newsletters</a>
+
+
+<a target="_parent" href="/services/site/la-rssinfopage,0,5039586.htmlstory" rel="nofollow"><img src="/images/mylatimes/rss_icon.gif" style="margin-top: 2px;" align="left" border="0">&nbsp;RSS Feeds</a>
+<a target="_parent" href="/services/site/" rel="nofollow">Help</a>
+<a target="_parent" href="/services/site/la-contactus,0,1439615.htmlstory" rel="nofollow">Contact Us</a>
+<a target="_parent" href="http://pqasb.pqarchiver.com/latimes/search.html" rel="nofollow">L.A. Times Archives</a>
+<a target="_parent" href="/services/site/la-reprint-request-splash,0,6731163.htmlstory" rel="nofollow" title="Los Angeles Times - Reprint Requests">Reprint Requests</a>
+<a target="_parent" rel="nofollow" href="http://timescareers.latimes.com/">Work for Us</a>
+<br>
+
+<a rel="nofollow" href="http://myaccount.latimes.com/newSubscriptionZip.do?source=latweb" class="nav-head" target="_parent">Home Delivery</a>
+<a target="_parent" href="http://myaccount.latimes.com/" rel="nofollow">Customer Support</a>
+<a target="_parent" href="http://myaccount.latimes.com/newSubscriptionZip.jsp" rel="nofollow">Subscribe</a>
+
+<div style="margin-left:-10px;margin-top:10px;padding-bottom:8px;"><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB0016LG51A%3Ftag%3Dlatimescom-20%26creative%3D384345%26linkCode%3Dkin&amp;tag=latimescom-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><img src="/images/kindle_latimes.gif" title="Los Angeles Times (Kindle Edition)" border="0"></a></div>
+
 </div>
 
 <script type="text/javascript" language="javascript">
@@ -363,14 +407,14 @@ h1.small { font: bold 13px Arial, Verdana, sans-serif !important; margin: 0 !imp
 var ua = navigator.userAgent.toLowerCase();
 if (ua.indexOf("firefox")>=1) {
    document.write('<style type="text/css">');
-   document.write('#right_rail {overflow:visible;}');
+   document.write('#right_rail {overflow:visible !important;}');
    document.write('</style>');
 }
 // -->
 </script>
 </div>
-<div class="left_nav_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=37854537?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=37854537?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=37854537?" width="120" height="60" border="0" alt=""></a></noscript></div>
+<div class="left_nav_ad"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=89469982?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=89469982?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/service/site;ptype=s;slug=la-privacy;rg=ur;pos=4;sz=120x60;tile=4;ord=89469982?" width="120" height="60" border="0" alt=""></a></noscript></div>
 					</div>
 					<div id="main_wrapper">
 	
@@ -618,15 +662,19 @@ var tcdacmd="da;dt;rcid=";
 
 
 
-            
 
+
+
+
+
+            
 
 
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
-	<script type="text/javascript" src="/central/javascript/mtrx/s_code.js"></script><img name="s_i_tribglobal" height="1" width="1" border="0" alt="" src="https://sm.trb.com/b/ss/tribglobal/1/H.2-pdv-2/s85716148720664?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A48%3A37%204%200&amp;vmt=4418B580&amp;ns=tribuneinteractive&amp;pageName=Privacy%20Policy%20-%20Latimes.com%20/%20services%20/%20site%20-%20htmlsto.&amp;g=https%3A//web.archive.org/web/20080512043356id_/http%253A//www.latimes.com/services/site/la-privacy%252C0%252C3125046.htmlstory&amp;cc=USD&amp;ch=Latimes.com%3Aservices&amp;server=latimes.com&amp;h1=Latimes.com%3Aservices%3Asite&amp;h2=services%3Asite&amp;h4=services%3Asite&amp;v20=Latimes.com&amp;v21=htmlstory&amp;c30=N&amp;c38=htmlstory&amp;c44=la-privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	<script type="text/javascript" src="/central/javascript/mtrx/s_code.js"></script><img name="s_i_tribglobal" height="1" width="1" border="0" alt="" src="https://sm.trb.com/b/ss/tribglobal/1/H.2-pdv-2/s81174305834627?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A48%3A37%204%200&amp;vmt=4418B580&amp;ns=tribuneinteractive&amp;pageName=Privacy%20Policy%20-%20Latimes.com%20/%20services%20/%20site%20-%20htmlsto.&amp;g=https%3A//web.archive.org/web/20080908014928id_/http%253A//www.latimes.com/privacypolicy&amp;cc=USD&amp;ch=Latimes.com%3Aservices&amp;server=latimes.com&amp;h1=Latimes.com%3Aservices%3Asite&amp;h2=services%3Asite&amp;h4=services%3Asite&amp;v20=Latimes.com&amp;v21=htmlstory&amp;c30=N&amp;c38=htmlstory&amp;c44=la-privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	<script language="JavaScript">
 <!--
 
@@ -634,6 +682,9 @@ http://www.omniture.com -->
         		s.prop38="htmlstory";
 		s.eVar21="htmlstory";
 		
+		
+		
+		 
 	s.server="latimes.com"; 
 	s.channel="Latimes.com:services";
 s.prop3="";
@@ -647,7 +698,7 @@ s.prop32="";
 
 /* E-commerce Variables */
 s.events=""; 
-s.eVar20="Latimes.com"
+s.eVar20="Latimes.com";
 
 	s.hier1="Latimes.com:services:site"; 
 		s.hier2="services:site";
@@ -655,6 +706,65 @@ s.eVar20="Latimes.com"
 	
 	
 	s.prop44="la-privacy";
+
+
+//AD Block Detection
+//Description: 	Check if any IMG, IFRAME, or SCRIPT elements are ad blocked (set to not display).
+//		Also check for the occurance of any Norton installed code to block popups or ads ( ie.)SymError ).
+//		Only need to find 1 occurrance of any of the above to confirm ad blocking is used. 
+//		No need to continue searching through other portions of the page.
+
+var imgArray = document.images;
+var iframeArray = document.getElementsByTagName("iframe");
+var scriptArray = document.getElementsByTagName("script");
+var isAdBlocked = 0;
+
+
+if(window.SymError || window.SymWinOpen || window.SymRealWinOpen)
+{
+	isAdBlocked=1;
+}
+if (!isAdBlocked)
+{
+	for (var i=0; i<imgArray.length; i++)
+	{
+		if(imgArray[i].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if (!isAdBlocked)
+{
+	for (var j=0; j<iframeArray.length; j++)
+	{
+		if (iframeArray[j].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if (!isAdBlocked)
+{
+	for (var j=0; j<scriptArray.length; j++)
+	{
+		if (scriptArray[j].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if(isAdBlocked)
+{
+	s.prop50="ad blocking";
+}
+
 
 
 
@@ -678,6 +788,9 @@ DM_cat(s.hier1);
 DM_tag();
 </script>
 <!-- END REVENUE SCIENCE PIXELLING CODE -->
+	<img width="1" height="1" src="http://pixel1739.everesttech.net/1739/p?ev_transid=1220863812163564205420&amp;ev_Latimes.com_services_s_pageview=1">
+
+
 
 
 
