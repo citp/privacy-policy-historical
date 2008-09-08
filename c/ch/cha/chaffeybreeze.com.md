@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaffeybreeze.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619142658id_/http%3A//www.chaffeybreeze.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaffeybreeze.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908054947id_/http%3A//www.chaffeybreeze.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Breeze
 
