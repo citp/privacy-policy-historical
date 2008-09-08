@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wamu.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608182936id_/http%3A//www.wamu.org/about/website/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wamu.org privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908085228id_/http%3A//www.wamu.org/about/website/privacy_policy.php) for the most accurate reproduction.*
 
 # WAMU 88.5 FM American University Radio - Privacy Policy
 
