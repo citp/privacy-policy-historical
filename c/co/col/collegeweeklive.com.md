@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613131136id_/http%3A//www.collegeweeklive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908043710id_/http%3A//www.collegeweeklive.com/privacy.html) for the most accurate reproduction.*
 
 # CollegeWeekLive - The Virtual College Fair - Privacy Policy
 
@@ -87,7 +87,7 @@ From time to time we may update this Privacy Policy and will post a notice of an
 
 **Contact**
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20080613131136id_/http%3A//www.collegeweeklive.com/contact.html) page, or by writing to:
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20080908043710id_/http%3A//www.collegeweeklive.com/contact.html) page, or by writing to:
 
   
 | 
