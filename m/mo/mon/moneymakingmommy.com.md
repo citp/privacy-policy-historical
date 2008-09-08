@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202232426id_/http%3A//www.moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908053044id_/http%3A//www.moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -12,14 +12,14 @@ _Online Media Center_
 ---  
   
   
-Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20070202232426id_/http%3A//www.moneymakingmommy.com/media-room/index.htm)
+Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20080908053044id_/http%3A//www.moneymakingmommy.com/media-room/index.htm)
 
 Thank you for visiting MoneyMakingMommy.com.
 
 Looking for a customized advertising campaign with us?  
 Feel free to 
 
-[ _contact us_](https://web.archive.org/web/20070202232426id_/http%3A//www.moneymakingmommy.com/contact.htm) to discuss your needs.   
+[ _contact us_](https://web.archive.org/web/20080908053044id_/http%3A//www.moneymakingmommy.com/contact.htm) to discuss your needs.   
   
 This is the web site of ** MoneyMakingMommy.com, Inc**.
 
@@ -27,7 +27,7 @@ Our postal address is
 **PO Box 2128**  
 **Weaverville, NC 28787**
 
-We can be reached via e-mail at: [_Contact Form_](https://web.archive.org/web/20070202232426id_/http%3A//www.moneymakingmommy.com/contact.htm)  
+We can be reached via e-mail at: [_Contact Form_](https://web.archive.org/web/20080908053044id_/http%3A//www.moneymakingmommy.com/contact.htm)  
 or you can reach us by telephone at 800-836-5675
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
