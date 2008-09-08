@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143659id_/http%3A//www.homeconstructionimprovement.com/2007/03/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908140417id_/http%3A//www.homeconstructionimprovement.com/2007/03/privacy.html) for the most accurate reproduction.*
 
-# Helpful Advice for Home Construction Improvement: Privacy
+# Privacy - Helpful Advice for Home Construction Improvement
 
 Privacy Policy for homeconstructionimprovement.com
 
