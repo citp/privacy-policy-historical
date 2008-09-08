@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621053452id_/http%3A//www.squaretrade.com/cnt/jsp/lgl/user_conf_agree.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908043220id_/http%3A//www.squaretrade.com/cnt/jsp/lgl/user_conf_agree.jsp) for the most accurate reproduction.*
 
 # SquareTrade
 
 |   
 ---  
 Privacy Policy  
-**Updated 6-4-07**  
+**Updated 5-15-08**  
 [](http://www.truste.org/ivalidate.php?url=www.squaretrade.com&sealid=101) |   
   
 ---  
@@ -34,7 +34,7 @@ Privacy Policy
   
 **1\. Purpose of Privacy Policy**
 
-SquareTrade is committed to maintaining the privacy of all individuals who access SquareTrade's web site, who become Members of SquareTrade and bear the SquareTrade Seal, and who participate in our Dispute Resolution process. As part of the normal operation of our site we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. 
+SquareTrade is committed to maintaining the privacy of all individuals and companies that access SquareTrade's web site, for purchasers of the SquareTrade CarePlan; who become Members of SquareTrade Seal Program, Care Plus Feature; and who participate in our Dispute Resolution process. As part of the normal operation of our site we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. 
 
 SquareTrade is a licensee of the TRUSTe Privacy Program, which is a non-profit organization dedicated to building trust in the Internet by having member organizations such as SquareTrade disclose information practices. TRUSTe operates as a third-party "watch dog" by auditing our privacy practices to make sure that we are in compliance with TRUSTe's privacy standards. This document discloses the privacy practices for [www.squaretrade.com](https://web.archive.org/cnt/jsp/index.jsp). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
 
@@ -53,15 +53,15 @@ Children are not eligible to use our services and we ask that minors do not subm
   
 **3\. Information We Collect.**
 
-In various forms -- the SquareTrade Product Care Plan purchase form, the online Seal Application Process form, the User Registration form, the Problem Submission form and the Response form -- we may collect information from you as follows: 
+In various forms -- SquareTrade CarePlan purchase information, the Care Plus Seller application, the online Seal application process, User Registration, Case Submission and the Response page -- we may collect information from you as follows: 
+
+_SquareTrade Care Plus/CarePlan Service Contract Information_. For individuals-first and last name, email address, daytime telephone number, as well as product purchase and serial number information. For Sellers-first and last name, email address, marketplace User ID, address and telephone number. 
 
 _Public Seal Information_ (Some or all of this information will be displayed on your Seal, and may also be disclosed to buyers who have been involved in a transaction with you.) For individuals - first name, last name, email address, marketplace user ID, address, daytime telephone number, applicable license number. For companies - company name, address, years in business, email address, applicable license number, marketplace user ID, Key Customer Service Contact's name, address and telephone number. You will also be able to select whether or not some information, such as your address and daytime telephone number are displayed on the Seal. 
 
 _Private Member Information_ (information which we may collect for Seal Application processing) For individuals - telephone number, sales revenue, fax number, web address, credit card number and payment details, date of birth, social security number; For companies - sales revenue, fax number, DUNS number, business references. 
 
 _**Public eBay Information**_ For eBay Seal Members (pending, currently active, suspended or cancelled) we collect public eBay information including sales, feedback and listing information. We may manipulate this publicly available information to produce meaningful statistics with eBay sales metrics. We may also collect similar information for users of our Dispute Resolution Services. 
-
-SquareTrade Product Care Plan Information including your full name, marketplace, user ID, phone number and email address. Your product purchase information may be used to notify you or your seller of a product purchase. 
 
 _User Registration Information_ (may be collected for people using Dispute Resolution Services who are not applying for a Seal) Full name, marketplace user ID, email address, phone number. Your registration information can be updated by clicking on Update Profile on the Sign In page. 
 
@@ -91,14 +91,14 @@ _If someone else files a case pertaining to you, if you:_
 _Resolution Information_  
 If you resolve a case, the Resolution or the Settlement Agreement, and the time and date stamp of your signature. 
 
-All of the information we gather is stored in a secure database. 
+All case records are confidential. All of the information we gather is stored in a secure database. 
 
 **Tracking**  
 There are two ways to maintain user experience throughout a "transaction" on SquareTrade's site. One is by identifying a user by their IP address, and the other is by setting a cookie. Since some users use proxy services to access the Internet (and do not have a fixed IP address), SquareTrade uses cookies for all users. 
 
 To enhance the dispute resolution experience and training of mediators, SquareTrade tracks information, including details of the case, the transaction, the problem, communications that a user had with the other party and with the SquareTrade Mediator. 
 
-In order to help us improve the site user experience you agree that we may use personally identifiable information about you to, analyze site usage, improve our content and product offerings, and customize our site's content, layout and services. We also track how users navigate the site by assigning cookies to site visitors. This data is NOT connected with user registration and hence, is NOT PERSONALLY IDENTIFIABLE. This means that while we know how many people have visited a particular page on the site, we do not know WHO these people are.. 
+In order to help us improve the site user experience you agree that we may use personally identifiable information about you to, analyze site usage, improve our content and product offerings, and customize our site's content, layout and services. We also track how users navigate the site by assigning cookies to site visitors. This data is NOT connected with user registration and hence, is NOT PERSONALLY IDENTIFIABLE. This means that while we know how many people have visited a particular page on the site, we do not know WHO these people are. 
 
 If you reject all cookies, you will not be able to use SquareTrade's services that require you to "sign in" or "register". However, you can still use SquareTrade to obtain general information. 
 
@@ -108,6 +108,7 @@ SquareTrade cookies are inactive once a user leaves our site. If you are still u
 
 We internally use all information we collect for the following reasons: 
 
+  * Provide you with a CarePlan and customer service.
   * Verify Seal Members' identities, on application and over time.
   * Contact a Seal Member or license holder if applicable, if a case is filed concerning you.
   * Bill for the Seal, Product Protection Plan, and Mediation services.
@@ -154,7 +155,7 @@ We do not sell or rent any information you provide. It is possible that SquareTr
   
 **5\. Control of Your Password.**
 
-You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password from the home page ([www.squaretrade.com](https://web.archive.org/cnt/jsp/index.jsp)). SquareTrade Seal Program Members may change their membership passwords and other personal identification information by contacting Member Services at [memberservices@squaretrade.com](mailto:memberservices@squaretrade.com) , or by going to the [Member Profile Page](https://web.archive.org/pages/user/login?destination=node%2F2) on the SquareTrade Web Site.   
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password from the home page ([www.squaretrade.com](https://web.archive.org/cnt/jsp/index.jsp)). SquareTrade Seal Program Members and Care Plus Features may change their membership passwords and other personal identification information by contacting Member Services at [memberservices@squaretrade.com](mailto:memberservices@squaretrade.com) , or by going to the [Member Profile Page](https://web.archive.org/pages/user/login?destination=node%2F2) on the SquareTrade Web Site.   
   
 **6\. Third Party Collectors of Information.**
 
@@ -181,9 +182,11 @@ We will send you strictly service-related announcements when it is necessary to 
 
 Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
+You can also opt out of emails by contacting [privacy@squaretrade.com](mailto:privacy@squaretrade.com)
+
 Customer Service   
 Based upon their personally identifiable information you provide us, we will send you a welcoming email to verify your information. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email. 
 
-Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
-
-| 
+|   
+  
+Close window
