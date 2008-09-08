@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411191517id_/http%3A//www.edmc.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908092944id_/http%3A//www.edmc.edu/Privacy.aspx) for the most accurate reproduction.*
 
-# EDMC - Privacy Policy
+# Education Management Corporation - Privacy Policy
 
 Education Management Corporation (EDMC) is committed to protecting any personal information that you may provide to us. We do not share or sell any information obtained on this site with any other company. 
 
@@ -10,8 +10,7 @@ In general, you can visit this Web site without telling us who you are or reveal
 
 ## Use of Collected Information
 
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. When other information is collected from you, such as your name and e-mail address, this personal information is used only to respond to your inquiry or to process your request. 
-
+Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. When other information is collected from you, such as your name and e-mail address, this personal information is used only to respond to your inquiry or to process your request.   
 We do not share, sell, or lease personal information about you to any third parties for their marketing use. We will release information about you if you direct us to do so or if we are required by law to do so. 
 
 ## Links to Other Sites
