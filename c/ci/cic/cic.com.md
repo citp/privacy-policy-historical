@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628232726id_/http%3A//cic.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908063554id_/http%3A//www.cic.com/policies/privacy) for the most accurate reproduction.*
 
 # CIC : Policies > Privacy Statement
 
