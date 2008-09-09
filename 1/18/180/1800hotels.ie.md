@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800hotels.ie privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628052526id_/http%3A//www.1800hotels.ie/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800hotels.ie privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909154955id_/http%3A//www.1800hotels.ie/home/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Information about Our Privacy Policy - Quality Accommodation, Worldwide destinations, Quality Hotels, Hotels, Hotel Reservations, Discount Hotels, Hotel Deals, Recommended Hotels - 1800 hotels
 
