@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goforads.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420202128id_/http%3A//www.goforads.com/%3Fview%3Dprivacy%26cityid%3D%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goforads.com privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909180056id_/http%3A//www.goforads.com/%3Fview%3Dprivacy%26cityid%3D%26lang%3Den) for the most accurate reproduction.*
 
-# India - Free Classifieds for Sale, Real Estate, Job, Car, Matrimonial, Services
+# India: Free Classifieds - Post Free Classified Ads
 
 |    
 ---  
