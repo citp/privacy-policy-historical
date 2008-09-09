@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkun.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630225334id_/http%3A//www.pinkun.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkun.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910013001id_/http%3A//www.pinkun.com/Privacy.aspx) for the most accurate reproduction.*
 
 # The Pink 'Un - Norwich City football news, stats and message boards
 
