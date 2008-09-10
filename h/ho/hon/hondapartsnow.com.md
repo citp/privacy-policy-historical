@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hondapartsnow.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602071602id_/http%3A//www.hondapartsnow.com/Page_Document/html.aspx%3FID%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondapartsnow.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910040530id_/http%3A//www.hondapartsnow.com/Page_Document/html.aspx%3FID%3D14) for the most accurate reproduction.*
 
-# Honda Parts Now - Privacy Policy
+# hondapartsnow.com - Honda Parts and Accessories - Privacy Policy
 
 HondaPartsNow.com, our most priority is ensuring that your personal and payment information is secure, and your privacy is respected. Below is a description of how we maintain online security and respect your privacy. 
 
