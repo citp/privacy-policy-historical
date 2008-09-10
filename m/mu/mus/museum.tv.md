@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627214548id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910052811id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
 
 # Sitemap - The Museum of Broadcast Communications
 
