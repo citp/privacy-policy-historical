@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609112521id_/http%3A//www.unitedutilities.com/%3FOBH%3D1854) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910165901id_/http%3A//www.unitedutilities.com/%3FOBH%3D6119) for the most accurate reproduction.*
 
 # United Utilities web site :: Data protection and privacy policy
 
-| Privacy| | | [Home](http://www.unitedutilities.com/ "Link to home page")>[Privacy](http://www.unitedutilities.com/?OBH=1854 "Copyright, data protection and privacy policy")| | | Print page | | Email page  
+| Privacy| | | [Home](http://www.unitedutilities.com/ "Link to home page")>[Privacy](http://www.unitedutilities.com/?OBH=6119 "Copyright, data protection and privacy policy")| | | Print page | | Email page  
 ---|---|---|---  
   
 
 | | Data protection and privacy policy  
 ---  
   
-© Copyright 2005 United Utilities PLC
+© Copyright 2008 United Utilities Group PLC
 
 Copyright and trademark
 
@@ -19,7 +19,7 @@ The United Utilities corporate logo is a trademark of United Utilities. You may
 
 Data protection and privacy policy
 
-United Utilities is a group of companies which includes United Utilities PLC, United Utilities Water PLC, United Utilities Electricity PLC, United Utilities Contract Solutions Limited, Vertex Data Science Limited, and Your Communications Limited. Further details of these companies can be found in the [About us](http://www.unitedutilities.com/?OBH=2&_ID=2&OBT=1) section of this web site. We, United Utilities, will process any personal information you provide to this site and have the relevant registrations in the United Kingdom under the Data Protection Act 1998. We will comply with the provisions of this Act, including in relation to the security of any personal information which we ask you to provide to us. We endeavour to take all reasonable steps to protect your personal information. However we cannot guarantee the security of data you disclose online over the internet. You should note that this web site is not encrypted and could be intercepted by third parties or electronically delivered to parties other than the addressee. Information about the security of the online services of this web site can be found [here](http://www.unitedutilities.com/?OBH=1504&_ID=729&OBT=1).
+United Utilities is a group of companies which includes United Utilities Group PLC, United Utilities Water PLC, United Utilities Electricity PLC, United Utilities Contract Solutions Limited, Vertex Data Science Limited, and Your Communications Limited. Further details of these companies can be found in the [About us](http://www.unitedutilities.com/?OBH=2&_ID=2&OBT=1) section of this web site. We, United Utilities, will process any personal information you provide to this site and have the relevant registrations in the United Kingdom under the Data Protection Act 1998. We will comply with the provisions of this Act, including in relation to the security of any personal information which we ask you to provide to us. We endeavour to take all reasonable steps to protect your personal information. However we cannot guarantee the security of data you disclose online over the internet. You should note that this web site is not encrypted and could be intercepted by third parties or electronically delivered to parties other than the addressee. Information about the security of the online services of this web site can be found [here](http://www.unitedutilities.com/?OBH=1504&_ID=729&OBT=1).
 
   You understand that we may use your personal details if you register as a user of the services provided by United Utilities or use the United Utilities web site generally for the puproses which we describe in this policy. The purpose of this statement is to set out how your personal information will be used by companies within United Utilities in you do so.
 
