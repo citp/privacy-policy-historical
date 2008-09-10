@@ -1,110 +1,81 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102084610id_/http%3A//www.marketingmag.com.au/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910033730id_/http%3A//www.marketingmag.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Marketing Magazine - PRIVACY POLICY
+# Marketing Magazine
 
-At Niche, we respect your privacy. We respect the rights of our customers, suppliers and colleagues to decide if, when and how their personal information is used.   
+At Marketing we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information.
 
+We revaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
-##### Our commitment to privacy is based on:
+Privacy Officer Niche Media Pty Ltd. 170 Dorcas Street South Melbourne VIC 3205 AUSTRALIA
 
-  * the freedom to visit this website and access information without the need to give us any personal information
-  * the choice to give us personal information if – and only if – you wish to access a more tailored online experience
+Or to [websupport@niche.com.au](mailto:websupport@niche.com.au)
 
+Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes.
 
+### Marketing Online Privacy Policy
 
-a pledge that any information given is kept safely and securely, using the latest technology and to accepted industry standards.
+Marketing collects data, including personally identifying information, from people who use [www.marketingmag.com.au](). This section of our privacy policy explains how we collect and use this data. Please note that Marketing print edition subscriber data is maintained separately from data gathered from our online users.
 
-Your use of this website is deemed to be acceptance of these privacy policies. If you disagree with the policies set out above, and in more detail below, you should not use this website.  
-when your information may be requested, and why The Niche Media website is designed to provide visitors with easy online access to information about the products and services we have to offer. It also provides support for our customers and business partners. Much of the content of this site is given freely, and can be viewed anonymously.
+### Information we collect and how we use it
 
-However, where a more personalised experience is required – such as secure areas where our business partners can access non-public details – some personal information is required. This is to protect confidential commercial information that we do not wish to share beyond our valued customers, partners and suppliers. It also ensures that those visitors with access to secure areas can be more easily identified, and be provided with a more personalised experience.
+When you visit [www.marketingmag.com.au](http://www.marketingmag.com.au/), Marketing collects several forms of usage data, including:
 
-  
+Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
 
+Cookie data. When you visit [www.marketingmag.com.au](http://www.marketingmag.com.au/), Marketing or one of our affiliates or third-party partners may send one or more "cookies" (small files containing a string of characters) to your computer to identify you as a unique user. If you have registered with [www.marketingmag.com.au](http://www.marketingmag.com.au/), the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
 
-##### How the information we collect may be used
+Traffic and advertising data. Other cookies without personally identifying information and data are used to enable Marketing to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the Marketing site.
 
-Any information we collect will never be sold, given or shared with any third party. It will only be used to:
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on [www.marketingmag.com.au](http://www.marketingmag.com.au/).
 
-  
+The aggregated information we collect is used for a number of purposes including the following:
 
-
-  * verify your identity when accessing secure areas of this site.
-  * allow us to provide tailored services, such as enewsletters.
-  * allow us to better understand the needs of our customers and business partners.
-  * allow us to offer special discounts and offers only to those we know have a stated interest in the services or products being offered.
-
-
-
-##### The use of ‘cookies’
-
-TEXT: Cookies are text strings generated by our server, and stored on your computer.
-
-Cookies can be used to:
-
-  
-
-
-  * store passwords, so that there is no need to fill in passwords when re-visiting a site
-  * track the effectiveness of advertising on a site
-  * monitor the areas of the site that are most visited
-  * identify visitors and ensure they are who they say they are – especially when accessing secure areas of a site
+  * To improve the content and design of [www.marketingmag.com.au](http://www.marketingmag.com.au/).
+  * To enable our audit bureau to verify our claims of traffic to the site.
+  * To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns.
+  * To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.
 
 
 
-The important thing to remember is that cookies are attached to the computer, not to the individual. This means the information is not of a personal nature (unless required as part of an authentication process).
+Many portions of the Marketing site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, Marketing does collect personally identifying information regarding our online users, including in the following ways:
 
-You should be aware that another user accessing the site from the same computer as you may be able to visit secure areas, as a cookie makes no differentiation between users: it simply identifies the computer being used.
+When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us. When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site. When you provide information about yourself or your company to Marketing in connection with a subscription order, that information may be included in your Marketing user record, if one exists.
 
-If you have any concerns about the use of cookies, you can change the preferences in your browser so that no cookies are accepted, or you are asked before cookies are accepted. Please note that many sites require acceptance of cookies before you can access the information.
+If you have previously registered with another Niche Media website and you begin to fill out certain forms on [www.marketingmag.com.au](http://www.marketingmag.com.au/), the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your Marketing user record. If you have provided information to [www.marketingmag.com.au](http://www.marketingmag.com.au/), from time to time we may enhance that information with other information that we collect from third-party sources.
 
-  
+The personal information we collect may be used in a number of ways, including the following:
 
-
-##### Online Security
-
-Whilst we at Niche Media are committed to protecting your privacy, the nature of the web and the technology it uses is not 100% secure.
-
-Emails and secure areas can be ‘hacked’ by those with the necessary skills.
-
-We do, however, use the latest encryption technology. And firewalls are used to protect the information we hold as securely as is possible.
-
-As and when technology improves, we will make use of newer and more secure methods of encryption and protection.  
-your access to the information we hold. We will strive to give you every opportunity to update and access the information we hold.
-
-Where possible, we will give you online access to change and update your details yourself. Where not possible, it may be necessary to contact us directly at Niche Media.
-
-  
+  1. To improve the content of the Marketing site, including by allowing Marketingís editors to consult with readers.
+  2. To communicate with users about registration and other customer service issues.
+  3. To promote products and services of Marketing or Niche Media Pty Ltd.
+  4. To conduct research surveys on behalf of Marketing, Niche Media Pty Ltd, and its subsidiaries and affiliates.
 
 
-##### Unsolicited ‘SPAM’
 
-We will never knowingly send you unsolicited emails (known commonly as ‘SPAM’) when you have not requested them.
+### Information sharing
 
-When signing up for our enewsletters, you will be given the option of agreeing to us sending you related information about any or all of the products or services we offer. Checking this option means you agree to us sending you emails from time to time, of a marketing or informational kind.
+Marketing may share aggregated, non-personal information, such as website traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
 
-Leaving the option unchecked means we will not include you in any promotional offers or emails.
+We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Marketing, Niche Media Pty Ltd, or our employees or customers.
 
-  
+We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfilment providers, who process information or perform services on our behalf.
 
+If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. Marketing and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or have forms that include links to the third party's privacy policy.
 
-##### How any personal information is stored
+*We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by the Marketing Subscriber Privacy Policy.
 
-We will take all reasonable steps to ensure that the information we hold about you is secure, accurate and up to date.
+We may share information with third parties for promotional purposes, as described below.
 
-  
+In addition, you should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. Marketing and its parent and affiliate companies are not responsible for any information that you provide in the above areas.
 
+### Use of data for promotions, and choices for personal information
 
-##### Links to other sites
+Postal addresses will be used to promote Marketing and Niche Media Pty Ltd products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-Niche Media cannot take responsibility for the privacy policies, conduct or quality of third party websites linked to from this site. Where possible, the content and availability of any sites we have linked to have been checked and read. However, you should check the privacy policies of any third party site before disclosing any personal information.
+When you provide your e-mail address to us, you agree to receive e-mail from Marketing, and Niche Media Pty Ltd; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link within the boy of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-  
+In addition, you may change your preferences regarding use of personal data by sending e-mail to websupport@niche.com.au.
 
+If Marketing or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
-##### Questions or concerns
-
-Please [email us](https://web.archive.org/web/20071102084610id_/http%3A//www.marketingmag.com.au/general_enquiry.asp) if you have any further questions or concerns about your privacy, and our conduct online.
-
-  
-
+Privacy information relating to MyMarketingJobs may be found here. [http://www.mymarketingjobs.com.au/info/termsconditions.htm](http://www.mymarketingjobs.com.au/)
