@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517165104id_/http%3A//www.coit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910053857id_/http%3A//www.coit.com/privacy.html) for the most accurate reproduction.*
 
 # Coit.com - Privacy Policy
 
