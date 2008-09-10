@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514050213id_/http%3A//www.centerstatebank.com/index.php%3Fmodule%3Dpagemaster%26PAGE_user_op%3Dview_page%26PAGE_id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910044331id_/http%3A//www.centerstatebank.com/index.php%3Fmodule%3Dpagemaster%26PAGE_user_op%3Dview_page%26PAGE_id%3D47) for the most accurate reproduction.*
 
 # Privacy Policy - CenterState Bank
 
-**Privacy Mission Statement**
+**[Account Disclosures](https://web.archive.org/web/20080910044331id_/http%3A//www.centerstatebank.com/files/documents/AccountDisclosures.pdf)**
+
+ **Privacy Mission Statement**
 
 At CenterState Bank, our mission is to meet the desires of our customers. As financial service professionals entrusted with sensitive financial information, we respect the privacy of our customers and are committed to treating customer information responsibly.  Our Customer Information Privacy Principles serve as standards for all CenterState Bank employees for collection, use, retention and security of individual customer information.
 
@@ -57,5 +59,5 @@ When we do provide customer information to a third party, we will require – th
 At CenterState Bank, we value our customer relationships.  We want you to understand how we use the information you provide and our commitment to ensuring your personal privacy.  If you have any questions about how CenterState Bank protects confidential information, please call the Main Office at (863) 291-3900 or visit your local banking center.
 
 |  Created on 2007-06-01 15:30:32 by admin  
-Updated on 2007-07-13 11:43:11 by admin  |  [](https://web.archive.org/web/20080514050213id_/http%3A//www.centerstatebank.com/index.php?module=pagemaster&PAGE_user_op=view_printable&PAGE_id=47&lay_quiet=1)  
+Updated on 2008-07-09 14:22:37 by jason  |  [](https://web.archive.org/web/20080910044331id_/http%3A//www.centerstatebank.com/index.php?module=pagemaster&PAGE_user_op=view_printable&PAGE_id=47&lay_quiet=1)  
 ---|---
