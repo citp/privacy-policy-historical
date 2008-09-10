@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512230222id_/http%3A//www.americanprofile.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910052627id_/http%3A//www.americanprofile.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Profile
 
@@ -74,10 +74,10 @@ At any time, you may revoke your consent, cease further use of your email addres
 
 In the event that you have given us Personally Identifiable Information in the past and then have second thoughts or want to update it, you may send an email or contact us by regular mail: 
 
-E-mail:   
-webmaster@pubgroup.com 
+**E-mail:**   
+[webmaster@pubgroup.com](mailto:webmaster@pubgroup.com)
 
-Address:   
+**Address:**   
 Publishing Group of America, Inc.   
 341 Cool Springs Blvd., Suite 400   
 Franklin, Tennessee 37067 
