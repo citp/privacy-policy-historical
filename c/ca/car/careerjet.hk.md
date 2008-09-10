@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.hk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615050213id_/http%3A//www.careerjet.hk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.hk privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910031745id_/http%3A//www.careerjet.hk/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
