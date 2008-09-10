@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205857id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910085026id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Privacy Policy
 
-  
+[](http://www.truste.org/ivalidate.php?url=www.erenterplan.com&sealid=101)
+
 LeasingDesk Insurance Services is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Policy covers the www.eRenterPlan.com website.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 This website is operated by Multifamily Internet Ventures, LCC (“MIV”), d/b/a LeasingDesk Insurance Services (“LDIS”).  This privacy policy (“Privacy Policy”) applies to the information that you provide to LDIS via the www.eRenterPlan.com Website where this Privacy Policy appears in the footer, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below.
@@ -64,7 +65,7 @@ Attention:  Legal – Privacy Policy
 36 Discovery, Suite 220  
 Irvine, CA  92618  
 
-If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 We may amend this Privacy Policy from time to time.  All amended terms will automatically take effect thirty (30) days after they are initially made and will be made available on the LDIS website.  In addition, we may notify you by email of amended terms to this Privacy Policy if:  (i) you have provided your email address to us; and (ii) you have consented to receive electronic communications from us.
 
