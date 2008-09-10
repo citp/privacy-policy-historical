@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsone.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626113032id_/http%3A//www.onone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsone.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910194200id_/http%3A//www.newsone.com/privacy) for the most accurate reproduction.*
 
-# Privacy - OnOne Social Community
+# News One - Privacy
 
 **_Effective as of: April 1, 2008_**
 
@@ -10,7 +10,7 @@ Please read this Privacy Policy carefully. In addition, please review the Terms 
 
 ## APPLICABILITY AND USER RESTRICTIONS
 
-Unless specifically stated otherwise, this Privacy Policy only applies to information collected on the Community Sites and does not apply to any information collected by any other manner or by any other websites owned by or under common control with Radio One or other affiliated companies, which may be governed by separate privacy policies. This Privacy Policy also does not apply to information about you collected by our affiliated providers, or third party web sites (e.g., ad serving and tracking services) and offerings linked to or otherwise accessible from the Community Sites. The information collected or received by such affiliated providers and third parties is also subject to their own respective privacy policies, which we encourage you to review. We are not responsible for compliance with other websites� privacy policies or practices.
+Unless specifically stated otherwise, this Privacy Policy only applies to information collected on the Community Sites and does not apply to any information collected by any other manner or by any other websites owned by or under common control with Radio One or other affiliated companies, which may be governed by separate privacy policies. This Privacy Policy also does not apply to information about you collected by our affiliated providers, or third party web sites (e.g., ad serving and tracking services) and offerings linked to or otherwise accessible from the Community Sites. The information collected or received by such affiliated providers and third parties is also subject to their own respective privacy policies, which we encourage you to review. We are not responsible for compliance with other websitesÕ privacy policies or practices.
 
 This Site is intended for users (a) that reside in the United State of America, its territories and possessions ("United States") and (b) that are thirteen (13) years of age or older. If you are not resident of the United States, you understand that your use of the Site constitutes consent to be governed by United States laws regarding the privacy and use of Personal Information (as defined below). If you are under age 13, please do not attempt to register with any Community Sites or send any Personal Information about yourself to us. We will not knowingly collect or solicit Personal Information from anyone under age 13 or knowingly allow such persons to register with any Community Sites. In the event that we learn that we have collected Personal Information from a user under age 13 without verification of parental consent, we will delete that information as quickly as possible. We further recommend that minors over age 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
 
@@ -18,7 +18,7 @@ This Site is intended for users (a) that reside in the United State of America, 
 
 ### User Content
 
-Please note that whenever you publicly disclose information about yourself online (e.g., in any chat rooms, message boards, or similar web pages), such information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display an Internet Protocol ("IP") address along with the message poster�s name and message. We bear no responsibility for any action or policies of any third parties who collect any information users may disclose on any social networking features of the Community Sites.
+Please note that whenever you publicly disclose information about yourself online (e.g., in any chat rooms, message boards, or similar web pages), such information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display an Internet Protocol ("IP") address along with the message posterÕs name and message. We bear no responsibility for any action or policies of any third parties who collect any information users may disclose on any social networking features of the Community Sites.
 
 ### Personal Information
 
@@ -27,7 +27,7 @@ As used in this Privacy Policy, "Personal Information" means personally identifi
 In addition to Personal Information collected for registration purposes, we may collect and store the following information: 
 
   * your responses to the offerings and advertisements presented on the Sites;
-  * information about the Sites� services or features that you use, and how frequently you use them; 
+  * information about the SitesÕ services or features that you use, and how frequently you use them; 
   * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through the Community Sites); 
   * your responses to or entries for surveys, sweepstakes, and contests and your requests for services, products, newsletters or information
   * customer service information about you as a user of a Community Site, including any suggestions you submit to us for review; 
@@ -85,7 +85,7 @@ Your Member Name is displayed to other members throughout the Community Sites an
 
 You may opt-out of receiving e-mail communications from us at any time by either following the instructions to unsubscribe within an email you receive from this Site or by sending an email request to be removed from our list at info@onone.com. As explained above, if you choose not to provide us with information sought on registration or sign up forms, it is possible that you will not be able to access or use certain features of our Site. 
 
-Some of the advertisements that appear on Community Sites may also be delivered to you by third party Internet advertising companies, which collect non-personal information about your visit to or use of the Community Sites, including information about the ads they display, via a cookie placed on your computer that reads your IP address. Please consult such third parties� applicable privacy policies to learn more about your privacy choices. 
+Some of the advertisements that appear on Community Sites may also be delivered to you by third party Internet advertising companies, which collect non-personal information about your visit to or use of the Community Sites, including information about the ads they display, via a cookie placed on your computer that reads your IP address. Please consult such third partiesÕ applicable privacy policies to learn more about your privacy choices. 
 
 ### Your User Profile
 
@@ -93,7 +93,7 @@ When you register with a Community Site, you may set up your user profile, form 
 
 Any content you post on this Site is at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other members with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that any user content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your user content may remain viewable in cached and archived pages or if other users have copied or stored your user content.
 
-Any improper collection or misuse of information provided on any Community Site is a violation of the Site�s Terms of Use and should be reported to info@onone.com.
+Any improper collection or misuse of information provided on any Community Site is a violation of the SiteÕs Terms of Use and should be reported to info@onone.com.
 
 If you choose to use our invitation service to tell a friend about any of our Community Sites, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email message inviting him or her to visit the Site. We store this information to send this one-time invitation, to register a friend referral if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at info@onone.com to request that we remove this information from our records.
 
@@ -111,10 +111,10 @@ Although we make every effort to ensure that our e-mail list is safe, the Intern
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-We reserve the right to change our Privacy Policy and our Terms of Use at any time. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on this Site�s home page. We encourage you to refer to visit this Privacy Policy frequently to stay informed regarding our current privacy practices. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your activity on our Community Sites.
+We reserve the right to change our Privacy Policy and our Terms of Use at any time. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on this SiteÕs home page. We encourage you to refer to visit this Privacy Policy frequently to stay informed regarding our current privacy practices. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your activity on our Community Sites.
 
 This Site is owned and operated by or on behalf of Interactive One, LLC. As the owner of this Site, Interactive One retains all ownership rights to the information collected at this Site. 
 
 ## CONTACTING US
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at info@onone.com or at Privacy Request, c/o Interactive One LLC, 205 Hudson Street, 6th Floor, New York, NY 10013, USA. 
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at [info@interactiveone.com](mailto:info@interactiveone.com) or at Privacy Request, c/o Interactive One LLC, 205 Hudson Street, 6th Floor, New York, NY 10013, USA. 
