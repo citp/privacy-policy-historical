@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312003302id_/http%3A//www.mainetourism.com/index.php%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910055327id_/http%3A//www.mainetourism.com/index.php%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
 
 # Maine Tourism Association - Maine Invites You!
 
@@ -14,3 +14,5 @@ Your privacy is very important to us. If you elect to fill out the forms on our 
 [](http://www.mainetourism.com/index.php?policy=privacy&daprint=true)
 
 | 
+
+[](http://www.innlinkcrs.com/maine/mainetourismlodgingsearch.asp)
