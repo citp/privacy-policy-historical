@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629194927id_/http%3A//www.crownaudio.com/gen_htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911100257id_/http%3A//www.crownaudio.com/gen_htm/privacy.htm) for the most accurate reproduction.*
 
 # Crown Audio, Inc. Privacy Policy
 
@@ -72,4 +72,4 @@ Crown Audio, Inc.
 Attn: Webmaster  
 1718 W. Mishawaka Rd.,   
 Elkhart, IN 46517  
-[Contact Us](https://web.archive.org/web/20080629194927id_/http%3A//www.crownaudio.com/gen_htm/webmaster.php)
+[Contact Us](https://web.archive.org/web/20080911100257id_/http%3A//www.crownaudio.com/gen_htm/webmaster.php)
