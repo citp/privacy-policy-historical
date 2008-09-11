@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdpornpass.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609212401id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdpornpass.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911220151id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
