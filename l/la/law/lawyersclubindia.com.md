@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620001012id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911235859id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICYlawyersclubindia - A Interactive platform for lawyers of India, lawyers cousrse, best lawyers ,business lawyers ,distance learning lawyers ,distance lawyers ,executive lawyers ,executive lawyers program ,harvard lawyers ,international lawyers ,lawyers ,lawyers admission ,lawyers career ,lawyers college
 
