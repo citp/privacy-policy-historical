@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdeal.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627044214id_/http%3A//www.wsdeal.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdeal.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912004523id_/http%3A//www.wsdeal.com/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy_WholeSale Earphones Electronics Direct From China!
 
