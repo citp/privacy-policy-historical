@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjug.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609025113id_/http%3A//www.adjug.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjug.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911105547id_/http%3A//www.adjug.com/info/privacy.asp) for the most accurate reproduction.*
 
 # AdJug - the online advertising marketplace
 
