@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622213500id_/http%3A//blog.smallworlds.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911093326id_/http%3A//blog.smallworlds.com/privacy-policy) for the most accurate reproduction.*
 
 # SmallWorlds » Privacy Policy
 
