@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextarticles.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612015812id_/http%3A//www.nextarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextarticles.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911171658id_/http%3A//nextarticles.com/privacy) for the most accurate reproduction.*
 
 # NextArticles.com
 
