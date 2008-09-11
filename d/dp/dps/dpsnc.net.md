@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614170326id_/http%3A//www.dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911131725id_/http%3A//www.dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
 
 # DPS District Site - Your Privacy
 
