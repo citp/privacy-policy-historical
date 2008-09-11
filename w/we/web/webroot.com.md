@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622110354id_/http%3A//www.webroot.com/En_US/about-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911214010id_/http%3A//www.webroot.com./En_US/about-privacy.html%3FWRSID%3Dba05df30fa0dace1a85e15cb5b02dac8) for the most accurate reproduction.*
 
 # Webroot | About Webroot | Privacy Policy
+
+WEBROOT COMPLIES WITH THE EU SAFE HARBOR FRAMEWORK AS SET FORTH BY THE DEPARTMENT OF COMMERCE REGARDING THE COLLECTION, USE, AND RETENTION OF DATA FROM THE EUROPEAN UNION.
 
 Webroot Software, Inc.'s privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase Webroot products, or when you call our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how Webroot uses the information, and how we safeguard your Personal Information.
 
@@ -93,7 +95,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
   * **For sales questions:** (800) 772-9383 (option #1) 
   * **For technical support:** <http://webroot.custhelp.com/>
-  * **For software updates:** [Downloads and Updates](https://web.archive.org/En_US/consumer-downloads.html?WRSID=9668d098a09d54eadc9590494bf60328)
+  * **For software updates:** [Downloads and Updates](https://web.archive.org/En_US/consumer-downloads.html?WRSID=eb3c135f1502b8fb3ff9dfe9efab6739)
 
 
 
