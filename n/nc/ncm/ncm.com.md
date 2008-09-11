@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610045912id_/http%3A//www.ncm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911094404id_/http%3A//www.ncm.com/privacy.aspx) for the most accurate reproduction.*
 
 # :: National CineMedia :: Overview
 
