@@ -1,0 +1,115 @@
+> *The following text is extracted and transformed from the wholeliving.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911202015id_/http%3A//www.wholeliving.com/privacy-policy%3Frsc%3Dfooter) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Security and Privacy Policy**
+
+Last Updated June 4, 2008
+
+Martha Stewart Living Omnimedia, Inc. ("MSO," "us," "our," or "we") strives to offer the visitors of our websites including [http://www.marthastewart.com](http://www.marthastewart.com/), [http://www.bodyandsoulmag.com](http://www.bodyandsoulmag.com/), [http://blogs1.marthastewart.com](http://blogs1.marthastewart.com/), [http://www.marthastewartcrafts.com](http://www.marthastewartcrafts.com/), http://www.wholeliving.com and [http://www.drweilselfhealing.com](http://www.drweilselfhealing.com/) (collectively, the "Site") the many advantages of Internet technology and to provide an interactive and personalized experience. In order to do this, we may, at times, use "Personally Identifiable Information" (any information that can be used to identify a specific individual, such as a name, postal address, telephone number or email address) subject to the terms of this statement ("Policy"). Please note that this Policy applies only to information collected by MSO online and does not impact information collected or used by MSO, its subsidiaries, or its affiliates through other means. By using this Site, you signify your acceptance of this Policy.
+
+ **What types of Personally Identifiable Information does MSO collect on the Site?**  
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For instance, you may choose to become a member of the Site ("Member") in order to participate in certain activities on the Site and enjoy special benefits offered only to Members. To become a Member, you are required to sign in by providing your name, postal address, and email address. You will also be asked to create a Username and password. You may also be asked to provide Personally Identifiable Information in connection with sweepstakes, contests, raffles, games and similar promotions on the Site, as well as in connection with surveys and other Site activities.
+
+Visitors who wish to purchase products from the Site will also be asked to provide their shipping and/or delivery (if different from the postal address) addresses, telephone number and credit card information.
+
+Members who choose to participate in the "Community" or "Share" section of the Site will have the opportunity to share ideas and thoughts about various topics with other Members, and create a user profile. Community/Share consists of a user profile, Bulletin Board service (such as message boards on the Site), Q&A Hours, and other interactive services we may offer from time to time, including the ability to comment, rate, recommend, and note. Use of Community/Share is governed by the Site's Terms of Use. Use of Community/Share is governed by the Site's [Terms of Use](http://www.marthastewart.com/portal/site/mslo/menuitem.017db2225a7627b8510467a2b5900aa0/?vgnextoid=467c2be6acb40110VgnVCM1000003d370a0aRCRD&rsc=footer&redirected=true). Community/Share is accessible by all Members, and users of this service should be mindful that any information posted to Community/Share will become public information and will be available to other participating Members and visitors to the Site. Accordingly, if you choose to participate in Community/Share, and post information to this section of the Site, please use discretion. You must create a name ("Username") to use and access the Community/Share section.
+
+ **Does MSO collect any other information about visitors to the Site?**  
+We constantly seek to make improvements to the Site. As part of these efforts, we collect and analyze certain "Aggregate Information" (information that does not allow us to identify a specific individual such as demographic information, purchase categories (e.g., home furnishings), or visitors using a particular browser to access the Site) about how visitors use the Site.
+
+When you visit our Site, we may collect various types of technical data. This data includes (but is not limited to) domain and/or Web browser information. We may track which Web site you visited before arriving at the Site and the Web site you link to when you leave the Site. We may also keep a record of which pages of the Site you visit, and how long you spend on each page.
+
+We also use "cookies" and other technologies on the Site. Cookies are small pieces of information that our server places on a visitor's computer hard drive to enable that person to more easily communicate and interact with the Site and to provide us with important information on how visitors use the Site. For example, we will place a cookie on a visitor's computer when he/she visits the Site. The next time that person visits the Site using the same computer, our server will recognize the cookie and the visitor. We will also use cookies to collect information about a Member who visits the Site without signing-in (or who signs-out but continues visiting the Site). Further, cookies and other technologies are used in email messages sent by our email delivery and marketing company and at our website to help us measure the effectiveness of our advertising and how visitors use our site. With respect to ads, information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about how to "opt-out" of these ad cookies, please [click here](http://www.doubleclick.com/privacy/index.aspx). Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the Site may result in certain parts of the Site not operating correctly or as efficiently as if they were allowed. Cookies must be enabled in order to register with the Site.
+
+ **What does MSO do with Personally Identifiable Information collected on the Site?**  
+We collect and use the Personally Identifiable Information you provide to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on the Site to communicate with you regarding products and services offered by MSO and our affiliates and partners and other topics we think you might find of interest; in the administration of sweepstakes, contests or other promotions; and to process e-commerce transactions.
+
+In addition, we use Personally Identifiable Information, such as your purchase information, to improve the performance of our Site, to customize the content and layout of our Site pages for you and to inform you of new areas of the Site and product specials.
+
+ **What does MSO do with Aggregate Information collected on the Site?**  
+Aggregate Information collected on the Site may be used in many ways. For example, we may collect and analyze collected Aggregate Information to determine how many visitors arrived at certain pages of the Site, how long they stayed on those pages, and where they went afterwards. This information allows us to determine which pages might be the most interesting to our visitors and enables us to provide them with a better and richer experience on the Site. Additionally, we may use Aggregate Information to improve the performance of our Site, and to customize the content and layout of our Site pages for you.
+
+Occasionally, we share Aggregate Information with third parties, such as our advertisers and business partners, for marketing and promotional purposes. Aggregate Information gleaned from your use of the Site may also be used to inform you of new areas of the Site and product specials.
+
+We may supplement Aggregate Information collected from the Site with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources.
+
+Please note that certain Aggregate Information may be linked with Personally Identifiable Information. Any such linked information will be treated as Personally Identifiable Information for the purposes of this Policy as long as it is so linked.
+
+ **Does MSO share information with other companies?**  
+Certain activities and services available on the Site are provided by third parties. We may share your Personally Identifiable Information with third parties for the purpose of enabling such third parties to provide such activities, services or products. For example, if you choose to purchase a product from us, we may use outside vendors to process your credit card, or to process and ship the order to you. In these instances, we would need to provide certain Personally Identifiable Information, such as your credit card information and shipping address, to these vendors.
+
+We may operate sweepstakes, contests, raffles, games and similar promotions through the Site. We typically ask you for certain Personally Identifiable Information when you enter and, if applicable, win a sweepstakes, contest, raffle, game or similar promotion. We reserve the right to share this Personally Identifiable Information with third party sponsors of such sweepstakes, contests, raffles, games and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle, game or promotion. You should carefully review the rules of each sweepstakes, contest, raffle, game and promotion in which you participate through the Site, as they may contain additional important information about MSO's or a sponsor's use of your Personally Identifiable Information. To the extent that the terms and conditions of such rules concerning the treatment of your Personally Identifiable Information conflict with this Policy, the terms and conditions of such rules shall control.
+
+We use an email delivery and marketing company to send emails that you have agreed to receive, in which case we will provide certain Personally Identifiable Information, including your email address, to the marketing company.
+
+We reserve the right to share both Personally Identifiable and Aggregate Information with other MSO businesses and our subsidiaries. We also share Personally Identifiable Information about visitors and Members with third-party companies with whom we have a marketing or other business relationship. 
+
+California
+
+ residents may opt out of allowing us to share Personally Identifiable Information about them with our affiliates and third parties for their marketing purposes. For more information on how to communicate your preferences to us, please see the section below entitled "[What are my "opt-out" choices?](http://www.marthastewart.com/privacy-policy?rsc=footer#choices)"
+
+We may also disclose Personally Identifiable Information in order to: (1) comply with applicable laws; (2) respond to governmental inquiries or requests; (3) comply with valid legal process; (4) protect the rights, privacy, safety or property of MSO; (5) to permit us to pursue available remedies or limit the damages that we may sustain; and (6) to enforce our [Terms of Use](http://www.marthastewart.com/portal/site/mslo/menuitem.017db2225a7627b8510467a2b5900aa0/?vgnextoid=467c2be6acb40110VgnVCM1000003d370a0aRCRD&rsc=footer&redirected=true).
+
+In the event there is a change in the corporate structure of MSO such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets, MSO may, in its sole discretion, transfer, sell or assign information collected on and through this Site, including without limitation, Personally Identifiable Information concerning visitors, to one or more affiliated or unaffiliated third parties.
+
+In addition, we may use third party advertisers to serve advertisements on the Site. Please note that these third party advertisers may use cookies and other technologies to, among other things, enable such third party advertisers to record which ads your browser has seen and which Site pages you may have been viewing when the ads were delivered. MSO does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+
+ **If I link to another Web site and provide information to that Web site, how will that information be handled?**  
+This Site may contain links to third party Web sites, including, but not limited to, the Web sites of companies with whom we have business or marketing relationships such as companies that sell products and services. If you link to a third party Web site, you will leave this Site and this Policy will not apply to your use of, and activities on, those other Web sites. If you provide Personally Identifiable Information to any such third party Web site, your transaction will occur on such third party's Web site (not this Site) and the Personally Identifiable Information you provide will be collected by, and controlled by the privacy policy of, that third party. We encourage you to read the legal notices posted on those third party Web sites, including their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, such third party Web sites. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.  YOUR USE OF ANY THIRD PARTY WEBSITES IS AT YOUR OWN RISK. 
+
+**How does MSO protect the information I provide to the Site?**  
+We take reasonable precautions to safeguard the Personally Identifiable Information transmitted between visitors and the Site and the Personally Identifiable Information stored on our servers. We use Secured Socket Layers encryption for the transmission of data to our servers during member registration, sign in and order check out. Unfortunately, no method of transmitting or storing data over the Internet can be guaranteed to be 100% secure. As a result, although we strive to protect your Personally Identifiable Information, we cannot ensure the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us at [members@marthastewart.com](mailto:members@marthastewart.com).
+
+In the unlikely event that we believe that the security of your Personally Identifiable Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is, in our sole discretion, appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.
+
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [members@marthastewart.com](mailto:members@marthastewart.com).
+
+ **What are my "opt-out" choices?**
+
+You may choose not to receive promotional emails or electronic newsletters from us by: (A) following the "unsubscribe" instructions in the specific email from which you wish to opt-out; (B) visiting the [Account Settings](http://www.marthastewart.com/portal/site/mslo/template.LOGIN/) section of the Site and following the appropriate instructions; or (C) sending an email to [offlist@marthastewart.com](mailto:offlist@marthastewart.com), specifying the particular emails list(s) from which you wish to be removed.
+
+In addition, 
+
+California
+
+ residents may choose to opt out of allowing us to: (A) share Personally Identifiable Information with MSO affiliates for their direct marketing purposes; and (B) share Personally Identifiable Information with third party companies for their marketing purposes. You may indicate your preferences to opt out of any combination of the choices above by emailing us at [members@marthastewart.com](mailto:members@marthastewart.com). Please specify in your email from which choice you are opting out:
+
+1.      Receiving promotional emails and electronic newsletters from MSO;
+
+2.      Allowing MSO to share Personally Identifiable Information about you with affiliates for their marketing purposes; and/or
+
+3.      Allowing MSO to share Personally Identifiable Information about you with third-party companies for their marketing purposes.
+
+We will respond to a request made pursuant to these methods as promptly as practicable. Even if you elect to stop receiving promotional emails from us, we may still contact you to tell you important information about the Site or us.
+
+Please note, however, that if you "opt out" as described above, we will not be able to remove Personally Identifiable Information about you from the databases of affiliates or third parties with which we have already shared such Personally Identifiable Information (i.e., to which we have already provided Personally Identifiable Information as of the date of your opt-out request). If you wish to cease receiving marketing messages from such affiliates or third parties, please contact such affiliates or third parties directly or utilize the opt-out mechanisms set forth in their respective privacy policies or marketing messages.
+
+ **Can I review or change information in "Account Settings"?**  
+Yes. If you want to review, correct, or change Personally Identifiable Information in "Account Settings", please go to the "[Account Settings](http://www.marthastewart.com/portal/site/mslo/template.LOGIN/)" section of the Site, and follow the appropriate instructions.
+
+ **Where will MSO store and maintain information about me?**  
+We maintain this Site in the 
+
+United States
+
+. By providing Personally Identifiable Information and other information to this Site, you understand and consent to the collection, use, processing and transfer of such information to the 
+
+United States
+
+ and other countries or territories, which may not offer the same level of data protection as the country where you reside, in accordance with the terms of this Policy
+
+ **How can I contact MSO?**  
+Our postal address is 
+
+11 West 42nd Street, New York, New York 10036
+
+. We can also be reached by email at [members@marthastewart.com](mailto:members@marthastewart.com). If you have any questions or comments about this Policy, please feel free to contact us.
+
+ **Special note concerning children**  
+We encourage parents to use the Site with their children. However, this Site is not directed towards children under the age of 13, and we request that children under 13 not provide Personally Identifiable Information to the Site.
+
+ **Can MSO change this Policy?**  
+MSO reserves the right to change this Policy at any time. We will announce any such change by posting the revised draft of this Policy on the Site. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy please do not continue using this Site.
+
+Thanks for visiting!
