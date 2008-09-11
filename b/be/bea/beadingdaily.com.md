@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beadingdaily.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412224414id_/http%3A//www.beadingdaily.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beadingdaily.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911192556id_/http%3A//www.beadingdaily.com/content/PrivacyPolicies.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Beading Daily
 
 **Your Guarantee of SPAM-Free Privacy**  
 We at Aspire Media/Interweave Press, LLC (referred to hereunder as IWP, we, us, our, etc.), producer of knittingdaily.com and affiliated web sites (the Sites), believe that you have the right to know how your personal and other information may be used or disclosed. You take your privacy seriously, and we respect your concerns. Accordingly, we have created this Privacy Statement in order to educate you as to how we collect information, what we do with it, and what controls and options you have. Please read this Privacy Statement carefully, and if you have any questions or concerns, please send us a comment at privacy@interweave.com
