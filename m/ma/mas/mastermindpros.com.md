@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastermindpros.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416064249id_/http%3A//www.mastermindpros.com/content/view/106/117) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastermindpros.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911194418id_/http%3A//www.mastermindpros.com/content/view/106/117) for the most accurate reproduction.*
 
 # Mastermind Pros - Privacy Policy
 
