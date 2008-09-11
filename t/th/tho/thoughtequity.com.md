@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615125507id_/http%3A//www.thoughtequity.com/video/shell/txp/privacy-policy.do%3Ftitle%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911211025id_/http%3A//www.thoughtequity.com/video/shell/txp/privacy-policy.do%3Ftitle%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy from Thought Equity Motion
 
