@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041846id_/http%3A//www.toggl.com/en/About-Toggl/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911161431id_/http%3A//www.toggl.com/en/About-Toggl/Privacy-Policy) for the most accurate reproduction.*
 
 # Toggl - Privacy Policy
 
