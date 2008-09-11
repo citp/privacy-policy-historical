@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609103819id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911113029id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..
+# Privacy policy - Interaction-Design.org: HCI, Usability, Information Architecture, User Experience, and more..
 
-[](http://www.interaction-design.org/ "Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..")
+[](http://www.interaction-design.org/ "Interaction-Design.org: HCI, Usability, Information Architecture, User Experience, and more..")
 
 Your privacy is respected.
 
