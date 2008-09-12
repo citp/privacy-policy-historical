@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pure-yoga.com privacy policy that was archived on 2006-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060905220152id_/http%3A//www.pure-yoga.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-yoga.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912091209id_/http%3A//www.pure-yoga.com/en/hongkong/legal/privacy_policy.php) for the most accurate reproduction.*
 
-# Pure Yoga
+# Pure Yoga : Privacy Policy
 
   
 Privacy Policy
@@ -12,7 +12,7 @@ Pure collects different information in order to help us improve the services and
 
 Pure collects information on you when you enter a user agreement with Pure, when you register with the Pure websites.
 
-You are under no obligation to provide any personal data however, so that Pure is able to provide you with its services and products, the minimum information we need is your name, address, e-mail address, postal address.
+You are under no obligation to provide any personal data however, so that Pure is able to provide you with its services and products, the minimum information we need is your name, address, e-mail address, telephone number and postal address.
 
 Pure may also ask for further information from you in order to obtain a better understanding of how Pure can provide personalized services to you, in all instances it is entirely your choice whether or not to provide information, in some case for us to provide the service requested, you will be required to give certain information, whether you do or not is your choice. Obviously if you do not, then we may not be able to provide the services requested, in all cases when you are required to give information we will inform you. We will inform you in cases when it is obligatory for you to provide information so that you can receive.
 
