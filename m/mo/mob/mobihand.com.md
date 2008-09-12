@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516202655id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912133542id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Palm OS, Pocket PC, Windows Smartphones, Symbian and BlackBerry Software - MobiHand Store Support
+# Smartphone Software and Accessories- MobiHand Software Store Support
 
 **What This Privacy Policy Covers**
 
@@ -55,6 +55,6 @@ We may update this policy. We will notify you about significant changes in the w
 
 **Questions and Suggestions**
 
-If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20080516202655id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
+If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20080912133542id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
 
 Effective Date: November 15,2004 
