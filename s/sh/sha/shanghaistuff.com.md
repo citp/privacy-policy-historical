@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghaistuff.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417235616id_/http%3A//www.shanghaistuff.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.shanghaistuff.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaistuff.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912115519id_/http%3A//www.shanghaistuff.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.shanghaistuff.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Shanghai Stuff
 
