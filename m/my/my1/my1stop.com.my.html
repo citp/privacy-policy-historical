@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the my1stop.com.my privacy policy that was archived on 2008-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526131750id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the my1stop.com.my privacy policy that was archived on 2008-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912232845id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>My1Stop Virtual Shopping Mall: online shopping, business, advertising, e-store rental, free listing, reseller and affiliate program</title>
 <!--Copyright Carwin Solutions. All Rights Reserved.-->
@@ -35,6 +35,78 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <link rel="bookmark icon" href="myicon.ico">
 <link rel="shortcut icon" href="myicon.ico">
 <link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript">
+   var http_request = false;
+   function makeRequest(url, parameters) {
+      http_request = false;
+      if (window.XMLHttpRequest) { // Mozilla, Safari,...
+         http_request = new XMLHttpRequest();
+         if (http_request.overrideMimeType) {
+         	// set type accordingly to anticipated content type
+            //http_request.overrideMimeType('text/xml');
+            http_request.overrideMimeType('text/html');
+         }
+      } else if (window.ActiveXObject) { // IE
+         try {
+            http_request = new ActiveXObject("Msxml2.XMLHTTP");
+         } catch (e) {
+            try {
+               http_request = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (e) {}
+         }
+      }
+      if (!http_request) {
+         alert('Cannot create XMLHTTP instance');
+         return false;
+      }
+      http_request.onreadystatechange = alertContents;
+      http_request.open('GET', url + parameters, true);
+      http_request.send(null);
+   }
+
+   function alertContents() {
+      if (http_request.readyState == 4) {
+         if (http_request.status == 200) {
+            //alert(http_request.responseText);
+            result = http_request.responseText;
+            document.getElementById('myspan').innerHTML = result;            
+         } else {
+            alert('There was a problem with the request.');
+         }
+      }
+   }
+   
+   function get(obj) {
+      var getstr = "?";
+      for (i=0; i<obj.childNodes.length; i++) {
+         if (obj.childNodes[i].tagName == "INPUT") {
+            if (obj.childNodes[i].type == "text") {
+               getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+            }
+            if (obj.childNodes[i].type == "checkbox") {
+               if (obj.childNodes[i].checked) {
+                  getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+               } else {
+                  getstr += obj.childNodes[i].name + "=&";
+               }
+            }
+            if (obj.childNodes[i].type == "radio") {
+               if (obj.childNodes[i].checked) {
+                  getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+               }
+            }
+         }   
+         if (obj.childNodes[i].tagName == "SELECT") {
+            var sel = obj.childNodes[i];
+            getstr += sel.name + "=" + sel.options[sel.selectedIndex].value + "&";
+         }
+         
+      }
+      makeRequest('../ums/generate.php', getstr);
+   }
+</script>
+
+
 <link rel="stylesheet" type="text/css" href="ajaxtabs.css">
 <script type="text/javascript" src="ajaxtabs.js">
 /***********************************************
@@ -48,7 +120,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 window.name = "home";
 //-->
 </script>
-<script type="text/javascript" src="index.js"></script>
+<script type="text/javascript" language="javascript" src="../js/ac.js"></script>
+<script type="text/javascript" language="javascript" src="../js/ajax.js"></script>
+<script type="text/javascript" language="javascript" src="../js/builder.js"></script>
+<script type="text/javascript" language="javascript" src="../js/controls.js"></script>
+<script type="text/javascript" language="javascript" src="../js/effects.js"></script>
+<script type="text/javascript" language="javascript" src="../js/global.js"></script>
+<script type="text/javascript" language="javascript" src="../js/prototype.js"></script>
+<script type="text/javascript" language="javascript" src="../js/scriptaculous.js"></script>
+<script type="text/javascript" language="javascript" src="../js/vanilla.js"></script>
 <script type="text/javascript">
     var GB_ROOT_DIR = "http://my1stop.com.my/greybox/";
 </script>
@@ -155,6 +235,18 @@ else
 // end of verify deletion --> 
 </script>
 <script type="text/javascript" src="../catalogue/domcollapse.js"></script>
+<link rel="stylesheet" href="slideshow/windowfiles/dhtmlwindow.css" type="text/css">
+
+<script type="text/javascript" src="slideshow/windowfiles/dhtmlwindow.js">
+
+/***********************************************
+* DHTML Window Widget- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
 <style type="text/css">
 <!--
 .style1 {	color: #FFFFFF;
@@ -169,15 +261,42 @@ else
     insertHeader();
     insertMenu('index');
 </script>
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+<script type="text/javascript">
+function opencurconverter(){ 
+ajaxwin=dhtmlwindow.open("ajaxbox", "ajax", "currency-converter.html", "Currency Converter", "width=200px,height=350px,left=300px,top=100px,resize=1,scrolling=1")
+ajaxwin.onclose=function(){return window.confirm("Close the converter?")} 
+}
+
+function openbrowserguide(){ 
+ajaxwin=dhtmlwindow.open("ajaxbox", "ajax", "slideshow/browser-rss.html", "My1Stop RSS Feed for FireFox & Live Bookmarks Guide", "width=470px,height=355px,left=300px,top=100px,resize=1,scrolling=1")
+ajaxwin.onclose=function(){return window.confirm("Close the guide?")} 
+}
+
+function openblogguide(){ 
+ajaxwin=dhtmlwindow.open("ajaxbox", "ajax", "slideshow/blog-rss.html", "My1Stop RSS Feed for Blogger", "width=550px,height=440px,left=300px,top=100px,resize=1,scrolling=1")
+ajaxwin.onclose=function(){return window.confirm("Close the guide?")} 
+}
+
+function openflexiguide(){ 
+ajaxwin=dhtmlwindow.open("ajaxbox", "ajax", "slideshow/flexi-template-email.html", "My1Stop FLEXI Template", "width=550px,height=420px,left=300px,top=100px,resize=1,scrolling=1")
+ajaxwin.onclose=function(){return window.confirm("Close the guide?")} //Run custom code when window is about to be closed
+}
+</script>
+<script type="text/javascript">
+function openezguide(){ //Define arbitrary function to run desired DHTML Window widget codes
+ajaxwin=dhtmlwindow.open("ajaxbox", "ajax", "slideshow/ez-feed-blog.html", "My1Stop EZ Feed", "width=550px,height=440px,left=300px,top=100px,resize=1,scrolling=1")
+ajaxwin.onclose=function(){return window.confirm("Close the guide?")} //Run custom code when window is about to be closed
+}
+</script>
+<table width="920" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td width="203" rowspan="2"><a href="/v1/index.php"><img src="images/logo.gif" alt="Home" width="200" height="102" border="0"></a></td>
         <td valign="top" style="padding:3px; "><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="31%" height="41" align="left" valign="top" style="padding-top:16px "><a href="index.php?do=setlang&amp;lang=malay&amp;url=/v1/index.php?content=privacy"><img src="images/my.png" alt="Bahasa Melayu" width="26" height="13" border="0" align="absmiddle"></a> &nbsp;<a href="index.php?do=setlang&amp;lang=english&amp;url=/v1/index.php?content=privacy"><img src="images/uk.png" alt="English" width="26" height="13" border="0" align="absmiddle"></a></td>
-            <td width="69%" rowspan="2" align="right" valign="top"><table height="83" border="0" align="right" cellpadding="3" cellspacing="0">
+            <td align="left" valign="top" style="padding-top:16px "><a href="index.php?do=setlang&amp;lang=malay&amp;url=/v1/index.php?content=privacy"><img src="images/my.png" alt="Bahasa Melayu" width="26" height="13" border="0" align="absmiddle"></a> &nbsp;<a href="index.php?do=setlang&amp;lang=english&amp;url=/v1/index.php?content=privacy"><img src="images/uk.png" alt="English" width="26" height="13" border="0" align="absmiddle"></a></td>
+            <td width="54%" rowspan="2" align="right" valign="top"><table height="83" border="0" align="right" cellpadding="3" cellspacing="0">
               <tbody><tr align="left">
                 <td align="right" valign="middle"><table width="190" height="60" border="0" cellpadding="5" cellspacing="0" background="http://www.my1stop.com.my/ums/images/cart-bg.gif">
                     <tbody><tr>
@@ -213,7 +332,8 @@ else
             </tbody></table></td>
           </tr>
           <tr>
-            <td height="42" align="left" valign="bottom"><a href="/v1/index.php">home</a> | <a href="/v1/index.php?content=contactus">hubungi</a> | <a href="/v1/index.php?content=faq">soalan</a></td>
+            <td align="left" valign="bottom"><a href="/v1/index.php">home</a><span style="border-top:2px solid #FFFFFF; "> | <a href="/v1/index.php?content=contactus">hubungi</a> | <a href="/v1/index.php?content=faq">soalan</a><br>
+                <a href="/v1/index.php?content=foop">membeli online</a> | <a href="/v1/index.php?content=betenant">menjual online</a> | <a href="/v1/index.php?content=bereseller">program reseller</a></span></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -231,13 +351,13 @@ else
   <tr>
     <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="200" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="1">
+        <td width="200" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="1">
             <tbody><tr>
               <td><table width="100%" border="0" cellpadding="1" cellspacing="0" style="border: 3px solid #EAEAEA; ">
                 <tbody><tr>
                   <td><table width="100%" border="0" cellspacing="1" cellpadding="0">
                     <tbody><tr>
-                      <td colspan="2" align="center" background="images/yellowbg.gif" style="font-weight:bold; font-size:12px; padding:2px; ">Virtual Mall </td>
+                      <td colspan="2" align="center" background="images/yellowbg.gif" style="font-weight:bold; font-size:12px; padding:2px; ">Mall Departments</td>
                     </tr>
                     <tr>
                       <td align="center" valign="top" bgcolor="#C4CDD5"><table width="100%" border="0" cellpadding="0" cellspacing="0"><form name="searchsub" id="searchsub" method="post" action="/v1/index.php?view=search"></form>
@@ -252,7 +372,7 @@ else
                       <td height="28" colspan="2" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top:2px; padding-bottom:2px; ">
                         <tbody><tr>
                           <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td><a href="/v1/index.php?view=items&amp;dept=1" class="menu" style="padding:3px" onmouseover="window.status='View Items in Home and Office ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Home and Office (79)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=2" class="menu" style="padding:3px" onmouseover="window.status='View Items in Children Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Children Department (91)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=3" class="menu" style="padding:3px" onmouseover="window.status='View Items in Ladies Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Ladies Department (136)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=4" class="menu" style="padding:3px" onmouseover="window.status='View Items in Gentlemen Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Gentlemen Department (35)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=5" class="menu" style="padding:3px" onmouseover="window.status='View Items in Electrical and Electronics ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Electrical and Electronics (16)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=6" class="menu" style="padding:3px" onmouseover="window.status='View Items in Supermarket ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Supermarket (28)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=7" class="menu" style="padding:3px" onmouseover="window.status='View Items in Food Court ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Food Court (20)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=8" class="menu" style="padding:3px" onmouseover="window.status='View Items in Gift Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Gift Shop (41)</a></td></tr><tr><td style="padding:3px"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Travel and Leisure Shop (0)</td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=10" class="menu" style="padding:3px" onmouseover="window.status='View Items in Book Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Book Shop (21)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=11" class="menu" style="padding:3px" onmouseover="window.status='View Items in Auto Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Auto Shop (1)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=12" class="menu" style="padding:3px" onmouseover="window.status='View Items in Health and Beauty ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Health and Beauty (211)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=13" class="menu" style="padding:3px" onmouseover="window.status='View Items in Landscape &amp; Agriculture ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Landscape &amp; Agriculture (5)</a></td></tr>                          </tbody></table></td>
+<tbody><tr><td><a href="/v1/index.php?view=items&amp;dept=1" class="menu" style="padding:3px" onmouseover="window.status='View Items in Home and Office ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Home and Office (117)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=2" class="menu" style="padding:3px" onmouseover="window.status='View Items in Children Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Children Department (161)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=3" class="menu" style="padding:3px" onmouseover="window.status='View Items in Ladies Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Ladies Department (227)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=4" class="menu" style="padding:3px" onmouseover="window.status='View Items in Gentlemen Department ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Gentlemen Department (43)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=5" class="menu" style="padding:3px" onmouseover="window.status='View Items in Electrical and Electronics ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Electrical and Electronics (22)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=6" class="menu" style="padding:3px" onmouseover="window.status='View Items in Supermarket ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Supermarket (18)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=7" class="menu" style="padding:3px" onmouseover="window.status='View Items in Food Court ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Food Court (35)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=8" class="menu" style="padding:3px" onmouseover="window.status='View Items in Gift Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Gift Shop (59)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=9" class="menu" style="padding:3px" onmouseover="window.status='View Items in Travel and Leisure Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Travel and Leisure Shop (6)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=10" class="menu" style="padding:3px" onmouseover="window.status='View Items in Books &amp; Multimedia ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Books &amp; Multimedia (41)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=11" class="menu" style="padding:3px" onmouseover="window.status='View Items in Auto Shop ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Auto Shop (6)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=12" class="menu" style="padding:3px" onmouseover="window.status='View Items in Health and Beauty ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Health and Beauty (305)</a></td></tr><tr><td><a href="/v1/index.php?view=items&amp;dept=13" class="menu" style="padding:3px" onmouseover="window.status='View Items in Landscape &amp; Agriculture ...'; return true;"><img src="images/bullet-green.gif" width="13" height="12" border="0" align="absmiddle"> Landscape &amp; Agriculture (6)</a></td></tr>                          </tbody></table></td>
                         </tr>
                       </tbody></table></td>
                     </tr>
@@ -260,17 +380,25 @@ else
                 </tr>
               </tbody></table></td>
             </tr>	
+            
             <tr>
               <td height="30" align="center"><table width="100%" border="0" cellpadding="1" cellspacing="0" style="border: 3px solid #EAEAEA; ">
                 <tbody><tr>
+                  <td colspan="2" align="center" background="images/yellowbg.gif" style="font-weight:bold; font-size:12px; padding:2px; ">Pembelian Online</td>
+                </tr>
+                <tr>
                   <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="detail">
                     <tbody><tr>
-                      <td colspan="2"><img src="images/online-purchase-icons.jpg" width="192" border="0"></td>
+                      <td><img src="images/online-purchase-icons.jpg" width="192" border="0"></td>
                       </tr>
-                    <tr align="center">
-                      <td width="50%"><a href="/v1/index.php?content=foop">Proses Pembelian Online </a></td>
-                      <td><a href="/v1/index.php?content=security">Sekuriti Pembelian Online </a></td>
-                    </tr>
+                    <tr>
+                      <td><ul type="square" style="margin:5px;">
+                        <li><a href="/v1/index.php?content=foop">Proses Pembelian Online </a></li>
+                        <li><a href="payment.php" target="_blank">Proses Pembayaran Online</a></li>
+                        <li><a href="/v1/index.php?content=security">Sekuriti Pembayaran Online </a></li>
+                        <li><a href="http://www.gocurrency.com" title="Currency Converter" target="_blank">Currency Converter</a></li>
+                      </ul></td>
+                      </tr>
                   </tbody></table></td>
                 </tr>
               </tbody></table></td>
@@ -278,140 +406,34 @@ else
             <tr>
               <td><table width="100%" border="0" cellpadding="1" cellspacing="0" style="border: 3px solid #EAEAEA; ">
                 <tbody><tr>
-                  <td><table width="100%" border="0" cellspacing="1" cellpadding="0">
+                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                      <td align="center" background="images/yellowbg.gif" style="font-weight:bold; font-size:12px; padding:2px; ">Ruang Iklan</td>
+                      <td align="center" background="images/yellowbg.gif" style="font-weight:bold; font-size:12px; padding:2px; ">Langgan</td>
                     </tr>
                     <tr>
-                      <td valign="top"><img src="images/spacer.gif" width="8" height="8"></td>
+                      <td align="center" valign="top" bgcolor="#C4CDD5" style="font-weight:bold; font-size:12px; padding:2px; ">Katalog Produk Baru</td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=679532810&amp;what=zone:4&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a9ea8738' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:4&amp;n=a9ea8738' border='0' alt=''></a></noscript>
-</td>
+                      <td align="left" class="detail" style="padding:6px; "><img src="images/rss.gif" width="76" height="66" align="left">Katalog produk terkini di <a href="#" onclick="openblogguide(); return false" title="View Guide">Blog</a>, Laman Sosial, Browser (<a href="#" onclick="openbrowserguide(); return false" title="View Guide">FireFox</a>) &amp; Website Anda!</td>
+                    </tr>
+                    
+                    <tr>
+                      <td align="center" bgcolor="#C4CDD5" style="padding:2px; "><a href="http://www.google.com.my/search?hl=en&amp;q=how+to+use+rss+feeds%3F&amp;btnG=Search&amp;meta=" target="_blank"></a> RSS Feed:</td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=876595300&amp;what=zone:5&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a7dea562' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:5&amp;n=a7dea562' border='0' alt=''></a></noscript>
-</td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:6");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=977214611&amp;what=zone:6&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a6c65eee' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:6&amp;n=a6c65eee' border='0' alt=''></a></noscript>
-</td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:7");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=947096482&amp;what=zone:7&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a5c6000b' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:7&amp;n=a5c6000b' border='0' alt=''></a></noscript>
-</td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:8");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=154806336&amp;what=zone:8&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a8b8585a' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:8&amp;n=a8b8585a' border='0' alt=''></a></noscript>
-</td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:25");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=511119031&amp;what=zone:25&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a9f1b3cb' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:25&amp;n=a9f1b3cb' border='0' alt=''></a></noscript>
-</td>
-                    </tr>
-                    <tr>
-                      <td valign="top"><img src="images/spacer.gif" width="8" height="8"></td>
-                    </tr>
-                    <tr>
-                      <td height="33" align="center" bgcolor="#C4CDD5"><table border="0" cellpadding="0" cellspacing="0" background="images/button-yellow2-bg-m.jpg">
-                          <tbody><tr>
-                            <td><img src="images/button-yellow2-bg-l.jpg" width="9" height="24"></td>
-                            <td align="center" style="padding-bottom:3px; "><a href="http://www.my1stop.com.my/ad/" target="_blank" class="buttextdark">
-                              Ingin Mengiklan Di Sini?                            </a> </td>
-                            <td><img src="images/button-yellow2-bg-r.jpg" width="10" height="24"></td>
-                          </tr>
+                      <td height="30" align="center" bgcolor="#E6E9EC" style="padding:2px; "><table width="95%" border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                          <td width="81%"><input onfocus="this.select()" value="http://www.my1stop.com.my/rss/feed.php" class="detail" style="width:135px;"></td>
+                          <td width="19%" align="right"><a href="http://www.my1stop.com.my/rss/feed.php" target="_blank"><img src="images/rss-button.gif" alt="View RSS Feed" width="36" height="17"></a></td>
+                        </tr>
                       </tbody></table></td>
                     </tr>
-                  </tbody></table></td>
-                </tr>
-              </tbody></table></td>
-            </tr>
-			                <tr>
-                <td><!--Copyright Carwin Solutions. All Rights Reserved.-->
+                    
+                                        <tr>
+                      <td align="left" class="detail" style="padding:10px; line-height:115%"><span style="padding:1px; "><img src="images/newsletter.gif" width="76" height="69" align="left"></span>Terima katalog produk terkini My1Stop di email anda!</td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><!--Copyright Carwin Solutions. All Rights Reserved.-->
 
 
 
@@ -422,10 +444,8 @@ else
 
 	
   <table width="100%" border="0" cellspacing="0" cellpadding="0"><form action="../newsletter/admin/admin-process.php?action=sub" method="post"></form>
+    
     <tbody><tr align="left">
-      <td height="90" align="center" background="http://www.my1stop.com.my/newsletter/images/subscribe-bg.gif" style="font-size:10px; line-height:110%; padding:3px 12px 10px 12px; color:#333333; background-repeat:no-repeat">Ingin terima newsletter produk-produk terkini di My1Stop Virtual Shopping Mall di e-mail anda?</td>
-    </tr>
-    <tr align="left">
       <td height="30" align="center" bgcolor="#C4CDD5"><input name="email" type="text" class="field" onfocus="if(this.value=='Alamat Email')this.value='';" onblur="if(this.value=='')this.value='Alamat Email';" value="Alamat Email"></td>
     </tr>
     <tr align="left">
@@ -435,7 +455,12 @@ else
 
 
 </td>
-              </tr>
+                    </tr>
+                    
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
             <tr>
               <td height="30" align="center"><table width="100%" border="0" cellpadding="3" cellspacing="0" style="border: 3px solid #EAEAEA; ">
                 <tbody><tr>
@@ -459,7 +484,7 @@ else
               </tbody></table></td>
             </tr>			  	
         </tbody></table></td>
-        <td valign="top">
+        <td width="580" valign="top">
 
 
 
@@ -627,15 +652,15 @@ ge.style.display = "block";
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=998096626&amp;what=zone:1&amp;withText=1&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a0d4954d' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:1&amp;n=a0d4954d' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=235765346&amp;what=zone:1&amp;withText=1&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a0d4954d' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:1&amp;n=a0d4954d' border='0' alt=''></a></noscript>
 </td><td width="20" align="right"><a href="http://www.my1stop.com.my/ad/" target="_blank"><img src="images/advertise-here-v.jpg" width="20" height="92" border="0"></a></td>
           </tr></tbody></table>
 			</td>		  
   </tr>
   <tr>
-    <td>      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td align="left">      <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td><h4 align="center" class="style10">My1Stop Privacy Policy</h4>
+          <td align="left"><h4 align="center" class="style10">My1Stop Privacy Policy</h4>
           Welcome to the privacy policy (the "Agreement" or "Privacy Policy") for My1Stop Virtual Shopping Mall (hereinafter referred to as "My1Stop"). This Privacy Policy describes how we handle your personal information on My1Stop website. This policy applies throught our website, our subdomains. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 1st, 2007.
           <h5>1. Collection </h5>
           <p>You can browse our website without telling us who you are or revealing any personal information about yourself. Once you’ve submitted your personal information on our website, you therefore consent to the transfer and storage of that information to our servers. </p>
@@ -720,9 +745,9 @@ ge.style.display = "block";
   </tr>
   <tr>
     <td colspan="2" align="center" bgcolor="#F7f8f9" style=" border-bottom:1px solid #cccccc; border-right:1px solid #cccccc; border-left:1px solid #cccccc; padding:8px;">        <table width="100%" border="0" cellpadding="2" cellspacing="0" align="center">
-          <tbody><tr><td><a href="/v1/index.php?view=full&amp;lot=42&amp;itemid=691"><img src="../catalogue/includes/phpThumb.php?src=../photos/691.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Diapers Maman"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=158&amp;itemid=729"><img src="../catalogue/includes/phpThumb.php?src=../photos/729.gif&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: MAAJUN ANGGUN BISTARI (MAB)"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=154&amp;itemid=709"><img src="../catalogue/includes/phpThumb.php?src=../photos/709.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Pengesan Wireless Camera"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=838"><img src="../catalogue/includes/phpThumb.php?src=../photos/838.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: RINDU Kondomanjakani"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=135&amp;itemid=638"><img src="../catalogue/includes/phpThumb.php?src=../photos/638.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: New!! PORTABLE HOME SAUNA"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=21&amp;itemid=553"><img src="../catalogue/includes/phpThumb.php?src=../photos/553.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Kopi O Pra-Campuran Radix (Papan)"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=94&amp;itemid=436"><img src="../catalogue/includes/phpThumb.php?src=../photos/436.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Telekung Sulam TSV05"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=134&amp;itemid=772"><img src="../catalogue/includes/phpThumb.php?src=../photos/772.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: EGYPTIAN POTION - Set 1 Lelaki"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=112&amp;itemid=516"><img src="../catalogue/includes/phpThumb.php?src=../photos/516.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Dress smocking"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=71&amp;itemid=667"><img src="../catalogue/includes/phpThumb.php?src=../photos/667.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Telekung Bahagia"></a> </td></tr>
-<tr><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=441"><img src="../catalogue/includes/phpThumb.php?src=../photos/441.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: OSHKOSH PANTS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=88&amp;itemid=512"><img src="../catalogue/includes/phpThumb.php?src=../photos/512.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Cadar Laurea Collection 0077"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=363"><img src="../catalogue/includes/phpThumb.php?src=../photos/363.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: DRESS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=14&amp;itemid=138"><img src="../catalogue/includes/phpThumb.php?src=../photos/138.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: KOREAN BROOCH - BRM 06"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=14&amp;itemid=227"><img src="../catalogue/includes/phpThumb.php?src=../photos/227.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: BIG PONY LADIES GOLD THREAD NO 3"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=368"><img src="../catalogue/includes/phpThumb.php?src=../photos/368.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Girl Top"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=14&amp;itemid=194"><img src="../catalogue/includes/phpThumb.php?src=../photos/194.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: QUICKSILVER SHIRT BROWN"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=798"><img src="../catalogue/includes/phpThumb.php?src=../photos/798.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: debac7"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=145&amp;itemid=696"><img src="../catalogue/includes/phpThumb.php?src=../photos/696.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: De Active"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=367"><img src="../catalogue/includes/phpThumb.php?src=../photos/367.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Girl Top"></a> </td></tr>
-<tr><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=446"><img src="../catalogue/includes/phpThumb.php?src=../photos/446.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: LEVI"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=364"><img src="../catalogue/includes/phpThumb.php?src=../photos/364.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Girl Top"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=145&amp;itemid=694"><img src="../catalogue/includes/phpThumb.php?src=../photos/694.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: TRICAJUS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=5&amp;itemid=607"><img src="../catalogue/includes/phpThumb.php?src=../photos/607.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: LADY CHEER"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=13&amp;itemid=98"><img src="../catalogue/includes/phpThumb.php?src=../photos/98.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Examo CKM 500"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=118&amp;itemid=615"><img src="../catalogue/includes/phpThumb.php?src=../photos/615.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Hamper"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=62&amp;itemid=739"><img src="../catalogue/includes/phpThumb.php?src=../photos/739.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: OshKosh \&quot;Volkswagen\&quot; T-Shirt"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=88&amp;itemid=371"><img src="../catalogue/includes/phpThumb.php?src=../photos/371.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Queen Fitted Set"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=565"><img src="../catalogue/includes/phpThumb.php?src=../photos/565.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Intra® 950ml"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=139&amp;itemid=664"><img src="../catalogue/includes/phpThumb.php?src=../photos/664.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Knee Length Nighty"></a> </td></tr>      </tbody></table></td>
+          <tbody><tr><td><a href="/v1/index.php?view=full&amp;lot=79&amp;itemid=905"><img src="../catalogue/includes/phpThumb.php?src=../photos/905.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: 3D Cloth Book - My Quiet Book"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=183&amp;itemid=1251"><img src="../catalogue/includes/phpThumb.php?src=../photos/1251.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: MyGreenOil-Save Fuel &amp; Money"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=165&amp;itemid=999"><img src="../catalogue/includes/phpThumb.php?src=../photos/999.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Losyen Serbaguna Syifa"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=363"><img src="../catalogue/includes/phpThumb.php?src=../photos/363.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: DRESS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=17&amp;itemid=170"><img src="../catalogue/includes/phpThumb.php?src=../photos/170.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Qyrana Collection - W80-285"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=88&amp;itemid=375"><img src="../catalogue/includes/phpThumb.php?src=../photos/375.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Queen Quilted Comforter Set"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=364"><img src="../catalogue/includes/phpThumb.php?src=../photos/364.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Girl Top"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=89&amp;itemid=972"><img src="../catalogue/includes/phpThumb.php?src=../photos/972.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Vemma Mangosteen Juice"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=177&amp;itemid=1042"><img src="../catalogue/includes/phpThumb.php?src=../photos/1042.bmp&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: EMANUEL BRANDED BLOUSE"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=212&amp;itemid=1352"><img src="../catalogue/includes/phpThumb.php?src=../photos/1352.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Blouse Sulam - Oza pink"></a> </td></tr>
+<tr><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=449"><img src="../catalogue/includes/phpThumb.php?src=../photos/449.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: LEVI"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=162&amp;itemid=1329"><img src="../catalogue/includes/phpThumb.php?src=../photos/1329.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Big Beauty Crystal Brooch"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=176&amp;itemid=1305"><img src="../catalogue/includes/phpThumb.php?src=../photos/1305.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: IKEA BEVARA - Sealing clip of 30pc"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=214&amp;itemid=1401"><img src="../catalogue/includes/phpThumb.php?src=../photos/1401.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Philip Avent Soothers/Pacifier**"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=365"><img src="../catalogue/includes/phpThumb.php?src=../photos/365.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Girl Top"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=1134"><img src="../catalogue/includes/phpThumb.php?src=../photos/1134.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Nufera"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=159&amp;itemid=1112"><img src="../catalogue/includes/phpThumb.php?src=../photos/1112.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Kang Yew Herba"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=71&amp;itemid=1252"><img src="../catalogue/includes/phpThumb.php?src=../photos/1252.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Smocking Dress 010"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=14&amp;itemid=1213"><img src="../catalogue/includes/phpThumb.php?src=../photos/1213.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Tudung sulam Tangan"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=218&amp;itemid=1417"><img src="../catalogue/includes/phpThumb.php?src=../photos/1417.gif&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Herbaneka bersalin nona roguy"></a> </td></tr>
+<tr><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=864"><img src="../catalogue/includes/phpThumb.php?src=../photos/864.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Halalgel Fruity C"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=127&amp;itemid=595"><img src="../catalogue/includes/phpThumb.php?src=../photos/595.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: NEXT BOY JEANS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=219&amp;itemid=1424"><img src="../catalogue/includes/phpThumb.php?src=../photos/1424.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Iso.3"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=79&amp;itemid=766"><img src="../catalogue/includes/phpThumb.php?src=../photos/766.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Baby Bouquet Lovely Princes - Bunch"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=90&amp;itemid=357"><img src="../catalogue/includes/phpThumb.php?src=../photos/357.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: SMOCKING DRESS"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=124&amp;itemid=603"><img src="../catalogue/includes/phpThumb.php?src=../photos/603.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: MY132"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=16&amp;itemid=166"><img src="../catalogue/includes/phpThumb.php?src=../photos/166.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Susen Sanitary Pad - Regular Flow"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=800"><img src="../catalogue/includes/phpThumb.php?src=../photos/800.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: CS5"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=33&amp;itemid=759"><img src="../catalogue/includes/phpThumb.php?src=../photos/759.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: CS20 Tablet Haruan"></a> </td><td><a href="/v1/index.php?view=full&amp;lot=71&amp;itemid=654"><img src="../catalogue/includes/phpThumb.php?src=../photos/654.jpg&amp;w=50&amp;h=50&amp;ar=x" valign="absmiddle" border="0" alt="see item: Rantai Hiasan Pewter"></a> </td></tr>      </tbody></table></td>
   </tr>
 </tbody></table>
 <!-- Start of StatCounter Code -->
@@ -765,6 +790,191 @@ google_ad_height = 250;
 </script></td>
   </tr>  
 </tbody></table></td>
+        <td width="140" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+          <tbody><tr>
+            <td valign="top"><img src="images/spacer.gif" width="3" height="3"></td>
+          </tr>
+          
+          
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:4");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=793898472&amp;what=zone:4&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a9ea8738' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:4&amp;n=a9ea8738' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=547487139&amp;what=zone:5&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a7dea562' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:5&amp;n=a7dea562' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:6");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=254969903&amp;what=zone:6&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a6c65eee' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:6&amp;n=a6c65eee' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:7");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=031524813&amp;what=zone:7&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a5c6000b' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:7&amp;n=a5c6000b' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:8");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=153093889&amp;what=zone:8&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a8b8585a' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:8&amp;n=a8b8585a' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:25");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=472943350&amp;what=zone:25&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a9f1b3cb' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:25&amp;n=a9f1b3cb' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+                <script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:29");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+          </script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=494560589&amp;what=zone:29&amp;exclude=,"></script>
+              <noscript>
+                <a href='http://www.carwinsolutions.com/ams/adclick.php?n=a7ba7e03' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:29&amp;n=a7ba7e03' border='0' alt='' /></a>
+              </noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:31");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=499960489&amp;what=zone:31&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=aed1f30b' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:31&amp;n=aed1f30b' border='0' alt=''></a></noscript></td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:1px; "><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.carwinsolutions.com/ams/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:32");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.carwinsolutions.com/ams/adjs.php?n=600487639&amp;what=zone:32&amp;exclude=,"></script><noscript><a href='http://www.carwinsolutions.com/ams/adclick.php?n=a22af899' target='_blank'><img src='http://www.carwinsolutions.com/ams/adview.php?what=zone:32&amp;n=a22af899' border='0' alt=''></a></noscript></td>
+          </tr>
+          
+          <tr>
+            <td align="center" bgcolor="#C4CDD5" style="border: 1px solid #999999;"><a href="http://www.my1stop.com.my/ad/" target="_blank" style="color:#666666; font-weight:bold; text-decoration:none;">Advertise Here</a></td>
+          </tr>
+        </tbody></table></td>
       </tr>
     </tbody></table></td>
   </tr>
@@ -785,7 +995,7 @@ var sc_text=2;
 <!-- End of StatCounter Code -->
 </td>
     <td style="border-top:2px solid #FFFFFF; " width="1">&nbsp;</td>
-    <td width="573" height="40" valign="middle" bgcolor="#C4CDD5" style="border-top:2px solid #FFFFFF; font-size:10px; color:#333333; padding:5px; line-height:110%;">Copyright © 2006-2007 Carwin Solutions. All Rights Reserved.<br>
+    <td width="573" height="40" valign="middle" bgcolor="#C4CDD5" style="border-top:2px solid #FFFFFF; font-size:10px; color:#333333; padding:5px; line-height:110%;">Copyright © 2006-2008 Carwin Solutions. All Rights Reserved.<br>
     Designated trademarks and brands are the property of their respective owners. Use of this Website constitutes acceptance of the My1Stop <a href="/v1/index.php?content=user">User Agreement</a> and <a href="/v1/index.php?content=privacy">Privacy Policy</a>. </td>
   </tr>
 </tbody></table>
