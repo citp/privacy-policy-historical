@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530183133id_/http%3A//noamdesign.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912055401id_/http%3A//www.noamdesign.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Noam Design Privacy Policy
+
+## Web Design Company, New York | Website Design Firm | Website Development Company, New York, NY
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every pages of our website. 
 
 ## The information we collect
 
-This notice applies to all information collected or submitted on the **Noam Design** 's website or via phone with a **Noam Design** representative. The types of information collected are personal, billing and project related. We might also collect information from you regarding third parties in relation to you (i.e. hosting company etc…). 
+This notice applies to all information collected or submitted on the **Noam Design** 's website or via phone with a **Noam Design** representative. The types of information collected are personal, billing and project related. We might also collect information from you regarding third parties in relation to you (i.e. hosting company etc...). 
 
 ## The way we use information
 
