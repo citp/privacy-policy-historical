@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429020158id_/http%3A//neobits.com/do/privacy%3Bjsessionid%3DE9CBF1EF284999D4B3140C2E8FCC0912) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912110822id_/http%3A//www.neobits.com/do/privacy) for the most accurate reproduction.*
 
 # Neobits: Privacy Policy
 
