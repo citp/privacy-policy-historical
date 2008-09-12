@@ -1,42 +1,14 @@
-> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618051237id_/http%3A//www.myinternet.com/english/privacy.zpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912101231id_/http%3A//www.shortlist.com/privacy_policy) for the most accurate reproduction.*
 
-# MYINTERNET.COM: PREMIER DOMAIN NAME SERVICES
+# ShortList.com - Home - Privacy Policy
 
-**PRIVACY STATEMENT**
+Posted: 30 May 2008, 02:05
 
-_myinternet.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
+The Shortlist Commitment to Privacy
 
-**Your Personal Information**
+We are absolutely committed to protecting your privacy. We are also committed to the following: (1) We will not pass on any individual user details unless we have your prior consent; and (2) if we don't have your consent to pass on individual user details, we will only give advertisers aggregate statistics about the number of users and their traffic patterns.
 
-When you sign up for membership at _myinternet.com_ , we require the personal information listed in our application found at http://www. _myinternet.com_ /english/signup.zpml. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
+From time to time ShortList Media Ltd may invite you to provide personal information in order to provide you with services (such as email newsletters and competitions) and to enable you to order goods. In order to deliver such services or goods, ShortList Media Ltd will need to process and store your personal information and may need to transfer it to affiliates and service providers for processing both inside and outside the European Economic Area. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.   
+In order to enable ShortList Media Ltd to provide you with a personalised browsing experience, this site may use 'cookie' information collection technology. The information gathered by ShortList Media Ltd cookies is limited to use within ShortList Media Ltd for the purposes of enhancing your experience on ShortList.com. ShortList Media Ltd will only use your personal information for purposes for which you have consented and will not sell or rent your personal information to third parties for marketing purposes without such consent. ShortList Media Ltd follows strict security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. ShortList Media Ltd also requires those parties to whom ShortList Media Ltd transfers personal information to comply with the same.
 
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@myinternet.com](mailto:support@myinternet.com). 
-
-**Who Has Access?**
-
-The employees, agents and business partners of _myinternet.com_ are independently responsible for ensuring compliance with our Privacy Statement. Only those employees who have a legitimate business purpose for accessing and handling your personal information are given authorization to do so. Our information management systems are designed in such a way as to block employees from accessing information without authority. 
-
-**How We Use It**
-
-_myinternet.com_ uses your personal information to accurately track and administer your account. We also use this information to provide you with important notices and to generally keep in touch with you about new product or service offerings or the offerings of our business partners. 
-
-**Sharing Domain Information**
-
-_myinternet.com_ may disclose personal information about you if required to do so by law or other regulatory authority. 
-
-**Your Privacy Concerns**
-
-If you feel that _myinternet.com_ has violated our Privacy Statement in any way, contact us via email at [support@myinternet.com](mailto:support@myinternet.com). 
-
-Legal contact: 
-
-            Traci S. Umberger, Esq.  
-            General Counsel  
-            10900 NE 4th Street, Suite 1630  
-            Bellevue, WA 98004  
-            [legal@ _myinternet.com_ ](mailto:legal@myinternet.com)  
-
-
-* * *
-
-© _myinternet.com._ 1998-2000. All Rights Reserved.
+You can contact ShortList Media Ltd regarding the Terms and Conditions of the website policy by mail, at ShortList Media Ltd, 6-8 Emerald Street, London, WC1N3QA. Attention: Webmaster.
