@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612143329id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912165814id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry
 
@@ -46,7 +46,7 @@ Honeyfund.com may use certain third party vendors (e.g., data storage and proces
 
 ### Changing your personal information
 
-You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should contact Honeyfund.com by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line. You may also write to Honeyfund.com at 1705 Ronne Drive, Santa Rosa, CA 95404.
+You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should contact Honeyfund.com by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line. You may also write to Honeyfund.com at 7600 Washington Avenue, Sebastopol, CA 95472.
 
 ### Other websites
 
@@ -70,4 +70,4 @@ If you want to prevent a third-party advertiser from collecting data, currently 
 
 ### Contact Information
 
-If you have questions or concerns regarding this statement, you should contact Honeyfund.com by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com at 1705 Ronne Drive, Santa Rosa, CA 95404.
+If you have questions or concerns regarding this statement, you should contact Honeyfund.com by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com at 7600 Washington Avenue, Sebastopol, CA 95472.
