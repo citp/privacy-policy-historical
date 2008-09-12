@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charliessexyangels.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430064033id_/http%3A//www.kittykarsen.com/tour3/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliessexyangels.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912202852id_/http%3A//www.superpornopass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
