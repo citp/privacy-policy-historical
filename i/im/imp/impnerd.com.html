@@ -1,0 +1,480 @@
+<!--The following is the downloaded HTML source of the impnerd.com privacy policy that was archived on 2008-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912060809id_/http%3A//impnerd.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy Policy</title>
+
+<meta name="generator" content="WordPress"> <!-- leave this for stats -->
+<meta name="robots" content="noarchive">
+<link rel="stylesheet" href="/wp-content/themes/clean-imp/style.css" type="text/css" media="screen">
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="/wp-content/themes/clean-imp/ie-style.css" type="text/css" media="screen" />
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="impNERD RSS Feed" href="/feed">
+<link rel="pingback" href="/xmlrpc.php">
+<link rel="shortcut icon" href="/wp-content/themes/clean-imp/favicon.ico">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://impnerd.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://impnerd.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.6.2">
+
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content");
+			addComment.parentNode.removeChild(addComment);
+			content.appendChild(addComment);
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	font-size:				98%;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://impnerd.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://impnerd.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	width: 					100%;	
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+/*
+#addcomment small, #addcomment div
+{
+	padding:				3px;
+}
+*/
+#commentform textarea {
+	width: 97%;
+}
+</style>
+<meta name="description" content="The privacy of our visitors to PoemofQuotes.com is important to us. Here is information on the types of personal information ...">
+</head>
+<body>
+<div id="wrapwrap">
+<div id="wrapper">
+<div id="top">
+<div id="title">
+<a href="/"><img src="/wp-content/themes/clean-imp/images/impnerd.png" alt="Internet marketing and publishing"></a>
+</div>
+<div id="tnav">
+<ul>
+    <li><a href="/" class="home">Home</a></li>
+    <li><a href="/archives">Archives</a></li>
+    <li><a href="/contact">Contact</a></li>
+    <li><a href="/what-is-firefox">Firefox</a></li>
+    <li><a href="/glossary-of-web-terms">Glossary</a></li>
+    <li><a href="/free-wordpress-themes">Themes</a></li>
+</ul>
+</div>
+</div>
+<div id="middle">
+<div class="oddmiddle">
+<h2>About impNERD</h2>
+impNERD is the place to find information on internet marketing, publishing and tips for web development.
+<a href="/about">Read more »</a>
+</div>
+<div class="evenmiddle">
+<h2>Popular Articles</h2>
+<a href="/web-development/adsense-myths-cures">AdSense Myths and Cures</a><br>
+<a href="/technology/stumbleupon-10-steps-to-100-friends">SU: 10 Steps to 100 Friends</a><br>
+<a href="/technology/10-lovely-valentines-day-wallpapers">10 Lovely Valentine's Wallpapers</a><br>
+<a href="/web-development/31-tips-on-gaining-links">31 Tips on Gaining Links</a><br>
+<a href="/web-development/how-to-hide-affiliate-links">How to Hide Affiliate Links</a><br>
+<a href="/web-development/seo-tips-for-wordpress">13 SEO Tips for WordPress</a>
+</div>
+<div class="oddmiddle">
+<h2>WordPress Plugins</h2>
+<a href="/downloads/wp-plugin-ribbons-for-change">Ribbons for Change</a><br>
+<a href="/downloads/keyword-snatcher">Keyword Snatcher</a><br>
+<a href="/downloads/random-ads">Random Ads</a><br>
+<a href="/downloads/featured-posts">Featured Posts</a><br>
+<a href="/downloads/seo-tip-of-the-day">SEO Tip of the Day</a>
+</div>
+<div class="evenmiddle">
+<h2>Subscribe</h2>
+<a href="/feed" onclick="javascript:urchinTracker('/goal-feed');" class="rss">Subscribe to impNERD via RSS</a><br>
+<a href="http://impnerd.com/what-is-rss" class="whatisrss">What is RSS?</a>
+<form style="margin:5px 0 13px;padding:0;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1455221', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+Subscribe via e-mail:
+<input type="text" class="subscribe" name="email">
+<input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1455221" name="url">
+<input type="hidden" value="ImpNerd.com" name="title">
+<input type="hidden" name="loc" value="en_US">
+<input type="submit" value="" class="submit">
+</form>
+</div>
+</div>
+	<div id="content">
+	<div class="contentcnr">
+	<div class="narrowcolumn">
+    		<h1 id="post-407" class="pagetitle">Privacy Policy</h1>
+			<div class="entry">
+				<p>The privacy of our visitors to PoemofQuotes.com is important to us. Here is information on the types of personal information we receive and collect when you visit impNERD.com. We will never sell your personal information to third parties.</p>
+<h2>Log Files</h2>
+<p>At impNERD.com, we collect and use the data collected within our log files. The information kept includes your IP address (Internet Protocol address), your ISP, the browser you used to visit our site, the time you visited our site, which pages you viewed, and what screen resolution you used.</p>
+<h2>Cookies and Web Beacons</h2>
+<p>We use cookies to store information, such as your username, when you visit our site.</p>
+<p>We also use third party advertisements on impNERD.com. Some of these advertisers may use cookies and web beacons when they advertise on our site, which may include your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. The information is generally used for geotargetting purposes (showing ads relevant to your location) or showing certain ads based on specific sites visited (such as showing poetry ads to someone who frequents poetry sites).</p>
+<p>You can choose to disable or turn off our cookies or third-party cookies within your browser settings or by managing your preferences in programs such as Norton Internet Security. However, this may effect your ability to search portions of our website as well as other sites. This includes inability to login to some services, such as logging into your members account.</p>
+
+				<div style="width: 300px; height: 50px; text-align: center; margin: 10px auto;">
+				<div style="float: left; margin-right: 20px;">
+				<a href="http://delicious.com/post?url=http://impnerd.com/privacy-policy&amp;title=Privacy Policy" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/delicious.png" alt="Add to Del.cio.us" title="Add to Delcious" style="width: 48px; height: 48px;">
+				</a>
+				</div>
+				<!--<div style="float: left;">
+				<a href="http://technorati.com/faves?add=http://impnerd.com" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/technorati.png" alt="Add to Technorati Favorites" style="width: 48px; height: 48px;" />
+				</a>
+				</div>-->
+				<div style="float: left; margin-right: 20px;">
+				<a href="http://www.stumbleupon.com/submit?url=http://impnerd.com/privacy-policy&amp;title=Privacy Policy" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/stumble.png" alt="Stumble It!" title="Stumble It!" style="width: 48px; height: 48px;">
+				</a>
+				
+				</div>
+				<!--<div style="float: left;">
+				<a href="http://digg.com/submit?phase=2&amp;url=http://impnerd.com/privacy-policy" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/digg.png" alt="Digg It!" title="Digg It!" style="width: 48px; height: 48px;" />
+				</a>
+				
+				</div>-->
+				
+				<!--<div style="float: left; margin-right: 20px;">
+				<a href="http://bloggingzoom.com/zoomit.php?url=http://impnerd.com/privacy-policy" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/bloggingzoom.png" alt="Zoom It!" title="Zoom It!" style="width: 48px; height: 48px;" />
+				</a>
+				
+				</div>-->
+				
+				<div style="float: left; margin-right: 20px;">
+				<a href="http://www.mister-wong.com/index.php?action=addurl&amp;bm_url=http://impnerd.com/privacy-policy&amp;bm_description=Privacy Policy&amp;bm_tags=" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/mister-wong.png" alt="Mister Wong" title="Add this page to Mister Wong" style="width: 48px; height: 48px;">
+				</a>
+				
+				</div>
+				
+				<div style="float: left;">
+				<a href="http://www.propeller.com/story/submit/?url=http://impnerd.com/privacy-policy" rel="nofollow" class="none">
+				<img src="http://impnerd.com/wp-content/plugins/addtothis/propeller.png" alt="Prop It!" title="Prop It!" style="width: 48px; height: 48px;">
+				</a>
+				
+				</div>
+				
+				</div>
+	
+							</div>
+	  		</div>
+	</div>
+<div id="side">
+<div id="sideblock">
+ <form action="http://www.google.com/cse" id="cse-search-box">
+    <input type="hidden" name="cx" value="partner-pub-2651980583632980:vkt89eetcfc">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="40">
+    <input type="submit" name="sa" value="Search">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>  <div class="advertise">
+  <a href="http://impnerd.com/advertise-on-impnerd"><img src="/wp-content/themes/clean-imp/images/advertise.png" alt="Advertise on impNERD"></a>
+ </div>
+ <h2>Sponsors</h2>
+<div class="block">
+<div class="performancingads_region" id="performancingads_region_3869" style="border: 0px; padding: 0px; width: 260px; height: 260px;">
+<div class="perfads_image_ad" style="margin: 0; padding: 0 0 0 0; width: 125px;float: left;font-size: 10px;">
+	<a href="http://www.visionmasterdesigns.com" rel="nofollow" title="Visionmasterdesigns.com"><img src="http://s3.amazonaws.com/performancingads/2_2888_1219586187_125x125.jpg" alt="Visionmasterdesigns.com" style="border: 0px;padding:0;margin:0;"></a>
+</div><div class="perfads_image_ad" style="margin: 0; padding: 0 0 0 10px; width: 125px;float: left;font-size: 10px;">
+	<a href="http://performancingads.com/shop/site/id/3114?origin=3761&amp;campaign=advertise+here" rel="nofollow" title="Advertise Here"><img src="http://ads1.performancingads.com/advertise_here.png" alt="Advertise Here" style="border: 0px;padding:0;margin:0;"></a>
+</div><div class="perfads_image_ad" style="margin: 0; padding: 10px 0 0 0; width: 125px;float: left;font-size: 10px;">
+	<a href="http://performancingads.com/learn/publishers?origin=3761" rel="nofollow" title="Make Money From Your Blog"><img src="http://s3.amazonaws.com/performancingads/3_3761_1220686993_125mmfyb.png" alt="Make Money From Your Blog" style="border: 0px;padding:0;margin:0;"></a>
+</div><div class="perfads_image_ad" style="margin: 0; padding: 10px 0 0 10px; width: 125px;float: left;font-size: 10px;">
+	<a href="http://performancingads.com/learn/advertisers?origin=3761" rel="nofollow" title="$25 off Performancing Ads"><img src="http://s3.amazonaws.com/performancingads/3_3761_1220686894_125pxadv.png" alt="$25 off Performancing Ads" style="border: 0px;padding:0;margin:0;"></a>
+</div>
+</div></div>
+<div class="block">
+<script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=751&amp;type=standard_127" type="text/javascript" id="ecard_widget"></script>
+</div>
+<div class="block">
+<!-- Sept 16 -->
+<a href="http://bullshitawards.com/" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/outgoing/ads/bsawards');"><img src="http://impnerd.com/wp-content/uploads/BSA125logo.png" alt=""></a>
+<!-- End Ad -->
+</div>
+</div>
+<div id="bigblock">
+ <h2>Categories</h2>
+ <ul>
+  <li><a href="http://impnerd.com/category/downloads"><span class="rplink">Download</span> - Download images and WordPress plugins created by impNERD.</a></li>
+  <li><a href="http://impnerd.com/category/reviews"><span class="rplink">Reviews</span> - Read reviews on products, services and websites.</a></li>
+  <li><a href="http://impnerd.com/category/technology"><span class="rplink">Technology</span> - The latest news on technology from the eyes of a nerd.</a></li>
+  <li><a href="http://impnerd.com/category/web-development"><span class="rplink">Web Development</span> - Get the latest tips and tricks on all the forms of web development.</a></li>
+ </ul>
+</div>
+<div id="sidebar">
+<ul><li><h2>Top Commentators</h2>
+<ol>
+<li><a href="http://thoushallblog.com" rel="nofollow">Yan Shall Blog</a></li>
+<li><a href="http://www.procashcow.com" rel="nofollow">bagus</a></li>
+<li><a href="http://www.directsaleswebmarketing.com/merging-blogs-internet-and-offline-markeing-together-id-like-your-thoughts/" rel="nofollow">Dennis Edell</a></li>
+<li><a href="http://thewahmblog.com" rel="nofollow">Work At Home Mom Tara</a></li>
+<li><a href="http://adieska.net/" rel="nofollow">adieska</a></li>
+<li><a href="http://callcentergal.com" rel="nofollow">callcentergal</a></li>
+<li><a href="http://ipentimento.com" rel="nofollow">Carol</a></li>
+<li><a href="http://ifyouwriteit.blogspot.com/" rel="nofollow">Descartes</a></li>
+<li><a href="http://info@frugalfergie.com" rel="nofollow">frugal fergie</a></li>
+<li><a href="http://www.pliggs.com" rel="nofollow">Geoserv</a></li>
+</ol></li></ul><!-- end of widget --></div>
+
+<div id="midbar">
+		<ul><li>			<h2>Recent Articles</h2>			<ul>
+						<li><a href="http://impnerd.com/web-development/top-10-search-engines">Top 10 Search Engines </a></li>
+						<li><a href="http://impnerd.com/web-development/how-to-rank-in-your-niche">How to Rank in Your Niche </a></li>
+						<li><a href="http://impnerd.com/web-development/take-that-damn-music-off-your-website">Take That Damn Music Off Your Website </a></li>
+						<li><a href="http://impnerd.com/web-development/31-tips-on-gaining-links">31 Tips on Gaining Links </a></li>
+						<li><a href="http://impnerd.com/technology/seven-love-wallpapers-to-cry-for">Seven Love Wallpapers to Cry For </a></li>
+						</ul>
+		</li></ul>
+</div>
+</div></div>
+<div id="footer">
+	<div class="clear">
+Copyright © 2007
+·
+<a href="http://impnerd.com/privacy-policy">Privacy Policy</a>
+·
+<a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a>
+·
+<a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a>
+ </div>
+</div>
+
+		<script type="text/javascript" src="http://73325.hittail.com/mlt.js"></script>
+<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3172999-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script src="http://stats.wordpress.com/e-200837.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'2493215',v:'ext',post:'407'});
+var load_cmc = function(){linktracker_init(2493215,407,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</div>
+</div>
+
+
+</body></html>
