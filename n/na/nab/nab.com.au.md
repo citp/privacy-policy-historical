@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609061026id_/http%3A//www.nab.com.au./About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912054242id_/http%3A//www.nab.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
 
-# NAB - Home Loan - Privacy Policy
+# NAB - National Australia Bank Privacy Policy
 
 ## Respecting your privacy and the law
 
@@ -150,6 +150,10 @@ If you have any issues you wish to raise with the Group, or would like to discus
   * You can fill out a “Resolving Problems” form outlining your issue that will then be forwarded to our customer satisfaction teams. You can obtain one of these forms from any of our branches or ask for one to be sent to you (see "Contacting Us" below).
 
 
+
+## Unsubmitted on-line applications.
+
+If I start but do not submit an on-line application, the Bank may contact me/us using the contact method I/we nominate in the application to offer help completing it. This may happen within 24 hours after I/we last enter information into the application. If I/we do not submit the on-line application, the information in it will be kept for 28 days then destroyed.
 
 For more information about our Privacy Policy, please call 13 22 65 and select the option to speak to a Customer Service Representative.
 
