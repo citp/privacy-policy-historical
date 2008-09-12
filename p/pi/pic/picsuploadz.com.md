@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsuploadz.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624030102id_/http%3A//picsuploadz.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsuploadz.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912212634id_/http%3A//picsuploadz.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Picsuploadz » More Information » Privacy Policy
 
