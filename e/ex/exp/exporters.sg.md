@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624134828id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912184627id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
 
 # Exporters.com.sg - Privacy Statement
 
