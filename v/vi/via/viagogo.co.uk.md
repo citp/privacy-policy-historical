@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610162346id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912033204id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
