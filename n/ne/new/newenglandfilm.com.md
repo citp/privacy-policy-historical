@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newenglandfilm.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142158id_/http%3A//www.newenglandfilm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandfilm.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912081626id_/http%3A//www.newenglandfilm.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at NewEnglandFilm.com
 
@@ -31,7 +31,7 @@ Similarly, when users choose to list a classified ad, they must list either thei
 
 Users have the option to join the NewEnglandFilm.com monthly email update. This is a private and voluntary email list which users may opt-out of at any time using the instructions below.
 
-To unsubscribe from our monthly email, send email to [monthly-update@NewEnglandFilm.com](mailto:monthly-update@NewEnglandFilm.com) with only the word "unsubscribe" in the BODY of your email message.  If you have any problems, [contact us](https://web.archive.org/web/20080608142158id_/http%3A//www.newenglandfilm.com/contact.htm). 
+To unsubscribe from our monthly email, send email to [monthly-update@NewEnglandFilm.com](mailto:monthly-update@NewEnglandFilm.com) with only the word "unsubscribe" in the BODY of your email message.  If you have any problems, [contact us](https://web.archive.org/web/20080912081626id_/http%3A//www.newenglandfilm.com/contact.htm). 
 
 Our online surveys and contests ask visitors for contact information (like their e-mail address) and demographic information (like their buying habits). The customer's contact information is used to contact the visitor only if they are the contest winner. Demographic and profile data collected through these surveys and contests are used for statistical purposes only and are not associated with individuals. As part of all surveys and contests, users may choose to join our email list or not to join.
 
@@ -45,7 +45,7 @@ This site contains links to other sites. NewEnglandFilm.com is not responsible f
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20080608142158id_/http%3A//www.newenglandfilm.com/contact.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20080912081626id_/http%3A//www.newenglandfilm.com/contact.htm).
 
 **Privacy Policy Updates**
 
