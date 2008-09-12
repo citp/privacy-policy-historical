@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609085746id_/http%3A//www.airgas.com/customer_service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912153553id_/http%3A//www.airgas.com/customer_service/privacy.aspx) for the most accurate reproduction.*
 
 # Airgas.com - Gas, Welding, Safety Supply
 
