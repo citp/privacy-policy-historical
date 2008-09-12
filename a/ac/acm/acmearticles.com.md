@@ -1,20 +1,7 @@
-> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609100400id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912232711id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
 
 # ACME Articles | Free Article Directory
 
-| 
-
-Acmearticles.com is for sale. We averaged over 6000 unique visitors per month in 2007 and have been in profit for over a year. Acme Articles is built on Article Dashboard and is very easy to maintain if you have a couple extra hours a week to dedicate. Serious inquiries only please. email forsale @ acmearticles.com to make an offer   
-I will provide 1 year free hosting for the right offer
-
-**Acme Articles provides free article submission for authors promoting a web site and free quality** **content** **for webmasters.**
-
-**Feel free to browse our articles and sign up for an account[ HERE](http://www.acmearticles.com/signup.php) .   
-[Members LOGIN HERE!](http://www.acmearticles.com/login.php)**
-
-***Click here to BOOKMARK Acme Articles!***  
-  
----  
 ACME Articles Privacy Policy
 
   
@@ -61,10 +48,14 @@ AcmeArticles.com reserves the right to change this policy at any time. Please ch
 Governing law
 
   
-This policy and the use of this Site are governed by New Hampshire law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Concord. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Michigan law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Antrim. Any costs and fees including attorney fees incurred by Acme Articles associated with the mediation or additional suit will be paid for by you. ie...the party bringing the suit or mediation issues.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Concord, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Antrim, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-****
+| 
+
+Join the Acme Articles Ezine 
+
+********
