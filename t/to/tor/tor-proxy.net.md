@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624074950id_/http%3A//tor-proxy.net/en/node/28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912194628id_/http%3A//www.tor-proxy.net/en/node/28) for the most accurate reproduction.*
 
 # Privacy Policy | Tor-Proxy.NET
 
@@ -36,7 +36,11 @@ Thus the hash value is clear, it cannot be reckoned back with the at present ava
 
 As far as Tor-Proxy.NET links to other websites, I do not have any influence on their data security practices. 
 
-### § 4 - FireFox Add-on
+### § 4 - Google Adsense
+
+You must have and abide by an appropriate privacy policy that clearly discloses that third parties may be placing and reading cookies on your users’ browser, or using web beacons to collect information, in the course of ads being served on your website. Your privacy policy should also include information about user options for cookie management.
+
+### § 5 - FireFox Add-on
 
 The FireFox Add-on submits the URL to be called to Tor-Proxy.NET when it is used. No other data is collected, stored or submitted. The source is publicly observable and can be examined by everyone.
 
