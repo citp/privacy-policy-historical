@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609103547id_/http%3A//www.homeseer.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913011328id_/http%3A//www.homeseer.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # HomeSeer: Privacy Policy
 
