@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submitarticlesfree.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510003342id_/http%3A//www.submitarticlesfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitarticlesfree.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912235602id_/http%3A//www.submitarticlesfree.com/privacy.php) for the most accurate reproduction.*
 
-# Article Directory | Submitarticlesfree.com
+# Article Directory | Submit Articles Free | Submitarticlesfree.com
 
 **submitarticlesfree.com Privacy Policy**
 
@@ -68,6 +68,4 @@ This statement and the policies outlined herein are not intended to and do not c
 
 [](http://www.readezarchive.com/elite/) [](http://www.e-articole.ro/topsites/) [](http://www.submitarticlesfree.com/toparticledirectory/)   
 [ ](http://www.trafficswarm.com/go.cgi?792670)  
-  
-  
----|---
+
