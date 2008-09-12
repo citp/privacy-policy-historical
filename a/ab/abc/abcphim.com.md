@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcphim.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609191647id_/http%3A//www.abcphim.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcphim.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912061910id_/http%3A//www.abcphim.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,6 @@ We may use your personal information to provide you with important information a
 
  **Questions:**
 
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20080609191647id_/http%3A//www.abcphim.com/index.php?target=forms&name=contact_us) form. 
+If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20080912061910id_/http%3A//www.abcphim.com/index.php?target=forms&name=contact_us) form. 
 
 We may occasionally modify this privacy statement. All such changes will be reflected on this web page. 
