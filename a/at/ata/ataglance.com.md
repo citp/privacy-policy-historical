@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425102440id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26portfolio%3Dfalse%26mainnav%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912204230id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26mainnav%3DY) for the most accurate reproduction.*
 
 # Customer Service
 
