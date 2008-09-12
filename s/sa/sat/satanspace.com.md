@@ -1,114 +1,99 @@
-> *The following text is extracted and transformed from the satanspace.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518192218id_/http%3A//www.satanspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satanspace.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912131315id_/http%3A//www.satanspace.com/privacy) for the most accurate reproduction.*
 
 # SatanSpace : Horror movies, metal videos, gothic profile pictures, evil layouts, forum from hell, and more.
 
-**CraveOnline's Commitment To Privacy**
+****
 
-This policy governs the domains craveonline.com, and satanspace.com.  
-If you catch one of our interns peeking in your windows, that's an entirely separate situation.  
-That sort of thing would be handled by their parents. Or the authorities.
+**SATANSPACE  
+ Privacy Policy  
+**
 
-CraveOnline is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to [contact us](http://www.craveonline.com/contact/) with any questions or concerns.
+This privacy policy was last modified on June 13, 2008.
 
-**What CraveOnline Does**
+CraveOnline, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use SatanSpace.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-We operate a content portal that combines the best of entertainment and other interests in one place. We sell advertisements throughout out site on behalf of advertisers.
+**Information We Collect**
 
-CraveOnline Promotions: We develop customized online promotional campaigns such as sweepstakes and other incentive-style marketing campaigns.  
-CraveOnline Mail: CraveOnline operates an e-mail newsletter that it sends to users that have registered to receive it.
+**User-Provided Information:**  You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
-**How CraveOnline Products and Services Enhance User Privacy and Protect the Property of Advertisers and Web Publishers**
+**Cookies Information:**  When you visit SatanSpace.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-CraveOnline serves ads throughout our site and those of our partners. The cookies that are employed across our represented websites serve a quantitative function and are not designed to collect and store data profiles on users. They are used to:
+**Log File Information:**  Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-� Report to advertisers and Web site clients the estimated total reach of an ad campaign;  
-� Report the frequency with which an ad was shown to a user, and other measurement statistics;  
-� Ensure that an advertisement displayed to a user corresponds to the correct click-through destination;  
-� Deliver a series of advertisements in the proper sequence;   
-� Limit the number of times a browser is delivered the same advertisement;  
-� Login registered CraveOnline user accounts  
-� Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique. 
+Clear Gifs Information:  When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
-Destruction timetable:  
-user cookies ("users_uid") expire one year after the last time the user successfully logged in to their CraveOnline account.  
-anonymous cookies ("tracking_anonid") expire 6 months from the date of the last visit to CraveOnline.
+**How We Use Your Information  
+**
 
-CraveOnline does not use any of the data collected via cookies for purposes other than those described above, nor do we merge personally identifiable information with non-personally identifiable information, or otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non-PII is collected by CraveOnline through session cookies that terminate when the browser is closed.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.  
 
-CraveOnline Media thus has no reason to offer users the choice to "opt-out" of anything that pertains to ad serving.
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-**What User Information Is Collected by Email and Promotions**
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to [info@SatanSpace.com](mailto:info@SatanSpace.com?subject=No%20email) with the word "No email" in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
 
-CraveOnline Media collects two types personally identifiable information only through its Email and Promotions business lines.
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.  
 
-**Personally Identifiable Information ("PII")**
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
 
-PII is personal information classified as personal to the online consumer, such as name, address, phone number and email address. PII also includes other personal information such as birthdate, zip code, gender, or lifestyle information.
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
 
-CraveOnline's Email and Promotions divisions collect PII on an opt-in basis only. CraveOnline Media will not collect any PII unless that user voluntarily provides it to us. If you do not want your personal information collected online, please do not submit it to surveys, promotions, sweepstakes, or subscriptions.PII is collected by CraveOnline Media when online users respond to a survey and provide it, when they register for an email newsletter, register for a product or service online, or enter a sweepstakes promoted by CraveOnline, its subsidiaries or its partners. Selected partners of CraveOnline Media will share information with CraveOnline Media about only their online consumers who have consented to the sharing of their information with third parties.
+**How We Share Your Information  
+**
 
-Furthermore, each individual in the CraveOnline Email database has answered positively to an "opt in" question, or they have voluntarily filled out an Internet survey card to receive email solicitation about products of interest. CraveOnline Media and its partners communicate with these users frequently to verify their "opt in" status. CraveOnline Media also provides users with an explicit opportunity to opt-out every time an email promotion is sent.
+**Personally Identifiable Information:**  Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties' use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
 
-In all instances, prior to providing PII information to CraveOnline's Email or Promotions divisions, each online user is given meaningful notice regarding the collection practice and a choice regarding the dissemination of such information. All users are informed about how CraveOnline Media and its partners may use such information, including whether it will be shared with marketing partners or combined with other information available to CraveOnline. Users will always be offered the choice not to provide PII or not to have such PII shared with others. CraveOnline Media will not share this PII information with any partner company if the user indicates on the registration form the preference to limit the use of such information.
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.  
 
-CraveOnline Media does not collect personal medical information or credit information, or information related to children, except in compliance with the Children's Online Privacy Protection Act.
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
 
-**How CraveOnline Media Uses Collected Information**
+Non-Personally Identifiable Information:  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
 
-Personally Identifiable Information (PII) is used by CraveOnline Media in several ways, as follows:
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-Promotions and Email divisions use the PII to deliver permission-based direct marketing messages based on a user's expressed interests.
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
 
-If an online user voluntarily submits its email address to CraveOnline, or one of its partners, online, he or she may receive periodic emails from CraveOnline Media with information on new services or products being offered by our company or by one of our partners.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
 
-Opting Out From CraveOnline's List of Permissioned Email Addresses
+**How We Protect Your Information  
+**
 
-If you are a member of our database and do not wish to receive such mailings, send an email to [info@craveonline.com](mailto:info@craveonline.com).
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  
 
-**With Whom Collected Information Is Shared**
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
 
-CraveOnline Media shares the collected information only as set forth below. CraveOnline Media does not sell or transfer the ownership of its PII or Non-PII. CraveOnline Media provides its partners only with access to such information on a limited basis. Before any access is shared with a partner, CraveOnline Media ensures that such partner publishes and adheres to strict privacy principles regarding the use of such information. Any such use is disclosed to the online user at the time such user submits information.
+**Compromise of Personal Information  
+**
 
-Personally Identifiable Information (PII): in cases where an online consumer has consented to have their information shared with third parties, CraveOnline Media will make access to the information available to selected third party partners in accordance with clearly stated guidelines.
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-Non-Personally Identifiable Information (Non-PII): Access to Non-PII is shared, in aggregated format, with CraveOnline's Web site and advertiser clients who use the aggregated data to determine the reach, effectiveness, future campaign plans, and success of their advertising campaigns. At no time is this non-PII merged with PII. It is useless to any and all parties except as quantifiable data to our advertisers and clients who wish to measure the effectiveness of their campaigns. 
+**Your Choices About Your Information  
+**
 
-Opting Out From GNM Promotions Database
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.  
 
-An online user may request removal of his or her PII information from GNM's Promotions database by sending an email to [info@craveonline.com](mailto:info@craveonline.com).
+**Children's Privacy  
+**
 
-Any consumer who prefers not to provide this information online, can send regular mail to the following address:
+Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@SatanSpace.com](mailto:info@SatanSpace.comsubject=Information%20regarding%20child%20under%2013). 
 
-Privacy @ CraveOnline  
-12910 Culver Blvd Suite F  
-Los Angeles, CA 90066
+**Links to Other Web Sites  
+**
 
-Once a request to opt-out has been received, CraveOnline Media will deliver a confirming email message to the user that the user's PII has been successfully opted out of our database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. 
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-**Security and Access to Collected Information**
+**Notification Procedures  
+**
 
-Collection from reliable sources: CraveOnline Media collects information only from reliable third party partners that have strict and clearly stated privacy and data collection practices in place.
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-Protection of collected data: CraveOnline Media maintains strict data security systems that ensure specific information will not be made available to any unauthorized person. All collected information is stored on our Web server or database but is not publicly accessible from our Web site. CraveOnline Media uses a password protected security system to control access to information stored about its users. CraveOnline Media also provides stringent physical security and only provides access to authorized personal.
+**Changes to Our Privacy Policy  
+**
 
-Dissemination restrictions: CraveOnline Media will provide access to collected PII data only to those partners that adhere to fair information practices for lawful, non-discriminatory purposes.
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.   
 
-**Disclosure and Changes to Our Privacy Policy**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [info@SatanSpace.com](mailto:info@SatanSpace.com?subject=Questions), or send mail to:
 
-CraveOnline Media makes available all of its information practices at [www.craveonline.com/privacy](http://www.craveonline.com/privacy/). In addition, CraveOnline Media provides users with the option to contact it at [info@craveonline.com](mailto:info@craveonline.com) with any further questions or concerns.
-
-All email or media companies that provide CraveOnline Media with opt-in email names are required to post their privacy policies clearly.
-
-**Third Party Ad Servers**
-
-CraveOnline Media and some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies.
-
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit their respective web sites.
-
-**Linked Web Sites**
-
-This Web site contains links to other Web sites. CraveOnline Media is not responsible for the privacy practices or the content of such Web sites. CraveOnline Media encourages you to read the privacy statements of these linked Web sites, as their privacy policy may differ from ours.
-
-**For More Information**
-
-For more information about CraveOnline, please contact us at [info@craveonline.com](mailto:info@craveonline.com).
+CraveOnline, LLC  
+4859 W. Slauson Ave., Suite 549  
+Los Angeles, CA  90056  
+Attn:  General Counsel
