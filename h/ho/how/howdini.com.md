@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howdini.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613020128id_/http%3A//www.howdini.com/H_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howdini.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912022918id_/http%3A//www.howdini.com/H_privacy.php) for the most accurate reproduction.*
 
-# Howdini : Privacy Policy
+# Privacy Policy : Howdini
 
 This Privacy Statement was last updated on December 18, 2007.
 
