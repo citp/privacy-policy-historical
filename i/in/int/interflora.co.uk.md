@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426065850id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912183016id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ If you are a new or existing customer, and where you permit selected third parti
 
 Your Personal Information will be transferred to Shopper Discounts & Rewards (a company owned and operated by Webloyalty International Limited (hereinafter, Webloyalty), which is not affiliated with Interflora, if you give your consent to this in the process outlined below:
 
-(i) If you have clicked the “CONTINUE” button on the Interflora purchase check-out page displayed once you have submitted an order on the Website, agreeing to view details of the discount voucher offer made in conjunction with Webloyalty, and Webloyalty’s terms and conditions of such offer and services; and  
+(i) If you have clicked the “CONTINUE” or “CLICK HERE” buttons on the Interflora purchase check-out page displayed once you have submitted an order on the Website, agreeing to view details of the discount voucher offer made in conjunction with Webloyalty, and Webloyalty’s terms and conditions of such offer and services; and   
 (ii) If you have consented to having Interflora transfer your Personal Information to Webloyalty by providing your e-mail address and clicking the button beneath on the Webloyalty webpage, consenting to such transfer.
 
 If you do consent to your Personal Information being disclosed by us to Webloyalty as referenced above, your Personal Information will be held by Webloyalty for the purposes set out in Webloyalty’s privacy policy. Therefore, you are strongly advised to read Webloyalty’s privacy policy and satisfy yourself as to the purposes for which Webloyalty will use your Personal Information before agreeing to Webloyalty’s terms and conditions. We have no responsibility for the uses to which Webloyalty International Limited puts your personal information.
