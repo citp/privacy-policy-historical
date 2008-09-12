@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611185956id_/http%3A//react2media.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912132009id_/http%3A//www.react2media.com/privacy_policy.html) for the most accurate reproduction.*
 
 # React2Media
 
