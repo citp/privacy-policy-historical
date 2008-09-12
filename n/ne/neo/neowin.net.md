@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611091549id_/http%3A//www.neowin.net/index.php%3Fact%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912075908id_/http%3A//www.neowin.net/index.php%3Fact%3Dinfo_privacy) for the most accurate reproduction.*
 
 # Neowin.net - Where unprofessional journalism looks better
 
-getting ready to get to the jam sessions party at universal tonight. Will be posting all t...
+Shift Linux is the Neowin community's very own Linux Distro. Based on Ubuntu, it is available in KDE, Gnome and Lite flavours.
+
+[Official Website](http://www.shiftlinux.net/) [Download Shift](http://www.shiftlinux.net/download) [Forums](http://www.neowin.net/forum/index.php?showforum=182) Current Version: 0.6.5
 
 ### Privacy Statement
 
