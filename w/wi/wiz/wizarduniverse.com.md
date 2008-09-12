@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/privacy.html) for the most accurate reproduction.*
 
 # WizardUniverse.com Privacy Policy
 
-[](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/index.html)
+[](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)
 
-| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/index.html)| | [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/comics.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/toys.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/movies.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/tv.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/games1.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/anime.html)| [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/blogs.html)| [](http://wizarduniverse.invisionzone.com/)|   
+| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)| | [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/comics.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/toys.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/movies.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/tv.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/games1.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/anime.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/blogs.html)| [](http://wizarduniverse.invisionzone.com/)|   
 ---|---|---|---|---|---|---|---|---|---|---  
-| | [](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/index.html)| | **HOT TOPICS**  
+| | [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)| | **HOT TOPICS**  
 ---|---  
 | | [ WIZARD TV](http://www.wizarduniverse.com/wizardtv.html)  
 | | [Weekly Comic Book Roundups](http://www.wizarduniverse.com/wuroundupspage.html)  
@@ -23,7 +23,7 @@
 WORLD TOUR**  
 ---|---  
 | | [Philadelphia](http://www.wizarduniverse.com/wizworeas20.html)  
-| | [Chicago](http://www.wizarduniverse.com/wizworchic20.html)  
+| | [Chicago Comic-Con](http://www.wizarduniverse.com/wizworchic20.html)  
 | | [Texas](http://www.wizarduniverse.com/wiwote20.html)  
 | | [Los Angeles](http://www.wizarduniverse.com/wiwolosan20.html)  
 |  **SUBSCRIPTIONS**  
@@ -39,21 +39,21 @@ WORLD TOUR**
 
  **THE WIZARD POLL**  
 ---  
-[](http://www.wizarduniverse.com/apr083474.html)  
+[](http://www.wizarduniverse.com/jul083581.html)  
 ---  
-[Wizard Magazine #201 Summer Preview Cover](http://www.wizarduniverse.com/apr083474.html)  
-[](http://www.wizarduniverse.com/apr083475.html)  
-[Wizard Magazine #201 Steve McNiven X-Men Cover](http://www.wizarduniverse.com/apr083475.html)  
-[](http://www.wizarduniverse.com/mar083352.html)  
-[Anime Insider #57 Death Note Cover](http://www.wizarduniverse.com/mar083352.html)  
-[](http://www.wizarduniverse.com/mar083351.html)  
-[ToyFare #131 Hulk Movie Cover](http://www.wizarduniverse.com/mar083351.html)  
+[ToyFare #135 Star Wars: The Clone Wars](http://www.wizarduniverse.com/jul083581.html)  
+[](http://www.wizarduniverse.com/jul083579.html)  
+[Wizard Magazine #204 Mike Choi Captain America/Iron Man/Thor Cover](http://www.wizarduniverse.com/jul083579.html)  
+[](http://www.wizarduniverse.com/jul083580.html)  
+[Wizard Magazine #204 HEROES TV Photo Cover](http://www.wizarduniverse.com/jul083580.html)  
+[](http://www.wizarduniverse.com/jun083592.html)  
+[Anime Insider #60 Death Note Cover](http://www.wizarduniverse.com/jun083592.html)  
 | | | |   
 ---|---|---  
 | ****  
 ---  
   
-[Home](https://web.archive.org/web/20080608221102id_/http%3A//www.wizarduniverse.com/index.html) > WizardUniverse.com Privacy Policy
+[Home](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html) > WizardUniverse.com Privacy Policy
 
 |   
 ---  
@@ -124,5 +124,5 @@ Ultimately, **you** as a user are solely responsible for maintaining the secrecy
 Should you have any further questions about WizardUniverse.com’s privacy policies and procedures, please e-mail us at [privacy@wizarduniverse.com ](mailto:privacy@wizarduniverse.com) Thank you, be smart out there, and have a blast!  
   
  _Share this article_  
-[](http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Slashdot It!") [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Digg This Story") [](http://reddit.com/submit?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Reddit") [](http://del.icio.us/post?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Save to del.icio.us") [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F "Share on Facebook") [](http://technorati.com/faves?add=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F "Add to my Technorati Favorites") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Save to Google Bookmarks") [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html%2F&title=WizardUniverse.com%20Privacy%20Policy "Stumble it!")  
+[](http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Slashdot It!") [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Digg This Story") [](http://reddit.com/submit?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Reddit") [](http://del.icio.us/post?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Save to del.icio.us") [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html "Share on Facebook") [](http://technorati.com/faves?add=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html "Add to my Technorati Favorites") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Save to Google Bookmarks") [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.wizarduniverse.com%2Fprivacy.html&title=WizardUniverse.com%20Privacy%20Policy "Stumble it!")  
 | 
