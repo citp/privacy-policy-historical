@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608140223id_/http%3A//www.nigella.com/detail.asp%3Farticle%3D202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912094229id_/http%3A//www.nigella.com/detail.asp%3Farticle%3D202) for the most accurate reproduction.*
 
 # Nigella Template
 
