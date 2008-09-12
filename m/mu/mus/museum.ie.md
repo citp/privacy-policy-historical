@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2008-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080204114155id_/http%3A//www.museum.ie/generic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912184619id_/http%3A//www.museum.ie/en/fns/privacy-statement.aspx) for the most accurate reproduction.*
 
-# National Museum of Ireland
+# Privacy Statement
 
-**PRIVACY POLICY FOR NATIONAL MUSEUM OF IRELAND  
-**   
-The National Museum of Ireland fully respects your right to privacy and will collect no personal information about you when you visit this website. 
+The National Museum of Ireland fully respects your right to privacy and will collect no personal information about you when you visit this website, unless you volunteer personal details while using our online forms e.g. Enquiry form, Booking Enquiry form, Subscribe to Mailing list form, etc.
 
 However technical details in connection with your visit are logged automatically by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors.
 
 The technical details logged are confined to the following items: 
 
-  * the IP address of the your computer (an IP address is the number automatically assigned to your computer when you are surfing the web);
-  * the type of browser and operating system used to access our site (for example Internet Explorer, Firefox, Windows, Linux)
-  * the date and time of when you access our site;
+  * the IP address of the your computer (an IP address is the number automatically assigned to your computer when you are surfing the web); 
+  * the type of browser and operating system used to access our site (for example Internet Explorer, Firefox, Windows, Linux) 
+  * the date and time of when you access our site; 
   * the pages you visit; and 
-  * the website from which you accessed our site including any search terms used
+  * the website from which you accessed our site including any search terms used 
 
 
 
