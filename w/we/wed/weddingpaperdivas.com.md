@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630181109id_/http%3A//www.weddingpaperdivas.com/privacy-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912122240id_/http%3A//www.weddingpaperdivas.com/privacy-security.htm) for the most accurate reproduction.*
 
 # Wedding Paper Divas Privacy and Security
 
@@ -38,6 +38,13 @@ We use a secure server (SSL) certified by Thawte to encrypt all of your personal
 
 Third Party Sites  
 Our Websites may contain links to other websites for news and other information. Our Privacy Policy only applies to the Wedding Paper Divas websites and we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them. 
+
+Authorized Third Parties  
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. 
+
+You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website. You can do so by clicking: [http://www.networkadvertising.org](http://www.networkadvertising.org/ "networkadvertising.org")
+
+We also work with a third party to monitor certain pages of our website for the purpose of reporting website traffic and other advertising statistics. Where authorized by us, this third party may use cookies and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is transferred to this third party. 
 
 Questions and Suggestions  
 If you have questions about this Privacy Policy, you can contact us at [info@weddingpaperdivas.com](mailto:info@weddingpaperdivas.com) or (877) 300-9256.
