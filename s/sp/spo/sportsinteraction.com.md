@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608124758id_/http%3A//www.sportsinteraction.com/sportsbook/index.cfm%3Fsection%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912175350id_/http%3A//www.sportsinteraction.com/sportsbook/index.cfm%3Fsection%3Dhelp_privacy) for the most accurate reproduction.*
 
-# Online Sports Betting. Sports Interaction Privacy Policy. NCAAB Odds, March Madness Betting.
+# Online Sports Betting. Sports Interaction Privacy Policy. Baseball Odds, NFL Odds and more.
 
   * FAQ/Knowledgebase
   * [Placing Bets](http://www.sportsinteraction.com/sportsbook/index.cfm?section=betplacement)
@@ -14,7 +14,7 @@
 
 We at Sports Interaction are committed to protecting your privacy at all times. We use the information collected on this site to make betting online with us an enjoyable experience, and to provide you with the highest standard of service. We never sell or rent your personal information to third parties.
 
-If you never want to receive announcements from us, or if you wish to change or correct any previously provided information, then you can change your options online at any time or you can email us with your request at [support@sportsinteraction.com](mailto:support@sportsinteraction.com). Alternatively, you can phone us Toll Free from North America on 1 888 922 5575, or on +1 450 635 5575 from the rest of the world.
+If you never want to receive announcements from us, or if you wish to change or correct any previously provided information, then you can change your options online by [clicking here](http://www.sportsinteraction.com/sportsbook/index.cfm?section=myaccount_options). For further assistance you can contact us via our Support page at <http://www.sportsinteraction.com/support>.
 
 [Click here](http://www.sportsinteraction.com/sportsbook/index.cfm?section=affiliate_spam_policy) to view our spam policy.
 
@@ -62,7 +62,7 @@ Betting with Sports Interaction is completely safe. All sensitive/financial info
 
 You can unsubscribe from email announcements at any time. To unsubscribe from either the odds by email service, or the weekly newsletter, simply login to your account and change your personal preferences under 'Personal Options', or alternatively, send an email to: [support@sportsinteraction.com](mailto:support@sportsinteraction.com).
 
-Our site also provides users with the opportunity to opt-out of receiving communications from us at the point of signing up. However, if at any time you wish to indicate that you never want to receive communications from us, then simply send an email to [support@sportsinteraction.com](mailto:support@sportsinteraction.com).
+Our site also provides users with the opportunity to opt-out of receiving communications from us at the point of signing up. However, if at any time you wish to indicate that you never want to receive communications from us, then simply contact us via our at <http://www.sportsinteraction.com/support>.
 
 ### Right to Change Internet Privacy Statement
 
@@ -70,12 +70,4 @@ Sports Interaction reserves the right to change this privacy statement at any ti
 
 ### Updating and Changing Information
 
-You can also update or change information which you previously provided us with. To do this you should contact us via one of the methods shown below.
-
-**Email:**[support@sportsinteraction.com](mailto:support@sportsinteraction.com)
-
-**Telephone:**
-
-Toll Free North America: 1 888 922 5575
-
-Rest of the World: +1 450 635 5575
+You can also update or change information which you previously provided us with by [clicking here](http://www.sportsinteraction.com/sportsbook/index.cfm?section=myaccount_options&updateSection=mailingAddress&action=display).
