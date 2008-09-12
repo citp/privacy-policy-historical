@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233414id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912153828id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
 # Gardening articledisplay
 
+  
+  
   
 |  |   
   
@@ -79,12 +81,10 @@ Please read on for more details about our privacy policy.
 |    
   
   
-  
-|  Phone Orders Welcome  
+|  Phone Calls Welcome!  
 ---  
 |   
 ---  
-Discounts available on bulk orders.  
-To discuss your requirements please call **0845 345 0728**  
-  
-
+|  **0845 345 0728**  
+We are happy to answer any questions you may have during office hours.   
+Bulk discounts available.
