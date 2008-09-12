@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142228id_/http%3A//www.txtlocal.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912203233id_/http%3A//www.txtlocal.co.uk/privacy.php) for the most accurate reproduction.*
 
-# SMS Marketing UK - Privacy Policy
+# Privacy Policy
 
-**Privacy Policy-Personal Data**
+###  Privacy Policy
 
-  
 txtlocal Ltd knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully. This section describes our privacy policy. 
 
 **Controllers of Personal Information**
@@ -37,7 +36,7 @@ Any personal information provided to txtlocal.com (txtlocal) is controlled prima
 
 1.10.3) txtlocal will only use the cookies created to personalise and secure Your experience. What this means is that when You use the site txtlocal will be able to keep certain settings for you for when You return. It also means that You do not need to pass security details on every screen as We store them for You during the time You spend browsing our site, these cookies are deleted when You leave. 
 
-It is Your responsibility to read and accept the Terms & Conditions[Terms & Conditions](http://www.txtlocal.co.uk/terms.php) which are associated with this Privacy Policy. 
+It is Your responsibility to read and accept the Terms & Conditions[Terms & Conditions](https://web.archive.org/web/20080912203233id_/http%3A//www.txtlocal.co.uk/terms.php) which are associated with this Privacy Policy. 
 
 **Notices**  
 General notices regarding the Service are posted on www.txtlocal.co.uk or www.txtlocal.com or the txtlocal partner websites or Your mobile operator’s web or WAP site if they are offering the txtlocal Services (as applicable). 
