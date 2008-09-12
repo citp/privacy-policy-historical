@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503195156id_/http%3A//www.realbuzz.com/en-gb/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912043631id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.*
 
-# Privacy Policy - realbuzz.com UK
+# Privacy Policy - realbuzz.com US
 
 This policy was last updated on October 29th 2007.
 
