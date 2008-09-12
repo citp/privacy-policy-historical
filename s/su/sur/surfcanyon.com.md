@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531115033id_/http%3A//www.surfcanyon.com/search/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912164417id_/http%3A//www.surfcanyon.com/search/privacy.jsp) for the most accurate reproduction.*
 
 # Surf Canyon
 
@@ -24,7 +24,7 @@ Surf Canyon is not directed towards children 13 years of age or under and we do 
 
 ### 1.3 Uses of Information
 
-Surf Canyon uses information for the following general purposes: to customize the search results and sponsored results on selected search engines (currently Google, Yahoo and MSN), improve our services, and provide anonymous reporting for internal and external clients.
+Surf Canyon uses information for the following general purposes: to customize the search results and sponsored results on selected search engines (currently Google, Yahoo!, MSN and Craigslist), improve our services, and provide anonymous reporting for internal and external clients.
 
 ### 1.4 Profile
 
