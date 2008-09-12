@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055323id_/http%3A//wiki.prx.org/display/HELP/PRX%2BPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912163739id_/http%3A//wiki.prx.org/display/HELP/PRX%2BPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # PRX Privacy Policy - Help - The Public Radio Exchange
 
