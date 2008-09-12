@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625125131id_/http%3A//www.dubaitourism.ae/Privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912190124id_/http%3A//www.dubaitourism.ae/PrivacyPolicy/tabid/224/language/en-US/Default.aspx) for the most accurate reproduction.*
 
-# Dubai - Department of Tourism and Commerce Marketing : Privacy Statement
+# Privacy Policy
 
-  
-**Internet Privacy Policy**
+Privacy Policy
+
+ **Internet Privacy Policy**
 
 Department of Tourism and Commerce Marketing is committed to providing excellent service to all our customers, including respecting their concerns about privacy. We have posted this privacy policy to help you, the user, to understand the nature of the personal information that is collected when you visit and use this web site and how that information will be treated. 
 
@@ -33,9 +34,9 @@ If you elect to contact us with any questions, comments or requests using one of
 
 The information that you include in any of the online forms described above will not be encrypted prior to transmission, so you should exercise good judgment about the nature of the information that you include in the form (e.g. do not include things like your credit card number in the comments field). The information that you include in the online forms will be used to respond to your questions, comments and requests and may be used by us, or entities acting on our behalf, for marketing and quality assurance purposes. However, that information will not be used or disclosed for any other purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to identify you. 
 
-You can also contact us by simply sending an e-mail addressed to [info@dubaitourism.ae](mailto:info@dubaitourism.ae)
+You can also contact us by simply sending an e-mail addressed to info@dubaitourism.ae
 
-**Disclosure of Information and Opt-Out**
+ **Disclosure of Information and Opt-Out**
 
 Department of Tourism and Commerce Marketing will not sell, trade, rent or release such information to entities outside of the Department of Tourism and Commerce Marketing, for their use without your approval and giving you the opportunity to opt-out. 
 
@@ -49,4 +50,4 @@ Your privacy concerns are important to us. We hope this privacy policy has been 
 
 **Questions Concerning This Internet Privacy Policy**
 
-If you have questions regarding this Internet Privacy Policy, please feel free to e-mail us at [info@dubaitourism.ae](mailto:info@dubaitourism.ae)
+If you have questions regarding this Internet Privacy Policy, please feel free to e-mail us at info@dubaitourism.ae
