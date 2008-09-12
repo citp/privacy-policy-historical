@@ -1,0 +1,480 @@
+<!--The following is the downloaded HTML source of the gengreenlife.com privacy policy that was archived on 2008-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912134128id_/http%3A//www.gengreenlife.com/node.php%3Fnid%3D3295) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="green, green businesses, green living, green products, green events, eco-friendly, earth-friendly, sustainable, local, localization, alternative energy, recycling centers, cooperatives, green living">
+	<meta name="Description" content="At GenGreen Life you can find practically everything you need to live a sustainable life, from local green businesses offering products and services within your own community, to events and classes where like-minded people gather to celebrate and educate.">
+
+	<title>GenGreen Life - GenGreen Privacy Policy</title>
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/scriptaculous.js"></script>
+<script type="text/javascript" src="/js/effects.js"></script>
+<script type="text/javascript" src="/js/accordion.js"></script>
+
+<script type="text/javascript">
+
+
+function gotoPage(url)
+{
+   if (url != "")
+   {
+      window.location = '/state.php?s=' + url;
+   }
+}
+
+function gotoCityPage(url)
+{
+   if (url != "")
+   {
+      window.location = '/city.php?c=' + url;
+   }
+}
+
+function gotoContentPage(section, state, city)
+{
+   if (city != "")
+   {
+      window.location = '/' + section + '.php?s=' + state + '&city=' + city;
+   }
+}
+
+function gotoContentNew(section, state)
+{
+	window.location = '/' + section + '.php?s=' + state;
+}
+
+
+</script>
+
+
+<style type="text/css">
+#dropmenudiv{
+position: absolute;
+margin-top: 6px;
+border: 1px solid #FFFFFF;
+border-bottom-width: 0;
+font: normal 10px Verdana;
+line-height: 18px;
+z-index: 100;
+text-align: left;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #FFFFFF;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+color: #517280;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #517280;
+color: #FFFFFF;
+}
+
+</style>
+
+<script type="text/javascript">
+
+
+var menu1=new Array()
+menu1[0]='<a href="/ambassador.php">Program Overview</a>'
+menu1[1]='<a href="/node.php?nid=46991">Ambassadors in Action</a>'
+
+var menu2=new Array()
+menu2[0]='<a href="ambassador.php">Ambassador Program</a>'
+<!--menu2[1]='<a href="/node.php?nid=5802">GenGreen Foundation</a>'-->
+
+var menu3=new Array()
+menu3[0]='<a href="/node.php?nid=5149">Business & Organization FAQ</a>'
+menu3[1]='<a href="/node.php?nid=42246">General FAQ</a>'
+
+var menu4=new Array()
+menu4[0]='<a href="/profile.php">My Profile</a>'
+menu4[1]='<a href="/friends.php">My Friends</a>'
+menu4[2]='<a href="/events.php">My Events</a>'
+menu4[3]='<a href="/mail.php">My Messages</a> '
+menu4[4]='<a href="/groups.php">My Groups</a>'
+menu4[5]='<a href="/photos.php">My Photos</a>'
+menu4[6]='<a href="/signin.php">Visit My State</a>'
+menu4[7]='<a href="/signin.php">Visit My City</a>'
+menu4[8]='<a href="/blogs.php">Write a Blog</a>'
+menu4[9]='<a href="/bulletins.php">Post a Bulletin</a>'
+
+	
+
+var menuwidth='165px' //default menu width
+var menubgcolor='#d7eff9'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#d7eff9" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
+	
+<link rel="stylesheet" href="/css/styles.css" type="text/css" media="all"><!--[if IE]> <link rel="stylesheet" href="/css/iestyles.css" type="text/css" media="all"/> <![endif]--><!--[if IE 7]> <link rel="stylesheet" href="/css/ie7.css" type="text/css" media="all"/> <![endif]--><!--[if lt IE 7]>
+
+        <link rel="stylesheet" href="/css/ie7minus.css" type="text/css" media="all"/>
+
+        <script type="text/javascript" src="/js/ds-sleight.js"></script>
+        <script type="text/javascript" src="/js/iehover-fix.js"></script>
+    <![endif]-->
+    
+    
+    
+
+    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
+    
+		          
+    
+  
+
+<script type="text/javascript">
+	function clearIt(elm) {
+		document.getElementById(elm).value = "";
+	}
+</script>
+
+<!-- [start] header -->
+<div style="background: #517280; height: 1px; text-align: right;"></div>
+<div class="header">
+	<div class="header-top-container">
+    	<div class="header-top">
+        <a href="/"><img src="images/logo.gif" alt="GenGreen Logo" align="left" border="0"></a>
+        	<div class="account-access">
+         
+                        <strong><a href="/node.php?nid=42523">Join GenGreen Life</a>  | <a href="/signin.php">Login</a></strong>
+            			| <a href="index.php">Home</a><br>
+			
+			<br>
+			        	</div>
+    	</div>
+    	<div class="header-nav">
+       		<div class="header-nav-links">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="node.php?nid=41616&amp;auth=1" class="header-nav-link">:: My Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--a href="/node.php?nid=5265" class="header-nav-link" onMouseover="dropdownmenu(this, event, menu1, '150px')" onMouseout="delayhidemenu()">:: About Us</a--><a href="/ambassador.php" class="header-nav-link" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">:: Ambassador Outreach Program</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=41491" class="header-nav-link">:: Environment 101</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=5150" class="header-nav-link">:: Environmental Glossary</a><!--a href="/node.php?nid=5149" class="header-nav-link" onMouseover="dropdownmenu(this, event, menu3, '180px')" onMouseout="delayhidemenu()">:: FAQ</a-->&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=1002" class="header-nav-link">:: Key Links</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.gengreenlife.com/" class="header-nav-link" target="_blank">:: GenGreen Blog</a></div>
+		</div>
+	</div>
+</div>
+<!-- [end] header --><!-- [start] middle -->
+        
+<div class="middle-container">
+	<div class="middle col-2-right-layout">
+    <!-- [start] center -->
+    	<div id="main" class="col-main" style="float: left;">
+        <!-- [start] global messages -->
+        <!-- [end] global messages -->
+        <!-- [start] content -->
+			<div class="home-spot" style="background: url('images/main-container-bg.jpg') repeat-y; padding-right: 30px;">
+						<a href="http://nwchocolatefestival.com/" target="_blank"><img src="images/ads/nwchocolate.jpg" border="0"></a><br><br>
+						<a name="topggl"></a>
+			<br>
+  <h2 class="main-head" style="display: inline;">GenGreen Privacy Policy</h2><br>
+
+   <div style="margin: 0 0 10px 0; padding-right: 15px;">
+  <p class="margins"><b> Updated on January 1, 2008</b></p>
+<p class="margins">Thank you for visiting the GenGreen Network ("GenGreen") website. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.</p>
+<p class="margins">Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See Privacy Act of 1974 (P.L. 93-579) for more information on your rights under the Privacy Act.</p>
+<p class="margins">For the protection of users of our websites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems.</p>
+<p class="margins"><b>Here is how we handle information about your visit to our website:</b></p>
+<p class="margins"><b>Information Collected and Stored Automatically<br> </b><br> The GenGreen web server collects and saves only the default information customarily logged by our server software. Specifically, for each http request received, the date and time, the origination IP address, the object requested, and the completion status of the request is collected and saved.</p>
+<p class="margins">We analyze these logs regularly to determine the
+traffic through the server in hits, the number of pages served, and the level of demand for pages of interest. We may also analyze accesses to particular pages to determine state the IP address is most likely in, government agency and schools versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission.</p>
+<p class="margins"><b>Kids Pages</b></p>
+<p class="margins">We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children's internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do however, sometimes encourage them to participate in contests, but such participation is carried out through postal mail.</p>
+<p></p>
+<p class="margins"><b>Privacy Statement</b></p>
+<p class="margins">The GenGreen Online Privacy Statement applies to data collected by GenGreen through the majority of its websites and services, as well as its offline product support services. It does not apply to those GenGreen sites, services and products that do not
+display or link to this statement or that have their own privacy statements.<br> <br> At some GenGreen sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose
+to make a purchase or sign up for a paid subscription service or make a donation, we will ask for additional information, such as your credit card number and billing address that is used to create a GenGreen billing account.</p>
+<p class="margins">We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with GenGreen sites and services. We also collect certain standard information that your browser sends to every website you visit, such as you IP address, browser type and language, access times and referring website addresses.</p>
+<p class="margins">When you receive newsletters or promotional e-mail from GenGreen, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused
+e-mail communications or other information.</p>
+<p class="margins">In order to offer you a more consistent and personalized experience in your interaction with GenGreen, information collected through one service may be combined with information obtained through other services. We may also supplement the information we
+collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.</p>
+<p class="margins"><b>Use of Your Personal Information</b></p>
+<p class="margins">GenGreen collects and uses your personal
+information to operate and improve its sites and deliver the services
+or carry out the transactions you have requested. These uses may
+include providing you with more effective customer service; making the
+sites or services easier to use by eliminating the need for you to
+repeatedly enter the same information; performing research and analysis
+aimed at improving our products, services and technologies; and
+displaying content and advertising that are customized to your
+interests and preferences.</p>
+<p class="margins">We also use your personal information to
+communicate with you. We may send certain mandatory service
+communications such as welcome letters, billing reminders, information
+on technical service issues, and security announcements. Some GenGreen
+services may send periodic member letters that are considered part of
+the service. We may also occasionally send you product surveys or
+promotional mailing to inform you of other products or services
+available from GenGreen and its affiliates.</p>
+<p class="margins">Personal information collected on GenGreen sites
+and services may be stored and processed in the United States or any
+other country in which GenGreen or it affiliates, subsidiaries or
+agents maintain faculties, and by using a GenGreen site or service, you
+consent to any such transfer of information outside of your country.
+GenGreen abides by the safe harbor framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of
+data from the European Union.</p>
+<p class="margins"><b>Sharing of Your Personal Information</b></p>
+<p class="margins">Except as described in this statement, we will not
+disclose your personal information outside of GenGreen and its
+controlled subsidiaries and affiliates without your consent. Some
+GenGreen sites allow you to choose to share you personal information
+with select GenGreen partners so that they can contact you about their
+products, services or offers. Other sites do not share your contact
+information with third parties for marketing purposed, but instead may
+give you a choice as to whether you wish to receive communications from
+GenGreen on behalf of external business partners about a partner's
+particular offering (without transferring your personal information to
+the third party). See the Communication Preferences section below for
+more information.</p>
+<p class="margins">Some GenGreen services may be co-branded and
+offered in conjunction with another company. If you register for or use
+such services, both GenGreen and the other company may receive
+information collected in conjunction with the co-branded services.</p>
+<p class="margins">We occasionally hire other companies to provide
+limited services on our behalf, such as handling the processing and
+delivery of mailings, providing customer support, hosting websites,
+processing transactions, or performing statistical analysis of our
+services. Those companies will be permitted to obtain only the personal
+information they need to deliver the service. They are required to
+maintain the confidentiality of the information and are prohibited from
+using it for any other purpose.</p>
+<p class="margins">We may access and/or disclose your personal
+information if we believe such action is necessary to: (a) comply with
+the law or legal process served on GenGreen, (b) protect and defend the
+rights or property GenGreen (including the enforcement of our
+agreements); or (c) act in urgent circumstances to protect the personal
+safety of users of GenGreen services or members of the public.</p>
+<p class="margins"><b>Collection and Use of Children's personal Information</b></p>
+<p class="margins">Many GenGreen sites and services are intended for
+general audiences and do not knowingly collect any personal information
+from children. When a GenGreen site does collect age information, and
+users identify themselves as under 13, the site will either block such
+users from providing personal information, or will seek to obtain
+consent from parents for the collection, use and sharing of their
+children's personal information . We will not knowingly ask children
+under the age of 13 to provide more information than is reasonably
+necessary to provide our services.</p>
+<p class="margins"><b>Change to This Privacy Statement</b></p>
+<p>We will occasionally update this privacy statement
+to reflect changes in our services and customer feedback. When we post
+changes to this Statement, we will revise the "last updated" date at
+the top of this statement. If there are material changes to this
+statement or in how GenGreen will use your personal information, we
+will notify you either by prominently posting a notice or such changes
+prior to implementing the change or by directly sending you a
+notification. We encourage you to periodically review this statement to
+be informed of how GenGreen is protecting your information.</p>
+    </div>
+						<!--br /><br />
+			<p><a href="http://www.worldpantry.com/cgi-bin/ncommerce3/ExecMacro/numitea/newsletter.d2w/report" target="_new"><img src="http://www.gengreen.org/news/files/ad-numi-468x60.jpg" alt="0" /></a></p-->
+			</div>
+		<!-- [end] content -->
+        </div>
+	<!-- [end] center -->
+    <!-- [start] right -->
+   	<div class="col-right side-col">
+		<br>
+
+<div align="center"><a href="/contact.php?topic=feedback"><img src="images/feedback-block.gif" border="0"><br clear="all"></a></div><br>
+
+<div align="center"><a href="http://www.chicobag.com/" target="_blank"><img src="images/ads/chicobag200.jpg" border="0"><br clear="all"></a></div><br>
+
+	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
+<a href="http://patagonia.com/" target="_blank"><img src="images/ads/patagonia.jpg" border="0" alt="http://patagonia.com/"></a>
+<br>
+<br>
+
+	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
+<a href="http://honesttea.com/" target="_blank"><img src="images/ads/honest-tea.jpg" border="0" alt="http://honesttea.com/"></a>
+<br>
+<br>
+
+<div><a href="http://betterworldbooks.com/" target="_blank"><img src="images/ads/bwb.gif" border="0"><br clear="all"></a></div>
+
+<br>
+
+	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
+<a href="http://www.whiteapricot.com/fab_finds/subscribe_contest.php?gen_green_708" target="_new"><img src="http://www.gengreen.org/images/ads/white-apricot.gif" alt="http://www.whiteapricot.com/fab_finds/subscribe_contest.php?gen_green_708" border="0"></a>
+<p><br><br></p>
+      </div>
+    <!-- [end] right -->
+</div>
+</div>
+<!-- [end] middle -->  <!-- [start] footer -->
+        <div class="footer-container">
+                    <div class="footer">
+<p style="color: #ffffff;">
+<strong>Contact GenGreen:</strong> (866) 922-2952 or (970) 488-3636 (Fort Collins)&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact.php">Contact Form</a>
+<br>
+<strong>About GenGreen:</strong> <a href="node.php?nid=5265">What is GenGreen?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="node.php?nid=1412">Our Team</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="node.php?nid=1007">GenGreen In the Media</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=46303">Testimonials</a>
+<br>
+<strong>Resources:</strong> <a href="/node.php?nid=5148">Advertising Info</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=46482">Link to GenGreen</a>&nbsp;&nbsp;<strong>FAQ:</strong> <a href="/node.php?nid=5149">For Businesses and Organizations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=42246">General Questions</a>
+<br>
+<br>
+©2008 GenGreen LLC. All rights reserved.&nbsp;&nbsp;<a href="/node.php?nid=3295">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=3371">Terms &amp; Conditions</a></p>
+                </div>
+        </div>
+        <!-- [end] footer -->
+        
+<script type="text/javascript">
+  
+	//
+	// You can hide the accordions on page load like this, it maintains accessibility
+	//
+	// Special thanks go out to Will Shaver @ http://primedigit.com/
+	//
+	var verticalAccordion = $$('.accordion_toggle');
+	verticalAccordion.each(function(accordion) {
+		$(accordion.next(0)).setStyle({
+		  height: '0px'
+		});
+	});
+
+</script>
+ 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2777050-1";
+urchinTracker();
+</script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2777050-54");
+pageTracker._trackPageview();
+</script>
+
+</body></html>
