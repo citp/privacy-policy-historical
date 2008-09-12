@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523172133id_/http%3A//www.starmagazine.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912170415id_/http%3A//www.starmagazine.com/privacy_policy) for the most accurate reproduction.*
 
 # Star Magazine | Privacy Policy
 
