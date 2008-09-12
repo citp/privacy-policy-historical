@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205134id_/http%3A//www.articlewheel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912134755id_/http%3A//www.articlewheel.com/privacy.php) for the most accurate reproduction.*
 
 # : Article Submission Directory - Submit Your Articles Now!
 
