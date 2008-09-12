@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603190633id_/http%3A//www.blinkbox.com/Content/Pages/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912051002id_/http%3A//www.blinkbox.com/Pages/Info/Privacy.aspx) for the most accurate reproduction.*
 
-# Download & Watch Movies Online | blinkBox | Privacy
+# Download & Watch Movies Online | Privacy | blinkBox
+
+### blinkBox Privacy Policy
 
   * 1\. GENERAL
   * _1.1_ At blinkBox Entertainment Limited ("we"/ "us"/"our") we respect your privacy and are committed to protecting your personal information. We have created this Privacy Notice to let you know what information we collect when you visit, or use the services available via the website at http://www.blinkbox.com (collectively, the "blinkBox Services"), why we collect this information and how the collected information is used.
@@ -35,7 +37,6 @@
       * We may also use cookies and web beacons to ensure that our mailing tools are working properly. 
     * _Refusing cookies_
     * You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you choose to decline cookies, you may not be able to experience all of the interactive features available via the blinkBox Services.
-    * For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [ www.allaboutcookies.org](http://www.allaboutcookies.org/).
   * 5\. SECURITY REVIEW
   * We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of the blinkBox Services for potential breach of the Terms and Conditions and of applicable law. By accepting the Terms and Conditions, you authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your Personal Information and to disclose your Personal Information to third parties for the purposes of validating the information you provide to us in the course of using the blinkBox Services, including, where necessary, the transfer of information outside of your country. Security reviews may include verifying the information you provide against third-party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.
   * _5.1 Security_
@@ -48,3 +49,7 @@
 
 
 _This Privacy Policy was last updated on 11th September, 2007._
+
+### Watch the latest trailers:
+
+### Other great stuff to see:
