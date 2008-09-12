@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616033658id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3Dbottomnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912143600id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3Dbottomnav) for the most accurate reproduction.*
 
 # Privacy Policy
 
