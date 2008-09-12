@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621230307id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912165832id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
 # LoopNet - Privacy Policy
 
-Last Updated: August 2, 2007
+Last Updated: June 26, 2008
 
-LoopNet, Inc., and its website located at [http://www.loopnet.com](http://www.loopnet.com/), is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+LoopNet, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.loopnet.com](http://www.loopnet.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
   * The personally identifiable information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
