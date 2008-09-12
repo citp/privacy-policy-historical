@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611102946id_/http%3A//www.gifts.com/public/info%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912215226id_/http%3A//www.gifts.com/public/info%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
 
 # Gifts.com - The easy way to find great gifts
 
@@ -13,8 +13,6 @@
 **Consumer Privacy at Gifts.com, an IAC Company**
 
 Gifts.com is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Gifts.com, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications. Pronto and many others.  For a list of all of IAC’s businesses, please visit www.iac.com.  In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices.  The following Consumer Privacy statement applies to all IAC businesses.  In addition, Gifts.com has revised its Privacy Policy, effective July 18, 2007, consistent with the IAC privacy commitment and standard privacy policy format.  Refer to our FAQs for details about the changes.  Please review both the Consumer Privacy Summary and this site’s complete privacy policy. 
-
-Consumer Privacy Summary 
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Gifts.com, please click here.
 
