@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628095113id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912193049id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
 
 # Privacy Policy
 
