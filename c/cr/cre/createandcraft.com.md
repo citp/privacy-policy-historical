@@ -1,47 +1,110 @@
-> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619084106id_/http%3A//www.createandcraft.com/default.aspx%3Furl%3Dprivacy.html%26utm_source%3Dfooter%26utm_medium%3Dhyperlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912205816id_/http%3A//www.createandcraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - CreateAndCraft
 
-Ideal Shopping Direct plc is committed to preserving the privacy of all visitors to our website at [www.createandcraft.tv](http://www.createandcraft.tv/ "Link to www.createandcraft.tv"). For this reason our policy statement complies with the Data Protection Act of 1998 and we advise our customers to please read the following privacy policy to understand how we use and protect the information that you provide to us.
+## Privacy Policy
 
-By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
+  
 
-**Information that we collect from you**  
-When you visit, register or order products or services on [http://www.idealworld.tv](http://www.idealworld.tv/) you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. 
 
-We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us. 
+The [www.createandcraft.tv](http://www.createandcraft.tv/) website is operated by Ideal Shopping Direct Plc, a company registered in England and Wales, whose registered office is at Newark Road, Peterborough, Cambridgeshire, United Kingdom, PE1 5WG.
 
-To maintain customer service standards and to assist staff training, we may record and monitor incoming calls.
+The purpose of this statement is to set out how we use personal information that we may obtain about you. By either registering as a user of any services provided by Ideal Shopping Direct Ltd on this website and by using the idealworld.tv website generally, you agree to this use.
 
-**Use of your information**  
-Your information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. It will also enable us to bill you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business.
+  
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we offer which may be of interest to you. If you change your mind about being contacted in the future, please let our customer service team know at [customer.services@idealshoppingdirect.co.uk](mailto:customer.services@idealshoppingdirect.co.uk "Click here to send an email to Customer Services.") and/or **08700 700 802**. 
 
-**Disclosure of your information**  
-The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you.
+## Use of your Personal Information
 
-Where you have consented when providing us with your details, we may also allow other companies in our group, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at [customer.services@idealshoppingdirect.co.uk](mailto:customer.services@idealshoppingdirect.co.uk "Click here to send an email to Customer Services.") and/or **08700 700 802**.
+1\. When you register and use this site you will be asked to provide certain information, such as your email address. We will store this data and will use it to fulfil our agreement with you.
 
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+2\. We may use information that you provide or that is obtained by us in the following ways:
 
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
+  1. to register you with our website and to administer our website services; 
+  2. for assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer;
+  3. if you subscribe to our marketing programme, we may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services which we think will interest you. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods: 
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
 
-**Cookies**  
-Cookies are small amounts of information which we may store on your computer.
+  * email
+  * telephone
+  * SMS text message and other electronic messages such as picture messaging
+  * post
+  * fax
+  * or otherwise, including products and services of other companies and organisations which we consider may be of interest to you. If you do not wish to receive information about such products and services, please tick the opt-out box provided when registering on this website;
 
-Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org. In that case, you may not be able to use certain features on our site.
 
-**Security & Data Retention**  
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
 
-**Accessing & Updating**  
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at [customer.services@idealshoppingdirect.co.uk](mailto:customer.services@idealshoppingdirect.co.uk "Click here to send an email to Customer Services."). We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+   d. to administer any prize draws or competitions you may enter.
 
-**Changes to our Privacy Policy**  
-Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.
+3\. We may supplement the information that you provide to us with information we receive from third parties.
 
-**Contact**  
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [customer.services@idealshoppingdirect.co.uk ](mailto:customer.services@idealshoppingdirect.co.uk "Click here to send an email to Customer Services.")and/or **08700 700 802**.
+  
+
+
+## Fraud Prevention
+
+4\. In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.
+
+  
+
+
+## Disclosure of Your Information
+
+5\. We may give information about you to the following, who may use it for the same purposes as set out above:
+
+  1. to employees and agents of the Ideal Shopping Direct Ltd to administer any accounts, products and services provided to you by Ideal Shopping Direct Ltd now, or in the future; 
+  2. agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs; 
+  3. other organisations for the administration of prize draws or competitions; 
+  4. to anyone to whom we transfer or may transfer our rights and duties under our agreement with you; 
+  5. if we have a duty to do so or if the law allows us to do so. 
+
+
+
+6\. In carrying out the activities specified in this section, we may transfer data to reputable companies outside the European Economic Area. We take steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation.
+
+7\. If you are purchasing a television from us, please note that the Wireless Telegraphy Act (1967) requires us to notify the TV Licensing Authority within 28 days of each transaction, giving full details of the buyer.
+
+  
+
+
+## Cookies
+
+8\. Cookies may be used by us to provide you with a customised visitor experience. A cookie is an element of data that a website can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. Depending on the type of cookie we use, cookies also allow us to make our website more user-friendly. For example, permanent cookies allow us to save your password so that you do not have to re-enter it every time you visit our website. If you wish, you can usually adjust your browser so your computer does not accept cookies. If you do this, you will still be able to browse around the site, but the functions that allow you to add items to your trolley, set up a new account or access an existing account, will not be available. Alternatively you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme your computer uses. If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions after clicking onto this link [Microsoft website](http://www.aboutcookies.org/) (idealworld.tv is not responsible for the content of external websites.) This link will open a new window. Go to the heading ' target=Manage Cookies'. Click onto the option you prefer, either stopping cookies being installed, or notifying you of them. From the list provided, click onto the programme which your computer uses. If this is not shown on the list, click on the 'help' heading on the bar at the top of this page and search for information on 'cookies'. Follow the instructions on how to delete cookies. 
+
+9\. Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers.
+
+10\. Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address (IP address). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
+
+  
+
+
+## Security
+
+11\. We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+
+12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security ](https://web.archive.org/web/20080912205816id_/http%3A//www.createandcraft.com/CraftSecurity.aspx).
+
+  
+
+
+## General
+
+13\. You have the right to see personal data (as defined in the Data Protection Act) that we keep about you, upon receipt of a written request and payment of a fee. If you are concerned that any of the information we hold on you is incorrect please contact us (see details below).
+
+14\. Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
+
+  
+
+
+## How can I get my name removed from the idealworld.tv mailing list?
+
+If you want to be removed from our mailing list, please contact our Customer Services department. Please note that it may take up to 14 days to action your request.
+
+  
+
+
+## How do I change any details stored on idealworld.tv?
+
+To change any of your registered details on createandcraft.tv or idealworld.tv, click on ‘your account’ and enter your login name and PIN. Once logged in change any of the details shown and click ‘change details'.
+
+For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/web/20080912205816id_/http%3A//www.createandcraft.com/CraftTermsandConditions.aspx) and [Home Delivery ](https://web.archive.org/web/20080912205816id_/http%3A//www.createandcraft.com/CraftHomeDelivery.aspx).
