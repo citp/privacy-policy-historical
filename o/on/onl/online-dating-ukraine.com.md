@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-dating-ukraine.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628141111id_/http%3A//www.online-dating-ukraine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-dating-ukraine.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912201432id_/http%3A//www.online-dating-ukraine.com/privacy.html) for the most accurate reproduction.*
 
 # Online dating Ukraine | Privacy statement
 
