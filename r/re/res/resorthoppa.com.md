@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609030058id_/http%3A//www.resorthoppa.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912193317id_/http%3A//www.resorthoppa.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Resorthoppa.com | Airport to Resort Transfers via Taxi, Minibus, Coach and Shuttle Bus
 
