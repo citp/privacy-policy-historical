@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherpage.ca privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424144245id_/http%3A//weatherpage.ca/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherpage.ca privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912143904id_/http%3A//weatherpage.ca/info/privacy.html) for the most accurate reproduction.*
 
 # Vancouver Weather Page - Weather for Vancouver, BC, Canada
 
@@ -30,4 +30,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us a message using our [online contact form](https://web.archive.org/web/20080424144245id_/http%3A//weatherpage.ca/info/contact.html). 
+Should you have other questions or concerns about these privacy policies, please send us a message using our [online contact form](https://web.archive.org/web/20080912143904id_/http%3A//weatherpage.ca/info/contact.html). 
