@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612225303id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy%26src%3Dprivacy_bottom_home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912174616id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy%26src%3Dprivacy_bottom_home) for the most accurate reproduction.*
 
 # eMarketer The eMarketer Privacy Policy
 
