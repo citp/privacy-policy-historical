@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611155433id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912074902id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
@@ -11,7 +11,7 @@ Through our subsidiary bank and financial service companies, we provide a compre
 
 ## Information We Collect
 
-The type of information we collect depends on the type of product or service you obtain from us. We may collect “nonpublic personal information” about you. “Nonpublic personal information” is information about you, which is not available from public sources, obtained in connection with providing you with a financial product or service. For example, nonpublic personal information includes information regarding your account balance, payment history and deposit account activity. We may collect this nonpublic personal information from the following sources:
+The type of information we collect depends on the type of product or service you obtain from us. We may collect “nonpublic personal information” about you. “Nonpublic personal information” is information about you, which is not available from public sources, obtained in connection with providing you with a financial product or service. For example, nonpublic personal information includes information regarding your account balance, payment history and deposit account activity. It also includes your social security number, account number and other information associated with you in particular through one or more identifiers. We may collect this nonpublic personal information from the following sources:
 
   * Information we receive from you on applications or other forms you may complete and provide to us, such as your name, address, social security number, date of birth, assets, income, and, in the case of applications for insurance, health and medical information;
   * Information about your transactions with us, with members of our corporate family or others, such as your account balance, payment history, products and services used, credit card usage; and,
@@ -91,9 +91,9 @@ Please do not send confidential information such as social security or account n
 
 ## Protecting Children Online
 
-We will not knowingly collect, store, use or disclose information from children. We define children as persons under the age of 13.
+In accordance with the Children’s Online Privacy Protection Act, we will not knowingly collect, store, use or disclose personal information from children. We define children as persons under the age of 13.
 
-We do not direct any portion of the website to children, accept applications directly from children, knowingly collect, nor share, personal information about them, unless the information has been provided by an adult in connection with opening a deposit account for or with the child. We won’t send any unsolicited promotions to users who indicate they are less than 13 years of age unless the solicitation is in connection with an account opened by an adult.
+We do not accept applications directly from children, knowingly collect, nor share, personal information about them, unless the information has been provided by an adult in connection with opening a deposit account for or with the child. We won’t send any unsolicited promotions to users who indicate they are less than 13 years of age unless the solicitation is in connection with an account opened by an adult.
 
 This does not prevent parents from opening deposit accounts on behalf of their children. We will obtain parental consent prior to the creation of an account on behalf of a child.
 
@@ -107,7 +107,7 @@ Identity theft is a growing crime in our country. Each day, thousands of people 
 
 ## Protect Your Identity
 
-  * Tear up unused credit offers and other documents containing personal information before discarding them.
+  * Shred unused credit offers and other documents containing personal or financial information before discarding them.
   * Guard your social security number.
   * Don’t release information to people you do not know, especially over the phone or Internet.
   * Review bank statements for accuracy.
@@ -134,14 +134,33 @@ More information can be found at [commerceonline.com](http://commerceonline.com/
 
 This privacy statement applies to the following companies within TD Banknorth, Inc., including TD Bank USA, N.A., and the divisions and subsidiaries of TD Bank, N.A. operating under the names of TD Banknorth and Commerce Bank.
 
-### TD Bank USA, N.A.  
-TD Bank, N.A. Divisions
+## It’s Your Choice
+
+_Effective: September 1, 2008_
+
+Federal law gives you the right to limit some, but not all, marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates. You may limit our affiliates — which include but are not limited to banking, leasing, insurance, wealth management, securities brokerage and investment advisory affiliates in the TD Bank Financial Group, as well as in the TD Banknorth Inc. group of companies providing this notice — from marketing their products or services to you based on personal information that we may collect about you and share with them. This information includes your account history with us. Your choice to limit marketing offers from our affiliates will apply until you tell us to change your choice. You can opt back in at any time.
+
+To limit affiliate marketing offers, contact us either by:
+
+  * Phone: **888-937-1050**
+  * Web: [commerceonline.com/opt](http://commerceonline.com/opt)
+
+
+
+**If you have previously informed us of your preference, you do not need to do so again.**
+
+_Note: Your preference will be processed within 30 days of receipt and will remain in place until you change your option. Your preference may not prevent you from being solicited with information already held by or previously shared with our affiliates based on information that the affiliate had on file prior to September 1, 2008. Affiliate Marketing Opt-Out requests are assigned by household so, if you opt-out, no one at your residence will receive notifications of special discounts that are available._
+
+### TD Bank USA, N.A.
+
+###  TD Bank, N.A. Divisions
 
   * Commerce Bank
   * TD Banknorth
   * TD Banknorth Mortgage
   * TD Banknorth Wealth Management Group
   * TD Banknorth Project Finance
+  * TD Retail Card Services
   * Shoppers Charge Accounts Co.
 
 
