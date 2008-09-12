@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unishippers.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629105053id_/http%3A//www.unishippers.com/content/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unishippers.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912185518id_/http%3A//www.unishippers.com/content/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Unishippers - Privacy Statement
 
