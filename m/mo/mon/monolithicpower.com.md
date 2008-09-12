@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091513id_/http%3A//www.monolithicpower.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912091029id_/http%3A//www.monolithicpower.com/privacy.htm) for the most accurate reproduction.*
 
 # MPS Privacy Policy
 
-MPS is committed to honoring the privacy of its users. Please read the following to learn more about our privacy policy and how we treat information that we collect. This Privacy Statement is governed by our [Terms and Conditions](https://web.archive.org/web/20080609091513id_/http%3A//www.monolithicpower.com/legal.htm). By using this web site, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Statement that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.  
+MPS is committed to honoring the privacy of its users. Please read the following to learn more about our privacy policy and how we treat information that we collect. This Privacy Statement is governed by our [Terms and Conditions](https://web.archive.org/web/20080912091029id_/http%3A//www.monolithicpower.com/legal.htm). By using this web site, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Statement that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.  
 
 
 **Information Collection**  
@@ -29,7 +29,7 @@ All Personally Identifiable Information MPS receives directly from you is stored
 Personal Information collected on this web site may be stored and processed in the United States or any other country in which MPS or its affiliates, subsidiaries or agents maintain facilities, and by using this web site, you consent to any such transfer of information outside of your country.
 
 **Consent**  
-By using this site, you agree to this Privacy Statement. This is our entire and exclusive Privacy Statement and it supersedes any earlier version. Our [Terms and Conditions](https://web.archive.org/web/20080609091513id_/http%3A//www.monolithicpower.com/legal.htm) take precedence over any conflicting Privacy Statement provision.
+By using this site, you agree to this Privacy Statement. This is our entire and exclusive Privacy Statement and it supersedes any earlier version. Our [Terms and Conditions](https://web.archive.org/web/20080912091029id_/http%3A//www.monolithicpower.com/legal.htm) take precedence over any conflicting Privacy Statement provision.
 
 **Legal Disclaimer**  
 This web site operates “AS-IS” and “AS-AVAILABLE,” without liability of any kind. We are not responsible for events beyond our direct control. This Privacy Statement is governed by the laws of California, excluding conflicts of law principles. Any legal actions against us must be commenced in California within one (1) year after the claim arose, or such action(s) will be barred.
