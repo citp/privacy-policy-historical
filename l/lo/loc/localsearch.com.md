@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsearch.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411060932id_/http%3A//localsearch.com/_1_2VOVT240I4TRZ5__insp/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsearch.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912152932id_/http%3A//localsearch.com/_1_2IWZT240355WJGD__insp/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LocalSearch.com
 
