@@ -1,51 +1,88 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612070336id_/http%3A//www.newsok.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912204138id_/http%3A//www.newsok.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  PRIVACY POLICY OF NEWSOK.COMNewsOK is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy.
+### PRIVACY POLICY OF NEWSOK.COM
 
-If you have questions about our privacy policy, please click on "[Contact Us](https://web.archive.org/more/contactus)," Web Staff with your inquiry via E-mail.
+OPUBCO is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy and by law.
 
-Collection of Personal InformationAt certain sites, NewsOK may collect personally identifiable information that you provide, such as your E-mail address, name, home or work address or telephone number. At other sites NewsOK collects non-personally identifiable demographic information, such as your zip code, age, interests or gender. Some sites may collect a combination of this information.
+If you have questions about our privacy policy, please click on [“Contact Us”](http://newsok.com/contactus), and make your inquiry via E-mail. 
 
-For example, we may collect information from: sweepstakes and contest registrations or submissions, promotional voting and polling activities, registration for subscription services related to either the printed or electronic editions of the newspaper or from other interactive areas of our website. In connection with our current and planned electronic sales services, you will be asked to provide information, including credit card information, that is necessary to complete a transaction that you have initiated and requested. There is also information about your computer hardware and software that is automatically collected by NewsOK, such as your IP address, browser type, domain name, access time and referring website addresses.
+### Collection of Personal Information
 
-Please keep in mind that if you disclose personally identifiable information through our chat room, message boards or other public on-line forums, this information may be collected and used by others accessing those sites. NewsOK does not monitor or collect information you disclose inside on-line public forums.NewsOK encourages you to review the privacy statements and policies of other websites you choose to link to from NewsOK, so that you can understand how those websites collect, use and store your information. NewsOK is not responsible for the privacy statements, policies or content of other websites, including websites you link to from our co-branded sites. Websites containing co-branding (referencing our name and a third party's name) contain content delivered by the third party and not NewsOK.
+At certain sites, OPUBCO may collect personally identifiable information that you provide, such as your email address, name, home or work address or telephone number. At other sites, OPUBCO collects non-personally identifiable demographic information such as your zip code, age, interests or gender. Some sites may collect a combination of this information. 
 
-Use of Your Personal InformationWe believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from NewsOK related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email. 
+For example, we may collect information from: sweepstakes and contest registrations or submissions, promotional voting and polling activities, registration for email or text messages or from other interactive areas of our website. In connection with our current and planned electronic sales services, you may be asked to provide information, including credit card information, that is necessary to complete a transaction that you have initiated and requested. There is also information about your computer hardware and software that is automatically collected by OPUBCO, such as your IP address, browser type, domain name, access time and referring website addresses. 
+
+Please keep in mind that if you disclose personally identifiable information through our chat room, message boards or other public on-line forums, this information may be collected and used by others accessing those sites. OPUBCO does not monitor or collect information you disclose inside on-line public forums nor does it accept any liability associated with your voluntary disclosure of same. 
+
+OPUBCO requests you to review the privacy statements and policies of other websites you choose to link to or from NewsOK.com, so that you can understand how those websites collect, use and store your information. OPUBCO is not responsible for the privacy statements, policies or content of other websites, including websites you link to or from our co-branded sites. Websites containing co-branding (referencing our name and a third party’s name) contain content delivered by the third party and not OPUBCO. 
+
+### Use of Your Personal Information
+
+We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [help@newsok.com](https://web.archive.org/web/20080912204138id_/http%3A//www.newsok.com/home/help@newsok.com). 
 
 The information we gather from you may be used in several ways, now or in the future, as follows: 
 
-To gain a better understanding of our users and their usage pattern as a whole 
-
-  * Site administration and troubleshooting 
+  * To gain a better understanding of our users and their usage pattern as a whole;
 
 
-  * Process e-commerce transactions, contest entries and other matters you initiate 
+  * Site administration and troubleshooting;
 
 
-  * Identify preferences in content and advertising 
+  * Process e-commerce transactions, contest entries and other matters you initiate;
 
 
-  * Target editorial, advertising or other content (such as promotions, special offers or other content) we think might be of interest to you 
+  * Identify preferences in content and advertising;
 
 
-  * To communicate changes and improvements to our website or any registration you have made 
+  * Target editorial, advertising or other content (such as promotions, special offers or other content) we think might be of interest to you; and
 
-NewsOK does not give away, sell, rent or lease its users' personally identifiable information to any merchant, advertiser or web publisher. Non-personally identifiable user information (such as usage pattern, browser type and your computer) may be shared with third party businesses or advertisers with which we have a business or contractual relationship. We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of NewsOK's or its affiliates assets.
 
-Control Your Personally Identifiable Information If you prefer that we not use your personally identifiable information to allow third parties to call your attention to products, special offers and unique content that may be of interest to you, you will be offered the ability to decline at that time. 
+  * To communicate changes and improvements to our website or any registration you have made.
 
-Cookies: What are they and why are they needed?A cookie is a data text file sent from a web site to your browser. It will be stored within your system. The cookie identifies the user and allows access to articles, thus alleviating the need to continually log in with your username and password. NewsOK only can access information from a cookie sent by NewsOK, not other web sites. Cookies do not reveal information that you have not supplied. The only way NewsOK learns information about you is if you specifically and voluntarily submit that information to us, for example, through registration. NewsOK uses cookies to personalize your visit to the site. By tracking usage, we can best determine the needs of our customers and advertisers. Also, NewsOK uses third-party ad-networks to display advertisements in our web site. These third party ad networks will use cookies in accordance with their own privacy policies. These third party ad networks may compile information about you and your online computer use. If you want to prevent one of the third party ad networks from sending and reading cookies on your computer, you will need to visit each ad networks' web site and request that you be removed from their system.
 
-Opting OutWe respect your right to choose whether to share information with us or any third party. You may choose to "opt out" of sharing personal information. During registration, you can uncheck the box relating to this statement: "YES! Please notify me of exclusive specials and discounts. NewsOK will offer you our exclusive specials and discounts from our trusted partners." E-mails will also contain a link in which you can easily unsubscribe to future distribution. You may opt out altogether from providing personal information to us by not registering on NewsOK and thereby not providing personal information. Certain portions of the site, however, do require registration in order to gain access. If you choose not to register, these areas will not be accessible to you.
 
-ChildrenNewsOK does not knowingly collect or solicit personally identifiable information from or about children under the age of thirteen, except as may be permitted by law. If we discover or are otherwise notified that we have received any such information from a child in violation of this policy, we will delete that information. If you believe that NewsOK has any information from or about a child under the age of thirteen, please contact us immediately by clicking on "[Contact Us](https://web.archive.org/more/contactus)", Web Staff and send us an e-mail. 
+OPUBCO does not give away, sell, rent or lease its users’ personally identifiable information to any merchant, advertiser or web publisher. Non-personally identifiable user information (such as usage pattern, browser type and your computer) may be shared with third party businesses or advertisers with which we have a business or contractual relationship. We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, in connection with the sale of part or all of OPUBCO or its affiliates’ assets, or to enforce the Terms of Use agreement. 
 
-Please review the privacy policy of other sites you or your children elect to link to through NewsOK for the children's privacy policy of those sites. NewsOK is not responsible for the privacy policy or other content of any other website, including sites that are co-branded.
+### Control Your Personally Identifiable Information
 
-IP AddressesNewsOK logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you.
+If you prefer that we not use your personally identifiable information to allow third parties to call your attention to products, special offers and unique content that may be of interest to you, you will be offered the ability to decline at that time. 
 
-Policy ChangesThe foregoing policy is effective March 14, 2003. NewsOK reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the website following the posting of changes to this policy will mean that you accept those changes. By agreeing to submit personally identifiable information, you waive any claims related thereto that may arise from uses disclosed above or any reasonable extensions.
+### Cookies: What are they and why are they needed?
 
-| 
+A cookie is a data text file sent from a web site to your browser. It will be stored within your system. The cookie identifies the user and allows access to articles, thus alleviating the need to continually log in with your username and password. OPUBCO only can access information from a cookie sent by NewsOK.com, not other websites. Cookies do not reveal information that you have not supplied. OPUBCO uses cookies to personalize your visit to the site. By tracking usage, we can best determine the needs of our customers and advertisers. Also, OPUBCO uses third-party ad-networks to display advertisements in our Sites. These third party ad networks will use cookies in accordance with their own privacy policies. These third party ad networks may compile information about you and your online computer use. If you want to prevent one of the third party ad networks from sending and reading cookies on your computer, you will need to visit each ad networks’ website and request that you be removed from their system. 
+
+### Opting Out
+
+We respect your right to choose whether to share information with us or any third party. You may choose to “opt out” of sharing personal information. During registration, you can opt not to receive emails or text messages from NewsOK.com containing “Breaking Headlines” or special discounts. Emails will also contain a link in which you can easily unsubscribe to future distribution. In addition, you can choose to no longer receive emails or text messages from NewsOK.com by changing your settings under “Manage My Settings” or by sending an email to [help@newsok.com](mailto:help@newsok.com) and requesting to no longer receive such emails or text messages. 
+
+### Children
+
+OPUBCO is sensitive to the need to protect the privacy of children who use the Internet. OPUBCO does not knowingly collect or solicit personally identifiable information from or about children under the age of thirteen (13) consistent with the Children’s Online Privacy Protection Act. If we discover or are otherwise notified that we have received any such information from a child in violation of this policy, we will delete that information. If you are under the age of thirteen (13), please do not attempt to provide any personally identifiable information on our Sites. If you believe that OPUBCO has any information from or about a child under the age of thirteen, please contact us immediately by clicking on [“Contact Us”](http://newsok.com/contactus), and sending us an e-mail and we will take appropriate steps to remove such information from our files. 
+
+Please review the privacy policy of other sites you or your children elect to link to through NewsOK.com for the children’s privacy policy of those sites. OPUBCO is not responsible for the privacy policy or other content of any other website, including sites that are co-branded. 
+
+### Protection of Personal Information
+
+NewsOK.com utilizes encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure of accidental loss, alteration or destruction. OPUBCO limits employee access to confidential information and limits the use and disclosure of such information to authorized person, processes and transactions. 
+
+### IP Addresses
+
+NewsOK.com logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you. 
+
+### Terms of Use
+
+The NewsOK.com Terms of Use agreement, as it may change from time to time, is hereby incorporated as part of this Privacy Policy. 
+
+### Indemnity
+
+You agree to defend, indemnify, and hold OPUBCO, its third parties, officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, damages, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your violation of the Terms of Use or Privacy Policy. 
+
+### Limitations
+
+By using the Sites you agree that we are not responsible for (i) any disclosure of your personal information made by you to a third party through your use of the Sites; (ii) any disclosure of your personal information obtained illegally from us; or (iii) any accidental disclosure of your personal information made by us. 
+
+### Policy Changes
+
+The foregoing policy is effective August 13, 2008. You agree to review the Privacy Policy posted on the Sites each time you use the Sites so that you are aware of any modifications to this Privacy Policy. Your continued usage of the Sites following any changes constitutes your acceptance of those changes. For your convenience and future reference, the date of the Privacy Policy is listed above so that you can compare any different versions of the Privacy Policy to determine any changes made to the Privacy Policy. 
