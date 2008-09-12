@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613100345id_/http%3A//www.spirithalloween.com/index.cfm/fuseaction/content.page/nodeID/638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912172202id_/http%3A//www.spirithalloween.com/content.aspx%3FNodeID%3D638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
 
-# Privacy Policy at Spirit Halloween
+# 
 
 ## What This Privacy Policy Covers
 
