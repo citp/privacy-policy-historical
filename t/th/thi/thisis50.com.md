@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisis50.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000906id_/http%3A//www.thisis50.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.thisis50.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisis50.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912234554id_/http%3A//www.thisis50.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.thisis50.com%252F) for the most accurate reproduction.*
 
-# Privacy Policy - ThisIs50 - G Unit TERMINATE ON SIGHT In Stores July 1
+# Privacy Policy - ThisIs50.com : IF IT'S HOT IT'S HERE!
 
 Updated: February 2007
 
