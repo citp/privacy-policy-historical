@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mywackospace.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630210032id_/http%3A//www.mywackospace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywackospace.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912090136id_/http%3A//www.mywackospace.com/privacy-policy) for the most accurate reproduction.*
 
-# Free MySpace Layouts- MySpace Codes - MySpace Editor - MySpace Graphics - Myspace BackGrounds
+# Privacy Policy - MyWackoSpace.com
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
