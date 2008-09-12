@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - On Demand Recruiting & Staffing Software - Bullhorn
 
@@ -6,13 +6,20 @@
 ---  
 |   
 ---  
+  
+[](http://www.bullhorn.com/dlp/WEBSITERIQ)  
+  
 Bullhorn Buzz  
 Industry Buzz  
-| Get Our Latest Report on  
-Staffing and Recruiting Trends   
+| Interested in Trends in the  
+Staffing and Recruiting Industry?   
 ---  
-In addition you’ll receive occasional updates from Bullhorn. Your email address is totally secure and will NEVER be shared, sold, or rented.  
-  |  | [home](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
+  
+[](https://web.archive.org/community/signup.php)  
+  
+  
+Join the Bullhorn Community and gain access to trends research reports, compensation studies, and learn what other staffing and recruiting firms are doing to grow their business.  
+  |  | [home](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
 ---|---  
   
 ### Bullhorn Privacy Statement 
@@ -23,9 +30,9 @@ Because customers entrust Bullhorn with important information/data, we have esta
 ---  
 **Robin Mee**  
 President,  
-[Mee Derby](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/pdf/Mee_Derby_Case_Study.pdf) and CASA (Capitol Area Staffing Association)
+[Mee Derby](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/pdf/Mee_Derby_Case_Study.pdf) and CASA (Capitol Area Staffing Association)
 
-[View Testimonials](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/testimonials.php)  
+[View Testimonials](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/testimonials.php)  
   
 ##### **Collected Information**
 
@@ -55,7 +62,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 ---|---|---  
   | 
 
-By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20080609234213id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
+By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20080912193923id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
 
 |    
  
