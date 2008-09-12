@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606185750id_/http%3A//www.undergear.com/privacyPolicy.asp%3Fnavtheme%3Dcserv%26cm_re%3Dhp-_-nav4.2-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912195837id_/http%3A//www.undergear.com/privacyPolicy.asp%3Fnavtheme%3Dcserv%26cm_re%3Dhp-_-nav4.2-_-privacy) for the most accurate reproduction.*
 
-# Site Privary Policy - Cookies - Security Monitoring - Undergear
+# Site Privacy Policy - Cookies - Security Monitoring - Undergear
 
 ### **PRIVACY**
 
@@ -101,7 +101,26 @@ TOP
 
 **Shopping online at www.undergear.com is secure.**
 
-We use SSL (Secure Socket Layer) technology to ensure our site's security.
+The importance of security for all personally identifiable information associated with our customers and visitors is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, � cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When your credit card information is transmitted to � we use industry standard, 3.0 SSL (secure socket layer) encryption to ensure the security of your information. 
+
+**Important update about SSL Technology**
+
+Web browsers (such as Internet Explorer, Firefox, and Safari) support SSL technology to encrypt, or encode, your personal information before it is sent over the Internet.   SSL versions 1.0 and 2.0 found in older browsers have known security weaknesses which could compromise your data. To ensure you're getting the best protection available, .com only allows secure transactions with browsers using SSL version 3.0 or higher. We recommend upgrading to the latest version of your browser software and downloading security updates as they become available.
+
+The following browsers do support SSL version 3.0, however, if you do not upgrade to the newest versions you may need to change your browser settings to utilize it:
+
+*       Internet Explorer 5.5 or higher (PC)  
+*       Internet Explorer 5.0 or higher (Mac)  
+*       Netscape 2.0 (Domestic) or higher (PC/Mac)  
+*       Firefox 0.8 or higher (PC/Mac/Linux)  
+*       Mozilla 1.7 or higher (PC/Mac/Linux)  
+*       Camino 0.8 or higher (Mac)  
+*       Safari 1.0 or higher (Mac)  
+*       Opera 1.7 or higher (PC/Mac)  
+*       Omniweb 3.0 or higher (Mac)  
+*       Konqueror 2.0 or higher (Linux)
+
+We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at **�** Nothwithstanding the foregoing, due to the open nature of the internet, We do not guarantee the absence of theft, hacker activity, electronic or non-electronic tampering, or computer crime, and we hereby disclaim responsibility and liability for stolen information. 
 
 As a matter of fact, we are so confident in the security of our website that we guarantee the safety of your personal information when you use your credit card to place an order on our secure site. If you find unauthorized charges on your credit card as a result of shopping on _www.undergear.com_ , you won't pay a penny.
 
