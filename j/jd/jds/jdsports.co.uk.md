@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jdsports.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609112554id_/http%3A//www.jdsports.co.uk/help.aspx%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsports.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913001429id_/http%3A//www.jdsports.co.uk/help.aspx%3Fid%3D9) for the most accurate reproduction.*
 
 # JD Sports - Privacy
 
 **PRIVACY POLICY  
-THE JOHN DAVID GROUP PLC**We (The John David Group Plc ) are committed to protecting your privacy. This privacy policy explains what personal information is collected from you via this Web Site and what we do with that information. It forms part of our terms and conditions, which we may amend from time to time. By using this Web Site you agree to the way in which we process your personal information as outlined in this policy.
+THE JOHN DAVID GROUP PLC**We (JD Sports Fashion Plc ) are committed to protecting your privacy. This privacy policy explains what personal information is collected from you via this Web Site and what we do with that information. It forms part of our terms and conditions, which we may amend from time to time. By using this Web Site you agree to the way in which we process your personal information as outlined in this policy.
 
 **Information collected  
 ** We collect personal information from you when you register with us, complete an on-line form, you e-mail us or complete a transaction with us, you enter a prize draw or other competition with us, or we speak to you over the telephone.   
@@ -14,7 +14,7 @@ We collect the following information about you in order to process our orders: y
 ** We use the information we collect about you to process orders, deal with any enquiry or request and/or to send you information about our products and offers from time to time.  
 Your credit card details are taken through a secure server for processing by your card provider, our card processor and our bank. Please see our [terms and conditions](http://www.jdsports.co.uk/terms.asp) for details of the measures we take to try and ensure the security of your data.  
 We will pass your name and delivery address on to the carrier responsible for delivering your order.   
-We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to [jdinternet@thejohndavidgroup.com](mailto:jdinternet@thejohndavidgroup.com).  
+We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to [jdinternet@jdplc.com](mailto:jdinternet@jdplc.com).  
 The information collected about you will not be used for any other purposes and will not be sold or otherwise disclosed to any other organisations except other companies within our organisation and our or their successors in title.
 
 **Cookies  
@@ -66,7 +66,7 @@ Access Right
 ** You have a right to access the personal information held about you. To obtain a copy of the information, please write to us at;  
 Customer Services  
 JD Internet  
-The John David group Plc  
+JD Sports Fashion Plc  
 Hollinsbrook Way  
 Pilsworth  
 Bury  
