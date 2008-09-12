@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526063244id_/http%3A//www.leagueofpower.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912035407id_/http%3A//www.leagueofpower.com/terms.htm) for the most accurate reproduction.*
 
 # The League of Power
 
@@ -51,7 +51,7 @@ We may publish links to other sites from our website. Please note that our compa
 ** How You Can Access, Limit or Change the Information Collected About You **
 
 ** E-Mail**  
-You can request that the information collected about you be updated at any time by emailing us. If you would like to unsubscribe from our email list, simply [click here.](https://web.archive.org/web/20080526063244id_/http%3A//freedombyfriday.com/optout.htm)
+You can request that the information collected about you be updated at any time by emailing us. If you would like to unsubscribe from our email list, simply [click here.](https://web.archive.org/web/20080912035407id_/http%3A//freedombyfriday.com/optout.htm)
 
 ** Contact Us**
 
@@ -69,7 +69,7 @@ This Privacy Statement is incorporated into and subject to the Terms of Use cont
   
 ** Unsubscribe from our E-mail list**
 
-If you would like to unsubscribe from our email list, simply [ click here.](https://web.archive.org/web/20080526063244id_/http%3A//freedombyfriday.com/optout.htm)
+If you would like to unsubscribe from our email list, simply [ click here.](https://web.archive.org/web/20080912035407id_/http%3A//freedombyfriday.com/optout.htm)
 
 ** Free Reports or Information  **
 
@@ -127,6 +127,6 @@ Please be aware that it is not uncommon for spammers to hide behind someone else
 
 Strictly stated: We dislike spam just as much as you do and we will do not condone it. 
 
-If you would like to unsubscribe from our email list, simply [ click here.](https://web.archive.org/web/20080526063244id_/http%3A//freedombyfriday.com/optout.htm)
+If you would like to unsubscribe from our email list, simply [ click here.](https://web.archive.org/web/20080912035407id_/http%3A//freedombyfriday.com/optout.htm)
 
 **  Close Window**
