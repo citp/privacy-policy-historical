@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608085448id_/http%3A//www.imsa.edu/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912110614id_/http%3A//www.imsa.edu/site/privacy.php) for the most accurate reproduction.*
 
 # IMSA®: Privacy Policy for Websites Under Domain imsa.edu
 
