@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528143831id_/http%3A//www.carrental.com/globals/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2008-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912140637id_/http%3A//www.carrental.com/globals/pp.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>CarrentalSupport.com - Privacy Policy</title>
@@ -26,7 +26,7 @@
 	<a href="/members/index.php" class="nav">Member Login</a>&nbsp;&nbsp;
 	
 	</td>
-	<td width="240" height="31" bgcolor="#1f1122" class="white" align="right">last update: Wednesday - May 28, 2008</td>
+	<td width="240" height="31" bgcolor="#1f1122" class="white" align="right">last update: Friday - September 12, 2008</td>
 	<td width="13"><img src="/images/hdr2R.gif" width="13" height="31" alt="" border="0"></td>
 </tr>
 <tr>
@@ -55,10 +55,15 @@
 		<td width="249" bgcolor="#ffffff"><!-- ########## BEGIN RESERVATION SIDEBAR ########## -->
 		
 		
-<!-- <script type="text/javascript" src="/globals/ajax2.js"></script> -->
-<script language="JAVASCRIPT" src="/globals/dateChange.js"></script>
-<script language="JAVASCRIPT" src="/globals/calPop.js"></script>
-<script language="JAVASCRIPT" src="/globals/formSets.js"></script>
+<!-- <script type="text/javascript" src="/globals/ajax2.js"></script>
+<script language="JavaScript" src="/globals/calPop.js"></script> -->
+
+<link rel="stylesheet" type="text/css" href="/globals/ui.datepicker.css">
+
+<script language="javaScript" src="/globals/dateChange.js"></script>
+<script language="javaScript" src="/globals/formSets.js"></script>
+<script language="javaScript" src="/globals/jquery.js"></script>	
+<script language="javaScript" src="/globals/ui.datepicker.js"></script>
 <script language="javascript" type="text/javascript">
 
 /*
@@ -177,20 +182,6 @@ function handleResponse2(errorarea) {
 				}
             } 
         } 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -354,6 +345,98 @@ validate_bcdNumber() &&
 validate_bcnNumber();
 }
 }
+
+
+
+
+
+var d=new Date();
+var day=d.getDate();
+var month=d.getMonth() + 1;
+var year=d.getFullYear();
+var today=(month + "/" + day + "/" + year);
+
+//document.write(today);
+
+
+
+function dateSet(){
+
+
+
+var textDateFormat = "${visit.textDateFormat}";
+if (textDateFormat = "mm/dd/yyyy"){
+	var visitPuDate = "Sep 13, 2008";
+	var visitDoDate = "Sep 14, 2008";
+}else{	
+	var visitPuDate = "${visit.pickupDateTime.getFormattedDate('dd/mm/yyyy')}";
+	var visitDoDate = "${visit.dropoffDateTime.getFormattedDate('dd/mm/yyyy')}";
+}
+
+document.getElementById('dateinput').value = visitPuDate;
+document.getElementById('dateinput2').value = visitDoDate;
+
+}
+</script>
+
+
+
+
+
+
+
+
+<!-- jQuery datepicker -->
+<script type="text/javascript">
+jQuery(function($){
+	$('#dateinput').datepicker({rangeSelect: false, numberOfMonths: 2,minDate: '0d', maxDate: '1y',dateFormat: 'MM d, yy',onSelect: updateLinked });
+	$('#dateinput2').datepicker({rangeSelect: false, numberOfMonths: 2,minDate: '0d', maxDate: '1y',dateFormat: 'MM d, yy'});
+});
+
+function updateLinked(date) {
+
+var d = new Date();
+
+var userSelectedPickupDate = Date.parse(date);
+
+var setUpUserSelectedDropOffDateEpoch = userSelectedPickupDate + 86400000;
+
+d.setTime(setUpUserSelectedDropOffDateEpoch);
+
+var setUpUserSelectedDropOffMonth = d.getMonth();
+var setUpUserSelectedDropOffYear = d.getFullYear();
+var setUpUserSelectedDropOffDate = d.getDate();
+
+if (setUpUserSelectedDropOffMonth == "0"){
+var setUpUserSelectedDropOffMonth = "January";
+}else if (setUpUserSelectedDropOffMonth == "1"){
+var setUpUserSelectedDropOffMonth = "February";
+}else if (setUpUserSelectedDropOffMonth == "2"){
+var setUpUserSelectedDropOffMonth = "March";
+}else if (setUpUserSelectedDropOffMonth == "3"){
+var setUpUserSelectedDropOffMonth = "April";
+}else if (setUpUserSelectedDropOffMonth == "4"){
+var setUpUserSelectedDropOffMonth = "May";
+}else if (setUpUserSelectedDropOffMonth == "5"){
+var setUpUserSelectedDropOffMonth = "June";
+}else if (setUpUserSelectedDropOffMonth == "6"){
+var setUpUserSelectedDropOffMonth = "July";
+}else if (setUpUserSelectedDropOffMonth == "7"){
+var setUpUserSelectedDropOffMonth = "August";
+}else if (setUpUserSelectedDropOffMonth == "8"){
+var setUpUserSelectedDropOffMonth = "September";
+}else if (setUpUserSelectedDropOffMonth == "9"){
+var setUpUserSelectedDropOffMonth = "October";
+}else if (setUpUserSelectedDropOffMonth == "10"){
+var setUpUserSelectedDropOffMonth = "November";
+}else if (setUpUserSelectedDropOffMonth == "11"){
+var setUpUserSelectedDropOffMonth = "December";
+}
+
+var theNewDropOffDate = setUpUserSelectedDropOffMonth + ' ' +  setUpUserSelectedDropOffDate + ', ' + setUpUserSelectedDropOffYear;
+
+ $('#dateinput2').val(theNewDropOffDate); 
+} 
 </script>
 
 <!-- DATES AND TIMES START -->
@@ -381,7 +464,7 @@ validate_bcnNumber();
 	<td class="resTitle" style="padding-right:25px;">Pick-up Location Code</td>
 </tr>
 <tr valign="middle">
-	<td><input type="text" name="pickupLocation" size="5" value="" maxlength="3"><a href="javascript:$PopupLink_popup();" class="res">Airport Codes</a></td>
+	<td><input type="text" name="pickupLocation" size="5" value="" maxlength="3" style="height:19px;"><a href="javascript:$PopupLink_popup();" class="res">Airport Codes</a></td>
 </tr>
 </tbody></table>
 
@@ -400,100 +483,22 @@ validate_bcnNumber();
 <tbody><tr>
 	<td colspan="3" class="resTitle">Pick-up Date and Time</td>
 </tr>
-<tr>
-	<td>
-<select name="pickupMonthSelection" onchange="setDropoffDate()">
-<option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05" selected="">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
-<select name="pickupDaySelection" onchange="setDropoffDate()">
-
-		<option value="01">01
-		</option><option value="02">02
-		</option><option value="03">03
-		</option><option value="04">04
-		</option><option value="05">05
-		</option><option value="06">06
-		</option><option value="07">07
-		</option><option value="08">08
-		</option><option value="09">09
-		</option><option value="10">10
-		</option><option value="11">11
-		</option><option value="12">12
-		</option><option value="13">13
-		</option><option value="14">14
-		</option><option value="15">15
-		</option><option value="16">16
-		</option><option value="17">17
-		</option><option value="18">18
-		</option><option value="19">19
-		</option><option value="20">20
-		</option><option value="21">21
-		</option><option value="22">22
-		</option><option value="23">23
-		</option><option value="24">24
-		</option><option value="25">25
-		</option><option value="26">26
-		</option><option value="27">27
-		</option><option value="28">28
-		</option><option value="29" selected="">29
-		</option><option value="30">30
-		</option><option value="31">31</option></select>
-	</td>
-	<td><a href="#" onclick="popupCalendar('0','pickupDaySelection','pickupMonthSelection','en','US',140,120,140,120)"><img src="/images/calendar.gif" width="23" height="19" border="0"></a></td>	
-<td>
-<select name="putime"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select>
-	</td>
+<tr valign="middle">
+	<td><input type="text" name="puDate" size="15" maxlength="50" id="dateinput" onchange="setDropoffDate()" style="height:19px;" class="hasDatepicker"></td>
+	<td><!-- <A HREF="#" onClick="popupCalendar('0','pickupDaySelection','pickupMonthSelection','en','US',140,120,140,120)" ><img src="/images/calendar.gif" width="23" height="19" border="0"></a> --></td>	
+	<td><select name="putime" class="resForm" style="height:19px;"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select></td>
 </tr>
-
 <tr>
 	<td colspan="3"></td>
 </tr>
 <tr>
 	<td colspan="3" class="resTitle">Drop-off Date and Time</td>
 </tr>
-<tr>
-	<td>
-<select name="dropoffMonthSelection">
-<option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05" selected="">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
-<select name="dropoffDaySelection">
-
-		<option value="01">01
-		</option><option value="02">02
-		</option><option value="03">03
-		</option><option value="04">04
-		</option><option value="05">05
-		</option><option value="06">06
-		</option><option value="07">07
-		</option><option value="08">08
-		</option><option value="09">09
-		</option><option value="10">10
-		</option><option value="11">11
-		</option><option value="12">12
-		</option><option value="13">13
-		</option><option value="14">14
-		</option><option value="15">15
-		</option><option value="16">16
-		</option><option value="17">17
-		</option><option value="18">18
-		</option><option value="19">19
-		</option><option value="20">20
-		</option><option value="21">21
-		</option><option value="22">22
-		</option><option value="23">23
-		</option><option value="24">24
-		</option><option value="25">25
-		</option><option value="26">26
-		</option><option value="27">27
-		</option><option value="28">28
-		</option><option value="29">29
-		</option><option value="30" selected="">30
-		</option><option value="31">31</option></select>
-	</td>
-	<td><a href="#" onclick="popupCalendar('0','dropoffDaySelection','dropoffMonthSelection','en','US',140,120,140,120)"><img src="/images/calendar.gif" width="23" height="19" border="0"></a></td><td>
-<select name="doTime"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select>
-	</td>
-	<td>
-</td></tr>
-
+<tr valign="middle">
+	<td><input type="text" name="doDate" size="15" maxlength="50" id="dateinput2" style="height:19px;" class="hasDatepicker"></td>
+	<td><!-- <A HREF="#" onClick="popupCalendar('0','dropoffDaySelection','dropoffMonthSelection','en','US',140,120,140,120)" ><img src="/images/calendar.gif" width="23" height="19" border="0"></a> --></td>
+	<td><select name="doTime" class="resForm" style="height:19px;"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select></td>
+</tr>
 </tbody></table>
 
 <!-- DATES AND TIMES END -->
@@ -501,7 +506,6 @@ validate_bcnNumber();
 			
 			</td>
 		</tr>
-
 		<tr>
 			<td style="padding-top:10px;" class="resSection">Discounts and Memberships</td>
 		</tr>
@@ -517,8 +521,8 @@ validate_bcnNumber();
 	<td><!-- Coupon #: --></td>
 </tr>
 <tr valign="middle">
-	<td><input type="text" name="wizNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$2_popup();" class="res">?</a></td>
-	<td><input type="text" name="bcnNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$4_popup();" class="res">?</a></td>
+	<td><input type="text" name="wizNumber" maxlength="6" size="10" value="" style="height:19px;"> <a href="javascript:$PopupLink$2_popup();" class="res">?</a></td>
+	<td><input type="text" name="bcnNumber" maxlength="6" size="10" value="" style="height:19px;"> <a href="javascript:$PopupLink$4_popup();" class="res">?</a></td>
 	<td><!-- <input type="text" name="couponNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$4_popup();">?</a> --></td>
 </tr>
 
@@ -528,17 +532,17 @@ validate_bcnNumber();
 	<td></td>
 </tr>
 <tr valign="middle">
-	<td><input type="text" name="awdNumber" maxlength="7" size="10" value=""> <a href="javascript:$1_popup();" class="res">?</a></td>
-	<td><input type="text" name="bcdNumber" maxlength="7" size="10" value=""> <a href="javascript:$3_popup();" class="res">?</a></td>
+	<td><input type="text" name="awdNumber" maxlength="7" size="10" value=""> <a href="javascript:$1_popup();" class="res" style="height:19px;">?</a></td>
+	<td><input type="text" name="bcdNumber" maxlength="7" size="10" value=""> <a href="javascript:$3_popup();" class="res" style="height:19px;">?</a></td>
 	<td></td>
 </tr>
-
-
+	</tbody></table></td>
+</tr>
 </tbody></table>
 
-			</td>
-		</tr>
-	</tbody></table>
+<script language="javascript" type="text/javascript">
+window.onLoad = dateSet();
+</script>
 
 		
 		
@@ -718,4 +722,4 @@ Effective Date: This policy was last updated on July 13, 2006.</p><br>
 
 
 
-</body></html>
+<div id="datepicker_div"></div></body></html>
