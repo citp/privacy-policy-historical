@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517121933id_/http%3A//www.tdk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/privacy.php) for the most accurate reproduction.*
 
 # TDK - Privacy Statement
 
 |  | Search By:  
 ---  
-| [Characteristics](https://web.archive.org/web/20080517121933id_/http%3A//www.tdk.com/s_cat.php)  
-| [Application](https://web.archive.org/web/20080517121933id_/http%3A//www.tdk.com/application.php)  
+| [Characteristics](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/s_cat.php)  
+| [Application](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/application.php)  
 | Product Catalog   
-| [Tech Notes](https://web.archive.org/web/20080517121933id_/http%3A//www.tdk.com/technotes.php)  
-| Inventory   
+| [Tech Notes](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/technotes.php)  
+| [Inventory ](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/ncom_search.php?tabNavi=0)  
+| [Hardware Support ](https://web.archive.org/web/20080912093613id_/http%3A//www.tdk.com/con_hardware.php)  
 |  | Website - Privacy Statement  
 ---  
 | TDK Corporation is committed to respecting and protecting your privacy. We've structured our Web sites so that, in general, you can visit TDK on the Web without identifying yourself or revealing any personal information. This Privacy Statement reflects the policies of http://www.tdk.com. We are committed to protecting the privacy of our customers and we use the information that we collect in order to facilitate the process or orders and to provide a more personalized shopping experience. Once you choose to provide us personally identifiable information (any information by which you can be identified), it will be used to support your customer relationship with TDK.   
