@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614040507id_/http%3A//www.natpe.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913010707id_/http%3A//www.natpe.org/about/privacypolicy) for the most accurate reproduction.*
 
 # NATPE: Privacy Policy
 
-Copyright © 2004 National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
+Copyright © 2004-2008 National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
 
 At NATPE, we want you to be aware of how we use information we have collected from and about you. By coming to the NATPE site, you are agreeing to and accepting this Privacy Policy as well as the Terms and Conditions and other end user agreements governing our services.
 
@@ -38,7 +38,7 @@ This Privacy Policy is subject to modification from time to time. You may be not
 
 ###  If you have any questions regarding this policy, please contact: 
 
-Jon Dobkin ([ jd@natpe.org](mailto:jd@natpe.org))   
-310-453-4440
+Jack Sullivan ([Click here to email.](http://www.contactify.com/27827))   
+310-857-1626
 
-Last Update: September 1, 2004 
+Last Update: June 24, 2008 
