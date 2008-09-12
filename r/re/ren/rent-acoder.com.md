@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517111050id_/http%3A//www.rent-acoder.com/rent_a_coder_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912034338id_/http%3A//www.rent-acoder.com/rent_a_coder_privacy_policy.php) for the most accurate reproduction.*
 
 # Rent A Coder - Hire Freelancers - Outsource Projects - Webdesign - Work From Home - Quality Job - Outsource Job - Online Business - Bid For Projects
 
