@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609100207id_/http%3A//www.harveysfurniture.co.uk/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912133342id_/http%3A//www.harveysfurniture.co.uk/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Harveys Furniture and Furnishings
 
