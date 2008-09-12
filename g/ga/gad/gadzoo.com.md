@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614134846id_/http%3A//gadzoo.com/gadzoo2/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
 
 # Welcome to Gadzoo.com
 
@@ -34,7 +34,7 @@ The security and confidentiality of your personal information is extremely impor
 
 You may modify and correct information previously provided directly to Gadzoo.com for the purposes of classified advertisements, Pet Memorial Tributes, and purchases on the Gadzoo.com store, if necessary. Additionally, although classified advertisement enhancements and Pet Memorial Tribute submissions are screened for content appropriateness, they are not altered except by request. Gadzoo.com offers users the following options for updating information: 
 
-1\. Send e-mail to [info@gadzoo.com](https://web.archive.org/web/20080614134846id_/http%3A//gadzoo.com/gadzoo2/EmailHome.aspx?mode=9)  
+1\. Send e-mail to [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9)  
 2\. Send postal mail to the following address: 
 
 Gadzoo.com  
@@ -60,7 +60,7 @@ Gadzoo.com may periodically edit this Privacy Policy. We encourage you to review
 
 **Additional information**
 
-Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@gadzoo.com](https://web.archive.org/web/20080614134846id_/http%3A//gadzoo.com/gadzoo2/EmailHome.aspx?mode=9). 
+Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9). 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS  
 (As provided by California Civil Code Section 1798.83)**
@@ -69,4 +69,4 @@ A California resident who has provided personal information to a business with w
 
 Gadzoo.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this privacy policy from one of our Affiliate Newspaper sites (for example, www.gadzoo.com/PetsAffiliate/pets.aspx, the privacy policy of the Affiliate Newspaper will apply to the collection of your information unless the Affiliate Newspaper’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate Newspaper to understand what information may be collected from you and how it may be used. 
 
-California customers may request further information about our compliance with this law by e-mailing [info@gadzoo.com](https://web.archive.org/web/20080614134846id_/http%3A//gadzoo.com/gadzoo2/EmailHome.aspx?mode=9). 
+California customers may request further information about our compliance with this law by e-mailing [info@gadzoo.com](https://web.archive.org/web/20080912221936id_/http%3A//gadzoo.com/EmailHome.aspx?mode=9). 
