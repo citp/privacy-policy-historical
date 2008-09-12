@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eguide.com.my privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613164404id_/http%3A//www.eguide.com.my/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.my privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912142651id_/http%3A//www.eguide.com.my/privacy.asp) for the most accurate reproduction.*
 
-# 
+# eGuide - (Malaysia) eGuide Privacy Policy
 
 Your privacy is important to us and is taken seriously. This Privacy Statement covers how we at eGuide treat personal information about you that is personally identifiable like your name, address, email address, or phone number. If you have voluntarily provided information and unless otherwise informed by you, we will deem that you have consented to the collection and use of your personally identifiable information as described in this Privacy Statement. 
 
