@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609095025id_/http%3A//www.surveypanelgroup.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912084047id_/http%3A//www.surveypanelgroup.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
 
 # SURVEY PANEL GROUP: Get invitations to the best paid online surveys
 
@@ -98,6 +98,8 @@ You further acknowledge that SurveyPanelGroup operates in the United States. You
 SurveyPanelGroup.com may transfer, sell or assign information concerning your use of this Site, including without limitation, personally identifiable information that you provide and other information concerning your use of the Site, to third parties, as a result of a sale, merger, consolidation, changing control, transfer of substantial assets, reorganization or liquidation of SurveyPanelGroup.com. 
 
 SurveyPanelGroup or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the SurveyPanelGroup Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If SurveyPanelGroup or its assets are acquired, customer information will of course be one of the transferred assets. 
+
+We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail or telemarketing for the privacy policy. 
 
 Contact Information: 
 
