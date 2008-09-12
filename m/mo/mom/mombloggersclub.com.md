@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mombloggersclub.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514021532id_/http%3A//www.mombloggersclub.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.mombloggersclub.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mombloggersclub.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912141149id_/http%3A//www.mombloggersclub.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.mombloggersclub.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Bloggers Club
 
