@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609095704id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912125812id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
 
 # ChainReactionCycles.com - Europes largest Online Bike store - Buy Online - Security
 
