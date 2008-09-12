@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516214619id_/http%3A//www.reneerouleau.com/Assistance/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912215903id_/http%3A//www.reneerouleau.com/Assistance/Privacy.aspx) for the most accurate reproduction.*
 
 # Renee Rouleau Skin Care - For Beautiful Skin
 
-|  |  |   
----|---|---  
-|  |  | PLANO LOCATION  
-972-378-6655  
- _New!_ DOWNTOWN LOCATION  
-214-735-4364  
-  
----|---  
-|  |  |  |  |  |   
----|---|---|---|---|---  
-|  |  | PRIVACY STATEMENT  
+  |  |  | PRIVACY STATEMENT  
 ---  
 We recognize that every visitor to ReneeRouleau.com (the "Site") is concerned about maintaining privacy. Therefore, it is our goal to make each visitor feel secure about accessing and using our Site. Set forth below is an explanation of what information Renee Rouleau collects through the services available on our Site, how we use that information, how you can opt out of certain uses of information we may collect, and a description of the policies we have adopted to help meet your privacy concerns.  
 PERSONAL INFORMATION  
@@ -34,6 +24,4 @@ You may view, change, or delete information in your account. Please sign in to t
 CONTACT BY US  
 In order to provide service to you, the Site will send you communications related to your transactions, security or the administration of its website. From time to time, the Site and its affiliates may also wish to send you other messages or updates about the Site or its promotions and other activities. If you do not wish to receive non-transaction/security related communications from us, please send an email containing your request.  
 CONTACT  
-If you have questions about this privacy statement, the information practices of the Site, or your dealings with the Site, please contact us at 888-211-7560 or in Texas at 972-378-6655.  
-|  |   
-|  | 
+If you have questions about this privacy statement, the information practices of the Site, or your dealings with the Site, please contact us at 888-211-7560 or in Texas at 972-378-6655.
