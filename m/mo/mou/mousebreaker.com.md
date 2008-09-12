@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531052910id_/http%3A//www.mousebreaker.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912202507id_/http%3A//www.mousebreaker.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Mousebreaker Free Online Flash Games - football games and more!
 
