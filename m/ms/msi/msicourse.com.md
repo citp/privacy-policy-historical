@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the msicourse.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512220019id_/http%3A//www.msicourse.com/campaigns/rga/common/privacy.php%3Foffer%3Drga) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msicourse.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912174030id_/http%3A//www.msicourse.com/campaigns/rga/common/privacy.php%3Foffer%3Drga) for the most accurate reproduction.*
 
 # Multiple Streams of Income Privacy Policy
 
 ## Privacy Policy
 
-Accurate as of May 2008
+Accurate as of September 2008
 
 OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY
 
