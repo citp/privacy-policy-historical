@@ -1,85 +1,92 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407021817id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912112101id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
-## Yelp Privacy policy
+## Yelp Privacy Policy
 
-**This Privacy Policy has recently changed, and is effective as of December 13, 2007!**
+**Last modified: August 5th, 2008.**
 
-This website allows people to share their knowledge and insight about local businesses, services, and events with the broader community. To accomplish this, we gather information from and about users and share it with others, as described in more detail below.
+We recognize that your privacy is important. This privacy policy applies to your use of Yelp's websites and mobile applications (collectively, the " **Site** "), but not does apply to any third party sites that may be linked to this one, or any relationships you may have with the business listed on the Site.
 
-For the purposes of this Privacy Policy, the term "this website" refers to the various web pages located at the yelp.com domain, and excludes any web pages that might be linked to the yelp.com domain that are not owned and operated by Yelp! Inc. The term "user" refers to a user of, or visitor to, this website. The terms "we", "us", and "Yelp" refer to Yelp! Inc. The terms "you" and "your" refer to you, as a user. Your "friends" are those who you explicitly designate as friends by inviting them, or responding to their invitations, to share profile and review information.
+The terms " **we** ", " **us** ", and " **Yelp** " refer to Yelp! Inc. The terms " **you** " and " **your** " refer to you, as a user of the Site. The term " **personal information** " means information that you provide us which personally identifies you, such as your name, phone number, email address, and any other data that is tied to such information. 
 
-By using this website, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. 
+BY USING THE SITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, YOU SHOULD NOT USE THE SITE.
 
-### I. Information We Collect
+### I. Information We Collect and How We Use It
 
-We collect information that you submit in the process of creating or editing your account and user profile on this website (your "Profile Information"), including your name, email address, and location information such as city, state and zip. We also collect information in the form of the content that you submit in the course of your use of this website (your "Content"), such as photos, reviews, and ratings of local businesses and service providers. Finally, we also collect other information relating to your activity on this website that you do not explicitly submit to us (your "Nonpersonal Information"), such as your actions on this website, your browser, IP address, requested URL, referring URL, and timestamp. 
+We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.
 
-### II. How We Use Your Information
+**Account information.** If you create an account to take advantage of the full range of services offered on the Site, we ask for and record personal information such as your name and email address. We use your email address to send you updates and news, and contact you on behalf of other users (such as other users who send you compliments, personal messages, or favorite reviews). You may choose not to receive e-mail of this type by accessing the "Account" tab on the Site and updating your notification settings.
 
-We store information about you and your use of this website, including your Content, Profile Information, and Nonpersonal Information. In addition, we display your Content to other users of this website in order to share your knowledge and insights about local businesses, services, and events with the broader community. Your Profile Information (excluding your email address and full last name) may also be displayed in connection with your Content. Still, your friends may be able to see your full name and email address, and others may be able to associate your full name with your account and profile through the member search feature on this website. 
+**Submissions.** We record and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term " **submissions** "refers to the information that you submit or post to the Site for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile.
 
-We may use and display your full name and email address when you send an email notification to a friend through this website (such as in an invitation, or when sharing your Content). We also use your email address to send you updates or news regarding this website, but you may choose not to receive email of this type by accessing the "Account" tab on this website and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). 
+**Feedback.** If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
 
-We use Nonpersonal Information to help us diagnose problems with our server, administer this website, and otherwise provide the highest possible level of service to you. In addition, we use Nonpersonal Information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
+**Personal messaging.** In order to allow you to send and receive personal messages to other registered users of the Site, we record the messages that you send and receive using the Site's personal messaging feature.
 
-### III. Transfer of Information
+**Activity.** We record information relating to your use of the Site, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
-As explained in our Terms of Service, we may sell and distribute your Content together with your Profile Information (again, excluding your email address or full last name) to third parties who in turn may display or publish such information in connection with their own websites, mobile platforms, and other media, whether electronic in nature or otherwise. 
+**Cookies.** We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term " **cookies** " refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly.
 
-We may disclose information about you and your use of this website if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. We are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive. 
+**Enforcement.** We may use the information we collect in connection with your use of the Site (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
 
-Further, we may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. 
+### II. Transfer of Information
 
-We reserve the right to transfer information about you and your use of this website in the event of a transfer of ownership of Yelp, such as an acquisition by or merger with another company. In such an event, Yelp will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+We may distribute your submissions to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your Submission).
 
-### IV. Others' Information
+We may share your personal information with third parties to provide you with services that we offer through the Site, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
 
-You may choose to provide us with another person's email address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above. 
+We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** ") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
 
-### V. Links
+We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
 
-This website may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share information about you and your use of this website with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites. 
+We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
 
-### VI. Use of Cookies
+### III. Others' Information
 
-This website requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our website and simplify the user experience. For example, the use of cookies allows registered users to enter this website without explicitly typing in their email address and password every time. You should be aware that we cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on this website. 
+You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
 
-### VII. Facebook Beacon
+### IV. Links
 
-Facebook Beacon is implemented on this website, allowing you to share your actions on this website (such as reviewing a restaurant) with others on Facebook. In so doing, we transmit a portion of your Nonpersonal Information (but not your Profile Information) to Facebook, which in turn may able to associate that information with, and publish that information to, your profile and friends on Facebook. We strongly encourage you to review your privacy settings with Facebook if you do not want to share your actions on this website with others on Facebook. 
+This Site may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your Personal Data with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
-### VIII. Controlling Your Personal Information
+### V. Controlling Your Personal Data
 
-You should be aware that when you voluntarily disclose information about yourself in the Content that you submit to this website (e.g., including your name or email address in a review that you post to this website), that information can be collected, correlated, and used by third parties and may result in unsolicited messages from others. Such activities are beyond our control. Please do not post any personal information on this website that you expect to keep private. 
+To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on the Site, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private.
 
-As a registered Yelp user, you can modify your Profile Information at any time by accessing the "Account" section of this website. Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying your Profile Information and Content on this website; nevertheless, it may not be reasonably commercially possible to remove all of your information from this website, and we may retain some of your information in our backup files. Registered users who wish to close their account should [click here](https://web.archive.org/contact). 
+Please also note that the personal messages you send or receive using the Site's personal messaging feature are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts the contents of such a message.
 
-### IX. Security
+As a registered Yelp user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from Yelp by accessing the "Account" tab on the Site and updating your notification settings. Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying your submissions on the Site; nevertheless, we may still retain your personal information in our systems. Registered users who wish to close their account should [click here](https://web.archive.org/contact?topic=support&subtopic=close).
 
-Your Yelp account is password-protected. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function, such as our customer service personnel. If you have any questions about the security at our website, please [contact us](https://web.archive.org/contact). Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+### VI. Security
 
-_You hereby acknowledge that Yelp is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
+Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on the Site, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-### X. Emails and Opt-out
+_You hereby acknowledge that Yelp is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
 
-You may opt-out of receiving personal messages from specific other users. In addition, you may opt-out of receiving notifications from us by changing your notification settings under the "Account" tab after you log on to this website. Unregistered users who receive emails from us may also opt-out of receiving further emails by following the instructions contained in our emails. 
+### VII. E-mails and Opt-out
 
-### XI. Children
+You may opt-out of receiving personal messages from specific users. In addition, you may opt-out of receiving notifications from us by changing your notification settings under the "Account" tab after you log on to this website. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
 
-This website is not directed to children, and Yelp does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information. 
+### VIII. Terms and Modifications to this Privacy Policy
 
-### XII. Terms and Modifications to this Privacy Statement
+We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of the Site. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the Site following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-By using this website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Yelp may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
+### IX. Dispute Resolution
 
-### XIII. Contacting the Web Site 
-
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: 
+If you believe that Yelp has not adhered to this Privacy Policy you may write to the Yelp Privacy Office at the following address:
 
 Yelp! Inc.  
-650 Mission Street  
-2nd Floor  
-San Francisco, CA 94105  
+Privacy Officer  
+706 Mission Street  
+San Francisco, CA 94103  
+United States of America  
+E-mail: [legal@yelp.com](mailto:legal@yelp.com)
 
+In your letter, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+
+### X. Contacting the Website and Access to Your Personal Information
+
+Upon written request, subject to certain exceptions, Yelp will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance.
+
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us using the contact information listed above.
