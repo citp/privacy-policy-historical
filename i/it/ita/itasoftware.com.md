@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itasoftware.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627214026id_/http%3A//www.itasoftware.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itasoftware.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912040523id_/http%3A//www.itasoftware.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
