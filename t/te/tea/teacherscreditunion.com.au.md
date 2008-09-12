@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613220916id_/http%3A//www.teacherscreditunion.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912070859id_/http%3A//www.teacherscreditunion.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Teachers Credit Union's Privacy Policy
 
@@ -72,6 +72,6 @@ We rely on the accuracy of the information you provide to us. If you believe or 
 
 ##### Further information
 
-Should you require further information about our Privacy Policy or access to your personal information, please contact us on _13 12 21_ between 8.00am and 7.00pm EST, Monday to Friday. 
+Should you require further information about our Privacy Policy or access to your personal information, please contact us on _13 12 21_ 8am to 7pm, weekdays. 
 
 NSW Teachers Credit Union Ltd. ABN 30 087 650 459 AFSL No 238981 
