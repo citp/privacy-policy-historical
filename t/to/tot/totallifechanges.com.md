@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517150120id_/http%3A//www.totallifechanges.com/information.php%3Froute%3Dprivacy%26tlc_id%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912154205id_/http%3A//www.totallifechanges.com/information.php%3Froute%3Dprivacy%26tlc_id%3D) for the most accurate reproduction.*
 
 # TotalLifeChanges :: Health and Wealth to Create Prosperity
 
