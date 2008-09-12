@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517170052id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912184255id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for rekkerd.org at rekkerd.org
 
@@ -17,4 +17,11 @@ You can choose to disable or selectively turn off rekkerd.org cookies or third-p
 **Email subscriptions / contact information**  
 It is possible to subscribe to certain services at rekkerd.org (i.e. email notification on post comments and newly posted content). When contacting rekkerd.org you will need to provide your email address as well. I (or an automated system) will only use this information for the intended purpose of notifying you. If you do not want to receive any further notification, you can simply opt-out or contact rekkerd.org to have your information removed from these particular services.
 
-**Note: Your personal information wi**
+**Note: Your personal information will never be sold to third parties.**
+
+### Questions?
+
+If you have any questions or suggestions regarding this privacy policy, please contact me by filling out the [contact form](https://web.archive.org/contact/ "link to contact form").
+
+Thanks,  
+Ronnie
