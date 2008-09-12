@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225148id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912150616id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
 
 # Mercantila | Privacy Notice
 
