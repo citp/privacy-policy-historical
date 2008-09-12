@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the justborn.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614213749id_/http%3A//www.justborn.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justborn.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912101303id_/http%3A//justborn.com/about/privacy.html) for the most accurate reproduction.*
 
 # Just Born, Inc. - Privacy Policy
 
   
 This site, www.justborn.com, is owned by Just Born, Inc. ("Just Born").
 
-Just Born's policy is to respect and protect your privacy. Please read the following to learn about Just Born's practices with respect to the collection, use, and disclosure of information collected online at any of the Web sites owned by Just Born which include [www.justborn.com](http://www.justborn.com/), [www.marshmallowpeeps.com](http://www.marshmallowpeeps.com/), [www.zours.com](http://www.zours.com/), and [www.hottamales.com](http://www.hottamales.com/) (the "Just Born Sites"). In addition, please read the [Children's Privacy Policy](https://web.archive.org/web/20080614213749id_/http%3A//www.justborn.com/about/children.html) to learn about how we treat personally identifiable information collected from children under 13 on each Just Born Site targeted toward children.
+Just Born's policy is to respect and protect your privacy. Please read the following to learn about Just Born's practices with respect to the collection, use, and disclosure of information collected online at any of the Web sites owned by Just Born which include [www.justborn.com](http://www.justborn.com/), [www.marshmallowpeeps.com](http://www.marshmallowpeeps.com/), [www.zours.com](http://www.zours.com/), and [www.hottamales.com](http://www.hottamales.com/) (the "Just Born Sites"). In addition, please read the [Children's Privacy Policy](https://web.archive.org/web/20080912101303id_/http%3A//justborn.com/about/children.html) to learn about how we treat personally identifiable information collected from children under 13 on each Just Born Site targeted toward children.
 
 We reserve the right to change, modify, add, or remove provisions of this Privacy Policy at any time. Any changes to this Privacy Policy will be posted here. We encourage you to check this page from time to time, because your continued use of a Just Born Site following any changes to this Privacy Policy will be deemed to constitute your acceptance of such changes.
 
