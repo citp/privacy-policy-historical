@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravocompanyusa.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613073756id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravocompanyusa.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912153747id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Bravo Company USA, Inc. AR-15, M16, M4 Tactical Gear, Parts, Accessories.
 
@@ -51,7 +51,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20080613073756id_/http%3A//www.bravocompanyusa.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080912153747id_/http%3A//www.bravocompanyusa.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
