@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211151320id_/http%3A//www.flashbay.com/en/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912172405id_/http%3A//www.flashbay.com/privacy_notice.html) for the most accurate reproduction.*
 
-# Privacy Notice - USB Flash Drives
+# 
 
 What Personal Information About Customers Does FlashBay Gather?
 
