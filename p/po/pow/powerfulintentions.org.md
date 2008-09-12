@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerfulintentions.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625220949id_/http%3A//www.powerfulintentions.org/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.powerfulintentions.org%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerfulintentions.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912180935id_/http%3A//www.powerfulintentions.org/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.powerfulintentions.org%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Powerful Intentions: Law of Attraction Community
 
