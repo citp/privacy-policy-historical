@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerincentivepromotions.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607190031id_/http%3A//www.consumerincentivepromotions.com/info.htm%3Ftp%3Dprivacy%26promo_name%3Dchilisvscheesecakegiftcard_100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerincentivepromotions.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913031937id_/http%3A//www.consumerincentivepromotions.com/info.htm%3Ftp%3Dprivacy%26promo_name%3Dchilisvscheesecakegiftcard_100) for the most accurate reproduction.*
 
 # Help Desk
 
