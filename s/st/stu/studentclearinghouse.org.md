@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609025554id_/http%3A//www.studentclearinghouse.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913023347id_/http%3A//www.studentclearinghouse.org/privacy.htm) for the most accurate reproduction.*
 
 # National Student Clearinghouse: Privacy Policy
 
@@ -31,7 +31,7 @@ We do not sell, rent, provide or otherwise share your individual information wit
 
 **Student Information Usage**
 
-For information on the Clearinghouse's compliance with the FTC Safeguarding Customer Information Policy and Gramm-Leach-Bliley (GLB), [click here](https://web.archive.org/web/20080609025554id_/http%3A//www.studentclearinghouse.org/studentinfo.htm). 
+For information on the Clearinghouse's compliance with the FTC Safeguarding Customer Information Policy and Gramm-Leach-Bliley (GLB), [click here](https://web.archive.org/web/20080913023347id_/http%3A//www.studentclearinghouse.org/studentinfo.htm). 
 
 ## Changes to Our Privacy Policy
 
