@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427094506id_/http%3A//www.lacledegas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913193749id_/http%3A//www.lacledegas.com/privacy) for the most accurate reproduction.*
 
 # Laclede Gas Company: Privacy Policy
 
