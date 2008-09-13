@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610174247id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913121514id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm%3FCTA%3Dhomepage_footer_privacy_policy%26id%3D38190255%2C1004130748) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
-[](http://www.jamesvillas.co.uk/?CTA=header_logo&id=35226729,388815301)
+[](http://www.jamesvillas.co.uk/?CTA=header_logo&id=38190255,1004130748)
 
 0800 074 0122
 
 Mon-Fri 8am-9pm  
 Sat-Sun 9am-9pm
-
-[ ](https://web.archive.org/brochure/index.cfm?id=35226729,388815301)
 
 ## Privacy Policy
 
