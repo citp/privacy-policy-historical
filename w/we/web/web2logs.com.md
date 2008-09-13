@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2logs.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630212656id_/http%3A//www.web2logs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2logs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913031432id_/http%3A//www.web2logs.com/privacy) for the most accurate reproduction.*
 
 # Web2Logs.com
 
