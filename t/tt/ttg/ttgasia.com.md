@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttgasia.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412020417id_/http%3A//www.ttgasia.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14030%26Itemid%3D40%26issueid%3D426) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttgasia.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913160749id_/http%3A//www.ttgasia.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14030%26Itemid%3D40%26issueid%3D441) for the most accurate reproduction.*
 
 # TTG ASIA - Privacy Policy
 
