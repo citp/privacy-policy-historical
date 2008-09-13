@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tourcms.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509124243id_/http%3A//www.tourcms.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourcms.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913134503id_/http%3A//www.tourcms.com/company/privacy.php) for the most accurate reproduction.*
 
 # Travel UCD privacy policy
+
+[home](http://www.tourcms.com/) > [company](http://www.tourcms.com/company/) >  **privacy policy**
 
 The _www.TourCMS.com_ website provides online information about the TourCMS service. TourCMS is owned and operated by Travel UCD Limited, UK. 
 
