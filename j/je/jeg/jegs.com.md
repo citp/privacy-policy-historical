@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegs.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615223219id_/http%3A//www.jegs.com/s/customercare/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913222723id_/http%3A//www.jegs.com/s/customercare/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
