@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505030857id_/http%3A//www.altnet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913232338id_/http%3A//www.altnet.com/privacy.aspx) for the most accurate reproduction.*
 
-# Download Music Now Get Unlimited Access to Millions of Songs. 100% Legal. www.altnet.com
+# Download Music
 
 Altnet, Inc. (“Altnet,” “we,” “us,” or “our”) is committed to respecting the privacy rights and concerns of all users of this website (the “Site”), our Download Manager software (the “Software”) and our various content download and licensing services, including our subscription services (the “Service”) (we refer to the Site, the Software and the Service collectively as the “Altnet Features”). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Software and/or the Service how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement.
 
