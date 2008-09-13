@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistsnetwork.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609164253id_/http%3A//www.artistsnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistsnetwork.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913050113id_/http%3A//www.artistsnetwork.com/privacy) for the most accurate reproduction.*
 
 # Artists Network - Privacy Policy
 
