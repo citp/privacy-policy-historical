@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630063750id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2008-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913070114id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -247,6 +247,45 @@ function ExternalLinkClick(iUrl, iNewWindow, iWidth, iHeight)
 </head>
 <body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" rightmargin="0" bgcolor="#FFFFFF">
 
+<!-- SiteCatalyst code version: H.14.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pagename=window.document.title
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://cmpmdev.112.2O7.net/b/ss/cmpmdev/1/H.14--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.14. -->
+
+
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="190"><a href="/"><img src="/images/logo.jpg" border="0" width="190" height="124" alt="myDr.com.au"></a></td>
@@ -275,7 +314,7 @@ function ExternalLinkClick(iUrl, iNewWindow, iWidth, iHeight)
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=637483045&amp;what=zone:3077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:3077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=812406281&amp;what=zone:3077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:3077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
 	
 				</div></td>
                 <td height="85">&nbsp;</td>
@@ -355,9 +394,12 @@ function Quicksubmit(type) {
   var status = "yes";
 
   var localRegEx = /\s/;
+  
+  var re2 = /[^\w ]/g;
 
   kw = document.quicksearchform.inputtext.value;
-
+  kw = kw.replace(re2, "");
+ // alert(kw);
   if (kw == "" || kw.length < 3)
   {
     alert("Please enter at least one keyword of at least three (non-space) characters.");
@@ -406,7 +448,7 @@ function Quicksubmit(type) {
 
 
   <tbody><tr>
-    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';" onclick="window.location='/';">
+    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';">
       <a href="/"><font color="#000066" size="2"><b>&nbsp;<u><em><i>myDr</i></em> HomePage <br></u></b></font></a>
     </td>
   </tr>
@@ -417,9 +459,9 @@ function Quicksubmit(type) {
   //
 -->
   <tr>
-    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)" onclick="window.location='/default.asp?Section=Sitemap';">
+    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)">
 
-      Site Map
+      <a href="/default.asp?Section=Sitemap" onmouseover="on(this);" onmouseout="off(this)">Site Map</a>
     </td>
   </tr>
   <tr>
@@ -722,7 +764,12 @@ function Quicksubmit(type) {
 
       &nbsp;<a href="/tools/bodymass.asp"><u>Body Mass Index (BMI)</u></a><br>&nbsp;<a href="/tools/bodymass.asp"><u>Calculator</u></a>
     </td>
-  </tr>  
+  </tr>
+    <tr>
+    <td style="color:blue">
+      &nbsp;<a href="/tools/caloriesburnedcalc.asp"><u>Calories Burned Calculator</u></a>
+    </td>
+  </tr>
   <tr>
     <td style="color:blue">
       &nbsp;<a href="/tools/ChildEnergyCalculator.asp"><u>Child Energy Calculator</u></a>
@@ -850,10 +897,17 @@ function Quicksubmit(type) {
     <td class="menuseperator">
     </td>
   </tr>
-   <tr>
+
+  <tr>
     <td style="color:blue">
 
       &nbsp;<a href="/hcp/hcp.asp?mode=Pharmacist"><u>Find a Pharmacy</u></a>
+    </td>
+  </tr>
+   <tr>
+    <td style="color:blue">
+
+      &nbsp;<a href="/hcp/hcp.asp?mode=Other"><u>Find a Podiatrist</u></a>
     </td>
   </tr>
   <tr>
@@ -1129,7 +1183,7 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=567060455&amp;what=zone:2077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:2077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=344012113&amp;what=zone:2077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:2077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
 	
 	<!-- top right ad //-->
       <script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
@@ -1147,7 +1201,7 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=708341935&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:77&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=275553197&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:77&amp;n=a0ce208f' border='0' alt=''></a></noscript>
 		<!-- bottom right ad //-->	
 		<div style="margin:3px;"><hr noshade="" size="1" style="height:1px"></div>
 			
@@ -1166,7 +1220,7 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=511037663&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=207042014&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
 			
 			
 			
@@ -1176,6 +1230,16 @@ function Quicksubmit(type) {
       </tr>
       </tbody></table>
 	  <table class="DefaultRHS" cellpadding="5px" cellspacing="0"><tbody><tr>
+<td class="DefaultRHSHeader">
+Travelturtle
+</td>
+</tr><tr>
+<td class="DefaultRHS">
+<a href="/tools/travelturtle"> <img src="/content/images/categories/Awardsandlogos/travelTurtleLogo.JPG" align="CENTER" border="0" alt="Travelturtle travel health tool"></a><br><a href="/tools/travelturtle">Travelturtle</a> your free personalised travel health report.
+<br>
+<br>
+</td>
+</tr><tr>
 <td class="DefaultRHSHeader">
 Top 10 Site!
 </td>
@@ -1306,7 +1370,7 @@ to be a HealthInsite information partner site<br><br clear="all"></div>
 	</script>
 	-->
 	<br><br>
-	This page last updated : Friday, 27 June 2008<br>
+	This page last updated : Friday, 12 September 2008<br>
 	© Copyright CMPMedica Australia, 2000-2008.</font>
 	</center>
 	
