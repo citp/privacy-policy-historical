@@ -1,0 +1,1887 @@
+<!--The following is the downloaded HTML source of the jdonuts.com privacy policy that was archived on 2008-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913031134id_/http%3A//blog.jdonuts.com/2008/07/privacy-statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
+<script type="text/javascript">
+//<![CDATA[
+function showLucky(root){
+    var feed = root.feed;
+    var entries = feed.entry || [];
+    var entry = feed.entry[0];
+    window.location = entry.link[0].href;
+   }
+
+function fetchLuck(luck){
+    script = document.createElement('script');
+    script.src = '/feeds/posts/summary?start-index='+luck+'&max-results=1&alt=json-in-script&callback=showLucky';
+    script.type = 'text/javascript';
+    document.getElementsByTagName('head')[0].appendChild(script);
+   }
+function readLucky(root){
+    var feed = root.feed;
+    var total = parseInt(feed.openSearch$totalResults.$t,10);
+    var luckyNumber = Math.floor(Math.random()*total);
+    luckyNumber++;
+    fetchLuck(luckyNumber);
+    }
+function feelingLucky(){
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = '/feeds/posts/summary?max-results=0&alt=json-in-script&callback=readLucky';
+    document.getElementsByTagName('head')[0].appendChild(script);
+    }
+//]]>
+</script>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="true" name="MSSmartTagsPreventParsing">
+<meta content="blogger" name="generator">
+<link rel="alternate" type="application/atom+xml" title="Blog @ jDonuts - Atom" href="http://blog.jdonuts.com/feeds/posts/default">
+<link rel="alternate" type="application/rss+xml" title="Blog @ jDonuts - RSS" href="http://blog.jdonuts.com/feeds/posts/default?alt=rss">
+<link rel="service.post" type="application/atom+xml" title="Blog @ jDonuts - Atom" href="http://www.blogger.com/feeds/6004398599119526030/posts/default">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=6004398599119526030">
+<link rel="alternate" type="application/atom+xml" title="Blog @ jDonuts - Atom" href="http://blog.jdonuts.com/feeds/2127607102318910439/comments/default">
+<title>Blog @ jDonuts: Privacy Statement</title>
+<style id="page-skin-1" type="text/css"><!--
+
+/* ************ START OF CSS STYLING ************ */
+/* -----------------------------------------------------------------------
+Blogger Template Design: A Click Apart
+Design by: Ourblogtemplates.com, April 2008
+Terms of Use: Free template with credit linked to Ourblogtemplates.com
+----------------------------------------------------------------------- */
+/* Variable definitions
+========================
+<Variable name="bodybgColor" description="Body Background Color"
+type="color" default="#FFBBE8">
+<Variable name="blogbgColor" description="Blog Background Color"
+type="color" default="#800040">
+<Variable name="blogBorderColor" description="Blog Border Color"
+type="color" default="#800040">
+<Variable name="contentbgColor" description="Content Background Color"
+type="color" default="#ffffff">
+<Variable name="contentBorderColor" description="Content Border Color"
+type="color" default="#ffffff">
+<Variable name="blogTitleColor" description="Blog Title Color"
+type="color" default="#800040">
+<Variable name="blogDescriptionColor" description="Blog Description Color"
+type="color" default="#800040">
+<Variable name="linkbarmainbgColor" description="Linkbar Main Background Color"
+type="color" default="#C94093">
+<Variable name="linkbarmainBorderColor" description="Linkbar Main Border Color"
+type="color" default="#C94093">
+<Variable name="linkbartextbgColor" description="Linkbar Text Background Color"
+type="color" default="#C94093">
+<Variable name="linkbarBorderColor" description="Linkbar Border Color"
+type="color" default="#9D1961">
+<Variable name="linkbarTextColor" description="Linkbar Text Color"
+type="color" default="#ffffff">
+<Variable name="linkbarHoverBgColor" description="Linkbar Hover Background Color"
+type="color" default="#ffffff">
+<Variable name="linkbarHoverTextColor" description="Linkbar Hover Text Color"
+type="color" default="#9D1961">
+<Variable name="postTitleColor" description="Post Title Color"
+type="color" default="#000000">
+<Variable name="postTitleBorderColor" description="Post Title Border Color"
+type="color" default="#000000">
+<Variable name="dateHeaderColor" description="Date Header Color"
+type="color" default="#000000">
+<Variable name="textColor" description="Text Color"
+type="color" default="#191919">
+<Variable name="mainLinkColor" description="Main Link Color"
+type="color" default="#333333">
+<Variable name="mainHoverLinkColor" description="Main Hover Link Color"
+type="color" default="#9D1961">
+<Variable name="mainVisitedLinkColor" description="Main Visited Link Color"
+type="color" default="#9D1961">
+<Variable name="blogQuoteColor" description="Blog Quote Color"
+type="color" default="#191919">
+<Variable name="codeTextColor" description="Code Text Color"
+type="color" default="#660000">
+<Variable name="postfooterBorderColor" description="Postfooter Border Color"
+type="color" default="#E590C8">
+<Variable name="postfooterTextColor" description="Postfooter Text Color"
+type="color" default="#b8659C">
+<Variable name="postfooterLinkColor" description="Postfooter Link Color"
+type="color" default="#b8659C">
+<Variable name="commentTabLinkColor" description="Comment Tab Link Color"
+type="color" default="#b8659C">
+<Variable name="feedlinksBorderColor" description="Feed Links Border Color"
+type="color" default="#9D1961">
+<Variable name="feedlinksColor" description="Feed Links Color"
+type="color" default="#9D1961">
+<Variable name="sidebar1bgColor" description="Sidebar Background Color"
+type="color" default="#FFBBE8">
+<Variable name="sidebar1HeaderBgColor" description="Sidebar Header Background Color"
+type="color" default="#FFBBE8">
+<Variable name="sidebar1HeaderBorderColor" description="Sidebar Header Border Color"
+type="color" default="#C94093">
+<Variable name="sidebar1HeaderColor" description="Sidebar Header Color"
+type="color" default="#000000">
+<Variable name="sidebar1TextColor" description="Sidebar Text Color"
+type="color" default="#9D1961">
+<Variable name="sidebar1LinkColor" description="Sidebar Link Color"
+type="color" default="#9D1961">
+<Variable name="sidebar1HoverLinkColor" description="Sidebar Hover Link Color"
+type="color" default="#000000">
+<Variable name="sidebar1VisitedLinkColor" description="Sidebar Visited Link Color"
+type="color" default="#000000">
+<Variable name="sidebarListLineColor" description="Sidebar List Line Color"
+type="color" default="#000000">
+<Variable name="commentAuthorBgColor" description="Comment Author Background Color"
+type="color" default="#9D1961">
+<Variable name="commentboxBorderColor" description="Comment Box Border Color"
+type="color" default="#C94093">
+<Variable name="commentTitleColor" description="Comment Header Color"
+type="color" default="#000000">
+<Variable name="commentauthorColor" description="Comment Author Color"
+type="color" default="#9D1961">
+<Variable name="commentTimeStampColor" description="Comment Timestamp Color"
+type="color" default="#C94093">
+<Variable name="commentTextColor" description="Comment Text Color"
+type="color" default="#4c4c4c">
+<Variable name="footerbgColor" description="Footer Background Color"
+type="color" default="#ffffff">
+<Variable name="footerBorderColor" description="Footer Border Color"
+type="color" default="#C94093">
+<Variable name="footerHeaderColor" description="Footer Header Color"
+type="color" default="#000000">
+<Variable name="footerTextColor" description="Footer Text Color"
+type="color" default="#C94093">
+<Variable name="footerHoverLinkColor" description="Footer Hover Link Color"
+type="color" default="#C94093">
+<Variable name="footerVisitedLinkColor" description="Footer Visited Link Color"
+type="color" default="#C94093">
+<Variable name="blogTitleFont" description="Blog Title Font"
+type="font"
+default="normal bold 273% Georgia, Times, serif"
+>
+<Variable name="blogDescriptionFont" description="Blog Description Font"
+type="font"
+default="normal normal 104% georgia,helvetica,verdana,Georgia, serif"
+>
+<Variable name="linkbarTextFont" description="Linkbar Text Font"
+type="font"
+default="normal normal 77% Verdana, sans-serif"
+>
+<Variable name="dateHeaderFont" description="Date Header Font"
+type="font"
+default="normal bold 117% Arial, sans-serif"
+>
+<Variable name="postTitleFont" description="Post Title Font"
+type="font"
+default="normal bold 180% Georgia, Times, serif"
+>
+<Variable name="textFont" description="Text Font"
+type="font"
+default="normal normal 90% Arial, sans-serif"
+>
+<Variable name="quoteFont" description="Blog Quote Font"
+type="font"
+default="normal normal 92% helvetica,tahoma,verdana,arial,times,Sans-serif"
+>
+<Variable name="sidebarHeaderFont" description="Sidebar Header Font"
+type="font"
+default="normal bold 117% Arial, sans-serif"
+>
+<Variable name="sidebarTextFont" description="Sidebar Text Font"
+type="font"
+default="normal normal 78% Arial, Verdana, sans-serif"
+>
+<Variable name="postfooterTextFont" description="Post-Footer Text Font"
+type="font"
+default="normal normal 93% Arial, sans-serif"
+>
+<Variable name="commentTitleFont" description="Comment Title Font"
+type="font"
+default="normal bold 120% Arial, sans-serif"
+>
+<Variable name="commentTextFont" description="Comment Text Font"
+type="font"
+default="normal normal 95% Arial, sans-serif"
+>
+<Variable name="footerHeaderFont" description="Footer Header Font"
+type="font"
+default="normal bold 131% Trebuchet, Trebuchet MS, Arial, sans-serif"
+>
+<Variable name="footerTextFont" description="Footer Text Font"
+type="font"
+default="normal normal 76% Trebuchet, Trebuchet MS, Arial, sans-serif"
+>
+*/
+#navbar-iframe {
+display: none !important;
+}
+/* -----   GLOBAL   ----- Blogger template design by Ourblogtemplates.com */
+body {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: center;
+color: #666666;
+background: #ffffff; /* url() repeat left top */
+background-attachment: fixed;
+font-family: arial,verdana,helvetica,tahoma,Sans-serif;
+font-size: 100%;
+width: 100%;
+}
+#outer-wrapper {
+margin: 0 auto;   /* to make the template lay in the screen center */
+padding: 0px 0px 0px 0px;
+margin-top: 0px;
+margin-bottom: 40px;
+position: relative;
+width: 100%;
+text-align: center;
+}
+#upper-wrapper {
+margin: 0;
+padding: 0;
+position: relative;
+text-align: center;
+width: 100%;
+height: 0px;
+}
+#blog-wrapper {
+margin: 0 auto;   /* to make the template lay in the screen center */
+margin-top: 20px;
+padding: 0px 0px 0px 0px;
+text-align: center;
+position: relative;
+width: 940px;
+}
+#content-wrapper {
+margin: 0px 0px 0px 0px;
+padding: 5px 5px 5px 5px;
+width: 928px;
+position: relative;
+text-align: center;
+background: #ffffff;
+border: 1px solid #ffffff;
+}
+#content {
+margin: 0px 0px 0px 0px;
+padding: 13px 0px 0px 13px;
+width: 913px;
+text-align: left;
+background: #ffffff;
+border: 1px solid #ffffff;
+}
+#spacer {
+z-index: -1;
+clear: both;
+margin: -7px 0px 0px 0px;
+padding: 0;
+line-height: 0;
+min-height: 0;
+max-height: 0;
+z-index: -1;
+}
+/* global link attributes */
+a {
+color: #5378AE;
+text-decoration: underline;
+}
+a:hover {
+text-decoration: underline;
+color: #e1771e;
+}
+a:visited {
+text-decoration: underline;
+color: #5378AE;
+}
+/* setting margin of Blogger Navbar */
+#Navbar1 {
+margin: 0;
+padding: 0;
+}
+/* -----   HEADER   ----- Blogger template design by Ourblogtemplates.com */
+#header-wrapper {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+width: 900px;
+}
+#header {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+#header h1 {
+display: block;
+color: #5378AE;
+font: normal normal 140% Verdana, sans-serif;
+text-align: left;
+margin: 0px 0px 0px 0px;
+padding: 100px 0px 0px 0px;
+}
+#header h1 a {
+text-decoration: none;
+color: #5378AE;
+}
+#header h1 a:hover {
+text-decoration: none;
+color: #999999;
+}
+#header .description {
+display: block;
+color: #999999;
+font: normal normal 83% Georgia, Times, serif;
+text-align: left;
+margin: 1px 0px 0px 0px;
+padding: 1px 0px 10px 0px;
+}
+#header h1 p, #header .description p {margin:0;padding:0}
+#header a img {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border: 0;
+position: absolute;
+top: 0px;
+left: 0px;
+}
+/* -----   LINKBAR   ----- Blogger template design by Ourblogtemplates.com */
+#linkbar {
+margin: 0px 0px 0px 0px;
+padding: 3px 0px 5px 0px;
+width: 900px;
+position: relative;
+background: #5378AE;
+border-top: 1px solid #5378AE;
+border-bottom: 1px solid #5378AE;
+}
+#linkbar ul {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 3px;
+text-align: left;
+list-style-type:none;
+}
+#linkbar li {
+display: inline;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+#linkbar h2 {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+display: none;
+visibility: hidden;
+}
+#linkbar a {
+clear: both;
+margin: 0px -4px 0px 0px;
+padding: 6px 15px 5px 15px;
+width:100%px;
+text-decoration:none;
+font: normal bold 76% Arial, sans-serif;
+color: #ffffff;
+background: #5378AE;
+border-right: 1px solid #5378AE;
+}
+#linkbar a:hover {
+color: #5378AE;
+background: #ffffff;
+}
+/* -----   PICTURE  ----- */
+#picture-wrapper {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+width: 800px;
+background: #ff0000;
+margin-bottom: 0;
+}
+#picture {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+width: 800px;
+background: #ffffff;
+margin-bottom: 0;
+}
+.picture {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+margin-bottom: 0;
+}
+#picture .widget, .picture p {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+margin-bottom: 0;
+}
+#picture img {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+#picture h2 {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+display: none;
+visibility: hidden;
+}
+/* -----   MAIN   ----- Blogger template design by Ourblogtemplates.com */
+#main-wrapper {
+float: left;
+position: relative;
+width: 615px;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden; /* fix for long non-text content breaking IE sidebar float */
+}
+#main {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+width: 611px;
+color: #666666;
+font: normal normal 67% Verdana, sans-serif;
+}
+#main .widget {
+margin: 0px 0px 10px 0px;
+padding: 20px 20px 0px 0px;
+}
+h2.date-header {
+margin: 5px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: left;
+color: #999999;
+font: normal normal 95% Arial, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+}
+.date-header span {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+.post {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+line-height: 1.6em;
+text-align: left;
+}
+.post h3 {
+margin: 0px 0px 20px 0px;
+padding: 0px 0px 10px 0px;
+color: #5378AE;
+font: normal normal 222% Georgia, Times, serif;
+text-decoration: none;
+text-align: left;
+line-height: 1.6em;
+border-bottom: 1px solid #C3D9FF;
+}
+.post h3 a, .post h3 a:visited {
+color: #5378AE;
+text-decoration: none;
+}
+.post h3 a:hover {
+color: #e1771e;
+text-decoration: none;
+}
+.post-body p {
+/* Fix bug in IE5/Win with italics in posts */
+margin: 0px 0px 0px 0px;
+padding: 3px 0px 3px 0px;
+display: inline; /* to fix floating-ads wrapping problem in IE */
+height: 1%;
+overflow: visible;
+}
+.post-body p a, .post-body p a:visited {
+color: #5378AE;
+text-decoration: underline;
+}
+.post-body a:hover {
+text-decoration: underline;
+color: #e1771e;
+}
+.post ul {
+margin: 0px 0px 0px 0px;
+padding: 12px 0px 12px 30px;
+list-style-type: disc;
+line-height: 2.0em;
+font-size: 95%;
+}
+.post ol {
+margin: 0px 0px 0px 0px;
+padding: 12px 0px 12px 30px;
+line-height: 2.0em;
+font-size: 95%;
+}
+.post li {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+line-height: 1.5em;
+}
+a img {
+margin: 5px 5px 5px 5px;
+padding: 0px 0px 0px 0px;
+}
+/* -----   POST-FOOTER   ----- Blogger template design by Ourblogtemplates.com */
+.post-footer {
+display: block;
+margin: 15px 0px 20px 0px;
+padding: 0px 0px 10px 0px;
+text-align: left;
+font: normal normal 88% Verdana, sans-serif;
+color: #666666;
+font-weight: normal;
+line-height: 1.5em;
+text-decoration: none;
+border-bottom: 1px dotted #ffffff;
+}
+.post-footer-line {
+margin: 1px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+.post-footer-line-1 {padding-top: 0px}
+.post-footer a {
+color: #5378ae;
+text-decoration: none;
+}
+.post-footer a:hover {
+text-decoration: none;
+color: #e1771e;
+text-decoration: none;
+}
+.post-footer .post-comment-link a {
+margin: 0px 10px 0px 10px;
+padding: 0px 10px 0px 10px;
+border-left: 1px solid #5378ae;
+border-right: 1px solid #5378ae;
+color: #5378AE;
+font-weight: bold;
+text-transform: uppercase;
+}
+.post-footer .post-comment-link a:hover {
+text-decoration: none;
+color: #e1771e;
+}
+#blog-pager {
+margin: 0px 0px 0px 0px;
+padding: 5px 0px 5px 0px;
+text-align: center;
+font-size: 95%;
+color: #5378AE;
+border-top: 1px dotted #C3D9FF;
+}
+#blog-pager a {color: #5378AE}
+#blog-pager a:hover {color: #e1771e}
+#blog-pager-newer-link {
+float: left;
+margin: 0px 0px 0px 0px;
+padding-left: 3px;
+}
+#blog-pager-older-link {
+float: right;
+margin: 0px 0px 0px 0px;
+padding-right: 3px;
+}
+.feed-links {
+margin: 0px 0px 0px 0px;
+padding: 10px 3px 0px 3px;
+clear: both;
+line-height: 1.5em;
+text-align: left;
+font-size: 93%;
+color: #5378AE;
+}
+.feed-links a, .feed-links a:visited {color: #5378AE}
+.feed-links a:hover {color: #e1771e}
+/* -----   SIDEBAR   ----- Blogger template design by Ourblogtemplates.com */
+#side-wrapper {
+float: left;
+margin: 0px 0px 0px 0px;
+padding: 25px 0px 0px 0px;
+width: 285px;
+background: #f3f8ff;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden; /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+float: left;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden; /* fix for long non-text content breaking IE sidebar float */
+}
+.sidebar {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: left;
+line-height: 1.4em;
+font: normal normal 67% Verdana, sans-serif;
+}
+#sidebar1 {
+width: 275px;
+margin: 0px 0px 3px 0px;
+padding: 10px 0px 0px 10px;
+color: #999999;
+background: #f3f8ff;
+}
+#sidebar1 .widget {
+margin: 0px 0px 20px 0px;
+padding: 0px 0px 3px 0px;
+}
+/* sidebar heading ----- Blogger template design by Ourblogtemplates.com */
+#sidebar1 h2 {
+margin: -10px -10px 10px -10px;
+padding: 7px 10px 7px 10px;
+text-align: left;
+color: #5378AE;
+font: normal bold 101% Verdana, sans-serif;
+text-transform: uppercase;
+background: #ffffff;
+border-top: 5px solid #C3D9FF;
+border-bottom: 1px solid #C3D9FF;
+text-align: left;
+}
+.sidebar ul, #BlogArchive1 ul {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+list-style-type: none;
+}
+.sidebar li, #BlogArchive1 li {
+margin: 0px 0px 0px 0px;
+padding: 5px 0px 5px 0px;
+line-height: 1.3em;
+border-bottom: 1px solid #f5f5f5;
+}
+#sidebar1 a {
+color: #5378AE;
+text-decoration: none;
+}
+#sidebar1 a:hover {
+text-decoration: none;
+color: #e1771e;
+}
+#sidebar1 a:visited {
+text-decoration: none;
+color: #5378AE;
+}
+.sidebar a img {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+/* -----   PROFILE   ----- Blogger template design by Ourblogtemplates.com */
+.profile-img a img {
+display: block;
+float: left;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+clear: both;
+}
+.profile-textblock {
+margin: 0px 0px 0px 0px;
+padding: 10px 0px 10px 0px;
+clear: both;
+line-height: 1.4em;
+}
+.profile-data {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+font-weight: normal;
+font-style: italic;
+}
+.profile-datablock {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+.profile-link {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+/* -----   BLOCKQUOTE   ----- */
+blockquote {
+margin: 12px 30px 12px 20px;
+padding: 0px 0px 0px 10px;
+color: #666666;
+font: italic normal 99% Verdana, sans-serif;
+line-height: 1.6em;
+color: #666666;
+}
+/* -----   CODE   ----- */
+code {
+color: #666666;
+font-size: 110%;
+}
+/* -----   COMMENT   ----- Blogger template design by Ourblogtemplates.com */
+#comments {
+margin: 15px 0px -1px 0px;
+padding: 0px 0px 15px 0px;
+text-align: left;
+color: #666666;
+font: normal normal 105% Verdana, sans-serif;
+}
+/* comment-header */
+#comments h4 {
+margin: 0px 0px 0px 0px;
+padding: 15px 0px 0px 0px;
+color: #5378AE;
+font: normal bold 101% Verdana, sans-serif;
+text-transform: uppercase;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+margin: 3px 0px 3px 0px;
+}
+.comment-author {
+display: block;
+margin: 15px 0px 0px 0px;
+padding: 7px 10px 7px 10px;
+color: #5378AE;
+background: #f8f8f8;
+border: 1px solid #e6e6e6;
+font-size: 135%;
+font-weight: bold;
+}
+.comment-author a {color: #5378AE;}
+.comment-author a:hover {color: #e1771e;}
+.comment-body {
+margin: 0px 0px 0px 0px;
+padding: 10px 0px 10px 50px;
+}
+.comment-footer {
+margin: 7px 0px 7px 0px;
+padding: 0px 0px 0px 0px;
+}
+.comment-timestamp {
+margin: 0px 0px 0px 10px;
+padding: 0px 0px 7px 10px;
+color: #999999;
+text-decoration: none;
+font-weight: normal;
+font-size: 74%;
+font-style: italic;
+}
+.comment-timestamp a {
+color: #999999;
+text-decoration: none;
+}
+.comment-body p {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+line-height: 1.6em;
+}
+#comments ul {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+list-style-type: disc;
+}
+#comments li {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+a.comment-link {
+/* ie5.0/win doesn't apply padding to inline elements,
+so we hide these two declarations from it */
+padding: 0px 0px 0px 0px;
+}
+html>body a.comment-link {
+/* respecified, for ie5/mac's benefit */
+padding-left: 0px;
+}
+/* -----   ADS SECTION   ----- Blogger template design by Ourblogtemplates.com */
+#adsection-wrapper {
+clear: both;
+display: inline; /* handles IE margin bug */
+float: left;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: center;
+width: 900px;
+}
+#adsection {
+margin: 0px 0px 0px 0px;
+padding: 5px 5px 5px 5px;
+text-align: center;
+color: #666666;
+font: normal normal 67% Verdana, sans-serif;
+}
+/* -----   FOOTER   ----- Blogger template design by Ourblogtemplates.com */
+#footer-wrapper {
+clear: both;
+display: inline; /* handles IE margin bug */
+float: left;
+width: 900px;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+background: #5378AE;
+border: 1px solid #5378AE;
+}
+#footer {
+margin: 0px 0px 0px 0px;
+padding: 5px 20px 5px 20px;
+text-align: center;
+color: #ffffff;
+font: normal bold 67% Arial, sans-serif;
+line-height: 1.6em;
+}
+#footer h2 {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 3px 0px;
+color: #ffffff;
+font: normal bold 103% Arial, sans-serif;
+}
+#footer .widget {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+.footer a {
+color: #ffffff;
+text-decoration: none;
+}
+.footer a:hover {
+color: #e1771e;
+text-decoration: none;
+}
+.footer a:visited {
+color: #ffffff;
+text-decoration: none;
+}
+/* -----   CREDIT   ----- */
+#credit {
+margin: 0px 0px 0px 0px;
+padding: 2px 0px 0px 0px;
+width: 100%;
+height: 26px;
+clear: both;
+font-family: verdana, helvetica;
+font-size: 70%;
+color: #555555;
+font-weight: normal;
+background: #000000;
+}
+#creditleft {
+margin: 0px 0px 0px 0px;
+padding: 7px 0px 0px 0px;
+height: 26px;
+position: relative;
+float: left;
+text-align: left;
+display: inline;
+width: 71%;
+background: #ffffff;
+}
+#creditright {
+margin: -33px 0px 0px 0px;
+padding: 7px 0px 0px 0px;
+height: 26px;
+position: relative;
+float: right;
+text-align:right;
+display: inline;
+width: 30%;
+background: #ffffff;
+}
+#creditleft p {
+margin: 0;
+padding: 0
+}
+#creditright p {
+margin: 0;
+padding: 0
+}
+#creditleft a, .creditleft a:hover, .creditleft a:visited {
+color: #555555;
+text-decoration: underline;
+}
+#creditright a, .creditright a:hover, .creditright a:visited {
+color: #555555;
+text-decoration: underline;
+}
+/* ************ END OF CSS STYLING ************ */
+/** Page structure tweaks for layout editor wireframe */
+body#layout #main,
+body#layout #sidebar {
+padding: 0;
+}
+
+--></style>
+<link type="text/css" rel="stylesheet" href="http://www.blogger.com/widgets/3621016318-bloglist.css"><link type="text/css" rel="stylesheet" href="http://www.blogger.com/widgets/3319451950-blogarchive.css"> <link rel="stylesheet" type="text/css" href="http://www.blogger.com/v-css/3727950723-blog_controls.css">
+ <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=6004398599119526030&amp;zx=3469c63a-8d65-4e5d-a0e4-3652c62b1486">
+<style type="text/css">#navbar-iframe { display:block }
+</style>
+
+<link type="text/css" rel="stylesheet" href="http://www.blogger.com/widgets/1326023001-blog.css"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4744682-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script></head>
+
+
+<body>
+<div class="navbar section" id="navbar"><div class="widget Navbar" id="Navbar1"><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener("load",
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<iframe src="http://www.blogger.com/navbar.g?targetBlogID=6004398599119526030&amp;blogName=Blog+%40+jDonuts&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLUE&amp;layoutType=LAYOUTS&amp;homepageUrl=http%3A%2F%2Fblog.jdonuts.com%2F&amp;searchRoot=http%3A%2F%2Fblog.jdonuts.com%2Fsearch" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" title="Blogger Navigation and Search"></iframe>
+<div></div></div></div>
+<div id="outer-wrapper">
+<!-- skip links for text browsers -->
+<span id="skiplinks" style="display:none;">
+<a href="#main">skip to main </a> |
+<a href="#sidebar">skip to sidebar</a>
+</span>
+<div id="upper-wrapper"></div>
+<div id="blog-wrapper">
+<div id="content-wrapper"><div id="content">
+<div id="header-wrapper">
+<div class="header section" id="header"><div class="widget Header" id="Header1">
+<div id="header-inner" style="background-image: url(&quot;http://bp2.blogger.com/_oDMsTDHESSQ/SE0zMY9WZoI/AAAAAAAADQI/lhxcPORnWEo/S1600-R/Header-blog.jdonuts.com-BIG.jpg&quot;); background-repeat: no-repeat; width: 900px; height: 170px;">
+<div class="titlewrapper" style="background: transparent">
+<h1 class="title" style="background: transparent; border-width: 0px">
+<a href="http://blog.jdonuts.com/">Blog @ jDonuts</a>
+</h1>
+</div>
+<div class="descriptionwrapper">
+<p class="description"><span>Tips you can use to improve your blog, drive traffic or earn money online.</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id="linkbar-wrapper">
+<div class="linkbar section" id="linkbar"><div class="widget LinkList" id="LinkList1">
+<h2>Linkbar</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://blog.jdonuts.com/feeds/posts/default">Subscribe by RSS</a></li>
+<li><a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1454608&amp;loc=en_US">Subscribe by E-Mail</a></li>
+<li><a href="http://blog.jdonuts.com/2007/08/comment-moderation-policy.html">Comment Policy</a></li>
+<li><a href="http://blog.jdonuts.com/2008/07/privacy-statement.html">Privacy Policy</a></li>
+<li><a href="http://blog.jdonuts.com/2007/07/contact-me.html">Contact Me</a></li>
+<li><a href="http://sales.jdonuts.com/">Sales</a></li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList1&quot;));" target="configLinkList1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div></div>
+</div>
+<div style="clear: both;"></div>
+<div id="main-wrapper">
+<div class="main section" id="main"><div class="widget Blog" id="Blog1">
+<div class="blog-posts">
+<!-- google_ad_section_start -->
+<h2 class="date-header">Saturday, 26 July 2008</h2>
+<div class="post">
+<a name="2127607102318910439"></a>
+<h3 class="post-title">
+<a href="http://blog.jdonuts.com/2008/07/privacy-statement.html">Privacy Statement</a>
+</h3>
+<div class="post-header-line-1"></div>
+<div class="post-body">
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_oDMsTDHESSQ/SI-zLAkiD3I/AAAAAAAAD8c/XBlRO_hRPx8/s1600-h/2008Jul-Privacy.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp3.blogger.com/_oDMsTDHESSQ/SI-zLAkiD3I/AAAAAAAAD8c/XBlRO_hRPx8/s200/2008Jul-Privacy.jpg" alt="" id="BLOGGER_PHOTO_ID_5228594694113595250" border="0"></a>Privacy Policy for jdonuts.com<br><br>The privacy of our visitors to jdonuts.com is important to us.<br><br>At jdonuts.com, we recognise that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit jdonuts.com, and how we safeguard your information.  We never sell your personal information to third parties.<br><br>Log Files<br>As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br><br>Cookies and Web Beacons<br>We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.<br><br>We also use third party advertisements on jdonuts.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).<br><br>You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.<br><br>AdSense Privacy Policy Provided by <a href="http://www.jensense.com/">JenSense</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<p class="post-footer-line post-footer-line-1"><span class="post-author">
+Posted by
+Contamination
+</span>
+<span class="post-timestamp">
+at
+<a class="timestamp-link" href="http://blog.jdonuts.com/2008/07/privacy-statement.html" title="permanent link">09:00</a>
+</span>
+<span class="post-comment-link">
+</span>
+<span class="post-icons">
+</span>
+</p>
+<p class="post-footer-line post-footer-line-2"><span class="post-labels">
+Labels:
+<a href="http://blog.jdonuts.com/search/label/jDonuts%20News" rel="tag">jDonuts News</a>
+</span>
+</p>
+<p class="post-footer-line post-footer-line-3"></p>
+<a href="#random" onclick="feelingLucky()" title="Random Post">Feeling Lucky?</a> Click for a random post or <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1454608&amp;loc=en_US">Subscribe to Blog @ jDonuts by Email</a>
+</div>
+</div>
+<div class="comments" id="comments">
+<a name="comments"></a>
+<h4>
+0
+comments:
+        
+</h4>
+<dl id="comments-block">
+</dl>
+<p class="comment-footer">
+<a href="http://www.blogger.com/comment.g?blogID=6004398599119526030&amp;postID=2127607102318910439" onclick="">Post a Comment</a>
+</p>
+<div id="backlinks-container">
+<div id="Blog1_backlinks-container">
+</div>
+</div>
+</div>
+<!-- google_ad_section_end -->
+</div>
+<div class="blog-pager" id="blog-pager">
+<span id="blog-pager-newer-link">
+<a class="blog-pager-newer-link" href="http://blog.jdonuts.com/2008/07/entrecard-credits-are-monopoly-money.html" id="Blog1_blog-pager-newer-link" title="Newer Post">Newer Post</a>
+</span>
+<span id="blog-pager-older-link">
+<a class="blog-pager-older-link" href="http://blog.jdonuts.com/2008/07/false-dream-of-blogging.html" id="Blog1_blog-pager-older-link" title="Older Post">Older Post</a>
+</span>
+<a class="home-link" href="http://blog.jdonuts.com/">Home</a>
+</div>
+<div class="clear"></div>
+<div class="post-feeds">
+<div class="feed-links">
+Subscribe to:
+<a class="feed-link" href="http://blog.jdonuts.com/feeds/2127607102318910439/comments/default" target="_blank" type="application/atom+xml">Post Comments (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+<div id="side-wrapper">
+<div class="sidebar section" id="sidebar1"><div class="widget HTML" id="HTML1">
+<h2 class="title">Sponsors</h2>
+<div class="widget-content">
+<table><tbody><tr><td><script id="ecard_widget" src="http://entrecard.s3.amazonaws.com/widget.js?user_id=1018&amp;type=standard_127" type="text/javascript"></script></td><td><!-- Begin Project Wonderful ad code: -->
+<!-- IMPORTANT: All lines, including these comments, must be included. -->
+<!-- Removal or unauthorized alteration may result in your ads being automatically suspended! -->
+<!-- Ad box ID: 8451 -->
+<script language="JavaScript" type="text/javascript">
+<!--
+//On the next two lines, you can set custom colours for your
+//ad box, which will override anything you've set on
+//Project Wonderful.  This is useful when you have the
+//same ad box appearing on pages with different colour
+//schemes.  Use only hexadecimal colour codes here.  If you
+//don't understand what this means, don't worry!  You can leave
+//the code unaltered and your ads will still display properly.
+foregroundColor='';
+backgroundColor='';
+
+r = new String (Math.random()*1000);
+r = r.substr(0, 5);
+s = new String (String.fromCharCode(60));
+s += "script language='JavaScript' type='text/javascript'";
+s += "src = http://www.projectwonderful.com/gen.php";
+s += "?id=8451&amp;amp;type=4";
+s += "&amp;amp;r=" + r;
+if (document.referrer){
+s += "&amp;amp;referer=" + escape(document.referrer);
+}
+s += "><\/scr";
+s += "ipt>";
+document.write(s);
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.projectwonderful.com/gen.php?id=8451&amp;amp;type=4&amp;amp;r=134.2"></script>
+<noscript><map id="admap8451" name="admap8451"><area shape="rect" coords="0,0,125,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=0&amp;id=8451&amp;type=4" target="_blank" rel="nofollow" title=""/><area shape="rect" coords="125,0,250,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=1&amp;id=8451&amp;type=4" target="_blank" rel="nofollow" title=""/><area shape="rect" coords="0,125,125,250" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=1&amp;c=0&amp;id=8451&amp;type=4" target="_blank" rel="nofollow" title=""/><area shape="rect" coords="125,125,250,250" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=1&amp;c=1&amp;id=8451&amp;type=4" target="_blank" rel="nofollow" title=""/></map>
+<table border="0" cellpadding="0" cellspacing="0" width="250" bgcolor=""><tr><td><img border="0" usemap="#admap8451" width="250" alt="" src="http://www.projectwonderful.com/nojs.php?id=8451&amp;type=4" height="250"/></td></tr><tr><td colspan="2" bgcolor=""><center><a style="font-size:10px;color:#5378AE;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=8451&amp;type=4" target="_blank">Your ad here, right now, for as low as $0.01</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful ad code. --></td></tr></tbody></table>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget AdSense" id="AdSense1">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client="pub-3845423812582366";
+google_ad_host="pub-1556223355139109";
+google_ad_width=250;
+google_ad_height=250;
+google_ad_format="250x250_as";
+google_ad_type="text";
+google_color_border="F3F8FF";
+google_color_bg="F3F8FF";
+google_color_link="5378AE";
+google_color_url="5378AE";
+google_color_text="999999";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div><div class="widget Feed" id="Feed2">
+<h2>Recent Posts</h2>
+<div class="widget-content">
+<ul id="Feed2_feedItemListDisplay">
+<li>
+<span class="item-title">
+<a href="http://feeds.feedburner.com/~r/jdonuts/blog/~3/390140799/robert-kiyosaki.html">
+Robert Kiyosaki
+</a>
+</span>
+</li>
+<li>
+<span class="item-title">
+<a href="http://feeds.feedburner.com/~r/jdonuts/blog/~3/386172002/why-are-there-so-many-make-money-online.html">
+Why are there so MANY make money online blogs?
+</a>
+</span>
+</li>
+<li>
+<span class="item-title">
+<a href="http://feeds.feedburner.com/~r/jdonuts/blog/~3/383695776/why-live-cheaply.html">
+Why live cheaply
+</a>
+</span>
+</li>
+<li>
+<span class="item-title">
+<a href="http://feeds.feedburner.com/~r/jdonuts/blog/~3/380031010/it-can-cause.html">
+It Can Cause
+</a>
+</span>
+</li>
+<li>
+<span class="item-title">
+<a href="http://feeds.feedburner.com/~r/jdonuts/blog/~3/377826934/stocks-vs-blogging.html">
+Stocks Vs Blogging
+</a>
+</span>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=Feed&amp;widgetId=Feed2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed2&quot;));" target="configFeed2" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" id="HTML2">
+<h2 class="title">Recent Comments</h2>
+<div class="widget-content">
+<script style="text/javascript" src="http://simpletricksblog.googlepages.com/showrecentcomments2.js"></script><script style="text/javascript">var numcomments = 5;var showcommentdate = true;var showposttitle = true;var numchars = 100;var standardstyling = true;</script><script src="http://misdoblog.blogspot.com/feeds/comments/default?alt=json-in-script&amp;callback=showrecentcomments"></script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" id="HTML6">
+<div class="widget-content">
+<script src="http://pub.mybloglog.com/comm2.php?mblID=2007103020221707&amp;c_width=270&amp;c_sn_opt=n&amp;c_rows=3&amp;c_img_size=f&amp;c_heading_text=Recent+Readers&amp;c_color_heading_bg=f3f8ff&amp;c_color_heading=5378AE&amp;c_color_link_bg=f3f8ff&amp;c_color_link=5378AE&amp;c_color_bottom_bg=f3f8ff" type="text/javascript"></script>
+<script src="http://www.blogcatalog.com/w/recent.php?id=4426451&amp;width=270&amp;rows=3&amp;bgcolor=f3f8ff&amp;bcolor=f3f8ff&amp;lcolor=f3f8ff&amp;hcolor=5378AE&amp;htext=Recent%20Viewers&amp;name=1&amp;img=l" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4744682-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" id="HTML4">
+<h2 class="title">Sponsors</h2>
+<div class="widget-content">
+<!-- Beginning of Project Wonderful ad code: -->
+<!-- Ad box ID: 22404 -->
+<script type="text/javascript">
+<!--
+var d=document;
+d.projectwonderful_adbox_id = "22404";
+d.projectwonderful_adbox_type = "4";
+d.projectwonderful_foreground_color = "";
+d.projectwonderful_background_color = "";
+//-->
+</script>
+<script src="http://www.projectwonderful.com/ad_display.js" type="text/javascript"></script>
+<noscript><map id="admap22404" name="admap22404"><area shape="rect" coords="0,0,125,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=0&amp;id=22404&amp;type=4" target="_blank" title=""/><area shape="rect" coords="125,0,250,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=1&amp;id=22404&amp;type=4" target="_blank" title=""/></map>
+<table border="0" cellpadding="0" cellspacing="0" width="250" bgcolor="#ffffff"><tr><td><img border="0" usemap="#admap22404" width="250" alt="" src="http://www.projectwonderful.com/nojs.php?id=22404&amp;type=4" height="125"/></td></tr><tr><td colspan="2" bgcolor="#ffffff"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=22404&amp;type=4" target="_blank">Project Wonderful - Your ad here, right now, for as low as $0.00</a></center></td></tr><tr><td valign="top" colspan="2" width="250" style="height:3px;font-size:1px;padding:0px;max-height:3px;" bgcolor="#000000"></td></tr></table>
+</noscript>
+<!-- End of Project Wonderful ad code. -->
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget AdSense" id="AdSense2">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client="pub-3845423812582366";
+google_ad_host="pub-1556223355139109";
+google_ad_width=250;
+google_ad_height=250;
+google_ad_format="250x250_as";
+google_ad_type="text";
+google_color_border="F3F8FF";
+google_color_bg="F3F8FF";
+google_color_link="5378AE";
+google_color_url="5378AE";
+google_color_text="999999";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div><div class="widget BlogList" id="BlogList1">
+<div id="blog-list-title">
+<h2 class="title">Cool Bloggers</h2>
+</div>
+<div class="widget-content">
+<div class="blog-list-container" id="BlogList1_container">
+<ul id="BlogList1_blogs">
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://ahkong.net" target="_blank">
+ahkong.net</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://blogcebuworld.com" target="_blank">
+Blog From Cebu To The World</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.graphictruth.com/" target="_blank">
+Graphictruth</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.tiggyblog.com" target="_blank">
+Tiggyblog: A Cocktail of Fun</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://shiftworkersunite.com" target="_blank">
+Voice of the American Shift Worker</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://peterkorkala.com" target="_blank">
+peterkorkala.com</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=BlogList&amp;widgetId=BlogList1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogList1&quot;));" target="configBlogList1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+</div><div class="widget Label" id="Label1">
+<h2>Categories</h2>
+<div class="widget-content">
+<ul>
+<li>
+<a href="http://blog.jdonuts.com/search/label/jDonuts%20News">jDonuts News</a>
+
+        (84)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Ramblings">Ramblings</a>
+
+        (73)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/EntreCard">EntreCard</a>
+
+        (50)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/How%20to%20run%20a%20good%20blog">How to run a good blog</a>
+
+        (48)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Something%20is%20Wrong">Something is Wrong</a>
+
+        (37)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/How%20to%20get%20Traffic">How to get Traffic</a>
+
+        (36)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Stumble%20Upon">Stumble Upon</a>
+
+        (19)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Project%20Wonderful">Project Wonderful</a>
+
+        (18)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/AdSense">AdSense</a>
+
+        (15)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/How%20to%20make%20Money">How to make Money</a>
+
+        (13)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Google">Google</a>
+
+        (12)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/BidVertizer">BidVertizer</a>
+
+        (9)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Setting%20Goals">Setting Goals</a>
+
+        (9)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Competiton">Competiton</a>
+
+        (6)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Living%20Frugal">Living Frugal</a>
+
+        (6)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Alexa">Alexa</a>
+
+        (5)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/How%20to%20Build%20Links">How to Build Links</a>
+
+        (4)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Technocrati">Technocrati</a>
+
+        (4)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/BlogsEyeView">BlogsEyeView</a>
+
+        (3)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/SezWho">SezWho</a>
+
+        (3)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Yahoo">Yahoo</a>
+
+        (2)
+      </li>
+<li>
+<a href="http://blog.jdonuts.com/search/label/Internet">Internet</a>
+
+        (1)
+      </li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=Label&amp;widgetId=Label1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Label1&quot;));" target="configLabel1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget BlogArchive" id="BlogArchive1">
+<h2>Archives</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<ul>
+<li class="archivedate expanded">
+<a class="toggle" href="http://blog.jdonuts.com/2008/07/privacy-statement.html?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=close&amp;toggle=YEARLY-1199113200000&amp;toggleopen=MONTHLY-1220194800000">
+<span class="zippy toggle-open">▼ </span>
+</a>
+<a class="post-count-link" href="http://blog.jdonuts.com/search?updated-min=2008-01-01T00%3A00%3A00%2B09%3A00&amp;updated-max=2009-01-01T00%3A00%3A00%2B09%3A00&amp;max-results=50">2008</a>
+            (<span class="post-count">150</span>)
+          
+<ul>
+<li class="archivedate expanded">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_09_01_archive.html">September</a>
+            (<span class="post-count">4</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_08_01_archive.html">August</a>
+            (<span class="post-count">21</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_07_01_archive.html">July</a>
+            (<span class="post-count">27</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_06_01_archive.html">June</a>
+            (<span class="post-count">24</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_05_01_archive.html">May</a>
+            (<span class="post-count">14</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_04_01_archive.html">April</a>
+            (<span class="post-count">17</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_03_01_archive.html">March</a>
+            (<span class="post-count">9</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_02_01_archive.html">February</a>
+            (<span class="post-count">9</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2008_01_01_archive.html">January</a>
+            (<span class="post-count">25</span>)
+          
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="toggle" href="http://blog.jdonuts.com/2008/07/privacy-statement.html?widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=toggle&amp;dir=open&amp;toggle=YEARLY-1167577200000&amp;toggleopen=MONTHLY-1220194800000">
+<span class="zippy">► </span>
+</a>
+<a class="post-count-link" href="http://blog.jdonuts.com/search?updated-min=2007-01-01T00%3A00%3A00%2B09%3A00&amp;updated-max=2008-01-01T00%3A00%3A00%2B09%3A00&amp;max-results=50">2007</a>
+            (<span class="post-count">62</span>)
+          
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2007_12_01_archive.html">December</a>
+            (<span class="post-count">26</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2007_11_01_archive.html">November</a>
+            (<span class="post-count">11</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2007_10_01_archive.html">October</a>
+            (<span class="post-count">2</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2007_09_01_archive.html">September</a>
+            (<span class="post-count">13</span>)
+          
+</li>
+</ul>
+<ul>
+<li class="archivedate collapsed">
+<a class="post-count-link" href="http://blog.jdonuts.com/2007_08_01_archive.html">August</a>
+            (<span class="post-count">10</span>)
+          
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogArchive1&quot;));" target="configBlogArchive1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" id="HTML8">
+<h2 class="title">Sponsors</h2>
+<div class="widget-content">
+<!-- Beginning of Project Wonderful ad code: -->
+<!-- Ad box ID: 22407 -->
+<script type="text/javascript">
+<!--
+var d=document;
+d.projectwonderful_adbox_id = "22407";
+d.projectwonderful_adbox_type = "4";
+d.projectwonderful_foreground_color = "";
+d.projectwonderful_background_color = "";
+//-->
+</script>
+<script src="http://www.projectwonderful.com/ad_display.js" type="text/javascript"></script>
+<noscript><map id="admap22407" name="admap22407"><area shape="rect" coords="0,0,125,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=0&amp;id=22407&amp;type=4" target="_blank" title=""/><area shape="rect" coords="125,0,250,125" alt="" href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=1&amp;id=22407&amp;type=4" target="_blank" title=""/></map>
+<table border="0" cellpadding="0" cellspacing="0" width="250" bgcolor="#ffffff"><tr><td><img border="0" usemap="#admap22407" width="250" alt="" src="http://www.projectwonderful.com/nojs.php?id=22407&amp;type=4" height="125"/></td></tr><tr><td colspan="2" bgcolor="#ffffff"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=22407&amp;type=4" target="_blank">Project Wonderful - Your ad here, right now, for as low as $0.00</a></center></td></tr><tr><td valign="top" colspan="2" width="250" style="height:3px;font-size:1px;padding:0px;max-height:3px;" bgcolor="#000000"></td></tr></table>
+</noscript>
+<!-- End of Project Wonderful ad code. -->
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget AdSense" id="AdSense3">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client="pub-3845423812582366";
+google_ad_host="pub-1556223355139109";
+google_ad_width=250;
+google_ad_height=250;
+google_ad_format="250x250_as";
+google_ad_type="text";
+google_color_border="F3F8FF";
+google_color_bg="F3F8FF";
+google_color_link="5378AE";
+google_color_url="5378AE";
+google_color_text="999999";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div><div class="widget Profile" id="Profile1">
+<h2>Who is Contamination?</h2>
+<div class="widget-content">
+<a href="http://www.blogger.com/profile/14809513096354013061"><img alt="My Photo" class="profile-img" height="80" src="http://bp0.blogger.com/_oDMsTDHESSQ/SFuP7wogftI/AAAAAAAADrI/lQGb5YF6JGQ/S220/richard04.gif" width="80"></a>
+<dl class="profile-datablock">
+<dt class="profile-data">Contamination</dt>
+<dd class="profile-data">Saitama, Japan</dd>
+<dd class="profile-textblock">I'm an Australian living in Japan. Follow my life as I post about things of interest to me and to people who love Japan.</dd>
+</dl>
+<a class="profile-link" href="http://www.blogger.com/profile/14809513096354013061">View my complete profile</a>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=Profile&amp;widgetId=Profile1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Profile1&quot;));" target="configProfile1" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget BlogList" id="BlogList2">
+<div id="blog-list-title">
+<h2 class="title">My Blogs</h2>
+</div>
+<div class="widget-content">
+<div class="blog-list-container" id="BlogList2_container">
+<ul id="BlogList2_blogs">
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://jokes.jdonuts.com/" target="_blank">
+Jokes @ jDonuts</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://thenext-bigthing.blogspot.com/" target="_blank">
+The Next Big Thing</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://twitter.jdonuts.com/" target="_blank">
+Contamination's Twitter</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://look.jdonuts.com/" target="_blank">
+Look What I Found!</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://blog.jdonuts.com/" target="_blank">
+Blog @ jDonuts</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.jdonuts.com/" target="_blank">
+Mottekaero jDonuts</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://phat-jokes.blogspot.com/" target="_blank">
+Phat Jokes</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://endof-theweek.blogspot.com/" target="_blank">
+End Of The Week</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://engrish.jdonuts.com/" target="_blank">
+Japanese Engrish</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://sales.jdonuts.com/" target="_blank">
+Sales @ jDonuts</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://wallpapers.jdonuts.com/" target="_blank">
+Japanese Wallpapers</a>
+</div>
+<div class="item-content">
+</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=6004398599119526030&amp;widgetType=BlogList&amp;widgetId=BlogList2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogList2&quot;));" target="configBlogList2" title="Edit">
+<img alt="" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+</div></div>
+</div>
+<!-- end mainside-wrapper -->
+<!-- spacer for skins that sets sidebar and main to be the same height-->
+<div style="clear: both;"></div>
+<div id="adsection-wrapper">
+<div class="adsection section" id="adsection"></div>
+</div>
+<div style="clear: both;"></div>
+<div id="footer-wrapper">
+<div class="footer section" id="footer"></div>
+</div>
+<div style="clear: both;"></div>
+</div></div>
+<!-- end content-wrapper -->
+</div>
+<!-- end blog-wrapper -->
+</div>
+<!-- end outer-wrapper -->
+<!-- Please don't remove the credits below as we spent many hours creating this blogger template. It's only reasonable that you keep the link to Ourblogtemplates.com. -->
+<div id="credit">
+<div id="creditleft">
+<p>&nbsp;&nbsp;© Blogger template 'A Click Apart' by <a href="http://www.ourblogtemplates.com/">Ourblogtemplates.com</a> 2008</p>
+</div>
+<div id="creditright">
+<p>Back to <a href="#outer-wrapper">TOP</a>&nbsp;&nbsp;</p>
+</div>
+</div>
+<!-- end credit -->
+<script type="text/javascript" src="http://www.blogger.com/widgets/517042800-widgets.js"></script>
+<script type="text/javascript">
+_WidgetManager._Init('http://www.blogger.com/rearrange?blogID=6004398599119526030', 'http://blog.jdonuts.com/2008/07/privacy-statement.html','6004398599119526030');
+_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=6004398599119526030', 'F0WoyQq81cKRk-lgxhtlvce8vY0:1221275493456');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'Blog @ jDonuts', 'pageType': 'item', 'url': 'http://blog.jdonuts.com/2008/07/privacy-statement.html', 'homepageUrl': 'http://blog.jdonuts.com/', 'pageName': 'Privacy Statement', 'pageTitle': 'Blog @ jDonuts: Privacy Statement', 'encoding': 'UTF-8', 'isPrivate': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blog @ jDonuts - Atom\42 href\75\42http://blog.jdonuts.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Blog @ jDonuts - RSS\42 href\75\42http://blog.jdonuts.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Blog @ jDonuts - Atom\42 href\75\42http://www.blogger.com/feeds/6004398599119526030/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0756004398599119526030\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blog @ jDonuts - Atom\42 href\75\42http://blog.jdonuts.com/feeds/2127607102318910439/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': ''}}]);
+_WidgetManager._SetSystemMarkup({'layout': {'varName': '', 'template': '\74div class\75\47widget-wrap1\47\76\n\74div class\75\47widget-wrap2\47\76\n\74div class\75\47widget-wrap3\47\76\n\74div class\75\47widget-content\47\76\n\74div class\75\47layout-title\47\76\74data:layout-title\76\74/data:layout-title\76\74/div\76\n\74a class\75\47editlink\47 expr:href\75\47data:widget.quickEditUrl\47 expr:onclick\75\47\46quot;return _WidgetManager._PopupConfig(document.getElementById(\\\46quot;\46quot; +       data:widget.instanceId + \46quot;\\\46quot;));\46quot;\47 target\75\47chooseWidget\47\76\74data:edit-link\76\74/data:edit-link\76\74/a\76\n\74/div\76\n\74/div\76\n\74/div\76\n\74/div\076'}, 'quickedit': {'varName': '', 'template': '\74div class\75\47clear\47\76\74/div\76\n\74span class\75\47widget-item-control\47\76\n\74span class\75\47item-control blog-admin\47\76\n\74a class\75\47quickedit\47 expr:href\75\47data:widget.quickEditUrl\47 expr:onclick\75\47\46quot;return _WidgetManager._PopupConfig(document.getElementById(\\\46quot;\46quot; +       data:widget.instanceId + \46quot;\\\46quot;));\46quot;\47 expr:target\75\47\46quot;config\46quot; + data:widget.instanceId\47 expr:title\75\47data:edit-link\47\76\n\74img alt\75\47\47 src\75\47http://img1.blogblog.com/img/icon18_wrench_allbkg.png\47/\76\n\74/a\76\n\74/span\76\n\74/span\76\n\74div class\75\47clear\47\76\74/div\076'}, 'all-head-content': {'varName': 'page', 'template': '\74meta expr:content\75\47\46quot;text/html; charset\75\46quot; + data:page.encoding\47 http-equiv\75\47Content-Type\47/\76\n\74meta content\75\47true\47 name\75\47MSSmartTagsPreventParsing\47/\76\n\74meta content\75\47blogger\47 name\75\47generator\47/\76\n\74data:blog.feedLinks\76\74/data:blog.feedLinks\76\n\74data:blog.meTag\76\74/data:blog.meTag\76\n\74data:blog.openIdOpTag\76\74/data:blog.openIdOpTag\76\n\74b:if cond\75\47data:page.isPrivate\47\76\n\74meta content\75\47NOINDEX,NOFOLLOW\47 name\75\47robots\47/\76\n\74/b:if\076'}});
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'linkbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title\47\76\74h2\76\74data:title\76\74/data:title\76\74/h2\76\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74ul\76\n\74b:loop values\75\47data:links\47 var\75\47link\47\76\n\74li\76\74a expr:href\75\47data:link.target\47\76\74data:link.name\76\74/data:link.name\76\74/a\76\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}}, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'sidebar1',{'main': {'varName': '', 'template': '\74div class\75\47widget-content\47\76\n\74data:adCode\76\74/data:adCode\76\n\74/div\076'}}, document.getElementById('AdSense1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed2', 'sidebar1',{'main': {'varName': '', 'template': '\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74div class\75\47widget-content\47\76\n\74ul expr:id\75\47data:widget.instanceId + \46quot;_feedItemListDisplay\46quot;\47\76\n\74b:loop values\75\47data:feedData.items\47 var\75\47i\47\76\n\74li\76\n\74span class\75\47item-title\47\76\n\74a expr:href\75\47data:i.alternate.href\47\76\n\74data:i.title\76\74/data:i.title\76\n\74/a\76\n\74/span\76\n\74b:if cond\75\47data:showItemDate\47\76\n\74b:if cond\75\47data:i.str_published !\75 \46quot;\46quot;\47\76\n\74span class\75\47item-date\47\76\n                \46#160;-\46#160;\74data:i.str_published\76\74/data:i.str_published\76\n\74/span\76\n\74/b:if\76\n\74/b:if\76\n\74b:if cond\75\47data:showItemAuthor\47\76\n\74b:if cond\75\47data:i.author !\75 \46quot;\46quot;\47\76\n\74span class\75\47item-author\47\76\n                \46#160;-\46#160;\74data:i.author\76\74/data:i.author\76\n\74/span\76\n\74/b:if\76\n\74/b:if\76\n\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}}, document.getElementById('Feed2'), {'title': 'Recent Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://blog.jdonuts.com/feeds/posts/default', 'numItemsShow': 5, 'locale': 'en_GB', 'timeZone': 'Asia/Tokyo', 'feedReaderJsonBaseUrl': '/feedReaderJson', 'feedWidgetRefreshIntervalSec': 1800, 'feedData': {'title': 'Blog @ jDonuts', 'items': [{'guid': 'tag:blogger.com,1999:blog-6004398599119526030.post-2690807822834474937', 'title': 'Robert Kiyosaki', 'published': 1221177600, 'updated': 1221177600, 'alternate': {'href': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/390140799/robert-kiyosaki.html', 'type': 'text/html'}, 'author': 'Contamination', 'summary': '\74a href\75\42http://4.bp.blogspot.com/_oDMsTDHESSQ/SMUwS6p5AkI/AAAAAAAAEK4/q4h5UZ7mUIo/s1600-h/2008Sep-RobertKiyosaki.jpg\42\76\46lt;img style\75\46quot;margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;\46quot; src\75\46quot;http://4.bp.blogspot.com/_oDMsTDHESSQ/SMUwS6p5AkI/AAAAAAAAEK4/q4h5UZ7mUIo/s200/2008Sep-RobertKiyosaki.jpg\46quot; alt\75\46quot;\46quot; id\75\46quot;BLOGGER_PHOTO_ID_...\74/a\076', 'str_published': '12-Sep-2008', 'str_updated': '12-Sep-2008', 'custom_content': [{'custom_content_id': 'http://www.w3.org/2007/app:edited', 'custom_content_value': ['2008-09-12T09:00:00.464+09:00']}]}, {'guid': 'tag:blogger.com,1999:blog-6004398599119526030.post-171192724436283806', 'title': 'Why are there so MANY make money online blogs?', 'published': 1220832000, 'updated': 1220832000, 'alternate': {'href': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/386172002/why-are-there-so-many-make-money-online.html', 'type': 'text/html'}, 'author': 'Contamination', 'summary': '\74a href\75\42http://1.bp.blogspot.com/_oDMsTDHESSQ/SL_-BQXaD8I/AAAAAAAAEJc/F_1-9vrZkO4/s1600-h/2008Sep-MakeMoneyOnline.jpg\42\76\46lt;img style\75\46quot;margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;\46quot; src\75\46quot;http://1.bp.blogspot.com/_oDMsTDHESSQ/SL_-BQXaD8I/AAAAAAAAEJc/F_1-9vrZkO4/s200/2008Sep-MakeMoneyOnline.jpg\46quot; alt\75\46quot;\46quot; id\75\46quot;BLOGGER_PHOTO_ID_...\74/a\076', 'str_published': '08-Sep-2008', 'str_updated': '08-Sep-2008', 'custom_content': [{'custom_content_id': 'http://www.w3.org/2007/app:edited', 'custom_content_value': ['2008-09-08T09:00:00.927+09:00']}]}, {'guid': 'tag:blogger.com,1999:blog-6004398599119526030.post-9148248076926457031', 'title': 'Why live cheaply', 'published': 1220572800, 'updated': 1220572800, 'alternate': {'href': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/383695776/why-live-cheaply.html', 'type': 'text/html'}, 'author': 'Contamination', 'summary': '\74a href\75\42http://2.bp.blogspot.com/_oDMsTDHESSQ/SMAB-TzimnI/AAAAAAAAEJk/IMU1pXPfNxs/s1600-h/2008Sep-Scrooge.jpg\42\76\46lt;img style\75\46quot;margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;\46quot; src\75\46quot;http://2.bp.blogspot.com/_oDMsTDHESSQ/SMAB-TzimnI/AAAAAAAAEJk/IMU1pXPfNxs/s200/2008Sep-Scrooge.jpg\46quot; alt\75\46quot;\46quot; id\75\46quot;BLOGGER_PHOTO_ID_...\74/a\076', 'str_published': '05-Sep-2008', 'str_updated': '05-Sep-2008', 'custom_content': [{'custom_content_id': 'http://www.w3.org/2007/app:edited', 'custom_content_value': ['2008-09-05T09:00:00.450+09:00']}]}, {'guid': 'tag:blogger.com,1999:blog-6004398599119526030.post-3182023692814397783', 'title': 'It Can Cause', 'published': 1220227200, 'updated': 1220227201, 'alternate': {'href': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/380031010/it-can-cause.html', 'type': 'text/html'}, 'author': 'Contamination', 'summary': '\74a href\75\42http://3.bp.blogspot.com/_oDMsTDHESSQ/SLrbCzjXQYI/AAAAAAAAEIM/3pESSpZU_tk/s1600-h/2008Sep-Doctor.jpg\42\76\46lt;img style\75\46quot;margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;\46quot; src\75\46quot;http://3.bp.blogspot.com/_oDMsTDHESSQ/SLrbCzjXQYI/AAAAAAAAEIM/3pESSpZU_tk/s200/2008Sep-Doctor.jpg\46quot; alt\75\46quot;\46quot; id\75\46quot;BLOGGER_PHOTO_ID_...\74/a\076', 'str_published': '01-Sep-2008', 'str_updated': '01-Sep-2008', 'custom_content': [{'custom_content_id': 'http://www.w3.org/2007/app:edited', 'custom_content_value': ['2008-09-01T09:00:01.056+09:00']}]}, {'guid': 'tag:blogger.com,1999:blog-6004398599119526030.post-2298241212815071050', 'title': 'Stocks Vs Blogging', 'published': 1219989600, 'updated': 1219990028, 'alternate': {'href': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/377826934/stocks-vs-blogging.html', 'type': 'text/html'}, 'author': 'Contamination', 'summary': '\74a href\75\42http://4.bp.blogspot.com/_oDMsTDHESSQ/SLeQi-_LKoI/AAAAAAAAEFY/T-j11ydCIs4/s1600-h/2008Aug-StockMarket.jpg\42\76\46lt;img style\75\46quot;margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;\46quot; src\75\46quot;http://4.bp.blogspot.com/_oDMsTDHESSQ/SLeQi-_LKoI/AAAAAAAAEFY/T-j11ydCIs4/s200/2008Aug-StockMarket.jpg\46quot; alt\75\46quot;\46quot; id\75\46quot;BLOGGER_PHOTO_ID_...\74/a\076', 'str_published': '29-Aug-2008', 'str_updated': '29-Aug-2008', 'custom_content': [{'custom_content_id': 'http://www.w3.org/2007/app:edited', 'custom_content_value': ['2008-08-29T15:07:08.945+09:00']}]}]}}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'sidebar1',{'main': {'varName': '', 'template': '\74div class\75\47widget-content\47\76\n\74data:adCode\76\74/data:adCode\76\n\74/div\076'}}, document.getElementById('AdSense2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74div id\75\47blog-list-title\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/div\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74div class\75\47blog-list-container\47 expr:id\75\47data:widget.instanceId + \46quot;_container\46quot;\47\76\n\74ul expr:id\75\47data:widget.instanceId + \46quot;_blogs\46quot;\47\76\n\74b:loop values\75\47data:items\47 var\75\47item\47\76\n\74li expr:style\75\47data:item.displayStyle\47\76\n\74div class\75\47blog-icon\47\76\n\74b:if cond\75\47data:showIcon \75\75 \46quot;true\46quot;\47\76\n\74input expr:value\75\47data:item.blogIconUrl\47 type\75\47hidden\47/\76\n\74/b:if\76\n\74/div\76\n\74div class\75\47blog-content\47\76\n\74div class\75\47blog-title\47\76\n\74a expr:href\75\47data:item.blogUrl\47 target\75\47_blank\47\76\n\74data:item.blogTitle\76\74/data:item.blogTitle\76\74/a\76\n\74/div\76\n\74div class\75\47item-content\47\76\n\74b:if cond\75\47data:showItemThumbnail \75\75 \46quot;true\46quot;\47\76\n\74b:if cond\75\47data:item.itemThumbnail\47\76\n\74div class\75\47item-thumbnail\47\76\n\74a expr:href\75\47data:item.blogUrl\47 target\75\47_blank\47\76\n\74img alt\75\47\47 border\75\0470\47 expr:height\75\47data:item.itemThumbnail.height\47 expr:src\75\47data:item.itemThumbnail.url\47 expr:width\75\47data:item.itemThumbnail.width\47/\76\n\74/a\76\n\74/div\76\n\74/b:if\76\n\74/b:if\76\n\74b:if cond\75\47data:showItemTitle \75\75 \46quot;true\46quot;\47\76\n\74span class\75\47item-title\47\76\n\74b:if cond\75\47data:item.itemUrl !\75 \46quot;\46quot;\47\76\n\74a expr:href\75\47data:item.itemUrl\47 target\75\47_blank\47\76\n\74data:item.itemTitle\76\74/data:item.itemTitle\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:item.itemTitle\76\74/data:item.itemTitle\76\n\74/b:if\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:showItemSnippet \75\75 \46quot;true\46quot;\47\76\n\74b:if cond\75\47data:showItemTitle \75\75 \46quot;true\46quot;\47\76\n                      -\n                    \74/b:if\76\n\74span class\75\47item-snippet\47\76\n\74data:item.itemSnippet\76\74/data:item.itemSnippet\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:showTimePeriodSinceLastUpdate \75\75 \46quot;true\46quot;\47\76\n\74div class\75\47item-time\47\76\n\74data:item.timePeriodSinceLastUpdate\76\74/data:item.timePeriodSinceLastUpdate\76\n\74/div\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74div style\75\47clear: both;\47\76\74/div\76\n\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:if cond\75\47data:numItemsToShow !\75 0\47\76\n\74b:if cond\75\47data:totalItems \46gt; data:numItemsToShow\47\76\n\74div class\75\47show-option\47\76\n\74span expr:id\75\47data:widget.instanceId + \46quot;_show-n\46quot;\47 style\75\47display: none;\47\76\n\74a href\75\47javascript:void(0)\47\76\74data:showNText\76\74/data:showNText\76\74/a\76\n\74/span\76\n\74span expr:id\75\47data:widget.instanceId + \46quot;_show-all\46quot;\47 style\75\47margin-left: 5px;\47\76\n\74a href\75\47javascript:void(0)\47\76\74data:showAllText\76\74/data:showAllText\76\74/a\76\n\74/span\76\n\74/div\76\n\74/b:if\76\n\74/b:if\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\76\n\74/div\076'}}, document.getElementById('BlogList1'), {'title': 'Cool Bloggers', 'sortType': 'LAST_UPDATE_DESCENDING', 'numItemsToShow': 0, 'showIcon': false, 'showItemTitle': false, 'showItemSnippet': false, 'showItemThumbnail': false, 'showTimePeriodSinceLastUpdate': false, 'tagName': 'BlogList1-blog.jdonuts.com', 'textColor': '#666666', 'linkColor': '#5378AE', 'totalItems': 6, 'showAllText': 'Show All', 'showNText': 'Show 6', 'items': [{'displayStyle': 'display: block;', 'blogTitle': 'ahkong.net', 'blogUrl': 'http://ahkong.net', 'blogIconUrl': 'http://ahkong.net/favicon.ico', 'itemTitle': 'Visit Singapore Friday', 'itemUrl': 'http://ahkong.net/visit-singapore-friday/', 'itemSnippet': 'Overview Summarized journal entry of Deimos Tel`Arin for the date of 12 \nSeptember 2008. Friday, 12 September 2008 - Woke up 6am-ish, bid goodbye to \nDarling...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '11 hours ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Blog From Cebu To The World', 'blogUrl': 'http://blogcebuworld.com', 'blogIconUrl': 'http://blogcebuworld.com/favicon.ico', 'itemTitle': 'Nuffnang Is Now In The Philippines!', 'itemUrl': 'http://feeds.feedburner.com/~r/BlogFromCebuToTheWorld/~3/390518372/', 'itemSnippet': 'Many months ago, I saw a few blogs from the entrecard community that \ndisplays the Nuffnang logo. I wonder where they are from since they are not \nFilipinos ...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '17 hours ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Graphictruth', 'blogUrl': 'http://www.graphictruth.com/', 'blogIconUrl': 'http://www.graphictruth.com/favicon.ico', 'itemTitle': 'But yeah, it IS that stupid...', 'itemUrl': 'http://feeds.feedburner.com/~r/Graphictruth/~3/388065351/but-yeah-it-is-that-stupid.html', 'itemSnippet': 'Barack Obama: A pro-vaccine pharma shill who doesn\47t care about autistic \nchildren?\n\nThe stupid, I fear it will burn me to a crisp. It\47s neuron-apoptosing in...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '3 days ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Tiggyblog: A Cocktail of Fun', 'blogUrl': 'http://www.tiggyblog.com', 'blogIconUrl': 'http://www.tiggyblog.com/favicon.ico', 'itemTitle': 'Bad Apples - Tiggy&#8217;s Campaign to Ban This Evil Fruit', 'itemUrl': 'http://feeds.feedburner.com/~r/tiggyblog/plEM/~3/386602294/', 'itemSnippet': 'I&#8217;m starting a campaign to ban apples. They may look delicious as they line \nup neatly in the grocery store, like a troupe of polished red soldiers on \ndispl...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '4 days ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Voice of the American Shift Worker', 'blogUrl': 'http://shiftworkersunite.com', 'blogIconUrl': 'http://shiftworkersunite.com/favicon.ico', 'itemTitle': 'Quick Review Of Google&#8217;s New Browser&#8211;Chrome', 'itemUrl': 'http://feeds.feedburner.com/~r/VoicesOfTheAmericanShiftWorkers/~3/384429305/', 'itemSnippet': 'As you all probably know by now, Google has come out with their new browser, \naptly named Chrome. It&#8217;s still in Beta, but I had to download it and see \nwhat ...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 week ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'peterkorkala.com', 'blogUrl': 'http://peterkorkala.com', 'blogIconUrl': 'http://peterkorkala.com/favicon.ico', 'itemTitle': 'The Northern mine in Garpenberg - Sky Watch Friday', 'itemUrl': 'http://peterkorkala.com/2008/09/the-northern-mine-in-garpenberg-sky-watch-friday/', 'itemSnippet': 'This is my current workplace - the (northern) mine in Garpenberg. I really \nlove my new job as a diamond core driller! This week was my first week \nundergrou...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 week ago'}]}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74ul\76\n\74b:loop values\75\47data:labels\47 var\75\47label\47\76\n\74li\76\n\74b:if cond\75\47data:blog.url \75\75 data:label.url\47\76\n\74data:label.name\76\74/data:label.name\76\n\74b:else\76\74/b:else\76\n\74a expr:href\75\47data:label.url\47\76\74data:label.name\76\74/data:label.name\76\74/a\76\n\74/b:if\76\n        (\74data:label.count\76\74/data:label.count\76)\n      \74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}}, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74div id\75\47ArchiveList\47\76\n\74div expr:id\75\47data:widget.instanceId + \46quot;_ArchiveList\46quot;\47\76\n\74b:if cond\75\47data:style \75\75 \46quot;HIERARCHY\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47interval\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:style \75\75 \46quot;FLAT\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47flat\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:style \75\75 \46quot;MENU\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47menu\47\76\74/b:include\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}, 'flat': {'varName': 'data', 'template': '\74ul\76\n\74b:loop values\75\47data:data\47 var\75\47i\47\76\n\74li class\75\47archivedate\47\76\n\74a expr:href\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76\74/a\76 (\74data:i.post-count\76\74/data:i.post-count\76)\n      \74/li\76\n\74/b:loop\76\n\74/ul\076'}, 'menu': {'varName': 'data', 'template': '\74select expr:id\75\47data:widget.instanceId + \46quot;_ArchiveMenu\46quot;\47\76\n\74option value\75\47\47\76\74data:title\76\74/data:title\76\74/option\76\n\74b:loop values\75\47data:data\47 var\75\47i\47\76\n\74option expr:value\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76 (\74data:i.post-count\76\74/data:i.post-count\76)\74/option\76\n\74/b:loop\76\n\74/select\076'}, 'interval': {'varName': 'intervalData', 'template': '\74b:loop values\75\47data:intervalData\47 var\75\47i\47\76\n\74ul\76\n\74li expr:class\75\47\46quot;archivedate \46quot; + data:i.expclass\47\76\n\74b:include data\75\47i\47 name\75\47toggle\47\76\74/b:include\76\n\74a class\75\47post-count-link\47 expr:href\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76\74/a\76\n            (\74span class\75\47post-count\47\76\74data:i.post-count\76\74/data:i.post-count\76\74/span\76)\n          \74b:if cond\75\47data:i.data\47\76\n\74b:include data\75\47i.data\47 name\75\47interval\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:i.posts\47\76\n\74b:include data\75\47i.posts\47 name\75\47posts\47\76\74/b:include\76\n\74/b:if\76\n\74/li\76\n\74/ul\76\n\74/b:loop\076'}, 'toggle': {'varName': 'interval', 'template': '\74b:if cond\75\47data:interval.toggleId\47\76\n\74b:if cond\75\47data:interval.expclass \75\75 \46quot;expanded\46quot;\47\76\n\74a class\75\47toggle\47 expr:href\75\47data:widget.actionUrl + \46quot;\46amp;action\75toggle\46quot; +       \46quot;\46amp;dir\75close\46amp;toggle\75\46quot; + data:interval.toggleId +       \46quot;\46amp;toggleopen\75\46quot; + data:toggleopen\47\76\n\74span class\75\47zippy toggle-open\47\76\46#9660; \74/span\76\n\74/a\76\n\74b:else\76\74/b:else\76\n\74a class\75\47toggle\47 expr:href\75\47data:widget.actionUrl + \46quot;\46amp;action\75toggle\46quot; +         \46quot;\46amp;dir\75open\46amp;toggle\75\46quot; + data:interval.toggleId +         \46quot;\46amp;toggleopen\75\46quot; + data:toggleopen\47\76\n\74span class\75\47zippy\47\76\46#9658; \74/span\76\n\74/a\76\n\74/b:if\76\n\74/b:if\076'}, 'posts': {'varName': 'posts', 'template': '\74ul class\75\47posts\47\76\n\74b:loop values\75\47data:posts\47 var\75\47i\47\76\n\74li\76\74a expr:href\75\47data:i.url\47\76\74data:i.title\76\74/data:i.title\76\74/a\76\74/li\76\n\74/b:loop\76\n\74/ul\076'}}, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense3', 'sidebar1',{'main': {'varName': '', 'template': '\74div class\75\47widget-content\47\76\n\74data:adCode\76\74/data:adCode\76\n\74/div\076'}}, document.getElementById('AdSense3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74b:if cond\75\47data:team \75\75 \46quot;true\46quot;\47\76\n\74ul\76\n\74b:loop values\75\47data:authors\47 var\75\47i\47\76\n\74li\76\74a expr:href\75\47data:i.userUrl\47\76\74data:i.display-name\76\74/data:i.display-name\76\74/a\76\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:photo.url !\75 \46quot;\46quot;\47\76\n\74a expr:href\75\47data:userUrl\47\76\74img class\75\47profile-img\47 expr:alt\75\47data:photo.alt\47 expr:height\75\47data:photo.height\47 expr:src\75\47data:photo.url\47 expr:width\75\47data:photo.width\47/\76\74/a\76\n\74/b:if\76\n\74dl class\75\47profile-datablock\47\76\n\74dt class\75\47profile-data\47\76\74data:displayname\76\74/data:displayname\76\74/dt\76\n\74b:if cond\75\47data:showlocation \75\75 \46quot;true\46quot;\47\76\n\74dd class\75\47profile-data\47\76\74data:location\76\74/data:location\76\74/dd\76\n\74/b:if\76\n\74b:if cond\75\47data:aboutme !\75 \46quot;\46quot;\47\76\74dd class\75\47profile-textblock\47\76\74data:aboutme\76\74/data:aboutme\76\74/dd\76\74/b:if\76\n\74/dl\76\n\74a class\75\47profile-link\47 expr:href\75\47data:userUrl\47\76\74data:viewProfileMsg\76\74/data:viewProfileMsg\76\74/a\76\n\74/b:if\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}}, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList2', 'sidebar1',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74div id\75\47blog-list-title\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/div\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74div class\75\47blog-list-container\47 expr:id\75\47data:widget.instanceId + \46quot;_container\46quot;\47\76\n\74ul expr:id\75\47data:widget.instanceId + \46quot;_blogs\46quot;\47\76\n\74b:loop values\75\47data:items\47 var\75\47item\47\76\n\74li expr:style\75\47data:item.displayStyle\47\76\n\74div class\75\47blog-icon\47\76\n\74b:if cond\75\47data:showIcon \75\75 \46quot;true\46quot;\47\76\n\74input expr:value\75\47data:item.blogIconUrl\47 type\75\47hidden\47/\76\n\74/b:if\76\n\74/div\76\n\74div class\75\47blog-content\47\76\n\74div class\75\47blog-title\47\76\n\74a expr:href\75\47data:item.blogUrl\47 target\75\47_blank\47\76\n\74data:item.blogTitle\76\74/data:item.blogTitle\76\74/a\76\n\74/div\76\n\74div class\75\47item-content\47\76\n\74b:if cond\75\47data:showItemThumbnail \75\75 \46quot;true\46quot;\47\76\n\74b:if cond\75\47data:item.itemThumbnail\47\76\n\74div class\75\47item-thumbnail\47\76\n\74a expr:href\75\47data:item.blogUrl\47 target\75\47_blank\47\76\n\74img alt\75\47\47 border\75\0470\47 expr:height\75\47data:item.itemThumbnail.height\47 expr:src\75\47data:item.itemThumbnail.url\47 expr:width\75\47data:item.itemThumbnail.width\47/\76\n\74/a\76\n\74/div\76\n\74/b:if\76\n\74/b:if\76\n\74b:if cond\75\47data:showItemTitle \75\75 \46quot;true\46quot;\47\76\n\74span class\75\47item-title\47\76\n\74b:if cond\75\47data:item.itemUrl !\75 \46quot;\46quot;\47\76\n\74a expr:href\75\47data:item.itemUrl\47 target\75\47_blank\47\76\n\74data:item.itemTitle\76\74/data:item.itemTitle\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:item.itemTitle\76\74/data:item.itemTitle\76\n\74/b:if\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:showItemSnippet \75\75 \46quot;true\46quot;\47\76\n\74b:if cond\75\47data:showItemTitle \75\75 \46quot;true\46quot;\47\76\n                      -\n                    \74/b:if\76\n\74span class\75\47item-snippet\47\76\n\74data:item.itemSnippet\76\74/data:item.itemSnippet\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:showTimePeriodSinceLastUpdate \75\75 \46quot;true\46quot;\47\76\n\74div class\75\47item-time\47\76\n\74data:item.timePeriodSinceLastUpdate\76\74/data:item.timePeriodSinceLastUpdate\76\n\74/div\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74div style\75\47clear: both;\47\76\74/div\76\n\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:if cond\75\47data:numItemsToShow !\75 0\47\76\n\74b:if cond\75\47data:totalItems \46gt; data:numItemsToShow\47\76\n\74div class\75\47show-option\47\76\n\74span expr:id\75\47data:widget.instanceId + \46quot;_show-n\46quot;\47 style\75\47display: none;\47\76\n\74a href\75\47javascript:void(0)\47\76\74data:showNText\76\74/data:showNText\76\74/a\76\n\74/span\76\n\74span expr:id\75\47data:widget.instanceId + \46quot;_show-all\46quot;\47 style\75\47margin-left: 5px;\47\76\n\74a href\75\47javascript:void(0)\47\76\74data:showAllText\76\74/data:showAllText\76\74/a\76\n\74/span\76\n\74/div\76\n\74/b:if\76\n\74/b:if\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\76\n\74/div\076'}}, document.getElementById('BlogList2'), {'title': 'My Blogs', 'sortType': 'LAST_UPDATE_DESCENDING', 'numItemsToShow': 0, 'showIcon': false, 'showItemTitle': false, 'showItemSnippet': false, 'showItemThumbnail': false, 'showTimePeriodSinceLastUpdate': false, 'tagName': 'BlogList2-blog.jdonuts.com', 'textColor': '#666666', 'linkColor': '#5378AE', 'totalItems': 11, 'showAllText': 'Show All', 'showNText': 'Show 11', 'items': [{'displayStyle': 'display: block;', 'blogTitle': 'Jokes @ jDonuts', 'blogUrl': 'http://jokes.jdonuts.com/', 'blogIconUrl': 'http://jokes.jdonuts.com/favicon.ico', 'itemTitle': 'Avenging Unicorn', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/jokes/~3/391186121/avenging-unicorn.html', 'itemSnippet': '', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 hour ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'The Next Big Thing', 'blogUrl': 'http://thenext-bigthing.blogspot.com/', 'blogIconUrl': 'http://thenext-bigthing.blogspot.com/favicon.ico', 'itemTitle': 'king of the deviants', 'itemUrl': 'http://thenext-bigthing.blogspot.com/2008/09/king-of-deviants.html', 'itemSnippet': 'The Next Big Thing Is...\n\n...Bad Evan\47s haircut', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '3 hours ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Contamination\47s Twitter', 'blogUrl': 'http://twitter.jdonuts.com/', 'blogIconUrl': 'http://twitter.jdonuts.com/favicon.ico', 'itemTitle': 'Starbucks!', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/twitter/~3/390468991/starbucks.html', 'itemSnippet': 'Had a lovely Starbucks coffee with my wife. Relaxing....', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '18 hours ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Look What I Found!', 'blogUrl': 'http://look.jdonuts.com/', 'blogIconUrl': 'http://look.jdonuts.com/favicon.ico', 'itemTitle': 'Weekly Roundup', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/look/~3/390273210/weekly-roundup.html', 'itemSnippet': 'Is Robert Kiyosaki a scam artist?\n\nMake Money Online blogs are filling up my internet!\n\nWhy you shouldn\47t live cheaply\n\nMusical Chairs in the Japanese Govern...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '23 hours ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Blog @ jDonuts', 'blogUrl': 'http://blog.jdonuts.com/', 'blogIconUrl': 'http://blog.jdonuts.com/favicon.ico', 'itemTitle': 'Robert Kiyosaki', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/blog/~3/390140799/robert-kiyosaki.html', 'itemSnippet': 'Robert Kiyosaki is one of the most famous get rich guru\47s in the western \nworld today.\n\nHis books, audio books and games promote the concept of minding your ...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 day ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Mottekaero jDonuts', 'blogUrl': 'http://www.jdonuts.com/', 'blogIconUrl': 'http://www.jdonuts.com/favicon.ico', 'itemTitle': 'Engrish T-Shirt, Cherry Black', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/mottekaero/~3/390146879/engrish-t-shirt-cherry-black.html', 'itemSnippet': '\n\nCheery Black\nLove makes the world\nWe love sweet girl\n\nWTF', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 day ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Phat Jokes', 'blogUrl': 'http://phat-jokes.blogspot.com/', 'blogIconUrl': 'http://phat-jokes.blogspot.com/favicon.ico', 'itemTitle': 'Newlyweds', 'itemUrl': 'http://phat-jokes.blogspot.com/2008/09/newlyweds.html', 'itemSnippet': 'A couple had only been married for two weeks and the husband, although very \nmuch in love, couldn\47t wait to go out on the town and party with his old \nbuddie...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '5 days ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'End Of The Week', 'blogUrl': 'http://endof-theweek.blogspot.com/', 'blogIconUrl': 'http://endof-theweek.blogspot.com/favicon.ico', 'itemTitle': 'Already Registered', 'itemUrl': 'http://endof-theweek.blogspot.com/2008/09/already-registered.html', 'itemSnippet': '', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 week ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Japanese Engrish', 'blogUrl': 'http://engrish.jdonuts.com/', 'blogIconUrl': 'http://engrish.jdonuts.com/favicon.ico', 'itemTitle': 'Engrish Hotel Sign', 'itemUrl': 'http://engrish.jdonuts.com/2008/09/engrish-hotel-sign.html', 'itemSnippet': '', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 week ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Sales @ jDonuts', 'blogUrl': 'http://sales.jdonuts.com/', 'blogIconUrl': 'http://sales.jdonuts.com/favicon.ico', 'itemTitle': 'Advertise on www.jdonuts.com', 'itemUrl': 'http://feeds.feedburner.com/~r/jdonuts/sales/~3/386727493/advertise-on-wwwjdonutscom.html', 'itemSnippet': 'www.jdonuts.com is my blog where I post jokes about my life in Japan, Japanese \nfood \46amp; drink and funny Engrish.\n\nUpdated Monday to Friday this blog appeals t...', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '1 week ago'}, {'displayStyle': 'display: block;', 'blogTitle': 'Japanese Wallpapers', 'blogUrl': 'http://wallpapers.jdonuts.com/', 'blogIconUrl': 'http://wallpapers.jdonuts.com/favicon.ico', 'itemTitle': 'Forest', 'itemUrl': 'http://wallpapers.jdonuts.com/2008/08/forest.html', 'itemSnippet': '\n\nTime for a change, this time - forest!', 'itemThumbnail': '', 'timePeriodSinceLastUpdate': '2 weeks ago'}]}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main',{'main': {'varName': 'top', 'template': '\74div class\75\47blog-posts\47\76\n\74b:include data\75\47top\47 name\75\47status-message\47\76\74/b:include\76\n\74data:adStart\76\74/data:adStart\76\n\74b:loop values\75\47data:posts\47 var\75\47post\47\76\n\74b:if cond\75\47data:post.dateHeader\47\76\n\74h2 class\75\47date-header\47\76\74data:post.dateHeader\76\74/data:post.dateHeader\76\74/h2\76\n\74/b:if\76\n\74b:include data\75\47post\47 name\75\47post\47\76\74/b:include\76\n\74b:if cond\75\47data:blog.pageType \75\75 \46quot;item\46quot;\47\76\n\74b:include data\75\47post\47 name\75\47comments\47\76\74/b:include\76\n\74/b:if\76\n\74/b:loop\76\n\74data:adEnd\76\74/data:adEnd\76\n\74/div\76\n\74b:include name\75\47nextprev\47\76\74/b:include\76\n\74b:include name\75\47feedLinks\47\76\74/b:include\076'}, 'nextprev': {'varName': '', 'template': '\74div class\75\47blog-pager\47 id\75\47blog-pager\47\76\n\74b:if cond\75\47data:newerPageUrl\47\76\n\74span id\75\47blog-pager-newer-link\47\76\n\74a class\75\47blog-pager-newer-link\47 expr:href\75\47data:newerPageUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_blog-pager-newer-link\46quot;\47 expr:title\75\47data:newerPageTitle\47\76\74data:newerPageTitle\76\74/data:newerPageTitle\76\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:olderPageUrl\47\76\n\74span id\75\47blog-pager-older-link\47\76\n\74a class\75\47blog-pager-older-link\47 expr:href\75\47data:olderPageUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_blog-pager-older-link\46quot;\47 expr:title\75\47data:olderPageTitle\47\76\74data:olderPageTitle\76\74/data:olderPageTitle\76\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:blog.homepageUrl !\75 data:blog.url\47\76\n\74a class\75\47home-link\47 expr:href\75\47data:blog.homepageUrl\47\76\74data:homeMsg\76\74/data:homeMsg\76\74/a\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:newerPageUrl\47\76\n\74a class\75\47home-link\47 expr:href\75\47data:blog.homepageUrl\47\76\74data:homeMsg\76\74/data:homeMsg\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/div\76\n\74div class\75\47clear\47\76\74/div\076'}, 'post': {'varName': 'post', 'template': '\74div class\75\47post\47\76\n\74a expr:name\75\47data:post.id\47\76\74/a\76\n\74b:if cond\75\47data:post.title\47\76\n\74h3 class\75\47post-title\47\76\n\74b:if cond\75\47data:post.link\47\76\n\74a expr:href\75\47data:post.link\47\76\74data:post.title\76\74/data:post.title\76\74/a\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:post.url\47\76\n\74a expr:href\75\47data:post.url\47\76\74data:post.title\76\74/data:post.title\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:post.title\76\74/data:post.title\76\n\74/b:if\76\n\74/b:if\76\n\74/h3\76\n\74/b:if\76\n\74div class\75\47post-header-line-1\47\76\74/div\76\n\74div class\75\47post-body\47\76\n\74p\76\74data:post.body\76\74/data:post.body\76\74/p\76\n\74div style\75\47clear: both;\47\76\74/div\76\n\74/div\76\n\74div class\75\47post-footer\47\76\n\74p class\75\47post-footer-line post-footer-line-1\47\76\74span class\75\47post-author\47\76\n\74b:if cond\75\47data:top.showAuthor\47\76\n\74data:top.authorLabel\76\74/data:top.authorLabel\76\n\74data:post.author\76\74/data:post.author\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-timestamp\47\76\n\74b:if cond\75\47data:top.showTimestamp\47\76\n\74data:top.timestampLabel\76\74/data:top.timestampLabel\76\n\74b:if cond\75\47data:post.url\47\76\n\74a class\75\47timestamp-link\47 expr:href\75\47data:post.url\47 title\75\47permanent link\47\76\74data:post.timestamp\76\74/data:post.timestamp\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-comment-link\47\76\n\74b:if cond\75\47data:blog.pageType !\75 \46quot;item\46quot;\47\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74a class\75\47comment-link\47 expr:href\75\47data:post.addCommentUrl\47 expr:onclick\75\47data:post.addCommentOnclick\47\76\74b:if cond\75\47data:post.numComments \75\75 1\47\0761 \74data:top.commentLabel\76\74/data:top.commentLabel\76\74b:else\76\74/b:else\76\74data:post.numComments\76\74/data:post.numComments\76\n\74data:top.commentLabelPlural\76\74/data:top.commentLabelPlural\76\74/b:if\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-icons\47\76\n\74b:if cond\75\47data:post.emailPostUrl\47\76\n\74span class\75\47item-action\47\76\n\74a expr:href\75\47data:post.emailPostUrl\47 expr:title\75\47data:top.emailPostMsg\47\76\n\74span class\75\47email-post-icon\47\76\46#160;\74/span\76\n\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:include data\75\47post\47 name\75\47postQuickEdit\47\76\74/b:include\76\n\74/span\76\n\74/p\76\n\74p class\75\47post-footer-line post-footer-line-2\47\76\74span class\75\47post-labels\47\76\n\74b:if cond\75\47data:post.labels\47\76\n\74data:postLabelsLabel\76\74/data:postLabelsLabel\76\n\74b:loop values\75\47data:post.labels\47 var\75\47label\47\76\n\74a expr:href\75\47data:label.url\47 rel\75\47tag\47\76\74data:label.name\76\74/data:label.name\76\74/a\76\74b:if cond\75\47data:label.isLast !\75 \46quot;true\46quot;\47\76,\74/b:if\76\n\74/b:loop\76\n\74/b:if\76\n\74/span\76\n\74/p\76\n\74p class\75\47post-footer-line post-footer-line-3\47\76\74/p\76\n\74a href\75\47#random\47 onclick\75\47feelingLucky()\47 title\75\47Random Post\47\76Feeling Lucky?\74/a\76 Click for a random post or \74a href\75\47http://www.feedburner.com/fb/a/emailverifySubmit?feedId\0751454608\46amp;loc\75en_US\47\76Subscribe to Blog @ jDonuts by Email\74/a\76\n\74/div\76\n\74/div\076'}, 'postQuickEdit': {'varName': 'post', 'template': '\74b:if cond\75\47data:post.editUrl\47\76\n\74span expr:class\75\47\46quot;item-control \46quot; + data:post.adminClass\47\76\n\74a expr:href\75\47data:post.editUrl\47 expr:title\75\47data:top.editPostMsg\47\76\n\74span class\75\47quick-edit-icon\47\76\46#160;\74/span\76\n\74/a\76\n\74/span\76\n\74/b:if\076'}, 'commentDeleteIcon': {'varName': 'comment', 'template': '\74span expr:class\75\47\46quot;item-control \46quot; + data:comment.adminClass\47\76\n\74a expr:href\75\47data:comment.deleteUrl\47 expr:title\75\47data:top.deleteCommentMsg\47\76\n\74span class\75\47delete-comment-icon\47\76\46#160;\74/span\76\n\74/a\76\n\74/span\076'}, 'backlinkDeleteIcon': {'varName': 'backlink', 'template': '\74span expr:class\75\47\46quot;item-control \46quot; + data:backlink.adminClass\47\76\n\74a expr:href\75\47data:backlink.deleteUrl\47 expr:title\75\47data:top.deleteBacklinkMsg\47\76\n\74span class\75\47delete-comment-icon\47\76\46#160;\74/span\76\n\74/a\76\n\74/span\076'}, 'comments': {'varName': 'post', 'template': '\74div class\75\47comments\47 id\75\47comments\47\76\n\74a name\75\47comments\47\76\74/a\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74h4\76\n\74b:if cond\75\47data:post.numComments \75\75 1\47\76\n          1 \74data:commentLabel\76\74/data:commentLabel\76:\n        \74b:else\76\74/b:else\76\n\74data:post.numComments\76\74/data:post.numComments\76\n\74data:commentLabelPlural\76\74/data:commentLabelPlural\76:\n        \74/b:if\76\n\74/h4\76\n\74dl id\75\47comments-block\47\76\n\74b:loop values\75\47data:post.comments\47 var\75\47comment\47\76\n\74dt class\75\47comment-author\47 expr:id\75\47\46quot;comment-\46quot; + data:comment.id\47\76\n\74a expr:name\75\47\46quot;comment-\46quot; + data:comment.id\47\76\74/a\76\n\74b:if cond\75\47data:comment.authorUrl\47\76\n\74a expr:href\75\47data:comment.authorUrl\47 rel\75\47nofollow\47\76\74data:comment.author\76\74/data:comment.author\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:comment.author\76\74/data:comment.author\76\n\74/b:if\76\n\74span class\75\47comment-timestamp\47\76\n\74a expr:href\75\47\46quot;#comment-\46quot; + data:comment.id\47 title\75\47comment permalink\47\76\n\74data:comment.timestamp\76\74/data:comment.timestamp\76\n\74/a\76\n\74b:include data\75\47comment\47 name\75\47commentDeleteIcon\47\76\74/b:include\76\n\74/span\76\n\74/dt\76\n\74dd class\75\47comment-body\47\76\n\74b:if cond\75\47data:comment.isDeleted\47\76\n\74span class\75\47deleted-comment\47\76\74data:comment.body\76\74/data:comment.body\76\74/span\76\n\74b:else\76\74/b:else\76\n\74p\76\74data:comment.body\76\74/data:comment.body\76\74/p\76\n\74/b:if\76\n\74/dd\76\n\74/b:loop\76\n\74/dl\76\n\74p class\75\47comment-footer\47\76\n\74a expr:href\75\47data:post.addCommentUrl\47 expr:onclick\75\47data:post.addCommentOnclick\47\76\74data:postCommentMsg\76\74/data:postCommentMsg\76\74/a\76\n\74/p\76\n\74/b:if\76\n\74div id\75\47backlinks-container\47\76\n\74div expr:id\75\47data:widget.instanceId + \46quot;_backlinks-container\46quot;\47\76\n\74b:if cond\75\47data:post.showBacklinks\47\76\n\74b:include data\75\47post\47 name\75\47backlinks\47\76\74/b:include\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74/div\076'}, 'comment-form': {'varName': 'post', 'template': '\74div class\75\47comment-form\47\76\n\74a name\75\47comment-form\47\76\74/a\76\n\74h4 id\75\47comment-post-message\47\76\74data:postCommentMsg\76\74/data:postCommentMsg\76\74/h4\76\n\74p\76\74data:blogCommentMessage\76\74/data:blogCommentMessage\76\74/p\76\n\74a expr:href\75\47data:post.commentFormIframeSrc\47 id\75\47comment-editor-src\47 style\75\47display: none\47\76\74/a\76\n\74iframe allowtransparency\75\47true\47 class\75\47blogger-iframe-colorize\47 frameborder\75\0470\47 height\75\047275\47 id\75\47comment-editor\47 scrolling\75\47auto\47 src\75\47\47 width\75\047100%\47\76\74/iframe\76\n\74data:post.iframeColorizer\76\74/data:post.iframeColorizer\76\n\74/div\076'}, 'backlinks': {'varName': 'post', 'template': '\74a name\75\47links\47\76\74/a\76\74h4\76\74data:post.backlinksLabel\76\74/data:post.backlinksLabel\76\74/h4\76\n\74b:if cond\75\47data:post.numBacklinks !\75 0\47\76\n\74dl class\75\47comments-block\47 id\75\47comments-block\47\76\n\74b:loop values\75\47data:post.backlinks\47 var\75\47backlink\47\76\n\74div class\75\47collapsed-backlink backlink-control\47\76\n\74dt class\75\47comment-title\47\76\n\74span class\75\47backlink-toggle-zippy\47\76\46#160;\74/span\76\n\74a expr:href\75\47data:backlink.url\47 rel\75\47nofollow\47\76\74data:backlink.title\76\74/data:backlink.title\76\74/a\76\n\74b:include data\75\47backlink\47 name\75\47backlinkDeleteIcon\47\76\74/b:include\76\n\74/dt\76\n\74dd class\75\47comment-body collapseable\47\76\n\74data:backlink.snippet\76\74/data:backlink.snippet\76\n\74/dd\76\n\74dd class\75\47comment-footer collapseable\47\76\n\74span class\75\47comment-author\47\76\74data:post.authorLabel\76\74/data:post.authorLabel\76\n\74data:backlink.author\76\74/data:backlink.author\76\74/span\76\n\74span class\75\47comment-timestamp\47\76\74data:post.timestampLabel\76\74/data:post.timestampLabel\76\n\74data:backlink.timestamp\76\74/data:backlink.timestamp\76\74/span\76\n\74/dd\76\n\74/div\76\n\74/b:loop\76\n\74/dl\76\n\74/b:if\76\n\74p class\75\47comment-footer\47\76\n\74a class\75\47comment-link\47 expr:href\75\47data:post.createLinkUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_backlinks-create-link\46quot;\47 target\75\47_blank\47\76\74data:post.createLinkLabel\76\74/data:post.createLinkLabel\76\74/a\76\n\74/p\076'}, 'feedLinks': {'varName': '', 'template': '\74b:if cond\75\47data:blog.pageType !\75 \46quot;item\46quot;\47\76\n\74b:if cond\75\47data:feedLinks\47\76\n\74div class\75\47blog-feeds\47\76\n\74b:include data\75\47feedLinks\47 name\75\47feedLinksBody\47\76\74/b:include\76\n\74/div\76\n\74/b:if\76\n\74b:else\76\74/b:else\76\n\74div class\75\47post-feeds\47\76\n\74b:loop values\75\47data:posts\47 var\75\47post\47\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74b:if cond\75\47data:post.feedLinks\47\76\n\74b:include data\75\47post.feedLinks\47 name\75\47feedLinksBody\47\76\74/b:include\76\n\74/b:if\76\n\74/b:if\76\n\74/b:loop\76\n\74/div\76\n\74/b:if\076'}, 'feedLinksBody': {'varName': 'links', 'template': '\74div class\75\47feed-links\47\76\n\74data:feedLinksMsg\76\74/data:feedLinksMsg\76\n\74b:loop values\75\47data:links\47 var\75\47f\47\76\n\74a class\75\47feed-link\47 expr:href\75\47data:f.url\47 expr:type\75\47data:f.mimeType\47 target\75\47_blank\47\76\74data:f.name\76\74/data:f.name\76 (\74data:f.feedType\76\74/data:f.feedType\76)\74/a\76\n\74/b:loop\76\n\74/div\076'}, 'status-message': {'varName': '', 'template': '\74b:if cond\75\47data:navMessage\47\76\n\74div class\75\47status-msg-wrap\47\76\n\74div class\75\47status-msg-body\47\76\n\74data:navMessage\76\74/data:navMessage\76\n\74/div\76\n\74div class\75\47status-msg-border\47\76\n\74div class\75\47status-msg-bg\47\76\n\74div class\75\47status-msg-hidden\47\76\74data:navMessage\76\74/data:navMessage\76\74/div\76\n\74/div\76\n\74/div\76\n\74/div\76\n\74div style\75\47clear: both;\47\76\74/div\76\n\74/b:if\076'}}, document.getElementById('Blog1'), {}, 'displayModeFull'));
+</script>
+
+</body></html>
