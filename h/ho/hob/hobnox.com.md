@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobnox.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504075909id_/http%3A//hobnox.com/privacy-policy.1048.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobnox.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913062650id_/http%3A//www.hobnox.com/privacy-policy.1048.en.html) for the most accurate reproduction.*
 
-# hobnox.com :: Your Music, Film & Urban Culture - Privacy Policy
+# Hobnox - Privacy Policy
 
 The protection of your personal data is very important to us. We commit ourselves to handling your personal data with great care and only in compliance with legal requirements. The following privacy policy will give you an overview on how we garantee this protection and what type of data is collected for what purpose.
 
@@ -14,7 +14,7 @@ Our websites use so called cookies to make our services safer, more usable and m
 
 ### Newsletter
 
-You are invited to subscribe to our interesting newsletters. In this process we verify the correctness of your email-address and your consent by employing the so called "double opt-in" procedure. This means that your newsletter subscription has to be confirmed in a second step by clicking on a confirmation link which is sent by email to the entered email-address. This deters others from subscribing you to our services without your consent. We do not collect further information in this context. You may revoke your consent at any time by unsubscribing. Each newsletter contains an individualised unsubscription-link. You may also send your revocation to [privacy@hobnox.com](mailto:privacy@hobnox.com).
+You are invited to subscribe to our interesting newsletters. In this process we verify the correctness of your email-address and your consent by employing the so called "double opt-in" procedure. This means that your newsletter subscription has to be confirmed in a second step by clicking on a confirmation link which is sent by email to the entered email-address. This deters others from subscribing you to our services without your consent. We do not collect further information in this context. You may revoke your consent at any time by unsubscribing. Each newsletter contains an individualised unsubscription-link. You may also send your revocation to privacy(a)hobnox.com.
 
 ### Registered users
 
@@ -24,6 +24,6 @@ We collect, save and use your data to the extent that t is needed for contractua
 
 ### Right of information, further information
 
-You may request information about your saved personal data, its origin and recipients as well as the purpose of the storage. In case you have further or more detailed questions, feel free to send an email to our data protection officer ([privacy@hobnox.com](mailto:privacy@hobnox.com)).
+You may request information about your saved personal data, its origin and recipients as well as the purpose of the storage. In case you have further or more detailed questions, feel free to send an email to our data protection officer (privacy(a)hobnox.com).
 
 _As of: October 2007_
