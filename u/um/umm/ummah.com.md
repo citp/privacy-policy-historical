@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ummah.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618070206id_/http%3A//www.ummah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ummah.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913174846id_/http%3A//www.ummah.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ummah.com
 
