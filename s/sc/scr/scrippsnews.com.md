@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrippsnews.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142151id_/http%3A//www.shns.com/shns/g_index2.cfm%3Faction%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnews.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913052840id_/http%3A//www.shns.com/shns/g_index2.cfm%3Faction%3Dpolicy) for the most accurate reproduction.*
 
 # Scripps Howard News Service
 
