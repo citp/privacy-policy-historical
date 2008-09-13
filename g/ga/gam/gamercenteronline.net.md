@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamercenteronline.net privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506061536id_/http%3A//www.gamercenteronline.net/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamercenteronline.net privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913063403id_/http%3A//www.gamercenteronline.net/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy |
+
+239 views 
 
 GamerCenterOnline understands that you care about what information is used and shared. Because we appreciate your trust, know that we do not solicit information about our visitors out. This statement describes the terms in our privacy policy.
 
@@ -23,5 +25,3 @@ GamerCenterOnline values the trust you have given us with your information. Ther
 Questions about our policies
 
 Please direct all questions about our privacy policy to kerwinste[at]yahoo.com
-
-**Help The Gamers:** These icons link to social bookmarking sites where readers can share and discover new web pages.
