@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicitywires.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505101228id_/http%3A//www.publicitywires.com/directory/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicitywires.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913222102id_/http%3A//www.publicitywires.com/directory/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Publicity Management. Lifestyle Press Release Distribution. Journalist Blog. Privacy Policy
 
