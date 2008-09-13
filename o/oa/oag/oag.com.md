@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513013205id_/http%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913235331id_/http%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
 
 # Official Airline Guide Privacy Policies
 
@@ -7,7 +7,7 @@ back to top
 **What personal information is being gathered by OAG?**
 
 **Member Registration**   
-When you enroll for use of products and/or services from OAG, or if you are already a member, we collect specific information such as your name, address, telephone number, e-mail address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (i) personal identification; (ii) to allow us to contact you for customer service, if necessary; and (iii) to customize the content of our web site to meet your specific needs. You may choose to receive occasional updates from us, or companies within our parent company’s (United Business Media plc) group (“UBM Group Companies”), about special offers, new products and/or services, and other noteworthy news items by 'opting-in' when you register. You may opt out receiving these e-mail messages at any time. Please see our Opt in/Opt Out policy described below. 
+When you enroll for use of products and/or services from OAG, or if you are already a member, we collect specific information such as your name, address, telephone number, e-mail address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (i) personal identification; (ii) to allow us to contact you for customer service, if necessary; and (iii) to customize the content of our web site to meet your specific needs. You may choose to receive occasional updates from us, or companies within our parent company’s (United Business Media Limited) group (“UBM Group Companies”), about special offers, new products and/or services, and other noteworthy news items by 'opting-in' when you register. You may opt out receiving these e-mail messages at any time. Please see our Opt in/Opt Out policy described below. 
 
 **Member Profile**   
 As a member, you can choose to provide travel preferences, credit card billing information, ticket delivery address, travel agency preference and other personal information. This information is primarily used to assist you in travel planning and booking without having to type in the same information repeatedly. For example, you can store your mobile device information so that we can notify you of flight schedule changes. 
@@ -97,4 +97,4 @@ back to top
 
 Because we are constantly improving our site, there may be changes to this policy from time to time, so please check back periodically so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Policy under which the information was collected. 
 
-This web site is owned by OAG Worldwide Limited. OAG Worldwide Limited is a company registered in England and Wales (registered number 4226716), with its registered office at Ludgate House, 245 Blackfriars Road, London, SE1 9UY, United Kingdom. OAG is a subsidiary of United Business Media plc of London.
+This web site is owned by OAG Worldwide Limited. OAG Worldwide Limited is a company registered in England and Wales (registered number 4226716), with its registered office at Ludgate House, 245 Blackfriars Road, London, SE1 9UY, United Kingdom. OAG is a subsidiary of United Business Media Limited of London.
