@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609222526id_/http%3A//www.taronga.org.au/zpb-privacy-internet-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913050038id_/http%3A//www.taronga.org.au/zpb-privacy-internet-policy.aspx) for the most accurate reproduction.*
 
 # ZPB Privacy Internet Policy
 
