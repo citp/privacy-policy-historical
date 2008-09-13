@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617085031id_/http%3A//www.mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913143311id_/http%3A//www.mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Medical Information, Medical Research, Medical Dictionary, Medical News for Physicians
 
@@ -18,11 +18,11 @@ Some MDLinx services require user registration. For the registration process, MD
 All the sites in the MDLinx network offer free electronic newsletters to users, providing specific information to them on the appropriate topics. To provide this service, MDLinx must gather the email addresses of users who register for and voluntarily subscribe to said service. You may remove yourself from an MDLinx mailing list at any time by following the instructions provided at the end of every newsletter 
   * Market Research Studies   
 Users of MDLinx may elect to participate in market research surveys that the company runs from time to time. These studies are intended to give specific feedback to third parties. This feedback while shared in the format it was collected will not include the personally identifiable information used to pay honoraria for your time. 
-  * Discussion Lists   
+  * Discussion Lists    
 Users of MDLinx discussion lists must subscribe to them separately. Subscribing to any of our free email newsletters does not also subscribe users to affiliated discussion lists. A user must register for this free service and must agree to the terms and conditions of the service. You may remove yourself from a discussion list at any time by following the instructions provided. 
   * Usage tracking   
 MDLinx uses traffic analysis software on our servers to track user traffic patterns throughout all of our sites. This information is not correlated with personal information about specific individual users. MDLinx does use this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. 
-  * Cookies   
+  * Cookies    
 A cookie is a small text file that resides only on your own computer and that can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to MDLinx that you have not specifically and voluntarily provided while on an MDLinx site, or that is not among the information mentioned above that is contained in every user's browser (i.e., domain name, browser type). We use cookies only so that we may tally the number of unique users who visit our sites, and potentially to permit greater personalization of the site to your preferences and specifications. Even when you may have provided to MDLinx information that is stored in a cookie on your computer, MDLinx will not share personally identifiable information about you to third parties. 
 
   
@@ -43,3 +43,9 @@ Users may unsubscribe to any of our electronic newsletters or discussion lists a
 **Opt-in Announcement List Privacy Policy**
 
 When you register for MDLinx services you may be given the option of joining an opt-in list. If you choose to sign up, you will receive information or participate in campaigns relevant to the specialty you selected from select third parties who have entered into agreements with MDLinx. You may have your email address removed from the MDLinx opt-in announcement lists at any time by deselecting the opt-in list option. MDLinx is not responsible for the content of emails you may receive when you have elected to opt-in to a particular specialty. 
+
+**Mailing Address**
+
+MDLinx Inc  
+1232 22nd St NW, Suite 200  
+Washington, DC 20037 
