@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bluenile.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214102914id_/http%3A//www.bluenile.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913220109id_/http%3A//www.bluenile.co.uk/privacy.asp%3Ftrack%3Dbottomnav) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or 0800 358 1981 or from Ireland 1800 944 544. 
+Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries. 
 
 Your privacy is important to us. This privacy policy is designed to inform you of what information Blue Nile collects, why we collect such information and how we use the information we collect. 
 
@@ -58,11 +58,11 @@ Blue Nile is committed to the protection of the personally identifiable informa
 
 ## 
 
-If the personally identifiable information Blue Nile has gathered from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or contact one of our diamond and jewellery consultants at 0800 358 1981 or from Ireland 1800 944 544. 
+If the personally identifiable information Blue Nile has gathered from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or contact one of our diamond and jewellery consultants at 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries. 
 
 ## 
 
-We want to communicate with you only if you want to hear from us. To opt-out of receiving communications from Blue Nile: (1) select "unsubscribe" on our subscription status page and enter the requested information; or (2) make your request in person by contacting a diamond and jewellery consultant at 0800 358 1981 or from Ireland 1800 944 544 or by e-mail at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk). 
+We want to communicate with you only if you want to hear from us. To opt-out of receiving communications from Blue Nile: (1) select "unsubscribe" on our subscription status page and enter the requested information; or (2) make your request in person by contacting a diamond and jewellery consultant at 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries or by e-mail at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk). 
 
 ## 
 
@@ -72,8 +72,8 @@ For other terms and conditions that apply to your use of our Web Site, please se
 
 ## 
 
-If you have questions about this privacy policy, please contact the Blue Nile customer service department at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or at 0800 358 1981 or from Ireland 1800 944 544. You may also send us your comments about the Blue Nile Web Site or the shopping experience in general, as we always appreciate feedback. 
+If you have questions about this privacy policy, please contact the Blue Nile customer service department at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or at 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries. You may also send us your comments about the Blue Nile Web Site or the shopping experience in general, as we always appreciate feedback. 
 
 **Updated November 2, 2005**
 
-All prices are GBP and do not include VAT.
+All prices are GBP and do not include [VAT](https://web.archive.org/glossary.asp?word=vat).
