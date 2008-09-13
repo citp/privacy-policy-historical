@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604010530id_/http%3A//www.scrubsandbeyond.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914000846id_/http%3A//www.scrubsandbeyond.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service Scrubs and Beyond
 
