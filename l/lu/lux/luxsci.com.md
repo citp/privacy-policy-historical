@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073043id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913233701id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Lux Scientiae: Privacy Policy
 
@@ -42,8 +42,9 @@ Confidentiality:
 
 Lux Scientiae staff will not examine the content of your incoming or outgoing email messages or your WebAides without your explicit consent. The exception to this rule is the case where Lux Scientiae management deems a client to be in possible violation of its [Acceptable Use Policy](https://web.archive.org/extranet/aup.html) and deems that analysis of email messages or WebAides is necessary in order to establish this fact or to stop the sending of SPAM, Unsolicited Email, excessive utilization of system resources, or other violations of LuxSci's AUP. In any case, the contents of your email messages and WebAides will be kept in the strictest confidentiality that can be afforded by compliance with local, state, and federal law.
 
-|  | [](https://web.archive.org/order.html)  [](https://web.archive.org/extranet/WebMail/trial_request.php)  
+|  |  [](https://www.mcafeesecure.com/RatingVerify?ref=www.luxsci.com)  
 ---  
+[](https://web.archive.org/order.html)  [](https://web.archive.org/extranet/WebMail/trial_request.php)  
   
 **Other Features**
 
@@ -56,4 +57,4 @@ Lux Scientiae staff will not examine the content of your incoming or outgoing em
 
   
   
-"Thank you very much for getting my service setup so quickly. Within an hour from subscribing to the email-only service, I was up and running. The site was very intuitive and easy to use, so I was able to configure my account rapidly. Also, I want to praise your company for your customer service response. For all of my inquiries/tickets, I got satisfied responses very quickly. Some responses were within minutes. Lastly, your email-only service is very competitively priced. I will recommend you to everyone, especially since I am an IT web consultant working for many fortune 500 companies. Last company I worked with was Sony Pictures and am currently working as a consultant at directv.com."
+"IMAP is the best kept secret in Email. It is the quickest and most efficient way to manage your Email; you decide what messages will be retrieved to your machine, whereas with POP you will be forced to wait through lengthy mail downloads to get to the messages you know are important. The IMAP methodology is helpful for power users who might desire multiple mailboxes (for example, some messages they might want kept on their home machine, whereas others belong on their work machine). LuxSci goes the extra mile in delivering a secure line of communication with their servers. If people knew that their interaction with most other mail service providers was exposing their mailbox password to anybody who happens to be eavesdropping on their network connection, I suspect many would be thinking twice about using anything but IMAP and SSL. And LuxSci is presently one of a very few mail hosting companies who offer just that plus the option of a functionally robust browser interface."
