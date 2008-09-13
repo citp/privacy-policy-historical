@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624224438id_/http%3A//www.yanmar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913202348id_/http%3A//www.yanmar.com/privacy.asp) for the most accurate reproduction.*
 
 # Yanmar America Corporation - Privacy Policy
 
