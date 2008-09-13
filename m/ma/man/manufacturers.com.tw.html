@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manufacturers.com.tw privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609014431id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manufacturers.com.tw privacy policy that was archived on 2008-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913061340id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,24 +27,52 @@
 		<a title="B2BManufacturers.com" href="http://www.manufacturers.com.tw/"><img src="http://www.manufacturers.com.tw/images/5/b2bmanufactures_logo.gif" alt="B2BManufacturers.com" border="0"><br>Taiwan &amp; China Manufacturers and Suppliers</a> 
 	</div>
  	<div id="tp_bar">
-		<a title="Sign In" href="/member.php?view=member_signin">Sign In</a> |   
-		<a href="/member.php">Register</a> | 
+	    <a title="Sign In" href="/member.php?view=member_signin">Sign In</a> | <a title="Register" href="/member.php">Register</a> | 
 		<img src="/images/5/cart.gif" width="21" height="14" align="absmiddle"><a href="/inquiry.php">Inquiry Basket<span id="inq_basket"></span></a> | 
 		<a href="/help/help.htm">Help</a> | 
 		<a href="/sitemap.php">Site Map</a>
-		
+	</div>
+	
+	<div id="tp_nav">
+		<ul>
+			<li id="tp_menu_1" class="w1"><a title="Home" href="/">Home</a></li>
+			<li id="tp_menu_2"><a title="Suppliers" href="/viewtopic.php?mod=suppliers">Suppliers</a></li>
+			<li id="tp_menu_3" class="w2"><a title="Buying Leads" href="/viewtopic.php?mod=buying_leads">Buying Leads</a></li>
+			<li id="tp_menu_4" class="w2"><a title="Selling Leads" href="/viewtopic.php?mod=selling_leads">Selling Leads</a></li>
+			<li id="tp_menu_5" class="new"><a title="My BMS" href="/mybms.php">My BMS</a></li>
+		</ul>
+	</div>
+	
+	<div id="tp_submenu" style="display: none;"> 
+		<ul id="tp_submenu_1" style="display: none;">
+			<li><a href="/mybms.php?func=i_inbox">My Inquiry</a></li>
+			<li><a href="/tradeleads.php?view=manager">My Trade Leads</a></li>
+			<li style="background-image:none"><a href="/tradeleads.php?view=post">Post Trade Leads</a></li>
+		</ul>
+		<ul id="tp_submenu_2" style="display: none;">
+			<li><a href="/about-us/online-trade-shows.htm">Online Trade Shows</a></li>
+			<li><a href="/help/find-buying-leads.htm">How to Sell</a></li>
+			<li><a href="/help/find-suppliers.htm">How to Buy</a></li>
+			<li style="background-image:none"><a href="/tradeleads.php?view=post">Post Trade Leads</a></li>
+		</ul>
+		<ul id="tp_submenu_3" style="display: none;">
+			<li><a href="/about-us/advertising.htm">Our Services</a></li>
+			<li><a href="/help/find-buying-leads.htm">How to Sell</a></li>
+			<li style="background-image:none"><a href="/tradeleads.php?view=post&amp;otype=1">Post Buying Leads</a></li>
+		</ul>
+		<ul id="tp_submenu_4" style="display: none;">
+			<li><a href="/help/find-suppliers.htm">How to Buy</a></li>
+			<li style="background-image:none"><a href="/tradeleads.php?view=post&amp;otype=2">Post Selling Leads</a></li>
+		</ul>
+		<ul id="tp_submenu_5" style="display: none;">
+			<li><a href="/mybms.php?func=i_inbox">My Inquiry</a></li>
+			<li><a href="/tradeleads.php?view=manager">My Trade Leads</a></li>
+			<li style="background-image:none"><a href="/member.php?view=update_profile">My Profile</a></li>
+		</ul>
 	</div>
 </div>
 
-<div id="tp_nav1">
-  	<ul>
-		<li class="w1"><a title="Home" href="/">Home</a></li>
-		<li class="w2"><a title="Selling Leads" href="/viewtopic.php?mod=selling_leads">Selling Leads</a></li>
-		<li class="w2"><a title="Buying Leads" href="/viewtopic.php?mod=buying_leads">Buying Leads</a></li>
-		<li><a title="Suppliers" href="/viewtopic.php?mod=suppliers">Suppliers</a></li>
-		<li class="new"><a title="My BMS" href="/mybms.php">My BMS</a></li>
-  	</ul>
-</div>
+
 <div id="tp_word">
     <div class="word1">China &amp; Taiwan Trade Manufacturers Directory is your one-stop site for complete trade sources. B2BManufactures.com is an online B2B trading platform with which multi million dollars business transactions go through on daily bases. OEM and ODM orders certainly find their suppliers here. Be efficient and catch your trade leads quickly, <a href="/about-us/contact-us.htm">JOIN US RIGHT NOW</a>!!</div>
 </div>
@@ -53,10 +81,11 @@
     <div align="center" class="search">B2BManufacturers Search :
     	<input name="sk" type="text" id="sk" value="" size="34">
         <select name="st" class="box" id="st" onchange="checkSearchBar(this.form);">
-          	<option value="1">Company Products</option>
-         	<option value="2">Company Name</option>
-          	<option value="11">Buying Leads</option>
+            <option value="1">Company Search</option>
+			<option value="13">Product Search</option>
+	        <option value="11">Buying Leads</option>
           	<option value="12">Selling Leads</option>
+			<option value="2">Company Name</option>
         </select>
         <select name="lang" id="lang" class="box">
       		<option value="en">Eng</option>
@@ -64,12 +93,12 @@
     	</select> 
 		<input name="tt" type="hidden" id="tt" value="">
 		<input type="submit" id="sb_btn" value="Search">
-  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» <a href="/help/search-tips.htm">Search Tips</a>
+  		» <a href="/help/search-tips.htm">Tips</a>
     </div>
   	</form>
 	<script language="javascript" type="text/javascript">
 		checkSearchBar(document.form_search);
-	</script>
+	</script>	
 	<div id="tp_breadcrumb">
 	  	<a title="B2BManufacturers" href="http://www.manufacturers.com.tw/">Home</a> &gt; <a href="/help/help.htm">Help</a> &gt; <h1>Privacy Policy</h1> 
 	</div>
@@ -114,7 +143,7 @@ G.T. does share aggregated demographic information with our partners and adverti
 		<br>
 		You will be given the opportunity to 'opt-out' of having your information used for purposes not directly related to this site at the point where we ask for your information, and you will be notified if your information will be used by outside parties. You may contact us to correct or update your personal data. If we change our privacy policy, we will revise our Privacy Statement as your notice. If we intend to use your personal information in a manner different from that which was stated at the time it was collected, we will notify you. You will then have a choice as to whether or not we use your information for this new purpose.
 <div id="about-box"> 
-	<table border="0" align="center" cellpadding="0" cellspacing="0">
+	<table border="0" align="center" cellpadding="0" cellspacing="0" style="width:auto">
     <tbody><tr> 
 		<td>
 			<table border="0" align="center" cellpadding="0" cellspacing="0">
@@ -134,16 +163,15 @@ G.T. does share aggregated demographic information with our partners and adverti
 				<th>Fax :</th>
 	            <td>+ 886 (0)4 22361191</td>
 			</tr>
-			</tbody></table>
-		</td>
-    </tr>
-    <tr> 
-		<td align="center" valign="baseline"> 
-			Skype : <script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script> 
+			<tr> 
+				<th>Skype :</th>
+	            <td><script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script> 
 			<a href="callto:gt-serviceb"><img src="http://download.skype.com/share/skypebuttons/buttons/call_green_transparent_70x23.png" alt="Skype Me™!" border="0"></a> 
 			<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
 			<a href="callto:gt-servicea"><img src="http://download.skype.com/share/skypebuttons/buttons/call_green_transparent_70x23.png" alt="Skype Me™!" border="0"></a><img src="/images/5/function/skype.gif" alt="Download" hspace="3"><a href="http://www.skype.com/download" target="_blank">Download 
-        Skype</a> 
+        Skype</a> </td>
+			</tr>
+			</tbody></table>
 		</td>
     </tr>
 	</tbody></table>
@@ -160,7 +188,7 @@ G.T. does share aggregated demographic information with our partners and adverti
 		<a href="javascript:window.external.addFavorite('http://www.manufacturers.com.tw','B2Bmanufactures.com')" rel="nofollow">Bookmark Site</a>
 	</div>
 
-	<div id="tp_copyright">
+	<div id="tp_copyright" style="width:700px">
 		<a href="http://www.manufacture.com.tw"><img src="/images/5/logo.gif" alt="G.T. logo" border="0" align="left"></a>
 		<a title="Home" href="http://www.manufacturers.com.tw/">Home</a> | 
 		<a title="How to Buy" href="/help/find-suppliers.htm">How to Buy</a> |
