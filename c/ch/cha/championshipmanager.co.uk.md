@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174606id_/http%3A//www.championshipmanager.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913045148id_/http%3A//www.championshipmanager.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Championship Manager 2006 - Official Website
 
