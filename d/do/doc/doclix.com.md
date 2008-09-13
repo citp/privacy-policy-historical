@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doclix.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625013939id_/http%3A//www.doclix.com/contextgain/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doclix.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913082121id_/http%3A//www.doclix.com/contextgain/privacy.html) for the most accurate reproduction.*
 
 # Doclix: Privacy Policy
 
-[](https://web.archive.org/web/20080625013939id_/http%3A//www.doclix.com/index.html)
+[](https://web.archive.org/web/20080913082121id_/http%3A//www.doclix.com/index.html)
 
 Doclix respects the privacy of online users. This policy explains the accepted privacy practices for the services available at www.doclix.com (" **Doclix.com** ") and the use of the Doclix _ContextGain_ Program Service (" ** _ContextGain_** ", collectively " **the Services** "). 
 
