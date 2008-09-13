@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630025618id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914003414id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
 
 # The Cash4Offers.com Privacy Policy
 
