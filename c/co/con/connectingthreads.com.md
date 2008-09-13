@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectingthreads.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630043633id_/http%3A//www.connectingthreads.com/help/index.php/cat/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectingthreads.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913103905id_/http%3A//www.connectingthreads.com/help/index.php/cat/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Connecting Threads Help » Privacy Policy
 
@@ -14,7 +14,7 @@ about this site. In addition, to check out information we may ask you for person
 information at other times.  Connecting Threads and ConnectingThreads.com also occasionally ask users to complete surveys that are used for research purposes.
 
 When you visit the ConnectingThreads.com web site you are sharing any information you provide solely with Connecting Threads and its corporate parent Crafts Americana Group, Inc. We maintain our own secure servers on our own premises and only our own employees have access to them. We use the information we collect from you to better serve your needs. From time to time we will send you advertising information about our products and services that we feel may be of interest to you. We deliver this information to you both via the US Post Office and through the Internet. When you place an order with our company or register for our weekly drawing, we assume you would not mind receiving additional offers from our company both in the mail and online. If you wish to be removed from either our postal mailing address list or our e-mail address list you can contact  
-us via e-mail at [CustomerService@ConnectingThreads.com](mailto:CustomerService@ConnectingThreads.com) or call us at (800) 574-6454 (U.S. and Canada), Monday through Friday 5:00 AM - 6:00 PM PT or Saturday 6:00 AM - 5:00  
+us via e-mail at [CustomerService@ConnectingThreads.com](mailto:CustomerService@ConnectingThreads.com) or call us at (800) 574-6454 (U.S. and Canada), Monday through Friday 5:00 AM - 6:00 PM PT or Saturday 6:00 AM - 3:00  
 PM PT. Outside the U.S. and Canada you can reach us at (360) 260-8900 x 0 Monday  
 through Friday 9:00 AM to 4:30 PM PT. Or feel free to write us at Connecting Threads, PO Box 870760 Vancouver Wa 98684-7760.
 
