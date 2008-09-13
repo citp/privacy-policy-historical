@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217190531id_/http%3A//www.cyberhomes.com/htmlcontent.aspx%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913072617id_/http%3A//www.cyberhomes.com/htmlcontent.aspx%3Fname%3Dprivacy) for the most accurate reproduction.*
 
-# Cyberhomes - Value Your Home
+# Cyberhomes.com
 
 We at Fidelity National Financial ("FNF") recognize and respect the privacy expectations of today's consumers.  We believe that making you aware of how we use your non-public personal information ("Personal Information"), and to whom it is disclosed, will form the basis for a relationship of trust between FNF and the public that we serve.  This Privacy Policy provides that explanation.  We reserve the right to change this Privacy Policy from time to time. 
 
@@ -30,11 +30,10 @@ We will only share information in the following circumstances:
   * When FNF provides information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy; 
   * To governmental entities to meet our legal requirements connected to the collection, retention and disclosure of individually identifiable information, 
   * To law enforcement in connection with investigations, or civil or criminal subpoenas or court orders; and 
-  * To enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/web/20071217190531id_/http%3A//www.cyberhomes.com/htmlcontent.aspx?name=terms)
+  * To enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/web/20080913072617id_/http%3A//www.cyberhomes.com/htmlcontent.aspx?name=terms)
   * To detect, prevent, or otherwise respond to fraud, security or technical concerns, or 
   * When and if FNF is involved in a merger, acquisition, or any form of sale of some or all of its business, information may be transferred along with the business. 
 
-  
 
 
 ##  Third Party Web Sites
@@ -44,8 +43,3 @@ Cyberhomes.com may include links to the Web sites of other entities, including R
 ##  Contacting FNF
 
 If you have any questions about this Cyberhomes.com Privacy Policy, or the privacy practices of FNF, please contact us at [cyberhomes-helpdesk@fnres.com](mailto:cyberhomes-helpdesk@fnres.com).
-
-Back to Top
-
-  
-| 
