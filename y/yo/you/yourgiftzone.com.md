@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607132157id_/http%3A//yourgiftzone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913081223id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D380name%26catalog_id%3D7680) for the most accurate reproduction.*
 
 # Help Desk
 
@@ -7,7 +7,7 @@
 
 **PRIVACY POLICY**
 
-**January 31, 2007**
+**June 24, 2008**
 
 **Our Commitment To Privacy**
 
@@ -45,8 +45,8 @@ We use reasonable technical efforts to prevent unauthorized access or disclosure
 
 If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may chose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
 
-Customer Service Department  
-13762 W. SR. 84, Suite 612   
+Customer Service  
+13762 W. SR. 84, Suite 612  
 Davie, FL 33325 
 
 We will promptly update our records upon receiving your clear instructions to opt-out, but it may take up to ten (10) business days from our receipt of your request for the change to be fully effective. If you later give us a clear statement that you want to receive emails from us or our advertisers after such date, then that opt-in statement will supersede any earlier opt-out request. If we have already provided your email address or other information to an advertiser or other third party before we receive your opt-out request, we cannot prevent them from sending or continuing to send you information or emails and you will need to contact such third party directly.
