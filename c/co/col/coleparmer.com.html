@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2007-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071022124328id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2008-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913173307id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Privacy Statement</title>
-    <link rel="STYLESHEET" href="/catalog/includes/cp_style.css" type="text/css">
-    <link rel="STYLESHEET" href="/catalog/includes/layout.css"> 
+	<title>Cole-Parmer: Privacy Statement</title>
     
+     
+    <link rel="shortcut icon" href="/favicon-cp.gif">
 
 <script language="javascript">
 
@@ -37,525 +37,8 @@ function gotoShoppingCart() {
 	}
 	
 </script>
-<script language="javascript">
 
-var new_window = null
-
-function submitNext() {
-	
-	document.frmCheckout.hdnPageAction.value = "Next";
-	document.frmCheckout.submit();
-	}
-
-
-function submitPrevious() {
-	
-	document.frmCheckout.hdnPageAction.value = "Previous";
-	document.frmCheckout.submit();
-	}
-
-function submitUpdate() {
-
-	document.frmCheckout.hdnPageAction.value = "Update";
-	document.frmCheckout.submit();
-	}
-
-function submitJump(loc) {
-	
-	document.location.href = loc;
-	}
-
-function submitCopy() {
-	
-	document.frmCheckout.hdnPageAction.value = "Copy";
-	document.frmCheckout.submit();
-	}
-
-function gotoHelp() {
-	
-	parent.location = "/catalog/help/overview.asp";
-	return;
-	} 
-
-function gotoSearch() {
-	
-	parent.location = "/catalog/search.asp";
-	return;
-	} 
-
-function gotoLogout() {
-
-	parent.contents.location = "login_sidebar.asp?action=logout";
-	return;
-	}
-
-function gotoWhyOpenAccount() {
-
-	parent.location = "/catalog/help/registering.asp";
-	return;
-	}
-
-function gotoReminder() {
-
-	parent.location = "/catalog/reminder.asp";
-	return;
-	}
-
-function gotoCatalogHome() {
-
-	parent.location = "/catalog/catalog_welcome.asp";
-	return;
-	}
-
-function gotoCCCOA() {
- 
- if (document.frmCCCOA.txtCCCOA.value == "") {
-  alert("Please enter a lot number.");
-  return;
- }
- else {
-  window.open("http://68.248.202.57/CPCofA.aspx?CCN=89000-01&LotID=" + document.frmCCCOA.txtCCCOA.value);
-  return;
- }
-}
-
-
-	
-function openAddToQuickList(sku, cypher_id) {
-  
-    closeAddToCart()
-	var loc = "/catalog/mycp/mycp_quick_lists_save_popup.asp?sku=" + sku + "&RegID=" + cypher_id;
-	new_window = window.open(loc,'winAddToCart','width=380,height=480,resizable');
-	return;
-	}
-    
-	window.onerror=null;
-
-    
-function openOrderWin(loc)
-    {
-    new_window = window.open(loc,'winAddToCart','width=590,height=500,resizable,scrollbars,menubar,toolbar,status');
-    return;
-	}
-    
-    
-//***** Call this function from the BODY onfocus event to close any previously opened pop-up windows
-function closeAddToCart() 
-    {
-    if(new_window != null) 
-        { 
-        if(!new_window.closed) 
-            { 
-            new_window.close()
-            new_window = null
-            } 
-        else 
-            {
-            new_window = null
-            }
-        }
-    }           
-
-function openSkuInfo(sku) {
-
-	var loc = "sku_info.asp?sku=" + sku;
-	new_window = window.open(loc,'winAddToCart','width=350,height=380');
-	return;
-	}
-
-function openCatalogIndex(cat,view) {
-    if (cat==1){
-    parent.location = "/catalog/catalog_toc.asp?cat=" + cat + "&view=" + view;
-    return;
-    }
-    if (cat==9){
-    parent.location = "/catalog/catalog_welcome_MFlex.asp";
-    return;
-    }
-    if (cat==25){
-    parent.location = "/catalog/catalog_welcome_Bar.asp";
-    return;
-    }
-    if (cat==26){
-    parent.location = "/catalog/catalog_toc.asp?cat=" + cat + "&view=" + view;
-    return;
-    }
-    if (cat==27){
-    parent.location = "/catalog/catalog_toc.asp?cat=" + cat + "&view=" + view;
-    return;
-    }
-    if (cat==24){
-    parent.location = "/catalog/catalog_toc.asp?cat=" + cat + "&view=" + view;
-    return;
-    }
-   if (cat==30){
-    parent.location = "/catalog/catalog_toc.asp?cat=" + cat + "&view=" + view;
-    return;
-    }
-    var loc = "" + parent.contents.location.href;
-    var len = loc.length;
-	var url = ""
-	var itm = "";
-	var cnt = 0;
-	var itm = "";
-    
-	for (var i = loc.indexOf("?"); i < len; i++) {   
-
-		url = url + loc.charAt(i);
-		}
-    
-	cnt = itemCount(url,"&");
-
-	for (var i = 0; i < cnt; i++) {   
-			
-		itm = getItem(i,url,"&");
-		itm = getItem(0,itm,"=");
-			
-		if (itm == "cat") {
-			
-			itm = "cat=" + cat;
-			url = removeItem(i,url,"&");
-			url = addItem(itm,url,"&");
-			}
-		}
-
-	if (url.indexOf("?") == -1) {
-		url = url + "?";
-		}
-
-	if (url.indexOf("cat") == -1) {
-		url = url + "cat=" + cat;
-		}
-
-	if (loc.indexOf("product_sidebar") != -1) {
-		parent.main.location = "catalog_toc.asp?cat=" + cat;
-		//*** try to avoid bad urls from forming.
-		if(url.charAt(0) != "?"){
-			parent.contents.location = "product_sidebar.asp?" + url;
-			}
-		else{
-			parent.contents.location = "product_sidebar.asp" + url;
-			}
-		}
-	
-	else {
-		
-		parent.main.location = "catalog_toc.asp?cat=" + cat;
-		//*** try to avoid bad urls from forming.
-		if(url.charAt(0) != "?"){
-			parent.contents.location = "catalog_sidebar.asp?" + url;
-			}
-		else{
-			parent.contents.location = "catalog_sidebar.asp" + url;
-			}
-			
-		}
-		
-	return;
-	} 
-	
-function openProductIndex(cls,par,cat) {
-	
-	parent.location = "/catalog/product_index.asp?cls=" + cls + "&par=" + par + "&cat=" + cat;
-	return;
-	}
-
-function openProductList(cls,par,cat,sch,sku,sel) {
-	
-	if (cls == "") {
-	
-		alert("Please select a product category.");
-		}
-	
-	else {
-		
-		parent.location = "product_list.asp?cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sku=" + sku + "&sel=" + sel;
-		}
-
-	return;
-	}
-
-function openProductView(sku,cls,par,cat,sch,sel,lstBool) {
-	
-	//parent.contents.location = "product_sidebar.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sel;
-	
-	//if (sel != "" && sel.length >= 7) {
-		
-		parent.location = "/catalog/product_view.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sel + "&lstBool=" + lstBool;
-	    //}
-
-	return;
-	}
-
-function openProductIndexProc(sku,cls,par,cat,sch,sel) {
-	
-	//parent.contents.location = "product_sidebar.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sel;
-	
-	//if (sel != "" && sel.length >= 7) {
-		
-		parent.location = "/catalog/product_index_proc.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sel;
-	    //}
-
-	return;
-	}
-
-function openProductCompare(sku,cls,par,cat,sch,sel,trs) {
-	//parent.contents.location = "product_sidebar.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sch;
-	parent.location = "/catalog/product_compare.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sch + "&trs=" + trs;
-	return;
-	}
-
-function openPreviousNext(sku,cls,par,cat,sel,sch,lstBool) {
-    openProductView(sku,cls,par,cat,sch,sel,lstBool)
-	//parent.contents.location = "product_sidebar.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sel=" + sel + "&sch=" + sch;
-	//parent.location = "/catalog/product_view.asp?sku=" + sku + "&cls=" + cls + "&par=" + par + "&cat=" + cat + "&sch=" + sch + "&sel=" + sel + "&lstBool=true";
-	return;
-	}
-
-function synchWelcomeSidebar() {
-	
-	parent.contents.location = "login_sidebar.asp";
-	return;
-	} 
-
-function synchTOCSidebar(cat) {
-	
-	parent.contents.location = "catalog_sidebar.asp?cat=" + cat;
-	return;
-	} 
-
-function synchIndexSidebar(cat) {
-
-	synchTOCSidebar(cat);
-	return;
-	} 
-
-function synchListSidebar(cat) {
-	
-	var sid_loc = "" + parent.contents.location.href;
-
-	if (sid_loc.indexOf("product_sidebar.asp") == -1) {
-	
-		if (sid_loc.indexOf("catalog_sidebar.asp") == -1) {
-	
-			parent.contents.location = "catalog_sidebar.asp?cat=" + cat;
-			}
-		}
-
-	return;
-	} 
-
-function synchViewSidebar(sku) {
-
-	var sid_loc = "" + parent.contents.location.href;
-	var mpg_loc = "" + parent.main.location.href;
-	var new_loc = "";
-	var len = mpg_loc.length;
-	var parms = "";
-	var itm = "";
-	var parm_count = 0;
-
-	if (sid_loc.indexOf("product_sidebar.asp") == -1) {
-
-		// rebuild frameset
-		new_loc = "product_sidebar.asp";
-
-		if (mpg_loc.indexOf("?") != -1) {
-
-			for (var i = mpg_loc.indexOf("?"); i < len; i++) {   
-				
-				parms = parms + mpg_loc.charAt(i);
-				}
-			
-			if (parms.indexOf("sel") != -1) {
-			
-				parm_count = itemCount(parms,"&");
-			
-				for (var i = 0; i < parm_count; i++) {   
-					itm = getItem(i,parms,"&");
-					itm = getItem(0,itm,"=");
-					if (itm == "sel") {
-						removeItem(i,parms,"&");
-						itm = "sel=" + sku;
-						addItem(itm,parms,"&");
-						}
-					}
-				
-				parent.contents.location = new_loc + parms;
-				}
-
-			else {
-				
-				parent.contents.location = new_loc + parms + "&sel=" + sku;
-				}
-			}
-			
-		else {
-			//*** Prevent bad urls from forming
-			if(new_loc.charAt(new_loc.length - 1) != "?"){
-				parent.contents.location = new_loc + "?sel=" + sku;
-				}
-			else{
-				parent.contents.location = new_loc + "sel=" + sku;
-				}
-			}
-		}
-
-	return;
-	} 
-
-function synchCompareSidebar(sch) {
-
-	var sid_loc = "" + parent.contents.location.href;
-	var mpg_loc = "" + parent.main.location.href;
-	var new_loc = "";
-	var len = mpg_loc.length;
-	var parms = "";
-
-	if (sid_loc.indexOf("product_sidebar.asp") == -1) {
-
-		// rebuild frameset
-		new_loc = "product_sidebar.asp";
-
-		if (mpg_loc.indexOf("?") != -1) {
-
-			for (var i = mpg_loc.indexOf("?"); i < len; i++) {   
-				
-				parms = parms + mpg_loc.charAt(i);
-				}
-			
-			if (parms.indexOf("sel") != -1) {
-			
-				parm_count = itemCount(parms,"&");
-			
-				for (var i = 0; i < parm_count; i++) {   
-					itm = getItem(i,parms,"&");
-					itm = getItem(0,itm,"=");
-					if (itm == "sel") {
-						removeItem(i,parms,"&");
-						itm = "sel=" + sch;
-						addItem(itm,parms,"&");
-						}
-					}
-				parent.contents.location = new_loc + parms;
-				}
-
-			else {
-			
-				parent.contents.location = new_loc + parms + "&sel=" + sch;
-				}
-			}
-		
-		else {
-			//*** Prevent bad urls from forming
-			if(new_loc.charAt(new_loc.length - 1) != "?"){
-				parent.contents.location = new_loc + "?sel=" + sch;
-				}
-			else{
-				parent.contents.location = new_loc + "sel=" + sch;
-				}
-			
-			}
-		}
-
-	return;
-	} 
-
-function synchSearchSidebar(cat) {
-	
-	synchTOCSidebar(cat);
-	return;
-	} 
-
-function refreshMainPage() {
-	
-	parent.main.location.reload();
-	return;
-	}
-
-function setPageFocus() {
-	
-	var nam = navigator.appName;
-	var ver = navigator.appVersion;
-	
-	if (!(nam == 'undefined' || ver == 'undefined') && !(nam == '<undefined>' || ver == '<undefined>') && (ver.charAt(0) > '2')) {
-
-		parent.main.focus();
-		}
-
-	return;
-	}
-
-function setQuickAddFocus() {
-
-	if (document.frmCart.hdnQuickAdd.value == "Yes") {
-
-		document.location.href = "#quickadd";
-		//document.frmCart.txtSku.focus();
-		}
-
-	return;
-	}
-
-function sizeBrowser(wid,hgt) {
-
-	if (getBrowserVersion() > '2') {
-
-		window.resizeTo(wid,hgt);
-		window.focus();
-		}
-
-	return;
-	}
-
-function getBrowserVersion() {
-
-	var str = "";
-	
-	str = navigator.appVersion;
-	str = str.substring(0,1);
-	
-	return str;	
-	}
-
-function lablinkup()
-{
-var number = document.dropdown.ddlinks.selectedIndex;
-location.href = document.dropdown.ddlinks.options[number].value;
-}
-
-
-window.onerror=null;
-	var popWin = null;
-    
-	function openPopWin(URL,winHeight,winWidth){
-		//***** close any previously opened pop-up window
-		closePopWin()
-
-		//***** Adjust the following window.open parameters to suit the application requirements
-		popWin = window.open(URL, "login", "HEIGHT=" + winHeight + ",WIDTH=" + winWidth)
-	}
-
-	//***** Call this function from the BODY onfocus event to close any previously opened pop-up windows
-	function closePopWin() {
-		if(popWin != null) { 
-			if(!popWin.closed) { 
-				popWin.close()
-				popWin = null
-			} else {
-				popWin = null
-			}
-		}
-	}
-    
-
-
-
-
-
-</script>
-    
-    
+    <script language="JAVASCRIPT" src="/catalog/SCRIPTS/navigation.js"></script>
     <script language="JAVASCRIPT" src="/catalog/SCRIPTS/GLOBAL.JS"></script>
     <script language="JAVASCRIPT" src="/catalog/SCRIPTS/PARSE_PROCS.JS"></script>
     <script language="JAVASCRIPT" src="/catalog/SCRIPTS/FRAME_PROCS.JS"></script>
@@ -566,12 +49,135 @@ window.onerror=null;
 
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <div class="container">
- 	<div class="topHeaderbar">
- 	<div class="topHeader">
- 	<!--- /privacy.asp--->
+<div class="topHeaderbar">
+<div class="topHeader">
+
+<script language="JavaScript">
+function deleteQlistItem(theListID , targetSKU)
+{
+	if (confirm("Are you sure you want to delete this product from your list?"))
+	{
+		document.location = "/catalog/mycp/mycp_quick_list_item_delete.asp?QList=" + theListID + "&SKU=" + targetSKU;
+	}
+}
+</script>
+
+<script language="javascript">
+function Wlinkup() 
+{
+	var sRefNo
+	var sQNbr
+	var sAccNo
+	var sUrl
+	var sRecCount
+	var sQuoteNo
+	var sQuotezip
+	var sLoc = '';
+	
+	if (document.getElementById("cboDetails") != undefined)
+	  {
+		sRefNo = document.frmDropDown.cboDetails.options[document.frmDropDown.cboDetails.selectedIndex].text;
+	  } 	
+	else
+	  {
+		sRefNo = 'No Order'
+	  }
+	  	
+	if (document.getElementById("cboQuote") !=  undefined)
+	  {	
+		sQNbr = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].text;
+	  } 
+	else
+	  {
+	    sQNbr = 'Select a Quote'
+	  }  
+	  	
+	if ((sRefNo == 'Web Orders.........') && (sQNbr == 'Select a Quote'))
+	  {
+		sRefNo = '';
+		sQNbr = '';
+		alert("Please select a Web Order or a Quote, then click the GO button.");
+	  }
+	else
+	 {
+	 
+ 	  if ((sRefNo == 'No Order') && (sQNbr == 'Select a Quote'))
+		{
+			sRefNo = '';
+			sQNbr = '';
+			alert("Please select a Quote, then click the GO button.");
+		}
+      else
+		{
+			if ((sRefNo == 'Web Orders.........') ||(sRefNo == 'No Order'))
+				{
+					sRefNo = '';
+				}
+				
+			if (document.getElementById("cboDetails") != undefined)
+				{
+					sAccNo = document.getElementById("cboDetails").options[document.getElementById("cboDetails").selectedIndex].value;
+					sNo = document.frmDropDown.cboDetails.selectedIndex;
+				}
+			else
+				{
+					sAccNo = 0;
+					sNo = 0;	
+				}	
+
+			sUrl = document.getElementById("hdnUrl").value;
+			sRecCount = document.getElementById("hdnRecCount").value;
+	
+			if (sRefNo != undefined)
+				{ 
+					document.getElementById("hdnRefNo").value = sRefNo;
+				}
+			else
+				{
+					document.getElementById("hdnRefNo").value = 0;
+				}	
+	
+			if (sAccNo != undefined)
+				{
+					document.getElementById("hdnAccNo").value = sAccNo;
+				}
+			else
+				{
+					document.getElementById("hdnAccNo").value = 0;
+				}	
+		
+			document.getElementById("hdnRecNo").value = sNo;
+	
+			sQuoteNo = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].text;
+			sQuotezip = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].value;
+			document.getElementById("Quote").value = sQuoteNo
+			document.getElementById("cboQuote").value = sQuotezip
+		
+			if (sRefNo == '')
+			 {
+				//sLoc = "Quote_details.asp"
+				//document.frmDropDown.action = sLoc;
+				//document.frmDropDown.submit();
+				parent.location = "https://www.coleparmer.com/catalog/mycp/Quote_details.asp?Quote=" + sQuoteNo;
+			 }
+			else
+			 {
+				sLoc = "https://www.coleparmer.com/catalog/mycp/my_order_details.asp";
+				document.frmDropDown.action = sLoc;
+				document.frmDropDown.submit();
+			 }
+		}
+	}
+}
+
+</script>
+
+	<link rel="STYLESHEET" href="/catalog/includes/cp_style.css" type="text/css">
+	<link rel="STYLESHEET" href="/catalog/includes/layout.css"> 	 
 
 <script language="javascript" type="text/javascript" src="/catalog/scripts/DOM.JS"></script>
 <script language="javascript" type="text/javascript" src="/catalog/scripts/imainnav.js"></script>
+
 
 <script language="javascript" type="text/javascript">    	
 	
@@ -580,51 +186,40 @@ window.onerror=null;
 
 <table width="740" height="53" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
-    <td width="200">
-     
-				<a href="http://www.coleparmer.com/index.asp?index=home">
-		  
 
-        <img src="/catalog/images/CPlogo-200-46.gif" alt="Cole-Parmer Laboratory and Industial instruments, and great service!" border="0" height="46" width="200"></a>
-    	
-		
+    <td width="200">
+
+			<a href="http://www.coleparmer.com/index.asp">
+	    
+        <img src="/catalog/images/CPlogo-200-46.gif" alt="Cole-Parmer - The world's leading source for scientific and industrial instrumentation since 1955." border="0" height="46" width="200"></a>   			
+	     
     </td>
-    <td>
-      <table width="390" cellspacing="0" cellpadding="0" border="0">
+
+    <td width="250">
+      <table width="250" cellspacing="0" cellpadding="0" border="0">
+    
+
 	    <tbody><tr>
 	    
 		 
-	      <td class="ScreenTitle"><font color="#000000">&nbsp;&nbsp;</font>
-	      </td>
+	      <td class="iMainNavTitle" nowrap=""></td>
 	      
 	      
 	      <td>&nbsp;
 	      </td>
-	      
-
+	             
+          <td valign="center" align="left" nowrap="">
+        
+			<img src="/catalog/images/clear.gif" height="1" width="8">
           
-          <td><img src="/catalog/images/cart-icon_15-14.gif" height="14" width="15" alt="Cart">
+            <a href="https://www.coleparmer.com/catalog/view_cart.asp"><img src="/catalog/images/cart-icon_15-14.gif" height="14" width="15" alt="Cart" border="0"></a>
+            &nbsp;<span class="TinyText">Subtotal&nbsp;=&nbsp;0.00</span>
+        
           </td>
-          <td>
-		  
-				<span class="TinyTextBlack">Items = </span>
-			
-				<span class="TinyTextBlack">0</span>
-		  </td>
-		  <td>&nbsp;
-		  </td>
-		  <td width="123" align="right" class="TinyTextBlue">
-			  <img src="/catalog/images/clear.gif" border="0" height="8" width="1" alt=" ">
-				
-				  <a href="http://www.coleparmer.com/catalog/view_cart.asp">View Cart</a>
-				  <span>/</span>
-				  <a href="http://www.coleparmer.com/catalog/view_cart.asp">CheckOut</a>
-			  
-		   </td>
 		 </tr>
 					   
 		 <tr>
-   	       <td colspan="2" id="dealerTelNbr" name="dealerTelNbr">&nbsp;&nbsp;
+   	       <td colspan="2" id="dealerTelNbr" name="dealerTelNbr" nowrap="">
    	       1-800-323-4340
 			<!-- Start of Vidi Emi Oculus 1.01 -->
 			<script language="JavaScript">
@@ -643,34 +238,31 @@ window.onerror=null;
 			VE+="$D="+escape(date.getTimezoneOffset());
 			VE+="$R="+document.referrer;
 			VE+="$U="+document.location; 
-			document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veo2.asp?'+VE+'">');
-			// --></script><img border="0" width="1" height="1" src="http://snap.vidiemi.com/veo2.asp?$V=435093101$S=Cole-Parmer$G=Catalog$T=Privacy%20Statement$C=$D=0$R=$U=https://web.archive.org/web/20071022124328id_/http%3A//www.coleparmer.com/privacy.asp">
+			document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" src="/catalog/images/clear.gif">');
+			// --></script><img border="0" width="1" height="1" src="/catalog/images/clear.gif">
 			<noscript>
-				<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veo2.asp?$V=435093101&$J=0">
+				<IMG BORDER="0" WIDTH="1" HEIGHT="1" src="/catalog/images/clear.gif">
 			</noscript>
 			<!--End 0f Vidi Emi Oculus -->
 		
-        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=0AD94708AD5846F191B0A2C29023DE5A&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=http://www.coleparmer.com/">
+        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=50217735DCE84193A3A4A40F71696E96&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=">
 	
 
 		   </td>
-		   <td>
-			  <img src="/catalog/images/login-icon_15-14.gif" height="14" width="15" alt="Login">&nbsp;
-		   </td>
+		   <td class="TinyText" align="left" nowrap="">
+		   <img src="/catalog/images/clear.gif" height="1" width="18">
+        
+			<img src="/catalog/images/clear.gif" height="1" width="8">
+        
+			Items = 
+		0
+	
+			  <img src="/catalog/images/clear.gif" border="0" height="8" width="5" alt=" ">
 				
-		   
-				<td>    
-				    <a href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)"><span class="TinyTextBlue">Login</span></a>
-				</td>
-				<td width="1">
-					<img src="/catalog/images/1_pxl_666699.gif" height="14" width="1">
-				</td>
-				<td width="123" align="right">
-				  
-					<span class="TinyText">New Guest?</span>&nbsp;<a href="http://www.coleparmer.com/catalog/mycp/mycp_main.asp"><span class="TinyTextBlue">Start Here</span></a>
-				  	
-				</td>	
-			
+				  <span class="TinyTextBlue"><a href="https://www.coleparmer.com/catalog/view_cart.asp">View Cart</a></span> 
+			  
+			  
+		   </td>
 		  </tr>									
 		</tbody></table>
 	  </td>
@@ -679,10 +271,37 @@ window.onerror=null;
 			<img src="/catalog/images/1_pxl_666699.gif" height="37" width="1">
       </td>
 					 
-	  <td>
+	  <td width="150" align="center" valign="center">
+	    <table cellspacing="0" cellpadding="0" border="0">
+	    <tbody><tr>
+	    
+	
+  	      <td valign="center" align="left" nowrap="">
+	        <img src="/catalog/images/clear.gif" height="1" width="5">
+			<a class="TinyTextBlue" href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)"><img src="/catalog/images/login-icon_15-14.gif" height="14" width="15" alt="Login" border="0"></a>
+		    <span class="TinyTextBlue"><a href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)">Login</a></span>
+		  </td>
+	  	  
+	
+		  <td valign="center" align="left" nowrap="">
+  		   <img src="/catalog/images/clear.gif" height="1" width="5">
 		
-			<a href="http://www.coleparmer.com/catalog/mycp/guest_orders.asp?action=guest"><img src="/catalog/images/btn-orderstatus_70-14.gif" width="70" height="14" border="0"></a>
-						
+			<a href="/catalog/mycp/guest_orders.asp?action=guest"><img src="/catalog/images/btn-orderstatus_70-14.gif" width="70" height="14" border="0"></a>
+		
+		  </td>
+		  </tr>
+		 
+		  <tr>
+			  
+		  <td colspan="2" align="left" nowrap="">
+    		   <img src="/catalog/images/clear.gif" height="1" width="5">
+    		   
+				<span class="TinyText">New Customer?</span>&nbsp;<span class="TinyText"><a href="/catalog/mycp/mycp_account_info_edit.asp">Register</a></span>
+			  	
+		  </td>	
+		
+		 </tr>
+		</tbody></table>  				
 	  </td>				
 									
 	  <td width="35" nowrap="">
@@ -699,28 +318,26 @@ window.onerror=null;
 <table width="740" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
      <td valign="top" width="167" align="right">
-       <form name="frmiMainNavSearch" style="left:10" action="javascript:runiMainNavSearch()" method="get">
-    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="2" id="image1" name="image1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-		<input style="height:20px; width:134px;" type="text" name="search" size="18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <form name="frmiMainNavSearch" class="iMainNavSearchForm" action="javascript:runiMainNavSearch()" method="get">
+ 		<input id="SearchFormInput" type="text" name="search" size="18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="2" id="image1" name="image1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   </form>
 	 </td>
 	
 	 <td>		
 		</td><td align="center" class="SmallText" valign="top">
-				<a class="BasicTextBlack" href="http://www.coleparmer.com/index.asp?index=home">Home</a>
+				<a class="iMainNavMenuText" href="http://www.coleparmer.com/index.asp">Home</a>
 		   
      </td>
-
-
-<td align="center" class="SmallText" valign="top">
-<img src="/catalog/images/clear.gif" name="imgProductsServices" id="imgProductsServices" width="1" height="1"><a class="BasicTextBlack" href="/catalog/catalog_welcome.asp" onmouseover="showElement('divProductsServices','imgProductsServices',1);toggleSelectBoxes('divProductsServices');" onmouseout="javascript:hideElement('divProductsServices');toggleSelectBoxes('divProductsServices');">Products &amp; Services&nbsp;<img src="/catalog/images/arrow-bullet_wht-blu_8-6.gif" name="imgArrowProductsServices" id="imgArrowProductsServices" border="0" width="8" height="6"></a></td>
-<td align="center" class="SmallText" valign="top">
-<img src="/catalog/images/clear.gif" name="imgTechLibr" id="imgTechLibr" width="1" height="1"><a class="BasicTextBlack" href="/Techinfo/techinfo_home.asp" onmouseover="showElement('divTechLibr','imgTechLibr',1);toggleSelectBoxes('divTechLibr');" onmouseout="javascript:hideElement('divTechLibr');toggleSelectBoxes('divTechLibr');">Technical Library&nbsp;<img src="/catalog/images/arrow-bullet_wht-blu_8-6.gif" name="imgArrowTechLibr" id="imgArrowTechLibr" border="0" width="8" height="6"></a></td>
-<td align="center" class="SmallText" valign="top">
-<img src="/catalog/images/clear.gif" name="imgMyCPAcct" id="imgMyCPAcct" width="1" height="1"><a class="BasicTextBlack" href="/catalog/mycp/mycp_main.asp" onmouseover="showElement('divMyCPAcct','imgMyCPAcct',1);toggleSelectBoxes('divMyCPAcct');" onmouseout="javascript:hideElement('divMyCPAcct');toggleSelectBoxes('divMyCPAcct');">myCP Account&nbsp;<img src="/catalog/images/arrow-bullet_wht-blu_8-6.gif" name="imgArrowMyCPAcct" id="imgArrowMyCPAcct" border="0" width="8" height="6"></a></td>
-<td align="center" class="SmallText" valign="top">
-<img src="/catalog/images/clear.gif" name="imgContact" id="imgContact" width="1" height="1"><a class="BasicTextBlack" href="/contact/main.asp" onmouseover="showElement('divContact','imgContact',1);toggleSelectBoxes('divContact');" onmouseout="javascript:hideElement('divContact');toggleSelectBoxes('divContact');">Contact/About Us&nbsp;<img src="/catalog/images/arrow-bullet_wht-blu_8-6.gif" name="imgArrowContact" id="imgArrowContact" border="0" width="8" height="6"></a></td>
-		
+<td align="center" class="iMainNavMenuText" valign="top">
+<img src="/catalog/images/clear.gif" name="imgProductsServices" id="imgProductsServices" width="1" height="1"><a class="iMainNavMenuText" href="http://www.coleparmer.com/catalog/catalog_toc.asp" onmouseover="showElement('divProductsServices','imgProductsServices',1);toggleSelectBoxes('divProductsServices');" onmouseout="javascript:hideElement('divProductsServices');toggleSelectBoxes('divProductsServices');">Products &amp; Services</a></td>
+<td align="center" class="iMainNavMenuText" valign="top">
+<img src="/catalog/images/clear.gif" name="imgTechLibr" id="imgTechLibr" width="1" height="1"><a class="iMainNavMenuText" href="http://www.coleparmer.com/Techinfo/techinfo_home.asp" onmouseover="showElement('divTechLibr','imgTechLibr',1);toggleSelectBoxes('divTechLibr');" onmouseout="javascript:hideElement('divTechLibr');toggleSelectBoxes('divTechLibr');">Technical Library</a></td>
+<td align="center" class="iMainNavMenuText" valign="top">
+<img src="/catalog/images/clear.gif" name="imgMyCPAcct" id="imgMyCPAcct" width="1" height="1"><a class="iMainNavMenuText" href="http://www.coleparmer.com/catalog/mycp/mycp_main.asp" onmouseover="showElement('divMyCPAcct','imgMyCPAcct',1);toggleSelectBoxes('divMyCPAcct');" onmouseout="javascript:hideElement('divMyCPAcct');toggleSelectBoxes('divMyCPAcct');">myCP Account</a></td>
+<td align="center" class="iMainNavMenuText" valign="top">
+<img src="/catalog/images/clear.gif" name="imgContact" id="imgContact" width="1" height="1"><a class="iMainNavMenuText" href="http://www.coleparmer.com/contact/main.asp" onmouseover="showElement('divContact','imgContact',1);toggleSelectBoxes('divContact');" onmouseout="javascript:hideElement('divContact');toggleSelectBoxes('divContact');">Contact/About Us</a></td>
+	
   </tr>
 </tbody></table>
 
@@ -728,104 +345,99 @@ window.onerror=null;
 </div>
 
 <div id="TheMenus" name="TheMenus">
-<div id="divProductsServices" name="divProductsServices" style="position: absolute; left:0; top:-20; visibility:hidden; z-index:200; background-color:#99CCFF;" onmouseout="javascript:hideElement('divProductsServices');" onmouseover="javascript:showElement('divProductsServices','imgProductsServices',1);" onmouseenter="javascript:toggleSelectBoxes('divProductsServices');" onmouseleave="javascript:toggleSelectBoxes('divProductsServices');">
+<div id="divProductsServices" name="divProductsServices" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divProductsServices');" onmouseover="javascript:showElement('divProductsServices','imgProductsServices',1);" onmouseenter="javascript:toggleSelectBoxes('divProductsServices');" onmouseleave="javascript:toggleSelectBoxes('divProductsServices');">
 <table id="tabProductsServices" name="tabProductsServices" width="200" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1" bgcolor="99CCFF">
-<tbody><tr><td><a href="http://www.coleparmer.com/catalog/catalog_welcome.asp" class="SmallText">Product Categories</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/catalog_toc.asp?cat=1&amp;from=cwelcome" class="SmallText">Product Index</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/vcatalog_welcome.asp?from=cwelcom" class="SmallText">Virtual Catalog</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/promotions/promotions.asp" class="SmallText">Special Offers</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/NewProduct/NewProductsPage.asp" class="SmallText">What's New</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/requests/default.asp" class="SmallText">Free Catalogs/Literature</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/unsubscribe.asp?sUrl=NO" class="SmallText">Free eNewsletter - subscribe today</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/bioconnect/bioconnect_index.asp" class="SmallText">Bioconnect Custom Sterile Tubing Assemblies</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/Product_index.asp?cls=22958" class="SmallText">InnoCal Calibration Service</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/Custom_Order_Solutions.asp" class="SmallText">Custom Ordering Solutions</a></td></tr>
+<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1">
+<tbody><tr><td><a href="http://www.coleparmer.com/catalog/catalog_toc.asp" class="iMainNavMenuPopupText">Product Categories</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/vcatalog_welcome.asp" class="iMainNavMenuPopupText">Virtual Print Catalog</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/promotions/promotions.asp" class="iMainNavMenuPopupText">Special Offers</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/NewProduct/NewProductsPage.asp" class="iMainNavMenuPopupText">What's New</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/requests/default.asp" class="iMainNavMenuPopupText">Free Catalogs/Literature</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/unsubscribe.asp?sUrl=NO" class="iMainNavMenuPopupText">Free eNews</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/bioconnect/bioconnect_index.asp" class="iMainNavMenuPopupText">Bioconnect Custom Bioprocess Assemblies</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/Product_index.asp?cls=22958" class="iMainNavMenuPopupText">InnoCal Calibration Services</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/Custom_Order_Solutions.asp" class="iMainNavMenuPopupText">Custom Ordering Solutions</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table></div>
-<div id="divTechLibr" name="divTechLibr" style="position: absolute; left:0; top:-20; visibility:hidden; z-index:200; background-color:#99CCFF;" onmouseout="javascript:hideElement('divTechLibr');" onmouseover="javascript:showElement('divTechLibr','imgTechLibr',1);" onmouseenter="javascript:toggleSelectBoxes('divTechLibr');" onmouseleave="javascript:toggleSelectBoxes('divTechLibr');">
+<div id="divTechLibr" name="divTechLibr" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divTechLibr');" onmouseover="javascript:showElement('divTechLibr','imgTechLibr',1);" onmouseenter="javascript:toggleSelectBoxes('divTechLibr');" onmouseleave="javascript:toggleSelectBoxes('divTechLibr');">
 <table id="tabTechLibr" name="tabTechLibr" width="200" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1" bgcolor="99CCFF">
-<tbody><tr><td><a href="http://www.coleparmer.com/TechInfo/TechInfo_Home.asp" class="SmallText">Technical Index</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/techinfo/chemcomp.asp" class="SmallText">Chemical Compatibility Database</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductSelGuides.asp" class="SmallText">Parametric Searches</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductSelGuides.asp" class="SmallText">Product Selection Guides</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductMaint.asp" class="SmallText">Product Maintenance</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/FAQs.asp" class="SmallText">FAQs</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo.asp?htmlfile=T_Hotline2.htm" class="SmallText">Application Assistance</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo_home.asp" class="SmallText">MSDS Search</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo_home.asp" class="SmallText">Instruction Manual Search</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/techinfo/converters/converters.asp" class="SmallText">Online Unit Converters</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/Techinfo/CaseStudiesAndWhitePapers.asp?Type=W" class="SmallText">Articles and White Papers</a></td></tr>
+<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1">
+<tbody><tr><td><a href="http://www.coleparmer.com/TechInfo/TechInfo_Home.asp" class="iMainNavMenuPopupText">Technical Library Index</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/techinfo/chemcomp.asp" class="iMainNavMenuPopupText">Chemical Compatibility Database</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductSelGuides.asp" class="iMainNavMenuPopupText">Parametric Searches</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductSelGuides.asp" class="iMainNavMenuPopupText">Product Selection Guides</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/ProductMaint.asp" class="iMainNavMenuPopupText">Product Maintenance</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/FAQs.asp" class="iMainNavMenuPopupText">FAQs</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo.asp?htmlfile=T_Hotline2.htm" class="iMainNavMenuPopupText">Application Assistance</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo_home.asp" class="iMainNavMenuPopupText">MSDS Search</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/TechInfo/techinfo_home.asp" class="iMainNavMenuPopupText">Instruction Manual Search</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/techinfo/converters/converters.asp" class="iMainNavMenuPopupText">Online Unit Converters</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/Techinfo/CaseStudiesAndWhitePapers.asp?Type=W" class="iMainNavMenuPopupText">Articles and White Papers</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table></div>
-<div id="divMyCPAcct" name="divMyCPAcct" style="position: absolute; left:0; top:-20; visibility:hidden; z-index:200; background-color:#99CCFF;" onmouseout="javascript:hideElement('divMyCPAcct');" onmouseover="javascript:showElement('divMyCPAcct','imgMyCPAcct',1);" onmouseenter="javascript:toggleSelectBoxes('divMyCPAcct');" onmouseleave="javascript:toggleSelectBoxes('divMyCPAcct');">
+<div id="divMyCPAcct" name="divMyCPAcct" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divMyCPAcct');" onmouseover="javascript:showElement('divMyCPAcct','imgMyCPAcct',1);" onmouseenter="javascript:toggleSelectBoxes('divMyCPAcct');" onmouseleave="javascript:toggleSelectBoxes('divMyCPAcct');">
 <table id="tabMyCPAcct" name="tabMyCPAcct" width="200" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1" bgcolor="99CCFF">
-<tbody><tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_main.asp" class="SmallText">myCP Home</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/my_order.asp" class="SmallText">my Order</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_account_info.asp?Demo=no" class="SmallText">myCP Profile</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_address_list.asp" class="SmallText">myCP Addresses</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_shopping_list.asp" class="SmallText">my Shopping Lists</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_Quick_lists.asp" class="SmallText">my Quick Lists</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_MFProject.asp" class="SmallText">my Projects</a></td></tr>
+<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1">
+<tbody><tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_main.asp" class="iMainNavMenuPopupText">myCP Home</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/my_order.asp" class="iMainNavMenuPopupText">my Orders</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_account_info.asp?Demo=no" class="iMainNavMenuPopupText">myCP Profile</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_address_list.asp" class="iMainNavMenuPopupText">myCP Addresses</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_shopping_list.asp" class="iMainNavMenuPopupText">my Shopping Lists</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_Quick_lists.asp" class="iMainNavMenuPopupText">my Quick Lists</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/mycp/mycp_MFProject.asp" class="iMainNavMenuPopupText">my Projects</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table></div>
-<div id="divContact" name="divContact" style="position: absolute; left:0; top:-20; visibility:hidden; z-index:200; background-color:#99CCFF;" onmouseout="javascript:hideElement('divContact');" onmouseover="javascript:showElement('divContact','imgContact',1);" onmouseenter="javascript:toggleSelectBoxes('divContact');" onmouseleave="javascript:toggleSelectBoxes('divContact');">
+<div id="divContact" name="divContact" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divContact');" onmouseover="javascript:showElement('divContact','imgContact',1);" onmouseenter="javascript:toggleSelectBoxes('divContact');" onmouseleave="javascript:toggleSelectBoxes('divContact');">
 <table id="tabContact" name="tabContact" width="200" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1" bgcolor="99CCFF">
-<tbody><tr><td><a href="http://www.coleparmer.com/contact/main.asp" class="SmallText">Contact Information</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/dealers/default.asp" class="SmallText">Find a Global Dealer</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/jobs.asp?HR=3" class="SmallText">Careers@Cole-Parmer</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/about.asp" class="SmallText">About Cole-Parmer</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/mission.asp" class="SmallText">Mission Statement</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/history.asp" class="SmallText">History of Cole-Parmer</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/milestones.asp" class="SmallText">Milestones</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/benefits.asp" class="SmallText">Benefits</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/contact/direct.asp" class="SmallText">Directions to Cole-Parmer</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/profile.asp" class="SmallText">Business Profile</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/quality.asp" class="SmallText">Quality Policy</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/executives.asp" class="SmallText">Executive Team</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/safety.asp" class="SmallText">Environmental, Safety, and Health Policy</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/employment/trademarks.asp" class="SmallText">Trademarks</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/press_release/PressreleaseList.asp" class="SmallText">Press Releases</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/contact/calendar/tradecal.asp" class="SmallText">Event Calendar</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/contact/feedback/feedb_entry.asp" class="SmallText">FeedBack</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/catalog/help/overview.asp" class="SmallText">Help</a></td></tr>
+<tbody><tr><td><table width="200" border="0" cellpadding="2" cellspacing="1">
+<tbody><tr><td><a href="http://www.coleparmer.com/contact/main.asp" class="iMainNavMenuPopupText">Contact Us</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/dealers/default.asp" class="iMainNavMenuPopupText">Find a Global Dealer</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/jobs.asp" class="iMainNavMenuPopupText">Career Opportunities</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/about.asp" class="iMainNavMenuPopupText">About Us</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/mission.asp" class="iMainNavMenuPopupText">Mission Statement</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/history.asp" class="iMainNavMenuPopupText">Our History</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/milestones.asp" class="iMainNavMenuPopupText">Milestones</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/benefits.asp" class="iMainNavMenuPopupText">Benefits</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/contact/direct.asp" class="iMainNavMenuPopupText">Directions to Cole-Parmer</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/profile.asp" class="iMainNavMenuPopupText">Business Profile</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/quality.asp" class="iMainNavMenuPopupText">Quality Policy</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/executives.asp" class="iMainNavMenuPopupText">Executive Team</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/safety.asp" class="iMainNavMenuPopupText">Environmental, Safety, and Health Policy</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/employment/trademarks.asp" class="iMainNavMenuPopupText">Trademarks</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/press_release/PressreleaseList.asp" class="iMainNavMenuPopupText">Press Releases</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/contact/calendar/tradecal.asp" class="iMainNavMenuPopupText">Event Calendar</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/contact/feedback/feedb_entry.asp" class="iMainNavMenuPopupText">FeedBack</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/help/newhelp2.asp" class="iMainNavMenuPopupText">Help</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table>
- 	</div>
- 	</div>
+</div>
+</div>
 
-	<div class="leftsidebar">
-
+<div class="leftsidebar">
+<table><tbody><tr><td nowrap="">
 
 
 <script language="javascript"> 
 function addToBigForm()
 {
-	sLoc = "/catalog/catalog_quick_add.asp"
+	sLoc = "http://www.coleparmer.com/catalog/catalog_quick_add.asp"
 
 	document.frmOPad.action = sLoc;
 	document.frmOPad.submit();
 }
    
 function addToCart1() 
-        {//alert("hello")
+        {
         var sku
         var qty
         var ans
         if (document.frmOPad.txtSku1.value != ""){
-       //alert("hi");
 		sku = document.frmOPad.txtSku1.value;
-		//alert(sku);
 		qty = document.frmOPad.txtQty1.value;
 		if (qty =="" || qty =="0"){
 		qty = "1";
-		//alert(qty);
 		}
 		ans = addProductToCart(sku,qty)
-       // alert(ans);
      }   
       if (document.frmOPad.txtSku2.value != ""){
 		sku = document.frmOPad.txtSku2.value;
@@ -847,118 +459,281 @@ function addToCart1()
      } 
      if(ans)
 		{
-		
-			//document.frmQuickAdd.txtSku.focus();
             window.document.location="/catalog/view_cart.asp"
-			}  
+		}  
+}
+
+function addsmallorder(){
+	 if (document.frmOPad.txtSku1.value == "" &&
+		document.frmOPad.txtSku2.value == "" &&
+		document.frmOPad.txtSku3.value == "")
+		{
+		alert("Please enter at least 1 sku.");			
+        }
+     else {
+	 document.frmOPad.hdnPageAction.value = "Insertorder"
+	 document.frmOPad.action = 'http://www.coleparmer.com/catalog/Processcart.asp';
+	 document.frmOPad.submit();
+     }
+      
 }
 </script>
-  
-<table valign="top" cellspacing="0" cellpadding="0" border="0" width="148" bgcolor="#66CC99">
-					<form name="frmOPad" method=""></form>
-					<tbody><tr>
-						<td colspan="2"><img src="http://www.coleparmer.com/catalog/images/quickorder_header_148-57.gif" border="0" height="57" width="148" alt="Quick Order!" title="Know what you want? Order here!">
-						</td>
-					</tr>
-					<tr valign="top">
-    					<td align="center" valign="top">
-    						<b>Item #</b>
-    					</td>
-    					<td align="center" valign="top">
-    						<b>Qty</b>
-    					</td>
-					 </tr>
-					 <tr>		    
-						<td align="center" valign="top" width="148">
-    						<input name="txtSku1" class="SmallText" size="7" maxlength="15" type="Text" value="">
-    						<!--<INPUT NAME="txtSku" SIZE="7" MAXLENGTH="15" TYPE="Text" VALUE="">-->
-    					</td>
-    					<td align="center" valign="top" width="200">
-    						<input name="txtQty1" class="SmallText" size="3" maxlength="6" type="Text" value="">
-    					</td>
-					</tr>
-					 <tr>		    
-						<td align="center" valign="top" width="148">
-    						<input name="txtSku2" class="SmallText" size="7" maxlength="15" type="Text" value="">
-    						<!--<INPUT NAME="txtSku" SIZE="7" MAXLENGTH="15" TYPE="Text" VALUE="">-->
-    					</td>
-    					<td align="center" valign="top" width="200">
-    						<input name="txtQty2" class="SmallText" size="3" maxlength="6" type="Text" value="">
-    					</td>
-					</tr>
-					 <tr>		    
-						<td align="center" valign="top" width="148">
-    						<input name="txtSku3" class="SmallText" size="7" maxlength="15" type="Text" value="">
-    						<!--<INPUT NAME="txtSku" SIZE="7" MAXLENGTH="15" TYPE="Text" VALUE="">-->
-    					</td>
-    					<td align="center" valign="top" width="200">
-    						<input name="txtQty3" class="SmallText" size="3" maxlength="6" type="Text" value="">
-    					</td>
-					</tr>
-					 <tr>
-						<td>
-							<a href="JAVASCRIPT:addToCart1()"><img src="http://www.coleparmer.com/catalog/images/AddTOcart_QO_76-22.gif" border="0"></a>
-						</td>
-						<td>
-							<!--<A HREF="http://www.coleparmer.com/catalog/catalog_quick_add.asp"><img src ="http://www.coleparmer.com/catalog/images/moreitems_QO_72-22.gif" border="0"></a>-->
-							<a href="JAVASCRIPT:addToBigForm()"><img src="http://www.coleparmer.com/catalog/images/moreitems_QO_72-22.gif" border="0"></a>
-						</td>
-					</tr>
-					<tr bgcolor="#99CCFF">
-						<td colspan="2">
-							<a href="JAVASCRIPT:addToCart1()"><img src="/catalog/images/IQ-sidebar-tab_148-22.gif" width="148" height="22" border="0"></a>
-						</td>
-					</tr>					
-					
-					 </tbody></table>
-					<br>
+
+
+	<table valign="top" cellspacing="0" cellpadding="0" border="0" width="148" class="OrdFrmBGColor">
+
+		<form name="frmOPad" method="post"></form>
+		<input type="hidden" name="hdnPageAction" value="">
+		<input type="hidden" name="hdnskucount" value="3">
+		 <tbody><tr>
+
+			<td colspan="2"><img src="/catalog/images/quickorder_header_148-57.gif" border="0" height="57" width="148" alt="Quick Order!" title="Know what you want? Order here!">
+       	
+			</td>
+		 </tr>
+		 <tr valign="top">
+    		<td align="center" valign="top">
+    		<b>Item #</b>
+    		</td>
+    		<td align="center" valign="top">
+    		<b>Qty</b>
+    		</td>
+		 </tr>
+		 <tr>		    
+			<td align="center" valign="top">
+    			<input name="txtSku1" class="SmallText" size="7" maxlength="15" type="Text" value="">
+    		</td>
+    		<td align="center" valign="top">
+    			<input name="txtQty1" class="SmallText" size="3" maxlength="6" type="Text" value="">
+    		</td>
+		 </tr>
+		 <tr>		    
+			<td align="center" valign="top">
+    			<input name="txtSku2" class="SmallText" size="7" maxlength="15" type="Text" value="">
+    		</td>
+    		<td align="center" valign="top">
+    			<input name="txtQty2" class="SmallText" size="3" maxlength="6" type="Text" value="">
+    		</td>
+		 </tr>
+		 <tr>		    
+			<td align="center" valign="top">
+    			<input name="txtSku3" class="SmallText" size="7" maxlength="15" type="Text" value="">
+    		</td>
+    		<td align="center" valign="top">
+    			<input name="txtQty3" class="SmallText" size="3" maxlength="6" type="Text" value="">
+    		</td>
+		 </tr>
+		 <tr>
+			<td>
+				<a href="JAVASCRIPT:addsmallorder()"><img src="/catalog/images/AddTOcart_QO_76-22.gif" border="0"></a>
+			</td>
+			<td>
+				<a href="JAVASCRIPT:addToBigForm()"><img src="/catalog/images/moreitems_QO_72-22.gif" border="0"></a>
+			</td>
+		 </tr>
+		 
+		 <tr bgcolor="#99CCFF">
+			<td colspan="2">
+				<a href="JAVASCRIPT:addsmallorder()"><img src="/catalog/images/IQ-sidebar-tab_148-22.gif" width="148" height="22" border="0"></a>
+			</td>
+		 </tr>
+		 
+	</tbody></table>	
+	<br>
 
 	<img height="1" width="134" src="/catalog/images/clear.gif" border="0"><br>
 
    		<img src="/catalog/images/white-rule_154-1.gif" width="154" height="1">
-   <br><a href="/catalog/MyCP/mycp_account_info_express.asp"><img src="/catalog/images/btn-side-xpressreg_125-28.jpg" width="125" height="28" border="0"></a><br><a href="/requests/default.asp"><img src="/catalog/images/btn-side-catalogsUS_125-28.jpg" width="125" height="28" border="0"></a><br><a href="/promotions/promotions.asp"><img src="/catalog/images/btn-side-offersUS_125-28.jpg" width="125" height="28" border="0"></a>
-	 <img src="/catalog/images/white-rule_154-1.gif" width="154" height="1">
+<br><a href="http://www.coleparmer.com/catalog/MyCP/mycp_account_info_express.asp"><img src="/catalog/images/btn-side-xpressreg_125-28.jpg" width="125" height="28" border="0"></a><br><a href="http://www.coleparmer.com/requests/default.asp"><img src="/catalog/images/btn-side-catalogsUS_125-28.jpg" width="125" height="28" border="0"></a><br><a href="http://www.coleparmer.com/promotions/promotions.asp"><img src="/catalog/images/btn-side-offersUS_125-28.jpg" width="125" height="28" border="0"></a>  
 	 <center>
-	 <br> <a href="/promotions/promotion_freeship07.asp"><img src="/catalog/images/FREEship_sidebar.gif" border="0"></a><br><br><img src="/catalog/images/feedback_icon2.gif" border="0"> <a href="/contact/feedback/feedb_entry.asp">Feedback</a><br>
+ 	 <img src="/catalog/images/white-rule_154-1.gif" width="154" height="1">
+<br><img src="/catalog/images/feedback_icon2.gif" border="0"> <a href="http://www.coleparmer.com/contact/feedback/feedb_entry.asp">Feedback</a><br>
 	 </center>
-	 
-    
-
-
+    </td>
+</tr>
+</tbody></table>
 
 
 </div>
-	<div class="maincontent">
 
+<div class="maincontent">
 
+<link href="cp_style.css" rel="stylesheet" type="text/css">
+<table width="560">
+<tbody><tr><td>
+<span class="XLargeTextDarkBlue">Privacy Policy Statement</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="TinyTextBlack">Effective: February 1, 2008</span><br>
 <br>
-    <span class="XLargeTextDarkBlue">Privacy Policy Statement</span><br><br>
-This is the web site of<br>
-<b>Cole-Parmer Instrument Company</b><br>
+This is the Web site of<br>
+<b>Cole-Parmer</b><br>
 <b>625 East Bunker Court<br>
 Vernon Hills,  IL 60061</b><p></p>
-We can be reached via e-mail at <a href="mailto:info@coleparmer.com">info@coleparmer.com</a>
-Or you can reach us by telephone at 1-800-323-4340. <br>
-<p>For each visitor to our Web page, our Web server automatically recognizes
-only the visitor's domain name, but not the e-mail address. We collect the e-mail address of visitors only via information volunteered by the consumer such as survey information, catalog requests, and/or site registrations.</p>
-<p>The information we collect is not sold to other organizations for
-commercial purposes. However, for international customers, information may be shared with our international dealers.</p>
-<p>If you do not want to receive e-mail from us in the future, please let us
-know by sending e-mail to us at the above address or calling us at the above
-telephone number and telling us that you do not want to receive e-mail from our
-company. </p>
-<p>If you supply us with your postal address on-line you may receive periodic
-mailings from us with information on new products and services or upcoming
-events. If you do not wish to receive such mailings, please let us know by
-sending e-mail or calling. Please provide us with your exact name and address. </p>
-<p>Persons who supply us with their telephone numbers on-line may receive
-telephone contact from us with information regarding orders they have placed
-on-line. Please provide us with your correct phone number.</p>
+
+We can be reached via e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a><br>
+or you can reach us by telephone at 1-800-323-4340. <br>
+<p><br>
+
+  <span class="BasicTextBold">Secure Shopping</span><br>
+
+ At Cole-Parmer, we understand your concerns about online security and privacy. All orders on our site are encrypted using Secure Socket Layer (SSL) technology. SSL is a complex form of cryptography that makes it virtually impossible for a third party to decrypt any useful information you provide. You can use our site knowing that your personal and credit card information is protected when transmitted online. Cole-Parmer uses Verisign Web site security services, allowing you to place Internet orders with confidence, knowing that your credit card information will be secure.</p>
+
+<p><span class="BasicTextBold">What Information Do We Collect?</span> <br>
+
+When you visit ColeParmer.com, we'll be collecting various types of information from you. If you place an order from our site, we'll need to collect your shipping and billing information. Cole-Parmer will also be collecting data from all site visitors such as IP name, domain name, web page, length of time spent at the site and pages accessed while visiting the site, but not the e-mail address. We collect the e-mail address of visitors only via information volunteered by you, such as survey information, catalog requests, and/or site registrations. This information is collected for statistical purposes and to help with the administration and improvement of the site. <br>
+<br>
+Cole-Parmer also reserves the right to retain the content of any questions or comments that are sent to our employees. This information will be used to help improve responses to future questions. For international customers, information may be shared with our international dealers.</p>
+
+<p><span class="BasicTextBold">What is this Information Used For?</span> <br>
+
+The information that Cole-Parmer collects is used to better serve our customers. This information is used to notify you of changes made to our site, to tell you about new products available on our site, 
+and to contact you for other legitimate business purposes. From time to time, we may choose to exchange this information with other parties whose products and/or services we think may be of interest to you. If you do not want your information being exchanged with other parties, send us an e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a> from each e-mail address that you've used to request information, register, or place an order on ColeParmer.com. </p>
+
+<p>Customers who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. Please provide us with your correct phone number.</p>
+
+
+<p><span class="BasicTextBold">How do I Unsubscribe?</span><br>
+
+Visitors to our Web site can unsubscribe from receiving e-mail updates and advertisements by choosing “Unsubscribe” on our <a href="/catalog/mycp/unsubscribe.asp?sUrl=NO">E-mail Preferences page</a>.</p>
+
+<p>If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a> or <br>
+telephone at 1-800-323-4340. Please provide us with your exact name and address. </p>
+
+<br>
+
+</td>
+</tr>
+</tbody></table>
+
+	<table cellpadding="0" cellspacing="0" border="0" width="560"> 
+	<tbody><tr>
+	<td align="center" colspan="2">
+	<img src="/catalog/images/1-pxl_99ccff.gif" width="560" height="1">
+	</td></tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr><td align="center" nowrap="" colspan="2">
+	<div class="Footer">
+	<a href="http://www.coleparmer.com/privacy.asp">Privacy</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/dealers/terms/19_terms.asp">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/employment/jobs.asp">Careers@Cole-Parmer</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/press_release/PressreleaseList.asp">Press Releases</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/catalog/help/sitemap.asp">Site Map</a>
+	</div>
+	</td></tr>
+	<tr><td valign="top" align="center" colspan="2">
+	<img src="/catalog/images/1-pxl_99ccff.gif" width="560" height="1">
+	</td>
+	</tr>
+	<tr height="2"><td colspan="5"></td>
+	</tr>
+
+	<tr>
+	 
+	 <td valign="top">
+	  <table cellpadding="0" cellspacing="0" border="0" width="260"> 
+	   <tbody><tr>
+	    <td valign="top" align="left">
+	    <p class="LineHeights12">
+	    <span class="SmallTextBold">
+	    Cole-Parmer
+	    </span><br>
+	    <span class="SmallText">
+	    625 East Bunker Court<br>
+	    Vernon Hills, Illinois 60061<br>
+	    <br>
+	    
+		Phone: 1-800-323-4340<br>
+		Fax: 1-847-247-2929<br>
+		
+		E-Mail: 
+		<a href="mailto:info@coleparmer.com" class="SmallTextBlue">
+		info@Coleparmer.com</a><br>
+		<br>
+		Copyright © 2008
+	    </span>
+	    </p>
+	    </td>
+	   </tr> 
+	  </tbody></table>
+	 </td>
+	 
+	 <td valign="top">
+	  <table cellpadding="0" cellspacing="0" border="0" width="300"> 
+	   <tbody><tr>
+	    <td colspan="3" valign="top" class="SmallTextBold">
+		 Cole-Parmer Sites
+		</td>
+	   </tr>
+	   <tr><td colspan="3" height="7"></td></tr>   
+
+	   <tr>	
+		<td valign="top" nowrap="">Cole-Parmer:</td>
+		<td width="110" valign="top">
+		 <table cellpadding="0" cellspacing="0" border="0" width="110">
+		 <tbody><tr><td>
+			United States   
+		 </td></tr>
+		 <tr><td height="5"></td></tr>
+ 		 <tr><td>
+		 <a href="http://www.coleparmer.ca/">Canada</a>
+		 </td></tr>
+ 		 <tr><td height="5"></td></tr>
+		 <tr><td>
+		 <a href="http://www.coleparmer.com.cn/">China</a>  
+		 </td></tr>
+ 		 <tr><td height="5"></td></tr>
+		 <tr><td>
+	   	 <a href="http://WWW.COLEPARMER.CO.UK/">United Kingdom</a>
+	   	 </td></tr>
+ 	 	 <tr><td height="5"></td></tr>
+		 <tr><td>
+		 <a href="http://www.Coleparmer.in/">India</a>
+		 </td></tr>
+		 </tbody></table>
+		</td>
+		
+		<td>
+			<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+			<tbody><tr>
+			<td width="135" align="center" valign="top">
+			<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.coleparmer.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.coleparmer.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+
+			<script src="https://seal.verisign.com/getseal?host_name=www.coleparmer.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+			<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+			</tr>
+			</tbody></table>
+		
+		</td>
+	   </tr>
+	   <tr><td colspan="3" height="4"></td></tr>   
+
+	   <tr>		 
+		<td colspan="3">
+		 <a href="http://www.MasterFlex.com/">MasterFlex.com</a> - Ordering and Technical Info
+		</td>
+	   </tr>
+	   <tr><td colspan="3" height="4"></td></tr>   
+
+	   <tr>	
+		<td colspan="3">
+		 <a href="http://www.FoodTechSource.com/">FoodTechSource.com</a> - Food Quality Site
+		</td>
+	   </tr>
+	   <tr><td colspan="3" height="4"></td></tr>   
+
+	   <tr>		 
+		<td colspan="3">	 
+		 <a href="http://www.InnocalSolutions.com">InnocalSolutions.com</a> - Calibration and Certification
+	    </td>
+	   </tr> 
+	  </tbody></table>
+	 </td>
+
+	</tr> 
+	</tbody></table>
 
 
 </div>
-	</div>
-	
+</div>
+
 
 
 </body></html>
