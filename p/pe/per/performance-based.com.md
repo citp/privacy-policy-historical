@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performance-based.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513054058id_/http%3A//www.performance-based.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performance-based.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914011725id_/http%3A//www.performance-based.com/privacy.html) for the most accurate reproduction.*
 
 # faq affiliate tracking
 
