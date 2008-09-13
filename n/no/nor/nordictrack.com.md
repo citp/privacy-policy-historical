@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222818id_/http%3A//www.nordictrack.com/webapp/wcs/stores/servlet/StaticContentView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401%26pageTitle%3DPrivacy%2BPolicy%26pageName%3DPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913035052id_/http%3A//www.nordictrack.com/webapp/wcs/stores/servlet/StaticContentView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401%26pageTitle%3DPrivacy%2BPolicy%26pageName%3DPrivacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - NordicTrack
 
