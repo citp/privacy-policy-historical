@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413030258id_/http%3A//www.3balls.com/file_include-file/privacypolicy%3FFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913055225id_/http%3A//www.3balls.com/file_include-file/privacypolicy%3FFooter) for the most accurate reproduction.*
 
 # 3balls.com - Your source for golf clubs, golf balls, used clubs, drivers, irons, and wedges.
 
