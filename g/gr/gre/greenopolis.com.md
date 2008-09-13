@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenopolis.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514010709id_/http%3A//greenopolis.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenopolis.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913053855id_/http%3A//greenopolis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
