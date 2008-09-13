@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630153919id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913070123id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
 # STLtoday - Privacy Policy
 
@@ -9,7 +9,6 @@ Privacy Policy
   
 
 
-  
 Welcome to the web sites of the St. Louis Post-Dispatch, LLC. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
 **Information Automatically Gathered About All Visitors**  
@@ -75,39 +74,7 @@ Last updated on 09/12/07
 # 4125080_v1 
 
 
-Email a friend 
-
-Save & Share
-
-  
-
-What's this? 
-
-[](http://www.stltoday.com/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp%5Cstories.nsf&docid=84236C32FB886B7486256EC4004C5F70) [Printer](http://www.stltoday.com/stltoday/emaf.nsf/Popup?ReadForm&db=stltoday%5Chelp%5Cstories.nsf&docid=84236C32FB886B7486256EC4004C5F70)
-
-[Digg](http://digg.com/submit?phase=2&url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument)
-
-[Yahoo!](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=yahoo&title=Privacy%20Policy&popup=true)
-
-[](http://newsletters.stltoday.com/) [3 O'Clock Stir](http://www.stltoday.com/newsletters)
-
-[Del.icio.us](http://del.icio.us/post?v=4&partner=&noui&jump=close&url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=delicious&title=Privacy%20Policy)
-
-Facebook 
-
-[](http://www.stltoday.com/rss)[RSS Feeds](http://www.stltoday.com/rss)
-
-[Reddit](http://reddit.com/submit?url=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=reddit&title=Privacy%20Policy)
-
-Drudge 
-
-[](https://www.formrouter.net/forms@STLPD/subscribe.html) [Subscribe](https://www.formrouter.net/forms@STLPD/subscribe.html)
-
-[Google](http://www.google.com/bookmarks/mark?op=add&title=Privacy%20Policy&bkmk=http://www.stltoday.com/stltoday/help/stories.nsf/privacypolicy/story/84236C32FB886B7486256EC4004C5F70?OpenDocument%3Freferrer=google)
-
-Fark 
-
-[](mailto:letters@post-dispatch.com) [Email the editor](mailto:letters@post-dispatch.com)
+[Write a letter to the editor](https://web.archive.org/stltoday/news/stories.nsf/editorialcommentary/story/F435718CCC4D7D3D8625727B0078D131?OpenDocument) | [Subscribe to a newsletter](https://web.archive.org/newsletters) | [Subscribe to the newspaper](https://web.archive.org/help/subscriber-services)
 
 |   | 
 
@@ -139,6 +106,12 @@ Main Line
 
 Classified Advertising  
 314-966-3278 or 1-800-766-3278
+
+new start career training
+
+[ ](http://newstart.stltoday.com/)
+
+Dead end job? Search here for the training you need to revive your career today!
 
 |    
 ---|---|---|---|---
