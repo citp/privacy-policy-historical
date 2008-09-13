@@ -1,86 +1,54 @@
-> *The following text is extracted and transformed from the soopa.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506063750id_/http%3A//www.soopa.com%3Fmod%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soopa.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913053530id_/http%3A//www.soopa.com/privacy) for the most accurate reproduction.*
 
-# Soopa! :: Soopa Deals, Soopa Savings!
+# Privacy Policy
 
-## Privacy Policy / Terms of Use
+Here at Soopa.com we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.
 
-_(Amended as of July 18, 2007)_
+We encourage anyone using [Soopa.com](http://www.soopa.com/) (our "Site") to make educated decisions about their online practices. To help you do so, this Privacy Policy details important information that will help answer questions regarding personal privacy in relation to the use of our Site. You should also review our [Terms and Conditions](http://www.soopa.com/terms/) before using this Site.
 
-###  PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FOR UPDATES
+### The Information We Collect:
 
-This Web site is not directed at persons under the age of 18. By registering on this Site through the submission of the information requested, you agree that the following terms and conditions of this Privacy Policy shall govern our use and disclosure of your personal information. If you do not agree with the terms and conditions of our Privacy Policy, please do not complete the information request form (i.e., do not register) or otherwise use or access this Site. If you have already registered by completing the information disclosure forms, and you wish to opt-out from receiving more information from us, [please click on this link](http://www.unsubdepot.com/?offer=soopa) to **"Opt-out."** Your e-mail address will be added to the suppression files associated with this Site within ten (10) business days of your request. Thereafter, you should not receive any email correspondence from us. However you will still receive promotional communications from our third party partners with whom we have shared your information. To stop receiving further communications from these third parties you will need to contact them directly in order to opt-out. Please note when you opt-out of receiving promotional communications from us, we will no longer make your information available to our third party partners.
+When this Privacy Policy uses the term "personal information," we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
 
-This Privacy Policy describes in some detail the information that we collect from you as part of the normal operation of our service, and what may happen to the information we collect.
+We do not collect any personal information. We do, however, collect certain other types of data.
 
-### Your privacy is very important to us
+_Log File Information:_ Using Soopa.com may result in us receiving non-personal performance and usage information, such as browser type, default language setting, Internet Protocol (IP) address, platform type, the date and time of your request, number of clicks within our environment, an anonymous/random identifier, page views and/or the amount of time spent on our particular pages. We may use this type of information to power the services, identify problems, assess performance and to improve the quality and design of our Site.
 
-We understand that some of the information that you might provide on our Site is personal and private. By submitting your personal information, you are entrusting us to handle information that you regard as private, for the purposes and in the manner set forth in this Privacy Policy. In exchange for your trust, you expect us to handle your personal and private information in a professional manner that will be in keeping with your trust. Our Privacy Policy explains what information we obtain on this Site, and how we use the information disclosed to us to link you to our business affiliates who have expressed a willingness to provide you with the products and services associated with this Site.
+_Cookies:_ We do use "cookies". The cookies we place on your computer are very small text files. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser's settings. Note that blocking cookies may result in some features not being able to function properly.
 
-### Who We Are
+_Search Revenue:_ We do collect statistical search data. This data does not contain any personally identifying information and is passed through to our search partner for billing purposes.
 
-We are an on-line consumer service that introduces persons such as yourself to certain of our business affiliates who have expressed a general willingness to review your information and determine if they are willing to provide you with the services or products that prompted you to visit our Site. When you visit our Site, you will be requested to complete provide certain information that our business affiliates request in order to perform a preliminary analysis of your qualifications to receive the service or products. Based upon your consent, as evidenced by your registering with us on this Site (i.e., your submission of the requested information on the application), we will forward the information that you provided to certain of our business affiliates.
+### What we Disclose
 
-In addition, from time to time, we or our business affiliates may provide you the additional service (the "Premium Service") of sending you e-mail you or otherwise corresponding with you to inform you of additional opportunities to receive special offers for other services and/or products that we believe may be of interest. There are no fees for Premium Service, and you are under no obligation to accept any service or product with any of our business affiliates offered under the Premium Service.
+Soopa.com does not collect or disclose personal information with third parties. There is certain non-personal information, as described above, that we may collect and combine with the non-personal information of other individuals (i.e. to aggregate data). Given the nature of this impersonal information, there are no restrictions under this Privacy Policy upon the right of Soopa.com to aggregate your information, and Soopa.com may use and/or share with third parties the resulting aggregate usage data in any way.
 
-### Information We Collect
+Soopa.com will disclose any information it can access on a user when it believes in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena or if we believe, in our sole discretion, that such a disclosure will help to (a) enforce our Terms of Use or any other posted rules or policies; (b) protect your safety or security, including the safety and security of property that belongs to you; and/or (c) protect the safety and security of our Site, Soopa.com, its affiliates and subsidiaries and/or third parties, including the safety and security of property that belongs to Soopa.com or third parties.
 
-The information that we collect is generally limited to personal information about you that our business affiliates consider necessary for performing a preliminary evaluation of your qualifications. To the extent that you can order products, enter contests, express an opinion, or subscribe to a service(s), the type of personally identifiable information that may be collected may include: name; address; e-mail address; telephone number; fax number; credit card information; information about your interests in and use of various products, programs, and services; education level; educational interests; home owner status; income; debt level; current mortgage; mortgage rate and the like. To the extent that you are requested and you do submit information about other people, such information will be limited recipient's name, address, e-mail address, and telephone number.
+This Privacy Policy shall not be construed as preventing us from complying with any court order, court authorized discovery, agency authorized discovery of your information, or ant other legal requirement. 
 
-We also collect user information that can help us optimize and enhance your experience on our Site; as well as provide you with an efficient, safe, smooth, and customized experience. For example, if you came to this Site from an online banner ad, pop-up or other advertisement, an anonymous identification number may be passed to our Site. In some cases, we may place a cookie in your browser. The aforementioned information cannot, by itself, be used to gather any personally identifiable information about you, but it will allow us to track the overall effectiveness of our online advertising campaigns. We also automatically track certain information with respect to your behavior on the Site through the forgoing cookie or identification number. This non personally identifiable information may include the Internet address or URL that you just came from and which URL you go to next; your computer browser information; and your IP address. We use this non personally identifiable information in conjunction with some of the information that you provided to us to do internal research on our users' demographics and behavior; and to better understand how to best serve other users of this Site. Third parties may also set cookies on our sites to determine proper site usage and click count.
+### Security of Your Personal Information
 
-We also utilize Web Logs to track aggregate information about how our site is being used. Web Logs track anonymous user information, including but not limited to the number of visitors to our site, operating systems and browser type. Unlike cookies, Web Logs are maintained only on our servers and do not store or place anything on the user's computer.
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect user information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our reasonable efforts, no security measures are impenetrable and any connection or information transmitted to Soopa.com will be at your own risk.
 
-### How We Use Your Information
+### Links
 
-We collect the information that you submit and which our business affiliates consider necessary for performing a preliminary evaluation of your qualifications for their products and services. Prior to sending your information to our business affiliates, we attempt to validate it. For example, we may compare and review your personal information for errors, omissions, and accuracy based upon past usage and response; or compare your information against other publicly available files; or validate some of the personal information submitted to verify that the information inputted has a high probability of being valid information.
+Soopa.com delivers search results that link to any variety of web properties whose information practices are different than our own. We may also place links to other websites at Soopa.com. Soopa.com only controls information practices at its own site and visitors should consult any other sites' privacy policies when navigating off of the Soopa.com domain, as we have no control over information that is collected or shared by third parties. Soopa.com is, therefore, not responsible for the privacy practices or the content of such third party websites. 
 
-After we submit your information to our business affiliates, our business affiliates may begin a separate and independent evaluation of the information you submitted (the "Preliminary Application"). If our business affiliates find that the Preliminary Application meets with their more specific acceptance criterion, they may contact you directly by phone, mail or e-mail. For more information on how our business affiliates will handle your personal information, please visit our business affiliate's website, and review their privacy policy. We are not responsible for the privacy practices or the content of our business affiliates' Web sites.
+Information you share off of our domain with any website we link to is not collected by Soopa.com and Soopa.com will not be responsible for any such information. 
 
-Once you have registered with us, you are automatically enrolled to receive our Premium Service. We use the information you provided, along with other information described below, to create a general user profile. This profile can be created by combining your information with other sources of information such as information obtained from public databases, or from your browsing habits surrounding your visit to this Site.
+### Changes and updates to this Privacy Policy
 
-### WE MAY USE INFORMATION THAT WE HAVE COLLECTED FOR ANY LEGALLY PERMISSIBLE PURPOSE, INCLUDING SELLING OR TRANSFERING SUCH INFORMATION AT ANY TIME TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE.
+Soopa.com may, at its discretion, add, delete, or modify this Privacy Policy periodically and changes will be reflected by the "Last Updated" reference below. Please revisit this page to stay aware of any changes.
 
-For example, we may share your personal information with select business affiliates so that they can contact you and offer you products and or services that we believe might be of interest to you. This may include e-mail advertising, telephone marketing, direct mail marketing, and online banner advertising to name a few. In addition, we may maintain separate e-mail, mailing or phone lists for different purposes based on the information that you submitted and that we maintain. For your information, our business affiliates have all agreed to operate in accordance with federal and state laws and regulations relating to the handling of your personal information. You may learn more about any of our business affiliate's privacy policy by visiting our business affiliates' Web sites at such times as such affiliate may contact you. We are not responsible for the privacy practices or the content of our business affiliates' Web sites. If you wish to end any e-mail correspondence from us, you will need to Opt-out from receiving further correspondence by advising us of your decision to Opt-out by clicking a link in the e-mail to our Opt-out procedures. Within ten (10) business days, your e-mail address will be placed on a suppression list and we will no longer correspond with you by email or resell or transfer your information to third parties. If you wish to end future correspondence with any of our business affiliates, you will need to follow the instructions at the end of any such each e-mail message from them to unsubscribe from such business affiliate's e-mail. You are able to opt-out when registering with us.
+### Contact Information:
 
-We may also disclose your personally identifiable information in response to a subpoena, court order, or other legal process; as well as the transfer or sale of personally identifiable information pursuant to the sale of our business or assets. Should such a combination or acquisition occur, we will require that the new combined or acquiring entity follow this privacy policy with respect to your personal information. If we transfer ownership of the site to another company, we will notify you by email or by general notice on our site. In addition to the forgoing, we may also sell, transfer or share non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons visiting this site.
+If you have any questions or concerns about this Soopa.com Privacy Policy or its implementations please contact us at the following address: 
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, third parties may unlawfully intercept personal data or access our servers and obtain personal data. Therefore, although we use industry standard practices to protect your privacy, we do not promise, nor you should not expect, that your personal information would always remain private.
-
-Certain sensitive information such as credit card numbers or other information such as social security numbers and drivers licenses ("Financial Information") collected on the site and associated data is encrypted and protected with SSL encryption software from the time it is captured by our application to the time it is transmitted to our servers. For more information on the encryption and protection of your information, please see How We Protect Your Privacy.
-
-### Application of this Privacy Policy
-
-This Privacy Policy applies to consumers that have signed up on the website. We may sell the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing
-
-### How We Protect Your Privacy
-
-We protect your privacy in a number of ways. As an initial matter, any Financial Information transmitted to our servers via a secure server is encrypted using SSL technology. SSL is a protocol that transmits your communications over the Internet in an encrypted form. The protocol ensures that the information is sent, unchanged, only to the server you intended to send it to.
-
-Once your information reaches our server, it is protected by a firewall. With a firewall in place, your information is virtually inaccessible to third parties. In addition to encryption and firewall protections, we have all of our business affiliates agree to operate in accordance with federal and state laws and regulations, including regulations relating to CAN-SPAM and rules promulgated by the FTC. If we learn that any of our business affiliates are breaching our agreement, and therefore your trust, we will take corrective actions immediately or terminate our relationship with such business affiliate.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can mail us at the address indicated below in the Contact Us section.
-
-### Changes; Opting-Out
-
-If you want to change the information that you submitted, please do so by making another request through our Site. We will not be able to change information that is forwarded on to our business affiliates. Please contact the business affiliates directly to change any of your information.
-
-If you want to request to be removed from further communication with this Site, including our Premium Services, please Opt-out by clicking on this link to our Opt-out procedure. We will place your e-mail address on a suppression file associated with this Site. Persons whose names appear on our suppression file, will have their e-mail addresses checked against all correspondence to be sent by us. Where there is a match, the planned email correspondence will be withheld, and such person will receive no further email correspondence from us. Your e-mail address will be placed on the suppression list associated with this Site within ten business (10) days of your request. Once you have opted out, we will no longer forward you email from this site but we are not responsible or in control of the business practices of our business affiliates who have been forwarded your information.
-
-### Notification of Changes to Privacy Policy
-
-We may update this Privacy Policy at any time by posting a new privacy policy on the Site. Be sure to check the current terms of any privacy policy in effect by visiting this Site. By checking the effective date of the policy, you will be immediately alerted on whether the Privacy Policy has been updated. Please note however, that the updated privacy policy will go into effect automatically 30 days after initial posting. From time to time, we may use your information for new, unanticipated uses not previously disclosed in our Privacy Policy. Please note that if our information practices change at some time in the future, we will use only data collected from the time of the new privacy policy amendment forward for those new purposes. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-### Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
-
-**Stormwest Corporation**  
+Soopa.com  
+211 N. Robinson Avenue Suite 320  
 Two Leadership Square  
-211 N. Robinson Ave. Suite 320  
-Oklahoma City, OK 73102
+Oklahoma City, OK 73102  
+soopa-inquiries@stormwest.com  
 
-### Special Notification for California Residents
 
-Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address:
-
-This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+**Last Updated:** July 8, 2008
