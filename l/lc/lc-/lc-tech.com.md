@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509185915id_/http%3A//www.lc-tech.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913224641id_/http%3A//www.lc-tech.com/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,7 +43,7 @@ Any information collected on our website, whether submitted by the user or colle
 
 The only third parties who have any access to information about our customers is Card Service International through their LinkPoint credit card processing gateway and SanDisk® Corporation. Information is sent to LinkPoint only when a customer makes a purchase and we use a secure transaction gateway. Card Service International (LinkPoint's Parent Company) is one of the largest credit card processors in the world and has been in business since 1984.  You can view their information[ here.](http://www.linkpoint.com/)  Card Service has verbally verified they do not share information and that it is against the card issuers policy, which does not allow them to share any billing information. LC Technology cannot back any policy by LinkPoint or Card Service.
 
-Information is sent to SanDisk Corporation only when a customer has purchased SanDisk RescuePRO™ directly from www.LC-Tech.com. SanDisk Corporation is one of the largest producers and suppliers of flash storage card products for a wide variety of electronic products and digital devices. LC Technology International cannot back any policy by SanDisk Corporation.
+Information is sent to SanDisk Corporation when a customer has i) purchased SanDisk RescuePRO™ directly from www.LC-Tech.com, ii) downloaded the RescuePRO™ demo version from www.LC-Tech .com or iii) redeemed a coupon to download SanDisk RescuePRO™ full version. SanDisk Corporation is one of the largest producers and suppliers of flash storage card products for a wide variety of electronic products and digital devices. LC Technology International cannot back any policy by SanDisk Corporation.
 
 **Contact Information**
 
