@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdkey-game.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612103945id_/http%3A//www.cdkey-game.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdkey-game.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913205926id_/http%3A//www.cdkey-game.com/pp.php) for the most accurate reproduction.*
 
 # CDkey-Game.com - Trustworthy and Global Game Cd-key online Store
 
