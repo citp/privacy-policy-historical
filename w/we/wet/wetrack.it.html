@@ -1,41 +1,207 @@
-<!--The following is the downloaded HTML source of the wetrack.it privacy policy that was archived on 2007-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070510020342id_/http%3A//affiliatetracking.com/info/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetrack.it privacy policy that was archived on 2008-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913055450id_/http%3A//affiliatetracking.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Affiliate Tracking Network || Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="affiliate program affiliate software affiliate management affiliate marketing affiliatetracking afiliatetracking afilatetracking Affiliate Link start an affiliate program affordable affiliate program software ROIA ROIAdvantage">
-<meta name="description" content="Affordable affiliate program management software for affiliate marketing by AffiliateTracking.com is a completely customizable user friendly affiliate program solution to help increase sales for your online business through performance based marketing and includes affiliate payment affiliate import replicated web pages and other great services."> 
-<link rel="stylesheet" type="text/css" href="/img/main.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+  <title>Privacy Statement | Affiliate Tracking Network</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/files/atn_favicon.ico" type="image/x-icon">
+  <style type="text/css" media="all">@import "/sites/all/modules/ATN_Directory/ATN_Directory.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/ATN_DResource/ATN_DResource.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/atn/style.css";</style>
+  <style>@import url(sites/all/themes/atn/style.css);</style>  <!--[if lt IE 7]><style>@import url(sites/all/themes/atn/styles/big_buttons_ie.css);</style><![endif]-->    <script type="text/javascript">
 
-<link rel="stylesheet" type="text/css" href="/img/main.css">
+var imgDir='/sites/all/themes/atn/images';
+var buttonImgExt='png';
 
-    <style type="text/javascript">
-        tags.body.marginLeft="-8px";
-        tags.body.marginTop="-8px";
-    </style>
- 
-    <!--script language="JavaScript1.2" src="/inc/pref.js" type="text/javascript"></script>
-    <script language="JavaScript1.2" src="/inc/menu.js" type="text/javascript"></script-->
 
-    <script language="JavaScript1.2" type="text/javascript">
-        function showmenu(){ return };
-        function setup(){ return };
-        function hidemenu(){ return };
-    </script>
+var browserName=navigator.appName; 
+var browserVer=parseInt(navigator.appVersion); 
+var ie_browser=0;
+if( browserName=="Microsoft Internet Explorer" && browserVer>=4 ) {
+	ie_browser=1;
+} else {
+	ie_browser=0;
+}
+</script>
 
-    <script language="JavaScript1.2" src="/inc/email.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var check_referer = false;
-	</script>
+<script type="text/javascript">
+//=============================================================================
+// Image Preloader
+function ImagePreloader(images,callback)
+{
+	// store the callback
+	this.callback = callback;
 
+	// initialize internal state.
+	this.nLoaded = 0;
+	this.nProcessed = 0;
+	this.aImages = new Array;
+
+	// record the number of images.
+	this.nImages = images.length;
+
+	// for each image, call preload()
+	for ( var i = 0; i < images.length; i++ ) 
+		this.preload(images[i]);
+}
+ImagePreloader.prototype.preload = function(image)
+{
+	// create new Image object and add to array
+	var oImage = new Image;
+	this.aImages.push(oImage);
+	
+	// set up event handlers for the Image object
+	oImage.onload = ImagePreloader.prototype.onload;
+	oImage.onerror = ImagePreloader.prototype.onerror;
+	oImage.onabort = ImagePreloader.prototype.onabort;
+	
+	// assign pointer back to this.
+	oImage.oImagePreloader = this;
+	oImage.bLoaded = false;
+	oImage.source = image;
+	
+	// assign the .src property of the Image object
+	oImage.src = image;
+}
+ImagePreloader.prototype.onComplete = function()
+{
+	this.nProcessed++;
+	if ( this.nProcessed == this.nImages )
+		this.callback(this.aImages);
+}
+ImagePreloader.prototype.onload = function()
+{
+	this.bLoaded = true;
+	this.oImagePreloader.nLoaded++;
+	this.oImagePreloader.onComplete();
+}
+ImagePreloader.prototype.onerror = function()
+{
+	this.bError = true;
+	this.oImagePreloader.onComplete();
+}
+ImagePreloader.prototype.onabort = function()
+{
+	this.bAbort = true;
+	this.oImagePreloader.onComplete();
+}
+</script>
+
+<script type="text/javascript">
+
+function imgPath(image_name){
+	return imgDir+'/'+image_name+'.'+buttonImgExt;
+}
+
+function addRollover(id, aImages, url)
+{
+	var o = document.getElementById(id);
+	var oA = document.createElement("a");
+	oA.href = url;
+	o.appendChild(oA);
+
+	var oDiv = document.createElement("div");
+	oDiv.style.position="relative";
+	oDiv.style.width=aImages[0].width+"px";
+	oDiv.style.height=aImages[0].height+"px";
+	if( ie_browser ){
+		oDiv.style.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+aImages[0].src+"', sizingMethod='crisp')";
+		oDiv.attachEvent( "onmouseover", function(){var o=event.srcElement; o.filters(0).src=aImages[1].src; o.style.cursor = 'hand';});
+		oDiv.attachEvent( "onmouseout", function(){var o=event.srcElement; o.filters(0).src=aImages[0].src; o.style.cursor = 'default';});
+	} else {
+		oDiv.style.backgroundPosition='top left';
+		oDiv.style.backgroundRepeat='no-repeat';
+		oDiv.style.backgroundImage='url('+aImages[0].src+')';
+		oDiv.onmouseover=function(e){var o=e.target; o.style.backgroundImage='url('+aImages[1].src+')';};
+		oDiv.onmouseout=function(e){var o=e.target; o.style.backgroundImage='url('+aImages[0].src+')';};
+	}
+	oA.appendChild(oDiv);
+}
+
+function PreloadRollover(id, image_name, url)
+{
+	var ip = new ImagePreloader([imgPath(image_name), imgPath(image_name+'a')], function(aImages){addRollover(id, aImages, url)});
+}
+
+
+</script>
 
 </head>
 
-<body onload="setup()">
+<body>
 
- 
- <!--ROIA page #21-->
+<div id="container">
+<div id="container_sh20"><div id="container_sh24"><div id="container_sh02"><div id="container_sh42"><div id="container_sh0001"><div id="container_sh0304"><div id="container_sh4041"><div id="container_sh4344"><div id="container_sh10143034"><div id="container_sh10"><div id="container_sh14"><div id="container_sh30"><div id="container_sh34"><div id="container_sh">
+
+<div id="container_0">
+
+<div id="header-region" class="clear-block"></div>
+
+
+ <div id="top_menu">
+  <a href="/home">|&nbsp;<span>HOME</span>&nbsp;</a>
+  <a href="/advertisers">|&nbsp;<span>ADVERTISERS</span>&nbsp;</a>
+  <a href="/publishers">|&nbsp;<span>PUBLISHERS</span>&nbsp;</a>
+  <a href="/community">|&nbsp;<span>COMMUNITY</span>&nbsp;</a>
+  <a href="/contact_info">|&nbsp;<span>CONTACT&nbsp;US</span>&nbsp;</a>
+ </div>
+
+   <div id="logo2" style="position: relative;">
+    <a href="/" title="Home"><img src="/sites/all/themes/atn/images/logo2.jpg" alt="Home"></a>
+   </div>
+
+
+ <div id="container_content1">
+
+     <div class="white_bg_box container_content">
+
+<h1 class="title">Privacy Statement</h1><div id="node-38" class="node">
+
+
+  <!--h2><a href="/privacy" title="Privacy Statement">Privacy Statement</a></h2-->
+
+  
+  <div class="content">
+           
+       <p>Protecting your privacy is important to TrackingSoft. We hope the following policy will help you understand how TrackingSoft collects, uses, and safeguards the personal information you provide on our website.</p>
+       <h3>Information Collection</h3>
+       <p>When you browse our website, you do so anonymously. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. But we do not link your IP address to anything personally identifiable. The only other information automatically provided to us is the type of computer and operating system you are using. Your browser supplies us with this information.</p>
+       <p>Like many other commercial websites, the TrackingSoft website may use a standard technology called a "cookie" to collect information about how you use the site. This cookie information is intended to determine repeat visit statistics. This information is not shared or otherwise used.</p>
+       <p>In some of our advertising on other web sites, we use a device called a "click-through URL." When you click on one of these URLs, you pass through our system before arriving at a page on our site that is your true destination. TrackingSoft uses click-throughs to determine the level of interest in particular topics and to measure the effectiveness of our advertising. We do not share this data, and we make no attempt to match click-throughs to particular email addresses.</p>     
+       <h3>Information Use</h3>
+
+       <p>If you provide us with personal information, or have done so in the past, we may attempt to contact you to determine if our software met your expectations, offer additional assistance or notify you about special offers. If you do not want us to contact you, you can choose to "opt out". TrackingSoft will respect your wishes.</p>
+       <h3>Opting Out</h3>
+       <p>Although most customers tell us they appreciate receiving our mailings, we recognize the importance of providing you with choices. At any time, you may request to discontinue mailings from us by simply replying to the email and informing us of your preferences. With the exception of support case correspondence, which is customer initiated, all of our email messages clearly explain how you can easily opt out and stop receiving such messages from us.</p>
+       <h3>Data Security</h3>
+       <p>TrackingSoft is fully committed to data security. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place electronic and managerial procedures to safeguard and secure the information you provide to us online.</p>
+       <h3>Company Commitment to Privacy</h3>
+
+       <p>We believe strongly in respecting your privacy. However, we also reserve the right to change our privacy policy in order to adapt to new situations. Our commitment is to inform users how we intend to use any information we request before it is collected (so you can opt in), and to respect your wishes to opt out.</p>
+       <p>TrackingSoft's website contains links to other websites and is not responsible for privacy practices of those websites. TrackingSoft encourages users to learn about the privacy practices of those websites.</p>
+       <br>  </div>
+
+  <div class="clear-block clear">
+
+      </div>
+
+</div>
+     </div>
+
+ </div>
+
+</div>
+
+<div id="footer">
+  
+<div id="block-block-12" class="block block-block">
+
+
+  <div class="content"><!--ROIA page #21-->
 <script type="text/javascript">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){
 l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;}
 catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/ts/p/21/js?s='+
@@ -45,182 +211,23 @@ if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;}
 if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2);
 if(/^\s*roia_p21$/.test(p[0])){u+=';_='+p[1];break;}}}
 document.write('<'+'script type="text/javascript" src="'+u+'"></'+'script>');
-})(document,screen,new Date());/*]]>*/</script><script type="text/javascript" src="https://roia.biz/ts/p/21/js?s=211224659;t=1580389484386;z=0;u=https%3A//web.archive.org/web/20070510020342id_/http%253A//affiliatetracking.com/info/privacy.shtml;r=;w=800x600x24"></script><noscript>
+})(document,screen,new Date());/*]]>*/</script><script type="text/javascript" src="https://roia.biz/ts/p/21/js?s=889063602;t=1580389483606;z=0;u=https%3A//web.archive.org/web/20080913055450id_/http%253A//affiliatetracking.com/privacy;r=;w=800x600x24"></script><noscript>
 <img src="http://roia.biz/ts/p/21/i.gif?js=0" alt="" border="0"
 width="1" height="1" style="width:1px;height:1px;border:0" /></noscript>
-<!--/ROIA page #21-->
-
-<!-- ATN integration -->
-<script type="text/javascript" src="/img/atn_direct_linking.js"></script>
-<script type="text/javascript">
-    referer = '(none)';
-</script>
-<script type="text/javascript" src="/inc/atn_referer_checking.js"></script>
-<!-- ATN integration -->
-
-    <img src="/img/sp.gif" width="1" height="8" alt=""><br>
- <table border="0" cellpadding="0" cellspacing="0" width="100%">
-   <tbody><tr valign="bottom">
-     <td align="left">
-       <span class="ph1">&nbsp; Privacy Statement </span>
-     </td>
-     <td align="right">
-     <table class="topmenu" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-     <td style="background-color: white; text-align: right; padding:0"><img src="/img/topbar_a.gif"></td>
-     <td class="menu_item"><img src="/img/topbar_b.gif"></td>
-     <td><a alt="Home Page" href="http://affiliatetracking.com/index.shtml">HOME</a></td>
-
-     <td class="menu_item"><img src="/img/topbar_b.gif"></td>
-     <td><a alt="Contact" href="http://affiliatetracking.com/info/aboutus.shtml">CONTACT</a></td>
-
-     <td class="menu_item"><img src="/img/topbar_b.gif"></td>
-     <td><a alt="Order" href="https://affiliatetracking.com/signup/signup_roia.shtml" class="order_link">ORDER</a></td>
-
-     <td class="menu_item"><img src="/img/topbar_b.gif"></td>
-     <td><a href="https://affiliatetracking.com/support/login.shtml">LOGIN</a></td>
-
-     <td class="menu_item"><img src="/img/topbar_b.gif"></td>
-     <td><a href="http://affiliatetracking.com/press/">PRESS</a></td>
-     </tr></tbody></table>
-     </td>
-   </tr>
- </tbody></table>
-
- <table border="0" cellpadding="0" cellspacing="0" width="100%">
-   <tbody><tr valign="top">
-    <td class="hbg" style="white-space: nowrap;">
-      <img src="/img/sp.gif" width="1" height="10" alt=""><br>
-      <img src="/img/c1.jpg" width="159" height="98" alt=""><img src="/img/logo.jpg" width="405" height="98" alt="Affiliate Tracking Network"><br>
-    </td>
-   </tr>
- </tbody></table>
-
- <table border="0" cellpadding="0" cellspacing="0" width="100%">
-   <tbody><tr valign="top">
-    <td bgcolor="#a89775">
-      <div id="menu-atn">
-       <table border="0" cellpadding="4" cellspacing="0">
-         <tbody><tr align="center"><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://affiliatetracking.com/info/feature.shtml">Features</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://affiliatetracking.com/demo/index.shtml">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://affiliatetracking.com/info/testimonials.shtml">Testimonials</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://directory.affiliatetracking.com/">Affiliates&nbsp;Directory</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://affiliatetracking.com/info/index.shtml">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://affiliatetracking.com/blog/">Blog</a>
-         </td>
-        </tr>
-       </tbody></table>
-      </div>
-    </td>
-   </tr>
- </tbody></table>
-
- <span class="sl" id="bl"><img src="/img/sp.gif" width="1" height="1" alt=""></span><br><img src="/img/sp.gif" width="1" height="19" alt=""><br>
+<!--/ROIA page #21--></div>
+</div>
+<div id="block-block-17" class="block block-block">
 
 
+  <div class="content"><div id="privacy">
+ <p>©&nbsp;Copyright 1998-2008 / <a href="http://www.trackingsoft.com">TrackingSoft LLC</a><br>View our <a href="/privacy">Privacy Statement</a>. Information for <a href="/affiliate_partners">Affiliate Partners</a></p>
+</div>
+</div>
+</div>
+<div id="block-block-13" class="block block-block">
 
 
- <table border="0" cellpadding="0" cellspacing="0" width="100%">
-   <tbody><tr valign="top">
-     <td width="160"><br>
-      <img src="/img/sp.gif" width="160" height="1" alt="">
-   </td>
-   <td width="90%">
-     <table border="0" cellpadding="0" cellspacing="20" width="100%"><tbody><tr><td>
-      <h3>Privacy Statement</h3>
-   <div class="nt">Protecting your privacy is important to Affiliate Tracking Network (ATN). We hope the following policy will help you understand how ATN collects, uses, and safeguards the personal information you provide on our website.
-   <br>
-   <h3>Information Collection </h3>
-   When you browse our website, you do so anonymously. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. But we do not link your IP address to anything personally identifiable. The only other information automatically provided to us is the type of computer and operating system you are using. Your browser supplies us with this information.<br><br>
-
-   Like many other commercial websites, the ATN website may use a standard technology called a "cookie" to collect information about how you use the site. This cookie information is intended to determine repeat visit statistics. This information is not shared or otherwise used.<br><br>
-
-   In some of our advertising on other web sites, we use a device called a "click-through URL." When you click on one of these URLs, you pass through our system before arriving at a page on our site that is your true destination. ATN uses click-throughs to determine the level of interest in particular topics and to measure the effectiveness of our advertising. We do not share this data, and we make no attempt to match click-throughs to particular email addresses.<br><br>
-
-
-   <h3>Information Use</h3>
-
-If you provide us with personal information, or have done so in the past, we may attempt to contact you to determine if our software met your expectations, offer additional assistance or notify you about special offers. If you do not want us to contact you, you can choose to "opt out". ATN will respect your wishes.
-
-   <p></p><h3>Opting Out</h3><p></p>
-
-   <p>
-Although most customers tell us they appreciate receiving our mailings, we recognize the importance of providing you with choices. At any time, you may request to discontinue mailings from us by simply replying to the email and informing us of your preferences. With the exception of support case correspondence, which is customer initiated, all of our email messages clearly explain how you can easily opt out and stop receiving such messages from us. 
-   </p>
-
-
-<p></p><h3>Data Security</h3><p></p>
-
-<p>ATN is fully committed to data security. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place electronic and managerial procedures to safeguard and secure the information you provide to us online.</p> 
-
-<p></p><h3>Company Commitment to Privacy</h3><p></p>
-
-<p>We believe strongly in respecting your privacy. However, we also reserve the right to change our privacy policy in order to adapt to new situations. Our commitment is to inform users how we intend to use any information we request before it is collected (so you can opt in), and to respect your wishes to opt out.</p> 
-
-<p>ATN's website contains links to other websites and is not responsible for privacy practices of those websites. ATN encourages users to learn about the privacy practices of those websites.</p>
-
-   </div>
-   </td></tr></tbody></table>
-   </td></tr></tbody></table>
-
- <div class="ml" id="info">
-   <table border="0" cellpadding="0" cellspacing="0">
-     <tbody><tr bgcolor="#d5ccbc">
-        <td align="right" valign="bottom"><img src="/img/smk.gif" width="20" height="19" alt=""><img src="/img/sp.gif" width="20" height="19" alt=""></td>
-        <td>
-           <table border="0" cellpadding="4" cellspacing="0">
-             <tbody><tr>
-               <td width="50"><a href="/info/index.shtml" class="grey">FAQ</a></td>
-               <td width="85"><a href="/resources/index.shtml" class="grey">Resources</a></td>
-             </tr>
-           </tbody></table>
-        </td>
-     </tr>
-   </tbody></table>
- </div>
-
- <div class="ml" id="partnership">
-   <table border="0" cellpadding="0" cellspacing="0">
-     <tbody><tr bgcolor="#d5ccbc">
-        <td align="right" valign="bottom"><img src="/img/smk.gif" width="20" height="19" alt=""><img src="/img/sp.gif" width="20" height="19" alt=""></td>
-        <td>
-           <table border="0" cellpadding="4" cellspacing="0">
-             <tbody><tr>
-               <td width="95"><a href="/partnership/index.shtml" class="grey">Webmasters</a></td>
-               <td width="85"><a href="/partnership/resellers.shtml" class="grey">Resellers</a></td>
-             </tr>
-           </tbody></table>
-        </td>
-     </tr>
-   </tbody></table>
- </div>
-
-<table border="0" cellpadding="0" cellspacing="2" align="center">
-    <tbody><tr>
-        <td>
-            <div id="copyr">
-                © Copyright 1998–2007 / <a href="http://www.trackingsoft.com/">TrackingSoft LLC</a>
-            </div>
-        </td>
-    </tr>
-</tbody></table>
-
-<!--ROIA page #36-->
-<script type="text/javascript">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){
-l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;}
-catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/ts/p/36/js?s='+
-Math.floor(Math.random()*1162827393)+';t='+escape(T.getTime())+';z='+
-escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f);
-if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;}
-if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2);
-if(/^\s*roia_p36$/.test(p[0])){u+=';_='+p[1];break;}}}
-document.write('<'+'script type="text/javascript" src="'+u+'"></'+'script>');
-})(document,screen,new Date());/*]]>*/</script><script type="text/javascript" src="https://roia.biz/ts/p/36/js?s=402446998;t=1580389484465;z=0;u=https%3A//web.archive.org/web/20070510020342id_/http%253A//affiliatetracking.com/info/privacy.shtml;r=;w=800x600x24"></script><noscript>
-<img src="http://roia.biz/ts/p/36/i.gif?js=0" alt="" border="0"
-width="1" height="1" style="width:1px;height:1px;border:0" /></noscript>
-<!--/ROIA page #36-->
-
-
+  <div class="content">
 <!--GOOGLE ANALYTICS-->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -230,19 +237,22 @@ urchinTracker();
 </script>
 <!--/GOOGLE-->
 
+</div>
+</div>
+</div>
 
-<table border="0" cellpadding="0" cellspacing="2" align="center">
-    <tbody><tr>
-        <td>
-        <div id="privacy">
-            View our <a href="http://affiliatetracking.com/info/privacy.shtml">Privacy Statement</a>.
-            &nbsp;&nbsp;&nbsp;&nbsp;Information for <a href="http://affiliatetracking.com/partnership/index.shtml">Affiliate&nbsp;Partners</a>.
-        </div>
-        </td>
-    </tr>
-</tbody></table>
 
-  
+<br>
+<br>
+
+
+</div>
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
+
+
+
 
 
 </body></html>
