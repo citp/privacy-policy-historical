@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628004920id_/http%3A//www.scansafe.com/%3Fa%3D232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913045917id_/http%3A//www.scansafe.com/%3Fa%3D232) for the most accurate reproduction.*
 
 # ScanSafe, The World's Leading Provider of Web Security-as-a-Service
 
