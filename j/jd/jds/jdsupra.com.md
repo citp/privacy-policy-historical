@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512005513id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913133955id_/http%3A//jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # JD Supra
 
 ## Last updated: April 23, 2008:
 
-[This website](https://web.archive.org/web/20080512005513id_/http%3A//www.jdsupra.com/index.aspx) (the “Website”) provides users with access to JD Supra’s legal industry publishing services. Our policies with regard to data collection and use of personal information of users and visitors to the Website are set forth in this statement (“Policy”). By using this Website, you signify your acceptance of this Policy.
+[This website](https://web.archive.org/web/20080913133955id_/http%3A//jdsupra.com/index.aspx) (the “Website”) provides users with access to JD Supra’s legal industry publishing services. Our policies with regard to data collection and use of personal information of users and visitors to the Website are set forth in this statement (“Policy”). By using this Website, you signify your acceptance of this Policy.
 
 ## Information Collection and Use by JD Supra
 
