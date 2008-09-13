@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scoutingmagazine.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101441id_/http%3A//www.scouting.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutingmagazine.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913095405id_/http%3A//www.scoutingmagazine.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.scouting.org
 
-The Boy Scouts of America is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
+_Scouting_ magazine and the Boy Scouts of America are committed to respecting and protecting the personal privacy of its members and those who visit this Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
 
-The information that follows explains the kinds of information the BSA Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act.
+The information that follows explains the kinds of information the _Scouting_ magazine Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act.
 
-**NOTE:** This privacy policy applies only to `www.scouting.org`. This privacy policy does _not_ apply to any council or unit Web site, as their content is not controlled by the National Council of the Boy Scouts of America. Please contact the administrator of any council, unit, or other Scouting-oriented Web site for information about their own privacy policies and the information they collect about their site visitors.
+**NOTE:** This privacy policy applies only to `www.scoutingmagazine.org`. This privacy policy does not necessarily apply to any Web site to which we may link. Please contact the administrator of any other Web site for information about their own privacy policies and the information they collect about their site visitors.
 
 ## What information does this site collect?
 
@@ -40,14 +40,10 @@ In most cases, personally identifiable information is not maintained. Once it ha
 
 ## How does the BSA comply with the Children's Online Privacy Protection Act (COPPA) of 1998?
 
-The Boy Scouts of America does not use its Web site to collect any personally identifiable information from children under 13 years of age. Any interface that requests personally identifiable information that appears on an interface that can be expected to be viewed by children under 13 years of age is accompanied by a notice that submissions cannot be accepted from users under 13 years of age. Where "age" or "date of birth" is requested, no information will be stored or transmitted unless the response indicates that the user is 13 years of age or older.
-
-Providing personal information is _never_ a prerequisite for accessing any of the content or resources on this Web site. Specifically, refusal to provide personal information via a Web interface will never result in a user being denied access to any on-line content or resource he would be able to access were the information submitted.
+_Scouting_ magazine, hence its Web site, is designed for and is expected to be of interest only to the adult leaders of the Scouting movement rather than a youth audience.
 
 ## Policy Modifications and Deviations
 
 We may modify this privacy policy and will post those changes here. If the privacy policy changes in the future, we will not any personal information you have submitted to us under the current Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
 It may be necessary to deviate from this general policy in unique instances and for specific purposes. In such instances, a link will be provided to a description of the deviation. This link will be placed where it can be reasonably expected to be noticed prior to submitting any information for which this privacy policy is modified or exempted in any way.
-
-* * *
