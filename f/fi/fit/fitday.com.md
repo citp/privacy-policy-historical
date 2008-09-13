@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitday.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630010657id_/http%3A//fitday.com/WebFit/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitday.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913083723id_/http%3A//www.fitday.com/WebFit/Privacy.html) for the most accurate reproduction.*
 
 # 
 
