@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618223804id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913073428id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - Thottbot: World of Warcraft
 
@@ -6,7 +6,7 @@
 
 **Privacy Statement**
 
-NEW! [Powered by Thottbot](http://thottbot.com/x/power "Powered by Thottbot") \- easily add Thottbot item tooltips to your site! 
+NEW! [Wrath of the Lich King! (September 10)](http://thottbot.com/-/wotlk "Wrath of the Lich King")   NEW! [Project Lore WotLK Episode 1.6](http://thottbot.com/projectlore41 "Project Lore")
 
 Privacy Statement 
 
