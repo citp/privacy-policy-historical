@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyjournal.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212125226id_/http%3A//www.easyjournal.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyjournal.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913040336id_/http%3A//www.easyjournal.com/home/privacy.aspx) for the most accurate reproduction.*
 
 # Easyjournal
 
