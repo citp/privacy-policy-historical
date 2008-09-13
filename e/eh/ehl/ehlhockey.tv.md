@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412100820id_/http%3A//www.eurohockeyleague.eu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913142603id_/http%3A//ehlhockey.tv/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Euro Hockey League
 
@@ -68,7 +68,7 @@ When you communicate with EHL by email, you should note that the secrecy of emai
 
 ## Access to your personal data
 
-You may access your personal data and correct, amend, complete, or delete your personal data except where the law requires otherwise. To exercise these rights, you should contact EHL via the website’s [Contact page](http://eurohockeyleague.eu/contact). 
+You may access your personal data and correct, amend, complete, or delete your personal data except where the law requires otherwise. To exercise these rights, you should contact EHL via the website’s [Contact page](http://www.ehlhockey.tv/contact). 
 
 To protect your privacy and security, EHL may also take reasonable steps to verify your identity before access is granted or corrections are made. 
 
