@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dischem.co.za privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504093740id_/http%3A//www.dischem.co.za/info.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dischem.co.za privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913233837id_/http%3A//www.dischem.co.za/info.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Dis-Chem | Pharmacists who care
 
