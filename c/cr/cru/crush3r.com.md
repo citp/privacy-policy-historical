@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crush3r.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025042309id_/http%3A//www.crush3r.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crush3r.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913235207id_/http%3A//crush3r.com/welcome/privacy) for the most accurate reproduction.*
 
 # Crusher Privacy Policy
 
@@ -59,7 +59,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 Crusher may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Crusher primary account holder account or by placing a prominent notice on our site.
 
 **Questions**  
-Any questions about this Privacy Policy should be addressed to [privacy@crush3r.com](mailto:privacy@crush3r.com) or by mail to: 
+Any questions about this Privacy Policy should be addressed to _privacy [at] crush3r.com_ or by mail to: 
 
 Crusher, Inc.  
 P.O. Box 170502 San Francisco, CA 94117-0502 USA
