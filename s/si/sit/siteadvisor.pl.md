@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502175016id_/http%3A//siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913205033id_/http%3A//siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
 
 # McAfee SiteAdvisor - Privacy policy
 
@@ -21,7 +21,7 @@
 
   * McAfee's SiteAdvisor product collects personally identifiable information such as name, e-mail, and your organization/company when you register as a user of our products, sign up for one of our newsletters, or register online with us to leave feedback about our products or our Web site ratings. We don't share this information with any outside parties, except that we may disclose this information to selected outside vendors to help process and fulfill any orders you may place with us. These companies are prohibited from using your personally identifiable information for any purpose other than for fulfilling the service you requested on our behalf. 
   * If you optionally choose to register with us and leave feedback about a Web site, we'll show your "nickname" (if you provide one) together with your feedback comments. 
-  * From time to time We may offer users the opportunity to participate in optional product improvement programs, contests or other promotional programs at the explicit agreement of each user. We will explain how information is collected and used in each of these optional programs as they are announced. 
+  * From time to time we may offer users the opportunity to participate in optional product improvement programs, contests or other promotional programs at the explicit agreement of each user. We will explain how information is collected and used in each of these optional programs as they are announced. 
   * In addition, we may disclose personally-identifiable and information: (i) to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other members or users of the Web Site, or anyone else that could be harmed by such activities; and (ii) to third parties when we believe in good faith that the law requires it. 
 
 
