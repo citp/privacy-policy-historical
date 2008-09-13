@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611041852id_/http%3A//www.brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913153119id_/http%3A//brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
-PRIVACY POLICY 
+Broken Gold Privacy Policy 
 
 [](http://www.truste.org/ivalidate.php?companyName=Quick%20Cash%20Pawn&sealid=101&ctv_group=QCP)
 
-Quick Cash Pawn is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites _[www.capitalbuyers.com](http://www.capitalbuyers.com/)_ , _[www.brokengold.com](http://www.brokengold.com/)_ , _[www.scrapgoldcash.com](http://www.scrapgoldcash.com/)_ , and [www.usascrapgold.com](http://www.usascrapgold.com/). From this point on the above listed websites will be referred to as “The Sites” or “We, Us, Our”. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Broken Gold is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.capitalbuyers.com, [www.brokengold.com](http://www.brokengold.com/) , www.scrapgoldcash.com , and www.usascrapgold.com. From this point on the above listed websites will be referred to as “The Sites” or “We, Us, Our”. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Tevin Jones at the phone number 1-888-920-5111. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns
 
