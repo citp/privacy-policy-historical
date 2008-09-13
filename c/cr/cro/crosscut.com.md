@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213114819id_/http%3A//crosscut.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913125713id_/http%3A//www.crosscut.com/about/privacy) for the most accurate reproduction.*
 
 # Crosscut Seattle - Privacy
 
@@ -72,10 +72,11 @@ For more information, contact [editor@crosscut.com](mailto:editor@crosscut.com).
 
 Updated March 1, 2007 
 
-## More about Crosscut
+## About Crosscut
 
-[RSS feeds](https://web.archive.org/feeds/)  
-[About us](https://web.archive.org/about/)  
-[Contacts](https://web.archive.org/about/contact/)  
-[User agreement](https://web.archive.org/about/agreement/)  
-
+[RSS feeds](https://web.archive.org/feeds/)   
+[About us](https://web.archive.org/about/)   
+[How to advertise](https://web.archive.org/about/advertise/)   
+[Contacts](https://web.archive.org/about/contact/)   
+[Privacy policy](https://web.archive.org/about/privacy/)   
+[How to contribute/freelance policy](https://web.archive.org/about/contribute/)
