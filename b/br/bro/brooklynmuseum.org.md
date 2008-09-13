@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630111618id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913031746id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: About: Privacy Policy
 
@@ -38,8 +38,8 @@ If you sign up for or subscribe to an e-mail newsletter, discussion list, or spe
 **E-mails**  
 The Museum tries to respond to e-mail messages requiring a response, including customer service inquiries related to purchases in the Museum Shop, within one week. If you e-mail the Museum, your message and e-mail address will be forwarded to the appropriate department within the Museum. Any message, material, business information, ideas, concepts, or other information sent to the Museum by e-mail will be treated as non-confidential and non-proprietary. Your e-mail address will not be used for any other purpose but to contact you if needed.
 
-**Commentary Feature**  
-It is required that you provide your e-mail information in order to access the Museum's Commentary Feature. The e-mail address you provide will not be used for any other purpose but to contact you if needed. Your submissions, when using the Commentary Feature, may be edited for clarity. We reserve the right to decide not to post your comments. You may be contacted regarding your comments. Your comments may be reused.
+**Brooklyn Museum Commentary Feature (The Posse)**  
+It is required that you provide your e-mail information in order to be a member of the Brooklyn Museum Posse. The e-mail address you provide will not be used for any other purpose but to contact you if needed. Your submissions (commenting, tagging), when using the Posse, must follow our [comment guidelines](https://web.archive.org/community/comment/agreement.php) and may be edited for clarity. We reserve the right to decide not to post your comments. You may be contacted regarding your comments. Your comments may be reused.
 
 ### Information Collected Automatically  
 
