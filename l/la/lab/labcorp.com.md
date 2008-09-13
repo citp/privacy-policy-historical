@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labcorp.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605174955id_/http%3A//www.labcorp.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labcorp.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913235741id_/http%3A//www.labcorp.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # LabCorp Privacy Statement
 
