@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616103032id_/http%3A//www.openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914005340id_/http%3A//www.openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Architecture Network
 
@@ -24,6 +24,6 @@ We may use “cookies” to track your interaction with the Network. A “cookie
 
 **Delete/Deactivate**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to staff@architectureforhumanity.org
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Contact us](http://www.openarchitecturenetwork.org/contact) if you would like to deactivate your account.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact: staff@architectureforhumanity.org
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.openarchitecturenetwork.org/contact).
