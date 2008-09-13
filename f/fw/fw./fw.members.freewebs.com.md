@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fw.members.freewebs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509065539id_/http%3A//fw.members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fw.members.freewebs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913041837id_/http%3A//fw.members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Freewebs.com - Free website, free hosting, free webpage, online photo album, free blog, more!
 
@@ -80,7 +80,7 @@ Although we have established and maintain commercially reasonable security proce
 
 #### No Spyware / Adware
 
-We have a [strict policy against spyware and adware](https://web.archive.org/web/20080509065539id_/http%3A//fw.members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
+We have a [strict policy against spyware and adware](https://web.archive.org/web/20080913041837id_/http%3A//fw.members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
 
 #### Opt-out Policy
 
