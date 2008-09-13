@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170628id_/http%3A//handster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913023642id_/http%3A//handster.com/privacy.php) for the most accurate reproduction.*
 
 # Handster.com - Windows Mobile Software for HTC, iPAQ, i-mate, MDA, Cingular 8125 and other Pocket PC.
 
