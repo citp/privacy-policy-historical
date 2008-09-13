@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330045623id_/http%3A//www.anime-expo.org/registration/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913223616id_/http%3A//www.anime-expo.org/convention-info/attendee/rules-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Anime Expo® [AX] 2008
+# Privacy Policy at Anime Expo®
+
+[日本語](http://www.anime-expo.org/jp/convention-info/attendee/rules-policies/privacy-policy/)
 
 Society for the Promotion of Japanese Animation ("SPJA")  
 Anime Expo® 2008  
