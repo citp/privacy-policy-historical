@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highprofilearticles.info privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523150115id_/http%3A//www.highprofilearticles.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highprofilearticles.info privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913195559id_/http%3A//www.highprofilearticles.info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - High Profile Articles 3
 
@@ -46,5 +46,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
+  
   
 
