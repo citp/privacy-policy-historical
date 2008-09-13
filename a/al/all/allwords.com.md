@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131641id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
 
 # AllWords.com - Dictionary, Guide, Community and More
 
@@ -16,7 +16,7 @@
 [Copyrights           ](http://www.allwords.com/copyright.php)  
 [Privacy                 ](http://www.allwords.com/privacy.php)  
 [AllWords Search Box](http://www.allwords.com/allwords-search-box.php)  
-[Contact Us           ](https://web.archive.org/web/20080610131641id_/http%3A//www.allwords.com/13gtfagt.php)  
+[Contact Us           ](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/13gtfagt.php)  
   
 [](http://www.4offsets.com/certificate.php?cr=511899776 "Website CO2 Offsets at www.4offsets.com")
 
@@ -38,7 +38,7 @@ So, feel free to sign our guest book, or register for our products, we value you
 
 Please note that many advertiser networks use cookies to help track the effectiveness of advertisements and to better match ads with visitors to our site. These cookies will not contain personal information, unless you have provided that information. If you are concerned, you can set your browser to refuse cookies, or to give you the option to refuse a cookie that is being sent to you. 
 
-If you have any questions or comments, [contact us](https://web.archive.org/web/20080610131641id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
+If you have any questions or comments, [contact us](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
 
-|      
-  [](http://x.azjmp.com/0qYZH?sub=aw125)
+|   [](http://www.bookmasters.com/marktplc/02229.htm)  
+  [](http://www.bookmasters.com/marktplc/02229.htm)
