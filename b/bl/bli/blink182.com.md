@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003410id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913033219id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
 
 # UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
