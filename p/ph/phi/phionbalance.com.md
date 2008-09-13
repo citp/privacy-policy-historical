@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517163101id_/http%3A//www.phionbalance.com/App_UI/site/pHion/Public/Info.aspx%3Fc%3DOZ2zalwHBir7dURf/0icSw205Kj7SmYr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913215230id_/http%3A//www.phionbalance.com/App_UI/site/pHion/Public/Info.aspx%3Fc%3DOZ2zalwHBir7dURf/0icSw205Kj7SmYr) for the most accurate reproduction.*
 
-# pH Balance Your Body - Alkaline Supplements and pH Test Strips from pHion
+# Privacy Policy of pHion, Scottsdale (AZ)
 
 ## Your Privacy
 
@@ -76,7 +76,7 @@ In addition to the uses described above, we may use your personal information fo
 
 For registered users on some of the Website, a user can review personal identifiable information by logging in with the user email and password and then clicking on the "My Account" link located at the top right of each page. After accessing the user's My Account page, click the appropriate link under the Account Information section to make changes as necessary.
 
-For access and changes of any other data, please [contact us](https://web.archive.org/App_UI/Public/Info.aspx?c=C2Sf/t/yDFg2VIK9SZLbxA==). Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
+For access and changes of any other data, please [contact us](https://web.archive.org/contact-us). Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
 
 You should also note that if we have provided your information to third parties, you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
@@ -106,7 +106,7 @@ If you have any questions about this Privacy Policy, the practices of the Websit
 Attn: Privacy Matters  
 14201 N. Hayden Rd., Suite A-4  
 Scottsdale, AZ 85260  
-[privacymatters@ph-ion.com](mailto:privacymatters@ph-ion.com)  
+[privacymatters@phionbalance.com](mailto:privacymatters@phionbalance.com)  
 
 
 If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with pHion to resolve users concerns.
