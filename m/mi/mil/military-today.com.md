@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216052251id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914035954id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Military Today - Privacy policy
 
