@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1choice4yourstore.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518102334id_/http%3A//www.1choice4yourstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1choice4yourstore.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914171401id_/http%3A//www.1choice4yourstore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
