@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsicommerce.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421032123id_/http%3A//www.gsicommerce.com/index.php/en/t1/%3Fnid%3D481) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsicommerce.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914022219id_/http%3A//www.gsicommerce.com/index.php/en/t1/%3Fnid%3D481) for the most accurate reproduction.*
 
 # GSI Commerce :: Privacy Policy
 
