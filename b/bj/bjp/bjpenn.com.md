@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjpenn.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404073711id_/http%3A//www.bjpenn.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.bjpenn.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjpenn.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914083715id_/http%3A//www.bjpenn.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.bjpenn.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - BJPENN.COM
 
