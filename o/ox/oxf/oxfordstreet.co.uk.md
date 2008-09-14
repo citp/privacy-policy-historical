@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordstreet.co.uk privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528090835id_/http%3A//www.oxfordstreet.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordstreet.co.uk privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914044431id_/http%3A//www.oxfordstreet.co.uk/privacy) for the most accurate reproduction.*
 
 # Oxford Street | London W1 | Privacy Policy - Privacy Policy
 
