@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072504id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914020710id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
 # Sunny Realty Of South Florida Privacy Statement
 
@@ -48,4 +48,4 @@ Sunny Isles Beach, FL 33160
 
 **General Feedback:** [ info@Sunny-Realty.com](mailto:info@Sunny-Realty.com)
 
-Effective Date: 6/30/2008 
+Effective Date: 9/13/2008 
