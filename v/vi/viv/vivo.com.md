@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414083645id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3DvivoPage%26pageregion%3Dfooter%26src%3Drp10_artistinfo%252Crhapsody%252Crhapsody_unlimited%252Cvivo%26pcode%3Dmsn%26opage%3Dvivo%26rsrc%3Dscut%26ocode%3Dmsn%26cpath%3Dmsn_msg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914060750id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3DvivoPage%26pageregion%3Dfooter%26src%3Dr1default1-icon%252Crhapsody25%252C.%252Crhapsody_unlimited%252Crealhome_linux_bb_0_1_1_0_0_0_0%26pcode%3Dmsn%26opage%3Dvivo%26rsrc%3Dtab%26ocode%3Dmsn%26cpath%3Dmsn_msg%26lsrc%3Dfreefilm) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., and Affiliated Entities Privacy Policy
 
 REALNETWORKS, INC., AND AFFILIATED ENTITIES
 
-_This document was last updated February 8, 2008._
+_This document was last updated June 30, 2008._
 
 RealNetworks, Inc., and its majority-owned affiliates and subsidiaries, including Rhapsody America (collectively, "RealNetworks" or "RN") are committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer, RealArcade, the RealTime Toolbar, and Rhapsody, subscriptions products such as SuperPass and Rhapsody Unlimited, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy [click here](http://docs.real.com/docs/company/RealNetworksPrivacyPolicy02-08-08.pdf).
 
@@ -92,18 +92,9 @@ CHANGES TO OUR PRIVACY POLICY
 We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products.
 
 NON-US CUSTOMER INFORMATION  
-If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington. The personal information practices set out in this Privacy Policy apply to all RealNetworks' customers worldwide. RealNetworks has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately. Should you want more information on the Safe Harbor principles, please go to: <http://www.export.gov/safeharbor/>
+If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington. The personal information practices set out in this Privacy Policy apply to all RealNetworks' customers worldwide.
 
 If you are in the European Union and you choose to purchase RealNetworks' products and services, please be aware that payment for such products and services will be handled by RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@real.com](mailto:privacy@real.com).
-
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the Direct Marketing Association at:
-
-Safe Harbor Line  
-Direct Marketing Association  
-1111 19th Street, NW - Suite 1100  
-Washington, DC 20036  
-E-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
-Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
 
 NO ERROR FREE PERFORMANCE  
 We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. RealNetworks does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States. 
