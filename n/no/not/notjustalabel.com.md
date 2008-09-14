@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notjustalabel.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507003303id_/http%3A//www.notjustalabel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notjustalabel.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914065811id_/http%3A//www.notjustalabel.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | NOT JUST A LABEL
 
@@ -8,7 +8,7 @@ NOTJUSTALABEL.com is dedicated to keeping your data secure and private. We will 
 
 All images, video, writings, recordings, and all other digital media remain your intellectual property, however we reserve the right to distribute reproductions of work in a digital form only, however will never do so without your prior consent. 
 
-If you have any questions regarding IP rights and privacy policies, feel free to contact us at [privacy@NOTJUSTALABEL.com](mailto:privacy@NOTJUSTALABEL.com).
+If you have any questions regarding IP rights and privacy policies, feel free to contact us at privacy [at] NOTJUSTALABEL [dot] com.
 
 * * *
 
@@ -45,7 +45,7 @@ NOTJUSTALABEL.com users may modify or remove any of their personal information a
 
 ##### SECURITY
 
-NOTJUSTALABEL.com member accounts are secured by member-created passwords NOTJUSTALABEL.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on NOTJUSTALABEL.com, please contact us at [privacy@NOTJUSTALABEL.com](mailto:privacy@NOTJUSTALABEL.com)
+NOTJUSTALABEL.com member accounts are secured by member-created passwords NOTJUSTALABEL.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on NOTJUSTALABEL.com, please contact us at privacy [at] NOTJUSTALABEL [dot] com
 
 ##### SHARING AND DISCLOSURE OF INFORMATION BY NOTJUSTALABEL.com
 
@@ -57,4 +57,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 ##### CONTACTING THE WEBSITE
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at: [privacy@NOTJUSTALABEL.com](mailto:privacy@NOTJUSTALABEL.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at: privacy [at] NOTJUSTALABEL [dot] com
