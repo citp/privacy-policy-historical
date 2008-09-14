@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meetyourmessenger.co.uk privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505030639id_/http%3A//www.meetyourmessenger.co.uk/outsite.aspx%3FEgWQut6U9zw%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetyourmessenger.co.uk privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914094329id_/http%3A//www.meetyourmessenger.co.uk/outsite.aspx%3FEgWQut6U9zw%253d) for the most accurate reproduction.*
 
 # MeetYourMessenger.co.uk
 
 **Art. 1 – About.**
 
-(1)   This privacy statement is incorporated into and subject to “MeetYourMessenger’s terms of use.” MeetYourMessenger is dedicated to online privacy, so in case you have any questions concerning this privacy statement, please contact us at our support center: [http://www.MeetYourMessenger.co.uk/faq.aspxx](http://www.meetyourmessenger.co.uk/faq.aspxx)
+(1)   This privacy statement is incorporated into and subject to “MeetYourMessenger’s terms of use.” MeetYourMessenger is dedicated to online privacy, so in case you have any questions concerning this privacy statement, please contact us at our support center: [http://www.MeetYourMessenger.co.uk/faq.aspx](http://www.meetyourmessenger.co.uk/faq.aspx)
 
 (2)   MeetYourMessenger is a virtual map of Messenger users. We connect you to anyone who is connected to MeetYourMessenger and you will be able to track back how you know these people in real life. MeetYourMessenger makes it possible for you to seek and find other Messenger users in your country, in your area or even in your city. You can see their picture, see who they are, see who their friends are, ask them what they work with, what their education is and much more.
 
