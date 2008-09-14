@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517173716id_/http%3A//www.bodhost.co.uk/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914172227id_/http%3A//www.bodhost.co.uk/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Bodhost.co.uk - Privacy Policy
 
