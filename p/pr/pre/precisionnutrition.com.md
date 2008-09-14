@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502070436id_/http%3A//precisionnutrition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914071215id_/http%3A//www.precisionnutrition.com/privacy.html) for the most accurate reproduction.*
 
 # Precision Nutrition - Privacy Policy
 
@@ -17,7 +17,7 @@ Canada
 512-233-0510 
 
 **Email:**  
-[info@precisionnutrition.com](https://web.archive.org/web/20080502070436id_/http%3A//precisionnutrition.com/info@precisionnutrition.com)
+[info@precisionnutrition.com](https://web.archive.org/web/20080914071215id_/http%3A//www.precisionnutrition.com/info@precisionnutrition.com)
 
 For each visitor to our web page, our web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
