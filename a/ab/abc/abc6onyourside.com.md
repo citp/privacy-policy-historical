@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505010557id_/http%3A//www.abc6onyourside.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914063558id_/http%3A//www.abc6onyourside.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
 
 # WSYX ABC 6 - Privacy Policy
 
