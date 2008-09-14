@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the sesamecommunications.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528052340id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sesamecommunications.com privacy policy that was archived on 2008-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080914035952id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Sesame Communications™ | Privacy Policy</title>
-<meta name="description" content="Dental Sesame is the leader in dental web site design and online patient communications in the dental industry. Dental Sesame integrates with practice management software, providing 24/7 info access for patients and time-savings for staff.">
-<meta name="keywords" content="dental web site design, patient communications, dental web site,  web site design, dentist web site, dentist web site design, e-mail reminders, dental, dentist, dentists, web design, web sites, reminder genie, dental sesame, telephony, sesame fone, Pt Interactive, PTinteractive, Sesame Communications, Ortho Sesame, Dental Sesame, Sesame Interactive, reminder pro, dentrix">
+<title>Sesame Communications™ | Online Patient Communications Appointment Reminder Services | Privacy Policy</title>
+<meta name="description" content="Sesame Communications is the leader in online communications in the dental and orthodontic industry. Ortho Sesame and Dental Sesame integrate with practice management software, providing 24/7 info access for patients and timesavings for staff.">
+<meta name="keywords" content="patient communications, e-mail reminders, orthodontics, dentist, dental, web design, web sites, online marketing, orthodontic, orthodontist, dental, dentist, dentists, orthodontists, web design, web sites, reminder genie, ortho sesame, dental sesame, dental products">
 <base href="http://sesamecommunications.com/">
 <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" href="/favicon.gif" type="image/gif"> 
@@ -15,13 +15,15 @@
 <link href="styles/ie.css" media="all" rel="stylesheet" type="text/css" />
 <script defer src="scripts/png_enabler.js" type="text/javascript"></script>
 <script src="scripts/iehover_fix.js" type="text/javascript"></script>
-<![endif]--><!-- pngfix: allows alpha transparency; iehover_fix: replaces :hover for menus  -->
+<![endif]--><!-- pngfix: allows alpha transparency; iehover_fix: replaces :hover pseudo-class for menus  -->
+<style type="text/css">
+</style>
 <script src="scripts/global.js" type="text/javascript"></script>
 <script src="scripts/prototype.js" type="text/javascript"></script><!-- Slider / Lightbox -->
 <script src="scripts/scriptaculous.js" type="text/javascript"></script><!-- Slider / Lightbox -->
 <script src="scripts/swfobject.js" type="text/javascript"></script><!-- Flash -->
-<script src="scripts/lightbox.js" type="text/javascript"></script><!-- Lightbox --></head>
-
+<script src="scripts/lightbox.js" type="text/javascript"></script><!-- Lightbox -->
+</head>
 <body>
 <div id="wrap">
 <div id="container">
@@ -30,7 +32,7 @@
 <a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true" title="Close Demo"><img src="images/buttons/close_yellow.gif" alt="Close" style="position: absolute; right: 10px; top: 15px; z-index: 100"></a>
 <h1 style="background-image: url(images/headings/request_a_sesame_demo.gif)" title="Request a Sesame Demo">Request a Sesame Demo</h1>
 <div class="divider"></div>
-<p>Fill out and submit this form to request a demo of <a href="tothepoint/orthosesame/" title="To the Point > Ortho Sesame™">Ortho Sesame™</a>, <a href="tothepoint/dentalsesame/" title="To the Point > Dental Sesame™">Dental Sesame™</a>, or <a href="tothepoint/sesamedesign/" title="To the Point > Sesame Design™">Sesame Design™</a>. Or, join us now for an online demo: call 877-633-5193.</p>
+<p>Fill out and submit this form to request a demo of Sesame™ or <a href="tothepoint/sesamedesign/" title="To the Point > Sesame Design™">Sesame Design™</a>. Or, join us now for an online demo: call 877-633-5193.</p>
 <div id="demo_form">
 <form action="/privacy.php" id="demo" method="post">
 <div class="col1">
@@ -52,8 +54,8 @@
 <h3><label for="city_demo">City</label></h3>
 <input id="city_demo" name="city_demo" style="width: 110px" type="text" value="">
 <div style="margin: -40px 0 0 125px">
-<h3><label for="state_demo">State</label></h3>
-<select id="state_demo" name="state_demo" style="width: 70px">
+<h3><label for="practice_state">State</label></h3>
+<select id="practice_state" name="practice_state" style="width: 70px">
 <option value="">Choose…</option>
 <option value="AL">AL</option>
 <option value="AK">AK</option>
@@ -118,10 +120,12 @@
 </div><!-- END CONTENT -->
 <div class="col3">
 <div class="content">
-<h3>Are you an orthodontist or dentist?</h3>
-<input name="ortho_dental_demo" type="hidden" value="">
-<input class="radio" id="practice_demo_orthodontist" name="ortho_dental_demo" type="radio" value="Orthodontist"><label for="practice_demo_orthodontist">Orthodontist</label>
-<input class="radio" id="practice_demo_dentist" name="ortho_dental_demo" type="radio" value="Dentist"><label for="practice_demo_dentist">Dentist</label>
+<h3>Practice type (check all that apply)</h3>
+<input id="practice_type_demo_dentist" name="practice_type_demo_dentist" type="checkbox" value="Dentist"> <label for="practice_type_demo_dentist">Dentist</label>&nbsp;
+<input id="practice_type_demo_pediatric_dentist" name="practice_type_demo_pediatric_dentist" type="checkbox" value="Pediatric Dentist"> <label for="practice_type_demo_pediatric_dentist">Pediatric Dentist</label>
+<br>
+<input id="practice_type_demo_orthodontist" name="practice_type_demo_orthodontist" type="checkbox" value="Orthodontist"> <label for="practice_type_demo_orthodontist">Orthodontist</label>&nbsp;
+<input id="practice_type_demo_periodontist" name="practice_type_demo_periodontist" type="checkbox" value="Periodontist"> <label for="practice_type_demo_periodontist">Periodontist</label>
 <h3 style="margin-top: 4px"><label for="pms_demo">Practice Management Software</label></h3>
 <input class="field" id="pms_demo" name="pms_demo" type="text" value="">
 <h3><label for="pms_demo">Verification Code</label></h3>
@@ -139,7 +143,9 @@ var domain = "sesamecommunications.com";
 document.write('<a href=\"mailto:' + name + '@' + domain + '\" title=\"Email\">email us</a>');
 document.write();
 // -->
-</script><a href="mailto:patientloginsupport@sesamecommunications.com" title="Email">email us</a>.</p>
+</script><a href="mailto:patientloginsupport@sesamecommunications.com" title="Email">email us</a>.
+<br>
+<a href="consultantdemo.php">Click here if you are a <strong>consultant</strong> requesting a demo for a client.</a></p>
 </div><!-- END DEMO_FORM -->
 </div><!-- END CONTENT -->
 </div><!-- END SLIDER --><div id="header">
@@ -147,7 +153,7 @@ document.write();
 <p><a href="/behindthescenes/contact.php" title="Contact Us">Contact Us</a></p>
 </div>
 <a href="#" onclick="Effect.toggle('slider','slide'); return false" style="float: right; margin-right: 10px; outline: none" title="Request a Demo from this page"><img src="images/nav/demo_request.gif" alt="Request a Sesame Demo right from this page"></a>
-<a href="/" title="Sesame Communications™"><img src="images/logos/sesame_communications.gif" alt="Sesame Communications | Online Patient Communications Appointment Reminder Services"></a>
+<a href="/" title="Sesame Communications™"><img src="images/logos/sesame.gif" alt="Sesame Communications | Online Patient Communications Appointment Reminder Services"></a>
 </div><!-- END HEADER --><div id="main_nav">
 <ul id="nav" class="nav">
 <li id="nav_solutions"><a href="getinspired/" title="Get Inspired : Solutions"><b>Get Inspired : Solutions</b>&nbsp;</a>
@@ -222,6 +228,7 @@ document.write();
 		<li><a href="/tothepoint/sesamedesign/bilingual.php">Bilingual Web Sites</a></li>
 		</ul>
 	</li><!-- END SESAME DESIGN -->
+    <li><a href="/tothepoint/invisalign.php">Invisalign® Promotion</a></li>
 	<li><a href="/getinspired/" class="expand">Solutions:</a>
 		<ul>
 		<li><a href="/getinspired/productivity/">Maximize Productivity</a></li>
@@ -246,7 +253,8 @@ document.write();
 	</ul>
 	</li><!-- END THE NEWS ROOM -->
 	<li><a href="/thebuzz/success.php">Share the Success</a></li>
-	<li><a href="/thebuzz/mos.php">Miles of Smiles™</a></li>
+	<!--<li><a href="/thebuzz/mos.php">Miles of Smiles&trade;</a></li>-->
+    <li><a href="/thebuzz/upcomingevents.php">Upcoming Events</a></li>
 	</ul>
 </li><!-- END SUCCESSES -->
 <li id="nav_support"><a href="/nutsbolts/" title="Nuts &amp; Bolts : Support"><b>Nuts &amp; Bolts : Support</b>&nbsp;</a>
@@ -261,6 +269,7 @@ document.write();
 <li id="nav_about"><a href="/behindthescenes/" title="Behind the Scenes : About Sesame"><b>Behind the Scenes : About Sesame</b>&nbsp;</a>
 	<ul>
 	<li><a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true">Demos</a></li>
+    <li><a href="/behindthescenes/executiveleadership.php">Executive Leadership</a></li>
 	<li><a href="/behindthescenes/newsletter.php">Newsletter Signup</a></li>
 	<li><a href="/behindthescenes/suggestions.php">Suggestion Box</a></li>
 	<li><a href="/behindthescenes/partners.php">Partners</a></li>
@@ -373,6 +382,7 @@ document.write();
 <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://sesamecommunications.com/styles/main.css" title="Valid CSS">CSS</a></p>
 </div><!-- END FOOTER --></div><!-- END CONTAINER -->
 </div><!-- END WRAP -->
+<!-- WebTrends -->
 <script type="text/javascript">
 <!--
 // Modification of this code is not allowed and will permanently disable your account!
@@ -428,5 +438,16 @@ function wtl_Tag5_152859()
 
 wtl_Tag5_152859();
 //-->
-</script><img id="WTL_152859" width="1" height="1" src="https://statse.webtrendslive.com/S152859/button5.asp?tagver=5&amp;si=152859&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=16&amp;cl=K21GNU7&amp;ti=Sesame%20Communications%u2122%20%7C%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20080528052340id_/http%253A//sesamecommunications.com/privacy.php&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_152859" width="1" height="1" src="https://statse.webtrendslive.com/S152859/button5.asp?tagver=5&amp;si=152859&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=16&amp;cl=K21GNU7&amp;ti=Sesame%20Communications%u2122%20%7C%20Online%20Patient%20Communications%20Appointment%20Reminder%20Services%20%7C%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20080914035952id_/http%253A//sesamecommunications.com/privacy.php&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+
+<!-- Google Analtyics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3321532-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 </body></html>
