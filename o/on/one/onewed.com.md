@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430103007id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914193959id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
 
 # Onewed Networks - Privacy policy
 
 **PRIVACY POLICY**  
-_Posted January 14th 2008_
+_Posted July 9th 2008_
 
   
 Onewed.com’s Privacy Policy will help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Onewed.com and its directly associated domains (collectively, "Onewed.com" or "Site")  
 By using or accessing Onewed.com, you are accepting the practices described in this Privacy Policy.  
-This privacy statement covers the site www.onewed.com and its directly associated domains. If you have questions or concerns regarding this statement, you should contact us by mail at Onewed.com Privacy Officer, Mad Frog Productions, Inc., 725 Jackson Street, Suite 216, Fredericksburg, Virginia 22401. 
+This privacy statement covers the site www.onewed.com and its directly associated domains. If you have questions or concerns regarding this statement, you should contact us by mail at Onewed.com Privacy Officer, OneWed, Inc. 676 N. Michigan Ave. Suite 3900, Chicago, IL, 60611. 
 
 **Information Collected By Us**
 
@@ -40,12 +40,12 @@ If the ownership of all or substantially all of the Company changes, your inform
 Advertisements that appear on the Site are sometimes delivered to our users by third party advertisers. Those third parties automatically receive your IP address when this happens. Such advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" to track the effectiveness of their ads and/or to customize ad content. This allows the advertisers to recognize your computer each time they send you an advertisement, to collect information about where your computer or browser saw their advertisements, and to determine which advertisements are clicked. Onewed.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Onewed.com unless you choose to share it with them.  This Privacy Policy covers the use of cookies by Onewed.com and does not cover the use of cookies or other tracking technologies by any of its advertisers.  
 Onewed.com contains links to other websites. We are not responsible for the privacy practices of other sites. Please be aware when you leave the Site to read the privacy statements of each site. This Privacy Policy applies solely to information collected by Onewed.com.
 
-Onewed.com takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. If you enter information such as a credit card number or your password, we encrypt that information using secure socket layer technology (SSL). Email and instant messaging are not regarded as secure media, so please do not send private information to us by email or instant messaging services. If you have any security questions, please contact us by mail at Onewed.com Privacy Officer, Mad Frog Productions, Inc., 725 Jackson Street, Suite 216, Fredericksburg, Virginia 22401
+Onewed.com takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. If you enter information such as a credit card number or your password, we encrypt that information using secure socket layer technology (SSL). Email and instant messaging are not regarded as secure media, so please do not send private information to us by email or instant messaging services. If you have any security questions, please contact us by mail at Onewed.com Privacy Officer, OneWed, Inc. 676 N. Michigan Ave. Suite 3900, Chicago, IL, 60611.
 
 **Policies, Revisions, Notices**
 
 Your use of the Site, including any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all dispute resolution provisions therein, including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
-If you have any questions about this privacy policy, please contact us by mail at Onewed.com Privacy Officer, Mad Frog Productions, Inc., 725 Jackson Street, Suite 216, Fredericksburg, Virginia 22401.
+If you have any questions about this privacy policy, please contact us by mail at Onewed.com Privacy Officer, OneWed, Inc. 676 N. Michigan Ave. Suite 3900, Chicago, IL, 60611.
 
-[Support](http://support.onewed.com/) \- Copyright © 2006, Onewed.com & MFP LLC.
+[Support](http://support.onewed.com/) \- Copyright © 2008, Onewed.com.
