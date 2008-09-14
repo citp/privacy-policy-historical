@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163948id_/http%3A//www.lacounty.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914142551id_/http%3A//www.lacounty.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Los Angeles County
 
