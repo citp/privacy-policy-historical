@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225190207id_/http%3A//www.leadfusion.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914140235id_/http%3A//www.leadfusion.com/privacy.jsp) for the most accurate reproduction.*
 
 # Leadfusion Privacy Policy - financial calculators and email marketing solutions
 
