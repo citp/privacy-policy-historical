@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083420id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914213047id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
 
 # Hookah-Shisha.com Privacy Policy. A secure hookah site you can trust and build confidence in. - Hookah and Shisha Central
 
@@ -28,22 +28,24 @@ Hookah-Shisha.com is obligated to protect your personal information. To prevent 
 
 ### Links to Other Websites:
 
-Hookah-Shisha.com contains hyperlinks to third party Web Sites. Hookah-Shisha.com is not responsible for the privacy practices or the content of said third party Web sites or advertisers. Hookah-Shisha.com does not share any of your personal information to third parties to which we link to. Please check with those Web sites to determine their privacy policy.
+Hookah-Shisha.com contains hyperlinks to third party Web Sites. Hookah-Shisha.com is not responsible for the privacy practices or the content of said third party Web sites or advertisers. Hookah-Shisha.com does not share any of your personal information to third parties to which we link to.  Please check with those Web sites to determine their privacy policy.
 
 ### Disclosure of information to 3rd Parties:
 
 Hookah-Shisha.com may disclose any personal information when required by law or in a good-faith belief that such action is necessary to:
 
-1\. Cooperate with the investigations of purported unlawful activities (including but not limited to: credit card fraud, purchases of our products by minors, and use of our products with controlled substances) and conform to the edicts of state and federal law or comply with legal process served on Hookah-Shisha.com.
+1.  Cooperate with the investigations of purported unlawful activities (including but not limited to: credit card fraud, purchases of our products by minors, and use of our products with      controlled substances) and conform to the edicts of state and federal law or comply with legal process served on Hookah-Shisha.com.  
 
-2\. Protect and defend the rights or property of Hookah-Shisha.com and related properties, or visitors to the Hookah-Shisha.com sites and related properties.
 
-3\. Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the Hookah-Shisha.com network or its related properties.
+2.  Protect and defend the rights or property of Hookah-Shisha.com and related properties, or visitors to the Hookah-Shisha.com sites and related properties.
+
+3.  Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the Hookah-Shisha.com network or its related properties.
 
 ### Legal Notice:
 
-All Hookahs and smoking accessories sold at Hookah-Shisha.com are intended for legal tobacco smoking use by adults (18 years or older) only. Any other use of such products, by minors or for use with controlled substances is punishable by law. Credit card fraud is a felony and we will aggressively prosecute anyone attempting to misuse a credit card number. We track every transaction and will use all means available to prosecute persons attempting fraud. 
+All Hookahs and smoking accessories sold at Hookah-Shisha.com are intended for legal tobacco smoking use by adults (18 years or older) only. Any other use of such products, by minors or for use with controlled substances is punishable by law.  Credit card fraud is a felony and we will aggressively prosecute anyone attempting to misuse a credit card number. We track every transaction and will use all means available to prosecute persons attempting fraud.  
 
 ### Intellectual Property:
 
-All materials including images, illustrations, designs, icons, photographs, logos, slogans, content, source code and other written and visual materials on the Hookah-Shisha.com Website and any of its affiliates are the exclusive copyright, trademark, and/or otherwise noted intellectual property owned and/or licensed by Hookah-Shisha.com. Any misuse of this or any affiliate website may be punishable by law. 
+All materials including images, illustrations, designs, icons, photographs, logos, slogans, content, source code and other written and visual materials on the Hookah-Shisha.com Website and any of its affiliates are the exclusive copyright, trademark, and/or otherwise noted intellectual property owned and/or licensed by Hookah-Shisha.com. Any misuse of this or any affiliate website may be punishable by law.  
+
