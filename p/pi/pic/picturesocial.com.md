@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picturesocial.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422052456id_/http%3A//www.picturesocial.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.picturesocial.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesocial.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914025727id_/http%3A//www.picturesocial.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.picturesocial.com%252F) for the most accurate reproduction.*
 
-# Privacy Policy - PictureSocial - The Social Network for Photographers
+# Privacy Policy - The Photography Social Network - PictureSocial
 
 Updated: February 2007
 
