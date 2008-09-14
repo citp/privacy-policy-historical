@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoregamer.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630074624id_/http%3A//www.hardcoregamer.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D28%26Itemid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoregamer.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914171717id_/http%3A//www.hardcoregamer.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D28%26Itemid%3D30) for the most accurate reproduction.*
 
 # Hardcore Gamer Magazine Online
 
