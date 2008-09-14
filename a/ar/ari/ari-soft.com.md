@@ -1,38 +1,29 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517001116id_/http%3A//ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914163947id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 16/05/2008 ARI Quiz component updated to version 1.2.0.
+  * 04/09/2008 ARI Smile component updated: Yet Another Slideshow added!
 
-ARI Quiz component has been updated to version 1.2.0. 
+ARI Smile component has been updated to version 1.1. New Yet Another Slideshow added. This is highly customizable slideshow that rotates images and shows appropriate text for each picture. Image and text transition types can be changed. 
 
-New 1.2.0 version of ARI Quiz includes question bank. It containts questions that can be added to quizzes. If you change question in question bank all the changes are applied to quizzes that are created on basis of these question.
+ARI Smile component now contains 6 slideshows:
 
-[Joomla 1.0.x demo](http://demo.ari-soft.com/component/option,com_ariquiz/Itemid,13/)
+* Cycling Images - creates image slideshow with cycling effect   
+* Image menu - creates image slideshow with menu effect   
+* Noob slide - highly customizable clideshow  
+* Phafusion - well-known slideshow  
+* Barack slidehow - barack effect slideshow. Uses mootools 1.2  
+* Yet Another Slideshow - new slideshow with different image and text effects
 
-[Joomla 1.5 demo](http://demo2.ari-soft.com/index.php?option=com_ariquiz&Itemid=53)
+Please see/rate the component on [extensions.joomla.org directory](http://extensions.joomla.org/component/option,com_mtree/task,viewlink/link_id,5739/Itemid,35/ "ARI Smile")
 
-Enjoy!
+Demo is available [here](http://www.demo2.ari-soft.com/index.php?option=com_content&view=article&id=50&Itemid=64 "ARI Smile demo") . 
 
-  * 14/05/2008 ARI Windows component available
+  * 28/08/2008 F.A.Q. about ARI Soft products and processes
 
-ARI Windows component is available: it brings new content management approach to Joomla!. 
-
-Features: 
-
-    * User can add new, close, minimize to dock, restore, move, resize, customize and change styles of windows
-    * AJAX technology – no page reloads
-    * Easy to add windows containing internet pages, widgets, Joomla components
-    * Dozens of widgets (e-mail, instant messengers (Google talk, Yahoo!, MSN, AIM), weather, games, RSS & news, date and time, environment information, search engines, rich editor, calendar, web photos, currency converter, stock quote, dictionaries, Joomla! news, map, many others.)  
-
-    * Ability to add/delete/modify widgets
-    * Built-in internationalization support - easy to change resource strings and add new localizations
-    * Component can be used on both Joomla 1.0.x and Joomla 1.5 in legacy mode
-    * Component that might not be similar to any other
-
-Have a look ARI Windows component in action on our demo sites: [Joomla 1.0.x demo](http://demo.ari-soft.com/component/option,com_ariwindows/Itemid,8/) and [ Joomla 1.5 demo](http://demo2.ari-soft.com/index.php?option=com_ariwindows&Itemid=56).
+We've added new forum topic called [F.A.Q.](http://www.ari-soft.com/F.A.Q./232-F.A.Q.html#232 "F.A.Q.") It contains answers for questions that may interest you.
 
 
   
