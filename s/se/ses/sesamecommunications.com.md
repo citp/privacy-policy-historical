@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528052340id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914035952id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.*
 
-# Sesame Communications™ | Privacy Policy
+# Sesame Communications™ | Online Patient Communications Appointment Reminder Services | Privacy Policy
 
 ## Your Right to Privacy, Our Promise of Security
 
