@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellulardeals.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504040816id_/http%3A//shop.cellulardeals.com/help/privacy_fs.asp%3Freferringdomain%3Dcellulardeals%26partdesc%3DCellularDeals.com%26viewmode%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellulardeals.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914203105id_/http%3A//shop.cellulardeals.com/help/privacy_fs.asp%3Freferringdomain%3Dcellulardeals%26partdesc%3DCellularDeals.com%26viewmode%3D1%26) for the most accurate reproduction.*
 
 # Privacy Policy - Protecting Your Privacy and Security - Simplexity
 
@@ -143,11 +143,11 @@ All information submitted is protected by our secure server, which automatically
 
 ## Reviewing Your Information
 
-If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if you no longer wish to continue your service with us, simply send your request via certified mail to Simplexity, LLC, 11130 Sunrise Valley Drive, Suite 300, Reston, VA 20191. You may also send your request via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if you no longer wish to continue your service with us, simply send your request via certified mail to Simplexity, LLC, 11130 Sunrise Valley Drive, Suite 300, Reston, VA 20191. You may also send your request via the Customer Support feedback section in our [Customer Support](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 ## Contact Us
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/).
+If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us via the Customer Support feedback section in our [Customer Support](http://www.whereismyorder.com/).
 
 ## Updates and Notification of Changes
 
