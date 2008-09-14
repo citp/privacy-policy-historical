@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423014108id_/http%3A//www.dieselbombers.com/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915001415id_/http%3A//www.dieselbombers.com/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
 
 # Diesel Bombers - FAQ: vBulletin FAQ
 
