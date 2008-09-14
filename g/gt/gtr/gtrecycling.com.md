@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420143832id_/http%3A//www.gtrecycling.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914113205id_/http%3A//www.gtrecycling.com/privacy.htm) for the most accurate reproduction.*
 
 # GreenTech International Ltd - Privacy Statement
 
