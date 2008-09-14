@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tohair.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512060033id_/http%3A//www.tohair.com/help-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tohair.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915010407id_/http%3A//www.tohair.com/help-privacy_policy.html) for the most accurate reproduction.*
 
 # Tohair.com | Privacy Policy
 
-  [Home ](https://web.archive.org/web/20080512060033id_/http%3A//www.tohair.com/)> Help> Privacy Policy  
+  [Home ](https://web.archive.org/web/20080915010407id_/http%3A//www.tohair.com/)> Help> Privacy Policy  
   
 |   
 ---  
