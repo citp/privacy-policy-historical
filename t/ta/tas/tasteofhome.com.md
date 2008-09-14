@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616000644id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914073137id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
 
 # Info: Privacy Policy | Taste of Home
 
@@ -104,7 +104,3 @@ USA
 Phone: (414) 423-0100
 
 Policy last updated December 2007
-
-[](http://www.tasteofhome.com/rd.asp?id=7410 "Taste of Home - Try it Risk Free")
-
-[](http://www.bestsimplerecipes.com/rd.asp?id=1270 "Simple & Delicious - Free Issue Offer")
