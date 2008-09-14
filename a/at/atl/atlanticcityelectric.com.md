@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcityelectric.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501052522id_/http%3A//www.atlanticcityelectric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcityelectric.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914182856id_/http%3A//atlanticcityelectric.com/privacy) for the most accurate reproduction.*
 
 # Atlantic City Electric - Privacy Policy
 
