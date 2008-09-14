@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430121047id_/http%3A//www.medicalconnections.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914092605id_/http%3A//www.medicalconnections.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome To Medical Connections - Connecting You With The Best Medical Professionals
 
 ---  
-Currently Viewing: [Home](https://web.archive.org/web/20080430121047id_/http%3A//index.asp) > [Privacy](https://web.archive.org/web/20080430121047id_/http%3A//www.medicalconnections.com/privacy.asp)   
+Currently Viewing: [Home](https://web.archive.org/web/20080914092605id_/http%3A//index.asp) > [Privacy](https://web.archive.org/web/20080914092605id_/http%3A//www.medicalconnections.com/privacy.asp)   
 
 
 Medical Connections is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This privacy statement explains data collection and use in those situations. This privacy statement only applies to Medicalconnections.com; it does not apply to other online or offline Medical Connections sites. 
