@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200413id_/http%3A//www.thebudgetfashionista.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914121642id_/http%3A//www.thebudgetfashionista.com/main/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY and DISCLAIMER
 
