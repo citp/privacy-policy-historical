@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanjobs.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629193748id_/http%3A//www.americanjobs.com/my.job/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanjobs.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914152729id_/http%3A//www.americanjobs.com/my.job/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Find jobs in the United States at AmericanJobs.com
 
