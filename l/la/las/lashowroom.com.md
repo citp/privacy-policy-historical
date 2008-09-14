@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628233215id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914062716id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
 
 # LAShowroom.com - Privacy Policy
 
