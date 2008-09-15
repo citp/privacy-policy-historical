@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610130222id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915020522id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
 
 # dealighted.com Privacy Policy
 
