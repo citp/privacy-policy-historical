@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.com.pk privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614233949id_/http%3A//www.careerjet.com.pk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.com.pk privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915120800id_/http%3A//www.careerjet.com.pk/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
