@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526013235id_/http%3A//www.therandomforest.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915185637id_/http%3A//www.therandomforest.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -34,6 +34,6 @@ If you have any questions or suggestions regarding www.therandomforest.com priva
 
 Policy wording supplied by [www.aaroncook.com](http://www.aaroncook.com/)
 
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 3% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
 **Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
