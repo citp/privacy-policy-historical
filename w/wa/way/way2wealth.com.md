@@ -1,78 +1,89 @@
-> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003102716id_/http%3A//www.way2wealth.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915065309id_/http%3A//www.way2wealth.com/company/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy << WAY2WEALTH.COM >>
+# Way2Wealth - Privacy Statement
 
-  
-This statement as appearing hereinafter sets out the policies of Way2wealth Securities Private Limited ("w2wS") relating to the personal information of its registered customers/clients ("Client") as users of its portal, Way2wealth.com ("Portal"). It applies to the conduct of the Client on the Portal. These policies are in addition to w2wS's general Terms and Conditions of use governing the Portal and should be read in conjunction with such Terms and Conditions of use. 
+## Introduction
 
-**Standards of Privacy**
+We, Way2Wealth Brokers Private Limited, its associate concerns, directors and employees (hereinafter jointly and severally referred to as “Way2Wealth”) maintain, operate / own the web site accessible from the URL [www.way2wealth.com](http://www.way2wealth.com/) (the 'Web Site') would like to thank you for visiting our Website. Respecting the Privacy and choices of our clients and Visitors is important for us. We hope that the information provided below will address any questions or concerns you may have about Privacy issues.
 
-W2wS is committed to protecting the Client's personal information. W2wS will comply with any laws introduced to strengthen protections for Clients' privacy. 
+## Personal Information / Disclosure Of Information
 
-**Information Collection**
+We at Way2Wealth hereby acknowledge and accept that the details that are collected for opening your account(s), to process transactions and to help us provide a better level of service to you, are kept confidential and would be used only in the manner which would be beneficial to you. We consider our relationship with you as invaluable and strive to respect and safeguard the right to privacy   
+The personal information that we collect from you may be classified into three parts.
 
-W2wS will not collect or monitor any personal information about the Client without the Client's consent unless it is believed that the same is necessary: 
-
-  * Because it is required under any order of the Court or Directions of any statutory Authority or by law.  
-
-  * To provide the Client with the service which the Client has requested w2ws to provide.  
-
-  * To implement w2wS's terms of service.   
-
-  * To protect the rights or property of w2wS, any other user of the Portal.   
-
-  * To conduct studies, for the purpose of research and analysis.  
+  1. Personally Identifiable Information 
+  2. Transaction details. 
+  3. System information 
 
 
-  
-The Client should provide the requisite information directly, during the Client's identification when using the services or by such other means as would be required by w2wS from time to time.
 
-Personal information of Clients will not be sold or otherwise transferred to unaffiliated third parties without the approval of the Client at the time of collection. At such points of collection, the Client will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from w2wS and/or any third parties. 
+Personally Identifiable Information: This comprises of the information provided by you to us at the time of opening the account with us or registering with us. The information includes the name, address, phone number, email address and other such information as is required by us from time to time based on regulatory requirement or any other requirement.
 
-The amount of information to be collected about the Client depends on how the Client uses the Portal and the same shall be sole discretion of w2wS. 
+Transaction details: Information regarding your investments, including balances, positions, and history of transactions is available with us.
 
-**Use and disclosure of personal information**
+System information: Information about your computer hardware and software including information like your IP address, browser type, domain names, access times and referring Web site addresses etc that may be collected by the website 
 
-W2wS will not use or disclose any information about the Client without the Client's consent unless:
+We will protect the Personally Identifiable Information with the same degree of care, but no less than a reasonable degree of care, to prevent the unauthorized use, dissemination, or publication of this information as we protect our own confidential information of a like nature
 
-  * It is required to do so under any order of any Court or directions of any statutory authority or otherwise required by law.  
+We would not disclose the personal information to third parties, except under the following circumstances:
 
-  * It necessary to provide the Client with the service, which the Client has requested.  
-
-  * It is necessary to implement its terms and conditions of service.   
-
-  * It is required to protect the rights or property of w2wS, any other user of the Portal.   
+  1. We may use your personal information to improve our service to you and to keep you updated about our new product or information that may be of interest to you. 
+  2. Your personal information may be used by Way2Wealth and its Affiliates for the purpose of offering you products and/or services that may interest you and help you learn about products and/or services that are offered to the public by Way2Wealth and its Affiliates 
+  3. We may disclose your personal information to companies that provide support services for processing your application and transactions and such disclosure would be limited to the performance of the specific service we have requested. 
+  4. We may disclose your personal information in limited circumstances where disclosures have to be made under the various regulations of Indian Laws or to any governmental agency or regulatory bodies. 
 
 
-  
-In order to operate the Portal or deliver a service w2wS may sometimes share the Client's personal information with an affiliate or with a service partner or preferred alliances. W2wS will not otherwise disclose personal information of its Client to other companies without the Client's explicit consent. 
 
-Although w2wS will maintain the privacy of all the information that the Clients send to them, the Clients hereby authorise w2wS a perpetual, irrevocable, fully paid up license to use the submissions for any purpose whatsoever.
+Provided that nothing contained herein shall be deemed to restrict our right to make available any information as may be procured by us to such a third party as may be consented to by you in writing
 
-W2wS reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. W2wS will provide only aggregated data from these analyses to third parties. Also, Clients should be aware that w2wS may sometimes permit third parties to offer subscription and/or registration-based services through its site. 
+We may also ensure that your personal information is protected by confidentiality agreement with third party whenever it is disclosed to a third party, so as to enable such a third party to provide you certain specified services. 
 
-**Storage and security of personal information**
+SUPPLEMENATAL INFORMATION
 
-W2wS will endeavor to take all reasonable steps to keep secure any information, which it will hold about the Client, and to keep this information accurate and up to date. The information is stored on secure servers that are protected in controlled facilities. In addition, w2wS's employees and data processors are obliged to respect the confidentiality of any personal information held by w2wS. However, w2wS will not be held responsible for events arising from unauthorized access to the Client's personal information. 
+We may also record information about your computer hardware and software including information like your IP address, browser type, domain names, access times and referring Web site addresses etc that may be collected by website. This information may be used by us for the operation of the service, to maintain quality of the service, and to provide general statistics regarding the use of the website
 
-The Client shall keep the personal information secure, by maintaining the confidentiality of any password and accounts used on the Portal. The Client shall notify w2wS immediately if there is any unauthorized use of the Client's account by any other Internet user or any other breach of security. 
+LINKS AND CO-BRANDED SITES  
+We encourage you to review the privacy statements of other Web sites to which links may be provided through way2wealth.com so that you are aware of the privacy policies of these web sites too. We are not responsible for the privacy statements or other content on web sites outside of those of way2wealth.com
 
-**Access to the information**
+## SECURITY POLICY
 
-If at any time the Client wants to know exactly what personal information any part of the Portal is holding about the Client, The Client may request w2wS for the same. The Client's information file will be made available to the Client.
+We ensure that the personal information given to us by you at the time of filling up the application form and the client agreement would be stored in a safe and secure place. 
 
-**Changes in information**
+We ensure that the personal information on the web is placed in the secured portion of our web-site. **_We use an advanced 128 bit encryption technology, the Secure Socket Layer (SSL), which is one of the best available technology to ensure that the information transmitted between you and us across the Internet is safe and cannot be accessed by any outsider. SSL has been universally accepted on the World Wide Web for authenticated and encrypted communication between clients and servers. PLEASE CONFIRM_**
 
-If at any time the Client wishes to change personal information that is inaccurate or out of date, or if the Client wishes to have the personal information deleted the Client shall contact w2wS and w2wS will take all reasonable steps to change or delete it, as the case may be, unless it is required to be kept for legal reasons.
+Whenever you close your account(s) with way2wealth.com, all records pertaining to your information would be kept for such period of time as is required by law and/or any other regulatory bodies
 
-**Links to other websites**
+##  USER NAMES AND PASSWORDS
 
-The Portal provides links to websites outside of the w2wS service. These linked sites are not under the control of w2wS, and as such w2wS shall not be responsible for the conduct of companies/banks/other entities linked to the Portal. Before disclosing personal information on any other website, the Client is advised to examine the terms and conditions of using the respective websites. 
+To ensure security of access to the personal information and transaction details, the access to the secured zone of our website is restricted by the unique login ID and Password selected by you. You should be very careful in handling the ID and password and you should ensure that you do not reveal it to anybody, nor do you keep it in writing. You should keep changing your password periodically. _As a matter of precaution, we always give the details of your last login each time you log on to our site_. _In case you feel that the detail is not matching with your last login profile, it should give you an indication that somebody has been able to crack your login and password and is having unauthorised access to your details. In such circumstance, you should immediately change the password and also inform us about it_. 
 
-A possibility exists that the Portal could include inaccuracies or errors. Additionally, there is a possibility that unauthorised additions, deletions or alterations could be made by third parties to the Portal. Although w2wS attempts to ensure the integrity of the Portal, it makes no guarantees whatsover as to its completeness, correctness or accuracy. In the event that such an inaccuracy arises, please inform w2wS of the same, so that it can be corrected. 
+To ensure safety of your trading access, our technology automatically logs you out of the site if no activity is registered for __ minutes. However you should ensure that each time you leave your terminal you log yourself out. This prevents someone else from accessing your account if you leave your computer and your session has not "timed out" 
 
-Clients are also being aware that non-personal information and data may be automatically collected through the standard operation of w2wS's Internet servers or through the use of "cookies." "Cookies" are small text files a website can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Clients are also being made aware that w2wS cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for w2wS. 
+COOKIES & WEB BEACONS  
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-**Future changes**
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services
 
-W2wS reserves the right to change its privacy policy at any time and notify the Client by posting an updated version of the policy on its Portal. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. . 
+"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes.
+
+_**Third-Party Advertisement Servers:**_  
+way2wealth.com engages the services of an outside advertisement company to display advertisement on the Web Site. These advertisements may contain cookies. While way2wealth.com uses cookies in other parts of the Web Site, cookies received with banner advertisements are collected by the Advertisement Company, and way2wealth.com does not have access to this information
+
+**_Individual Registration, Access and Exchange of Information_** ****  
+For certain services such as web pages, contests and accessing data, registration might be required. By registering, you agree to the following terms in addition to any other specific terms which shall be posted at an appropriate location of the Site. Each registration is for a single individual user only. To access these services, you will be asked to enter your individual User Name and Password. Therefore, we do not permit any of the following:- 
+
+  1. Any other person sharing your User Name and Password 
+  2. Any part of the Site being cached in proxy servers and accessed by individuals who have not registered with way2wealth as users of the Site 
+  3. Access through a single User Name and Password being made available to multiple users on a network. If we reasonably believe that a User Name and Password are being used in any of these ways, we reserve the right to cancel access rights immediately without notice, and block access to all users from that IP address. 
+
+
+
+All information, data, text, software, music, sound, photographs, graphics, video, messages or other materials, whether publicly or privately transmitted/posted, is the sole responsibility of the person from where such content originated. You shall be solely responsible for all content that you upload, post or otherwise transmit. way2wealth does not control the content posted via chat and other community services and, as such, does not guarantee the accuracy, integrity or quality of such content. You understand that by using such services, you may be exposed to objectionable matter. Under no circumstances will way2wealth be liable in any way for any content, including, but not limited to, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any content posted, uploaded on this site.
+
+You may also not indulge in cyber stalking become or create a nuisance for any person. You may not send, submit, post, or otherwise transmit, messages or material that contain software virus, or any other files that are designed to interrupt, destroy, and negatively affect in any manner whatsoever, any electronic equipment in connection with the use of this site, or other user's ability to engage in real time exchanges.
+
+**_Change In Policy_**  
+www.way2wealth.com may at any time revise the Terms by updating the then-current version thereof posted on this web site. By using this web site, you agree to be bound by any such revisions and should therefore periodically visit this page of this web site to determine the most current version of the Terms to which you are bound. Changes could be made by us after the first posting to the Site and you will be deemed to have accepted any change if you continue to access the Site after that time.   
+Certain provisions of the Terms may be superseded by expressly designated legal notices or terms located on particular pages at this web site. This Site reserves the right to modify, suspend/cancel, or discontinue any or all channels, or service at any time without notice, make modifications and alterations in any or all of the content, products and services contained on the site without prior notice
+
+[TOP](http://www.way2wealth.com/company/privacy.php#)
