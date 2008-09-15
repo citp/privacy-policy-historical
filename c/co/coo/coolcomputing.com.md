@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509155235id_/http%3A//www.coolcomputing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915021109id_/http%3A//www.coolcomputing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # CoolComputing - Privacy Policy
 
