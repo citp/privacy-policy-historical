@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505001513id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915121402id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.*
 
-# Great Nonprofits | Privacy
-
-## Privacy
+# None
 
 ### Our Commitment To Privacy
 
@@ -18,19 +16,23 @@ Some information collected is not explicitly submitted by the user; we log your 
 
 ### How We Use Information
 
-Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
+Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the “Account” tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer GreatNonprofits, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
 
 We use return email addresses to answer the email we receive. We do not, however, sell, rent or trade our volunteer, administrator, nonprofit, or general newsletter email addresses to outside parties.
 
+Please be aware that, to the extent required to provide our services, we share your Information with volunteers, nonprofit organizations, or our Partners, as applicable:
+
 ### For Newsletter Subscribers
 
 We may use our email lists for sending out our newsletter and other GreatNonprofits outbound communications, such as product enhancements, tool upgrades, or membership news.
 
+Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner’s Web site: If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the GreatNonprofits service.
+
 ### For Nonprofit Organizations
 
-If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information with selected Partners in order to verify your organization’s identity and tax status.
+If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information (excluding your EIN number) will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information, including your EIN number, with selected Partners in order to verify your organization’s identity and tax status.
 
 ### Children’s Privacy
 
@@ -80,6 +82,6 @@ You should visit this page periodically to review any changes to the Privacy Pol
 
 ### How To Contact Us
 
-We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with GreatNonprofits. Please send email to support@greatnonprofits.org or you can send snail mail to 695 Arkansas St., San Francisoc, CA 94107.
+We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with GreatNonprofits. Please send email to support@greatnonprofits.org or you can send snail mail to 695 Arkansas St., San Francisco, CA 94107.
 
 Effective Date: March 30, 2007
