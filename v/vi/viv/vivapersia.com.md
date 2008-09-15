@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivapersia.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509044618id_/http%3A//www.vivapersia.com/terms.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivapersia.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915171452id_/http%3A//www.vivapersia.com/terms.php%23privacy) for the most accurate reproduction.*
 
 # Viva Persia| Terms of Service and Privacy Policy
 
