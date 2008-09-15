@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omantel.net.om privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224153013id_/http%3A//www.omantel.net.om/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omantel.net.om privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915073024id_/http%3A//www.omantel.net.om/policy/privacy.asp) for the most accurate reproduction.*
 
 # Oman Telecommunication Website - Privacy Policy
 
