@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161812id_/http%3A//www.sleeter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915064842id_/http%3A//www.sleeter.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
