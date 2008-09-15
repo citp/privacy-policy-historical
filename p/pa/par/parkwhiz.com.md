@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522000838id_/http%3A//www.parkwhiz.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915045315id_/http%3A//www.parkwhiz.com/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ParkWhiz
 
