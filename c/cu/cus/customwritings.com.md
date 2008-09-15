@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515193855id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | We take confidentiality and privacy very seriously!
 
@@ -87,10 +87,10 @@ Otherwise, if you need custom written essay or research paper on a general topic
 
 **20 $ / page**  
   
-Note: The prices in this table are given for 2-weeks orders. Please see the [full price table for detailed prices](https://web.archive.org/web/20080515193855id_/http%3A//www.customwritings.com/pricing.html).  
+Note: The prices in this table are given for 2-weeks orders. Please see the [full price table for detailed prices](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/pricing.html).  
   
 Authenticity of the writing and confidentiality of all information are guaranteed. We do not reuse ANY papers and we keep user information private.
 
 |   
   
-****[](https://web.archive.org/web/20080515193855id_/http%3A//www.customwritings.com/order.html)
+****[](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/order.html)
