@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owntruth.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415100635id_/http%3A//www.owntruth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owntruth.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915023407id_/http%3A//owntruth.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,5 +37,5 @@ CONTACTING THE WEBSITE
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at The support system in your control panel 
 
-[click here to sign up for free hosting](https://web.archive.org/web/20080415100635id_/http%3A//www.owntruth.com/signup.php)  
+[click here to sign up for free hosting](https://web.archive.org/web/20080915023407id_/http%3A//owntruth.com/signup.php)  
 
