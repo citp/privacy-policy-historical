@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512035913id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916005630id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
-# AmeriCorps
+# AmeriCorps.gov > Security and Privacy Policy
 
 ### Disclaimer 
 
@@ -26,7 +26,7 @@ The Corporation collects and maintains a limited amount of personally identifiab
 
 To obtain a copy of a PIA for an information system, please contact: 
 
-Rudy Mazariegos  
+Richard A. Friend  
 Chief Information Officer and Senior Agency Official for Privacy  
 Corporation for National and Community Service  
 1201 New York Avenue, NW  
@@ -54,38 +54,47 @@ Our recent FISMA system security assessments confirmed that all current Corporat
 
 * * *
 
-### Record of Service
+### AmeriCorps Alumni Profile Card (AmeriCorps eCommunity)
 
-Your e-mail address is only used because it is the best way for you to sign in with a unique identity that's easy to remember. No e-mail will be sent to you unless you ask for it. We do not share e-mail addresses with third-parties, other than to manage our database.
+PUBLIC BURDEN STATEMENT: The Agency informs the potential person who is to respond to the collection of information that such person is not required to respond to the collection of information unless it displays a currently valid OMB Control Number. Any Comments regarding this collection of information send to: (See 5 C.F.R. 1320.5(b)(2)(i).) 
 
-Privacy Act Statement: In compliance with the Privacy Act of 1974, the following information is provided. The collection of this information is authorized by the National and Community Service Act, as amended by the National and Community Service Trust Act of 1993. The primary purpose of the user account is to provide a means that allows individuals to record, track, and provide comment on their volunteer services. Users may also elect to be provided with additional information about other service opportunities. Providing this information is voluntary. All information contained in each user account is available only to the Corporation, on behalf of USA Freedom Corps, and will not be provided to any organization outside the Corporation. 
+PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. The purpose of the card is to enhance communication between the Corporation for National and Community Service (Hereinafter "CNCS") and former members to provide them with information on CNCS activities and to seek their assistance in volunteer recruitment activities. The information must also be used for general routine uses described in 65 FR 46890, providing the information is voluntary. It will not be disclosed outside he government without written permission.
 
-Public Burden Statement: Public reporting burden for this collection of information is estimated at 3 minutes, which includes the initial log-on, providing initial profile user, recording of volunteer service information, and log-off from the diary. Comments on the burden or content of the instrument may be sent to the Corporation for National and Community Service, Attn: Director, Public Affairs, 1201 New York Avenue, N.W., Washington, D.C., 20525. (5 C.F.R. 1320.5(b)(2)(b)) The Corporation informs the potential persons who wish to respond to the collection of information that such persons are not required to respond to the collection of information unless it displays a currently valid OMB control number which is located on this website. 
-
-**OMB Control Number:** 3045-0077  
- **Expiration Date:** February 28, 2009
+**OMB Control Number:** 3045-0048  
+ **Expiration Date:** November 30, 2010
 
 * * *
 
 ### AmeriCorps Member Application
 
-Public Burden Statement: Public reporting burden for this collection of information is estimated to average 45 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: Denise Yeager, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
+PUBLIC BURDEN STATEMENT: Public reporting burden for this collection of information is estimated to average 45 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: Denise Yeager, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
 
 PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to participate in AmeriCorps programs. The principal purpose for requesting this personal information is to process your application for acceptance into an AmeriCorps program, and for other general routine purposes associated with your participation in an AmeriCorps program. These routine purposes may include disclosure of the information to federal, state, or local agencies pursuant to lawfully authorized requests, to present and former employers, references provided by you in your application, and educational institutions, for the purpose of verifying the information provided by you in your application. In some programs, the information may also be provided to federal, state, and local law enforcement agencies to determine the existence of any prior criminal convictions. The information will not otherwise be disclosed to entities outside of AmeriCorps and the Corporation for National Service without your prior written permission.
 
 **OMB Control Number:** 3045-0054  
  **Expiration Date:** January 31, 2009
 
+### Project Registration System
+
+PUBLIC BURDEN STATEMENT: Public reporting burden for this collection of information is estimated to average 20 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: David Premo, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
+
+PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to use the Project Registration System. The principal purpose for requesting this information is to evaluate the effectiveness, reach, scope and range of national service projects. The information, at the option of the registrant, may use the site to display information about the project and to recruit volunteers. The information will be used by Corporation employees, potential volunteers, and volunteer project administrators. The information will not otherwise be disclosed to entities outside the Corporation for National Service without your prior written permission. 
+
+**OMB Control Number:** 3045-0122  
+ **Expiration Date:** November 30, 2009
+
 * * *
 
-### AmeriCorps Alumni Profile Card (AmeriCorps eCommunity)
+### Record of Service
 
-Public Burden Statement: The Agency informs the potential person who is to respond to the collection of information that such person is not required to respond to the collection of information unless it displays a currently valid OMB Control Number. Any Comments regarding this collection of information send to: (See 5 C.F.R. 1320.5(b)(2)(i).) 
+Your e-mail address is only used because it is the best way for you to sign in with a unique identity that's easy to remember. No e-mail will be sent to you unless you ask for it. We do not share e-mail addresses with third-parties, other than to manage our database.
 
-PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The collection of the information is authorized by provisions of the Domestic Volunteer Service Act, 1973 (42 U.S.C. 4950, et seq). The purpose of the card is to enhance communication between the Corporation for National and Community Service (Hereinafter "CNCS") and former members to provide them with information on CNCS activities and to seek their assistance in volunteer recruitment activities. The information must also be used for general routine uses described in 65 FR 46890, providing the information is voluntary. It will not be disclosed outside he government without written permission.
+PUBLIC BURDEN STATEMENT: Public reporting burden for this collection of information is estimated at 3 minutes, which includes the initial log-on, providing initial profile user, recording of volunteer service information, and log-off from the diary. Comments on the burden or content of the instrument may be sent to the Corporation for National and Community Service, Attn: Director, Public Affairs, 1201 New York Avenue, N.W., Washington, D.C., 20525. (5 C.F.R. 1320.5(b)(2)(b)) The Corporation informs the potential persons who wish to respond to the collection of information that such persons are not required to respond to the collection of information unless it displays a currently valid OMB control number which is located on this website. 
 
-**OMB Control Number:** 3045-0048  
- **Expiration Date:** October 31, 2007
+PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. The primary purpose of the user account is to provide a means that allows individuals to record, track, and provide comment on their volunteer services. Users may also elect to be provided with additional information about other service opportunities. Providing this information is voluntary. All information contained in each user account is available only to the Corporation, on behalf of USA Freedom Corps, and will not be provided to any organization outside the Corporation. 
+
+**OMB Control Number:** 3045-0077  
+ **Expiration Date:** February 28, 2009
 
 * * *
 
