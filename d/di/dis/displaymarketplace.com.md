@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the displaymarketplace.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429204545id_/http%3A//www.displaymarketplace.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displaymarketplace.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915192554id_/http%3A//www.displaymarketplace.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Emediate Privacy Policy
 
