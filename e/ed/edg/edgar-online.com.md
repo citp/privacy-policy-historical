@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613235920id_/http%3A//www.edgar-online.com/footer/privacy.aspx%3Fcorporate%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915035700id_/http%3A//www.edgar-online.com/footer/privacy.aspx%3Fcorporate%3Dtrue) for the most accurate reproduction.*
 
 # EDGAR Online
 
