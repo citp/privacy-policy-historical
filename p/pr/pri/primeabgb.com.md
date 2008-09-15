@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506205100id_/http%3A//www.primeabgb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D30%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915114533id_/http%3A//www.primeabgb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D30%26Itemid%3D64) for the most accurate reproduction.*
 
 # primeabgb - Privacy
 
@@ -40,7 +40,7 @@ We may employ other companies or individuals to provide certain services to us s
 Security  
 We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information, including online ordering, order status, catalog request and most contest forms. Your name, your personal information and especially your credit card number are safely stored in our proprietary systems behind our firewall. Once you type your personal information, it is sent instantly, encrypted, directly to our order processing system which is on a server separate from our internet server.
 
-[Forum](https://web.archive.org/web/20080506205100id_/http%3A//www.primeabgb.com/index.php?option=com_content&task=view&id=56&Itemid=64)
+[Forum](https://web.archive.org/web/20080915114533id_/http%3A//www.primeabgb.com/index.php?option=com_content&task=view&id=56&Itemid=64)
 
   |   
 ---|---
