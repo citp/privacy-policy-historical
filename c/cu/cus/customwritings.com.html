@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2008-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515193855id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2008-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -161,51 +161,221 @@ prices.push(32);
 prices.push(37);
 prices.push(45);
 
+// rewriting = -30%
+prices[600] = 7;
+prices.push(8);
+prices.push(10);
+prices.push(11);
+prices.push(13);
+prices.push(15);
+prices.push(17);
 
+prices.push(9);
+prices.push(10);
+prices.push(12);
+prices.push(13);
+prices.push(15);
+prices.push(18);
+prices.push(22);
+
+prices.push(10);
+prices.push(11);
+prices.push(13);
+prices.push(15);
+prices.push(18);
+prices.push(20);
+prices.push(26);
+
+prices.push(16);
+prices.push(17);
+prices.push(18);
+prices.push(21);
+prices.push(22);
+prices.push(26);
+prices.push(32);
+
+// formatting = -60%
+
+prices.push(4);
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(10);
+
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(10);
+prices.push(12);
+
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(10);
+prices.push(11);
+prices.push(15);
+
+prices.push(9);
+prices.push(10);
+prices.push(11);
+prices.push(12);
+prices.push(13);
+prices.push(15);
+prices.push(18);
+
+
+// editing = -40%
+
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(11);
+prices.push(13);
+
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(11);
+prices.push(13);
+prices.push(15);
+
+prices.push(7);
+prices.push(8);
+prices.push(9);
+prices.push(10);
+prices.push(12);
+prices.push(14);
+prices.push(17);
+
+prices.push(10);
+prices.push(12);
+prices.push(13);
+prices.push(15);
+prices.push(16);
+prices.push(19);
+prices.push(22);
+
+
+// profreading = -70%
+prices.push(4);
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(10);
+prices.push(12);
+
+prices.push(4);
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(10);
+prices.push(12);
+
+prices.push(4);
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(10);
+prices.push(12);
+
+prices.push(4);
+prices.push(5);
+prices.push(6);
+prices.push(7);
+prices.push(8);
+prices.push(10);
+prices.push(12);
+//
 prevlvl = 0;
 
+
+//
 function showdlselector() {
 	var corslevel = document.getElementById('corslevel').value;
 	for(var i=1; i<=4; i++) {
 		document.getElementById('deadline' + i).style.display='none';
 		document.getElementById('deadline' + i).disabled = true;
 	}
+	
+	for(var i=11; i<=14; i++) {
+		document.getElementById('deadline' + i).style.display='none';
+		document.getElementById('deadline' + i).disabled = true;
+	}
+	for(var i=21; i<=24; i++) {
+		document.getElementById('deadline' + i).style.display='none';
+		document.getElementById('deadline' + i).disabled = true;
+	}
+	for(var i=31; i<=34; i++) {
+		document.getElementById('deadline' + i).style.display='none';
+		document.getElementById('deadline' + i).disabled = true;
+	}
+	for(var i=41; i<=44; i++) {
+		document.getElementById('deadline' + i).style.display='none';
+		document.getElementById('deadline' + i).disabled = true;
+	}
+	
+	
 	if (corslevel == '') {
 		document.getElementById('deadline0').style.display='block';
 		return;
 	}
-
+	// my mod
+	
+	var typeofserv = '';
+	if(document.getElementById('typeofservice').value == 'Rewriting')
+	{
+		typeofserv = '1';
+		document.getElementById('deadline0').style.display='none';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
+		
+		
+	}
+	else
+	if(document.getElementById('typeofservice').value == 'Formatting')
+	{
+		typeofserv = '2';
+		document.getElementById('deadline0').style.display='none';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
+	}
+	else 
+	if(document.getElementById('typeofservice').value == 'Editing')
+	{
+		typeofserv = '3';
+		document.getElementById('deadline0').style.display='none';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
+	} else
+	if(document.getElementById('typeofservice').value == 'Proofreading')
+	{
+		typeofserv = '4';
+		document.getElementById('deadline0').style.display='none';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
+		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
+	} else // end my mod
+	{ // kill
+	typeofserv = '';
 	document.getElementById('deadline0').style.display='none';
 	document.getElementById('deadline' + corslevel).style.display='block';
 	document.getElementById('deadline' + corslevel).disabled = false;
+	} // kill
+	
 	if (prevlvl != 0) {
-		document.getElementById('deadline' + corslevel).selectedIndex = document.getElementById('deadline' + prevlvl).selectedIndex;
+		document.getElementById('deadline' + typeofserv +''+ corslevel).selectedIndex = document.getElementById('deadline' + typeofserv + prevlvl).selectedIndex;
 	}
 	prevlvl = corslevel;
-}
-function pad_with_zeros(rounded_value, decimal_places) {
-	var value_string = rounded_value.toString()
-	var decimal_location = value_string.indexOf(".")
-	if (decimal_location == -1) {
-		decimal_part_length = 0
-		value_string += decimal_places > 0 ? "." : ""
-	}
-	else {
-		decimal_part_length = value_string.length - decimal_location - 1
-	}
-	var pad_total = decimal_places - decimal_part_length
-	if (pad_total > 0) {
-		for (var counter = 1; counter <= pad_total; counter++)
-		value_string += "0"
-	}
-	return value_string;
-}
-
-function round_decimals(original_number, decimals) {
-	var result1 = original_number * Math.pow(10, decimals);
-	var result2 = Math.round(result1);
-	var result3 = result2 / Math.pow(10, decimals);
-	return pad_with_zeros(result3, decimals);
 }
 
 function total_charge() {
@@ -221,12 +391,24 @@ function total_charge() {
 		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br />when you`ll submit the form. This coupon code will give you discount for one page.';
 	}
 	try {
-		var deadline_selected_val = document.getElementById('deadline'+document.getElementById('corslevel').value).value;
+		
+		// mod by me
+		var typeofserv = '';
+		if(document.getElementById('typeofservice').value == 'Rewriting')
+		{ typeofserv = '1'; }
+		if(document.getElementById('typeofservice').value == 'Formatting')
+		{ typeofserv = '2'; }
+		if(document.getElementById('typeofservice').value == 'Editing')
+		{ typeofserv = '3'; }
+		if(document.getElementById('typeofservice').value == 'Proofreading')
+		{ typeofserv = '4'; }
+		
+		var deadline_selected_val = document.getElementById('deadline'+typeofserv+document.getElementById('corslevel').value).value;
 	}
 	catch(err) {
 		return;
 	}
-	if (corselevel == false) {
+	if (corselevel == '') {
 		document.getElementById('totcharg').value = "0.00";
 		document.getElementById('totcharg_span').innerHTML = "Select course level first!";
 		return;
@@ -257,8 +439,8 @@ function total_charge() {
 	if (!isNaN(totcharg))
 	{
 		document.getElementById('totcharg').value = totcharg;
-		if (percent != 0) {
 			var discount_value = round_decimals(totcharg * percent / 100, 2);
+		if (percent != 0) {
 			var end_price = round_decimals(totcharg - discount_value, 2);
 			document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount ($' + discount_value + ').';
 			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
@@ -278,7 +460,18 @@ function total_charge() {
 			document.getElementById('totcharg_span').innerHTML = '$' + totcharg;
 		}
 	}
-	document.getElementById('deadline').value = document.getElementById('deadline'+document.getElementById('corslevel').value).value;
+	
+		var typeofserv = '';
+		if(document.getElementById('typeofservice').value == 'Rewriting')
+		{ typeofserv = '1'; }
+		if(document.getElementById('typeofservice').value == 'Formatting')
+		{ typeofserv = '2'; }
+		if(document.getElementById('typeofservice').value == 'Editing')
+		{ typeofserv = '3'; }
+		if(document.getElementById('typeofservice').value == 'Proofreading')
+		{ typeofserv = '4'; }
+	
+	document.getElementById('deadline').value = document.getElementById('deadline'+typeofserv+document.getElementById('corslevel').value).value;
 	try {
 		count_date_finished();
 	}
@@ -286,6 +479,35 @@ function total_charge() {
 		return;
 	}
 }
+
+//
+
+function pad_with_zeros(rounded_value, decimal_places) {
+	var value_string = rounded_value.toString()
+	var decimal_location = value_string.indexOf(".")
+	if (decimal_location == -1) {
+		decimal_part_length = 0
+		value_string += decimal_places > 0 ? "." : ""
+	}
+	else {
+		decimal_part_length = value_string.length - decimal_location - 1
+	}
+	var pad_total = decimal_places - decimal_part_length
+	if (pad_total > 0) {
+		for (var counter = 1; counter <= pad_total; counter++)
+		value_string += "0"
+	}
+	return value_string;
+}
+
+function round_decimals(original_number, decimals) {
+	var result1 = original_number * Math.pow(10, decimals);
+	var result2 = Math.round(result1);
+	var result3 = result2 / Math.pow(10, decimals);
+	return pad_with_zeros(result3, decimals);
+}
+
+
 
 function total_charge_additional() {
 
@@ -435,7 +657,19 @@ function count_date_finished() {
 		if (nr < 10) nr = "0" + nr;
 		return nr;
 	}
-	var deadline_selected_index = document.getElementById('deadline'+document.getElementById('corslevel').value).selectedIndex;
+	
+	var typeofserv = '';
+		if(document.getElementById('typeofservice').value == 'Rewriting')
+		{ typeofserv = '1'; }
+		if(document.getElementById('typeofservice').value == 'Formatting')
+		{ typeofserv = '2'; }
+		if(document.getElementById('typeofservice').value == 'Editing')
+		{ typeofserv = '3'; }
+		if(document.getElementById('typeofservice').value == 'Proofreading')
+		{ typeofserv = '4'; }
+	
+	
+	var deadline_selected_index = document.getElementById('deadline'+typeofserv+''+document.getElementById('corslevel').value).selectedIndex;
 	//alert(deadline_selected_index);
 	if (deadline_selected_index == 0)
 	{
@@ -480,7 +714,8 @@ function MM_goToURL() { //v3.0
   for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
 }
 </script>
-<!-- InstanceBeginEditable name="header" --><!-- InstanceEndEditable --></head>
+<!-- InstanceBeginEditable name="header" --><!-- InstanceEndEditable -->
+</head>
 <body>
 
 <div id="header_conteiner">
@@ -491,7 +726,7 @@ function MM_goToURL() { //v3.0
   addthis_title  = document.title;  
   addthis_pub    = 'bookmarkmysite';     
 </script><script type="text/javascript" src="addthis_widget.js"></script> 
-<!-- AddThis Bookmark Button END --> <a rel="nofollow" href="myorder.html"><img src="images/mo.jpg"></a><a rel="nofollow" href="#our_phones"><img src="images/op.jpg"></a><img src="images/lc.jpg" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')" style="cursor:pointer; display:none;"></div>
+<!-- AddThis Bookmark Button END --> <a rel="nofollow" href="myorder.html"><img src="images/mo.jpg"></a><a rel="nofollow" href="#our_phones"><img src="images/op.jpg"></a><img src="images/lc.jpg" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')" style="cursor:pointer; display:inline-block;"></div>
 <div id="menu">
 <li><a href="index.html">Custom Writing Service</a></li>
 <li><a rel="nofollow" href="pricing.html">Pricing</a></li>
@@ -502,7 +737,7 @@ function MM_goToURL() { //v3.0
 <li><a href="guarantee.html">Money Back</a></li>
 <li><a rel="nofollow" href="register.php">For Writers</a></li>
 <li><a rel="nofollow" href="MailTo:support@customwritings.com">Send E-mail</a></li>
-  <li><a rel="nofollow" href="#" style="cursor:pointer; display:none;" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')">Live Chat</a></li>
+  <li><a rel="nofollow" href="#" style="cursor:pointer; display:inline-block;" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')">Live Chat</a></li>
   </div> 
 </div>
 </div>
@@ -512,20 +747,22 @@ function MM_goToURL() { //v3.0
 	<div id="sidebar1" class="sidebar">
    <h2 align="left">Popular options</h2>
 <div id="btn">
-<a rel="nofollow" href="pricing.html"> Our Pricing </a>
+<a rel="nofollow" href="pricing.html"> Our Pricing</a>
 <a rel="nofollow" href="inquiry.html"> Place Free Inquiry </a>
 <a href="order.html"> Order Now </a>
-<div id="../online" style="display:none">
-<a href="#" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')"> Live Online Chat</a>
+<div id="../online" style="display:inline-block">
+<div style="display: inline-block;">
+<a href="#" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')"> Live Person Chat</a>
+</div>
 </div>
 <a href="http://www.customwritings.com/blog">Our Blog</a>
 <a rel="nofollow" href="register.php"> Want To Be a Writer? </a>
 </div>
 
 
-<h2>Our services</h2>
-	           <ul>
-	    <li><strong>Custom paper writing:                </strong></li>
+<h2 align="left">Our services</h2>
+      <ul>
+	    <li><strong>Custom Paper Writing:                </strong></li>
 	<ul> <li><a href="/essays.html">Essays </a></li>
           <li><a href="/term-papers.html">Term Papers</a> </li>
             <li><a href="research-papers.html">Research Papers </a></li>
@@ -540,13 +777,19 @@ function MM_goToURL() { //v3.0
             <li><a href="case-study.html">Case Studies</a> </li>
             <li><a href="courseworks.html">Courseworks</a> </li>
              <li><a href="homeworks.html">Homeworks</a> </li>
-	</ul>
-     	    <li><strong>Pre-writing </strong></li>
-	        <li><strong>Re-writing</strong></li>
-	        <li><strong>Researching </strong></li>
-	    <li><strong>Editing </strong></li>
-	    <li><strong>(Free) revising</strong></li>
+             <li><a href="creative-writing.html">Creative Writing</a> </li>
+             <li><a href="critical-thinking.html">Critical Thinking</a></li>
+             <li><a href="annotated-bibliography.html">Annotated Bibliography</a></li>
         </ul>
+     	   </ul>
+		   <ul>
+            <li><strong>Additional Services:</strong></li>
+	        <ul><li><a href="rewriting.html">Rewriting</a></li>
+	        <li><a href="editing.html">Editing</a></li>
+	        <li><a href="formatting.html">Formatting</a></li>
+	        <li><a href="proofreading.html">Proofreading</a></li><br>
+	        </ul>
+      </ul>
     
     
       <h2>Paper format</h2>
@@ -577,7 +820,7 @@ function MM_goToURL() { //v3.0
    </div>
    <p align="center"><a href="javascript:void window.open('https://www.2checkout.com/cgi-bin/buyers/safe.2c?comp=', 'bnew',config='height=500,width=350,toolbar=no,menubar=no,scrollbars=yes,resizable=no, location=no,directories=no,status=yes')"><img src="images/shop_safe.jpg" alt="shop safe"></a></p>
    <div id="block">     
-     <div align="justify"><strong>CustomWritings.com</strong> does not collect its customer's <span class="blue">credit card  records</span> to ensure the maximum protection for the clients. </div>
+     <div align="justify">Our custom writing service <strong>CustomWritings.com</strong> does not collect its customer's <span class="blue">credit card  records</span> to ensure the maximum protection for the clients. </div>
    </div>
    <h2>Money back guarantee </h2>
 <div align="center" style="margin-top:10px; margin-bottom:10px;">
@@ -750,7 +993,7 @@ You have the right to request a copy of the   personal information The customwri
 <!-- END SCANALERT CODE --></div>
 <div id="block">
   <div align="justify">
-    <p><span class="blue">Authenticity</span> of the writing and <span class="blue">confidentiality</span> of all information are <span class="blue">guaranteed.</span> We do not reuse ANY papers and we keep user information private.</p>
+    <p><span class="blue">Authenticity</span> of the custom writing and <span class="blue">confidentiality</span> of all personal information are <span class="blue">guaranteed. </span>We do not reuse ANY papers and we do not disclose customers' private information.</p>
     </div>
 </div>
 <h2>Our advantages</h2>
@@ -758,7 +1001,7 @@ You have the right to request a copy of the   personal information The customwri
       <ul>
         <li>Prices starting at just <strong class="blue">$10/page</strong>;</li>
 	    <li>Overnight delivery option;</li>
-	    <li><strong class="blue">497</strong><strong class="blue"> professional writers </strong>most of which are US, Canada and UK   university graduates;</li>
+	    <li><strong class="blue">720</strong><strong class="blue"> professional writers </strong>most of which are US, Canada and UK   university graduates;</li>
 	    <li>Own plagiarism detection system and q/a team; </li>
 	    <li><span class="blue"><strong>Free </strong></span>revisions;</li>
 	    <li>We do not drop HARD or BIG assignments; </li>
@@ -768,25 +1011,20 @@ You have the right to request a copy of the   personal information The customwri
       </div>
             <div align="center" style="margin-top:10px; margin-bottom:10px;"><a rel="nofollow" href="inquiry.html">Place free inquiry</a>
           </div>
+     <div style="display: inline-block;">
       <h2>Contact us immediately</h2>
-      <div style="display:inline-block">
-      <div id="btn">
-      <div id="chatbs_off" onclick="MM_goToURL('parent','MailTo:support@customwritings.com');return document.MM_returnValue"></div>
-	  </div>
-      </div>
       
-      <div id="online" style="display:none">
-      <div id="btn">
-      <div id="chatbs" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')"></div>
-	  </div>
-</div>
+	  <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
+<script language="JavaScript" src="http://www.customwritings.com/phplive/js/status_image.php?base_url=http://www.customwritings.com/phplive&amp;l=root&amp;x=1&amp;deptid=1&amp;"><a href="http://www.phplivesupport.com"></a></script>
+<!-- END PHP Live! code : (c) OSI Codes Inc. -->
  <a name="our_phones" id="our_phones"></a>
 <!--offline support-->
+</div>
 
 
 
-<div id="online2co" style="display:inline-block">
-<h2>Customers support</h2>
+<div id="online2co" style="display:none">
+<h2>24/7 Customers support</h2>
 
 <div id="bgcols">
            
@@ -850,7 +1088,7 @@ number.</strong></p></td>
 
 </div>
 <!--online support-->
-<div id="online" style="display:none">
+<div id="online" style="display:inline-block">
 <h2>Contact by phone</h2>
 
 <div id="bgcols">
@@ -907,49 +1145,73 @@ for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="
 
 
 <h2>Testimonials</h2>
-	  <div id="bgcols">
+       <div id="bgcols">
         <div id="btn">
-       	  
+              
 
             
-              <div align="justify" style="padding-left:10px; padding-right:10px; line-height:19px">"I was  very happy with this custom writing service and how great both the writer and administrators were. My questions were answered quickly and the writer was great to change the paper around per my requests. I haven't read the paper fully, but it looks great and I'm very happy. Thanks"  
-                <div align="right"><em class="green"><strong>Andrew, US</strong></em></div></div>
+              <div align="justify" style="padding-left:10px; padding-right:10px; line-height:19px">
+                <div align="justify" style="padding-bottom:10px;">
+                  <p class="style3 style3">"<span class="style6" style="padding-bottom:10px;">The essay paper looks great, all my requests were answered very quickly and throughly. Thank you so much for this valuable custom essay writing service that saved me from going insane this semester!" <span class="green"><em>Sandra, ME</em></span></span></p>
+
+                </div>
+          <div align="right">
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;">"Thanks for your promptness and your ability to follow up. I will use the thesis writing services offered by your agency again."<span class="green"><em>Robert, UK</em></span></p>
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;">"Please thank the writer for high-quality research paper writing.  The research paper is extremely well written and he/she followed the instructions extremely well.  Thank you so much for your company's professional custom writing abilities!" <span class="green"><em>Janine, CA</em></span></p>
+            <p align="justify" class="style3 style6">"Great job with my term paper.  I had a crazy week and could not come up with anything to write in my term paper.  Thank you so much.  I will definitely be using your term paper writing services again." <em class="green">Tom, CT</em></p>
+            <p align="justify"> </p>
+
+          </div>
+          </div>
           
          
          
              
      </div>
-	    <div align="center">
-	      <br>
-	      <p><a href="testimonials.html">Read more testimonials</a> </p>
-	      <br>
-	    </div>
+         <div align="center">
+           <br>
+           <p><a href="testimonials.html">Read more testimonials</a> </p>
+           <br>
+         </div>
+
   </div>
   
   </div>
  
 <!-- end sidebar2 -->
+
  <div style="clear:both"></div>	
 </div>
 <!-- end page -->
 <div style="clear:both"></div>
 <div id="footer">
 	<div id="copyright">
-	  <div align="center"><a rel="nofollow" href="/order.html">Order now</a><a rel="nofollow" href="/inquiry.html">Free quote</a><a rel="nofollow" href="/faq.html">F.A.Q.</a><a rel="nofollow" href="/pricing.html">Pricing</a><a rel="nofollow" href="/testimonials.html">Testimonials</a><a rel="nofollow" href="/privacy.html">Privacy Policy</a><a rel="nofollow" href="/about-us.html">Company Information </a> </div>
+	  <div align="center"><a href="/order.html" rel="nofollow">Order now</a><a href="/inquiry.html" rel="nofollow">Free quote</a><a href="/faq.html" rel="nofollow">F.A.Q.</a><a href="/pricing.html" rel="nofollow">Pricing</a><a href="/testimonials.html" rel="nofollow">Testimonials</a><a href="/privacy.html" rel="nofollow">Privacy Policy</a><a href="/about-us.html" rel="nofollow">Company Information </a> </div>
 	</div>
   <div class="links">
   
-  <a href="/buy-essay.html" target="_self">Buy Essay</a> | <a href="/college-essay.html" target="_self">College Essay</a> | <a href="/critical-essay.html" target="_self">Critical Essay</a> | <a href="/custom-essay.html" target="_self">Custom Essay</a> | <a href="/essay-paper.html" target="_self">Essay Paper</a> | <a href="/essay-writing.html" target="_self">Essay Writing</a> | <a href="/example-essay.html" target="_self"> Example Essay</a> | <a href="/free-essay.html" target="_self">Free Essay</a> | <a href="/non-plagiarized-essay.html" target="_self">Non - Plagiarized Essay</a> | <a href="/sample-essay.html" target="_self">Sample   Essay</a> | <a href="/shakespeare-essay.html" target="_self">Shakespeare Essay</a> <br> 
-  <a href="/custom-papers.html" target="_self">Custom Papers</a> | <a href="/buy-research-paper.html" target="_self">Buy Research Paper</a> | <a href="/buy-thesis.html" target="_self">Buy Thesis</a> | <a href="/buy-term-paper.html" target="_self">Buy Term Paper</a> | <a href="/do-my-essay.html" target="_self">Do My Essay</a>  | <a href="/college-papers.html" target="_self">College Papers</a> | <a href="/custom-research-paper.html" target="_self">Custom Research Paper</a> | <a href="/custom-term-paper.html" target="_self">Custom Term Paper </a>| <a href="/thesis-writing.html" target="_self">Thesis Writing </a> | <a href="/dissertation-writing.html" target="_self">Dissertation Writing</a> <br>
-  <a href="/research-paper-writing.html" target="_self">Research Paper Writing</a> | <a href="/term-paper-writing.html" target="_self">Term Paper Writing</a> | <a href="/custom-thesis.html" target="_self">Custom Thesis</a> | <a href="/do-my-paper.html" target="_self">Do My Paper</a> | <a href="/custom-essay-writing.html" target="_self">Custom Essay Writing</a> | <a href="/custom-writing.html" target="_self">Custom Writing</a> | <a href="/write-my-essay.html" target="_self">Write My Essay</a> | <a href="/persuasive-essay.html" target="_self">Persuasive Essay</a> | <a href="/essay-writing-help.html" target="_self">Essay Writing Help</a> <br> <a href="/college-research-paper.html" target="_self">College Research Paper</a> | <a href="/paper-writing-help.html" target="_self">Paper Writing Help</a> | <a href="/paper-writing.html" target="_self">Paper Writing</a> | <a href="/papers-for-money.html" target="_self">Papers For Money</a> | <a href="/chicago-style-papers.html" target="_self">Chicago Style Papers</a> | <a href="/apa-style-papers.html" target="_self">APA Style Papers</a> | <a href="/mla-style-papers.html" target="_self">MLA Style Papers</a> | <a href="/turabian-style-papers.html" target="_self">Turabian Style Papers</a> <br> 
-  <a href="/high-school-essay.html" target="_self">High School Essay</a> | <a href="/papers-for-sale.html" target="_self">Papers For Sale</a> | <a href="/research-paper-topics.html" target="_self">Research Paper Topics</a> | <a href="/write-my-paper.html" target="_self">Write My Paper</a> | <a href="/narrative-essay.html" target="_self">Narrative Essay</a> | <a href="/great-papers.html" target="_self">Great Papers</a> | <a href="/essay-writer.html" target="_self">Essay Writer</a> | <a href="/paper-writer.html" target="_self">Paper Writer</a> | <a href="/student-papers.html" target="_self">Student Papers</a> | <a href="/article-reviews.html" target="_self">Article Reviews</a><br>
-  <a href="/argumentative-essay.html" target="_self">Argumentative Essay</a> | <a href="/customized-essay.html" target="_self">Customized Essay</a> | <a href="/school-essay.html" target="_self">School Essay</a> | <a href="/university-essay.html" target="_self">University Essay</a> | <a href="/descriptive-essay.html" target="_self">Descriptive Essay</a> | <a href="/scholarship-essay.html" target="_self">Scholarship Essay</a> | <a href="/graduate-essay.html" target="_self">Graduate Essay</a> | <a href="/masters-essay.html" target="_self">Master's Essay</a> | <a href="/admission-essay.html" target="_self">Admission Essay</a><br>
-  <a href="/book-reports.html" target="_self">Book Reports</a> | <a href="/movie-reviews.html" target="_self">Movie Reviews</a> | <a href="/book-reviews.html" target="_self">Book Reviews</a> | <a href="/literature-reviews.html" target="_self">Literature Reviews</a> | <a href="/mba-essay.html" target="_self">MBA Essay</a> | <a href="/academic-papers.html" target="_self">Academic Papers</a> | <a href="/buy-report.html" target="_self">Buy Report</a> | <a href="/buy-review.html" target="_self">Buy Review</a> | <a href="/original-essay.html" target="_self">Original Essay</a> | <a href="/application-essay.html" target="_self">Application Essay</a><br>
-   <a href="/business-reports.html" target="_self">Business Reports</a> | <a href="/persuasive-speech.html" target="_self">Persuasive Speech</a> | <a href="/informative-speech.html" target="_self">Informative Speech</a> | <a href="/buy-speech.html" target="_self">Buy Speech</a> | <a href="/buy-dissertation.html" target="_self">Buy Dissertation</a> | <a href="/essay-topics.html" target="_self">Essay Topics</a> | <a href="/buy-project.html" target="_self">Buy Project</a> | <a href="/creative-writing.html" target="_self">Creative Writing</a> | <a href="/high-school-papers.html" target="_self">High School Papers</a> | <a href="/free-papers.html" target="_self">Free Papers</a> <br>
-    <br>
+  <a target="_self" href="/buy-essay.html">Buy Essay</a> | <a target="_self" href="/college-essay.html">College Essay</a> | <a target="_self" href="/critical-essay.html">Critical Essay</a> | <a target="_self" href="/custom-essay.html">Custom Essay</a> | <a target="_self" href="/essay-paper.html">Essay Paper</a> | <a target="_self" href="/essay-writing.html">Essay Writing</a> | <a target="_self" href="/example-essay.html"> Example Essay</a> | <a target="_self" href="/free-essay.html">Free Essay</a> | <a target="_self" href="/non-plagiarized-essay.html">Non - Plagiarized Essay</a> | <a target="_self" href="/sample-essay.html">Sample   Essay</a> | <a target="_self" href="/shakespeare-essay.html">Shakespeare Essay</a> <br> 
+  <a target="_self" href="/custom-papers.html">Custom Papers</a> | <a target="_self" href="/buy-research-paper.html">Buy Research Paper</a> | <a target="_self" href="/buy-thesis.html">Buy Thesis</a> | <a target="_self" href="/buy-term-paper.html">Buy Term Paper</a> | <a target="_self" href="/do-my-essay.html">Do My Essay</a>  | <a target="_self" href="/college-papers.html">College Papers</a> | <a target="_self" href="/custom-research-paper.html">Custom Research Paper</a> | <a target="_self" href="/custom-term-paper.html">Custom Term Paper </a>| <a target="_self" href="/thesis-writing.html">Thesis Writing </a> | <a target="_self" href="/dissertation-writing.html">Dissertation Writing</a> <br>
+  <a target="_self" href="/research-paper-writing.html">Research Paper Writing</a> | <a target="_self" href="/term-paper-writing.html">Term Paper Writing</a> | <a target="_self" href="/custom-thesis.html">Custom Thesis</a> | <a target="_self" href="/do-my-paper.html">Do My Paper</a> | <a target="_self" href="/custom-essay-writing.html">Custom Essay Writing</a> | <a target="_self" href="/custom-writing.html">Custom Writing</a> | <a target="_self" href="/write-my-essay.html">Write My Essay</a> | <a target="_self" href="/persuasive-essay.html">Persuasive Essay</a> | <a target="_self" href="/essay-writing-help.html">Essay Writing Help</a> <br> <a target="_self" href="/college-research-paper.html">College Research Paper</a> | <a target="_self" href="/paper-writing-help.html">Paper Writing Help</a> | <a target="_self" href="/paper-writing.html">Paper Writing</a> | <a target="_self" href="/papers-for-money.html">Papers For Money</a> | <a target="_self" href="/chicago-style-papers.html">Chicago Style Papers</a> | <a target="_self" href="/apa-style-papers.html">APA Style Papers</a> | <a target="_self" href="/mla-style-papers.html">MLA Style Papers</a> | <a target="_self" href="/turabian-style-papers.html">Turabian Style Papers</a> <br> 
+  <a target="_self" href="/high-school-essay.html">High School Essay</a> | <a target="_self" href="/papers-for-sale.html">Papers For Sale</a> | <a target="_self" href="/research-paper-topics.html">Research Paper Topics</a> | <a target="_self" href="/write-my-paper.html">Write My Paper</a> | <a target="_self" href="/narrative-essay.html">Narrative Essay</a> | <a target="_self" href="/great-papers.html">Great Papers</a> | <a target="_self" href="/essay-writer.html">Essay Writer</a> | <a target="_self" href="/paper-writer.html">Paper Writer</a> | <a target="_self" href="/student-papers.html">Student Papers</a> | <a target="_self" href="/article-reviews.html">Article Reviews</a><br>
+  <a target="_self" href="/argumentative-essay.html">Argumentative Essay</a> | <a target="_self" href="/customized-essay.html">Customized Essay</a> | <a target="_self" href="/school-essay.html">School Essay</a> | <a target="_self" href="/university-essay.html">University Essay</a> | <a target="_self" href="/descriptive-essay.html">Descriptive Essay</a> | <a target="_self" href="/scholarship-essay.html">Scholarship Essay</a> | <a target="_self" href="/graduate-essay.html">Graduate Essay</a> | <a target="_self" href="/masters-essay.html">Master's Essay</a> | <a target="_self" href="/admission-essay.html">Admission Essay</a><br>
+  <a target="_self" href="/book-reports.html">Book Reports</a> | <a target="_self" href="/movie-reviews.html">Movie Reviews</a> | <a target="_self" href="/book-reviews.html">Book Reviews</a> | <a target="_self" href="/literature-reviews.html">Literature Reviews</a> | <a target="_self" href="/mba-essay.html">MBA Essay</a> | <a target="_self" href="/academic-papers.html">Academic Papers</a> | <a target="_self" href="/buy-report.html">Buy Report</a> | <a target="_self" href="/buy-review.html">Buy Review</a> | <a target="_self" href="/original-essay.html">Original Essay</a> | <a target="_self" href="/application-essay.html">Application Essay</a> | <a target="_self" href="/phd-thesis.html">PhD Thesis</a><br>
+   <a target="_self" href="/business-reports.html">Business Reports</a> | <a target="_self" href="/persuasive-speech.html">Persuasive Speech</a> | <a target="_self" href="/informative-speech.html">Informative Speech</a> | <a target="_self" href="/buy-speech.html">Buy Speech</a> | <a target="_self" href="/buy-dissertation.html">Buy Dissertation</a> | <a target="_self" href="/essay-topics.html">Essay Topics</a> | <a target="_self" href="/buy-project.html">Buy Project</a> | <a target="_self" href="/research-proposal.html">Research Proposal</a> | <a target="_self" href="/high-school-papers.html">High School Papers</a> | <a target="_self" href="/free-papers.html">Free Papers</a> <br>
+   <a target="_self" href="/speech-writing.html">Speech Writing</a> | <a target="_self" href="/report-writing.html">Report Writing</a> | <a target="_self" href="/review-writing.html">Review Writing</a> | <a target="_self" href="/academic-writing.html">Academic Writing</a> | <a target="_self" href="/assignment-writing.html">Assignment Writing</a> | <a target="_self" href="/coursework-writing.html">Coursework Writing</a> | <a target="_self" href="/homework-writing.html">Homework Writing</a> | <a target="_self" href="/pay-essays.html">Pay Essays</a> | <a target="_self" href="/university-papers.html">University Papers</a>
+   | <a target="_self" href="/buy-papers.html">Buy Papers</a><br> 
+   <a target="_self" href="/buy-presentation.html">Buy Presentation</a> | <a target="_self" href="/dissertation-abstract.html">Dissertation Abstract</a> | <a target="_self" href="/doctoral-dissertation.html">Doctoral Dissertation</a> | <a target="_self" href="/thesis-proposal.html">Thesis Proposal</a> | <a target="_self" href="/dissertation-proposal.html">Dissertation Proposal</a> | <a target="_self" href="/thesis-help.html">Thesis Help</a> | <a target="_self" href="/dissertation-help.html">Dissertation Help</a> | <a target="_self" href="/gcse-coursework.html">GCSE coursework</a> | <a _self="" href="/education-papers.html target=">Education Papers</a><br>
+  <a target="_self" href="/masters-thesis.html">Master's Thesis</a> | <a target="_self" href="/writing-help.html">Writing Help</a> | <a target="_self" href="/dissertation-topics.html">Dissertation Topics</a> | <a target="_self" href="/thesis-writer.html">Thesis Writer</a> | <a target="_self" href="/dissertation-writer.html">Dissertation Writer</a> | <a target="_self" href="/english-papers.html">English Papers</a> | <a target="_self" href="/business-papers.html">Business Papers</a> | <a target="_self" href="/history-papers.html">History Papers</a> | <a target="_self" href="/philosophy-papers.html">Philosophy Papers</a> | <a target="_self" href="/law-papers.html">Law Papers</a> | <a target="_self" href="/graduate-papers.html">Graduate Papers</a><br>
+  <a target="_self" href="/economics-papers.html">Economics Papers</a> | <a target="_self" href="/psychology-papers.html">Psychology Papers</a> | <a target="_self" href="/religion-papers.html">Religion Papers</a> | <a target="_self" href="/sociology-papers.html">Sociology Papers</a> | <a target="_self" href="/art-papers.html">Art Papers</a> | <a target="_self" href="/management-papers.html">Management Papers</a> | <a target="_self" href="/marketing-papers.html">Marketing Papers</a> | <a target="_self" href="/accounting-papers.html">Accounting Papers</a> | <a target="_self" href="/science-papers.html">Science Papers</a> | <a target="_self" href="/nursing-papers.html">Nursing Papers</a><br>
+  <a target="_self" href="/literature-papers.html">Literature Papers</a> | <a target="_self" href="/political-science-papers.html">Political Science Papers</a> | <a target="_self" href="/computer-science-papers.html">Computer Science Papers</a> | <a target="_self" href="/technology-papers.html">Technology Papers</a> | <a target="_self" href="/biology-papers.html">Biology Papers</a> | <a target="_self" href="/geography-papers.html">Geography Papers</a> | <a target="_self" href="/physics-papers.html">Physics Papers</a> | <a target="_self" href="/chemistry-papers.html">Chemistry Papers</a> | <a target="_self" href="/mathematics-papers.html">Mathematics Papers</a><br> 
+  <a target="_self" href="/term-paper-help.html">Term Paper Help</a> | <a target="_self" href="/research-paper-help.html">Research Paper Help</a><br>
+  
+  <br>
+ 
+  
+   
   
   © 2003-2008 Brownie Freelance Limited. All Rights Reserved.
-  CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio.   <strong>Disclaimer:</strong> Brownie Freelance Limited - custom writing service that provides online custom written papers, such as term papers, research papers, thesis papers, essays, dissertations and other custom writing services inclusive of research material, for assistance purposes only. These academic papers should be used with proper reference. </div>
+  CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio.   <strong>Disclaimer:</strong> Brownie Freelance Limited - custom writing service that provides online custom written papers, such as term papers, research papers, thesis papers, essays, dissertations and other custom writing services inclusive of research material, for assistance purposes only. These custom papers should be used with proper reference. </div>
 	
 </div>
 <!-- InstanceBeginEditable name="spry_insert" -->
@@ -973,5 +1235,4 @@ urchinTracker();
 </script>
 
 
-<!-- InstanceEnd -->
-</body></html>
+<!-- InstanceEnd --></body></html>
