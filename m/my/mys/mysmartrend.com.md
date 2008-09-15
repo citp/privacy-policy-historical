@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610043400id_/http%3A//www.mysmartrend.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915181155id_/http%3A//www.mysmartrend.com/legal.html) for the most accurate reproduction.*
 
 # Legal - Comtex SmarTrend Alert
 
