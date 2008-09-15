@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostzombies.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505113001id_/http%3A//www.lostzombies.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.lostzombies.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostzombies.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915190449id_/http%3A//www.lostzombies.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.lostzombies.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Lost Zombies
 
