@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nutshellmail.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421170358id_/http%3A//nutshellmail.com/privacy_security/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutshellmail.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915065522id_/http%3A//nutshellmail.com/privacy_security/policy) for the most accurate reproduction.*
 
 # NutshellMail | Privacy Policy
 
-## NutshellMail Privacy Policy
+###  **1\. Introduction**
 
-### **1\. Introduction**
-
-(i) Welcome to NutshellMail.com (the "Site"), which is owned and operated by Nutshell Mail L.L.C. ("NutshellMail") and provides:
+(i) Welcome to NutshellMail.com (the "Site"), which is owned and operated by Nutshell Mail, Inc. ("NutshellMail") and provides:
 
 (a) electronic messaging aggregation and accessibility services known as NutshellMail™;  
 (b) delivery of aggregated messages in the form of e-mail updates; and  
@@ -18,7 +16,7 @@
 
 (iv) Please be advised that use of the Site and the Services are subject to and controlled by NutshellMail's Terms of Service ("TOS"). By using the Services, you evidence your complete and unqualified acceptance of the TOS, which creates a binding contract between us with respect to your duty to comply with the TOS. All capitalized terms used herein shall have the same meaning as defined in the TOS unless otherwise expressly defined in this Privacy Policy.
 
-### **2\. Information Gathered by NutshellMail**
+###  **2\. Information Gathered by NutshellMail**
 
 (i) NutshellMail may gather personal information about you that is provided or transmitted by Users of the Site and/or the Services. We may also gather aggregated tracking information regarding overall usage of the Site and the Services, such as but not limited to tallies of page views and click-through activity and/or the number of messages sent via the Services. This information is used to help us understand how Users are using the Site and the Services.
 
@@ -38,7 +36,7 @@ If payment is required for the Services, NutshellMail will request your name, ma
 
 (f) Retention of Messages: To the extent permitted or required by applicable law, Users acknowledge and agree that NutshellMail may, at its sole discretion, make and preserve copies of any and all Messages transmitted via the Services for internal back-up and other legal or business purposes.
 
-### **3\. Uses of the Information by NutshellMail**
+###  **3\. Uses of the Information by NutshellMail**
 
 (i) Information obtained by NutshellMail may be used internally by NutshellMail and its affiliated companies ("Affiliates") to evaluate and provide the Services and the Site, and to make improvements thereto.
 
@@ -61,7 +59,7 @@ If payment is required for the Services, NutshellMail will request your name, ma
 
 (c) violating federal, state, local, or other applicable law.
 
-### **4\. Uses of Personal Information & Opt-In/Opt-Out Options**
+###  **4\. Uses of Personal Information & Opt-In/Opt-Out Options**
 
 (1) NutshellMail may sell, for its own account, or otherwise release, your personal information to related third parties (such as our partners, bankers and advertisers) in order for them to notify you of products and/or services that may be of interest to you, or for any other lawful purpose;
 
@@ -69,7 +67,7 @@ If payment is required for the Services, NutshellMail will request your name, ma
 
 (3) NutshellMail may use your personal information to advise you of new or additional services offered by NutshellMail and/or its Affiliates; provided that all such correspondence shall alert Users of Opt-Out procedures in order to stop receiving such correspondence.
 
-### **5\. Security**
+###  **5\. Security**
 
 (i) NutshellMail has implemented technology and security features and policy guidelines to safeguard the privacy of e-mail messages and customer identifiable information from unauthorized access or improper use.
 
@@ -77,14 +75,14 @@ If payment is required for the Services, NutshellMail will request your name, ma
 
 (iii) Accordingly, NutshellMail makes no representations or warranties as to the effectiveness of its security and assumes no liability for security breaches made possible by any failure in its security practices or systems, or any failure in the security of your computer equipment, your ISP or other networks and communications providers.
 
-### **6\. Commitment to Children's Privacy**
+###  **6\. Commitment to Children's Privacy**
 
-NutshellMail fully complies with the Children's Online Privacy Protection Act of 1998 and other applicable laws, as may be subsequently amended. Accordingly, it is our policy not to ask or collect information from any person under the age of 13. Minors who are at least 13 but under 18 years of age must ask a parent or guardian for permission before providing any personal information online.
+NutshellMail fully complies with the Children's Online Privacy Protection Act of 1998 and other applicable laws, as may be subsequently amended. Accordingly, it is our policy not to ask or collect information from any person under the age of 13\. Minors who are at least 13 but under 18 years of age must ask a parent or guardian for permission before providing any personal information online.
 
-### **7\. Privacy Policy Contact & Trademark**
+###  **7\. Privacy Policy Contact & Trademark**
 
-Questions regarding this Privacy Policy may be addressed to us from our Contact Us or About pages. Please be advised that NutshellMail™ is a registered trademark of Nutshell Mail L.L.C..
+Questions regarding this Privacy Policy may be addressed to us from our Contact Us or About pages. Please be advised that NutshellMail™ is a registered trademark of Nutshell Mail, Inc..
 
-### **8\. Third Party Privacy Policies**
+###  **8\. Third Party Privacy Policies**
 
 The Site may contain links to web sites that are provided and maintained exclusively by third parties web sites provided and maintained by third parties are not subject to this privacy policy. Please review the privacy policies on those web sites to understand their personal information handling practices. We make no representations concerning the privacy policies of these third party web sites.
