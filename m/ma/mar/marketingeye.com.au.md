@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614191335id_/http%3A//www.marketingeye.com.au/index_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915203048id_/http%3A//www.marketingeye.com.au/index_privacy.html) for the most accurate reproduction.*
 
 # Marketing Eye - Privacy Policy - Marketing Consultant Sydney, Marketing Consultant Melbourne, Marketing Manager, Branding, PR, Sydney, Melbourne
 
