@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastcasta.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511095744id_/http%3A//www.blastcasta.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastcasta.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915171959id_/http%3A//www.blastcasta.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BlastCasta - Privacy Policy
 
@@ -18,4 +18,4 @@ BlastCasta and its affiliated companies respects and is dedicated to honoring th
 
 **6\. External Links.** BlastCasta web site provides links to other third party web sites. Even if the third party is affiliated with BlastCasta through a business partnership or otherwise, BlastCasta is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. 
 
-**7\. Terms of Service.** Please also see BlastCasta's [Terms Of Service](https://web.archive.org/web/20080511095744id_/http%3A//www.blastcasta.com/termsofservice.aspx), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire BlastCasta web site.
+**7\. Terms of Service.** Please also see BlastCasta's [Terms Of Service](https://web.archive.org/web/20080915171959id_/http%3A//www.blastcasta.com/termsofservice.aspx), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire BlastCasta web site.
