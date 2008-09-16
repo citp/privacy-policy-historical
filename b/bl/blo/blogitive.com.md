@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogitive.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052419id_/http%3A//www.blogitive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogitive.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916190626id_/http%3A//www.blogitive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Blogitive
 
