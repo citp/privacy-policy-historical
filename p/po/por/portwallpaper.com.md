@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portwallpaper.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415102216id_/http%3A//www.portwallpaper.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portwallpaper.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916185100id_/http%3A//www.portwallpaper.com/terms.html) for the most accurate reproduction.*
 
 # Download center, Lisisoft software ,free software, download software
 
