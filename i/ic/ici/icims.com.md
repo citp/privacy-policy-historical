@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617064451id_/http%3A//www.icims.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916112837id_/http%3A//www.icims.com/content/privacy.asp) for the most accurate reproduction.*
 
 # iCIMS Privacy Policy
 
-iCIMS iRecruiter Talent Platform
+iCIMS' Talent Platform
 
-iCIMS, Inc. has created this privacy statement to demonstrate a commitment to privacy and establish practices to be follow in good faith. The following discloses information gathering and dissemination practices for the iRecruiter Applicant Tracking System.
+iCIMS, Inc. has created this privacy statement to demonstrate a commitment to privacy and establish practices to be follow in good faith. The following discloses information gathering and dissemination practices for the iCIMS Applicant Tracking System.
 
 If you feel that iCIMS is not abiding by the posted privacy policy, contact the Privacy Department at 800-889-4422 or via e-mail at [accounts@icims.com](mailto:accounts@icims.com).
 
@@ -14,7 +14,7 @@ iCIMS seeks to follow privacy practices adhering to the Safe Harbor standards.
 
 * * *
 
-Personally Identifiable information is collected at a number of points throughout the iRecruiter Application process. Applicants have the choice to enter information to client companies via e-mail or by direct entry through the client's Online Career Centers. 
+Personally Identifiable information is collected at a number of points throughout the iCIMS Application process. Applicants have the choice to enter information to client companies via e-mail or by direct entry through the client's Online Career Centers.
 
 Applicants have the ability to remain anonymous during the initial stages of the application process. All information requested directly relates to the job application process. Applicant data is stored in order to facilitate the decision making process and to allow for future position consideration and placement. 
 
@@ -34,7 +34,7 @@ If an applicant's personally identifiable information changes iCIMS provides a w
 
 * * *
 
-Applicants are given the opportunity to 'opt-out' of client mailings and notifications via the 'Opt-Out' mechanism attached to all iRecruiter e-mails.
+Applicants are given the opportunity to 'opt-out' of client mailings and notifications via the 'Opt-Out' mechanism attached to all iCIMS e-mails.
 
 Notification of Changes.
 
