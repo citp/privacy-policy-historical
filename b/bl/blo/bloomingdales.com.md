@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521073324id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916081625id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Bloomingdale's - Privacy Policy
 
@@ -9,7 +9,7 @@
 | | [My Online Account](http://www1.bloomingdales.com/myinfo/index.ognc)|   
 | | [My Order](https://www.bloomingdales.com/myinfo/status/orders.jsp)|   
 | | [Shipping & Returns](http://www1.bloomingdales.com/customerservice/shipandreturns.jsp)|   
-| | [Contact Us](http://www1.bloomingdales.com/redirect.jsp?EXTERNAL_FORWARD_URL=http://help.bloomingdales.com/contact/)|   
+| | [Contact Us](http://www1.bloomingdales.com/service/contact/index.jsp)|   
 | | [Credit Services](http://www1.bloomingdales.com/service/credit/index.ognc)|   
 | | [About Bloomingdale's](http://www1.bloomingdales.com/media/about/index.jsp)|   
 | | [Shopping Services](http://www1.bloomingdales.com/about/shopping/index.jsp)|   
