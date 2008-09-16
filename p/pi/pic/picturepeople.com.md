@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503092528id_/http%3A//www.picturepeople.com/others/privacy.asp%3Fm_1%3D9%26m_2%3D6%26m_3%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916232011id_/http%3A//www.picturepeople.com/others/privacy.asp%3Fm_1%3D9%26m_2%3D6%26m_3%3D0) for the most accurate reproduction.*
 
 # The Picture People -Privacy
 
