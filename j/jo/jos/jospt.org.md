@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jospt.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622111727id_/http%3A//www.jospt.org/aboutus/id.78/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jospt.org privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916112409id_/http%3A//www.jospt.org/aboutus/id.78/default.asp) for the most accurate reproduction.*
 
-# Privacy and Security Policies
+# Privacy and Security Policies - JOSPT – Journal of Orthopaedic & Sports Physical Therapy
 
      **At the _Journal of Orthopaedic & Sports Physical Therapy_, we want you to enjoy and benefit from **[**www.jospt.org**](http://www.jospt.org/) **with the knowledge and comfort that we have taken steps to implement fair information practices designed to protect your privacy.** The following explains what information we collect about you and how we use it.
 
