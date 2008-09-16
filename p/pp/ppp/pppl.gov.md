@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Princeton Plasma Physics Laboratory
 
-|  | [](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/index.cfm)  
+|  | [](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/index.cfm)  
 ---  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polPressReleases.cfm)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/staff.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polPressReleases.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/staff.cfm)  
 [](http://labstatus.pppl.gov/status.aspx)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/technologytransfer.cfm)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/educationprograms.cfm)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/furthlibrary.cfm)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/colloquia.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/technologytransfer.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/educationprograms.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/furthlibrary.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/colloquia.cfm)  
 [](https://jobs.princeton.edu/)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/business.cfm)  
-[](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/links.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/business.cfm)  
+[](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/links.cfm)  
 | 
 
 ## Security Notice
@@ -61,34 +61,34 @@ TOP
 
 Quick Links 
 
-[Fueling the Future Video ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/fuelingthefuture.cfm)  
+[Fueling the Future Video ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/fuelingthefuture.cfm)  
   
-[Virtual Tour ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polGallery.cfm)  
+[Virtual Tour ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polGallery.cfm)  
   
-[PPPL - An Overview ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=49)  
+[PPPL - An Overview ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=49)  
   
-[ITER Pamphlet ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=48)  
+[ITER ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=48)  
   
-[PPPL Hotline ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polNewsletters.cfm)  
+[PPPL Hotline ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polNewsletters.cfm)  
   
-[Information Bulletins ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polBulletins.cfm)  
+[Information Bulletins ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polBulletins.cfm)  
   
-[PPPL Digest ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polDigests.cfm)  
+[PPPL Digest ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polDigests.cfm)  
   
-[PPPL Technical Reports ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/TechReports.cfm)  
+[PPPL Technical Reports ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/TechReports.cfm)  
   
-[PPPL Annual Highlights Report](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polHighlights.cfm)  
+[PPPL Annual Highlights Report](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polHighlights.cfm)  
   
-[Environment, Safety, &Health](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/ESH.cfm)  
+[Environment, Safety, &Health](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/ESH.cfm)  
   
-[Sustainable PPPL ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polPublicationsSustainable.cfm)  
+[Sustainable PPPL ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polPublicationsSustainable.cfm)  
   
-[Non-PPPL Publications ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polPublicationsNonPPPL.cfm)  
+[Non-PPPL Publications ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polPublicationsNonPPPL.cfm)  
   
-[PPPL News Summaries ](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/polNews.cfm)  
+[PPPL News Summaries ](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/polNews.cfm)  
   
 [PPPL WebMedia  
-](https://web.archive.org/web/20080330194329id_/http%3A//www.pppl.gov/Webmedia.cfm)  
+](https://web.archive.org/web/20080916065456id_/http%3A//www.pppl.gov/Webmedia.cfm)  
   
 ---|---|---  
 | 
