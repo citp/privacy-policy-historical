@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etransporter.info privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601025800id_/http%3A//www.etransporter.info/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etransporter.info privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916145124id_/http%3A//www.etransporter.info/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Free Proxy, Free Proxy Server, Free Anonymous Surfing with bookmarks - eTransporter.info
 
