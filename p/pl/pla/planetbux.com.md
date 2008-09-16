@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetbux.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518072010id_/http%3A//planetbux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetbux.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916201910id_/http%3A//www.planetbux.com/privacy.php) for the most accurate reproduction.*
 
 # PlanetBux.com | Surf -N- Earn
 
