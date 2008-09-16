@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502182348id_/http%3A//www.mioot.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916215212id_/http%3A//www.mioot.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Live Chat, Live Help and Live support - 24 X 7 Assured Assistance
+# Live Chat, Live Help, Chat Software, CRM and Tickets by miOOt
 
-Mioot is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers' data. 
+Mioot is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customer's data. 
 
 **What information do we collect?**
 
@@ -30,10 +30,10 @@ To serve you better, we use information provided by you to perform services that
 
 We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with or bring legal action against someone who may be causing harm or interfering with the rights or property of mioot , our customers, or others, or where mioot has good belief that the law requires such disclosure. 
 
-**Security** ****Mioot is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+**Security** Mioot is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
 **Changes to Our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
-If users have any questions or suggestions regarding our privacy policy, please [**contact us**](https://web.archive.org/web/20080502182348id_/http%3A//www.mioot.com/contactus.aspx) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
+If you have any questions or suggestions regarding our privacy policy, please [**contact us**](https://web.archive.org/web/20080916215212id_/http%3A//www.mioot.com/contact_us.php) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
