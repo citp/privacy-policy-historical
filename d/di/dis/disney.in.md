@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415094705id_/http%3A//registration.disneyin.com/privacy.htm%3Fp%3D1821%26fullScreen%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916232528id_/http%3A//registration.disneyin.com/privacy.htm%3Fp%3D1821%26fullScreen%3Dfalse) for the most accurate reproduction.*
 
 # Disney
 
