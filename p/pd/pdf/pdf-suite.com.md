@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628161410id_/http%3A//www.pdf-suite.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916041505id_/http%3A//www.pdf-suite.com/privacy.asp) for the most accurate reproduction.*
 
 # PDF Reader, PDF Converter and PDF Editor including Adobe Acrobat Document Compatibility - Privacy
 
