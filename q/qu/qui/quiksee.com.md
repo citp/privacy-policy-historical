@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiksee.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226233538id_/http%3A//www.quiksee.com/article_page.asp%3Fid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksee.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917002648id_/http%3A//www.quiksee.com/article_page.asp%3Fid%3D30) for the most accurate reproduction.*
 
 # 
 
