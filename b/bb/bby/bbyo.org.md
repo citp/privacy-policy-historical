@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbyo.org privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504095946id_/http%3A//www.bbyo.org/index.php%3Fc%3D25%26kat%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbyo.org privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916151636id_/http%3A//www.bbyo.org/index.php%3Fc%3D25%26kat%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # BBYO.org
 
