@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galen.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623180638id_/http%3A//www.galen.org/component%2C1/action%2Cprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galen.org privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917005451id_/http%3A//www.galen.org/component%2C1/action%2Cprivacy_policy) for the most accurate reproduction.*
 
 # Galen Institue
 
