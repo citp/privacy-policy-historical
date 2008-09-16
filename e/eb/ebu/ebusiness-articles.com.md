@@ -1,59 +1,47 @@
-> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912063958id_/http%3A//www.ebusiness-articles.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916142314id_/http%3A//www.ebusiness-articles.com/privacy.php) for the most accurate reproduction.*
 
-# Untitled Document
+# eBusiness Articles Directory | Privacy Statement
 
-Effective August 10, 2005  
-eBusiness-Articles.com Privacy Policy  
-This is a Pacific NW Internet Web site
+eBusiness Articles strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-**We can be reached via email at Admin@eBusiness-Articles.com.  
-**
+**How we gather information from users**
 
-This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, eBusiness Articles also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-**For Web site visitors who make purchases or otherwise sign on to our site.**
+**What we do with the information we collect**
 
-When you sign on to our site or make a purchase, we may collect your name, company name, contact information, profile and preference information.   
-When you make a purchase we also collect credit card information, as well as information about your current purchases, and we keep information on your purchase history. This information is used by us and/or our agents: to support your interaction with our site, to deliver your purchases, and to contact you again about other services and products we offer. We may also share your name and geographic address with other reputable companies who have offers we think may interest you if you give us permission to do so. These marketers may in turn contact you if you opt-in to receive these offers. 
+Like other web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-**Addresses and phone numbers**
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-_NOTE: Currently we do not ask for or collect this information._ If you give us your postal address, we may send you periodic mailings with information on new eBusiness-Articles products, services, or information on upcoming eBusiness-Articles events. You may also receive business mailings from other reputable companies if you opt-in to receive these offers.   
-If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services, or information on upcoming events. 
+We may use Personally Identifiable Information collected on www.eBusiness-Articles.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.eBusiness-Articles.com and other topics we think you might find of interest. 
 
-If you do not wish to receive mailings or phone calls from eBusiness-Articles in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to the email address above. 
+Personally Identifiable Information collected by eBusiness Articles may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-**Email addresses**
+**Affiliated sites, linked sites and advertisements**
 
-We collect the email addresses of those who register on our sites and/or communicate with us by email. The email addresses are used to contact existing or potential business customers. Consumer-provided email is kept only for the purpose of providing consumer advice and assistance. We will not share business or consumer email addresses you give to us with other marketers unless you agree and opt-in to receive these offers. 
+eBusiness Articles expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.eBusiness-Articles.com page, certain content that is actually created or hosted by a third party. Also, through eBusiness Articles you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. eBusiness Articles is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-If you do not want to receive future email from eBusiness-Articles, please let us know by sending an email to the email address listed above. 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. eBusiness Articles does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-**Cookies**
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of eBusiness Articles and this policy. 
 
-**All visitors** \- we place cookies on all Web site visitor hard drives to collect aggregate information on the number of visitors to our site and the number of pages viewed. 
+**Children**
 
-**Registered visitors** \- we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign-on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on our site. 
+eBusiness Articles does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe eBusiness Articles has any information from or about anyone under 13, please contact us at the address listed below. 
 
-**General information** \- cookie information is used only by eBusiness-Articles and our agents and is not provided to any other organization. It is used aggregately for traffic analysis and to provide relevant information to our visitors. It is also used for Web site and system administration, including research and development, user analysis and business decision making. 
+**Contacting Us**
 
-**For Web site visitors who do not make purchases or otherwise identify themselves.**
+We can be reached by emailing us via our Contact Us page. 
 
-If you do not sign on to our Web site, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. At the same time, much of eBusiness-Articles' communication comes in the form of email, so by not sharing your email address you will have limited access to eBusiness-Articles' newsletters and other valuable information. 
+**Changes to this Policy**
 
-**Ip Address**
+eBusiness Articles reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administrate our Web site. 
+**Governing law**
 
-**Access**
+This policy and the use of this Site are governed by Oregon State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Portland. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at the above address. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Portland, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-**Security**
-
-We use industry-standard encryption technologies when transferring and receiving payment data. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from or about you. 
-
-**Accountability**
-
-If you feel that this site is not living up to its stated information policy, you may contact:   
-eBusiness-Articles' Department of Ethics and Consumer Affairs by email at the above address. 
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
