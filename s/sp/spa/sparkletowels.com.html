@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sparkletowels.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516050350id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparkletowels.com privacy policy that was archived on 2008-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080917183105id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -7,24 +7,25 @@
 </head><body><a name="ReturnToTop"></a>
 <!-- Head Includes-->
 <link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/css/gp_global.css" type="text/css" media="screen"> <!-- Test! -->
 <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
-<script src="/js/external.js" type="text/javascript"></script>
+<script src="/js/top.js" type="text/javascript"></script>
+<!-- <script src="/js/external.js" type="text/javascript"></script>
 <script src="/js/topMenu.js" type="text/javascript"></script>
 <script src="/js/sifr.js" type="text/javascript"></script>
 <script src="/js/sifr-addons.js" type="text/javascript"></script>
 <script src="/js/swapContent.js" type="text/javascript"></script>
-<script src="/js/swfobject.js" type="text/javascript"></script>
+<script src="/js/swfobject.js" type="text/javascript"></script> -->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
 <script type="text/javascript">
-_uacct = "UA-4074694-2";
-_udn = "none";
-_ulink = 1;
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/iefixes.css" /><![endif]-->
+
 
 
 
@@ -47,7 +48,7 @@ function opendef(str,xW,xH) {
 <a href="http://www.gp.com/"><img src="/images/headerLeft.gif" alt="Georgia Pacific Logo" width="202" height="57" border="0"></a>
 </div>
 <!-- Main Navigation Bar-->
-
+<span id="print_logo"><img src="/images/gp_logo_print.gif" alt="Georgia Pacific Logo" width="202" height="37"></span>
 <div id="mainMenu">
 <ul id="menuList">
 <li class="menuBar"><a accesskey="1" class="" title="Home" href="http://www.gp.com/index.html">Home</a></li>
@@ -73,7 +74,6 @@ function opendef(str,xW,xH) {
 <li><a title="" href="http://www.gp.com/build">Building and Remodeling</a></li>
 <li><a title="" href="http://www.makeitadixieday.com">Dixie® Cups and Tableware</a></li>
 <li><a title="" href="http://www.gp.com/officeproducts">Home and Office Papers</a></li>
-<li><a title="" href="http://www.blueyellowhome.com">Landscaping</a></li>
 <li><a title="" href="http://www.gp.com/forYourHome/napkins.html">Napkins</a></li>
 <li><a title="" href="http://www.gp.com/forYourHome/papertowels.html">Paper Towels</a></li>
 <li><a title="" href="http://www.gp.com/forYourHome/viewbrands.html">VIEW BY BRAND</a></li>
@@ -114,10 +114,12 @@ function opendef(str,xW,xH) {
 <form method="get" name="searchForm" id="searchForm" action="/search/default.aspx">
 <fieldset>
 <input name="q" id="q" type="text" value="">
-<label for="search"><a href="javascript:document.searchForm.submit();"></a></label>
+<label for="search"><a href="javascript:document.forms['searchForm'].submit();"></a></label>
 </fieldset>
 </form>
 </div>
+
+
 <!-- Page Header -->
 <div id="productsHeader">
 <h1>Georgia-Pacific Privacy Notice</h1>
@@ -403,7 +405,21 @@ USA
 <a href="/privacy/california.asp">Your California Privacy Rights</a> / 
 <a href="/sitemap/index.html">Site Map</a> /
  <a href="/contactus/index.html">Contact Us</a></div>
-</div><!-- end wrapper -->
+</div>
+
+
+<script type="text/javascript">
+try {
+	var gpcomTracker = _gat._getTracker("UA-4074694-2");
+	gpcomTracker._setDomainName("none");
+	gpcomTracker._setAllowLinker(true);
+	gpcomTracker._initData();
+	gpcomTracker._trackPageview();
+}
+catch (e) { }
+</script>
+
+<!-- end wrapper -->
 
 <!-- Shadow at bottom of page -->
 <div id="bottomShadow"></div>
