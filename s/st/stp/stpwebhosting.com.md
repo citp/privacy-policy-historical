@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531033018id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917063651id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # STP Web Hosting: Privacy Policy
 
