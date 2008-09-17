@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbergers.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617033638id_/http%3A//www.herbergers.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbergers.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918010528id_/http%3A//www.herbergers.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Herberger's
 
