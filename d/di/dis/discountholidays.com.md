@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountholidays.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420084456id_/http%3A//discountholidays.com/%3FTarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountholidays.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917142130id_/http%3A//discountholidays.com/%3FTarget%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
