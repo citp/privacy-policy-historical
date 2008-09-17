@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classroom20.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522204033id_/http%3A//www.classroom20.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.classroom20.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classroom20.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917055859id_/http%3A//www.classroom20.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.classroom20.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Classroom 2.0
 
