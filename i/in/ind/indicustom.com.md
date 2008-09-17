@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indicustom.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611101922id_/http%3A//www.indidenim.com/oo/navigation.do%3Fmethod%3DDISPLAY_PRIVACY_STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indicustom.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917075140id_/http%3A//www.indicustom.com/navigation.do%3Fmethod%3DDISPLAY_PRIVACY_STATEMENT) for the most accurate reproduction.*
 
 # indi - Privacy Statement
 
 SUMMARY 
 
-At indi we take your privacy very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable and other information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [management@indicustom.com](mailto:management@indicustom.com), or in writing at: Attention: Management, indi, 1201 Park Avenue, Emeryville, CA 94608. 
+At indi we take your privacy very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable and other information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at , or in writing at: Attention: Management, indi, 5515 Doyle St., Suite #15, Emeryville, CA 94608. 
 
 Online Privacy Standards. While there are no official standards governing privacy practices on the internet, we follow the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at   
 <http://www.ftc.gov/reports/privacy3/fairinfo.htm>. 
@@ -23,11 +23,11 @@ Body Measurements. During the process of creating your custom order, we also col
 
 Information Submitted During A Transaction. During a payment transaction we collect information including your name, shipping and billing address(es), email address, and telephone number. This information is collected and used to process your payment transaction, and also for shipping your apparel to you. The shipping address you provide during a payment transaction will be stored in your account profile. 
 
-indi does not itself collect any financial information from you. Instead, your transactions are handled through PayPal or CoolCart. The Site allows you to use PayPal to conveniently make payments online using a credit card or PayPal account. Before using PayPal, indi strongly suggests that you review PayPal’s own privacy policy, which is available online at the PayPal website [www.paypal.com](http://www.paypal.com/). The Site also makes use of the CoolCart shopping cart service to make online shopping easier and more convenient. If you choose to use CoolCart, indi strongly suggests that you review CoolCart’s own Privacy Policy, which is available online at the CoolCart website [www.coolcart.com](http://www.coolcart.com/). 
+indi does not itself collect any financial information from you. Instead, your transactions are handled through Authorize.Net or CoolCart. The Site allows you to use Authorize.Net to conveniently make payments online using a credit card. Before using Authorize.Net, indi strongly suggests that you review Authorize.Net's own privacy policy, which is available online at the Authorize.Net website [www.authorize.net](http://www.authorize.net/). The Site also makes use of the CoolCart shopping cart service to make online shopping easier and more convenient. If you choose to use CoolCart, indi strongly suggests that you review CoolCart's own Privacy Policy, which is available online at the CoolCart website [www.coolcart.com](http://www.coolcart.com/). 
 
 2\. Information We Do Not Collect.
 
-Children. As explained further in our Terms of Use, available at [www.indicustom.com/terms](http://www.indicustom.com/terms), you must be eighteen (18) years of age or older to use the Site. We do not knowingly collect personally identifiable information from or about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [management@indicustom.com](mailto:management@indicustom.com) or write to us at the address noted above in the first paragraph of this Privacy Policy. 
+Children. As explained further in our Terms of Use, available at [www.indicustom.com/terms](http://www.indicustom.com/terms), you must be eighteen (18) years of age or older to use the Site. We do not knowingly collect personally identifiable information from or about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at  or write to us at the address noted above in the first paragraph of this Privacy Policy. 
 
 Social Security Number. We do not ask for or require you to provide your social security number to use any of our services or to access any part of our Site. 
 
@@ -81,7 +81,11 @@ YOUR PERSONAL CHOICES
 
 Receiving Communications. If you opt to receive any of indi’s optional promotional materials, you will be able to unsubscribe from these materials through your account profile or through the emails we send you. If you elect not to receive such promotional material by email, we may still contact you as necessary to service your account. 
 
-Access To And Editing Account Profile Information. In general, we make it easy for you to view the personally identifiable information we have collected from you in your account profile, where you can edit your information as you see fit. If you would like to permanently disable your account, please email [webmaster@indicustom.com](mailto:webmaster@indicustom.com). 
+Access To And Editing Account Profile Information. In general, we make it easy for you to view the personally identifiable information we have collected from you in your account profile, where you can edit your information as you see fit. If you would like to permanently disable your account, please email . 
+
+FOR OUR CANADIAN MEMBERS AND VISITORS 
+
+Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by indi by writing to: Attention: Management, indi, 5515 Doyle St., Suite #15, Emeryville, CA 94608. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you would like to receive additional information about our personal information management practices, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact us at the address provided above. 
 
 UPDATES TO THIS PRIVACY POLICY 
 
