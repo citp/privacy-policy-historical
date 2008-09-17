@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627233827id_/http%3A//www.glasgow2014.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917074027id_/http%3A//www.glasgow2014.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glasgow's Bid for the 2014 Commonwealth Games
 
@@ -10,16 +10,14 @@ This page explains how we protect your privacy and how information provided to [
 
 **What information do we collect?  
 **  
-We have five collection points for information from visitors to [www.glasgow2014.com](https://web.archive.org/). If you opt to: 
+We have collection points for information from visitors to [www.glasgow2014.com](https://web.archive.org/). If you opt to: 
 
-  * Support the Bid – your name as an individual, organisation, company, sports club or educational establishment together with your email address and location data will be collected. Only your name and location will be displayed on the website. E-mail addresses will not be displayed. 
-  * Receive email updates/E-newsletter – your name and your email address will be collected. 
   * Register for the Volunteer Programme – your title, name, email address, postal address, home and mobile numbers, age, gender, ethnicity and disability status will be collected. 
 
 
 
   
-This information is stored to allow us to send information about Scotland's Commonwealth Games Bid that may be of interest to you. Information relating to age, gender, ethnicity and disability status is treated as strictly confidential and will be used for statistical and equal opportunities monitoring purposes only. All this information is also stored on back-up tapes to avoid loss of data.
+This information is stored to allow us to send information about Scotland's Commonwealth Games that may be of interest to you. Information relating to age, gender, ethnicity and disability status is treated as strictly confidential and will be used for statistical and equal opportunities monitoring purposes only. All this information is also stored on back-up tapes to avoid loss of data.
 
   * Email-a-friend – The recipient will receive an email from the address you entered in "your email address" and a URL linking to [www.glasgow2014.com](https://web.archive.org/). None of the details you submit will be retained by Glasgow City Council. 
   * Contact us – Information is used to respond to queries and requests and is not retained by Glasgow City Council. 
