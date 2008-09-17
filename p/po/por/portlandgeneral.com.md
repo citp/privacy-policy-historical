@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210208id_/http%3A//portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917165654id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -66,7 +66,7 @@ PGE has agreements with other local utility companies to share customer informat
 Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
 
 **Online Home Energy Analysis**  
-PGE has contracted with Nexus Energy to provide our customers with online energy analysis. Nexus Energy has agreed that they will not sell your online home energy analysis data to any third party. Your energy usage data, provided by PGE to Nexus Energy to complete your online energy analysis, will be transmitted via an encrypted Security Socket Layer (SSL). 
+PGE has contracted with Apogee Interactive, Inc. to provide our customers with online energy analysis. Apogee Interactive has agreed that they will not sell your online home energy analysis data to any third party. Your energy usage data, provided by PGE to Apogee Interactive to complete your online energy analysis, will be transmitted via an encrypted Security Socket Layer (SSL). 
 
 Other than the ways mentioned above, we will not release personally identifiable information to third parties without permission from the customer, unless we are required to do so by law or we in good faith believe such action is necessary to (1) comply with the law or legal process, (2) protect and defend our rights or property, (3) protect against misuse or unauthorized use of our Web site or (4) protect the personal safety or property of our customers or the public.
 
