@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524150906id_/http%3A//www.telikompng.com.pg/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917145120id_/http%3A//www.telikompng.com.pg/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Telikom PNG Limited > Home
 
