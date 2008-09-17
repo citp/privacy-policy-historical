@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cibeg.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612070329id_/http%3A//www.cibeg.com/PublicSite/EN/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibeg.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917140006id_/http%3A//www.cibeg.com/PublicSite/EN/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
