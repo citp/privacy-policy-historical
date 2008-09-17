@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707173536id_/http%3A//jayinslee.com/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917210053id_/http%3A//www.jayinslee.com/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
 
 # Jay Inslee - Jay Inslee Privacy Policy
 
