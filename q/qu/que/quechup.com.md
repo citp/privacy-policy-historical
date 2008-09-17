@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224105204id_/http%3A//quechup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917074721id_/http%3A//www.quechup.com/privacy.php) for the most accurate reproduction.*
 
 # Quechup.com Privacy Policy
 
@@ -7,7 +7,7 @@
 This site is owned and operated by iDate Ltd. Your privacy on the Internet is of the utmost importance to us. At iDate, we want to make your experience online satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.   
-**Please note that by visiting Quechup.com.com you are accepting the practices described in this privacy policy and[conditions of use](http://www.quechup.com/conditions.php).**
+**Please note that by visiting Quechup.com.com you are accepting the practices described in this privacy policy and[conditions of use](http://quechup.com/conditions.php).**
 
 If users have questions or concerns regarding this statement, they should first contact Quechup.com by sending an e-mail to [privacy@quechup.com](mailto:privacy@quechup.com?subject=Quechup%0A%20Privacy) or to: iDate Ltd, 24-32 London Rd, Newbury, RG14 1JX, United Kindom.
 
