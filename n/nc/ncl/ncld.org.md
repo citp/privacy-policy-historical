@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629093433id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918024344id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.*
 
 # NCLD - Privacy Policy
 
