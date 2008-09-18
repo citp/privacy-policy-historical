@@ -1,26 +1,34 @@
-<!--The following is the downloaded HTML source of the in-cosmetics.com privacy policy that was archived on 2006-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214151010id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the in-cosmetics.com privacy policy that was archived on 2008-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080919010934id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D131/t%3Dm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-GB"><head>
 		
-	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="Sun, 28 Dec 1997 09:00:00 GMT">
 	<meta name="language" content="en">
 	
 	<meta name="robots" content="index,follow">
 	
-	
+	<meta name="verify-v1" content="hib+PJFdGLzetcuG6byS9+JL/bVFcidmdkEkP17/h9I=">
+<meta name="verify-v1" content="WAcZS/qgaNzDJXvyMorXbfvxEs0B1KTIGwaLg9ZtL5o=">
 
 		
-<meta name="Description" content="Privacy Pledge Privacy Pledge How Your Information Is Used Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by ">
-<meta name="Keywords" content="cosmetics exhibition, cosmetics ingredients exhibition, raw materials, cosmetics ingredients, personal care exhibition, cosmetic ingredients, cosmetic science">
+<meta name="Description" content="in cosmetics 2009, the leading international exhibition for suppliers and manufacturers of raw materials and ingredients for cosmetics, toiletries and personal care takes place 21-23 April 2009 in Munich.">
+<meta name="Keywords" content="cosmetics exhibition, cosmetics ingredients, cosmetics formulation, natural ingredients, personal care ingredients, cosmetic ingredients, cosmetic science,">
 
 
 	
-		<link rel="stylesheet" type="text/css" href="http://www.in-cosmetics.com/css_INCOS2007.css">
 	
 		
+			<link rel="stylesheet" type="text/css" href="http://www.in-cosmetics.com/css_INCOS2009.css">
+		
+	
+
+	
+	
+	
 	<script language="javascript" type="text/javascript">
 	<!--
 		if(document.all)
@@ -39,12 +47,14 @@
 		 sty = "";}
 		else if(document.getElementById)
 		{nav = "ns6";
-		 doc = "document.getElementById";
-		 brO = "(";
-		 brC = ")";
+		 doc = "document.all";
+		 brO = "[";
+		 brC = "]";
 		 wdth=".offsetWidth";
 		 sty = ".style";}
+		 
 	
+		//Logo Rotator, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
 		function updateRotator(rotID)
 		{	var count=eval('countRotator_'+rotID+'++;');
 			//var rotArrayLen=eval('divArray_'+rotID+'.length');
@@ -58,7 +68,7 @@
 			/*
 			if (document.all['ImgRotator_'+rotID] != null)
 			{	obj=eval('objArray_'+rotID+'[countRotator_'+rotID+']');
-				document.all['ImgRotatorImg_'+rotID].src='http://www.in-cosmetics.com/g/logos/'+obj.imgName;
+				document.all['ImgRotatorImg_'+rotID].src='http://www.in-cosmetics.com/g/2009/logos/'+obj.imgName;
 				document.all['ImgRotatorImg_'+rotID].width=obj.imgWidth;
 				document.all['ImgRotatorImg_'+rotID].height=obj.imgHeight;
 				document.all['ImgRotatorImg_'+rotID].alt=obj.imgAlt;
@@ -66,24 +76,30 @@
 				document.all['ImgRotatorHref_'+rotID].target=obj.imgTarget;
 			}
 			*/
-			if (document.all['ImgRotator_'+rotID] != null)
-			{	if (typeof(document.all['ImgRotatorDIV_'+rotID]) == "undefined")//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
-				{	document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+			ImgRotator=eval(doc+brO+"'ImgRotator_'+rotID"+brC);
+			if (ImgRotator != null)
+			{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID"+brC);
+				if (ImgRotatorDIV == null)//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
+				{	ImgRotator.innerHTML='<div Name="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'" ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+ImgRotator.innerHTML+'<\/div>';
 					for (i=0; i < eval('divArray_'+rotID+'.length'); i++)
-					{	document.all['ImgRotator_'+rotID].innerHTML=document.all['ImgRotator_'+rotID].innerHTML+eval('divArray_'+rotID+'['+i+'];');
+					{	ImgRotator.innerHTML=ImgRotator.innerHTML+eval('divArray_'+rotID+'['+i+'];');
 					}
-					document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+					ImgRotator.innerHTML='<div name= "ImgRotatorDIV_'+rotID+'" ID="ImgRotatorDIV_'+rotID+'">'+ImgRotator.innerHTML+'<\/div>';
 					//setTimeout('updateRotator('+rotID+');',500);
 				}
 				else
 				{	for (i=0; i <= eval('divArray_'+rotID+'.length'); i++)
-					{	if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+i]) != "undefined")
-						{	document.all['ImgRotatorDIV_'+rotID+'_'+i].style.display='none';
+					{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC);
+						if (typeof(ImgRotatorDIV) != "undefined")
+						{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC+sty);
+							ImgRotatorDIVStyle.display='none';
 						}
 					}
 					//window.status='document.all[ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID);
-					if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)]) != "undefined")
-					{	document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)].style.display='inline';
+					ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC);
+					if (typeof(ImgRotatorDIV) != "undefined")
+					{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC+sty);
+						ImgRotatorDIVStyle.display='inline';
 					}
 				}
 			}
@@ -102,19 +118,207 @@
 				{	DIVObject.display='none';	}
 			}
 		}
+
+		
+			//ELibHiRes, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
+			function ELibHiRes(img, target, libID, productID, windowWidth)
+			{	var imgHREF='http://www.in-cosmetics.com/page.cfm/Action=ExhibitorLibrary/LibraryID='+libID+'/ProductID='+productID+'/viewHiRes='+target+'/';
+				
+				if (target=='_self')
+				{	top.location.href=imgHREF;
+				}
+				else if (target=='_blank')
+				{	windowWidth+=16;
+					var ELibHiResWindow=window.open(imgHREF+'t=b', 'ELibHiResWindow', 'width='+windowWidth+',height='+Math.ceil(windowWidth*0.66)+',scrollbars=yes,resizable=yes,toolbar=no,menubar=no,location=no,directories=no,status=no');
+					ELibHiResWindow.focus();
+				}
+			}
+		
+		/*function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL+'&RNDID='+Math.random();
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	params+=ambersand+encodeURI(URL[i]);
+					ambersand='&';
+				}
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}*/
+	//-->
+	</script>
+	
+	<script language="javascript" type="text/javascript">
+	<!--
+		function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL;
+			if (UID == 0)
+			{	UID=xmlHttp.length+10;
+			}
+			else
+			{	url+='&RNDID='+Math.random();
+			}
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	//alert(xmlHttp[UID].readyState+' '+xmlHttp[UID].status);
+				if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	URL[i]=URL[i].replace('+','%2B');
+					//URL[i]=URL[i].replace('¦','altPipe');
+					params+=ambersand+encodeURI(URL[i]);//URL[i];
+					ambersand='&';
+				}
+				params=params.replace('%0A%5C','¦');
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+				//alert(URL[0]+'&'+params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}
+		
+		function formFields2Array(postArray,formname,fieldExclude)
+		{	var theform = document.forms[formname];
+			for(i=0; i < theform.elements.length; i++) 
+			{	if (fieldExclude.indexOf(theform.elements[i].name) == -1)
+				{	fieldValue='';
+					switch (theform.elements[i].tagName) 
+					{	case "INPUT": 
+							switch (theform.elements[i].type) 
+							{	case "text": 
+								case "hidden": 
+									fieldValue= encodeURIComponent(theform.elements[i].value); 
+								break; 
+								case "checkbox": 
+									if (theform.elements[i].checked) 
+									{	fieldValue= theform.elements[i].value; 
+									}
+								break;
+								case "radio": 
+									if (theform.elements[i].checked) 
+									{	fieldValue= theform.elements[i].value; 
+									} 
+							} 
+						break; 
+						case "TEXTAREA": 
+							fieldValue= encodeURIComponent(theform.elements[i].value); 
+						break;
+						case "SELECT": 
+							var sel = theform.elements[i]; 
+							fieldValue= sel.options[sel.selectedIndex].value; 
+						break; 
+					}
+					postArray[postArray.length] = theform.elements[i].name + "=" + fieldValue;
+				}
+			}
+			return postArray; 
+		} 
 	//-->
 	</script>
 
 
 
-	
+
 
 
 
 		
 		
 <!--
-(c) Copyright 2006 ASP Multimedia Ltd.
+(c) Copyright 2008 ASP Multimedia Ltd.
 SHOWOFF is a product owned by ASP Multimedia Ltd.
 -->
 
@@ -122,742 +326,758 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 		
-	<script language="javascript" type="text/javascript">
+	
+
+<title>in-cosmetics - Privacy Pledge</title>
+<script language="javascript" type="text/javascript">
+rolloverImage_0_off=new Image(); rolloverImage_0_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Home_off.gif'; rolloverImage_0_on=new Image(); rolloverImage_0_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Home_on.gif';
+rolloverImage_1_off=new Image(); rolloverImage_1_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Whats_New_off.gif'; rolloverImage_1_on=new Image(); rolloverImage_1_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Whats_New_on.gif';
+rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibiting_Information_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibiting_Information_on.gif';
+rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibitor_Zone_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibitor_Zone_on.gif';
+rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Educational_Programme_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Educational_Programme_on.gif';
+rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Online_Press_Centre_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Online_Press_Centre_on.gif';
+rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Industry_Links_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Industry_Links_on.gif';
+rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Home_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Home_on.gif';
+rolloverImage_9_off=new Image(); rolloverImage_9_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Whats_New_off.gif'; rolloverImage_9_on=new Image(); rolloverImage_9_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Whats_New_on.gif';
+rolloverImage_10_off=new Image(); rolloverImage_10_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibiting_Information_off.gif'; rolloverImage_10_on=new Image(); rolloverImage_10_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibiting_Information_on.gif';
+rolloverImage_11_off=new Image(); rolloverImage_11_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibitor_Zone_off.gif'; rolloverImage_11_on=new Image(); rolloverImage_11_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Exhibitor_Zone_on.gif';
+rolloverImage_13_off=new Image(); rolloverImage_13_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Educational_Programme_off.gif'; rolloverImage_13_on=new Image(); rolloverImage_13_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Educational_Programme_on.gif';
+rolloverImage_14_off=new Image(); rolloverImage_14_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Online_Press_Centre_off.gif'; rolloverImage_14_on=new Image(); rolloverImage_14_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Online_Press_Centre_on.gif';
+rolloverImage_15_off=new Image(); rolloverImage_15_off.src='http://www.in-cosmetics.com/g/2009/template/rol_Industry_Links_off.gif'; rolloverImage_15_on=new Image(); rolloverImage_15_on.src='http://www.in-cosmetics.com/g/2009/template/rol_Industry_Links_on.gif';
+</script></head>
+	
+	
+	<body bgcolor="#666666">
+
+	
+	
+	
+<a name="Head"></a>
+
+<div id="PageBody_DIV">
+	<!-- websiteAnnouncement -->
+
+	<div align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">  
+	<tbody><tr>    
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/site_tl.gif" alt="" width="20" height="20"></td>    
+		<td style="background:url(http://www.in-cosmetics.com/g/2009/template/site_t.gif);" width="960"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/site_tr.gif" alt="" width="20" height="20"></td>  
+	</tr>  
+	<tr>    
+		<td style="background:url(http://www.in-cosmetics.com/g/2009/template/site_l.gif);"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td>
+			<table width="960" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">  
+				<tbody><tr>  
+					<td colspan="5">
+<table cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><a href="http://www.in-cosmetics.com/"><img src="http://www.in-cosmetics.com/g/2009/template/site_head_incoseu09.jpg" alt="in-cosmetics" border="0" width="960"></a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.in-cosmetics.com/"><img src="http://www.in-cosmetics.com/g/2009/template/site_head_bottom.gif" alt="in-cosmetics" border="0" width="960"></a></td>
+	</tr>
+</tbody></table> </td>
+				</tr>
+				<tr>  
+					<td colspan="5"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="10"></td>
+				</tr>  
+				<tr>    
+					<td width="185" valign="top">
+<table width="185" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="26" class="MainMenu" colspan="2"><a class="mainmenu" accesskey="2" href="http://www.in-cosmetics.com/page.cfm/Link=1/t=m/goSection=3" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Home_off.gif" name="rolloverImage_0" id="rolloverImage_0" onmouseover="rolloverImage('rolloverImage_0','on');" onmouseout="rolloverImage('rolloverImage_0','off');" height="26" alt="Home" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="3" href="http://www.in-cosmetics.com/page.cfm/Link=204/t=m/goSection=10" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Whats_New_off.gif" name="rolloverImage_1" id="rolloverImage_1" onmouseover="rolloverImage('rolloverImage_1','on');" onmouseout="rolloverImage('rolloverImage_1','off');" height="26" alt="What's New" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="4" href="http://www.in-cosmetics.com/page.cfm/Link=153/t=m/goSection=4" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Exhibiting_Information_off.gif" name="rolloverImage_2" id="rolloverImage_2" onmouseover="rolloverImage('rolloverImage_2','on');" onmouseout="rolloverImage('rolloverImage_2','off');" height="26" alt="Exhibiting Information" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="5" href="http://www.in-cosmetics.com/page.cfm/Action=EZone/t=m/goSection=12" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Exhibitor_Zone_off.gif" name="rolloverImage_3" id="rolloverImage_3" onmouseover="rolloverImage('rolloverImage_3','on');" onmouseout="rolloverImage('rolloverImage_3','off');" height="26" alt="Exhibitor Zone" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenuselected" accesskey="6" href="http://www.in-cosmetics.com/page.cfm/Link=130/t=m/goSection=7" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Visiting_Information_on.gif" height="26" alt="Visiting Information" width="185"></a></td></tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=136/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=136/t=m/goSection=7" target="_self">Why Visit?</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=126/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=126/t=m/goSection=7" target="_self">Pre-registration</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m/goSection=7" target="_self">2009 Exhibitor List</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=20/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=20/t=m/goSection=7" target="_self">2009 Floorplan</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=ShowCategory/ShowCatID=1/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=ShowCategory/ShowCatID=1/goSection=7" target="_self">Product Directory</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=2/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=2/t=m/goSection=7" target="_self">Free e-newsletter</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=136/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=136/t=m/goSection=7" target="_self">2008 Show Review</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=4/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=4/t=m/goSection=7" target="_self">Admission Policy</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=135/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=135/t=m/goSection=7" target="_self">Testimonials</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="175"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=30/t=m/goSection=7" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="submenu" href="http://www.in-cosmetics.com/page.cfm/Link=30/t=m/goSection=7" target="_self">Travel &amp; Hotels</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="7" href="http://www.in-cosmetics.com/page.cfm/Link=40/t=m/goSection=8" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Educational_Programme_off.gif" name="rolloverImage_5" id="rolloverImage_5" onmouseover="rolloverImage('rolloverImage_5','on');" onmouseout="rolloverImage('rolloverImage_5','off');" height="26" alt="Educational Programme" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="8" href="http://www.in-cosmetics.com/page.cfm/Link=108/t=m/goSection=11" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Online_Press_Centre_off.gif" name="rolloverImage_6" id="rolloverImage_6" onmouseover="rolloverImage('rolloverImage_6','on');" onmouseout="rolloverImage('rolloverImage_6','off');" height="26" alt="Online Press Centre" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="mainmenu" accesskey="9" href="http://www.in-cosmetics.com/page.cfm/Link=110/t=m/goSection=13" target="_self"><img border="0" src="http://www.in-cosmetics.com/g/2009/template/rol_Industry_Links_off.gif" name="rolloverImage_7" id="rolloverImage_7" onmouseover="rolloverImage('rolloverImage_7','on');" onmouseout="rolloverImage('rolloverImage_7','off');" height="26" alt="Industry Links" width="185"></a></td></tr>
+</tbody></table><img alt="" src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10"><br><!-- ** start of in-cosmetics group panel (panel 3780) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">in-cosmetics group</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><p align="center"><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmeticsasia.com/"><img height="28" alt="in-cosmetics asia" src="http://www.in-cosmetics.com/g/2009/panels/group_link_asia2.gif" width="150" border="0" asia=""></a><br><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/"><img height="28" alt="in-cosmetics" src="http://www.in-cosmetics.com/g/2009/panels/group_link_incos2.gif" width="150" border="0"></a><br><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmeticsindia.com/"><img height="28" alt="in-cosmetics india" src="http://www.in-cosmetics.com/g/2009/panels/group_link_india2.gif" width="150" border="0" india=""></a><br><br><a class="Panel" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/link=183"><strong>Click here</strong></a> </p></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of in-cosmetics group panel (panel 3780) --><!-- ** start of online media partner panel (panel 3872) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">online media partner</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><div style="text-align: center;"><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.cosmeticsdesign-europe.com/landingpage/landingpagecde.htm?gad=CImgkKcEEggjE8I1xKDN9hjbgO79AyD95s4s"><img alt="cosmeticsdesign-europe.com" src="http://www.in-cosmetics.com/g/2009/panels/cde_125x125.gif" align="" border="0" height="125" width="125"></a></div> </font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of online media partner panel (panel 3872) --><!-- ** start of organised by panel (panel 3731) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">organised by</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><!-- <UDF_formattedPage/> --><table class="ae_noborder" cellspacing="0" cellpadding="5" width="100%" bgcolor="ffffff" border="0"><tbody>
+	<tr>
+		<td class="Panel" align="middle"><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reedexpo.co.uk/"><img height="23" alt="" src="http://www.aspcp.com/g/logos/logo_reed_23_120.gif" width="120" border="0"></a><br><b><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reed-elsevier.com/">A division of Reed Business</a></b></td>
+	</tr></tbody>
+</table></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of organised by panel (panel 3731) --></td>    
+					<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="10" height="20"></td>          
+					<td valign="top" width="570">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="100%" height="1"></td>
+	</tr>
+	<tr>
+		<td height="20" class="pagetitle">Privacy Pledge</td>
+	</tr>
+	<tr>
+		<td bgcolor="#f9d6e7"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="100%" height="1"></td>
+	</tr>
+</tbody></table>
+	<!-- *** Start of Print Friendly Page *** -->
+	
+		
+		<a href="http://www.in-cosmetics.com/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.in-cosmetics.com/" accesskey="1"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.in-cosmetics.com/" accesskey="2"></a> <a href="http://www.in-cosmetics.com/" accesskey="3"></a> <a href="http://www.in-cosmetics.com/" accesskey="4"></a> <a href="http://www.in-cosmetics.com/" accesskey="5"></a> <a href="http://www.in-cosmetics.com/" accesskey="6"></a> <a href="http://www.in-cosmetics.com/" accesskey="7"></a> <a href="http://www.in-cosmetics.com/" accesskey="8"></a> <a href="http://www.in-cosmetics.com/" accesskey="9"></a> 
+
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+		
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+			
+		
+				
+					
+						
+					
+					
+						
+							
+								
+								
+	
+	
+	
+	
+		
+		
+	
+	
+	
+		
+		
+	
+	
+		
+		
+		<a name="Title"></a>
+		
+	
+	
+		
+	
+	
+	
+	
+			
+	
+	
+	
+		
+	
+	
+		
+			
+				
+					
+				
+			
+		
+		
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+
+		
+		
+							
+						
+							
+	
+	
+
+<!-- ** start of all sheets --> 
+	
+		
+		
+	
+
+
+	
+<!-- ** start of outer sheet HTML --><!-- ** start of sheet 1 (Full) --><!-- <UDF_formattedPage/> --><a name="Article_218"></a><table cellspacing="0" cellpadding="0" border="0" class="Align" width="100%"><tbody><tr><td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td bgcolor="#f9d6e7"><img scr="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="100%" height="1"></td>
+	</tr>
+	<tr>
+		<td height="22" class="sheettitle"><font face="Arial" size="2" class="SheetTitle">Privacy Pledge</font></td>
+	</tr>
+	<tr>
+		<td><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="185" height="9"></td>
+	</tr>
+	<tr>
+		<td class="default"><!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="default"><strong>How Your Information Is Used<br><br></strong>Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.<br><br>Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. <br><br><b>Customer Definition</b><br><br>RX defines its customers as follows 
+<ul>
+<li>Trade Show visitors 
+</li><li>Trade Show exhibitors 
+</li><li>Conference visitors 
+</li><li>Inquiries 
+</li><li>Speakers 
+</li><li>Sponsors 
+</li><li>Press 
+</li><li>Other individuals with whom RX maintains business relationships or communications </li></ul><b>Types of Information Gathered</b><br><br>There are two primary types of information provided by RX customers. The definitions and treatments of these types are as follows:<br><br><b>Financial Information</b> - Payment information gathered during the registration process - including but not limited to, credit card numbers, financial institutions, and expiration dates - is considered Financial. This information is not distributed under any circumstance.<br><br><b>Professional Information</b> - Data that customers provide to RX through various methods of communications with RX is considered professional information that is stored and managed for RX's internal use. Professional information includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or registration forms. Data captured during a customer's visit to an RX web site, as well as during a visit with another RX customer, is also considered professional information and may also be stored for RX's internal use. Professional information may be, upon the consent of RX, shared with other organisations or RX customers for the purpose of facilitating business relationships in our customer's best interests.<br><br><b>Opt Out</b><br><br>RX will accept, acknowledge and maintain any customer's request to opt-out of either future communication from RX or future communication from any third party to whom RX may provide customer information.<br><br>RX will accept opt-out requests via the contact details below as follows:<br>
+<ul>
+<li>By Sender: RX or third party 
+</li><li>By Show: i.e. World Travel Market 
+</li><li>By Medium: Mail, Phone, Fax, Email (or All) </li></ul><b>Any queries/questions/opt out</b><br><br>If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail <a class="default" href="mailto:unsubscribe@reedexpo.co.uk">unsubscribe@reedexpo.co.uk</a>, by telephone Tel&nbsp; +44 (0) 20 8271 2134 or by post to Information Management, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom and specify your name, company name and e-mail address.<br><br><b>Security</b><br><br>This site utilises a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using this site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.<br><br><b>Cookies</b><br><br>Where a site is password protected it will use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.<br><br>The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site.<br><br><b>E-mail addresses</b><br><br>This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to <a class="default" title="mailto:unsubscribe@reedexpo.co.uk" href="mailto:unsubscribe@reedexpo.co.uk">unsubscribe@reedexpo.co.uk</a> and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.<br><br><b>Disclaimer</b><br><br>No part of this website may be reproduced or transmitted by any means, electronic, mechanical, (including photocopying), recording or by any information storage and retrieval system, without prior permission from RX, the copyright owners. RX Exhibitions' website is published by Reed Exhibitions Limited.<br><br>This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.<br><br>Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site.</font></td>
+	</tr><!--- 
+	<tr>
+		<td><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="185" height="20"></td>
+	</tr> --->
+</tbody></table></td></tr></tbody></table><!-- ** end of sheet 1 (Full) --><!-- ** end of outer sheet HTML -->
+
+
+<!-- ** end of all sheets --> 
+	
+
+
+
+
+							
+							
+							
+							
+							
+						
+					
+					
+					
+				
+			
+			
+		
+		
+	
+	
+	
+		
+	
+	
+	<!-- *** End of Print Friendly Page *** -->
+	
+	
+	
+	
+	
+
+	
+	
+	
+		<form action="http://www.in-cosmetics.com/page.cfm" method="post" name="EmailPageForm">
+			<input type="hidden" name="Action" value="EmailThisPage">
+			<input type="hidden" name="LinkData" value="Link~61131~47t~61m">
+		</form>
+	
+	
+	
+		
+			
+			
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+				<img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="570" height="1"><br></td>    
+					<td width="10"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="10" height="20"></td>    
+					<td width="185" valign="top"><!-- ** start of quick search  panel (panel 3775) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">quick search </font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><form action="http://www.in-cosmetics.com/page.cfm" method="post" name="search_3775" class="nomargin"><input type="hidden" name="Action" value="Search"><span class="nowrap"><input name="SearchCriteria" type="text" style="width:100; height:20; vertical-align:middle;"><a onclick="javascript:document.search_3775.submit();" style="cursor:hand;" class="Panel"><font face="Arial" size="2" class="Panel"><span style="cursor:hand;">&nbsp;Search</span></font></a></span></form></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of quick search  panel (panel 3775) --><!-- ** start of Book your dates! panel (panel 3850) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">Book your dates!</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=VCalendarIndex/CalendarID=1/t=m"><img height="43" alt="Add show dates to your diary" src="http://www.in-cosmetics.com/g/2009/panels/add_incos_09.jpg" width="150" border="0"></a></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of Book your dates! panel (panel 3850) --><!-- ** start of Who's offering what? panel (panel 4051) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">Who's offering what?</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=ShowCategory/ShowCatID=1"><img height="43" alt="Product Directory" src="http://www.in-cosmetics.com/g/2009/panels/button_product_directory.gif" width="150" border="0"></a></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of Who's offering what? panel (panel 4051) --><!-- ** start of quick links panel (panel 3776) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">quick links</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><font face="" size="2" class="Panel">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=136/t=m" target="_self">2008 Show Review</a></font></td></tr><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=3/t=m" target="_self">Pre-registration Notification</a></font></td></tr><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=7/t=m" target="_self">Recommend a colleague</a></font></td></tr><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m" target="_self">Exhibitor List</a></font></td></tr><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=20/t=m" target="_self">Floorplan</a></font></td></tr><tr><td bgcolor="#ffffff" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=2/t=m" target="_self">Free e-newsletter</a></font></td></tr>
+</tbody></table></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of quick links panel (panel 3776) --><!-- ** start of 2008 show videos panel (panel 3871) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">2008 show videos</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><font face="" size="2" class="Panel"><script language="javascript" type="text/javascript">
 	<!--
 	var divArray_0=new Array();
 	var objArray_0=new Array();
-	var obj={imgName:'link_chi06.jpg',imgWidth:'150',imgHeight:'60',imgAlt:'CHi',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=166/t=m',imgTarget:'_self'};
+	var obj={imgName:'video_image_infocus_utopia_banner.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here to view the in-focus Utopia video',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=137/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
 	objArray_0[0]=obj;
-	var obj={imgName:'link_pchi06.jpg',imgWidth:'150',imgHeight:'60',imgAlt:'PCHi',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=166/t=m',imgTarget:'_self'};
+	var obj={imgName:'video_image_testimonials_banner.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here to view testimonials',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=135/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
 	objArray_0[1]=obj;
-	var obj={imgName:'link_pcia07.jpg',imgWidth:'150',imgHeight:'60',imgAlt:'PCIA',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=166/t=m',imgTarget:'_self'};
-	objArray_0[2]=obj;
 	for (ii=0; ii < objArray_0.length; ii++)
-	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.in-cosmetics.com/g/logos/'+objArray_0[ii].imgName+'\";');
+	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.in-cosmetics.com/g/2009/panels/'+objArray_0[ii].imgName+'\";');
 	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_0[ii].imgWidth+' height='+objArray_0[ii].imgHeight+' alt=\"'+objArray_0[ii].imgAlt+'\">';
 	if (objArray_0[ii].imgLink != '')
 	{	imgTag='<a href=\"'+objArray_0[ii].imgLink+'\" target=\"'+objArray_0[ii].imgTarget+'\">'+imgTag+'<\/a>';
 	}
-	divArray_0[ii]='<div align=\"center\" ID=\"ImgRotatorDIV_0_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
+	divArray_0[ii]='<div align=\"center\" name=\"ImgRotatorDIV_0_'+ii+'\" ID=\"ImgRotatorDIV_0_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
 	}
 	if(nav=='ie4')
-	{	var countRotator_0=2;
-	setInterval('updateRotator(0);',2000);
+	{	var countRotator_0=1;
+	setInterval('updateRotator(0);',3000);
+	}
+	else if(nav=='ns6')
+	{	var countRotator_0=1;
+	setInterval('updateRotator(0);',3000);
 	}
 	
 	//-->
-	</script>
-
-<title>in-cosmetics - Privacy Pledge</title>
-<script language="javascript" type="text/javascript">
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="120" align="center" id="ImgRotator_0"><a href="page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=Object/objectID=137/t=m" target="_self" id="ImgRotatorHref_0"><img src="http://www.in-cosmetics.com/g/2009/panels/video_image_infocus_utopia_banner.jpg" width="150" height="120" alt="click here to view the in-focus Utopia video" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of 2008 show videos panel (panel 3871) --><!-- ** start of 2008 show pictures panel (panel 3855) -->
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_top_back.gif" style="padding:4 6 4 6;"><font face="" size="2" class="PanelTitle">2008 show pictures</font><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="186" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center"><font face="" size="2" class="Panel"><script language="javascript" type="text/javascript">
 	<!--
 	var divArray_1=new Array();
 	var objArray_1=new Array();
-	var obj={imgName:'logo_ctfa_125x125.gif',imgWidth:'125',imgHeight:'125',imgAlt:'CTFA',imgLink:'http://www.in-cosmetics.com/page.cfm/LinkTarget=00262/URLTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
+	var obj={imgName:'photo_powerbar_1.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here for the 2008 picture library',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=PhotoLibrary/libID=291/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
 	objArray_1[0]=obj;
+	var obj={imgName:'photo_powerbar_2.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here for the 2008 picture library',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=PhotoLibrary/libID=291/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
+	objArray_1[1]=obj;
+	var obj={imgName:'photo_powerbar_3.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here for the 2008 picture library',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=PhotoLibrary/libID=291/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
+	objArray_1[2]=obj;
+	var obj={imgName:'photo_powerbar_4.jpg',imgWidth:'150',imgHeight:'120',imgAlt:'click here for the 2008 picture library',imgLink:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=PhotoLibrary/libID=291/t=m',imgTarget:'page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m',imgTarget:'_self'};
+	objArray_1[3]=obj;
+	for (ii=0; ii < objArray_1.length; ii++)
+	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.in-cosmetics.com/g/2009/panels/'+objArray_1[ii].imgName+'\";');
+	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_1[ii].imgWidth+' height='+objArray_1[ii].imgHeight+' alt=\"'+objArray_1[ii].imgAlt+'\">';
+	if (objArray_1[ii].imgLink != '')
+	{	imgTag='<a href=\"'+objArray_1[ii].imgLink+'\" target=\"'+objArray_1[ii].imgTarget+'\">'+imgTag+'<\/a>';
+	}
+	divArray_1[ii]='<div align=\"center\" name=\"ImgRotatorDIV_1_'+ii+'\" ID=\"ImgRotatorDIV_1_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
+	}
+	if(nav=='ie4')
+	{	var countRotator_1=1;
+	setInterval('updateRotator(1);',3000);
+	}
+	else if(nav=='ns6')
+	{	var countRotator_1=1;
+	setInterval('updateRotator(1);',3000);
+	}
 	
 	//-->
-	</script><script language="javascript" type="text/javascript">
-rolloverImage_0_off=new Image(); rolloverImage_0_off.src='http://www.in-cosmetics.com/g/logos/rollover_Home_off.gif'; rolloverImage_0_on=new Image(); rolloverImage_0_on.src='http://www.in-cosmetics.com/g/logos/rollover_Home_on.gif';
-rolloverImage_1_off=new Image(); rolloverImage_1_off.src='http://www.in-cosmetics.com/g/logos/rollover_Whats_new_off.gif'; rolloverImage_1_on=new Image(); rolloverImage_1_on.src='http://www.in-cosmetics.com/g/logos/rollover_Whats_new_on.gif';
-rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.in-cosmetics.com/g/logos/rollover_Visiting_Information_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.in-cosmetics.com/g/logos/rollover_Visiting_Information_on.gif';
-rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.in-cosmetics.com/g/logos/rollover_Educational_Programme_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.in-cosmetics.com/g/logos/rollover_Educational_Programme_on.gif';
-rolloverImage_4_off=new Image(); rolloverImage_4_off.src='http://www.in-cosmetics.com/g/logos/rollover_Exhibiting_Information_off.gif'; rolloverImage_4_on=new Image(); rolloverImage_4_on.src='http://www.in-cosmetics.com/g/logos/rollover_Exhibiting_Information_on.gif';
-rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.in-cosmetics.com/g/logos/rollover_Exhibitor_Zone_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.in-cosmetics.com/g/logos/rollover_Exhibitor_Zone_on.gif';
-rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.in-cosmetics.com/g/logos/rollover_Travel_Hotels_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.in-cosmetics.com/g/logos/rollover_Travel_Hotels_on.gif';
-rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.in-cosmetics.com/g/logos/rollover_Industry_News_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.in-cosmetics.com/g/logos/rollover_Industry_News_on.gif';
-rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.in-cosmetics.com/g/logos/rollover_Previous_Shows_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.in-cosmetics.com/g/logos/rollover_Previous_Shows_on.gif';
-rolloverImage_9_off=new Image(); rolloverImage_9_off.src='http://www.in-cosmetics.com/g/logos/rollover_Online_Press_Centre_off.gif'; rolloverImage_9_on=new Image(); rolloverImage_9_on.src='http://www.in-cosmetics.com/g/logos/rollover_Online_Press_Centre_on.gif';
-rolloverImage_10_off=new Image(); rolloverImage_10_off.src='http://www.in-cosmetics.com/g/logos/rollover_Links_off.gif'; rolloverImage_10_on=new Image(); rolloverImage_10_on.src='http://www.in-cosmetics.com/g/logos/rollover_Links_on.gif';
-</script></head>
-	
-	
-<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" bgcolor="#FFFFFF" text="#000000" link="#A5C967" alink="#A5C967" vlink="#A5C967">
-
-
-	
-
-<a name="Head"></a>
-
-<div id="PageBody_DIV">
-<!-- websiteAnnouncement -->
-<div align="center">
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#A7DDE9" height="100%">
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="120" align="center" id="ImgRotator_1"><a href="page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Action=PhotoLibrary/libID=291/t=m" target="_self" id="ImgRotatorHref_1"><img src="http://www.in-cosmetics.com/g/2009/panels/photo_powerbar_1.jpg" width="150" height="120" alt="click here for the 2008 picture library" border="0" id="ImgRotatorImg_1"></a></td></tr></tbody></table></font></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="4" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+	</tr>
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt=""><br> <!-- Spacer Break --><!-- ** end of 2008 show pictures panel (panel 3855) --></td>  
+				</tr>  
+				<tr>  
+					<td colspan="5"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="10"></td>
+				</tr>    
+				<tr>  
+					<td colspan="5" bgcolor="#c00056" height="26" style="background:url(http://www.in-cosmetics.com/g/2009/template/background_footer.gif); background-repeat:no-repeat; background-position: bottom left;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><center>
+<table width="568" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td valign="top" align="center" width="100%">
-			
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#A7DDE9">
-				<tbody><tr>
-					<td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td bgcolor="44747B"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/foot_top_back.gif" style="padding:4px 6px 6px 6px;"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="1" border="0" alt=""><font face="" size="2" class="PanelTitle">in-cosmetics group events</font></td>
 	</tr>
 </tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="568" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td bgcolor="FFFFFF" width="25%" align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cabversion=5,0,0,0" width="120" height="125"> <param name="movie" value="http://www.in-cosmetics.com/g/template/splah01.swf"><param name="quality" value="high"><param name="bgcolor" value="FFFFFF"><embed src="http://www.in-cosmetics.com/g/template/splah01.swf" quality="high" bgcolor="FFFFFF" width="120" height="125" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></td>
-		<td bgcolor="FFFFFF" width="50%" align="center"><img src="http://www.in-cosmetics.com/g/template/incos07_banner_dates.gif" width="259" height="125" border="0" alt="in-cosmetics Privacy Pledge Privacy Pledge"><br></td>
-		<td bgcolor="FFFFFF" width="25%" align="center"><img src="http://www.in-cosmetics.com/g/template/incos07_banner_logo.gif" width="109" height="125" border="0" alt="in-cosmetics Privacy Pledge Privacy Pledge"><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_left.gif" width="11" height="11" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_content_back.gif"><img src="http://www.in-cosmetics.com/g/2009//g_blank.gif" width="1" height="11" border="0" alt=""><br></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_content_right.gif" width="11" height="11" border="0" alt=""><br></td>
 	</tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td bgcolor="44747B"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0" alt=""><br></td>
-	</tr>
-</tbody></table></td>
-				</tr>
-			</tbody></table>
-
-		</td>
-	</tr>
-	<tr height="100%">
-		<td valign="top" align="center" bgcolor="#A7DDE9">
-			
-			<table border="0" cellpadding="0" cellspacing="0" align="Center" width="100%" height="100%">
-				<tbody><tr>
-					<td width="170" valign="top" align="center">
-						
-						<img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10" border="0"><br>
-						
-						<table border="0" cellpadding="0" cellspacing="0" align="center">
-							<tbody><tr>
-								<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="10" height="1"></td>
-								<td align="center">
-									<table border="0" cellpadding="0" cellspacing="0" align="center">
-									<!-- Start of the left powerbar -->
-										
-										
-										
-		
-	
-		
-		
-			<!-- ** start of  panel (panel 1 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-				
-				
-				
-				
-				
-					
-						
-	
-		
-	
-	
-
-
-
- 
-						
-					
-				
-			
-		
-		
-		
-		
-			<tbody><tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table width="165" border="0" cellpadding="1" cellspacing="0">
-	<tbody><tr>
-		<td bgcolor="#4cc4cb">
-			<table width="163" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td bgcolor="#FFFFFF"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="163" height="5" border="0" alt=""><br>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td><a class="MainMenu" accesskey="2" href="http://www.in-cosmetics.com/page.cfm/Link=1/t=m/goSection=3" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Home_off.gif" name="rolloverImage_0" id="rolloverImage_0" onmouseover="rolloverImage('rolloverImage_0','on');" onmouseout="rolloverImage('rolloverImage_0','off');" alt="Home" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="3" href="http://www.in-cosmetics.com/page.cfm/Link=65/t=m/goSection=20" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Whats_new_off.gif" name="rolloverImage_1" id="rolloverImage_1" onmouseover="rolloverImage('rolloverImage_1','on');" onmouseout="rolloverImage('rolloverImage_1','off');" alt="What's new" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="4" href="http://www.in-cosmetics.com/page.cfm/Link=14/t=m/goSection=6" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Visiting_Information_off.gif" name="rolloverImage_2" id="rolloverImage_2" onmouseover="rolloverImage('rolloverImage_2','on');" onmouseout="rolloverImage('rolloverImage_2','off');" alt="Visiting Information" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="5" href="http://www.in-cosmetics.com/page.cfm/Link=140/t=m/goSection=30" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Educational_Programme_off.gif" name="rolloverImage_3" id="rolloverImage_3" onmouseover="rolloverImage('rolloverImage_3','on');" onmouseout="rolloverImage('rolloverImage_3','off');" alt="Educational Programme" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="6" href="http://www.in-cosmetics.com/page.cfm/Link=8/t=m/goSection=4" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Exhibiting_Information_off.gif" name="rolloverImage_4" id="rolloverImage_4" onmouseover="rolloverImage('rolloverImage_4','on');" onmouseout="rolloverImage('rolloverImage_4','off');" alt="Exhibiting Information" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="7" href="http://www.in-cosmetics.com/page.cfm/Action=EZone/t=m/goSection=18" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Exhibitor_Zone_off.gif" name="rolloverImage_5" id="rolloverImage_5" onmouseover="rolloverImage('rolloverImage_5','on');" onmouseout="rolloverImage('rolloverImage_5','off');" alt="Exhibitor Zone" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="8" href="http://www.in-cosmetics.com/page.cfm/Link=93/t=m/goSection=31" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Travel_Hotels_off.gif" name="rolloverImage_6" id="rolloverImage_6" onmouseover="rolloverImage('rolloverImage_6','on');" onmouseout="rolloverImage('rolloverImage_6','off');" alt="Travel Hotels" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" accesskey="9" href="http://www.in-cosmetics.com/page.cfm/Link=31/t=m/goSection=12" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Industry_News_off.gif" name="rolloverImage_7" id="rolloverImage_7" onmouseover="rolloverImage('rolloverImage_7','on');" onmouseout="rolloverImage('rolloverImage_7','off');" alt="Industry News" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=152/t=m/goSection=19" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Previous_Shows_off.gif" name="rolloverImage_8" id="rolloverImage_8" onmouseover="rolloverImage('rolloverImage_8','on');" onmouseout="rolloverImage('rolloverImage_8','off');" alt="Previous Shows" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=29/t=m/goSection=11" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Online_Press_Centre_off.gif" name="rolloverImage_9" id="rolloverImage_9" onmouseover="rolloverImage('rolloverImage_9','on');" onmouseout="rolloverImage('rolloverImage_9','off');" alt="Online Press Centre" width="163" height="22" border="0"></a><br></td>
-</tr><tr>
-<td><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=49/t=m/goSection=17" target="_self"><img src="http://www.in-cosmetics.com/g/logos/rollover_Links_off.gif" name="rolloverImage_10" id="rolloverImage_10" onmouseover="rolloverImage('rolloverImage_10','on');" onmouseout="rolloverImage('rolloverImage_10','off');" alt="Links" width="163" height="22" border="0"></a><br></td>
-</tr></tbody></table>
-<img src="http://www.in-cosmetics.com/g/g_blank.gif" width="163" height="5" border="0" alt=""><br></font></td>
-				</tr>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td align="center">
+			<table cellpadding="0" cellspacing="4" border="0" width="100%">    
+				<tbody><tr>       
+					<td width="50%" align="center"><a href="http://www.in-cosmeticsindia.com" target="_new"><img src="http://www.in-cosmetics.com/g/2009/logos/official_incos_india_button.gif" width="150" height="80" border="0" alt="in-cosmetics India"></a></td>      
+					<td width="50%" align="center"><a href="http://www.in-cosmeticsasia.com" target="_new"><img src="http://www.in-cosmetics.com/g/2009/logos/button_incosasia_new.gif" width="150" height="80" border="0" alt="in-cosmetics Asia"></a></td>    
+				</tr>  
 			</tbody></table>
 		</td>
-		<td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
 	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of  panel (panel 1 on Left) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of Organised by panel (panel 2 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="165"> 
-				<tbody><tr> 
-					<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="2"></td> 
-				</tr> 
-				<tr> 
-					<td class="PanelTitle"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><b>ORGANISED BY</b></font><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></td> 
-				</tr>
-				<tr> 
-					<td align="center"> 
-						<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-							<tbody><tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-							<tr>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td bgcolor="#FFFFFF" class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><table cellspacing="0" cellpadding="5" width="100%" bgcolor="ffffff" border="0">
-	<tbody><tr>
-		<td style="font-family:Arial; font-size:11px; " align="middle"><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reedexpo.co.uk"><img height="23" alt="Reed Exhibitions" src="http://www.in-cosmetics.com/2007/g/logos/logo_reed_23_120.gif" width="120" border="0"></a><br><b><a class="Panel" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reed-elsevier.com">A division of Reed Business</a></b></td>
+	<tr>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_left_back.gif"><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/g_blank.gif" width="11" height="8" border="0" alt=""><br></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_right_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="11" height="1" border="0" alt=""><br></td>
 	</tr>
-</tbody></table></font></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-							</tr> 
-							<tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-						</tbody></table> 
-					</td> 
+	<tr>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_left.gif" width="11" height="11" border="0" alt=""></td>
+		<td background="http://www.in-cosmetics.com/g/2009/template/p_foot_back.gif"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="11" border="0" alt=""></td>
+		<td width="11"><img src="http://www.in-cosmetics.com/g/2009/template/p_foot_right.gif" width="11" height="11" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" width="1" height="10" alt="" border="0"></td>
+	</tr>
+</tbody></table></center><table width="100%" border="0">
+  <tbody><tr>
+    <td align="center">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9555363665770543";
+//InCosmetics
+google_ad_slot = "0633409763";
+google_ad_width = 468;
+google_ad_height = 60;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td>
+  </tr>
+</tbody></table></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="10" height="26"></td>
+		<td width="100%">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=38/t=m" target="_self">© 2008 Reed Exhibitions</a> </font></td><td><font face="Arial" size="2" class="Footer">&nbsp;|&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=131/t=m" target="_self">View the privacy policy</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=4/t=m" target="_self">Admissions policy</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m" target="_self">Contact us</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Action=SiteMap/t=m" target="_self">Site map</a></font></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Organised by panel (panel 2 on Left) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of New shows panel (panel 3 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-					
-					
-					
-					
-			
-	
-		
-		
-	
-
-
-
-
-
-
-					
-					
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="165"> 
-				<tbody><tr> 
-					<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="2"></td> 
-				</tr> 
-				<tr> 
-					<td class="PanelTitle"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><b>NEW SHOWS</b></font><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></td> 
-				</tr>
-				<tr> 
-					<td align="center"> 
-						<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-							<tbody><tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-							<tr>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td bgcolor="#FFFFFF" class="panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="60" align="center" id="ImgRotator_0"><a href="page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/Link=166/t=m" target="_self" id="ImgRotatorHref_0"><img src="http://www.in-cosmetics.com/g/logos/link_pchi06.jpg" width="150" height="60" alt="PCHi" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-							</tr> 
-							<tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-						</tbody></table> 
-					</td> 
+</tbody></table> </td>
 				</tr>
 			</tbody></table>
-		</td>
+		</td>    
+		<td style="background:url(http://www.in-cosmetics.com/g/2009/template/site_r.gif);"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="20"></td>  
+	</tr>  
+	<tr>    
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/site_bl.gif" alt="" width="20" height="20"></td>    
+		<td style="background:url(http://www.in-cosmetics.com/g/2009/template/site_b.gif);" width="960"><img src="http://www.in-cosmetics.com/g/2009/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td><img src="http://www.in-cosmetics.com/g/2009/template/site_br.gif" alt="" width="20" height="20"></td>  
 	</tr>
-</tbody></table> 
+</tbody></table></div> </div>
 
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of New shows panel (panel 3 on Left) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of in support of panel (panel 4 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="165"> 
-				<tbody><tr> 
-					<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="2"></td> 
-				</tr> 
-				<tr> 
-					<td class="PanelTitle"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><b>IN SUPPORT OF</b></font><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></td> 
-				</tr>
-				<tr> 
-					<td align="center"> 
-						<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-							<tbody><tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-							<tr>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td bgcolor="#FFFFFF" class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><p align="center"><a class="Panel" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm?HyperLink=http://www.lookgoodfeelbetter.co.uk"><img height="78" alt="Look Good...Feel Better" src="http://www.in-cosmetics.com/g/logos/LOGO_ LGFBVersion2_120w.jpg" width="120" border="0"></a></p></font></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-							</tr> 
-							<tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-						</tbody></table> 
-					</td> 
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of in support of panel (panel 4 on Left) -->
-			
-			
-			
-			
-		
-	
-
-										<!-- end of the left powerbar -->
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-					<td width="100%" valign="top" height="100%">
-						<img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10" border="0"><br>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td align="center" colspan="3">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-										<tbody><tr>											
-											<td><img src="http://www.in-cosmetics.com/g/template/g_controlPanelLeft.gif" width="11" height="22" alt="" border="0"></td>
-											<td background="http://www.in-cosmetics.com/g/template/menu_strip.gif" width="100%"> 
-	
-<table border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Action=Search/t=m" target="_self">search</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Action=SiteMap/t=m" target="_self">sitemap</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Link=2/t=m" target="_self">copyright</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Link=3/t=m" target="_self">privacy</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Action=RXDPAOptOut/t=m" target="_self">options</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="ControlPanel" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m" target="_self">contact</a></font></td></tr></tbody></table></td>
-											<td><img src="http://www.in-cosmetics.com/g/template/g_controlPanelRight.gif" width="11" height="22" alt="" border="0"></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10" border="0"></td>
-							</tr>
-							<tr>
-								<td width="15"><img src="http://www.in-cosmetics.com/g/template/g_bodyTopLeft.gif" width="15" height="15" alt="" border="0"></td>
-								
-								<td background="http://www.in-cosmetics.com/g/template/g_bodyFiller_top.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td width="15"><img src="http://www.in-cosmetics.com/g/template/g_bodyTopRight.gif" width="15" height="15" alt="" border="0"></td>
-							</tr>
-							<tr>
-								
-								<td width="15" background="http://www.in-cosmetics.com/g/template/g_bodyFiller_Left.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td bgcolor="#FFFFFF" valign="Top" width="100%">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
-										<tbody><tr>
-											<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="5" height="1"></td>
-											<td valign="top" width="100%">
-												
-												<!-- *** Start of Print Friendly Page *** --> <a href="http://www.in-cosmetics.com/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.in-cosmetics.com/" accesskey="1"></a> <a href="http://www.in-cosmetics.com/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.in-cosmetics.com/" accesskey="2"></a> <a href="http://www.in-cosmetics.com/" accesskey="3"></a> <a href="http://www.in-cosmetics.com/" accesskey="4"></a> <a href="http://www.in-cosmetics.com/" accesskey="5"></a> <a href="http://www.in-cosmetics.com/" accesskey="6"></a> <a href="http://www.in-cosmetics.com/" accesskey="7"></a> <a href="http://www.in-cosmetics.com/" accesskey="8"></a> <a href="http://www.in-cosmetics.com/" accesskey="9"></a> 
-
-	
-
-
-
-
-	
-	
-	
-	
-	
-		
-			
-		
-	
-	
-	
-	
-	
-		
-		
-		
-	
-			
-				
-					
-				
-				
-					
-						
-							
-							
-	
-	
-
-	
-	
-	<a name="Title"></a>
-	
-
-	
-
-	
-		
-		
-	
-
-	
-		
-			
-				<table class="TitleAlign" border="0" cellpadding="0" width="100%" cellspacing="0" height="12"><tbody><tr><td style="text-align:left;" height="12"><font size="1"><font face="Arial" color="#44747B" size="5" style="font-size:22px; ">Privacy Pledge</font></font></td></tr><tr><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="10" height="10" border="0"><br></td></tr></tbody></table>
-			
-		
-	
-	
-
-	
-	
-
-	
-	
-
-						
-					
-						
-
-
-<!-- ** start of all sheets --> 
-
-	
-	
-	
-	
-		
-		
-		
-		
-		
-	
-	
-		
-		
-		
-	
-	
-	
-
-
-
-		
-
-		
-		
-		<!-- ** start of Privacy Pledge sheet -->
-		<!-- <UDF_formattedPage/> --><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td colspan="3"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td><td valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="4CC4CB"><tbody><tr><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td><td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td></tr></tbody></table></td></tr><tr><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="10"></td><td width="100%"><b><font face="Arial" size="3" style="font-family:Arial; font-size:15px; "><font color="#4CC4CB">Privacy Pledge</font></font></b></td><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="5"></td></tr><tr><td colspan="3"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"></td></tr><tr><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="5"></td><td width="100%" valign="top"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1" style="font-family:Arial; font-size:11px;"><!-- <UDF_formattedPage/> --><font face="Arial" size="1" style="font-family:Arial; font-size:11px;">
-<b>How Your Information Is Used</b><br>
-<br>
-Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.<br>
-<br>
-Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. To be removed from our database please <a style="font-family:Arial; font-size:11px;" href="http://www.in-cosmetics.com/page.cfm/Action=RXDPAOptOut/ShowForm=Yes/t=m">click here</a> to complete a form that will allow us to amend your record.<br>
-<br>
-<b>Customer Definition</b><br>
-<br>
-RX defines its customers as follows
-<ul>
-<li>Trade Show visitors
-</li><li>Trade Show exhibitors
-</li><li>Conference visitors
-</li><li>Inquiries
-</li><li>Speakers
-</li><li>Sponsors
-</li><li>Press
-</li><li>Other individuals with whom RX maintains business relationships or communications
-</li></ul>
-<b>Types of Information Gathered</b><br>
-<br>
-There are two primary types of information provided by RX customers. The definitions and treatments of these types are as follows:<br>
-<br>
-<b>Financial Information</b> - Payment information gathered during the registration process - including but not limited to, credit card numbers, financial institutions, and expiration dates - is considered Financial. This information is not distributed under any circumstance.<br>
-<br>
-<b>Professional Information</b> - Data that customers provide to RX through various methods of communications with RX is considered professional information that is stored and managed for RX's internal use. Professional information includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or registration forms. Data captured during a customer's visit to an RX web site, as well as during a visit with another RX customer, is also considered professional information and may also be stored for RX's internal use. Professional information may be, upon the consent of RX, shared with other organisations or RX customers for the purpose of facilitating business relationships in our customer's best interests.<br>
-<br>
-<b>Opt Out</b><br>
-<br>
-RX will accept, acknowledge and maintain any customer's request to opt-out of either future communication from RX or future communication from any third party to whom RX may provide customer information.<br>
-<br>
-RX will accept opt-out requests via the contact details below as follows:<br>
-<ul>
-<li>By Sender: RX or third party
-</li><li>By Show: i.e. World Travel Market
-</li><li>By Medium: Mail, Phone, Fax, Email (or All)
-</li></ul>
-<b>Any queries/questions/opt out</b><br>
-<br>
-If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail <a style="font-family:Arial; font-size:11px;" href="mailto:rxinfo@reedexpo.co.uk">rxinfo@reedexpo.co.uk</a>, telephone +44 (0) 20 8271 2120, or FAX +44 (0) 20 8910 7823 or by post to Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom<br>
-<br>
-<b>Security</b><br>
-<br>
-This site utilises a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using this site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.<br>
-<br>
-<b>Cookies</b><br>
-<br>
-Where a site is password protected it will use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.<br>
-<br>
-The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site.<br>
-<br>
-<b>E-mail addresses</b><br>
-<br>
-This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to <a style="font-family:Arial; font-size:11px;" href="mailto:rxinfo@reedexpo.co.uk">rxinfo@reedexpo.co.uk</a> and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.<br>
-<br>
-<b>Disclaimer</b><br>
-<br>
-No part of this website may be reproduced or transmitted by any means, electronic, mechanical, (including photocopying), recording or by any information storage and retrieval system, without prior permission from RX, the copyright owners. RX Exhibitions' website is published by Reed Exhibitions Limited.<br>
-<br>
-This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.<br>
-<br>
-Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site.
-</font></td><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="5"></td></tr><tr><td colspan="3"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"></td></tr><tr><td colspan="3"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_BottomLeft.gif" width="9" height="9" border="0"></td><td valign="Bottom" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="4CC4CB"><tbody><tr><td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td><td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_BottomRight.gif" width="9" height="9" border="0"></td></tr></tbody></table></td></tr><tr><td colspan="3"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr></tbody></table>
-		<!-- ** end of Privacy Pledge sheet -->
-	
-
-
-	
-
-		
-		
-		
-		
-	
-	
-	
-
-<!-- ** end of all sheets -->
-	
-
-
-
-						
-					
-				
-				
-				
-			
-		
-		
-	
-	
-
-	
-<!-- *** End of Print Friendly Page *** --> 
-	
+<a name="Foot"></a> 
 	
 		
 		
@@ -866,7 +1086,7 @@ Reed Exhibitions Limited disclaims all responsibility and liability (including n
 				<form action="http://www.in-cosmetics.com/page.cfm" method="post" target="_blank" name="PrintFriendlyForm">
 					
 					
-					<input type="hidden" name="ID" value="3"><input type="hidden" name="LINK" value="3"><input type="hidden" name="T" value="m"><input type="hidden" name="Action" value="PrintFriendly"><input type="hidden" name="PrintAction" value="page">
+					<input type="hidden" name="ID" value="131"><input type="hidden" name="LINK" value="131"><input type="hidden" name="T" value="m"><input type="hidden" name="Action" value="PrintFriendly"><input type="hidden" name="PrintAction" value="Page">
 					<input type="hidden" name="submittedPrintPage" value="Yes">
 				</form>
 				
@@ -875,528 +1095,37 @@ Reed Exhibitions Limited disclaims all responsibility and liability (including n
 		
 	
 
-
-	<script language="JavaScript" type="text/javascript">
-	<!--
-		document.write('<div style="display:none;"><img src="http://www.in-cosmetics.com/page.cfm/action=ScreenRes/SWidth=' + screen.width + '/SHeight=' + screen.height + '/PersonID=-1/t=b" width="0" height="0" border="0" alt=""><\/div>');
-	//-->
-	</script><div style="display:none;"><img src="http://www.in-cosmetics.com/page.cfm/action=ScreenRes/SWidth=800/SHeight=600/PersonID=-1/t=b" width="0" height="0" border="0" alt=""></div>
-
-
-
-												
-											</td>
-											<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="5" height="1"></td>
-										</tr>
-										
-										<tr>
-											<td colspan="3"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="5" height="15"></td>
-										</tr>
-										<tr>
-											<td></td>
-											<td align="center">
-												
-												<table border="0" cellpadding="0" cellspacing="0">
-													<tbody><tr>
-														
-														<td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td>
-														<td valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#4CC4CB"><tbody><tr><td width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td>
-														
-														<td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td>
-													</tr>
-													<tr>
-														<td colspan="3"> 
-	
-	
-	
-	
-	
-	
-	
 	
 
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2269396-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><div align="center">
-<table cellpadding="0" cellspacing="4" border="0" width="100%">
-	<tbody><tr>
-		<td align="center"><a href="http://www.chi-expo.com" target="_new"><img src="http://www.in-cosmetics.com/g/logos/link_chi06.jpg" width="150" height="60" border="0" alt="CHi"></a></td>
-		<td align="center"><a href="http://www.pchi-expo.com" target="_new"><img src="http://www.in-cosmetics.com/g/logos/link_pchi06.jpg" width="150" height="60" border="0" alt="PCHI"></a></td>
-		<td align="center"><a href="http://www.pcia-expo.com" target="_new"><img src="http://www.in-cosmetics.com/g/logos/link_pcia07.jpg" width="150" height="60" border="0" alt="PCIA"></a></td>
-	</tr>
-</tbody></table></div></td></tr></tbody></table><table border="0" cellpadding="3" width="100%" cellspacing="0" bgcolor="FFFFFF"><tbody><tr><td width="33%" valign="top" class="Footer" align="center"><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><span class="nowrap"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=2/t=m" target="_self">© 2006 Reed Exhibitions</a></span></font></td><td width="33%" valign="top" class="Footer" align="center"><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><span class="nowrap"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m" target="_self">contact us</a></span></font></td><td width="33%" valign="top" class="Footer" align="center"><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><span class="nowrap"><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=3/t=m" target="_self">view the privacy policy</a></span></font></td></tr></tbody></table></td>
-													</tr>
-													<tr>
-														
-														<td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_BottomLeft.gif" width="9" height="9" border="0"></td>
-														<td valign="bottom" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#4CC4CB"><tbody><tr><td width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td>
-														
-														<td><img alt="" src="http://www.in-cosmetics.com/g/template/g_stylesheet_BottomRight.gif" width="9" height="9" border="0"></td>
-													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="6" alt="" border="0"></td></tr>
-												</tbody></table>
-											</td>
-											<td></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-								<td width="15" background="http://www.in-cosmetics.com/g/template/g_bodyFiller_right.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td width="15"><img src="http://www.in-cosmetics.com/g/template/g_bodyBottomLeft.gif" width="15" height="15" alt="" border="0"></td>
-								
-								<td background="http://www.in-cosmetics.com/g/template/g_bodyFiller_bottom.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td width="15"><img src="http://www.in-cosmetics.com/g/template/g_bodyBottomright.gif" width="15" height="15" alt="" border="0"></td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-					
-					
-					<td width="185" valign="top">
-						
-						<img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="185" height="10" border="0"><br>
-						<table border="0" cellpadding="0" cellspacing="0" width="165" align="center">
-							
-								
-								<tbody><tr>
-									<td class="PanelTitle"><font face="Arial" size="2" color="#44747B" style="font-family:Arial; font-size:11px; "><b><b>QUICK SEARCH</b></b><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<form action="http://www.in-cosmetics.com/page.cfm" method="post"></form>
-													<td bgcolor="#ffffff" align="center" class="panel">
-														<input type="hidden" name="action" value="Search">
-														<input type="Text" name="SearchCriteria" value="" size="13">&nbsp;<input type="Submit" value="Go">
-													</td>
-												
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							
-							
-								<tr>
-									<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td>
-								</tr>
-								
-								<tr>
-									<td class="PanelTitle"><font face="Arial" size="2" color="#44747B" style="font-family:Arial; font-size:11px; "><b><b>SHOW IN YOUR DIARY</b></b><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td bgcolor="#ffffff" class="panel"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a href="http://www.in-cosmetics.com/page.cfm/action=VCalendarIndex" class="QuickLink">Add to your Outlook...</a></font></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							
-								<tr>
-									<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td>
-								</tr>
-								
-								<tr>
-									<td class="PanelTitle"><font face="Arial" size="2" color="#44747B" style="font-family:Arial; font-size:11px; "><b><b>QUICK LINKS</b></b><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td bgcolor="#ffffff" class="panel">
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m" target="_self">2007 Exhibitor List</a><br>
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=13/t=m" target="_self">2007 Floorplan</a><br>
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=154/t=m" target="_self">2006 Show Review</a><br>
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=46/t=m" target="_self">Free e-newsletter</a><br>
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Form/FormID=7/t=m" target="_self">Pre-registration notification</a><br>
-													
-														<font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/recommend" target="_self">Recommend this site</a><br>
-													
-												</font></font></font></font></font></font></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							<tr>
-								<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td>
-							</tr>
-						</tbody></table>
-						<table border="0" cellpadding="0" cellspacing="0" align="center">
-						<!-- Start of the Right powerbar -->
-							
-							
-							
-		
-	
-		
-		
-			<!-- ** start of Book your seat now! panel (panel 1 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-			
-		
-		
-		
-		
-			<tbody><tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="165"> 
-				<tbody><tr> 
-					<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="2"></td> 
-				</tr> 
-				<tr> 
-					<td class="PanelTitle"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; "><b>BOOK YOUR SEAT NOW!</b></font><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></td> 
-				</tr>
-				<tr> 
-					<td align="center"> 
-						<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-							<tbody><tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-							<tr>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td bgcolor="#FFFFFF" class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><p align="center"><em><a class="Panel" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/link=113"><img height="60" alt="CSC" src="http://www.in-cosmetics.com/g/logos/logo_csc.gif" width="150" border="0"></a></em><br><strong>&nbsp;18-19 April 2007</strong></p></font></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-							</tr> 
-							<tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-						</tbody></table> 
-					</td> 
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Book your seat now! panel (panel 1 on Right) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of  panel (panel 2 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
-
-
-
-
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
-	
-		
-		
-			<!-- ** start of  panel (panel 3 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
+<!--—begin 1x1 ad2one ad tag ---->
+<script language="JavaScript" type="text/javascript">
+if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
+if(typeof(tile)=="undefined"){var tile=1} else {tile++};
+if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/adj/rxad21;' + dcopt + 'tile=' + tile + ';sz=1x1;ord=' + ord +  '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/adj/rxad21;dcopt=ist;tile=1;sz=1x1;ord=1316437629?" type="text/javascript"></script>
+<noscript>
+<a href="https://ad.uk.doubleclick.net/jump/rxad21;sz=1x1;ord=123456789?" target="_blank">
+<img src="https://ad.uk.doubleclick.net/ad/rxad21;sz=1x1;ord=123456789?" width="1" height="1" border="0" alt="">
+</a>
+</noscript>
+<!-- end ad tag -->
 
 	
 	
 	
 		
 		
-			
-			
-				
-			
-			
-		
-	
-	
 		
 		
-			
-				
-				
-			
-		
-	
-	
-
-
-
-
-							
-								
-								
-									
-			
-	
-		
-		
-	
-
-
-
-
-
-
-									
-									
-								
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			</td></tr><tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="165"> 
-				<tbody><tr> 
-					<td><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="2"></td> 
-				</tr> 
-				<tr> 
-					<td class="PanelTitle"><br><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5" border="0"></td> 
-				</tr>
-				<tr> 
-					<td align="center"> 
-						<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-							<tbody><tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-							<tr>  
-								<td background="http://www.in-cosmetics.com/g/template/g_Leftfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td bgcolor="#FFFFFF" class="panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="125" align="center" id="ImgRotator_1"><a href="http://www.in-cosmetics.com/page.cfm/LinkTarget=00262/URLTarget=http://www.in-cosmetics.com/page.cfm/Link=0/t=m" target="_self" id="ImgRotatorHref_1"><img src="http://www.in-cosmetics.com/g/logos/logo_ctfa_125x125.gif" width="125" height="125" alt="CTFA" border="0" id="ImgRotatorImg_1"></a></td></tr></tbody></table></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_rightfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-							</tr> 
-							<tr> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>  
-								<td background="http://www.in-cosmetics.com/g/template/g_bottomfiller.gif"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1" border="0"></td> 
-								<td><img src="http://www.in-cosmetics.com/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td> 
-							</tr> 
-						</tbody></table> 
-					</td> 
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of  panel (panel 3 on Right) -->
-			
-			
-			
-			
-		
-	
-
-							<!-- end of the Right powerbar -->
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="3"><img alt="" src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10" border="0"></td>
-				</tr>
-			</tbody></table>
-			
-		</td>
-	</tr>
-</tbody></table>
-</div>
-</div>
-
-<a name="Foot"></a>
-
-
-	
-
-	
-
-
-
-		
-		
-		
-		
-	
-
-
-
-
-
-</body></html>
+	</body></html>
