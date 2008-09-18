@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlexplosion.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430112340id_/http%3A//www.articlexplosion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlexplosion.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918122808id_/http%3A//www.articlexplosion.com/privacy.php) for the most accurate reproduction.*
 
 # Article Explosion | Privacy Statement
 
