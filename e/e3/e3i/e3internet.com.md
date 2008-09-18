@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522093816id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918175058id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,5 +24,3 @@ Occasionally, e3internet will send you offers, promotions and deals from e3inter
 We will never use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 We _**never**_ reveal, share or sell any information about any of our customers. Your data will be kept secure at all times. This is an unequivocal policy for us.
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
