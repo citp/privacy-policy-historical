@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincmedia.co.jp privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624052845id_/http%3A//www.lincmedia.co.jp/privacyPolicy.html%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincmedia.co.jp privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918192626id_/http%3A//www.lincmedia.co.jp/privacyPolicy.html%3Flang%3Den) for the most accurate reproduction.*
 
 # LINC Media - Privacy Policy
 
