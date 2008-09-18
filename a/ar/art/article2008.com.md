@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604174703id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918030528id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
 
 # Article2008.com Free Articles for your web site and newsletters. Submit Your Articles to Our Articles Directory and make a back link to your site.
 
