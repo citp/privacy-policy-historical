@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520230856id_/http%3A//www.kenoshanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919102520id_/http%3A//www.kenoshanews.com/privacy) for the most accurate reproduction.*
 
 # Kenosha News Online
 
@@ -8,7 +8,7 @@
 
 [](https://web.archive.org/horoscope/)[](https://web.archive.org/homes/property_sales.php)
 
-[](https://web.archive.org/horoscope/)[](https://web.archive.org/horoscope/)[](https://web.archive.org/lottery/)
+[](https://web.archive.org/horoscope/)[](https://web.archive.org/horoscope/)[](http://kenoshanews.upickem.net/) [](https://web.archive.org/lottery/)
 
 [](https://web.archive.org/subscriptions/)
 
