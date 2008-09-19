@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331120800id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919154537id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventful
 
@@ -48,12 +48,12 @@ You maintain ownership rights to your Personally Identifiable Information, even 
 
 ## Links to Third Party Sites
 
-This privacy policy applies only to the privacy of users of Eventful’s Site and Services. By using Eventful’s Site and Services you agree to the terms of this privacy policy. If you move from Eventful’s Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.
+This privacy policy applies only to the privacy of users of Eventfulâs Site and Services. By using Eventfulâs Site and Services you agree to the terms of this privacy policy. If you move from Eventfulâs Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.
 
 ## Definitions
 
-  * “Personally Identifiable Information” may include your name, address, telephone number, email address, or other information which by its nature can identify you personally. However, “Personally Identifiable Information” excludes any information that you choose to make available on parts of the Site that are accessible to the public such as your public profile and other publicly visible content that you may add to the Site.
-  * “Eventful” refers to Eventful, Inc., a Delaware corporation. “Eventful” is a registered trademark of Eventful, Inc. Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.
-  * “Site and Services” refer to the features and functionality (“Services”) made available to users at the Internet web site located at the URL [eventful.com](http://eventful.com/) (“Site”).
+  * "Personally Identifiable Information" may include your name, address, telephone number, email address, or other information which by its nature can identify you personally. However, "Personally Identifiable Information" excludes any information that you choose to make available on parts of the Site that are accessible to the public such as your public profile and other publicly visible content that you may add to the Site.
+  * "Eventful" refers to Eventful, Inc., a Delaware corporation. "Eventful" is a registered trademark of Eventful, Inc. Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.
+  * "Site and Services" refer to the features and functionality ("Services") made available to users at the Internet web site located at the URL [eventful.com](http://eventful.com/) ("Site").
 
 
