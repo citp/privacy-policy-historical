@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416212047id_/http%3A//www.centreforaviation.com/aviation/content/view/37/90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919113504id_/http%3A//www.centreforaviation.com/aviation/content/view/37/90) for the most accurate reproduction.*
 
-# - CAPA - Privacy
+# - Aviation Newsletters, Aviation Publications, Aviation News - Centre for Asia Pacific Aviation - Privacy
 
 The Centre for Asia Pacific Aviation (The Centre) respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Web site. 
 
