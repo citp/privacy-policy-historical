@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413235539id_/http%3A//www.hostdeal.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919091904id_/http%3A//hostdeal.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Hostdeal.com
+# Hostdeal - Zero Downtime Hosting, CPanel, Windows, Hybrid OS, Fantastico, Website Builder, Free Setup, Unmetered, Unlimited Domains
 
+  
+**Privacy Statement**  
 At Hostdeal.com, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.
 
 **The Information Collected and How It Is Used**
@@ -22,7 +24,7 @@ All data collected at Hostdeal.com is done so with the use of secure servers. Th
 **Choice/Opt-Out**  
 During the registration process, you are provided with the opportunity to opt out of receiving marketing and promotional communications from Hostdeal.com and our partners that are not directly related to the services we provide. Hostdeal.com, its affiliates or partners may use the information associated with your account to contact you with these special offers.
 
-To unsubscribe from Hostdeal.com newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at [Hosting Support](mailto:admin@hostdeal.com).
+To unsubscribe from Hostdeal.com newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at [Hosting Support](mailto:support@Hostdeal.com).
 
 If you would like to cancel your Hostdeal.com plan completely, please contact Customer Service through our online support form.
 
@@ -35,7 +37,7 @@ To ensure you receive the information you need to manage your account and protec
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Hostdeal.com, you can contact:
 
 Hostdeal.com  
-A division of Web Hosting Premium  
+A division of Light Speed  
 11 Mary Street, Suite 200  
 Sudbury, Ontario  
 Canada, P3C1B6
