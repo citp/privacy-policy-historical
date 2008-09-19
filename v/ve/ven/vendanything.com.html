@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2008-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080304135835id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2008-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080919091101id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en"><head>
 	<base href="http://www.vendanything.com/">
@@ -38,10 +38,10 @@
 	<script type="text/javascript">
 	<!--
 	function win(fileName) {
-		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300')
+		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300');
 		myFloater.location.href = fileName;
 		
-		if (window.focus) {myFloater.focus()}
+		if (window.focus) {myFloater.focus();}
 		
 	}
 	function winimage(fileName,width,height) {
@@ -166,24 +166,29 @@ text-decoration: underline;
 
 	function handleResponse() {
 		if(http.readyState == 4) {
-      var response = http.responseText;
-      var update = new Array();
-      if(response.indexOf('|') != -1) {
-        update = response.split('|');
-        if(debug) {
+			var response = http.responseText;
+			var update = new Array();
+			var sep = '|';
+			if (response.indexOf('~~|~~') != -1){
+				sep = '~~|~~';
+			}
+			if(response.indexOf(sep) != -1) {
+				update = response.split(sep);
+				if(debug) {
 					alert('Debug: \n\t'+status+'\n\nupdate[0] = '+update[0]+'\n\nupdate[1] = '+update[1]);
 					status = '';
 				}
+				//allow applying text to up to 4 different elements.
 				if (document.getElementById(update[1]))
-		      document.getElementById(update[1]).innerHTML = update[0];
-		    if (document.getElementById(update[2]))
-		    	document.getElementById(update[2]).innerHTML = update[0];
-		    if (document.getElementById(update[3]))
-		    	document.getElementById(update[3]).innerHTML = update[0];
-		    if (document.getElementById(update[4]))
-		    	document.getElementById(update[4]).innerHTML = update[0];
+					document.getElementById(update[1]).innerHTML = update[0];
+				if (document.getElementById(update[2]))
+					document.getElementById(update[2]).innerHTML = update[0];
+				if (document.getElementById(update[3]))
+					document.getElementById(update[3]).innerHTML = update[0];
+				if (document.getElementById(update[4]))
+					document.getElementById(update[4]).innerHTML = update[0];
 			} else if(debug)
-					alert ('Debug: \n\t'+status+'\n\n'+response);
+				alert ('Debug: \n\t'+status+'\n\n'+response);
 		}
 	}
 </script>
@@ -195,14 +200,7 @@ text-decoration: underline;
 <table class="bodytable">
 	<tbody>
 		<tr>
-			<td><!-- # BEGIN HEADER - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><a href="http://vendanything.com"><img alt="Header Logo" height="130" src="images/logos/vendanythinglogo3web.jpg" width="596"></a> 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" id="obj1" width="468" height="60">
-	<param name="id" value="obj1">
-	<param name="src" value="images/banners/vasignup.swf">
-	<param name="width" value="468">
-	<param name="height" value="60">
-	<embed type="application/x-shockwave-flash" id="obj1" src="images/banners/vasignup.swf" width="468" height="60">
-</object>
+			<td><!-- # BEGIN HEADER - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><a href="index.php"><img alt="Header Logo" height="130" src="images/logos/vendanythinglogo3web.jpg" width="596"></a><a href="index.php?a=1"><img align="middle" alt="Place Your FREE AD Now!" hspace="100" src="/images/buttons/but_freeadnow.jpg" title="PLACE YOUR FREE AD NOW!"></a> 
  <!-- END HEADER --></td>
 		</tr>
 		<tr>
@@ -249,7 +247,7 @@ text-decoration: underline;
 						<td class="box_head_1_left">&nbsp;</td>
 						<td class="box_head_1_dyn">
 						<script type="text/javascript">
-						ShowDateTime(showDate)</script>2/24/2020</td>
+						ShowDateTime(showDate)</script>1/30/2020</td>
 						<td class="box_head_1_right">&nbsp;</td>
 						<td><img alt="" height="1" src="images/blank.gif" width="2"></td>
 						<td class="box_head_2_left">&nbsp;</td>
@@ -368,73 +366,73 @@ window.external.addFavorite(location,title);
 						<td><table cellpadding="2" cellspacing="1" style="border-style: none; width: 100%;">
 	
 <tbody><tr>
-	<td style="width: 100%;"><a href="index/listings/category255.htm" class="main_navigation_1_name">Aircraft</a><a href="index/listings/category255.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category255.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category255.htm" class="main_navigation_1_name">Aircraft</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category12.htm" class="main_navigation_1_name">Announcements </a><a href="index/listings/category12.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category12.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Events, Garage Sales, Lost &amp; Found, etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category12.htm" class="main_navigation_1_name">Announcements </a><br><span class="main_navigation_1_description">Events, Garage Sales, Lost &amp; Found, etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category11.htm" class="main_navigation_1_name">Antiques </a><a href="index/listings/category11.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category11.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category11.htm" class="main_navigation_1_name">Antiques </a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category238.htm" class="main_navigation_1_name">Apparel</a><a href="index/listings/category238.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category238.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Clothing &amp; Accessories</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category238.htm" class="main_navigation_1_name">Apparel</a><br><span class="main_navigation_1_description">Clothing &amp; Accessories</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category161.htm" class="main_navigation_1_name">Arts &amp; Crafts </a><a href="index/listings/category161.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category161.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Arts &amp; Crafts</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category161.htm" class="main_navigation_1_name">Arts &amp; Crafts </a><br><span class="main_navigation_1_description">Arts &amp; Crafts</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category15.htm" class="main_navigation_1_name">Automobiles </a><a href="index/listings/category15.htm" class="main_navigation_1_ad_count">(17)</a><a href="index/listings/category15.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Cars, Trucks, Van, SUV's, etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category15.htm" class="main_navigation_1_name">Automobiles </a><br><span class="main_navigation_1_description">Cars, Trucks, Van, SUV's, etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category176.htm" class="main_navigation_1_name">Books </a><a href="index/listings/category176.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category176.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category176.htm" class="main_navigation_1_name">Books </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category13.htm" class="main_navigation_1_name">Business </a><a href="index/listings/category13.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category13.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category13.htm" class="main_navigation_1_name">Business </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category177.htm" class="main_navigation_1_name">Cell Phones </a><a href="index/listings/category177.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category177.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category177.htm" class="main_navigation_1_name">Cell Phones </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category217.htm" class="main_navigation_1_name">Collectibles</a><a href="index/listings/category217.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category217.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Coins, Dolls, Stamps, Etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category217.htm" class="main_navigation_1_name">Collectibles</a><br><span class="main_navigation_1_description">Coins, Dolls, Stamps, Etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category218.htm" class="main_navigation_1_name">Commercial Vehicles</a><a href="index/listings/category218.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category218.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Work Trucks, Bobcats, Farm Equipment, Etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category218.htm" class="main_navigation_1_name">Commercial Vehicles</a><br><span class="main_navigation_1_description">Work Trucks, Bobcats, Farm Equipment, Etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category160.htm" class="main_navigation_1_name">Computers &amp; Software</a><a href="index/listings/category160.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category160.htm" class="main_navigation_1_auction_count">(3)</a><br><span class="main_navigation_1_description">Computers &amp; Software</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category160.htm" class="main_navigation_1_name">Computers &amp; Software</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Computers &amp; Software</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category10.htm" class="main_navigation_1_name">Electronics </a><a href="index/listings/category10.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category10.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category10.htm" class="main_navigation_1_name">Electronics </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category237.htm" class="main_navigation_1_name">Furniture</a><a href="index/listings/category237.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category237.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category237.htm" class="main_navigation_1_name">Furniture</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category179.htm" class="main_navigation_1_name">Gift Certificates </a><a href="index/listings/category179.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category179.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category179.htm" class="main_navigation_1_name">Gift Certificates </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category242.htm" class="main_navigation_1_name">Home Appliances</a><a href="index/listings/category242.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category242.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Washers, Dryers, Stoves, Etc</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category242.htm" class="main_navigation_1_name">Home Appliances</a><br><span class="main_navigation_1_description">Washers, Dryers, Stoves, Etc</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category235.htm" class="main_navigation_1_name">Jewelry</a><a href="index/listings/category235.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category235.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Jewelry, Watches, Etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category235.htm" class="main_navigation_1_name">Jewelry</a><br><span class="main_navigation_1_description">Jewelry, Watches, Etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category212.htm" class="main_navigation_1_name">Jobs</a><a href="index/listings/category212.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category212.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Employement Opportunities.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category212.htm" class="main_navigation_1_name">Jobs</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Employement Opportunities.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category162.htm" class="main_navigation_1_name">Music &amp; Movies </a><a href="index/listings/category162.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category162.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category162.htm" class="main_navigation_1_name">Music &amp; Movies </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category247.htm" class="main_navigation_1_name">Musical Instruments</a><a href="index/listings/category247.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category247.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category247.htm" class="main_navigation_1_name">Musical Instruments</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category17.htm" class="main_navigation_1_name">Personals </a><a href="index/listings/category17.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category17.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category17.htm" class="main_navigation_1_name">Personals </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category216.htm" class="main_navigation_1_name">Pets</a><a href="index/listings/category216.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category216.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Dogs, Cats, Birds, Etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category216.htm" class="main_navigation_1_name">Pets</a><br><span class="main_navigation_1_description">Dogs, Cats, Birds, Etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category16.htm" class="main_navigation_1_name">Real Estate - Sale</a><a href="index/listings/category16.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category16.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Homes for Sale, Land, Commercial, etc.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category16.htm" class="main_navigation_1_name">Real Estate - Sale</a><br><span class="main_navigation_1_description">Homes for Sale, Land, Commercial, etc.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category248.htm" class="main_navigation_1_name">Real Estate - Rent</a><a href="index/listings/category248.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category248.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Apartments, Houses, Commercial Leases.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category248.htm" class="main_navigation_1_name">Real Estate - Rent</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Apartments, Houses, Commercial Leases.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category205.htm" class="main_navigation_1_name">Recreational<br>Vehicles</a><a href="index/listings/category205.htm" class="main_navigation_1_ad_count">(8)</a><a href="index/listings/category205.htm" class="main_navigation_1_auction_count">(1)</a><br><span class="main_navigation_1_description">RV's, Campers, ATV's, Motorcycles, Boats,   Personal Watercraft.</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category205.htm" class="main_navigation_1_name">Recreational<br>Vehicles</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">RV's, Campers, ATV's, Motorcycles, Boats,   Personal Watercraft.</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category14.htm" class="main_navigation_1_name">Rentals </a><a href="index/listings/category14.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category14.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category14.htm" class="main_navigation_1_name">Rentals </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category241.htm" class="main_navigation_1_name">Services</a><a href="index/listings/category241.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category241.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category241.htm" class="main_navigation_1_name">Services</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category240.htm" class="main_navigation_1_name">Sporting Goods</a><a href="index/listings/category240.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category240.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Sports &amp; Fittness Equipment</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category240.htm" class="main_navigation_1_name">Sporting Goods</a><br><span class="main_navigation_1_description">Sports &amp; Fittness Equipment</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category170.htm" class="main_navigation_1_name">Tickets </a><a href="index/listings/category170.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category170.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category170.htm" class="main_navigation_1_name">Tickets </a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category254.htm" class="main_navigation_1_name">Tools and Equipment</a><a href="index/listings/category254.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category254.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category254.htm" class="main_navigation_1_name">Tools and Equipment</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category239.htm" class="main_navigation_1_name">Toys &amp; Games</a><a href="index/listings/category239.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category239.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Toys and Games</span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category239.htm" class="main_navigation_1_name">Toys &amp; Games</a><br><span class="main_navigation_1_description">Toys and Games</span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category191.htm" class="main_navigation_1_name">Travel</a><a href="index/listings/category191.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category191.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category191.htm" class="main_navigation_1_name">Travel</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category193.htm" class="main_navigation_1_name">Anything Else</a><a href="index/listings/category193.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category193.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+	<td style="width: 100%;"><a href="index/listings/category193.htm" class="main_navigation_1_name">Anything Else</a><br><span class="main_navigation_1_description"></span></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category234.htm" class="main_navigation_1_name">Free Stuff</a><a href="index/listings/category234.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category234.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Free Items, Giveaways, Etc.</span></td></tr></tbody></table> </td>
+	<td style="width: 100%;"><a href="index/listings/category234.htm" class="main_navigation_1_name">Free Stuff</a><br><span class="main_navigation_1_description">Free Items, Giveaways, Etc.</span></td></tr></tbody></table> </td>
 					</tr>
 				</tbody>
 			</table>
@@ -514,12 +512,119 @@ This privacy policy describes how we handle your personal information. We collec
 		</tr>
 		<tr>
 			<td><div class="submenu" style="text-align: center">
-<a class="footer_links" href="index.php">home</a>&nbsp;|&nbsp;<a class="footer_links" href="register.php">register</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=142">about us</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=140">terms &amp; conditions</a>&nbsp;|&nbsp;<a href="index.php?a=28&amp;b=145">privacy</a> | <a class="footer_links" href="index.php?a=28&amp;b=141">help</a> 
+<a class="footer_links" href="index.php">home</a>&nbsp;|&nbsp;<a class="footer_links" href="register.php">register</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=142">about us</a>&nbsp;| <a href="index.php?a=28&amp;b=144">advertise</a> |&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=140">terms &amp; conditions</a>&nbsp;|&nbsp;<a href="index.php?a=28&amp;b=145">privacy</a> | <a class="footer_links" href="index.php?a=28&amp;b=141">help</a> 
 </div>
 <div class="footertext" style="text-align: center">
 ©Copyright 2008 <a href="/">www.VendAnything.com</a> All Rights Reserved.<br>
 <img alt="" src="images/a_ccards.gif"><img alt="" src="images/a_paypal.gif"> 
 </div>
+<p>
+		</p><p></p><table align="center" border="0" style="height: 60px; border: 0px solid" width="468">
+	<tbody>
+		<tr>
+			<td>
+			<div>
+			<p align="center">
+			Visit Our Sponsers 
+			</p>
+			</div>
+			</td>
+		</tr>
+		<tr>
+		</tr>
+		
+		<tr>
+			<td style="border: #000000 1px solid">
+			<div>
+			<!-- OpenX Channel Script
+			Generated with OpenX v2.4.4
+			Include this script directly ABOVE the OpenX Header Script
+			(defined below), in the  tag.
+			The script below should define a variable, OA_channel. This variable
+			should contain the name of the 'virtual directory' of the site.
+			For example, if you are on the football summary page of the sports section
+			of a news site, the following should be included:
+			var OA_channel = '/sports/football';
+			Conversely, if you are on the home page of the site, the variable should be:
+			var OA_channel = '';
+			-->
+			<script type="text/javascript">
+			<!--// <![CDATA[
+			var OA_channel = '/test/preview';
+			// ]]> --></script><!-- OpenX Header Script
+			Generated with OpenX v2.4.4
+			Include this script below the OpenX Channel Scipt (but still
+			in the  tag) of every page on your site.
+			NOTE: This script does not change for any page on your site, so it may be
+			more efficient to include it as a .js file rather than putting the
+			entire text on every page. For example, if you cut and paste the code
+			below and store it in a file called 'mmm.js', the code below should
+			call the script:
+			<script type='text/javascript' src='mmm.js'>
+			</script>
+			-->
+			<script type="text/javascript">
+			<!--// <![CDATA[
+			var OA_p=location.protocol=='https:'?'https:':'http:';
+			var OA_r=Math.floor(Math.random()*99999999);
+			if (!document.OA_used) document.OA_used = ',';
+			function OA_adjs(z,n)
+			{
+			if (z>-1) {
+			var az="<"+"script language='JavaScript' type='text/javascript' ";
+			az+="src='"+OA_p+"//www.easyipfinder.com/openx/www/delivery/ajs.php?n="+n+"&zoneid="+z;
+			az+="&source="+OA_channel+"&exclude="+document.OA_used+"&r="+OA_r;
+			az+="&mmm_fo="+(document.mmm_fo)?'1':'0';
+			if (document.context) az+= "&context=" + escape(document.context);
+			if (window.location) az+="&loc="+escape(window.location);
+			if (document.referrer) az+="&referer="+escape(document.referrer);
+			az+="'><"+"/script>";
+			document.write(az);
+			}
+			}
+			function OA_adpop(z,n)
+			{
+			if (z>-1) {
+			var az="<"+"script language='JavaScript' type='text/javascript' ";
+			az+="src='"+OA_p+"//www.easyipfinder.com/openx/www/delivery/apu.php?n="+n+"&zoneid="+z;
+			az+="&source="+OA_channel+"&exclude="+document.OA_used+"&r="+OA_r;
+			if (window.location) az+="&loc="+escape(window.location);
+			if (document.referrer) az+="&referer="+escape(document.referrer);
+			az+="'><"+"/script>";
+			document.write(az);
+			}
+			}
+			// ]]> --></script><!-- OpenX Ad Tag Script(s)
+			Generated with OpenX v2.4.4
+			The following are the script(s) for each ad tag. There are a couple of items to watch out for:
+			1. Each tag has a different zone number (var 1), and a different key value (var 2). If the
+			key value is the same for any two zone tags, the clickthrough URL may not work correctly.
+			2. Each tag has a <noscript> section. If this tag is on an SSL page, change the
+			'http://www.easyipfinder.com/openx/www/delivery/...' to 'https://www.easyipfinder.com/openx/www/delivery/...'
+			Note that the <noscript> section cannot dynamically choose between SSL and non-SSL.
+			3. The <noscript> section will only show image banners. There is no width or height in
+			these banners, so if you want these tags to allocate space for the ad before it shows,
+			you need to add this information to the <img> tag.
+			4. If you do not want to deal with the intricities of the <noscript> section, delete the
+			tag (from <noscript>... to </noscript>). On average, the <noscript> tag is called from
+			less than 1% of internet users.
+			-->
+			<script type="text/javascript">
+			<!--// <![CDATA[
+			OA_adjs(4,'f9a33be');
+			// ]]> --></script><script language="JavaScript" type="text/javascript" src="https://www.easyipfinder.com/openx/www/delivery/ajs.php?n=f9a33be&amp;zoneid=4&amp;source=/test/preview&amp;exclude=,&amp;r=441062701&amp;loc=https%3A//web.archive.org/web/20080919091101id_/http%253A//www.vendanything.com/index.php%253Fa%253D28%2526b%253D145"></script><noscript></noscript>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">
+			<a href="mailto:paul@vendanything.com">Advertise with Us!</a> 
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
  </td>
 		</tr>
 	</tbody>
