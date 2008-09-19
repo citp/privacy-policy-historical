@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508012259id_/http%3A//www.fortnumandmason.com/Shopping-Online/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919034137id_/http%3A//www.fortnumandmason.com/Shopping-Online/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
