@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515091804id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919210948id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Shelfari
 
@@ -46,7 +46,7 @@ Please note: The Sites may contain links to other sites. Please be aware that we
 
 Tastemakers endeavors to secure your personal information from unauthorized access, use or disclosure by putting into place appropriate physical, electronic and managerial procedures to safeguard the information we collect through this Site. For example, your account information is accessible online only through the use of a password. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of your personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise us immediately by emailing us at questions at shelfari.com if you believe your password has been misused. You should also note that email is not secure, and you should not send any confidential or sensitive information to us via an unsecured email.
 
-## What choices do you have regarding the use of your information>
+## What choices do you have regarding the use of your information?
 
 You may "opt out" of receiving marketing or promotional communications from us by updating your settings page accessible via http://www.shelfari.com/settings/notifications.aspx to indicate your communication preferences or by sending us a request by mail to the address set forth at the end of this Policy. We also provide links within the emails we send that may be used to opt out of such communications.
 
