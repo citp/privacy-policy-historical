@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629081532id_/http%3A//www.hirschs.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919043839id_/http%3A//www.hirschs.co.za/privacy.php) for the most accurate reproduction.*
 
 # Hirsch's - Best brands, Biggest Range, Greater Savings
 
