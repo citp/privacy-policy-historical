@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518070038id_/http%3A//reviews.com/privacy/privacy_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919101813id_/http%3A//reviews.com/privacy/privacy_privacy.cfm) for the most accurate reproduction.*
 
 # Computing Reviews, the leading online review service for computing literature.
 
