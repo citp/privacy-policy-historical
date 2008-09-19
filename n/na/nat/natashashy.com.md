@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashashy.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209054523id_/http%3A//www.natashashy.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashashy.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919061606id_/http%3A//www.natashashy.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # 
 
