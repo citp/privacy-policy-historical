@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502024304id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919025741id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Practices for Javelin Website & Electronic Communications
 
