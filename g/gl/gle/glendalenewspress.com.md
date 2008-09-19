@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glendalenewspress.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622075942id_/http%3A//www.glendalenewspress.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glendalenewspress.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919115155id_/http%3A//www.glendalenewspress.com/services/privacy_policy) for the most accurate reproduction.*
 
 # Glendale News Press > Services > Privacy Policy
 
-Sunday, June 22, 2008
+Friday, September 19, 2008
 
 ## Services > Privacy Policy
 
