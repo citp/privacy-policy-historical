@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304135835id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919091101id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -6,75 +6,75 @@
 |   
 ---  
   
-| [Aircraft](http://www.vendanything.com/index/listings/category255.htm)[(0)](http://www.vendanything.com/index/listings/category255.htm)[(0)](http://www.vendanything.com/index/listings/category255.htm)  
+| [Aircraft](http://www.vendanything.com/index/listings/category255.htm)  
   
 ---  
-[Announcements ](http://www.vendanything.com/index/listings/category12.htm)[(0)](http://www.vendanything.com/index/listings/category12.htm)[(0)](http://www.vendanything.com/index/listings/category12.htm)  
+[Announcements ](http://www.vendanything.com/index/listings/category12.htm)  
 Events, Garage Sales, Lost & Found, etc.  
-[Antiques ](http://www.vendanything.com/index/listings/category11.htm)[(0)](http://www.vendanything.com/index/listings/category11.htm)[(0)](http://www.vendanything.com/index/listings/category11.htm)  
+[Antiques ](http://www.vendanything.com/index/listings/category11.htm)  
   
-[Apparel](http://www.vendanything.com/index/listings/category238.htm)[(2)](http://www.vendanything.com/index/listings/category238.htm)[(0)](http://www.vendanything.com/index/listings/category238.htm)  
+[Apparel](http://www.vendanything.com/index/listings/category238.htm)  
 Clothing & Accessories  
-[Arts & Crafts ](http://www.vendanything.com/index/listings/category161.htm)[(1)](http://www.vendanything.com/index/listings/category161.htm)[(0)](http://www.vendanything.com/index/listings/category161.htm)  
+[Arts & Crafts ](http://www.vendanything.com/index/listings/category161.htm)  
 Arts & Crafts  
-[Automobiles ](http://www.vendanything.com/index/listings/category15.htm)[(17)](http://www.vendanything.com/index/listings/category15.htm)[(0)](http://www.vendanything.com/index/listings/category15.htm)  
+[Automobiles ](http://www.vendanything.com/index/listings/category15.htm)  
 Cars, Trucks, Van, SUV's, etc.  
-[Books ](http://www.vendanything.com/index/listings/category176.htm)[(0)](http://www.vendanything.com/index/listings/category176.htm)[(0)](http://www.vendanything.com/index/listings/category176.htm)  
+[Books ](http://www.vendanything.com/index/listings/category176.htm)  
   
-[Business ](http://www.vendanything.com/index/listings/category13.htm)[(2)](http://www.vendanything.com/index/listings/category13.htm)[(0)](http://www.vendanything.com/index/listings/category13.htm)  
+[Business ](http://www.vendanything.com/index/listings/category13.htm)  
   
-[Cell Phones ](http://www.vendanything.com/index/listings/category177.htm)[(1)](http://www.vendanything.com/index/listings/category177.htm)[(0)](http://www.vendanything.com/index/listings/category177.htm)  
+[Cell Phones ](http://www.vendanything.com/index/listings/category177.htm)  
   
-[Collectibles](http://www.vendanything.com/index/listings/category217.htm)[(0)](http://www.vendanything.com/index/listings/category217.htm)[(0)](http://www.vendanything.com/index/listings/category217.htm)  
+[Collectibles](http://www.vendanything.com/index/listings/category217.htm)  
 Coins, Dolls, Stamps, Etc.  
-[Commercial Vehicles](http://www.vendanything.com/index/listings/category218.htm)[(0)](http://www.vendanything.com/index/listings/category218.htm)[(0)](http://www.vendanything.com/index/listings/category218.htm)  
+[Commercial Vehicles](http://www.vendanything.com/index/listings/category218.htm)  
 Work Trucks, Bobcats, Farm Equipment, Etc.  
-[Computers & Software](http://www.vendanything.com/index/listings/category160.htm)[(3)](http://www.vendanything.com/index/listings/category160.htm)[(3)](http://www.vendanything.com/index/listings/category160.htm)  
+[Computers & Software](http://www.vendanything.com/index/listings/category160.htm)  
 Computers & Software  
-[Electronics ](http://www.vendanything.com/index/listings/category10.htm)[(0)](http://www.vendanything.com/index/listings/category10.htm)[(0)](http://www.vendanything.com/index/listings/category10.htm)  
+[Electronics ](http://www.vendanything.com/index/listings/category10.htm)  
   
-[Furniture](http://www.vendanything.com/index/listings/category237.htm)[(0)](http://www.vendanything.com/index/listings/category237.htm)[(0)](http://www.vendanything.com/index/listings/category237.htm)  
+[Furniture](http://www.vendanything.com/index/listings/category237.htm)  
   
-[Gift Certificates ](http://www.vendanything.com/index/listings/category179.htm)[(0)](http://www.vendanything.com/index/listings/category179.htm)[(0)](http://www.vendanything.com/index/listings/category179.htm)  
+[Gift Certificates ](http://www.vendanything.com/index/listings/category179.htm)  
   
-[Home Appliances](http://www.vendanything.com/index/listings/category242.htm)[(0)](http://www.vendanything.com/index/listings/category242.htm)[(0)](http://www.vendanything.com/index/listings/category242.htm)  
+[Home Appliances](http://www.vendanything.com/index/listings/category242.htm)  
 Washers, Dryers, Stoves, Etc  
-[Jewelry](http://www.vendanything.com/index/listings/category235.htm)[(1)](http://www.vendanything.com/index/listings/category235.htm)[(0)](http://www.vendanything.com/index/listings/category235.htm)  
+[Jewelry](http://www.vendanything.com/index/listings/category235.htm)  
 Jewelry, Watches, Etc.  
-[Jobs](http://www.vendanything.com/index/listings/category212.htm)[(0)](http://www.vendanything.com/index/listings/category212.htm)[(0)](http://www.vendanything.com/index/listings/category212.htm)  
+[Jobs](http://www.vendanything.com/index/listings/category212.htm)  
 Employement Opportunities.  
-[Music & Movies ](http://www.vendanything.com/index/listings/category162.htm)[(0)](http://www.vendanything.com/index/listings/category162.htm)[(0)](http://www.vendanything.com/index/listings/category162.htm)  
+[Music & Movies ](http://www.vendanything.com/index/listings/category162.htm)  
   
-[Musical Instruments](http://www.vendanything.com/index/listings/category247.htm)[(1)](http://www.vendanything.com/index/listings/category247.htm)[(0)](http://www.vendanything.com/index/listings/category247.htm)  
+[Musical Instruments](http://www.vendanything.com/index/listings/category247.htm)  
   
-[Personals ](http://www.vendanything.com/index/listings/category17.htm)[(0)](http://www.vendanything.com/index/listings/category17.htm)[(0)](http://www.vendanything.com/index/listings/category17.htm)  
+[Personals ](http://www.vendanything.com/index/listings/category17.htm)  
   
-[Pets](http://www.vendanything.com/index/listings/category216.htm)[(0)](http://www.vendanything.com/index/listings/category216.htm)[(0)](http://www.vendanything.com/index/listings/category216.htm)  
+[Pets](http://www.vendanything.com/index/listings/category216.htm)  
 Dogs, Cats, Birds, Etc.  
-[Real Estate - Sale](http://www.vendanything.com/index/listings/category16.htm)[(1)](http://www.vendanything.com/index/listings/category16.htm)[(0)](http://www.vendanything.com/index/listings/category16.htm)  
+[Real Estate - Sale](http://www.vendanything.com/index/listings/category16.htm)  
 Homes for Sale, Land, Commercial, etc.  
-[Real Estate - Rent](http://www.vendanything.com/index/listings/category248.htm)[(1)](http://www.vendanything.com/index/listings/category248.htm)[(0)](http://www.vendanything.com/index/listings/category248.htm)  
+[Real Estate - Rent](http://www.vendanything.com/index/listings/category248.htm)  
 Apartments, Houses, Commercial Leases.  
 [Recreational  
-Vehicles](http://www.vendanything.com/index/listings/category205.htm)[(8)](http://www.vendanything.com/index/listings/category205.htm)[(1)](http://www.vendanything.com/index/listings/category205.htm)  
+Vehicles](http://www.vendanything.com/index/listings/category205.htm)  
 RV's, Campers, ATV's, Motorcycles, Boats, Personal Watercraft.  
-[Rentals ](http://www.vendanything.com/index/listings/category14.htm)[(0)](http://www.vendanything.com/index/listings/category14.htm)[(0)](http://www.vendanything.com/index/listings/category14.htm)  
+[Rentals ](http://www.vendanything.com/index/listings/category14.htm)  
   
-[Services](http://www.vendanything.com/index/listings/category241.htm)[(3)](http://www.vendanything.com/index/listings/category241.htm)[(0)](http://www.vendanything.com/index/listings/category241.htm)  
+[Services](http://www.vendanything.com/index/listings/category241.htm)  
   
-[Sporting Goods](http://www.vendanything.com/index/listings/category240.htm)[(0)](http://www.vendanything.com/index/listings/category240.htm)[(0)](http://www.vendanything.com/index/listings/category240.htm)  
+[Sporting Goods](http://www.vendanything.com/index/listings/category240.htm)  
 Sports & Fittness Equipment  
-[Tickets ](http://www.vendanything.com/index/listings/category170.htm)[(0)](http://www.vendanything.com/index/listings/category170.htm)[(0)](http://www.vendanything.com/index/listings/category170.htm)  
+[Tickets ](http://www.vendanything.com/index/listings/category170.htm)  
   
-[Tools and Equipment](http://www.vendanything.com/index/listings/category254.htm)[(0)](http://www.vendanything.com/index/listings/category254.htm)[(0)](http://www.vendanything.com/index/listings/category254.htm)  
+[Tools and Equipment](http://www.vendanything.com/index/listings/category254.htm)  
   
-[Toys & Games](http://www.vendanything.com/index/listings/category239.htm)[(0)](http://www.vendanything.com/index/listings/category239.htm)[(0)](http://www.vendanything.com/index/listings/category239.htm)  
+[Toys & Games](http://www.vendanything.com/index/listings/category239.htm)  
 Toys and Games  
-[Travel](http://www.vendanything.com/index/listings/category191.htm)[(1)](http://www.vendanything.com/index/listings/category191.htm)[(0)](http://www.vendanything.com/index/listings/category191.htm)  
+[Travel](http://www.vendanything.com/index/listings/category191.htm)  
   
-[Anything Else](http://www.vendanything.com/index/listings/category193.htm)[(1)](http://www.vendanything.com/index/listings/category193.htm)[(0)](http://www.vendanything.com/index/listings/category193.htm)  
+[Anything Else](http://www.vendanything.com/index/listings/category193.htm)  
   
-[Free Stuff](http://www.vendanything.com/index/listings/category234.htm)[(0)](http://www.vendanything.com/index/listings/category234.htm)[(0)](http://www.vendanything.com/index/listings/category234.htm)  
+[Free Stuff](http://www.vendanything.com/index/listings/category234.htm)  
 Free Items, Giveaways, Etc.  
   
   
