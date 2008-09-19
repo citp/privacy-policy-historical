@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513152609id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919133228id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Printer Friendly version](https://web.archive.org/web/20080513152609id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
+[Printer Friendly version](https://web.archive.org/web/20080919133228id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
 
 Our commitment to your privacy
 
@@ -23,3 +23,5 @@ We never disclose your information to any third parties outside of the RIBA Ente
 By disclosing your personal information to RIBA Enterprises Ltd, you agree to collection, storage and processing of your personal information in the manner set out here. 
 
 The site uses a type of cookie called a session variable. These are never written on the hard drive and they do not collect any information from the user's computer. These are automatically deleted from the user's computer when the browser is closed. For more information see [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+If you use the spell checker then the words you add to your dictionary are stored in a cookie on your hard drive. 
