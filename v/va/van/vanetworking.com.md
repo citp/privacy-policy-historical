@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530031641id_/http%3A//vanetworking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919075143id_/http%3A//www.vanetworking.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Virtual Assistant Networking Association (VANA)
 
@@ -51,20 +51,3 @@ Virtual Assistant Networking Association or its affiliates, namely Virtual Busin
 
 Contacting the Site Operators  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you may [contact Tawnya](mailto:tawnya@vanetworking.com).
-
-[© Virtual Business Solutions  
-](http://virtualbusinesssolution.com/)Toll Free: 866-943-6665  
-Or Local Vancouver: 604-542-9664  
-[Contact Us](mailto:vana@vanetworking.com)
-
-| **US Office:**  
-477 Peace Portal Drive  
-Suite 107-139  
-Blaine, WA 98230 | 
-
-**Canada Office:**  
-800-15355 24th Ave.  
-Suite 393  
-Surrey, BC, V4A 2H9   
-  
----|---
