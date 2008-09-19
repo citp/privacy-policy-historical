@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614061335id_/http%3A//www.hustlermoneyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919150436id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hustler $$$ Blog
+# Privacy | Hustler Money Blog
 
 **HustlerMoneyBlog** is committed to protecting your privacy when you visit  
 our Web site. You can access **HustlerMoneyBlog** and browse our site without  
@@ -48,3 +48,7 @@ that might collect personally identifying information.
 
 This privacy statement applies solely to information collected by **HustlerMoneyBlog**. If you have any questions or concerns about our privacy  
 policy, please contact:  **HustlerMoneyBlog** **[at] gmail.com**
+
+Tags: 
+
+### Comments
