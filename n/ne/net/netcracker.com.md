@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509025047id_/http%3A//www.netcracker.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919220750id_/http%3A//www.netcracker.com/en/legal) for the most accurate reproduction.*
 
 # Privacy Statement
 
