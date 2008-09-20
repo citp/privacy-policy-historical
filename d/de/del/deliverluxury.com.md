@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliverluxury.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514155634id_/http%3A//www.deliverluxury.com/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliverluxury.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920170601id_/http%3A//www.deliverluxury.com/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deliver Luxury by Touch of Europe
 
@@ -14,8 +14,8 @@ If you have any questions, please feel free to call or email us.
 
 Thank you for your custom.
 
-[www.deliverluxury.com](https://web.archive.org/web/20080514155634id_/http%3A//www.deliverluxury.com/info/www.deliverluxury.com)  
-for [www.TouchofEurope.net](https://web.archive.org/web/20080514155634id_/http%3A//www.deliverluxury.com/info/www.TouchofEurope.net)
+[www.deliverluxury.com](https://web.archive.org/web/20080920170601id_/http%3A//www.deliverluxury.com/info/www.deliverluxury.com)  
+for [www.TouchofEurope.net](https://web.archive.org/web/20080920170601id_/http%3A//www.deliverluxury.com/info/www.TouchofEurope.net)
 
 **Don't hesitate to contact us anytime.**
 
