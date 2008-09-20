@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509092856id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920235057id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,4 @@ Provident Credit Union and its affiliates are committed to protecting the privac
 
 
 
-[Privacy Form](https://web.archive.org/web/20080509092856id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
+[Privacy Form](https://web.archive.org/web/20080920235057id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
