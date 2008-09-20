@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121002id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920074855id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # TowerData Privacy Policy
 
