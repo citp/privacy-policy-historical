@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200621id_/http%3A//www.electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920100516id_/http%3A//www.electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy : Recycle Computer and E-waste Here – California and Massachusetts – Electronic Recyclers International™
+# Privacy Policy : Recycle Computer and E-waste Here – California and Massachusetts – Electronic Recyclers International®
 
-## Privacy Policy
+## Privacy PolicyContact us at [info@electronicrecyclers.com](mailto:info@electronicrecyclers.com "Contact Us")
 
-###  ELECTRONIC RECYCLERS INTERNATIONAL™ PRIVACY POLICY  
+###  ELECTRONIC RECYCLERS INTERNATIONAL® PRIVACY POLICY  
 EFFECTIVE DATE: NOVEMBER 5, 2007 
 
   1. **Introduction**.  
-Electronic Recyclers International™, a Delaware corporation ("us," "we," or "Company"), is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We encourage you to review those privacy policies. 
+Electronic Recyclers International®, a Delaware corporation ("us," "we," or "Company"), is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We encourage you to review those privacy policies. 
   2. **Information Collection Practices**. 
     1. **Types of Information Collected**.
       1. **Traffic Data Collected**.  
@@ -39,7 +39,7 @@ Except as otherwise provided in this Privacy Policy, we will keep your Personal 
     1. **Questions**.  
 If you have any questions about this Policy, our privacy practices related to this Site, or if you would like us to remove your information from our database, please feel free to contact us at [privacy@electronicrecyclers.com](mailto:privacy@electronicrecyclers.com). 
     2. **California Privacy Rights Notice**.  
-Under California Civil Code Sections 1798.83 – 1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information the Company shares with third parties or corporate affiliates for the third parties' or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of the notice, please submit a written request to the following address: Electronic Recyclers International™, P.O. Box 2428, Fresno, CA 93745. In your request, please specify that you want a "California Privacy Rights Notice." Please allow at least thirty (30) days for a response. 
+Under California Civil Code Sections 1798.83 – 1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information the Company shares with third parties or corporate affiliates for the third parties' or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of the notice, please submit a written request to the following address: Electronic Recyclers International®, P.O. Box 2428, Fresno, CA 93745. In your request, please specify that you want a "California Privacy Rights Notice." Please allow at least thirty (30) days for a response. 
     3. **Updates and Modifications**.  
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
 
