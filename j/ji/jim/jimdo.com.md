@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630133546id_/http%3A//www.jimdo.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920064424id_/http%3A//www.jimdo.com/privacy_statement.php) for the most accurate reproduction.*
 
-# Jimdo - Pages to the People. - Privacy Statement
+# Privacy Statement - Jimdo
 
-## Privacy Statement
-
- **Jimdo Privacy Policy  
+**Jimdo Privacy Policy  
 **
 
   
