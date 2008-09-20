@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtopronounce.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtopronounce.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - How To Pronounce Wine Names Book
 
@@ -13,6 +13,6 @@ We may make changes to Our Privacy Policy from time to time, and will notify Our
 
 
 © Copyright 2002-2006 Luminosa Publishing, Website Design Diana Bellucci   
-[contact us](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/contact-us/index.html) \- [privacy policy](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/privacy-policy.html) \- [terms of use](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/terms-of-use.html) \- [resources](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/wine-cellar-gift-resources.html) \- [wine gifts site map](https://web.archive.org/web/20080414191810id_/http%3A//www.howtopronounce.com/wine-cellar-gift-site-map/index.html)  
+[contact us](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/contact-us/index.html) \- [privacy policy](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/privacy-policy.html) \- [terms of use](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/terms-of-use.html) \- [resources](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/wine-cellar-gift-resources.html) \- [wine gifts site map](https://web.archive.org/web/20080920083044id_/http%3A//www.howtopronounce.com/wine-cellar-gift-site-map/index.html)  
 ---  
 [](http://www.web-stat.com/stats/dbellucci.htm)
