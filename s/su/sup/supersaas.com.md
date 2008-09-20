@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2008-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080206164331id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920083653id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
-# SuperSaaS – Privacy Policy
+# Privacy Policy – SuperSaaS
 
 April 14, 2007
 
