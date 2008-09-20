@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exhibitoronline.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081414id_/http%3A//www.exhibitoronline.com/newsletters/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exhibitoronline.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920113804id_/http%3A//www.exhibitoronline.com/newsletters/privacypolicy.asp) for the most accurate reproduction.*
 
 # Exhibitor Online – Email Newsletters
 
