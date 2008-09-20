@@ -1,66 +1,142 @@
-> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020717id_/http%3A//lipikaar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920092100id_/http%3A//www.lipikaar.com/lipikaar/privacypolicy) for the most accurate reproduction.*
 
-# ..:: Use LIPIKAAR to enter text in an Indian language under Microsoft WORD, Excel, Access, Power Point, Notepad, MSN Messenger, and all other applications running under Windows.
+# Lipikaar - Privacy Policy
 
-PRIVACY STATEMENT  
+**Databyte Equipment Private Limited, Privacy Policy**
 
+Databyte Equipment Private Limited and its subsidiaries and affiliates ("Databyte") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Databyte. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Databyte you agree to the collection and use of your data by Databyte in the manner provided in this Privacy Policy. 
 
-* * *
+**We want you to**
 
-Lipikaar Privacy Statement   
-Your privacy is important to Lipikaar. Therefore, Lipikaar is committed to respecting Your privacy and the confidentiality of Your personal data, traffic data and communications content. This Privacy Statement is designed to assist You in understanding how Lipikaar uses and safeguards the information your provide during registration and software download. In this Privacy Statement the following capitalized definitions are being used, singular as well as plural. 
-
-Feedback Information: any information that is reported to Lipikaar by filling in the feedback forms on the Website or sending an email to Lipikaar. 
-
-Personal Data: any information that Lipikaar possesses relating to an identified or identifiable user of Lipikaar Software. 
-
-Register Information: any information provided when voluntarily registering at the Website or via email/mail/phone, including, but not limited to, name and email address. 
-
-Lipikaar: means under this Privacy Statement Databyte Equipment Pvt. Ltd , a company incorporated under the laws of India, having its registered office at 200 Narayan Peth, Pune, 411030 India. 
-
-Lipikaar Software: Software that allows You to type in any Indian language with an ordinary keyboard. 
-
-Website: the website located at www.lipikaar.com. 
-
-You: You, the user of the Lipikaar Software, also used in the form “Your” where applicable. 
-
-What is Lipikaar and what services does it offer?   
-Lipikaar is a product developed by Databyte Equipment Pvt. Ltd., a company established under the laws of India. Through the Website, Lipikaar. offers you the **Lipikaar Software** which may be extended or changed from time to time. 
-
-What information does Lipikaar collect?  
-In order to provide the **Lipikaar Software** , Lipikaar gathers and processes the following information. 
-
-  * Register Information 
-  * Feedback Information 
-  * E-mail addresses 
+  * feel comfortable using our web sites
+  * feel secure submitting information to us
+  * contact us with your questions or concerns about privacy on this site
+  * know that by using our sites you are consenting to the collection of certain data
 
 
 
-How does Lipikaar use this information and for what purpose?  
+**What information may be collected from you?**
+
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a:
+
+  * web server cookie stored on your hard drive
+  * an IP address, assigned to the computer which you use
+  * the domain server through which you access our service
+  * the type of computer you're using
+  * the type of web browser you're using
 
 
-  * Feedback Information  
-Any and all information which is voluntarily submitted in feedback forms or via email on the Website, is used for the purposes of reviewing this feedback and improving the Lipikaar Software, and Website. Lipikaar reserves the right to utilize anonymous information for marketing purposes, for instance by displaying selected comments on the Website or in other communications. Further, Lipikaar may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time in any obligation to provide any of such data. Lipikaar will never use any personally identifiable (feedback) information without Your explicit permission thereto. 
-  * E-mail addresses   
-Lipikaar respects the privacy of personal e-mail accounts and stores Your e-mail addresses just as securely as other Personal Data. Lipikaar will not send You unwanted e-mail messages or junk mail, and Your details will not be passed to third parties without Your explicit permission. However, Lipikaar will use e-mail to send You messages about faults and service issues. Lipikaar may also use e-mail to keep You up to date with news about the Lipikaar Software. If You do not want to be kept informed in this way by e-mail, please contact Lipikaar at [info@lipikaar.com](mailto:info@lipikaar.com). 
+
+We may collect the following personally identifiable information about you:
+
+  * name including first and last name
+  * email address
+  * mobile phone number and contact details
+  * ZIP/Postal code
+  * demographic profile (like your age, gender, occupation, education, address and durables owned)
+  * preferences and interests (such as movies, entertainment, and so on)
+  * financial information (like account or credit card numbers) 
+  * opinions of features on our websites
 
 
 
-How far does Lipikaar’s responsibility extend?   
-The Website may contain links that will let You leave the Website and access another website. Linked websites are not under the control of Lipikaar and it is possible that these websites have a different privacy policy. The Privacy Statement applies solely to personal information that is acquired on the Website, so Lipikaar urges You to be careful when You enter any personal information online. Lipikaar accepts no responsibility or liability for these other websites. 
+We may also collect the following information:
 
-How does Lipikaar protect Your personal information?   
-Lipikaar shall take appropriate organizational and technical measures to protect the Personal Data provided to it or collected by it, and shall not retain it any longer than required in order to perform its services or as required under relevant legislation. Your Personal and Traffic Data can only be accessed by authorized employees of Lipikaar who need to have access to these data in order to be able to fulfill their given duties. 
+  * about the pages you visit/access
+  * the links you click on our site
+  * the number of times you access the page
 
-Can this Privacy Statement be modified?   
-Lipikaar reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform You of these changes on the Website. You agree that by continuing to use the Lipikaar Software following the publishing of the revised Privacy Statement You indicate your acceptance of the Privacy Statement. 
 
-What rights do You have and how can You contact Lipikaar?   
-If You would like to exercise your right to view, correct, complete or remove Your Personal Data, please contact Lipikaar at info@lipikaar.com. Within a reasonable period of time and upon verification of your identity, Lipikaar will fulfill Your request, provided Lipikaar will not act contrary to applicable legislation by fulfilling Your request. 
 
-How long is Your Personal Data kept by Lipikaar?  
-Lipikaar will retain Your information for as long as is necessary to - carry out Lipikaar marketing activities; apply with applicable legislation, regulatory requests and relevant orders from competent courts; or fulfill any of the other purposes detailed in this Privacy Statement. 
+You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-© Lipikaar – Last revised: December 2005 
+**Who collects the information?**
 
-[](https://web.archive.org/web/20071211020717id_/http%3A//lipikaar.com/privacy.asp#top)
+We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
+
+We make reviews, forums, and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
+
+**How is the information used?**
+
+We use your personal information to:
+
+  * help us provide personalized features
+  * tailor our sites to your interest
+  * to get in touch with you when necessary
+  * to provide the services requested by you
+  * to preserve social history as governed by existing law or policy
+
+
+
+We use contact information internally to:
+
+  * direct our efforts for product improvement
+  * contact you as a survey respondent
+  * notify you if you win any contest or promotion; and
+  * send you promotional materials from our contest sponsors or advertisers
+
+
+
+Generally, we use anonymous traffic information to:
+
+  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;
+  * recognize your access privileges to our Web sites
+  * track your entries in some of our promotions and contests
+  * make sure that you don't see the same ad repeatedly
+  * help diagnose problems with our server
+  * administer our Web sites
+  * track your session so that we can understand better how people use our sites
+
+
+
+**With whom will your information be shared?**
+
+We will not use your information for any purpose other than to complete an order with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
+
+  * we have your permission
+  * to provide products or services you've requested
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Databyte's terms of use or to defend against legal claims;
+  * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
+
+
+
+We may share your information with advertisers on an aggregate basis only.
+
+**What choices are available to you regarding collection, use and distribution of your information?**
+
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
+
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Databyte reserves the right to send you certain service related communication, considered to be a part of your Databyte account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
+
+Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. 
+
+**What security procedures are in place to protect information from loss, misuse or alteration?**
+
+To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
+
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+
+**How can you correct inaccuracies in the information?**
+
+To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details, or to offer your views, suggestions, you can use the following option:
+
+  
+
+
+  * Send an e-mail to [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar%3A%20Information)
+
+  
+
+
+**Policy updates**
+
+We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.   
+` Contact Information  
+You can contact us at:  
+Databye Equipment Private Limited.  
+200, Narayan Peth, Laxmi Road,  
+Pune 411030,  
+INDIA  
+` [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar%3A%20Information)
