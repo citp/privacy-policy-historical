@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgdumpr.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530091714id_/http%3A//www.imgdumpr.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdumpr.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921214904id_/http%3A//www.imgdumpr.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Where Images Get Dumpd...
 
