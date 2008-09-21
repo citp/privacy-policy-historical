@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comodoca.com privacy policy that was archived on 2007-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070914181324id_/http%3A//www.comodoca.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodoca.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921212035id_/http%3A//www.comodoca.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Welcome to TrustToolbar.com
 
