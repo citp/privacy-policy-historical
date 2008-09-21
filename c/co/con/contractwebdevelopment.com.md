@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616100956id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921092704id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CWD
+# Privacy Policy | CWDNow.com
 
   
 
@@ -23,7 +23,8 @@ Passive Collection
 
 Our software automatically collects certain information from a user's computer when that user logs on or moves about our Site. We do not link this information to any other Personal Information the user tells us; we only use it to get a broad picture of who is on our Site and which areas our users are visiting. This information tells us what's important to our users and what isn't, allows us to make our Site more interesting and useful, and enhances security and efficiency on our Site. The two main ways in which we collect this general information are through:
 
-  * **Log Files** \- log files are records of user activity collected to analyze trends, administer the Site, track users' movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include: 
+  * **Log Files** \- log files are records of user activity collected to analyze trends, administer the Site, track users' movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include:  
+
     * The IP address of the user's computer.
     * How many people visit our Site.
     * Which pages of our Site are visited most often.
@@ -60,10 +61,6 @@ Contract Web Development Inc. is the sole owner of the information collected on 
 ## Who can we contact if we have further questions about the privacy policy of this Site?
 
 If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Contract Web Development Inc. via mail or feedback form, both of which can be found on the [Contact Information](https://web.archive.org/contact-information) page.
-
-Visit our Store
-
-Contract Web Development has launched a storefront, in association with Amazon.com, that offers hand-picked selections by our senior developers covering search marketing, web design and development, content management systems, and more.  [Visit our store](http://community.contractwebdevelopment.com/store) now!
 
 Get a Quote Now
 
