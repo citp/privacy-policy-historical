@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629134724id_/http%3A//www.humanservices.gov.au/generic/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921034908id_/http%3A//www.humanservices.gov.au/generic/privacy.html) for the most accurate reproduction.*
 
 # Human Services Portfolio
 
@@ -16,11 +16,10 @@ You should be aware that information sent via the internet, especially if it is 
 
 For further information contact:
 
-**Marketing and Communication  
+**Media and Communication  
 Department of Human Services  
 ** PO Box 3959  
 MANUKA ACT 2603  
-Fax: 02 6233 0289  
-Tel: 1300 55 44 79
+
 
 Top of page
