@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2008-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080314010932id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922004052id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GMI Privacy Policy
+
+[Home](https://web.archive.org/) > Privacy policy
 
 GMI is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically.
 
