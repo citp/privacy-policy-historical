@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605235256id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921210146id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | RISMedia
 
