@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the servicecentral.com.au privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420074438id_/http%3A//www.servicecentral.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicecentral.com.au privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921055702id_/http%3A//www.servicecentral.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Service Central - Find licensed tradespeople in Sydney, Melbourne, Brisbane and across Australia
+# Privacy Policy - Service Central
 
 ###  Introduction and Privacy Laws 
 
@@ -10,9 +10,10 @@ Service Central provides customer feedback, message boards and other services fo
 
 If you have queries, concerns or would like to revise your personal records maintained by Service Central , please email us at contact us. Our postal address is: 
 
-Service Central Agency Pty Ltd  
-PO Box 322  
-Kew East, VIC 3102, Australia. 
+Service Central (Aust) Pty Ltd   
+188 Johnston Street  
+Collingwood VIC 3066  
+Australia 
 
 Your personal information is important to us. 
 
