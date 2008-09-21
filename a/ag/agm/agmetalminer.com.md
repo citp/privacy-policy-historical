@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426084924id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921102242id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MetalMiner
+# Privacy Policy
 
 This Web Site Privacy Statement (“Privacy Statement”) tells our visitors (“You”) about: a) The information Metal Miner and Aptium Global Inc. collects through our website(s), www.aptiumglobal.com, www.agmetalminer.com, and “related web sites” (the “Site(s)”); b) Certain services available on our Site(s) including the diagnostic tools; c) How we use that information; and d) How You can choose to opt out of some of these practices.
 
