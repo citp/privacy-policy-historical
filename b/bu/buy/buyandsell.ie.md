@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524210001id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921120847id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
 
 # free ads,free classifieds ad, ads for free,place free ads online
 
