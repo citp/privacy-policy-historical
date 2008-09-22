@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530011857id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922201350id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411 Privacy Policy
 
