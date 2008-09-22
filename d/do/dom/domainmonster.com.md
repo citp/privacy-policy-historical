@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2008-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080125141546id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922230922id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
 # Domain Name Registration - Bulk Discount Domain Names & Domain Name Registration Services
 
