@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422164610id_/http%3A//tomferry.com/contact/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922180858id_/http%3A//www.tomferry.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# YourCoach.com - Privacy Policy
+# Privacy Policy | Real Estate Coaching, Training and Mentoring - TomFerry-yourcoach
+
+TomFerry-yourcoach **™** (sometimes referred to as "Success Strategies Institute," "SSi," "we," "us," or "our") takes your privacy seriously. This Privacy Policy discloses our information collection and dissemination practices. 
 
 **Our Service**
 
-Success Strategies Institute provides coaching and training strategies designed for those who seek to take their personal and professional lives to the next level, creating a consistent business, increasing income, and improving the overall quality of life. 
+TomFerry-yourcoach **™** provides coaching and training strategies designed for those who seek to take their personal and professional lives to the next level, creating a consistent business, increasing income, and improving the overall quality of life. 
 
 **Privacy Protections and Use of Information**
 
@@ -22,7 +24,7 @@ IP Addresses. We may use your IP address to diagnose problems with our servers a
 
 If you are purchasing a product, we may request payment information to conclude the transaction as well as your mailing address or other contact information to ensure authentication and proper delivery. We use industry-standard secure socket layer (SSL) encryption. We do not sell or rent your personal financial information.
 
-When you engage in an eCommerce transaction on our site using a credit card, your credit card information, including the number and expiration date and your billing addresses, is passed onto the merchant with whom the transaction was placed; only Success Strategies Institute and the merchant with whom you placed the order has access to your credit card information. Your credit card information is stored with each order in the Success Strategies Institute system just long enough to fully process your transaction. After the transaction has completed, your credit card information is removed from our system for security reasons.
+When you engage in an eCommerce transaction on our site using a credit card, your credit card information, including the number and expiration date and your billing addresses, is passed onto the merchant with whom the transaction was placed; only TomFerry-yourcoach **™** and the merchant with whom you placed the order has access to your credit card information. Your credit card information is stored with each order in the TomFerry-yourcoach **™** system just long enough to fully process your transaction. After the transaction has completed, your credit card information is removed from our system for security reasons.
 
 You can decline to provide credit card information and any other information at our site at anytime. If you should choose to withhold requested information; however, we may not be able to provide you with the full spectrum of our services.
 
@@ -36,24 +38,26 @@ This site has security measures in place to protect against the loss, misuse and
 
 **Corrections and Updates**
 
-To change or modify information you previously provided, you may send an email to customerservice@yourcoach.com.
+To change or modify information you previously provided, you may send an email to [customerservice@yourcoach.com](mailto:customerservice@referralsuperstar.com).
 
 Please note that no data transmission over the Internet is infallible. Any information you transmit through our site is done at your own risk. Once we receive your information, we will take every reasonable precaution to ensure its security on our systems.
 
 **Notification of Changes**
 
-If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to customerservice@yourcoach.com.
+If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to [customerservice@yourcoach.com](mailto:customerservice@referralsuperstar.com).
 
-Success Strategies Institute reserves the right to change this policy, so please check back periodically to review any changes to this policy.
+TomFerry-yourcoach **™** reserves the right to change this policy, so please check back periodically to review any changes to this policy.
 
 **Contact Us**
 
 We do everything we can to protect the privacy of our users. If you have any questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact us at:
 
-Customer Service  
-Success Strategies Institute  
+**Customer Service  
+TomFerry-yourcoach™  
+(Success Strategies Institute)**  
 5000 Birch St., Suite 1400  
-Newport Beach, CA 92660  
-Direct: (949) 251.9491  
-Toll Free: (888) 866.3377  
-Fax: (949) 251.9973
+Newport Beach, CA 92660
+
+Direct: **(949) 251.9491**  
+Toll Free: **(888) 866.3377**  
+Fax: **(949) 251.9973**
