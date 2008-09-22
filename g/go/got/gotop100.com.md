@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424230814id_/http%3A//www.gotop100.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922190057id_/http%3A//www.gotop100.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-This is the web site of **GoTop100.com**. 
-
-Our postal address is   
-**Box 3781  
-Vermilion, Alberta, Canada T9X 2B7**
-
-We can be reached via e-mail at [admin@gotop100.com](mailto:admin@gotop100.com)
+This is the web site of **GoTop100.com**.  
+We can be reached via e-mail at admin (at) gotop100.com 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -16,12 +11,16 @@ We collect aggregate information on what pages consumers access or visit, inform
 
 The information we collect is used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
+With respect to cookies: We use cookies to record session information, in order to allow members to log in to protected areas.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-https://www.google.com/adsense/online-help
+With respect to Ad Servers: We use third-party advertising companies to serve ads when you visit our website. These companies may use non personal information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/adsense/online-help).
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
 
