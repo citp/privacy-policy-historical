@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502020907id_/http%3A//www.tradereader.com/Visitor/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922164151id_/http%3A//www.tradereader.com/Visitor/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Trade Tender b2b auction information daily
 
