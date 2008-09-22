@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019225636id_/http%3A//leoweekly.com/%3Fq%3Dnode/119) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922152935id_/http%3A//leoweekly.com/%3Fq%3Dnode/119) for the most accurate reproduction.*
 
 # Privacy Statement | LEO Weekly
 
