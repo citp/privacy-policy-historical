@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaledge.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609110137id_/http%3A//www.globaledge.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaledge.co.uk privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922153830id_/http%3A//www.globaledge.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
