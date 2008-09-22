@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meter.net privacy policy that was archived on 2008-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080104120939id_/http%3A//www.meter.net/Home/tabid/56/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meter.net privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922051601id_/http%3A//meter.net/Home/tabid/56/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Meter Company > Home
 
