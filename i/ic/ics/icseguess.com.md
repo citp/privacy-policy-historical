@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icseguess.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528193428id_/http%3A//www.icseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icseguess.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922192322id_/http%3A//www.icseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
 # icse India, icse Board Guess Questions Papers & Results, icse Tutors, Books, Schools India, Indian Educational
 
@@ -113,4 +113,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 **7\. How to contact icseguess.com?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20080528193428id_/http%3A//www.icseguess.com/pages/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20080922192322id_/http%3A//www.icseguess.com/pages/contactus.php)
