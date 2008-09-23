@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611020614id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923121617id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
 
 # answer
 
