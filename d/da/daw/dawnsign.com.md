@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514214159id_/http%3A//www.dawnsign.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923132842id_/http%3A//dawnsign.com/general/privacy.html) for the most accurate reproduction.*
 
 # DawnSign Press.com Privacy Policy
 
 * **Privacy Notice**
-* [Conditions Of Use](https://web.archive.org/web/20080514214159id_/http%3A//www.dawnsign.com/general/conditionsofuse.html)
+* [Conditions Of Use](https://web.archive.org/web/20080923132842id_/http%3A//dawnsign.com/general/conditionsofuse.html)
 | 
 
 ## **The following policy applies to the DAWNSIGN.COM site.**
