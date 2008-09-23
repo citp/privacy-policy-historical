@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214826id_/http%3A//www.davidwolfe.com/Home/tabid/561/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923110739id_/http%3A//www.davidwolfe.com/Home/tabid/561/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # DavidWolfe.com > Home
 
@@ -44,4 +44,4 @@ DavidWolfe.com will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-DavidWolfe.com welcomes your comments regarding this Statement of Privacy. If you believe that DavidWolfe.com has not adhered to this Statement, please contact DavidWolfe.com at [gojigirl@rawfood.com](mailto:gojigirl@rawfood.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+DavidWolfe.com welcomes your comments regarding this Statement of Privacy. If you believe that DavidWolfe.com has not adhered to this Statement, please contact DavidWolfe.com at [supergojigirl@gmail.com](mailto:supergojigirl@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
