@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the easyweightlosstea.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011150510id_/http%3A//www.easyweightlosstea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweightlosstea.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924011714id_/http%3A//www.easyweightlosstea.com/privacy.php) for the most accurate reproduction.*
 
-# Wu-Yi Source (Privacy Policy)
+# EasyWeightLossTea (Privacy Policy)
 
 ## Privacy Policy
 
-Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the Canadian websites operated by us (collectively, our "Website") and our Online Products, and explains how we collect your personal information on our Website, or through our Online Products, how we protect such information, and the choices you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully. Wu-Yi Source will not sell, share, license, trade, or rent your personal information collected on our Website or through our Online Products to others.
+Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the Canadian websites operated by us (collectively, our "Website") and our Online Products, and explains how we collect your personal information on our Website, or through our Online Products, how we protect such information, and the choices you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully.
 
 We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis. By using our Website or any of our products, offerings, features, tools or resources that we provide on our Website (collectively, our "Online Products"), you agree to the terms of this Privacy Policy. 
 
@@ -63,13 +63,15 @@ We may share aggregate information, which is not personally identifiable, with o
 **WHAT DO WE DO WITH THE INFORMATION WE COLLECT?**  
 In general, we use the information collected on our Website and through our Online Products to help us understand who uses our Website and Online Products and how they are used, to personalize your experience (such as by providing you with information we think may be of interest to you), to assist you in using our Online Products, to improve our Website and Online Products, and for subscription billing purposes, if applicable.
 
+We may share or sell your Information, including your nonpublic personal information, for compensation with third parties; such third parties may include, but are not limited to, our affiliates, marketing companies, advertising agencies, data compilers, advertisers, data companies, data brokers, and, to the extent permitted by law, individual reference and look-up service programs. Such Information may be used by such third parties to provide you with information, advertisements, commercial communications and materials on products and services that may be of interest, for direct marketing or any other business.
+
 If you become a registered user of our Website or subscribe to one of our Online Products, we may use your information to send you a welcoming email that may confirm your user name and password. If you "opt-in" we may send you electronic newsletters, contact you about Weight Loss products, services, information and news that may be of interest to you, and provide you with targeted feedback. If you no longer desire to receive these communications, we will provide you with an option to change your preferences. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. We may also use the information collected to send you important service announcements and updates regarding our Website or Online Products or, if you are a subscriber, about your billing account status. You will not be able to unsubscribe from these service announcements and updates as they contain important information relevant to your use of our Website and/or our Online Products. 
 
 We may also use the information gathered on our Website and through our Online Products to perform statistical analysis of user behavior, to analyze and evaluate issues relating to nutrition, weight loss, behavior and fitness, or to evaluate and improve our Online Products. We may link some of this information to Personally Identifiable Information for purposes such as understanding the characteristics of people who use our Website, to improve and market our Website in general and our Online Products in particular or to assist you in your personal weight loss efforts. 
 
 **WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES?**
 
-Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Website.
+We may share or sell your Information, including your nonpublic personal information, for compensation with third parties; such third parties may include, but are not limited to, our affiliates, marketing companies, advertising agencies, data compilers, advertisers, data companies, data brokers, and, to the extent permitted by law, individual reference and look-up service programs. Such Information may be used by such third parties to provide you with information, advertisements, commercial communications and materials on products and services that may be of interest, for direct marketing or any other business.
 
 ## Affiliates.
 
@@ -100,4 +102,4 @@ If you have any questions about our Privacy Policy or feel that we are not abidi
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-Last modified as of July 27, 2007
+Last modified as of Feb 20, 2008
