@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollynewz.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507020353id_/http%3A//www.bollynewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollynewz.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923173741id_/http%3A//www.bollynewz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
