@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514113149id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924202208id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PR Leap
-
-RSS Share and Enjoy: [](http://del.icio.us/post?url=http://www.prleap.com/privacy&title=Privacy+Policy) [](http://digg.com/submit?phase=3&url=http://www.prleap.com/privacy&title=Privacy+Policy) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.prleap.com/privacy&=Privacy+Policy) [](http://www.netscape.com/submit/?U=http://www.prleap.com/privacy&T=Privacy+Policy)
-
-  
-
 
 Welcome to PR Leap, a service brought to you by Condesa. We respect your privacy. That is why we don't ever sell your email address, and we don't ever spam. What this privacy policy covers: 
 
