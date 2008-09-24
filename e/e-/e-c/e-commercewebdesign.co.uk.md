@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-commercewebdesign.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514142217id_/http%3A//www.e-commercewebdesign.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-commercewebdesign.co.uk privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924202614id_/http%3A//www.e-commercewebdesign.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Terms & Conditions - E-Commerce Web Design
 
