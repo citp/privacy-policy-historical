@@ -1,36 +1,41 @@
-<!--The following is the downloaded HTML source of the tutor.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528101229id_/http%3A//www.tutor.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tutor.com privacy policy that was archived on 2008-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080924142616id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="robots" content="noodp"><meta name="verify-v1" content="xHkbekn/ednsAU+lmIF2JRTZAuAHUdZy8Udhbn2IOmA="><link rel="stylesheet" type="text/css" href="/styles/reset-fonts-grids.css"><link rel="stylesheet" type="text/css" href="/styles/main.css"><title>
-	Tutor.com - Privacy Policy
-</title>
-    
-	<script src="/scripts/prototype.js" type="text/javascript" language="javascript" charset="utf-8"></script>
-	<script src="/scripts/custom_prototype_extensions.js" type="text/javascript"></script>
-
-	<script language="JavaScript" src="/scripts/load_demo_movie.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Tutor.com | Privacy Policy
+</title><meta name="robots" content="noodp"><meta id="ctl00_metadesc" name="description" content=""><link href="/styles/reset-fonts-grids.css" rel="stylesheet nofollow" type="text/css"><link href="/styles/www_main.css" rel="stylesheet" type="text/css">
 	
-	<script language="javascript" type="text/javascript">
+    <script src="/scripts/prototype.js" type="text/javascript" language="javascript"></script>
+	<script src="/scripts/custom_prototype_extensions.js" type="text/javascript"></script>
+	<script src="/scripts/custom_spotlight.js" type="text/javascript"></script>
+	<script src="/counter/counter.js" type="text/javascript"></script>
+	<script src="/scripts/load_demo_movie.js" type="text/javascript"></script>
+	
+	<script type="text/javascript" language="javascript">
+		function goToUrl(url) //Used by the button at the end of the demo movie
+		{
+			//we'll ignore where the movie wants to send the browser and explicitly send it to get started here.
+			CT_RecordView('/session-demo.html?event=SessionDemoVideo-ClickedGetStarted', 'GET');
+			location.href = "/get-started/";
+		}
+	
 		/* This javascript is responsible for displaying and moving the "More" menu*/
+		//MoreMenu
+		//MoreMenuLink
 		function toggleMoreMenuDisplay(event)
 		{
-			/*
-			var NavMoreMenu = document.getElementById("nav_more_link");
-			var MoreMenuDiv = document.getElementById("more_menu");
-			*/
-			
 			//figure out where the MoreLink is in the browser on the page
-			var eleMoreLink = $('nav_more_link');
+			var eleMoreLink = $('MoreMenuLink');
 			var eleMoreLinkPos = Position.cumulativeOffset(eleMoreLink);
 			
-			var eleMoreMenu = $('more_menu');
+			var eleMoreMenu = $('MoreMenu');
 			eleMoreMenu.toggle();
 			
 			if(eleMoreMenu.visible())
 			{
 			eleMoreMenu.setStyle({
-					left: (eleMoreLinkPos[0]-7)+"px",
-					top: (eleMoreLinkPos[1]+19)+"px"
+					left: (eleMoreLinkPos[0]-64)+"px",
+					top: (eleMoreLinkPos[1]+35)+"px"
 					});
 			}
 			
@@ -39,347 +44,555 @@
 		
 		//Makes sure that the menu doesn't stick in one place if the user decides to resize the browser.
 		window.onresize = function () {
-			var eleMoreLink = $('nav_more_link');
-			var eleMoreLinkPos = Position.cumulativeOffset(eleMoreLink);
-			
-			var eleMoreMenu = $('more_menu');
-			
-			if(eleMoreMenu.visible())
+			var eleMoreLink = $('MoreMenuLink');
+			if (eleMoreLink)
 			{
-			eleMoreMenu.setStyle({
-					left: (eleMoreLinkPos[0]-7)+"px",
-					top: (eleMoreLinkPos[1]+19)+"px"
-					});
+				var eleMoreLinkPos = Position.cumulativeOffset(eleMoreLink);
+				
+				var eleMoreMenu = $('MoreMenu');
+				
+				if(eleMoreMenu.visible())
+				{
+				eleMoreMenu.setStyle({
+						left: (eleMoreLinkPos[0]-61)+"px",
+						top: (eleMoreLinkPos[1]+35)+"px"
+						});
+				}
 			}
 		}
 		
 		Event.observe(window, 'load', function() {
-			var moreMenuLink = document.getElementById('nav_more_link');
-			moreMenuLink.href="javascript:void(0);";
-			Event.observe(moreMenuLink, 'click', toggleMoreMenuDisplay);
+			//attach behavior for more link
+			var moreMenuLink = $('MoreMenuLink');
+			var eleMoreMenu = $('MoreMenu');
+			if (moreMenuLink) //if it's not there/visible, don't perform the rest.
+			{
+				moreMenuLink.href="javascript:void(0);";
+				Event.observe(moreMenuLink, 'click', toggleMoreMenuDisplay);
+				
+				//We'll also need to turn off the menu if the user clicks away
+				Event.observe('MasterBody','click',function(){
+					if (eleMoreMenu.visible())
+					{
+						eleMoreMenu.hide();
+					}
+				});
+			}
+			
+			//attach behavior for navigation highlighting
+			var TopNavImgs = $$('#NavigationMain img');
+			var MoreMenuImgs = $$('#MoreMenu img');
+			
+			for (var n=0; n<TopNavImgs.length; n++)
+			{
+				Event.observe(TopNavImgs[n], 'mouseover', FlipNavState);
+				Event.observe(TopNavImgs[n], 'mouseout', FlipNavState);
+			}
+			
+			for (var n=0; n<MoreMenuImgs.length; n++)
+			{
+				Event.observe(MoreMenuImgs[n], 'mouseover', FlipNavState);
+				Event.observe(MoreMenuImgs[n], 'mouseout', FlipNavState);
+			}	
+			
+			//attach behavior for spanSubmit / spanSubmitWait (hiding submit buttons if they exist)
+			if (($('spanSubmit') != null && $('spanSubmitWait') != null) || ($('spanSubmitTop') != null && $('spanSubmitWaitTop') != null))
+			{
+				var form = $$('form')[0];
+				if (form)
+				{
+					form.observe('submit', doPreSubmit);
+				}
+			}			
 		});
-	</script>
-	
-	<script type="text/javascript" language="javascript">
-		function popFlashDemo() {
-			//center the demo 'window'
-			var dims = Position.GetWindowSize(); 
-			$('flashdemo_container').style.left = ((dims[0] - 510) / 2) + "px";
-			
-			//show and play
-			Element.show('giant_background_page_overlay');
-			var flash_demo_container = $('flashdemo_container');
-			var flash_demo_iframe = $('iframe_flashdemo');
-			flash_demo_container.style.visibility = 'visible';
-			flash_demo_iframe.setAttribute('src', flash_demo_iframe.getAttribute('srctoload'));
-		}		
-
-		function closeMovieAndGoToUrl(url)
-		{
-			closeDemoWindow();
-			location.href = url;
-		}
-
-		function playMovie(secondTime)
-		{
-			var movieDiv = 'demo_movie';
-			var placeHolderDiv = 'demo_image_placeholders';
-			
-			//set cookie to track demo viewers
-			document.cookie='demoviewer=true; expires=Sun, 1 Jan 2012 01:00:00 UTC; path=/';
-			
-			if (document.getElementById(placeHolderDiv) == null || document.getElementById(movieDiv) == null || doMovieLoad == null)
-			{
-				setTimeout('playMovie();', 1000);
-				return;
-			}
-			
-			//load flash movie if user has flash8
-			if (hasRightFlashVersion)
-			{
-				//positioning for safari
-				var isSafari = (navigator.userAgent.toLowerCase().indexOf('safari') > 0);
-				
-				if (isSafari)
-					document.getElementById(movieDiv).style.marginLeft = '0px';
-					
-				document.getElementById(placeHolderDiv).style.display = 'none';
-				document.getElementById(movieDiv).style.display = 'inline';
-				doMovieLoad(movieDiv);
-				
-				//safari seems to need two of these
-				if (isSafari && !secondTime)		
-					setTimeout('playMovie(true);', 1000);	
-			}
-			else
-			{
-				showNoFlash();
-			}
-		}
 		
-		function closeDemoWindow()
+	function doPreSubmit()
+	{
+		//IMPORTANT: only hide the submit button if the page appears valid, otherwise the postback doesnt fire but the button goes away, which is, how you say, teh suck
+		if (typeof Page_IsValid != 'undefined' && Page_IsValid)
 		{
-			var flash_demo_iframe = $('iframe_flashdemo');
-			flash_demo_iframe.setAttribute('src', '');			
-			$('flashdemo_container').style.visibility = 'hidden';
-			Element.hide('giant_background_page_overlay');
+			var init = false;
+			//init is used for "onpageshow" event with firefox 1.5
+			if($('spanSubmit') != null && $('spanSubmitWait') != null)
+			{
+				document.getElementById('spanSubmit').style.visibility = ((init) ? 'visible' : 'hidden');
+				document.getElementById('spanSubmitWait').style.display = ((init) ? 'none' : 'inline');
+			}
+			
+			//if we have spanSubmitTop and spanSubmitWaitTop, toggle those too
+			if($('spanSubmitTop') != null && $('spanSubmitWaitTop') != null)
+			{
+				document.getElementById('spanSubmitTop').style.visibility = ((init) ? 'visible' : 'hidden');
+				document.getElementById('spanSubmitWaitTop').style.display = ((init) ? 'none' : 'inline');
+			}
+		}		
+	}					
+
+	function FlipNavState(event)
+	{
+		var nav_item = Event.element(event);
+		if (event.type == "mouseover")
+		{
+			nav_item.src = nav_item.src.replace("dark","light");
 		}
-	
-		function showNoFlash()
+		else
 		{
-			document.getElementById('viewdemobutton').style.display = 'none';
-			document.getElementById('no_flash8').style.visibility = 'visible';    
-		}  
-	</script>
-   
-    <!-- Meta tag to verify site ownership for Google Webmaster -->   
-    <meta name="verify-v1" content="8aLmG4U/ZsLsWMb9BIqo/7t5akCcdmPSkZmX/MwqQSk=">
-    
-    <!--Enquisite Code-->
-    <script type="text/javascript" src="https://logssl.enquisite.com/log.js?id=b926bc-04mlcg"></script>
-    <!--End Enquisite Code-->
-    
-<link rel="stylesheet" type="text/css" href="/styles/consumer.css"></head>
-<body id="ctl00_MasterBody">
-	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
-	<script type="text/javascript">
-	_uacct = "UA-67228-1";
-	_udn="none";
-	_ulink=1;
-	urchinTracker();
-	</script>
+			nav_item.src = nav_item.src.replace("light","dark");
+		}
+	}
 	
-	<!--VISUAL SCIENCES CODE HBX2.5 (Universal)-->
-    <!--COPYRIGHT 1997-2007 VISUAL SCIENCES,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://visualsciences.com/privacy-->
-    <script language="javascript">
-    var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-    var hbx=_hbEvent("pv");hbx.vpc="HBX0250u";hbx.gn="ehg-tutorcom.hitbox.com";
+	
+	// Use this for when we want to call google analytics or clicktracks page tracking function (to simulate a page hit)
+	function Analytics_TrackPage(ga_url, ct_url) {
+		_GA_TrackPage(ga_url);
+		_CT_TrackPage(ct_url);
+	}
+	
+	function _GA_TrackPage(url) {
+		if (typeof pageTracker != 'undefined' && typeof pageTracker._trackPageview != 'undefined') {
+			pageTracker._trackPageview(url);
+		}
+	}
+	function _CT_TrackPage(url) {
+		if (typeof CT_RecordView != 'undefined') {
+			CT_RecordView(url, 'GET');
+		}
+	}		
+	</script>
 
-    //BEGIN EDITABLE SECTION
-    //CONFIGURATION VARIABLES
-    hbx.acct="DM571031EEFW34EN3;DM57103128CD";//ACCOUNT NUMBER(S)
-    hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-    hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-    hbx.pndef="title";//DEFAULT PAGE NAME
-    hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-    //OPTIONAL PAGE VARIABLES
-    //ACTION SETTINGS
-    hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-    hbx.lt="auto";//LINK TRACKING
-    hbx.dlf="n";//DOWNLOAD FILTER
-    hbx.dft="n";//DOWNLOAD FILE NAMING
-    hbx.elf="n";//EXIT LINK FILTER
-
-    //SEGMENTS AND FUNNELS
-    //hbx.seg="";//VISITOR SEGMENTATION
-    hbx.fnl="";//FUNNELS
-
-    //CAMPAIGNS
-    hbx.cmp="";//CAMPAIGN ID
-    hbx.cmpn="";//CAMPAIGN ID IN QUERY
-    hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-    hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-    hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-    hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-    hbx.hra="";//RESPONSE ATTRIBUTE
-    hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-    hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-    hbx.hlt="";//LEAD TRACKING
-    hbx.hla="";//LEAD ATTRIBUTE
-    hbx.gp="";//CAMPAIGN GOAL
-    hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-    hbx.hcn="";//CONVERSION ATTRIBUTE
-    hbx.hcv="";//CONVERSION VALUE
-    hbx.cp="null";//LEGACY CAMPAIGN
-    hbx.cpd="";//CAMPAIGN DOMAIN
-
-    //CUSTOM VARIABLES
-    hbx.ci="";//CUSTOMER ID
-    hbx.hc1="";//CUSTOM 1
-    hbx.hc2="";//CUSTOM 2
-    hbx.hc3="";//CUSTOM 3
-    hbx.hc4="";//CUSTOM 4
-    hbx.hrf="";//CUSTOM REFERRER
-    hbx.pec="";//ERROR CODES
-    hbx.lc="y"
-
-    //INSERT CUSTOM EVENTS
-
-    //END EDITABLE SECTION
-
-    //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-    </script>
-    <!--END VISUAL SCIENCES CODE-->
-
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgICAQ9kFgICBQ8PFgIeB1Zpc2libGVoZGRkKwn+gH8oIll0Y33kaP8w7o8chBI=">
-
-
-	<div id="flashdemo_container" class="flashdemo_container" style="visibility: hidden;">
-		<div id="flashdemo_container_header" class="flashdemo_container_header"><a href="javascript:void(0)" onclick="closeDemoWindow()"><img alt="close window" src="/images/close_window.gif" border="0"></a></div>
-		<div>
-			<iframe id="iframe_flashdemo" name="iframe_flashdemo" src="" srctoload="/flash_demo.aspx" scrolling="no"></iframe>
-		</div>
-	</div>
-
-	<div id="giant_background_page_overlay" style="display:none;"></div>
-
-
-		<div id="container">
-			
-			<div id="header">
-				<span id="tutor_logo" title="Tutor.com"><a href="/"><img src="/images/tutor_logo.gif" alt="Tutor.com" border="0"></a></span>
-
-				<ul class="horizontal_list">
-					<li style="background:none;font-weight:normal;">Questions? <span style="color:#E49D0F;font-weight:bold;">800-411-1970</span> <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/45853362/?cmd=file&amp;file=visitorWantsToChat&amp;site=45853362&amp;byhref=1&amp;imageUrl=http://www.tutor.com/images/liveperson" target="chat45853362" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/45853362/?cmd=file&amp;file=visitorWantsToChat&amp;site=45853362&amp;imageUrl=http://www.tutor.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat45853362','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/45853362/?cmd=repstate&amp;site=45853362&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.tutor.com/images/liveperson" name="hcIcon" border="0"></a>
-					</li>
-					<li><a href="https://direct.tutor.com/account/default.aspx" id="ctl00_lnkConnect">Connect to a Tutor Now</a></li>
-					<li><a href="/press/default.aspx">Press</a></li>
-					<li><a href="/our_company/default.aspx">Our Company</a></li>
-					<li><a href="/contact_us/default.aspx">Contact Us</a></li>
-				</ul>
-				
-				<div id="brandingLogo">
-					<span id="ctl00_BrandingItem1_lblContent"><img src="/controls/BrandingItemGetImage.aspx?id=1185" alt="logo"></span>
-					
-					<!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.tutor.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.tutor.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- END SCANALERT CODE --> 
-				</div>
-								
-				<h2></h2>
-			</div>
-			
-			<div id="main">
-				<div id="nav">
-					<div id="nav_main">
-						<ul class="horizontal_list">
-							<li id="ctl00_nav_main_how_it_works"><a href="/how_it_works/default.aspx">How It Works</a></li>
-							<li id="ctl00_nav_main_subjects"><a href="/subjects/default.aspx">Subjects</a></li>
-							<li id="ctl00_nav_main_pricing"><a href="/pricing/default.aspx">Pricing</a></li>
-							<li id="ctl00_nav_main_our_tutors"><a href="/our_tutors/default.aspx">Our Tutors</a></li>
-							<li id="ctl00_nav_main_resources"><a href="/resources/default.aspx">Hot Topics</a></li>
-							<li id="ctl00_nav_main_get_started"><a href="https://direct.tutor.com/get_started/default.aspx" id="ctl00_lnkGetStarted">Get Started</a></li>		
-							<li id="ctl00_nav_main_testimonials"><a href="/testimonials/default.aspx">Rave Reviews</a></li>
-							<li>
-								<a id="nav_more_link" href="javascript:void(0);">More <span class="subtext">▼</span></a></li>
-							<li>&nbsp;</li>
-							<li id="ctl00_main_nav_signin" style="margin-left: 30px;"><a href="https://direct.tutor.com/account/default.aspx" id="ctl00_lnkSignIn" style="color: #A33C3D;">Sign In</a>
-							</li>		
-							<li>&nbsp;</li>	
-						</ul>
-					</div>
-					<div id="more_menu" style="position:absolute; display:none; z-index:3;">
-			            <ul>
-				            <li><a href="/libraries">Library Programs</a></li>
-				            <li><a href="/apply">Become a Tutor</a></li>
-				            <li><a href="/educators">Educators</a></li>
-				            <li><a href="http://direct.tutor.com/newsletter/default.aspx">Free Newsletter</a></li>
-				            <li><a href="/isr">Independent Sales<br>Representatives</a></li>
-				            <li><a href="/awards">Awards and Recognition</a></li>
-			            </ul>
-		            </div>
-					<div id="nav_sub">
-					</div>
-				</div> <!-- ends nav -->
-							    
-			    
-<div id="content">
-    <div id="content_main">
-        <h3>Website Privacy Policy</h3>
-        <p>Tutor.com takes your privacy seriously. We know you trust us to help with your homework and we want you to know that you can trust us with your personal information.</p>
-        <p>&nbsp;</p>
-        
-        <h4>Why We Need Your Personal Information</h4>
-        <p>Tutor.com Direct is personal, and one-to-one. So, we need to collect some personal information from you to set up your account with us. Here are some of the things we need your personal information to be able to do:</p>
-        <ul>
-            <li>Make your tutoring sessions personal</li>
-            <li>Store all of your past sessions, so you can review them anytime</li>
-            <li>Complete your purchases</li>
-            <li>Contact you about your account</li>
-            <li>Send you newsletters by mail or email about our service</li>
-            <li>Ask you for your feedback to help make our service better</li>
-            <li>Respond to your email requests for information and/or customer service</li>
-        </ul>
-        
-        <p>You trust us with your Personal Information. So, we do everything we can to make sure your information is safe in our systems. Some things we will NOT do are:</p>
-        
-        <ul>
-            <li>We WILL NOT sell your personal information to anyone</li>
-            <li>We WILL NOT send you newsletters or promotional mail or email if you tell us not to</li>
-        </ul>
-        <p>&nbsp;</p>
-        
-        <h4>You and Your Parents Control Your Personal Information</h4>
-        <p>You can visit the Your Account section of this website anytime to see personal information we have collected about you, and you can tell us if you want to receive any promotional mail or email from us.</p>
-        <p>If you are under age 13, a law called the Children's Online Privacy Protection Act (COPPA) says that we must have a parent's permission before we may collect and use your Personal Information. We will need this permission before we are able to create an account for you or provide you with any tutoring.</p>
-        <p>Note to parents of children under the age of 13: You are welcome to call us at (800) 411-1970 to review any identifiable information we have collected about your child. If you desire, you may request that we delete this information and/or specify that we collect no more of your child's information. Please note that we will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian, and that a request for us to delete all personal information about a child requires us to cancel the child's tutoring account.</p>
-        <p>&nbsp;</p>
-        
-        <h4>We Share Your Personal Information With Those Who Pay For Your Account</h4>
-        <p>If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys.</p>
-        <p>On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.</p>
-        <p>If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code.  For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.</p>
-        <p>&nbsp;</p>
-        
-        <h4>We May Share Your Personal Information For Safety Reasons</h4>
-        <p>If we have reason to believe that disclosing your Personal Identification is required by law, or is otherwise reasonable to protect someone from possible injury, we may do so.</p>
-        <p>&nbsp;</p>
-        
-        <h4>Cookies</h4>
-        <p>Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. The cookie itself does not have personal information in it, so no one except Tutor.com can figure out who you are from our cookie.</p>
-        <p>Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services. Third-party cookies do not contain any personally identifying information, and the third party can not figure out who you are, or contact you.</p>
-        <p>&nbsp;</p>
-        
-        <h4>Links to Other Sites</h4>
-        <p>Sometimes, we link to other sites. Tutor.com does not make these sites, and we can't be responsible for what they post on their sites.</p>
-        <p>&nbsp;</p>
-        
-        <h4>Contacting the Website</h4>
-        <p>If you have any questions, comments or concerns about Tutor.com's privacy policy, you can contact us:</p>
-        <p>
-            Tutor.com<br>
-            40 Fulton St<br>
-            New York, NY 10038<br>
-            <a href="mailto:direct@tutor.com">direct@tutor.com</a>
-        </p>
-    </div>
+    
+    <!-- This needs to be BELOW the "head" place holder -->
+	<!--[if IE 6]>
+		<link href="/styles/www_ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	
+	<script language="javascript" type="text/javascript">
+	//<![CDATA[	
+	// This is Enquisite tracking code
+	var enqsiteid = 'b926bc-04mlcg';
+	var enqhost = (window.location.protocol == "https:") ? "https://logssl" : "http://log";
+	document.writeln('<script language="javascript" src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsiteid +'" type="text/javascript"><\/script>');
+	//]]>
+	</script><script language="javascript" src="https://logssl.enquisite.com/log.js?id=b926bc-04mlcg" type="text/javascript"></script>
+	
+</head>
+<body id="MasterBody">
+    
+	<form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcxMDU2ODYxOA9kFgJmD2QWBAIBD2QWAgICDxYCHgdjb250ZW50ZWQCAxBkZBYIAgYPFgIeBGhyZWYFBC90aS8WAgIBDxYCHgNzcmMFGy9pbWFnZXMvaG90LXRvcGljLWltYWdlLmdpZmQCBw9kFgQCAQ8WAh4JaW5uZXJodG1sBQdTSUdOIElOZAIDDxYCHgdWaXNpYmxlaGQCCA9kFgICAQ9kFgJmDxYCHgRUZXh0BZ8lPGgxIGNsYXNzPSJwdXJwbGVfdGV4dCBwdXJwbGVfdW5kZXJsaW5lIj5XZWJzaXRlIFByaXZhY3kgUG9saWN5PC9oMT4NCjxwPlR1dG9yLmNvbSB0YWtlcyB5b3VyIHByaXZhY3kgc2VyaW91c2x5LiBXZSBrbm93IHlvdSB0cnVzdCB1cyB0byBoZWxwIHdpdGggeW91ciBob21ld29yayBhbmQgd2Ugd2FudCB5b3UgdG8ga25vdyB0aGF0IHlvdSBjYW4gdHJ1c3QgdXMgd2l0aCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLjwvcD4NCiAgICAgICAgDQo8aDM+V2h5IFdlIE5lZWQgWW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjwvaDM+DQoNCjxwPlR1dG9yLmNvbSBEaXJlY3QgaXMgcGVyc29uYWwsIGFuZCBvbmUtdG8tb25lLiBTbywgd2UgbmVlZCB0byBjb2xsZWN0IHNvbWUgcGVyc29uYWwgaW5mb3JtYXRpb24gZnJvbSB5b3UgdG8gc2V0IHVwIHlvdXIgYWNjb3VudCB3aXRoIHVzLiBIZXJlIGFyZSBzb21lIG9mIHRoZSB0aGluZ3Mgd2UgbmVlZCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIGJlIGFibGUgdG8gZG86PC9wPg0KPHVsPg0KPGxpPk1ha2UgeW91ciB0dXRvcmluZyBzZXNzaW9ucyBwZXJzb25hbDwvbGk+DQo8bGk+U3RvcmUgYWxsIG9mIHlvdXIgcGFzdCBzZXNzaW9ucywgc28geW91IGNhbiByZXZpZXcgdGhlbSBhbnl0aW1lPC9saT4NCjxsaT5Db21wbGV0ZSB5b3VyIHB1cmNoYXNlczwvbGk+DQo8bGk+Q29udGFjdCB5b3UgYWJvdXQgeW91ciBhY2NvdW50PC9saT4NCjxsaT5TZW5kIHlvdSBuZXdzbGV0dGVycyBieSBtYWlsIG9yIGVtYWlsIGFib3V0IG91ciBzZXJ2aWNlPC9saT4NCjxsaT5Bc2sgeW91IGZvciB5b3VyIGZlZWRiYWNrIHRvIGhlbHAgbWFrZSBvdXIgc2VydmljZSBiZXR0ZXI8L2xpPg0KPGxpPlJlc3BvbmQgdG8geW91ciBlbWFpbCByZXF1ZXN0cyBmb3IgaW5mb3JtYXRpb24gYW5kL29yIGN1c3RvbWVyIHNlcnZpY2U8L2xpPg0KPC91bD4NCg0KPHA+WW91IHRydXN0IHVzIHdpdGggeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbi4gU28sIHdlIGRvIGV2ZXJ5dGhpbmcgd2UgY2FuIHRvIG1ha2Ugc3VyZSB5b3VyIGluZm9ybWF0aW9uIGlzIHNhZmUgaW4gb3VyIHN5c3RlbXMuIFNvbWUgdGhpbmdzIHdlIHdpbGwgTk9UIGRvIGFyZTo8L3A+DQogICAgICAgIA0KPHVsPg0KPGxpPldlIFdJTEwgTk9UIHNlbGwgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBhbnlvbmU8L2xpPg0KPGxpPldlIFdJTEwgTk9UIHNlbmQgeW91IG5ld3NsZXR0ZXJzIG9yIHByb21vdGlvbmFsIG1haWwgb3IgZW1haWwgaWYgeW91IHRlbGwgdXMgbm90IHRvPC9saT4NCjwvdWw+DQogICAgICAgIA0KPGgzPllvdSBhbmQgWW91ciBQYXJlbnRzIENvbnRyb2wgWW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjwvaDM+DQoNCjxwPllvdSBjYW4gdmlzaXQgdGhlIFlvdXIgQWNjb3VudCBzZWN0aW9uIG9mIHRoaXMgd2Vic2l0ZSBhbnl0aW1lIHRvIHNlZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB3ZSBoYXZlIGNvbGxlY3RlZCBhYm91dCB5b3UsIGFuZCB5b3UgY2FuIHRlbGwgdXMgaWYgeW91IHdhbnQgdG8gcmVjZWl2ZSBhbnkgcHJvbW90aW9uYWwgbWFpbCBvciBlbWFpbCBmcm9tIHVzLjwvcD4NCjxwPklmIHlvdSBhcmUgdW5kZXIgYWdlIDEzLCBhIGxhdyBjYWxsZWQgdGhlIENoaWxkcmVuJ3MgT25saW5lIFByaXZhY3kgUHJvdGVjdGlvbiBBY3QgKENPUFBBKSBzYXlzIHRoYXQgd2UgbXVzdCBoYXZlIGEgcGFyZW50J3MgcGVybWlzc2lvbiBiZWZvcmUgd2UgbWF5IGNvbGxlY3QgYW5kIHVzZSB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uLiBXZSB3aWxsIG5lZWQgdGhpcyBwZXJtaXNzaW9uIGJlZm9yZSB3ZSBhcmUgYWJsZSB0byBjcmVhdGUgYW4gYWNjb3VudCBmb3IgeW91IG9yIHByb3ZpZGUgeW91IHdpdGggYW55IHR1dG9yaW5nLjwvcD4NCjxwPk5vdGUgdG8gcGFyZW50cyBvZiBjaGlsZHJlbiB1bmRlciB0aGUgYWdlIG9mIDEzOiBZb3UgYXJlIHdlbGNvbWUgdG8gY2FsbCB1cyBhdCAoODAwKSA0MTEtMTk3MCB0byByZXZpZXcgYW55IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB3ZSBoYXZlIGNvbGxlY3RlZCBhYm91dCB5b3VyIGNoaWxkLiBJZiB5b3UgZGVzaXJlLCB5b3UgbWF5IHJlcXVlc3QgdGhhdCB3ZSBkZWxldGUgdGhpcyBpbmZvcm1hdGlvbiBhbmQvb3Igc3BlY2lmeSB0aGF0IHdlIGNvbGxlY3Qgbm8gbW9yZSBvZiB5b3VyIGNoaWxkJ3MgaW5mb3JtYXRpb24uIFBsZWFzZSBub3RlIHRoYXQgd2Ugd2lsbCBuZWVkIHRvIHZlcmlmeSB0aGUgaWRlbnRpdHkgb2YgYW55b25lIHJlcXVlc3RpbmcgaW5mb3JtYXRpb24gYWJvdXQgYSBjaGlsZCB0byBlbnN1cmUgdGhhdCB0aGUgcGVyc29uIGlzIGluIGZhY3QgdGhlIGNoaWxkJ3MgcGFyZW50IG9yIGxlZ2FsIGd1YXJkaWFuLCBhbmQgdGhhdCBhIHJlcXVlc3QgZm9yIHVzIHRvIGRlbGV0ZSBhbGwgcGVyc29uYWwgaW5mb3JtYXRpb24gYWJvdXQgYSBjaGlsZCByZXF1aXJlcyB1cyB0byBjYW5jZWwgdGhlIGNoaWxkJ3MgdHV0b3JpbmcgYWNjb3VudC48L3A+DQogICAgICAgIA0KPGgzPldlIFNoYXJlIFlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gV2l0aCBUaG9zZSBXaG8gUGF5IEZvciBZb3VyIEFjY291bnQ8L2gzPg0KPHA+SWYgeW91ciBwYXJlbnRzIGFuZC9vciB5b3VyIHNjaG9vbCBwYXkgZm9yL3N1YnNpZGl6ZSB0aGUgY29zdCBvZiB5b3VyIHR1dG9yaW5nLCB3ZSBtYXkgc2hhcmUgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbiB3aXRoIHRoZW0gYXQgdGhlaXIgcmVxdWVzdC4gVGhpcyBpbmNsdWRlcyB0aGUgY29udGVudCBvZiB5b3VyIHR1dG9yaW5nIHNlc3Npb25zICh0cmFuc2NyaXB0cykgYW5kIHRoZSB3cml0dGVuIGNvbW1lbnRzIHlvdSBsZWF2ZSBpbiBwb3N0LXNlc3Npb24gc3VydmV5cy48L3A+DQo8cD5PbiB0aGUgb3RoZXIgaGFuZCwgaWYgeW91IHBheSB1cyBmb3IgeW91ciBvd24gYWNjb3VudCwgd2l0aG91dCB0aGUgaW52b2x2ZW1lbnQgb2YgeW91ciBwYXJlbnRzIG9yIHlvdXIgc2Nob29sLCB3ZSB3aWxsIG5vdCBzaGFyZSB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uIHdpdGggdGhlbS48L3A+DQo8cD5JZiB5b3UgdXNlIGEgcHJvbW90aW9uIGNvZGUgYXQgVHV0b3IuY29tIHRvIGNyZWF0ZSBhbiBhY2NvdW50LCBvciB0byBhZGQgbWludXRlcyB0byBhbiBhY2NvdW50LCB3ZSBtYXkgbGV0IHRoZSBzb3VyY2Ugb2YgdGhhdCBwcm9tb3Rpb24gY29kZSBrbm93IHRoYXQgeW91IHVzZWQgdGhhdCBjb2RlLiAgRm9yIGV4YW1wbGUsIGlmIHlvdSBzaWduIHVwIGZvciBUdXRvci5jb20gYXMgcGFydCBvZiBvdXIgdGVsbCBhIGZyaWVuZCBwcm9ncmFtLCB3ZSBtYXkgbGV0IHlvdXIgZnJpZW5kIGtub3cgdGhhdCB5b3UgcmVkZWVtZWQgdGhlaXIgdGVsbCBhIGZyaWVuZCBvZmZlci48L3A+DQogICAgIA0KPGgzPldlIE1heSBTaGFyZSBZb3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uIEZvciBTYWZldHkgUmVhc29uczwvaDM+DQoNCjxwPklmIHdlIGhhdmUgcmVhc29uIHRvIGJlbGlldmUgdGhhdCBkaXNjbG9zaW5nIHlvdXIgUGVyc29uYWwgSWRlbnRpZmljYXRpb24gaXMgcmVxdWlyZWQgYnkgbGF3LCBvciBpcyBvdGhlcndpc2UgcmVhc29uYWJsZSB0byBwcm90ZWN0IHNvbWVvbmUgZnJvbSBwb3NzaWJsZSBpbmp1cnksIHdlIG1heSBkbyBzby48L3A+DQogICAgICAgIA0KPGgzPkNvb2tpZXM8L3N0cm9uZz48L2gzPg0KPHA+Q29va2llcyBhcmUgZmlsZXMgdGhhdCB5b3VyIFdlYiBicm93c2VyIHB1dHMgb24geW91ciBjb21wdXRlciB3aGVuIHlvdSB2aXNpdCBhIFdlYiBzaXRlLiBXZSB1c2UgY29va2llcyB0byB0ZWxsIHVzIGhvdyBvZnRlbiB5b3UgdmlzaXQgb3VyIHNpdGUsIGFuZCB3aGF0IHBhZ2VzIHlvdSBnbyB0byBvbiBvdXIgc2l0ZS4gVGhlIGNvb2tpZSBpdHNlbGYgZG9lcyBub3QgaGF2ZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBpbiBpdCwgc28gbm8gb25lIGV4Y2VwdCBUdXRvci5jb20gY2FuIGZpZ3VyZSBvdXQgd2hvIHlvdSBhcmUgZnJvbSBvdXIgY29va2llLjwvcD4NCjxwPlNvbWV0aW1lcyB3ZSB1c2UgZmlsZXMgZnJvbSBvdGhlciBjb21wYW5pZXMgKGNhbGxlZCB0aGlyZC1wYXJ0eSBjb29raWVzKSB0byBoZWxwIHVzIHNlZSB3aGVyZSBwZW9wbGUgZ28gb24gb3VyIHdlYnNpdGUsIHRvIGltcHJvdmUgb3VyIHNlcnZpY2VzLiBUaGlyZC1wYXJ0eSBjb29raWVzIGRvIG5vdCBjb250YWluIGFueSBwZXJzb25hbGx5IGlkZW50aWZ5aW5nIGluZm9ybWF0aW9uLCBhbmQgdGhlIHRoaXJkIHBhcnR5IGNhbiBub3QgZmlndXJlIG91dCB3aG8geW91IGFyZSwgb3IgY29udGFjdCB5b3UuPC9wPg0KICAgICANCjxoMz5MaW5rcyB0byBPdGhlciBTaXRlczwvaDM+DQo8cD5Tb21ldGltZXMsIHdlIGxpbmsgdG8gb3RoZXIgc2l0ZXMuIFR1dG9yLmNvbSBkb2VzIG5vdCBtYWtlIHRoZXNlIHNpdGVzLCBhbmQgd2UgY2FuJ3QgYmUgcmVzcG9uc2libGUgZm9yIHdoYXQgdGhleSBwb3N0IG9uIHRoZWlyIHNpdGVzLjwvcD4NCiAgICAgICAgDQo8aDM+Q29udGFjdGluZyB0aGUgV2Vic2l0ZTwvaDM+DQo8cD5JZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zLCBjb21tZW50cyBvciBjb25jZXJucyBhYm91dCBUdXRvci5jb20ncyBwcml2YWN5IHBvbGljeSwgeW91IGNhbiBjb250YWN0IHVzOjwvcD4NCjxwPg0KVHV0b3IuY29tPGJyIC8+DQo0MCBGdWx0b24gU3Q8YnIgLz4NCk5ldyBZb3JrLCBOWSAxMDAzODxiciAvPg0KPGEgaHJlZj0ibWFpbHRvOmRpcmVjdEB0dXRvci5jb20iPmRpcmVjdEB0dXRvci5jb208L2E+DQo8L3A+ZAIJD2QWAmYPFgIfBQXsCw0KPHVsIGNsYXNzPSJob3Jpem9udGFsX2xpc3QiIHN0eWxlPSJwYWRkaW5nOiAwcHggMHB4IDhweCA3MHB4OyI+DQo8bGkgY2xhc3M9ImZpcnN0X2l0ZW0iPjxhIGhyZWY9Ii9vdXItY29tcGFueSIgcmVsPSJub2ZvbGxvdyI+QWJvdXQgVXM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvY2FyZWVycyI+V29yayBGb3IgVXM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvcHJlc3MiIHJlbD0ibm9mb2xsb3ciPlByZXNzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2xpYnJhcmllcyI+TGlicmFyeSBQcm9ncmFtczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9wYXJ0bmVycyIgcmVsPSJub2ZvbGxvdyI+UGFydG5lcnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvdGVsbC1hLWZyaWVuZCIgcmVsPSJub2ZvbGxvdyI+VGVsbC1BLUZyaWVuZDwvYT48L2xpPg0KPC91bD4NCjxici8+DQo8dWwgY2xhc3M9Imhvcml6b250YWxfbGlzdCIgc3R5bGU9InBhZGRpbmctbGVmdDogMTEwcHg7Ij4NCjxsaSBjbGFzcz0iZmlyc3RfaXRlbSI+PGEgaHJlZj0iL2NvbnRhY3QtdXMiIHJlbD0ibm9mb2xsb3ciPkNvbnRhY3QgVXM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvZmFxL2ZhcS1hY2NvdW50IiByZWw9Im5vZm9sbG93Ij5GQVE8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvcHJpdmFjeSIgcmVsPSJub2ZvbGxvdyI+UHJpdmFjeSBQb2xpY3k8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvdGVybXMtb2YtdXNlIiByZWw9Im5vZm9sbG93Ij5UZXJtcyBvZiBVc2U8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvc2l0ZS1tYXAiPlNpdGUgTWFwPC9hPjwvbGk+DQo8L3VsPg0KDQo8YnIvPg0KDQo8ZGl2IHN0eWxlPSJtYXJnaW4tdG9wOiAyMHB4OyI+DQo8cD5BdCBUdXRvci5jb20geW91IGNhbiBnZXQgPGEgaHJlZj0iLyI+aG9tZXdvcmsgaGVscDwvYT4gZnJvbSBhbiBvbmxpbmUgdHV0b3IgMjQvNyBpbiB0aGUgbWFqb3Igc3ViamVjdHMuIElmIHlvdSBuZWVkIGhlbHAgZ3JhcGhpbmcgYSBwcm9ibGVtIG9yIHNvbHZpbmcgZGlmZmVyZW50aWFsIGVxdWF0aW9ucywgeW91IGNhbiBjb25uZWN0IHRvIGEgPGEgaHJlZj0iL3N1YmplY3RzL21hdGgiPm1hdGggdHV0b3I8L2E+LiBPciwgaWYgaXTigJlzIG1pZG5pZ2h0IGFuZCB5b3XigJlyZSBzdHVjayB3aXRoIHlvdXIgc2NpZW5jZSBob21ld29yaywgYSA8YSBocmVmPSIvc3ViamVjdHMvcGh5c2ljcyI+cGh5c2ljcyB0dXRvcjwvYT4gaXMgb25saW5lIHRvIGhlbHAgeW91LiBXZSBhbHNvIG9mZmVyIGlubm92YXRpdmUgPGEgaHJlZj0iL2xpYnJhcmllcyI+bGlicmFyeSBwcm9ncmFtczwvYT4gLSA8YSBocmVmPSIvbGlicmFyaWVzL2xoaCI+TGl2ZSBIb21ld29yayBIZWxwPC9hPiZyZWc7IGFuZCBBc2sgQSBMaWJyYXJpYW4gRXhwcmVzcyZ0cmFkZTssIDxhIGhyZWY9Ii9saWJyYXJpZXMvYWFsIj5hIHZpcnR1YWwgcmVmZXJlbmNlIHNlcnZpY2U8L2E+LCB0byBhdHRyYWN0IGNoaWxkcmVuLCB0ZWVucyBhbmQgYWR1bHQgbGVhcm5lcnMuDQo8L3A+DQo8L2Rpdj5kZA==">
 </div>
 
 
-				
-			</div> <!-- ends main -->		
-		</div> <!-- ends container -->
+<script src="/ScriptResource.axd?d=ObVD8XjmhA6BPNcbqe8_A23beNeh4RNSnZXPxqK7AM3yt0r3WI2M8m5vpVVBlDxVFKvOvWZ_B5CO7UFcmcTATU65BFn1BKtSWu8x7Nk_eCg1&amp;t=633554475446092696" type="text/javascript"></script>
+		
+		
+		
 
-		<div id="footer_wrapper">
-			<div id="footer">
-				<ul class="horizontal_list">
-					<li class="no_left_seperator"><a href="/privacy.aspx" id="privacy_policy">Privacy Policy</a></li>
-					<li><a href="/termsofuse.aspx">Terms of Use</a></li>
-					<li><a href="http://direct.tutor.com/newsletter/default.aspx">Free Newsletter</a></li>
-					<li id="ctl00_liFooterLibraryPrograms"><a href="/libraries/default.aspx">Library Programs</a></li>
-					<li id="ctl00_liFooterBecomeAnOnlineTutor"><a href="/apply/default.aspx">Become an Online Tutor</a></li>
-					<li><a href="/our_company/partners.aspx">Partners and Affiliates</a></li>					
-					<li id="ctl00_liFooterSiteMap"><a href="/our_company/sitemap.aspx">Site Map</a></li>								
-				</ul>
-				<ul class="horizontal_list">
-					<li class="no_left_seperator"><a href="/geo/denver-tutoring.aspx" id="A1">Tutoring in Denver</a></li>
-					<li><a href="/geo/los-angeles-tutoring.aspx">Tutoring in Los Angeles</a></li>
-					<li><a href="/geo/minneapolis-tutoring.aspx">Tutoring in Minneapolis</a></li>
-					<li><a href="/geo/new-york-tutoring.aspx">Tutoring in New York City</a></li>
-					<li><a href="/geo/potomac-tutoring.aspx">Tutoring in Potomac</a></li>
-				</ul>
+<script language="JavaScript1.1" type="text/javascript">
+//Flash 8 required for LHHv2
+//The following are support functions for Flash version detection
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+
+// Major version of Flash required
+var requiredMajorVersion = 8;
+
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+
+// Revision of Flash required
+var requiredRevision = 0;
+
+// the version of javascript supported
+var jsVersion = 1.0;
+
+// has right version
+var hasRightFlashVersion = false;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+
+    hasRightFlashVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+</script>
+		
+		<div id="SpotlightControl" class="spotlight_control">
+			<div class="spotlight_background" style="display:none;">
+				<div id="ctl00_SpotlightOuterContainer" class="spotlight_outer_container">
+					<div class="spotlight_inner_container">
+					
+						<div class="spotlight_header">
+							<a href="javascript:void(0)" onclick="TurnSpotlightOff(this)" style="float:right;" class="spotlight_switch_off">
+								Close Window|X|
+							</a>
+							<h3 id="SpotlightTitle">
+								Tutor.com
+							</h3>
+						</div> <!-- spotlight_header -->
+						
+						<div id="SpotlightBody" class="spotlight_body">
+							
+						</div><!-- spotlight_body -->
+						
+						<div class="spotlight_footer">
+							<img src="/images/tutor_logo_orange.gif">
+						</div><!-- spotlight_footer -->
+						
+					</div><!-- spotlight_inner_container -->
+				</div><!-- SpotlightOuterContainer -->
+			</div> <!-- spotlight_background -->
+			
+			<input name="ctl00$js_on_show" type="hidden" id="ctl00_js_on_show" class="js_on_show">
+			<input name="ctl00$js_on_hide" type="hidden" id="ctl00_js_on_hide" class="js_on_hide">
+				
+		</div> <!-- spotlight control -->
+		
+		<div id="Container">
+			<div id="Header">
+				<div id="TopHeaderDiv">
+					<div id="TopRightContent">
+						<p id="ctl00_pStartASession">
+							<a href="/account" id="ctl00_aStartASession" rel="nofollow">
+								<img id="StartASession" src="/images/buttons/start-a-session-dark.gif">
+							</a>
+						</p>
+						<div id="SessionCounter">
+							<div id="divTotalCounter"></div>
+							<div>Online sessions and counting!</div>
+							<script type="text/javascript">if (hasRightFlashVersion) loadCounterMovie('divTotalCounter', true);</script>
+						</div>
+					</div>
+					
+					<div id="HotFeature">
+						<a href="/ti/" id="ctl00_lnkHotFeature" rel="nofollow">
+							<img src="/images/hot-topic-image.gif" id="ctl00_header_feature_image">
+						</a>
+					</div>
+					
+					<div id="TutorLogo">
+						<a href="/">
+							<img src="/images/tutor_logo.gif" alt="Homework Help and Online Tutoring">
+						</a>
+						<div id="TutorLogoCaption">Homework Help and Online Tutoring</div>
+					</div>
+				</div>
+				<div id="ctl00_pnlNavigation">
+	
+					<div id="NavigationMain">
+						<ul class="horizontal_list">
+							<li class="first_nav_item">
+								<a href="/">
+									<img src="/images/buttons/top-nav-home-dark.gif" alt="Home">
+								</a>
+							</li>
+							<li>
+								<a href="/subjects">
+									<img src="/images/buttons/top-nav-subjects-dark.gif" alt="Subjects">
+								</a>
+							</li>
+							<li>
+								<a href="/pricing" rel="nofollow">
+									<img src="/images/buttons/top-nav-pricing-dark.gif" alt="Pricing">
+								</a>
+							</li>
+							<li>
+								<a href="/our-tutors" rel="nofollow">
+									<img src="/images/buttons/top-nav-our-tutors-dark.gif" alt="Our Tutors">
+								</a>
+							</li>
+							<li>
+								<a href="/how-it-works" rel="nofollow">
+									<img src="/images/buttons/top-nav-how-it-works-dark.gif" alt="How It Works">
+								</a>
+							</li>
+							<li>
+								<a href="/articles">
+									<img src="/images/buttons/top-nav-articles-dark.gif" alt="Artcles">
+								</a>
+							</li>
+							<li class="last_nav_item" id="MoreMenuLink">
+								<a href="/site-map">
+									<img src="/images/buttons/top-nav-more-dark.gif" alt="More">
+								</a>
+							</li>
+						</ul>
+						<br>
+					</div>
+					<div id="MoreMenu" style="display:none;">
+						<ul>
+							<li>
+								<a href="/apply" rel="nofollow">
+									<img src="/images/buttons/more-menu-become-a-tutor-dark.gif">
+								</a>
+							</li>
+							<li>
+								<a href="/educators" rel="nofollow">
+									<img src="/images/buttons/more-menu-educators-dark.gif" alt="Educators">
+								</a>
+							</li>
+							<li>
+								<a href="/faq/faq-account" rel="nofollow">
+								<img src="/images/buttons/more-menu-faq-dark.gif" alt="FAQ">
+								</a>
+							</li>
+							<li>
+								<a href="/libraries" rel="nofollow">
+									<img src="/images/buttons/more-menu-library-programs-dark.gif" alt="Library Programs">
+								</a>
+							</li>
+							<li>
+								<a href="/press" rel="nofollow">
+									<img src="/images/buttons/more-menu-press-dark.gif" alt="Press">
+								</a>
+							</li>
+							<li>
+								<a href="/site-map" rel="nofollow">
+									<img src="/images/buttons/more-menu-even-more-dark.gif" alt="Even More...">
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div id="NavigationSub">
+						<span id="SignOut">
+							<a href="/account/login.aspx" id="ctl00_lnkSignInOut">SIGN IN</a>
+						</span>
+						
+					</div>									
+				
+</div>	
+				<div id="HeaderLines"></div>
 			</div>
+		    
+			<div id="ContentMain">
+				
+	<h1 class="purple_text purple_underline">Website Privacy Policy</h1>
+<p>Tutor.com takes your privacy seriously. We know you trust us to help with your homework and we want you to know that you can trust us with your personal information.</p>
+        
+<h3>Why We Need Your Personal Information</h3>
+
+<p>Tutor.com Direct is personal, and one-to-one. So, we need to collect some personal information from you to set up your account with us. Here are some of the things we need your personal information to be able to do:</p>
+<ul>
+<li>Make your tutoring sessions personal</li>
+<li>Store all of your past sessions, so you can review them anytime</li>
+<li>Complete your purchases</li>
+<li>Contact you about your account</li>
+<li>Send you newsletters by mail or email about our service</li>
+<li>Ask you for your feedback to help make our service better</li>
+<li>Respond to your email requests for information and/or customer service</li>
+</ul>
+
+<p>You trust us with your Personal Information. So, we do everything we can to make sure your information is safe in our systems. Some things we will NOT do are:</p>
+        
+<ul>
+<li>We WILL NOT sell your personal information to anyone</li>
+<li>We WILL NOT send you newsletters or promotional mail or email if you tell us not to</li>
+</ul>
+        
+<h3>You and Your Parents Control Your Personal Information</h3>
+
+<p>You can visit the Your Account section of this website anytime to see personal information we have collected about you, and you can tell us if you want to receive any promotional mail or email from us.</p>
+<p>If you are under age 13, a law called the Children's Online Privacy Protection Act (COPPA) says that we must have a parent's permission before we may collect and use your Personal Information. We will need this permission before we are able to create an account for you or provide you with any tutoring.</p>
+<p>Note to parents of children under the age of 13: You are welcome to call us at (800) 411-1970 to review any identifiable information we have collected about your child. If you desire, you may request that we delete this information and/or specify that we collect no more of your child's information. Please note that we will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian, and that a request for us to delete all personal information about a child requires us to cancel the child's tutoring account.</p>
+        
+<h3>We Share Your Personal Information With Those Who Pay For Your Account</h3>
+<p>If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys.</p>
+<p>On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.</p>
+<p>If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code.  For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.</p>
+     
+<h3>We May Share Your Personal Information For Safety Reasons</h3>
+
+<p>If we have reason to believe that disclosing your Personal Identification is required by law, or is otherwise reasonable to protect someone from possible injury, we may do so.</p>
+        
+<h3>Cookies</h3>
+<p>Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. The cookie itself does not have personal information in it, so no one except Tutor.com can figure out who you are from our cookie.</p>
+<p>Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services. Third-party cookies do not contain any personally identifying information, and the third party can not figure out who you are, or contact you.</p>
+     
+<h3>Links to Other Sites</h3>
+<p>Sometimes, we link to other sites. Tutor.com does not make these sites, and we can't be responsible for what they post on their sites.</p>
+        
+<h3>Contacting the Website</h3>
+<p>If you have any questions, comments or concerns about Tutor.com's privacy policy, you can contact us:</p>
+<p>
+Tutor.com<br>
+40 Fulton St<br>
+New York, NY 10038<br>
+<a href="mailto:direct@tutor.com">direct@tutor.com</a>
+</p>
+
+			</div>
+
+			<span style="display: block; clear: both; margin: -10px; padding: -10px;">&nbsp;</span>
+
+			<div id="Footer">
+				<a id="FooterContactUsLink" href="/contact-us/">&nbsp;</a>
+				<div id="FooterLinks">
+					
+<ul class="horizontal_list" style="padding: 0px 0px 8px 70px;">
+<li class="first_item"><a href="/our-company" rel="nofollow">About Us</a></li>
+<li><a href="/careers">Work For Us</a></li>
+<li><a href="/press" rel="nofollow">Press</a></li>
+<li><a href="/libraries">Library Programs</a></li>
+<li><a href="/partners" rel="nofollow">Partners</a></li>
+<li><a href="/tell-a-friend" rel="nofollow">Tell-A-Friend</a></li>
+</ul>
+<br>
+<ul class="horizontal_list" style="padding-left: 110px;">
+<li class="first_item"><a href="/contact-us" rel="nofollow">Contact Us</a></li>
+<li><a href="/faq/faq-account" rel="nofollow">FAQ</a></li>
+<li><a href="/privacy" rel="nofollow">Privacy Policy</a></li>
+<li><a href="/terms-of-use" rel="nofollow">Terms of Use</a></li>
+<li><a href="/site-map">Site Map</a></li>
+</ul>
+
+<br>
+
+<div style="margin-top: 20px;">
+<p>At Tutor.com you can get <a href="/">homework help</a> from an online tutor 24/7 in the major subjects. If you need help graphing a problem or solving differential equations, you can connect to a <a href="/subjects/math">math tutor</a>. Or, if it’s midnight and you’re stuck with your science homework, a <a href="/subjects/physics">physics tutor</a> is online to help you. We also offer innovative <a href="/libraries">library programs</a> - <a href="/libraries/lhh">Live Homework Help</a>® and Ask A Librarian Express™, <a href="/libraries/aal">a virtual reference service</a>, to attract children, teens and adult learners.
+</p>
+</div>
+				</div>
+			</div>
+	    </div>
+		<div id="Copyright">
+			©1999-2008 Tutor.com, Inc.  All rights reserved.
 		</div>
-		<p class="subtext" style="color: #999999; margin-top: 5px;">© 1999-2008 Tutor.com, Inc. All rights reserved.</p>
-    
+
+<div id="ctl00_panAnalytics">
+	
 
 <script type="text/javascript">
-<!--
-__utmSetVar('Consumer/Visitor');hbx.seg='++3';if ($('brandingLogo').getElementsByTagName('img').length > 0) {var banner_image = $('brandingLogo').getElementsByTagName('img')[0];Event.observe(banner_image, 'click', function(){ window.open('/awards/'); });banner_image.style.cursor = 'pointer';banner_image.setAttribute('alt', '');}// -->
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67228-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
-</form><script language="javascript1.1" src="/scripts/hbx.js"></script>
+
+<script type="text/javascript">
+document.write('<'
+                + 'script type="text/javascript" src="'
+                + document.location.protocol
+                + '//stats1.clicktracks.com/cgi-bin/ctasp-server.cgi'
+                + '?i=8d3CktMOgqM04p'
+                + '&c='+escape(document.cookie)
+                + '&fp=1'
+                + '"></'+'script>');
+</script><script type="text/javascript" src="https://stats1.clicktracks.com/cgi-bin/ctasp-server.cgi?i=8d3CktMOgqM04p&amp;c=&amp;fp=1"></script><noscript><img src="https://stats1.clicktracks.com/cgi-bin/ctasp-server.cgi?i=8d3CktMOgqM04p&g=1" alt="Web Analytics" border=0></noscript>
+
+	
+
+</div>
+		
+	
+
+<script type="text/javascript">
+//<![CDATA[
+var CLASSROOM_URL_PREFIX = 'www.tutor.com';pageTracker._setVar('Consumer/Visitor');Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
 
 </body></html>
