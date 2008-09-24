@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612060654id_/http%3A//www.spreety.com/About.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925013913id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
 
-# About Spreety
+# Spreety Membership - About Spreety
 
-Spreety is a free, weekly updated, internet entertainment guide. The core focus of Spreety is on high production quality U.S. video and audio content that is presented with a quality internet experience. 
+Spreety is a free internet entertainment guide. The core focus of Spreety is on high production quality U.S. video and audio content that is presented with a positive internet experience. 
 
 Spreety links to ABC for ABC shows, CBS for CBS shows, etc., for the highest quality, legal experience. While Spreety is free, some of the links are marked with a $ to indicate pay-for sevices. 
 
 For most, Spreety is a useful way to catch a missed TV episode or revisit an old favorite. For some, Spreety may replace the DVR and/or cable TV. 
 
-As a "Preferred" directory, some internet content does not appear, such as promotional clips or incomplete storylines. The goal with such editing is to provide a concise, quality experience for our members. 
+As a preferred directory, some internet content does not appear, such as promotional clips or incomplete storylines. The goal with such editing is to provide a concise, quality experience for our members. 
 
-For advertisers, Spreety accepts banner ad placements through Google as well as special arrangements via direct contact. 
+For advertisers, Spreety accepts ad placements via direct contact. For details, contact us at [spreety@sbcglobal.net](mailto:spreety@sbcglobal.net). 
 
 Thank you for visiting Spreety! 
 
@@ -20,9 +20,20 @@ Thank you for visiting Spreety!
 
 The usage of materials covered by copyrights is considered legal under fair use. Only portions of the content is displayed, and for images, at a lower resolution, with the intent for promotion. 
 
+Spreety will review all claims of copyright infringement received and remove content deemed to have been posted or distributed in violation of any such laws. To make a claim, please provide us with the following: 
+
+  * A physical or electronic signature of the copyright owner or the person authorized to act on its behalf.
+  * A description of the copyrighted work claimed to have been infringed.
+  * A description of the infringing material and information reasonably sufficient to permit Spreety to locate the material.
+  * Your contact information, including your name, address, telephone number, and email.
+  * A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+  * A statement that the information in the notification is accurate, and, under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner.
+
+
+
 **Privacy/Security Statement**
 
-Spreety is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, Spreety makes every effort to ensure compliance with applicable Federal law. 
+Spreety is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, Spreety makes every effort to ensure compliance with applicable Federal law. 
 
 As a general rule, Spreety does not collect personally-identifying information about you when you visit our site, unless you choose to provide such information to us. The information we receive depends upon what you do when visiting our site. 
 
