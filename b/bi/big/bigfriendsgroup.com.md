@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfriendsgroup.com privacy policy that was archived on 2008-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080113181444id_/http%3A//bigfriendsgroup.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfriendsgroup.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924114759id_/http%3A//www.bigfriendsgroup.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Big Friends Group - Its Yours for ever
 
