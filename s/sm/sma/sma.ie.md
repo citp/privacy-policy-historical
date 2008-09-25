@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sma.ie privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626050122id_/http%3A//www.sma.ie/index.php%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sma.ie privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925091436id_/http%3A//sma.ie/index.php%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Society of African Missions (SMA) - Privacy_Policy
 
