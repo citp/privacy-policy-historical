@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224083228id_/http%3A//www.hhl.de/service/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925120222id_/http%3A//www.hhl.de/service/contact/privacy) for the most accurate reproduction.*
 
-# HHL: Privacy
+# Privacy
 
 Thank you for visiting our website www.hhl.de. By accessing or submitting data into the website you expressly and explicitly consent to the collection and use of personal information about you as set out below. HHL may, acting in its sole discretion, modify, revise, amend, replace or delete this Privacy Statement at any time without first notifying you. That being so you should visit this section of the website on a regular basis to review this Privacy Statement. This Privacy Statement was last updated on Monday 2 July 2007.
 
