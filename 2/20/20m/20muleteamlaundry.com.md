@@ -1,110 +1,82 @@
-> *The following text is extracted and transformed from the 20muleteamlaundry.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604111943id_/http%3A//www.20muleteamlaundry.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20muleteamlaundry.com privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925111623id_/http%3A//www.20muleteamlaundry.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
 
-# Dial Corporation - Privacy Statement
+# Henkel North America - Privacy Policy
 
-_Privacy Notice_   
-_Dial Corporate_
+Thank you for visiting our web site. This web site belongs to and is operated by Henkel Corporation or one of its subsidiary or affiliated companies ("Henkel").  Henkel is committed to protecting and safeguarding your privacy on the Internet. This Privacy Policy outlines the information Henkel may be collecting from visitors and how we will use and protect that information.
 
-Welcome to the Dial Corporation. The Dial Corporation is committed to protect the privacy of our consumers. This is why The Dial Corporation collects personal information from visitors on a voluntary basis only. Personal information includes name, address, phone number, e-mail address, etc. It is unnecessary that you provide this information to obtain access to any part of our site. However, name, address, phone number and e-mail address are required to place orders through thedialstore.com. This information is required so that we can contact you about your order and fulfill shipping requirements. 
+**1.   Consent to this Privacy Policy**
 
-In order to protect your privacy, the personal information we collect is used by us and our select agents only to process an order that has been placed, or for marketing our products, promotional events and/or service. We do not sell or rent or otherwise transmit personal information to third parties (other than a Dial agent), other than as set forth in the "Promotions" section below. Please review our privacy policy below. 
+By using our web site in any way, such as browsing or interacting, you signify that you agree with the terms of our current Privacy Policy as posted here.  If you do not agree with this Privacy Policy, you should not use this web site. Henkel reserves the right to change or remove this Privacy Policy at our discretion.  We encourage you to visit this area frequently to stay informed. To make this policy easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-**Modify Your Shopper Registration Profile**  
-**What are cookies?**  
-**Does The Dial Corporation Use Cookies**  
-**Privacy Concerning Promotions**  
-**Our Commitment to Children's Privacy**  
-**The Information We Collect**  
-**Unsubscribe/Delete**  
-**How to Contact Us**  
-**You Acceptance of Our Privacy Practices**
+**  2.  What Information Is Collected**
 
-### Modify Your Shopper Registration Profile
+We collect two types of information about visitors:
 
-If you are a registered shopper of thedialstore.com, you are able to change your shopper profile during checkout. Click on the "Modify shopper profile" button on the shipping info page and change the data on your personal profile. 
+Personally Identifiable Information: Personally identifiable information is any information which can be used to identify an individual, such as a name, address, telephone number, social security number, billing and shipping information, credit card information or e-mail address. When you visit our web site, we will not collect any personally identifiable information about you unless you provide it to us voluntarily. You can visit our web sites without telling us who you are or revealing personally identifiable information about yourself, in which case you may however be unable to participate in certain product promotions or receive product information. From time to time, Henkel may offer sweepstakes, contests and surveys.  Participation in these promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. In the event you wish to enter a sweepstakes, contest or survey but do not wish us to maintain your personal information for any purpose unrelated to the sweepstakes, contest or survey, you may notify us, and provide a description of the specific sweepstakes, contest or survey to: [henkelprivacy@us.henkel.com](mailto:henkelprivacy@us.henkel.com). If you otherwise do not agree with any term in this Policy, please do not provide any personally identifiable information on this site or participate in any Henkel surveys, promotions, or other activities requiring this information. If you do submit personally identifiable information, we may also combine that personally identifiable information with other information collected, such as what areas of our web site you visit and any downloads or transactions that you make from our site.
 
-If you are not a registered shopper of thedialstore.com, and have bought products from us and would like to change your information or remove your name our shopper files, please email us at [Corprel@dialcorp.com](mailto:Corprel@dialcorp.com) or mail us at: 
+Aggregate and Statistical Data: Henkel may collect certain non-personally identifiable aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies or web beacons when you visit some of our web pages. For instance, when you visit one of our web sites, our webserver will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS) and the domain name and address of your internet server (e.g., AOL). We also may collect your Internet Protocol (IP) address. An IP address is a number that is assigned to your computer when you use the Internet. The IP address data that we collect does not contain any personally identifiable information about you and is used to administer our site, to determine the numbers of different visitors to the site and to gather broad demographic data. We do not use cookies to retrieve information that is unrelated to your visit to or your interaction with this web site.
 
-> The Dial Corporation  
->  Consumer Information Center  
->  15101 North Scottsdale Road  
->  Scottsdale, AZ 85254 
+In some cases we may also collect information that you voluntarily submit and which is anonymous, such as general statistical information (e.g., age, gender, household size, zip/postal code, preferences or interests). 
 
-Please give us your full name and address in case we have questions. 
+How Information Is Collected:
 
-Our web server collects the domain name (not the e-mail addresses) of the visitors to our site. This information is used to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. 
+Personally Identifiable Information: Henkel collects personally identifiable information from our web site visitors only on a voluntary basis. Such information may be collected from you if you choose to participate in the following via our web site: web site registrations, contests, sweepstakes, questionnaires, surveys, consumer service contacts, employment inquiries, product purchases, or other similar activities requiring the submission of personally identifiable information.
 
-The dialcorp.com site may contain "links": to other sites and we make every effort to link only to sites that share our high standards and respect for privacy. However, we are not responsible for the content or privacy standards employed by other sites. The Dial Corporation does everything it can to keep all information from our on-line visitors as secure as possible against unauthorized access and use. All information is protected by strict security measures and is periodically reviewed. 
+Aggregate and Statistical Data: Cookies and web beacons are used to collect non-personal information automatically from visitors to our site. A "cookie" is a small piece of data that can be sent by a webserver to your computer, which then may be stored by your browser on your computer´s hard drive. Cookies help us in many ways to make your visit to our web site more convenient and meaningful to you. For example, cookies allow us to tailor a web site or advertisement to better match your interests and preferences, or to save you the trouble of reentering certain information in some registration areas. 
 
-### What Are Cookies?
+Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored.  Please refer to your browser instructions or help screen to utilize or learn more about these functions.  If you disable cookies, however, you may not be able to use certain personalized functions of this web site.
 
-The use of cookies is an industry standard and you will find them at most web sites. 
+Statistical non-personally identifying information (e.g., gender, zip code, etc.) is only collected if you voluntarily submit it to us.
 
-  * Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a web site. 
-  * Cookies may also be used to help speed up your future activities or improve your user experience by remembering the information that you have already provided to us. 
-  * Cookies may be added to learn which advertisers bring users to our websites. 
-  * The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number or e-mail address. 
+  **3.   Use of Information**
 
-  
+Personally Identifiable Information: We collect, maintain and use personally identifiable information you have voluntarily submitted to our web site for the following purposes:
+
+  * helping to establish and verify the identity of users;      
+  * opening, maintaining, administering and servicing users accounts or memberships;      
+  * processing, servicing or enforcing transactions and sending related communications;      
+  * providing services and support to users;      
+  * improving the web site, including tailoring it to users´ preferences;      
+  * providing users with product or service updates, promotional notices and offers, and other information about Henkel;      
+  * responding to your questions, inquiries, comments and instructions;      
+  * maintaining the security and integrity of our systems.  
 
 
-### Do We Use Cookies?
-
-We use cookies to better tailor our site and our products to your interests and needs. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser. 
-
-### Promotions
-
-All participants in any games, surveys, sweepstakes, contests or other such activities contained on any of our sites must be eighteen (18) years of age or older to enter. If you elect to enter any contests or other promotions please note that by entering, you are giving your permission to use your information for promotional purposes, including sharing your information with third parties affiliated with such contests so long as you opt-in or request additional information about such third parties. 
-
-### Our Commitment to Children's Privacy
-
-The privacy of young children is of special concern to The Dial Corporation, so it is our policy not to allow children under the age of thirteen (13) to register on our site, or use any personal information they may have provided. 
-
-The Dial Corporation respects all applicable national and international children's privacy regulations, including COPA ( _Children�s Online Privacy Protection Act of 1998_ ) in the United States. 
-
-### The Information We Collect
-
-The following information is needed when you register on thedialstore.com site: 
-
-> User Name  
->  Password  
->  Actual Name  
->  Address, including city, state and zip code  
->  Phone  
->  E-mail  
->  Date of Birth 
-
-The Dial Corporation will specifically instruct children not to submit information on our web site. If a child has provided us with personal information, a parent or guardian of that child may contact us at the email address or street address listed in this Privacy Statement if they would like this information deleted from their records. We will use reasonable efforts to delete the child's information from our databases. 
-
-If the date of birth entry reveals that a child is 13 to 17 years of age, we will incorporate a special notice urging him or her to get consent from a parent or guardian before providing us with any personal information. The Dial Corporation will request consent when required by local laws and regulations or practices and provided such a child has identified himself/herself as being within this age bracket. 
-
-We will not use the parent's e-mail or address for any purpose other than to communicate wit the parent. After we have obtained the parent's request, we may keep the parent's information for our internal records, but only to show that we have complied with our privacy statement. 
-
-### Unsubscribe/Delete
-
-To request that we delete information from our databases, please contact us in one of the following ways: 
-
-> 1\. Send us an e-mail: Send an e-mail to [Corprel@dialcorp.com](mailto:Corprel@dialcorp.com). Be sure to include your (and your child's, if applicable) password and e-mail address and clear instructions on what you would like us to do.   
->  2\. Send us mail: Send us your request via the mail. Be sure to include your (and your child's, if applicable) password and e-mail address and clear instructions on what you would like us to do. Send to: 
->
->> The Dial Corporation  
->  Consumer Information Center   
->  15101 North Scottsdale Rd.   
->  Scottsdale, AZ 85254.  
-> 
-
-### How to Contact us
-
-Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at: [Corprel@dialcorp.com](mailto:Corprel@dialcorp.com). You may also contact thedialstore.com by sending a note to the following address: 
-
-> The Dial Corporation  
->  Consumer Information Center  
->  15101 North Scottsdale Road  
->  Scottsdale, AZ 85254 
-
-  
 
 
-### Your Acceptance of Our Privacy Practices
+Aggregate and Statistical Data: Henkel uses web log information (such as your web browser, operating system, pages visited, etc.) to help us design our web site, to identify popular features, and for other managerial purposes. However, such information may also be used if necessary to help identify any person attempting to break into or damage our web site. We may share such information, possibly along with personally identifiable information, with law enforcement agencies if we believe that we have evidence of a violation of computer security or other laws.  
 
-By using this web site you signify your acceptance of our Privacy Statement and you adhere to the terms and conditions posted on the web site. Please check back for updates to our Privacy Statement. 
+
+**4.   Data Sharing and Storage**
+
+Henkel will not give or sell your personally identifiable information to any business, other than the business to which you submitted your information (or a purchaser of such business), or other than to its Henkel subsidiaries and affiliates without your consent unless required by law or disclosed to you at the time when the information is collected.  However, Henkel may use unaffiliated companies such as agents or contractors to help it maintain and operate its web site or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies are restricted from using this data in any way other than to provide services for Henkel. Finally, please note that we will release your personal information if required to do so by law, search warrant, subpoena, court order or upon request of government authorities.
+
+Your personally identifiable information will be stored for a reasonable amount of time in Henkel databases located in the United States.
+
+**  5.  Security**
+
+Henkel is committed to keeping secure the data you provide us and will take reasonable precautions to protect your personal information from loss, misuse or alteration.  Agents or contractors of Henkel who have access to your personal information in connection with providing services for Henkel are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Henkel. If transactions are offered on this site, transaction information is transmitted to and from us in encrypted form using industry-standard secure connections to help protect such information from interception. Please be aware, however, that any email or other transmission you send through the Internet cannot be completely protected against unauthorized interception.
+
+  **6.   Children**
+
+Henkel has no intention of collecting any personal information from individuals under 13 years of age, and users under age 13 should not submit any personal information to us.  Where appropriate, Henkel will specifically instruct children not to submit such information on our web sites or advertisements.  If a child has provided us with personal information, a parent or guardian of that child may contact us at the e-mail address or address listed in Section 7 of this Privacy Policy if they would like this information deleted from our records.  We will use reasonable effort to delete the child´s information from our databases.
+
+**  7.  Contacting Us Regarding Your Personal Information**
+
+You are in control of the personally identifiable information you provide to Henkel via our web sites. If you have submitted personally identifiable information through a Henkel web site and you would like to have that information deleted from our databases, please contact our Privacy Coordinator via e-mail at [henkelprivacy@us.henkel.com](mailto:henkelprivacy@us.henkel.com), or send a letter to: Privacy Coordinator, Communications Department, Henkel of America Inc.; 1001 Trout Brook Crossing; Rocky Hill, CT 06067.  We will then use reasonable efforts to remove your personal information from our files.  You may also contact us through either of the above methods to request the personal information that Henkel has collected about you through its web sites.  Henkel will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information, upon receiving credible information that demonstrates an error was made.
+
+  **8.   Links to Other sites**
+
+Our sites may contain links to other sites.   Henkel is not responsible for the privacy practices or the content of the other web sites. Please note that the privacy policies applicable to such third party sites may differ significantly from the Henkel Privacy Policy, so we advise you to please read them carefully before using those sites.
+
+**9\. Complaints**
+
+Henkel is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by henkelprivacy@ us.henkel.com, or send us a letter to:
+
+Henkel Privacy Inquiries 
+
+Communications Department  
+Henkel Corporation  
+1001 Trout Brook Crossing  
+Rocky Hill, CT 06067  
+
