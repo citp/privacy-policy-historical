@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625160738id_/http%3A//www.rdi.co.uk/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D3%26Itemid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925123647id_/http%3A//www.rdi.co.uk/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # | RDI UK - Privacy Policy
 
