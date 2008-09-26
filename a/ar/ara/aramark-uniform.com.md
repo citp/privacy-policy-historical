@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aramark-uniform.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630081449id_/http%3A//www.aramark-uniform.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark-uniform.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926194907id_/http%3A//www.aramark-uniform.com/privacy.html) for the most accurate reproduction.*
 
 # ARAMARK Work Apparel & Uniform Services
 
