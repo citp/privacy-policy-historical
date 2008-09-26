@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206141954id_/http%3A//www.more4you.ws/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926212718id_/http%3A//more4you.ws/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Frank Bauer's More4you Blogletter
 
-[ [Subscribe](http://www.more4you.ws/#Subscribe) | [Privacy Statement](http://www.more4you.ws/privacy-statement.shtml) | [FAQ Section](http://www.more4you.ws/faq.shtml) | [Order Sponsor or Solo Ad](http://www.more4you.ws/order.shtml) | [Survey](http://www.more4you.ws/survey.shtml) | [Reviews](http://www.add2it.com/news/review/index.shtml) | [Article Directory](http://www.more4you.ws/articles/) | [Back Issues](http://www.more4you.ws/#Blogletter) | [Unsubscribe](http://www.more4you.ws/faq.shtml#Unsubscribe) ]
+[ [Subscribe](http://more4you.ws/#Subscribe) | [Privacy Statement](http://more4you.ws/privacy-statement.shtml) | [FAQ Section](http://more4you.ws/faq.shtml) | [Order Sponsor or Solo Ad](http://more4you.ws/order.shtml) | [Survey](http://more4you.ws/survey.shtml) | [Reviews](http://add2it.com/news/review/index.shtml) | [Article Directory](http://more4you.ws/articles/) | [Back Issues](http://more4you.ws/#Blogletter) | [Unsubscribe](http://more4you.ws/faq.shtml#Unsubscribe) ]
 
 **Privacy Policy**
 
@@ -48,4 +48,4 @@ However, we may disclose personal information about Visitors or Members, or info
 
 If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
 
-[ [Subscribe](http://www.more4you.ws/#Subscribe) | [Privacy Statement](http://www.more4you.ws/privacy-statement.shtml) | [FAQ Section](http://www.more4you.ws/faq.shtml) | [Order Sponsor or Solo Ad](http://www.more4you.ws/order.shtml) | [Survey](http://www.more4you.ws/survey.shtml) | [Reviews](http://www.add2it.com/news/review/index.shtml) | [Article Directory](http://www.more4you.ws/articles/) | [Back Issues](http://www.more4you.ws/#Blogletter) | [Unsubscribe](http://www.more4you.ws/faq.shtml#Unsubscribe) ]
+[ [Subscribe](http://more4you.ws/#Subscribe) | [Privacy Statement](http://more4you.ws/privacy-statement.shtml) | [FAQ Section](http://more4you.ws/faq.shtml) | [Order Sponsor or Solo Ad](http://more4you.ws/order.shtml) | [Survey](http://more4you.ws/survey.shtml) | [Reviews](http://add2it.com/news/review/index.shtml) | [Article Directory](http://more4you.ws/articles/) | [Back Issues](http://more4you.ws/#Blogletter) | [Unsubscribe](http://more4you.ws/faq.shtml#Unsubscribe) ]
