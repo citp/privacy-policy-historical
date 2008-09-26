@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614102132id_/http%3A//www.directoryfilm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926091959id_/http%3A//www.directoryfilm.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy, Film directory, cinemas, radio, television, film productions, actors, actresses
 
