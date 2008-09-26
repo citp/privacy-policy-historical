@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingheldback.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601072015id_/http%3A//www.nothingheldback.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingheldback.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926114503id_/http%3A//www.nothingheldback.com/privacy.php) for the most accurate reproduction.*
 
 # Little Known Search Engine Listing Secrets Revealed in NothingHeldBack.com
 
