@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblinker.net privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblinker.net privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/help/privacy.htm) for the most accurate reproduction.*
 
 # joblinker CVs Privacy Statement UK
 
@@ -26,19 +26,19 @@ Your personal information will be treated as strictly confidential and will not 
 
 Please note that we never send unsolicited email.
 
-  * **Free email guide:**[Is your CV letting you down?: How to dramatically improve your CV](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/cv_guide.htm)
-  * [CV service (including prices)](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/cvserv.htm)
-  * [Ordering a CV](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/orders.htm)
-  * [Cover letters](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/coverle.htm)
-  * [Customer Testimonials](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/custtest.htm)
-  * [Example CV](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/examcv.htm)
-  * [CV for BBC TV](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/example_cvs.htm)
-  * [Guarantees](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/guarante.htm)
-  * [Why should you choose joblinker CVs?](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/bradley_cvs.htm)
-  * [Who are the REC/CIPD?](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/bodies.htm)
-  * [Contact us](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/contact.htm)
-  * [Terms & Conditions](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/terms.htm)
-  * [Complaints Process](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/complaints.htm)
-  * [Privacy Statement](https://web.archive.org/web/20080602053121id_/http%3A//www.joblinker.net/cvservice/privacy.htm)
+  * **Free email guide:**[Is your CV letting you down?: How to dramatically improve your CV](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/cv_guide.htm)
+  * [CV service (including prices)](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/cvserv.htm)
+  * [Ordering a CV](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/orders.htm)
+  * [Cover letters](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/coverle.htm)
+  * [Customer Testimonials](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/custtest.htm)
+  * [Example CV](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/examcv.htm)
+  * [CV for BBC TV](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/example_cvs.htm)
+  * [Guarantees](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/guarante.htm)
+  * [Why should you choose joblinker CVs?](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/bradley_cvs.htm)
+  * [Who are the REC/CIPD?](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/bodies.htm)
+  * [Contact us](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/contact.htm)
+  * [Terms & Conditions](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/terms.htm)
+  * [Complaints Process](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/complaints.htm)
+  * [Privacy Statement](https://web.archive.org/web/20080926070440id_/http%3A//www.joblinker.net/cvservice/privacy.htm)
 
 
