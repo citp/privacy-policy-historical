@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517130521id_/http%3A//www.virtualpressoffice.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926102410id_/http%3A//www.virtualpressoffice.com/index.do%3FfooterLink%3Dprivacypolicy%26pageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Virtual Press Office - Privacy Policy
 
-The following discloses Virtual Press Office, Inc.'s policy for information-gathering and dissemination of personal and non-personal information collected when you visit our site. 
+The following discloses Virtual Press Office, Inc.'s policy for information-gathering and dissemination of personal and non-personal information collected when you visit our site.
 
 Cookies are used to keep track of your registration information, and may also be used to deliver content specific to your interests, and to save any password you provide so it doesn't need to be entered repeatedly. 
 
