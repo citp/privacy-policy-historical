@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cagora.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213102213id_/http%3A//usa.cagora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cagora.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926163507id_/http%3A//usa.cagora.com/privacy) for the most accurate reproduction.*
 
-# USA Privacy Translting Page
+# USA Privacy
 
 **About Cagora**
 
