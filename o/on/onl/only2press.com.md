@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only2press.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410080626id_/http%3A//www.only2press.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only2press.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928014323id_/http%3A//www.only2press.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Only2Press.com
 
