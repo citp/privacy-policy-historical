@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeticle.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512110318id_/http%3A//www.aeticle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeticle.com privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927132944id_/http%3A//www.aeticle.com/privacy) for the most accurate reproduction.*
 
 # Free Articles
 
