@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528031614id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927090842id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
 
 # Thrivent Financial for Lutherans
 
@@ -147,16 +147,14 @@ You can set your computer’s browser to opt-out of receiving and storing cookie
 > 
 
 > 
-> **To delete cookies in Firefox 2:**
+> **To delete cookies in Mozilla Firefox:**
 > 
->   1. Click Tools, then Options.
->   2. Click the Privacy Tab.
->   3. Click Clear Now (under Private Data)
->   4. Be sure the Cookies box is checked, then click Clear Private Data Now.
+>   1. Click Tools, then Clear Private Data.
+>   2. Be sure the Cookies box is checked, then click Clear Private Data Now.
 > 
 
 > 
-> **To delete cookies in Safari 3:**
+> **To delete cookies in Apple Safari:**
 > 
 >   1. Click Edit, then Preferences.
 >   2. Click the Security tab.
@@ -169,7 +167,7 @@ You can set your computer’s browser to opt-out of receiving and storing cookie
 Top of page
 
 **Do we use Web beacons?**  
-Web beacons (also known as Web bugs, pixel tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address. Thrivent Financial uses Web beacons on it's ThriveQ site and in e-mail communications for aggregate statistical purposes. 
+Web beacons (also known as Web bugs, pixel/page tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address. Thrivent Financial uses Web beacons on its Web sites and in e-mail communications for aggregate statistical purposes. 
 
   
 Top of page
@@ -211,5 +209,5 @@ Also, if you receive e-mail messages from Thrivent Financial about updates to ou
 
 Notice of any material change to our Internet Privacy Policy is given on the thrivent.com home page. 
 
-This Internet Privacy Policy and any updates are effective as of April 7, 2008.   
+This Internet Privacy Policy and any updates are effective as of June 10, 2008.   
 Top of page
