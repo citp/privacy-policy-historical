@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309170253id_/http%3A//www.banana1015.com/Home/tabid/1968/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928021550id_/http%3A//www.banana1015.com/Home/tabid/1968/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Banana 101.5 Flint's Rock Radio > Home
 
