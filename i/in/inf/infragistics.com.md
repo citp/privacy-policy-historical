@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609202754id_/http%3A//www.infragistics.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929003848id_/http%3A//www.infragistics.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Infragistics - Powering the Presentation Layer
+# プライバシーポリシー
 
 You take online privacy seriously, and so does Infragistics. It's our way of sustaining your trust in Infragistics as well as in our products and services.
 
