@@ -1,101 +1,59 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226173330id_/http%3A//www.swimsuitsforall.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928064524id_/http%3A//www.swimsuitsforall.com/CS_policies.asp) for the most accurate reproduction.*
 
 # Swimsuits For All
 
-[](http://www.truste.org/ivalidate.php?url=www.swimsuitsforall.com&sealid=101) Last Updated: 03/27/2007 
+| 
 
-Swimsuits For All Policy of Privacy 
+** **
 
-Swimsuits For All is committed to protecting the privacy of your personal information. This privacy statement applies to the SwimsuitsForAll.com website, owned and operated by BargainBeachwear.com. By using Swimsuits For All, you consent to the data practices described in this statement.
+**www.swimsuitsforall.com** (the "Site") is brought to you by **Swimsuits for All  inc**. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.   
+  
+---  
+  
+**Collection of Information**  
+  
+**Personal Information** We collect personal information from you when you submit it to us, including by: (1) registering on the Site; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Site promotion or survey. This information may include, for example, your name, email address, address, telephone number, date of birth and credit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. 
 
-SwimsuitsForAll.com, owned and operated by BargainBeachwear.com, is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.SwimsuitsForAll.com](http://www.swimsuitsforall.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+If you use the Site's refer-a-friend mechanism, we will collect your friend's email address, for the purpose of sending them email.
 
-If you have questions or concerns regarding this statement, you should first contact Moshe Laniado at [moshe@swimsuitsforall.com](mailto:%20moshe@swimsuitsforall.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+**Non-Personal Information** When you visit the Site, we may collect certain non-personally-identifiable information from you, including your IP address, browser type, operating system and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other clickstream data. We may use cookies to collect the non-personal information described above. A cookie is a small text file that is stored on your computer when you access the Site. We may also use cookies to: (1) allow you to use the Site without having to re-enter your user name and password; (2) enhance or personalize your Site usage and shopping experience; (3) monitor Site usage; (4) manage the Site; and (5) improve the Site and our products and services. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site. Check the "Help" menu of your browser to learn how to change your cookie preferences. We may also use web beacons on the Site, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Site visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the Site. Web beacons help us analyze our Site visitors' behavior and measure the effectiveness of the Site and our advertising. We may work with service providers that help us track, collect and analyze this information. We may use third-party advertising companies that use tracking technologies to serve our advertisements across the Internet. These companies may collect anonymous information about your visits to the Site and other websites and your interaction with our advertising and other communications. Other companies may also use such companies to advertise on our Site. If you would like more information about this practice and to know your choices about not having your information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) <http://www.networkadvertising.org/managing/opt_out.asp> . We may combine the non-personal information we collect through cookies and web beacons with other information we have collected from you.  
+  
+**Use of Information**
 
-Collection of your Personal Information
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products; (2) to respond to your inquiries; (3) to contact you with Site updates, newsletters and other informational and promotional materials from us, as well as from other companies; (4) to contact you when necessary; (5) to review Site usage and operations; (6) to address problems with the Site, our business or our services; and (7) to protect the security or integrity of the Site and our business. You may choose not to receive promotional email from us by following the unsubscribe instructions in each message.   
+  
+**Disclosure of Information**
 
-Swimsuits For All explicitly asks when it needs information that personally identifies you ("personal information"). We will collect such information when, for example, you request information about Swimsuits For All services, make a purchase, you enter a sweepstakes or respond to a survey on a Swimsuits For All site, or you subscribe to a Swimsuits For All service. Personal information we collect can include but is not exclusive to your e-mail address, name, billing address, billing phone, shipping address, shipping phone, payment information (such as credit card number, type, expiration date and verification number), contact information, preferences, and other information you have noticed when registering on our site. Swimsuits For All also may ask for demographic information.
+We may disclose information collected from and about you as follows: (1) to our related companies and service providers, to perform a business, professional or technical support function for us; (2) to our marketing partners, advertisers or other third parties, who may contact you with their own offers; (3) as necessary if we believe that there has been a violation of the Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent. We may share aggregate, non-personally identifiable information about Site users with third parties. 
 
-Swimsuits For All also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Swimsuits For All for the operation of its sites and services, to maintain quality of the services, and to provide general statistics regarding use of Swimsuits For All sites and services.
+Please note that any personal information that you voluntarily submit for posting to the Site (such as to a blog) becomes publicly available and can be collected and used by others.   
+  
+**Access to Your Personal Information**
 
-Use of your Personal Information
+You may access your personal information by signing into your account. From there, you can correct or modify your information.   
+  
+**Security**
 
-Swimsuits For All uses your personal information to operate the Swimsuits For All sites and to provide the Swimsuits For All services you have requested. The information is also used to communicate with you regarding your Swimsuits For All accounts by sending out periodic communications that are considered as essential to the operation of the service.
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.   
+  
+**Children**
 
-We use your e-mail address to respond to incoming service and support requests from you, to collect customer feedback, customer satisfaction surveys, sweepstakes notices, and other service informational mailings.
+We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.   
+  
+**Third Party Websites**
 
-Swimsuits For All may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Swimsuits For All or the site; (b) protect and defend the rights or property of Swimsuits For All, the site or the users of Swimsuits For All; or (c) act under exigent circumstances to protect the personal safety of Swimsuits For All employees, users of Swimsuits For All products or services, or members of the public.
+The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.   
+  
+**Changes to This Privacy Policy**
 
-Sharing your Personal Information with Other Companies
+We may change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.   
+  
+**Your California Privacy Rights**
 
-Except as otherwise described in this statement, Swimsuits For All will share your personal information with other companies only with your consent. For example, when subscribing to a service which involves a third party to facilitate the service, your personal information will be shared.
+California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. To make such a request, please write to us at the following address:   
+  
+**Swimsuits for All Inc. 262 Old Brunswick Rd. Piscataway, N.J. 08854**  
+  
+**Contact Us**
 
-We use an outside shipping company (including, but not limited to the US Postal Service & UPS) to fulfill orders, and a credit card processing company (including Authorize.net & Meramack Bank) to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-
-Control of your Personal Information
-
-When registering with our website or making a purchase, you will automatically receive special promotional offers, sweepstakes, contests, and/or customer surveys information may be sent about products and services from Swimsuits For All or our partners,. We send our partner offers to you on their behalf as we do not share you personal information with any third parties. You have the ability to opt-in or opt-out from receiving this type of information You may additionally sign up for our newsletter by providing your email address in the indicated field on our homepage and pages throughout the website.
-
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [help@swimsuitsforall.com](mailto:%20help@swimsuitsforall.com).
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
-You also have the ability to change your contact preferences at any time by following the unsubscribe instructions provided in each mailing.
-
-Access to your Personal Information
-
-You may update, edit or delete the personal information you have shared with Swimsuits For All, or change your contact preferences, at any time when you are signed in to the Swimsuits For All site, from within the My Account page by following visiting [Members-edit.html](https://web.archive.org/web/20071226173330id_/http%3A//www.swimsuitsforall.com/Members-edit.html) when logged into the Swimsuits For All site.
-
-If you have difficulty modifying any of your information, please send e-mail to [help@swimsuitsforall.com](mailto:%20help@swimsuitsforall.com) to receive further assistance.
-
-Security of your Personal Information
-
-Swimsuits For All is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
-
-Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link [http://www.google.com/search?hl=en&lr=&oi=defmore&q=define:SSL](http://www.google.com/search?hl=en&lr=&oi=defmore&q=define:SSL).]
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at [help@swimsuitsforall.com](mailto:%20help@swimsuitsforall.com)
-
-Use of Cookie
-
-To make it easy and convenient for you to login to our services, the Swimsuits For All site requires you to enable cookies to utilize our services. Because we use cookies, you can bookmark your Swimsuits For All start page and access your account without logging in.
-
-A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. When you return to the same Swimsuits For All site, the information you previously provided can be retrieved, so you can easily use the features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to fully experience the interactive features of the Swimsuits For All Web site or other Web sites you visit.
-
-In some cases, 3rd party advertisers may insert their own cookies for tracking purposes. This tracking information is to help us to provide the best possible service to those pages traveled. Such 3rd party advertisers may include HitBox and Overature and the collected data helps us to determine which pages are visited most or least frequently.  
-
-
-Cookies are not in away anyway tied to Personally Identifiable Information.   
-
-
-Links to Swimsuits For All Partners and Other Sites
-
-Swimsuits For All sites contain links to other web sites. You should carefully examine the privacy statements of sites linking to or from Swimsuits For All before providing any personal information to those sites. Personal information that you choose to provide to other web sites will be subject to the privacy policies of that specific web site. Swimsuits For All is not responsible for the privacy statements or other content on Web sites outside of the Swimsuits For All family of Web sites.
-
-Use of Third Party Ad Networks
-
-The majority of the online banner advertisements you see on the Swimsuits For All Web sites are displayed by Swimsuits For All. In addition, Swimsuits For All also allows other companies, called third-party ad servers or ad networks, to display advertisements on Swimsuits For All Web sites. Some of these ad networks may place a persistent cookie on your computer. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver advertisements that they believe will be of most interest to you. Swimsuits For All does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks.
-
-Swimsuits For All may maintain relationships with a number of the third-party ad networks. Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting.
-
-Enforcement of This Privacy Statement
-
-If you have questions regarding this statement, you should first contact Swimsuits For All using the contact information at the bottom of this statement.
-
-Changes to this Statement
-
-Swimsuits For All will occasionally update this privacy statement to reflect company and customer feedback. When Swimsuits For All posts changes to this statement, we will also revise the "last updated" date at the top of the statement. If there are material changes to this statement, Swimsuits For All will notify you by placing prominent notice on the Web site. Swimsuits For All encourages you to periodically review this statement to be informed of how Swimsuits For All is helping to protect your information.
-
-Contact Information
-
-Swimsuits For All welcomes your comments regarding this privacy statement. If you believe that Swimsuits For All has not adhered to this statement, please contact us by e-mail, and we will use commercially reasonable efforts to promptly determine and remedy the problem. Please send e-mails to [help@swimsuitsforall.com](mailto:help@swimsuitsforall.com) or postal mail to SwimsuitsForAll.com, 262 Old New Brunswick Road, Piscataway New Jeresey, 08854. Swimsuitsforall.com is a BargainBeachwear.com web site and can be contacted using the address above.
+If you have questions or concerns about this Privacy Policy, contact us at **privacy@swimsuitsforall.com**
