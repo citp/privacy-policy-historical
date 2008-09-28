@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medkoder.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022052642id_/http%3A//www.medkoder.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medkoder.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929015932id_/http%3A//www.medkoder.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# MedKoder :: Help zone
+# Help zone :: MedKoder
 
 We respect your privacy!  
 Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!  
