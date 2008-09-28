@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbicapsec.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522170528id_/http%3A//www.sbicapsec.com./generalprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicapsec.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928144614id_/http%3A//www.sbicapsec.com/generalprivacypolicy.asp) for the most accurate reproduction.*
 
 # | Welcome to SBICAP Securities |
 
