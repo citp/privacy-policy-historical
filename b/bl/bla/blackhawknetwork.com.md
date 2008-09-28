@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501110841id_/http%3A//www.blackhawknetwork.com/tabid/64/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928062739id_/http%3A//www.blackhawknetwork.com/tabid/64/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ Blackhawk Network, Inc. (“Blackhawk”) knows that privacy is extremely import
 
 We may collect “personally identifiable information” about you from the following sources:
 
-  * Information received from you on applications or other forms you complete and provide to us. 
-  * Information about your transactions or experiences with companies affiliated with us or others. 
-  * Information we receive from third parties. 
+  * Information received from you on applications or other forms you complete and provide to us.
+  * Information about your transactions or experiences with companies affiliated with us or others.
+  * Information we receive from third parties.
   * Your “personally identifiable information” includes information gathered in the context of providing the service. We receive this information from you when you request information or services, from any transactions, and that we otherwise obtain about you in connection with providing the service. “Personally identifiable information” does not include any publicly available information or any information that does not identify you. 
 
 
