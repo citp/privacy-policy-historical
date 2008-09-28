@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329195837id_/http%3A//www.usinsuranceonline.com/usio/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928110533id_/http%3A//www.usinsuranceonline.com/usio/privacy.php) for the most accurate reproduction.*
 
 # USInsuranceOnline.com - The Easiest Way to Shop for Insurance
 
@@ -6,7 +6,7 @@ _Effective Date: 01/01/2008_
 
 ## COMMITMENT TO YOUR PRIVACY
 
-Usinsuranceonline.com wants to make your experience online satisfying and safe. Usinsuranceonline.com is owned and operated by All Exclusive Leads, Ltd. (collectively “Company,” “we” or “us”). We understand you value your privacy. This privacy policy (“Privacy Policy”) governs information you provide to us or we learn from your use of this website and tells you how we may collect, use, and share this information. 
+Usinsuranceonline.com wants to make your experience online satisfying and safe. Usinsuranceonline.com is owned and operated by All Web Leads, Inc. (collectively “Company,” “we” or “us”). We understand you value your privacy. This privacy policy (“Privacy Policy”) governs information you provide to us or we learn from your use of this website and tells you how we may collect, use, and share this information. 
 
 Except as described in this Privacy Policy, and unless given permission by you, we will not sell or disclose your personally identifiable information to third parties. 
 
@@ -84,7 +84,7 @@ When you submit your request to us, you agree to receive email, fax, and other f
 
 ## AFFILIATED WEBSITES, OTHER WEBSITES, AND ADVERTISEMENTS
 
-This Privacy Policy applies to websites and services that are owned and operated by All Exclusive Leads, Ltd. We do not exercise control over the websites of third parties that you may link to or view as part of a frame on a page on this website. These other sites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+This Privacy Policy applies to websites and services that are owned and operated by All Web Leads, Inc. We do not exercise control over the websites of third parties that you may link to or view as part of a frame on a page on this website. These other sites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
 ## AUTHORIZED USERS
 
