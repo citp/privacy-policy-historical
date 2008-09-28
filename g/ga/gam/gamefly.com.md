@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610093012id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928120758id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals: Rent or Buy PS3, PS2, PSP, Xbox 360, Xbox, GameCube, DS, Wii, GBA Games
 
