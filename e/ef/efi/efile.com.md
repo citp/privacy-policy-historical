@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514192859id_/http%3A//www.efile.com/general/eFilePrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929134904id_/http%3A//www.efile.com/general/eFilePrivacy.asp) for the most accurate reproduction.*
 
 # efile taxes, secure, taxes, online taxes, tax data privacy, tax status, tax deductions, e-file taxes
 
