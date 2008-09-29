@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517073205id_/http%3A//www.dishonline.com/legal_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929152341id_/http%3A//www.dishonline.com/legal_notice.aspx) for the most accurate reproduction.*
 
 # DISH Network Subscriber Privacy Notice
 
