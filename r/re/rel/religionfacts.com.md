@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026062547id_/http%3A//www.religionfacts.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929214910id_/http%3A//www.religionfacts.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ReligionFacts
 
@@ -10,4 +10,4 @@ If you give us personal information, such as your e-mail address when writing us
 
 This privacy policy covers www.religionfacts.com only. Other sites we link to have their own privacy policies. 
 
-[Return to ReligionFacts home page.](https://web.archive.org/web/20071026062547id_/http%3A//www.religionfacts.com/index.html)
+[Return to ReligionFacts home page.](https://web.archive.org/web/20080929214910id_/http%3A//www.religionfacts.com/index.html)
