@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinglifebetter.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528024756id_/http%3A//unileverus.com/privacy/policy.html%3Fsite%3Dwww.makinglifebetter.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinglifebetter.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929152839id_/http%3A//unileverus.com/privacy/policy.html%3Fsite%3Dwww.makinglifebetter.com) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
