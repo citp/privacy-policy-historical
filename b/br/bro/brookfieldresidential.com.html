@@ -1,0 +1,754 @@
+<!--The following is the downloaded HTML source of the brookfieldresidential.com privacy policy that was archived on 2008-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080929181003id_/http%3A//www.brookfieldresidential.com/cms/CorpHome/ctm_displaypage.asp%3Fpage%3DPrPolicy%26PageGroup%3DCORPINNER%26flag%3D-1) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Brookfield Residential</title>
+<base target="_top">
+<meta name="KEYWORDS" content="">
+
+
+<link rel="Stylesheet" type="text/css" href="CorpInnerStyle/CorpInnerStyle.css"> 
+<script language="javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script language="javascript">
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date()
+exdate.setDate(exdate.getDate()+expiredays)
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : "; expires="+exdate.toGMTString())
+}
+
+var brName = navigator.userAgent;
+var brVer;
+
+if(brName.search("MSIE")!= -1)
+{
+	brVer = brName.substr(brName.indexOf('MSIE')+5,3);
+	brName = "IE";
+}
+else if (brName.search("Netscape")!= -1)
+{
+	brVer = brName.substring(brName.search("Netscape")+9,brName.length);
+	brName = "Netscape";
+}
+else if(brName.search("Firefox")!= -1)
+{
+	brVer = brName.substring(brName.search("Firefox")+8,brName.length);
+	brName = "Firefox";
+}
+else if(brName.search("Opera")!= -1)
+{
+	brVer = brName.substring(brName.search("Opera")+6,brName.search("Opera")+11);
+	brName = "Opera";
+}
+else if(brName.search("Safari")!= -1)
+{
+	brVer = brName.substring(brName.search("Safari")+7,brName.length);
+	brName = "Safari";
+}
+else
+{
+	brVer = "0";
+	brName = "Other";
+}
+//alert("after=" + brName);
+var vVal;
+vVal = geoip_country_code() + "#" + geoip_country_name() + "#" + geoip_city() + "#" + geoip_region() + "#" + geoip_latitude() + "#" + geoip_longitude() + "#" + screen.width + "#" + screen.height + "#" + brName + "#" + brVer;
+setCookie('geoVal',vVal,1)
+
+</script>
+<script language="javascript" src="../system/ysilib.js"></script>
+<script language="javascript" src="../system/ctm_lib.js"></script>
+<script src="../system/AC_RunActiveContent.js" language="javascript1.2"></script> 
+<script type="text/javascript" language="javascript" src="../system/swfobject.js"></script>
+<script type="text/javascript" src="../system/flash_script.js"></script>
+<script language="JavaScript">
+function showmenu(){
+	if(document.all.selectMenuOuter.filters){
+		document.all.selectMenuOuter.filters["revealTrans"].apply();
+		//document.all.select.style.display = "none";
+		//document.all.dropDownMenu.style.display = "block";
+	}
+
+}
+
+function setIndex(){
+	document.all.select.style.zIndex = 1;
+
+}
+
+	function fun2()                //required for translate section
+	{
+		var obj=document.getElementById("Select")
+		var lang1;
+		lang1=obj.value;
+
+		//lang1=obj.value==1?'es':(obj.value==2?'de':(obj.value==3?'ja':(obj.value==4?'en':'')));
+		//window.open("../forms/ctm_httpreq.asp?lang1="+lang1);
+		
+		window.open("../forms/httprequest1.asp?lang1="+lang1, "_blank");
+	}
+	
+	function toggle(obj,status)
+	{
+		if(document.getElementById)
+		{
+			var el = document.getElementById(obj);
+			el.style.top =  findPosDivTop(document.getElementById("tdAboutUs"));
+			el.style.left =  findPosDivLeft(document.getElementById("tdAboutUs"));
+			var ar = document.getElementById("spanAboutUs").getElementsByTagName("td");
+			for (var i=0; i<ar.length; i++)
+			{
+				var tdHeight = parseInt(ar[i].height,10);
+				ar[i].className = 'SubMenuItems';
+			}
+			if(status == 'SHOW')
+			{
+				el.style.display = "block";
+			}
+			else if(status == 'HIDE')
+			{
+
+				el.style.display = "none";
+			}
+		}
+	}
+	function findPosDivTop(obj)
+	{
+		var curtop = 0;
+		if (obj.offsetParent)
+		{
+			while (obj.offsetParent)
+			{
+				curtop += obj.offsetTop;
+				obj = obj.offsetParent;
+			}
+		}
+		else if (obj.y)
+		{
+			curtop += obj.y;
+		}
+		var ar = document.getElementById("spanAboutUs").getElementsByTagName("td");
+		for (var i=0; i<ar.length; i++)
+		{
+			var tdHeight = parseInt(ar[i].height,10);
+		}
+		var ar = document.getElementById("spanAboutUs").getElementsByTagName("td");
+		tdHeight = (tdHeight * ar.length);
+		curtop -= tdHeight;
+		curtop -= 17;
+		return curtop;
+	}
+
+	function findPosDivLeft(obj)
+	{
+		var curleft = 0;
+		if (obj.offsetParent)
+		{
+			while (obj.offsetParent)
+			{
+				curleft += obj.offsetLeft;
+				obj = obj.offsetParent;
+			}
+		}
+		else if (obj.x)
+		{
+			curleft += obj.x;
+		}
+//		curleft += 5;
+		return curleft;
+	}
+
+	
+	
+</script>
+
+<script language="javascript">
+
+	function changeBgColor(obj,flag)
+	{
+		if(flag == 1)
+			this.Style.backgroundColor = '#e0e0e0';
+		else
+		if(flag == 0)
+			this.Style.backgroundColor = '#ffffff';
+	}
+	function insertImage(imagePath)
+	{
+		var str ;	
+		/*str =   "<div id=flashcontent> ";
+		str += "<img src="+ imagePath +"  /> "
+		str += "</div>"*/
+		str = "<table width='200' border='0' cellpadding='0' cellspacing='0'>";
+		str = str + " <tr>"
+		str = str + "<td><img src='" + imagePath + "' width='850' height='216' border='0' /></td>";
+		str = str + "  </tr>";
+		str = str + "</table>";
+//alert(str);
+		document.write(str);
+	}
+</script>
+</head>
+
+<body>
+<!-- Flash Detetction code -->
+<div id="flashversion" style="display:none;">
+	This site requires Macromedia flash installed on your machine.<a href="http://www.macromedia.com/go/getflashplayer">Click</a> here to download
+</div>
+<script type="text/javascript">
+/*	var version = deconcept.SWFObjectUtil.getPlayerVersion();
+
+	if (document.getElementById && version["major"] < 7) 
+	{
+		document.getElementById('flashversion').style.display = '';
+	}*/
+</script>
+<!-- End of Flash Dectection code-->
+
+<table width="850" border="0" align="center" cellpadding="0" cellspacing="0" class="maintablebg">
+  <tbody><tr>
+    <td colspan="3" class="topbg"></td>
+  </tr>
+  <tr>
+  <!-- top flash goes here-->
+    <td colspan="3" valign="top">
+	<script type="text/javascript">
+	var playerVersion = deconcept.SWFObjectUtil.getPlayerVersion();
+	if (document.getElementById && playerVersion.major > 6) 
+	{
+		//alert('flash detected');
+		inserthomeflash('..',40,'brookfield',1,'brokcorp','CORPINNER');
+	}	
+	else
+	{
+		//alert('flash not detected');
+		//insertImage('');
+		insertImage('../images/homestillimg.jpg');
+	}
+
+		
+	 </script>
+  
+    </td>
+    <!-- top flash ends here-->
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+	<!-- hmenu starts here -->
+	<table class="hmenubg" width="100%" border="0" cellspacing="0" cellpadding="0">
+      	<tbody><tr>
+      		<td width="80" align="left" valign="top"><img src="CorpInnerStyle/transperant.gif" width="80" height="10"></td>
+        	<td><script language="JavaScript">
+
+
+   var screenWidth = document.body.offsetWidth; 
+   var screenHeight = window.screen.height;
+   var intLeft,intTop;
+
+   var ori = 1; 
+    //alert(document.body.offsetWidth);
+//define initial position for menu item depending on resolution of the screen and pagegroup as height of the flash is different for Corphome and corpinner. 
+   
+   switch(screenWidth)
+   {
+	
+	case 1920:
+		intLeft = 645;
+		
+		break;
+
+	case 1600:
+		intLeft = 455;
+		
+		break;
+
+	case 1440:
+		intLeft = 385;
+		
+		break;
+
+	case 1400:
+		intLeft = 360;
+		
+		break;
+
+	case 1366:
+		intLeft = 342;
+		
+		break;
+
+	case 1280:
+
+		intLeft = 305;
+
+		break;
+	case 1152:
+		intLeft = 225;
+		
+		break;
+	case 1024:
+		intLeft = 176;
+		
+		break;
+	case 800:
+		intLeft = 90;
+		
+		break;
+	default:
+		intLeft = 90;
+		
+		break;
+	
+   }
+        
+   
+
+   intTop = 210;
+
+
+//alert('intLeft: ' + intLeft);
+
+/*var intLeft=303;
+var intTop=189;*/
+
+</script>
+<!--<link rel="stylesheet" href="../corphome/corphomestyle/sIFR-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../corphome/corphomestyle/sIFR-print.css" type="text/css" media="print" />-->
+<script language="javascript" src="../system/ysilib.js"></script>
+<script language="javascript" src="../system/ctm_lib.js"></script>
+<script src="../system/sifr.js" type="text/javascript"></script>
+<script src="../system/sifr-addons.js" type="text/javascript"></script>
+<script language="JavaScript1.2" src="../system/scripts.js" type="text/JavaScript"></script>
+<script language="JavaScript">
+       
+function fwLoadMenus() {
+
+ window.m26 = new Menu('root',150,17,'HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif',11,hexFColor,hexFHColor,hexBgColor,hexBgHColor); m26.addMenuItem('Common Q & A',"location='ctm_displaypage.asp?page=ClDrQA&pagegroup=CorpInner'",0); m26.addMenuItem('Our Services',"location='ctm_displaypage.asp?page=ClDrServ&pagegroup=CorpInner'",0); m26.addMenuItem('Service Excellence Program',"location='ctm_displaypage.asp?page=SerExce&pagegroup=CorpInner'",0); m26.addMenuItem('Volume Purchasing Power',"location='ctm_displaypage.asp?page=VolPurch&pagegroup=CorpInner'",0); m26.addMenuItem('Managed Properties',"location='ctm_displaypage.asp?page=ClDrSite&pagegroup=CorpInner'",0); window.m35 = new Menu('root',150,17,'HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif',11,hexFColor,hexFHColor,hexBgColor,hexBgHColor); m35.addMenuItem('Common Q & A',"location='ctm_displaypage.asp?page=HmOwnQA&pagegroup=CorpInner'",0); m35.addMenuItem('Status Certificate',"location='ctm_displaypage.asp?page=StatCert&pagegroup=CorpInner'",0); m35.addMenuItem('Rental Division',"location='ctm_displaypage.asp?page=UnitRent&pagegroup=CorpInner'",0); window.m25 = new Menu('root',150,17,'HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif',11,hexFColor,hexFHColor,hexBgColor,hexBgHColor); m25.addMenuItem('Benefits',"location='ctm_displaypage.asp?page=CaBenefi&pagegroup=CorpInner'",0); m25.addMenuItem('Common Q & A',"location='ctm_displaypage.asp?page=CareerQA&pagegroup=CorpInner'",0); m25.addMenuItem('Job Opportunities',"location='ctm_displaypage.asp?page=JobOpp&pagegroup=CorpInner'",0); m25.addMenuItem('Testimonials',"location='ctm_displaypage.asp?page=EmpTesti&pagegroup=CorpInner'",0); window.m28 = new Menu('root',150,17,'HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif',11,hexFColor,hexFHColor,hexBgColor,hexBgHColor); m28.addMenuItem('Employee Portal',"location='ctm_displaypage.asp?page=Emlogin&pagegroup=CorpInner'",0); m28.addMenuItem('Training Programs',"location='ctm_displaypage.asp?page=Training&pagegroup=CorpInner'",0); m28.addMenuItem('Community Involvement',"location='ctm_displaypage.asp?page=Communit&pagegroup=CorpInner'",0); m28.addMenuItem('Employee Events',"location='ctm_displaypage.asp?page=EmpEvent&pagegroup=CorpInner'",0); m28.addMenuItem('Remote Login','ctm_displaypage.asp?page=RmtLogin&pagegroup=CorpInner',1); window.m29 = new Menu('root',150,17,'HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif',11,hexFColor,hexFHColor,hexBgColor,hexBgHColor); m29.addMenuItem('Habitat For Humanity',"location='ctm_displaypage.asp?page=Habitat&pagegroup=CorpInner'",0); m29.addMenuItem('Common Q and A',"location='ctm_displaypage.asp?page=VendQA&pagegroup=CorpInner'",0);
+
+
+    window.fw_menu_4 = new Menu("root",120,17,"HelveticaNeueLT Std,Verdana, Arial, Helvetica, sans-serif,HelveticaNeueLT Std",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
+    fw_menu_4.addMenuItem("Design Packages","location='/design_packages.asp'");
+    fw_menu_4.addMenuItem("Instant Quote","location='/rates.asp#instant_quote'");   
+    fw_menu_4.childMenuIcon="/images/arrows.gif";
+    fw_menu_4.writeMenus();
+}
+
+</script>
+
+
+<script language="JavaScript" type="text/javascript">fwLoadMenus();</script>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="100%" onmouseover="showPosition(&quot;1&quot;,36);">
+<tbody><tr>
+<td width="10"> <span onmouseover="javascript:setIndex();window.FW_showMenu(window.m26,pMenu('m26','m26'),intTop)" <="" span=""> <img alt="" src="CorpInnerStyle/hbullet.jpg" border="0" name="m26"></span></td><td class="hlinkbg" valign="middle" align="center" id="firstCell"><span onmouseover="javascript:setIndex();window.FW_showMenu(window.m26,pMenu('m26','m26'),intTop)" onmouseout="FW_startTimeout()" onclick="location.href='ctm_displaypage.asp?page=ClDrQA&amp;pagegroup=CorpInner'" style="cursor:hand;cursor:pointer;">&nbsp;Clients &amp; Directors</span></td><td width="10"> <span onmouseover="javascript:setIndex();window.FW_showMenu(window.m35,pMenu('m26','m35'),intTop)" <="" span=""> <img alt="" src="CorpInnerStyle/hbullet.jpg" border="0" name="m35"></span></td><td class="hlinkbg" valign="middle" align="center"><span onmouseover="javascript:setIndex();window.FW_showMenu(window.m35,pMenu('m26','m35'),intTop)" onmouseout="FW_startTimeout()" onclick="location.href='ctm_displaypage.asp?page=HmOwnQA&amp;pagegroup=CorpInner'" style="cursor:hand;cursor:pointer;">Owners &amp; Residents</span></td><td width="10"> <span onmouseover="javascript:setIndex();window.FW_showMenu(window.m25,pMenu('m26','m25'),intTop)" <="" span=""> <img alt="" src="CorpInnerStyle/hbullet.jpg" border="0" name="m25"></span></td><td class="hlinkbg" valign="middle" align="center"><span onmouseover="javascript:setIndex();window.FW_showMenu(window.m25,pMenu('m26','m25'),intTop)" onmouseout="FW_startTimeout()" onclick="location.href='ctm_displaypage.asp?page=CaBenefi&amp;pagegroup=CorpInner'" style="cursor:hand;cursor:pointer;">Careers</span></td><td width="10"> <span onmouseover="javascript:setIndex();window.FW_showMenu(window.m28,pMenu('m26','m28'),intTop)" <="" span=""> <img alt="" src="CorpInnerStyle/hbullet.jpg" border="0" name="m28"></span></td><td class="hlinkbg" valign="middle" align="center"><span onmouseover="javascript:setIndex();window.FW_showMenu(window.m28,pMenu('m26','m28'),intTop)" onmouseout="FW_startTimeout()" onclick="location.href='ctm_displaypage.asp?page=Emlogin&amp;pagegroup=CorpInner'" style="cursor:hand;cursor:pointer;">Employees</span></td><td width="10"> <span onmouseover="javascript:setIndex();window.FW_showMenu(window.m29,pMenu('m26','m29'),intTop)" <="" span=""> <img alt="" src="CorpInnerStyle/hbullet.jpg" border="0" name="m29"></span></td><td class="hlinkbg" valign="middle" align="center"><span onmouseover="javascript:setIndex();window.FW_showMenu(window.m29,pMenu('m26','m29'),intTop)" onmouseout="FW_startTimeout()" onclick="location.href='ctm_displaypage.asp?page=Habitat&amp;pagegroup=CorpInner'" style="cursor:hand;cursor:pointer;">Vendors</span></td></tr>
+
+</tbody></table></td>
+	        <td width="80" align="left" valign="top"><img src="CorpInnerStyle/transperant.gif" width="80" height="10"></td>
+      </tr>
+    </tbody></table>
+	<!-- hmenu ends here -->
+	</td>
+  </tr>
+ 
+    <tr><td width="50" valign="top">&nbsp;</td>
+    <td width="750" height="350px" valign="top">
+
+	<!-- Layout starts here-->
+
+		<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed; ">
+<tbody><tr><td valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
+<td width="100%" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="maintablebg">
+<tbody><tr><td valign="top" width="100%">
+
+      <!--design1header starts here-->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td height="5"></td></tr>
+       	<tr>
+		<td class="design1header" valign="top" width="70%">Privacy Policy</td>
+		<td align="right" class="design1header" width="30%">
+
+				</td>
+			     </tr>
+						     <tr>
+			        	<td height="10">
+					</td>
+			        </tr>
+			     <tr>
+			        	<td colspan="2" align="left">
+						<table width="100%" cellpadding="0" cellspacing="0">
+ 						<tbody><tr>
+			        			<td width="744" class="toplinebg"></td>
+			                		<td width="19" align="right"><img src="CorpInnerStyle/topline_corner.jpg" width="19" height="6"></td>
+			        		</tr>
+						</tbody></table>
+					</td>
+			        </tr>
+			        <tr>
+					<!-- content text goes here-->
+			            	<td height="70" valign="top" class="design1_text" colspan="2">
+			            		<br>
+<p><font class="normaltext"><b>PRIVACY POLICY FOR THE COLLECTION, USE, DISCLOSURE 
+AND SECURITY OF PERSONAL INFORMATION</b> </font>
+</p><p><font class="normaltext">Privacy of personal information about the unit owners, tenants and residents of the properties we manage is a fundamental cornerstone of our role as property managers and agents for condominium corporations, absentee owners of condominium units and landlords. We understand an individual’s right to privacy and we are committed to collecting, using, disclosing and securing your personal information responsibly and for no other purposes beyond the need to efficiently and effectively provide management services to you and to our clients. 
+<br>Brookfield Residential Services Ltd. has 
+adopted the following privacy policy to meet this commitment. </font>
+</p><p><font class="normaltext">Introduction </font>
+</p><p><font class="normaltext">Brookfield Residential Services Ltd. (hereinafter called “Brookfield”) is a company that provides property management services to condominium corporations, non-resident owners of condominium units and landlords of rental residential properties (hereinafter called “Clients”). In the course of servicing these Clients, Brookfield may collect certain personal information from condominium unit owners, tenants in condominium units and tenants or prospective tenants in rental residential properties (hereinafter called “Individuals”) necessary to carry on its activities as a managing agent for its Clients. </font>
+</p><p><font class="normaltext">“Personal Information” means information that is personally identifiable to individuals. This may include, without limitation, the Individual’s name, address, telephone number, e-mail address, bank account number, payment histories and other information about his or her family in the case of a condominium unit owner and may further include, without limitation, age, income, employment status, credit history and debts and liabilities in the case of a tenant or a prospective tenant in condominium units or rental apartment buildings managed by Brookfield. </font>
+</p><p><font class="normaltext">This Privacy Policy is based on, and complies with, 
+Canada’s Personal Information Protection and Electronic Documents Act 
+(“PIPEDA”), which includes the Ten Privacy Principles outlined in the National 
+Standard of Canada entitled Model Code for the Protection of Personal 
+Information and similar provincial legislation. </font>
+</p><p><font class="normaltext">This Privacy Policy sets out the ten principles that 
+Brookfield follows to ensure that we protect our Individuals’ and employees’ 
+personal information when we collect, use or disclose it in the course of 
+carrying on business activities in Canada. These correspond to similar 
+principles contained in PIPEDA. All of our employees who have access to personal 
+information must adhere to the Brookfield Privacy Policy and related procedures. 
+</font>
+</p><p><font class="normaltext"></font>
+</p><p><font class="normaltext">Brookfield’s Dedication to the Ten Principles of 
+Privacy </font>
+</p><p><font class="normaltext">The following ten principles govern our actions as 
+they relate to the use of personal information of Individuals and others: 
+</font>
+</p><p><font class="normaltext"></font>
+</p><li><font class="normaltext">Principle 1 — Accountability </font>
+</li><li><font class="normaltext">Principle 2 — Identifying Purposes </font>
+</li><li><font class="normaltext">Principle 3 — Consent </font>
+</li><li><font class="normaltext">Principle 4 — Limiting Collection </font>
+</li><li><font class="normaltext">Principle 5 — Limiting Use, Disclosure and Retention 
+</font>
+</li><li><font class="normaltext">Principle 6 — Accuracy </font>
+</li><li><font class="normaltext">Principle 7 — Safeguards </font>
+</li><li><font class="normaltext">Principle 8 — Openness </font>
+</li><li><font class="normaltext">Principle 9 — Individual Access </font>
+</li><li><font class="normaltext">Principle 10 — Questions and Concerns </font>
+</li><li><font class="normaltext">Principle 11 - Accountability </font>
+<p><font class="normaltext">Brookfield is accountable for all personal information in its possession or custody, including personal information disclosed to third parties for purposes of providing services requested by our Clients, prospective Clients or others. To this end, Brookfield has appointed a Privacy Officer who has ultimate responsibility for ensuring compliance within Brookfield and by all Brookfield employees. Through its policies and procedures, Brookfield will strive to implement this Privacy Policy throughout all of its operations. 
+Brookfield will seek to include in contractual arrangements with suppliers provisions requiring them to provide an appropriate level of protection for information transferred to them by Brookfield. </font>
+</p><p><font class="normaltext">Brookfield will seek to include in contractual 
+arrangements with suppliers provisions requiring them to provide an appropriate 
+level of protection for information transferred to them by Brookfield. </font>
+</p><p><font class="normaltext">Principle 2 — Identifying Purposes </font>
+</p><p><font class="normaltext">Brookfield will identify the purposes for which it is collecting any personal information by such means as is appropriate in the circumstances. This may include providing disclosure orally, by telephone, or in person, providing disclosure in a contract or in other written information given to an Individual, posting a notice on Brookfield’s website or any other means deemed appropriate in the circumstances. </font>
+</p><p><font class="normaltext">In some instances, where the purpose for collecting information is reasonably evident to the person providing the information, the purpose will be implied but not explicitly stated (for instance, on rental applications, when a potential tenant provides us with his or her income and banking information or on Pre-Authorized Payment applications when a unit owner authorizes the condominium corporation to withdraw monthly common charges from an Individual’s bank account).</font>
+</p><p><font class="normaltext">Principle 3 — Consent </font>
+</p><p><font class="normaltext">Brookfield will seek to obtain consent from an Individual before or when it collects, uses or discloses personal information except as described below. Brookfield will strive to ensure that Individuals understand how their personal information will be used or disclosed. 
+Consent can be expressed (i.e. given orally, electronically or in writing), implied or given through an authorized representative. Consent may be implicit when the purposes are not stated expressly but are implied by the circumstances of the transaction or follow logically from other expressly stated purposes). You can withdraw consent at any time, with certain exceptions (for example, subject to any legal or contractual restrictions) and upon reasonable notice to Brookfield. Brookfield will strive to inform an Individual of all implications of withdrawing his or her consent. You may contact Brookfield’s Privacy Officer respecting the withdrawal of any previously given consent or any change in the purposes for which information held by Brookfield may be used, disclosed or retained. Note that information may be retained by Brookfield for audit or archival purposes notwithstanding any withdrawal of consent otherwise applicable but the fact that consent has been withdrawn will be noted so as to prevent an unauthorized use. 
+Brookfield, however, may collect, use or disclose personal information without the an Individual’s knowledge or consent in exceptional circumstances where such collection, use or disclosure is permitted or required by law.</font>
+</p><p><font class="normaltext">Principle 4 — Limiting Collection </font>
+</p><p><font class="normaltext">Brookfield will only collect information that is 
+reasonably necessary for the purposes identified. Information will be collected 
+by fair and lawful means. </font>
+</p><p><font class="normaltext">Principle 5 — Limiting Use, Disclosure and Retention 
+</font>
+</p><p><font class="normaltext">Personal information will only be used or disclosed for the purpose for which it was collected unless an Individual has otherwise consented, or when it is required or permitted by law. Personal information may only be retained for the amount of time needed to fulfill the purpose for which it was collected. In certain exceptional circumstances, Brookfield may have a legal duty or right to disclose personal information without an Individual’s knowledge or consent with respect to matters that concern the public’s interest. 
+</font>
+</p><p><font class="normaltext">Principle 6 — Accuracy </font>
+</p><p><font class="normaltext">Brookfield will keep personal information as accurate, complete and current as necessary to fulfill the identified purposes for which it was collected. Brookfield will update or correct any personal information held by it if the individual concerned provides Brookfield with particulars, satisfactory to it, of any required updating or correction. </font>
+</p><p><font class="normaltext">Principle 7 — Safeguarding Personal Information 
+Personal information is safeguarded to protect against loss, theft or unauthorized access, disclosure, use or modification of information using measures appropriate to the sensitivity, amount, format, nature and storage of the information and will involve, as applicable, physical, organizational and electronic security measures. 
+Brookfield has controls in place to maintain the security of its information and information systems. Files are stored according to the sensitivity of the information contained therein. Appropriate controls (such as restricted access) using user I.D.’s and passwords are placed on our computer systems and data processing procedures. Physical access to areas where personal information is gathered, processed or stored is limited to authorized employees. </font>
+</p><p><font class="normaltext">Brookfield has controls in place to maintain the 
+security of its information and information systems. Files are stored according 
+to the sensitivity of the information contained therein. Appropriate controls 
+(such as restricted access) using user I.D.’s and passwords are placed on our 
+computer systems and data processing procedures. Physical access to areas where 
+personal information is gathered, processed or stored is limited to authorized 
+employees. </font>
+</p><p><font class="normaltext">Principle 8 — Openness </font>
+</p><p><font class="normaltext">Brookfield will make information available to 
+Individuals and its Clients and others about the policies and procedures 
+Brookfield uses to manage personal information. Individuals and Clients have 
+access to much of this information through our web site, or through written 
+correspondence with Brookfield’s Privacy Officer. </font>
+</p><p><font class="normaltext">Principle 9 — Individual Access </font>
+</p><p><font class="normaltext">As an Individual, you have the right to access the 
+personal information we keep in your file and you have the right to verify or 
+amend the information if it is shown to be inaccurate. </font>
+</p><p><font class="normaltext">If you would like to view the personal information 
+held in your file, please make a written request to Brookfield’s Privacy 
+Officer. Brookfield will respond to your request as efficiently as possible and 
+will advise of the individual cost, if any, prior to the retrieval of such 
+records. Brookfield will not respond to frivolous or vexatious requests for 
+access to information. If Brookfield is prohibited from providing such access it 
+will explain the reasons, except where prohibited by law. To make a change to 
+your personal information (as discussed under “Accuracy” above), please make a 
+similar request in writing to the Privacy Officer. </font>
+</p><p><font class="normaltext">Principle 10 — Questions or Concerns </font>
+</p><p><font class="normaltext">Brookfield has policies and procedures to receive, 
+investigate and respond to any questions or concerns respecting this Privacy 
+Policy or the personal information that we hold. Individuals may contact the 
+Brookfield’s Privacy Officer with any questions or concerns or to request access 
+to their personal information. Specific Information about our Use and Disclosure 
+of Your Personal Information: </font>
+</p><p><font class="normaltext">The Kind of Information We Collect: </font>
+</p><p><font class="normaltext">Brookfield gathers and uses personal information as 
+described below. Providing us with your personal information is your choice; 
+however, we may not be able to provide you with certain products or services if 
+you do not provide us with certain information nor will we be able to fulfill 
+contractual obligations to third parties. For example, we may not be able to 
+contact you in an emergency at your place of residence if we do not have your 
+contact information away from your residence or if you withdraw your consent to 
+disclose your contact information to our Clients or their employees or 
+contractors who provide some of the products or services you have requested. 
+</font>
+</p><p><font class="normaltext">The nature of our relationship with you will determine 
+the kind of personal information we might ask for. </font>
+</p><p><font class="normaltext">Information that is typically required to provide you 
+and the Clients we service with our products and services includes, but is not 
+limited to: </font>
+</p><p><font class="normaltext">CONDOMINIUM UNIT OWNERS </font>
+</p><p><font class="normaltext">Name 
+
+<br>Address 
+
+<br>Phone Number(s) 
+
+<br>E-mail 
+Address 
+
+<br>Name of Mortgagee on the unit 
+
+<br>Bank Account Number 
+
+<br>Persons 
+Residing with you 
+
+<br>Address of Seasonal Property 
+
+<br>Other Phone Number 
+
+
+<br>Name of Emergency Contact and Contact Information 
+
+<br>Vehicle Information 
+Including License Plate Number 
+
+<br>Any Special Needs of Owners 
+
+<br></font>
+</p><p><font class="normaltext">TENANTS </font>
+</p><p><font class="normaltext">Name 
+
+<br>Address 
+
+<br>Phone Number(s) 
+
+<br>Social 
+Insurance Number 
+
+<br>Employment Status 
+
+<br>Credit History 
+
+<br>Past Tenancy 
+History 
+
+<br>Bank Account Number 
+
+<br>Income 
+
+<br>Co-occupant Information (name, 
+date of birth, relationship to prospective tenant) 
+
+<br>Vehicle Information 
+Including License Plate Number 
+
+<br>Intended Use of Premises 
+
+<br>Any Special 
+Needs of Tenants 
+
+<br></font>
+</p><p><font class="normaltext">In addition, information other than as set out in the 
+definition of personal information (above), may also be collected from time to 
+time. </font>
+</p><p><font class="normaltext">SPECIAL NOTE FOR TENANTS OR PROSPECTIVE TENANTS ONLY 
+</font>
+</p><p><font class="normaltext">Brookfield subscribes to a consumer reporting service. 
+This service provides information to Brookfield about prospective tenants. In 
+return, on behalf of our Clients, we provide information to the service for the 
+purpose of assessing your credit worthiness and checking references. We obtain 
+your consent for using the consumer reporting service in the rental application 
+form. If you have an existing tenancy agreement with us and you wish to renew 
+the agreement, it is assumed that the consent you gave to us when signing the 
+tenancy agreement remains in effect. If you sign an application to rent for your 
+family or anyone else, you are representing that you have obtained their consent 
+for the collection , use and disclosure of their personal information for the 
+purposes set out in this Policy. </font>
+</p><p><font class="normaltext">When Do We Disclose or Share Your Personal 
+Information? </font>
+</p><p><font class="normaltext">(i) When Authorized By You </font>
+</p><p><font class="normaltext">Many of the services offered by Brookfield and/or its 
+Clients require us to obtain personal information about you in order to perform 
+the services we have been engaged by you to provide. We will use and disclose 
+this information to provide programs to meet your needs and objectives. </font>
+</p><p><font class="normaltext">ii) To Brookfield’s Clients, their Employees and 
+Agents </font>
+</p><p><font class="normaltext">We act as agents for our condominium corporations and 
+landlords. Thus, we may periodically share or transfer any personal information 
+we collect relevant to a particular Individual with that Client or with that 
+Client’s employees, third party suppliers or contractors. Out Clients use a 
+number of employees, third party service providers, consultants and other agents 
+that may in the course of their duties have limited access to personal 
+information we retain. These include building superintendents, maintenance 
+staff, recreation centre attendants, concierge, security staff, housekeeping 
+staff, consultants, temporary employees or employees of third party suppliers, 
+auditors, lawyers and others. We restrict their access to any personal 
+information we hold except to the extent necessary for them to reasonably 
+perform their role on behalf of our Client. The purpose of disclosing personal 
+information to our Clients or their agents and employees is to ensure an 
+Individual’s safety, security and reasonable enjoyment of their place of 
+residence, to ensure Individuals have access to their premises and services that 
+our Clients have agreed to provide, to preserve our Client’s property and to 
+collect monies owing to those Clients for the provision of services to 
+Individuals. Suppliers and Client employees are contractually bound to protect 
+the confidentiality of your personal information, and they are prohibited from 
+doing anything with this information that we have not authorized them to do. 
+They are required to treat your personal information in a manner consistent with 
+the Brookfield Privacy Policy.</font> 
+</p><p><font class="normaltext">Suppliers and Client employees are contractually bound 
+to protect the confidentiality of your personal information, and they are 
+prohibited from doing anything with this information that we have not authorized 
+them to do. They are required to treat your personal information in a manner 
+consistent with the Brookfield Privacy Policy </font>
+</p><p><font class="normaltext">(iii) When Required or Permitted By Law </font>
+</p><p><font class="normaltext">The type of information we are legally required to 
+disclose usually relates to government tax reporting requirements. However in 
+some cases, such as under a court order, we may be required to disclose certain 
+information to persons specified in the court order. We will only provide the 
+specific information requested and only upon being satisfied that the 
+authorities have legitimate grounds to obtain the information. Brookfield may 
+also disclose information without your consent when permitted by law including 
+in situations involving medical emergencies, collection of a debt and suspicion 
+of illegal activities. </font>
+</p><p><font class="normaltext">Web Site (Security) </font>
+</p><p><font class="normaltext">In order to serve you better, Brookfield Clients have 
+access to certain information through its web site www.brookfieldresidential.com 
+which provides general information about the Company and the products and 
+services it offers. </font>
+</p><p><font class="normaltext">Brookfield is committed to your privacy and strives to 
+ensure that any information you access or provide through this site remains 
+secure. </font>
+</p><p><font class="normaltext">Anonymous Information </font>
+</p><p><font class="normaltext">Brookfield may collect anonymous information about 
+you. This means that the information collected cannot be traced back to a 
+specific person. For example, our web servers may record certain information 
+automatically when you visit our web site. This information is collected using 
+“cookies” and might include the pages you visited, your Internet Protocol 
+address and other site usage statistics. This anonymous information is used for 
+research and analytical purposes only (ie. evaluating how many visitors our web 
+sites receive or which pages they visit most often). It does not reveal any 
+personal information about you, the user. This aggregate data may be disclosed 
+to third parties, but never with personally identifying information. </font>
+</p><p><font class="normaltext">Contact Information (Questions, Concerns and 
+Complaints) </font>
+</p><p><font class="normaltext">If you have any questions or concerns about your 
+personal information, or about the Brookfield Homes Privacy Policy, please 
+contact our Privacy Officer using the contact information below: </font>
+</p><p><font class="normaltext">Contact Information: Privacy Officer, Brookfield 
+Homes, 181 Bay Street, Suite 330, P.O. Box 763, Toronto, ON, M5J 2T3; (e-mail) 
+privacyofficer@brookfieldhomes.com </font></p></li>
+			            	</td>
+					<!--content text ends here-->
+			            <td><!-- leave this blank--></td>
+
+			        </tr>
+			        <tr>
+			           	 <td height="35"><!-- do not remove this td --> </td>
+			            	 <td><!-- do not remove this td --> </td>
+
+			        </tr>
+			 </tbody></table>
+	       <!--design1header ends here-->
+
+	     </td></tr></tbody></table>
+</td><td width="1%"></td></tr></tbody></table></td></tr>
+</tbody></table>
+
+				<!--Translate section starts-->
+					
+					<table border="0" id="translateTable" align="right" cellpadding="1" cellspacing="1" class="transbox">
+  						<tbody><tr>
+  						 <td width="117"> 
+							<select id="select" name="select" class="formddtext" tabindex="1" style="z-index:100;">
+      							<option value="zh">Chinese (Simple)</option>
+							<option value="zt">Chinese (Trad.)</option>
+      							<option value="ko">Korean</option>
+      							<option value="es">Spanish</option>
+      							<option value="de">German</option>
+      							<option value="ja">Japanese </option>
+      							<option value="fr">French</option>
+      							<option value="it">Italian</option>
+      							<option value="pt">Portuguese</option>
+      							<option value="ru">Russian</option>
+							<option value="en">English</option>
+    						</select> &nbsp;</td>
+    						<td width="112"><input type="submit" name="Submit" value="Translate Web Page" class="formbutton" onclick="fun2()" tabindex="2/"></td> 
+  						</tr>
+					</tbody></table>
+					
+			<!--Translate section ends--> 
+	<!-- Layout ends here-->
+
+	</td>
+
+    <td width="50" valign="top">&nbsp;</td>
+  </tr>
+  
+
+  <tr>
+    <td colspan="3" valign="bottom">
+    <table border="0" width="100%" cellspacing="0" cellpadding="0" valign="bottom">
+      <tbody><tr>
+	  <!-- bottom links goes here -->
+       <td width="12%" align="left" valign="bottom">
+	       <a class="bottomlinks" href="ctm_displaypage.asp?page=HOME&amp;PageGroup=CORPHOME&amp;flag=-1">
+	       <img src="CorpInnerStyle/bottomlink_home.jpg" width="93" border="0"></a></td>
+       
+        <td id="tdAboutUs" width="12%" align="left" valign="bottom" onmouseover="toggle('spanAboutUs','SHOW')" onmouseout="toggle('spanAboutUs','HIDE')">
+	      <a class="bottomlinks" href="ctm_displaypage.asp?page=AbUs&amp;PageGroup=CORPINNER&amp;flag=-1">
+	       <img src="CorpInnerStyle/bottomlink_aboutus.jpg" width="93" border="0"></a><div id="spanAboutUs" style="z-index:100;position:absolute;display:none;valign:bottom;">
+       			<table border="0" cellpadding="2" cellspacing="0" style="border-top:1px solid #000000;border-left:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;">
+       				<tbody><tr><td class="SubMenuItems" width="98" height="12" onmouseover="style.backgroundColor='#e0e0e0';" onmouseout="style.backgroundColor='#ffffff';">
+       					<a style="text-decoration:none;" href="ctm_displaypage.asp?page=AbUs&amp;PageGroup=CORPINNER&amp;flag=-1">About Us</a>
+       				</td></tr>
+       				<tr><td class="SubMenuItems" width="98" height="12" onmouseover="style.backgroundColor='#e0e0e0';" onmouseout="style.backgroundColor='#ffffff';">
+       					<a style="text-decoration:none;" href="ctm_displaypage.asp?page=ManaTeam&amp;PageGroup=CORPINNER&amp;flag=-1">Management Team</a>
+       				</td></tr>
+       				<tr><td class="SubMenuItems" width="98" height="12" onmouseover="style.backgroundColor='#e0e0e0';" onmouseout="style.backgroundColor='#ffffff';">
+       					<a style="text-decoration:none;" href="ctm_displaypage.asp?page=PrPolicy&amp;PageGroup=CORPINNER&amp;flag=-1">Privacy Policy</a>
+       				</td></tr>
+       			</tbody></table>
+       		</div></td>
+	     
+              
+        <td width="12%" align="left" valign="bottom">
+        	<a class="bottomlinks" href="ctm_displaypage.asp?page=Cont&amp;PageGroup=CORPHOME&amp;flag=-1">
+        	<img src="CorpInnerStyle/bottomlink_contactus.jpg" width="93" border="0"></a></td>
+		
+		<!-- bottom links ends here -->
+
+        <td width="12%" align="left" valign="bottom"><img src="CorpInnerStyle/bottomlink_01.jpg" width="93" height="10"></td>
+        <td width="45%" align="left" valign="bottom"><img src="CorpInnerStyle/bottomlink_02.jpg" width="373" height="13"></td>
+        <td width="7%" align="left" valign="bottom"><img src="CorpInnerStyle/transperant.gif" width="105" height="10"></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+  <!-- footertext goes here -->
+    <td colspan="3" align="right" valign="middle" class="footertext">Copyright @ 2007 BROOKFIELD Residential Services Ltd.</td>
+	  <!-- footertext ends here -->
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+</body></html>
