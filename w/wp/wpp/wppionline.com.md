@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406182053id_/http%3A//www.wppionline.com/membership/index.taf%3F_function%3Dprivacy%26_UserReference%3D42C9284B46EB13714634AD6B1F8F47F5D142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929101706id_/http%3A//www.wppionline.com/membership/index.taf%3F_function%3Dprivacy%26_UserReference%3D42C9284A46EBADE6C93C0D89114F48E02531) for the most accurate reproduction.*
 
 # WPPI - Membership
 
@@ -28,7 +28,7 @@ If you do not wish to receive future offers or information from us, you may opt 
 
 If you would like to change or update your current data (e.g., your e-mail address) in our database, simply e-mail subscriptions@rfpublishing.com and we will take quick action. 
 
-If you are having problems removing yourself from our database via the automated link, please e-mail subscriptions@rfpublishing.com or call us at 310-451-8506 ext 320 and we will manually remove you from our database. 
+If you are having problems removing yourself from our database via the automated link, please e-mail subscriptions@rfpublishing.com or call us at 310-846-4940 ext 320 and we will manually remove you from our database. 
 
 **Links to Other Web Sites**
 
@@ -48,4 +48,4 @@ Rangefinder Publishing may add to, change or remove any part of this Privacy Pol
 
 **Contacting Us**
 
-Any and all questions regarding this Privacy Policy should be directed to subscriptions@rfpublishing.com or via mail to Rangefinder Publishing, 1312 Lincoln Blvd., Santa Monica, CA 90401, 310-451-8506. 
+Any and all questions regarding this Privacy Policy should be directed to subscriptions@rfpublishing.com or via mail to Rangefinder Publishing, 6059 Bristol Parkway, Suite 100, Culver City, CA 90230 USA, 310-846-4940. 
