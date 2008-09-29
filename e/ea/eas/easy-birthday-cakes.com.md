@@ -1,70 +1,158 @@
-> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827134117id_/http%3A//easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929050044id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Easy Birthday Cakes Privacy Policy
+# Easy-Birthday-Cakes.com Privacy Policy
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+We recognize that your privacy is important. This document  
+outlines the types of personal information we receive and  
+collect when you use Easy-Birthday-Cakes.com, as well as some  
+of the steps we take to safeguard information. We hope this  
+will help you make an informed decision about sharing  
+personal information with us.
 
-We recognizes the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
+Easy-Birthday-Cakes.com strives to maintain the highest  
+standards of decency, fairness and integrity in all our  
+operations. Likewise, we are dedicated to protecting our  
+customers', consumers' and online visitors' privacy on our  
+website.
 
-**What Information Do We Collect?** When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+Personal Information
 
-**1\. Personal Information You Choose to Provide**
+Easy-Birthday-Cakes.com collects personally identifiable  
+information from the visitors to our website only on a  
+voluntary basis. Personal information collected on a  
+voluntary basis may include name, postal address, email  
+address, company name and telephone number.
 
-**Registration Information** When you register for any of our products, services or newsletters you will provide us information about yourself. 
+This information is collected if you request information  
+from us, participate in a contest or sweepstakes, and sign  
+up to join our email list or request some other service or  
+information from us. The information collected is internally  
+reviewed, used to improve the content of our website, notify  
+our visitors of updates, and respond to visitor inquiries.
 
-**Email Information** If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+Once information is reviewed, it is discarded or stored in  
+our files. If we make material changes in the collection of  
+personally identifiable information we will inform you by  
+placing a notice on our site. Personal information received  
+from any visitor will be used only for internal purposes and  
+will not be sold or provided to third parties.
 
-**2\. Web Site Use Information** Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+IP Addresses IP addresses are used by your computer every   
+time you are connected to the Internet. Your IP address is a   
+number that is used by computers on the network to identify   
+your computer. IP addresses are automatically collected by   
+our web server as part of demographic and profile data known   
+as traffic data so that data (such as the Web pages you request)   
+can be sent to you.
 
-**How Do We Use the Information That You Provide to Us?**
+Use of Cookies and Web Beacons
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+We may use cookies to help you personalize your online  
+experience. Cookies are identifiers that are transferred to  
+your computer's hard drive through your Web browser to  
+enable our systems to recognize your browser. The purpose of  
+a cookie is to tell the Web server that you have returned to  
+a specific page. For example, if you personalize the sites  
+pages, or register with any of our site's services, a cookie  
+enables Easy-Birthday-Cakes.com to recall your specific  
+information on subsequent visits.
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
+You have the ability to accept or decline cookies by  
+modifying your Web browser; however, if you choose to  
+decline cookies, you may not be able to fully experience the  
+interactive features of the site.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. 
+A web beacon is a transparent image file used to monitor  
+your journey around a single website or collection of sites.  
+They are also referred to as web bugs and are commonly used  
+by sites that hire third-party services to monitor traffic.  
+They may be used in association with cookies to understand  
+how visitors interact with the pages and content on the  
+pages of a web site.
 
-**What Are Cookies?** A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+We may serve third party advertisements (such as, but not   
+limited to Google Adsense) that use cookies and  
+web beacons in the course of ads being served on our web  
+site to collect information. 
 
-**How Do We Use Information We Collect from Cookies?** As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+Browsers can be set to accept or reject cookies or notify  
+you when a cookie is being sent. Privacy software can be  
+used to override web beacons. Taking either of these actions  
+shouldn't cause a problem with our site, should you so  
+choose.
 
-**IP Addresses** IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. 
+Children's Online Privacy Protection Act
 
-**Sharing and Selling Information** We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+This website is directed to adults; it is not directed to  
+children under the age of 13. We operate our site in  
+compliance with the Children's Online Privacy Protection  
+Act, and will not knowingly collect or use personal  
+information from anyone under 13 years of age.
 
-**How Can You Access and Correct Your Information?** You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
+Non-Personal Information
 
-**What About Legally Compelled Disclosure of Information?** We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+In some cases, we may collect information about you that is  
+not personally identifiable. We use this information, which  
+does not identify individual users, to analyze trends, to  
+administer the site, to track users' movements around the  
+site and to gather demographic information about our user  
+base as a whole.  The information collected is used solely  
+for internal review and not shared with other organizations  
+for commercial purposes.
 
-**What About Other Web Sites Linked to Our Web Site?** We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+Release of Information
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+If www.easy-birthday-cakes.com is sold, the information we have  
+obtained from you through your voluntary participation in  
+our site may transfer to the new owner as a part of the sale  
+in order that the service being provided to you may  
+continue. In that event, you will receive notice through our  
+website of that change in control and practices.
 
-**Your Consent** By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+Legally Compelled Disclosure of Information
 
-**Our Commitment To Data Security:**
+We may disclose information when legally compelled to do so,   
+in other words, when we, in good faith, believe that the law requires  
+it or for the protection of our legal rights. We may also disclose   
+account information when we have reason to believe that disclosing   
+this information is necessary to identify, contact or bring legal action  
+against someone who may be violating our Terms of Service or to   
+protect the safety of our users and the Public.
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+How You Can Correct or Remove Information
 
-**Choice/Opt-In/Opt-Out** This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible. 
+We provide this privacy policy as a statement to you of our  
+commitment to protect your personal information. If you have  
+submitted personal information through our website and would  
+like that information deleted from our records or would like  
+to update or correct that information, please use our [Contact Us](http://www.easy-birthday-cakes.com/contact-us.html) page.
 
-**Surveys & Contests **
+Updates and Effective Date
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+Easy-Birthday-Cakes.com reserves the right to make changes in  
+this policy. If there is a material change in our privacy  
+practices, we will post any changes here, so we encourage you to   
+periodically review this policy so that you will know what information   
+we collect and how we use it.  please be assured that if the Privacy Policy   
+changes in the future, we will not use the personal information you have   
+submitted to us under this Privacy Policy in a manner that is materially   
+inconsistent with this Privacy Policy, without your prior consent 
 
-**A Special Note About Children**
+Agreeing to Terms
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
+If you do not agree to Easy-Birthday-Cakes.com Privacy  
+Policy as posted here on this website, please do not use  
+this site or any services offered by this site.
 
-**Acquisition or Changes in Ownership**
+Your use of this site indicates acceptance of this privacy  
+policy.
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
+You may contact Easy-Birthday-Cakes.com through our "[Contact Us](http://www.easy-birthday-cakes.com/contact-us.html)" form  
+or you may send an e-mail to info [at] easy-birthday-cakes.com.
 
-**Policy Modifications** We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent 
+To contact Easy-Birthday-Cakes.com by mail, send correspondence to:
 
-[Return to **Easy Birthday Cakes Home**](http://www.easy-birthday-cakes.com/)
-
-[Site Map 1](http://easy-birthday-cakes.com/birthday-cake.html) | [Site Map 2](http://easy-birthday-cakes.com/birthday-cake-2.html) | [Site Map 3](http://easy-birthday-cakes.com/birthday-cake-3.html) | [Site Map 4](http://easy-birthday-cakes.com/birthday-cake-4.html) [Free Cake Decorating Ideas Newsletter](http://easy-birthday-cakes.com/cake-decorating-ideas.html)   
-
-
-[](http://www.sitesell.com/easy134.html)
+Attn:  Easy-Birthday-Cakes.com  
+143 Boardman-Canfield Rd.  
+# 114  
+Boardman, OH  44512
