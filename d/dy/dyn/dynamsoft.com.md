@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133137id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930090930id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
