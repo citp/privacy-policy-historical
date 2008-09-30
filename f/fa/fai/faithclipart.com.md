@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608010055id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001003228id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ If you have any questions or comments about our use of Personal Information, ple
 
 | 
 
-**All Suggestions, Billing and Site Questions:** [Contact@FaithClipart.com](mailto:contact@faithclipart.com)
+**All Suggestions, Billing and Site Questions:** [Contact@FaithClipart.com](mailto:contact@FaithClipart.com)
 
 **FaithClipart.com**  
 Letters and Arts, Inc.  
