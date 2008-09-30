@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221131404id_/http%3A//www.uktrainsim.com/privacy.php%3FCUTHERE%3D12aedd9927900c77e03ea709065a557d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930194940id_/http%3A//www.uktrainsim.com/privacy.php%3FCUTHERE%3D4f7642df48cb81eff67233167bd232f6) for the most accurate reproduction.*
 
 # UKTrainSim
 
 **Options** _(see also the menu on the left)_  
 ---  
-  
-**Quick Picks** _(commonly requested or needed files)_  
----  
-  
-Visit the UKTrainSim [Route Registry](https://web.archive.org/web/20051221131404id_/http%3A//www.uktrainsim.com/routeregistry/?CUTHERE=12aedd9927900c77e03ea709065a557d) to find out anything you want to know about routes available for MSTS  Hereafter, the following definitions will be used to simplify the following document
+Visit the UKTrainSim [Route Registry](https://web.archive.org/web/20080930194940id_/http%3A//www.uktrainsim.com/routeregistry/?CUTHERE=4f7642df48cb81eff67233167bd232f6) to find out anything you want to know about routes available for MSTS  Hereafter, the following definitions will be used to simplify the following document
 
 **'We', 'Us'** \- Refers to us, Atomic Systems IP Ltd.  
 **'You'** \- Refers to you, the user accessing a resource or service owned or operated by Atomic Systems IP Ltd.  
