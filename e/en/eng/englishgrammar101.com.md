@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618063953id_/http%3A//englishgrammar101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930094712id_/http%3A//englishgrammar101.com/Privacy.aspx) for the most accurate reproduction.*
 
 # English Grammar 101 (Privacy Policy)
 
@@ -6,7 +6,7 @@ An instructional
 program from  
 [Systems in Learning](http://systemsinlearning.com/)
 
-  Our Eighth  
+  Our Ninth  
 Year Online 
 
  
