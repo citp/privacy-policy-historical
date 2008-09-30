@@ -1,68 +1,55 @@
-> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201713id_/http%3A//www.jny.com/privacy.jsp%3Fevent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930173154id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Jones Apparel Group, Inc.
+# Jones New York
 
-JNY.com is the official corporate website for Jones Apparel Group, Inc. Jones Apparel Group has instituted policies and practices intended to ensure that your personal information as provided to or collected by JNY.com is handled in a secure manner that respects and protects your privacy. The JNY.com privacy policy applies to the JNY.com website. Please refer to the respective privacy policies contained on other websites for which JNY.com may provide links, including websites which are operated or controlled by affiliates or brands of Jones Apparel Group.
+This jny.com web site is a service of Jones Retail Corporation. 
 
-Any changes to our JNY.com privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by JNY.com. Our JNY.com privacy policy was lasted updated on December 9, 2004.
+Jones New York respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled in a responsible manner. Our online privacy policy describes the types of personal information we may collect from you when you visit our websites or our stores, how we use this information, and when we share it with third parties or our affiliated brands. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by Jones New York. 
 
-**Frequently Asked Questions**
+Our policy was last updated on August 13, 2008.
 
-What information does JNY.com collect?  
-How does JNY.com use this information?  
-How can you access your information?  
-How does JNY.com protect your information?  
-Does JNY.com disclose your information to others?  
-How does JNY.com protect a child's privacy?  
-Does JNY.com use "cookies"?  
-Does JNY.com have links to other web sites?  
-Copyright and Trademark Notice
+Jones New York collects data that you provide to our sales associates in our company-owned Jones New York stores and outlets and the stores and outlets of our affiliated brands (including Nine West, Bandolino, Kasper, Easy Spirit, and Anne Klein); on jny.com and the websites of our affiliated brands through transactions, email registration, sweepstakes, contests, or online membership; or through phone, mail and fax interactions or paper registrations that you submit. 
 
-**What information does JNY.com collect?**
+Jones New York may collect and store two types of information: "personal information" and "automatic information." 
 
-JNY.com collects data that you provide to JNY.com through email registration. 
+Personal information tells us who you are such as your name, gender, billing address, shipping address, email address, telephone number, date of birth or age, any personal preferences you choose to provide, transaction details such as style, size, price, discount, date, store, your credit card number and expiration date used for transactions, and an assigned password to protect your privacy. 
 
-This includes information such as your name, mailing address, email address, phone number and any personal preferences you choose to provide. 
+Automatic information is information that we collect automatically whenever you interact with this website such as your IP address, the type of computer you use, and the web browser you use. An IP address is a number assigned to your computer when you connect to the Internet. Each time you visit this site, our web server may automatically recognize and collect this information. Automatic information also includes "cookies" and "web beacons". A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Among other things, cookies provide a means for us to keep track of your online patterns and preferences. By understanding which areas of the site you visit, cookies allow us to present information, products and services that are of personal interest. A cookie will not allow us to learn any personal information (such as your real name and address) that you have not otherwise disclosed. Most browsers are initially set up to accept cookies. You can change your browser so that it will not automatically accept cookies. However, if you do so, it is possible that some portions of the site may not function as intended. "Web beacons", also known as clear GIFs or single-pixel GIFs, are small image files that we may place on web pages and within web-based email newsletters that we send. Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use web beacons to let us know how many people opened a web-based email newsletter. 
 
-JNY.com occasionally obtains email addresses of active JNY.com members or users who requested fashion emails on other websites. JNY.com also reserves the right to obtain publicly accessible customer demographics. 
+We may associate automatic information with your personal information. In the event of such association, such automatic information will be considered personal information. 
 
-**How does JNY.com use this information?**
+Finally, Jones New York occasionally obtains email addresses of active Jones New York store customers who requested fashion emails on other websites. Jones New York also reserves the right to obtain publicly accessible customer demographics. 
 
-JNY.com does not sell, rent or trade with third parties any personal information you provide to us. 
+Jones New York uses this information to confirm and process sales transactions or to contact you with questions or communications about your order, or to respond to your customer service inquiries. 
 
-JNY.com uses this information to contact you with questions or communications about Jones Apparel Group and its affiliates or brands, or to respond to your customer service, investor, job-related or general corporate inquiries. 
+Jones New York also uses this information to enhance and personalize your shopping experience, both online and in our stores, to communicate with you for marketing and promotional purposes via targeted postal pieces, phone messages, or personalized emails, and to improve the effectiveness of our websites and business activities. You may indicate your contact preferences regarding promotional communications either directly to us online or to customer service representatives. 
 
-JNY.com may also use this information to enhance and personalize your shopping experience in connection with Jones Apparel Group products and to communicate with you for marketing and promotional purposes via targeted postal pieces, phone messages, or personalized emails. 
+You may access and edit the information that you provide online by signing in at jny.com. You may access and edit the information that you provide online by signing in at jny.com. Simply click on the "[Sign In](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Login-Show)" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don't have/know my password?" or "I forgot my password" link at which time jny.com will email your password to the associated email address. Currently, we do not provide online access to information that you provided to Jones New York offline. But at any time you may request access to your information from our customer service representatives. 
 
-**How can you access your information?**
+Unfortunately, no data transmission over the Internet can be unconditionally guaranteed to be secure. Therefore any information you transmit to us is sent at your own risk. 
 
-Currently, we do not provide online access to information that you provide to JNY.com. You may ask JNY.com to remind you of the information that you have provided to JNY.com or request changes to the information that you have provided to JNY.com by sending a request to [customer_relations@jny.com](mailto:customer_relations@jny.com).
+However, when you place an order online, we use encryption technology, such as Secure Socket Layer Technology ("SSL"), to protect your personal information during data transport. SSL encrypts your order information, including your name, address, and credit card number, before it is transmitted to us to avoid the decoding of your information by anyone other than Jones New York. 
 
-**How does JNY.com protect your information?**
+In addition, when you create an online account on jny.com, you must select a personal password. As a member of Jones New York’s website, you will be able to view, among other things, your account profile, contact preferences, order history, address book. We store this type of information so that you do not have to reenter it each time you make a purchase or visit the website. Should you decide to become a member of Jones New York’s website, you will be asked to provide an accurate email address and create a password. In order to help protect your personal information, you should be careful about maintaining the secrecy of your password. 
 
-All information input by you and transmitted to our website when you provide personal information is protected by an encryption using Secure Socket Layer Technology ("SSL"). SSL encrypts your personal information before it is transmitted to us to avoid the decoding of your information by anyone other than JNY.com. 
+Jones Apparel Group, Inc. is the parent company for Jones New York. [Jones Apparel Group](http://www.jonesapparel.com/) maintains a single database of customer information for several brands owned by the Jones Apparel Group family of companies, including [Jones New York](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Home-Show), [Nine West](http://www.ninewest.com/), [Bandolino](http://www.bandolino.com/), [Kasper](http://www.kasper.com/), [Easy Spirit](http://www.easyspirit.com/) and [Anne Klein](http://www.anneklein.com/) brands. For each customer in this database, Jones Apparel Group maintains a separate set of contact preferences for each brand to which that customer has provided her customer information. When you establish or update your customer profile information with one of the Jones Apparel Group brands, whether through a purchase, registration or email sign-up at a company-owned or operated website, specialty store or outlet store for one of the Jones Apparel Group brands, through a customer service representative, or in any other communication you may have with us, we will update your customer record on the Jones Apparel Group database. We may disclose personal information to our affiliates (including, without limitation, our parent, Jones Apparel Group) that either are subject to this privacy policy or follow practices at least as protective as those described in this privacy policy. 
 
-**Does JNY.com disclose your information to others?**
+Except as described in this privacy policy, Jones New York does not sell, rent or trade with third parties any personal information you provide to us online or at our stores, nor do we share such information with third parties. We may disclose personal information about you to third parties who provide services to us and who agree to maintain the confidentiality of such information in accordance with this privacy policy and use the information only in connection with the services they provide. These third parties may provide a variety of services to us including, without limitation, assisting us in fulfilling your transactions and customer service inquiries, updating your customer information record in our database, deploying our promotional offers to you, or fulfilling your request to [unsubscribe](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Subscribe-Unsubscribe) from our email. We do not authorize those third parties to make any other use of your information. 
 
-JNY.com does not sell, rent or trade with third parties any personal information you provide to us, nor do we share such information with third parties except for the express purpose of assisting us in fulfilling or responding to your customer service, investor, job-related and/or general corporate inquiries, updating your personal information record in our database, deploying our promotional offers to you, or fulfilling your request to unsubscribe from our email. We do not authorize those third parties to make any other use of your information. 
+We may use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity. 
 
-JNY.com honors every request to unsubscribe from receipt of emails within ten (10) days of receiving the request, not only for promotional emails that JNY.com sends, but also for emails about JNY.com that we permit other companies to send to their own list of subscribers. As such, in compliance with the CAN-SPAM Act of 2003, JNY.com will provide to such companies the email address of anyone who has submitted to JNY.com an unsubscribe request, provided such company agrees not to disclose or use such email address for any other purpose than honoring your request to not receive JNY.com promotional emails. 
+We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [Conditions of Use](http://www.jny.com/Terms/TERMS,default,pg.html) or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities. 
 
-JNY.com reserves the right to use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity. 
+We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy. Also, in the unlikely event that assets of Jones New York are sold, personal information may be one of the transferred assets. 
 
-**How does JNY.com protect a child's privacy?**
+Yes. Jones New York honors requests to [unsubscribe](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Subscribe-Unsubscribe) from receipt of emails, not only for promotional emails that Jones New York sends, but also for emails about Jones New York that we permit other companies to send to their own list of subscribers. Please note that you may continue to receive emails from Jones New York until such requests become effective. 
 
-In keeping with the Children's Online Privacy Protection Act, JNY.com will never knowingly request personally identifiable information from any person under the age of 13, without first seeking prior verifiable parental consent. If we become aware that a user of our website is under the age of 13 and has provided an online registration without prior verifiable parental consent, we will remove that child's personal information from our files. 
+This site is a general audience web site. We do not intentionally collect personal information from children under the age of thirteen. If we become aware that we have collected personal information from a user of the site who is under the age of 13, we will remove that child's personal information from our files. 
 
-**Does JNY.com use "cookies"?**
+While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties. For more information, please read our [conditions of service policy](http://www.jny.com/Terms/TERMS,default,pg.html). 
 
-"Cookies" are small data files or small bits of information that are stored by your browser on your computer's hard drive when you visit our website so that we can recognize you. Cookies do not alter your hard drive in any way and cannot be used to access any personal information from your computer. They merely enable us to keep track of you as you browse on our website, maintain information about your use of our website, and help us recognize you when you visit our website again. We also use cookies to identify the website you visited immediately before visiting our website and we maintain this information through the use of cookies to enable us to evaluate and improve our website design. You can change your browser so that it will not automatically accept cookies. 
+We welcome your comments regarding this privacy policy. Please send any concerns to: 
 
-**Does JNY.com have links to other web sites?**
-
-There may be links on our website to the websites of others, including the websites of affiliates and brands of Jones Apparel Group. When you click onto one of these links, you are leaving Jones Apparel Group's JNY.com website and accessing another website. These other websites, if not the website of an affiliate or brand of Jones Apparel Group, are not under our control and may collect personal information from you. Our Privacy and Security Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](https://web.archive.org/web/20080629201713id_/http%3A//www.jny.com/tou.jsp?event=tou).
-
-Please send any concerns regarding our privacy policy to [legal@jny.com](mailto:legal@jny.com).
-
-  
-
+Jones New York Customer Relations Privacy Policy   
+1129 Westchester Avenue   
+White Plains, NY 10604 
