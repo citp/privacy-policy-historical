@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506101430id_/http%3A//www.yeticoolers.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001160203id_/http%3A//www.yeticoolers.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Yeti Coolers
 
