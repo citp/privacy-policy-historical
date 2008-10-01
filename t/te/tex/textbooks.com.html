@@ -1,172 +1,574 @@
-<!--The following is the downloaded HTML source of the textbooks.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615202610id_/http%3A//www.barnesandnoble.com/help/nc_privacy_policy.asp%3Fz%3Dy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the textbooks.com privacy policy that was archived on 2008-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081001223346id_/http%3A//www.textbooks.com/CustServ-Privacy.php%3FCSID%3DMQT0MOD0CKC0QDMCMMMU2OKM2%26hp%3D06-61Privacy-Policy) for the most accurate reproduction.-->
 
 <html><head>
-<title>Barnes&nbsp;&amp;&nbsp;Noble.com - Help Desk: Privacy Policy</title>
-<script language="Javascript"><!--//
-	/* Environment Values */
-	vc_webhost		= "www.barnesandnoble.com";
-	vc_shophost		= "cart2.barnesandnoble.com";
-	vc_imagehost	= "images.barnesandnoble.com";
-	vc_slinkprefix	= "z=y";
-//--></script>
-<script language="Javascript" src="http://images.barnesandnoble.com/pimages/js/visualcart_prodid.js"></script>
-<!-- Netscape 4x and below, IE 3  and MAC-->
-<link rel="stylesheet" type="text/css" href="http://images.barnesandnoble.com/css/general.css"><link rel="stylesheet" type="text/css" href="http://images.barnesandnoble.com/css/helpdesk_gen.css">
+	<title>Textbooks.com - Customer Service - Privacy Policy</title>
+	<meta name="keywords" content="Privacy, Policy, PRIVACY POLICY, POLICIES, textbooks.com, textbooks, used college textbooks, used textbooks, textbook buyback, half priced books, elementary textbooks, old textbooks, textbooks online, schoolbooks, english textbooks, biochemistry textbooks, math textbooks, psychology textbooks, used textbooks, social psychology textbooks, teaching textbooks, physical science textbooks, statistics textbooks, text books, textbook store, used books, discount textbooks, textbooks for sale, TEXTBOOKS.COM, TEXTBOOKS, USED COLLEGE TEXTBOOKS, USED TEXTBOOKS, TEXTBOOK BUYBACK, HALF PRICED BOOKS, ELEMENTARY TEXTBOOKS, OLD TEXTBOOKS, TEXTBOOKS ONLINE, SCHOOLBOOKS, ENGLISH TEXTBOOKS, BIOCHEMISTRY TEXTBOOKS, MATH TEXTBOOKS, PSYCHOLOGY TEXTBOOKS, USED TEXTBOOKS, SOCIAL PSYCHOLOGY TEXTBOOKS, TEACHING TEXTBOOKS, PHYSICAL SCIENCE TEXTBOOKS, STATISTICS TEXTBOOKS, TEXT BOOKS, TEXTBOOK STORE, USED BOOKS, DISCOUNT TEXTBOOKS, TEXTBOOKS FOR SALE, Textbooks.Com, Textbooks, Used College Textbooks, Used Textbooks, Textbook Buyback, Half Priced Books, Elementary Textbooks, Old Textbooks, Textbooks Online, Schoolbooks, English Textbooks, Biochemistry Textbooks, Math Textbooks, Psychology Textbooks, Used Textbooks, Social Psychology Textbooks, Teaching Textbooks, Physical Science Textbooks, Statistics Textbooks, Text Books, Textbook Store, Used Books, Discount Textbooks, Textbooks For Sale">
+	<meta name="description" content="The privacy policy for Textbooks.com">
+	<meta name="robots" content="index,follow">
+
+	<link rel="shortcut icon" href="http://www.textbooks.com/favicon.ico">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="/css/header_cat.css" rel="stylesheet" type="text/css">
+	<link href="/css/style_base.css" rel="stylesheet" type="text/css">
+	<link href="/css/checkout.css" rel="stylesheet" type="text/css">
+	<link href="/css/tb.css" rel="stylesheet" type="text/css">
+	<link href="/css/bb.css" rel="stylesheet" type="text/css">
+	<link href="/css/ln.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="/js/global.js"></script>
+	<script type="text/javascript" src="/js/search.js"></script>
+	<script language="javascript">
+		var sessId	= new String('MQT0MOD0CKC0QDMCMMMTQQDMA');
+	</script>
+	
+<!-- BEGIN FIRECLICK -->
+
+<!-- Fireclick Web Analytics - COPYRIGHT 1999-2006 - Please do not modify this code-->
+<script type="text/javascript">
+<!--
+function handle(){return true;}
+window.onerror=handle;
+var fc_host='www.textbooks.com';
+document.write('<scr'+'ipt '
++'src="'+((location.protocol=='http:')?'http:':'https:')
++'//a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
+function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
+var fcfn=window.onload;
+function fcco(){window.setTimeout("fcce();", 100);fcfn();}
+window.onload= null==fcfn ? fcce:fcco;
+// -->
+</script><script src="https://a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/script/www.textbooks.com"></script>
+<!-- Fireclick Web Analytics - COPYRIGHT 1999-2006 - Please do not modify this code-->
+<!--  END FIRECLICK  -->
+
+<!-- begin kowabunga -->
+<script language="JavaScript" src="/js/myap9.js"></script>
+<!--  end kowabunga  -->
+
+
+<script language="javascript">
+	// the current session's 'MINUTES TIL CART EXPIRES' value
+	var ShopMinutes	= new Number();
+
+	// list ISBNs currently in the cart
+	var ISBNList	= new String('');
+	var cartMsgAdd	= (ISBNList != '')?'Would you like to <a href=\'/Adv-Search.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA&isbn='+ISBNList+'\' class=tb>try to reload your cart</a>?<br>':'';
+
+	// do we need the timer?
+	var FireCartTmr	= false;
+
+	// for use w/ timer
+	var cartUpdateTimer	= null;
+
+	// do we need alerts?
+	var doCartAlert	= true;
+
+	/**
+	 * updateCartTimer will continue to update the cart display to keep the customer
+	 * informed of the current time left to checkout. It will also update the color of
+	 * the countdown timer minutes stop-light style, breaking out TB's 45 minute time limit into
+	 * 3 sections, 45-31 minutes = green, 30-16 minutes = yellow, and 15-1 minute = red.
+	 * If the cart reaches 0, we will offer (in the message, not an alert/confirm) them the option
+	 * of reloading the items in their cart using the MultiAdd feature of Advanced Search.
+	 * At 5 minutes, and 5 minutes ONLY (not every minute under 5) we will do a client side
+	 * alert to be a little pro-active.
+	 */
+
+	function updateCartTimer() {
+		var expMinutes		= new Number(0); // 0 minutes
+		var alertMinutes	= new Number(5); // 5 minutes
+		var msgReplace		= new String('cartMinutes');
+	// stuff to do?
+		if (!FireCartTmr)
+			return;
+	// clear out old timer if needed; only needed when calls to this function
+	// are user-invoked, and not self-invoked by this function so that only 1
+	// timer is ever running
+		if (cartUpdateTimer != null)
+			clearTimeout(cartUpdateTimer);
+
+	// set up cart timer text color and message
+		var TimerColor	= (ShopMinutes <= 45 && ShopMinutes >= 31)?'#00aa00':((ShopMinutes <= 30 && ShopMinutes >= 16)?'#aaaa00':'#ad1000');
+		var CartMsg	= (ShopMinutes > expMinutes)?String(ShopMinutes)+' more minute'+((ShopMinutes > 1)?'s':''):'Your shopping cart has expired.<br>'+cartMsgAdd+'<a href=/CustServ-HowToShop.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA#co class=tb>Why did my cart expire?</a>';
+		msgReplace	= (ShopMinutes <= expMinutes)?'HeadNote':msgReplace;
+
+	// perform updates
+
+		document.getElementById(msgReplace).style.color	= TimerColor;
+		document.getElementById(msgReplace).innerHTML	= CartMsg;
+
+	// alert them at 5 minutes
+		if (ShopMinutes == alertMinutes)
+			doCheckoutNow();
+
+	// alert them at 0 minutes
+		if (ShopMinutes == expMinutes && ISBNList != '')
+			attemptColdCartReload();
+
+	// deduct from minutes
+		ShopMinutes--;
+
+	// fire again in a minute if needed
+		if (ShopMinutes >= 0)
+			cartUpdateTimer = setTimeout('updateCartTimer()',60000);
+	}
+
+	/**
+	 * doCheckoutNow will ask a person if they want to check out right now.
+	 */
+	function doCheckoutNow() {
+		if (doCartAlert && confirm('Your cart will expire in '+ShopMinutes+' minutes! Would you like the checkout now?\n\nClick \'Ok\' to checkout, or \'Cancel\' to continue browsing.'))
+			document.location.href = 'https://www.textbooks.com/checkout.php?ACTION=checkout&CSID=MQT0MOD0CKC0QDMCMMMTQQDMA';
+	}
+
+	/**
+	 * attemptColdCartReload will try to reload a person's cart once it's expired
+	 */
+	function attemptColdCartReload() {
+		if (doCartAlert && confirm('Your cart has expired; Would you like to see if the books you wanted are still in stock?\n\nFor more information on why this happened, please visit the \'shopping and checkout\' section of Help.\n\nClick \'Ok\' to search, or \'Cancel\' to continue browsing.'))
+			document.location.href = '/Adv-Search.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA&ccr=1&isbn='+ISBNList;
+	}
+</script>
 
 </head>
-<body bgcolor="#FFFFFF" text="#000000" link="#003399" alink="#8888AA" vlink="#663366" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0" marginheight="0"><link rel="STYLESHEET" type="text/css" href="http://images.barnesandnoble.com/css/navbar_06.css"><table width="726" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td width="479" height="13"><table width="479" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="479" colspan="4"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="479" height="13" alt=""></td></tr><tr><td width="10" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="10" height="1" alt=""></td><td width="217" valign="TOP"><a href="http://www.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/logo_bn05.gif" width="210" height="44" border="0" alt="Barnes &amp; Noble.com - www.bn.com"></a></td><td width="242" valign="TOP"></td><td width="10"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="10" height="1" alt=""></td></tr></tbody></table></td><td width="237" valign="TOP" align="RIGHT" rowspan="2"><table width="237" cellpadding="0" cellspacing="0" border="0"><script language="Javascript" src="http://images.barnesandnoble.com/pimages/js/navbar.js"></script><script language="Javascript"><!--//
-							vc_total_qty = "0";
-							vc_total_price = "";
-						//--></script><tbody><tr><td width="57" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="57" height="1" alt=""></td><td width="5" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="5" height="1" alt=""></td><td width="95" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="95" height="1" alt=""></td><td width="5" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="5" height="1" alt=""></td><td width="75" height="1"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="75" height="1" alt=""></td></tr><tr><td width="57" height="25" rowspan="2"><a href="http://cart2.barnesandnoble.com/shop/op.asp?step=fullCart&amp;UIAction=editCart&amp;z=y"><img border="0" alt="Cart" src="http://images.barnesandnoble.com/gresources/navbar/vcart_icon_cart.gif"></a></td><td width="5" height="24" bgcolor="#FEFAEA"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="5" height="24" alt=""></td><td width="95" height="24" bgcolor="#FEFAEA" valign="MIDDLE" align="CENTER" class="vcart"><nobr><script language="Javascript"><!--//
-									visualcart_WriteVCartTotal();
-								//--></script><noscript>
-											0 Items
-										</noscript></nobr></td><td width="5" height="24" bgcolor="#FEFAEA"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="5" height="24" alt=""></td><td width="71" height="25" rowspan="2"><a href="http://cart2.barnesandnoble.com/shop/op.asp?step=fullCart&amp;UIAction=editCart&amp;z=y"><img border="0" alt="Checkout" src="http://images.barnesandnoble.com/gresources/navbar/vcart_btn_checkout.gif"></a></td></tr><tr><td width="105" height="1" colspan="3"><img border="0" alt="" src="http://images.barnesandnoble.com/gresources/navbar/vcart_topbot_rule.gif"></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" align="CENTER"><tbody><tr><td colspan="8"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="57" height="8" alt=""></td></tr><tr><td><a href="http://cart2.barnesandnoble.com/account/op.asp?step=mainStage&amp;z=y" class="servicenav"><img src="http://images.barnesandnoble.com/gresources/navbar/admin_account.gif" width="45" height="7" border="0" alt="Account"></a><img border="0" alt="|" src="http://images.barnesandnoble.com/gresources/navbar/admin_colon.gif"><a href="https://cart2.barnesandnoble.com/account/op.asp?step=orderStatus&amp;z=y" class="servicenav"><img src="http://images.barnesandnoble.com/gresources/navbar/admin_orderstatus.gif" width="70" height="7" border="0" alt="Order Status"></a><img border="0" alt="|" src="http://images.barnesandnoble.com/gresources/navbar/admin_colon.gif"><a href="http://cart2.barnesandnoble.com/account/op.asp?step=wishList&amp;UIAction=viewWishList&amp;z=y" class="servicenav"><img src="http://images.barnesandnoble.com/gresources/navbar/admin_wishlist.gif" width="49" height="7" border="0" alt="Wish List"></a><img border="0" alt="|" src="http://images.barnesandnoble.com/gresources/navbar/admin_colon.gif"></td></tr><tr><td colspan="8"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="10" height="7" alt=""></td></tr><tr><td colspan="8"><a href="http://www.barnesandnoble.com/help/help.asp?z=y" class="servicenav"><img src="http://images.barnesandnoble.com/gresources/navbar/admin_help.gif" width="28" height="7" border="0" alt="Help"></a><img border="0" alt="|" src="http://images.barnesandnoble.com/gresources/navbar/admin_colon.gif"><a href="http://www.barnesandnoble.com/help/po_about_shipping.asp?z=y" class="servicenav"><img src="http://images.barnesandnoble.com/gresources/navbar/admin_aboutshipping.gif" width="79" height="7" border="0" alt="About Shipping"></a></td></tr></tbody></table></td></tr><tr><td width="726" colspan="3"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="426" height="10" alt=""></td></tr></tbody></table><table width="771" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td width="771" height="1" colspan="3"><a href="#skipmainnav"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="0" height="0" border="" alt="Skip Main Navigation Links"></a></td></tr><tr><td width="771" colspan="3"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_home_cold.gif" width="38" height="31" border="0" alt="Home"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/bookstore.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_books_cold.gif" width="43" height="31" border="0" alt="Books"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/used/search.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_usedoop_cold.gif" width="65" height="31" border="0" alt="Used &amp; Out Of Print"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/textbooks/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_textbooksonly_cold.gif" width="67" height="31" border="0" alt="Textbooks"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://video.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_dvd_cold.gif" width="39" height="31" border="0" alt="DVD"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://music.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_music_cold.gif" width="39" height="31" border="0" alt="Music"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://videogames.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_videogames_cold.gif" width="61" height="31" border="0" alt="PC &amp; Video Games"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/subjects/children/children.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_kids_cold.gif" width="65" height="31" border="0" alt="Children's"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/toys/toys_cds2.asp?PID=9304&amp;z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_toysgames_cold.gif" width="43" height="31" border="0" alt="Toys &amp; Games"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/gifts/giftcenter_cds2.asp?pid=3880&amp;z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_gifts06_cold.gif" width="43" height="31" border="0" alt="Gifts"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/gc/gcbuynow2.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_giftcards_cold.gif" width="43" height="31" border="0" alt="Gift Cards"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://www.barnesandnoble.com/membership/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_membership_cold.gif" width="71" height="31" border="0" alt="B&amp;N Member Program"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""><a href="http://university.barnesandnoble.com/index.asp?z=y"><img src="http://images.barnesandnoble.com/gresources/navbar/tab_bnu06_cold.gif" width="65" height="31" border="0" alt="B&amp;N University"></a><img src="http://images.barnesandnoble.com/gresources/navbar/tab_pipe.gif" width="1" height="31" border="0" alt=""></td></tr></tbody></table></td></tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#4A634C"><tbody><tr><td width="100%" align="LEFT" class="menu"><font size="-2">&nbsp;</font></td></tr></tbody></table><table width="100%" height="28" cellpadding="0" cellspacing="0" border="0" bgcolor="#CCCC99"><tbody><tr><td width="100%" align="LEFT" class="qsearch"><a name="skipmainnav"></a><a name="skipsearchbar"></a><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><form action="/include/quicksearch.asp?z=y" method="POST"></form><td valign="MIDDLE"><input type="HIDDEN" name="page" value="/help/cds2.asp"></td><td valign="MIDDLE"></td><td valign="MIDDLE"><input type="HIDDEN" name="prod" value="univ"></td><td valign="MIDDLE"><img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="10" height="7" border="0" alt=""></td><td valign="MIDDLE"><select name="choice"><option value="book" selected="YES">Books</option><option value="music">Music</option><option value="video">DVD</option><option value="oop">Used &amp; Out of Print</option><option value="kids">Children</option><option value="toys">Toys &amp; Games</option><option value="videogames">PC &amp; Video Games</option><option value="gifts">Gifts</option><option value="calendars">Calendars</option><option value="textbook">Textbooks</option><option value="bargain">Sale Annex</option><option value="audio">Audiobooks</option><option value="poster">Prints &amp; Posters</option><option value="isbn">ISBN</option></select>&nbsp;</td><td valign="MIDDLE">&nbsp;<input type="TEXT" name="query" size="19" value="" maxlength="125">&nbsp;&nbsp;&nbsp;</td><td valign="MIDDLE"><input type="IMAGE" src="http://images.barnesandnoble.com/gresources/navbar/qsearch4_search.gif" name="Search" width="49" height="13" alt="Search" border="0"></td></tr></tbody></table></td></tr></tbody></table><!--replaces starttan-->
-<table width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr valign="TOP">
-		<td valign="TOP" width="135">
-		<table width="135" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td valign="TOP" width="126">
-<!--end starttan replacement-->
-		</td>
-		<td bgcolor="#FFFFFF"><img src="http://a1055.g.akamai.net/f/1055/979/5h/www.barnesandnoble.com/gresources/cleardot.gif" width="4" height="1" alt=""></td>
-		<td width="1"><img src="http://a1055.g.akamai.net/f/1055/979/5h/www.barnesandnoble.com/gresources/cleardot.gif" width="1" height="1" alt=""></td>
-	</tr>
-	
-</tbody></table>
-<a name="skipleftnav"></a>
-
-		</td>
-		<td><img src="http://a1055.g.akamai.net/f/1055/979/5h/www.barnesandnoble.com/gresources/gutter_default.gif" width="" height="1" border="0" alt=""></td>
-		<td width="98%" valign="TOP"><img src="http://a1055.g.akamai.net/f/1055/979/5h/www.barnesandnoble.com/gresources/cleardot.gif" width="275" height="1" alt=""><br>
-
-<br>
-
-<!-- Date built: 4/29/2005 4:07:52 PM --><table width="235" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td width="10"><img width="10" alt="" border="0" height="2" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td width="225"><table width="225" class="rnavbgcolor" cellspacing="0" cellpadding="0" border="0"><tbody><tr class="rnavHDbgcolor"><td colspan="4" class="rnavHDbgcolor"><img width="7" alt="" border="0" height="2" src="http://images.barnesandnoble.com/gresources/cleardot.gif"><br><img width="2" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"><font class="RightNavHead">For New Customers</font><img width="7" alt="" border="0" height="7" src="http://images.barnesandnoble.com/gresources/cleardot.gif"><br><img width="7" alt="" border="0" height="3" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8100&amp;z=y&amp;cds2Pid=8376&amp;linkid=463269">Top Ten Reasons to Shop at Barnes &amp; Noble.com</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8101&amp;z=y&amp;cds2Pid=8376&amp;linkid=463270">Frequently Asked Questions</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8102&amp;z=y&amp;cds2Pid=8376&amp;linkid=463271">Frequently Asked Questions (En&nbsp;Español)</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8104&amp;z=y&amp;cds2Pid=8376#safeshoppingguarantee">Safe Shopping Guarantee</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8104&amp;z=y&amp;cds2Pid=8376&amp;linkid=463272">Privacy &amp; Security Policies</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8105&amp;z=y&amp;cds2Pid=8376&amp;linkid=463273">Email Help</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8106&amp;z=y&amp;cds2Pid=8376&amp;linkid=463274">Search Tips</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8107&amp;z=y&amp;cds2Pid=8376&amp;linkid=463275">Help with RealAudio</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8108&amp;z=y&amp;cds2Pid=8376&amp;linkid=463276">Help with Windows Media Player</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="12" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/help.asp?z=y&amp;cds2Pid=8376&amp;linkid=463277">Back to Help Desk</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td><img width="1" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td><td valign="TOP"><img width="4" alt="" border="0" height="4" vspace="6" hspace="4" src="http://images.barnesandnoble.com/pImages/gresources/bullet.gif"></td><td valign="TOP" width="90%"><font class="RightNavList"><a href="http://www.barnesandnoble.com/help/customer_service/index.asp?z=y&amp;cds2Pid=8376&amp;linkid=463278">Customer Service</a></font></td><td><img width="5" alt="" border="0" height="1" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="6" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr><tr><td colspan="4"><img width="4" alt="" border="0" height="10" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr></tbody></table></td></tr><tr><td colspan="2"><img width="4" alt="" border="0" height="10" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td></tr></tbody></table><!-- PID:8104 Start page:1 Date built:3/24/2006 7:29:36 PM --><a name="1"></a><font class="F1Head"><a href="http://www.barnesandnoble.com/help/help.asp?z=y&amp;cds2Pid=8104">Help Desk</a>: Barnes &amp; Noble.com Privacy and Security Policies</font><br><hr size="1">
-<font class="Copy">The Privacy Policy and Security Policy were revised on August 4, 2004. <a href="http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&amp;cds2Pid=8104">Click&nbsp;here</a> to see what changes were made.<br>&nbsp;<br>
-<hr size="1">
-<a name="privacy"></a><font face="arial, helvetica, sans-serif" color="#990000" size="+1">Privacy Policy</font> <br>&nbsp;<br>This Privacy Policy covers what information we collect from you when you visit the Barnes &amp; Noble.com site, how we use it, and under what circumstances we disclose it. By using the Barnes &amp; Noble.com site, you agree with the terms and conditions of this Privacy Policy and <a href="http://www.barnesandnoble.com/include/terms_of_use.asp?z=y&amp;cds2Pid=8104">Terms of Use</a>. 
-<hr size="1"></font><br><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#2">1. The information we collect</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#3">2. How we use and share Personal Customer Information</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#4">3. Communications from Barnes &amp; Noble.com</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#5">4. Underage customers</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#6">5. Linking to third-party web sites</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#7">6. Changes to Privacy Policy</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#8">7. Questions or comments</a></font></td>
-</tr>
-<tr>
-<td width="11"><img width="9" height="5" border="0" alt=" " align="right" vspace="4" src="http://images.barnesandnoble.com/gresources/arrow_btt_down.gif"></td>
-<td width="3"><img width="3" alt="" height="1" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif"></td>
-<td><font class="RelatedLink"><a href="#9">8. Membership Privacy Policy</a></font></td>
-</tr>
-</tbody></table><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="27"><br><a name="2"></a><hr size="1">
-<font class="ProductHead">1. The information we collect</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">When you use the Barnes &amp; Noble.com site, we receive and collect certain information. The information that we receive and collect depends on what you do when you visit Barnes &amp; Noble.com. 
-<ul>
-<li><u>Automatically Collected Information</u>. Some information is automatically received and sometimes collected from you when you visit the Barnes &amp; Noble.com site. We receive and collect the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the web site from which you linked directly to our site. We use this information to monitor the usage of our site. Also, when we send emails to you, we may be able to identify information about your email address, such as whether you can read graphic-rich HTML emails. All of the information we automatically capture provides us with the ability to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns.<br>&nbsp;<br></li>
-<li><u>Information Collected via Cookies</u>. We use cookies to enhance the browsing and shopping experience on the Barnes &amp; Noble.com site. "Cookies" are small files or records that we place on your computer's hard drive to collect information about your activities on the Barnes &amp; Noble.com site. The cookies transmit this information back to the computers at Barnes &amp; Noble.com or our third-party distributors of banners and newsletters; these computers are, generally speaking, the only computers which are authorized to read such information. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to reenter it each time you visit the Barnes &amp; Noble.com site; (iii) to monitor the effectiveness of certain of our marketing email campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of banners served. <br>&nbsp;<br>Most people do not know that cookies are being placed on their computers when they visit the Barnes &amp; Noble.com site or most web sites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placement. If you refuse cookies, you will not be able to open a Barnes &amp; Noble.com Shopping Cart and therefore will not be able to complete an order with us online. Also, by not using cookies, your overall Internet browsing experience will be affected. <br>&nbsp;<br>If you would like to obtain more information about the third-party distributor of banners on the Barnes &amp; Noble.com site and to know your choices about having such distributor's cookies turned off, please visit <a href="http://www.privacychoices.org">www.privacychoices.org</a>. If you turn off the third-party distributor's cookies, you will still see banners on our site; however, the banners will not be tailored to your shopping experience.<br>&nbsp;<br></li>
-<li><u>Information Collected Using Pixel Tags or Clear GIFs</u>. To help us understand the effectiveness of certain of our email marketing efforts, Barnes &amp; Noble.com may use "message format" and "message open" sensing technologies. Both technologies require the use of pixel tags or clear GIFs (also called web beacons). The "message format" sensing technology allows us to recognize whether you have enabled your email program to receive HTML emails; if so, this information is then associated with your email address so that subsequent messages can be sent to you in HTML format. The "message open" sensing technology allows us to recognize whether you have opened our email message. We can only detect this if your have enabled your email program to receive HTML emails.<br>&nbsp;<br></li>
-<li><u>Information You Actively Submit to Barnes &amp; Noble.com</u>. For most of the browsing services we provide, we neither require nor collect "Personal Customer Information" -- your name, email address, billing address, shipping address(es), phone number and credit card information. You can browse the Barnes &amp; Noble.com site and take as much time as you want to review our books and other products, services and reviews without having to submit such Personal Customer Information. Even when you use our shopping cart as you browse, there is no need to submit Personal Customer Information. <br>&nbsp;<br>In the following instances, however, we do need you to actively submit Personal Customer Information: when you want to (i) create an account; (ii) complete an order; (iii) subscribe to our Keep Me Posted! Newsletters or Alerts, (iv) submit customer reviews or (v) participate in courses in our Barnes &amp; Noble University. <br>&nbsp;<br>
-<ul>
-<li><b>Creating a Barnes &amp; Noble.com Account.</b> You can create a new pasword-protected Barnes &amp; Noble.com account to complete an order or to set up a Wish List. To create an account, we require that you provide us with the following Personal Customer Information: your email address (which may not be associated with another active Barnes &amp; Noble.com account), and your first and last names. You will also have to create a password, select a security question and input a security answer. <br>&nbsp;<br></li>
-<li><b>Completing an Order.</b> To complete an order, we require you to access your password protected Barnes &amp; Noble.com account. You will access stored Personal Customer Information or be asked to submit additional Personal Customer Information such as your credit card number and billing address. <br>&nbsp;<br></li>
-<li><b>Keep Me Posted! Newsletter and Alerts.</b> You may sign up for free email Keep Me Posted! Newsletters and Alerts filled with recommendations and reviews for books, music, movies, and more. To do so, you will need to supply your email address in the <a href="http://www.barnesandnoble.com/newsletters/newsletters_send.asp?z=y&amp;cds2Pid=8104">Keep Me Posted! Preference Center</a>. Please note that this Keep Me Posted! Preference Center registry is different from the Barnes &amp; Noble.com Account and password which you set up to make purchases. You can sign up for our Keep Me Posted! Notices whether or not you have a Barnes &amp; Noble.com account. Furthermore, the contact information collected in the Keep Me Posted! Preference Center is only used to forward the Newsletters and Alerts you select. <a href="#newsletterCom">[See "Keep Me Posted! Communications" below]</a>.<br>&nbsp;<br></li>
-<li><b>Customer Reviews.</b> When you submit a <u>customer review</u>, we ask you to disclose your email address in addition to your review and other optional information. You can choose not to have your email address displayed with your review. We only use the information you provide to us to chronicle your review; we do not use such information for marketing purposes. Because your email address at your election can be displayed with your reviews, we can make no assurance that others will not use the information you have provided.<br>&nbsp;<br></li>
-<li><b>Barnes &amp; Noble University Submissions.</b> When you participate in a course in the Barnes &amp; Noble University we have bulletin boards that ask you to disclose your email address in addition to your review and other optional information. We only use the information you provide to us to chronicle your submission; we do not use such information for marketing purposes.</li></ul></li></ul></font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="3"></a><hr size="1">
-<font class="ProductHead"><a name="shareInfo"></a>2. How we use and share Personal Customer Information</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">Occasionally, Barnes &amp; Noble.com uses Personal Customer Information to market products and services. You can opt-out from us using your information for this purpose at any time by logging onto your <a href="http://cart2.barnesandnoble.com/account/youraccount.asp?z=y&amp;cds2Pid=8104">Account</a> and following the instructions under <u>Name, Password, and Communication Preferences</u>. <br>&nbsp;<br>Barnes &amp; Noble.com shares Personal Customer Information that we collect as follows: 
-<ul>
-<li>Subcontractors. We send Personal Customer Information to third-party subcontractors and agents that work on our behalf to provide certain services. These third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by Barnes &amp; Noble.com .<br>&nbsp;<br>
-</li><li>Service Providers. We send Personal Customer Information to third-party providers of goods and services that you may purchase from time to time on our site (e.g., prints and posters). Like subcontractors, these third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by Barnes &amp; Noble.com .<br>&nbsp;<br>
-</li><li>Membership programs. We work with certain entities who, in conjunction with their own membership programs or rewards programs, require that we disclose purchasing information about their customers who visit the Barnes &amp; Noble.com site through links from the partner sites, or use the partner's credit card or rewards program to make purchases on the Barnes &amp; Noble.com site (e.g., to earn points for purchases made on the Barnes &amp; Noble.com site through links from the partner site). We disclose only the information required to make these programs work and support your membership with them, which typically includes the name and/or email address of the user as well as the dollar amount of purchases made. We disclose this information to such entities under an agreement that requires that they obtain your consent first, usually under the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact them directly.<br>&nbsp;<br>
-</li><li>Credit card companies. Credit card transactions are handled by a third-party financial institution and their vendors, which receive the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.<br>&nbsp;<br>
-</li><li>Special Orders at Barnes &amp; Noble Bookstores. To facilitate special orders from certain stores of our affiliate, Barnes &amp; Noble Booksellers Inc., we provide such affiliate with limited access to billing and shipping addresses of our account holders. Such affiliate does not have access to credit card information or order history and cannot make changes to customer accounts.<br>&nbsp;<br>
-</li><li>Companies affiliated with Barnes &amp; Noble.com. From time to time, on limited bases, we may share with entities affiliated with Barnes &amp; Noble.com (e.g., Barnes &amp; Noble Booksellers and Barnes &amp; Noble Membership) contact information of our account holders so that such entities can promote special offers, events, new products and services. You, as an account holder, can opt out from our use of your information in this way at any time by logging onto your Account and following the instructions under Change Your Communication Preferences. Please note that if you do opt-out you will not be sent special coupons, updates about free shipping, invitations to private sales, and other special discount offers.<br>&nbsp;<br>
-</li><li>Other Trustworthy Third Parties. From time to time, on limited bases, we may share with trustworthy third parties contact information of our account holders so that such third parties can promote their products and services. You, as an account holder, can opt out from our disclosure of your information for this purpose at any time by logging onto your <a href="http://cart2.barnesandnoble.com/account/youraccount.asp?z=y&amp;cds2Pid=8104">Account</a> and following the instructions under <u>Change Your Communication Preferences</u>.<br>&nbsp;<br>
-</li><li>Law Enforcement Investigations. Barnes &amp; Noble.com may release Personal Customer Information when we believe, in our good judgment, that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Barnes &amp; Noble.com, our users, or others.<br>&nbsp;<br></li></ul></font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="4"></a><hr size="1">
-<font class="ProductHead">3. Communications from Barnes &amp; Noble.com</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">As a Barnes &amp; Noble.com account holder, you may receive the following communications from Barnes &amp; Noble.com: 
-<ul>
-<li><b>Communications related to transaction and account maintenance activities.</b> By creating a Barnes &amp; Noble.com account, you may receive communications from us relating to: order confirmations; order updates; order problems; and material changes to site policies and account management procedures.<br>&nbsp;<br>
-</li><li><b>Communications from Barnes &amp; Noble.com and its affiliated companies (e.g., Barnes &amp; Noble Booksellers).</b> As an account holder, we use and share your contact information to communicate special offers, events, new products and services from Barnes &amp; Noble.com and our affiliated companies. We communicate via email, postal mail and outbound telephone calls depending upon your settings in you Communications Preferences. Any Barnes &amp; Noble.com account holder can opt-out from the receipt of any such communications or opt-out of certain communication methods by logging onto his or her <a href="http://cart2.barnesandnoble.com/account/youraccount.asp?z=y&amp;cds2Pid=8104">Account</a> and following the instructions under "<u>Change Your Communication Preferences</u>.<br>&nbsp;<br><a name="newsletterCom"></a>
-</li><li><b>Keep Me Posted! Communications</b>. You may sign up for free email Newsletters and Alerts filled with recommendations and reviews for books, music, movies, and more. To do so, you will need to supply your email address in the <a href="http://www.barnesandnoble.com/newsletters/newsletters_send.asp?z=y&amp;cds2Pid=8104">Keep Me Posted! Preference Center</a>. Please note that this Keep Me Posted! Preference Center registry is different from the Barnes &amp; Noble.com Account and password which you set up to make purchases. Furthermore, the contact information collected in the Keep Me Posted! Preference Center is only used to forward the Newsletters and Alerts you select. To unsubscribe from any Keep Me Posted! Newsletter or Alert, you can either (i) select the link at the bottom of any Keep Me Posted! Newsletter or Alert and follow the instructions or (ii) go to the <a href="http://www.barnesandnoble.com/help/help.asp?z=y&amp;cds2Pid=8104">Help</a> section of our site: Under "Your Account" select <a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8142&amp;z=y&amp;cds2Pid=8104">Reviewing or Changing Your Subscription Choices and Keep Me Posted! Newsletters and Alerts</a> and follow the instructions.<br>&nbsp;<br>
-</li><li><b>Barnes &amp; Noble University Communications.</b> When you sign up to become a member of the Barnes &amp; Noble University you will receive updates on new courses and other Barnes &amp; Noble University announcements -- such as new features -- that we believe will interest you. If you would rather not receive announcements from us, please log onto your Barnes &amp; Noble University account go to the Preferences section of the Account Information pages and follow the instructions. (Barnes &amp; Noble University is not an accredited program or institution.)</li></ul></font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="5"></a><hr size="1">
-<font class="ProductHead">4. Underage customers</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">Our products and services are marketed for purchase by adults or with the consent of adults. This is why Barnes &amp; Noble.com requires a credit card that has been authorized for use to complete purchases on our site. <br>&nbsp;<br>From time to time, parents and guardians allow their children under the age of 18 to browse our site and to post reviews. Barnes &amp; Noble.com highly values these views on the books and other products and services we offer. As such, users of our site have the opportunity in many instances to submit their reviews. Each user also has the option to post his or her email address and other contact information so that other users of our site may contact them directly. However, to protect the privacy of any user of our site who is under the age of 13, we do not permit them to post any contact information. Please see <a href="http://search.barnesandnoble.com/reviews/review_rules.asp?z=y&amp;cds2Pid=8104">Review Rules</a> for further information.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="6"></a><hr size="1">
-<font class="ProductHead">5. Linking to third-party web sites</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">When you click on links and banners on our site that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, Barnes &amp; Noble.com cannot be responsible for the actions of any third-party web sites. We encourage you to read the posted privacy statement of any and every site you visit, whether you are linking from our site or browsing on your own.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="7"></a><hr size="1">
-<font class="ProductHead">6. Changes to Privacy Policy</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">This Privacy Policy was last changed on August 4, 2004. To see how the Privacy Policy changed, go to <a href="http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&amp;cds2Pid=8104#privacy">August 4, 2004 Privacy Policy Changes</a>. Barnes &amp; Noble.com reserves the right to modify or amend this policy at any time by posting the revised Privacy Policy on our site. The changes will only affect the information we collect after the effective date of the change to our Privacy Policy unless we clearly express otherwise. The changes made in this August 4, 2004 version affects all information we have collected prior to such date. </font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="8"></a><hr size="1">
-<font class="ProductHead">7. Questions or comments</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">If you have any questions regarding our Privacy Policy, please email us at <a href="mailto:privacy@barnesandnoble.com">privacy@barnesandnoble.com</a>. For all other inquiries, please contact <a href="http://www.barnesandnoble.com/help/customer_service/index.asp?z=y&amp;cds2Pid=8104">Customer Service</a>.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="9"></a><hr size="1">
-<font class="ProductHead">8. Membership Privacy Policy</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">If you are also a participant in the Barnes &amp; Noble Membership program you should review the Privacy Policy for the Membership program at <a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8457&amp;z=y&amp;cds2Pid=8104">Membership Privacy Policy</a>.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="10"></a><hr size="1">
-<font class="ProductHead"><a name="security"></a><font face="arial, helvetica, sans-serif" color="#990000" size="+1">Security Policy</font> <br>&nbsp;<br>&nbsp;<br>1. Protecting your information</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">The <b>Personal Customer Information</b> you provide -- including your credit card information -- to create and access an account with us and to make purchases from us is secured using industry standard e-commerce security technology such as Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="11"></a><hr size="1">
-<font class="ProductHead">2. Unique Email, Password &amp; Security Answer</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">To further secure your Personal Customer Information: 
-<blockquote>We cross check an email address with the submitted password to validate access to any Barnes &amp; Noble.com customer account. <br>&nbsp;<br>We do not allow any email address to access more than one Barnes &amp; Noble.com account. When a new Barnes &amp; Noble.com account is created, we require you to submit an email address that is not associated with an existing Barnes &amp; Noble.com account. <br>&nbsp;<br>As of August 3, 2004, we require you to select a security question and input a security answer which you can use to access your account in the event you forget your password. (Customers who created a Barnes &amp; Noble.com account without selecting a security question and respective answer, are urged to do so by logging into your account and on the page headed "Account Management Options", select "Change Your Security Question/Answer" under "Account Settings" and follow the instructions.) </blockquote>We encourage you to use a password and a security answer that is not easily determinable (e.g., don't use your name or street name). Keep your password and security answer secure; do not share it with anyone. Password and security answer are the "keys" to your account; anyone who gets these "keys" can, along with your email address, gain access to your account. <br>&nbsp;<br>If you forget your password, to gain access to your account you will need to know your security answer and have access to your email account. On the Account Sign In Page click on the Forgot your password? link and then type in the email address of the account you would like to open. A message will be sent to your email address with instructions on how to access your account and change your password. (If you have not yet selected a security question and submitted a security answer, you will be prompted to contact Customer Service for further assistance.) <br>&nbsp;<br>If you want to change your password, security answer or other account information, simply log onto your account and follow the instructions on the page headed "Account Management Options."</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="12"></a><hr size="1">
-<font class="ProductHead">3. Remember to sign out</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">To further prevent unauthorized access to your account, remember that, after you sign in, you should sign out once you have (i) completed your transaction, (i) completed managing your account, or (iii) decided to step away from your computer. Anyone who accesses your computer after you have signed in but before you have either signed out or your session has timed-out can access your account. </font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="13"></a><hr size="1">
-<font class="ProductHead"><a name="safeshoppingguarantee"></a>4. Safe Shopping Guarantee</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">Under federal law, a credit card issuer cannot make you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. There are similar federal laws that relate to debit cards. Exceptions do apply, and you will have to comply with the rules of your credit card or debit card issuer, so please contact your card issuer for further details. <br>&nbsp;<br>If a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Barnes &amp; Noble.com will reimburse you for such amount up to $50.00. Please contact our Customer Service for details. <br>&nbsp;<br>Please be advised, as we state in greater detail in our <a href="http://www.barnesandnoble.com/include/terms_of_use.asp?z=y&amp;cds2Pid=8104">Terms of Use</a>, we do not guarantee the continuous, uninterrupted or secure access to the Barnes &amp; Noble.com site because the operation of the Barnes &amp; Noble.com website may be interfered with by numerous factors outside of our control.</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="14"></a><hr size="1">
-<font class="ProductHead">5. Alternative customer purchasing options</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. We welcome you to call us to complete your purchase by phone. Please go to our <a href="http://www.barnesandnoble.com/help/help.asp?z=y&amp;cds2Pid=8104">Help Desk</a> link and see the <a href="http://www.barnesandnoble.com/help/cds2.asp?PID=8116&amp;z=y&amp;cds2Pid=8104">Payment Options</a> section for details. </font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left"><a name="15"></a><hr size="1">
-<font class="ProductHead">6. Changes to security policy</font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="6"><br><font class="Copy">This security policy was last changed on August 4, 2004. To see how the Security Policy changed, go to <a href="http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&amp;cds2Pid=8104#security">August 4, 2004 Security Policy Changes</a>. Barnes &amp; Noble.com reserves the right to modify or amend this policy at any time by posting the revised Security Policy on our site. The changes will only affect the information we collect after the effective date of the change to our Security Policy unless we clearly express otherwise. The changes made in this August 4, 2004 version affects all information we have collected prior to such date. </font><br><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="12"><img width="1" alt="" border="0" src="http://images.barnesandnoble.com/gresources/cleardot.gif" height="22"><br clear="left">
-<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
-<img src="http://images.barnesandnoble.com/gresources/cleardot.gif" width="600" height="1" border="0" alt="">
-		</td>
-		<td width="1"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" height="8" width="7" alt=""></td>
-	</tr>
-</tbody></table>
-<table width="726" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-	<tbody><tr>
-		<td width="726" height="15" colspan="2"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="570" height="15" alt=""></td>
-	</tr>
-	
+<body onmousemove="evalCartHide(event);">
+<!-- begin header -->
+<center>
+<div style="background-color:#ffffff;width:770px;">
+<table cellspacing="0" cellpadding="0" border="0" style="width:770px;height:94px;">
+<tbody><tr style="background:url(/img/global/v2/hdr_bg.gif);">
+	<td style="height:90px;width:296px;padding-top:4px;padding-left:16px;border-left:1px solid black;" rowspan="2">
+		<a href="/HomeA.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><img src="/img/global/v2/logo.gif" width="278" height="90" border="0" alt="Textbooks.com"></a>
+	</td>
+	<td style="width:232px;height:44px;padding-top:4px;" valign="top"><img src="/img/global/v2/tn-cart-left.gif" width="232" height="42" border="0"></td>
+	<td style="width:242px;height:44px;padding-top:4px;background-color:black;border-right:1px solid black;" align="right" valign="top">
+		<table cellpadding="0" cellspacing="0" width="242" bgcolor="black" align="right" id="tblMiniCart" style="height:42px;">
+		<tbody><tr>
+			<td class="tnMiniCartTxt" style="padding-top:7px;" onmouseover="initboxv2();"><nobr><a class="tnMiniCartTxt" href="/Cart.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" title="View Your Cart">CART:</a>
+				</nobr></td>
+			<td class="tnMiniCartTxt" style="padding-top:7px;"><nobr>0 Items</nobr></td>
+			<td style="padding-right:20px;padding-top:7px;" align="right"><nobr><a class="tnMiniCartTxt" href="https://www.textbooks.com/checkout.php?ACTION=checkout&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" title="Click to Begin Checkout">CHECKOUT</a></nobr></td>
+		</tr>
 		<tr>
-			<td width="20"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="20" height="1" alt=""></td>
-			<td width="706">
-			<table width="150" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td width="11"><img src="http://images.barnesandnoble.com/gresources/navbar/admin3_gtpointup.gif" width="11" height="8" alt="*"></td>
-					<td width="10"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="10" height="8" alt=""></td>
-					<td width="129"><font class="endpagebtt"><a href="#top">Back to Top</a></font></td>
-				</tr>
-				<tr>
-					<td width="150" height="40" colspan="3"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="10" height="40" alt=""></td>
-				</tr>	
-			</tbody></table>		
+			<td style="padding-right:20px;padding-bottom:2px;" class="tnMiniCartTxt2" colspan="3" align="right" valign="top"><a class="tnMiniCartTxt2" href="/CustServ-Home.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Help</a>
+				&nbsp; |&nbsp; <a class="tnMiniCartTxt2" href="https://www.textbooks.com/account.php?ACTION=history&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Order Tracking</a>
+				&nbsp; |&nbsp; <a class="tnMiniCartTxt2" href="https://www.textbooks.com/account.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><b>Log In</b></a></td>
+		</tr>
+		</tbody></table>
+
+	</td>
+</tr>
+<tr>
+	<td colspan="2" valign="bottom" style="height:50px;width:410px;text-align:right;padding-right:20px;padding-bottom:14px;border-right:1px solid black;">
+		<div id="HeadNote" class="welcMsg"><a href="/CustServ-ShippingPolicy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" class="tb">FREE SHIPPING</a> on all orders over $25
+
+<!-- HELPFUL 
+	thisPage = /custserv-privacy.php
+	msgCode  = 0
+
+	CUSTINFOKEY               = 
+	SESSIONID                 = MQT0MOD0CKC0QDMCMMMTQQDMA
+	LOGGED IN                 = 
+	ShopMinutes               = 0
+
+	g_Session dump:
+	
+	SESSIONID: MQT0MOD0CKC0QDMCMMMTQQDMA
+	SESSIONKEY: 
+	SESSIONREGISTER#: 0
+	SESSIONFLATFILEID: 0
+	SESSIONSTATUS: 
+	SESSIONCALLEDFROM: 0
+	SESSIONREFERID: 
+	SESSIONTRANTYPE: 
+	SESSIONCUSTOMER: 0
+	SESSIONIPADDRESS: 209.234.171.42
+	SESSIONTIMESTAMP: 1222900425
+	SESSIONLASTTIME: 1222900425
+	SESSIONCHECKDIGITS: 
+	SESSIONLASTMACRO: 
+	SESSIONPROVIDER: 35587
+	SESSIONMODE: 
+	SESSIONEVENTFLAG1: 
+	SESSIONEVENTFLAG2: 
+	SESSIONEVENTFLAG3: 
+	SESSIONEVENTFLAG4: 
+	SESSIONEVENTFLAG5: 
+	SESSIONENDFLAG: 
+	SESSIONSECUREFLAG: 
+	SESSIONSHOPCARTTOT: 0
+	SESSIONSHOPCARTCNT: 0
+	SESSIONCUSTINFOSRC: T
+	NEWCOOKIE: 1
+	SHOPCART MINUTES: 0
+	LOGGED IN: 
+	SEARCH_PARTITION: PRINT
+--></div>
+	</td>
+</tr>
+</tbody></table>
+<script language="javascript">
+	updateCartTimer();
+</script>
+<table style="height:28px;width:770px;" cellpadding="0" cellspacing="0">
+<tbody><tr style="background:url(/img/global/v2/tn-bar.gif);">
+	<td class="tnTitle" style="background:url(/img/global/v2/tn-bar.gif);border-left:1px solid black;"><nobr><a href="/HomeA.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" class="navTitle">buy books</a></nobr></td>
+	<td class="tnTitle"><nobr><a class="navTitle" href="/BuyBack.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">sell books</a></nobr></td>
+	<td class="tnTitle"><nobr><a class="navTitle" href="/SiteMap.php?PART=PRINT&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">browse</a></nobr></td>
+	<td class="tnTitle"><nobr><a class="navTitle" href="/ebook-sitemap.php?PART=EBOOK&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">ebooks</a></nobr></td>
+	<td class="tnTitle"><nobr><a class="navTitle" href="https://www.textbooks.com/account.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">my account</a></nobr></td>
+	<td width="100%" class="tnTitle" style="background:url(/img/global/v2/tn-bar.gif);border-right:1px solid black;">&nbsp;</td>
+</tr>
+</tbody></table>
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><form method="GET" action="/Search.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"></form>
+	<input type="hidden" name="CSID" value="MQT0MOD0CKC0QDMCMMMTQQDMA">
+	<td valign="middle" style="background:url(/img/global/v2/search-cat-back.jpg);width:770px;height:121px;padding-left:305px;">
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="2" style="padding-bottom:10px;"><b class="search-fyb"><img src="/img/global/v2/fyb.gif" alt="FIND YOUR BOOKS FAST" width="170" height="14"></b></td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-right:12px;padding-bottom:10px;">
+			<select name="TYP" class="search" style="width:150px;">
+				<option value="SBJ">Keyword</option>
+				<option value="AUT">Author</option>
+				<option value="TTL">Title</option>
+				<option value="I">ISBN</option>
+			</select><br clear="all">
+		</td>
+		<td valign="top">
+			<input type="text" name="TXT" id="globalSearchTXT" style="width:180px;" class="search">
+			<select name="PART" class="search" style="width:75px;">
+				<option value="PRINT" selected="">print books</option>
+				<option value="EBOOK">eBooks</option>
+			</select>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<input type="image" src="/img/global/v2/search-fyb.gif" width="149" height="26" border="0" onclick="return CheckSearch();">
+		</td>
+		<td valign="top">
+			<font color="black"><a href="/Adv-Search.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" class="search">ADVANCED SEARCH</a>
+			| <a href='javascript:popWin("/pop-ups-whatisbn.php", 600, 350);' class="search">WHAT IS AN ISBN?</a><br>
+			<a href='javascript:popWin("/Pop-Ups-NeedHelp.php", 620, 350);' class="search">SEARCH HELP / TIPS</a>
+		</font></td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<font style="font:8px arial;"><br></font>
+
+
+<div id="dropinboxv2cover">
+	<div id="dropinboxv2" bgcolor="white">
+
+		<div class="flyoutTbl">
+			<table width="100%" cellpadding="4" cellspacing="0" border="0">
+			<tbody><tr><td valign="middle" align="center" class="mcTxt" style="height:150px;"><b>Your cart is currently empty.</b></td></tr>
+			</tbody></table>
+		</div>
+	</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0" style="width:770px;border:1px solid #ab7b1c;">
+<tbody><tr>
+	<td style="width:228px;margin-top:0px;padding-top:0px;background:url(/img/ln/v2/ln-back.gif);" valign="top">
+<!--  end header  --><img src="/img/ln/v2/help-desk-bar1.gif" class="lnImg1"><br>
+		<table style="width:190px;">
+		<tbody><tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="https://www.textbooks.com/account.php?ACTION=history&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><b style="font-weight:bold;font-size:110%;">Track Your Orders »</b></a></td>
+		</tr>
+		<tr style="height:5px;">
+			<td valign="top" style="height:5px;"></td>
+			<td valign="top" style="height:5px;"></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-ReturnPolicy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Return Policy</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-ShippingPolicy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Shipping Policy</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-Privacy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Privacy Policy</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-BuyBack.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Buyback Help/Policies</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-FAQ.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">FAQ</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-Contact.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Contact Us</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-WhyTB.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Why Shop Textbooks.com</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/CustServ-HowToShop.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Shopping &amp; Checkout</a></td>
+		</tr>
+		</tbody></table><br><img src="/img/ln/v2/sep-bar.gif" width="192" height="3" border="0"><br>
+		
+		<br><span class="lnTtl">EBOOK TOPICS</span>
+		<table style="width:190px;">
+		<tbody><tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/custserv-ebooks.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA#work">How Do eBooks Work?</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/custserv-ebooks.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA#comp">Computer &amp; Reader Requirements</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/custserv-ebooks.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA#conn">Internet Connection Requirements</a></td>
+		</tr>
+		<tr>
+			<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+			<td valign="top"> <a class="ln" href="/custserv-ebooks.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA#faqs">eBook FAQs</a></td>
+		</tr>
+		</tbody></table><br><img src="/img/ln/v2/sep-bar.gif" width="192" height="3" border="0"><br>
+
+		
+			<img src="/img/ln/v2/browse-bar0.gif" class="lnImg0"><br>
+			<table style="width:190px;">
+			<tbody><tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/A/Agriculture-and-Animal-Sciences.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Agriculture &amp; Animal Sciences</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/T/Architecture-Engineering-Manufacture-and-Transport.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Architecture, Engineering, Manufacture &amp; Transport</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/H/Arts-and-Humanities.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Arts &amp; Humanities</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/B/Business-and-Economics.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Business &amp; Economics</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/C/Communication-and-Media.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Communication &amp; Media</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/D/Computer-Science-and-Technology.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Computer Science &amp; Technology</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/E/Education.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Education</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/G/History-and-Geography.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">History &amp; Geography</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/L/Languages-and-Literature.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Languages &amp; Literature</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/J/Law-and-Criminal-Justice.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Law &amp; Criminal Justice</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/M/Math-and-Science.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Math &amp; Science</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/P/Medicine.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Medicine</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/R/Reference-Materials.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Reference Materials</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/S/Social-Sciences.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Social Sciences</a></td>
+			</tr>
+			<tr>
+				<td valign="top"><img src="/img/ln/blt.gif" class="lnImg"></td>
+				<td valign="top"> <a class="ln" href="/Catalog/V/Vocational-and-Professional-Education.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Vocational &amp; Professional Education</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top" style="padding-top:10px;"> <a class="big" href="/SiteMap.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA&amp;PART=PRINT">View All Print Categories</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top" style="padding-top:10px;"> <a class="big" href="/ebook-sitemap.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA&amp;PART=EBOOK">View eBook Categories</a></td>
+			</tr>
+			</tbody></table>
+			<br><img src="/img/ln/v2/sep-bar.gif" width="192" height="3" border="0"><br>
+			<br><br>
+	</td>
+	<td class="tdMain" valign="top" style="padding:0px;margin:0px;">
+		<img src="/img/s.gif" style="width:542px;height:4px;border:0px;background-color:#ab7b1c;margin-bottom:8px;"><br>
+		<div style="padding:0px;margin:0px;padding-right:10px;">
+		<b class="pageTitle">privacy policy</b>
+		<hr size="1" noshade="" style="margin:2px;">
+
+		<p>Textbooks.com respects your privacy and we will do our best to earn and keep your trust.  This Privacy Policy identifies how we collect, use and protect the Personal Information you provide to us when you visit this site.
+
+		</p><p><b>What Personal Information Do We Collect and How Is It Used?</b>
+
+		</p><ul>
+			<li> <b>Information you actively submit to Textbooks.com.</b> You may choose to provide certain personal information to Textbooks.com through this site.  This “Personal Information” may include your name, email address, billing address, shipping address(es), telephone number, and credit card information.  You may be asked to provide this information when you register to create an account with Textbooks.com, complete an order with Textbooks.com (purchase or buyback), subscribe to our Newsletters or Alerts, or contact Textbooks.com with a question or comment.  You can browse the Textbooks.com site and take as much time as you want to review our books and other products, services and reviews without having to submit such Personal Information.  Even when you use our shopping cart as you browse, there is no need to submit Personal Information.  You will need to provide Personal Information in the following instances:
+			<ul>
+				<p></p><li> <b>Creating a Textbooks.com account.</b> You will need to create a new password-protected Textbooks.com account to complete an order online.  To create an account, we require that you provide us with the following Personal Information: your email address, and your first and last names.
+
+				<p></p></li><li> <b>Completing an order.</b>  To complete an order, we require you to access your password protected Textbooks.com account.  You will access stored Personal Information or be asked to submit additional Personal Information such as your credit card number and billing address.  If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. We welcome you to call us to complete your purchase by phone.  Please go to our Help link and see the Payment Options section for details.
+
+				<p></p></li><li> <b>Receiving newsletters and alerts.</b> When you complete an order, you will be given the opportunity to sign up to receive our promotional newsletter and alerts.   The option will be selected for you; however, you can opt-out from the receipt of such communications.  You also can opt-out from receipt of such communications by logging onto My Account and following the instructions under “email preferences,” or by selecting the “unsubscribe” link at the bottom of any newsletter or alert.
+
+				<p></p></li><li> <b>Contacting Textbooks.com.</b> To contact our Customer Service Team online with any questions, you will  need to provide your name and email address.  You can also contact us by telephone.
+			</li></ul>
+
+			<p>We use the Personal Information described above to fulfill your orders for books and related merchandise, provide customer support, and communicate with you.  In addition, Textbooks.com may use the information to market its products and services to you.  You can opt-out from us using your information for this purpose at any time by logging onto My Account and following the instructions under Preferences and Surveys.
+
+			</p><p>Except as described below, Textbooks.com will not disclose your Personal Information to third parties who are not our affiliates without your consent.  We do not sell or exchange customer lists or customer information for marketing purposes with unaffiliated third parties, and will not do so without your express permission.  We may share anonymous, aggregate information concerning the demographic makeup of our customers to unrelated third parties.
+
+			</p><p>We may share Personal Information we collect for business purposes with companies and individuals who provide servicing, administrative, marketing, and other services for us, or on our behalf.  Companies we hire to provide such services are only permitted, by contract, to use your information for the performance of the specific services we have requested of them.
+
+			</p><p>Textbooks.com may disclose Personal Information to government and regulatory authorities as permitted or required by applicable law, to enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Textbooks.com, our users, or others.
+
+			</p><p>Textbooks.com is not responsible for the privacy practices or the content of other websites that may be linked to this site.  When you click on links and banners on our site that take you to third-party web sites, you will be subject to the third parties' privacy policies. you are linking from our site or browsing on your own.
+
+			</p><p></p></li><li> <b>Automatically collected information.</b> Textbooks.com’s web servers automatically collect anonymous information about a visitor’s IP address, browser type and referrer by reading this information from your browser.  This information is collected in a database and is used to help us recognize you each time you return to our site.  This information is automatically logged by most websites.
+
+			<p></p></li><li> <b>Information collected using cookies.</b> Textbooks.com may use various kinds of software devices, such as “cookies” to collect information about Internet use.  These small files identify your browser and save information such as passwords so that Web sites can recognize you.  You can set your browser to disable cookies, but some portions of this site (and other sites) may not work properly if you do this.
+
+			<p></p></li><li> <b>Information collected using pixel tags or clear GIFs.</b>  Textbooks.com may use "message format" and "message open" sensing technologies to help us understand the effectiveness of certain of our email marketing efforts.  Both technologies require the use of pixel tags or clear GIFs (also called web beacons).  The "message format" sensing technology allows us to recognize whether you have enabled your email program to receive HTML emails; if so, this information is then associated with your email address so that subsequent messages can be sent to you in HTML format.  The "message open" sensing technology allows us to recognize whether you have opened our email message.  We can only detect this if your have enabled your email program to receive HTML emails.
+		</li></ul>
+
+		<p><b>How Is Your Personal Information Protected?</b>
+
+		</p><p>Textbooks.com maintains reasonable security procedures and practices appropriate to the nature of the information, to protect the Personal Information from unauthorized access, destruction, use, modification or disclosure.  Nonaffiliated third parties are contractually obligated to maintain strict confidentiality, and are not permitted to use your Personal Information for marketing purposes, or for any purpose other than that we have requested of them.  To further secure your Personal Information:
+
+		</p><ul>
+			<li> We use Secure Sockets Layer (SSL) encryption technology to prevent Personal Information from being intercepted and read as it is transmitted over the Internet.  The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.
+
+			<p></p></li><li> We cross check an email address with the submitted password to validate access to any Textbooks.com customer account.
+
+			<p></p></li><li> We do not allow any email address to access more than one Textbooks.com account.  When a new Textbooks.com account is created, we require you to submit an email address that is not associated with an existing Textbooks.com account.
+
+			<p></p></li><li> We encourage you to use a password that is not easily determinable (e.g., don't use your name or street name).  Keep your password secure; do not share it with anyone.  The password is the "key" to your account; anyone who gets this "key" can, along with your email address, gain access to your account.
+			<ul>
+				<p></p><li> If you forget your password, go to the My Account log in page and click on the “Forgot your password?” link, and then type in the email address of the account you would like to open.  A message will be sent to your email address with instructions on how to access your account and change your password.
+
+				<p></p></li><li> If you want to change your password or other account information, simply log onto your account and follow the instructions.
+			</li></ul>
+
+			<p></p></li><li> We encourage you to remember to sign out.  To further prevent unauthorized access to your account, remember that after you sign in, you should sign out once you have (i) completed your transaction, (ii) completed managing your account, or (iii) decided to step away from your computer.  Anyone who accesses your computer after you have signed in but before you have either signed out or your session has timed-out can access your account.
+		</li></ul>
+
+		<p><b>How Can You Access Your Personal Information?</b>
+
+		</p><p>To access, correct or delete your Personal Information stored by Textbooks.com, please log in to the My Account page and update your information.
+
+		</p><p><b>How Will You Know If We Change Our Privacy Policy?</b>
+
+		</p><p>Textbooks.com may, but is not required to, update this policy from time to time.  Accordingly, you should periodically check this web site for any changes.
+
+		</p><p><b><a name="ebook">eBooks/Digital Textbooks</a></b>
+		
+
+		</p><p><b>If You Have Any Questions About This Privacy Policy:</b>
+
+		</p><p>Please contact us at <a href="mailto:privacy@textbooks.com" class="tb">privacy@textbooks.com</a>. For all other inquiries, please contact <a href="CustServ-Contact.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA" class="tb">Customer Service</a>.
+		<br>
+		<br>
+
+<!-- begin footer -->
+	</p></div>
+	</td>
+</tr>
+</tbody></table>
+<font style="font:8px arial;"><br></font>
+<table width="100%" style="height:97px;" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="33%" valign="middle"><a class="footEBS" href="/CustServ-HowToShop.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><img src="/img/foot/v2/cash-for-books.gif" width="250" height="97" border="0"></a></td>
+	<td width="34%" align="center" valign="middle"><a class="footTTL" href="/custserv-whatisused.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><img src="/img/foot/v2/did-you-know-0.gif" width="250" height="97" border="0"></a></td>
+	<td width="33%" align="right" valign="middle"><a class="footTTL" href="/CustServ-ShippingPolicy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA"><img src="/img/foot/v2/free-shipping.gif" width="250" height="97" border="0"></a></td>
+</tr>
+</tbody></table>
+<font style="font:8px arial;"><br></font>
+</div>
+
+<table style="width:770px;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td class="fTxt" align="center" style="padding:8px;">
+		<a class="fTxt" href="/CustServ-Home.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Help</a> | <a class="fTxt" href="/CustServ-Contact.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Contact Us</a> | <a class="fTxt" href="https://www.textbooks.com/account.php?ACTION=home&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">My Account</a> | <a class="fTxt" href="https://www.textbooks.com/account.php?ACTION=history&amp;CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Order Tracking</a> | <a class="fTxt" href="/CustServ-WhyTB.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">About Us</a> | <a class="fTxt" href="/affiliates.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Affiliates</a>
+
+		<p><a class="fTxt" href="/Catalog/A/Agriculture-and-Animal-Sciences.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Agriculture &amp; Animal Sciences</a> |
+		   <a class="fTxt" href="/Catalog/T/Architecture-Engineering-Manufacture-and-Transport.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Architecture, Engineering, Manufacture &amp; Transport</a> |
+		   <a class="fTxt" href="/Catalog/H/Arts-and-Humanities.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Arts &amp; Humanities</a> |
+		   <a class="fTxt" href="/Catalog/B/Business-and-Economics.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Business &amp; Economics</a><br>
+		<a class="fTxt" href="/Catalog/C/Communication-and-Media.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Communication &amp; Media</a> |
+		   <a class="fTxt" href="/Catalog/D/Computer-Science-and-Technology.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Computer Science &amp; Technology</a> |
+		   <a class="fTxt" href="/Catalog/E/Education.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Education</a> |
+		   <a class="fTxt" href="/Catalog/G/History-and-Geography.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">History &amp; Geography</a><br>
+		<a class="fTxt" href="/Catalog/L/Languages-and-Literature.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Languages &amp; Literature</a> |
+		   <a class="fTxt" href="/Catalog/J/Law-and-Criminal-Justice.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Law &amp; Criminal Justice</a> |
+		   <a class="fTxt" href="/Catalog/M/Math-and-Science.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Math &amp; Science</a> |
+		   <a class="fTxt" href="/Catalog/P/Medicine.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Medicine</a> |
+		   <a class="fTxt" href="/Catalog/R/Reference-Materials.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Reference Materials</a><br>
+		<a class="fTxt" href="/Catalog/S/Social-Sciences.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Social Sciences</a> |
+		   <a class="fTxt" href="/Catalog/V/Vocational-and-Professional-Education.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Vocational &amp; Professional Education</a>
+
+		</p><p>All content copyright © 2006 - 2008 Textbooks.com.  All rights reserved.<br>
+		Use of this website constitutes acceptance of the <a class="fTxt" href="/CustServ-Terms.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Terms of Service</a>.<br>
+		<a class="fTxt" href="/CustServ-Privacy.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Privacy Policy</a><a> | </a><a class="fTxt" href="/custserv-intprop.php?CSID=MQT0MOD0CKC0QDMCMMMTQQDMA">Intellectual Property Policy</a>
+
+		</p><p><img src="/img/foot/all-cards.gif" width="173" height="26" border="0" alt="We accept all major credit cards">
+
+		</p><p>
+		<table style="width:600px;">
+		<tbody><tr>
+			<td style="width:40%" valign="top" align="center">
+				<!-- BEGIN: BizRate Medal (125x73 pixels) -->
+				<a href="http://www.shopzilla.com/ratings_guide/cust_reviews__mid--41993.html" target="http://www.shopzilla.com">
+				<img src="//medals.bizrate.com/medals/dynamic/41993_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0"></a>
+				<!-- END: BizRate Medal (125x73 pixels) -->
+			</td>
+			<td style="width:20%" valign="top" align="center">
+				<!-- START SHOPPING.COM CODE -->
+				<a href="http://www.shopping.com/xMR-Textbooks.com~MRD-448258~S-1"><img src="//www.shopping.com/merchant_logo?ID=448258" width="197" height="82" border="0" alt="Read Your Store Reviews"></a><a href="http://www.shopping.com/xDN-Miscellaneous"><img src="https://sc.dealtime.com/cctool/files/spacer.gif" width="1" height="1" border="0" alt=""></a>
+				<!-- END SHOPPING.COM CODE -->
+			</td>
+			<td style="width:40%" valign="top" align="center">
+				<!-- START SCANALERT CODE -->
+				<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.textbooks.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.textbooks.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+				<!-- END SCANALERT CODE -->
 			</td>
 		</tr>
-		
-		<tr>
-			<td width="20"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="20" height="1" alt=""></td>
-			<td width="706"><font class="endpage"><a href="http://www.barnesandnoble.com/include/terms_of_use.asp?z=y">Terms of Use</a>, <a href="http://www.barnesandnoble.com/include/copyright.asp?z=y">Copyright</a>, and <a href="http://www.barnesandnoble.com/help/nc_privacy_policy.asp?z=y">Privacy Policy</a><br>© 1997-2006 Barnesandnoble.com llc</font></td>
-		</tr>
-		
-	<tr>
-		<td width="726" height="36" colspan="2"><img src="http://images.barnesandnoble.com/pimages/cleardot.gif" width="570" height="36" alt=""></td>
-	</tr>
+		</tbody></table>
+	</p></td>
+</tr>
 </tbody></table>
 
-<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker('UA-525666-3');
+pageTracker._setSessionTimeout('2592000'); // change session to 30 days
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
-</body></html>
+
+
+
+<!--  end footer  -->
+	</center></body></html>
