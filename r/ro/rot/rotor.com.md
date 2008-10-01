@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rotor.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630212409id_/http%3A//www.rotor.com/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotor.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001212556id_/http%3A//www.rotor.com/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Helicopter Association International
+# Helicopter Association International - Rotor.com
 
 HAI Website is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the HAI Website Web site and governs data collection and usage. By using the HAI Website website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ HAI Website will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-HAI Website welcomes your comments regarding this Statement of Privacy. If you believe that HAI Website has not adhered to this Statement, please contact HAI Website at [ed.dicampli@rotor.com](mailto:ed.dicampli@rotor.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+HAI Website welcomes your comments regarding this Statement of Privacy. If you believe that HAI Website has not adhered to this Statement, please contact HAI Website at [webmaster@rotor.com](mailto:webmaster@rotor.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
