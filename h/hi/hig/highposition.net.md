@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highposition.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142354id_/http%3A//www.highposition.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highposition.net privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001182201id_/http%3A//www.highposition.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 ## Introduction
 
 We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via [www.highposition.net](http://www.highposition.net/) (referred to below as "this Site"). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.  
-If you have any queries or comments about the policy or our use of your personal information, please get in touch with us by emailing us at [privacy@highposition.net](mailto:privacy@highposition.net?subject=Privacy) or writing to The Privacy Manager at High Position House, Crispin Court, Colchester, Essex. CO1 4DZ.  
+If you have any queries or comments about the policy or our use of your personal information, please get in touch with us by emailing us at [privacy@highposition.net](mailto:privacy@highposition.net?subject=Privacy) or writing to The Privacy Manager at Suite 2, 572 Ipswich Road, Colchester, Essex, CO4 9HB.  
 In general, we use the information we collect about you to:
 
   * help our members provide more personalised services to you 
