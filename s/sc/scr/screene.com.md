@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screene.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610110955id_/http%3A//www.screene.com/privacypolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screene.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001163039id_/http%3A//www.screene.com/privacypolicy.php3) for the most accurate reproduction.*
 
 # Screene.com- Privacy Policy
 
@@ -12,4 +12,4 @@ We try to protect your privacy, but you must please understand that any use of t
 **Affiliates, Advertisers and Others:**   
 Before providing information to any party other than screene.com or any of its sites, you should check their privacy policy, as they are third parties. We may use third party TAF services for the function of sending pages. We are not responsible for the content or the privacy practices utilized by any other sites, linked by us. 
 
-For any queries, [contact us](https://web.archive.org/web/20080610110955id_/http://www.screene.com/contactus.php3). 
+For any queries, [contact us](https://web.archive.org/web/20081001163039id_/http://www.screene.com/contactus.php3). 
