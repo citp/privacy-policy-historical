@@ -1,65 +1,33 @@
-> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610143746id_/http%3A//www.dnspark.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001161348id_/http%3A//www.humanesociety.org/privacy_policy) for the most accurate reproduction.*
 
-# DNS Park - Privacy Policy
+# Privacy Policy | The Humane Society of the United States
 
-DNS Park, LLC ("DNS Park") is committed to the online privacy of your personal information. Please take a moment to read the following policy to understand how your personal information will be used as you make use of our services. This policy may change from time to time so please refer back here periodically.
+_Notice: We have recently updated our privacy policy. Please review carefully._
 
-  1. **What personal information does DNS Park collect from me?**
+The Humane Society of the United States (The HSUS) is committed to your right to privacy and to keeping your personal information private. You can visit The Humane Society of the United States web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you. 
 
-When you register to become a part of the DNS Park, you are no longer an anonymous user to DNS Park. During the registration process, DNS Park will ask for your name, email address, postal address, and telephone.
+This Privacy Policy governs the URL [http://www.HSUS.org](https://web.archive.org/) and certain electronic communications sent out by The HSUS. This web site is owned and operated by The Humane Society of the United States for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 2100 L Street, NW, Washington, DC 20037. The HSUS reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any changes to this Privacy Policy will be preceded by a notice posted to this Privacy Policy at least ten (10) days prior to the effective date of such change. 
 
-  2. **What are cookies and how does DNS Park use them?**
+**How We Collect Information About You**
 
-As part of providing a personalized service, DNS Park uses [cookies](http://www.webopedia.com/TERM/C/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on DNS Park where you are prompted to sign-in require that you accept cookies.
+**Information You Voluntarily Provide.** The HSUS collects and maintains certain personal information about you when you send us an e-mail or complete any of our online forms, such as when you request information from us, make a donation, subscribe to one of our online newsletters, request to become a member, or forward a web page, electronic postcard, electronic ballot, or electronic newsletter. Such information may include your name, mailing address, and e-mail address; it may also include the e-mail addresses of those to whom you forward HSUS electronic content, and any other information collected in the forms. You may be asked to provide credit card information to become a member of The HSUS, contribute to The HSUS, purchase certain information or materials from The HSUS, or subscribe to various HSUS publications. 
 
-We generally use cookies to remind us of who you are and to access your account information (stored on our computers) in order to deliver your personalized services. This cookie is set when you "Sign In" and is modified when you "Sign Out" of our services.
+**Other Information.** HSUS.org also collects certain other information that cannot identify you personally when you visit our web site. This information includes your IP address and your domain name. HSUS.org logs these IP addresses and domain names, and aggregates them for system administration and to monitor the use of our site. We use the aggregated information to measure the number of visits to our site, the average time spent on our site, the number of pages viewed, and various other site statistics. This monitoring helps us to provide a more useful and engaging online experience to HSUS.org visitors, and helps us to improve the quality of our content. 
 
-DNS Park also uses your IP address for system administration functions.
+The HSUS uses cookies in order to make the results available for your on-site searches. Cookies are not used for any other reason on this site. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. The HSUS does not match any information gathered by cookies with personal information you may have voluntarily submitted to The HSUS. 
 
-  3. **How does DNS Park use my information?**
+**Ways Information About You Is Used**
 
-DNS Park's primary goal in collecting personal information is to provide a personalized service to you, the user. None of this information is shared with business partners or other third parties.
+We may use the information you voluntarily provided to contact you regarding animal-related issues we feel you may be interested in, to keep you updated regarding The HSUS's programs, and to extend an invitation to you to support our programs. We may also send such information to the people whose e-mail addresses you provide when forwarding HSUS electronic content. When we do so, our sole intent is to enlarge our family of informed animal advocates and organizational supporters. Every recipient of our electronic communications can quickly and easily "opt out" of future such communications by following the instructions on any electronic communication we send. 
 
-  4. **Who is collecting information?**
+From time to time, we may make such voluntary information, excluding credit card information (which will never be disclosed), available to The HSUS's affiliate organizations or to sponsors or licensees that provide special programs or services we think you might find interesting or beneficial. The HSUS uses very strict standards in determining which reputable companies become sponsors and licensees, to ensure that such organizations are committed to the protection of visitors' privacy and committed to the goals of The HSUS. If your volunteered personal information will be used in any manner other than as stated above, such use shall be specifically posted. If you wish to update or remove your information, or if you do not wish your information to be shared with affiliated third parties, please e-mail us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org). You may also unsubscribe at any time in every issue of our newsletters. 
 
-When you are on a DNS Park site and are asked for personal information, you are sharing that information with DNS Park alone.
+**Other.** From time to time, The HSUS may link to other web sites not affiliated with The HSUS. The HSUS attempts to link only to those web sites which also respect a visitor's privacy and the goals of The HSUS. However, The HSUS cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that The HSUS currently links to, please inform The HSUS by contacting us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org). For more information regarding linking to The HSUS's web sites, please read ["Linking to HSUS.org"](https://web.archive.org/ace/14417) on our web site. 
 
-  5. **With whom does DNS Park share my information?**
+**Security.** The HSUS uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to The HSUS servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information. 
 
-DNS Park will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. Please see our Terms of Service for more detailed information about how your personal information may be shared.
+**Contacting The HSUS.** If you would like to contact The HSUS about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org) or write to us at Webmaster, The HSUS, 2100 L Street, NW, Washington, DC 20037. 
 
-  6. **What are my choices regarding collection, use and distribution of my information?**
-
-DNS Park may, from time to time, send you email regarding our services if you indicated that you wished to receive such notices upon registration. Only DNS Park will send you thses direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. At any time you can edit your [DNS Park Account Information](https://www.dnspark.net/account.php) to no longer receive such offers and mailings. You will need your DNS Park ID and Password in order to access your [DNS Park Account Information](https://www.dnspark.net/account.php).
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those DNS Park services that require registration in order to participate. You can still use many other DNS Park sites even if you do not accept cookies.
-
-DNS Park does not sell or rent user information to anyone.
-
-  7. **What is DNS Park's policy on allowing me to update, correct, or delete my personal information?**
-
-You may edit your [DNS Park Account Information](https://www.dnspark.net/account.php) at any time by using your DNS Park ID and password. If you have forgotten your password, you can change it by filling out the [Forgot Password](https://www.dnspark.net/forgot.php). By filling in your email address, and your postal address, then clicking the 'Retrieve Password' we will send you a new password via email. You may send email to [parkrangers at dnspark dot com](mailto:parkrangers@dnspark.com) if you are having other problems with your account.
-
-Your DNS Park account can de deleted or deactivated, but doing so will result in not being able to access any account specific areas of the DNS Park site. Please contact [parkrangers at dnspark dot com](mailto:parkrangers@dnspark.com) for further instructions about deleting or deactivating your DNS Park account. Residual information will remain within our archive records.
-
-  8. **What security measures are in place to protect the loss, misuse, or alteration of my information?**
-
-Your DNS Park Account information is password-protected so that you and only you have access to this personal information. We use SSL technologies when transmitting your personal information and passwords to further protect your account information.
-
-We recommend that you do not divulge your password to anyone. DNS Park will never ask you for your password in an unsolicited phone call, or via an unsolicited email. Also remember to log out of your DNS Park account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, DNS Park cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-  9. **Further Information**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [privacy at dnspark dot com](mailto:privacy@dnspark.com) or at the following:
-
-DNS Park, LLC  
-Attention: Privacy Policy  
-1004 S. Mount Olive St.  
-Suite A #136  
-Siloam Springs, Arkansas 72761  
-
-
-
+  
+  
 
