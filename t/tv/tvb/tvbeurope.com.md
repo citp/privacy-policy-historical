@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608055402id_/http%3A//tvbeurope.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D21%26Itemid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002010141id_/http%3A//tvbeurope.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D21%26Itemid%3D38) for the most accurate reproduction.*
 
 # TVBEurope - Europe's television technology business magazine - Privacy Policy
 
