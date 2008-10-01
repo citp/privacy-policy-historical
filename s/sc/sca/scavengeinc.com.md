@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105070127id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001225143id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
 
-# Shop Sexy Costumes, Costume Wigs, Sexy Lingerie, Sexy Halloween Costumes, Pirate Costumes - Large Selection
+# Privacy Notice - Scavenge Halloween Costumes Privacy Notice
 
 At scavengeinc.com, your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our customers, we feel that you should fully understand the terms and conditions surrounding our retrieval and use of that information.
 
