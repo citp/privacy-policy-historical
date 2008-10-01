@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012802id_/http%3A//www.msfinancialsavvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001225050id_/http%3A//www.msfinancialsavvy.com/privacy.php) for the most accurate reproduction.*
 
-# MsFinancialSavvy.com
+# Privacy statement, Small Business, Learn Investing, mutual funds, personal financial planning, women and money, investment books, loan calculator, retirement.
 
-####  **  
-  
-**
+[Disclaimer](https://web.archive.org/disclaimer.php) | [Terms of Service](https://web.archive.org/tos.php) | [Contact Us](https://web.archive.org/contactus.php) | [About Us ](https://web.archive.org/about.php)
 
 ### **Privacy Statement**
 
@@ -20,7 +18,7 @@ MsFinancialSavvy.com may sometimes conduct surveys to better understand our targ
 
 **Newsletters**
 
-MsFinancialSavvy.com offers a free electronic newsletter to our readers. Users voluntarily subscribe to the mailing list by giving their e-mail addresses to us. Users may remove themselves from this mailing list by going [here](mailto:info@msfinancialsavvy.com) , or by replying to a link provided in the electronic newsletter.
+MsFinancialSavvy.com offers a free electronic newsletter to our readers. Users voluntarily subscribe to the mailing list by giving their e-mail addresses to us. Users may remove themselves from this mailing list by replying to a link provided in the electronic newsletter.
 
 **Message Boards**
 
@@ -48,7 +46,7 @@ As stated above, MsFinancialSavvy.com uses e-mail addresses that users voluntari
 
 **How You Can Change the Information**
 
-MsFinancialSavvy.com gives its users an option to "Opt Out" of receiving such information as newsletters, tip of the day, etc. Users may remove themselves from the newsletter mailing list by going[here](mailto:info@msfinancialsavvy.com) . Users may remove themselves from message board/chat areas by following the specific instructions for that particular area.
+MsFinancialSavvy.com gives its users an option to "Opt Out" of receiving such information as newsletters, tip of the day, etc. Users may remove themselves from the newsletter mailing list by clicking on a "unsubscribe" at the bottom of the email . Users may remove themselves from message board/chat areas by following the specific instructions for that particular area.
 
 **Security**
 
@@ -66,10 +64,10 @@ This Privacy Policy may be modified from time to time. Any notices that reflect 
 
 MsFinancialSavvy.com  
 PO Box 1385  
-Chesapeake, Va.23327  
-[webmaster@MsFinancialSavvy.com](mailto:%20webmaster@MsFinancialSavvy.com)
+Chesapeake, Va.23327-1385  
+[info@MsFinancialSavvy.com](mailto:%20info@MsFinancialSavvy.com)
 
   
-Also, please read our [Disclaimer](https://web.archive.org/web/20050418012802id_/http%3A//www.msfinancialsavvy.com/disclaimer.html). Your use of MsFinancialSavvy.com constitutes your acceptance of MsFinancialSavvy.com [Terms of Service](https://web.archive.org/web/20050418012802id_/http%3A//www.msfinancialsavvy.com/tos.html)
+Also, please read our [Disclaimer](https://web.archive.org/disclaimer.php). Your use of MsFinancialSavvy.com constitutes your acceptance of MsFinancialSavvy.com [Terms of Service](https://web.archive.org/tos.php)[ ](https://web.archive.org/tos.php)
 
-> 
+ 
