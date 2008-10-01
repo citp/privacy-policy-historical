@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mergernetwork.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421140606id_/http%3A//www.mergernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergernetwork.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002015510id_/http%3A//www.mergernetwork.com/privacy) for the most accurate reproduction.*
 
-# Businesses for sale | Business For Sale | Buy a business at MergerNetwork.com
+# Businesses for Sale | Business for Sale Listings | Buy - Sell - Find A Business! | MergerNetwork.com
 
 Mergernetwork.com (the "Site") is owned by Brauns Online Media, Inc. ("MergerNetwork"). MergerNetwork values your privacy and is dedicated to protecting your personal information and providing you with:
 
