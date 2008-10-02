@@ -1,30 +1,59 @@
-> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011170642id_/http%3A//www.capeinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002022743id_/http%3A//capeinfo.com/content/privacy.php) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
-* * *
+CapeInfo strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalised experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by CapeInfo online and does not impact information collected or used by CapeInfo or its affiliates through other means. 
 
-  
-From time to time CapeInfo may invite you to provide personal information in order to provide you with services (such as email newsletters, website services and competitions) and to enable you to order goods. In order to deliver such services or goods, CapeInfo will need to process and store your personal information and may need to transfer it to affiliates and service providers for processing. 
+**How we gather information from users**
 
-By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products) or make a purchase. You may also provide information when you participate in contests, voting and polling activities, message boards and other interactive areas of our site. 
 
-No credit card information is retained or stored on CapeInfo. 
+Like most Web sites, CapeInfo also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences. 
 
-In order to enable CapeInfo to provide you with a personalised browsing experience, this site may use 'cookie' information collection technology.  The information gathered by CapeInfo cookies is limited to use within CapeInfo for the purposes of enhancing your experience. 
+**What we do with the information we collect**
 
-CapeInfo will only use your personal information for purposes for which you have consented and will not sell or rent your personal information to third parties for marketing purposes without such consent. 
+We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually. 
 
-CapeInfo has no control over and accept no responsibility for the privacy practices of any third party sites to which hyperlinks may have been provided and we strongly recommend that you review the privacy policy of any site you visit before using it further. 
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on CapeInfo to communicate with you regarding our Terms of Service and privacy policy, products and services offered by CapeInfo and partners, administration of contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with affiliates. This policy does not apply to any Affiliate's use of such information. 
 
-CapeInfo regards the safety and privacy of children using this web site extremely seriously and strives to ensure all content is appropriate to all visitors, but it remains the ultimate responsibility of the parents and other care-givers of children to ensure that they are not exposed to inappropriate content or behaviour. 
+Personally Identifiable Information collected by CapeInfo may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. 
 
-In order to protect your privacy, CapeInfo complies with the Electronic Communications and Transactions Act 25 of 2002. CapeInfo follows strict security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. CapeInfo also requires those parties to whom CapeInfo transfers personal information to comply with the same. 
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-If you have any queries about CapeInfo's privacy policy or any queries about the protection of personal information CapeInfo holds about you, please do not hesitate to write to: CapeInfo, PO Box 51545, Waterfront, Cape Town 8002. 
+Your choice to opt out. 
 
-* * *
+The quality news and information on CapeInfo is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf. 
 
-5 July 2006
+**Affiliated sites, linked sites and advertisements**
+
+CapeInfo expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a CapeInfo page, certain content that is actually created or hosted by a third party. Also, through CapeInfo you may be introduced to, or be able to access, information, web sites, advertisements, features or contests offered by other parties. CapeInfo is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. CapeInfo does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
+
+A cookie gets entered by your web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of CapeInfo, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on CapeInfo. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on CapeInfo. CapeInfo does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. CapeInfo maintains relationships with a number of third-party networks such as Google and OfferForge. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the web site of the individual ad network. 
+
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of CapeInfo and this policy. 
+
+**Children**
+
+CapeInfo does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe CapeInfo has any information from or about anyone under 13, please contact us at the address listed below. 
+
+**Contacting us**
+
+We can be reached at:   
+CapeInfo, PO Box 51545, Waterfront 8002, Cape Town  
+Email: admin[at]capeinfo.com 
+
+**Changes to this policy**
+
+CapeInfo reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+
+**Governing law**
+
+The user hereby agrees that the law applicable to these terms and conditions of use, their interpretation and any matter or litigation in connection therewith or arising from them will be the laws of South Africa. If you are located outside South Africa, please note the information you provide to us will be transferred to South Africa. You hereby consent to this transfer. 
+
+In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall prevail. 
+
+Last Updated: October 2007
