@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518100706id_/http%3A//www.sabmiller.com/sabmiller.com/en_gb/Global%2BTools/legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002114237id_/http%3A//www.sabmiller.com/sabmiller.com/en_gb/Global%2BTools/legal/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
