@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317051306id_/http%3A//www.careerperfect.com/content/home-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002152755id_/http%3A//www.careerperfect.com/content/home-privacy-policy/%3Ftrk%3D1-20081001-48e45b16e3ea7) for the most accurate reproduction.*
 
 # CareerPerfect® - Privacy Policy
 
@@ -8,7 +8,7 @@ CareerPerfect.com is committed to protecting the privacy of our users. We want t
 
 ## The Following Reflects Our Commitment To You
 
-This notice applies to all information collected or submitted on the CareerPerfect.com and Monster.CareerPerfect.com websites.
+This notice applies to all information collected or submitted on the CareerPerfect.com, Monster.CareerPerfect.com, and MonsterRes.CareerPerfect.com websites.
 
 ## Information About All CareerPerfect.com Visitors
 
@@ -58,4 +58,4 @@ If we decide to change our privacy commitment for CareerPerfect.com, we will pos
 
 Thank you for using CareerPerfect.com. We'll keep working hard to earn your loyalty.
 
-Visit [Safe and Secure](https://web.archive.org/content/home-safe-and-secure/) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
+Visit [Safe and Secure](https://web.archive.org/content/home-safe-and-secure/?trk=1-20081002-48e4e87b3511f) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
