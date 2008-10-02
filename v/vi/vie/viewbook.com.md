@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529025157id_/http%3A//www.viewbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002143033id_/http%3A//www.viewbook.com/privacy) for the most accurate reproduction.*
 
 # Viewbook - Privacy Policy
 
@@ -25,7 +25,7 @@ Viewbook uses collected information for the following general purposes: products
 
 Viewbook may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, or when your actions violate the Terms of service.
 
-It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including, without limitation: fraud, situations involiving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
+It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including, without limitation: fraud, situations involving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
 
 We may share aggregated non-personal information with third parties.
 
@@ -52,7 +52,7 @@ You can choose to make your images, presentations and web pages public for anyon
 
 **Practices Regarding Your Ability to Update or Delete Information**
 
-You can delete individual images, presentations and web pages that you have on Viewvook by selecting the images, presentations ans web pages that you wish to delete, by dropping them on the Trash icon. Visit your Viewbook account information area to edit your profile setiings.
+You can delete individual images, presentations and web pages that you have on Viewbook by selecting the images, presentations and web pages that you wish to delete and by dropping them on the Trash icon. Visit your Viewbook account information area to edit your profile settings.
 
 **Contact Us**
 
