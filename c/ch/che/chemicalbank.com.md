@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617235458id_/http%3A//www.chemicalbank.com/esecurity/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002105722id_/http%3A//www.chemicalbank.com/esecurity/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Chemical Bank - Privacy Policy
+
+[ ](https://web.archive.org/index.htm)
 
 ### Privacy Policy
 
