@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadaupdates.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609192744id_/http%3A//www.canadaupdates.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaupdates.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003001708id_/http%3A//www.canadaupdates.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Canada Updates
 
