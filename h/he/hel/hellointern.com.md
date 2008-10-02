@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607010326id_/http%3A//www.hellointern.com/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002070227id_/http%3A//www.hellointern.com/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
 
 # HelloIntern - One stop shop for Internships,Summer Jobs,Practical Traning and more...
 
