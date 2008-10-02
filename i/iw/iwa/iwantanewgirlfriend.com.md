@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608174749id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002082441id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
 
 # :: I Want a New Girlfriend
 
 **Visit These Great Sites**  
 ---  
   
-| **Site of the Moment:   [ **Al Gore Invented the Internet**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3412 "Al Gore Invented the Internet")  **  
+| **Site of the Moment:   [ **Fuckalious Porn**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=28617 "Fuckalious Porn")  **  
 ---  
-#1| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #8| [Fat Rac](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10408 "Fat Rac")| #15| [Milf Porn Sites](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9177 "Milf Porn Sites")  
-#2| [RexMag.com eZine](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=37230 "RexMag.com eZine")| #9| [Peachy Forum](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17739 "Peachy Forum")| #16| [Non Nude Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5720 "Non Nude Porn")  
-#3| [Fuckalious Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=28617 "Fuckalious Porn")| #10| [Rich Snob](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9032 "Rich Snob")| #17| [Porn Snake](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7072 "Porn Snake")  
-#4| [Pinkems Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=29583 "Pinkems Babes")| #11| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")| #18| [All Sexy Chix](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4932 "All Sexy Chix")  
-#5| [Nude Celebrities](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=24617 "Nude Celebrities")| #12| [101 Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5721 "101 Babes")| #19| [PornHoolio.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4366 "PornHoolio.com")  
-#6| [Free Ones](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7344 "Free Ones")| #13| [Porn FU](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5199 "Porn FU")| #20| [Mad For Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17774 "Mad For Porn")  
-#7| [Sewer Dogs](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10764 "Sewer Dogs")| #14| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")| #21| [FigaFemale.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=26737 "FigaFemale.com")  
+#1| [Free Ones](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7344 "Free Ones")| #8| [Porn FU](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5199 "Porn FU")| #15| [Sexual Reality](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10275 "Sexual Reality")  
+#2| [Hot Porn Reviews](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3 "Hot Porn Reviews")| #9| [Fucking Mother Fucker](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3115 "Fucking Mother Fucker")| #16| [SF Bay Videos](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=26226 "SF Bay Videos")  
+#3| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #10| [Dream Ass](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7914 "Dream Ass")| #17| [Pinkems Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=29583 "Pinkems Babes")  
+#4| [Fat Rac](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10408 "Fat Rac")| #11| [Little Midgets](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=8970 "Little Midgets")| #18| [Rich Snob](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9032 "Rich Snob")  
+#5| [Non Nude Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5720 "Non Nude Porn")| #12| [Fuckalious Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=28617 "Fuckalious Porn")| #19| [Milf Porn Sites](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9177 "Milf Porn Sites")  
+#6| [Porn Snake](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7072 "Porn Snake")| #13| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")| #20| [PornHoolio.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4366 "PornHoolio.com")  
+#7| [Peachy Forum](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17739 "Peachy Forum")| #14| [Gay Sex and Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5001 "Gay Sex and Porn")| #21| [All Sexy Chix](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4932 "All Sexy Chix")  
   
 * * *
 
