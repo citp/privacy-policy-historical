@@ -1,0 +1,2950 @@
+<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2008-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081002100333id_/http%3A//www.americanblinds.com/help/security.asp) for the most accurate reproduction.-->
+
+<html><head>    
+<title>Friendly Blinds And Wallpaper Help And Information Guide: Best Prices at AmericanBlinds.com</title>
+   
+<meta name="description" content="Shop American Blinds for blinds and wallpaper help and information guide free shipping and lowest prices guaranteed">
+<meta name="keywords" content="blinds help, help buying blinds, how-to blinds, how-to window treatments">
+
+<meta name="robots" content="index,follow">
+
+<meta name="Robots" content="NOODP">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+DIV.clSlide{position:absolute;  ;z-index:10; left:0; width:135; height:22;  padding:1px;}
+DIV.clSlideSub{position:absolute; ;z-index:10; padding:2px; clip:rect(0,135,18,0); width:135; height:18; left:0; visibility:hidden}
+#divSlideCont{position:absolute; z-index:10; left:0; top:100; height:600; width:170; visibility:hidden}
+A.clSlideLinks{font-family:Arial, Helvetica, Helv; font-size:12px; font-weight:bold; text-decoration:none; color:Navy}
+A.clSlideSubLinks{font-family:Arial, Helvetica, Helv; font-size:10px; text-decoration:none; color:Navy}
+</style>
+
+
+<script language="JavaScript" type="text/javascript">
+/**********************************************************************************   
+SlideMenu 
+*   Copyright (C) 2001 Thomas Brattli
+*   This script was released at DHTMLCentral.com
+*   Visit for more great scripts!
+*   This may be used and changed freely as long as this msg is intact!
+*   We will also appreciate any links you could give us.
+*
+*   Made by Thomas Brattli
+*
+*   Script date: 01/29/2002 (keep this date to check versions) 
+*********************************************************************************/
+function lib_bwcheck(){ //Browsercheck (needed)
+	this.ver=navigator.appVersion
+	this.agent=navigator.userAgent
+	this.dom=document.getElementById?1:0
+	this.opera5=(navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?1:0
+	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0; 
+	this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
+	this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
+	this.ie=this.ie4||this.ie5||this.ie6
+	this.mac=this.agent.indexOf("Mac")>-1
+	this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
+	this.ns4=(document.layers && !this.dom)?1:0;
+	this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
+	return this
+}
+var bw=lib_bwcheck()
+
+global1="1";
+
+//Opera didn't seem to like the padding in the layers, it messes up the background-images, so here's a version without it.
+if(bw.opera5) document.write("<style>DIV.clSlide{padding:0px; background-image:url(' ')}\nDIV.clSlideSub{padding:0px; background-image:url(' ')}</style>")
+
+/************************************************************************************
+Making cross-browser objects
+************************************************************************************/
+function makeMenuObj(obj,nest){
+
+	nest=(!nest) ? "":'document.'+nest+'.'										
+   	this.css=bw.dom? document.getElementById(obj).style:bw.ie4?document.all[obj].style:bw.ns4?eval(nest+"document.layers." +obj):0;		
+	this.el=bw.dom?document.getElementById(obj):bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):0;	
+	this.ref=bw.dom || bw.ie4? document:bw.ns4?eval(nest+"document.layers." +obj+".document"):0;		
+	this.x=(bw.ns4 || bw.ns5)? this.css.left:this.css.offsetLeft;
+	this.y=(bw.ns4 || bw.ns5)? this.css.top:this.css.offsetTop;		
+	this.hideIt=b_hideIt; this.showIt=b_showIt; this.movey=b_movey
+	this.moveIt=b_moveIt; this.moveBy=b_moveBy; this.status=0; 
+	this.bgImg=b_bgImg;	this.obj = obj + "Object"; eval(this.obj + "=this"); 
+	this.clipTo=b_clipTo;
+	return this
+}
+function b_showIt(){this.css.visibility="visible"; this.status=1}
+function b_hideIt(){this.css.visibility="hidden"; this.status=0}
+function b_movey(y){this.y=y; this.css.top=this.y}	
+function b_moveIt(x,y){this.x=x; this.y=y; this.css.left=this.x;this.css.top=this.y}
+function b_moveBy(x,y){this.x=this.x+x; this.y=this.y+y; this.css.left=this.x;this.css.top=this.y}
+function b_bgImg(img){if(bw.ie||bw.dom)this.css.backgroundImage="url("+img+")"
+else this.css.background.src=img
+}
+function b_clipTo(t,r,b,l,w){if(bw.ns4){this.css.clip.top=t;this.css.clip.right=r
+this.css.clip.bottom=b;this.css.clip.left=l
+}else{this.css.clip="rect("+t+","+r+","+b+","+l+")"; if(w){this.css.width=r; this.css.height=b}}}
+/********************************************************************************
+Initiating page, making objects..
+********************************************************************************/
+function SlideMenuInit(){
+	oSlideMenu=new makeMenuObj('divSlideCont')
+	oSlideMenu.moveIt(menux,menuy)
+	oSlide=new Array()
+	for(i=0;i<menus.length;i++){
+		oSlide[i]=new makeMenuObj('divSlide'+i,'divSlideCont')
+		oSlide[i].subs=menus[i].subs
+		oSlide[i].sub=new Array()
+		oSlide[i].moveIt(0,mainheight*i)
+		oSlide[i].starty=oSlide[i].y
+    if(bw.opera) oSlide[i].css.paddingLeft="10px"
+		for(j=0;j<oSlide[i].subs;j++){
+			oSlide[i].sub[j]=new makeMenuObj('divSlideSub'+i+"_"+j,'divSlideCont')
+			oSlide[i].sub[j].moveIt(10,oSlide[i].y+subheight*j+between)
+			oSlide[i].sub[j].starty=oSlide[i].sub[j].y
+			oSlide[i][j]=new Array()
+			oSlide[i][j].subs=menus[i][j].subs
+			oSlide[i][j].sub=new Array()
+			img=level1_round
+			if(oSlide[i][j].subs!=0){
+
+				oSlide[i].sub[j].css.color="white"
+			}else{
+				if(j!=oSlide[i].subs-1)img=level1_regular
+			}
+			oSlide[i].sub[j].origimg=img
+			oSlide[i].sub[j].bgImg(img)
+			for(a=0;a<oSlide[i][j].subs;a++){
+				oSlide[i][j].sub[a]=new makeMenuObj('divSlideSub'+i+"_"+j+"_"+a,'divSlideCont')
+				oSlide[i][j].sub[a].moveIt(20,oSlide[i].sub[j].y+subheight*a+between-2)
+				oSlide[i][j].sub[a].starty=oSlide[i][j].sub[a].y			
+				oSlide[i][j][a]=new Array()
+				oSlide[i][j][a].subs=menus[i][j][a].subs
+				oSlide[i][j][a].sub=new Array()
+				oSlide[i][j].sub[a].origimg=img
+				oSlide[i][j].sub[a].bgImg(img)
+			}
+		}
+	}
+	oSlideMenu.showIt()
+	
+	
+	if(menuval==1){
+	 global1="2";
+	 swmenu(0,-1,-1);
+    }
+    if(menuval==2){
+     global1="2"; 
+     swmenu(1,-1,-1);
+    }
+    if(menuval==3){
+     global1="2";    
+     swmenu(2,-1,-1);
+    }
+    if(menuval==4){
+     global1="2";    
+     swmenu(3,-1,-1);
+    }
+    if(menuval==5){
+     global1="2";    
+     swmenu(4,-1,-1);
+    }
+    if(menuval==6){
+     global1="2";    
+     swmenu(5,-1,-1);
+    }    
+    if(menuval==7){
+     global1="2";    
+     swmenu(6,-1,-1);
+    }    
+    if(menuval==8){
+     global1="2";    
+     swmenu(7,-1,-1);
+    }  
+    if(menuval==9){
+     global1="2";    
+     swmenu(8,-1,-1);
+    }   
+    if(menuval==10){
+     global1="2";    
+     swmenu(9,-1,-1);
+    }  
+}
+/********************************************************************************
+Variables
+********************************************************************************/
+var active=-1;var going;var isthere; var sactive=-1; var sisthere=-1; var s2active=-1; var s2isthere=-1
+
+//var expires = new Date();
+//expires.setTime (expires.getTime() + 24 * 60 * 60 * 30 * 1000);
+//var expiryDate = expires.toGMTString();
+
+/********************************************************************************
+Switch menu function.
+********************************************************************************/
+function swmenu(num,snum,s2num){
+    
+     var num2=parseInt(snum) + 1;
+     var testmenu = "testmenu=" + num + " ;path=" + "/help/";  
+     if (num2==0) {
+      if(global1!="2"){
+       document.cookie=testmenu      
+      } 
+      else {global1="1"};
+     }
+    
+    //document.cookie="testmenu=" + num + "; expires=" + expiryDate;    
+    
+	if(snum!=-1){
+		if(oSlide[num][snum].subs==0) return
+	}
+	if(s2num!=-1){
+		if(oSlide[num][snum][s2num].subs==0) return
+	}
+	if((num!=active || snum!=sactive || s2num!=s2active) && !going){going=true;isthere=0;sisthere=0;moveUp(num,snum,s2num)}
+}
+/********************************************************************************
+Moving the menus upward to their original position.
+********************************************************************************/
+function moveUp(num,snum){
+	if(snum==-1){
+		for(i=0;i<oSlide.length;i++){
+			if(oSlide[i].y>oSlide[i].starty+pxspeed && active!=i) oSlide[i].moveBy(0,-pxspeed)
+			else{if(active!=i) oSlide[i].moveIt(oSlide[i].x,oSlide[i].starty); isthere=i}
+		}
+		
+		if(isthere<oSlide.length-1) setTimeout("moveUp("+num+","+snum+")",timspeed)
+		else swmenu2(num,snum)
+	}else{
+		if(num==oSlide.length-1) isthere=num
+	
+		if(sactive!=-1){ //Is out!
+			//Slide subs
+			j=0
+			for(i=sactive+1;i<oSlide[num].sub.length;i++){
+				j++
+				if(oSlide[num].sub[i].y>oSlide[num].sub[i].starty+pxspeed) oSlide[num].sub[i].moveBy(0,-pxspeed)
+				else{oSlide[num].sub[i].moveIt(oSlide[num].sub[i].x,oSlide[num].sub[i].starty); sisthere=i}
+			}
+			//Slide main
+			for(i=num+1;i<oSlide.length;i++){
+				if(oSlide[i].y>oSlide[i].starty + oSlide[num].sub[sactive].y +subheight*j )  oSlide[i].moveBy(0,-pxspeed)
+				else{oSlide[i].moveIt(oSlide[i].x,oSlide[i].starty + oSlide[num].sub[sactive].y +subheight*j ); isthere=i}
+			}
+		}else{ //Slide to the one clicked
+			for(i=num+1;i<oSlide.length;i++){
+				if(oSlide[i].y>oSlide[i].starty + snum*between+between)  oSlide[i].moveBy(0,-pxspeed)
+				else{oSlide[i].moveIt(oSlide[i].x,oSlide[i].starty + snum*between+between); isthere=i}
+			}
+		}
+		if(isthere<oSlide.length-1 || (sactive!=-1 && sisthere<oSlide[num].sub.length-1 && sactive!=oSlide[num].sub.length-1)) setTimeout("moveUp("+num+","+snum+")",timspeed)
+		else swmenu2(num,snum)
+	}
+}
+/********************************************************************************
+Switch menu 2, stuff that happens before the menus are moved down again.
+********************************************************************************/
+function swmenu2(num,snum){
+	isthere=0;
+	sisthere=0;
+	if(active>-1 && snum==-1){
+		//Hiding submenus
+		for(j=0;j<oSlide[active].subs;j++){oSlide[active].sub[j].hideIt()}
+		oSlide[active].moveIt(0,oSlide[active].starty)
+	}
+	if(sactive>-1){
+		//Hiding submenus
+		for(j=0;j<oSlide[active][sactive].sub.length;j++){oSlide[active][sactive].sub[j].hideIt()}
+		oSlide[active].sub[sactive].bgImg(oSlide[active].sub[sactive].origimg)
+		oSlide[active].sub[sactive].moveIt(10,oSlide[active].sub[sactive].starty)
+		//Move back to place
+		for(i=sactive+1;i<oSlide[active].sub.length;i++){
+			oSlide[active].sub[i].moveIt(oSlide[active].sub[i].x,oSlide[active].sub[i].starty)
+		}
+	}
+	active=num
+	//Showing submenus
+	if(snum>-1){
+		sactive=snum
+		for(j=0;j<oSlide[num][snum].sub.length;j++){oSlide[num][snum].sub[j].showIt()}
+		oSlide[num].sub[snum].moveBy(10,3)
+
+	}else{
+		sactive=-1
+		for(j=0;j<oSlide[active].subs;j++){oSlide[active].sub[j].showIt()}
+		oSlide[num].moveBy(10,3)
+	}
+	if(num!=oSlide.length-1) moveDown(num,snum)
+	else{
+		isthere=num
+		moveDown(num,snum)
+	}
+}
+/********************************************************************************
+Moving the menus down
+********************************************************************************/
+function moveDown(num,snum){
+	//if(num==oSlide.length-1) isthere=num
+	for(i=num+1;i<oSlide.length;i++){
+		if(snum==-1){
+			if(oSlide[i].y<(oSlide[num].subs-1)*subheight+oSlide[i].starty+between-pxspeed) oSlide[i].moveBy(0,pxspeed)
+			else{oSlide[i].moveIt(oSlide[i].x,(oSlide[num].subs-1)*subheight+oSlide[i].starty+between); isthere=i}
+		}else{
+			if(oSlide[i].y<(oSlide[num].subs-1)*subheight+oSlide[i].starty+between-pxspeed + (oSlide[num][snum].subs-1)*subheight+between)  oSlide[i].moveBy(0,pxspeed)
+			else{oSlide[i].moveIt(oSlide[i].x,(oSlide[num].subs-1)*subheight+oSlide[i].starty+between  + (oSlide[num][snum].subs-1)*subheight+between); isthere=i}
+		}
+	}
+	if(snum!=-1){
+		for(i=snum+1;i<oSlide[num].sub.length;i++){		
+			if(oSlide[num].sub[i].y<(oSlide[num][snum].subs-1)*subheight+oSlide[num].sub[i].starty+between-pxspeed) oSlide[num].sub[i].moveBy(0,pxspeed)
+			else{oSlide[num].sub[i].moveIt(oSlide[num].sub[i].x,(oSlide[num][snum].subs-1)*subheight+oSlide[num].sub[i].starty+between); sisthere=i}
+		}
+	}
+	if(snum==-1){
+		if(isthere<oSlide.length-1) setTimeout("moveDown("+num+","+snum+")",timspeed)
+		else going=false
+	}else{
+		if(isthere<oSlide.length-1 || (sisthere<oSlide[num].sub.length-1 && snum!=oSlide[num].sub.length-1)) setTimeout("moveDown("+num+","+snum+")",timspeed)
+		else going=false
+	}
+}
+var test=0
+/********************************************************************************
+Functions to write out the layers...
+********************************************************************************/
+menus=new Array(); var a=0; var b=0; var c=0; var d=0
+
+var menuval;
+var help1;
+help1=0;
+
+function makeMenu(type,text,lnk,target,end){
+
+	str=""; tg="";
+  if(target) tg='target="'+target+'"';
+  if(!lnk) lnk="#";
+  //self.status=lnk;
+	if(a==0) str='<div id="divSlideCont">\n';
+	if(type=="top"){
+		menus[a]=new Array();
+		if(text=="seperator"){
+			str+='\t<div id="divSlide'+a+'" class="clSlide"></div>\n';
+			menus[a].seperator=1;
+		}else{
+      str+='\t<div id="divSlide'+a+'" class="clSlide"><a href="'+lnk+'" '+tg+' onclick="swmenu('+a+',-1,-1); if(bw.ie || bw.ns6) this.blur(); ';
+      if(lnk=="#") str+='return false';
+      str+='" class="clSlideLinks"> '+text+'</a><br></div>\n';
+      
+      if (help1>0) {
+        menuval=parseInt(help1);
+        var mainm=menuval-1;
+        if (mainm==parseInt(a)) {
+         var testmenu = "testmenu=" + mainm + " ;path=" + "/help/";          
+         if(global1!="2"){
+          document.cookie=testmenu;     
+         } 
+         else {global1="1"}       
+         } 
+       } 
+      }  
+       
+      
+		
+    menus[a].subs=0; a++; b=0;
+	}else if(type=="sub"){
+		str+='\t\t<div id="divSlideSub'+(a-1)+'_'+(b)+'" class="clSlideSub"><a '+tg+' onclick="swmenu('+(a-1)+','+b+',-1); if(bw.ie || bw.ns6) this.blur(); ';
+    if(lnk=="#") str+='return false';
+    str+='" href="'+lnk+'" class="clSlideSubLinks">  '+text+'</a><br></div>\n';
+		b++; menus[a-1].subs=b; menus[a-1][b-1]=new Array(); c=0; menus[a-1][b-1].subs=0;
+	}
+	if(end) str+="</div>";
+	document.write(str);
+}
+function preLoadBackgrounds(){
+  for(i=0;i<arguments.length;i++){
+    this[i]=new Image();
+    this[i].src=arguments[i];
+  }
+  return this;
+}
+</script>
+<link href="/css/abwmstyles.css" rel="stylesheet" type="text/css">
+<!-- <link href="abwmstyles.css" rel="stylesheet" type="text/css" /> -->
+
+<script language="javascript">
+//\/////
+//\  overLIB 4.17 - You may not remove or change this notice.
+//\  Copyright Erik Bosrup 1998-2004. All rights reserved.
+//\
+//\  Contributors are listed on the homepage.
+//\  This file might be old, always check for the latest version at:
+//\  http://www.bosrup.com/web/overlib/
+//\
+//\  Please read the license agreement (available through the link above)
+//\  before using overLIB. Direct any licensing questions to erik@bosrup.com.
+//\
+//\  Do not sell this as your own work or remove this copyright notice. 
+//\  For full details on copying or changing this script please read the
+//\  license agreement at the link above. Please give credit on sites that
+//\  use overLIB and submit changes of the script so other people can use
+//\  them as well.
+//   $Revision: 1.112 $                $Date: 2005/03/08 19:22:53 $
+//\/////
+//\mini
+
+////////
+// PRE-INIT
+// Ignore these lines, configuration is below.
+////////
+var olLoaded = 0;var pmStart = 10000000; var pmUpper = 10001000; var pmCount = pmStart+1; var pmt=''; var pms = new Array(); var olInfo = new Info('4.17', 1);
+var FREPLACE = 0; var FBEFORE = 1; var FAFTER = 2; var FALTERNATE = 3; var FCHAIN=4;
+var olHideForm=0;  // parameter for hiding SELECT and ActiveX elements in IE5.5+ 
+var olHautoFlag = 0;  // flags for over-riding VAUTO and HAUTO if corresponding
+var olVautoFlag = 0;  // positioning commands are used on the command line
+registerCommands('donothing,inarray,caparray,sticky,background,noclose,caption,left,right,center,offsetx,offsety,fgcolor,bgcolor,textcolor,capcolor,closecolor,width,border,cellpad,status,autostatus,autostatuscap,height,closetext,snapx,snapy,fixx,fixy,relx,rely,fgbackground,bgbackground,padx,pady,fullhtml,above,below,capicon,textfont,captionfont,closefont,textsize,captionsize,closesize,timeout,function,delay,hauto,vauto,closeclick,wrap,followmouse,mouseoff,closetitle,cssoff,compatmode,cssclass,fgclass,bgclass,textfontclass,captionfontclass,closefontclass');
+
+////////
+// DEFAULT CONFIGURATION
+// Settings you want everywhere are set here. All of this can also be
+// changed on your html page or through an overLIB call.
+////////
+if (typeof ol_fgcolor=='undefined') var ol_fgcolor="#E7F1F2";
+if (typeof ol_bgcolor=='undefined') var ol_bgcolor="#23498A";
+if (typeof ol_textcolor=='undefined') var ol_textcolor="#000000";
+if (typeof ol_capcolor=='undefined') var ol_capcolor="#FFFFFF";
+if (typeof ol_closecolor=='undefined') var ol_closecolor="#9999FF";
+if (typeof ol_textfont=='undefined') var ol_textfont="Verdana,Arial,Helvetica";
+if (typeof ol_captionfont=='undefined') var ol_captionfont="Verdana,Arial,Helvetica";
+if (typeof ol_closefont=='undefined') var ol_closefont="Verdana,Arial,Helvetica";
+if (typeof ol_textsize=='undefined') var ol_textsize="1";
+if (typeof ol_captionsize=='undefined') var ol_captionsize="1";
+if (typeof ol_closesize=='undefined') var ol_closesize="1";
+if (typeof ol_width=='undefined') var ol_width="200";
+if (typeof ol_border=='undefined') var ol_border="1";
+if (typeof ol_cellpad=='undefined') var ol_cellpad=2;
+if (typeof ol_offsetx=='undefined') var ol_offsetx=10;
+if (typeof ol_offsety=='undefined') var ol_offsety=10;
+if (typeof ol_text=='undefined') var ol_text="Default Text";
+if (typeof ol_cap=='undefined') var ol_cap="";
+if (typeof ol_sticky=='undefined') var ol_sticky=0;
+if (typeof ol_background=='undefined') var ol_background="";
+if (typeof ol_close=='undefined') var ol_close="Close";
+if (typeof ol_hpos=='undefined') var ol_hpos=RIGHT;
+if (typeof ol_status=='undefined') var ol_status="";
+if (typeof ol_autostatus=='undefined') var ol_autostatus=0;
+if (typeof ol_height=='undefined') var ol_height=-1;
+if (typeof ol_snapx=='undefined') var ol_snapx=0;
+if (typeof ol_snapy=='undefined') var ol_snapy=0;
+if (typeof ol_fixx=='undefined') var ol_fixx=-1;
+if (typeof ol_fixy=='undefined') var ol_fixy=-1;
+if (typeof ol_relx=='undefined') var ol_relx=null;
+if (typeof ol_rely=='undefined') var ol_rely=null;
+if (typeof ol_fgbackground=='undefined') var ol_fgbackground="";
+if (typeof ol_bgbackground=='undefined') var ol_bgbackground="";
+if (typeof ol_padxl=='undefined') var ol_padxl=1;
+if (typeof ol_padxr=='undefined') var ol_padxr=1;
+if (typeof ol_padyt=='undefined') var ol_padyt=1;
+if (typeof ol_padyb=='undefined') var ol_padyb=1;
+if (typeof ol_fullhtml=='undefined') var ol_fullhtml=0;
+if (typeof ol_vpos=='undefined') var ol_vpos=BELOW;
+if (typeof ol_aboveheight=='undefined') var ol_aboveheight=0;
+if (typeof ol_capicon=='undefined') var ol_capicon="";
+if (typeof ol_frame=='undefined') var ol_frame=self;
+if (typeof ol_timeout=='undefined') var ol_timeout=0;
+if (typeof ol_function=='undefined') var ol_function=null;
+if (typeof ol_delay=='undefined') var ol_delay=0;
+if (typeof ol_hauto=='undefined') var ol_hauto=0;
+if (typeof ol_vauto=='undefined') var ol_vauto=0;
+if (typeof ol_closeclick=='undefined') var ol_closeclick=0;
+if (typeof ol_wrap=='undefined') var ol_wrap=0;
+if (typeof ol_followmouse=='undefined') var ol_followmouse=1;
+if (typeof ol_mouseoff=='undefined') var ol_mouseoff=0;
+if (typeof ol_closetitle=='undefined') var ol_closetitle='Close';
+if (typeof ol_compatmode=='undefined') var ol_compatmode=0;
+if (typeof ol_css=='undefined') var ol_css=CSSOFF;
+if (typeof ol_fgclass=='undefined') var ol_fgclass="";
+if (typeof ol_bgclass=='undefined') var ol_bgclass="";
+if (typeof ol_textfontclass=='undefined') var ol_textfontclass="";
+if (typeof ol_captionfontclass=='undefined') var ol_captionfontclass="";
+if (typeof ol_closefontclass=='undefined') var ol_closefontclass="";
+
+////////
+// ARRAY CONFIGURATION
+////////
+
+// You can use these arrays to store popup text here instead of in the html.
+if (typeof ol_texts=='undefined') var ol_texts = new Array("Text 0", "Text 1");
+if (typeof ol_caps=='undefined') var ol_caps = new Array("Caption 0", "Caption 1");
+
+////////
+// END OF CONFIGURATION
+// Don't change anything below this line, all configuration is above.
+////////
+
+
+
+
+
+////////
+// INIT
+////////
+// Runtime variables init. Don't change for config!
+var o3_text="";
+var o3_cap="";
+var o3_sticky=0;
+var o3_background="";
+var o3_close="Close";
+var o3_hpos=RIGHT;
+var o3_offsetx=2;
+var o3_offsety=2;
+var o3_fgcolor="";
+var o3_bgcolor="";
+var o3_textcolor="";
+var o3_capcolor="";
+var o3_closecolor="";
+var o3_width=100;
+var o3_border=1;
+var o3_cellpad=2;
+var o3_status="";
+var o3_autostatus=0;
+var o3_height=-1;
+var o3_snapx=0;
+var o3_snapy=0;
+var o3_fixx=-1;
+var o3_fixy=-1;
+var o3_relx=null;
+var o3_rely=null;
+var o3_fgbackground="";
+var o3_bgbackground="";
+var o3_padxl=0;
+var o3_padxr=0;
+var o3_padyt=0;
+var o3_padyb=0;
+var o3_fullhtml=0;
+var o3_vpos=BELOW;
+var o3_aboveheight=0;
+var o3_capicon="";
+var o3_textfont="Verdana,Arial,Helvetica";
+var o3_captionfont="Verdana,Arial,Helvetica";
+var o3_closefont="Verdana,Arial,Helvetica";
+var o3_textsize="1";
+var o3_captionsize="1";
+var o3_closesize="1";
+var o3_frame=self;
+var o3_timeout=0;
+var o3_timerid=0;
+var o3_allowmove=0;
+var o3_function=null; 
+var o3_delay=0;
+var o3_delayid=0;
+var o3_hauto=0;
+var o3_vauto=0;
+var o3_closeclick=0;
+var o3_wrap=0;
+var o3_followmouse=1;
+var o3_mouseoff=0;
+var o3_closetitle='';
+var o3_compatmode=0;
+var o3_css=CSSOFF;
+var o3_fgclass="";
+var o3_bgclass="";
+var o3_textfontclass="";
+var o3_captionfontclass="";
+var o3_closefontclass="";
+
+// Display state variables
+var o3_x = 0;
+var o3_y = 0;
+var o3_showingsticky = 0;
+var o3_removecounter = 0;
+
+// Our layer
+var over = null;
+var fnRef, hoveringSwitch = false;
+var olHideDelay;
+
+// Decide browser version
+var isMac = (navigator.userAgent.indexOf("Mac") != -1);
+var olOp = (navigator.userAgent.toLowerCase().indexOf('opera') > -1 && document.createTextNode);  // Opera 7
+var olNs4 = (navigator.appName=='Netscape' && parseInt(navigator.appVersion) == 4);
+var olNs6 = (document.getElementById) ? true : false;
+var olKq = (olNs6 && /konqueror/i.test(navigator.userAgent));
+var olIe4 = (document.all) ? true : false;
+var olIe5 = false; 
+var olIe55 = false; // Added additional variable to identify IE5.5+
+var docRoot = 'document.body';
+
+// Resize fix for NS4.x to keep track of layer
+if (olNs4) {
+	var oW = window.innerWidth;
+	var oH = window.innerHeight;
+	window.onresize = function() { if (oW != window.innerWidth || oH != window.innerHeight) location.reload(); }
+}
+
+// Microsoft Stupidity Check(tm).
+if (olIe4) {
+	var agent = navigator.userAgent;
+	if (/MSIE/.test(agent)) {
+		var versNum = parseFloat(agent.match(/MSIE[ ](\d\.\d+)\.*/i)[1]);
+		if (versNum >= 5){
+			olIe5=true;
+			olIe55=(versNum>=5.5&&!olOp) ? true : false;
+			if (olNs6) olNs6=false;
+		}
+	}
+	if (olNs6) olIe4 = false;
+}
+
+// Check for compatability mode.
+if (document.compatMode && document.compatMode == 'CSS1Compat') {
+	docRoot= ((olIe4 && !olOp) ? 'document.documentElement' : docRoot);
+}
+
+// Add window onload handlers to indicate when all modules have been loaded
+// For Netscape 6+ and Mozilla, uses addEventListener method on the window object
+// For IE it uses the attachEvent method of the window object and for Netscape 4.x
+// it sets the window.onload handler to the OLonload_handler function for Bubbling
+if(window.addEventListener) window.addEventListener("load",OLonLoad_handler,false);
+else if (window.attachEvent) window.attachEvent("onload",OLonLoad_handler);
+
+// Capture events, alt. diffuses the overlib function.
+var olCheckMouseCapture = true;
+if ((olNs4 || olNs6 || olIe4)) {
+	olMouseCapture();
+} else {
+	overlib = no_overlib;
+	nd = no_overlib;
+	ver3fix = true;
+}
+
+
+////////
+// PUBLIC FUNCTIONS
+////////
+
+// overlib(arg0,...,argN)
+// Loads parameters into global runtime variables.
+function overlib() {
+	if (!olLoaded || isExclusive(overlib.arguments)) return true;
+	if (olCheckMouseCapture) olMouseCapture();
+	if (over) {
+		over = (typeof over.id != 'string') ? o3_frame.document.all['overDiv'] : over;
+		cClick();
+	}
+
+	// Load defaults to runtime.
+  olHideDelay=0;
+	o3_text=ol_text;
+	o3_cap=ol_cap;
+	o3_sticky=ol_sticky;
+	o3_background=ol_background;
+	o3_close=ol_close;
+	o3_hpos=ol_hpos;
+	o3_offsetx=ol_offsetx;
+	o3_offsety=ol_offsety;
+	o3_fgcolor=ol_fgcolor;
+	o3_bgcolor=ol_bgcolor;
+	o3_textcolor=ol_textcolor;
+	o3_capcolor=ol_capcolor;
+	o3_closecolor=ol_closecolor;
+	o3_width=ol_width;
+	o3_border=ol_border;
+	o3_cellpad=ol_cellpad;
+	o3_status=ol_status;
+	o3_autostatus=ol_autostatus;
+	o3_height=ol_height;
+	o3_snapx=ol_snapx;
+	o3_snapy=ol_snapy;
+	o3_fixx=ol_fixx;
+	o3_fixy=ol_fixy;
+	o3_relx=ol_relx;
+	o3_rely=ol_rely;
+	o3_fgbackground=ol_fgbackground;
+	o3_bgbackground=ol_bgbackground;
+	o3_padxl=ol_padxl;
+	o3_padxr=ol_padxr;
+	o3_padyt=ol_padyt;
+	o3_padyb=ol_padyb;
+	o3_fullhtml=ol_fullhtml;
+	o3_vpos=ol_vpos;
+	o3_aboveheight=ol_aboveheight;
+	o3_capicon=ol_capicon;
+	o3_textfont=ol_textfont;
+	o3_captionfont=ol_captionfont;
+	o3_closefont=ol_closefont;
+	o3_textsize=ol_textsize;
+	o3_captionsize=ol_captionsize;
+	o3_closesize=ol_closesize;
+	o3_timeout=ol_timeout;
+	o3_function=ol_function;
+	o3_delay=ol_delay;
+	o3_hauto=ol_hauto;
+	o3_vauto=ol_vauto;
+	o3_closeclick=ol_closeclick;
+	o3_wrap=ol_wrap;	
+	o3_followmouse=ol_followmouse;
+	o3_mouseoff=ol_mouseoff;
+	o3_closetitle=ol_closetitle;
+	o3_css=ol_css;
+	o3_compatmode=ol_compatmode;
+	o3_fgclass=ol_fgclass;
+	o3_bgclass=ol_bgclass;
+	o3_textfontclass=ol_textfontclass;
+	o3_captionfontclass=ol_captionfontclass;
+	o3_closefontclass=ol_closefontclass;
+	
+	setRunTimeVariables();
+	
+	fnRef = '';
+	
+	// Special for frame support, over must be reset...
+	o3_frame = ol_frame;
+	
+	if(!(over=createDivContainer())) return false;
+
+	parseTokens('o3_', overlib.arguments);
+	if (!postParseChecks()) return false;
+
+	if (o3_delay == 0) {
+		return runHook("olMain", FREPLACE);
+ 	} else {
+		o3_delayid = setTimeout("runHook('olMain', FREPLACE)", o3_delay);
+		return false;
+	}
+}
+
+// Clears popups if appropriate
+function nd(time) {
+	if (olLoaded && !isExclusive()) {
+		hideDelay(time);  // delay popup close if time specified
+
+		if (o3_removecounter >= 1) { o3_showingsticky = 0 };
+		
+		if (o3_showingsticky == 0) {
+			o3_allowmove = 0;
+			if (over != null && o3_timerid == 0) runHook("hideObject", FREPLACE, over);
+		} else {
+			o3_removecounter++;
+		}
+	}
+	
+	return true;
+}
+
+// The Close onMouseOver function for stickies
+function cClick() {
+	if (olLoaded) {
+		runHook("hideObject", FREPLACE, over);
+		o3_showingsticky = 0;	
+	}	
+	return false;
+}
+
+// Method for setting page specific defaults.
+function overlib_pagedefaults() {
+	parseTokens('ol_', overlib_pagedefaults.arguments);
+}
+
+
+////////
+// OVERLIB MAIN FUNCTION
+////////
+
+// This function decides what it is we want to display and how we want it done.
+function olMain() {
+	var layerhtml, styleType;
+ 	runHook("olMain", FBEFORE);
+ 	
+	if (o3_background!="" || o3_fullhtml) {
+		// Use background instead of box.
+		layerhtml = runHook('ol_content_background', FALTERNATE, o3_css, o3_text, o3_background, o3_fullhtml);
+	} else {
+		// They want a popup box.
+		styleType = (pms[o3_css-1-pmStart] == "cssoff" || pms[o3_css-1-pmStart] == "cssclass");
+
+		// Prepare popup background
+		if (o3_fgbackground != "") o3_fgbackground = "background=\""+o3_fgbackground+"\"";
+		if (o3_bgbackground != "") o3_bgbackground = (styleType ? "background=\""+o3_bgbackground+"\"" : o3_bgbackground);
+
+		// Prepare popup colors
+		if (o3_fgcolor != "") o3_fgcolor = (styleType ? "bgcolor=\""+o3_fgcolor+"\"" : o3_fgcolor);
+		if (o3_bgcolor != "") o3_bgcolor = (styleType ? "bgcolor=\""+o3_bgcolor+"\"" : o3_bgcolor);
+
+		// Prepare popup height
+		if (o3_height > 0) o3_height = (styleType ? "height=\""+o3_height+"\"" : o3_height);
+		else o3_height = "";
+
+		// Decide which kinda box.
+		if (o3_cap=="") {
+			// Plain
+			layerhtml = runHook('ol_content_simple', FALTERNATE, o3_css, o3_text);
+		} else {
+			// With caption
+			if (o3_sticky) {
+				// Show close text
+				layerhtml = runHook('ol_content_caption', FALTERNATE, o3_css, o3_text, o3_cap, o3_close);
+			} else {
+				// No close text
+				layerhtml = runHook('ol_content_caption', FALTERNATE, o3_css, o3_text, o3_cap, "");
+			}
+		}
+	}	
+
+	// We want it to stick!
+	if (o3_sticky) {
+		if (o3_timerid > 0) {
+			clearTimeout(o3_timerid);
+			o3_timerid = 0;
+		}
+		o3_showingsticky = 1;
+		o3_removecounter = 0;
+	}
+
+	// Created a separate routine to generate the popup to make it easier
+	// to implement a plugin capability
+	if (!runHook("createPopup", FREPLACE, layerhtml)) return false;
+
+	// Prepare status bar
+	if (o3_autostatus > 0) {
+		o3_status = o3_text;
+		if (o3_autostatus > 1) o3_status = o3_cap;
+	}
+
+	// When placing the layer the first time, even stickies may be moved.
+	o3_allowmove = 0;
+
+	// Initiate a timer for timeout
+	if (o3_timeout > 0) {          
+		if (o3_timerid > 0) clearTimeout(o3_timerid);
+		o3_timerid = setTimeout("cClick()", o3_timeout);
+	}
+
+	// Show layer
+	runHook("disp", FREPLACE, o3_status);
+	runHook("olMain", FAFTER);
+
+	return (olOp && event && event.type == 'mouseover' && !o3_status) ? '' : (o3_status != '');
+}
+
+////////
+// LAYER GENERATION FUNCTIONS
+////////
+// These functions just handle popup content with tags that should adhere to the W3C standards specification.
+
+// Makes simple table without caption
+function ol_content_simple(text) {
+	txt='<table width="'+o3_width+ '" border="0" cellpadding="'+o3_border+'" cellspacing="0" '+(o3_bgclass ? 'class="'+o3_bgclass+'"' : o3_bgcolor+' '+o3_height)+'><tr><td><table width="100%" border="0" cellpadding="' + o3_cellpad + '" cellspacing="0" '+(o3_fgclass ? 'class="'+o3_fgclass+'"' : o3_fgcolor+' '+o3_fgbackground+' '+o3_height)+'><tr><td valign="TOP"'+(o3_textfontclass ? ' class="'+o3_textfontclass+'">' : '>')+(o3_textfontclass ? '' : wrapStr(0,o3_textsize,'text'))+text+(o3_textfontclass ? '' : wrapStr(1,o3_textsize))+'</td></tr></table></td></tr></table>';
+
+	set_background("");
+	return txt;
+}
+
+// Makes table with caption and optional close link
+function ol_content_caption(text,title,close) {
+	var nameId;
+	closing="";
+	closeevent="onmouseover";
+	if (o3_closeclick==1) closeevent= (o3_closetitle ? "title='" + o3_closetitle +"'" : "") + " onclick";
+	if (o3_capicon!="") {
+		nameId=' hspace=\"5\"'+' align=\"middle\" alt=\"\"';
+		if (typeof o3_dragimg!='undefined'&&o3_dragimg) nameId=' hspace=\"5\"'+' name=\"'+o3_dragimg+'\" id=\"'+o3_dragimg+'\" align=\"middle\" alt=\"Drag Enabled\" title=\"Drag Enabled\"';
+		o3_capicon='<img src=\"'+o3_capicon+'\"'+nameId+' />';
+	}
+
+	if (close != "") 
+		closing='<td '+(!o3_compatmode && o3_closefontclass ? 'class="'+o3_closefontclass : 'align="RIGHT')+'"><a href="javascript:return '+fnRef+'cClick();"'+((o3_compatmode && o3_closefontclass) ? ' class="' + o3_closefontclass + '" ' : ' ')+closeevent+'="return '+fnRef+'cClick();">'+(o3_closefontclass ? '' : wrapStr(0,o3_closesize,'close'))+close+(o3_closefontclass ? '' : wrapStr(1,o3_closesize,'close'))+'</a></td>';
+	txt='<table width="'+o3_width+ '" border="0" cellpadding="'+o3_border+'" cellspacing="0" '+(o3_bgclass ? 'class="'+o3_bgclass+'"' : o3_bgcolor+' '+o3_bgbackground+' '+o3_height)+'><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td'+(o3_captionfontclass ? ' class="'+o3_captionfontclass+'">' : '>')+(o3_captionfontclass ? '' : '<b>'+wrapStr(0,o3_captionsize,'caption'))+o3_capicon+title+(o3_captionfontclass ? '' : wrapStr(1,o3_captionsize)+'</b>')+'</td>'+closing+'</tr></table><table width="100%" border="0" cellpadding="' + o3_cellpad + '" cellspacing="0" '+(o3_fgclass ? 'class="'+o3_fgclass+'"' : o3_fgcolor+' '+o3_fgbackground+' '+o3_height)+'><tr><td valign="TOP"'+(o3_textfontclass ? ' class="'+o3_textfontclass+'">' :'>')+(o3_textfontclass ? '' : wrapStr(0,o3_textsize,'text'))+text+(o3_textfontclass ? '' : wrapStr(1,o3_textsize)) + '</td></tr></table></td></tr></table>';
+
+	set_background("");
+	return txt;
+}
+
+// Sets the background picture,padding and lots more. :)
+function ol_content_background(text,picture,hasfullhtml) {
+	if (hasfullhtml) {
+		txt=text;
+	} else {
+		txt='<table width="'+o3_width+'" border="0" cellpadding="0" cellspacing="0" height="'+o3_height+'"><tr><td colspan="3" height="'+o3_padyt+'"></td></tr><tr><td width="'+o3_padxl+'"></td><td valign="TOP" width="'+(o3_width-o3_padxl-o3_padxr)+(o3_textfontclass ? '" class="'+o3_textfontclass : '')+'">'+(o3_textfontclass ? '' : wrapStr(0,o3_textsize,'text'))+text+(o3_textfontclass ? '' : wrapStr(1,o3_textsize))+'</td><td width="'+o3_padxr+'"></td></tr><tr><td colspan="3" height="'+o3_padyb+'"></td></tr></table>';
+	}
+
+	set_background(picture);
+	return txt;
+}
+
+// Loads a picture into the div.
+function set_background(pic) {
+	if (pic == "") {
+		if (olNs4) {
+			over.background.src = null; 
+		} else if (over.style) {
+			over.style.backgroundImage = "none";
+		}
+	} else {
+		if (olNs4) {
+			over.background.src = pic;
+		} else if (over.style) {
+			over.style.width=o3_width + 'px';
+			over.style.backgroundImage = "url("+pic+")";
+		}
+	}
+}
+
+////////
+// HANDLING FUNCTIONS
+////////
+var olShowId=-1;
+
+// Displays the popup
+function disp(statustext) {
+	runHook("disp", FBEFORE);
+	
+	if (o3_allowmove == 0) {
+		runHook("placeLayer", FREPLACE);
+		(olNs6&&olShowId<0) ? olShowId=setTimeout("runHook('showObject', FREPLACE, over)", 1) : runHook("showObject", FREPLACE, over);
+		o3_allowmove = (o3_sticky || o3_followmouse==0) ? 0 : 1;
+	}
+	
+	runHook("disp", FAFTER);
+
+	if (statustext != "") self.status = statustext;
+}
+
+// Creates the actual popup structure
+function createPopup(lyrContent){
+	runHook("createPopup", FBEFORE);
+	
+	if (o3_wrap) {
+		var wd,ww,theObj = (olNs4 ? over : over.style);
+		theObj.top = theObj.left = ((olIe4&&!olOp) ? 0 : -10000) + (!olNs4 ? 'px' : 0);
+		layerWrite(lyrContent);
+		wd = (olNs4 ? over.clip.width : over.offsetWidth);
+		if (wd > (ww=windowWidth())) {
+			lyrContent=lyrContent.replace(/\&nbsp;/g, ' ');
+			o3_width=ww;
+			o3_wrap=0;
+		} 
+	}
+
+	layerWrite(lyrContent);
+	
+	// Have to set o3_width for placeLayer() routine if o3_wrap is turned on
+	if (o3_wrap) o3_width=(olNs4 ? over.clip.width : over.offsetWidth);
+	
+	runHook("createPopup", FAFTER, lyrContent);
+
+	return true;
+}
+
+// Decides where we want the popup.
+function placeLayer() {
+	var placeX, placeY, widthFix = 0;
+	
+	// HORIZONTAL PLACEMENT, re-arranged to work in Safari
+	if (o3_frame.innerWidth) widthFix=18; 
+	iwidth = windowWidth();
+
+	// Horizontal scroll offset
+	winoffset=(olIe4) ? eval('o3_frame.'+docRoot+'.scrollLeft') : o3_frame.pageXOffset;
+
+	placeX = runHook('horizontalPlacement',FCHAIN,iwidth,winoffset,widthFix);
+
+	// VERTICAL PLACEMENT, re-arranged to work in Safari
+	if (o3_frame.innerHeight) {
+		iheight=o3_frame.innerHeight;
+	} else if (eval('o3_frame.'+docRoot)&&eval("typeof o3_frame."+docRoot+".clientHeight=='number'")&&eval('o3_frame.'+docRoot+'.clientHeight')) { 
+		iheight=eval('o3_frame.'+docRoot+'.clientHeight');
+	}			
+
+	// Vertical scroll offset
+	scrolloffset=(olIe4) ? eval('o3_frame.'+docRoot+'.scrollTop') : o3_frame.pageYOffset;
+	placeY = runHook('verticalPlacement',FCHAIN,iheight,scrolloffset);
+
+	// Actually move the object.
+	repositionTo(over, placeX, placeY);
+}
+
+// Moves the layer
+function olMouseMove(e) {
+	var e = (e) ? e : event;
+
+	if (e.pageX) {
+		o3_x = e.pageX;
+		o3_y = e.pageY;
+	} else if (e.clientX) {
+		o3_x = eval('e.clientX+o3_frame.'+docRoot+'.scrollLeft');
+		o3_y = eval('e.clientY+o3_frame.'+docRoot+'.scrollTop');
+	}
+	
+	if (o3_allowmove == 1) runHook("placeLayer", FREPLACE);
+
+	// MouseOut handler
+	if (hoveringSwitch && !olNs4 && runHook("cursorOff", FREPLACE)) {
+		(olHideDelay ? hideDelay(olHideDelay) : cClick());
+		hoveringSwitch = !hoveringSwitch;
+	}
+}
+
+// Fake function for 3.0 users.
+function no_overlib() { return ver3fix; }
+
+// Capture the mouse and chain other scripts.
+function olMouseCapture() {
+	capExtent = document;
+	var fN, str = '', l, k, f, wMv, sS, mseHandler = olMouseMove;
+	var re = /function[ ]*(\w*)\(/;
+	
+	wMv = (!olIe4 && window.onmousemove);
+	if (document.onmousemove || wMv) {
+		if (wMv) capExtent = window;
+		f = capExtent.onmousemove.toString();
+		fN = f.match(re);
+		if (fN == null) {
+			str = f+'(e); ';
+		} else if (fN[1] == 'anonymous' || fN[1] == 'olMouseMove' || (wMv && fN[1] == 'onmousemove')) {
+			if (!olOp && wMv) {
+				l = f.indexOf('{')+1;
+				k = f.lastIndexOf('}');
+				sS = f.substring(l,k);
+				if ((l = sS.indexOf('(')) != -1) {
+					sS = sS.substring(0,l).replace(/^\s+/,'').replace(/\s+$/,'');
+					if (eval("typeof " + sS + " == 'undefined'")) window.onmousemove = null;
+					else str = sS + '(e);';
+				}
+			}
+			if (!str) {
+				olCheckMouseCapture = false;
+				return;
+			}
+		} else {
+			if (fN[1]) str = fN[1]+'(e); ';
+			else {
+				l = f.indexOf('{')+1;
+				k = f.lastIndexOf('}');
+				str = f.substring(l,k) + '\n';
+			}
+		}
+		str += 'olMouseMove(e); ';
+		mseHandler = new Function('e', str);
+	}
+
+	capExtent.onmousemove = mseHandler;
+	if (olNs4) capExtent.captureEvents(Event.MOUSEMOVE);
+}
+
+////////
+// PARSING FUNCTIONS
+////////
+
+// Does the actual command parsing.
+function parseTokens(pf, ar) {
+	// What the next argument is expected to be.
+	var v, mode=-1, par = (pf != 'ol_');	
+	var fnMark = (par && !ar.length ? 1 : 0);
+
+	for (i = 0; i < ar.length; i++) {
+		if (mode < 0) {
+			// Arg is maintext,unless its a number between pmStart and pmUpper
+			// then its a command.
+			if (typeof ar[i] == 'number' && ar[i] > pmStart && ar[i] < pmUpper) {
+				fnMark = (par ? 1 : 0);
+				i--;   // backup one so that the next block can parse it
+			} else {
+				switch(pf) {
+					case 'ol_':
+						ol_text = ar[i].toString();
+						break;
+					default:
+						o3_text=ar[i].toString();  
+				}
+			}
+			mode = 0;
+		} else {
+			// Note: NS4 doesn't like switch cases with vars.
+			if (ar[i] >= pmCount || ar[i]==DONOTHING) { continue; }
+			if (ar[i]==INARRAY) { fnMark = 0; eval(pf+'text=ol_texts['+ar[++i]+'].toString()'); continue; }
+			if (ar[i]==CAPARRAY) { eval(pf+'cap=ol_caps['+ar[++i]+'].toString()'); continue; }
+			if (ar[i]==STICKY) { if (pf!='ol_') eval(pf+'sticky=1'); continue; }
+			if (ar[i]==BACKGROUND) { eval(pf+'background="'+ar[++i]+'"'); continue; }
+			if (ar[i]==NOCLOSE) { if (pf!='ol_') opt_NOCLOSE(); continue; }
+			if (ar[i]==CAPTION) { eval(pf+"cap='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==CENTER || ar[i]==LEFT || ar[i]==RIGHT) { eval(pf+'hpos='+ar[i]); if(pf!='ol_') olHautoFlag=1; continue; }
+			if (ar[i]==OFFSETX) { eval(pf+'offsetx='+ar[++i]); continue; }
+			if (ar[i]==OFFSETY) { eval(pf+'offsety='+ar[++i]); continue; }
+			if (ar[i]==FGCOLOR) { eval(pf+'fgcolor="'+ar[++i]+'"'); continue; }
+			if (ar[i]==BGCOLOR) { eval(pf+'bgcolor="'+ar[++i]+'"'); continue; }
+			if (ar[i]==TEXTCOLOR) { eval(pf+'textcolor="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CAPCOLOR) { eval(pf+'capcolor="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CLOSECOLOR) { eval(pf+'closecolor="'+ar[++i]+'"'); continue; }
+			if (ar[i]==WIDTH) { eval(pf+'width='+ar[++i]); continue; }
+			if (ar[i]==BORDER) { eval(pf+'border='+ar[++i]); continue; }
+			if (ar[i]==CELLPAD) { i=opt_MULTIPLEARGS(++i,ar,(pf+'cellpad')); continue; }
+			if (ar[i]==STATUS) { eval(pf+"status='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==AUTOSTATUS) { eval(pf +'autostatus=('+pf+'autostatus == 1) ? 0 : 1'); continue; }
+			if (ar[i]==AUTOSTATUSCAP) { eval(pf +'autostatus=('+pf+'autostatus == 2) ? 0 : 2'); continue; }
+			if (ar[i]==HEIGHT) { eval(pf+'height='+pf+'aboveheight='+ar[++i]); continue; } // Same param again.
+			if (ar[i]==CLOSETEXT) { eval(pf+"close='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==SNAPX) { eval(pf+'snapx='+ar[++i]); continue; }
+			if (ar[i]==SNAPY) { eval(pf+'snapy='+ar[++i]); continue; }
+			if (ar[i]==FIXX) { eval(pf+'fixx='+ar[++i]); continue; }
+			if (ar[i]==FIXY) { eval(pf+'fixy='+ar[++i]); continue; }
+			if (ar[i]==RELX) { eval(pf+'relx='+ar[++i]); continue; }
+			if (ar[i]==RELY) { eval(pf+'rely='+ar[++i]); continue; }
+			if (ar[i]==FGBACKGROUND) { eval(pf+'fgbackground="'+ar[++i]+'"'); continue; }
+			if (ar[i]==BGBACKGROUND) { eval(pf+'bgbackground="'+ar[++i]+'"'); continue; }
+			if (ar[i]==PADX) { eval(pf+'padxl='+ar[++i]); eval(pf+'padxr='+ar[++i]); continue; }
+			if (ar[i]==PADY) { eval(pf+'padyt='+ar[++i]); eval(pf+'padyb='+ar[++i]); continue; }
+			if (ar[i]==FULLHTML) { if (pf!='ol_') eval(pf+'fullhtml=1'); continue; }
+			if (ar[i]==BELOW || ar[i]==ABOVE) { eval(pf+'vpos='+ar[i]); if (pf!='ol_') olVautoFlag=1; continue; }
+			if (ar[i]==CAPICON) { eval(pf+'capicon="'+ar[++i]+'"'); continue; }
+			if (ar[i]==TEXTFONT) { eval(pf+"textfont='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==CAPTIONFONT) { eval(pf+"captionfont='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==CLOSEFONT) { eval(pf+"closefont='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==TEXTSIZE) { eval(pf+'textsize="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CAPTIONSIZE) { eval(pf+'captionsize="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CLOSESIZE) { eval(pf+'closesize="'+ar[++i]+'"'); continue; }
+			if (ar[i]==TIMEOUT) { eval(pf+'timeout='+ar[++i]); continue; }
+			if (ar[i]==FUNCTION) { if (pf=='ol_') { if (typeof ar[i+1]!='number') { v=ar[++i]; ol_function=(typeof v=='function' ? v : null); }} else {fnMark = 0; v = null; if (typeof ar[i+1]!='number') v = ar[++i];  opt_FUNCTION(v); } continue; }
+			if (ar[i]==DELAY) { eval(pf+'delay='+ar[++i]); continue; }
+			if (ar[i]==HAUTO) { eval(pf+'hauto=('+pf+'hauto == 0) ? 1 : 0'); continue; }
+			if (ar[i]==VAUTO) { eval(pf+'vauto=('+pf+'vauto == 0) ? 1 : 0'); continue; }
+			if (ar[i]==CLOSECLICK) { eval(pf +'closeclick=('+pf+'closeclick == 0) ? 1 : 0'); continue; }
+			if (ar[i]==WRAP) { eval(pf +'wrap=('+pf+'wrap == 0) ? 1 : 0'); continue; }
+			if (ar[i]==FOLLOWMOUSE) { eval(pf +'followmouse=('+pf+'followmouse == 1) ? 0 : 1'); continue; }
+			if (ar[i]==MOUSEOFF) { eval(pf +'mouseoff=('+pf+'mouseoff==0) ? 1 : 0'); v=ar[i+1]; if (pf != 'ol_' && eval(pf+'mouseoff') && typeof v == 'number' && (v < pmStart || v > pmUpper)) olHideDelay=ar[++i]; continue; }
+			if (ar[i]==CLOSETITLE) { eval(pf+"closetitle='"+escSglQuote(ar[++i])+"'"); continue; }
+			if (ar[i]==CSSOFF||ar[i]==CSSCLASS) { eval(pf+'css='+ar[i]); continue; }
+			if (ar[i]==COMPATMODE) { eval(pf+'compatmode=('+pf+'compatmode==0) ? 1 : 0'); continue; }
+			if (ar[i]==FGCLASS) { eval(pf+'fgclass="'+ar[++i]+'"'); continue; }
+			if (ar[i]==BGCLASS) { eval(pf+'bgclass="'+ar[++i]+'"'); continue; }
+			if (ar[i]==TEXTFONTCLASS) { eval(pf+'textfontclass="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CAPTIONFONTCLASS) { eval(pf+'captionfontclass="'+ar[++i]+'"'); continue; }
+			if (ar[i]==CLOSEFONTCLASS) { eval(pf+'closefontclass="'+ar[++i]+'"'); continue; }
+			i = parseCmdLine(pf, i, ar);
+		}
+	}
+
+	if (fnMark && o3_function) o3_text = o3_function();
+	
+	if ((pf == 'o3_') && o3_wrap) {
+		o3_width = 0;
+		
+		var tReg=/<.*\n*>/ig;
+		if (!tReg.test(o3_text)) o3_text = o3_text.replace(/[ ]+/g, '&nbsp;');
+		if (!tReg.test(o3_cap))o3_cap = o3_cap.replace(/[ ]+/g, '&nbsp;');
+	}
+	if ((pf == 'o3_') && o3_sticky) {
+		if (!o3_close && (o3_frame != ol_frame)) o3_close = ol_close;
+		if (o3_mouseoff && (o3_frame == ol_frame)) opt_NOCLOSE(' ');
+	}
+}
+
+
+////////
+// LAYER FUNCTIONS
+////////
+
+// Writes to a layer
+function layerWrite(txt) {
+	txt += "\n";
+	if (olNs4) {
+		var lyr = o3_frame.document.layers['overDiv'].document
+		lyr.write(txt)
+		lyr.close()
+	} else if (typeof over.innerHTML != 'undefined') {
+		if (olIe5 && isMac) over.innerHTML = '';
+		over.innerHTML = txt;
+	} else {
+		range = o3_frame.document.createRange();
+		range.setStartAfter(over);
+		domfrag = range.createContextualFragment(txt);
+		
+		while (over.hasChildNodes()) {
+			over.removeChild(over.lastChild);
+		}
+		
+		over.appendChild(domfrag);
+	}
+}
+
+// Make an object visible
+function showObject(obj) {
+	runHook("showObject", FBEFORE);
+
+	var theObj=(olNs4 ? obj : obj.style);
+	theObj.visibility = 'visible';
+
+	runHook("showObject", FAFTER);
+}
+
+// Hides an object
+function hideObject(obj) {
+	runHook("hideObject", FBEFORE);
+
+	var theObj=(olNs4 ? obj : obj.style);
+	if (olNs6 && olShowId>0) { clearTimeout(olShowId); olShowId=0; }
+	theObj.visibility = 'hidden';
+	theObj.top = theObj.left = ((olIe4&&!olOp) ? 0 : -10000) + (!olNs4 ? 'px' : 0);
+
+	if (o3_timerid > 0) clearTimeout(o3_timerid);
+	if (o3_delayid > 0) clearTimeout(o3_delayid);
+
+	o3_timerid = 0;
+	o3_delayid = 0;
+	self.status = "";
+
+	if (obj.onmouseout || obj.onmouseover) {
+		if (olNs4) obj.releaseEvents(Event.MOUSEOUT || Event.MOUSEOVER);
+		obj.onmouseout = obj.onmouseover = null;
+	}
+
+	runHook("hideObject", FAFTER);
+}
+
+// Move a layer
+function repositionTo(obj, xL, yL) {
+	var theObj=(olNs4 ? obj : obj.style);
+	theObj.left = xL + (!olNs4 ? 'px' : 0);
+	theObj.top = yL + (!olNs4 ? 'px' : 0);
+}
+
+// Check position of cursor relative to overDiv DIVision; mouseOut function
+function cursorOff() {
+	var left = parseInt(over.style.left);
+	var top = parseInt(over.style.top);
+	var right = left + (over.offsetWidth >= parseInt(o3_width) ? over.offsetWidth : parseInt(o3_width));
+	var bottom = top + (over.offsetHeight >= o3_aboveheight ? over.offsetHeight : o3_aboveheight);
+
+	if (o3_x < left || o3_x > right || o3_y < top || o3_y > bottom) return true;
+
+	return false;
+}
+
+
+////////
+// COMMAND FUNCTIONS
+////////
+
+// Calls callme or the default function.
+function opt_FUNCTION(callme) {
+	o3_text = (callme ? (typeof callme=='string' ? (/.+\(.*\)/.test(callme) ? eval(callme) : callme) : callme()) : (o3_function ? o3_function() : 'No Function'));
+
+	return 0;
+}
+
+// Handle hovering
+function opt_NOCLOSE(unused) {
+	if (!unused) o3_close = "";
+
+	if (olNs4) {
+		over.captureEvents(Event.MOUSEOUT || Event.MOUSEOVER);
+		over.onmouseover = function () { if (o3_timerid > 0) { clearTimeout(o3_timerid); o3_timerid = 0; } }
+		over.onmouseout = function (e) { if (olHideDelay) hideDelay(olHideDelay); else cClick(e); }
+	} else {
+		over.onmouseover = function () {hoveringSwitch = true; if (o3_timerid > 0) { clearTimeout(o3_timerid); o3_timerid =0; } }
+	}
+
+	return 0;
+}
+
+// Function to scan command line arguments for multiples
+function opt_MULTIPLEARGS(i, args, parameter) {
+  var k=i, re, pV, str='';
+
+  for(k=i; k<args.length; k++) {
+		if(typeof args[k] == 'number' && args[k]>pmStart) break;
+		str += args[k] + ',';
+	}
+	if (str) str = str.substring(0,--str.length);
+
+	k--;  // reduce by one so the for loop this is in works correctly
+	pV=(olNs4 && /cellpad/i.test(parameter)) ? str.split(',')[0] : str;
+	eval(parameter + '="' + pV + '"');
+
+	return k;
+}
+
+// Remove &nbsp; in texts when done.
+function nbspCleanup() {
+	if (o3_wrap) {
+		o3_text = o3_text.replace(/\&nbsp;/g, ' ');
+		o3_cap = o3_cap.replace(/\&nbsp;/g, ' ');
+	}
+}
+
+// Escape embedded single quotes in text strings
+function escSglQuote(str) {
+  return str.toString().replace(/'/g,"\\'");
+}
+
+// Onload handler for window onload event
+function OLonLoad_handler(e) {
+	var re = /\w+\(.*\)[;\s]+/g, olre = /overlib\(|nd\(|cClick\(/, fn, l, i;
+
+	if(!olLoaded) olLoaded=1;
+
+  // Remove it for Gecko based browsers
+	if(window.removeEventListener && e.eventPhase == 3) window.removeEventListener("load",OLonLoad_handler,false);
+	else if(window.detachEvent) { // and for IE and Opera 4.x but execute calls to overlib, nd, or cClick()
+		window.detachEvent("onload",OLonLoad_handler);
+		var fN = document.body.getAttribute('onload');
+		if (fN) {
+			fN=fN.toString().match(re);
+			if (fN && fN.length) {
+				for (i=0; i<fN.length; i++) {
+					if (/anonymous/.test(fN[i])) continue;
+					while((l=fN[i].search(/\)[;\s]+/)) != -1) {
+						fn=fN[i].substring(0,l+1);
+						fN[i] = fN[i].substring(l+2);
+						if (olre.test(fn)) eval(fn);
+					}
+				}
+			}
+		}
+	}
+}
+
+// Wraps strings in Layer Generation Functions with the correct tags
+//    endWrap true(if end tag) or false if start tag
+//    fontSizeStr - font size string such as '1' or '10px'
+//    whichString is being wrapped -- 'text', 'caption', or 'close'
+function wrapStr(endWrap,fontSizeStr,whichString) {
+	var fontStr, fontColor, isClose=((whichString=='close') ? 1 : 0), hasDims=/[%\-a-z]+$/.test(fontSizeStr);
+	fontSizeStr = (olNs4) ? (!hasDims ? fontSizeStr : '1') : fontSizeStr;
+	if (endWrap) return (hasDims&&!olNs4) ? (isClose ? '</span>' : '</div>') : '</font>';
+	else {
+		fontStr='o3_'+whichString+'font';
+		fontColor='o3_'+((whichString=='caption')? 'cap' : whichString)+'color';
+		return (hasDims&&!olNs4) ? (isClose ? '<span style="font-family: '+quoteMultiNameFonts(eval(fontStr))+'; color: '+eval(fontColor)+'; font-size: '+fontSizeStr+';">' : '<div style="font-family: '+quoteMultiNameFonts(eval(fontStr))+'; color: '+eval(fontColor)+'; font-size: '+fontSizeStr+';">') : '<font face="'+eval(fontStr)+'" color="'+eval(fontColor)+'" size="'+(parseInt(fontSizeStr)>7 ? '7' : fontSizeStr)+'">';
+	}
+}
+
+// Quotes Multi word font names; needed for CSS Standards adherence in font-family
+function quoteMultiNameFonts(theFont) {
+	var v, pM=theFont.split(',');
+	for (var i=0; i<pM.length; i++) {
+		v=pM[i];
+		v=v.replace(/^\s+/,'').replace(/\s+$/,'');
+		if(/\s/.test(v) && !/['"]/.test(v)) {
+			v="\'"+v+"\'";
+			pM[i]=v;
+		}
+	}
+	return pM.join();
+}
+
+// dummy function which will be overridden 
+function isExclusive(args) {
+	return false;
+}
+
+// function will delay close by time milliseconds
+function hideDelay(time) {
+	if (time&&!o3_delay) {
+		if (o3_timerid > 0) clearTimeout(o3_timerid);
+
+		o3_timerid=setTimeout("cClick()",(o3_timeout=time));
+	}
+}
+
+// Was originally in the placeLayer() routine; separated out for future ease
+function horizontalPlacement(browserWidth, horizontalScrollAmount, widthFix) {
+	var placeX, iwidth=browserWidth, winoffset=horizontalScrollAmount;
+	var parsedWidth = parseInt(o3_width);
+
+	if (o3_fixx > -1 || o3_relx != null) {
+		// Fixed position
+		placeX=(o3_relx != null ? ( o3_relx < 0 ? winoffset +o3_relx+ iwidth - parsedWidth - widthFix : winoffset+o3_relx) : o3_fixx);
+	} else {  
+		// If HAUTO, decide what to use.
+		if (o3_hauto == 1) {
+			if ((o3_x - winoffset) > (iwidth / 2)) {
+				o3_hpos = LEFT;
+			} else {
+				o3_hpos = RIGHT;
+			}
+		}  		
+
+		// From mouse
+		if (o3_hpos == CENTER) { // Center
+			placeX = o3_x+o3_offsetx-(parsedWidth/2);
+
+			if (placeX < winoffset) placeX = winoffset;
+		}
+
+		if (o3_hpos == RIGHT) { // Right
+			placeX = o3_x+o3_offsetx;
+
+			if ((placeX+parsedWidth) > (winoffset+iwidth - widthFix)) {
+				placeX = iwidth+winoffset - parsedWidth - widthFix;
+				if (placeX < 0) placeX = 0;
+			}
+		}
+		if (o3_hpos == LEFT) { // Left
+			placeX = o3_x-o3_offsetx-parsedWidth;
+			if (placeX < winoffset) placeX = winoffset;
+		}  	
+
+		// Snapping!
+		if (o3_snapx > 1) {
+			var snapping = placeX % o3_snapx;
+
+			if (o3_hpos == LEFT) {
+				placeX = placeX - (o3_snapx+snapping);
+			} else {
+				// CENTER and RIGHT
+				placeX = placeX+(o3_snapx - snapping);
+			}
+
+			if (placeX < winoffset) placeX = winoffset;
+		}
+	}	
+
+	return placeX;
+}
+
+// was originally in the placeLayer() routine; separated out for future ease
+function verticalPlacement(browserHeight,verticalScrollAmount) {
+	var placeY, iheight=browserHeight, scrolloffset=verticalScrollAmount;
+	var parsedHeight=(o3_aboveheight ? parseInt(o3_aboveheight) : (olNs4 ? over.clip.height : over.offsetHeight));
+
+	if (o3_fixy > -1 || o3_rely != null) {
+		// Fixed position
+		placeY=(o3_rely != null ? (o3_rely < 0 ? scrolloffset+o3_rely+iheight - parsedHeight : scrolloffset+o3_rely) : o3_fixy);
+	} else {
+		// If VAUTO, decide what to use.
+		if (o3_vauto == 1) {
+			if ((o3_y - scrolloffset) > (iheight / 2) && o3_vpos == BELOW && (o3_y + parsedHeight + o3_offsety - (scrolloffset + iheight) > 0)) {
+				o3_vpos = ABOVE;
+			} else if (o3_vpos == ABOVE && (o3_y - (parsedHeight + o3_offsety) - scrolloffset < 0)) {
+				o3_vpos = BELOW;
+			}
+		}
+
+		// From mouse
+		if (o3_vpos == ABOVE) {
+			if (o3_aboveheight == 0) o3_aboveheight = parsedHeight; 
+
+			placeY = o3_y - (o3_aboveheight+o3_offsety);
+			if (placeY < scrolloffset) placeY = scrolloffset;
+		} else {
+			// BELOW
+			placeY = o3_y+o3_offsety;
+		} 
+
+		// Snapping!
+		if (o3_snapy > 1) {
+			var snapping = placeY % o3_snapy;  			
+
+			if (o3_aboveheight > 0 && o3_vpos == ABOVE) {
+				placeY = placeY - (o3_snapy+snapping);
+			} else {
+				placeY = placeY+(o3_snapy - snapping);
+			} 			
+
+			if (placeY < scrolloffset) placeY = scrolloffset;
+		}
+	}
+
+	return placeY;
+}
+
+// checks positioning flags
+function checkPositionFlags() {
+	if (olHautoFlag) olHautoFlag = o3_hauto=0;
+	if (olVautoFlag) olVautoFlag = o3_vauto=0;
+	return true;
+}
+
+// get Browser window width
+function windowWidth() {
+	var w;
+	if (o3_frame.innerWidth) w=o3_frame.innerWidth;
+	else if (eval('o3_frame.'+docRoot)&&eval("typeof o3_frame."+docRoot+".clientWidth=='number'")&&eval('o3_frame.'+docRoot+'.clientWidth')) 
+		w=eval('o3_frame.'+docRoot+'.clientWidth');
+	return w;			
+}
+
+// create the div container for popup content if it doesn't exist
+function createDivContainer(id,frm,zValue) {
+	id = (id || 'overDiv'), frm = (frm || o3_frame), zValue = (zValue || 1000);
+	var objRef, divContainer = layerReference(id);
+
+	if (divContainer == null) {
+		if (olNs4) {
+			divContainer = frm.document.layers[id] = new Layer(window.innerWidth, frm);
+			objRef = divContainer;
+		} else {
+			var body = (olIe4 ? frm.document.all.tags('BODY')[0] : frm.document.getElementsByTagName("BODY")[0]);
+			if (olIe4&&!document.getElementById) {
+				body.insertAdjacentHTML("beforeEnd",'<div id="'+id+'"></div>');
+				divContainer=layerReference(id);
+			} else {
+				divContainer = frm.document.createElement("DIV");
+				divContainer.id = id;
+				body.appendChild(divContainer);
+			}
+			objRef = divContainer.style;
+		}
+
+		with (objRef) {
+			position = 'absolute';
+			visibility = 'hidden';
+			//top = left = -10000 + (!olNs4) ? 'px' : 0;
+			zIndex = zValue;
+		}
+	}
+
+	return divContainer;
+}
+
+// get reference to a layer with ID=id
+function layerReference(id) {
+	return (olNs4 ? o3_frame.document.layers[id] : (document.all ? o3_frame.document.all[id] : o3_frame.document.getElementById(id)));
+}
+////////
+//  PLUGIN ACTIVATION FUNCTIONS
+////////
+
+// Runs plugin functions to set runtime variables.
+function setRunTimeVariables(){
+	if (typeof runTime != 'undefined' && runTime.length) {
+		for (var k = 0; k < runTime.length; k++) {
+			runTime[k]();
+		}
+	}
+}
+
+// Runs plugin functions to parse commands.
+function parseCmdLine(pf, i, args) {
+	if (typeof cmdLine != 'undefined' && cmdLine.length) { 
+		for (var k = 0; k < cmdLine.length; k++) { 
+			var j = cmdLine[k](pf, i, args);
+			if (j >- 1) {
+				i = j;
+				break;
+			}
+		}
+	}
+
+	return i;
+}
+
+// Runs plugin functions to do things after parse.
+function postParseChecks(){
+	if (typeof postParse != 'undefined' && postParse.length) {
+		for (var k = 0; k < postParse.length; k++) {
+			if (postParse[k]()) continue;
+			return false;  // end now since have an error
+		}
+	}
+	return true;
+}
+
+
+////////
+//  PLUGIN REGISTRATION FUNCTIONS
+////////
+
+// Registers commands and creates constants.
+function registerCommands(cmdStr) {
+	if (typeof cmdStr!='string') return;
+
+	var pM = cmdStr.split(',');
+	pms = pms.concat(pM);
+
+	for (var i = 0; i< pM.length; i++) {
+		eval(pM[i].toUpperCase()+'='+pmCount++);
+	}
+}
+
+// Registers no-parameter commands
+function registerNoParameterCommands(cmdStr) {
+	if (!cmdStr && typeof cmdStr!='string') return;
+	pmt=(!pmt) ? cmdStr : pmt + ',' + cmdStr;
+}
+
+// Register a function to hook at a certain point.
+function registerHook(fnHookTo, fnRef, hookType, optPm) {
+	var hookPt, last = typeof optPm;
+	
+	if (fnHookTo == 'plgIn'||fnHookTo == 'postParse') return;
+	if (typeof hookPts == 'undefined') hookPts = new Array();
+	if (typeof hookPts[fnHookTo] == 'undefined') hookPts[fnHookTo] = new FunctionReference();
+
+	hookPt = hookPts[fnHookTo];
+
+	if (hookType != null) {
+		if (hookType == FREPLACE) {
+			hookPt.ovload = fnRef;  // replace normal overlib routine
+			if (fnHookTo.indexOf('ol_content_') > -1) hookPt.alt[pms[CSSOFF-1-pmStart]]=fnRef; 
+
+		} else if (hookType == FBEFORE || hookType == FAFTER) {
+			var hookPt=(hookType == 1 ? hookPt.before : hookPt.after);
+
+			if (typeof fnRef == 'object') {
+				hookPt = hookPt.concat(fnRef);
+			} else {
+				hookPt[hookPt.length++] = fnRef;
+			}
+
+			if (optPm) hookPt = reOrder(hookPt, fnRef, optPm);
+
+		} else if (hookType == FALTERNATE) {
+			if (last=='number') hookPt.alt[pms[optPm-1-pmStart]] = fnRef;
+		} else if (hookType == FCHAIN) {
+			hookPt = hookPt.chain; 
+			if (typeof fnRef=='object') hookPt=hookPt.concat(fnRef); // add other functions 
+			else hookPt[hookPt.length++]=fnRef;
+		}
+
+		return;
+	}
+}
+
+// Register a function that will set runtime variables.
+function registerRunTimeFunction(fn) {
+	if (isFunction(fn)) {
+		if (typeof runTime == 'undefined') runTime = new Array();
+		if (typeof fn == 'object') {
+			runTime = runTime.concat(fn);
+		} else {
+			runTime[runTime.length++] = fn;
+		}
+	}
+}
+
+// Register a function that will handle command parsing.
+function registerCmdLineFunction(fn){
+	if (isFunction(fn)) {
+		if (typeof cmdLine == 'undefined') cmdLine = new Array();
+		if (typeof fn == 'object') {
+			cmdLine = cmdLine.concat(fn);
+		} else {
+			cmdLine[cmdLine.length++] = fn;
+		}
+	}
+}
+
+// Register a function that does things after command parsing. 
+function registerPostParseFunction(fn){
+	if (isFunction(fn)) {
+		if (typeof postParse == 'undefined') postParse = new Array();
+		if (typeof fn == 'object') {
+			postParse = postParse.concat(fn);
+		} else {
+			postParse[postParse.length++] = fn;
+		}
+	}
+}
+
+////////
+//  PLUGIN REGISTRATION FUNCTIONS
+////////
+
+// Runs any hooks registered.
+function runHook(fnHookTo, hookType) {
+	var l = hookPts[fnHookTo], k, rtnVal, optPm, arS, ar = runHook.arguments;
+
+	if (hookType == FREPLACE) {
+		arS = argToString(ar, 2);
+
+		if (typeof l == 'undefined' || !(l = l.ovload)) return eval(fnHookTo+'('+arS+')');
+		else return eval('l('+arS+')');
+
+	} else if (hookType == FBEFORE || hookType == FAFTER) {
+		if (typeof l == 'undefined') return;
+		l=(hookType == 1 ? l.before : l.after);
+
+		if (!l.length) return;
+
+		arS = argToString(ar, 2);
+		for (var k = 0; k < l.length; k++) eval('l[k]('+arS+')'); 
+
+	} else if (hookType == FALTERNATE) {
+		optPm = ar[2];
+		arS = argToString(ar, 3);
+
+		if (typeof l == 'undefined' || (l = l.alt[pms[optPm-1-pmStart]]) == 'undefined') {
+			return eval(fnHookTo+'('+arS+')');
+		} else {
+			return eval('l('+arS+')');
+		}
+	} else if (hookType == FCHAIN) {
+		arS=argToString(ar,2);
+		l=l.chain;
+
+		for (k=l.length; k > 0; k--) if((rtnVal=eval('l[k-1]('+arS+')'))!=void(0)) return rtnVal;
+	}
+}
+
+////////
+//  UTILITY FUNCTIONS
+////////
+
+// Checks if something is a function.
+function isFunction(fnRef) {
+	var rtn = true;
+
+	if (typeof fnRef == 'object') {
+		for (var i = 0; i < fnRef.length; i++) {
+			if (typeof fnRef[i]=='function') continue;
+			rtn = false;
+			break;
+		}
+	} else if (typeof fnRef != 'function') {
+		rtn = false;
+	}
+	
+	return rtn;
+}
+
+// Converts an array into an argument string for use in eval.
+function argToString(array, strtInd, argName) {
+	var jS = strtInd, aS = '', ar = array;
+	argName=(argName ? argName : 'ar');
+	
+	if (ar.length > jS) {
+		for (var k = jS; k < ar.length; k++) aS += argName+'['+k+'], ';
+		aS = aS.substring(0, aS.length-2);
+	}
+	
+	return aS;
+}
+
+// Places a hook in the correct position in a hook point.
+function reOrder(hookPt, fnRef, order) {
+	if (!order || typeof order == 'undefined' || typeof order == 'number') return;
+	
+	var newPt = new Array(), match;
+
+	if (typeof order=='function') {
+		if (typeof fnRef=='object') {
+			newPt = newPt.concat(fnRef);
+		} else {
+			newPt[newPt.length++]=fnRef;
+		}
+		
+		for (var i = 0; i < hookPt.length; i++) {
+			match = false;
+			if (typeof fnRef == 'function' && hookPt[i] == fnRef) {
+				continue;
+			} else {
+				for(var j = 0; j < fnRef.length; j++) if (hookPt[i] == fnRef[j]) {
+					match = true;
+					break;
+				}
+			}
+			if (!match) newPt[newPt.length++] = hookPt[i];
+		}
+
+		newPt[newPt.length++] = order;
+
+	} else if (typeof order == 'object') {
+		if (typeof fnRef == 'object') {
+			newPt = newPt.concat(fnRef);
+		} else {
+			newPt[newPt.length++] = fnRef;
+		}
+		
+		for (var j = 0; j < hookPt.length; j++) {
+			match = false;
+			if (typeof fnRef == 'function' && hookPt[j] == fnRef) {
+				continue;
+			} else {
+				for (var i = 0; i < fnRef.length; i++) if (hookPt[j] == fnRef[i]) {
+					match = true;
+					break;
+				}
+			}
+			if (!match) newPt[newPt.length++]=hookPt[j];
+		}
+
+		for (i = 0; i < newPt.length; i++) hookPt[i] = newPt[i];
+		newPt.length = 0;
+		
+		for (var j = 0; j < hookPt.length; j++) {
+			match = false;
+			for (var i = 0; i < order.length; i++) {
+				if (hookPt[j] == order[i]) {
+					match = true;
+					break;
+				}
+			}
+			if (!match) newPt[newPt.length++] = hookPt[j];
+		}
+		newPt = newPt.concat(order);
+	}
+
+	for(i = 0; i < newPt.length; i++) hookPt[i] = newPt[i];
+
+	return hookPt;
+}
+
+////////
+// OBJECT CONSTRUCTORS
+////////
+
+// Object for handling hooks.
+function FunctionReference() {
+	this.ovload = null;
+	this.before = new Array();
+	this.after = new Array();
+	this.alt = new Array();
+	this.chain = new Array();
+}
+
+// Object for simple access to the overLIB version used.
+// Examples: simpleversion:351 major:3 minor:5 revision:1
+function Info(version, prerelease) {
+	this.version = version;
+	this.prerelease = prerelease;
+
+	this.simpleversion = Math.round(this.version*100);
+	this.major = parseInt(this.simpleversion / 100);
+	this.minor = parseInt(this.simpleversion / 10) - this.major * 10;
+	this.revision = parseInt(this.simpleversion) - this.major * 100 - this.minor * 10;
+	this.meets = meets;
+}
+
+// checks for Core Version required
+function meets(reqdVersion) {
+	return (!reqdVersion) ? false : this.simpleversion >= Math.round(100*parseFloat(reqdVersion));
+}
+
+
+////////
+// STANDARD REGISTRATIONS
+////////
+registerHook("ol_content_simple", ol_content_simple, FALTERNATE, CSSOFF);
+registerHook("ol_content_caption", ol_content_caption, FALTERNATE, CSSOFF);
+registerHook("ol_content_background", ol_content_background, FALTERNATE, CSSOFF);
+registerHook("ol_content_simple", ol_content_simple, FALTERNATE, CSSCLASS);
+registerHook("ol_content_caption", ol_content_caption, FALTERNATE, CSSCLASS);
+registerHook("ol_content_background", ol_content_background, FALTERNATE, CSSCLASS);
+registerPostParseFunction(checkPositionFlags);
+registerHook("hideObject", nbspCleanup, FAFTER);
+registerHook("horizontalPlacement", horizontalPlacement, FCHAIN);
+registerHook("verticalPlacement", verticalPlacement, FCHAIN);
+if (olNs4||(olIe5&&isMac)||olKq) olLoaded=1;
+registerNoParameterCommands('sticky,autostatus,autostatuscap,fullhtml,hauto,vauto,closeclick,wrap,followmouse,mouseoff,compatmode');
+
+</script>
+
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {color: #000000}
+-->
+</style>
+<script>
+<!--
+function checkEmail(f){
+     if (f.email.value.length == 0){
+         f.email.value='e-mail address';
+     } 
+     f.submit();
+	 }
+
+function MM_initTimelines() { //v4.0
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
+    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+<script language="Javascript">
+
+function Set_Cookie(name,value,path) {
+     document.cookie = name + "=" +escape(value) +
+     ( (path) ? ";path=" + path : "");
+ }
+ 
+// make sure we are capable of live help 
+function CheckBrowser() {
+    var NN = (navigator.appName.indexOf("Netscape") != -1);
+    var IE = (navigator.appName.indexOf("Microsoft") != -1);
+    var V3 = (navigator.appVersion.indexOf("3.") != -1);
+    var V4 = (navigator.appVersion.indexOf("4.") != -1);
+
+    if ( (NN||IE) && (V3||V4||V5)) {
+      return true;
+    } else {
+      alert("Sorry, LiveHelp is not supported on this browser.\nYou need one of the following:\n\n	Netscape 3/4	\n	Internet Explorer 3/4/5	");
+      return false;
+    }
+}
+
+function getCookieValue(index)
+{
+  var allcookies = document.cookie;
+  var pos = allcookies.indexOf(index + "=");
+  if (pos == -1) return null;
+  var start = pos + (index.length + 1);
+  var end = allcookies.indexOf(";", start);
+  if (end == -1) end = allcookies.length;
+  var value = allcookies.substring(start, end);
+ 
+  return value;
+}
+
+function LHCheck() {
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+//    var Sess_Flag2;
+	var Sess_Flag_Christmas;
+	var Sess_Flag_NewYear;
+	var Sess_Flag_Thanksgiving;
+	var Sess_Flag_FourthofJuly;
+	var Sess_Flag_MeritBanquet;
+	var Sess_Flag_LaborDay;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+   Sess_Flag_Christmas		= "";
+   Sess_Flag_NewYear		= "";
+   Sess_Flag_Thanksgiving   = "";
+   Sess_Flag_FourthofJuly   = "";
+   Sess_Flag_MeritBanquet	= "";
+   Sess_Flag_LaborDay	= "";
+   
+   //alert ("S= "+Sess_Flag2);
+   if (Sess_Flag_Christmas != "Y" && Sess_Flag_NewYear != "Y" && Sess_Flag_Thanksgiving != "Y" && Sess_Flag_FourthofJuly != "Y" && Sess_Flag_MeritBanquet != "Y" && Sess_Flag_LaborDay != "Y")
+   {
+	location.href = "/abwf/lcstart.asp?uri=" + escape(document.location.toString());
+	 Set_Cookie("livechat",1,"/");
+   }
+   else if (Sess_Flag_Christmas == "Y")
+   {
+	location.href = "/chat_closed_Christmas.asp";
+   }
+   else if (Sess_Flag_NewYear == "Y")
+   {
+	location.href = "/chat_closed_newyear.asp";
+   }
+   else if (Sess_Flag_Thanksgiving == "Y")
+   {
+	location.href = "/chat_closed_thanksgiving.asp";
+   }
+   else if (Sess_Flag_FourthofJuly == "Y")
+   {
+	location.href = "/chat_closed_FourthofJuly.asp";
+   } 
+   else if (Sess_Flag_MeritBanquet == "Y")
+   {
+	location.href = "/chat_closed_meritAwards.asp";
+   } 
+   else if (Sess_Flag_LaborDay == "Y")
+   {
+	location.href = "/chat_closed_labor_day.asp";
+   }   
+}
+
+function LHCheck_christmas() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_christmas.asp";	 	  
+}
+
+function LHCheck_newyear() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_newyear.asp";	 	  
+}
+
+function LHCheck_thanksgiving() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_thanksgiving.asp";	 	  
+}
+
+function LHCheck_FourthofJuly() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_FourthofJuly.asp";	 	  
+}
+
+function LHCheck_MeritBanquet() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_meritAwards.asp";	 	  
+}
+
+function LHCheck_LaborDay() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_labor_day.asp";	 	  
+}
+
+function LHCheck_holiday() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	location.href = "/chat_closed_thanksgiving.asp";	 	  
+}
+
+function LHCheck_night() {
+    
+    if (!CheckBrowser()) {
+      return;
+    }
+    var inLH;
+    inLH = getCookieValue("cc");
+    if (inLH == 1) {
+      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
+      return;
+    }
+	var Sess_Flag1;
+	//var Sess_Flag2;
+	var Sess_Flag_Christmas;
+	var Sess_Flag_NewYear;
+	var Sess_Flag_Thanksgiving;
+	var Sess_Flag_FourthofJuly;
+	var Sess_Flag_LaborDay;
+	var Sess_Flag_MemorialDay;
+   Sess_Flag_Christmas		= "";
+   Sess_Flag_NewYear		= "";
+   Sess_Flag_Thanksgiving   = "";	
+   Sess_Flag_FourthofJuly   = "";
+   Sess_Flag_MeritBanquet	= "";	
+   var Sess_Flag_LaborDay	= "";
+   var Sess_Flag_MemorialDay= "";
+ 
+   //Sess_Flag2= "";    
+   Sess_Flag1= "";
+//   alert ("S1= "+Sess_Flag1+"S2= "+Sess_Flag2);
+   if (Sess_Flag_Thanksgiving == "Y"){
+	location.href = "/chat_closed_thanksgiving.asp";   
+   } 
+   else if (Sess_Flag_Christmas == "Y"){
+	location.href = "/chat_closed_christmas.asp";   
+   } 
+   else if (Sess_Flag_NewYear == "Y"){
+	location.href = "/chat_closed_newyear.asp";   
+   }
+   else if (Sess_Flag_FourthofJuly == "Y"){
+	location.href = "/chat_closed_FourthofJuly.asp";   
+   }  
+   else if (Sess_Flag_MeritBanquet == "Y"){
+	location.href = "/chat_closed_meritAwards.asp";   
+   }   
+   else if (Sess_Flag_LaborDay == "Y"){
+    location.href = "/chat_closed_labor_day.asp";   
+   }
+   else if (Sess_Flag_MemorialDay == "Y"){
+	location.href = "/chat_closed_MemorialDay.asp";   
+   }
+   else if  ((Sess_Flag1 == "Y") && (Sess_Flag_Christmas != "Y")&& (Sess_Flag_NewYear != "Y")&& (Sess_Flag_Thanksgiving != "Y")&& (Sess_Flag_FourthofJuly != "Y")&& (Sess_Flag_MeritBanquet != "Y") && (Sess_Flag_LaborDay != "Y") && (Sess_Flag_MemorialDay != "Y")){
+	location.href = "/chat_closed.asp";
+   }
+   else
+   {
+	location.href = "/abwf/lcstart.asp?uri=" + escape(document.location.toString());
+	Set_Cookie("livechat",1,"/");
+   }    
+	//location.href = "/chat_closed.asp";	 	  
+}
+
+function UseAddr(x) {
+	var Addr1 = new Array(20);
+	var Addr2 = new Array(20);
+	var City = new Array(20);
+	var State = new Array(20);
+	var Zip = new Array(20);
+	var Zip2 = new Array(20);
+	var Names = new Object();
+	
+Names.addr1='CuShipAddress1' ;
+Names.city='CuShipCity' ;
+Names.state='readonly' ;
+Names.zip='CuShipPostalCode' ;
+Names.zip2='CuShipPostalCode2' ;
+
+	
+	if ( ( x < 99 ) & (x > 0) )  {
+		if (Names.addr1 != "") document.form0.elements[Names.addr1].value = Addr1[x];
+		//if (Names.addr2 != "") document.form0.elements[Names.addr2].value = Addr2[x];
+		if (Names.city != "") document.form0.elements[Names.city].value = City[x];
+		if (Names.state != "readonly") document.form0.elements[Names.state].value = State[x];
+        if (Names.zip != "") document.form0.elements[Names.zip].value = Zip[x];
+		if (Names.zip2 != "") document.form0.elements[Names.zip2].value = Zip2[x];
+
+		document.form0.verifyaddress.value = "true";
+		document.form0.validaddress.value = "true";
+		document.form0.submit();
+		}
+	else {
+		document.form0.validaddress.value = "false";
+		document.form0.CuShipAddress1.value=document.form0.CuShipAddress1H.value;
+		//document.form0.CuShipAddress2.value=document.form0.CuShipAddress2H.value;
+		document.form0.CuShipStID.value=document.form0.CuShipStIDH.value;		
+		document.form0.CuShipCity.value=document.form0.CuShipCityH.value;
+		document.form0.CuShipPostalCode.value=document.form0.CuShipPostalCodeH.value;
+		document.form0.CuShipPostalCode2.value=document.form0.CuShipPostalCode2H.value;
+		if (x == 0) {
+			document.form0.verifyaddress.value = "true";
+			document.form0.validaddress.value = "true";
+			document.form0.submit();
+		}	
+		else {
+			document.form0.verifyaddress.value = "change";
+			document.form0.submit();
+		}
+	}	
+}
+
+
+
+</script><script language="JavaScript">
+
+function Set_Cookie(name,value,path) {
+     document.cookie = name + "=" +escape(value) +
+     ( (path) ? ";path=" + path : "");
+}
+
+function Get_Cookie(name) {
+     var start = document.cookie.indexOf(name+"=");
+     var len = start+name.length+1;
+     if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+     if (start == -1) return null;
+     var end = document.cookie.indexOf(";",len);
+     if (end == -1) end = document.cookie.length;
+     return unescape(document.cookie.substring(len,end));
+}
+</script><script language="JavaScript">
+<!-- Begin Blinds installer
+function popUpb(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=800,height=741,left = 150,top = 84');");
+}
+// End blinds installer-->
+</script><script language="JavaScript">
+
+	<!-- hide from JavaScript-challenged browsers
+		var jlivechat
+		var secure
+		//jlivechat = Get_Cookie("livechat");
+		//document.write ("**j=" + jlivechat);
+		
+
+		jlivechat = Get_Cookie("livechat");
+		//document.write ("**2=" + jlivechat);
+
+		
+		//Get rid of the frame from CJ affiliates sites on secure pages 
+		
+	//document.write ("\n**j=" + jlivechat);
+
+function appendQueryString(){
+	var jsblsearchsel =	document.COLORFRM.BLSEARCHSEL.value;
+	var jsblsearchtext = escape(document.COLORFRM.BLSEARCHTEXT.value);
+	var jsui = "86322430";
+	var jslg = "0";
+	var jsAddURL = "";
+    var cookieFlg = "";
+    var jsad = ""
+		
+	if (cookieFlg != 1) {
+	    jsAddURL = "&cmad=" + jsad + "&ui=" + jsui + "&lg=" + jslg; 
+	    document.COLORFRM.action = "http://www1.americanblinds.com/BlindsColorSearch1_new.aspx?blsearchsel=" + jsblsearchsel + "&blsearchtext=" + jsblsearchtext;
+	}else{   
+		document.COLORFRM.action = "http://www.americanblinds.com/products/blinds/top_nav_search.asp?blsearchsel=" + jsblsearchsel + "&blsearchtext=" + jsblsearchtext;
+	}
+	document.COLORFRM.submit();
+	return true;
+}
+change = 0
+function NavChangeLocation() {
+	i = document.nav.product_go.selectedIndex 
+	if(i > 0) {
+		document.location = document.nav.product_go.options[i].value
+	}
+}
+
+function LoadProductPage(p) {
+	if ( p != "" ) {
+	    if (p == "artselect"){
+		    dest = "http://www.americanblinds.com/wallart-jump.asp";
+		}else if (p != "toppers") {
+			dest = "http://www.americanblinds.com/products/" + p;
+	    }else {
+		    dest = "http://www.americanblinds.com/products/instock/index.asp?P=CU&home=tab3";  
+        }
+		location.href = dest
+	}          
+}
+function smallPopUp()
+{
+	var js_discount_popup = 1;
+	browsername=navigator.appName;
+
+	if (js_discount_popup!="1") {
+	   if(browsername.indexOf("Netscape")!=-1)
+		  threedayWin=window.open('/popup_jan_2004.asp?ref=1','threedayWin','toolbar=0,location=0,directories=0,status=0,toolbar=0,scrollbars=0,resizable=0,width=201,height=251,screenX=170,screenY=187');
+	   else
+ 	      threedayWin=window.open('/popup_jan_2004.asp?ref=1','threedayWin','toolbar=0,location=0,directories=0,status=0,toolbar=0,scrollbars=0,resizable=0,width=201,height=251,left=170,top=187');
+       }
+}
+//-->
+
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script></head>
+<!-- Begin escalation script for WebCenter -->
+
+
+<!-- END escalation script for WebCenter --> 
+
+
+
+
+
+
+
+
+<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#0346ba" vlink="#0346ba" alink="#0346ba">
+<a name="top"></a>
+
+<!-- BEGIN COREMETRICS SUPPORT -->
+
+<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript">
+</script>
+
+<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript">
+</script>
+<script language="javascript1.1" type="text/javascript">
+<!--
+     cm_ClientID="90076017";
+
+	 cmSetProduction();
+
+     cmCreatePageviewTag("/help/security.asp","help","INSE",null,null);
+     
+//-->
+</script>
+<!-- END COREMETRICS -->
+
+<table width="992" border="0" cellspacing="0" cellpadding="0">
+  
+	<tbody><tr>
+		<td align="right" nowrap="" width="43%" valign="middle" class="onlinecatalog">
+		
+		</td>
+		<td align="right" nowrap="">
+			<table border="0" cellspacing="0" cellpadding="2">
+				<tbody><tr>
+<!-- PROGRAMMER NOTE - DISPLAY THIS CELL ONLY IF THE CUSTOMER IS LOGGED IN - NO DATE AND TIME - JUST THE NAME -->
+				    <td valign="middle" class="emailsignup">
+				        
+                    </td>
+					<td valign="middle" class="emailsignup">&nbsp;&nbsp;&nbsp;<img src="/images/envelope.gif" alt="email" width="20" height="16" hspace="0" vspace="0" border="0"></td>
+					<td valign="middle" class="emailsignup"><font color="#0346ba">&nbsp;Sign Up Now For EXCLUSIVE Offers!</font></td>
+					<td valign="middle" class="emailsignup">
+					<form name="fEmail" method="post" action="https://www.americanblinds.com/register/email_reg.asp?cm_re=A-_-Top%20Nav-_-sign%20up">
+					     <input name="email" type="text" class="emailsignup2" value="e-mail address" size="22" maxlength="40" onfocus="document.fEmail.email.select();"></form></td>
+					<td valign="middle" class="emailsignup">
+				<!-- PROGRAMMER NOTE - CAPTURE THE EMAIL ADDRESS FOR THE DATABASE.  TAKE THE USER TO THE http://www.americanblinds.com/register/email_reg.asp PAGE.  POPULATE THE EMAIL FIELD ON THAT PAGE. -->
+						<table border="0" cellpadding="0" cellspacing="0" style="background-color:#0346ba">
+							<tbody><tr>
+								<td width="2"><img src="/images/nav/corners_topbar_left2.gif" width="2" height="18" hspace="0" vspace="0" border="0"></td>
+								<td align="center" valign="middle">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<!--<td nowrap="nowrap">&nbsp;<a href="https://www.americanblinds.com/register/email_reg.asp?cm_re=A-_-Top%20Nav-_-sign%_up" class="signup"><font color="#ffffff">Sign Up</a>&nbsp;</td>-->
+										    <td nowrap="">&nbsp;<a href="#" class="signup" onclick="javascript:checkEmail(document.fEmail);"><font color="#ffffff">Sign Up</font></a><font color="#ffffff">&nbsp;</font></td>
+										</tr>
+									  
+									</tbody></table>
+								</td>
+								<td width="2"><img src="/images/nav/corners_topbar_right2.gif" width="2" height="18" hspace="0" vspace="0" border="0"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="992" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td>
+			
+      <table width="992" border="0" cellpadding="0" cellspacing="0" bordercolor="#FF0099">
+        <tbody><tr>
+					<td width="280" rowspan="3" valign="bottom"><a href="http://www.americanblinds.com/Default.asp?cm_re=A-_-Top%20Nav-_-Logo"><img src="/images/nav/ABWM_logo_topleft.jpg" alt="American Blinds Wallpaper and More" width="280" height="67" hspace="0" vspace="0" border="0"></a></td>
+					<td width="34" rowspan="3"><img src="/images/nav/spacer.gif" width="34" height="67" hspace="0" vspace="0" border="0"></td>
+					<td width="127" rowspan="3" align="center" valign="top">
+						<table width="127" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+              					<td height="6" align="center"><img src="/images/nav/white_spacer.gif" width="85" height="6" hspace="0" vspace="0" border="0"></td>
+            				</tr>
+            				<tr>
+              					
+                <td height="35" align="center"> 
+                  <!-- PROGRAMMER NOTE - ADD HACKERSAFE CODE HERE AND REMOVE PLACEHOLDER IMAGE -->
+                  <a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.americanblinds.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.americanblinds.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+               </td>
+            				</tr>
+            				<tr>
+              					<td height="26" align="center">
+<!-- PROGRAMMER NOTE - IF CART EMPTY DISPLAY THE FOLLOWING SPACER.GIF.  OTHERWISE SHOW THE CART TABLE BELOW -->
+			                
+			                    <img src="/images/nav/spacer.gif" width="1" height="26" hspace="0" vspace="0" border="0">
+			               
+			  					</td>
+            				</tr>
+        				</tbody></table>
+					</td>
+        			<td width="551"><img src="/images/nav/white_spacer.gif" width="85" height="6" hspace="0" vspace="0" border="0"></td>
+      			</tr>
+      			<tr>
+        			<td>
+						<table width="551" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
+            				<tbody><tr>
+			  					<td width="134"><img src="/images/nav/abwm_phonenumber.gif" alt="800-575-8016" width="134" height="20" hspace="0" vspace="0" border="0"></td>
+              					<td width="2"><img src="/images/nav/corners_topbar_left.gif" width="2" height="20" hspace="0" vspace="0" border="0"></td>
+              					<td align="center" valign="middle" class="topNavloginbar">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                						<tbody><tr>
+                  							<td width="20%"><div align="center"><a href="https://www.americanblinds.com/register/default.asp?cm_re=A-_-Top%20Nav-_-Log%20In" class="topNavloginbar">Log In</a></div></td>
+                  							<td width="25%"><div align="center"><a href="https://www.americanblinds.com/customer/order_status.asp?cm_re=A-_-Top%20Nav-_-Order%20Status" class="topNavloginbar">Order Status</a></div></td>
+                  							<td width="25%"><div align="center"><a href="https://www.americanblinds.com/customer/callback.asp?cm_re=A-_-Top%20Nav-_-Live%20Help" class="topNavloginbar">Live Help</a></div></td>
+                  							<td width="15%"><div align="center"><a href="http://www.americanblinds.com/help/default.asp?cm_re=A-_-Top%20Nav-_-Help" class="topNavloginbar">Help</a></div></td>
+                	                        <td width="15%"><div align="center"><a href="http://www.americanblinds.com/products/survey/default.asp?cm_re=A-_-Top%20Nav-_-Survey" class="topNavloginbar">Survey</a><div></div></div></td>	
+										</tr>
+              						</tbody></table>
+								</td>
+              					<td width="2"><img src="/images/nav/corners_topbar_right.gif" width="2" height="20" hspace="0" vspace="0" border="0"></td>
+            				</tr>
+        				</tbody></table>
+					</td>
+      			</tr>
+      			<tr>
+        			<td nowrap="">
+						
+            <table width="551" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="100" height="41" rowspan="3"> 
+                  <table width="100" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td width="52"><img src="/images/nav/valprop_01_3reasons.gif" width="52" height="41" hspace="0" vspace="0" border="0"></td>
+                      <td valign="bottom" class="valueprops"><font color="#0346ba">Reasons<br>
+                        To Buy:</font><br>
+                        <img src="/images/nav/valprop_topspace02.gif" width="41" height="6" hspace="0" vspace="0" border="0"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+                <td width="12"><img src="/images/nav/valprop_topspace01.gif" width="12" height="21" hspace="0" vspace="0" border="0"></td>
+                <td width="130"><img src="/images/nav/valprop_topspace02.gif" width="130" height="21" hspace="0" vspace="0" border="0"></td>
+                <td width="16"><img src="/images/nav/valprop_topspace03.gif" width="16" height="21" hspace="0" vspace="0" border="0"></td>
+                <!--<td width="128">&nbsp;</td>-->
+                <td width="100"><img src="/images/nav/valprop_topspace04.gif" width="100" height="21" hspace="0" vspace="0" border="0"></td>
+                <td width="17"><a href="#"><img src="/images/nav/valprop_topspace05.gif" width="17" height="21" hspace="0" vspace="0" border="0"></a></td>
+                <td width="132"><img src="/images/nav/valprop_topspace06.gif" width="132" height="21" hspace="0" vspace="0" border="0"></td>
+              </tr>
+              <tr> 
+                <td><a href="http://www.americanblinds.com/help/lowest.asp?cm_re=A-_-Top%20Nav-_-valprop1"><img src="/images/nav/valprop_num1.gif" width="12" height="14" hspace="0" vspace="0" border="0"></a></td>
+                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/lowest.asp?cm_re=A-_-Top%20Nav-_-valprop1" class="valueprops"><font color="#0346ba">Lowest 
+                  Price Guarantee</font></a></span></td>
+                <td><a href="http://www.americanblinds.com/help/shipping.asp?cm_re=A-_-Top%20Nav-_-valprop2"><img src="/images/nav/valprop_num2.gif" width="16" height="14" hspace="0" vspace="0" border="0"></a></td>
+                <!--<td>&nbsp;</td>-->
+                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/shipping.asp?cm_re=A-_-Top%20Nav-_-valprop2" class="valueprops"><font color="#0346ba">FREE 
+                  Ground Shipping</font></a></span></td>
+                <td><a href="http://www.americanblinds.com/help/guarantee.asp?cm_re=A-_-Top%20Nav-_-valprop3"><img src="/images/nav/valprop_num3.gif" width="17" height="14" hspace="0" vspace="0" border="0"></a></td>
+                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/guarantee.asp?cm_re=A-_-Top%20Nav-_-valprop3" class="valueprops"><font color="#0346ba">100% 
+                  Satisfaction Guarantee</font></a><font color="#0346ba"> </font></span></td>
+              </tr>
+              <tr> 
+                <td colspan="7"><img src="/images/nav/valprop_btmspace.gif" width="445" height="6" hspace="0" vspace="0" border="0"></td>
+              </tr>
+            </tbody></table>
+					</td>
+      			</tr>
+    		</tbody></table>
+		</td>
+	</tr>
+  	<tr>
+    	<td>
+    	   
+			<table width="992" border="0" cellpadding="0" cellspacing="0" style="background-color:#0346ba">
+      			<tbody><tr>
+        			<td width="75" align="center" nowrap=""><a href="http://www.americanblinds.com/Default.asp?cm_re=A-_-Top%20Nav-_-Home"><img src="/images/nav/ABWM_logo_home_bg.jpg" width="75" height="21" hspace="0" vspace="0" border="0"></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBarsLeft.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap=""><a href="http://www1.americanblinds.com/blindshome.aspx?ui=86322430&amp;lg=0&amp;cmad=&amp;cm_re=A-_-Top%20Nav-_-Blinds%20Shades" class="topNavLinksWhite" style="background-color:#0346ba"><font color="#ffffff">BLINDS &amp; SHADES </font></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap="" style="background-color:#0346ba"><a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;N=4294967258&amp;cm_re=A-_-Top%20Nav-_-Wallpaper" class="topNavLinksWhite"><font color="#ffffff">WALLPAPER &amp; FABRIC </font></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap="" style="background-color:#0346ba"><a href="http://www.americanblinds.com/products/instock/index.asp?P=CU&amp;N=4294957587&amp;cm_re=A-_-Top%20Nav-_-Curtains%20Draperies" class="topNavLinksWhite"><font color="#ffffff">CURTAINS &amp; DRAPERIES </font></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap="" style="background-color:#0346ba"><a href="http://www.americanblinds.com/products/instock/index.asp?P=HD&amp;N=4294956741&amp;cm_re=A-_-Top%20Nav-_-Hardware" class="topNavLinksWhite"><font color="#ffffff">HARDWARE</font></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap="" style="background-color:#0346ba"><a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&amp;N=4294955199&amp;cm_re=A-_-Top%20Nav-_-Area%20Rugs" class="topNavLinksWhite"><font color="#ffffff">AREA RUGS </font></a></td>
+					<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="21" hspace="0" vspace="0" border="0"></td>
+					<td align="center" nowrap="">
+					
+					     <a href="http://www.americanblinds.com/wallart-jump.asp?cm_re=A-_-Top%20Nav-_-Custom%20Art&amp;home=tab5" dest="go.pl?id=403731954&quot;" class="topNavLinksWhite" style="background-color:#0346ba"> 
+					
+					   <font color="#ffffff">CUSTOM FRAMED ART </font></a></td>
+					<td width="3"><img src="/images/nav/corners_navDividerBarsRtA.gif" width="3" height="21"></td>
+					<td width="2" bgcolor="#990000"><img src="/images/nav/corners_navDividerBarsRtB.gif" width="2" height="21"></td>
+					<td align="center" nowrap="" bgcolor="#990000"><a href="http://www.americanblinds.com/clearance/default.asp?cm_re=A-_-Top%20Nav-_-Clearance" class="topNavLinksWhite">CLEARANCE OUTLET </a></td>
+					<td width="4" bgcolor="#990000"><img src="/images/nav/corners_navDividerBarsRt.gif" width="4" height="21" hspace="0" vspace="0" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+  	</tr>
+  	<tr>
+    	<td>
+			<table width="992" border="0" cellpadding="0" cellspacing="0" bgcolor="#cbcbcb">
+				<tbody><tr>
+        			<td width="9"><img src="/images/nav/corners_btmrow_left.gif" width="9" height="18" hspace="0" vspace="0" border="0"></td>
+        			<td nowrap="" class="topNavLinksblack">
+<!-- PROGRAMMER NOTE - ADD LINKS REFERRED TO AS LINKLIST HERE -->
+                    <a href="http://www.americanblinds.com/cart/default.asp" class="topNavLinksblack">My Cart</a> | <a href="http://www.americanblinds.com/scrapbook/default.asp?cm_re=A-_-Top%20Nav-_-scrapbook" class="topNavLinksblack">Scrapbook</a> | <a href="https://www.americanblinds.com/customer/ellen.asp?cm_re=A-_-Top%20Nav-_-AskEllen" class="topNavLinksblack">Decorate Today® with Ellen</a> | <a href="http://www.americanblinds.com/onlinecatalog.asp?cm_re=A-_-Top%20Nav-_-catalog" class="topNavLinksblack">Online Catalogs</a></td>
+        			<td width="35"><img src="/images/nav/corners_btmrow_Rt_slider.gif" width="35" height="18" hspace="0" vspace="0" border="0"></td>
+        			<td width="100%" background="/images/nav/corners_btmrow_rt_bg.gif">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          					<tbody><tr>
+            					<td bgcolor="#cbcbcb"><img src="/images/nav/spacer.gif" width="55" height="5" hspace="0" vspace="0" border="0" class="style3"></td>
+          					</tr>
+          					<tr>
+            					<td bgcolor="#FFFFFF"><img src="/images/nav/spacer.gif" width="55" height="13" hspace="0" vspace="0" border="0"></td>
+          					</tr>
+        				</tbody></table>
+					</td>
+					<td width="7"><img src="/images/nav/corners_btmrow_Rt_end.gif" width="7" height="18" hspace="0" vspace="0" border="0"></td>
+      			</tr>
+    		</tbody></table>
+		</td>
+  	</tr>
+</tbody></table>
+<!-- PROGRAMMER NOTE - PLEASE ADD THE LINK LOGIC FOR BACK TO ONLINE CATALOG IN THE FOLLOWING TABLE AND ONLY SHOW THIS TABLE IF THE USER IS DETECTED TO HAVE COME FROM THE ONLINE CATALOG. -->
+
+		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+	
+            <tbody><tr>
+        
+		<td height="40" width="3%">&nbsp;</td>
+		<td height="40" width="370"><img src="/images/nav/head_helpinfo.gif" width="370" height="40" border="0"></td>
+		
+			<td background="/images/topnav_btm.gif" width="50%">&nbsp;</td> 
+		
+	</tr>
+	
+	</tbody></table>
+    
+
+<table><tbody><tr><td width="100"><img src="/images/horizontal_spacer.gif"></td><td align="center">
+<script>
+
+//Variables to set
+between=20 //The pixel between the menus and the submenus
+mainheight=16 //The height of the mainmenus
+subheight=14 //The height of the submenus
+pxspeed=100 //The pixel speed of the animation
+timspeed=1 //The timer speed of the animation
+
+
+			menuy=200 //The top placement of the menu for pages with sub nav bar.
+		
+
+
+menux=142 //The left placement of the menu
+//Images - Play with these
+level1_regular="/images/help/white.gif"
+level1_round="/images/help/white.gif"
+
+
+//Leave this line
+preLoadBackgrounds(level1_regular,level1_round)
+
+
+//There are 3 different types of menus you can make
+//top = Main menus
+//sub = Sub menus
+//sub2 = SubSub menus
+
+
+var cookieFound = false;
+var start = 0;
+var end = 0;
+var cookieString = document.cookie;
+var i = 0;
+var name='testmenu';
+	
+ // SCAN THE COOKIE FOR name
+  while (i <= cookieString.length) {
+    start = i;
+    end = start + name.length;
+    if (cookieString.substring(start,end) == name) {
+      cookieFound = true;
+      break;
+    }
+    i++;
+  }
+  
+  if (cookieFound) {
+    start = end + 1;
+    end = document.cookie.indexOf(";",start);
+    if (end < start)
+      end = document.cookie.length;
+      menuval=document.cookie.substring(start,end);
+      menuval=parseInt(menuval) + 1;
+    }
+  else {
+     menuval=99}
+    
+
+//You control the look of the menus in the stylesheet
+
+//makeMenu('TYPE','TEXT','LINK','TARGET', 'END (THE LAST MENU)')
+
+
+
+//Menu 0 
+makeMenu('top','Wallpaper & Fabric')
+	makeMenu('sub','Introduction','http://www.americanblinds.com/help/wp/default.asp')
+	makeMenu('sub','Measuring Your Walls','http://www.americanblinds.com/help/wp/measure.asp')
+	makeMenu('sub','Wallpaper Calculator','http://www.americanblinds.com/help/wp/cal_nav.asp')
+	makeMenu('sub','Types of Paper & Patterns','http://www.americanblinds.com/help/wp/types.asp')
+	makeMenu('sub','Compass Collection','http://www.americanblinds.com/help/wp/compass_about-info.asp')
+	makeMenu('sub','Glossary','http://www.americanblinds.com/help/wp/glossary.asp')
+	makeMenu('sub','FREE Personal Shopper','https://www.americanblinds.com/products/pers_shopper.asp')
+	makeMenu('sub','Removing Wallpaper','http://www.americanblinds.com/help/wp/remove.asp')
+	makeMenu('sub','Hanging Wallpaper','http://www.americanblinds.com/help/wp/hang.asp')
+	makeMenu('sub','Hanging PaperIllusion','http://www.americanblinds.com/help/wp/paperillusion.asp')
+	makeMenu('sub','Creating Fabric Swags','http://www.americanblinds.com/help/curtains/swags.asp') 
+	makeMenu('sub','Installer Search','http://www.americanblinds.com/resourcecenter/installerservices.asp')
+
+
+//Menu 1
+makeMenu('top','Blinds & Shades')
+	
+	makeMenu('sub','Measurement Worksheet','http://www.americanblinds.com/measure/measure_worksheet.asp')
+	makeMenu('sub','Inside vs. Outside Mount','http://www.americanblinds.com/measure/default.asp')
+	makeMenu('sub','Measure for Inside Mount','http://www.americanblinds.com/measure/howto.asp')
+	makeMenu('sub','Measure for Outside Mnt','http://www.americanblinds.com/measure/howto.asp')
+	makeMenu('sub','Measure for Multiple','http://www.americanblinds.com/measure/measure_unique.asp')
+	makeMenu('sub','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blinds on 1 Headrail','http://www.americanblinds.com/measure/measure_unique.asp')
+	makeMenu('sub','Stacking Thickness Chart','http://www.americanblinds.com/measure/stackingchart.asp')
+	makeMenu('sub','Types of Blinds','http://www.americanblinds.com/measure/blind_type.asp')
+	makeMenu('sub','Choosing the Right Color','http://www.americanblinds.com/resourcecenter/color.asp')    
+	makeMenu('sub','Controlling Daylight and','http://www.americanblinds.com/resourcecenter/daylight.asp') 
+	makeMenu('sub','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conserving Energy','http://www.americanblinds.com/resourcecenter/daylight.asp') 
+	makeMenu('sub','Glossary & Options','http://www.americanblinds.com/resourcecenter/options.asp')
+ 	makeMenu('sub','Covering Difficult Windows','http://www.americanblinds.com/measure/unique_shapes.asp')    
+	 
+	makeMenu('sub','Care and Cleaning','http://www.americanblinds.com/resourcecenter/care.asp') 
+	makeMenu('sub','5 Year Limited Warranty','http://www.americanblinds.com/resourcecenter/lifetime.asp')
+
+//Menu 2    
+makeMenu('top','Curtains')
+	makeMenu('sub','Introduction','http://www.americanblinds.com/help/curtains/default.asp') 
+	makeMenu('sub','Choosing Curtain Length','http://www.americanblinds.com/help/curtains/length.asp')
+	makeMenu('sub','How to Measure Curtains','http://www.americanblinds.com/help/curtains/measure.asp')
+	makeMenu('sub','How to Measure','http://www.americanblinds.com/help/curtains/measure_slipcover.asp')
+	makeMenu('sub','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standard Slipcovers','http://www.americanblinds.com/help/curtains/measure_slipcover.asp')
+	makeMenu('sub','Types of Valances','http://www.americanblinds.com/help/curtains/valance.asp')
+	makeMenu('sub','Types of Hardware','http://www.americanblinds.com/help/curtains/hardware.asp')
+	makeMenu('sub','Reasons to Use','http://www.americanblinds.com/help/curtains/reason.asp')
+	makeMenu('sub','Glossary','http://www.americanblinds.com/help/curtains/glossary.asp') 
+	makeMenu('sub','Creating Fabric Swags','http://www.americanblinds.com/help/curtains/swags.asp') 
+	makeMenu('sub','Covering Difficult Windows','http://www.americanblinds.com/help/curtains/difficult.asp') 
+	makeMenu('sub','Care and Cleaning','http://www.americanblinds.com/help/curtains/care.asp') 
+
+//Menu 3
+makeMenu('top','Area Rugs')
+	makeMenu('sub','Introduction','http://www.americanblinds.com/help/rugs/default.asp') 
+	makeMenu('sub','Braided Rugs','http://www.americanblinds.com/help/rugs/braid.asp') 
+	makeMenu('sub','Oriental Rug Collections','http://www.americanblinds.com/help/rugs/oriental.asp')
+	makeMenu('sub','Importance of Padding','http://www.americanblinds.com/help/rugs/padding.asp') 
+	makeMenu('sub','Choosing your Size','http://www.americanblinds.com/help/rugs/size.asp') 
+	makeMenu('sub','As Wall Hangings','http://www.americanblinds.com/help/rugs/wall_hanging.asp') 
+	makeMenu('sub','Care and Cleaning','http://www.americanblinds.com/help/rugs/care.asp') 
+	makeMenu('sub','Glossary','http://www.americanblinds.com/help/rugs/glossary.asp') 
+
+//Menu 5
+makeMenu('top','Resource Center')
+    makeMenu('sub','Resource Center Home','http://www.americanblinds.com/resourcecenter/default.asp') 
+	makeMenu('sub','How to Measure','http://www.americanblinds.com/measure/default.asp') 
+	makeMenu('sub','How to Install','http://www.americanblinds.com/installation/default.asp') 
+	makeMenu('sub','DIY Videos & Guides','http://www.americanblinds.com/resourcecenter/videosandguides.asp') 
+
+//Menu 6
+makeMenu('top','General Help & Policy')
+	makeMenu('sub','Technical Help','http://www.americanblinds.com/help/tech_error.asp')
+	makeMenu('sub','Shopping Cart','http://www.americanblinds.com/help/shopping.asp')
+	makeMenu('sub','Payment','http://www.americanblinds.com/help/payment.asp')
+	makeMenu('sub','Shipping and Delivery','http://www.americanblinds.com/help/shipping.asp')
+	makeMenu('sub','Return Policies','http://www.americanblinds.com/help/return.asp')
+	makeMenu('sub','Lowest Price Guarantee','http://www.americanblinds.com/help/lowest.asp')
+	makeMenu('sub','Satisfaction Guarantee','http://www.americanblinds.com/help/guarantee.asp')
+	makeMenu('sub','Disclaimers','http://www.americanblinds.com/help/disclaimers.asp')
+	makeMenu('sub','Privacy & Security','http://www.americanblinds.com/help/security.asp')
+	makeMenu('sub','Legal Notices','http://www.americanblinds.com/help/legal.asp')
+
+
+//Menu 8
+makeMenu('top','Gift Card')
+    makeMenu('sub','Gift Card FAQ&#8216;s','http://www.americanblinds.com/help/giftcards/FAQ.asp')
+	makeMenu('sub','Gift Card Terms','http://www.americanblinds.com/help/giftcards/terms.asp')
+	makeMenu('sub','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& Conditions','http://www.americanblinds.com/help/giftcards/terms.asp')
+	makeMenu('sub','Purchase Gift Card','https://www.americanblinds.com/offers/gift_card/order_form.asp')
+	makeMenu('sub','Gift Card Balance','http://www.americanblinds.com/offers/gift_card/CheckBalance.asp',"",1)
+	
+//Starting the menu
+
+onload=SlideMenuInit;
+</script>
+<table width="770" border="0" cellspacing="4" cellpadding="2" bgcolor="#ffffff">
+  <tbody><tr> 
+<td width="1">&nbsp;</td>    
+<td valign="top" bgcolor="#E5DEF4" width="140" height="430"> <noscript><font face="arial, helvetica" size="3"></noscript><font color="#993366"><b><font face="Arial, Helvetica, sans-serif" style="font-size:16px">Click 
+  for contents</font></b></font><br>
+  <noscript><font face="arial, helvetica" size="1"><b><a href="http://www.americanblinds.com/help/wp/default.asp">Wallpaper 
+  and Fabric</a><br>
+  <br>
+  <a href="http://www.americanblinds.com/measure/default.asp">Blinds and Shades</a><br>
+  <a href="http://www.americanblinds.com/help/curtains/default.asp"><br>
+  Curtains</a><br>
+  <br>
+  <a href="http://www.americanblinds.com/help/rugs/default.asp">Area Rugs</a><br>
+  <br>
+  <a href="http://www.americanblinds.com/help/nojava_policy.asp">Resource Center</a><br>
+  <br>
+  <a href="http://www.americanblinds.com/help/nojava_policy.asp">General Help and 
+  Policy</a><br>
+  <br>
+  <a href="http://www.americanblinds.com/help/nojava_policy.asp">Gift Cards</a><br>
+   </b>
+  </font></noscript> <img src="/images/spacer.gif" width="140" height="1"> 
+</td>
+
+    <td align="left" valign="top"><font face="arial, helvetica" size="3"><b>Privacy and Security</b></font> 
+      <br>
+      <br>
+      <font face="arial, helvetica" size="2"> This privacy policy is for American Blinds, Wallpaper &amp; More. 
+      Our homepage on the Web is located at<a href="http://www.americanblinds.com/default.asp"> 
+      www.americanblinds.com</a>. The full text of our privacy policy is stated 
+      below<a href="/w3c/p3p.xml"></a>. Users may go to <a href="https://www.americanblinds.com/register/default.asp">our registration section</a> 
+      to opt-in or opt-out of use of their information. We invite you to contact 
+      us if you have questions about this policy. You may contact us by mail at 
+      the following address: 
+      <p><b>American Blinds, Wallpaper &amp; More<br>
+        Att: E-Commerce Dept.<br>
+        31557 Schoolcraft Rd.<br>
+        Livonia, MI&nbsp;48150-1847<br>
+        USA<br>
+        </b><br>
+        You may contact us by e-mail by <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=6">clicking 
+        here</a>. <br>
+        <br>
+        You may call us at <b>1- 800- 509- 8222</b></p>
+      <b>Dispute Resolution</b><br>
+      Privacy/Security Dispute: If you have a question regarding our privacy policy 
+      or wish to dispute a privacy related issue, please contact our Customer 
+      Service department at 1-800-575-9019. <b><br>
+      <br>
+      Additional Information</b><br>
+      This policy is valid until 31 January 2009 at 12:00:00 EST.<br>
+      <br>
+      <b>Data Collection</b><br>
+      P3P stands for “The Platform for Privacy Policies”, documentation which 
+      is maintained at the World Wide Web Consortium (W3C). P3P policies declare 
+      the data they collect in groups (also referred to as "statements"). 
+      This policy contains one data group. The data practices of this group are 
+      explained below. 
+      <p>Group: American Blinds, Wallpaper &amp; More<br>
+        <br>
+        We collect the following information:</p>
+      <p>Click-stream data<br>
+        HTTP cookies<br>
+        Search terms<br>
+        Transaction history<br>
+        User's Name<br>
+        Home mailing address<br>
+        Home e-mail address<br>
+        Unique identifiers<br>
+        Computer information<br>
+        Interactive data</p>
+      <p>At the user's option, we may also collect the following data:</p>
+      <p>Name Prefix<br>
+        User's Birth Date<br>
+        Home telephone numbers<br>
+        Home fax number</p>
+      <p>This data will be used for the following purposes:</p>
+      <p>Completion and support of the current activity<br>
+        Web site and system administration<br>
+        Research and development<br>
+        One-time tailoring. The user is allowed to opt-out of this usage<br>
+        Anonymous user analysis<br>
+        Anonymous user profiling and decision-making<br>
+        Contacting visitors for marketing of services or products<br>
+        This data will be used by our agents and ourselves</p>
+      <p>In addition, the following types of entities will receive this information:</p>
+      <p>Delivery services.<br>
+        Others following the same practices. The user must opt-in to this data 
+        sharing.<br>
+        Unrelated third parties. The user must opt-in to this data sharing.<br>
+        <br>
+        The following explanation is provided for why this data is collected:<br>
+        <br>
+        When you place an order or register on our site, we require you to provide 
+        your name, e-mail address, mailing address, phone number, and credit card 
+        information (when ordering products only). We may also require you to 
+        create a username and password. This allows us to keep a user profile 
+        so that we may customize preferences for each user, as well as provide 
+        a more efficient method for users to submit information to americanblinds.com 
+        when placing an order or a request for product information. When you order 
+        a product and/or register, we also give you the option of submitting personal 
+        information such as your phone number, gender, date of birth, and/or other 
+        information. This allows us to know you better and possibly tailor any 
+        specific features, promotions, or other notifications to you. When registering 
+        with our site, you are also given a choice whether you would like to be 
+        on our mailing list, or whether you would prefer to opt-out and not receive 
+        such mailings. When you enter a contest or other promotional feature at 
+        our site, we may again ask for your name, address, username and password 
+        so that we are able to better administer the contest and notify winners.</p>
+      <p><b>Information Sharing</b></p>
+      <p>We utilize third-party companies to perform certain functions for us. 
+        Examples include order fulfillment, package delivery, the sending of emails 
+        and direct mail, data analysis, marketing optimization programs, credit 
+        card processing, etc. These third parties are given only the data that 
+        they need to perform the function that they are engaged in, and are not 
+        allowed to use it for any other purpose. We may be required to disclose 
+        your personal information to third parties to comply with applicable laws, 
+        subpoenas, or court orders. </p>
+      <p>We do make our customer postal mailing list available to other reputable 
+        organizations from time to time. You may opt out of this process by going 
+        to <a href="https://www.americanblinds.com/register/default.asp">our registration section</a>. 
+      </p>
+      <p>In the event of a merger or acquisition, your information may be transferred 
+        to the successor entity.<br>
+      </p>
+      <p></p>
+      <p><b>Cookies</b><br>
+        Cookies are a technology that can be used to provide you with tailored 
+        information from a Web site. A cookie is an element of data that a Web 
+        site can send to your browser, which may then store it on your system. 
+        You can set your browser to notify you when you receive a cookie, giving 
+        you the chance to decide whether to accept it.<br>
+        Our site makes use of cookies. Cookies are used for the following purposes:</p>
+      <p>Site administration<br>
+        Contacting users<br>
+        Completing the user's current activity<br>
+        User targeting<br>
+        Pseudonymous analysis<br>
+        Pseudonym-based decision-making<br>
+        Research and development <br>
+      </p>
+      <p><a name="security"><b>Security Practices</b></a><br>
+        We have appropriate physical, electronic and procedural security safeguards 
+        in place to protect and secure the information we collect.</p>
+      <p>In addition, our web site uses Secure Sockets Layering (SSL) to encrypt 
+        your personal credit information, including your credit card number, before 
+        it travels over the Internet. SSL is the industry standard for secure 
+        online transactions. By using SSL, we make placing an order online at 
+        our web site just as safe as giving your credit card number over the phone<br>
+      </p>
+      <p><b>Safe Shopping Guarantee</b><br>
+        We guarantee that every transaction you make at americanblinds.com 
+        will be safe and secure. In the unlikely event that unauthorized charges 
+        are made to your card as a result of shopping at americanblinds.com, 
+        you'll pay nothing.<br>
+        <br>
+        Under the Fair Credit Billing Act, your bank account cannot hold you liable 
+        for more than $50.00 of fraudulent charges. If your bank does hold you 
+        liable for any of this $50.00, americanblinds.com will cover 
+        the entire liability, up to the full $50.00. americanblinds.com 
+        will cover this liability only if the unauthorized use of your credit 
+        card resulted through no fault of your own from purchases made at americanblinds.com 
+        while using our secure server. </p>
+      </font><p><font face="arial, helvetica" size="2">In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. Any material changes to the privacy policy will be posted on the web site and communicated via 
+        e-mail. </font></p>
+      </td>
+  </tr>
+</tbody></table>
+
+<script language="JavaScript">
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=500,left = 262,top = 134');");
+}
+// End -->
+</script>
+
+<script language="JavaScript">
+<!-- Begin
+function popUp2(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=620,height=500,left = 262,top = 134');");
+}
+// End -->
+</script>
+<br>
+<table width="823" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td width="100" rowspan="2" align="right" valign="bottom"><img src="/images/nav/spacer.gif" width="7" height="30"><a href="javascript:popUp('http://www.bbbonline.org/cks.asp?id=105101816741')"><img src="/images/nav/foot_bbbonline_logo.gif" border="0" width="41" height="66"></a></td>
+    <td width=" 723" align="center"><a href="https://www1.americanblinds.com/contest/sweepstakes/default.aspx?ui=86322430&amp;lg=0&amp;cmad=&amp;cm_sp=Sweepstakes-_-BottomNav-_-Great%20American%20Sweepstakes"><img src="/images/offers/swpoffer3.jpg" width="630" height="30" hspace="0" vspace="5" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom"><img src="/images/nav/spacer.gif" width="100" height="30" border="0"><a href="http://www.americanblinds.com/help/payment.asp"><img src="/images/nav/foot_weareproudtoaccept.gif" width="358" height="30" border="0"></a> 
+      <a href="javascript:popUp2('http://www.americanblinds.com/bml/default.asp')"><img src="/images/nav/foot_bml_logolink.gif" width="220" height="30" border="0"></a><img src="/images/nav/spacer.gif" width="6" height="30"></td>
+  </tr>
+</tbody></table>
+<img src="/images/nav/footer_slogan_home.gif"><br>
+
+<table width="823" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td align="center" valign="middle" width="100">
+              <script src="https://seal.verisign.com/getseal?host_name=www.americanblinds.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+              </td>
+    <td align="center" valign="middle" width="490"> 
+      <form name="frmEmail" method="post" action="default.asp?">
+        <img src="/images/signupmaster_left.gif" border="0"><img src="/images/signupmaster_right.gif" border="0"> 
+        <br>
+        <font face="arial, helvetica" size="2"> <b>For special offers, product news and more, <a href="https://www.americanblinds.com/register/email_reg.asp">click 
+        here</a>!</b></font> 
+      </form></td>
+    <td align="center" valign="middle" width="233"> 
+      <div align="center"><a href="http://www.americanblinds.com/resourcecenter/installerservices.asp"><img src="/images/nav/installers_icon.gif" border="1"></a>&nbsp;&nbsp;&nbsp;<img src="/images/nav/DMAmemberlogo.gif" border="0"></div>
+    </td>
+  </tr>
+  <script language="JavaScript">
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=500,left = 262,top = 134');");
+}
+// End -->
+</script>
+  <tr> 
+    <td align="center" valign="middle" colspan="3"> 
+      <hr color="#000000" align="center" size="1" width="95%"><noscript>
+      <font size=1></noscript> <font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;home=tab1"> 
+      Wallpaper &amp; Fabric</a> | <a href="http://www1.americanblinds.com/blindshome.aspx?ui=86322430&amp;lg=0&amp;cmad=">Blinds 
+      &amp; Shades</a> | <a href="http://www.americanblinds.com/products/instock/index.asp?P=CU&amp;home=tab3">Curtains</a> 
+      | <a href="http://www.americanblinds.com/products/instock/index.asp?P=HD&amp;home=tab3">Hardware</a> 
+      | <a href="http://www.americanblinds.com/wallart-jump.asp">Custom Framed 
+      Art</a> | <a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&amp;home=tab6">Area 
+      Rugs</a> </font><font size="1"><font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      | <a href="http://www.americanblinds.com/products/clearance_outlet.asp">Clearance 
+      Outlet</a></font></font><font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      <hr width="30%" color="#000000" align="center" size="1">
+      <a href="http://www.americanblinds.com/customer/">1-800-575-8016</a> | <a href="http://www.americanblinds.com/customer">Contact 
+      Us</a> </font><font size="1"><font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      |</font></font> <font face="Arial, Helvetica, sans-serif" style="font-size:11px"><a href="https://www.americanblinds.com/customer/employment.asp">Careers</a> 
+      | <a href="http://www.americanblinds.com/help/security.asp"> Privacy and 
+      Security</a> | <a href="http://www.americanblinds.com/help/legal.asp">Legal 
+      Notices</a> | <a href="http://www.americanblinds.com/help/disclaimers.asp">Disclaimers</a></font><font size="1"><font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      </font><font size="1"><font size="1"><font face="Arial, Helvetica, sans-serif" style="font-size:11px"> 
+      | </font></font><font face="Arial, Helvetica, sans-serif" style="font-size:11px"><a href="http://www.americanblinds.com/commercialquote/default.asp"> 
+      Commercial Quotes</a> </font></font><font face="Arial, Helvetica, sans-serif" style="font-size:11px">| 
+      </font></font><font face="Arial, Helvetica, sans-serif" style="font-size:11px"><a href="http://www.americanblinds.com/customer/sitemap.asp"> 
+      Site Map</a> | <a href="http://www.americanblinds.com/affiliates/">Affiliate 
+      Program</a> | <a href="https://www.americanblinds.com/offers/gift_card/order_form.asp">Gift 
+      Card</a> <br>
+      Copyright American Blind and Wallpaper Factory, Inc. ©2008<br>
+      *Prices on website already reflect discount. &nbsp;&nbsp;&nbsp;&nbsp; **Multiple 
+      discount codes cannot be combined or applied to prior orders.</font><br>
+	   <font face="Arial, Helvetica, sans-serif" style="font-size:9px">American Blind and Wallpaper Factory brings you DecorateToday.com</font>
+      <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<br>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- webserver = Webserver5-->
+
+
+
+</td></tr></tbody></table></body></html>
