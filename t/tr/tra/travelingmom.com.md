@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418060947id_/http%3A//www.travelingmom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002124837id_/http%3A//www.travelingmom.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Traveling Mom
+# Traveling Mom - Privacy Policy
 
 Travelingmom™ Privacy Policy
 
@@ -170,3 +170,15 @@ Travelingmom™, LLC
 Greenwich, CT 06830
 
 We welcome your questions and suggestions about our privacy policy. 
+
+Trackback(0)
+
+Comments 
+
+  
+
+
+Write comment
+
+  
+
