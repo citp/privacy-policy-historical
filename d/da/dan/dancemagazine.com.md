@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615131916id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002074047id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
 
 # Dance Magazine
 
@@ -22,3 +22,5 @@ Our site includes links to other Web sites whose privacy policies we don't contr
 
 **6\. Children**   
 We do not solicit personal information from children. Sites specifically geared toward children will not request any personal or contact information. 
+
+  _Dance Magazine_ would like to receive your comments and any questions about this policy. Please address comments or questions regarding _Dance Magazine's_ privacy practices to us at one of the addresses listed on our [Contacts](https://web.archive.org/contact) page. _Dance Magazine_ may occasionally update this policy. Notice of revisions will be posted here.
