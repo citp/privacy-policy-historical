@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609224210id_/http%3A//www.moderntiredealer.com/t_inside.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002025205id_/http%3A//www.moderntiredealer.com/t_inside.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Modern Tire Dealer The #1 Online Source for Tire Dealers
 
