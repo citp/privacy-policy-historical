@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turn2us.org.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509051540id_/http%3A//www.turn2us.org.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn2us.org.uk privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004004741id_/http%3A//www.turn2us.org.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - turn2us - financial help | information | support
 
