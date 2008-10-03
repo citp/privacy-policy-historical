@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630094407id_/http%3A//www.simmonsfirst.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003212549id_/http%3A//www.simmonsfirst.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Privacy And Security: Simmons First National Bank
 
