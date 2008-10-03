@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terravision.eu privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307091127id_/http%3A//www.terravision.eu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terravision.eu privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003153935id_/http%3A//www.terravision.eu/policy.html) for the most accurate reproduction.*
 
 # Terravision Transfer Aeroporto in Bus – Pullman Express per il centro città
 
@@ -9,4 +9,4 @@ Your privacy is important to us and we will not disclose information about you t
 
 In using this website, you consent to the collection and use of personal information by Terravision London Ltd. In the ways described above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it
 
-If you have any questions about privacy, data accuracy or security please contact Terravision on +39 06 3244152 [serviceinfo@terravision.it](mailto:serviceinfo@terravision.it)
+If you have any questions about privacy, data accuracy or security please contact Terravision on +39 06 3244152 [helpdesko@terravision.eu](mailto:helpdesk@terravision.eu)
