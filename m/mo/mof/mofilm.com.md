@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the mofilm.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003091121id_/http%3A//www.mofilm.com/terms-privacy.php) for the most accurate reproduction.*
+
+# Mofilm - The world's biggest Global Mobile Short Film Festival
+
+**(Version 1 120908)**
+
+1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.mofilm.com (“Site”) and/or the services provided from it (“Services”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site. The Site, together with all its content is owned or controlled by Mofilm Ltd, a company registered in England and Wales with company number 6395308 and having its registered office at 3000 Aviator Way, Manchester M22 5TG.
+
+2\. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK. 
+
+3\. From time to time, we may collect or ask you to provide some or all of the following: name, address, date of birth, gender, music preferences, details of your music player devices, email addresses and/or mobile phone numbers, financial information such as credit/debit card numbers, IP addresses, web-browser details, operating system details, and/or your activities on the Site. This information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Services and services associated with them. We may also use your personal information to analyse use of the Site and/or to keep you up-to-date with other products and services, which we think may be of interest to you. 
+
+4\. We will only keep your personal information for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+
+5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
+
+6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws. Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
+
+7\. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please contact us at [info@mofilm.com](mailto:info@mofilm.com)
+
+8\. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at please contact us at [info@mofilm.com](mailto:info@mofilm.com)
