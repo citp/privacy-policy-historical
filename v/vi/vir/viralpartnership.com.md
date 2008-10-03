@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralpartnership.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424115027id_/http%3A//www.viralpartnership.com/v1/index.asp%3Fs%3Dtos%26view1%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralpartnership.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003164936id_/http%3A//www.viralpartnership.com/v2/%3Fview%3Dpp) for the most accurate reproduction.*
 
-# ViralPartnership™ "Affiliate Marketing Reinvented"
+# ViralPartnership™ - Affiliate Network | Affiliate Programs | Affiliate Marketing | Email Marketing | Search Marketing | Social Network
 
 **PRIVACY POLICY OF**
 
@@ -130,7 +130,7 @@ Viral Marketing Media may sell or transfer non-individualized information, such 
 
 **3.7. Other Access to Personal Information:**
 
-You have access to your personal information collected. You may correct, amend, or delete such information. You may do this by contacting legal@viralmarketingmedia.com. Viral Marketing Media may also give advertising clients and email services providers’ access to your email address to verify the origin of the personal information collected.
+You have access to your personal information collected. You may correct, amend, or delete such information. You may do this by contacting legal [at] viralmarketingmedia.com. Viral Marketing Media may also give advertising clients and email services providers’ access to your email address to verify the origin of the personal information collected.
 
 **4\. Privacy Practices of Third Parties.**
 
@@ -159,4 +159,4 @@ In accordance with California Civil Code Sec. 1789.3, California resident users 
 
 For more information about protecting your privacy, you may wish to visit: http://www.ftc.gov.
 
-If you have questions about this policy, please contact us at legal@viralmarketingmedia.com
+If you have questions about this policy, please contact us at legal [at] viralmarketingmedia.com
