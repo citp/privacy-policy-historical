@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410061206id_/http%3A//www.myvisuallistings.com/my-visual-listings/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004012606id_/http%3A//www.myvisuallistings.com/my-visual-listings/privacy-policy) for the most accurate reproduction.*
 
 # My Visual Listings - Not just a listing... a showing | privacy-policy
 
