@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527060339id_/http%3A//www.jeanza.com/index.php%3Fview%3Dprivacy%26cityid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003031629id_/http%3A//www.jeanza.com/index.php%3Fview%3Dprivacy%26cityid%3D1) for the most accurate reproduction.*
 
 # British Columbia, Canada - Jeanza Free Local Classifieds
 
