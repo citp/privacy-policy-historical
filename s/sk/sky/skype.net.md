@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610023512id_/http%3A//skype.net/go/legal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003123613id_/http%3A//www.skype.net/go/legal.privacy) for the most accurate reproduction.*
 
 # Skype Privacy Statement
 
