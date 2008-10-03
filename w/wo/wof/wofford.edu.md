@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613164939id_/http%3A//www.wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003122007id_/http%3A//www.wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Wofford College - Privacy Policy
 
@@ -18,7 +18,7 @@ When a user visits the Wofford College website various pieces of statistical dat
 ** Wofford College only collects information that could be used to identify you when you submit it to us, somewhere on the website. Wofford College does not sell, rent, or in any other form provide this information to third parties except where required by law. We conform to the CAN-SPAM Act of 2003. Any information collected in regards to the Bronto distribution system will only be used in that capacity.
 
 **Cookies  
-** Various pages on the Wofford site use cookies (personalized information about your preferences on the site stored on your computer) to better serve you. You can set your browser not to accept cookies if you would not like them on your machine.
+** Various pages on the Wofford site use cookies (personalized information about your preferences on the site stored on your computer) to better serve you. You can set your browser to not accept cookies if you would like them off on your machine.
 
 **Changes to the Privacy Policy  
 ** Wofford College reserves the right to change the privacy policy at any time, without notice. To keep abreast of any changes, check back on a regular basis.
