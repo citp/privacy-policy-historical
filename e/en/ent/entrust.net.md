@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612223054id_/http%3A//www.entrust.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003201939id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
 
-# Entrust Resources : Entrust Web Site Privacy Statement : Entrust secures digital identities and information for consumers, business networks and governments. Services and solutions for file encryption, authentication, fraud detection, shared data protection and e-mail security.
+# Privacy Statement - Entrust
 
 We hope that your visit to our site is both informative and useful. As a world leader in securing digital identities and information, we feel that privacy and security are two cornerstones of doing business over the Internet. As a result, Entrust is dedicated to safeguarding the personal information you give us and to providing our customers with the tools, service and support to develop their own world-class privacy and security solutions.
 
