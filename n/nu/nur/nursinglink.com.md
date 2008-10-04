@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursinglink.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520005857id_/http%3A//www.nursinglink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursinglink.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004235759id_/http%3A//www.nursinglink.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Nursing Link
 
@@ -52,7 +52,7 @@ The Monster Sites are not intended for children under 13 years of age. We do not
 
 ### Safe Harbor
 
-We participate in the Department of Commerce's Safe Harbor Framework arising out of the U.S. implementation of the European Union Data Protection Directive. We have certified adherence to the Safe Harbor Privacy Principles for the Monster and Monster Networking Sites. For more information about the Safe Harbor Privacy Principles and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](https://web.archive.org/web/20080520005857id_/http%3A//www.nursinglink.com/%E2%80%9Dhttp://www.export.gov/safeharbor). If you would like to contact us directly about the Safe Harbor program, please send an e-mail to safeharbor@monster.com.
+We participate in the Department of Commerce's Safe Harbor Framework arising out of the U.S. implementation of the European Union Data Protection Directive. We have certified adherence to the Safe Harbor Privacy Principles for the Monster and Monster Networking Sites. For more information about the Safe Harbor Privacy Principles and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](https://web.archive.org/web/20081004235759id_/http%3A//www.nursinglink.com/%E2%80%9Dhttp://www.export.gov/safeharbor). If you would like to contact us directly about the Safe Harbor program, please send an e-mail to safeharbor@monster.com.
 
 ### Changes to Privacy Statement
 
