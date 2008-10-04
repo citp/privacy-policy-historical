@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredseek.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507202819id_/http%3A//www.wiredseek.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredseek.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004232750id_/http%3A//wiredseek.com%3Fprivacy) for the most accurate reproduction.*
 
 # WiredSeek Store - Privacy Policy
 
