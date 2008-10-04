@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133014id_/http%3A//www.clothes2order.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004041824id_/http%3A//www.clothes2order.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice... - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
 
@@ -43,7 +43,7 @@ Using your credit card to make purchases via our web site is a secure way to pay
 We have put a number of security steps in place to give you, the customer, total confidence when purchasing through the Internet:
 
   1. All sensitive information, including personal details as well as credit card information, is encrypted through the use of our secure server software (SSL). This means that information can only be exchanged between you and us, and that no third party can access this data. The padlock symbol on your browser () shows which pages are covered by this security system.
-  2. All historical information regarding credit card, name, and address details is held on a secure computer. We do not retain live records of customer personal details or credit card information on our web servers after the transaction has been completed (i.e. you will need to enter your details each time you book over the Internet). 
+  2. All historical information regarding credit card, name, and address details is held on a secure computer. We do not retain live records of customer personal details or credit card information on our web servers after the transaction has been completed (i.e. you will need to enter your details each time you book over the Internet).
 
 
 
