@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codewit.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529231824id_/http%3A//codewit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewit.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005110414id_/http%3A//codewit.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Codewit.com- Build Your Knowledge Castle
 
@@ -34,6 +34,6 @@
 >>>>> 
 >>>>> **\-- > **Codewit! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Codewit! account or by placing a prominent notice on our site. 
 >>>>> 
->>>>> \--> If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20080529231824id_/http%3A//codewit.com/feedbacks.php) or you can [e-mail us ](mailto:ionyclaret@codewit.com)
+>>>>> \--> If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20081005110414id_/http%3A//codewit.com/feedbacks.php) or you can [e-mail us ](mailto:ionyclaret@codewit.com)
 >>>>> 
->>>>> [Back](https://web.archive.org/web/20080529231824id_/http%3A//codewit.com/index.php)
+>>>>> [Back](https://web.archive.org/web/20081005110414id_/http%3A//codewit.com/index.php)
