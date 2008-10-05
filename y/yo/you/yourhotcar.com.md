@@ -1,23 +1,33 @@
-> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612203918id_/http%3A//www.yourhotcar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005054810id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
 
-# yourhotcar Privacy Page
+# Performance Parts - Buy Performance Parts
 
-  
-Privacy Policy
+YourHotCar.com has created this privacy statement in order to demonstrate the firm commitment to the privacy of visitors and customers. The following discloses the information gathering and dissemination practices for the website: StreetBeatCustoms.com
 
-Your privacy is highly respected and carefully safeguarded at Auto Direct Save. We do not provide any personal identifying information, regardless of its source, to any third party for any purpose. Any information you provide in your secure member profile is used only to improve our service to you.
+**IP Addresses**  
+IP addresses are used to help diagnose problems related to server operations. IP addresses are also used to help identify customers, their respective shopping carts and to gather broad demographic information.
 
-We know how intimidating it can be to give information over the Internet. You can rest assured that Auto Direct Save is firmly committed to protecting the privacy and security of all your communications with us. All your transactions with Auto Direct Save are transmitted through a Secure Socket Layer (SSL) with 128-bit encryption for maximum security.
+**Cookies**  
+Cookies are used to keep track of shopping cart activity and to deliver information customized to respective customer interests. A cookie is stored only on the customer's respective computer and does not contain any credit card, address, or other personal information. The cookies are not shared with any other company.
 
-**Car information** is used only for the purpose of locating the correct parts and to verify the accuracy of your orders to ensure you receive the right parts for your car.
-
-**Secure Shopping Cart:**  Our site provides you with a 128-bit encrypted secure shopping cart for ordering your auto parts. Contact information (like your email address, phone and shipping address) and credit card information is used only for the purpose of processing and shipping your parts to you. No sensitive credit card information is stored in your online profile.  
-
-
-**External Links:**  This site contains links to other sites. Auto Direct Save is not responsible for the privacy practices or the content of such websites.  
+**Information Use**  
+Individual contact, registration, order, contest, survey and other information collected online from users (including name, address, email, telephone, demographic, vehicle) will not be sold, rented or provided to third parties for any type of use. Street Beat Customs, Inc. reserves the right to use this information to send its users company related information or promotional material. Users are afforded a clear opportunity to opt-out of any email list as outlined in the YourHotCar email privacy policy:  
 
 
-**Opt-In/Opt-Out:**  Auto Direct Save does NOT do any mass/junk emailings. Your email address is strictly used to respond to your requests.  
+> **Email Privacy Policy**  
+>  This email privacy policy has been created to demonstrate YourHotCar.com firm commitment to your privacy and the protection of your information.
+> 
+> **Why did you receive an email from us?**  
+>  If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+> 
+> **How we protect your privacy**  
+>  We use security measures to protect against the loss, misuse and alteration of data used by our system.
+> 
+> **Sharing and Usage**  
+>  We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
+> 
+> **How can you stop receiving email from us?**  
+>  Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
-
-**Email Address** : We do share or sell email address of our customers to anyone. Your email is address is safe with us.
+**User Agreement**  
+A customer's use of this site and/or placement of an order indicates acceptance of YourHotCar terms and conditions. YourHotCar reserves the right to make changes to the website and its terms and conditions at any time without notice.
