@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topselectit.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607070408id_/http%3A//www.topselectit.com/index.php%3Foption%3Dcom_content%26task%3Dblogsection%26id%3D7%26Itemid%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topselectit.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005084931id_/http%3A//topselectit.com/index.php%3Foption%3Dcom_content%26task%3Dblogsection%26id%3D7%26Itemid%3D40) for the most accurate reproduction.*
 
 # Www.TopSelectit.Com - Privacy Policy
 
