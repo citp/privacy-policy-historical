@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530111851id_/http%3A//www.healthwikinews.com/%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005040049id_/http%3A//www.healthwikinews.com/%3Fp%3D3) for the most accurate reproduction.*
 
 # Privacy Policy | Health Wiki News
 
