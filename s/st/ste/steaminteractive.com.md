@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steaminteractive.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142755id_/http%3A//www.steaminteractive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steaminteractive.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005160240id_/http%3A//www.steaminteractive.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::. STEAM INTERACTIVE
 
@@ -12,7 +12,7 @@ Our company owned and operated websites are not set up to track, collect or dist
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information that our clients provide to us about themselves. 
 
 **Changes/Queries**  
-Steam Interactive, LLC reserves the right to modify or amend this policy at any time. Whenever changes are made to the privacy policy, the same will be mentioned explicitly in this area under this sub heading. If certain users are affected by the change, they will be informed of the same 15 days in advance wherever practicable. Any queries about our privacy policy can be directed at [our staff](https://web.archive.org/web/20080513142755id_/http%3A//www.steaminteractive.com/contact.php).
+Steam Interactive, LLC reserves the right to modify or amend this policy at any time. Whenever changes are made to the privacy policy, the same will be mentioned explicitly in this area under this sub heading. If certain users are affected by the change, they will be informed of the same 15 days in advance wherever practicable. Any queries about our privacy policy can be directed at [our staff](https://web.archive.org/web/20081005160240id_/http%3A//www.steaminteractive.com/contact.php).
 
 |   | **The Way We Use Information**  
 We use return email addresses to answer the email we receive. We also may use this information to send out updates and notifications. Such addresses are not used for any other purpose and are not shared with outside parties unless authorized by the sender/client and only then to specific vendors pre-approved by the client to assist with requested business services. 
