@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php%3Faction%3Dprivacypolicy%26SID%3Dae86b850f941e46692a102f4d8f1eee6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php%3Faction%3Dprivacypolicy%26SID%3Du0juherlec3aqm6cavk5hii427) for the most accurate reproduction.*
 
 # Video Interviews by HireVue - The #1 Video Interview
 
   
 
 
-  * [employers](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=employers&)
-  * [3rd-party recruiters](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=recruiters&)
-  * [candidates](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=candidates&)
-  * [how it works](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=howitworks&)
-  * [why HireVue?](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=whyhirevue&)
-  * [testimonials](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=testimonials&)
-  * [FAQ](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=faq&)
-  * [contact us](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/contactUs.php?)
-  * [news](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=news&)
-  * [company info](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=companyinformation&)
-  * [pricing](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=pricing&)
-  * [jobs](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=jobs& "Jobs")
-  * [privacy policy](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=privacypolicy&)
-  * [service level agreement](https://web.archive.org/web/20080411074918id_/http%3A//www.hirevue.com/document.php?action=sla& "Service Level Agreement")
+  * [employers](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=employers&SID=u0juherlec3aqm6cavk5hii427)
+  * [3rd-party recruiters](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=recruiters&SID=u0juherlec3aqm6cavk5hii427)
+  * [candidates](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=candidates&SID=u0juherlec3aqm6cavk5hii427)
+  * [how it works](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=howitworks&SID=u0juherlec3aqm6cavk5hii427)
+  * [why HireVue?](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=whyhirevue&SID=u0juherlec3aqm6cavk5hii427)
+  * [testimonials](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=testimonials&SID=u0juherlec3aqm6cavk5hii427)
+  * [FAQ](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=faq&SID=u0juherlec3aqm6cavk5hii427)
+  * [contact us](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/contactUs.php?SID=u0juherlec3aqm6cavk5hii427)
+  * [news](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=news&SID=u0juherlec3aqm6cavk5hii427)
+  * [company info](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=companyinformation&SID=u0juherlec3aqm6cavk5hii427)
+  * [pricing](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=pricing&SID=u0juherlec3aqm6cavk5hii427)
+  * [jobs](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=jobs&SID=u0juherlec3aqm6cavk5hii427 "Jobs")
+  * [privacy policy](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=privacypolicy&SID=u0juherlec3aqm6cavk5hii427)
+  * [service level agreement](https://web.archive.org/web/20081005101349id_/http%3A//www.hirevue.com/document.php?action=sla&SID=u0juherlec3aqm6cavk5hii427 "Service Level Agreement")
 
 |  | 
 
