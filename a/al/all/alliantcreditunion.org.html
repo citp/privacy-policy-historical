@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alliantcreditunion.org privacy policy that was archived on 2008-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080629135540id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alliantcreditunion.org privacy policy that was archived on 2008-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081005092252id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>Alliant Credit Union | Privacy Policy</title>
@@ -7,8 +7,9 @@
 <meta name="description" content=" ">
 <meta name="keywords" content=" ">
 <meta name="robots" content="index, follow">
+<meta name="verify-v1" content="Vxgpe7gDICFmYfREw2MgoeR6gS+1kOk+DSznC48ONr4=">
 
-<link href="http://www.alliantcreditunion.org/?css=site/styles_css.v.1210714454" rel="stylesheet" type="text/css">
+<link href="http://www.alliantcreditunion.org/?css=site/styles_css.v.1222375275" rel="stylesheet" type="text/css">
 <!--[if IE 6]>
 <link href="http://www.alliantcreditunion.org/?css=site/styles_ie6.v.1210714695" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -16,7 +17,7 @@
 <link href="http://www.alliantcreditunion.org/?css=site/styles_ie7.v.1206047504" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-<script type="text/javascript" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/domtab.js"></script>
+<!--<script type="text/javascript" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/domtab.js"></script>-->
 <script type="text/javascript">
 /* <![CDATA[ */
 document.write('<style type="text/css">');    
@@ -24,11 +25,16 @@ document.write('div.domtab div{display:none;}<');
 document.write('/s'+'tyle>');    
 /* ]]> */
 </script><style type="text/css">div.domtab div{display:none;}</style>
-<script type="text/javascript" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/mootools-alliant.js"></script>
+<!--<script type="text/javascript" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/mootools-alliant.js"></script>
+<script type="text/javascript" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/mootools-alliant-more.js"></script>-->
+
+
+
 <script type="text/javascript">
 /* <![CDATA[ */
-
+<!--
 window.addEvent('domready', function(){
+
 	if (document.getElementById('ex1')) {
 		var mySlide1 = new Fx.Slide('ex1');
 		$('extoggle1').addEvent('click', function(e){
@@ -79,11 +85,17 @@ window.addEvent('domready', function(){
 		
 		mySlide5.hide();
 	}
+
+	if (document.getElementById('jobs')) {
+         myTable = new sortableTable('jobs', {overCls: 'over'});
+        }
+
 		
 }); 
-
+-->
 /* ]]> */
 </script>
+
 <style type="text/css">
 
  #accordion div.accordion0 {display: block;}
@@ -92,16 +104,62 @@ window.addEvent('domready', function(){
  #accordion h3.accordion0.nochild a, #accordion h3.accordion0.child a {color: #06c;}
 </style>
 
+<script src="/themes/site_themes/alliant1/scripts/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/themes/site_themes/alliant1/scripts/ui.core.js" type="text/javascript" charset="utf-8"></script>
+<script src="/themes/site_themes/alliant1/scripts/ui.tabs.js" type="text/javascript" charset="utf-8"></script>
+<script src="/themes/site_themes/alliant1/scripts/jquery.tablesorter.js" type="text/javascript" charset="utf-8"></script>
+<script src="/themes/site_themes/alliant1/scripts/jquery.scrollTo-min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/adapter/shadowbox-base.js"></script>
+<script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/shadowbox.js"></script>
+<script type="text/javascript" src="/themes/site_themes/alliant1/common_scripts.js" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+	Shadowbox.loadSkin('classic', '/themes/site_themes/alliant1/scripts/shadowbox/src/skin');
+	Shadowbox.loadLanguage('en', '/themes/site_themes/alliant1/scripts/shadowbox/src/lang');
+	Shadowbox.loadPlayer(['flv', 'html', 'iframe', 'img', 'qt', 'swf', 'wmp'], '/themes/site_themes/alliant1/scripts/shadowbox/src/player');
+
+	$(document).ready(function(){
+
+		Shadowbox.init();
+
+		$('#subnav > ul').tabs();
+		
+		var $tabs = $('#subnav > ul').tabs();
+		var selected = $tabs.data('selected.tabs');
+
+		$('#extoggle1').click(function() {$('#ex1').toggle('slow');});
+			
+		$('#extoggle2').click(function() {$('#ex2').toggle('slow');});
+		
+		$('#extoggle3').click(function() {$('#ex3').toggle('slow');});
+			
+		$('#extoggle4').click(function() {$('#ex4').toggle('slow');});
+			
+		$('#extoggle5').click(function() {$('#ex5').toggle('slow');});
+
+		$("#jobs").tablesorter({sortList:[[0,0]], widgets: ['zebra']});
+
+	});
+</script><link rel="stylesheet" type="text/css" href="/themes/site_themes/alliant1/scripts/shadowbox/src/skin/classic/skin.css"><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/skin/classic/skin.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/lang/shadowbox-en.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-flv.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-html.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-iframe.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-img.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-qt.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-swf.js"></script><script type="text/javascript" src="/themes/site_themes/alliant1/scripts/shadowbox/src/player/shadowbox-wmp.js"></script>
 
 </head>
 <body>
 
 <div id="header">
-	<div id="logo" class="noprint"><a href="http://www.alliantcreditunion.org/"><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_alliant.gif" alt="Alliant Credit Union"></a></div>
+	<div id="logo" class="noprint">
+
+        <a href="http://www.alliantcreditunion.org/">
+
+
+
+<img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_alliant.gif" alt="Alliant Credit Union"></a></div>
 	<div id="logo_print" class="printonly"><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_alliant_print.gif" alt="Alliant Credit Union"></div>
+
+
+
+
 	<div id="searchbox" class="noprint">
 	<div id="quicklinks">
-	<a href="http://www.skybranch.com">Online Banking Login</a> | <a href="/about/atms/">ATMs</a> | <a href="/about/locations/">Locations</a> | <a href="/services/rates/">Rates</a> | <a href="/about/jobs/">Jobs</a> | <a href="/about/contact/">Contact</a> | <b>800-328-1935</b></div>
+	<a href="http://www.skybranch.com">Online Banking Login</a> | <a href="http://www.alliantcreditunion.org/about/atms/">ATMs</a> | <a href="http://www.alliantcreditunion.org/about/locations/">Locations</a> | <a href="http://www.alliantcreditunion.org/services/rates/">Rates</a> | <a href="http://www.alliantcreditunion.org/about/jobs/">Jobs</a> | <a href="http://www.alliantcreditunion.org/about/contact/">Contact</a> | <b>800-328-1935</b></div>
 	<form action="http://search.alliantcreditunion.org/search" method="get" id="sitesearch"><table cellpadding="0" cellspacing="0" class="f_right;"><tbody><tr><td valign="top"><input type="text" name="q" id="search" size="35"></td><td valign="top"><input type="image" src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/btn_search.jpg" name="btnG" value="Search" alt="Search">
       <input type="hidden" name="site" value="alliant_www">
       <input type="hidden" name="client" value="default_frontend">
@@ -111,13 +169,15 @@ window.addEvent('domready', function(){
       </form>
 	</div>
 	<div id="navbar" class="noprint">
-	   <span class="navbar1"><a href="http://www.alliantcreditunion.org/">Home</a></span>
-	   <span class="navbar2"><a href="/depositsinvestments/">Deposits &amp; Investments</a></span>
-	   <span class="navbar3"><a href="/loans/">Loans</a></span>
-	   <span class="navbar4"><a href="/visa/">Visa Cards</a></span>
-	   <span class="navbar5"><a href="/membership/">How to Join</a></span>
-	   <span class="navbar6"><a href="/services/">Account Services</a></span>
-	   <span class="navbar7"><a href="/about/alliant/">About Alliant</a></span>
+	   <span class="navbar1">
+        <a href="http://www.alliantcreditunion.org/">
+Home</a></span>
+	   <span class="navbar2"><a href="http://www.alliantcreditunion.org/depositsinvestments/">Deposits &amp; Investments</a></span>
+	   <span class="navbar3"><a href="http://www.alliantcreditunion.org/loans/">Loans</a></span>
+	   <span class="navbar4"><a href="http://www.alliantcreditunion.org/visa/">Visa Cards</a></span>
+	   <span class="navbar5"><a href="http://www.alliantcreditunion.org/membership/">How to Join</a></span>
+	   <span class="navbar6"><a href="http://www.alliantcreditunion.org/services/">Account Services</a></span>
+	   <span class="navbar7"><a href="http://www.alliantcreditunion.org/about/alliant/">About Alliant</a></span>
 	</div>
 </div><!-- /header -->
 		
@@ -209,44 +269,50 @@ Alliant restricts access to nonpublic personal information about its members to 
 
     <table width="100%" class="sitemaptable"><tbody><tr>
     <td colspan="6" valign="top" id="sitemap_head"><a href="https://www.skybranch.com">Online Banking Login</a></td></tr><tr>
+
+
+
+
 <td style="width:14%" valign="top">
 	<strong>Membership</strong><br>
-	<a href="/membership/eligibility/">Eligibility</a><br>
-	<a href="/membership/benefits/">Benefits</a><br>
+	<a href="http://www.alliantcreditunion.org/membership/eligibility/">Eligibility</a><br>
+	<a href="http://www.alliantcreditunion.org/membership/benefits/">Benefits</a><br>
 		</td>
     <td style="width:20%" valign="top">
 	<strong>Deposits &amp; Investments</strong><br>
-	<a href="/depositsinvestments/savings/">Savings</a><br>
-	<a href="/depositsinvestments/checking/">Checking</a><br>
-	<a href="/depositsinvestments/healthsavings/">Health Savings (HSA)</a><br>
-	<a href="/depositsinvestments/certificates/">Certificates</a><br>
-        <a href="/depositsinvestments/educationsavings/">Education Savings</a><br>
-        <a href="/depositsinvestments/ira/">IRA</a><br>
+	<a href="http://www.alliantcreditunion.org/depositsinvestments/savings/">Savings</a><br>
+	<a href="http://www.alliantcreditunion.org/depositsinvestments/checking/">Checking</a><br>
+	<a href="http://www.alliantcreditunion.org/depositsinvestments/healthsavings/">Health Savings (HSA)</a><br>
+	<a href="http://www.alliantcreditunion.org/depositsinvestments/certificates/">Certificates</a><br>
+    <a href="http://www.alliantcreditunion.org/depositsinvestments/educationsavings/">Education Savings</a><br>
+    <a href="http://www.alliantcreditunion.org/depositsinvestments/ira/">IRA</a><br>
 	 </td>
     <td style="width:16%" valign="top">
 	<strong>Loans</strong><br>
-	<a href="/loans/mortgages/">Mortgages</a><br>
-	<a href="/loans/homeequity/">Home Equity</a><br>
-	<a href="/loans/vehicle/">Vehicle</a><br>
-	<a href="/loans/student/">Student</a><br>
-	<a href="/loans/personal/">Personal</a><br>
-	<a href="/loans/memberassistance/">Members Assistance</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/mortgages/">Mortgages</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/homeequity/">Home Equity</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/vehicle/">Vehicle</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/student/">Student</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/personal/">Personal</a><br>
+	<a href="http://www.alliantcreditunion.org/loans/memberassistance/">Members Assistance</a><br>
 	    </td>
     <td style="width:16%" valign="top">
 	<strong>VISA<sup>®</sup> Cards</strong><br>
-	<a href="/visa/platinum/">Platinum</a><br>
-	<a href="/visa/rewards/">Platinum Rewards</a><br>
-	<a href="/visa/giftcard/">Gift Card</a><br>
+	<a href="http://www.alliantcreditunion.org/visa/platinum/">Platinum</a><br>
+	<a href="http://www.alliantcreditunion.org/visa/rewards/">Platinum Rewards</a><br>
+	<a href="http://www.alliantcreditunion.org/visa/giftcard/">Gift Card</a><br>
 		</td>
     <td style="width:16%" valign="top">
 	<strong>Support</strong><br>
-         <a href="/about/contact/">Contact Alliant</a><br>
-	<a href="/services/forms/">Forms</a><br>
-	<a href="/services/rates/">Rates</a><br>
-	<a href="/global/disclosures/">Disclosures</a><br>
-	<a href="/services/">Services</a><br>
-        <a href="/global/top10/">10 Web Site Features</a><br>
+    <a href="http://www.alliantcreditunion.org/about/contact/">Contact Alliant</a><br>
+	<a href="http://www.alliantcreditunion.org/services/forms/">Forms</a><br>
+	<a href="http://www.alliantcreditunion.org/services/rates/">Rates</a><br>
+	<a href="http://www.alliantcreditunion.org/global/disclosures/">Disclosures</a><br>
+	<a href="http://www.alliantcreditunion.org/services/">Services</a><br>
+    <a href="http://www.alliantcreditunion.org/global/top10/">10 Web Site Features</a><br>
     </td>
+
+
 <td style="width:16%" valign="top">
 	<strong>Lost or Stolen Card</strong><br>
         Credit Card<br>
@@ -254,18 +320,20 @@ Alliant restricts access to nonpublic personal information about its members to 
         ATM/Check Card<br>
         800-328-1935<br>
     </td>
-    </tr></tbody></table>
+
+
+   </tr></tbody></table>
     </div>
 	<div id="sitemap_bot"></div>
 </div><!-- /sitemap -->
 <p>&nbsp;</p>
 <div id="footer">
 	<div id="footer_content">
-    	<table class="footertable"><tbody><tr><td><div><strong>800-328-1935 | ABA Routing and Transit Number # 271081528</strong></div></td><td class="t_right"><div class="links noprint"><a href="/global/disclaimers/">disclaimers</a> | <a href="/global/privacy/">privacy</a> | <a href="/global/sitemap/">site map</a></div></td></tr></tbody></table>
+    	<table class="footertable"><tbody><tr><td><div><strong>800-328-1935 | ABA Routing and Transit Number # 271081528</strong></div></td><td class="t_right"><div class="links noprint"><a href="http://www.alliantcreditunion.org/global/disclaimers/">disclaimers</a> | <a href="http://www.alliantcreditunion.org/global/privacy/">privacy</a> | <a href="http://www.alliantcreditunion.org/global/sitemap/">site map</a></div></td></tr></tbody></table>
     	<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top">
-		<p>Alliant Credit Union, 11545 W. Touhy Ave., Chicago, Illinois. Your savings federally insured to at least $100,000 and backed by the full faith and credit of the United States Government - <a href="/redirect/rdir2/" rel="external">National Credit Union Administration</a> (NCUA), a U.S. Government Agency.</p>
+		<p>Alliant Credit Union, 11545 W. Touhy Ave., Chicago, Illinois. Your savings federally insured to at least $100,000 and backed by the full faith and credit of the United States Government - <a href="http://www.alliantcreditunion.org/redirect/rdir2/" rel="external">National Credit Union Administration</a> (NCUA), a U.S. Government Agency.</p>
     	</td><td valign="top">
-    	<table cellpadding="0" cellspacing="0" class="f_right"><tbody><tr><td><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ehl.gif" alt="equal housing lender"></td><td><a href="/redirect/rdir2/" rel="external" class="noprint"><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ncua.gif" class="f_right" alt="ncua insured notice"></a><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ncua_print.gif" class="printonly" alt="ncua insured notice"></td></tr></tbody></table>
+    	<table cellpadding="0" cellspacing="0" class="f_right"><tbody><tr><td><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ehl.gif" alt="equal housing lender"></td><td><a href="http://www.alliantcreditunion.org/redirect/rdir2/" class="noprint"><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ncua.gif" class="f_right" alt="ncua insured notice"></a><img src="http://www.alliantcreditunion.org/themes/site_themes/alliant1/images/logo_ncua_print.gif" class="printonly" alt="ncua insured notice"></td></tr></tbody></table>
     	</td></tr></tbody></table>
 	</div><!-- /footer_content -->
 </div><!-- /footer -->
@@ -287,4 +355,4 @@ pageTracker._trackPageview();
 
 
 
-</body></html>
+<div id="shadowbox_container"><div id="shadowbox_overlay"></div><div id="shadowbox"><div id="shadowbox_title"><div id="shadowbox_title_inner"></div></div><div id="shadowbox_body"><div id="shadowbox_body_inner"></div><div id="shadowbox_loading"><div id="shadowbox_loading_indicator"></div><span><a onclick="Shadowbox.close();">Cancel</a></span></div></div><div id="shadowbox_info"><div id="shadowbox_info_inner"><div id="shadowbox_counter"></div><div id="shadowbox_nav"><a id="shadowbox_nav_close" title="Close" onclick="Shadowbox.close()">Close</a><a id="shadowbox_nav_next" title="Next" onclick="Shadowbox.next()"></a><a id="shadowbox_nav_play" title="Play" onclick="Shadowbox.play()"></a><a id="shadowbox_nav_pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="shadowbox_nav_previous" title="Previous" onclick="Shadowbox.previous()"></a></div><div class="shadowbox_clear"></div></div></div></div></div></body></html>
