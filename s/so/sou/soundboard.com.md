@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131324id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005035233id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Soundboard.com
 
@@ -15,20 +15,13 @@ This site does not review everything immediately and the material is posted by t
 
 | 
 
-search  
-By title, quote, keyword, name   
+Become a Facebook Fan
 
-
-NEW! Soundboard Ringtones 
-
-Get the ringtone! Thousands of high quality sounds now available in our ringtone catalog. **Enter[Soundboard.com Ringtones](http://login.tracking101.com/ez/dbbyybchkhoy/&tid=67) here.**
-
-Featured Sites 
+[Soundboard on Facebook](http://www.new.facebook.com/pages/Soundboardcom/7065163506)  
+Become a Soundboard.com fan on Facebook and get the latest info and updates. Plus be the first to use our new Facebook app, currently in testing, which lets you add any soundboard to your profile. 
 
 Categories
 
-Soundboard Showcase 
+[](https://web.archive.org/web/20081005035233id_/http%3A//www.soundboard.com/feeds/mostvoted.xml) Vote For It! 
 
-Most Rooted For
-
-[](http://www.addthis.com/bookmark.php)
+Vote for any board by clicking the 'Vote' icon - no registration required.
