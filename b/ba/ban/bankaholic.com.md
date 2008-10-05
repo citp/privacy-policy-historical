@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankaholic.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617094039id_/http%3A//www.bankaholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaholic.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005043202id_/http%3A//www.bankaholic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Best CD (Certificate of Deposit) Rates, Money Market Rates, High Interest Accounts
+# Privacy Policy at CD (Certificate of Deposit) Rates, Money Market Rates, High Interest Savings Accounts
 
 Bankaholic.com is committed to protecting your privacy when you visit our Web site. You can access Bankaholic.com and browse our site without disclosing any of your personal data. Bankaholic.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Bankaholic.com will use it.
 
