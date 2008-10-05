@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163856id_/http%3A//www.brocade.com/company_info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005181637id_/http%3A//www.brocade.com/company_info/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy: Information Collection and Use
 
