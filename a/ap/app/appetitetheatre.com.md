@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appetitetheatre.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408073434id_/http%3A//www.appetitetheatre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appetitetheatre.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006154635id_/http%3A//appetitetheatre.com/privacy) for the most accurate reproduction.*
 
 # 
 
