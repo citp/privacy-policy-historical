@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612052841id_/http%3A//www.sun-sentinel.com/about/site/sfl-privacypolicy%2C0%2C5753662.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006174334id_/http%3A//www.sun-sentinel.com/sfl-about-site-privacypolicy-link%2C0%2C2109074.storylink) for the most accurate reproduction.*
 
-# Sun-Sentinel.com Privacy Policy: South Florida Sun-Sentinel
+# Sun-Sentinel.com Privacy Policy -- South Florida Sun-Sentinel.com
 
 _Last Updated: May 2006_
 
@@ -16,7 +16,7 @@ Like most Web sites, Sun-Sentinel.com also collects information automatically an
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Sun-Sentinel.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/site/sfla-copyright,0,6598663.story) and privacy policy, products and services offered by Sun-Sentinel.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Sun-Sentinel.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/site/sfla-copyright,0,6598663.story) and privacy policy, products and services offered by Sun-Sentinel.com and other [Tribune Company](https://web.archive.org/topic/economy-business-finance/media/tribune-co.-ORCRP017346.topic "Tribune Co.") affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by Sun-Sentinel.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -41,5 +41,3 @@ Please be careful and responsible whenever you are online. Should you choose to 
 Sun-Sentinel.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Sun-Sentinel.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 **Contacting us**
-
-[](https://subscribe.sun-sentinel.com/Circulation/)
