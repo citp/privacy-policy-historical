@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominatedgirls.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413024732id_/http%3A//dominatedgirls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominatedgirls.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007000610id_/http%3A//dominatedgirls.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
