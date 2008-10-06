@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423160444id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006061808id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
 
 # Prometric
 
