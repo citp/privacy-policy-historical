@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140137id_/http%3A//www.xoriant.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006134859id_/http%3A//www.xoriant.com/privacy_policy) for the most accurate reproduction.*
 
-# Xoriant - Privacy
+# Privacy - Xoriant
 
 PRIVACY POLICY
 
