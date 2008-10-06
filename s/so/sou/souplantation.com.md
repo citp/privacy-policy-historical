@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509065931id_/http%3A//www.souplantation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006160916id_/http%3A//www.souplantation.com/privacy.asp) for the most accurate reproduction.*
 
 # Souplantation & Sweet Tomatoes : Privacy Policy
 
