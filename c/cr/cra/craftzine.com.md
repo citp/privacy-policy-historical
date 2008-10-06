@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the craftzine.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515023652id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftzine.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006224257id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# ONJava.com -- Privacy Policy
+# Privacy
+
+## O'Reilly Media Privacy Policy
+
+* * *
 
   
 
-
-## O'Reilly Media Privacy Policy
 
 ### Purpose and Scope
 
@@ -35,7 +37,7 @@ We use the personal information you provide voluntarily to send information you'
 
 
 
-We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html>) and as described below: 
+We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html>) and as described below:
 
   * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
   * We rent our snailmail list for one-time use to third parties we deem relevant and appropriate. We do not rent or sell our email lists.
@@ -72,10 +74,10 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 
 This privacy policy was put in effect on October 1, 2002.
 
-If we change our Privacy Policy, we will post those changes on www.oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
+If we change our Privacy Policy, we will post those changes on oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
 ### How to update, correct, or delete your information
 
-**Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com?subject=) or call 800-998-9938 or 707-829-0515. 
+**Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [webmaster@oreilly.com](mailto:webmaster@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
 
 **Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
