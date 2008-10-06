@@ -1,41 +1,18 @@
-> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528063840id_/http%3A//www.emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006135351id_/http%3A//www.emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Emaar
 
-| [](https://web.archive.org/Index.asp) |  |   
----|---|---  
-|  |  | Project  |  | Community | | 
-
-Type 
-
-|  |    
----|---|---|---|---|---|---  
+|  |  **Privacy Policy**  
+---  
   
-Bedrooms
-
-|  | 
-
-Area Sq. Ft. 
-
-|  | 
-
-Budget AED
-
-|  |   
-  |   |   | 
-
-(1 USD = 3.675 AED Approximately) 
-
-|    
-|  [Home](https://web.archive.org/) / [**Privacy Policy**](https://web.archive.org/Privacy/)   
-  
+| Privacy Policy  
 ---  
   
 Emaar Properties PJSC and its subsidiaries and affiliated companies (hereinafter referred to as "Emaar" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit <http://www.emaar.com/> (the "Site") without disclosing any personally identifiable information about yourself.
 
 We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. 
 
-You should read this notice in conjunction with the [Terms and Conditions](https://web.archive.org/terms_conditions/Index.asp) of use for the Site. 
+You should read this notice in conjunction with the [Terms and Conditions](https://web.archive.org/web/20081006135351id_/http://www.emaar.com/index.aspx?page=termandconditions) of use for the Site. 
 
  ** _Acceptance_**
 
@@ -63,5 +40,3 @@ As a general rule, Emaar Properties PJSC will not disclose any specific personal
 
  **4\. How can I control my information?**  
 In case you change your mind or some Personal Information changes (such as your mailing address or e-mail address), we will try to provide a way to correct, update or remove the Personal Information that you have provided us. We offer Customers the opportunity to "opt out" of having Personal Information shared with Emaar Properties PJSC and/or its affiliated companies such as un-registering from the Emaar.com Newsletter. Additionally, If a Customer wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: [sitefeedback@emaar.ae](mailto:sitefeedback@emaar.ae). 
-
-| 
