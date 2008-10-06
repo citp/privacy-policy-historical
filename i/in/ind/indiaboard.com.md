@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501092613id_/http%3A//www.indiaboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006203305id_/http%3A//www.indiaboard.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Indiaboard.com Free Classifieds for Indians
 
@@ -71,11 +71,11 @@ Temple Services
   
 | 
 
-**[Real Estate for NRI](https://web.archive.org/web/20080501092613id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=394&offset=0&lpp=25&cattype=a&number=25&parent=0)s**  
+**[Real Estate for NRI](https://web.archive.org/web/20081006203305id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=394&offset=0&lpp=25&cattype=a&number=25&parent=0)s**  
   
   
 ---  
   
-**[Room Mate and](https://web.archive.org/web/20080501092613id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)[ accommodation.](https://web.archive.org/web/20080501092613id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)**  
+**[Room Mate and](https://web.archive.org/web/20081006203305id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)[ accommodation.](https://web.archive.org/web/20081006203305id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)**  
   
-**[For Sale](https://web.archive.org/web/20080501092613id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_b=13&parent=0&number=3&cattype=b&trace=)**
+**[For Sale](https://web.archive.org/web/20081006203305id_/http%3A//www.indiaboard.com/mojoClassified.cgi?mojo=1&cat_b=13&parent=0&number=3&cattype=b&trace=)**
