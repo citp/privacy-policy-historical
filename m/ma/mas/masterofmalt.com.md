@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429230756id_/http%3A//www.masterofmalt.com/shopping/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006193846id_/http%3A//www.masterofmalt.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Master of Malt - Privacy Policy
 
