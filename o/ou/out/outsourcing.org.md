@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsourcing.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629234432id_/http%3A//www.outsourcing.org/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsourcing.org privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006225202id_/http%3A//www.outsourcing.org/docs/privacy) for the most accurate reproduction.*
 
 # Outsourcing Directory User Registration
 
