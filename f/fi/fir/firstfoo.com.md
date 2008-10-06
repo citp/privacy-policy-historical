@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstfoo.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516151620id_/http%3A//www.firstfoo.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstfoo.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006215404id_/http%3A//www.firstfoo.com/html/privacy.htm) for the most accurate reproduction.*
 
 # FirstFoo.com Privacy Policy
 
@@ -45,4 +45,4 @@ Yours truly,
 
 [**The StoryMaster**](mailto:info@firstfoo.com)
 
-[Contact Us](mailto:info@firstfoo.com) | [Privacy Policy](https://web.archive.org/web/20080516151620id_/http%3A//www.firstfoo.com/html/privacy.htm) | [Home](https://web.archive.org/web/20080516151620id_/http%3A//www.firstfoo.com/index.htm)
+[Contact Us](mailto:info@firstfoo.com) | [Privacy Policy](https://web.archive.org/web/20081006215404id_/http%3A//www.firstfoo.com/html/privacy.htm) | [Home](https://web.archive.org/web/20081006215404id_/http%3A//www.firstfoo.com/index.htm)
