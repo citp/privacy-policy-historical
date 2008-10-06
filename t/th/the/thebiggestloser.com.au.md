@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606155436id_/http%3A//www.thebiggestloser.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006091939id_/http%3A//www.thebiggestloser.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Biggest Loser
 
   
 _About Us_  
-FremantleMedia Australia Pty Limited and its related bodies corporate in Australia which include, but is not limited to Grundy Television Pty Limited and Crackerjack Productions Pty Ltd. ("the Organization"), is aware of and recognises the importance of dealing with the collection, security, quality of and disclosure of personal information in accordance with the National Privacy Principles (NPPs) and the Privacy Act 1988 (Cth). 
+FremantleMedia Australia Pty Limited and its related bodies corporate in Australia which include, but is not limited to Grundy Television Pty Limited and Crackerjack Productions Pty Ltd. (“the Organization”), is aware of and recognises the importance of dealing with the collection, security, quality of and disclosure of personal information in accordance with the National Privacy Principles (NPPs) and the Privacy Act 1988 (Cth). 
 
 _Individuals With Whom We Deal_  
 Personal information will need to be collected by the Organization or its agents from:-  
@@ -16,18 +16,18 @@ Personal information will need to be collected by the Organization or its agents
 6\. Individuals who deal with us as a product or service supplier and/or other commercial or trading purposes in connection with the day to day running of our business.
 
  _Our Need For Information_  
-The personal information that the Organization may collect on an individual will vary depending on which of the above categories 1-6 apply to an individual. Sometimes an individual´s name, address and phone/fax/e-mail details will be sufficient. Otherwise much more information may be required for our purposes but we will not collect or ask for information that we do not need for one or more of our administration or business functions and related activities.  
+The personal information that the Organization may collect on an individual will vary depending on which of the above categories 1-6 apply to an individual. Sometimes an individual’s name, address and phone/fax/e-mail details will be sufficient. Otherwise much more information may be required for our purposes but we will not collect or ask for information that we do not need for one or more of our administration or business functions and related activities.  
 Sometimes we may need to collect sensitive information on individuals such as health, ethnic background, race or union membership details. We will not collect sensitive information if it is not necessary for one or more of our administration or business functions and related activities. 
 
 _What Do We Do With Personal Information?_  
 This will depend into which category, 1- 6 above, an individual falls.  
-Contestants in category 1 will be given a "Privacy Statement" about what we will do with their personal information, where practical, at the time of any audition or soon after, and if they are successful, on becoming a contestant.  
+Contestants in category 1 will be given a “Privacy Statement” about what we will do with their personal information, where practical, at the time of any audition or soon after, and if they are successful, on becoming a contestant.  
 Individuals in categories 2 and 3 will be sent a letter explaining what we do with their personal information.  
 Personal Information on individuals in category 4 will be dealt with in accordance with the rules and regulations of each competition/promotion, with the NPPs and this Privacy Policy.  
 Personal Information on individuals in categories 5 and 6 will only be used to the extent it is necessary for the completion of the engagement of services, contract and/or any ongoing or renewed arrangement or trading/business relationship with us.
 
  _Who Will Have Access To Personal Information We Have?_  
-The Organization is not in the business of dealing with personal information or data for commercial purposes outside of its normal business activities (for example, for sale to third parties). Contestants and competition/promotion entrants´ personal information may be supplied to the program or competition prize suppliers.  
+The Organization is not in the business of dealing with personal information or data for commercial purposes outside of its normal business activities (for example, for sale to third parties). Contestants and competition/promotion entrants’ personal information may be supplied to the program or competition prize suppliers.  
 The Organization is part of a worldwide organization with associated offices overseas. The ultimate holding company is the Bertelsmann Group. Accounting, audit, management, contestant and program production information may need to be disclosed to our related offices overseas. This will only be done in a manner consistent with the NPPs.
 
  _Storage Of Data_  
