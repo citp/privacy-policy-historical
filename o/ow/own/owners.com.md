@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611183746id_/http%3A//www.owners.com/About/PrivacyStatement.aspx%3Floc%3Dhp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006082250id_/http%3A//www.owners.com/About/PrivacyStatement.aspx%3Floc%3Dhp) for the most accurate reproduction.*
 
-# Owners.com: Privacy Policy and Security Statement
+# Owners.com® - Privacy Policy and Security Statement
 
 Owners.com is dedicated to safeguarding your privacy online. The following explains how your information will be treated as you make use of our products and services. 
 
