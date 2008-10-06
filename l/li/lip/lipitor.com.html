@@ -1,325 +1,263 @@
-<!--The following is the downloaded HTML source of the lipitor.com privacy policy that was archived on 2007-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070708100513id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lipitor.com privacy policy that was archived on 2008-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081006160353id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Pfizer | Privacy Policy</title>
-<!-- start meta description -->
-<meta name="description" content="Pfizer Inc: The world's largest research-based pharmaceutical company. Pfizer Inc discovers, develops, manufactures, and markets leading prescription medicines for humans and animals and many of the world's best-known consumer brands."> 
-<!-- end meta description -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company</title>
+<meta name="description" content="">
 <!-- start meta keywords -->
 <meta name="keywords" content="Pharmaceutical company, pharmaceuticals, healthcare, corporate governance, corporate citizenship, Pfizer philanthropy, pharmaceutical careers, Pfizer investor relations, medicines, medications">
 <!-- end meta keywords -->
+<link rel="stylesheet" type="text/css" href="/include/css/pf_style_med.css">
+<link rel="stylesheet" type="text/css" title="ajax-tabs" href="/include/css/pf_style_tabs.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="small-text" href="/include/css/pf_style_sm.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="medium-text" href="/include/css/pf_style_med.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="large-text" href="/include/css/pf_style_lg.css">
+<script src="/include/js/css_switch.js" type="text/javascript"></script>
 
-<script language="javascript" src="/pfizer/browser.js" type="text/javascript"></script>
-<script language="javascript" src="/pfizer/search.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-<!--
-// mac detect
-if (is_mac) {
-  document.write('<'+'link rel="stylesheet" type="text/css" href="/pfizer/style_mac.css" />');
-}
+<script language="javascript">
 
-else if (is_mac68k) {
-  document.write('<'+'link rel="stylesheet" type="text/css" href="/pfizer/style_mac.css" />');
-}
-
-else if (is_macppc) {
-  document.write('<'+'link rel="stylesheet" type="text/css" href="/pfizer/style_mac.css" />');
-}
-
-else {
-  document.write('<'+'link rel="stylesheet" type="text/css" href="/pfizer/style.css" />');
-}
-// -->
-</script> 
-
-<script language="javascript" type="text/javascript">
-<!--
-
-//THIS jumps the browser to a blank window
-
-function callPageBlank(theName) {
-	
-	if (document.images) {
-	
-		var whereTo;
-
-		whereTo = theName.options[theName.selectedIndex].value;
-
-		if (whereTo == ""){
-			theName.selectedIndex = 0;
-		} else {
-			window.open(whereTo);
+	function checkElementTree(el, strTag) {
+		while ("HTML" != el.tagName) {
+		if (strTag == el.tagName)
+		return el;
+		el = el.parentElement;
 		}
-	
+	return null;
 	}
-	
-}
--->
+	function multiJump() {
+	var el = checkElementTree(event.srcElement, "A");
+		if (null != el) { 
+			if ((null != el.getAttribute("mhref")) && (null != el.getAttribute("mtarget"))) {
+			event.returnValue = false;
+			var mhref = new Array();
+			var mtarget = new Array();
+			mhref = el.getAttribute("mhref").split("; ");
+			mtarget = el.getAttribute("mtarget").split("; ");
+			if (mtarget.length == mhref.length)
+			for (var intLoop = 0; intLoop < mtarget.length;	intLoop++)
+			if (null != parent[mtarget[intLoop]]) parent[mtarget[intLoop]].location.href = 	mhref[intLoop];
+			}
+		}
+	}
 </script>
 
+
+<!--start CMS JS-->
+<script language="javascript" type="text/javascript" src="/include/js/tiny_mce/tiny_mce.js"></script>
 <script language="javascript" type="text/javascript">
-<!--
+	tinyMCE.init({
+		mode : "textareas",
+		theme : "advanced",
+		//plugins : "devkit,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+		plugins : "style,layer,table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+		theme_advanced_buttons1_add_before : "save,newdocument",
+		//theme_advanced_buttons1_add : "fontselect,fontsizeselect",
+		//theme_advanced_buttons2_add : "separator,insertdate,inserttime,preview,separator,forecolor,backcolor",
+		//theme_advanced_buttons2_add_before: "cut,copy,paste,pastetext,pasteword,separator,search,replace,separator",
+		//theme_advanced_buttons3_add_before : "tablecontrols,separator",
+		//theme_advanced_buttons3_add : "emotions,iespell,media,advhr,separator,print,separator,ltr,rtl,separator,fullscreen",
+		//theme_advanced_buttons4 : "insertlayer,moveforward,movebackward,absolute,|,styleprops,|,cite,abbr,acronym,del,ins,attribs,|,visualchars,nonbreaking,template,|,code",
+		theme_advanced_toolbar_location : "top",
+		theme_advanced_toolbar_align : "left",
+		theme_advanced_path_location : "bottom",
+		content_css : "example_full.css",
+	    plugin_insertdate_dateFormat : "%Y-%m-%d",
+	    plugin_insertdate_timeFormat : "%H:%M:%S",
+		extended_valid_elements : "hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]",
+		external_link_list_url : "example_link_list.js",
+		external_image_list_url : "example_image_list.js",
+		flash_external_list_url : "example_flash_list.js",
+		media_external_list_url : "example_media_list.js",
+		template_external_list_url : "example_template_list.js",
+		file_browser_callback : "fileBrowserCallBack",
+		theme_advanced_resize_horizontal : false,
+		theme_advanced_resizing : true,
+		nonbreaking_force_tab : true,
+		apply_source_formatting : true,
+		template_replace_values : {
+			username : "",
+			staffid : ""
+		}
+	});
 
-//this allows dropdown to open in different windows
+	function fileBrowserCallBack(field_name, url, type, win) {
+		// This is where you insert your custom filebrowser logic
+		alert("Example of filebrowser callback: field_name: " + field_name + ", url: " + url + ", type: " + type);
 
-function land(ref, target) {
-lowtarget=target.toLowerCase();
-if (lowtarget=="_self") {window.location=loc;}
-else {if (lowtarget=="_top") {top.location=loc;}
-else {if (lowtarget=="_blank") {window.open(loc);}
-else {if (lowtarget=="_parent") {parent.location=loc;}
-else {parent.frames[target].location=loc;};
-}}}
-}
-
-function jump(menu) {
-ref=menu.sites.options[menu.sites.selectedIndex].value;
-splitc=ref.lastIndexOf("*");
-target="";
-if (splitc!=-1)
-{loc=ref.substring(0,splitc);
-target=ref.substring(splitc+1,1000);}
-else {loc=ref; target="_self";};
-if (ref != "") {land(loc,target);}
-}
-//-->
+		// Insert new URL, this would normaly be done in a popup
+		win.document.forms[0].elements[field_name].value = "someurl.htm";
+	}
 </script>
-<style type="text/css">
-<!--
-.box {
-	border: 1px solid #336699;
-	margin-bottom: 12px;
-	padding: 6px;
-}
+	<script language="javascript">
+		function showCMSTool()
+		{
+			var oldContent = document.getElementById('cmsContent').innerHTML;
+			document.getElementById('cmsContent').style.display="none";
+			document.getElementById("cmsTool").style.display="";
+			document.getElementById("elm1").rows="50";
+			//alert(document.getElementById("htmlSource").innerHTML);
+			//document.getElementById('htmlSource').value = oldContent;
+			tinyMCE.setContent(oldContent);
+		}
+	</script>
+<!-- end cms javscript -->
 
-.nobox {
-	padding: 6px;
-}
-.border {
-	padding: 5px;
-	border-top-width: 15px;
-	border-right-width: 1px;
-	border-bottom-width: 1px;
-	border-left-width: 1px;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #336699;
-	border-right-color: #336699;
-	border-bottom-color: #336699;
-	border-left-color: #336699;
-}
-
--->
-</style>
 </head>
+<body>
+<div id="bkgcontainer">
+<div id="maincontainer">
 
-<body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<div id="headerinterior">
+<a href="/home/"><img src="/img/pfizer.logo.gif" alt="Pfizer Pharmaceutical Company: The World's Largest Pharmaceutical Company" width="82" height="55" border="0" align="left"></a>
 
-<!-- start header -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#1f62a9">
-<tbody><tr>
-<td><a href="#content"><img src="/pfizer/images/1x1.gif" width="1" height="15" border="0" alt="Skip Navigation Links"></a></td>
-</tr>
-</tbody></table>
-<!-- end blue strip table -->
+<script>var id = "global";</script>
+<script language="javascript" src="/include/js/headers.js"></script></div>
 
-<table border="0" cellpadding="0" cellspacing="0" width="95%"> 
-  <tbody><tr> 
-    <td bgcolor="#ffffff" valign="top">
+<div id="nav_menu">
+<ul>
+<li class="nav_home"><a id="home" href="/home/" title="Home">Home</a></li>
+<li class="nav_about"><a id="about" href="/about/" title="About">About</a></li>
+<li class="nav_product"><a id="product" href="/products/" title="Products">Products</a></li>
+<li class="nav_research"><a id="research" href="/research/" title="Research &amp; Development">Research &amp; Development</a></li>
+<li class="nav_responsibility"><a id="responsibility" href="/responsibility/" title="Responsibility">Responsibility</a></li>
+<li class="nav_investors"><a id="investors" href="/investors/" title="Investors">Investors</a></li>
+<li class="nav_news"><a id="news" href="/news/" title="News &amp; Media">News &amp; Media</a></li>
+</ul>
+</div>
+
+
+<div id="breadcrumb_textsize_container_oneoff">
+		<div id="breadcrumbnav_oneoff"><a href="/home/index.jsp">Home</a> &gt; Privacy </div>
+		<div id="text_search_container_oneoff">
+				<div id="textsizetool"><span class="textsize">Text Size</span><span class="textsizesm"><a href="javascript:chooseStyle('small-text', 30)" class="textsizesm">A</a></span><span class="textsizemed"><a href="javascript:chooseStyle('medium-text', 30)" class="textsizemed">A</a></span><span class="textsizelg"><a href="javascript:chooseStyle('large-text', 30)" class="textsizelg">A</a></span></div>
+
+		<script language="javascript">
+function GoogleSearch()
+{
+	var searchString = document.searchIt.search.value;
+	//searchString = searchString.replace('&','%26');
+	if(searchString==""||searchString=="Site Search")
+	{
+			return false;
+	}
+}
+</script>
+<div id="searchformcontainer">
+	<form action="/general/search_results.jsp" name="searchIt" id="search" method="post" style="margin-bottom:0;"> 
+    <input type="hidden" name="site" value="www_pfizer"><!-- THIS IS THE GSA COLLECTION NAME -->
+	<input type="text" id="search" name="search" class="searchinput" value="Site Search" size="15" onfocus="javascript:this.value='';">
+	<input type="image" src="/img/button.go.gif" name="search" onclick="return GoogleSearch();">
+	</form>
+</div>
+		</div>
+<br clear="all"> <!-- fix to stretch container -->
+</div>
+
+
+<div id="contentcontainer_oneoff">
+
+<div id="intcontentleft_oneoff">
 	
-	<!-- start logo & strapline --> 
-      <table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	<tbody><tr>
-	  <td><a href="/pfizer/main.jsp"><img src="/pfizer/images/pfizer_logo.gif" width="82" height="50" border="0" alt="Pfizer Inc." hspace="12" vspace="8"></a></td>        
-	  <td width="450"> <span id="Layer1" class="accessible_tagline">
-          <h2 class="small">Pfizer Pharmaceutical Company:  Working for a healthier world™</h2>
-        </span> <img src="/pfizer/images/tagline.gif" alt="Working for a healthier world™" width="295" height="49"></td>
-	</tr>
-</tbody></table> 
-      <!-- end logo & strapline --> </td> 
-    <td align="right" valign="top">
-	
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td><img src="/pfizer/images/1x1.gif" alt=" " width="1" height="9" border="0"></td>
-	</tr>
-        <tr> 
-          <td align="right"><p class="toplink"><a href="/pfizer/mn_sitemap.jsp" class="toplink">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pfizer/contact/mn_contact.jsp" class="toplink">Contact Us/Questions</a></p></td> 
-        </tr> 
-		<tr>
-		<td>
-<!-- start search box -->
-
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<form action="" name="searchIt" id="search" onsubmit="GoogleSearch(); return false;" method="post"></form> 
-<td><span class="formlabelblue"><label for="search">Search Pfizer.com</label></span></td>
-<td><img src="/pfizer/images/1x1.gif" width="5" border="0" alt=" "></td>
-<td><input type="text" id="search" name="search" size="10"></td>
-<td><img src="/pfizer/images/1x1.gif" width="5" border="0" alt=" "></td>
-<td><a href="#" name="&amp;lid=search"></a><input type="submit" value="go" name="go" class="go" onclick="javascript:_hbLink('search',document.url,'');"></td>
-
-</tr>
-</tbody></table>
-
-<!-- end search box -->
-		</td>
-		</tr>
-      </tbody></table>
-	</td> 
-  </tr> 
-  <tr> 
-    <td colspan="2"><img src="/pfizer/images/1x1.gif" width="740" height="1" border="0" alt=" "></td> 
-  </tr> 
-</tbody></table> 
-<!-- end top banner -->
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr valign="top">
-<td colspan="2" valign="top">
+<!-- start cms content -->
+<div id="cmsContent"><h1>Privacy</h1>
+	<p>Last updated February 2006</p>
 
-	<!-- nested content table -->
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td bgcolor="#afd7eb"><img src="/pfizer/images/1x1.gif" width="1" height="1" border="0" alt=" "></td>
-	</tr>
-	
-	<tr>	
-	<td valign="top" width="100%">
-		
-		<!-- start content1 -->
-		<table border="0" cellpadding="0" cellspacing="10" width="100%">
-		
-		<tbody><tr>
-		<td colspan="2" align="left">
-		<p class="text">Last Updated February 2006</p></td>
-		</tr>		
+    <div><img src="/img/clickseal.gif" style="float:right"></div>
+    <h2>Scope</h2>
+     <p>This notice provides  highlights of the full Pfizer Inc privacy statement and applies to TRUSTe  certified Pfizer Web sites. Visit the TRUSTe Web site to view a <a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101">complete list of Pfizer Web sites with Validated Privacy  Statements</a>.</p> 
+    <p>View the <a href="privacy_policy.jsp">full Pfizer Privacy Statement</a>.</p>
+    
+    <h2>Personal Information</h2>
+    <ul class="bulletlist_nomargin">
+      <li>Generally, you can access and browse our Web sites without disclosing any personally identifiable information.</li>
+      <li>If you request information, products or services from our sites, or ask us to resolve complaints or concerns, we may ask you to provide information such as your name, contact information and other identifying information necessary to fulfill a particular request.</li>
+      <li>We may also collect information a visitor voluntarily provides through responses to questionnaires, surveys, search functions and health assessment tools.</li>
+      <li>Pfizer sites use cookies and other technologies to identify users as they move through our Web sites. Your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent.</li>
+    </ul>
+    <p><a href="privacy_policy.jsp">Additional Information</a></p>
 
-		<tr>
-		<td colspan="2" align="left" class="border">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr><td colspan="2"><strong><p class="nopad">Scope</p></strong></td></tr>
-		<tr><td>
-		<p class="nopad">This notice provides highlights of the full Pfizer, Inc. privacy statement and applies to TRUSTe certified Pfizer web sites. Visit the TRUSTe web site to&nbsp;view a <a href="/pfizer/pop_jump.jsp?urlto=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101&amp;site=http://www.truste.org/&amp;urlname=TRUSTe">complete list of Pfizer web sites with Validated Privacy Statements</a>.</p>
-		<p class="nopad">View the <a href="/pfizer/privacy/mn_privacy_truste_full.jsp">full Pfizer Privacy Statement</a>.</p>
-		</td>
-		<td><a href="/pfizer/pop_jump.jsp?urlto=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101&amp;site=http://www.truste.org/&amp;urlname=TRUSTe"><img src="/pfizer/privacy/images/clickseal.gif" alt="Authorized by TRUSTe - Click to Verify" width="91" height="73" hspace="10" border="0" align="right"></a></td>
-		</tr>
-		</tbody></table>
-		  
-		</td>
-		</tr>
-		
-		<tr>
-		<td class="border" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td nowrap="nowrap"><strong>
-              <p class="nopad">Personal Information</p></strong></td>
-            <td width="10" nowrap="nowrap">&nbsp;</td>
-            <td nowrap="nowrap"><p align="right" class="nopad"><a href="/pfizer/privacy/mn_privacy_truste_full.jsp#one">Additional Information</a></p></td>
-          </tr>
-        </tbody></table>
-		  
-		  <ul class="nopad">
-		    <li>Generally, you can access and browse our web sites without disclosing any personally identifiable information.</li>
-		    <li>If you request information, products or services from our sites, or ask us to resolve complaints or concerns, we may ask you to provide information such as your name, contact information and other identifying information necessary to fulfill a particular request.		      </li>
-		    <li>We may also collect information a visitor voluntarily provides through responses to questionnaires, surveys, search functions and health assessment tools.		      </li>
-		    <li>Pfizer sites use cookies and other technologies to identify users as they move through our Web sites. Your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent. </li>
-		  </ul>
-				</td>
-			
-			<td valign="top" width="300" class="border">
-			
-			<strong><p class="nopad">How to Contact Us</p></strong>
-<p class="nopad">With questions about this privacy statement or about Pfizer's handling of your information please contact our <a href="/pfizer/contact/mail_privacy.jsp">Privacy Officer</a>.</p>
-<p class="nopad">or<br>
-  Pfizer Inc. 
-  <br>
-  Privacy Officer
-  <br>
-  235 E 42 Street
-  <br>
-  Mail Stop 235/26/6
-  <br>
-  New York, NY 10017</p><br>
+    <h2>How to Contact Us</h2>
+      <p>With questions about this privacy statement or about Pfizer's handling of your information  please contact our <a href="/contact/mail_privacy.jsp">Privacy Officer</a>.</p>
+      <p>
+      or<br>
+      Pfizer Inc <br>
+      Privacy Officer <br>
+      235 E 42 Street <br>
+      Mail Stop 235/26/6 <br>
+      New York, NY 10017</p>
+      <p>
+      Pfizer Inc is a TRUSTe  licensee. Contact <a href="/general/jump.jsp?url=http://www.truste.org/consumers/watchdog_complaint.php&amp;display=TRUSTe%20Watchdog%20Dispute%20Resolution%20Process">Watchdog dispute resolution</a> if a privacy issue is not properly addressed by us.</p>
 
-<p class="nopad">Pfizer, Inc. is a TRUSTe licensee.  Contact <a href="/pfizer/pop_jump.jsp?urlto=http://www.truste.org/consumers/watchdog_complaint.php&amp;urlname=TRUSTe%20Watchdog%20Dispute%20Resolution%20Process">Watchdog dispute resolution</a> if a privacy issue is not properly addressed by us.
-</p>
-			</td>
-		
-		</tr>
-		
-		<tr>
-		<td class="border" colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="19" nowrap="nowrap"><p class="nopad"><strong>Uses</strong></p></td>
-            <td width="10" nowrap="nowrap">&nbsp;</td>
-            <td nowrap="nowrap"><p align="right" class="nopad"><a href="/pfizer/privacy/mn_privacy_truste_full.jsp#two">Additional Information</a></p></td>
-          </tr>
-        </tbody></table>
-			<p class="nopad">We use personal information you provide to fulfill your request for information, products or services as per your consent. We may seek your general consent to provide additional information, products or services. We give you notice of how your information will be used at the point of collection.</p>
-			<ul class="nopad">
-			  <li>We may personalize our web sites to provide you with customized interactive experience, and we may target our marketing and healthcare messaging on those sites based on information we have about you.</li>
-			  <li>We do not sell, rent or share your personal information with outside third parties. In order to provide services, we may provide information to other companies who work on our behalf. When we do so, we use our best efforts to assure that they agree in writing to abide by Pfizer privacy policies. </li>
-			</ul>
-		</td>
-		</tr>
-		
-		<tr>
-		<td colspan="2" class="border"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="19" nowrap="nowrap"><p class="nopad"><strong>Your Rights and Choices</strong></p></td>
-            <td width="10" nowrap="nowrap">&nbsp;</td>
-            <td nowrap="nowrap"><p align="right" class="nopad"><a href="/pfizer/privacy/mn_privacy_truste_full.jsp#four">Additional Information</a></p></td>
-          </tr>
-        </tbody></table>
-			<ul class="nopad">
-			  <li>You can unsubscribe from communications you no longer wish to receive. We provide an unsubscribe (opt-out) instructions in our communications.</li>
-			  <li>You can also contact us at <a href="mailto:privacy.officer@pfizer.com">Privacy Officer</a> or postal address above if you want to update your personal information or change your marketing preferences. </li>
-			</ul>
-			
-			</td>
-		</tr>
-				
-		<tr>
-		<td colspan="2" class="border"><strong><p class="nopad">Important Information</p></strong>
-			<ul class="nopad">
-			  <li>We do not knowingly collect personally identifiable information from any person under the age of 13 without parental consent.			    </li>
-			  <li>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and prevent unauthorized access, maintain data security, and correctly use the information we collect online. </li>
-			</ul>		</td>
-		</tr>
-		<tr><td><p class="text"><a href="/pfizer/main.jsp">Back to Pfizer.com</a></p></td></tr>
-		
-		</tbody></table>
-		<!-- end content1 -->
-	
-	</td>
-	</tr>
+    <h2>Uses</h2>
+     <p>We use personal information you provide to fulfill your request for  information, products or services as per your consent. We may seek your general  consent to provide additional information, products or services. We give you  notice of how your information will be used at the point of collection.</p>
+    <ul class="bulletlist_nomargin">
+      <li>We may personalize our Web sites to provide you with a customized interactive experience, and we may target our marketing and health care messaging on those sites based on information we have about you. </li>
+      <li>We do not sell, rent or share your personal information with outside third parties. In order to provide services, we may provide information to other companies who work on our behalf. When we do so, we use our best efforts to assure that they agree in writing to abide by Pfizer privacy policies.</li>
+    </ul>
+    <p><a href="privacy_policy.jsp#one">Additional Information</a></p>
 
-	<tr>
-	<td valign="bottom">
+    <h2>Your Rights and Choices</h2>
+    <ul class="bulletlist_nomargin">
+      <li>You can unsubscribe from communications you no longer wish to receive. We provide unsubscribe (opt-out) instructions in our communications.</li>
+      <li>You can also contact us at <a href="mailto:privacy.officer@pfizer.com">Privacy Officer</a> or the postal address above if you want to update your personal information or change your marketing preferences. </li>
+    </ul>
+    <p><a href="privacy_policy.jsp#four">Additional Information</a></p>
 
-		<!-- start blue strip -->
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		<td bgcolor="#afd7eb"><img src="/pfizer/images/1x1.gif" width="150" height="1" border="0" alt=" "></td>
-		</tr>
-		</tbody></table>
-		<!-- end blue strip -->		
-		<!-- start hitbox -->
-		<script language="javascript" type="text/javascript">
-var acct= "DM5407252GFR72EN3";
-</script> 
-		<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
+    <h2>Important Information</h2>
+    <ul class="bulletlist_nomargin">
+      <li>We do not knowingly collect personally identifiable information from any person under the age of 13 without parental consent.</li>
+      <li>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and prevent unauthorized access, maintain data security, and correctly use the information we collect online.</li>
+    </ul>
+</div>
+<!-- end cms content -->
+
+</div>
+
+</div>
+
+<br clear="all">
+<!-- NS6 and IE5 fix to stretch container -->
+
+<!-- START FOOTER INCLUDE -->
+<div id="footer">
+	<p>
+        <a href="/home/"><img src="/img/logo.footer.gif" alt="Pfizer, the World's Largest Pharmaceutical Company" width="45" height="23" align="left" border="0"></a>
+        Copyright © 2002-2008 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States.<br>
+        <a href="/b2b/index.jsp">Business to Business</a>
+        <a href="/careers/">Careers</a>
+        <a href="/contact/index.jsp">Contact Us</a>
+        <a href="/products/hcp/healthcare.jsp">Health Care Professionals</a>
+        <a href="/general/global_sites.jsp">Pfizer Global Sites</a>
+        <a href="/general/privacy.jsp">Privacy Policy</a>
+        <a href="/general/sitemap.jsp">Sitemap</a>
+        <a href="/general/terms.jsp">Terms of Use</a>
+	</p>
+
+	<p>The product information provided in this site is intended only for residents of the United States.<br>
+		The products discussed herein may have different product labeling in different countries.<img src="/img/general/logo.trust-e.gif" alt="Trust-e" align="right"></p>
+
+	<p>Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
+    
+</div>
+<!-- END FOOTER INCLUDE -->
+
+
+</div>
+<!--END MAINCONTAINER--> </div><!--END BKGCONTAINER-->
+<div id="endbkgcontainer"></div>
+<!-- start hitbox -->
+<script language="javascript" type="text/javascript">
+var acct= "DM5407252GFR";
+</script>
+<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
 function hbxStrip(a) {
              a = a.split("'").join("");
-             a = a.split("ı").join("");
+             a = a.split("ý").join("");
              a = a.split("&").join("");
              a = a.split("|").join("");
              a = a.split("#").join("");
@@ -384,7 +322,7 @@ hbx.cpd="";//CAMPAIGN DOMAIN
 
 //CUSTOM VARIABLES
 hbx.ci="";//CUSTOMER ID
-hbx.hc1=top.location.href;
+hbx.hc1=hbxStrip(top.location.href);
 hbx.hc2="";//CUSTOM 2
 hbx.hc3="";//CUSTOM 3
 hbx.hc4="";//CUSTOM 4
@@ -395,58 +333,13 @@ hbx.pec="";//ERROR CODES
 //INSERT CUSTOM EVENTS
 
 
-//END EDITABLE SECTION 
+//END EDITABLE SECTION
 
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.pfizer.com/pfizer/include/hbx.js"></script>
+</script><script language="javascript1.1" src="/include/js/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
- 
+
 <!-- end hitbox -->
-		<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-		<td><img src="/pfizer/images/1x1.gif" width="12" height="1" border="0" alt=" "></td>
-		<td>
-		<!-- start copyright -->
-				<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-		<td colspan="2"><img src="/pfizer/images/1x1.gif" width="1" height="5" border="0" alt=""></td>
-		</tr>
-		<tr>
-		<td><p class="small">Copyright © 2002-2007 Pfizer Inc. All rights 
-                    reserved | <a class="textlink" href="/pfizer/mn_terms.jsp" target="_parent">Terms of Use</a></p>
-		<p class="small">The product information provided in this site is intended only for residents of the United States. 
-		The products discussed herein may have different product labeling in different countries.</p>
-		<p class="small">Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
-		<p><a href="/pfizer/privacy/mn_privacy_truste.jsp"><img src="/pfizer/privacy/images/finalmark.gif" alt="Privacy Statement" width="116" height="31" border="0"></a></p></td>
-		<td><img src="/pfizer/images/1x1.gif" width="12" height="1" border="0" alt=""></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img src="/pfizer/images/1x1.gif" width="1" height="8" border="0" alt=""></td>
-		</tr>
-		</tbody></table> 
-		<!-- end copyright -->
-		</td>
-		<td><img src="/pfizer/images/1x1.gif" width="12" height="1" border="0" alt=" "></td>
-		</tr>
-		</tbody></table>
-</td>
-	</tr>
-
-	<tr>
-	<td bgcolor="#afd7eb"><img src="/pfizer/images/1x1.gif" width="1" height="1" border="0" alt=" "></td>
-	</tr>
-	
-	<tr>
-	<td colspan="2"><img src="/pfizer/images/1x1.gif" width="1" height="12" border="0" alt=" "></td>
-	</tr>
-	</tbody></table>
-	<!-- end nested content table -->
-
-</td>
-</tr>
-</tbody></table>
-	
-
 
 </body></html>
