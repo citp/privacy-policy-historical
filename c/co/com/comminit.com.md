@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093900id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006195750id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Communication Initiative Network
+
+  
+| 
+
+Average Rating: no ratings submitted
 
 Protecting your privacy is important to us. We strive to keep your personal information confidential. By ensuring that you are aware of and understand our Privacy Policy, we can provide you, a member of our network, with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
@@ -64,3 +69,19 @@ Our website contains links to other sites. We do not share your personal informa
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
 
 Our Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
+
+| 
+
+## Help Seed The CI Network
+
+[](https://www.comminit.com/en/ci_associates/)
+
+## Login / Regisiter
+
+Subscribe to The Drum Beat, Contribute to Forums, Get Poll Results etc 
+
+New to CI? [» Start here](https://web.archive.org/en/user/register/36)
+
+## Development Classifieds
+
+[](https://web.archive.org/en/classifieds/)
