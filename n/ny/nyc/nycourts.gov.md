@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082120id_/http%3A//www.nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006184901id_/http%3A//nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
 
 # Internet Web Site Privacy Policy
 
@@ -133,7 +133,7 @@ back to top
 **CONTACT INFORMATION**  
 For questions regarding this Internet privacy policy, please contact:
 
-By E-mail: [Webmaster@courts.state.ny.us](mailto:Webmaster@courts.state.ny.us)
+By E-mail: [pyow@nycourts.gov](mailto:pyow@nycourts.gov)
 
 By Regular Mail:   
 New York State Unified Court System  
