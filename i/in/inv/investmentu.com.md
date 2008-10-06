@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518111956id_/http%3A//www.investmentu.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006221027id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.*
 
 # The Investment U Privacy Policy
 
