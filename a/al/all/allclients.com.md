@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allclients.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529071659id_/http%3A//www.allclients.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allclients.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006111304id_/http%3A//allclients.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
