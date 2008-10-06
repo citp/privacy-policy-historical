@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the xoriant.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509140137id_/http%3A//www.xoriant.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xoriant.com privacy policy that was archived on 2008-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081006134859id_/http%3A//www.xoriant.com/privacy_policy) for the most accurate reproduction.-->
 
-<html><head><title>Xoriant - Privacy</title>
+<html><head><title>Privacy&nbsp;-&nbsp;Xoriant</title>
 <meta name="title" content="Privacy">
 <meta name="author" content="">
 <meta name="description" content="Xoriant">
@@ -21,6 +21,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--<meta name="description" content="Outsourced Software Product Development & software product engineering services are professional services offered by Xoriant. Besides outsourced product development we deliver software testing, software quality assurance, migration, porting, product ideation realization and engineering sustaining services.">
+<meta name="googlebot" content="noodp">  -->
 
 
 <link href="http://www.xoriant.com/templates/xoriant/css/template_css.css" rel="stylesheet" type="text/css">
@@ -109,7 +111,6 @@ var tmenu86 = ms.addMenu(document.getElementById("menu86"));
 tmenu86.addItem("Overview (Why Join Us)", "http://www.xoriant.com/overview_why_join_us/", 0, 0);
 tmenu86.addItem("Opportunities", "http://www.xoriant.com/opportunities/", 0, 0);
 var tmenu87 = ms.addMenu(document.getElementById("menu87"));
-tmenu87.addItem("Overview", "http://www.xoriant.com/company_overview/", 0, 0);
 tmenu87.addItem("Management", "http://www.xoriant.com/management/", 0, 0);
 tmenu87.addItem("Locations", "http://www.xoriant.com/locations/", 0, 0);
 tmenu87.addItem("Contact Us", "http://www.xoriant.com/contact_us/", 0, 0);
@@ -165,7 +166,7 @@ tmenu87.addItem("Contact Us", "http://www.xoriant.com/contact_us/", 0, 0);
 
 <tbody><tr><td>
 
-<img src="images/topimage4.jpg"></td>
+<img src="images/topimage2.jpg"></td>
 
 </tr>
 
@@ -227,8 +228,103 @@ Xoriant may provide links to Internet sites maintained by others. Xoriant is  no
 					  </td>
 
                       
-                      <td valign="top">
+                      <td valign="top" align="left" style="font-family:Arial, Helvetica, sans-serif;">
+<div style="border-bottom:#000000 1px solid;"><span class="style1"><strong>CONTACT US:</strong></span></div>
+ <span class="style1">Phone: <strong>408-743-4477 (Sales) </strong><br><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;408-743-4400 (General) </strong><br>
 
+Email: <strong><u><a href="mailto:sales@xoriant.com">sales@xoriant.com</a></u></strong></span>
+<div id="craftysyntax" align="left">
+<script type="text/javascript" src="chat/livehelp_js.php?eo=1&amp;relative=Y&amp;department=1&amp;serversession=1&amp;pingtimes=15"></script>
+</div>
+<div style="border-bottom:#ccc 2px solid; padding-bottom:10px;"></div>
+<span style="font-family:Arial, Helvetica, sans-serif; line-height:15px;"><br>
+Please leave your number and <br>
+we will call you back<br>
+<script language="Javascript">
+/**
+ */
+
+// Declaring required variables
+var digits = "0123456789";
+// non-digit characters which are allowed in phone numbers
+var phoneNumberDelimiters = "()- ";
+// characters which are allowed in international phone numbers
+// (a leading + is OK)
+var validWorldPhoneChars = phoneNumberDelimiters + "+";
+// Minimum no of digits in an international phone no.
+var minDigitsInIPhoneNumber = 10;
+
+function isInteger(s)
+{   var i;
+    for (i = 0; i < s.length; i++)
+    {   
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+function trim(s)
+{   var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not a whitespace, append to returnString.
+    for (i = 0; i < s.length; i++)
+    {   
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (c != " ") returnString += c;
+    }
+    return returnString;
+}
+function stripCharsInBag(s, bag)
+{   var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++)
+    {   
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function checkInternationalPhone(strPhone){
+var bracket=3
+strPhone=trim(strPhone)
+if(strPhone.indexOf("+")>1) return false
+if(strPhone.indexOf("-")!=-1)bracket=bracket+1
+if(strPhone.indexOf("(")!=-1 && strPhone.indexOf("(")>bracket)return false
+var brchr=strPhone.indexOf("(")
+if(strPhone.indexOf("(")!=-1 && strPhone.charAt(brchr+2)!=")")return false
+if(strPhone.indexOf("(")==-1 && strPhone.indexOf(")")!=-1)return false
+s=stripCharsInBag(strPhone,validWorldPhoneChars);
+return (isInteger(s) && s.length >= minDigitsInIPhoneNumber);
+}
+
+function ValidateForm(){
+	var Phone=document.phone_form.phone
+	
+	if ((Phone.value==null)||(Phone.value=="")){
+		alert("Please Enter your Phone Number")
+		Phone.focus()
+		return false
+	}
+	if (checkInternationalPhone(Phone.value)==false){
+		alert("Please Enter a Valid Phone Number")
+		Phone.value=""
+		Phone.focus()
+		return false
+	}
+	return true
+ }
+</script>
+<form action="index.php" method="post" onsubmit="return ValidateForm();" name="phone_form">
+<input name="phone" type="text" size="15">
+<input type="submit" value="Go" class="button"><input type="hidden" name="phone_contact_action" value="yes"><input type="hidden" name="return_url" value="http://www.xoriant.com/index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid="></form></span><div style="border-bottom:#ccc 2px solid; padding-bottom:10px;"></div>
                                 
 
 			  <table border="0" cellpadding="0" cellspacing="0" width="0" style="padding-left:5px;" class="casestud">
@@ -242,7 +338,14 @@ Xoriant may provide links to Internet sites maintained by others. Xoriant is  no
 		<table class="contentpaneopen">
 				<tbody><tr>
 			<td valign="top" colspan="2">
-				<div id="case" style="padding-top: 45px"><img src="images/casestudies.gif" alt=""> <p><a href="?file=papers/Xoriant%20WP%20Looking%20Beyond%20Cost%20Savings%20in%20PEO.pdf" target="_blank">Looking Beyond Cost Savings in PEO</a></p> <p><a href="?file=papers/Xoriant%20Web%20Analytics%20CS.pdf" target="_blank">Web Analytics</a></p> <p><a href="?file=papers/Xoriant%20WP%20Secrets%20of%20a%20Headache-free%20PEO.pdf" target="_blank">Secrets of a Headache-free PEO</a></p> <p><a href="?file=papers/Xoriant%20WP%20Avoiding%20Cultural%20Misunderstandings.pdf" target="_blank">Avoiding Cultural Misunderstandings</a></p> <p><a href="?file=papers/Xoriant%20Wireless%20Gateway%20Product%20CS.pdf" target="_blank">Wireless Gateway Product</a></p> <p><a href="?file=papers/Xoriant%20WP%20The%20Future%20of%20PEO.pdf" target="_blank">The Future of PEO</a></p> </div> <div id="testimonials">     <img src="images/testimonials.gif" alt="">          <p>“Xoriant has been associated with our company for the last 4 years in design, development and implementation of the Xtreme Service Activity Manager (XSAM) product, an add-on to our wireless gateway product which is deployed across telephone carriers across the world. My experience with Xoriant is that they have a team that is technically very competent especially in the Java/J2EE area and also professional in its development approach.” - <em>Ulrich Klein, Director of Engg, Wireless Gateway Software Company.</em></p>      <p>“Our rapid prototyping and subsequent build-out were ably supported by Xoriant's India team. Hence we could explore numerous avenues in our highly dynamic and quickly responsive business model with their support. We consider Xoriant as an integral part of our engineering team.” - <em>Shankar Srinivasan, VP of Products, Web-based Healthcare Comparison Shopping Company</em></p>     <p>“Xoriant demonstrated a very flexible and responsive approach to help us with our product development needs. Xoriant was able to put together a good team; consistently track and monitor the progress; and make changes as necessary to make sure that we were getting the required productivity out of the team. Xoriant also used creative business models to mitigate attrition challenges in India.” - <em>Chetan Vora, Vice President of Engg, Large Enterprise Software Co.</em></p> </div> 			</td>
+				<div id="case" style="padding-top: 10px">
+  <img src="images/casestudies.gif" alt="">
+<p><a href="?file=papers/Enabling Avatars to be always available.pdf" target="_blank">Enabling Avatars to be always available</a> </p>
+<p><a href="?file=papers/Xoriant Mobile Content XSAM Casestudy.pdf" target="_blank">Xoriant Mobile Content XSAM Casestudy</a> </p>
+  <p> <a href="?file=papers/Xoriant Online Photosharing Customer Casestudy.pdf" onclick="javascript: pageTracker._trackPageview('/downloads/Xoriant Online Photosharing Customer Casestudy '); " target="_blank">Xoriant Online Photosharing Customer Casestudy</a>   </p>
+  <p><a href="?file=papers/Xoriant Ondemand Storage Casestudy.pdf" target="_blank">Xoriant Ondemand Storage Casestudy</a></p>
+    <!--<p><a href="?file=papers/Xoriant%20WP%20Secrets%20in%20Choosing%20a%20Reliable%20Vendor.pdf" target="_blank">Secrets in Choosing a Reliable Vendor</a></p> <p><a href="?file=papers/Xoriant%20WP%20Six%20Important%20Skills%20Needed%20in%20PEO.pdf" target="_blank">Six Important Skills Needed in PEO</a></p> <p><a href="?file=papers/Xoriant%20WP%20The%20Myths%20and%20Realities%20of%20Product%20Development%20And%20Outsourcing.pdf" target="_blank">The Myths and Realities of Product Development And Outsourcing</a></p> <p><a href="?file=papers/Xoriant%20WP%20What%20is%20outsourcable%20and%20what%20is%20not.pdf" target="_blank">What is outsourcable and what is not</a></p> <p><a href="?file=papers/Xoriant%20WP%20Tips%20for%20Managing%20Software%20Development.pdf" target="_blank">Tips for Managing Software Development</a></p> --> 
+</div> <div id="testimonials">     <img src="images/testimonials.gif" alt="">          <p>“Xoriant has been associated with our company for the last 4 years in design, development and implementation of the Xtreme Service Activity Manager (XSAM) product, an add-on to our wireless gateway product which is deployed across telephone carriers across the world. My experience with Xoriant is that they have a team that is technically very competent especially in the Java/J2EE area and also professional in its development approach.” - <em>Ulrich Klein, Director of Engg, Wireless Gateway Software Company.</em></p>      <p>“Our rapid prototyping and subsequent build-out were ably supported by Xoriant's India team. Hence we could explore numerous avenues in our highly dynamic and quickly responsive business model with their support. We consider Xoriant as an integral part of our engineering team.” - <em>Shankar Srinivasan, VP of Products, Web-based Healthcare Comparison Shopping Company</em></p>     <p>“Xoriant demonstrated a very flexible and responsive approach to help us with our product development needs. Xoriant was able to put together a good team; consistently track and monitor the progress; and make changes as necessary to make sure that we were getting the required productivity out of the team. Xoriant also used creative business models to mitigate attrition challenges in India.” - <em>Chetan Vora, Vice President of Engg, Large Enterprise Software Co.</em></p> </div> 			</td>
 		</tr>
 				</tbody></table>
 
@@ -267,17 +370,16 @@ Xoriant may provide links to Internet sites maintained by others. Xoriant is  no
 
 		
 
-<table border="0" cellpadding="0" cellspacing="0" width="350" align="left" class="fotter">
+<table border="0" cellpadding="0" cellspacing="0" align="left" class="fotter">
 
 	<tbody><tr>
 
-	<td width="134">© Xoriant Corporation</td>
-
-	<td width="40"><a href="contact_us/">Contact</a></td>
-
-	<td width="29"><a href="legal/">Legal</a></td>
-
-	<td width="90"><a href="privacy_policy/">Privacy</a></td>
+	<td>© Xoriant Corporation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;<a href="contact_us/">Contact</a>&nbsp;</td>
+	<td>&nbsp;<a href="legal/">Legal</a>&nbsp;</td>
+	<td>&nbsp;<a href="privacy_policy/">Privacy</a>&nbsp;</td>
+	<td>&nbsp;<a href="site_map/">Sitemap</a>&nbsp;</td>
+	<td>&nbsp;<a href="links/">Links</a>&nbsp;</td>
 
 	</tr>
 
