@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509100410id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007055025id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
 
 # UpMyStreet - Privacy policy
 
@@ -35,9 +35,9 @@ When you register with UpMyStreet, you will be able to log in and access house p
 
 You will also receive advice for your property, up-to-date information about your local and home services, and marketing material from UpMyStreet and our parent company uSwitch. You can unsubscribe from these email communications at any time.
 
-[About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp)
+[About uSwitch](https://web.archive.org/redirect.php?loc=http://www.uswitch.com/Popups/about_uswitch.asp)
 
-[uSwitch's privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref=)
+[uSwitch's privacy and cookie policy](https://web.archive.org/redirect.php?loc=http://www.uswitch.com/Popups/privacy_policy.asp?ref=)
 
 You can opt-out of receiving the uSwitch newsletter by unsubscribing via the newsletter or by contacting help@uswitch.com.
 
@@ -51,7 +51,7 @@ Back to top
 
 #### Access to your personal information
 
-You have the right to request a copy of the personal information UpMyStreet holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet.com Limited, 10th floor, Portland House, Bressenden Place, London SW1E 5BH.
+You have the right to request a copy of the personal information UpMyStreet holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet.com Limited, 111 Buckingham Palace Road, London, SW1W 0SR.
 
 Back to top
 
@@ -67,7 +67,7 @@ If you have opted to receive UpMyStreet and/or uSwitch communications, we will u
 
 If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
-We will respect your email privacy. We will, however, mail you occasionally with information about important changes to our service and a limited amount of marketing material.
+We will respect your email privacy. We will, however, mail you occasionally with information about important changes to our service and a limited amount of marketing material which may promote some of our partners' services.
 
 We monitor customer traffic patterns and site usage in order to help us develop the design and layout of the website.
 
@@ -89,9 +89,9 @@ Any information that is supplied by cookies can help us to provide you with a be
 
 Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visits to our site on our behalf using cookies and code which is contained in the site. Both the cookies and the code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. UpMyStreet uses this type of information to help it improve services to its users.
 
-To disable the code contained in the site, you will need to send requests directly to <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
+To disable the code contained in the site, you will need to send requests directly to [http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main](https://web.archive.org/redirect.php?loc=http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main).
 
-Further information regarding Sage Metrics privacy statement can be found at <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
+Further information regarding Sage Metrics privacy statement can be found at [http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main](https://web.archive.org/redirect.php?loc=http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main).
 
 If your email address and password are correct, but you still can't log in, you may need to set your Internet Browser to accept cookies.
 
