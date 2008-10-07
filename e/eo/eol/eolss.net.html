@@ -1,18 +1,12 @@
-<!--The following is the downloaded HTML source of the eolss.net privacy policy that was archived on 2008-02-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080229143641id_/http%3A//www.eolss.net/eolss_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eolss.net privacy policy that was archived on 2008-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081007044318id_/http%3A//www.eolss.net/Eolss-Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
-<meta name="title" content="Encyclopedia of Life Support Systems - Privacy Policy">
-
-<meta name="keywords" content="EOLSS,encyclopedia of life support system,privacy policy,Storage of Information,Links to Other Sites,Use of Information,Privacy Policy Inquiries,personal information ,cookie,third parties,systems administration,troubleshooting purposes,navigation behavior,registered visitor">
-
-<meta name="description" content="Eolss Publishers Co Ltd recognizes the importance of protecting the information it collects in the operation of EOLSS-Online and will take all reasonable steps to maintain the security, integrity and privacy of this information.">
-
-<title>Encyclopedia of Life Support Systems - Privacy Policy</title>
-
-		
-<script language="javascript">
+		<title>Encyclopedia of Life Support Systems - Privacy Policy</title>
+		<meta name="keywords" content="PRIVACY,POLICY,Statement,IDENTIFIABLE,cookies,revisits,visitors,navigation,behavior,Links,Information,administration,troubleshooting,Inquiries">
+		<meta name="description" content="Eolss Publishers Co Ltd recognizes the importance of protecting the information it collects in the operation of EOLSS-Online and will take all reasonable steps to maintain the security, integrity and privacy of this information.">
+		<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+	<script language="javascript">
 		<!--
 	function openwindows()
 		{
@@ -32,195 +26,7 @@ if (document.all || document.layers)
    }
    }
 		//-->
-	</script>
-
-
-
-
-<script language="JavaScript"><!--
-
-
-function Banner(href, src, text) {
-  this.href = href;
-  this.src = src;
-  this.text = text;
-}
-
-function setBanner(href, src, text) {
-  myBanner[bannerItems++] = new Banner(href, src, text);
-}
-
-var random = lastrandom = -1;
-
-function rndInteger(n) {
-  return Math.floor(Math.random() * n);
-}
-
-function bannerReplace() {
-  while (random == lastrandom)
-    random = rndInteger(bannerItems);
-
-  document.images['banner'].src   = myBanner[random].src;
-  document.links[bannerLink].href = myBanner[random].href;
-  bannerStatus = myBanner[random].text;
-
-  setTimeout('bannerReplace()',2000);
-
-  lastrandom = random;
-}
-
-var bannerLink = -1;
-var bannerStatus = 'Order now at Special discount Prices';
-
-function startBanners() {
-  for (var i=0; i<document.links.length; i++) {
-    if (document.links[i].href == 'javascript:bannerWait()') {
-      bannerLink = i;
-      break;
-    }
-  }
-
-  if (document.images && bannerLink != -1)
-    bannerReplace();
-}
-
-function bannerWait() {
-  alert('Please wait');
-}
-
-var bannerItems = 0;
-var myBanner = new Array();
-
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner1.gif','EOLSS Subscription SPECIAL OFFER');
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner2.gif','EOLSS Subscription SPECIAL OFFER');
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner3.gif','EOLSS Subscription SPECIAL OFFER');
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner4.gif','EOLSS Subscription SPECIAL OFFER');
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner5.gif','EOLSS Subscription SPECIAL OFFER');
-setBanner('http://www.eolss.net/eolss_subindv.aspx','banner6.gif','EOLSS Subscription SPECIAL OFFER');
-
-
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=450');
-}
-
-//-->
-
-</script>
-<script language="JavaScript"><!-- hide --
-
-
-
-/* Resource Clock
-
-Counts the Earth's human population and acres of productive land based on information from the United Nations.
-
-
-
-Original script written by Kevin McCann, IDRC, March 1996.
-
-Revised and updated by John Stevenson, jhs@well.com.
-
-
-
-This script may be used, but please retain proper credit. Also, be aware
-
-that this script depends on data that is non-static - the starting land
-
-and population numbers, as well as their rates of increase/decrease are
-
-recalculated yearly. Check this site semi-regularly for the latest
-
-numbers.
-
-
-
-*/
-
-function counter()
-{
-
-    startpop 	= 	5946422755;
-
- //   startland 	=  	8596978646;
-
-    poprate 	= 	2.4452;
-
-//    landrate 	= 	0.13035;
-
-
-
-    today = new Date();
-
-    startdatepop = new Date("February 1, 1999");
-
-//    startdateland = new Date("January 1, 1999");
-
-    offset = today.getTimezoneOffset() * 60 * 1000;
-
-
-
-    diffpop = (( today.getTime() + offset ) - startdatepop.getTime() ) / 1000;
-
-//    diffland = (( today.getTime() + offset ) - startdateland.getTime() ) / 1000;
-
-
-
-    var newpop = Math.ceil(startpop + (diffpop * poprate));
-
-    newpop = "" + newpop;
-
-
-
-//    var newland = Math.ceil(startland - (diffland * landrate));
-
-//    newland = "" + newland;
-
-
-
-    a1 = newpop.substring(0,1);
-
-    a2 = newpop.substring(1,4);
-
-    a3 = newpop.substring(4,7);
-
-    a4 = newpop.substring(7,10);
-
-
-
-    formpop = a1 + "," + a2 + "," + a3 + "," + a4; 
-
-
-
-//    b1 = newland.substring(0,1) ;
-
-//    b2 = newland.substring(1,4);
-
-//    b3 = newland.substring(4,7);
-
-//    b4 = newland.substring(7,10);
-
-
-
-//    formland = b1 + "," + b2 + "," + b3 + "," + b4;
-
-
-
-    document.time.pop.value = formpop;
-
-//    document.time.land.value = formland;
-
-
-
-    setTimeout('counter()',200);
-
-}
-
-// -- stop hiding -->
-
-
-</script>
-<link href="clock.css" type="text/css" rel="stylesheet">
-<style>
+	</script><style>
 
 BODY {  
 	scrollbar-base-color: #21AEEF;
@@ -289,31 +95,27 @@ Div.MainLink
 	FONTWEIGHT: bold;
 }
 </style></head>
+		
 
 
 
 
 
-
-
-<body topmargin="0" leftmargin="0" onload="startBanners();counter();" background="postert.jpg">
+<body topmargin="0" leftmargin="0" background="postert.jpg">
 		<!-- Start Toolbar-->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border-collapse: collapse" bordercolor="#111111" height="49">
 <tbody><tr>
 <td valign="top" height="49" width="200" colspan="2">
-<img border="0" src="eolss_logo2.jpg" width="200" height="40"><font color="#ffffff" face="Verdana, Arial" size="1"><b>&nbsp;<font color="#ffffff">|</font>
+<img border="0" src="../eolss_logo2.jpg" width="200" height="40"><font color="#ffffff" face="Verdana, Arial" size="1"><b>&nbsp;<font color="#ffffff">|</font>
 &nbsp;&nbsp; </b></font>
 </td>
 <td>
-<form name="time">
-<b><font size="2" color="brown" face="verdana">WORLD POPULATION</font></b><br><input class="clock" size="16" value="2.4452 increase per second" name="pop"> 
-</form>
+
 </td>
 <td>
 </td><td>
-
-<a href="http://www.eolss.net/eolss_subindv.aspx" name="banner" onmouseover="window.status=bannerStatus;return true" onmouseout="window.status='';return true">
-<img src="banner5.gif" name="banner" border="0" width="350" height="40" alt="Order now at special Educational Prices"></a>
+<center>
+<a href="http://www.eolss.net/ebooks"><img src="../images/ebooks3.gif" name="banner" border="0" width="468" height="60" alt="More e-books will be available soon"></a></center>
 </td>
 </tr>
 </tbody></table>
@@ -326,7 +128,11 @@ Div.MainLink
 <td width="70" class="navmenu"><a href="http://www.eolss.net"><div class="Toolbar1">Home</div></a></td>
 <td width="70" class="navmenu"><a href="http://greenplanet.eolss.net/EolssLogn/LoginForm.aspx"><div class="Toolbar1">Login</div></a></td>		
 
-<td nowrap="" class="navmenu"><a href="http://greenplanet.eolss.net/EolssLogn/browsedt_form.aspx"><div class="Toolbar2"><font color="#FFFF00"><b>Search(for non-subscribers)</b></font></div></a></td>		<td width="70" class="navmenu"><a href="http://www.eolss.net/eolss_demo.aspx"><div class="Toolbar1">Demo</div></a></td>
+<td nowrap="" class="navmenu"><a href="http://greenplanet.eolss.net/EolssLogn/browsedt_form.aspx"><div class="Toolbar2"><font color="#FFFF00"><b>Search(for non-subscribers)</b></font></div></a></td>		
+
+<td width="70" class="navmenu"><a href="http://www.eolss.net/eolss_sitemap.aspx"><div class="Toolbar1">Sitemap</div></a></td>
+
+<td width="70" class="navmenu"><a href="http://www.eolss.net/eolss-Demo.aspx"><div class="Toolbar1">Demo</div></a></td>
 
 <td width="70" class="navmenu"><a href="http://www.eolss.net/GlobalUsage.aspx"><div class="Toolbar1">Visitors</div></a></td>
 <td width="70" class="navmenu"><a href="http://www.eolss.net/EolssRegister/Freecat.aspx"><div class="Toolbar1">Free Trial</div></a></td>
@@ -334,7 +140,7 @@ Div.MainLink
 <td width="80" class="navmenu"><a href="http://www.eolss.net/eolss_feedback.aspx"><div class="Toolbar1">Feedback</div></a></td>
 
 			
-<td width="70" class="navmenu"><a href="http://www.eolss.net/eolss_contact.aspx"><div class="Toolbar1">Contact Us</div></a></td>
+<td width="70" class="navmenu"><a href="http://www.eolss.net/Eolss-Contact-Address.aspx"><div class="Toolbar1">Contact Us</div></a></td>
 
 	
  </tr>
@@ -344,7 +150,7 @@ Div.MainLink
 <!-- Start of the index-->
 
 <center>
-<meta http-equiv="Content-Type" content="text/html; charset=unicode"><meta url="http://www.eolss.net/eolss_notion.htm"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="top" width="200" background="postert.jpg">
 
@@ -354,85 +160,86 @@ Div.MainLink
 <td valign="top">
 <div class="H1TOC">
 
-<dt><img src="bullet_r.gif">&nbsp;Login
+<dt><img src="../bullet_r.gif">&nbsp;Login
 </dt></div><div class="TOC">
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/LoginForm.aspx" target="_self"><font face="Verdana" color="#008000">Individual Members Login</font></a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/InsLogin.aspx" target="_self">Access for  Institutions</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_demo.aspx" target="_self"><font face="Verdana" color="#008000">EOLSS Demo</font></a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Members Login">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/LoginForm.aspx" target="_self"><font face="Verdana" color="#008000">Individual Members Login</font></a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="Access for Institutions">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/InsLogin.aspx" target="_self">Access for  Institutions</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Demo">&nbsp;<a href="http://www.eolss.net/Eolss-Demo.aspx" target="_self"><font face="Verdana" color="#008000">EOLSS Demo</font></a>
 </dt></div><div class="H1TOC">
 
 <hr size="1" noshade="">
-<dt><img src="bullet_r.gif">&nbsp;Free Registration
+<dt><img src="../bullet_r.gif">&nbsp;Free Registration
 
 </dt></div><div class="TOC">
 
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/EolssRegister/Freecat.aspx" target="_self">Free Trial</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_edauthor.aspx" target="_self">Editors/Authors</a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Free Trial">&nbsp;<a href="http://www.eolss.net/EolssRegister/Freecat.aspx" target="_self">Free Trial</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Editors/Authors">&nbsp;<a href="http://www.eolss.net/eolss_edauthor.aspx" target="_self">Editors/Authors</a>
 </dt></div><div class="H1TOC">
 <hr size="1" noshade="">
-<dt><img src="bullet_r.gif">&nbsp;Subscription Information
+<dt><img src="../bullet_r.gif">&nbsp;Subscription Information
 </dt></div><div class="TOC">
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_signup.aspx">Subscription Information</a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Subscription Information">&nbsp;<a href="http://www.eolss.net/eolss_signup.aspx">Subscription Information</a>
 </dt></div><div class="H1TOC">
 <hr size="1" noshade="">
-<dt><img src="bullet_r.gif">&nbsp;About EOLSS
+<dt><img src="../bullet_r.gif">&nbsp;About EOLSS
 </dt></div><div class="TOC">
 
 
 
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_about.aspx">About EOLSS</a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="About EOLSS">&nbsp;<a href="http://www.eolss.net/Eolss-About.aspx">About EOLSS</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_category.aspx">Outlines of the  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Component Encyclopedias</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="Outlines of the EOLSS Components">&nbsp;<a href="http://www.eolss.net/Outline-Component-Encyclopedias.aspx">Outlines of the <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Component Encyclopedias</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/ebooks"><font color="green"><span style="font-size: 8pt">e-Book Library</span></font></a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS e-books">&nbsp;<a href="http://www.eolss.net/ebooks"><font color="green"><span style="font-size: 8pt">e-Book Library</span></font></a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_booklet.aspx">Information Booklet</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Booklet">&nbsp;<a href="http://www.eolss.net/Eolss-Information-Booklet.aspx">Information Booklet</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_FAQ.aspx">FAQ</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS FAQ">&nbsp;<a href="http://www.eolss.net/Eolss-FAQ.aspx">FAQ</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/ebooks/reg_samplechapters.aspx"><font color="green">Sample Chapters</font></a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Sample Chapters">&nbsp;<a href="http://www.eolss.net/ebooks/reg_samplechapters.aspx"><font color="green">Sample Chapters</font></a>
 
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Sample Chapters">&nbsp;<a href="http://www.eolss.net/eolss_sitemap.aspx"><font color="navy">Sitemap</font></a>
 </dt></div><div class="TOC">
 <hr size="1" noshade="">
 
-<dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_citations.aspx" target="_self">How to Cite EOLSS</a>
+<dt>&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Cite">&nbsp;<a href="http://www.eolss.net/Eolss-Citations.aspx" target="_self">How to Cite EOLSS</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_librec.aspx" target="_self">Library Recommendation</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Library Recommendation">&nbsp;<a href="http://www.eolss.net/Eolss-Library-Recommendation.aspx" target="_self">Library Recommendation</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_bid.aspx" target="_self">Booksellers</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_publication.aspx" target="_self">Publications</a>
 
-</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_crap.aspx" target="_self">Copyright Request</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/LoginEditor.aspx" target="_self">Kit for  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editors/Commissioners</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Publications">&nbsp;<a href="http://www.eolss.net/Eolss-Publications.aspx" target="_self">Publications</a>
+
+</dt><dt>&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Copyright Request">&nbsp;<a href="http://www.eolss.net/Eolss-Copyright-Permission-Forms.aspx" target="_self">Copyright Request</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="Editors/Commissioners">&nbsp;<a href="http://www.eolss.net/LoginEditor.aspx" target="_self">Kit for  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editors/Commissioners</a>
 
 </dt></div><div class="H1TOC">
 <hr size="1" noshade="">
-<dt><img src="bullet_r.gif">&nbsp;Information for <br> &nbsp;&nbsp; Journalist / Reporters
+<dt><img src="../bullet_r.gif">&nbsp;Information for <br> &nbsp;&nbsp; Journalist / Reporters
 </dt></div><div class="TOC">
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_arab.aspx">Arabic</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<font color="gray" face="Verdana" size="1">Chinese</font>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep.aspx">English</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_french.aspx">French</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_german.aspx">German</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_italian.aspx">Italian</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_japanese.aspx">Japanese</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_korean.aspx">Korean</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_port.aspx">Portuguese</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<font color="gray" face="Verdana" size="1">Russian</font>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_journrep_span.aspx">Spanish</a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Arabic">&nbsp;<a href="http://www.eolss.net/eolss_journrep_arab.aspx">Arabic</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Chinese">&nbsp;<font color="gray" face="Verdana" size="1">Chinese</font>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in English">&nbsp;<a href="http://www.eolss.net/eolss_journrep.aspx">English</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in French">&nbsp;<a href="http://www.eolss.net/eolss_journrep_french.aspx">French</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in German">&nbsp;<a href="http://www.eolss.net/eolss_journrep_german.aspx">German</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Italian">&nbsp;<a href="http://www.eolss.net/eolss_journrep_italian.aspx">Italian</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Japanese">&nbsp;<a href="http://www.eolss.net/eolss_journrep_japanese.aspx">Japanese</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Korean">&nbsp;<a href="http://www.eolss.net/eolss_journrep_korean.aspx">Korean</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Portuguese">&nbsp;<a href="http://www.eolss.net/eolss_journrep_port.aspx">Portuguese</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Russian">&nbsp;<font color="gray" face="Verdana" size="1">Russian</font>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Information Journalist / Reporters in Spanish">&nbsp;<a href="http://www.eolss.net/eolss_journrep_span.aspx">Spanish</a>
 </dt></div><div class="H1TOC">
 
 <hr size="1" noshade="">
 
-<dt><img src="bullet_r.gif">&nbsp;Services
+<dt><img src="../bullet_r.gif">&nbsp;Services
 
 </dt></div><div class="TOC">
 
 
 
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mail.jpg" border="0">&nbsp;<a href="http://www.eolss.net/Subscribe.aspx">Join Our Mailing List</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_feedback.aspx" target="_self">Feedback/Evaluation</a>
-</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_links.aspx" target="_self">Useful Links</a>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../mail.jpg" border="0" alt="EOLSS Mailing List">&nbsp;<a href="http://www.eolss.net/Subscribe.aspx">Join Our Mailing List</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Feedback">&nbsp;<a href="http://www.eolss.net/eolss_feedback.aspx" target="_self">Feedback/Evaluation</a>
+</dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../redball.gif" height="5" width="5" alt="EOLSS Useful links">&nbsp;<a href="http://www.eolss.net/Eolss-Links.aspx" target="_self">Useful Links</a>
 </dt></div><hr size="1" noshade=""><p>
 <!-- End Menu Items---- -->
 </p><table width="175">
@@ -480,10 +287,8 @@ Div.MainLink
 </td>
 
 
-
-		 <!--(Header and TOC)================================================-->
+		<!--(Header and TOC)================================================-->
 		<!--================================================================--> <!--(Body)==========================================================-->  <!-- Start of the body Text -->
-	
 	
 		<td valign="top">
 			<center>
@@ -571,7 +376,7 @@ Div.MainLink
 <td valign="top" width="2%" align="left"></td><td></td>
 <td valign="top">
 
-<font face="verdana,arial,sans-serif" size="1"><a href="http://www.eolss.net" target="_top"></a><div align="right"><a href="http://www.eolss.net" target="_top"><img src="home.gif" border="0"></a></div></font></td></tr>
+<font face="verdana,arial,sans-serif" size="1"><div align="right"><a href="http://www.eolss.net" target="_top"><img src="home.gif" border="0"></a></div></font></td></tr>
 <tr><td colspan="3">
 <center>
 <hr class="LINE" color="#0066cc" width="400%" size="1">
@@ -584,7 +389,7 @@ Div.MainLink
 
 <tr><td colspan="3">
 <center>
-<font face="verdana,arial,sans-serif" size="1">|<a href="http://www.eolss.net/eolss_terms.aspx">&nbsp;&nbsp;Terms of Use &amp; Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.eolss.net/eolss_policy.aspx">Privacy Policy</a>&nbsp;&nbsp;|</font></center>
+<font face="verdana,arial,sans-serif" size="1">|<a href="http://www.eolss.net/Eolss-Terms-Use-Disclaimer.aspx">&nbsp;&nbsp;Terms of Use &amp; Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.eolss.net/Eolss-Privacy-Policy.aspx">Privacy Policy</a>&nbsp;&nbsp;|</font></center>
 
 </td></tr>
 
