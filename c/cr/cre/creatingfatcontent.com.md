@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingfatcontent.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328225653id_/http%3A//creatingfatcontent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingfatcontent.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007064609id_/http%3A//creatingfatcontent.com/privacy.html) for the most accurate reproduction.*
 
 # Creating Fat Content Course
 
