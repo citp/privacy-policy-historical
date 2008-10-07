@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610080649id_/http%3A//www.perfume.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2008-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081008013314id_/http%3A//www.perfume.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Perfume and Cologne - Buy Brand Name Perfumes Online
+
+Discount Perfume and Cologne up to 70% off at Perfume.com. 
+
+  
+
+
+Is your website secure?
+
+At Perfume.com, we promise that your personal information is secure. Every transaction is processed by the Bank of America using the latest industry standards for secure online credit card transactions. Secure servers protect your information using advanced encryption and firewall technology throughout the ordering process. Please never send your credit card information via email. 
+
+Once your transaction is complete we DO NOT store your credit card number anywhere, further protecting you. 
+
+We use 128bit encryption through SSL servers using GEOTrust Secure Certificates. Our servers are state of the art Dell machines running the most recent versions Linux Operating Systems and Software. All security patches are updated regularily. We take internet security VERY seriously and make every effort possible to insure your credit card information and identity are protected. 
+
+If you have any concerns with sending sensitive information over the internet, please call our customer service line at **1-800-645-9251** and we will gladly take your order over the telephone. 
+
+What is your privacy policy?
 
 Perfume.com is committed to our visitors and to protecting their privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Policy applies to all visitors to the Perfume.com network of sites, and to all referrals made by our visitors. 
 
@@ -27,3 +44,8 @@ Some sites within our network contain links to other sites. Perfume.com is not r
 
 **Contacting us**  
 If you have any questions about our Privacy Policy, our site practices, or your personal experience dealing with this web site, you can [contact](http://www.perfume.com/contact_us.php) our office. 
+
+» **Return to** [Help Center](http://www.perfume.com/help_center.php)
+
+  
+
