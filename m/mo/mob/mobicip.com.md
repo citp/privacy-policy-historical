@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the mobicip.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007210949id_/http%3A//www.mobicip.com/privacypolicy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+##  [ Privacy Policy ](http://www.mobicip.com/privacypolicy.html)
+
+By registering your details with us, you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. Mobicip.com is owned by Mobicip LLC. This privacy statement discloses the privacy practices for Mobicip (http://www.mobicip.com).
+
+ If you have questions or concerns regarding this statement, you should first contact [info@mobicip.com](mailto:info@mobicip.com).
+
+  From time to time, Mobicip may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see item number 5 for more details.  
+1\. What is Mobicip and why is my information needed?
+
+ Mobicip provides the registered user with secure access to the Internet from any location. Mobicip makes the Mobicip service available under a number of different subscription plans. Mobicip requires the use of first and last names, a password, a valid email address as a login, a billing address and a valid credit card, paypal account, corporate payment code or invoicing agreement to process payment for service. Therefore, at a minimum, we require such necessary information during the registration process.
+
+  2\. What information does Mobicip gather/track and how is it used?
+
+ PERSONAL INFORMATION: Because of the nature of our product, we must collect personal information from users during the registration process, including first and last names, a valid credit card, paypal account, corporate payment code or invoicing agreement to process payment for service, an email address to be used as a login and a password. Your email address may be used to send you periodic newsletters from Mobicip or third-party advertisers, but only upon your express consent. We use the information collected to deliver services, process payments, communicate with you about orders, products and services and to update our records and generally maintain your accounts with us. We do not share, sell, trade, or rent your personal information to third parties for unknown reasons.
+
+ Because of our commitment to present the best possible product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records indefinitely.
+
+ PARTNERS: In some cases we provide services or sell product lines jointly with other businesses. For these co-branded offerings in which a third party is involved in your transactions, we will sometimes share or jointly collect customer information related to those transactions with that third party. We will notify you on the co-branded registration pages at the time you create your account who is collecting the information or receiving the information, and whose privacy statement governs the information through such a co-branded offering. If you are registered with Mobicip through a partnership and you request to opt out, we will provide your email address to the partner so that we can process your request and discontinue sending you any future marketing communications or third-party promotional information.
+
+ SESSION RECORDS: To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is used only to ensure the highest quality experience possible at Mobicip.
+
+ SURVEYS: In addition to required subscriber information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal market research, presentation to advertisers and joint research projects with outside companies involved in product development. We use such information to better focus our product and personalize the scope of services offered to each individual user. Such information will not be passed to third parties without your prior consent unless where required by applicable law.
+
+ OUR WEBSITE TRAFFIC PATTERNS: We also track aggregate traffic patterns throughout our web site. However, we do not correlate this information with personally identifiable data about individual users. We do track visits to our website from domain names, browser types and MIME type.
+
+ COOKIES: A cookie is a small data file that certain Web sites write to your hard drive when you visit them. We use cookies to track user traffic patterns on our web site and hold certain registration information. When registering at Mobicip sites, we use cookies to store unique, randomly assigned user IDs that we generate for administrative purposes. These cookies enable you to logon the Mobicip sites without having to reenter information each time. We do not store passwords or any personally identifiable information about you in the cookies.
+
+ The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. For the best experience with Mobicip's service, we recommend enabling cookies for mobicip.com
+
+ 3\. With whom does Mobicip share the information?
+
+ Mobicip products and services by necessity require us to provide some of your information to third parties. To the extent such disclosure is necessary, we will notify you of the specific information disclosed. Mobicip employs other companies and individuals to assist us in performing certain functions on our behalf. Examples include processing credit card payments, sending postal mail and email, analyzing data and providing marketing assistance. They only have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in strict accordance with this Privacy Policy.
+
+ Occasionally we may send offers to selected groups of Mobicip customers on behalf of other businesses. When we do this, we do not give the businesses your name and address. Except in the limited instances as stated above, we will never voluntarily share personally identifiable information with any third party without the user's express consent or unless compelled by applicable state and federal laws.
+
+ 4\. How can I review, correct and update my personal information?
+
+ If you wish to change your personal information, go to your My Account page where you can change your user name, email address and password and update your credit card information. You can also change your email subscription status to receive our newsletter, email marketing communications and third-party promotions administered by Mobicip. Please contact us at [support@mobicip.com](mailto:support@mobicip.com) if you need assistance in updating your information.
+
+ 5\. How can I opt out of Mobicip's collection, use and distribution of my information?
+
+ To change your email subscription status to receive or to stop receiving marketing communications or third-party promotions administered by Mobicip or to opt out of Mobicip's collection, use and distribution of your information, email us at [support@mobicip.com](mailto:support@mobicip.com) with a request to opt out for your account.
+
+ This privacy policy is subject to change at the sole discretion of Mobicip. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in a different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. When we post the notice, we will also, in some cases, email a notification regarding such changes to those users who have opted to receive communications from us.
+
+ 6\. How does Mobicip protect my information from loss, misuse or alteration?
+
+ Mobicip uses industry standard efforts to safeguard the confidentiality of personally identifiable information, including encryption, firewalls and SSL (Secure Sockets Layer).
+
+ Furthermore, Mobicip is not liable for loss of passwords due to user carelessness. If you lose control over your password, you may lose control over your personally identifiable information. If you believe your password has been compromised, we recommend that you immediately change your password. For information on how to do this, please see section 4 above (How can I review, correct and update my personal information?)
+
+ 7\. Whom can I ask if I have additional questions?
+
+ For additional inquiries about the privacy of your information, you can contact Mobicip via email at [info@mobicip.com](mailto:info@mobicip.com).
