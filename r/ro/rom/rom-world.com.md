@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009133301id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2008-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081008012759id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
 
 # ROM World | Policies
 
 |  Check out [XGD.com](http://www.xgd.com/) to download PC game demos and get more game info.
 
-| 
+|  Also, XGD will be hiring review writers. Yes, that's right, you can finally **get paid to play games**! [Apply here](http://www.xgd.com/xgdreviews.php)
 
 **Privacy Policy:**   
 Information Collected:  
