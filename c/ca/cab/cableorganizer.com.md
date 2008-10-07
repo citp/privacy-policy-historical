@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208213613id_/http%3A//cableorganizer.com/supportsuite/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007083359id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
-# CableOrganizer.com - Tips & Advice
+# Cable Organizer .com - Privacy Policy
+
+**Privacy Policy**
 
 "We never rent or sell our customers' data to anyone. All information held is strictly confidential."
 
@@ -10,7 +12,7 @@ This is the web site of CableOrganizer.com.
 >  5610 NW 12th Ave, Suite 214  
 >  Fort Lauderdale, FL 33309
 > 
-> (866) 222-0030 Toll Free 
+> (866) 222-0030 Toll Free
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -37,3 +39,5 @@ Upon reasonable request we can provide site visitors with access to information 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.
