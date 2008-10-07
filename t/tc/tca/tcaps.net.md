@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcaps.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514133929id_/http%3A//www.tcaps.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcaps.net privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007054137id_/http%3A//www.tcaps.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Traverse City Area Public Schools > Home
 
