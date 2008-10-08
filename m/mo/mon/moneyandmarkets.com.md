@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616125752id_/http%3A//www.moneyandmarkets.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2008-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081008133148id_/http%3A//www.moneyandmarkets.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
