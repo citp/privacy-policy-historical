@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516110144id_/http%3A//www.templatezone.com/templatezone-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2008-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081008055553id_/http%3A//www.templatezone.com/templatezone-privacy.php) for the most accurate reproduction.*
 
 # TemplateZone Online Privacy Policy
 
@@ -26,4 +26,4 @@ If you have any questions about our services or privacy statement, please contac
 **TemplateZone Customer Support  
 50 Mount Vernon Street  
 Cambridge MA 02140  
-[privacy@templatezone.com](mailto:privacy@templatezone.com) **
+**
