@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finditnow.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613004123id_/http%3A//www.finditnow.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditnow.com privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009162837id_/http%3A//finditnow.com/privacy.jsp) for the most accurate reproduction.*
 
 # Gannett Directories
 
