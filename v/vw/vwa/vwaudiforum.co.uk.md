@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506020046id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009062825id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
 # Privacy Policy - VWAUDI Forum
 
@@ -6,7 +6,7 @@
 
  
 
-[](https://web.archive.org/web/20080506020046id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
+[](https://web.archive.org/web/20081009062825id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
 
 | 
 
@@ -64,19 +64,18 @@ __________________
 
  ** _Stuart - Website Administrator & Owner_**
 
-  
-
-
 _**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**_
 
-  
-
+_**If you need a Part, a Garage, a Tuning Company, or even an Official Dealer the please visit**_
 
 _**Details of the VWAudi Forum Insurance Scheme,[See Here](http://www.vwaudiforum.co.uk/forum/showthread.php?t=24937)**_
 
-  
+_****_
 
+**_VWAF PartZone \- Need a part? If our Sponsors can't help, [EMAIL ME ](mailto:stuart@vwaudiforum.co.uk)the details, and I will see what I can do... _**
 
-Please **DO NOT** email or PM me with any vehicle related questions.
+**_Most items (depending on weight/size) will be sent Royal Mail Special Delivery & charged at cost._**
+
+**How many more times!!!** Please **DO NOT, I REPEAT DO NOT!!** email or PM me with any vehicle related questions.
 
 I do not have the experience or time to answer them, so they will be deleted! **PLEASE** use the correct forum section to ask!
