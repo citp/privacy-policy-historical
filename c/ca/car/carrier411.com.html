@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the carrier411.com privacy policy that was archived on 2008-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526162338id_/http%3A//www.carrier411.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrier411.com privacy policy that was archived on 2008-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081009110239id_/http%3A//www.carrier411.com/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 <title>Monitor Trucking Company Insurance and Authority - Carrier411</title>
 <link rel="icon" href="http://www.carrier411.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.carrier411.com/favicon.ico" type="image/x-icon">
@@ -35,36 +37,57 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function  _CF_checkmanager(_CF_this)
-{
-	if  (!_CF_hasValue(_CF_this.username, "TEXT" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.username, _CF_this.username.value, "Please enter your username."))
-		{
-			return false;
-		}
-	}
-
-	if  (!_CF_hasValue(_CF_this.password, "PASSWORD" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.password, _CF_this.password.value, "Please enter your password."))
-		{
-			return false;
-		}
-	}
-
-	return true;
-}
-
-
-//-->
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['username']=true;
 </script>
 
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['password']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkmanager = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element username required check
+        if( !_CF_hasValue(_CF_this['username'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "username", _CF_this['username'].value, "Please enter your username.");
+            _CF_error_exists = true;
+        }
+
+        //form element password required check
+        if( !_CF_hasValue(_CF_this['password'], "PASSWORD", false ) )
+        {
+            _CF_onError(_CF_this, "password", _CF_this['password'].value, "Please enter your password.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
 </head>
 
 
@@ -79,7 +102,7 @@ function  _CF_checkmanager(_CF_this)
 	<tbody><tr>
 		<td rowspan="2"><a href="http://www.carrier411.com" onmouseover="window.status='Home Page'; return true" onmouseout="window.status=''; return true"><img src="transportation-software/trucking-insurance-authority.gif" alt="Trucking Insurance and Authority Updates" width="234" height="79" border="0"></a></td>
 		<td height="30" valign="middle">
-		<form name="manager" action="manager/logincheck.cfm" method="POST" onsubmit="return _CF_checkmanager(this)"> 
+		<form name="manager" id="manager" action="manager/logincheck.cfm" method="post" onsubmit="return _CF_checkmanager(this)">
 <table align="right" cellpadding="2" cellspacing="0" border="0">
 <tbody><tr>
 	<td class="bodysm" height="30">&nbsp;</td>
@@ -88,11 +111,11 @@ function  _CF_checkmanager(_CF_this)
 <tr>
 	<td class="bodysm" align="right"><b>Username:</b></td>
 	<td>
-	<input type="Text" name="username" style="font-size:8pt;font-family:Verdana" size="15" maxlength="15"> 
+	<input name="username" id="username" type="text" maxlength="15" style="font-size:8pt;font-family:Verdana" size="15"> 
 	</td>
 	<td class="bodysm" align="right"><b>Password:</b></td>
 	<td>
-	<input type="Password" name="password" style="font-size:8pt;font-family:Verdana" size="15" maxlength="15"> 
+	<input name="password" id="password" type="password" maxlength="15" style="font-size:8pt;font-family:Verdana" size="15"> 
 	</td>
 	<td class="bodysm" valign="middle"><input class="bodytext" type="Image" src="transportation-software/buttons/bt14_0.gif" name="Image14" onmouseout="MM_swapImgRestore();window.status=''; return true" onmouseover="MM_swapImage('Image14','','transportation-software/buttons/bt14_1.gif',1);window.status='Customer Login'; return true" alt="Customer Login"></td>
 	<td class="bodysm"><img src="transportation-software/spacer.gif" height="1" width="1"></td>
@@ -111,7 +134,8 @@ function  _CF_checkmanager(_CF_this)
 	</td>
 </tr>
 </tbody></table>
-</form> 
+</form>
+
 		</td>
 	</tr>
 	</tbody></table>
@@ -227,9 +251,9 @@ function  _CF_checkmanager(_CF_this)
 	<td class="bodysm"><img src="transportation-software/spacer.gif" height="1" width="10"></td>
 	<td class="bodysm"><a href="http://www.carrier411.com/contact.cfm" onmouseover="window.status='Contact Us'; return true" onmouseout="window.status=''; return true">Contact Us</a></td>
 	<td class="bodysm"><img src="transportation-software/spacer.gif" height="1" width="10"></td>
-	<td class="bodysm"><a href="http://www.carrier411.com/link.cfm" onmouseover="window.status='Link to Us'; return true" onmouseout="window.status=''; return true">Link to Us</a></td>
+	<td class="bodysm"><a href="http://www.carrier411.com/privacy.cfm" onmouseover="window.status='Privacy Policy'; return true" onmouseout="window.status=''; return true">Privacy Policy</a></td>
 	<td class="bodysm"><img src="transportation-software/spacer.gif" height="1" width="10"></td>
-	<td class="bodysm"><a href="http://www.carrier411.com/privacy.cfm" onmouseover="window.status='Privacy Policy'; return true" onmouseout="window.status=''; return true">Privacy Policy</a></td>	
+	<td class="bodysm"><a href="http://www.factor411.com" onmouseover="window.status='Factor411 Factoring Software'; return true" onmouseout="window.status=''; return true" target="_blank">Factor411</a></td>
 </tr>
 </tbody></table>
 
