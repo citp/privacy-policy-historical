@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516013416id_/http%3A//www.liberty.co.uk/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009041738id_/http%3A//www.liberty.co.uk/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
 
-# Liberty - Privacy Policy
-
-#### Privacy Policy
+# Privacy Policy
 
 BACKGROUND
 
@@ -11,39 +9,19 @@ This Policy applies as between you, the User of this Web Site and Liberty plc th
 1\. Definitions and Interpretation  
 In this Policy the following terms shall have the following meanings:
 
-  * “Account” means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site
+“Account” means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site  
+“Content” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site  
+ “Cookie” means a small text file placed on your computer by Liberty plc when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 of this Policy  
+“Data” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems  
+“Name” means Liberty plc, Regent Street, London W1B 5AH United Kingdom  
+“Service” means collectively any online facilities, tools, services or information that Liberty plc makes available through the Web Site either now or in the future  
+ “System” means any online communications infrastructure that Liberty plc makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links  
+“User” / “Users” means any third party that accesses the Web Site and is not employed by Liberty plc and acting in the course of their employment  
+“Web Site” means the website that you are currently using ([http://www.liberty.co.uk](http://www.liberty.co.uk/)) and any sub-domains of this site (e.g. [www.liberty-of-london.co.uk](http://www.liberty-of-london.co.uk/)) unless expressly excluded by their own terms and conditions
 
-
-  * “Content” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site
-
-
-  *  “Cookie” means a small text file placed on your computer by Liberty plc when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 of this Policy
-
-
-  * “Data” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
-
-
-  * “Name” means Liberty plc, Regent Street, London W1B 5AH United Kingdom
-
-
-  * “Service” means collectively any online facilities, tools, services or information that Liberty plc makes available through the Web Site either now or in the future
-
-
-  *  “System” means any online communications infrastructure that Liberty plc makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
-
-
-  * “User” / “Users” means any third party that accesses the Web Site and is not employed by Liberty plc and acting in the course of their employment
-
-
-  * “Web Site” means the website that you are currently using (http://www.liberty.co.uk) and any sub-domains of this site (e.g. www.liberty-of-london.co.uk) unless expressly excluded by their own terms and conditions
-
-
-
-  
 2\. Data Collected  
 Without limitation, any of the following Data may be collected:
 
-  
 2.1 name  
 2.2 date of birth  
 2.3 gender  
@@ -64,8 +42,8 @@ Without limitation, any of the following Data may be collected:
 3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.  
 3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible servi 
 
-#### Privacy Policy Part 2
-
+**Privacy Policy Part 2  
+**  
 4\. Third Party Web Sites and Services  
 Liberty plc may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Liberty plc requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
@@ -86,5 +64,3 @@ Liberty plc may, from time to time, employ the services of other parties for dea
 8\. Accessing your own Data  
 8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.  
 8.2 You have the right to ask for a copy of your personal Data on payment of a small fee.
-
-[ ](https://web.archive.org/what_s_in_store/liberty_news "Liberty News") [ ](https://web.archive.org/contact_us/contact_details "Contact Details")
