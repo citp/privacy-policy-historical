@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsatish.tv privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212192749id_/http%3A//techsatish.tv/2007/04/techsatish-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsatish.tv privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009151640id_/http%3A//techsatish.tv/2007/04/techsatish-privacy-policy.html) for the most accurate reproduction.*
 
-# techsatish.tv™ - TV's across the world 24x7 - News,Business,Movies,Music,Sports,Education: TECHSATISH Privacy Policy
+# techsatish.tv - TV's across the world 24x7 - News,Business,Movies,Music,Sports,Education: TECHSATISH Privacy Policy
 
 TECHSATISH Privacy Policy
 
