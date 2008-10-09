@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foursquare.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311230648id_/http%3A//www.foursquare.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursquare.com privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009202827id_/http%3A//www.foursquare.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Software Development by Foursquare Solutions Inc > Home ( DNN 3.0.13 )
 
