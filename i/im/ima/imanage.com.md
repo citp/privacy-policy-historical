@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2007-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070905074339id_/http%3A//www.imanage.com/components/page.jsp%3Ftopic%3DMAIN%3A%3AIWOV%26dcr%3Dtemplatedata/profile/base/data/dcr-1157155419845.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009163127id_/http%3A//www.imanage.com/components/pagenext.jsp%3Ftopic%3DMAIN%3A%3AIWOV%26dcr%3Dtemplatedata/profile/base/data/dcr-your-privacy.xml) for the most accurate reproduction.*
 
-# Your Privacy - Interwoven - About Us
+# - Interwoven - Company
 
 Interwoven considers your privacy important. This policy explains our policies and practices regarding how we intend to use and disclose your personal information that you provide to us.
 
@@ -20,4 +20,4 @@ _Usernames and Passwords._ Access to certain content on our website may be allow
 
 _Cookies._ We use "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information that helps us recognize which pages you have visited and improve your future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted; however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. Access to our secured website(s) requires the use of per-session cookies in Microsoft Internet Explorer, which you must enable.
 
-_General._ If you have questions regarding this privacy policy, please contact us at [legal_info@interwoven.com](mailto:legal_info@interwoven.com)
+_General._ If you have questions regarding this privacy policy, please contact us at [legal@interwoven.com](mailto:legal@interwoven.com)
