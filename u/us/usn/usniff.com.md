@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usniff.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618151236id_/http%3A//usniff.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usniff.com privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009222639id_/http%3A//www.usniff.com/p/privacy) for the most accurate reproduction.*
 
 # usniff.com | Torrent search made easy
 
