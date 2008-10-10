@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambank.com.my privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630111810id_/http%3A//www.ambank.com.my/amonline/info/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambank.com.my privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010192655id_/http%3A//www.ambank.com.my/amonline/info/pp.asp) for the most accurate reproduction.*
 
 # AmOnline by AmBank
 
