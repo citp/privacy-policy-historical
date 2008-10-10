@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intheholegolf.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018151904id_/http%3A//www.intheholegolf.com/store/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheholegolf.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010231517id_/http%3A//www.intheholegolf.com/store/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy: IN THE HOLE! Golf
+# Privacy Policy: InTheHoleGolf.com
 
 **_Privacy Policy_**
 
@@ -43,5 +43,61 @@ If you have any questions regarding any of the elements of our privacy policy, p
 **IN THE HOLE! Golf, Inc.**  
 P.O. Box 11471  
 Jackson, WY 83002  
-888-733-8383  
+888-733-8383
 
+|  | 
+
+|   
+---  
+| 
+
+[](http://www.intheholegolf.com/store/med-stackdvd.html)
+
+[Stack & Tilt DVD Set](http://www.intheholegolf.com/store/med-stackdvd.html "Stack & Tilt DVD Set")  
+Price: $ **99.95**  
+---  
+  
+[](http://www.intheholegolf.com/store/radargsys.html)
+
+[Radar Golf System](http://www.intheholegolf.com/store/radargsys.html "Radar Golf System")  
+Price: $ **199.95**  
+  
+[](http://www.intheholegolf.com/store/bj-hybrid.html)
+
+[Bobby Jones Hybrid](http://www.intheholegolf.com/store/bj-hybrid.html "Bobby Jones Hybrid")  
+Price: $ **149.95**  
+  
+[](http://www.intheholegolf.com/store/dsg.html)
+
+[Dynamics Swing Glove](http://www.intheholegolf.com/store/dsg.html "Dynamics Swing Glove")  
+Price: $ **34.95**  
+  
+[](http://www.intheholegolf.com/store/tegeom2d.html)
+
+[Tour Edge GeoMax 2 Driver](http://www.intheholegolf.com/store/tegeom2d.html "Tour Edge GeoMax 2 Driver")  
+Price: $ **219.95**  
+  
+[](http://www.intheholegolf.com/store/golfmvp.html)
+
+[Golf's MVP Red Heat](http://www.intheholegolf.com/store/golfmvp.html "Golf's MVP Red Heat")  
+Price: $ **159.95**  
+  
+[](http://www.intheholegolf.com/store/5101.html)
+
+[TAG Heuer Zenith 5101 Sunglasses](http://www.intheholegolf.com/store/5101.html "TAG Heuer Zenith 5101 Sunglasses")  
+Price: $ **329.95**  
+  
+[](http://www.intheholegolf.com/store/dixon-balls.html)
+
+[Dixon Earth Golf Balls](http://www.intheholegolf.com/store/dixon-balls.html "Dixon Earth Golf Balls")  
+Price: $ **39.95**  
+  
+[](http://www.intheholegolf.com/store/trizab.html)
+
+[Trion:Z Active Bracelet](http://www.intheholegolf.com/store/trizab.html "Trion:Z Active Bracelet")  
+Price: $ **21.95**  
+  
+[](http://www.intheholegolf.com/store/930500.html)
+
+[Sun Mountain Rainflex Jacket](http://www.intheholegolf.com/store/930500.html "Sun Mountain Rainflex Jacket")  
+Price: $ **184.95**
