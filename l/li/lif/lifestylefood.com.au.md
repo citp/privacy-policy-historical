@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509012840id_/http%3A//www.lifestylefood.com.au/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011005016id_/http%3A//www.lifestylefood.com.au/legal/privacy.asp) for the most accurate reproduction.*
 
 # LifeStyle FOOD - Privacy Policy
 
@@ -71,6 +71,6 @@ If you would like any further information about your rights to privacy, please s
 
 **Contact Us**
 
-If you have any queries regarding this Privacy Policy or would like to read, amend or delete any of Your Personal Information, please contact XYZ by completing the feedback form, [here!](https://web.archive.org/web/20070509012840id_/http%3A//www.lifestylefood.com.au/contact). 
+If you have any queries regarding this Privacy Policy or would like to read, amend or delete any of Your Personal Information, please contact XYZ by completing the feedback form, [here!](https://web.archive.org/web/20081011005016id_/http%3A//www.lifestylefood.com.au/contact). 
 
 © XYZnetworks Pty Limited 2001. All rights reserved. 
