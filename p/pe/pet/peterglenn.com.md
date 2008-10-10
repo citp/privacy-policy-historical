@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430075423id_/http%3A//www.peterglenn.com/pglenn/text_1.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010052229id_/http%3A//www.peterglenn.com/pglenn/text_1.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
 
-# ski shop, snowboard shop, water ski shop, wakeboard shop, in-line skate shop
+# Peter Glenn Ski & Sports Privacy Policy
 
 **** At Peter Glenn of Vermont, we are committed to protecting your privacy. We use information about you to process orders and to provide a more personalized shopping experience. We intend to give you as much control as possible over your personal information. In general, you can visit Peter Glenn of Vermont over the Internet without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you.
 
