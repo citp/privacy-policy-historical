@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radio-info.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429101750id_/http%3A//www.radio-info.com/content/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radio-info.com privacy policy that was archived on 2008-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081010175759id_/http%3A//www.radio-info.com/content/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Radio-Info.com - Privacy Policy</title>
@@ -8,19 +8,144 @@
 	<meta name="robots" content="index, follow">
 	
 	
-	<link href="/in3_src/css/main_styles_v3.css?v=5" rel="stylesheet" type="text/css">
-	<link href="/in3_src/css/header_footer_v3.css?v=5" rel="stylesheet" type="text/css">
+	<link href="/in3_src/css/main_styles.css?v=14" rel="stylesheet" type="text/css">
+	<link href="/in3_src/css/header_footer_v3.css?v=14" rel="stylesheet" type="text/css">
 
-		
-	<!--<link rel="shortcut icon" href="http://www.radio-info.com/in3_src/images/favicon.ico" />-->
+	
+<style type="text/css">
+
+
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/final_drop.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+.menu 
+{  
+/*height:32px; */
+height:20px; 		/* menu height change	*/
+display:block; 
+font-size:0.85em; 
+width:750px; 
+float:right; 
+position:relative; 
+z-index:100;
+}
+
+/* hack to correct IE5.5 faulty box model */
+
+/* remove all the bullets, borders and padding from the default list styling */
+.menu ul {padding:0;margin:0;list-style-type:none;z-index:100;   }
+.menu ul ul {width:149px; z-index:100;}
+/* float the list to make it horizontal and a relative positon so that you can control the dropdown menu positon */
+.menu li {float:left;width:auto;position:relative;z-index:100;}
+
+/* style the links for the top level */
+.menu a, 
+.menu a:visited 
+{
+display:block;
+font-size:11px;
+text-decoration:none; 
+color:#fff; 
+width:auto; 
+/*height:30px; */
+/*line-height:29px; */
+height:19px;  		/* menu height change	*/
+line-height:18px;  		/* menu height change	*/
+border-bottom:0px solid #0000FE; 
+border-left:1px solid #FFFFFF; 
+border-width:1px 1px 1px 1px; 
+background:#0000FE; 
+padding-left:15px; 
+padding-right:15px; 
+
+font-weight:bold; 
+}
+
+/* a hack so that IE5.5 faulty box model is corrected */
+* html .menu a, * html .menu a:visited {w\idth:0px; min-width:0px; max-width:0px; white-space:nowrap;}
+
+/* style the second level background */
+.menu ul ul a.drop, .menu ul ul a.drop:visited {background:#ffffff url(/in3_src/images/drop.gif) bottom right no-repeat;z-index:100;}
+/* style the second level hover */
+.menu ul ul a.drop:hover{background:#dddddd url(/in3_src/images/drop.gif) bottom right no-repeat; color:#D00505;z-index:100;}
+.menu ul ul :hover > a.drop {background:#dddddd url(/in3_src/images/drop.gif) bottom right no-repeat; color:#D00505;z-index:100;}
+/* style the third level background */
+.menu ul ul ul a, .menu ul ul ul a:visited {background:#ffffff;z-index:100;}
+/* style the third level hover */
+.menu ul ul ul a:hover {background:#dddddd; color:#D00505;z-index:100;}
+
+
+/* hide the sub levels and give them a positon absolute so that they take up no room */
+.menu ul ul 
+{
+visibility:hidden;
+position:absolute;
+height:0;
+/*top:31px;*/
+top:19px; 		/* menu height change	*/
+left:0; 
+width:149px;
+border-top:0px solid #0000FE;
+}
+
+
+/* another hack for IE5.5 */
+* html .menu ul ul {top:30px;t\op:31px;z-index:100;}
+
+/* position the third level flyout menu */
+.menu ul ul ul{left:149px; top:-1px; width:149px;z-index:100;}
+
+/* position the third level flyout menu for a left flyout */
+.menu ul ul ul.left {left:-149px;z-index:100;}
+
+/* style the table so that it takes no ppart in the layout - required for IE to work */
+/*.menu table {position:absolute; top:0; left:0; border-collapse:collapse;z-index:100;}*/
+.menu table ul { margin-top:-11px; border-collapse:collapse;}
+
+/* style the second level links */
+.menu ul ul a, .menu ul ul a:visited {background:#ffffff; color:#000; height:auto; line-height:1em; padding:5px 10px; width:128px;border-width:0px 1px 1px 1px; border-color:#000000;
+border-top:0px solid #000000;
+border-bottom:1px solid #000000;
+border-left:1px solid #000000;
+border-right:1px solid #000000; 
+z-index:100;
+}
+/* yet another hack for IE5.5 */
+* html .menu ul ul a, * html .menu ul ul a:visited {width:150px;w\idth:128px;z-index:100;}
+
+/* style the top level hover */
+.menu a:hover {background-color:#000000; color:#FFFFFF; text-decoration:underline;}
+
+.menu ul ul a:hover{ background:#dddddd; color:#D00505;z-index:100;}
+.menu :hover > a {background-color:#000000; color:#FFFFFF;z-index:100;} 
+.menu ul ul :hover > a {background:#dddddd; color:#D00505;z-index:100;}
+
+/* make the second level visible when hover on first level list OR link */
+.menu ul li:hover ul,
+.menu ul a:hover ul{visibility:visible; z-index:100;}
+/* keep the third level hidden when you hover on first level list OR link */
+.menu ul :hover ul ul{visibility:hidden;}
+/* make the third level visible when you hover over second level list OR link */
+.menu ul :hover ul :hover ul{ visibility:visible;z-index:100;}
+
+</style>	
+
 	<link rel="shortcut icon" href="http://www.radio-info.com/favicon.ico">
 	
 	
-	<script src="/javascript/site_functions_v3.js?v=6" type="text/javascript"></script>
+	<script src="/javascript/site_functions_v3.js?v=10" type="text/javascript"></script>
+	<script src="/javascript/form_validation_functions_v5.js?v=10" type="text/javascript"></script>
 	<script type="text/javascript">
 		//mustang html start file
-		var headlines = new Array('First Listen: Clear Channel\'s New Lone Star 92.5/Dallas','Discussion: KFRC is Back in the Bay Area','Benefit Launched for Country Programmer Les Acree','Howard Stern\'s Smut Bus Chased Off by NYPD Blue','Rumor:  KTVX 890 in Mabank,TX is Sold','Indiana: Chris Carter Heads to WAZY as PD; Exits as Crossroads OM','Chrysler and GM Taking a Wait and See Attitude on HD Radio','Sacto:  Max Miller Named PD of Salem\'s Christian Cluster');
-		var links = new Array('/click_track.php/code/494/','/click_track.php/code/503/','/click_track.php/code/496/','/click_track.php/code/499/','/click_track.php/code/498/','/click_track.php/code/502/','/click_track.php/code/500/','/click_track.php/code/501/');
+		var headlines = new Array("Both New York and New Jersey sue Arbitron over PPM","Radio-Info at the NAB 2008","Ross on Radio: The latest thoughts from Sean Ross","On the Mic: Jerry Del Colliano","Rumored Changes Around KGB/San Diego","Tulsa\'s Jean Hetherington Explains his Status at KVOO","Phoenix:  Kid, Ruben and Corina Say Their Goodbyes Today","Santa Comes to St.Louis on 101.1: Discussion","Want to Take Part in the Discussions?  CLICK HERE TO REGISTER");
+		var links = new Array('/click_track.php/code/4906/','/click_track.php/code/4762/','/click_track.php/code/4839/','/click_track.php/code/4841/','/click_track.php/code/4907/','/click_track.php/code/4904/','/click_track.php/code/4901/','/click_track.php/code/4903/','/click_track.php/code/4868/');
 		var num_headlines = headlines.length;
 		var smf_scripturl = "http://www.radio-info.com/smf/index.php";
 		
@@ -45,7 +170,8 @@
 		<tbody><tr>
 			<td id="logo"><img src="/in3_src/images/header/header_logo.jpg" alt="Radio-Info.com" width="153" height="98"></td>
 			<td id="headerBannerNews">
-				<span id="newsContent"><a id="newsContentLink" href="/click_track.php/code/494/" onmouseover="stopHeadlines();" onmouseout="startHeadlines();"><span id="newsContentText">First Listen: Clear Channel's New Lone Star 92.5/Dallas</span></a></span>
+				<span id="newsContent"><a id="newsContentLink" href="/click_track.php/code/4906/" onmouseover="stopHeadlines();" onmouseout="startHeadlines();"><span id="newsContentText">Both New York and New Jersey sue Arbitron over PPM</span></a></span>
+				<!--<script type="text/javascript">document.write(headlines[0]);</script>-->
 			</td>
 			<td id="headerBannerAd"><a href="http://www.crb.org/" target="_blank">
 
@@ -68,7 +194,7 @@
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://radio-info.com/a/am/adjs.php?n=986472500&amp;what=zone:2&amp;exclude=,"></script><noscript><a href='http://radio-info.com/a/am/adclick.php?n=a20fbaf4' target='_blank'><img src='http://radio-info.com/a/am/adview.php?what=zone:2&amp;n=a20fbaf4' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://radio-info.com/a/am/adjs.php?n=706451397&amp;what=zone:2&amp;exclude=,"></script><noscript><a href='http://radio-info.com/a/am/adclick.php?n=a20fbaf4' target='_blank'><img src='http://radio-info.com/a/am/adview.php?what=zone:2&amp;n=a20fbaf4' border='0' alt=''></a></noscript>
 
 
 
@@ -124,8 +250,44 @@
 		<tbody><tr>
 			<td id="headerMenuHeadeline">Radio-Info.com</td>
 			<td id="headerMenuLinks">
-				<a href="/index.php">HOME</a><a href="/smf/">BOARDS</a><a href="/content/links.php">LINKS</a><a href="/smf/index.php?action=register">REGISTER</a><a href="/smf/index.php?action=reminder">PASSWORD HELP</a><a href="/content/faqs.php">FAQ</a><a href="/contact_us.php">CONTACT US</a>
-			</td>
+
+				<div class="menu">
+	
+					<ul>
+						<li><a href="/index.php">HOME</a></li>
+				
+						<li><a href="/smf/">BOARDS</a></li>
+						
+						<li><a href="/news/">NEWS</a></li>
+			
+						<li><a href="/content/arbitron.php">RATINGS</a></li>
+						
+						<li><a href="/content/jobs.php">CLASSIFIEDS</a></li>
+						
+						<li><a href="/content/links.php">LINKS</a></li>
+		
+						
+		
+						<li><a href="/smf/index.php?action=register">REGISTER<!--[if IE 7]><!--></a><!--<![endif]-->
+							<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="/smf/index.php?action=register">Radio-Info Boards</a></li>
+								<li><a href="/newsletter/register.php">Taylor on Radio-Info</a></li>
+							</ul>
+							<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+						</li><!-- end REGISTER -->
+			
+						<!--	
+						<li><a href="/content/faqs.php">FAQ</a></li>
+						-->
+		
+		
+						<li><a href="/contact_us.php">CONTACT US</a></li>
+					</ul>
+
+				</div><!-- end menu -->
+			
+			</td><!-- end headerMenuLinks -->
 		</tr>
 	</tbody></table>
 	
@@ -142,19 +304,19 @@
 				<option value="#10">RADIO INFO DISCUSSION</option>
 				<option value="" disabled="disabled">-----------------------------</option><option value="?board=2.0"> =&gt; ANNOUNCEMENTS</option><option value="?board=316.0"> =&gt; Ask Radio-Info</option><option value="?board=303.0"> =&gt; Doug Fleming</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#4">TOP 20 MARKETS</option>
-				<option value="" disabled="disabled">-----------------------------</option><option value="?board=234.0"> =&gt; New York</option><option value="?board=201.0"> =&gt; Los Angeles</option><option value="?board=206.0"> =&gt; Chicago</option><option value="?board=203.0"> =&gt; San Francisco</option><option value="?board=211.0"> =&gt; Dallas-Fort Worth</option><option value="?board=212.0"> =&gt; Houston-Galveston</option><option value="?board=225.0"> =&gt; Philadelphia</option><option value="?board=232.0"> =&gt; Washington/Baltimore</option><option value="?board=202.0"> =&gt; Atlanta</option><option value="?board=16.0"> =&gt; Detroit</option><option value="?board=204.0"> =&gt; Boston</option><option value="?board=240.0"> =&gt; Miami-Ft. Lauderdale</option><option value="?board=20.0"> =&gt; Puerto Rico</option><option value="?board=229.0"> =&gt; Seattle-Tacoma</option><option value="?board=226.0"> =&gt; Phoenix</option><option value="?board=23.0"> =&gt; Minneapolis-St. Paul</option><option value="?board=248.0"> =&gt; San Diego</option><option value="?board=217.0"> =&gt; Nassau-Suffolk/Long Island</option><option value="?board=249.0"> =&gt; Tampa-St. Petersburg</option><option value="?board=27.0"> =&gt; St. Louis</option><option value="" disabled="disabled">-----------------------------</option>
+				<option value="" disabled="disabled">-----------------------------</option><option value="?board=234.0"> =&gt; New York</option><option value="?board=201.0"> =&gt; Los Angeles</option><option value="?board=206.0"> =&gt; Chicago</option><option value="?board=203.0"> =&gt; San Francisco</option><option value="?board=211.0"> =&gt; Dallas-Fort Worth</option><option value="?board=212.0"> =&gt; Houston-Galveston</option><option value="?board=225.0"> =&gt; Philadelphia</option><option value="?board=202.0"> =&gt; Atlanta</option><option value="?board=232.0"> =&gt; Washington/Baltimore</option><option value="?board=204.0"> =&gt; Boston</option><option value="?board=16.0"> =&gt; Detroit</option><option value="?board=240.0"> =&gt; Miami-Ft. Lauderdale</option><option value="?board=20.0"> =&gt; Puerto Rico</option><option value="?board=229.0"> =&gt; Seattle-Tacoma</option><option value="?board=226.0"> =&gt; Phoenix</option><option value="?board=23.0"> =&gt; Minneapolis-St. Paul</option><option value="?board=248.0"> =&gt; San Diego</option><option value="?board=217.0"> =&gt; Nassau-Suffolk/Long Island</option><option value="?board=249.0"> =&gt; Tampa-St. Petersburg</option><option value="?board=27.0"> =&gt; St. Louis</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#6">OTHER LOCAL MARKETS</option>
 				<option value="" disabled="disabled">-----------------------------</option><option value="?board=213.0"> =&gt; Albany/Hudson Valley</option><option value="?board=269.0"> =&gt; Altoona/State College</option><option value="?board=237.0"> =&gt; Binghamton</option><option value="?board=233.0"> =&gt; Buffalo/Niagara Falls/Rochester</option><option value="?board=264.0"> =&gt; Charlotte-Gastonia-Rock Hill</option><option value="?board=263.0"> =&gt; Central California</option><option value="?board=205.0"> =&gt; Central Pennsylvania</option><option value="?board=207.0"> =&gt; Cincinnati</option><option value="?board=238.0"> =&gt; Cleveland</option><option value="?board=223.0"> =&gt; Columbus</option><option value="?board=209.0"> =&gt; Denver-Boulder</option><option value="?board=266.0"> =&gt; Eastern North Carolina</option><option value="?board=254.0"> =&gt; Eastern Tennessee</option><option value="?board=256.0"> =&gt; Lehigh Valley/Reading</option><option value="?board=218.0"> =&gt; Memphis</option><option value="?board=241.0"> =&gt; Nashville</option><option value="?board=245.0"> =&gt; North Florida</option><option value="?board=242.0"> =&gt; Northeast Pennsylvania</option><option value="?board=222.0"> =&gt; Northern New England</option><option value="?board=246.0"> =&gt; Orlando</option><option value="?board=227.0"> =&gt; Pittsburgh</option><option value="?board=228.0"> =&gt; Providence</option><option value="?board=265.0"> =&gt; Raleigh/Greensboro</option><option value="?board=255.0"> =&gt; Sacramento</option><option value="?board=257.0"> =&gt; San Antonio/Austin</option><option value="?board=208.0"> =&gt; Syracuse/Utica</option><option value="?board=250.0"> =&gt; Tucson</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#7">FORMATS</option>
-				<option value="" disabled="disabled">-----------------------------</option><option value="?board=298.0"> =&gt; AAA/Americana</option><option value="?board=291.0"> =&gt; Alternative/Alternative Classics</option><option value="?board=281.0"> =&gt; CHR/Mainstream Pop</option><option value="?board=282.0"> =&gt; CHR/Rhythmic/Hip-Hop</option><option value="?board=292.0"> =&gt; College Radio</option><option value="?board=283.0"> =&gt; Country/Classic Country</option><option value="?board=279.0"> =&gt; Dance</option><option value="?board=294.0"> =&gt; Hispanic Programming</option><option value="?board=297.0"> =&gt; Hot Talk</option><option value="?board=280.0"> =&gt; Adult Contemporary</option><option value="?board=290.0"> =&gt; Hot Adult Contemporary/Modern AC</option><option value="?board=321.0"> =&gt; Rhythmic AC</option><option value="?board=284.0"> =&gt; News/Talk</option><option value="?board=293.0"> =&gt; Public Radio/Non-Commercial</option><option value="?board=94.0"> =&gt; Reggaeton</option><option value="?board=285.0"> =&gt; Religious/Contemporary Christian</option><option value="?board=286.0"> =&gt; Rock/Classic Rock</option><option value="?board=289.0"> =&gt; Smooth Jazz</option><option value="?board=296.0"> =&gt; Soft AC/EZ Listening/Adult Standards</option><option value="?board=295.0"> =&gt; Sports</option><option value="?board=287.0"> =&gt; Urban/Urban AC/R&amp;B Oldies</option><option value="?board=288.0"> =&gt; 50's/60's Oldies</option><option value="?board=168.0"> =&gt; 60's/70's Classic Hits</option><option value="?board=299.0"> =&gt; 80's/90's Variety Hits</option><option value="" disabled="disabled">-----------------------------</option>
+				<option value="" disabled="disabled">-----------------------------</option><option value="?board=298.0"> =&gt; AAA/Americana</option><option value="?board=291.0"> =&gt; Alternative/Alternative Classics</option><option value="?board=281.0"> =&gt; CHR/Mainstream Pop</option><option value="?board=282.0"> =&gt; CHR/Rhythmic/Hip-Hop</option><option value="?board=292.0"> =&gt; College Radio</option><option value="?board=283.0"> =&gt; Country/Classic Country</option><option value="?board=279.0"> =&gt; Dance</option><option value="?board=294.0"> =&gt; Hispanic Programming</option><option value="?board=297.0"> =&gt; Hot Talk</option><option value="?board=280.0"> =&gt; Adult Contemporary</option><option value="?board=290.0"> =&gt; Hot Adult Contemporary/Modern AC</option><option value="?board=321.0"> =&gt; Rhythmic AC</option><option value="?board=284.0"> =&gt; News/Talk</option><option value="?board=293.0"> =&gt; Public Radio/Non-Commercial</option><option value="?board=285.0"> =&gt; Religious/Contemporary Christian</option><option value="?board=286.0"> =&gt; Rock/Classic Rock</option><option value="?board=289.0"> =&gt; Smooth Jazz</option><option value="?board=296.0"> =&gt; Soft AC/EZ Listening/Adult Standards</option><option value="?board=295.0"> =&gt; Sports</option><option value="?board=287.0"> =&gt; Urban/Urban AC/R&amp;B Oldies</option><option value="?board=288.0"> =&gt; 50's/60's Oldies</option><option value="?board=168.0"> =&gt; 60's/70's Classic Hits</option><option value="?board=299.0"> =&gt; 80's/90's Variety Hits</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#3">RADIO STATES</option>
 				<option value="" disabled="disabled">-----------------------------</option><option value="?board=251.0"> =&gt; Alabama</option><option value="?board=3.0"> =&gt; Alaska</option><option value="?board=236.0"> =&gt; Arkansas</option><option value="?board=9.0"> =&gt; Arizona</option><option value="?board=11.0"> =&gt; California</option><option value="?board=28.0"> =&gt; Colorado</option><option value="?board=210.0"> =&gt; Connecticut</option><option value="?board=318.0"> =&gt; Delaware</option><option value="?board=30.0"> =&gt; Florida</option><option value="?board=253.0"> =&gt; Georgia</option><option value="?board=262.0"> =&gt; Hawaii</option><option value="?board=33.0"> =&gt; Idaho</option><option value="?board=214.0"> =&gt; Illinois</option><option value="?board=215.0"> =&gt; Indiana</option><option value="?board=216.0"> =&gt; Iowa</option><option value="?board=260.0"> =&gt; Kansas</option><option value="?board=239.0"> =&gt; Kentucky</option><option value="?board=220.0"> =&gt; Louisiana</option><option value="?board=40.0"> =&gt; Maine</option><option value="?board=41.0"> =&gt; Maryland</option><option value="?board=42.0"> =&gt; Massachusetts</option><option value="?board=43.0"> =&gt; Michigan</option><option value="?board=235.0"> =&gt; Minnesota</option><option value="?board=258.0"> =&gt; Mississippi</option><option value="?board=230.0"> =&gt; Missouri</option><option value="?board=47.0"> =&gt; Montana</option><option value="?board=261.0"> =&gt; Nebraska</option><option value="?board=243.0"> =&gt; Nevada</option><option value="?board=50.0"> =&gt; New Hampshire</option><option value="?board=221.0"> =&gt; New Jersey</option><option value="?board=244.0"> =&gt; New Mexico</option><option value="?board=53.0"> =&gt; New York</option><option value="?board=54.0"> =&gt; North Carolina</option><option value="?board=55.0"> =&gt; North Dakota</option><option value="?board=56.0"> =&gt; Ohio</option><option value="?board=224.0"> =&gt; Oklahoma</option><option value="?board=247.0"> =&gt; Oregon</option><option value="?board=59.0"> =&gt; Pennsylvania</option><option value="?board=60.0"> =&gt; Rhode Island</option><option value="?board=259.0"> =&gt; South Carolina</option><option value="?board=62.0"> =&gt; South Dakota</option><option value="?board=63.0"> =&gt; Tennessee</option><option value="?board=231.0"> =&gt; Texas</option><option value="?board=268.0"> =&gt; Utah</option><option value="?board=66.0"> =&gt; Vermont</option><option value="?board=252.0"> =&gt; Virginia</option><option value="?board=68.0"> =&gt; Washington</option><option value="?board=70.0"> =&gt; West Virginia</option><option value="?board=219.0"> =&gt; Wisconsin</option><option value="?board=75.0"> =&gt; Wyoming</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#8">INTERNATIONAL</option>
 				<option value="" disabled="disabled">-----------------------------</option><option value="?board=197.0"> =&gt; Asia</option><option value="?board=200.0"> =&gt; Australia</option><option value="?board=195.0"> =&gt; Canada</option><option value="?board=199.0"> =&gt; Europe</option><option value="?board=79.0"> =&gt; Mexico</option><option value="?board=198.0"> =&gt; Latin America</option><option value="?board=196.0"> =&gt; United Kingdom</option><option value="?board=267.0"> =&gt; Toronto</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#5">NEW GENERATION RADIO</option>
-				<option value="" disabled="disabled">-----------------------------</option><option value="?board=194.0"> =&gt; HD Radio</option><option value="?board=126.0"> =&gt; Podcasting</option><option value="?board=191.0"> =&gt; Sirius Satellite</option><option value="?board=302.0"> =&gt; Webcasting/Internet Streaming</option><option value="?board=188.0"> =&gt; XM Satellite</option><option value="" disabled="disabled">-----------------------------</option>
+				<option value="" disabled="disabled">-----------------------------</option><option value="?board=194.0"> =&gt; HD Radio</option><option value="?board=126.0"> =&gt; Podcasting</option><option value="?board=191.0"> =&gt; Sirius/XM Satellite (Sirius)</option><option value="?board=188.0"> =&gt; Sirius/XM Satellite (XM)</option><option value="?board=302.0"> =&gt; Webcasting/Internet Streaming</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#14">RADIO PROS</option>
-				<option value="" disabled="disabled">-----------------------------</option><option value="?board=319.0"> =&gt; The Business of Radio</option><option value="?board=270.0"> =&gt; Engineering</option><option value="?board=272.0"> =&gt; Production</option><option value="?board=275.0"> =&gt; Programming</option><option value="?board=276.0"> =&gt; Promotions</option><option value="?board=278.0"> =&gt; Radio &amp; The Internet</option><option value="?board=271.0"> =&gt; Remix Pros</option><option value="?board=277.0"> =&gt; Sales</option><option value="?board=274.0"> =&gt; Show Prep</option><option value="?board=273.0"> =&gt; Syndication</option><option value="" disabled="disabled">-----------------------------</option>
+				<option value="" disabled="disabled">-----------------------------</option><option value="?board=319.0"> =&gt; The Business of Radio</option><option value="?board=270.0"> =&gt; Engineering</option><option value="?board=324.0"> =&gt; Engineering Tech Tips</option><option value="?board=322.0"> =&gt; Jobs - People seeking Jobs</option><option value="?board=272.0"> =&gt; Production</option><option value="?board=275.0"> =&gt; Programming</option><option value="?board=276.0"> =&gt; Promotions</option><option value="?board=278.0"> =&gt; Radio &amp; The Internet</option><option value="?board=271.0"> =&gt; Remix Pros</option><option value="?board=277.0"> =&gt; Sales</option><option value="?board=274.0"> =&gt; Show Prep</option><option value="?board=273.0"> =&gt; Syndication</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#15">SPECIALTY</option>
 				<option value="" disabled="disabled">-----------------------------</option><option value="?board=160.0"> =&gt; Ham/CB/Scanner</option><option value="?board=300.0"> =&gt; Aircheck Collectors</option><option value="?board=301.0"> =&gt; DX and Reception</option><option value="?board=185.0"> =&gt; Classic Radio</option><option value="?board=187.0"> =&gt; Coast to Coast</option><option value="?board=186.0"> =&gt; Community Radio</option><option value="?board=192.0"> =&gt; Off The Air</option><option value="?board=193.0"> =&gt; Where Are They Now</option><option value="?board=190.0"> =&gt; FCC Policy Debate</option><option value="" disabled="disabled">-----------------------------</option>
 				<option value="#11">TELEVISION CITIES</option>
@@ -189,37 +351,53 @@
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.radio-info.com/a/am/adjs.php?n=586496913&amp;what=zone:23&amp;exclude=,"></script><noscript><a href='http://www.radio-info.com/a/am/adclick.php?n=aa9c19e9' target='_blank'><img src='http://www.radio-info.com/a/am/adview.php?what=zone:23&amp;n=aa9c19e9' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://www.radio-info.com/a/am/adjs.php?n=201539961&amp;what=zone:23&amp;exclude=,"></script><noscript><a href='http://www.radio-info.com/a/am/adclick.php?n=aa9c19e9' target='_blank'><img src='http://www.radio-info.com/a/am/adview.php?what=zone:23&amp;n=aa9c19e9' border='0' alt=''></a></noscript>
 
 
 		</td>
 		<td>
 			
-<script type="text/javascript"><!--
-google_ad_client = "pub-2243985858502592";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-google_ad_channel = "";
-google_color_border = "6699CC";
-google_color_bg = "003366";
-google_color_link = "FFFFFF";
-google_color_text = "AECCEB";
-google_color_url = "AECCEB";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
+<script language="JavaScript" type="text/javascript" src="http://www.radio-info.com/a/am/adx.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+   if (!document.phpAds_used) document.phpAds_used = ',';
+
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+  
+
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+
+   document.write ("http://www.radio-info.com/a/am/adjs.php?n=" + phpAds_random);
+
+   document.write ("&amp;what=zone:24");
+
+   document.write ("&amp;exclude=" + document.phpAds_used);
+
+   if (document.referrer)
+
+      document.write ("&amp;referer=" + escape(document.referrer));
+
+   document.write ("'><" + "/script>");
+
+//-->
+
+</script><script language="JavaScript" type="text/javascript" src="http://www.radio-info.com/a/am/adjs.php?n=904074313&amp;what=zone:24&amp;exclude=,"></script><noscript><a href='http://www.radio-info.com/a/am/adclick.php?n=aac0f095' target='_blank'><img src='http://www.radio-info.com/a/am/adview.php?what=zone:24&amp;n=aac0f095' border='0' alt=''></a></noscript>
+
+ 
+
+ 
 		</td>
 	</tr>
 </tbody></table>			
 	
 	
 	<div id="mainContent">
-	
-	
+
 	
 	
 	
@@ -282,16 +460,27 @@ google_color_url = "AECCEB";
 		<!--<p>Copyright &copy; 2006 IN3 Media, Inc. All rights reserved.</p>
 		<p><a href="/content/terms_service.php">Terms of Service</a><a href="/content/privacy_policy.php">Privacy Policy</a><a href="/content/disclaimer.php">Disclamer</a><a href="/contact_us.php" style="border: 0;">Contact Us</a></p>-->
 		
-<p><a href="/contact_us.php?select=sales">Advertising</a><a href="/content/terms_service.php">Terms of Service</a><a href="/content/privacy_policy.php">Privacy Policy</a><a href="/content/disclaimer.php">Disclaimer</a><a href="/contact_us.php">Contact Us</a><a href="/a/am/admin/" style="border: 0;">Partner Login</a></p>
+<p><a href="/contact_us.php?send_to=sales">Advertising</a><a href="/content/faqs.php">FAQ</a><a href="/content/terms_service.php">Terms of Service</a><a href="/content/privacy_policy.php">Privacy Policy</a><a href="/content/disclaimer.php">Disclaimer</a><a href="/contact_us.php">Contact Us</a><a href="/a/am/admin/" style="border: 0;">Partner Login</a></p>
 
-<p>Copyright © 2007 IN3 Media, Inc. All rights reserved.</p>
+<p>Copyright © 2008 in3media, inc. All rights reserved.</p>
 
-<p style="font-size: .7em; ">Site designed and hosted by <a style="padding: 0; border: 0;" href="http://www.mustanginternetservices.com/" target="_blank">Mustang Internet Services, Inc.</a></p>
+<!-- <p style="font-size: .7em; ">Site designed and hosted by <a style="padding: 0; border: 0;" href="http://www.mustanginternetservices.com/" target="_blank">Mustang Internet Services, Inc.</a></p> -->
 	</div><!-- end footer -->
 
 
 
 </div><!-- end allContent -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3588094-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 </body></html>
