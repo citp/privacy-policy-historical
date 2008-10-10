@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sierraclub.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082437id_/http%3A//www.sierraclub.org/website/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierraclub.org privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010153313id_/http%3A//www.sierraclub.org/website/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy and Your California Privacy Rights > Sierra Club
 
-_Privacy Policy last revised October 31, 2007_
+_Privacy Policy last revised September 16, 2008._
 
-This is the official Privacy Policy for sierraclub.org, the official Sierra Club website. This Privacy Policy applies only to information gathered through this site and does not necessarily reflect our practices with respect to information gathered through other Sierra Club web sites or through other off-line means.
+This is the official Privacy Policy for Sierra Club websites. This Privacy Policy applies only to information gathered through these sites and does not necessarily reflect our practices with respect to information gathered through off-line means.
 
 This Privacy Policy is part of the terms and conditions which are set forth in our [Terms & Conditions](https://web.archive.org/website/termsandconditions.asp) By using this site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our site. **The Sierra Club reserves the right to modify or amend the terms of our Privacy Policy from time to time without notice. If you continue to use our site after we post changes to this Privacy Policy, it will mean that you accept those changes.**
 
@@ -14,13 +14,16 @@ The Sierra Club has a firm commitment to internet privacy. You can visit most po
 **Collection and use of personally identifiable information:**  
 The Sierra Club may collect email addresses and other personally identifiable data about visitors when such data is voluntarily submitted to sierraclub.org. For example, our site uses order forms for visitors to request information, products, and services, or to become a member. Contact information from the order form is used to send orders and information about the Sierra Club to our visitors. Financial information is used to bill visitors in connection with their orders. Some of the activist functions of our site also require registration of personal information. We use this information to make these functions more effective and provide participants with additional information about conservation issues.
 
-We occasionally have third parties perform services on our behalf, such as marketing, analytics, credit card processing, shipping or stocking orders, providing customer service, advocacy and outreach, etc. These third parties have access to your personal information only as needed to perform their services for the Sierra Club and are contractually obligated to maintain the confidentiality and security of the personal information.
+We occasionally have third parties perform services on our behalf, such as data processing, marketing, analytics, credit card processing, shipping or stocking orders, providing customer service, advocacy and outreach, etc. These third parties have access to your personal information only as needed to perform their services for the Sierra Club and are contractually obligated to maintain the confidentiality and security of the personal information.
 
 We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or this site; (b) protect and defend our rights or property, this site or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, site users, or the public.
 
 The Sierra Club uses industry accepted data collection and encryption methodologies in an attempt to insure the secure collection and transmission of sensitive user information. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
 The Sierra Club does not sell or otherwise disclose your personal information outside the organization. However, if you become a member of the Sierra Club, some information on our membership lists, such as your name and mailing address, may be exchanged with other organizations. Members may opt out of such membership list exchanges by following the Opt-Out Procedures, below.
+
+**"Remember me" feature:**  
+On some of our forms, we offer an optional "remember me" feature that can recall your information for greater ease on subsequent visits to the site.
 
 **Your California Privacy Rights:**  
 Residents of the State of California have the right to request a list of all third parties to which a company conducting business in California has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your personal information by third parties for marketing purposes, the company may instead provide you with information on how to exercise this choice.
@@ -55,4 +58,4 @@ If you suspect that we have handled your personal information in a manner that d
 
 Up to Top
 
-[HOME](https://web.archive.org/) | [Email Signup](http://www.sierraclub.org/newsletter/signup/index2.asp) | [About Us](https://web.archive.org/welcome/) | [Contact Us](https://web.archive.org/contact/) | [Terms of Use](https://web.archive.org/website/terms/)
+[HOME](https://web.archive.org/) | [Email Signup](http://www.sierraclub.org/newsletter/signup/index2.asp) | [About Us](https://web.archive.org/welcome/) | [Contact Us](https://web.archive.org/contact/) | [Terms of Use](https://web.archive.org/website/terms/) | [© 2008 Sierra Club](https://web.archive.org/website/copyright/)
