@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specially4u.net privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615055427id_/http%3A//www.specially4u.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specially4u.net privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010033209id_/http%3A//www.specially4u.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,7 +33,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[http://www.specially4u.net/contact.htm](https://web.archive.org/web/20080615055427id_/http%3A//www.specially4u.net/contact.htm)
+[http://www.specially4u.net/contact.htm](https://web.archive.org/web/20081010033209id_/http%3A//www.specially4u.net/contact.htm)
 
 * * *
 
