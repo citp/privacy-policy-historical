@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio-info.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429101750id_/http%3A//www.radio-info.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-info.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010175759id_/http%3A//www.radio-info.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Radio-Info.com - Privacy Policy
 
