@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410073357id_/http%3A//www.articlefame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010160509id_/http%3A//www.articlefame.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleFame.com | Privacy Statement
 
@@ -18,7 +18,7 @@ Personally Identifiable Information collected by **www.ArticleFame.com** may als
 
 **Affiliated sites, linked sites and advertisements**
 
-**www.ArticleFame.com** expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a **www.ArticleFame.com** page, certain content that is actually created or hosted by a third party. Also, through **www.ArticleFame.com** you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. **www.ArticleFame.com** is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+ **www.ArticleFame.com** expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a **www.ArticleFame.com** page, certain content that is actually created or hosted by a third party. Also, through **www.ArticleFame.com** you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. **www.ArticleFame.com** is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. **www.ArticleFame.com** does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
@@ -26,7 +26,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 **Children**
 
-**www.ArticleFame.com** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe **www.ArticleFame.com** has any information from or about anyone under 13, please contact us at the address listed below. 
+ **www.ArticleFame.com** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe **www.ArticleFame.com** has any information from or about anyone under 13, please contact us at the address listed below. 
 
 **Contacting Us**
 
@@ -34,12 +34,9 @@ We can be reached by emailing us.
 
 **Changes to this Policy**
 
-**www.ArticleFame.com** reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+ **www.ArticleFame.com** reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-**Governing law**
-
-This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+   
+---  
+**ArticleFame.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.   
+ 
