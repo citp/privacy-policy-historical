@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609015322id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010153855id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planetizen
 
