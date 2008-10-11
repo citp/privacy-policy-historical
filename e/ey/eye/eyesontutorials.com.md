@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyesontutorials.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605155928id_/http%3A//www.eyesontutorials.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyesontutorials.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011045429id_/http%3A//www.eyesontutorials.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
