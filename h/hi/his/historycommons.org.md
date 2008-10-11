@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historycommons.org privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210109id_/http%3A//www.cooperativeresearch.org/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycommons.org privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011103741id_/http%3A//www.historycommons.org/privacy_policy.jsp) for the most accurate reproduction.*
 
 # History Commons
 
@@ -6,11 +6,11 @@
 
 ## Introduction
 
-The policies below are applicable to the website that is accessible by the domain names historycommons.org, cooperativeresearch.net, grassrootsoversight.org, grassrootsoversight.net, historycommons.org, and historycommons.net (“Website”), produced and maintained by the Center for Grassroots Oversight (collectively “the Center” or “we”, “us”, or “our”). We have established this security and privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+The policies below are applicable to the website that is accessible by the domain names historycommons.org, historycommons.net, grassrootsoversight.org, grassrootsoversight.net, historycommons.org, and historycommons.net (“Website”), produced and maintained by the Center for Grassroots Oversight (collectively “the Center” or “we”, “us”, or “our”). We have established this security and privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 **By visiting our Website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website and exit immediately. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website following the posting of changes to these terms will mean you accept those changes.**
 
-If you don't find your concern addressed here, feel free to email us through the [Contact Page](https://web.archive.org/web/20080511210109id_/http%3A//www.cooperativeresearch.org/contact.jsp). 
+If you don't find your concern addressed here, feel free to email us through the [Contact Page](https://web.archive.org/web/20081011103741id_/http%3A//www.historycommons.org/contact.jsp). 
 
 ## What Information Do We Collect?
 
@@ -38,7 +38,7 @@ Other features may be added to the site that also display a user's user name.
 
 ## Email Updates
 
-The Center collects email addresses of all users who subscribe to our email updates, make donations, or purchase items from cooperativeresearchstore.org. This information is not shared with any third parties for any purposes. We may, from time to time, send registered users emails regarding upgrades to the Website, announcements about updates to timelines, guidelines on writing timeline entries, and the like. Anyone who wishes not to receive any future emails from us can, at any time, click on the “Unsubscribe” link located at the bottom of each email from the Center. 
+The Center collects email addresses of all users who subscribe to our email updates, make donations, or purchase items from historycommonsstore.org. This information is not shared with any third parties for any purposes. We may, from time to time, send registered users emails regarding upgrades to the Website, announcements about updates to timelines, guidelines on writing timeline entries, and the like. Anyone who wishes not to receive any future emails from us can, at any time, click on the “Unsubscribe” link located at the bottom of each email from the Center. 
 
 ## Policies for Children Under 13
 
@@ -96,10 +96,10 @@ As we continue to develop our Website, we may add new services and features. In 
 
 You always may opt-out of receiving future email messages and announcements. The Center provides you with the opportunity to opt-out of receiving our communications in every email we send. 
 
-To remove your Personal Information from our database, correct or update Personal Information that you have previously provided to us, and/or not to receive future communications, send email through the [Contact Page](https://web.archive.org/web/20080511210109id_/http%3A//www.cooperativeresearch.org/contact.jsp) on the Website indicating the information that you wish to be corrected, updated, or removed, or your request not to be sent future communications from the Center.
+To remove your Personal Information from our database, correct or update Personal Information that you have previously provided to us, and/or not to receive future communications, send email through the [Contact Page](https://web.archive.org/web/20081011103741id_/http%3A//www.historycommons.org/contact.jsp) on the Website indicating the information that you wish to be corrected, updated, or removed, or your request not to be sent future communications from the Center.
 
 ## Questions
 
-Please email us through the [Contact Page](https://web.archive.org/web/20080511210109id_/http%3A//www.cooperativeresearch.org/contact.jsp) any questions you have regarding this statement. 
+Please email us through the [Contact Page](https://web.archive.org/web/20081011103741id_/http%3A//www.historycommons.org/contact.jsp) any questions you have regarding this statement. 
 
 To return to the Web site, please use the "Back" button on your browser. 
