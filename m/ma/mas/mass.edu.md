@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mass.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509073522id_/http%3A//www.mass.edu/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mass.edu privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011161526id_/http%3A//www.mass.edu/legal/privacy.asp) for the most accurate reproduction.*
 
 # Massachusetts Board of Higher Education: About Us
 
-[Home](https://web.archive.org/web/20080509073522id_/http%3A//www.mass.edu/home.asp) > [Legal Disclaimers](https://web.archive.org/web/20080509073522id_/http%3A//www.mass.edu/legal/privacy.asp) > Privacy Policy
+[Home](https://web.archive.org/web/20081011161526id_/http%3A//www.mass.edu/home.asp) > [Legal Disclaimers](https://web.archive.org/web/20081011161526id_/http%3A//www.mass.edu/legal/privacy.asp) > Privacy Policy
 
 Privacy Policy
 
