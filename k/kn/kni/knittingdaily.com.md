@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knittingdaily.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328133110id_/http%3A//www.knittingdaily.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knittingdaily.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011164758id_/http%3A//www.knittingdaily.com/content/PrivacyPolicies.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Knitting Daily
 
 **Your Guarantee of SPAM-Free Privacy**  
 We at Aspire Media/Interweave Press, LLC (referred to hereunder as IWP, we, us, our, etc.), producer of knittingdaily.com and affiliated web sites (the Sites), believe that you have the right to know how your personal and other information may be used or disclosed. You take your privacy seriously, and we respect your concerns. Accordingly, we have created this Privacy Statement in order to educate you as to how we collect information, what we do with it, and what controls and options you have. Please read this Privacy Statement carefully, and if you have any questions or concerns, please send us a comment at privacy@interweave.com
