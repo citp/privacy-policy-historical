@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042926id_/http%3A//www.ghchealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011064256id_/http%3A//ghchealth.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center
-
-[](http://www.ghchealth.com/promos/may2008-2/)  
-
-
-  
-
 
 This privacy notice discloses the privacy practices for www.ghchealth.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -70,7 +64,10 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 
 Information and statements made are for education purposes and are not intended to replace the advice of your treating doctor. Global Healing Center does not dispense medical advice, prescribe, or diagnose illness. We design and recommend individual nutritional programs and supplements that allow the body to rebuild and heal itself. The views and nutritional advice expressed by Global Healing Center are not intended to be a substitute for conventional medical service. If you have a severe medical condition, see your physician of choice. This Web site contains links to Web sites operated by other parties. Such links are provided for your convenience and reference only. We are not responsible for the content or products of any linked site or any link contained in a linked site.
 
-|  [](https://www.securitymetrics.com/site_certificate.adp?s=67%2e15%2e182%2e14&i=58322)   
+| 
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=ghchealth.com)
+
 [](http://www.bbbonline.org/cks.asp?id=104061012585243737)  
   
 ---|---
