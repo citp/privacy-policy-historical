@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612123117id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012215342id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free Classifieds: Jobs, gigs, services. Find babysitters, cleaners, caregivers.
+# Free Online Classifieds: babysitters, cleaners, jobs.
 
-|  | 
+| 
 
 ###  Benefito Privacy Policy
 
@@ -30,4 +30,4 @@ If you choose to visit Benefito.com, your visit and any dispute over privacy is 
 
 Our business changes constantly, and our Privacy Notice and the User Agreement will change constantly also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.   
   
----|---|---
+---|---
