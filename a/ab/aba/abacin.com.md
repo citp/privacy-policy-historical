@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603124714id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012222305id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
 # Abacin.com
 
@@ -19,7 +19,7 @@ Various cash back credit cards without annual fees. Up to 5% cash back rewards a
 
 |    
 **Privacy Statement**   
-The privacy statement discloses the privacy practices for [ http://www.abacin.com/](http://www.abacin.com/). If you have questions or concerns regarding this statement, you should first [ contact Abacin ](https://web.archive.org/web/20080603124714id_/http%3A//www.abacin.com/site/contact.php). Visitors' privacy and confidentiality is of the utmost importance to Abacin. Our reputation and integrity is directly related to how we serve our clients and visitors. Please find below a description of how Abacin strives to protect our visitors' privacy. 
+The privacy statement discloses the privacy practices for [ http://www.abacin.com/](http://www.abacin.com/). If you have questions or concerns regarding this statement, you should first [ contact Abacin ](https://web.archive.org/web/20081012222305id_/http%3A//www.abacin.com/site/contact.php). Visitors' privacy and confidentiality is of the utmost importance to Abacin. Our reputation and integrity is directly related to how we serve our clients and visitors. Please find below a description of how Abacin strives to protect our visitors' privacy. 
 
 **Third-Party Measurement Services**
 
@@ -31,7 +31,7 @@ Abacin employs third-party service providers to serve the advertisements and tra
 > your IP address,  
 > the URLs of sites you visit
 
-This information can be used for online preference marketing and profiling purposes. In these instances, Abacin has no control over the information collected by the third-party service providers, and may not be held responsible for the actions of the third-party measurement services where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please [contact Abacin](https://web.archive.org/web/20080603124714id_/http%3A//www.abacin.com/site/contact.php). 
+This information can be used for online preference marketing and profiling purposes. In these instances, Abacin has no control over the information collected by the third-party service providers, and may not be held responsible for the actions of the third-party measurement services where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please [contact Abacin](https://web.archive.org/web/20081012222305id_/http%3A//www.abacin.com/site/contact.php). 
 
 If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, you may either visit each ad server's web site individually and opt out or you may visit the [ Network Advertising Initiative ](http://www.networkadvertising.org/optout_nonppii.asp) to opt-out of many third-party advertising companies' cookies. 
 
