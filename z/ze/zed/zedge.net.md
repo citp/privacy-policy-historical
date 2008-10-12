@@ -1,33 +1,50 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626164447id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012200742id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
 
-# Zedge Privay Policy
+# Zedge | Privacy policy
 
-## Zedge Privacy Policy
+[](http://www.truste.org/ivalidate.php?url=www.zedge.net&sealid=101)
 
- **1\. Information collection and use**  
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services at Zedge. Such services include newsletters, competitions, "Alert Email", live chats, message boards and Zedge membership.
+This policy is presented to you in order to help you make an informed decision about using this service and to explain to you what information we collect, how we store that information and how we may use it. By using our website, you are consenting to have your personal data transferred to and processed in the United States in accordance with the terms of this Privacy Policy.
 
-By entering your details in the fields requested, you enable Zedge and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. Zedge will act in accordance with current legislation and aim to meet current Internet best practice.
+[Click here to view the summary of material revisions](https://web.archive.org/privacy-policy-changes/)
 
-**2\. Information on visitors**  
-During the course of any visit to Zedge, the pages you see, along with something called a cookie, are downloaded to your computer (see point 3 for more details on this). Most, if not all, websites do this, because cookies allow the website publisher to ascertain whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+Zedge is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.zedge.net and its directly associated domains. Because Zedge wants to demonstrate its commitment to your privacy, Zedge has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. For example: if on a previous visit you went to the mobile wallpaper section, then we might find this out from your cookie and highlight wallpapers on a second visit.
+If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows:
 
-**3\. What is a cookie?**  
-When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
+Mail: Zedge Ltd. Att: Chief Privacy Officer, 520 Broad Street Newark, NJ 07102  
+Email: [privacy@zedge.net](mailto:privacy@zedge.net)  
+Telephone: +1 (973) 438-3344
 
-NB: Even if you haven't set your computer to reject cookies you can still browse our site anonymously until such time as you register for Zedge services.
+If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-**4\. Use and storage of your personal information**  
-When you supply any personal information to Zedge (e.g. for competitions, Zedge Community services or Zedge membership) we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it and tell you if we want to pass the information on to anyone else. In general, any information you provide to Zedge will only be used within Zedge and by its service providers. It will never be supplied to anyone outside Zedge without first obtaining your consent, unless we are obliged or permitted by law to disclose it. Also, if you post or send offensive or inappropriate content anywhere on or to Zedge or otherwise engage in any disruptive behaviour on Zedge, and Zedge considers such behaviour to be serious and/or repeated, Zedge can use whatever information that is available to it about you to stop such behaviour. This may include informing relevant third parties such as your employer, school or e-mail provider about the content and your behaviour.
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of you no longer wish to continue your status as a Zedge member. For safety reasons, however, Zedge may store messaging transcript data (including message content, member names, times and dates) arising from the use of Zedge Community services for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other Zedge services (eg competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
+####  **1\. What information do we collect?** 
 
-If you are notified on Zedge that your information may be used to allow Zedge to contact you for "service administration purposes", this means that Zedge may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that a particular service has been improved or suspended.
+When you enter this website, we collect your browser information (which typically includes browser type, version, host operating system and browser language) and IP address. This information is gathered for all visitors. In general, you can browse this website without giving us any additional information. However, to enjoy the benefits of a number of the services offered on this website, they can only be made available if we have certain information about you. To access these services, you will, from time to time, be asked to submit personal information about yourself. In order to provide you with an account at Zedge that allows you to store your preferences and which includes other benefits and conveniences of our service, we need to collect information from you when you register such as your screen name and password, gender, date of birth, email address, mobile phone information, location (by country) and local time zone. You will also be asked about your desire to receive a number of optional services that include newsletters, competitions, alerts, SMS text messages, live chats, message boards and other benefits of Zedge membership. You may view and make adjustments to your user preferences at any time by logging into Zedge and selecting "[My Account](https://web.archive.org/my-account/)".
 
-**5\. Access to your personal information**  
-You have the right to request a copy of the personal information Zedge holds about you and to have any inaccuracies corrected. (There is a small charge for such administration requests.)
+Should you choose to include additional personal information to be displayed on your user profile on our website we will necessarily process these details. Voluntarily submitted profile details means we may also collect from you information such as:
 
-**6\. Users 16 and under**  
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Zedge's website. Users without this consent are not allowed to provide us with personal information.
+  * more detailed contact information (including hometown and/or a picture of yourself);
+  * information regarding your personal or professional interests;
+  * your likes and dislikes; and
+  * information regarding your experiences with our services.
+
+
+
+If you choose to submit information about your religious or philosophical beliefs, your health, sexual life, racial or ethnic background, criminal history or trade union membership Zedge would necessarily have to process those details in operating your account and profile and your submission would be your explicit consent for us to do so.
+
+You will have the opportunity to make your user profile information visible (public) or invisible (private/hidden). By default, profile information is set to visible. You can change your profile to invisible (and vice-versa) at any time by going to "My Account" selecting the link for "Edit Profile" and then making the selection under "Public Profile Status".
+
+If you make any postings to public areas, such as forums, guestbook, or by providing content, then this information will be stored on our databases for public viewing, and in such case any personally identifiable information you submit will be publicly available and can be read, collected and used by other users, and could be used to send you unsolicited messages.
+
+By entering your details in the fields requested, you enable Zedge and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
+
+####  **2\. Information on visitors** 
+
+During the course of any visit to Zedge, the pages you see, along with something called a "cookie", is downloaded to your computer. Most websites do this, because cookies allow the website publisher to ascertain whether the computer (and probably its user) has visited the site before. Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. They make it easier for you to maintain your preferences on Zedge, and by seeing how you use Zedge; we can tailor our website around your preferences. For example: if on a previous visit you went to the mobile wallpaper section, then we might find this out from your cookie and highlight wallpapers that might interest you on your next visit.
+
+####  **3\. More information about cookies** 
+
+The purpose of cookies used by Zedge has been previously explained above in this Privacy Policy. When you enter a
