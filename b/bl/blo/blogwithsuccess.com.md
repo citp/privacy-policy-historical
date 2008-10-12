@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogwithsuccess.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612213636id_/http%3A//blogwithsuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwithsuccess.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012233833id_/http%3A//blogwithsuccess.com/privacy.html) for the most accurate reproduction.*
 
 # blog with success
 
@@ -56,7 +56,7 @@ BlogwithSuccess.com is controlled, operated and administered entirely within Flo
 
 > > > >  
 
-[Contact Us](http://support.dreams2freedom.com/) | [Terms And Conditions](http://blogwithsuccess.com/terms.html) | [Disclaimer](http://blogwithsuccess.com/disclaimer) | [Privacy Policy](https://web.archive.org/web/20080612213636id_/http%3A//blogwithsuccess.com/blogwithsuccess.com/privacy.html)
+[Contact Us](http://support.dreams2freedom.com/) | [Terms And Conditions](http://blogwithsuccess.com/terms.html) | [Disclaimer](http://blogwithsuccess.com/disclaimer) | [Privacy Policy](https://web.archive.org/web/20081012233833id_/http%3A//blogwithsuccess.com/blogwithsuccess.com/privacy.html)
 
   
 
