@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517225536id_/http%3A//www.stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012222049id_/http%3A//stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
 
 # Stansberry & Associates Investment Research - Privacy Policy
 
@@ -20,6 +20,7 @@ Investment Advisory](https://web.archive.org/pub/psi/index.asp)
   | [S&A Dividend Grabber ](https://web.archive.org/pub/div/index.asp)  
   | [International Strategist](https://web.archive.org/pub/tsl/index.asp)  
   | [Quant Trader](https://web.archive.org/pub/tqt/index.asp)  
+  | [True Income](https://web.archive.org/pub/tin/index.asp)  
   | [The S&A Digest ](https://web.archive.org/pub/digest/)  
 ****  
   | [Monthly Dividend Program](https://web.archive.org/pub/mdp/)  
@@ -27,6 +28,7 @@ Investment Advisory](https://web.archive.org/pub/psi/index.asp)
   | [The S&A Alliance](https://web.archive.org/pub/pal/index.asp)  
   | [True Wealth Alliance](https://web.archive.org/pub/sug/index.asp)  
   | [Private Wealth Alliance](https://web.archive.org/pub/pwa/index.asp)  
+  | [Income Alliance](https://web.archive.org/pub/tal/index.asp)  
   |    
 |  | 
 
@@ -62,4 +64,4 @@ All contents of this website are copyright 2007 by Stansberry & Associates Inves
 
 DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we've learned as financial journalists. It may contain errors, and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.  
   
-©2008 Stansberry & Associates Investment Research. All Rights Reserved. Protected by copyright laws of the United States and international treaties. This website may only be used pursuant to the subscription agreement and any reproduction, copying, or redistribution (electronic or otherwise, including on the world wide web), in whole or in part, is strictly prohibited without the express written permission of Stansberry & Associates Investment Research, LLC. 1217 Saint Paul Street, Baltimore MD 21201. 
+©2008 Stansberry & Associates Investment Research. All Rights Reserved. Protected by copyright laws of the United States and international treaties. This website may only be used pursuant to the subscription agreement and any reproduction, copying, or redistribution (electronic or otherwise, including on the world wide web), in whole or in part, is strictly prohibited without the express written permission of Stansberry & Associates Investment Research, LLC. 1217 Saint Paul Street, Baltimore MD 21202. 
