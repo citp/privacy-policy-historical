@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501235745id_/http%3A//redeye.chicagotribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012150914id_/http%3A//www.redeyechicago.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Redeye | Services
+# Privacy Policy | RedEye | Services
 
 RedEyeChicago.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by RedEyeChicago.com online and does not impact information collected or used by RedEyeChicago.com or its affiliates through other means.
 
