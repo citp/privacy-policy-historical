@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2008-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080106002235id_/http%3A//www.vishalon.net/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013014921id_/http%3A//www.vishalon.net/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Home
+# Explore Vishal Monpara's cyber home
 
 Vishal Monpara is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Vishal Monpara Web site and governs data collection and usage. By using the Vishal Monpara website, you consent to the data practices described in this statement.
 
