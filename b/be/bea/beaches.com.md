@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the beaches.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420210357id_/http%3A//www.beaches.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaches.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012033948id_/http%3A//www.beaches.com/general/privacty.cfm) for the most accurate reproduction.*
 
 # Couples All-Inclusive Resorts
 
-[ ](http://www.beaches.com/index.cfm "Caribbean Resorts") | 
+| 
 
 This privacy statement covers the Sandals.com and Beaches.com websites. Because these web sites want to demonstrate their commitment to our users' privacy, they have agreed to disclose their information practices and their privacy practices. 
 
 |  Information Collection   
 ---  
-Unique Vacations, Inc. is the sole owner of the information collected on Sandals.com and Beaches.com. Unique Vacations, Inc., as the worldwide representative for Sandals and Beaches, collects information from our users at several different points on our Web site.  
+Unique Vacations, Inc. is the sole owner of the information collected on Sandals.com and Beaches.com. Unique Vacations, Inc., as the worldwide representative for Sandals and Beaches, collects information from our users at several different points on our Web site. Unique Vacations, Inc. provides a number of ways for visitors/customers to 'opt-out' of receiving additional information from us. These are offered at the time visitors/customers provide us their information, when they receive an e-correspondence and/or by sending a written inquiry to Unique Vacations, Inc., 4950 S.W. 72 Ave., Miami, FL 33155. If visitors/customers do not wish to continue receiving any online promotional communications from Unique Vacations, Inc, such as e-mail or online newsletters, they can opt-out of receiving these communications by clicking on the unsubscribe link located on the bottom of the e-correspondence received.  
 Brochure Request and Booking Engine   
 ---  
 We request information from the user on our brochure request forms and in our booking engines. A user must provide contact information (such as name, email, and mailing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, the information is used to contact the user.   
