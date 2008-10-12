@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ket.org privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618201333id_/http%3A//ket.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ket.org privacy policy that was archived on 2008-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081013005804id_/http%3A//www.ket.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,6 +11,7 @@
 <script type="text/javascript" src="/includes/global_emailhide.js"></script>
 <script type="text/javascript" src="/includes/global_schedulepopup.js"></script>
 <script type="text/javascript" src="/includes/global_atoz.js"></script>
+<script type="text/javascript" src="/includes/global_verify.js"></script>
 <link rel="stylesheet" type="text/css" href="/style/global_ket_basic.css">
 <style type="text/css" media="all">@import url(/style/global_ket_advanced.css);</style>
 
@@ -25,26 +26,26 @@
 	<!-- Skip -->
 	<p id="ketglobalnavskip"><a href="#endglobalnav">Skip Navigation</a></p>
 	<!-- Logo -->
-	<div id="ketgloballogo"><a href="/" title="Kentucky Educational Television" target="_top"><img src="/images/global_ket_logo.gif" alt="KET"></a></div>
+	<div id="ketgloballogo"><a href="/" title="Kentucky Educational Television" target="_top"><img src="/images/global_ket_logo.gif" alt="KET"></a></div><!-- /#ketgloballogo -->
 	<!-- Search -->
-	<form method="get" action="/cgi-bin/tvschedules/search.pl" name="searchForm" id="ketglobalsearch" target="_top"><input type="hidden" name="layout" value="homepage" alt="hidden"><input type="hidden" name="origin" value="/www.ket.org/" alt="Search Box"><a href="/search/" target="_top">Search»</a><div><input name="q" type="text" class="searchbox" size="9" maxlength="80" alt="Search Box">&nbsp;<input name="ketglobalsearchbutton" type="submit" class="globalgo" value="GO!" onmouseover="this.className='globalgo globalgohvr'" onmouseout="this.className='globalgo'" alt="Search Button"></div></form>
+	<form method="get" action="/cgi-bin/tvschedules/search.pl" name="searchForm" id="ketglobalsearch" target="_top"><input type="hidden" name="layout" value="homepage" alt="hidden"><input type="hidden" name="origin" value="/www.ket.org/" alt="Search Box"><label for="topsearch"><a href="/search/" target="_top">Search»</a></label><div><input name="q" type="text" class="searchbox" size="9" maxlength="80" alt="Search Box" id="topsearch">&nbsp;<input name="ketglobalsearchbutton" type="submit" class="globalgo" value="GO!" onmouseover="this.className='globalgo globalgohvr'" onmouseout="this.className='globalgo'" alt="Search Button" onclick="verify(this.form);"></div><!-- empty div --></form>
 	<!-- Links -->
 	<div id="ketgloballinks">
 		<!-- Tools -->
 		<div id="ketglobaltools">
 			<strong>Tools: </strong>
-			<a href="/about/" class="g-about" target="_top">About KET</a><span> | </span><a href="/tvschedules/" class="g-schedule" target="_top">TV&nbsp;Schedules</a><span> | </span><a href="/tvschedules/a-z/" onclick="javascript:sitesatoz();return false;" class="g-programsaz" target="_top">Programs&nbsp;A-Z</a><span> | </span><a href="/explore/" class="g-explore" target="_top">Explore by Topic</a><span> | </span><!--a href="/" class="g-shop" target="_top">Shop KET</a><span> | </span --><a href="/support/" class="g-support" target="_top">Support KET</a>
-		</div>
+			<a href="/about/" class="g-about" target="_top">About KET</a><span> | </span><a href="/tvschedules/" class="g-schedule" target="_top">TV&nbsp;Schedules</a><span> | </span><a href="/tvschedules/a-z/" onclick="javascript:sitesatoz();return false;" class="g-programsaz" target="_top">Programs&nbsp;A-Z</a><span> | </span><a href="/cgi-bin/schedule/explore.pl" class="g-explore" target="_top">Explore by Topic</a><span> | </span><!--a href="/" class="g-shop" target="_top">Shop KET</a><span> | </span --><a href="/support/" class="g-support" target="_top">Support KET</a>
+		</div><!-- /#ketglobaltools -->
 		<!-- Genres -->
 		<div id="ketglobalgenres">
 			<strong>Genres:</strong> <a href="/arts/" class="g-arts" target="_top">Arts</a><span> | </span><a href="/education/" class="g-education" target="_top">Education</a><span> | </span><a href="/health/" class="g-health" target="_top">Health</a><span> | </span><a href="/kentucky/" class="g-kentucky" target="_top">Kentucky</a><span> | </span><a href="/kidsandfamilies/" class="g-kidsandfamilies" target="_top">Kids &amp; Families</a><span> | </span><a href="/publicaffairs/" class="g-publicaffairs" target="_top">Public&nbsp;Affairs</a>
-		</div>	
-	</div>
+		</div><!-- /#ketglobalgenres -->
+	</div><!-- /#ketgloballinks -->
 <hr>
-</div>
-<a name="endglobalnav"></a>
-<!-- -->
+</div><!-- /#ketglobalnavbar -->
 <!-- /KET Global Navigation -->
+<a name="endglobalnav"></a>
+
 </div>
 	<div id="header">
 		<img src="/images/global_tagline.gif" alt="Kentucky Educational Television">
@@ -89,25 +90,33 @@
 		<div id="footer">
 			<!-- KET Global Footer -->
 <hr>
-<div id="ketglobalfooter">	
+<div id="ketglobalfooter">
 	<div id="footerlinks">
 	<h4>KET Navigation</h4>
-		<ul class="site"><li><a href="/">KET&nbsp;Home</a></li><li><a href="/about/">About&nbsp;KET</a></li><li><a href="/contact/">Contact&nbsp;Us</a></li><!--<li><a href="/">Shop KET</a></li>--><li><a href="/search/">Search</a></li><!--<li><a href="/">Site Map</a></li>--></ul>
-		<ul class="footertools"><li><a href="/jobs/">Jobs/Internships</a></li><li><a href="/pressroom/">PressRoom</a></li><li><a href="/privacy/">Privacy&nbsp;Policy</a></li><li><script language="javascript" type="text/javascript">email("Webmaster","webmaster");</script><a href="mailto:webmaster@ket.org">Webmaster</a></li></ul>
+		<ul class="site"><li><a href="/">KET&nbsp;Home</a></li><li><a href="/about/">About&nbsp;KET</a></li><li><a href="/contact/">Contact&nbsp;Us</a></li><!--<li><a href="/">Shop KET</a></li>--><li><a href="/search/">Search</a></li><!--<li><a href="/">Site Map</a></li>--><li><a href="/privacy/">Privacy&nbsp;Policy</a></li></ul>
+		<ul class="footertools"><li><a href="/pressroom/">PressRoom</a></li><li><a href="/jobs/">Jobs/Internships</a></li><!--<li><a href="/surplus/">Surplus&nbsp;Property&nbsp;Sales</a></li>--><li><script language="javascript" type="text/javascript">email("Webmaster","webmaster");</script><a href="mailto:webmaster@ket.org">Webmaster</a></li></ul>
 	</div><!-- /footerlinks -->
 	<div id="address">600 Cooper Drive | Lexington, KY 40502 | (859)&nbsp;258-7000 | (800)&nbsp;432-0951</div>
 	<div id="copyright">©&nbsp;Copyright 2008,&nbsp;KET</div>
 </div><!-- /ketglobalfooter -->
 
 
+<!-- KET Global Footer Utilities -->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-2185463-1"; urchinTracker(); _uff=0; _uacct = "UA-1741309-4"; urchinTracker();</script>
-<!-- UA-2185463-1 is KET.org Tracking Number -->
-<!-- UA-2185463-2 is KET SECURE Tracking Number -->
-<!-- UA-2185463-3 is DL.org Tracking Number -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-<!-- UA-1741309-4 is Bill Haenel's Tracking Number -->
+<script type="text/javascript">
+	var trackerA = _gat._getTracker("UA-2185463-1");  //<<KET's tracking number
+	trackerA._initData();
+	trackerA._trackPageview();
+	var trackerB = _gat._getTracker("UA-1741309-4"); //<<Bill's ket.org tracking number
+	trackerB._initData();
+	trackerB._trackPageview();
+</script>
+
 
 
 
