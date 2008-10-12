@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingandcommerce.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623074522id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingandcommerce.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012100306id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # North American Publishing Company • Privacy Policy
 
