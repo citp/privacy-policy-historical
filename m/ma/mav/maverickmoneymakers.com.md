@@ -1,0 +1,71 @@
+> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013155139id_/http%3A//www.maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
+
+# Maverick Money Makers™ - Earnings Disclaimer
+
+Maverick Money Makers  
+Privacy Policy
+
+Effective September 1, 2008
+
+  
+www.MaverickMoneyMakers.com (the "Site") is owned and operated by Maverick Money Makers (the "Company"). By using the Site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. Do not use the Site if you do not agree with this Privacy Policy.
+
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how the Site collects information from all end users of our Internet services ("Services"), including those who access some of our Services but do not have accounts ("Visitors"), as well as those who may purchase products and/or pay a monthly fee to subscribe to our Services ("Members"). This Privacy Policy also describes what we do with the information we collect, and the choices that Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+
+Changes to the Privacy Policy  
+We reserve the right to revise, amend, or modify this Privacy Policy at any time by updating this posting. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Site following any changes to this Privacy Policy will constitute your acceptance of such changes.
+
+Personal Information We Collect and How It Is Used
+
+We may collect personally identifiable information from you such as your name, postal address, telephone number, fax number and email address ("Personally Identifiable Information"). We will collect Personally Identifiable Information from you when you actively give us the information, such as when you order or purchase products or Services, register to receive materials, such as a newsletter, or otherwise communicate with the Site.
+
+Service Providers: When you become a Member, purchase products or Services, or use other features on the Site, we request that you provide financial information, such as account or credit card numbers ("Financial Information"). We will use your financial information to bill you for products and Services and otherwise process your transactions. By making a purchase on the Site, you consent to our sharing your Personally Identifiable Information and Financial Information with our service providers and to such third parties as we determine is necessary to process your transactions, including, Brain Tree Payment Solutions ("Brain"). These third parties may include credit card companies and banking institutions used to process the transaction. We contractually prohibit these third parties from using your Personally Identifiable Information for any other purpose. We may use third party contractors to help us operate our business and administer activities on our behalf, such as authorization of credit card transactions, and may share your information with these contractors for those limited purposes.
+
+Online Shopping: At some Web sites described within our Site, you can purchase products and services or register to receive materials, such as a newsletter. You can decide whether or not to use these sites or services at your own discretion.
+
+Order Confirmation: If you order Services or products directly from us, we may share the Personally Identifiable Information you provide on our confirmation page with a select group of third party marketing partners that offer similar products/services you may be interested in. We only work with marketing partners that contractually agree to offer you the ability to opt-out of receiving future offers, and contractually agree not to share your information with others. Our third party marketing partners are separate from the Site and we are not responsible for their content or offers. If you do not wish your information to be shared with our marketing partners, please do not order our products, or contact us at the address below. 
+
+Responses to Email Inquiries: When Visitors or Members send email inquiries to us, the return email address is used to answer the email inquiry we receive. We do not use the return email address for any other purpose and do not share the return email address with any third party. We may retain these emails for our records, only for use as a reference.
+
+Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. If you subscribe to our newsletter, we may share the Personally Identifiable Information you provide with a select group of third party marketing partners that offer similar products/services you may be interested in. We only work with marketing partners that contractually agree to offer you the ability to opt-out of receiving future offers, and contractually agree not to share your information with others. Our third party marketing partners are separate from the Site and we are not responsible for their content or offers. If you do not wish your information to be shared with our marketing partners, please do not order our products, or contact us at the address below. 
+
+Choice/Opt-out: We provide you the opportunity to ‘opt-out’ of receiving our newsletter, in which case your email address is permanently removed from our database, but please note that we cannot prohibit third parties from maintaining your information once we have shared your information with them in accordance with this Privacy Policy. If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter.
+
+We may use your Personally Identifiable Information to contact you with information we think you would be interested in. If you do not want to receive this information, email us at privacy@directsupportcenter.com. Email messages will also provide you with an opportunity to opt-out of receiving this information. Please note that changes to your preferences may not be effective immediately.
+
+Testimonials: If you submit a testimonial, you should be aware that any Personally Identifiable Information you submit, such as your name, Web site, city and/or country of residence may be displayed on our Site, where it could potentially be used by third parties to contact you, or send you unsolicited messages. We are not responsible for the Personally Identifiable Information you choose to submit in a testimonial.
+
+"Non-personally Identifiable Information" and How We Use It: We may collect non-personally identifiable information such as your Web Site browsing patterns, IP address and demographic information, such as your zip code and income level ("Non-personally Identifiable Information"). We use this Non-personally Identifiable Information to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. We may also share Non-personally Identifiable Information in the aggregate form with third parties to illustrate trends and patterns. We collect Non-personally Identifiable Information from you by "passive" means, often through the use of cookies. In addition, on occasion, the Site may also set a "session cookie" to help us administer the Site. A session cookie expires when you close your browser and does not retain any information about you after it expires. 
+
+If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and marketing partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+Legal: If Company is sold to, or merges with, another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site, or to protect our company and our Members.
+
+Our Commitment to Children’s Privacy
+
+Protecting children’s privacy is especially important to us. This Site is not intended for use by children. We will not knowingly collect any Personally Identifiable Information submitted by visitors to the Site who are under the age of 13.
+
+Our Commitment to Data Security
+
+The Site and our Services have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent unauthorized third-parties from illegally obtaining this information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot ensure or warrant the security of any information you transmit to us.
+
+Links  
+The Site may contain links to other sites, including, among others, those of advertisers, other third parties and companies whose trademarks may appear on the Site. We are not responsible for the information collection practices or the content of the sites to which we link.
+
+Community Functions
+
+The Site may make available to Visitors and Members chat rooms, forums, message boards, and/or other community functions. Remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your Personally Identifiable Information, Financial Information, or other information. You should use community functions at your own risk.
+
+Contact Us
+
+If you have questions about our Privacy Policy or the practices described herein, you may contact us at:
+
+Maverick Money Makers  
+228 Park Ave. South #11130   
+New York, New York 10003 
+
+Effective Date: March 1, 2008.
+
+*NOTICE* - Anyone who distributes illegal copies of our program, or uses our trademarked/copyrighted Process at Home text and/or images without permission will be reported to their billing and/or hosting company, and any other related companies for account closure. We will follow with a federal copyright infringement lawsuit in accordance with the The Digital Millennium Copyright Act (DMCA). To date we have successfully prosecuted 27 parties.
+
+The entire contents of this website is Copyright (c) 2008 by MaverickMoneyMakers.com. All rights reserved. This site may not be copied in whole or in part without the express written permission of the publisher. All violators will be prosecuted to the fullest extent of the law.
