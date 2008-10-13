@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510140331id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013025951id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
 
-# Online Casino Tropez | Privacy Statement
+# Privacy Statement
 
 ##### Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy.
 
@@ -40,16 +40,16 @@ If you have any other questions or concerns regarding data privacy and security 
 
 Our Certifications and What They Mean
 
- **Turbo SSL® certificate**  
+**Turbo SSL® certificate**   
 Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.
 
- **Under-Age Gambling.**  
+**Under-Age Gambling.**   
 It is absolutely against the law to gamble if you are under the age of 18. Secondly, it is against our own Terms of Use. Casino Tropez is opposed to gambling by minors, and has taken steps to prevent it. This logo shows that we make every effort to prevent gaming by those under 18, which is illegal in all jurisdictions and under our Gambling Registration (see also Terms of Use page, Section 3 – Legal Requirements).
 
- **Parents:**  
+**Parents:**   
 if your computer is accessed by under-age children, you can prevent their gambling. It’s very simple: there are “site-filter” programs like NetNanny, PC TimeCop or BrightFilter that will prevent minors from accessing gambling sites. 
 
-**Kahnawake Gaming Commission.**  
+**Kahnawake Gaming Commission.**   
 We are licensed by the Kahnawake Gaming Commission, an international gaming licensing and regulatory authority. Their regulations state, in part: 
 
 The Regulations are designed to ensure that all interactive gaming and gaming- related activities satisfy three basic principles: 
@@ -59,7 +59,7 @@ The Regulations are designed to ensure that all interactive gaming and gaming- r
 
 
 
-**TST Technical Systems Testing.**  
+**TST Technical Systems Testing.**   
 TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards. Note: all our gaming software is written by PlayTech, the leading software provider in the gaming industry. Therefore, the TST compliance letters feature PlayTech’s name. As a PlayTech client, we use their software without alteration and therefore can display this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be accessed from the hyperlinks at the bottom of our webpage. 
 
   
