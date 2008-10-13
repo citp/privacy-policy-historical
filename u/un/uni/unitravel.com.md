@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623055952id_/http%3A//www.ghrsgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014003523id_/http%3A//www.ghrsgroup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ The present document defines the conditions specified by GHRS in order to use th
 By navigating the sites of the network and utilizing the reservation services provided by GHRS, the User declares to have read, understood and accepted the conditions laid down by the present documents.
 
 **1\. The company**  
-You are surfing on one of the sites of UniTravel Network, that is owned and managed by GHRS S.r.l. The company’s head office is based in Venice, Italy, Via Lazzarini 13, P. IVA 034584902777, registered in N REA. VE-310017.  
+You are surfing on one of the sites of UniTravel Network, that is owned and managed by GHRS S.r.l. The company’s head office is based in Venice, Italy, Via Lazzarini 13, P. IVA 03458490277, registered in N REA. VE-310017.  
 GHRS is also a registered travel agency, trading as UniTravel, in the province of Venice No. 59224 dated 11/9/03, IATA Code 382-69221.
 
 **2\. Security and Privacy**  
@@ -87,7 +87,7 @@ GHRS will communicate collected data exclusively to the partner of the requested
 GHRS under current laws must disclose personal data to the authorities should they be required to do so. In addition GHRS may disclose personal data to safeguard itself if the User behaves in an illegal manner.
 
 **Ability to check the use of personal data and self access**  
-GHRS believes that both users and visitors should have control of the data collected and how the data should be used. Requests can be made by contacting GHRS S.r.l, Via Lazzarini 13, 30175 Venice, Italy on +39 041 8620411 or by the email address written below.
+GHRS believes that both users and visitors should have control of the data collected and how the data should be used. Requests can be made by contacting GHRS S.r.l, Via Lazzarini 13, 30175 Venice, Italy on +39 041 8620433 or by the email address written below.
 
 **GHRS communication**  
 Users will receive communication when:
