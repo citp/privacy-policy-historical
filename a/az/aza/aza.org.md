@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515221648id_/http%3A//www.aza.org/AboutAZA/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013112210id_/http%3A//www.aza.org/AboutAZA/PrivacyPolicy/index.html) for the most accurate reproduction.*
 
 # Association of Zoos and Aquariums
 
 Last update: September 18, 2006.
 
-The Association of Zoos and Aquariums (AZA) is committed to your right to privacy and to keeping your personal information private. This Privacy Policy governs the URL [http://www.AZA.org](https://web.archive.org/web/20080515221648id_/http://www.aza.org/index.html), [http://www.members.org](http://www.members.org/) and [http://xlists.aza.org](http://xlists.aza.org/) (hereafter the "Site"). By accessing this Site, you agree to the terms set forth in this Privacy Policy. 
+The Association of Zoos and Aquariums (AZA) is committed to your right to privacy and to keeping your personal information private. This Privacy Policy governs the URL [http://www.AZA.org](https://web.archive.org/web/20081013112210id_/http%3A//www.aza.org/index.html), [http://www.members.org](http://www.members.org/) and <http://lists.aza.org/cgi-bin/mailman/listinfo> (hereafter the "Site"). By accessing this Site, you agree to the terms set forth in this Privacy Policy. 
 
 This Site is owned and operated by AZA for the benefit of its members and other visitors interested in zoos and aquariums. Our headquarters is located at 8403 Colesville Road, Suite 710, Silver Spring, Maryland 20910-3314. AZA reserves the right to modify or amend this Privacy Policy at any time and for any reason, without notice. You should check this Privacy Policy each time that you visit the site to identify changes made since your last visit. By continuing to access or use the Site, you agree to be bound by any modifications to this Privacy Policy. Please consult our Terms of Use for additional conditions that apply to your use of, and access to, the Site.
 
@@ -32,7 +32,7 @@ If your volunteered personal information will be used in any manner other than a
 
 AZA links to other web sites not affiliated with AZA. AZA attempts to link only to those web sites which also respect a visitor's privacy and the goals of AZA. However, AZA cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that AZA currently links to, please inform AZA by contacting us at [General Inquiry](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org). 
 
-For more information regarding linking to the AZA web site, please read the [Terms of Use](https://web.archive.org/web/20080515221648id_/http://www.aza.org/AboutThisSite/index.html) on our web site.
+For more information regarding linking to the AZA web site, please read the [Terms of Use](https://web.archive.org/web/20081013112210id_/http%3A//www.aza.org/AboutThisSite/index.html) on our web site.
 
 ##### Security
 
