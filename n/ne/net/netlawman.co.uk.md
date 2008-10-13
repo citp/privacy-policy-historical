@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630231509id_/http%3A//netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013224935id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
 
 # UK Legal Documents, Legal Forms and Legal advice
 
@@ -51,7 +51,7 @@ We are subject to the law like everyone else. We may be required to give informa
 To assist in combatting fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
 
   7. **Update your information**  
-At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20080630231509id_/http%3A//netlawman.co.uk/netlawman-contact.php). 
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20081013224935id_/http%3A//www.netlawman.co.uk/netlawman-contact.php). 
 
 
 
