@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernluxury.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061822id_/http%3A//www.modernluxury.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernluxury.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013215312id_/http%3A//www.modernluxury.com/signup/privacy) for the most accurate reproduction.*
 
-# Hot List Sign Up - Privacy Policy - Modern Luxury Media
+# Sign Up - Privacy Policy - Modern Luxury Media
 
 Modern Luxury Media Magazine Circulation Policy
 
@@ -19,7 +19,7 @@ From time to time, Modern Luxury Media does share names, postal addresses, and d
 
 Modern Luxury Media Online Privacy Policy
 
-At Modern Luxury Media, we realize your privacy is important. This policy addresses the information collected and how we use that information when you register for a newsletter (such as The Modern Luxury Hot List) and/or visit our Web site. Any changes to the policy will be posted here. If you have any questions or concerns about our policy or its implementation, you may contact us at this email address: [OnlinePrivacy@modernluxury.com](mailto:OnlinePrivacy@modernluxury.com)
+At Modern Luxury Media, we realize your privacy is important. This policy addresses the information collected and how we use that information when you register for a newsletter and/or visit our Web site. Any changes to the policy will be posted here. If you have any questions or concerns about our policy or its implementation, you may contact us at this email address: [OnlinePrivacy@modernluxury.com](mailto:OnlinePrivacy@modernluxury.com)
 
 **Children’s Privacy**  
 Modern Luxury Media online products are not intended for children under the age of 13.
@@ -27,7 +27,7 @@ Modern Luxury Media online products are not intended for children under the age 
 Information We Collect and How We Use It
 
 **Personal Information**  
-During sign-up for a newsletter, we ask you for your email address so that we may send you the newsletter. We will also ask for your zip code. Modern Luxury may share this information so that we may deliver you the products you have requested, such as the Hot List. In addition, we may share this information as required by law or a court order. Modern Luxury Media will never sell, share, or rent your personal information for marketing purposes without your express permission.
+During sign-up for a newsletter, we ask you for your email address so that we may send you the newsletter. We will also ask for your zip code. Modern Luxury may share this information so that we may deliver you the products you have requested. In addition, we may share this information as required by law or a court order. Modern Luxury Media will never sell, share, or rent your personal information for marketing purposes without your express permission.
 
 **Non-Personal Information**  
 We will also ask you for non-personally identifiable demographic information—including, but not limited to, your gender, your income and age range, and your interests—so that we may better provide you with content and services best suited to you. 
