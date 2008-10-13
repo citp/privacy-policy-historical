@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardtv.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619033904id_/http%3A//www.rewardtv.com/help/privacy.sdo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardtv.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013142036id_/http%3A//www.rewardtv.com/help/privacy.sdo) for the most accurate reproduction.*
 
 # RewardTV
 
