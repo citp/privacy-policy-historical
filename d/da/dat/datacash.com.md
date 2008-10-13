@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016163707id_/http%3A//www.datacash.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013045440id_/http%3A//www.datacash.com/about/privacy.php) for the most accurate reproduction.*
 
-# DataCash Ltd - Privacy Policy
+# DataCash Processing Secure Internet Payments (Credit and Debit Card, Direct Debit, Online Cash)
 
 ## 1 Introduction 
 
@@ -58,9 +58,9 @@
 
 3.1.6 to administer the Website.
 
-3.2 Additionally, if you consent by ticking the box on the [pricing page](http://www.datacash.com/about/pricing.shtml) at [www.datacash.com](http://www.datacash.com/) we may notify you of services (whether provided by us or some other third party) that may be of interest to you. Your consent is for us to contact you for any of the above purposes whether by telephone, e-mail or by post and to confirm that you do not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+3.2 Additionally, if you consent by ticking the box on the [pricing page](http://www.datacash.com/about/pricing.php) at [www.datacash.com](http://www.datacash.com/) we may notify you of services (whether provided by us or some other third party) that may be of interest to you. Your consent is for us to contact you for any of the above purposes whether by telephone, e-mail or by post and to confirm that you do not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-3.3 You may unsubscribe from our contact list at any time by replying to a promotional communication with the word "unsubscribe" in the subject line (where such communication is by e-mail), by e-mailing us at [unsubscribe@datacash.com](mailto:unsubscribe@datacash.com?subject=unsubscribe) or by telephoning us on 0870 727 4761 between 9.00 am and 5.30 pm Monday to Friday.
+3.3 You may unsubscribe from our contact list at any time by replying to a promotional communication with the word "unsubscribe" in the subject line (where such communication is by e-mail), by e-mailing us at unsubscribe@datacash.com or by telephoning us on 0870 727 4761 between 9.00 am and 5.30 pm Monday to Friday.
 
 3.4 Your Personal Data may be disclosed to other businesses within the DataCash group of companies and to reputable third parties who will assist in the provision of services to you. DataCash requires all such companies and third parties to treat your personal information as confidential and to fully comply with all applicable UK Data Protection laws and, where applicable, consumer legislation from time to time in place. 
 
