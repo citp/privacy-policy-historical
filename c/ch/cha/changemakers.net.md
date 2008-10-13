@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changemakers.net privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625135654id_/http%3A//www.changemakers.net/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changemakers.net privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013020347id_/http%3A//www.changemakers.net/legal) for the most accurate reproduction.*
 
 # Legal & Privacy Policy | Changemakers
 
