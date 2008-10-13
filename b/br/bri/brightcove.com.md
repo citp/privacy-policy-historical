@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630060654id_/http%3A//www.brightcove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013130644id_/http%3A//www.brightcove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy of Brightcove Inc. Service
 
@@ -120,7 +120,7 @@ In order to provide consent for your child, please click on the link below, and 
 
 ### Sign me up for a Brightcove Family Membership!
 
-As a general reminder: Children should always ask a parent for permission before sending personal information to anyone online. Brightcove does not knowingly share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age, without their permission. In addition, Brightcove will not send any direct e-mail offers to users who indicate they are under the age of 13. Brightcove strongly suggests that parents read the [Online Bulletin ](https://web.archive.org/web/20080630060654id_/http%3A//www.brightcove.com/childrenssafetybulletin.cfm), published by, and reprinted with the permission of, the National Center for Missing and Exploited Children and that they make use of the Parental Controls available through the Internet and/or your web browser.
+As a general reminder: Children should always ask a parent for permission before sending personal information to anyone online. Brightcove does not knowingly share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age, without their permission. In addition, Brightcove will not send any direct e-mail offers to users who indicate they are under the age of 13. Brightcove strongly suggests that parents read the [Online Bulletin ](https://web.archive.org/web/20081013130644id_/http%3A//www.brightcove.com/childrenssafetybulletin.cfm), published by, and reprinted with the permission of, the National Center for Missing and Exploited Children and that they make use of the Parental Controls available through the Internet and/or your web browser.
 
 If you have any questions about this Notice, about the Brightcove Family Membership, or about the collection or maintenance of your child's personal information anywhere on the Brightcove Service, please contact:
 
