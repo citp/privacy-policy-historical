@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunnerrecords.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511163231id_/http%3A//www.roadrunnerrecords.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnerrecords.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013163239id_/http%3A//www.roadrunnerrecords.com/privacy.aspx) for the most accurate reproduction.*
 
 # Roadrunner Records
 
