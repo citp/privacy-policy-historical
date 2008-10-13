@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520073046id_/http%3A//www.entropiaforum.com/forums/about-entropiaforum/36707-entropiaforum-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013035635id_/http%3A//www.entropiaforum.com/forums/about-entropiaforum/36707-entropiaforum-privacy-policy.html) for the most accurate reproduction.*
 
 # EntropiaForum Privacy Policy - EntropiaForum.com
 
@@ -8,7 +8,7 @@ EntropiaForum Owner/Admin
 
 Posts: 
 
-[2,808](http://www.entropiaforum.com/forums/search.php?do=finduser&u=9992)
+[3,194](http://www.entropiaforum.com/forums/search.php?do=finduser&u=9992)
 
 Blog Entries: [5](http://www.entropiaforum.com/forums/blogs/711/)
 
@@ -16,10 +16,10 @@ Gender:  Ingame:
 
 Location: EntropiaForum
 
-EFD: 66,102.85
+EFD: 137,707.69
 
-Reputation: Amazing   
-Fame: 4 
+Reputation: Outstanding   
+Fame: 15 
 
 Achievements: [2](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)   
 
