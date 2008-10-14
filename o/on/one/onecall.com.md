@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003164927id_/http%3A//www.onecall.com/ContentPage.aspx%3FcpID%3D497) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014115619id_/http%3A//www.onecall.com/ContentPage.aspx%3FcpID%3D497) for the most accurate reproduction.*
 
-# OneCall.com
+# Privacy Policy
 
 We at OneCall, the online retail and mail-order division of Huppin`s Hi-Fi, Photo, & Video, Inc., have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through any of our websites.  This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our websites.  This privacy policy is effective as of October 25, 2004.  Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside.  By using our website(s), you explicitly consent to such use of your information and agree to the terms of this privacy policy.
 
@@ -19,6 +19,8 @@ We automatically collect certain information to help us understand how visitors 
 ****Our Information Sharing Practices****
 
 Service Providers.  From time to time, we may enter into relationships with third parties who provide services to us (e.g., credit card processing services, shipping services, or data management and storage services).  In those circumstances, we disclose information about you that is necessary for such service providers to perform those services.
+
+OneCall has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") to facilitate customer reviews of products sold by OneCall. When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies. Accordingly, you should review them prior to submitting any product review (see <http://www.buzzillions.com/public/legal/index_en_US.html> ). The reviews you submit may be posted on both PR's site, Buzzillions site and our site. 
 
 Third-Party Marketers.  In addition, from time to time we may (a) share your name, postal address, and purchase history with third parties so they may contact you regarding goods or services in which you may be interested, and (b) combine information we receive from third parties with information we have collected about you or that you have submitted to make our future marketing efforts more efficient.  If you would like us not to disclose your personal information to third parties for the third parties` direct marketing purposes, please contact us as noted below in "Choice/Opt-Out."
 
