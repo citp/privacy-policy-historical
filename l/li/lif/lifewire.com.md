@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522062221id_/http%3A//www.lifewire.com/content/lifewire-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014200302id_/http%3A//lifewire.com/content/lifewire-online-privacy-policy) for the most accurate reproduction.*
 
 # LifeWire Online Privacy Policy | LifeWire, from The New York Times Company
 
@@ -6,7 +6,7 @@ LifeWire is strongly committed to protecting your privacy and providing a safe o
 
 ##### COLLECTION AND TRACKING OF PERSONAL INFORMATION
 
-So that we can provide you with the most efficient and enhanced service, we request information about you. We collect personally identifiable information such as names, addresses, phone numbers, email addresses. We also may collect your [IP address](https://web.archive.org/web/20080522062221id_/http%3A//www.lifewire.com/content/void\(0\)), browser type, domain name, access times and referring Web site address. This information is collected during registration to our CMS. Information collected at one LifeWire web site will be available within the LifeWire family of web sites. 
+So that we can provide you with the most efficient and enhanced service, we request information about you. We collect personally identifiable information such as names, addresses, phone numbers, email addresses. We also may collect your [IP address](https://web.archive.org/web/20081014200302id_/http%3A//lifewire.com/content/void\(0\)), browser type, domain name, access times and referring Web site address. This information is collected during registration to our CMS. Information collected at one LifeWire web site will be available within the LifeWire family of web sites. 
 
 We will never provide your information to any third party. 
 
