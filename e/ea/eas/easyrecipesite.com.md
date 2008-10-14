@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the easyrecipesite.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309213802id_/http%3A//www.easyrecipesite.com/Privacy_Statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyrecipesite.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014033543id_/http%3A//www.easyrecipesite.com/privacy_statement.php) for the most accurate reproduction.*
 
-# Easy Recipes Site - Privacy Statement
+# Easy Recipes Site - Easy Recipe Site Privacy Policy
 
-You are here:[Home](https://web.archive.org/web/20080309213802id_/http%3A//www.easyrecipesite.com/) > Privacy Statement
-
- **Privacy Policy for EasyRecipeSite.com**
+**Privacy Policy for EasyRecipeSite.com**
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. We never sell your personal information to third parties. The following discloses our information gathering and dissemination practices for this website.
 
