@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403041118id_/http%3A//www.pcwb.com/misc/privacy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014105718id_/http%3A//www.pcwb.com/misc/privacy.jtp) for the most accurate reproduction.*
 
-# PC World Business - Taking Care of Your Business
+# PCWB.com | Desktop PCs, Laptops, Projectors & more
 
 ## Who we are
 
@@ -41,3 +41,5 @@ We would also like to inform you of various promotions, goods and services that 
 ## Other Websites
 
 This privacy policy only covers this website. Any other websites which may be linked to our website are subject to their own policy, which may differ from ours.
+
+[](https://www.scanalert.com/RatingVerify?ref=www.pcwb.com)
