@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wm6software.net privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328055714id_/http%3A//www.wm6software.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wm6software.net privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014101818id_/http%3A//www.wm6software.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WM6Software.net
 
