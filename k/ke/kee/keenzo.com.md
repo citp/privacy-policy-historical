@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2008-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080306210858id_/http%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014135251id_/http%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
 
 # Keenzo - Legal Policies
 
@@ -11,7 +11,7 @@ Mailing Address
 Suite 206  
 Jericho, NY 11753
 
-(516) 684-9357 **  Phone**  
+(516) 280-3767 **  Phone**  
 (516) 706-1464 **  Fax**  
 **  
 Office Hours**  
@@ -19,19 +19,19 @@ Monday - Friday 10am - 5pm EST
 
  **Sales**  
 Account information/ quotes / product information / pre-sales support  
-[Contact Sales](https://web.archive.org/web/20080306210858id_/http%3A//www.keenzo.com/contact.asp)
+[Contact Sales](https://web.archive.org/web/20081014135251id_/http%3A//www.keenzo.com/contact.asp)
 
 **Customer Service**  
 Order/RMA status  
-[ Contact Customer Service](https://web.archive.org/web/20080306210858id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Customer Service](https://web.archive.org/web/20081014135251id_/http%3A//www.keenzo.com/contact.asp)
 
 **Employment Opportunities  
 **Current career opportunities   
-[ Contact Personnel](https://web.archive.org/web/20080306210858id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Personnel](https://web.archive.org/web/20081014135251id_/http%3A//www.keenzo.com/contact.asp)
 
 **Web Site**  
 Compliments, problems, suggestions and questions   
-[ Contact Web Support](https://web.archive.org/web/20080306210858id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Web Support](https://web.archive.org/web/20081014135251id_/http%3A//www.keenzo.com/contact.asp)
 
 | 
 
