@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313213302id_/http%3A//www.wickedlasers.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014060646id_/http%3A//www.wickedlasers.com/laser-tech/privacy.html) for the most accurate reproduction.*
 
-# Laser Pointers, Blue, Green & Red Lasers
-
-|  | 
+# Privacy Policy
 
 |  | 
 
-## Privacy Policy
-
-Wicked Lasers is committed to respecting the privacy of its online visitors and to providing a secure environment for personal information that we collect. This Privacy Policy describes what information we collect and how that information is collected and used.  
+|  |   
+---|---  
+|  Wicked Lasers is committed to respecting the privacy of its online visitors and to providing a secure environment for personal information that we collect. This Privacy Policy describes what information we collect and how that information is collected and used.  
 
 
 ### PERSONAL INFORMATION PROVIDED BY YOU
@@ -70,6 +68,26 @@ Our Website has security measures in place to protect against the loss, misuse o
 
 Wicked Lasers will discontinue contact with any person upon oral or written request.   
 If you have any further questions about our Privacy Policy, the information that we have collected from you online, the practices of this site, your interaction with this Website or to correct and/or change contact information, please contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com).   
+  
+| 
+
+Order Online 24 Hours a Day,  
+7 Days a Week, 365 Days a Year.  
+All personal information you submit is  
+encrypted and 100% secure | 
+
+[ ](https://www.scanalert.com/RatingVerify?ref=www.wickedlasers.com)
+
+| [](http://www.wickedlasers.com/laser-tech/privacy.html)  
+---|---|---  
+|   
+Low Price Guarantee  
+[](http://www.wickedlasers.com/laser-tech/lowprice.html)  
+We guarantee we will not be undersold!  
+---  
+  
+| **100% Satisfaction Guarantee** \- If for any reason you are not satisfied with any item, return it for either an exchange or a full refund of the purchase price.  
+|  |  **Enter your UPS tracking number below:**  
 ---|---  
   
-Copyright© 2007 Wicked Lasers, All rights reserved. 
+Copyright© 2008 Wicked Lasers, All rights reserved.   "Wicked Lasers" is a registered trademark of Wicked Lasers. 
