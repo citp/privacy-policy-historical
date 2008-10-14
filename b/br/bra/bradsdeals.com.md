@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003141608id_/http%3A//www.bradsdeals.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014022053id_/http%3A//www.bradsdeals.com/privacy.cfm) for the most accurate reproduction.*
 
-# BradsDeals:: Privacy Policy
+# BradsDeals Privacy Policy
 
 **Our Commitment to Privacy** Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
