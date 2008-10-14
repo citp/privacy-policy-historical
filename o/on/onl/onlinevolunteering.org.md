@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601101942id_/http%3A//www.onlinevolunteering.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014035640id_/http%3A//www.onlinevolunteering.org/about/privacy.htm) for the most accurate reproduction.*
 
 # UNV Online Volunteering
 
