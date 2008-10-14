@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Proofpoint : > Company > Privacy Policy
 
@@ -81,20 +81,20 @@ Attn: Customer Service
 892 Ross Drive   
 Sunnyvale, CA 94089 
 
-  * [Overview](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/index.php)
-  * [Management](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/management.php)
-  * [Board of Directors](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/board-of-directors.php)
-  * [Investors](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/investors.php)
-  * [Technology Advisors](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/technology-advisors.php)
-  * [Careers](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/careers.php)
-  * [Contact Us](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/company/contact-us.php)
+  * [Overview](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/index.php)
+  * [Management](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/management.php)
+  * [Board of Directors](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/board-of-directors.php)
+  * [Investors](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/investors.php)
+  * [Technology Advisors](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/technology-advisors.php)
+  * [Careers](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/careers.php)
+  * [Contact Us](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/company/contact-us.php)
 
 
 
-[](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/id/trial/index.php)
+[](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/id/trial/index.php)
 
-[](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/solution-builder/)
+[](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/solution-builder/)
 
-[](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/id/livedemo/index.php)
+[](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/id/livedemo/index.php)
 
-[](https://web.archive.org/web/20080630225158id_/http%3A//www.proofpoint.com/id/proofpointnews/index.php)
+[](https://web.archive.org/web/20081014175846id_/http%3A//www.proofpoint.com/id/proofpointnews/index.php)
