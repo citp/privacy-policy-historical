@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531055823id_/http%3A//takelessons.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014080110id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
 
-# TakeLessons.com -- Find a trusted local teacher for music, dance, voice, or acting lessons
+# TakeLessons: Privacy Policy
 
 Last revised: August 2007 
 
@@ -78,7 +78,7 @@ If you have any questions about this Privacy Policy or the practices described h
     
     
     Attn: ClickFor, Inc. Customer Service
-    822 Sixth Avenue, Suite 401
+    624 Broadway, Suite 504
     San Diego, CA  92101    
 
 ##  Revisions to This Policy 
