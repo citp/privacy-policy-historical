@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellow.co.nz privacy policy that was archived on 2007-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070806204205id_/http%3A//www.yellow.co.nz/privacypolicy.ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellow.co.nz privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014135454id_/http%3A//yellow.co.nz/privacypolicy.ds) for the most accurate reproduction.*
 
-# Privacy Policy - New Zealand YELLOW™
+# Privacy Policy - YELLOW™ New Zealand
 
 ## Privacy Policy
 
@@ -26,6 +26,8 @@ You may ask to seek information we hold about you, so long as we can readily ret
 
 ### Use of cookies
 
+#### Gathering information about how people use the site
+
 To assist us in providing the best possible results from Yellow™ online for both users and advertisers, we occasionally need to gather information about how people use the site. The information collected by cookies will;
 
   * Display content more relevant to you
@@ -43,9 +45,13 @@ The information is collected on an entirely confidential basis via online cookie
 
 Online cookies will be sent to your computer the first time you visit Yellow™ online. A cookie is a message given to a Web browser by a Web server. The browser stores the message in a text file. The message is then sent back to the server each time the browser requests a page from the server. It identifies your computer as a unique computer but in no way identifies you nor harms your computer.
 
-Yellow™ online uses two types of cookies. The first type is used for reporting on the use of the site, the other is used to provide you with key site functionality, such as retaining search queries. 
+Yellow™ online uses two types of cookies. The first type is used for reporting on the use of the site, the other is used to provide you with key site functionality, such as retaining search queries.
 
 If you do not wish to have a cookie placed on your computer for reporting purposes, please visit <http://info.yellow.co.nz/optout.html>. Alternatively you can choose to disable all cookies by managing your browser preferences. For most browsers this can be done via "Options" or "Preferences" under one of your browser menus.
+
+##### Serving online advertisements
+
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit http://www.doubleclick.net/us/corporate/privacy.
 
 ### Changes to this policy
 
@@ -53,4 +59,4 @@ We may change this policy, by adding, changing or removing content, at any time.
 
 ### Contact Details
 
-If you have any questions about the privacy of your personal information please [contact us](https://web.archive.org/web/20070806204205id_/http%3A//www.yellow.co.nz/displaycontact.ds).
+If you have any questions about the privacy of your personal information please [contact us](https://web.archive.org/web/20081014135454id_/http%3A//yellow.co.nz/displaycontact.ds).
