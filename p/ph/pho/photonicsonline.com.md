@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505215230id_/http%3A//photonicsonline.com/content/Membership/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014040853id_/http%3A//www.photonicsonline.com/content/Membership/privacy.asp) for the most accurate reproduction.*
 
 # M E M B E R S H I P R E G I S T R A T I O N
 
@@ -45,4 +45,4 @@ We also send the user site and service announcement updates. Members are not abl
 ** If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  This page reflects the most up-to-date version of our privacy policy, and thus takes precedence over information provided in P3P documents and other documents. 
 
 **Contact**  
-If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at [intellectualproperty@vertmarkets.com](mailto:intellectualproperty@vertmarkets.com); by phone at 215-675-1800; or by mail at 5 Walnut Grove, Horsham, PA 19044.
+If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at [intellectualproperty@vertmarkets.com](mailto:intellectualproperty@vertmarkets.com); by phone at 215-675-1800; or by mail at 101 Gibraltar Road, Suite 100, Horsham, PA 19044.
