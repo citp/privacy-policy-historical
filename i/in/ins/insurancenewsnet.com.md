@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628072601id_/http%3A//www.insurancenewsnet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014083119id_/http%3A//insurancenewsnet.com/privacy.asp) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Information
 
@@ -87,7 +87,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 **Telephone:** 717-441-9357
 
-**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20080628072601id_/http%3A//www.insurancenewsnet.com/info@insurancenewsnet.com) or 
+**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20081014083119id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com) or 
 
 **Postal mail:** InsuranceNewsNet.com,   
 355 North 21st Street, Suite 211   
