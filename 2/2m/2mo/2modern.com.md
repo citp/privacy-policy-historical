@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195204id_/http%3A//www.2modern.com/c.418126/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014214111id_/http%3A//www.2modern.com/site/privacy.html%3Fck%3DP9EcKScTAQs4sKW6%26cktime%3D70439) for the most accurate reproduction.*
 
 # Privacy, Terms of Use & Security
 
