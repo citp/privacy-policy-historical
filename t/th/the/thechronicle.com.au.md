@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/legal/index.cfm%23top) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014025512id_/http%3A//www.thechronicle.com.au/storydisplay.cfm%3Fpage%3Dlegal) for the most accurate reproduction.*
 
-# Toowoomba Chronicle
+# Toowoomba News, Weather, Sport & Local Classifieds | Toowoomba Chronicle
 
-  
-  
+**Online Privacy Statement**
+
 APN Newspapers Pty Ltd produces a variety of daily and non-daily publications, primarily servicing regional Queensland and Northern New South Wales. It also publishes Web sites. 
 
 APN Newspapers Pty Ltd respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold. 
 
-We encourage you to check the APN Newspapers Pty Ltd Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [contact us.](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/contacts/)
+We encourage you to check the APN Newspapers Pty Ltd Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [contact us.](https://web.archive.org/web/20081014025512id_/http%3A//contacts/)
 
 Please take some time to read through this statement and understand our position on privacy, by clicking the links: 
 
@@ -127,9 +127,9 @@ Online Forms
 When submitting information on our website, we will collect details such as your name, email and phone number. Some of this information is essential for us to be able to identify accurately who is using the service so that we may be able to respond to your requests and, as such, is indicated by mandatory fields. Mandatory information requirements are clearly identified and are denoted by an asterisk (*). You will also be prompted when submitting a form if mandatory data has not been completed. Other types of information are collected to help us provide better services. Information of this type is optional - you need only fill it in if you wish to do so. 
 
 In general, you may be asked to provide APN Newspapers Pty Ltd with personal information when you:  
-· Send us your comments or suggestions  
-· Report a technical problem  
-· Request sales and advertising information 
+? Send us your comments or suggestions  
+? Report a technical problem  
+? Request sales and advertising information 
 
 APN Newspapers Pty Ltd uses cookies on its website. Cookies are pieces of information that a website can transfer to an individual's computer hard drive for tracking user navigation and customising site information to further improve the user experience. Cookies can make using APN Newspapers Pty Ltd's website easier, for example by storing information about your preferences on a particular website. The use of cookies is an industry standard and you'll find most major websites use them. Typically, cookies involve the assigning of a unique number to the visitor and the information collected through cookies is on an aggregate and anonymous basis.  
 One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. 
@@ -191,7 +191,6 @@ APN Newspapers Pty Ltd acknowledges that you will click-through to third party s
 
 **Terms and Conditions of Use**
 
-  
 **Important**
 
 These terms and conditions of use ("Terms and Conditions") apply to all users of the APN Regional Newspapers Website ("Site") and it associated services. 
@@ -252,10 +251,8 @@ Employees of APN News and Media and subsidiaries and their immediate families ar
 
 All entries become the property of APN News and Media and may be used for marketing purposes. If you do not want your data collected, please contact the Marketing Services Department of this newspaper. 
 
-APN News and Media accepts no responsibility for property loss or damage, injuries sustained or additional costs as a result of accepting this prize. The judges decision is final and no correspondence will be entered into. "Prizes are not redeemable for cash". 
+APN News and Media accepts no responsibility for property loss or damage, injuries sustained or additional costs as a result of accepting this prize. The judge?s decision is final and no correspondence will be entered into. "Prizes are not redeemable for cash". 
 
 **Electoral Comment**
 
-Responsibility for electoral comment on APN websites is taken by the editor of the corresponding newspaper. See the [Contact Us](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/contacts/index.cfm) page on this site for details. 
-
-Back to top     
+Responsibility for electoral comment on APN websites is taken by the editor of the corresponding newspaper. See the [Contact Us](https://web.archive.org/web/20081014025512id_/http%3A//contacts/index.cfm) page on this site for details. 
