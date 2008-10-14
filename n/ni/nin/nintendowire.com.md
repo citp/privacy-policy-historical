@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206131530id_/http%3A//www.nintendowire.com/site.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014062622id_/http%3A//www.nintendowire.com/site.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # NintendoWire - Cheat Codes for Nintendo DS, GameCube, Game Boy, Super NES, NES, GBA, N64 - Game Genie Codes and GameShark
 
