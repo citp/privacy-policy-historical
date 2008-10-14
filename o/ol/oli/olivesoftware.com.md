@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivesoftware.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517053616id_/http%3A//www.olivesoftware.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivesoftware.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014140554id_/http%3A//www.olivesoftware.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Company - Olive Software
 
