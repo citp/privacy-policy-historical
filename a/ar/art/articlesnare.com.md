@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602210615id_/http%3A//www.articlesnare.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014184446id_/http%3A//www.articlesnare.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Visit Article Snare
 
 ArticleSnare.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting ArticleSnare.com, you are accepting the practices described in this Privacy Notice.**
 
