@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadbandreports.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110181858id_/http%3A//www.broadbandreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandreports.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014095954id_/http%3A//www2.broadbandreports.com/privacy) for the most accurate reproduction.*
 
-# broadband help » our privacy policy
+# our privacy policy - dslreports.com
 
 dslreports.com/broadbandreports.com [referred to herein as BBR] is aware of the privacy concerns of its visitors. we wish to detail our policy for collecting and using personal information, below.
 
@@ -32,5 +32,4 @@ Registered users may elect to disable adverts completely.
 
 We reserve the right to make changes to this policy at any time. If the change involves a _reduction_ in privacy protection of any kind, a notice will be posted to our [site forum](https://web.archive.org/forum/beeble) explaining the change. Since the inception of BBR and the first version of the privacy policy, no such change has been made.
 
-_Last updated: 31 December 2000_  
 _update for company name: 6th May 2002_
