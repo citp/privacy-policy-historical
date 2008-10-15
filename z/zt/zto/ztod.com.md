@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415214941id_/http%3A//www.ztod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015234459id_/http%3A//www.ztod.com/privacy.php) for the most accurate reproduction.*
 
 # ZTOD.com - Zero Tolerance On Demand! - Privacy Policy
 
