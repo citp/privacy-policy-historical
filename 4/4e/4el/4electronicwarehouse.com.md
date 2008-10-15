@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506113832id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015044617id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -70,21 +70,11 @@ Questions? Call us toll-free 1-866-224-6171.
 [](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com)   
 [](http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm)   
 |  [](http://www.bbbonline.org/cks.asp?id=1060307151215)   
-[](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  []()  
+[](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  [](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-included-in-internet-retailers-hot-100-best-retail-websites/)  
 ---|---|---|---|---|---  
   
 
 
-  * [Toshiba 46RF350U 46'' Super Narrow Bezel Regza Lcd](http://www.4electronicwarehouse.com/products/toshiba/46rf350u.html)
-  * [Toshiba 40RF350U 40'' Super Narrow Bezel Regza Lcd](http://www.4electronicwarehouse.com/products/toshiba/40rf350u.html)
-  * [Sanus NFV49](http://www.4electronicwarehouse.com/products/sanus/nfv49-stand.html)
-  * [Pro Brand Pbi Dual Lnb For Dss](http://www.4electronicwarehouse.com/products/pro-brand-international/pro-brand-dtv32.html)
-  * [Pioneer PDP-5010FD 50" Plasma Television](http://www.4electronicwarehouse.com/products/pioneer/pdp-5010fd-plasma.html)
-  * [Monster Standard 14 Gauge 4 Conductor UL CL3-Rated](http://www.4electronicwarehouse.com/products/monster/s14-4.html)
-  * [Monster Video MV-Quad RG-6 CL3-Rated Video Cable](http://www.4electronicwarehouse.com/products/monster/mvquad.html)
-  * [Monster MonsterBass 300 Subwoofer Cable](http://www.4electronicwarehouse.com/products/monster/mb300.html)
-  * [Monster CI Pro S14-4](http://www.4electronicwarehouse.com/products/monster/cp14-4.html)
-  * [Boston Acoustics TVee Two Soundbar and Wireless Bass Speaker](http://www.4electronicwarehouse.com/products/boston-acoustics/tvee-two-midnight.html)
-  * [Bose Acoustimass 5 Series III Spekaer System](http://www.4electronicwarehouse.com/products/bose/am-5.html)
+  * [Yamaha YST-FSW150 Subwoofer](http://www.4electronicwarehouse.com/products/yamaha/yst-fsw150.html)
 
 
