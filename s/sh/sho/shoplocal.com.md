@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoplocal.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611152225id_/http%3A//www.shoplocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplocal.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015050425id_/http%3A//www.shoplocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# ShopLocal.com Privacy Policy
+# Privacy Policy | ShopLocal
 
 This page states the Privacy Policy applicable to the shoplocal.com™ website (the "Website") as of May 4, 2007. Please read this page carefully. As used herein, the words “user,” “you” and “your” mean users of the Website and the words “we,” “our,” and “ShopLocal” mean ShopLocal, LLC, the owner and operator of the Website. 
 
