@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prefixmag.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623030546id_/http%3A//www.prefixmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prefixmag.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015125858id_/http%3A//www.prefixmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
