@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055115id_/http%3A//www.cruisesonly.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015224148id_/http%3A//www.cruisesonly.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
