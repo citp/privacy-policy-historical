@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525111044id_/http%3A//immunize.org/subscribe/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015201344id_/http%3A//www.immunize.org/subscribe/privacy.asp) for the most accurate reproduction.*
 
 # Vaccinate Adults
 
