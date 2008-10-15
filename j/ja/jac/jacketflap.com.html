@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the jacketflap.com privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511195827id_/http%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jacketflap.com privacy policy that was archived on 2008-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081015045607id_/http%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="verify-v1" content="yFSuUGmppH0toq4axa/ezo3svIg1zCAIcn0C5yiv0EU=">
+<meta name="verify-v1" content="4dIePCYvV1RU60TburI4IJGcQ551MtsYMFJqW/Z6fqA=">
 <title>JacketFlap: Privacy Policy</title>
   
-
+  <link rel="shortcut icon" href="/favicon.ico">
   <script type="text/javascript">
 
 function checkenter()
@@ -44,6 +44,16 @@ window.scrollTo(0,0);
 document.getElementById('logindialog').style.display = 'none';
 }
 
+function hidemessage()
+{
+document.getElementById('usermessage').style.display = 'none';
+}
+
+function hideoutmessage()
+{
+document.getElementById('useroutmessage').style.display = 'none';
+}
+
 function logout()
 {
   if (confirm('Are you sure you want to log out?'))
@@ -67,20 +77,9 @@ document.getElementById('login_link').innerHTML ="Enter your Username here: <for
 <body>
 <div id="container">
 <div id="header">
-<img src="/img3/jfsitelogo.gif" alt="JacketFlap logo">
+<a href="/index.asp"><img src="/img3/jfsitelogo.gif" alt="JacketFlap logo"></a>
 <div id="banner">
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-0042427986124814";
-/* 728x90, created 2/15/08 */
-google_ad_slot = "0450514241";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
- </div>
+<script type="text/javascript" src="/leaderboard.php"></script></div>
 <div id="top_nav">
 <ul id="left">
 <li></li>
@@ -141,6 +140,7 @@ google_ad_height = 90;
 </div><!--end header -->
 <div id="main">
 <div id="bread_crumb">
+<iframe id="menuiframe" frameborder="0" style="display: none; position: absolute; z-index: -1;"></iframe>
 <div id="search">
 <form id="search_form" name="search_form" method="post" action="/index2.asp">
 <fieldset>
@@ -148,23 +148,23 @@ google_ad_height = 90;
 <input type="hidden" name="seq" value="X">
 <input type="hidden" name="SrchSize" id="SrchSize" value="10">
 <input type="hidden" name="srchProcess" id="srchProcess" value="y">
-
 <label for="srchname">Search:</label>
 <select name="srchtype" id="srchtype">
     <option value="P">Publishers</option>        <option value="O">Book Credits</option>            <option value="B">Book Titles</option>            <option value="C">Subjects</option>            <option value="M">JacketFlap Members</option>            <option value="BL">Blogs</option>
 </select>
-<a href="http://www.jacketflap.com/index2.asp" title="advanced search">[ Advanced Search ]</a><br>
+<a href="/index2.asp" title="advanced search">[ Advanced Search ]</a><br>
 <input name="srchname" id="srchname" type="text" size="50" maxlength="80" value="enter your search phrase here" onfocus="if (document.search_form.srchname.value == 'enter your search phrase here') document.search_form.srchname.value = '';">
 <input name="submitbutton" type="image" src="/img3/search.png" value="search" class="search_submit">
 <br>
 </fieldset>
 </form>
 </div><!-- end search -->
-<div style="margin-top: 12px;">
+<div style="margin-top: 8px;">
 &nbsp;&nbsp;<a href="/index.asp">Home</a>
  &gt; <strong>Privacy Policy</strong>
 </div>
 </div>   <!--end bread_crumb-->
+<!--[if gt IE 6]>
 <script type="text/javascript">
  if (document.all && document.getElementById) {
 navRoot = document.getElementById("nav_bar");
@@ -173,15 +173,60 @@ for (i=0; i<navRoot.childNodes.length; i++) {
   if (node.nodeName=="LI") {
   node.onmouseover=function() {
   this.className+=" over";
-    }
+  }
   node.onmouseout=function() {
   this.className=this.className.replace
       (" over", "");
    }
+  }
+ }
+}
+</script>
+<![endif]-->
+<!--[if  lte IE 6]>
+<script type="text/javascript">
+ if (document.all && document.getElementById) {
+navRoot = document.getElementById("nav_bar");
+for (i=0; i<navRoot.childNodes.length; i++) {
+  node = navRoot.childNodes[i];
+  if (node.nodeName=="LI") {
+  node.onmouseover=function() {
+  this.className+=" over";
+  for (j=0; j<this.childNodes.length; j++) {
+    kid=this.childNodes[j];
+    if (kid.nodeName=="UL") {
+    var iframe = document.getElementById('menuiframe');
+    iframe.style.width = kid.offsetWidth;
+    iframe.style.height = kid.offsetHeight;
+    var posX = kid.offsetLeft;var posY = kid.offsetTop;
+    while(kid.offsetParent){
+    if(kid==document.getElementsByTagName('body')[0]){break}
+    else{
+    posX=posX+kid.offsetParent.offsetLeft;
+    posY=posY+kid.offsetParent.offsetTop;
+    kid=kid.offsetParent;
+    }
+    }
+    iframe.style.left = posX;
+    iframe.style.top = posY;
+    iframe.style.filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';
+    iframe.style.zIndex = -1;
+    iframe.style.display = 'block';
+    }
+    }
+  }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+      (" over", "");
+  var iframe = document.getElementById('menuiframe');
+  iframe.style.display = 'none';
+   }
    }
   }
 }
+
 </script>
+<![endif]-->
      <div id="logindialog" style="position:absolute;z-index:110;top:30%;left:35%;display:none;">
  <table bgcolor="#000000" border="1" bordercolor="#000000" cellpadding="0" cellspacing="0" height="200" width="300">
     <tbody><tr>
@@ -193,7 +238,7 @@ for (i=0; i<navRoot.childNodes.length; i++) {
       <fieldset>
       <label for="username">User Name: </label>
 
-      <input type="text" id="username" name="username" size="15" maxlength="10" onkeypress="checkenter();">
+      <input type="text" id="username" name="username" size="15" value="" maxlength="10" onkeypress="checkenter();">
       <br>
       <label for="password">Password: </label>
       <input type="password" id="password" name="password" size="15" maxlength="40" onkeypress="checkenter();">
@@ -265,6 +310,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-2256669-1");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
@@ -275,5 +322,6 @@ pageTracker._trackPageview();
 <a href="http://www.quantcast.com/p-4eA705DPkMPYU" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-4eA705DPkMPYU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+
 
 </body></html>
