@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disaboom.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509054640id_/http%3A//aboutus.disaboom.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disaboom.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015210426id_/http%3A//aboutus.disaboom.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Disaboom - - Privacy Policy
 
