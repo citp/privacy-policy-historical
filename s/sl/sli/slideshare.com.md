@@ -1,24 +1,43 @@
-> *The following text is extracted and transformed from the slideshare.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229124042id_/http%3A//www.new.net/policies_quick.tp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshare.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015161821id_/http%3A//www.slideshare.com/privacy) for the most accurate reproduction.*
 
-# New.net: Privacy Policy
+# SlideShare » Privacy Policy (SlideShare is the best place to share powerpoint presentations)
 
-New.net, Inc. (“New.net,” “we,” “us” or “our”) publishes and distributes Internet navigation assistance web pages in response to certain queries that you submit (“Quick! Pages”). This Privacy Policy applies to your use of the Quick! Pages. Your privacy is important to us and this Privacy Policy reflects our concern in safeguarding it. This Privacy Policy describes our practices regarding the collection, maintenance, use and sharing of information that we collect. Our Privacy Policy may change from time to time and those changes will be available for your review on each Quick! Page that you view and on our web page located at www.new.net/policies_quick.tp. Your continued use of our Quick! Pages after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version. We will sometimes post announcements on our home page ([www.new.net](http://www.new.net/)) regarding any changes to our Privacy Policy. To contact New.net about privacy issues, please e-mail us at privacy@new.net.
+SlideShare Privacy Policy
+
+Your privacy is important to us, as it is to you. We will not give, sell or rent your email address to any third party at any time, for any reason.
+
+When you register with us, we ask you to provide your name, email address and an account password. We use your email address to send administrative email messages to you from time to time. For certain premium services, we also request credit card or other payment account information.
+
+You can decide not to submit personal information, in which case we won't be able to make the SlideShare services available to you.
+
+When you visit this site, we send one or more cookie to your computer, for the purpose of uniquely identifying your browser. We use cookies to improve the quality of our services. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent, but that may make it impossible to use our services.
+
+At your option, and in your sole discretion, you may provide us with certain demographic information, such as your age, city and country. This information is collected (and is made public) to facilitate the social networking that is inherent in the services. We will not distribute that information with any other personal information about you, except to the extent that content you submit for publication on the site specifically includes any such personal information.
+
+When you use our services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+
+When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We won't share any information you send to us in those communications with any third parties.
+
+Our privacy policy applies only to this site. We do not exercise control over any site that may be linked to from content that is displayed within content on this site.
+
+If at any time in the future, we propose to use personal information for any purposes other than our internal use in maintaining the services, troubleshooting, improving our services, etc., then we will offer you an effective way to opt out of the use of personal information for those other purposes.
+
+If we become involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who have registered with us, the volume and pattern of traffic to and within the site, etc. That information will not identify you, the individual, in any way.
+
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of policy changes).
+
+If you have any questions about this policy, please feel free to [contact us](https://web.archive.org/feedback) or to write to us at:
+
+Jonathan Boutelle,   
+**SlideShare Inc.**  
+739 Bryant Street,   
+San Francisco, CA 94107,   
+Phone: 415 777 5770   
+Fax: 415 789 4358 
 
   
-We do not purposefully collect any personally identifiable information about you (such as your name, address, email address, or telephone number). Our Quick! Pages, or any software used to obtain such Quick! Pages, may, however, transmit limited non-personally identifiable information, such as your IP address, type of browser and operating system, unique software ID, version of the New.net software, internal software status indicators (including error codes to determine if the software has encountered any internal errors), a tag that identifies any New.net distribution partner from whom you may have downloaded or installed the software, keyword and error search queries entered in your browser if you are using our software known as “New.net Domains,” and Internet search queries entered in the toolbar if you are using our software known as “Internet Search Toolbar.” Please note that any search query information collected by us is maintained by New.net on an aggregated basis ( i.e., together with the queries of all of our end-users) for the purposes of generating statistics regarding the use of our software or services (such as the number of queries performed by the average end-user per month, a list of the most popular query terms, etc.), and is never used in a manner that matches specific search query information with any particular end-user. To properly reflect your language, filtering and other preferences, our Quick! Pages may also use cookies ( i.e. packets of information containing your preferences that are sent to your browser and sent back by your browser each time your browser accesses our server). Cookies that we may use may only be read by the server that placed them there. If you wish to control how and whether cookies will be accepted by your browser, you should refer to the documentation accompanying your browser. 
 
-  
-Most of the limited, non-personally identifiable information collected is used to provide more relevant products and services to our end-users. For example, New.net may use your IP address to determine which language to use to provide you with Internet search results. In addition, information collected from end-users may be used in aggregate form to, among other things, determine the total number of distributed and active copies of our software or total number of end-users who are using our services, prepare utilization reports for our partners or affiliates (collectively, “Partners”), diagnose and fix compatibility problems or other bugs in our software, and perform statistical analyses to enable New.net to build higher quality, more useful online services. The information collected from end-users also allows New.net to determine if the software on an end-user’s computer is encountering internal errors or needs to be updated and permits New.net to deliver search results pages that are as responsive as possible to an individual end-user’s particular search query ( e.g., serves results in the end-user’s native language and tailored to the end-user’s country of connectivity). 
-
-  
-As a general rule, we do not share the information we collect from end-users with third-parties. However, search terms or phrases inputted as queries by our end-users are transmitted to certain Partners with whom New.net has subcontracted (such as Google, Overture Services, FindWhat.com and others) to obtain Internet search results or other services in response to such search queries. In addition, some of the information we collect is provided, in aggregate form only, to our Partners solely for purposes related to our relationships with such Partners, not for the purposes of marketing to our end-users. While we encourage our Partners to adhere to our Privacy Policy, we are not responsible for their actions or omissions, including the manner in which they use information that they receive from New.net or that they independently may collect from you. Nevertheless, if you feel that any of our Partners, or any third party who claims association with New.net, is improperly collecting or using information about you, we urge you to contact them directly and also to inform us by e-mailing us at [privacy@new.net](mailto:privacy@new.net). If in the future we sell or transfer assets or portions of our business, or if we experience a change in control, reorganization or liquidation, we may transfer such information to our successor or buyer, subject to this Privacy Policy. Finally, we reserve the right to disclose any information about you if you violate any of our published guidelines, or as required by law, or to defend our rights or the rights and well-being of our other end-users, or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant or court order. 
-
-  
-Any websites displayed to you when you click on a link or advertisement on a Quick! Page, including websites owned or operated by customers who have purchased New.net domain names, have been developed by third-parties over which New.net exercises no control. Such websites may send their own cookies to end-users, collect data, or solicit personally identifiable information from you. New.net is not responsible for the privacy practices or the content of such websites, including such websites’ use of any information collected when New.net’s end-users are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites. 
-
-  
-Questions regarding this Privacy Policy should be directed by e-mail to New.net at [privacy@new.net](mailto:privacy@new.net) or, by U.S. mail, to 2102 Rosecrans Avenue, #2000 El Segundo, CA. 90245, Attn: Privacy Officer. 
-
-Effective Date: May 2004.
-
-| 
