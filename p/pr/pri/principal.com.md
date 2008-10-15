@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530215821id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015171212id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
 
 # Principal.com - Online Privacy Policies - Information Privacy
 
-_Effective February 2008_
+_Effective October 2008_
 
 [ ](http://smpconsole.cybertrust.com/certinfo/certified.do?CERTID=042301300)
 
@@ -35,6 +35,10 @@ When an individual consumer visits this Web site ("Visitors"), we may collect ce
 
 
 For individuals that login as representatives of a business or corporate account, we may gather information based on your relationship with our organization for the purposes of providing customized services online.
+
+#### Safeguarding of Personally Identifiable Information
+
+The Principal Financial Group understands the importance of appropriately safeguarding the personally identifiable information we obtain in the course of business operations. It is our practice to protect the confidentiality of this information, limit access to this information to those with a business need, and to not disclose Social Security numbers unless required or permitted by law. 
 
 Return to top
 
