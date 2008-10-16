@@ -1,0 +1,30 @@
+> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016092434id_/http%3A//www.yourlocal.ie/privacypolicy.do) for the most accurate reproduction.*
+
+# yourlocal - Privacy
+
+  * [Home](https://web.archive.org/index.do)
+  * >
+
+  * Privacy Statement
+
+  *   *   *   * Print
+
+
+
+yourlocal and its associated companies respect your right to privacy. Visitors should be aware that each time they visit a website two general levels of information about their visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the site, and the second is information that is personal or particular to a specific visitor who knowingly chooses to provide that information. yourlocal's policy is to respect and protect the privacy of our Customers and will never willfully disclose individually identifiable information about its Customers to any third party without first receiving that Customer's permission.
+
+The statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page in the site at which they exited. This information helps us monitor traffic on our website so that we can manage the site's capacity and efficiency. It also helps us to understand which parts of this site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the site.
+
+This statistical and analytical information and data can be collected through the standard operation of our internet servers and logs as well as "cookies". "Cookies" are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. Visitors should be aware that yourlocal is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for yourlocal. One simple way to prevent the use of cookies it to activate the facility that is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information. 
+
+Throughout this website you may have an opportunity to send us information relating to you such as through the "Contact Us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by yourlocal for:
+
+  * the purposes for which it was provided by you; 
+  * verification purposes and statistical analysis; 
+  * to provide you with details of products, services, contests, competitions or promotions being provided or run by yourlocal or any of its associated companies or any third party that we may select and which we may think would be of interest to you, unless you have otherwise specifically opted not to receive this information.
+
+
+
+**Company and data protection information**
+
+The data controller of data on the Website is Independent Newspapers (Ireland) Limited, which is a company in the News & Media Group, registered in Ireland under company number 153066, whose registered office is at Independent House, 27-32 Talbot Street, Dublin 1. VAT number IE 4532614 O. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
