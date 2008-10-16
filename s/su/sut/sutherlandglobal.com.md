@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530053645id_/http%3A//sutherlandglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016122031id_/http%3A//www.sutherlandglobal.com/privacy.htm) for the most accurate reproduction.*
 
-# Business Process Outsourcing - BPO - Offshore IT Solutions
+# BPO - Business Process Outsourcing - Offshore BPO Solutions IT Outsourcing
 
 Introduction   
 We at Sutherland Global Services, Inc. and our affiliated companies worldwide ("Sutherland") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
