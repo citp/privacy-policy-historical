@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523121714id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016224326id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # InvestorWords.com - Privacy Policy, Disclaimer and Copyright©
 
