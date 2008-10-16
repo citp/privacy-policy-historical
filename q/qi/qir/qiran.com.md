@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiran.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626010552id_/http%3A//www.qiran.com/docs/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiran.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016064341id_/http%3A//www.qiran.com/docs/privacypolicy.asp) for the most accurate reproduction.*
 
 # Qiran.com Matrimonial - Privacy Policy
 
