@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612174310id_/http%3A//www.longtailvideo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017220711id_/http%3A//www.longtailvideo.com/privacy.html) for the most accurate reproduction.*
 
 # LongTail Video
 
