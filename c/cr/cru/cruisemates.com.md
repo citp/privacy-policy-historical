@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080615id_/http%3A//cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017084918id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # About CruiseMates.com
-
-CRUISE GUIDE:  
-Sail with us and your friends 
-
-|  | 
 
   
   
@@ -40,6 +35,8 @@ If you prefer for us not to provide your name and email or postal address to thi
 
 If you choose to transmit, submit or post information through the Site's review feature, chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. Cruisemates.com retains this information as necessary to resolve disputes, provide customer support and troubleshoots problem as permitted by law and pursuant to our Terms of use. 
 
+Please note that CruiseMates is not responsible for the acts of search engines like Google who may make a record and link to any information you give to CruiseMates to publish on the Internet. This includes posts in our forums, chatroom, reader submitted cruise reviews and any other information you may provide to CruiseMates. We give all search engines access to our forums and we are not responsible for getting search engine links removed.
+
 **Cookies**
 
 We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about you more than once. 
@@ -59,12 +56,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Cruisemates.com
 
 Effective: January 23, 2007
-
-|  | 
-
-| [](https://web.archive.org/CF/bow.htm) [CRUISE BARGAINS](https://web.archive.org/CF/bargains/index.cfm)  
----  
-Online Cruise Shopping mall  
-CruiseMates Cruise Bargains - Hot deals from the Cruise Lines & Web's best Discount Agencies  
-  
-
