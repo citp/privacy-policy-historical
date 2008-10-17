@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvshack.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517142309id_/http%3A//tvshack.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshack.net privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017154203id_/http%3A//tvshack.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / TV Shack
 
