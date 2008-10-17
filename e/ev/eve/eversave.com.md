@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218093531id_/http%3A//www.eversave.com/eversave/consumers/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017203456id_/http%3A//www.eversave.com/eversave/consumers/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Eversave.com
 
@@ -17,7 +17,7 @@ Prospectiv Direct, Inc. is a licensee of the TRUSTe Privacy Program. This privac
 
 
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service department by email at [ helpdesk@eversave.com](mailto:helpdesk@eversave.com) or by phone at 1-877-838-3772. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [ http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Eversave.com to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our Customer Service department by email at [ helpdesk@eversave.com](mailto:helpdesk@eversave.com) or by phone at 1-877-838-3772. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Eversave.com to resolve your concerns. 
 
 **Privacy @ Eversave.com**  
 Eversave.com has created this statement in order to demonstrate our firm commitment to privacy. We allow our users to control the amount of personal information they provide to us. Eversave.com hopes that users will feel comfortable providing this information to us, because this information allows us to tailor our Savings Offers to each member's particular interests. However, we recognize that some members will prefer not to provide certain requested information and so we've designed Eversave with the members' personal preferences in mind. 
@@ -76,7 +76,7 @@ On pages where sensitive information is collected, specifically the "Affiliate P
 This web site contains links to other sites. Please be aware that Eversave.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **_Third Parties_**   
-Eversave may provide your personal information to third parties for data services which may include, but not are not limited, to data cleansing, merge-purge, appending and mapping. Eversave does not allow third parties to collect information from users of the Eversave.com website. Eversave.com contains links to other sites. Please be aware that Eversave is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Eversave does not share any personally identifiable information with third parties, other than for the purposes described herein. 
+Eversave may provide your personal information to third parties for data services which may include, but not are not limited, to data cleansing, merge-purge, appending and mapping or for other purposes to which you have consented. Eversave does not allow third parties to collect information from users of the Eversave.com website without the users' consent. Eversave.com contains links to other sites. Please be aware that Eversave is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Eversave does not share any personally identifiable information with third parties, other than in the manner herein. 
 
 **_Deactivate or Change Your Status_**   
 Eversave gives our members the option of deactivating from our service so as not to receive future communications from Eversave or any other part of our service, or to change their profile and preferences. 
@@ -85,7 +85,7 @@ To deactivate your participation in the service, you may:
 
   * visit the My Preferences section of Eversave.com and change your current status. 
   * send an e-mail to [helpdesk@eversave.com](mailto:helpdesk@eversave.com?subject=unsubscribe) and request to unsubscribe. 
-  * write to Eversave.com, 827 Main St. Woburn, MA 01801 attn: Customer Service. 
+  * write to Eversave.com, 40 Harvard Mills Square, Suite 1, Wakefield, MA 01880 attn: Customer Service. 
 
   
 Note: It may take up to 48 hours for us to process your request and any e-mail communications within the queue prior to your decision to deactivate will still be sent to you by Eversave. 
@@ -106,5 +106,6 @@ In the event Eversave merges, is acquired by or sells its assets to a third part
 If you have any questions about this privacy statement, the practices of Eversave.com, or your dealings with Eversave.com, [ helpdesk@Eversave.com](mailto:helpdesk@Eversave.com). Written inquiries may be sent to:
 
 Customer Service, Eversave.com  
-827 Main St.  
-Woburn, MA 01801
+40 Harvard Mills Square  
+Suite 1  
+Wakefield, MA 01880
