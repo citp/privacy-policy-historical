@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513073309id_/http%3A//www.business-software.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017120429id_/http%3A//www.business-software.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Business Software | Home
 
