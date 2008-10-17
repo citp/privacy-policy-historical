@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430083652id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017142902id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Geology.com
 
