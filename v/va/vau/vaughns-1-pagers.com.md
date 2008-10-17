@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vaughns-1-pagers.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430173633id_/http%3A//www.vaughns-1-pagers.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaughns-1-pagers.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017113927id_/http%3A//www.vaughns-1-pagers.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Vaughn's Summaries
 
-**Privacy Policy** **  
-** A very PRIVATE privacy policy  
+**Privacy Policy - Vaughn's Summaries**  
+A very PRIVATE privacy policy  
   
 **1\. I collect NO data.**
 
