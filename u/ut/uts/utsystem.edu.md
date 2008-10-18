@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617174256id_/http%3A//www.utsystem.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019013644id_/http%3A//www.utsystem.edu/privacy.htm) for the most accurate reproduction.*
 
 # University of Texas System
 
-[The University of Texas System Administration](http://www.utsystem.edu/) maintains the UT System Administration web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public and how that information is used. Employees of UT System Administration should refer to [Business Procedures Memorandum 53-02-96](http://www.utsystem.edu/bpm/53.htm), which outlines System Administration's internal policy for the use and protection of information resources.
+The University of Texas System Administration maintains the UT System Administration web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public and how that information is used. Employees of UT System Administration should refer to [Business Procedures Memorandum 53-02-96](http://www.utsystem.edu/bpm/53.htm), which outlines System Administration's internal policy for the use and protection of information resources.
 
-Since UT System Administration is a public institution, the information we collect may be subject to public disclosure under the [Texas Public Information Act](http://www.capitol.state.tx.us/statutes/go/go0055200toc.html) ([Chapter 552](http://www.capitol.state.tx.us/statutes/go/go0055200toc.html) of the Texas Government Code). 
-
-The UT TeleCampus collects somewhat different information from other servers within the UT System Administration site. You may view the [UT TeleCampus](http://www.telecampus.utsystem.edu/) privacy policy at: <http://tis.telecampus.utsystem.edu/tispp.asp>
+Since UT System Administration is a public institution, the information we collect may be subject to public disclosure under the [Texas Public Information Act](http://www.capitol.state.tx.us/statutes/go/go0055200toc.html) ([Chapter 552](http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm) of the Texas Government Code). 
 
   
 
@@ -59,7 +57,7 @@ If a member of the general public sends System Administration an e-mail message 
 
 ## III. Notice About Information Laws and Practices
 
-With few exceptions, you are entitled on your request to be informed about the information UT System Administration collects about you. Under Sections [552.021](http://www.capitol.state.tx.us/statutes/go/go0055200.html#go015.552.021) and [552.023](http://www.capitol.state.tx.us/statutes/go/go0055200.html#go017.552.023) of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UT System Administration correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in [Business Procedures Memorandum 32](http://www.utsystem.edu/bpm/32.htm).
+With few exceptions, you are entitled on your request to be informed about the information UT System Administration collects about you. Under Sections [552.021](http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm) and [552.023](http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm) of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UT System Administration correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in [Business Procedures Memorandum 32](http://www.utsystem.edu/bpm/32.htm).
 
 The information that UT System Administration collects will be retained and maintained as required by Texas records retention laws ([Section 441.180](http://www.capitol.state.tx.us/statutes/go/go0044100.html#go083.441.180) et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.
 
@@ -78,4 +76,4 @@ This site contains links to other sites outside of System Administration. UT Sys
 This site has security measures in place to protect from loss, misuse and alteration of the information under the control of System Administration.
 
 **Contacting System Administration**  
-If there are any questions about this privacy statement, the practices of this site, or dealings with this web site, contact: [uts-feedback@utsystem.edu](mailto:uts-feedback@utsystem.edu)
+If there are any questions about this privacy statement, the practices of this site, or dealings with this web site, contact: [feedback@utsystem.edu](mailto:feedback@utsystem.edu)
