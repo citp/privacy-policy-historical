@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415072332id_/http%3A//www.scrubsunlimited.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsunlimited.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018075301id_/http%3A//www.scrubsunlimited.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
