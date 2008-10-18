@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maatv.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616080950id_/http%3A//www.maatv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maatv.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018173741id_/http%3A//www.maatv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # : MAA TV
 
@@ -130,7 +130,7 @@ If you are a registered member of MAA TV.com, you can review and update your mem
 
 How to Reach Us
 
-If you have questions or concerns about your privacy when using a MAA TV Web site, please contact us by e-mail: [praveen@maatv.com](mailto:praveen@maatv.com) or by mail at: 
+If you have questions or concerns about your privacy when using a MAA TV Web site, please contact us by e-mail: [feedback@maatv.com](mailto:feedback@maatv.com) or by mail at: 
 
 MAA TV Network Ltd.,  
 6-3-663/B, MRL house,  
