@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523195709id_/http%3A//www.internetpolyglot.com/publicPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018222142id_/http%3A//www.internetpolyglot.com/publicPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Internet Polyglot - Privacy Policy
 
