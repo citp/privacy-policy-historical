@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629194355id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018200837id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Poker Privacy and Security at Cake Poker
 
