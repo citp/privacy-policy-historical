@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516064947id_/http%3A//www.datpiff.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018084212id_/http%3A//www.datpiff.com/privacy.php) for the most accurate reproduction.*
 
 # DatPiff :: Terms & Conditions of Use
 
