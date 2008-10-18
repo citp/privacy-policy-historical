@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143946id_/http%3A//www.mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019012612id_/http%3A//mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
 
 # Mehndi.com Matrimonial - Privacy Policy
 
