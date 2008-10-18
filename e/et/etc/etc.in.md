@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620204313id_/http%3A//www.etc.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018174804id_/http%3A//www.etc.in/privacy.aspx) for the most accurate reproduction.*
 
 # ETC
 
-**Information Collected**
+**I** **nformation Collected**
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
