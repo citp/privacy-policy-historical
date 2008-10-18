@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616164007id_/http%3A//www.gotravelorlando.com/article.php%3Fstory%3D20040526174621413) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019011805id_/http%3A//gotravelorlando.com/article.php%3Fstory%3D20040526174621413) for the most accurate reproduction.*
 
 # Go Travel - Privacy Policy
 
