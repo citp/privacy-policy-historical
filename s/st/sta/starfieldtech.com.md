@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526152645id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019035121id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
 
