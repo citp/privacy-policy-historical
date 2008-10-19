@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamehouse.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513113250id_/http%3A//www.gamehouse.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamehouse.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019223832id_/http%3A//www.gamehouse.com/privacy.jsp) for the most accurate reproduction.*
 
 # GameHouse - Privacy Policy
 
