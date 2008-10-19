@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162959id_/http%3A//www.pcoptimizerpro.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019104337id_/http%3A//www.pcoptimizerpro.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PC Optimizer Pro - Privacy Policy
 
@@ -48,7 +48,7 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.  
   
 **External Links**  
-This site contains links to other sites. ****[www.pcoptimizerpro.com](http://www.tweakingtools.com/) **** is not responsible for the privacy practices or the content of such Web sites.  
+This site contains links to other sites. ****[www.pcoptimizerpro.com](http://www.pcoptimizerpro.com/) **** is not responsible for the privacy practices or the content of such Web sites.  
 **Public Forums**  
   
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
@@ -72,15 +72,15 @@ We care about children and understand that they have special privacy needs. Ther
 |    
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional / marketing information from our partners, and us.   
-1. | You can [contact us ](https://web.archive.org/web/20080509162959id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
+1. | You can [contact us ](https://web.archive.org/web/20081019104337id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
 ---|---  
-2. | You can visit the following URL: [www.pcoptimizerpro.com ](http://www.tweakingtools.com/)  
+2. | You can visit the following URL: [www.pcoptimizerpro.com ](http://www.pcoptimizerpro.com/)  
 **Data Quality/Access**  
   
-This site gives users the following options for changing and modifying information previously provided by [contacting us ](https://web.archive.org/web/20080509162959id_/http%3A//www.pcoptimizerpro.com/contactus.htm).   
+This site gives users the following options for changing and modifying information previously provided by [contacting us ](https://web.archive.org/web/20081019104337id_/http%3A//www.pcoptimizerpro.com/contactus.htm).   
   
 **Contacting the Web Site**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20080509162959id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20081019104337id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
   
   
 [ ](http://www.oneclickprivacy.com/1/FreePCScan.htm)
