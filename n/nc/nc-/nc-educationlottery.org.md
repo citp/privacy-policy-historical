@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418203700id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019034546id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - North Carolina Education Lottery
+# Privacy Policy
 
----  
-  
-  
+Generally, our Internet Service Provider (ISP) automatically captures the following information during each visit to this website: your domain name, the date and time of your access, the pages of our website that you visited, the internet address and name of the page that referred you to our website, your current network internet address (IP address), brand of browser and version used to access our website, and the operating system you are using. The information gathered is used to assist us in determining how to make our website more useful and accessible to visitors. The information is given to us in an aggregate form such that no single user is identified. 
+
+We may also retain any information that you voluntarily provide to us, such as your name, address, etc. We collect information on individuals who communicate with us via email or who voluntarily submit forms on our website. When you convey this information to us, you are authorizing us (and all third parties authorized by us) to use, transmit, disclose and store such information for all purposes necessary to consummate the transaction you have requested. Further, your communicating with us by email is your acknowledgment that you agree to conduct business using email; however, the NCEL reserves the right to use the method of communication it deems best in interacting with you. Your email address may be retained for further communication with you and for NCEL marketing purposes, such as promotional information, surveys, jackpot alerts and other internal uses.  
 
 
-Generally, our Internet Service Provider (ISP) automatically captures the following information during each visit to this website: your domain name, the date and time of your access, the pages of our website that your visited, the internet address and name of the page that referred you to our website, your current network internet address (IP address), brand of browser and version used to access our website, and the operating system you are using.  The information gathered is used to assist us in determining how to make our website more useful and accessible to visitors. The information is given to us in an aggregate form such that no single user is identified. 
+Our site may use “cookies”, both persistent and non-persistent, to store information. Cookies are small data files that can be stored on your computer system that contain information pertinent to our website. The cookies will not contain personally identifiable information and in most instances are encrypted.
 
-We may also retain any information that you voluntarily provide to us, such as your name, address, etc.  We collect information on individuals who communicate with us via email or who voluntarily submit forms on our website.  When you convey this information to us, you are authorizing us (and all third parties authorized by us) to use, transmit, disclose and store such information for all purposes necessary to consummate the transaction you have requested.  Further, your communicating with us by email is your acknowledgment that you agree to conduct business using email; however, the NCEL reserves the right to use the method of communication it deems best in interacting with you.  Your email address may be retained for further communication with you and for NCEL marketing purposes, such as promotional information, surveys, jackpot alerts and other internal uses.
+### How the Information is Used
 
-  Our site may use “cookies”, both persistent and non-persistent, to store information.  Cookies are small data files that can be stored on your computer system that contain information pertinent to our website.  The cookies will not contain personally identifiable information and in most instances are encrypted.
+Typically, the information automatically collected and voluntarily submitted is used to provide website visitors with a more personal experience and to present them with information that is most pertinent to their specific needs. We also use the information to operate and improve our website, to gather and provide information about our products and services, and to gather user and customer information.
 
-## How the Information is Used
+Reasonable care will be utilized to ensure that files and data contained therein which may personally identify you are kept in a secured location. However, please be aware that, except as protected by law, such information may be subject to disclosure pursuant to the North Carolina Public Records Act, N.C.G.S. §132-1 et seq. At the discretion of the NCEL, such files and/or data may also be routinely purged.
 
-Typically, the information automatically collected and voluntarily submitted is used to provide website visitors with a more personal experience and to present them with information that is most pertinent to their specific needs.  We also use the information to operate and improve our website, to gather and provide information about our products and services, and to gather user and customer information.  
+### More Information
 
-Reasonable care will be utilized to ensure that files and data contained therein which may personally identify you are kept in a secured location.  However, please be aware that, except as protected by law, such information may be subject to disclosure pursuant to the North Carolina Public Records Act, N.C.G.S. §132-1 et seq.  At the discretion of the NCEL, such files and/or data may also be routinely purged.
-
-## More Information
-
-If you have questions about the practices of this website, or your interaction with the site, please contact us at: _[WebMaster@lotterync.net](mailto:WebMaster@lotterync.net)_.
+If you have questions about the practices of this website, or your interaction with the site, please contact us at: [WebMaster@lotterync.net](mailto:WebMaster@lotterync.net).
