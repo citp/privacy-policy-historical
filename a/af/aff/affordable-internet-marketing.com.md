@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714204149id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019191813id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-If you're new here, you may want to [Subscribe to my Updates](http://www.affordable-internet-marketing.com/subscribe.php) or to my [RSS feed](http://www.affordable-internet-marketing.com/feed/). Thanks for visiting!
+# Privacy Policy - Affordable Internet Marketing
 
 This is the web site of Affordable Internet Marketing.  
-This site is owned by [Case Stevens](http://www.affordable-internet-marketing.com/)  
+This site is owned by Case Stevens  
 Our postal address is  
 Postbus 132  
 5100 AC Dongen  
@@ -51,8 +49,7 @@ If you send us an email we will store your information such as name and email ad
 
 In case of a survey or site registration we will store your information with the highest care for your personal data and we will only use such data for as long as strictly necessary.
 
-Popularity: 6%
+Welcome to Affordable Internet Marketing Blog.  
+You may want to [Subscribe to my Updates](http://www.affordable-internet-marketing.com/subscribe.php) or to my [RSS feed](http://www.affordable-internet-marketing.com/feed/). Thanks for visiting!
 
-Posted on Friday June 11, 2004 by Case Stevens 
-
-Both comments and pings are currently closed.
+**Bookmark for later reading:**
