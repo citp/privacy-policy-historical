@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224051030id_/http%3A//www.globalcollect.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019225423id_/http%3A//globalcollect.com/company/privacy.html) for the most accurate reproduction.*
 
 # GlobalCollect Privacy Policy - committed to honoring the privacy of users and merchants
 
