@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ifly.com privacy policy that was archived on 2007-07-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070726100240id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifly.com privacy policy that was archived on 2008-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081019051122id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head>
      
@@ -9,22 +9,47 @@
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="expires" content="0">
   <meta name="keywords" content="Airport, Airports, Arrivals, Departures, Terminal Maps, Rental Cars, Travel, Flight Track, Flight View, Flight Tracking, flight tracker, Airport Parking, Airport Directions, Airport Shuttle, Flights, Fly, ">
-  <meta name="description" content="iFly.com provides airport travel guides complete with flight arrivals &amp; departures, parking, terminal maps, ground transportation, weather and more..">
+  <meta name="description" content="iFly.com: Airport Info, Flight Status &amp; Tracking, Airport Parking, Terminal Maps, Ground-transportation, Flights, Hotels, and more Info">
 
   <base href="http://www.ifly.com/">
   <link rel="shortcut icon" href="http://www.ifly.com/resources/img/uni/fav.ico" type="image/x-icon">
   <link rel="icon" href="http://www.ifly.com/resources/img/uni/fav.ico" type="image/x-icon">
-  <!-- CSS-->
+
+  <!-- === -->
+  <!-- CSS -->
+  <!-- === -->
+
+  <!-- Main CSS -->
   <link href="http://www.ifly.com/resources/css/iflystyle.css" rel="stylesheet" type="text/css">
+  <!-- CSS used by the main menu -->
   <link href="http://www.ifly.com/resources/css/iflymenu.css" rel="stylesheet" type="text/css" media="all">
-  <!-- Javascript-->
+        
+  <!-- ========== -->
+  <!-- Javascript -->
+  <!-- ========== -->
+  
+  <!-- Required by the main menu -->
   <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/ieHover.js"></script>
-  <script type="text/javascript" src="http://www.ifly.com/resources/js/dateInput.js"></script>
-  <script type="text/javascript" src="http://www.ifly.com/resources/js/asearch.js"></script>
-  <script type="text/javascript" src="http://www.ifly.com/resources/js/booking-engine.js"></script>
-<!--
-   <script type="text/javascript" src="http://www.ifly.com/resources/js/column.js"></script>
-  -->
+  <!-- Call to booking engine calendar -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/dateInput.js"></script>
+  <!-- Call to AirportFind function --> 
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/asearch.js"></script>
+  <!-- Call to booking engine version 2:creatives page -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/booking-engineV2.js"></script>
+  <!-- Call to booking engine version 3 -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/booking-engineV3.js"></script>
+  <!-- Call to an alert box -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/alertBox.js"></script>
+  <!-- Searches validations: airport searches -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/searchesValidations.js"></script>
+  <!-- Call to function that take the user to a different page -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/goToAnotherPage.js"></script>
+    	
+  <!-- Call to booking engine version 3 -->
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/submitBEforms.js"></script>
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/submitBEexpForm.js"></script>
+  <script type="text/javascript" language="JavaScript" src="http://www.ifly.com/resources/js/submitBEhotForm.js"></script>
+  
   <!-- Inline Javascript -->
   
     <style type="text/css">
@@ -38,199 +63,243 @@
 
 <body>
   <div id="container">
-    <!-- Header -->
-    <div id="iflyheader"><h1>The Web’s Best Guide to Airports and Flights</h1></div>
-    <div id="banner"><h1>
-    <span class="blueL">Your Guide to Flights and Info for over 300 Airports,</span> <br>including live airport
-                  <a href="http://www.ifly.com/airport-search">departures</a>/
-        <a href="http://www.ifly.com/airport-search">arrivals</a>, 
-        <a href="http://www.ifly.com/track-new-flight">flight tracking</a>,  
-        <a href="http://www.ifly.com/airport-search">maps/directions</a>, <br>
-        <a href="http://www.ifly.com/hotels">airport hotels</a> and much more. You can even reserve your parking here.
-          	</h1></div>
+      <!-- TOP HEADER -->
+
+    <!-- Logo -->
+    <a href="http://www.ifly.com/"><div id="iflyheader"><h1>The Web’s Best Guide to Airports and Flights</h1></div></a>
+    <!-- Banner -->
+    <div id="banner"><center><script type="text/javascript" language="javascript" src="http://www.tkqlhce.com/placeholder-3098701?target=_blank&amp;mouseover=Y"></script></center></div>
+
+    <!-- Google's Site Search section -->
     <div id="iflysearch">
-      <form method="get" action="http://search.yahoo.com/search">
-        <input name="p" type="text" size="20" class="textForm" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" value="Search">
-        <input type="hidden" name="fr" value="yscpb">
-        <input type="hidden" name="vs" id="ysvs1" style="vertical-align: middle" value="www.ifly.com">
-        <input name="goButton" type="image" src="http://www.ifly.com/resources/images/search_button.gif">
-       </form>
+      <form action="http://www.ifly.com/search" id="cse-search-box">
+        <div>
+          <input type="hidden" name="cx" value="partner-pub-0781852406818918:liggcq-9enj">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="text" name="q" size="25" class="textForm">
+          <!-- <input type="submit" name="sa" value="Search" /> -->
+          <input name="goButton" type="image" src="http://www.ifly.com/resources/images/search_buttonS.gif">
+        </div>
+      </form>
+      <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
     </div>
-  <!-- End Header -->
+    <!-- End Google's Site Search section -->
+
+    <!-- END TOP HEADER -->
   <!-- Main Menu -->
-        <div id="menu-top">
-        <ul id="nav">
+      <!-- MAIN MENU -->
+    <div id="menu-top">
+      <ul id="nav">
+        <!-- Home Tab -->
+        <li class="on"><a href="http://www.ifly.com/">Home</a>
+          <!-- ... Home's sub options -->
+          <ul>
+            <li class="smenu"><a href="http://www.ifly.com/sitemap-state#state" rel="nofollow" title="Search for airports by US State">US Airports by State</a></li>
+            <li class="smenu"><a href="http://www.ifly.com/us-airports" rel="nofollow" title="Search for airports by US City">US Airports by City</a></li>
+            <li class="smenu"><a href="http://www.ifly.com/sitemap-state#province" rel="nofollow" title="Search for airports by Canadian Province">CAN Airports by Province</a></li>
+            <li class="smenu"><a href="http://www.ifly.com/airport-tips" rel="nofollow" title="Tips to help get you through the airport">Airport Tips</a></li>
+            <li class="smenu"><a href="http://www.ifly.com/airport-resources" rel="nofollow">Airport Resources</a></li>
+          </ul>
+          <!-- ...End Home's sub options -->
+        </li>
+        <!-- End Home Tab -->
 
-          <!-- Home Tab -->
-          <li class="on"><a href="http://www.ifly.com/">Home</a>
-            <ul>
-              <li class="smenu"><a href="http://www.ifly.com/home#state" title="Search for airports by US State">US Airports by State</a></li>
-              <li class="smenu"><a href="http://www.ifly.com/us-airports" title="Search for airports by US City">US Airports by City</a></li>
-              <li class="smenu"><a href="http://www.ifly.com/home#province" title="Search for airports by Canadian Province">CAN Airports by Province</a></li>
-              <li class="smenu"><a href="http://www.ifly.com/airport-tips">Airport Tips</a></li>
-              <li class="smenu"><a href="http://www.ifly.com/airport-resources" title="Tips to help get you through the airport">Airport Resources</a></li>
-            </ul></li>
-
-          <!-- Airport Info Tab -->
-          <li class="off">
-            <script>AirportFind('http://www.ifly.com/','General Airport Information', 'Airport Information')</script>            <ul>
-              <!-- General Info -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','General Airport Information', 'Airport Info')</script></li>
-              <!-- Terminal Amenities -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Info on Baggage carts, banking facilities, business services, emergency services, lost &amp; found, smoking and more.', 'Terminal Amenities')</script></li>
-              <!-- Restaurants and Stores -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Find which shops and restaurants serve an Airport', 'Restaurants and Stores')</script></li>
-              <!-- Layover Ideas -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Got a layover at an Airport? Checkout these tips to help pass the time','Airport Layover Ideas')</script></li>
-            </ul></li>
+        <!-- Airport Info Tab -->
+        <li class="off">
+          <script type="text/javascript">AirportFind('13','http://www.ifly.com/','', 'Airport Information')</script>          <!-- ... Airport Info's sub options -->
+          <ul>
+            <!-- ... ... General Info -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','General Airport Information', 'Airport Info')</script></li>
+            <!-- ... ... Terminal Amenities -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Info on Baggage carts, banking facilities, business services, emergency services, lost &amp; found, smoking and more.', 'Terminal Amenities')</script></li>
+            <!-- ... ... Restaurants and Stores -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Find which shops and restaurants serve an Airport', 'Restaurants and Stores')</script></li>
+            <!-- ... ... Layover Ideas -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Got a layover at an Airport? Checkout these tips to help pass the time','Airport Layover Ideas')</script></li>
+          </ul>
+          <!-- ... End Airport Info's sub options -->
+        </li>
+        <!-- End Airport Info Tab -->
 		  
-          <!-- Flight Status Tab -->
-          <li class="off">
-            <script>AirportFind('http://www.ifly.com/','View Live US Airport Arrivals, Departures, and Flight Status', 'Flight Tracking and Status')</script>            <ul>
-              <!-- Arrivals -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','View Live US Airport Arrivals', 'Airport Arrivals')</script></li>
-              <!-- Departures -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','View Live US Airport Departures', 'Airport Departures')</script></li>
-              <!-- Flight Tracker -->
-              <li class="smenu"><a title="Flight Tracking of all US flights, displayed on a color map" href="http://www.ifly.com/track-new-flight">Track Flights on a Map</a></li>
-            </ul></li>
+        <!-- Flight Status and Tracking Tab -->
+        <li class="off">
+          <script type="text/javascript">AirportFind('13','http://www.ifly.com/','', 'Flight Status and Tracking')</script>          <!-- ... Flight Status's sub options -->
+          <ul>
+            <!-- ... ... Arrivals -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','View Live US Airport Arrivals', 'Airport Arrivals')</script></li>
+            <!-- ... ... Departures -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','View Live US Airport Departures', 'Airport Departures')</script></li>
+            <!-- ... ... Flight Tracker -->
+            <li class="smenu"><a href="http://www.ifly.com/flight-tracker" rel="nofollow" title="Flight Tracking of all US flights, displayed on a color map">Flight Tracker &amp; Flight Status</a></li>
+          </ul>
+          <!-- ... End Flight Status's sub options -->
+        </li>
+        <!-- End Flight Status Tab -->
 
-          <!-- Airport Status Tab -->
-          <li class="off">
-            <script>AirportFind('http://www.ifly.com/','See current and predicted delays for an Airport', 'Airport Status')</script>            <ul>
-              <!-- Delays -->
-              <li class="smenucenter"><script>AirportFind('http://www.ifly.com/','See current and predicted delays for an Airport', 'Airport Delays')</script></li>
-              <!-- Security Wait Times -->
-              <!--
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','View airport average wait times by time period', 'Airport Security Wait Times')</script></li>
-              -->
-              <!-- Weather -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','View Airport weather and forecast', 'Weather')</script></li>
-              <!-- Forecast -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','View Airport forecast', 'Forecast')</script></li>
-            </ul></li>
+        <!-- Airport Status Tab -->
+        <li class="off">
+          <script type="text/javascript">AirportFind('13','http://www.ifly.com/','', 'Airport Status')</script>          <!-- ... Airport Status's sub options -->
+          <ul>
+            <!-- ... ... Delays -->
+            <li class="smenucenter"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','See current and predicted delays for an Airport', 'Airport Delays')</script></li>
+            <!-- ... ... Security Wait Times -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','View airport average wait times by time period', 'Airport Security Wait Times')</script></li>
+            <!-- ... ... Weather -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','View Airport weather and forecast', 'Weather')</script></li>
+            <!-- ... ... Forecast -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','View Airport forecast', 'Forecast')</script></li>
+          </ul>
+          <!-- ... End Airport Status's sub options -->
+        </li>
+        <!-- End Airport Status Tab -->
 
-          <!-- Maps & Directions Tab -->
-          <li class="off">
-            <script>AirportFind('http://www.ifly.com/','Maps and Driving Directions to/from an Airport', 'Maps &amp; <br>Directions')</script>            <ul>
-              <!-- Airport Map -->
-              <li class="smenucenter"><script>AirportFind('http://www.ifly.com/','Zoomable map to help get you oriented around an Airport', 'Airport Map')</script></li>
-              <!-- Terminal Map -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Map of an airport, including terminals and parking.', 'Terminal Map')</script></li>
-              <!-- Parking Map -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Airport parking map', 'Parking Map')</script></li>
-              <!-- Driving Directions -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Driving Directions to/from an Airport', 'Directions To/From an Airport')</script></li>
-            </ul></li>
+        <!-- Parking Tab -->
+    <!-- No Airport Selected -->
+        <!-- Generic Parking Tab -->
+        <li class="off">
+          <a href="http://www.ifly.com/off-airport-parking">Airport Parking</a>
+          <!-- ... Parking's sub options -->
+          <ul>
+            <!-- ... ... Off-Site Parking -->
+            <li class="smenucenri"><a href="http://www.ifly.com/off-airport-parking" title="Pre-book your airport parking on-line and save BIG using off-site parking with free shuttle-bus service to the terminal.">Off-Site Airport Parking (Save!!)</a></li>
+            <!-- ... ... On-Site Parking -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Short and Long-term airport parking, including parking maps', 'On-Site Airport Parking')</script></li>
+            <!--  ...  ... Park & Stay -->
+            <li class="smenu"><a href="http://www.ifly.com/trip-plan/park-and-stay" target="_blank" rel="nofollow" title="Get up to 2 weeks free parking with one-night stay">Airport Hotel Park &amp; Stay Deals</a></li>
+          </ul>
+          <!-- ... End Parking's sub options -->
+        </li>
+        <!-- End Generic Parking Tab -->
+           <!-- End Parking Tab -->
+ 
+        <!-- Book Flights Tab -->
+        <li class="off"><a href="http://www.ifly.com/flights">Book Flights</a>          <!-- ... Book Flights sub options -->
+          <ul>
+            <!-- ... ... Book Flights -->
+            <li class="smenuright"><a href="http://www.ifly.com/flights" title="Find flights to &amp; from any US Airport">Book Flights</a></li>
+            <!-- ... ... Last Min Flight Deals -->
+            <li class="smenu"><a href="http://www.ifly.com/trip-plan/last-minute" target="_blank" rel="nofollow" title="Amazing Last-minute Deals">Last Min Flight Deals</a></li>
+            <!-- ... ... FareCalendar -->
+            <li class="smenu"><a href="http://www.ifly.com/trip-plan/farecalendar" target="_blank" rel="nofollow" title="Compare Fares Here!">FareCalendar (see best days to fly!)</a></li>
+          </ul>
+          <!-- ... End Book Flights sub options -->
+        </li>
+        <!-- End Book Flights Tab -->
 
-          <!-- Book Hotels Tab -->
-          <li class="off"><a title="Find great hotel deals" href="http://www.ifly.com/hotels">Book Hotels</a>
-            <ul>
-              <!-- City Hotels -->
-              <li class="smenucenri"><a title="Find Hotels in any City" href="http://www.ifly.com/hotels">Book Hotels</a></li>
-              <!-- Hotels Near Airport -->
-              <li class="smenu"><a title="Find Hotels in any City" href="http://www.ifly.com/trip-plan/airport-hotel">Find Hotels Near an Airport</a></li>
-              <!-- Rental Cars  -->
-              <li class="smenu"><a title="Find Airport Rental Cars from $13.95/day!" href="http://www.ifly.com/trip-plan/rental-cars" rel="nofollow" target="_blank">Airport Rental Cars</a></li>
-            </ul></li>
+        <!-- Hotels Tab -->
+        <li class="off"><a href="http://www.ifly.com/hotels">Book Hotels</a>
+          <!-- ... Hotels sub options -->
+          <ul>
+            <!-- ... ... City Hotels -->
+            <li class="smenucenri"><a href="http://www.ifly.com/hotels" title="Find Hotels in any City">Book Hotels</a></li>
+            <!-- ... ... Hotels Near Airport -->
+            <li class="smenu"><a href="http://www.ifly.com/trip-plan/airport-hotel" rel="nofollow" target="_blank" title="Find Hotels in any City">Find Hotels Near an Airport</a></li>
+            <!-- ... ... Rental Cars  -->
+            <li class="smenu"><a href="http://www.ifly.com/trip-plan/rental-cars" rel="nofollow" target="_blank" title="Find Airport Rental Cars from $13.95/day!">Airport Rental Cars</a></li>
+          </ul>
+          <!-- ... End Hotels sub options -->
+        </li>
+        <!-- End Hotels Tab -->
 
-          <!-- Book Flights Tab -->
-          <li class="off">
-          <a title="Find flights to &amp; from any US Airport" href="http://www.ifly.com/flights">Book Flights</a>            <ul>
-              <!-- Book Flights -->
-              <li class="smenuright"><a title="Find flights to &amp; from any US Airport" href="http://www.ifly.com/flights">Book Flights</a>              <!-- Last Min Flight Deals -->
-              </li><li class="smenu"><a title="Amazing Last-minute Deals" href="http://www.ifly.com/trip-plan/last-minute" rel="nofollow" target="_blank">Last Min Flight Deals</a></li>
-              <!-- FareCalendar -->
-              <li class="smenu"><a title="Compare Fares Here!" href="http://www.ifly.com/trip-plan/farecalendar" rel="nofollow" target="_blank">FareCalendar (see best days to fly!)</a></li>
-            </ul></li>
+        <!-- Maps & Directions Tab -->
+        <li class="off"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','', 'Maps &amp; <br>Directions')</script>          <!-- ... Maps & Directions sub options -->
+          <ul>
+            <!-- ... ... Airport Map -->
+            <li class="smenucenter"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Zoomable map to help get you oriented around an Airport', 'Airport Map')</script></li>
+            <!-- ... ... Terminal Map -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Map of an airport, including terminals and parking.', 'Terminal Map')</script></li>
+            <!-- ... ... Parking Map -->
+            <li class="smenu">
+                      <script type="text/javascript">AirportFind('13','http://www.ifly.com/','Airport parking map', 'Parking Map')</script>
+                    </li>
+            <!-- ... ... Driving Directions -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Driving Directions to/from an Airport', 'Directions to/from an Airport')</script></li>
+          </ul>
+          <!-- ... End Maps & Directions sub options -->
+        </li>
+        <!-- End Maps & Directions Tab -->
+			
+        <!-- Ground Transportation Tab -->
+        <li class="off"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','', 'Airport Ground Transportation')</script>          <!-- ... Ground Transportation's sub options -->
+          <ul>
+            <!-- ... ... Rental Cars -->
+            <li class="smenuright"><a href="http://www.ifly.com/trip-plan/rental-cars" rel="nofollow" target="_blank" title="Find Airport Rental Cars from $13.95/day!">Airport Rental Cars</a></li>
+            <!-- ... ... Shuttles -->
+            <li class="smenu"><a href="http://www.ifly.com/airport-shuttles" rel="nofollow" title="Get tips on using door-to-door airport shuttles, and find contact info for companies serving an Airport">Airport Door to Door Shuttles</a></li>
+            <!-- ... ... Taxis & Limos -->
+            <li class="smenu"><script type="text/javascript">AirportFind('13','http://www.ifly.com/','Get tips on taking cabs to/from an airport, and find local taxi and limo companies that serve a city.','Taxis &amp; Limos')</script></li>
+          </ul>
+          <!-- ... End Ground Transportation's sub options -->
+        </li>
+        <!-- Ground Transportation Tab -->
 
-          <!-- Parking Tab -->
-          <li class="off">
-          <script>AirportFind('http://www.ifly.com/','Short and Long-term airport parking, including parking maps', 'Airport Parking')</script>
-            <ul>
-              <!-- On-Site Parking -->
-              <li class="smenuright"><script>AirportFind('http://www.ifly.com/','Short and Long-term airport parking, including parking maps', 'On-Site Airport Parking')</script></li>
-              <!-- Off-Site Parking -->
-                              <li class="smenu"><a title="Pre-book your airport parking on-line and save BIG using off-site parking with free shuttle-bus service to the terminal." href="http://www.ifly.com/trip-plan/parking-apr" target="_blank" rel="nofollow">Off-Site Airport Parking (Save!!)</a></li>
-              
-              <!--  Park & Stay -->
-              <li class="smenu"><a title="Get up to 2 weeks free parking with one-night stay" href="http://www.ifly.com/trip-plan/park-and-stay" target="_blank" rel="nofollow">Airport Hotel Park &amp; Stay Deals</a></li>
-            </ul></li>
-
-
-          <!-- Ground Transportation -->
-          <li class="off">
-          <script>AirportFind('http://www.ifly.com/','Airport Ground Transportation Information', 'Airport Ground Transportation')</script>            <ul>
-              <!-- Rental Cars -->
-              <li class="smenuright"><a title="Find Airport Rental Cars from $13.95/day!" href="http://www.ifly.com/trip-plan/rental-cars" rel="nofollow" target="_blank">Airport Rental Cars</a></li>
-              <!-- Shuttles -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Get tips on using door-to-door airport shuttles, and find contact info for companies serving an Airport', 'Airport Door to Door Shuttles')</script></li>
-              <!-- Public Transport -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Info on public transportation options to/from an Airport', 'Airport Public Transportation')</script></li>
-              <!-- Taxis & Limos -->
-              <li class="smenu"><script>AirportFind('http://www.ifly.com/','Get tips on taking cabs to/from an airport, and find local taxi and limo companies that serve a city.','Taxis &amp; Limos')</script></li>
-            </ul></li>
-          <!-- Airport Search -->
-          <li class="off"><a href="http://www.ifly.com/airport-search">Find Airport</a>
-            <ul>
-              <li class="smenu"></li>
-            </ul></li>
-
-        </ul>
-      </div>
-  <!-- End Main Menu -->
-            <!-- Left -->
-    <div id="left"></div>        <div id="center">
-
-	            <div class="boxgray">
-                  <!-- Generics -->
-           <!-- All -->
-             <span class="orangeXL">Privacy</span>
-                     
-      </div>
-            This is the web site of IFly.com. Our postal address is 1006 S. Emerson St. Denver, Colorado 80209, USA. For each visitor to our Web page, our Web server recognizes no information regarding the domain or e-mail address. <br><br>
-      We collect user-specific information on what pages consumers access or visit. The information we collect is used to customize the content and/or layout of our page for each individual visitor. We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends.<br><br>
-      To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.<br><br>
-      We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+      </ul>
     </div>
-    <!-- End Center Column -->
+    <!-- END MAIN MENU -->
+  <!-- End Main Menu -->
+        <div id="left"></div>
+          <div id="center">
+  	            <div class="boxgray">
+       <!-- All pages except Closest Airports --> 
+        <!-- ... Generics -->
+        <table width="100%">
+          <tbody><tr>
+            <td width="90%">
+         
+          <!-- ... ... All -->
+          <span class="orangeXL">Privacy</span>
+                    </td>
+                      </tr>
+        </tbody></table>
+        <!-- ... End Generics -->	
+            </div>
+      This is the web site of iFly.com, operated by Red Cirrus LLC. Our postal address is 26790 Taaffe Road, Los Altos Hills CA 94022 , USA . Our Web servers do not capture any information regarding the domain or e-mail address of any visitors.  
+For questions please send an inquiry to <a href="mailto:support@ifly.com">support@ifly.com</a><br><br>
+We collect user-specific information on what pages consumers access or visit. The information we collect is used to customize the content and/or layout of our page for each individual visitor. We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends.<br><br>
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.<br><br>
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.    </div>
+    <!-- END CENTER COLUMN -->
 
-    <!-- Right Column -->
-
-      <div id="right"></div>  
-    <!-- Footer -->
+    <!-- RIGHT COLUMN -->
+    <!-- Right column is defined -->
+        <div id="right"></div>
+        
+    <!-- FOOTER -->
     <div id="footer">
-      <table class="footernav" width="100%">
+      <table class="footernav">
         <tbody><tr>
-          <td class="ifly">© 2007 Red Cirrus, LLC. All rights reserved.</td>
+          <td class="ifly">© 2008 Red Cirrus, LLC. All rights reserved.</td>
           <td class="nav">
             <ul class="pipe">
-              <li class="first"><a href="http://www.ifly.com/about-ifly">About</a></li>
+              <li class="first"><a href="http://www.ifly.com/about-ifly" rel="nofollow">About</a></li>
               <li><a href="http://www.ifly.com/sitemap">Site Map</a></li>
-              <li><a href="http://www.ifly.com/support">Customer Support</a></li>
-              <li><a href="http://www.ifly.com/privacy">Privacy</a></li>
-              <li><a href="http://www.ifly.com/terms">Terms and Conditions</a></li>
+              <li><a href="http://www.ifly.com/support" rel="nofollow">Customer Support</a></li>
+              <li><a href="http://www.ifly.com/privacy" rel="nofollow">Privacy</a></li>
+              <li><a href="http://www.ifly.com/terms" rel="nofollow">Terms and Conditions</a></li>
             </ul>
           </td>
         </tr>
       </tbody></table>
     </div>
-    <!-- End Footer -->
+    <!-- END FOOTER -->
     
     <br clear="all"><!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
   </div>
-  <!-- End Container -->
 
-  <!-- Google Analytics
+  <!-- GOOGLE ANALYTICS -->
   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
   <script type="text/javascript">
     _uacct = "UA-283184-1";
     urchinTracker();
   </script>	
-  -->
+  <!-- Google Analytics -->
 
-  <!-- must be after last DIV to work in IE -->
-  
+  <!-- VEMAP APP: must be after last DIV to work in IE -->
+    <!-- END VEMAP APP -->
+
+  <!-- CrazyEgg Code -->
+  <script type="text/javascript" src="http://cetrk.com/pages/scripts/0008/6306.js"> </script>
+  <!-- End CrazyEgg Code -->
 
 
-0.572 secs.</body></html>
+0.669 secs.</body></html>
