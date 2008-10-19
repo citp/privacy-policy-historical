@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084554id_/http%3A//www.kanetix.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019095846id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # privacy
 
-Your privacy and security Our Privacy Pledge   
-Effective on August 09, 2006 
+Your privacy and security
+
+Our Privacy Pledge
+
+Effective on August 09, 2006
 
 #### _kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _kanetix_ provides insurance quotes/estimates with minimal personal information. With the exception of our insurance suppliers and where mandated by the government, the personal information that you share with us will not be shared with third parties without your prior consent.
 
@@ -21,7 +24,7 @@ Effective on August 09, 2006
 
 #### If you have questions or concerns regarding this statement, you should first contact [kanetix](http://www.kanetix.ca/about_generic_about_us). If you do not receive acknowledgment of your inquiry or you do not feel your inquiry has been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with _kanetix_ to resolve your concerns.
 
-[](https://www.entrust.net/customer/profile.cfm?ID=C57F2AEB-90A9-82BE-C540AFFC05634E0B-64321) [](http://www.truste.org/ivalidate.php?url=www.kanetix.ca&sealid=101)
+[](https://www.entrust.net/customer/profile.cfm?domain=www.kanetix.ca) [](http://www.truste.org/ivalidate.php?url=www.kanetix.ca&sealid=101)
 
 ####   
 Entering personal data on _kanetix_ is not only easy but also safe. _kanetix_ uses an Apache server with SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and Entrust.net certificates for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available.
