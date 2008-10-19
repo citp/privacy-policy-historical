@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the comparestoreprices.co.uk privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530173914id_/http%3A//www.comparestoreprices.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparestoreprices.co.uk privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020011148id_/http%3A//www.comparestoreprices.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | What's Hot  
 ---  
   
-[](http://www.comparestoreprices.co.uk/expiring-discount-vouchers.asp)   
+[](http://www.comparestoreprices.co.uk/expiring-discount-vouchers.asp)
+
+[](http://www.comparestoreprices.co.uk/visit.asp?u=http://clkuk.tradedoubler.com/click%C2%ACp=44561%C2%A6a=373220%C2%A6g=16567606)
+
+  
   
   
 
