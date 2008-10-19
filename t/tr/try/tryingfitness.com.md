@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226152050id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019213014id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trying Fitness
 
@@ -24,11 +24,11 @@ We do not sell or rent your personal information or share your personal informat
 
 
 **Cookies and Other Tracking Methods**  
-Cookies are small pieces of information tored on your computer. We may use cookies or, in a limited number of cases and IP addresses for a number of reasons. Cookies allow us to better understand how users use our site and can help us to tailor our Web site or a marketing message to better match your needs and interests. Cookies can also help you remember your user name and password on protected areas of Web sites. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do.
+Cookies are small pieces of information stored on your computer. We may use cookies or, in a limited number of cases and IP addresses for a number of reasons. Cookies allow us to better understand how users use our site and can help us to tailor our Web site or a marketing message to better match your needs and interests. Cookies can also help you remember your user name and password on protected areas of Web sites. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do.
 
-Correction of Personal Information; Opt-Out Right We ask that you notify us of any changes to your personal information via e-mail shown in the last section of this Privacy Policy.
+Correction of Personal Information; Opt-Out Right We ask that you notify us of any changes to your personal information via our [contact form](https://web.archive.org/contact/).
 
-You may at any time request to be removed from our email list by clicking the unsubscribe link in any email you receive from us. Alternatively, you may notify us via e-mail shown in the last section of this Privacy Policy. In the event you elect not to receive any future contacts from us, we will endeavor to remove your name from our email list within 10 business days.
+You may at any time request to be removed from our email list by clicking the unsubscribe link in any email you receive from us. Alternatively, you may notify us via our [contact form](https://web.archive.org/contact/). In the event you elect not to receive any future contacts from us, we will endeavor to remove your name from our email list within 10 business days.
 
 **Notification of Changes**  
 If we are going to use your personal information in a manner different from that stated at the time of collection through this Web site, we will notify you. In addition, if we make any material changes in our privacy practices that affect user information already collected through our site, we will post a notice on our web site notifying users of the change.
