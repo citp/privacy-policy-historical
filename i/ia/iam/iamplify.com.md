@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503000344id_/http%3A//iamplify.com/main_tpl.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019152803id_/http%3A//www.iamplify.com/store/privacy) for the most accurate reproduction.*
 
-# iAmplify - I amplify, do you?
+# Mp3 Downloads, Videos, Audio Books: Fitness, Self Help, Business Training, More
+
+## Privacy Policy
+
+* * *
 
 iAmplify, LLC ("iAmplify") is very sensitive to the privacy concerns of iAmplify customers and visitors to our website (the "Site") at www.iamplify.com (collectively, the "iAmplify users"). This iAmplify Online Privacy Policy ("Privacy Policy") explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by iAmplify users. By visiting the Site or signing up for our services including free services, iAmplify users signify their assent to this Privacy Policy. 
 
@@ -32,10 +36,6 @@ Unless expressly allowed under this policy, iAmplify may only share, transfer or
 
 iAmplify maintains physical, electronic, and procedural safeguards to guard your personal information. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. We use Secure Socket Layer technology, among other technologies, to protect any credit card information you provide us. 
 
-**Personally Identifiable Information of Children**
-
-iAmplify's Site is directed towards adults, and sells some products that are for children to adults. You may only register for and use the Site if you are 18 or over. If you are a parent or guardian and your child's personally identifiable information has been collected by iAmplify and you wish to review such information, prevent its use by iAmplify pursuant to this Privacy Policy or request our deletion of it, please contact us by email at [customerservice@iamplify.com](mailto:customerservice@iamplify.com).
-
 **Unforeseen Circumstances**
 
 In the event that iAmplify or any of its assets are acquired by a third party, personal information acquired by us may be one of the assets transferred.
@@ -50,4 +50,4 @@ On occasion, it may be necessary for iAmplify to change the terms of this Privac
 
 **Contact Us**
 
-For questions regarding the iAmplify Online Privacy Policy or other issues, please email us at [help@iamplify.com](https://mail.google.com/mail?view=cm&tf=0&to=help@iamplify.com&su=Suggestion%20From%20iAmplify%20Customer&body=Here%20are%20my%20ideas%20for%20iAmplify:%0A%0ANew%20Content:%0AWebsite%20Functionality:%0AOther:). 
+For questions regarding the iAmplify Online Privacy Policy or other issues, please email us at [customerservice@iamplify.com](mailto:customerservice@iamplify.com). 
