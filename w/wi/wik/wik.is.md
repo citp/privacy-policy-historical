@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607022509id_/http%3A//www.wik.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019061406id_/http%3A//wik.is/privacy) for the most accurate reproduction.*
 
-# MindTouch Wik.is: Free Deki Wiki Hosting
+# MindTouch Wik.is: Free MindTouch Deki Hosting
 
 ## Short version
 
