@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726100240id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019051122id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
 
 # iFly.com: Privacy Policy
 
-Privacy
-
-This is the web site of IFly.com. Our postal address is 1006 S. Emerson St. Denver, Colorado 80209, USA. For each visitor to our Web page, our Web server recognizes no information regarding the domain or e-mail address. 
+This is the web site of iFly.com, operated by Red Cirrus LLC. Our postal address is 26790 Taaffe Road, Los Altos Hills CA 94022 , USA . Our Web servers do not capture any information regarding the domain or e-mail address of any visitors. For questions please send an inquiry to [support@ifly.com](mailto:support@ifly.com)
 
 We collect user-specific information on what pages consumers access or visit. The information we collect is used to customize the content and/or layout of our page for each individual visitor. We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
