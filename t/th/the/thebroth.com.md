@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebroth.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515072744id_/http%3A//www.thebroth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebroth.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021011514id_/http%3A//www.thebroth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TheBroth.com
 
@@ -68,7 +68,7 @@ Users who would rather not provide the data requested by our registration proces
 
 ## 7\. How can I review and update my personally identifiable information?
 
-TheBroth does not store personally identifiable information other than your email address. You can [unregister](http://www.thebroth.com/unregister.html) which will delete your account, and it will remove your name from gallery comments you may have made and from artworks you may have contributed to. Your posts in the forum will remain visible and continue to display your username. If you are experiencing problems with our services or you have questions about how our services work, you can contact us via our [contact page](https://web.archive.org/web/20080515072744id_/http%3A//www.thebroth.com/contact.html). 
+TheBroth does not store personally identifiable information other than your email address. You can [unregister](http://www.thebroth.com/unregister.html) which will delete your account, and it will remove your name from gallery comments you may have made and from artworks you may have contributed to. Your posts in the forum will remain visible and continue to display your username. If you are experiencing problems with our services or you have questions about how our services work, you can contact us via our [contact page](https://web.archive.org/web/20081021011514id_/http%3A//www.thebroth.com/contact.html). 
 
 ## 8\. How is my information secured?
 
