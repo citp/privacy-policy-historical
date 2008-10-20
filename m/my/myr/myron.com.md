@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180027id_/http%3A//www.myron.com/about/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020025046id_/http%3A//www.myron.com/myron/privacy.ep) for the most accurate reproduction.*
 
-# Myron - The Leader in Personalized Business Gifts ™
-
-Privacy Statement
+# Privacy - Promotional Items, Imprinted Pens, Advertising Specialties from Myron
 
 Myron Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: Myron.com.
 
@@ -29,7 +27,7 @@ Correct / Update
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   * _You can send email to_  
-[service@myron.com](mailto:service@myron.com)
+[service@myron.com](mailto:DEHC@myron.com)
   * _You can send mail to the following postal address_  
 Myron Corp.  
 205 Maywood Avenue  
@@ -42,7 +40,7 @@ Maywood, NJ 07607
 This site gives the option to change and update your account information.
 
   * _Email_  
-[service@myron.com](mailto:service@myron.com)
+[service@myron.com](mailto:DEHC@myron.com)
   * _Send mail to the following postal address_  
 Myron Corp.  
 205 Maywood Avenue  
@@ -60,6 +58,6 @@ If you have any questions about this privacy statement, the practices of this si
 Myron Corp.  
 205 Maywood Avenue  
 Maywood, NJ 07607
-  * [service@myron.com](mailto:service@myron.com) or [webmaster@myron.com](mailto:webmaster@myron.com)
+  * [service@myron.com](mailto:DEHC@myron.com) or [webmaster@myron.com](mailto:webmaster@myron.com)
 
 
