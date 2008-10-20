@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513080150id_/http%3A//www.fliggo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020132106id_/http%3A//www.fliggo.com/legal/privacy) for the most accurate reproduction.*
 
 # Fliggo - Legal - Privacy Policy
-
-**What is Fliggo?** Personalized entertainment. Advanced tools for content creators. Read all about it at our [new blog](http://www.fliggo.com/blog/).
 
 ### 1\. Purpose
 
