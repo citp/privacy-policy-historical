@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311190029id_/http%3A//www.vicroads.vic.gov.au/Home/Options/Privacy/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020074912id_/http%3A//vicroads.vic.gov.au/Home/Options/Privacy/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement : VicRoads
 
