@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526014413id_/http%3A//www.myopinions.com.au/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020191637id_/http%3A//myopinions.com.au/Policy.aspx) for the most accurate reproduction.*
 
 # MyOpinions - Privacy Policy
 
