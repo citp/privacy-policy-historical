@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524215122id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020050829id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
 
 # PowerBar: Privacy
 
@@ -11,7 +11,7 @@
 | 
 
 Effective Date: 10/25/2006  
-Last Updated On: 9/19/2007
+Last Updated On: 9/12/2008
 
 Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting (“Nestlé USA Privacy Policy” or “Privacy Policy”). We have also voluntarily undertaken privacy certification with TRUSTe, which requires that we meet established online information collection and use practices.
 
@@ -52,7 +52,7 @@ This Privacy Policy does not apply to websites maintained by other companies or 
   3. joint ventures such as Beverage Partners Worldwide (e.g., nestea.com); 
   4. other U.S. subsidiaries of Nestlé SA such as Dreyer’s Ice Cream and Nestlé Waters North America (e.g., nestle-waters.com); 
   5. unaffiliated online stores that sell Nestlé products and to which we link (e.g., mybrandsinc.com and rei.com); and, 
-  6. Nestlé USA that are directed to businesses (e.g., vend-nesquik.com and nestlefoodservices.com). 
+  6. Nestlé USA that are directed to businesses (e.g., vend-nesquik.com and nestleprofessional.com). 
 
 
 
@@ -89,7 +89,7 @@ Personal information is only collected with your knowledge (i.e., if you volunta
 
 Note: depending on the Nestlé USA site that you are visiting, some or many of the activities listed above may not be available.
 
-The types and amount of information collected for the features listed above will vary depending on the activity. The requested personal information may include: first and last name, email address, home address (including city and state), telephone number (work or home), and (for those purchasing products online) credit card information. For some activities, you may be asked to create a username and/or password and/or to provide additional, demographic information, including: (i) your age or date of birth, (ii) gender, (iii) frequency of use, purchase, and consumption of certain Nestlé products and/or other similar products, (iv) facts about your household or lifestyle, and/or, (v) other information relevant to the Nestlé product you’ve purchased or the specific Site which you are visiting (for example, if you are registering on verybestbaby.com or verybestkids.com, you may be asked to provide information about the children in your household, including their names, genders, and birthdates). 
+The types and amount of information collected for the features listed above will vary depending on the activity. The requested personal information may include: first and last name, email address, home address (including city and state), telephone number (work or home), and (for those purchasing products online) credit card information. For some activities, you may be asked to create a username and/or password and/or to provide additional, demographic information, including: (i) your age or date of birth, (ii) gender, (iii) frequency of use, purchase, and consumption of certain Nestlé products and/or other similar products, (iv) facts about your household or lifestyle, and/or, (v) other information relevant to the Nestlé product you’ve purchased or the specific Site which you are visiting (for example, if you are registering on verybestkids.com, you may be asked to provide information about the children in your household, including their names, genders, and birthdates). 
 
 If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below. 
 
@@ -228,7 +228,7 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 Nestlé USA Office of Consumer Services  
 800 N. Brand Blvd.  
 Glendale, CA 91203  
-Contact Us  
+[Contact Us](mailto:nestleconsumerservice@casupport.com)  
 1-800-225-2270 
 
 Nestlé USA is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
