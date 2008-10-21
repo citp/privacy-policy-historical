@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618210748id_/http%3A//www.roccofortehotels.com/footer_items/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021120935id_/http%3A//www.roccofortehotels.com/footer_items/privacy_policy.htm) for the most accurate reproduction.*
 
 # The Rocco Forte Collection, Luxury Hotels, Restaurants and Spas in key Destinations
 
