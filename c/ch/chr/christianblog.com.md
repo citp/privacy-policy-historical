@@ -1,62 +1,46 @@
-> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609164303id_/http%3A//www.christianblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021162154id_/http%3A//www.christianblog.com/privacy) for the most accurate reproduction.*
 
-# Christian Blog, Christian Blogs, Privacy Policy, ChristianBlog.Com, Christian Blogs
+# Christian Blog, Christian Blogs, ChristianBlog.Com Terms of Service, ChristianBlog.Com, Christian Blogs
 
-**Privacy Policy**
+| 
 
-As a Provider, 'ChristianBlog' (aka: ChristianBlog.Com) (herein: Provider) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
+#### ChristianBlog.Com Privacy Notice
 
-Information that is automatically logged: 
+**July 16, 2008**
 
-IP Address - This site uses your IP address to help diagnose problems with our server and to administer our site. This site records the browser type to monitor market penetration of various web browsers so we can better determine the Internet technologies we may utilize in the design of our pages. This information is collected in numerous locations including, but not limited to, when you register, when you log into the website, and when you send messages to other members. 
+The [ChristianBlog.Com Privacy Policy](http://www.christianblog.com/privacy.php) describes how we treat personal information when you use ChristianBlog.Com's products and services, including information provided when you use ChristianBlog.Com. In addition, the following describes our privacy practices that are specific to ChristianBlog.Com.
 
-Page Referral - This site uses page referrer data - that is, information about the page that linked you to this page - to determine to what extent our page is referenced by other resources on the Web. 
+#### Personal information
 
-Advertisement Tracking - This site keeps track of out-going advertisement tracking to best determine the type of advertising our Customer's like. Information tracked includes the time they clicked on an advertisement, the page it was clicked on, and their account information. 
+  * ChristianBlog.Com asks for some personal information when you sign up to use ChristianBlog.Com, including your email address and a password, which is used to protect your account from unauthorized access.
+  * In addition to publishing your weblog posts, you may also provide additional profile information, such as a photo, birthday, location, etc. and can edit your profile at any time on our [profile administration page.](http://www.christianblog.com/manage-profile/)
+  * ChristianBlog.Com servers automatically record information about your use of the service, such as when you use ChristianBlog.Com and the frequency and size of data transfers. Information displayed or clicked in the ChristianBlog.Com interface (including UI elements, settings, and other information) is also recorded. If you are logged in we may associate that information with your account.
+  * If you choose to use [ ChristianBlog.Com Mobile](http://mobile.christianblog.com/), we will record your phone number when you publish content, send a text message, photos, or SMS to or from ChristianBlog.Com. Your phone number may be associated with your ChristianBlog.Com Account or, if you do not have a ChristianBlog.Com Account, with some other similar account ID. We often generate this account ID based on your device and hardware IDs, so if you change your device or hardware, you will have to re-associate this new device or hardware with your account before we can authenticate you.
 
-This data may be used to preserve the integrity of our computing resources. This data is used for statistical analysis of our website access. 
 
-We collect the following types of personal information: 
 
-Traditional contact information such as mailing address and phone number.  
-Internet contact information such as email address.  
-Non-financial identification information, such as username and password. 
+#### Uses
 
-Personal information is used for the following purposes: 
+  * ChristianBlog.Com stores and maintains your account information and copies of your weblog posts and comments, including drafts, in order to provide the service.
 
-Customer billing   
-Customer support   
-Customer notifications (outages etc.)   
-Standard providing of Service 
 
-What personal information is shared: 
 
-Personal information is shared with our internal staff and direct agents (such as our credit card authorization service and/or third-party advertisers) only as needed. 
+#### Your choices
 
-How to review your personal information: 
+  * You can change your ChristianBlog.Com account settings, including your profile information, at any time in the Settings section of ChristianBlog.Com. You can edit, save drafts and remove your weblog posts at any time, as described in [ChristianBlog.Com Help](http://wwwchristianblog.com/help/).
+  * If you delete your weblog, we will remove all posts from public view. Because of the way we maintain this service, residual copies of your profile information and other information associated with your account may remain on back-up media.
 
-Identifying personal information (Name, address, email address etc.) is stored in our billing system. After your account is activated you will receive a welcome letter with the URL to access your account. You may review and correct your information from within your standard membership details. 
 
-Links to external sites: 
 
-This site may contains links to other sites. The Provider is not responsible for the privacy practices or the content of such web sites. 
+#### More information
 
-How we use cookies: 
+Further information about ChristianBlog.Com is available in [ChristianBlog.Com Help](http://www.christianblog.com/help/).
 
-This site uses cookies for session management, to assist with user login, and to track advertisement usages. 
+For more information about our privacy practices, go to [the full privacy policy](http://www.christianblog.com/privacypolicy.php). If you have additional questions, please [contact us any time](http://www.christianblog.com/contact/). Or write to us at:
 
-How we manage Security: 
+> Privacy Matters  
+>  c/o ChristianBlog.Com.  
+>  P.O. Box 3206  
+>  Eureka CA 95501 (USA)
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location. 
-
-Policy Enforcement: 
-
-The Provider reserves all rights to monitor and review all Blog Entry and Blog Comment postings, Internal Messages, and any other Member-To-Member communications, including those marked Private by the Customer, in order to investigate and monitor all compliance with this Policy, and other Global Policies. 
-
-Contact Information: 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact support@christianblog.com 
-
-The Provider reserves all rights to update this Policy without notification to it's Customers. 
-
-Last Updated: 12/01/2005 
+| 
