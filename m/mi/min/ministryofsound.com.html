@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ministryofsound.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509165833id_/http%3A//www.ministryofsound.com/misc/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ministryofsound.com privacy policy that was archived on 2008-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081021124538id_/http%3A//www.ministryofsound.com/misc/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,11 +8,11 @@
 <title>
   Ministry of Sound - Ministry of Sound Privacy Policy
 </title>
-<link href="/ministryofsound/css/Main.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/ministryofsound/css/UserControls.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/ministryofsound/css/MCMS.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://www.ministryofsound.com/css/globalNavigation.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/ministryofsound/css/vodka.css" rel="stylesheet" type="text/css" media="screen">
+<!--<link href="/ministryofsound/css/vodka.css" rel="stylesheet" type="text/css" media="screen" />-->
+<link href="/ministryofsound/css/data.css" rel="stylesheet" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="Ministry of Sound News" href="/xml/news/">
 <link rel="alternate" type="application/rss+xml" title="Ministry of Sound Music" href="/xml/music/">
 <script src="/ministryofsound/js/jquery.js" type="text/javascript"></script>
@@ -43,6 +43,17 @@
     $("#clubPanel:visible").slideUp("fast");
     $("#clubPanel:hidden").slideDown("fast");
   }
+  
+  function toggleShopPanel()
+  {
+    $("#shopPanel:visible").slideUp("fast");
+    $("#shopPanel:hidden").slideDown("fast");
+  }
+  
+  function sendSearch()
+  {
+    document.location = "http://www.ministryofsound.com/ministryofsound/search.aspx?query=" + document.getElementById("txtSearch").value;
+  }
 //]]>
 </script>
 <style type="text/css">
@@ -50,6 +61,7 @@
 </style>
 <script language="JavaScript" type="text/javascript">
 ord = Math.random()*10000000000000000;
+var tile = 1;
 </script>
 </head>
 
@@ -117,12 +129,13 @@ ord = Math.random()*10000000000000000;
 <div id="adTag-super">
   <script type="text/javascript">
     //<![CDATA[
-      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=1;dcopt=ist;sz=728x90,468x60;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
+      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=" + tile + ";dcopt=ist;sz=728x90,468x60;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
     //]]>
-  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=1;dcopt=ist;sz=728x90,468x60;ord=260438735892745.12?" type="text/javascript"></script>
+    tile = tile + 1;
+  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=1;dcopt=ist;sz=728x90,468x60;ord=1046857269890797.4?" type="text/javascript"></script>
   <noscript>
-    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=1;;dcopt=ist;sz=728x90,468x60;;ord=123456789?">
-      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=1;;dcopt=ist;sz=728x90,468x60;;ord=123456789?" alt="Ad Banner" style="border: none;" width="728" height="90" />
+    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=" + tile + ";dcopt=ist;sz=728x90,468x60;ord=123456789?">
+      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=yes;pop=yes;tile=" + tile + ";dcopt=ist;sz=728x90,468x60;ord=123456789?" alt="Ad Banner" style="border: none;" width="728" height="90" />
     </a>
   </noscript>
 </div>
@@ -156,6 +169,8 @@ ord = Math.random()*10000000000000000;
         <span class="text">Search this site:</span>
         <input name="_ctl0:txtSearch" type="text" id="_ctl0_txtSearch" class="input" onkeydown="$(this).css('background-image', 'none');">
         <input type="button" name="_ctl0:btnSearch" value="" onclick="javascript:__doPostBack('_ctl0$btnSearch','')" language="javascript" id="_ctl0_btnSearch" class="go">
+        <!--<input type="text" id="txtSearch" class="input" />
+        <input type="submit" id="btnSearch" class="go" value="" onclick="javaScript:sendSearch();" />-->
       
 </div>
       </div>  
@@ -183,7 +198,6 @@ ord = Math.random()*10000000000000000;
         <a href="#" class="title" onclick="toggleClubPanel(); return false;" title="Biggest names, biggest events, biggest clubs – find out what is happening here">CLUBS</a>
         <div id="clubPanel" class="submenu" style="display:none;">
           <a href="http://club.ministryofsound.com/club" onclick="urchinTracker('/nav/clubs/london');">London</a>
-          <a href="http://www.ministryofsound.com.sg/" onclick="urchinTracker('/nav/clubs/singapore');">Singapore</a>
           <a href="http://www.ministryofsoundegypt.com/" onclick="urchinTracker('/nav/clubs/redsea');">Red Sea</a>
         </div>
         
@@ -194,7 +208,18 @@ ord = Math.random()*10000000000000000;
         
         <a href="http://www.mosdownload.com/" onclick="urchinTracker('/nav/mp3downloads');" class="title" title="Big tunes at small prices">MP3 DOWNLOADS</a>
         
-        <a href="http://www.digitalstores.co.uk/ministryofsound/" onclick="urchinTracker('/nav/shop');" class="title" title="See our complete range of quality items – from MP3 players to clothes and DJ gear">SHOP</a>
+        <a href="http://www.digitalstores.co.uk/ministryofsound/" onclick="toggleShopPanel(); return false;" class="title" title="See our complete range of quality items – from MP3 players to clothes and DJ gear">SHOP</a>
+		<div id="shopPanel" class="submenu" style="display:none;">
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=club" onclick="urchinTracker('/nav/shop/clubtickets');">Club Tickets</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=music" onclick="urchinTracker('/nav/shop/music');">Music</a>
+          <a href="http://www.joebrowns.co.uk/ministryofsound" onclick="urchinTracker('/nav/shop/clothing');">Clothing</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=merchandise_campinggear" onclick="urchinTracker('/nav/shop/Camping');">Camping</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=audio" onclick="urchinTracker('/nav/shop/electronics');">Electronics</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=fitness" onclick="urchinTracker('/nav/shop/fitness');">Fitness</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=merchandise_bagsandpouches" onclick="urchinTracker('/nav/shop/bags');">Bags</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=merchandise_accessories" onclick="urchinTracker('/nav/shop/accessories');">Accessories</a>
+          <a href="http://www.digitalstores.co.uk/ministryofsound/home.jsp?displayCategory=sale" onclick="urchinTracker('/nav/shop/sale');">Sale</a>
+        </div>
         
         <a href="/ibiza/" onclick="urchinTracker('/nav/ibiza');" class="title" title="News, beaches, exclusive VIP access, and of course this summer's biggest tunes">IBIZA</a>
         
@@ -203,10 +228,9 @@ ord = Math.random()*10000000000000000;
         <!--<a href="/life/" onclick="urchinTracker('/nav/life');" class="title" title="Useful info on drugs, booze, sex and more">LIFE</a>-->
         
         <a href="/prepay/" onclick="urchinTracker('/nav/prepay');" class="title" title="P(l)ay as you go with the Ministry of Sound PrePay Maestro card">PREPAY CARD</a>
-        
-        <a href="http://www.joebrowns.co.uk/ministryofsound/" onclick="urchinTracker('/nav/fashion');" class="title" title="Ministry of Sound Fashion" target="_blank">FASHION<img style="margin-left:5px;" src="/ministryofsound/images/nav_new_yellow.gif" alt="New!"></a>
-		
+       
 		<a href="http://www.ministryofsoundvodka.com/" onclick="urchinTracker('/nav/vodka');" class="title" title="Ministry of Sound Vodka" target="_blank">VODKA</a>
+		<a href="/nightlife/" onclick="urchinTracker('/nav/nightlife');" class="title" title="Ministry of Sound Nightlife">FRAGRANCE</a>
         
         <!-- ad tag -->
         <div id="nav-ad" style="padding-top:10px; text-align:center;">
@@ -215,12 +239,13 @@ ord = Math.random()*10000000000000000;
 <div id="adTag-sky">
   <script type="text/javascript">
     //<![CDATA[
-      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=2;sz=120x600;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
+      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=" + tile + ";sz=120x600;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
     //]]>
-  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=2;sz=120x600;ord=260438735892745.12?" type="text/javascript"></script>
+    tile = tile + 1;
+  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=2;sz=120x600;ord=1046857269890797.4?" type="text/javascript"></script>
   <noscript>
-    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=2;;sz=120x600;;ord=123456789?">
-      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=2;;sz=120x600;;ord=123456789?" alt="Ad Banner" style="border: none;" width="120" height="600" />
+    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=" + tile + ";sz=120x600;ord=123456789?">
+      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=no;ovl=no;pop=no;tile=" + tile + ";sz=120x600;ord=123456789?" alt="Ad Banner" style="border: none;" width="120" height="600" />
     </a>
   </noscript>
 </div>
@@ -252,48 +277,49 @@ ord = Math.random()*10000000000000000;
 <div id="adTag-mpu">
   <script type="text/javascript">
     //<![CDATA[
-      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile=3;sz=300x250;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
+      document.write("<script language='JavaScript' src='http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile="  + tile + ";sz=300x250;ord=" + ord + "?' type='text/javascript'></scr" + "ipt>");
     //]]>
-  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile=3;sz=300x250;ord=260438735892745.12?" type="text/javascript"></script>
+    tile = tile + 1;
+  </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile=3;sz=300x250;ord=1046857269890797.4?" type="text/javascript"></script>
   <noscript>
-    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile=3;;sz=300x250;;ord=123456789?">
-      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile=3;;sz=300x250;;ord=123456789?" alt="Ad Banner" style="border: none;" width="300" height="250" />
+    <a href="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile="  + tile + ";sz=300x250;ord=123456789?">
+      <img src="http://ad.uk.doubleclick.net/jump/mos.etype/home;IASH=STAND;exp=yes;ovl=no;pop=no;tile="  + tile + ";sz=300x250;ord=123456789?" alt="Ad Banner" style="border: none;" width="300" height="250" />
     </a>
   </noscript>
 </div>
 <div id="mainCol-Right-container">
-  <div id="mainCol-Right-content">
+  <div id="mainCol-Right-content"><a id="radio-listennow" href="javascript:openRadioPlayer();" onclick="urchinTracker('/homepage/radio_banner');" title="Listen to Ministry of Sound Radio now!"></a>
     
 
 <div id="downloadchart">
-  <h1>Download Chart:<br>Euphoria</h1>
+  <h1>Download Chart:<br>All Time Classics</h1>
   <ul>
     <li>
-<a href="http://www.mosdownload.com/mp3-detail/Various+Artists/Dave+Pearce+Trance+Anthems+2008/Ministry+Of+Sound/375069">Various Artists</a>
-Dave Pearce Trance Anthems 2008 (COMPILATION + TRIPLE MIX ALBUM)
+<a href="http://www.mosdownload.com/mp3-detail/Supermode/Tell+Me+Why/Data+Records/185371">Supermode</a>
+Tell Me Why (2Elements Remix)
 </li>
 <li>
-<a href="http://www.mosdownload.com/mp3-detail/Various+Artists/Club+Anthems+2008/Hard2Beat+Records/383238">Various Artists</a>
-Club Anthems 2008 (COMPILATION + MIX ALBUM)
+<a href="http://www.mosdownload.com/mp3-detail/Hoxton+Whores/Friday+Saturday+Love/Hoxton+Whores/211108">Hoxton Whores</a>
+Friday Saturday Love (Vocal Mix)
 </li>
 <li>
-<a href="http://www.mosdownload.com/mp3-detail/Danny+Darko/Save+the+Whales/Oryx+Music/367125">Danny Darko</a>
-Save the Whales (Original)
+<a href="http://www.mosdownload.com/mp3-detail/Dave+Spoon/At+Night/Toolroom+Trax/183943">Dave Spoon</a>
+At Night (Original)
 </li>
 <li>
-<a href="http://www.mosdownload.com/mp3-detail/David+Newsum/From+Dubai+With+Love/Discover/368060">David Newsum</a>
-From Dubai With Love (Original)
+<a href="http://www.mosdownload.com/mp3-detail/The+Freaks/The+Creeps/Data+Records/192366">The Freaks</a>
+The Creeps (Vandalism Unreleased Mix)
 </li>
 <li>
-<a href="http://www.mosdownload.com/mp3-detail/Fragma/Tocas+Miracle/Positiva/376773">Fragma</a>
-Toca's Miracle (Inpetto 2008 Mix)
+<a href="http://www.mosdownload.com/mp3-detail/Plump+DJs/Electric+Disco/Finger+Lickin/157121">Plump DJs</a>
+Electric Disco (D. Ramirez Remix)
 </li>
 
   </ul>
-  <p><a href="http://www.mosdownload.com/style-recommended/Euphoria/3">More Downloads »</a></p>
+  <p><a href="http://www.mosdownload.com/style-recommended/All+Time+Classics/8">More Downloads »</a></p>
 </div>
     <a href="http://blog.ministryofsound.com/" style="background:url(http://feeds.feedburner.com/MinistryOfSoundBlog.2.gif) no-repeat; display:block; width:280px; height:120px; margin-bottom:10px;" title="Read the Ministry of Sound Blog"></a>
-    <a id="radio-listennow" href="javascript:openRadioPlayer();" onclick="urchinTracker('/homepage/radio_banner');" title="Listen to Ministry of Sound Radio now!"></a>
+    
     <!--<h1>Exclusive Partnership</h1>
     <script type="text/javascript">
         ord=Math.random()*10000000000000000;
