@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldarena.net privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624193438id_/http%3A//www.goldarena.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldarena.net privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021103358id_/http%3A//www.goldarena.net/privacy.php) for the most accurate reproduction.*
 
 # GoldArena.net - Best HYIP Autosurf Monitor Ranking Forum Online Forex Trading Broker Market Currency Trade
 
