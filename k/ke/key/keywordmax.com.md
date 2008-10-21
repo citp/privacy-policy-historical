@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615212341id_/http%3A//www.keywordmax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021110333id_/http%3A//www.keywordmax.com/privacy.html) for the most accurate reproduction.*
 
 # KeywordMax
 
