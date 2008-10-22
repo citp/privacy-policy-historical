@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotemountain.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519190647id_/http%3A//www.quotemountain.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemountain.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022231752id_/http%3A//www.quotemountain.com/privacy.php) for the most accurate reproduction.*
 
 # Famous Quotes Quotations Sayings Proverbs - QuoteMountain Famous Quotes
 
