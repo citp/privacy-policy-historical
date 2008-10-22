@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430141738id_/http%3A//www.blueskyscrubs.com./privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022103030id_/http%3A//www.blueskyscrubs.com/nursing-medical/about-blue-sky-scrubs/privacy-policy) for the most accurate reproduction.*
 
-# blue sky scrubs Privacy Policy
+# The blue sky scrubs™ Privacy Policy
 
-Effective August 8, 2006
+Updated June 20, 2008
 
 ## Our Commitment To Privacy
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on the blue sky scrubs website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the blue sky scrubs™ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name  
 Address  
@@ -22,7 +22,7 @@ Credit Card/Payment Information
 On some pages, you can submit information about other people. For example, if you use the "Tell A Friend" feature on any page to notify a person about this website. In this circumstance, the types of personal information collected are:
 
 Name  
-Email dddress  
+Email address  
 (etc.)
 
 ## How We Use Information:
