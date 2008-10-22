@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610100425id_/http%3A//www.koleimports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022215117id_/http%3A//www.koleimports.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KoleImports
 
