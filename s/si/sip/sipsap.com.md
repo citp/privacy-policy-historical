@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sipsap.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614055309id_/http%3A//sipsap.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sipsap.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022152821id_/http%3A//sipsap.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy Companion-outcall New Orleans Escorts US-Companion Pictures
+# Privacy Policy In-Call-Girls US-Companions Hookers Seattle Outcall Denver E
 
 **Escort Search - Privacy Policy:**
 
@@ -64,5 +64,5 @@ How You Can Access and Update Your Email Preferences, Personal Information and P
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the Account Settings or My Profile section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from SipSap.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from SipSap.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [Contact Us](https://web.archive.org/web/20080614055309id_/http%3A//sipsap.com/contact_us.php) page. You can also send us mail to:   
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [Contact Us](https://web.archive.org/web/20081022152821id_/http%3A//sipsap.com/contact_us.php) page. You can also send us mail to:   
 Xandix Communications 9600 Zelzah Ave Northridge, CA 91325
