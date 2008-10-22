@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703101557id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022194014id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -16,6 +16,8 @@ On this page:
   * E-Mail Notification of Employment Opportunities
   * Security
   * Privacy Impact Assessments Performed
+  * NRC Plan to Eliminate the Unnecessary Collection and Use of Social Security Numbers
+  * NRC Personally Identifiable Information Breach Notification Policy
 
 
 
@@ -43,7 +45,7 @@ Your submissions **may** be made public unless, at the point of collection, we h
 
 If you send us an e-mail or online form that includes personally identifiable information (for example, your e-mail address, mailing address, or telephone number), your information will be used for the purposes described at the point of collection, such as to send information to you, or to respond to your questions or comments. Your submission may also be shared with other NRC offices to fully respond to your request or comment. Your submission, including personal information, may be shared, too, with other Federal or State agencies, the Congress, NRC licensees, or others, if necessary, to address matters raised in your submission.
 
-Any comments that you submit to the NRC on a proposed rulemaking, petition, or other document for which public comment is requested **will** be made public, including any personally identifiable information you include in your submission.
+Any comments that you submit to the NRC on a proposed rulemaking, petition, or other document for which public comment is requested **will** be made public, including any personally identifiable information you include in your submission. Unless excluded pursuant to an order of the Commission, an Atomic Safety and Licensing Board, or a Presiding Officer, documents submitted in adjudicatory proceedings will appear in NRC's Electronic Hearing Docket that is available to the public. Therefore, hearing participants should not include personal privacy information, such as social security numbers and dates of birth, in their filings.
 
 ## **Protection of Submitted Information from Public Disclosure**
 
@@ -71,7 +73,7 @@ We do not solicit information from children. If teachers or parents have questio
 
 ## **E-Mail Notification of Employment Opportunities**
 
-Each registered user of our [NRCareers](http://www.nrc.gov/about-nrc/employment/nrcareers.html) site may elect to be notified by e-mail whenever we issue an employment opportunity that meets criteria set by the user. The user may also modify the notification criteria or stop receiving the notifications at any time. For more information, see **Change your Notification Preferences** in the Registered Users section of [How to Use _NRCareers_](https://web.archive.org/about-nrc/employment/nrcareers/how-to-use.html#registered).
+Each registered user of our [NRCareers](http://www.nrc.gov/about-nrc/employment/nrcareers.html) site may elect to be notified by e-mail whenever we issue an employment opportunity that meets criteria set by the user. The user may also modify the notification criteria or stop receiving the notifications at any time.
 
 ## **Security**
 
@@ -82,3 +84,11 @@ Except for authorized law enforcement investigations and the gathering of site u
 ## **Privacy Impact Assessments Performed**
 
 Access our [Privacy Impact Assessment](https://web.archive.org/about-nrc/plans/privacy-impcat-asess.html) page for assessments made by NRC before developing or procuring information technology (IT) that collects, maintains, or disseminates personal information in identifiable form about members of the public.
+
+## **NRC Plan to Eliminate the Unnecessary Collection and Use of Social Security Numbers**
+
+In response to the Office of Management and Budget (OMB) May 22, 2007, memorandum (M-07-16), "Safeguarding Against and Responding to the Breach of Personally Identifiable Information," the U.S. Nuclear Regulatory Commission (NRC) has established a plan in which the agency will eliminate the unnecessary collection and use of the Social Security number (SSN) by November 22, 2008, in compliance with OMB’s eighteen month time frame. For more details please see [ML072640250](http://adamswebsearch.nrc.gov/idmws/ViewDocByAccession.asp?AccessionNumber=ML072640250).
+
+## **NRC Personally Identifiable Information Breach Notification Policy**
+
+In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML072640285](http://adamswebsearch.nrc.gov/idmws/ViewDocByAccession.asp?AccessionNumber=ML072640285). 
