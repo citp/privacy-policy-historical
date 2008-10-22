@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615170848id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022134552id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Books Direct - Privacy Policy
 
@@ -29,7 +29,7 @@ BCA, also known as Books Direct operates a variety of brands. For a listing of o
 BCA is registered under the Data Protection Act (Reg no Z6100513) and this shows the purpose, source and disclosure terms of the data held.  
 BCA is a full member of the Direct Marketing Association (DMA). Should you have any observations or concerns you would like to bring to our attention to help us improve our service, then please let us know.
 
-Email address: [DMA@bca.co.uk](mailto:DMA@bca.co.uk)
+Email address: [departmentdma@bca.co.uk](mailto:departmentdma@bca.co.uk "mailto:departmentdma@bca.co.uk")[](mailto:DMA@bca.co.uk)
 
 ### Visiting from Another Website
 
