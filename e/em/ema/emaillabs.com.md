@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615222815id_/http%3A//www.emaillabs.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022025920id_/http%3A//www.emaillabs.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EmailLabs
 
