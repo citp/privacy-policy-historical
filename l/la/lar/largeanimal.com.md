@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518012133id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024013641id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Large Animal Games
 
