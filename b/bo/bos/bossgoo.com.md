@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512090723id_/http%3A//www.bossgoo.com/help-6/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023212544id_/http%3A//www.bossgoo.com/help-6/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - bossgoo.com
 
-Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of Terms & Conditions which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
+Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](http://www.bossgoo.com/help-7/Terms-Conditions.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
 ### Our Commitment to Privacy
 
@@ -42,11 +42,11 @@ Bossgoo uses web beacons to access our cookies within and outside our network of
 
 ### Disclosure of Information
 
-Bossgoo reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Alibaba.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
+Bossgoo reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of bossgoo.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
 
 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Alibaba or others.
+If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to bossgoo or others.
 
 ### Changes to Privacy Policy
 
@@ -54,4 +54,4 @@ Bossgoo.com may amend this policy from time to time.Any changes to this Privacy 
 
 ### Your feedback or Contact us
 
-Should you have any suggestion on our Privacy Policy, please contact us , Bossgoo welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [b2b@netcec.com](mailto:b2b@netcec.com)
+Should you have any suggestion on our Privacy Policy, please contact us , Bossgoo welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [support@netcec.com](mailto:support@netcec.com)
