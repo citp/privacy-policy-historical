@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleinsider.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630094648id_/http%3A//www.articleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleinsider.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023104201id_/http%3A//www.articleinsider.com/privacy) for the most accurate reproduction.*
 
 # Article Insider - Privacy Policy
 
