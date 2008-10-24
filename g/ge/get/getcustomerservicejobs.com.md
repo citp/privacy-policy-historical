@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcustomerservicejobs.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612072822id_/http%3A//www.getcustomerservicejobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcustomerservicejobs.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025004814id_/http%3A//www.getcustomerservicejobs.com/privacy.php) for the most accurate reproduction.*
 
 # Get Customer Service Jobs Privacy Policy
 
