@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boden.co.uk privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526155802id_/http%3A//www.boden.co.uk/help/tech-and-legal/privacy-policy.asp%23nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boden.co.uk privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024212147id_/http%3A//www.boden.co.uk/help/tech-and-legal/privacy-policy.asp%23nav) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -35,7 +35,7 @@ All orders are then processed on computers that are not connected to the Interne
 
 There are only four circumstances where we may share some of your data with others:
 
-  * With agents (including credit reference agencies, credit card clearing agencies (Barclays Merchant Services in UK and Payment Tech in USA), fraud prevention and detection agencies) that we use to process the orders you place with us or who assist us in the service we provide to you. In these instances, we provide them with only the information they need to perform their function
+  * With agents (including credit reference agencies, credit card clearing agencies (Barclays Merchant Services in UK and Payment Tech in USA), fraud prevention and detection agencies) that we use to process the orders you place with us or who help us in the service we provide to you. In these instances, we provide them with only the information they need to perform their function
   * In the unlikely event that our business assets are ever sold to or purchased by another company. (Our data records are part of our business). 
   * To outside research companies whom we may ask to contact you directly for your opinions on our products and services (in which case we provide them with only the information they need to perform their function). 
   * We do occasionally make names and addresses (but never email addresses) available to companies whose products we think may interest you, unless you have told us not to. If you do not wish to receive such offers please email us at [mailingoptout@boden.co.uk](mailto:mailingoptout@boden.co.uk) with your account number, which can be found above your address on you latest catalogue. 
@@ -44,7 +44,7 @@ There are only four circumstances where we may share some of your data with othe
 
 If you have questions about your personal data or our privacy policy, please contact us at [privacy@boden.co.uk](mailto:privacy@boden.co.uk)
 
-You’ll also find more information about this in our [Security FAQs](https://web.archive.org/web/20080526155802id_/http%3A//www.boden.co.uk/help/tech-and-legal/security-faqs.asp) section.
+You’ll also find more information about this in our [Security FAQs](https://web.archive.org/web/20081024212147id_/http%3A//www.boden.co.uk/help/tech-and-legal/security-faqs.asp) section.
 
 To see all the information we have about you, and to correct any inaccuracies, please write to:   
 The Data Protection Officer  
