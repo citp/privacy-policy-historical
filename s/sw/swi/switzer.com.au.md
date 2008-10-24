@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501201239id_/http%3A//www.switzer.com.au/sfs_pages/info_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024115824id_/http%3A//switzer.com.au/sfs_pages/info_pages/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Switzer Financial, Superannuation, Accounting and Business Coaching Services
+# Privacy Policy - Switzer Financial, Superannuation and Business Coaching Services
 
 ## Switzer Financial Services Privacy Policy 
 
