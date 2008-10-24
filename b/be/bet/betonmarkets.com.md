@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612104001id_/http%3A//koel3.betonmarkets.com//d//c_template.cgi%3Fw%3DMLT%26l%3DGB%26filecode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024122845id_/http%3A//lo.betonmarkets.com/d//c_template.cgi%3Fw%3DCR%26l%3DGB%26filecode%3Dprivacy) for the most accurate reproduction.*
 
-# BetOnMarkets.com - The World of Financial Trading
+# BetOnMarkets - The World of Financial Trading
 
 We recognize the importance of protecting your personal and financial information.
 
@@ -22,7 +22,7 @@ Please note that you may update your personal information at any time by logging
 
 We are committed to making sure your personal data and transactions are secure:
 
-  * Your password and login ID are unique and passwords are encrypted so that not even BetOnMarkets.com staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it.
+  * Your password and login ID are unique and passwords are encrypted so that not even BetOnMarkets staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it.
   * We maintain customer balances in cash or cash equivalent. We ensure that 100% of each customer's balance is available for immediate withdrawal, subject to verification.
   * All credit card details are submitted directly to the Visa/Mastercard network using the latest SSL encryption technology, in accordance with bank policies.
   * Our information security policies are based on industry best practices in access control and business continuity.
@@ -43,3 +43,21 @@ This website contains links to other websites and may contain banner or icon adv
 Any changes in our privacy policy or security statement will be posted onto this website. In the event of material changes that directly affect the economic use of your personal information, we will request your prior authorization in writing before effecting such change on your account.
 
 You also have the right to request from us to inform you about the personal data that we process about you and to request its correction where necessary. This request must be made in writing to us and signed by you as the data subject.
+
+  * [What's New](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=whatsnew)
+  * [About Us](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=aboutus)
+  * [Contact Us](http://ibis1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=contactus)
+  * [Data Feed](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=datafeed)
+  * [Responsible Betting](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=responsible)
+  * [Legal](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=legal)
+  * Privacy & Security
+  * [Copyright](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=copyright)
+  * [Risk Disclaimer](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=riskdisclaimer)
+
+
+
+[](http://www.gov.im/gambling)[](http://www.lga.org.mt/)
+
+This website is marketed in the UK and Isle of Man by Regent Markets (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles, licenced and regulated by the Gambling Supervision Commission in the Isle of Man, British Isles, current online gambling licence issued on 31 August 2007, and in the rest of the EU by Regent Markets (Malta) Ltd., 22 Airways House, Suite 6, Tower Road, Msida MSD1825, Malta, licenced and regulated by the Lotteries and Gaming Authority in Malta, licence no LGA/CL2/118/2000 issued on 28 May 2005.
+
+[](http://condor1.betonmarkets.com//d//c_template.cgi?w=CR&l=GB&filecode=whatsnew#share_award_winner_2007)Best Fixed-Odds Financial Trading Provider
