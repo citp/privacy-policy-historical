@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527094448id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025004516id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Downtown Las Vegas Hotel & Casino - plazahotelcasino.com :: Privacy-Policy
+# Downtown Las Vegas Hotel & Casino - plazahotelcasino.com :: Privacy-policy
 
-  
-
-
-## PLAZA HOTEL & CASINO ONLINE PRIVACY POLICY
+**PLAZA HOTEL & CASINO ONLINE PRIVACY POLICY**
 
 **OUR COMMITMENT TO PRIVACY**  
 Your privacy is extremely important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
@@ -52,4 +49,5 @@ Pursuant to law, persons under the age of twenty-one (21) are not permitted to g
 If you want to change, correct, update, or delete your registration information, please contact us via email at privacy@playlv.com, call us at (702) 876-1001, or send your request to PlayLV Gaming Corporation, Attn: Registration Information Correction, 501 S. Rancho, Suite B-10, Las Vegas, NV 89106, and the necessary revisions will be made. This provision applies only to registration information collected via the Web sites. 
 
 **CHANGES**  
-We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the Web site. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at [privacy@playlv.com](mailto:privacy@playlv.com).
+We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the Web site. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at privacy@playlv.com.  
+
