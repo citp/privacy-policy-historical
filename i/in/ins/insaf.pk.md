@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606000754id_/http%3A//www.insaf.pk/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025193931id_/http%3A//www.insaf.pk/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Pakistan Tehreek-e-Insaf > Home
 
@@ -44,4 +44,4 @@ Pakistan Tehreek-e-Insaf will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Pakistan Tehreek-e-Insaf welcomes your comments regarding this Statement of Privacy. If you believe that Pakistan Tehreek-e-Insaf has not adhered to this Statement, please contact Pakistan Tehreek-e-Insaf at [admin@moveforjustice.org](mailto:admin@moveforjustice.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Pakistan Tehreek-e-Insaf welcomes your comments regarding this Statement of Privacy. If you believe that Pakistan Tehreek-e-Insaf has not adhered to this Statement, please contact Pakistan Tehreek-e-Insaf at [admin@insaf.pk](mailto:admin@insaf.pk). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
