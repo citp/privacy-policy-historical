@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516033933id_/http%3A//www.lipsy.co.uk/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026013217id_/http%3A//www.lipsy.co.uk/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :- Lipsy
 
