@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091741id_/http%3A//www.cmj.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025091501id_/http%3A//www.cmj.com/company/privacy.php) for the most accurate reproduction.*
 
 # cmj.com | new music first
 
