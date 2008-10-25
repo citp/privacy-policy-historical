@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spraynine.ca privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514025608id_/http%3A//www.spraynine.ca/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spraynine.ca privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025213104id_/http%3A//www.spraynine.ca/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Spray Nine Canada
 
