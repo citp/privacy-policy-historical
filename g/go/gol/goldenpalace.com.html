@@ -1,20 +1,136 @@
-<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2008-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080410141836id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2008-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081025041144id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Online Casino Internet Gambling - Play Free Games at GoldenPalace.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="cache-control" content="no-cache">
-<meta name="Pragma" content="no-cache">
-<meta name="keywords" content="Golden Palace, Online Casino, Internet Casino, Download, Free Online Casino Games, Trusted, Internet Gambling Site, Play Free Games, Blackjack, Roulette, Craps, Video Poker, Slot Machines, Slots, Baccarat, Sic-Bo, Pai Gow Poker, Keno, Red Dog Poker, Caribbean Poker, Online Casinos, Internet Casinos">
-<meta name="description" content="The Golden Palace online casino is a trusted internet casino gambling site. Play free casino games like Blackjack, Roulette, Craps, Video Poker, and Slots.">
-<meta name="verify-v1" content="oV2t7NnM1qv/g74wMPXABha4LeasKmiiFdhBUcKl10g=">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><script language="JavaScript">
+		function setCookie(name,value,days) { if (days) { var date = new Date(); date.setTime(date.getTime()+(days*24*60*60*1000)); var expires = "; expires="+date.toGMTString(); } else var expires = ""; document.cookie = name+"="+value+expires+"; path=/"; }
+		function getCookie(name) { var nameEQ = name + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); } return null; }
+		setCookie('userLang','en',0);
+	</script>
+
+
+<title>Online Casino - Play Free Online Casino Games at GoldenPalace.com - Internet Casinos</title>
+<meta name="description" content="The Golden Palace online casino is one of the most trusted Internet casinos. Play free online casino games like Blackjack, Roulette, Craps, Video Poker and Slots at GoldenPalace.com.">
+<meta name="keywords" content="Play Free Online Casino Games, Play Free Casino Games, Internet Gambling Sites, Internet Gambling Site, Red Dog Poker, Pai Gow Poker, Video Poker, Caribbean Poker, Slot Machines, Online Slots, Online Casino, Internet Casinos, Internet Casino, Online Casinos, Golden Palace, Blackjack, Roulette, Craps, Baccarat, Sic-Bo, Keno">
 <meta name="robots" content="all">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="cache-control" content="no-cache">
+<meta name="Pragma" content="no-cache">
+<meta name="verify-v1" content="oV2t7NnM1qv/g74wMPXABha4LeasKmiiFdhBUcKl10g=">
 <link href="/style.php?sec=&amp;langPrefix=" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="/common.js"></script>
 <script language="JavaScript">function rOver(imgName,newState){if (document.images)document.images[imgName].src='/images/tabnav_'+imgName+'_'+newState+'.gif';}</script>
+<script language="JavaScript"><!--
+// cookie functions
+function setCookie(name, value, days, path, domain, secure) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	
+	var curCookie = name + "=" + escape(value) + expires +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "");
+	document.cookie = curCookie;
+}
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for (var i=0;i < ca.length;i++){
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+//------[ start click tracking ]------//
+
+function addOnclickToAllAnchors() {
+	// this function needs to be run either onLoad or at the very bottom of the page...
+	// typically "onLoad" includes loading of images - for our purposes we'd rather call this in the
+	// html after the </body> tag :)
+	
+	var anchors = document.getElementsByTagName("a");
+    for (var i in anchors){
+    	if (anchors[i].onclick) anchors[i].onclick_ = anchors[i].onclick;
+     	if (anchors[i].href && anchors[i].innerHTML){
+   			anchors[i].onclick = function(){ return trackClickEvents(this); };
+	   	}
+    }
+}
+
+function trackClickEvents(objAnchor){
+	
+	// if there was an inline onClick event, call it
+	if (objAnchor.onclick_) objAnchor.onclick_();
+	
+	var linkDest = objAnchor.href;
+	
+	// grab the name of the image or the text on the link
+	if (objAnchor.childNodes[0].tagName == "IMG"){
+		var clickedLink = objAnchor.childNodes[0].src.substring(objAnchor.childNodes[0].src.lastIndexOf('/')+1);
+	}else{
+		var clickedLink = objAnchor.innerHTML;
+	}
+	
+	// record the link
+	recordLinkClick(linkDest,clickedLink);
+
+	// if it's a download link, call the download function that'll call the EXE and swap to the download help page,
+	// then return false to kill the href of the link
+	if ((linkDest.indexOf('playnow.php') != -1) || (linkDest.indexOf('playnow_download.php') != -1) || (linkDest.indexOf('playnow_help.php') != -1)){
+		downloadCasinoV2();
+		return false;
+	}
+	
+	return true;
+}
+
+function downloadCasinoV2(strLinkName){
+	// call any custome tracking pixels
+	callCustomDownloadPixels();
+	
+	// if we've been passed "strLinkName" then record the click
+	if (strLinkName) recordLinkClick('/global/_v3/gateway.php?game=downloadcasino&lang=',strLinkName);
+	
+	// start the download
+	document.location='/global/_v3/gateway.php?game=downloadcasino&lang=';
+	
+	// in 2 seconds, once the download is started, go to the download page
+	setTimeout(redirToDownloadHelpPage,2000);
+}
+
+function redirToDownloadHelpPage(){
+	location.href='/global/_v3/gateway.php?game=downloadcasino&action=help&lang=';
+}
+
+function recordLinkClick(linkDest,clickedLink){
+	/*
+	delete myPic;
+	var myPic = new Image();
+	myPic.src = '/global/tx/pixel.php?action=click&site=1&member=oridian0208&profile=oridfr6&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
+		*/
+	var dest = '/global/tx/pixel.php?action=click&site=1&member=oridian0208&profile=oridfr6&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
+	try{ xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP"); }
+	catch (e){ /* do nothing */ }
+	//xmlhttp.onreadystatechange = triggered;
+	xmlhttp.open("GET", dest, false);
+	xmlhttp.send(null);
+}
+
+function callCustomDownloadPixels() {
+	// do nothing for now...
+}
+
+//------[ end click tracking ]------//
+
+//--></script>
 </head>
 <body>
+
 
 
 <style type="text/css">#gTip{position:absolute;border:none;border-width:0px;padding:0px;visibility:hidden;z-index:100;}</style>
@@ -22,16 +138,16 @@
 <script type="text/javascript" src="/gtip.js"></script>
 
 <div id="top">
-	<div id="logo"><a href="/"><img name="logoPic" id="logoPic" src="/images/logo.gif" width="233" height="118" alt="Online Casino" border="0"></a></div>
+	<div id="logo"><a href="http://www.goldenpalace.com/"><img name="logoPic" id="logoPic" src="/images/logo.gif" width="233" height="118" alt="GoldenPalace.com Internet Casino - Play Free Online Casino Games" border="0"></a></div>
 	<div id="contact">
-		<a href="/support.php" rel="nofollow">Contact Us: 1-888-217-5648</a>&nbsp;<br>
+		<a href="/support.php" rel="nofollow">Contact Us: 00-800-0704-4507</a>&nbsp;<br>
 		<img src="/images/spacer.gif" width="1" height="4" alt="" border="0"><br>
-		<a href="http://www.goldencasino.com/download/download_engine.php?c=28038&amp;s=mediatraf1207" rel="nofollow"><img src="/images/curr_euro.gif" width="17" height="17" alt="Euros" border="0"><img src="/images/curr_pound.gif" width="15" height="17" alt="Pounds" border="0"><img src="/images/curr_dollar.gif" width="14" height="17" alt="Dollars" border="0"><img src="/images/curr_yen.gif" width="17" height="17" alt="" border="0"><img src="/images/curr_zar.gif" width="16" height="17" alt="" border="0"><img src="/images/curr_hkd.gif" width="25" height="17" alt="" border="0"></a><br>
+		<a href="/global/_v3/gateway.php?game=downloadcasino&amp;lang=" rel="nofollow"><img src="/images/curr_euro.gif" width="17" height="17" alt="Euros" border="0"><img src="/images/curr_pound.gif" width="15" height="17" alt="Pounds" border="0"><img src="/images/curr_dollar.gif" width="14" height="17" alt="Dollars" border="0"><img src="/images/curr_yen.gif" width="17" height="17" alt="" border="0"><img src="/images/curr_zar.gif" width="16" height="17" alt="" border="0"><img src="/images/curr_hkd.gif" width="25" height="17" alt="" border="0"></a><br>
 		<img src="/images/spacer.gif" width="1" height="4" alt="" border="0"><br>
 		<a href="/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_en.gif />&quot;);" onmouseout="hide_gTip();"><img src="/images/flag_en.gif" width="32" height="17" alt="Online Casino" border="0"></a><a href="/fr/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_fr.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_fr.gif" width="31" height="17" alt="Casino virtuel" border="0"></a><a href="/es/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_es.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_es.gif" width="32" height="17" alt="Casino Virtual" border="0"></a><a href="/it/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_it.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_it.gif" width="32" height="17" alt="CasinÃ² Online" border="0"></a><a href="/de/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_de.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_de.gif" width="32" height="17" alt="Online-Casino" border="0"></a><a href="/jp/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_jp.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_jp.gif" width="32" height="17" alt="" border="0"></a><a href="/cn/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_cn.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_cn.gif" width="32" height="17" alt="" border="0"></a><a href="/cn-sc/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_cn-sc.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_cn-sc.gif" width="32" height="17" alt="" border="0"></a><a href="/tr/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_tr.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_tr.gif" width="32" height="17" alt="Online Casino" border="0"></a><a href="/da/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_da.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_da.gif" width="32" height="17" alt="Online casino" border="0"></a><a href="/fi/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_fi.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_fi.gif" width="32" height="17" alt="Internet-kasino" border="0"></a><a href="/no/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_no.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_no.gif" width="32" height="17" alt="Online Casino" border="0"></a><a href="/pt/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_pt.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_pt.gif" width="32" height="17" alt="Casino online" border="0"></a><a href="/sv/" onmouseover="show_gTip(&quot;<img src=/global/_v3/images/lang_sv.gif />&quot;);" onmouseout="hide_gTip();" rel="nofollow"><img src="/images/flag_sv.gif" width="32" height="17" alt="Onlinekasino" border="0"></a>	</div>
 </div>
 
-<div id="navTab"><img name="casino" id="casino" src="/images/tabnav_casino_in.gif" width="151" height="60" alt="" border="0"><a href="http://www.goldenpalacepoker.com/?member=mediatraf1207&amp;profile=mtraffr6&amp;referer=about%3Ablank" onmouseover="rOver('poker','on');" onmouseout="rOver('poker','off');"><img name="poker" id="poker" src="/images/tabnav_poker_off.gif" width="119" height="60" alt="" border="0"></a><a href="http://www.goldenpalacemobile.com/?member=mediatraf1207&amp;profile=mtraffr6&amp;referer=about%3Ablank" onmouseover="rOver('mobile','on');" onmouseout="rOver('mobile','off');"><img name="mobile" id="mobile" src="/images/tabnav_mobile_off.gif" width="119" height="60" alt="" border="0"></a></div>
+<div id="navTab"><img name="casino" id="casino" src="/images/tabnav_casino_in.gif" width="151" height="60" alt="" border="0"><a href="http://www.goldenpalacepoker.com/?member=oridian0208&amp;profile=oridfr6" onmouseover="rOver('poker','on');" onmouseout="rOver('poker','off');"><img name="poker" id="poker" src="/images/tabnav_poker_off.gif" width="119" height="60" alt="" border="0"></a><a href="http://www.goldenpalacemobile.com/?member=oridian0208&amp;profile=oridfr6" onmouseover="rOver('mobile','on');" onmouseout="rOver('mobile','off');"><img name="mobile" id="mobile" src="/images/tabnav_mobile_off.gif" width="119" height="60" alt="" border="0"></a></div>
 
 	
 	<div id="container">
@@ -54,47 +170,47 @@
 		<div id="content">
 					
 	
-			<span class="subtitle2">GoldenPalace.com Privacy Statement</span><br><br>
+			<span class="subtitle2">Golden Palace Casino Privacy Statement</span><br><br>
 			Effective November 1, 2004<br><br>
-			This GoldenPalace.com Privacy Statement discloses the information privacy practices for GoldenPalace.com's Web site, www.GoldenPalace.com<br><br>
-			<br><br><span class="bold">Our commitment</span><br>Your online privacy is important to us here at GoldenPalace.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page ( http://www.GoldenPalace.com ) and is available directly at ( http://www.GoldenPalace.com/privacy.php ).<br><br>
-			<br><br><span class="bold">Information Collected about you</span><br>GoldenPalace.com collects two forms of personally identifiable information ('PII') online:  Web Server log file analysis information ('Traffic Analysis') and Web visitor registration information ('User Information') voluntarily provided to GoldenPalace.com by visitors who log onto the site. User Information includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a player at GoldenPalace.com in order to use our online gaming software, participate in the contests, and complete transactions, many areas of GoldenPalace.com can be accessed without providing any User Information.<br><br>
+			This Golden Palace Casino Privacy Statement discloses the information privacy practices for Golden Palace Casino's Web site, www.GoldenPalace.com<br><br>
+			<br><br><span class="bold">Our commitment</span><br>Your online privacy is important to us here at Golden Palace Casino. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page ( http://www.GoldenPalace.com ) and is available directly at ( http://www.GoldenPalace.com/privacy.php ).<br><br>
+			<br><br><span class="bold">Information Collected about you</span><br>Golden Palace Casino collects two forms of personally identifiable information ('PII') online:  Web Server log file analysis information ('Traffic Analysis') and Web visitor registration information ('User Information') voluntarily provided to Golden Palace Casino by visitors who log onto the site. User Information includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a player at Golden Palace Casino in order to use our online gaming software, participate in the contests, and complete transactions, many areas of Golden Palace Casino can be accessed without providing any User Information.<br><br>
 			<ol type="i">
 			<li>
 				Traffic Analysis<br><br>
-				GoldenPalace.com routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, which banner they have clicked onto arrive at our site, etc.<br><br>
+				Golden Palace Casino routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, which banner they have clicked onto arrive at our site, etc.<br><br>
 				Such Traffic Analysis is:
 				<ul>
 				<li>collected on an aggregate, anonymous basis, which means no PII is associated with this data, unless such user arrives from an affiliate, in which case we must track PII to compensate our affiliate;</li>
-				<li>gathered through the use of web server logs and cookies. A web server log is a file where web site activity is stored. A cookie is a small piece of information that a web site sends to a visitor's computer and which is then stored on the visitor's hard drive. GoldenPalace.com uses cookies to track repeat visits to its Site. Although GoldenPalace.com assigns a cookie to a visitor's computer, it does not know who that visitor is unless that person specifically tells us by becoming a registered user.</li>
+				<li>gathered through the use of web server logs and cookies. A web server log is a file where web site activity is stored. A cookie is a small piece of information that a web site sends to a visitor's computer and which is then stored on the visitor's hard drive. Golden Palace Casino uses cookies to track repeat visits to its Site. Although Golden Palace Casino assigns a cookie to a visitor's computer, it does not know who that visitor is unless that person specifically tells us by becoming a registered user.</li>
 				<li>used to better design our Site, improve how we provide you with information on our products, customer service and to share with advertisers/affiliates to create targeted marketing.</li>
 				</ul>
-				GoldenPalace.com collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site.
+				Golden Palace Casino collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g. Internet Explorer), screen resolution, and referrer Web site.
 				<br><br>
 			</li>
 			<li>
 				User Information<br><br>
-				PII is also collected on certain pages of the GoldenPalace.com. If you decide to contact GoldenPalace.com to ask a question, learn more about how to start playing at Golden Palace, learn how to participate in the contest at GoldenPalace.com, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at 1-888-217-5648, such PII will assist us in complying with these requests. <br><br>
-				GoldenPalace.com may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.<br><br>
-				Personally Identifiable Information is collected by means of online registration forms within our site or via our downloaded software. This Information is also collected to personalize and customize your experience on GoldenPalace.com.<br><br>
+				PII is also collected on certain pages of the Golden Palace Casino. If you decide to contact Golden Palace Casino to ask a question, learn more about how to start playing at Golden Palace Casino, learn how to participate in the contest at Golden Palace Casino, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at Tollfree: 00-800-0704-4507, such PII will assist us in complying with these requests. <br><br>
+				Golden Palace Casino may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.<br><br>
+				Personally Identifiable Information is collected by means of online registration forms within our site or via our downloaded software. This Information is also collected to personalize and customize your experience on Golden Palace Casino.<br><br>
 				User Information is gathered as part of any entry for a sweepstakes or other promotion. If you choose to enter a sweepstakes or other promotion we conduct, you will be required to submit certain personal information, such as your name, e-mail address, street address and phone number, and we will also ask for certain additional information, which is optional and is not required to enter the promotion. We will use the required personal information you submit to us for promotion administration purposes, such as notification of winners.<br><br>
 				User Information is collected only when Site visitors voluntarily provide it. It is not necessary to provide any User Information in order to simply browse the Site.<br><br>
 			</li>
 			</ol>
 			<br><br><span class="bold">How We Use Your Information</span><br>We use the Information you provide about yourself when registering and to provide you with information about other partner's similar products and promotions that may be of interest to you. Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with NetTeller, your bank, your Credit Card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. <br><br>
 			We use return email addresses to answer the email we receive as well as to provide you with customer support, special promotions and offers.<br><br>
-			In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that GoldenPalace.com, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.<br><br>
-			GoldenPalace.com may contain hyperlinks to and from other Internet sites, including other partner sites. These sites may have different privacy practices from the ones described here. Since this Statement applies solely to this Site, please remember to read the privacy statements of the other sites you visit. <br><br>
-			We release Information when we believe release is appropriate to comply with law, to enforce or apply our <a href="javascript:MM_openBrWindow('terms.php','terms','scrollbars=yes,resizable=yes,width=387,height=420')">Terms and Conditions</a> and other agreements, or to protect the rights, property, or safety GoldenPalace.com, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.<br><br>
-			<br><br><span class="bold">Requests for Additional Information</span><br>GoldenPalace.com may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
-			<br><br><span class="bold">Marketing notifications</span><br>As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenPalace.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook 2003, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
-			You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on GoldenPalace.com and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by GoldenPalace.com. <br><br>
-			You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about GoldenPalace.com and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by GoldenPalace.com directly.<br><br>
-			<br><br><span class="bold">Data Security</span><br>GoldenPalace.com works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
-			<br><br><span class="bold">Protecting Children from Online Gambling</span><br>At GoldenPalace.com Protecting the privacy of the very young is especially important. GoldenPalace.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
-			GoldenPalace.com encourages parents and guardians to spend time online with their children and to participate with them in the various interactive activities available on the Internet and on our Web Site in particular.<br><br>
-			<br><br><span class="bold">Sharing and Control Over Your Information</span><br>GoldenPalace.com does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental.  Within our gaming software, the user may update their personal information.  <br><br>
-			<br><br><span class="bold">Right to Change Internet Privacy Statement:</span><br>GoldenPalace.com reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.<br><br>
+			In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Golden Palace Casino, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.<br><br>
+			Golden Palace Casino may contain hyperlinks to and from other Internet sites, including other partner sites. These sites may have different privacy practices from the ones described here. Since this Statement applies solely to this Site, please remember to read the privacy statements of the other sites you visit. <br><br>
+			We release Information when we believe release is appropriate to comply with law, to enforce or apply our <a href="javascript:MM_openBrWindow('terms.php','terms','scrollbars=yes,resizable=yes,width=387,height=420')">Terms and Conditions</a> and other agreements, or to protect the rights, property, or safety Golden Palace Casino, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.<br><br>
+			<br><br><span class="bold">Requests for Additional Information</span><br>Golden Palace Casino may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
+			<br><br><span class="bold">Marketing notifications</span><br>As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about Golden Palace Casino and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, e-mail clients, such as Outlook, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
+			You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on Golden Palace Casino and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by Golden Palace Casino. <br><br>
+			You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about Golden Palace Casino and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by Golden Palace Casino directly.<br><br>
+			<br><br><span class="bold">Data Security</span><br>Golden Palace Casino works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
+			<br><br><span class="bold">Protecting Children from Online Gambling</span><br>At Golden Palace Casino Protecting the privacy of the very young is especially important. Golden Palace Casino will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
+			Golden Palace Casino encourages parents and guardians to spend time online with their children and to participate with them in the various interactive activities available on the Internet and on our Web Site in particular.<br><br>
+			<br><br><span class="bold">Sharing and Control Over Your Information</span><br>Golden Palace Casino does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental.  Within our gaming software, the user may update their personal information.  <br><br>
+			<br><br><span class="bold">Right to Change Internet Privacy Statement:</span><br>Golden Palace Casino reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.<br><br>
 				</div>
 		</div>
 		</div>
@@ -116,11 +232,19 @@ function over18Hide(){document.getElementById("over18Container").style.display =
 	</tbody></table>
 	<a href="/blackjack">Blackjack</a> | <a href="/craps">Craps</a> | <a href="/slots">Slots</a> | <a href="/roulette">Roulette</a> | <a href="/baccarat">Baccarat</a> | <a href="/sic-bo">Sic-Bo</a> | <a href="/pai_gow">Pai Gow</a> | <a href="/keno">Keno</a> | <a href="/red_dog">Red Dog Poker</a> | <a href="/video_poker">Video Poker</a> | <a href="/caribbean-poker">Caribbean Poker</a></div>
 <div id="pagebottom">
-<span class="copyright">Copyright © 2008 GoldenPalace.com  ™ <a class="copyright" href="http://www.goldenpalace.com">Online Casino</a> / Translink Ltd. Webmasters, remember to join our <a class="copyright" href="http://adv.casinoblasters.com/index.php?mediatraf1207" target="_blank" rel="nofollow">Casino Affiliate Program</a>! Read our <a class="copyright" href="/privacy.php" rel="nofollow">Privacy Statement</a>.</span></div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<span class="copyright">Copyright © 2008 Golden Palace Casino  ™ <a class="copyright" href="http://www.GoldenPalace.com">Online Casino</a> / Translink Ltd. Webmasters, remember to join our <a class="copyright" href="http://adv.casinoblasters.com/index.php?oridian0208" target="_blank" rel="nofollow">Casino Affiliate Program</a>! Read our <a class="copyright" href="/privacy.php" rel="nofollow">Privacy Statement</a>.</span></div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-3869598-1";
 urchinTracker();
 </script>
+<script language="javascript">
+<!--
+document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="/global/tx/pixel.php?site=1&lang=&member=oridian0208&action=page&ref=' + escape(document.referrer) + '">');
+//-->
+</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="/global/tx/pixel.php?site=1&amp;lang=&amp;member=oridian0208&amp;action=page&amp;ref=">
+<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="/global/tx/pixel.php?site=1&lang=&member=oridian0208&action=page"></noscript>
+
+
 <!------------------------------------------------------- [Start Tracking Code] -->
 <script language="javascript">
 <!--
@@ -137,61 +261,9 @@ document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="http://
 <noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="http://trax.inspectorclick.com/casinos/counter.php?a=gp"></noscript>
 <!------------------------------------------------------- [End Tracking Code] -->
 
-<script language="JavaScript"> 
-<!-- 
-var pix,done;
-var cookiename = "mediatraf1207";
-var pixurl = "http://www.mediatraffic.com/roi.php?m=p&iadv=9821";
-
-function ConfirmDownload(){
-		ConfirmCasinoDownload();
-}
-function ConfirmCasinoDownload(){
-		//redefined for custom tracking
-		document.location='http://www.goldencasino.com/download/download_engine.php?c=28038&s=mediatraf1207';
-		if(done==1)return;
-		done=1;
-		if(getCookie(cookiename) == "1"){ 
-			done=1; 
-			return;
-		}
-		pix = new Image();
-		pix.src = pixurl;
-		SetCookie(cookiename, "1", 86400 * 365 * 3);
-}
-function ConfirmPokerDownload(){
-		//redefined for custom tracking
-		document.location='';
-		if(done==1)return;
-		done=1;
-		if(getCookie(cookiename) == "1"){ 
-			done=1; 
-			return;
-		}
-		pix = new Image();
-		pix.src = pixurl;
-		SetCookie(cookiename, "1", 86400 * 365 * 3);
-}
-
-function SetCookie (popup, value, expires) {
-    // expires is in seconds from now... so set it to 3600 to have it expire 1 hour from now or 0 for a session cookie
-    var exp = new Date();
-    exp.setTime(exp.getTime() + (expires*1000));
-    document.cookie = popup + "=" + escape(value) + ((expires == 0) ? "" : ("; expires=" + exp.toGMTString()));
-}
-function getCookie(c_name){
-	if (document.cookie.length>0){
-		c_start=document.cookie.indexOf(c_name + "=");
-		if (c_start!=-1){ 
-			c_start=c_start + c_name.length+1 ;
-			c_end=document.cookie.indexOf(";",c_start);
-			if (c_end==-1) c_end=document.cookie.length;
-			return unescape(document.cookie.substring(c_start,c_end));
-		} 
-	}
-	return null;
-}
-
-//--> 
-</script>
-<script language="JavaScript" src="/floater.php"></script></body></html>
+<script language="JavaScript" src="/floater.php"></script>
+<script language="JavaScript">
+<!--
+addOnclickToAllAnchors();
+//-->
+</script></body></html>
