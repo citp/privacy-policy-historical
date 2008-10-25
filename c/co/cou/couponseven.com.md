@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422092325id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025200148id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
 
 # couponSeven.com - privacy policy, online coupons, coupon codes & free shipping for all of your favorite online stores.
 
@@ -6,7 +6,7 @@
 
 We can be reached via e-mail by using our [contact form](http://www.couponseven.com/contact.asp). If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail using the previously named form.
 
-For each visitor to our Web page, our Web server collects only the domain name, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+For each visitor to our Web page, our Web server collects only the domain name, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations. couponSeven.com is also known by coupon 7, coupon7 and coupon7.com.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and not shared with other organizations for commercial purposes. We will never sell or give your e-mail address to any other company. You will always be able to immediately opt-out of any newsletter or other promotion materials we send you.
 
