@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704130616id_/http%3A//www.erank.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025194554id_/http%3A//www.erank.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,5 +60,5 @@ We care about children and understand that they have special privacy needs. Ther
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20070704130616id_/http%3A//www.erank.com/feedback.htm).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20081025194554id_/http%3A//www.erank.com/feedback.htm).  
 
