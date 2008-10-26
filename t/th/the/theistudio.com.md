@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515220759id_/http%3A//www.theistudio.com/muse/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026064908id_/http%3A//www.theistudio.com/muse/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | At Your Service...
 
