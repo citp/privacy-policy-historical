@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diapers.com privacy policy that was archived on 2008-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080214114348id_/http%3A//www.diapers.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diapers.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026113857id_/http%3A//www.diapers.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Diapers.com (1 800 Diapers): Pampers and Huggies Baby Diapers, Enfamil and Similac Baby Formula Delivered to your Door - Buy Baby Products at Diapers.com (1 800 Diapers)
 
