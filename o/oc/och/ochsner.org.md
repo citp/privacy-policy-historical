@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630050915id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026023121id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
 
 # Ochsner Health System » Privacy Policy
 
@@ -27,7 +27,7 @@ Effective Date: December 16, 2002
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/web/20080630050915id_/http://www.ochsner.org/body.cfm?id=1112).
+If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/web/20081026023121id_/http://www.ochsner.org/body.cfm?id=1112).
 
   
 **OUR PLEDGE REGARDING MEDICAL INFORMATION**  
