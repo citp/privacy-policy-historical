@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503064809id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026041340id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
 
 # KEMBA: Privacy Notice
 
-[](https://cuonline.kemba.org/rates/Rates.aspx) [](https://cuonline.kemba.org/olla/default.aspx) [](http://www.mycumortgage.com/default.asp?siteId=27C6BB32-ACB4-4C39-BB0F-67EB9376AC98)
+[](https://www.everythingcu.com/switchkit/index.cfm?OrgID=720) [](https://cuonline.kemba.org/rates/Rates.aspx) [](https://loans.kemba.org/) [](http://www.mycumortgage.com/default.asp?siteId=27C6BB32-ACB4-4C39-BB0F-67EB9376AC98)
 
 Quick Fact
 
-  
-Here's a way to have money for large things in the future, money for smaller things now, and money to share with others. All it takes is three jars. They can be plastic or glass and don't even have to be the same size. But remember to always keep them in a safe place. When you have a large amount saved, deposit it into a savings account and earn interest.
+KEMBA Financial Credit Union is committed to making financial products and services available to its members that will enable them to meet their financial needs. Protecting personal information and using it in a manner consistent with member expectations is a high priority for everyone associated with KEMBA.  
+
 
 | 
 
@@ -73,5 +73,4 @@ These privacy guidelines have been developed with the recognition that Internet 
 
 |    
   
-  
----|---|---
+[](http://www.moneyandstuff.info/)
