@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509225153id_/http%3A//www.my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
 
 # My-India.net: Privacy Policy
 
@@ -6,15 +6,11 @@
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20080509225153id_/http%3A//www.my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
+This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
 
-## Personal Information Collected on this Website
+## Email address or any other Personal Information Collected on this Website
 
-No personally-identifiable information (PII) is collected on this website from consumers that browse the website for information. 
-
-The only personally-identifiable information collected on this website is gathered on our "contact us" pages, where your email address is requested. We collect this information so that we can respond to the comments that you send to us. 
-
-MINET is the sole owner of all information collected on this site. MINET will not rent, sell or share any personally-identifiable information about you with third parties for any reason except when required to assist in resolving an issue you raise with us or as required by law. 
+No personally-identifiable information (PII) is collected on this website from consumers that browse the website for information. The email address collected on this website is gathered on our "contact us" pages or through other email subscription services, where your email address is requested to send you the relevant information. We collect this information so that we can respond to the comments that you send to us or to send you the news or movie updates specifically requested by you through the respective pages. We will not rent, sell or share any PII about you with third parties for any reason except when required to assist in resolving an issue you raise with us or as required by law.
 
 ## Anonymous Information Collected on this Website
 
@@ -50,4 +46,4 @@ As  we evolve, this Privacy Policy may be revised to reflect those changes, whe
 
 ## Questions?
 
-Please [contact us](https://web.archive.org/web/20080509225153id_/http%3A//www.my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
+Please [contact us](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
