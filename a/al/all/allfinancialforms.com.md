@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfinancialforms.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630003812id_/http%3A//www.allfinancialforms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfinancialforms.com privacy policy that was archived on 2008-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081027011352id_/http%3A//www.allfinancialforms.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy policy - All Financial Forms
 
