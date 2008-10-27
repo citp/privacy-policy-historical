@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630152110id_/http%3A//www.dailyindia.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2008-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081027174202id_/http%3A//www.dailyindia.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DailyIndia.com Privacy Policy
 
-  
 DailyIndia.com (the "Site") believes in protecting your personally identifiable information, while also offering you a high quality experience with this Site. 
 
-**Information Sharing**  
+**Information Sharing**
+
 We do not rent, sell, or share your personal information with any third party. We may bring you selected offers from third parties, but all such offers shall be transmitted from the Site, and the third party shall not have access to your personal information. 
 
 **Cookies  
-**We may set cookies on your computers. Cookies are small computer files set on your computer that can store, and sometimes track, information about you. You can, of course, disable cookies on your browser, but you may be required to re-enter information onto the Site. The Site set cookies do not contain personally identifiable information. 
+**
 
-**Advertisements**  
+We may set cookies on your computers. Cookies are small computer files set on your computer that can store, and sometimes track, information about you. You can, of course, disable cookies on your browser, but you may be required to re-enter information onto the Site. The Site set cookies do not contain personally identifiable information. 
+
+**Advertisements**
+
 In order to continue to bring you the site for free we place advertising on our web pages. Some of these advertisements, if clicked upon, may contain cookies, collect information, such as your IP address and domain type. You should consult the privacy policies of any advertisers with respect to their information gathering practices.
 
 **Links**  
