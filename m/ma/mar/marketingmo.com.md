@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430211248id_/http%3A//www.marketingmo.com/mo/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028105754id_/http%3A//www.marketingmo.com/mo/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Marketing M.O. Privacy Policy
 
