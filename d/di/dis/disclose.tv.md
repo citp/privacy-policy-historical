@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530002911id_/http%3A//www.disclose.tv/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028103807id_/http%3A//www.disclose.tv/action/static/privacy) for the most accurate reproduction.*
 
-# Secret UFO Alien Videos | Ghost & Paranormal Videos on Disclose.tv
+# UFO Videos & Aliens | Top Secret Photos | Paranormal Podcasts
 
 ## Privacy Policy
 
@@ -61,3 +61,8 @@ Non-German Users
 The Website is hosted in Germany. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from German laws, please be advised that through your continued use of the Website, you are transferring your personal information to the Germany and you consent to that transfer. 
 
 Last updated: March 2007
+
+10,000+ UFOs, Aliens, Ghosts, Paranormal, Conspiracy, Mystery, Enlightenment & other Top Secret Videos, Photos and Podcasts on Disclose.tv
+
+  
+**[](https://web.archive.org/video/tag//) **
