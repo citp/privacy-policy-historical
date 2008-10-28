@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625062824id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028234230id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
@@ -51,7 +51,7 @@ _**Choice/Opt-out**_
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@corp.paltalk.com](mailto:optout@corp.Paltalk.com). You may also contact us at: 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting [http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk](http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&src=paltalk). You may also contact us at: 
 
 Paltalk.com  
 Church Street Station  
