@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091705id_/http%3A//www.harmonicinc.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028212522id_/http%3A//www.harmonicinc.com/privacy.cfm) for the most accurate reproduction.*
 
 # Harmonic Inc. |Harmonic's Online Privacy Policy
 
