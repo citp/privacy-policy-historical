@@ -1,138 +1,49 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222354id_/http%3A//www.fla-keys.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029002409id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# The Official Tourism Council Web Site for the Florida Keys! Key Largo, Islamorada, Marathon, Lower Keys, Key West
+# Privacy Policy - TDC Monroe County Florida Keys Official Tourism Website
 
-|  [ ](http://www.fla-keys.com/drive.htm) |  [ ](http://www.fla-keys.com/fishing/index.htm) |  [ ](http://www.fla-keys.com/ecotourism/index.htm) |  [ ](http://www.fla-keys.com/diving/index.htm) |  [ ](http://floridakeys.net/tdccalendarnew.cfm) |  [ ](http://www.fla-keys.com/culture/index.htm) |  [ ](http://www.fla-keys.com/index.htm) |   
----|---|---|---|---|---|---|---  
-|   
----|---  
-  
-[ ](http://fla-keys.com/)  
-[ ](http://www.fla-keys.com/keylargo/index.htm)  
-[ ](http://www.fla-keys.com/islamorada/index.htm)  
-[ ](http://www.fla-keys.com/marathon/index.htm)  
-[ ](http://www.fla-keys.com/lowerkeys/index.htm)  
-[ ](http://www.fla-keys.com/keywest/index.htm) | 
+This is the web site of Monroe County Tourist Development Council.
 
-**  
-Privacy Policy**
+Our postal address is  
+1201 White Street, Suite 102  
+Key West, FL 33040
 
-(as of June 20, 2001)
+We can be reached via e-mail at [clinton@floridakeys.com](mailto:clinton@floridakeys.com) or you can reach us by telephone at 305-296-1552
 
-Fla-Keys.com is a site with the purpose of promoting the awareness and image of Monroe County (Florida Keys), Florida as a tourism destination.
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-As a tourist destination site, we want you to feel comfortable searching and exchanging information on our site. We realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we typically request of you while you are within the Fla-Keys.com site as well as ways in which we process and sometimes, disseminate information collected from you. You are, of course, free to use the majority of our site without providing any personal information.
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-We will notify our visitors when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make use of any personally identifiable information which we gathered from individual visitors without first obtaining the visitor’s consent for any new uses. We reserve the right to make non-significant changes to our Privacy Policy that will not affect our use of user’s personally identifiable information any time without any notice to you other than posting any such changes in a revised Privacy Policy on Fla-Keys.com. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. This Policy will include the most recent date in which any revisions have been made.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-**_
+With respect to cookies: We use cookies to record user-specific information on what pages users access or visit.
 
-INFORMATION THAT FLA-KEYS.COM COLLECTIONS
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-_**
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-Fla-Keys.com gathers two basic types of information
+From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-> **_
-> 
-> INFORMATION PROVIDED BY YOU
-> 
-> INFORMATION GATHERED BY FLA-KEYS.COM
-> 
-> _**
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
 
-**_
+You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above.
 
-HOW INFORMATION IS COLLECTED AND DISSEMINATED
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-_**
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-The information collected by Fla-Keys.com is used to create aggregated portraits of the site audience, portraits which present anonymous statistical demographic information but _no_ personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research (demographics) to Fla-Keys.com.
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-In order to better describe how information is collected and disseminated, please carefully review the list below:
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-> > REQUESTS FOR ADDITIONAL INFORMATION (just email address)
->> 
->> ELECTRONIC NEWSLETTERS - only opt-in email, the newsletters and the subscribers are the property of FloridaKeys.com.
->> 
->> SURVEYS (OPT-IN)
->>
->>> **_
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
-INFORMATION COLLECTED BY FLA-KEYS.COM ADDRESS
+Upon request we provide site visitors with access to the information that we have collected and that we maintain about them.
 
-_**
+Consumers can access this information by e-mail us at the above address.
 
-> **__**
->
->> **___
->> 
->> IP Address
->> 
->> _**
->> 
->> Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website.
->> 
->> **_
->> 
->> Links to Other Sites
->> 
->> _**
->> 
->> Fla-Keys.com contains links to other advertisers and other websites. We cannot be responsible for the privacy practices or the content of such websites, and other advertisers on other websites, and we do not control the practices of any other advertisers or other websites to whom we are linked.
->> 
->> In order to participate in the other website and/or other advertiser supplied services and tools you may be required to provide personally identifiable information to the other advertisers and other websites whose tools and services you have chosen to interact with. Other advertisers and other websites may request different information from you.
->> 
->> **_
->> 
->> Information Sharing Policy
->> 
->> _**
->> 
->> Fla-Keys.com does not sell or otherwise share personally identifiable information with third parties without your consent except in the following instances: (I) unless required by applicable law or pursuant to a court or similar order; (2) as deemed necessary in our discretion, to protect the legal rights or the property of Fla-Keys.com, a visitor or third party, or to prevent personal injury. Fla-Keys.com reserves the right to allow access to its systems to third parties providing necessary technical services when such access is required in order to provide those services. Please note however that we reserve the right to share any personally identifiable or other information about you with your consent which you provide to (or which is gathered by) Fla-Keys.com with any or all of our subsidiaries and affiliates and will also have access to any such information which you provide to (or which is gathered by) the websites of any Fla-Keys.com or affiliate.
->> 
->> **_
->> 
->> Opt-in/Opt-out Policy
->> 
->> _**
->> 
->> Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our sites. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an email message that matches your request(s). You may, of course, always choose not to receive any of this information from us. We currently provide the following opt-out opportunities:
->>
->>> At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation emails) to unsubscribe from that mailing list or email service.
->>> 
->>> At any time, you can contact us through [webeditor@Fla-Keys.com](mailto:webeditor@Fla-Keys.com) to have your contact preference changed to “Do Not Contact Me.”
->>> 
->>> **_
->>> 
->>> How We Protect And Secure Your Information
->>> 
->>> _**
->>> 
->>> Fla-Keys.com has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control. Fla-Keys.com uses industry-standard tools, such as firewalls, to ensure that your information is secure and confidential.
->>> 
->>> **_
->>> 
->>> Guidelines Regarding Children
->>> 
->>> _**
->>> 
->>> Personal information about children is a concern for all of us. At Fla-Keys.com, we take the protection of children’s privacy very seriously. There are no credit card transactions on our site, nor chats or message boards.
->>> 
->>> **_
->>> 
->>> Contact Information
->>> 
->>> _**
->>> 
->>> If you have questions about this Privacy Policy or anything else about Fla-Keys.com, you can contact us at the following email address: [webeditor@Fla-Keys.com](mailto:webeditor@Fla-Keys.com)
-> 
-> **[Back to the Florida Keys and Key West Home Page](http://www.fla-keys.com/index.htm)**
+Consumers can have this information corrected by sending us e-mail at the above address.
 
-|   
-[ ](http://www.floridakeys.com/info) |  **This site designed and hosted by[FloridaKeys.com](http://floridakeys.com/info)  
-All Pages Copyright © FloridaKeys.com. All rights reserved.**  
----|---  
-  
-   
-| 
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
