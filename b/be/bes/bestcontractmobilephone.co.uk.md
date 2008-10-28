@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcontractmobilephone.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513170958id_/http%3A//www.bestcontractmobilephone.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcontractmobilephone.co.uk privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028060823id_/http%3A//www.bestcontractmobilephone.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - www.bestcontractmobilephone.co.uk
 
@@ -48,7 +48,7 @@ To facilitate your use of our website and to collect aggregate information, we m
 
 Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems.   
 **  
-To view our Cookie Policy, please**[click here](https://web.archive.org/web/20080513170958id_/http%3A//www.bestcontractmobilephone.co.uk/cookies_policy.asp)
+To view our Cookie Policy, please**[click here](https://web.archive.org/web/20081028060823id_/http%3A//www.bestcontractmobilephone.co.uk/cookies_policy.asp)
 
 **8\. Changes to Privacy Policy:**
 
