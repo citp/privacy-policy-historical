@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630180849id_/http%3A//www.mycoupons.com/coupon-codes-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028152604id_/http%3A//www.mycoupons.com/coupon-codes-privacy.html) for the most accurate reproduction.*
 
 # MyCoupons.com Privacy Statement
 
