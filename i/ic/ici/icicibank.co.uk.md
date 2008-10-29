@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508163511id_/http%3A//www.icicibank.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029052616id_/http%3A//www.icicibank.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # ICICI Bank UK
 
 |   
 ---  
-[](https://web.archive.org/web/20080508163511id_/http%3A//www.icicibank.co.uk/hisave_termdeposit.html)  
+[](https://web.archive.org/web/20081029052616id_/http%3A//www.icicibank.co.uk/hisave_termdeposit.html)  
   
 |  Privacy Policy   
 ---  
@@ -165,7 +165,7 @@ All information you provide to us is stored in our secure servers. Where we have
 
 Unfortunately, the transfer of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information we will use strict procedures and security features to try to prevent unauthorised access. 
 
-There is a separate section on our site relating to online security [https://www.icicibank.co.uk/security.html](https://web.archive.org/web/20080508163511id_/http%3A//www.icicibank.co.uk/security.html) which we recommend you read 
+There is a separate section on our site relating to online security [https://www.icicibank.co.uk/security.html](https://web.archive.org/web/20081029052616id_/http%3A//www.icicibank.co.uk/security.html) which we recommend you read 
 
 If we are asked to give a banker’s reference about you, we will need your written permission before we give it.   
   
