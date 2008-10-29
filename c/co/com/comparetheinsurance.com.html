@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comparetheinsurance.com privacy policy that was archived on 2008-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603074512id_/http%3A//comparetheinsurance.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comparetheinsurance.com privacy policy that was archived on 2008-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081029213218id_/http%3A//www.comparetheinsurance.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -43,6 +43,17 @@
 
 <script language="JavaScript" src="getURLParameter.js"></script>
 
+<script language="javascript" type="text/javascript">
+ function checknum(e)
+{
+evt=e || window.event;
+var keypressed=evt.which || evt.keyCode;
+if(keypressed!="48" &&  keypressed!="49" && keypressed!="50" && keypressed!="51" && keypressed!="52" && keypressed!="53" && keypressed!="54" && keypressed!="55" && keypressed!="8" && keypressed!="56" && keypressed!="57" && keypressed!="45")
+{
+return false;
+}
+}
+</script>
 
 
 
@@ -362,7 +373,72 @@ f=0;
 
 
 		}
+if (!hasValue (form.DayPhone2))
 
+
+
+		{
+
+
+
+			form.DayPhone2.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		} 
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.DayPhone2.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+		if (!hasValue (form.DayPhone3))
+
+
+
+		{
+
+
+
+			form.DayPhone3.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		} 
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.DayPhone3.style.backgroundColor="#FFFFFF";
+
+
+
+		}
 
 
 		
@@ -623,9 +699,10 @@ f=0;
 
 		}
 
-
-
-		
+//alert(document.getElementById("accept2").checked);
+if(document.getElementById("accept2").checked==false)
+{
+		document.getElementById("nnn").style.backgroundColor="#FF99CC";     }
 
 
 
@@ -1245,7 +1322,7 @@ f=0;
 
 
 
-              <td width="111" background="images/home_06.jpg"><a href="http://www.comparetheinsurance.com" class="top">Life Insurance</a></td>
+              <td width="111" background="images/home_06.jpg"><a href="http://www.comparetheinsurance.com" class="top">Insurance</a></td>
 
 
 
@@ -1361,7 +1438,7 @@ f=0;
 
 
 
-                    <td class="subtxt">We'll help you find the <strong>Best Value</strong> Life Insurance across the US market. </td>
+                    <td class="subtxt">We'll help you find the <strong>Best Value</strong> Insurance across the US market. </td>
 
 
 
@@ -1413,7 +1490,7 @@ f=0;
 
 
 
-                    <td class="subtxt">We'll compare 100s of Life Insurance Plans to find the Best Life Insurance Plan . We Promise to <strong>Match Any Other Life Cover Quote</strong> You Find ! </td>
+                    <td class="subtxt">We'll compare 100s of Life Insurance, Health Insurance , Mutual , Retirement Plans . We Promise to <strong>Match Any Other  Quote</strong> You Find ! </td>
 
 
 
@@ -1506,7 +1583,7 @@ f=0;
 
 
 
-              <td width="574" height="32" class="head">Looking for Life Insurance or Critical Illness Cover?</td>
+              <td width="574" height="32" class="head">Looking for Insurance or Investment Plans ?</td>
 
 
 
@@ -1629,11 +1706,13 @@ f=0;
                   <td class="subtxt"><div align="left"><span style="float: left;"> 
 
 
+<input name="phonenumber" type="text" class="input_text" id="DayPhone" style="width:35px;" size="3" maxlength="3" onkeypress="return checknum(event);">
+									<input name="phonenumber2" type="text" class="input_text" id="DayPhone2" style="width:35px;" size="3" maxlength="3" onkeypress="return checknum(event);">
+									<input name="phonenumber3" type="text" class="input_text" id="DayPhone3" style="width:42px;" size="4" maxlength="4" onkeypress="return checknum(event);">
+                     <!-- <input name="phonenumber" class="form-style" id="DayPhone" size="20" maxlength="12" tabindex="3" type="text">
 
-                      <input name="phonenumber" class="form-style" id="DayPhone" size="20" maxlength="12" tabindex="3" type="text">
 
-
-
+-->
                       <input name="b2_ReqAreaCde" id="b2_ReqAreaCde" type="hidden">
 
 
@@ -1837,7 +1916,14 @@ f=0;
 
 
 
-                  <td colspan="3" class="subtxt" align="right">&nbsp;</td>
+                  <td colspan="3" align="left" class="subtxt"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="5%" id="nnn"><input name="checkbox" type="checkbox" value="checkbox" checked="" id="accept2"></td>
+                        <td width="95%" class="subtxt">I accept the <a href="terms.php" target="_blank">terms &amp; conditions</a> &amp; I agree to receive Special Offers<br>
+                          from CompareTheInsurance. You may opt out of these messages<br>
+                          at any point.</td>
+                      </tr>
+                    </tbody></table></td>
 
 
 
@@ -1881,14 +1967,11 @@ f=0;
 
 
                   <tbody><tr>
+                    <td class="footertxt">Based on your criteria CompareTheInsurance will introduce you to a financial Company<br>
 
 
 
-                    <td class="footertxt">Based on your criteria CompareTheInsurance will introduce you to a Life Insurance Company<br>
-
-
-
-                      who will be best placed to meet your requirements. We compare hundreds of life insurance plans to find you the best deal within minutes. </td>
+                      who will be best placed to meet your requirements. We compare hundreds of  insurance and investment plans to find you the best deal within minutes. </td>
 
 
 
@@ -2012,18 +2095,18 @@ f=0;
 
 
 
-        <td class="buttomtxt">         <p>We treat your privacy with seriousness and your personal data is kept safely by us when you submit an application for Insurance or investment product. Our team at ComparetheInsurance has taken all the measures necessary to ensure this data is not compromised. <br>
-            <br>
-The Personal Information which you provide to our team will only be used for the Life Insurance and Investment Quote which you applied for and not for any other purposes. The information which you provide to us may be sent to other life insurance companies to allow your quote to be processed, these companies may have different privacy policies and you're encouraged to check their privacy policies as well. <br>
-<br>
-If you do not wish to receive an Insurance or Investment Quote, please do not submit an application through our form as you will be contacted by the relevant life insurance company. If you find your information is inaccurate , please contact us and we will have it edited/removed from our database. </p>
+        <td class="buttomtxt"><p>We treat your privacy with seriousness and your personal data is kept safely by us when you submit an application for Insurance or investment product. Our team at ComparetheInsurance has taken all the measures necessary to ensure this data is not compromised. <br>
+              <br>
+          The Personal Information which you provide to our team will only be used for the Life Insurance and Investment Quote which you applied for and not for any other purposes. The information which you provide to us may be sent to other life insurance companies to allow your quote to be processed, these companies may have different privacy policies and you're encouraged to check their privacy policies as well. <br>
+  <br>
+          If you do not wish to receive an Insurance or Investment Quote, please do not submit an application through our form as you will be contacted by the relevant life insurance company. If you find your information is inaccurate , please contact us and we will have it edited/removed from our database. </p>
           <p>Changes to Our Privacy Policy</p>
           <p>We reserve the right to change our privacy policy. If changes are made, we will post these changes to this Privacy Policy and to other relevant places on our web site so that visitors are aware of the change. We encourage you to check this posted Privacy Policy for updates. Unless you give us permission to do so, or unless law requires us, we do not willfully use or disclose personally identifiable information to third parties, other than as necessary to facilitate the process of obtaining insurance for you.</p>
           <p>We store information we collect through server log files and/or secure databases. ComparetheINsurance uses the latest server software and encryption technologies to help protect your personal information. Secure Socket Layer (SSL) technology encrypts the information you've provided online as it travels between your computer and IntelliQuote Insurance Services. We recommend that you use a browser that supports SSL, and that you have not disabled the encryption feature in your browser.
-    
-ComparetheInsurance also uses other security procedures and practices, including keyed-entry server rooms and firewalls, to protect your data from unauthorized use or disclosure.</p>
+            
+            ComparetheInsurance also uses other security procedures and practices, including keyed-entry server rooms and firewalls, to protect your data from unauthorized use or disclosure.</p>
           <p>Use of Cookies</p>
-          <p>ComparetheInsurance uses cookies to increase the user experience. and to make the site more useful. For more information on my privacy policy , please <a href="contact.php">contact us </a>. </p>          <p>&nbsp;</p>          </td>
+          <p>ComparetheInsurance uses cookies to increase the user experience. and to make the site more useful. For more information on my privacy policy , please <a href="contact.php">contact us </a>. </p></td>
 
 
 
