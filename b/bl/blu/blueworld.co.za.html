@@ -1,44 +1,25 @@
-<!--The following is the downloaded HTML source of the blueworld.co.za privacy policy that was archived on 2008-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080506000847id_/http%3A//www.blueworld.co.za/html/footer/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueworld.co.za privacy policy that was archived on 2008-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081030003151id_/http%3A//www.blueworld.co.za/html/footer/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_master_header"><title>
 	Privacy Policy - Blueworld
 </title><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><meta name="generator" content="HAPedit 3.1"><meta id="ctl00_metaKey" name="keywords" content="social, events, photography, clubs, students, portal, party, blueworld, network, photos, videos, blogs, blogging, video sharing, photo tagging, free sms, send smses free, sms any network free"><meta id="ctl00_metaDesc" name="description" content="Blueworld is a social community where anyone can join and create a profile so your friends can find you online, upload an unlimited number of photos, share videos, write your own blogs, support your peers with groups, send text messages to any network for free, discover new people and connect with friends.">
 
-<script src="/Scripts/jquery-1.2.2.js" type="text/javascript"></script>
-<script src="/Scripts/boxover.js" type="text/javascript"></script>
+
+<script src="/Scripts/jquery/jquery.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.dimensions.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.tooltip.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
+
 function NewWindow(mypage, myname, w, h, scroll) {
 var winl = (screen.width - w) / 2;
 var wint = (screen.height - h) / 2;
-winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
-win = window.open(mypage, myname, winprops)
+winprops = 'height='+h+',width='+w+',scrollbars='+scroll
+var win=window.open(mypage, null, winprops)
 if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 }
-/*
-$(document).ready(function() {
-    if($("div.module_a:first"))
-	$("div.module_a:first").css("margin-top", "0px");
-    if($("ul.results li:last"))
-	$("ul.results li:last").css("border-bottom", "0px");
-	if($("ul.results li:last"))
-	$("ul.results li:last").css("margin-bottom", "0px");
-	if($("ul.all_forms li:last"))
-	$("ul.all_forms li:last").css("borderBottom", "0px");
-	if($(".wide_list li:last"))
-	$(".wide_list li:last").css("margin-bottom", "0px");
-    if($(".header_buttons a"))
-    {
-	    $(".header_buttons a").hover(function() {
-		    $(this).next("em").animate({opacity: "show", left: "140"}, "slow");
-	    }, function() {
-		    $(this).next("em").animate({opacity: "hide", left: "160"}, "fast");
-	    });
-	}
 
-});
-*/
 </script>
 
 <script language="javascript" type="text/javascript">
@@ -56,18 +37,22 @@ startList = function()
     if (document.all&&document.getElementById) 
     {
         cssdropdownRoot = document.getElementById("ctl00_cssdropdown");
-        for (x=0; x<cssdropdownRoot.childNodes.length; x++)
+        
+        if (cssdropdownRoot != null)
         {
-            node = cssdropdownRoot.childNodes[x];
-            if (node.nodeName=="LI") 
+            for (x=0; x<cssdropdownRoot.childNodes.length; x++)
             {
-                node.onmouseover=function() 
+                node = cssdropdownRoot.childNodes[x];
+                if (node.nodeName=="LI") 
                 {
-                    this.className+=" over";
-                }
-                node.onmouseout=function() 
-                {
-                    this.className=this.className.replace(" over", "");
+                    node.onmouseover=function() 
+                    {
+                        this.className+=" over";
+                    }
+                    node.onmouseout=function() 
+                    {
+                        this.className=this.className.replace(" over", "");
+                    }
                 }
             }
         }
@@ -79,17 +64,15 @@ window.attachEvent("onload", startList)
 else
 window.onload=startList;
 
-
-	
-	
+// jQuery(function() {
+//        jQuery(".tooltip").ToolTip();    
+// });
+    	
 </script>
-
-
-
-<link rel="stylesheet" type="text/css" href="/layout.css" media="all"><link id="ctl00_skin" href="/skins/style.aspx" rel="stylesheet" type="text/css"></head>
+<link rel="stylesheet" type="text/css" href="/master.css" media="all"><link rel="stylesheet" type="text/css" href="/layout.css" media="all"><link rel="stylesheet" type="text/css" href="/layout-icons.css" media="all"><link id="ctl00_bandStyles" rel="stylesheet" type="text/css"><link id="ctl00_skin" href="/skins/style.aspx" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/skins/blue.css" media="all"></head>
 <body id="ctl00_bBody">
 <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2MTQ5NTk1Mw9kFgJmD2QWAgIDD2QWAgIBD2QWAgIBD2QWBgIDDxYCHgdWaXNpYmxlaGQCCQ9kFgRmDxYCHgpvbktleVByZXNzBUVqYXZhc2NyaXB0OmlmIChldmVudC5rZXlDb2RlID09IDEzKSBfX2RvUG9zdEJhY2soJ2N0bDAwJGJ0bkxvZ29uJywnJylkAgEPFgIfAQVFamF2YXNjcmlwdDppZiAoZXZlbnQua2V5Q29kZSA9PSAxMykgX19kb1Bvc3RCYWNrKCdjdGwwMCRidG5Mb2dvbicsJycpZAILDxYCHwBoZGS+Gh3FnwlwUBFKG5djLKPwED7HXw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2MTQ5NTk1Mw9kFgJmD2QWAgIDD2QWAgIBD2QWAgIBD2QWBgIDDxYCHgdWaXNpYmxlaGQCCQ9kFgRmDxYCHgpvbktleVByZXNzBUVqYXZhc2NyaXB0OmlmIChldmVudC5rZXlDb2RlID09IDEzKSBfX2RvUG9zdEJhY2soJ2N0bDAwJGJ0bkxvZ29uJywnJylkAgEPFgIfAQVFamF2YXNjcmlwdDppZiAoZXZlbnQua2V5Q29kZSA9PSAxMykgX19kb1Bvc3RCYWNrKCdjdGwwMCRidG5Mb2dvbicsJycpZAILDxYCHwBoZGSSV7DFqMVPQKINzaD+yEbaeABnpw==">
 
 
         <script type="text/javascript">
@@ -116,6 +99,7 @@ window.onload=startList;
         </script>
 
         
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKg07zmAQLm9/7vAQLxk93oDgLlrI+ZD93bBcOthVftYGTG+U2yy0yzgmJg">
 
 <div class="holder">
 
@@ -126,10 +110,15 @@ window.onload=startList;
 <ul id="ctl00_regBar" class="cssdropdown">
     <li class="mainitems"><a href="/register.aspx">Register</a></li>
     <li class="mainitems"><a href="/logon.aspx">Logon</a></li>
+    <li class="mainitems"><a href="/html/tour.aspx">Take the tour</a></li>
+	<li class="mainitems help"><a href="/html/faq.aspx">Help</a></li>
 </ul>
 
 
 				<ul class="picker">
+				
+						<li><a rel="nofollow" onclick="change_style('grey_vincent')"><img style="background:#555;" src="/images/colorpick.gif"></a></li>
+						
 						<li><a rel="nofollow" onclick="change_style('')"><img style="background:#587EB4;" src="/images/colorpick.gif"></a></li>
 						<li><a rel="nofollow" onclick="change_style('red_flow')"><img style="background:#c04b4b;" src="/images/colorpick.gif"></a></li>
 						<li><a rel="nofollow" onclick="change_style('yellow_ghetto')"><img style="background:#d7c35e;" src="/images/colorpick.gif"></a></li>
@@ -137,17 +126,17 @@ window.onload=startList;
 						<li><a rel="nofollow" onclick="change_style('orange_fear')"><img style="background:#d9724d;" src="/images/colorpick.gif"></a></li>
 						<li><a rel="nofollow" onclick="change_style('pink_floral')"><img style="background:#e196c7;" src="/images/colorpick.gif"></a></li>
 						
+						
 					</ul>
 				
 </div> 
 
-
-
-
-				<div id="ctl00_divHeaderImage" class="header_image">
-				<a href="http://www.blueworld.co.za" border="0">
-<img src="/images/header/blueworld_header.png" border="0" id="imgHeader"></a>
-				</div>
+<div id="ctl00_divHeaderImage" class="header_image">
+				
+				<a href="http://www.blueworld.co.za" border="0"><img src="/images/header/blueworld_header.png" border="0" id="imgHeader"></a>
+				
+				
+</div>
 <div class="menu">
 					<ul>
 				
@@ -157,15 +146,16 @@ window.onload=startList;
 						<li><a href="/photos/albumsite.aspx">Albums</a></li>
 						<li><a href="/blog/blogsite.aspx">Blogs</a></li>
 						<li><a href="/blog/miniBlogSite.aspx">Mini Blogs</a></li>
+						<li><a href="/bands">Music</a></li>
+						<li><a href="/chat/Chat.aspx" style="background:#587EB4; color:#fff;">Chat</a></li>
 						<li><a href="/groups/groupsite.aspx">Groups</a></li>
+						<li><a href="/chill/chillsite.aspx">Chill Area</a></li>
 						<li><a href="/events/events.aspx">Events</a></li>
 						<li><a href="/html/gallery_listing.aspx">Event Photos</a></li>
 						<!-- <li><a rel='nofollow' href="/bookmarks/bookmarks.aspx">Bookmarks</a></li>-->
-						<!-- <li><a href="/classifieds/Default.aspx">Classifieds</a></li>-->
+						<li><a href="/classifieds/Default.aspx">Classifieds</a></li>
 						<li><a href="/html/search_users.aspx">Search</a></li>
-						<li><a href="/invite.aspx">Invite</a></li>
- 						<li class="help"><a href="/html/faq.aspx">Help</a></li>
-						<li class="report"><a rel="nofollow" title="body=[<b>Report Content</b><br />Please make use of this feature if you want to flag any content on Blueworld as offensive, degrading, excessively violent, pornographic or unfit for general viewing.] cssbody=[tooltipbody] cssheader=[tooltiphead]" href="/report.aspx" onclick="NewWindow(this.href,'name','600','370','yes');return false;">Report Content</a></li>
+						<li class="report" style="padding-right:2px;"><a rel="nofollow" rel2="<b>Report Content</b><br />Please make use of this feature if you want to flag any content on Blueworld as offensive, degrading, excessively violent, pornographic or unfit for general viewing." cssclass="tooltipbody" href="/report.aspx" onclick="NewWindow(this.href,'name','600','370','yes');return false;" class="tooltip">Report</a></li>
 						
 					
  						
@@ -201,8 +191,7 @@ window.onload=startList;
             
 
  <center>
-
-<iframe frameborder="0" scrolling="no" src="/adverts/sidebarSkyscraper.html" width="160px" height="600px">
+<iframe frameborder="0" scrolling="no" src="/Adverts/SideBarSkyscraperFrame.aspx" width="160px" height="600px">
 </iframe>
 
  </center>
@@ -276,7 +265,7 @@ Contacting the Web Site If you have any questions about this privacy statement, 
 
 
 
-		<div class="clear"></div>
+
 
  
 <div id="footer">
@@ -284,7 +273,9 @@ Contacting the Web Site If you have any questions about this privacy statement, 
 
 <a href="http://www.blueworld.co.za">Home</a> | 
 <a href="/html/tour.aspx">Take the Tour</a> | 
+<a href="/html/mobile.aspx">Blueworld Mobile</a> | 
 <a href="/free_sms.aspx">Free SMS</a> | 
+<a href="/dating.aspx">Dating</a> | 
 <a href="http://blog.blueworld.co.za">Staff Blog</a> | 
 <a href="/html/footer/contact.aspx">Contact Us</a> | 
 <a href="/html/footer/advertise.aspx">Advertise with Us</a> | 
@@ -297,8 +288,7 @@ Blueworld.co.za © <a href="http://www.bwcom.co.za/" target="_blank">BWCom</a> 2
 </p>
 </div>
 </div>
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALi3Z+qBALm9/7vAQLxk93oDgLlrI+ZD8fs6JG3d2Bw+OseKHApAYaQuKCD"></form>
+</form>
 
 
 <script type="text/javascript">
@@ -326,8 +316,16 @@ pageTracker._trackPageview();
 </noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.2 -->
 <!-- END NetRatings OPA Measurement V5.1.1 (LATEST VERSION)-->
+<div id="tooltip_box" style="position: absolute;display:none;"></div>
+<div id="toolclick_box" style="position: absolute;display:none;"></div>
+
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="/scripts/pngfix.js"></script>
 <![endif]-->
+<script language="javascript" type="text/javascript">
+    jQuery(function() {
+        jQuery(".tooltip").MasterTip();
+    });
+</script>
 
 </body></html>
