@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628225538id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029090524id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Careers & Education
-
-**TRUSTe License Disclaimer:**   
-Careers & Education is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers www.Careersandeducation.com (the “Website”). Because the Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this policy, you should first contact Careers & Education Customer Service at privacy@careersandeducation.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **Privacy Policy Introduction:**   
 We respect your privacy, security and user experience while visiting the Website - above all else. It is our sincere hope that your experience will be pleasant at www.Careersandeducation.com, and that the information we provide will be complete, accurate and very helpful to you and your family. 
@@ -26,9 +21,6 @@ Registration with Careers & Education:
 Non-Personal Information - When you visit our Website, our server logs collect non-personal information from you, including your IP address and the URL of the last site you viewed. 
 
 Personal Information – When you register with Careersandeducation.com, we collect personal information from you, including your email address, name, postal address, phone number, gender, and date of birth. We do not request collect sensitive personal information such as your credit card number, bank account information or social security number in order to register with Careersandeducation.com; however, when you choose to complete an advertising form in the registration process for one of our advertisers this sensitive information may be requested by the advertiser and therefore collected by Careersandeducation.com for the sole purpose of providing this information to the advertiser. Careersandeducation.com does not store or use this information for any other purpose. During this process we ensure that this information is encrypted in transit using secure socket layer technology (SSL). Please see the Security section below for additional information. 
-
-**Purchasing Hardcopy of Directory of Scholarship Websites:**   
-When you click on the "Buy Now" link on our Homepage or in our FAQ section in order to purchase a hardcopy of the Directory, you are directed to a secure PayPal® website. On that site, you must either use your existing PayPal account or register with PayPal. During this process, all personal information you provide, including any credit card or bank account information, is submitted directly to PayPal. Careersandeducation.com does not collect or receive this information, other than your name and postal address, as described below. For information on how PayPal collects, uses and discloses your personal information, please visit: http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside. After you have made your payment, PayPal will email your name and postal address to us to confirm your purchase and so that we may fulfill your order. 
 
 **Submitting Information during the Registration Process:**   
 During the registration process you will be directed through a number of third party websites displaying advertisements for Universities, Education Programs and other Special Offers that may be of interest to you. If you select "Yes" on any of these advertisements or choose to complete the forms provided, you will be asked to submit personal information. On behalf of certain advertisers, we will request sensitive personal information such as your credit card number or social security number. In all cases, when you click on the Submit button we will securely transfer your personal information to the third-party advertiser you selected. We will not use the information that you submit for transfer to a third-party advertiser for our own purposes; nor will we retain or disclose it. You may be prompted by some advertisers to answer additional questions. These pages may be "co-branded" or "framed." This means that they may appear to be part of our Website because they have a Careersandeducation.com look and feel, but they are, in fact, part of the advertiser's site. All framed pages contain the following disclaimer at the bottom of the page: "*By submitting the form above I agree to provide this information to the advertiser and to be contacted by this advertiser directly." On these framed pages, we do not collect any of the additional information you submit; the advertiser does, and it does not share this information with us. The advertiser uses your information to deliver additional information to you about its particular product or service and perhaps for other purposes. Its collection and use of your information is subject to its own privacy policy. 
@@ -67,7 +59,20 @@ We will disclose your information in response to subpoenas, court orders, or leg
 
 We will disclose your information if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or rights of any person, violations of our terms of use, or as otherwise required or permitted by law. We will transfer your information if all or part of our company or our operations are acquired by or merged with another company. In this instance, we will notify you as detailed in the "Changes to this Privacy Policy" section below. 
 
-**Choice/Opt-Out:**   
+Wireless Privacy Policy:
+
+We may use personal information to provide services you've requested, including services that display customized content and advertising.  In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence.  You may opt-out and remove your SMS information by sending "STOP", "END", "QUIT" to the SMS text message you have received.  If you remove your SMS information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.
+
+Detailed Wireless Policy:  
+
+Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages.  In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence.  All charges are billed by and payable to your mobile service provider.  We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator.  SMS message services are provided on an AS IS basis.
+
+We may use personal information to provide the services you've requested, including services that display customized content and advertising.  We may also use personal information for auditing, research and analysis to operate and improve our technologies and services.  We may share aggregated and non personal information with third parties outside of CareersandEducation.com.  When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.  We may also share information with third parties in limited circumstances, including when complying with legal processes, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+
+You may remove your information from our database.  If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.  You may remove your information by sending your request in writing via email to privacy@careersandeducation.com, or sending "STOP", "END", "QUIT" to the SMS text message you have received.  
+
+ **Choice/Opt-Out:**
+
 If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by clicking here, by following the instructions included in each newsletter or communication or by emailing us at privacy@Careersandeducation.com. See the section below on "Access to Personally Identifiable Information" for additional information on how to unsubscribe from receiving these mailings. 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
@@ -76,10 +81,10 @@ You will be notified when your personal information is collected by any third pa
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site. Careersandeducation.com does not store this information. 
 
 **Access to Personally Identifiable Information:**  
-If your contact information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing Customer Support at info@Careersandeducation.com, or by contacting us by telephone or postal mail using the contact information listed below. You can also opt out and remove your information from our database online by clicking here. Any personal information we provide to a marketing partner is subject to that marketing partner's own privacy policy. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
+If your contact information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing Customer Support at IMWeb@Careersandeducation.com, or by contacting us by telephone or postal mail using the contact information listed below. You can also opt out and remove your information from our database online by clicking here. Any personal information we provide to a marketing partner is subject to that marketing partner's own privacy policy. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
 
 Your California Privacy Rights  
-Under California law, site visitors who are residents of California may request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to privacy@Careersandeducation.com or write to us at Careers & Education, 233 Broadway, 21st Floor, New York, NY 10279. 
+Under California law, site visitors who are residents of California may request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to IMWeb@Careersandeducation.com or write to us at Careers & Education, 233 Broadway, 21st Floor, New York, NY 10279. 
 
 **How to Contact Us:**  
 If you have any questions regarding our privacy policy, please contact us at: 
@@ -89,7 +94,7 @@ Careers & Education
 New York, NY 10279   
 (P) 212-509-5218   
 (F) 866-272-5129   
-privacy@careersandeducation.com 
+IMWeb@careersandeducation.com 
 
 **Changes to this Privacy Policy:**  
 If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
