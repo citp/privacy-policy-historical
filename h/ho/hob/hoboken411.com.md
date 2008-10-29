@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430161627id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029042422id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
 # Privacy Policy - Hoboken 411 » Hoboken's Leading Web Community
 
