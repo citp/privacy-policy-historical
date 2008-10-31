@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144509id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2008-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081031224653id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -16,7 +16,7 @@ Our Site uses cookies to keep track of your shopping cart. We also use cookies t
 
 #### Third-Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
 
 ####  Third Party Advertising 
 
@@ -31,15 +31,15 @@ We use Google, BurstMedia and other third-party advertising companies to serve a
 
 ####  Registration Forms 
 
-Our site's registration form requires users to give us contact information like their name, email, and postal address. We display the horse owner's contact name, contact email, contact phone, contact fax, city, state and postal code with the horse ad. We do not display an owner's street address. The only required field is contact email. 
+Our site's registration form requires users to give us contact information like their name, email, and postal address. We display the horse owner's contact name, contact email, contact phone, contact fax, city, state and postal code with the horse ad. We do not display an owner's street address. The only required field is contact email. We never display a customer's email address on our ads, on our site, nor to anyone who responds to an ad. 
 
 Contact information (email address) from the registration forms is used to get in touch with the customer when necessary such as informing the customer that their horse or tack ad is expiring. Contact information may also be shared with any law enforcement agency investigating any fraudulent or improper activity on Dream Horse Classifieds or TackTrader.com.
 
-Dream Horse does not and will never sell or give your email address to any SPAMMERS or JUNK MAILERS. We hate spam and will do everything possible to protect your information. We have recently begun hiding your email address completely so that we can track and screen any and all responses to your ads by forcing responses through our owner contact form. 
+Dream Horse does not and will never sell or give your email address to any SPAMMERS or JUNK MAILERS. We hate spam and will do everything possible to protect your information. We hide your email address completely so that we can track and screen any and all responses to your ads by forcing responses through our ad response form. 
 
 ####  Order Forms 
 
-Our site uses secure online ordering for customers to request information, products, and services. We collect financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. . 
+Our site uses secure online ordering for customers to request information, products, and services. Our secure shopping cart system collects financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. There is no credit card information ever stored on the DreamHorse.com servers.. 
 
 ####  Surveys 
 
@@ -73,4 +73,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20080509144509id_/http%3A//www.dreamhorse.com/contact.php)
+[Contact Information](https://web.archive.org/web/20081031224653id_/http%3A//www.dreamhorse.com/contact.php)
