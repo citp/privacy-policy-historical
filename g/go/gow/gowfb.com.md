@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084834id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101193847id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Furniture Brokers
 
@@ -31,9 +31,11 @@
   * [Gainesville / Ocala, FL](http://www.gowfb.com/Gainesville-and-Ocala,-FL-c-383.php?cPath=383)
   * [Grand Rapids / Kalamazoo, MI](http://www.gowfb.com/Grand-Rapids-and-Kalamazoo,-MI-c-407.php?cPath=407)
   * [Hartford, CT / Springfield, MA](http://www.gowfb.com/Hartford,-CT-and-Springfield,-MA-c-324.php?cPath=324)
+  * [High Point, NC](http://www.gowfb.com/High-Point,-NC-c-1621.php?cPath=1621)
   * [Houston, TX](http://www.gowfb.com/Houston,-TX-c-34.php?cPath=34)
   * [Jacksonville, FL](http://www.gowfb.com/Jacksonville,-FL-c-35.php?cPath=35)
   * [Kansas City, KS](http://www.gowfb.com/Kansas-City,-KS-c-333.php?cPath=333)
+  * [Knoxville, TN](http://www.gowfb.com/Knoxville,-TN-c-1671.php?cPath=1671)
   * [Las Vegas, NV](http://www.gowfb.com/Las-Vegas,-NV-c-37.php?cPath=37)
   * [Los Angeles, CA](http://www.gowfb.com/Los-Angeles,-CA-c-504.php?cPath=504)
   * [Lubbock, TX](http://www.gowfb.com/Lubbock,-TX-c-64.php?cPath=64)
@@ -43,6 +45,7 @@
   * [New Jersey](http://www.gowfb.com/New-Jersey-c-444.php?cPath=444)
   * [New Orleans, LA](http://www.gowfb.com/New-Orleans,-LA-c-464.php?cPath=464)
   * [New York, NY](http://www.gowfb.com/New-York,-NY-c-279.php?cPath=279)
+  * [Oklahoma City, OK](http://www.gowfb.com/Oklahoma-City,-OK-c-1681.php?cPath=1681)
   * [Omaha, NE](http://www.gowfb.com/Omaha,-NE-c-390.php?cPath=390)
   * [Orange County, CA](http://www.gowfb.com/LA-and-Orange-County,-CA-c-36.php?cPath=36)
   * [Orlando / Melbourne, FL](http://www.gowfb.com/Orlando-and-Melbourne,-FL-c-414.php?cPath=414)
@@ -75,16 +78,16 @@
 
 Wholesale Furniture Brokers is committed to protecting your privacy and has implemented a verified P3P Privacy Policy. To learn more about P3P Privacy Policies, visit the [FAQ of P3P policies](http://www.w3.org/P3P/p3pfaq).
 
-**What's the difference between Security and Privacy?**   
-Security involves making sure that any sensitive information you may provide to us is handled in a safe and secure manner. Privacy refers to information we gather about you, and what we do with that information once we have it.   
-For more information about security and privacy on our site, send an e-mail to [Admin@GoWFB.com](mailto:Admin@GoWFB.com). 
+**What's the difference between Security and Privacy?**  
+Security involves making sure that any sensitive information you may provide to us is handled in a safe and secure manner. Privacy refers to information we gather about you, and what we do with that information once we have it.  
+For more information about security and privacy on our site, send an e-mail to [Admin@GoWFB.com](mailto:Admin@GoWFB.com).
 
-**What personal information do we collect and how do we use it?**   
+**What personal information do we collect and how do we use it?**  
 GoWFB.com uses cookies to customize and enhance your shopping experience. You can set your browser to refuse some or all cookies; however some features of GoWFB.com will not function properly without cookies. GoWFB.com does not store any personally identifying information on your computer. Certain personal or business information may be collected from visitors to GoWFB.com. You may need to fill out these forms to register, purchase items, or take part in special promotions. No personally identifying information is stored, collected, or displayed in a non-secure manner. We use your contact information to speed up the order process, and to contact you when you request or when it is necessary (for example, if there is a problem fulfilling your order). We do not rent or sell e-mail addresses. Information pertaining to your order may be shared with third party companies for the sole purpose of completing your order. Wholesale Furniture Brokers does not govern any other websites but may occasionally provide links to other websites, which have their own privacy practices. We also may use information about product interests and purchases to help us improve your shopping experience and our site design. All addresses that you keep in your personal address book are for your use only. When you enter contests or promotions, we may share information that you give us with the companies that have partnered with us for that event. This will be plainly stated in the rules and regulations when applicable. We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or (3) investigating fraud that has already taken place. The information is not provided to these agencies or companies for marketing purposes.  
 You may decline to provide any personal information to Wholesale Furniture Brokers, in which case Wholesale Furniture Brokers may be unable to offer you some or any services.  
 All of your personal information is removed from the system when you delete your account. Any personally identifying information pertaining to an order is retained only as long as legally required.  
 If you find any discrepancies in your personal information, you can contact us at [Admin@GoWFB.com](mailto:Admin@GoWFB.com) to have the information corrected.
 
 **What happens when I submit an e-mail to WholesaleFurnitureBrokers.com?**  
-We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.   
-If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact_us.php). 
+We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.  
+If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact_us.php).
