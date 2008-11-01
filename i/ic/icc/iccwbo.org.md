@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608233215id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101140120id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
 
 # ICC - The world business organization
 
