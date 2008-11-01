@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinove.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509100057id_/http%3A//www.vinove.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinove.com privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101192953id_/http%3A//www.vinove.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vinove: Privacy Policy
 
@@ -8,4 +8,4 @@
 
 The information volunteered by you, the visitor will be dealt with utmost confidentiality. It will be used for the specific purpose it is provided for. The information and the contact details provided would not be shared, rented or sold to any third party. However Vinove retains the right to contact the person who has submitted the information at any time unless otherwise specified. We may send emails to you at the email id given by you. We respect your privacy and in the event that you choose to not receive such emails, we will take all steps to remove you from our list. We will make all efforts to respond to you in a timely manner to fulfill your requests.
 
-If you have any questions about this privacy statement, or our Web sites, please [get in touch with us](https://web.archive.org/web/20080509100057id_/http%3A//www.vinove.com/contact.php "Contact US"). 
+If you have any questions about this privacy statement, or our Web sites, please [get in touch with us](https://web.archive.org/web/20081101192953id_/http%3A//www.vinove.com/contact.php "Contact US"). 
