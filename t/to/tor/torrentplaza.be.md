@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentplaza.be privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225063537id_/http%3A//www.torrentplaza.be/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentplaza.be privacy policy that was archived on 2008-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081102040508id_/http%3A//www.torrentplaza.be/privacy.html) for the most accurate reproduction.*
 
 # Torrent Plaza :: Privacy Policy
 
@@ -21,4 +21,4 @@ We use MediaShakers and other third-party advertising companies to serve ads whe
   
 TorrentPlaza.be reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
 
-[The Latest Releases](http://www.torrentplaza.be/releases.html) \- [Full Speed Downloads](http://www.usenext.dk/) \- [Movie Reviews](http://www.torrentplaza.be/reviews.html) \- [Forum](http://www.torrentplaza.be/forum) \- [Trailers](http://www.torrentplaza.be/forum/viewforum.php?f=15) \- [Links](http://www.torrentplaza.be/links.html)
+[Mininova Movies](http://www.torrentplaza.be/mininova_releases.html) \- [Latest Movies](http://www.torrentplaza.be/latest_releases.html) -[Usenext](http://www.usenext.dk/) \- [Movie Reviews](http://www.torrentplaza.be/movie_reviews.html) \- [Forum](http://www.torrentplaza.be/new_forum) \- [Movie Trailers](http://www.torrentplaza.be/movie_trailers.html) \- [Torrent Sites](http://www.torrentplaza.be/links.html)
