@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geico.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630085747id_/http%3A//www.geico.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geico.com privacy policy that was archived on 2008-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081102233311id_/http%3A//www.geico.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,20 +8,41 @@
 		<meta name="y_key" content="030608cdc3f8cedb">
 		<meta name="verify-v1" content="Nyku05CwuFDBRw1MNa379RoqugD99FImmocjPxoeDes=">
 		
-		<title>Privacy Policy - geico.com</title> 
-		<link rel="stylesheet" href="/public/css/reset.css" type="text/css">
-		<link rel="stylesheet" href="/public/css/redesign.css" type="text/css">
+		<title>GEICO | Privacy Policy</title> 
 		
+					<link rel="stylesheet" href="/public/css/reset.css" type="text/css">
+					<link rel="stylesheet" href="/public/css/redesign.css" type="text/css">
+					<link rel="stylesheet" href="/public/css/subpage.css" type="text/css">
+				
+					<script type="text/javascript" src="/public/scripts/global.js"></script>
+					<script type="text/javascript" src="/vs/track.js?log=1&amp;page=%2Fabout%2Fprivacy%2F"></script>
 		
 				
-				<link rel="stylesheet" href="/public/css/subpage.css" type="text/css">
-				
-		<link rel="Shortcut Icon" href="/public/favicon.ico">
-	
-		<script type="text/javascript" src="/vs/track.js?log=1&amp;page=/about/privacy/"></script>
-		<script type="text/javascript" src="/public/scripts/global.js"></script>
-				
+		<script src="/public/scripts/jquery/jquery.js" type="text/javascript"></script>
+		<script src="/public/scripts/jquery/jquery.cookie.js" type="text/javascript"></script>
+		<script src="/public/scripts/jquery/jquery.fontarray.js" type="text/javascript"></script>
 		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				switch ($.cookie('gfont')) {
+					case "1": fsize("1"); break
+					case "2": fsize("2"); break
+					case "3": fsize("3"); break
+				}
+			
+				$('#textSize1').click(function(){
+					fsize("1");
+				});
+				
+				$('#textSize2').click(function(){
+					fsize("2");
+				});
+				
+				$('#textSize3').click(function(){
+					fsize("3");
+				});
+			});
+		</script>
 	
 	</head>
 	<body>
@@ -38,10 +59,13 @@
 				<span id="logo">
 					<a href="/"><img src="/public/images/logo.gif" alt="GEICO"></a>
 				</span>
+				<span id="pumpkin">
+					<a href="/"><img src="/public/images/pumpkin.jpg" alt="Happy Halloween"></a>
+				</span>
 				<span id="headerLinks">
 					<a href="http://www.migeico.com"><img src="/public/images/spanish.gif" alt="En Español" id="spanishFlag"></a>
 					<a href="http://www.migeico.com">Español</a>
-					 | <a href="http://careers.geico.com" target="_blank">Careers</a>
+					 | <a href="http://careers.geico.com" onclick="window.open(this.href); return false;">Careers</a>
 					  | <a href="http://mobile.geico.com">Mobile Site</a>					 | <a href="/about/contactus/">Contact Us</a>
 					 | <a href="/about/sitemap/">Site Map</a>
 				</span>
@@ -53,90 +77,113 @@
 			</div>
 			</form>
 		</div>
-		
 		<div id="bodyContainer">
 			<div id="menuBack">
 				<div id="menu">
 					<ul>	
 									
-						<li id="submenu1"><a href="/getaquote/">Get A Quote</a>
-														<ul>
-																<li><a href="/getaquote/auto/">Auto Insurance</a></li>
-																<li><a href="/getaquote/motorcycle/">Motorcycle Insurance</a></li>
-																<li><a href="/getaquote/atv/">ATV Insurance</a></li>
-																<li><a href="/getaquote/umbrella/">Umbrella Insurance</a></li>
-																<li><a href="/getaquote/homeowners/">Homeowners Insurance</a></li>
-																<li><a href="/getaquote/renters/">Renters Insurance</a></li>
-																<li><a href="/getaquote/condo/">Condo / Co-op Insurance</a></li>
-																<li><a href="/getaquote/rv/">RV Insurance</a></li>
-																<li><a href="/getaquote/life/">Life Insurance</a></li>
-																<li><a href="/getaquote/boat/">Boat/PWC Insurance</a></li>
-																<li><a href="/getaquote/flood/">Flood Insurance</a></li>
-																<li><a href="/getaquote/mobilehome/">Mobile Home Insurance</a></li>
-																<li><a href="/getaquote/overseas/">Overseas Insurance</a></li>
-																<li><a href="/getaquote/commercial/">Commercial Insurance</a></li>
-															</ul>
-						</li>
+							<li id="submenu1">
+								<a href="/getaquote/">Get A Quote</a>
+																<ul>
+																														<li><span>Vehicle Insurance</span></li>
+																															<li><a class="indent" href="/getaquote/auto/">Auto</a></li>
+																					<li><a class="indent" href="/getaquote/motorcycle/">Motorcycle</a></li>
+																					<li><a class="indent" href="/getaquote/atv/">ATV</a></li>
+																					<li><a class="indent" href="/getaquote/rv/">RV</a></li>
+																					<li><a class="indent" href="/getaquote/boat/">Boat / PWC</a></li>
+																					<li><a class="indent spacer" href="/getaquote/commercial/">Commercial Auto</a></li>
+																																								<li><span>Property Insurance</span></li>
+																															<li><a class="indent" href="/getaquote/homeowners/">Homeowners</a></li>
+																					<li><a class="indent" href="/getaquote/renters/">Renters</a></li>
+																					<li><a class="indent" href="/getaquote/condo/">Condo / Co-op</a></li>
+																					<li><a class="indent" href="/getaquote/mobilehome/">Mobile Home</a></li>
+																					<li><a class="indent spacer" href="/getaquote/flood/">Flood</a></li>
+																																								<li><span>Other</span></li>
+																															<li><a class="indent" href="/getaquote/umbrella/">Umbrella</a></li>
+																					<li><a class="indent" href="/getaquote/life/">Life</a></li>
+																					<li><a class="indent" href="/getaquote/overseas/">Overseas</a></li>
+																					<li><a class="indent" href="/getaquote/id-theft/">Identity Theft Protection</a></li>
+																											</ul>
+							</li>
 									
-						<li id="submenu2"><a href="/manageyourpolicy/">Manage Your Policy</a>
-														<ul>
-																<li><a href="/manageyourpolicy/make-a-payment/">Make a Payment</a></li>
-																<li><a href="/manageyourpolicy/auto/">Auto Policy</a></li>
-																<li><a href="/manageyourpolicy/motorcycle/">Motorcycle Policy</a></li>
-																<li><a href="/manageyourpolicy/atv/">ATV Policy</a></li>
-																<li><a href="/manageyourpolicy/umbrella/">Umbrella Policy</a></li>
-																<li><a href="/manageyourpolicy/homeowners/">Homeowners Policy</a></li>
-																<li><a href="/manageyourpolicy/renters/">Renters Policy</a></li>
-																<li><a href="/manageyourpolicy/condo/">Condo / Co-op Policy</a></li>
-																<li><a href="/manageyourpolicy/rv/">RV Policy</a></li>
-																<li><a href="/manageyourpolicy/life/">Life Policy</a></li>
-																<li><a href="/manageyourpolicy/boat/">Boat or PWC Policy</a></li>
-																<li><a href="/manageyourpolicy/flood/">Flood Policy</a></li>
-																<li><a href="/manageyourpolicy/mobilehome/">Mobile Home Policy</a></li>
-																<li><a href="/manageyourpolicy/overseas/">Overseas Policy</a></li>
-																<li><a href="/manageyourpolicy/commercial/">Commercial Policy </a></li>
-															</ul>
-						</li>
+							<li id="submenu2">
+								<a href="/manageyourpolicy/">Manage Your Policy</a>
+																<ul>
+																														<li><a href="/manageyourpolicy/make-a-payment/">Make a Payment</a></li>
+																																																		<li><span>Vehicle Insurance</span></li>
+																															<li><a class="indent" href="/manageyourpolicy/auto/">Auto</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/motorcycle/">Motorcycle</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/atv/">ATV</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/rv/">RV</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/boat/">Boat / PWC</a></li>
+																					<li><a class="indent spacer" href="/manageyourpolicy/commercial/">Commercial Auto</a></li>
+																																								<li><span>Property Insurance</span></li>
+																															<li><a class="indent" href="/manageyourpolicy/homeowners/">Homeowners</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/renters/">Renters</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/condo/">Condo / Co-op</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/mobilehome/">Mobile Home</a></li>
+																					<li><a class="indent spacer" href="/manageyourpolicy/flood/">Flood</a></li>
+																																								<li><span>Other</span></li>
+																															<li><a class="indent" href="/manageyourpolicy/umbrella/">Umbrella</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/life/">Life</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/overseas/">Overseas</a></li>
+																					<li><a class="indent" href="/manageyourpolicy/id-theft/">Identity Theft Protection</a></li>
+																											</ul>
+							</li>
 									
-						<li id="submenu3"><a href="/claims/">Claims Center</a>
-														<ul>
-																<li><a href="/claims/report/">Report a Claim</a></li>
-																<li><a href="/claims/track/">Track a Claim</a></li>
-																<li><a href="/about/find-an-office/?preselect=Claims">Find Repair Locations</a></li>
-																<li><a href="/about/find-an-office/?preselect=Inspection">Find Inspection Locations</a></li>
-																<li><a href="/claims/claimsprocess/">About the Claims Process</a></li>
-															</ul>
-						</li>
+							<li id="submenu3">
+								<a href="/claims/">Claims Center</a>
+																<ul>
+																														<li><a href="/claims/report/">Report a Claim</a></li>
+																																																		<li><a href="/claims/track/">Track a Claim</a></li>
+																																																		<li><a href="/about/find-an-office/?preselect=Claims">Find Repair Locations</a></li>
+																																																		<li><a href="/about/find-an-office/?preselect=Inspection">Find Inspection Locations</a></li>
+																																																		<li><a href="/claims/claimsprocess/">About the Claims Process</a></li>
+																																																		<li><a href="/claims/catastrophe-center/">Catastrophe Center</a></li>
+																																					</ul>
+							</li>
 									
-						<li id="submenu4"><a href="/information/">Information Center</a>
-														<ul>
-																<li><a href="/information/aboutinsurance/">About Insurance</a></li>
-																<li><a href="/information/insurance-terms/">Insurance Terms</a></li>
-																<li><a href="/information/discounts/">Discounts</a></li>
-																<li><a href="/information/paymentoptions/">Payment Options</a></li>
-																<li><a href="/information/autosafety/">Auto Safety</a></li>
-																<li><a href="/information/motorcyclesafety/">Motorcycle Safety</a></li>
-																<li><a href="/information/tools-calculators/">Tools and Calculators</a></li>
-																<li><a href="/information/geicoprograms/">GEICO Programs</a></li>
-																<li><a href="/information/publications/">Publications</a></li>
-																<li><a href="/information/states/">State Information</a></li>
-															</ul>
-						</li>
+							<li id="submenu4">
+								<a href="/information/">Information Center</a>
+																<ul>
+																														<li><span>Product Information</span></li>
+																															<li><a class="indent" href="/information/aboutinsurance/">About Our Products</a></li>
+																					<li><a class="indent" href="/information/discounts/">Discounts</a></li>
+																					<li><a class="indent" href="/information/paymentoptions/">Payment Options</a></li>
+																					<li><a class="indent spacer" href="/information/states/">State Specifics</a></li>
+																																								<li><span>GEICO Programs</span></li>
+																															<li><a class="indent" href="/information/military/">Military Personnel</a></li>
+																					<li><a class="indent spacer" href="/information/federal/">Federal Employees</a></li>
+																																								<li><span>Resources</span></li>
+																															<li><a class="indent" href="/information/insurance-terms/">Insurance Terms</a></li>
+																					<li><a class="indent" href="/information/safety/">Safety Information</a></li>
+																					<li><a class="indent" href="/information/car-buying/">Car Buying &amp; Financing</a></li>
+																					<li><a class="indent" href="/information/publications/">GEICO Publications</a></li>
+																											</ul>
+							</li>
 									
-						<li id="submenu5"><a href="/about/">About GEICO</a>
-														<ul>
-																<li><a href="http://careers.geico.com/">Careers</a></li>
-																<li><a href="/about/b2b-services/">B2B Services</a></li>
-																<li><a href="/about/find-an-office/">Find an Office</a></li>
-																<li><a href="/about/affiliates/">Affiliates</a></li>
-																<li><a href="/about/sponsoredmarketing/">Sponsored Marketing</a></li>
-																<li><a href="/about/corporate/">Corporate Info</a></li>
-																<li><a href="/about/in-the-community/">In the Community</a></li>
-																<li><a href="/about/commercials/">Commercials</a></li>
-																<li><a href="/about/pressreleases/">Press Releases</a></li>
-																<li><a href="http://geicostore.summitmg.com/geicostore7/">GEICO Store</a></li>
-															</ul>
-						</li>
+							<li id="submenu5">
+								<a href="/about/">About GEICO</a>
+																<ul>
+																														<li><a href="http://careers.geico.com/">Careers</a></li>
+																																																		<li><span>Locations</span></li>
+																															<li><a class="indent" href="/about/find-an-office/?preselect=Claims">Repair Locations</a></li>
+																					<li><a class="indent" href="/about/find-an-office/?preselect=Inspection">Inspection Locations</a></li>
+																					<li><a class="indent spacer" href="/about/find-an-office/?preselect=Sales">GEICO Offices</a></li>
+																																								<li><span>Partner with GEICO</span></li>
+																															<li><a class="indent" href="/about/b2b-services/">B2B Services</a></li>
+																					<li><a class="indent" href="/about/affiliates/">GEICO Affiliate Program</a></li>
+																					<li><a class="indent spacer" href="/about/sponsoredmarketing/">Sponsored Marketing</a></li>
+																																								<li><span>About Our Company</span></li>
+																															<li><a class="indent" href="/about/corporate/">Corporate Information</a></li>
+																					<li><a class="indent" href="/about/in-the-community/">In the Community</a></li>
+																					<li><a class="indent spacer" href="/about/pressreleases/">Press Releases</a></li>
+																																								<li><span>Marketing</span></li>
+																															<li><a class="indent" href="/about/commercials/">Commercials</a></li>
+																					<li><a class="indent" href="/about/geicosites/">GEICO Websites</a></li>
+																					<li><a class="indent" href="http://geicostore.summitmg.com/geicostore7/">GEICO Merchandise</a></li>
+																											</ul>
+							</li>
 											</ul>
 				</div>
 			</div>
@@ -147,212 +194,54 @@
 						<p>
 															<a href="/">Home</a> <strong>&gt;</strong>															<a href="/about/">About GEICO</a>							&nbsp;
 						</p>
+						<div id="resize"><img src="/public/images/size1s.gif" alt="" id="textSize1"><img src="/public/images/size2.gif" alt="" id="textSize2"><img src="/public/images/size3.gif" alt="" id="textSize3"></div>
 					</div>
 				</div>
 			</div>			
 			<div id="blueBottom"></div>
 						
 			<div id="lower">
-	<div id="subpageHeaderBox">
-		<h1 class="subpageHeader">Privacy Policy</h1>
-	</div>
 
+			<div id="subpageHeaderBox">
+			<h1 class="subpageHeader">Privacy Policy</h1>
+		</div>
+	
 	<div id="secLeftCol">
 				
-			
-				<h2>GEICO Respects Your Privacy</h2>
+		<h2>GEICO Respects Your Privacy</h2>          <p>Protecting your privacy is very important to us. Policyholders like you have trusted us with their insurance needs for over 70 years, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.</p>          <h3>Table of Contents</h3>          <p>      <a href="#summary">Summary</a> <br>      <a href="#info_collect">The Information We Collect</a>     </p>          <ul>      <li><a href="#info_obtain">Information We Obtain From You</a></li>      <li><a href="#info_trans">Information About Your Transactions</a></li>      <li><a href="#info_third">Information From Third Parties</a></li>      <li><a href="#access_corr">Access and Correction of Personal Information</a></li>     </ul>          <p>      <a href="#info_disclose">The Information We Disclose</a> <br>      <a href="#conf_security">Confidentiality and Security</a> <br>      <a href="#add_info">Additional Information for Our Website Users</a> <br>      <a href="#change_priv_pol">Changes to This Privacy Policy</a> <br>      <a href="#priv_concerns">What to Do If You Have Privacy or Security Concerns</a>     </p>          <a id="summary"></a><h3>Summary</h3>          <p>This summary tells you the basics of our privacy commitment to you-how we collect and use your information, how we protect it, and who can see it.  You should read the entire privacy policy below for full details.</p>     <ul>      <li>We obtain personal information from you directly, from your transactions with us, and from third parties such as state motor vehicle departments.</li>      <li>We will not sell your information to third parties.</li>      <li>Any third parties who perform services for us are required to safeguard any customer information and may only use it in connection with performing those services.</li>      <li>We extensively secure and limit access to your information.</li>      <li>We protect information about potential, current, and former policyholders.</li>     </ul>          <a id="info_collect"></a>     <h3>The Information We Collect</h3>     <p>Non-public personally identifiable information ("Information") is information that identifies you and is not available to the general public.  The following sections tell you more about how and when we collect your Information.</p>          <a id="info_obtain"></a>     <h4>Information We Obtain From You </h4>     <p>During the quoting, application, or claims handling processes you may give us Information such as your:</p>          <ul>      <li>name</li>      <li>address </li>       <li>phone number</li>      <li>email address </li>      <li>Social Security number </li>      <li>driver's license number </li>      <li>date of birth</li>     </ul>          <p>If you gave us your email address, GEICO may use it from time to time to notify you of such things as new services, special offers, or to confirm transactions. If you do not wish to be contacted by email for non-policy related communications, you may select the "unsubscribe" link at the bottom of any GEICO email you receive.</p>      <p>If you are a policyholder, you can log in to your account at geico.com, click on "Update Email Preferences" on the right side of the screen and choose the level of communication you'd like to receive from us.   If you have not yet enrolled online, you will need to enroll with geico.com to update your email preferences.</p>          <a id="info_trans"></a>     <h4>Information About Your Transactions </h4>     <p>We may collect Information about your transactions and experiences with us and others, such as your payment history, claims, coverage, and vehicle changes.</p>          <a id="info_third"></a>     <h4>Information From Third Parties </h4>     <p>We may receive Information about you from consumer reporting agencies, which provide us with motor vehicle reports, claim reports, and/or credit information where permitted by law.  When you ask for a rate quotation, we may obtain credit information if permitted by applicable state law.</p>          <p>Our sales and service representatives do not have access to the details of your credit information. Other companies who view your credit report will not see the GEICO inquiry.  It will be visible only to you.  Our inquiry will not affect your credit score or credit rating.  If you commit to purchase a policy with GEICO, we will also confirm your motor vehicle record and claims history. As permitted by law, we may also review your motor vehicle record, claims history, and/or credit information in connection with any renewal.</p>          <a id="access_corr"></a>      <h4>Access and Correction of Personal Information</h4>     <p>If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to access and correct the personal information that we have collected about you.  Upon your request we will provide you with a notice of our insurance information practices that describes how those rights may be exercised.</p>          <p>Upon the request of residents of other states, we will take reasonable steps to verify the accuracy of the personal information in our records.</p>          <a id="info_disclose"></a>     <h3>The Information We Disclose</h3>     <p>Information about our customers or former customers will only be disclosed as permitted or required by law. Information about you that has been collected is maintained in your policy and/or claims records.</p>          <p>We use this Information to process and service your policy; to settle claims; with your consent; or as directed by you.  We may also disclose it to persons or organizations as necessary to perform transactions you request or authorize.  Information about our former customers and about individuals who have obtained quotes from us is safeguarded to the same extent as Information about our current policyholders.</p>          <p>Following are some examples of how we may disclose Information:</p>          <p>We must exchange Information about you with our agents, investigators, appraisers, attorneys, and other persons who are or will become involved in processing your application and servicing your policy or any claims you may make.</p>          <p>When you are involved in a claim, policy information is provided to adjusters and the businesses that will repair your vehicle.</p>          <p>We may share Information with persons or organizations that we have determined need the Information to perform a business, professional, or insurance function for us.  These include businesses that help us with administrative functions.  If the law in your state permits, we may share Information with financial institutions with which we have a joint-marketing agreement. All of these entities are obligated to keep the Information that we provide to them confidential and to use the Information only for the purpose for which the Information was provided.</p>          <p>Information may be provided to organizations conducting actuarial research or audits. In this case, you will not be individually identified in any research report.  The organization must agree not to redisclose the Information and the Information will be returned to us or destroyed when it is no longer needed.</p>          <p>We may also share your Information for other permitted purposes, including:</p>          <ul>      <li>with another insurance company if you are involved in an accident with their insured</li>      <li>with our reinsurers</li>      <li>with insurance-support organizations that detect and prevent fraud</li>      <li>with medical professionals or institutions in order to verify coverage or conduct operations or services audits</li>      <li>with state insurance departments or other governmental or law enforcement authorities if required by law or to protect our legal interests or in cases of suspected fraud or illegal activities</li>      <li>if ordered by a subpoena, search warrant or other court order</li>     </ul>      <a id="conf_security"></a>     <h3>Confidentiality and Security</h3>     <p>We restrict access to your Information to employees who we have determined need it in order to provide products or services to you.  We train our employees to safeguard customer information, and we require them to sign confidentiality and non-disclosure agreements. We maintain strict physical, electronic, and procedural safeguards to protect your Information from unauthorized access by third parties.</p>      <div class="noteText">      <p><strong>Your Security is Important</strong></p>      <p>Please see our <a href="/about/security/">Internet Security Policy</a> for further information on how we protect your information on the Internet.</p>     </div>      <a id="add_info"></a>     <h3>Additional Information for Our Website Users</h3>     <p>We continuously improve geico.com.  We are interested in how visitors use our website, what they like and dislike, and where they have problems.  We may gather data on how users navigate our site so we can make geico.com an easy place to do business.  Our tools may gather data such as what browser a person uses or even what pages are most popular.</p>          <p>We use cookies to improve your experience while using geico.com. Cookies are small files that are stored on your computer.  They do not contain any personally identifiable information about you.  They help us personalize your experience when you return to our website, and they are required for certain portions of our website.  Most browsers let you determine whether or not you accept our cookies.  If you don't use cookies, you won't be able to use certain geico.com features, such as the "remember me" function for policyholders that lets you store your User ID so you don't have to input it every time you log in from the same computer.</p>          <p>Geico.com may place small pieces of computer code (embedded objects) on our pages to help our advertising partners count how many customers they referred to our site. We may use these objects to track how many referred customers actually get a rate quotation. We may also use objects placed on other sites to monitor your exposure to our advertising or other offers online. These objects don't collect any personally identifiable information about you.</p>          <p>We also provide some links to third-party websites that are not owned by GEICO.  GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.</p>      <a id="change_priv_pol"></a>     <h3>Changes to This Privacy Policy</h3>         <p>We may modify our privacy policy from time to time.  The most recent version is always posted at geico.com.  Each of our policyholders receives a copy of our privacy policy at least once per year.  In addition, in the event that we make a significant change to our privacy practices, we will send a revised copy of our privacy policy to each of our current policyholders.</p>          <a id="priv_concerns"></a>     <h3>What to Do if You Have Privacy or Security Concerns</h3>     <p>If you have a concern about privacy or security at GEICO, we want to hear about it by mail or email.</p>          <p>Please write to us at:</p>          <p>Privacy Administration<br>     GEICO<br>     One GEICO Plaza <br>     Washington, DC 20076</p>          <p>or email us at <strong><a href="mailto:privacypolicy@geico.com">privacypolicy@geico.com</a></strong>.</p>          <p>This Privacy Policy applies to all of the following GEICO companies:</p>          <ul>      <li>Government Employees Insurance Company</li>      <li>GEICO General Insurance Company</li>      <li>GEICO Indemnity Company</li>      <li>GEICO Casualty Company</li>      <li>Insurance Counselors, Inc. </li>      <li>Special Services Insurance Agency</li>      <li>GEICO Insurance Agency</li>     </ul>        <p>The Effective Date of the revised Privacy Policy is January 16, 2008.</p>		
 				
-				<p>Protecting your privacy is very important to us. Policyholders like you have trusted us with their insurance needs for over 70 years, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.</p>
-				
-				<h3>Table of Contents</h3>
-				
-				<p>
-					<a href="#summary">Summary</a> <br>
-					<a href="#info_collect">The Information We Collect</a>
-				</p>
-				
-				<ul>
-					<li><a href="#info_obtain">Information We Obtain From You</a></li>
-					<li><a href="#info_trans">Information About Your Transactions</a></li>
-					<li><a href="#info_third">Information From Third Parties</a></li>
-					<li><a href="#access_corr">Access and Correction of Personal Information</a></li>
-				</ul>
-				
-				<p>
-					<a href="#info_disclose">The Information We Disclose</a> <br>
-					<a href="#conf_security">Confidentiality and Security</a> <br>
-					<a href="#add_info">Additional Information for Our Website Users</a> <br>
-					<a href="#change_priv_pol">Changes to This Privacy Policy</a> <br>
-					<a href="#priv_concerns">What to Do If You Have Privacy or Security Concerns</a>
-				</p>
-				
-				<a id="summary"></a><h3>Summary</h3>
-				
-				<p>This summary tells you the basics of our privacy commitment to you-how we collect and use your information, how we protect it, and who can see it.  You should read the entire privacy policy below for full details.</p>
-				<ul>
-					<li>We obtain personal information from you directly, from your transactions with us, and from third parties such as state motor vehicle departments.</li>
-					<li>We will not sell your information to third parties.</li>
-					<li>Any third parties who perform services for us are required to safeguard any customer information and may only use it in connection with performing those services.</li>
-					<li>We extensively secure and limit access to your information.</li>
-					<li>We protect information about potential, current, and former policyholders.</li>
-				</ul>
-				
-				<a id="info_collect"></a>
-				<h3>The Information We Collect</h3>
-				<p>Non-public personally identifiable information ("Information") is information that identifies you and is not available to the general public.  The following sections tell you more about how and when we collect your Information.</p>
-				
-				<a id="info_obtain"></a>
-				<h4>Information We Obtain From You </h4>
-				<p>During the quoting, application, or claims handling processes you may give us Information such as your:</p>
-				
-				<ul>
-					<li>name</li>
-					<li>address </li>	
-					<li>phone number</li>
-					<li>email address </li>
-					<li>Social Security number </li>
-					<li>driver's license number </li>
-					<li>date of birth</li>
-				</ul>
-				
-				<p>If you gave us your email address, GEICO may use it from time to time to notify you of such things as new services, special offers, or to confirm transactions. If you do not wish to be contacted by email for non-policy related communications, you may select the "unsubscribe" link at the bottom of any GEICO email you receive.</p>
-
-				<p>If you are a policyholder, you can log in to your account at geico.com, click on "Update Email Preferences" on the right side of the screen and choose the level of communication you'd like to receive from us.   If you have not yet enrolled online, you will need to enroll with geico.com to update your email preferences.</p>
-				
-				<a id="info_trans"></a>
-				<h4>Information About Your Transactions </h4>
-				<p>We may collect Information about your transactions and experiences with us and others, such as your payment history, claims, coverage, and vehicle changes.</p>
-				
-				<a id="info_third"></a>
-				<h4>Information From Third Parties </h4>
-				<p>We may receive Information about you from consumer reporting agencies, which provide us with motor vehicle reports, claim reports, and/or credit information where permitted by law.  When you ask for a rate quotation, we may obtain credit information if permitted by applicable state law.</p>
-				
-				<p>Our sales and service representatives do not have access to the details of your credit information. Other companies who view your credit report will not see the GEICO inquiry.  It will be visible only to you.  Our inquiry will not affect your credit score or credit rating.  If you commit to purchase a policy with GEICO, we will also confirm your motor vehicle record and claims history. As permitted by law, we may also review your motor vehicle record, claims history, and/or credit information in connection with any renewal.</p>
-				
-				<a id="access_corr"></a>	
-				<h4>Access and Correction of Personal Information</h4>
-				<p>If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to access and correct the personal information that we have collected about you.  Upon your request we will provide you with a notice of our insurance information practices that describes how those rights may be exercised.</p>
-				
-				<p>Upon the request of residents of other states, we will take reasonable steps to verify the accuracy of the personal information in our records.</p>
-				
-				<a id="info_disclose"></a>
-				<h3>The Information We Disclose</h3>
-				<p>Information about our customers or former customers will only be disclosed as permitted or required by law. Information about you that has been collected is maintained in your policy and/or claims records.</p>
-				
-				<p>We use this Information to process and service your policy; to settle claims; with your consent; or as directed by you.  We may also disclose it to persons or organizations as necessary to perform transactions you request or authorize.  Information about our former customers and about individuals who have obtained quotes from us is safeguarded to the same extent as Information about our current policyholders.</p>
-				
-				<p>Following are some examples of how we may disclose Information:</p>
-				
-				<p>We must exchange Information about you with our agents, investigators, appraisers, attorneys, and other persons who are or will become involved in processing your application and servicing your policy or any claims you may make.</p>
-				
-				<p>When you are involved in a claim, policy information is provided to adjusters and the businesses that will repair your vehicle.</p>
-				
-				<p>We may share Information with persons or organizations that we have determined need the Information to perform a business, professional, or insurance function for us.  These include businesses that help us with administrative functions.  If the law in your state permits, we may share Information with financial institutions with which we have a joint-marketing agreement. All of these entities are obligated to keep the Information that we provide to them confidential and to use the Information only for the purpose for which the Information was provided.</p>
-				
-				<p>Information may be provided to organizations conducting actuarial research or audits. In this case, you will not be individually identified in any research report.  The organization must agree not to redisclose the Information and the Information will be returned to us or destroyed when it is no longer needed.</p>
-				
-				<p>We may also share your Information for other permitted purposes, including:</p>
-				
-				<ul>
-					<li>with another insurance company if you are involved in an accident with their insured</li>
-					<li>with our reinsurers</li>
-					<li>with insurance-support organizations that detect and prevent fraud</li>
-					<li>with medical professionals or institutions in order to verify coverage or conduct operations or services audits</li>
-					<li>with state insurance departments or other governmental or law enforcement authorities if required by law or to protect our legal interests or in cases of suspected fraud or illegal activities</li>
-					<li>if ordered by a subpoena, search warrant or other court order</li>
-				</ul>
-
-				<a id="conf_security"></a>
-				<h3>Confidentiality and Security</h3>
-				<p>We restrict access to your Information to employees who we have determined need it in order to provide products or services to you.  We train our employees to safeguard customer information, and we require them to sign confidentiality and non-disclosure agreements. We maintain strict physical, electronic, and procedural safeguards to protect your Information from unauthorized access by third parties.</p>
-
-				<div class="noteText">
-					<p><strong>Your Security is Important</strong></p>
-					<p>Please see our <a href="/about/security/">Internet Security Policy</a> for further information on how we protect your information on the Internet.</p>
-				</div>
-
-				<a id="add_info"></a>
-				<h3>Additional Information for Our Website Users</h3>
-				<p>We continuously improve geico.com.  We are interested in how visitors use our website, what they like and dislike, and where they have problems.  We may gather data on how users navigate our site so we can make geico.com an easy place to do business.  Our tools may gather data such as what browser a person uses or even what pages are most popular.</p>
-				
-				<p>We use cookies to improve your experience while using geico.com. Cookies are small files that are stored on your computer.  They do not contain any personally identifiable information about you.  They help us personalize your experience when you return to our website, and they are required for certain portions of our website.  Most browsers let you determine whether or not you accept our cookies.  If you don't use cookies, you won't be able to use certain geico.com features, such as the "remember me" function for policyholders that lets you store your User ID so you don't have to input it every time you log in from the same computer.</p>
-				
-				<p>Geico.com may place small pieces of computer code (embedded objects) on our pages to help our advertising partners count how many customers they referred to our site. We may use these objects to track how many referred customers actually get a rate quotation. We may also use objects placed on other sites to monitor your exposure to our advertising or other offers online. These objects don't collect any personally identifiable information about you.</p>
-				
-				<p>We also provide some links to third-party websites that are not owned by GEICO.  GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.</p>
-
-				<a id="change_priv_pol"></a>
-				<h3>Changes to This Privacy Policy</h3>				
-				<p>We may modify our privacy policy from time to time.  The most recent version is always posted at geico.com.  Each of our policyholders receives a copy of our privacy policy at least once per year.  In addition, in the event that we make a significant change to our privacy practices, we will send a revised copy of our privacy policy to each of our current policyholders.</p>
-				
-				<a id="priv_concerns"></a>
-				<h3>What to Do if You Have Privacy or Security Concerns</h3>
-				<p>If you have a concern about privacy or security at GEICO, we want to hear about it by mail or email.</p>
-				
-				<p>Please write to us at:</p>
-				
-				<p>Privacy Administration<br>
-				GEICO<br>
-				One GEICO Plaza <br>
-				Washington, DC 20076</p>
-				
-				<p>or email us at <strong><a href="mailto:privacypolicy@geico.com">privacypolicy@geico.com</a></strong>.</p>
-				
-				<p>This Privacy Policy applies to all of the following GEICO companies:</p>
-				
-				<ul>
-					<li>Government Employees Insurance Company</li>
-					<li>GEICO General Insurance Company</li>
-					<li>GEICO Indemnity Company</li>
-					<li>GEICO Casualty Company</li>
-					<li>Insurance Counselors, Inc. </li>
-					<li>Special Services Insurance Agency</li>
-					<li>GEICO Insurance Agency</li>
-				</ul>
-		
-				<p>The Effective Date of the revised Privacy Policy is January 16, 2008.</p>
-			
-			</div>
+	</div>
 	
-	 
 	<div id="secRightCol">
-		<div class="marginGreenBox" id="contactUs">
+				
+					<div class="marginGreenBox" id="contactUs">
 	<div class="marginBoxTop">
 		<img src="/public/images/contact_us_top.gif" alt="" class="marginBoxImg">
 	</div>
 	
 	<h2>Contact Us</h2>
-	
-		
-		<p class="contactOption email"><a href="/about/contactus/email/">By email</a><br>Send us a message</p>
-		<p class="contactOption phone"><a href="/about/contactus/phone/">By phone</a><br>Find a phone number</p>
-		<p class="contactOption mail"><a href="/about/contactus/mail/">By mail</a><br>Find a GEICO address</p>
-		
-			
+	<a href="/about/contactus/email/"><img src="/public/images/email2.gif" alt="By Email" onmouseover="this.src='/public/images/email2_over.gif'" onmouseout="this.src='/public/images/email2.gif'"></a>
+	<a href="/about/contactus/phone/"><img src="/public/images/phone2.gif" alt="By Phone" onmouseover="this.src='/public/images/phone2_over.gif'" onmouseout="this.src='/public/images/phone2.gif'"></a>
+	<a href="/about/contactus/mail/"><img src="/public/images/mail2.gif" alt="By Mail" onmouseover="this.src='/public/images/mail2_over.gif'" onmouseout="this.src='/public/images/mail2.gif'"></a>
 	<div class="marginBoxBottom">
 		<img src="/public/images/contact_us_bottom.gif" alt="" class="marginBoxImg">
 	</div>
-</div><div class="marginBlueBox">
+</div>
+					<div class="marginBlueBox">
 	<div class="marginBoxTop">
 		<img src="/public/images/learn_more_top.gif" alt="" class="marginBoxImg">
 	</div>
 	
 	<h2>Learn More</h2>
-	
-				
-				<p><a href="/information/insurance-terms">Insurance Terms</a></p>	
-				<p><a href="/about/in-the-community/poster-contest">Safety Belt Poster Contest</a></p>	
-				
-									
+	<p><a href="/information/insurance-terms">Insurance Terms</a></p>      <p><a href="/about/in-the-community/poster-contest">Safety Belt Poster Contest</a></p>						
 	<div class="marginBoxBottom">
 		<img src="/public/images/learn_more_bottom.gif" alt="" class="marginBoxImg">
 	</div>
-</div>	</div>
-	
+</div>			</div>
 </div>			
 	
 			<div id="footer">
-				<p>© 1996-2008 GEICO | <a href="/about/b2b-services/">B2B Services</a> | <a href="/about/contactus/">Contact Us</a> | <a href="http://careers.geico.com">Careers</a> | <a onclick="window.open(this.href); return false;" href="http://geicostore.summitmg.com/geicostore7/">GEICO Store</a> | <a href="/about/commercials/">Commercials</a></p>
+				<p>© 1996-2008 GEICO | <a href="/about/b2b-services/">B2B Services</a> | <a href="/associates/">Associates</a> | <a href="/about/contactus/">Contact Us</a> | <a href="http://careers.geico.com">Careers</a> | <a onclick="window.open(this.href); return false;" href="http://geicostore.summitmg.com/geicostore7/">GEICO Store</a> | <a href="/about/commercials/">Commercials</a></p>
 				<p><a href="/about/privacy/">Privacy Policy</a> | <a href="/about/terms-of-use/">Terms of Use</a> | <a href="/about/security">Security Policy</a> | <a href="/about/states-of-operation/">States of Operation</a></p>
 				<a href="#" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GEICO.COM&amp;lang=en', 'verisignWin', 'width=550,height=450,toolbar=yes,scrollbars=yes,location=1')"><img src="/public/images/verisign.gif" alt="Verisign Secured"></a>
 			</div>
