@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227021124id_/http%3A//www.ambercoastcasino.com/en/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2008-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081103010452id_/http%3A//www.ambercoastcasino.com/en/security-privacy.php) for the most accurate reproduction.*
 
-# Amber
+# Amber Coast Casino - Online Casino for Real
 
 |  |  |   
-[Home](https://web.archive.org/web/20080227021124id_/http%3A//www.ambercoastcasino.com/en/index.php)  
+[Home](https://web.archive.org/web/20081103010452id_/http%3A//www.ambercoastcasino.com/en/index.php)  
   
 [Download](http://banner.ambercoastcasino.com/cgi-bin/SetupCasino.exe?opt_lang=en)  
   
