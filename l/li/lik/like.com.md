@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410205900id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2008-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081103033530id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
 
-# 
+# Like.com - Shop visually for shoes, handbags and more
 
 *Effective November 8, 2006
 
 **Our Commitment to Privacy** Your privacy is important to us. To better protect your privacy we (Riya, Inc.) provide this notice explaining our online information practices associated with our web site, Like.com (the "Web Site"), and the choices you can make about the way your information is collected and used. 
 
-This Privacy Policy is considered to be a part of Like.com's [ User Agreement](http://www.like.com/terms.py). By using the Web Site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the Web Site, you are also consenting to our privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
+This Privacy Policy is considered to be a part of Like.com's [ User Agreement](https://web.archive.org/terms.py). By using the Web Site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the Web Site, you are also consenting to our privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
 
 **Minor's Privacy**   
 The Sites are not targeted towards, or intended for use by anyone under the age of 18. By using Like.com you represent and warrant that you are 18 years of age or older, or are using the site under supervision of a parent or guardian. We reserve the right to terminate your membership in the event that we become aware you are under 18 and without appropriate supervision. Persons under 18 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered such information, we will take the appropriate steps to delete it.
