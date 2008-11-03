@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheadsensethemes.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602111241id_/http%3A//www.nicheadsensethemes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheadsensethemes.com privacy policy that was archived on 2008-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081103082846id_/http%3A//www.nicheadsensethemes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
