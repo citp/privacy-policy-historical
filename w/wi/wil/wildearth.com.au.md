@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504174312id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104200555id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
-# Camping Gear, Hiking Tents, Boots, Swags, Packs & Australian Hats!
+# Wildearth - Camping Equipment, camping gear, hiking gear and hiking equipment specialists
 
 **1\. Privacy is important.**  
 We recognize that privacy of personal information is important to individuals. Any personal information you provide to us will be used for business purposes only. Except where otherwise legally appropriate, we will treat your personal information as private.   
@@ -27,38 +27,45 @@ Our website contains links to third party or external sites which are not relate
 ### Frequently Asked Questions 
 
 **How secure is my transaction?  
-**The Wild Earth online store supplies you with a secure session within our shopping 'checkout' process. All credit card numbers are encrypted when the order is placed using 128 bit SSL encryption. You can see at which point the shopping cart encrypts your information by the little yellow padlock that appears in the lower right corner of your browser. Your credit card numbers, personal information and order information are only decrypted after they reach our order processing computers. This information is not held in clear text on any website or server. You will notice a padlock icon on the base of your browser when you enter through to the 'checkout'. This indicates that all information entered in the session is secure.
+**Our online store supplies you with a secure session within our shopping 'checkout' process. All credit card numbers are encrypted when the order is placed using 128 bit SSL encryption and we do not have access to these details. You can see at which point the shopping cart encrypts your information by the little yellow padlock that appears in the lower right corner of your browser. Your credit card numbers, personal information and order information are only decrypted after they reach our order processing computers. This information is not held in clear text on any website or server. You will notice a padlock icon on the base of your browser when you enter through to the 'checkout'. This indicates that all information entered in the session is secure. 
 
 **How safe are my credit card details?**  
-We do not transfer your details to any third party for their commercial use. Our online system automatically encrypts all your details using the latest SSL encryption standard. Once your order has been processed, your credit card details are removed. 
+We do not view your credit card details at any time. When making payment in our checkout your credit card payment is automatically processed via Commonwealth Banks secure payment gateway processor. We do not have access to your credit card details at any stage. Commonwealth Banks uses state of the art official Bank Secure Socket Layer (SSL) encryption standard and deposits our payment into our bank account without viewing your card details. 
 
 **  
 What credit cards can I use on your site?**   
-The following cards can be used at Wild Earth: Visa, MasterCard, Bankcard.
+The following cards can be used at Wild Earth: Visa, MasterCard and AMEX users can pay via the Paypal card processor. 
 
   
 **Do I need to be a member to shop/order online?**  
-You don't need to be a member to shop online on our website. Once you order at Wild Earth, if you elect to join our mailing list, you will be able to receive up-to-date information with the latest additions and specials that we offer, as well as other benefits including, a quick checkout process, promotions and special discounts.
+You don't need to be a member to shop online on our website. Once you order with us, if you elect to join our mailing list, you will be able to receive up-to-date information with the latest additions and specials that we offer, as well as other benefits including, a quick checkout process, promotions and special discounts. 
 
   
 **Do I need a credit card?**  
-No, if your prefer to order using a bank cheque or Money Order, simply contact us to organize alternative payment. We will contact you via email or telephone to organize the completion of your order.
+No. The following options are available: 
+
+  * We accept payment by EFT direct deposit, money order and Bank cheque. 
+  * Money orders are to be made payable in AUSTRALIAN DOLLARS ONLY. 
+  * A $15 AUD fee applies for processing international money orders only. 
+  * We also accept PAYPAL payments. American Express users can pay via Paypal. 
+  * You can email us or phone us with your order (include the size and style of the items), your full delivery address and your preferred method of postage: Air Mail, Sea Mail, Local Regular Post or express post Australia. 
+
+
 
   
 **Australian GST?**  
-All prices in our online store do not include GST. 10% GST is payable on Australian orders only.
+All prices in our online store do not include GST. 10% GST is payable on Australian orders only. 
 
   
 **Do you convert my total into other currencies?**  
-No. We will bill your credit card in Australian dollars and your card company will convert the charges for you.   
-Our website displays currency conversions in other currencies as a guide only. Your credit card provider will calculate the actual amount.
+No. We will bill your credit card in Australian dollars and your card company will convert the charges for you. Our website displays currency conversions in other currencies as a guide only. Your credit card provider will calculate the actual amount. 
 
   
 **We reserve the right:**
 
-  * to cancel any order, at which time, we will immediately notify this action by e-mail or phone, using the e-mail address or number/s provided. We will refund the monies paid using the original method received.
+  * To cancel any order, at which time, we will immediately notify this action by e-mail or phone, using the e-mail address or number/s provided. We will refund the monies paid using the original method received. 
   * that all orders are subject to availability of stock 
-  * to take reasonable steps to verify that the order and credit details are bona fide. 
+  * To take reasonable steps to verify that the order and credit details are bona fide. 
 
   
 
