@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050246id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104102028id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
 
 # What Is My IP Address? - Our Commitment To Privacy
 
@@ -35,4 +35,4 @@ Please be careful and responsible whenever you are online. Should you choose to 
 WhatIsMyIPAddress.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
   
-Last Updated Wednesday, July 25 2007 @ 07:14 am PDT
+Last Updated Wednesday, July 25 2007 @ 07:14 am UTC
