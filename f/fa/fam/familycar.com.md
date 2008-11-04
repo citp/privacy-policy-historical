@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416215909id_/http%3A//www.familycar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104213955id_/http%3A//familycar.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 |  | 
 
 **Privacy Policy**
@@ -46,8 +47,8 @@ If you feel that this site is not following its stated information policy, or if
 Familycar.com, a division of SmartTrac Computer Systems, Inc.  
 328 Old Town Road   
 East Setauket, NY, 11733   
-e-mail [editor@familycar.com](mailto:editor@familycar.com)  
+[Contact Us](https://web.archive.org/ASP/sendmessage.php)   
 (631) 928-2861
 
-Copyright ©  1983-2007, SmartTrac Computer Systems, Inc.  
+Copyright �  1983-2007, SmartTrac Computer Systems, Inc.  
 All Rights Reserved.
