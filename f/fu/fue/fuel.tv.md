@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615050800id_/http%3A//www.fueldev.tv/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104063618id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.*
 
-# Fuel TV
+# FUEL.TV Help Privacy
 
 ## FUEL TV, INC. PRIVACY POLICY (Effective as of January 17, 2008.)
 
