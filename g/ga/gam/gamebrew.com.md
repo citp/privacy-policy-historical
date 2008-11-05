@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebrew.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216212124id_/http%3A//www.gamebrew.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebrew.com privacy policy that was archived on 2008-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081105101231id_/http%3A//www.gamebrew.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,5 @@ This site, Gamebrew, uses the services of Yahoo, Google, MochiAds, CPM Star and 
   * To learn more about Yahoo, go to [http://privacy.yahoo.com](http://privacy.yahoo.com/)
   * To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>
   * To learn more about ValueClick, go to <http://www.valueclick.com/privacy.html>
-  * To learn more about focusIN, go to <http://www.focusin.com/privacy.htm>
 
 
