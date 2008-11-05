@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how2interactive.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603234554id_/http%3A//www.how2interactive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how2interactive.com privacy policy that was archived on 2008-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081105141707id_/http%3A//how2interactive.com/privacy.html) for the most accurate reproduction.*
 
 # How 2 Interactive | Power your Ads with Information
 
