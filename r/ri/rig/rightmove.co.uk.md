@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209001708id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2008-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081106131627id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
 
 # UK Estate agents with homes, houses & property for sale on rightmove.co.uk
 
 ## Who we are
 
-'We' are Rightmove plc, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/template/publicsite%2Caboutus%2CAboutRightmove.vm).
+'We' are Rightmove Group Limited, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/template/publicsite%2Caboutus%2CAboutRightmove.vm).
 
 ## Introduction
 
@@ -91,6 +91,16 @@ Your information will not be transferred outside of the European Economic Area.
 
 We will retain your information for a reasonable period or for as long as is required by law.
 
+## Property Details Displayed on Rightmove
+
+Rightmove's policy is that all UK properties advertised on our site by agents should comply with the letter and spirit of the Property Misdescriptions Act 1991. We believe this policy is important in protecting and promoting the quality of the service we offer to home buyers. The Act provides protection to the general public by requiring those agents and developers marketing property not to make false or misleading statements about the property. We believe an agent can only fulfil their obligations under the Act by personally visiting each property they market. We cannot warrant the accuracy of the information displayed about any properties advertised and you should always check the position with the agent concerned before relying on the contents of a property advertisement.
+
+Rightmove does not accept property listings directly from consumers. If you are the owner of a property being displayed for sale or for rent on our website this is because the agent you have chosen to use for the sale or the letting of your property has a contract with us to display the details of your property on our website and thereby place the information about your property fully in the public domain. Details held by us about a property does not comprise personal data as defined by the Data Protection Act 1998.
+
+Rightmove may use the data which we hold about properties advertised to provide professional valuation services and other data services to third parties. If your property is listed for sale or rent on Rightmove you may ask us not to use some or all of the details of your property to provide such data services. In this event please write to the Data Controller, Rightmove Group Limited, 33 Soho Square, London W1D 3QU stating your full name and address, confirmation that you are the owner of the property upon whose instructions we are entitled to act, the full postal address of your property, the date it was placed on the market for sale or rent, and the name address and telephone number of the agent you have instructed to market the property.
+
 ## Changes to the policy
 
 We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
+
+June 2008
