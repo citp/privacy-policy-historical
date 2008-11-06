@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222165031id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2008-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081106025638id_/http%3A//markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Forex Privacy Policy | FX Privacy Statement | Forex Disclosures: Market Traders Institute Inc.
 
