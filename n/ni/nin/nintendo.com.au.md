@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413151653id_/http%3A//www.nintendo.com.au/nintendo/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2008-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081106015926id_/http%3A//www.nintendo.com.au/nintendo/privacy/index.php) for the most accurate reproduction.*
 
 # nintendo.com.au - Online Privacy Policy
 
@@ -41,7 +41,7 @@ E-mail correspondence to Nintendo
 Nintendo will respond to e-mail correspondence if such correspondence includes a return e-mail address. Because an e-mail address is personal identifying information, Nintendo protects the privacy of the sender by limiting access to these e-mail messages and keeping them in a secure e-mail system. Most e-mail messages are deleted after they are responded to, however in certain cases hard copies or data from certain e-mail correspondence may be kept on file. Any such copies will also be stored in a secure location, and information from these messages will not be used for marketing purposes. In the event that Nintendo becomes legally obligated to disclose information obtained from consumers on its web site to another pursuant to legal or administrative process, Nintendo will take all reasonable steps to redact personal information from the data where possible.
 
 Removal from Nintendo's e-mail list  
-If you do not want Nintendo to send you e-mail you can unsubscribe via selecting the unsubscribe option when you receive an email from Nintendo or by unsubscribing via the unsubscribe option in the registration section. If you have opted-in and at a later date you choose to have your name removed from our e-mail database, you can do so from the [Members section](https://web.archive.org/web/20080413151653id_/http%3A//www.nintendo.com.au/nintendo/connect/index.php).
+If you do not want Nintendo to send you e-mail you can unsubscribe via selecting the unsubscribe option when you receive an email from Nintendo or by unsubscribing via the unsubscribe option in the registration section. If you have opted-in and at a later date you choose to have your name removed from our e-mail database, you can do so from the [Members section](https://web.archive.org/web/20081106015926id_/http%3A//www.nintendo.com.au/nintendo/connect/index.php).
 
 Nintendo reserves the right to unsubscribe details when an email address supplied is invalid.
 
