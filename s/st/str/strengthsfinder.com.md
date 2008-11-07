@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417164215id_/http%3A//sf2.strengthsfinder.com/content/922/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2008-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081107031840id_/http%3A//sf2.strengthsfinder.com/content/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
