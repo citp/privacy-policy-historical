@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605062033id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108112943id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
 
 # Singlesnet.com - privacy policy
+
+  |    
+
 
 In order to use the Singlesnet.com service, we require that you provide your e-mail address, zip code, age and gender. We also collect your IP address and related information from your browser, and we use cookies to remember your computer when you return to the site. If you choose to upgrade your Singlesnet.com membership for a fee, we require your name, credit card information and billing address in order to process the transaction. No other personally identifiable information is required for the site, although your personal profile may include additional information about yourself, including photographs. 
 
@@ -18,10 +21,11 @@ If you have any questions about this statement, please contact us via the contac
 
 **Privacy**   
 Singlesnet.com   
-13a Highland Circle  
+13A Highland Circle  
 Needham, MA, 02494-3031  
 USA 
 
-|  **This site has 128bit secure encryption**  
+|  |  **This site has 128bit secure encryption**  
 All credit card and billing information is transferred under 128bit SSL. This means your information is secure and private.   
----|---
+---|---  
+ 
