@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619181102id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2008-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081109042615id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IndustrySearch.com.au® Australia - Privacy Policy
 
@@ -95,15 +95,14 @@ BACK TO TOP ^  
 * * *
 
 **  
-CONTACTING INDUSTRACOM  
+CONTACT US  
  **  
 If you have any questions about privacy-related issues please contact the INDUSTRACOM Privacy Officer:
 
-  WEBSITE: [www.industracom.com](http://www.industracom.com/)   
-PHONE: +61 (02) 9925 4000  
+  PHONE: +61 (02) 9925 4000  
 FAX: +61 (02) 9925 4099  
-Address: Level 8, 97 Pacific Highway, North Sydney  
+Address: Level 1, 83 Mount Street, North Sydney  
 Postal: PO Box 1597, North Sydney, NSW 2059 Australia  
-Last updated: December 10, 2007
+Last updated: August 12, 2008
 
 BACK TO TOP ^
