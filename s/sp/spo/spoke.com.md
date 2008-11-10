@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620175146id_/http%3A//www.spoke.com/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2008-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081110135605id_/http%3A//www.spoke.com/resources/privacy.html) for the most accurate reproduction.*
 
 # Business Directory, Lead Generation, Professional Networking, Business to Business, Business List, Sales Leads, Company Research, B2B, Social Networking, Find People, Find Connections - Spoke.com
 
@@ -24,7 +24,7 @@ Spoke will not disclose registration information to third parties, including, bu
 
 Spoke Software may automatically collect and analyze information regarding the use of Spoke's services and Spoke site activity. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. This information is logged to help diagnose technical problems, administer the site, and improve the quality and types of service delivered. Spoke may also collect, track and analyze information that does not personally identify a user in aggregate form. This aggregate data will be used at Spoke's discretion and may be shared with third parties, but with no personally identifiable information attached.
 
-Registered users can use the site to host relationship information in their SpokeBook (similar to an online contact list). Relationship information sent to Spoke servers by the registered user will remain the property � as between Spoke and the registered user - of the registered user. Spoke will not review, share, distribute or reference such data except as may be required to provide the requested Spoke services, or as provided in the Spoke Software Terms of Use Agreement, or as may be required by law.
+Registered users can use the site to host relationship information in their SpokeBook (similar to an online contact list). Relationship information sent to Spoke servers by the registered user will remain the property – as between Spoke and the registered user - of the registered user. Spoke will not review, share, distribute or reference such data except as may be required to provide the requested Spoke services, or as provided in the Spoke Software Terms of Use Agreement, or as may be required by law.
 
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name, and we obtain the customer's consent prior to doing so.
 
@@ -80,7 +80,7 @@ Because Spoke is constantly gathering information from publicly available source
 
 Spoke voluntarily offers registered and unregistered individuals the opportunity to suppress their information from display in Spoke's online, public facing Directory and Spoke's members-only Service. Suppression means that information will be hidden from display on public areas of Spoke's website and/or the Service. Spoke retains some identification information in the Spoke database after receiving a suppression request (for suppression from both the Directory and the Service) for the sole purpose of maintaining an effective opt-out list to ensure that republication of this information does not occur.
 
-For convenience, registered individuals can suppress their information directly from Spoke's online Directory by [clicking here](https://web.archive.org/solutions/updateyourprofile.html)�to verify their identity. Once logged in, registered users can then set their Profile display preferences in the �My Spoke' portion of the Spoke member site. Unregistered individuals may request suppression of their information by submitting a suppression request directly to Spoke by [clicking here](http://support.spoke.com/support_request/).
+For convenience, registered individuals can suppress their information directly from Spoke's online Directory by [clicking here](https://web.archive.org/solutions/updateyourprofile.html) to verify their identity. Once logged in, registered users can then set their Profile display preferences in the ‘My Spoke' portion of the Spoke member site. Unregistered individuals may request suppression of their information by submitting a suppression request directly to Spoke by [clicking here](http://support.spoke.com/support_request/).
 
 ### EU Safe Harbor
 
