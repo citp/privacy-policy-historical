@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227013106id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111141204id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## PRIVACY POLICY 
 
 ### Declaration on Data Protection
 
@@ -88,27 +90,3 @@ H.C. Höpker
 Uhlandstrasse 12   
 64297 Darmstadt   
 E-mail: hans-christoph.hoepker (at) softwareag.com
-
-## SOA Value Assessment
-
-A unique tool that helps enterprises calculate the benefits of SOA and Business Process Management (BPM). 
-
-Specify the value of an SOA for your organization.
-
-[SOA Value Assessment](http://www.soavalueassessment.com/)
-
-## Bright Ideas
-
-Software AG's business magazine.
-
-This first edition is all about innovation and inspiration: Two fundamental drivers of today’s IT and business success.
-
-[Number one issue available now](https://web.archive.org/Corporate/Company/latestnews/Magazine/default.asp)
-
-## Your Career at Software AG 
-
-Welcome to Software AG. Talented people like you are the key to our success. 
-
-Please search our current job openings to learn more about our exciting career opportunities around the world.
-
-[Search for your new job](https://web.archive.org/Corporate/Company/jobs/jobs/default.asp)
