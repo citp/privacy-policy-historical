@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225163253id_/http%3A//www.gerberlife.com/gl/view/legal_site/priv.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111174024id_/http%3A//www.gerberlife.com/gl/view/legal_site/priv.jsp) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -20,7 +20,7 @@ We may collect nonpublic personal financial information about you from the follo
 
 ##  Use and Disclosure 
 
-We do not disclose any nonpublic personal financial information about our customers or former customers to anyone, except as permitted by law. 
+We do not disclose any nonpublic personal financial information about our customers or former customers to anyone, except as permitted by law.
 
 ## General
 
@@ -56,4 +56,4 @@ We may change, move or delete portions of, or may add to, our site from time to 
 
 IPVY-01(051)
 
-[back to top](http://www.gerberlife.com/gl/view/legal_site/priv.jsp#top)
+[back to top](https://www.gerberlife.com/gl/view/legal_site/priv.jsp#top)
