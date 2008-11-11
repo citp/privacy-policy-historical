@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413055602id_/http%3A//www.sony-europe.com/view/ShowSiteSection.action%3Fsection%3DODW%2BSS%2BALL%2BPS%26site%3Dodw_en_EU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111203708id_/http%3A//www.sony-europe.com/section/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -150,7 +150,7 @@ Top
 
 If you need further assistance or would like to make a comment, please e-mail privacy@eu.sony.com or contact us at the following address: 
 
-Sony e-Solutions Europe B.V.
+Sony Europe (Belgium) N.V.
 
 acting through its Belgian branch office at
 
@@ -162,13 +162,11 @@ B-1935 Zaventem
 
 Belgium
 
-Email privacy@eu.sony.com 
-
 Last Updated: 02/2006
 
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2006 Sony. All Rights Reserved.  
-Letzter Update: February 2006  
+© 2008 Sony. All Rights Reserved.  
+Letzter Update: July 2008  
 
