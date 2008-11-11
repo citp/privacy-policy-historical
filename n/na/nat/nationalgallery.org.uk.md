@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612184722id_/http%3A//www.nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111031338id_/http%3A//www.nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # NG London/Privacy Statement
 
@@ -8,7 +8,7 @@ We use IP addresses contained in the web server's log files to analyse trends, a
 
 **News Listserver Subscriptions**
 
-We hold lists of email addresses for visitors who subscribe to the 'National Gallery News' online. The 'National Gallery News' list of email addresses is used solely to send out email updates to subscribers. This list is not used for any other purpose than that described, nor is it shared with any company or institution other than the National Gallery.
+We hold lists of email addresses for visitors who subscribe to the 'National Gallery News' online. The 'National Gallery News' list of email addresses is used solely to send out email updates to subscribers. This list is not used for any other purpose than that described, nor is it shared with any company or institution other than the National Gallery or the National Gallery Company.
 
 **Forms**
 
@@ -26,7 +26,7 @@ If at any point we decide to use personally identifiable information in a manner
 
 We will use information in accordance with the privacy policy in place when the information was collected.
 
-[_Glossary of Terms_](https://web.archive.org/web/20080612184722id_/http%3A//www.nationalgallery.org.uk/home/glossary.htm)
+[_Glossary of Terms_](https://web.archive.org/web/20081111031338id_/http%3A//www.nationalgallery.org.uk/home/glossary.htm)
 
   
 
