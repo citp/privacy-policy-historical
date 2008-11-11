@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018201732id_/http%3A//www.lexingtonlaw.com/APC.php%3Fsid%3D%26c%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111041300id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Lexington Law
+# Privacy Policy - Lexington Law Credit Repair
+
+  
+
 
 Lexington Privacy Policy
 
@@ -23,7 +26,7 @@ We collect personal information to enroll you in our service. The information we
 
 How we collect personal information
 
-We collect information about you: (i) that you submit during the sign up process for our service, and (ii) any time we enter information from your credit report into our database. The latter is necessary to make that information available to you via Dispute Valet™. In addition, when you sign up for a new Lexington service, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
+We collect information about you: (i) that you submit during the sign up process for our service, and (ii) any time we enter information from your credit report into our database. The latter is necessary to make that information available to you via Case Valet™. In addition, when you sign up for a new Lexington service, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
 
 To save you time and make our web services even easier to use, some areas of the Lexington web site allow you to create a "Client ID" using your personal information. The system saves your information and assigns you a unique Lexington Client ID. Next time you log into the client section of our web site you can simply enter your Client ID and password — the system will automatically look up the information it needs.
 
@@ -72,3 +75,5 @@ To make sure your personal information remains confidential, we communicate thes
 
 
 Lexington's Privacy Policy is subject to change at any time. We encourage you to review the Privacy Policy regularly for any changes.
+
+***Important** : While the testimonials and other information on this website may be exciting, Lexington Law promises only to perform the steps we've agreed to in each client's case and to charge each month only for steps already completed. As with any legal work, no outcome is promised. Your results may vary.
