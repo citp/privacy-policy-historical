@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the m-w.com privacy policy that was archived on 2007-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070204105553id_/http%3A//www.m-w.com/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the m-w.com privacy policy that was archived on 2008-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081111063730id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta name="Description" content="Merriam-Webster provides a free online dictionary, thesaurus, audio pronunciations, Word of the Day, word games, and other English language resources.">
@@ -15,9 +15,46 @@
 		<script type="text/javascript" src="/js/menus.js"></script>
 		<script type="text/javascript" src="/js/word_of_the_day_box.js"></script>
 		<script type="text/javascript" src="/js/open_dictionary_box.js"></script>
-		<script type="text/javascript" src="/js/global.js"></script>		
+		<script type="text/javascript" src="/js/global.js"></script>	
+		<script type="text/javascript" src="/js/temp/accipiter.js"></script>	
+		<script type="text/javascript">
+			<!--				
+				
+				// This function initialize the page.
+				function initAccipiterPage ()
+					{	// Initialize the page as usual.
+						initPageInner();
+
+						// The page id.
+						var page_id = "info";
+
+						// Get the creative area.
+						var area = "GEN";
+
+						if ( page_id == "game" )
+							{	area	= "GAMES";
+								var loc	= document.location.href + "";
+
+								if ( loc.indexOf("_play.htm") >= 0 )
+									{	area = "GAMES2";
+									}; // if ( loc.indexOf("_play.htm") >= 0 )
+							}
+							
+						else if ( page_id == "word" )
+							{	area = "WOD";
+							}; 
+
+						// Set the area and keyword to pass along to accipiter.
+						setGlobalCreativeData(area, "");
+
+						// Load the creatives.
+						loadCreatives();
+					}; // function initAccipiterPage ()
+
+			// -->
+		</script>
 	</head>
-	<body class="page info" onload="initPageInner()">
+	<body class="page &amp;page.page_id;" onload="initAccipiterPage()">
 		<div id="page_wrapper">
 			<table border="0" cellpadding="0" cellspacing="0" id="content">
 				<tbody><tr>
@@ -26,21 +63,24 @@
 						<dl id="nav_menu" class="nav_menu">
 							<dd id="menu_home"><a href="/"><img src="/images/button.gif" alt="Return to the home page."></a><a href="/">Home</a></dd>
 							<dd id="menu_visit"><a href="#" onclick="return show_submenu('nav_menu', 'visit_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="#" onclick="return show_submenu('nav_menu', 'visit_');">Visit Our Sites</a></dd>
-							<dd id="visit_unabridged" class="submenu"><a href="http://www.merriam-websterunabridged.com/">Unabridged Dictionary</a></dd>
+							<dd id="visit_unabridged" class="submenu"><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_nav">Unabridged Dictionary</a></dd>
 							<dd id="visit_learners" class="submenu"><a href="http://www.learnersdictionary.com/">Learner's Dictionary</a></dd>
-							<dd id="visit_word_central" class="submenu"><a href="http://wordcentral.com/">Word Central for Kids</a></dd>
-							<dd id="visit_collegiate" class="submenu"><a href="http://www.merriam-webstercollegiate.com/">Collegiate Dictionary</a></dd>
+							<dd id="visit_word_central" class="submenu"><a href="http://www.wordcentral.com/">Word Central for Kids</a></dd>
+							<dd id="visit_collegiate" class="submenu"><a href="http://www.merriam-webstercollegiate.com/?refr=C_mwol_nav">Collegiate Dictionary</a></dd>
+							
 							<dd id="menu_ps"><a href="#" onclick="return show_submenu('nav_menu', 'ps_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="#" onclick="return show_submenu('nav_menu', 'ps_');">Premium Services</a></dd>
 							<dd id="ps_unabridged" class="submenu"><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_nav">Unabridged Dictionary</a></dd>
 							<dd id="ps_collegiate" class="submenu"><a href="http://www.merriam-webstercollegiate.com/?refr=C_mwol_nav">Collegiate Dictionary</a></dd>
-							<dd id="ps_britannica" class="submenu"><a href="http://www.britannica.com/?source=mwnav">Britannica</a></dd>
+							<dd id="ps_britannica" class="submenu"><a href="http://www.britannica.com">Encyclopedia Britannica</a></dd>
 							<dd id="ps_muser_licenses" class="submenu"><a href="/premium/institutions.html">Institutional Subscriptions</a></dd>
+							
 							<dd id="menu_downloads"><a href="#" onclick="return show_submenu('nav_menu', 'downloads_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/downloads/index.htm">Downloads</a></dd>
-							<dd id="downloads_toolbar" class="submenu"><a href="/downloads/toolbar/index.htm">Toolbar</a></dd>
-							<dd id="downloads_sidebar_tab" class="submenu"><a href="/downloads/sidebar/index.htm">Sidebar Tab</a></dd>
-							<dd id="downloads_lookup_button" class="submenu"><a href="/downloads/button/index.htm">Lookup Button</a></dd>
-							<dd id="downloads_search_boxes" class="submenu"><a href="/downloads/searchbox/index.htm">Search Boxes</a></dd>
-							<dd id="downloads_firefox_tools" class="submenu"><a href="/downloads/firefox/index.htm">Firefox Tools</a></dd>
+							<dd id="downloads_google_gadgets" class="submenu"><a href="/downloads/index.htm?downloads_google">Google Gadgets</a></dd>
+							<dd id="downloads_firefox_tools" class="submenu"><a href="/downloads/index.htm?downloads_firefox">Firefox Tools</a></dd>
+							<dd id="downloads_toolbar" class="submenu"><a href="/downloads/general/toolbar_ie.htm">Toolbar</a></dd>
+							<dd id="downloads_sidebar_tab" class="submenu"><a href="/downloads/general/sidebar_tab_netscape.htm">Sidebar Tab</a></dd>
+							<dd id="downloads_search_boxes" class="submenu"><a href="/downloads/general/search_box.htm">Search Boxes</a></dd>
+							
 							<dd id="menu_word"><a href="#" onclick="return show_submenu('nav_menu', 'word_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/cgi-bin/mwwod.pl">Word of the Day</a></dd>
 							<dd id="word_todays_word" class="submenu"><a href="/cgi-bin/mwwod.pl">Today's Word</a></dd>
 							<dd id="word_archive" class="submenu"><a href="/cgi-bin/wodcalendar.pl">Archive</a></dd>
@@ -48,34 +88,39 @@
 							<dd id="word_help" class="submenu"><a href="/word/subhelp.htm">Subscriber Help</a></dd>
 							<dd id="word_rss_feed" class="submenu"><a href="/word/index.xml">RSS Feed</a></dd>
 							<dd id="word_pod_cast" class="submenu"><a href="/word/index.xml"><img src="/images/feedpodcast.gif" alt="RSS Feed"></a></dd>
+							
 							<dd id="menu_game"><a href="#" onclick="return show_submenu('nav_menu', 'game_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/game/index.htm">Word Games</a></dd>
 							<dd id="game_todays_game" class="submenu"><a href="/game/index.htm">Today's Game</a></dd>
 							<dd id="game_more_games" class="submenu"><a href="/game/more.htm">More Word Games</a></dd>
-							<dd id="game_daily_crossword" class="submenu"><a href="/game/crossword.htm">Daily Crossword</a></dd>
+							<dd id="game_daily_crossword" class="submenu"><a href="/game/crossword.htm">Daily Crosswords</a></dd>
+							
 							<dd id="menu_open_dict"><a href="#" onclick="return show_submenu('nav_menu', 'open_dict');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="http://www3.merriam-webster.com/opendictionary/">Open Dictionary</a></dd>
 							<dd id="open_dict_browse_recent" class="submenu"><a href="http://www3.merriam-webster.com/opendictionary/newword_display_recent.php">Latest Entries</a></dd>
 							<dd id="open_dict_browse_alpha" class="submenu"><a href="http://www3.merriam-webster.com/opendictionary/newword_display_alpha.php">Alphabetical Browse</a></dd>
 							<dd id="open_dict_browse_cat" class="submenu"><a href="http://www3.merriam-webster.com/opendictionary/newword_display_cat.php">Browse Categories</a></dd>
 							<dd id="open_dict_submit_entry" class="submenu"><a href="http://www3.merriam-webster.com/opendictionary/guide.php">Submit an Entry</a></dd>
+							
 							<dd id="menu_spell"><a href="#" onclick="return show_submenu('nav_menu', 'spell_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/spell/index.htm">Spelling Bee Hive</a></dd>
 							<dd id="spell_headquarters" class="submenu"><a href="/spell/hivehq.htm">Hive Headquarters</a></dd>
 							<dd id="spell_champion" class="submenu"><a href="/spell/winner.htm">Spelling Champion</a></dd>
 							<dd id="spell_quiz" class="submenu"><a href="/cgi-bin/spquiz.pl">Spelling Quiz</a></dd>
 							<dd id="spell_reform" class="submenu"><a href="/info/spelling-reform.htm">Spelling Reform</a></dd>
 							<dd id="spell_prizes" class="submenu"><a href="/spell/prizes.htm">Prizes</a></dd>
-							<dd id="spell_phat" class="submenu"><a href="/spell/phat.htm">The Story of "Phat"</a></dd>
 							<dd id="spell_winning_words" class="submenu"><a href="/spell/words.htm">Winning Words</a></dd>
 							<dd id="spell_panelists" class="submenu"><a href="/spell/panelists.htm">Word Panelists</a></dd>
+							
 							<dd id="menu_wftw"><a href="#" onclick="return show_submenu('nav_menu', 'wftw_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/cgi-bin/wftw.pl">Word for the Wise</a></dd>
 							<dd id="wftw_todays_broadcast" class="submenu"><a href="/cgi-bin/wftw.pl">Today's Broadcast</a></dd>
 							<dd id="wftw_archive" class="submenu"><a href="/cgi-bin/wftw_arcindex.pl">Archive</a></dd>
 							<dd id="wftw_about" class="submenu"><a href="/wftw/about.htm">About WFTW</a></dd>
+							
 							<dd id="menu_store"><a href="#" onclick="return show_submenu('nav_menu', 'store_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/store/index.htm">Online Store</a></dd>
 							<dd id="store_books_cds" class="submenu"><a href="/store/books_and_cds.htm">Books and CD-Roms</a></dd>
 							<dd id="store_services" class="submenu"><a href="/cgi-bin/unabridged_sub.pl?refr=P_mwol_nav_store">Online Services</a></dd>
 							<dd id="store_handhelds" class="submenu"><a href="/store/handhelds.htm">Handhelds</a></dd>
 							<dd id="store_palm_pck_pc" class="submenu"><a href="/store/palm.htm">Palm and Pocket PC</a></dd>
 							<dd id="store_wireless" class="submenu"><a href="/store/wireless.htm">Wireless</a></dd>
+							
 							<dd id="menu_help"><a href="#" onclick="return show_submenu('nav_menu', 'help_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/help/index.htm">Help</a></dd>
 							<dd id="help_word_lookup" class="submenu"><a href="/help/searching.htm">Looking Up a Word</a></dd>
 							<dd id="help_faq" class="submenu"><a href="/help/faq.htm">FAQ</a></dd>
@@ -84,6 +129,7 @@
 							<dd id="help_word_games" class="submenu"><a href="/help/game/help.htm">Word Games Help</a></dd>
 							<dd id="help_toolbar" class="submenu"><a href="/help/toolbar/help.htm">Toolbar Help</a></dd>
 							<dd id="help_cdrom_support" class="submenu"><a href="/help/support.htm">CD-ROM Support</a></dd>
+							
 							<dd id="menu_info" class="expanded"><a href="#" onclick="return show_submenu('nav_menu', 'info_');"><img src="/images/button.gif" alt="Expand/collapse menu."></a><a href="/info/index.htm">About Us</a></dd>
 							<dd id="info_faq" class="submenu" style="display: block;"><a href="/info/faq.htm">Merriam-Webster FAQ</a></dd>
 							<dd id="info_press" class="submenu" style="display: block;"><a href="/info/press.htm">Press Releases</a></dd>
@@ -93,23 +139,35 @@
 							<dd id="info_privacy" class="submenu" style="display: block;"><a href="/info/privacy.htm">Privacy Policy</a></dd>
 							<dd id="info_copyright" class="submenu" style="display: block;"><a href="/info/copyright.htm">Copyright Notice</a></dd>
 						</dl>
-						<iframe id="revsci" src="/revsci.html" border="0" frameborder="0" height="44" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 					</td>
 					<td class="right_col">
 						<div class="banner_ad">
-							 <div id="google_creative_2"></div>
+							 <div id="google_creative_2">
+								<script type="text/javascript">
+									<!-- 
+										placeCreative("google_creative_2", "BANNER", "tb", "");
+									// -->
+								</script><div id="INV1" style="height: 90px; width: 728px; margin: 0 auto;"></div>
+							 </div>
 						</div>
 						<div class="hnav_bar">
-							<ul><li class="label">Also Visit</li><li><a href="http://www.merriam-websterunabridged.com/">Unabridged Dictionary</a></li><li><a href="http://www.learnersdictionary.com/">Learner's Dictionary</a></li><li><a href="http://wordcentral.com">Word Central for Kids</a></li><script type="text/javascript">
+							<ul>
+								<li class="section">Also Visit:</li>
+								<li><a href="http://unabridged.merriam-webster.com/?refr=U_mwol_top">Unabridged</a></li>
+								<script type="text/javascript">
 								if ( !isScreen800x600() )
-									{ document.write('<li><a href="http://www.merriam-webstercollegiate.com/">Collegiate Dictionary</a><li class="last"><a href="http://www.britannica.com/?source=mwtab">Encyclop&aelig;dia Britannica</a></li>');
-									}
-								else
-									{	document.write('<li class="last"><a href="http://www.merriam-webstercollegiate.com/">Collegiate Dictionary</a>');
-									}; 								
-							</script><noscript><li><a href="http://www.merriam-webstercollegiate.com/">Collegiate Dictionary</a><li class="last"><a href="http://www.britannica.com/?source=mwtab">Encyclop&aelig;dia Britannica</a></li>
-							</noscript>							
-							</ul>
+									{ document.write('<li><a href="http://www.britannica.com">Encyclopedia Britannica</a></li>');
+									};
+								</script>
+								<noscript><li><a href="http://www.britannica.com">Encyclopedia Britannica</a></li></noscript>
+								<li class="last"><a href="http://visual.merriam-webster.com/">Visual </a></li>
+							  <li class="section">ESL:</li>
+								<li class="last"><a href="http://www.learnersdictionary.com/">Learner's <img src="/images/new2.gif" alt="Spell It!"></a></li>
+								<li class="section">for Kids:</li>
+								<li><a href="http://www.myspellit.com/">Spell It! </a></li>
+							  <li class="last"><a href="http://www.wordcentral.com">Word Central </a></li>
+						  </ul>
+							<div style="clear: both;"></div>
 						</div>
 						<div class="search_bar">
 							<form id="search_form" action="/dictionary" method="get" onsubmit="return lookup('search_form');">
@@ -117,6 +175,7 @@
 									<input id="source_dict" name="book" type="radio" value="dictionary" checked="checked"><label for="source_dict">Dictionary</label>
 									<input id="source_thes" name="book" type="radio" value="thesaurus"><label for="source_thes">Thesaurus</label>
 									<input id="source_spanish" name="book" type="radio" value="spanish_english"><label for="source_spanish">Spanish/English</label>
+									<input id="source_medical" name="book" type="radio" value="medical"><label for="source_spanish">Medical</label>
 									<input id="search_box_terms" name="va" type="text" class="text_field" value="" maxlength="50">
 									<input type="image" class="search_button" src="/images/search_button.gif">
 								</div>
@@ -138,8 +197,25 @@
 								</div>
 							</div>
 							<div id="main_ad">
-								<iframe id="tribal_fusion" src="/tribal_fusion.html" border="0" frameborder="0" width="300" height="250" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<script type="text/javascript">
+    <!--
+		// The adaptvAdPlayer object doesn't exist or the hasCompanionAd method is not present; therefore, 
+		// display the default ad.
+		if ( typeof(adaptvAdPlayer) == "undefined" || typeof(adaptvAdPlayer.hasCompanionAd) == "undefined" )
+			{	placeCreative("main_ad", "300x250", "rec1", "");
+			} // else if ( typeof(adaptvAdPlayer) == "undefined" || typeof(adaptvAdPlayer.hasCompanionAd) == "undefined" )
+
+		// Adaptv doesn't have a companion ad; therefore, display the default advertisement.
+		else if ( !adaptvAdPlayer.hasCompanionAd() ) 
+			{	placeCreative("main_ad", "300x250", "rec1", "");
+			}; // if ( !adaptvAdPlayer.hasCompanionAd() ) 
+    // -->
+</script><div id="INV2" style="height: 250px; width: 300px; margin: 0 auto;"></div>
 							</div>
+                            <div style="padding-top: 5px;">
+                            	<link href="/css/ebgamespromo.css" rel="stylesheet" type="text/css">
+                            	<script type="text/javascript" src="/js/gamespromo.js"></script>
+                            </div>
 						</div>
 						<div class="page_content">
 							<div><a href="/info/index.htm"><img src="/images/headers/hdr_about_us.gif"></a></div>
@@ -279,7 +355,13 @@
 				<tr>
 					<td colspan="2">
 						<div class="footer">
-							<div id="google_creative_3"></div>
+							<div id="google_creative_3">
+								<script type="text/javascript">
+									<!-- 
+										placeCreative("google_creative_3", "BANNER", "bb", "");
+									// -->
+								</script><div id="INV3" style="height: 90px; width: 728px; margin: 0 auto;"></div>
+							</div>
 							<ul>
 								<li><a href="/store/books_and_cds.htm">Products</a></li>
 								<li><a href="/cgi-bin/unabridged_sub.pl?refr=P_mwol_nav_prem">Premium Services</a></li>
@@ -288,44 +370,20 @@
 								<li><a href="/info/advertising.htm">Advertising Info</a></li>
 								<li class="last"><a href="/info/privacy.htm">Privacy Policy</a></li>
 							</ul>
-							<a href="/info/copyright.htm">© 2006-2007 Merriam-Webster, Incorporated</a>
+                            
+							<a href="/info/copyright.htm">© 
+							
+							<script type="text/javascript">
+								document.write(new Date().getFullYear());
+							</script>2020
+							
+							 Merriam-Webster, Incorporated</a>
+                             
 						</div>
 					</td>
 				</tr>
 			</tbody></table>
 		</div>
-		<!-- Load and display the second Google creative (leaderboard) -->
-		<script type="text/javascript">
-		<!--
-			google_ad_client	= 'ca-merriam-webster-leaderboard-site_js';
-			google_ad_output	= 'js';
-			google_max_num_ads	= '1'; 
-			google_safe			= 'high';
-			google_ad_unit		= "leaderboard"; // Note: A unique identifier for the leaderboard	
-			google_ad_type		= 'text_image';
-			google_ad_channel	= 'lead_dict'; // Note: Set appropriately
-			google_image_size	= '728x90';
-			google_bid			= 'cpm';
-			google_page_url		= 'http://www.m-w.com'; // Note: Remove this after testing
-		// -->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-		<!-- Load and display the third Google creative (leaderboard) -->
-		<script type="text/javascript">
-		<!--
-			google_ad_client	= 'ca-merriam-webster-leaderboard-site_js';
-			google_ad_output	= 'js';
-			google_max_num_ads	= '1'; 
-			google_safe			= 'high';
-			google_ad_unit		= "leaderboard"; // Note: A unique identifier for the leaderboard	
-			google_ad_type		= 'text_image';
-			google_ad_channel	= 'lead_dict'; // Note: Set appropriately
-			google_image_size	= '728x90';
-			google_bid			= 'cpm';
-			google_page_url		= 'http://www.m-w.com'; // Note: Remove this after testing
-		// -->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 		<!-- Google Analytics -->
 		<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
 		<script type="text/javascript">
