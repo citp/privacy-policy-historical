@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610005157id_/http%3A//www.office.com/templates/page1_other.asp%3Fdocid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111085949id_/http%3A//office.com/templates/page1_other.asp%3Fdocid%3D12) for the most accurate reproduction.*
 
 # Office.com: Collaboration Software, Virtual Office Software for Small Business
 
