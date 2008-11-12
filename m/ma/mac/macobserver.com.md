@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527105237id_/http%3A//www.macobserver.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112091817id_/http%3A//www.macobserver.com/privacy.shtml) for the most accurate reproduction.*
 
 # TMO Privacy Policy
 
