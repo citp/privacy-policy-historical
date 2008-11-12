@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515231856id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112164957id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
@@ -59,7 +59,20 @@ We do not send promotional emails unless you have requested them.
 
 
 
-### F. Safeguarding Your Information
+### F. Collection and Distribution of Information in Aggregate Formats
+
+  1. We also collect information concerning non-personal email marketing stats from our customers' campaigns (such as open-rates, click-rates, bounce-rates, and ROI), and assemble reports that you, and other customers, can use to compare your performance against others in and/or outside your and their industries. No personally identifiable information is provided with these reports. 
+  2. Likewise, we reserve the right to collect and disclose any other information relating to the use of our website to any third party provided we do not disclose information in a form that can be linked to a particular customer. 
+
+
+
+### G. Sale of Business
+
+  1. Notwithstanding any other term of this Privacy Policy, we may transfer your information in the event of the sale of substantially all of the assets of the business to a third-party or in the event of a merger, consolidation or acquisition. However, in any such event, any acquirer will be subject to the provisions of our commitments to you set forth hereunder. 
+
+
+
+### H. Safeguarding Your Information
 
   1. To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC). 
   2. MailChimp accounts require username and password to log in. When you're finished using MailChimp, please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account 
@@ -68,14 +81,14 @@ We do not send promotional emails unless you have requested them.
 
 
 
-### G. Breach of Security Policy
+### I. Breach of Security Policy
 
   1. Nobody is safe from hackers these days. MailChimp will notify you as soon as possible if a breach in security results in an unauthorized intrusion into our system which directly or materially affects you or your subscribers, and will subsequently report the corrective action taken in response to the intrusion. 
   2. It should be noted however, that when you send a campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials. We have no control over the security and privacy of your emails and subscribers after you hit the "Send" button from MailChimp. So if you're sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go. 
 
 
 
-### H. Children under 13
+### J. Children under 13
 
   1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
 
@@ -106,4 +119,4 @@ MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegro
 Atlanta, GA 30318  
 1-866-284-2541
 
-Or email us [here.](https://web.archive.org/web/20080515231856id_/http%3A//www.mailchimp.com/contact.phtml)
+Or email us [here.](https://web.archive.org/web/20081112164957id_/http%3A//www.mailchimp.com/contact.phtml)
