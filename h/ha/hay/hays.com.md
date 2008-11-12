@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511195716id_/http%3A//www.hays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113002310id_/http%3A//www.hays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Hays Specialist Recruitment: Privacy policy
+# Hays Specialist RecruitmentPrivacy policy
 
-## Search for jobs
+##  Search for jobs
 
 Permanent
 
@@ -23,6 +23,8 @@ Within
 
 
 Salary from: To:
+
+Available For Non-Nationals
 
 As this Data Protection Policy governs our processing of all personal data provided to us via the Hays.com website you are asked to please read it carefully. If you do not agree to our processing of your data in the manner outlined below, please do not submit any personal data to us. 
 
