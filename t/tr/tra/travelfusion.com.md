@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615014501id_/http%3A//www.travelfusion.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112092137id_/http%3A//www.travelfusion.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # TravelFusion
 
