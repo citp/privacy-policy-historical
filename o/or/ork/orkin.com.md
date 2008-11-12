@@ -1,6 +1,45 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041619id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112012605id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
+
+### SCHEDULE SERVICE NOW
+
+For your convenience and immediate attention, call **888-215-0059** or fill out the form below.
+
+  * First name
+  * Last name
+  * ZIP Code
+  * Pest control
+  * Free termite inspection
+  * 
+
+
+### REGIONAL PEST REPORT
+
+#### Southeast—fall season
+
+#### Current Pest threat
+
+Pest need food, water and a comfortable temperature to survive. As the temperatures fall outside they often wander inside seeking these things. 
+
+#### Stay alert
+
+  * [Argentine Ants](https://web.archive.org/ants/argentine-ant),
+  * [Carpenter Ants](https://web.archive.org/ants/carpenter-ant),
+  * [Odorous Ants](https://web.archive.org/ants/odorous-ant),
+  * [American Cockroaches](https://web.archive.org/cockroaches/american-cockroach),
+  * [Smokey Brown Cockroaches](https://web.archive.org/cockroaches/smokeybrown-cockroach),
+  * [Fleas](https://web.archive.org/other/fleas),
+  * [Spiders](https://web.archive.org/other/spiders),
+  * [Ticks](https://web.archive.org/other/ticks),
+  * [Mosquitoes](https://web.archive.org/other/mosquitoes),
+  * [Flies](https://web.archive.org/flies)
+
+
+
+#### [Get more info on local pests](https://web.archive.org/learningcenter/pest_library/pest_category/ants.aspx)
+
+## Privacy policy
 
 Orkin, Inc. understands you may have concerns about privacy while shopping on the Internet. Orkin, Inc. is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep with the spirit of this Policy. Please note that by visiting and using Orkin.com, you are accepting the practices described in this Privacy Policy.
 
