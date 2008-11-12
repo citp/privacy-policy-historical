@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the atlanticrecords.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604150153id_/http%3A//www.atlanticrecords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticrecords.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112061522id_/http%3A//www.atlanticrecords.com/privacy) for the most accurate reproduction.*
 
 # Atlantic Records :: Privacy Policy
-
-**Please wait while your video is loading.** If you still see this message after the page has finished loading, you may need to upgrade or install the Flash plugin. This site uses the Flash plugin to display videos and navigation. You can still view this site without the Flash plugin, but it just won't be the same. If you'd like to experience the full version of this site, you can [download it here](http://www.adobe.com/go/getflashplayer). 
-
-You do need to turn on Javascript to enjoy this site properly though.
-
-  
-
-
-Wayback Machine
-
-Search the history of over 411 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
-
-[](https://archive.org/web/)
-
-## Hrm.
-
-The Wayback Machine has not archived that URL.
-
-## This page is available on the web!
-
-Help make the Wayback Machine more complete!
-
-Click here to search for all archived pages under [http://www.atlanticrecords.com/resource/](https://web.archive.org/web/*/http://www.atlanticrecords.com/resource/*). 
 
 **Atlantic Records Group Online Privacy Notice**  
 Atlantic Recording Corporation (" **Company** ," " **we** ," " **us** "), a Warner Music Group company, is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through www.atlanticrecords.com (the " **Site** "). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by any of our affiliates, including without limitation, Warner Music Group, Warner Bros. Records, and Rhino Entertainment (collectively, " **Affiliated Entities** ") or by third parties. 
@@ -86,3 +63,7 @@ Please note that e-mail communications will not necessarily be secure; according
 
 
 
+
+**Please wait while your video is loading.** If you still see this message after the page has finished loading, you may need to upgrade or install the Flash plugin. This site uses the Flash plugin to display videos and navigation. You can still view this site without the Flash plugin, but it just won't be the same. If you'd like to experience the full version of this site, you can [download it here](http://www.adobe.com/go/getflashplayer). 
+
+You do need to turn on Javascript to enjoy this site properly though.
