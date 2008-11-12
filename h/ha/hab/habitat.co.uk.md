@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020154543id_/http%3A//www.habitat.co.uk/fcp/content/TermsAndConditions-Privacy_Policy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112141241id_/http%3A//www.habitat.co.uk/fcp/content/TermsAndConditions-Privacy_Policy/content) for the most accurate reproduction.*
 
 # Habitat
 
@@ -22,5 +22,3 @@ If you consent, your personal details may be disclosed to other businesses withi
 You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your personal details and /or user information, we are entitled do so. 
 
 Please check back frequently to see any updates or changes to our privacy policy. 
-
-Questions regarding this Policy should be directed to the [Customer.relations@habitat.net](mailto:Customer.relations@habitat.net)
