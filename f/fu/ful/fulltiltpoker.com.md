@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617205710id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112104306id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
-
-## Privacy
 
 **Our Commitment To Privacy**
 
@@ -22,7 +20,7 @@ Our Web Site is not set up to automatically collect personally identifiable info
 
 Our Web Site does track certain information about the visits to our Web Site. For example, we compile statistics that show the numbers and frequency of visitors to our Web Site and its individual pages. These aggregated statistics are used internally to improve our Web Site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information. For example, we request information from you when you:
 
-  1. Log-on to certain areas of our Web Site, where you are prompted to provide us with your ID number and password as a condition to gaining access to certain information, materials or services.
+  1. Log-on to certain areas of our Web Site, where you are prompted to provide us with your Login and password as a condition to gaining access to certain information, materials or services.
   2. Register or sign-up to use a service.
   3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services.
   4. Place an order.
