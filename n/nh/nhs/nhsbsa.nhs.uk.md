@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhsbsa.nhs.uk privacy policy that was archived on 2007-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071128114137id_/http%3A//www.nhsbsa.nhs.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhsbsa.nhs.uk privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112112544id_/http%3A//www.nhsbsa.nhs.uk/privacy.htm) for the most accurate reproduction.*
 
 # NHSBSA - Privacy
 
