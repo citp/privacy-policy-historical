@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013182129id_/http%3A//www.first4figures.com/content/view/10/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112223316id_/https%3A//www.first4figures.com/content/view/10/23) for the most accurate reproduction.*
 
 # First 4 Figures - PrivAcy Policy
 
