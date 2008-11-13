@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615131121id_/http%3A//www.bittorrent.com/privacy%3Fcsrc%3Dsplash) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113033354id_/http%3A//www.bittorrent.com/privacy%3Fcsrc%3Dsplash) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent
 
