@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619044148id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113044809id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Arthrex - Privacy Policy
 
