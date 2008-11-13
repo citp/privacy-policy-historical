@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606124717id_/http%3A//www.baltimoresun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113213236id_/http%3A//www.baltimoresun.com/bal-sunspot-privacy%2C0%2C4798930.htmlstory) for the most accurate reproduction.*
 
-# Privacy Policy - baltimoresun.com
+# Privacy Policy -- baltimoresun.com
 
-Last Updated: May, 2006 
+## Last Updated: May, 2006
 
 Baltimoresun.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by baltimoresun.com online and does not impact information collected or used by baltimoresun.com or its affiliates through other means. 
 
@@ -57,28 +57,3 @@ Baltimoresun.com reserves the right to change this policy at any time. Please ch
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of baltimoresun.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Baltimoresun.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
-
-  
-  
-|   | 
-
-  
-
-
-  
-
-
-[](http://www.baltimoresun.com/research)  
-Find out more about clinical trials that are currently recruiting participants.
-
-[](http://essentials.baltimoresun.com/contests/)  
-Enter to win tickets to movies, concerts, festivals, sporting events and more. 
-
-[](http://essentials.baltimoresun.com/micro_sun/events/unisun-gospel/index.html)  
-Learn more about the UniSun Gospel Celebration and other events sponsored by The Baltimore Sun.
-
-[](http://essentials.baltimoresun.com/micro_sun/special_sections/)  
-Special sections from The Baltimore Sun.
-
-[](http://www.baltimoresunstore.com/)  
-Purchase _Sun_ photos, page reprints and more.
