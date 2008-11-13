@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513102445id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113220931id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
 
-# Sporting Life - Sports News | Football Transfer News, Live Football Scores, UEFA Cup final, Racing News and Results
+# Sporting Life - Sports News | Live Football Scores, Football Transfer News, Horse Racing Results, Cricket Scores
 
   
-**Sporting Life Privacy Policy**
+**365 MEDIA GROUP NETWORK PRIVACY POLICY**
 
-Part of 365 Media Group, we at Sporting Life (Sporting Life UK Limited) strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
+We at 365 Media Group plc, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
 
 **Why We Need to Know About You**  
 We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences. 
@@ -52,6 +52,6 @@ We collect non-personal information and data through the standard operation of o
 **Links to Other Sites**  
 Our network of sites contains links to other sites outside of our group of sites. We are not responsible for the content or privacy practices or the content of such websites. 
 
-Thank you for reading our privacy policy and thank you for choosing our network of sites as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this policy, you can contact Customer Service at Sporting Life Customer Services, 365 Media Group, Apsley House, 78 Wellington Street, Leeds, LS1 2EQ, United Kingdom or e-mail us on [customerservicesteam@sportinglife.com](mailto:customerservicesteam@sportinglife.com). 
+Thank you for reading our privacy policy and thank you for choosing our network of sites as your reliable source of news and views on the Internet. If you have any questions about anything contained in this policy, you can contact our Customer Relations Team at: 365 Media Group, 3rd Floor, Apsley House, 78 Wellington Street, Leeds, LS1 2EQ, United Kingdom or e-mail us on customerrelations@365mediagroup.co.uk. 
 
-The foregoing policies are effective as of 06 November 2007. We reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+The foregoing policies are effective as of 1 May 2008. 365 Media Group plc reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
