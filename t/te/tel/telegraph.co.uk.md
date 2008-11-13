@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609005517id_/http%3A//www.telegraph.co.uk/portal/main.jhtml%3FmenuId%3D-1%26menuItemId%3D-1%26view%3DPRIVACY%26grid%3DA1NoGoogle) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113101418id_/http%3A//www.telegraph.co.uk/portal/main.jhtml%3FmenuId%3D-1%26menuItemId%3D-1%26view%3DPRIVACY%26grid%3DA1NoGoogle) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
 [](http://www.telegraph.co.uk/activityplanner)
 
-[](http://www.telegraph.co.uk/portal/main.jhtml?view=CAMPAIGN&grid=A1NoGoogle&pg=/ETHtml/content/promotions/2008/05/21/widgets/widgets.jhtml)
+[](http://www.telegraph.co.uk/widgets)
 
 |  | 
 
