@@ -1,223 +1,96 @@
-<!--The following is the downloaded HTML source of the williamhillcasino.com privacy policy that was archived on 2007-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012130048id_/http%3A//www.willhill.com/iibs/en/privacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the williamhillcasino.com privacy policy that was archived on 2008-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081113023319id_/http%3A//www.willhill.com/iibs/en/privacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<title>Privacy Policy</title>
 
+	<meta name="keywords" content="betting, online betting, william hill, live betting, casino, poker, games, bingo, bet live tv diary, BetLive, sportsbook, sports betting">
 	
-	<link rel="stylesheet" type="text/css" href="/iibs/css/mainLayout.css?v=1">
+	<meta name="description" content="Privacy Policy Betting from William Hill, one of the world's leading bookmakers">
 	
-	<link rel="stylesheet" type="text/css" href="/iibs/css/mainLayout2.css?v=1">
+	<link rel="stylesheet" type="text/css" href="/iibs/css/mainLayout.css?v=5">
+
+	<link rel="stylesheet" type="text/css" href="/iibs/css/mainLayout2.css?v=3">
 	<link rel="stylesheet" type="text/css" href="/iibs/css/leftNav.css">
-	
 	<link rel="stylesheet" type="text/css" href="/iibs/css/accounts.css">
-    <link rel="stylesheet" type="text/css" href="/iibs/css/casino.css">
+	<link rel="stylesheet" type="text/css" href="/iibs/css/casino.css">
 	<link rel="stylesheet" type="text/css" href="/iibs/css/arcade.css">
-	
+
 	<link rel="stylesheet" type="text/css" href="/banners/banners.css">
 	<link rel="stylesheet" type="text/css" media="print" href="/iibs/css/print.css">
+	
+	<script language="javascript" type="text/javascript" src="/iibs/EN/js/lang.js"></script>
 
-	
-		<meta name="keywords" content="betting, online betting, william hill, live betting, casino, poker, games, bingo, bet live tv diary, BetLive, sportsbook, sports betting">
-		<meta name="description" content="William Hill - The world's premier betting company. Bet live on sports, play casino games and poker. Try our exciting range of online games such as Bingo and Backgammon.">		
-		
-	
+	<script language="javascript" type="text/javascript" src="/banners/whBanners.js?"></script>
+	<script language="javascript" type="text/javascript" src="/iibs/lib/whTools.js?v=10"></script>
 
 </head>
 <body>
 
-
-<script type="text/javascript">
-
-function SetCookie(cookieName,cookieValue,nDays) 
-{
- var today = new Date();
- var expire = new Date();
- expire.setTime(today.getTime() + 3600000*24*nDays);
- document.cookie = cookieName + "=" + escape(cookieValue) + ";expires="+expire.toGMTString();
-}
-
-var BrowserDetect = {
-	init: function () {
-		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
-		this.version = this.searchVersion(navigator.userAgent)
-			|| this.searchVersion(navigator.appVersion)
-			|| "an unknown version";
-		this.OS = this.searchString(this.dataOS) || "an unknown OS";
-	},
-	searchString: function (data) {
-		for (var i=0;i<data.length;i++)	{
-			var dataString = data[i].string;
-			var dataProp = data[i].prop;
-			this.versionSearchString = data[i].versionSearch || data[i].identity;
-			if (dataString) {
-				if (dataString.indexOf(data[i].subString) != -1)
-					return data[i].identity;
-			}
-			else if (dataProp)
-				return data[i].identity;
-		}
-	},
-	searchVersion: function (dataString) {
-		var index = dataString.indexOf(this.versionSearchString);
-		if (index == -1) return;
-		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
-	},
-	dataBrowser: [
-		{ 	string: navigator.userAgent,
-			subString: "OmniWeb",
-			versionSearch: "OmniWeb/",
-			identity: "OmniWeb"
-		},
-		{
-			string: navigator.vendor,
-			subString: "Apple",
-			identity: "Safari"
-		},
-		{
-			prop: window.opera,
-			identity: "Opera"
-		},
-		{
-			string: navigator.vendor,
-			subString: "iCab",
-			identity: "iCab"
-		},
-		{
-			string: navigator.vendor,
-			subString: "KDE",
-			identity: "Konqueror"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "Firefox",
-			identity: "Firefox"
-		},
-		{
-			string: navigator.vendor,
-			subString: "Camino",
-			identity: "Camino"
-		},
-		{		// for newer Netscapes (6+)
-			string: navigator.userAgent,
-			subString: "Netscape",
-			identity: "Netscape"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "MSIE",
-			identity: "Explorer",
-			versionSearch: "MSIE"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "Gecko",
-			identity: "Mozilla",
-			versionSearch: "rv"
-		},
-		{ 		// for older Netscapes (4-)
-			string: navigator.userAgent,
-			subString: "Mozilla",
-			identity: "Netscape",
-			versionSearch: "Mozilla"
-		}
-	],
-	dataOS : [
-		{
-			string: navigator.platform,
-			subString: "Win",
-			identity: "Windows"
-		},
-		{
-			string: navigator.platform,
-			subString: "Mac",
-			identity: "Mac"
-		},
-		{
-			string: navigator.platform,
-			subString: "Linux",
-			identity: "Linux"
-		}
-	]
-
-};
-BrowserDetect.init();
-	
-function writeBrowserMessage(msgStatus)
-{
-	if ((((BrowserDetect.browser == "Explorer") && (BrowserDetect.version < 6)) || (BrowserDetect.browser == "Opera")) && (msgStatus == "1"))
-	{			
-		document.write('<div class="messageBlock" style="margin: 2em 0 0.8em 0; padding-top: 1.2em">');
-		document.write('<div class="messageBlockContainer">');
-		document.write('<div class="accessColA" style=" width: 77em; font-size: 1em; margin-left: 0">');
-		document.write('<p style="font-size: 1.05em; text-align:center;"><strong>Note&nbsp;&nbsp;-</strong>&nbsp;&nbsp;Your browser may not support the advanced features of the new William Hill Sportsbook.&nbsp;<a href="javascript:window.open(\'http://williamhill-lang.custhelp.com/cgi-bin/williamhill_lang.cfg/php/enduser/meta_faq.php?meta=1685\',\'RightNow\',\'width=664,height=440,scrollbars=yes\');void(0);" onClick="getUnsupportedBrowserTag(\'http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif\',\'\',\'www.willhill.com/EN/SB/RightNow/BrowserGuide\',\'EN\');">View Our Quick Browser Guide</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;');
-		document.write('( <a href="javascript:SetCookie(\'UnSupportedBrowser\',\'TRUE\',365); document.location.reload();" onClick="getUnsupportedBrowserTag(\'http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif\',\'\',\'www.willhill.com/EN/SB/BrowserDetectDoNotRemind/\',\'EN\');">Remove</a> )</p>');
-		document.write('</div>');
-		document.write('<div class="clearBoth"></div>');
-		document.write('<div id="redeye"><img src="http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif?nosubsite=EN&amp;norefer=&amp;nourl=www.willhill.com/EN/SB/BrowserDetection" height="1" width="1" /></div>');
-		document.write('</div>');
-		document.write('</div>');
-	}
-}
-
-
-	writeBrowserMessage(1);
-
-	
-</script>
 
 <div id="centralise">
 
 
 
 <div id="container-nav">
+	
   <div id="nav-left"></div>
   <!-- Spacer -->
+  
+  
+  
   <div id="nav">
     <ul>
-		<li id="selectedPage"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/SportsTab/','EN')" href="http://willhill.com/iibs/en/sportsbook.asp?source=SB">Sports</a></li>
-		<li id="tab2"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/CasinoTab/','EN')" href="http://www.williamhillcasino.com/">Casino</a></li>
-		<!--<li><a href="http://travis.willhill.com/re.asp?name=WHSD&amp;camp=SBENENGBPTAB0">Casino</a></li>-->
-		<li id="tab3"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/PokerTab/','EN')" href="http://www.williamhillpoker.com/">Poker</a></li>
-		<!--<li><a href="http://travis.willhill.com/re.asp?name=WHPD&amp;camp=SBGBPPK">Poker</a></li>-->
-		<li id="tab4"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/GamingTab/','EN')" href="http://willhill.com/iibs/en/static/games_room.asp?r_arcade=d_tab&amp;source=GM">Games</a></li>
-		<li id="tab5"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/SkillTab/','EN')" href="https://willhill.com/iibs/skillGameAccountRedirect.asp">Skill</a></li>
-		<li id="tab6"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/BingoTab/','EN')" href="http://willhill.com/iibs/en/static/bingo_notloggedin.asp?source=BN">Bingo</a></li>
+		<li id="selectedPage"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FSportsTab%2F','EN')" href="http://www.willhill.com/iibs/en/sportsbook.asp?source=SB">Sports</a></li>
+		<li id="tab2"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FCasinoTab%2F','EN')" href="http://www.williamhillcasino.com?lang=EN">Casino</a></li>
+		<li id="tab3"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FPokerTab%2F','EN')" href="http://www.williamhillpoker.com?lang=EN">Poker</a></li>
+		<li id="tab4"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FGamingTab%2F','EN')" href="http://www.willhill.com/iibs/en/static/games_room.asp?r_arcade=d_tab&amp;source=GM">Games</a></li>
+		<li id="tab5"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FVegasTab%2F','EN')" href="http://www.willhill.com/iibs/en/static/vegas_logged_out.asp?source=VA">Vegas</a></li>
+		<li id="tab6"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FSkillTab%2F','EN')" href="https://www.willhill.com/iibs/skillGameAccountRedirect.asp">Skill</a></li>
+		<li id="tab7"><a onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www%2Ewillhill%2Ecom%2FEN%2FSB%2FBingoTab%2F','EN')" href="http://www.willhill.com/iibs/en/static/bingo_notloggedin.asp?source=BN">Bingo</a></li>
     </ul>
   </div>
+  
   <div id="nav-right">
-    <span class="standardFont"><a href="#" onclick="whDialog.show('http://willhill.com/iibs/en/ajax_faq.asp');whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Header/Help/[/iibs/en/privacyPolicy.asp]','EN');return false;" id="toggleFAQ" title="Frequently Asked Questions ( opens in new window )">
+    <span class="standardFont"><a href="#" onclick="whDialog.show('http://www.willhill.com/iibs/en/ajax_faq.asp');whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www.willhill.com/EN/SB/Header/Help/[/iibs/en/privacyPolicy.asp]','EN');return false;" id="toggleFAQ" title="Frequently Asked Questions ( opens in new window )">
 	  Help</a></span>
   </div>
+  
 </div>
+  
 <div id="container-subnav">
   <div id="subnav">
     <ul>
 		
-			<li><a href="http://willhill.com/iibs/en/openAccount.asp?source=SB">Open A Betting Account</a></li>
-			<li><a href="http://willhill.com/iibs/en/lostpassword.asp?source=SB">Lost Sign In Details?</a></li>
+			<li><a href="http://www.willhill.com/iibs/en/openAccount.asp?source=SB">Open A Betting Account</a></li>
+			<li><a href="http://www.willhill.com/iibs/en/lostpassword.asp?source=SB">Lost Sign In Details?</a></li>
 		
 			<!--<li><a href="Javascript:window.open('http://redeye.willhill.com/cgi-bin/rr.cgi/http://williamhill-lang.custhelp.com/cgi-bin/williamhill_lang.cfg/php/enduser/home.php?channel=Sports&amp;nourl=www.willhill.com/RNWLink/ENsport/d_cshelp&amp;r_link_rnow=d_cshelp','RightNow','width=664,height=440,scrollbars=yes');void(0);">24 Hour Support</a></li>-->
-			<!--<li><a href="http://willhill.com/iibs/en/mobileSportsbook.asp">Mobile Services</a></li>-->
+			<!--<li><a href="http://www.willhill.com/iibs/en/mobileSportsbook.asp">Mobile Services</a></li>-->
 		</ul>
   </div>
 </div>
+
+
 <!-- William Hill Top Banner Area-->
 <div id="container-header">
-  <a href="http://willhill.com/iibs/en/sportsbook.asp"><img style="width: 25em; height: 6.8em" src="/iibs/images/logo_wh.gif" alt="William Hill - Online Bookmakers" border="0"></a>
+  
+		<a href="http://www.willhill.com/iibs/en/sportsbook.asp"><img style="width: 25em; height: 6.8em" src="/iibs/images/logo_wh.gif" alt="William Hill - Online Bookmakers" border="0"></a>
+<!--<a href="/iibs/EN/betlivetv.asp"><img src="/iibs/EN/images/tennis_ozopen.gif" style="border:none; padding: 0 0 .3em 5.2em;"/></a>
+-->
 </div>
 <!-- Account -->
 <div id="account">
 
 
-	
-		<form action="https://willhill.com/iibs/en/clientlogon.asp" method="post" name="loginValidate" id="loginValidate">
+
+		<form action="https://www.willhill.com/iibs/en/clientlogon.asp" method="post" name="loginValidate" id="loginValidate">
 		<!--<div style="float: left; width: 12.7em; padding: 0.7em 0 0 0.75em">
 		  <a href="lostpassword.asp">Lost Sign In Details?</a>
 		 </div>-->
-		
+
 		<div style="float: left; width: 20.5em; ">
 		   <label style="padding-top: 0.7em; padding-right: 0.5em; padding-left: 1em" for="txtUsername">Username</label> <input size="21" type="text" name="txtUsername" id="txtUsername" value="" style="margin-top: 0.3em; width: 9em; font-size: 1.2em" autocomplete="off">
 		</div>
@@ -231,21 +104,21 @@ function writeBrowserMessage(msgStatus)
 		   <input type="submit" value="Sign In" style="height: 1.9em; width: 12.8em; font-size: 1em; height: 1.8em">
 			
 		</div>
-		
+
 		</form>
-	
+
 	
 </div>
 
 <div class="clearBoth"></div>
-<!-- Header Ends -->	
+<!-- Header Ends -->
 
 <div id="contentMainHolder">
 
 
-	
+
 	<div id="contentMainWide">
-	
+
 
 <div class="headerMain"><h1 class="standardFont headerPad">William Hill Privacy Policy</h1></div>
 
@@ -278,7 +151,7 @@ function writeBrowserMessage(msgStatus)
 		<p>William Hill may use your username and/or first name and region for advertising or promotional purposes. </p>
 		<p>Telephone calls to and from our Customer Services Department are recorded for training and security purposes.</p>
 		<p>We may transfer Your information in the event of business sale or insolvency.</p>
-		<p>If at any time you wish us to stop processing Your Information for the above purposes, then you will be required to</p>
+		<p>If at any time you wish us to stop processing Your Information for the above purposes, then you will be required to contact us.</p>
 		<p><strong>Cookies</strong></p>
 		<p>William Hill uses <strong>cookies </strong>to obtain non-personal information from on-line visitors to provide them with the best possible personalised on-line experience. Cookies are small markers sent by our web server to your web browser and they enable us to improve the Websites and better tailor them to meet your needs. We use cookies to analyse site usage, improve our content and product offerings and to customise promotional efforts, site content and layout. You can find out more about how Internet sites use cookies on <a href="http://www.aboutcookies.org" target="_new">www.aboutcookies.org</a>. </p>
 		<p>If you wish to turn off cookies, please consult the "Help" menu on the menu bar of most browsers, which will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies and how to prevent cookies altogether. If you do disable cookies, we may be unable to optimise your visit to our site and/or you may not be eligible for certain offers / promotions. </p>
@@ -291,50 +164,56 @@ function writeBrowserMessage(msgStatus)
 		<p><strong>Contacting us</strong></p>
 	    <p>If at any time you believe that William Hill has not adhered to the principles contained within this Privacy Policy, please notify us by email at <a href="mailto:customerservices@williamhill.co.uk">customerservices@williamhill.co.uk</a> and we will use all commercially reasonable efforts to promptly determine and correct the problem.</p>
 		<p> Questions regarding this statement should be directed to <a href="mailto:customerservices@williamhill.co.uk">customerservices@williamhill.co.uk</a> or by post to:</p>
-		<p> Customer Relations Manager<br>William Hill<br>7th Floor<br>Milton House<br>60 Charter Road<br>Sheffield S13 </p>
-		<p><strong>This Privacy Policy was last updated on 15th  August 2007</strong></p>
+
+
+
+		<p>
+		Customer Services Manager<br>William Hill PLC<br>7th Floor<br>Milton House<br>Charter Row<br>Sheffield<br>S1 3FZ<br>
+		</p><p><strong>This Privacy Policy was last updated on 8th July 2008</strong></p>
 	</div>
 </div></div>
 		<div class="clearBoth"></div>
 		<!--  -->
-		
 
 		
+
 		<div id="footer_lang">
 			<div style="float: left; padding-top: 0.3em; font-size: 1.1em;">
 			<form name="langswitch" method="post" action="/iibs/lang-spec.asp?language=en">
 				
-				<ul>				
+				<ul>
 					
-						<li id="selectedLanguage"><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=EN';document.langswitch.submit()">English</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=ES';document.langswitch.submit()" class="lng">Español</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=DE';document.langswitch.submit()" class="lng">Deutsch</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=IT';document.langswitch.submit()" class="lng">Italiano</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=FR';document.langswitch.submit()" class="lng">Français</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=ZH';document.langswitch.submit()" class="lng">中文</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=EL';document.langswitch.submit()" class="lng">Ελληνικά</a> &nbsp; I &nbsp;</li>
-						<li><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=TR';document.langswitch.submit()" class="lng">Türkçe</a></li>
+						<li id="selectedLanguage"><a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=EN';document.langswitch.submit()">English</a></li>
+						<li>&nbsp; I &nbsp; <a href="
+						javascript:document.langswitch.action='/iibs/lang-spec.asp?language=ES';document.langswitch.submit()" class="lng">Español</a></li>
+						<li>&nbsp; I &nbsp; <a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=DE';document.langswitch.submit()" class="lng">Deutsch</a></li>
+						<li>&nbsp; I &nbsp;<a href="/iibs/italian_splash.htm" class="lng">Italiano</a></li>
+						<li>&nbsp; I &nbsp;<a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=FR';document.langswitch.submit()" class="lng">Français</a></li>
+						<li>&nbsp; I &nbsp; <a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=ZH';document.langswitch.submit()" class="lng">中文</a></li>
+						<li>&nbsp; I &nbsp; <a href="javascript:document.langswitch.action='/iibs/lang-spec.asp?language=EL';document.langswitch.submit()" class="lng">Ελληνικά</a></li>
 					
 				</ul>
 			</form>
-			</div>
-			<div class="footericons">
-				<a href="javascript:whHelp.load('220'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Visa','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Visa" src="/iibs/images/payment_logo_visa.gif" width="25" height="15" border="0"></a>
-				<a href="javascript:whHelp.load('220'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Mastercard','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Mastercard" src="/iibs/images/payment_logo_mastercard.gif" width="27" height="15" border="0"></a>
-				<a href="javascript:whHelp.load('234'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/VisaElectron','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Visa Electron" src="/iibs/images/payment_logo_electron.gif" width="27" height="15" border="0"></a>	
-				<a href="javascript:whHelp.load('234'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Delta','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Delta" src="/iibs/images/payment_logo_delta.gif" width="24" height="15" border="0"></a>
-				<a href="javascript:whHelp.load('234'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Maestro','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Maestro" src="/iibs/images/payment_logo_maestro.gif" width="28" height="15" border="0"></a>
-				<a href="javascript:whHelp.load('234'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Solo','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Solo" src="/iibs/images/payment_logo_solo.gif" width="15" height="15" border="0"></a>
-				<a href="javascript:whHelp.load('234'); void(0);" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/Payments/Laser','EN');" title="View Deposit &amp; Withdrawal Limits"><img class="tip" alt="Laser" src="/iibs/images/payment_logo_laser.gif" width="15" height="15" border="0"></a>
 			</div>
 			<div class="clearBoth"></div>
 		</div>
 
 	<div id="footer_legal">
-    	<div style="padding: 1.25em 0 1.75em 0;">[&nbsp; <a href="javascript:whHelp.load('1667');" onclick="javascript:whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/RightNow/Footer/ServerTime','EN');" title="William Hill UK Server Time"><span id="serverTime">14:0:45</span>&nbsp;&nbsp;UK</a> &nbsp;] &nbsp;Online Sports Betting &nbsp;/&nbsp; <a href="../en/mobileTelephone.asp" onclick="javascript:whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/TelephoneBetting','EN');">Telephone Betting</a> &nbsp;/&nbsp;  <span style="font-size: 1.1em">©</span> 1998-2007 William Hill Credit&nbsp; /&nbsp;   &nbsp;( Gettyimages / Superform )</div>
+    	<div style="padding: 1.25em 0 1.75em 0;">[&nbsp; <a href="javascript:whHelp.load('1667');" onclick="javascript:whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2FEN%2Fsportsbook%2Easp','www.willhill.com/EN/SB/RightNow/Footer/ServerTime','EN');" title="William Hill UK Server Time"><span id="serverTime">2:33:19</span>&nbsp;&nbsp;UK</a> &nbsp;] &nbsp;
+		Online Sports Betting &nbsp;/&nbsp;
+		
+		<a href="http://www.willhill.com/iibs/en/mobileTelephone.asp">Telephone Betting</a> &nbsp;/&nbsp; 
+		
+		
+		<span style="font-size: 1.1em">©</span> 1998-2008 William Hill Credit&nbsp; /&nbsp;   &nbsp;( Gettyimages / Racing Post )<br></div>
 </div>
 
-
+	<div align="center" style="padding-bottom: 10px;"> 
+		<a style="text-decoration: none;" title="View Deposit &amp; Withdrawal Limits" onclick="whRedeye.getRedEyeTag('http://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','http%3A%2F%2Fwww%2Ewillhill%2Ecom%2Fiibs%2Flang%2Dspec%2Easp%3Flanguage%3DDE','www.willhill.com//SB/Footer/Payments/','');" href="javascript:whHelp.load('913'); void(0);">
+		<img style="border: 0" alt="Payment Logos: Neteller, Visa, Mastercard, Visa Electron, Maestro, Solo, Laser" src="/iibs/images/paymentsLogo.gif">
+		</a>
+	</div>	
+	
 	<!-- print only area added here -->
 	<div class="printOnly">
 
@@ -435,21 +314,20 @@ function writeBrowserMessage(msgStatus)
 	</div>
 	</div>
 	<!--accessFooter Start-->
-	
+
 	<div id="accessFooter" class="noPrint">
 		<div id="accessFooterContainer">
 		
 		<div class="accessColA">
 		  <h2>Responsible Gambling</h2>
 		  <p>William Hill are committed to supporting&nbsp; <a href="javascript:whHelp.load('995');void(0);" onclick="whRedeye.getRedEyeTag('https://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/ResponsibleGambling','EN');"> Responsible Gambling</a> &nbsp;initiatives.</p>
+		  <p>Bet Responsibly. <a href="http://www.gambleaware.co.uk/" onclick="whRedeye.getRedEyeTag('https://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/GambleAware','EN');" target="_blank">www.gambleaware.co.uk</a></p>
 			<p style="margin-bottom: 0"> For additional information  visit :</p>
-				 
 				<ul style="list-style: none; padding: 0; margin: 0; line-height: 1.4em">
 				 <li><a href="http://www.gamcare.org.uk/" onclick="whRedeye.getRedEyeTag('https://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/GamCare','EN');" target="_blank">GamCare</a></li>
 				 <li><a href="http://www.gamblingtherapy.org/" onclick="whRedeye.getRedEyeTag('https://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/GamblingTherapy','EN');" target="_blank">Gambling Therapy</a></li>
 				 <li><a href="http://www.gamblersanonymous.org.uk/" onclick="whRedeye.getRedEyeTag('https://redeye.willhill.com/cgi-bin/rr.cgi/images/blank.gif','','www.willhill.com/EN/SB/Footer/GamblersAnonymous','EN');" target="_blank">Gamblers Anonymous</a></li>
 				</ul>
-		   
 		</div>
 		
 		<div class="accessColB">
@@ -484,20 +362,12 @@ function writeBrowserMessage(msgStatus)
 	
 	<div class="accessFooterMargin">
 			William Hill is licensed and regulated by the &nbsp;<a href="javascript:window.open('http://www.gamblingcommission.gov.uk');void(0)">UK Gambling Commission.</a>&nbsp; License number 004-002749-R-102416-001
-      <br>This website is owned by William Hill Credit Limited, registered number 413846 in England and Wales, at William Hill, Greenside House, 50 Station Road, Wood Green, London, N22 4TP, United Kingdom
+      <br>This website is owned by William Hill Credit Limited, registered number 413846 in England and Wales, at William Hill, Greenside House, 50 Station Road, Wood Green, London, N22 7TP, United Kingdom
 	</div>
 
-	
+
 	<!--accessFooter-->
-
 	
-		<script language="javascript" type="text/javascript" src="/iibs/EN/js/lang.js"></script>
-	
-	<script language="javascript" type="text/javascript" src="/iibs/lib/whTools.js?v=3"></script>
-
-	
-		
-
 
 
 </body></html>
