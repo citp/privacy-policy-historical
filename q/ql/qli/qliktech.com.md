@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628214134id_/http%3A//qliktech.com/Contents.aspx%3Fid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113033634id_/http%3A//www.qlikview.com/Contents.aspx%3Fid%3D41) for the most accurate reproduction.*
 
 # QlikView: Privacy
 
@@ -40,3 +40,15 @@ QlikTech welcomes your comments regarding this Statement of Privacy, please cont
 
 QlikTech reserves the right to modify or update this privacy statement at any time without notice.  
 Last updated: May 19, 2005
+
+### Learn More
+
+**_Seeing is believing._** Download QlikView now, or contact us for more information. We'll show you your data in QlikView in _one hour._
+
+ QlikView's power ensures that we'll have the information we need and its ease-of-use guarantees that everyone from the CEO to our account manager can gain benefit from it. There is no better way to get insight from our data 
+
+_Andreas Becker, Executive Director Business Support Group, WestLB AG_
+
+## 
+
+**Seeing is believing.** View demos of QlikView in action: 
