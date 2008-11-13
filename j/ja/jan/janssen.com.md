@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311032113id_/http%3A//www.janssen.com/html/cjan/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113231740id_/http%3A//www.janssen.com/janssen/privacy.html) for the most accurate reproduction.*
 
-# Janssen: Now, Exclusively Dedicated to Mental Health
+# Janssen: Privacy Policy
 
 **  
 Welcome**  
-Welcome to www.Janssen.com! This site is owned by Janssen, L.P. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States. 
+Welcome to www.Janssen.com! This site is owned by Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States. 
 
 **Your Consent**  
 By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -58,10 +58,10 @@ This site may contain links or references to other Web sites to which this Priva
 **How to Contact Us**  
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: 
 
-Customer Contact Center  
+Customer Communications Center  
 PO Box 200  
 Titusville, New Jersey 08560  
 800-526-7736
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on October 25, 2005. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on March 21, 2008. 
