@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072439id_/http%3A//www.ilovejackdaniels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114001840id_/http%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ILoveJackDaniels.com
+# Privacy Policy - Added Bytes
 
-Please direct all contact or enquiries to [dave@ilovejackdaniels.com](http://www.ilovejackdaniels.com/dave@ilovejackdaniels.com)
+Please direct all contact or enquiries to [dave@addedbytes.com](http://www.addedbytes.com/dave@addedbytes.com)
 
 Information collected by the site is never personally identifiable, and is used for anonymous analytical purposes only. All information collected is for internal use only and will never be disclosed to any third parties.
 
