@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbd.int privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510082456id_/http%3A//www.cbd.int/web/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbd.int privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113232943id_/http%3A//www.cbd.int/web/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
