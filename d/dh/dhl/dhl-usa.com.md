@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011202926id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113094355id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
 
 # DHL: Privacy Policy
 
@@ -30,9 +30,9 @@ Web-Based Shipping
 
 DHL designed web-based shipping applications, to provide our customers the most timely, accurate, and easy-to-use online shipping in the transportation industry. While increasing your convenience, we have also incorporated security features to protect your personal shipping information. 
 
-  * Data Encryption. SSL encryption is used to protect the information you enter when using the online shipping.
-  * Passwords. It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. 
-  * Shipment and Receiver Data. DHL will not disclose your address book to other parties. 
+  * Data Encryption - SSL encryption is used to protect the information you enter when using the online shipping.
+  * Passwords - It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. 
+  * Shipment and Receiver Data - DHL will not disclose your address book to other parties. 
 
 Thousands of DHL customers use DHL shipping systems such as LIBRA and EasyShip to send shipments each day. When these systems are installed at a customer's premises, they may contain the customer's profile and shipment data. We encourage customers concerned about the security of the information contained on these systems to protect them by using physical access controls.
 
