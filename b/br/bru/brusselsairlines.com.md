@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brusselsairlines.com privacy policy that was archived on 2008-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080213053926id_/http%3A//www.brusselsairlines.com./en_be/legal/misc/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brusselsairlines.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113141850id_/http%3A//brusselsairlines.com/com/legal/misc/security.aspx) for the most accurate reproduction.*
 
 # Brussels Airlines - Security & privacy policy
 
@@ -6,7 +6,7 @@ According to the provisions of the Belgian Act of 8 December 1992 on the protect
 
  **Personal data**  
 
-Your personally identifiable data are processed by DELTA AIR TRANSPORT nv (trading as Brussels Airlines), with registered office at 1050 Brussels (Belgium), Jaargetijdenlaan 100-102 B30, in its capacity of Controller of the personal data.
+Your personally identifiable data are processed by Brussels Airlines nv, with registered office at 1050 Brussels (Belgium), Jaargetijdenlaan 100-102 B30, in its capacity of Controller of the personal data.
 
 The processing of your data is performed to provide you with the services for which you have registered with us (e.g. to receive news updates on Brussels Airlines products and services via e-mail, to process your requests for information and/or comments on our products and services, and for the processing and confirmation of web bookings.
 
