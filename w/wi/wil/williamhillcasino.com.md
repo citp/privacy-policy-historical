@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012130048id_/http%3A//www.willhill.com/iibs/en/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113023319id_/http%3A//www.willhill.com/iibs/en/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Telephone calls to and from our Customer Services Department are recorded for tr
 
 We may transfer Your information in the event of business sale or insolvency.
 
-If at any time you wish us to stop processing Your Information for the above purposes, then you will be required to
+If at any time you wish us to stop processing Your Information for the above purposes, then you will be required to contact us.
 
 **Cookies**
 
@@ -62,11 +62,13 @@ If at any time you believe that William Hill has not adhered to the principles c
 
 Questions regarding this statement should be directed to [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk) or by post to:
 
-Customer Relations Manager  
-William Hill  
+Customer Services Manager  
+William Hill PLC  
 7th Floor  
 Milton House  
-60 Charter Road  
-Sheffield S13 
+Charter Row  
+Sheffield  
+S1 3FZ  
 
-**This Privacy Policy was last updated on 15th August 2007**
+
+**This Privacy Policy was last updated on 8th July 2008**
