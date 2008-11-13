@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posters555.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603171309id_/http%3A//www.posters555.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posters555.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113124018id_/http%3A//www.posters555.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Unique store of posters.
 
