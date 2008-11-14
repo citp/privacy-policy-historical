@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516032120id_/http%3A//www.clips4sale.com/do/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114132540id_/http%3A//clips4sale.com/do/privacy) for the most accurate reproduction.*
 
 # Clips4Sale.com - The #1 Downloadable Clip Site on the Net!
 
