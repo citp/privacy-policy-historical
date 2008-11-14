@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704013643id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114051955id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SnapFiles.com
 
@@ -50,4 +50,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 If you feel that this company is not abiding by its posted privacy policy, you should first contact : 
 
-WebAttack, Inc. PO. Box 522741 Marathon, FL 33052 Email: [email](http://www.snapfiles.com/feedback/)
+WebAttack, Inc. - 4044 W. Lake Mary Blv., Unit #104-350, Lake Mary, FL 32746-2012 Email: [email](http://www.snapfiles.com/feedback/)
