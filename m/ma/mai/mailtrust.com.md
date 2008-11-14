@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mailtrust.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511192818id_/http%3A//www.mailtrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtrust.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114210836id_/http%3A//www.mailtrust.com/privacy) for the most accurate reproduction.*
 
 # Mailtrust | Privacy Policy
 
 ## Mailtrust Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=www.mailtrust.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.mailtrust.com&sealid=102)
 
-Mailtrust, LLC ("Mailtrust") has created this privacy statement to demonstrate its commitment to the privacy of persons who visit www.mailtrust.com. This policy covers our privacy commitment to our website visitors who are not customers. Our agreement with our customers includes additional privacy, security, and confidentiality obligations. 
+Mailtrust has created this privacy statement to demonstrate its commitment to the privacy of persons who visit www.mailtrust.com. This policy covers our privacy commitment to our website visitors who are not customers. Our agreement with our customers includes additional privacy, security, and confidentiality obligations. 
 
 ### Web Visit
 
@@ -66,7 +66,7 @@ Mailtrust is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,
 
 If you have questions or concerns regarding this Policy, you should contact our Privacy Department using the information below: 
 
-Mailtrust, LLC.  
+Mailtrust  
 Attn: Privacy Department  
 755 University City Boulevard   
 Blacksburg, VA 24060
@@ -80,3 +80,5 @@ Website: <http://www.truste.org/consumers/watchdog_complaint.php>
 TRUSTe will then serve as a liaison with the website to resolve your concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
+
+Mailtrust is a division of Rackspace US, Inc.
