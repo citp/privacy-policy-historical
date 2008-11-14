@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042055id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114145421id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # QNAP Systems Inc. (Privacy Policy)- NAS storage and Surveillance products provider
 
 |  |  |   
 ---  
-[Home](https://web.archive.org/web/20080516042055id_/http%3A//www.qnap.com/index.asp) > Privacy Policy   
+[Home](https://web.archive.org/web/20081114145421id_/http%3A//www.qnap.com/index.asp) > Privacy Policy   
   
 |  | QNAP Privacy Policy  
 ---  
