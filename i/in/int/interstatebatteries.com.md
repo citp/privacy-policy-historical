@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215544id_/http%3A//www.interstatebatteries.com/estore/shop_confidence.asp%3Fmscssid%3D3SU74WKUX3C18PAJA3R4VBA9AVHF4H39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2008-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081115060600id_/http%3A//www.interstatebatteries.com/estore/shop_confidence.asp%3Fmscssid%3D81QN79U0WT258M489JBWG3BFT6HS6E8F) for the most accurate reproduction.*
 
 # Interstate Batteries: Shop With Confidence
 
@@ -17,7 +17,7 @@ Other information, such as phone number and fax number, are completely optional,
 | [](https://www.scanalert.com/RatingVerify?ref=www.interstatebatteries.com)  
 ---|---  
   
-Consumers may change their personal information at any time, by logging into our website, and clicking on [Update Your Account Information](http://www.interstatebatteries.com/estore/account.asp?mscssid=JU5T2DS7MEMH8HAJQ1GKMN7RV81PFFV3) in the [Your Account section](http://www.interstatebatteries.com/estore/your_account.asp?mscssid=JU5T2DS7MEMH8HAJQ1GKMN7RV81PFFV3).
+Consumers may change their personal information at any time, by logging into our website, and clicking on [Update Your Account Information](http://www.interstatebatteries.com/estore/account.asp?mscssid=3MV8C04XG33L9HTUVBGNGUHFWUE691AD) in the [Your Account section](http://www.interstatebatteries.com/estore/your_account.asp?mscssid=3MV8C04XG33L9HTUVBGNGUHFWUE691AD).
 
 Business customers may change their information by contacting Customer Service at 866-842-5468, or sending an email to [CustomerService@InterstateBatteries.com](mailto:%20customerservice@interstatebatteries.com). After verifying your business information, the Customer Service representative can make any changes to your account.
 
