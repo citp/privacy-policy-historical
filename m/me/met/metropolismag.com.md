@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609194031id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2008-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081115053435id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,6 +80,4 @@ USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE E
 |  |    
 
 
-[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=506__zoneid=10__cb=8dda1cd909__maxdest=http://www.metropolismag.com/subscribe)
-
-[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=502__zoneid=11__cb=c2ce97123f__maxdest=http://www.metropolismag.com/subscribe)
+[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=562__zoneid=10__cb=f48db7dc63__maxdest=http://www.collegeforcreativestudies.edu/mfa)
