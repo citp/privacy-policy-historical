@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hmv.ca privacy policy that was archived on 2007-07-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070717184517id_/http%3A//www.hmv.ca/hmvcaweb/en_CA/navigate.do%3FpPageID%3D100000002) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hmv.ca privacy policy that was archived on 2008-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081115012932id_/http%3A//www.hmv.ca/hmvcaweb/en_CA/navigate.do%3FpPageID%3D100000002) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		
@@ -189,7 +189,7 @@
 
 
 <!-- START HEADER LAYOUT -->
-<div class="clearfix" id="header">
+<div id="header">
 	
 
 
@@ -225,47 +225,47 @@
 
 <p class="header-logo">
 	<a href="http://www.hmv.ca/hmvcaweb/en_CA/home.do" title="HMV.ca - Music, DVD, Games and More">
-		<img src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/header_logo.gif" alt="Go to homepage" width="188" height="117">
+		<img src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/header_logo.gif" alt="Go to homepage" width="180" height="80">
 	</a>
 </p>
 
-<div id="nav-primary">
-	<ul class="clearfix">
+<div id="navigation"> 
+	<ul>
 		
-			<li class="home"><a href="http://www.hmv.ca/hmvcaweb/en_CA/home.do">Home</a></li>
-		
-		
-		
-			<li class="music"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10001">Music</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/home.do">home</a></li>
 		
 		
 		
-			<li class="dvd"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10002">DVD</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10001">music</a></li>
 		
 		
 		
-			<li class="games"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10003">Games</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10002">dvd</a></li>
 		
 		
 		
-			<li class="chart"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1002">Chart</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10003">games</a></li>
 		
 		
 		
-			<li class="promotions"><a href="http://www.hmv.ca/hmvcaweb/en_CA/offers.do">Promotions</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1002">chart</a></li>
 		
 		
 		
-			<li class="newreleases"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1004">New Releases</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/offers.do">promotions</a></li>
+		
+		
+		
+			<li id="NNewReleases"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1004">new releases</a></li>
 		
 	</ul>
 </div>
 
-<div class="clearfix" id="nav-support">
+<div id="navigation-global">
 	<ul class="clearfix">
 		<li class="language">
 			<a href="javascript:switchLocale()">
-				En français
+				Français
 			</a>
 		</li>
 
@@ -301,28 +301,29 @@
 
 <!-- Start of Basket -->
 
-
-
-
-		<li class="basket">
+		<li class="basket" style="display:none"> 
 			<div>
 				
+				
+				
+				
 				<a href="http://www.hmv.ca/hmvcaweb/en_CA/basket.do">
-					My basket <span class="hi-light">(0)</span> items
+					Reserved <span class="hi-light">(0)</span> items
 				</a>
 				<ul>
 					<li class="items"><span class="hi-light">0</span> items - Total: <strong class="hi-light">CDN $0.00</strong></li>
-					<li class="viewbasket"><a href="http://www.hmv.ca/hmvcaweb/en_CA/basket.do">View my basket</a></li>
-					
-						<li class="viewcheckout">Go to Checkout</li>
-					
+					<li class="viewcheckout"></li>
+					<li class="viewcheckout"><a href="http://www.hmv.ca/hmvcaweb/en_CA/basket.do">View reserved items</a></li>
 				</ul>
+				
+				
+				
+				
 			</div>
 		</li>
 	</ul><!-- Closed from Header -->
 </div><!-- Closed from Header -->
 <!-- End of Basket -->
-
 </div><!-- Closes #header-->
 <!-- END HEADER LAYOUT -->
 
@@ -426,8 +427,7 @@
 
 
 <!-- START HOME LEFT MARGIN LAYOUT -->
-<div id="nav-secondary">
-	
+
 
 
 
@@ -456,6 +456,10 @@
 			document.getElementById('contextField').value = 10002;
 		} else if (searchType == 5) {
 			document.getElementById('contextField').value = 10003;
+		} else if (searchType == 20) {
+			document.getElementById('contextField').value = 10004;
+		} else if (searchType == 21) {
+			document.getElementById('contextField').value = 10006;
 		} else {
 			removeContext();
 		}
@@ -484,33 +488,44 @@
 		formElement.removeChild(contextField);
 	}
 </script>
+<div id="searchglobal">
+	<form id="searchbar" name="simpleSearchFrm" action="http://www.hmv.ca/hmvcaweb/en_CA/simpleSearch.do" method="get" onsubmit="return validateSimpleSearch();">
+		<input type="hidden" id="contextField" name="ctx">
+		
+		<fieldset>
+			<legend>Search For...</legend>
+			<div class="frow frow-text">
+				<label for="keywords">
+					<span class="label">Search For...</span>
+					<span class="field"><input type="text" size="35" id="keywords" name="keywords" onfocus="clearQuotedField(this,'Enter artist, film, band, etc');" onblur="resetQuotedField(this,'Enter artist, film, band, etc');" value="Enter artist, film, band, etc"></span>
+				</label>
+			</div>
+			<div class="frow frow-select">	
+				<label for="searchType">
+					<span class="adn label">Categories</span>
+					<span class="field">
+						<select id="searchType" name="searchType">
+							<option value="2">All categories</option>
+							<option value="3">Music</option>
+							<option value="4">DVD</option>
+							<option value="5">Games</option>
+							<option value="20">Francophone</option>
+							<option value="21">Gadgets</option>
+							<option value="6">Artist</option>
+						</select>
+					</span>	
+				</label>
+			</div>
+			<div class="frow frow-action">
+				<p class="button button-search"><input name="btnSubmitSearch" type="image" class="button" id="btnSubmitSearch" src="http://www3.hmv.ca/hmvca/graphics/en_CA/buttons/searchbar_go.gif" alt="Go"></p>	
+				<p class="button button-advanced-search"><a href="http://www.hmv.ca/hmvcaweb/en_CA/displayAdvancedSearch.do"><img alt="Advanced search" src="http://www3.hmv.ca/hmvca/graphics/en_CA/buttons/searchbar_adv_search.gif" width="120" height="20"></a></p>				
+			</div>	
+		</fieldset>
+	</form>
+</div>	
+<!-- End of Simple Search  -->
 
-<form id="searchbox" name="simpleSearchFrm" action="http://www.hmv.ca/hmvcaweb/en_CA/simpleSearch.do" method="get" onsubmit="return validateSimpleSearch();">
-	<input type="hidden" id="contextField" name="ctx">
-	
-	<fieldset>
-		<legend>Search For...</legend>
-		<label class="keywords" for="keywords">
-			<span class="accessibility">Keywords</span>
-			<input type="text" id="keywords" name="keywords" onfocus="clearQuotedField(this,'Enter artist, film, band, etc');" onblur="resetQuotedField(this,'Enter artist, film, band, etc');" value="Enter artist, film, band, etc">
-		</label>
-		<label class="categories" for="categories">
-			<span class="accessibility">Categories</span>
-			<select id="searchType" name="searchType">
-				<option value="2">All categories</option>
-				<option value="3">Music</option>
-				<option value="4">DVD</option>
-				<option value="5">Games</option>
-				<option value="6">Artist</option>
-			</select>
-		</label>
-		<input type="image" class="button" src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/searchbox_go.gif" alt="Go" width="34" height="20">
-		<p><a href="http://www.hmv.ca/hmvcaweb/en_CA/displayAdvancedSearch.do">Advanced search</a></p>
-	</fieldset>
-</form>
-<!-- End of Simple Search -->
-
-	
+<div id="nav-secondary">	
 	<!-- START LEFT MARGIN COMPONENTS -->
 	
 
@@ -537,23 +552,11 @@
 			
 				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000067" title="Customer Reviews">Customer Reviews</a></li>
 			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000015" title="FAQs">FAQs</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000004" title="Free Shipping">Free Shipping</a></li>
-			
 				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000006" title="New Customers">New Customers</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000007" title="Pricing and Payment">Pricing and Payment</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000008" title="Product Availability">Product Availability</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000009" title="Returning Items">Returning Items</a></li>
 			
 				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000010" title="Search Tips">Search Tips</a></li>
 			
 				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000011" title="Security">Security</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000012" title="Shipping Information">Shipping Information</a></li>
 			
 				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000013" title="Terms and Conditions">Terms and Conditions</a></li>
 			
@@ -573,8 +576,8 @@
 <div class="signpost-grey banner-storefinder clearfix">
 	<h2>HMV Store Finder</h2>
 	<ul>
-		<li class="button"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000031">Find your local HMV</a></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000033">Find HMV events</a></li>
+		<li class="button"><p><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000031"><span>Find your local HMV</span></a></p></li>
+		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000033"><span>Find HMV events</span></a></li>
 	</ul>
 </div>
 
@@ -615,15 +618,14 @@
 
 
 
-
-<h1 class="main-heading">
+<div class="genre-one-col clearfix"><h1>
 	
 	
 	Customer Privacy Policy
 
 	
 	
-</h1>
+</h1></div>
  
 		
 			
@@ -648,13 +650,11 @@ Radio-television and Telecommunications Commission. </p>
 <p><strong>At HMV Canada, we collect  customer information for one or more of the following purposes: </strong></p>
 
 <ul start="1" type="1">
-  <li>To provide a positive customer experience, and deliver, bill for,
-and collect payment for products and services; </li>
+  <li>To provide a positive customer experience; </li>
 </ul>
 
 <ul start="1" type="1">
-  <li>To understand customer requirements and make information available
-regarding products and services offered by HMV Canada and its suppliers;
+  <li>To understand our in-store customer requirements and make information available regarding products and services offered by HMV Canada and its suppliers;
 </li>
 </ul>
 
@@ -667,7 +667,7 @@ regarding products and services offered by HMV Canada and its suppliers;
 </ul>
 
 <ul start="1" type="1">
-  <li>To obtain credit information or provide it to others. </li>
+  <li>To provide the members with information regarding upcoming promotions and/or events. </li>
 </ul>
 
 <p>HMV Canada does not use or  disclose personal information for
@@ -713,28 +713,25 @@ complaint, write to: </p>
 
 <!-- Start of Footer -->
 <div class="clearfix" id="footer">
-	<p class="footer-legal">© HMV 2007</p>
-	<ul class="footer-links">
-		<li class="first"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000002">Customer Privacy Policy</a></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000014">Website Privacy Policy</a></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000035">About HMV</a></li>
-		<li><a href="http://clients.njoyn.com/CGI/xweb/Xweb.asp?clid=21708&amp;page=joblisting&amp;lang=1" target="_new">HMV Careers</a></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000005">Gift Card Agreement</a></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000013">Terms and Conditions</a></li>
-	</ul>
+	<div id="footer-navigation">
+		<ul>
+			<li>© HMV 2008 -</li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000002">Customer Privacy Policy</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000014">Website Privacy Policy</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000035">About HMV</a></li>
+			<li><a href="http://clients.njoyn.com/CGI/xweb/Xweb.asp?clid=21708&amp;page=joblisting&amp;lang=1" target="_new">HMV Careers</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000005">Gift Card Agreement</a></li>
+			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000013">Terms and Conditions</a></li>
+		</ul>
+	</div>	
 	
-
-
-
-
-
-	<p class="footer-contact">HMV Canada Online Customer Services:&nbsp;<strong>1.888.449.4HMV (4468)</strong>&nbsp;operates Monday through Friday,&nbsp;8:00am to 6:00pm <abbr title="Eastern Standard Time">EST</abbr></p>
-	<p class="footer-acceptedcards">HMV Canada accepts the following cards&nbsp;<img alt="Mastercard | Visa | American Express" src="http://www3.hmv.ca/hmvca/graphics/en_CA/forms/accepted_cards.gif"><br>As well as INTERAC<sup>®</sup> Online&nbsp;<img class="interac" src="http://www3.hmv.ca/hmvca/graphics/en_CA/forms/interac_online.gif"><br>® Trade-mark of Interac Inc. Used under licence.<a href="javascript:openScrollableWindow('http://www.interaconline.com/learn','learn',566,400);">Learn more...</a></p>
-	<p class="footer-poweredby">
-		Powered By
-		<strong><img alt="MUZE" height="8" src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/footer_muze_logo.gif" width="29"></strong>
-		® TM<br>MuzeMusic™, MuzeVideo™ Copyright MUZE® 2007.<br>MuzeGames® Joint copyright Muze Inc, and IGN Entertainment Inc Copyright 2007.<br>For personal non-commercial use only. All rights reserved.
-	</p>
+	<div class="footer-reg">
+		<p class="footer-poweredby">
+			Powered By
+			<strong><img alt="MUZE" height="8" src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/footer_muze_logo.gif" width="29"></strong>
+			® TM<br>MuzeMusic™, MuzeVideo™ Copyright MUZE® 2008.<br>MuzeGames® Joint copyright Muze Inc, and IGN Entertainment Inc Copyright 2008.<br>For personal non-commercial use only. All rights reserved.
+		</p>
+	</div>	
 </div>
 <!-- End of Footer -->
 
