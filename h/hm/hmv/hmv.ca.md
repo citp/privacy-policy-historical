@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717184517id_/http%3A//www.hmv.ca/hmvcaweb/en_CA/navigate.do%3FpPageID%3D100000002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2008-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081115012932id_/http%3A//www.hmv.ca/hmvcaweb/en_CA/navigate.do%3FpPageID%3D100000002) for the most accurate reproduction.*
 
 # HMV.ca: music, dvd and games
 
@@ -10,10 +10,10 @@ HMV Canada's privacy practices are in accordance with all federal and provincial
 
 **At HMV Canada, we collect customer information for one or more of the following purposes:**
 
-  * To provide a positive customer experience, and deliver, bill for, and collect payment for products and services; 
+  * To provide a positive customer experience; 
 
 
-  * To understand customer requirements and make information available regarding products and services offered by HMV Canada and its suppliers; 
+  * To understand our in-store customer requirements and make information available regarding products and services offered by HMV Canada and its suppliers; 
 
 
   * To manage and develop HMV Canada business and operations; 
@@ -22,7 +22,7 @@ HMV Canada's privacy practices are in accordance with all federal and provincial
   * To meet legal and regulatory requirements; and 
 
 
-  * To obtain credit information or provide it to others. 
+  * To provide the members with information regarding upcoming promotions and/or events. 
 
 
 
