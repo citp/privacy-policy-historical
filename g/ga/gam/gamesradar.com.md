@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509124712id_/http%3A//www.gamesradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2008-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081116023211id_/http%3A//www.gamesradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Game Cheats, Video Game News, Xbox Cheats, Xbox 360 Games | GamesRadar
+# Video Game Cheats, Wii Cheats, PSP Game, Wii Games | GamesRadar.com
 
 Last Updated on December 19, 2007  
 GamesRadar.com. Published by Future Us, Inc.
