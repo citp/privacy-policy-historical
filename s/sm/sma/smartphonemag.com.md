@@ -1,65 +1,46 @@
-> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223247id_/http%3A//www.pocketpcmag.com/_top/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2008-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081116215247id_/http%3A//www.smartphonemag.com/cms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Pocket PC magazine and Thaddeus Computing Inc.
+# Thaddeus Computing Privacy Policy | Smartphone & Pocket PC magazine
 
-  |  |   
----  
-|  [ ](https://web.archive.org/_top/) |  |  [ ](https://thaddeus.pocketpcmag.com/ppcmag/subscribe/?cf=2) |  |  [ ](https://web.archive.org/_top/free.asp) |  |  [ ](https://web.archive.org/media/default.asp) |   
-|   
-[ ](https://web.archive.org/_service/) |  [ ](http://www.usedhandhelds.com/)  
-|  |   
-|   
-  
-| 
+**Privacy Policy**
 
-Thaddeus Computing Privacy Policy
+We want you as a long-term customer and patron. We will treat you how we would like to be treated.
 
-  1. We want you as a long-term customer and patron. We will treat you how we would like to be treated.
+Below is our current policy regarding usage of information collected by _Smartphone & Pocket PC _magazine, its smartphonemag.com web site, and its publisher, Thaddeus Computing. On occasion we reevaluate this policy based on customer feedback, effective business practices, and treating customers fairly and properly. Our [privacy policy for our companion smartphonemag.com/iphone _iPhone Life_ site](http://www.smartphonemag.com/iphone/privacy) is quite similar.
 
-  2. Below is our current policy regarding usage of information collected by Thaddeus Computing. On occasion we reevaluate this policy based on customer feedback, effective business practices, and treating customers fairly and properly.
+  1. We never give out phone numbers, nor do we ever telemarket. When collected, phone numbers are used only by our customer service representatives for support or a purchase concern.
 
-  3. We never give out phone numbers, nor do we ever telemarket. When collected, phone numbers are used only by our customer service representatives.
+  2. Over the years, we may have obtained your email address and other information in any of a number of ways. These include:
 
-  4. We may have obtained your email address and other information in any of a number of ways. These include:
+    1. Subscribing to our magazine and becoming a VIP
 
-    1. Request for a sample print or electronic issue
+    2. Joining this web site either previously or in its current incarnation
 
-    2. Subscription to our email newsletters
+    3. Request for a sample print or electronic issue
 
-    3. Shopping cart purchases
+    4. Subscription to our email newsletters
 
-    4. Online surveys
+    5. Shopping cart purchases
 
-    5. Joining our Pocket PC magazine forum
+    6. Online surveys
 
-    6. Subscription to one of the Pocket PC magazine editions
+    7. Other interactions through one of our Thaddeus Computing ([www.thaddeus.com](http://www.thaddeus.com/)) Web sites including [www.SmartphoneMag.com](https://web.archive.org/), [www.PalmtopPaper.com](http://www.palmtoppaper.com/), and [www.UsedhandHelds.com](http://www.usedhandhelds.com/)
 
-    7. Other interactions through one of our Thaddeus Computing ([www.thaddeus.com](http://www.thaddeus.com/)) Web sites including [www.PocketPCmag.com](http://www.pocketpcmag.com/), [www.PalmtopPaper.com](http://www.palmtoppaper.com/), and [www.UsedhandHelds.com](http://www.usedhandhelds.com/)
+  3. On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact us at newsletters@smartphonemag.com or call 800-373-6114, with concerns or problems.
 
-  5. On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact our Director of Customer Service, Colleen Rodibaugh, [colleen@thaddeus.com](mailto:colleen@thaddeus.com), 800-373-6114, with concerns or problems.
+  4. With your permission, when you opt-in, we will on occasion send you email about Smartphone and PDA -related products. We will not abuse this privilege. You will always have the opportunity to opt-out. You will always know that we are the source with any such email.
 
-  6. With your permission, when you opt-in, we will on occasion send you email about Pocket PC-related products. We will not abuse this privilege -- at the most such email might average once a week, likely considerably less. You will always have the opportunity to opt-out. You will always know that we are the source with any such email.
+  5. We take all reasonable precautions to protect against loss or misuse of customer information. However, due to the nature of the Internet, we cannot assume liability for security breaches.
 
-  7. We take all reasonable precautions to protect against loss or misuse of customer information. However, due to the nature of the Internet, we cannot assume liability for security breaches.
+  6. As part of our service, we link to many Web sites. We consider these useful, reputable sites. However, due to the changing nature of the Web, we cannot assume responsibility for content, security, or privacy policies of any of these Web sites.
 
-  8. As part of our service, we link to many Web sites. We consider these useful, reputable sites. However, due to the changing nature of the Web, we cannot assume responsibility for content, security, or privacy policies of any of these Web sites.
+  7. We use cookies to enable our shopping cart and to track Web traffic. We do not profile or collect information on individuals.
 
-  9. We use cookies to enable our shopping cart and to track Web traffic. We do not profile or collect information on individuals.
+  8. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
 
-  10. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
+  9. If you have complaints or concerns, you may e-mail company president, Hal Goldstein.
 
-  11. If you have complaints or concerns, you may email company president, Hal Goldstein, [hal@thaddeus.com](mailto:hal@thaddeus.com).
-
-  12. [Opt-in and unsubscribe options](http://www.pocketpcmag.com/_top/newsletter.asp).
+  10. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@smartphonemag.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
 
 
 
-
-Copyright © 2006 Thaddeus Computing Inc
-
-| 
-
-[](https://web.archive.org/store/asp/aftrack.asp?id=182&Req=aboutcd.asp)  
-  
----|---|---  
- 
