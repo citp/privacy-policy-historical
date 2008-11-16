@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005152622id_/http%3A//www.westerndigital.com/en/company/privacy.asp%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2008-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081116051350id_/http%3A//westerndigital.com/en/company/privacy.asp%3Flanguage%3Den) for the most accurate reproduction.*
 
 # WD Privacy Policy
-
-  
-Overview
 
 Western Digital Corporation ("we" or "us") is committed to protecting the privacy of customers, especially those who access and use our Web site located at URL [www.wdc.com](http://www.wdc.com/) or URL [www.westerndigital.com](http://www.westerndigital.com/) (the "Site").
 
