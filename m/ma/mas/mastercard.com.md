@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515155538id_/http%3A//www.mastercard.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2008-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081116111026id_/http%3A//www.mastercard.com/us/privacy.html) for the most accurate reproduction.*
 
 # General Privacy Policy | MasterCard®
 
