@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623191544id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2008-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081117193142id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
