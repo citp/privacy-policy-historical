@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpsn.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613191646id_/http%3A//kpsn.com/docs/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpsn.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118194806id_/http%3A//kpsn.com/docs/pp.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
