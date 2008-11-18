@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2008-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/about_privacy.asp) for the most accurate reproduction.*
 
 # The Fragrance Shop: Privacy Policy
 
 |  |  [](http://www.thefragranceshop.co.uk/) |  |  |  |   
 ---|---|---|---|---  
 [](https://web.archive.org/asp/prodtype.asp?prodtype=161) [](https://web.archive.org/asp/prodtype.asp?prodtype=151) [](https://web.archive.org/asp/prodtype.asp?prodtype=152) [](https://web.archive.org/asp/prodtype.asp?prodtype=164) [](https://web.archive.org/asp/prodtype.asp?prodtype=162) [](https://web.archive.org/asp/prodtype.asp?prodtype=132) [](https://web.archive.org/asp/prodtype.asp?prodtype=157) [](https://web.archive.org/asp/shipping.asp)  
-|  | [](http://www.thefragranceshop.co.uk/) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/about_philosophy.asp) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/about_company.asp) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/search.asp) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/about_fragrance_buying_guide.asp) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/shipping.asp) | [](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/customer_showorder.asp) |   
+|  | [](http://www.thefragranceshop.co.uk/) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/about_philosophy.asp) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/about_company.asp) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/search.asp) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/about_fragrance_buying_guide.asp) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/shipping.asp) | [](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/customer_showorder.asp) |   
 ---|---|---|---|---|---|---|---|---  
 |  |  |  |    
 ---|---|---  
@@ -41,7 +41,7 @@ Cookies
   
 Your Privacy  
   
-  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20080122150053id_/http%3A//www.thefragranceshop.co.uk/asp/about_contact_us.asp) page and the information will be corrected as soon as possible or removed from our database as you request.
+  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20081118170103id_/http%3A//www.thefragranceshop.co.uk/asp/about_contact_us.asp) page and the information will be corrected as soon as possible or removed from our database as you request.
 
   
   
