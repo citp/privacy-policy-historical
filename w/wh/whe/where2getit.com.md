@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602094342id_/http%3A//www.where2getit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118041539id_/http%3A//www.where2getit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Where 2 Get It
 
