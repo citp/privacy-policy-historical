@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223103231id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118204254id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
-# Biblio: privacy and security
+# Privacy and Security
 
-  
-**BiblioUnbound**  
-| 
+[](http://www.addthis.com/bookmark.php)
 
 [](http://www.truste.org/ivalidate.php?url=www.biblio.com&sealid=101)
 
@@ -88,16 +86,3 @@ Asheville, NC 28804
 **Telephone:** 800-813-9432
 
 Last Updated on 1/5/2007
-
-| 
-
-[](https://www.scanalert.com/RatingVerify?ref=www.biblio.com)
-
-  
-
-
-**Tip of the day**   
-Learn how Biblio.com can [save you money on shipping](http://www.biblio.com/faq_detail.php?faqid=91)! 
-
-**Did you know?**  
-Every shipment on Biblio.com is [eco-friendly](https://web.archive.org/ecosend)! [](https://web.archive.org/ecosend)
