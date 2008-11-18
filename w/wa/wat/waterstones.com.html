@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the waterstones.com privacy policy that was archived on 2007-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071129161430id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waterstones.com privacy policy that was archived on 2008-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081118010254id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		
@@ -12,7 +12,7 @@
 
 
 <title>Welcome to Waterstones.com</title>
-<meta name="description" content="Waterstone's UK's leading bookseller, with millions of titles covering every subject. Free UK delivery on everything!">
+<meta name="description" content="Waterstones.com - the UK's leading bookseller, with millions of books covering every subject. Free UK delivery on everything!">
 <meta name="keywords" content="books, novels, biography, sci-fi, computing books, childrens books, book blog, find Waterstone's stores, Waterstone's booksellers, art and photography books, audio books, books on cd, business books, finance, books, graphic novels, crime novels, true crime, educational books, textbooks, dictionaries, recipe books, food and drink books, fiction, stories, short stories, fairy tales, health books, diet books, pregnancy guides, history books, gardening books, diy books, humour books, little books, joke books, mbs, mind body spirit, tv tie-ins, film adaptations, pet books, dog books, cat books, children's books, childrens picture books, board books, bath books, cloth books, books on tape, poetry books, belle letters, quiz books, crossword books, crossword dictionaries, reference books, encyclopaedias, romance, scientific text books, medical books, almanacs, football books, cricket books, tennis books, diaries, travel guides, phrase books, students books, manga titles, celebrity chefs, golf books, sailing books, paperbacks, hardbacks, first editions, signed copies, limited editions, ebooks, maps, atlases, chicklit, hmv group, ottakars, ottakers, high street book shop, uk book shops, book sellers, books online, book signings, readings, book clubs, print on demand, study guides, cheat cards, revision books, exam guides, cheat books, strategy guides, erotica, war stories, gift books, gift editions, christening bibles, bibles, Koran, torah, politics books, economics books, gay and lesbian literature, mysteries, detective fiction, literary criticism, money guides, financial guides, mba guides, good study guides, bedtime stories">
 			 
 
@@ -26,6 +26,8 @@
 		<link href="http://www.waterstones.com/waterstonesweb/theme/screen.css" rel="stylesheet" type="text/css" media="screen,projection">
 		
 		
+				<link href="http://www.waterstones.com/waterstonesweb/theme/takeover/xmas08_footer_only.css" rel="stylesheet" type="text/css" media="screen,projection">	
+			
 		
 		<!--[if lte IE 6]><link href="theme/ie.css" rel="stylesheet" type="text/css" media="screen,projection" /><![endif]-->
 		<!--[if IE 7]><link href="theme/ie7.css" rel="stylesheet" type="text/css" media="screen,projection" /><![endif]-->
@@ -105,31 +107,57 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 /*	-------------------------------------------------------------
 	function getYears()
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	Description:	outputs all years as a srop down select
+	Description:	outputs all years as a drop down select
 	
 	difference = the suplied value is the difference to apply to start year
 	direction = 1 is ascending, 0 is descending
+	name - select field name and id
+	startYear - first year in list
+	selected - pre-selected value
 	
 	returns : currentYear  to (currentYear - difference)
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getYears( difference, direction)
+	function getYears( difference, direction, name, startYear, selected)
 	{	
 		var curdate = new Date();
-		var thisYear = curdate.getFullYear();	
+		if(startYear == null || startYear == ""){
+			var thisYear = curdate.getFullYear();	
+		}else{
+			var thisYear = startYear;
+		}
 		
-		text = '<select name="year" id="year"><option value="" >Year</option>';
-		
-		if ( direction == 1 )
-			for (i=thisYear; i > thisYear - difference; i--) 		
-			{
-		   		text += '\n<option value="' + i + '">'+ i +'</option>';
-			}
-		else
-			for (i=thisYear - difference ; i <= thisYear ; i++) 		
-			{
-		   		text += '\n<option value="' + i + '">'+ i +'</option>';
-			}
-		
+		text = '<select name="' + name + '" id="' + name +'"><option value="" >Year</option>';
+		if(difference > 0){
+			if ( direction == 1 )
+				for (i=thisYear; i > thisYear - difference; i--) 		
+				{
+			   		text += '\n<option value="' + i + '"';
+			   		if(selected != null && selected == i) text += "selected";
+			   		text += '>'+ i +'</option>';
+				}
+			else
+				for (i=thisYear - difference ; i <= thisYear ; i++) 		
+				{
+			   		text += '\n<option value="' + i + '"'
+			   		if(selected != null && selected == i) text += "selected";
+			   		text += '>'+ i +'</option>';
+				}
+		}else{
+			if ( direction == 1 )
+				for (i=thisYear; i < thisYear + Math.abs(difference); i++) 		
+				{
+			   		text += '\n<option value="' + i + '"';
+			   		if(selected != null && selected == i) text += "selected";
+			   		text += '>'+ i +'</option>';
+				}
+			else
+				for (i=thisYear + Math.abs(difference) ; i > thisYear ; i--) 		
+				{
+			   		text += '\n<option value="' + i + '"';
+			   		if(selected != null && selected == i) text += "selected";
+			   		text += '>'+ i +'</option>';
+				}		
+		}
 		text += '</select>';
 		document.write(text);			
 	}									
@@ -138,17 +166,25 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 	function getDayOfTheMonth()
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	Description:	gets the days of the month
+	name: field name and id
+	selected: pre-selected value
 	returns : 1 to 31
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getDayOfTheMonth()
+	function getDayOfTheMonth(name, selected)
 	{	
-		text = '<select name="day" id="day"><option value="" >Day</option>';
+		text = '<select name="' + name + '"id="' + name + '"><option value="" >Day</option>';
 		for (i=1;i<32;i+=1) 
 		{
-			if ( i < 10 ) 
-		   		text += '\n<option value="0' + i + '">0'+ i+'</option>';
-		   	else
-		   		text += '\n<option value="' + i + '">'+ i+'</option>';
+			if ( i < 10 ) {
+		   		text += '\n<option value="0' + i + '"' ;
+		   		if(selected != null && selected == i) text += "selected";
+		   		text +=  '>0'+ i+'</option>';
+		   	}
+		   	else{
+		   		text += '\n<option value="' + i + '"' ;
+		   		if(selected != null && selected == i) text += "selected";
+		   		text +=  '>'+ i+'</option>';
+		   	}
 		}
 		text += '</select>';
 		document.write(text);			
@@ -158,13 +194,15 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 	function getMonthsOfTheYear()
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	Description:	outputs all the months of the year as a drop down select
+	name: field name and id
+	selected: pre-selected value
 	returns : 1 to 12
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
-	function getMonthsOfTheYear( sizeToShow )
+	function getMonthsOfTheYear( sizeToShow,name, selected)
 	{	
 	
 		var months = new Array("January", "February", "March", "April","May", "June", "July", "August", "September","October", "November", "December");				
-		text = '<select name="month" id="month"><option value="" >Month</option>';
+		text = '<select name="' + name + '" id="' + name + '"><option value="" >Month</option>';
 		for (i=1;i<13;i+=1) 
 		{
 			if (sizeToShow > 0)
@@ -172,10 +210,16 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 				thisMonth = months[i-1].substring( 0, sizeToShow );
 			}
 		
-			if ( i < 10 ) 
-		   		text += '\n<option value="0' + i + '">'+ thisMonth+'</option>';
-		   	else
-		   		text += '\n<option value="' + i + '">'+ thisMonth +'</option>';
+			if ( i < 10 ){ 
+		   		text += '\n<option value="0' + i + '"' ;
+		   		if(selected != null && selected == i) text += "selected";
+		   		text +=  '>'+ thisMonth+'</option>';
+		   	}
+		   	else{
+		   		text += '\n<option value="' + i + '"' ;
+		   		if(selected != null && selected == i) text += "selected";
+		   		text +=  '>'+ thisMonth +'</option>';
+		   	}
 		}
 		text += '</select>';
 		document.write(text);			
@@ -199,6 +243,45 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 	}
 
 //-->
+function check_date(day,month,year){
+	var checkstr = "0123456789";
+	var seperator = ".";
+	var day;
+	var month;
+	var year;
+	var leap = 0;
+	var err = 0;
+	var i;
+    err = 0;
+
+
+	   /* Validation leap-year / february / day */
+	   if ((year % 4 == 0) || (year % 100 == 0) || (year % 400 == 0)) {
+	      leap = 1;
+	   }
+	   if ((month == 2) && (leap == 1) && (day > 29)) {
+	      err = 23;
+	   }
+	   if ((month == 2) && (leap != 1) && (day > 28)) {
+	      err = 24;
+	   }
+	   /* Validation of other months */
+	   if ((day > 31) && ((month == "01") || (month == "03") || (month == "05") || (month == "07") || (month == "08") || (month == "10") || (month == "12"))) {
+	      err = 25;
+	   }
+	   if ((day > 30) && ((month == "04") || (month == "06") || (month == "09") || (month == "11"))) {
+	      err = 26;
+	   }
+	   /* if no error, return true*/
+	   if (err == 0) {
+	      return true;
+	   }
+	   /* Error-message if err != 0 */
+	   else {
+	      return false;
+	   }
+}
+
 </script>
 	</head>
 
@@ -252,7 +335,7 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 			<a href="http://www.waterstones.com/waterstonesweb/home.do">Home</a>
 		
 	</li>
-		
+
 						
 		<li><a href="https://www.waterstones.com/waterstonesweb/displayLogin.do?specificRedirect=/displayMyDetails.do">Sign in</a></li>
 	
@@ -275,16 +358,16 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 	<li class="basket">
 		<a href="http://www.waterstones.com/waterstonesweb/basket.do">
 		<span class="my-basket">My <strong>basket</strong></span> 
-							
-				<span class="hi-light">4</span> items</a>
+		
+				<span class="hi-light">1</span> item</a>
 						
 			<ul> <!-- start product info -->
 				<li>						
 					<!-- PRODUCT INFORMATION -->
-										
-						<span class="hi-light">4</span> items - Total: 
+					
+						<span class="hi-light">1</span> item - Total: 
 											
-					<span class="hi-light">£ 60.87</span>
+					<span class="hi-light">£ 3.89</span>
 				</li>
 				<li>
 					<a href="http://www.waterstones.com/waterstonesweb/basket.do">
@@ -387,7 +470,7 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 			</select>
 		</label>				
 		<input name="Image1" type="image" src="/waterstonesweb/graphics/global/searchbox_go.gif" alt="Go" class="button">
-		<p><a href="http://www.waterstones.com/waterstonesweb/displayAdvancedSearch.do">Advanced search</a></p>			
+		<p><a href="http://www.waterstones.com/waterstonesweb/displayAdvancedSearch.do">Advanced search</a><br></p>
 	</fieldset>
 </form><!-- closes #searchbox-->
 
@@ -427,7 +510,13 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 
 
 
-			<li><a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do" title="Contact us">Contact us</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000692" title="Contact us">Contact us</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000780" title="eBooks">eBooks</a></li>
 
 
 
@@ -451,12 +540,6 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 
 
 
-			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000393" title="Harry Potter film prints">Harry Potter film prints</a></li>
-
-
-
-
-
 			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000013" title="International shoppers">International shoppers</a></li>
 
 
@@ -464,6 +547,12 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 
 
 			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000006" title="New customers">New customers</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000683" title="Price check terms">Price check terms</a></li>
 
 
 
@@ -493,6 +582,12 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 
 
 
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000038" title="Review guidelines">Review guidelines</a></li>
+
+
+
+
+
 			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000015" title="Search tips">Search tips</a></li>
 
 
@@ -511,7 +606,7 @@ function showAddressFinder(frm, searchPostcode, searchHouse) {
 
 
 
-			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000018" title="Terms and conditions">Terms and conditions</a></li>
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000018" title="Terms and Conditions">Terms and Conditions</a></li>
 
 
 
@@ -590,7 +685,7 @@ Act 1998). </p>
 and how we use it</b></p>
 <p>When you register with Waterstone's 
 and/or place an order, we need to know your name, delivery address, 
-credit or debit card number and expiry date, e-mail address and telephone 
+credit or debit card number and expiry date, email address and telephone 
 number. This information allows us to fulfil your order and notify you 
 of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.</p>
 <p>We may also ask you to give 
@@ -624,7 +719,7 @@ will have a different session ID.</p>
 <p>By submitting your information 
 you consent to the use of that information as set out in this Policy. 
 If we change our Privacy Policy we will post the changes on this page 
-so that you may be aware of them. We will also e-mail you should we 
+so that you may be aware of them. We will also email you should we 
 make any changes and give you a chance to ask us not to use your information 
 in that way. Because the Internet infrastructure is global, and it is 
 not possible to predict the routes that information sent over the Internet 
@@ -632,15 +727,8 @@ will take, the information you provide may be transferred temporarily
 via a route which takes it outside the European Economic Area as it 
 passes between you and us. By submitting your information you consent 
 to this transfer.</p>
-<p><b>Opt in / Opt out</b></p>
-<p>If at any time you wish to 
-receive information about any other product areas which you currently 
-do not receive, or you wish to stop receiving some or all of the information 
-that we currently send, you may amend or remove your preferences by 
-clicking on 'Sign in' at the top of any page. Alternatively, please 
-unsubscribe yourself from the mailing lists by logging on to 'My account' 
-and follow the instructions there. If you have any queries about how 
-to use the mailing preference system, please <a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do">Contact us</a>. </p>
+<p><b>Opt in/Opt out</b></p>
+<p>If at any time you wish to receive information about any other product areas which you currently do not receive, you can <a href="http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html" target="_blank"><strong>sign up to our email newsletters</strong></a> by visiting the <a href="http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html" target="_blank"><strong>email preference page</strong></a>.  If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at <a href="mailto:service@waterstones.com"><strong>service@waterstones.com</strong></a>.</p>
 
 <p><b>Cookies</b></p>
 <p>Our site uses cookies to keep 
@@ -723,6 +811,10 @@ use your information in that way.</p>
 		<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1009">Careers</a></li>
 		<li><a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do">Contact Us</a></li>
 	</ul>  
+	<div id="footer-secure">    
+		<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.WATERSTONES.COM&amp;lang=en" tabindex="-1" onmousedown="return v_mDown();" target="VRSN_Splash">
+		<img src="/waterstonesweb/graphics/buttons/footer_verisign.gif" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" border="true"></a>
+    </div>
 	<div class="cleaner"></div>
 </div>
 <!-- END FOOTER -->
