@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024044619id_/http%3A//www.competitionseries.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118222616id_/http%3A//www.competitionseries.com/privacy.php) for the most accurate reproduction.*
 
-# 2007 General Tire StreetConcepts Competition Series
+# General Tire 2008 StreetConcepts Competition Series
 
 This is the web site of **StreetConcepts Inc.**.
 
@@ -10,8 +10,8 @@ Toronto, Ontario
 M3J 2G9  
 Canada**
 
-We can be reached via e-mail at [info@streetconcepts.com](mailto:info@streetconcepts.com)  
-or you can reach us by telephone at 416.907.4566 or fax at 416.628.8325.
+We can be reached via e-mail at [privacy@streetconcepts.com](mailto:privacy@streetconcepts.com)  
+or you can reach us by telephone at 416-907-4566 or fax at 416-628-8325.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -21,11 +21,11 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by or E-mail Us To [info@streetconcepts.com](mailto:info@streetconcepts.com).
+If you do not want to receive e-mail from us in the future, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [info@streetconcepts.com](mailto:info@streetconcepts.com).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [info@streetconcepts.com](mailto:info@streetconcepts.com).
+From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
