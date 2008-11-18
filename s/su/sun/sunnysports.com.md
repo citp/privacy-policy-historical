@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519025811id_/http%3A//www.sunnysports.com/Content/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118013920id_/http%3A//www.sunnysports.com/Content/Privacy.html) for the most accurate reproduction.*
 
-# Buy camping and hiking equipment from SunnySports.com
+# Privacy Policy Details | SunnySports.com
 
 ### At SunnySports.com, your privacy is a top priority. Please read below for our complete privacy policy details.
 
