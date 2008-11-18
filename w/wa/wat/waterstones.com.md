@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129161430id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118010254id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
 
 # Welcome to Waterstones.com
 
@@ -12,7 +12,7 @@ We will only use the information that we collect about you lawfully (in accordan
 
 **The information we collect and how we use it**
 
-When you register with Waterstone's and/or place an order, we need to know your name, delivery address, credit or debit card number and expiry date, e-mail address and telephone number. This information allows us to fulfil your order and notify you of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.
+When you register with Waterstone's and/or place an order, we need to know your name, delivery address, credit or debit card number and expiry date, email address and telephone number. This information allows us to fulfil your order and notify you of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.
 
 We may also ask you to give us optional contact information, for example your mobile number and demographic information like your age.
 
@@ -26,11 +26,11 @@ We use your IP address to help diagnose problems with our server and to administ
 
 We monitor customer traffic on an aggregate basis in order to help us develop and improve our website for the benefit of our customers. In order to enhance your use of the website you will be given a session ID which will only last for the duration of that visit to the site. Each time you visit the site you will have a different session ID.
 
-By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page so that you may be aware of them. We will also e-mail you should we make any changes and give you a chance to ask us not to use your information in that way. Because the Internet infrastructure is global, and it is not possible to predict the routes that information sent over the Internet will take, the information you provide may be transferred temporarily via a route which takes it outside the European Economic Area as it passes between you and us. By submitting your information you consent to this transfer.
+By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page so that you may be aware of them. We will also email you should we make any changes and give you a chance to ask us not to use your information in that way. Because the Internet infrastructure is global, and it is not possible to predict the routes that information sent over the Internet will take, the information you provide may be transferred temporarily via a route which takes it outside the European Economic Area as it passes between you and us. By submitting your information you consent to this transfer.
 
-**Opt in / Opt out**
+**Opt in/Opt out**
 
-If at any time you wish to receive information about any other product areas which you currently do not receive, or you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on 'Sign in' at the top of any page. Alternatively, please unsubscribe yourself from the mailing lists by logging on to 'My account' and follow the instructions there. If you have any queries about how to use the mailing preference system, please [Contact us](http://www.waterstones.com/waterstonesweb/displayMailUs.do). 
+If at any time you wish to receive information about any other product areas which you currently do not receive, you can [**sign up to our email newsletters**](http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html) by visiting the [**email preference page**](http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html). If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at [**service@waterstones.com**](mailto:service@waterstones.com).
 
 **Cookies**
 
