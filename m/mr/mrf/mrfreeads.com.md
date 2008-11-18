@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfreeads.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602013724id_/http%3A//www.mrfreeads.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfreeads.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118194943id_/http%3A//www.mrfreeads.com/about/privacy.html) for the most accurate reproduction.*
 
 # 
 
