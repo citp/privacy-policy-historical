@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503082213id_/http%3A//www.varsitytutors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119150803id_/http%3A//www.varsitytutors.com/privacy.html) for the most accurate reproduction.*
 
-# Varsity Tutors - About Us
+# Varsity Tutors - Privacy
 
-[](https://web.archive.org/web/20080503082213id_/http%3A//www.varsitytutors.com/index.html "Varsity Tutors Home Page")
+[](https://web.archive.org/web/20081119150803id_/http%3A//www.varsitytutors.com/index.html "Varsity Tutors Home Page")
 
   
 **OUR COMMITMENT TO PRIVACY:**
