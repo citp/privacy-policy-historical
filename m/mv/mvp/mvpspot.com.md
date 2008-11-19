@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mvpspot.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505075901id_/http%3A//www.mvpspot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvpspot.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120005039id_/http%3A//mvpspot.com/service/static/privacyp) for the most accurate reproduction.*
 
-# Sports Social Network: Privacy Policy
+# Sports Social Network: For Amateur & Professional Athletes
 
 **Privacy Policy**  
 **The use of the MVPSpot website(s) and/or MVPSpot software and any MVPSpot services and products (collectively, the "Website") provided by MVPSpot, LLC., ("MVPSpot") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the MVPSpot Terms & Conditions. If you do not agree to this Privacy Policy, please do not use the Website. Your use of the Website constitutes your acceptable of the terms in this Privacy Policy.**
