@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602172539id_/http%3A//5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119091407id_/http%3A//www.5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
 
 # Products — 5MinuteMarketing.com - Flyers and postcards for real estate direct mail marketing and advertising
 
@@ -10,13 +10,13 @@ Verisign issues Digital ID certificates in accordance with its Certification Pra
 5MinuteMarketing.com has received the Verisign secure site seal. The seal assures customers that it is safe to do business with our Web site and should differentiate our site from those who do not display the seal. This seal also informs visitors that all of the data they exchange with 5MinuteMarketing.com is protected against interception.
 
 **Return Policy**   
-Any credit card charged more than once for any one order will be refunded the amount of the overcharge. After an order is printed, there are no refunds. All other refunds or inquires should be directed to the customer service department at 866.453.1874 or [customerservice@5minutemarketing.com.](mailto:customerservice@5minutemarketing.com)
+Any credit card charged more than once for any one order will be refunded the amount of the overcharge. After an order is printed, there are no refunds. All other refunds or inquires should be directed to the customer service department at (866) 453-1874 or [customerservice@5minutemarketing.com.](mailto:customerservice@5minutemarketing.com)
 
 **Password Protection**   
 At 5MinuteMarketing.com, your sensitive information is password protected for an added level of security. When you establish an account with 5MinuteMarketing.com, you choose a unique password for your account. You may change this password as often as you like by logging in to your account and editing the My Account section.
 
 **Order Confirmation**   
-5MinuteMarketing.com sends an email notice to you confirming each order you place. If you receive an order confirmation that you did not place, please email us immediately at [customerservice@5minutemarketing.com](mailto:customerservice@5minutemarketing.com) or call us at 866-453-1874.
+5MinuteMarketing.com sends an email notice to you confirming each order you place. If you receive an order confirmation that you did not place, please email us immediately at [customerservice@5minutemarketing.com](mailto:customerservice@5minutemarketing.com) or call us at (866) 453-1874.
 
 **Partner Sites Privacy Policies**   
 5MinuteMarketing.com may provide links or active banner ads to its partners and alternative Internet sites. These sites offer individual data and privacy policies independent of 5MinuteMarketing.com, and 5MinuteMarketing.com disclaims any responsibility or liability for their respective policies or actions.
