@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234254id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120004020id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement Home Security Store
 
