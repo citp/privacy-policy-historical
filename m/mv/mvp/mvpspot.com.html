@@ -1,284 +1,424 @@
-<!--The following is the downloaded HTML source of the mvpspot.com privacy policy that was archived on 2008-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080505075901id_/http%3A//www.mvpspot.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mvpspot.com privacy policy that was archived on 2008-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081120005039id_/http%3A//mvpspot.com/service/static/privacyp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    	<title>Sports Social Network: Privacy Policy</title>
-		<meta name="keywords" content="sports social network, social network, professional athletes, amateur athletes, athletes, baseball, football, action sports, basketball, hockey, soccer">
-		<meta name="description" content="MVPSPOT#1 Sports social network, view amazing amateur and professional Athlete profiles. Connect with old or new teammates. Meet others with similar hobbies.">
-    <!--meta name="description" content="MVPSpot.com is your place to show the world your highlights and bloopers of your favorite pastime. MVPSpot is a sports social network. Put all your old athletic pictures in one place and reconnect with old teammates.  MVPSpot.com is for everyone, friends, athletes, fans, coaches and scouts. Show us Your Stuff!" />
- 
-<meta name="keywords" content="sports social network, social network, sports network, free video, sports video, post videos, sports highlights, football videos, nfl videos, baseball videos, basketball video, college football video, fantasy football, tony gonzalez, mvpspot videos, sports videos, sports clips, video clips, US Open highlights, US Open video, boxing video, showtime boxing video, nhl highlights, nhl video, golf, pro football, hockey video, basketball video sports news" /-->
 
- 
+    <title>Sports Social Network: For Amateur &amp; Professional Athletes</title>
+    <meta name="keywords" content="sports social network, social network, professional athletes, amateur athletes, athletes, baseball, football, action sports, basketball, hockey, soccer">
+    <meta name="description" content="MVPSPOT#1 Sports social network, view amazing amateur and professional Athlete profiles. Connect with old or new teammates. Meet others with similar hobbies.">
+    <meta name="title" content="Sports Social Network: For Amateur &amp; Professional Athletes">
 
- 
+
 <meta name="robots" content="all">
 <meta name="revisit-after" content="30 days">
-<meta name="title" content="Create your profile and show the world your highlights. Show Us Your Stuff! - MVPSpot.com - Your Sport. Your Spotlight.
-<META NAME=" rating"="">
+<meta name="rating" content="General">
 <meta name="category" content="Sports Social Network">
 <meta name="author" content="MVPSpot.com">
 
-     <link href="/user/style.css" rel="stylesheet" type="text/css">
-    <title>Create your profile and show the world your highlights. Show Us Your Stuff! - MVPSpot.com - Your Sport. Your Spotlight.</title>
-    <script language="javascript" src="/js/main.js"></script>    <script language="javascript">
+    <link href="/public/styles/style.css.php" rel="stylesheet" type="text/css">
+	<link href="/public/styles/nutrition/additional.css.php" rel="stylesheet" type="text/css">
+    <script language="javascript">
+
+    prev='';
+    function hide_prev(id)
+    {
+        if (prev!='')
+            document.getElementById(prev).style.display='none';
+
+        document.getElementById(id).style.display='block';
+        prev=id;
+    }
+
+
+    function menu_hide()
+    {
+        document.getElementById('HomeSubmenu').style.display='none';
+        document.getElementById('DiscussSubmenu').style.display='none';
+        document.getElementById('MediaSubmenu').style.display='none';
+        document.getElementById('PeopleSubmenu').style.display='none';
+    }
+
+  </script>
+    <link rel="shortcut icon" href="/favicon.ico">
+<script src="/public/js/jquery.js"></script><script language="javascript" src="/public/js/lib.js"></script></head>
 
 
 
-		function ChangeItem(newitem)
-		{
-			if(newitem == 'image')
-			{
-				document.getElementById('image_box').style.display = 'block';
-				document.getElementById('video_box').style.display = 'none';
-			}
-			else
-			{
-				document.getElementById('image_box').style.display = 'none';
-				document.getElementById('video_box').style.display = 'block';
-			}
-		}
-
-
-		function InsertVideo(mediaId, categoryId, userId)
-		{
-			url = "http://mvpspot.com/user/output.swf";
-			if(mediaId > 0)
-				url = url + "?autoplay=0&mediaId=" + mediaId;
-			else
-				url = url + "?autoplay=0";
-			if(categoryId > 0)
-				url = url + "&categoryId=" + categoryId;
-			if(userId > 0)
-				url = url + "&userId=" + userId;
-			if(categoryId == -1)
-				url = url + "&categoryId=-1";
-			var so = new SWFObject(url, "MVPPlayer", "520", "420", "8", "#FFFFFF");
-			so.addParam("wmode", "transparent");
-			so.write("MVPPlayerContainer");
-		}
-
-		function trackPlayerMedia(id)
-		{
-			if(!id)
-				return;
-			onreadystatechange = function(result, errors) {
-				top.document.getElementById('RatingContainer').innerHTML = result.html;
-			}
-			JsHttpRequest.query('/ajax/rate.php?action=refresh&id=' + id, {'media_id' : id, 'media_type' : 'video'}, onreadystatechange, true);
-
-			onreadystatechange = function(result, errors) {
-				top.document.getElementById('VideoTitle').innerHTML = result.title;
-				top.document.getElementById('VideoDate').innerHTML = 'Posted: ' + result.date;
-			}
-			JsHttpRequest.query('/ajax/rate.php?action=getinfo', {'media_id' : id, 'media_type' : 'video'}, onreadystatechange, true);
-
-		}
-	
-	</script>
-</head>
 
 <body>
 
 <div id="global_container" class="global_container">
 
- <script language="javascript">
-
-		function PostComment()
-		{
-			            //document.getElementById('post_comment').style.display="block";
-				document.location.href='/signup.php';
-					}
-        prev='';
-        function hide_prev(id)
-        {
-
-        if (prev!='')
-            {document.getElementById(prev).style.display='none';
-
-            }
-        document.getElementById(id).style.display='block';
-        prev=id;
-        }
-
-		function menu_hide()
-
-		{
-		document.getElementById('HomeSubmenu').style.display='none';
-		document.getElementById('DiscussSubmenu').style.display='none';
-		document.getElementById('MediaSubmenu').style.display='none';
-		document.getElementById('PeopleSubmenu').style.display='none';
-	
-		}
-</script>
 <div class="header_container">
 
-	<a href="/"><div class="logo_block">
-		<div class="logo_beta_title" style="color:#FFFFFF !important;text-decoration:none !important;">Beta</div>
-	</div> </a>
+				<div class="header_main_container">
+	<div class="header_bg_sides"></div>
+<div class="header_bg_center">
 
-			<div class="header_right_part_container">
-
-<div class="header_top_right_part">
-
-	<div class="header_top_right_part_left">
-
-	<div class="header_sign_or_reg">
-     <strong>Already a Member? <a href="/signin.php">Login</a></strong>    </div>
-	<div><img src="images/slogan.gif" alt=""></div>
-
+<div class="header_logo_container">
+	<div class="header_logo" onclick="location.href='/index';">
+	<div class="header_logo_beta_container"><strong class="header_logo_beta_title">Beta</strong></div>
 	</div>
+</div>
 
-<div class="header_top_right_part_right">
-	<table class="header_menu_table">
-		<tbody><tr>
-			<td class="header_menu_top_left" onmouseout="menu_hide()"></td>
-				<td class="header_menu_top_center">
-    <a href="/" class="header_home" onmouseover="hide_prev('HomeSubmenu');"><img src="/user/images/home.gif" alt=""></a>
-
-<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/people.php" class="header_people" onmouseover="hide_prev('PeopleSubmenu');"><img src="/user/images/people.gif" alt=""></a>
-
-<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/news.php" class="header_discuss" onmouseover="hide_prev('DiscussSubmenu');"><img src="/user/images/discuss.gif" alt=""></a>
-
-<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/media.php" class="header_media" onmouseover="hide_prev('MediaSubmenu');"><img src="/user/images/media.gif" alt=""></a>
+<div class="header_right_side_container">
 
 
+		<div class="header_login_container">
+	<div class="header_login_username_container"><strong class="header_login_username_text">Already a Member?  | </strong><a href="/user/auth/signin" class="header_login_username_text">Login</a></div>
+		</div>
 
+<div class="cleaner"><!-- --></div>
+
+	<div class="header_menu_container">
+
+	<div class="header_menu">
+
+    <div class="hp_menu_container hp_m_c_home" id="home" onmouseover="show_menu('home');tohide='home';" onmouseout="hide_menu();return false;">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="hp_menu_center_sides"></td>
+                <td class="hp_menu_center_center">
+                <a href="/service/static/teamgive/" class="hp_menu_link">Team Give Program</a>
+                <a href="/service/static/nutrition/" class="hp_menu_link hp_m_link_last">Training &amp; Nutrition</a>
+                </td>
+            <td class="hp_menu_center_sides hp_m_center_right"></td>
+        </tr>
+        <tr>
+            <td class="hp_menu_bottom_sides"></td>
+                <td class="hp_menu_bottom_center"></td>
+            <td class="hp_m_bottom_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+<div class="hp_menu_container hp_m_c_profile" id="profile" onmouseover="show_menu('profile');tohide='profile';" onmouseout="hide_menu();return false;">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="hp_menu_center_sides"></td>
+                <td class="hp_menu_center_center">
+                <a href="/user/profile/personalinfo/" class="hp_menu_link">Edit Profile</a>
+                <a href="/user/message/list/inboxType/inbox" class="hp_menu_link">Inbox</a>
+                <a href="/user/profile/settings" class="hp_menu_link">Account Settings</a>
+                <a href="/user/profile/index/UserID/" class="hp_menu_link hp_m_link_last">View Profile</a>
+                </td>
+            <td class="hp_menu_center_sides hp_m_center_right"></td>
+        </tr>
+        <tr>
+            <td class="hp_menu_bottom_sides"></td>
+                <td class="hp_menu_bottom_center"></td>
+            <td class="hp_m_bottom_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+<div class="hp_menu_container hp_m_c_browse" id="browse" onmouseover="show_menu('browse');tohide='browse';" onmouseout="hide_menu();return false;">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="hp_menu_center_sides"></td>
+                <td class="hp_menu_center_center">
+                <a href="/user/people/" class="hp_menu_link">People</a>
+                <a href="/user/friends/show/userID/" class="hp_menu_link">Friends</a>
+                <a href="/user/groups/" class="hp_menu_link">Groups</a>
+                <a href="/user/team/view/" class="hp_menu_link hp_m_link_last">Teams</a>
+                </td>
+            <td class="hp_menu_center_sides hp_m_center_right"></td>
+        </tr>
+        <tr>
+            <td class="hp_menu_bottom_sides"></td>
+                <td class="hp_menu_bottom_center"></td>
+            <td class="hp_m_bottom_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+<div class="hp_menu_container hp_m_c_photos" id="photos" onmouseover="show_menu('photos');tohide='photos';" onmouseout="hide_menu();return false;">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="hp_menu_center_sides"></td>
+                <td class="hp_menu_center_center">
+                <a href="/user/image/list/sort/featured/" class="hp_menu_link">Featured Photos</a>
+                <a href="/user/image/list/sort/latest/" class="hp_menu_link">Latest Photos</a>
+                <a href="/user/image/list/sort/popular/" class="hp_menu_link">Most Popular</a>
+                <a href="/user/image/" class="hp_menu_link hp_m_link_last">My Photos</a>
+                </td>
+            <td class="hp_menu_center_sides hp_m_center_right"></td>
+        </tr>
+        <tr>
+            <td class="hp_menu_bottom_sides"></td>
+                <td class="hp_menu_bottom_center"></td>
+            <td class="hp_m_bottom_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+<div class="hp_menu_container hp_m_c_videos" id="videos">
+    <div onmouseover="show_menu('videos');tohide='videos';" onmouseout="hide_menu();return false;">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="hp_menu_center_sides"></td>
+                <td class="hp_menu_center_center">
+                <a href="/user/video/list/sort/featured/" class="hp_menu_link">Featured Videos</a>
+                <a href="/user/video/list/sort/latest/" class="hp_menu_link">Latest Videos</a>
+                <a href="/user/video/list/sort/popular/" class="hp_menu_link">Most Popular</a>
+                <a href="/user/video/index/" class="hp_menu_link hp_m_link_last">My Videos</a>
+                </td>
+            <td class="hp_menu_center_sides hp_m_center_right"></td>
+        </tr>
+        <tr>
+            <td class="hp_menu_bottom_sides"></td>
+                <td class="hp_menu_bottom_center"></td>
+            <td class="hp_m_bottom_right"></td>
+        </tr>
+    </tbody></table>
+    </div>
+</div>
+
+
+<!-- <div class="hp_menu_container hp_m_c_home" id="home">
+	<table class="table_100p_fixed">
+		<tr>
+			<td class="hp_menu_center_sides"></td>
+				<td class="hp_menu_center_center">
+				<a href="#" class="hp_menu_link">Team Give Program</a>
+				<a href="#" class="hp_menu_link hp_m_link_last">Training & Nutrition</a>
 				</td>
-			<td class="header_menu_top_right" onmouseout="menu_hide()"></td>
+			<td class="hp_menu_center_sides hp_m_center_right"></td>
 		</tr>
 		<tr>
-			<td class="header_menu_bottom_left"></td>
-				<td class="header_menu_bottom_center"></td>
-			<td class="header_menu_bottom_right"></td>
+			<td class="hp_menu_bottom_sides"></td>
+				<td class="hp_menu_bottom_center"></td>
+			<td class="hp_m_bottom_right"></td>
 		</tr>
-	</tbody></table>
+	</table>
+</div>
+
+<div class="hp_menu_container hp_m_c_profile" id="profile">
+	<table class="table_100p_fixed">
+		<tr>
+			<td class="hp_menu_center_sides"></td>
+				<td class="hp_menu_center_center">
+				<a href="#" class="hp_menu_link">Edit Profile</a>
+				<a href="#" class="hp_menu_link">Inbox</a>
+				<a href="#" class="hp_menu_link">Account Settings</a>
+				<a href="#" class="hp_menu_link hp_m_link_last">View Profile</a>
+				</td>
+			<td class="hp_menu_center_sides hp_m_center_right"></td>
+		</tr>
+		<tr>
+			<td class="hp_menu_bottom_sides"></td>
+				<td class="hp_menu_bottom_center"></td>
+			<td class="hp_m_bottom_right"></td>
+		</tr>
+	</table>
+</div>
+
+<div class="hp_menu_container hp_m_c_browse" id="browse">
+	<table class="table_100p_fixed">
+		<tr>
+			<td class="hp_menu_center_sides"></td>
+				<td class="hp_menu_center_center">
+				<a href="#" class="hp_menu_link">People</a>
+				<a href="#" class="hp_menu_link">Friends</a>
+				<a href="#" class="hp_menu_link hp_m_link_last">Groups</a>
+				</td>
+			<td class="hp_menu_center_sides hp_m_center_right"></td>
+		</tr>
+		<tr>
+			<td class="hp_menu_bottom_sides"></td>
+				<td class="hp_menu_bottom_center"></td>
+			<td class="hp_m_bottom_right"></td>
+		</tr>
+	</table>
+</div>
+
+<div class="hp_menu_container hp_m_c_photos" id="photos">
+	<table class="table_100p_fixed">
+		<tr>
+			<td class="hp_menu_center_sides"></td>
+				<td class="hp_menu_center_center">
+				<a href="#" class="hp_menu_link">Featured Photos</a>
+				<a href="#" class="hp_menu_link">Newest Photos</a>
+				<a href="#" class="hp_menu_link">Most Popular</a>
+				<a href="#" class="hp_menu_link hp_m_link_last">My Photos</a>
+				</td>
+			<td class="hp_menu_center_sides hp_m_center_right"></td>
+		</tr>
+		<tr>
+			<td class="hp_menu_bottom_sides"></td>
+				<td class="hp_menu_bottom_center"></td>
+			<td class="hp_m_bottom_right"></td>
+		</tr>
+	</table>
+</div>
+
+<div class="hp_menu_container hp_m_c_videos" id="videos">
+	<table class="table_100p_fixed">
+		<tr>
+			<td class="hp_menu_center_sides"></td>
+				<td class="hp_menu_center_center">
+				<a href="#" class="hp_menu_link">Featured Videos</a>
+				<a href="#" class="hp_menu_link">Newest Videos</a>
+				<a href="#" class="hp_menu_link">Most Popular</a>
+				<a href="#" class="hp_menu_link hp_m_link_last">My Videos</a>
+				</td>
+			<td class="hp_menu_center_sides hp_m_center_right"></td>
+		</tr>
+		<tr>
+			<td class="hp_menu_bottom_sides"></td>
+				<td class="hp_menu_bottom_center"></td>
+			<td class="hp_m_bottom_right"></td>
+		</tr>
+	</table>
+</div> -->
 
 
-<div class="absolute_submenu_container" style="margin-top: -8px; display: none;" id="HomeSubmenu" onmouseout="document.getElementById('HomeSubmenu').style.display='none'" onmouseover="document.getElementById('HomeSubmenu').style.display='block';">
-<div class="absolute_submenu_bg"><!-- --></div>
-	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('HomeSubmenu');">
 
-        <div class="absolute_submenu_link_container">
-			        <a href="/signup.php?profile">Edit Profile</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php?inbox">Inbox</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php?account">Account Settings</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php?view">View Profile</a>
-		            </div>
+<script language="javascript">
+
+prev="";
+
+function show_menu(id)
+{
+if (prev!='')
+document.getElementById(prev).style.display='none';
+document.getElementById(id).style.display='block';
+prev = id;
+
+}
+tohide='';
+function hide_menu()
+{
+if (tohide!='')
+document.getElementById(tohide).style.display='none';
+}
+
+
+
+function hide_feedback_bubble()
+{
+    feedback_is_hidden = 1;
+    $('#feedback_info_popup').hide('slow');
+    $.post('/service/helper/shownofeedbackbubble/',{});
+    
+}
+
+
+var feedback_is_hidden = 0;
+
+function hide_beedback_bubble_temp()
+{
+
+    if(feedback_is_hidden == 0)
+    $('#feedback_info_popup').hide('slow');
+
+}
+
+
+</script>
+
+
+
+        <a href="/index" class="header_menu_link" onmouseover="show_menu('home');return false;">Home</a>
+        <a href="/user/auth/signin" class="header_menu_link h_m_l_profile" onmouseover="show_menu('profile');return false;">Profile</a>
+        <a href="/user/people/show" class="header_menu_link h_m_l_browse" onmouseover="show_menu('browse');return false;">Browse</a>
+        <a href="/user/image/list/sort/popular" class="header_menu_link h_m_l_photos" onmouseover="show_menu('photos');return false;">Photos</a>
+        <a href="/user/video/list" class="header_menu_link h_m_l_videos" onmouseover="show_menu('videos');return false;">Videos</a>
+		<a href="#TB_inline?height=350&amp;width=373&amp;inlineId=send_feedback&amp;modal=true" class="thickbox header_menu_link h_m_l_feedback">Feedback</a>
+
+		<!-- <a href="/index" class="header_menu_link" onmouseover="document.getElementById('home').style.display='block';">Home</a>
+			<a href="/user/auth/signin" class="header_menu_link h_m_l_profile" onmouseover="document.getElementById('profile').style.display='block';">Profile</a>
+				<a href="/user/people/show" class="header_menu_link h_m_l_browse" onmouseover="document.getElementById('browse').style.display='block';">Browse</a>
+			<a href="/user/image/list/sort/popular" class="header_menu_link h_m_l_photos" onmouseover="document.getElementById('photos').style.display='block';">Photos</a>
+		<a href="/user/video/list" class="header_menu_link h_m_l_videos" onmouseover="document.getElementById('videos').style.display='block';">Videos</a> -->
+	</div>
 
 	</div>
 
+
+
+		<div class="header_bottom_right">
+
+		<div class="header_bottom_spotlight_container"><div class="header_bottom_spotlight"></div></div>
+
+			<div class="header_search_container">
+			<form name="globalSearch" id="globalSearch" action="/user/search/people" method="POST">
+			<input type="text" alt="" name="searchString" class="header_search_field">
+
+				<div class="header_searchbutton_container">
+					<div class="header_searchbutton_sides"></div>
+						<div class="header_searchbutton_right">
+						<a href="#" class="header_searchbutton_link" onclick="$('#globalSearch').submit();return false;" id="SearchNormal">Search</a>
+						</div>
+					<div class="header_searchbutton_sides h_sb_right"></div>
+				</div>
+			</form>
+			</div>
+
+			<div class="cleaner"><!-- --></div>
+
+		</div>
+
+			<div class="cleaner"><!-- --></div>
 </div>
 
-
-<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 66px;" id="PeopleSubmenu" onmouseout="document.getElementById('PeopleSubmenu').style.display='none'" onmouseover="document.getElementById('PeopleSubmenu').style.display='block';">
-<div class="absolute_submenu_bg"><!-- --></div>
-	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('PeopleSubmenu');">
-
-        <div class="absolute_submenu_link_container">
-			        <a href="/user/network.php">Friends</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/user/people.php">Search People</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/user/groups.php">Groups</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/user/quickinvite.php">Quick Invite</a>
-		            </div>
-
-	</div>
-
+			<div class="cleaner"><!-- --></div>
 </div>
+				</div>
+
+	<div class="header_bg_sides header_bg_right"></div>
+			<div class="cleaner"><!-- --></div>
 
 
-
-<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 132px;" id="DiscussSubmenu" onmouseout="document.getElementById('DiscussSubmenu').style.display='none'" onmouseover="document.getElementById('DiscussSubmenu').style.display='block';">
- <div class="absolute_submenu_bg"><!-- --></div>
-	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('DiscussSubmenu');">
-
-         <div class="absolute_submenu_link_container">
-			        <a href="/user/team_give.php">Team Give</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/user/news.php">Latest News</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php"><nobr>My Playbook</nobr></a>
-		            </div>
-	</div>
-
-</div>
-
-
-
-<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 198px;" id="MediaSubmenu" onmouseout="document.getElementById('MediaSubmenu').style.display='none'" onmouseover="document.getElementById('MediaSubmenu').style.display='block';">
-<div class="absolute_submenu_bg"><!-- --></div>
-	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('MediaSubmenu');">
-
-
-          <div class="absolute_submenu_link_container">
-			        <a href="/user/images.php">Photos</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php?photos">Add/Edit Photos</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/user/video.php">Videos</a>
-		            </div><div class="absolute_submenu_link_container">
-			        <a href="/signup.php?videos">Add Videos</a>
-		            </div>
-	</div>
-
-</div>
-
-
-
-</div>
-
-<div class="header_top_menu_separator"><!-- --></div>
+			<div class="header_b_menu_container">
+				<div class="header_b_menu_sides"></div>
+					<div class="header_b_menu_center">
+					<!--table class="table_100p_fixed" >
+						<tr>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Football</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Basketball</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Soccer</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Baseball</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Tennis</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Golf</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Boxing</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Hockey</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Softball</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Volleyball</a></td>
+							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Racing</a></td>
+						</tr>
+					</table-->
+					</div>
+				<div class="header_b_menu_sides h_b_m_right"></div>
+					<div class="cleaner"><!-- --></div>
+			</div>
 
 </div>
 
 
-
-		<div class="header_search_container">
-			  <form name="globalSearch" action="/user/search.php" method="get"> <div class="header_search_input"><input name="search_string" type="text" alt=""></div>
-				<div class="header_search_button" onmouseover="this.style.display='none'; document.getElementById('SearchOver').style.display='block';" id="SearchNormal">
-                </div>
-
-                <div class="header_search_button_over" onclick="document.forms['globalSearch'].submit();return false;" id="SearchOver" style="display: none;" onmouseout="this.style.display='none'; document.getElementById('SearchNormal').style.display='block';"></div>
-
-    			<!--div class="header_search_right">By
-                
-    		<select size="1" name="search_type" style="z-index: -100;width: 90px; height: 22px; text-align:right;">
-    			<option value="user" >&nbsp;Name&nbsp;&nbsp;</option>
-    			<option value="image" >&nbsp;Photos&nbsp;&nbsp;</option>
-    			<option value="video" selected="selected">&nbsp;Videos&nbsp;&nbsp;</option>
-    			<option value="school" >&nbsp;Schools&nbsp;&nbsp;</option>
-            </select>
-
-                </div--> </form>
-	    </div>
-
-</div>
-
-</div>
 <div class="content_container">
 
 <div class="left_side_container">
 
 <div class="left_side_banner_top_title"><strong>Advertisement</strong></div>
-	<div class="left_side_banner_itself"><a href="#"><img src="user/images/espn_banner.png" alt=""></a></div>
+    <div class="left_side_banner_itself">
+                <!-- begin ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+                <iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=510;c=268;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
+                <!-- end ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Wide Skyscraper - 160 x 600 --></div>
 
 </div>
 
 <div class="center_container_account_settings">
 
 
-<div class="acc_set_options_top_center" style="visibility: hidden;">VIEW My:<a href="#">Profile</a>|<a href="#">photos</a>|<a href="#">Videos</a>|<a href="#">friends</a>|<a href="#">BLOG</a>|<a href="#">Groups</a></div>
+<div class="acc_set_options_top_center"><strong>&nbsp;</strong></div>
 
 
 <div class="all_stats_header">
-	<div class="all_stats_username_left"><h1><strong>MVPSpot Privacy Policy</strong></h1></div>
+    <div class="all_stats_username_left"><h1><strong>MVPSpot Privacy Policy</strong></h1></div>
 
 </div>
 
@@ -416,42 +556,262 @@ MVPSpot reserves the right to transfer, sell or assign the information we collec
 
 <div class="acc_set_right_main_container">
 
-	<div class="acc_set_bottom_right_banner">
-		<div class="left_side_banner_top_title">
-		<strong>Advertisement</strong>
-		</div>
-	
-			<a href="#"><img src="user/images/index_right_banner.png" alt="" class="index_right_forms_bottom_banner_itself"></a>
-	</div>
+    <div class="acc_set_bottom_right_banner">
+        <div class="left_side_banner_top_title">
+        <strong>Advertisement</strong>
+        </div>
+
+            
+                <!-- begin ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Medium Rectangle - 300 x 250 -->
+                <iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=510;c=268;s=72;d=9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe>
+                <!-- end ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Medium Rectangle - 300 x 250 -->    </div>
 
 </div>
+
+
+<script type="text/javascript" src="/public/js/thickbox.js"></script>
+<!--script type="text/javascript" src="/public/js/jqbrowser.js"></script-->
+
+<link href="/public/styles/thickbox_gray.css" rel="stylesheet" type="text/css">
+
+<script language="javascript">
+
+
+
+function feedback_submit()
+    {
+       
+        var error=0;
+
+                            if($('#f_your_name').val()=='' )
+                {
+                    error=1;
+                    $('#f_name_err').html('Type in Your Name');
+                }
+                else
+                {
+                    error=0;
+                    $('#f_name_err').html('');
+                }
+
+               /* if($('#f_your_email').val()=='' )
+                {
+                    error=1;
+                    $('#f_email_err').html('Type in Your Email');
+                }
+                else
+                {
+                    error=0;
+                    $('#f_email_err').html('');
+                }*/
+            
+            
+        if($('#f_message').val()=='' )
+        {
+            error=1;
+            $('#f_message_err').html('Type in Your Message');
+        }
+        else
+            {
+                error=0;
+                $('#f_message_err').html('');
+            }
+
+        if(error==0)
+        {
+            send_feedback();
+        }
+
+    }
+
+function send_feedback()
+{
+    html = $('#global_container').html();
+    f_ID = $('#f_ID').val();
+    f_your_name = $('#f_your_name').val();
+         f_your_email = $('#f_your_email').val();
+    
+    f_message = $('#f_message').val();
+    f_href = location.href;
+    b_version ='';
+    b_name ='';
+
+    browser_name = ''; //($.browser.browser() +" "+ $.browser.version.number());
+    os = '';//$.browser.OS();
+    
+
+
+   $.post(
+            '/feedback/set/',
+            {
+                ID: f_ID,
+                html: html,
+                your_name: f_your_name,
+                                    your_email: f_your_email,
+                                    message: f_message,
+                Userhref: f_href,
+                browser_stats: browser_name,
+                Useros: os,
+                design: 'old'
+
+                
+            },onFeedbackSuccess
+
+          );
+
+}
+function onFeedbackSuccess(data)
+{
+   // text = data;
+
+   if(data == 'success')
+        {
+        text = 'Your message has been succesfully sent. Thank you. ';
+        setTimeout('tb_remove();',2000);
+        $('#f_message').val('');
+        $('#result_div').css({color: '#5c8842'});
+        }
+    else
+        {
+        text = 'Your message has not been sent. Try again later. ';
+        $('#result_div').css({color: '#cb2b2b'});
+        $('#result_div').css({color: '#5c8842'});
+        }
+   if(data == 'email_error')
+         $('#f_email_err').html('The email is incorrect.');
+   else
+        $('#f_email_err').html('');
+        
+   $('#result_div').html(text);
+    
+
+    
+
+}
+
+        
+
+
+        </script>
+
+
+
+<div id="send_feedback" class="center_right_comments_left_pic" style="width: 100%; height: 100%; display: none;">
+
+    <div style="padding: 0px 0px 0px 0px;">
+	
+<div class="all_stats_header">
+    <div class="all_stats_username_left" style="padding-left: 7px; padding-top: 7px;"><h1><strong>MVPSpot Feedback</strong></h1></div>
+</div>
+
+
+<div class="edit_friends_content_container" style="padding: 6px 0px 5px 18px;">
+
+        <table class="main_inline_content_container_table">
+           <tbody><tr>
+                <td>
+				<div id="friends_list">
+
+<form name="feedback_form" id="feedback_form" action="" method="post">
+
+                                            <table class="table_100p_fixed">
+                                                <tbody><tr>
+                                                    
+                                                    <td>
+                                                    <div style="float: none; clear: both">
+                                                        <strong class="index_right_regular_join_text">Your name</strong><br>
+                                                         
+                                                                    <input type="text" class="blog_create_long_input" style="width: 164px;" name="f_your_name" id="f_your_name">
+																	<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
+																	<strong id="f_name_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
+																	<div style="clear: both; height: 6px; font-size: 0px; line-height: 0px;"><!-- --></div>	
+                                                                    <strong class="index_right_regular_join_text">Your email (optional)</strong>
+                                                                    <br>
+                                                                    <input type="text" class="blog_create_long_input" style="width: 164px;" name="f_your_email" id="f_your_email">
+                                                                    <input type="hidden" class="n_s_def_input" style="width: 164px;" name="f_ID" id="f_ID" value="0">
+																	<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
+                                                                    <strong id="f_email_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
+                                                                                                                    </div>
+
+                                                    <div style="padding: 7px 0px 0px 0px;">
+                                                        <strong class="index_right_regular_join_text">Your message</strong><br>
+                                                        <textarea cols="" rows="" class="edit_profile_personal_default_textarea" style="width: 330px;" name="f_message" id="f_message"></textarea>
+														<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
+                                                        <strong id="f_message_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
+                                                    </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+
+											<div style="float: right; padding: 15px 18px 0px 0px;">
+												<a href="javascript:void(0);" onclick="tb_remove();"><img src="http://static.mvpspot.com/public/images/user/cancel_button.png" alt=""></a>
+												<a href="javascript:void(0);" onclick="feedback_submit();return false;" style="margin-left: 10px;"><img src="http://static.mvpspot.com/public/images/user/save_button.png" alt=""></a>
+
+                                            </div>
+                											
+											<div style="clear: both; height: 6px; font-size: 0px; line-height: 0px;"><!-- --></div>	
+				                                            <div class="index_right_regular_join_text" style="color: #cb2b2b;" id="result_div"></div>
+                                            </form>
+                                            
+				
+                   </div>
+				</td>
+                </tr>
+        </tbody></table>
+
+</div>
+
+
+    
+</div>
+
+
+
+
+  </div>
 
 
 
 <div class="footer_main_container">
-	<a href="/about.php" class="footer_menu_link">About MVPSpot</a>|<a href="/contact.php" class="footer_menu_link">Contact Information</a>|<a href="/privacy.php" class="footer_menu_link">Privacy Policy</a>|<a href="/terms.php" class="footer_menu_link">Terms &amp; Conditions</a>|<a href="/help.php" class="footer_menu_link">HELP!</a><!--a href="" class="footer_menu_link">Submit a Video</a-->
+    <a href="/service/static/about" class="footer_menu_link">About MVPSpot</a>|
+    <a href="/service/static/contactNotExisting" class="footer_menu_link">Contact Information</a>|
+    <a href="/service/static/privacyp" class="footer_menu_link">Privacy Policy</a>|
+    <a href="/service/static/terms" class="footer_menu_link">Terms &amp; Conditions</a>|
+    <a href="/service/static/help" class="footer_menu_link">HELP!</a>|
+    <a href="#TB_inline?height=350&amp;width=373&amp;inlineId=send_feedback&amp;modal=true" class="thickbox footer_menu_link">Feedback</a>
 
-	<strong class="footer_copyright">© 2008 MVPSpot, INC.</strong>
+    <strong class="footer_copyright">© 2008 MVPSpot, INC.</strong>
 
-	<a href="/user/rss.php"><img src="/user/images/rss_icon.png" alt="" class="footer_rss_icon"></a>
+    <!--<a href="/user/rss"><img src="http://static.mvpspot.com/public/images/user/rss_icon.png" alt="" class="footer_rss_icon" /></a> -->
 </div>
 
 
 
 
+
+
+
 </div>
-	</div>
+    </div>
 
 
 <!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js" ;=""></script>
+ <script type="text/javascript" src="http://edge.quantserve.com/quant.js" ;=""></script>
 <script type="text/javascript">_qacct="p-c3dJ1YYWL1WIU";quantserve();</script>
 <noscript>
 <a href=" http://www.quantcast.com/p-c3dJ1YYWL1WIU"; target="_blank"><img src=" http://pixel.quantserve.com/pixel/p-c3dJ1YYWL1WIU.gif"; style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-2869392-1";urchinTracker();</script>
+
+
+
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+        <script type="text/javascript">_uacct = "UA-2869392-1";urchinTracker();</script>
+
+        <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> var pageTracker = _gat._getTracker("UA-2869392-1"); pageTracker._trackPageview(); </script>
+        
+        
+
 
 
 </body></html>
