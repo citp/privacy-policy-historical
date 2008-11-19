@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumpbox.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229160400id_/http%3A//www.thumpbox.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumpbox.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119145749id_/http%3A//www.thumpbox.com/privacy.htm) for the most accurate reproduction.*
 
 # ThumpBox.com - Privacy Policy
 
