@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmad.net privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721012359id_/http%3A//www.blogmad.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmad.net privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121004214id_/http%3A//www.blogmad.net/privacy.php) for the most accurate reproduction.*
 
 # Blog Mad - the Blog Traffic Exchange // BETA
 
