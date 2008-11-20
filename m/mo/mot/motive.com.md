@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192207id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120121208id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,5 +86,3 @@ Austin, Texas 78759-2247
 If you have a privacy concern regarding Motive or this policy and if you cannot satisfactorily resolve it through the use of this web site you should then write to: [privacy@motive.com](mailto:privacy@motive.com). In the event that we are still unable to resolve your concerns Motive is committed to cooperating to achieve a proper resolution of your privacy concerns. 
 
 [Last Updated: 09/07/2006]
-
-Copyright © 2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express written consent of Motive. Please read our [privacy policy](https://web.archive.org/privacy.asp) and [recent security bulletin](https://web.archive.org/securitybulletin_08122007.asp). 
