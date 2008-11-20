@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616184251id_/http%3A//secure.jamesavery.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120061055id_/http%3A//www.jamesavery.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - James Avery Jewelry
 
