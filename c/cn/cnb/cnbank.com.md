@@ -1,19 +1,51 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608060252id_/http%3A//www.cnbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120070802id_/http%3A//www.cnbank.com/privacy.asp) for the most accurate reproduction.*
 
-# Canandaigua National Bank and Trust | Privacy Policy
+# Privacy Policy - Canandaigua National Corporation
 
-### Canandaigua National Corporation  
-Privacy Policy Notice
-
-Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 119 years, respecting and protecting customer privacy has been vital to our business. 
+Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 120 years, respecting and protecting customer privacy has been vital to our business.
 
 **Our Security Procedures**  
-We are committed to the privacy of customer information and will use strict security standards to safeguard it. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. All of Canandaigua National Corporation and our family of financial service companies are governed by a code of conduct that includes the commitment to protect the confidentiality of customer information. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
+We are committed to the privacy of customer information and will use strict security standards to safeguard it. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. All of Canandaigua National Corporation and our family of financial service companies are governed by a code of conduct that includes the commitment to protect the confidentiality of customer information. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We are equally committed to protecting the privacy of customer information on the Internet. For information on the Internet security measures we apply, refer to the _Internet Security at Canandaigua National Bank and Trust: What You Should Know_ section below. 
+
+**What Information We Collect**  
+We collect only information that is needed to serve you and administer our business. In the process of serving you, we may collect "nonpublic personal information"-information about you that is not available publicly. This information comes to us from various sources, including:
+
+  * Information we receive from you on applications or other loan and account forms;
+  * Information related to your transactions with us, our family of financial services companies listed below (affiliates) or others; and
+  * Information we receive from third parties such as credit bureaus.
+
+
+
+**What Information We Disclose**  
+We are permitted under law to share information about our experiences or transactions with you or your account (such as your account balance and your payment history with us) with companies related to us by common control or ownership (affiliates). We also may share additional information about you or your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. 
+
+You may instruct Canandaigua National Corporation not to share information (other than information related to account history and our experiences with you) within the Canandaigua National Corporation family of financial service companies, and to limit marketing offers based on this personal information, by calling us toll free at 1-800-724-2621.
+
+We may also disclose all of the information we collect, as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with which we have joint marketing agreements.
+
+We also are permitted under law to disclose nonpublic personal information about you to nonaffiliated third parties (i.e., third parties that are not members of our corporate family) in limited circumstances. For example, we may disclose nonpublic personal information about you to such third parties to assist us in servicing your loan or account with us; to government entities in response to subpoenas; and to credit bureaus. We do not disclose any nonpublic personal information about you to any other third parties, except as permitted by law.
+
+If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policy and practices described in this notice.
+
+Canandaigua National Corporation's Privacy Policy and the Fair Credit Reporting Act notice are provided on behalf of the following companies:
+
+  * The Canandaigua National Bank and Trust Company
+  * CNB Mortgage Company
+  * CNB Insurance Agency
+
+
+
+Canandaigua National Corporation   
+72 South Main Street  
+Canandaigua, New York 14424  
+1-800-724-2621  
+www.cnbank.com  
+
+
+**Internet Security at Canandaigua National Bank and Trust:  
+What You Should Know**
 
 We are equally committed to protecting the privacy of customer information on the Internet. 
-
-### Internet Security at Canandaigua National Bank and Trust:  
-What You Should Know
 
 Protecting the financial transactions of our customers is of the highest importance for Canandaigua National Bank's Internet banking service. Canandaigua National Bank's security architecture uses several layers of technology to ensure the confidentiality of transactions across the Internet, but also depends on the vigilance of our customers in viewing their transactions and immediately reporting any discrepancies.
 
@@ -33,8 +65,8 @@ Canandaigua National Bank will continually look for new advances in security tec
 
 In addition, we encourage our customers to learn more about Internet Security and Electronic commerce at a representative sample of sites listed below: 
 
-  * Microsoft Security
-  * Federal Trade Commission - Consumer Guide to E-Commerce & the Internet  
+  * [Microsoft Security](https://web.archive.org/leaving.asp?link=microsoftsecurity)
+  * [Federal Trade Commission - Consumer Guide to E-Commerce & the Internet](https://web.archive.org/leaving.asp?link=http%3A%2F%2Fwww.ftc.gov%2Fbcp%2Fmenus%2Fconsumer%2Ftech.shtm)  
 
 
 
@@ -44,39 +76,3 @@ Canandaigua National Bank and Trust
 72 S. Main Street  
 Canandaigua, NY 14424  
 (585) 394-4260 or 1-800-724-2621
-
-**What Information We Collect**  
-We collect only information that is needed to serve you and administer our business. In the process of serving you, we may collect "nonpublic personal information"-information about you that is not available publicly. This information comes to us from various sources, including:
-
-  * Information we receive from you on applications or other loan and account forms;
-  * Information related to your transactions with us, our family of financial services companies listed below (affiliates) or others; and
-  * Information we receive from third parties such as credit bureaus.
-
-
-
-**What Information We Disclose**  
-We are permitted under law to share information about our experiences or transactions with you or your account (such as your account balance and your payment history with us) with companies related to us by common control or ownership (affiliates). We also may share additional information about you or your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. 
-
-You may instruct Canandaigua National Corporation not to share information (other than information related to account history and our experiences with you) within the Canandaigua National Corporation family of financial service companies, by calling us toll free at 1-800-724-2621.
-
-We may also disclose all of the information we collect, as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with which we have joint marketing agreements.
-
-We also are permitted under law to disclose nonpublic personal information about you to nonaffiliated third parties (i.e., third parties that are not members of our corporate family) in limited circumstances. For example, we may disclose nonpublic personal information about you to such third parties to assist us in servicing your loan or account with us; to government entities in response to subpoenas; and to credit bureaus. We do not disclose any nonpublic personal information about you to any other third parties, except as permitted by law.
-
-If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policy and practices described in this notice.
-
-Canandaigua National Corporation's Privacy Policy and the Fair Credit Reporting Act notice are provided on behalf of the following companies:
-
-  * The Canandaigua National Bank and Trust Company
-  * CNB Mortgage Company
-  * CNB Insurance Agency
-  * CNB Mortgage Company
-
-
-
-Canandaigua National Corporation   
-72 South Main Street  
-Canandaigua, New York 14424  
-1-800-724-2621  
-www.cnbank.com  
-
