@@ -1,76 +1,48 @@
-> *The following text is extracted and transformed from the articlegallery.net privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029195813id_/http%3A//articlegallery.net/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegallery.net privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120094201id_/http%3A//www.articlegallery.net/privacy.php) for the most accurate reproduction.*
 
-# ArticleGallery.net - Free Article Directory. Find Articles, Submit Articles – All for Free!
+# Article Gallery | Privacy Statement
 
-[](https://tools.obopay.com/buttons/?type=affiliate&amount=10&receiver=v2SDPHCry%252FNPgYcSf6O%252BF0gjWoIZljhl4vu8skWUhDJfwwy%252FLbQoTfIN5Q82%250ANEDGlgYMvdxPBSUR4UMeoz1rj956xdlYR2qWG6AspW7EAj5FOq5vkC4tux8x%250Ax9%252B%252FASp9)
+**Article Gallery** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-[](http://www.articlegallery.net/directorysubmitter.htm)
+**How we gather information from users**
 
-[](http://www.greetinggallery.com/freetraffic.htm)
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, **Article Gallery** also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-Great products, scripts,  
-tools and tips, visit:  
-[**GreetingGallery.com**](http://www.greetinggallery.com/)
+**What we do with the information we collect**
 
-Want to publish more articles?  
-[ YourOwnArticles.com](http://www.xodomarketing.com/amember/go.php?r=9279&i=l0)
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-Need Leads? Who doesn’t!  
-[ LeadsMonthly.com](http://www.xodomarketing.com/amember/go.php?r=9279&i=l11)
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-[ FREE Article Marketing Course](http://www.xodomarketing.com/amember/go.php?r=9279&i=l1)
+We may use Personally Identifiable Information collected on www.articlegallery.net to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.articlegallery.net and other topics we think you might find of interest. 
 
-[](http://www.onlinecashexplosion.com/)
+Personally Identifiable Information collected by **Article Gallery** may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-**Want a fully automated  
-turnkey website?  
-[ Get it here...FREE!](http://www.pluginprofitsite.com/main-17060)**
+**Affiliated sites, linked sites and advertisements**
 
-Need a website host?  
-How about one that  
-pays you back?  
-[](http://www.host4profit.com/cgi-bin/home.cgi?94245)
+**Article Gallery** expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.articlegallery.net page, certain content that is actually created or hosted by a third party. Also, through **Article Gallery** you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. **Article Gallery** is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-For the best poetry around,  
-come visit the Underground...  
-[](http://www.undergroundpoets.org/)
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. **Article Gallery** does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-[Get a FREE Classified Ad Portal!](http://www.articlegallery.net/adlandpro.htm)
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of **Article Gallery** and this policy. 
 
-[ The Best FREE Advertising](http://www.greetinggallery.com/freetraffic.htm)
+**Children**
 
-[](http://www.onlinecashexplosion.com/)  
-[ Grab a PlugInProfit site FREE!](http://www.pluginprofitsite.com/main-17060)
+**Article Gallery** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe **Article Gallery** has any information from or about anyone under 13, please contact us at the address listed below. 
 
-[ Get a swarm of traffic for FREE!](http://www.trafficswarm.com/go.cgi?654865)
+**Contacting Us**
 
-[6 million people can send you $6](http://www.trafficswarm.com/cgi-bin/swarm.cgi?654865)
+We can be reached by visiting our support dest at:  
+[The Gallery Sites Support Desk](http://support.thegallerysites.com/). 
 
-[](http://www.greetinggallery.com/Dealdotcom.htm)
+**Changes to this Policy**
 
-[](http://www.articlegallery.net/CBglobe/)
+**Article Gallery** reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-[Do you sell on eBay?  
-](http://www.articlegallery.net/FreeEbayListings)
+**Governing law**
 
-[](http://www.articlegallery.net/FreeEbayListings)[](http://www.articlegallery.net/recommends/MentorshipMonthly)
+This policy and the use of this Site are governed by State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-[Earn $$ from Google  
-](http://www.articlegallery.net/Hypervre/)
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-|    
-[](http://tellafriendgenerator.com/tellafriend.asp?y=1635607&id=img39.gif)
-
-**Privacy Policy**
-
-**General**. **_ArticleGallery.net_** sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which **_ArticleGallery.net_** collects, uses, and discloses the personal information provided by you as a result of the use of our directory and the content, information and services provided through this website.
-
-**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL [WWW.ARTICLEGALLERY.NET](http://www.articlegallery.net/) AND/OR ANY OTHER SITE PROVIDED BY **_ArticleGallery.net_** (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. _**ArticleGallery.net**_ reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by us will be governed by the version of this Policy in effect at all times. 
-
-**Collection and Use of Information**. In order for you to access certain materials or pages, or to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes deemed appropriate to our Site visitors and potential customers and partners. We will never share this information to any third party, and we do not otherwise provide or sell any information gathered on this Site to outside vendors.
-
-**Use of Cookies**. A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie may be stored on your computer, which automatically identifies you to the Site. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above.  If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
-
-**Hyperlinks**. This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. **_ArticleGallery.net_** has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
-
-In order to assist in protecting the confidentiality of your personal information, **_ArticleGallery.net_** applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, **_ArticleGallery.net_** cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
