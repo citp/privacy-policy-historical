@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2007-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070923065247id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121002650id_/http%3A//stjude.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-This privacy statement applies to St. Jude Children’s Research Hospital and its fund-raising arm, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our online visitors and donors.
+This privacy statement applies to St. Jude Children’s Research Hospital and its fundraising organization, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our online visitors and donors.
 
 This site collects information such as the visitor’s domain name, site traffic patterns, and server usage statistics. This information is used to improve the performance and content of our Web pages and to personalize content and layout of our pages for individual visitors. We do not collect your e-mail address unless you choose to communicate with us via e-mail or you volunteer your e-mail address on a form on this site. We do not sell or rent e-mail addresses.
 
@@ -27,19 +27,21 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 Any changes to our privacy policy will be posted on all sites owned by St. Jude Children’s Research Hospital or ALSAC.
 
-St. Jude Children’s Research Hospital will discontinue contact with any person upon oral or written request.  Write: St. Jude Children’s Research Hospital, Attn: Donor Services, 501 St. Jude Place, Memphis, TN  38105\. Or phone 1-800-822-6344, or e-mail [donors@stjude.org](mailto:donors@stjude.org) .
+St. Jude Children’s Research Hospital will discontinue contact with any person upon oral or written request.  Write: St. Jude Children’s Research Hospital, Attn: Donor Services, 501 St. Jude Place, Memphis, TN  38105\. Or phone 1-800-822-6344, or e-mail [donors@stjude.org](mailto:donors@stjude.org).
 
 If you have any questions about St. Jude Children’s Research Hospital, ALSAC, or our privacy policy, please feel free to contact us at:
 
   
 **St. Jude Children’s Research Hospital**  
 Public Relations  
-332 N. Lauderdale Street  
-Memphis, TN 38105  
-(901) 495-3306  
+262 Danny Thomas Place  
+Memphis, TN 38105-3678  
+(901) 595-3306  
 [privacy@stjude.org](mailto:privacy@stjude.org) | **ALSAC**  
 Communications  
 501 St. Jude Place  
 Memphis, TN 38105  
 [privacy@stjude.org](mailto:privacy@stjude.org)  
----|---
+---|---  
+  
+
