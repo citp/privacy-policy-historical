@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509094014id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120175511id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
 
 # our privacy policy - dslreports.com
 
