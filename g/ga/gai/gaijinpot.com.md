@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513192522id_/http%3A//www.gaijinpot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/privacy.php) for the most accurate reproduction.*
 
 # Jobs in Japan: Advertisement - Jobs - Japan Jobs - Japan Info - Japan Apartments - Japan Classifieds - Japan Forums
 
@@ -42,7 +42,7 @@ Users are also able to disclose personal details to Employers or other types of 
 
 If you would like to confirm/correct/edit/delete your personal information, we will respond to your request as quickly as possible provided the request is reasonable. You are also able to check your information online from the link below:
 
-[http://www.gaijinpot.com/js_overview.php](https://web.archive.org/web/20080513192522id_/http%3A//www.gaijinpot.com/js_overview.php?PHPSESSID=23365aec63850a8c6a414f042cbb2dce)
+[http://www.gaijinpot.com/js_overview.php](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/js_overview.php?PHPSESSID=ee4a8bd7d4e40648773e9b92124b2a1e)
 
 ### Management System for Personal Information
 
@@ -67,4 +67,4 @@ If you have questions or concerns regarding GaijinPot's personal information pro
 
 GaijinPot will continue to review and improve the personal information protection policy by periodically reviewing Japanese laws and other rules on individual information. 
 
-[プライバシーポリシー](https://web.archive.org/web/20080513192522id_/http%3A//www.gaijinpot.com/privacy.php?l=j&PHPSESSID=23365aec63850a8c6a414f042cbb2dce)
+[プライバシーポリシー](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/privacy.php?l=j&PHPSESSID=ee4a8bd7d4e40648773e9b92124b2a1e)
