@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630043538id_/http%3A//www.wellcomecollection.org/WTD027252.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120094828id_/http%3A//www.wellcomecollection.org/WTD027252.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
 The Wellcome Trust regards the lawful and correct treatment of personal information as very important and to this end is fully committed to the principles of data protection, as set out in the Data Protection Act. 
-
-[What information we collect about you]()
-
-[How we use this information]()
-
-[Surveys]()
-
-[Do we use cookies?]()
-
-[How do we protect personal information?]()
-
-[Do we share your information with anyone else?]()
-
-[Your rights]()
-
-[How to tell us about changes. ]()
 
 ## What information we collect about you 
 
