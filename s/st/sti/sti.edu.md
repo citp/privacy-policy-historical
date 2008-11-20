@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628213921id_/http%3A//www.sti.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120214351id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.*
 
-# STI Colleges and Education Centers
+# STI Privacy Policy
 
-Privacy Policy 
-
-Introduction 
-
-This is the website of STI College. We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+This is the website of STI College. It is our intention to have our valued users be aware of any information we collect, how we use it and under what circumstances, if any, we disclose it. 
 
   
 Website Administration 
@@ -27,13 +23,13 @@ We respect each site visitor's right to personal privacy. To that end, we collec
 
 The information we collect is:
 
-  * used to improved the content of our Web page
+  * used to improved the content of our Web page.
   * used to notify visitors about updates to our Web site.
   * never shared with other organizations for commercial purposes.
 
 
 
-With respect to cookies. We do not set any cookies. 
+With respect to cookies, we do not set any cookies. 
 
 Registration is not required to enter our website.
 
@@ -52,14 +48,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 Conflict Resolution
 
-We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20080628213921id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
-
-If users have any questions or suggestions regarding our privacy policy please contact us at: 
-
-**STI Colleges and Education Centers**  
-7/F Phil. First Building  
-6764 Ayala Avenue, Makati City   
-1229 Philippines   
-Tel. (632) 887-8447  
-Fax. (632) 891-3725   
-
+We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20081120214351id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
