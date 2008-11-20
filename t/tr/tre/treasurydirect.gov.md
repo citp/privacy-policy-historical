@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514205024id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120151446id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
@@ -65,7 +65,7 @@ Furnishing personal information is voluntary; however, without the information w
 
 ### 5\. To whom do we release your personal information?
 
-We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [70 Fed. Reg. 33939](https://web.archive.org/lawguide/lawguide_june_200sfr70_33939.pdf) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf). 
+We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [73 Fed. Reg. 42904](https://web.archive.org/lawguide/lawguide_73FR42904.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
 
 ### 6\. Will we send you non-business information?
 
