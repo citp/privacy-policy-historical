@@ -1,167 +1,106 @@
-> *The following text is extracted and transformed from the bestsearching.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026211324id_/http%3A//www.bestbidding.com/privacy_policy.cfm%3Fsid%3D633751741161878147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsearching.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120181940id_/http%3A//www.bestsearching.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Best Bidding And Best Classifieds Privacy Policy
+# Best Searching Privacy Policy
 
-**[]()******
+****   
+ **Privacy Policy**
 
-****Best Bidding**  and Best Classifieds **
+Best Space Corporation, (Best Searching) owns and operates a number of different sites on the Web (each, an "Best Searching Site"). Best Searching is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Best Searching may gather about individuals who visit the Best Searching Sites, how that information is used, and Best Searching's disclosure practices. Please note that this policy applies only to the Best Searching Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the Best Searching Sites. 
 
-**Privacy Policy**
+**Anonymous User Information**
 
-********
+Best Searching collects some anonymous information each time you visit a Best Searching Site so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Best Searching before we can collect this anonymous information. 
 
-Best Bidding, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.bestbidding.com.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+The Best Searching Sites do not require you to share information that identifies you personally, such as your name or e-mail address, in order for you to use the Best Searching Sites. The Best Searching Sites assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the Best Searching Site, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. Best Searching analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
 
-If users have questions or concerns regarding this statement, you should first contact [_privacy@bestbidding.com_](mailto:privacy@bestbidding.com) If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process or visit them directly by clicking this address [**http://**](http://www.truste.org/consumers/watchdog_complaint.php) **[www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)** TRUSTe will serve as a liaison with this web site to resolve users concerns. 
+**Individual User Information**
 
-__[](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)
+From time-to-time the Best Searching Sites request information from you that may identify you personally in addition to the anonymous information described above. The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income). Best Searching will not use or disclose your individual user information except as mentioned in this privacy policy. Best Searching collects individual user information in the following ways from different Best Searching Sites. 
 
-[__](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)_[__](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)[](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)_
+**Surveys or Contests**
 
-[](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)__
+From time to time, Best Searching may conduct surveys or contests on an Best Searching Site. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose individual user information to the Best Searching Site. Contest information will be shared with the contest or survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Best Searching Site. We may use an intermediary to conduct these surveys or contests. These companies may use your personal information to help the Best Searching Site communicate with you about offers from the Best Searching Site and our marketing partners. Such third parties do not have Best Searching's permission to use your personally identifiable information for any secondary purpose. 
 
-_[](http://www.truste.org/ivalidate.php?url=www.bestbidding.com&sealid=101)_The privacy practices of this statement apply to our services available under the domain and sub domains of BestBidding.Com. By visiting this web site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our auction community or service.
+**Directory Services**
 
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about BestBidding.Com´s practices so that you can make informed decisions. All of our subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global BestBidding.com and Live Auctions community. Best Bidding, Inc. does not link the information we store in cookies to any personally identifiable information you submit while on our site.
+Best Searching offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service. For example, if we know that you are searching from Boston, Massachusetts for a particular company, we will pre-populate the city and state fields with Boston and Massachusetts. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the Best Searching Sites. In addition, Best Searching allows you to update, correct any errors in the listings, or include yourself in the directory services. In order to make these modifications, you may provide Best Searching with certain individual user information that Best Searching will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database. 
 
-By accepting the Privacy Policy and the User Agreement in registering, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and both govern your use of this site. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on April 1, 2004 for all users. For more information see our "Notice" section below. 
+Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: 
 
-**_Table Of Contents:_**
+_https://snap.superpages.com/NASApp/Listing/control/ViewListing_.   
+To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. 
 
-**An Important Note About Children**
+You may update or delete your White Pages listing by searching the White Pages or contacting us to find your listing. Once you have located it, simply email us to update or remove link. To verify your request, Best Searching will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation. 
 
-**Information We Collect**
+**User Groups**
 
-**Our Use Of Your Information**
+When you register for a user group on any of the Best Searching Sites, you are asked for your individual user information. The individual user information may be collected and stored by a third party partner. This partner will store your individual user information on their servers for a period of time at which Best Searching will assume such storage responsibilities and your information will be deleted from their servers. The partner will not have Best Searching's permission to use your individual user information for secondary purposes. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at Best Searching's discretion. Best Searching may share your individual user information with a third party with whom Best Searching has entered into an agreement to support such user group projects. You may opt out at any time by following the opt out provisions of this privacy policy. 
 
-**Our Disclosure of Your Information**
+**Tell-A-Friend**
 
-**Advertisers**
+If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend's name and e-mail address. Best Searching will automatically send the friend a one-time e-mail inviting them to visit the Best Searching Site. Best Searching does not store the information related to your friends and the one-time e-mail sent pursuant to your input will be our only contact with that person for such input. 
 
-**BestBidding.Com And Live Auctions Community**
+**Correspondence**
 
-**External Service Providers**
+If you contact Best Searching, we may keep a record of that correspondence and we may collect your e-mail address. 
 
-**Internal Service Providers for Our Operations**
+**Third Party Information Gathering**
 
-**Other Corporate Entities**
+The Best Searching Sites include content and ads from third parties that may perform user activity tracking other than that described herein. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy. 
 
-**Legal Requests**
+The Best Searching Sites contain links to other sites on the Web. Please be aware that Best Searching is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-**Your Use Of Other Users´ Information**
+**Cookies**
 
-**Use Of Email Tools**
+Best Searching may set and access Best Searching or partner cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
-**Control Of Your Password**
+We use cookie and web beacon technology to track which pages on the Best Searching Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various Best Searching Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site. 
 
-**Accessing, Reviewing And Changing Your Personal Information**
+**Sharing**
 
-**Other Information Collectors**
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Best Searching's or such Best Searching Site's terms of use, or as otherwise required by law. 
 
-**Security**
+Best Searching Sites may use third party service providers to serve ads and e-mails on our behalf. These companies may use technologies to measure the effectiveness of ads and e-mails and use information about your visits to the Best Searching Site so that we can provide a better search experience to you. For this purpose, we may also provide this third party service provider anonymous information about your site navigation. 
 
-**Privacy Tools**
+**Mergers; Business Transitions**
 
-**Notice**
+In the event Best Searching goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, become part of the assets transferred. 
 
-**1.** **A Special Note About Children**
+**Choice/Opt-out**
 
-Children (persons under the age of 18) are not eligible to use the BestBidding.Com and Live Auctions unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this auction community in conjunction with and under the supervision of your parents or guardians. 
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to Best Searching and that Best Searching controls. In order to elect not to receive future communications from us, please email us at 
 
-**2.** **Information We Collect**
+_privacy@bestsearching.com_. 
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose. 
+If you have questions about public record information available through the Public Records service, please go to the following web site for additional information: 
 
-In general, you can browse the auction community and stores without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout the web site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. 
+_http://www.bestsearching/contactus.com_.
 
-Under some circumstances we may require some additional financial information, such as when, but not limited to: if you are registering using an email account at a free email service, or registering to sell on within the auction community. We use your financial information, including credit card information to verify the accuracy of your name, address, and other information, as well as to bill you for your use of our services. 
+ **Notification of Changes**
 
-We automatically track certain information based upon your behavior on and within the auction community. We use this information to do internal research on our users´ demographics, interests and behavior to better understand, protect and serve you and our growing community. This information may include the URL that you just came from (whether this URL is on the web site or not), which URL you next go to (whether this URL is on the web site or not), your computer browser information, and your IP address. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We use data collection devices such as "cookies" on certain pages of the web site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie." We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the web site and you may be required to re-enter your password more frequently during a session. 
+If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the web site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies or tracking technologies __ by third parties. 
+**Special Notification with respect to Children's Privacy (Users under the age of 13)**
 
-If you choose to bid, buy or sell on the web site, we collect information about your bidding, buying and selling behavior. We also collect other users´ comments about you in our feedback area. 
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with Best Searching policy and COPPA regulations, we DO NOT: 
 
-If you establish a credit account with us to pay the fees we charge, we collect some additional information, such as a billing address, a credit card number and a credit card expiration date and tracking information from checks or money orders. 
+1\. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 
 
-If you choose to post messages in our forums, chat rooms or other message areas or leave feedback for other users, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. Remember, that when you post to a feedback forum or blog you may be posting to the public and other registered members. 
+2\. Knowingly use or share personal information from users under 13 years of age with third parties. 
 
-If you send us personal correspondence, such as emails or letters or if other users or third parties send us correspondence about your activities or postings on the web site, we may collect such information into a file specific to you. 
+It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers 
 
-If you register for BestBidding.Com and Live Auctions on another web site or use a web site providing a service for BestBidding.Com or Live Auctions or a web site that helps facilitate your activity on our web sites, that web site may provide personal information about you and your transactions back to our web site.  
+Questions regarding children's privacy should be directed to: 
 
-**3.** **Our Use Of Your Information**
+Best Space Corporation  
+274 Main Street, Suite 307  
+Reading, MA 01867  
+\+ (1) 781.942.0200 phone  
+\+ (1) 781.942.7707 fax   
+E-mail: 
 
-We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the web site to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may internally compare and review your personal information for errors, omissions and for accuracy to authenticate and verify a user´s Best Bidding status as a reputable seller or buyer. If there is abuse detected we may need to disclose the necessary information to appropriate law enforcement as disclosed below. We may use third parties such as credit bureaus or anti-fraud bureaus.
+_[kidsprivacy@bestsearching.com](mailto:kidsprivacy@bestsearching.com)_
 
-If you choose to list an item for sale at our auction community or open a credit account, or otherwise provide us with your financial information, we use your address and billing information to bill you and provide associated support. 
-
-You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the web site´s content, layout and services. These uses improve the web site and better tailor it to meet your individual needs, so as to provide you with a smooth, efficient, safe and customized experience while using the web site. 
-
-You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the web site unless you opt-out. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information once notice and choice have been given. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@bestbidding.com. We offer an opportunity to opt-out of certain communications in your Member Profile, or you may contact us at (617) 365-8060 or email privacy@bestbidding.com or mail to Best Bidding, Inc., Best Building, Suite 285063 Boston, MA 02228-5063 to opt-out. 
-
-**4.** **Our Disclosure Of Your Information**
-
-As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services. 
-
-_Advertisers._ We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number, are NOT disclosed to these third parties in a personally identifiable manner without your explicit consent. 
-
-_BestBidding.Com Auction Community._ Your User ID is displayed throughout the web site and is therefore available to the public. All of your activities on the web site will be identifiable to your User ID. Other people can see your bids, items that you have purchased in the past, your feedback rating and associated comments, your postings on the web site, and so on. Therefore, if you associate your name with your User ID, the people you have revealed your name to will be able to personally identify your BestBidding.Com and Live Auction activities. Although our pages are coded with robot exclusion headers, others may illegally attempt to automatically collect your email address from the web site. We describe how to change your email and User ID below in Section 8. We also provide a number of ways to allow other users to find out more about you and your web site activities, such as our feature that allows users to quickly see all of the items you are offering at the time. If you are involved in a transaction, we have features that allow other users to view your email address and obtain your contact and shipping information to help complete the transaction. Further, we may send out notices to you or other community members regarding suspicious activity or policy violations on the web site. 
-
-_External Service Providers._ There are a number of separate services offered by third parties that we refer to as external service providers that may be complimentary and or supplementary to your use of the web site (e.g. listing agents, escrow, authentication, mediation, shipping, packaging). If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. We do not disclose your personal information to external service providers unless you provide your explicit consent. With your consent we may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent our disclosure of your personal information to an external service provider, you can decline such consent or simply not use their services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. 
-
-_Internal Service Providers For Our Operations._ We may use third parties that we refer to as internal service providers to facilitate or out source one or more aspects of the business, product and service operations that we provide to you (e.g., search technology, discussion boards, bill collection, affiliate and rewards programs) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers´ are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific out sourced BestBidding.Com related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. 
-
-_Other Corporate Entities._ We share much of our data, including personal information about you, with our subsidiaries and joint ventures that are committed to serving your online trading needs and related services, throughout the world. In some cases these other Corporate entities will be limited in the use of your information like an Internal Service Provider. In other cases where Other Corporate Entities receive your personal information from us for purposes other than for which your information was originally submitted, you will receive choice prior to that sharing. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our subsidiaries and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. BestBidding.Com, its subsidiaries, its joint ventures, or any combination of such, will share some or all of your personal information with another business entity should we plan to, merge with, or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice as provided in Section 12 ("Notice"). 
-
-_Legal Requests._ BestBidding.Com cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the BestBidding.Com community from less than reputable users. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from less than reputable users, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, zip code, country, phone number, email, and company name to BestBidding.Com and Live Auction users under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. 
-
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we cannot absolutely guarantee that your personal information or private communications will always remain private. 
-
-**5.** **Your Use of Other Users´ Information**
-
-In order to facilitate interaction among all auction community members, our web site allows you limited access to other users´ contact and shipping information. As a seller you have access to the User ID, email address and other contact and shipping information of the buyer or winning bidder(s) of your auction(s), and as a buyer or winning bidder you also have access to the User’s ID, email address and other contact information of the seller. 
-
-By entering into our User Agreement, you agree that, with respect to other users´ personal information that you obtain through the web site or through a BestBidding.Com or Live Auction related communication or BestBidding.Com facilitated transaction, BestBidding.Com hereby grants to you a license to use such information only for: (a) BestBidding.Com related communications that are not unsolicited commercial messages, (b) using services offered through BestBidding.Com (e.g. escrow, insurance, shipping and fraud complaints), and (c) any other purpose that a user affirmatively and expressly agrees to after you tell them the purpose you would like to use it for. In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this section, can you disclose personal information about another user to any third party without our affirmative consent and the affirmative consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this section. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access. 
-
-BestBidding.Com and Live Auction users do not tolerate Spam. Therefore, without limiting the foregoing, you are not licensed to add a BestBidding.Com user, even a user who has purchased an item from you, to your mail list (email or physical mail) without their affirmative and express consent. To report BestBidding.Com related Spam to BestBidding.Com and Live Auctions, please email us immediately.
-
-**6.** **Use of Email Tools**
-
-You may not use the "Email This Item To A Friend," service or other email services that we offer to send Spam or otherwise send content that would violate our User Agreement. This function sends a one-time invitation to view or bid on an item listed on BestBidding.Com.  We do not permanently store email messages or the email addresses sent from these tools. 
-
-If you send an email using the "Email This Item To A Friend," service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. 
-
-**7.** **Control Of Your Password**
-
-You are responsible for all actions taken with your User ID and Password, including fees charged to your account. Therefore, we do not recommend that you disclose your BestBidding.Com Password to any third parties. If you choose to share your User ID and Password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party´s privacy policy. If you lose control of your Password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your Password has been compromised for any reason, you should immediately change your Password as detailed in Section 8. 
-
-**8.** **Accessing, Reviewing And Changing Your Personal Information**
-
-We offer you the ability to automatically review and change the information you submit to us by logging into the web site and entering in the new information yourself. Generally, we will not modify your personal information based on your request via other means because it is very difficult to authenticate your account manually. You can change your User ID, email address, contact information, financial information, shipping information and user preferences by going the preferences and setup section in "My BestBidding." You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the web site including our forum or other message areas or the feedback area. 
-
-Upon your request, we will de-activate your account, contact information, billing information, shipping information and financial information from our active databases. To make this request, email privacy@bestbidding.com. Such information will be de-activated as soon as reasonably possible based on your account activity and in accordance with our de-activation policy and applicable law. 
-
-We will retain in our files some personal information you have requested to remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and member viewing and will only be available to select BestBidding.Com personal. 
-
-**9.** **Other Information Collectors**
-
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on our web site or other web sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since BestBidding.Com does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
-
-**10.** **Security**
-
-Your information is stored on BestBidding.Com Inc.´s servers located in the United States. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "fire walls" and Secure Socket Layers. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
-
-**11.** **Privacy Tools**
-
-It is our goal to make our privacy practices easy to understand. We have created easy-to-read summaries, privacy principles, a privacy chart and, are working on privacy enhancing technology to help summarize our full privacy policy. If you have questions about any part of this summary or if you would like more detailed information, we encourage you to review our full Privacy Policy. 
-
-**12.** **Notice**
-
-We may amend this Privacy Policy at any time by posting the amend terms on this privacy policy. All mior terms shall be amended and automatically be effective upon posting on this privacy policy. In addition, we will notify you in accordance with our notification guidelines and your preferences, or you may write to usat our world headquarters: **Best Bidding, Inc. Best Building, Suite 285063 Boston, MA 02228-5063 U.S.A.**
-
-If we make material changes to this policy affecting how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page.
-
-**[**Return To Top**](http://www.bestbidding.com/privacy_policy.cfm)**
+Policy effective January 1, 2008 
