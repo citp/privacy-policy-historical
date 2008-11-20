@@ -1,0 +1,242 @@
+<!--The following is the downloaded HTML source of the rainkingonline.com privacy policy that was archived on 2008-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081121002648id_/http%3A//www.rainkingonline.com/PrivacyPolicy.cfm) for the most accurate reproduction.-->
+
+<html><head><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
+_cf_contextpath="";
+_cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
+_cf_jsonprefix='//';
+</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/animation/animation-min.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/adapter/yui/ext-yui-adapter.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/ext-core.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/package/resizable.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/package/dragdrop/dragdrop.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/package/util.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/build/state/State-min.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/package/widget-core.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/ext/package/dialog/dialogs.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfwindow.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/cfformhistory.js"></script>
+<link rel="stylesheet" type="text/css" href="/CFIDE/scripts/ajax/resources/ext/css/ext-all.css">
+<link rel="stylesheet" type="text/css" href="/CFIDE/scripts/ajax/resources/cf/cf.css">
+
+<title>RainKing - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="homePageStyles.css">
+
+<script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFAJAXPROXY');
+</script>
+
+<script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFWINDOW');
+</script>
+
+<script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFFORM');
+</script>
+</head>
+<body style="background: #ffffff" id="ext-gen2" class=" ext-safari ext-linux"><span></span>
+
+<script language="javascript" type="text/javascript" src="RainKingHTML/AJAX.js"></script>
+
+<div id="pageHeader">
+	<div id="divTopMenu">
+		
+		<div id="topMenu">
+			<a href="Learn_More.cfm">About Us</a> |
+			<a href="Testimonials.cfm">Testimonials</a> |
+			<a href="Sample_Profiles.cfm">Sample Profiles</a> |
+			<a href="How_We_Do_It.cfm">How We Do It</a> |
+			<a href="Contact_Us.cfm">Contact Us</a>
+		</div>
+	</div>	
+	
+	<div id="divLogin" style="float:left;">
+		<table border="0" cellspacing="5" cellpadding="0" width="200">
+			<form action="/RainKingHTML/index.cfm" method="post"></form>
+			<tbody><tr>
+				<td><span class="TopNavText">username:</span></td>
+				<td><span class="TopNavText">password:</span></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><input type="text" name="loginUsername" size="10"></td>
+				<td><input type="password" name="loginPassword" size="10"></td>
+				<td><input type="submit" value="Login"></td>
+			</tr>
+			
+			
+			
+		 	
+			 
+			
+			<script>
+				function submitResetPWForm() {
+					ColdFusion.Ajax.submitForm('formResetPassword','obj/pwreset/ResetPWFormHandler.cfm',resultHandler);
+				}
+				
+				function resultHandler(r) {
+					if (r == 0) {
+						var msgSpan = document.getElementById('msgSpan');
+						var msg = 'An invalid Username or Email Address was entered.';
+						msgSpan.innerHTML = msg;
+					}
+					else {
+						var successSpan = document.getElementById('successSpan');
+						var msg = '<br><center>Your password has been reset.  Please check your email.</center>';
+						successSpan.innerHTML = msg;
+						var formCt = document.getElementById('formResetPassword_ct');
+						formCt.innerHTML = '<br><br><input type="button" value="Close Window" onclick="ColdFusion.Window.destroy(\'resetPW\',true)">';
+					}
+					
+				}
+				
+				function cleanupResetPW() {
+   					ColdFusion.Window.destroy('resetPW',true);
+				}
+				
+				function resetPassword() {
+					//does cfwindow already exist? if so destroy it first
+  					try {
+     					ColdFusion.Window.destroy('resetPW',true);
+  					} catch(e) { }
+  					//build window
+  					ColdFusion.Window.create('resetPW','Reset Password', 'obj/pwreset/',{
+  						center:true,
+  						height:250
+  						});
+ 					ColdFusion.Window.onHide('resetPW',cleanupResetPW);
+					//reset window header css - can easily change the header by manipulating the css
+					document.getElementById(ColdFusion.Window.getWindowObject("resetPW").header.id).className = "windowHdr";
+				}
+			</script> 
+			<tr>
+				<td colspan="3">
+				<a href="javascript: resetPassword();">Forgot Password?</a>
+				
+				</td>
+			</tr>
+			
+			
+		
+		</tbody></table>
+	</div>
+</div>
+
+<div id="mainContent">
+	
+	<div id="LogoBottom"><a href="index.cfm"><img src="images/LogoBottom.gif" width="505" height="54" alt="" border="0"></a></div>
+</div>
+	
+<div style="width: 100%;text-align: center; margin-top: 10px;">
+	<div align="center" style="width: 750px;">
+		<br><h2>RAIN KING PRIVACY POLICY</h2>
+		<br>
+		<div align="left">
+			<p>
+				At Rain King Software, Inc. ("<u>Rain King</u>") we are committed to ensuring our customers understand our privacy practices.  We encourage you to 
+				read and understand this policy.   Rain King reserves the right to amend this statement at any time. We encourage our users and visitors to 
+				regularly review this Privacy Policy for any such changes. Your continued use of this web site and our services (including our proprietary 
+				database of information) after we have posted changes to the Privacy Policy constitutes your agreement to the amended terms of this Privacy Policy.
+			</p>
+			<p></p><h3>Personal Information</h3>
+				In the course of our relationship with our clients, we may be exposed to collect certain personally identifiable information of our customers 
+				and visitors.  We will not sell or disclose your personal information, unless required by law. We endeavor to ensure the privacy and security of 
+				our customer's personal information, and if you have any questions regarding your personal information please contact us at 
+				<a href="mailto: privacy@rainkingonline.com">privacy@rainkingonline.com</a>. 
+			<p></p>
+			<p>
+				</p><h3>Collected Information</h3>
+				Rain King collects personal contact information from users of our system during the registration process ("<u>User Information</u>").  Our interface 
+				also allows users to upload certain of their own information to be stored on Rain Kingï¿½s system ("<u>Uploaded Information</u>"). Rain King may need 
+				to access the Uploaded Information for the purpose of resolving a problem, addressing a support issue, or addressing a suspected violation of 
+				our <a href="TermsOfUse.cfm" target="_blank">Terms of Use</a>.  By providing Rain King with User Information and by placing Uploaded Information into our system, you are agreeing that we 
+				may store, process and review such information.  We will, however, not sell or disclose User Information or Uploaded Information, unless 
+				required to do so by law.
+			<p></p>
+			<p>
+				You may be a user that has been provided access to the Rain King site and database through your company license agreement.  If that is the case, 
+				your employer may have asked us to set up the company account so that users may designate certain information to be shared with other employees 
+				of the same company.  This is done by designating the information as "Public" in the system.  The option to make such information "Public" should 
+				not be used if the information is not to be shared by other users within the users company.  The company may also require that one or more users 
+				have global rights to access any and all information of every user that has access through the company.  If you have questions or concerns regarding 
+				the rights of other individuals in your company to access your information, you should raise those concerns with the appropriate person at your company.
+			</p>
+			<p>
+				Rain King has put security and back-up procedures in place to protect Uploaded Information. However, in the unlikely event there is a loss or 
+				corruption of Uploaded Information, Rain King is not responsible or liable for such loss or corruption. We encourage our users to retain copies 
+				of all Uploaded Information on their own system.
+			</p>
+			<p>
+				In order to better serve you, Rain King does collect certain information while you are on the Rain King site, such as your IP address. This information 
+				is only used for demographic purposes and to help us provide better service to our customers. We may also track and analyze non-identifying information 
+				and aggregate usage and volume statistical information from our visitors and customers.  Furthermore, we may track information with respect to individuals
+				 gaining unauthorized access to our site or using our site in violation of their license agreement.
+			</p>
+			<p>
+				</p><h3>Use of Information</h3>
+				We may employ User Information to contact customers regarding additional services we may have to offer, promotions, opportunities and other general 
+				information about Rain King.  We may use information we have gathered against individuals gaining unauthorized access to our site or using our site 
+				in violation of their license agreement.
+			<p></p>
+			<p>
+				</p><h3>Cookies</h3>
+				Rain King requires you have the "cookies" setting on your browser enabled in order to access our site.  Rain King uses cookies (a file temporarily 
+				kept on your computer's hard drive) only to maintain the user's session while on our site.  No identifiable or demographic information is kept on 
+				the cookie. 
+			<p></p>
+			<p>
+				</p><h3>Links to Other Websites and from Other Websites</h3>
+				The site and our service may contain links and pointers to the other related World Wide Web Internet sites.  Rain King is not responsible for any 
+				content of such Web Sites or the privacy or other commercial practices of such Web Sites, and, unless states otherwise. The links do not imply 
+				Rain Kingï¿½s endorsement of, or association with, the linked sites, unless otherwise stated. We encourage all visitors and users of our system to 
+				review the privacy policies of each site they visit.
+			<p></p>
+			<p>
+				If you have any questions about our Privacy Policy, the practices, or use of the web site please contact <a href="mailto: privacy@rainkingonline.com">
+				privacy@rainkingonline.com</a>.
+			</p>
+		</div>
+	</div>
+</div>
+<br><br>
+<table style="position: relative;width: 806px; float: left">
+	<tbody><tr>
+		<td style="background: #ffffff; text-align: center; font-size: 8pt; vertical-align: bottom">
+			<br><br><br>
+			<span style="font-size: 10pt"><a href="/index.cfm">Home</a> | <a href="Learn_More.cfm?submenu=learn&amp;selected=learn">About Us</a> | 
+			<a href="Testimonials.cfm">Testimonials</a> |
+			<a href="Sample_Profiles.cfm">Sample Profiles</a> |
+			<a href="How_We_Do_It.cfm">How We Do It</a> |
+			<a href="Contact_Us.cfm">Contact Us</a>
+			</span><br><br>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: #ffffff; text-align: center; font-size: 8pt;padding-bottom: 8px; vertical-align: bottom">
+			
+			© 2008 Rain King Software, Inc.  All rights reserved.<br><br>
+			<a href="TermsOfUse.cfm">Terms of Use</a>&nbsp;&nbsp;|&nbsp; 
+			<a href="PrivacyPolicy.cfm">Privacy Policy</a>
+		</td>
+	</tr>
+</tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2450454-1";
+urchinTracker();
+</script>
+
+<script type="text/javascript" language="javascript">llactid=13736</script> 
+<script type="text/javascript" language="javascript" src="http://t2.trackalyzer.com/trackalyze.js"></script>
+
+
+
+</body></html>
