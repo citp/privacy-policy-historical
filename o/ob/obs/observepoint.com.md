@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607064531id_/http%3A//www.observepoint.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120181931id_/http%3A//www.observepoint.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ObservePoint - Privacy Policy
 
