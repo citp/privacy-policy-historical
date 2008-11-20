@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220181226id_/http%3A//www.surveyclub.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121002923id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Paid Surveys Privacy Policy
+# Survey Club - Take Paid Surveys Online and Get Paid!
 
 **SurveyClub.com Privacy Policy**
 
@@ -49,10 +49,10 @@ This web site has security measures in place to protect against loss, misuse and
 SurveyClub.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
 
 1\. Email: [support@surveyclub.com](mailto:support@surveyclub.com)  
-2\. Website: [http://www.surveyclub.com/contact.cgi](https://web.archive.org/contact.cgi)  
+2\. Website: [contact](http://surveyclub.helpserve.com/)  
 3\. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616
 
-If you're a SurveyClub member and you simply wish to cancel your account, you are encouraged to visit our [Account Cancellation](https://web.archive.org/cancel.cgi) page. Upon entering your User ID and Password your account - and all information we have on file for you - will be instantly and permanently deleted from SurveyClub.
+If you're a SurveyClub member and you simply wish to cancel your account, you are encouraged to visit our [Account Cancellation](https://web.archive.org/member/cancelaccount.aspx) page. Upon entering your User ID and Password your account - and all information we have on file for you - will be instantly and permanently deleted from SurveyClub.
 
 **Contacting SurveyClub.com**
 
