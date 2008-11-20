@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dopa.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611234332id_/http%3A//www.dopa.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dopa.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120115821id_/http%3A//www.dopa.com/Privacy.html) for the most accurate reproduction.*
 
 # Dopa.com-Domain parking system
 
