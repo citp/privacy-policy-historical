@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newhomessection.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620015757id_/http%3A//www.newhomessection.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomessection.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120085336id_/http%3A//www.newhomessection.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | New Homes Section
+# Privacy Policy
 
 ## Introduction
 
-We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 ## Website Administration
 
@@ -16,11 +16,11 @@ Zip: 85242
 Country: United States  
 Phone: 480-988-9572  
 Website URL: [http://www.newhomessection.com](http://www.newhomessection.com/)  
-Website e-mail: [info@newhomessection.com](mailto:info@newhomessection.com)
+Website e-mail: [Click here ](mailto:info@newhomessection.com?subject=Website%20Inquiry)
 
 ## Information Collection and Use
 
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. 
+We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.
 
 For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -36,6 +36,6 @@ The information we collect is:
 
 This site collects cookies. [Click here for a definition of cookies. ](http://www.netlingo.com/right.cfm?term=cookies)
 
-Registration is not required to enter our site. We do not have an order form. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
+Registration is not required to enter our site. We do not have an order form. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
 If we decide to change our privacy statement, we will post those changes to the website.
