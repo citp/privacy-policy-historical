@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodlekit.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230122404id_/http%3A//doodlekit.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodlekit.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121215725id_/http%3A//www.doodlekit.com/home/privacy) for the most accurate reproduction.*
 
 # Doodlekit | Website Builder | Website Maker | Website Creator - Privacy
 
