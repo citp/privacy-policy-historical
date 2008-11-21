@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letslinkin.com privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302033636id_/http%3A//letslinkin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letslinkin.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121200834id_/http%3A//www.letslinkin.com/privacy.php) for the most accurate reproduction.*
 
-# Letslinkin
+# Letslinkin.com - Watch Videos
 
 ### Privacy Policy
 
@@ -77,5 +77,5 @@ Throughout the Website you will find links to third party sites. Please note tha
 
 If you have any inquiries about our privacy policy, please contact us at [admin@letslinkin.com](mailto:admin@letslinkin.com).  
   
-## Copyright (c) 2007-2008 Letslinkin. All Rights Reserved.   
+## Copyright (c) 2007-2008 Letslinkin.com - Watch Videos. All Rights Reserved.   
 Powered By: [Letslinkin Videos](http://www.letslinkin.com/)
