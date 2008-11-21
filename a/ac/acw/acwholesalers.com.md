@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609184459id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121025054id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# 
+# 'Direct to the Public' quality Ductless air conditioning, Ductless Heat Pump Products.
 
 | 
 
@@ -67,13 +67,11 @@ Terms and Conditions
 
 Please also visit our 
 
-[Terms and Conditions](https://web.archive.org/web/20080609184459id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+[Terms and Conditions](https://web.archive.org/web/20081121025054id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
 By using our site, you consent to our privacy policy.  
   
 ---|---  
-  
-|  |    
----|---|---
+'Direct to the Public' quality Ductless air conditioning, Ductless Heat Pump Products.
