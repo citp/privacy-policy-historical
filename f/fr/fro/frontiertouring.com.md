@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210111338id_/http%3A//frontiertouring.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121160517id_/http%3A//www.frontiertouring.com/privacy) for the most accurate reproduction.*
 
 # The Frontier Touring Company - Privacy Policy
 
-Maroon 5 return to Australia & New Zealand with OneRepublic, Brandi Carlile and Ry Cuming...Rock's finest the Foo Fighters announce an tour of Australia and New Zealand for 2008...Amanda Palmer of The Dresden Dolls announces solo shows...PJ Harvey returns to Australia and New Zealand bringing with her her unique one-woman show...Rod Stewart returns to rock his greatest hits in Australia & New Zealand...Fergie confirmed as special guest when The Police tour Australia & New Zealand in 2008...Australia's favourite twins, The Veronicas, announce Australian Hook Me Up tour...
+Kings of Leon to return to Australia and NZ in March... The Veronicas announce 'Revenge Is Sweeter' tour with special guests Metro Station for Australia and New Zealand... Leonard Cohen announces his first Aus & NZ tour in 24 years... Franz Ferdinand confirm headline shows... Rise Against return with The (International) Noise Conspiracy... Crowded House confirm headline shows for 2008... Gabriella Cilmi announces her only headline show for 2009... Eli 'Paperboy' Reed announces headline Melbourne show... MKylie announces her long awaited return to Australia and New Zealand...Steve Earle to tour Australia and New Zealand with Allison Moorer...MGMT announce maiden voyage of Australia...Alicia Keys will tour Australia and NZ this December with special guest Jordin Sparks...Sting will tour Australia this December with lutenist Edin Karamazov...The Piano Man, Billy Joel, will play Australia and New Zealand in '08...John Mellencamp returns to Australia and New Zealand with special guest Sheryl Crow...
 
 ## We Respect Your Privacy
 
@@ -12,11 +12,11 @@ The Frontier Touring Company does not control or have input into the privacy pol
 
 ## Effective Date & Changes
 
-The Frontier Touring Company's privacy policy was most recently updated on Friday 01 December, 2006. Any changes to our policy will be updated on this webpage or by communicating directly with you if we determine. 
+The Frontier Touring Company's privacy policy was most recently updated on Monday 18 August 2008. Any changes to our policy will be updated on this webpage or by communicating directly with you if we determine. 
 
 ## How Does The Frontier Touring Company Use & Share My Information
 
-We do not collect 'personally identifiable information' about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your email address, name, mailing address, mobile phone number or other information about yourself in order to participate in competitions, to enter a promotion via our site, to become a Frontier Member, to access our Frontier Members area, or to receive emails from The Frontier Touring Company. You are not required to provide us with this information but, if you choose not to, you may not be able to access certain sections or participate in some of the activities on this site. If you are under thirteen (13) years old, you should only submit information about yourself with the consent of a parent or guardian.
+We do not collect 'personally identifiable information' about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your email address, name, mailing address, mobile phone number or other information about yourself in order to participate in competitions, to enter a promotion via our site, to become a Frontier Member, to access our Frontier Members area, or to receive emails from The Frontier Touring Company. You are not required to provide us with this information but, if you choose not to, you may not be able to access certain sections or participate in some of the activities on this site. If you are under thirteen (13) years old, you should only submit information about yourself with the consent of a parent or guardian. 
 
 a) Personally non-identifiable information. We do gather some collective non-identifiable information from you. This information includes: your Internet location (IP address), your Internet entry point (ISP domain name), your software and its configuration used to access this site.
 
@@ -36,13 +36,15 @@ b) Physical security of equipment storing personal information. Access to our co
 
 ## Use & Disclosure of Information - Accuracy and Security
 
-We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorised access to it by those who do not have a legitimate need for it. We will not post your email address or other identifying information you have provided on our site without your consent. This consent may be express or implied.
+We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorised access to it by those who do not have a legitimate need for it. We will not post your email address or other identifying information you have provided on our site without your consent. This consent may be express or implied. 
 
-You have a right to access most of the information held about you by The Frontier Touring Company, and also the ability to correct or update any of this information held about you by The Frontier Touring Company at any time. It is possible to access and update the information we hold about you in the [Members Area](http://www.frontiertouring.com.au/members). Once you have signed in, you may view, edit, or delete your account information.
+We may utilize the services of third party service providers from time to time to assist with the distribution of information and marketing materials to you. Your personal information will be provided to these businesses solely for this purpose and any such third party will act in accordance with the terms of this Privacy Policy.
+
+You have a right to access most of the information held about you by The Frontier Touring Company, and also the ability to correct or update any of this information held about you by The Frontier Touring Company at any time
 
 ## Opting Out/Unsubscribing From Email Communications
 
-On every email you receive from us, you are given the opportunity to unsubscribe, and in some cases, to change your preferences. You can also unsubscribe by [clicking here](http://www.frontiertouring.com.au/unsubscribe).
+On every email you receive from us, you are given the opportunity to unsubscribe, and in some cases, to change your preferences. 
 
 When you unsubscribe, we remove your email address permanently from our mailing lists. In the event that you may have subscribed with more than one email address, you will need to unsubscribe each address separately. If you experience any difficultly unsubscribing please [contact us](http://www.frontiertouring.com.au/contact). 
 
@@ -50,4 +52,4 @@ When you unsubscribe, we remove your email address permanently from our mailing 
 
 This site is managed and run by Frontier Touring Co Pty Ltd., 9 Dundas Lane, Albert Park, VIC 3206, Australia. Frontier Touring Co Pty Ltd is part of The Mushroom Group Of Companies.
 
-If you have questions concerning this policy, please [contact us](http://www.frontiertouring.com.au/contact) to submit your enquiries. This policy may change as our site develops, so please re-visit this page as often as you wish for the latest updates. 
+If you have questions concerning this policy, please [contact us](http://www.frontiertouring.com.au/contact) to submit your enquiries. This policy may change as our site develops, so please re-visit this page as often as you wish for the latest updates.
