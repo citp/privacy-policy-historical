@@ -1,0 +1,1264 @@
+<!--The following is the downloaded HTML source of the visitdallas.com privacy policy that was archived on 2008-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081121021759id_/http%3A//www.visitdallas.com/visitors/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="ext-strict ext-strict" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Welcome to Dallas!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="Privacy Policy">
+    <link href="/style/travelocity.css" rel="stylesheet" type="text/css">
+    <link href="/style/youngk.css" rel="stylesheet" type="text/css">
+    <link href="/style/kevinb.css" rel="stylesheet" type="text/css">
+    <link href="/style/calendar.css" rel="stylesheet" type="text/css">
+    <link href="/style/default.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/style/ie.css">
+    <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
+    <script src="/js/calendar.js"></script>
+    <script src="/shared-js/extjs2/adapter/ext/ext-base.js"></script>
+    <script src="/shared-js/extjs2/ext-core.js"></script>
+    <script src="/js/prototype.js"></script>
+    <script src="/js/builder.js"></script>
+    <script src="/js/effects.js"></script>
+    <script src="/js/dallas-effects.js"></script>
+    <script src="/js/default.js"></script>
+    <script src="/js/pageactions.js"></script>
+    <script language="javascript" type="text/javascript" src="/js/ajax.js"></script>
+<script language="javascript" type="text/javascript" src="/js/base_href.js"></script>
+<script language="javascript" type="text/javascript" src="http://images.wctravel.com/carsrch.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.res99.com/hotelsrch.js"></script>
+
+<script language="javascript" type="text/javascript">
+
+//javascript id: 0
+    	function go() {
+    	   var destination = document.CarSearch.puwhere.value;
+    	   var re = new RegExp('CarRequest');
+    	   var m = re.exec(destination);
+    	   if (m != null) {
+    		   location.target = "_blank";
+    		   top.location.href = destination;
+    	   } else {
+    		   return false;
+    	   }
+    	}
+
+    	function split_dates()
+    	{
+    	    var pu_date = document.getElementById('pu_date').value;
+    	    var do_date = document.getElementById('do_date').value;
+
+    	    pu_array = pu_date.split('/');
+    	    do_array = do_date.split('/');
+
+    	    document.CarSearch.pu_month.value=pu_array[0];
+    	    document.CarSearch.pu_day.value=pu_array[1];
+    	    document.CarSearch.do_month.value = do_array[0];
+    	    document.CarSearch.do_day.value = do_array[1];
+
+    	    return true;
+    	}
+
+    	function HotelSubmit()
+    	{
+            doa = document.getElementById('chk_in').value;
+            dod = document.getElementById('chk_out').value;
+
+            doa_parts = doa.split('/');
+            dod_parts = dod.split('/');
+
+
+            document.getElementById('doa_mm').value = doa_parts[0];
+            document.getElementById('doa_dd').value = doa_parts[1];
+            document.getElementById('doa_yy').value = doa_parts[2];
+
+            document.getElementById('dod_mm').value = dod_parts[0];
+            document.getElementById('dod_dd').value = dod_parts[1];
+            document.getElementById('dod_yy').value = dod_parts[2];
+
+
+            var cookie_string = "doa="+escape(doa)+"|dod="+escape(dod);
+            set_cookie('HotelWidget',cookie_string);
+
+            return true;
+    	}
+
+        function set_cookie ( name, value )
+        {
+            var cookie_string = name + "=" + escape ( value ) + "; expires=31/12/2222 00:00:00";
+            delete_cookie(name);
+            document.cookie = cookie_string;
+        }
+        function delete_cookie ( cookie_name )
+        {
+    		var cookie_date = new Date ( );  // current date & time
+    		cookie_date.setTime ( cookie_date.getTime() - 1 );
+    		document.cookie = cookie_name += "=; expires=" + cookie_date.toGMTString();
+    	}
+
+    	function get_cookie ( cookie_name )
+    	{
+    		var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+    		if ( results ) return ( unescape ( results[2] ) );
+    		else return null;
+    	}
+        
+
+</script>
+
+    
+  </head>
+  <body onload="" id="ext-gen2" class=" ext-safari ext-linux">
+    <div id="mainContainer">
+      <div id="headerContainer">
+        <div id="logo"><a href="/index"><span>Dallas - Live Large. Think Big.</span></a></div>
+        <div id="topNavBox">
+            <ul id="topNav">
+                <li id="email_sign_up"> <a onmouseover="showTextBox(true, 'email_sign_up')" id="email_sign_up_link" href="#"><span>Email Sign Up</span></a> </li>
+                <li id="weather"> <a onmouseover="showTextBox(true, 'weather')" id="weather_link" href="#"><span>Weather</span></a> </li>
+                <li id="site_search"> <a onmouseover="showTextBox(true, 'site_search')" id="site_search_link" href="#"><span>Site Search</span></a> </li>
+            </ul>
+            <div class="clear"></div>
+            <div id="topNavContent">
+                <div id="search_Base" style="display:none">
+                    <div id="search_Base_background"></div>
+
+                        <form action="/visitors/search" method="get">
+                             <div id="site_search_box">
+                                <input type="text" name="q" class="site_search_field">
+                            </div>
+                            <div id="search_btn_box">
+                                <input name="" type="image" class="search_btn" src="/images/template/search_btn.jpg">
+                            </div>
+                        </form>
+
+                </div>
+                <div id="weather_Base" style="display:none">
+                    <div id="weather_Base_background"></div>
+                    <div id="weather_box">
+<style type="text/css">
+<!--
+.weather_box {
+  width: 105px;
+}
+.weather_box_linked {
+  cursor: pointer;
+  cursor: hand;
+}
+.weather_box .highlow {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+    margin-left: 8px;
+    display: block;
+}
+.weather_box .current {
+	color: #ff9933;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+}
+-->
+</style>
+
+<div class="weather_box">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td align="left" width="79"><span class="current">50°</span></td>
+      <td align="center" rowspan="3"><img src="http://l.yimg.com/us.yimg.com/i/us/we/52/29.gif" border="0" title="Partly Cloudy" alt="Partly Cloudy"></td>
+    </tr>
+    <tr>
+      <td align="left" width="79">
+        <span class="highlow">
+        H: 61°<br>
+        L: 35°
+        </span>
+      </td>
+    </tr>
+  </tbody></table>
+</div></div>
+                </div>
+                <div id="email_Base" style="display:none">
+                    <div id="email_Base_background"></div>
+                    <form id="email_form" onsubmit="return check_email();" action="/visitors/enews" method="post" name="enews_request">
+                        <div id="email_box">
+                            <input type="text" name="email" value="test@example.com" class="site_search_field">
+                        </div>
+                        <div id="search_btn_box">
+                            <input name="" type="image" class="search_btn" src="/images/template/email_btn.jpg">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="welcome_Box">
+                            Welcome, Guest &nbsp;&nbsp; <a href="/visitors/user.login.php?return=%2Fvisitors%2Fprivacy">Login</a> | <a href="/user.modify.php?f=add">Register Now</a>
+                    </div>
+    </div>
+    <!-- end header div -->
+    
+    <div id="mainNav" onmouseover="HideTopFloats()">
+  <ul>
+    
+ 
+
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Accommodations</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/visitors/accommodations/spotlight_on_hotels/">Spotlight on Hotels</a></li>
+                
+                <li class=""><a target="" href="/visitors/accommodations/dallas_deals/">Dallas Deals</a></li>
+                
+                <li class=""><a target="" href="/visitors/accommodations/book_your_trip/">Book Your Trip</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Dining</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/visitors/dining/dine_in_dallas/">Dine In Dallas</a></li>
+                
+                <li class=""><a target="" href="/visitors/dining/spotlight_on_dining/">Spotlight on Dining</a></li>
+                
+                <li class=""><a target="" href="/visitors/dining/amex_dining_guide/">AMEX Dining Guide</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Shopping</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/visitors/shopping/spotlight_on_shops/">Spotlight on Shops</a></li>
+                
+                <li class=""><a target="_blank" href="http://shopacrosstexas.com/shopping/findastore_profile.php?cityname=Dallas&amp;sub=1">Shop Across Texas</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Arts &amp; Entertainment</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/visitors/arts__entertainment/spotlight_on_fun/arts-entertainment">Spotlight on Fun</a></li>
+                
+                <li class=""><a target="" href="/visitors/arts__entertainment/entertainment_districts/">Entertainment Districts</a></li>
+                
+                <li class=""><a target="" href="/visitors/arts__entertainment/arts__culture/">Arts &amp; Culture</a></li>
+                
+                <li class=""><a target="" href="/visitors/arts__entertainment/sights__attractions/">Sights &amp; Attractions</a></li>
+                
+                <li class=""><a target="" href="/visitors/arts__entertainment/nightlife/">Nightlife</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Meetings</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/plan_a_meeting/">Plan A Meeting</a></li>
+                
+                <li class=""><a target="" href="/meeting_services/">Meeting Services</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="javascript:void(0)" target="" class="toplevel">Sports</a>
+            <div>
+      <ul>
+        
+ 
+
+                <li class=""><a target="" href="/fans/">Fans</a></li>
+                
+                <li class=""><a target="" href="/rights_holders/">Rights Holders</a></li>
+                      </ul>
+      </div>
+          </li>
+        
+        <li class="toplevel " onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="/travel_trade/" target="" class="toplevel">Travel Trade</a>
+          </li>
+        
+        <li class="toplevel toplevel-last" onmouseover="Ext.get(this).addClass('over')" onmouseout="Ext.get(this).removeClass('over')">
+      <a href="/media/" target="" class="toplevel">Media</a>
+          </li>
+          </ul>
+</div>
+    
+    <!-- end nav div -->
+    <div id="contentContainer">
+      <div id="subNavContainer">
+        <div id="subNav">
+         
+<ul>
+    
+ 
+
+        <li class="">
+      <a href="javascript:void(0)" onclick="MenuEffects.Slide('visitors-about_dallas-sub')">
+        About Dallas
+      </a>
+                  <div id="visitors-about_dallas-sub" style="display:none">
+        <ul class="left-subnav-sub">
+          
+ 
+
+                        <li class="">
+              <a href="/visitors/about_dallas/dallas_today/">Dallas Today</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/about_dallas/history/">History</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/about_dallas/dallas_cvb/">Dallas CVB</a>
+            </li>
+                              </ul>
+      </div>
+          </li>
+        
+        <li class="">
+      <a href="/visitors/diversity/">
+        Diverse Dallas
+      </a>
+          </li>
+        
+        <li class="">
+      <a href="/visitors/events/">
+        Events
+      </a>
+          </li>
+        
+        <li class="">
+      <a href="javascript:void(0)" onclick="MenuEffects.Slide('visitors-getting_around-sub')">
+        Getting Around
+      </a>
+                  <div id="visitors-getting_around-sub" style="display:none">
+        <ul class="left-subnav-sub">
+          
+ 
+
+                        <li class="">
+              <a href="/visitors/getting_around/accessibility/">Accessibility</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/getting_around/air_service/">Air Service</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/getting_around/driving_directions/">Driving Directions</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/getting_around/light_rail_and_buses/">Light Rail and Buses</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/getting_around/rentalslimostaxis/">Rentals/Limos/Taxis</a>
+            </li>
+                              </ul>
+      </div>
+          </li>
+        
+        <li class="">
+      <a href="javascript:void(0)" onclick="MenuEffects.Slide('visitors-online_toolkit-sub')">
+        Online Toolkit
+      </a>
+                  <div id="visitors-online_toolkit-sub" style="display:none">
+        <ul class="left-subnav-sub">
+          
+ 
+
+                        <li class="">
+              <a href="/visitors/online_toolkit/coupons/">Coupons</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/dallas_stats/">Dallas Stats</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/annual_events_calendar/">Annual Events Calendar</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/free_things_to_do/">Free Things To Do</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/fun_facts/">Fun Facts</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/photos/">Images</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/maps/">Maps</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/online_toolkit/roadtrip_activity_book/">Roadtrip Activity Book</a>
+            </li>
+                      
+                              </ul>
+      </div>
+          </li>
+        
+        <li class="">
+      <a href="/visitors/request_a_guide/">
+        Request a Guide
+      </a>
+          </li>
+        
+        <li class="">
+      <a href="javascript:void(0)" onclick="MenuEffects.Slide('visitors-travel_tips-sub')">
+        Travel Tips
+      </a>
+                  <div id="visitors-travel_tips-sub" style="display:none">
+        <ul class="left-subnav-sub">
+          
+ 
+
+                        <li class="">
+              <a href="/visitors/travel_tips/important_phone_numbers/">Important Phone Numbers</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/travel_tips/safety_and_security/">Safety and Security</a>
+            </li>
+                      
+                        <li class="">
+              <a href="/visitors/travel_tips/weather/">Weather</a>
+            </li>
+                              </ul>
+      </div>
+          </li>
+        
+        <li class="">
+      <a href="/visitors/visitors_center/">
+        Visitor's Center
+      </a>
+          </li>
+        </ul>
+        </div>
+        <div id="dallas-features">
+          <div class="leftCallout_box">
+           <p></p><div class="left_ad_container">
+<h3>Request a Free Visit Dallas</h3>
+<div style="width:73px; float:left;"><a href="/visitors/request_a_guide/"><img width="73" src="/images/template/Request_Visit_Dallas.jpg" height="108" border="0"></a></div>
+<div style="width:100px; float:left; margin-left: 10px">Dallas' official destination magazine; guiding you to the best shopping, dining, hotels, events and more.<br><a href="/visitors/request_a_guide/"><img border="0" src="/images/template/btn_clickHere.jpg"></a></div>
+<div class="clear"></div>
+</div><br><div class="left_ad_container">
+<h3>Map Dallas Now!</h3>
+<div><a href="http://map.mapnetwork.com/destination/dallas/visitor/" target="blank"><img src="/images/template/Map-Dallas-Now.jpg" width="183" border="0" height="107"></a></div>
+<div class="clickHere_box">
+<div class="clickHere_btn"><a href="http://map.mapnetwork.com/destination/dallas/visitor/" target="blank"><img src="images/template/btn_clickHere.jpg" border="0"></a></div>
+<div class="clickHere_txt">to launch Interactive Map</div>
+</div>
+<div class="clear"></div>
+</div><p></p>
+          </div>
+        </div>
+        </div>
+
+
+
+        <div id="subpage_Header">
+                                                                    <img src="/images/display.php?id=3825">
+            
+            <!-- *original image* <img src="images/template/meetings_sales_Header.jpg"  /> -->
+        </div>
+
+        <div id="subpageContentContainer">
+
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td align="left"><h1></h1></td>
+              <td align="right" valign="bottom">
+                <a href="javascript:void(0);" onclick="showPrintPage(600, 500);"><img src="/images/template/icon_print.gif" height="20px" width="45px" border="0"></a>
+                <a href="refer_a_friend.php"><img src="/images/template/icon_email.gif" height="20px" width="46px" border="0"></a>
+                <a href="javascript:void(0);" onclick="createBookmark('Dallas', window.document.location);"><img src="/images/template/icon_bookmark.gif" height="20px" width="61px" border="0"></a>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <div class="breadcrumbs">
+ 
+
+  <a class="breadcrumbsGray" href="http://www.visitdallas.com">Home</a><span class="breadcrumbsGray">&nbsp;&gt;&nbsp;</span>
+  <a class="breadcrumbsOrange" href="/visitors">Visitors</a></div>
+
+          <p><br>The Dallas Convention and Visitors Bureau ("DCVB") respects the privacy and confidentiality of individuals who visit the DCVB web site located at <a href="http://www.visitdallas.com">www.visitdallas.com</a>. The DCVB maintains this Privacy Policy to help you understand the commitment of DCVB to safeguard the privacy of the information you provide to the DCVB on the DCVB Website. This Privacy Policy outlines the information which DCVB will collect from you on the DCVB Website and how DCVB will use that information.</p>
+<p>Collection of Your Personal Information by DCVB<br>The DCVB's mission is to provide you with personalized services and offerings designed to enhance your&nbsp;Dallas experience. To do so effectively, DCVB collects the following information:</p>
+<p>(a) Personally Identifiable Information. DCVB, through the use of the DCVB Website, only collects personally identifiable information about you when you voluntarily provide such personally identifiable information to DCVB using the DCVB Website. If you do not wish your personally identifiable information to be collected, please do not submit it.</p>
+<p>(b) Information from the Use of "Cookies". The DCVB Website employs "cookie" technology. Cookies are small pieces of data stored in files on your computer allowing the DCVB Website to track your use of the DCVB Website as you visit and revisit the DCVB Website. The use of cookies by the DCVB Website complies with generally accepted programming standards and practices. Please note that you can choose to block the use of cookies through settings in your web browser but be advised that certain features of the DCVB Website may not work properly without them.</p>
+<p>Use of Your Information by DCVB<br>It is the policy of the DCVB not to sell, share, transfer, or rent to third parties any information you provide to the DCVB, through the use of the DCVB Website, without your written consent except as required by operation of the law or in compliance with legal authorities; provided, however the DCVB may share your personal information with certain third parties ("Target Third Parties") without your written consent in order to further the purpose for which you voluntarily provide the DCVB with the information. Additionally, the DCVB engages third party information management service providers to help maintain efficient operations. Because such information management service providers may access our systems, such information management service providers may have access to your information. The DCVB does not transfer or relinquish ownership of information maintained about you within DCVB systems and databases to such information management service providers but requires these information management service providers to sign confidentiality agreements to keep all confidential information and other proprietary information found in our systems confidential.</p>
+<p>The DCVB routinely collects, compiles, and reports statistics and information reflecting the use of the DCVB Website and information services in order to enhance membership services, advertising services, improve marketing and promotional efforts, analyze DCVB Website usage, improve the DCVB Website's content and layout, generate aggregate reports on trends, interests and behavior and enhance service offerings.</p>
+<p>The DCVB reserves the right to take any action the DCVB deems prudent or necessary to safeguard the DCVB Website and your information in the DCVB systems and databases from malicious or unwarranted attack by viruses, hackers, or other miscreants.</p>
+<p>Collection and Use of Your Information by Third Parties<br>Please note that third parties offer goods and services on and through the DCVB Website. We assume each such third party has its own internal privacy policy and data collection and use practices. The DCVB does not have any responsibility for their practices.</p>
+<p>Changing and Deleting Your Personal Information<br>You may request the DCVB change or delete your personal information in DCVB systems and databases by submitting a detailed description of the desired action to the following e-mail address: <a href="mailto:privacy@dallascvb.com">privacy@dallascvb.com</a>.</p>
+<p>Please note that after the DCVB processes a change or deletes your personal information from active DCVB systems and databases, it is possible that non-active residual copies of your information may still exist in DCVB systems and on archive or backup media.</p>
+<p>Your Consent<br>By using the DCVB Website, you consent to the collection and use of the above-described information by DCVB (and Target Third Parties, in which case, once such Target Third Party is in possession of your information, we can not control such Target Third Party's use of your information). If you do not agree with the terms and conditions stated in this Privacy Policy, please do not access or use the DCVB Website.</p>
+<p>Electronic Newsletters<br>We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not share our mailing lists with any third parties, including advertisers or partners.</p>
+<p>Control of your Password<br>You are required to control the security of your password. We are not responsible for any damages arising out of the loss or misuse of your passwords. If you have forgotten your password, please go to the appropriate page and enter your e-mail in the appropriate box and resubmit it. Your password will be e-mailed to you shortly thereafter. Note that we will never ask for your password in an unsolicited phone call or e-mail.</p>
+<p>Your Questions and Concerns<br>If you have questions or concerns about this Privacy Policy or any of DCVB's use of your information, please contact the DCVB at the following e-mail address: <a href="mailto:privacy@dallascvb.com">privacy@dallascvb.com</a>.</p>
+<p>Changes to this Privacy Policy<br>On occasion the DCVB may amend or change this Privacy Policy by updating or revising this posting, with the revised terms taking effect as of the date of its posting.</p>
+<p>&nbsp;</p>
+
+        </div>
+
+        <div id="thirdCol">
+            
+                             <div id="special_dallas_deals" style="background:url(images/template/special_dallas_deals2.jpg) no-repeat top;">
+                    <!-- Begin Travalocity Widget -->
+<div id="travelocityWidget">
+      <ul id="nav">
+          <li id="widget_hotel_li" class="active"><a href="javascript:widget_nav('widget_hotel');">Hotel</a></li>
+          <li id="widget_air_li"><a href="javascript:widget_nav('widget_air');">Air</a></li>
+          <li id="widget_car_li"><a href="javascript:widget_nav('widget_car');">Car</a></li>
+          <li id="widget_attractions_li"><a href="javascript:widget_nav('widget_attractions');" class="last">Attractions</a></li>
+      </ul>
+      <div class="widget_clear"></div>
+      <div id="body">
+          <div id="widget_hotel" class="active">
+              <!--<script language="javascript" type="text/javascript" SRC="http://www.res99.com/hotelsrch.js"></script> -->
+              <form name="resrvForm" action="http://www.res99.com/nexres/search/search_results.cgi" method="GET" target="_blank">
+                  <div class="widget-body">
+                      <input type="hidden" name="avail" value="Y">
+                      <input type="hidden" name="num_rooms" value="1">
+                      <input type="hidden" name="smoking_pref" value="NP">
+                      <input type="hidden" name="bed_type" value="NP">
+                      <input type="hidden" name="src" value="10014005">
+                      <input type="hidden" name="currency_id" value="USD">
+                      <input type="hidden" name="tab" value="tab0">
+                      <input type="hidden" name="city" value="Dallas, TX">
+                      <input type="hidden" name="lang" value="eng">
+                      <input type="hidden" name="clear_cache" value="y">
+                      <input type="hidden" name="header" value="hotel">
+                      <input type="hidden" name="footer" value="hotel">
+                      <input type="hidden" name="doa_mm" id="doa_mm" value="">
+                      <input type="hidden" name="doa_dd" id="doa_dd" value="">
+                      <input type="hidden" name="doa_yy" id="doa_yy" value="">
+                      <input type="hidden" name="dod_mm" id="dod_mm" value="">
+                      <input type="hidden" name="dod_dd" id="dod_dd" value="">
+                      <input type="hidden" name="dod_yy" id="dod_yy" value="">
+                      <table width="95%" border="0" align="center" cellpadding="0" cellspacing="2">
+                          <tbody><tr>
+                              <td>
+                                  <p style="margin-top:0;"><b>Check In </b><br>
+                                      (mm/dd/yyyy)</p>
+                              </td>
+                              <td>
+                                  <p style="margin-top:0;"> <b>Check Out</b><br>
+                                      (mm/dd/yyyy) </p>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td style="height:16px; border:1px solid #cdcdcd; background-color:#FFFFFF; padding:2px;" width="115">
+                                  <div style="float:right; text-align:right; width:16px;  height:14px; margin:0 1px 0  0; padding-top:1px;"> <img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('chk_in', 'mm/dd/y')"> </div>
+                                  <input style="border:none; height:14px; margin:0; padding:0; width:60px;" type="text" name="chk_in" id="chk_in">
+                              </td>
+                              <td style="height:16px; border:1px solid #cdcdcd; background-color:#FFFFFF; padding:2px;" width="115">
+                                  <div style="float:right; text-align:right; width:16px;  height:14px; margin:0 1px 0  0; padding-top:1px;"> <img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('chk_out', 'mm/dd/y')"> </div>
+                                  <input style="border:none; height:14px; margin:0; padding:0; width:60px;" type="text" name="chk_out" id="chk_out">
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="2"><img src="/images/template/clear.gif" height="5" border="0"></td>
+                          </tr>
+                          <tr>
+                              <td>Adult</td>
+                              <td>Children (2-17)</td>
+                          </tr>
+                          <tr>
+                              <td>
+                                  <select style="width: 44px;" class="formfield" size="1" name="num_adults">
+                                      <option>1 </option>
+                                      <option selected="">2 </option>
+                                      <option>3 </option>
+                                      <option>4 </option>
+                                  </select>
+                                  per room </td>
+                              <td>
+                                  <select tyle="width: 44px;" class="formfield" size="1" name="num_children">
+                                      <option value="0">0 </option>
+                                      <option>1 </option>
+                                      <option>2 </option>
+                                      <option>3 </option>
+                                      <option>4 </option>
+                                  </select>
+                                  per room </td>
+                          </tr>
+                          <tr>
+                              <td colspan="2"><img src="/images/template/clear.gif" height="10" border="0"></td>
+                          </tr>
+                      </tbody></table>
+                  </div>
+                  <div class="widget-search">
+                      <table align="center">
+                          <tbody><tr>
+                              <td align="left"><img src="/images/clear.gif" width="78" height="20" border="0"><!--<img src="/images/template/travelocityPNLogo.jpg" width="78" height="20" alt="Travelocity Partner Network" border="0" />--></td>
+                              <td><img src="/images/template/clear.gif" width="15" height="1" alt="spacer" border="0"></td>
+                              <td>
+                                  <input type="image" onclick="HotelSubmit()" src="/images/template/travelSearchBtn.jpg" width="72" height="19" alt="Search" border="0" style="border:none">
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </div>
+              </form>
+          </div>
+          <div id="widget_air" class="hidden">
+              <script language="Javascript" type="text/javascript" src="http://www.res99.com/airsrch.js"></script>
+              <form name="AirSearchForm" action="http://www.res99.com/nexres/start-pages/gateway.cgi" method="get" target="_blank">
+                  <div class="widget-body">
+                      <input type="hidden" name="flightType" value="roundtrip">
+                      <input type="hidden" name="Service" value="TPN">
+                      <input type="hidden" name="pref_aln" value="exclude">
+                      <input type="hidden" name="engine" value="air">
+                      <input type="hidden" name="action" value="search">
+                      <input type="hidden" name="affiliateId" value="10014005">
+                      <input type="hidden" name="subAffiliateId" value="">
+                      <input type="hidden" name="src" value="10014005">
+                      <input type="hidden" name="src_aid" value="">
+                      <input type="hidden" name="dateTypeSelect" value="exactDates">
+                      <input type="hidden" name="children" value="0">
+                      <input type="hidden" name="lang" value="eng">
+                      <input type="hidden" name="clear_cache" value="y">
+                      <input type="hidden" name="header" value="air">
+                      <input type="hidden" name="footer" value="air">
+
+                      <table width="190" cellpadding="0" cellspacing="0" border="0" align="center">
+                          <tbody><tr>
+                              <td align="left">
+                                  <input name="leavingFrom" type="text" value="From" onfocus="this.value=''">
+                              </td>
+                              <td align="center">to</td>
+                              <td align="right">
+                                  <input name="goingTo" type="text" value="DFW" onfocus="this.value=''">
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><img src="/images/template/clear.gif" width="1" height="8" alt="spacer" border="0"></td>
+                          </tr>
+                          <tr>
+                              <td align="left">
+                                  <table>
+                                      <tbody><tr>
+                                          <td>
+                                              <select name="adults">
+                                                  <option value="1">1</option>
+                                                  <option value="2">2</option>
+                                                  <option value="3">3</option>
+                                                  <option value="4">4</option>
+                                                  <option value="5">5</option>
+                                              </select>
+                                          </td>
+                                          <td>Adults</td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                              <td><img src="/images/template/clear.gif" width="15" height="1" alt="spacer" border="0"></td>
+                              <td align="left">
+                                  <table>
+                                      <tbody><tr>
+                                          <td>
+                                              <select name="seniors">
+                                                  <option value="0">0</option>
+                                                  <option value="1">1</option>
+                                                  <option value="2">2</option>
+                                                  <option value="3">3</option>
+                                                  <option value="4">4</option>
+                                                  <option value="5">5</option>
+                                              </select>
+                                          </td>
+                                          <td>Seniors</td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><img src="/images/template/clear.gif" width="1" height="8" alt="spacer" border="0"></td>
+                          </tr>
+                          <tr>
+                              <td colspan="3" align="left">
+                                  <p>Depart (mm/dd/yyyy)</p>
+                                  <table cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody><tr>
+                                          <td style="height:16px; border:1px solid #cdcdcd; background-color:#FFFFFF; padding-top:2px;" width="110">
+                                              <div style="float:right; width:16px; height:14px; margin:0 3px 0  0; padding-top:0px;"> <img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('depart', 'mm/dd/y')"> </div>
+                                              <input style="border:none; height:14px; margin:0; padding:0; width:72px;" type="text" name="leavingDate" id="depart">
+                                          </td>
+                                          <td style="padding-left:3px;">
+                                              <select name="dateLeavingTime">
+                                                  <option>12:00am</option>
+                                                  <option>1:00am</option>
+                                                  <option>2:00am</option>
+                                                  <option>3:00am</option>
+                                                  <option>4:00am</option>
+                                                  <option>5:00am</option>
+                                                  <option>6:00am</option>
+                                                  <option>7:00am</option>
+                                                  <option>8:00am</option>
+                                                  <option>9:00am</option>
+                                                  <option>10:00am</option>
+                                                  <option>11:00am</option>
+                                                  <option>12:00pm</option>
+                                                  <option>1:00pm</option>
+                                                  <option>2:00pm</option>
+                                                  <option>3:00pm</option>
+                                                  <option>4:00pm</option>
+                                                  <option>5:00pm</option>
+                                                  <option>6:00pm</option>
+                                                  <option>7:00pm</option>
+                                                  <option>8:00pm</option>
+                                                  <option>9:00pm</option>
+                                                  <option>10:00pm</option>
+                                                  <option>11:00pm</option>
+                                                  <option>Morning</option>
+                                                  <option value="12:00pm">Afternoon</option>
+                                                  <option>Evening</option>
+                                                  <option selected="selected">Anytime</option>
+                                              </select>
+                                          </td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3" align="left">
+                                  <p>Return (mm/dd/yyyy)</p>
+                                  <table cellpadding="0" cellspacing="0">
+                                      <tbody><tr>
+                                          <td style="height:16px; border:1px solid #cdcdcd; background-color:#FFFFFF;  padding-top:2px; " width="110">
+                                              <div style="float:right; width:16px;  height:14px; margin:0 3px 0  0; padding-top:0px;"><img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('return', 'mm/dd/y')"> </div>
+                                              <input style="border:none; height:14px; margin:0; padding:0; width:72px;" type="text" id="return" name="returningDate">
+                                          </td>
+                                          <td style="padding-left:3px;">
+                                              <select name="dateReturningTime">
+                                                  <option>12:00am</option>
+                                                  <option>1:00am</option>
+                                                  <option>2:00am</option>
+                                                  <option>3:00am</option>
+                                                  <option>4:00am</option>
+                                                  <option>5:00am</option>
+                                                  <option>6:00am</option>
+                                                  <option>7:00am</option>
+                                                  <option>8:00am</option>
+                                                  <option>9:00am</option>
+                                                  <option>10:00am</option>
+                                                  <option>11:00am</option>
+                                                  <option>12:00pm</option>
+                                                  <option>1:00pm</option>
+                                                  <option>2:00pm</option>
+                                                  <option>3:00pm</option>
+                                                  <option>4:00pm</option>
+                                                  <option>5:00pm</option>
+                                                  <option>6:00pm</option>
+                                                  <option>7:00pm</option>
+                                                  <option>8:00pm</option>
+                                                  <option>9:00pm</option>
+                                                  <option>10:00pm</option>
+                                                  <option>11:00pm</option>
+                                                  <option>Morning</option>
+                                                  <option value="12:00pm">Afternoon</option>
+                                                  <option>Evening</option>
+                                                  <option selected="selected">Anytime</option>
+                                              </select>
+                                          </td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><img src="/images/template/clear.gif" width="3" height="5" alt="spacer" border="0"></td>
+                          </tr>
+                      </tbody></table>
+                  </div>
+                  <div class="widget-search">
+                      <table align="center">
+                          <tbody><tr>
+                              <td><img src="/images/clear.gif" width="78" height="20" border="0"><!--<img src="/images/template/travelocityPNLogo.jpg" width="78" height="20" alt="Travelocity Partner Network" border="0" />--></td>
+                              <td><img src="/images/template/clear.gif" width="15" height="1" alt="spacer" border="0"></td>
+                              <td>
+                                  <input type="image" src="/images/template/travelSearchBtn.jpg" width="72" height="19" alt="Search" border="0" style="border:none">
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </div>
+              </form>
+          </div>
+          <div id="widget_car" class="hidden">
+
+              <!--<FORM NAME="CarSearch" ACTION="http://www.res99.com/nexres/cars/search.cgi" METHOD="GET" target="_blank" onSubmit="split_dates();">-->
+              <form name="CarSearch" action="http://www.res99.com/nexres/start-pages/gateway.cgi" method="GET" target="_blank" onsubmit="split_dates();">
+                  <div class="widget-body">
+                      <input type="hidden" name="src" value="10014005">
+                      <input type="hidden" name="src_aid" value="">
+                      <input type="hidden" name="ses" value="">
+                      <input type="hidden" name="engine" value="car">
+                      <input type="hidden" name="pu_month" value="">
+                      <input type="hidden" name="pu_day" value="">
+                      <input type="hidden" name="do_month" value="">
+                      <input type="hidden" name="do_day" value="">
+                      <input type="hidden" name="pu_time" value="10">
+                      <!-- default time -->
+                      <input type="hidden" name="do_time" value="10">
+                      <input type="hidden" name="lang" value="eng">
+                      <input type="hidden" name="clear_cache" value="y">
+                      <input type="hidden" name="header" value="carengine">
+                      <input type="hidden" name="footer" value="carengine">
+                      <table cellpadding="0" cellspacing="0" border="0" width="95%" align="center">
+                          <tbody><tr>
+                              <td class="cars_searchleft" id="container">
+                                  <!-- 1 -->
+                                  <table border="0" cellspacing="0" cellpadding="0" id="cars_searchbox_left" width="194">
+                                      <tbody><tr>
+                                          <td>
+                                              <!-- 2 -->
+                                              <table border="0" cellspacing="0" cellpadding="1">
+                                                  <tbody><tr>
+                                                      <td class="cars_left_col" nowrap=""> Pick up car at: </td>
+                                                      <td>
+                                                          <select id="where" name="puwhere" onchange="go()" size="1">
+                                                              <option value="airport">At an airport</option>
+                                                              <option value="http://go.travelpn.com/car/CarRequest.do?Service=TPN&amp;affiliateId=10014005&amp;subAffiliateId=&amp;aspHeader=car&amp;aspFooter=car">Other locations</option>
+                                                          </select>
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td class="cars_left_col" nowrap=""> Airport code: </td>
+                                                      <td>
+                                                          <input id="pair" name="puair" value="DFW" type="text" onfocus="change('pair','focused'); " onblur="change('pair','UNfocused');">
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td colspan="2" nowrap="">
+                                                          <table cellpadding="0" cellspacing="0" style=" margin-bottom:3px;">
+                                                              <tbody><tr>
+                                                                  <td class="cars_left_col" nowrap=""> Different drop off?</td>
+                                                                  <td>
+                                                                      <input type="RADIO" name="same" id="diff" value="y" onclick="dropOff()" style="width:20px">
+                                                                      Yes
+                                                                      <input type="RADIO" name="same" id="diff" checked="checked" value="n" onclick="dropOff()" style="width:20px">
+                                                                      No </td>
+                                                              </tr>
+                                                              <tr>
+                                                                  <td colspan="2">
+                                                                      <div id="dropoff_diff" style="display:none;">
+                                                                          <!-- 7 -->
+                                                                          <table border="0" cellspacing="0" cellpadding="0" style="margin:0px;padding:0px">
+                                                                              <tbody><tr>
+                                                                                  <td class="cars_left_col" nowrap=""> Drop off car at: </td>
+                                                                                  <td>
+                                                                                      <select id="dwhere" name="dowhere" size="1" onchange="go()">
+                                                                                          <option value="doairport">At an airport</option>
+                                                                                          <option value="http://go.travelpn.com/car/CarRequest.do?Service=TPN&amp;affiliateId=10014005&amp;subAffiliateId=&amp;aspHeader=car&amp;aspFooter=car">Other locations</option>
+                                                                                      </select>
+                                                                                  </td>
+                                                                              </tr>
+                                                                              <tr id="dairport">
+                                                                                  <td nowrap="" align="left" class="cars_left_col"> Airport code: </td>
+                                                                                  <td>
+                                                                                      <input id="dair" name="doair" value="" type="text" onfocus="change('dair','focused');" onblur="change('dair','UNfocused');">
+                                                                                  </td>
+                                                                              </tr>
+                                                                              <!-- 7 -->
+                                                                          </tbody></table>
+                                                                      </div>
+                                                                  </td>
+                                                              </tr>
+                                                          </tbody></table>
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td nowrap="">Pick-up date:</td>
+                                                      <td style="height:14px; border:1px solid #cdcdcd; background-color:#FFFFFF;" width="110">
+                                                          <div style="float:right; text-align:right; width:16px; height:14px; margin:0 1px 0  0; padding-top:1px;"> <img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('pu_date', 'mm/dd/y')"> </div>
+                                                          <input style="border:none; height:14px; margin:0; padding:0; width:72px;" type="text" name="pu_date" id="pu_date">
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td colspan="2"></td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td nowrap="">Drop-off date:</td>
+                                                      <td style="height:14px; border:1px solid #cdcdcd; background-color:#FFFFFF;" width="110">
+                                                          <div style="float:right; text-align:right; width:16px;    height:14px; margin:0 1px 0  0; padding-top:0px;"> <img src="/images/template/travelCalIcon.jpg" border="0" onclick="showCalendar('do_date', 'mm/dd/y')"> </div>
+                                                          <input style="border:none; height:14px; margin:0; padding:0; width:72px;" type="text" name="do_date" id="do_date">
+                                                      </td>
+                                                  </tr>
+                                                  <tr>
+                                                      <td class="cars_left_col" style="padding-top:2px;"> Car type: </td>
+                                                      <td style="padding-top:2px;">
+                                                          <select name="carcode" id="carcode">
+                                                              <option value="TB">5 basic types</option>
+                                                              <option value="CC">Compact</option>
+                                                              <option value="CP">Pickup Truck</option>
+                                                              <option value="EC">Economy</option>
+                                                              <option value="FC">Full Size</option>
+                                                              <option value="IC">Intermediate</option>
+                                                              <option value="LC">Luxury</option>
+                                                              <option value="MV">Van</option>
+                                                              <option value="PC">Premium</option>
+                                                              <option value="SC">Standard</option>
+                                                              <option value="SF">Sport Utility</option>
+                                                              <option value="ST">Convertible</option>
+                                                              <option value="SW">Station Wagon</option>
+                                                              <option value="XC">Specialty</option>
+                                                          </select>
+                                                      </td>
+                                                  </tr>
+                                                  <!--<tr>
+                                          <td colspan="2" align="left"> <a  href="http://go.travelpn.com/car/CarRequest.do?Service=TPN&affiliateId=10014005&subAffiliateId=&aspHeader=car&aspFooter=car" target="_top">More search options</a> </td>
+                                      </tr>-->
+                                                  <!-- 2 -->
+                                              </tbody></table>
+                                          </td>
+                                      </tr>
+                                      <!-- 1 -->
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                          <!-- 0 -->
+                      </tbody></table>
+                  </div>
+                  <div clas="widget-search">
+                      <table align="center">
+                          <tbody><tr>
+                              <td><img src="/images/clear.gif" width="78" height="20" border="0"><!--<img src="/images/template/travelocityPNLogo.jpg" width="78" height="20" alt="Travelocity Partner Network" border="0" />--></td>
+                              <td> <img src="/images/template/clear.gif" alt="spacer" border="0" height="1" width="15"> </td>
+                              <td>
+
+                                  <input name="submit" id="submit" type="image" src="/images/template/travelSearchBtn.jpg" width="72" height="19" border="0" style="border:none;" value="search">
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </div>
+              </form>
+          </div>
+
+                              
+          <!--[if IE]>
+           <style type="text/css">
+           #widget_attractions
+           {
+            margin-top:-19px;
+           }
+           </style>
+           <![endif]-->
+          
+
+          <div id="widget_attractions" class="hidden">
+              <form name="attractions" action="http://www.res99.com/nexres/activities/search_results.cgi" method="GET" target="_blank">
+              <input type="hidden" name="src" id="src" value="10014005">
+              <input type="hidden" name="citytext" value="DFW">
+              <div class="widget-body">
+                  <table cellspacing="2" cellpadding="2" border="0">
+                      <tbody><tr>
+                          <td>Start:</td>
+                          <td>
+                              <select id="from_mm" name="from_mm">
+                                  <option value="01">January</option>
+                                  <option value="02">February</option>
+                                  <option value="03">March</option>
+                                  <option value="04">April</option>
+                                  <option value="05">May</option>
+                                  <option value="06">June</option>
+                                  <option value="07">July</option>
+                                  <option value="08">August</option>
+                                  <option value="09">September</option>
+                                  <option value="10" selected="selected">October</option>
+                                  <option value="11">November</option>
+                                  <option value="12">December</option>
+                              </select>
+                              <select id="from_dd" name="from_dd">
+                                  <option value="01">1</option>
+                                  <option value="02">2</option>
+                                  <option value="03">3</option>
+                                  <option value="04">4</option>
+                                  <option value="05">5</option>
+                                  <option value="06">6</option>
+                                  <option value="07">7</option>
+                                  <option value="08">8</option>
+                                  <option value="09">9</option>
+                                  <option value="10">10</option>
+                                  <option value="11">11</option>
+                                  <option value="12">12</option>
+                                  <option value="13">13</option>
+                                  <option value="14">14</option>
+                                  <option value="15">15</option>
+                                  <option value="16">16</option>
+                                  <option value="17">17</option>
+                                  <option value="18">18</option>
+                                  <option value="19">19</option>
+                                  <option value="20">20</option>
+                                  <option value="21">21</option>
+                                  <option value="22">22</option>
+                                  <option value="23">23</option>
+                                  <option value="24">24</option>
+                                  <option value="25">25</option>
+                                  <option value="26">26</option>
+                                  <option value="27" selected="selected">27</option>
+                                  <option value="28">28</option>
+                                  <option value="29">29</option>
+                                  <option value="30">30</option>
+                                  <option value="31">31</option>
+                              </select>
+                          </td>
+                      </tr>
+                      <tr>
+                          <td>Thru:</td>
+                          <td nowrap="">
+                              <select id="to_mm" name="to_mm">
+                                  <option value="01">January</option>
+                                  <option value="02">February</option>
+                                  <option value="03">March</option>
+                                  <option value="04">April</option>
+                                  <option value="05">May</option>
+                                  <option value="06">June</option>
+                                  <option value="07">July</option>
+                                  <option value="08">August</option>
+                                  <option value="09">September</option>
+                                  <option value="10">October</option>
+                                  <option value="11" selected="selected">November</option>
+                                  <option value="12">December</option>
+                              </select>
+                              <select id="to_dd" name="to_dd">
+                                  <option value="01">1</option>
+                                  <option value="02">2</option>
+                                  <option value="03" selected="selected">3</option>
+                                  <option value="04">4</option>
+                                  <option value="05">5</option>
+                                  <option value="06">6</option>
+                                  <option value="07">7</option>
+                                  <option value="08">8</option>
+                                  <option value="09">9</option>
+                                  <option value="10">10</option>
+                                  <option value="11">11</option>
+                                  <option value="12">12</option>
+                                  <option value="13">13</option>
+                                  <option value="14">14</option>
+                                  <option value="15">15</option>
+                                  <option value="16">16</option>
+                                  <option value="17">17</option>
+                                  <option value="18">18</option>
+                                  <option value="19">19</option>
+                                  <option value="20">20</option>
+                                  <option value="21">21</option>
+                                  <option value="22">22</option>
+                                  <option value="23">23</option>
+                                  <option value="24">24</option>
+                                  <option value="25">25</option>
+                                  <option value="26">26</option>
+                                  <option value="27">27</option>
+                                  <option value="28">28</option>
+                                  <option value="29">29</option>
+                                  <option value="30">30</option>
+                                  <option value="31">31</option>
+                              </select>
+                          </td>
+                      </tr>
+                      </tbody></table>
+                      <table cellpadding="2" cellspacing="2" <tr="">
+                        <tbody><tr><td>Categories:</td>
+                        <td>
+                              <input style="width:12px; padding:0; margin:0; border:none;" name="ACTTYPE_all" id="all" type="checkbox" value="1" checked="">
+                              All Activities<br>
+                              <input style="width:12px; padding:0; margin:0; border:none;" name="ACTTYPE_attraction" type="checkbox" value="1" id="ACTTYPE_attraction">
+                              Attractions<br>
+                              <input style="width:12px; padding:0; margin:0; border:none;" name="ACTTYPE_shows" type="checkbox" value="1" id="ACTTYPE_shows">
+                              Shows &amp; Events<br>
+                              <!-- <input name="ACTTYPE_tours" type="checkbox" value="1" id="ACTTYPE_tours"/>Tour & Activities<br /> --<
+                      <!-- <input name="ACTTYPE_outdoor" type="checkbox" value="1" id="ACTTYPE_outdoor"/>Outdoors<br /> -->
+                              <input style="width:12px; padding:0; margin:0; border:none;" name="ACTTYPE_dining" type="checkbox" value="1" id="ACTTYPE_dining">
+                              Tour &amp; Activities<br>
+                              <!-- <input name="ACTTYPE_transport" type="checkbox" value="1" id="ACTTYPE_transport"/>Transportation<br /> -->
+                          </td>
+                      </tr>
+                  </tbody></table>
+              </div>
+
+              <div class="widget-search">
+                  <table align="center">
+                      <tbody><tr>
+                          <td align="left"><img src="/images/clear.gif" width="78" height="20" border="0"><!--<img src="/images/template/travelocityPNLogo.jpg" width="78" height="20" alt="Travelocity Partner Network" border="0" />--></td>
+                          <td><img src="/images/template/clear.gif" width="15" height="1" alt="spacer" border="0"></td>
+                          <td>
+                              <input type="image" src="/images/template/travelSearchBtn.jpg" width="72" height="19" alt="Search" border="0" style="border:none">
+                          </td>
+                      </tr>
+                  </tbody></table>
+              </div>
+          </form></div>
+          
+          <!-- end widget_attractions -->
+      </div>
+</div>
+<!-- End Travalocity Widget -->
+                </div>
+                <div id="featured_deals">
+<div style="text-align: left;" class="featured_deals_item"><img src="images/template/featured_img.jpg" width="80">
+<div style="width:100px; float:right;"><b>King Tut</b><br>Dallas Museum of Art<br>October 8, 2008 to May 17, 2009<br>
+<div class="eventBox_item_btn"><a href="http://www.visitdallas.com/visitors/Tut"><img src="images/template/learn_more.jpg" alt="Learn More" border="0"></a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="featured_deals_item"><img src="http://www.visitdallas.com/visitors/accommodations/dallas_deals/images/display.php?id=3502&amp;width=150" width="80">
+<div style="width:100px; float:right;"><b>Dallas Lone Star Football Classic</b><br>Cotton Bowl, Fair Park<br>November 29, 2008<br>
+<div class="eventBox_item_btn"><a href="/visitors/accommodations/dallas_deals/lone-star-football-08"><img src="images/template/learn_more.jpg" alt="Learn More" border="0"></a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div style="text-align: left;" class="featured_deals_item"><img src="http://www.visitdallas.com/images/display.php?id=4325" width="80" height="71">
+<div style="width:100px; float:right;"><b>Dallas Holiday Deals</b><br>Visit Dallas for the Holidays!<br>November 2008 to January 2009<br>
+<div class="eventBox_item_btn"><a href="http://www.visitdallas.com/visitors/accommodations/dallas_deals/holidays-08"><img src="images/template/learn_more.jpg" alt="Learn More" border="0"></a></div>
+</div>
+<div class="clear"></div>
+<div style="padding:0 0 7px 94px; height:19px;">
+<p><a href="/visitors/accommodations/dallas_deals/"><img src="images/template/btn_viewMoreDeals.jpg" border="0"></a></p>
+<a href="/visitors/accommodations/dallas_deals/index"></a></div>
+</div>
+</div>
+</div>
+            
+            
+            <div id="RightAds">
+            
+ 
+
+            </div>
+        </div>
+    </div>
+    <!-- end main div -->
+    <div class="clear"></div>
+    <div id="footerContainer">
+        <div id="footerNav">
+            <ul class="navmenu">
+  
+ 
+
+    <li class="">
+    <a class="first_level" href="/visitors/contact_us">Contact Us</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/members/">Members</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/members/membernet/membernet">MemberNet</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="http://www.filmdfw.com/" target="_blank">Dallas Film Commission</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/plan_a_meeting/">Meetings</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/rights_holders/">Sports</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/travel_trade/">Travel Trade</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/media/">Media</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/visitors/online_toolkit/maps/">Maps</a>
+
+        </li>
+
+  
+    <li class="">
+    <a class="first_level" href="/visitors/events/">Events</a>
+
+        </li>
+
+  
+    <li class=" last">
+    <a class="first_level" href="/visitors/diversity/">Diverse Dallas</a>
+
+        </li>
+
+  </ul>
+        </div>
+        <div class="clear"></div>
+        <div class="clear"></div>
+        <div id="footerCopyright">
+            <ul>
+                <li><a href="/visitors/site_map">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+                <li><a href="/visitors/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+                <li>1-800-CDALLAS</li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+        <p>Copyright © 1996-2008 Dallas Convention &amp; Visitors Bureau </p>
+    </div>
+    <!-- end footer div -->
+  
+  <!-- end container div -->
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-985136-1");
+pageTracker._trackPageview();
+
+</script>
+<!-- //End Google Analytics -->
+
+
+
+</body></html>
