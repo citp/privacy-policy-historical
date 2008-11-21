@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010249id_/http%3A//ulteem.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121044808id_/http%3A//www.ulteem.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # Your future awaits you on Ulteem
 
