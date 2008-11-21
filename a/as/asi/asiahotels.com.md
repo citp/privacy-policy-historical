@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517065617id_/http%3A//www.asiahotels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121195100id_/http%3A//www.asiahotels.com./privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,21 +54,5 @@ We at Asia Hotels work hard to provide our clients with the best possible rates 
 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Asia Hotels or would like more information, please contact us on [privacy@asiahotels.com](mailto:privacy@asiahotels.com). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
 
 **CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](https://web.archive.org/CustService.asp). 
-
-* * *
-
-  
-[ [Home](https://web.archive.org/) | [Contact us](https://web.archive.org/contactasiahotels.asp) | [Help](https://web.archive.org/custservice.asp) | [Sitemap](https://web.archive.org/sitemap.asp) | [Membership](https://web.archive.org/membership.asp) | [Advanced search](https://web.archive.org/search.asp) ] 
-
-[**Hotels in Asia:**](http://www.asiahotels.com/)  
-[Australia hotels](https://web.archive.org/hl/Australia.asp), [Brunei hotels](https://web.archive.org/hl/Brunei.asp), [Cambodia hotels](https://web.archive.org/hl/Cambodia.asp), [China hotels](https://web.archive.org/hl/China.asp), [Fiji hotels](https://web.archive.org/hl/Fiji.asp), [Guam hotels](https://web.archive.org/hl/Guam.asp), [Hong Kong hotels](https://web.archive.org/hl/Hong_Kong.asp), [India hotels](https://web.archive.org/hl/India.asp), [Indonesia hotels](https://web.archive.org/hl/Indonesia.asp), [Japan hotels](https://web.archive.org/hl/Japan.asp), [Laos hotels](https://web.archive.org/hl/Laos.asp), [Macau hotels](https://web.archive.org/hl/Macau.asp), [Malaysia hotels](https://web.archive.org/hl/Malaysia.asp), [Maldives hotels](https://web.archive.org/hl/Maldives.asp), [Myanmar hotels](https://web.archive.org/hl/Myanmar.asp), [Nepal hotels](https://web.archive.org/hl/Nepal.asp), [New Caledonia hotels](https://web.archive.org/hl/New_Caledonia.asp), [New Zealand hotels](https://web.archive.org/hl/New_Zealand.asp), [Philippines hotels](https://web.archive.org/hl/Philippines.asp), [Singapore hotels](https://web.archive.org/hl/Singapore.asp), [South Korea hotels](https://web.archive.org/hl/South_Korea.asp), [Sri Lanka hotels](https://web.archive.org/hl/Sri_Lanka.asp), [Taiwan hotels](https://web.archive.org/hl/Taiwan.asp), [Thailand hotels](https://web.archive.org/hl/Thailand.asp), [Vanuatu hotels](https://web.archive.org/hl/Vanuatu.asp), [Vietnam hotels](https://web.archive.org/hl/Vietnam.asp)
-
-[Asia hotels](http://www.asiahotels.com/) | [Africa hotels](http://www.asiahotels.com/africa-default.asp) |  [Europe hotels](http://www.euro-hotels.com/) | [Middle East hotels](http://www.asiahotels.com/middleeast-default.asp) | [South America hotels](http://www.asiahotels.com/americas-default.asp)
-
-**Powered by:**  
-
-
-  
-
 
 |  
