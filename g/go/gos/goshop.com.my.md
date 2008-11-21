@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the goshop.com.my privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618114110id_/http%3A//goshop.com.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goshop.com.my privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121173100id_/http%3A//www.goshop.com.my/privacy.php) for the most accurate reproduction.*
 
 # GoShop - Colour My Life
 
 |   
+  
 ---  
   
 |     
 ---  
   
+MERCURE KOTA KINABALU  
+| November 10, 08 | 03:35pm |
+
+Mercure, hospitality know-how that makes every stay unique.
+
+* * *
+
 SenQ® OPENS AT 1BORNEO  
 | June 17, 08 | 02:35pm |
 
 SenQ's Grand Opening at 1Borneo Hypermall, Kota Kinabalu.
-
-* * *
-
-GOSHOP! NEW INTERFACE  
-| Updated: May 8, 08 | 10:51am |
-
-Wow! Goshop has a new look!! We are re-vamping our look to be more...
 
 * * *
 
@@ -28,6 +29,7 @@ Wow! Goshop has a new look!! We are re-vamping our look to be more...
    
   
 |   
+  
 ---  
   
   
