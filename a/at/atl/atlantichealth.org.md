@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052632id_/http%3A//atlantichealth.org/en/atlantic/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121040144id_/http%3A//www102.atlantichealth.org/en/atlantic/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
-
-[](https://web.archive.org/site/v/index.jsp?vgnextoid=b906e341875dc010VgnVCM100000edca460aRCRD&vgnextchannel=a4e514b0579f9010VgnVCM100000edca460aRCRD&vgnextfmt=print "Print Page")[](https://web.archive.org/site/email/internet/mail.jsp?uri=http://www.atlantichealth.org/site/v/index.jsp?vgnextoid=b906e341875dc010VgnVCM100000edca460aRCRD&vgnextchannel=a4e514b0579f9010VgnVCM100000edca460aRCRD&vgnextfmt=&ahextaction=&ahexturl= "Print Page")
 
 Atlantic Health website is maintained by Atlantic Health, 475 South Street, P.O. Box 1905, Morristown, New Jersey. Atlantic Health can be reached by email at [info@atlantichealth.org](https://web.archive.org/en/atlantic/disclaimer2.html?vgnextfmt=popup "Disclaimer").
 
