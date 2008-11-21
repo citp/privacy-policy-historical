@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209070057id_/http%3A//www.chatroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121113454id_/http%3A//chatroll.com/privacy) for the most accurate reproduction.*
 
-# Chatroll - Privacy Policy
+# Chatroll | Privacy Policy
 
 ### This Privacy Policy was updated and is effective on: Dec 18th, 2007.
 
 ## Privacy Policy
 
-This privacy statement ("Privacy Policy") applies to the www.chatroll.com website ("Chatroll"), and all associated services provided in connection with Chatroll (collectively, "Service") that are owned and operated by Arithum Technologies Inc. ("Arithum", "we", "us", "our"). 
+This privacy statement ("Privacy Policy") applies to the chatroll.com website ("Chatroll"), and all associated services provided in connection with Chatroll (collectively, "Service") that are owned and operated by Arithum Technologies Inc. ("Arithum", "we", "us", "our"). 
 
 We take privacy matters very seriously and we are committed to protect your privacy. 
 
