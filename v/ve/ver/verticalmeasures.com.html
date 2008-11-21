@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verticalmeasures.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608175244id_/http%3A//www.verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verticalmeasures.com privacy policy that was archived on 2008-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081121073835id_/http%3A//verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Link Building | Search Engine Marketing | Higher Search Engine Rankings | Search Engine Optimization Company</title>
@@ -18,22 +18,40 @@ if(window.event+''=='undefined')event=0
 
 <!--
 
-function validate_contact ( )
-{
-    if ( document.contact.Name.value == "" )
+function validate_contact ( ){
+	if ( document.contact.First.value == "" )
     {
-        alert ( "Please fill in the 'Name' box." );
-		document.contact.Name.focus();
+        alert ( "Please fill in the 'First Name' box." );
+		document.contact.First.focus();
 		return false;
     }
+	else if ( document.contact.Last.value == "" )
+    {
+        alert ( "Please fill in the 'Last Name' box." );
+		document.contact.Last.focus();
+		return false;
+	}
 	else if ( document.contact.Email.value == "" )
     {
         alert ( "Please fill in the 'Email' box." );
-    	document.contact.Email.focus();
+		document.contact.Email.focus();
 		return false;
-	}if ( document.contact.passwd.value == "" )
+	}
+		else if ( document.contact.CompanyName.value == "" )
     {
-        alert ( "Please fill in the Captcha Password" );
+        alert ( "Please fill in the 'Company Name' box." );
+		document.contact.CompanyName.focus();
+		return false;
+	}
+		else if ( document.contact.URL.value == "" )
+    {
+        alert ( "Please fill in the 'URL' box." );
+		document.contact.URL.focus();
+		return false;
+	}
+	else if ( document.contact.passwd.value == "" )
+    {
+        alert ( "Please fill in the verification code" );
 		document.contact.passwd.focus();
 		return false;
 	}
@@ -58,9 +76,21 @@ function validate_sidebar ( ){
 		document.sidebar.Email.focus();
 		return false;
 	}
+		else if ( document.sidebar.CompanyName.value == "" )
+    {
+        alert ( "Please fill in the 'Company Name' box." );
+		document.sidebar.CompanyName.focus();
+		return false;
+	}
+		else if ( document.sidebar.URL.value == "" )
+    {
+        alert ( "Please fill in the 'URL' box." );
+		document.sidebar.URL.focus();
+		return false;
+	}
 	else if ( document.sidebar.passwd.value == "" )
     {
-        alert ( "Please fill in the Captcha Password" );
+        alert ( "Please fill in the verification code" );
 		document.sidebar.passwd.focus();
 		return false;
 	}
@@ -202,55 +232,90 @@ If problems arise, users may contact Vertical Measures LLC by calling 602-476-18
 Vertical Measures&nbsp;LLC protects user information through security measures commonly-accepted as adequate.</p>
 <p>Privacy Policy</p></td><td width="191" valign="top">
 <table width="191" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			<td class="stripSpace">
-			<a target="new" href="VMVideo.html"><img src="images/image_seo.jpg" alt="Do you know what it takes to get Higher Search Engine Rankings?" width="191" height="153" border="0"></a></td></tr>
+<tbody><tr>
+			<td width="191" class="stripSpace">
+			<a target="new" href="VMVideo.html"><img src="images/image_seo.jpg" alt="Do you know what it takes to get Higher Search Engine Rankings?" width="191" height="153" border="0"></a></td>
+</tr>
 			<tr> 
 			<td>
 				<div id="sideBar">
-								<div class="medBlue" align="center">
-				
-Complete this form<br>
-
-to access our<br>
-
-<b>FREE Online Course</b><br>
-<img src="images/8biggestebookflat.jpg" alt="Internet Marketing Mistakes"><br>
-</div>
-				<p align="center"><b><span class="medBlue"><i>“The 8 Biggest Internet Marketing Mistakes”</i></span></b></p>
-				<form name="sidebar" action="contact.html?action=send&amp;form=sidebar" method="post" onsubmit="return validate_sidebar();">
+								<form name="sidebar" action="contact.html?action=send&amp;form=sidebar" method="post" onsubmit="return validate_sidebar();">
 				<table style="position:relative;left:0px">
-				<tbody><tr><td colspan="2" align="center"><b> 
-				Which services are of
-interest?</b></td></tr>
-				<input type="hidden" name="page" value="/privacy-policy.html">
-				<tr><td align="right"><input type="checkbox" name="InternetMarketing"></td><td>Internet Marketing</td></tr>
-				<tr><td align="right"><input type="checkbox" name="SEO"></td><td>Search Engine Optimization</td></tr>
+				<tbody><tr>
+				  <td colspan="2" align="center"><b> 
+				To get all the details on our services, please complete the entire form below.</b></td>
+				</tr>
+				<input type="hidden" name="page" value="//privacy-policy.html">
 				<tr><td align="right"><input type="checkbox" name="QualityLinkBuilding"></td><td>Quality Link Building</td></tr>
+				<tr><td align="right"><input type="checkbox" name="SocialMediaMarketing"></td><td>Social Media Marketing</td></tr>
+				<tr><td align="right"><input type="checkbox" name="WebsitePublicity"></td><td>Website Publicity</td></tr>
+				<tr><td align="right"><input type="checkbox" name="SEO"></td><td>Search Engine Optimization</td></tr>
 				<tr><td align="right"><input type="checkbox" name="KeywordResearch"></td><td>Keyword Research</td></tr>
-				<tr><td align="right"><input type="checkbox" name="LeadGeneration"></td><td>Lead Generation</td></tr>
-				<tr><td align="right" style="padding-bottom:12px"><input type="checkbox" name="PayPerClick"></td><td style="padding-bottom:12px">Pay Per Click Consulting</td></tr>
 				</tbody></table>
-				<table>
-				<tbody><tr><td><span style="color:red">*</span>First:</td><td><input name="First" type="text" class="text" size="20"></td></tr>
-				<tr><td><span style="color:red">*</span>Last:</td><td><input name="Last" type="text" class="text" size="20"></td></tr>
-				<tr><td><span style="color:red">*</span>Email:</td><td><input name="Email" type="text" class="text" size="20"></td></tr>
-				<tr><td style="padding-bottom:12px">Phone:<br><span style="font-size:10px">(optional)</span> </td><td style="padding-bottom:12px"><input name="Phone" type="text" class="text" size="20" value="(xxx) xxx-xxxx" onfocus="if(this.value=='(xxx) xxx-xxxx')this.value='';"></td></tr>
-				<tr><td colspan="2">				<table><tbody><tr><td align="center">
-				<img src="displaytext.php" border="1"><br>
+				<table width="100%">
+				<tbody><tr>
+				  <td><span style="color:red">&nbsp;&nbsp;*</span> First name:</td>
+				  </tr>
+				<tr>
+				  <td>				    &nbsp;&nbsp;
+			      <input name="First" type="text" class="text" size="20">			      </td></tr>
+				<tr>
+				  <td><span style="color:red">&nbsp;&nbsp;*</span> Last name:</td>
+				  </tr>
+				<tr>
+				  <td>				    &nbsp;&nbsp;
+			      <input name="Last" type="text" class="text" size="20">			      </td></tr>
+				<tr>
+				  <td><span style="color:red">&nbsp;&nbsp;*</span> Business email:</td>
+				  </tr>
+				<tr>
+				  <td>				    &nbsp;&nbsp;
+			      <input name="Email" type="text" class="text" size="20">			      </td></tr>
+				<tr>
+				  <td><span style="color:red">&nbsp;&nbsp;*</span> Company name:</td>
+				  </tr>
+				<tr>
+				  <td>				    &nbsp;&nbsp;
+			      <input name="CompanyName" type="text" class="text" size="20">			      </td>
+				  </tr>
+				<tr>
+				  <td><span style="color:red">&nbsp;&nbsp;*</span> URL (home page)</td>
+				  </tr>
+				<tr>
+				  <td>				    &nbsp;&nbsp;
+			      <input name="URL" type="text" class="text" size="20">			      </td>
+				  </tr>
+				<tr>
+				  <td>&nbsp;&nbsp;&nbsp;Phone number:</td>
+				  </tr>
+				<tr><td>				  &nbsp;&nbsp;
+				  <input name="Phone" type="text" class="text" size="20" value="(xxx) xxx-xxxx" onfocus="if(this.value=='(xxx) xxx-xxxx')this.value='';">
+				  </td></tr>
 				
-				</td></tr>
-				<tr><td colspan="2" align="center">Enter the Captcha Password here
+				
+				<tr>
+				  <td>&nbsp;&nbsp;&nbsp;Monthly Budget:</td>
+				  </tr>
+				<tr>
+				  <td>	&nbsp;&nbsp;<input name="budget" type="text" class="text" id="budget" size="20" maxlength="60"></td>
+				  </tr>
+				<tr><td><br>
+				  				<table><tbody><tr><td><img src="displaytext.php" border="0"></td>
+				</tr>
+				<tr>
+				  <td colspan="2" align="center">Enter code above:
 				<!--(Note: all letters are lowercase)<input type='hidden' name='tmpFile' value='' />-->
-				<input type="text" name="passwd" size="6" title="Enter the password above"></td></tr>
+				<input type="text" class="text" name="passwd" size="6" title="Enter code above">
+</td>
+				</tr>
 				</tbody></table>
 </td></tr>
-				<tr><td colspan="2" align="center"><input type="submit" class="button" value=" Send "></td></tr>
-				<tr><td colspan="2"><span style="color:red">*</span> = Required Field</td></tr>
+				<tr><td align="center"><input type="submit" class="button" value=" Send "></td></tr>
+				<tr><td><span style="color:red">*</span> = Required Field</td></tr>
 </tbody></table>
 				</form>
 				
-				</div>
+			  </div>
 							</td>
 			</tr>
 			<tr>
@@ -265,7 +330,7 @@ interest?</b></td></tr>
 			</td>
 			</tr>
 			</tbody></table>
-		</td>
+</td>
 		</tr>
 		</tbody></table>
 		</div>
