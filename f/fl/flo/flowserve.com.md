@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612233318id_/http%3A//www.flowserve.com/eim/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121085831id_/http%3A//flowserve.com/eim/Privacy) for the most accurate reproduction.*
 
 # Flowserve Corporation - Privacy
 
