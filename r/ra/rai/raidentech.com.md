@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213225130id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2008-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081122123359id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Raidentech.com - Online Shopping for Radio Controlled RC Toys & Hobbies, Electronics, Wireless Cameras, Airsoft, Nitro Cars, RC Trucks, RC Helicopters, RC Airplanes Privacy Policy
 
 _**Shop with Confidence!**  
 _  
-**100% Guaranteed  
-Lowest Price!**
+**[100% Guaranteed  
+Lowest Price!](https://web.archive.org/web/20081122123359id_/http%3A//www.raidentech.com/info.html)**
 
 You get the lowest price on every item we offer at RaidenTech.com! Should anybody be lower, we will match their advertised price! Guaranteed!
 
@@ -14,7 +14,7 @@ Guaranteed!**
 
 When you purchase anything from RaidenTech.com, we guarantee you quality merchandise that you will be satisfied in owning, or you may return it (unused in original packaging) for a prompt, courteous refund or exchange!
 
-| | [](https://web.archive.org/web/20071213225130id_/http://www.raidentech.com/index.html)
+| | [](https://web.archive.org/web/20081122123359id_/http%3A//www.raidentech.com/index.html)
 
 | **Privacy Issues** |    
 ---|---  
@@ -26,7 +26,11 @@ RaidenTech.com uses cookies to enhance your shopping and browsing experience. Th
 
 **Your privacy is secure...**
 
-We employ the latest Secure Socket Layer (SSL) encryption technology in all areas of the site which require you to provide your personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of your favorite browser, whether it's Microsoft Internet Explorer or Netscape Navigator/Communicator.   
+We employ the latest Secure Socket Layer (SSL) encryption technology in all areas of the site which require you to provide your personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of your favorite browser, whether it's Microsoft Internet Explorer or Netscape Navigator/Communicator. 
+
+  
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).  
+   
   
 ** Secure Online Transactions  
  **  
@@ -38,4 +42,4 @@ We employ the latest Secure Socket Layer (SSL) encryption technology in all area
 At RaidenTech.com, we understand that you demand the same level of confidence for the purchases you make online as you have for in-store or phone purchases. To provide that level of confidence, RaidenTech.com adopts the following technologies to protect you.
 
   
-[ ](http://www.verisign.com/) Our secure server is registered with VeriSign. If you are using a security-enabled browser (Netscape Navigator 128-bit version 4.0 or higher and Microsoft Internet Explorer 128-bit version 4.0 or higher are recommended) the 128-bit encryption technology will ensure the privacy of your data, and protect it while transmitting over the Internet. Your purchase is encrypted using an industry standard Secure Socket Layer (SSL). This enables your web browser to confirm Knowledge Micro's identity automatically and ensure that the information you send is received only by RaidenTech.com. 
+ Our secure server is registered with VeriSign. If you are using a security-enabled browser (Netscape Navigator 128-bit version 4.0 or higher and Microsoft Internet Explorer 128-bit version 4.0 or higher are recommended) the 128-bit encryption technology will ensure the privacy of your data, and protect it while transmitting over the Internet. Your purchase is encrypted using an industry standard Secure Socket Layer (SSL). This enables your web browser to confirm Knowledge Micro's identity automatically and ensure that the information you send is received only by RaidenTech.com. 
