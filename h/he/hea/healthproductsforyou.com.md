@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615052849id_/http%3A//www.healthproductsforyou.us/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2008-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081122055326id_/http%3A//www.healthproductsforyou.com/catalog/privacy_notice) for the most accurate reproduction.*
 
 # Health Products For You: Privacy Notice
 
-This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.US**](http://www.healthproductsforyou.us/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.com**](http://www.healthproductsforyou.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -38,4 +38,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 866-316-0162 or via email at**[ **sales@healthproductsforyou.us**](mailto:sales@healthproductsforyou.us). 
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 866-316-0162 or via email at**[ **sales@healthproductsforyou.com**](mailto:sales@HealthProductsforyou.com). 
