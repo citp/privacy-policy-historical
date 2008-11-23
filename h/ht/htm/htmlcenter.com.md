@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511221700id_/http%3A//htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2008-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081123031210id_/http%3A//htmlcenter.com/privacy-policy) for the most accurate reproduction.*
 
-# HTMLCenter - Privacy Policy
+# Privacy Policy | HTMLCenter - Web Help and Web Development Blog
 
 HTMLCenter takes your privacy seriously. We will never sell or rent your e-mail address or contact details.Please read the following to learn more about our privacy policy. 
 
-**What this Privacy Policy Covers**  
+**What this Privacy Policy Covers**
 
-
-  * This Privacy Policy covers HTMLCenter's treatment of personally identifiable information that HTMLCenter collects when you are on the HTMLCenter site, and when you use HTMLCenter's services. This policy also covers HTMLCenter's treatment of any personally identifiable information that HTMLCenter's business partners share with HTMLCenter or that HTMLCenter may collect on a partner's site.
+  * This Privacy Policy covers HTMLCenter’s treatment of personally identifiable information that HTMLCenter collects when you are on the HTMLCenter site, and when you use HTMLCenter’s services. This policy also covers HTMLCenter’s treatment of any personally identifiable information that HTMLCenter’s business partners share with HTMLCenter or that HTMLCenter may collect on a partner’s site.
   * This policy does not apply to the practices of companies that HTMLCenter does not own or control, or to people that HTMLCenter does not employ or manage.
 
 
@@ -55,6 +54,6 @@ HTMLCenter takes your privacy seriously. We will never sell or rent your e-mail 
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions [contact us](https://web.archive.org/contacts/index.cfm).
+  * If you have questions or suggestions [contact us](https://web.archive.org/contacts/index.cfm?PHPSESSID=adfa16958ea6b628af3010ca82bc1aed).
 
 
