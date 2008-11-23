@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110091500id_/http%3A//www.oce.com/en/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2008-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081123055450id_/http%3A//www.oce.com/en/legal.htm) for the most accurate reproduction.*
 
 # Privacy
 
