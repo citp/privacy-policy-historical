@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the votefromabroad.org privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625200606id_/http%3A//www.votefromabroad.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votefromabroad.org privacy policy that was archived on 2008-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081126210537id_/http%3A//www.votefromabroad.org/privacy.php) for the most accurate reproduction.*
 
 # VoteFromAbroad.org : Privacy statement
 
