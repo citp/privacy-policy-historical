@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2007-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070915014546id_/http%3A//www.drugfree.org/TermsOfUse/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2008-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081126224153id_/http%3A//www.drugfree.org/TermsOfUse/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - The Partnership For a Drugfree America
 
