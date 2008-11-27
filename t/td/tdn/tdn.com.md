@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tdn.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614051309id_/http%3A//www.tdn.com/info/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdn.com privacy policy that was archived on 2008-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081127225802id_/http%3A//www.tdn.com/info/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-Welcome to the web sites of the (enterprise name). We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
+Welcome to the web sites of The Daily News. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
 ##### Information Automatically Gathered About All Visitors
 
