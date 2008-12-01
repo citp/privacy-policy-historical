@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629022833id_/http%3A//www.ibisworld.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201013557id_/http%3A//www.ibisworld.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # IBISWorld
 
@@ -17,7 +17,7 @@ IBISWorld will only collect your name and contact details ("your personal inform
 
 IBISWorld will not disclose your personal information outside the organization. If you do not provide IBISWorld with the information requested, IBISWorld will not be able to provide you with access to the website, nor communicate with you to keep you informed of product updates, training and other information it feels is relevant to you. 
 
-Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, or if you no longer wish to receive direct marketing material, please tell us via our [online inquiry](https://web.archive.org/about/enquiry.aspx) page. 
+Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, or if you no longer wish to receive direct marketing material, please tell us via our [online inquiry](http://www.ibisworld.com/about/enquiry.aspx) page. 
 
 2\. Consent  
 If you choose not to register or provide personal information, you can still use some of the website. However, you will not be able to access areas that require registration, including areas that require subscription or payment. 
@@ -36,4 +36,4 @@ The website uses Thawte SSL certificates on the IBISWorld web server, giving you
 IBISWorld strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
 6\. Enforcement  
-If for some reason you believe IBISWorld has not adhered to these principles, please notify us by [Online Inquiry](https://web.archive.org/about/enquiry.aspx), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject drop down list. 
+If for some reason you believe IBISWorld has not adhered to these principles, please notify us by [Online Inquiry](http://www.ibisworld.com/about/enquiry.aspx), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject drop down list. 
