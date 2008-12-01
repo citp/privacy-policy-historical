@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bills.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605172849id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bills.com privacy policy that was archived on 2008-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081201031919id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Bills.com Privacy Policy</title>
@@ -12,9 +12,11 @@
 <link rel="stylesheet" type="text/css" href="/css/footer.css">
 <link rel="stylesheet" type="text/css" href="/css/columns.css">
 <link rel="stylesheet" type="text/css" href="/css/sitemap.css">
-<link rel="stylesheet" type="text/css" href="/css/new home.css">
 <link rel="shortcut icon" href="http://www.bills.com/favicon.ico">
 <script language="javascript" type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" language="javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" language="javascript" src="/js/nav_dropdowns.js"></script>
+<script type="text/javascript" language="javascript" src="/js/headNav.js"></script>
 <script language="javascript">
 function updateTabs(){ }
 </script>
@@ -30,8 +32,53 @@ function updateTabs(){ }
 	li { font-size: 11px; }
 </style>
 </head>
-<body>
+<body onload="createDropDownMenus('other')">
 <div id="wrapper">
+  <!-- Site Header -->
+  <div id="header">
+    <div id="headerTop">
+
+	<a href="http://www.bills.com" title="debt consolidation"><img src="/images/debt_consolidation.jpg" border="0" alt="debt consolidation" id="headerLogo"></a>
+	
+	<div id="headerTagline">Your One Stop Resource for Saving Money.</div>
+	
+	<form name="helpMe" id="headerForm">
+		Help Me:<br>
+		<select name="help" onchange="javascript: quickJump(this.options[selectedIndex].value);">
+			<option value="">Find. Learn. Save.</option>
+			<option value="1">Consolidate Debt</option>
+			<option value="10">Refinance Mortgage</option>
+			<option value="11">Get a Reverse Mortgage</option>							
+			<option value="2">Buy a Home</option>
+			<option value="3">Get Debt Free</option>
+			<option value="6">Get a Loan</option>
+			<option value="7">Learn About Credit</option>
+			<option value="8">Ask Bill a Question</option>
+			<option value="12">Get My BillsIQ</option>
+		</select>
+	</form>
+	
+</div>    <div id="headNav">
+	<div id="mortgage_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/mortgage/" class="headNavMainLink headNavMainLinkLeft">Mortgage</a>
+	</div>
+	<div id="debthelp_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/debthelp/" class="headNavMainLink">Debt Help</a>
+	</div>
+	<div id="insurance_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/insurance/" class="headNavMainLink">Insurance</a>
+	</div>
+	<div id="billpay_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/bill-consolidation/" class="headNavMainLink">Bill Consolidation</a>
+	</div>
+	<div id="loans_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/loans/" class="headNavMainLink">Loans</a>
+	</div>
+	<div id="credit_menu_div" class="headNavColumn" onmouseover="showSubNav(this);" onmouseout="hideSubNav(this);">
+		<a href="/credit/" class="headNavMainLink">Credit</a>
+	</div>
+</div>
+ </div>
   <!-- Site Body Content -->
   <div id="contentSub">
     <h1>Bills.com Privacy Policy</h1>
@@ -40,13 +87,13 @@ function updateTabs(){ }
     <div id="container">
       <div id="inner">
         <div id="left">
-          <div class="leftOFF"><a href="http://www.bills.com/about_us/">About Us</a></div><div class="leftOFF"><a href="http://www.bills.com/media_kit/">Media Kit</a></div><div class="leftOFF"><a href="http://www.bills.com/news_releases/">News Releases</a></div><div class="leftON"><a href="http://www.bills.com/privacypolicy/">Privacy Policy</a></div><div class="leftOFF"><a href="http://www.bills.com/contact/">Contact Us</a></div><div class="leftOFF"><a href="http://www.bills.com/lender_form/">For Lenders</a></div><div class="leftOFF"><a href="http://www.bills.com/key-partners/">Key Partners</a></div>        </div>
+          <div class="leftOFF"><a href="http://www.bills.com/about_us/">About Us</a></div><div class="leftOFF"><a href="http://www.bills.com/media_kit/">Media Kit</a></div><div class="leftOFF"><a href="http://www.bills.com/news_releases/">News Releases</a></div><div class="leftON"><a href="http://www.bills.com/privacypolicy/">Privacy Policy</a></div><div class="leftOFF"><a href="http://www.bills.com/contact/">Contact Us</a></div><div class="leftOFF"><a href="http://www.bills.com/lender_form/">For Lenders</a></div><div class="leftOFF"><a href="http://www.bills.com/lenderletter/">Lender Letter</a></div><div class="leftOFF"><a href="http://www.bills.com/key-partners/">Key Partners</a></div>        </div>
         <div id="center">
 			<p><a href="http://www.truste.org/ivalidate.php?url=www.bills.com&amp;sealid=101"><img src="/images/clickseal.gif" style="float:right; padding-left: 10px; padding-bottom: 10px; padding-top: 10px;" border="0"></a></p>
 			
 			<p align="center">
 				<strong><u>Bills.com Privacy Policy</u></strong><br>
-				Last updated: October 12, 2007.
+				Last updated: Novemeber 1, 2008.
 			</p>
 
 			<p>Bills.com recognizes your expectation of privacy and security, and we greatly respect your privacy concerns.  Your security and the security of your personal information is a top priority for Bills.com.  This privacy policy applies to the information you submit on the www.bills.com  and www.theeasyloansite.com (collectively, “Bills.com”) websites, and outlines how we gather information and how bills.com maintains your private data to ensure our goal of satisfied and trusted users.  This Privacy Policy does not apply to websites maintained by other partners or companies that we link to or that we work with – for information on other partners’ policies, please refer to their own privacy policies.  If you have questions or concerns regarding this Privacy Policy, you may contact Bills.com at <a href="mailto:customercare@bills.com">customercare@bills.com</a> or <a href="mailto:customercare@theeasyloansite.com">customercare@theeasyloansite.com</a>.</p>
@@ -64,8 +111,8 @@ function updateTabs(){ }
 				</p><ul>
 					<li>Information provided by you in connection with obtaining financial products or services that you have requested; this may include, but not limited to, the following: full name, address, city, state, zip code, work phone, home phone, email address, home type, current home value, loan amount requested, 1st mortgage balance, rate and payment, estimated credit rating, employment status, yearly income and bankruptcy history.</li>
 					<li>Information you provide us when you register (such as your email address).</li>
-					<li>On www.bills.com only - Information, including your email address, when you ask a question in the “Ask Bill” section of the website (so that we can respond and post our answer to your question).</li><li>
-				</li></ul>
+					<li>On www.bills.com only - Information, including your email address, when you ask a question in the “Ask Bill” section of the website (so that we can respond and post our answer to your question).</li>
+				</ul>
 			<p></p>
 			
 			<p><strong>Information Sharing, Use and Disclosure</strong></p>
@@ -74,16 +121,14 @@ function updateTabs(){ }
 			<p>
 				We do not share personal information about you with other people or nonaffiliated companies who are not agents or service providers except to provide products or services you have requested or under the following circumstances:
 				</p><ul>
-					<li><strong>Products or Service Requests on www.bills.com</strong> - If you submit a request for a product or service on our site (and not while on a masked page – See “Masking” below)  we will share the personal information contained in your request form such as your full name, telephone number and email address with our service providers  to process and fulfill your request. For example, when you go to the Mortgage/refinance services pages at https://www.bills.com/mortgage/mortgage_refinance2/, the information that you submit will be shared with our service providers to provide you with a refinance quote.  Our service providers will contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our service providers contacts you by telephone and you wish not to be contacted again by that service provider with respect to your inquiry, then you should specifically make a request to that service provider not to contact you again.</li>
-					<li><strong>Products or Service Requests on www.theeasyloansite.com</strong> - If you submit a request for a product or service such as home refinance, cash-out refinance, home equity, and home purchase loans .  We will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.</li>
+					<li><strong>Products or Service Requests on www.bills.com</strong> - If you submit a request for a product or service on our site we will share the personal information contained in your request form such as your full name, telephone number and email address with our service providers  to process and fulfill your request. For example, when you go to the Mortgage/refinance services pages at https://www.bills.com/mortgage/mortgage_refinance2/, the information that you submit will be shared with our service providers to provide you with a refinance quote.  Our service providers will contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our service providers contacts you by telephone and you wish not to be contacted again by that service provider with respect to your inquiry, then you should specifically make a request to that service provider not to contact you again.</li>
+					<li><strong>Products or Service Requests on www.theeasyloansite.com</strong> - If you submit a request for a product or service such as home refinance, cash-out refinance, home equity, and home purchase loans, we will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.</li>
 					<li><strong>As Permitted by Law</strong> - We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Bills.com's Terms of Use, or as otherwise required by law.</li>
 					<li><strong>Business Transfer</strong> - As with any other business, it is possible that Bills.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Bills.com, including customer account information, but would continue to be bound by this privacy Policy unless you consent otherwise.</li>
 				</ul>
 			<p></p>
 				
-			<p><strong>Masking – <u>www.bills.com</u> only</strong></p>
-			<p>Please note that when using our Bill Pay service, you will directed to www.billdelivery.com.  It will appear as if you are still on www.Bills.com, even though you are actually on www.billdelivery.com.  Their url is being “masked” or hidden to provide you a more seamless experience on the site.  We give you notice in our header that all information collected on this page is governed by our trusted third party – www.billdelivery.com ‘s privacy policy and/or terms and conditions.  We encourage you to read the privacy policies and terms and conditions of all third party sites, because their practices may differ from ours.</p>
-			
+		
 			<p><strong>Advertisements &amp; Pop Up Windows</strong></p>
 			<p>On occasion, you may receive advertisements for Bills.com from third parties. For instance, when visiting a third party website, you may receive a "pop up" window advertising Bills.com. Please note that such advertisements are served by the third party website that you have visited and are not controlled by Bills.com. In addition, such advertisements may be placed by third party ad servers or ad networks. We maintain relationships with a number of the third party ad networks currently operating.</p>
 			
@@ -91,7 +136,7 @@ function updateTabs(){ }
 			<p>You may sign up to receive our newsletter that is sent via email on the home page and also on various pages on the site.  If you decide you no longer wish to receive our newsletter, you may unsubscribe using the “unsubscribe” link on each email.  If you have any problems, please contact us at <a href="mailto:customercare@bills.com">customercare@bills.com</a> or <a href="mailto:customercare@theeasyloansite.com">customercare@theeasyloansite.com</a>.</p>
 			
 			<p><strong>Anti-Spam Policy</strong></p>
-			<p>You will not receive Bills.com email communications unless you submit your email address to us and register to receive them (see “Newsletter”). Additionally, you may also receive emails that advertise Bills.com's services from third party publishers. We have established firm ground rules for dealing with any third party email services to ensure that advertisements for Bills.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive email communications. If any third party email publisher refuses to abide by Bills.com's anti-Spam policy, we will not use that publisher's services. If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the third party email so that you will not be included in any future mailings. An "unsubscribe" link should appear within or at the top or bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at <a href="mailto:customercare@bills.com">customercare@bills.com</a> or <a href="mailto:customercare@theeasyloansite.com">customercare@theeasyloansite.com</a>.</p>
+			<p>You will not receive Bills.com email communications unless you submit your email address to us or register to receive them (see “Newsletter”). Additionally, you may also receive emails that advertise Bills.com's services from third party publishers. We have established firm ground rules for dealing with any third party email services to ensure that advertisements for Bills.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive email communications. If any third party email publisher refuses to abide by Bills.com's anti-Spam policy, we will not use that publisher's services. If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the third party email so that you will not be included in any future mailings. An "unsubscribe" link should appear within or at the top or bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at <a href="mailto:customercare@bills.com">customercare@bills.com</a> or <a href="mailto:customercare@theeasyloansite.com">customercare@theeasyloansite.com</a>.</p>
 			
 			<p><strong>Testimonials</strong></p>
 			<p>If you submit a testimonial to us, we will ask for your permission to post your testimonial prior to posting on the Web site.   We will post your name as given to us in your testimonial.  We may post a photo of you or use a stock photo.  Please be aware that any personally identifiable information you submit as a testimonial to be posted can be read, collected, or used by the general public, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit to us as a testimonial.  If you would like to your testimonial removed at any time, please contact us at <a href="mailto:customercare@bills.com">customercare@bills.com</a> or <a href="mailto:customercare@theeasyloansite.com">customercare@theeasyloansite.com</a>.</p>
@@ -120,7 +165,7 @@ function updateTabs(){ }
 			<p>If you do not want us to share your information with our partners, do not submit your information on the loan request or other forms on our Web site. Information submitted on our site is shared with our trusted third parties, in order to provide you with the specific services or information that you requested.  If you no longer wish to receive communications from these third parties, please contact them directly.  Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications. You may not opt-out from receiving critical services update emails.  If have signed up to receive our newsletter, you may unsubscribe by clicking on the link within each email sent to you.</p>
 			
 			<p><strong>Third Party Links</strong></p>
-			<p>This Privacy Policy applies to all information that you provide to Bills.com. However, when you visit websites to which Bills.com provides a link, keep in mind you will be interacting with a third party that operates under its own terms and conditions and/or privacy policies. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's terms and conditions and/or privacy policy.  On www.bills.com only - A third party site will also have its own policy regarding the use of cookies and clear gifs. For example, when you use our Bill Pay service as described in “Masking”, you will be directed to www.billdelivery.com url (masked as www.bills.com).  This header explains that you will be entering your information onto a third party site.  We encourage you to review the terms and conditions and privacy policies of third parties from whom you request services and share personally identifiable information...</p>
+			<p>This Privacy Policy applies to all information that you provide to Bills.com. However, when you visit websites to which Bills.com provides a link, keep in mind you will be interacting with a third party that operates under its own terms and conditions and/or privacy policies. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's terms and conditions and/or privacy policy.  On www.bills.com only - A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the terms and conditions and privacy policies of third parties from whom you request services and share personally identifiable information...</p>
 
 			<p><strong>A Special Note about Children's Privacy</strong></p>
 			<p>You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians.  Please see our Terms of Use for more information.</p>
@@ -145,7 +190,6 @@ function updateTabs(){ }
 			</p>
 			
 			<p><strong>Changes to this Privacy Policy</strong></p>
-			<p>Bills.com may update or modify this Privacy Policy from time to time. If there are material changes to this Privacy Policy or in how Bills.com will use your personal information, we will post such changes here, via email, or by notice on our home page. You will be notified of any material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website.</p>
 			<p>By using this site, you signify your assent to the Bills.com Privacy Policy. If you do not agree to this policy, please do not use www.Bills.com.  We reserve the right to make changes in this policy at any time. Please check the policy each time you use our website to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our Privacy Policy.</p>
 			
 		</div>
@@ -155,129 +199,45 @@ function updateTabs(){ }
     </div>
     <!-- END MAGICAL STYLES -->
     <div class="spacer"></div>
-    <div id="footer">       <div style="width:100px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/mortgage/">Mortgage</a>        </div>        <div class="footerLinks">          <a href="http://www.bills.com/home-refinance/">Home Refinance</a><br>
-          <a href="http://www.bills.com/home-purchase/">Home Purchase</a><br>
-          <a href="http://www.bills.com/debtconsolidation/">Debt Consolidation</a><br>
-          <a href="http://www.bills.com/home-finance/">Home Finance</a><br>
-          <a href="http://www.bills.com/refinance-my-home/">Refinance My Home</a><br>
-          <a href="http://www.bills.com/reversemortgage/">Reverse Mortgage</a><br>
-          <a href="http://www.bills.com/fha-loans/">FHA Home Loan</a><br>
-          <a href="http://www.bills.com/mortgage-refinancing/">Mortgage Refinancing</a><br>
-          <a href="http://www.bills.com/subprime-mortgages/">Subprime Mortgages</a><br>
-          <a href="http://www.bills.com/foreclosure/">Foreclosure</a><br>
-          <a href="http://www.bills.com/second-mortgage/">Second Mortgage</a><br>
-          <a href="http://www.bills.com/lender-profiles/">Mortgage Lenders</a><br>
-        </div>      </div>
-      <div style="width:140px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/debthelp/">Debt Help</a>        </div>        <div class="footerLinks">          <a href="http://www.bills.com/debt-consolidation/">Debt Consolidation</a><br>
-          <a href="http://www.bills.com/debt-consolidation-services/">Debt Consolidation Services</a><br>
-          <a href="http://www.bills.com/debt-consolidation-loan/">Debt Consolidation Loan</a><br>
-          <a href="http://www.bills.com/debt_relief/">Debt Relief</a><br>
-          <a href="http://www.bills.com/credit-card-debt/">Credit Card Debt</a><br>
-          <a href="http://www.bills.com/credit-card-debt-consolidation/">Credit Card Debt Consolidation</a><br>
-          <a href="http://www.bills.com/bankruptcy/">Bankruptcy</a><br>
-          <a href="http://www.bills.com/ayuda-de-la-deuda/">Ayuda De La Deuda</a><br>
-          <a href="http://www.bills.com/debt-pointers/">Debt Pointers</a><br>
-          <a href="http://www.bills.com/consolidate-my-debt/">Consolidate My Debt</a><br>
-        </div>      </div>
-      <div style="width:95px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/insurance/">Insurance</a>        </div>        <div class="footerLinks">          <a href="http://www.bills.com/auto-insurance/">Auto Insurance</a><br>
-          <a href="http://www.bills.com/health-insurance/">Health Insurance</a><br>
-          <a href="http://www.bills.com/home-insurance/">Home Insurance</a><br>
-        </div>      </div>
-      <div style="width:120px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/billpay/">Bill Pay</a>        </div>        <div class="footerLinks">          <a href="http://www.bills.com/bill-consolidation/">Bill Consolidation</a><br>
-          <a href="http://www.bills.com/consolidate-bills/">Consolidate Bills</a><br>
-          <a href="http://www.bills.com/consolidate-my-bills/">Consolidate My Bills</a><br>
-        </div>      </div>
-      <div style="width:100px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/loans/">Loans</a>        </div>        <div class="footerLinks">          <a href="http://www.bills.com/home-loan/">Home Loan</a><br>
-          <a href="http://www.bills.com/home-equity-loan/">Home Equity Loan</a><br>
-          <a href="http://www.bills.com/home-equity-line/">Home Equity Line</a><br>
-          <a href="http://www.bills.com/payday-loans/">Pay Day Loans</a><br>
-          <a href="http://www.bills.com/student-loans/">Student Loans</a><br>
-          <a href="http://www.bills.com/auto-loans/">Auto Loans</a><br>
-        </div>      </div>
-      <div style="width:80px;float:left;margin-left:10px;">
-        <div class="footerTitles">          <a href="http://www.bills.com/credit/">Credit</a>        </div>        <div class="footerLinks" style="border:none;">          <a href="http://www.bills.com/credit/">Credit Information</a><br>
-          <a href="http://www.bills.com/bad-credit/">Bad Credit</a><br>
-          <a href="http://www.bills.com/credit-counseling/">Credit Counseling</a><br>
-          <a href="http://www.bills.com/credit-score/">Credit Score</a><br>
-          <a href="http://www.bills.com/credit-cards/">Credit Cards</a><br>
-          <a href="http://www.bills.com/credit-report/">Credit Report</a><br>
-          <a href="http://www.bills.com/credit-monitoring/">Credit Monitoring</a><br>
-          <a href="http://www.bills.com/credit-solutions/">Credit Solutions</a><br>
-        </div>      </div>
-        <div class="footerSub">
-<div style="float:left; text-align:left; width: 200px; position:relative; top:-30px; left:5px; ">
+    <div id="footer"> <div class="footerSub">
+
+		<div style="float:left; text-align:left; width: 200px; position:relative; ">
 			<form action="http://www.bills.com/phpdig/search.php" method="post">
 				<input type="text" name="query_string" value="Start new search" onfocus="this.select();">
 				<input type="hidden" name="template_demo" value="bills.html">
 				<input type="submit" name="search" value="Search">
 			</form>
-		  </div>
-		  <div style="float:right; position:relative; left: -20px; top: -25px;">
-
-		            <a href="http://www.bills.com/about_us/">company</a> <a href="http://www.bills.com/FAQs/">FAQs</a> <a href="http://www.bills.com/contact/">contact us</a> <a href="http://www.bills.com/lender_form/">for lenders</a> <a href="http://www.bills.com/termsofuse/">terms of use</a> <a href="http://www.bills.com/privacypolicy/">privacy policy</a> <a href="http://www.bills.com/about_us/">media center</a> <a href="http://www.bills.com/blog/">blog</a> <a href="http://www.bills.com/simplesitemap/">site map</a>
-
-					</div>        </div>
+		</div>
+		<div style="float:right; position:relative;">
+			<a href="http://www.bills.com/" title="debt consolidation">debt consolidation</a>
+			<a href="http://www.bills.com/about_us/" rel="nofollow">company</a>
+			<a href="http://www.bills.com/FAQs/" rel="nofollow">FAQs</a> 
+			<a href="http://www.bills.com/contact/" rel="nofollow">contact us</a>
+			<a href="http://www.bills.com/lender_form/" rel="nofollow">for lenders</a> 
+			<a href="http://www.bills.com/termsofuse/" rel="nofollow">terms of use</a>
+			<a href="http://www.bills.com/privacypolicy/" rel="nofollow">privacy policy</a> 
+			<a href="http://www.bills.com/about_us/" rel="nofollow">media center</a>
+			<a href="http://www.bills.com/blog/">blog</a> 
+			<a href="http://www.bills.com/sitemap/" rel="nofollow">site map</a>
+		</div> <div style="clear: both"></div>       </div>
       <script language="javascript">
       <!--
-      updateTabs('mortgage','')
+      updateTabs('debthelp','')
       -->
       </script>
  </div>
     <div id="copyright">© 2006 Bills.com. All Rights Reserved.</div>
   </div>
-  <!-- Site Header -->
-  <div id="header">
-       <div id="headLogo">
-		
-			<a href="/">
-				<img src="/images/new home/bills.com logo.jpg" border="0" alt="Information on bills, debt relief, bill consolidation, loan, mortgage, debt help from Bills.com" style="float:left;">
-			</a>
-			
-			<div id="header_tagline">Your One Stop Resource for Saving Money.</div>
-			
-			<div style="float:right; width:130px;">
-				<!--<a href="http://www.bills.com/lender_form/?rbc=home" style="float:right; margin-top:6px;"><img src="/images/mortgage-lenders-button.gif" border="0" /></a>-->
-				
-				<div style="float:right; text-align:left; width: 130px; margin: 43px 0px 0px 0px">
-					<form name="helpMe" style="margin:0px; padding:0px;">
-						Help Me:<br>
-						<select name="help" onchange="javascript: quickJump(this.options[selectedIndex].value);">
-							<option value="">Find. Learn. Save.</option>
-							<option value="1">Consolidate Debt</option>
-							<option value="10">Refinance Mortgage</option>
-							<option value="2">Buy a Home</option>
-							<option value="3">Get Debt Free</option>
-							<option value="4">Get Insurance</option>
-							<option value="5">Pay Bills Online</option>
-							<option value="6">Get a Loan</option>
-							<option value="7">Learn About Credit</option>
-							<option value="8">Ask Bill a Question</option>
-							<option value="9">Learn More</option>
-							<option value="11">Reverse Mortgage</option>
-						</select>
-					</form>
-				</div>
-			</div>	
-		</div>    <div id="headTabs"><a href="/mortgage/" id="leftLink" rel="nofollow">Mortgage</a><a href="/debthelp/" rel="nofollow">Debt Help</a><a href="/insurance/" rel="nofollow">Insurance</a><a href="/billpay/" rel="nofollow">Bill Pay</a><a href="/loans/" rel="nofollow">Loans</a><a href="/credit/" rel="nofollow">Credit</a></div>
-	<div id="headSub">
-	</div>
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-	function moreMouseOver() {
-		clearTimeout(to);
-		document.getElementById('moreUL').style.display = "block";
-	}
-	function moreMouseOut() {
-		clearTimeout(to);
-		to = setTimeout('document.getElementById(\'moreUL\').style.display = "none"', 100);
-	}
-	var to;
-//--><!]]></script> </div>
 </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4642307-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 </body></html>
