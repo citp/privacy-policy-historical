@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105841id_/http%3A//www.sandisk.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201143641id_/http%3A//www.sandisk.com/privacypolicy) for the most accurate reproduction.*
 
 # SanDisk | Corporate | About SanDisk Corporation | Privacy Policy
 
@@ -57,8 +57,6 @@ SanDisk collects and uses information you provide to us including information ob
 SanDisk’s vendors and suppliers may process your personal data under the direction and control of SanDisk. Whenever we may need to share your personal information, we try to provide you with the information you need to make informed reasonable choices and we manage your information consistent with applicable privacy law.
 
 SanDisk collects and uses personal information from you in several ways:
-
-  
 
 * **Web Site Usage.** SanDisk, or SanDisk vendors and suppliers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of this web site. While we may collect or log this information, we do not identify you or match this non-personal information with your other personal information. We may use this collected or logged information to diagnose web site technical problems, or to facilitate your use of the site. SanDisk, or one of our vendors or suppliers, also may use this information to track aggregate traffic patterns throughout this web site.    
  
