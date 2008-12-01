@@ -1,34 +1,7 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019051958id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201010110id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
 
 # Diversity Jobs | Hispanic Jobs | Bilingual Jobs | Spanish Jobs
 
-   
-| 
-
-[](http://www.truste.org/ivalidate.php?url=www.latpro.com&sealid=101)
-
-| 
-
-**Effective Date:**
-
-| 
-
-**May 2, 2007**  
-  
----|---  
-  
-**Last updated:**
-
-| 
-
-**May 2, 2007**  
-  
-****
-
-LatPro.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.latpro.com](http://www.latpro.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact us at . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.  
-  
 LatPro.com Privacy Commitment   
   
 LatPro.com is committed to protecting your privacy. We seek to provide a safe, secure user experience and ensure that the information you submit to us remains private. This Privacy Statement is incorporated into and subject to the terms of the LatPro User Agreement.
@@ -71,7 +44,7 @@ In the event LatPro.com goes through a business transition, such as a merger, ac
   
 Opting out   
   
-We provide you the opportunity to �opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
+We provide you the opportunity to opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
 
 When registering as a candidate, we provide an opportunity to 'opt-out' from our job seeker newsletters.
 
@@ -79,7 +52,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 For registered job seekers, we also offer a central webpage to opt-out from all communications. Just go to https://www.latpro.com/USER/JOBS/emailPrefs.php , login, then select which communications you would like to stop receiving.
 
-You may also opt-out by calling us at 954-727-3844 or in writing to 3050 Universal Blvd, Suite 120 - Weston, FL 33331, USA.
+You may also opt-out by calling us at 954-727-3844 or in writing to 8751 W Broward Blvd, Suite 506 - Plantation, FL 33324, USA.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.  
   
@@ -91,7 +64,10 @@ Security Disclosure
   
 The security of your personal information and email address is important to us. We follow industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). The secure server software (SSL) encrypts all information you input before it is sent to us. Our SSL Certificate is issued by Thawte, which is a leading global Certification Authority. To view our certificate, follow this link: [https://www.thawte.com/core/process?process=public-site-seal-cert-details&public-site-seal-cert-details.referer=http://www.latpro.com/](https://www.thawte.com/core/process?process=public-site-seal-cert-details&public-site-seal-cert-details.referer=http://www.latpro.com/)  To learn more about SSL, follow this link <http://www.webopedia.com/TERM/S/SSL.html>.
+When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). The secure server software (SSL) encrypts all information you input before it is sent to us. Our SSL Certificate is issued by Digicert, which is a leading global Certification Authority. To view our certificate, click on the image below: 
+
+  
+ To learn more about SSL, follow this link <http://www.webopedia.com/TERM/S/SSL.html>. 
 
 Additionally, we employ security techniques to protect your data from unauthorized access both inside and outside the company. Inside our company, your Personally Identifiable Information is available in a need-to-know basis. Our administrative interface restricts access of certain types of information to specific internal roles. Our servers are hosted in highly secure state-of-the-art facilities where access to servers is restricted to senior LatPro engineers only. 
 
@@ -113,7 +89,7 @@ Resumes
   
 As an employment/career site, LatPro.com, allows you to put your resume in our database. There are two ways of doing this:
 
-  1. You can store your resume in our database, but not allow it to be searchable by employers/recruiters. This will allow you to respond to a job posting without ever making your resume accessible to employers/recruiters searching our resume database.� 
+  1. You can store your resume in our database, but not allow it to be searchable by employers/recruiters. This will allow you to respond to a job posting without ever making your resume accessible to employers/recruiters searching our resume database. 
   2. If you allow your resume to be searchable, then all employers and recruiters who have registered on our site and been approved by LatPro.com will have access to your resume.
 
 
@@ -130,7 +106,7 @@ LatPro.com allows you to change or correct your personal information and email a
   
 Cookies  
   
-To enhance your experience at� LatPro.com we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names, passwords and preferences, tracking click streams, and for load balancing. While we use cookies to store your user name and password, we encrypt the data contained within the cookie(s) to protect your personally identifiable information. This feature is completely optional, and will not affect the user experience in our site. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will prevent you from using our site effectively. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+To enhance your experience at LatPro.com we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names, passwords and preferences, tracking click streams, and for load balancing. While we use cookies to store your user name and password, we encrypt the data contained within the cookie(s) to protect your personally identifiable information. This feature is completely optional, and will not affect the user experience in our site. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will prevent you from using our site effectively. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 3rd Party Cookies: Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by LatPro.com only and does not cover the use of cookies by any advertisers. The systems that may post cookies are Google, Adjugler and Bluestreak.  
   
@@ -161,8 +137,8 @@ Contacting Us
 For further information or questions regarding this privacy policy, please contacts us. We welcome your questions and suggestions. 
 
 LatPro, Inc  
-3050 Universal Blvd, Suite 120  
-Weston, FL 33331 - USA  
+8751 W Broward Blvd, Suite 506   
+Plantation, FL 33324 - USA  
 tel: 954-727-3844  
 fax: 954-727-3845  
 email: 
