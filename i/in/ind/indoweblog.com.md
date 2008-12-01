@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indoweblog.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619095852id_/http%3A//indoweblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indoweblog.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201101328id_/http%3A//indoweblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indoweblog - Blog for Everyone
 
