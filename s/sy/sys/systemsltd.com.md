@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systemsltd.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615163759id_/http%3A//www.systemsltd.com/page.asp%3FID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemsltd.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201050507id_/http%3A//www.systemsltd.com/page.asp%3FID%3D26) for the most accurate reproduction.*
 
 # Privacy Policy - Systems Limited
 
