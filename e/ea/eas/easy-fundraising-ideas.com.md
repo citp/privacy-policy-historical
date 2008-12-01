@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-fundraising-ideas.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623093744id_/http%3A//www.easy-fundraising-ideas.com/help-center/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-fundraising-ideas.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201024220id_/http%3A//www.easy-fundraising-ideas.com/help-center/security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy
 
@@ -33,10 +33,10 @@ Easy Fundraising Ideas (hereafter EFI) is concerned about privacy on the Web. As
 **6\. How to Contact EFI**. Please contact EFI with questions or comments regarding this Privacy Policy and/or this Site at:
 
 > Easy Fundraising Ideas  
->  7117 Twin Oaks  
+>  PO Box 839  
 >  Mansfield, TX 76063
 > 
 > Toll Free: **1-866-874-8383**  
->  Fax: 1-817-478-9494
+>  Fax: 1-682-518-1616
 > 
 > Info: [info@easy-fundraising-ideas.com](mailto:info@easy-fundraising-ideas.com)
