@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608025838id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201170619id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
 
 # PRC's Privacy Policy
 
@@ -7,7 +7,7 @@
 **Privacy Rights Clearinghouse**  
 [www.privacyrights.org/policy.htm](http://www.privacyrights.org/policy.htm)  
 Posted: March 1999  
-Revised December 26, 2005 
+Revised July 16, 2008 
 
 * * *
 
@@ -15,7 +15,7 @@ Your privacy is very important to us. The Privacy Rights Clearinghouse (PRC) res
 
 When you visit our web site we do not capture personally identifiable information. We do not use "cookies" on our web site. (For an explanation of cookies, see our [fact sheet number 18](http://www.privacyrights.org/fs/fs18-cyb.htm)). Our Internet service provider collects information about the date and time when our web site was accessed and, if you linked to our web site from another web site, it records the Internet address of the web site from which you linked to our site. This information is collected to measure the number of visitors to our site and the addresses of the web sites from which our visitors come. The Internet service provider does not record the email address and other personally identifiable information of persons who view our web site. 
 
-We record personally identifiable information (name, email address, mailing address, city, state, zip code, and phone number) from those who voluntarily provide it. The online [inquiry/complaint form](https://secure.privacyrights.org/qwertyuiopasdfghjkl.php) asks for such information. Our downloadable [mail-in donation form](http://.//www.privacyrights.org/Donation-Form.pdf) asks for the same information and your check includes your account information. 
+We record personally identifiable information (name, email address, mailing address, city, state, zip code, and phone number) from those who voluntarily provide it. Our downloadable [mail-in donation form](http://.//www.privacyrights.org/Donation-Form.pdf) asks for this information and your check includes your account information.
 
 If you provide personally identifiable information to us, we keep the information confidential. We will only release your personally identifiable information if you have given explicit consent. 
 
@@ -27,6 +27,6 @@ We do not sell, rent, share, or otherwise disclose mailing lists or other person
 
 On occasion , the media or legislators ask us for names and contact information of individuals who have experienced particular privacy abuses. We do not share such information unless you specifically authorize us to do so. 
 
-If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to bgivens@privacyrights.org, notify us through our inquiry form at [www.privacyrights.org/qwertyuiopasdfghjkl.php](https://secure.privacyrights.org/qwertyuiopasdfghjkl.php), or contact us by phone or mail. 
+If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to bgivens@privacyrights.org, or contact us by phone or mail.
 
 Please contact PRC director Beth Givens if you have any questions or comments about the PRC privacy policy. 
