@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeskier.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630102737id_/http%3A//community.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeskier.com privacy policy that was archived on 2008-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081201095632id_/http%3A//www.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- ==================================================================== --><head>
 
@@ -16,6 +16,52 @@
 <script src="/resources/js/scriptaculous/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/resources/js/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/resources/js/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/resources/js/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/resources/js/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/resources/js/scriptaculous/slider.js"></script>
 <script src="/resources/js/popupWindows/popupWindows.js" type="text/javascript"></script>
 <script type="text/javascript" src="/resources/js/lightbox/lightbox.js"></script>
+<script src="/site/templates/shared/js/videoGlider.js" type="text/javascript" language="javascript"></script>
+<script src="/site/templates/shared/js/effects.js" type="text/javascript" language="javascript"></script>
+<link rel="stylesheet" href="/site/templates/shared/css/videoGlider.css" type="text/css" media="screen" charset="utf-8">
+
+<!-- Javascript to produce the DIV swap for more stories -->
+<script type="text/javascript">
+Effect.divSwap = function(element,container){
+    var div = document.getElementById(container);
+    var nodeList = div.childNodes;
+    var queue = Effect.Queues.get('menuScope');
+
+    if(queue.toArray().length<1){
+        if(Element.visible(element)==false){
+            for(i=0;i<nodeList.length;i++){
+                if(nodeList.item(i).nodeName=="DIV" && nodeList.item(i).id!=element){
+                    if(Element.visible(nodeList.item(i))==true){
+                        Effect.SlideUp(nodeList.item(i),{queue:{position:'end',scope:'menuScope',limit:2}})
+                    }
+                }
+            }
+            Effect.SlideDown(element,{queue:{position:'end',scope:'menuScope',limit:2}})
+       }
+   }
+}
+</script>
+<!-- End Div Swap Javascript -->
+
+<!-- Google Ad-Manager -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-4840463181349694");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_160x600_Skyscraper");
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_160x90_Internal_Pageright");
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_300x250_Homepage");
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_728x90_Homepage");
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_ROS_728x90_Footer");
+  GA_googleAddSlot("ca-pub-4840463181349694", "FRSK_ROS_728x90_Header");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- End of Google Ad-Manager -->
 
 <html:style type="text/css" media="screen,projection"></html:style></head>
 <!-- ==================================================================== -->
@@ -26,41 +72,15 @@
 <div id="container">
 	<table width="100%" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr valign="top">
-	  <td><!--/* SMP Advertising Server Javascript Tag v2.3.38-beta */-->
+	<td>
+    
+    <!-- Freeskier 728x90 Header -->
+    <script type="text/javascript">
+      GA_googleFillSlot("FRSK_ROS_728x90_Header");
+    </script>
+    <!-- END OF TAG FOR SLOT FRSK_ROS_728x90_Header -->    
 
-<!--/*
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://ads.freeskier.com/openads/www/delivery/...'
-  * to
-  *   'https://ads.freeskier.com/openads/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://67.15.95.117/ads/2.0.5/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:13&amp;target=_new");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adjs.php?n=045583192&amp;what=zone:13&amp;target=_new&amp;exclude=,"></script><noscript><a href='http://67.15.95.117/ads/2.0.5/adclick.php?n=a5fd81da' target='_new'><img src='http://67.15.95.117/ads/2.0.5/adview.php?what=zone:13&amp;n=a5fd81da' border='0' alt=''></a></noscript></td>
+	</td>
 		<td><img src="/resources/images/pixel.gif" alt="" width="8" height="1" border="0"></td>
 
 		<td width="100%">
@@ -102,11 +122,19 @@
 <script type="text/javascript" src="/site/templates/shared/js/udm/udm-mod-keyboard.js"></script>
 
 <div id="navigation">
-	<ul id="udm" class="udm"><li><a class="home" href="/index.php">Home</a></li><li><a class="stories" href="/articles/index.php">Stories</a><ul><li><a href="/articles/index.php">View Stories</a></li><li><a href="/articles/index.php?sort=postingDate"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Recent</a></li><li><a href="/articles/index.php?sort=rating"><img src="/site/templates/shared/images/icons/chart_line.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Popular</a></li><li><a href="/articles/index.php?sort=comments"><img src="/site/templates/shared/images/icons/user_comment.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Discussed</a></li><li><a href="/articles/articleAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Post A Story</a></li></ul></li><li><a class="videos" href="/videos/index.php">Videos</a><ul><li><a href="/videos/index.php">Freeskier.TV</a></li><li><a href="/videos/listing.php"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Browse Videos</a></li><li><a href="/pages/rtc.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle"> Road Trip Challenge</a></li><li><a href="/pages/product_review.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle"> Product Reviews</a></li><li><a href="/videos/videoAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Post a Video</a></li></ul></li><li><a class="photos" href="/photos/index.php">Photos</a><ul><li><a href="/photos/index.php">View Photos</a></li><li><a href="/photos/index.php?sort=postingDate"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Recent</a></li><li><a href="/photos/index.php?sort=rating"><img src="/site/templates/shared/images/icons/chart_line.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Popular</a></li><li><a href="/photos/index.php?sort=comments"><img src="/site/templates/shared/images/icons/user_comment.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Discussed</a></li><li><a href="/photos/photoAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Post a Photo</a></li></ul></li><li><a class="reviews" href="/channels/index.php?channel=products">Reviews</a><ul><li><a href="/channels/index.php?channel=products">Products</a></li><li><a href="/channels/index.php?channel=places">Places</a></li><li><a href="/pages/product_review.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle"> Video Reviews</a></li></ul></li><li><a class="people" href="/profiles/index.php">Member Directory</a><ul><li><a href="/profiles/index.php?accountLevel=manufacturer"><img src="/site/templates/shared/images/icons/user_suit.png" alt="" width="18" height="18" border="0" align="absmiddle"> Companies</a></li><li><a href="/profiles/index.php?accountLevel=pro"><img src="/site/templates/shared/images/icons/user_gray.png" alt="" width="18" height="18" border="0" align="absmiddle"> Pros</a></li><li><a href="/profiles/index.php?accountLevel=resort"><img src="/site/templates/shared/images/icons/weather_sun.png" alt="" width="18" height="18" border="0" align="absmiddle"> Resorts</a></li><li><a href="/profiles/index.php"><img src="/site/templates/shared/images/icons/user.png" alt="" width="18" height="18" border="0" align="absmiddle"> Members</a></li></ul></li><li><a class="magazine" href="https://srv01.freeskier.com/sub_center/">The Magazine</a><ul><li><a href="/pages/currentIssue.php">Download Issues</a></li><li><a href="https://srv01.freeskier.com/sub_center/subscribe.shtml">Subscribe</a></li><li><a href="https://srv01.freeskier.com/sub_center/inquiry.shtml">Manage My Sub</a></li><!-- <li><a href="http://shopfreeskier.k-online.biz/">Buy Merchandise</a></li> --></ul></li><li><a class="calendar" href="/events/index.php">Event Calendar</a></li><li><a class="podcast" href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%3A%2F%2Fax.phobos.apple.com.edgesuite.net%2FWebObjects%2FMZStore.woa%2Fwa%2FviewPodcast%3Fid%3D161059934">Podcast</a></li><li><a class="magazine" href="https://srv01.freeskier.com/sub_center/subscribe.shtml">Subscribe to FS</a><!-- <a class="freeride" href="/ffl/">Fantasy Freeride</a> --><!--
-			<ul>
-				<li><a href="/pages/ffl.php">Play</a></li>
-			</ul>
-		--></li></ul>
+<ul id="udm" class="udm"><li><a class="home" href="/index.php"><!-- <img src="/site/templates/shared/images/icons/house_go.png" alt="" width="18" height="18" border="0" align="absmiddle" /> -->  Home</a></li><li><a class="stories" href="/articles/index.php"><!-- <img src="/site/templates/shared/images/icons/newspaper.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> Stories</a><ul><li><a href="/articles/index.php">View Stories</a></li><li><a href="/articles/index.php?sort=postingDate"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Recent</a></li><li><a href="/articles/index.php?sort=rating"><img src="/site/templates/shared/images/icons/chart_line.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Popular</a></li><li><a href="/articles/index.php?sort=comments"><img src="/site/templates/shared/images/icons/user_comment.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Discussed</a></li><li><a href="/articles/articleAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Post A Story</a></li></ul></li><li><a class="videos" href="/videos/index.php"><!-- <img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> Videos</a><ul><li><a href="/videos/index.php"><img src="/site/templates/shared/images/icons/television.png" alt="" width="18" height="18" border="0" align="absmiddle"> Freeskier.TV</a></li><li><a href="/videos/listing.php"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Latest Videos</a></li><li><a href="/pages/rtc.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle"> Road Trip Challenge</a></li><li><a href="/pages/44days.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle"> 44 Days</a></li><li><a href="/pages/product_review_2009.php"><img src="/site/templates/shared/images/icons/thumb_up.png" alt="" width="18" height="18" border="0" align="absmiddle"> Product Reviews</a></li><li><a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%3A%2F%2Fax.phobos.apple.com.edgesuite.net%2FWebObjects%2FMZStore.woa%2Fwa%2FviewPodcast%3Fid%3D161059934"><img src="/site/templates/shared/images/icons/ipod_cast.png" alt="" width="18" height="18" border="0" align="absmiddle"> Podcast</a></li><li><a href="/videos/videoAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Upload a Video</a></li></ul></li><li><a class="photos" href="/photos/index.php"><!-- <img src="/site/templates/shared/images/icons/photos.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> Photos</a><ul><li><a href="/photos/index.php">View Photos</a></li><li><a href="/photos/index.php?sort=postingDate"><img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Recent</a></li><li><a href="/photos/index.php?sort=rating"><img src="/site/templates/shared/images/icons/chart_line.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Popular</a></li><li><a href="/photos/index.php?sort=comments"><img src="/site/templates/shared/images/icons/user_comment.png" alt="" width="18" height="18" border="0" align="absmiddle"> Most Discussed</a></li><li><a href="/photos/photoAdd.php"><img src="/site/templates/shared/images/icons/add.png" alt="" width="18" height="18" border="0" align="absmiddle"> Post a Photo</a></li></ul></li><!-- <li><a class="reviews" href="/channels/index.php?channel=products">Reviews</a>
+<ul>
+<li><a href="/channels/index.php?channel=products">Products</a></li>
+<li><a href="/channels/index.php?channel=places">Places</a></li>
+<li><a href="/pages/product_review.php"><img src="/site/templates/shared/images/icons/film.png" alt="" width="18" height="18" border="0" align="absmiddle" /> Video Reviews</a>                </li>			
+</ul>
+</li> --><li><a class="people" href="/profiles/index.php"><!-- <img src="/site/templates/shared/images/icons/group.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> Member Directory</a><ul><li><a href="/profiles/index.php?accountLevel=manufacturer"><img src="/site/templates/shared/images/icons/user_suit.png" alt="" width="18" height="18" border="0" align="absmiddle"> Companies</a></li><li><a href="/profiles/index.php?accountLevel=pro"><img src="/site/templates/shared/images/icons/user_gray.png" alt="" width="18" height="18" border="0" align="absmiddle"> Pros</a></li><li><a href="/profiles/index.php?accountLevel=resort"><img src="/site/templates/shared/images/icons/weather_sun.png" alt="" width="18" height="18" border="0" align="absmiddle"> Resorts</a></li><li><a href="/profiles/index.php"><img src="/site/templates/shared/images/icons/user.png" alt="" width="18" height="18" border="0" align="absmiddle"> Members</a></li></ul></li><li><a class="magazine" href="https://srv01.freeskier.com/sub_center/"><!-- <img src="/site/templates/shared/images/icons/book_open.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> The Magazine</a><ul><li><a href="/pages/currentIssue.php">Download Issues</a></li><li><a href="https://srv01.freeskier.com/sub_center/subscribe.shtml">Subscribe</a></li><li><a href="https://srv01.freeskier.com/sub_center/inquiry.shtml">Manage My Sub</a></li><!-- <li><a href="http://shopfreeskier.k-online.biz/">Buy Merchandise</a></li> --></ul></li><li><a class="calendar" href="/events/index.php"><!-- <img src="/site/templates/shared/images/icons/date.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> Events</a></li><li><a class="calendar" href="/buyersGuide/bgindex.php"><!-- <img src="/site/templates/shared/images/icons/money.png" alt="" width="18" height="18" border="0" align="absmiddle" /> --> 2009 Online Buyer's Guide</a></li><!-- <li><a class="podcast" href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%3A%2F%2Fax.phobos.apple.com.edgesuite.net%2FWebObjects%2FMZStore.woa%2Fwa%2FviewPodcast%3Fid%3D161059934">Podcast</a></li> --><!-- <li> <a class="magazine" href="https://srv01.freeskier.com/sub_center/subscribe.shtml">Subscribe to FS</a> --><!-- <a class="freeride" href="/ffl/">Fantasy Freeride</a> --><!--
+<ul>
+<li><a href="/pages/ffl.php">Play</a></li>
+</ul>
+
+</li>
+--><li><a href="http://209.216.105.177">Store</a></li><li><a href="/subscribe/">Subscribe</a></li></ul>
 </div>
 
 	
@@ -195,54 +223,17 @@ Fax 303.449.2427<br>
 							<td><img src="/resources/images/pixel.gif" alt="" width="8" height="1" border="0"></td>
 			
 				<td bgcolor="#303030">
-					<script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://67.15.95.117/ads/2.0.5/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:14&amp;target=_new");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adjs.php?n=801062310&amp;what=zone:14&amp;target=_new&amp;exclude=,"></script><noscript><a href='http://67.15.95.117/ads/2.0.5/adclick.php?n=a69fcb9b' target='_new'><img src='http://67.15.95.117/ads/2.0.5/adview.php?what=zone:14&amp;n=a69fcb9b' border='0' alt=''></a></noscript><br>
-
-<script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://67.15.95.117/ads/2.0.5/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:16&amp;target=_new");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adjs.php?n=129660262&amp;what=zone:16&amp;target=_new&amp;exclude=,"></script><noscript><a href='http://67.15.95.117/ads/2.0.5/adclick.php?n=a5f4ce32' target='_new'><img src='http://67.15.95.117/ads/2.0.5/adview.php?what=zone:16&amp;n=a5f4ce32' border='0' alt=''></a></noscript>
-<br><br>
-<script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://67.15.95.117/ads/2.0.5/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:18");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adjs.php?n=636221135&amp;what=zone:18&amp;exclude=,"></script><noscript><a href='http://67.15.95.117/ads/2.0.5/adclick.php?n=aab8239a' target='_blank'><img src='http://67.15.95.117/ads/2.0.5/adview.php?what=zone:18&amp;n=aab8239a' border='0' alt=''></a></noscript>
-
+    <!-- Freeskier 160x600 Internal Skyscraper-->
+    <script type="text/javascript">
+      GA_googleFillSlot("FRSK_160x600_Skyscraper");
+    </script>
+    <!-- END OF TAG FOR SLOT FRSK_160x600_Skyscraper -->
+	<br>
+    <!-- Freeskier 160x90 Internal Pageright -->
+    <script type="text/javascript">
+      GA_googleFillSlot("FRSK_160x90_Internal_Pageright");
+    </script>
+    <!-- END OF TAG FOR SLOT FRSK_160x90_Internal_Pageright -->
 
 
 		  </td>
@@ -268,22 +259,13 @@ Fax 303.449.2427<br>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr valign="top">
 		<td>
-<script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://67.15.95.117/ads/2.0.5/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:15&amp;target=_new");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://67.15.95.117/ads/2.0.5/adjs.php?n=085539184&amp;what=zone:15&amp;target=_new&amp;exclude=,"></script><noscript><a href='http://67.15.95.117/ads/2.0.5/adclick.php?n=a2939384' target='_new'><img src='http://67.15.95.117/ads/2.0.5/adview.php?what=zone:15&amp;n=a2939384' border='0' alt=''></a></noscript>
 
+        <!-- Freeskier 728x90 Footer -->
+        <script type="text/javascript">
+          GA_googleFillSlot("FRSK_ROS_728x90_Footer");
+        </script>
+        <!-- End of Freeskier 728x90 Footer -->
+     
         </td>
 		<td><img src="/resources/images/pixel.gif" alt="" width="8" height="1" border="0"></td>
 
@@ -291,11 +273,12 @@ Fax 303.449.2427<br>
 			<div id="footer">
 				© 1997-2008 Storm Mountain Publishing<br>
 				
-				<img src="/site/templates/shared/images/logo-smp.gif" alt="Storm Mountain Publishing" width="44" height="69" border="0">
+				<a href="http://www.smpmags.com"><img src="/site/templates/shared/images/logo-smp.gif" alt="Storm Mountain Publishing" width="44" height="69" border="0"></a>
 				<a href="http://www.freeskier.com"><img src="/site/templates/shared/images/logo-freeskier.gif" alt="Freeskier" width="46" height="69" border="0"></a>
 				<a href="http://www.snowboard-mag.com"><img src="/site/templates/shared/images/logo-snowboard.gif" alt="Snow Board" width="81" height="69" border="0"></a>
 				<a href="http://www.skitimemag.com"><img src="/site/templates/shared/images/logo-skiTime.gif" alt="Ski Time Magazine" width="44" height="69" border="0"></a>
-			</div>
+			<br>
+            <a href="http://www.twitter.com/freeskier"><img src="http://assets1.twitter.com/images/twitter.png" width="75" height="17" border="0" align="absmiddle"></a> Follow us on Twitter!</div>
 		</td>
 	</tr>
 </tbody></table>
