@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the additionalmedia.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828094037id_/http%3A//www.additionalmedia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additionalmedia.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201084740id_/http%3A//additionalmedia.com/privacy.htm) for the most accurate reproduction.*
 
 # Additional Media, Stategy, Creativity, Insight through affordable solutions
 
 **PRIVACY STATEMENT**
 
-The AdditionalMedia privacy policy governs the way in which we process any personal information that you provide to us. We will notify you if the way in which we process your information is to change at any time.
+The Additional Media privacy policy governs the way in which we process any personal information that you provide to us. We will notify you if the way in which we process your information is to change at any time.
 
 You can access our home page and browse our site without disclosing any personal data except for information automatically collected by cookies that we use (see below).
 
