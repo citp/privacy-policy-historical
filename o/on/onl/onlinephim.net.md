@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinephim.net privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309173211id_/http%3A//www.onlinephim.net/page_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinephim.net privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201052152id_/http%3A//www.onlinephim.net/page_privacypolicy.html) for the most accurate reproduction.*
 
 # OnlinePhim.net | Xem Phim Online, Coi Phim Bo, Luyen Phim Viet Nam, Mien Phi
 
@@ -49,9 +49,11 @@ OnlinePhim.net tracks user traffic patterns throughout all of our sites. However
 
 OnlinePhim.net sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-Cookies
+Cookies and Web Beacons
 
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. OnlinePhim.net uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+We also use third party advertisements on OnlinePhim.net to support our site. Some of these advertisers may use technology such as cookies and web beacons (also known as single pixel gifs or action tags) when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). Any information that these third parties collect via cookies and web beacons is completely anonymous.
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
