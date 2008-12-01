@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaptracker.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220211901id_/http%3A//www.yaptracker.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaptracker.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201133124id_/http%3A//www.yaptracker.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D40) for the most accurate reproduction.*
 
 # YAP Tracker - Privacy Policy
 
