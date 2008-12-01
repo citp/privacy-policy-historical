@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202111059id_/http%3A//www.watchshopuk.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201142428id_/http%3A//www.watchshopuk.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Watch Shop UK Privacy Policy
 
-Our email address is sales@watchshopuk.com
+To contact us by email, please use the Contact us button at the top of the website.  
+
 
 We never disclose any information submitted to us to 3rd parties for any reason.
 
@@ -14,14 +15,12 @@ We use cookies to allow us to store only the information required to process a t
 
 We do NOT store your credit card information.  It is processed over a secure SSL/128 bit encryption system which goes through the payment provider Protx.  We do not even see it, therefore it cannot be ‘hacked’ from our server.
 
-A requirement when ordering is to supply your phone number.  This is only used for emergency purposes if we are unable to contact you via email.
+Optionally, you can supply us with a telephone number when ordering.  This is only used for emergency purposes if we are unable to contact you via email.
 
 If you wish, you can contact us to have your profile deleted at any point in time.
 
 All sensitive information is processed over a secure server.
 
-We do not send random marketing emails to personal email address (spam).
+We do not send marketing emails to random personal email address (spam), however from time to time we may send newsletters and special offers to registered customer email addresses. All of which include a facility for you to unsubscribe from such service by clicking on the link at the bottom.
 
 All of our data collection and storage conforms to the requirements of the Data Protection Act, 1998.
-
-Our email address is sales@watchshopuk.com
