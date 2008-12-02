@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616012051id_/http%3A//www.trustnet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Trustnet Help / Privacy Policy
 
-[](https://web.archive.org/web/20080616012051id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x03!Top3?investor_type=)
+[](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x02,x03!Top3?investor_type=)
 
 Choose Universe    Group    
 
@@ -38,4 +38,4 @@ If you want more information or have any questions or comments relating to our p
 
 a d v e r t i s e m e n t
 
-[](https://web.archive.org/web/20080616012051id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x03!Position1?investor_type=)
+[](https://web.archive.org/web/20081202185633id_/http%3A//www.trustnet.com/help/undefinedclick_nx.ads/www.trustnet.com/help/privacy.aspx/1undefined@Top,Position1,Top2,Top3,x02,x03!Position1?investor_type=)
