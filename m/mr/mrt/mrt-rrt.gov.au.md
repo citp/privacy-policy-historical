@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429171632id_/http%3A//www.mrt-rrt.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202040019id_/http%3A//www.mrt-rrt.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # MRT- RRT Privacy Statement
 
@@ -20,3 +20,4 @@ Any information provided to the Tribunals during a review process by you or by o
 The MRT and the RRT are required to publish decisions that are considered to be of 'particular interest'. The requirement to publish decisions is subject to certain restrictions. The identity of the applicant and an applicant's relatives and dependents cannot be disclosed when publishing RRT decisions, and a Member may decide that publication of an MRT decision is to be restricted on public interest grounds. Where a relevant restriction applies, the decision is edited so as not to contain the information which cannot be published. Published decisions can be found on the [Australasian Legal Information Institute's](http://www.austlii.edu.au/) (AustLII's) website.  
 
 * * *
+  *[Tribunals]: Migration Review Tribunal and Refugee Review Tribunal
