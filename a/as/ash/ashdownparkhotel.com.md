@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611143051id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
 
 # Ashdown Park Hotel Privacy Page
 
@@ -43,20 +43,58 @@ Please use our Contact Us page if you have any questions or would like to contac
 
 ### Special Offers
 
-**_EXCELLENT JUNE SPECIAL OFFERS_**
+FREE, FREE, FREE
 
-[Click here for all Special Offers](https://web.archive.org/web/20080611143051id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)
+MIDWEEK 
+
+2 Nights bed & Breakfast & 1 Gourmet Dinner,   
+go Ice Skating free or free extra night. 2 Kids free, €139 per person 
+
+WEEKEND 
+
+2 Nights Bed & Breakfast & 1 Gourmet Dinner, Complimentary Wine or Ice Skating 
+
+€169 per person 
+
+FANTASTIC FRIDAYS 
+
+Dinner Bed & Breakfast only €89 per person 
+
+GOLDEN YEARS 
+
+3 nights Bed & Full Irish Breakfast including 2 Gourmet Dinners from €139 per person 
+
+  
+All our Guests have complimentary use of our Sauna, Steam-room, Swimming Pool, Full Gym and Jacuzzi, Playroom. 
+
+For just €25 per person why not ask for an upgrade to our excellent superior suites. 
+
+0539480500 or [info@ashdownparkhotel.com](mailto:info@ashdownparkhotel.com)
+
+ALL SUBJECT TO AVAILABILITY 
+
+[Click here for all Special Offers](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)
 
 ### Upcoming Events
+
+**_LIVE MUSIC COMING SOON_**
+
+Sunday 30th November Country Music
+
+Dominic Kirwan
+
+Sunday 7th December Musical
+
+High School Musical
 
 **Live  Country Music every Wednesday & Sunday nights.**
 
 **Live music in our Ivy Bar every Friday, Saturday night.**
 
-**Live Jazz every Sunday & t**raditional Irish music Wednesday night.
+**Live Jazz every Sunday & traditional Irish music Wednesday night.**
 
-Traditional Irish session every Wednesday. Everybody free entry
+**Traditional Irish session every Wednesday. Everybody free entry**
 
-[Click here for all Upcoming Events](https://web.archive.org/web/20080611143051id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
+[Click here for all Upcoming Events](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
 
 Enter your name and email address to receive our Newsletter 
