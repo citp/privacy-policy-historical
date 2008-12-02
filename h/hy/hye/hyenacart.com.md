@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133451id_/http%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202090544id_/http%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
 
 # Hyena Cart :: Privacy Policy
-
- 
 
 This privacy policy exists to let you know what information you provide to Hyena Cart is collected, and how this information is used and shared. Privacy is very important to us at Hyena Cart and you should know up-front that none of your information will be shared with third-parties, nor will you receive unsolicited email from Hyena Cart as a result of account registration. 
 
@@ -60,7 +58,7 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 _**Changing account preferences**_
 
-You may change your password and first name anytime using the "My HC" link. If you wish to change your email information, please open a new buyer's account. In the future, you will be able to combine multiple old accounts and change your email address without opening a new account. 
+You may change your email, address, password and first name anytime using the "My HC" link. If you wish to combine accounts, there is a link to do that as well. 
 
 To delete your account, please contact Customer Support at [support@hyenacart.com](emailto:support@hyenacart.com). 
 
