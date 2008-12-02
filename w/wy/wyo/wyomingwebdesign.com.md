@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614233650id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202023733id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
@@ -7,12 +7,12 @@ Wyoming Webdesign Privacy Policy
 This website is a division of **Kweb Media Services**.
 
 Our postal address is:   
-**3336 SE Girard Street  
+**3339 SE Girard Street  
 Topeka, KS, 66605**
 
 We can be reached via e-mail at: [info@kwebmedia.com](mailto:info@kwebmedia.com). 
 
-You can reach us by telephone at: **(785) 266-5586** or **(785) 554-9732**.   
+You can reach us by telephone at: **(785) 266-4014** or **(785) 608-5603**.   
 
 
 For each visitor to our website, our server automatically recognizes only the consumer's domain name, but not their e-mail address.
