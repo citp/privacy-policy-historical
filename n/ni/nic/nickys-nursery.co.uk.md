@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickys-nursery.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200448id_/http%3A//www.nickys-nursery.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickys-nursery.co.uk privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202050207id_/http%3A//www.nickys-nursery.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # New Page 1
 
