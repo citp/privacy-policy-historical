@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807103848id_/http%3A//www.centerpointmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202173434id_/http%3A//www.centerpointmedia.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Center Point Media - Privacy Policy
 
 Center Point Media is dedicated to maintaining the privacy of our clients and users. Once you have chosen to become a Center Point Media client, we assure you that your personal information will be exclusively used to provide you with the products or services you requested 
 
@@ -13,6 +13,8 @@ When you request a service from Center Point Media, you will be asked to provide
   * We may share customer information with partner companies when a customer has requested a service or product provided by that company. The information given will only be that which is necessary to implement the service or product requested.
   * Domain registration information becomes public record in the universally available Whois database when a customer registers a domain name with Center Point Media
   * As required by law, we will disclose customer information to name, contact, or bring legal action against persons causing harm or interfering with the rights or property of Center Point Media, our customers, or others. 
+
+
 
 **How does Center Point Media use cookies?**
 
