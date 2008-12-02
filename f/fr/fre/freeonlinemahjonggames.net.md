@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the freeonlinemahjonggames.net privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202041228id_/http%3A//freeonlinemahjonggames.net/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Free Online Mahjong Games
+
+The games provided by this site are considered to be from the public domain, e.g. they are widely found on many other gaming sites etc., and comply with second party site's policies. We try our best to give as much credit back to those authors/owners/organisations etc. as possible.
+
+But if you believe such a game should not be featured on our website, Please [contact](https://web.archive.org/contact) the webmaster and we shall arrange to take off the game as soon as possible.
+
+### Privacy/Cookie statement
+
+When you visit our website we use cookies or web beacons to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Web beacons are instruments that are used on a site to help determine if a page has been visited earlier and how many times. Our cookies and our web beacons do not contain personal information like your name or email address and are not used to collect personal information.
+
+This website also uses services of third parties like Google Analytics, Google Adsense and others. These parties can also use cookies and/or web beacons on our website. The information gathered by these instruments regarding your use of our website (including your IP Adress) can be tranfered to servers of those third parties and stored on those servers. These parties use this information to analyse your use of thise website, to create reports on website activity for website owners and to offer other services regarding website activity and internet use. These third parties may disclose this information to others if they are legaly obliged to do so or if other parties process this information on behalve of the third parties.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of our website.
