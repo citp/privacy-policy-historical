@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529050153id_/http%3A//www.xomba.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xomba.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203170336id_/http%3A//xomba.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,3 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@Xomba.com, Xomba.com, Inc. PMB #102, 1650 Margaret Street, Ste. 302, Jacksonvile, FL 32204-3869.
-
-  
-
