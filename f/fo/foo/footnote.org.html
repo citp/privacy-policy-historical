@@ -1,21 +1,20 @@
-<!--The following is the downloaded HTML source of the footnote.org privacy policy that was archived on 2008-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080503052605id_/http%3A//www.footnote.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footnote.org privacy policy that was archived on 2008-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081203163804id_/http%3A//www.footnote.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
  
 <title>Footnote Privay Policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-								<meta name="Copyright" content="Copyright (c) Footnote 2008">	
+							<meta name="Copyright" content="Copyright (c) Footnote 2008">	
 		<meta http-equiv="imagetoolbar" content="false">
-		<script type="text/javascript" src="/js/net.js?v=.12535.1"></script>
+		<script type="text/javascript" src="/js/net.js?v=.16034.1"></script>
 		<script type="text/javascript" src="/js/pts.js?v=108"></script>
-            <link type="text/css" rel="stylesheet" href="/c/footnote.css?v=.12535.1" charset="utf-8">
-    <!--[if lte IE 7]> <link type='text/css' rel='stylesheet' href='/c/ielte7.css?v=.12535.1'/>	<![endif]-->
-<!--[if lt IE 7]> <link type='text/css' rel='stylesheet' href='/c/ie6.css?v=.12535.1'/>	<![endif]-->		
+        	        <link type="text/css" rel="stylesheet" href="/c/footnote.css?v=.16034.1" charset="utf-8">
+            <!--[if lte IE 7]> <link type='text/css' rel='stylesheet' href='/c/ielte7.css?v=.16034.1'/>	<![endif]-->
+<!--[if lt IE 7]> <link type='text/css' rel='stylesheet' href='/c/ie6.css?v=.16034.1'/>	<![endif]-->		
  </head>
 <body id="privacy-page">
 <div class="hid">
-<script src="/js/referdetect.js" type="text/javascript"></script>
 <script type="text/javascript">
 var s_account="iarcfootnote";
 </script>
@@ -47,14 +46,12 @@ var s_code=s.t();if(s_code)document.write(s_code)
 </script>
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://iarcdev.112.2O7.net/b/ss/iarcdev/1/H.14--NS/0"
-height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+//-->
+</script>
+
+<noscript><img src="http://iarchive.112.2o7.net/b/ss/iarcfootnote/1/H.14--NS/0" height="1" width="1" alt="" /></noscript>
 <!-- End SiteCatalyst code version: H.14. -->
-
-
-<noscript><img src="http://iarchive.112.2o7.net/b/ss/iarcfootnote/1/H.8--NS/0" height="1" width="1" alt="" /></noscript>
-</div><div id="fn-page">
+</div> <div id="fn-page">
 	<div id="mast">
       <div class="mast-tb clear">
         <div id="mast-tl"></div>
@@ -68,37 +65,80 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
        	<div class="submenu-top" onmouseout="startTimer();" onmouseover="clearTimeout(menutimer);">
         <ul>       
         	<li><a href="/discoveries.php"><b>All »</b></a></li> 	
-			<li><a href="/annotations.php">Annotations</a></li>
-			<li><a href="/spotlights.php">Spotlights</a></li>
-			<li><a href="/storypagelist.php?order=views">Story Pages</a></li>
-			<li><a href="/commentslist.php">Comments</a></li>
-			<li><a href="/uploadslist.php">Uploads</a></li>			
+			<li><a href="/annotations/">Annotations</a></li>	
+			<li><a href="/comments/">Comments</a></li>
+			<li><a href="/connections/">Connections</a></li>
+			<li><a href="/pages_all_popular/">Footnote Pages</a></li>
+			<li><a href="/spotlights_recent/">Spotlights</a></li>
+			<li><a href="/uploads_recent/">Uploads</a></li>			
         </ul>     
          <ul>        	
-			<li><a href="#" onclick="return regBox('','up');">Upload an Image</a></li>
-			<li><a href="#" onclick="return regBox('','cr');">Create a Story Page</a></li>
+			<li><a href="#" onclick="return regBox('','up');return false;">Upload an Image</a></li>
+			<li><a href="#" onclick="return regBox('','cr');return false;">Create a Footnote Page</a></li>
 		</ul>
         </div>
         <div class="submenu-bot"></div>
         </div>
+       <script type="text/javascript">
+			$('membership').className='submenu';
+			$('membership').style.display='none';        </script>
         </li>
-         <li id="pg-join" class="last"><a href="/choose-a-plan/" class="nli">Memberships</a></li>
-                </ul>    
+         <li id="pg-join" class="last"><a href="/choose-a-plan/" class="nli">Memberships</a></li>        </ul>    
         
 		</div>   
       <div id="signin">
-        <a href="/signon.php" id="signinlink" onclick="return toggleSignIn();" class="signinlink">Sign-in</a>        
+        <a href="https://www.footnote.com/signon.php" id="signinlink" onclick="return toggleSignIn();" class="signinlink">Sign-in</a>        
         </div>
+ <form method="post" action="https://www.footnote.com/signon.php" id="loginform" name="loginform" onsubmit="return tryLogin(this);" style="display:none;">
+<p id="email_error" class="error" style="display:none;"></p>
+
+					<p id="login_error" class="error" style="display:none"></p>
+		   
+    <fieldset id="formFields">
+    <div class="field" id="username_field">
+      <label class="desc" for="username">Member Name or Email</label>
+      <input type="text" name="username" id="username" class="text" size="20">
+    </div>
+    <div class="field" id="password_field-global">
+      <label class="desc" for="password">Password <a href="#" onclick="window.location.href='/forgotpwd.php?un='+document.loginform.username.value;" tabindex="-1" class="subdued">(forgot password?)</a></label>
+      <input type="password" name="password" id="password" class="text" size="20">
+      <br>
+    </div>
+    <div class="submit">
+      <input type="submit" value="Sign In" id="signin-submit">
+      <!--  -->
+      <input type="checkbox" id="remember" name="remember" value="1" checked="checked">
+      <label for="remember">Remember?</label>
+      <!--  -->
+      <a href="#" onclick="return toggleSignIn();" tabindex="-1" id="cancellogin">Cancel</a> </div>
+    <input type="hidden" name="afterhash" value="" id="hash">
+    <input type="hidden" name="overlay" value="1">
+    </fieldset>
+  </form>
+  			
       </div>
       
-            <div id="searchbar">
-      <div id="searchbar-top"></div>
-        <form method="get" name="form1" action="/searchdocuments.php" id="gsearch" class="clear" onsubmit="return trimsearch(this,'ginput','Search for a name, date, place or topic');">
-      <fieldset><a href="/page/1176/Footnote-Search-Tips/" onclick="new LITBox('/searchtips.php',{width: 640, height: 540});return false;" class="gsearch-tips" title="Tips for searching">search tips</a><input tabindex="1" name="query" id="ginput" type="text" size="80" maxlength="255" class="ex" onfocus="if(this.value=='Search for a name, date, place or topic'){this.value='';};if(this.className=='ex'){this.className='text';}" onblur="if(this.value==''){this.value='Search for a name, date, place or topic';};if(this.value=='Search for a name, date, place or topic'){this.className='ex';}" value="Search for a name, date, place or topic"></fieldset>
-      <button type="submit" class="searchbtn">Search</button>
-      <div id="search-activity">
+            <div id="searchbar">      <div id="searchbar-top"></div>
+        <form method="get" name="form1" action="/search.php" id="gsearch" class="clear" onsubmit="return submitSearch(this,0);">
+      <fieldset><a href="/page/1176/Footnote-Search-Tips/" onclick="new LITBox('/searchtips.php',{width: 640, height: 540});return false;" class="gsearch-tips" title="Tips for searching">search tips</a>
+         <input tabindex="1" name="query" id="ginput" type="text" size="80" onkeyup="enableSearchButton(this);" maxlength="255" class="ex" onfocus="if(this.value=='Search for a name, date, place or topic' || this.value=='Start a new search'){this.value='';};if(this.className=='ex'){this.className='text';}" onblur="if(this.value==''){this.value='Search for a name, date, place or topic';};if(this.value=='Search for a name, date, place or topic'){this.className='ex';}" value="Search for a name, date, place or topic"></fieldset>
+     
+      <a href="#" onclick="return submitSearch(document.form1,1);" tabindex="2" id="searchButton" class="searchbtn">Search</a><a href="#" onclick="return activateMenu('recentsearches');return false;" onmouseout="startTimer();" class="searchdrop" tabindex="3">more</a><div id="search-activity">
       
-            
+      
+      <!-- Options on search combo box -->
+      <div id="recentsearches" class="submenu" style="display: none;" onmouseout="startTimer();" onmouseover="clearTimeout(menutimer);">
+       	<div class="submenu-top">
+       <div class="submenu-in">
+      	<ul>
+		<li> <a href="/advanced-search.php">Advanced search</a></li>
+        		<li><a href="/search.php">Start a new search</a></li>
+        	</ul>
+        </div>
+        </div>
+        <div class="submenu-bot"></div>
+        </div>
+      
       <ul id="recentlinks">
       <li class="sli"><a href="/browse.php" class="rlink">Browse</a><a href="#" onclick="return activateMenu('browsecat');return false;" onmouseout="startTimer();" class="drops"></a>
        <div id="browsecat" class="submenu" style="display: none;">
@@ -106,8 +146,7 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
        <div class="submenu-in" onmouseout="startTimer();" onmouseover="clearTimeout(menutimer);">
         <ul>
         	<li><a href="/browse.php#All|-1"><b>Browse All »</b></a></li>
-			<li><a href="/browse.php#Early%20America:%20Before%201775|-1">Early America: Before 1775</a></li>
-			<li><a href="/browse.php#Revolution:%201775-1815|-1">Revolution: 1775-1815	 </a></li>
+			<li><a href="/browse.php#Colonies%20and%20Revolution:%20To%201815|-1">Colonies &amp; Revolution: To 1815</a></li>
 			<li><a href="/browse.php#A%20New%20Nation:%201815-1860|-1">A New Nation: 1815-1860  </a></li>
 			<li><a href="/browse.php#Civil%20War:%201860-1880|-1">Civil War: 1860-1880	</a></li>
 			<li><a href="/browse.php#Emerging%20America%20and%20WWI:%201880-1920|-1">Emerging America and WWI: 1880-1920</a></li>
@@ -117,6 +156,7 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<li><a href="/browse.php#Naturalizations:%201700%20-%20mid%201900s|-1">Naturalizations: 1700 - mid 1900s  </a></li>
 			<li><a href="/browse.php#Newspapers%20and%20City%20Directories:%201800s%20and%201900s|-1">News and Town Records  </a></li>
 			<li><a href="/browse.php#Photos|-1">Photos	 </a></li>
+			<li><a href="/browse.php#Vital%20Records|-1">Vital Records</a></li>
 			
 		</ul>
         </div>
@@ -125,21 +165,16 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         </div>
       
       </li>
-      <li class="sli activity"><a href="#" class="rlink" onclick="return activateMenu('recentactivity');return false;" onmouseout="startTimer();"><span>Your Recent Activity</span><b class="drops">&nbsp;</b></a>
-      <div id="recentactivity" class="submenu" style="display: none;">
-       	<div class="submenu-top">
-       <div class="submenu-in" onmouseout="startTimer();" onmouseover="clearTimeout(menutimer);">
-       <h5>Recently viewed images</h5>
-      		There are no recent images.
-				         
-        </div>
-        
-        </div>
-        <div class="submenu-bot"></div>
-        </div>
+      <li class="sli activity"><a href="#" class="rlink" onclick="new Effect.toggle('recentactivity','slide',{duration: .1});return false;"><span>Your Recent Activity</span><b class="drops">&nbsp;</b></a>      
       </li>
       </ul>
       </div>
+      <div class="reset"></div>
+		  <div id="recentactivity" style="display: none;">		   
+		 				
+			<p class="gray" id="norecent"><em>There are no recent images.</em> When you view an image it will be added here.</p>
+			<a href="#" onclick="new Effect.toggle('recentactivity','slide',{duration: .1});return false;" id="closerecent">close</a>	 	   
+			</div>
       </form>
         <div id="searchbar-bot"></div>
       </div>             
@@ -148,14 +183,18 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         <div id="mast-br"></div>
       </div>      
     </div>  <div id="content"><a name="content"></a>
-  
+
 <!---->
-  <noscript></noscript>
+  <noscript class="noscript"><div class="error site-message">Javascript must be enabled in order to use several pages found on Footnote.  You will need to enable JavaScript by changing your browser options. <a href="http://www.google.com/support/bin/answer.py?answer=23852" class="outlink">Learn how to enable it.</a></div></noscript>
 <div class="site-message">
 			</div> 
  
+	  	
+  		
 	 <div id="page">
-      <div id="inpage"><div id="colA">
+      <div id="inpage">
+      
+ <div id="colA">
   <div id="toppage">
     <div id="tp2" class="grid3">
   <div id="colinner">
@@ -187,7 +226,7 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </ul>
 <h2>A Special Notice About Historical Documents</h2>
 <p>Footnote.com obtains large collections of historical documents from various sources and converts the documents into a digital format so that Users may see a facsimile of the original.  Footnote.com and its affiliates and agents take reasonable steps to assure that the documents do not include sensitive, private information about living individuals by, for example, obtaining collections of documents that are old enough that it is unlikely a document will violate the privacy rights of a living person.  However, because of the sheer volume of the content acquired (often more than a million pages of documents), Footnote.com cannot and does not review each and every document for privacy concerns.  If you believe that a document obtained and digitized by Footnote.com violates your privacy rights, please contact us and we will attempt to resolve the matter quickly.  (See "Privacy Policy Compliance and Enforcement").</p>
-<p>Footnote.com also permits its Members and All-Access Members to post their own historical documents, to annotate historical documents and to post commentary on Story Pages and on historical documents.  Although in our Terms of Service we prohibit Users from posting content that violates the privacy rights of others (see "User Submissions" in the <a href="/termsandconditions.php">Terms of Service</a>), we do not edit or approve User Submissions.  It is possible that a Member or All-Access Member will post your private information.  If you think that a User or someone else has posted private information about you that is not a matter of public record, please contact us and we will attempt to resolve the matter quickly.  (See "Privacy Policy Compliance and Enforcement").</p>
+<p>Footnote.com also permits its Members and All-Access Members to post their own historical documents, to annotate historical documents and to post commentary on Footnote Pages(Story Pages) and on historical documents.  Although in our Terms of Service we prohibit Users from posting content that violates the privacy rights of others (see "User Submissions" in the <a href="/termsandconditions.php">Terms of Service</a>), we do not edit or approve User Submissions.  It is possible that a Member or All-Access Member will post your private information.  If you think that a User or someone else has posted private information about you that is not a matter of public record, please contact us and we will attempt to resolve the matter quickly.  (See "Privacy Policy Compliance and Enforcement").</p>
 <h2>Third Party Links</h2>
 <p>The Footnote.com Website may contain links to other sites.  When you click on one of those links, you are accessing a website that is not owned, operated, or controlled by Footnote.com or any of its affiliates.  The operator of such site may have its own privacy policy (which we encourage you to read carefully), and that policy will govern the collection and use of your data on that site.  Footnote.com does not share your Personal Information with these parties and is not responsible for their privacy practices.</p>
 <h2>Ongoing Transfers of Personal Information</h2>
@@ -223,8 +262,6 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </div>
 <div class="reset"></div>
 <hr>
-
-
 <div id="footer">
   <div id="boot"> 
   
@@ -233,24 +270,26 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
       <h3>Site Links</h3>
       <ul>
         <li><a href="/">Home Page</a></li>
-        <li><a href="/documents">Original Documents</a></li>
+        <li><a href="/documents/">Original Documents</a></li>
         <li><a href="/discoveries.php">Member Discoveries</a></li>
-        <li><a href="/storypages">Story Pages</a></li>
-       <li><a href="/choose-a-plan">FREE Membership</a></li>              </ul>
+        <li><a href="/browsemore/">Browse Documents</a></li>
+        <li><a href="/pages/">Footnote Pages</a></li>
+               	<li><a href="/choose-a-plan/">FREE Membership</a></li>             </ul>
     </div>
     <div class="bootbox b1">
       <h3>More Info</h3>
       <ul>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact Footnote</a></li>
-        <li><a href="/page/120/Footnote-Press-Room/">Press Room</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact Footnote</a></li>
+        <li><a href="/page/120_footnote_press_room/">Press Room</a></li>
+         <li><a href="/using-footnote/">Institutions</a></li>
                 <li><a href="http://go.footnote.com/affiliates/">Affiliates</a></li>
                 <li><a href="http://blog.footnote.com">The Footnote Blog</a></li>
       </ul>
     </div>
     <div class="bootbox">
       <h3>About Footnote</h3>
-      <p>At Footnote.com you can view the most exciting original source documents available for the first time on the internet …<a href="/about.php">more</a></p>
+      <p>At Footnote.com you can view the most exciting original source documents available for the first time on the internet …<a href="/about/">more</a></p>
       <p>Get the latest from <a href="http://blog.footnote.com">The Footnote Blog</a></p>
     </div>
     <div class="bootbox b3">
@@ -260,15 +299,56 @@ height="1" width="1" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         <li> <a href="#feedbacklink" name="feedbacklink" onclick="$('feedback_send').style.display='none'; new Effect.BlindDown('feedback',{duration: .4}); return true;">Leave feedback</a>
       <p id="feedback_send" class="sent" style="display:none">Thank you! Your feedback has been sent.</p></li>
 <li>
-   <a href="mailto:?subject=Come%20see%20what%20I%20found%20on%20Footnote.com&amp;body=I%20thought%20you'd%20be%20interested%20in%20something%20I%20found%20on%20Footnote.%20You'll%20find%20it%20here:%20http://www.footnote.com/privacy.php">Share this page</a>    
+     <!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript">
+addthis_pub             = 'blakems'; 
+addthis_logo            = 'http://www.footnote.com/i/footnotelogo-o.png';
+addthis_logo_background = 'ffffff';
+addthis_logo_color      = 'b63d01';
+addthis_brand           = 'Footnote';
+addthis_options         = 'email,digg, delicious, myspace, facebook, google, live, more';
+</script>
+<a href="/external.php?url=http%3A%2F%2Fwww.addthis.com%2Fbookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">Share this page</a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- ADDTHIS BUTTON END -->
+ 
         </li>
       </ul>
-          </div>
-    
+          <form id="feedback" action="#" name="fbform" onsubmit="sendFeedback(this,'http://www.footnote.com/privacy/'); return false;" style="display: none;">
+      <fieldset>
+      <legend>Type of feedback</legend>
+      <div class="h-col">
+        <label for="fb_suggestion" class="desc">
+        <input type="radio" name="feedbacktype" id="fb_suggestion" value="Suggestion" checked="checked">
+        Suggestion </label>
+        <label for="fb_success" class="desc">
+        <input type="radio" name="feedbacktype" id="fb_success" value="SuccessStory">
+        Success Story</label>
+      </div>
+      <div class="h-col">
+        <label for="fb_error" class="desc">
+        <input type="radio" name="feedbacktype" id="fb_error" value="Error">
+        Error Report</label>
+        <label for="fb_other" class="desc">
+        <input type="radio" name="feedbacktype" id="fb_other" value="Other">
+        Other</label>
+      </div>
+      <div class="reset"></div>
+      <label for="commentback">Enter your feedback or comments</label>
+      <textarea cols="15" rows="3" id="commentback" class="edit_input" name="comment"></textarea>
+      <label for="email" class="desc">Your email</label>
+     
+      <input type="text" size="20" name="email" id="email" class="text">
+      <input type="hidden" name="warned" value="0">
+      <input name="submit" type="submit" value="Send Feedback" class="btn">
+      &nbsp;<a href="#" onclick="document.fbform.warned.value=0;$('feedbackemail-warning').style.display='none';new Effect.BlindUp('feedback',{duration: .4}); return false;">Cancel</a>
+       <div id="feedbackemail-warning" style="display:none" class="errorblock error-lk">warning</div>
+      </fieldset>
+    </form>
+    	        </div>    
     <div id="cr">
-      <div class="fr">Copyright © 2008 Footnote.  All Rights Reserved. <a href="/termsandconditions/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a></div>
-      <p><b id="tag"><img src="/i/footnote-small.png" width="77" height="18" alt="Footnote"></b>History for the People —Discover. Discuss. Connect. Share.</p>
-      
+      <div class="fr">Copyright © 2008 Footnote.  All Rights Reserved. <a href="/termsandconditions/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a> | <a href="http://go.footnote.com/sitemap.php">Site Map</a></div>
+      <p><b id="tag"><img src="/i/footnote-small.png" width="77" height="18" alt="Footnote"></b>History for the People —Discover. Discuss. Connect. Share.</p>      
     </div>
   </div>
   <hr>
