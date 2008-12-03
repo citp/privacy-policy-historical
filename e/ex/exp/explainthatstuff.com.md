@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512172148id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203131642id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
@@ -22,21 +22,19 @@ How do we use this information? We view the access logs in a very general way us
 
 Explainthatstuff.com does not use cookies (small files stored on a web browser). That means we don't offer a way for you to opt-out of having your information collected or a way to remove your personal information from our records—simply because we don't collect any information about you! 
 
-Please be aware, however, that our website runs advertisements on most pages and we participate in several affiliate programs (partnerships with retailers such as Amazon.com). The advertisers and affiliate partners we work with use cookies to help them serve up their advertisements, to track your browsing behavior, to make it easier for you to buy things from them (for example, if you use a shopping cart on a website, that needs a cookie to make it work), and to record the fact that it's our website that sent the traffic to them. Please also be aware that if our advertisers and partner companies didn't use cookies, we couldn't use their advertisements and affiliate programs and we couldn't afford to run the site. Simple as that. 
+Please be aware, however, that our website runs advertisements on most pages and we participate in several affiliate programs (partnerships with retailers such as Amazon.com). The advertisers and affiliate partners we work with use cookies to help them serve up their advertisements, to track your browsing behavior, to make it easier for you to buy things from them (for example, if you use a shopping cart on a website, that needs a cookie to make it work), and to record the fact that it's our website that sent the traffic to them.
 
 We have no control over these "third-party cookies" (as they are known). We do not see or have access to any information they may store or collect. They pass directly between your computer and the servers run by our advertisers and affiliate partners. If you have concerns about how our advertisers and affiliate partners may be using cookies, please refer to the privacy policies on their websites for more information:
 
   * [Google](http://www.google.com/privacy.html)
   * [Amazon.co.uk](http://www.amazon.co.uk/gp/help/customer/display.html/202-1669761-8713446?ie=UTF8&nodeId=502584)
   * [Amazon.com](http://www.amazon.com/gp/help/customer/display.html/103-6132376-7235810?ie=UTF8&nodeId=46849)
-  * [Trade Doubler](http://www.tradedoubler.com/pan/cms/privacy_policy)
 
 
 
 ### How can you control your privacy?
 
-If you're concerned about cookies, you can change the options in your Web browser to restrict how websites can use them. You can switch off certain cookies, instruct your browser to keep them only for certain periods, or delete cookies altogether. You can set the level of privacy controls you want by looking under Privacy in your browser's options, preferences, or settings. Please be aware that if you do this you may prevent some parts of some websites from working properly.  
-
+If you're concerned about cookies, you can change the options in your Web browser to restrict how websites can use them. You can switch off certain cookies, instruct your browser to keep them only for certain periods, or delete cookies altogether. You can set the level of privacy controls you want by looking under Privacy in your browser's options, preferences, or settings. Please be aware that if you do this you may prevent some parts of some websites (such as shopping carts and personal preferences) from working properly.
 
 ### How can you find out more about privacy issues?
 
@@ -48,4 +46,4 @@ These sites may help you:
 
 
 
-If you have any further queries about privacy, please contact us at the email address shown on our [about us](https://web.archive.org/web/20080512172148id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
+If you have any further queries about privacy, please contact us at the email address shown on our [about us](https://web.archive.org/web/20081203131642id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
