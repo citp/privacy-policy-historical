@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710032204id_/http%3A//img.directtrack.com/dnelist_images/DNEList_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203110118id_/http%3A//img.directtrack.com/dnelist_images/DNEList_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # M
 
