@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210201id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203195250id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
@@ -12,7 +12,7 @@ Our web server automatically collects the default information logged by most ser
 
 The logs may be preserved indefinitely, and they may be used to prevent security breaches and to ensure the integrity of the data on our servers. 
 
-We do not use "persistent cookies" or use any persistent tracking technologies that can identify a specific visitor, or information about that visitor, over multiple visits. However some interactive features on our site (for example, the [balance of payments interactive](https://web.archive.org/bea/international/bp_web/) feature) do use "session cookies" that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends.
+We do not use "persistent cookies" or use any persistent tracking technologies that can identify a specific visitor, or information about that visitor, over multiple visits. However some interactive features on our site (for example, the [balance of payments interactive](https://web.archive.org/international/bp_web/) feature) do use "session cookies" that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends.
 
 ## Purchasers of BEA Products
 
@@ -36,14 +36,14 @@ The BEA e-mail system is password-protected. Similarly, access to information su
 
 You have rights under the Privacy Act and the Freedom of Information Act. The Legal Information Institute at Cornell Law School provides the full text of these provisions from the U.S. Code:
 
-  * [Privacy Act](http://www4.law.cornell.edu/uscode/5/552a.html)
-  * [Freedom of Information Act](http://www4.law.cornell.edu/uscode/5/552.html)
+  * [Privacy Act](https://web.archive.org/exit_site.asp?link=http://www4.law.cornell.edu/uscode/5/552a.html)
+  * [Freedom of Information Act](https://web.archive.org/exit_site.asp?link=http://www4.law.cornell.edu/uscode/5/552.html)
 
 
 
 Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
 
-Last updated: Monday, February 05, 2007 
+Last updated: Friday, August 08, 2008 
 
 | 
 
