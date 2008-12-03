@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601185010id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203144456id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.*
 
-# RezLive.com – Global Reservation System with Wholesale Rates
+# RezLive.com – Global Reservation System with Wholesale Rates by Travel Designer India Pvt Ltd
 
   |  |  |   
 ---  
 |  |   
 ---  
-|   |   |   
-| You are not logged in as a Agent, Review the benefits [_here_](https://web.archive.org/web/20080601185010id_/http%3A//www.rezlive.com/agent_registration_benefits.php). |    
+|   |   
+| You are not logged in as a Agent, Review the benefits [_here_](https://web.archive.org/web/20081203144456id_/http%3A//www.rezlive.com/agent_registration_benefits.php). |    
 ---|---  
 |   |  |   
 ---  
@@ -27,5 +27,12 @@ If you are a member, we will use your e-mail address to send correspondence abou
   
 We Welcome your Suggestions to Serve you Better, write back to us on [Feedback@RezLive.com](mailto:Feedback@RezLive.com)  
    
-  |   
+  |  |  |  |  |   
+---|---|---  
+|  | 
+
+[](https://web.archive.org/web/20081203144456id_/http%3A//www.rezlive.com/agent_registration.php)  
+  
+---  
+|  |   
  
