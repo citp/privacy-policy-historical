@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512044427id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203124802id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.*
 
 # Washington City Paper: The City Paper: Privacy Policy
 
@@ -12,10 +12,4 @@ We or our advertisers may use a third-party advertising company to serve some of
 
 None of the above procedures identifies you personally or collects any personal information about you. We do not and will not collect your name, e-mail address, or any other personal information without your consent. We do not knowingly collect any personal information from children under age 13.
 
-On certain pages, if you choose to register for a contest, newsletter, message board, or some other purpose, we may ask for personal information such as street and/or e-mail address, phone number, consumer preferences, etc. Unless we specifically say so on the registration or data-entry form, we do not and will not release any such information to third parties unless (a) we have your consent; or (b) we believe in good faith that we are legally required to do so; or (c) there is an emergency involving personal danger; or (d) you have vandalized our site or otherwise behaved in a manner that warrants our contacting the authorities or your Internet service provider. Please note that your consent can be requested and given on the form you fill out. For example, if you check a box that says "Yes, I want to receive information from Multimega Corporation," that will be construed as consent to share your information with that company.
-
-If you place a classified ad or make a purchase, we keep the information you give us and may use it to contact you in the future. If you use our Matches system, we may collect information about what features you use or how you move through the site, but we use this information in aggregate form only; we do not associate it with individual user names or identities.
-
-Given the nature of Web publishing, our privacy policies may change from time to time; any changes will be posted here as soon as they go into effect.
-
-If you have any questions about o
+On certain pages, if you choose to register for a contest, newsletter, message board, or some other purpose, we may ask for personal information such as street and/or e-mail address, phone number, consumer preferences, etc. Unless we specifically say so on the registration or data-entry form, we do not and will not release any such information to third parties unless (a) we have your consent; or (b) we believe in good faith that we are legally required to do so; or (c) there is an emergency involving personal danger; or (d) you have vandalized our site or otherwise behaved in a manner that warrants our contacting the authorities or your Internet service provider. Please note that your consent can be requested and given on the form you fill out. For example, if you check a box that says "Yes, I want to rece
