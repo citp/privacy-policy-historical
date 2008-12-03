@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15dollarstore.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011082507id_/http%3A//15dollarstore.com/s/privacy/0403368791) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15dollarstore.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203214114id_/http%3A//15dollarstore.com/s/privacy/0607982144) for the most accurate reproduction.*
 
 # 15DOLLARSTORE.COM - Privacy Statement
 
