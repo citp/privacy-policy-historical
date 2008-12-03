@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142138id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203164649id_/http%3A//teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - TeamWork Live
 
