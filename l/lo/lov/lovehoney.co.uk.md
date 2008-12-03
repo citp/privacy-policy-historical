@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630180457id_/http%3A//www.lovehoney.co.uk/help/what-is-your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203103818id_/http%3A//www.lovehoney.co.uk/help/what-is-your-privacy-policy) for the most accurate reproduction.*
 
 # Help - What is your Privacy Policy? - LoveHoney UK Sex Toys
 
