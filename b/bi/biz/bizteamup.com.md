@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizteamup.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603023459id_/http%3A//www.bizteamup.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizteamup.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204083544id_/http%3A//www.bizteamup.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
