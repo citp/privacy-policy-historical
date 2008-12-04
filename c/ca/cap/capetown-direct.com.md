@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the capetown-direct.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009160828id_/http%3A//www.capetown-direct.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capetown-direct.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204114711id_/http%3A//www.capetown-direct.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**TOP 10 HOTELS**
+
+Cape Town City Centre / CBD
+
+Cape Town City Centre / CBD
+
+Cape Town City Centre / CBD
+
+Close
 
 **Privacy Policy**
 
@@ -27,3 +37,6 @@ All personal information is stored in a database on a secure server. We do not s
 A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. www.capetown-direct.com may use cookies to store some personal preferences for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site can be more personalized and productive. You'll find that cookies are an industry standard and are used at most major Websites in much the same way we use them here at www.capetown-direct.com.
 
 By using our Website and signing up for www.capetown-direct.com services, you consent to the collection and use of the previously mentioned information by www.capetown-direct.com and our affiliates. This policy is subject to change without notice. Privacy issues represent a growing concern for all Web users. To keep up-to-date with our policies, please check this page frequently. We reserve the right to change, modify, add, or remove portions of this policy at any time.
+
+  
+
