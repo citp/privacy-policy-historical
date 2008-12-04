@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the growthink.com privacy policy that was archived on 2008-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080401060153id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the growthink.com privacy policy that was archived on 2008-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081204020234id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
   <title>PRIVACY POLICY | Growthink</title>
@@ -11,63 +11,41 @@
 <style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
 <style type="text/css" media="all">@import "/modules/system/system.css?v=2";</style>
 <style type="text/css" media="all">@import "/modules/user/user.css";</style>
-<style type="text/css" media="all">@import "/sites/all/themes/growthink2/style.css?v=5";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/growthink2/style.css?v=6";</style>
   <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/themes/growthink2/js/label_over.js"></script>
 <script type="text/javascript" src="/sites/all/modules/growthink/js/jquery.dimensions-min.js"></script>
+<script type="text/javascript" src="/sites/all/modules/growthink/js/growthink_top_navigation.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
 <script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
-<script type="text/javascript">gt_menu_is_sliding = false;
-$(document).ready(function(){
-  // #topnav_services, #div_services
-  $("#topnav_services").hover(
-    function(){
-      if (gt_menu_is_sliding) return;
-      gt_menu_is_sliding = true;
-      var top  = $("#topnav_services").offset().top + $("#topnav_services").offset().height;
-      var left = $("#topnav_services").offset().left;
-      $("#div_services").css("top", top); $("#div_services").css("left", left);
-      $("#div_services").slideDown("normal", function(){
-        gt_menu_is_sliding = false;
-      });
-    },
-    function(){}
-  );
   
-  $("body").mousemove(function(e){
-    var el = (e.target ? e.target : e.srcElement);
-    //$("#debugMe").html(el.id);
-    if (!gt_menu_is_sliding && el.id != "topnav_services" && el.id != "topnav_services_ul" && el.id != "serv_link") {
-      $("#div_services").hide();
-    }
-  });
-});</script>
-  
-  <script type="text/javascript" src="/sites/all/modules/growthink/js/form-validation.js?v=1"></script>
+  <script type="text/javascript" src="/sites/all/modules/growthink/js/form-validation.js?v=5"></script>
+  <script type="text/javascript" src="/sites/all/modules/growthink/js/form-validation-new.js?v=3"></script>
   <script type="text/javascript"> </script>
 
-    <style>
-    #topdvdr0 {
-      display: none;
-    }
-    #topdvdr0 {
-      display: none;
-    }
-  </style>
-  
+    <style type="text/css">#topdvdr0 {display: none;}#topdvdr0 {display: none;}</style>
+
 </head>
 <body>
+
 <div id="debugMe"></div>
 
-<div id="div_services" style="display:none; position:absolute;">
+<div id="div_services" style="display:none; position:absolute; z-index:1000">
   <ul>
     <li><a href="/businessplan" id="serv_link">Business Plan Consulting</a></li>
     <li><a href="/corporate-identity-branding" id="serv_link">Corporate Identity &amp; Branding</a></li>
     <li><a href="/feasibility-study" id="serv_link">Feasibility Study Development</a></li>
-    <li><a href="/investment-banking" id="serv_link">Investment Banking</a></li>
+    <li><a href="/financial-modeling" id="serv_link">Financial Modeling</a></li>
+	<li><a href="/internet-marketing" id="serv_link">Internet Marketing</a></li>
+	<li><a href="/investment-banking" id="serv_link">Investment Banking</a></li>
     <li><a href="/investor-relations" id="serv_link">Investor Relations</a></li>
-    <li><a href="/venture-capital-research" id="serv_link">Venture Capital Research</a></li>
+    <li><a href="/marketing-plan" id="serv_link">Marketing Plan Consulting</a></li>	
+    <li><a href="/investment-banking/services/private-placement-memorandum" id="serv_link">Private Placement Memorandum</a></li>		
+    <li><a href="/strategic-planning" id="serv_link">Strategic Planning</a></li>	  
+	<li><a href="/turnaround-strategy" id="serv_link">Turnaround Strategy</a></li>	    
+	<li><a href="/venture-capital-research" id="serv_link">Venture Capital Research</a></li>
     <li><a href="/venture-investing" id="serv_link">Venture Investing</a></li>
     <li><a href="/website-strategy-development" id="serv_link">Website Strategy &amp; Development</a></li>
   </ul>
@@ -178,15 +156,16 @@ We take appropriate security measures to protect against unauthorized access to 
 
 <!-- FOOTER -->
 <div id="footer">
-    <div style="float:left; width:70%">
-			<a href="/about-us" style="padding-right:10px" rel="nofollow">About Us</a> | 
-			<a href="/contact" style="padding-left:10px; padding-right:10px" rel="nofollow">Contact Us</a> | 
-			<a href="/sitemap" style="padding-left:10px; padding-right:10px" rel="nofollow">Site Map</a> |
-			<a href="/privacy-policy" style="padding-left:10px; padding-right:10px" rel="nofollow">Privacy Policy</a> |
-			<a href="/investors" style="padding-left:10px; padding-right:10px" rel="nofollow">Investors</a>			
-			
+    <div style="float:left; width:74%">
+			<a href="/about-us" style="padding-right:8px" rel="nofollow">About Us</a> | 
+			<a href="/contact" style="padding-left:8px; padding-right:8px" rel="nofollow">Contact Us</a> | 
+			<a href="/sitemap" style="padding-left:8px; padding-right:8px">Site Map</a> |
+			<a href="/privacy-policy" style="padding-left:8px; padding-right:8px" rel="nofollow">Privacy Policy</a> |
+			<a href="/investors" style="padding-left:8px; padding-right:8px" rel="nofollow">Investors</a> |
+			<a href="/meeting" style="padding-left:8px; padding-right:8px" rel="nofollow">Meet Now!</a> |
+			<a href="/employment" style="padding-left:8px; padding-right:8px" rel="nofollow">Careers</a>			
     </div>
-    <div style="float:left; width:30%; text-align:right">Copyright © Growthink Inc., 2008</div>
+    <div style="float:left; width:26%; text-align:right">Copyright © Growthink Inc., 2008</div>
     <div style="clear:both"></div>
 </div>
 <!-- FOOTER END -->
@@ -211,9 +190,6 @@ var google_conversion_color = "FFFFFF";
 <img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1072567320/extclk?script=0">
 </noscript>
 
-<!-- SF for GA -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
 
 <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
 <script type="text/javascript">
@@ -221,7 +197,7 @@ _uacct = "UA-890415-1";urchinTracker();
 </script>
 <script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
 
-<!-- ClickDensity -->
+<!-- ClickDensity 
 <script type="text/javascript" src="http://j.clickdensity.com/cr.js"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -229,7 +205,7 @@ _uacct = "UA-890415-1";urchinTracker();
   var clickdensity_keyElement = 'header';
 //]]>
 </script>
-
+-->
 
 
 </body></html>
