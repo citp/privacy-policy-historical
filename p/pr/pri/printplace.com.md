@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185529id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204022023id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PrintPlace: An online printing company for brochures postcards flyers
 
@@ -34,7 +34,7 @@ When you visit our Website, we may track information to administer the site and 
 
 PrintPlace.com may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
 
 PrintPlace.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into PrintPlace.com a site that relies on third-party cookies).
 
