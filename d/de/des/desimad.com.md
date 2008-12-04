@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desimad.com privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222122637id_/http%3A//www.desimad.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimad.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204204515id_/http%3A//www.desimad.com/privacy_policy.php) for the most accurate reproduction.*
 
-# desimad
+# Desimad | Privacy Policy
 
 **We at FINFLOW ………..( herein Finflow ) recognize the importance of protecting your personal and other information which we regard to be personal to you.**
 
