@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qsubmit.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308100102id_/http%3A//www.qsubmit.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsubmit.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204060130id_/http%3A//www.qsubmit.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Cheap Mass Search Engine Submission : Manuel Directory Submission Service : Search Engine Optimization : QSubmit.com
 
 At QSubmit.com we know that privacy is important. The present document summarizes the types of personal information we receive and collect when you use our services, and some of the measures taken to protect your information. We hope this helps you make a good decision and share your personal information with us.
 
