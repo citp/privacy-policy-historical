@@ -1,57 +1,63 @@
-> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408222519id_/http%3A//www.sellathon.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204102458id_/http%3A//www.sellathon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Sellathon ™
+# Sellathon
 
-|  |   
-|  |  |   
----  
   
-Sellathon™ is committed to protecting your privacy. 
+**This privacy statement discloses the types of information we gather, how we use it and how to correct or change it.**
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+**What personal information we collect**
 
-Below you'll find specific information regarding the manner in which we collect and store information.  
-  
-  
-**Purpose:**
+Sellathon collects personally identifiable information when you register on our site. The information collected may include any of the following: email, name, IP address, browser information, address, billing address. Any comments or questions you submit are recorded as well. Also, comments about you as a seller or buyer will be collected and may be viewable by other clients. Collection of information takes place at various times while navigating Sellathon’s site and using its software. When entering Sellathon’s site, information may be collected about previous sites the person has viewed. If questions or comments have been submitted via email or a forum on our website, personal information is collected as well.
 
-We collect information about you for 3 reasons: firstly, to process your order; second, to provide you with the best possible service when using our products and services; and third, to ensure that you are only one with access to your auction statistics.
+**Storage of information collected**
 
-**Registering:**
+All personal information collected is stored via a secure server.
 
-Personal information obtained by Sellathon™ during the registration process will be used only in conjunction with your use of ViewTracker™ and/or other Sellathon™ products and services. No personal information will be disclosed to anyone without your permission.
+**How we use the information collected**
 
-**Email Information:**
+The goal of collecting customer and viewer information is to create a friendlier, smooth, efficient, safe and customized experience while working with Sellathon. Personal information submitted at the time of registration may be used by Sellathon for the marketing and promotion of Sellathon products that we feel may be of interest to you. 
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+**To whom we disclose personal information**
 
-**Log Files:**
+We take your privacy seriously. You have the right to limit the use of your email address by third parties through the opt-out process available to all Sellathon members. In addition, all email correspondence sent to you by Sellathon will offer an unsubscribe option. If you do not choose to limit the use of your email address, Sellathon may occasionally share this information with carefully selected partner companies whose products and services we feel may be of interest to you. 
 
-We use logfiles, including IP addresses, to analyse trends, track user's movement, and to gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+**California Law**
 
-**Tracking Auction Data / Statistics:**
+Under California law, state residents have the right to request in writing from any business with whom they have a business relationship, (1) a list of categories of personal information, such as name, address email address and the type of services provided to the customer, that a business has disclosed to a third party, if any (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information please email us at info@sellathon.com or send a written request to Sellathon, 527 Flume St, Chico, CA 95928. 
 
-By using the ViewTracker™ code in your auctions you are able to collect a considerable amount of data about your auction visitors. Nevertheless, with respect to your visitors, no personal information such as personal names, email addresses, etc. is being tracked.
+We will respond with thirty (30) days after the receipt of your request. We are only required to provide this information once per calendar year per customer.
 
-Your auction visitor data may be compiled and evaluated to create typical usage reports, including most popular search terms, most active times of the day, etc., but such reports will not contain any personal information about you or your auction visitors.
+**Other information**
 
-**Cookies:**
+By submitting personal information to us or using our site, you agree that we may collect and use such personal information in accordance with our privacy policy or as permitted by law. If you do not agree with these terms, do not provide any personal information to us. If you refuse or withdraw consent, or do not provide us with any necessary personal information, we may not be able to provide you with service. 
 
-Sellathon™ uses cookies for the purpose of maintaining state between webpages.
+**Removal from our Database**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+To request removal from the database, file a support request at http://support.sellathon.com/requesthelp.aspx and we will be happy to remove your information immediately. Every email sent to you from Sellathon will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
 
-**Third Parties:**
+**Children**
 
-Sellathon™ will not sell, trade or rent your Personal Information to others unless you have given your permission. Even if you do give us permission, we will use all reasonable precautions to ensure that only responsible third parties see your Personal Information. However, we are not responsible for any breach of security or act or omission of third parties who receive the Personal Information.
+Sellathon uses reasonable efforts not to collect, use, or disclose individually identifiable information from children under the age of 13. Our services are not targeted at children, and children may not register for any of our services.
 
-In the event of a merger, acquisition, asset purchase or other transaction that substantially transfers Sellathon's business assets to a Third Party, your personal information will be transferred to the new entity so that business operations can continue uninterrupted.
+**Cookies**
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our web site. 
+Cookies are small files on the site that help Sellathon customize the site to assist in creating a better experience for you. Most of the cookies are only "session-cookies" and are deleted from your computer when you log off the site. The use of cookies on our site helps make your visit to the site more efficient. Your browser may allow you to turn off cookies on sites, but could slow down your visit to our site. If you turn off the cookies, you may be asked to re-enter your username and password more often. Cookies are not harmful to your computer.
 
-**Notice of New Services and Changes:**
+**Third parties**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending a request to the email address that will appear at the bottom of such emails, specifically for that purpose.
+Sellathon does have partnerships with companies such as Auctiva. If you do not sign up for a company's products directly on their site, and receive an email from them, do not reply to it. However, if you did sign up for their products directly on their site, you may receive emails from them. If you use their products, but signed up through Sellathon's website, any emails sent about product information or promotions will be filtered through Sellathon's systems and sent out as a Sellathon email. Links to these sites are provided on Sellathon's site and at certain points in the sign up and listing phase of an auction.
+
+**Changing of personal information**
+
+You may edit your personal information at any time by editing Customer Preferences when you are signed in to Sellathon. The new information will be updated in our system and used in the collection of information when visiting Sellathon.
+
+**Merger or Acquisition**
+
+In the event that Sellathon merges or is acquired by another company, all current information Sellathon has will be shared with the other company. Sellathon will do its best to inform you of the transaction.
+
+**Questions, comments, concerns**
+
+All questions, comments and concerns can be submitted via email at info@Sellathon.com. You will receive an answer as soon as possible.
 
   
 
