@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleadventure.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603001526id_/http%3A//www.articleadventure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleadventure.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204084525id_/http%3A//www.articleadventure.com/privacy.php) for the most accurate reproduction.*
 
 # Article Adventure - Articles Content Information
 
