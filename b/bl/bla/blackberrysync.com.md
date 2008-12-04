@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the blackberrysync.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613193920id_/http%3A//blackberrysync.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberrysync.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204120317id_/http%3A//blackberrysync.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » BlackBerry Sync | get in sync with the latest BlackBerry news
-
-## Privacy Policy
-
-  
-
+# BlackBerry Sync | get in sync with the latest BlackBerry news | Privacy Policy
 
 ### Website Visitors
 
