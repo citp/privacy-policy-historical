@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjadude.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502165738id_/http%3A//www.ninjadude.com/index.php/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjadude.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204064553id_/http%3A//www.ninjadude.com/index.php/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
-# - Terms Of Use & Privacy Policy At NinjaDude.com Celebrity Gossip
+# - Terms Of Use & Privacy Policy At NinjaDude.com Celebrity Gossip And Pictures Posted Daily!
 
 The following terms outline your usage here at **NinjaDude.com**. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern **NinjaDude.com’s** relationship with you in relation to this website.
 
