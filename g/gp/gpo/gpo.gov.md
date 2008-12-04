@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102155111id_/http%3A//www.gpo.gov/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204065838id_/http%3A//www.gpo.gov/legal.htm) for the most accurate reproduction.*
 
 # GPO - Legal Information
 
