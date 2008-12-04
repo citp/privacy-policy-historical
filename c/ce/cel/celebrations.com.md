@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619124020id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204025423id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy | Celebrations.com
+# Party Ideas, Party Planning Tips, and Expert Advice from Celebrations | Celebrations.com
 
 CELEBRATIONS.COM recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
-\- the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,  
-\- why we gather information from you,  
-\- how we collect it,  
-\- how we use it, and  
+\- the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail  
+\- why we gather information from you  
+\- how we collect it  
+\- how we use it and  
 \- the choices you have regarding our use of personal information you have provided.
 
 This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at CELEBRATIONS.COM (CELEBRATIONS.COM or the "Web Site"). The Web Site is owned by 1-800-Flowers.com, Inc. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
@@ -21,16 +21,16 @@ CELEBRATIONS.COM gathers personal information to help improve our products and c
 What information do we gather?
 
 We collect information through our Web Site, emails, mail, fax, and telephone, including when you:  
-\- place an order,  
+\- place an order  
 \- participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and  
 \- engage in other activities, services, products and resources we make accessible to our customers, members or users.  
 Depending on how you are interact with us, we collect some or all of the following types of information:  
-\- your name, address, telephone number, email address,  
-\- billing information (credit card number, expiration date and billing address),  
-\- gender and birth date, if you choose to enter such information,  
-\- products purchased and occasion type (for example, Mother's Day),  
-\- any promotion code and related information (for example, if you are claiming frequent flyer miles),  
-\- Message and gift recipients' names, addresses, telephone numbers and email addresses, and  
+\- your name, address, telephone number, email address  
+\- billing information (credit card number, expiration date and billing address)  
+\- gender and birth date, if you choose to enter such information  
+\- products purchased and occasion type (for example, Mother's Day)  
+\- any promotion code and related information (for example, if you are claiming frequent flyer miles)  
+\- Message and gift recipients' names, addresses, telephone numbers and email addresses and  
 \- other information you provide to us, including User Submissions (defined in the Terms of Use).  
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries.
 
