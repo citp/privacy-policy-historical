@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomitalia.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502112503id_/http%3A//www.telecomitalia.com/cgi-bin/tiportale/TIPortale/ep/programView.do%3FLANG%3DEN%26tabId%3D1%26pageTypeId%3D9536%26channelId%3D-8661%26programId%3D23715%26programPage%3D%252Fep%252FTIgruppo%252FPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomitalia.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205003603id_/http%3A//www.telecomitalia.com/cgi-bin/tiportale/TIPortale/ep/programView.do%3FLANG%3DEN%26tabId%3D1%26pageTypeId%3D9536%26channelId%3D-8661%26programId%3D23715%26programPage%3D%252Fep%252FTIgruppo%252FPrivacy.jsp) for the most accurate reproduction.*
 
 # Telecom Italia - Group
 
@@ -6,7 +6,7 @@
 
 **[Information note for customers of the services "Chiave unica", under the provisions of Art. 13 of the Code on the Protection of Personal Data (Legislative Decree 196/03), following the merger by incorporation of Nuova Tin.it s.r.l. in Telecom Italia S.p.A.](https://web.archive.org/TIPortale/docs/gruppo/Informativa_clienti_servizi_Chiave_unica_TI-Matrix_25.09.06_ENG.pdf)** (file .pdf, 63 Kb)
 
-**[Information note for shareholders, under the provisions of Art. 13 of the Code on the Protection of Personal Data (Legislative Decree 196/03)](https://web.archive.org/web/20080502112503id_/http%3A//www.telecomitalia.com/cgi-bin/tiportale/TIPortale/ep/browse.do?tabId=5&pageTypeId=-8662&LANG=EN&channelId=-13837&channelPage=/ep/channel/default.jsp)**
+**[Information note for shareholders, under the provisions of Art. 13 of the Code on the Protection of Personal Data (Legislative Decree 196/03)](https://web.archive.org/web/20081205003603id_/http%3A//www.telecomitalia.com/cgi-bin/tiportale/TIPortale/ep/browse.do?tabId=5&pageTypeId=-8662&LANG=EN&channelId=-13837&channelPage=/ep/channel/default.jsp)**
 
 **List of data processors**
 
