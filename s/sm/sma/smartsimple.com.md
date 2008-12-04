@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031215853id_/http%3A//www.smartsimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204044858id_/http%3A//www.smartsimple.com/privacy.html) for the most accurate reproduction.*
 
 # SmartSimple Software Inc.
 
