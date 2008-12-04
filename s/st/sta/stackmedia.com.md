@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204060430id_/http%3A//www.stackmedia.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**PRIVACY POLICY**  
+StackMedia respects the privacy of visitors to this web site (the “Site”).  We request information such as your name and email address in order to process your requests, provide personalized services and communicate with you directly. We do not sell, trade, share or rent personally identifiable information to any parties outside of StackMedia Your name and other personal information is only used to correspond with you. 
+
+**Information we Collect**  
+StackMedia collects users’ email addresses and reserves the right to send electronic mail to users from time to time to inform you of site updates, product offers and promotions. Your email address will never be shared with third parties. As detailed in Sections 2.1 and 2.2c, you may opt out of receiving future mailings by emailing [support@StackMedia.com](mailto:support@StackMedia.com) to request that your email address be removed from future communications or by clicking on “unsubscribe” within the email communications.  
+StackMedia collects personally-identifying financial information, such as your name, address and credit card information, that is used to check your qualifications for registration and to bill you for products and services.  
+We may use your contact information (your e-mail or physical address) to get in touch with you if necessary to solve a problem. Users may opt out of receiving future mailings; see the choice/opt out section below.   
+We collect and use the IP address of users to help diagnose problems with our server and to administer our Site.  We also use the IP addresses of users to help identify their shopping carts.  
+We collect information concerning users’ use of our Site through the use of cookies.  We use cookies and similar technologies to keep track of shopping cart contents and/or referral information. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies to let you use our Site easily and to let us keep track of certain statistical information that helps us improve the services available. StackMedia and our agents and partners use cookies and IP Addresses to track referral activity on our Site and to make payments to third party web sites that provide customers to the StackMedia.com web site.  You may not be able to use certain features of the Site if you block the use of cookies.  
+We do not share/sell or in anyway distribute users’ personal information or data with any other companies (apart from our payment processing partners who act as agents for purposes of processing payment for the services users elect to purchase from us).
+
+ **Security**  
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Security of information in transit to and from our Site is encrypted using SSL encryption protocols. We store all user information in secure databases protected via a variety of access controls as well as using encryption of sensitive information. This data is accessed only for the purposes specified in this privacy statement. Our secure server software is industry standard for secure e-commerce transactions. It encrypts all of your personal information including name, address, and credit card number, effectively locking off access as the information travels over the Internet. All customer credit cards are encrypted in our database.
+
+ **Children**   
+We do not provide content on our Site that is intended to attract or encourage the participation of children. We do not solicit or knowingly accept information from persons under the age of 18.
+
+ **Choice/Opt-Out**   
+Users of this Site who have provided personally identifying information to StackMedia may opt out of receiving messages from StackMedia by emailing [support@StackMedia.com](mailto:support@StackMedia.com) to request that their email address be removed from future communications or may use the “unsubscribe” link displayed on the emails and their address will be removed from future communications.
+
+ **Notice to US Users**  
+We  may send advertisements to your web browser when you use our network of web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.  As always, remember we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting.  Our third-party ad servers do not collect, nor do we give them access to, any personally identifying information about you.      
+Opting Out of Third-Party Ad Servers  
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's web site individually and opt out (if they offer this capability).   
+Currently, we have relationships with the following third-party ad networks (click to visit their web site):   
+24/7 Real Media, Inc.  
+[ **http://www.247realmedia.com/privacy.html**](http://www.247realmedia.com/privacy.html)  
+Google, Inc.  
+[ **http://www.google.com/privacy.html**](http://www.google.com/privacy.html)  
+ **Change/Modify Personally Identifying Information**   
+A user of the Site may review and change the personally identifying information you have provided to StackMedia by accessing his or her user profile accessible through the Site.  You may request assistance in this regard by sending a request to [support@StackMedia.com](mailto:support@StackMedia.com).  
+email [****](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy69228%20=%20'support'%20+%20'@';%20addy69228%20=%20addy69228%20+%20'stackmedia'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy69228%20+%20'\\'%3E'%20\);%20document.write\(%20addy69228%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)**[support@StackMedia.com](mailto:support@StackMedia.com)**
+
+**Changes to this Privacy Policy**  
+Please note that this Privacy Policy may change from time to time. StackMedia will post any Privacy Policy changes on this page and, if the changes are significant, StackMedia will provide a more prominent notice (including, for certain significant changes, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date. 
+
+**Your responsibility**   
+As a customer of StackMedia, you may be provided with a unique identifier such as a username and password which is intended to authenticate your identity when accessing our systems. Such identifying items are intended to be secret and to be known, possessed, and used only by you. The effectiveness of these mechanisms for authenticating your identity are dependent upon your keeping them in your exclusive possession and upon your protecting them from the discovery, access, or possession of others. If you fail to keep such identifying information in your exclusive possession (e.g., you allow others to have knowledge or possession of your password or user ID), you may bear responsibility for the actions of other persons who use this information in accessing our systems.   
+Should you become aware or have reason to suspect that your password or user ID has been lost or has been disclosed to someone other than yourself, you should immediately notify StackMedia Support at [****](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy69228%20=%20'support'%20+%20'@';%20addy69228%20=%20addy69228%20+%20'stackmedia'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy69228%20+%20'\\'%3E'%20\);%20document.write\(%20addy69228%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)**[support@StackMedia.com](mailto:support@StackMedia.com)**.
+
+ **Contacting StackMedia**   
+If you have any questions about these Terms of Use and privacy statement, the practices of this Site, or your dealings with this Site, you can contact   
+_Support:_   
+StackMedia  
+17011 Beach Blvd, Suite 550   
+Hungtington Beach, CA 92647   
+U.S.A.
