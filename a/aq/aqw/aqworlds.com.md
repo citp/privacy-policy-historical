@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aqworlds.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606013840id_/http%3A//www.aqworlds.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqworlds.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204230216id_/http%3A//www.aqworlds.com/aw-privacy.asp) for the most accurate reproduction.*
 
-# AdventureQuest Worlds: Browser Based Massively Multiplayer Game
+# AdventureQuest Worlds: Privacy Policy
 
 PRIVACY POLICY
 
@@ -20,6 +20,9 @@ Contacting AdventureQuest Worlds
 
 Information You Provide to Us And How We Use This Information
 
+**I. Chat Logs of Users**  
+AdventureQuest Worlds creates and retains logs of all chat conversations (both private and public) between users (“Chat Content”), as well as private game play patterns and other activity of users within Company games. Additionally, you acknowledge and grant permission to Company to review, monitor, disclose, censor, delete or otherwise remove Chat Content and other private user activity within Company games for the purpose of preventing breaches of this Agreement and of other Company prohibitions on unlawful or abusive activity. Accordingly, you acknowledge that you have no privacy rights whatsoever in Chat Content or any other content that you create in Company games.
+
 **I. Free Accounts**  
 AdventureQuest Worlds has a large portion of the game available to the users for free. In order to register a character for the free version of the game, the only information that AdventureQuest Worlds collects is the user’s e-mail address. The e-mail address is used for the following purposes:  
 1\. To send a confirmation notice to the user of their character registration and password information.  
@@ -30,7 +33,10 @@ AdventureQuest Worlds has a large portion of the game available to the users for
 
 * AdventureQuest Worlds game is unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine’s Day, other events are made up as we go along. We use the newsletter to notify our users of all the current events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that AdventureQuest Worlds has designed and made available exclusively to our users. In addition, AdventureQuest Worlds may send promotional items and advertisements from the sponsors, however AdventureQuest Worlds will not divulge your personal information to the sponsor directly.
 
-**II. Subscriber Accounts**  
+By registering for AdventureQuest Worlds, you consent to: a) receive periodic email communications from AdventureQuest Worlds concerning your account; and b) receive the above-described email newsletter.  
+
+
+**III. Subscriber Accounts**  
 A Subscriber Account is a paid membership account that provides our users with additional access and privileges while playing AdventureQuest Worlds. The Subscriber Account requires and uses all of the information listed under the Free Account in the same manner. In addition to the above, however, we will require you to provide the following information:  
 1) First and last name  
 2) Address, city, state and zip code  
@@ -38,10 +44,12 @@ A Subscriber Account is a paid membership account that provides our users with a
 
 We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
 
-**III. Artix Affiliate Program**  
+**IV. Artix Affiliate Program**  
 The Artix Entertainment Partner Program is Artix’s affiliate marketing program. The Partner Program is the FIRST EVER such program for a Massively Single Player Role Playing Game (MSPRPG), and it is open to anyone 18 years old or older with an active website. For additional information on the Partner Program, please go to 
 
-_[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp)_. In order to register for the Partner Program, we will require you to provide the following information:
+_[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp)_
+
+. In order to register for the Partner Program, we will require you to provide the following information:
 
   * First and last name
 
