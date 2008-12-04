@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424104656id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204140350id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
 
 # HealthFormula
 
