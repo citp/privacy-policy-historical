@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besttofind.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507003101id_/http%3A//www.besttofind.com/privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besttofind.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204145949id_/http%3A//www.besttofind.com/privacy-Policy.htm) for the most accurate reproduction.*
 
 # Welcome to Best To find
 
@@ -17,3 +17,5 @@ We may share information with governmental agencies or other companies assisting
 
 **Commitment to Data Security**  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
+
+**[ Home](http://www.besttofind.com/)  |  [ Contact Us](http://www.besttofind.com/contact.htm)  |  Add to Favorite |  [ Submit Article](http://www.besttofind.com/submitarticle.aspx) |  [ Link Exchange](http://www.besttofind.com/sublink.aspx) |[Resources Links](http://www.besttofind.com/Links%20-%20Resources%20Links.html)|  [ Terms & Conditions ](http://www.besttofind.com/Termas-Conditions.htm) |  [ Privacy Policy](http://www.besttofind.com/privacy-Policy.htm)  |  [ Site Map](http://www.besttofind.com/Site-Map.htm)**
