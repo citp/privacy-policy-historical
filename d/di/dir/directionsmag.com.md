@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030002049id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204143117id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - Directions Media
 
 ---  
   
-Directions Magazine respects the privacy of every individual who visits our Web sites. This Privacy Statement outlines the information we collect via our various Web sites and how we use that information.
+Directions Media respects the privacy of every individual who visits our Web sites. This Privacy Statement outlines the information we collect via our various Web sites and how we use that information.
 
 ### Personally Identifiable Information
 
-Directions Magazine collects personally identifiable information such as your name, address, telephone number, or E-mail address **only** if you provide that information to us voluntarily such as survey information and/or site registrations. 
+Directions Media collects personally identifiable information such as your name, address, telephone number, or E-mail address **only** if you provide that information to us voluntarily such as survey information and/or site registrations. 
 
 The voluntary information we collect is used for internal review and to notify visitors about updates to our Web site. Even though we may share aggregate data with our readers and advertisers, **we will not share individual information with others.** We also run contests on our site in which we ask visitors for contact information (like their e-mail address) for notification of winners. 
 
@@ -16,11 +16,11 @@ We use E-mail links located on various pages to allow you to contact us directly
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-Otherwise, Directions Magazine generally will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law; (2) protect and defend the rights or property of Directions Magazine. 
+Otherwise, Directions Media generally will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law; (2) protect and defend the rights or property of Directions Media. 
 
 ### Information Collected Automatically
 
-We automatically log information such as your domain name (ex. _mindspring.com_ ), the type if Internet browser you use, the operating system you use. We also may log what pages are viewed. This information is used **only** for internal review to help us improve the content of our magazine. The information is not shared with any other company or used by Directions Magazine to contact clients.
+We automatically log information such as your domain name (ex. _mindspring.com_ ), the type if Internet browser you use, the operating system you use. We also may log what pages are viewed. This information is used **only** for internal review to help us improve the content of our magazine. The information is not shared with any other company or used by Directions Media to contact clients.
 
 ### Cookies
 
@@ -30,12 +30,12 @@ With most Internet browsers, you can erase cookies from your computer hard drive
 
 ### Links to Other Web sites
 
-The Directions Magazine site offers links to hundreds of GIS-related Web sites. Directions Magazine assumes no responsibility for the information practices of these sites, and these links do not imply affiliation or endorsement of the linked sites.
+The Directions Media site offers links to hundreds of GIS-related Web sites. Directions Media assumes no responsibility for the information practices of these sites, and these links do not imply affiliation or endorsement of the linked sites.
 
 ### Removing Your Information from Our Databases
 
-If you do not wish to receive E-mail notifications about Directions Magazine, please let us know by sending E-mail to us at [website@directionsmag.com](mailto:website@directionsmag.com) and specifying us that you do not want to receive these notifications. Please provide us with your exact name and address, and if possible a reason why you would like removed from these mailing. We will use reasonable efforts to delete this information from our existing files.
+If you do not wish to receive E-mail notifications about Directions Media, please unsubscribe here <http://www.directionsmedia.net/newsletters.subscription/>. Or you can contacts us directly by specifying that you do not want to receive these notifications at [webmaster@directionsmag.com](mailto:webmaster@directionsmag.com). We will use reasonable efforts to delete this information from our existing files. 
 
-Directions Magazine does not intentionally collect personally identifiable information such as name, address, telephone number, or E-mail address from children. However, users of any age can download our free software, participate in surveys or wish lists which require a name and E-mail address.
+Directions Media does not intentionally collect personally identifiable information such as name, address, telephone number, or E-mail address from children. However, users of any age can download our free software, participate in surveys or wish lists which require a name and E-mail address.
 
 If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [website@directionsmag.com](mailto:website@directionsmag.com). We will use reasonable efforts to delete the child's information from our existing files.
