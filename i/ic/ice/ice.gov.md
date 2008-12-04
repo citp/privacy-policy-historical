@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081110id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204143744id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -28,7 +28,7 @@ If you choose to provide ICE with personal information, such as sending e-mail o
 
 ICE may share the information you give us with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, ICE may be required by law to disclose information that you submit. Before you submit any personal information, such as an online form, you may be given more specific guidance as to how your personal information may be used. 
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act, the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. 
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act, the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act.
 
 ## Cookies
 
@@ -50,11 +50,11 @@ Information presented on the ICE Website is considered public information and ma
 
 ## Public Service
 
-The ICE Website is provided as a public service. Every effort is made to provide complete and accurate information. However, with the volume of documents available, often uploaded with short deadlines, ICE does not guarantee the site will be error free. ICE will do its best ensure that any errors brought to attention will be corrected as soon as possible. Errors found on the ICE Website can be emailed to the [web master](mailto:ice.publicaffairs@dhs.gov).
+The ICE Website is provided as a public service. Every effort is made to provide complete and accurate information. However, with the volume of documents available, often uploaded with short deadlines, ICE does not guarantee the site will be error free. ICE will do its best ensure that any errors brought to attention will be corrected as soon as possible.
 
 ## Priorities and Schedule for Posting New Content
 
-Section 207(f)(2) of the E-Government Act of 2002 requires federal agencies to develop an inventory of information to be published on their Web sites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the Web site. As a component of the Department of Homeland Security (DHS) this inventory can be found on the main DHS website. 
+Section 207(f)(2) of the E-Government Act of 2002 requires federal agencies to develop an inventory of information to be published on their Web sites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the Web site. As a component of the Department of Homeland Security (DHS) this inventory can be found on the main DHS website.
 
 Back to the Top
 
@@ -94,18 +94,18 @@ Follow these steps to make a request:
 >  Washington, DC 20536 
 
   5. Requests can also be faxed to (202) 732-0310
-  6. Requests or questions may also be e-mailed to the following address: [ICE-FOIA.ice@dhs.gov](mailto:ICE-FOIA.ice@dhs.gov)
+  6. Requests or questions may also be e-mailed to the following address: [ICE-FOIA@dhs.gov](mailto:ICE-FOIA@dhs.gov)
   7. Requests are deemed to constitute an agreement to pay any applicable fees that may be chargeable up to $25 without notice. Most requests do not require any fees; however, if fees exceed $25, we will notify you beforehand. 
 
 
 
-An "[AFFIRMATION/DECLARATION](https://web.archive.org/doclib/affirmation_declaration.pdf)" form indicating your name, date of birth, name of the person you want your records disclosed to (where applicable) and their address and a statement indicating that **you understand that knowingly or willingly seeking or obtaining access to records about another person under false pretenses and or without their consent is punishable by a fine of up to $5,000**. 
+An "[AFFIRMATION/DECLARATION](https://web.archive.org/doclib/affirmation_declaration.pdf)" form indicating your name, date of birth, name of the person you want your records disclosed to (where applicable) and their address and a statement indicating that **you understand that knowingly or willingly seeking or obtaining access to records about another person under false pretenses and or without their consent is punishable by a fine of up to $5,000**.
 
-**When should I expect to see a response to my request?** ****
+**When should I expect to see a response to my request?**
 
-You should receive an acknowledgement letter within 3-5 business days after we receive your request.  This letter will contain a tracking number we have assigned to your request.  If you contact us by phone, mail or e-mail please have this number available if you wish to check the status of your request. 
+You should receive an acknowledgement letter within 3-5 business days after we receive your request. This letter will contain a tracking number we have assigned to your request. If you contact us by phone, mail or e-mail please have this number available if you wish to check the status of your request. 
 
-ICE uses a multi-track system to process requests on a first-in, first-out basis. We are able to answer simple requests more quickly and such inquiries will be placed on the fast track of our multi-track processing.  More complex requests may require significant processing time. Although ICE's goal is to respond within 20 business days of receipt of your request, the FOIA does permit a 10-day extension of this time period.  If your request involves a significant volume of records, requires that we collect records from separate offices or requires that we consult with another agency, ICE will invoke the 10-day extension for the completion of your request.    **  **
+ICE uses a multi-track system to process requests on a first-in, first-out basis. We are able to answer simple requests more quickly and such inquiries will be placed on the fast track of our multi-track processing. More complex requests may require significant processing time. Although ICE's goal is to respond within 20 business days of receipt of your request, the FOIA does permit a 10-day extension of this time period. If your request involves a significant volume of records, requires that we collect records from separate offices or requires that we consult with another agency, ICE will invoke the 10-day extension for the completion of your request.
 
 ## Multi-Track Processing: 
 
@@ -127,13 +127,13 @@ There is no initial fee to make a FOIA request, and in many cases no fees are ch
 
 
 
-Those initiating a commercial use request are charged for search time, document review, and duplication. News media, educational, and scientific requests are charged for duplication only, and only after the first 100 pages. All other requests are charged for search time (after two hours) and duplication (after 100 pages).  In all cases, if the total fee does not exceed $14.00, ICE will not charge any fee.
+Those initiating a commercial use request are charged for search time, document review, and duplication. News media, educational, and scientific requests are charged for duplication only, and only after the first 100 pages. All other requests are charged for search time (after two hours) and duplication (after 100 pages). In all cases, if the total fee does not exceed $14.00, ICE will not charge any fee.
 
-You may make a specific statement in your request letter limiting the amount of fees you are willing to pay. If you do not, ICE will assume that you are willing to pay fees of up to $25.00.  If your estimated fees exceed $25.00, you will be given the opportunity to narrow your request in order to reduce the fees or you will be asked to express your commitment to pay the estimated amount. Ordinarily, you will not be required to actually pay the fees until the records have been processed and are ready to be sent to you. 
+You may make a specific statement in your request letter limiting the amount of fees you are willing to pay. If you do not, ICE will assume that you are willing to pay fees of up to $25.00. If your estimated fees exceed $25.00, you will be given the opportunity to narrow your request in order to reduce the fees or you will be asked to express your commitment to pay the estimated amount. Ordinarily, you will not be required to actually pay the fees until the records have been processed and are ready to be sent to you. 
 
 **Fee Waivers:**
 
-If you expect or are advised that a fee will be charged, you may request a waiver of those fees. However, fee waivers are limited to situations in which a requester can show that the disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government and is not primarily in the commercial interest of the requester.  A requester's inability to pay fees is not a legal basis for granting a fee waiver.
+If you expect or are advised that a fee will be charged, you may request a waiver of those fees. However, fee waivers are limited to situations in which a requester can show that the disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government and is not primarily in the commercial interest of the requester. A requester's inability to pay fees is not a legal basis for granting a fee waiver.
 
 **Expedited Processing:**
 
@@ -170,11 +170,8 @@ Both the front of the envelope and the appeal letter should contain the notation
 
 **Judicial Review:**
 
-If you still believe that ICE has not handled your FOIA request properly under the law after your administrative appeal has been decided, you have the right to challenge the agency's action in a lawsuit filed in federal court.  Before doing so, you ordinarily will be required first to have filed an administrative appeal and to have received a response.
+If you still believe that ICE has not handled your FOIA request properly under the law after your administrative appeal has been decided, you have the right to challenge the agency's action in a lawsuit filed in federal court. Before doing so, you ordinarily will be required first to have filed an administrative appeal and to have received a response.
 
-If you do bring a court action, you may file your lawsuit in a federal district court in any of the following places: (1) where you reside, (2) where you have your principal place of business (if any), (3) in the District of Columbia, or (4) where the records are located, if they are not located in the District of Columbia.  If you have received an administrative appeal determination, that final administrative response letter will advise you of your right to seek judicial review and will specify where you can do so.
+If you do bring a court action, you may file your lawsuit in a federal district court in any of the following places: (1) where you reside, (2) where you have your principal place of business (if any), (3) in the District of Columbia, or (4) where the records are located, if they are not located in the District of Columbia. If you have received an administrative appeal determination, that final administrative response letter will advise you of your right to seek judicial review and will specify where you can do so.
 
 Back to the Top
-
-  
-
