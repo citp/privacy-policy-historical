@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623101805id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204025008id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # 
 
@@ -42,10 +42,10 @@ We do at times need to pass on your information to people who provide services t
 We will not keep your information for longer than is necessary and will take steps to ensure that it is kept up to date. You may also update your information from time to time. You have a right under the Data Protection Act 1998 to ask what information we hold about you. You can do this by writing to us at: 
 
 Fast Web Media Ltd,  
-12th Floor, Sunlight House,  
-Quay Street,  
-Manchester,  
-M3 3JZ
+1st Floor, Armstrong House,  
+Manchester Technology Centre,  
+Oxford Road, Manchester,  
+M1 7ED
 
 6\. Will we transfer your information outside of the UK?  
 Please note that we may have to send your information to locations outside the UK or the EEA, such as the USA, possibly including countries whose protection of personal information may not be as high as that in the UK. If your information is transferred to a service provider or agent in another country, we will make sure that the service provider or agent agrees to apply the same levels of protection, as we are required to apply to information held in the UK. We will ensure that your information is only used for the purpose of providing a service to us. 
@@ -68,7 +68,8 @@ We will send e-mails to the e-mail address you have given us. We will not be res
 If you have any queries or concerns about privacy on the 4thegame.com site please contact us at 
 
 Fast Web Media Ltd,  
-12th Floor, Sunlight House,  
-Quay Street,  
-Manchester,  
-M3 3JZ
+Fast Web Media Ltd,  
+1st Floor, Armstrong House,  
+Manchester Technology Centre,  
+Oxford Road, Manchester,  
+M1 7ED
