@@ -1,0 +1,440 @@
+<!--The following is the downloaded HTML source of the nikiomahe.com privacy policy that was archived on 2008-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081205085004id_/http%3A//www.nikiomahe.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy - Architecture and Design News - Nikiomahe.com - </title>
+
+<link href="http://yudikiting.googlepages.com/nikinewicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="http://www.nikiomahe.com/wp-content/themes/simplewhite/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="Architecture and Design News - Nikiomahe.com RSS Feed" href="http://www.nikiomahe.com/feed/">
+<link rel="pingback" href="http://www.nikiomahe.com/xmlrpc.php">
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nikiomahe.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nikiomahe.com/wp-includes/wlwmanifest.xml"> 
+<script type="text/javascript" src="http://www.nikiomahe.com/wp-includes/js/jquery/jquery.js?ver=1.2.3"></script>
+<meta name="generator" content="WordPress 2.5.1">
+
+ 
+	<style type="text/css" media="screen">
+	
+		/* Clear floats without structural markup
+		   courtesy of htmldog.com/positioniseverything.net */
+		.clearfix:after {
+			content: "."; 
+			display: block; 
+			height: 0; 
+			clear: both; 
+			visibility: hidden;
+		}
+		
+		/* Hides from IE-mac \*/
+		* html .clearfix { height: 1%; }
+		/* End hide from IE-mac */
+		
+		div.intouch {
+			margin: 20px auto 40px auto;
+		}
+		
+		div.intouch  form {
+			float: left;
+			width: 100%;
+		}
+		
+		div.intouch div.inputfield { 
+			padding: 4px 0px;
+			position: relative;
+		}
+		
+		div.intouch label { 
+			display: block;
+			float: left;
+			clear: left;
+			width: 25%; 
+			text-align: right;
+		}
+		
+		div.intouch div.inputfield input, div.intouch div.inputfield textarea {
+			float: left;
+			margin-left: 10px;
+		}
+		
+		div.intouch div.inputfield input {
+			width: 40%;
+		}
+		
+		div.intouch div.inputfield textarea {
+			width: 50%;
+		}
+
+		div.intouch div.inputfield input.submitbutton {
+			width: auto !important;
+			padding: 2px;
+			margin-left: 10px;
+			left: 25%;
+			position: absolute;
+		}
+		
+		div.intouch div#usermessage {
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		
+		div.intouch .error {
+			border: 1px solid #FF0000 !important;
+			padding: 1px;
+		}
+	
+	</style> 
+	<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+				
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "GET";
+		
+		function sajax_debug(text) {
+			if (sajax_debug_mode)
+				alert("RSD: " + text)
+		}
+ 		function sajax_init_object() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			
+ 			var A;
+			try {
+				A=new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {
+				try {
+					A=new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (oc) {
+					A=null;
+				}
+			}
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		function sajax_do_call(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			
+			uri = "";
+			if (sajax_request_type == "GET") {
+				if (uri.indexOf("?") == -1) 
+					uri = uri + "?rs=" + escape(func_name);
+				else
+					uri = uri + "&rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					uri = uri + "&rsargs[]=" + escape(args[i]);
+				uri = uri + "&rsrnd=" + new Date().getTime();
+				post_data = null;
+			} else {
+				post_data = "rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					post_data = post_data + "&rsargs[]=" + escape(args[i]);
+			}
+			
+			x = sajax_init_object();
+			x.open(sajax_request_type, uri, true);
+			if (sajax_request_type == "POST") {
+				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			}
+			x.onreadystatechange = function() {
+				if (x.readyState != 4) 
+					return;
+				sajax_debug("received " + x.responseText);
+				
+				var status;
+				var data;
+				status = x.responseText.charAt(0);
+				data = x.responseText.substring(2);
+				if (status == "-") 
+					alert("Error: " + data);
+				else  
+					args[args.length-1](data);
+			}
+			x.send(post_data);
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+		}
+		
+				
+		// wrapper for intouch_submitcomment		
+		function x_intouch_submitcomment() {
+			sajax_do_call("intouch_submitcomment",
+				x_intouch_submitcomment.arguments);
+		}
+		
+				
+		function intouch_submitcomment() {
+			var regexp = new RegExp('[$][#][$]', ['g']);
+		
+			 
+					
+			var var_1 = document.getElementById('field_1').value.replace(regexp, '$');
+				
+				 
+					
+			var var_2 = document.getElementById('field_2').value.replace(regexp, '$');
+				
+				 
+					
+			var var_3 = document.getElementById('field_3').value.replace(regexp, '$');
+				
+				 
+					
+			var var_4 = document.getElementById('field_4').value.replace(regexp, '$');
+				
+							
+			x_intouch_submitcomment('' + var_1 + '$#$' + var_2 + '$#$' + var_3 + '$#$' + var_4 + '', intouch_setsuccessmessage);
+		}
+			
+		function intouch_setsuccessmessage(message) {
+			document.getElementById('intouchform').reset();
+			doInnerXHTML('usermessage', message);
+		}
+		
+		function intouch_validate() {
+			if(doInnerXHTML('usermessage', 'Please wait...')) {
+			
+				var all_valid = true;
+				
+				if(document.getElementById('field_1').value == '') {
+					document.getElementById('field_1').className = "error";
+					all_valid = false;
+				}
+				else {
+					document.getElementById('field_1').className = "default";
+				}
+				
+				var regexp = new RegExp('^[\\w-_\.]+@[\\w-_]+[\.][\\w-_\.]+$');
+								
+				if(document.getElementById('field_2').value == '' || ! document.getElementById('field_2').value.match(regexp)) {
+					document.getElementById('field_2').className = "error";
+					all_valid = false;
+				}
+				else {
+					document.getElementById('field_2').className = "default";
+				}
+				
+								
+				if(all_valid) {
+					intouch_submitcomment();
+				}
+				else {
+					doInnerXHTML('usermessage', 'Please fill in all the required fields.');
+				}
+				
+				return false;
+			}
+			else {
+				return true;
+			}
+		}
+		
+		// fallback if DOMParser and innerHTML are not working
+		function doInnerXHTML(elementId, stringXHTML) {
+			try {
+				var elem = document.getElementById(elementId);
+				var children =  elem.childNodes;
+			
+				for (var i = 0; i < children.length; i++) {
+					elem.removeChild(children[i]);
+				}
+			
+				var nodes = new DOMParser().parseFromString('<span>' + stringXHTML + '</span>', 'text/xml');
+				var range = document.createRange();
+				range.selectNodeContents(document.getElementById(elementId));
+				range.deleteContents();
+				
+				for (var i = 0; i < nodes.childNodes.length; i++) {
+					document.getElementById(elementId).appendChild(nodes.childNodes[i]);
+				}
+				return true;
+			} catch (e) {
+				try {
+					document.getElementById(elementId).innerHTML = stringXHTML;
+					return true;
+				}
+				catch(ee) {
+					return false;
+				}
+			}
+		}
+		
+		//--><!]]>
+	</script>
+
+<!-- Start Of Script Generated By WP-PageNavi 2.31 -->
+<link rel="stylesheet" href="http://www.nikiomahe.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="screen">
+<!-- End Of Script Generated By WP-PageNavi 2.31 -->
+</head>
+<body>
+<div id="page">
+
+
+<div id="header">
+	<div id="headerimg">
+<div id="topsearch">
+		<form id="searchform" action="http://www.nikiomahe.com/index.php" method="get" onsubmit="location.href='http://www.nikiomahe.com/search/' + encodeURIComponent(this.s.value).replace(/%20/g, '+'); return false;">
+<div><input type="text" value="" name="s" id="s">
+<input type="submit" id="searchsubmit" value="Search">
+</div>
+</form>	</div>
+	</div>
+	
+<div id="topmenu">
+<ul>
+<li><a href="http://www.nikiomahe.com" title="Architecture and Design News - Nikiomahe.com">Home</a></li>
+<li class="page_item page-item-469"><a href="http://www.nikiomahe.com/about-2/" title="About">About</a></li>
+<li class="page_item page-item-854"><a href="http://www.nikiomahe.com/contact-us/" title="Contact">Contact</a></li>
+<li class="page_item page-item-875 current_page_item"><a href="http://www.nikiomahe.com/privacy-policy/" title="Privacy">Privacy</a></li>
+<li class="page_item page-item-860"><a href="http://www.nikiomahe.com/archives/" title="Archives">Archives</a></li>
+	
+</ul> 
+</div>
+	
+</div>
+
+
+<hr>
+<div style="margin-top: 0px; padding: 5px; text-align: center; border-bottom: dotted 1px #cccccc; ">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9186960905831613";
+/* 728x15, created 11/4/08 */
+google_ad_slot = "0064121630";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br><br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9186960905831613";
+/* 728x90, created 10/22/08 */
+google_ad_slot = "0413580680";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+	<div id="content" class="narrowcolumn">
+
+				<div class="post" id="post-875">
+		<h2>Privacy</h2>
+			<div class="entry">
+				<p><a href="http://www.nikiomahe.com" class="liinternal">www.nikiomahe.com</a> respect your privacy and committed to safeguarding your privacy while online at http://nikiomahe.blogspot.com. The following discloses the information gathering and dissemination practices for this blog/site.</p>
+<p>Log Files<br>
+Like most standard Web site servers, www.nikiomahe.com use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.</p>
+<p>E-mail Subscription<br>
+A user can subscribe to this blog posts via e-mail (powered by <a href="http://www.nikiomahe.com/goto/www.feedburner.com" target="_blank" class="liexternal">Feedburner</a>), www.nikiomahe.com ask for contact information such as name and email address. Out of respect for users’ privacy, a way to opt-out of these communications is provided.</p>
+<p>Cookies and Web Beacons<br>
+A cookie is a piece of data stored on the user’s computer tied to information about the user. www.nikiomahe.blogspot.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitorsâ€™ browser type or other information that the visitor sends.</p>
+<p>These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on www.nikiomahe.com. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see.</p>
+<p>www.nikiomahe.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. www.nikiomahe.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+<p>Links<br>
+This blog contains links to other sites. Please be aware that www.nikiomahe.com do not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this blog/website.</p>
+<p>Advertisers<br>
+www.nikiomahe.com use outside ad companies to display ads on this blog/site. These ads may contain cookies and are collected by the ad companies, and www.nikiomahe.com do not have access to these information. www.nikiomahe.com work with the ad companies like <a href="http://www.nikiomahe.com/goto/www.google.com" target="_blank" class="liexternal">Google Adsense</a> and <a href="http://www.nikiomahe.com/goto/www.amazon.com" target="_blank" class="liexternal">Amazon</a>. Please check their websites for respective privacy policies.</p>
+<p>Contact Information<br>
+If users have any questions or suggestions regarding my privacy policy, please contact me by sending your email at yudikiting@gmail.com.</p>
+
+				
+			</div>
+		</div>
+				</div>
+
+	<div id="sidebar">
+		<ul>
+			<li id="global-translator" class="widget widget_global_translator"><h2 class="widgettitle">Translator</h2>
+<!--FLAG_BAR_BEGIN--><table border="0"><tbody><tr><td><a id="flag_en" href="http://www.nikiomahe.com/privacy-policy/" hreflang="en"><img id="flag_img_en" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_en.png" alt="English flag" title="English" border="0"></a></td><td><a id="flag_it" href="http://www.nikiomahe.com/it/privacy-policy/" hreflang="it"><img id="flag_img_it" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_it.png" alt="Italian flag" title="Italian" border="0"></a></td><td><a id="flag_ko" href="http://www.nikiomahe.com/ko/privacy-policy/" hreflang="ko"><img id="flag_img_ko" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_ko.png" alt="Korean flag" title="Korean" border="0"></a></td><td><a id="flag_zh-CN" href="http://www.nikiomahe.com/zh-CN/privacy-policy/" hreflang="zh-CN"><img id="flag_img_zh-CN" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_zh-CN.png" alt="Chinese (Simplified) flag" title="Chinese (Simplified)" border="0"></a></td><td><a id="flag_pt" href="http://www.nikiomahe.com/pt/privacy-policy/" hreflang="pt"><img id="flag_img_pt" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_pt.png" alt="Portuguese flag" title="Portuguese" border="0"></a></td><td><a id="flag_de" href="http://www.nikiomahe.com/de/privacy-policy/" hreflang="de"><img id="flag_img_de" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_de.png" alt="German flag" title="German" border="0"></a></td><td><a id="flag_fr" href="http://www.nikiomahe.com/fr/privacy-policy/" hreflang="fr"><img id="flag_img_fr" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_fr.png" alt="French flag" title="French" border="0"></a></td><td><a id="flag_es" href="http://www.nikiomahe.com/es/privacy-policy/" hreflang="es"><img id="flag_img_es" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_es.png" alt="Spanish flag" title="Spanish" border="0"></a></td><td><a id="flag_ja" href="http://www.nikiomahe.com/ja/privacy-policy/" hreflang="ja"><img id="flag_img_ja" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_ja.png" alt="Japanese flag" title="Japanese" border="0"></a></td><td><a id="flag_ar" href="http://www.nikiomahe.com/ar/privacy-policy/" hreflang="ar"><img id="flag_img_ar" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_ar.png" alt="Arabic flag" title="Arabic" border="0"></a></td></tr><tr><td><a id="flag_ru" href="http://www.nikiomahe.com/ru/privacy-policy/" hreflang="ru"><img id="flag_img_ru" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_ru.png" alt="Russian flag" title="Russian" border="0"></a></td><td><a id="flag_el" href="http://www.nikiomahe.com/el/privacy-policy/" hreflang="el"><img id="flag_img_el" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_el.png" alt="Greek flag" title="Greek" border="0"></a></td><td><a id="flag_nl" href="http://www.nikiomahe.com/nl/privacy-policy/" hreflang="nl"><img id="flag_img_nl" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_nl.png" alt="Dutch flag" title="Dutch" border="0"></a></td><td><a id="flag_bg" href="http://www.nikiomahe.com/bg/privacy-policy/" hreflang="bg"><img id="flag_img_bg" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_bg.png" alt="Bulgarian flag" title="Bulgarian" border="0"></a></td><td><a id="flag_cs" href="http://www.nikiomahe.com/cs/privacy-policy/" hreflang="cs"><img id="flag_img_cs" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_cs.png" alt="Czech flag" title="Czech" border="0"></a></td><td><a id="flag_hr" href="http://www.nikiomahe.com/hr/privacy-policy/" hreflang="hr"><img id="flag_img_hr" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_hr.png" alt="Croat flag" title="Croat" border="0"></a></td><td><a id="flag_da" href="http://www.nikiomahe.com/da/privacy-policy/" hreflang="da"><img id="flag_img_da" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_da.png" alt="Danish flag" title="Danish" border="0"></a></td><td><a id="flag_fi" href="http://www.nikiomahe.com/fi/privacy-policy/" hreflang="fi"><img id="flag_img_fi" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_fi.png" alt="Finnish flag" title="Finnish" border="0"></a></td><td><a id="flag_hi" href="http://www.nikiomahe.com/hi/privacy-policy/" hreflang="hi"><img id="flag_img_hi" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_hi.png" alt="Hindi flag" title="Hindi" border="0"></a></td><td><a id="flag_pl" href="http://www.nikiomahe.com/pl/privacy-policy/" hreflang="pl"><img id="flag_img_pl" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_pl.png" alt="Polish flag" title="Polish" border="0"></a></td></tr><tr><td><a id="flag_ro" href="http://www.nikiomahe.com/ro/privacy-policy/" hreflang="ro"><img id="flag_img_ro" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_ro.png" alt="Rumanian flag" title="Rumanian" border="0"></a></td><td><a id="flag_sv" href="http://www.nikiomahe.com/sv/privacy-policy/" hreflang="sv"><img id="flag_img_sv" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_sv.png" alt="Swedish flag" title="Swedish" border="0"></a></td><td><a id="flag_no" href="http://www.nikiomahe.com/no/privacy-policy/" hreflang="no"><img id="flag_img_no" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_no.png" alt="Norwegian flag" title="Norwegian" border="0"></a></td><td><a id="flag_tl" href="http://www.nikiomahe.com/tl/privacy-policy/" hreflang="tl"><img id="flag_img_tl" src="http://www.nikiomahe.com/wp-content/plugins/global-translator/flag_tl.png" alt="Filipino flag" title="Filipino" border="0"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="10"><a style="font-size:9px;" href="http://www.nikiomahe.com">Architecture and Design News</a></td></tr></tbody></table><!--FLAG_BAR_END-->
+</li>		<li id="text-211047352" class="widget widget_text">						<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2367949', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=2367949" name="url"><input type="hidden" value="Architecture and Design News - Nikiomahe.com" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"><p>Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a></p></form></div>
+		</li>		<li id="text-266432461" class="widget widget_text">						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-9186960905831613";
+/* 160x90, created 11/4/08 */
+google_ad_slot = "4016681235";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+		</li>		<li id="recent-posts" class="widget widget_recent_entries">			<h2 class="widgettitle">Recent Posts</h2>			<ul>
+						<li><a href="http://www.nikiomahe.com/2008/11/floating-house-pointe-au-baril-by-mos-office/">Floating House, Pointe au Baril by MOS Office </a></li>
+						<li><a href="http://www.nikiomahe.com/2008/11/research-and-development-centre-sustainable-building-in-istanbul-turkey/">Research and Development Centre, Sustainable Building in Istanbul, Turkey </a></li>
+						<li><a href="http://www.nikiomahe.com/2008/11/unique-villa-in-beekbergen-netherlands-by-factor-architecten/">Unique Villa in Beekbergen, Netherlands by Factor Architecten </a></li>
+						<li><a href="http://www.nikiomahe.com/2008/11/the-future-hotel-showcase-room-by-lava-duisburg-germany/">The Future Hotel Showcase Room by LAVA, Duisburg, Germany </a></li>
+						<li><a href="http://www.nikiomahe.com/2008/11/cigler-marani%e2%80%99s-the-park-project-prague-czech-republic/">Cigler Marani’s The Park project, Prague, Czech Republic </a></li>
+						</ul>
+		</li><li id="linkcat-2523" class="widget widget_links"><h2 class="widgettitle">Friend Site</h2>
+	<ul>
+<li><a href="http://www.arnewde.com" target="_blank">Arnewde</a></li>
+<li><a href="http://www.beinteriordecorator.com" target="_blank">Be Interior Decorator</a></li>
+
+	</ul>
+</li>
+<li id="categories-195073891" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>		<ul>
+			<li class="cat-item cat-item-2896"><a href="http://www.nikiomahe.com/category/appliances/" title="View all posts filed under Appliances">Appliances</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.nikiomahe.com/category/architecture-design/" title="View all posts filed under Architecture Design">Architecture Design</a>
+</li>
+	<li class="cat-item cat-item-2843"><a href="http://www.nikiomahe.com/category/books-review/" title="View all posts filed under Books Review">Books Review</a>
+</li>
+	<li class="cat-item cat-item-2839"><a href="http://www.nikiomahe.com/category/furniture-design/" title="View all posts filed under Furniture Design">Furniture Design</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://www.nikiomahe.com/category/green-design/" title="View all posts filed under Green Design">Green Design</a>
+</li>
+	<li class="cat-item cat-item-122"><a href="http://www.nikiomahe.com/category/home-design/" title="View all posts filed under Home Design">Home Design</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.nikiomahe.com/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-2915"><a href="http://www.nikiomahe.com/category/lighting/" title="View all posts filed under Lighting">Lighting</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://www.nikiomahe.com/category/other-design/" title="View all posts filed under Other Design">Other Design</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.nikiomahe.com/category/unique-design/" title="View all posts filed under Unique Design">Unique Design</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.nikiomahe.com/category/weird-design/" title="View all posts filed under Weird Design">Weird Design</a>
+</li>
+		</ul>
+</li>		<li id="text-214041242" class="widget widget_text">						<div class="textwidget"><p><a href="http://feeds.feedburner.com/nikiomahedotcom"><img src="http://feeds.feedburner.com/~fc/nikiomahedotcom?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p></div>
+		</li>		<li id="text-214041241" class="widget widget_text">						<div class="textwidget"><a href="http://topofblogs.com/home_garden"><img border="0" src="http://stats.topofblogs.com/send/7676" alt="TopOfBlogs"></a></div>
+		</li>		<li id="text-197957632" class="widget widget_text">						<div class="textwidget"><!-- Site Meter -->
+<script type="text/javascript" src="http://s50.sitemeter.com/js/counter.js?site=s50nikiomahedotcom">
+</script>
+<noscript>
+<a href="http://s50.sitemeter.com/stats.asp?site=s50nikiomahedotcom" target="_top">
+<img src="http://s50.sitemeter.com/meter.asp?site=s50nikiomahedotcom" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter --></div>
+		</li>		</ul>
+	</div>
+
+
+<hr>
+<div id="footer">
+	<p>
+	<a href="http://www.nikiomahe.com/" title="">Architecture and Design News - Nikiomahe.com</a>	</p>
+</div>
+</div>
+
+
+
+		
+
+</body></html>
