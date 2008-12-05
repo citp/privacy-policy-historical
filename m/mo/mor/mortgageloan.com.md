@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612063834id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205013657id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy - MortgageLoan.com
 
