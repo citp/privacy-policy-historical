@@ -1,0 +1,305 @@
+<!--The following is the downloaded HTML source of the tvduck.com privacy policy that was archived on 2008-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081205042435id_/http%3A//www.tvduck.com/read/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://www.tvduck.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.tvduck.com/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.tvduck.com/style.css">
+<title>Privacy Policy TvDuck.com Online - Free TV Shows &amp; Videos</title>
+<meta name="Robots" content="All">
+<meta name="keywords" content="privacy-policy, privacy-policy tv show, watch privacy-policy, watch privacy-policy free, watch privacy-policy free online, tv online free, tv, episodes, shows, television, free full length tv online, new tv, episode guide, watch full tv online, view free tv online, watch tv online for free, watch free tv online, free full length tv, divx full length tv download, watch dvd tv for free, download full version tv, watch tv free online, watch tv online, where can i watch tv absolutely free, download free online tv, free online tv, free tv, watch free tv on line, free tv online, watch free tv and tv online, watch tv online free, watch online, online, watch, view, watch tv online, movies">
+<script>
+
+function createRequestObject() {
+    var ro;
+    if (window.XMLHttpRequest) {
+        try {
+            ro = new XMLHttpRequest();
+        } catch(e) {
+            ro = false;
+        }
+    } 
+    else if (window.ActiveXObject) {
+        try {
+            ro = new ActiveXObject("Microsoft.XMLHTTP");
+        } catch(e) {
+            ro = false;
+        }
+    } 
+    return ro;
+}
+
+var http = createRequestObject();
+var busy = false;
+
+var elementsToUpdate = new Array();
+function addElementToUpdate(el_id) {
+    elementsToUpdate[elementsToUpdate.length] = el_id;
+}
+
+
+function updateGroup(prefix, action) { 
+    for (var i=0; i<elementsToUpdate.length; i++) { 
+        if (elementsToUpdate[i].substr(0, prefix.length) == prefix) {
+            updateElement(elementsToUpdate[i], action);
+        }
+    }
+}
+
+function updateElement(el_id, action) { 
+if (document.getElementById(el_id).innerHTML != "") { document.getElementById(el_id).innerHTML = ''; } else {
+document.getElementById(el_id).innerHTML = "<br><img src=http://www.tvduck.com/load.gif>";
+    if (busy == false) { 
+        
+        busy = true;
+        http.open('get', 'http://www.tvduck.com/thescript.php?rnd=' + Math.random()*4 + '&el_id=' + el_id + '&action=' + action);
+        http.onreadystatechange = doUpdate;
+        http.send(null);
+    }
+    else {
+        window.setTimeout("updateElement('" + el_id + "', '" + action + "')", 10);
+    } }
+}
+function updateElementz(el_id, action, uzr) { 
+
+document.getElementById(el_id).innerHTML = "<img src=http://www.tvduck.com/panel.gif>";
+    if (busy == false) { 
+        busy = true;
+        http.open('get', 'http://www.tvduck.com/rate.php?rnd=' + Math.random()*4 + '&el_id=' + el_id + '&op=' + action + '&u=' + uzr);
+        http.onreadystatechange = doUpdate;
+        http.send(null);
+    }
+    else {
+        window.setTimeout("updateElementz('" + el_id + "', '" + action + "')", 10);
+    } }
+
+
+function doUpdate() {
+    if (http.readyState == 4) {
+        var response = http.responseText;
+        var update = new Array();
+        if (response.indexOf('|') != -1) {
+            update = response.split('|'); 
+            var el_id = update.shift();
+            var text = update.join("|");
+            document.getElementById(el_id).innerHTML = text;
+        }
+        busy = false;
+    }
+}
+</script>
+</head>
+<body style="margin-top: 0;" topmargin="0">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-274743-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<div align="left">
+
+<script language="JavaScript">
+<!-- hide
+function openNewWindow(uri) {
+var p="privacy-policy";
+  popupWin = window.open("http://www.tvduck.com/share.php?x="+p,
+    'open_window',
+     '0, 0, location, 0, 0, 0, 0, 0, width=450, height=400, left=50%, top=0')
+}
+// done hiding -->
+</script>
+
+<table border="0" width="79%" style="border-collapse: collapse">
+		<tbody><tr>
+			<td bgcolor="#000000" colspan="2">			&nbsp;<table border="0" width="100%" style="border-collapse: collapse">
+				<tbody><tr>
+					<td width="260" valign="top">
+			<a href="http://www.tvduck.com">
+			<img border="0" src="http://www.tvduck.com/logo1.jpg" width="260" height="67" alt="Watch privacy-policy Free Online"></a></td>
+					<td valign="top" width="490">
+					<center><font color="#0098CA" size="3"><b>
+					<a href="http://www.tvduck.com/drama-shows.html">Drama</a> |&nbsp; 
+					<a href="http://www.tvduck.com/action-shows.html">Action</a> | <a href="http://www.tvduck.com/comedy-shows.html">Comedy</a> |&nbsp; 
+					<a href="http://www.tvduck.com/animation-shows.html">Animation</a> | <a href="http://www.tvduck.com/reality-shows.html">Reality</a><br>
+					<a href="http://www.tvduck.com/scifi-shows.html">Sci-Fi</a> | 
+					<a href="http://www.tvduck.com/children-shows.html">Children</a> | <a href="http://www.tvduck.com/soap-shows.html">Soap</a> | 
+					<a href="http://www.tvduck.com/talk-shows.html">Talk Shows</a> | <a href="http://www.tvduck.com/watch-movies.html">Movies</a><br><a href="http://www.tvduck.com/Documentaries-videos-1.html">Documentaries</a> | <a href="http://www.tvduck.com/Music-videos-1.html">Music Videos</a> | <a href="http://www.tvduck.com/Sports-videos-1.html">Sports</a> | <a href="http://www.tvduck.com/Funny-videos-1.html">Funny Clips</a></b></font></center></td>
+					<td valign="top"><font size="2" color="white"><a href="http://www.tvduck.com/Store.php">TVDuck Store</a> <script type="text/javascript">
+<!--
+function addEngine(name)
+{
+  if ((typeof window.sidebar == "object") && (typeof
+  window.sidebar.addSearchEngine == "function"))
+  {
+    window.sidebar.addSearchEngine(
+      "http://www.tvduck.com/TVDuck.src",
+      "http://www.tvduck.com/favicon.ico",
+      "TVDuck",
+      "General");
+  }
+  else
+  {
+    window.alert("Error - Invalid Browser");
+  }
+}
+//-->
+if (navigator.userAgent.indexOf("Firefox")!=-1)
+document.write("| <a href='javascript:addEngine()'><img border='0' src='http://www.tvduck.com/firefox.gif'> <font size='1'>Search plugin</font></a><br>")
+</script>
+
+
+</font><br>
+<!-- SiteSearch Google --><form action="http://www.tvduck.com/show-search.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1786416328646953:kbedgo-58j2">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="20">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<!-- SiteSearch Google --> 
+</td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#0098CA" colspan="2"><center><b><span class="class2">
+			<a href="http://www.tvduck.com/shows-list-the.html">#</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-A.html">A</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-B.html">B</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-C.html">C</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-D.html">D</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-E.html">E</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-F.html">F</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-G.html">G</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-H.html">H</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-I.html">I</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-J.html">J</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-K.html">K</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-L.html">L</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-M.html">M</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-N.html">N</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-O.html">O</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-P.html">P</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-Q.html">Q</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-R.html">R</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-S.html">S</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-T.html">T</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-U.html">U</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-V.html">V</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-W.html">W</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-X.html">X</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-Y.html">Y</a>&nbsp;&nbsp;&nbsp;<a href="http://www.tvduck.com/shows-list-Z.html">Z</a>&nbsp;&nbsp;&nbsp;			</span></b></center></td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFFFF" width="100%" valign="top"><br>
+				<table border="1" width="90%" style="border-collapse: collapse" align="center" bordercolor="#DFDFDF" cellpadding="5">
+					<tbody><tr>
+						<td background="http://www.tvduck.com/header.jpg" colspan="2"><font size="2"><b>Privacy policy tvDuck.com - Watch Free TV &amp; Movies Online</b></font></td>
+					</tr>
+ 						<tr><td width="90%" valign="top">
+ 					
+ 							<h1>tvDuck Privacy Policy</h1>
+	<p>Thank you for visiting the tvDuck website ("<strong><em>Site</em></strong>").&nbsp; 
+	We regard your privacy seriously and provide this Privacy Policy to describe 
+	which information we collect and how we use it. </p>
+	<p><strong>Personally Identifiable Information (PII)</strong><br>
+	You may use this Site without registering.&nbsp; You may also register and 
+	voluntarily provide personally identifiable information (�<strong><em>PII</em></strong>�), 
+	such as your name and email address.&nbsp; When you create your account, we will 
+	ask you to create a username and password.&nbsp; You will be able to enter PII 
+	into your password-protected account.&nbsp; You are solely responsible for 
+	maintaining the confidentiality of your password and your account 
+	information.&nbsp; In addition, tvDuck allows you to set up personal profiles 
+	that may be viewed by all Site users.&nbsp; To enrich your experience, you may 
+	choose to include some PII in your public profile so that other users can 
+	identify you.&nbsp; You can change or delete your profile anytime.<strong>&nbsp;
+	</strong></p>
+	<p><strong>Non-Personally Identifiable Information</strong><br>
+	We may collect non-personally identifiable information (�<strong><em>Non-PII�</em></strong>) 
+	such as your internet protocol address and information associated with your 
+	computer, browser and network to deliver services or information, provide 
+	notices, track usage, verify your authority to use the Site, store your 
+	preferences, and generally improve the content and functionality of the 
+	Site.&nbsp; We may also use small text files stored in your browser called 
+	cookies to store your preferences, record session information, and improve 
+	Site experience.&nbsp; We associate cookies with your browser, not with the 
+	information to PII you submit in your account. You may be able to configure 
+	your browser to accept or reject all or some cookies, or notify you when a 
+	cookie is set. </p>
+	<p><strong>Disclosure</strong><br>
+	We will not intentionally disclose PII in your account except as 
+	specifically described in this Privacy Policy.&nbsp; Non-PII may be shared with 
+	third parties to provide more relevant services and advertisements.&nbsp; We may 
+	also disclose your PII and Non-PII if we believe we are required to do so by 
+	law, regulation or other government authority, or to prevent harm to 
+	yourself or others. In addition, we may transfer your PII to a successor 
+	entity upon a change of control of tvDuck, sale, merger, other corporate 
+	reorganization. Such successor entity will be bound by the terms and 
+	conditions of this Privacy Policy.</p>
+	<p><strong>Email</strong><br>
+	Email addresses are used for identification, inviting new friends to 
+	tvDuck, searching for and finding friends, for general communication, and 
+	to send notifications to you.&nbsp; To facilitate searching for and finding 
+	friends on the Site, tvDuck allows users to search for other members using 
+	text searches, first and last name, email address, and other attributes.&nbsp; 
+	Users can invite friends to join tvDuck by sending invitation emails via 
+	our automated invitation system.&nbsp; tvDuck stores these email addresses so 
+	that the respondents may be added to the friend's list of the member sending 
+	the invitations, and also to establish relationships between users. tvDuck 
+	does not sell invitation email addresses or use them for any other purpose.
+	</p>
+	<p><strong>Links to Third Party Sites</strong><br>
+	This Site contains links to other websites.&nbsp; Your use of linked websites is 
+	subject to the terms of use and privacy policies located on the linked 
+	websites.</p>
+	<p><strong>Security</strong><br>
+	tvDuck employs procedural and technological measures, consistent with the 
+	demands of customer service. Such measures are reasonably designed to 
+	protect your information from loss, unauthorized access, disclosure, 
+	alteration or destruction.&nbsp; tvDuck uses password protection, firewalls, 
+	internal restrictions and other security measures to help prevent 
+	unauthorized access to your PII.</p>
+	<p><strong>Policy Changes</strong><br>
+	tvDuck reserves the right to change this Privacy Policy, and will post any 
+	revisions on the Site. We encourage you to review this Privacy Policy 
+	regularly for any changes. Your continued use of this Site will be subject 
+	to the then-current Privacy Policy.&nbsp; This Privacy Policy was last revised 
+	April&nbsp;19, 2007.</p>
+	<p>If you have questions or comments regarding this Privacy Policy, please 
+	email us at
+	<a target="_blank" href="privacy@tvDuck.com">
+	privacy@tvDuck.com</a>.
+	
+ 				</p></td> 				<td width="15%" valign="top"><center>
+ 					<br>
+ 						
+<b>Users Online: 606<br><br><a rel="nofollow" href="http://www.tvduck.com/signup.php"><img border="1" src="http://www.tvduck.com/button.jpg"></a></b><br>
+<br><!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for tvduck.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=46845&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=46845&m=3&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=46845&m=3&tp=7&d=s&c=1"
+width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for tvduck.com -->
+ 
+</center>
+</td> 					</tr>
+				</tbody></table></td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFFFF" width="100%" colspan="2" valign="top">
+			<p align="center"></p><center><br>
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=46845&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=46845&m=1&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=46845&m=1&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
+<br>
+ 
+<form method="POST" action="http://www.tvduck.com/login.php4">
+	<p>Login: <input type="text" name="login" size="15">&nbsp; Password: <input type="password" name="pass" size="15">
+	<input type="submit" value="Login"> or
+	<a href="http://www.tvduck.com/read/gold.html">Signup</a></p>
+</form> <br>
+Popular Shows: <b><a href="http://www.tvduck.com/Torchwood.html">Watch Torchwood</a></b> | <b><a href="http://www.tvduck.com/Jericho.html">Watch Jericho</a></b> | <b><a href="http://www.tvduck.com/Weeds.html">Watch Weeds</a></b> | <b><a href="http://www.tvduck.com/Frasier.html">Watch Frasier</a></b> | <b><a href="http://www.tvduck.com/Entourage.html">Watch Entourage</a></b> <br><br><center>TV: <b>
+<a href="http://www.tvduck.com/drama-shows.html">Drama Shows</a> |
+<a href="http://www.tvduck.com/action-shows.html">Action Shows</a> |
+<a href="http://www.tvduck.com/comedy-shows.html">Comedy Shows</a> |
+<a href="http://www.tvduck.com/animation-shows.html">Animated Shows</a> |
+<a href="http://www.tvduck.com/reality-shows.html">Reality Shows</a> | 
+<a href="http://www.tvduck.com/scifi-shows.html">Sci-Fi Shows</a> |
+<a href="http://www.tvduck.com/children-shows.html">Children's Shows</a> |
+<a href="http://www.tvduck.com/soap-shows.html">Soaps</a> |
+<a href="http://www.tvduck.com/talk-shows.html">Talk Shows</a><br>
+<a href="http://www.tvduck.com/watch-movies.html">Movies</a> | 
+<a href="http://www.tvduck.com/Documentaries-videos-1.html">Documentaries</a> |
+<a href="http://www.tvduck.com/Music-videos-1.html">Music Videos</a> |
+<a href="http://www.tvduck.com/Sports-videos-1.html">Sports</a> |
+<a href="http://www.tvduck.com/Funny-videos-1.html">Funny Clips</a></b></center><br>
+<font size="1"><a rel="nofollow" href="http://www.facebook.com/group.php?gid=8288604341">Facebook</a> | <a rel="nofollow" href="/read/contact-us.html">Contact Us</a> | <a rel="nofollow" href="/read/help.html">Help Me!</a> | 
+<a rel="nofollow" href="/read/link-exchange.html">Link To Us</a> | 
+			<a rel="nofollow" href="/read/privacy-policy.html">Privacy Policy</a> | <a rel="nofollow" href="/read/terms-of-service.html">Terms of Service</a> | <a rel="nofollow" href="/read/faq.html">FAQ</a></font> | <a rel="nofollow" href="http://www.tvduck.com/signup.php">TVDuck Gold</a><br></center> </td>
+		</tr>
+	</tbody></table>
+</div></body></html>
