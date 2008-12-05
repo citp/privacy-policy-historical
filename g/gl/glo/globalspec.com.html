@@ -1,50 +1,79 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2008-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510122014id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2008-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081205194001id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
-		
-		<script language="javascript" type="text/javascript">
-		
-		<!-- // remove frames (ie6 cookie issue)
-		if ( self != parent)  {
-			var newUrl = window.location.href + ((window.location.href.indexOf('?') < 0) ? '?' : '&') + 'deframe=1';
-			// Use location.href and not location.replace() to preserve the
-			// user's History as much as possible. This is a good thing. MRG 2/21/03
-			top.location.href = newUrl;				
+		<script type="text/javascript">
+		if (self != parent)  {
+			top.location.href = window.location.href + ((window.location.href.indexOf('?') < 0) ? '?' : '&') + 'deframe=1';
 			window.focus();
 		}
-		//-->
-		</script>
-		
-	<script language="JavaScript" type="text/javascript">
-	//<!--
-		// this string holds the javascript to execute when the page has finished loading
+		</script><script type="text/javascript">
 		var m_OnLoadFunctions = "";
-
-		// this function will handle our onload event
 		function HandleOnLoad() {
 			eval(m_OnLoadFunctions);
-			
 		}
-			
-		// tell the page to run the code when it has finished loading
 		window.onload = HandleOnLoad;
-			
-		// register a new function to run on load by appending it to our set of functions
 		function RegisterOnLoadEvent(yourJSCode) {
 			m_OnLoadFunctions = m_OnLoadFunctions + yourJSCode + ";"
-		}
-	//-->
-	</script>
-	<script language="JavaScript" src="/js/WrapperFunctions_Common.js" type="text/javascript"></script>
-<script language="JavaScript" src="/js/GS_strings.js" type="text/javascript"></script>
-</head>
+		}</script>
+	<script type="text/javascript">
+<!--
+// Targets the link in a popup window to the original opener window and closes the popup.
+function SendOpenerToLocation(loc) {
+	setDocumentLocation(window.opener.document, loc); 
+	window.opener.focus; 
+	window.close(); 
+	return false;
+}
 
-<body bgcolor="#ffffff">
+// Changes the url in  .location,  if necc
+function setDocumentLocation(doc, url) {
+	if ( url != "" && url != " ") {
+		url = AlterURL(url);
+		doc.location = url;
+	}
+}
 
+// Changes the url in .href, if necc
+function setLocationHref(loc, url, popUp) {
+	if ( url != "" && url != " ") {
+		url = AlterURL(url, popUp);
+		loc.href = url;
+	}
+}
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0" class="BannerArea">
+// Changes the url in .action, if necc
+function setAction(form, url, popUp) {
+	if ( url != "" && url != " ") {
+		url = AlterURL(url, popUp);
+		form.action = url;
+	}
+}
+
+// Changes the url in window.open , if necc
+function openWindow(url, windowName, config, popUp) {	
+	if (url == '') { url = '/help/Blank.html'; }	// don't open an window with no url... you get the home page
+	url = AlterURL(url, popUp);
+	return window.open(url, windowName, config);
+}
+
+// function to alter the url, used in all the functions below
+function AlterURL(url, popUp)
+{
+	if (popUp && (url.indexOf("http://") == -1 ))
+	{
+		url = "http://" + document.location.host + url;
+	}
+	return url;
+}
+
+//-->
+</script>
+<script src="http://www.globalspec.com/js/GS_strings.js" type="text/javascript"></script>
+</head> 
+<body style="background-color: #ffffff;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="bannerArea">
 
 	<tbody><tr style="height:60px;">
 		
@@ -62,254 +91,32 @@
 		
 		<td align="right" valign="top" width="25%" style="padding-top:8px;padding-left:5px;padding-right:5px;" class="BannerArea">
 			
-				<div><a target="_top" class="whiteLinksNoUnderline" href="http://www.globalspec.com/MyGlobalSpec/NewProfile?PostRegURLToGoTo=%2Fhelp%2Fprivacy">Free&nbsp;Registration</a>&nbsp;</div>
+				<div><a target="_top" class="whiteLinksNoUnderline" href="http://www.globalspec.com/MyGlobalSpec/NewProfile?PostRegURLToGoTo=%2FHelp%2FPrivacy">Free&nbsp;Registration</a>&nbsp;</div>
 			
-				<div style="font-size:x-small;"><a class="whiteLinksNoUnderline" href="http://www.globalspec.com/Engineering-Toolbar/install?frmtrk=seo">Download&nbsp;Engineering&nbsp;Toolbar</a></div>
+				<div style="font-size:x-small;"><a class="whiteLinksNoUnderline" href="http://www.globalspec.com/">GlobalSpec&nbsp;Home</a></div>	
 			
-			<div style="font-size:x-small;"><a class="whiteLinksNoUnderline" href="http://www.globalspec.com/">GlobalSpec&nbsp;Home</a></div>			
 		</td>
 	
 	</tr>
-
-
 
 <tr>
 	<td colspan="3">
 		
 		
 
-
-<script language="JavaScript" type="text/javascript">
-//<!--
-// preload images
-var goMouseOver = new Image();
-goMouseOver.src = "/pix/buttons/HeaderGo_Over.gif";
-
-var goMouseDown = new Image();
-goMouseDown.src = "/pix/buttons/HeaderGo_Down.gif";
-
-var goMouseUp = new Image();
-goMouseUp.src = "/pix/buttons/HeaderGo_Out.gif";
-
-var blueGoMouseOver = new Image();
-blueGoMouseOver.src = "/pix/buttons/HeaderGo_Over_blue.gif";
-
-var blueGoMouseDown = new Image();
-blueGoMouseDown.src = "/pix/buttons/HeaderGo_Down_blue.gif";
-
-var blueGoMouseUp = new Image();
-blueGoMouseUp.src = "/pix/buttons/HeaderGo_Out_blue.gif";
-
-
-// A version of DoSearchBoxSubmit that ascertains which petal to show based on the form.
-
-function DoSearchBoxSubmit() {			
-	var searchterm = document.FindIn.query.value;
-	
-	var gotoURL = "http://search.globalspec.com/Search?query=";		
-	
-	var show;
-	var radioButtons = document.FindIn.show;	
-
-	for(i=0; i < radioButtons.length; i++) {
-		if(radioButtons[i].checked) {
-			show = radioButtons[i].value;
-		}		
-	}
-	
-		
-	if (searchterm == "" && show != "engnews") {
-		alert("Please enter a search term");
-	} else {
-		
-		
-		// Encode any +'s and %'s since ColdFusion will ignore any of them when the URL params
-		// are read.
-		//searchterm = searchterm.replace(/\+/g, "%2B");
-		
-		var fromSearchBox = true;	
-		changeSearchLocation(show, searchterm, fromSearchBox);
-	}		
-}
-
-// This version of DoSearchBoxSubmit has the petal to show passed in.
-
-function buildExtraPatentSearchTerms() {
-	var extraStuff = "";
-	if (document.FindIn.patentauthor && (document.FindIn.patentauthor.value != "-")) {
-		extraStuff = extraStuff + " patentauthor:" + document.FindIn.patentauthor.value;
-	}
-	return extraStuff;
-}
-
-
-function searchModeKeyDown(evt) {
-	evt = (evt) ? evt : event;
-	var charCode = (evt.charCode) ? evt.charCode : ((evt.which) ? evt.which : evt.keyCode);
-	if ((charCode == 13) || (charCode == 3)) {
-		DoSearchBoxSubmit();
-		return false;
-	}
-	return true;
-}
-
-
-function showHide(id, on) {
-		var more=document.getElementById(id);
-		more.style.display=(on ? "inline" : "none");
-				
-		var qsLinkBox=document.getElementById("qsLinkBox");
-		var hideQsBox = document.getElementById("hideQsBox");
-		var form=document.getElementById("FindIn");		
-		var query = document.FindIn.query.value;
-				
-		if (on) {
-			
-			qsLinkBox.style.display="none";
-			hideQsBox.style.display="";
-		} else {
-			
-			qsLinkBox.style.display="";
-			hideQsBox.style.display="none";
-			form.reset();
-			document.FindIn.query.value = query;
-		}
-		
-		var searchBoxInnerDiv = document.getElementById("searchBoxInnerDiv");
-		searchBoxInnerDiv.style.borderTop = (on ? "solid black 1px;" : "none");
-		searchBoxInnerDiv.style.borderLeft = (on ? "solid black 1px;" : "none");
-		searchBoxInnerDiv.style.borderRight = (on ? "solid black 1px;" : "none");
-		//searchBoxInnerDiv.style.backgroundColor = (on ? "#AABFE2;" : "#4C699E;");
-		//searchBoxInnerDiv.className = (on ? "lightBlueBg" : "BannerArea");
-		
-		//var searchPromptBox = document.getElementById("searchPrompt");
-		//searchPromptBox.innerHTML = (on ? "Search:&nbsp;&nbsp;" : searchPromptText);
-
-}
-
-
-var defaultSearchInfo = "";
-
-function changeSearchInfo(searchType, isDefault, div) {
-	var searchInfoDiv = document.getElementById("SearchInfo");
-	var searchInfo;
-	
-	switch (searchType) {
-		case "total":
-			searchInfo = "Search the Web for engineering pages";
-			break;
-		case "appnotes":
-			searchInfo = "Search the Web for application notes";
-			break;
-		case "patents":
-			searchInfo = "Search the Web for patent information";
-			break;
-		case "standards":
-			searchInfo = "Search the Web for engineering standards";
-			break;
-		case "materials":
-			searchInfo = "Search the Web for information on material properties";
-			break;
-		case "partnumbers":
-			searchInfo = "Search for parts by part number, manufacturer name, distributor name, or description";
-			break;
-		case "products":
-			searchInfo = "Search online vendor, manufacturer and supplier product catalogs";
-			break;
-		case "services":
-			searchInfo = "Search online service provider and consultant catalogs";
-			break;
-		case "prodannounce":
-			searchInfo = "Search supplier product announcements on GlobalSpec";
-			break;
-		case "thissite": //added for 'this site' searched - RH 3/20/2006
-			searchInfo = "Search  for engineering pages";
-			break;
-		case "engnews":
-			searchInfo = "Search Engineering news stories from hundreds of sources";
-			break;
-	}
-	
-	searchInfoDiv.innerHTML = searchInfo;
-	
-	if (isDefault) {
-		defaultSearchInfo = searchInfo;
-		
-		if (div != null) {
-			div.style.backgroundColor = "";
-		}
-	} else if (div != null) {
-		div.style.backgroundColor = "#F7F7F7";
-	}
-}
-
-function resetSearchInfo(div) {
-	var searchInfoDiv = document.getElementById("SearchInfo");
-	searchInfoDiv.innerHTML = defaultSearchInfo;
-
-	if (div != null) {
-		div.style.backgroundColor = "";
-	}
-}
-
-
-
-function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
-
-	
-		var engWebURL = "http://search.globalspec.com/Search?query=";
-		var productFinderURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=";
-		var productAnnouncementsURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=";
-
-		if (fromSearchBox) {
-			var engnewsUrl = "http://www.globalspec.com/engnews/search?q=";
-		} else {
-			var engnewsUrl = "http://www.globalspec.com/engnews/?q=";
-		}
-	
-		var gotoURL;
-		
-		// Depending on search type, we will be going to different URLs for the results
-		switch (searchType) {
-			case "total":
-			case "companysites":
-			case "appnotes":
-			case "patents":
-			case "standards":
-			case "materials":
-			case "partnumbers":
-			case "thissite":	//added for 'this site' searches - RH 3/20/2006
-				gotoURL = engWebURL + escape(searchQuery) + "&show=" + searchType;
-				break;
-			case "products":
-				gotoURL = productFinderURL + escape(searchQuery);				
-				break;
-			case "services":				
-				gotoURL = productFinderURL + escape(searchQuery) + "&mode=services";				
-				break;
-			case "prodannounce":
-				gotoURL = productAnnouncementsURL + escape(searchQuery);
-				break;
-			case "engnews":
-				gotoURL = engnewsUrl + escape(searchQuery);
-				break;
-			default:
-				gotoURL = engWebURL + escape (searchQuery) + "&show=total";
-				break;
-		}
-		
-		//alert(gotoURL);
-		location.href = gotoURL;
-}
-
-//-->
+<script type="text/javascript">
+	var mainDomain = "http://www.globalspec.com";
+	var searchDomain = "http://search.globalspec.com"
+	var engWebURL = "http://search.globalspec.com/Search?query=";
+	var productFinderURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=";
+	var productAnnouncementsURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=";
 </script>
+<script src="http://www.globalspec.com/js/skinSearch.js" type="text/javascript"></script>
 
-
-
-<style>
+<style type="text/css">
 	
 		div#searchBoxMiddleDiv, div#moreOptionsOuterDiv, div#moreOptions {
+
 			width:560px;
 		}
 		div#searchBoxInnerDiv {
@@ -320,26 +127,44 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 
 
 <table id="searchBoxOuterDiv" class="blueGrayBg" width="100%" cellpadding="0" cellspacing="0" border="0" style="padding-top:5px;"><tbody><tr><td align="center" nowrap=""> 
-	<form name="FindIn" id="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;" style="margin:0px;" action="">
+
+
+	
+	<form name="FindIn" id="FindIn" method="get" onsubmit="doSearchBoxSubmit(); return false;" style="margin:0px;" action="">
 		<div id="searchBoxMiddleDiv" style="vertical-align:middle;text-align:left;" class="blueGrayBg">	
 		<div id="searchBoxInnerDiv" style="padding:5px;">	
-			<a href="#" onclick="showHide('moreOptions', false); return false;"><img id="hideQsBox" style="display:none;float:right;" src="/pix/buttons/CloseWindowRedX_text.gif" border="0" alt="Close"></a>
+			<a href="#" onclick="showHideOptions(false); return false;"><img id="hideQsBox" style="display:none;float:right;" src="/pix/buttons/CloseWindowRedX_text.gif" border="0" alt="Close"></a>
 			<span id="searchPrompt" class="boldContent" style="text-align:right;vertical-align:middle;margin-top:3px;font-size:13px;">				
 				
 					Find:&nbsp;&nbsp;
 				
 			</span>
 			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<span style="text-align:left;vertical-align:middle;margin-right:1px;">
 				
 				<input name="query" id="query" type="text" value="" size="40">
 			</span>
 			<span style="text-align:left;vertical-align:middle;">
 				
-				<input type="button" alt="Search now!" onclick="DoSearchBoxSubmit(); return false;" value="Search">&nbsp;&nbsp;				 				
+				<input type="button" alt="Search now!" onclick="doSearchBoxSubmit(); return false;" value="Search">&nbsp;&nbsp;				 				
 			</span>
 			<span id="qsLinkBox" style="text-align:left;vertical-align:middle;">
-				<a href="#" onclick="showHide('moreOptions', true); return false;" style="font-size:10px;">Advanced Search &gt;&gt;</a>	
+				<a href="#" id="advancedSearch" onclick="showHideOptions(true); return false;" style="font-size:10px;">Advanced &gt;&gt;</a>	
 			</span>
 			
 		</div>		
@@ -351,11 +176,26 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 					<tbody><tr>
 						<td>
 							<table cellpadding="0" cellspacing="0" border="0">
+							
 							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);"></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);" checked=""></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('engnews', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="engnewsRadio" type="radio" name="show" value="engnews" onclick="changeSearchInfo('engnews', true, this.parentNode);"></td><td><label for="engnewsRadio" style="width:100%;padding-right:30px;display:block;">Engineering News</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
 							</tbody></table>
 						</td>
 						<td align="center" valign="top">
-							<div id="SearchInfo" style="margin-top:20px;border:solid #BEC2C2 1px;padding:5px;background-color:#F7F7F7;width:250px;height:45px;text-align:left;">Search online vendor, manufacturer and supplier product catalogs</div>
+							<div id="SearchInfo" style="margin-top:20px;border:solid #BEC2C2 1px;padding:5px;background-color:#F7F7F7;width:250px;height:45px;text-align:left;"> 
+							</div>
+							<div style="display: none;">
+								<span id="searchinfo-total">Search the Web for engineering pages</span>
+								<span id="searchinfo-appnotes">Search the Web for application notes</span>
+								<span id="searchinfo-patents">Search the Web for patent information</span>
+								<span id="searchinfo-standards">Search the Web for engineering standards</span>
+								<span id="searchinfo-materials">Search the Web for information on material properties</span>
+								<span id="searchinfo-partnumbers">Search for parts by part number, manufacturer name, distributor name, or description</span>
+								<span id="searchinfo-products">Search online vendor, manufacturer and supplier product catalogs</span>
+								<span id="searchinfo-services">Search online service provider and consultant catalogs</span>
+								<span id="searchinfo-prodannounce">Search supplier product announcements on GlobalSpec</span>
+								<span id="searchinfo-thissite">Search  for engineering pages</span>
+								<span id="searchinfo-engnews">Search Engineering news stories from hundreds of sources</span>
+							</div>							
 						</td>
 					</tr>
 				</tbody></table>
@@ -369,13 +209,11 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 	
 	</form>
 	
-</td></tr></tbody></table> 
-						
-
-<script language="JavaScript" type="text/javascript">changeSearchInfo('products', true, null);</script> 
+</td></tr></tbody></table> <script type="text/javascript">changeSearchInfo('products', true, null);</script> 
 	</td>
 </tr>
-</tbody></table> 
+</tbody></table>
+
 <p class="headerGold">GlobalSpec Privacy Policy</p>
 
 <div class="content">
@@ -402,52 +240,32 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 <span class="content">You can find out more about "cookies" on our <a href="/help/Cookies">cookies reference page</a>.</span>
 <p>
 
-
-</p><div align="center" class="footerText" style="margin-top: 12px;"> 
-
-	
-	<br>
-	<hr width="90%">
-	<hr width="90%">
-	
-	 
-			<table>
-				<tbody><tr>
-					<td align="left" colspan="2">
-						<a href="http://www.globalspec.com/" class="footerlinks">Home</a> 
-			            &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/AboutUs" class="footerlinks">About&nbsp;GlobalSpec</a>
-					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Advertising" class="footerlinks">Advertise&nbsp;With&nbsp;Us</a>
-					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap" class="footerlinks">Site&nbsp;Map</a>
-					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap/Directory/" class="footerLinks">Top Categories</a>
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>		        
-						<br>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2" align="center">
-						<a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>				    	
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Submit-Site" class="footerLinks">Submit a Site</a>
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Email/RecommendEmail" class="footerlinks">Recommend&nbsp;This&nbsp;Site</a>
-					  	<br>
-					</td>
-		  	 	</tr>
-			</tbody></table>			
+ 
+</p><div id="siteFooter">
+<hr><hr>
+	<ul>
+			<li><a href="http://www.globalspec.com/">Home</a></li>
+			<li><a href="http://www.globalspec.com/AboutUs" onclick="this.target='_blank';">About&nbsp;GlobalSpec</a></li>
+			<li><a href="http://www.globalspec.com/Advertising">Advertise&nbsp;With&nbsp;Us</a></li>
+			<li><a href="http://www.globalspec.com/SiteMap">Site&nbsp;Map</a></li>
+			<li><a href="http://www.globalspec.com/SiteMap/Directory/">Top Categories</a></li>
+			<li class="noborder"><a href="http://www.globalspec.com/Help/TermsOfUse" rel="nofollow" onclick="this.target='_blank';">Terms&nbsp;of&nbsp;Use</a></li>
+		</ul>				
+		<ul>
+			<li><a href="http://www.globalspec.com/Help/Privacy" rel="nofollow">Privacy&nbsp;Policy</a></li>
+			<li><a href="http://www.globalspec.com/Information/LinkToOurSite" rel="nofollow" onclick="this.target='_blank';">Link&nbsp;To&nbsp;Our&nbsp;Site</a></li>				    	
+			<li><a href="http://www.globalspec.com/Submit-Site" rel="nofollow">Submit a Site</a></li>
+			<li class="noborder"><a href="http://www.globalspec.com/Email/RecommendEmail" rel="nofollow" onclick="this.target='_blank';">Recommend&nbsp;This&nbsp;Site</a></li>
+		</ul>	
 		
-
-	©1999-2008 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo, SpecSearch, The Engineering Search Engine and The Engineering<br> Web are registered trademarks of GlobalSpec, Inc. 
-	The Engineering Toolbar and DesignInfo are service marks of GlobalSpec, Inc.
-	<br>
-	No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used 
-	<br>
+	©1999-2008 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo, SpecSearch, The Engineering Search Engine and The Engineering<br> 
+	Web are registered trademarks of GlobalSpec, Inc. The Engineering Toolbar and DesignInfo are service marks of GlobalSpec, Inc.<br>
+	No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used<br>
 	without the express written permission of GlobalSpec Inc.
 	
 	
 		&nbsp; 350 Jordan Rd, Troy, NY, 12180
-	 
-
-</div>
-
+	</div> 
 	
 	
 
