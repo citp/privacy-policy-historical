@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424140919id_/http%3A//www.homeserve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205093531id_/http%3A//www.homeserve.com/privacy) for the most accurate reproduction.*
 
-# Homeserve Privacy Policy
+# HomeServe - Privacy Policy
 
 **Homeserve Plc** (" **we** ", " **our** " or " **us** ") is committed to protecting the privacy of our users and customers. This privacy policy (" **Privacy Policy** ") is intended to inform you how we gather, define, and utilise personal information such as your:
 
@@ -21,10 +21,13 @@ It is also intended to assist you in making informed decisions when using our We
 
 All your personal Information shall be held and used in accordance with the Data Protection Act 1998 (the " **Act** "). If you want to know what information we collect and hold about you, please write to us at:
 
-Homeserve Plc   
-Cable Drive   
-Walsall   
-WS2 7BN
+**HomeServe PLC**
+
+**Cable Drive**
+
+**Walsall**
+
+**WS2 7BN**
 
 Homeserve Plc is the data controller of Your Information for the purposes of the Act.
 
@@ -32,14 +35,14 @@ Homeserve Plc is the data controller of Your Information for the purposes of the
 
 When you visit our Website you may provide us with two types of information:
 
-  * personal Information you provide to us on an individual basis during Registration, as described above. In addition, if you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses; and
-  * website use information collected as you and others browse our Website.
+  1. personal Information you provide to us on an individual basis during Registration, as described above. In addition, if you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses; and
+  2. website use information collected as you and others browse our Website.
 
 
 
 We maintain the highest standards of security, encrypting your information using Secure Sockets Layer SSL, 128 bit encryption services, however even with this the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your Information, we cannot ensure the security of your data transmitted to our Website. Any transmission is at your own risk. Once we have received your Information we will use strict procedures and security features, storing your information on our secure servers to prevent unauthorised access.
 
-Similar to other commercial websites, our Website utilises a standard technology called �cookies� (see the explanation below, �What Are Cookies?�) and web server logs to collect information about how our Website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website. We, our advertisers and ad serving companies may also use small pieces of code called �web beacons� or �clear gifts� to determine which advertisements and promotions users have seen and how users responded to them.
+Similar to other commercial websites, our Website utilises a standard technology called ' **cookies** ' (see the explanation below, ' **What Are Cookies?** ') and web server logs to collect information about how our Website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website. We, our advertisers and ad serving companies may also use small pieces of code called ' **web beacons** ' or ' **clear gifts** ' to determine which advertisements and promotions users have seen and how users responded to them.
 
 ## WHAT ARE COOKIES?
 
@@ -69,17 +72,17 @@ We may pass your Information to other carefully selected third party organisatio
 
 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any carefully selected third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [webteam@homeserve.com](mailto:webteam@homeserve.com) or by writing to us at the address at the beginning of this Privacy Policy.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any carefully selected third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact/email) or by writing to us at the address at the beginning of this Privacy Policy.
 
 ## HOW DO WE PROTECT YOUR INFORMATION?
 
-Email is not recognised as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Website may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilising this technology will have URLs that start with HTTPS instead of HTTP. Please contact [webteam@homeserve.com](mailto:webteam@homeserve.com) if you have any questions or concerns.
+Email is not recognised as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Website may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilising this technology will have URLs that start with HTTPS instead of HTTP. Please [contact us](https://web.archive.org/contact/email) if you have any questions or concerns.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 ## HOW CAN YOU ACCESS AND CORRECT YOUR INFORMATION?
 
-You may request access to all your Information that we collect online and maintain in our database by emailing [cover@homeserve.com](mailto:cover@homeserve.com).
+You may request access to all your Information that we collect online and maintain in our database by emailing us.
 
 ## WHAT ABOUT OTHER WEBSITES LINKED TO OUR WEBSITE?
 
