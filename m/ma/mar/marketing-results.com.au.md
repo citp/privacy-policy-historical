@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829062541id_/http%3A//www.marketing-results.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205035440id_/http%3A//marketing-results.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Marketing Results Privacy Policy
-
-[](https://web.archive.org/internet-marketing-services/lead-generation.php)
-
-##  Client Attraction System™
-
-A unique web-based lead generation system for turning shy prospects into lifelong clients. [More »](https://web.archive.org/internet-marketing-services/lead-generation.php)
-
-[](https://web.archive.org/internet-marketing-services/online-marketing.php)
-
-## Websites  
-That Sell
-
-Effective, marketing- focussed websites that automatically deliver new customers to your doorstep. [More »](https://web.archive.org/internet-marketing-services/online-marketing.php)
-
-[](https://web.archive.org/internet-marketing-services/marketing-consulting.php)
-
-## Internet Marketing Consultants
-
-Results-oriented internet marketing consulting for rapidly boosting the sales and profits of your existing website. [More »](https://web.archive.org/internet-marketing-services/marketing-consulting.php)
+# Privacy Policy
 
 _Marketing Results is a division of Will International Pty Ltd._
 
@@ -48,5 +29,4 @@ This site does not provide facilities for the secure transmission of information
 
 ## Cookies
 
-Cookies are packets of information that uniquely identify your computer as a visitor to this site. The website may store cookies on your PC as a result of you logging into our website in order to automatically log you back in when you return to the website in future. This option can be changed by you.  
-
+Cookies are packets of information that uniquely identify your computer as a visitor to this site. The website may store cookies on your PC as a result of you logging into our website in order to automatically log you back in when you return to the website in future. This option can be changed by you.
