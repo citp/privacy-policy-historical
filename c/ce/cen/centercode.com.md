@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624045817id_/http%3A//centercode.com/default.php%3Fn%3DMain.Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centercode.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205085857id_/http%3A//www.centercode.com/default.php%3Fn%3DMain.Privacy) for the most accurate reproduction.*
 
-# Centercode • Centercode Privacy Policy
+# Centercode . Centercode Privacy Policy
 
 Centercode respects the privacy of anyone who uses the Centercode Web site ([www.centercode.com](http://www.centercode.com/)) and Centercode Connect™ online application. Centercode gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection. 
 
