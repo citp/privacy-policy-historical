@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619185451id_/http%3A//bizagi.com/eng/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205044718id_/http%3A//www.bizagi.com/eng/legal/privacy.htm) for the most accurate reproduction.*
 
-# B i z A g i - Business Agility!
+# BizAgi, Business Process Management Software, BPM Software, BPM Suite, BPM
 
 * ## Company | Legal
 
 The following discloses our information gathering and dissemination practices for our web site, www.bizagi.com.  
 BizAgi Lmtd. recognizes the importance of protecting the privacy of information we may collect from our online visitors. To that end, we are committed to using our best efforts to respect the privacy of our online visitors.   
-BizAgi.com logs information about visitors, including IP addresses, date/time visited, referring Web site, length of stay, etc. This information is used for site statistics only. BizAgi’s Web site deposits certain bits of information called "cookies" in a visitor's computer. Cookies are sent back only to the BizAgi Web site that deposited them when a visitor returns to that site. Cookies help us determine how and when pages are visited and by how many people. This technology does not collect any personal identifiable information that you do not specifically provide us. Any information you provide us is used to improve the navigation of our Web sites. 
+BizAgi.com logs information about visitors, including IP addresses, date/time visited, referring Web site, length of stay, etc. This information is used for site statistics only.
 
 **What type of information we collect and how it is used:**
 
@@ -15,22 +15,15 @@ Some registration forms on our site may require you to give us your contact info
 Please note that this site contains links to other sites and that BizAgi is not responsible for the privacy practices or the content of those sites.
 
 Cancel Subscription  
-We provide the following options should you elect not to receive future communications from us and from our partners:
+If you do not want to receive future communications from BizAgi we provide an opt out “unsubscribe” message in all of our communications.
 
-  * Send e-mail to [**marketing@bizagi.com**](mailto:marketing@bizagi.com)
-  * Send postal mail to the following address:   
-BizAgi Lmtd.  
-ATTN: Marketing  
-Cardinal Point . Park Road . Rickmansworth Hertfordshire . WD3 1RE  
-United Kingdom 
-
-
-* [**Customer Spotlight**](https://web.archive.org/web/20080619185451id_/http%3A//bizagi.com/eng/news)
+[](http://www.addthis.com/bookmark.php)
+* [**Customer Spotlight**](https://web.archive.org/web/20081205044718id_/http%3A//www.bizagi.com/eng/news)
 
   *   *   *   * 
 
 
 * * *
 
-[](https://web.archive.org/web/20080619185451id_/http%3A//bizagi.com/eng/partners/find)
+[](https://web.archive.org/web/20081205044718id_/http%3A//www.bizagi.com/eng/partners/find/index.html)
 * 
