@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224160421id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205071151id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
 
 # Cole Haan
 
@@ -45,6 +45,9 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 Cole Haan does not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include NIKE, Inc. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Cole Haan's business, or servicing you as long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other rights or safety. This information is also used to better understand visitors' use of Cole Haan's web site and to support related transactions made on the web site.
 
 However, this data in an aggregate form may be provided to other parties for marketing, advertising, or other uses. Cole Haan may also use e-mail addresses and other personally identifiable information to contact visitors who communicate with us. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to any Cole Haan e-mail sent to them and type UNSUBSCRIBE as the subject of their reply.
+
+  
+
 
 #### How does a visitor opt-out, remove, or modify information they have provided to Cole Haan?
 
