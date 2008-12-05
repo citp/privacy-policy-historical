@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vho.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607093101id_/http%3A//www.vho.com/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vho.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205194645id_/http%3A//www.vho.com/action/static/privacy) for the most accurate reproduction.*
 
 # Video Heat Online
 
