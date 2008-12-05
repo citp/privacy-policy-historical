@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcounted.net privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605090453id_/http%3A//www.getcounted.net/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcounted.net privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205010623id_/http%3A//www.getcounted.net/policy.aspx) for the most accurate reproduction.*
 
 # GetCounted: Policy
 
