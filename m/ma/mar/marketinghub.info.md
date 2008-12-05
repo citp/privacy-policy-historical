@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketinghub.info privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515010500id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinghub.info privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205020521id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
