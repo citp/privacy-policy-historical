@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224180535id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206170810id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
 
 # Traders Laboratory - Website Privacy Statement
 
