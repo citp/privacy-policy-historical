@@ -1,6 +1,45 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230141617id_/http%3A//sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206091522id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy : SailPoint Technologies: Identity Governance, Risk Management and Compliance
+# Privacy Policy :: SailPoint Home
+
+Stay Connected
+
+Subscribe to our quarterly newsletter.
+
+[Subscribe »](https://web.archive.org/news/subscribe.php?offer=Newsletter%20Subscribe&source=web)
+
+Get the latest news and views with SailPoint's podcast series, "The Identity Intelligence Insider"
+
+[Listen »](http://sailpoint.libsyn.com/)  |  [Subscribe »](http://feeds.feedburner.com/sailpoint)
+
+Subscribe
+
+SailPoint's Identity Intelligence Insider is a monthly podcast series on hot topics in identity risk management.
+
+[Listen »](http://sailpoint.libsyn.com/rss)
+
+CONTACT US
+
+**Hours**  
+8:00AM - 6:00PM CST  
+Monday through Friday excluding holidays
+
+**Email**  
+[support@sailpoint.com](mailto:support@sailpoint.com)
+
+**Phone**  
+(888) 4SAILPT  
+(888) 472-4578
+
+"SailPoint helps us define the connection between user access, financial control and intellectual property protection. Their risk-aware approach focuses on the relative risks associated with user access within our business."
+
+**_Russ Finney, Vice President of U.S. Information Systems operations for Tokyo Electron, U.S. Holdings_**
+
+"Businesses that are concerned with compliance mandates and ensuring the security and integrity of their IT systems cannot afford 12 to 18 month deployments. With IdentityIQ, organizations can gain immediate payback from automating key governance processes to better address business risk."
+
+**_Kevin Cunningham, Co-Founder and President, SailPoint_**
+
+| 
 
 At SailPoint Technologies, Inc. ("SailPoint"), we are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner and to protect and safely manage any personally identifiable information ("Personal Information") that you share with us.
 
@@ -16,7 +55,7 @@ Where the information originates from a country in the European Union, SailPoint
 
 .
 
-## **Cookies and Other Tracking Technologies**
+## Cookies and Other Tracking Technologies
 
 From time to time, some of our Web pages may utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
@@ -24,7 +63,7 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
-## **Privacy Principles**
+## Privacy Principles
 
 SailPoint's Online Privacy Policy consists of the following principles: 
 
@@ -122,4 +161,6 @@ c/o Safe Harbor Privacy Manager 
 6034 W Courtyard Dr, Suite 309   
 Austin, Texas 78730   
 USA   
-email: [_safeharbor@sailpoint.com_](mailto:safeharbor@sailpoint.com)
+email: [_safeharbor@sailpoint.com_](mailto:safeharbor@sailpoint.com)  
+  
+---|---
