@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326192022id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206071801id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - OutdoorPros.com
 
 [Home](https://web.archive.org/) > Privacy Policy 
 
-[](https://web.archive.org/Promotions.aspx)
+[](https://web.archive.org/2008-Holiday-Promotion.aspx "Save $5 off $30!")
 
 #### Overview
 
@@ -61,6 +61,9 @@ We periodically send informative emails such as free newsletters, customer revie
 
 **Contact Information and Third Party Data**  
 If you contact OutdoorPros.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
+
+ **Product Reviews**  
+OutdoorPros.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by OutdoorPros.com. When you submit a product review to OutdoorPros.com, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and OutdoorPros.com.
 
 **Customer Service**  
 We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information.
@@ -167,8 +170,4 @@ You may also contact us by email at [info@OutdoorPros.com](mailto:info@OutdoorPr
 
 #### Privacy Policy changes
 
-This Privacy Policy was last changed on March 07, 2008. If OutdoorPros.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
-
-[](https://www.scanalert.com/RatingVerify?ref=www.outdoorpros.com)
-
-[ ](https://www.shopzilla.com/ratings_guide/cust_reviews__mid--181097.html)
+This Privacy Policy was last changed on July 07, 2008. If OutdoorPros.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
