@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrovita.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312185040id_/http%3A//www.nutrovita.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrovita.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206050440id_/http%3A//www.nutrovita.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of Nutrovita.com
 
