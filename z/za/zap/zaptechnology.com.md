@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaptechnology.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828215419id_/http%3A//www.zaptechnology.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaptechnology.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206175804id_/http%3A//www.zaptechnology.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
