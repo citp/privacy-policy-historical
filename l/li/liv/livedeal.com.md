@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214232806id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206015553id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # livedeal.com >> About >> Privacy Policy
 
@@ -12,9 +12,9 @@ This Privacy Policy describes how LiveDeal treats the personal information that 
 
 By your use of the LiveDeal web site, you expressly consent to our disclosure and use of your personal information as described in this Privacy Policy. 
 
-We reserve the right to modify this Privacy Policy at any time, and will notify you of any such changes by posting a notice on the "General Announcements" section of the Community page of our web site. In addition, we may notify you directly (via email) of such changes. 
+We reserve the right to modify this Privacy Policy at any time, and will notify you of any material changes by posting a notice on the "General Announcements" section of the Community page of our web site. In addition, we may notify you directly (via email) of such changes. 
 
-We last updated our Privacy Policy on June 20, 2005 . 
+We last updated our Privacy Policy on February 20, 2008. 
 
 **1\. A Special Note About Children**
 
@@ -30,9 +30,13 @@ When you wish to contact a seller regarding an item listed on our web site, we a
 
 If you elect to use our referral service to inform a friend about our web site, we ask you for the friend's name and email address. We will automatically send the friend an email inviting him or her to visit our web site. The referral message will be sent to you friend’s email address one time, and will not be stored or used for any other purpose. 
 
+When you leave a testimonial, we ask for your name, zip, email and phone number. This testimonial is displayed on our website with your name and the State from which you post the testimonial. No other information is publicly displayed with the testimonial. If you use the testimonial feature on this site, you should be aware that any personally identifiable information you submit within the body of the testimonial can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in the body of the testimonials.
+
 We use the information that we collect to improve product offerings, fulfill your requests, bill you for services, customize the web site's content and layout, develop feedback ratings, contact you, and for marketing activities and statistical analysis. 
 
 LiveDeal automatically receives and records information on our server logs from your browser, including your IP address, LiveDeal cookies information, and the page you request. Our collection and use of such information is further described below. 
+
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp. 
 
 **3\. Information Sharing and Disclosure**
 
@@ -67,7 +71,7 @@ Like most standard web site servers, we use log files. This includes internet pr
 
 **6\. Your Ability to Edit and Deactivate Your Account Information and Preferences**
 
-You can edit your LiveDeal account information by going to the My LiveDeal page. There, you may also opt-out of receiving marketing or promotional-related emails. However, we reserve the right to send you certain communications relating to the LiveDeal web site, such as service announcements and administrative messages, without offering you the opportunity to opt-out of receiving them. [This sentence is confusing. Are users still going to receive emails about new services and promotions after they have opted-out of marketing and promotional email? Emails about new services and promotions are considered commercial email and the user needs to be presented the opportunity to opt-out. State how users can opt-out of these communications.] 
+You can edit your LiveDeal account information by going to the My LiveDeal page. There, you may also opt-out of receiving marketing or promotional-related emails. However, we reserve the right to send you communications necessary for the functioning of the LiveDeal systaem. You may not opt out of System and Account Information emails that are necessary to provide our services.
 
 Upon your request, we will deactivate your account, contact information, billing information and any financial information from our active databases. To make this request, email . Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our User Agreement and applicable law. 
 
@@ -81,7 +85,7 @@ Your personal information is stored on LiveDeal's servers located in the United 
 
 We go to great lengths to protect all of your information on our web site. In order to help us maintain the security of your personal information, we ask that you not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. By disclosing personal information online, you may receive unsolicited communication from other parties in return. Therefore, you should exercise caution and common sense in such disclosures.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, testimonials, through email, or in chat areas - that information can be collected and used by others. By disclosing personal information online, you may receive unsolicited communication from other parties in return. Therefore, you should exercise caution and common sense in such disclosures.
 
 **9\. Privacy Program  **
 
