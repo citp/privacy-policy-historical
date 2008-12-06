@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmedianet.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211131702id_/http%3A//www.digitalmediaonlineinc.com/articles/aboutdmoarticle.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmedianet.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206025221id_/http%3A//www.digitalmediaonlineinc.com/articles/aboutdmoarticle.jsp) for the most accurate reproduction.*
 
 # Digital Media Online, Inc.
 
