@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611075608id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206070313id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Newspapers - Newspaper & News Media Guide
 
-Certain forms on ABYZ News Links may request personal information such as your email address.  This information is requested only if you require feedback from ABYZ News Links.  Visitors are under no obligation to submit such information.
+ABYZ News Links runs Google AdSense advertisements to help support the site.  Google AdSense may use technology such as cookies and web beacons when providing advertisements to our site.  This technology will send them information such as your IP address, your ISP, the browser you are using to visit our site, and possibly other information. This is generally used to help them target AdSense ads to you based on your geographic location or based on your interests according on your browsing history.
 
-We will not disclose any personal information to any third party for any reason.  We will never send you any advertisements or unsolicited information about this site. We will only respond, when necessary, to specific requests for information.
+You can choose to disable or selectively turn off cookies by altering your browser settings or by managing settings in your internet security program.  This can, however, affect how you are able to interact with some websites.   This may include requiring you to manually login each time you visit ecommerce sites, forums, as well as certain other sites.
 
-We do not maintain any databases storing any personal information about our visitors.
+AdSense advertisements are provided by Google and are governed by their privacy policy which is available at the [Google](http://www.google.com/privacy.html) website.
+
+ABYZ News Links does not have access to any of the information collected by Google.
