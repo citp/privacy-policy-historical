@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alledia.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160958id_/http%3A//www.alledia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alledia.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206091536id_/http%3A//www.alledia.com/privacy-policy) for the most accurate reproduction.*
 
 # Alledia.com Privacy Policy - Alledia
 
@@ -11,8 +11,7 @@ We want to protect your privacy. In order to operate, Alledia.com may gather inf
 Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number. We collect certain types of personal information when you register. The only information we collect for registration is: 
 
   * Your name
-  * Your email address   
-
+  * Your email address 
 
 Other information can be supplied after registration but it is not needed to join the site and is also covered by this Privacy Policy. Information we collect **will not** be given or sold to any third parties. 
 
