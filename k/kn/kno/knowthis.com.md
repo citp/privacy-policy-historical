@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526190108id_/http%3A//www.knowthis.com/information/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206070432id_/http%3A//www.knowthis.com/information/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement: KnowThis.com
 
