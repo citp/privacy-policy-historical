@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304021528id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207204409id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,14 +53,13 @@ If you have any questions or comments about our use of Personal Information, ple
 
 [](https://www.weddingclipart.com/wca/register.do)
 
-|   | 
+| 
 
 **All Suggestions, Billing and Site Questions:** [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com)
 
 **WeddingClipart.com**  
 Letters and Arts, Inc.  
-695 Mistletoe Road  
-Suite M11  
+600 Siskiyou Blvd  
 Ashland, Oregon 97520  
   
----|---|---
+---|---
