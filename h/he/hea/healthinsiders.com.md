@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsiders.com privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317120021id_/http%3A//www.healthinsiders.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D646%26Itemid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsiders.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207024524id_/http%3A//www.healthinsiders.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D646%26Itemid%3D53) for the most accurate reproduction.*
 
 # The Health Insiders - Privacy Policy
 
