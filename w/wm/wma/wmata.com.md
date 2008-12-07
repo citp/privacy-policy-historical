@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513115654id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207024743id_/http%3A//wmata.com/about/datause.cfm) for the most accurate reproduction.*
 
 # Metro privacy and data use policy
 
@@ -83,5 +83,5 @@ _Please note: We are required to release personal information if it is subpoenae
 
 If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/riding/ridercomment.cfm). 
 
-|  [](https://web.archive.org/tile_rotator/redirect.cfm?BanID=105&target=http://www.dcmetrostore.com/)  
+|  [](https://web.archive.org/tile_rotator/redirect.cfm?BanID=30&target=http://www.wmata.com/timetables/va/16y.pdf)  
 ---|---
