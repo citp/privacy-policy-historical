@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the taxcut.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509071827id_/http%3A//www.taxcut.com/universal/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxcut.com privacy policy that was archived on 2008-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081207075336id_/http%3A//www.taxcut.com/universal/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title> TaxCut by H&amp;R Block - Privacy Policy</title>
@@ -17,13 +17,15 @@
 <meta name="rating" content="general">
 <meta name="distribution" content="global">
 <meta name="author" content="taxcut.com - Taxes">
-<meta name="copyright" content="Copyright 2008 H&amp;R Block. All Rights Reserved.">
+<meta name="copyright" content="Copyright 2008-2009 H&amp;R Block. All Rights Reserved.">
 
         <meta name="robots" content="noodp">  
     
+
+<link rel="stylesheet" type="text/css" href="/css/taxcut_2008.css">
                         
 
-    <link rel="stylesheet" type="text/css" href="/css/taxcut_2008.css">
+    <link rel="stylesheet" type="text/css" href="/css/nav_default_2009.css">
    
  
 <link rel="SHORTCUT ICON" href="http://www.hrblock.com/favicon.ico">
@@ -69,7 +71,7 @@ t1_default = 'NO_SELECTION';
 <div id="container">
 
 <div class="mboxDefault" style="visibility: visible; display: block;"></div>
-<script type="text/javascript" language="javascript"> mboxCreate('tc_global');</script><div id="mboxMarker-tc_global-0" style="visibility:hidden;display:none"></div><script src="https://mbox9.offermatica.com/m2/hrblock/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452984964-194405&amp;mboxPage=1580452988017-672816&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=tc_global&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20080509071827id_/http%253A//www.taxcut.com/universal/privacy_policy.html&amp;mboxReferrer=&amp;mboxVersion=32" language="JavaScript"></script> 
+<script type="text/javascript" language="javascript"> mboxCreate('tc_global');</script><div id="mboxMarker-tc_global-0" style="visibility:hidden;display:none"></div><script src="https://mbox9.offermatica.com/m2/hrblock/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452985200-995874&amp;mboxPage=1580452994959-945637&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=tc_global&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20081207075336id_/http%253A//www.taxcut.com/universal/privacy_policy.html&amp;mboxReferrer=&amp;mboxVersion=32" language="JavaScript"></script> 
 
 
 
@@ -79,228 +81,142 @@ t1_default = 'NO_SELECTION';
 <!-- Header -->
   
       <noindex><!-- tag for Atomz -->
+
+<link rel="stylesheet" type="text/css" href="/css/taxcut_2008.css">
+
 <script type="text/javascript">
-function setMenu() 
+function setMenu()
 {
 }
-
-<!-- TAX CLIENT LOGIN -->
-function checkUsername(){
-    if(document.getElementById('txtusername').value == "") {
-        document.getElementById('txtusername').style.backgroundColor = 'yellow';
-        document.getElementById('txtusername').focus();
-    } else {
-        document.getElementById('txtusername').style.backgroundColor = 'white';
-    }
-}
-function checkPassword(){
-    if(document.getElementById('txtpassword').value == "") {
-        document.getElementById('txtpassword').style.backgroundColor = 'yellow';
-        document.getElementById('txtpassword').focus();
-    } else {
-        document.getElementById('txtpassword').style.backgroundColor = 'white';
-    }
-}
-function isNumber(field) {
-var re = /^[0-9-'.'-',']*$/;
-if (!re.test(field.value)) {
-field.value = field.value.replace(/[^0-9-'.'-',']/g,"");
-}
-}
-
-function checkForm(form) {
-    if((document.getElementById('txtusername').value == '') || (document.getElementById('txtpassword').value == ''))  {
-        checkPassword();
-        checkUsername();
-        return false;
-    }
-    return true;
-}
-
-var y       = 0;
-var spd     = 10;
-var show    = 0;
-
-function changeheight(){
-    bg = document.getElementById("login-background");
-    e  = document.getElementById("loginMenu");
-    ee = document.getElementById("loginMenuBottom");
-
-    if(y > 130 && show == 0){
-		show = 1;
-		return;
-    }
-    if(y <= 3 && show == 1){
-		show = 0;
-		e.style.display = 'none';
-		bg.style.display = 'none';
-		return;
-    }
-    if(show){
-		spd = -5;
-    }
-    if(!show){
-		spd = 10;
-    }
-	
-    y = y + spd;
-    e.style.display     = 'block';
-    e.style.height      = y + 2 + 'px';
-    bg.style.display    = 'block';
-    bg.style.height     = y + 2 + 'px';
-
-    if(y <= 130 ){
-		ee.style.top = y + 2 + 'px';
-    } else {
-		ee.style.display = 'block';
-    }
-    if(y <= 10){
-		ee.style.display = 'none';
-    }
-    if(y >= 11){
-		ee.style.diaplay = 'block';
-    }
-	
-    t=setTimeout("changeheight();",0);
-}
-
-function otpLogin() {
-    if(document.getElementById('txtusername').value != '' && document.getElementById('txtpassword').value != '') {
-
-        if ( (typeof sysprop_showPopUnder) !='undefined' && sysprop_showPopUnder==1 ) {
-
-            try {
-                window.open('','popunderotp','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=10,height=10,left=2000,top=2000').close();
-            } catch(e) { }
-        }
-
-        if ( (typeof sysprop_otpStatus)!='undefined' && (sysprop_otpStatus==1 || sysprop_otpStatus==2)) {
-
-            showDownPage();
-
-            return false;
-
-        } else {
-            FindAction('Login');
-        }
-    }
-}
-
-function findofficebyzip()
-{
-	document.location='/universal/office_locator.html?zip='+document.forms['form1'].office.value;
-}
-<!-- END TAX CLIENT LOGIN -->
 </script>
 
-<div id="header"> 	
+<div id="header">
     <div class="hd_logo_home">
         <img src="/images/pixel.gif" border="0" usemap="#Map2" class="hd_logo_home_link">
         <map name="Map2" id="Map2">
-            <area shape="rect" coords="22,0,209,55" href="/index.html">
+            <area shape="rect" coords="22,0,209,55" href="/customer_support/browse_cs.jsp?pfid=1">
         </map>
-    </div>  
-  	
-    <div class="hd_links">    	
-        <div style="float:right; margin-top:4px;">
-        	<!-- FIND AN OFFICE -->
-        	<form id="form1" name="form1" method="post" action="javascript:if( validateZipCode2(document.form1.office.value) ) {findofficebyzip()}else{document.form1.office.focus();};" style="float:left;">
-            	<strong>Find a Tax Office</strong> 
-                <input name="office" type="text" id="office" size="8" onkeyup="isNumber(this)" onclick="this.value=''" value="enter zip" class="hd_input_style" maxlength="9"> 
-                <input class="hd_btn" type="image" src="/images/pixel.gif" align="absmiddle" onclick="" style="cursor:pointer;">&nbsp;&nbsp;
-            </form>              
-       		<!-- END FIND AN OFFICE -->
-        
-        	<!-- SEARCH -->        
-            <form name="form_search" method="get" action="http://promosearch.taxcut.com/search/promosearch/">
-                <input type="hidden" name="sp-a" value="sp1002becd">
-                <input type="hidden" name="sp-p" value="all">
-                <input type="hidden" name="sp-f" value="ISO-8859-1">
-                <input type="hidden" name="sp-sfvl-field" value="cat">
-    
-                <script type="text/javascript">
-                    if (window.location.href.indexOf("/customer_support") != -1)
-                    {   
-                        document.write('<input type="hidden" name="sp-k" value="Customer Support">');
-                    }
-                </script>
-                
-                <strong>Search</strong> 
-                <input type="text" name="sp-q" id="searchBox" size="30" class="hd_input_style">
-                <a target="_top" onclick="document.form_search.submit();"><img class="hd_btn" style="cursor:pointer;" src="/images/pixel.gif" alt="Search" align="absmiddle" border="0" width="20" height="20"></a>
-            </form>
-            <!-- END SEARCH -->
-            <div class="hd_spacer"></div>
-        </div>        
-        
-        <div style="clear:both; float:right; width:550px;">
-            <a href="/customer_support/browse_cs.jsp?pfid=1">Help Center</a> | 
-            <a href="http://www.findmyorder.com">Order Status</a> | 
-            <a href="//shop.taxcut.com/store/taxcut/DisplayShoppingCartPage">Shopping Cart</a> | 
-            <a href="/taxes/status/efile.html">Check E-file Status</a> 
-            <a href="/taxes/status/efile.html"><img class="hd_btn" src="/images/pixel.gif" align="absmiddle" alt="Check E-file Status" title="Check E-file Status" border="0"></a> | 
-            <a href="javascript:changeheight();" title="Tax Client Login">Tax Client Login</a> 
-            <a href="javascript:changeheight();"><img src="/images/pixel.gif" align="absmiddle" class="hd_btn" title="Tax Client Login" alt="Tax Client Login" border="0"></a>
-       	</div>
-    <!-- end .hd_links --></div>
-<!-- end #header --></div>
+    </div>
+</div><!-- end #header -->
+
+    <map name="Map" id="Map">
+        <area shape="rect" coords="33,3,118,35" href="/customer_support/browse_cs.jsp?pfid=1" alt="Top Issues">
+        <area shape="rect" coords="126,3,283,35" href="/customer_support/browse_cs.jsp?pfid=1&amp;section=before" alt="Before Tax Preparation">
+        <area shape="rect" coords="292,3,450,35" href="/customer_support/browse_cs.jsp?pfid=1&amp;section=during" alt="During Tax Preparation">
+        <area shape="rect" coords="459,3,609,35" href="/customer_support/browse_cs.jsp?pfid=1&amp;section=after" alt="After Tax Preparation">
+        <area shape="rect" coords="717,3,814,35" href="/taxes/software/updates/index.html" alt="Current Year">
+        <area shape="rect" coords="822,3,897,35" href="/taxes/software/updates/prior_years/index.html" alt="Past Year">
+    </map>
 
 <div class="main_nav">
-	<div class="nav_image" align="center">
-	<img src="/images/pixel.gif" class="main_nav_links" border="0" usemap="#Map"></div>
-<map name="Map" id="Map">
-  <area shape="rect" coords="781,1,905,37" href="/customer_support/index.jsp" alt="Customer Support" title="Customer Support">
-  <area shape="rect" coords="670,1,736,37" href="/tax_tips/index.html" alt="Tax Tips" title="Tax Tips">
-  <area shape="rect" coords="541,1,626,37" href="/taxes/office/index.html" alt="Tax Offices" title="Tax Offices">
-  <area shape="rect" coords="385,1,497,37" href="/taxes/online/index.html" alt="Online Products" title="Online Products">
-  <area shape="rect" coords="212,1,339,37" href="/taxes/software/updates/index.html" alt="Software Updates" title="Software Updates">
-  <area shape="rect" coords="40,1,168,37" href="//shop.taxcut.com/store/taxcut/DisplayHomePage" alt="Software Products" title="Software Products">
-</map>
+
+    <div class="nav_image" align="center" id="nav_image">
+        <img src="/images/pixel.gif" class="main_nav_links" border="0" usemap="#Map">
+    </div>
+    <script type="text/javascript">
+    //
+    // the t1_default values are used by pages generated by the 2008 datacapture/newpage.tpl,include below for backward compaitibility
+    //
+
+        var navImageToUse   = "images/main_nav/nav_default_2009.png";
+
+        if (getQueryValue("section")=="before" )
+        {
+            navImageToUse   = "/images/main_nav/nav_before_2009.png";
+        }
+        else if (getQueryValue("section")=="during")
+        {
+            navImageToUse   = "/images/main_nav/nav_during_2009.png";
+        }
+        else if (getQueryValue("section")=="after")
+        {
+            navImageToUse   = "/images/main_nav/nav_after_2009.png";
+        }
+        else if ( (document.location.pathname.indexOf("/customer_support/browse_cs.jsp") != -1) && (getQueryValue("pfid")==1) )
+        {
+            navImageToUse   = "/images/main_nav/nav_top_issues_2009.png";
+        }
+        else if (  (document.location.pathname.indexOf("/customer_support/supportfaq.jsp") != -1) )
+        {
+            navImageToUse   = "/images/main_nav/nav_top_issues_2009.png";
+        }
+        else if ( (document.location.pathname.indexOf("/customer_support") != -1) )
+        {
+            navImageToUse   = "/images/main_nav/nav_default_2009.png";
+        }
+        else if (document.location.pathname.indexOf("/taxes/software/updates/prior_years") != -1)
+        {
+            navImageToUse   = "/images/main_nav/nav_update_past_2009.png";
+        }
+        else if (document.location.pathname.indexOf("/taxes/software/updates") != -1)
+        {
+            navImageToUse   = "/images/main_nav/nav_update_current_2009.png";
+        }
+        else
+        {
+            try
+            {
+                if (t1_default=="nav_top_issues")
+                {
+                    navImageToUse   = "/images/main_nav/nav_top_issues_2009.png";
+                }
+                else if (t1_default=="nav_before")
+                {
+                    navImageToUse   = "/images/main_nav/nav_before_2009.png";
+                }
+                else if (t1_default=="nav_during")
+                {
+                    navImageToUse   = "/images/main_nav/nav_during_2009.png";
+                }
+                else if (t1_default=="nav_after")
+                {
+                    navImageToUse   = "/images/main_nav/nav_after_2009.png";
+                }
+                else if (t1_default=="nav_update_current")
+                {
+                    navImageToUse   = "/images/main_nav/nav_update_current_2009.png";
+                }
+                else if (t1_default=="nav_update_past")
+                {
+                    navImageToUse   = "/images/main_nav/nav_update_past_2009.png";
+                }
+                else if (t1_default=="nav_home" || t1_default=="nav_software" || t1_default=="nav_online" || t1_default=="nav_offices" || t1_default=="nav_tips" || t1_default=="NO_SELECTION")
+                {
+                    navImageToUse   = "/images/main_nav/nav_default_2009.png";
+                }
+                else if (t1_default=="nav_updates")
+                {
+                    navImageToUse   = "/images/main_nav/nav_default_2009.png";
+                }
+                else
+                {
+                    navImageToUse   = "/images/main_nav/nav_default_2009.png";
+                }
+            }
+            catch (e)
+            {
+                alert(e.description);
+                navImageToUse   = "/images/main_nav/nav_default_2009.png";
+            }
+        }
+
+        document.write('<style type=\"text\/css\">\n.main_nav .nav_image {\n    height: 64px;\n    width: 951px;\n    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=\''+navImageToUse+'\');\n    background-repeat: no-repeat;\n}\n\n.main_nav .nav_image[class] {\n    background: url('+navImageToUse+') no-repeat;\n}\n<\/style>');
+
+    </script><style type="text/css">
+.main_nav .nav_image {
+    height: 64px;
+    width: 951px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/images/main_nav/nav_default_2009.png');
+    background-repeat: no-repeat;
+}
+
+.main_nav .nav_image[class] {
+    background: url(/images/main_nav/nav_default_2009.png) no-repeat;
+}
+</style>
+
 </div>
 
-<!-- TAX CLIENT LOGIN DROPDOWN -->
-<div id="taxClientLogin" style="z-index:100">
-	<div id="login-container">
-		<div id="login-background"><img src="/images/spacer.gif" width="224" height="110" alt=""></div>
-		<div id="loginMenu">
-			<div style="padding: 13px 10px 10px 14px;   font-size:11px; font-family: Arial, Helvetica, sans-serif;">
-				<img src="/images/img_login_lock.gif" alt="Login" width="12" height="15" border="0" align="absmiddle">&nbsp;&nbsp;<strong>Secure tax program login.</strong>
-                    <form name="signon" method="post" action="https://taxes.hrblock.com/hrblock/login/Login.hrbx?CK=F&amp;FV=F&amp;HT=F&amp;TaxYear=2007&amp;PartnerId=0" id="frmLogin" onsubmit="return checkForm(this);">
-                        <input type="hidden" name="PartnerID" value="0">
-                        <input type="hidden" name="TaxType" value="OPP">
-                        <input type="hidden" name="Target" value="">
-                        <input type="hidden" name="OtpExt" value="">
-                        <input type="hidden" name="TPID" value="">
-                        <input type="hidden" name="SelfEmployed" value="">
-                        <input type="hidden" name="siteId" value="">
-                        <input type="hidden" name="time_entered" value="">
-                        <input type="hidden" name="FriendGUID" value="">
-                        <input type="hidden" name="PS" value="">
-                        <input type="hidden" name="CampaignId" value="">
-                        <input type="hidden" name="PageAction" value="Process">
-                        <input type="hidden" name="Action" value="Next">
-                        <input type="hidden" name="submit" value="Login">
-                        <div style="position:absolute;top:35px;left:17px;font-weight:bold; font-family: Arial, Helvetica, sans-serif;">Username:</div>
-                        <div style="position:absolute;top:30px;left:87px;"><input id="txtusername" type="text" name="txtusername" style="width:110px;" maxlength="255"><span id="user_required">&nbsp;&nbsp;</span></div>
-                        <div style="position:absolute;top:60px;left:17px;font-weight:bold; font-family: Arial, Helvetica, sans-serif;">Password:</div>
-                        <div style="position:absolute;top:55px;left:87px;"><input id="txtpassword" type="password" name="txtpassword" style="width:110px;" maxlength="15"><span id="pass_required">&nbsp;&nbsp;</span></div>
-                        <div style="position:absolute;top:83px;left:89px;">
-                            <input type="image" src="/images/btn_go.gif" name="Go" border="0" onclick="otpLogin();">
-                            &nbsp;
-                            <a href="javascript:changeheight();" style="z-index:100"><img src="/images/close_button.gif" alt="Close login" border="0"></a>
-						</div>
-					</form>
-                    <div style="position:absolute;top:115px;left:0px; text-align:center;width:224px;">
-                        <a id="login_password" href="https://taxes.hrblock.com/hrblock/Login/UserType.hrbx?HelpFor=Password&amp;TaxType=OPP&amp;FV=F&amp;HT=F" class="login-link">Forgot Password</a>&nbsp;<a target="_blank" href="/universal/privacy_policy.html" class="login-link">Privacy Policy</a>
-                    </div>
-				</div>
-			</div>
-			<!-- END loginMenu -->
-		<div id="loginMenuBottom"></div>
-	</div>
-	<!-- END login-container-->
-</div>
-<!-- END TAX CLIENT LOGIN DROPDOWN -->
 </noindex><!-- tag for Atomz -->            
  
 
@@ -320,142 +236,206 @@ function findofficebyzip()
             Privacy Policy</div>
     </div>
     <div class="pod_primary_body_full_width">
-        <h3>November 2007 - FOR THE TAXCUT<sup>®</sup> WEB SITE, WEB-BASED TAX SERVICES AND SOFTWARE </h3>
-        <p></p><p>
-        Protecting your privacy is fundamental to our business at H&amp;R Block Digital Tax Solutions, LLC ("H&amp;R Block DTS"). 
-        We recognize that the privacy of personal information is important to our customers, and we strive to operate our business in a manner that justifies your choice of H&amp;R Block DTS products and services.
-        </p><p>
-        This privacy policy explains the types of personal information we may collect from and about you, as well as how we may disclose and protect that information. 
-        </p><p>
-        <b style="text-decoration:underline">Who This Policy Covers</b><br><br>
-        This policy applies to personal information we collect in connection with the provision of online and software-based tax preparation programs and related services and other self-help software, to customers, former customers and others, by H&amp;R Block DTS.  
-        This policy applies whether you are a current or former customer of H&amp;R Block. 
-        To the extent relevant, this policy also applies to those individuals who visit the TaxCut Web site, even if they do not become an H&amp;R Block DTS customer.  
-        This policy does not apply to H&amp;R Block tax preparation services at its retail offices.  
-        This policy also does not apply to our parent company, its affiliates or H&amp;R Block franchisees.  
-        These companies may be subject to different regulations and/or may have different operating practices.  
-        If you are doing business with these companies, you should consult their respective privacy policies.
-        </p><p>
-        <b>
-            NOTE: The TRUSTe program covers only information that is collected through the TaxCut web site and your use of our online tax programs, and does not cover information that may be collected through software downloaded from this Site or via any desktop software program.  
-        </b>
-        </p><p>
-        <b style="text-decoration:underline">Information We May Collect</b>
-        </p><ul style="list-style-type: disc">
-            <li>
-                We collect certain personal information so that we may prepare your tax return.  
-                This information typically includes, for example, your name, address and certain other data such as your social security number, income and deductions data, and other personal information about you and your dependents that we need to prepare your tax return.  
-                This information may also include system information, such as your operating system version, internet protocol (IP) address and the number of times you electronically file using the software and Site from which your tax return preparation originated. 
-                The Internal Revenue Service ("IRS") requires us to collect certain system information in connection with electronic filing of tax returns. 
-            </li>
-            <li>
-                We may collect personal information in connection with transactions other than tax return preparation that you complete or propose to complete with us, our affiliates or certain nonaffiliated third parties.
-                This personal information may include, for example, your name, address and certain other "nonpublic personal information" such as checking, debit and credit account numbers, balances and payment history, income and assets.  
-            </li>
-            <li>
-                We may collect this personal information about you from you, the IRS, our franchisees, our affiliates, and certain non-affiliated third parties such as credit reporting agencies. 
-            </li>
-            <li>We may collect personal information about you when you inquire about services or request information from us. 
-                This personal information may include, for example, your name, telephone number, mailing address and e-mail address. 
-                We may also collect similar information when your software program interacts with our Site or servers. 
-                This information may include, for example, your name, telephone number, mailing address and e-mail address, system information and configuration, account number and demographic information. 
-                Portions of our Site are made available to you without registration. When you use calculators and other tools on segments of our Site that do not require registration, we may collect data that is not personally identifiable from such tools, such as the number of people who use a certain tool. 
-                We may also set cookies, GUIDs or clear gifs (as explained below) based upon your use of calculators and other tools. 
-                These cookies, GUIDs, and clear gifs help us to customize offers, tools and functions based on your particular interests. </li>
-            <li>When you use our office locator service, we may collect data such as address or zip code information so that we can better assess the level of interest in our services in a particular area, and the effectiveness of the locator tool in helping clients use our services. </li>
-            <li>We collect other information about you and your use of our services through the use of various technologies to help manage our Site, to save our customers time, and to understand more about the way our customers interact with us. 
-                These technologies include cookies, clear GIFs, log files, and GUIDs. Much of this information is not personally identifiable, but some of it can be combined with other information to create personally identifiable information. 
-                For more information on these technologies - specific to your use of the TaxCut web site - please <a href="javascript:WinOpen_('/universal/privacy_technology_definitions.html',710,480);">click here</a>.</li>
-            </ul>
-        <p></p><p>
-        <b>The third party service provider we currently use to manage these technologies is
-        Omniture. For more information about the practices of this company or to decline
-        cookies from this third-party ad server you may visit their Web site directly at
-        <a href="http://www.omniture.com/privacy/product">http://www.omniture.com/privacy/product</a>.
-        In addition, that site also provides information about their privacy
-        policy and opt-out procedure. We may engage different providers to provide similar
-        services from time to time.</b>
-        </p><ul>
-            <li>The IRS requires H&amp;R Block DTS to retain filed tax returns for a period of at least three years. 
-                It is H&amp;R Block DTS' policy that if you start, but do not complete a tax return in our online tax programs, we will generally keep the tax return information you provide until the end of the tax season.</li>
-        </ul>
-        <p></p><p>
-        <b style="text-decoration:underline">How We May Disclose Information About You</b>
-        </p><p>
-        H&amp;R Block's disclosure of personal information about you is controlled by various laws, regulations and other legal requirements, as well as H&amp;R Block policies.  
-        For example, the personal information we obtain to prepare your tax return is subject to specific legal requirements.  
-        We may disclose personal information that we collect, subject to the terms of this privacy policy and consistent with applicable law.  
-        The examples contained in this notice are illustrations; they are not intended to be exclusive.
-        </p><ul style="list-style-type: disc">
-            <li>Where permitted or required by law, we may disclose personal information about you for our normal business purposes.  
-                For example, this may include disclosures to the Internal Revenue Service (IRS), and for certain other lawful purposes where this disclosure is permitted by law (such as the processing of your tax return). </li>
-            <li>Where permitted by applicable law, we may disclose your personal information to service providers who perform business functions on our behalf (for services such as check printing, data processing and analysis, contest supervision, and direct mail or e-mail production). We require H&amp;R Block service providers to have written contracts that specify appropriate use of your personal information, require them to safeguard your personal information, and prohibit them from making unauthorized or unlawful use of your personal information.</li>
-            <li>In certain situations involving personal information collected for tax return preparation, we are required to have your consent before we disclose this information to affiliates or other nonaffiliated third parties.  For example, if you have provided consent, we may disclose personal information about you to H&amp;R Block affiliates engaged in offering banking, investment, credit cards or consumer loans, insurance or other non-tax financial services in order to provide you with service enhancements and product opportunities that we believe may interest you. </li>
-            <li>We do not share your personal information with non-affiliated third parties for marketing purposes except as permitted by applicable law or with your consent.  We do not sell or rent your personal information to third party direct marketers.</li>
-            <li>Where permitted by law, we may disclose your personal information to financial institutions with which we have joint marketing agreements.  We require all joint marketers to have written contracts with us that specify appropriate use of your personal information, require them to safeguard your personal information, and prohibit them from making unauthorized or unlawful use of your personal information.  If a state law (or other law) requires us to give you the right to opt-out prior to any disclosure of your personal information for joint marketing, we will not disclose your personal information for such purposes without providing such opt-out or obtaining your consent to such disclosure. </li>
-        </ul>
-        <p></p><p>
-        We may disclose your personal information to affiliates or non-affiliated third parties (including government entities) when we have a good faith belief that such disclosure is required or permitted by law.  
-        This may occur, for example, in connection with a court order, legal process, or other judicial, administrative or investigative proceeding, or other situations where the provision of certain information is required or permitted by law.  
-        </p><p>
-        <b style="text-decoration:underline">How We Protect Your Information </b>
-        </p><p>
-        H&amp;R Block maintains physical, electronic and administrative policies and procedures designed to restrict access to your personal information.   These include programs and specifications for physical security and records retention and disposal; computer and communication security measures reflected in system design, password protection, and data management practices; and other measures to restrict access to the data we hold in physical and electronic forms.
-        </p><p>
-        When you enter sensitive information in our online tax programs, we encrypt that information using secure socket layer (SSL) technology. When you use our online tax preparation tools, remember to sign out of your account and close your browser window when you have finished your work. This is to ensure that others cannot access your account by using your computer when you are away from it. Because of the global nature of the Internet, when you give us information, that information may be sent electronically to servers outside of the country where you originally entered the information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. On portions of the Site which are not encrypted as discussed above, information that you disclose could be collected and used by others. 
-        </p><p>
-        <b>Updates or Changes to Your Personal Information.</b><br>
-        If you are a user of an H&amp;R Block DTS online tax preparation product and your personal
-        account information changes or if you feel that the information that we have collected
-        about you is inaccurate, you may update the information by signing into your account.
-        H&amp;R Block DTS cannot change information in your filed tax return. You must file
-        an amended tax return to make changes to a filed tax return.
-        </p><p>
-        <b>Third Party Products and Services and Links to Third Party Sites</b><br>
-        H&amp;R Block DTS' software and the Site may contain links to third party Web sites or offers for services from third parties. Examples may include offers for refund anticipation loans or other loans offered through a third party bank, tax payment options and promotions for capital gains or investment software, tools or services. 
-        For any such third party products or services, you should carefully read the privacy policies of the third parties providing such products or services. This privacy policy applies solely to services provided by H&amp;R Block DTS, and not to products or services offered by a third party. When you request products or services of a third party on our Site, you are providing consent to us to provide your personal information to such party to fulfill your request. 
-        If you are a member of a third party site that has a relationship with H&amp;R Block DTS, that site may use Internet cookies or similar means to determine if you purchase a product or service at H&amp;R Block DTS in order to credit your account at such site with a bonus or incentive; however, H&amp;R Block DTS does not pass any personally identifiable information to such third party site. 
-        </p><p>
-        <b>Children Under Age 13</b><br>
-        Because of the financial nature of the services we provide, we do not market our
-        Site to children under the age of 13.
-        </p><p>
-        <b>How You May Opt-Out of Information Sharing or Otherwise Control Use of Your Information.</b><br>
-        We give you choice and control over the use of your personal information. We provide
-        you the opportunity to opt-out of receiving communications from us and companies
-        with which we do business. We also provide you with the opportunity to opt-out of
-        certain information sharing. You may not opt-out of the sharing of information that
-        does not identify you personally. You may limit marketing communications from H&amp;R
-        Block DTS as follows.
-        </p><ul style="list-style-type: square">
-            <li>H&amp;R Block DTS may use information you provide (subject to your consent, where required)
-                to communicate with you about products and services available through H&amp;R Block
-                DTS or third parties. If at any time you wish to limit your receipt of such marketing
-                communications you may <a href="http://www.taxcut.com/privacy/optout/optout.jsp?disp=1">
-                click here</a>. At your request and subject to the limitations below, we will
-                make reasonable efforts to limit all such marketing communications to you. In addition,
-                when we send you marketing emails, we will generally include in each email a method
-                to enable you to indicate your preference not to receive further emails.</li>
-        </ul>
-        <p></p><p>
-        The above paragraphs only apply to personal information H&amp;R Block DTS obtains through
-        the Site and your use of H&amp;R Block DTS online tax programs and other software programs,
-        so you could still receive offers through H&amp;R Block DTS, its affiliates or franchisees
-        where they obtain your contact information through other sources. In order to opt-out
-        from communications from our affiliates or franchisees, you may contact each such
-        affiliate or franchisee separately in accordance with their policies.
-        </p><p>
-        <b>Contact for Questions or Concerns.</b><br>
-        If you have questions or concerns regarding this privacy policy, contact H&amp;R Block
-        DTS by <a href="/universal/privacy_contact.html">clicking here</a>. If you do not
-        receive acknowledgment of your inquiry or your inquiry has not been satisfactorily
-        addressed, you may then contact TRUSTe at <a href="http://truste.org/consumers/watchdog_complaint.php">
-            http://truste.org/consumers/watchdog_complaint.php</a>.
-        </p><p>
-        Policy effective date November 2007<br>
-        TaxCut is a registered trademark of H&amp;R Block Digital Tax Solutions.<br>
-        © 2007 H&amp;R Block Digital Tax Solutions, LLC. All rights reserved.
-    </p></div>
+    	<div align="center">
+        <h3>	November 2008<br>
+				PRIVACY NOTICE FOR H&amp;R BLOCK<br>
+                WEB-BASED TAX SERVICES AND SOFTWARE
+		</h3>
+        </div>
+        <p></p>
+        
+        <p>
+        	Protecting your privacy is fundamental to our business at HRB  Digital LLC ("HRB Digital").
+            We recognize that 	the privacy of  personal information is important to our customers, and we strive
+            to operate  our business in a manner that justifies your choice of HRB Digital products and  services.
+        </p>
+        <p>
+        	This  privacy policy explains the types of personal information we may collect from  and about you,
+            as well as how we may disclose and protect that information when  you become a customer of HRB Digital
+            by utilizing our tax preparation software  or web-based tax preparation tools. Where we collect information
+            on this web  site for other purposes (such as when you locate an H&amp;R Block office online  or register
+            a software product with us for warranty purposes), the information  that is collected about you will be
+            governed by the "H&amp;R Block Online  Privacy Practices and Principles," which can be found
+            <a href="javascript:WinOpen_('http://www.hrblock.com/universal/privacy_policy.html',950,600);">HERE</a>.
+        </p>
+        <b style="text-decoration:underline">Who This Policy Covers</b><p></p>
+        <p>
+        	This policy applies to personal information we collect about customers and former customers of HRB 
+            Digital in connection with the provision of web-based and software-based tax preparation programs
+            and related services and other self-help software. If you are using these services online or otherwise
+            are transmitting information through our servers, this privacy policy and the
+         	H&amp;R Block Online Privacy Practices and Principles, which can be found
+            <a href="javascript:WinOpen_('http://www.hrblock.com/universal/privacy_policy.html',950,600);"> HERE</a>, will apply.   
+         	If you use any HRB Digital software product without connecting with our servers 
+         	or going online we will not collect or disclose information about you.  
+        </p>
+        <p>
+           This policy applies whether you are a current or former customer of HRB Digital. This policy does not
+           apply to H&amp;R Block tax preparation services provided at H&amp;R Block offices. This policy also
+           does not apply to our parent company, its affiliates or H&amp;R Block franchisees. These companies 
+           may be subject to different regulations and/or may have different operating practices. If you are 
+           doing business with these companies, you should consult their respective privacy policies.   
+        </p>
+        <b style="text-decoration:underline">Information We May Collect Online</b><p></p>
+       	<p>
+       		We collect certain personal information so that we may prepare your tax return.
+            This information typically includes, for example, your name, address and certain other data 
+            such as your social security number, income and deductions data, and other personal information
+            about you and your dependents that we need to prepare your tax return. This information may also
+            include system information, such as your operating system version, internet protocol (IP) address
+            and the number of times you electronically file using the software and the website from which
+            your tax return preparation originated. The Internal Revenue Service ("IRS") requires us to
+            collect certain system information in connection with electronic filing of tax returns. 
+       </p>
+       <p>
+       		We may collect personal information in connection with transactions other than tax return 
+            preparation that you complete or propose to complete with us.  This personal information may 
+            include, for example, your name, address and certain other "nonpublic personal information"
+            such as checking, debit and credit account numbers, balances and payment history, income and
+            assets. We may collect this personal information about you from you, the IRS, our franchisees,
+            our affiliates, and certain non-affiliated third parties such as credit reporting agencies. 
+       </p>
+       <p>
+       		The IRS requires HRB Digital to retain filed tax returns for a period of at least three years.
+            It is HRB Digital's policy that if you start, but do not complete, a tax return in our online
+            tax programs, we will generally keep the tax return information you provide until the end of
+            the tax season. 
+       </p>
+       <p>
+       		We assign a global unique identifier (GUID) when you use our web-based tax preparation products and
+            when you use our software to create a return. The GUID is a unique alphanumeric combination. While 
+            the GUID does not itself contain any data, in some cases it does allow us to match your information,
+            which may include personal information, with data collected by our software or through your use of
+            our web-based tax preparation products or the website. Generally, we look at the results of such
+            data matching on an aggregated basis and use the results to help us better understand your use
+            of our products and services. 
+       </p>
+       
+       
+        <b style="text-decoration:underline">How We May Disclose Information About You</b><p></p>
+        <p>
+        	H&amp;R Block's disclosure of personal information about you is controlled by various laws, 
+            regulations and other legal requirements, as well as HRB Digital policies. For example, 
+            the personal information we obtain to prepare your tax return is subject to specific legal 
+            requirements. We may disclose personal information that we collect, subject to the terms of
+            this privacy policy and consistent with applicable law. The examples contained in this notice
+            are illustrations; they are not intended to be exclusive. 
+       </p><p>
+        	Where permitted or required by law, we may disclose personal information about you for our normal
+            business purposes. For example, this may include disclosures to the Internal Revenue Service (IRS),
+            and for certain other lawful purposes where this disclosure is permitted by law (such as the processing
+            of your tax return). 
+        </p>
+       <p>
+        	Where permitted by applicable law, we may disclose your personal information to service providers who
+            perform business functions on our behalf (for services such as data processing and analysis, contest 
+            supervision, and direct mail or e-mail production). We require H&amp;R Block service providers to have 
+            written contracts that specify appropriate use of your personal information, require them to safeguard
+            your personal information, and prohibit them from making unauthorized or unlawful use of your personal information. 
+        </p>
+       <p>
+        	In certain situations involving personal information collected for tax return preparation, we are 
+            required to have your consent before we disclose this information to affiliates or other nonaffiliated
+            third parties. For example, if you have provided consent, we may disclose personal information about you
+            to H&amp;R Block affiliates engaged in offering banking, investment, credit cards or consumer loans, insurance
+            or other non-tax financial services in order to provide you with service enhancements and product 
+            opportunities that we believe may interest you. 
+        </p>
+       <p>
+        	We do not share your personal information with non-affiliated third parties for marketing purposes except
+            as permitted by applicable law or with your consent. We do not sell or rent your personal information to
+            third party direct marketers. 
+        </p>
+       <p>
+        	Where permitted by law, we may disclose your personal information to financial institutions with which we
+            have joint marketing agreements. We require all joint marketers to have written contracts with us that 
+            specify appropriate use of your personal information, require them to safeguard your personal information,
+            and prohibit them from making unauthorized or unlawful use of your personal information. If a state law
+            (or other law) requires us to give you the right to opt-out prior to any disclosure of your personal 
+            information for joint marketing, we will not disclose your personal information for such purposes without
+            providing such opt-out or obtaining your consent to such disclosure. 
+        </p>
+       <p>
+        	We may disclose your personal information to affiliates or non-affiliated third parties (including government entities)
+            when we have a good faith belief that such disclosure is required or permitted by law. This may occur, for example,
+            in connection with a court order, legal process, or other judicial, administrative or investigative 
+            proceeding, or other situations where the provision of certain information is required or permitted by law. 
+       </p>
+       <b style="text-decoration:underline">How We Protect Your Information </b><p></p>
+        
+       <p>
+        	H&amp;R Block maintains physical, electronic and procedural safeguards that comply with applicable law and 
+            federal standards and that are designed to restrict access to your personal information. These include
+            programs and specifications for physical security and records retention and disposal; computer and 
+            communication security measures reflected in system design, password protection, and data management
+            practices; and other measures to restrict access to the data we hold in physical and electronic forms. 
+        </p>
+       <p>
+       		When you enter personal information in our web-based tax programs, we encrypt that information using secure
+            socket layer (SSL) technology. When you use our online tax preparation tools, remember to sign out of your
+            account and close your browser window when you have finished your work. This is to ensure that others cannot
+            access your account by using your computer when you are away from it. Unfortunately, no data transmission
+            over the Internet can be guaranteed to be 100% secure. On portions of the website which are not encrypted
+            as discussed above, information that you disclose could be collected and used by others. 
+        </p>
+        
+        
+         <b style="text-decoration:underline">Updates or Changes to Your Personal Information</b><p></p>
+        <p>
+        	If you are a user of an HRB Digital web-based tax preparation products and certain personal account 
+            information (e.g., your e-mail address) changes, you may update the information by signing into your 
+            account. HRB Digital cannot change information in your filed tax return. You must file an amended tax 
+            return to make changes to a filed tax return.   
+        </p>
+        
+        <b style="text-decoration:underline">
+        	How You May Opt-Out of Information Sharing or Otherwise Control Use of Your Information</b><p></p>
+        <p>
+        	We give you choice and control over the use of your personal information. We provide you the opportunity
+            to opt-out of receiving communications from us and companies with which we do business. We also provide
+            you with the opportunity to opt-out of certain information sharing. You may not opt-out of the sharing 
+            of information that does not identify you personally. You may limit marketing communications from HRB 
+            Digital as follows.  
+        </p>
+       <p>
+        	Where permitted by law, HRB Digital may use information you provide (subject to your consent, where required) to
+           	communicate with you about products and services available through HRB Digital or third parties. If at any time
+            you wish to limit your receipt of such communications you may
+            <a href="http://www.taxcut.com/privacy/optout/optout.jsp?disp=1"> click here</a>. At your request
+            and subject to the limitations below, we will make reasonable efforts to limit all such marketing
+            communications to you. In addition, when we send you marketing emails, we will generally include
+            in each email a method to enable you to indicate your preference not to receive further emails. 
+      
+		</p>
+       <p>
+       		The above paragraphs only apply to personal information HRB Digital obtains through your use of HRB Digital
+            online tax programs and other software programs, so you could still receive offers through HRB Digital, 
+            its affiliates or franchisees where they obtain your contact information through other sources. In order
+            to opt-out from communications from our affiliates or franchisees, you may contact each such affiliate 
+            or franchisee separately in accordance with their policies. 
+        </p>
+ <b style="text-decoration:underline">Contact for Questions or Concerns</b><p></p>
+        <p>
+        	If you have questions or concerns regarding this privacy policy, contact HRB Digital by 
+       		<a href="http://www.taxcut.com/universal/privacy_contact.html">clicking here.</a> If you do not receive 
+            acknowledgment of your inquiry within 15 business days or your inquiry has not been satisfactorily addressed,
+            you may then contact TRUSTe at 
+        	<a href="javascript:WinOpen_('http://truste.org/consumers/watchdog_complaint.php',800,600);">http://truste.org/consumers/watchdog_complaint.php.</a>
+          	TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the
+           	Internet by promoting the use of fair information practices. Because HRB Digital wants to demonstrate its 
+           	commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices
+            reviewed for compliance by TRUSTe. 
+        </p>
+        
+        <p></p>
+       <p>
+        Policy effective date November 2008<br>
+TaxCut is a registered trademark of HRB Innovations, Inc.<br>
+© 2008  HRB Technology LLC. All rights reserved.<br>
+
+        </p>
+        
+    </div>
     <div class="pod_primary_footer_full_width"></div> 
             </div>                    
     
@@ -471,50 +451,81 @@ function findofficebyzip()
 <div class="footer">
   
     <noindex>
-    <div id="footer">
-    	<div align="center"><div class="main_nav_bg_ft"></div></div>   
-    	<div class="ft_hrb_logo">
-            <img src="/images/pixel.gif" border="0" usemap="#Map3" class="ft_hrb_logo_link">
-            <map name="Map3" id="Map3">
-              <area shape="rect" coords="0,0,117,41" href="http://www.hrblock.com" target="_blank" title="H&amp;R Block" alt="H&amp;R Block">
-            </map>
-    	</div>
-        <script language="javascript">
-		if (document.location.pathname.indexOf('/taxes/software/updates/prior_years/') > - 1)
-		{
-			document.write('<div style="float:right; height:44px; width:120px; margin:0 25px 0 15px;"></div>');			
-		}
-		else
-		{
-			document.write('<div class="ft_efile_logo"></div>');
-		}
-		</script><div class="ft_efile_logo"></div>    	
-    	<p>
-                <a href="/index.html">Home</a> | 
-                <a href="/taxes/online/index.html">TaxCut Online</a> | 
-                <a href="http://shop.taxcut.com/store/taxcut/DisplayHomePage">TaxCut Software</a> | 
-                <a href="/tax_tips/index.html">Tax Tips</a> | 
-                <a href="/customer_support/index.jsp">Customer Support</a> 
-                <br>
-                <a href="/taxes/software/updates/index.html">Software Updates</a> | 
-                <a href="/taxes/software/registration/index.html">Register Software</a> | 
-                <a href="/universal/about_us.html">About Us</a>
-                </p><p style="width:100%;border:0;height:0px; vertical-align:top;margin-top:-19px;">
-                <!--<a href="javascript:WinOpen_('http://www.surveymonkey.com/s.aspx?sm=rsWbhMF4lPTD1UvkefmNGA_3d_3d',672,682);">Comments and Suggestions</a> |--> 
-                <a href="http://www.hrblock.com" target="_blank">H&amp;R Block</a> | 
-                <a href="/universal/privacy_policy.html">Privacy Policy</a> | 
-                <a href="/universal/legal.html">Legal</a>
-                </p>
-        <p></p>
-        
-      	<p>Copyright © 2001-<script language="javascript">var now = new Date();document.write(now.getFullYear());</script>2020 
-            H&amp;R Block Digital Tax Solutions, LLC. TaxCut, WILLPower and DeductionPro are registered trademarks of H&amp;R Block. 
-            <br>
-      		All other products, brands, or services are trademarks of their respective owners. By accessing and using this page you 
-            agree to the <a href="/universal/legal.html">Terms of Service</a>.
-        </p>
-	<!-- end #footer --></div>
+
+<div align="center">
+    <div class="main_nav_bg_ft">
+    </div>
+</div>
+
+<div align="center" id="footer">
+    <span style="color: #009900; font-family: verdana; font-size: 11px; font-weight: bold;">
+    <table>
+    <tbody><tr>
+        <td align="left">
+            <table border="0">
+            <tbody><tr>
+                <td><b>Customer Support:</b></td>
+                <td align="left">&nbsp;&nbsp;<a href="/customer_support/browse_cs.jsp?pfid=1" title="Top Issues">Top Issues</a>&nbsp;&nbsp;<span style="color: #ffffff;">|</span>&nbsp;&nbsp;</td>
+                <td align="left"><a href="/customer_support/browse_cs.jsp?pfid=1&amp;section=before" title="Before Tax Preparation">Before Tax Preparation</a>&nbsp;&nbsp;<span style="color: #ffffff;">|</span>&nbsp;&nbsp;</td>
+                <td align="left"><a href="/customer_support/browse_cs.jsp?pfid=1&amp;section=during" title="During Tax Preparation">During Tax Preparation</a>&nbsp;&nbsp;<span style="color: #ffffff;">|</span>&nbsp;&nbsp;</td>
+                <td align="left"><a href="/customer_support/browse_cs.jsp?pfid=1&amp;section=after" title="After Tax Preparation">After Tax Preparation</a></td>
+            </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <table>
+            <tbody><tr>
+                <td><b>Software Updates:</b></td>
+                <td align="left">&nbsp;&nbsp;<a href="/taxes/software/updates/index.html" title="Current Year">Current Year</a>&nbsp;&nbsp;<span style="color: #ffffff;">|</span>&nbsp;&nbsp;</td>
+                <td align="left"><a href="/taxes/software/updates/prior_years/index.html" title="Past Year">Past Year</a></td>
+            </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+    </span>
+</div>
+
+<br>
+<br>
+<br>
+
+<div id="footer">
+
+  <div style="float:left;">
+    <div class="ft_hrb_logo">
+        <img src="/images/pixel.gif" border="0" usemap="#Map3" class="ft_hrb_logo_link">
+        <map name="Map3" id="Map3">
+          <area shape="rect" coords="0,0,117,41" href="http://www.hrblock.com" target="_blank" title="H&amp;R Block" alt="H&amp;R Block">
+        </map>
+    </div>
+  </div>
+
+    <script language="javascript">
+    if (document.location.pathname.indexOf('/taxes/software/updates/prior_years/') > - 1)
+    {
+
+    }
+    else
+    {
+        document.write('<div class="ft_efile_logo"></div>');
+    }
+    </script><div class="ft_efile_logo"></div>
+
+  <div align="center">
+    Copyright © 2001-<script language="javascript">var now = new Date();document.write(now.getFullYear());</script>2020
+    H&amp;R Block Digital Tax Solutions, LLC. TaxCut, WILLPower and DeductionPro are registered trademarks of H&amp;R Block.
+    All other products, brands, or services are trademarks of their respective owners. By accessing and using this page you
+    agree to the <a href="/universal/legal.html" title="Terms of Service">Terms of Service</a> and <a href="/universal/site_policy.html" title="Privacy Policy">Privacy Policy</a>.
+  </div>
+
+</div>
+
 </noindex>
+
+
 
 </div>
 <!-- END FOOTER DIV -->
@@ -563,7 +574,7 @@ var s_account = "";     //***Change this for the site***
 
 </script>
 
-<script type="text/javascript" src="/includes/omniture/omniture_std.js"></script><img name="s_i_hrblockglobal" height="1" width="1" border="0" alt="" src="https://smetrics.hrblock.com/b/ss/hrblockglobal,hrblocktcutcom/1/H.7-pdv-2/s87619716847791?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A43%3A8%205%200&amp;ns=hrblock&amp;pageName=taxcut%3Auniversal%3Aprivacy_policy&amp;g=https%3A//web.archive.org/web/20080509071827id_/http%253A//www.taxcut.com/universal/privacy_policy.html&amp;cc=USD&amp;ch=taxcut&amp;server=web.archive.org&amp;c1=universal&amp;v9=taxcut%3Auniversal%3Aprivacy_policy&amp;v12=taxcut&amp;v13=universal&amp;c19=taxcut%3Auniversal%3Aprivacy_policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/includes/omniture/omniture_std.js"></script><img name="s_i_hrblockglobal" height="1" width="1" border="0" alt="" src="https://smetrics.hrblock.com/b/ss/hrblockglobal,hrblocktcutcom/1/H.7-pdv-2/s82491751523654?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A43%3A15%205%200&amp;ns=hrblock&amp;pageName=taxcut%3Auniversal%3Aprivacy_policy&amp;g=https%3A//web.archive.org/web/20081207075336id_/http%253A//www.taxcut.com/universal/privacy_policy.html&amp;cc=USD&amp;ch=taxcut&amp;server=web.archive.org&amp;c1=universal&amp;v9=taxcut%3Auniversal%3Aprivacy_policy&amp;v12=taxcut&amp;v13=universal&amp;c19=taxcut%3Auniversal%3Aprivacy_policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 <script type="text/javascript">
 
