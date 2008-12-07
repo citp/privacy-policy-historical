@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626064001id_/http%3A//www.destination360.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207060358id_/http%3A//www.destination360.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
