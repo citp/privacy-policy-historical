@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053011id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207093849id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # ExposureRoom.com Privacy Policy
 
@@ -8,7 +8,7 @@ At ExposureRoom we recognize that privacy is important. This document outlines t
 
 By using or accessing ExposureRoom.com, you are accepting the practices described in this Privacy Policy.
 
-#### Information Colleted
+#### Information Collected
 
   * ExposureRoom collects personal information when you register for ExposureRoom or otherwise voluntarily provide such information. 
   * ExposureRoom uses cookies and other technologies to enhance your online experience and to learn about how you use ExposureRoom services in order to improve the quality of our services. 
