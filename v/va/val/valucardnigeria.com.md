@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605082507id_/http%3A//valucardnigeria.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208091506id_/http%3A//www.valucardnigeria.com/privacy.php) for the most accurate reproduction.*
 
 # ValuCard Nigeria
 
@@ -37,6 +37,6 @@ By sending us an electronic mail (e-mail) message, you may be sending us persona
 **Registering:**  
 Some of our Web sites ask visitors who request specific information to fill out a registration form such as recruitment, vendors looking for marketing opportunities by visiting our VALUCARD Acquisition Internet Service site may be asked to "register" to obtain email notices of business opportunities. Other information collected at Web sites through questionnaires, feedback forms, or other means, enables us to determine visitors' interests, with the goal of providing better service to our customers. 
 
-©2008 ValuCard Nigeria Plc.   
-All Rights Reserved.  
-
+© 2006 - 2008  
+ValuCard Nigeria Plc.  
+All Rights Reserved.
