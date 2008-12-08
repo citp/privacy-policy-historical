@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614235438id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208153214id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Annenberg Media: Privacy Policy
 
@@ -79,7 +79,7 @@ The electronic information our servers collect about visitors depends on what th
 >
 >> [info@learner.org](mailto:info@learner.org) (for general issues)  
 >  [channel@learner.org](mailto:channel@learner.org) (for questions related to the Annenberg Channel)  
->  [AnnenbergMedia@ordering.com](mailto:AnnenbergMedia@ordering.com) (for questions related to an online order you have placed) 
+>  [AnnenbergMedia@fpdirect.com](mailto:AnnenbergMedia@fpdirect.com) (for questions related to an online order you have placed) 
 >> 
 >> If you are unsure which email address to use, please use [info@learner.org](mailto:info@learner.org).  
   
