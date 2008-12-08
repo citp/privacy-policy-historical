@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yosmile.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624080752id_/http%3A//www.yosmile.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosmile.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208143320id_/http%3A//www.yosmile.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # YO Smile !::Privacy
 
