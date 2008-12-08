@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcrush.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515204620id_/http%3A//www.pcrush.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrush.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209000959id_/http%3A//www.pcrush.com/privacy.asp) for the most accurate reproduction.*
 
-# pcRUSH.com :: Privacy Policy
+# Privacy Policy | pcRUSH.com
 
 As our customer, your privacy is important to us. We will never share your personally identifiable information without your prior consent. We gather certain types of information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. Our Privacy Policy describes the types of information we gather and how we use them. 
 
