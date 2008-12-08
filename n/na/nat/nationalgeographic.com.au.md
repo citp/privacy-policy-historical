@@ -1,18 +1,80 @@
-> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024125634id_/http%3A//nationalgeographic.com.au/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208050601id_/http%3A//www.nationalgeographic.com.au/community/privacy.html) for the most accurate reproduction.*
 
-# National Geographic Channel
+# National Geographic Privacy Policy
 
-|  PRIVACY POLICY  
+| 
+
+What This Statement Covers
+
+| 
+
+Updated April 2005  
+  
+---|---  
+  
+This statement applies to www.nationalgeographic.com, the Web site of the National Geographic Society. For more information, please read our complete [Privacy Policy](https://web.archive.org/community/privacy_complete.html).  
+  
+  
+| 
+
+Your Personal Information
+
+|   
+---|---  
+  
+• In general, you can visit us on the Internet without telling us who you are or giving us personal information. There are times we may ask you to provide personal information, for example, to process an order, provide a subscription, or participate in a contest.
+
+• We may supplement this information with information obtained from other National Geographic services and other organizations.
+
+• We keep track of your interactions with our sites and our services to offer a more personalized experience.  
+  
+|  | 
+
+Uses of Information
+
+|   
+---|---  
+  
+• We use the information we collect to provide the services you request. Our services may include the display of personalized content and advertising.
+
+• We use your information to inform you of other products or services offered by National Geographic, our affiliates, and our licensees.
+
+• We may share information about you with selected other organizations for offers of their products and services.
+
+• We do not share your e-mail address with other organizations for offers of their products and services unless you allow us to do so.  
+  
+  
+| 
+
+Your Privacy Choices
+
+|   
+---|---  
+  
+• You may direct us not to send you promotional materials from National Geographic, our affiliates, and our licensees.
+
+• You may direct us not to share your information with selected other organizations for offers of their products and services.  
+  
+|   
+  
+
+
+How to Contact Us  
+  
 ---  
-**This privacy policy applies to all personal information which is given by You to Us ("Information") via the Website.**  
   
-  1. Information - When using the Website You may be asked to enter Information. The Information will only be used for the purposes explained when you have been asked to enter the Information and/or in accordance with this Privacy Policy.
-  2. Provision of Information to Third Parties – We will not sell or otherwise transfer the Information to unaffiliated third parties without Your approval. If applicable, You will have the opportunity to indicate whether You would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from Us and/or any third parties.
-  3. You must not post or transmit through the Website any defamatory, threatening, obscene, harmful or pornographic material or material which would violate or infringe in any way the rights of others (including intellectual property rights, rights of confidentiality, or rights of privacy) or cause distress or which do not comply with all relevant laws. You must not express opinions that are vulgar, crude, sexist, racist or otherwise offensive. We expect You to always treat other users with respect.
-  4. Cookies - You should be aware that information and data may be automatically collected through the use of "cookies". "Cookies" are small text files a website can use to recognise repeat users and allow Us to observe behaviour and compile aggregate data in order to improve the Website and to target its advertising. Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows You to deny or accept the cookie feature.
-  5. Updating or Removing Information - You may notify Us of any updates, amendments and corrections to previously collected Information by using the Feedback Form on the Website . Further, upon Your request, We will use commercially reasonable efforts to delete Your Information from our database; however, it may be impossible to delete a Your entry without some residual information because of backups and records of deletions.
-  6. Changes to this Policy – We reserve the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to You.
+Questions about this statement or National Geographic's privacy policy may be sent to:
 
+National Geographic Society  
+Attn: Marketing Services - Privacy  
+1145 17th Street NW  
+Washington, DC 20036-4688  
+
+
+You may also contact us by telephone at:
+
+**Toll-Free—U.S. and Canada only:** 800 NGS LINE (800 647 5463) or 800 548 9797 (TDD)  
+**Outside the U.S. and Canada:** +1 813 979 6845  
   
-|  |   
----
+  
+
