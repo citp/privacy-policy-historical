@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012057id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208135336id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
