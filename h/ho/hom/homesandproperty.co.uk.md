@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216220252id_/http%3A//es.homesandproperty.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208024643id_/http%3A//es.homesandproperty.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Homes and Property - Privacy policy
 
@@ -56,3 +56,5 @@ Northcliffe House
 London W8 5TT
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information.
+
+Published: 20 May 2007
