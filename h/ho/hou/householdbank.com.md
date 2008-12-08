@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the householdbank.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602221227id_/http%3A//www.householdbank.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the householdbank.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208162603id_/http%3A//www.householdbank.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
@@ -106,11 +106,11 @@ Back to Top
 
 Information Sharing with Non-Affiliates
 
-If you do not want us to share your non-public personal information with non-Affliates (unless permitted or required by law to do so), please let us know by calling 1-888-803-0279. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the credit card Account you have designated by Account number. And opt-out request by any party on a joint Account will apply to all parties on the joint Account. Opt-out requests will not apply to information sharing that is permitted by law. 
+If you do not want us to share your non-public personal information with non-Affliates (unless permitted or required by law to do so), please let us know by calling 1-888-803-0279. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the credit card Account you have designated by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account. Opt-out requests will not apply to information sharing that is permitted by law. 
 
   * Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our Affiliates.
   * You may limit our Affiliates in the HSBC group of companies, such as our insurance, consumer finance, and automobile finance Affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history with us, and your credit score.
-  * ? Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
+  * • Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
 
 
 
