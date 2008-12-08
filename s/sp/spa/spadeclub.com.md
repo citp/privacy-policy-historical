@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the spadeclub.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602120755id_/http%3A//www.spadeclub.com/sign-up/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spadeclub.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208015450id_/http%3A//www.spadeclub.com/sign-up/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpadeClub.com
 
-[ ](https://web.archive.org/web/20080602120755id_/http%3A//www.spadeclub.com/sign-up/print-terms-and-conditions)
-
-**Your online safety is of utmost importance to us.**
+**Your online safety is of utmost importance to us.  
+Click Here to print this page.**
 
 This is SpadeClub's Privacy Policy, which is effective as of March 10th, 2008, and describes how SpadeClub collects and uses information from the SpadeClub Service and the SpadeClub website. SpadeClub respects the privacy rights of our users and recognizes the importance of protecting the information collected about you. SpadeClub uses your data to administer your account, provide information of interest to you, and to communicate with you. SpadeClub stores your data in the United States, and our use of your data is subject to this privacy policy. This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail. If you have any questions regarding the Privacy Policy, or wish to contact us, please send an email to **[support@spadeclub.com](mailto:%73%75%70%70%6f%72%74@%73%70%61%64%65%63%6c%75%62.%63%6f%6d)**. 
 
