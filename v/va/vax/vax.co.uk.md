@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513165257id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208151015id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
 
 # Vax - Privacy policy
 
 [](https://web.archive.org/)
 
   
-Vax has a comprehensive range of cleaning products including Vax vacuum cleaners, [upright vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/upright-vacuum-cleaners), [cylinder vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/cylinder-vacuum-cleaners), [carpet washers](http://www.vax.co.uk/vax/vacuum-cleaners-range/carpet-washers), [multifunction vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/multifunction-vacuum-cleaners), [handheld vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/handheld-vacuum-cleaners), [outdoor vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/outdoor-vacuum-cleaners) and [steam vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/steam-washers). View all our vacuum cleaners including the recently launched [Vax Mach range](http://www.vax.co.uk/vax/vacuum-cleaners-range/upright-vacuum-cleaners/mach-vacuum-cleaner-range) and find out more information. 
+Vax offers a complete range of vacuum cleaners designed to suit every need. Our ranges include [upright vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/upright-vacuum-cleaners), [cylinder vacuum cleaners](http://www.vax.co.uk/vax/vacuum-cleaners-range/cylinder-vacuum-cleaners), [carpet washers](http://www.vax.co.uk/vax/vacuum-cleaners-range/carpet-washers), [multifunction models](http://www.vax.co.uk/vax/vacuum-cleaners-range/multifunction-vacuum-cleaners) [and handhelds](http://www.vax.co.uk/vax/vacuum-cleaners-range/handheld-vacuum-cleaners). You can view all our vacuum cleaners, including the recently launched 'no loss of suction' [Vax Mach range](http://www.vax.co.uk/vax/vacuum-cleaners-range/upright-vacuum-cleaners/mach-vacuum-cleaner-range), online. 
 
 This privacy statement is provided by Vax Limited (referred to as 'Vax' in these terms) for the information of visitors ('you' or 'your') to its vax.co.uk website. Vax Limited is committed to ensuring that your privacy is protected. This privacy statement explains how Vax uses the information collected about you and how you can instruct Vax if you prefer to limit the use of that information. In these terms, 'third parties' means persons, firms or companies that are not subsidiary or associated or joint venture companies of Vax Limited.
 
@@ -113,12 +113,12 @@ Vax Limited, Quillgold House, Kingswood Road, Hampton Lovett, Droitwich, Worcest
 
 Featured Vax
 
-[](https://web.archive.org/shop/cylinder-vacuum-cleaners/V-100_Vax-Pro)
+[](https://web.archive.org/shop/carpet-washers/Vax-V-023_Rapide-Supreme)
 
-#### **V-100 Vax Pro**
+#### **Vax V-023 Rapide Supreme**
 
-#### Bagged Cylinder
+Perfect for stairs
 
-5 year parts and 2 year labour warranty
+On board wash tool refreshes stairs, upholstery and car interiors
 
-[](https://web.archive.org/shop/cylinder-vacuum-cleaners/V-100_Vax-Pro)
+[](https://web.archive.org/shop/carpet-washers/Vax-V-023_Rapide-Supreme)
