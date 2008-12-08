@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609131026id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208115821id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - BizReport
 
-This is the web site of BizReport Network. Our postal address is Bernstorffsvej 86; DK-2900 Hellerup, Denmark.
+This is the web site of BizReport Network. Our postal address is Strandvejen 100, DK-2900 Hellerup, Denmark.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -22,4 +22,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+If you feel that this site is not following its stated information policy, you may contact us at the above address.
