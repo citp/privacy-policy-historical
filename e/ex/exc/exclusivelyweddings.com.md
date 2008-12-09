@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2008-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080108112006id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209025958id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
 
 # Wedding Favors, Invitations and Accessories from Exclusively Weddings
 
@@ -41,19 +41,19 @@ For your convenience, we have provided several ways in which you can reach us. C
 **By Telephone:**
 
 **To Place An Order: 1.800.759.7666**  
-8:30 am - 10:30 pm Monday - Thursday  
+8:30 am - 9:00 pm Monday - Thursday  
 8:30 am to 8:00 pm Friday  
 11:00 am to 4:00 pm Saturday and Sunday  
 Eastern Time
 
 **Customer Service: 1.800.759.7666**  
-8:30 am - 10:30 pm Monday - Thursday  
+8:30 am - 9:00 pm Monday - Thursday  
 8:30 am to 8:00 pm Friday  
 11:00 am to 4:00 pm Saturday and Sunday  
 Eastern Time
 
 **By Fax:**  
-Fax your questions or your order to us anytime at **336.389.5105**. Please include a phone number where we can reach you during business hours.
+Fax your questions or your order to us anytime at **336.275.4165**. Please include a phone number where we can reach you during business hours.
 
 **Email:**  
 [service@exclusivelyweddings.com](mailto:service@exclusivelyweddings.com)
