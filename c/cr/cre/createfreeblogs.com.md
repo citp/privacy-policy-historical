@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createfreeblogs.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501063650id_/http%3A//www.createfreeblogs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createfreeblogs.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209021304id_/http%3A//createfreeblogs.com/privacy.php) for the most accurate reproduction.*
 
 # Create Free Blogs ~ Privacy Policy
 
