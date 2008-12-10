@@ -1,114 +1,193 @@
-> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2005-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050222103319id_/http%3A//gotmortgage.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210232421id_/http%3A//gotmortgage.com/Privacy_policy.htm) for the most accurate reproduction.*
 
-# Gotmortgage.com Real Estate News - Real Estate News
+# Welcome to Gotmortgage.com Wholesale Lending
 
-> ###  Your privacy is important to us, which is why we work hard to protect it. The information that you provide us is always kept in the strictest confidence. We have no intention of selling your non-public personal information to any non-affiliated third parties. We make this commitment to you with pride because your trust is the foundation of our business. To protect your privacy and maintain your confidence in us, we have developed the following polices. These policies describe the strict standards we have in place to protect your confidentiality. Therefore, we ask you to please read this information carefully. We will tell you the sources of non-public personal information we collect from you. We will then tell you what steps we take to protect that information. We first define some terms used in this notice:
-> 
->   * "We", "our" and "us" mean Gotmortgage™, Got Mortgage™, Gotmortgage.com™
-> 
->   * "You" and "your" mean those consumers who have provided us with non-public personal information for the purpose of determining whether he or she qualifies for a mortgage loan, and those customers who have obtained real estate settlement services from us. 
-> 
->   * "Non-public personal information" means personally identifiable financial information about you that we collect in connection with providing a financial product or service to you. This does not include information that is available from public sources, such as government real estate records. 
-> 
->   * "Affiliate" means a company we own or control, a company that owns or controls us or a company that is owned or controlled by the same company as us. 
-> 
->   * "Non-affiliated third party" means a company that is not an affiliate of ours.
-> 
-> 
+Overview
 
-> 
-> We collect non-public personal information about you from the following sources: information that we receive from you on applications or other forms; information about your transactions with us, our affiliates or others; and information we receive from a consumer reporting agency. We do not disclose any non-public personal information about our consumers, customers or former customers to anyone, except as permitted by law. We restrict access to non-public personal information about you to those employees who need to know that information to provide the requested products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your non-public personal information. If you have any questions regarding our privacy policy, please call us at 1-877-LOAN-976 ext 4542.
-> 
-> Information we collect **.** When you visit Gotmortgage.com, or any of its affiliated websites, you complete a simple application that includes certain personal and financial information about you, including your name, phone number, social security number, email address, income and other financial information depending on your expressed loan preference. This information will not be shared or sold to any person or organization, except as authorized by you, to our authorized loan officers, or as may be required by law or court order.
-> 
-> If you email us, your name and other identifying information will not be sold or shared with any person or organization. However, your email address or telephone number may be used by authorized Gotmortgage.com™ employees to contact you concerning your comments or questions. 
-> 
-> The "B2B Solutions" section of our site contains information for other companies who wish to join one of our partnership programs. The "[Affiliate Program](http://www.bluemortgage.com/affiliatesignup.html)" sub-section contains information for other companies who wish to join the Gotmortgage.com™ Affiliate Program and advertise our service on their site. If you would like to be an affiliate, you may submit an application containing personal information, such as your name, email address, telephone number and address. You will receive an email from Gotmortgage.com indicating whether you have been approved to participate in the Affiliate Program. If approved, we will use your email address to inform you of Affiliate Program news and updates. You may withdraw your membership from the Program at any time by sending an email to: [ affiliates@Bluemortgage.com](mailto:affiliates@bluemortgage.com). If you choose to withdraw, you will not receive any further emails regarding the Affiliate Program.
-> 
-> If you use Gotmortgage.com’s service through an affiliate site, under no circumstances will an affiliate ever see your information. Gotmortgage.com will never sell or share your information with an affiliate. All transactions take place on Gotmortgage.com’s servers; please see our “Security Statement” for more information on how we protect the integrity of your data. 
-> 
-> If you use Gotmortgage.com’s service through one of our private-labeled sites, the partner company will report certain information about your loan to Gotmortgage.com, and Gotmortgage.com will treat that information in the same manner with which we treat personal information entered on our site. All of our partners operate under federal and/or state laws and regulations and believe, as we do, that the Internet is an exciting and secure place to do business. However, as some of our partners may keep and use your information, we recommend that you contact them directly for more information about their specific privacy policies.
-> 
-> **Security Statement**
-> 
-> Secure web pages. All of the pages on our website that ask for your personal information are delivered to your browser through HTTPS, a secure server communications layer. To verify the security of a page, look for the “lock” (in Internet Explorer) or “key” icon (in Netscape) on your browser. 
-> 
-> Encryption technology. When you send your personal financial information to Gotmortgage.com, it is protected by the Secure Sockets Layer (SSL) system. SSL prevents anyone from intercepting or reading your personal information by encrypting, or translating, the data into a string of gibberish characters. Only we can decode the encryption.
-> 
-> Firewall protection. Your financial information is not kept on our web server, but on a different computer that is separate from the Internet. Even in the unlikely event that our website is “hacked,” your data will still remain safely out of reach. 
-> 
-> Password protection. To obtain any information about your loan status, you are required to enter a username and password. This procedure is in place to prevent unauthorized users from accessing your account and personal information.
-> 
-> _Cookies & Browsers _
-> 
-> This site uses a feature of your browser called a "cookie' to assign a "User I.D.". Cookies, by themselves, cannot be used to find out the identity of any user. Your Gotmortgage™ User ID automatically identifies your computer - but not you - to our servers when you visit Gotmortgage.com. or other Got Mortgage™ Web sites. Unless you specifically tell us who you are (for example by completing an application), if you are just browsing our site, we will never know who you are even though we assign you a cookie. This site contains links to other sites. If you use a link to visit the site of another company, we cannot be responsible for the privacy practices or the content of that company or its site.
-> 
-> If you have any questions about privacy, security or applying online, please call us at 1-877-LOAN-976 ext.4542 or email us at [ info@Gotmortgage.com](mailto:info@Gotmortgage.com). We would be happy to take your application over the phone, via fax or mail.  
->   
-> 
-> **Other Ways to Protect Your Privacy**
-> 
-> _Marketing Lists_
-> 
-> You can reduce the amount of marketing material and credit applications you receive via mail, telephone or e-mail by writing the Direct Marketing Association at the addresses listed below. You must provide your name, address and telephone number with your request.
-> 
-> Mail Preference Service  
->  c/o Direct Marketing Assn.  
->  P.O. Box 9008  
->  Farmingdale, NY 11735-9008
-> 
-> Telephone Preference Service  
->  c/o Direct Marketing Assn.  
->  P.O. Box 9014  
->  Farmingdale, NY 11735-9014
-> 
-> E-mail Preference Service  
->  [www.e-mps.org](http://www.e-mps.org/)
-> 
-> _Identity Theft_
-> 
-> Identity theft is a serious and growing problem. If someone has fraudulently used your identification to establish credit, report the incident as quickly as possible to each of the credit reporting agencies listed below and ask that a fraud report be placed on your file.
-> 
-> Experian
-> 
-> |  | 
-> 
-> 888-397-3742  
->   
-> ---|---|---  
->   
-> Equifax
-> 
-> | 
-> 
-> 800-525-6285  
->   
-> Trans Union
-> 
-> | 
-> 
-> 800-680-7289  
->   
-> You may also check to see if any additional credit accounts have been opened without your consent or whether unauthorized charges were billed to your accounts. Contact these credit reporting agencies to obtain a copy of your credit report.
-> 
-> Experian
-> 
-> |  | 
-> 
-> 888-397-3742  
->   
-> ---|---|---  
->   
-> Equifax
-> 
-> | 
-> 
-> 800-685-1111  
->   
-> Trans Union
-> 
-> | 
-> 
-> 800-916-8800  
->   
-> Please note that this contact information is being provided as a service to you. Got Mortgage™ is not affiliated with any of these services and cannot guarantee their effectiveness.
+You take your privacy seriously and so does gotmortgage.com We are a company committed to protecting the personal information and privacy of our customers. This statement is one way of sustaining your trust in our company, our products and our services.
+
+Privacy (Website Visitors)
+
+Our Online Privacy Statement describes how we collect, protect and use information about you either during your visit to our web site or when you are a gotmortgage.com customer.
+
+Information We Collect About You during Your Online Visit
+
+Website Visitors / Registered Users
+
+When you browse our site as a visitor or are a registered user of this website, we may collect and store information about your online visit (see cookies). This information may include the time and length of your visit, the pages you view on our site, the last site you visited before coming to ours, and the name of your internet service provider.
+
+We use this data on an aggregate basis to measure site activity, and on an individual basis to make the site more useful and provide information that may be of interest to you.
+
+Registered Users Only
+
+Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the Information Collection and Sharing Practices for Existing Customer section for more information.
+
+As a registered user, you may use the website to:
+
+•           Provide information to us about you when you complete an online application or other form 
+
+•           Provide information to us about you during web page registration 
+
+•           Provide information to us about you during personal profile updates 
+
+Security Statement
+
+About our Website(s)
+
+Cookies
+
+We may use Web cookies for security purposes to recognize your computer when you log into your account. We may also make use of Web cookies or similar data on certain parts of our Web site for fraud prevention and other purposes. If you disable your Web browser's ability to accept our Web cookies, it may not be possible for you to access your online account.
+
+Passwords
+
+Your access to certain portions of our Web site may be protected with an individualized username and password. Your username and password are confidential and personal to you, and should never be disclosed or shared with anyone else.
+
+Timed logout
+
+Certain portions of our Web site may be protected with a timed-logout feature. This can help protect your account from being viewed or used by others if your computer becomes unattended.
+
+Encryption
+
+We may use encryption to protect your information as it travels across the Internet. This can help prevent others from eavesdropping on your browser sessions with our Web servers.
+
+Firewalls
+
+Our Web site may be protected with firewall technology, which can help prevent your account information and our Web site from being improperly accessed.
+
+Surveillance
+
+Certain portions of our Web site are monitored by advanced surveillance and logging technologies. These technologies can help to ensure that both your information and our Web servers are protected from compromise.
+
+Information Collection and Sharing Practices for Existing Customers
+
+Existing Customer/Registered Users
+
+If you are a gotmortgage.com customer details about the information we collect and how it may be disclosed is contained in our Privacy Notice, which includes additional information regarding your privacy choices. Briefly, we collect information about you for example, when you:
+
+•           Apply for a loan 
+
+•           Make your monthly payment 
+
+We also collect personal information from you or others, such as credit bureaus, affiliates, employers, or others
+
+Information We Share About Our Existing Customers
+
+The information contained in this section applies to gotmortgage.com customers
+
+We may collect and subsequently share personal information about you to:
+
+•           Run our everyday business 
+
+•           Respond quickly to customer needs 
+
+•           Help us communicate with you 
+
+•           Evaluate eligibility for additional products and services that may be of interest to you 
+
+What We Share
+
+We may share personal information that includes, but is not limited to your:
+
+•           Name, address, and other account application information 
+
+•           Account balances, transactions, and payment history 
+
+•           Creditworthiness including credit history and credit score 
+
+With Whom We Share
+
+We disclose some of the information we collect about you to third parties such as credit reporting agencies, regulators and loan investors. These types of third parties are called non-affiliated third parties.
+
+We may also share some of this information with companies performing services on our behalf such as the vendor who prepares and mails our monthly statements. These types of vendors are called service providers.
+
+We may share information we collect about you with companies with whom we have formal agreements to offer you financial products and services. These types of relationships are called joint marketing partnerships.
+
+Finally, we may share information we collect about you with companies related by common control  to offer you products and services that may be of interest to you. These types of companies are called affiliates.
+
+Benefits of sharing
+
+We need to collect and share information about our customers to help us communicate with you.
+
+We also may share customer and former customer information within our gotmortgage.com family and with valued partners (our employees) to evaluate eligibility, offer and recommend valuable products and services that may be right for you.
+
+Customer Information Sharing Choices/Opt Out
+
+Federal Law
+
+Federal law requires us to tell you how we collect, share, and protect personal information about our customers. While Federal law allows us to share information about you to run our business, to perform services and offer our products, Federal law also gives you the right to limit some, but not all, sharing of your personal information.
+
+Specifically, Federal law allows you to opt out/restrict us from sharing information as follows:
+
+•           About your credit worthiness with our affiliates 
+
+•           To non-affiliates to offer you their products and services 
+
+State Laws
+
+State laws may give you additional rights regarding our information sharing limitations.
+
+We share personal information about you as permitted by the law of the state in which you reside and in accordance with federal law. As a customer of gotmortgage.com you received our Privacy Notice when you became our customer and you will receive our updated annual Privacy Notice each year you continue to be our customer.
+
+You can limit us from sharing your information as permitted by law and as described in our Privacy Policy at any time by advising us of your Opt Out choices and how you do not want your information shared by calling 1-877-562-6976. You may notify us of your choices at any time.
+
+If your past choices have not changed, you only need to tell us one time, as long as you have your account with us.
+
+Customer Data Protection
+
+We are a company committed to securing personal information and protecting the privacy of our customers. We use security measures that comply with federal law including assessing risk and using reasonable controls to protect customer information
+
+Our company culture is to treat customer information the way we would want our own information treated. We train employees on handling and securing customer data to maintain a culture of protection and security. It is the responsibility of every associate, affiliate, and nonaffiliate to care for personal information about our customers.
+
+Correcting Information
+
+We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide customers with access to account information in different ways, for example, over the telephone, online or on paper.
+
+If you are a registered user of this website, you may be able to update some information online. You will need to log-into your account in order to utilize this feature.
+
+How to contact us regarding your account:
+
+U.S. Mail:
+
+GotMortgage Customer Care
+
+17220 Newhope St. Suite 213 
+
+Fountain Valley, CA 92708 
+
+Telephone: 1-877-562-6976
+
+Email: info@gotmortgage.com 
+
+Policy Effective Date
+
+This Online Privacy Statement is effective May 25th, 2008 and remains in effect until amended. Gotmortgage.com reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. We will post any alterations to this Privacy Statement on our web site in a timely manner so please check periodically.
+
+Identity Theft / Fraudulent Activities
+
+Identity Theft/Fraud
+
+Identity Theft occurs when someone uses sensitive information, called Personally Identifiable Information (or PII) of another person without their permission to commit fraud or other crimes, such as Account Takeover or Application Fraud. [Account Takeover has occurred when an individual acquires another person's existing credit account information and purchases products and services at the victim's expense. Application Fraud has occurred when an individual uses another's Social Security Number or other Personally Identifiable Information to open new credit accounts in the victim's name.]
+
+If you believe you are a victim of Identity Theft, contact the three major credit bureaus to place a fraud alert message on your credit file. When you place a fraud alert on your file, the credit reporting agencies will send you a copy of your credit report at no charge.
+
+•           Experian (1-888-397-3742) 
+
+•           Equifax (1-800-525-6285) 
+
+•           TransUnion (1-800-680-7289) 
+
+Carefully review your credit reports for: accounts you did not open, inquiries from creditors you did not initiate, and for personal information (such as home address and social security number) that is not accurate. If you see anything you do not understand or any accounts you did not open, call the credit reporting agency at the telephone number on the report.
+
+If you decide not to place a fraud alert on your credit file, you can still obtain free copies of your credit report by going to the following Annual Credit Report website (www.annualcreditreport.com) or by calling them toll-free at 1-877-322-8228. (Hearing impaired consumers can access their TDD service at 1-877-730-4204.
+
+To learn more about identity theft, visit the Federal Trade Commission's web site to receive further information and insights about how to protect your identity from identity thieves.
+
+Identity Theft Hotline: 877-438-4338
+
+Web: www.consumer.gov/idtheft
+
+Mail: Identity Theft Clearinghouse,
+
+Federal Trade Commission
+
+600 Pennsylvania Ave., N.W., Washington, DC 20580
