@@ -1,120 +1,123 @@
-> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410084333id_/http%3A//www.publicbackgroundchecks.com/PrivacyPolicy.aspx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210172725id_/http%3A//www.publicbackgroundchecks.com/PrivacyPolicy.aspx%3F) for the most accurate reproduction.*
 
-# Public Background Checks - Get Public information about friends, family, and other matters
+# Privacy Policy | Public Background Checks
 
-    | 
+**PublicBackgroundChecks.com  
+Last Updated: September 29, 2008**
 
-##  PRIVACY POLICY
+At PublicBackgroundChecks.com we respect and protect user privacy. Our Privacy Policy relates to how we handle personal identifiers you give us; the data we gather, how we might use that data, and how data may be shared; and the options available to you regarding usage and disclosure. 
 
-**Last Updated: August 17, 2007**
+Please read the Policy in its entirety. If you use PublicBackgroundChecks.com services or subscribe to offers or emails, you thereby accept the contents of and agree to comply with the Policy. PublicBackgroundChecks.com' reports are not consumer reports, and acceptance of the Policy means you will not use said reports for any purpose protected by the Fair Credit Reporting Act (15 U.S.C. ¤1681, et seq.). 
 
-PublicBackgroundChecks.com respects the privacy of our users and we have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you our treatment of personally identifiable information that you provide to us as a user of PublicBackgroundChecks.com or our services, or otherwise provide to us through other means such as e-mail marketing from us or our partner web sites, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  
-We encourage you to read this Privacy Policy carefully when using our web site or services or transacting business with us. By using our web site, including, without limitation, signing up for offers and/or continuing to receive information from PublicBackgroundChecks.com, you are accepting the practices described in this Privacy Policy, and you are acknowledging that we are not providing you with a consumer report, and are certifying that you will not use the information obtained from us for any purpose covered by the Fair Credit Reporting Act (15 U.S.C. §1681, et seq.).  
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+Please [contact us](https://web.archive.org/web/20081210172725id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com' privacy practices. 
 
-**1\. Information we collect about you**   
-_In General_. We may collect personal information that can identify you, such as your name and e-mail address, and other information that does not identify you. 
+1\. Information we collect: Users We may collect personal information, including name and e-mail address, as well as other information not personally identifiable. 
 
-  * **Information you provide**. We may collect, sell, or share any personal information you enter on our web site or provide to us in some other manner, including through e-mail marketing by us, and our partners and affiliates. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information) (Please see "[How we protect your personal information](https://web.archive.org/web/20080410084333id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx?popup=true#g)", below). 
-  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from our partners and affiliates, and other third parties, and add it to our account information or other information we have collected.
+  * **Information provided by you.** We may collect, sell, or share any personal information you enter on our web site or provide to us in some other manner, including through e-mail marketing by us, and our partners and affiliates. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). (Please see " _How we protect your personal information_ ", below). 
+  * **Information provided by third party sources.** Periodically we may acquire - from partners, affiliates or other third parties - personal and/or non-personal information about you. We add it to other information we have collected. 
 
+_Using cookies:_
 
+We use various technologies to gather information from your computer and about your activities on our web site. 
 
-_Use of cookies and other technologies to collect information_. We use various technologies to collect information from your computer and about your activities on our web site.
-
-  * **Information collected automatically.** We automatically collect information from your browser when you visit our web site. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "[Cookies](https://web.archive.org/web/20080410084333id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx?popup=true#cookies)", below), and the referring web site address.
-  * **Cookies**. We may employ "cookies" to help customize your access to our web site, and also for the delivery of targeted advertisements. A cookie is a piece of data stored on your hard drive containing information about you. Through the use of a cookie, we may automatically collect information about your online activity on our web site, such as the web pages you visit, the links you click, and the searches you conduct on our web site. Cookies have many benefits to enhance your experience at our web site and to facilitate the receipt of targeted advertisements. For instance, by setting a cookie on our web site, you do not have to log in a password more than once, thereby saving time while on our web site. Even in the case where you reject a cookie, you may still use our web site. We use cookies to track, monitor and target the interests of our users to further enhance the experience on our web site, and for subsequent advertising and/or delivery purposes. To find out more about cookies, please visit <http://www.cookiecentral.com/>.
-  * **Other Technologies.** For the purpose of formatting and delivering future marketing or sales campaigns (either electronic or direct), we may employ pixel tags (also known as clear gifs) to track: 1) the pages that our users visit on affiliate and/or partner web sites; and 2) user opens of, and clicks on, our targeted e-mail advertising. We reserve the right to employ user source information, including applicable category and interest(s), for the marketing of targeted e-mail messages on behalf of our clients. This source information may be shared with our third party marketing partners, and we reserve the right to retain cookie and pixel tag data indefinitely.
-  * **Information collected by third-parties.** We may also work with other businesses to bring select retail opportunities to our users from us, our partner web sites, or our marketing partners, including affiliated third party advertisers. These e-mail campaigns may use tracking technologies, such as cookies, to collect information about users who view or interact with the e-mail marketing material. Users may remove themselves from a specific mailing list by utilizing the unsubscribe options that are present at the end of each e-mail we send on behalf of the list owner. Unsubscribing from one list will not automatically unsubscribe a user from all lists.
+  * We automatically gather information from your browser when you visit us, including your IP address, browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies", below), and the referring web site address. 
+  * We may use "cookies" to customize your access to our web site, as well as for delivering targeted ads. A cookie is simply a piece of data stored on your hard drive containing information about you. They allow us to automatically collect information about activity on our site, including what pages you view or what search you buy. Cookies improve your experience at PublicBackgroundChecks.com help target advertisements. Cookiecentral.com is a good site to visit to learn more about this great web surfing tool.
+  * To format and deliver future ad campaigns, we may use pixel tags (also known as clear gifs) to track what pages people visit and how often. This tells us what is popular and marketable, and we reserve the right to use this information for targeted campaigns or e-mail messages on behalf of our clients. We may share information with our third party marketing partners. Cookie and pixel tag data may be retained indefinitely. 
+  * Other businesses may aid PublicBackgroundChecks.com in bringing retail opportunities to our users or those with whom we partner. These campaigns may utilize any of the above listed tracking technologies to collect data about users viewing or interacting with e-mail marketing materials. To remove oneself, a user can utilize unsubscribe options located at the end of e-mails we send. Unsubscribing is good for the specific campaign, not necessarily all emails that PublicBackgroundChecks.com sends out. 
 
 
 
-**2\. How we use the information we collect**  
-_In general_. We may use information that we collect about you to:
+**2\. The information and how we use it**
 
-  * deliver the products and services that you have requested;
-  * manage your account and provide you with customer support;
-  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our partners and affiliates, or other third parties; 
-  * develop and display content and advertising tailored to your interests on our web site and other sites;
-  * enforce our terms and conditions;
-  * manage our business; and
-  * perform functions as otherwise described to you at the time of collection.
-
+  * To get you the services you requested; 
+  * To offer customer care and assistance; 
+  * To analyze how users access, utilize and navigate our web site; 
+  * To communicate with you
+  * To customize your experience on our web site; 
+  * To make sure our terms of service are observed
+  * To manage company operations
+  * To render any other necessary operations as part of servicing your account 
 
 
-_Financial information_. We may use financial information or payment method to process payment for any purchases made on our web site, to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.  
-_Job applicants_. If your personal information is submitted through our web site when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our partners and affiliates for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.  
-Please review "[Your choices about collection and use of your information](https://web.archive.org/web/20080410084333id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx?popup=true#f)", below.
+
+_Financial information._ Your credit card information may be used to make any purchases on our web site, for credit card pre-qualification, and various other offers you express interest in. This helps PublicBackgroundChecks.com identify fraudulent charges as well as oversee the operations of our business. 
+
+_Job applicants._ If you apply for a job with PublicBackgroundChecks.com through our web site, we keep your data on file for that use only. We may share it with affiliates and partners, maximizing your opportunity to work with us if you're a good match. We may also use your resume to help analyze the way we advertise our career opportunities. We won't sell your information to anyone. 
 
 **3\. With whom we share your information**   
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.  
-_Personal information_. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+PublicBackgroundChecks.com does not share your personal information except as described in the following possible scenarios. That said, we give you an opportunity to opt out of sharing this personal information. Parties with whom we may share data: 
 
-  * **Authorized service providers** : We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include sending direct and electronic mail, removing duplicate information from user lists, analyzing data, providing marketing analysis, and supporting our web site functionality.  These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * **Business partners** : We may collect, sell, or share any personal information you enter on our web site or provide to us in some other manner, including via e-mail marketing. We may also work with other businesses to bring select retail opportunities to our users via e-mail marketing campaigns by us, or our partner web sites/co-brands, or our marketing partners, including affiliated third party advertisers. The other businesses we work with may include: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. When you open, preview or click on the advertising portion of our e-mails and/or those of our marketing partners and/or affiliates, you have agreed to the terms set forth in our Privacy Policy, and agree that as a function of opening, previewing or clicking on the advertising portion of our e-mails, you will receive new or additional marketing communications from us, our marketing partners and/or affiliates. These e-mail campaigns may use tracking technologies, such as cookies, to collect information about users who view or interact with the e-mail marketing material. There are a number of places on our web site and in e-mail campaigns where you may click on a link to access other web sites that do not operate under this Privacy Policy. These third-party web sites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those web sites. We recommend that you consult the privacy statements of all third-party web sites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
-  * **Direct mail partners**. From time to time we may share our e-mail/postal mailing list with selected providers of goods and services that may be of interest to you.
-  * **E-mail lists.** Users may remove themselves from a specific mailing list by utilizing the unsubscribe options that are present at the end of each e-mail we send on behalf of the list owner. Unsubscribing from one list will not automatically unsubscribe a user from all lists.
-  * **Other Situations**. We also may disclose your information:
-    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our web site terms and conditions or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information which you provide to us is an asset of the company and may be included in the assets transferred in the event of a substantial corporate transaction.
-    * When we deem it necessary or appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, the Federal Trade Commission’s enabling regulations, and the Fair Credit Reporting Act (15 U.S.C. §1681 _et seq_.).
-
-
-
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the web sites of those third parties. These entities or their servers may be located either inside or outside the United States.  
-_Aggregated and non-personal information_. We reserve the right to provide aggregate or group data about PublicBackgroundChecks.com users for lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of PublicBackgroundChecks.com participants as a group, without disclosing personally identifiable information. By opening a PublicBackgroundChecks.com account, you agree to allow PublicBackgroundChecks.com to provide such aggregate data to third parties. By agreeing to these terms, you hereby consent to the disclosure of any record or communication to any third party when PublicBackgroundChecks.com, in its sole discretion, determines the disclosure to be appropriate.
-
-**4\. Third-party reports**   
-The information contained in our reports comes from proprietary sources and third party suppliers, and is beyond our control to edit, modify, or change.  You acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such information.
-
-**5\. How you can access your information**   
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account http://PublicBackgroundChecks.com/Acc_Records.asp. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
-
-**6\. Your choices about collection and use of your information**   
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our web site because such information may be required in order for you to have personalized recommendations presented to you; register as a user; purchase products or services; ask a question; or initiate other transactions on our web site.  
-At any time you can choose to no longer receive commercial or promotional e-mails or newsletters from us by unsubscribing.  In every marketing e-mail communication we send, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from that specific marketing program by simply clicking the hyperlink provided and following the instructions provided. We attempt to process all such unsubscribe requests in a prompt fashion. However, after unsubscribing, we cannot guarantee that you will never receive another marketing mailing from us, because we may obtain your e-mail address in the future through a different e-mail marketing program that you have opted into. We can guarantee, however, that if you should ever receive another e-mail marketing communication from us, you will be able to remove your e-mail address via the unsubscribe hyperlink. Unsubscribing from one marketing list will not automatically unsubscribe a user from all marketing lists. We may send you other types of transactional and relationship e-mail communications, such as service announcements and administrative notices, without offering you the opportunity to opt out of receiving them.
-
-**7\. How we protect your personal information**  
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. When users submit information at our web site, their information is protected both online and offline. The privacy of your personal information is very important to us and access to your information is strictly limited, and not accessible to the public. The servers in which we store personally identifiable information are kept in a secure physical environment. We have security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be absolutely secure and any transmission of data at or through our web site is at your own risk.   
-Please refer to the Federal Trade Commission's web site at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.  
-To the extent that user credit card-specific information (or alternate user payment method information, such as PayPal, Google Check-Out, etc.) is collected by PublicBackgroundChecks.com and any of its partners and affiliates, this information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the user's prior informed consent. Notwithstanding the foregoing, PublicBackgroundChecks.com and its affiliates and/or subsidiaries reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent.  
-We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so, you should contact us by writing a letter giving us your:
-
-  * First name
-  * Last name
-  * Middle initial
-  * Aliases and A.K.A.'s
-  * Complete current address
-  * Complete former addresses going back 20 years
-  * Date of Birth - including month, day, and year
+  * **Authorized service providers:** They may send direct and electronic mail; help us to delete repetitive data from our user lists or analyze the data we have; provide PublicBackgroundChecks.com with marketing analysis; and support PublicBackgroundChecks.com' functions. As such, we permit these third parties to see and analyze the data, but they aren't allowed to share or sell it.
+  * **Business partners:** PublicBackgroundChecks.com reserves the right to collect, sell, or share any personal information you enter on our web site or provide to us in some other way, such as through e-mail marketing. Sometimes we work with other businesses to bring certain retail opportunities to our users; methods for this include e-mail marketing campaigns by us, or our partner web sites/co-brands, or our marketing partners, including affiliated third party advertisers. We may work with other types of companies, including (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. Previewing, opening or clicking on advertising portions of our e-mails and/or those of our marketing partners and/or affiliates, means that you agree to PublicBackgroundChecks.com' Privacy Policy terms; it also means you agree to receive new or additional marketing communications from us, our marketing partners and/or affiliates. Such campaigns can utilize tracking technologies (Example: cookies) to gather user data. Advertising links on our site can link to wholly independent web site, which may on their own assemble data (Example: personal information); such sites may provide us with this data that tells us about your activities on said sites. Please review the independent privacy policy of any web site to which you link by means of PublicBackgroundChecks.com' site.
+  * **Direct mail partners.** We may occasionally share our e-mail/postal mailing list with preferred providers of products and services we think you'll find interesting. 
+  * **E-mail lists.** Use the unsubscribe options available in the e-mails that PublicBackgroundChecks.com' send on behalf of affiliates, partners, etc. You'll need to do this separately for any campaign in which you have no interest.
+  * **Additional Circumstances** wherein we may release your information.
+    * Subpoenas or similar investigative demands, court orders, or requests for cooperation from law enforcement or other government agencies; to exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+    * If PublicBackgroundChecks.com believes that disclosure is an appropriate measure in relation to investigative work to prevent or take action against illegal or suspected fraudulent activity; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with the law or cooperate with law enforcement; or to enforce our Term of Service, Privacy Policy or any other agreement or condition of service.
+    * The sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. Your personal information, as provided to us, is considered a company asset that may be included in the assets transferred in the event of a substantial corporate transaction. 
+    * As deemed necessary or appropriate, without limitation, to include sharing your e-mail address with other third-parties for suppression purposes, in compliance with the CAN-SPAM Act of 2003, as amended from time to time, the Federal Trade Commission's enabling regulations, and the Fair Credit Reporting Act (15 U.S.C. ¤1681 et seq.). 
 
 
 
-It is also very helpful to include a print out of the records that you wish to have suppressed.  
-Please send this letter to:
+Because the third parties with whom we work have their own specific privacy polices, we strongly encourage you to review them as applicable, as those policies are what will govern the use of your personal information once we provide it to them. These entities or their servers may be located either inside or outside the United States. 
+
+_Aggregated and non-personal information_. PublicBackgroundChecks.com reserves the right to provide aggregate data about our users for lawful purposes. Aggregate (or "group") data is that which describes the demographics, usage, or characteristics of PublicBackgroundChecks.com participants as a group; no personal identifiers are disclosed. Setting up an account with PublicBackgroundChecks.com means you willingly allow us to provide this kind of data to third parties. Agreeing to these terms is your consent to the disclosure of any record or communication to any third party when PublicBackgroundChecks.com, in its sole discretion, determines the disclosure is appropriate. 
+
+**4\. Third-party reporting**  
+Our reports are comprised of proprietary source and third-party supplier data; we cannot edit, modify, or change it. You hereby acknowledge and agree that Public Backgrounds Checks cannot and shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such information. 
+
+**5\. How to access your information**   
+You have the ability to review and update your personal information by way of an online account at [http://www.publicBackgroundChecks.com/MyAccount.aspx](http://www.publicbackgroundchecks.com/MyAccount.aspx). You can also contact Customer Care for help. 
+
+**6\. Your choices about collection and use of your information**  
+This data helps us service you better, but you may elect not to disclose it. Furthermore, you can always unsubscribe from elective emails or newsletters we send. We cannot guarantee that we won't receive your email from other third-parties in the future, or that we won't send you other e-mails related to transactions, service announcements, and various other notices (to which you may not unsubscribe). We promise, however, to address as promptly as possible any valid requests to unsubscribe. 
+
+**7\. Protecting your information**  
+Safeguarding your information is paramount, and necessary measures are taken to protect you. We have procedural and technical steps we take to make this happen. We limit who sees your information and for what reasons (business-purposes only). Your personal identifiers and billing info are private and publically available. The physical location of our servers is secure, and we guard against the loss, misuse, and alteration of personal information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. We take every reasonable technological precaution available to protect your data; that said, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be completely secure. Any data transmission at or through PublicBackgroundChecks.com is at your own risk. 
+
+The Federal Trade Commission's web site (<http://www.ftc.gov/bcp/menus/consumer/data.shtm>) has information about identity theft and how to protect yourself. 
+
+Payment information collected by PublicBackgroundChecks.com and any partners or affiliates is kept in confidence, not to be shared with any third parties (Exception: consumer credit agencies) without user consent. Notwithstanding the foregoing, PublicBackgroundChecks.com and its affiliates and/or subsidiaries reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent. 
+
+To have your information remove from our people database, please send a letter to PublicBackgroundChecks.com and include the following: 
+
+  * First name 
+  * Last name 
+  * Middle initial 
+  * Aliases/AKAs 
+  * Complete current address 
+  * Complete former addresses going back 20 years 
+  * Date of Birth - including month, day, and year 
+
+
+
+This information will be kept confidential and is used to ensure complete suppression of your records.  
+It is also very helpful to include a print out of the records that you wish to have suppressed. We respect your right to privacy and will respond as promptly as possible. 
+
+Please send this letter to: 
 
 Opt-Out/PublicBackgroundChecks.com  
-1821 Q Street  
-Sacramento, CA 95811  
-This information will be kept confidential and is used to ensure complete suppression of your records.
+1915 21st Street  
+Sacramento, CA 95811 
 
-**8\. No Rights of Third Parties**   
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the web site.
 
-**9\. Changes to this Privacy Policy**   
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. **We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the PublicBackgroundChecks.com web site.** We recommend that you check our web site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of the PublicBackgroundChecks.com web site or acceptance of our e-mails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving e-mails from us. If you do not agree to the terms of this Privacy Policy, please unsubscribe by [clicking here](mailto:privacy@publicbackgroundchecks.com).
+**8\. No Rights of Third Parties**  
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the web site. 
 
-**10\. How to contact us**   
-If you have any questions about this Privacy Policy, please contact us at or in writing at:  
+**9\. Changes to this Privacy Policy**  
+This privacy policy will occasionally be updated to reflect changes in the practices and/or services of PublicBackgroundChecks.com. A revision to the "last updated" date at the top of this Privacy Policy will constitute notification of the policies update. **PublicBackgroundChecks.com may make any changes to the Policy that it sees fit, at any time and for any reason. Once a revision is posted to our web site, it takes effect, so we advise you to review the Policy page** now and again, to refresh yourself and be made aware of any updates. Please note: If you continue to use our web site or accept our emails following a posted revision to our Privacy Policy, you hereby agree thereto. Unsubscribing is necessary if you no longer agree to terms. 
+
+**10\. Contact us**  
+Questions about our Privacy Policy may be directed to: 
+
 PublicBackgroundChecks.com  
-Customer Service  
-1821 Q Street  
-Sacramento, CA 95814
+Customer Care  
+1915 21st Street  
+Sacramento, CA 95811 
 
-**11\. Your California Privacy Rights** __  
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and our partners and affiliates for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+
+**11\. Privacy Rights in California**  
+California residents have the right to request information from us regarding the way we share data. You may inquire about: 
 
   * the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
   * the names and addresses of the third parties that received that information; and 
@@ -122,6 +125,21 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 
 
-We will try to respond to your queries in a timely fashion. 
+We make every effort to promptly respond. 
 
-|   
+**Privacy Policy**
+
+**Information Collected and Use**  
+Public Backgrounds is the sole owner of PublicBackgroundChecks.com. We don't sell or rent out our site for use by others. 
+
+**Registration**  
+Contact and billing information (such as a name, email address, credit card information) is collected at registration. This is used to make purchases and contact users. 
+
+**Cookies**   
+Cookies are pieces of data that store information on your hard drive about the web sites you visit. Cookies help us know, as you navigate PublicBackgroundsChecks.com, whether or not you are logged in; cookies are not tied to personal identifiers or information. The cookie terminate once leave our site. 
+
+Se **curity**  
+PublicBackgroundChecks.com uses sophisticated encryption and firewall technology to protect your personal and billing information, both online and in-house. Furthermore, we restrict employee access to data, uphold strict procedural standards for desktop security, and maintain a physically secure location for our servers. 
+
+
+
