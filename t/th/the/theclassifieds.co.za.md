@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606024040id_/http%3A//www.theclassifieds.co.za/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210102208id_/http%3A//www.theclassifieds.co.za/content/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
