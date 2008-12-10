@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010075902id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210090156id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
 
-# Alibris: Privacy Policy
+# Alibris: New, Used, Rare & Out-of-Print Books -- Help & Customer Service
 
-**Your privacy matters to us  
-**Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
+**Your privacy matters to us**  
+Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
 
 **What information we collect and how we use it**  
 When you visit our Web site, Alibris collects your IP address, which we use to help diagnose problems with our server, to administer our Web site, and to improve our products and services. Your IP address also is used to gather broad demographic information that does not personally identify you.
@@ -12,14 +12,14 @@ To request more information about an item, you must provide your e-mail address 
 
 To order from us, you must set up an Alibris account. Setting up an account requires you to provide your e-mail address and to choose a password (your "Account Information"). When you order from us, we also ask for your name, shipping address, telephone number, and your credit card number, billing address, and expiration date (your "Order Information"). This information is necessary for us to process your order, to notify you of your order status, and to fulfill orders.
 
-To process and fulfill orders of Seller items, we provide the Seller with your shipping address, but do not provide any more personal information such as your e-mail address or billing information. The Seller may not use your personal information for any purpose other than those related to the fulfillment of your order. 
+To process and fulfill orders of Seller items, we provide the Seller with your shipping address and e-mail address, but do not provide your billing information. We also provide your e-mail address to the Seller to facilitate customer-service inquiries. The Seller may not use your personal information for any purpose other than those related to the fulfillment of your order. 
 
 If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Web site, new Alibris features, or special Alibris offers you may find useful. If you would rather not receive this information, visit the [Your Account](https://web.archive.org/account/login.cfm) page to change your preferences. You always have the ability to change your preferences. If you have chosen to receive this information and change your mind, visit the [Your Account](https://web.archive.org/account/login.cfm) page to change your preferences. (Whenever you decide to change your preferences, please make sure to change your preferences for each account or e-mail address you have left with us.)
 
 You may also choose to provide personal information, such as your name and address, when you enter a contest or drawing or participate in a survey. We may use this information the same way we use your Account Information and Order Information.
 
 **How we protect your information**  
-This Web site has security measures in place to protect the loss, misuse, and alteration of the information under our control. When you place orders or access your account information, we use a secure server. The secure server layer (SSL) encrypts all information you input before it is sent to us. All of the customer data we collect is similarly protected against unauthorized access. 
+This Web site has security measures in place to protect the loss, misuse, and alteration of the information under our control. When you place orders or access your account information, we use a secure server. The secure sockets layer (SSL) encrypts all information you input before it is sent to us. All of the customer data we collect is similarly protected against unauthorized access. 
 
 Alibris will not share your personal information with third parties unless you have consented to the disclosure or the disclosure is necessary to (1) comply with the law or with legal process, (2) protect and defend our rights and property, (3) protect our customers or users from misuse or unauthorized use of the Alibris Web site, (4) protect the personal safety or property of our customers or the public, or (5) to fulfill orders of Seller items.
 
@@ -40,8 +40,8 @@ Alibris welcomes your questions and comments about privacy. Please send e-mail t
 Alibris  
 1250 45th Street  
 Suite 100  
-Emeryville, CA 94608
-
+Emeryville, CA 94608  
 510-594-4500
 
-| 
+|   
+---|---
