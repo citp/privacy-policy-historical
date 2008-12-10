@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelpost.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609114509id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelpost.com privacy policy that was archived on 2008-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081210170313id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>TravelPost.com Privacy Policy</title>
@@ -8,7 +8,7 @@
 <meta name="keywords" content="TravelPost, privacy, policy, privacy policy">
 <meta name="description" content="The TravelPost.com Privacy Policy. At TravelPost.com, the privacy of your personal information is our upmost concern. To that end, we do not share any personally identifiable information without your consent.">
 <meta name="ROBOTS" content="ALL">
-		<link href="commonstyles.css" type="text/css" rel="stylesheet">
+  <link rel="stylesheet" href="/v208/css/travelpost/commonstyles.css" type="text/css">
 		<link title="Home" href="http://www.travelpost.com" rel="start">
 <style type="text/css">
 
@@ -18,38 +18,49 @@ html {
 </style>			
 
 	</head>
-<body stats="1" class="reglike">		<form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTAxMDg0OTk5OTt0PDtsPGk8MT47PjtsPHQ8O2w8aTwxPjs+O2w8dDw7bDxpPDA+O2k8MT47aTwyPjtpPDQ+Oz47bDx0PHA8O3A8bDxvbmtleXByZXNzOz47bDxldmFsS2V5KCdIZWFkZXIxX2J0blN1Ym1pdCcsICdIZWFkZXIxX3RiU2VhcmNoVmFsdWUnKVw7Oz4+Pjs7Pjt0PHA8O3A8bDxvbkNsaWNrOz47bDxzd2FwSW1hZ2UoJ0hlYWRlcjFfYnRuU3VibWl0JywgJy9pbWFnZXMvYnRuLXNlYXJjaGluZy1ncmF5c20uZ2lmJylcOzs+Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDxHdWVzdDs+Pjs+Ozs+O3Q8cDxwPGw8TmF2aWdhdGVVcmw7VGV4dDs+O2w8L2xvZ2luLmFzcHg7U2lnbiBJbjs+Pjs+Ozs+Oz4+Oz4+Oz4+O2w8SGVhZGVyMTpidG5TdWJtaXQ7Pj6uaTxtwI3AsTHL8T/4ehou0NoyVA==">
-
-
-<script src="/javascript/CommonScripts.js" type="text/javascript"></script>
+<body stats="1" class="reglike">		<form id="Form1" method="post" runat="server">
+ <script type="text/javascript" src="/v208/js/travelpost/CommonScripts.js"></script>
+<script language="JavaScript" type="text/javascript">
+if (typeof jsck_CommonScripts == 'undefined') { document.write('<script type="text/javascript" src="/v208/js/travelpost/CommonScripts.js?js-retry=1&version=undefined"><' + '/script>'); }
+if ((typeof jsck_CommonScripts == 'string') && (jsck_CommonScripts != "v208")) { document.write('<script type="text/javascript" src="/v208/js/travelpost/CommonScripts.js?js-retry=1&version=wrongversion"><' + '/script>'); }
+</script><script type="text/javascript" src="/v208/js/travelpost/CommonScripts.js?js-retry=1&amp;version=undefined"></script>
 <script type="text/javascript">var customTrackingUrl = null;</script>
 <script language="javascript" type="text/javascript">
 function doSearchFromHeader() {
-window.location='/search.aspx?srch=' + document.getElementById('Header1_tbSearchValue').value;
-}</script>
+    if (document.getElementById('searchValue').value.length > 0) {
+        window.location='/search.aspx?srch=' + document.getElementById('searchValue').value;
+    }
+}
+function searchBtnClick() {
+    if (document.getElementById('searchValue').value.length > 0) {
+        swapImageDoCallback('pageHeader_submit', '/images/btn-searching-graysm.gif', doSearchFromHeader);        
+    }
+}
+</script>
 <img id="preloadedimage" src="/images/btn-searching-graysm.gif" class="genericDispN" alt="searching">
 <input type="hidden" name="htAction"><br>
 <div id="headerTop">
 <div class="headerTop1"><h5><a href="/"><img hspace="17" src="/images/travelpost.gif" width="194" height="33" alt="Hotel Reviews | Hotel Ratings | TravelPost.com"></a></h5></div>
 <div class="headerTop2">
-<input name="Header1:tbSearchValue" type="text" id="Header1_tbSearchValue" class="stopterm" onkeypress="evalKey('Header1_btnSubmit', 'Header1_tbSearchValue');">
-<input type="image" name="Header1:btnSubmit" id="Header1_btnSubmit" onclick="swapImage('Header1_btnSubmit', '/images/btn-searching-graysm.gif');" src="/images/btn-search-bluesm.gif" alt="Search" border="0"></div></div>
+<asp:textbox id="tbSearchValue" cssclass="stopterm" runat="server" enableviewstate="true"></asp:textbox>
+<input id="searchValue" class="stopterm" type="text" onkeypress="evalKey(event, 'pageHeader_submit', 'searchValue');" name="pageHeader_searchValue">
+<img style="vertical-align: middle" border="0" alt="Search" src="/images/btn-search-bluesm.gif" onclick="searchBtnClick()" id="pageHeader_submit">
+</div></div>
 <div class="wrap"><div id="header">
 <ul><li><a href="/">Hotel Reviews</a></li>
 <li><a href="/hotels.aspx">Hotel Directory</a></li>
 <li><a href="/hotel-rates.aspx">Hotel Rates</a></li>
 <li><a href="/hotel-deals.aspx">Hotel Deals</a></li>
-<li><a href="http://blog.travelpost.com/">Travel News</a></li>
 <li><a href="#" onclick="location.href='/hotels/rate-any.aspx?pid=-99&amp;ref=bhdr';return false;" rel="nofollow">Write Reviews</a></li>
 <li><a href="/profile.aspx" rel="nofollow">My Profile</a></li></ul>
 <div id="dashboard">
-<p id="login">Welcome, <strong><span id="Header1_lblUserName">Guest</span></strong> | 
-<a id="Header1_hlLogin" rel="nofollow" href="/login.aspx">Sign In</a>
-|
-<a id="Header1_hlSignUp" rel="nofollow" href="/register.aspx">Register</a></p>
+<p id="login">Welcome, <strong>Guest</strong> | <asp:literal id="lblLoginDelim" text="" runat="server"></asp:literal>
+<a id="hlLogin" href="/login.aspx" rel="nofollow">Sign In</a> | <a id="hlSignUp" href="/register.aspx" rel="nofollow">Register</a>
+<asp:hyperlink id="hlLogin" rel="nofollow" navigateurl="/login.aspx" enableviewstate="True" runat="server"></asp:hyperlink>
+<asp:literal id="lblSignUpDelim" text="|" runat="server"></asp:literal>
+<asp:hyperlink id="hlSignUp" rel="nofollow" navigateurl="/register.aspx" text="Register" enableviewstate="True" runat="server"></asp:hyperlink>
+</p>
 </div></div></div>
-
 <div id="wrap">
 <p id="breadcrumb"><a href="/">Home</a> &gt; Privacy Policy</p>
 
@@ -120,7 +131,7 @@ window.location='/search.aspx?srch=' + document.getElementById('Header1_tbSearch
 <p>Registered users may, at any time, choose to correct or update the account information they have submitted to us. This may be done by logging into the site, clicking the My Account link, clicking the Edit Account link or Edit Profile Info and editing the information on these pages.  Registered users may, at any time, chose to cancel their registration with TravelPost by sending an email to help@travelpost.com requesting TravelPost close their account.</p>
 <p><strong id="10">10.  Notification of Changes </strong></p>
 <p>From time to time, we may need to update our Privacy Policy because of changes in the law, in technology, in our business, or in our attempts to better serve your needs. If we make any material changes to our Privacy Policy, we will post a notification on our Site and update the effective date above. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site to see if it has been updated since your last visit.</p>
-<p>If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at <a href="mailto:privacy@Sidestep.com">privacy@Sidestep.com</a> or contact us by mail at: </p>
+<p>If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at <a href="mailto:privacy@sidestep.com">privacy@sidestep.com</a> or contact us by mail at: </p>
 
 <p>
 Postal Mail Address: <br>
@@ -133,15 +144,20 @@ Further information about TravelPost is available at <a href="http://www.travelp
 
 
 </div></div></div></div>
-
-<script language="javascript" type="text/javascript" src="/Javascript/DeepMetrix.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://web.archive.org/web/20060929012422/http://collector.deepmetrix.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20080609114509id_/http%253A//www.travelpost.com/privacy.aspx&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580498613873" height="1" width="1"></div>
-<div class="ft"><p><a href="/">Hotel Reviews, Hotel Ratings - TravelPost.com</a> | Help us Improve - <a href="/contact.aspx" rel="nofollow">Send Feedback</a></p>
+<div class="ft"><p><a href="/">Hotel Reviews, Hotel Ratings - TravelPost.com</a> | Help us Improve - <a href="/contact.aspx" rel="nofollow">Send Feedback</a> | <a href="http://blog.travelpost.com/">Travel News</a></p>
 <p>©2008 TravelPost.com, part of the SideStep Network | <a href="/about.aspx" rel="nofollow">About</a> | <a href="/privacy.aspx" rel="nofollow">Privacy Policy</a> | <a href="/tos.aspx" rel="nofollow">Terms of Service</a> | <a href="/faq.aspx" rel="nofollow">Help</a> | <a href="/contact.aspx" rel="nofollow">Contact TravelPost.com</a></p></div><br>
-
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-a8j8En_yiqLxA";quantserve();</script>
 <noscript><a href="http://www.quantcast.com/p-a8j8En_yiqLxA" target="_blank">
 <img src="http://pixel.quantserve.com/pixel/p-a8j8En_yiqLxA.gif" style="display: none;" border="0" height="1" width="1"alt="Quantcast"/></a>
 </noscript>
-
-</form></body></html>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-160557-6");
+pageTracker._trackPageview();
+</script>
+</form>
+</body></html>
