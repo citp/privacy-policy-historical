@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602002716id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210031150id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
 
 # Privacy > World Gold Council, the information resource for gold, investment, jewellery, science and technology, historical and culture
 
@@ -22,7 +22,7 @@ Upon request, WGC will remove visitors (and their information) from our database
 
 We maintain adequate technical and organisational security measures to protect Personal Information from loss, misuse, and unauthorised access, disclosure, alteration, or destruction.
 
-### Correction/Updating/Deletion of Personal Informationl
+### Correction/Updating/Deletion of Personal Information
 
 You have the right to access your Personal Information and to require the correction, updating, blocking, deletion or destruction of inaccurate and/or incorrect data. If your Personal Information changes, you should click through to the "Update Your Profile" section of our website and update your Personal Information as required. Or, if you want us to delete your registration you can contact us at the address below.
 
@@ -36,6 +36,6 @@ WGC uses all reasonable precautions to keep the personal information disclosed t
 
 This Website is governed by and shall be construed in accordance with English law and any dispute as to its terms shall be submitted to the exclusive jurisdiction of the courts of England and Wales.
 
-If you have any questions about this privacy statement or the practices of this Website you can contact us at [info@gold.org](mailto:info@gold.org) or by writing to us at World Gold Council, 55 Old Broad Street, London EC2M 1RX, United Kingdom.
+If you have any questions about this privacy statement or the practices of this Website you can contact us at [info@gold.org](mailto:info@gold.org) or by writing to us at World Gold Council, 55 Old Broad Street, London EC2M 1RX, United Kingdom. Please note that calls to World Gold Council may be recorded. 
 
-Copyright © 2007, World Gold Council. 
+Copyright © 2008, World Gold Council. 
