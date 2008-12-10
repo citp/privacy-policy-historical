@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609114509id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210170313id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.*
 
 # TravelPost.com Privacy Policy
 
@@ -92,7 +92,7 @@ Registered users may, at any time, choose to correct or update the account infor
 
 From time to time, we may need to update our Privacy Policy because of changes in the law, in technology, in our business, or in our attempts to better serve your needs. If we make any material changes to our Privacy Policy, we will post a notification on our Site and update the effective date above. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site to see if it has been updated since your last visit.
 
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at [privacy@Sidestep.com](mailto:privacy@Sidestep.com) or contact us by mail at: 
+If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at [privacy@sidestep.com](mailto:privacy@sidestep.com) or contact us by mail at: 
 
 Postal Mail Address:   
 SideStep, Inc.  
