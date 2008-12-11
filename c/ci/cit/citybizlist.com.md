@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610182844id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211010642id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # citybizlist: Privacy Policy
 
----  
-  
-[](http://citybizlist.4jobs.com/)
-
-[](https://web.archive.org/citybizjobs/citybizjobs_baltimore.aspx)
-
-[](http://citybizlist.localconnect.com/search.aspx?keyword=NetGuide&location=Baltimore)[](http://citybiz.smartonline.com/)  
-[](https://web.archive.org/citybizcenter.aspx)[](http://citybizlist.collectivex.com/)
-
-Find local business services by clicking on a category
-
-[](https://web.archive.org/citybizB2B.aspx)
-
-[News/Releases](https://web.archive.org/lstg/lstgindex.aspx?cat=7) [Announcements / Community](https://web.archive.org/lstg/lstgindex.aspx?cat=1) [People/Resumes](https://web.archive.org/lstg/lstgindex.aspx?cat=9)  
-|   
----  
-| Privacy Policy |   
-|  citybizlist’s privacy policy is established to explain how your information is collected, used and protected. When this policy is updated, citybizlist will provide notice of any material changes to this policy by posting the new information on the site. 
+citybizlist’s privacy policy is established to explain how your information is collected, used and protected. When this policy is updated, citybizlist will provide notice of any material changes to this policy by posting the new information on the site. 
 
 **1\. The protection of your privacy**
 
@@ -40,12 +23,3 @@ If the law or a good faith belief that disclosure is justifiable or reasonable, 
 **5\. Feedback**
 
 citybizlist welcomes feedback to this document – [feedback@citybizlist.com](mailto:feedback@citybizlist.com)
-
-|   
-  
-
-
-[](http://69.7.74.86/cgi-bin/adclick.cgi?gid=114&id=1600)
-
-  
-
