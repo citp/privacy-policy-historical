@@ -1,0 +1,59 @@
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211041939id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+
+# Privacy Policy
+
+|  |     **Privacy Policy**
+    
+    
+    Privacy Policy
+    
+    BizwareMagic.com, respects the privacy of all its users. The privacy policies 
+    below are in effect for the BizwareMagic website and newsletters or ezines. 
+    
+    No Spam
+    
+    BizwareMagic does not tolerate or practice any form of spam. We do not give 
+    your email address or contact information to any third-party organizations. 
+    There is an 'unsubscribe' link or form on each email that is sent. Subscribers 
+    may Opt-Out at any time. We follow the "CAN-SPAM Act".
+    
+    Data Collection
+    
+    BizwareMagic only collects information (first name, email and IP address/signup 
+    time) for its newsletters and is not used for any other purposes. Removal from 
+    these newsletters can be done from the removal links placed in each and all emails.
+    
+    We don't knowingly collect personal information from children under the age of 13. 
+    If we learn that we have personal information on a child under the age of 13, it
+    will be deleted from our systems. This site is of little interest to children and
+    this should not be a problem. However, if any parent or guardian has any concerns 
+    they may contact this site to get any such details removed immediately.
+    contact (at) bizwaremagic.com
+    
+    Cookies
+    BizwareMagic does not use any cookies to track customer habits or behavior.
+    
+    
+    Opt-In
+    Any and all newsletters associated with and operated by BizwareMagic.com are 
+    totally double OPT-IN. Visitors must opt-in or give permission for follow-up 
+    emails. They must opt-in twice to receive information from this site. This 
+    prevents anyone from simply signing up with false or someone else's contact details.
+    Subscribers can opt-out at any time by using the removal links in all emails.
+    
+    
+    Opt-Out
+    If, at any time, you wish to be removed from the BizwareMagic Newsletters, 
+    you can use the removal link that's placed in every email.
+    
+
+
+[](http://www.bizwaremagic.com/site-map.htm) Please feel free to contact us.  
+  
+[contact@bizwaremagic.com ](mailto:contact@bizwaremagic.com)
+
+[Notebook Computers Guide](http://www.bizwaremagic.com/notebook-online-buyers-guide.htm) |  [Spyware Remover Guide](http://www.bizwaremagic.com/spyware-removal-guide.htm) |  [RSS/Blogging Guide](http://www.bizwaremagic.com/RSS/Lead_Capture_Page.htm) |  [Optin E-mail Tool Kit](http://www.bizwaremagic.com/opt-in.htm) |  [Best Marketing Software](http://www.bizwaremagic.com/bestsoft.htm) |  [Best Affiliate Programs](http://www.bizwaremagic.com/bestaps.htm) |  [Basic Tool Kit](http://www.bizwaremagic.com/basictk.htm) |  [Best Free BizWare](http://www.bizwaremagic.com/freebizware.htm) |  [Internet Marketing Links](http://www.bizwaremagic.com/linkfriends.htm) |  [Free eFax](http://www.bizwaremagic.com/Free_eFax.htm) |  [Corporate Business Gifts](http://www.bizwaremagic.com/corporate_business_gifts.htm) |  [SiteMap](http://www.bizwaremagic.com/site-map.htm) |  [Affiliate Directory](http://www.bizwaremagic.com/Affiliate-Directory.htm) |  [Internet Marketing Articles](http://www.bizwaremagic.com/internet_marketing_articles.htm) | [Contact](http://www.bizwaremagic.com/contact.htm) |  [Bizware Home](http://www.bizwaremagic.com/)
+
+  
+**© Copyright - 2006-07 All Rights Reserved.** [Earnings Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm) |   
+---|---|---
