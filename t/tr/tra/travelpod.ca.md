@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpod.ca privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206065110id_/http%3A//www.travelpod.ca/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpod.ca privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211034124id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,11 +11,11 @@ BY USING THE WEB SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY.
 
 Use Of Personal Information 
 
-TravelPod Corporation and/or its affiliates ("TravelPod") owns and operates the Web site and is committed to protecting the privacy of its users. TravelPod does not collect personal information about individual users except when such personal information is provided to TravelPod on a voluntary basis and when monitoring traffic to the Web site. TravelPod uses your personal information to help it create and deliver content most relevant to you and to provide you with information about TravelPod and its products and services. 
+TripAdvisor LLC and/or its affiliates ("TravelPod") owns and operates the Web site and is committed to protecting the privacy of its users. TravelPod does not collect personal information about individual users except when such personal information is provided to TravelPod on a voluntary basis and when monitoring traffic to the Web site. TravelPod uses your personal information to help it create and deliver content most relevant to you and to provide you with information about TravelPod and its products and services. 
 
 If you choose to provide information via the Web site though site registration, surveys, forms or any other means, that information becomes the property of TravelPod (the foregoing does not apply to Member Content, as defined in the Terms of Use). Subject to the Terms of Use, personal information about users will not be sold or otherwise transferred or disclosed to unaffiliated third parties without the user's approval except TravelPod reserves the right to disclose personal information: (a) to its affiliates and subsidiaries, (b) to third party service providers of TravelPod provided that such disclosure will be limited to information needed to deliver their service, and further provided that such third parties shall be prohibited from using the information for any other purpose; (c) to conform to the edicts of the law or comply with legal process served on TravelPod; (d) to protect and defend the rights or property of TravelPod; and, (e) to act in urgent circumstances to protect the personal safety of users of TravelPod, its Web sites, or the public. In addition, TravelPod shall be entitled to disclose and transfer personal information as part of a sale of substantially all of its assets, or the assets related to a particular line of business, to a third party, provided that such third party agrees to protect the personal information with no less a degree of care as set out within this policy. 
 
-Some services on this Web site allow individuals to publish and publicly display personal information, including publishing personal information in travelogues posted to the Web site and the participation in message boards, discussion groups and other forums. Participation in such services is always optional. If you choose to disclose personal information when participating in such services, you do so at your own risk. TravelPod shall have no liability to you whatsoever regarding the use of such personal information by persons other than TravelPod. 
+Some services on this Web site allow individuals to publish and publicly display personal information, including publishing personal information in travel blogs posted to the Web site and the participation in message boards, discussion groups and other forums. Participation in such services is always optional. If you choose to disclose personal information when participating in such services, you do so at your own risk. TravelPod shall have no liability to you whatsoever regarding the use of such personal information by persons other than TravelPod. 
 
 TravelPod may conduct statistical analyses through the use of data collected through the Web site on an anonymous and aggregated basis in order to measure interest in and use of the Web site. TravelPod may also provide its analyses based on such anonymous and aggregated data to third parties. 
 
@@ -27,9 +27,9 @@ TravelPod will not monitor, edit, or deliberately disclose private communication
 
 E-Mail Addresses 
 
-There are two sets of e-mail addresses that TravelPod collects and stores: (i) TravelPod member e-mail addresses, and (ii) e-mail addresses stored in TravelPod member notification lists (address books). The e-mail address of TravelPod members is used to send members warnings, alerts, information about their travelogue and its usage. Examples of e-mail communications which TravelPod sends to its members include confirmation of subscribing or unsubscribing to a travelogue and sending members their password, if forgotten. Most features which involve a TravelPod's e-mail address can be disabled or opted out of. TravelPod members e-mail addresses are considered personal information pertaining to the applicable member and will treated in the same manner as other personal information as described above (see "Use of Personal Information"). 
+There are two sets of e-mail addresses that TravelPod collects and stores: (i) TravelPod member e-mail addresses, and (ii) e-mail addresses stored in TravelPod member notification lists (address books). The e-mail address of TravelPod members is used to send members warnings, alerts, information about their travel blog and its usage. Examples of e-mail communications which TravelPod sends to its members include confirmation of subscribing or unsubscribing to a travel blog and sending members their password, if forgotten. Most features which involve a TravelPod's e-mail address can be disabled or opted out of. TravelPod members e-mail addresses are considered personal information pertaining to the applicable member and will treated in the same manner as other personal information as described above (see "Use of Personal Information"). 
 
-E-mail addresses stored in TravelPod members' notification lists are used to e-mail notifications of updates to the applicable TravelPod member's travelogue. These e-mail addresses are not used for any other purpose. 
+E-mail addresses stored in TravelPod members' notification lists are used to e-mail notifications of updates to the applicable TravelPod member's travel blog. These e-mail addresses are not used for any other purpose. 
 
 Information from Your Computer 
 
@@ -72,3 +72,6 @@ TravelPod reserves the right to change this Privacy Policy at any time by notify
 Contacting Us 
 
 If you have any questions about this Privacy Policy or the privacy practices of TravelPod in respect of this Web site, please direct your inquiry to us via our [contact form](https://web.archive.org/cgi-bin/feedback1.pl). 
+
+Last updated November 2005   
+
