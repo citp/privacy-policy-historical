@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502001025id_/http%3A//www.infodriveindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211185011id_/http%3A//www.infodriveindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # InfodriveIndia.Com - Privacy Policy
 
