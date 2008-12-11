@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012044238id_/http%3A//www.ksde.org/Default.aspx%3Ftabid%3D36%26ctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211174159id_/http%3A//www.ksde.org/Default.aspx%3Ftabid%3D36%26ctl%3DPrivacy) for the most accurate reproduction.*
 
 # Welcome to KSDE
 
@@ -44,4 +44,4 @@ Kansas State Department of Education will occasionally update this Statement of 
 
 Contact Information
 
-Kansas State Department of Education welcomes your comments regarding this Statement of Privacy. If you believe that Kansas State Department of Education has not adhered to this Statement, please contact Kansas State Department of Education at [bwilson@ksde.org](mailto:bwilson@ksde.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Kansas State Department of Education welcomes your comments regarding this Statement of Privacy. If you believe that Kansas State Department of Education has not adhered to this Statement, please contact Kansas State Department of Education at [jbaranski@ksde.org](mailto:jbaranski@ksde.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
