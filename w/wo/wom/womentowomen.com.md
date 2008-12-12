@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629202657id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212050752id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
 
 # Legal/Privacy
 
@@ -8,7 +8,7 @@ Women to Women was founded in 1985 to provide healthcare services to women of al
 
 The Healthcare Center and the Personal Program are separate organizations that share this website. As a medical practice, the Healthcare Center conforms to the strict regulations of Federal law, as detailed below. Both organizations protect your privacy to the fullest extent required by law.
 
-**Privacy Practices of the Personal Program**
+Privacy Practices of the Personal Program
 
 Women to Women’s Personal Program will protect your privacy, including any health-related information, to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
 
@@ -36,7 +36,7 @@ If you have any questions about this Notice please contact our Privacy Officer: 
 
 This Notice of Privacy Practices describes how we may use and disclose your protected health information to carry out treatment, payment or health care operations and for other purposes that are permitted or required by law. It also describes your rights to access and control your protected health information. “Protected health information” is information about you, including demographic information, that may identify you and that relates to your past, present or future physical or mental health or condition and related health care services. 
 
-We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](https://web.archive.org/web/20080629202657id_/http%3A//www.womentowomen.com/default.aspx) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
+We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](https://web.archive.org/web/20081212050752id_/http%3A//www.womentowomen.com/default.aspx) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
 
 **Understanding your health record/information**  
 Each time you visit a healthcare provider, a record of your visit is made. Typically, this record contains your symptoms, examination and test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your health or medical record, serves as a:
@@ -88,10 +88,9 @@ We will not use or disclose your health information without your authorization, 
 
 If you believe your privacy rights have been violated, you can file a complaint with our Privacy Office or with the Secretary of Health and Human Services. There will be no retaliation for filing a complaint. You may contact our Privacy Officer, Donna Poulin, at (207) 846-6163 or by e-mail at [wtwmanager@yahoo.com](mailto:wtwmanager@yahoo.com?subject=Website-Legal) for further information about the complaint process.
 
-**Examples of disclosures for treatment and payment**
-
+**Examples of disclosures for treatment and payment**  
 _We will use your health information for treatment_.  
-For example: Information obtained by a therapist or other member of your healthcare team will be recorded in your record and used to determine the course of treatment that should work best for you. We may provide your physician or a subsequent healthcare provider with copies of various reports that should assist him or her intreating you.
+For example: Information obtained by a therapist or other member of your healthcare team will be recorded in your record and used to determine the course of treatment that should work best for you. We may provide your physician or a subsequent healthcare provider with copies of various reports that should assist him or her in treating you.
 
 _We will use your health information for payment_.  
 For example: A bill may be sent to you or a third-party payer. The information on or accompanying the bill may include information that identifies you, as well as your diagnosis, procedures, and supplies used.
@@ -102,7 +101,7 @@ _Notification_ : We may use or disclose information to notify or assist in notif
 
 _Communication with family_ : Health professionals, using their best judgment, may disclose to a family member, other relative, close personal friend or any other person you identify, health information relevant to that person’s involvement in your care or payment related to your care.
 
-_Research_ : We may disclose information to researchers when their research has been approved by an institutional review board that has reviewed the research proposal and established protocolsto ensure the privacy of your health information.
+_Research_ : We may disclose information to researchers when their research has been approved by an institutional review board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
 
 _Marketing_ : We may contact you to provide appointment reminders or information about treatment alternatives or other health-related benefits and services that may be of interest to you.
 
@@ -123,5 +122,5 @@ This notice was published and becomes effective on April 14, 2003.
 _Original Publication Date:_ 04/14/2003  
 
 
-_Last Modified:_ 01/10/2008   
+_Last Modified:_ 10/21/2008   
 
