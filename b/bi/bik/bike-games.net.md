@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502231349id_/http%3A//www.bike-games.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212225541id_/http%3A//www.bike-games.net/privacy) for the most accurate reproduction.*
 
-# Bike-Games.net Privacy Policy
+# Bikes games Privacy Policy
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
@@ -54,6 +54,6 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in and then select "update your profile" to change your newsletter preferences. 
 
-Please address comments or questions regarding this Privacy Policy to us by e-mail at [support@Bike-Games.net](mailto:support@Bike-Games.net). 
+Please address comments or questions regarding this Privacy Policy to us by e-mail at [support@bike-games.net](mailto:support@bike-games.net). 
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 08/01/06
