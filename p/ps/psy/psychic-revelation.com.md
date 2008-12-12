@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626005547id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212062342id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
 
 # Psychic Revelation Privacy Policy
 
