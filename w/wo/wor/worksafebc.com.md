@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610051828id_/http%3A//worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212113018id_/http%3A//www.worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
 
 # WorkSafeBC.com - Privacy
 
@@ -16,6 +16,8 @@ We only collect personal information about visitors to our site when visitors kn
   4. We may use the collected information to respond to your specific requests. We may also use it in aggregate form without personal identifiers to make our site better and more responsive to our visitors' needs. This statistical compilation of non-identifiable information may be used by the Workers' Compensation Board of B.C. or be provided to others for the Board's marketing, advertising, or research purposes. The Workers' Compensation Board of B.C. complies with privacy laws by maintaining safeguards to ensure the security, integrity, and privacy of such information.
 
 
+
+Please be advised that any and all information entered, including personal information, may be collected and used in determining eligibility for registration and classification.
 
 ####  Use of cookies 
 
