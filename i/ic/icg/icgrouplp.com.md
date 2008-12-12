@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522092448id_/http%3A//www.icgrouplp.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212113509id_/http%3A//www.icgrouplp.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # IC Group LP | Impact and Security Matter Most
 
