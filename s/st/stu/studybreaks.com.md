@@ -1,50 +1,87 @@
-> *The following text is extracted and transformed from the studybreaks.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608175610id_/http%3A//studybreaks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studybreaks.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212200546id_/http%3A//www.studybreaks.com/privacy) for the most accurate reproduction.*
 
-# ::: Study Breaks Magazine ::: College Life and Entertainment
+# Privacy Policy :: StudyBreaks.com
 
-**About StudyBreaks.com**  
-StudyBreaks.com is an online service that allows our members to set up unique personal profiles, blogs, message community members, and view exclusive content from Study Breaks online and Study Breaks Magazine. To make a better viewing and interactive experience, StudyBreaks.com may at times display personal information including text and pictures, on the approval and agreement of the users. 
+Study Breaks, LP (“Study Breaks”) wants to make your experience as enjoyable and rewarding as possible by making sure you can use our vast array of information, tools, and opportunities with complete confidence. Please read the following to learn more about our privacy policy.
 
-StudyBreaks.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at info@studybreaks.com. 
+## What This Privacy Policy Covers
 
-**Information Collection and Use by StudyBreaks.com**  
-StudyBreaks.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the StudyBreaks.com service. StudyBreaks.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other. StudyBreaks.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes 
+  * This policy covers how Study Breaks treats personal information that the company collects and receives on-line, including information related to your past use of Study Breaks products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This Privacy Policy covers all end users of Study Breaks’ services including those who access some of our services but do not have accounts (“Visitors”) as well as those who pay a monthly service fee to subscribe to the Study Breaks’ products or services (“Members”). 
+  * This policy does not apply to the practices of companies that Study Breaks does not own or to people that Pop Labs does not employ or manage, or to information that Study Breaks collects offline.
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the StudyBreaks.com social networking community. Email addresses are used for the purposes of inviting new friends to join StudyBreaks, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on StudyBreaks.com with each other through the StudyBreaks.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, StudyBreaks.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked. 
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "notification" setting to "Do not send me notification emails" in the user "Account Settings" From time to time, StudyBreaks.com or a partner, may sponsor a promotion, sweepstake or contest on StudyBreaks.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-**Invitations and Other Communications to Non-members**  
-StudyBreaks members can invite friends to join the service by sending invitation emails via our automated invitation system. StudyBreaks.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations StudyBreaks.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from StudyBreaks.com may contact StudyBreaks.com to request the removal of their information from our database. 
+## Information Collection and Use
 
-StudyBreaks members may also store email addresses of people they know in their internal StudyBreaks address book and may also choose to send invitations and other communications to those addresses. You may prevent StudyBreaks.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to privacy@StudyBreaks.com Please note that the email must come from the account you wish to block.
+STUDY BREAKS collects information through our Web site when you contact us using our online contact form. We collect the following information about visitors when they register: First Name, Last Name, Gender, Birth Date, Bio, Network, School, Class, Interests, Website, Yahoo! ID, MSN/Live ID, Google ID, and AIM/ICQ ID.
 
-**Use of Cookies**  
-StudyBreaks.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from StudyBreaks.com in order to use most functions on the site Please note that StudyBreaks allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the StudyBreaks Privacy Policy.
+  * Study Breaks collects personal information when you register with Study Breaks or when you use Study Breaks products or services, when you visit Study Breaks pages or the pages of certain Study Breaks partners, and when you enter promotions or contests sponsored by Study Breaks. Study Breaks may combine information about you that we have collected with information we obtain from business partners or other companies. 
+  * When you register we ask for information such as your name, company name, email address, birth date, zip code and industry. Once you register with Study Breaks and sign in to our services, you are not anonymous to us. 
+  * Study Breaks may collect information about your transactions with us and with our partners. 
+  * Pop Labs automatically receives, records and tracks information about your visits to Study Breaks affiliated sites including IP address, visit duration, and the page you request. 
+  * Study Breaks may use the information for at least the following general purposes: fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-**Links**  
-StudyBreaks.com contains links to sites. StudyBreaks.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on StudyBreaks.com.
 
-**Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums**  
-Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
 
-**Correcting/Updating or Removing Information**  
-StudyBreaks.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.
+## Information Sharing and Disclosure
 
-**Email Choice/Opt-out**  
-Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account Settings'. Users who do not wish to receive StudyBreaks.com newsletters may choose not to by selecting 'Do not send me StudyBreaks newsletters' in the user profile 'Account Settings'. All notification emails and StudyBreaks.com newsletters also include the above instructions for opting-out of those communications in the future.
+  * Study Breaks may rent, sell, or share personal information about you with other nonaffiliated companies to provide products or services you may be interested in under the following circumstances:
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights, defend against legal claims, and satisfy the Electronic Communications Privacy Act, governmental or legal requests for such information. 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Study Breaks’ terms of use, or as otherwise required by law. 
+  * We believe it is necessary to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies. 
+  * We transfer information about you if Study Breaks is acquired by or merged with another company. 
+  * We provide the information to companies who work on behalf of or with Study Breaks. These companies may use your personal information to help Study Breaks communicate with you about offers from Study Breaks or other companies.
 
-**Third Party Advertising**  
-Ads appearing on this Web site may be delivered to users by StudyBreaks.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by StudyBreaks.com and does not cover the use of cookies by any advertisers.
 
-**Security**  
-StudyBreaks.com member accounts are secured by member-created passwords StudyBreaks.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on StudyBreaks.com, please contact us a privacy@StudyBreaks.com
 
-**Sharing and Disclosure of Information StudyBreaks.com Collects**  
-Except as otherwise described in this privacy statement, StudyBreaks will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by StudyBreaks.com, whether or not a response is required by applicable law; (2) to enforce the StudyBreaks.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. StudyBreaks reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of StudyBreaks or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below.
+If you order products directly from the Study Breaks enrollment site, we will collect credit card data from you only to process that order or subscription. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-**Changes in Our Privacy Policy**  
-From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
+## Cookies
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@StudyBreaks.com (2520 Longview Suit 315, Austin, TX 78705) 
+A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites.
+
+  * Study Breaks may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
+  * Study Breaks cookies do not enable third parties to access any of your customer information.
+
+
+
+## Web Beacons
+
+A “Web Beacon” is a small string of code that provides a method for delivering a graphic image on a Web page or in an email message for the purpose of transferring data. Study Breaks uses Web Beacons within to count users who have visited particular pages or to track certain paths through affiliated Web sites. Study Breaks uses Web Beacons in the following ways:
+
+  * Study Breaks may include Web Beacons in HTML-formatted email messages (messages that include graphics) that Study Breaks, or its agents, send in order to determine which email messages were opened and to note whether a message was acted upon. 
+  * Study Breaks uses Web Beacons on Study Breaks affiliated sites to track users and to analyze campaigns.
+
+
+
+## Confidentiality and Security
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+
+
+
+## Where to Direct Questions about Study Breaks Privacy Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact our office: Study Breaks Magazine, Attn: Mail Dept, 2520 Longview St. Suite #315, Austin, TX 78705.
+
+## Revisions to This Policy
+
+Study Breaks reserves the right to revise, amend, or modify this policy, our Terms of Use and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Study Breaks web site.
+
+### New to StudyBreaks.com?
+
+#### For Students...
+
+StudyBreaks.com is the place for college students like you to connect with all their friends, stay on top of all the best local artists and venues, find out about drink specials and special offers at their favorite bars, restaurants and clubs, and just take a break from studying.
+
+#### For Venues...
+
+We've got the students, you've got the fun. When you signup for an account on StudyBreaks.com, you get a free listing in our database with exposure to college students in your area. List your drink specials and special events. It's the easiest advertising you'll ever do.
+
+#### For Performers...
+
+Exposure is hard. StudyBreaks.com just made it a little easier. Promote yourself or your band to local college students for free. Create your profile, add a sample track, list upcoming shows. It's that simple.
+
+[Create Your FREE Account](https://web.archive.org/about/)
