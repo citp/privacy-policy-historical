@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626135027id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212224255id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Improvements Catalog
 
 Improvements® respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
   
-Improvements® is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+Improvements® is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN),ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead, Improvements). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/).
 
-At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Improvements®, please click [here](https://web.archive.org/category/customer-service/full-privacy-policy.do).
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of Improvements®, please click [here](https://web.archive.org/category/customer-service/full-privacy-policy.do).
 
    ([read more](https://web.archive.org/category/customer-service/full-privacy-policy.do#aboutyou))  
-We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:  
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:  
 
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
@@ -50,7 +50,7 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
+  * Other HSNi businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
@@ -65,7 +65,7 @@ You may choose:
   * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/ancillary/unsubscribe.do)
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
-  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, email or mail.
 
 **Our company contact points:**  
 Toll Free: 1-800-634-9484  
@@ -93,4 +93,4 @@ c/o Improvements
 West Chester, OH 45069-2914  
 1-800-634-9484
 
-© 2007 IAC/InterActiveCorp. All rights reserved.
+© 2008 HSN, Inc. All rights reserved.
