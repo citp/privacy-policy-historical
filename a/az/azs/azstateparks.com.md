@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616180939id_/http%3A//www.azstateparks.com/text/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2008-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081213195717id_/http%3A//www.azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
@@ -80,26 +80,24 @@ _**Security**_
 
 The State of Arizona and its consultants, as developer and manager of Arizona State Parks website, have taken several steps to safeguard the integrity of its computer systems and networks. These steps include, but are not limited to individual authentication, the security of transmitted data, security monitoring, auditing, and encryption of your information. Security methods and measures have been integrated into the design, implementation and day-to-day practices of the entire Arizona State Parks website. 
 
-## External Link Disclaimer
+##   
+External Link Disclaimer
 
 Links to External Sites are indicated with the following External Link icon:    
 These links will open in a new window and leave the Arizona State Parks website. Please note: as we are in the process of updating our website not all External Links have been so marked yet.
 
-Arizona State Parks contains links to various other websites operated by other government agencies, nonprofit organizations and private businesses. When you follow an external link to another site, you are no longer on the Arizona State Parks wesbite and this Privacy Policy will not apply to other sites. When you follow an external link to another website, you are subject to the privacy policy of that new site. Links to websites outside of State government are offered solely for your convenience; they do not constitute an endorsement and are not a recommendation of any product, service, or organization. 
+Arizona State Parks contains links to various other websites operated by other government agencies, nonprofit organizations and private businesses. When you follow an external link to another site, you are no longer on the Arizona State Parks website and this Privacy Policy will not apply to other sites. When you follow an external link to another website, you are subject to the privacy policy of that new site. Links to websites outside of State government are offered solely for your convenience; they do not constitute an endorsement and are not a recommendation of any product, service, or organization. 
 
 The State of Arizona is not responsible for and has no control over the policies or content of any third-party sites. Any concerns or comments related to the contents of the sites accessed through external links should be directed to the author of that website. Use of any information obtained from such external links is voluntary, and reliance on it should only be undertaken after an independent review of its accuracy, completeness, efficacy, and timeliness. 
 
 Neither the State of Arizona, nor any agency, officer, employee, or contractor of the State of Arizona warrants the accuracy, reliability, or timeliness of any information published by external sites, nor endorses any content, viewpoints, products, or services linked from external sites, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be inaccurate or outdated. Any person or entity that relies on any information obtained from external sites does so at his or her own risk. 
 
-## Privacy Policy Statement Is Subject To Change 
-
-This Privacy Policy Statement is subject to change _._ Last updated April 2008.
-
-## Copyright & Trademark Information
+##   
+Copyright & Trademark Information
 
 Any and all documents available from this website may be protected under the U.S. and Foreign Copyright Laws. Permission to reproduce may be required. 
 
-Unlike the U.S. Federal Government and many of its agencies, the photographs, graphics, maps, and podcasts created by Arizona State Parks are **not** in the public domain. All rights are reserved. Unauthorized use is prohibited without the express written consent of Arizona State Parks. Photography copyright © Arizona State Parks.
+Unlike the U.S. Federal Government and many of its agencies, the photographs, graphics, maps, and podcasts created by Arizona State Parks are **not** in the public domain. All rights are reserved. Unauthorized use is prohibited without the express written consent of Arizona State Parks. Unless otherwise noted, photography copyright © Arizona State Parks.
 
 Kartchner Caverns State Park®, Kubla Khan®, and the Arizona State Parks logo (a stylized cactus and water with tree) are federally registered trademarks of Arizona State Parks. All rights are reserved.  
 
@@ -123,6 +121,8 @@ Phoenix, Arizona 85007
 
 Email or other information requests sent to a state website may be saved and used to respond to the request, forward the request to the appropriate agency, communicate updates to the state site that may be of interest to citizens, or provide the agency with customer feedback to assist in improving the website.
 
-If you choose to provide us with personal information – by submitting an online form or contacting us by the above methods – we use that information to respond to your message and to help us get you the information you have requested. We only share the information you provide with another agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create an individual profile with the information you provide or give it to any private organizations. Arizona State Parks does not collect information for commercial marketing. Any comments collected are themselves subject to the protections of the privacy policy. 
+If you choose to provide us with personal information — by submitting an online form or contacting us by the above methods — we use that information to respond to your message and to help us get you the information you have requested. We only share the information you provide with another agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create an individual profile with the information you provide or give it to any private organizations. Arizona State Parks does not collect information for commercial marketing. Any comments collected are themselves subject to the protections of the privacy policy.
 
-_Note: This Privacy Policy Statement is subject to change._
+## Privacy Policy Statement Is Subject To Change 
+
+This Privacy Policy Statement is subject to change _._ Last updated April 2008.
