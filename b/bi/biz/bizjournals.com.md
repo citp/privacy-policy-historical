@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512063256id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216002744id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
 
 # bizjournals: Privacy Policy
 
@@ -6,7 +6,7 @@ Last revised February 1, 2008
 
 Kids and parents click here!
 
-The following Privacy Policy summarizes the various ways that bizjournals.com ("Service Provider") treats the information you provide while using [[www.bizjournals.com](http://www.bizjournals.com/)] "Website." It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that bizjournals, Inc. ("Service Provider") treats the information you provide while using [[www.bizjournals.com](http://www.bizjournals.com/)] "Website." It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [<http://www.bizjournals.com/privacy_policy.html>]. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
@@ -61,7 +61,7 @@ If you're worried about your children's activities or their privacy on our site,
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 **Privacy Policy Coordinator**  
-Bizjournals.com  
+bizjournals  
 120 W. Morehead St.  
 Charlotte, NC 28202  
 
