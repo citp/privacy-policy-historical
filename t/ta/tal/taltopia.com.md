@@ -1,20 +1,11 @@
-> *The following text is extracted and transformed from the taltopia.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308201913id_/http%3A//www.taltopia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taltopia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001834id_/http%3A//www.taltopia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##  About Us
-
-We're an entertainment community for up and coming talent and their fans. The goal of this talent network is to help aspiring artists get famous, build industry contacts, and find paying gigs. [Click here](https://web.archive.org/help.aspx) to see how it works. 
 
 [ ](https://web.archive.org/join.aspx)
 
   
-
-
-|  |    | 
-
-##  Privacy Policy:  
-Taltopia.com
+|  | 
 
 _Last modified December 14, 2006._
 
@@ -56,4 +47,4 @@ Taltopia.com contains links to sites. Taltopia is not responsible for the privac
 
 In the Event of Merger, Sale, or Bankruptcy In the event that Taltopia is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
   
----|---|---|---
+---|---|---
