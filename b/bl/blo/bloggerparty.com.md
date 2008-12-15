@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the bloggerparty.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527074722id_/http%3A//www.bloggerparty.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerparty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005704id_/http%3A//www.bloggerparty.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Party
 
-[](http://bloggerparty.com/user/admin "View user profile.")
-
-##  Privacy Policy 
-
-Submitted by Admin on December 29, 2005 - 9:57pm.
+Submitted by Admin on December 29, 2005 - 9:57pm
 
 **BloggerParty.com's Privacy Policy**
 
@@ -19,5 +15,3 @@ Any links from BloggerParty.com to websites outside of BloggerParty.com are not 
 Our site uses cookies to track preferences and record session information, for the sole purpose of creating a better experience for our visitors. This information will only be used to customize your visit to our website. 
 
 If you have any questions, please contact us by private messaging.
-
-» 7426 reads
