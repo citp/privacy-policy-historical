@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608231934id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005157id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
 
 # Privacy Policy - Christianbook.com
 
-|  |   
-  
 ---  
   
 At Christianbook.com, we realize that our customers are concerned about their personal privacy. Will my address be rented out? Will my email be given to spammers? The following paragraphs address these and most other issues regarding our company's Privacy Policy. However, if you do have a question that is not dealt with on this page, please feel free to email, write, or call us and we will be happy to assist you in finding the information you need.  
   
-When you visit Christianbook.com, our Web server automatically recognizes you through the use of cookies. If you have previously completed a Personal Profile at Christianbook.com, the cookie will link you to your Personal Profile. We also collect the domain name of each visitor to Christianbook.com and the email addresses of those who communicate with us via email. We keep track of which of our Web pages consumers access or visit while on our site, and then use that information for internal review to improve the content of the site and therefore improve the individual customer's experience at Christianbook.com. This information is collected for internal purposes only and is not shared with other organizations for commercial purposes.  
+When you visit Christianbook.com, our Web server automatically recognizes you through the use of cookies. If you have previously completed a Personal Profile at Christianbook.com, the cookie will link you to your Personal Profile.
+
+We also collect the domain name of each visitor to Christianbook.com and the email addresses of those who communicate with us via email. We keep track of which of our Web pages consumers access or visit while on our site, and then use that information for internal review to improve the content of the site and therefore improve the individual customer's experience at Christianbook.com. This information is collected for internal purposes only and is not shared with other organizations for commercial purposes.
+
+If you prefer not to allow cookies on your browser, you can find instructions for how to disable cookies in the help section of your browser’s toolbar. However, please keep in mind this will interfere with certain features on our website, reduce the overall quality of your experience and hinder our ability to improve site functionality over time.   
   
 If Christianbook.com has your email address on file, you may occasionally receive emails with special offers or notices about our site that might interest you. We hope you enjoy receiving these emails. However, if you would prefer not to receive any e-mail of this nature from us, please let us know by sending an e-mail to "unsubscribe@christianbookdist.com" with the word "unsubscribe" included in the subject field. You can also be removed from our e-mail list by calling us toll free at 1-800-CHRISTIAN (1-800-247-4784), or writing us at CBD Mail Preference Service, P.O. Box 7000, Peabody, MA 01961-7000. (Please specify in your correspondence that you do not want to receive future email notices from CBD.)  
   
