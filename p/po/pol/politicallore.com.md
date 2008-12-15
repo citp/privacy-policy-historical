@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605070213id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003415id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Political Lore .com
 
@@ -20,6 +20,6 @@ AdToll
 
 Phpadsnew
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
 [](http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Slashdot It!") [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Digg This Story") [](http://reddit.com/submit?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Reddit") [](http://del.icio.us/post?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Save to del.icio.us") [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy "Share on Facebook") [](http://technorati.com/faves?add=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy "Add to my Technorati Favorites") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Save to Google Bookmarks") [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Stumble it!")
