@@ -1,22 +1,15 @@
-> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215105716id_/http%3A//snow.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005506id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
 
-# Snow - Privacy Policy
-
-[](https://web.archive.org/info/privacy.asp?)
-
-Privacy Policy
+# Privacy Statement | Snow.com
 
 The Vail Corporation and its subsidiary companies ("VRMC") are committed to protecting the personal privacy of visitors and guests using its Internet sites.
 
-VRMC's privacy policy aims to accomplish three basic goals:
-
-  * VRMC will not release personally identifiable information without consent.
-  * VRMC will allow the user to control certain aspects of the information voluntarily submitted.
-  * VRMC encourages its site users to communicate privacy concerns and VRMC will respond to such concerns.
-
-
-
-**Coverage**
+VRMC's privacy policy aims to accomplish three basic goals:  
+        VRMC will not release personally identifiable information without consent.   
+        VRMC will allow the user to control certain aspects of the information voluntarily submitted.   
+        VRMC encourages its site users to communicate privacy concerns and VRMC will respond to such concerns.   
+**  
+Coverage**
 
 This privacy policy applies to VRMC owned and operated sites.
 
@@ -34,20 +27,18 @@ A user may access and utilize the vast majority of VRMC site functionality witho
 
 During the registration process VRMC shall require the user to complete certain data fields. Some fields may be optional. VRMC shall request contact information and shall utilize such information in the following manner:
 
-  * to send communications regarding the Vail Resorts.
-  * to share user information with specific strategic partners, if and only if authorized to do so by the user.
+> · to send communications regarding the Vail Resorts.   
+> · to share user information with specific strategic partners, if and only if authorized to do so by the user. 
 
-
-
-If you indicate to us that you do not want to receive certain types of communications at the time of registration, we will respect your wishes, and comply with your preferences. If you already are a registered user and would like to review or change the choices you have made, you may email us at [privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com)for assistance.
+If you indicate to us that you do not want to receive certain types of communications at the time of registration, we will respect your wishes, and comply with your preferences. If you already are a registered user and would like to review or change the choices you have made, you may email us at [comments@vailresorts.com](mailto:comments@vailresorts.com) for assistance.
 
 Contests, Etc.
 
-From time to time, we may run contests on our site in which we ask participants for contact information, such as their e-mail address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about Vail Resorts, our services, as well as offers tailored to your interests by our corporate partners, if you have opted to receive these communications. You may choose to opt-out of receiving such mailings at the time of registration for the contest, or afterwards, by emailing us at [privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com).
+From time to time, we may run contests on our site in which we ask participants for contact information, such as their e-mail address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about Vail Resorts, our services, as well as offers tailored to your interests by our corporate partners, if you have opted to receive these communications. You may choose to opt-out of receiving such mailings at the time of registration for the contest, or afterwards, by emailing us at [comments@vailresorts.com](mailto:comments@vailresorts.com).
 
 **Sharing Personally Identifiable Information with Third Parties**
 
-In order to optimize and improve the online experience for our guests, we may share your Personal Information with carefully selected companies with whom we have relationships. However, we will not share your personally identifiable information unless you have given us your consent to do so, as in our registration forms. If you have previously opted-in, but now wish to remove yourself from these mailing lists, you may send email directly to us by emailing [privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com). We will modify your preference accordingly. Our partners who receive information from us have the right to use the data we provide them (sometimes, in connection with other information they may have gathered about you).
+In order to optimize and improve the online experience for our guests, we may share your Personal Information with carefully selected companies with whom we have relationships. However, we will not share your personally identifiable information unless you have given us your consent to do so, as in our registration forms. If you have previously opted-in, but now wish to remove yourself from these mailing lists, you may send email directly to us by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com). We will modify your preference accordingly. Our partners who receive information from us have the right to use the data we provide them (sometimes, in connection with other information they may have gathered about you).
 
 **PLEASE NOTE:**
 
@@ -77,13 +68,13 @@ VRMC may collect IP addresses for purposes of system administration, to report u
 
 **Third-Party Relationships**
 
-In order to optimize your experience on our sites, VRMC maintains relationships with many corporate partners and service providers throughout the world. If you have any questions about whether certain information, content or services pertain to us, or are provided by one of our partners, please contact us at [ privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com).
+In order to optimize your experience on our sites, VRMC maintains relationships with many corporate partners and service providers throughout the world. If you have any questions about whether certain information, content or services pertain to us, or are provided by one of our partners, please contact us at [comments@vailresorts.com](mailto:comments@vailresorts.com).
 
-Whenever you provide registration information on certain Web pages or for certain services provided in conjunction with third party partners, we want to be clear that some data you provide is shared with partners. For instance, certain information is shared with WorldRes.com, our provider of online reservation service. You should make every effort to read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these Web pages, at your own discretion. However, we will make every effort to ensure that you have the ability to opt-out of the sharing of such data with partners. You may email us directly at [privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com) and we will forward your request to the appropriate company, and help you follow up to ensure that your concerns are adequately handled.
+Whenever you provide registration information on certain Web pages or for certain services provided in conjunction with third party partners, we want to be clear that some data you provide is shared with partners. For instance, certain information is shared with WorldRes.com, our provider of online reservation service. You should make every effort to read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these Web pages, at your own discretion. However, we will make every effort to ensure that you have the ability to opt-out of the sharing of such data with partners. You may email us directly at [comments@vailresorts.com](mailto:comments@vailresorts.com) and we will forward your request to the appropriate company, and help you follow up to ensure that your concerns are adequately handled.
 
 In addition to finding these Web pages, you will find direct links on VRMC to the sites offered by third parties. Some of these sites are authorized to use the Vail Resorts brands and/or logos. VRMC carefully evaluates all parties that are authorized to use its brands and/or logos, and believes that all such sites have adopted acceptable privacy policies. Again, you should read these third party privacy policies, and make an informed decision on your own as to whether or not to continue based upon these sites' privacy practices, at your own discretion. No third-party sites are covered by this Privacy Policy.
 
-**VERY IMPORTANT:** If you feel that a site using the VRMC brands and/or logos has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please send us an email at [ privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com). If appropriate, we may forward complaints to the appropriate third parties and help you follow up to ensure that your concerns are adequately handled. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from providing information until your concerns have been satisfactorily addressed.
+**VERY IMPORTANT:** If you feel that a site using the VRMC brands and/or logos has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please send us an email at [comments@vailresorts.com](mailto:comments@vailresorts.com). If appropriate, we may forward complaints to the appropriate third parties and help you follow up to ensure that your concerns are adequately handled. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from providing information until your concerns have been satisfactorily addressed.
 
 **Security**
 
@@ -100,8 +91,9 @@ Vail Resorts, Inc.
 Box 7, Legal 88  
 Vail, CO 81658
 
-You can send email to [privacy-support@vailresorts.com](mailto:privacy-support@vailresorts.com).
+You can send email to [comments@vailresorts.com](mailto:comments@vailresorts.com).
 
 VRMC reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any significant changes to this privacy policy. However, it is your responsibility to check this site for any such updates as you will be bound by them should you choose to visit our sites.
 
-Privacy Policy
+  
+
