@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609020053id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2008-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081215111008id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# New York Life Online Privacy Policy
 
 New York Life Online Privacy Policy   
 (Effective as of April, 2008) 
@@ -41,20 +41,18 @@ This privacy policy takes effect June, 2005. We reserve the right to change our 
 
 New York Life P.O. Box 6916 Cleveland, OH 44101 
 
-* The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds:  New York Life Insurance Company | New York Life Trust Company  
+* The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
+
+New York Life Insurance Company | NYL Executive Benefits LLC  
 ---|---  
-New York Life Insurance and Annuity Corporation  
-New York Life International, LLC | NYLIFE Distributors LLC  
-New York Life Investment Management LLC | NYLIFE Insurance Company of Arizona  
-Eagle Strategies Corp. | NYLIFE Securities LLC.  
-Eclipse Funds | NYLIM Service Company LLC  
-MainStay Funds | NYLINK Insurance Agencies  
-MainStay VP Series Fund, Inc. | NYL Executive Benefits LLC  
-NYL Executive Benefits LLC |   
-ICAP Funds, Inc. |   
-Institutional Capital LLC. |   
-McMorgan & Company LLC. |   
-McMorgan Funds |   
-New York Life Retirement Plan Services |   
+NYLife Insurance and Annuity Corporation | McMorgan & Company LLC  
+New York Life International, Inc. | McMorgan Funds  
+NYLife Investment Management LLC | New York Life Retirement Plan Services  
+Eagle Strategies LLC | New York Life Trust Company  
+Eclipse Funds | NYLIFE Distributors LLC  
+ICAP Funds, Inc. | NYLIFE Insurance Company of Arizona  
+Institutional Capital LLC | NYLIFE Securities LLC  
+MainStay Funds | NYLIM Service Company LLC  
+MainStay VP Series Fund, Inc. | NYLINK Insurance Agencies, Inc.  
   
 If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/cda/0,3254,11092,00.html). 
