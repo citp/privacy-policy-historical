@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornstarnetwork.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613033559id_/http%3A//members.pornstarnetwork.com/Display/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstarnetwork.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004515id_/http%3A//members.pornstarnetwork.com/Display/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pornstar Network - Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
