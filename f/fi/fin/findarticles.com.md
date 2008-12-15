@@ -1,91 +1,164 @@
-> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012163748id_/http%3A//findarticles.com/p/page%3Fsb%3Daboutus%26pg%3Dprivacy%26tb%3Dart) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004456id_/http%3A//www.cnetnetworks.com/editorial/privacy.html%3Ftag%3Dft) for the most accurate reproduction.*
 
-# Find Articles - Privacy Policy
+# CBS Interactive - Editorial - Privacy Policy
 
-FindArticles is a service of LookSmart, Ltd. ("LookSmart"). LookSmart has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [findarticles.com](http://findarticles.com/) site.
+| 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email [copyright@looksmart.net](mailto:copyright@looksmart.net).
+CBS Interactive takes pride in creating richer, deeper interactive experiences through editorial programming that combines original, independent and user-generated content. Across brands like CNET, GameSpot, BNET and CHOW, we build media experiences based on the things people love most. The company has a strong presence in the USA, Asia, and Europe. 
 
-* **What information does LookSmart collect?**
+This privacy policy applies to the U.S. operations of all brands and services within the CBS Interactive family.
 
-At different times, LookSmart may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
+**Overall privacy statement**  
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. 
 
-First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but if you do so you may not be able to utilize some services properly. 
+**1\. What information does CBS Interactive collect?**
 
-Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards. 
 
-Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, LookSmart uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us. 
 
-Fourth, at specific times we may ask you to provide us with personal information to enable you to register for a service or to enter a sweepstakes. You may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback. 
+Once you register with one of our CBS Interactive sites you are no longer anonymous to us. 
 
-Fifth, we contract with service partners 24/7 Real Media and WebSideStory, to provide us with data collection and reporting services to better understand overall use of our site. These service partners may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. These service partners may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use these service partners to understand what's popular and useful for visitors. Our service partners are contractually prohibited from disclosing this information to any third party. 
+**2\. What is CBS Interactive's practice regarding cookies?**
 
-* **What organization is collecting the information?**
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. 
 
-LookSmart usually collects the requested information. However, LookSmart has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
+We also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you. 
 
-We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach. 
+We use cookies and tracking technologies in a variety of ways, including: 
 
-To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
+  1. Keeping count of return visits to our site or our advertisers' or partners' sites; 
+  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage; 
+  3. Determining which features our overall user population likes best; 
+  4. Saving your password so you don't have to re-enter it each time you visit our sites; 
+  5. Displaying the most appropriate advertising or content based on your interests. 
 
-To opt out of collection by WebSideStory, please visit:   
-<http://www.websidestory.com/privacy/cookie-opt-out.html>
 
-To opt out of collection by 24/7 Real Media, please visit:   
-<http://www.247realmedia.com/opt-out.html>
 
-* **What does LookSmart do with the data it collects?**
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies. 
 
-Whenever LookSmart collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
+Yahoo! is an ad network partner that displays ads on CNET.com. Yahoo! may use information regarding its own users to select which ads to display. [Click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) to learn more about the ad serving business practices and privacy policies of Yahoo!, including how to decline participation in use of ad serving in this manner on Yahoo!'s sites. 
 
-We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is consistently available to you. 
+**3\. How does CBS Interactive use the information?**
 
-If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe to avoid receiving any future emails from us. LookSmart also may contact you by email to respond to feedback you have submitted. 
+We use the information we gather for four general purposes: 
 
-* **With whom does LookSmart share data?**
+  1. To customize the advertising and the content you see; 
+  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you; 
+  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards; 
+  4. To send you information you agreed to receive about topics we think will be of interest to you. 
+  5. How does CBS Interactive share the information? 
 
-LookSmart may disclose your personal information to our business partners to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LookSmart does not have control over and is not responsible for the data collection and use practices of our business partners. LookSmart may also disclose your personal information to other members of the LookSmart family of businesses. 
 
-We also may disclose your personal information (including without limitation IP addresses) to a third party if the law or legal process requires it, to protect the rights or property of LookSmart or others, or as otherwise described in this privacy policy. 
 
-We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
+_**Personally identifiable information**_
 
-* **What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
+We will make your personally identifiable information available to other companies or people when: 
 
-As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
+  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website. 
+  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction. 
+  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use. 
+  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails. 
+  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process. 
+  7. When required by law, such as when we respond to subpoenas, court orders, or legal process. 
+  8. We believe that your actions violate applicable laws, CBS Interactive's Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
 
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
 
-To opt out of collection by WebSideStory, please visit:   
-<http://www.websidestory.com/privacy/cookie-opt-out.html>
 
-To opt out of collection by 24/7 Real Media, please visit:   
-<http://www.247realmedia.com/opt-out.html>
+_**Aggregate information**_
 
-* **How can I update or correct my information?**
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. 
 
-LookSmart does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
+_**ChannelOnline data**_
 
-* **How can I delete my information?**
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties. 
 
-LookSmart currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LookSmart services. 
+_**Business transfers**_
 
-* **What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?**
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. 
 
-Except as otherwise stated in this privacy policy, LookSmart has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
+**5\. What are my options?**
 
-* **What about privacy policies for sites to which FindArticles links?**
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. 
 
-FindArticles contains many links to Web sites not controlled by LookSmart. These sites have their own policies and practices with respect to online privacy, and LookSmart cannot be responsible for the privacy practices or the content of these Web sites. 
+We also give users the following options: 
 
-* **What happens to my information if FindArticles or LookSmart merges with or its assets are sold to another company?**
+  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us; 
+  2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information. 
+  3. How can I review and update my personally identifiable information? 
 
-It is possible that FindArticles and/or LookSmart may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
 
-* **Notification of Changes**
 
-This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. 
 
-* **Contact Information**
+**BNET**  
+Free services registration [http://www.bnet.com](http://www.bnet.com/)  
+E-mail newsletters <http://nl.com.com/acct_login.jsp?brand=bnet>  
 
-If you have any questions about this privacy policy or about FindArticles information collection practices, please contact us at [copyright@looksmart.net](mailto:copyright@looksmart.net). 
+
+**CNET**  
+Account management: <http://reviews.cnet.com/5270-4_92-0-1.html>  
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
+CNET Download.com Account Management: <http://www.download.com/1341-20_4-133.html>  
+CNET Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
+CNET Download.com listings: <http://upload.com.com/>  
+CNET News.com Account Management: <http://news.com.com/1340-52-34.html>  
+CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)  
+ChannelOnline: <http://channelonline.com/us/>  
+
+
+**GameSpot**  
+Help Center: <http://www.gamespot.com/misc/helpcenter.html>  
+E-mail newsletters: [http://nl.com.com/acct_login.jsp?brand=gamespot](http://nl.com.com/acct_login.jsp?brand=gamespo)  
+Billing Management: <https://secure.gamespot.com/rps/manage/editbilling.php>  
+GameSpot Total Access: <https://secure.gamespot.com/rps/signup/totalaccess.php>  
+GameSpot Plus: <https://secure.gamespot.com/rps/signup/plus.php>  
+GameSpot Free Registration: <https://secure.gamespot.com/rps/signup/free.php>  
+
+
+**MP3.com**  
+Email Newsletters: <http://nl.com.com/acct_login.jsp?brand=mp3>  
+Free membership sign-up and services: <http://www.mp3.com/signup/>  
+
+
+**mySimon**  
+Account management: <http://www.mysimon.com/1340-7600-73.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=mysimon>  
+
+
+**Release 1.0**  
+Contact Us: <http://www.release1-0.com/general/contactus.cfm>  
+
+
+**CNET Shopper.com**  
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
+
+
+**TechRepublic**  
+Account management: <http://techrepublic.com.com/1341-22-20.html>  
+E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
+Registration management: <http://techrepublic.com.com/1320-4-55.html>  
+
+
+**ZDNet**  
+Account management: <http://zdnet.com.com/1340-10-7.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=zdnet>  
+ZDNet Downloads users: <http://downloads-zdnet.com.com/1320-20-4.html>  
+Registration management: <http://www.zdnet.com/members/>  
+ITPapers users: <http://www.itpapers.com/>  
+
+
+**7\. How will I know if the privacy policy is changed?**
+
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. 
+
+**8\. Privacy of children**
+
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process. 
+
+**Questions, Comments**
+
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information. 
+
+Effective date: August 22, 2008
