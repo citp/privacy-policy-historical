@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630163030id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003527id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
@@ -8,7 +8,7 @@ We believe that you have a right to know, before shopping at dvdempire.com or at
 
 Right Ascension, Inc. ("DVD Empire") is the owner and operator of dvdempire.com ("we") and does not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. We collect only the personal information you allow us to collect, and then it is used only to help us serve you better. 
 
-If you are a registered customer and you want to **change or modify any** of your personal information, you can do so anytime by going to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=99366355036777&site=1). Log in with your user name and password, then click "Contact Information" and **edit whatever** personal information you wish. 
+If you are a registered customer and you want to **change or modify any** of your personal information, you can do so anytime by going to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=-1&site=1). Log in with your user name and password, then click "Contact Information" and **edit whatever** personal information you wish. 
 
 Read More About:   
 1\. Personal information we collect  
@@ -25,13 +25,11 @@ Read More About:
 
 We collect personal information that you choose to provide voluntarily when using the DVD Empire Websites. This information includes your email address and a password when you register to create your dvdempire.com account. While you can browse our online store, you will need to register in order to make purchases and take advantage of certain features. We may also ask for personal information when you contact our Help Desk. This will allow us to protect your confidentiality by verifying your identity. 
 
-DVD Empire does not intentionally collect personal information about children under the age of 13. If you are under 13 and would like to shop at dvdempire.com, please ask a parent or guardian for assistance. 
-
 **Purchase Information**
 
 When you make a purchase using a credit card, we collect your name, your billing address for the card, the card type, number, and expiration date. We collect this information in order to verify your billing address. We also collect information that allows us to ship and keep you informed of the status of your order. This includes your email address and the name, address, and telephone number of the intended recipient(s). **Billing information may be provided over the phone by calling dvdempire.com at 1-724 772-6030.**
 
-If you are a registered user of dvdempire.com, you can choose to save your billing information for one or more credit cards in "Your Account". You may change this saved information anytime. Simply go to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=99366355036777&site=1). Log in with your username and password, then click "Contact Information" and **edit whatever** personal information you wish. 
+If you are a registered user of dvdempire.com, you can choose to save your billing information for one or more credit cards in "Your Account". You may change this saved information anytime. Simply go to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=-1&site=1). Log in with your username and password, then click "Contact Information" and **edit whatever** personal information you wish. 
 
 **Cookies and other computer information**
 
@@ -88,7 +86,7 @@ Do not share your dvdempire.com password with anyone. **Other than on our Websit
 
 **5\. How you can decide what marketing communication you receive from us**
 
-If you choose to receive them, dvdempire.com may periodically send you email messages describing new items, featured merchandise and special promotions. You can choose to stop receiving this email at any time. Simply go to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=99366355036777&site=1), log in, click "Email Address & Password" and remove the check in the box next to the words "Please send me email with dvdempire.com DVD release lists". 
+If you choose to receive them, dvdempire.com may periodically send you email messages describing new items, featured merchandise and special promotions. You can choose to stop receiving this email at any time. Simply go to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=-1&site=1), log in, click "Email Address & Password" and remove the check in the box next to the words "Please send me email with dvdempire.com DVD release lists". 
 
 The only email messages you will receive from dvdempire.com when you elect not to receive informational emails will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to your Help Desk inquiries and to answer any other questions you may have about our site. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information, or to announce product recalls. 
 
@@ -100,7 +98,7 @@ The security of your personal information is very important to us. In our effort
 
 DVD Empire has also obtained a digital certificate from _Verisign, Inc._ , a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to a dvdempire.com Web server, not to some unknown or unauthorized server. 
 
-Ultimately, your personal information is protected by the password you created when you registered for an account at dvdempire.com (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=99366355036777&site=1). Log in with your username and password, then click "Change Password" and enter a new password. 
+Ultimately, your personal information is protected by the password you created when you registered for an account at dvdempire.com (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=-1&site=1). Log in with your username and password, then click "Change Password" and enter a new password. 
 
 [Back to Top]
 
