@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613144039id_/http%3A//www.dailyrecord.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003232id_/http%3A//www.dailyrecord.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Liverpool Echo
 
