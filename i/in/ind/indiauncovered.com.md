@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609212401id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004819id_/http%3A//www.safetybilling.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy : SafetyBilling
 
 **
 
@@ -8,7 +8,7 @@ Privacy Policy Statement
 
 **
 
-This website (the "site") is licensed to CyberTrend Inc / Price Communications Inc.
+This website (the "site") is licensed to Price Global Limited / SinComm Limited.
 
 Our postal address is  
 3880 Lemon St. Suite 205  
