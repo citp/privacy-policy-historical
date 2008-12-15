@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623210734id_/http%3A//owneriq.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003256id_/http%3A//owneriq.net/privacy.html) for the most accurate reproduction.*
 
-# OwnerIQ
+# OwnerIQ: Product user manuals, help, forums tips and tutorials.
 
 ## Introduction
 
-OwnerIQ and its affiliated companies (collectively, "OwnerIQ") "are committed to protecting our users' privacy. This privacy policy is designed to inform users of OwnerIQ-branded and co-branded websites (the "Network Sites", defined more fully below) about how OwnerIQ, Inc. ("OwnerIQ" or "we") gathers and uses anonymous and member information, and in what circumstances OwnerIQ will disclose such information. OwnerIQ will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. 
+OwnerIQ and its affiliated companies (collectively, "OwnerIQ") are committed to protecting our users' privacy. This privacy policy is designed to inform users of OwnerIQ-branded and co-branded websites (the "Network Sites", defined more fully below) about how OwnerIQ, Inc. ("OwnerIQ" or "we") gathers and uses anonymous and member information, and in what circumstances OwnerIQ will disclose such information. OwnerIQ will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. 
 
 ##  Enforcement
 
 If you believe that OwnerIQ has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by OwnerIQ, you may send a written notice of complaint to:
 
 **OwnerIQ, Inc.**  
-337 Summer Street  
+320 Congress Street  
 Boston, MA 02210  
 Attention: Gracie F. Johnson, Membership Coordinator  
 E-mail: [webmaster@owneriq.net](mailto:webmaster@owneriq.net)
@@ -36,12 +36,13 @@ Several of the services that we offer on our Network Sites may require registrat
 **  
 Cookies** : When you view the Network Sites, a small file called a cookie is placed on your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) If you become a Member, OwnerIQ will use cookies to authenticate your identity when you visit the Network Sites and to personalize your user experience, such as by displaying your username, when you log on. OwnerIQ uses cookies to obtain anonymous information such as the number of visits to the Network Sites that a certain user has made, the movement of the user through the Network Sites, and the searches that the user conducts on the Network Sites.  
 **  
-Clear GIFs & Servers**: We use electronic images known as "clear GIFs" - sometimes called "transparent GIFs", "Web bugs", "pixel tags" or "beacons" - that allow us to track general user traffic patterns. OwnerIQ also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested. This information is included in Clickstream Data.  
+Clear GIFs & Servers**: We use electronic images known as "clear GIFs" - sometimes called "transparent GIFs", "Web bugs", "pixel tags" or "beacons" - that allow us and our partners, including third party ad networks and exchanges to track general user traffic patterns. OwnerIQ also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested. This information is included in Clickstream Data.  Unless you have registered as a Member, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.  
 **  
-Supplementary Information** : OwnerIQ may supplement Member Details with publicly available information about a Member's demographics. For example, if a Member indicates she lives in X zip code, we may obtain information giving representative geographic information about X zip code. This information is called "Supplementary Information".  
-How Do We Use the Information We Collect?  
-**  
-Member Information** : OwnerIQ collects member information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. We use Member Details to deliver email newsletters on topics of interest, such as newsletters with useful information on the things you own, to better target advertiser promotions found in these newsletters and advertising you see when using the Network Sites, to solicit information and feedback in the form of surveys, and we also may send general promotional and marketing materials to our Members, either by email or regular mail. We use Member Details and Supplementary Information in aggregated form to understand our Member base and to market our services to our customers. User access to the Network Sites is free and is supported by paid content and sponsorships from our advertisers.  
+Supplementary Information** : OwnerIQ may supplement Member Details with publicly available information about a Member's demographics. For example, if a Member indicates she lives in X zip code, we may obtain information giving representative geographic information about X zip code. This information is called "Supplementary Information".
+
+## How Do We Use the Information We Collect?
+
+Member Information: OwnerIQ collects member information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. We use Member Details to deliver email newsletters on topics of interest, such as newsletters with useful information on the things you own, to better target advertiser promotions found in these newsletters and advertising you see when using the Network Sites, to solicit information and feedback in the form of surveys, and we also may send general promotional and marketing materials to our Members, either by email or regular mail. We use Member Details and Supplementary Information in aggregated form to understand our Member base and to market our services to our customers. User access to the Network Sites is free and is supported by paid content and sponsorships from our advertisers.  
 **  
 Cookies** : OwnerIQ uses persistent cookies to link Members to their registration information, which allows our system to confirm a user's identity and access level on the Network Sites. OwnerIQ also uses that information to track service selections, and save passwords so that Members do not have to log in each time they visit the Network Sites.  
 **  
@@ -49,7 +50,13 @@ Clear GIFs & Servers**: We use these tracking technologies for a variety of purp
 
 • Keeping count of return visits to our site or our partners' sites  
 • Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers  
-• Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness 
+• Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness  
+• Displaying the most appropriate advertising or content based on your interests.
+
+OwnerIQ partners with third party ad networks and exchanges to display its customers’ ads throughout these third party networks. These third party ad networks and exchanges may use information regarding its own users to select which ads to display.   
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies. 
+
+Some advertisements on the Network Sites are managed and placed by network advertisers. Network advertisers who place advertisements on our Web sites may use cookies and clear gifs to collect non-personally identifiable information about your visits to our Network Sites and other Web sites in order to provide advertisements about goods and services of interest to you.  The network advertisers’ use of cookies and tracking technology is subject to their own privacy policies.
 
 **Supplementary Information** : We use Supplementary Information to understand our customer base and to market our services more effectively.  
 **  
@@ -108,4 +115,4 @@ Options** : Users who would rather not provide any of the user data requested by
 **  
 Note** : If you choose not to provide some information when registering for a site, certain products or services may not be available to you. 
 
-**Effective Date of this policy** : March 27, 2008
+**Effective Date of this policy** : November 21, 2008
