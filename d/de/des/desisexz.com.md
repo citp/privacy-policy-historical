@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desisexz.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626110854id_/http%3A//www.desisexz.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desisexz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004332id_/http%3A//www.desisexz.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Desisexz | Desi Sex Videos | Free Indian Sex Videos | Indian Sex Stories Privacy Policy
 
