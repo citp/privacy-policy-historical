@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614065850id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151541id_/http%3A//soundsnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Soundsnap
 
