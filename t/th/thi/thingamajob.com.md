@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132902id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165103id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Feel confident when you search job listings, and post your resume- Thingamajob is committed to your privacy
+# Thingamajob protects your privacy, learn more about our hiring policy.
 
 [Canadian Users Click Here](https://web.archive.org/Canada-Privacy.aspx)
 
