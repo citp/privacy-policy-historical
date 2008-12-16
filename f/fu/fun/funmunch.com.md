@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630055405id_/http%3A//www.funmunch.com/info/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015758id_/http%3A//funmunch.com/info/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Free Ecards, Free Greetings, free egreetings, flash ecards, free e-cards
+
+| 
+
+|   
+---  
+  
+|   
+---  
+  
+ 
 
 Funmunch is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of funmunch.com. We outline here the information-collection procedure and usage practices for our website, www.funmunch.com. By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below. 
 
@@ -18,4 +28,4 @@ Funmunch also links to a wide variety of other sites. We are not responsible for
 
 **Questions or Suggestions  
 **  
-If you have any questions concerning the privacy policies of Funmunch, please send email with your questions to **[mail@funmunch.com](mailto:mail@funmunch.com) **
+If you have any questions concerning the privacy policies of Funmunch, please send email with your questions to **[ infomaxt@gmail.com](mailto:infomaxt@gmail.com) **
