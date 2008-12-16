@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616090209id_/http%3A//www.winemarket.com.au/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111839id_/http%3A//www.winemarket.com.au/Terms_privacy.asp) for the most accurate reproduction.*
 
-# Winemarket, Australia's leading winemarket, Get Wines Online, Buy Wine, Purchase wines, delivered nationwide just $5
+# Winemarket, the cheapest Australian Online wine shop to buy wine online or buy champagne online! The biggest brands at the cheapest prices!
 
 What information do we collect?
 
@@ -33,7 +33,7 @@ We may contract with third-party service providers to assist us in better unders
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
 Do we disclose the information we collect to outside parties?  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Vinpac International Pty Ltd trading as WineMarket (Cellarmasters Group). It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Winemarket Pty Ltd (Cellarmasters Group). It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -55,7 +55,7 @@ Online Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions  
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20080616090209id_/http%3A//www.winemarket.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20081216111839id_/http%3A//www.winemarket.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent  
 By using our site, you consent to our privacy policy.
