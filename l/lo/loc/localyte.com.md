@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localyte.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619180413id_/http%3A//localyte.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localyte.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040628id_/http%3A//www.localyte.com/privacy.php) for the most accurate reproduction.*
 
-# Localyte - Find Help at Your Destination
+# Localyte.com - Travel like a Local!
 
 ## Localyte Privacy Policy
 
