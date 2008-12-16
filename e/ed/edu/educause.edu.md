@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528114515id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170205id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
 
 # Privacy Policy | EDUCAUSE
 
@@ -61,7 +61,7 @@ Note: We do not collect personal information other than name and e-mail address 
 
 We use cookies to help manage the Web site to better serve visitors. A cookie is a piece of data that is either maintained only for the duration of a particular session visit or is stored on the user's computer to support future visits. EDUCAUSE uses both types of cookie.
 
-_Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates. 
+ _Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates. 
 
 _Persistent cookie_ – This type of cookie stores a small text file on the user's hard drive for an extended period of time to remember visit activity that will help make subsequent visits more efficient. Persistent cookies can be removed by following the user's Internet browser help directions. 
 
