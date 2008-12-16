@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621181634id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011854id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
 
-# corporate .::. legal: privacy policy .::. illumina, inc. .::.
+# corporate - legal: privacy policy - Illumina, Inc.
 
   
+[ print this page](https://web.archive.org/printnrn.ilmn?ID=127)  
   
+[send feedback on this page](https://web.archive.org/webfeedback.ilmn?PageName=legal:%20privacy%20policy&PageURL=127&nrn=nrn)  
+  
+[have a rep contact me](https://web.archive.org/contactMe.ilmn)  
+  
+[join the illumina community](https://web.archive.org/pagesnrn.ilmn?ID=142&PageName=legal:%20privacy%20policy)
+
 |   
 |   
 legal: privacy policy **information collected**  
