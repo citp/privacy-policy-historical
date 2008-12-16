@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612173144id_/http%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065335id_/http%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RescueTime
-
-| 
+# RescueTime | Privacy Policy
 
 (This is our privacy policy. If you want to read about specific [RescueTime privacy features](https://web.archive.org/privacy_checklist), click here)
 
@@ -32,6 +30,4 @@ You can see exactly what RescueTime is sending from your computer. Detailed inst
 
 RescueTime.com sends a "cookie" to your computer that contains an identification number that is unique to the computer you are using. We use this cookie to provide you with a continuous experience, and for us to record how our site/service is being used. 
 
-As is done with most web sites, we log each visit to each web page. A log entry can contain information typically found in the "header" of your web browser's request such as the browser type you used, your Internet Protocol address, and the date and time of day. We may also log your cookie's identification number and the URL of the last site you visited. This log information is important for security, audit, quality improvement, as well as for monitoring the health of our service.   
-  
----
+As is done with most web sites, we log each visit to each web page. A log entry can contain information typically found in the "header" of your web browser's request such as the browser type you used, your Internet Protocol address, and the date and time of day. We may also log your cookie's identification number and the URL of the last site you visited. This log information is important for security, audit, quality improvement, as well as for monitoring the health of our service. 
