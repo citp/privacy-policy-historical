@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313182553id_/http%3A//www.masala.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172359id_/http%3A//masala.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Masala - Asian Glamour & Fashion Magazine, Bollywood Gossip News, Indian Celebrities & Picture
 
 **INTRODUCTION**   
 AHLAN! is a picture portal website showcasing digital photographs of people enjoying themselves at restaurants, bars, nightclubs and outdoors. 
