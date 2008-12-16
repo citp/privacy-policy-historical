@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603151400id_/http%3A//www.fitfuel.com/customer_care_privacy_faq.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042838id_/http%3A//www.fitfuel.com/customer_care_privacy_faq.php) for the most accurate reproduction.*
 
 # FitFuel.com - Nutritional Supplements, Organic Foods, Fitness Apparel, Sporting, Anti-Aging
 
@@ -160,6 +160,10 @@ Fit Fuel uses a third party to place cookies on your computer to collect non-per
 Our Web sites use third-party service providers to serve ads on our behalf across the Internet and to analyze Web site traffic on our behalf. They may collect anonymous information about your visits to our Web site, and your interaction with our ads. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about your visits to this and other Web sites so that we can provide advertisements about goods and services. 
 
 No personally identifiable information is collected in this process. We may share anonymous information with this service provider in an aggregate form, for purposes of analysis and improvement of our site. 
+
+**_Third-Party Solution Providers_**
+
+Fit Fuel, LLC has arranged with PowerReviews, Inc. (d/b/a/ Buzzillions) ("PR") ([http://www.buzzillions.com](http://www.buzzillions.com/)) to facilitate customer reviews of products sold by Fit Fuel, LLC. When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies. The reviews you submit may be posted on both PR's site ([http://www.buzzillions.com](http://www.buzzillions.com/)) and our site. 
 
 **HOW CAN I UPDATE MY INFORMATION?**
 
