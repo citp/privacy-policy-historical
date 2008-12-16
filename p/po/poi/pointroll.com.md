@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PointRoll - Online Advertising Rich Media Provider
 
 | 
 
-[](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/downloads/Pointroll_Emerging_Tech_Podcast.mp3)
+[](http://www.pointroll.com/press_release_080519.aspx)
+
+[](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/downloads/Pointroll_Emerging_Tech_Podcast.mp3)
 
 |    
   
 ---  
 |   
   
-[view all](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press.aspx)
+[view all](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press.aspx)
 
-[03/26/08](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080326.aspx) | [Pointroll To Doubleclick: "While...](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080326.aspx)  
+[10/02/08](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_081002.aspx) | [Pointroll Congratulates Partners...](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_081002.aspx)  
 ---|---  
-[03/25/08](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080325.aspx) | [Pointroll Continues Strong Growth...](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080325.aspx)  
-[02/26/08](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080226b.aspx) | [YuMe Offers Video TickerBoy Ads...](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080226b.aspx)  
-[02/26/08](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080226.aspx) | [Burst Media Launches Video...](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080226.aspx)  
-[01/15/08](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080115.aspx) | [Rapid Growth Prompts Important...](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press_release_080115.aspx)  
+[09/24/08](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080924.aspx) | [Andy Pocock Joins PointRoll as...](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080924.aspx)  
+[09/10/08](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080910.aspx) | [PointRoll and USA TODAY Debut...](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080910.aspx)  
+[08/13/08](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080813.aspx) | [PointRoll Teams with ScanScout...](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080813.aspx)  
+[07/30/08](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080730.aspx) | [ShopLocal's 4th Annual Summit...](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press_release_080730.aspx)  
   
-  * [Executive Team](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/executive-team.aspx)
-  * [Press](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/press.aspx)
-  * [Careers](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/careers.aspx)
-  * [Locations](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/locations.aspx)
-  * [Privacy Policy](https://web.archive.org/web/20080603200908id_/http%3A//www.pointroll.com/privacy-policy.aspx)
+  * [Executive Team](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/executive-team.aspx)
+  * [Press](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/press.aspx)
+  * [Careers](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/careers.aspx)
+  * [Locations](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/locations.aspx)
+  * [Privacy Policy](https://web.archive.org/web/20081216043348id_/http%3A//pointroll.com/privacy-policy.aspx)
 
 
 
