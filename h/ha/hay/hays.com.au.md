@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405195223id_/http%3A//www.hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216083149id_/http%3A//www.hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Hays Recruitment
 
@@ -35,7 +35,7 @@ Personal information that we collect and hold usually falls into the following c
 
 In general, we gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.
 
-### Your personal information collected on the hays.com.au and hays-hps.co.nz websites
+### Your personal information collected on the hays.com.au and hays.net.nz websites
 
 In some instances we may need specific information about you, such as name, address, email address, telephone number, etc. We will collect this information if you apply for a job or sign up for a service via our website, for example. We may also ask you for other information such as the types of jobs you are interested in and your workplace concerns in order to provide you with the best possible service and internet experience.
 
@@ -82,7 +82,7 @@ We may need to maintain records for a significant period of time. However, when 
 
 Hays endeavours to ensure that the personal information it holds is accurate and up to date. We realise that information changes frequently with changes of address and other personal circumstances. We generally update your customer information over the telephone. Please advise your consultant when your personal details change.
 
-If you have created a profile with Hays via our website, you are able to update or delete your personal Information whenever you apply for a new position advertised. To do so, simply click on apply for a position of interest, log into your profile, and you will find options for editing or deleting the information you have submitted.
+If you have created a profile with Hays via our website, you are able to update or delete your personal information whenever you apply for a new position advertised. To do so, simply click on apply for a position of interest, log into your profile, and you will find options for editing or deleting the information you have submitted.
 
 ### Inquiries and complaints
 
@@ -94,10 +94,10 @@ You can make further inquiries or complaints about our privacy policy to our Pri
 | Hays | Hays  
 Phone | 1800 805 051 | \+ 61 7 3243 3052  
 Fax | 02 9236 4110 | \+ 61 2 9236 4110  
-Email | [privacy@hays.com.au](mailto:privacy@hays.com.au) | [privacy@hays-hps.co.nz](mailto:privacy@hays-hps.co.nz)  
-Post | GPO Box 2135 | GPO Box 2135  
-| BRISBANE QLD 4001 | BRISBANE QLD 4001  
-| | AUSTRALIA  
+Email | [privacy@hays.com.au](mailto:privacy@hays.com.au) | [privacy@hays.net.nz](mailto:privacy@hays.net.nz)  
+Post | Reply Paid| GPO Box 2135  
+| GPO Box 2135| BRISBANE QLD 4001  
+| BRISBANE QLD 4001| AUSTRALIA  
   
 If you are not satisfied with our response to your complaint, in Australia you can contact the Office of the Federal Privacy Commissioner; or in New Zealand you can contact the Office of the Privacy Commissioner.
 
@@ -119,6 +119,6 @@ Hays has several areas on our website where you can submit feedback. Any feedbac
 
 ### Changes to our Privacy Policy
 
-If we make any changes to our Privacy Policy, we will post these changes on our website so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our commitment to your privacy, please feel free to email our Privacy Officer at [privacy@hays.com.au](mailto:privacy@hays.com.au) or [privacy@hays-hps.co.nz](mailto:privacy@hays-hps.co.nz) .
+If we make any changes to our Privacy Policy, we will post these changes on our website so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our commitment to your privacy, please feel free to email our Privacy Officer at [privacy@hays.com.au](mailto:privacy@hays.com.au) or [privacy@hays.net.nz](mailto:privacy@hays.net.nz) .
 
-HP-20.06 - March 2008
+HP-20.07 - March 2008
