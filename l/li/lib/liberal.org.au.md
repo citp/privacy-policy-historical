@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207071036id_/http%3A//www.liberal.org.au/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041421id_/http%3A//www.liberal.org.au/privacy.php) for the most accurate reproduction.*
 
-# Liberal Party of Australia - Privacy
+# Online privacy. Liberal Party of Australia.
 
-  
-
+Online privacy 
 
 All personal information collected by The Liberal Party of Australia is protected by the Privacy Act 1988 (Commonwealth of Australia). Any and all information collected at this website - including application form content and email addresses - will be kept strictly confidential and will not be sold, re-used, rented, loaned or otherwise disclosed to a third party, except where prior written permission is obtained from the individual who supplied the information and to whom the information refers. 
 
@@ -14,17 +13,13 @@ Any personal information provided to The Liberal Party of Australia by site user
 When users visit this website, the The Liberal Party of Australia server makes a record of their visit and records the following information:
 
   * server address
-  * top-level domain name (eg. .com, .gov, .au, .edu etc) 
-  * date time and duration of visit the pages accessed 
-  * the documents downloaded 
-  * the type of browser used 
-  * the site visited before the The Liberal Party of Australia website 
+  * top-level domain name (eg. .com, .gov, .au, .edu etc)
+  * date time and duration of visit the pages accessed
+  * the documents downloaded
+  * the type of browser used
+  * the site visited before the The Liberal Party of Australia website
+  * The Liberal Party of Australia staff analyse these records regularly to improve the website’s relevance and value.
 
 
-
-The Liberal Party of Australia staff analyse these records regularly to improve the website’s relevance and value. 
 
 The Liberal Party of Australia may maintain email lists to keep users informed about areas of specific interest. The Liberal Party of Australia will only provide such information to users as they have consented to receive. The Liberal Party of Australia does not sell, rent, loan, trade, or lease the addresses on these lists to any third party. Users may ask to be removed from these lists at any time. The Liberal Party of Australia may use a feature of your browser (“cookies”) to assign a unique user ID. Cookies by themselves cannot be used to identify you - they only identify your computer to the The Liberal Party of Australia server when you visit the The Liberal Party of Australia website. 
-
-|    
-
