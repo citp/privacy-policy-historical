@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000622id_/http%3A//www.yesstyle.com/en/Help/Section.aspx%3Fsection%3Dcs%26sectionId%3D754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011530id_/http%3A//www.yesstyle.com/en/Help/Section.aspx%3Fsection%3Dcs%26sectionId%3D754) for the most accurate reproduction.*
 
 # YesStyle.com: Customer Support
 
-: Last Updated: Dec 4, 2007 
+: Last Updated: November 5, 2008 
 
 YesStyle.com is committed to protecting your privacy. We hope that you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our website or by purchasing products or services from us, you agree to be bound by this policy. Please check back frequently, as this policy may change from time to time. 
 
@@ -14,9 +14,7 @@ _How we protect your information
 _
 
 To protect against the loss, misuse, and alteration of the information under our control we have implemented security measures at this website.   
-When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorized access. YesStyle.com will not share your personal information with third parties unless you have consented to the disclosure or the disclosure is necessary to: 
-
-(1) Comply with the law or with legal process, or with requests from law enforcement authorities;  
+When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorized access. YesStyle.com will not share your personal information with third parties unless you have consented to the disclosure or the disclosure is necessary to: (1) Comply with the law or with legal process, or with requests from law enforcement authorities;  
 (2) Protect and defend our rights and property;  
 (3) Protect our customers or users from misuse or unauthorized use of the YesStyle.com website; or   
 (4) Protect the personal safety or property of our customers or the public. 
@@ -24,8 +22,6 @@ When you place orders or access your account information, a secure server is emp
 YesStyle.com may share your personal information with other companies in our corporate group.  Also, if YesStyle.com is acquired by or merges with another company, YesStyle.com may transfer personal information to that company. In such an event, YesStyle.com will notify you before your personal data is transferred if this information would become subject to a materially different privacy policy. 
 
 YesStyle.com may provide aggregate statistics about our customers, sales, traffic patterns, and related website information to third parties, but these statistics will not include any personally identifying information. Put simply, while we will not tell our business partners that a particular individual bought a particular product, we may, for example, tell them how many customers within certain demographic groups bought certain products. 
-
-A website traffic and user behavior auditing system operated by NetRatings, Inc. is being used on this website. Please see [NetRatings' website](http://www.netratings.com/privacy.jsp?section=leg_scs) for information about NetRatings, the NetRatings auditing system, and NetRatings' privacy policy. The NetRatings system is not intended to collect personally identifiable information; however, from time to time such information may inadvertently be obtained by NetRatings. NetRatings has assured us that it will not use such personally identifiable information for any purpose (other than as part of aggregate data that is not personally identifiable) or share it with any other person or entity. 
 
 A website traffic and user behavior auditing system operated by Google Analytics is being used on this website. Please see [Google Analytics website](http://www.google.com/analytics/) for information about Google Analytics, the Google Analytics auditing system, and Google Analytics' [privacy policy](http://www.google.com/intl/en_ALL/privacy.html).
 
