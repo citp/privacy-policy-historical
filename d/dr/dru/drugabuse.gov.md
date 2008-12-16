@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622205329id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013229id_/http%3A//drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
@@ -62,7 +62,7 @@ Information collected online in the form of server logs, form submissions or e-m
 
 A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected. 
 
-The NIDA site is running a customer satisfaction survey that employs persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites. [More information is available on this use of persistent cookies](http://www.nih.gov/about/asci.htm).
+The NIDA site is running a customer satisfaction survey that employs persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites.
 
   
 
