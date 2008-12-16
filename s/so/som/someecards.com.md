@@ -1,89 +1,90 @@
-> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615012737id_/http%3A//www.someecards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151456id_/http%3A//www.someecards.com/privacy.html) for the most accurate reproduction.*
 
 # someecards.com | ecards for when you care enough to hit send | privacy policy
 
-At Someecards we believe information privacy is an important issue. Therefore, we have developed the following policy. This policy may be updated, revised and re-posted from time to time. This policy applies to site visitors who comply with the Someecards.com Terms of Service.
+At Someecards we believe information privacy is an important issue. Therefore, we have developed the following policy. This policy may be updated, revised and re-posted from time to time. This policy applies to all visitors to Someecards.com. By visiting Someecards, and any other linked pages, features, content, or application services offered from time to time by Someecards in connection therewith (collectively, the "Site"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
- **We are an Anti-SPAM site**  
-We do not share information on specific individuals with marketing companies. We are an anti-SPAM site. We will not promote the practice of unsolicited mailings of any kind.
+WE COLLECT INFORMATION, BUT WE RESPECT INDIVIDUAL PRIVACY   
+We collect certain personally identifiable information ("Personal Information") to facilitate card sends, card pickups, and the personalization of our Site. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about our products and services, including specials and new features. The types of Personal Information we may collect include: 
 
- **We collect information, but we respect individual privacy**  
-We do collect certain individual information to facilitate card sends, card pickups, and the personalization of our site.
+E-mail Addresses:   
+We do not use the e-mail address contained in an E-Card for direct marketing purposes nor do we compile e-mail addresses to build mailing lists to sell to or share with marketers. We do use these addresses to facilitate card delivery and to assist in card pickups. E-mail addresses are also used help protect a recipient's privacy right to know the identity of a card sender. When you receive e-mail from Someecards, you can opt out of receiving further e-mails by following the included instructions to unsubscribe. We have an opt-in e-mail newsletter/subscription. We only send this newsletter to e-mail addresses that have requested this e-mail delivery. We ask individuals to only sign themselves up for this posting. IP addresses and Information Shared with Card Recipients: Someecards is not intended as to be used as an anonymous mail service. Card senders share with card recipients certain information beyond the notes they include with their cards, including e-mail addresses and IP addresses. IP ADDRESSES OF CARD SENDERS ARE INCLUDED IN THE E-MAIL MESSAGE HEADER OF ALL CARDS TO PROTECT THE PRIVACY OF CARD RECIPIENTS AND TO PROTECT CARD RECIPIENTS FROM ANONYMOUS ABUSE OR HARASSMENT. Under certain circumstances, recipients, their legal representatives, and/ or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using the Site, you knowingly and voluntarily assume any risks associated with such disclosure. This is necessary to facilitate card delivery and to protect the privacy of card recipients. 
 
- _E-mail Addresses:_  
-We do not use the e-mail address contained in an E-Card for direct marketing purposes nor do we compile e-mail address to build mailing lists to sell to or share with marketers. We do use these addresses: to facilitate card delivery and to assist in card pickups. E-mail addresses are also used help protect a recipients' privacy right to know the identity of a card sender.
+Summary Demographics:   
+Demographic and profile data is also collected at our Site. We use this data to tailor a visitor's experience at our Site -- displaying content that might interest visitors, and displaying content according to visitor preferences. Generally, our Site automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show. Someecards only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Site so that we can make the Site appealing to as many customers as possible, and improve our services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Site or services. We share this type of statistical data so that our partners also understand how often people use the Site, so that they, too, may provide you with an optimal online experience. Again, Someecards never discloses aggregate information to a partner in a manner that would identify you personally. 
 
- _IP addresses and Info shared with Card Recipients_  
-Card senders share with card recipients certain information beyond their notes (for example: e-mail addresses, IP addresses...). This is a necessary to facilitate card delivery and to protect the privacy of card recipients. IP addresses of card senders are printed on cards to protect the privacy of card recipients and to protect card recipients from anonymous abuse or harassment. Someecards is not intended as to be used as an anonymous mail service.
+Cookies: 
 
- _Summary Demographics:_  
-We do share demographic "site summary information". Such summaries are compiled from individual information but do not include specifics on individuals. This information is gathered via cookies, card sends, surveys, newsletter signups, and personalization. These summaries highlight broad demographic trends on our site (for example: browsers used, geographic breakdowns...). This information is used to improve our site and business, it is also used to attract site advertisers and new business opportunities.
-
- _Cookies:_  
-Cookies may be set upon user's browsers during site visits, both by Someecards.com and its site advertisers. Our site uses cookies to track user sessions and to gather site usage statistics. We also use cookies to save your site customization preferences and to save user passwords so they don't have to be re-entered upon each site visit.
-
- _Subscriptions:_  
-Our site's subscription registration form requires users to give us their email address. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving mailings; see the choice/opt-out section below.
-
-Demographic and profile data is also collected at our site. We use this data to tailor a visitor's experience at our site -- displaying content that might interest visitors, and displaying content according to visitor preferences. This information is shared with advertisers only on an aggregate basis. We do have an opt-in e-mail newsletter/subscription. We only send this newsletter to e-mail addresses that have requested this e-mail delivery. We ask individuals to only sign themselves up for this posting.
-
- _Sites to which we Link:_  
-Someecards does contain advertising and content links to other sites. We do not police the privacy practices of these linked sites nor are we responsible for the privacy practices or the content of such Web sites. Individuals visiting these links should be attentive to the policies and practices of these sites and act with discretion.
-
- _Ad Serving Partners:_  
-We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-
-Someecards OFTEN WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE.
-
- **Under what conditions is you Someecards privacy relinquished?** Someecards may release individual information to legal, corporate or internet authorities if there is reasonable suspicion that an individual has not complied with our Terms of Service. Examples of such non-compliance includes the use of our card system for harassment, SPAM, profanity, pornographic dissemination or illegal activity.
-
-We do not disclose any information that could be used to identify you personally. For example, we may tell our business partners how many customers in certain demographic groups sent certain ecards.
-
-Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:
-
-To comply with legal process such as a search warrant, subpoena or court order;
-
-To protect the company's rights and property;
-
-To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-
-To protect against misuse or unauthorized use of our website and/ or the Someecards.com service;
-
-During emergencies, such as when we believe someone's physical safety is at risk.
-
-Your Internet Protocol (IP) address can be accessed by recipients in the source of the ecard HTML. Under certain circumstances, recipients, their legal representatives, and/ or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure
-
- **What visitor information is collected upon an Someecards.com visit?**
-
-Cookie Markers
-
- _Why? How is this used?_
-
-Unique visitor counts, User preference settings
-
- **What information is collected during a Someecards send?**
-
-Your name and e-mail address, Recipient names and email addresses, card note, Sender's IP address, browser type.
-
- _Why? How is this used?_
-
-Card delivery, Site support, Broad demographic reports, recipient privacy, Card pick up assistance.
-
- _How can I review, edit or delete this information?_
-
-An opportunity for editing is provided after a "card build" and before a site send.
-
- **What information is collected during a Someecards pickup?**
-
-IP of Pickup person
-
- _Why? How is this used?_
-
-Site support, Broad demographic reports, Recipient privacy, Card pick up assistance
-
-Questions and Comments  
-If you have any questions, comments or suggestions regarding our website's privacy policy, or regarding any other aspects of our websites, go to: <http://www.someecards.com/contact.html>  
+  * Cookies may be set upon users' browsers during Site visits, both by Someecards.com and its advertisers. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Our Site may use cookies to track user sessions and to gather Site usage statistics. We also may use cookies to save your Site customization preferences and to save user passwords so they don't have to be re-entered upon each site visit. 
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies may enable you to take advantage of some of our Site's most attractive features. 
+  * Ads appearing on the Site may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Someecards and does not cover the use of cookies by any advertisers. 
 
 
-Notification of Changes  
-If we decide to change the Privacy Policy, the changes will be posted at: <http://www.someecards.com/privacy.html>
+
+Subscriptions:  
+Our Site may permit you to register as a subscriber. If so, the subscription registration form requires users to give us their email address. Users may opt-out of receiving mailings. If you register with Someecards, your user profile information including your user name, email address, and other information you enter may be displayed to other users to facilitate user interaction within the Site. Registered users' e-mail addresses will not be directly revealed to other users by Someecards, except, when a user has chosen to include their email address in their User Profile. If you register with Someecards, your Someecards account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. 
+
+Billing Information:   
+We or our partners may also collect billing information, such as billing name and address and credit card number, if you make purchases on the Site. 
+
+Correspondence:   
+If you send Someecards correspondence, via e-mail, fax, or regular mail, or if other users or third parties such as businesses send us correspondence about your activities in connection with your use of the Site, Someecards may retain that information. 
+
+Someecards does not collect Personal Information from children under the age of 13. If you believe that a child has provided Someecards with Personal Information without the consent of his or her parent or guardian, please contact us at feedback@someecards.com. If Someecards becomes aware that a child under age 13 has provided us with Personal Information, we will delete such information.You should also be aware that if you submit information to "chat rooms," "forums" or "message boards" such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications. SITES TO WHICH WE LINK  
+Someecards does contain advertising and content links to other sites. We do not police the privacy practices of these linked sites nor are we responsible for the privacy practices or the content of such Web sites. Individuals visiting these links should be attentive to the policies and practices of these sites and act with discretion. 
+
+UNDER WHAT CONDITIONS IS YOUR SOMEECARDS PRIVACY RELINQUISHED?   
+Someecards may disclose your Personal Information to our agents, as well as some third party suppliers and service providers to directly or indirectly provide you with services or information, and we may need to share your Personal Information with them in order to permit them to provide such services or information. If you make purchases on the Site, you or we may disclose your credit card information to financial institutions involved with the processing of your credit card transactions solely to facilitate your payments and/or credits related to your purchases. We require all such third parties to whom you or we disclose your Personal Information to adhere to the restrictions in this Privacy Policy, to keep your Personal Information confidential, and to use your Personal Information only to provide you with the information and/or services you request. 
+
+Someecards may release Personal Information to legal, corporate or internet authorities if there is reasonable suspicion that an individual has not complied with our Terms of Service. Examples of such non-compliance include the use of our card system for harassment, SPAM, profanity, pornographic dissemination or illegal activity. We may release your Personal Information to comply with legal process such as a search warrant, subpoena or court order; to protect the company's rights and property; to investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; to protect against misuse or unauthorized use of our website and/ or the Someecards.com service; or during emergencies, such as when we believe someone's physical safety is at risk. 
+
+Additionally, we employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Someecards' agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. Additionally, we may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to feedback@someecards.com. In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Someecards, or substantially all of its assets were acquired, or in the unlikely event that Someecards goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Someecards may continue to use your Personal Information as set forth in this policy. 
+
+WHAT PERSONAL INFORMATION CAN I ACCESS?  
+Someecards allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Site changes. 
+
+  * Real name 
+  * Account and user profile information 
+  * User e-mail address 
+  * Username and password 
+  * User preferences 
+
+
+
+WHAT CHOICES DO I HAVE?  
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Site and services. You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. You may request deletion of your Someecards account by sending an e-mail to feedback@someecards.com. Please note that some information may remain in our records after deletion of your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
+
+SECURITY 
+
+Information collected by Someecards is stored in secure operating environments that are not made generally available to the public. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Someecards cannot ensure the security of any information you provide, and you do so at your own risk. Once Someecards receives your transmission, it will make reasonable efforts to ensure its security on its systems, and will restrict access to your personally identifying information to employees who require that information, at all time complying with this Policy. 
+
+SUMMARY 
+
+What visitor information is collected upon a Someecards.com visit? Cookie Markers, Unique visitor counts, User preference settings. 
+
+What information is collected during a Someecards send? 
+
+Sender's name and e-mail address, Recipient's name and e-mail address, card note, Sender's IP address, browser type. 
+
+How is this used? 
+
+Card delivery, Site support, demographic reports, recipient privacy, Card pick up assistance. 
+
+How can I review, edit or delete this information? 
+
+An opportunity for editing is provided after a "card build" and before a site send. 
+
+What information is collected during a Someecards pickup?  
+IP of Pickup person 
+
+Why? How is this used?  
+Site support, demographic reports, recipient privacy, card pick up assistance. 
+
+QUESTIONS AND COMMENTS  
+If you have any questions, comments or suggestions regarding our website's privacy policy, or regarding any other aspects of our websites, go to: <http://www.someecards.com/contact.html>
+
+NOTIFICATION OF CHANGES  
+Someecards may amend this Privacy Policy from time to time. If we decide to change the Privacy Policy, the changes will be posted at: <http://www.someecards.com/privacy.html>. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Site after such changes have been first posted. 
+
+Last Updated: June25, 2008  
+someecards, inc. P.O. Box 695 New York, NY 10159 
